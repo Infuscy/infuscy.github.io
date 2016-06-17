@@ -61,7 +61,7 @@
 	<!-- -->
 	  
 	  <script type='text/javascript' src="dmloader.js"></script>
-	  <script type='text/javascript' src="dmengine_release.js" async onload=""></script>
+	  <script type='text/javascript' src="Tappy Plane.js" async onload=""></script>
 	<!-- -->
 
 	<script type='text/javascript'>
@@ -69,7 +69,8 @@
 			archive_location_filter: function( path ) {
 				return ("archive" + path + "");
 			},
-			splash_image: "splash_image.png"
+			splash_image: "splash_image.png",
+			custom_heap_size: 268435456
 		}
 
         Module.runApp("canvas", extra_params);

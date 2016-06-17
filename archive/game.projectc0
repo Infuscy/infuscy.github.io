@@ -21,8 +21,24 @@ debug = 0
 shared_state = 1
 
 [particle_fx]
-max_particle_count = 2048
+max_particle_count = 128
+max_count = 8
 
 [tracking]
 app_id = DE8CB34CDD64ADD1
+
+[html5]
+include_dev_tool = 0
+set_custom_heap_size = 1
+custom_heap_size = 67108864
+splash_image = 
+
+[factory]
+max_count = 64
+
+[collectionfactory]
+max_count = 64
+
+[collection]
+max_instances = 64
 

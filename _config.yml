@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Febuse 2016
+  copyright: Febuse
   location: Location
   social: Around the Web
   credits: Credits
@@ -51,11 +51,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 #address:
-#  - line: 3481 Melrose Place
-#  - line: Beverly Hills, CA 90210
+  - line: Secret ;)
 
 # Credits content
-credits: 'Defold is a free to use, game engine created by <a href="http://defold.com/">Defold</a>. All games use the following <a href="http://defold.com/about-privacy/">Privacy Policy</a>.'
+credits: 'All games belong to this site and its owner. <a href="http://defold.com/">Defold</a> is a free to use, game engine. All games use the following <a href="http://defold.com/about-privacy/">Privacy Policy</a>.'
 
 # Build settings
 markdown: kramdown

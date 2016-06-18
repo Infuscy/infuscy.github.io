@@ -1,0 +1,62 @@
+# Site settings
+title: Febuse Games and Stuff
+email: contact@febuse.com
+url: https://infuscy.github.io
+description: "Play now games made with tough love and addiction. Leave your worries at the door and come in. 100% free, 100% of the time. Games are made with Defold."
+skills: "100% Free - 100% Fun - 100% Addicting"
+meta_author: Buse Florin-Emilian
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Febuse 2016
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/xfebuse
+  - title: facebook
+    url: https://www.facebook.com/florin.emilian.buse
+  - title: linkedin
+    url: https://ro.linkedin.com/in/febuse
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  #- title: github
+  #  url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+#address:
+#  - line: 3481 Melrose Place
+#  - line: Beverly Hills, CA 90210
+
+# Credits content
+credits: 'Defold is a free to use, game engine created by <a href="http://defold.com/">Defold</a>. All games use the following <a href="http://defold.com/about-privacy/">Privacy Policy</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

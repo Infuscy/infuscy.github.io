@@ -7,6 +7,5 @@ alt: image-alt
 project-date: July 2016
 client: Testing HTML5 export
 category: Game Development
-description: HTML5 exports:<br> <a href="https://infuscy.github.io/DefoldExport/">Defold</a>  |  <a href="https://infuscy.github.io/export/">Unity</a>  |  <a href="https://infuscy.github.io/GMExport/">GameMaker Studio</a><br>Rankings (load speed and size): GM:S < Defold < Unity
-
+description: HTML5 exports:<br> <a href="https://infuscy.github.io/DefoldExport/">Defold</a>  |  <a href="https://infuscy.github.io/export/">Unity</a>  |  <a href="https://infuscy.github.io/GMExport/">GameMaker Studio</a>
 ---

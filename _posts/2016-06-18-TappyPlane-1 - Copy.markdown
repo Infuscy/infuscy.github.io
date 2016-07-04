@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2016-06-18
-img: tappyplane.png
+img: bishopchess.png
 alt: image-alt
 project-date: May 2016
 client: Test Run of Defold

@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2016-07-04
 img: bishopchess.png
 alt: image-alt
 project-date: July 2016
 client: Testing HTML5 export
 category: Game Development
-description: I'm trying to decide on what game engine would provide the best HTML5 export. So I've exported a project using different game engines: <a href="https://infuscy.github.io/DefoldExport/">Defold</a>    <a href="https://infuscy.github.io/export/">Unity</a>    <a href="https://infuscy.github.io/GMExport/">GameMaker Studio</a>
+description: test
 
 ---

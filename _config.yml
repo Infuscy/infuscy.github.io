@@ -54,7 +54,7 @@ address:
   - line: Secret ;)
 
 # Credits content
-credits: 'All games belong to this site and its owner. <a href="http://defold.com/">Defold</a> is a free to use, game engine. All games use the following <a href="http://defold.com/about-privacy/">Privacy Policy</a>.'
+credits: 'All games belong to this site and its owner. <br><a href="http://defold.com/">Defold</a> is a free to use, game engine. <br>All games use the following <a href="http://defold.com/about-privacy/">Privacy Policy</a>.'
 
 # Build settings
 markdown: kramdown

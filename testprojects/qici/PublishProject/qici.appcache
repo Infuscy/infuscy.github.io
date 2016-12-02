@@ -1,0 +1,16 @@
+CACHE MANIFEST
+#VERSION 20161202174049
+Assets/meta/globalUrlMap.js
+Assets/css/style.css
+http://engine.zuoyouxi.com/lib/1.1.7/phaser.min.js
+http://engine.zuoyouxi.com/lib/1.1.7/webfontloader.js
+http://engine.zuoyouxi.com/lib/1.1.7/qc-core.js
+http://engine.zuoyouxi.com/lib/1.1.7/qc-loading.js
+http://engine.zuoyouxi.com/lib/qc-webgl.js
+
+js/game-scripts-mini-1.0.js
+Assets/scene/mainScene.bin
+Assets/sprite/sprite0.bin
+
+NETWORK:
+*

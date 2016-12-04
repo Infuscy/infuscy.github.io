@@ -9,8 +9,8 @@ main_collection = /main/main.collectionc
 game_binding = /input/game.input_bindingc
 
 [display]
-width = 1280
-height = 720
+width = 720
+height = 1280
 variable_dt = 1
 high_dpi = 1
 

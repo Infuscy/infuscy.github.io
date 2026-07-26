@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 2
+date: 2026-06-01
+title: "Bacalaureat 2026"
+img: bac2026.png
+alt: Bacalaureat 2026 - Radiografia rezultatelor
+project-date: 2026
+client: Radiografia rezultatelor
+category: Investigatie de date
+description: |
+  <p>Radiografia rezultatelor Bacalaureatului 2026. Aceeasi metoda de analiza ca pentru 2025, pentru comparabilitate directa.</p>
+  <p>Harte pe judete, distributii de note, outlieri si explorare SQL live a datelor.</p>
+  <a class="btn btn-primary" href="/bac2026/" target="_blank" rel="noopener">
+    <i class="fa fa-bar-chart"></i> Deschide raportul &rarr;
+  </a>
+---

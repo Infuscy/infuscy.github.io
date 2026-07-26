@@ -1,0 +1,6558 @@
+{
+  "meta": {
+    "source": "data/bac2026_final.parquet",
+    "generated_by": "analyze/stats.py",
+    "total_rows": 130709,
+    "digest_sha256": "938ba866fcdf2015b7e895e2c460b0143462e13d743a2f9cd77a2b85777cead6"
+  },
+  "overview": {
+    "total_candidates": 130709,
+    "result_counts": {
+      "REUSIT": 96976,
+      "RESPINS": 29001,
+      "NEPREZENTAT": 4662,
+      "ELIMINAT DIN EXAMEN": 70
+    },
+    "presented": 125977,
+    "national_pass_rate": 76.98,
+    "presented_rate": 96.38,
+    "elimination_rate": 0.05
+  },
+  "grade_distribution": {
+    "romana_final": {
+      "n": 130709,
+      "mean": 6.97,
+      "median": 7.15,
+      "std": 2.1,
+      "min": -2.0,
+      "max": 10.0,
+      "mode": 5.0,
+      "exact_10": 498,
+      "histogram": [
+        {
+          "bucket": "1.00-1.50",
+          "count": 2340
+        },
+        {
+          "bucket": "1.50-2.00",
+          "count": 195
+        },
+        {
+          "bucket": "2.00-2.50",
+          "count": 431
+        },
+        {
+          "bucket": "2.50-3.00",
+          "count": 763
+        },
+        {
+          "bucket": "3.00-3.50",
+          "count": 1347
+        },
+        {
+          "bucket": "3.50-4.00",
+          "count": 2369
+        },
+        {
+          "bucket": "4.00-4.50",
+          "count": 3058
+        },
+        {
+          "bucket": "4.50-5.00",
+          "count": 3799
+        },
+        {
+          "bucket": "5.00-5.50",
+          "count": 13804
+        },
+        {
+          "bucket": "5.50-6.00",
+          "count": 12205
+        },
+        {
+          "bucket": "6.00-6.50",
+          "count": 11900
+        },
+        {
+          "bucket": "6.50-7.00",
+          "count": 9807
+        },
+        {
+          "bucket": "7.00-7.50",
+          "count": 9048
+        },
+        {
+          "bucket": "7.50-8.00",
+          "count": 9844
+        },
+        {
+          "bucket": "8.00-8.50",
+          "count": 12028
+        },
+        {
+          "bucket": "8.50-9.00",
+          "count": 13899
+        },
+        {
+          "bucket": "9.00-9.50",
+          "count": 14564
+        },
+        {
+          "bucket": "9.50-10.00",
+          "count": 9308
+        }
+      ]
+    },
+    "materna_final": {
+      "n": 6856,
+      "mean": 7.58,
+      "median": 7.75,
+      "std": 1.54,
+      "min": -2.0,
+      "max": 10.0,
+      "mode": 8.7,
+      "exact_10": 37,
+      "histogram": [
+        {
+          "bucket": "1.00-1.50",
+          "count": 37
+        },
+        {
+          "bucket": "1.50-2.00",
+          "count": 2
+        },
+        {
+          "bucket": "2.00-2.50",
+          "count": 4
+        },
+        {
+          "bucket": "2.50-3.00",
+          "count": 6
+        },
+        {
+          "bucket": "3.00-3.50",
+          "count": 11
+        },
+        {
+          "bucket": "3.50-4.00",
+          "count": 38
+        },
+        {
+          "bucket": "4.00-4.50",
+          "count": 53
+        },
+        {
+          "bucket": "4.50-5.00",
+          "count": 50
+        },
+        {
+          "bucket": "5.00-5.50",
+          "count": 316
+        },
+        {
+          "bucket": "5.50-6.00",
+          "count": 410
+        },
+        {
+          "bucket": "6.00-6.50",
+          "count": 565
+        },
+        {
+          "bucket": "6.50-7.00",
+          "count": 698
+        },
+        {
+          "bucket": "7.00-7.50",
+          "count": 794
+        },
+        {
+          "bucket": "7.50-8.00",
+          "count": 813
+        },
+        {
+          "bucket": "8.00-8.50",
+          "count": 878
+        },
+        {
+          "bucket": "8.50-9.00",
+          "count": 883
+        },
+        {
+          "bucket": "9.00-9.50",
+          "count": 827
+        },
+        {
+          "bucket": "9.50-10.00",
+          "count": 471
+        }
+      ]
+    },
+    "profil_final": {
+      "n": 130709,
+      "mean": 6.98,
+      "median": 7.5,
+      "std": 2.51,
+      "min": -2.0,
+      "max": 10.0,
+      "mode": 10.0,
+      "exact_10": 3843,
+      "histogram": [
+        {
+          "bucket": "1.00-1.50",
+          "count": 5294
+        },
+        {
+          "bucket": "1.50-2.00",
+          "count": 998
+        },
+        {
+          "bucket": "2.00-2.50",
+          "count": 1062
+        },
+        {
+          "bucket": "2.50-3.00",
+          "count": 1335
+        },
+        {
+          "bucket": "3.00-3.50",
+          "count": 1938
+        },
+        {
+          "bucket": "3.50-4.00",
+          "count": 2712
+        },
+        {
+          "bucket": "4.00-4.50",
+          "count": 3034
+        },
+        {
+          "bucket": "4.50-5.00",
+          "count": 2828
+        },
+        {
+          "bucket": "5.00-5.50",
+          "count": 10601
+        },
+        {
+          "bucket": "5.50-6.00",
+          "count": 8346
+        },
+        {
+          "bucket": "6.00-6.50",
+          "count": 8433
+        },
+        {
+          "bucket": "6.50-7.00",
+          "count": 8840
+        },
+        {
+          "bucket": "7.00-7.50",
+          "count": 9775
+        },
+        {
+          "bucket": "7.50-8.00",
+          "count": 10393
+        },
+        {
+          "bucket": "8.00-8.50",
+          "count": 11471
+        },
+        {
+          "bucket": "8.50-9.00",
+          "count": 12398
+        },
+        {
+          "bucket": "9.00-9.50",
+          "count": 13890
+        },
+        {
+          "bucket": "9.50-10.00",
+          "count": 17361
+        }
+      ]
+    },
+    "alegere_final": {
+      "n": 130709,
+      "mean": 7.39,
+      "median": 8.1,
+      "std": 2.44,
+      "min": -2.0,
+      "max": 10.0,
+      "mode": 10.0,
+      "exact_10": 3350,
+      "histogram": [
+        {
+          "bucket": "1.00-1.50",
+          "count": 3305
+        },
+        {
+          "bucket": "1.50-2.00",
+          "count": 1048
+        },
+        {
+          "bucket": "2.00-2.50",
+          "count": 1765
+        },
+        {
+          "bucket": "2.50-3.00",
+          "count": 1813
+        },
+        {
+          "bucket": "3.00-3.50",
+          "count": 1904
+        },
+        {
+          "bucket": "3.50-4.00",
+          "count": 2239
+        },
+        {
+          "bucket": "4.00-4.50",
+          "count": 2232
+        },
+        {
+          "bucket": "4.50-5.00",
+          "count": 2303
+        },
+        {
+          "bucket": "5.00-5.50",
+          "count": 5685
+        },
+        {
+          "bucket": "5.50-6.00",
+          "count": 5588
+        },
+        {
+          "bucket": "6.00-6.50",
+          "count": 7087
+        },
+        {
+          "bucket": "6.50-7.00",
+          "count": 7851
+        },
+        {
+          "bucket": "7.00-7.50",
+          "count": 9290
+        },
+        {
+          "bucket": "7.50-8.00",
+          "count": 10413
+        },
+        {
+          "bucket": "8.00-8.50",
+          "count": 12520
+        },
+        {
+          "bucket": "8.50-9.00",
+          "count": 15072
+        },
+        {
+          "bucket": "9.00-9.50",
+          "count": 18745
+        },
+        {
+          "bucket": "9.50-10.00",
+          "count": 21849
+        }
+      ]
+    },
+    "media": {
+      "n": 125977,
+      "mean": 7.35,
+      "median": 7.63,
+      "std": 1.74,
+      "min": 1.0,
+      "max": 10.0,
+      "mode": 9.15,
+      "exact_10": 69,
+      "histogram": [
+        {
+          "bucket": "1.00-1.50",
+          "count": 57
+        },
+        {
+          "bucket": "1.50-2.00",
+          "count": 345
+        },
+        {
+          "bucket": "2.00-2.50",
+          "count": 741
+        },
+        {
+          "bucket": "2.50-3.00",
+          "count": 985
+        },
+        {
+          "bucket": "3.00-3.50",
+          "count": 1534
+        },
+        {
+          "bucket": "3.50-4.00",
+          "count": 2128
+        },
+        {
+          "bucket": "4.00-4.50",
+          "count": 2949
+        },
+        {
+          "bucket": "4.50-5.00",
+          "count": 4089
+        },
+        {
+          "bucket": "5.00-5.50",
+          "count": 6177
+        },
+        {
+          "bucket": "5.50-6.00",
+          "count": 7962
+        },
+        {
+          "bucket": "6.00-6.50",
+          "count": 11435
+        },
+        {
+          "bucket": "6.50-7.00",
+          "count": 10410
+        },
+        {
+          "bucket": "7.00-7.50",
+          "count": 11006
+        },
+        {
+          "bucket": "7.50-8.00",
+          "count": 11493
+        },
+        {
+          "bucket": "8.00-8.50",
+          "count": 13523
+        },
+        {
+          "bucket": "8.50-9.00",
+          "count": 14932
+        },
+        {
+          "bucket": "9.00-9.50",
+          "count": 16704
+        },
+        {
+          "bucket": "9.50-10.00",
+          "count": 9507
+        }
+      ]
+    }
+  },
+  "percentiles": {
+    "col": "media",
+    "n": 125977,
+    "p10": 4.97,
+    "p25": 6.17,
+    "p50": 7.63,
+    "p75": 8.81,
+    "p90": 9.4,
+    "p95": 9.6,
+    "p99": 9.83,
+    "iqr": 2.64
+  },
+  "competente": {
+    "competente_digitale": {
+      "distinct": 6,
+      "missing": 17136,
+      "levels": {
+        "Utilizator nivel mediu": 37192,
+        "Utilizator incepator": 27089,
+        "Utilizator avansat": 24471,
+        "Utilizator experimentat": 23938,
+        "Neprezentat": 879,
+        "Eliminat": 4
+      },
+      "cross_tab_success": [
+        {
+          "level": "Utilizator experimentat",
+          "presented": 23675,
+          "passed": 21787,
+          "reusit_share": 92.03
+        },
+        {
+          "level": "Utilizator avansat",
+          "presented": 23990,
+          "passed": 20163,
+          "reusit_share": 84.05
+        },
+        {
+          "level": "Utilizator nivel mediu",
+          "presented": 36101,
+          "passed": 26165,
+          "reusit_share": 72.48
+        },
+        {
+          "level": "Utilizator incepator",
+          "presented": 25176,
+          "passed": 12550,
+          "reusit_share": 49.85
+        }
+      ],
+      "chi_square_vs_success": {
+        "chi2": 12946.66,
+        "p_value": 0.0,
+        "dof": 3,
+        "levels_compared": 4
+      }
+    },
+    "romana_competente": {
+      "distinct": 5,
+      "missing": 52,
+      "levels": {
+        "Utilizator experimentat": 92037,
+        "Utilizator avansat": 25610,
+        "Utilizator nivel mediu": 12413,
+        "Neprezentat": 593,
+        "Eliminat": 4
+      },
+      "cross_tab_success": [
+        {
+          "level": "Utilizator experimentat",
+          "presented": 91020,
+          "passed": 80439,
+          "reusit_share": 88.38
+        },
+        {
+          "level": "Utilizator avansat",
+          "presented": 24102,
+          "passed": 12903,
+          "reusit_share": 53.53
+        },
+        {
+          "level": "Utilizator nivel mediu",
+          "presented": 10810,
+          "passed": 3621,
+          "reusit_share": 33.5
+        }
+      ],
+      "chi_square_vs_success": {
+        "chi2": 25692.38,
+        "p_value": 0.0,
+        "dof": 2,
+        "levels_compared": 3
+      }
+    },
+    "materna_competente": {
+      "distinct": 9,
+      "missing": 123853,
+      "levels": {
+        "LIMBA MAGHIARA (REAL)": 4488,
+        "LIMBA MAGHIARA (UMAN)": 1358,
+        "LIMBA GERMANA": 868,
+        "LIMBA UCRAINEANA": 85,
+        "LIMBA SLOVACA": 27,
+        "LIMBA CROATA": 10,
+        "LIMBA SARBA": 10,
+        "LIMBA TURCA": 9,
+        "LIMBA ITALIANA": 1
+      },
+      "cross_tab_success": [
+        {
+          "level": "LIMBA GERMANA",
+          "presented": 865,
+          "passed": 814,
+          "reusit_share": 94.1
+        },
+        {
+          "level": "LIMBA SARBA",
+          "presented": 9,
+          "passed": 8,
+          "reusit_share": 88.89
+        },
+        {
+          "level": "LIMBA MAGHIARA (UMAN)",
+          "presented": 1343,
+          "passed": 1157,
+          "reusit_share": 86.15
+        },
+        {
+          "level": "LIMBA SLOVACA",
+          "presented": 26,
+          "passed": 20,
+          "reusit_share": 76.92
+        },
+        {
+          "level": "LIMBA MAGHIARA (REAL)",
+          "presented": 4408,
+          "passed": 3286,
+          "reusit_share": 74.55
+        },
+        {
+          "level": "LIMBA UCRAINEANA",
+          "presented": 81,
+          "passed": 49,
+          "reusit_share": 60.49
+        },
+        {
+          "level": "LIMBA CROATA",
+          "presented": 9,
+          "passed": 5,
+          "reusit_share": 55.56
+        },
+        {
+          "level": "LIMBA TURCA",
+          "presented": 6,
+          "passed": 1,
+          "reusit_share": 16.67
+        },
+        {
+          "level": "LIMBA ITALIANA",
+          "presented": 1,
+          "passed": 0,
+          "reusit_share": 0.0
+        }
+      ],
+      "chi_square_vs_success": {
+        "chi2": 231.41,
+        "p_value": 0.0,
+        "dof": 3,
+        "levels_compared": 4
+      }
+    }
+  },
+  "repeaters_vs_first": {
+    "repeaters": {
+      "pass_rate": 35.15,
+      "n": 12727,
+      "avg_media": 5.6
+    },
+    "first_time": {
+      "pass_rate": 81.68,
+      "n": 113250,
+      "avg_media": 7.55
+    },
+    "pass_rate_gap_pp": 46.53,
+    "media_welch_t": -185.19,
+    "media_welch_p": 0.0,
+    "per_subject_media_gap_rep_minus_first": {
+      "romana_final": -2.07,
+      "materna_final": -1.39,
+      "profil_final": -2.65,
+      "alegere_final": -2.27
+    }
+  },
+  "forma_invatamant": {
+    "ZI": {
+      "n": 127951,
+      "pass_rate": 77.71,
+      "avg_media": 7.39,
+      "neprezentat_rate": 3.14
+    },
+    "SERAL": {
+      "n": 1567,
+      "pass_rate": 30.97,
+      "avg_media": 5.13,
+      "neprezentat_rate": 27.5
+    },
+    "FRECVENTA REDUSA": {
+      "n": 1191,
+      "pass_rate": 37.67,
+      "avg_media": 5.65,
+      "neprezentat_rate": 17.88
+    },
+    "zi_vs_seral_media_welch": {
+      "t": 47.08,
+      "p": 0.0
+    }
+  },
+  "limba_moderna": {
+    "LIMBA ENGLEZA": {
+      "n": 125882,
+      "presented": 121347,
+      "passed": 93423,
+      "rejected": 27924,
+      "notpresented": 4468,
+      "eliminated": 67,
+      "pass_rate": 76.99,
+      "pass_rate_ci95": [
+        76.75,
+        77.22
+      ],
+      "avg_media": 7.35,
+      "median_media": 7.63,
+      "std_media": 1.74,
+      "tens": 63,
+      "tens_rate": 0.05,
+      "avg_media_ci95": [
+        7.34,
+        7.36
+      ],
+      "avg_romana_final": 7.16,
+      "std_romana_final": 1.73,
+      "avg_materna_final": 7.62,
+      "std_materna_final": 1.37,
+      "avg_profil_final": 7.23,
+      "std_profil_final": 2.07,
+      "avg_alegere_final": 7.65,
+      "std_alegere_final": 1.96
+    },
+    "LIMBA FRANCEZA": {
+      "n": 3405,
+      "presented": 3233,
+      "passed": 2303,
+      "rejected": 930,
+      "notpresented": 170,
+      "eliminated": 2,
+      "pass_rate": 71.23,
+      "pass_rate_ci95": [
+        69.65,
+        72.77
+      ],
+      "avg_media": 7.14,
+      "median_media": 7.3,
+      "std_media": 1.87,
+      "tens": 3,
+      "tens_rate": 0.09,
+      "avg_media_ci95": [
+        7.07,
+        7.21
+      ],
+      "avg_romana_final": 7.02,
+      "std_romana_final": 1.85,
+      "avg_materna_final": 8.76,
+      "std_materna_final": 0.83,
+      "avg_profil_final": 6.95,
+      "std_profil_final": 2.22,
+      "avg_alegere_final": 7.47,
+      "std_alegere_final": 2.09
+    },
+    "LIMBA GERMANA MODERNA": {
+      "n": 917,
+      "presented": 901,
+      "passed": 811,
+      "rejected": 90,
+      "notpresented": 16,
+      "eliminated": 0,
+      "pass_rate": 90.01,
+      "pass_rate_ci95": [
+        87.88,
+        91.8
+      ],
+      "avg_media": 8.32,
+      "median_media": 8.73,
+      "std_media": 1.38,
+      "tens": 3,
+      "tens_rate": 0.33,
+      "avg_media_ci95": [
+        8.22,
+        8.41
+      ],
+      "avg_romana_final": 8.1,
+      "std_romana_final": 1.56,
+      "avg_materna_final": 8.17,
+      "std_materna_final": 1.22,
+      "avg_profil_final": 8.22,
+      "std_profil_final": 1.66,
+      "avg_alegere_final": 8.54,
+      "std_alegere_final": 1.54
+    },
+    "LIMBA PORTUGHEZA": {
+      "n": 11,
+      "presented": 11,
+      "passed": 11,
+      "rejected": 0,
+      "notpresented": 0,
+      "eliminated": 0,
+      "pass_rate": 100.0,
+      "pass_rate_ci95": [
+        74.12,
+        100.0
+      ],
+      "avg_media": 9.03,
+      "median_media": 9.26,
+      "std_media": 0.61,
+      "tens": 0,
+      "tens_rate": 0.0,
+      "avg_media_ci95": null,
+      "avg_romana_final": 8.99,
+      "std_romana_final": 0.85,
+      "avg_materna_final": null,
+      "std_materna_final": null,
+      "avg_profil_final": 8.9,
+      "std_profil_final": 0.93,
+      "avg_alegere_final": 9.21,
+      "std_alegere_final": 0.67,
+      "low_confidence": "n<30"
+    },
+    "LIMBA SPANIOLA": {
+      "n": 242,
+      "presented": 239,
+      "passed": 225,
+      "rejected": 14,
+      "notpresented": 3,
+      "eliminated": 0,
+      "pass_rate": 94.14,
+      "pass_rate_ci95": [
+        90.41,
+        96.48
+      ],
+      "avg_media": 8.34,
+      "median_media": 8.7,
+      "std_media": 1.16,
+      "tens": 0,
+      "tens_rate": 0.0,
+      "avg_media_ci95": [
+        8.21,
+        8.48
+      ],
+      "avg_romana_final": 7.92,
+      "std_romana_final": 1.42,
+      "avg_materna_final": null,
+      "std_materna_final": null,
+      "avg_profil_final": 8.45,
+      "std_profil_final": 1.39,
+      "avg_alegere_final": 8.67,
+      "std_alegere_final": 1.16
+    },
+    "LIMBA RUSA": {
+      "n": 53,
+      "presented": 51,
+      "passed": 36,
+      "rejected": 15,
+      "notpresented": 2,
+      "eliminated": 0,
+      "pass_rate": 70.59,
+      "pass_rate_ci95": [
+        57.0,
+        81.29
+      ],
+      "avg_media": 6.82,
+      "median_media": 6.76,
+      "std_media": 1.47,
+      "tens": 0,
+      "tens_rate": 0.0,
+      "avg_media_ci95": [
+        6.45,
+        7.22
+      ],
+      "avg_romana_final": 6.2,
+      "std_romana_final": 1.64,
+      "avg_materna_final": 6.99,
+      "std_materna_final": 0.86,
+      "avg_profil_final": 6.81,
+      "std_profil_final": 2.1,
+      "avg_alegere_final": 7.16,
+      "std_alegere_final": 1.82
+    },
+    "LIMBA EBRAICA": {
+      "n": 6,
+      "presented": 6,
+      "passed": 6,
+      "rejected": 0,
+      "notpresented": 0,
+      "eliminated": 0,
+      "pass_rate": 100.0,
+      "pass_rate_ci95": [
+        60.97,
+        100.0
+      ],
+      "avg_media": 9.53,
+      "median_media": 9.55,
+      "std_media": 0.25,
+      "tens": 0,
+      "tens_rate": 0.0,
+      "avg_media_ci95": null,
+      "avg_romana_final": 9.42,
+      "std_romana_final": 0.45,
+      "avg_materna_final": null,
+      "std_materna_final": null,
+      "avg_profil_final": 9.75,
+      "std_profil_final": 0.22,
+      "avg_alegere_final": 9.43,
+      "std_alegere_final": 0.5,
+      "low_confidence": "n<30"
+    },
+    "LIMBA ITALIANA": {
+      "n": 186,
+      "presented": 182,
+      "passed": 154,
+      "rejected": 28,
+      "notpresented": 3,
+      "eliminated": 1,
+      "pass_rate": 84.62,
+      "pass_rate_ci95": [
+        78.66,
+        89.14
+      ],
+      "avg_media": 7.61,
+      "median_media": 7.89,
+      "std_media": 1.42,
+      "tens": 0,
+      "tens_rate": 0.0,
+      "avg_media_ci95": [
+        7.41,
+        7.82
+      ],
+      "avg_romana_final": 7.35,
+      "std_romana_final": 1.43,
+      "avg_materna_final": 7.85,
+      "std_materna_final": 1.35,
+      "avg_profil_final": 7.64,
+      "std_profil_final": 1.72,
+      "avg_alegere_final": 7.83,
+      "std_alegere_final": 1.73
+    },
+    "LIMBA JAPONEZA": {
+      "n": 6,
+      "presented": 6,
+      "passed": 6,
+      "rejected": 0,
+      "notpresented": 0,
+      "eliminated": 0,
+      "pass_rate": 100.0,
+      "pass_rate_ci95": [
+        60.97,
+        100.0
+      ],
+      "avg_media": 9.23,
+      "median_media": 9.27,
+      "std_media": 0.27,
+      "tens": 0,
+      "tens_rate": 0.0,
+      "avg_media_ci95": null,
+      "avg_romana_final": 9.23,
+      "std_romana_final": 0.29,
+      "avg_materna_final": null,
+      "std_materna_final": null,
+      "avg_profil_final": 9.2,
+      "std_profil_final": 0.38,
+      "avg_alegere_final": 9.27,
+      "std_alegere_final": 0.39,
+      "low_confidence": "n<30"
+    },
+    "LIMBA CHINEZA": {
+      "n": 1,
+      "presented": 1,
+      "passed": 1,
+      "rejected": 0,
+      "notpresented": 0,
+      "eliminated": 0,
+      "pass_rate": 100.0,
+      "pass_rate_ci95": [
+        20.65,
+        100.0
+      ],
+      "avg_media": 8.61,
+      "median_media": 8.61,
+      "std_media": 0.0,
+      "tens": 0,
+      "tens_rate": 0.0,
+      "avg_media_ci95": null,
+      "avg_romana_final": 6.9,
+      "std_romana_final": null,
+      "avg_materna_final": null,
+      "std_materna_final": null,
+      "avg_profil_final": 9.75,
+      "std_profil_final": null,
+      "avg_alegere_final": 9.2,
+      "std_alegere_final": null,
+      "low_confidence": "n<5"
+    }
+  },
+  "contestation_deltas": {
+    "romana": {
+      "direction_note": "",
+      "n_changed": 130709,
+      "mean_delta": 0.04,
+      "median_delta": 0.0,
+      "up": 14021,
+      "down": 7201,
+      "unchanged": 109487,
+      "pct_up": 10.73,
+      "pct_down": 5.51,
+      "max_abs_swing": 3.45,
+      "biggest_single_jump": [
+        "romana",
+        3.45
+      ]
+    },
+    "profil": {
+      "direction_note": "",
+      "n_changed": 130709,
+      "mean_delta": 0.02,
+      "median_delta": 0.0,
+      "up": 10180,
+      "down": 5910,
+      "unchanged": 114619,
+      "pct_up": 7.79,
+      "pct_down": 4.52,
+      "max_abs_swing": 2.9,
+      "biggest_single_jump": null
+    },
+    "alegere": {
+      "direction_note": "",
+      "n_changed": 130709,
+      "mean_delta": 0.02,
+      "median_delta": 0.0,
+      "up": 9592,
+      "down": 5539,
+      "unchanged": 115578,
+      "pct_up": 7.34,
+      "pct_down": 4.24,
+      "max_abs_swing": 3.2,
+      "biggest_single_jump": null
+    },
+    "materna": {
+      "direction_note": "",
+      "n_changed": 6856,
+      "mean_delta": 0.02,
+      "median_delta": 0.0,
+      "up": 315,
+      "down": 157,
+      "unchanged": 6384,
+      "pct_up": 4.59,
+      "pct_down": 2.29,
+      "max_abs_swing": 2.15,
+      "biggest_single_jump": null
+    }
+  },
+  "correlations": {
+    "romana_final": {
+      "pearson_r": 0.89,
+      "pearson_p": 0.0,
+      "spearman_r": 0.9,
+      "spearman_p": 0.0,
+      "n": 125977
+    },
+    "materna_final": {
+      "pearson_r": 0.83,
+      "pearson_p": 0.0,
+      "spearman_r": 0.83,
+      "spearman_p": 0.0,
+      "n": 6748
+    },
+    "profil_final": {
+      "pearson_r": 0.92,
+      "pearson_p": 0.0,
+      "spearman_r": 0.92,
+      "spearman_p": 0.0,
+      "n": 125977
+    },
+    "alegere_final": {
+      "pearson_r": 0.91,
+      "pearson_p": 0.0,
+      "spearman_r": 0.9,
+      "spearman_p": 0.0,
+      "n": 125977
+    },
+    "inter_subject_matrix": {
+      "labels": [
+        "romana_final",
+        "materna_final",
+        "profil_final",
+        "alegere_final",
+        "media"
+      ],
+      "matrix": [
+        [
+          1.0,
+          0.64,
+          0.65,
+          0.67,
+          0.86
+        ],
+        [
+          0.64,
+          1.0,
+          0.63,
+          0.65,
+          0.83
+        ],
+        [
+          0.65,
+          0.63,
+          1.0,
+          0.71,
+          0.88
+        ],
+        [
+          0.67,
+          0.65,
+          0.71,
+          1.0,
+          0.88
+        ],
+        [
+          0.86,
+          0.83,
+          0.88,
+          0.88,
+          1.0
+        ]
+      ]
+    },
+    "strongest_media_correlate": {
+      "subject": "profil_final",
+      "r": 0.92
+    }
+  },
+  "school_deep": {
+    "n_analyzed": 1206,
+    "highest_variance": [
+      {
+        "school": "LICEUL TEORETIC \"DR.VICTOR GOMOIU\"",
+        "judet": "MH",
+        "n": 51,
+        "presented": 51,
+        "avg_media": 5.26,
+        "std_media": 2.45,
+        "best": 9.58,
+        "worst": 1.37,
+        "spread": 8.21,
+        "island_excellence": -1.33
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"TUDOR VLADIMIRESCU\"",
+        "judet": "MH",
+        "n": 24,
+        "presented": 24,
+        "avg_media": 5.14,
+        "std_media": 2.45,
+        "best": 9.33,
+        "worst": 2.05,
+        "spread": 7.28,
+        "island_excellence": -1.46
+      },
+      {
+        "school": "LICEUL TEORETIC CUJMIR",
+        "judet": "MH",
+        "n": 50,
+        "presented": 50,
+        "avg_media": 5.33,
+        "std_media": 2.36,
+        "best": 9.38,
+        "worst": 1.72,
+        "spread": 7.66,
+        "island_excellence": -1.26
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC VITOMIRESTI",
+        "judet": "OT",
+        "n": 26,
+        "presented": 26,
+        "avg_media": 5.07,
+        "std_media": 2.34,
+        "best": 9.38,
+        "worst": 1.65,
+        "spread": 7.73,
+        "island_excellence": -1.82
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"MATEI BASARAB\"",
+        "judet": "MH",
+        "n": 82,
+        "presented": 82,
+        "avg_media": 5.34,
+        "std_media": 2.26,
+        "best": 9.65,
+        "worst": 1.52,
+        "spread": 8.13,
+        "island_excellence": -1.25
+      },
+      {
+        "school": "LICEUL TEORETIC VIDELE",
+        "judet": "TR",
+        "n": 164,
+        "presented": 164,
+        "avg_media": 6.43,
+        "std_media": 2.25,
+        "best": 9.76,
+        "worst": 1.32,
+        "spread": 8.44,
+        "island_excellence": -0.38
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC COGEALAC",
+        "judet": "CT",
+        "n": 23,
+        "presented": 23,
+        "avg_media": 5.7,
+        "std_media": 2.19,
+        "best": 9.61,
+        "worst": 1.87,
+        "spread": 7.74,
+        "island_excellence": -1.58
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC THEODOR PALLADY",
+        "judet": "B",
+        "n": 87,
+        "presented": 87,
+        "avg_media": 5.19,
+        "std_media": 2.19,
+        "best": 9.66,
+        "worst": 1.35,
+        "spread": 8.31,
+        "island_excellence": -2.45
+      },
+      {
+        "school": "LICEUL BORSA",
+        "judet": "MM",
+        "n": 189,
+        "presented": 189,
+        "avg_media": 5.84,
+        "std_media": 2.18,
+        "best": 9.65,
+        "worst": 1.6,
+        "spread": 8.05,
+        "island_excellence": -1.35
+      },
+      {
+        "school": "LICEUL \"CONSTANTIN BRANCOVEANU\", ORAS HOREZU",
+        "judet": "VL",
+        "n": 267,
+        "presented": 267,
+        "avg_media": 6.67,
+        "std_media": 2.16,
+        "best": 9.85,
+        "worst": 1.25,
+        "spread": 8.6,
+        "island_excellence": -0.51
+      }
+    ],
+    "islands_of_excellence": [
+      {
+        "school": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARABË®, MUNICIPIUL RAMNICU VALCEA",
+        "judet": "VL",
+        "n": 164,
+        "presented": 164,
+        "avg_media": 9.29,
+        "std_media": 0.63,
+        "best": 9.95,
+        "worst": 6.03,
+        "spread": 3.92,
+        "island_excellence": 2.12
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"PREPARANDIA-DIMITRIE TICHINDEAL\" ARAD",
+        "judet": "AR",
+        "n": 129,
+        "presented": 129,
+        "avg_media": 9.06,
+        "std_media": 0.81,
+        "best": 10.0,
+        "worst": 5.6,
+        "spread": 4.4,
+        "island_excellence": 2.1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"CONSTANTIN DIACONOVICI LOGA\" TIMISOARA",
+        "judet": "TM",
+        "n": 176,
+        "presented": 176,
+        "avg_media": 9.22,
+        "std_media": 0.63,
+        "best": 9.96,
+        "worst": 6.03,
+        "spread": 3.93,
+        "island_excellence": 2.09
+      },
+      {
+        "school": "COLEGIUL NATIONAL 'MIRCEA CEL BATRAN' CONSTANTA",
+        "judet": "CT",
+        "n": 204,
+        "presented": 204,
+        "avg_media": 9.29,
+        "std_media": 0.58,
+        "best": 10.0,
+        "worst": 6.03,
+        "spread": 3.97,
+        "island_excellence": 2.01
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"MOISE NICOARA\" ARAD",
+        "judet": "AR",
+        "n": 162,
+        "presented": 162,
+        "avg_media": 8.94,
+        "std_media": 0.73,
+        "best": 9.98,
+        "worst": 5.95,
+        "spread": 4.03,
+        "island_excellence": 1.99
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GHEORGHE TITEICA\"",
+        "judet": "MH",
+        "n": 161,
+        "presented": 161,
+        "avg_media": 8.58,
+        "std_media": 0.95,
+        "best": 9.93,
+        "worst": 5.07,
+        "spread": 4.86,
+        "island_excellence": 1.99
+      },
+      {
+        "school": "COLEGIUL NATIONAL PEDAGOGIC \"CARMEN SYLVA\" TIMISOARA",
+        "judet": "TM",
+        "n": 132,
+        "presented": 132,
+        "avg_media": 9.07,
+        "std_media": 0.62,
+        "best": 10.0,
+        "worst": 5.97,
+        "spread": 4.03,
+        "island_excellence": 1.94
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"UNIREA\" FOCSANI",
+        "judet": "VN",
+        "n": 191,
+        "presented": 191,
+        "avg_media": 9.17,
+        "std_media": 0.75,
+        "best": 10.0,
+        "worst": 4.53,
+        "spread": 5.47,
+        "island_excellence": 1.9
+      },
+      {
+        "school": "LICEUL TEORETIC \"GRIGORE MOISIL\" TIMISOARA",
+        "judet": "TM",
+        "n": 128,
+        "presented": 128,
+        "avg_media": 9.01,
+        "std_media": 0.54,
+        "best": 9.85,
+        "worst": 7.38,
+        "spread": 2.47,
+        "island_excellence": 1.88
+      },
+      {
+        "school": "LICEUL TEORETIC \"GRIGORE MOISIL\" TULCEA",
+        "judet": "TL",
+        "n": 131,
+        "presented": 131,
+        "avg_media": 8.89,
+        "std_media": 0.98,
+        "best": 9.81,
+        "worst": 1.47,
+        "spread": 8.34,
+        "island_excellence": 1.87
+      }
+    ],
+    "below_county_avg": [
+      {
+        "school": "LICEUL TEHNOLOGIC \"PETRU RARES'' BOTOSANI",
+        "judet": "BT",
+        "n": 22,
+        "presented": 22,
+        "avg_media": 3.99,
+        "std_media": 1.73,
+        "best": 8.33,
+        "worst": 1.82,
+        "spread": 6.51,
+        "island_excellence": -3.38
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"ION MINCU\" TULCEA",
+        "judet": "TL",
+        "n": 24,
+        "presented": 24,
+        "avg_media": 3.64,
+        "std_media": 1.87,
+        "best": 7.28,
+        "worst": 1.38,
+        "spread": 5.9,
+        "island_excellence": -3.38
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"DANUBIUS\" CORABIA",
+        "judet": "OT",
+        "n": 37,
+        "presented": 37,
+        "avg_media": 3.65,
+        "std_media": 1.88,
+        "best": 7.66,
+        "worst": 1.3,
+        "spread": 6.36,
+        "island_excellence": -3.23
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"DIMITRIE PETRESCU\" CARACAL",
+        "judet": "OT",
+        "n": 22,
+        "presented": 22,
+        "avg_media": 3.67,
+        "std_media": 1.89,
+        "best": 8.38,
+        "worst": 1.5,
+        "spread": 6.88,
+        "island_excellence": -3.21
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC NR. 1 MARACINENI",
+        "judet": "AG",
+        "n": 30,
+        "presented": 30,
+        "avg_media": 4.33,
+        "std_media": 1.65,
+        "best": 7.7,
+        "worst": 1.53,
+        "spread": 6.17,
+        "island_excellence": -3.09
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"CAROL I\", IASI",
+        "judet": "IS",
+        "n": 37,
+        "presented": 37,
+        "avg_media": 4.68,
+        "std_media": 1.05,
+        "best": 6.78,
+        "worst": 2.55,
+        "spread": 4.23,
+        "island_excellence": -3.01
+      },
+      {
+        "school": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA \"DUMITRU MOTOC\"",
+        "judet": "B",
+        "n": 83,
+        "presented": 83,
+        "avg_media": 4.68,
+        "std_media": 1.56,
+        "best": 8.03,
+        "worst": 1.62,
+        "spread": 6.41,
+        "island_excellence": -2.95
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"PETRE BANITA\" CALARASI",
+        "judet": "DJ",
+        "n": 21,
+        "presented": 21,
+        "avg_media": 4.45,
+        "std_media": 1.72,
+        "best": 7.86,
+        "worst": 2.0,
+        "spread": 5.86,
+        "island_excellence": -2.9
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"DINU BRATIANU\" STEFANESTI",
+        "judet": "AG",
+        "n": 34,
+        "presented": 34,
+        "avg_media": 4.54,
+        "std_media": 1.8,
+        "best": 9.41,
+        "worst": 1.88,
+        "spread": 7.53,
+        "island_excellence": -2.88
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC BANEASA",
+        "judet": "CT",
+        "n": 36,
+        "presented": 36,
+        "avg_media": 4.49,
+        "std_media": 1.67,
+        "best": 8.03,
+        "worst": 1.73,
+        "spread": 6.3,
+        "island_excellence": -2.79
+      }
+    ]
+  },
+  "outliers": {
+    "fragile_top": [
+      {
+        "school": "LICEUL TEORETIC \"SFANTUL IOSIF\" ALBA IULIA",
+        "n": 8,
+        "presented": 8,
+        "passed": 8,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          67.56,
+          100.0
+        ],
+        "judet": "AB",
+        "avg_media": 9.37,
+        "median_media": 9.5,
+        "std_media": 0.34,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": null,
+        "avg_romana_final": 9.03,
+        "std_romana_final": 0.56,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.6,
+        "std_profil_final": 0.42,
+        "avg_alegere_final": 9.48,
+        "std_alegere_final": 0.27,
+        "low_confidence": "n<30"
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC SPECIAL BAIA MARE",
+        "n": 2,
+        "presented": 1,
+        "passed": 1,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 1,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          20.65,
+          100.0
+        ],
+        "judet": "MM",
+        "avg_media": 9.16,
+        "median_media": 9.16,
+        "std_media": 0.0,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": null,
+        "avg_romana_final": 9.2,
+        "std_romana_final": null,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.65,
+        "std_profil_final": null,
+        "avg_alegere_final": 8.65,
+        "std_alegere_final": null,
+        "low_confidence": "n<5"
+      },
+      {
+        "school": "LICEUL TEORETIC \"SFINTII TREI IERARHI\"",
+        "n": 6,
+        "presented": 5,
+        "passed": 5,
+        "rejected": 0,
+        "notpresented": 1,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          56.55,
+          100.0
+        ],
+        "judet": "B",
+        "avg_media": 9.12,
+        "median_media": 9.01,
+        "std_media": 0.43,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": null,
+        "avg_romana_final": 9.35,
+        "std_romana_final": 0.29,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 8.3,
+        "std_profil_final": 1.12,
+        "avg_alegere_final": 9.72,
+        "std_alegere_final": 0.09,
+        "low_confidence": "n<30"
+      }
+    ],
+    "uniform_media": [],
+    "all_pass": [
+      {
+        "school": "COLEGIUL NATIONAL \"B. P. HASDEU\" MUNICIPIUL BUZAU",
+        "n": 288,
+        "presented": 288,
+        "passed": 288,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          98.68,
+          100.0
+        ],
+        "judet": "BZ",
+        "avg_media": 9.18,
+        "median_media": 9.35,
+        "std_media": 0.6,
+        "tens": 2,
+        "tens_rate": 0.69,
+        "avg_media_ci95": [
+          9.12,
+          9.25
+        ],
+        "avg_romana_final": 8.9,
+        "std_romana_final": 0.83,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.31,
+        "std_profil_final": 0.73,
+        "avg_alegere_final": 9.35,
+        "std_alegere_final": 0.72
+      },
+      {
+        "school": "COLEGIUL NATIONAL DE INFORMATICA \"TUDOR VIANU\"",
+        "n": 269,
+        "presented": 269,
+        "passed": 269,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          98.59,
+          100.0
+        ],
+        "judet": "B",
+        "avg_media": 9.34,
+        "median_media": 9.48,
+        "std_media": 0.5,
+        "tens": 3,
+        "tens_rate": 1.12,
+        "avg_media_ci95": [
+          9.29,
+          9.4
+        ],
+        "avg_romana_final": 9.2,
+        "std_romana_final": 0.61,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.47,
+        "std_profil_final": 0.62,
+        "avg_alegere_final": 9.37,
+        "std_alegere_final": 0.74
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"ION CREANGA\"",
+        "n": 258,
+        "presented": 258,
+        "passed": 258,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          98.53,
+          100.0
+        ],
+        "judet": "B",
+        "avg_media": 9.02,
+        "median_media": 9.21,
+        "std_media": 0.67,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          8.94,
+          9.1
+        ],
+        "avg_romana_final": 8.92,
+        "std_romana_final": 0.8,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.06,
+        "std_profil_final": 0.9,
+        "avg_alegere_final": 9.09,
+        "std_alegere_final": 0.83
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"CAROL I\" CRAIOVA",
+        "n": 251,
+        "presented": 251,
+        "passed": 251,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          98.49,
+          100.0
+        ],
+        "judet": "DJ",
+        "avg_media": 8.91,
+        "median_media": 9.11,
+        "std_media": 0.77,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          8.81,
+          9.0
+        ],
+        "avg_romana_final": 8.62,
+        "std_romana_final": 0.96,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 8.92,
+        "std_profil_final": 1.06,
+        "avg_alegere_final": 9.2,
+        "std_alegere_final": 0.82
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"ROMAN VODA\", MUNICIPIUL ROMAN",
+        "n": 243,
+        "presented": 243,
+        "passed": 243,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          98.44,
+          100.0
+        ],
+        "judet": "NT",
+        "avg_media": 8.86,
+        "median_media": 9.06,
+        "std_media": 0.82,
+        "tens": 1,
+        "tens_rate": 0.41,
+        "avg_media_ci95": [
+          8.77,
+          8.95
+        ],
+        "avg_romana_final": 8.6,
+        "std_romana_final": 1.08,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 8.89,
+        "std_profil_final": 1.08,
+        "avg_alegere_final": 9.11,
+        "std_alegere_final": 0.97
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"SFANTUL SAVA\"",
+        "n": 236,
+        "presented": 236,
+        "passed": 236,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          98.4,
+          100.0
+        ],
+        "judet": "B",
+        "avg_media": 9.41,
+        "median_media": 9.56,
+        "std_media": 0.53,
+        "tens": 6,
+        "tens_rate": 2.54,
+        "avg_media_ci95": [
+          9.35,
+          9.47
+        ],
+        "avg_romana_final": 9.31,
+        "std_romana_final": 0.65,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.44,
+        "std_profil_final": 0.69,
+        "avg_alegere_final": 9.51,
+        "std_alegere_final": 0.67
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"SPIRU HARET\"",
+        "n": 227,
+        "presented": 227,
+        "passed": 227,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          98.34,
+          100.0
+        ],
+        "judet": "B",
+        "avg_media": 9.29,
+        "median_media": 9.46,
+        "std_media": 0.64,
+        "tens": 1,
+        "tens_rate": 0.44,
+        "avg_media_ci95": [
+          9.21,
+          9.36
+        ],
+        "avg_romana_final": 9.15,
+        "std_romana_final": 0.78,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.35,
+        "std_profil_final": 0.81,
+        "avg_alegere_final": 9.36,
+        "std_alegere_final": 0.74
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GHEORGHE VRANCEANU\" BACAU",
+        "n": 212,
+        "presented": 212,
+        "passed": 212,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          98.22,
+          100.0
+        ],
+        "judet": "BC",
+        "avg_media": 9.02,
+        "median_media": 9.23,
+        "std_media": 0.76,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          8.92,
+          9.12
+        ],
+        "avg_romana_final": 9.04,
+        "std_romana_final": 0.83,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 8.83,
+        "std_profil_final": 1.06,
+        "avg_alegere_final": 9.19,
+        "std_alegere_final": 0.85
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"EMANUIL GOJDU\" ORADEA",
+        "n": 198,
+        "presented": 198,
+        "passed": 198,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          98.1,
+          100.0
+        ],
+        "judet": "BH",
+        "avg_media": 9.23,
+        "median_media": 9.36,
+        "std_media": 0.51,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          9.16,
+          9.3
+        ],
+        "avg_romana_final": 9.08,
+        "std_romana_final": 0.6,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.32,
+        "std_profil_final": 0.75,
+        "avg_alegere_final": 9.3,
+        "std_alegere_final": 0.67
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GRIGORE MOISIL\"",
+        "n": 194,
+        "presented": 194,
+        "passed": 194,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          98.06,
+          100.0
+        ],
+        "judet": "B",
+        "avg_media": 9.2,
+        "median_media": 9.4,
+        "std_media": 0.67,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          9.1,
+          9.29
+        ],
+        "avg_romana_final": 9.06,
+        "std_romana_final": 0.85,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.25,
+        "std_profil_final": 0.82,
+        "avg_alegere_final": 9.28,
+        "std_alegere_final": 0.77
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"HOREA, CLOSCA SI CRISAN\" ALBA IULIA",
+        "n": 192,
+        "presented": 192,
+        "passed": 192,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          98.04,
+          100.0
+        ],
+        "judet": "AB",
+        "avg_media": 9.19,
+        "median_media": 9.41,
+        "std_media": 0.68,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          9.09,
+          9.28
+        ],
+        "avg_romana_final": 8.99,
+        "std_romana_final": 0.92,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.21,
+        "std_profil_final": 0.88,
+        "avg_alegere_final": 9.37,
+        "std_alegere_final": 0.7
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"VASILE ALECSANDRI\", MUNICIPIUL GALATI",
+        "n": 186,
+        "presented": 186,
+        "passed": 186,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.98,
+          100.0
+        ],
+        "judet": "GL",
+        "avg_media": 9.29,
+        "median_media": 9.43,
+        "std_media": 0.54,
+        "tens": 1,
+        "tens_rate": 0.54,
+        "avg_media_ci95": [
+          9.22,
+          9.36
+        ],
+        "avg_romana_final": 9.19,
+        "std_romana_final": 0.71,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.29,
+        "std_profil_final": 0.74,
+        "avg_alegere_final": 9.39,
+        "std_alegere_final": 0.65
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"COSTACHE NEGRI\", MUNICIPIUL GALATI",
+        "n": 185,
+        "presented": 185,
+        "passed": 185,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.97,
+          100.0
+        ],
+        "judet": "GL",
+        "avg_media": 9.18,
+        "median_media": 9.35,
+        "std_media": 0.65,
+        "tens": 1,
+        "tens_rate": 0.54,
+        "avg_media_ci95": [
+          9.09,
+          9.27
+        ],
+        "avg_romana_final": 9.09,
+        "std_romana_final": 0.79,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.23,
+        "std_profil_final": 0.87,
+        "avg_alegere_final": 9.23,
+        "std_alegere_final": 0.71
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"PETRU RARES\" SUCEAVA",
+        "n": 185,
+        "presented": 185,
+        "passed": 185,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.97,
+          100.0
+        ],
+        "judet": "SV",
+        "avg_media": 9.05,
+        "median_media": 9.25,
+        "std_media": 0.66,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          8.96,
+          9.14
+        ],
+        "avg_romana_final": 9.0,
+        "std_romana_final": 0.72,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 8.95,
+        "std_profil_final": 0.93,
+        "avg_alegere_final": 9.2,
+        "std_alegere_final": 0.84
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"FERDINAND I\" BACAU",
+        "n": 176,
+        "presented": 176,
+        "passed": 176,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.86,
+          100.0
+        ],
+        "judet": "BC",
+        "avg_media": 8.96,
+        "median_media": 9.18,
+        "std_media": 0.75,
+        "tens": 1,
+        "tens_rate": 0.57,
+        "avg_media_ci95": [
+          8.86,
+          9.07
+        ],
+        "avg_romana_final": 8.93,
+        "std_romana_final": 0.81,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 8.83,
+        "std_profil_final": 1.05,
+        "avg_alegere_final": 9.14,
+        "std_alegere_final": 0.88
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"CONSTANTIN DIACONOVICI LOGA\" TIMISOARA",
+        "n": 176,
+        "presented": 176,
+        "passed": 176,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.86,
+          100.0
+        ],
+        "judet": "TM",
+        "avg_media": 9.22,
+        "median_media": 9.41,
+        "std_media": 0.63,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          9.14,
+          9.31
+        ],
+        "avg_romana_final": 9.01,
+        "std_romana_final": 0.83,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.29,
+        "std_profil_final": 0.79,
+        "avg_alegere_final": 9.38,
+        "std_alegere_final": 0.7
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GHEORGHE MUNTEANU MURGOCI\"",
+        "n": 176,
+        "presented": 176,
+        "passed": 176,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.86,
+          100.0
+        ],
+        "judet": "BR",
+        "avg_media": 9.12,
+        "median_media": 9.26,
+        "std_media": 0.6,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          9.04,
+          9.21
+        ],
+        "avg_romana_final": 8.98,
+        "std_romana_final": 0.76,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.17,
+        "std_profil_final": 0.79,
+        "avg_alegere_final": 9.23,
+        "std_alegere_final": 0.73
+      },
+      {
+        "school": "LICEUL TEORETIC \"DIMITRIE CANTEMIR\", IASI",
+        "n": 172,
+        "presented": 172,
+        "passed": 172,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.82,
+          100.0
+        ],
+        "judet": "IS",
+        "avg_media": 8.98,
+        "median_media": 9.12,
+        "std_media": 0.64,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          8.88,
+          9.07
+        ],
+        "avg_romana_final": 8.63,
+        "std_romana_final": 1.02,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.09,
+        "std_profil_final": 0.74,
+        "avg_alegere_final": 9.23,
+        "std_alegere_final": 0.72
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GHEORGHE LAZAR\" SIBIU",
+        "n": 171,
+        "presented": 171,
+        "passed": 171,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.8,
+          100.0
+        ],
+        "judet": "SB",
+        "avg_media": 9.0,
+        "median_media": 9.16,
+        "std_media": 0.61,
+        "tens": 1,
+        "tens_rate": 0.58,
+        "avg_media_ci95": [
+          8.91,
+          9.1
+        ],
+        "avg_romana_final": 8.89,
+        "std_romana_final": 0.69,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.01,
+        "std_profil_final": 0.9,
+        "avg_alegere_final": 9.11,
+        "std_alegere_final": 0.89
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"STEFAN CEL MARE\" SUCEAVA",
+        "n": 171,
+        "presented": 171,
+        "passed": 171,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.8,
+          100.0
+        ],
+        "judet": "SV",
+        "avg_media": 9.16,
+        "median_media": 9.35,
+        "std_media": 0.6,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          9.07,
+          9.26
+        ],
+        "avg_romana_final": 9.13,
+        "std_romana_final": 0.71,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.14,
+        "std_profil_final": 0.84,
+        "avg_alegere_final": 9.21,
+        "std_alegere_final": 0.78
+      },
+      {
+        "school": "COLEGIUL NATIONAL MILITAR \"DIMITRIE CANTEMIR\" BREAZA",
+        "n": 166,
+        "presented": 166,
+        "passed": 166,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.74,
+          100.0
+        ],
+        "judet": "PH",
+        "avg_media": 8.64,
+        "median_media": 8.75,
+        "std_media": 0.78,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          8.53,
+          8.75
+        ],
+        "avg_romana_final": 8.26,
+        "std_romana_final": 0.99,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 8.85,
+        "std_profil_final": 0.89,
+        "avg_alegere_final": 8.81,
+        "std_alegere_final": 0.95
+      },
+      {
+        "school": "COLEGIUL NATIONAL 'DR. IOAN MESOTA' BRASOV",
+        "n": 163,
+        "presented": 163,
+        "passed": 163,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.7,
+          100.0
+        ],
+        "judet": "BV",
+        "avg_media": 9.24,
+        "median_media": 9.35,
+        "std_media": 0.48,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          9.17,
+          9.32
+        ],
+        "avg_romana_final": 9.1,
+        "std_romana_final": 0.58,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.2,
+        "std_profil_final": 0.74,
+        "avg_alegere_final": 9.43,
+        "std_alegere_final": 0.61
+      },
+      {
+        "school": "COLEGIUL NATIONAL DE INFORMATICA 'GR. MOISIL' BRASOV",
+        "n": 162,
+        "presented": 162,
+        "passed": 162,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.68,
+          100.0
+        ],
+        "judet": "BV",
+        "avg_media": 8.94,
+        "median_media": 9.11,
+        "std_media": 0.65,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          8.85,
+          9.04
+        ],
+        "avg_romana_final": 8.84,
+        "std_romana_final": 0.84,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 8.86,
+        "std_profil_final": 0.85,
+        "avg_alegere_final": 9.13,
+        "std_alegere_final": 0.84
+      },
+      {
+        "school": "COLEGIUL NATIONAL 'ANDREI SAGUNA' BRASOV",
+        "n": 160,
+        "presented": 160,
+        "passed": 160,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.66,
+          100.0
+        ],
+        "judet": "BV",
+        "avg_media": 9.3,
+        "median_media": 9.41,
+        "std_media": 0.5,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          9.22,
+          9.38
+        ],
+        "avg_romana_final": 9.12,
+        "std_romana_final": 0.68,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.37,
+        "std_profil_final": 0.69,
+        "avg_alegere_final": 9.41,
+        "std_alegere_final": 0.55
+      },
+      {
+        "school": "COLEGIUL NATIONAL MILITAR \"TUDOR VLADIMIRESCU\" CRAIOVA",
+        "n": 159,
+        "presented": 159,
+        "passed": 159,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.64,
+          100.0
+        ],
+        "judet": "DJ",
+        "avg_media": 8.63,
+        "median_media": 8.93,
+        "std_media": 0.86,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          8.5,
+          8.75
+        ],
+        "avg_romana_final": 8.6,
+        "std_romana_final": 0.93,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 8.73,
+        "std_profil_final": 1.04,
+        "avg_alegere_final": 8.56,
+        "std_alegere_final": 1.09
+      }
+    ],
+    "all_fail": [],
+    "most_average_counties": [
+      {
+        "judet": "MS",
+        "n": 3197,
+        "presented": 3127,
+        "passed": 2382,
+        "rejected": 745,
+        "notpresented": 68,
+        "eliminated": 2,
+        "pass_rate": 76.18,
+        "pass_rate_ci95": [
+          74.65,
+          77.64
+        ],
+        "avg_media": 7.26,
+        "median_media": 7.48,
+        "std_media": 1.67,
+        "tens": 2,
+        "tens_rate": 0.06,
+        "avg_media_ci95": [
+          7.2,
+          7.32
+        ],
+        "avg_romana_final": 7.01,
+        "std_romana_final": 1.73,
+        "avg_materna_final": 7.6,
+        "std_materna_final": 1.42,
+        "avg_profil_final": 7.07,
+        "std_profil_final": 2.04,
+        "avg_alegere_final": 7.64,
+        "std_alegere_final": 1.87
+      },
+      {
+        "judet": "MM",
+        "n": 3109,
+        "presented": 3007,
+        "passed": 2263,
+        "rejected": 744,
+        "notpresented": 96,
+        "eliminated": 6,
+        "pass_rate": 75.26,
+        "pass_rate_ci95": [
+          73.68,
+          76.77
+        ],
+        "avg_media": 7.19,
+        "median_media": 7.41,
+        "std_media": 1.73,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.12,
+          7.25
+        ],
+        "avg_romana_final": 7.0,
+        "std_romana_final": 1.69,
+        "avg_materna_final": 7.18,
+        "std_materna_final": 1.41,
+        "avg_profil_final": 7.01,
+        "std_profil_final": 2.12,
+        "avg_alegere_final": 7.55,
+        "std_alegere_final": 1.97
+      },
+      {
+        "judet": "CT",
+        "n": 5020,
+        "presented": 4838,
+        "passed": 3688,
+        "rejected": 1150,
+        "notpresented": 181,
+        "eliminated": 1,
+        "pass_rate": 76.23,
+        "pass_rate_ci95": [
+          75.01,
+          77.41
+        ],
+        "avg_media": 7.28,
+        "median_media": 7.56,
+        "std_media": 1.78,
+        "tens": 2,
+        "tens_rate": 0.04,
+        "avg_media_ci95": [
+          7.23,
+          7.33
+        ],
+        "avg_romana_final": 7.19,
+        "std_romana_final": 1.72,
+        "avg_materna_final": 7.85,
+        "std_materna_final": 1.88,
+        "avg_profil_final": 7.24,
+        "std_profil_final": 2.08,
+        "avg_alegere_final": 7.43,
+        "std_alegere_final": 2.08
+      },
+      {
+        "judet": "VN",
+        "n": 2176,
+        "presented": 2084,
+        "passed": 1560,
+        "rejected": 524,
+        "notpresented": 92,
+        "eliminated": 0,
+        "pass_rate": 74.86,
+        "pass_rate_ci95": [
+          72.95,
+          76.67
+        ],
+        "avg_media": 7.28,
+        "median_media": 7.56,
+        "std_media": 1.85,
+        "tens": 2,
+        "tens_rate": 0.1,
+        "avg_media_ci95": [
+          7.2,
+          7.36
+        ],
+        "avg_romana_final": 7.2,
+        "std_romana_final": 1.78,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.17,
+        "std_profil_final": 2.19,
+        "avg_alegere_final": 7.47,
+        "std_alegere_final": 2.07
+      },
+      {
+        "judet": "VL",
+        "n": 2340,
+        "presented": 2257,
+        "passed": 1644,
+        "rejected": 613,
+        "notpresented": 83,
+        "eliminated": 0,
+        "pass_rate": 72.84,
+        "pass_rate_ci95": [
+          70.97,
+          74.64
+        ],
+        "avg_media": 7.18,
+        "median_media": 7.4,
+        "std_media": 1.85,
+        "tens": 1,
+        "tens_rate": 0.04,
+        "avg_media_ci95": [
+          7.09,
+          7.25
+        ],
+        "avg_romana_final": 7.06,
+        "std_romana_final": 1.8,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 6.97,
+        "std_profil_final": 2.27,
+        "avg_alegere_final": 7.5,
+        "std_alegere_final": 2.03
+      },
+      {
+        "judet": "HD",
+        "n": 2341,
+        "presented": 2235,
+        "passed": 1659,
+        "rejected": 576,
+        "notpresented": 105,
+        "eliminated": 1,
+        "pass_rate": 74.23,
+        "pass_rate_ci95": [
+          72.37,
+          76.0
+        ],
+        "avg_media": 7.17,
+        "median_media": 7.31,
+        "std_media": 1.69,
+        "tens": 3,
+        "tens_rate": 0.13,
+        "avg_media_ci95": [
+          7.1,
+          7.24
+        ],
+        "avg_romana_final": 7.03,
+        "std_romana_final": 1.7,
+        "avg_materna_final": 7.42,
+        "std_materna_final": 1.76,
+        "avg_profil_final": 6.98,
+        "std_profil_final": 2.03,
+        "avg_alegere_final": 7.53,
+        "std_alegere_final": 1.9
+      },
+      {
+        "judet": "VS",
+        "n": 2562,
+        "presented": 2435,
+        "passed": 1774,
+        "rejected": 661,
+        "notpresented": 125,
+        "eliminated": 2,
+        "pass_rate": 72.85,
+        "pass_rate_ci95": [
+          71.05,
+          74.58
+        ],
+        "avg_media": 7.17,
+        "median_media": 7.38,
+        "std_media": 1.84,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.09,
+          7.25
+        ],
+        "avg_romana_final": 6.93,
+        "std_romana_final": 1.79,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.05,
+        "std_profil_final": 2.17,
+        "avg_alegere_final": 7.55,
+        "std_alegere_final": 2.07
+      },
+      {
+        "judet": "CV",
+        "n": 1208,
+        "presented": 1183,
+        "passed": 912,
+        "rejected": 271,
+        "notpresented": 25,
+        "eliminated": 0,
+        "pass_rate": 77.09,
+        "pass_rate_ci95": [
+          74.61,
+          79.4
+        ],
+        "avg_media": 7.31,
+        "median_media": 7.48,
+        "std_media": 1.53,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.22,
+          7.4
+        ],
+        "avg_romana_final": 6.86,
+        "std_romana_final": 1.69,
+        "avg_materna_final": 7.59,
+        "std_materna_final": 1.37,
+        "avg_profil_final": 7.2,
+        "std_profil_final": 1.89,
+        "avg_alegere_final": 7.61,
+        "std_alegere_final": 1.79
+      },
+      {
+        "judet": "TM",
+        "n": 4560,
+        "presented": 4344,
+        "passed": 3182,
+        "rejected": 1162,
+        "notpresented": 214,
+        "eliminated": 2,
+        "pass_rate": 73.25,
+        "pass_rate_ci95": [
+          71.91,
+          74.55
+        ],
+        "avg_media": 7.13,
+        "median_media": 7.35,
+        "std_media": 1.79,
+        "tens": 1,
+        "tens_rate": 0.02,
+        "avg_media_ci95": [
+          7.08,
+          7.18
+        ],
+        "avg_romana_final": 6.96,
+        "std_romana_final": 1.73,
+        "avg_materna_final": 7.32,
+        "std_materna_final": 1.38,
+        "avg_profil_final": 7.03,
+        "std_profil_final": 2.12,
+        "avg_alegere_final": 7.43,
+        "std_alegere_final": 2.06
+      },
+      {
+        "judet": "DJ",
+        "n": 3959,
+        "presented": 3739,
+        "passed": 2855,
+        "rejected": 884,
+        "notpresented": 218,
+        "eliminated": 2,
+        "pass_rate": 76.36,
+        "pass_rate_ci95": [
+          74.97,
+          77.69
+        ],
+        "avg_media": 7.35,
+        "median_media": 7.76,
+        "std_media": 1.88,
+        "tens": 2,
+        "tens_rate": 0.05,
+        "avg_media_ci95": [
+          7.29,
+          7.41
+        ],
+        "avg_romana_final": 7.15,
+        "std_romana_final": 1.78,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.17,
+        "std_profil_final": 2.28,
+        "avg_alegere_final": 7.74,
+        "std_alegere_final": 2.06
+      }
+    ],
+    "county_gap": [
+      {
+        "judet": "AG",
+        "best": "COLEGIUL NATIONAL \"ION C. BRATIANU\" PITESTI",
+        "best_avg": 9.18,
+        "worst": "LICEUL TEHNOLOGIC NR. 1 MARACINENI",
+        "worst_avg": 4.33,
+        "gap": 4.85
+      },
+      {
+        "judet": "AR",
+        "best": "COLEGIUL NATIONAL \"PREPARANDIA-DIMITRIE TICHINDEAL\" ARAD",
+        "best_avg": 9.06,
+        "worst": "LICEUL TEHNOLOGIC \"SAVA BRANCOVICI\" INEU",
+        "worst_avg": 4.23,
+        "gap": 4.83
+      },
+      {
+        "judet": "TM",
+        "best": "COLEGIUL NATIONAL \"CONSTANTIN DIACONOVICI LOGA\" TIMISOARA",
+        "best_avg": 9.22,
+        "worst": "LICEUL TEHNOLOGIC DE VEST TIMISOARA",
+        "worst_avg": 4.4,
+        "gap": 4.82
+      },
+      {
+        "judet": "B",
+        "best": "COLEGIUL NATIONAL \"GHEORGHE LAZAR\"",
+        "best_avg": 9.49,
+        "worst": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA \"DUMITRU MOTOC\"",
+        "worst_avg": 4.68,
+        "gap": 4.81
+      },
+      {
+        "judet": "CT",
+        "best": "COLEGIUL NATIONAL 'MIRCEA CEL BATRAN' CONSTANTA",
+        "best_avg": 9.29,
+        "worst": "LICEUL TEHNOLOGIC BANEASA",
+        "worst_avg": 4.49,
+        "gap": 4.8
+      },
+      {
+        "judet": "IS",
+        "best": "COLEGIUL NATIONAL, IASI",
+        "best_avg": 9.48,
+        "worst": "LICEUL TEHNOLOGIC \"CAROL I\", IASI",
+        "worst_avg": 4.68,
+        "gap": 4.8
+      },
+      {
+        "judet": "OT",
+        "best": "COLEGIUL NATIONAL \"ION MINULESCU\" SLATINA",
+        "best_avg": 8.44,
+        "worst": "LICEUL TEHNOLOGIC \"DANUBIUS\" CORABIA",
+        "worst_avg": 3.65,
+        "gap": 4.79
+      },
+      {
+        "judet": "VL",
+        "best": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARABË®, MUNICIPIUL RAMNICU VALCEA",
+        "best_avg": 9.29,
+        "worst": "LICEUL \"GEORGE TARNEA\", ORAS BABENI",
+        "worst_avg": 4.74,
+        "gap": 4.55
+      },
+      {
+        "judet": "PH",
+        "best": "COLEGIUL NATIONAL \"NICOLAE GRIGORESCU\", MUNICIPIUL CAMPINA",
+        "best_avg": 9.19,
+        "worst": "LICEUL TEHNOLOGIC \"TEODOR DIAMANT\", ORASUL BOLDESTI-SCAENI",
+        "worst_avg": 4.86,
+        "gap": 4.33
+      },
+      {
+        "judet": "VN",
+        "best": "COLEGIUL NATIONAL \"UNIREA\" FOCSANI",
+        "best_avg": 9.17,
+        "worst": "COLEGIUL TEHNIC AUTO \"TRAIAN VUIA\" FOCSANI",
+        "worst_avg": 4.87,
+        "gap": 4.3
+      },
+      {
+        "judet": "DB",
+        "best": "COLEGIUL NATIONAL \"IENACHITA VACARESCU\" TARGOVISTE",
+        "best_avg": 8.82,
+        "worst": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO TARGOVISTE",
+        "worst_avg": 4.59,
+        "gap": 4.23
+      },
+      {
+        "judet": "NT",
+        "best": "COLEGIUL NATIONAL \"PETRU RARES\", MUNICIPIUL PIATRA-NEAMT",
+        "best_avg": 9.11,
+        "worst": "LICEUL TEHNOLOGIC \"DIMITRIE LEONIDA\", MUNICIPIUL PIATRA-NEAMT",
+        "worst_avg": 4.9,
+        "gap": 4.21
+      },
+      {
+        "judet": "BH",
+        "best": "COLEGIUL NATIONAL \"EMANUIL GOJDU\" ORADEA",
+        "best_avg": 9.23,
+        "worst": "LICEUL TEHNOLOGIC NR.1 SALONTA",
+        "worst_avg": 5.02,
+        "gap": 4.21
+      },
+      {
+        "judet": "MS",
+        "best": "COLEGIUL NATIONAL \"UNIREA\" TARGU MURES",
+        "best_avg": 8.92,
+        "worst": "LICEUL TEHNOLOGIC TARNAVENI",
+        "worst_avg": 4.74,
+        "gap": 4.18
+      },
+      {
+        "judet": "SJ",
+        "best": "COLEGIUL NATIONAL \"SILVANIA\" ZALAU",
+        "best_avg": 8.93,
+        "worst": "LICEUL TEHNOLOGIC \"MIHAI VITEAZUL\" ZALAU",
+        "worst_avg": 4.81,
+        "gap": 4.12
+      },
+      {
+        "judet": "BR",
+        "best": "COLEGIUL NATIONAL \"GHEORGHE MUNTEANU MURGOCI\"",
+        "best_avg": 9.12,
+        "worst": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\"",
+        "worst_avg": 5.02,
+        "gap": 4.1
+      },
+      {
+        "judet": "BZ",
+        "best": "COLEGIUL NATIONAL \"B. P. HASDEU\" MUNICIPIUL BUZAU",
+        "best_avg": 9.18,
+        "worst": "LICEUL TEHNOLOGIC ECONOMIC \"ELINA MATEI BASARAB\" MUNICIPIUL RAMNICU SARAT",
+        "worst_avg": 5.1,
+        "gap": 4.08
+      },
+      {
+        "judet": "TR",
+        "best": "COLEGIUL NATIONAL PEDAGOGIC \"MIRCEA SCARLAT\" ALEXANDRIA",
+        "best_avg": 8.1,
+        "worst": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" ALEXANDRIA",
+        "worst_avg": 4.04,
+        "gap": 4.06
+      },
+      {
+        "judet": "GJ",
+        "best": "COLEGIUL NATIONAL \"TUDOR VLADIMIRESCU\" TARGU JIU",
+        "best_avg": 8.74,
+        "worst": "LICEUL TEHNOLOGIC BARSESTI",
+        "worst_avg": 4.72,
+        "gap": 4.02
+      },
+      {
+        "judet": "MH",
+        "best": "COLEGIUL NATIONAL \"GHEORGHE TITEICA\"",
+        "best_avg": 8.58,
+        "worst": "LICEUL TEHNOLOGIC \"DIERNA\"",
+        "worst_avg": 4.61,
+        "gap": 3.97
+      }
+    ],
+    "low_grade_high_media": [],
+    "perfect10_clusters": [
+      {
+        "school": "COLEGIUL NATIONAL \"SFANTUL SAVA\"",
+        "perfect10": 6
+      },
+      {
+        "school": "COLEGIUL NATIONAL DE INFORMATICA \"TUDOR VIANU\"",
+        "perfect10": 3
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GHEORGHE LAZAR\"",
+        "perfect10": 3
+      },
+      {
+        "school": "LICEUL TEORETIC \"AVRAM IANCU\" CLUJ-NAPOCA",
+        "perfect10": 3
+      },
+      {
+        "school": "COLEGIUL NATIONAL PEDAGOGIC \"CONSTANTIN CANTACUZINO\" TARGOVISTE",
+        "perfect10": 3
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"B. P. HASDEU\" MUNICIPIUL BUZAU",
+        "perfect10": 2
+      },
+      {
+        "school": "COLEGIUL NATIONAL PEDAGOGIC \"STEFAN VELOVAN\" CRAIOVA",
+        "perfect10": 2
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"MIHAI VITEAZUL\", MUNICIPIUL PLOIESTI",
+        "perfect10": 2
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"EUDOXIU HURMUZACHI\" RADAUTI",
+        "perfect10": 2
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"MIHAI EMINESCU\" SUCEAVA",
+        "perfect10": 2
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"ION C. BRATIANU\" PITESTI",
+        "perfect10": 1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"PREPARANDIA-DIMITRIE TICHINDEAL\" ARAD",
+        "perfect10": 1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"IULIA HASDEU\"",
+        "perfect10": 1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"MATEI BASARAB\"",
+        "perfect10": 1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"SPIRU HARET\"",
+        "perfect10": 1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"CANTEMIR VODA\"",
+        "perfect10": 1
+      },
+      {
+        "school": "LICEUL TEORETIC \"LUCIAN BLAGA\"",
+        "perfect10": 1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"TUDOR VLADIMIRESCU\"",
+        "perfect10": 1
+      },
+      {
+        "school": "LICEUL \"NICOLAE STEINHARDT\"",
+        "perfect10": 1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"VASILE ALECSANDRI\" BACAU",
+        "perfect10": 1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GRIGORE MOISIL\" ONESTI",
+        "perfect10": 1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"DIMITRIE CANTEMIR\" ONESTI",
+        "perfect10": 1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"FERDINAND I\" BACAU",
+        "perfect10": 1
+      },
+      {
+        "school": "LICEUL TEORETIC \"PAVEL DAN\" CAMPIA TURZII",
+        "perfect10": 1
+      },
+      {
+        "school": "LICEUL TEORETIC 'IOAN COTOVU' HARSOVA",
+        "perfect10": 1
+      }
+    ]
+  },
+  "interesting_facts": [
+    "Național: 76.98% promovare din 125977 prezentați.",
+    "Repetenții: 35.15% vs prima promoție 81.68% (decalaj 46.53 pp).",
+    "Județul cu medie cea mai mare (n≥30): CJ (7.91).",
+    "Județul cu medie cea mai mică (n≥30): IF (6.46).",
+    "Note perfecte 10 (media): 69 din 125977 notați."
+  ],
+  "rankings": {
+    "county_by_avg_media": {
+      "top": [
+        {
+          "key": "CJ",
+          "avg_media": 7.91,
+          "n": 4402,
+          "low_confidence": null
+        },
+        {
+          "key": "IS",
+          "avg_media": 7.69,
+          "n": 5288,
+          "low_confidence": null
+        },
+        {
+          "key": "AB",
+          "avg_media": 7.68,
+          "n": 2122,
+          "low_confidence": null
+        },
+        {
+          "key": "B",
+          "avg_media": 7.64,
+          "n": 17881,
+          "low_confidence": null
+        },
+        {
+          "key": "BV",
+          "avg_media": 7.61,
+          "n": 3474,
+          "low_confidence": null
+        },
+        {
+          "key": "BC",
+          "avg_media": 7.58,
+          "n": 3838,
+          "low_confidence": null
+        },
+        {
+          "key": "SB",
+          "avg_media": 7.54,
+          "n": 2530,
+          "low_confidence": null
+        },
+        {
+          "key": "BH",
+          "avg_media": 7.53,
+          "n": 3539,
+          "low_confidence": null
+        },
+        {
+          "key": "BR",
+          "avg_media": 7.52,
+          "n": 1679,
+          "low_confidence": null
+        },
+        {
+          "key": "GL",
+          "avg_media": 7.5,
+          "n": 3302,
+          "low_confidence": null
+        }
+      ],
+      "bottom": [
+        {
+          "key": "TL",
+          "avg_media": 7.02,
+          "n": 1283,
+          "low_confidence": null
+        },
+        {
+          "key": "AR",
+          "avg_media": 6.95,
+          "n": 2757,
+          "low_confidence": null
+        },
+        {
+          "key": "IL",
+          "avg_media": 6.93,
+          "n": 1561,
+          "low_confidence": null
+        },
+        {
+          "key": "CS",
+          "avg_media": 6.89,
+          "n": 1401,
+          "low_confidence": null
+        },
+        {
+          "key": "OT",
+          "avg_media": 6.88,
+          "n": 2312,
+          "low_confidence": null
+        },
+        {
+          "key": "TR",
+          "avg_media": 6.8,
+          "n": 1735,
+          "low_confidence": null
+        },
+        {
+          "key": "CL",
+          "avg_media": 6.67,
+          "n": 1243,
+          "low_confidence": null
+        },
+        {
+          "key": "GR",
+          "avg_media": 6.67,
+          "n": 964,
+          "low_confidence": null
+        },
+        {
+          "key": "MH",
+          "avg_media": 6.59,
+          "n": 1492,
+          "low_confidence": null
+        },
+        {
+          "key": "IF",
+          "avg_media": 6.46,
+          "n": 1368,
+          "low_confidence": null
+        }
+      ]
+    },
+    "specializare_by_avg_media": {
+      "top": [
+        {
+          "key": "INVATATOR - EDUCATOARE",
+          "avg_media": 8.57,
+          "n": 1803,
+          "low_confidence": null
+        },
+        {
+          "key": "MATEMATICA-INFORMATICA",
+          "avg_media": 8.24,
+          "n": 22725,
+          "low_confidence": null
+        },
+        {
+          "key": "TEOLOGIE BAPTISTA",
+          "avg_media": 8.09,
+          "n": 167,
+          "low_confidence": null
+        },
+        {
+          "key": "STIINTE SOCIALE",
+          "avg_media": 7.91,
+          "n": 12141,
+          "low_confidence": null
+        },
+        {
+          "key": "STIINTE ALE NATURII",
+          "avg_media": 7.88,
+          "n": 18076,
+          "low_confidence": null
+        },
+        {
+          "key": "FILOLOGIE",
+          "avg_media": 7.84,
+          "n": 21268,
+          "low_confidence": null
+        },
+        {
+          "key": "EDUCATOR-PUERICULTOR",
+          "avg_media": 7.84,
+          "n": 1124,
+          "low_confidence": null
+        },
+        {
+          "key": "TEOLOGIE GRECO-CATOLICA",
+          "avg_media": 7.55,
+          "n": 73,
+          "low_confidence": null
+        },
+        {
+          "key": "TEOLOGIE UNITARIANA",
+          "avg_media": 7.55,
+          "n": 61,
+          "low_confidence": null
+        },
+        {
+          "key": "ARHITECTURA, ARTE AMBIENTALE SI DESIGN",
+          "avg_media": 7.52,
+          "n": 880,
+          "low_confidence": null
+        }
+      ],
+      "bottom": [
+        {
+          "key": "TEHNICIAN HORTICULTOR",
+          "avg_media": 5.27,
+          "n": 170,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN PRELUCRARI PE MASINI CU COMANDA NUMERICA",
+          "avg_media": 5.24,
+          "n": 198,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN INDUSTRIA PIELARIEI",
+          "avg_media": 5.22,
+          "n": 51,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN AGROTURISM",
+          "avg_media": 5.19,
+          "n": 215,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN ELECTROTEHNIST",
+          "avg_media": 5.18,
+          "n": 376,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN MORARIT, PANIFICATIE SI PRODUSE FAINOASE",
+          "avg_media": 5.1,
+          "n": 56,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN TRANSPORTURI",
+          "avg_media": 5.05,
+          "n": 1096,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN AGRICULTURA",
+          "avg_media": 4.88,
+          "n": 296,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN MECANIC PENTRU INTRETINERE SI REPARATII",
+          "avg_media": 4.88,
+          "n": 1465,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN PRELUCRAREA LEMNULUI",
+          "avg_media": 4.25,
+          "n": 106,
+          "low_confidence": null
+        }
+      ]
+    },
+    "family_by_avg_media": {
+      "top": [
+        {
+          "key": "MATEMATICA",
+          "avg_media": 8.08,
+          "n": 40801,
+          "low_confidence": null
+        },
+        {
+          "key": "STIINTE",
+          "avg_media": 7.91,
+          "n": 12141,
+          "low_confidence": null
+        },
+        {
+          "key": "LIMBI",
+          "avg_media": 7.84,
+          "n": 21268,
+          "low_confidence": null
+        },
+        {
+          "key": "ALTCEVA",
+          "avg_media": 7.12,
+          "n": 15471,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNIC/VOCATIONAL",
+          "avg_media": 6.23,
+          "n": 41028,
+          "low_confidence": null
+        }
+      ],
+      "bottom": [
+        {
+          "key": "MATEMATICA",
+          "avg_media": 8.08,
+          "n": 40801,
+          "low_confidence": null
+        },
+        {
+          "key": "STIINTE",
+          "avg_media": 7.91,
+          "n": 12141,
+          "low_confidence": null
+        },
+        {
+          "key": "LIMBI",
+          "avg_media": 7.84,
+          "n": 21268,
+          "low_confidence": null
+        },
+        {
+          "key": "ALTCEVA",
+          "avg_media": 7.12,
+          "n": 15471,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNIC/VOCATIONAL",
+          "avg_media": 6.23,
+          "n": 41028,
+          "low_confidence": null
+        }
+      ]
+    },
+    "school_by_avg_media": {
+      "top": [
+        {
+          "key": "COLEGIUL NATIONAL \"EMIL RACOVITA\" CLUJ-NAPOCA",
+          "avg_media": 9.51,
+          "n": 81,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEORETIC \"AVRAM IANCU\" CLUJ-NAPOCA",
+          "avg_media": 9.5,
+          "n": 107,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"GHEORGHE LAZAR\"",
+          "avg_media": 9.49,
+          "n": 270,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL, IASI",
+          "avg_media": 9.48,
+          "n": 131,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"SFANTUL SAVA\"",
+          "avg_media": 9.41,
+          "n": 236,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL DE INFORMATICA \"TUDOR VIANU\"",
+          "avg_media": 9.34,
+          "n": 269,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"COSTACHE NEGRUZZI\", IASI",
+          "avg_media": 9.34,
+          "n": 145,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL 'ANDREI SAGUNA' BRASOV",
+          "avg_media": 9.3,
+          "n": 160,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEORETIC \"NICOLAE BALCESCU\" CLUJ-NAPOCA",
+          "avg_media": 9.3,
+          "n": 111,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"SPIRU HARET\"",
+          "avg_media": 9.29,
+          "n": 227,
+          "low_confidence": null
+        }
+      ],
+      "bottom": [
+        {
+          "key": "LICEUL TEHNOLOGIC BANEASA",
+          "avg_media": 4.49,
+          "n": 38,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"PETRE BANITA\" CALARASI",
+          "avg_media": 4.45,
+          "n": 40,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC METALURGIC SLATINA",
+          "avg_media": 4.41,
+          "n": 59,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC DE VEST TIMISOARA",
+          "avg_media": 4.4,
+          "n": 46,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC NR. 1 MARACINENI",
+          "avg_media": 4.33,
+          "n": 37,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"SAVA BRANCOVICI\" INEU",
+          "avg_media": 4.23,
+          "n": 59,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"VASILE DEAC\" VATRA DORNEI",
+          "avg_media": 4.15,
+          "n": 30,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" ALEXANDRIA",
+          "avg_media": 4.04,
+          "n": 51,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DANUBIUS\" CORABIA",
+          "avg_media": 3.65,
+          "n": 48,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"ION MINCU\" TULCEA",
+          "avg_media": 3.64,
+          "n": 33,
+          "low_confidence": null
+        }
+      ]
+    },
+    "school_by_pass_rate": {
+      "top": [
+        {
+          "key": "COLEGIUL NATIONAL DE INFORMATICA \"TUDOR VIANU\"",
+          "pass_rate": 100.0,
+          "n": 269,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"SFANTUL SAVA\"",
+          "pass_rate": 100.0,
+          "n": 236,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"SPIRU HARET\"",
+          "pass_rate": 100.0,
+          "n": 227,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"FERDINAND I\" BACAU",
+          "pass_rate": 100.0,
+          "n": 176,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"B. P. HASDEU\" MUNICIPIUL BUZAU",
+          "pass_rate": 100.0,
+          "n": 288,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEORETIC \"AVRAM IANCU\" CLUJ-NAPOCA",
+          "pass_rate": 100.0,
+          "n": 107,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"VASILE ALECSANDRI\", MUNICIPIUL GALATI",
+          "pass_rate": 100.0,
+          "n": 186,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"COSTACHE NEGRI\", MUNICIPIUL GALATI",
+          "pass_rate": 100.0,
+          "n": 185,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL, IASI",
+          "pass_rate": 100.0,
+          "n": 131,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"ROMAN VODA\", MUNICIPIUL ROMAN",
+          "pass_rate": 100.0,
+          "n": 243,
+          "low_confidence": null
+        }
+      ],
+      "bottom": [
+        {
+          "key": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA \"DUMITRU MOTOC\"",
+          "pass_rate": 18.07,
+          "n": 96,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"AVRAM IANCU\" TARGU MURES",
+          "pass_rate": 17.65,
+          "n": 40,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC NR. 1 MARACINENI",
+          "pass_rate": 16.67,
+          "n": 37,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DIMITRIE LEONIDA\", MUNICIPIUL PIATRA-NEAMT",
+          "pass_rate": 16.67,
+          "n": 39,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"SAVA BRANCOVICI\" INEU",
+          "pass_rate": 16.13,
+          "n": 59,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC TARNAVENI",
+          "pass_rate": 14.71,
+          "n": 34,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DANUBIUS\" CORABIA",
+          "pass_rate": 13.51,
+          "n": 48,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DIERNA\"",
+          "pass_rate": 12.5,
+          "n": 39,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"CAROL I\", IASI",
+          "pass_rate": 10.81,
+          "n": 40,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"VASILE DEAC\" VATRA DORNEI",
+          "pass_rate": 5.56,
+          "n": 30,
+          "low_confidence": null
+        }
+      ]
+    },
+    "schools_islands_of_excellence": [
+      {
+        "school": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARABË®, MUNICIPIUL RAMNICU VALCEA",
+        "judet": "VL",
+        "n": 164,
+        "presented": 164,
+        "avg_media": 9.29,
+        "std_media": 0.63,
+        "best": 9.95,
+        "worst": 6.03,
+        "spread": 3.92,
+        "island_excellence": 2.12
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"PREPARANDIA-DIMITRIE TICHINDEAL\" ARAD",
+        "judet": "AR",
+        "n": 129,
+        "presented": 129,
+        "avg_media": 9.06,
+        "std_media": 0.81,
+        "best": 10.0,
+        "worst": 5.6,
+        "spread": 4.4,
+        "island_excellence": 2.1
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"CONSTANTIN DIACONOVICI LOGA\" TIMISOARA",
+        "judet": "TM",
+        "n": 176,
+        "presented": 176,
+        "avg_media": 9.22,
+        "std_media": 0.63,
+        "best": 9.96,
+        "worst": 6.03,
+        "spread": 3.93,
+        "island_excellence": 2.09
+      },
+      {
+        "school": "COLEGIUL NATIONAL 'MIRCEA CEL BATRAN' CONSTANTA",
+        "judet": "CT",
+        "n": 204,
+        "presented": 204,
+        "avg_media": 9.29,
+        "std_media": 0.58,
+        "best": 10.0,
+        "worst": 6.03,
+        "spread": 3.97,
+        "island_excellence": 2.01
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"MOISE NICOARA\" ARAD",
+        "judet": "AR",
+        "n": 162,
+        "presented": 162,
+        "avg_media": 8.94,
+        "std_media": 0.73,
+        "best": 9.98,
+        "worst": 5.95,
+        "spread": 4.03,
+        "island_excellence": 1.99
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GHEORGHE TITEICA\"",
+        "judet": "MH",
+        "n": 161,
+        "presented": 161,
+        "avg_media": 8.58,
+        "std_media": 0.95,
+        "best": 9.93,
+        "worst": 5.07,
+        "spread": 4.86,
+        "island_excellence": 1.99
+      },
+      {
+        "school": "COLEGIUL NATIONAL PEDAGOGIC \"CARMEN SYLVA\" TIMISOARA",
+        "judet": "TM",
+        "n": 132,
+        "presented": 132,
+        "avg_media": 9.07,
+        "std_media": 0.62,
+        "best": 10.0,
+        "worst": 5.97,
+        "spread": 4.03,
+        "island_excellence": 1.94
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"UNIREA\" FOCSANI",
+        "judet": "VN",
+        "n": 191,
+        "presented": 191,
+        "avg_media": 9.17,
+        "std_media": 0.75,
+        "best": 10.0,
+        "worst": 4.53,
+        "spread": 5.47,
+        "island_excellence": 1.9
+      },
+      {
+        "school": "LICEUL TEORETIC \"GRIGORE MOISIL\" TIMISOARA",
+        "judet": "TM",
+        "n": 128,
+        "presented": 128,
+        "avg_media": 9.01,
+        "std_media": 0.54,
+        "best": 9.85,
+        "worst": 7.38,
+        "spread": 2.47,
+        "island_excellence": 1.88
+      },
+      {
+        "school": "LICEUL TEORETIC \"GRIGORE MOISIL\" TULCEA",
+        "judet": "TL",
+        "n": 131,
+        "presented": 131,
+        "avg_media": 8.89,
+        "std_media": 0.98,
+        "best": 9.81,
+        "worst": 1.47,
+        "spread": 8.34,
+        "island_excellence": 1.87
+      }
+    ],
+    "schools_highest_variance": [
+      {
+        "school": "LICEUL TEORETIC \"DR.VICTOR GOMOIU\"",
+        "judet": "MH",
+        "n": 51,
+        "presented": 51,
+        "avg_media": 5.26,
+        "std_media": 2.45,
+        "best": 9.58,
+        "worst": 1.37,
+        "spread": 8.21,
+        "island_excellence": -1.33
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"TUDOR VLADIMIRESCU\"",
+        "judet": "MH",
+        "n": 24,
+        "presented": 24,
+        "avg_media": 5.14,
+        "std_media": 2.45,
+        "best": 9.33,
+        "worst": 2.05,
+        "spread": 7.28,
+        "island_excellence": -1.46
+      },
+      {
+        "school": "LICEUL TEORETIC CUJMIR",
+        "judet": "MH",
+        "n": 50,
+        "presented": 50,
+        "avg_media": 5.33,
+        "std_media": 2.36,
+        "best": 9.38,
+        "worst": 1.72,
+        "spread": 7.66,
+        "island_excellence": -1.26
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC VITOMIRESTI",
+        "judet": "OT",
+        "n": 26,
+        "presented": 26,
+        "avg_media": 5.07,
+        "std_media": 2.34,
+        "best": 9.38,
+        "worst": 1.65,
+        "spread": 7.73,
+        "island_excellence": -1.82
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"MATEI BASARAB\"",
+        "judet": "MH",
+        "n": 82,
+        "presented": 82,
+        "avg_media": 5.34,
+        "std_media": 2.26,
+        "best": 9.65,
+        "worst": 1.52,
+        "spread": 8.13,
+        "island_excellence": -1.25
+      },
+      {
+        "school": "LICEUL TEORETIC VIDELE",
+        "judet": "TR",
+        "n": 164,
+        "presented": 164,
+        "avg_media": 6.43,
+        "std_media": 2.25,
+        "best": 9.76,
+        "worst": 1.32,
+        "spread": 8.44,
+        "island_excellence": -0.38
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC COGEALAC",
+        "judet": "CT",
+        "n": 23,
+        "presented": 23,
+        "avg_media": 5.7,
+        "std_media": 2.19,
+        "best": 9.61,
+        "worst": 1.87,
+        "spread": 7.74,
+        "island_excellence": -1.58
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC THEODOR PALLADY",
+        "judet": "B",
+        "n": 87,
+        "presented": 87,
+        "avg_media": 5.19,
+        "std_media": 2.19,
+        "best": 9.66,
+        "worst": 1.35,
+        "spread": 8.31,
+        "island_excellence": -2.45
+      },
+      {
+        "school": "LICEUL BORSA",
+        "judet": "MM",
+        "n": 189,
+        "presented": 189,
+        "avg_media": 5.84,
+        "std_media": 2.18,
+        "best": 9.65,
+        "worst": 1.6,
+        "spread": 8.05,
+        "island_excellence": -1.35
+      },
+      {
+        "school": "LICEUL \"CONSTANTIN BRANCOVEANU\", ORAS HOREZU",
+        "judet": "VL",
+        "n": 267,
+        "presented": 267,
+        "avg_media": 6.67,
+        "std_media": 2.16,
+        "best": 9.85,
+        "worst": 1.25,
+        "spread": 8.6,
+        "island_excellence": -0.51
+      }
+    ],
+    "biggest_contestation_jumps": []
+  },
+  "reporter_deepdive": {
+    "contestation_rescue": {
+      "total": 1906,
+      "by_subject": {
+        "romana": 793,
+        "profil": 446,
+        "alegere": 487,
+        "materna": 180
+      }
+    },
+    "dead_zone": {
+      "5.0-5.5": 6177,
+      "5.5-6.0": 7962,
+      "6.0-6.5": 11435,
+      "6.5-7.0": 10410
+    },
+    "county_math_pass": [
+      {
+        "judet": "IF",
+        "math_pass_rate": 65.08,
+        "math_n": 252
+      },
+      {
+        "judet": "MH",
+        "math_pass_rate": 68.65,
+        "math_n": 386
+      },
+      {
+        "judet": "TR",
+        "math_pass_rate": 71.79,
+        "math_n": 436
+      },
+      {
+        "judet": "CL",
+        "math_pass_rate": 74.17,
+        "math_n": 360
+      },
+      {
+        "judet": "DB",
+        "math_pass_rate": 74.6,
+        "math_n": 945
+      },
+      {
+        "judet": "GR",
+        "math_pass_rate": 76.79,
+        "math_n": 168
+      },
+      {
+        "judet": "IL",
+        "math_pass_rate": 77.17,
+        "math_n": 565
+      },
+      {
+        "judet": "SJ",
+        "math_pass_rate": 77.78,
+        "math_n": 504
+      },
+      {
+        "judet": "CS",
+        "math_pass_rate": 77.98,
+        "math_n": 436
+      },
+      {
+        "judet": "OT",
+        "math_pass_rate": 78.3,
+        "math_n": 659
+      },
+      {
+        "judet": "BT",
+        "math_pass_rate": 81.77,
+        "math_n": 801
+      },
+      {
+        "judet": "VL",
+        "math_pass_rate": 82.15,
+        "math_n": 818
+      },
+      {
+        "judet": "AR",
+        "math_pass_rate": 82.75,
+        "math_n": 806
+      },
+      {
+        "judet": "MM",
+        "math_pass_rate": 83.22,
+        "math_n": 864
+      },
+      {
+        "judet": "BZ",
+        "math_pass_rate": 83.68,
+        "math_n": 778
+      }
+    ],
+    "repeater_by_spec": {
+      "lowest": [
+        {
+          "specializare": "TEHNICIAN IN INDUSTRIA TEXTILA",
+          "pass_rate": 25.0,
+          "n": 84
+        },
+        {
+          "specializare": "TEOLOGIE ORTODOXA",
+          "pass_rate": 28.05,
+          "n": 82
+        },
+        {
+          "specializare": "TEHNICIAN OPERATOR TEHNICA DE CALCUL",
+          "pass_rate": 29.52,
+          "n": 332
+        },
+        {
+          "specializare": "MATEMATICA-INFORMATICA",
+          "pass_rate": 29.71,
+          "n": 956
+        },
+        {
+          "specializare": "TEHNICIAN CHIMIST DE LABORATOR",
+          "pass_rate": 31.15,
+          "n": 61
+        },
+        {
+          "specializare": "TEHNICIAN IN HOTELARIE",
+          "pass_rate": 31.65,
+          "n": 79
+        },
+        {
+          "specializare": "TEHNICIAN ECOLOG SI PROTECTIA CALITATII MEDIULUI",
+          "pass_rate": 31.95,
+          "n": 482
+        },
+        {
+          "specializare": "TEHNICIAN ELECTROTEHNIST",
+          "pass_rate": 32.2,
+          "n": 118
+        },
+        {
+          "specializare": "TEHNICIAN ANALIZE PRODUSE ALIMENTARE",
+          "pass_rate": 32.31,
+          "n": 195
+        },
+        {
+          "specializare": "TEHNICIAN IN SILVICULTURA SI EXPLOATARI FORESTIERE",
+          "pass_rate": 32.5,
+          "n": 120
+        }
+      ],
+      "highest": [
+        {
+          "specializare": "MUZICA",
+          "pass_rate": 46.74,
+          "n": 92
+        },
+        {
+          "specializare": "TEHNICIAN DESIGNER VESTIMENTAR",
+          "pass_rate": 46.09,
+          "n": 115
+        },
+        {
+          "specializare": "TEHNICIAN ELECTROMECANIC",
+          "pass_rate": 41.71,
+          "n": 211
+        },
+        {
+          "specializare": "TEHNICIAN PROIECTANT CAD",
+          "pass_rate": 41.27,
+          "n": 189
+        },
+        {
+          "specializare": "COAFOR STILIST",
+          "pass_rate": 40.6,
+          "n": 133
+        },
+        {
+          "specializare": "TEHNICIAN IN AUTOMATIZARI",
+          "pass_rate": 40.29,
+          "n": 206
+        },
+        {
+          "specializare": "TEHNICIAN IN GASTRONOMIE",
+          "pass_rate": 40.0,
+          "n": 325
+        },
+        {
+          "specializare": "ARTE PLASTICE SI DECORATIVE",
+          "pass_rate": 39.42,
+          "n": 104
+        },
+        {
+          "specializare": "TEHNICIAN IN ADMINISTRATIE",
+          "pass_rate": 38.85,
+          "n": 139
+        },
+        {
+          "specializare": "TEHNICIAN IN ACTIVITATI ECONOMICE",
+          "pass_rate": 38.67,
+          "n": 830
+        }
+      ]
+    },
+    "neprezentat_schools": [
+      {
+        "school": "LICEUL TEHNOLOGIC \"STEFAN CEL MARE\" CAJVANA",
+        "neprez_rate": 59.26,
+        "n": 81
+      },
+      {
+        "school": "COLEGIUL TEHNIC RESITA",
+        "neprez_rate": 48.84,
+        "n": 43
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"PETRE BANITA\" CALARASI",
+        "neprez_rate": 47.5,
+        "n": 40
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"SAVA BRANCOVICI\" INEU",
+        "neprez_rate": 47.46,
+        "n": 59
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"DECEBAL\"",
+        "neprez_rate": 41.58,
+        "n": 101
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"VASILE DEAC\" VATRA DORNEI",
+        "neprez_rate": 40.0,
+        "n": 30
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC AUTOMECANICA MEDIAS",
+        "neprez_rate": 35.14,
+        "n": 37
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC BARSESTI",
+        "neprez_rate": 34.69,
+        "n": 49
+      },
+      {
+        "school": "LICEUL DE INDUSTRIE ALIMENTARA CRAIOVA",
+        "neprez_rate": 32.26,
+        "n": 31
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"MIHAI NOVAC\" ORAVITA",
+        "neprez_rate": 29.63,
+        "n": 54
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\" ROSIORI DE VEDE",
+        "neprez_rate": 28.92,
+        "n": 83
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"DIMITRIE LEONIDA\", IASI",
+        "neprez_rate": 27.78,
+        "n": 72
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" ALEXANDRIA",
+        "neprez_rate": 27.45,
+        "n": 51
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARA FETESTI",
+        "neprez_rate": 27.38,
+        "n": 84
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"ION MINCU\" TULCEA",
+        "neprez_rate": 27.27,
+        "n": 33
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"CRISTOFOR NAKO\" SANNICOLAU MARE",
+        "neprez_rate": 26.76,
+        "n": 71
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"OVID CALEDONIU\", MUNICIPIUL TECUCI",
+        "neprez_rate": 25.86,
+        "n": 58
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"DOMNUL TUDOR\"",
+        "neprez_rate": 25.53,
+        "n": 47
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO TARGOVISTE",
+        "neprez_rate": 25.35,
+        "n": 71
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"CONSTANTIN BRANCOVEANU\" TARGOVISTE",
+        "neprez_rate": 24.69,
+        "n": 81
+      }
+    ],
+    "forma_x_repeater": {
+      "ZI_rep": {
+        "n": 13241,
+        "pass_rate": 35.58
+      },
+      "ZI_first": {
+        "n": 114710,
+        "pass_rate": 82.03
+      },
+      "SERAL_rep": {
+        "n": 889,
+        "pass_rate": 32.94
+      },
+      "SERAL_first": {
+        "n": 678,
+        "pass_rate": 27.96
+      },
+      "FRECVENTA REDUSA_rep": {
+        "n": 633,
+        "pass_rate": 28.57
+      },
+      "FRECVENTA REDUSA_first": {
+        "n": 558,
+        "pass_rate": 47.64
+      }
+    },
+    "mehedinti": {
+      "n": 1492,
+      "pass_rate": 62.84,
+      "avg_media": 6.59,
+      "neprez_rate": 8.85,
+      "repeater_rate": 16.76,
+      "seral_n": 33
+    },
+    "school_pass_bins": {
+      "095-100%": 177,
+      "100-105%": 56,
+      "085-090%": 75,
+      "090-095%": 102,
+      "080-085%": 72,
+      "060-065%": 76,
+      "050-055%": 64,
+      "070-075%": 57,
+      "065-070%": 58,
+      "055-060%": 71,
+      "075-080%": 61,
+      "045-050%": 46,
+      "040-045%": 46,
+      "035-040%": 38,
+      "020-025%": 21,
+      "025-030%": 18,
+      "030-035%": 29,
+      "015-020%": 12,
+      "010-015%": 4
+    },
+    "contestation_delta_by_county": {
+      "BT": 0.27,
+      "CJ": 0.26,
+      "SM": 0.25,
+      "SB": 0.25,
+      "HD": 0.24,
+      "IS": 0.24,
+      "BN": 0.24,
+      "BV": 0.24,
+      "GL": 0.23,
+      "PH": 0.23,
+      "VL": 0.23,
+      "B": 0.22,
+      "AG": 0.22,
+      "BR": 0.22,
+      "MM": 0.22,
+      "TL": 0.22,
+      "BC": 0.21,
+      "CT": 0.21,
+      "CS": 0.21,
+      "IF": 0.21,
+      "DB": 0.2,
+      "MS": 0.2,
+      "VS": 0.2,
+      "AB": 0.2,
+      "GR": 0.2,
+      "SV": 0.19,
+      "TM": 0.19,
+      "NT": 0.18,
+      "MH": 0.18,
+      "BH": 0.18,
+      "VN": 0.17,
+      "BZ": 0.17,
+      "IL": 0.17,
+      "TR": 0.17,
+      "OT": 0.16,
+      "HR": 0.16,
+      "AR": 0.15,
+      "DJ": 0.15,
+      "GJ": 0.14,
+      "SJ": 0.13,
+      "CV": 0.12,
+      "CL": 0.11
+    }
+  },
+  "by_dimension": {
+    "judet": {
+      "AG": {
+        "n": 4194,
+        "presented": 4071,
+        "passed": 3216,
+        "rejected": 855,
+        "notpresented": 122,
+        "eliminated": 1,
+        "pass_rate": 79.0,
+        "pass_rate_ci95": [
+          77.72,
+          80.22
+        ],
+        "avg_media": 7.42,
+        "median_media": 7.71,
+        "std_media": 1.73,
+        "tens": 1,
+        "tens_rate": 0.02,
+        "avg_media_ci95": [
+          7.36,
+          7.47
+        ],
+        "avg_romana_final": 7.19,
+        "std_romana_final": 1.71,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.36,
+        "std_profil_final": 1.99,
+        "avg_alegere_final": 7.7,
+        "std_alegere_final": 2.02
+      },
+      "AR": {
+        "n": 2757,
+        "presented": 2596,
+        "passed": 1807,
+        "rejected": 789,
+        "notpresented": 159,
+        "eliminated": 2,
+        "pass_rate": 69.61,
+        "pass_rate_ci95": [
+          67.81,
+          71.35
+        ],
+        "avg_media": 6.95,
+        "median_media": 7.08,
+        "std_media": 1.83,
+        "tens": 1,
+        "tens_rate": 0.04,
+        "avg_media_ci95": [
+          6.88,
+          7.02
+        ],
+        "avg_romana_final": 6.79,
+        "std_romana_final": 1.77,
+        "avg_materna_final": 7.55,
+        "std_materna_final": 1.45,
+        "avg_profil_final": 6.67,
+        "std_profil_final": 2.26,
+        "avg_alegere_final": 7.4,
+        "std_alegere_final": 2.0
+      },
+      "B": {
+        "n": 17881,
+        "presented": 17404,
+        "passed": 14177,
+        "rejected": 3227,
+        "notpresented": 470,
+        "eliminated": 7,
+        "pass_rate": 81.46,
+        "pass_rate_ci95": [
+          80.87,
+          82.03
+        ],
+        "avg_media": 7.64,
+        "median_media": 8.03,
+        "std_media": 1.7,
+        "tens": 19,
+        "tens_rate": 0.11,
+        "avg_media_ci95": [
+          7.61,
+          7.66
+        ],
+        "avg_romana_final": 7.48,
+        "std_romana_final": 1.7,
+        "avg_materna_final": 7.19,
+        "std_materna_final": 1.13,
+        "avg_profil_final": 7.6,
+        "std_profil_final": 1.98,
+        "avg_alegere_final": 7.84,
+        "std_alegere_final": 1.94
+      },
+      "BC": {
+        "n": 3838,
+        "presented": 3736,
+        "passed": 3038,
+        "rejected": 698,
+        "notpresented": 101,
+        "eliminated": 1,
+        "pass_rate": 81.32,
+        "pass_rate_ci95": [
+          80.04,
+          82.53
+        ],
+        "avg_media": 7.58,
+        "median_media": 7.85,
+        "std_media": 1.61,
+        "tens": 4,
+        "tens_rate": 0.11,
+        "avg_media_ci95": [
+          7.53,
+          7.63
+        ],
+        "avg_romana_final": 7.41,
+        "std_romana_final": 1.68,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.44,
+        "std_profil_final": 1.91,
+        "avg_alegere_final": 7.89,
+        "std_alegere_final": 1.75
+      },
+      "BZ": {
+        "n": 2633,
+        "presented": 2551,
+        "passed": 1970,
+        "rejected": 581,
+        "notpresented": 82,
+        "eliminated": 0,
+        "pass_rate": 77.22,
+        "pass_rate_ci95": [
+          75.56,
+          78.81
+        ],
+        "avg_media": 7.37,
+        "median_media": 7.61,
+        "std_media": 1.71,
+        "tens": 2,
+        "tens_rate": 0.08,
+        "avg_media_ci95": [
+          7.29,
+          7.44
+        ],
+        "avg_romana_final": 7.19,
+        "std_romana_final": 1.64,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.21,
+        "std_profil_final": 2.06,
+        "avg_alegere_final": 7.71,
+        "std_alegere_final": 1.99
+      },
+      "CJ": {
+        "n": 4402,
+        "presented": 4306,
+        "passed": 3755,
+        "rejected": 551,
+        "notpresented": 94,
+        "eliminated": 2,
+        "pass_rate": 87.2,
+        "pass_rate_ci95": [
+          86.17,
+          88.17
+        ],
+        "avg_media": 7.91,
+        "median_media": 8.27,
+        "std_media": 1.47,
+        "tens": 4,
+        "tens_rate": 0.09,
+        "avg_media_ci95": [
+          7.87,
+          7.96
+        ],
+        "avg_romana_final": 7.65,
+        "std_romana_final": 1.57,
+        "avg_materna_final": 8.09,
+        "std_materna_final": 1.32,
+        "avg_profil_final": 7.92,
+        "std_profil_final": 1.71,
+        "avg_alegere_final": 8.18,
+        "std_alegere_final": 1.64
+      },
+      "CT": {
+        "n": 5020,
+        "presented": 4838,
+        "passed": 3688,
+        "rejected": 1150,
+        "notpresented": 181,
+        "eliminated": 1,
+        "pass_rate": 76.23,
+        "pass_rate_ci95": [
+          75.01,
+          77.41
+        ],
+        "avg_media": 7.28,
+        "median_media": 7.56,
+        "std_media": 1.78,
+        "tens": 2,
+        "tens_rate": 0.04,
+        "avg_media_ci95": [
+          7.23,
+          7.33
+        ],
+        "avg_romana_final": 7.19,
+        "std_romana_final": 1.72,
+        "avg_materna_final": 7.85,
+        "std_materna_final": 1.88,
+        "avg_profil_final": 7.24,
+        "std_profil_final": 2.08,
+        "avg_alegere_final": 7.43,
+        "std_alegere_final": 2.08
+      },
+      "DB": {
+        "n": 2946,
+        "presented": 2799,
+        "passed": 1962,
+        "rejected": 837,
+        "notpresented": 144,
+        "eliminated": 3,
+        "pass_rate": 70.1,
+        "pass_rate_ci95": [
+          68.37,
+          71.76
+        ],
+        "avg_media": 7.06,
+        "median_media": 7.25,
+        "std_media": 1.9,
+        "tens": 4,
+        "tens_rate": 0.14,
+        "avg_media_ci95": [
+          6.98,
+          7.14
+        ],
+        "avg_romana_final": 6.94,
+        "std_romana_final": 1.85,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 6.81,
+        "std_profil_final": 2.33,
+        "avg_alegere_final": 7.45,
+        "std_alegere_final": 2.03
+      },
+      "DJ": {
+        "n": 3959,
+        "presented": 3739,
+        "passed": 2855,
+        "rejected": 884,
+        "notpresented": 218,
+        "eliminated": 2,
+        "pass_rate": 76.36,
+        "pass_rate_ci95": [
+          74.97,
+          77.69
+        ],
+        "avg_media": 7.35,
+        "median_media": 7.76,
+        "std_media": 1.88,
+        "tens": 2,
+        "tens_rate": 0.05,
+        "avg_media_ci95": [
+          7.29,
+          7.41
+        ],
+        "avg_romana_final": 7.15,
+        "std_romana_final": 1.78,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.17,
+        "std_profil_final": 2.28,
+        "avg_alegere_final": 7.74,
+        "std_alegere_final": 2.06
+      },
+      "GJ": {
+        "n": 2670,
+        "presented": 2521,
+        "passed": 1815,
+        "rejected": 706,
+        "notpresented": 147,
+        "eliminated": 2,
+        "pass_rate": 72.0,
+        "pass_rate_ci95": [
+          70.21,
+          73.71
+        ],
+        "avg_media": 7.06,
+        "median_media": 7.25,
+        "std_media": 1.8,
+        "tens": 1,
+        "tens_rate": 0.04,
+        "avg_media_ci95": [
+          6.98,
+          7.13
+        ],
+        "avg_romana_final": 6.77,
+        "std_romana_final": 1.86,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 6.86,
+        "std_profil_final": 2.16,
+        "avg_alegere_final": 7.56,
+        "std_alegere_final": 1.99
+      },
+      "GL": {
+        "n": 3302,
+        "presented": 3198,
+        "passed": 2560,
+        "rejected": 638,
+        "notpresented": 104,
+        "eliminated": 0,
+        "pass_rate": 80.05,
+        "pass_rate_ci95": [
+          78.63,
+          81.4
+        ],
+        "avg_media": 7.5,
+        "median_media": 7.71,
+        "std_media": 1.62,
+        "tens": 3,
+        "tens_rate": 0.09,
+        "avg_media_ci95": [
+          7.44,
+          7.56
+        ],
+        "avg_romana_final": 7.3,
+        "std_romana_final": 1.7,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.47,
+        "std_profil_final": 1.83,
+        "avg_alegere_final": 7.75,
+        "std_alegere_final": 1.88
+      },
+      "HD": {
+        "n": 2341,
+        "presented": 2235,
+        "passed": 1659,
+        "rejected": 576,
+        "notpresented": 105,
+        "eliminated": 1,
+        "pass_rate": 74.23,
+        "pass_rate_ci95": [
+          72.37,
+          76.0
+        ],
+        "avg_media": 7.17,
+        "median_media": 7.31,
+        "std_media": 1.69,
+        "tens": 3,
+        "tens_rate": 0.13,
+        "avg_media_ci95": [
+          7.1,
+          7.24
+        ],
+        "avg_romana_final": 7.03,
+        "std_romana_final": 1.7,
+        "avg_materna_final": 7.42,
+        "std_materna_final": 1.76,
+        "avg_profil_final": 6.98,
+        "std_profil_final": 2.03,
+        "avg_alegere_final": 7.53,
+        "std_alegere_final": 1.9
+      },
+      "IS": {
+        "n": 5288,
+        "presented": 5115,
+        "passed": 4226,
+        "rejected": 889,
+        "notpresented": 172,
+        "eliminated": 1,
+        "pass_rate": 82.62,
+        "pass_rate_ci95": [
+          81.56,
+          83.63
+        ],
+        "avg_media": 7.69,
+        "median_media": 8.01,
+        "std_media": 1.6,
+        "tens": 3,
+        "tens_rate": 0.06,
+        "avg_media_ci95": [
+          7.64,
+          7.73
+        ],
+        "avg_romana_final": 7.49,
+        "std_romana_final": 1.61,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.73,
+        "std_profil_final": 1.81,
+        "avg_alegere_final": 7.85,
+        "std_alegere_final": 1.89
+      },
+      "MS": {
+        "n": 3197,
+        "presented": 3127,
+        "passed": 2382,
+        "rejected": 745,
+        "notpresented": 68,
+        "eliminated": 2,
+        "pass_rate": 76.18,
+        "pass_rate_ci95": [
+          74.65,
+          77.64
+        ],
+        "avg_media": 7.26,
+        "median_media": 7.48,
+        "std_media": 1.67,
+        "tens": 2,
+        "tens_rate": 0.06,
+        "avg_media_ci95": [
+          7.2,
+          7.32
+        ],
+        "avg_romana_final": 7.01,
+        "std_romana_final": 1.73,
+        "avg_materna_final": 7.6,
+        "std_materna_final": 1.42,
+        "avg_profil_final": 7.07,
+        "std_profil_final": 2.04,
+        "avg_alegere_final": 7.64,
+        "std_alegere_final": 1.87
+      },
+      "NT": {
+        "n": 3087,
+        "presented": 3003,
+        "passed": 2305,
+        "rejected": 698,
+        "notpresented": 84,
+        "eliminated": 0,
+        "pass_rate": 76.76,
+        "pass_rate_ci95": [
+          75.21,
+          78.23
+        ],
+        "avg_media": 7.39,
+        "median_media": 7.63,
+        "std_media": 1.7,
+        "tens": 1,
+        "tens_rate": 0.03,
+        "avg_media_ci95": [
+          7.32,
+          7.45
+        ],
+        "avg_romana_final": 7.18,
+        "std_romana_final": 1.73,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.36,
+        "std_profil_final": 1.96,
+        "avg_alegere_final": 7.63,
+        "std_alegere_final": 1.92
+      },
+      "OT": {
+        "n": 2312,
+        "presented": 2200,
+        "passed": 1515,
+        "rejected": 685,
+        "notpresented": 111,
+        "eliminated": 1,
+        "pass_rate": 68.86,
+        "pass_rate_ci95": [
+          66.9,
+          70.76
+        ],
+        "avg_media": 6.88,
+        "median_media": 7.08,
+        "std_media": 1.9,
+        "tens": 2,
+        "tens_rate": 0.09,
+        "avg_media_ci95": [
+          6.8,
+          6.95
+        ],
+        "avg_romana_final": 6.71,
+        "std_romana_final": 1.82,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 6.59,
+        "std_profil_final": 2.35,
+        "avg_alegere_final": 7.36,
+        "std_alegere_final": 2.11
+      },
+      "PH": {
+        "n": 5397,
+        "presented": 5250,
+        "passed": 4094,
+        "rejected": 1156,
+        "notpresented": 146,
+        "eliminated": 1,
+        "pass_rate": 77.98,
+        "pass_rate_ci95": [
+          76.84,
+          79.08
+        ],
+        "avg_media": 7.42,
+        "median_media": 7.7,
+        "std_media": 1.7,
+        "tens": 5,
+        "tens_rate": 0.1,
+        "avg_media_ci95": [
+          7.37,
+          7.46
+        ],
+        "avg_romana_final": 7.32,
+        "std_romana_final": 1.65,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.38,
+        "std_profil_final": 1.94,
+        "avg_alegere_final": 7.58,
+        "std_alegere_final": 2.03
+      },
+      "SB": {
+        "n": 2530,
+        "presented": 2446,
+        "passed": 1957,
+        "rejected": 489,
+        "notpresented": 84,
+        "eliminated": 0,
+        "pass_rate": 80.01,
+        "pass_rate_ci95": [
+          78.38,
+          81.55
+        ],
+        "avg_media": 7.54,
+        "median_media": 7.91,
+        "std_media": 1.62,
+        "tens": 1,
+        "tens_rate": 0.04,
+        "avg_media_ci95": [
+          7.47,
+          7.61
+        ],
+        "avg_romana_final": 7.35,
+        "std_romana_final": 1.64,
+        "avg_materna_final": 8.16,
+        "std_materna_final": 1.16,
+        "avg_profil_final": 7.57,
+        "std_profil_final": 1.8,
+        "avg_alegere_final": 7.75,
+        "std_alegere_final": 1.92
+      },
+      "SM": {
+        "n": 1871,
+        "presented": 1831,
+        "passed": 1474,
+        "rejected": 357,
+        "notpresented": 38,
+        "eliminated": 2,
+        "pass_rate": 80.5,
+        "pass_rate_ci95": [
+          78.62,
+          82.25
+        ],
+        "avg_media": 7.41,
+        "median_media": 7.61,
+        "std_media": 1.52,
+        "tens": 1,
+        "tens_rate": 0.05,
+        "avg_media_ci95": [
+          7.33,
+          7.47
+        ],
+        "avg_romana_final": 7.2,
+        "std_romana_final": 1.58,
+        "avg_materna_final": 7.87,
+        "std_materna_final": 1.39,
+        "avg_profil_final": 7.13,
+        "std_profil_final": 1.86,
+        "avg_alegere_final": 7.83,
+        "std_alegere_final": 1.73
+      },
+      "SV": {
+        "n": 4904,
+        "presented": 4722,
+        "passed": 3676,
+        "rejected": 1046,
+        "notpresented": 181,
+        "eliminated": 1,
+        "pass_rate": 77.85,
+        "pass_rate_ci95": [
+          76.64,
+          79.01
+        ],
+        "avg_media": 7.4,
+        "median_media": 7.7,
+        "std_media": 1.76,
+        "tens": 4,
+        "tens_rate": 0.08,
+        "avg_media_ci95": [
+          7.34,
+          7.44
+        ],
+        "avg_romana_final": 7.3,
+        "std_romana_final": 1.75,
+        "avg_materna_final": 7.32,
+        "std_materna_final": 1.28,
+        "avg_profil_final": 7.22,
+        "std_profil_final": 2.08,
+        "avg_alegere_final": 7.67,
+        "std_alegere_final": 1.99
+      },
+      "TM": {
+        "n": 4560,
+        "presented": 4344,
+        "passed": 3182,
+        "rejected": 1162,
+        "notpresented": 214,
+        "eliminated": 2,
+        "pass_rate": 73.25,
+        "pass_rate_ci95": [
+          71.91,
+          74.55
+        ],
+        "avg_media": 7.13,
+        "median_media": 7.35,
+        "std_media": 1.79,
+        "tens": 1,
+        "tens_rate": 0.02,
+        "avg_media_ci95": [
+          7.08,
+          7.18
+        ],
+        "avg_romana_final": 6.96,
+        "std_romana_final": 1.73,
+        "avg_materna_final": 7.32,
+        "std_materna_final": 1.38,
+        "avg_profil_final": 7.03,
+        "std_profil_final": 2.12,
+        "avg_alegere_final": 7.43,
+        "std_alegere_final": 2.06
+      },
+      "VL": {
+        "n": 2340,
+        "presented": 2257,
+        "passed": 1644,
+        "rejected": 613,
+        "notpresented": 83,
+        "eliminated": 0,
+        "pass_rate": 72.84,
+        "pass_rate_ci95": [
+          70.97,
+          74.64
+        ],
+        "avg_media": 7.18,
+        "median_media": 7.4,
+        "std_media": 1.85,
+        "tens": 1,
+        "tens_rate": 0.04,
+        "avg_media_ci95": [
+          7.09,
+          7.25
+        ],
+        "avg_romana_final": 7.06,
+        "std_romana_final": 1.8,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 6.97,
+        "std_profil_final": 2.27,
+        "avg_alegere_final": 7.5,
+        "std_alegere_final": 2.03
+      },
+      "VN": {
+        "n": 2176,
+        "presented": 2084,
+        "passed": 1560,
+        "rejected": 524,
+        "notpresented": 92,
+        "eliminated": 0,
+        "pass_rate": 74.86,
+        "pass_rate_ci95": [
+          72.95,
+          76.67
+        ],
+        "avg_media": 7.28,
+        "median_media": 7.56,
+        "std_media": 1.85,
+        "tens": 2,
+        "tens_rate": 0.1,
+        "avg_media_ci95": [
+          7.2,
+          7.36
+        ],
+        "avg_romana_final": 7.2,
+        "std_romana_final": 1.78,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.17,
+        "std_profil_final": 2.19,
+        "avg_alegere_final": 7.47,
+        "std_alegere_final": 2.07
+      },
+      "BH": {
+        "n": 3539,
+        "presented": 3473,
+        "passed": 2815,
+        "rejected": 658,
+        "notpresented": 65,
+        "eliminated": 1,
+        "pass_rate": 81.05,
+        "pass_rate_ci95": [
+          79.72,
+          82.32
+        ],
+        "avg_media": 7.53,
+        "median_media": 7.8,
+        "std_media": 1.57,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.48,
+          7.59
+        ],
+        "avg_romana_final": 7.25,
+        "std_romana_final": 1.67,
+        "avg_materna_final": 7.46,
+        "std_materna_final": 1.32,
+        "avg_profil_final": 7.35,
+        "std_profil_final": 1.92,
+        "avg_alegere_final": 7.96,
+        "std_alegere_final": 1.7
+      },
+      "IL": {
+        "n": 1561,
+        "presented": 1469,
+        "passed": 991,
+        "rejected": 478,
+        "notpresented": 92,
+        "eliminated": 0,
+        "pass_rate": 67.46,
+        "pass_rate_ci95": [
+          65.02,
+          69.81
+        ],
+        "avg_media": 6.93,
+        "median_media": 7.03,
+        "std_media": 1.84,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.84,
+          7.02
+        ],
+        "avg_romana_final": 6.83,
+        "std_romana_final": 1.76,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 6.65,
+        "std_profil_final": 2.27,
+        "avg_alegere_final": 7.33,
+        "std_alegere_final": 2.04
+      },
+      "MM": {
+        "n": 3109,
+        "presented": 3007,
+        "passed": 2263,
+        "rejected": 744,
+        "notpresented": 96,
+        "eliminated": 6,
+        "pass_rate": 75.26,
+        "pass_rate_ci95": [
+          73.68,
+          76.77
+        ],
+        "avg_media": 7.19,
+        "median_media": 7.41,
+        "std_media": 1.73,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.12,
+          7.25
+        ],
+        "avg_romana_final": 7.0,
+        "std_romana_final": 1.69,
+        "avg_materna_final": 7.18,
+        "std_materna_final": 1.41,
+        "avg_profil_final": 7.01,
+        "std_profil_final": 2.12,
+        "avg_alegere_final": 7.55,
+        "std_alegere_final": 1.97
+      },
+      "HR": {
+        "n": 2377,
+        "presented": 2318,
+        "passed": 1648,
+        "rejected": 670,
+        "notpresented": 59,
+        "eliminated": 0,
+        "pass_rate": 71.1,
+        "pass_rate_ci95": [
+          69.22,
+          72.91
+        ],
+        "avg_media": 7.07,
+        "median_media": 7.2,
+        "std_media": 1.48,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.01,
+          7.13
+        ],
+        "avg_romana_final": 6.5,
+        "std_romana_final": 1.72,
+        "avg_materna_final": 7.62,
+        "std_materna_final": 1.29,
+        "avg_profil_final": 6.89,
+        "std_profil_final": 1.83,
+        "avg_alegere_final": 7.46,
+        "std_alegere_final": 1.76
+      },
+      "AB": {
+        "n": 2122,
+        "presented": 2042,
+        "passed": 1701,
+        "rejected": 341,
+        "notpresented": 74,
+        "eliminated": 6,
+        "pass_rate": 83.3,
+        "pass_rate_ci95": [
+          81.62,
+          84.86
+        ],
+        "avg_media": 7.68,
+        "median_media": 8.03,
+        "std_media": 1.58,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.6,
+          7.74
+        ],
+        "avg_romana_final": 7.48,
+        "std_romana_final": 1.62,
+        "avg_materna_final": 7.43,
+        "std_materna_final": 1.47,
+        "avg_profil_final": 7.56,
+        "std_profil_final": 1.85,
+        "avg_alegere_final": 8.0,
+        "std_alegere_final": 1.81
+      },
+      "CV": {
+        "n": 1208,
+        "presented": 1183,
+        "passed": 912,
+        "rejected": 271,
+        "notpresented": 25,
+        "eliminated": 0,
+        "pass_rate": 77.09,
+        "pass_rate_ci95": [
+          74.61,
+          79.4
+        ],
+        "avg_media": 7.31,
+        "median_media": 7.48,
+        "std_media": 1.53,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.22,
+          7.4
+        ],
+        "avg_romana_final": 6.86,
+        "std_romana_final": 1.69,
+        "avg_materna_final": 7.59,
+        "std_materna_final": 1.37,
+        "avg_profil_final": 7.2,
+        "std_profil_final": 1.89,
+        "avg_alegere_final": 7.61,
+        "std_alegere_final": 1.79
+      },
+      "MH": {
+        "n": 1492,
+        "presented": 1359,
+        "passed": 854,
+        "rejected": 505,
+        "notpresented": 132,
+        "eliminated": 1,
+        "pass_rate": 62.84,
+        "pass_rate_ci95": [
+          60.24,
+          65.37
+        ],
+        "avg_media": 6.59,
+        "median_media": 6.81,
+        "std_media": 2.13,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.48,
+          6.71
+        ],
+        "avg_romana_final": 6.47,
+        "std_romana_final": 1.97,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 6.25,
+        "std_profil_final": 2.58,
+        "avg_alegere_final": 7.06,
+        "std_alegere_final": 2.37
+      },
+      "VS": {
+        "n": 2562,
+        "presented": 2435,
+        "passed": 1774,
+        "rejected": 661,
+        "notpresented": 125,
+        "eliminated": 2,
+        "pass_rate": 72.85,
+        "pass_rate_ci95": [
+          71.05,
+          74.58
+        ],
+        "avg_media": 7.17,
+        "median_media": 7.38,
+        "std_media": 1.84,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.09,
+          7.25
+        ],
+        "avg_romana_final": 6.93,
+        "std_romana_final": 1.79,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.05,
+        "std_profil_final": 2.17,
+        "avg_alegere_final": 7.55,
+        "std_alegere_final": 2.07
+      },
+      "BV": {
+        "n": 3474,
+        "presented": 3398,
+        "passed": 2835,
+        "rejected": 563,
+        "notpresented": 75,
+        "eliminated": 1,
+        "pass_rate": 83.43,
+        "pass_rate_ci95": [
+          82.14,
+          84.64
+        ],
+        "avg_media": 7.61,
+        "median_media": 7.86,
+        "std_media": 1.53,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.56,
+          7.66
+        ],
+        "avg_romana_final": 7.37,
+        "std_romana_final": 1.59,
+        "avg_materna_final": 7.48,
+        "std_materna_final": 1.42,
+        "avg_profil_final": 7.61,
+        "std_profil_final": 1.77,
+        "avg_alegere_final": 7.89,
+        "std_alegere_final": 1.78
+      },
+      "TR": {
+        "n": 1735,
+        "presented": 1605,
+        "passed": 1073,
+        "rejected": 532,
+        "notpresented": 126,
+        "eliminated": 4,
+        "pass_rate": 66.85,
+        "pass_rate_ci95": [
+          64.51,
+          69.11
+        ],
+        "avg_media": 6.8,
+        "median_media": 7.03,
+        "std_media": 2.0,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.7,
+          6.89
+        ],
+        "avg_romana_final": 6.56,
+        "std_romana_final": 1.96,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 6.51,
+        "std_profil_final": 2.45,
+        "avg_alegere_final": 7.34,
+        "std_alegere_final": 2.16
+      },
+      "BT": {
+        "n": 2520,
+        "presented": 2438,
+        "passed": 1875,
+        "rejected": 563,
+        "notpresented": 79,
+        "eliminated": 3,
+        "pass_rate": 76.91,
+        "pass_rate_ci95": [
+          75.19,
+          78.54
+        ],
+        "avg_media": 7.38,
+        "median_media": 7.74,
+        "std_media": 1.75,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.3,
+          7.44
+        ],
+        "avg_romana_final": 7.24,
+        "std_romana_final": 1.7,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.17,
+        "std_profil_final": 2.13,
+        "avg_alegere_final": 7.72,
+        "std_alegere_final": 1.93
+      },
+      "GR": {
+        "n": 964,
+        "presented": 926,
+        "passed": 615,
+        "rejected": 311,
+        "notpresented": 37,
+        "eliminated": 1,
+        "pass_rate": 66.41,
+        "pass_rate_ci95": [
+          63.31,
+          69.38
+        ],
+        "avg_media": 6.67,
+        "median_media": 6.71,
+        "std_media": 1.63,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.56,
+          6.78
+        ],
+        "avg_romana_final": 6.4,
+        "std_romana_final": 1.6,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 6.46,
+        "std_profil_final": 2.02,
+        "avg_alegere_final": 7.15,
+        "std_alegere_final": 1.86
+      },
+      "SJ": {
+        "n": 1445,
+        "presented": 1398,
+        "passed": 984,
+        "rejected": 414,
+        "notpresented": 47,
+        "eliminated": 0,
+        "pass_rate": 70.39,
+        "pass_rate_ci95": [
+          67.94,
+          72.72
+        ],
+        "avg_media": 7.09,
+        "median_media": 7.45,
+        "std_media": 1.91,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.98,
+          7.18
+        ],
+        "avg_romana_final": 7.03,
+        "std_romana_final": 1.79,
+        "avg_materna_final": 7.7,
+        "std_materna_final": 1.37,
+        "avg_profil_final": 6.82,
+        "std_profil_final": 2.34,
+        "avg_alegere_final": 7.38,
+        "std_alegere_final": 2.13
+      },
+      "IF": {
+        "n": 1368,
+        "presented": 1276,
+        "passed": 750,
+        "rejected": 526,
+        "notpresented": 90,
+        "eliminated": 2,
+        "pass_rate": 58.78,
+        "pass_rate_ci95": [
+          56.05,
+          61.45
+        ],
+        "avg_media": 6.46,
+        "median_media": 6.4,
+        "std_media": 1.64,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.37,
+          6.55
+        ],
+        "avg_romana_final": 6.29,
+        "std_romana_final": 1.62,
+        "avg_materna_final": 8.08,
+        "std_materna_final": 1.41,
+        "avg_profil_final": 6.27,
+        "std_profil_final": 2.06,
+        "avg_alegere_final": 6.83,
+        "std_alegere_final": 1.94
+      },
+      "BN": {
+        "n": 2022,
+        "presented": 1962,
+        "passed": 1512,
+        "rejected": 450,
+        "notpresented": 57,
+        "eliminated": 3,
+        "pass_rate": 77.06,
+        "pass_rate_ci95": [
+          75.15,
+          78.87
+        ],
+        "avg_media": 7.35,
+        "median_media": 7.61,
+        "std_media": 1.71,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.27,
+          7.42
+        ],
+        "avg_romana_final": 7.23,
+        "std_romana_final": 1.74,
+        "avg_materna_final": 6.75,
+        "std_materna_final": 1.46,
+        "avg_profil_final": 7.14,
+        "std_profil_final": 2.1,
+        "avg_alegere_final": 7.71,
+        "std_alegere_final": 1.79
+      },
+      "BR": {
+        "n": 1679,
+        "presented": 1627,
+        "passed": 1332,
+        "rejected": 295,
+        "notpresented": 51,
+        "eliminated": 1,
+        "pass_rate": 81.87,
+        "pass_rate_ci95": [
+          79.92,
+          83.66
+        ],
+        "avg_media": 7.52,
+        "median_media": 7.78,
+        "std_media": 1.58,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.44,
+          7.6
+        ],
+        "avg_romana_final": 7.3,
+        "std_romana_final": 1.62,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 7.55,
+        "std_profil_final": 1.8,
+        "avg_alegere_final": 7.73,
+        "std_alegere_final": 1.85
+      },
+      "CS": {
+        "n": 1401,
+        "presented": 1282,
+        "passed": 903,
+        "rejected": 379,
+        "notpresented": 115,
+        "eliminated": 4,
+        "pass_rate": 70.44,
+        "pass_rate_ci95": [
+          67.88,
+          72.87
+        ],
+        "avg_media": 6.89,
+        "median_media": 7.05,
+        "std_media": 1.75,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.8,
+          6.98
+        ],
+        "avg_romana_final": 6.72,
+        "std_romana_final": 1.7,
+        "avg_materna_final": 7.1,
+        "std_materna_final": 1.49,
+        "avg_profil_final": 6.67,
+        "std_profil_final": 2.18,
+        "avg_alegere_final": 7.28,
+        "std_alegere_final": 2.02
+      },
+      "TL": {
+        "n": 1283,
+        "presented": 1207,
+        "passed": 861,
+        "rejected": 346,
+        "notpresented": 75,
+        "eliminated": 1,
+        "pass_rate": 71.33,
+        "pass_rate_ci95": [
+          68.72,
+          73.81
+        ],
+        "avg_media": 7.02,
+        "median_media": 7.26,
+        "std_media": 1.84,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.92,
+          7.13
+        ],
+        "avg_romana_final": 6.81,
+        "std_romana_final": 1.8,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 6.9,
+        "std_profil_final": 2.13,
+        "avg_alegere_final": 7.38,
+        "std_alegere_final": 2.1
+      },
+      "CL": {
+        "n": 1243,
+        "presented": 1199,
+        "passed": 761,
+        "rejected": 438,
+        "notpresented": 42,
+        "eliminated": 2,
+        "pass_rate": 63.47,
+        "pass_rate_ci95": [
+          60.71,
+          66.15
+        ],
+        "avg_media": 6.67,
+        "median_media": 6.78,
+        "std_media": 1.8,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.57,
+          6.76
+        ],
+        "avg_romana_final": 6.48,
+        "std_romana_final": 1.69,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 6.55,
+        "std_profil_final": 2.22,
+        "avg_alegere_final": 6.99,
+        "std_alegere_final": 2.08
+      }
+    },
+    "family": {
+      "LIMBI": {
+        "n": 21268,
+        "presented": 20911,
+        "passed": 18206,
+        "rejected": 2705,
+        "notpresented": 348,
+        "eliminated": 9,
+        "pass_rate": 87.06,
+        "pass_rate_ci95": [
+          86.6,
+          87.51
+        ],
+        "avg_media": 7.84,
+        "median_media": 8.15,
+        "std_media": 1.44,
+        "tens": 10,
+        "tens_rate": 0.05,
+        "avg_media_ci95": [
+          7.82,
+          7.86
+        ],
+        "avg_romana_final": 7.46,
+        "std_romana_final": 1.62,
+        "avg_materna_final": 7.41,
+        "std_materna_final": 1.38,
+        "avg_profil_final": 7.9,
+        "std_profil_final": 1.67,
+        "avg_alegere_final": 8.17,
+        "std_alegere_final": 1.52
+      },
+      "ALTCEVA": {
+        "n": 15471,
+        "presented": 15063,
+        "passed": 11338,
+        "rejected": 3725,
+        "notpresented": 399,
+        "eliminated": 9,
+        "pass_rate": 75.27,
+        "pass_rate_ci95": [
+          74.58,
+          75.95
+        ],
+        "avg_media": 7.12,
+        "median_media": 7.18,
+        "std_media": 1.57,
+        "tens": 6,
+        "tens_rate": 0.04,
+        "avg_media_ci95": [
+          7.1,
+          7.15
+        ],
+        "avg_romana_final": 6.77,
+        "std_romana_final": 1.68,
+        "avg_materna_final": 7.5,
+        "std_materna_final": 1.27,
+        "avg_profil_final": 7.03,
+        "std_profil_final": 1.86,
+        "avg_alegere_final": 7.57,
+        "std_alegere_final": 1.72
+      },
+      "MATEMATICA": {
+        "n": 40801,
+        "presented": 40201,
+        "passed": 35497,
+        "rejected": 4704,
+        "notpresented": 583,
+        "eliminated": 17,
+        "pass_rate": 88.3,
+        "pass_rate_ci95": [
+          87.98,
+          88.61
+        ],
+        "avg_media": 8.08,
+        "median_media": 8.51,
+        "std_media": 1.49,
+        "tens": 46,
+        "tens_rate": 0.11,
+        "avg_media_ci95": [
+          8.07,
+          8.1
+        ],
+        "avg_romana_final": 8.07,
+        "std_romana_final": 1.43,
+        "avg_materna_final": 8.23,
+        "std_materna_final": 1.22,
+        "avg_profil_final": 7.81,
+        "std_profil_final": 1.95,
+        "avg_alegere_final": 8.37,
+        "std_alegere_final": 1.58
+      },
+      "STIINTE": {
+        "n": 12141,
+        "presented": 11919,
+        "passed": 10407,
+        "rejected": 1512,
+        "notpresented": 219,
+        "eliminated": 3,
+        "pass_rate": 87.31,
+        "pass_rate_ci95": [
+          86.7,
+          87.9
+        ],
+        "avg_media": 7.91,
+        "median_media": 8.28,
+        "std_media": 1.48,
+        "tens": 6,
+        "tens_rate": 0.05,
+        "avg_media_ci95": [
+          7.88,
+          7.94
+        ],
+        "avg_romana_final": 7.45,
+        "std_romana_final": 1.68,
+        "avg_materna_final": 7.95,
+        "std_materna_final": 1.33,
+        "avg_profil_final": 7.98,
+        "std_profil_final": 1.69,
+        "avg_alegere_final": 8.31,
+        "std_alegere_final": 1.52
+      },
+      "TEHNIC/VOCATIONAL": {
+        "n": 41028,
+        "presented": 37883,
+        "passed": 21528,
+        "rejected": 16355,
+        "notpresented": 3113,
+        "eliminated": 32,
+        "pass_rate": 56.83,
+        "pass_rate_ci95": [
+          56.33,
+          57.33
+        ],
+        "avg_media": 6.23,
+        "median_media": 6.31,
+        "std_media": 1.69,
+        "tens": 1,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.21,
+          6.25
+        ],
+        "avg_romana_final": 6.12,
+        "std_romana_final": 1.52,
+        "avg_materna_final": 6.83,
+        "std_materna_final": 1.2,
+        "avg_profil_final": 6.12,
+        "std_profil_final": 2.1,
+        "avg_alegere_final": 6.44,
+        "std_alegere_final": 2.16
+      }
+    },
+    "forma_invatamant": {
+      "ZI": {
+        "n": 127951,
+        "presented": 123870,
+        "passed": 96258,
+        "rejected": 27612,
+        "notpresented": 4018,
+        "eliminated": 63,
+        "pass_rate": 77.71,
+        "pass_rate_ci95": [
+          77.48,
+          77.94
+        ],
+        "avg_media": 7.39,
+        "median_media": 7.67,
+        "std_media": 1.72,
+        "tens": 69,
+        "tens_rate": 0.06,
+        "avg_media_ci95": [
+          7.38,
+          7.4
+        ],
+        "avg_romana_final": 7.2,
+        "std_romana_final": 1.72,
+        "avg_materna_final": 7.65,
+        "std_materna_final": 1.37,
+        "avg_profil_final": 7.27,
+        "std_profil_final": 2.05,
+        "avg_alegere_final": 7.69,
+        "std_alegere_final": 1.94
+      },
+      "FRECVENTA REDUSA": {
+        "n": 1191,
+        "presented": 977,
+        "passed": 368,
+        "rejected": 609,
+        "notpresented": 213,
+        "eliminated": 1,
+        "pass_rate": 37.67,
+        "pass_rate_ci95": [
+          34.68,
+          40.75
+        ],
+        "avg_media": 5.65,
+        "median_media": 5.65,
+        "std_media": 1.45,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          5.55,
+          5.73
+        ],
+        "avg_romana_final": 5.26,
+        "std_romana_final": 1.39,
+        "avg_materna_final": 6.74,
+        "std_materna_final": 1.07,
+        "avg_profil_final": 5.45,
+        "std_profil_final": 1.85,
+        "avg_alegere_final": 6.22,
+        "std_alegere_final": 1.96
+      },
+      "SERAL": {
+        "n": 1567,
+        "presented": 1130,
+        "passed": 350,
+        "rejected": 780,
+        "notpresented": 431,
+        "eliminated": 6,
+        "pass_rate": 30.97,
+        "pass_rate_ci95": [
+          28.35,
+          33.73
+        ],
+        "avg_media": 5.13,
+        "median_media": 5.33,
+        "std_media": 1.6,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          5.03,
+          5.22
+        ],
+        "avg_romana_final": 5.32,
+        "std_romana_final": 1.46,
+        "avg_materna_final": 5.96,
+        "std_materna_final": 1.47,
+        "avg_profil_final": 4.7,
+        "std_profil_final": 2.12,
+        "avg_alegere_final": 5.35,
+        "std_alegere_final": 2.24
+      }
+    },
+    "profil_disciplina": {
+      "ISTORIE": {
+        "n": 45204,
+        "presented": 44332,
+        "passed": 37162,
+        "rejected": 7170,
+        "notpresented": 852,
+        "eliminated": 20,
+        "pass_rate": 83.83,
+        "pass_rate_ci95": [
+          83.48,
+          84.17
+        ],
+        "avg_media": 7.64,
+        "median_media": 7.91,
+        "std_media": 1.51,
+        "tens": 16,
+        "tens_rate": 0.04,
+        "avg_media_ci95": [
+          7.63,
+          7.66
+        ],
+        "avg_romana_final": 7.24,
+        "std_romana_final": 1.68,
+        "avg_materna_final": 7.54,
+        "std_materna_final": 1.35,
+        "avg_profil_final": 7.68,
+        "std_profil_final": 1.74,
+        "avg_alegere_final": 8.02,
+        "std_alegere_final": 1.61
+      },
+      "MATEMATICA PED": {
+        "n": 1803,
+        "presented": 1798,
+        "passed": 1711,
+        "rejected": 87,
+        "notpresented": 5,
+        "eliminated": 0,
+        "pass_rate": 95.16,
+        "pass_rate_ci95": [
+          94.07,
+          96.06
+        ],
+        "avg_media": 8.57,
+        "median_media": 8.93,
+        "std_media": 1.14,
+        "tens": 6,
+        "tens_rate": 0.33,
+        "avg_media_ci95": [
+          8.51,
+          8.61
+        ],
+        "avg_romana_final": 8.31,
+        "std_romana_final": 1.33,
+        "avg_materna_final": 8.12,
+        "std_materna_final": 1.09,
+        "avg_profil_final": 8.57,
+        "std_profil_final": 1.43,
+        "avg_alegere_final": 8.82,
+        "std_alegere_final": 1.18
+      },
+      "MATEMATICA MATE-INFO": {
+        "n": 22725,
+        "presented": 22482,
+        "passed": 20422,
+        "rejected": 2060,
+        "notpresented": 234,
+        "eliminated": 9,
+        "pass_rate": 90.84,
+        "pass_rate_ci95": [
+          90.45,
+          91.21
+        ],
+        "avg_media": 8.24,
+        "median_media": 8.65,
+        "std_media": 1.39,
+        "tens": 26,
+        "tens_rate": 0.12,
+        "avg_media_ci95": [
+          8.22,
+          8.26
+        ],
+        "avg_romana_final": 8.22,
+        "std_romana_final": 1.33,
+        "avg_materna_final": 8.22,
+        "std_materna_final": 1.17,
+        "avg_profil_final": 8.06,
+        "std_profil_final": 1.82,
+        "avg_alegere_final": 8.44,
+        "std_alegere_final": 1.51
+      },
+      "MATEMATICA ST-NAT": {
+        "n": 18076,
+        "presented": 17719,
+        "passed": 15075,
+        "rejected": 2644,
+        "notpresented": 349,
+        "eliminated": 8,
+        "pass_rate": 85.08,
+        "pass_rate_ci95": [
+          84.55,
+          85.6
+        ],
+        "avg_media": 7.88,
+        "median_media": 8.31,
+        "std_media": 1.58,
+        "tens": 20,
+        "tens_rate": 0.11,
+        "avg_media_ci95": [
+          7.86,
+          7.9
+        ],
+        "avg_romana_final": 7.87,
+        "std_romana_final": 1.52,
+        "avg_materna_final": 8.24,
+        "std_materna_final": 1.25,
+        "avg_profil_final": 7.48,
+        "std_profil_final": 2.06,
+        "avg_alegere_final": 8.28,
+        "std_alegere_final": 1.65
+      },
+      "MATEMATICA TEHN": {
+        "n": 42901,
+        "presented": 39646,
+        "passed": 22606,
+        "rejected": 17040,
+        "notpresented": 3222,
+        "eliminated": 33,
+        "pass_rate": 57.02,
+        "pass_rate_ci95": [
+          56.53,
+          57.51
+        ],
+        "avg_media": 6.24,
+        "median_media": 6.31,
+        "std_media": 1.69,
+        "tens": 1,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.22,
+          6.25
+        ],
+        "avg_romana_final": 6.12,
+        "std_romana_final": 1.52,
+        "avg_materna_final": 6.83,
+        "std_materna_final": 1.19,
+        "avg_profil_final": 6.11,
+        "std_profil_final": 2.1,
+        "avg_alegere_final": 6.46,
+        "std_alegere_final": 2.15
+      }
+    },
+    "alegere_disciplina": {
+      "LOGICA, ARGUMENTARE SI COMUNICARE": {
+        "n": 25846,
+        "presented": 25402,
+        "passed": 22304,
+        "rejected": 3098,
+        "notpresented": 440,
+        "eliminated": 4,
+        "pass_rate": 87.8,
+        "pass_rate_ci95": [
+          87.4,
+          88.2
+        ],
+        "avg_media": 7.87,
+        "median_media": 8.2,
+        "std_media": 1.47,
+        "tens": 10,
+        "tens_rate": 0.04,
+        "avg_media_ci95": [
+          7.85,
+          7.89
+        ],
+        "avg_romana_final": 7.5,
+        "std_romana_final": 1.59,
+        "avg_materna_final": 7.8,
+        "std_materna_final": 1.28,
+        "avg_profil_final": 7.86,
+        "std_profil_final": 1.72,
+        "avg_alegere_final": 8.26,
+        "std_alegere_final": 1.62
+      },
+      "INFORMATICA MI C/C++": {
+        "n": 7282,
+        "presented": 7263,
+        "passed": 6971,
+        "rejected": 292,
+        "notpresented": 18,
+        "eliminated": 1,
+        "pass_rate": 95.98,
+        "pass_rate_ci95": [
+          95.5,
+          96.41
+        ],
+        "avg_media": 8.56,
+        "median_media": 8.86,
+        "std_media": 1.12,
+        "tens": 10,
+        "tens_rate": 0.14,
+        "avg_media_ci95": [
+          8.53,
+          8.58
+        ],
+        "avg_romana_final": 8.42,
+        "std_romana_final": 1.12,
+        "avg_materna_final": 8.29,
+        "std_materna_final": 1.12,
+        "avg_profil_final": 8.65,
+        "std_profil_final": 1.36,
+        "avg_alegere_final": 8.61,
+        "std_alegere_final": 1.37
+      },
+      "ANATOMIE SI FIZIOLOGIE UMANA, GENETICA SI ECOLOGIE UMANA": {
+        "n": 25509,
+        "presented": 24660,
+        "passed": 18694,
+        "rejected": 5966,
+        "notpresented": 829,
+        "eliminated": 20,
+        "pass_rate": 75.81,
+        "pass_rate_ci95": [
+          75.27,
+          76.34
+        ],
+        "avg_media": 7.33,
+        "median_media": 7.68,
+        "std_media": 1.74,
+        "tens": 12,
+        "tens_rate": 0.05,
+        "avg_media_ci95": [
+          7.31,
+          7.35
+        ],
+        "avg_romana_final": 7.39,
+        "std_romana_final": 1.69,
+        "avg_materna_final": 8.05,
+        "std_materna_final": 1.34,
+        "avg_profil_final": 6.81,
+        "std_profil_final": 2.16,
+        "avg_alegere_final": 7.79,
+        "std_alegere_final": 1.89
+      },
+      "FIZICA TEO": {
+        "n": 6709,
+        "presented": 6695,
+        "passed": 6503,
+        "rejected": 192,
+        "notpresented": 13,
+        "eliminated": 1,
+        "pass_rate": 97.13,
+        "pass_rate_ci95": [
+          96.7,
+          97.51
+        ],
+        "avg_media": 8.69,
+        "median_media": 8.98,
+        "std_media": 1.01,
+        "tens": 12,
+        "tens_rate": 0.18,
+        "avg_media_ci95": [
+          8.67,
+          8.71
+        ],
+        "avg_romana_final": 8.57,
+        "std_romana_final": 1.06,
+        "avg_materna_final": 8.57,
+        "std_materna_final": 1.01,
+        "avg_profil_final": 8.89,
+        "std_profil_final": 1.13,
+        "avg_alegere_final": 8.63,
+        "std_alegere_final": 1.33
+      },
+      "CHIMIE ORGANICA": {
+        "n": 3650,
+        "presented": 3625,
+        "passed": 3489,
+        "rejected": 136,
+        "notpresented": 25,
+        "eliminated": 0,
+        "pass_rate": 96.25,
+        "pass_rate_ci95": [
+          95.58,
+          96.82
+        ],
+        "avg_media": 8.75,
+        "median_media": 9.06,
+        "std_media": 1.09,
+        "tens": 12,
+        "tens_rate": 0.33,
+        "avg_media_ci95": [
+          8.71,
+          8.78
+        ],
+        "avg_romana_final": 8.66,
+        "std_romana_final": 1.13,
+        "avg_materna_final": 8.26,
+        "std_materna_final": 1.2,
+        "avg_profil_final": 8.6,
+        "std_profil_final": 1.3,
+        "avg_alegere_final": 9.0,
+        "std_alegere_final": 1.3
+      },
+      "GEOGRAFIE": {
+        "n": 38310,
+        "presented": 37071,
+        "passed": 27879,
+        "rejected": 9192,
+        "notpresented": 1215,
+        "eliminated": 24,
+        "pass_rate": 75.2,
+        "pass_rate_ci95": [
+          74.76,
+          75.64
+        ],
+        "avg_media": 7.12,
+        "median_media": 7.21,
+        "std_media": 1.57,
+        "tens": 12,
+        "tens_rate": 0.03,
+        "avg_media_ci95": [
+          7.11,
+          7.14
+        ],
+        "avg_romana_final": 6.7,
+        "std_romana_final": 1.66,
+        "avg_materna_final": 7.4,
+        "std_materna_final": 1.33,
+        "avg_profil_final": 7.0,
+        "std_profil_final": 1.97,
+        "avg_alegere_final": 7.65,
+        "std_alegere_final": 1.63
+      },
+      "FIZICA TEH": {
+        "n": 1687,
+        "presented": 1553,
+        "passed": 900,
+        "rejected": 653,
+        "notpresented": 132,
+        "eliminated": 2,
+        "pass_rate": 57.95,
+        "pass_rate_ci95": [
+          55.48,
+          60.38
+        ],
+        "avg_media": 6.36,
+        "median_media": 6.45,
+        "std_media": 1.63,
+        "tens": 1,
+        "tens_rate": 0.06,
+        "avg_media_ci95": [
+          6.28,
+          6.44
+        ],
+        "avg_romana_final": 6.13,
+        "std_romana_final": 1.45,
+        "avg_materna_final": 6.8,
+        "std_materna_final": 1.22,
+        "avg_profil_final": 6.99,
+        "std_profil_final": 1.96,
+        "avg_alegere_final": 5.93,
+        "std_alegere_final": 2.24
+      },
+      "CHIMIE ANORGANICA": {
+        "n": 1180,
+        "presented": 1135,
+        "passed": 812,
+        "rejected": 323,
+        "notpresented": 44,
+        "eliminated": 1,
+        "pass_rate": 71.54,
+        "pass_rate_ci95": [
+          68.85,
+          74.09
+        ],
+        "avg_media": 7.09,
+        "median_media": 7.15,
+        "std_media": 1.62,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.99,
+          7.18
+        ],
+        "avg_romana_final": 6.96,
+        "std_romana_final": 1.62,
+        "avg_materna_final": 7.72,
+        "std_materna_final": 1.3,
+        "avg_profil_final": 7.17,
+        "std_profil_final": 1.83,
+        "avg_alegere_final": 7.14,
+        "std_alegere_final": 2.01
+      },
+      "INFORMATICA SN C/C++": {
+        "n": 517,
+        "presented": 511,
+        "passed": 478,
+        "rejected": 33,
+        "notpresented": 5,
+        "eliminated": 1,
+        "pass_rate": 93.54,
+        "pass_rate_ci95": [
+          91.07,
+          95.36
+        ],
+        "avg_media": 8.21,
+        "median_media": 8.46,
+        "std_media": 1.23,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          8.1,
+          8.31
+        ],
+        "avg_romana_final": 8.02,
+        "std_romana_final": 1.23,
+        "avg_materna_final": 7.86,
+        "std_materna_final": 1.27,
+        "avg_profil_final": 8.42,
+        "std_profil_final": 1.4,
+        "avg_alegere_final": 8.2,
+        "std_alegere_final": 1.61
+      },
+      "BIOLOGIE VEGETALA SI ANIMALA": {
+        "n": 16094,
+        "presented": 14232,
+        "passed": 5980,
+        "rejected": 8252,
+        "notpresented": 1846,
+        "eliminated": 16,
+        "pass_rate": 42.02,
+        "pass_rate_ci95": [
+          41.21,
+          42.83
+        ],
+        "avg_media": 5.59,
+        "median_media": 5.73,
+        "std_media": 1.65,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          5.56,
+          5.61
+        ],
+        "avg_romana_final": 5.81,
+        "std_romana_final": 1.48,
+        "avg_materna_final": 6.86,
+        "std_materna_final": 1.22,
+        "avg_profil_final": 5.58,
+        "std_profil_final": 2.04,
+        "avg_alegere_final": 5.35,
+        "std_alegere_final": 2.16
+      },
+      "SOCIOLOGIE": {
+        "n": 1557,
+        "presented": 1511,
+        "passed": 1140,
+        "rejected": 371,
+        "notpresented": 46,
+        "eliminated": 0,
+        "pass_rate": 75.45,
+        "pass_rate_ci95": [
+          73.21,
+          77.55
+        ],
+        "avg_media": 7.2,
+        "median_media": 7.33,
+        "std_media": 1.54,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.12,
+          7.28
+        ],
+        "avg_romana_final": 7.08,
+        "std_romana_final": 1.69,
+        "avg_materna_final": 7.3,
+        "std_materna_final": 1.44,
+        "avg_profil_final": 7.44,
+        "std_profil_final": 1.81,
+        "avg_alegere_final": 7.1,
+        "std_alegere_final": 1.58
+      },
+      "FILOSOFIE": {
+        "n": 172,
+        "presented": 169,
+        "passed": 143,
+        "rejected": 26,
+        "notpresented": 3,
+        "eliminated": 0,
+        "pass_rate": 84.62,
+        "pass_rate_ci95": [
+          78.41,
+          89.28
+        ],
+        "avg_media": 7.67,
+        "median_media": 8.1,
+        "std_media": 1.55,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.46,
+          7.91
+        ],
+        "avg_romana_final": 7.48,
+        "std_romana_final": 1.74,
+        "avg_materna_final": 8.33,
+        "std_materna_final": 1.08,
+        "avg_profil_final": 7.62,
+        "std_profil_final": 1.72,
+        "avg_alegere_final": 7.83,
+        "std_alegere_final": 1.61
+      },
+      "ECONOMIE": {
+        "n": 289,
+        "presented": 284,
+        "passed": 244,
+        "rejected": 40,
+        "notpresented": 5,
+        "eliminated": 0,
+        "pass_rate": 85.92,
+        "pass_rate_ci95": [
+          81.39,
+          89.48
+        ],
+        "avg_media": 7.73,
+        "median_media": 8.1,
+        "std_media": 1.59,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.56,
+          7.91
+        ],
+        "avg_romana_final": 7.61,
+        "std_romana_final": 1.65,
+        "avg_materna_final": 8.07,
+        "std_materna_final": 0.6,
+        "avg_profil_final": 7.88,
+        "std_profil_final": 2.04,
+        "avg_alegere_final": 7.71,
+        "std_alegere_final": 1.54
+      },
+      "PSIHOLOGIE": {
+        "n": 1877,
+        "presented": 1838,
+        "passed": 1420,
+        "rejected": 418,
+        "notpresented": 39,
+        "eliminated": 0,
+        "pass_rate": 77.26,
+        "pass_rate_ci95": [
+          75.29,
+          79.12
+        ],
+        "avg_media": 7.31,
+        "median_media": 7.51,
+        "std_media": 1.57,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          7.23,
+          7.37
+        ],
+        "avg_romana_final": 7.19,
+        "std_romana_final": 1.7,
+        "avg_materna_final": 7.51,
+        "std_materna_final": 1.37,
+        "avg_profil_final": 7.27,
+        "std_profil_final": 1.91,
+        "avg_alegere_final": 7.44,
+        "std_alegere_final": 1.58
+      },
+      "INFORMATICA MI PASCAL": {
+        "n": 30,
+        "presented": 28,
+        "passed": 19,
+        "rejected": 9,
+        "notpresented": 2,
+        "eliminated": 0,
+        "pass_rate": 67.86,
+        "pass_rate_ci95": [
+          49.34,
+          82.07
+        ],
+        "avg_media": 7.1,
+        "median_media": 7.3,
+        "std_media": 1.47,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          6.57,
+          7.61
+        ],
+        "avg_romana_final": 7.0,
+        "std_romana_final": 1.63,
+        "avg_materna_final": 8.19,
+        "std_materna_final": 0.99,
+        "avg_profil_final": 6.82,
+        "std_profil_final": 2.1,
+        "avg_alegere_final": 7.12,
+        "std_alegere_final": 1.52
+      }
+    }
+  },
+  "subvariant_analysis": {
+    "profil": {
+      "ordered": [
+        {
+          "variant": "MATEMATICA PED",
+          "n": 1803,
+          "presented": 1798,
+          "avg_media": 8.57,
+          "avg_own_subject": 8.57,
+          "pass_rate": 95.16,
+          "std_media": 1.14,
+          "std_own_subject": 1.43,
+          "tens_rate": 0.33,
+          "low_confidence": null,
+          "avg_other_subject": 8.82
+        },
+        {
+          "variant": "MATEMATICA MATE-INFO",
+          "n": 22725,
+          "presented": 22482,
+          "avg_media": 8.24,
+          "avg_own_subject": 8.06,
+          "pass_rate": 90.84,
+          "std_media": 1.39,
+          "std_own_subject": 1.82,
+          "tens_rate": 0.12,
+          "low_confidence": null,
+          "avg_other_subject": 8.44
+        },
+        {
+          "variant": "ISTORIE",
+          "n": 45204,
+          "presented": 44332,
+          "avg_media": 7.64,
+          "avg_own_subject": 7.68,
+          "pass_rate": 83.83,
+          "std_media": 1.51,
+          "std_own_subject": 1.74,
+          "tens_rate": 0.04,
+          "low_confidence": null,
+          "avg_other_subject": 8.02
+        },
+        {
+          "variant": "MATEMATICA ST-NAT",
+          "n": 18076,
+          "presented": 17719,
+          "avg_media": 7.88,
+          "avg_own_subject": 7.48,
+          "pass_rate": 85.08,
+          "std_media": 1.58,
+          "std_own_subject": 2.06,
+          "tens_rate": 0.11,
+          "low_confidence": null,
+          "avg_other_subject": 8.28
+        },
+        {
+          "variant": "MATEMATICA TEHN",
+          "n": 42901,
+          "presented": 39646,
+          "avg_media": 6.24,
+          "avg_own_subject": 6.11,
+          "pass_rate": 57.02,
+          "std_media": 1.69,
+          "std_own_subject": 2.1,
+          "tens_rate": 0.0,
+          "low_confidence": null,
+          "avg_other_subject": 6.46
+        }
+      ],
+      "easiest_vs_hardest": {
+        "easier": "MATEMATICA PED",
+        "harder": "MATEMATICA TEHN",
+        "diff": 2.46,
+        "t": 69.62,
+        "p": 0.0,
+        "df": 2164.8
+      }
+    },
+    "alegere": {
+      "ordered": [
+        {
+          "variant": "CHIMIE ORGANICA",
+          "n": 3650,
+          "presented": 3625,
+          "avg_media": 8.75,
+          "avg_own_subject": 9.0,
+          "pass_rate": 96.25,
+          "std_media": 1.09,
+          "std_own_subject": 1.3,
+          "tens_rate": 0.33,
+          "low_confidence": null,
+          "avg_other_subject": 8.6
+        },
+        {
+          "variant": "FIZICA TEO",
+          "n": 6709,
+          "presented": 6695,
+          "avg_media": 8.69,
+          "avg_own_subject": 8.63,
+          "pass_rate": 97.13,
+          "std_media": 1.01,
+          "std_own_subject": 1.33,
+          "tens_rate": 0.18,
+          "low_confidence": null,
+          "avg_other_subject": 8.89
+        },
+        {
+          "variant": "INFORMATICA MI C/C++",
+          "n": 7282,
+          "presented": 7263,
+          "avg_media": 8.56,
+          "avg_own_subject": 8.61,
+          "pass_rate": 95.98,
+          "std_media": 1.12,
+          "std_own_subject": 1.37,
+          "tens_rate": 0.14,
+          "low_confidence": null,
+          "avg_other_subject": 8.65
+        },
+        {
+          "variant": "LOGICA, ARGUMENTARE SI COMUNICARE",
+          "n": 25846,
+          "presented": 25402,
+          "avg_media": 7.87,
+          "avg_own_subject": 8.26,
+          "pass_rate": 87.8,
+          "std_media": 1.47,
+          "std_own_subject": 1.62,
+          "tens_rate": 0.04,
+          "low_confidence": null,
+          "avg_other_subject": 7.86
+        },
+        {
+          "variant": "INFORMATICA SN C/C++",
+          "n": 517,
+          "presented": 511,
+          "avg_media": 8.21,
+          "avg_own_subject": 8.2,
+          "pass_rate": 93.54,
+          "std_media": 1.23,
+          "std_own_subject": 1.61,
+          "tens_rate": 0.0,
+          "low_confidence": null,
+          "avg_other_subject": 8.42
+        },
+        {
+          "variant": "FILOSOFIE",
+          "n": 172,
+          "presented": 169,
+          "avg_media": 7.67,
+          "avg_own_subject": 7.83,
+          "pass_rate": 84.62,
+          "std_media": 1.55,
+          "std_own_subject": 1.61,
+          "tens_rate": 0.0,
+          "low_confidence": null,
+          "avg_other_subject": 7.62
+        },
+        {
+          "variant": "ANATOMIE SI FIZIOLOGIE UMANA, GENETICA SI ECOLOGIE UMANA",
+          "n": 25509,
+          "presented": 24660,
+          "avg_media": 7.33,
+          "avg_own_subject": 7.79,
+          "pass_rate": 75.81,
+          "std_media": 1.74,
+          "std_own_subject": 1.89,
+          "tens_rate": 0.05,
+          "low_confidence": null,
+          "avg_other_subject": 6.81
+        },
+        {
+          "variant": "ECONOMIE",
+          "n": 289,
+          "presented": 284,
+          "avg_media": 7.73,
+          "avg_own_subject": 7.71,
+          "pass_rate": 85.92,
+          "std_media": 1.59,
+          "std_own_subject": 1.54,
+          "tens_rate": 0.0,
+          "low_confidence": null,
+          "avg_other_subject": 7.88
+        },
+        {
+          "variant": "GEOGRAFIE",
+          "n": 38310,
+          "presented": 37071,
+          "avg_media": 7.12,
+          "avg_own_subject": 7.65,
+          "pass_rate": 75.2,
+          "std_media": 1.57,
+          "std_own_subject": 1.63,
+          "tens_rate": 0.03,
+          "low_confidence": null,
+          "avg_other_subject": 7.0
+        },
+        {
+          "variant": "PSIHOLOGIE",
+          "n": 1877,
+          "presented": 1838,
+          "avg_media": 7.31,
+          "avg_own_subject": 7.44,
+          "pass_rate": 77.26,
+          "std_media": 1.57,
+          "std_own_subject": 1.58,
+          "tens_rate": 0.0,
+          "low_confidence": null,
+          "avg_other_subject": 7.27
+        },
+        {
+          "variant": "CHIMIE ANORGANICA",
+          "n": 1180,
+          "presented": 1135,
+          "avg_media": 7.09,
+          "avg_own_subject": 7.14,
+          "pass_rate": 71.54,
+          "std_media": 1.62,
+          "std_own_subject": 2.01,
+          "tens_rate": 0.0,
+          "low_confidence": null,
+          "avg_other_subject": 7.17
+        },
+        {
+          "variant": "INFORMATICA MI PASCAL",
+          "n": 30,
+          "presented": 28,
+          "avg_media": 7.1,
+          "avg_own_subject": 7.12,
+          "pass_rate": 67.86,
+          "std_media": 1.47,
+          "std_own_subject": 1.52,
+          "tens_rate": 0.0,
+          "low_confidence": null,
+          "avg_other_subject": 6.82
+        },
+        {
+          "variant": "SOCIOLOGIE",
+          "n": 1557,
+          "presented": 1511,
+          "avg_media": 7.2,
+          "avg_own_subject": 7.1,
+          "pass_rate": 75.45,
+          "std_media": 1.54,
+          "std_own_subject": 1.58,
+          "tens_rate": 0.0,
+          "low_confidence": null,
+          "avg_other_subject": 7.44
+        },
+        {
+          "variant": "FIZICA TEH",
+          "n": 1687,
+          "presented": 1553,
+          "avg_media": 6.36,
+          "avg_own_subject": 5.93,
+          "pass_rate": 57.95,
+          "std_media": 1.63,
+          "std_own_subject": 2.24,
+          "tens_rate": 0.06,
+          "low_confidence": null,
+          "avg_other_subject": 6.99
+        },
+        {
+          "variant": "BIOLOGIE VEGETALA SI ANIMALA",
+          "n": 16094,
+          "presented": 14232,
+          "avg_media": 5.59,
+          "avg_own_subject": 5.35,
+          "pass_rate": 42.02,
+          "std_media": 1.65,
+          "std_own_subject": 2.16,
+          "tens_rate": 0.0,
+          "low_confidence": null,
+          "avg_other_subject": 5.58
+        }
+      ],
+      "easiest_vs_hardest": {
+        "easier": "CHIMIE ORGANICA",
+        "harder": "BIOLOGIE VEGETALA SI ANIMALA",
+        "diff": 3.65,
+        "t": 129.53,
+        "p": 0.0,
+        "df": 9336.9
+      }
+    }
+  }
+}

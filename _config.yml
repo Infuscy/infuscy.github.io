@@ -1,42 +1,30 @@
 # Site settings
-title: Games and Stuff
+title: Rapoarte BAC
 email: contact@febuse.com
 url: https://infuscy.github.io
-description: "Play now games made with tough love and addiction. Leave your worries at the door and come in. 100% free, 100% of the time. Games are made with Defold."
-skills: "100% Free - 100% Fun - 100% Addicting"
+description: "Investigatii de date statice despre rezultatele Bacalaureatului. Harti, distributii, anomalii si explorare SQL live — 100% in browser."
+skills: "Investigatii de date · Rapoarte statice · 100% in browser"
 meta_author: Buse Florin-Emilian
 
-# Google webmaster tools
-google_verify: ry08VN385yJzZd1-4j7ZXrK_0SXHZobSBczTs3zPFgQ
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
 # Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
+# - static : pass through formspree.io to validate email sending
 contact: static
-
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 18bc9c
+  primary-rgb: "24,288,156"
+  secondary: 2c3e50
+  secondary-dark: 233140
 
 # Footer settings
 footer:
   copyright: Febuse
-  location: Location
-  social: Around the Web
-  credits: Credits
+  location: Locatie
+  social: Pe web
+  credits: Credite
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames
 social:
   - title: twitter
     url: https://twitter.com/xfebuse
@@ -44,17 +32,13 @@ social:
     url: https://www.facebook.com/florin.emilian.buse
   - title: linkedin
     url: https://ro.linkedin.com/in/febuse
-  #- title: bitbucket
-  #  url: http://bitbucket.org/jekyll
-  #- title: github
-  #  url: http://github.com/jekyll
 
-# Postal address (add as many lines as necessary)
+# Postal address
 address:
-  - line: Secret ;)
+  - line: Romania
 
 # Credits content
-credits: 'All games belong to this site and its owner. <br><a href="http://defold.com/">Defold</a> is a free to use, game engine. <br>All games use the following <a href="http://defold.com/about-privacy/">Privacy Policy</a>.'
+credits: 'Rapoarte de date independente, construite cu Python, React si DuckDB-WASM. <br>Datele sursă provin de pe <a href="https://static.bacalaureat.edu.ro/">static.bacalaureat.edu.ro</a>.'
 
 # Build settings
 markdown: kramdown

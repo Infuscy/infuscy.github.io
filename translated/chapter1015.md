@@ -1,0 +1,125 @@
+## Chapter 1015: Curse of Hatred
+
+Jace returned to Stormwind several hours later than expected, and it was nearly midnight.
+
+He took the dwarves to eat dinner at The Pig and Whistle Inn. Harnil Stone insisted on paying, and everyone ate their fill.
+
+After daybreak, Jace met the jewelcrafter at the Mage Quarter as arranged. With his help, he selected a few bottles of reasonably clean Onyxia's blood and packed them carefully in a box stuffed with woolen cloth and cotton.
+
+This blood, along with the dragon scales, had been purchased by the Wizard Sanctum with money collected from all over Stormwind. Andormas had even instructed the storehouse managers that Jace and his companions could take whatever they needed.
+
+Considering the price of dragon's blood and dragon scales, Jace didn't care much that night about those mages not helping out at the palace.
+
+After the jewelcrafter and soldiers had left, Jace — who'd been hungry for the better part of the day — headed to the Blue Heron.
+
+By now his face was quite well known in the Wizard Sanctum. Never mind the full mages and apprentice mages — plenty of the younger students recognized him too.
+
+So today he hadn't worn the black dragonhide cloak. Instead he'd picked an ordinary cloak, somewhat covering his face as he came to the Blue Heron. He hadn't expected to see Krasus sitting by the window reading a book the moment he walked in.
+
+He kept quiet and sat down across from Krasus. The red dragon mage slowly slid his single arcane-glowing eye toward this side, and the moment he recognized his visitor, he looked up immediately. "Mm… you're back."
+
+Jace glanced at the plate of little sausages, bread slices, and pickles on the table and licked his lips. "Can I have some, Master? I haven't eaten since morning."
+
+"Help yourself." Krasus lifted his coffee cup and took a sip. "Eat while I talk. About that slab, I have some rather unfortunate news for you."
+
+Jace nodded, grabbed a piece of bread and shoved it in his mouth, and glanced at a few young women mages chatting and laughing at the next table to make sure they weren't paying attention to this side.
+
+"Replicating that slab hasn't gone as smoothly as I'd hoped." Krasus put his book down. "I originally considered mixing the blood of different dragon species, then infusing it into a sufficiently powerful vessel, and inscribing it according to the incantations and magic contained within. I should be able to replicate it completely — perhaps even do better. Because the blood used to write those runes was clearly mixed from whelp's blood, not very powerful in itself. And with a bit of Onyxia's blood, I can get the blood of all five mature dragon species… so when I made the promise to you at first, I was quite optimistic."
+
+"The blood of all five dragons?" Jace asked in surprise. "Bronze dragons too?"
+
+"I'll let you in on a secret — there's a bronze dragon hiding in Stormwind too." Krasus gave a mysterious smile. "He's not terribly willing, but a bit of dragon's blood is no great loss to him."
+
+There's a bronze dragon hiding in Stormwind too?
+
+Jace grew more and more suspicious about that gnomish watchmaker he'd encountered before. If it was only a guess before, now he was almost certain. Who else could it be besides him?
+
+Of course, if that gnome really was a bronze dragon, he clearly didn't want to fully reveal his identity either — otherwise he would have told Krasus that he already knew him.
+
+But even gathering the blood of all five dragonflights wasn't enough to replicate that incantation?
+
+"So, the Blood of the Five Dragons isn't simply a matter of mixing the blood of every dragon species together," he murmured.
+
+"Precisely." Krasus tapped the book lightly with a finger. The book immediately closed on its own and floated steadily to the side. "No parlor tricks in the Blue Heron here, whether you're a teacher or a student!"
+
+A warning came from behind the counter. Krasus glanced over and saw quite a few customers all looking over at once — only then realizing the remark was directed at him.
+
+"My apologies, sir." The red dragon raised his hand with a smile.
+
+"I'll let it slide this time, on account of you being from Quel'Thalas and not knowing the rules here." The boss nodded, then turned around looking none too pleased and carried away the glass he'd just finished wiping.
+
+Krasus looked back at Jace, raised his eyebrows in mild embarrassment, and continued. "The Blood of the Five Dragons… contains something vicious, an innate hatred — more precisely, a hatred toward all dragonkind. And this hatred is the original driving force of that incantation. The incantation merely amplifies and focuses this hatred, then directs it at adult black dragons. Compared to this intense negative emotion, the power of the dragon's blood itself is only supplementary."
+
+"How did this emotion come to exist in the Blood of the Five Dragons?" Jace asked.
+
+"Didn't that dragonkin alchemist mention it when you spoke with him?" Krasus asked.
+
+"He only mentioned that newly born chromatic whelps carry hatred toward other dragonflights." Jace recalled. "Beyond that, he didn't reveal any more details. I communicated with his mind through Sola's dream power, Master — he was already in a coma. I thought perhaps we could try entering the dream again…"
+
+Krasus sighed softly. "Saomailier has already told me the location of that cave. I sent a reliable offspring of mine to check on the situation. Based on his current mental state and the condition of that life-support apparatus, his body can no longer withstand another green dragon invading his dreams."
+
+"Mm." Jace said. "Yes, near the end of that last dream, I nearly became trapped forever by the shattering of his consciousness. If not for Sola… I might already be in the same state as him."
+
+"Never mind dark creatures like this — even invading the dreams of a healthy, ordinary mortal is an extremely dangerous undertaking." Krasus said. "In any case, the birth process of these dragons must be even darker and more horrific than we imagined. While studying that slab, I could even feel the hatred in that blood directed at me, a researcher completely unrelated to them."
+
+He lowered his voice and continued. "This hatred, without even a trace of intimidation through power, is still enough to make one's spine crawl. I wonder if the Dark Irons have gotten their hands on chromatic dragon blood, and whether Nefarian would deploy chromatic dragons into the war against the Dark Irons? I thought perhaps we could make a deal with those Dark Irons — trade the method for using these slabs in exchange for captives like chromatic whelps, for instance."
+
+Jace shook his head. "We can't hold out too much hope for that. From what I could gather from that dragonkin's words, the chromatic dragon experiments aren't going very smoothly right now. Even if there were truly combat-ready chromatic dragons, Nefarian probably wouldn't be willing to throw them straight into the battlefield. And I haven't heard any rumors in Shadowforge City about Dark Irons seeing any dragons other than black dragons in Blackrock Mountain."
+
+Krasus frowned and pondered for a moment. "Nefarian is indeed keeping this secret extremely well. If I hadn't been imprisoned in Blackrock Spire for that stretch of time, I might never have even heard of it, and Queen Alexstrasza knows nothing about this at all."
+
+So what other way might there be to obtain the Blood of the Five Dragons?
+
+Jace grabbed a sausage and took a bite, racking his brain for any information he might have missed, even recalling fragments of knowledge from his past life.
+
+In the earliest version of the game, around level sixty — about two or three years after the Battle of Mount Hyjal. In Blackrock, besides some chromatic dragonkin, and Chromaggus — that massive, deformed dragon monster imprisoned deep within Blackwing Lair — the only one that truly counted as a chromatic dragon seemed to be Gesh, the mount of the Blackrock Warchief.
+
+But considering that Krasus had been imprisoned in Blackrock Spire for so long and had only caught wind of rumors about a new dragon species, and factoring in how fast Nefarian was force-maturing the chromatic dragons, Gesh most likely hadn't even been born at this point.
+
+And of course, even if he had been born, there'd be no chance of getting into Blackrock to draw his blood.
+
+Just as his mind was frantically searching every scene in Blackwing Lair, Jace suddenly thought of another lead.
+
+Goblins…
+
+Malorak was certainly not the only alchemist involved in creating the chromatic dragons. Blackwing Lair was full of goblin alchemists and engineers of every description. Goblins had been serving black dragons for god knows how many years.
+
+Since Malorak had already found an opportunity to defect from Blackwing Lair at this point in time, the ones leading the subsequent chromatic dragon research would definitely be those goblins. The chromatic dragon results seen in the game were probably their work too.
+
+And in that dream, Malorak had also mentioned the goblins' knowledge of the chromatic dragons. Even the Common word "chromatic dragon" had been invented by goblins — the black dragons and dragonkin had always called this new dragon project "Chromaggus."
+
+Perhaps even the goblins felt that name was too much of a mouthful.
+
+"Maybe I could ask around in Booty Bay, Master." Jace glanced at the empty table beside them. "That dragonkin alchemist mentioned the goblins' involvement in the entire experiment. I was thinking — since that dragonkin alchemist could secretly leave behind some dragon's blood to create an incantation slab, wouldn't those goblins also find opportunities to steal some dragon's blood and sell it for coin?"
+
+"Goblins?" The red dragon mage was clearly quite surprised by this sudden lead.
+
+He stared blankly this way for a moment. Jace immediately added, "Of course, we can't hold out too much hope either. Someone told me before that goblins generally don't dare traffic in anything related to black dragons. But we don't have any other good options right now, do we? We can only hope that just as there are dragonkin brave enough to betray black dragons, there might also be goblins willing to make money right under a black dragon's nose."
+
+Krasus fell silent and thought for a moment. "This is indeed a worth-trying breakthrough, but I don't truly know many goblins."
+
+"I could make a trip to Booty Bay." Jace said. "I'm quite familiar with a goblin alchemist who holds a fairly high position in the Trade Cartel. If any strange dragon's blood showed up at the Booty Bay trade station, he should be able to get wind of it."
+
+Krasus smiled. "Your network is quite impressive for a warlock. Then I'll leave it to you."
+
+"Mm, actually there's something I wanted to ask you too." Jace said. "I'd like to know what the current situation is like deep within Grim Batol."
+
+"Deathwing's lava has already turned that place into something more terrifying than the depths of Blackrock, Jace." Krasus narrowed his eyes and looked at him. "It's extremely dangerous to send young dragons in to scout, because many corrupted lava elements still roam about in there. Earlier, when searching for your staff, one young dragon was nearly shot down by the lava they speared at him. Surely you're not still counting on that staff remaining intact in such a terrible environment? Even Queen Alexstrasza had no choice but to seal off the entrance to that deep abyss with a sturdy barrier of thorns, to protect the outer environment and allow it to recover quickly."
+
+"It's sealed off — is there any chance of temporarily opening it?" Jace asked.
+
+"Did you lose anything else in there besides that staff?" Krasus asked.
+
+"It's not…" Jace explained. "It's about the Kadros Anvil. From some Dark Iron dwarves who refuse to submit to the Firelord's faith, I learned of the existence of a weapon capable of countering the Firelord. To forge it, it seems to require an anvil that has been tempered by extraordinarily terrible flames."
+
+"Forging a weapon against the Firelord using the Kadros Anvil?" Krasus frowned. "Who came up with this crazy idea? As far as I know, that massive anvil is now half-buried in Deathwing's lava."
+
+"Really?" Hearing this news, Jace was actually even more excited. He said immediately, "This might be exactly what allows it to rival the Dark Anvil of Shadowforge City, Master."
+
+"I'm not optimistic about this idea, but fine." Krasus picked up his coffee and sipped the golden foam on top. "After I finish the slab research here, I'll go in and take a look. After all, this purification work has to be done sooner or later. If we want to restore the entire Batol mountain range to its former state, we must completely cleanse the dark fire beneath. And if we truly defeat Nefarian and the Blackrock Spire under his control, the Firelord's influence will inevitably expand rapidly — so we must have something capable of countering it. This is indeed worth trying."
+
+"Then I'll trouble you, Master." Jace cleared his throat, a little embarrassed. "Also, is it possible for you to teleport me to Booty Bay with magic? It'd save a fair bit of time, and a fair bit of travel money."
+
+"You really overestimate my control over the ley lines — I'm not Azuregos." Krasus shook his head helplessly. "If I hadn't been wounded by Onyxia, I should still be able to resume my true form and carry you there by flight."
+
+"Then… I'll have to ask Sola." Jace said.

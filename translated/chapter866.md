@@ -1,0 +1,221 @@
+## Chapter 866: Connecting Two Worlds
+
+The furbolg Kenluk led a few others around the side of the wall, slipping easily through a cracked fissure into the interior of the structure. Grede held his shield and war hammer at the ready while Vereesa gripped her short sword, the two of them flanking Sola and Jace one in front and one behind as they slowly squeezed through an extremely low tunnel formed by the gap.
+
+"The deeper we go, the more I feel like I'm crawling through the sewers of Dalaran," the dwarf muttered. "Gives me the creeps."
+
+"You've been to the sewers of Dalaran?" Vereesa asked.
+
+"Curious, is all," Grede said.
+
+"This was most likely built by Guardian Skavil to hide Ursael," Jace said. "So resembling Dalaran isn't surprising."
+
+"Skavil was Aegwynn's teacher," Vereesa said. "If he intended to protect something, his magical seals wouldn't have worn off after only eight hundred years. So I doubt these fissures in the ground are natural. More likely… someone deliberately tried to excavate this place, using magic to break the seals here."
+
+Jace held up Azure Song to illuminate the wall. He badly wanted the walls here to be green — to confirm the clue mentioned in Dasmora's report. But unfortunately, aside from some blackened ferns covering the surface, the whole thing could hardly be called a deep-green wall, let alone some kind of labyrinth.
+
+As they went deeper, the tunnel walls began to show densely packed ancient Common runes, along with grooves left behind by damaged mural-circle arrays.
+
+He could roughly tell that all these arrays were designed to counter Shadow and Fel creatures.
+
+Given that Ursael's previous owner had been an Eredar necromancer, these runes were most likely meant to guard against demons of the Burning Legion — otherworldly visitors like Dasmora and Karlez who wanted to find Ursael.
+
+But when Morophil had passed through here, she hadn't been affected in the slightest. This meant the arrays and traps had definitely been destroyed. All of this gave Jace one distinct feeling: Ursael might have already been taken. They were too late.
+
+Thinking back to the three satyrs they'd encountered in the ruins of Kesilir… Winterspring had been thoroughly infiltrated by demons. Add to that the faerie dragon they'd heard outside mentioning Vile'tan's name, and the Frosthammers saying satyrs might be lurking in the snow valley — perhaps it was the satyrs who had broken in here and taken Ursael.
+
+Emerging from the tunnel, they entered a small chamber. Azure Song's light spilled in, revealing a yellowed skeleton lying across the floor.
+
+"This is a faerie dragon too," Vereesa said. "Look at the structure, the proportions — it's very similar to the one from before, and even larger than that one."
+
+"I don't dispute your judgment, little elf," Grede said, walking up to the bones. "But the question is, how the hell did this faerie dragon get in here? I mean, look at this thing — the head of this monster is bigger than my entire body. That fissure back in the passage was barely wide enough for me to squeeze through. I absolutely refuse to believe this creature could've gotten through there without destroying those walls."
+
+"Sola?" Jace asked. "What do you think? I remember that faerie dragon from before seemed able to fade from sight. Could it have gotten in that way?"
+
+Sola explained, "Actually, that method of invisibility is quite similar to Vereesa Windrunner's earring — it merely blurs vision using dream power. Perhaps dream power can distort some attacks coming from outside, like magic or arrows. But it absolutely cannot make an invisible person vanish entirely and squeeze through a space they normally couldn't fit through. At least, from my own knowledge of faerie dragons… impossible."
+
+"Sola," Jace said. "You mentioned before that if you reach a location in the Emerald Dream that corresponds to a spot in the real world, and wake up from the dream there, you can arrive at that place, right?"
+
+"That's right," Sola said.
+
+Jace asked again, "Then could a faerie dragon enter the dream from outside, fly a certain distance inside the dream toward this temple, and then return to reality, arriving exactly at this spot?"
+
+Sola said, "That's nearly impossible… Jace Sesso, because the dream and reality don't correspond absolutely. Perhaps a very long time ago it could have been done, but after the Well of Eternity exploded, everything changed. Azeroth in the Emerald Dream still retains its appearance from before the Sundering, but the continents here have already split into many pieces. The corresponding locations between the two planes have become severely distorted, and ten thousand years of development since have only worsened the deviation. So transitioning between the two planes can't be precise enough to let you bypass some small obstacle. What's more, entering and leaving the dream without relying on a dream gate is itself an extremely difficult feat — even for green dragons."
+
+"I think I understand," Jace said.
+
+"Then could it be that this faerie dragon was already inside?" Vereesa asked.
+
+"What do you mean?" Grede asked. "You're saying the Dalaran mage kept a faerie dragon inside the house he built?"
+
+"Maybe more than one," Vereesa said.
+
+"Why?" Grede asked.
+
+"How should I know?" Vereesa said. "I didn't know Aegwynn's teacher."
+
+Just then, Jace reached the other side of the dark little chamber and illuminated a hidden door leading deeper. "Over here, everyone."
+
+The group followed Jace through the hidden door and into a passage. Inside was a spiraling staircase leading downward. This staircase was short — after descending barely two floors, they arrived at a collapsed gate.
+
+Grede helped move a few stones aside with ease, revealing a gap leading in. Jace took a deep breath and squeezed through, all the while silently reciting the incantation for Dark Shield, ready to counter any sudden threat that might arrive.
+
+But once he got inside and looked up, raising Azure Song in his hand, what he saw was an empty hall.
+
+Broken bricks and tiles covered the floor. The walls bore traces of having been swept by some powerful energy — a deep scorch mark stretched out in a long arc.
+
+In the corner of the hall lay a pile of rubble and debris. Vereesa approached and examined it. "Arcane Golem."
+
+"Arcane Golem?" Grede asked. "Like those Arcane Golems walking around Silvermoon?"
+
+"Similar, but this one was far more powerful." Vereesa looked up toward the ceiling. Tree roots had pierced through the walls and hung down. "It must have once been used to protect something important."
+
+"Are these battle scars here the work of that Arcane Golem?" Jace asked.
+
+"Very likely." Vereesa crouched down and traced a damaged imprint. "But I can barely sense any magical power left. The battle here probably happened decades ago."
+
+Aside from these things, the entire hall was empty. There were no other passages, no other facilities. This underground temple, which hadn't looked all that large from the outside, wasn't much bigger on the inside either.
+
+Grede suddenly asked, "By the way, are there any hidden doors? Like the magical disguises in Kesilir…"
+
+Vereesa shook her head. "This place is far too small compared to that hall. I tried to sense it the moment I came in, but there are no magical traces here anymore. Though I can feel that many years ago, this place was sealed by an extremely powerful magic…"
+
+"So we're too late?" Grede sighed.
+
+Jace surveyed the damaged walls around him. He was unwilling to give up just like that.
+
+The deeper they'd come, the more Jace felt that the secret vault Skavil had built seemed to have an extremely strong connection to the dream realm. Could the faerie dragons have been kept here by that Guardian for this very reason?
+
+"Could Ursael be in the Emerald Dream?" Jace asked, looking toward Sola.
+
+"How could that be?" Sola said. "If there were such a powerful demonic artifact in the Emerald Dream, it would definitely raise alarms…"
+
+"Then why didn't the druids and green dragons detect the nightmare infiltration in Kesilir?" Jace asked.
+
+Sola frowned and said, "Going by what you've said, this demonic weapon has been hidden here for eight hundred years. The satyrs reaching the nightmare's claws out again hasn't been nearly that long. Even if the green dragonflight aren't as sensitive to the passage of time within the dream, they couldn't possibly fail to notice such a terrifying threat."
+
+"I have to see for myself," Jace said, looking at the ranger. "Try using that pendant, Wen."
+
+"Here?" Vereesa drew the pendant from amid her silver hair. "What are you trying to do?"
+
+"I want to see what it looks like to peer into the dream from here," Jace said.
+
+Vereesa held the pendant and it radiated a silver light. The image of the entire hall quickly blurred and bled, as if submerged in water — the field of vision hazy and turbid. Jace took a deep breath and looked up. Then he saw something that sent a chill down his spine.
+
+A dense canopy blocked everything. Lush greenery obstructed their vision layer upon layer. They were buried in a primeval forest one stratum on top of another. If Jace had to describe where they were at this moment, it would feel like a prison surrounded by tall, dark-green walls.
+
+What brought this intense sense of oppression was a powerful force of darkness. These seemingly lush trees were as lifeless as zombies, making everything in his field of vision a dark green that didn't look like the color of life at all — more like blackened green paint.
+
+Jace could clearly sense that this world was the true source of the deep dread they'd felt when approaching the fissure where the underground palace was located. Vereesa and Grede both stood transfixed. Kenluk looked around in bewilderment.
+
+Sola also looked up, staring at the ink-blurred canopy and branches high above. Her expression held no less surprise than the others'. She frowned deeply, as if she couldn't believe this place existed.
+
+Was this the place Dasmora had described?
+
+Jace took out Dasmora's scroll and reviewed the Eredun text she had recorded.
+
+This demon must have tried to enter the Emerald Dream… She must have witnessed this scene to have written those things. But earlier Sola had said that demons couldn't enter the dream — they didn't dream, and the dream wouldn't welcome them. Could it be that the satyrs had used some method to enter the dream and brought them in?
+
+Vile'tan…
+
+So Dasmora had cooperated with Vile'tan and the satyrs under his leadership, coming here attempting to find Ursael?
+
+From between the lines, Jace couldn't feel that Dasmora understood where she was — otherwise she wouldn't have used such vague adjectives to describe what she saw.
+
+Could Vile'tan have deceived her?
+
+But Dasmora was dead, and Vile'tan was dead too. Jace felt he had little chance of finding out what had happened between them.
+
+"Jace."
+
+Grede suddenly called his name from behind.
+
+"What?" Jace turned around.
+
+"What's this?" The dwarf pointed at a blurry stone in the distance.
+
+Not far from their field of vision, on a pedestal entwined with countless withered branches, a thin, slender rod curved like an animal's spine stood upright.
+
+Because the dream seen through Vereesa's earring was so hazy, and because this rod was so thin and ordinary, Jace hadn't noticed its presence at all if not for Grede's reminder.
+
+"What is this? Ursael… isn't it a scythe?" Vereesa asked.
+
+"Yes."
+
+Jace nodded, but his gaze couldn't leave that rod. Vereesa was right — the top of this staff had only a demon's head, its enormous mouth gaping open at an exaggerated angle full of fangs, but it lacked the blade of a scythe.
+
+Was it Ursael? He couldn't be sure either.
+
+He walked up to the pedestal, wanting to reach out and touch the staff. Yet it was right at his fingertips but beyond his reach — his hand simply passed through it, as if through a shadow.
+
+"We're merely in the reflection of the dream, Jace Sesso," Sola reminded him.
+
+"Then we'd need to find a dream gate to enter?" Vereesa asked.
+
+"No." Sola looked up high. "This is a fragment of a dream — perhaps a fragment captured by Aegwynn's teacher, Skavil. It's impossible to reach here from within the Emerald Dream, Vereesa Windrunner. This place is bound to this underground palace. Perhaps those faerie dragons lived here to guard the entrance to this fragment."
+
+"You're losing me, Sola," Grede said.
+
+"The Emerald Dream… isn't a perfect world, dwarf." Sola explained, "When the dream was created, many broken, discarded parts came into being. Those parts were often neglected and unstable. After the dream took shape, those places were all forgotten — but they were exploited by demons and became the footholds for infiltrating the dream. The dream fissure the satyrs opened in Kesilir likely led to just such a fragment… which is why it collapsed so easily."
+
+"That's also why this weapon remained hidden here for eight hundred years without the green dragons noticing," Jace said.
+
+"So it seems," Sola said. "So to venture deeper into this dream fragment, the only way is through this vault."
+
+"But there's no dream gate here — should we find a druid?" Grede asked.
+
+"There's no time, Grede," Vereesa said. "The Black Knights must be nearly here. They definitely know how to do it, to be this determined."
+
+"Then let me retrieve it," Sola said. "It seems we have no other choice."
+
+"You're going to retrieve it?" Grede said in surprise. "Now hold on — didn't you say that after entering the dream, you couldn't be sure where you'd end up?"
+
+"I am a green dragon, Grede Thunderfist." Sola looked up, surveying the forest here. "I'll find the way. After all, it doesn't look that hard to find."
+
+Jace said, "But Isendre won't allow you to return to the Emerald Dream."
+
+"She only forbids it — that doesn't mean I'm incapable of returning." Sola turned around and replied, "Besides, they can't sense Ursael here, so they definitely can't sense me either. Pay her no mind."
+
+The others were all hesitant. The furbolg looked even more bewildered. The green dragon looked at Jace and said, "You used Azure Song to free me from the nightmare's enslavement. So let me help you find this cursed demonic weapon. And the green dragonflight's mission is to guard the dream… even a broken dream, isn't it?"
+
+With that, she raised her hand, her palm radiating silver light. Jace said, "Wait."
+
+"What is it?" Sola asked.
+
+"Take this."
+
+Jace took off the Chain of Will and held it in his hand. Here, he could already feel its heat.
+
+"What is this?" Sola asked.
+
+"Something that will protect you," Jace said.
+
+"All right." The green dragon smiled, took the Chain of Will, and fastened it around her neck. "See you in a moment, everyone."
+
+## Flags
+
+- **熊怪肯卢克** → "Kenluk" (furbolg) — not in glossary; transliterated. Flagged for addition.
+- **温蕾萨·风行者** → "Vereesa Windrunner" — not in glossary (glossary lists Alleria Windrunner); Vereesa is the youngest Windrunner sister. Flagged for addition.
+- **索拉** → "Sola" (green dragon companion) — not in glossary; OC. Flagged for addition.
+- **斯卡维尔** → "Skavil" (Guardian, Aegwynn's teacher) — not in glossary; OC. Flagged for addition.
+- **乌萨勒斯** → "Ursael" (demonic scythe/artifact) — not in glossary; OC. Flagged for addition.
+- **达斯莫拉** → "Dasmora" (demon) — not in glossary; OC. Flagged for addition.
+- **卡尔勒兹** → "Karlez" (demon) — not in glossary; OC. Flagged for addition.
+- **莫洛菲尔** → "Morophil" (succubus) — not in glossary; OC. Flagged for addition.
+- **凯斯利尔** → "Kesilir" (ruins/location) — not in glossary; OC. Flagged for addition.
+- **维利塔恩** → "Vile'tan" (satyr leader) — not in glossary; OC. Flagged for addition.
+- **碧空之歌** → "Azure Song" (Jace's sword) — not in glossary; rendered descriptively. Flagged for addition.
+- **意志之链** → "Chain of Will" (protective artifact, originally bound the Dragon Soul) — not in glossary. Flagged for addition.
+- **埃雷杜因语** → "Eredun" (demonic language) — not in glossary; standard WoW term. Flagged for addition.
+- **黑骑士** → "Black Knights" (undead knights serving Karazhan) — not in glossary. Flagged for addition.
+- **霜槌** → "Frosthammers" (furbolg tribe) — not in glossary. Flagged for addition.
+- **永恒之井** → "Well of Eternity" — canonical WoW location; not in glossary. Flagged for addition.
+- **天崩地裂** → "the Sundering" (canonical WoW event) — not in glossary. Flagged for addition.
+- **绿翼龙族** → "green dragonflight" — not in glossary; standard WoW term. Flagged for addition.
+- **伊森德雷** → "Isendre" (green dragon) — not in glossary; OC. Flagged for addition.
+- **格瑞德·雷拳** → "Grede Thunderfist" — full name used once; 雷拳 = Thunderfist per glossary (dwarven family name).
+- **精灵龙** → "faerie dragon" — canonical WoW creature; not in glossary. Flagged for addition.
+- **奥术傀儡** → "Arcane Golem" — canonical WoW creature; not in glossary. Flagged for addition.
+- **坠饰** / **耳坠** → "pendant" / "earring" (Vereesa's dream-seeing earring, Ysera's pendant) — same artifact referred to by two terms in the text.
+- **梦境之门** → "dream gate" — not in glossary. Flagged for addition.
+- **梦境碎片** → "dream fragment" — not in glossary. Flagged for addition.

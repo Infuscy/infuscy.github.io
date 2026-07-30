@@ -1,0 +1,117 @@
+## Chapter 1651: Forging a "True" Black Dragon
+
+The Smolderweb nest should have been the most terrifying place in all of Blackrock Spire. But with Vaelastrasz leading the way, it turned out to be the easiest stretch of the whole journey.
+
+Coming out of that stinking dark den, however, meant they had to be on high alert again.
+
+Wargs snarled and snapped at each other from above. The Horde's beast handlers had probably already readied these vicious creatures for a final showdown with the Alliance. In the abyss below, more and more Bloodaxe soldiers in crimson armor were assembling.
+
+"The demons are about to breach the southeast wall! Get your troops up there, Balorag! Warchief Blackhand saw through those Shadow Council wastes a long time ago. They only screw things up. When the Horde's survival is on the line, they're useless. Now it's the Bloodaxe Legion's turn to clean up their mess!"
+
+"Zug-zug!"
+
+"The gate won't hold much longer! It could break any second from Dagran Thaurissan's cannon, Warlord!"
+
+"The Spirestone clan and the Scarshield Legion will hold them off for a while. Bloodaxe must do its duty! Trust in Lord Victor Nefarius, Warchief Blackhand's advisor. These humans and elves will die in agony soon enough. We will prevail! For the Horde!"
+
+"For the Horde!"
+
+Orcish shouts and commands rang out from below. Vaelastrasz led the three like thieves across an abandoned gateway to the other side of the street, then crept along an extremely narrow ledge beside the wall, rounded a corner, and shuffled another dozen meters before reaching a slope where they could finally stand properly.
+
+From atop a tall dwarf statue, looking down past several barracks and narrow streets, they could see a fortress half-collapsed under fallen rocks. Several tall, armored dragonkin were gathered nearby, guarding a blood-red orc hide banner marked with the Blackrock clan's emblem.
+
+Behind the banner, past a burning brazier, was a doorway that had not fully collapsed. A dragonkin guard was walking out. Even from this distance, Jace could feel the shadow energy leaking from within — it was very different from the rest of the area. Neither trolls nor ogres, nor the orc soldiers moving back and forth, came anywhere near that place.
+
+"In there." Vaelastrasz pointed at the banner and whispered. "Vim'salak and his warlock servants are inside. We go in fast, kill the dragonkin, slaughter General Vim'salak, and the entire lower Spire will fall into chaos. Once we take out Overlord Omokk and make the Spirestone ogres abandon the fight and flee Blackrock Spire, the remaining orcs and trolls — without Blackwing's help — will never hold against your vanguard. They've already taken heavy losses at the gate."
+
+"I'm ready." Needleflame gripped the hilt of her dagger at her waist. The Sulfuron-forged sheath, made by Dark Iron dwarves, was already radiating a faint molten glow.
+
+"I'm ready too," Jace said.
+
+"Hold on." Vereesa pointed below. "What's with that door?"
+
+"What door?" Vaelastrasz asked.
+
+"The one the dragonkin are guarding." The ranger said. "That's a magical door. Can't you see it? A barrier made of shadow energy."
+
+They crouched lower and found a better angle. Sure enough, Jace could now spot part of a shadow barrier through the gaps in the fallen rocks.
+
+Up close, the shadow energy leaking from that doorway felt even more exaggerated.
+
+He had rarely seen shadow power this strong. Only the void energy in Karazhan and the shadow vortex in Draenor could compare.
+
+Was this the power of the corrupted egg laid by Sinestra, Deathwing's queen? No wonder it could enslave hundreds of whelps into madly attacking what should have been allied forces.
+
+"Well." The red dragon lowered his head. "That magic barrier wasn't there when I came last time."
+
+"That energy is too strong. Are you sure you can break it by force, Jace?" Vereesa asked.
+
+Jace checked his potion pouch. "If I use a Potion of Destruction, I should be able to manage."
+
+"Are you sure you want to use a Potion of Destruction? We haven't even seen a real black dragon yet." Vereesa whispered. "Damn it. One problem after another."
+
+Vaelastrasz scratched his brow. "Vim'salak must have set up the barrier to guard against assassins and thieves like us."
+
+"Did you mention to anyone in this tower that you were planning to bring people in?" Jace asked. "Did they get tipped off?"
+
+Vaelastrasz lowered his voice. "You killed the Spirelord's father and wounded his sister, Jace Sesso. It's not just the black dragons who know about you. Warlocks, shadow users, and dragon cultists across the whole continent know about you. They all know you have an incredibly powerful Sayaad demon helping you, and that demon specializes in invisibility and infiltration."
+
+"Now that Leshrael the Watcher is dead, and the stronger dragonkin haven't matured yet, no one besides Nefarian himself can guard against a Sayaad's infiltration. If I were him, I'd set up a thick magical barrier like this too, in front of my most precious treasure, making sure it stays active rather than being destroyed at the worst possible moment."
+
+"I'm not trying to doubt you. I just want to know what they know, so we can find a way..." Jace said.
+
+"Don't forget we have a black dragon here, everyone. A genuine black dragon!" The imp whispered. "Dragonkin obey their masters. Just have her go down and order them to open the door!"
+
+"No." Vaelastrasz said. "If she were a black dragon from the Spire, that would be fine. But Needleflame doesn't have a trace of shadow essence. The difference is too obvious. Even I can sense it immediately, let alone a commander like Vim'salak."
+
+"Then can we add some shadow essence?" Vereesa looked at Jace. "Do you have any shadow artifact on you? Perhaps Needleflame could wear it to fool them."
+
+"Uh." Vaelastrasz also looked at Jace. "Do you... have one?"
+
+Jace patted himself down and looked at Ulthalesh in his hand. That was certainly a powerful shadow artifact, but it was a bit too powerful.
+
+He rummaged through his pack, pulled out a bottle of Shadow Oil. Vaelastrasz shook his head. "Too faint."
+
+Jace nodded and pulled out another half-bottle of blood. "This, then."
+
+"What is that?" Vaelastrasz asked.
+
+"Sesso's Blood," Jace said, handing the bottle to the red dragon.
+
+"Ses—"
+
+The red dragon blinked, took the bottle, uncorked it, sniffed, and immediately frowned. He shoved the cork back in. "Why are you carrying this around?"
+
+"For summoning the demon lord outside," Jace said.
+
+"Well, it's certainly evil enough." Vaelastrasz handed the bottle to Needleflame. "Drink it."
+
+"I haven't agreed to this yet!" Needleflame stared at the bottle and swallowed.
+
+Another boom echoed from above, shaking the entire Spire. This time it did not stop immediately — the sound of something collapsing followed, along with increasingly loud orc and ogre shouts.
+
+"The battle is probably starting soon. One way or another, we need to hurry." Vereesa glanced back the way they had come.
+
+"Fine, fine. I'll do it." Needleflame took the bottle. "What do I say?"
+
+"Just like when you commanded the dragonkin back in Blade's Edge Mountains. No different," the red dragon said.
+
+"I've... never done that." Needleflame mumbled. This black dragon... Vaelastrasz sighed softly.
+
+"Just command them like you threatened those orcs back in Auchindoun," Jace said. "Tell them you have important news for Vim'salak directly — something about the demon summoner outside. The key is not to make them suspicious. Put on that confidence befitting the Blackwing Prince's daughter. And we're doing this for speed, Needleflame. If they don't fall for it, I still have two Potions of Destruction to back us up."
+
+"Your plan, then." Needleflame pulled the cork out.
+
+The imp laughed. "That Sayaad is going to be so jealous, little black dragon!"
+
+The black dragon shot it a side-eye, downed the blood, and sucked in a sharp breath. "Didn't taste as bad as I thought, Jace Sesso."
+
+"I'll be sure to tell the Queen about your assessment of Sesso's Blood," Vaelastrasz whispered. "She should keep her guard up around you after all!"
+
+"You'd better hope she does, red dragon!" Needleflame said softly.
+
+"Go on, little vampire," Jace said.
+
+Needleflame grinned, leaped off the dwarf statue's head, and transformed back into her true form mid-air. She spread her wings, gliding low over the barracks and streets toward the dragonkin. The dragonkin had already looked up and noticed her arrival.
+
+"Not bad at all. A perfectly evil Blackwing." Vaelastrasz watched the young black dragon fly away. "Let's follow her in. Once the barrier is down, we rush in and strike."

@@ -1,0 +1,127 @@
+## Chapter 1198: The Demon Tower
+
+Near Mirror Lake, which was normally visited only by SI:7 agents, making it an ideal spot for Jace's group to take off and land from Stormwind.
+
+The morning was a bit overcast, the air slightly damp, and cold winds howled through the forest. For gryphon riders, this might not be a good day to fly, but for Sola it made no difference whatsoever.
+
+Sola had slept undisturbed for the past two days with no one bothering her, and today she looked refreshed and spirited, as if fully prepared for the long journey ahead.
+
+Of course, Amy hadn't been idle either. She'd used this time to organize all the difficult problems she'd encountered with the teleportation coordinates over the past week and conceal the critical information.
+
+But even though she'd told Jace she was ready to go find Jaina, coming to this forest, her nervous expression still looked rather unnatural.
+
+Still, Jace knew she wasn't nervous about seeing Jaina. She was nervous about riding an actual dragon…
+
+For Jace's crew, riding a dragon was no longer any big deal. But right now, dragons hadn't yet developed the kind of deep dealings with mortals that they would twenty years from now. Krasus's true identity in the Kirin Tor was still a secret that practically no one knew. So of course Amy would find the idea of being carried through the skies by a dragon something out of myth and legend.
+
+All along the way, she kept her eyes on Sola. That gaze wasn't that of someone looking at a newly-made friend, but of someone watching a predator, a fearsome killer — as if it might turn its head at any moment and swallow her in one bite.
+
+But at the same time, Jace knew that if he asked her whether she wanted to go back and rent a gryphon to Dalaran, she definitely wouldn't be willing… Even if it meant facing considerable danger, who would pass up an opportunity like this?
+
+Sola's mortal form was slightly shorter than Amy. Walking beside her, she looked like Amy's little sister.
+
+When they reached the lakeshore, she looked up and surveyed the sky. Amy glanced involuntarily at Jace, her lips moving slightly, as if wanting to ask, "Is she about to transform?"
+
+Before Jace could give any hint or reaction, a mass of illusions that distorted and blurred vision had already spread out, concealing this stretch of the lakeside and enveloping Sola within.
+
+Amy opened her mouth slightly in amazement and stared carefully at this layer of magical phenomena, as if unwilling to miss a single detail. Within that shroud, the small figure rapidly expanded. Flowing blonde hair grew into heavy horns; the long robes covering her body billowed up, becoming bones and fleshy webbings that spread higher and higher…
+
+When the illusion grew thin, the emerald dragon Somel was already revealed before Amy's eyes.
+
+The green dragon lowered her head and gently brushed Jace's cloak with her golden horns, then turned her head to look at the mage beside her — and actually made Amy couldn't help but take a step back.
+
+It wasn't Amy's fault for being scared. Jace felt that Somel now was considerably larger than the black whelping Mafral they'd encountered at Southshore.
+
+If a black dragon of that size had flown over Southshore, it would've caused another uproar from Dalaran all the way to Lordamere.
+
+Seeing the mage's reaction, Somel let out a couple of cough-like laughs. She spread her wings, blowing away the last of the Dream energies lingering around her body to reveal herself completely, then said in a hoarse voice, "Don't be afraid to travel with me, Amy. I won't let you come to any harm."
+
+Amy responded, tightened the straps on the satchel at her waist, and checked the things she was bringing to Dalaran inside. Then Somel lowered her head a little, and Amy grabbed the horns jutting from her shoulders and pulled herself up onto the dragon's long neck.
+
+Once seated, Amy glanced at Jace standing below, then turned to survey the green dragon's full body — and when she turned back, her face had gone deathly pale.
+
+"Remember what you promised Sola, Amy," Jace reminded her. "Alterac goats are especially delicious. Wynneza and I had the fortune of trying them once before. Remember to take Sola to check them out over there."
+
+"Uh — okay," Amy agreed, though she paused for a moment, clearly not expecting "treating someone to a meal" to actually mean this.
+
+"You're really not coming with us to Dalaran, Jace?"
+
+"I'd better not take the risk of letting Jaina see me," Jace said. "And Ilgara Tower will be finished soon — I need to stay here to sign the papers. If you come back and don't see me in Stormwind, you can check over at Stonewatch."
+
+Amy nodded. Jace added, "Alterac goats really are delicious, Sola. I've never eaten a Bloodfang Boar raw, but I can promise you — the Bloodfang Boar around Moonbrook definitely couldn't beat a big Alterac goat. Think about it — those are fierce beasts the Stormhammer dwarves treat as comrades-in-arms…"
+
+The green dragon looked as if her interest had been instantly piqued. She extended her long tongue and licked a circle around her mouth. Jace added, "Remember to stay away from the deep parts of the snow mountains. Don't go catching goats in front of those dwarves — they've got terrible tempers."
+
+"The dwarves aren't my masters! A dragon's temper isn't small either — don't you know that?!"
+
+With that, the green dragon blew a breath at Jace in displeasure. Caught off guard, Jace nearly got dust in his eyes and had to take two steps back, spitting out a leaf in exasperation as he muttered, "I know, I know…"
+
+Good lord, he wondered how many times this green dragon had argued with Grede on the way to Kalimdor…
+
+Of course, Jace also knew she was only put out in words. Sola had always been the most low-key and restrained one in the crew — she wouldn't go looking for trouble with those dwarves out of sheer spite.
+
+The green dragon raised her wings and beat them twice, slowly lifting off the ground. With each stroke of her wings, a current of soothing fragrance wavered through the air.
+
+Amy up above had by now overcome her earlier fear of the unknown, probably because she'd realized that flying on a green dragon was much smoother than riding a gryphon — not nearly as frightening as it looked.
+
+Jace knew that besides the novelty and satisfaction of sitting on a dragon's back, the dominant emotion in Amy's heart was a burning anticipation for the upcoming trip to Dalaran.
+
+Actually, back when he'd found Amy at the Blue Heron, Jace had sensed that Amy seemed even more anxious than he was to get that Draenor teleportation coordinate repaired. This problem she'd been gnawing at for days had probably become an obsession — she wouldn't feel right until she'd cracked it.
+
+The mindset of these academic overachievers really was a little different from Jace's. But something this complicated could probably only be solved by Kirin Tor academic overachievers.
+
+In another timeline, after the Dark Portal was closed, no shortage of brave souls had wanted to go to Draenor to rescue the Expedition. But in the end, none of them succeeded — it was because the Kirin Tor had blocked virtually every possible method of opening a teleportation passage.
+
+Let alone them — even Jace, a transmigrator who'd known the exam answers in advance, was at this point forced to find a breakthrough from among them.
+
+Wynneza's reply letter arrived. In it, she mentioned that Quel'Thalas was currently conducting a thorough investigation into the connections between shadow researchers within the Magisters and Dar'Khan's clique.
+
+Because Marisia had claimed, right in front of the investigators, that it would be best to blow up the Sunwell, the severity of the matter had gone beyond the level of just dark magic and runestones.
+
+Wynneza had also specifically mentioned in the letter that she needed to keep an eye on the situation in Quel'Thalas during this time, and reminded Jace to contact the Quel'Thalas side promptly if he found any news.
+
+Though she hadn't said it outright in the letter, Jace knew she meant the scrolls they'd found in Stratholme.
+
+Right now, the warlocks in their group couldn't even figure out what those things said, let alone discover any important news.
+
+Jace had a vague feeling that these things probably wouldn't truly be understood until they reached Draenor. It was like how Dar'Khan hadn't figured out the Tygos Rift here, but the blood elves who'd returned from the shattered Outland had quickly worked it out.
+
+Two days later, Jace went to the Stormwind registration office and signed and sealed the documents with the representative sent by the Stonemasons. The renovation work on Ilgara's Tower was considered fully complete.
+
+He reported the matter to Andormas of the Wizard Sanctum and the royal palace, wrote a reply letter to Wynneza — reminding her to tell Grand Magister Belvar to remember to send the promised Taralfsin Crystal — said his farewells to his parents, and headed over to Stonewatch to see the completed mage tower.
+
+The next step was to summon Kallrez into the tower. This process still required careful preparation, from the spell materials to the summoning circle.
+
+Although the difficulty of summoning a doom lord from the Twisting Nether to Azeroth was certainly far greater than summoning him from Deadwind Pass to the shores of Lake Everstill, this time was different — they needed to summon him into the narrow interior of a mage tower, so they couldn't afford to be careless either.
+
+Gorjett had been ridden away by Grede, and Sola had taken Amy to Dalaran, so Jace had no choice but to borrow a gryphon from the city walls once more in the name of the court mage, heading to Stonewatch.
+
+Departing Stormwind in the morning, flying all the way to Stonewatch and then walking to Ilgara's Tower — by the time he arrived, the sky had already darkened.
+
+Jace stood at the base of the tower, glanced up at the tower top, then looked back toward the forest.
+
+He shouted in a booming voice in Demonic: "Return and guard Ilgara's Tower, Dazar'm!"
+
+The voice echoed through the forest, sounding unspeakably sinister and terrifying in the dead of night. After it reverberated for a while, Jace even began to doubt whether this had really come out of his own mouth.
+
+"Your voice sounds more like a real demon now, master," Morophil said, sitting on the steps. "I mean, even without Curse of Tongues."
+
+"Are you flattering me?" Jace asked.
+
+"For mortals, is sounding more like a demon a form of flattery?" Morophil asked with a smile.
+
+Jace thought about it. "Probably Sazeno's been casting Curse of Tongues on me over and over again, and it's finally caused permanent damage to my body."
+
+"That's not my fault, master — after all, every order came from you!"
+
+The imp leaped out of the demon-hide bag and darted through the mage tower's door, like a ball of green will-o'-the-wisp bouncing back and forth across the floor.
+
+Before long, in Jace's demonic vision, two barely noticeable balls of dark-purple fel light appeared in the forest, approaching from different directions.
+
+It was Dazar'm II and III. The two of them had been faithfully guarding the craftsmen at Ilgara's Tower, keeping them free from harassment by gnolls or other monsters in the forest.
+
+When their forms were fully revealed in the shadows, Jace noticed that they seemed to have grown considerably since they were first summoned — like two massive, crouching wargs. Who knew how much gnoll flesh and blood they'd devoured, how many gnoll souls they'd consumed, how much gnoll sorcerers' mana they'd seized during this time?
+
+One of the felhounds lay prone at the foot of the steps; the other coiled around Jace's side. Behind them, purple-red flames burned between the runes in Morophil's eyes. Inside the tower, the imp had already scrambled up the steps, casting the great hall within in shifting shades of demonic green.
+
+Since the day Ilgara's Tower was built, it had probably never been as evil as it was today.

@@ -1,0 +1,119 @@
+## Chapter 928: A Well-Known Trademark
+
+They set out from Moonbrook for Sentinel Hill in the afternoon and spent the night there.
+
+Word of what had happened at the lighthouse didn't seem to have reached the barracks here yet. Apart from the travelers and merchants who'd come over from Moonbrook and seemed to know something had happened at the lighthouse, the local sentinels and guards hadn't heard a thing.
+
+That was probably because there were more Wizard Sanctum mages in Moonbrook, and they communicated more with the local sentinels and demon-watchers, so word spread faster.
+
+Of course, Jace wasn't eager to hear people everywhere talking about him so quickly either.
+
+After all, this wasn't some glorious achievement like slaughtering demons, hunting black dragons, or defeating orcs. It was killing a bunch of humans.
+
+Granted, they were all crazed cultists under mind control, and quite a few of them had spent the past few years following the black dragons and doing all manner of evil. But they'd also been hunters, farmers, or even citizens of Stormwind from Elwynn or Lakeshire in the past. There might even be friends — or family — of theirs among the soldiers stationed at Sentinel Hill.
+
+Jace wondered whether, once this got out, he'd end up with some title like "the Lighthouse Butcher" — like some other witcher-type figure.
+
+Then again, by now he'd realized he didn't care much about his reputation.
+
+Back at Nethergarde Keep, after fighting desperately to kill a demon, and even after rescuing the Dragonqueen at Grim Batol, he'd imagined that his every move might gradually make the world more accepting of using shadow magic against the wicked.
+
+But by now, everything that had happened since had slowly ground down that drive.
+
+Trying to reverse, all by himself, the deep impression that demons and dark magic had left on the Seven Kingdoms over the two or three thousand years since Dalaran was founded — that wasn't something a little effort could accomplish overnight.
+
+He returned to Stormwind at noon two days later. The weather was getting colder, and it was obvious that the people on the streets were wearing thicker clothes than when Jace had left.
+
+Inside the city walls, it was as if this were a completely different world from Moonbrook. Whatever had happened at the lighthouse had absolutely no impact here. The pedestrians on the street carried on as usual, and the patrolling guards strolled leisurely through the market on horseback.
+
+He got home, set things down, told Morophil to keep an eye on their stuff and stay put, and Jace set off to see the king.
+
+He was the king's court mage and dark magic advisor, and Wrynn had originally entrusted him with handling this matter in the first place. Since Magino Dumas had returned to the Wizard Sanctum to report to Andormas, the king deserved a debriefing from him.
+
+He put on his court mage's ring, changed into a new set of linen shirt and trousers he'd bought in Moonbrook for less than eight silver, and headed out, walking along the canal toward Stormwind Keep.
+
+If you wanted to buy a passable set of linen clothes in Stormwind, about two silver would do it — though the quality and style certainly wouldn't be anything to write home about. When Jace had picked out this set in Moonbrook, he'd thought it looked quite good already — at least good enough to meet the king, in his estimation.
+
+He followed the guards to the palace gardens. Wrynn was wearing a heavy outer garment and had just set his longsword aside — it looked like he'd been practicing his swordsmanship. The king's sparring partner was still standing not far off.
+
+Seeing Jace arrive, Wrynn said something to the sparring partner, signaling him to leave first, then looked over and said, "The griffin courier brought word of the lighthouse incident to me, Jace. You have no idea how agonizing these past couple of days have been since I got the news. You're finally here."
+
+"Your Majesty." Jace gave a simple, slight bow.
+
+Wrynn took off his outer garment and handed it to an attendant, saying anxiously, "Tell me about it. The Wizard Sanctum hasn't sent detailed information yet — the reports I've heard have all been vague, but it seems this matter is connected to black dragons?"
+
+"I'm afraid it is indeed." Jace glanced at the guards nearby, then said, "After Moonbrook came under the Wizard Sanctum's control, the so-called 'Guide' who'd been directing the whole thing moved their gathering place to the lighthouse. They had people impersonate the lighthouse keeper to control who came and went, and they established a summoning ritual site at an abandoned farm near the coast that could teleport to and from the lighthouse. I found a way into that lighthouse through… my own information channels. I'd originally planned to gather some clues and then seek the help of the Wizard Sanctum and the army, only to discover that the 'Guide' behind this incident was neither a demon, nor a human or elf wielding dark magic — they were a group of dragonkin. It was the black dragons who'd been pulling the strings."
+
+"The black dragons never planned to let us off, did they," Wrynn said.
+
+"I'm afraid so," Jace said. "They might already be lurking within the city walls as we speak, after all. The most efficient method SI:7 had for tracking down dragonkin has already been forced to shut down because of this."
+
+Wrynn frowned. "I'll speak with Madam Shaw about this. Then what happened?"
+
+Jace gathered his emotions and organized his words before continuing. "They kept strict control over who entered and left that tower. Only people who were sufficiently trusted could come and go via the summoning ritual — entering the lighthouse was like that, and leaving even more so. And those dragonkin were extremely sensitive. I was worried that once they discovered my purpose, they'd destroy the evidence and flee immediately, so I decided to go straight for the dragonkin leader. I'd originally thought that as long as I killed this leader who was mentally controlling everyone, the problem would be solved — but I didn't expect things to be far more complicated than I imagined."
+
+"I heard, Jace. Dozens of black dragon–worshipping cultists died in that fire, and the warlock survivors were willing to surrender." Wrynn looked Jace up and down, then said, "It's a miracle you weren't injured in that chaos. I'd been worried you wouldn't be able to come explain this to me in person."
+
+Wrynn scratched his sweat-damp hair from sparring and went on: "As long as the black dragons keep nesting in Blackrock Spire, they won't tolerate our presence in the south for a single day longer. Sooner or later, the Alliance must pull up this last stake the Horde has driven into our world. After all, this threatens not only Stormwind but Ironforge as well — and the people of Lordaeron know what they'd be facing if the southerners can't hold the line."
+
+He sighed lightly and sat down on the edge of a flowerbed. "But for now, all we can do is consolidate the defenses from Lakeshire to Stonewatch. Don't worry, Jace. Although SI:7 has been hamstrung, they've never let up on monitoring Blackrock Mountain to the north."
+
+Jace nodded and said, "I imagine that now their plan to divert attention's been broken, they won't make any other moves for a while either. Lord Bolvar Fordragon should have enough time to make his arrangements."
+
+"And that just proves how wise my decision was to make you my dark magic advisor." Wrynn smiled slightly. "Actually, from the very beginning when I learned about the dragon cultists in Moonbrook, I felt that relying on those straight-laced old men from the Wizard Sanctum, plus those SI:7 agents who don't know the first thing about magic, would make it very hard to deal with these cunning, treacherous warlocks…"
+
+Then the king looked up at Jace and couldn't help but laugh. "Of course I'm not insinuating anything about you, Jace. And if a cunning, treacherous person is willing to stand on our side, that's hardly a bad thing, is it? It's just that determining the loyalty of this sort of person is inherently a difficult matter."
+
+Jace nodded. He knew that King Wrynn still had reservations about cooperating with warlocks and didn't trust him a hundred percent. But to have come this far with his trust — for such a young king, especially one whose parents had both died because of orcs and dark magic — was already remarkable.
+
+"I don't know how the Wizard Sanctum is rewarding you for helping them patch up this massive hole, but I have my own thanks to give." Wrynn said this, then turned to an attendant: "Bring me that thing — the one I told you about yesterday."
+
+"Yes, Your Majesty." The attendants nodded and headed deeper into the garden.
+
+After a while, the attendant came out holding a box wrapped in silk.
+
+The king took the box, nodded to the attendant to dismiss him, and said as he unwrapped the silk, "Look at what you're wearing right now, Jace. I think I'm the most simply dressed person in this palace, and yet you, my magic advisor — a mage — remind me of the way Mathias Shaw looked when he was about to go fishing under the bridge in the Valley of Heroes."
+
+The king lifted the lid off the box, and Jace immediately sensed what seemed to be a wave of arcane power emanating from within — a power that had a calming effect.
+
+"Look." Wrynn raised an eyebrow. "I knew it. A caster like you would be able to tell right away that this thing is something special."
+
+From inside the box he lifted a silver-trimmed waist sash, its central buckle inlaid with several beautiful dark-red gems — giving this otherwise calming object a hint of sinister flair.
+
+"This piece was made by a master, Jace," Wrynn said with considerable pride. "I dare say not even a handful of people in all of Stormwind own a product of her making — no, I should say, a work of art. I'd think that as a mage who came out of the Wizard Sanctum, you ought to know her name."
+
+Truth be told, after all these years in Azeroth, Jace had never really studied art or fashion brands. He hadn't been good at that sort of thing in his past life, and he hadn't improved much in this one, so he could only shake his head.
+
+Wrynn opened his mouth, a little disappointed, then smiled and said, "Lady Angellista — have you ever heard her name?"
+
+"Ah, Angellista!"
+
+Jace suddenly remembered. In the game, there were many pieces of equipment and accessories for mages and healing classes that bore this mysterious name, but he'd never looked into who Angellista actually was.
+
+In this life, he'd only occasionally heard the children of wealthy families mention her name at the Wizard Sanctum. At the time, it had felt like some high-end luxury brand that would never have anything to do with him, so he hadn't been interested in looking into it deeply.
+
+"Angellista of Stratholme. She's said to have been a high-ranking priestess of the Church of the Holy Light in her youth, and to have attained quite high mastery in the magical arts as well. I know very well that in terms of enchanting… at least this sash's enchantment has received the praise of Master Kel'Thuzad."
+
+Hearing that name, Jace swallowed unnaturally. The king didn't seem to have heard the news yet that Kel'Thuzad was currently being held by Dalaran — but that didn't detract from Kel'Thuzad's standards. The fact that he spoke well of this item was enough to prove its value.
+
+The king went on introducing it as he took the item out and handed it to Jace. "Try it on, Jace. Come on."
+
+"Maybe I should've worn a mage's robes," Jace said, a little hesitantly, as he took the sash.
+
+"It doesn't matter. I'm sure its presence will elevate whatever ordinary clothes you're wearing to another level altogether." Wrynn stepped back eagerly, looked Jace up and down — having just put on the sash — and raised an eyebrow. "This piece is called Angellista's Grasp. It's said to boost the wielder's mana, and more importantly, improve casting stability. Of course, I'm not a mage, so I can't explain exactly how it works, but I'm sure you'll feel its benefits."
+
+"I can feel its stabilizing effect on magic without even putting it on, Your Majesty." Jace stroked the gems on it. Angellista's Grasp — Jace knew this piece of equipment. It dropped from the Blackwing Lair, and its effect was to increase spell hit rating.
+
+He'd killed the gatekeeper of the Blackwing Lair, received the king's reward, and that reward had, by some twist of fate, turned out to be a drop from the Blackwing Lair dungeon in the game. The strange coincidence of it all made Jace feel rather uncomfortable.
+
+But a good thing was a good thing, and he wasn't about to let these baseless associations ruin his mood. "This item is extremely valuable, Your Majesty. For a caster like me, it's also very important. Thank you truly."
+
+"As long as you like it." The king nodded with satisfaction. "I think you can take some time to rest in the coming period. I imagine what happened at the lighthouse wasn't easy for you either. A vacation is very important for recovery, both mentally and physically."
+
+"Thank you for Your Majesty's concern, but there's one more thing before I rest," Jace said. "I have a friend who was thrown in prison because of this demon disaster. I believe he had nothing to do with this demon-summoning business — after all, he'd been helping SI:7 track down the disguised dragonkin before this, and had earned Mathias's deep trust. Granted, he'd had quite close dealings with merchants in Moonbrook who sold demon-related casting materials, but that was purely to make money. Plenty of Wizard Sanctum mages were buying those materials too. At the time, it was still considered a legitimate business, since it also helped deal with the lingering influence of the demons from the Dark Portal."
+
+"That's someone the Wizard Sanctum arrested, Jace," Wrynn said. "I can write a letter, but I think those old mages will be willing to release your friend voluntarily because you helped them clean up their mess in Moonbrook — they won't need me to say a word. I seem to recall that person was also a member of the Stonemasons."
+
+"That's him — Erland Dudemore," Jace said.
+
+"Just go see Master Andormas. I guarantee he'll agree," Wrynn said. "Not to mention, at a time like this, we're not willing to offend any member of the Stonemasons either."

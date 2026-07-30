@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 33: Don't Dance — The Wobbly Peach</title>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+<style>
+/* Reading layout — ponytail: inline so generated pages need no Jekyll build */
+:root {
+  --reader-max: 42rem;
+  --reader-bg: #fefefe;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+}
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a {
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress {
+  color: var(--reader-muted);
+  font-size: .85rem;
+}
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -.02em;
+  color: #0f172a;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 2rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0 0 1.25rem;
+  color: var(--reader-text);
+}
+.reader-content hr {
+  border: 0;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 6rem;
+}
+.reader-content hr::before {
+  content: '· · ·';
+  color: var(--reader-muted);
+  font-size: 1.2rem;
+  letter-spacing: .3em;
+}
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover {
+  background: #eff6ff;
+  border-color: var(--reader-accent);
+}
+.reader-nav-link.disabled {
+  color: var(--reader-muted);
+  border-color: transparent;
+  pointer-events: none;
+}
+.reader-toc-link {
+  color: var(--reader-muted);
+  text-decoration: none;
+  font-size: .9rem;
+}
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+/* Flags */
+.flags-section {
+  max-width: var(--reader-max);
+  margin: 2rem auto 0;
+  padding: 0 1.25rem;
+}
+.flags-section summary {
+  cursor: pointer;
+  color: var(--reader-muted);
+  font-size: .9rem;
+  font-weight: 600;
+  padding: .5rem 0;
+  border-top: 1px solid var(--reader-border);
+  margin-top: 2rem;
+}
+.flags-section summary:hover { color: var(--reader-text); }
+.flags-section h2 { font-size: 1rem; font-weight: 700; margin: 1rem 0 .5rem; }
+.flags-section p { font-size: .9rem; line-height: 1.6; color: var(--reader-muted); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: 1.4rem; }
+  .reader-content p { font-size: 1.05rem; line-height: 1.75; }
+}
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/novel/">← Table of Contents</a>
+  <span class="reader-progress">Chapter 33 of 1862</span>
+</div>
+<main class="reader-content">
+<h1>Chapter 33: Don't Dance</h1>
+<p>Night, outside Stormwind's gates.</p>
+<p>The refugee camp wasn't filled with the usual singing and laughter, or crying, of a normal night — it lay silent in the rain.</p>
+<p>In the woods a few hundred meters away, you could still see the camp's faint, ghostly glow.</p>
+<p>Grede held a barely-straight wooden staff, pacing back and forth as he spoke: "Dwarves used to use swords to fight heavily armored enemies. Because no matter the dwarf, they're all skilled at crafting all kinds of armor, and Khaz Modan has never lacked for metal ore. The Bronzebeard and Dark Iron clans still hold to the ancient traditions today, because they still have to guard against ancient enemies. But the Wildhammer clan is different — we lean more toward fighting lightly armed enemies now, because our main enemy is the trolls, and the forest trolls who liked to fight in heavy armor were all burned to death by the pointy-ears with magic thousands of years ago."</p>
+<p>"So which should I learn?" Jace wiped the raindrops from his brow and eyebrows. "Fighting unarmored enemies, or heavily armored ones?"</p>
+<p>"The former, obviously," Grede said. "Can you picture a gnoll in a full suit of plate? Remember their chief, the one going 'Hagga, hagga!'? The only armor on his whole body was a single pauldron he'd looted from an orc."</p>
+<p>"Speaking of Blackrock orcs," he stroked his beard, "don't worry — after they've spent a few years beating themselves stupid against the Dark Irons north of Redridge, they won't have proper armor left either. Come, attack me. Use whatever swordwork you've seen."</p>
+<p>Jace looked at the dwarf in front of him, then at the long staff in his hand, weighing it. He started rummaging through his memory for any swordwork he'd witnessed.</p>
+<p>He hadn't seen much real swordplay. Grede's duel with that elf on the hillside had already been the most terrifying match he'd ever seen.</p>
+<p>Most of the other "battles" he'd witnessed were basically a bunch of people swarming in, swinging an assortment of random weapons around, clanging away at each other for ages without landing a hit, then howling and retreating several steps the moment they got grazed — a complete free-for-all.</p>
+<p>So he started digging into memories from his past life — games, movies… Mount &amp; Blade, Star Wars, The Witcher, For Honor, Game of Thrones.</p>
+<p>Gripping the staff, Jace wiped the rain from his eyes. "I'm ready."</p>
+<p>"Come on." The dwarf beckoned, then held his staff in one hand angled slightly forward. Jace guessed this was a ready position to parry his attack.</p>
+<p>Jace suddenly stepped in with a diagonal slash, which the dwarf easily deflected. Then he thought he'd spin around and deliver a heavy overhead cut like those cool swordsmen in the movies — but he'd only turned halfway when Grede tapped him on the back of the neck from behind.</p>
+<p>"What are you doing, getting ready to run away?" Grede frowned.</p>
+<p>Jace awkwardly demonstrated what he'd originally meant to do. "I wanted to spin around and swing like this — wouldn't that be more powerful?"</p>
+<p>"Maybe." Grede flicked the braid stuck to his neck behind him. "But you do it to surprise the enemy — when you've created distance and need to close in fast, when you're fighting multiple enemies and fighting for space, when the opponent's lost their balance and can't attack you right away, things like that! Don't rigidly memorize choreography!"</p>
+<p>The dwarf was getting worked up, gesturing continuously with his staff as he spoke.</p>
+<p>"Most importantly, be fast, be fast! Don't swing gently back and forth like some showboating bard — you're trying to kill your enemy, not get tossed copper!"</p>
+<p>The gesturing stopped abruptly, and he pointed at Jace. "Anyway, right now you're a beginner, and a human beginner at that. Don't try special moves that exceed your strength. Get the basics down first."</p>
+<p>"Control your weapon. Try not to let it stray too far from your control — like swinging it behind you… Keep your blade pointed at your opponent as much as possible, always maintaining the threat."</p>
+<p>Finished speaking, the dwarf delivered a rapid series of diagonal chops, vertical cuts, and thrusts — no heavy slashes or wide sweeps.</p>
+<p>"Like this. Every strike fast enough, sudden enough, that the enemy can't predict it. Don't dance. I'll say it again — don't dance like that elf in a fight."</p>
+<p>The dwarf sighed. "To be honest, I'm not saying his fighting style is useless. Actually, his sword-dance is a huge threat — huge, and very disorienting. But only elves can pull that off. They're a completely different species from you. Forest trolls, the elves of Quel'Thalas — they can all pull off some unbelievable moves, like a pack of six-foot mongooses darting across the battlefield. But as a human, you can only figure out how to deal with it — you can't imitate it."</p>
+<p>He leaned against a small tree. "Take it this way: if an ogre loses his weapon, he can uproot this tree on the spot and keep fighting you with it. But you can't. However, you have to anticipate that he might do exactly that, and use the slower movement and faster stamina drain after he uproots the tree… make that your newly gained advantage. You see what I mean?"</p>
+<p>"I understand," Jace said.</p>
+<p>"Try again." Grede shook the water from his head. "I'll try to correct your movements, help you practice, and find what feels right for a human as fast as possible."</p>
+<p>Jace nodded. This time he forgot all the flashy sword-dances and thought about Olympic fencers' movements.</p>
+<p>After all, the athletes' movements were fast enough, sudden enough, with the blade pointed forward at the opponent, the weapon never leaving their control — perfectly meeting all of Grede's requirements.</p>
+<p>He turned sideways, gripped the staff in one hand, took a deep breath, then took a big step forward that kicked up a spray of rainwater, while straightening his right arm and thrusting suddenly at Grede!</p>
+<p>The dwarf's eyes went wide and he jerked back a step, parrying in surprise. Without hesitating, Jace seized the chance to press forward, took another step, and tried another thrust. This time Grede caught his thrust, twisted, and sent Jace's staff flying.</p>
+<p>Grede picked up the staff and handed it back to Jace. "You devil — who'd you learn that from, huh?"</p>
+<p>"Watched other people fight," Jace said.</p>
+<p>"A Lordaeron noble?" Grede said. "It's threatening, I'll admit, but impressive as it is, it's got serious limitations."</p>
+<p>"Your movements give it away — it's the all-out lunge nobles use in their dueling games. It looks flashy, but the nobles themselves wouldn't use it on a real enemy. The moment you slip up, there's no tapping out on the battlefield. I'm teaching you the sword so you survive, not so you show off in front of women. If you want to attract women, you can use the other sword — it stabs people too, and it works a hell of a lot better."</p>
+<p>Grede patted his crotch, then continued: "Besides, this staff is still a bit light. If you got your hands on a heavier real sword and couldn't move at the same speed, I'd have an even easier time parrying your attack or disarming you, and then you'd be at anyone's mercy — unless you're a mage. All right, watch my movements, then follow along. Get the basics down first."</p>
+<p>Watching the dwarf seriously chop and thrust, Jace felt a little ashamed.</p>
+<p>Swordsmanship, combat techniques — these were abilities honed over years of practice and battle. How could you possibly defeat a seasoned enemy relying on a few flashy tricks picked up who-knows-where?</p>
+<p>He had to progress one step at a time, patiently. Grede was willing to teach him like this — he owed it to him to be even more serious and work even harder in return, instead of looking for shortcuts.</p>
+<p>Thanks to years of labor and work, Jace's physical condition was decent enough, so he imitated Grede's movements with reasonable accuracy.</p>
+<p>Watching Jace earnestly go through the motions, Grede couldn't help but laugh. "That's it, that's it — now you're getting somewhere, my little Jace. Once you've got these movements down, I'll teach you a few more, and then you can practice on your own whenever you like. I won't have to watch you every single night — you'd better keep at it for me!"</p>
+</main>
+
+<details class="flags-section">
+<summary>Translator Notes</summary>
+<h2>Flags</h2>
+<p>- <strong>"The other sword"</strong> — Grede's euphemism (he pats his crotch); rendered literally as "the other sword" to preserve the joke's indirection.
+- <strong>"Pointy-ears"</strong> — Grede's colloquial jab at elves; kept the dwarf-register insult.
+- <strong>Mongooses</strong> — simile for elves/trolls darting around; "six-foot mongooses" preserves the Chinese image (猫鼬).
+- <strong>"Hagga, hagga!"</strong> — the gnoll chief's battle cry; kept as-is since it's in-game gnoll vocalization.
+- <strong>"Beating themselves stupid"</strong> — colloquial rendering of Grede's phrasing about Blackrock vs. Dark Iron fighting.</p>
+</details>
+<nav class="reader-bottom-nav">
+  <a href="chapter032.html" class="reader-nav-link">← Chapter 32</a>
+  <a href="/novel/" class="reader-toc-link">Contents</a>
+  <a href="chapter034.html" class="reader-nav-link">Chapter 34 →</a>
+</nav>
+</body>
+</html>

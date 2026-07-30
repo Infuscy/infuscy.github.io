@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 8: A New Plan — The Wobbly Peach</title>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+<style>
+/* Reading layout — ponytail: inline so generated pages need no Jekyll build */
+:root {
+  --reader-max: 42rem;
+  --reader-bg: #fefefe;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+}
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a {
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress {
+  color: var(--reader-muted);
+  font-size: .85rem;
+}
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -.02em;
+  color: #0f172a;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 2rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0 0 1.25rem;
+  color: var(--reader-text);
+}
+.reader-content hr {
+  border: 0;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 6rem;
+}
+.reader-content hr::before {
+  content: '· · ·';
+  color: var(--reader-muted);
+  font-size: 1.2rem;
+  letter-spacing: .3em;
+}
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover {
+  background: #eff6ff;
+  border-color: var(--reader-accent);
+}
+.reader-nav-link.disabled {
+  color: var(--reader-muted);
+  border-color: transparent;
+  pointer-events: none;
+}
+.reader-toc-link {
+  color: var(--reader-muted);
+  text-decoration: none;
+  font-size: .9rem;
+}
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+/* Flags */
+.flags-section {
+  max-width: var(--reader-max);
+  margin: 2rem auto 0;
+  padding: 0 1.25rem;
+}
+.flags-section summary {
+  cursor: pointer;
+  color: var(--reader-muted);
+  font-size: .9rem;
+  font-weight: 600;
+  padding: .5rem 0;
+  border-top: 1px solid var(--reader-border);
+  margin-top: 2rem;
+}
+.flags-section summary:hover { color: var(--reader-text); }
+.flags-section h2 { font-size: 1rem; font-weight: 700; margin: 1rem 0 .5rem; }
+.flags-section p { font-size: .9rem; line-height: 1.6; color: var(--reader-muted); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: 1.4rem; }
+  .reader-content p { font-size: 1.05rem; line-height: 1.75; }
+}
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/novel/">← Table of Contents</a>
+  <span class="reader-progress">Chapter 8 of 1862</span>
+</div>
+<main class="reader-content">
+<h1>Chapter 8: A New Plan</h1>
+<p>Actually, ever since the day he'd heard the new warlock Sulenna casting in the basement of the Slaughtered Lamb, an idea had been taking shape in the back of Jace's mind.</p>
+<p>He would listen to the incantations from these warlocks, try to memorize the approximate pronunciation, and then piece them together into complete spells to master.</p>
+<p>Of course, this would be extremely difficult. A single incantation might have ten or even dozens of words. Fortunately, Jace had picked up some language-learning skills in his past life, so he was mildly confident in that regard.</p>
+<p>And by listening over and over, silently reciting along — much like the way he'd once trained his English listening — he should be able to memorize them within a period of time.</p>
+<p>But this "over and over" wasn't just listening. It meant enduring dark magic's damage again and again, which would test his resilience.</p>
+<p>Next came the most difficult part: finding the true original words of these incantations.</p>
+<p>To this day, contact between humans and demons had been limited almost entirely to the Order of Tirisfal — the organization of mages that, for two thousand years, had been dedicated to stopping demons from seeping into Azeroth from the Twisting Nether.</p>
+<p>And after Medivh was killed and his mother — the last true Guardian of Tirisfal — disappeared, the Order of Tirisfal had existed in name only. Vast quantities of demon-related materials and texts had been lost along with them.</p>
+<p>Not to mention the Highborne who had studied demons in ancient times — collections dating back over ten thousand years. Even texts preserved by magic would be hard to pass down to the present.</p>
+<p>At this point, the human warlocks in Stormwind had learned their incantations mostly from the orcs — some obtained from orcish prisoners, some from tattered spellbooks they'd found.</p>
+<p>And most of these books had been damaged or half-destroyed in the war. Whatever content survived was a priceless treasure, hoarded by powerful warlocks and mages for their own research and study.</p>
+<p>In short, these half-baked warlocks secretly practicing demon magic in a basement absolutely could not possess these precious tomes. They must be learning incantations passed down orally from other warlocks, then testing the effects by practicing on "practice dummies" like Jace.</p>
+<p>This was the real reason their spell effects were unstable.</p>
+<p>The root of it was that, in this era, many of these secret dark-magic practitioners didn't even know what language their incantations were in.</p>
+<p>Many even assumed it was some kind of Orcish or ogre runic language, and pored over Orcish dictionaries compiled by scholars during the war or ogre studies — heading down the wrong path entirely.</p>
+<p>This situation wouldn't improve until the Third Orc War — the Scourge invasion and the Battle of Mount Hyjal, a decade or so from now.</p>
+<p>By then, the demons who had poured in through the Burning Legion's invasion, after their defeat, had scattered and fled to every corner of Azeroth, spreading true demon magic to locals and cultists who worshipped them as gods. The mass opening of portals had also drawn Azeroth closer to the Twisting Nether, making demon summoning far easier.</p>
+<p>At the same time, organized bands of orcish and ogre warlocks had hidden themselves in the mountains and abandoned towns, spreading no small number of demon-related incantations and languages — ushering in a great flourishing of warlocks on Azeroth…</p>
+<p>Unfortunately, that was still over a decade away.</p>
+<p>Right now, Jace was quite possibly the only person in all of Stormwind who knew that the incantations of shadow and fel magic weren't Orcish at all, and certainly not ogre — but were complex incantations interwoven from a large amount of Demonic, a small amount of the dreadlords' native tongue (ancient Nathrezim), the pit lords' native tongue (Annihilan), and the language of the dark gods of the Void (Shath'yar).</p>
+<p>He needed to go to the library and find records of Demonic — or rather, Eredun. After all, Demonic was, in the end, just a dialect of Eredun.</p>
+<p>Next, he would use truly accurate methods to correct these warped, misshapen incantations and overtake them on the curve.</p>
+<p>After cleaning Master Marin's study, Jace walked along the spiraling walkways of the Mage Quarter. He gazed down the gloomy alley that led to the Slaughtered Lamb, then turned and walked toward another, more popular inn in the district.</p>
+<p>This was the place most mages tired of the Wizard Sanctum's pastries and bread frequented — the famous Blue Shade, home of the spellcaster.</p>
+<p>Compared to the Slaughtered Lamb, this place was several times livelier, with a more spacious hall that was even split across two floors.</p>
+<p>At the railing on the upper floor, a group of tipsy young mage apprentices were laughing about how their instructors had performed in class that day. Some were predicting how the Alliance Expedition would drive the foul beasts back through the Dark Portal in the Blasted Lands, then destroy that gate for good.</p>
+<p>Someone mentioned that once the Expedition secured victory and Azeroth's safety was guaranteed, Stormwind — rebuilt from catastrophe — would rise from the ashes and transform into the Alliance's new star, humanity's hope. Housing prices would go up ten or twenty times over.</p>
+<p>Hearing that, Jace felt his scalp tingle. Damn, these natives really had no fear of consequences.</p>
+<p>Most importantly, their predictions weren't baseless. If they'd just been talking nonsense, Jace wouldn't have cared this much.</p>
+<p>The Kingdom of Stormwind would stand firm for many years to come, gradually becoming the most stable and powerful regime among the human nations. And Stormwind, as the capital, would become the largest human settlement on all of Azeroth. Naturally, housing prices would climb ever higher.</p>
+<p>As for how high they'd go, he couldn't say — after all, the game never covered that. He just hoped he could earn money faster than housing prices rose.</p>
+<p>As things stood, without making some major changes, the outlook wasn't optimistic.</p>
+<p>But he hadn't come here to catch the political winds. He was here to plan his next move, grab some lunch, and rest a while until Amy Marin gave him the assistant badge that afternoon.</p>
+<p>When he sat down, a barman came up and asked what he'd like to eat or drink. Jace asked the prices of a few dishes and desserts, and his scalp tingled even more.</p>
+<p>Especially after hearing that discussion about Stormwind's future economic trajectory, he felt that buying anything slightly expensive would be a sin.</p>
+<p>He ordered a portion of Stormwind cheese crumble for six copper and a slice of dry bread — enough protein, salt, and carbs to hold him over until he could freeload free pastries at the Wizard Sanctum that afternoon. Passing out from hunger while he waited would've been a joke.</p>
+<p>He was already getting a little lightheaded from hunger. When the "meal" arrived and he shoveled a few bites into his mouth, he finally felt like he had the energy to start thinking about what to do next.</p>
+<p>Once he had the assistant badge and could enter the library, he'd head straight for the alchemy and herbalism section. His target: Shadow Protection Potion, Shadow Resistance Potion — every potion, elixir, and tonic related to resisting shadow power.</p>
+<p>The reason he needed to prepare these shadow-related potions was for his next trip to the Slaughtered Lamb.</p>
+<p>Going in naked like last time was out of the question. For one, it was too painful. For another, he had no idea what strange, unpredictable magical consequences those half-baked warlocks might inflict on him. He had to protect himself as much as possible and safeguard his health.</p>
+<p>After all, health was the capital of revolution. If his body broke down, everything was lost.</p>
+<p>Once he had the recipes for these potions, he'd search out where the relevant herbs grew.</p>
+<p>Buying those herbs was absolutely out of the question. When he was in Lordaeron, even the most common Peacebloom had sold for several silver a pound. A pound on Azeroth was close to an imperial pound — a bit over four hundred grams, less than a catty. He hadn't asked about the exact prices of other herbs, but none of them would be cheaper than Peacebloom — probably more expensive.</p>
+<p>Of course, "most common" meant common in the game. Based on Jace's previous work experience, if the cost of gathering a pound of Peacebloom ran to one or two silver, that probably meant harvesting even a single pound required not just herbalism knowledge and the effort of searching, but might even mean risking your life to reach the gathering site and haul it back.</p>
+<p>Not to mention the recipes for the more expensive shadow-related potions. He remembered that in the game, most shadow potions didn't start appearing until levels ten or twenty. They probably involved herbs like Mageroyal and Bloodthistle — plants that were past the beginner zones. At that point, he might have to deal with wolves, or even gnolls.</p>
+<p>So he had to bring Grede along. And on the road, they couldn't just pick the target herbs — they had to pick whatever they could, to maximize the profit from each outing. That way he could earn more and split a bit more of the pay with the dwarf.</p>
+<p>And they had to go during the day. He didn't want to go out at night anymore. Once night fell, every monster and demon became several times more rampant.</p>
+<p>It would eat into some of his money-earning time, but… could the odd jobs in Stormwind help him buy a house? He didn't have that in him, you know what I mean.</p>
+<p>Though the recent adventures had been thrilling to the point of nearly costing him his life, and he was wary of risking it like that again, Jace had already realized those experiences had shifted his perspective a bit.</p>
+<p>When the afternoon came, Jace returned to Marin's study. Amy was waiting for him there.</p>
+<p>"Your badge is ready." Amy held an exquisite small box, opened it, and took out a ring made of some unidentified metal. "This is your assistant badge — yours alone."</p>
+<p>Jace examined it closely, felt it, even gave it a sniff. It was probably copper — probably not worth much.</p>
+<p>And his first name and surname initials had been engraved on it with arcane magic, along with a mark indicating "assistant." If he sold it, he'd probably be in trouble pretty fast.</p>
+<p>Still, this ring was his stepping stone into the magical world. He wasn't so short-sighted.</p>
+<p>"Thank you, Miss Marin."</p>
+<p>"Call me Amy. We might be working together for a long time, after all. Is there anything else I can help with?"</p>
+<p>"Uh." Jace's eyes swept across the study. "I'd like to borrow a scroll."</p>
+<p>He needed a scroll to record the recipes and approximate locations. If he relied on memory alone and missed something, making the trip for nothing would be a total loss.</p>
+<p>The prices at shops selling paper, ink, and glyphwork were outright robbery. He hadn't even considered stepping inside one.</p>
+<p>Amy handed Jace a paper scroll. Jace thanked her, took the badge, and hurried toward the Wizard Sanctum.</p>
+</main>
+
+<details class="flags-section">
+<summary>Translator Notes</summary>
+<h2>Flags</h2>
+<p>- 蓝色隐士: rendered as "the Blue Shade" (mage tavern in the Mage Quarter; not in glossary).
+- 暴风城乳酪碎: rendered as "Stormwind cheese crumble" (menu item; not in glossary).
+- 魔皇草: rendered as "Mageroyal" (WoW herb; not in glossary).
+- 血皇草: rendered as "Bloodthistle" (WoW herb; not in glossary — tentative, could be Bloodthistle).
+- 暗影抗性药剂: rendered as "Shadow Resistance Potion" (not in glossary; distinct from 暗影防护药剂 = Shadow Protection Potion).
+- 纳斯雷兹姆古语 / 安尼赫兰语 / 沙斯亚尔语: rendered as "ancient Nathrezim," "Annihilan," and "Shath'yar" (demon language families; not in glossary).
+- 艾瑞达语: rendered as "Eredun" (canonical demon language; not in glossary).
+- 第三次兽人战争: rendered as "Third Orc War" (not in glossary; the Third War / 天灾入侵 era).
+- 海加尔山大战: rendered as "Battle of Mount Hyjal" (canonical; not in glossary).
+- 诅咒之地: rendered as "the Blasted Lands" (canonical zone; not in glossary).
+- 邪能魔法: rendered as "fel magic" (not in glossary; 邪能 = fel).
+- 木桩: rendered as "practice dummies" (Jace's self-deprecating term for being the warlocks' test subject).
+- 弯道超车: rendered as "overtake them on the curve" (Chinese idiom; meaning: cut corners / overtake by a shortcut).</p>
+</details>
+<nav class="reader-bottom-nav">
+  <a href="chapter007.html" class="reader-nav-link">← Chapter 7</a>
+  <a href="/novel/" class="reader-toc-link">Contents</a>
+  <a href="chapter009.html" class="reader-nav-link">Chapter 9 →</a>
+</nav>
+</body>
+</html>

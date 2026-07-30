@@ -1,0 +1,123 @@
+## Chapter 936: "Red-Braised Pork"
+
+Unlike Elwynn Forest, the forest where Stonewatch was located — that is, the border region of the Gnoll Forest — had remained in a primitive state. Aside from the mage tower in the middle and some abandoned gnoll camps nearby, most of the deeper areas of the forest had never been set foot in by anyone.
+
+At first, Jace hadn't realized this either. To him, most of Elwynn Forest was also uninhabited — only the outposts, farms, towns, and the main roads connecting them to Stormwind had any traces of human activity. Most of the rest, whether the banks of the Nafeltari River or the vast forests south of Eastvale Logging Camp, were quite mysterious.
+
+It wasn't until Sola came here and explained the state of the trees and vegetation to him bit by bit that he began to sense some differences. Sola stayed at Ilgal's Tower for a day. She liked this forest very much, so she barely spent any time in the tower the whole day, wandering in the forest the entire time.
+
+At first glance, a young woman strolling alone in an uninhabited primeval forest might seem a little dangerous — especially since there used to be gnoll tribes and giant spiders here. But at this moment, there was no doubt that the young woman herself was the most dangerous presence in the entire forest.
+
+Well, besides Jace himself.
+
+According to Sola, she liked the way this forest was both familiar with and wary of humans and everything humans created — it made her feel understood. Because just like her, she wanted to come into contact with dwarves, humans, gnomes, and other races not commonly seen in Kalimond, yet worried they wouldn't be as kind as she imagined.
+
+As the master of Ilgal's Tower, Jace certainly couldn't let her wander around outside alone. He could only accompany her on her strolls around the area while listening to her express some emotions that weren't easy to understand, as well as expressions that were half poetry and half plain talk — somewhat visual but also kind of awkward at the same time.
+
+In truth, following behind her, he'd been wanting to ask Sola who she planned to find to bless his Ilgal's Tower. But after following her all this way, he felt it would be too blunt to ask so directly, given how artistic the scene already was.
+
+However, even though Sola seemed to be in quite a good mood, Jace could still sense the dark cloud hanging over her heart.
+
+She'd never been able to let go of the Nightmare business — even after leaving the Emerald Dream and coming to an entirely different continent.
+
+As guardians of the Emerald Dream, green dragons and druids were the groups most susceptible to Nightmare corruption. From Ysera and the demigod Cenarius at the top, down to young dragons, night elf druids, and even the whelps — all the same.
+
+Even if someone else had killed the shadow of the Nightmare for them and pulled them out of the corruption, as long as the source of the Nightmare wasn't resolved, sooner or later there would come a day when they'd be corrupted again.
+
+Jace hadn't said it outright, but he was actually quite glad his friend had been cut off from the Emerald Dream. At least that way, he didn't have to worry about her being eroded by that dark force again.
+
+But he also knew that sooner or later, Sola would go back to face it all — enduring a trial that almost no one of her kind could endure.
+
+Still, King Wrynn hoped he would adjust his mood and rest well here. So he'd better not trouble himself with things that hadn't happened yet — and even if they did, who knew how far off that would be.
+
+When seeing Sola off back to Stonewatch, Jace wandered around Stonewatch, planning to ask the soldiers here for some food — especially vegetables and fruit, which were hard to come by in the Gnoll Forest.
+
+After all, for meat, he only needed Morophil. This female demon's hunting skills were first-rate, and she wouldn't fight you for food.
+
+As a hero who had once saved Stonewatch, and who had afterward taken Ilgal's Tower, ensuring Stonewatch wouldn't be attacked by gnolls from the east, Stonewatch was extremely welcoming to Jace's visits and naturally wouldn't refuse him taking a few things to eat.
+
+Entering the back kitchen of the barracks, the cook wiped his hands on his clothes when he saw Jace and said, "I was just thinking about sending something up to Ilgal's Tower for you, Master Sesso. But a lot of soldiers said you didn't want to be disturbed, so I never dared go."
+
+Jace looked up at this stubbled, fat cook — he found the title "Master Sesso" a little baffling. But the cook probably sensed that Jace seemed a little unhappy, so he quickly added, "Stonewatch certainly wouldn't disturb your rest, my lord. Besides, we don't know when you're inside and when you'll be out."
+
+As he spoke, the cook's face was clearly tense.
+
+Jace shook his head and said, "No, I don't mind you coming to Ilgal's Tower, and I certainly wouldn't refuse others' goodwill. Just don't enter the tower without permission — especially after the renovation is complete in the future. But I'm not some noble or lord — why are you calling me 'my lord'?"
+
+"How could that be," the cook leaned in and said. "You're the king's court mage, a close advisor — how could you not be a noble?"
+
+"My father was an ordinary officer in Lordaeron, and my mother grew up on a small farm, sir," Jace said with a smile. "I have no noble blood whatsoever."
+
+"I didn't expect we'd have something in common, Master Sesso… Master Sesso." The cook slapped the table. "My father was a soldier too, and he even fought in the Gurubashi War. You're from Lordaeron? Do you know about the Troll Wars?"
+
+"Of course I do." Jace immediately became interested. "Your father fought Gurubashi troll warriors? He must've been quite something…"
+
+The cook smiled and said, "He didn't make it, Master Sesso. I suppose in the end he didn't have the blood of the ancient Thoradin lineage flowing through his veins like he thought — he couldn't be invulnerable to weapons when facing trolls. He died fighting on the southern shore of Lake Everstill, defending Lakeshire from troll harassment… Ah, that was already thirty years ago. Anyway, I chose to carry on the unfinished work he left behind — continuing to defend this lake and these mountains. He fought trolls, I fight orcs. Aside from one being thin and one being fat, I imagine there's not much other difference."
+
+The other man spoke at length, but Jace still listened very attentively. He nodded and said, "If your father could see Lakeshire today, he'd be proud of you, sir."
+
+"I think so too," the cook said with a smile. "Though he'd probably rather I'd picked up a real sword than a meat cleaver. It's a pity there's no wine here at the moment — otherwise we could have a much more pleasant conversation. Very nice to meet you, Master Sesso. Let me help you pick out some good things."
+
+He bent down and pulled out a sack from under the table. "Look here — potatoes that just came in from Goldshire yesterday, fragrant and sweet. You ought to try these potatoes. They're even better than the Kul Tirans'. Boil them, mix them with minced meat, then layer cheese on top and bake it all together…"
+
+Jace had eaten a pie like that in Stormwind, but staring at this sack of potatoes, he was thinking about something else.
+
+As a mage tower, Ilgal's Tower also had some old, unused alchemy tools — pots, spoons, fire-starting materials, and so on.
+
+He wanted to eat braised pork with potatoes.
+
+After getting salt and spices from Stonewatch, Jace returned to Ilgal's Tower and immediately called Morophil out to hunt a wild boar.
+
+He dusted off the storage room in the tower, which had accumulated a thick layer of grime, and dug out the alchemy tools that seemed to have never been taken out since before the orc invasion. He washed them one by one in the Stonewatch River a few hundred meters from the tower, carried a bucket of river water back, cleared out the stove that had become a table for stacking old items, and put in the firewood he'd gotten from Stonewatch.
+
+Then he looked at the ingredients laid out beside him — salt to pepper, garlic, cinnamon, and a bit of Goldthorn tea leaves to serve as bay leaves. Jace felt everything was more or less ready.
+
+When the sun was about to set, Morophil returned to the bottom of the tower. Jace watched her carry a small wild boar carcass that'd already been bled and skinned up to the top of the tower, and asked in a daze, "Where's the skin?"
+
+"You want to eat wild boar skin too?" Morophil said.
+
+"Even if you're a skinning maniac, isn't this a bit too enthusiastic?" Jace said.
+
+"I thought I was doing my master a favor," Morophil sighed.
+
+"Forget it." Jace waved a hand. "Help me cut a few pieces of meat with fat on them — just use the meat from under the ribs. I'll send the rest to Stonewatch tomorrow."
+
+Morophil casually made a cut in the boar's belly and said, "This might disappoint you, master. This little pig probably hasn't been living a better life than you."
+
+Jace pursed his lips. "Then just cut a few pieces of intact meat."
+
+Although things hadn't gone smoothly from the start, at least Sayard's knife skills were commendable — the pieces of meat she cut were basically all the same size.
+
+There really wasn't much fat on them. Jace still felt he wasn't far from red-braised pork.
+
+This was his first attempt at recreating a dish he'd known how to make in his past life since coming to Stormwind — one might even say the first time in this world. For some reason, he was actually a little nervous.
+
+He summoned a fire element to light the firewood, put the meat cut by the demon into cold water to boil off the scum. The wild boar meat reeked to high heaven — Jace specially poured in some beer and boiled it a while longer.
+
+Watching the boiling white foam inside, Jace even felt a sense of temporal dislocation. Only Morophil's gaze, fixed on the cauldron, could pull him back to reality here.
+
+After the meat was boiled, Jace poured out the water, put in various spices including the Goldthorn leaves, cut-up garlic, poured in clear water, and continued boiling, while cutting up the potatoes.
+
+As he was cutting the potatoes, he glanced at the pot beside him with the lid on, boiling the meat, and Jace suddenly realized a serious problem. "What is it, master?" Morophil asked from the side.
+
+"No sugar," Jace said blankly.
+
+"My master likes sweet meat," Sazeno shouted from the side.
+
+"Not sweet," Jace said. "What the hell would you know, demon."
+
+The imp giggled. "I don't know what you want sugar for, master, but I know that the tea pouch the mage gave my master has sugar in it — he likes putting sugar in his tea!"
+
+"Right, right…"
+
+Jace suddenly remembered. Although the Stonewatch cook didn't have much sugar, his teacher certainly wasn't lacking in sugar.
+
+He took out the small pouch his teacher had given him, finally fished out two small sugar cubes, set the pot of boiled meat aside, switched to a small pot and put it on the fire, dropped the sugar in, and Jace watched the sugar slowly melt, change color… then directly splashed in a clear bowl of water, and threw the boiled meat in.
+
+As all sorts of complex aromas steamed up from the pot, to be honest, this wasn't the smell of the red-braised pork Jace was familiar with. The Goldthorn fragrance was clearly discernible, and it was mingled with the scent of garlic. After all, he couldn't find scallions, and he didn't have ginger powder, which could only be found in Dalaran and Ironforge, so he'd had to use garlic as a substitute.
+
+But at any rate, it at least looked the part. After boiling for a while, he opened the lid — piece after piece of reddish, slightly charred meat trembling in thick sauce alongside the cut potatoes. He licked his lips, feeling his heart thump wildly.
+
+For a moment he felt a little regretful — he should have called Grede, Sola, even Wynssa over to taste his cooking together. He wondered what an unforgettable night it would be if they could really gather for a meal like this.
+
+But after he'd fixed up a plate and picked up a piece of meat with his hand and put it in his mouth, he immediately stopped regretting it. What the fuck was this…

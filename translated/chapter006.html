@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 6: What Dwarves and Ale Have in Common — The Wobbly Peach</title>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+<style>
+/* Reading layout — ponytail: inline so generated pages need no Jekyll build */
+:root {
+  --reader-max: 42rem;
+  --reader-bg: #fefefe;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+}
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a {
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress {
+  color: var(--reader-muted);
+  font-size: .85rem;
+}
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -.02em;
+  color: #0f172a;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 2rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0 0 1.25rem;
+  color: var(--reader-text);
+}
+.reader-content hr {
+  border: 0;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 6rem;
+}
+.reader-content hr::before {
+  content: '· · ·';
+  color: var(--reader-muted);
+  font-size: 1.2rem;
+  letter-spacing: .3em;
+}
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover {
+  background: #eff6ff;
+  border-color: var(--reader-accent);
+}
+.reader-nav-link.disabled {
+  color: var(--reader-muted);
+  border-color: transparent;
+  pointer-events: none;
+}
+.reader-toc-link {
+  color: var(--reader-muted);
+  text-decoration: none;
+  font-size: .9rem;
+}
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+/* Flags */
+.flags-section {
+  max-width: var(--reader-max);
+  margin: 2rem auto 0;
+  padding: 0 1.25rem;
+}
+.flags-section summary {
+  cursor: pointer;
+  color: var(--reader-muted);
+  font-size: .9rem;
+  font-weight: 600;
+  padding: .5rem 0;
+  border-top: 1px solid var(--reader-border);
+  margin-top: 2rem;
+}
+.flags-section summary:hover { color: var(--reader-text); }
+.flags-section h2 { font-size: 1rem; font-weight: 700; margin: 1rem 0 .5rem; }
+.flags-section p { font-size: .9rem; line-height: 1.6; color: var(--reader-muted); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: 1.4rem; }
+  .reader-content p { font-size: 1.05rem; line-height: 1.75; }
+}
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/novel/">← Table of Contents</a>
+  <span class="reader-progress">Chapter 6 of 1862</span>
+</div>
+<main class="reader-content">
+<h1>Chapter 6: What Dwarves and Ale Have in Common</h1>
+<p>The next morning, sunlight streamed through the dusty window into the room. Jace felt completely unfamiliar with these surroundings, and a strange thought flashed through his mind.</p>
+<p>Have I transmigrated again?</p>
+<p>He pushed open the window and looked out. Lush trees and green grass filled his vision; blue and yellow birds chirped and hopped along the branches. The rhythmic clang of hammers on anvils and the roar of forge bellows alternated in a steady cadence, while the noisy morning bustle of the town center hummed in the distance.</p>
+<p>Jace looked down under the eave and saw a crowd gathered outside the blacksmith, lining up to receive something.</p>
+<p>This was Goldshire. He'd been in Stormwind for two years now, and this was his first time visiting this town.</p>
+<p>He noticed several places on his body had already been wrapped in bandages. Had it not been for these bandages, he wouldn't even remember being injured. Though now, moving those parts did indeed hurt — but judging by feel alone, it didn't seem like anything serious.</p>
+<p>Recalling what had happened last night felt like a dream. Hogger, gnolls, that terrifying midnight rainstorm attack, the dwarf warrior who'd gone berserk, and the archmage who'd appeared from the dark woods radiating a glow that drove back evil — it was like something straight out of <em>The Lord of the Rings</em>.</p>
+<p>Right — he still hadn't collected his reward.</p>
+<p>He headed downstairs, and already from the stairwell he could hear the faint strumming of a lute, a woman's piercingly clear voice drifting up the stairs.</p>
+<p>He caught the scent of ale and bread. Was this the Lion's Pride Inn?</p>
+<p>In the tavern hall, a woman of about thirty was surrounded by a crowd of drinkers, singing to the accompaniment of a musician leaning against the wall:</p>
+<p>"He has come,
+Before Blackrock Spire.
+The Doomhammer,
+Once made men tremble.
+Lothar, you may rest,
+No one remembers his name, while your blade lives on forever.
+Thunder and lightning,
+Before Blackrock Spire.
+The beast's roar,
+Once shook the heavens.
+Lothar, you may rest,
+No one remembers his name, your children have now stood tall.
+The darkest night is nearly past,
+The dawn is close at hand."</p>
+<p>The melody differed quite a bit from the background music Jace remembered playing at the Lion's Pride, but the style was remarkably close.</p>
+<p>The song was about a battle from a year ago — the human commander Anduin Lothar had ridden to Blackrock Spire to face the orcish warchief Orgrim Doomhammer. Although Lothar had fallen in that duel, the orcs had suffered an irreversible defeat. Lothar's lieutenant, Turalyon, had taken up the broken sword of the fallen general, defeated Orgrim, and sounded the horn of the Alliance counterattack.</p>
+<p>The dawn truly was close at hand — but it would've been better if there weren't so many monsters causing trouble in Elwynn Forest.</p>
+<p>He stepped out into the street. The air was still thick with post-rain dampness. A crowd of veterans had gathered around a table — the same group Jace had spotted from the second floor.</p>
+<p>Jace walked up and gave his name.</p>
+<p>The quartermaster pushed two silver coins and a few coppers out of the pile of silver and copper. "A lot of men died. None of us expected it. Some came from Lordaeron and Alterac, and there was a mercenary from Menethil Harbor. They have no family or friends here — there's no one to give the money to even if we set it aside."</p>
+<p>Jace weighed the small pouch in his hand. It felt heavy.</p>
+<p>He returned to the inn and found Grede sitting alone in a corner, staring into a large mug of ale.</p>
+<p>Jace sat down across from him and said offhandedly, "Drinking isn't good for your wounds."</p>
+<p>"Dwarves aren't built like humans," the dwarf said, half-closing his eyes. "Now, I'll have to educate you on this. Our ancestors were the ancient Earthen, and the Earthen came from underground, shaped by the earth itself. Guess what else the earth shapes? Grain. Fruit."</p>
+<p>"Look at this." He lifted his mug and swirled the bubbling liquid inside. "The fermentation process is just like the primitive, sturdy Earthen evolving into us lively, wonderful dwarves. You see those bubbles? They're no different from an old dwarf's beard — not one bit. That's the proof. In other words, we and fine ale are one and the same thing. When ale slides into my stomach, it's fucking like coming home. My wounds see that ale and cry out, 'Our dear brother is here!' and smear it all over themselves. My muscles rush to grow back. This isn't ale at all — it's practically a miracle drug that can resurrect a man on the spot, the kind even the most senior alchemist in Dalaran couldn't brew. No question."</p>
+<p>"Of course, that only applies to dwarves." With that, he downed the entire mug in one gulp.</p>
+<p>Jace watched him, smacked his lips, and waved the barman over. "I'll have an ale too."</p>
+<p>Grede pointed at the bandages on Jace's body and said with a mocking tone, "Drinking isn't good for your wounds, human."</p>
+<p>"Not your problem." Jace took the mug from the barmaid and took a swig, immediately choking into a cough. The cough set every muscle and his wounds aching.</p>
+<p>"Hah. Weakling." Grede bellowed, "Bring me another! And make it proper dwarven brew — at least the way those pansies in Ironforge make it!"</p>
+<p>Before long, the barmaid returned with an unmistakable expression of annoyance and handed him a large mug. Beneath the pale-brown foam, the liquid was dark as cola.</p>
+<p>"Close enough!"</p>
+<p>Grede grinned wide, took a deep sniff, and sighed.</p>
+<p>"What's wrong?" Jace asked, taking a sip.</p>
+<p>"Missing home. I want to go back to Aerie Peak," the dwarf said.</p>
+<p>Jace drew a long diagonal line on the table with his finger. The line curved past Dun Garona and stretched all the way into the northern gorge. "But to get from Southshore to the Hinterlands, you'd have to cross the Hillsbrad Foothills. It's not safe there yet — I hear there are still orcs wandering about."</p>
+<p>The dwarf's eyes followed the line to the other side of the table. "So what? Even Orgrim Doomhammer's been thrown in a dungeon. The rest are nothing more than a band of brigands and bandits."</p>
+<p>Actually, it wasn't just that. There was also the Frostwolf clan, who had settled in the Alterac Valley — fearsome hunters who rode white-furred wargs into battle, beasts even more powerful than bulls. They weren't content to hide away in the snowy mountains; they frequently came down to the foothills of Hillsbrad to raid for supplies.</p>
+<p>Not to mention another clan several times more terrifying: the Warsong clan, led by Grom Hellscream, a berserker who had made even Draenor tremble in fear.</p>
+<p>These fanatics who had drunk demon blood — any one of them could probably beat Hogger's crooked jaw to pulp with their bare hands.</p>
+<p>Jace remembered they had wandered among the mountains, forests, and hills of Lordaeron for over a decade; there was no way to pin down their exact hiding place at this point.</p>
+<p>Which meant that for now, sailing from Stormwind's port to Southshore was still relatively safe. After all, the orcish warships were no match for the navies of Gilneas and Lordaeron, and they had vanished without a trace once the Dark Portal came under attack and their supply lines were severed.</p>
+<p>But heading north from Southshore into Silverpine Forest, or to Dun Garona north of Hillsbrad, was a completely different story.</p>
+<p>Thinking of this, Jace suddenly realized that everything he owned wouldn't even cover the fare from Stormwind's port to Southshore, not to mention food and supplies along the way. So why worry about all that?</p>
+<p>"Sorry, Jace," the dwarf said suddenly. "Yesterday I told you this job was easy money — never thought we'd nearly end up actually lying down for good."</p>
+<p>Jace shook his head. "Silver's not that easy to come by. I learned that lesson thoroughly just the previous day."</p>
+<p>"What'd you do?" Grede asked, curious.</p>
+<p>"Don't ask." Jace said. "Someone told me about a job that paid two silver. I went thinking it'd be something reasonable — turned out they paid me to get beaten up."</p>
+<p>The dwarf stared blankly for a moment, then burst out laughing, foam all over his beard.</p>
+<p>"You actually let someone pay you to beat you up? I thought you were selling your ass for money."</p>
+<p>"S-selling my… ass?" Jace's mouth twitched.</p>
+<p>"Next time you run that guy, give me a call. Take a look at these muscles." He caressed his stone-like shoulder. "If I don't beat him into bankruptcy, I don't deserve this body, this strength, this spirit my homeland in the Hinterlands raised me with."</p>
+<p>After a few ales together with Grede, all the pain and fear from the previous night melted away. The singing woman had left the tavern at some point without anyone noticing; only the musician remained, sitting alone with his lute, playing some unknown, melodious tune to the cold hearth.</p>
+<p>They spent the whole day in Goldshire. In the afternoon, they set out with a merchant caravan back to Stormwind, reaching the Trade District by evening.</p>
+<p>The smell of roasting meat drifted from the Gilded Rose across the small square. Jace and Grede threw caution to the wind — having gone a full day and night without eating, they charged in and pigged out on the liver pies and smoked meat chops they normally couldn't afford, drinking until midnight.</p>
+<p>Back home, Jace scattered the money he'd earned over the past two days across the table and counted it coin by coin.</p>
+<p>After subtracting the ale, pies, and chops, plus yesterday's expenses, he had 4 silver and 60 copper left. Paying rent and living frugally, he could just about scrape through the month.</p>
+<p>But if he wanted to buy a house of his own and bring his parents over from Lordaeron, just getting by like this would never cut it.</p>
+<p>Still, the past two days had been harrowing enough. Pushing himself like this to earn money wasn't sustainable — even if he kept getting lucky and avoided death, Jace's body couldn't take it.</p>
+<p>Good thing Eden Marin had agreed to take him on as an assistant. With any luck, he'd get to live in the Mage Quarter and wouldn't have to keep paying rent.</p>
+<p>And in the best-case scenario, maybe it'd include room and board both? Weren't the mage apprentices in Dalaran housed and fed right at the school in World of Warcraft?</p>
+<p>Right? Wrong? He realized he was already starting to forget the finer details of the game's worldview.</p>
+<p>Regardless, being an assistant should come with some income and certain perks in the Mage Quarter — at least it counted as a stable job.</p>
+<p>Thinking of this, even drunk to the point of blurred consciousness and swimming vision, Jace couldn't help but grin.</p>
+<p>Then a violent surge of nausea shot up his throat. Jace bolted out of the house and stumbled to the canal, emptying the contents of his stomach into the river in one go.</p>
+<p>He rolled onto his back and looked up at the night sky. The two moons, one large and one small, stared down at him like a pair of reflective glasses. Jace thought of the girl with glasses he'd had a crush on back in middle school.</p>
+<p>Was there still hope of going home? Back to Earth?</p>
+<p>Probably never.</p>
+<p>But it wasn't so bad here either — every day was thrilling and exciting. Way more fun than being a corporate drone.</p>
+<p>Maybe in the future he could even find a silver-haired elf girl to date. The thought made him chuckle to himself, drool running down the corner of his mouth.</p>
+<p>"Earth girls with glasses? Don't want 'em! I want an elf girl! I want an elf girl!"</p>
+<p>Two old men who'd been night-fishing nearby looked over at the drunk. One of them asked, "What's he saying?"</p>
+<p>The other shook his head. "No idea. Might be a Kul Tirasan — I hear they talk like that there, like they're singing."</p>
+</main>
+
+<details class="flags-section">
+<summary>Translator Notes</summary>
+<h2>Flags</h2>
+<p>- 魔光 (the archmage's glow that drives back evil): rendered as "a glow that drove back evil" — glossary lists 魔光 = Arcane Glow, but here the context is a holy/driving-back-evil effect, not arcane; flagged for review.
+- Canonical WoW proper nouns not in glossary, rendered per standard localization: Anduin Lothar, Orgrim Doomhammer, Alterac, Menethil Harbor, Ironforge, Aerie Peak, Dun Garona (敦霍尔德 — Alterac fortress; rendering tentative, could be Durnholde), Southshore, Hillsbrad Foothills, Silverpine Forest, Gilneas, Frostwolf clan, Alterac Valley, Warsong clan, Grom Hellscream, Kul Tiras.
+- 猪肝馅饼: rendered as "liver pies" (no glossary entry).
+- 烟熏肉排: rendered as "smoked meat chops" (no glossary entry).</p>
+</details>
+<nav class="reader-bottom-nav">
+  <a href="chapter005.html" class="reader-nav-link">← Chapter 5</a>
+  <a href="/novel/" class="reader-toc-link">Contents</a>
+  <a href="chapter007.html" class="reader-nav-link">Chapter 7 →</a>
+</nav>
+</body>
+</html>

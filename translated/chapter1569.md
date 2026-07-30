@@ -1,0 +1,101 @@
+## Chapter 1569: One Last Push
+
+Evening. The Black Forge was at its liveliest — or rather, most chaotic. While Namara didn't have the energy to keep an eye on the back storage room, Jace's group snuck over and slipped into the corridor behind the warehouse.
+
+Morophil and Sazeno stood guard near the entrance, keeping any drunk patrons from wandering over.
+
+Before the rune-reinforcement ceremony — before assassinating Executus — Dagran Thaurissan and his legions could hardly be called "on Jace's side." So they still needed to keep a low profile around the Black Forge. Not to mention the occasional Flamewielder who passed through.
+
+Ruk'tus was sitting at the crossroads leading to his room, reading a worn scroll by a dim candle. When he saw Jace appear at the passage entrance, he got up and went into his room, leaving the door ajar.
+
+"Even if I weren't a shadow-wielder, I could feel the anticipation in your hearts." Ruk'tus said once everyone was inside and the door was closed. "So I take it you've found a way into the rune-reinforcement ceremony."
+
+"Ghestan, the leader of the Twilight's Hammer, is on our side now." Jace said. "She can get us in."
+
+"You mean you've convinced that cult witch to help you assassinate Executus?!" Ruk'tus asked in surprise.
+
+"She doesn't know about it yet." Jace said. "But she'll help us attend the ceremony, Master Ruk'tus. Don't worry."
+
+"No one can refuse a succubus, Master." Grede muttered, tilting his head toward Jace. Hearing the dwarf say this, Vereesa couldn't help but give Jace a slight sideways glance.
+
+On the surface, the dwarf seemed to be implying the warlock had solved the problem by summoning a succubus. But what he was really insinuating was obvious to everyone present except the old smith.
+
+"I understand." Ruk'tus nodded. "No need for honor with those element-worshiping fanatics, Mr. Jace Sesso. As long as we can be sure that demonic spells will still work inside Molten Core when the day comes."
+
+"We've already been into Molten Core once with that leader Ghestan." Vereesa said. "We even faced the Flame Baron. That trip proved that even under that kind of fiery heat, the Sayad's charm doesn't fail."
+
+"You've already been to Molten Core?" Ruk'tus asked. "What for?"
+
+"To find ways to destroy the other fire runes." Jace said. "To permanently stop Ragnaros and his offspring from crawling into this world from the Fire Plane, we need to destroy all seven fire runes as quickly as possible. That's what Lord Lokholar told us."
+
+"Lord Lokholar certainly knows the fire runes' power better than I do." Ruk'tus nodded. "So, did you find a way?"
+
+"Get the Wind Prince Thunderaan, whose soul is imprisoned by Ragnaros, to help us destroy the fire runes using elemental magic." Jace said.
+
+"The Windseeker?" Ruk'tus said. "That maniac is no better than Ragnaros the Firelord, Jace Sesso. Why would he agree to help? He should know that even if he returned to this world intact, he wouldn't have the power to destroy the fire runes. He's the Wind Prince, but he can't compare to the power of winter."
+
+Jace pulled out the vial of Water Essence. "Because of this, Master. Before coming to Shadowforge City, the water elemental lord Hydraxian gave me this vial of Eternal Essence. The Wind Prince Thunderaan knows how to use its power."
+
+The old smith took the vial from Jace and examined it for a moment. His coal-black lips were trembling.
+
+"Eternal Essence... you people have really done your homework this time. In the nearly two hundred years since I witnessed Ragnaros destroy half the Redridge Mountains, I've never felt as strongly as I do today... that the Firelord's plans are about to fail, and that Dark Iron dwarves might finally hold their fate in their own hands again."
+
+"You're not the only one who thinks so." Jace said. "Dagran Thaurissan also promised me that once Executus's rule is shattered, he'll help me deal with the Flamewielders outside and send Shadowforge City's legions to assist us."
+
+Hearing about the Dark Iron emperor, Ruk'tus was silent for a moment. "He really said that? I'm surprised he'd choose to trust a human. From my experience, that young man won't even trust his own kin."
+
+"He doesn't trust enough." Jace said. "So he had the seven sages' souls take turns beating me up to make sure I wasn't a black dragon or red dragon infiltrating his palace before he'd speak his true mind."
+
+"What?" Ruk'tus asked. "He made you challenge the seven sages' souls?"
+
+"What?!" Grede practically jumped three feet in the air. "Dagran Thaurissan made you challenge the seven sages?! You survived? Then where's the proof of the challenge? Where's that Shadowforge City hero badge?"
+
+Jace looked at him, practically drooling. "What badge? There's no badge!"
+
+"That's not surprising. You're not a dwarf, so why would he give it to you?" Grede let out a slightly disappointed sigh.
+
+"Regardless, this means the situation is tilting further toward Ragnaros's opposition." Ruk'tus said. "When Thaurissan decided to expel the Thorium Brotherhood back then, I felt he wasn't actually planning to destroy us. Even though he hadn't ruled this city for very long, I think he'd already realized whether Ragnaros was a curse or a blessing for this city."
+
+"But until you told me this, I couldn't be sure whether he was willing to give up the power the Firelord had given him."
+
+"So the only problem left is killing Majordomo Executus with the Sulfuron Hammer." Vereesa looked at Grede quietly. "If we succeed, all problems are solved. If we fail, every advantage we've built up will become walls closing in on us."
+
+"When we went into Molten Core before, Jace and I saw what they called a Flamewalker on a bridge at the periphery. That monster was bigger than a Doomguard, swam through lava without being burned. And I could feel it had incredibly powerful magic without even seeing it cast — not just elemental power, but shadow, and other types too, like arcane."
+
+"I'm sure that Flamewalker wasn't Executus himself." The ranger looked at the old smith. "Everyone knows the Majordomo usually hides in the deepest part of Molten Core, and only his subordinates live in the outer areas."
+
+"That could be Lucifron or Gehennas. Both flame lords like to patrol the outermost areas." Ruk'tus said. "You're right, Quel'dorei. Both their powers combined couldn't compare to Executus's."
+
+"That's what I'm worried about." Vereesa said. "Grede will be launching a surprise attack, but what if Executus manages to dodge it and we end up in a stalemate? Dagran Thaurissan hasn't given up the option of continuing to follow Ragnaros even now... I'm worried that if the situation turns uncertain, or if Executus escapes, he'll betray us immediately."
+
+"Don't doubt it. He definitely will." Jace nodded.
+
+"And the flame lord we saw always had two attendants — also Flamewalkers like him." Vereesa said. "What about Executus?"
+
+"Lokholar told me Executus usually has six to eight Flamewalker attendants protecting him." The old smith said. "He's even more suspicious of his own kind in Molten Core than he is of the Dark Iron dwarves in Shadowforge City."
+
+Vereesa sighed and looked at Jace. Jace frowned too. Ruk'tus was right — in the game, when you fought Executus, the hardest part wasn't him, but the large group of adds around him.
+
+Those couldn't even be called adds. A few of them were giant Flamewalkers nearly his size, each with their own special tricks, posing every bit as much threat as Executus himself.
+
+"So when the time comes, you need to be patient. Don't strike the moment he approaches." Ruk'tus said. "Wait until the ceremony is halfway through, when Executus and his two fire-priest attendants have all started casting and channeling the fire rune's reinforcement."
+
+"The fire rune's power is immense. Destroying it requires incredible divine force, and reinforcing it does too. At that point, Executus will need to draw power from the entire Molten Core, which will consume a terrible amount of mana. If you can interrupt the ceremony at that moment, it will wound him severely, leave him unable to react quickly, and make it hard for him to gather mana to counter the attack."
+
+"How long do we need to wait?" Vereesa asked.
+
+"It's hard to say exactly, but the ceremony will last a long time." Ruk'tus said.
+
+"I'll confirm with that Twilight's Hammer leader." Jace said. "She participated in the last reinforcement ceremony. She should know the whole process."
+
+"Good." Ruk'tus said.
+
+"Looks like we need to brush up on our acting skills in the next two weeks, little elf." Grede looked at Vereesa.
+
+"Indeed." Vereesa nodded. "But at least I don't have to pretend to be a dwarf anymore."
+
+"I'm more worried about Needleflame than your Twilight's Hammer disguises." Jace said. "If we have to attack in the latter part of the ceremony, that means Needleflame will have to carry the Sulfuron Hammer the whole way — and deep inside Molten Core."
+
+"You think a black dragon would be worried about high temperatures, Jace Sesso?" Needleflame asked.
+
+Jace smiled. Grede patted her shoulder. "Then it's all up to you, kid."

@@ -1,0 +1,77 @@
+## Chapter 1558: Thaurissan
+
+Six days later, Gestae brought word that Thaurissan was willing to meet. Jace's group immediately set out, following the Twilight Lord to the Hall of Lecturing.
+
+A place that had once forbidden entry to anyone who wasn't a Dark Iron dwarf was now being walked through openly, with no guards or fire elementals stopping them. Still, Jace didn't feel any particular thrill of "privilege."
+
+After all, the more respect the emperor of Shadowforge City showed the Twilight's Hammer, the harder it would be to shake their faith in the elements. Jace could only hope these privileges were forced onto the Dark Iron nobles by Executus.
+
+Passing through a magnificent great door from the eastern side of the Hall of Lecturing, they emerged into the great hall before the palace. From the Hall of Lecturing to this point, the scenery of Shadowforge City's deepest reaches was nothing short of spectacular — an unflinching display of the Dark Iron dwarves' worship of flame and lava.
+
+Looking up, towering brown-black stone pillars stretched toward the high ceiling, lost in smoke so thick it was hard to see clearly — like a night sky covered by black clouds. The grand walls, carved with Dark Iron dwarven faces, seemed ready to topple at any moment and crush the small, scurrying insects below.
+
+This was Shadowforge City's most central and important area. Several passages leading to other districts were heavily guarded by fire elementals and Thaurissan's personal guards — far stricter than the Twilight's Hammer embassy. And Thaurissan clearly didn't think these defenses were enough. Deep in this massive hall, he'd placed a Molten Giant brought in from Molten Core.
+
+This was the city's second Molten Giant — Magmus. From this distance, Jace couldn't make out his features clearly. Even in the shadow of the colonnade, he didn't stand out brightly, but loomed darkly red, like a river of magma writhing in the abyss. Countless dwarves and Dark Iron golem sentinels passed back and forth before him, but they all treated his presence as routine.
+
+But everyone knew: once Shadowforge City was threatened, once Thaurissan's throne room was shaken by invaders, this thing would suddenly become the most terrifying presence in the entire hall — in the entire city — venting unstoppable fury on everything it saw.
+
+Jace and his party followed Gestae across the great hall, passing before the Molten Giant Magmus, until they reached an unassuming heavy iron door.
+
+This door was smaller than the grand door leading out of the Hall of Lecturing, but no less imposing in its severity. On either side hung several Dark Iron noble banners, almost completely blackened by smoke. Jace noticed the warhammer emblem was no longer a simple symbolic hammer shape — it was the Sulfuron Hammer. More precisely, Sulfuras, the hammer wielded by Ragnaros the Firelord himself.
+
+Seeing the Twilight's Hammer group approach, several of Thaurissan's guards shouted orders toward the door in a thick dwarven dialect that was hard to understand, then threw themselves against the heavy door, straining with all their might — like a swarm of red ants trying to push a black brick.
+
+But the brick did move. After a grinding sound loud enough to make anyone's heart tighten with tension, the door cracked open.
+
+The gap widened. Dark red light seeped out from within. Jace could see shadows inside — another narrow hall lined with rows of Dark Iron guards, stretching toward a blazing depth that reminded Jace of Ironforge's throne room.
+
+Shadowforge City's throne room was actually larger than Magni Bronzebeard's. And unlike Ironforge's unadorned mountain stone brickwork, the black stone here had textures that looked like bricks bound tightly by iron chains — giving an oppressive, suffocating feeling.
+
+Combined with the tall Dark Iron golems staring at everyone with utterly expressionless faces, and Thaurissan's guards following Gestae and her entourage with eyes like they were sizing up criminals... the awe the Dark Iron citizens showed the Twilight's Hammer outside had completely vanished.
+
+The whole atmosphere made the Ironforge throne room Jace had visited before — and the arguments within it — feel like family gossip at a clan reunion.
+
+Walking deeper, from the broad walkway behind them to the dais at the far end, Jace could see they were imitating Ironforge's style while trying to establish their own differences — and surpass the original.
+
+The elevated platforms on either side were one of those differences. They were empty now, except for the occasional dwarven guard passing through and a servant cleaning. But from the seating arrangements, when Emperor Thaurissan held a grand assembly, councilors like Crumblehide would come here and debate issues from the elevated platforms while the emperor sat on his throne below.
+
+It was somewhat like Lordaeron's throne room — except Lordaeron's was circular, and the privy councilors stood much higher, making King Terenas look like he was at the bottom of a well talking to people up top. Here, the emperor and the nobles were roughly at the same height.
+
+No one was on the throne at the moment. A dwarf in a red robe approached the base of the dais and called out, "This way, please, Lady Gestae of the Twilight's Hammer! His Majesty Dagran Thaurissan has been waiting."
+
+Gestae nodded, glanced back at Jace to signal him to follow. That meant Vereesa, Grede, Needle Flame, Sora, and the other Twilight's Hammer members had to stop here. Only Jace could go with Gestae from this point.
+
+Both demons had been stopped outside the hallways long before. Though the corridors leading to the palace didn't have as many anti-demon runes as the Twilight's Hammer embassy, the overlapping surveillance of fire elementals and Thaurissan's guards left Morofel no opportunity to infiltrate.
+
+Not that Jace had expected Morofel to sneak invisibly right up to the leader of Shadowforge City — this was, after all, a city full of succubi.
+
+Jace followed Gestae to the red-robed dwarf. Today, instead of the casual low-level thug robes he'd worn before, he'd deliberately put on a purple high-ranking envoy's robe, with a blue-and-purple identity pendant around his neck and a Twilight noble's ring on his finger.
+
+"This is Master Slovac, my personal advisor," Gestae introduced.
+
+The red-robed dwarf looked Jace over. Without suspicion or further questions, he said quietly, "Then follow me, Master Slovac, Lady Gestae."
+
+Seeing Jace pass through without issue, the rest of the disguised Twilight's Hammer members behind them breathed a quiet sigh of relief.
+
+The red-robed dwarf led Gestae and Jace through a small side door into a corridor, down a spiral staircase, past several of Thaurissan's guards and a fire elemental guard at a corner, then down to the bottom level and into a stuffy passage.
+
+At the end of the corridor, they pushed open an iron door. Inside was a rather small but carefully furnished room. A Dark Iron dwarf in a gray-silver robe with a silver, ruby-studded circlet sat in the corner watching them, his thick fingers drumming restlessly on the armrest.
+
+He was quite tall — at least making the guards beside him look significantly shorter. His eyes were like two red crystals with raging flames rolling within. His thick black beard was neatly bound with clean runic copper rings and draped across his chest, giving him an air of nobility and solemnity.
+
+"Your Majesty, Lady Gestae has arrived," the guiding dwarf said quietly.
+
+So this was the Dark Iron emperor.
+
+What surprised Jace was that his impression of Dagran Thaurissan had always been an evil, crafty old man. But judging by the dwarf's apparent age, he actually seemed younger than Grede — at least around the same age.
+
+Considering that Shadowforge City had only been founded about two hundred years ago, dwarves who'd lived since then weren't exactly common, but weren't vanishingly rare either. Magni Bronzebeard and Lokhtos were both from that era.
+
+Yet in those two hundred years, Shadowforge City had changed emperors several times. Thaurissan the Sorcerer King wasn't Dagran Thaurissan's father, and apparently not even his grandfather. So it made sense that the Dagran before him was much younger than the typical dwarven ruler.
+
+"Welcome, Lady Gestae." Thaurissan spoke in Common with a thick accent.
+
+"Your Majesty." Gestae inclined her head slightly. Jace followed with a simple bow.
+
+"This is my private room, so we can skip unnecessary pleasantries and get straight to the point." The Dark Iron emperor rubbed several rings of varying thicknesses on his fingers, glanced at Jace beside Gestae, and continued. "I thought I'd made myself clear enough last time about the matter of recruiting Dark Iron dwarves. But it seems you still don't understand the situation."

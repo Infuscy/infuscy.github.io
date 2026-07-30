@@ -1,0 +1,197 @@
+## Chapter 914: Now That I Know, I Can't Leave
+
+"You must have dealt with Eredar mages before. Besides Shadowstep, what other ways do I have to throw off a Slow spell, Morophil?" Jace asked from his pillow.
+
+"Many, master. For example, you could use Incinerate to blow that mage's head clean off — then whether the Slow spell sticks or not wouldn't matter at all," Morophil said softly from her spot beside Jace.
+
+"Nonsense. They're not demons. They attacked me only to protect Moonbrook. I can't just go around killing them," Jace said.
+
+"The shadow force granted by the Dark Shield spell can twist the effect of some arcane magic, master," Morophil said. "I know the Nathrezim use this spell to counter the Eredar's control magic."
+
+Jace said, "I've considered that, but right now I'm probably the only human warlock in the whole of Azeroth who knows this spell. I haven't taught the Dark Shield incantation to anyone else yet. If I use it, wouldn't that just tell everyone exactly who I am?"
+
+"The mages only know that you know it, but not whether anyone else does. That clue alone won't be enough to pin you down." Morophil wrapped her arms around Jace's neck. "Next time, don't overthink so much, my kind master. If you get caught because you worried too much, won't the outcome be even worse?"
+
+Jace nodded, glanced at the morning sunlight already faintly brightening outside, stood up, and put on his shirt. "It's not that I overthink — it's that I lack experience fighting mages. Before this, I relied too heavily on the felhound's help."
+
+"Then I apologize," Morophil said, her tone downcast.
+
+"Apologize for what?" Jace asked, pulling on his pants.
+
+"Such a pathetic little Shivarra like me isn't nearly as useful as those Dazarmu," the succubus said.
+
+"More or less," Jace said.
+
+Morophil's eyes went cold, and she turned away, displeased.
+
+"I'm kidding, Morophil. Watch my luggage — I'm going downstairs to see what's going on." Jace smiled, hitched up his cloak, and headed downstairs. Morophil, her back to him, nodded.
+
+Autumn in Moonbrook was getting colder by the day, and today the wind seemed to have turned a shade chillier than yesterday.
+
+Quite a few people were still standing at the mine entrance on the west side of the town square, huddled in various-colored cloaks and leaning against the wall, watching this way.
+
+Jace recalled the black dragon blood he'd encountered at Musul's place last night, the shattered glass fragments, and wondered if Musul had already completed his ascension rite there, become a dragonkin, and casually tossed the bottle aside.
+
+If that were the case, there shouldn't have been much blood left in the bottle — so why had that tree withered and died? And where had the rest of the bottle shards gone?
+
+If the clues had been found and cleared away by the mages, then the Wizard Sanctum should have known there was a black dragon behind all this. As the Mage Quarter's expert on dragon studies, Master Marin couldn't possibly be unaware of it. He should have warned Jace that black dragons were lurking behind the Moonbrook business.
+
+There really weren't any warlocks left in Moonbrook. Jace couldn't spot a single familiar face on the streets. Even the merchants who used to trade in demon materials had long since fled, leaving nothing but abandoned houses with no one to manage them.
+
+After searching all day with nothing to show for it, he went back to the tavern, ordered a few chunks of sliced bread and some cheese, and had barely sat down to eat when a sallow, gaunt man approached.
+
+He sat down with a tremble, ordered a beer, and wore a look of extreme nervousness, as if he hadn't eaten in ages.
+
+This wasn't Jace's first time seeing a beggar like this in Moonbrook. There'd been a man on the street who'd begged him for money before. Given Jace's preconceptions about Moonbrook, he'd always felt these kinds of people were scammers, so he hadn't given the man a thing.
+
+But this one was different. For one thing, he seemed to be dressed rather well — worn and dirty as his clothes were, he seemed to have lived in decent conditions once. More importantly, relying on his sensitivity to dark power, Jace could smell a faint aura of ill omen coming off him.
+
+"What's the matter, sir?" Jace asked proactively. "Run into some trouble?"
+
+The man glanced this way, looking hesitant. Jace finished gathering up the remaining food on his plate and said, "I might be able to help you with your difficulties."
+
+Hearing Jace say this, the man was taken aback for a moment, then asked, "You'd be willing to help me?"
+
+"Tell me about it," Jace said.
+
+The weak man swallowed and said, "There's a demon… in my cellar."
+
+The bartender nearby seemed to have heard the conversation and leaned over. "Don't bother with him, kind sir. The town's already sent guards to check — they even went twice, and both times they said they found nothing. He hasn't been right in the head ever since the mine incident. He used to be a perfectly good man. That woman Doris marrying this fellow really drew the short straw."
+
+"I know demons can be invisible," the man said, staring at the bartender. "What do those guards know?!"
+
+"And did the Wizard Sanctum mages find your demon?" the bartender shot back.
+
+"They went, but they only care about the town's affairs…" The man shook his head. "They didn't have the patience to search for the demon on my farm. I'm sure if they'd even been a little more serious about it, they definitely would have found it."
+
+Jace glanced at the bartender. He knew the man meant well, but going by Jace's own instincts, he could tell this man really did seem to be afflicted by dark magic.
+
+He didn't know why the Wizard Sanctum people weren't interested. Could it be their sensitivity just wasn't up to par? "I can go, but I'm not doing it for free," Jace said.
+
+The man said, "If you can catch the demon for me, I'm willing to pay thirty silver."
+
+Jace drummed his fingers on the table in turn and said, "I can take a look first, uh…"
+
+"Philod Jonas."
+
+"…Mr. Jonas."
+
+The bartender shook his head and sighed. "A complete waste of time. The Wizard Sanctum people went there before too, sir."
+
+"I appreciate the warning, sir," Jace said.
+
+In any case, Jace called Morophil to invisibly follow behind, and left Moonbrook heading north with this man named Jonas.
+
+After two or three hours of walking, he spotted a two-story house sitting at the highest point on the other side of a sloping field in the distance.
+
+The moment the man saw that little house, he couldn't stop swallowing, and even his hands started to shake.
+
+Jace patted his shoulder and said, "I've killed plenty of demons, sir. No need to be this nervous." The man nodded, but it was clear the reassurance didn't do much.
+
+Crossing the field and arriving at the door, the man didn't pull out a key or anything to open it — instead he knocked and called, "Doris."
+
+Jace was immediately confused. The bartender had mentioned earlier that he had a wife named Doris. But if there was a demon in the house, shouldn't his wife be hiding out in Moonbrook too?
+
+"Coming."
+
+An impatient response came from inside.
+
+Before long the door was opened. His wife looked very young — probably only in her early twenties — and quite pretty, staring at her husband with an exasperated expression on her face.
+
+Jace used Detect Demons on her and confirmed she wasn't a demon in disguise.
+
+But even so, he felt something off about this woman. There was a dark magic feel about her, similar to what was on the man.
+
+"I've told you already, Phil — there's no demon in our house. Why did you bring someone here again? Another demon hunter? Or some mage? Every time someone comes I have to shell out for a dinner and then apologize and send them away. I can't take it anymore. When is this going to end?"
+
+"I can feel it, Doris." The man stared wide-eyed into the house. "This mage isn't from the Wizard Sanctum. He works for money — he'll be thorough about it."
+
+Doris glared and asked, "How much did you say you'd pay?"
+
+"Thirty silver, my lady," Jace said.
+
+Hearing that number, the woman exploded.
+
+"Thirty silver is enough to hire mercenaries to wipe out the gnolls living in the mine to the east! This are you insane? Where's that thirty silver coming from — what are we supposed to eat after this? Moonbrook is a complete mess!"
+
+After saying this, she sighed again and looked at Jace. "I'm very sorry, but there really is no demon in our house. Please leave." The man said nothing, just stared inside. He really did look unwell all over.
+
+Jace said, "I can take a look inside. If there really is no demon, I won't charge a thing."
+
+"Well, that would be very kind of you," the woman said with a smile.
+
+"It'd be a good thing if I can help your husband put this obsession to rest," Jace added.
+
+"This isn't some obsession, mage," the man insisted. "There really is… a demon in my house."
+
+The woman seemed to be somewhat swayed — though Jace could tell it was because Morophil had no patience left to watch them argue, and had gently pried at the woman's will.
+
+The ironic thing was, there really was a demon lurking around this house now.
+
+She glanced at her husband, then stepped aside from the door. Jace gave a polite nod and walked into the living room. And then he saw three Shivarras sitting in chairs by the fireplace — two women and one man.
+
+They looked like exceptionally powerful Burning Legion demons, their bodies covered in fel tattoos, wearing demon armor that ordinary succubi wouldn't be caught dead in. The two female Shivarras both carried long spiked whips, while the male Shivarras held a long-handled war hammer.
+
+All three Shivarras stared at him simultaneously. The intensity of the psychic domination they projected was beyond anything that could be described as merely "strong."
+
+Under the sheltering radiation of that psychic domination, they sat there in plain sight without the least inclination to turn invisible. Within that terrifying field of mental force, neither Doris nor Jonas could see them at all.
+
+Beside him, Jonas was still warily, nervously staring at the cellar inside the house, stubbornly convinced the demon was in the cellar — not in his own living room.
+
+As for Jace, in his current state, this kind of psychic domination didn't amount to anything. The Chain of Will didn't even grow warm, let alone exert any force.
+
+"Can you sense the arcane energy on this person, Ishenala?"
+
+"I can't feel anything."
+
+"'Thorough demon hunter' — heh. Just some nobody fraud with no real ability."
+
+The succubi laughed. One of the female Shivarras licked her fingers and said, "Let him go. No point taking a risk over trash with no arcane energy to siphon."
+
+"Our Doris has been getting disobedient. She should have refused this useless garbage at the door."
+
+"Look at that ridiculous staff — though the stone on it does seem to have a little mana in it."
+
+They chatted casually in demonic, acting as if there was no one else in the room at all. "Hmm, is he looking at us?"
+
+"Don't joke around."
+
+"Mage sir?" Doris asked from beside him. "What's wrong? The cellar's this way."
+
+Jace had already scanned the place with Detect Demons — there was nothing in the cellar. The demons in the room were all right in front of him. "Who summoned you?"
+
+The male succubus frowned. The amusement in the other two succubi's eyes vanished immediately.
+
+"What?" Doris froze, and then her gaze suddenly locked onto the fireplace. Every feature on her face twisted with sudden terror. She collapsed to the ground without a sound, and Jonas sucked in a sharp breath, nearly falling over. He immediately ran to his wife's side, holding her and ducking into the corner.
+
+At that moment, Morophil put her hand on the male succubus's chair and said, "Answer my master's question."
+
+The two female succubi instantly vanished from their stools. Jace unwound Ursolus and swung to the left. A blood-red scythe-blade carved a crimson trail through the air, and the lower half of one of the vanishing succubi tumbled to the ground, twitching. The upper half materialized on the other side and fell to the floor, screaming and dragging itself toward the wall on both arms.
+
+Although her felheart was still intact, the flames in her eyes rapidly died. A shadowy fel spirit drifted out of her eye sockets and was devoured by the blood trail still lingering on the staff.
+
+The other one had just materialized when Morophil buried a flying knife in her forehead and sent her crashing to the side. Jace chanted a Corrosion incantation at her. The demon roared, backed up a few steps, and leaned against the wall, clawing at her slowly disintegrating beautiful face until she lay still. The fel spirit in her eye sockets drifted out as well, merging into Ursolus, which was still dripping with blood.
+
+Once again Jace heard those chantings, accompanied by satisfied grunts and moans.
+
+"This… this is impossible." The male succubus said blankly, his hands, which had been gripping the long-handled hammer ready to attack, loosening slightly. "Who summoned you? Where are the rest of the warlocks hiding?"
+
+The succubus glanced at the dried-up corpses of his two companions, his voice trembling. "Pierce my heart and send me back to the Twisting Nether… and I'll tell you, Master of Ursolus."
+
+"Fine," Jace said.
+
+"The lighthouse. Let me go, and the rest I—" the demon said.
+
+"Now I know." Jace raised the scythe. The succubus's face immediately filled with shock. "You said you'd send me back to the Twisting Nether—"
+
+Before he could finish speaking, the succubus's head was cleanly severed by Ursolus. The fel spirit rapidly dissipated and was drained away. All that remained in the room was the fading echo of a roar.
+
+Even after the silence settled in, he could almost still hallucinate the terrified screams of demons.
+
+"I thought my kind master would let him return," Morophil said with a smile. "Once he knew this staff was in my hands, there was no way he was going back."
+
+Jace turned to look at the two people cowering in the corner. Doris had already fainted from fright, and Jonas was as white as a sheet.
+
+Seeing this terrifying dark mage staring at him, Jonas immediately said, "Right, thirty silver, no problem. I'll go get it, honored sir."
+
+Jace glanced at the mageweave cloth torn by the scythe-blade and said, "Plus two bolts of silk."

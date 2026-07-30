@@ -1,0 +1,105 @@
+## Chapter 1227: The Most Unlikely Potential Ally
+
+From between Auchindoun's high walls came the occasional "shasha" and "huhu" sounds — probably the echoes of Murmur's murmuring drifting out of the Shadow Labyrinth.
+
+Apart from that occasional low moan, the Auchindoun ruins were as still as death.
+
+Every so often you could spot a corpse propped against a wall, staring downward without moving. No one could tell whether they were the reanimated undead that Livius had mentioned, or simply the dead who'd lost their lives leaning against a railing or wall and never had the chance to move again.
+
+Walking out of the explosion-blasted breach — one even grander than the main gate of Silvermoon — the endless desert stretched before them.
+
+The horizon of the Bone Wastes and the equally hazy sky were kneaded into a tangled mess by the never-ending gales. Sickly blood-red, sallow yellow, and ashen white bled together in a chaotic blur with no clear borders. Stare long enough to get dizzy, then look again, and it all seemed stirred into one.
+
+Jace turned to look back at the Auchindoun they'd just left. The sacred tomb resembled the carcass of a giant tortoise abandoned on the desert floor — its flesh long since pecked clean by scavenger birds, its head carried off who-knew-where, leaving nothing but a shell riddled with holes.
+
+It was hard to imagine this had once been a grander, more vibrant forest than Elwynn, with rivers and streams weaving between the trees, and Auchindoun sitting among them like a crown studded with arcane gems, guarded by exquisite, brilliant silver-white magic towers standing in every direction.
+
+Jace very much wanted to view things from a player's perspective and trust his past-life five-man-dungeon experience to believe Murmur was just a minor boss that wasn't all that hard to deal with.
+
+But truly setting foot on this dead land, speaking with the orcs and draenei who'd lived through this catastrophe, and genuinely feeling this apocalyptic despair — he came to understand more and more why the Broken, draenei, and arakkoa who struggled to survive here in the days ahead were utterly convinced that once Murmur fully descended, it could tear all of Outland apart with ease.
+
+He wasn't the only one. Vereesa, Grede, and Solia all stared at this bleak expanse and were momentarily stunned. The Alliance soldiers and the two draenei, though, were already quite familiar with this wasteland — they'd been traveling back and forth between Auchindoun and the northern forests many times over the past few years.
+
+First Sergeant Barnard pointed to the northeast. "We need to head that way, everyone. There's a hillside there that can provide cover and help us evade the black dragons' tracking."
+
+"Is it the Tomb of Light?" Noboru asked.
+
+"Yes," Livius said. "But that tomb was destroyed by the explosion. It's more like the Tomb of Erek now — it's full of the remains of sheltering Erek."
+
+"What's an Erek?" Vereesa asked. "Sounds like some kind of beast?"
+
+"Yes," Livius said. "I don't know if there's anything similar on Azeroth. It's a giant beast with a long nose and enormous tusks. They've got bad tempers, but they're clever. The surviving draenei have all more or less received their help, and in return we do our best to give them shelter."
+
+Solia looked at Vereesa. "A giant tusked boar?"
+
+"Sounds more like a mammoth," Vereesa said.
+
+"It really is closer to the mammoths of Northrend, Lord Ranger," the First Sergeant said. "Just not as much fur, a bit smaller, and they run frighteningly fast. We owe a lot to those beasts for building Alleria Fortress in the forest. We call them Erek elephants — or, more simply, thunder elephants."
+
+Jace nodded involuntarily. He hadn't expected to solve a question he'd been curious about for a long time right here — why this beast was translated as "thunder elephant." He'd actually thought they had something to do with lightning, or that their roar was like thunder or something. Turned out it was just a phonetic transcription.
+
+"Alleria Fortress..." Vereesa murmured the name softly. "Which direction exactly is it, First Sergeant?"
+
+"I can't point out the exact direction from here, Lord Ranger. But once you reach that hill, just follow the southern foot of the mountain and you'll see it," the First Sergeant said.
+
+"Sounds simple," Grede said, hands on his hips.
+
+"I don't know why, but every time you say something like that I feel like we're about to have bad luck, Grede," Solia said, sounding slightly complaining.
+
+"You've finally noticed." Vereesa tossed aside a broken bone she'd just picked up to examine. "Every time this guy starts feeling supremely confident, it means trouble's coming and we have to be on high alert. When you see him scared pissless by something, that's when we can pitch camp and have a good sleep."
+
+Solia nodded repeatedly. "That lines up perfectly with everything I went through with him in Kalimdor, Vereesa."
+
+"What?" Grede pointed the walking stick he'd picked up from who-knew-where at Solia. "I went through hell and back for you in Kalimdor, you great green worm — how dare you talk about me like that?"
+
+Solia stared at him. "If every bit of trouble that 'forced you to go through hell and back' was trouble you brought on yourself, it's really hard to feel genuinely grateful."
+
+The faint noise of sand hissing across the grey wasteland was joined by a thin thread of laughter, adding a touch of life to the deathly still atmosphere.
+
+But even that sliver of vitality didn't last long.
+
+Though the desert here wasn't as scorching as the wastelands of Azeroth or Earth, with the sky blotted out by shadow and dust, the ceaseless dark gales relentlessly battered every living thing walking through it, keeping everyone's spirits perpetually low. On top of that, the lethal chill that struck at night deepened that corrupt influence even further.
+
+The second night, the group rested in a concealed spot beside a dried-up riverbed. Solia barely managed to drive away the shadow energy coiling about the place with nature magic, allowing everyone to close their eyes in some semblance of peace.
+
+Jace couldn't truly fall asleep. He woke three times in the span of a few hours. Finally, just when he felt drowsy enough to drift off, Morophil suddenly shook him awake.
+
+"They're coming, master. They're coming," the succubus whispered.
+
+"Black dragons?" Jace's eyes flew open. Not far off, the others had already taken cover at Vereesa's warning.
+
+He grabbed the cloak covering him and stared at the imp beside him. "Why didn't you sense the black dragons approaching? I thought you'd notice before Morophil and Vereesa."
+
+Sazeno said with an innocent face, "I didn't sense any black dragons approaching, master... Maybe there's something nearby, but are those really black dragons? Even the scorpions crawling on the ground here look more like black dragons than that."
+
+"If they're not black dragons, then what are they?" Morophil pointed to the west.
+
+Jace followed her gaze to the west. Several squirming shadows drifted through the night sky high above, like fish swimming along the bottom of a filthy dark river.
+
+But as those gliding shapes flamed their wings and their flame-like eyes flickered through the grey fog, and a rumbling growl rolled over — Jace, who'd crossed blades with black dragons more than once, identified them on the spot.
+
+Those weren't one or two black dragons. It was a whole brood of whelps, led by several massive adult or adolescent black dragons.
+
+They swept across the desert at intervals, arrogant as if nothing in the world could stand against them. Just as Jace was trying to roughly estimate whether they were heading for Auchindoun or circling around it, a sound of wind came from above.
+
+He immediately lowered his head. A dark shadow swept past from high overhead — a black dragon slightly larger than Solia, accompanied by a powerful whelp about the size of Mavril of Southshore. The two magical beasts' panting, like a furnace bellows, was almost clearly audible.
+
+Fortunately, this pack of black dragons didn't look like they were patrolling the desert. They were flying straight toward some destination with a clear purpose.
+
+By now, Jace also understood why Sazeno hadn't felt these were black dragons.
+
+Although they were identical in appearance to the black dragons of Azeroth, down to that undisguised contempt for everything — they were indeed missing a very crucial quality...
+
+These black dragons still carried formidable shadow power, but Jace always felt they'd somehow turned around and controlled that shadow, like those powerful orc warlocks — not like the black dragons and dragonkin they'd encountered in Kalimdor, driven by shadow to the point of being a pack of rabid beasts.
+
+By now, the members of the party, including the two Alliance soldiers, had all gripped their weapons tight — spears or short swords — staring fixedly at the sky, ready to fight to the death. These fellows had all forgotten about the Invisibility Potions Jace had given them not long ago.
+
+Watching the direction the black dragons had flown off toward, Jace even felt that if the black dragons were already at odds with the Shadow Council and the Burning Legion at this point... perhaps they could be courted as allies against the demons.
+
+Deathwing had left behind a massive black dragon population in Outland. Probably because they were far from the Old Gods of Azeroth, or perhaps because they faced attacks from the demons, the hunting of the many gronn and ogres of Blade's Edge Mountains, and their living environment was precarious — their attitude toward the Alliance and the Horde was far less extreme than their brethren on Azeroth.
+
+Even if he got portal coordinates for other locations in Outland from the expeditionary mages, Jace might still need to return deep into Auchindoun to get in touch with Kallrez and have him open a rift to go back and hand over the portal coordinates. At that time, he might need the help of these black dragons.
+
+Actually, even without making contact with these black dragons, just relying on their hatred of the Burning Legion to keep the Shadow Council's orcs bottled up inside was useful enough. Since the expeditionary force wasn't planning to go to war with these black dragons head-on, Jace had no need to provoke them either.
+
+Of course, that was on the condition that they didn't find out what this bunch had done on Azeroth, Jace thought to himself.

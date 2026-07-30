@@ -1,0 +1,115 @@
+## Chapter 1381: Shadow Bolt Volley
+
+The sun hadn't fully set when Jace arrived at the agreed spot — next to the Auchenai stone pillar destroyed by some unknown black magic. A long time passed. The sky went dark. Only then did Sabellian come ambling over from the north.
+
+"My sincere apologies, Jace Sesso. I usually fly everywhere, so I tend to misjudge time." The black dragon smiled as he approached.
+
+"When you were in Lordaeron, if you had an appointment with the king, would you misjudge time too?" Jace asked.
+
+"If I really couldn't make it, I'd try calling on elemental fire to teleport me there." Sabellian said. "Though that would inevitably burn a few flowers and shrubs in King Terenas's lovely garden. I occasionally admit that the things Queen Ysera and Queen Alexstrasza have carefully guarded do have some value."
+
+"You can teleport via fire too?" Jace said. "When your sister fled Stormwind, she used flame teleportation. We chased her into a lava land... and defeated her there."
+
+"What?" Sabellian frowned at Jace. "You're saying you chased Onyxia into the Obsidian Plane? How is that possible? What happened?"
+
+"When she used teleportation magic to flee Stormwind Keep, an archmage caught her with a chain of solidified flame. The rift to the fire plane didn't fully close, and she couldn't go where she wanted from the other side either."
+
+"Korialstrasz." Sabellian snorted. "Who else? That Kirin Tor archmage probably forgets he's a dragon half the time. I admit he's powerful, but catching Onyxia's teleportation spell is genuinely impressive. Still, you managing to slip through that rift shows you have a pretty good understanding of the fire plane and elemental magic yourself."
+
+"Can you teach me?" Jace asked. "Fire teleportation."
+
+"I'd love to. I get the feeling it wouldn't be that hard to teach you." The black dragon said. "But my willingness alone isn't enough. Draenor doesn't have the conditions."
+
+"The Legion's barrier makes teleportation via the elemental plane nearly impossible. Arcane teleportation is error-prone, but at least short-range casting works. Why else wouldn't I just teleport to our meeting? Unless you want to get your existence in Draenor's material plane erased like Murmur... but throwing away your life for a single teleport seems unnecessary, right?"
+
+"But just like the difference between Blink and Teleport — helping others with short-range versus long-range teleportation through elements is also different. I think short-range elemental teleportation should be achievable in Draenor — letting fire deliver you to another spot instantly. If you learn this, once you get back to Azeroth and communicate carefully with the fire there, it'll be much easier to teleport across oceans like Onyxia."
+
+After saying this, he suddenly paused. "Huh. Did I just accidentally reveal something?"
+
+"We already know Onyxia's lair is in Kalimdor." Jace said. "Don't worry."
+
+"Ah, thank you for instantly erasing that faint trace of guilt I was feeling." Sabellian said.
+
+"I can already do short-range teleportation using shadow." Jace said. "What's the difference?"
+
+"That must be the Shadowstep the Sayade taught you." The black dragon dissolved into shadow, his form vanishing, then reappeared behind Jace.
+
+"This shadow magic essentially lets shadow carry you a distance. If your opponent knows the trick better than you, they might catch you mid-transit."
+
+"Yes." Jace nodded.
+
+He clearly remembered using Shadowstep to avoid the crossfire of those elven rangers and mages back in the necropolis at Raven Hill, only to have Verlees Deepshadow grab him out of the shadow step mid-journey.
+
+If Verlees could do it, so could Morofel — and so could banshees far weaker than her.
+
+"So fire's different?" he asked.
+
+The black dragon explained, "Fire teleportation is closer to Arcane Blink. You vanish from here, then appear over there. Imagine if one day you need to fight that fat toad Magtheridon. Using Shadowstep to get behind him wouldn't be so easy."
+
+He gestured a large sphere at his belly and couldn't help chuckling. "Imagine how far you'd have to go."
+
+"That's a fair point." Jace said.
+
+"But fire teleportation — especially for a beginner like you — has another problem." The black dragon said. "The casting time is much longer than Shadowstep. Shadowstep just takes a longer route. But you might be cut in two by Magtheridon's evil halberd halfway through chanting a fire teleport incantation."
+
+"That bastard's fat as hell, but his strength is nothing to sneeze at. Which also means his burst speed far exceeds you mortals... He won't let you finish chanting an elemental incantation."
+
+"Still want to learn?" he asked.
+
+"Yes." Jace said. "Once I get back to Azeroth, I probably won't find another black dragon or shaman willing to teach me elemental teleportation from scratch. Establishing a foundation here isn't bad. And in the two or three weeks before the portal's finished, there's not much else I can do anyway. We can't help on the other side."
+
+"Then let's go." The black dragon beckoned. "Follow me, Jace Sesso."
+
+The black dragon led Jace away from the broken pillar toward the northeast of Auchindoun. After about half an hour's walk, they reached a desolate hillside.
+
+The night wind kicked up dust here. Auchindoun was no longer visible in the distance.
+
+Though only some shattered tree stumps and indeterminate remnants of what looked like stone carvings or broken walls from old draenei structures were visible, Jace could sense an extremely dense power of resentment and despair...
+
+Necrotic aura. This was very likely a mass grave. No — there was no "grave" here. Just a burial pit.
+
+"And this is your so-called suitable place to practice Shadow Bolt Volley?" Jace said. "I know what you want to do, Sabellian. Don't try to resurrect the bones buried here with necromancy. Whether draenei or orc corpses, it's undeniable desecration of Auchindoun. They asked me not to do anything like that before. I'm worried those spirits might renege because of this."
+
+"Who said anything about that?" Sabellian smiled, walked forward a few steps, and shouted in Orcish toward the eerie hillside, "Hey! A living person's here!"
+
+All at once, the entire slope erupted with all kinds of chaotic sounds. Soil shifting, metal scraping against earth and stone, branches snapping. The noises weren't loud, but they came from every direction...
+
+Soon, thin silhouettes emerged from the slope. Their eyes flickered with faint necrotic magical light, like scattered fireflies drifting in the dark.
+
+"These are orcs who died when Teron Gorefiend attacked Auchindoun." Sabellian said. "How could the Auchenai necromancers pass up the chance to raise them to defend Auchindoun? It never required me to wake them."
+
+These reanimated corpses were mostly orcs — bare bones barely covered by tattered cloth and armor. They found the source of the voice and began walking — or crawling — toward them.
+
+Up close, Jace noticed most of them even carried weapons. Not far off, an orc warlock's skeleton was trembling its barely-attached jaw as if chanting, its hands making some kind of spellcasting gesture — though not a shred of mana was gathering.
+
+Just as Jace was wondering if they could still perform the spells they'd known in life, a sudden "whoosh" of evil flame burst from the side. A ball of fel-green fire spun toward the two of them.
+
+Sabellian raised a hand, dispersing it with a blast of hot sand. He watched the orc warlock skeleton topple, burned by the very fel fire it had channeled, and asked casually, "How do you guide your shadow bolts toward a target?"
+
+"Emotion. My emotions — and the target's emotions — both guide the shadow bolt's trajectory." Jace answered.
+
+"Exactly." Sabellian said. "That's why I said Shadow Bolt Volley isn't difficult. Try to feel what each undead in front of you is emitting. Hatred. Resentment. Even the fanaticism, irascibility, impulsiveness, and anger transmitted by the demonic fel energy they're channeling — all of it can be your target. You're a shadow-hand as good as I am, Jace Sesso. Follow your instincts."
+
+Jace nodded. He strapped Ulthalesh back onto his back, placed his hands before his chest, and chanted the shadow bolt incantation.
+
+"Ula-singa."
+
+Even though he was intimately familiar with shadow bolt, he still chanted the incantation carefully while cultivating a depressive emotion from the depths of his heart. He thought about every setback in finding a way out for the expedition, about the looks in the priests' eyes when he'd proposed burning all of Auchindoun's souls in the fortress hall. Denial...
+
+The shadow energy gathering in his hands swelled, deepening from dark violet to an inky black shot through with strange magical light. The orc disguise tore apart like a shack demolished by a tornado... Eventually, even the amused look on Sabellian's face froze, and he had to step back a few paces.
+
+"For... Gul'dan!"
+
+An orc skeleton shrieked from the slope, raising a blade still faintly enchanted with shadow magic, stepping step by step toward the core of the shadow vortex above. Jace watched its twisted skull, feeling the hatred and resentment that had carried over from its life — and behind it, the countless orcs' lingering emotional shadows.
+
+"Bista-ent."
+
+Jace moved his lips, barely aware if he'd actually spoken the second half of the incantation. The shadow energy in his chest released instantly, like countless twisted monstrous worms pouring from an animal carcass flipped open in summer... Frenziedly, they lunged at everything on the entire slope that was still moving.
+
+No explosions. No splattering bones or limbs. No screaming or struggling from the skeletal soldiers. Countless weaving, writhing shadow bolts quickly vanished into the black night and gray sand, accompanied by a series of eerie ringing sounds.
+
+Before long, there wasn't a single skeleton left standing as far as the eye could see.
+
+The entire mass grave began to reek of shadow — a stench the howling cold wind couldn't dispel. The nearest fallen skeletons had turned purplish-black, glimmering faintly with shadow-corrupted light. The scattered chaotic emotions Jace had sensed all around were gone.
+
+Sabellian shrugged. "Well. Now we have a place to practice fire teleportation. With no interruptions."

@@ -1,0 +1,9312 @@
+[
+  {
+    "num": 1,
+    "title": "The Alliance Expedition",
+    "file": "chapter001.html"
+  },
+  {
+    "num": 2,
+    "title": "A Migrant Worker's Understanding of Red Dragons",
+    "file": "chapter002.html"
+  },
+  {
+    "num": 3,
+    "title": "The Lamb to the Slaughter",
+    "file": "chapter003.html"
+  },
+  {
+    "num": 4,
+    "title": "The Howl in the Deep Woods",
+    "file": "chapter004.html"
+  },
+  {
+    "num": 5,
+    "title": "\"Former\" Gryphon Rider",
+    "file": "chapter005.html"
+  },
+  {
+    "num": 6,
+    "title": "What Dwarves and Ale Have in Common",
+    "file": "chapter006.html"
+  },
+  {
+    "num": 7,
+    "title": "The Difference Between an Apprentice and an Assistant",
+    "file": "chapter007.html"
+  },
+  {
+    "num": 8,
+    "title": "A New Plan",
+    "file": "chapter008.html"
+  },
+  {
+    "num": 9,
+    "title": "Discount Price",
+    "file": "chapter009.html"
+  },
+  {
+    "num": 10,
+    "title": "Choosing a Gathering Site",
+    "file": "chapter010.html"
+  },
+  {
+    "num": 11,
+    "title": "Two Young Men",
+    "file": "chapter011.html"
+  },
+  {
+    "num": 12,
+    "title": "The Prince",
+    "file": "chapter012.html"
+  },
+  {
+    "num": 13,
+    "title": "The Bounty Hunter of Sentinel Hill",
+    "file": "chapter013.html"
+  },
+  {
+    "num": 14,
+    "title": "The Holy Light Is With Me Right Now",
+    "file": "chapter014.html"
+  },
+  {
+    "num": 15,
+    "title": "Raven Hill",
+    "file": "chapter015.html"
+  },
+  {
+    "num": 16,
+    "title": "The Night's Guardian",
+    "file": "chapter016.html"
+  },
+  {
+    "num": 17,
+    "title": "The Great Graveyard",
+    "file": "chapter017.html"
+  },
+  {
+    "num": 18,
+    "title": "The Dark Underground",
+    "file": "chapter018.html"
+  },
+  {
+    "num": 19,
+    "title": "The Dead Awakens",
+    "file": "chapter019.html"
+  },
+  {
+    "num": 20,
+    "title": "The Ranger",
+    "file": "chapter020.html"
+  },
+  {
+    "num": 21,
+    "title": "Two on One",
+    "file": "chapter021.html"
+  },
+  {
+    "num": 22,
+    "title": "Allies? Bah!",
+    "file": "chapter022.html"
+  },
+  {
+    "num": 23,
+    "title": "Farm at Dusk",
+    "file": "chapter023.html"
+  },
+  {
+    "num": 24,
+    "title": "A Strange Scroll",
+    "file": "chapter024.html"
+  },
+  {
+    "num": 25,
+    "title": "A Chance to Prove Himself",
+    "file": "chapter025.html"
+  },
+  {
+    "num": 26,
+    "title": "Back to Life",
+    "file": "chapter026.html"
+  },
+  {
+    "num": 27,
+    "title": "A Young Assistant's Understanding of Orcs",
+    "file": "chapter027.html"
+  },
+  {
+    "num": 28,
+    "title": "The Swordsmanship Teacher",
+    "file": "chapter028.html"
+  },
+  {
+    "num": 29,
+    "title": "Herbalist, or Bounty Hunter?",
+    "file": "chapter029.html"
+  },
+  {
+    "num": 30,
+    "title": "Necrotic Poison",
+    "file": "chapter030.html"
+  },
+  {
+    "num": 31,
+    "title": "A Price Too Heavy to Bear",
+    "file": "chapter031.html"
+  },
+  {
+    "num": 32,
+    "title": "The Light's Keen Eye",
+    "file": "chapter032.html"
+  },
+  {
+    "num": 33,
+    "title": "Don't Dance",
+    "file": "chapter033.html"
+  },
+  {
+    "num": 34,
+    "title": "Marin's Investigator",
+    "file": "chapter034.html"
+  },
+  {
+    "num": 35,
+    "title": "Not a Drop Wasted",
+    "file": "chapter035.html"
+  },
+  {
+    "num": 36,
+    "title": "Touching Darkness",
+    "file": "chapter036.html"
+  },
+  {
+    "num": 37,
+    "title": "The Wizard Sanctum and the Werewolf Investigation",
+    "file": "chapter037.html"
+  },
+  {
+    "num": 38,
+    "title": "The Forgotten Suspect",
+    "file": "chapter038.html"
+  },
+  {
+    "num": 39,
+    "title": "The Dream of Gryphons",
+    "file": "chapter039.html"
+  },
+  {
+    "num": 40,
+    "title": "A Night Walk in the Woods",
+    "file": "chapter040.html"
+  },
+  {
+    "num": 41,
+    "title": "The Wolves at the Riverbank",
+    "file": "chapter041.html"
+  },
+  {
+    "num": 42,
+    "title": "Darker Than the Night",
+    "file": "chapter042.html"
+  },
+  {
+    "num": 43,
+    "title": "The Wolf Den",
+    "file": "chapter043.html"
+  },
+  {
+    "num": 44,
+    "title": "The Young Mother",
+    "file": "chapter044.html"
+  },
+  {
+    "num": 45,
+    "title": "Just Deduct the Pay",
+    "file": "chapter045.html"
+  },
+  {
+    "num": 46,
+    "title": "An Orc's Command",
+    "file": "chapter046.html"
+  },
+  {
+    "num": 47,
+    "title": "Beyond Wildest Dreams",
+    "file": "chapter047.html"
+  },
+  {
+    "num": 48,
+    "title": "Orcish Class",
+    "file": "chapter048.html"
+  },
+  {
+    "num": 49,
+    "title": "An Enthusiastic Invitation",
+    "file": "chapter049.html"
+  },
+  {
+    "num": 50,
+    "title": "Joining Up",
+    "file": "chapter050.html"
+  },
+  {
+    "num": 51,
+    "title": "A Valuable Spell",
+    "file": "chapter051.html"
+  },
+  {
+    "num": 52,
+    "title": "Sazanilaz",
+    "file": "chapter052.html"
+  },
+  {
+    "num": 53,
+    "title": "You Still Need a Professional to Teach You",
+    "file": "chapter053.html"
+  },
+  {
+    "num": 54,
+    "title": "A Stormwind Imp at Work",
+    "file": "chapter054.html"
+  },
+  {
+    "num": 55,
+    "title": "First Time as a Courier",
+    "file": "chapter055.html"
+  },
+  {
+    "num": 56,
+    "title": "A Chance to Get Rich",
+    "file": "chapter056.html"
+  },
+  {
+    "num": 57,
+    "title": "The Orcish War Banner",
+    "file": "chapter057.html"
+  },
+  {
+    "num": 58,
+    "title": "Something New for Jace",
+    "file": "chapter058.html"
+  },
+  {
+    "num": 59,
+    "title": "The Legend of Redridge",
+    "file": "chapter059.html"
+  },
+  {
+    "num": 60,
+    "title": "The Fisher and the Fish",
+    "file": "chapter060.html"
+  },
+  {
+    "num": 61,
+    "title": "Wind, Rain, and Thunder!",
+    "file": "chapter061.html"
+  },
+  {
+    "num": 62,
+    "title": "Effective Communication",
+    "file": "chapter062.html"
+  },
+  {
+    "num": 63,
+    "title": "The Wanderer",
+    "file": "chapter063.html"
+  },
+  {
+    "num": 64,
+    "title": "Back on the Road",
+    "file": "chapter064.html"
+  },
+  {
+    "num": 65,
+    "title": "Stonewatch",
+    "file": "chapter065.html"
+  },
+  {
+    "num": 66,
+    "title": "The Wall at Night",
+    "file": "chapter066.html"
+  },
+  {
+    "num": 67,
+    "title": "Surprise Attack",
+    "file": "chapter067.html"
+  },
+  {
+    "num": 68,
+    "title": "Top of the Watchtower",
+    "file": "chapter068.html"
+  },
+  {
+    "num": 69,
+    "title": "Shadow Fury",
+    "file": "chapter069.html"
+  },
+  {
+    "num": 70,
+    "title": "The Company Will Take Care of You",
+    "file": "chapter070.html"
+  },
+  {
+    "num": 71,
+    "title": "Mastery of Darkness",
+    "file": "chapter071.html"
+  },
+  {
+    "num": 72,
+    "title": "A Suitable Wish",
+    "file": "chapter072.html"
+  },
+  {
+    "num": 73,
+    "title": "Long Live the King",
+    "file": "chapter073.html"
+  },
+  {
+    "num": 74,
+    "title": "Reunion at Lakeshire",
+    "file": "chapter074.html"
+  },
+  {
+    "num": 75,
+    "title": "Jace's Legend",
+    "file": "chapter075.html"
+  },
+  {
+    "num": 76,
+    "title": "The Mage Academy's Goal",
+    "file": "chapter076.html"
+  },
+  {
+    "num": 77,
+    "title": "Light (Part One)",
+    "file": "chapter077.html"
+  },
+  {
+    "num": 78,
+    "title": "Light (Part Two)",
+    "file": "chapter078.html"
+  },
+  {
+    "num": 79,
+    "title": "Murloc Magic",
+    "file": "chapter079.html"
+  },
+  {
+    "num": 80,
+    "title": "What's on Grede's Mind",
+    "file": "chapter080.html"
+  },
+  {
+    "num": 81,
+    "title": "Grede's Future and Past",
+    "file": "chapter081.html"
+  },
+  {
+    "num": 82,
+    "title": "The Shadow Over Grim Batol",
+    "file": "chapter082.html"
+  },
+  {
+    "num": 83,
+    "title": "An Unexpected Test",
+    "file": "chapter083.html"
+  },
+  {
+    "num": 84,
+    "title": "An Evil Incantation",
+    "file": "chapter084.html"
+  },
+  {
+    "num": 85,
+    "title": "A Veteran's Longing",
+    "file": "chapter085.html"
+  },
+  {
+    "num": 86,
+    "title": "Faolble's Farm",
+    "file": "chapter086.html"
+  },
+  {
+    "num": 87,
+    "title": "The Coastal Fishing Village",
+    "file": "chapter087.html"
+  },
+  {
+    "num": 88,
+    "title": "The One from the Abyss",
+    "file": "chapter088.html"
+  },
+  {
+    "num": 89,
+    "title": "The Trapped Room",
+    "file": "chapter089.html"
+  },
+  {
+    "num": 90,
+    "title": "Fire and Icy Blood",
+    "file": "chapter090.html"
+  },
+  {
+    "num": 91,
+    "title": "Legends of the Deep",
+    "file": "chapter091.html"
+  },
+  {
+    "num": 92,
+    "title": "Critical Data Missing",
+    "file": "chapter092.html"
+  },
+  {
+    "num": 93,
+    "title": "The Secret Alchemy Lab",
+    "file": "chapter093.html"
+  },
+  {
+    "num": 94,
+    "title": "The Unlucky Veteran",
+    "file": "chapter094.html"
+  },
+  {
+    "num": 95,
+    "title": "Deathweed",
+    "file": "chapter095.html"
+  },
+  {
+    "num": 96,
+    "title": "Is This the First Spell You Learned?",
+    "file": "chapter096.html"
+  },
+  {
+    "num": 97,
+    "title": "Practically Sophistry",
+    "file": "chapter097.html"
+  },
+  {
+    "num": 98,
+    "title": "A Difficult Spell",
+    "file": "chapter098.html"
+  },
+  {
+    "num": 99,
+    "title": "Andormas's Office",
+    "file": "chapter099.html"
+  },
+  {
+    "num": 100,
+    "title": "False Wisdom and True Wisdom",
+    "file": "chapter100.html"
+  },
+  {
+    "num": 101,
+    "title": "Full Circle",
+    "file": "chapter101.html"
+  },
+  {
+    "num": 102,
+    "title": "Clothes Make the Man",
+    "file": "chapter102.html"
+  },
+  {
+    "num": 103,
+    "title": "The Value of a Curse of Weakness",
+    "file": "chapter103.html"
+  },
+  {
+    "num": 104,
+    "title": "A Spell for a Spell",
+    "file": "chapter104.html"
+  },
+  {
+    "num": 105,
+    "title": "Nathrezim Grammar",
+    "file": "chapter105.html"
+  },
+  {
+    "num": 106,
+    "title": "A Gift",
+    "file": "chapter106.html"
+  },
+  {
+    "num": 107,
+    "title": "The Sheep Experiment",
+    "file": "chapter107.html"
+  },
+  {
+    "num": 108,
+    "title": "Vitality Rupture",
+    "file": "chapter108.html"
+  },
+  {
+    "num": 109,
+    "title": "The Weekend Underground Gathering",
+    "file": "chapter109.html"
+  },
+  {
+    "num": 110,
+    "title": "What Everyone Has in Common",
+    "file": "chapter110.html"
+  },
+  {
+    "num": 111,
+    "title": "The Path of Faith Off to a Bad Start",
+    "file": "chapter111.html"
+  },
+  {
+    "num": 112,
+    "title": "Misery Loves Company",
+    "file": "chapter112.html"
+  },
+  {
+    "num": 113,
+    "title": "Still a Long Way to Go",
+    "file": "chapter113.html"
+  },
+  {
+    "num": 114,
+    "title": "The Alliance Internment Act",
+    "file": "chapter114.html"
+  },
+  {
+    "num": 115,
+    "title": "Exam Day",
+    "file": "chapter115.html"
+  },
+  {
+    "num": 116,
+    "title": "A Sneak Attack",
+    "file": "chapter116.html"
+  },
+  {
+    "num": 117,
+    "title": "Setting the Date",
+    "file": "chapter117.html"
+  },
+  {
+    "num": 118,
+    "title": "Mage Armor (Part 1)",
+    "file": "chapter118.html"
+  },
+  {
+    "num": 119,
+    "title": "Mage Armor (Part 2)",
+    "file": "chapter119.html"
+  },
+  {
+    "num": 120,
+    "title": "The Bishop",
+    "file": "chapter120.html"
+  },
+  {
+    "num": 121,
+    "title": "The Goblins' Crimes",
+    "file": "chapter121.html"
+  },
+  {
+    "num": 122,
+    "title": "Mana and Ley-Line Nodes",
+    "file": "chapter122.html"
+  },
+  {
+    "num": 123,
+    "title": "The Mysterious Former Member",
+    "file": "chapter123.html"
+  },
+  {
+    "num": 124,
+    "title": "Grede's Preparations",
+    "file": "chapter124.html"
+  },
+  {
+    "num": 125,
+    "title": "A Visible Journey",
+    "file": "chapter125.html"
+  },
+  {
+    "num": 126,
+    "title": "Casting Force",
+    "file": "chapter126.html"
+  },
+  {
+    "num": 127,
+    "title": "Stealing \"Secrets\"",
+    "file": "chapter127.html"
+  },
+  {
+    "num": 128,
+    "title": "The Great Baradin Conqueror",
+    "file": "chapter128.html"
+  },
+  {
+    "num": 129,
+    "title": "The Kul Tiras Ship",
+    "file": "chapter129.html"
+  },
+  {
+    "num": 130,
+    "title": "The Dead",
+    "file": "chapter130.html"
+  },
+  {
+    "num": 131,
+    "title": "Night Baron",
+    "file": "chapter131.html"
+  },
+  {
+    "num": 132,
+    "title": "Forming the Hunting Party",
+    "file": "chapter132.html"
+  },
+  {
+    "num": 133,
+    "title": "Ambush and Ambushed",
+    "file": "chapter133.html"
+  },
+  {
+    "num": 134,
+    "title": "The Cornered Beast",
+    "file": "chapter134.html"
+  },
+  {
+    "num": 135,
+    "title": "The Star's Destination",
+    "file": "chapter135.html"
+  },
+  {
+    "num": 136,
+    "title": "After the Battle",
+    "file": "chapter136.html"
+  },
+  {
+    "num": 137,
+    "title": "One Warlock Is Trouble Enough",
+    "file": "chapter137.html"
+  },
+  {
+    "num": 138,
+    "title": "Hillsbrad \"Charm\"",
+    "file": "chapter138.html"
+  },
+  {
+    "num": 139,
+    "title": "The Escaped Orc",
+    "file": "chapter139.html"
+  },
+  {
+    "num": 140,
+    "title": "The Dalaran Mage",
+    "file": "chapter140.html"
+  },
+  {
+    "num": 141,
+    "title": "Above the Forest",
+    "file": "chapter141.html"
+  },
+  {
+    "num": 142,
+    "title": "The Burning Morning",
+    "file": "chapter142.html"
+  },
+  {
+    "num": 143,
+    "title": "Unforgivable",
+    "file": "chapter143.html"
+  },
+  {
+    "num": 144,
+    "title": "The Scorching Road",
+    "file": "chapter144.html"
+  },
+  {
+    "num": 145,
+    "title": "The Shadow on the Tower",
+    "file": "chapter145.html"
+  },
+  {
+    "num": 146,
+    "title": "The Hunt!",
+    "file": "chapter146.html"
+  },
+  {
+    "num": 147,
+    "title": "Like a Dream",
+    "file": "chapter147.html"
+  },
+  {
+    "num": 148,
+    "title": "The Power of Blood?",
+    "file": "chapter148.html"
+  },
+  {
+    "num": 149,
+    "title": "Dear Mr. Sesso",
+    "file": "chapter149.html"
+  },
+  {
+    "num": 150,
+    "title": "The Azure Encounter",
+    "file": "chapter150.html"
+  },
+  {
+    "num": 151,
+    "title": "Dragons Have Parents Too",
+    "file": "chapter151.html"
+  },
+  {
+    "num": 152,
+    "title": "Distracted",
+    "file": "chapter152.html"
+  },
+  {
+    "num": 153,
+    "title": "Almost Forgot the Point of the Conversation",
+    "file": "chapter153.html"
+  },
+  {
+    "num": 154,
+    "title": "The Botanist",
+    "file": "chapter154.html"
+  },
+  {
+    "num": 155,
+    "title": "Picked the Wrong Opponent",
+    "file": "chapter155.html"
+  },
+  {
+    "num": 156,
+    "title": "Phoenix Feather",
+    "file": "chapter156.html"
+  },
+  {
+    "num": 157,
+    "title": "Trade Name",
+    "file": "chapter157.html"
+  },
+  {
+    "num": 158,
+    "title": "Smack the Orc in the Face",
+    "file": "chapter158.html"
+  },
+  {
+    "num": 159,
+    "title": "Lordamere",
+    "file": "chapter159.html"
+  },
+  {
+    "num": 160,
+    "title": "The Old Craftsmen's Quarter",
+    "file": "chapter160.html"
+  },
+  {
+    "num": 161,
+    "title": "Old Vic",
+    "file": "chapter161.html"
+  },
+  {
+    "num": 162,
+    "title": "The Royal Cathedral",
+    "file": "chapter162.html"
+  },
+  {
+    "num": 163,
+    "title": "Gold",
+    "file": "chapter163.html"
+  },
+  {
+    "num": 164,
+    "title": "In a Flash",
+    "file": "chapter164.html"
+  },
+  {
+    "num": 165,
+    "title": "Our Parents",
+    "file": "chapter165.html"
+  },
+  {
+    "num": 166,
+    "title": "The Benefits of Alcohol",
+    "file": "chapter166.html"
+  },
+  {
+    "num": 167,
+    "title": "Under the Pine",
+    "file": "chapter167.html"
+  },
+  {
+    "num": 168,
+    "title": "A Big Shot",
+    "file": "chapter168.html"
+  },
+  {
+    "num": 169,
+    "title": "Ulterior Motives",
+    "file": "chapter169.html"
+  },
+  {
+    "num": 170,
+    "title": "Setting the Stage",
+    "file": "chapter170.html"
+  },
+  {
+    "num": 171,
+    "title": "The Three Relics (Part One)",
+    "file": "chapter171.html"
+  },
+  {
+    "num": 172,
+    "title": "The Three Relics (Part Two)",
+    "file": "chapter172.html"
+  },
+  {
+    "num": 173,
+    "title": "The Deathless",
+    "file": "chapter173.html"
+  },
+  {
+    "num": 174,
+    "title": "The Perfect Vessel",
+    "file": "chapter174.html"
+  },
+  {
+    "num": 175,
+    "title": "Blood and Wind",
+    "file": "chapter175.html"
+  },
+  {
+    "num": 176,
+    "title": "A Deadly Trump Card",
+    "file": "chapter176.html"
+  },
+  {
+    "num": 177,
+    "title": "Two Headless Flies",
+    "file": "chapter177.html"
+  },
+  {
+    "num": 178,
+    "title": "Dream of the North",
+    "file": "chapter178.html"
+  },
+  {
+    "num": 179,
+    "title": "The One You're Thinking Of",
+    "file": "chapter179.html"
+  },
+  {
+    "num": 180,
+    "title": "The Most Unexpected Reward",
+    "file": "chapter180.html"
+  },
+  {
+    "num": 181,
+    "title": "Two Strange Fellows",
+    "file": "chapter181.html"
+  },
+  {
+    "num": 182,
+    "title": "One Lie and Countless Lies",
+    "file": "chapter182.html"
+  },
+  {
+    "num": 183,
+    "title": "The Buyout",
+    "file": "chapter183.html"
+  },
+  {
+    "num": 184,
+    "title": "As One Act Ends, Another Begins",
+    "file": "chapter184.html"
+  },
+  {
+    "num": 185,
+    "title": "First Come, First Served",
+    "file": "chapter185.html"
+  },
+  {
+    "num": 186,
+    "title": "Physical and Mental Changes",
+    "file": "chapter186.html"
+  },
+  {
+    "num": 187,
+    "title": "Setting Out Again",
+    "file": "chapter187.html"
+  },
+  {
+    "num": 188,
+    "title": "The Snow Yeti Legend",
+    "file": "chapter188.html"
+  },
+  {
+    "num": 189,
+    "title": "The Test of the Light",
+    "file": "chapter189.html"
+  },
+  {
+    "num": 190,
+    "title": "The City of Alterac",
+    "file": "chapter190.html"
+  },
+  {
+    "num": 191,
+    "title": "Remarkable Results!",
+    "file": "chapter191.html"
+  },
+  {
+    "num": 192,
+    "title": "A Way to Blow Off Steam",
+    "file": "chapter192.html"
+  },
+  {
+    "num": 193,
+    "title": "A Real Gladiator",
+    "file": "chapter193.html"
+  },
+  {
+    "num": 194,
+    "title": "Thanks to the Trollbanes",
+    "file": "chapter194.html"
+  },
+  {
+    "num": 195,
+    "title": "The One We Really Ought to Thank",
+    "file": "chapter195.html"
+  },
+  {
+    "num": 196,
+    "title": "The Hinterlands",
+    "file": "chapter196.html"
+  },
+  {
+    "num": 197,
+    "title": "The Thunderfists",
+    "file": "chapter197.html"
+  },
+  {
+    "num": 198,
+    "title": "Another Attempt",
+    "file": "chapter198.html"
+  },
+  {
+    "num": 199,
+    "title": "Whose Problem Is It, Really",
+    "file": "chapter199.html"
+  },
+  {
+    "num": 200,
+    "title": "The Feast",
+    "file": "chapter200.html"
+  },
+  {
+    "num": 201,
+    "title": "Griffin Drool",
+    "file": "chapter201.html"
+  },
+  {
+    "num": 202,
+    "title": "A Strange Sound on the Wind",
+    "file": "chapter202.html"
+  },
+  {
+    "num": 203,
+    "title": "The Shadra Cellar",
+    "file": "chapter203.html"
+  },
+  {
+    "num": 204,
+    "title": "What Did We Just Save?",
+    "file": "chapter204.html"
+  },
+  {
+    "num": 205,
+    "title": "What's Coming Will Come",
+    "file": "chapter205.html"
+  },
+  {
+    "num": 206,
+    "title": "The Elven Refuge",
+    "file": "chapter206.html"
+  },
+  {
+    "num": 207,
+    "title": "The Residents of Quel'Daniel",
+    "file": "chapter207.html"
+  },
+  {
+    "num": 208,
+    "title": "Jace's Good Brother",
+    "file": "chapter208.html"
+  },
+  {
+    "num": 209,
+    "title": "The Natives",
+    "file": "chapter209.html"
+  },
+  {
+    "num": 210,
+    "title": "Between Monsters",
+    "file": "chapter210.html"
+  },
+  {
+    "num": 211,
+    "title": "Happy Flight",
+    "file": "chapter211.html"
+  },
+  {
+    "num": 212,
+    "title": "End of Vacation",
+    "file": "chapter212.html"
+  },
+  {
+    "num": 213,
+    "title": "Uninvited Guest",
+    "file": "chapter213.html"
+  },
+  {
+    "num": 214,
+    "title": "Lone Wanderer",
+    "file": "chapter214.html"
+  },
+  {
+    "num": 215,
+    "title": "New \"Trainee\"",
+    "file": "chapter215.html"
+  },
+  {
+    "num": 216,
+    "title": "What's Owed Must Be Repaid",
+    "file": "chapter216.html"
+  },
+  {
+    "num": 217,
+    "title": "Is That the Job?",
+    "file": "chapter217.html"
+  },
+  {
+    "num": 218,
+    "title": "Good Lad, Bad Lad",
+    "file": "chapter218.html"
+  },
+  {
+    "num": 219,
+    "title": "Extra Value",
+    "file": "chapter219.html"
+  },
+  {
+    "num": 220,
+    "title": "The Westfall Night",
+    "file": "chapter220.html"
+  },
+  {
+    "num": 221,
+    "title": "Riverbank",
+    "file": "chapter221.html"
+  },
+  {
+    "num": 222,
+    "title": "We're All Mercenaries",
+    "file": "chapter222.html"
+  },
+  {
+    "num": 223,
+    "title": "Tearing Down Another's Wall",
+    "file": "chapter223.html"
+  },
+  {
+    "num": 224,
+    "title": "Strange Coin",
+    "file": "chapter224.html"
+  },
+  {
+    "num": 225,
+    "title": "Cannon Fodder",
+    "file": "chapter225.html"
+  },
+  {
+    "num": 226,
+    "title": "Ambush",
+    "file": "chapter226.html"
+  },
+  {
+    "num": 227,
+    "title": "Is This Supposed to Be Here?",
+    "file": "chapter227.html"
+  },
+  {
+    "num": 228,
+    "title": "More Tricks Up Its Sleeve?",
+    "file": "chapter228.html"
+  },
+  {
+    "num": 229,
+    "title": "The Dark Thicket",
+    "file": "chapter229.html"
+  },
+  {
+    "num": 230,
+    "title": "The Fel Ground",
+    "file": "chapter230.html"
+  },
+  {
+    "num": 231,
+    "title": "The Offering",
+    "file": "chapter231.html"
+  },
+  {
+    "num": 232,
+    "title": "The Legend of the One-Armed Kul Tiran Hero, Gnoll Slayer, and Archmage",
+    "file": "chapter232.html"
+  },
+  {
+    "num": 233,
+    "title": "Something New",
+    "file": "chapter233.html"
+  },
+  {
+    "num": 234,
+    "title": "Innate Understanding",
+    "file": "chapter234.html"
+  },
+  {
+    "num": 235,
+    "title": "A Lively Soul",
+    "file": "chapter235.html"
+  },
+  {
+    "num": 236,
+    "title": "The Best Candidate",
+    "file": "chapter236.html"
+  },
+  {
+    "num": 237,
+    "title": "Arcane Talent?!",
+    "file": "chapter237.html"
+  },
+  {
+    "num": 238,
+    "title": "Black Fire",
+    "file": "chapter238.html"
+  },
+  {
+    "num": 239,
+    "title": "Tea and Mead",
+    "file": "chapter239.html"
+  },
+  {
+    "num": 240,
+    "title": "A Promise",
+    "file": "chapter240.html"
+  },
+  {
+    "num": 241,
+    "title": "Trading What's Most Precious",
+    "file": "chapter241.html"
+  },
+  {
+    "num": 242,
+    "title": "There Have to Be Rules",
+    "file": "chapter242.html"
+  },
+  {
+    "num": 243,
+    "title": "The Importance of Mana",
+    "file": "chapter243.html"
+  },
+  {
+    "num": 244,
+    "title": "The Burning Black Blade",
+    "file": "chapter244.html"
+  },
+  {
+    "num": 245,
+    "title": "\"Irredeemable Depravity\"",
+    "file": "chapter245.html"
+  },
+  {
+    "num": 246,
+    "title": "Moon Plum Cake",
+    "file": "chapter246.html"
+  },
+  {
+    "num": 247,
+    "title": "As You Wish",
+    "file": "chapter247.html"
+  },
+  {
+    "num": 248,
+    "title": "The Little Alarm",
+    "file": "chapter248.html"
+  },
+  {
+    "num": 249,
+    "title": "New Quest, New Gear",
+    "file": "chapter249.html"
+  },
+  {
+    "num": 250,
+    "title": "How to Become a Demon Warlock",
+    "file": "chapter250.html"
+  },
+  {
+    "num": 251,
+    "title": "Toward the Highlands of Khaz Modan",
+    "file": "chapter251.html"
+  },
+  {
+    "num": 252,
+    "title": "Soul Link",
+    "file": "chapter252.html"
+  },
+  {
+    "num": 253,
+    "title": "The Campfire",
+    "file": "chapter253.html"
+  },
+  {
+    "num": 254,
+    "title": "The Mountaineer",
+    "file": "chapter254.html"
+  },
+  {
+    "num": 255,
+    "title": "The Black Hollow",
+    "file": "chapter255.html"
+  },
+  {
+    "num": 256,
+    "title": "The Naked Hatred Between Peers",
+    "file": "chapter256.html"
+  },
+  {
+    "num": 257,
+    "title": "The Chosen One",
+    "file": "chapter257.html"
+  },
+  {
+    "num": 258,
+    "title": "Mental Disruption",
+    "file": "chapter258.html"
+  },
+  {
+    "num": 259,
+    "title": "Evidence",
+    "file": "chapter259.html"
+  },
+  {
+    "num": 260,
+    "title": "Ruins",
+    "file": "chapter260.html"
+  },
+  {
+    "num": 261,
+    "title": "For a Fellow Countryman's Sake",
+    "file": "chapter261.html"
+  },
+  {
+    "num": 262,
+    "title": "An Excellent Assistant",
+    "file": "chapter262.html"
+  },
+  {
+    "num": 263,
+    "title": "Progress on the Spell",
+    "file": "chapter263.html"
+  },
+  {
+    "num": 264,
+    "title": "Good Eye for People",
+    "file": "chapter264.html"
+  },
+  {
+    "num": 265,
+    "title": "Good Friends Help Each Other",
+    "file": "chapter265.html"
+  },
+  {
+    "num": 266,
+    "title": "The Mass Graves",
+    "file": "chapter266.html"
+  },
+  {
+    "num": 267,
+    "title": "The Warlock in the Tavern",
+    "file": "chapter267.html"
+  },
+  {
+    "num": 268,
+    "title": "The Doctor of Duskwood",
+    "file": "chapter268.html"
+  },
+  {
+    "num": 269,
+    "title": "New Inhabitants of the Forest",
+    "file": "chapter269.html"
+  },
+  {
+    "num": 270,
+    "title": "Duskwood Town",
+    "file": "chapter270.html"
+  },
+  {
+    "num": 271,
+    "title": "The Hermit",
+    "file": "chapter271.html"
+  },
+  {
+    "num": 272,
+    "title": "The Only Companion",
+    "file": "chapter272.html"
+  },
+  {
+    "num": 273,
+    "title": "The Man in Black",
+    "file": "chapter273.html"
+  },
+  {
+    "num": 274,
+    "title": "Progress",
+    "file": "chapter274.html"
+  },
+  {
+    "num": 275,
+    "title": "The Greedy Mercenary",
+    "file": "chapter275.html"
+  },
+  {
+    "num": 276,
+    "title": "Contraband",
+    "file": "chapter276.html"
+  },
+  {
+    "num": 277,
+    "title": "Flame Amplification",
+    "file": "chapter277.html"
+  },
+  {
+    "num": 278,
+    "title": "Friend of the Elves",
+    "file": "chapter278.html"
+  },
+  {
+    "num": 279,
+    "title": "Enchanted Arrow",
+    "file": "chapter279.html"
+  },
+  {
+    "num": 280,
+    "title": "Old Town Shadows",
+    "file": "chapter280.html"
+  },
+  {
+    "num": 281,
+    "title": "Who Can Make Their Master Happier",
+    "file": "chapter0281.html"
+  },
+  {
+    "num": 282,
+    "title": "The Hunter",
+    "file": "chapter0282.html"
+  },
+  {
+    "num": 283,
+    "title": "Jagin's Wish",
+    "file": "chapter0283.html"
+  },
+  {
+    "num": 284,
+    "title": "The Morning Meeting",
+    "file": "chapter0284.html"
+  },
+  {
+    "num": 285,
+    "title": "A Good Teacher",
+    "file": "chapter0285.html"
+  },
+  {
+    "num": 286,
+    "title": "Some Kind of Warning?",
+    "file": "chapter286.html"
+  },
+  {
+    "num": 287,
+    "title": "A Sense of Crisis",
+    "file": "chapter287.html"
+  },
+  {
+    "num": 288,
+    "title": "Grounds for Leave",
+    "file": "chapter288.html"
+  },
+  {
+    "num": 289,
+    "title": "The Demon Trade",
+    "file": "chapter289.html"
+  },
+  {
+    "num": 290,
+    "title": "Eastvale",
+    "file": "chapter290.html"
+  },
+  {
+    "num": 291,
+    "title": "Gryphons — Is There a Chance?",
+    "file": "chapter291.html"
+  },
+  {
+    "num": 292,
+    "title": "Travel Hardships",
+    "file": "chapter292.html"
+  },
+  {
+    "num": 293,
+    "title": "The Telltale Sign",
+    "file": "chapter293.html"
+  },
+  {
+    "num": 294,
+    "title": "The Oriole Behind",
+    "file": "chapter294.html"
+  },
+  {
+    "num": 295,
+    "title": "Embers Among the Ruins",
+    "file": "chapter295.html"
+  },
+  {
+    "num": 296,
+    "title": "Heavy Losses",
+    "file": "chapter296.html"
+  },
+  {
+    "num": 297,
+    "title": "Blackrock and Shattered Hand",
+    "file": "chapter297.html"
+  },
+  {
+    "num": 298,
+    "title": "Amateur Hunter",
+    "file": "chapter298.html"
+  },
+  {
+    "num": 299,
+    "title": "The Dark Iron City",
+    "file": "chapter299.html"
+  },
+  {
+    "num": 300,
+    "title": "A Murky Malice",
+    "file": "chapter300.html"
+  },
+  {
+    "num": 301,
+    "title": "The Siege of the Dead",
+    "file": "chapter301.html"
+  },
+  {
+    "num": 302,
+    "title": "Whose Side Is Fate On?",
+    "file": "chapter302.html"
+  },
+  {
+    "num": 303,
+    "title": "Shadow of the Blood Demon",
+    "file": "chapter303.html"
+  },
+  {
+    "num": 304,
+    "title": "Whose Flesh, Whose Will",
+    "file": "chapter304.html"
+  },
+  {
+    "num": 305,
+    "title": "Which One Are You?",
+    "file": "chapter305.html"
+  },
+  {
+    "num": 306,
+    "title": "Shadow Gem",
+    "file": "chapter306.html"
+  },
+  {
+    "num": 307,
+    "title": "Proof",
+    "file": "chapter307.html"
+  },
+  {
+    "num": 308,
+    "title": "Maiden of Silverlight Lake",
+    "file": "chapter308.html"
+  },
+  {
+    "num": 309,
+    "title": "Letter from the Elven Kingdom",
+    "file": "chapter309.html"
+  },
+  {
+    "num": 310,
+    "title": "Unexpected Changes",
+    "file": "chapter310.html"
+  },
+  {
+    "num": 311,
+    "title": "Shadow Protection",
+    "file": "chapter311.html"
+  },
+  {
+    "num": 312,
+    "title": "The Shadow That Cannot Be Shaken",
+    "file": "chapter312.html"
+  },
+  {
+    "num": 313,
+    "title": "No Way Out",
+    "file": "chapter313.html"
+  },
+  {
+    "num": 314,
+    "title": "A Bizarre Potion",
+    "file": "chapter314.html"
+  },
+  {
+    "num": 315,
+    "title": "Preparing for a New Adventure (Part 1)",
+    "file": "chapter315.html"
+  },
+  {
+    "num": 316,
+    "title": "Preparing for a New Adventure (Part Two)",
+    "file": "chapter316.html"
+  },
+  {
+    "num": 317,
+    "title": "Mutual Harm",
+    "file": "chapter317.html"
+  },
+  {
+    "num": 318,
+    "title": "Stormwind Keep",
+    "file": "chapter318.html"
+  },
+  {
+    "num": 319,
+    "title": "The Second Gift",
+    "file": "chapter319.html"
+  },
+  {
+    "num": 320,
+    "title": "The Place of Beginning and End!",
+    "file": "chapter320.html"
+  },
+  {
+    "num": 321,
+    "title": "Booty Bay",
+    "file": "chapter0321.html"
+  },
+  {
+    "num": 322,
+    "title": "The Sailor's Home",
+    "file": "chapter0322.html"
+  },
+  {
+    "num": 323,
+    "title": "A Fellow Practitioner",
+    "file": "chapter0323.html"
+  },
+  {
+    "num": 324,
+    "title": "The Trade House",
+    "file": "chapter0324.html"
+  },
+  {
+    "num": 325,
+    "title": "The Harpy's Relic",
+    "file": "chapter0325.html"
+  },
+  {
+    "num": 326,
+    "title": "Some Kind of Mushroom",
+    "file": "chapter326.html"
+  },
+  {
+    "num": 327,
+    "title": "Lukongkani",
+    "file": "chapter327.html"
+  },
+  {
+    "num": 328,
+    "title": "Rainforest",
+    "file": "chapter328.html"
+  },
+  {
+    "num": 329,
+    "title": "Wandering Hunter",
+    "file": "chapter329.html"
+  },
+  {
+    "num": 330,
+    "title": "The Witch Doctor's Dwelling",
+    "file": "chapter330.html"
+  },
+  {
+    "num": 331,
+    "title": "A God's Guidance",
+    "file": "chapter331.html"
+  },
+  {
+    "num": 332,
+    "title": "Delivery",
+    "file": "chapter332.html"
+  },
+  {
+    "num": 333,
+    "title": "A Taste of Death",
+    "file": "chapter333.html"
+  },
+  {
+    "num": 334,
+    "title": "Aftermath",
+    "file": "chapter334.html"
+  },
+  {
+    "num": 335,
+    "title": "The Forgotten Monastery",
+    "file": "chapter335.html"
+  },
+  {
+    "num": 336,
+    "title": "The Shadow of the Dark Portal",
+    "file": "chapter336.html"
+  },
+  {
+    "num": 337,
+    "title": "The Mage's Resolve",
+    "file": "chapter337.html"
+  },
+  {
+    "num": 338,
+    "title": "Ancestral Connection",
+    "file": "chapter338.html"
+  },
+  {
+    "num": 339,
+    "title": "An Amateur Archaeology Plan",
+    "file": "chapter339.html"
+  },
+  {
+    "num": 340,
+    "title": "The One Who Got Chased by a Black Dragon",
+    "file": "chapter340.html"
+  },
+  {
+    "num": 341,
+    "title": "Not Much Stronger",
+    "file": "chapter0341.html"
+  },
+  {
+    "num": 342,
+    "title": "Retaliatory Practice",
+    "file": "chapter0342.html"
+  },
+  {
+    "num": 343,
+    "title": "Gorefiend's \"Legacy\"",
+    "file": "chapter0343.html"
+  },
+  {
+    "num": 344,
+    "title": "Alna in the Rain",
+    "file": "chapter0344.html"
+  },
+  {
+    "num": 345,
+    "title": "The Summoning Gathering",
+    "file": "chapter0345.html"
+  },
+  {
+    "num": 346,
+    "title": "What Demons Fear",
+    "file": "chapter346.html"
+  },
+  {
+    "num": 347,
+    "title": "Preparing for the New Journey",
+    "file": "chapter347.html"
+  },
+  {
+    "num": 348,
+    "title": "The Church's Concern",
+    "file": "chapter348.html"
+  },
+  {
+    "num": 349,
+    "title": "The Spell Most Worth Countering",
+    "file": "chapter349.html"
+  },
+  {
+    "num": 350,
+    "title": "The Succubus's First Day of Work",
+    "file": "chapter350.html"
+  },
+  {
+    "num": 351,
+    "title": "The Trail of the Demon Scholar",
+    "file": "chapter351.html"
+  },
+  {
+    "num": 352,
+    "title": "Life Skills",
+    "file": "chapter352.html"
+  },
+  {
+    "num": 353,
+    "title": "Souvenir",
+    "file": "chapter353.html"
+  },
+  {
+    "num": 354,
+    "title": "Direction — the Wetlands",
+    "file": "chapter354.html"
+  },
+  {
+    "num": 355,
+    "title": "Harbor in the Fog",
+    "file": "chapter355.html"
+  },
+  {
+    "num": 356,
+    "title": "Flames in the Deep",
+    "file": "chapter356.html"
+  },
+  {
+    "num": 357,
+    "title": "The Dim Road",
+    "file": "chapter357.html"
+  },
+  {
+    "num": 358,
+    "title": "Wetland Natives",
+    "file": "chapter358.html"
+  },
+  {
+    "num": 359,
+    "title": "Crossing Dun Algaz",
+    "file": "chapter359.html"
+  },
+  {
+    "num": 360,
+    "title": "Thelsamar",
+    "file": "chapter360.html"
+  },
+  {
+    "num": 361,
+    "title": "The Herbalist's Advice",
+    "file": "chapter361.html"
+  },
+  {
+    "num": 362,
+    "title": "Bronzebeard Roast",
+    "file": "chapter362.html"
+  },
+  {
+    "num": 363,
+    "title": "The Old Expedition Member",
+    "file": "chapter363.html"
+  },
+  {
+    "num": 364,
+    "title": "The Prerequisite for Entering the Badlands",
+    "file": "chapter364.html"
+  },
+  {
+    "num": 365,
+    "title": "Lord of the Badlands",
+    "file": "chapter365.html"
+  },
+  {
+    "num": 366,
+    "title": "The Disturbed Earth",
+    "file": "chapter366.html"
+  },
+  {
+    "num": 367,
+    "title": "The Excavation Site",
+    "file": "chapter367.html"
+  },
+  {
+    "num": 368,
+    "title": "The Gate of the Ruins",
+    "file": "chapter368.html"
+  },
+  {
+    "num": 369,
+    "title": "The Troggs",
+    "file": "chapter369.html"
+  },
+  {
+    "num": 370,
+    "title": "An Anomaly on the Stone",
+    "file": "chapter370.html"
+  },
+  {
+    "num": 371,
+    "title": "The Shadow of the Snow Land",
+    "file": "chapter371.html"
+  },
+  {
+    "num": 372,
+    "title": "Trial or Trap?!",
+    "file": "chapter372.html"
+  },
+  {
+    "num": 373,
+    "title": "Underground Siege",
+    "file": "chapter373.html"
+  },
+  {
+    "num": 374,
+    "title": "It Cannot Be Spared",
+    "file": "chapter374.html"
+  },
+  {
+    "num": 375,
+    "title": "Like Waking from a Dream",
+    "file": "chapter375.html"
+  },
+  {
+    "num": 376,
+    "title": "Finally Getting Some Rest",
+    "file": "chapter0376.html"
+  },
+  {
+    "num": 377,
+    "title": "An Alchemy Family",
+    "file": "chapter0377.html"
+  },
+  {
+    "num": 378,
+    "title": "The Day Job Still Has to Go On",
+    "file": "chapter0378.html"
+  },
+  {
+    "num": 379,
+    "title": "A Plan to Investigate Along the Way",
+    "file": "chapter0379.html"
+  },
+  {
+    "num": 380,
+    "title": "A Return to Calm",
+    "file": "chapter0380.html"
+  },
+  {
+    "num": 381,
+    "title": "Moonbrook",
+    "file": "chapter381.html"
+  },
+  {
+    "num": 382,
+    "title": "The Specialty Materials Merchant",
+    "file": "chapter382.html"
+  },
+  {
+    "num": 383,
+    "title": "The Demonologist",
+    "file": "chapter383.html"
+  },
+  {
+    "num": 384,
+    "title": "The Hillside Cabin",
+    "file": "chapter384.html"
+  },
+  {
+    "num": 385,
+    "title": "Lesser Demons and Greater Demons",
+    "file": "chapter385.html"
+  },
+  {
+    "num": 386,
+    "title": "A Dangerous Enterprise",
+    "file": "chapter386.html"
+  },
+  {
+    "num": 387,
+    "title": "Whose Contribution Was Greater?",
+    "file": "chapter387.html"
+  },
+  {
+    "num": 388,
+    "title": "Mosh'aru's Past",
+    "file": "chapter388.html"
+  },
+  {
+    "num": 389,
+    "title": "The New Summoner",
+    "file": "chapter389.html"
+  },
+  {
+    "num": 390,
+    "title": "The Basement Guard",
+    "file": "chapter390.html"
+  },
+  {
+    "num": 391,
+    "title": "Preparing a New Spell",
+    "file": "chapter0391.html"
+  },
+  {
+    "num": 392,
+    "title": "The Dark Master's Legacy",
+    "file": "chapter0392.html"
+  },
+  {
+    "num": 393,
+    "title": "The Key Factor",
+    "file": "chapter0393.html"
+  },
+  {
+    "num": 394,
+    "title": "Extracting a Soul",
+    "file": "chapter0394.html"
+  },
+  {
+    "num": 395,
+    "title": "Finally Some Progress",
+    "file": "chapter0395.html"
+  },
+  {
+    "num": 396,
+    "title": "A New Approach",
+    "file": "chapter396.html"
+  },
+  {
+    "num": 397,
+    "title": "Prelude to the Fire Festival",
+    "file": "chapter397.html"
+  },
+  {
+    "num": 398,
+    "title": "The Storm Gathers",
+    "file": "chapter398.html"
+  },
+  {
+    "num": 399,
+    "title": "A Farewell That Doesn't Count as a Farewell",
+    "file": "chapter399.html"
+  },
+  {
+    "num": 400,
+    "title": "Teleportation",
+    "file": "chapter400.html"
+  },
+  {
+    "num": 401,
+    "title": "Everyone Has Their Use",
+    "file": "chapter401.html"
+  },
+  {
+    "num": 402,
+    "title": "Phantom of the Marsh",
+    "file": "chapter402.html"
+  },
+  {
+    "num": 403,
+    "title": "No Time to Lose",
+    "file": "chapter403.html"
+  },
+  {
+    "num": 404,
+    "title": "Demon Dog-Tamer",
+    "file": "chapter404.html"
+  },
+  {
+    "num": 405,
+    "title": "No Ordinary Mage",
+    "file": "chapter405.html"
+  },
+  {
+    "num": 406,
+    "title": "Meeting a New Teacher",
+    "file": "chapter0406.html"
+  },
+  {
+    "num": 407,
+    "title": "Fireball",
+    "file": "chapter0407.html"
+  },
+  {
+    "num": 408,
+    "title": "Another Chance",
+    "file": "chapter0408.html"
+  },
+  {
+    "num": 409,
+    "title": "A Place That Dies by Degrees",
+    "file": "chapter0409.html"
+  },
+  {
+    "num": 410,
+    "title": "Nethergarde Keep",
+    "file": "chapter0410.html"
+  },
+  {
+    "num": 411,
+    "title": "A Short Rest",
+    "file": "chapter0411.html"
+  },
+  {
+    "num": 412,
+    "title": "Evil from the Sky",
+    "file": "chapter0412.html"
+  },
+  {
+    "num": 413,
+    "title": "Demon Onslaught",
+    "file": "chapter0413.html"
+  },
+  {
+    "num": 414,
+    "title": "The Mine",
+    "file": "chapter0414.html"
+  },
+  {
+    "num": 415,
+    "title": "The Demoness",
+    "file": "chapter0415.html"
+  },
+  {
+    "num": 416,
+    "title": "Bitter Reluctance",
+    "file": "chapter416.html"
+  },
+  {
+    "num": 417,
+    "title": "Officially on the Books",
+    "file": "chapter417.html"
+  },
+  {
+    "num": 418,
+    "title": "The Decision on the Other Side",
+    "file": "chapter418.html"
+  },
+  {
+    "num": 419,
+    "title": "Elves and Dwarves",
+    "file": "chapter419.html"
+  },
+  {
+    "num": 420,
+    "title": "The Worst of It",
+    "file": "chapter420.html"
+  },
+  {
+    "num": 421,
+    "title": "Emergency Departure",
+    "file": "chapter421.html"
+  },
+  {
+    "num": 422,
+    "title": "The Calamity Summoned",
+    "file": "chapter422.html"
+  },
+  {
+    "num": 423,
+    "title": "The Use of the Crystal",
+    "file": "chapter423.html"
+  },
+  {
+    "num": 424,
+    "title": "Battle Mage",
+    "file": "chapter424.html"
+  },
+  {
+    "num": 425,
+    "title": "The Day Has Finally Come",
+    "file": "chapter425.html"
+  },
+  {
+    "num": 426,
+    "title": "The Dark Portal…",
+    "file": "chapter426.html"
+  },
+  {
+    "num": 427,
+    "title": "Overlord",
+    "file": "chapter427.html"
+  },
+  {
+    "num": 428,
+    "title": "The Last Effort",
+    "file": "chapter428.html"
+  },
+  {
+    "num": 429,
+    "title": "Black Destruction!",
+    "file": "chapter429.html"
+  },
+  {
+    "num": 430,
+    "title": "The Savior's Story",
+    "file": "chapter430.html"
+  },
+  {
+    "num": 431,
+    "title": "The Mages",
+    "file": "chapter0431.html"
+  },
+  {
+    "num": 432,
+    "title": "Dawn in the Blasted Lands",
+    "file": "chapter0432.html"
+  },
+  {
+    "num": 433,
+    "title": "Still a Teacher",
+    "file": "chapter0433.html"
+  },
+  {
+    "num": 434,
+    "title": "A New Name",
+    "file": "chapter0434.html"
+  },
+  {
+    "num": 435,
+    "title": "Relic of the Order of Tirisfal",
+    "file": "chapter0435.html"
+  },
+  {
+    "num": 436,
+    "title": "The Artifact's Effect",
+    "file": "chapter0436.html"
+  },
+  {
+    "num": 437,
+    "title": "Activating the Power",
+    "file": "chapter0437.html"
+  },
+  {
+    "num": 438,
+    "title": "Partings Are Inevitable",
+    "file": "chapter0438.html"
+  },
+  {
+    "num": 439,
+    "title": "Returning from Nethergarde",
+    "file": "chapter0439.html"
+  },
+  {
+    "num": 440,
+    "title": "Who Did You Kill?",
+    "file": "chapter0440.html"
+  },
+  {
+    "num": 441,
+    "title": "Pit Lord Slayer",
+    "file": "chapter0441.html"
+  },
+  {
+    "num": 442,
+    "title": "The Golden Conch",
+    "file": "chapter0442.html"
+  },
+  {
+    "num": 443,
+    "title": "The Mysterious Target",
+    "file": "chapter0443.html"
+  },
+  {
+    "num": 444,
+    "title": "You Can't Expect Me to Do This for Free, Can You?",
+    "file": "chapter0444.html"
+  },
+  {
+    "num": 445,
+    "title": "Hillsbrad in Summer",
+    "file": "chapter0445.html"
+  },
+  {
+    "num": 446,
+    "title": "A Dangerous Topic",
+    "file": "chapter446.html"
+  },
+  {
+    "num": 447,
+    "title": "Where Three Kingdoms Meet",
+    "file": "chapter447.html"
+  },
+  {
+    "num": 448,
+    "title": "Return Home",
+    "file": "chapter448.html"
+  },
+  {
+    "num": 449,
+    "title": "The One Who Should Not Have Appeared",
+    "file": "chapter449.html"
+  },
+  {
+    "num": 450,
+    "title": "Pumpkin and Meat Sauce",
+    "file": "chapter450.html"
+  },
+  {
+    "num": 451,
+    "title": "The Kirin Tor's Warning",
+    "file": "chapter0451.html"
+  },
+  {
+    "num": 452,
+    "title": "Parting Comes at Last",
+    "file": "chapter0452.html"
+  },
+  {
+    "num": 453,
+    "title": "The Newcomer in the Basement",
+    "file": "chapter0453.html"
+  },
+  {
+    "num": 454,
+    "title": "Another \"New Member\"",
+    "file": "chapter0454.html"
+  },
+  {
+    "num": 455,
+    "title": "Shadow Council Recipe",
+    "file": "chapter0455.html"
+  },
+  {
+    "num": 456,
+    "title": "The Most Professional Demon Hunter",
+    "file": "chapter0456.html"
+  },
+  {
+    "num": 457,
+    "title": "Names and Their Masters",
+    "file": "chapter0457.html"
+  },
+  {
+    "num": 458,
+    "title": "A Familiar Yet Unfamiliar Magic",
+    "file": "chapter0458.html"
+  },
+  {
+    "num": 459,
+    "title": "The Role of Emotion",
+    "file": "chapter0459.html"
+  },
+  {
+    "num": 460,
+    "title": "The Peculiarity of the Incantation",
+    "file": "chapter0460.html"
+  },
+  {
+    "num": 461,
+    "title": "The Alchemist Who Never Made Money",
+    "file": "chapter0461.html"
+  },
+  {
+    "num": 462,
+    "title": "Human and Elf",
+    "file": "chapter0462.html"
+  },
+  {
+    "num": 463,
+    "title": "The Orcish Robes",
+    "file": "chapter0463.html"
+  },
+  {
+    "num": 464,
+    "title": "Fel Markings",
+    "file": "chapter0464.html"
+  },
+  {
+    "num": 465,
+    "title": "The Reply",
+    "file": "chapter0465.html"
+  },
+  {
+    "num": 466,
+    "title": "The Difficulty of Crafting",
+    "file": "chapter0466.html"
+  },
+  {
+    "num": 467,
+    "title": "The True Shadow Shield",
+    "file": "chapter0467.html"
+  },
+  {
+    "num": 468,
+    "title": "Necrotic Essence",
+    "file": "chapter0468.html"
+  },
+  {
+    "num": 469,
+    "title": "Have to Say Yes No Matter What",
+    "file": "chapter0469.html"
+  },
+  {
+    "num": 470,
+    "title": "The Collector",
+    "file": "chapter0470.html"
+  },
+  {
+    "num": 471,
+    "title": "A Creation from the Other Side",
+    "file": "chapter471.html"
+  },
+  {
+    "num": 472,
+    "title": "The Reliquary's Clue",
+    "file": "chapter472.html"
+  },
+  {
+    "num": 473,
+    "title": "A New Place",
+    "file": "chapter473.html"
+  },
+  {
+    "num": 474,
+    "title": "Preparing for the Scavenging Run",
+    "file": "chapter474.html"
+  },
+  {
+    "num": 475,
+    "title": "Curse of Recklessness",
+    "file": "chapter475.html"
+  },
+  {
+    "num": 476,
+    "title": "The Pleasure-Demon",
+    "file": "chapter476.html"
+  },
+  {
+    "num": 477,
+    "title": "Completing the Summoning Ritual",
+    "file": "chapter477.html"
+  },
+  {
+    "num": 478,
+    "title": "Scavenging Companions",
+    "file": "chapter478.html"
+  },
+  {
+    "num": 479,
+    "title": "The Leader",
+    "file": "chapter479.html"
+  },
+  {
+    "num": 480,
+    "title": "Demon Carcasses",
+    "file": "chapter480.html"
+  },
+  {
+    "num": 481,
+    "title": "More Questions",
+    "file": "chapter481.html"
+  },
+  {
+    "num": 482,
+    "title": "The Fel-Eye",
+    "file": "chapter482.html"
+  },
+  {
+    "num": 483,
+    "title": "In the Horde's Way",
+    "file": "chapter483.html"
+  },
+  {
+    "num": 484,
+    "title": "Demon Killer",
+    "file": "chapter484.html"
+  },
+  {
+    "num": 485,
+    "title": "Ownership of the Spoils",
+    "file": "chapter485.html"
+  },
+  {
+    "num": 486,
+    "title": "The Treasure-Hunting Hound",
+    "file": "chapter486.html"
+  },
+  {
+    "num": 487,
+    "title": "Depths of the Dark Marsh",
+    "file": "chapter487.html"
+  },
+  {
+    "num": 488,
+    "title": "The Corrupted Presence",
+    "file": "chapter488.html"
+  },
+  {
+    "num": 489,
+    "title": "The Withered Forest",
+    "file": "chapter489.html"
+  },
+  {
+    "num": 490,
+    "title": "Generous Rewards",
+    "file": "chapter490.html"
+  },
+  {
+    "num": 491,
+    "title": "Just the Last Materials",
+    "file": "chapter491.html"
+  },
+  {
+    "num": 492,
+    "title": "The Emissary from Quel'Thalas",
+    "file": "chapter492.html"
+  },
+  {
+    "num": 493,
+    "title": "Kalimdor and the Call of Gold",
+    "file": "chapter493.html"
+  },
+  {
+    "num": 494,
+    "title": "Money Is All You Need",
+    "file": "chapter494.html"
+  },
+  {
+    "num": 495,
+    "title": "We'd Have to Meet Eventually",
+    "file": "chapter495.html"
+  },
+  {
+    "num": 496,
+    "title": "What Dwarves and Demons Have in Common",
+    "file": "chapter0496.html"
+  },
+  {
+    "num": 497,
+    "title": "Necrotic Essence Collector, Model 5",
+    "file": "chapter0497.html"
+  },
+  {
+    "num": 498,
+    "title": "The Abandoned Village",
+    "file": "chapter0498.html"
+  },
+  {
+    "num": 499,
+    "title": "The Legend of Medivh",
+    "file": "chapter0499.html"
+  },
+  {
+    "num": 500,
+    "title": "The Gloomy Valley",
+    "file": "chapter0500.html"
+  },
+  {
+    "num": 501,
+    "title": "The Stalker",
+    "file": "chapter501.html"
+  },
+  {
+    "num": 502,
+    "title": "The Right Man for the Job",
+    "file": "chapter502.html"
+  },
+  {
+    "num": 503,
+    "title": "The Difference Between the Game and Here",
+    "file": "chapter503.html"
+  },
+  {
+    "num": 504,
+    "title": "Darkness of the Black Tower",
+    "file": "chapter504.html"
+  },
+  {
+    "num": 505,
+    "title": "An Alley Aberration",
+    "file": "chapter505.html"
+  },
+  {
+    "num": 506,
+    "title": "The Alchemist's Secret",
+    "file": "chapter506.html"
+  },
+  {
+    "num": 507,
+    "title": "New Medicinal Herbs from a Mysterious Continent",
+    "file": "chapter507.html"
+  },
+  {
+    "num": 508,
+    "title": "Elven Tolerance",
+    "file": "chapter508.html"
+  },
+  {
+    "num": 509,
+    "title": "The Void Robe",
+    "file": "chapter509.html"
+  },
+  {
+    "num": 510,
+    "title": "Farewell Stormwind, Once More",
+    "file": "chapter510.html"
+  },
+  {
+    "num": 511,
+    "title": "Starting Point, Ending Point",
+    "file": "chapter0511.html"
+  },
+  {
+    "num": 512,
+    "title": "Everything in This World Has a Price",
+    "file": "chapter0512.html"
+  },
+  {
+    "num": 513,
+    "title": "Elf and Demon",
+    "file": "chapter0513.html"
+  },
+  {
+    "num": 514,
+    "title": "Passage Tickets",
+    "file": "chapter0514.html"
+  },
+  {
+    "num": 515,
+    "title": "Far From Home",
+    "file": "chapter0515.html"
+  },
+  {
+    "num": 516,
+    "title": "The Spell of Death",
+    "file": "chapter516.html"
+  },
+  {
+    "num": 517,
+    "title": "A Cost Both Great and Small",
+    "file": "chapter517.html"
+  },
+  {
+    "num": 518,
+    "title": "Riptide Bay",
+    "file": "chapter518.html"
+  },
+  {
+    "num": 519,
+    "title": "Steamwheedle Port",
+    "file": "chapter519.html"
+  },
+  {
+    "num": 520,
+    "title": "Wasteland and Beasts",
+    "file": "chapter520.html"
+  },
+  {
+    "num": 521,
+    "title": "The Desert City",
+    "file": "chapter521.html"
+  },
+  {
+    "num": 522,
+    "title": "The Tauren of Gadgetzan",
+    "file": "chapter522.html"
+  },
+  {
+    "num": 523,
+    "title": "The Shimmering Flats",
+    "file": "chapter523.html"
+  },
+  {
+    "num": 524,
+    "title": "Into the Needles",
+    "file": "chapter524.html"
+  },
+  {
+    "num": 525,
+    "title": "Hatred of Demons",
+    "file": "chapter525.html"
+  },
+  {
+    "num": 526,
+    "title": "Plain-Spoken",
+    "file": "chapter0526.html"
+  },
+  {
+    "num": 527,
+    "title": "Nature Magic",
+    "file": "chapter0527.html"
+  },
+  {
+    "num": 528,
+    "title": "Deep into the Stone Forest",
+    "file": "chapter0528.html"
+  },
+  {
+    "num": 529,
+    "title": "Meeting on the Narrow Path",
+    "file": "chapter0529.html"
+  },
+  {
+    "num": 530,
+    "title": "Razorfen",
+    "file": "chapter0530.html"
+  },
+  {
+    "num": 531,
+    "title": "The Barrens",
+    "file": "chapter0531.html"
+  },
+  {
+    "num": 532,
+    "title": "More Than One Giant Beast on the Plains",
+    "file": "chapter0532.html"
+  },
+  {
+    "num": 533,
+    "title": "Cooperative Hunting",
+    "file": "chapter0533.html"
+  },
+  {
+    "num": 534,
+    "title": "The Sweetwater Oasis",
+    "file": "chapter0534.html"
+  },
+  {
+    "num": 535,
+    "title": "Rain on the Savanna",
+    "file": "chapter0535.html"
+  },
+  {
+    "num": 536,
+    "title": "A Dangerous Idea",
+    "file": "chapter536.html"
+  },
+  {
+    "num": 537,
+    "title": "The Stonetalon Shrieks",
+    "file": "chapter537.html"
+  },
+  {
+    "num": 538,
+    "title": "Sun Rock Reach",
+    "file": "chapter538.html"
+  },
+  {
+    "num": 539,
+    "title": "The Tauren's Predicament",
+    "file": "chapter539.html"
+  },
+  {
+    "num": 540,
+    "title": "The Invitation",
+    "file": "chapter540.html"
+  },
+  {
+    "num": 541,
+    "title": "Where Souls Go",
+    "file": "chapter0541.html"
+  },
+  {
+    "num": 542,
+    "title": "A Warlock's Companion",
+    "file": "chapter542.html"
+  },
+  {
+    "num": 543,
+    "title": "Desolace",
+    "file": "chapter543.html"
+  },
+  {
+    "num": 544,
+    "title": "The Sacred Valley",
+    "file": "chapter544.html"
+  },
+  {
+    "num": 545,
+    "title": "How to Talk to Centaur",
+    "file": "chapter545.html"
+  },
+  {
+    "num": 546,
+    "title": "The Maraudine Priestess",
+    "file": "chapter546.html"
+  },
+  {
+    "num": 547,
+    "title": "A True Windrunner",
+    "file": "chapter547.html"
+  },
+  {
+    "num": 548,
+    "title": "The Ancestor of Maraudon",
+    "file": "chapter548.html"
+  },
+  {
+    "num": 549,
+    "title": "The Gloomy Tomb",
+    "file": "chapter549.html"
+  },
+  {
+    "num": 550,
+    "title": "The First Clue",
+    "file": "chapter550.html"
+  },
+  {
+    "num": 551,
+    "title": "Enlisting Every Potential Ally",
+    "file": "chapter551.html"
+  },
+  {
+    "num": 552,
+    "title": "Dangerous Life Force",
+    "file": "chapter552.html"
+  },
+  {
+    "num": 553,
+    "title": "Vile'tharn",
+    "file": "chapter553.html"
+  },
+  {
+    "num": 554,
+    "title": "Hunting the Satyr",
+    "file": "chapter554.html"
+  },
+  {
+    "num": 555,
+    "title": "Clash",
+    "file": "chapter555.html"
+  },
+  {
+    "num": 556,
+    "title": "No Way We're Wasting the Loot",
+    "file": "chapter556.html"
+  },
+  {
+    "num": 557,
+    "title": "The Satyr's Plan",
+    "file": "chapter557.html"
+  },
+  {
+    "num": 558,
+    "title": "The Demon Statue",
+    "file": "chapter558.html"
+  },
+  {
+    "num": 559,
+    "title": "Who Is the True Master of Maraudon",
+    "file": "chapter559.html"
+  },
+  {
+    "num": 560,
+    "title": "The Mad Cavern",
+    "file": "chapter560.html"
+  },
+  {
+    "num": 561,
+    "title": "The Essential Spell",
+    "file": "chapter561.html"
+  },
+  {
+    "num": 562,
+    "title": "Earth-Song Falls",
+    "file": "chapter562.html"
+  },
+  {
+    "num": 563,
+    "title": "The Burrowing Leviathan",
+    "file": "chapter563.html"
+  },
+  {
+    "num": 564,
+    "title": "The Princess",
+    "file": "chapter564.html"
+  },
+  {
+    "num": 565,
+    "title": "The Goddess's Invitation",
+    "file": "chapter565.html"
+  },
+  {
+    "num": 566,
+    "title": "Lord of the Elements",
+    "file": "chapter566.html"
+  },
+  {
+    "num": 567,
+    "title": "A Legendary Hunter's Great Dream",
+    "file": "chapter567.html"
+  },
+  {
+    "num": 568,
+    "title": "The Journey Ahead",
+    "file": "chapter568.html"
+  },
+  {
+    "num": 569,
+    "title": "The Coast of Desolace",
+    "file": "chapter569.html"
+  },
+  {
+    "num": 570,
+    "title": "Emissary of the Forest",
+    "file": "chapter570.html"
+  },
+  {
+    "num": 571,
+    "title": "Scion of Cenarius",
+    "file": "chapter0571.html"
+  },
+  {
+    "num": 572,
+    "title": "A Fellow Hunter, or an Enemy?",
+    "file": "chapter0572.html"
+  },
+  {
+    "num": 573,
+    "title": "The Culprits Who Stirred Up the Sacred Land",
+    "file": "chapter0573.html"
+  },
+  {
+    "num": 574,
+    "title": "The Summoning Motive",
+    "file": "chapter0574.html"
+  },
+  {
+    "num": 575,
+    "title": "The Ranger-Captain's Competitive Streak",
+    "file": "chapter0575.html"
+  },
+  {
+    "num": 576,
+    "title": "Fishing",
+    "file": "chapter0576.html"
+  },
+  {
+    "num": 577,
+    "title": "The Mantis Stalking the Cicada",
+    "file": "chapter0577.html"
+  },
+  {
+    "num": 578,
+    "title": "The Half-Orc",
+    "file": "chapter0578.html"
+  },
+  {
+    "num": 579,
+    "title": "A Feasible Plan to Infiltrate the Ancient City",
+    "file": "chapter0579.html"
+  },
+  {
+    "num": 580,
+    "title": "Feathermoon Stronghold",
+    "file": "chapter0580.html"
+  },
+  {
+    "num": 581,
+    "title": "The Sentinel Commander",
+    "file": "chapter581.html"
+  },
+  {
+    "num": 582,
+    "title": "The Missing Shen'dralar",
+    "file": "chapter582.html"
+  },
+  {
+    "num": 583,
+    "title": "Nothing Is Eternal",
+    "file": "chapter583.html"
+  },
+  {
+    "num": 584,
+    "title": "Feathermoon Stronghold's Thanks",
+    "file": "chapter584.html"
+  },
+  {
+    "num": 585,
+    "title": "The Shifting Sands Crisis",
+    "file": "chapter585.html"
+  },
+  {
+    "num": 586,
+    "title": "The Brink of Mana Depletion",
+    "file": "chapter0586.html"
+  },
+  {
+    "num": 587,
+    "title": "A Demon's Torment",
+    "file": "chapter0587.html"
+  },
+  {
+    "num": 588,
+    "title": "The Ancient Wall",
+    "file": "chapter0588.html"
+  },
+  {
+    "num": 589,
+    "title": "Eldre'Thalas",
+    "file": "chapter0589.html"
+  },
+  {
+    "num": 590,
+    "title": "Into the Ancient City",
+    "file": "chapter0590.html"
+  },
+  {
+    "num": 591,
+    "title": "The Arena Square",
+    "file": "chapter0591.html"
+  },
+  {
+    "num": 592,
+    "title": "Dire Maul East",
+    "file": "chapter0592.html"
+  },
+  {
+    "num": 593,
+    "title": "The Malicious Garden",
+    "file": "chapter0593.html"
+  },
+  {
+    "num": 594,
+    "title": "The Last Warden",
+    "file": "chapter0594.html"
+  },
+  {
+    "num": 595,
+    "title": "A Difficult Conversation",
+    "file": "chapter0595.html"
+  },
+  {
+    "num": 596,
+    "title": "The Demon Corridor",
+    "file": "chapter0596.html"
+  },
+  {
+    "num": 597,
+    "title": "The Fel-Blood Chamber",
+    "file": "chapter0597.html"
+  },
+  {
+    "num": 598,
+    "title": "The Prisoner",
+    "file": "chapter0598.html"
+  },
+  {
+    "num": 599,
+    "title": "Infinite Mana",
+    "file": "chapter0599.html"
+  },
+  {
+    "num": 600,
+    "title": "The Legion's Loyal Servant",
+    "file": "chapter0600.html"
+  },
+  {
+    "num": 601,
+    "title": "Answering Your Call",
+    "file": "chapter0601.html"
+  },
+  {
+    "num": 602,
+    "title": "Remnants of the Burning Legion",
+    "file": "chapter0602.html"
+  },
+  {
+    "num": 603,
+    "title": "Necromancer?",
+    "file": "chapter0603.html"
+  },
+  {
+    "num": 604,
+    "title": "Converging Paths",
+    "file": "chapter0604.html"
+  },
+  {
+    "num": 605,
+    "title": "That's Settled",
+    "file": "chapter0605.html"
+  },
+  {
+    "num": 606,
+    "title": "Enslaving Demons",
+    "file": "chapter606.html"
+  },
+  {
+    "num": 607,
+    "title": "Ominous Fury",
+    "file": "chapter607.html"
+  },
+  {
+    "num": 608,
+    "title": "The Tardy Hunter",
+    "file": "chapter608.html"
+  },
+  {
+    "num": 609,
+    "title": "Forest Elf",
+    "file": "chapter609.html"
+  },
+  {
+    "num": 610,
+    "title": "Fishing",
+    "file": "chapter610.html"
+  },
+  {
+    "num": 611,
+    "title": "The Spread of the Silithid",
+    "file": "chapter0611.html"
+  },
+  {
+    "num": 612,
+    "title": "Seeing Them Off",
+    "file": "chapter0612.html"
+  },
+  {
+    "num": 613,
+    "title": "New Realizations",
+    "file": "chapter0613.html"
+  },
+  {
+    "num": 614,
+    "title": "Farewell to the West",
+    "file": "chapter0614.html"
+  },
+  {
+    "num": 615,
+    "title": "Farewell at Booty Bay",
+    "file": "chapter0615.html"
+  },
+  {
+    "num": 616,
+    "title": "Back to a Familiar Place",
+    "file": "chapter616.html"
+  },
+  {
+    "num": 617,
+    "title": "Secret Potion?",
+    "file": "chapter617.html"
+  },
+  {
+    "num": 618,
+    "title": "The Gnome and the Watch",
+    "file": "chapter618.html"
+  },
+  {
+    "num": 619,
+    "title": "Everything as Usual, Yet Not Quite",
+    "file": "chapter619.html"
+  },
+  {
+    "num": 620,
+    "title": "The Master's Demon Runes",
+    "file": "chapter620.html"
+  },
+  {
+    "num": 621,
+    "title": "Vilethorn's Shadow Sigils",
+    "file": "chapter0621.html"
+  },
+  {
+    "num": 622,
+    "title": "For Love, or for Power",
+    "file": "chapter0622.html"
+  },
+  {
+    "num": 623,
+    "title": "The Stormwind Registry",
+    "file": "chapter0623.html"
+  },
+  {
+    "num": 624,
+    "title": "A Warlock's Lie",
+    "file": "chapter0624.html"
+  },
+  {
+    "num": 625,
+    "title": "The Timeless Pact",
+    "file": "chapter0625.html"
+  },
+  {
+    "num": 626,
+    "title": "The Demon Skull",
+    "file": "chapter0626.html"
+  },
+  {
+    "num": 627,
+    "title": "This Is the One",
+    "file": "chapter627.html"
+  },
+  {
+    "num": 628,
+    "title": "The Reward",
+    "file": "chapter628.html"
+  },
+  {
+    "num": 629,
+    "title": "The Mundanity of Life",
+    "file": "chapter629.html"
+  },
+  {
+    "num": 630,
+    "title": "The Red Dragon",
+    "file": "chapter630.html"
+  },
+  {
+    "num": 631,
+    "title": "Quel'Thalas",
+    "file": "chapter631.html"
+  },
+  {
+    "num": 632,
+    "title": "Until the End of the World",
+    "file": "chapter0632.html"
+  },
+  {
+    "num": 633,
+    "title": "A Strange Orb",
+    "file": "chapter0633.html"
+  },
+  {
+    "num": 634,
+    "title": "This Time, He Goes Alone",
+    "file": "chapter0634.html"
+  },
+  {
+    "num": 635,
+    "title": "Routine Preparations",
+    "file": "chapter0635.html"
+  },
+  {
+    "num": 636,
+    "title": "The World Has Moved On",
+    "file": "chapter636.html"
+  },
+  {
+    "num": 637,
+    "title": "The Crux",
+    "file": "chapter637.html"
+  },
+  {
+    "num": 638,
+    "title": "The Wetlands, Once More",
+    "file": "chapter638.html"
+  },
+  {
+    "num": 639,
+    "title": "Don't Know, Don't Care",
+    "file": "chapter639.html"
+  },
+  {
+    "num": 640,
+    "title": "No Escape",
+    "file": "chapter640.html"
+  },
+  {
+    "num": 641,
+    "title": "Another Debt",
+    "file": "chapter0641.html"
+  },
+  {
+    "num": 642,
+    "title": "Drifting Off Course",
+    "file": "chapter0642.html"
+  },
+  {
+    "num": 643,
+    "title": "The End of an Unknown Journey",
+    "file": "chapter0643.html"
+  },
+  {
+    "num": 644,
+    "title": "An Orc — and a Proper One at That!",
+    "file": "chapter0644.html"
+  },
+  {
+    "num": 645,
+    "title": "Remnants of the Battlefield",
+    "file": "chapter0645.html"
+  },
+  {
+    "num": 646,
+    "title": "Viscous Darkness",
+    "file": "chapter0646.html"
+  },
+  {
+    "num": 647,
+    "title": "A Convenient Identity",
+    "file": "chapter0647.html"
+  },
+  {
+    "num": 648,
+    "title": "Tol'rona",
+    "file": "chapter0648.html"
+  },
+  {
+    "num": 649,
+    "title": "The Cage",
+    "file": "chapter0649.html"
+  },
+  {
+    "num": 650,
+    "title": "The Narrowing Path",
+    "file": "chapter0650.html"
+  },
+  {
+    "num": 651,
+    "title": "Five",
+    "file": "chapter0651.html"
+  },
+  {
+    "num": 652,
+    "title": "Grim Batol",
+    "file": "chapter0652.html"
+  },
+  {
+    "num": 653,
+    "title": "The Dragonmaw Warlord",
+    "file": "chapter0653.html"
+  },
+  {
+    "num": 654,
+    "title": "The Black Dragon and Blackrock Spire",
+    "file": "chapter0654.html"
+  },
+  {
+    "num": 655,
+    "title": "Shaking Your Resolve",
+    "file": "chapter0655.html"
+  },
+  {
+    "num": 656,
+    "title": "The Missing Orcs",
+    "file": "chapter656.html"
+  },
+  {
+    "num": 657,
+    "title": "The Dragonmaw Clan's Trump Card",
+    "file": "chapter657.html"
+  },
+  {
+    "num": 658,
+    "title": "Taming Dragons",
+    "file": "chapter658.html"
+  },
+  {
+    "num": 659,
+    "title": "The Life-Binder",
+    "file": "chapter659.html"
+  },
+  {
+    "num": 660,
+    "title": "The Disaster of Grim Batol",
+    "file": "chapter660.html"
+  },
+  {
+    "num": 661,
+    "title": "The Sun in the Night",
+    "file": "chapter661.html"
+  },
+  {
+    "num": 662,
+    "title": "The Struggle of Shadow",
+    "file": "chapter662.html"
+  },
+  {
+    "num": 663,
+    "title": "The Demon Soul",
+    "file": "chapter663.html"
+  },
+  {
+    "num": 664,
+    "title": "The Wounded Earth",
+    "file": "chapter664.html"
+  },
+  {
+    "num": 665,
+    "title": "The Most Important Promise",
+    "file": "chapter665.html"
+  },
+  {
+    "num": 666,
+    "title": "Signs at Banthor Mountain",
+    "file": "chapter666.html"
+  },
+  {
+    "num": 667,
+    "title": "The Algaz Specialty",
+    "file": "chapter667.html"
+  },
+  {
+    "num": 668,
+    "title": "Starlight on the Loch",
+    "file": "chapter668.html"
+  },
+  {
+    "num": 669,
+    "title": "The Plan to Go Home",
+    "file": "chapter669.html"
+  },
+  {
+    "num": 670,
+    "title": "A Total Loss",
+    "file": "chapter670.html"
+  },
+  {
+    "num": 671,
+    "title": "Return to the Basement",
+    "file": "chapter671.html"
+  },
+  {
+    "num": 672,
+    "title": "A Northerner's Trouble",
+    "file": "chapter672.html"
+  },
+  {
+    "num": 673,
+    "title": "The Fire Elemental's Enthusiasm",
+    "file": "chapter673.html"
+  },
+  {
+    "num": 674,
+    "title": "Effects Beyond the Flame",
+    "file": "chapter674.html"
+  },
+  {
+    "num": 675,
+    "title": "Different Ways of Achieving It",
+    "file": "chapter675.html"
+  },
+  {
+    "num": 676,
+    "title": "The Chain of Will",
+    "file": "chapter0676.html"
+  },
+  {
+    "num": 677,
+    "title": "The Master's Power Is Always the Best",
+    "file": "chapter0677.html"
+  },
+  {
+    "num": 678,
+    "title": "News from Ironforge",
+    "file": "chapter0678.html"
+  },
+  {
+    "num": 679,
+    "title": "A Proposal",
+    "file": "chapter0679.html"
+  },
+  {
+    "num": 680,
+    "title": "In the Name of a Test Flight",
+    "file": "chapter0680.html"
+  },
+  {
+    "num": 681,
+    "title": "Ilgalar Tower",
+    "file": "chapter0681.html"
+  },
+  {
+    "num": 682,
+    "title": "Shadowfury",
+    "file": "chapter0682.html"
+  },
+  {
+    "num": 683,
+    "title": "For the Dagger Society",
+    "file": "chapter0683.html"
+  },
+  {
+    "num": 684,
+    "title": "A Winter's Journey",
+    "file": "chapter0684.html"
+  },
+  {
+    "num": 685,
+    "title": "The Violet Citadel",
+    "file": "chapter0685.html"
+  },
+  {
+    "num": 686,
+    "title": "The Red Dragon Emissary",
+    "file": "chapter686.html"
+  },
+  {
+    "num": 687,
+    "title": "Real or Fake?",
+    "file": "chapter687.html"
+  },
+  {
+    "num": 688,
+    "title": "The Magic Inn",
+    "file": "chapter688.html"
+  },
+  {
+    "num": 689,
+    "title": "The Magister in the Library",
+    "file": "chapter689.html"
+  },
+  {
+    "num": 690,
+    "title": "A Future Traitor",
+    "file": "chapter690.html"
+  },
+  {
+    "num": 691,
+    "title": "Visiting the Lady Mage",
+    "file": "chapter0691.html"
+  },
+  {
+    "num": 692,
+    "title": "An Incantation Best Not Learned",
+    "file": "chapter0692.html"
+  },
+  {
+    "num": 693,
+    "title": "Meeting the Parents",
+    "file": "chapter0693.html"
+  },
+  {
+    "num": 694,
+    "title": "A Mother's Wish",
+    "file": "chapter0694.html"
+  },
+  {
+    "num": 695,
+    "title": "The Throne of Lordaeron",
+    "file": "chapter0695.html"
+  },
+  {
+    "num": 696,
+    "title": "The Boon",
+    "file": "chapter0696.html"
+  },
+  {
+    "num": 697,
+    "title": "Return to Its Rightful Owner",
+    "file": "chapter0697.html"
+  },
+  {
+    "num": 698,
+    "title": "Return to Dalaran",
+    "file": "chapter0698.html"
+  },
+  {
+    "num": 699,
+    "title": "Another Visit to the Library",
+    "file": "chapter0699.html"
+  },
+  {
+    "num": 700,
+    "title": "The Magister's Objective",
+    "file": "chapter0700.html"
+  },
+  {
+    "num": 701,
+    "title": "The Dragonhawk Journey",
+    "file": "chapter701.html"
+  },
+  {
+    "num": 702,
+    "title": "The Gate of Magic",
+    "file": "chapter702.html"
+  },
+  {
+    "num": 703,
+    "title": "Windrunner Village",
+    "file": "chapter703.html"
+  },
+  {
+    "num": 704,
+    "title": "A Sort of Familiar Ground",
+    "file": "chapter704.html"
+  },
+  {
+    "num": 705,
+    "title": "Farstrider Retreat",
+    "file": "chapter705.html"
+  },
+  {
+    "num": 706,
+    "title": "The Importance of Language",
+    "file": "chapter0706.html"
+  },
+  {
+    "num": 707,
+    "title": "What It Meant to the Elven Kingdom",
+    "file": "chapter0707.html"
+  },
+  {
+    "num": 708,
+    "title": "Silvermoon",
+    "file": "chapter0708.html"
+  },
+  {
+    "num": 709,
+    "title": "A Clear Lead",
+    "file": "chapter0709.html"
+  },
+  {
+    "num": 710,
+    "title": "Parting at Quel'Lin",
+    "file": "chapter0710.html"
+  },
+  {
+    "num": 711,
+    "title": "Andorhal",
+    "file": "chapter0711.html"
+  },
+  {
+    "num": 712,
+    "title": "The Shapeshifting Demon",
+    "file": "chapter0712.html"
+  },
+  {
+    "num": 713,
+    "title": "Thunder Peak",
+    "file": "chapter0713.html"
+  },
+  {
+    "num": 714,
+    "title": "Marin's Suspicions",
+    "file": "chapter0714.html"
+  },
+  {
+    "num": 715,
+    "title": "Moving Forward",
+    "file": "chapter0715.html"
+  },
+  {
+    "num": 716,
+    "title": "Shadowsteps in the Woods",
+    "file": "chapter716.html"
+  },
+  {
+    "num": 717,
+    "title": "A Lord?",
+    "file": "chapter717.html"
+  },
+  {
+    "num": 718,
+    "title": "The Likely Summoning Target",
+    "file": "chapter718.html"
+  },
+  {
+    "num": 719,
+    "title": "Ample and Reliable Summoning Preparations",
+    "file": "chapter719.html"
+  },
+  {
+    "num": 720,
+    "title": "Making His Own Preparations",
+    "file": "chapter720.html"
+  },
+  {
+    "num": 721,
+    "title": "A Mixed Bag",
+    "file": "chapter721.html"
+  },
+  {
+    "num": 722,
+    "title": "A Suspicious Name",
+    "file": "chapter722.html"
+  },
+  {
+    "num": 723,
+    "title": "The Storm Altar",
+    "file": "chapter723.html"
+  },
+  {
+    "num": 724,
+    "title": "Dath'morar's Master",
+    "file": "chapter724.html"
+  },
+  {
+    "num": 725,
+    "title": "As Expected...",
+    "file": "chapter725.html"
+  },
+  {
+    "num": 726,
+    "title": "Something Goes Wrong",
+    "file": "chapter0726.html"
+  },
+  {
+    "num": 727,
+    "title": "Demonic Profanity",
+    "file": "chapter0727.html"
+  },
+  {
+    "num": 728,
+    "title": "Forced to Betray",
+    "file": "chapter0728.html"
+  },
+  {
+    "num": 729,
+    "title": "More or Less an Agreement",
+    "file": "chapter0729.html"
+  },
+  {
+    "num": 730,
+    "title": "A Clue, or an Command?",
+    "file": "chapter0730.html"
+  },
+  {
+    "num": 731,
+    "title": "The Warlocks' Hidden Hideout",
+    "file": "chapter0731.html"
+  },
+  {
+    "num": 732,
+    "title": "Return to Stonewatch",
+    "file": "chapter0732.html"
+  },
+  {
+    "num": 733,
+    "title": "The Mage Tower's Power Source",
+    "file": "chapter0733.html"
+  },
+  {
+    "num": 734,
+    "title": "The Assault",
+    "file": "chapter0734.html"
+  },
+  {
+    "num": 735,
+    "title": "Fighting Darkness with Darkness",
+    "file": "chapter0735.html"
+  },
+  {
+    "num": 736,
+    "title": "All Mine",
+    "file": "chapter736.html"
+  },
+  {
+    "num": 737,
+    "title": "The Letter",
+    "file": "chapter737.html"
+  },
+  {
+    "num": 738,
+    "title": "Unexpected News",
+    "file": "chapter738.html"
+  },
+  {
+    "num": 739,
+    "title": "A Firmer Pact",
+    "file": "chapter739.html"
+  },
+  {
+    "num": 740,
+    "title": "Know Your Own True Desire",
+    "file": "chapter740.html"
+  },
+  {
+    "num": 741,
+    "title": "Kartzel's Confidence",
+    "file": "chapter0741.html"
+  },
+  {
+    "num": 742,
+    "title": "The Demonologist's Incantations",
+    "file": "chapter0742.html"
+  },
+  {
+    "num": 743,
+    "title": "Pronouncing Like a Demon",
+    "file": "chapter0743.html"
+  },
+  {
+    "num": 744,
+    "title": "Turning a Curse into an Enhancement",
+    "file": "chapter0744.html"
+  },
+  {
+    "num": 745,
+    "title": "Spells and Evil Power",
+    "file": "chapter0745.html"
+  },
+  {
+    "num": 746,
+    "title": "Attempting to Unbind",
+    "file": "chapter746.html"
+  },
+  {
+    "num": 747,
+    "title": "The Voice of Souls",
+    "file": "chapter747.html"
+  },
+  {
+    "num": 748,
+    "title": "Reasonable Conjecture",
+    "file": "chapter748.html"
+  },
+  {
+    "num": 749,
+    "title": "Cripple",
+    "file": "chapter749.html"
+  },
+  {
+    "num": 750,
+    "title": "Magic Demonstration",
+    "file": "chapter750.html"
+  },
+  {
+    "num": 751,
+    "title": "The Advisor's Duties",
+    "file": "chapter0751.html"
+  },
+  {
+    "num": 752,
+    "title": "All Kinds of Trouble",
+    "file": "chapter0752.html"
+  },
+  {
+    "num": 753,
+    "title": "News of the Burning Legion",
+    "file": "chapter0753.html"
+  },
+  {
+    "num": 754,
+    "title": "Future Itinerary",
+    "file": "chapter0754.html"
+  },
+  {
+    "num": 755,
+    "title": "A Viable, Dangerous Idea",
+    "file": "chapter0755.html"
+  },
+  {
+    "num": 756,
+    "title": "Galders' Trust",
+    "file": "chapter0756.html"
+  },
+  {
+    "num": 757,
+    "title": "Obsidian Fragments",
+    "file": "chapter0757.html"
+  },
+  {
+    "num": 758,
+    "title": "Fighting Poison with Poison",
+    "file": "chapter0758.html"
+  },
+  {
+    "num": 759,
+    "title": "The Kirin Tor's Investigation",
+    "file": "chapter0759.html"
+  },
+  {
+    "num": 760,
+    "title": "The Archmage's Solution",
+    "file": "chapter0760.html"
+  },
+  {
+    "num": 761,
+    "title": "Dark Iron Traitors",
+    "file": "chapter761.html"
+  },
+  {
+    "num": 762,
+    "title": "Trip to Goldshire",
+    "file": "chapter762.html"
+  },
+  {
+    "num": 763,
+    "title": "SI:7 and Dark Magic",
+    "file": "chapter763.html"
+  },
+  {
+    "num": 764,
+    "title": "A Special Cooperation",
+    "file": "chapter764.html"
+  },
+  {
+    "num": 765,
+    "title": "Safe and Controllable",
+    "file": "chapter765.html"
+  },
+  {
+    "num": 766,
+    "title": "An Agreement with the Dagger Society",
+    "file": "chapter0766.html"
+  },
+  {
+    "num": 767,
+    "title": "Half-Blood",
+    "file": "chapter0767.html"
+  },
+  {
+    "num": 768,
+    "title": "Reliable Magical Discernment",
+    "file": "chapter0768.html"
+  },
+  {
+    "num": 769,
+    "title": "A Long-Awaited Gathering",
+    "file": "chapter0769.html"
+  },
+  {
+    "num": 770,
+    "title": "Hot Blood",
+    "file": "chapter0770.html"
+  },
+  {
+    "num": 771,
+    "title": "Time to Start Saving Again",
+    "file": "chapter771.html"
+  },
+  {
+    "num": 772,
+    "title": "The Way to Ironforge",
+    "file": "chapter772.html"
+  },
+  {
+    "num": 773,
+    "title": "Not Like a First-Timer",
+    "file": "chapter773.html"
+  },
+  {
+    "num": 774,
+    "title": "Through the Depths",
+    "file": "chapter774.html"
+  },
+  {
+    "num": 775,
+    "title": "Ironforge",
+    "file": "chapter775.html"
+  },
+  {
+    "num": 776,
+    "title": "Renowned Across the Three Hammers",
+    "file": "chapter0776.html"
+  },
+  {
+    "num": 777,
+    "title": "A Lead on the Legendary Crocodile",
+    "file": "chapter0777.html"
+  },
+  {
+    "num": 778,
+    "title": "All a Misunderstanding",
+    "file": "chapter0778.html"
+  },
+  {
+    "num": 779,
+    "title": "What a Warlock Can Offer",
+    "file": "chapter0779.html"
+  },
+  {
+    "num": 780,
+    "title": "Replacing the Minion",
+    "file": "chapter0780.html"
+  },
+  {
+    "num": 781,
+    "title": "Completing the Pact Alone",
+    "file": "chapter0781.html"
+  },
+  {
+    "num": 782,
+    "title": "The Path of Flame",
+    "file": "chapter0782.html"
+  },
+  {
+    "num": 783,
+    "title": "The Difference Between Elements and the Arcane",
+    "file": "chapter0783.html"
+  },
+  {
+    "num": 784,
+    "title": "The Wrath of Flame",
+    "file": "chapter0784.html"
+  },
+  {
+    "num": 785,
+    "title": "The Sword's Master",
+    "file": "chapter0785.html"
+  },
+  {
+    "num": 786,
+    "title": "The Dark Iron Among the Bronzebeards",
+    "file": "chapter0786.html"
+  },
+  {
+    "num": 787,
+    "title": "A Simple Agreement",
+    "file": "chapter0787.html"
+  },
+  {
+    "num": 788,
+    "title": "Sworn to Protect",
+    "file": "chapter0788.html"
+  },
+  {
+    "num": 789,
+    "title": "Movements on the Other Side",
+    "file": "chapter0789.html"
+  },
+  {
+    "num": 790,
+    "title": "Worth Protecting",
+    "file": "chapter0790.html"
+  },
+  {
+    "num": 791,
+    "title": "Attempting the Summoning Ritual",
+    "file": "chapter0791.html"
+  },
+  {
+    "num": 792,
+    "title": "Getting the Servants Deeply Involved",
+    "file": "chapter0792.html"
+  },
+  {
+    "num": 793,
+    "title": "The Power of Neltharion",
+    "file": "chapter0793.html"
+  },
+  {
+    "num": 794,
+    "title": "Arrangements Before Departure",
+    "file": "chapter0794.html"
+  },
+  {
+    "num": 795,
+    "title": "Possible Trouble",
+    "file": "chapter0795.html"
+  },
+  {
+    "num": 796,
+    "title": "Cold Danger",
+    "file": "chapter796.html"
+  },
+  {
+    "num": 797,
+    "title": "Smooth Sailing, No Matter What",
+    "file": "chapter797.html"
+  },
+  {
+    "num": 798,
+    "title": "Approaching from the Sky",
+    "file": "chapter798.html"
+  },
+  {
+    "num": 799,
+    "title": "Another Way to See Ghosts",
+    "file": "chapter0799.html"
+  },
+  {
+    "num": 800,
+    "title": "Just Don't Think About It",
+    "file": "chapter0800.html"
+  },
+  {
+    "num": 801,
+    "title": "An Unusual Customer",
+    "file": "chapter0801.html"
+  },
+  {
+    "num": 802,
+    "title": "Protection Too Much to Bear",
+    "file": "chapter0802.html"
+  },
+  {
+    "num": 803,
+    "title": "Setting Sail, the Second Journey to Kalimdor",
+    "file": "chapter0803.html"
+  },
+  {
+    "num": 804,
+    "title": "The Eredar's Game",
+    "file": "chapter0804.html"
+  },
+  {
+    "num": 805,
+    "title": "Fire Elementals at Sea",
+    "file": "chapter0805.html"
+  },
+  {
+    "num": 806,
+    "title": "Rumors of a Female Druid",
+    "file": "chapter806.html"
+  },
+  {
+    "num": 807,
+    "title": "Fare Evasion Is Getting Harder and Harder",
+    "file": "chapter807.html"
+  },
+  {
+    "num": 808,
+    "title": "The Boss of Gadgetzan",
+    "file": "chapter808.html"
+  },
+  {
+    "num": 809,
+    "title": "The Sharkbite",
+    "file": "chapter809.html"
+  },
+  {
+    "num": 810,
+    "title": "Displaying True Power!",
+    "file": "chapter810.html"
+  },
+  {
+    "num": 811,
+    "title": "Out of the Storm",
+    "file": "chapter0811.html"
+  },
+  {
+    "num": 812,
+    "title": "One Thing After Another",
+    "file": "chapter0812.html"
+  },
+  {
+    "num": 813,
+    "title": "Who Breaks First?",
+    "file": "chapter0813.html"
+  },
+  {
+    "num": 814,
+    "title": "The Marsh in Flames",
+    "file": "chapter0814.html"
+  },
+  {
+    "num": 815,
+    "title": "The Black Dragon's Target",
+    "file": "chapter0815.html"
+  },
+  {
+    "num": 816,
+    "title": "The Opponent We Expected",
+    "file": "chapter0816.html"
+  },
+  {
+    "num": 817,
+    "title": "Dragonkin News",
+    "file": "chapter0817.html"
+  },
+  {
+    "num": 818,
+    "title": "Bremmugo",
+    "file": "chapter0818.html"
+  },
+  {
+    "num": 819,
+    "title": "A Gift from the Dream",
+    "file": "chapter0819.html"
+  },
+  {
+    "num": 820,
+    "title": "The Hermit",
+    "file": "chapter0820.html"
+  },
+  {
+    "num": 821,
+    "title": "The Impenetrable Thicket",
+    "file": "chapter821.html"
+  },
+  {
+    "num": 822,
+    "title": "May the Wind Guide Your Path",
+    "file": "chapter822.html"
+  },
+  {
+    "num": 823,
+    "title": "The Tauren's Potential Allies",
+    "file": "chapter823.html"
+  },
+  {
+    "num": 824,
+    "title": "The Red Mountains",
+    "file": "chapter824.html"
+  },
+  {
+    "num": 825,
+    "title": "The Guardian of Ashenvale",
+    "file": "chapter825.html"
+  },
+  {
+    "num": 826,
+    "title": "The Dragon Slayer's Renown",
+    "file": "chapter826.html"
+  },
+  {
+    "num": 827,
+    "title": "Silverwing Garrison",
+    "file": "chapter827.html"
+  },
+  {
+    "num": 828,
+    "title": "Missing in Ashenvale",
+    "file": "chapter828.html"
+  },
+  {
+    "num": 829,
+    "title": "Onward to the North",
+    "file": "chapter829.html"
+  },
+  {
+    "num": 830,
+    "title": "Unwarranted Hostility",
+    "file": "chapter830.html"
+  },
+  {
+    "num": 831,
+    "title": "The Timbermaw Homestead",
+    "file": "chapter831.html"
+  },
+  {
+    "num": 832,
+    "title": "A Suspicious Traveler",
+    "file": "chapter832.html"
+  },
+  {
+    "num": 833,
+    "title": "The Anomaly in Winterspring",
+    "file": "chapter833.html"
+  },
+  {
+    "num": 834,
+    "title": "Cold Bloodline",
+    "file": "chapter834.html"
+  },
+  {
+    "num": 835,
+    "title": "Ruler of the Snowy Mountains",
+    "file": "chapter835.html"
+  },
+  {
+    "num": 836,
+    "title": "Everlook",
+    "file": "chapter836.html"
+  },
+  {
+    "num": 837,
+    "title": "No Ordinary Mercenaries",
+    "file": "chapter837.html"
+  },
+  {
+    "num": 838,
+    "title": "The Druid's Goal",
+    "file": "chapter838.html"
+  },
+  {
+    "num": 839,
+    "title": "Evil in the Snowy Mountains",
+    "file": "chapter0839.html"
+  },
+  {
+    "num": 840,
+    "title": "A Flying Shadow",
+    "file": "chapter0840.html"
+  },
+  {
+    "num": 841,
+    "title": "Source of Savagery",
+    "file": "chapter841.html"
+  },
+  {
+    "num": 842,
+    "title": "Traces of Corruption",
+    "file": "chapter842.html"
+  },
+  {
+    "num": 843,
+    "title": "Den of the Fallen",
+    "file": "chapter843.html"
+  },
+  {
+    "num": 844,
+    "title": "Still a Green Dragon After All",
+    "file": "chapter844.html"
+  },
+  {
+    "num": 845,
+    "title": "Origin of the Relic",
+    "file": "chapter845.html"
+  },
+  {
+    "num": 846,
+    "title": "Fleeing from the Nightmare",
+    "file": "chapter846.html"
+  },
+  {
+    "num": 847,
+    "title": "The Ice Lake of Kaithrill",
+    "file": "chapter847.html"
+  },
+  {
+    "num": 848,
+    "title": "Ancient Spirits",
+    "file": "chapter848.html"
+  },
+  {
+    "num": 849,
+    "title": "The Blurred Boundary",
+    "file": "chapter849.html"
+  },
+  {
+    "num": 850,
+    "title": "The Scarlet of the Nightmare",
+    "file": "chapter850.html"
+  },
+  {
+    "num": 851,
+    "title": "Sleep and Entering the Dream",
+    "file": "chapter851.html"
+  },
+  {
+    "num": 852,
+    "title": "The Calamity of Winterspring",
+    "file": "chapter852.html"
+  },
+  {
+    "num": 853,
+    "title": "Return to Everlook",
+    "file": "chapter853.html"
+  },
+  {
+    "num": 854,
+    "title": "A Meal for One Gold",
+    "file": "chapter854.html"
+  },
+  {
+    "num": 855,
+    "title": "Cut Off from Home",
+    "file": "chapter855.html"
+  },
+  {
+    "num": 856,
+    "title": "Setting Worries Aside for Now",
+    "file": "chapter0856.html"
+  },
+  {
+    "num": 857,
+    "title": "Blade of Ill Omen",
+    "file": "chapter0857.html"
+  },
+  {
+    "num": 858,
+    "title": "Flying Is Faster Than Running",
+    "file": "chapter0858.html"
+  },
+  {
+    "num": 859,
+    "title": "Canyon Entrance",
+    "file": "chapter0859.html"
+  },
+  {
+    "num": 860,
+    "title": "The Frosthammer Furbolgs",
+    "file": "chapter0860.html"
+  },
+  {
+    "num": 861,
+    "title": "The Only Path",
+    "file": "chapter0861.html"
+  },
+  {
+    "num": 862,
+    "title": "The Frostmace Tribe's Plight",
+    "file": "chapter0862.html"
+  },
+  {
+    "num": 863,
+    "title": "Shadows in the Forest",
+    "file": "chapter0863.html"
+  },
+  {
+    "num": 864,
+    "title": "A Familiar Name",
+    "file": "chapter0864.html"
+  },
+  {
+    "num": 865,
+    "title": "The Underground Dark Wall",
+    "file": "chapter0865.html"
+  },
+  {
+    "num": 866,
+    "title": "Connecting Two Worlds",
+    "file": "chapter866.html"
+  },
+  {
+    "num": 867,
+    "title": "The Black Knights",
+    "file": "chapter0867.html"
+  },
+  {
+    "num": 868,
+    "title": "The Demonic Sword",
+    "file": "chapter0868.html"
+  },
+  {
+    "num": 869,
+    "title": "Bloodblade, Soul",
+    "file": "chapter0869.html"
+  },
+  {
+    "num": 870,
+    "title": "Will Breaks the Labyrinth",
+    "file": "chapter0870.html"
+  },
+  {
+    "num": 871,
+    "title": "Titanforged",
+    "file": "chapter871.html"
+  },
+  {
+    "num": 872,
+    "title": "A Demon's Belongings Go to a Demon",
+    "file": "chapter872.html"
+  },
+  {
+    "num": 873,
+    "title": "Evil, But Not Entirely Evil",
+    "file": "chapter873.html"
+  },
+  {
+    "num": 874,
+    "title": "Unholy Spoils",
+    "file": "chapter874.html"
+  },
+  {
+    "num": 875,
+    "title": "Everlook and Companions",
+    "file": "chapter875.html"
+  },
+  {
+    "num": 876,
+    "title": "The Timbermaw's Gratitude",
+    "file": "chapter0876.html"
+  },
+  {
+    "num": 877,
+    "title": "Azshara",
+    "file": "chapter0877.html"
+  },
+  {
+    "num": 878,
+    "title": "The Chill of Eldallas",
+    "file": "chapter0878.html"
+  },
+  {
+    "num": 879,
+    "title": "The Azure Blizzard",
+    "file": "chapter0879.html"
+  },
+  {
+    "num": 880,
+    "title": "The Highborne Artifact",
+    "file": "chapter0880.html"
+  },
+  {
+    "num": 881,
+    "title": "The Magic Mirror Shard",
+    "file": "chapter0881.html"
+  },
+  {
+    "num": 882,
+    "title": "Reflections",
+    "file": "chapter0882.html"
+  },
+  {
+    "num": 883,
+    "title": "Parting on the Cliff",
+    "file": "chapter0883.html"
+  },
+  {
+    "num": 884,
+    "title": "Shadow of the North",
+    "file": "chapter0884.html"
+  },
+  {
+    "num": 885,
+    "title": "History Lesson",
+    "file": "chapter0885.html"
+  },
+  {
+    "num": 886,
+    "title": "A Village in the Snow",
+    "file": "chapter886.html"
+  },
+  {
+    "num": 887,
+    "title": "\"The King of the Dead\"",
+    "file": "chapter887.html"
+  },
+  {
+    "num": 888,
+    "title": "The Fjord",
+    "file": "chapter888.html"
+  },
+  {
+    "num": 889,
+    "title": "Crossing the Northern Sea",
+    "file": "chapter889.html"
+  },
+  {
+    "num": 890,
+    "title": "Unusual News",
+    "file": "chapter890.html"
+  },
+  {
+    "num": 891,
+    "title": "Entrusting a Dangerous Artifact",
+    "file": "chapter0891.html"
+  },
+  {
+    "num": 892,
+    "title": "Adjusting to the New Environment",
+    "file": "chapter0892.html"
+  },
+  {
+    "num": 893,
+    "title": "Moonbrook's \"Guide\"",
+    "file": "chapter0893.html"
+  },
+  {
+    "num": 894,
+    "title": "Finally Back in Stormwind",
+    "file": "chapter0894.html"
+  },
+  {
+    "num": 895,
+    "title": "The Long-Awaited Valley of Heroes",
+    "file": "chapter0895.html"
+  },
+  {
+    "num": 896,
+    "title": "The New Resident",
+    "file": "chapter0896.html"
+  },
+  {
+    "num": 897,
+    "title": "Cooperation Hits a Snag",
+    "file": "chapter0897.html"
+  },
+  {
+    "num": 898,
+    "title": "Caught Between Two Fires",
+    "file": "chapter0898.html"
+  },
+  {
+    "num": 899,
+    "title": "The Demon \"Master\"",
+    "file": "chapter0899.html"
+  },
+  {
+    "num": 900,
+    "title": "The Peace of Lakeshire",
+    "file": "chapter0900.html"
+  },
+  {
+    "num": 901,
+    "title": "Brimming with Mana, and Concealable",
+    "file": "chapter0901.html"
+  },
+  {
+    "num": 902,
+    "title": "Finalizing the Route",
+    "file": "chapter0902.html"
+  },
+  {
+    "num": 903,
+    "title": "The High King",
+    "file": "chapter0903.html"
+  },
+  {
+    "num": 904,
+    "title": "A Complete Work",
+    "file": "chapter0904.html"
+  },
+  {
+    "num": 905,
+    "title": "The Alchemists",
+    "file": "chapter0905.html"
+  },
+  {
+    "num": 906,
+    "title": "Temporary Hideout",
+    "file": "chapter0906.html"
+  },
+  {
+    "num": 907,
+    "title": "Familiar Materials",
+    "file": "chapter0907.html"
+  },
+  {
+    "num": 908,
+    "title": "Gryphon Rider, First Time",
+    "file": "chapter0908.html"
+  },
+  {
+    "num": 909,
+    "title": "Daughter of the Forest and the Dream",
+    "file": "chapter0909.html"
+  },
+  {
+    "num": 910,
+    "title": "The Most Suitable Keeper",
+    "file": "chapter0910.html"
+  },
+  {
+    "num": 911,
+    "title": "The Sentinel of Sentinel Hill",
+    "file": "chapter0911.html"
+  },
+  {
+    "num": 912,
+    "title": "Lingering Dark Blood",
+    "file": "chapter0912.html"
+  },
+  {
+    "num": 913,
+    "title": "Even Like This, I Can Still Fight!",
+    "file": "chapter0913.html"
+  },
+  {
+    "num": 914,
+    "title": "Now That I Know, I Can't Leave",
+    "file": "chapter0914.html"
+  },
+  {
+    "num": 915,
+    "title": "The Properties of Ursolus",
+    "file": "chapter0915.html"
+  },
+  {
+    "num": 916,
+    "title": "The Lighthouse and the Guide",
+    "file": "chapter916.html"
+  },
+  {
+    "num": 917,
+    "title": "The Qualifications a Proper Warlock Should Have",
+    "file": "chapter917.html"
+  },
+  {
+    "num": 918,
+    "title": "The Only Reliance",
+    "file": "chapter918.html"
+  },
+  {
+    "num": 919,
+    "title": "No Room for Impatience",
+    "file": "chapter919.html"
+  },
+  {
+    "num": 920,
+    "title": "The Island",
+    "file": "chapter920.html"
+  },
+  {
+    "num": 921,
+    "title": "The Island (Part 2)",
+    "file": "chapter0921.html"
+  },
+  {
+    "num": 922,
+    "title": "\"A Private Audience\"",
+    "file": "chapter0922.html"
+  },
+  {
+    "num": 923,
+    "title": "Making an Appearance",
+    "file": "chapter0923.html"
+  },
+  {
+    "num": 924,
+    "title": "The Stone Hall",
+    "file": "chapter0924.html"
+  },
+  {
+    "num": 925,
+    "title": "Nowhere to Run",
+    "file": "chapter0925.html"
+  },
+  {
+    "num": 926,
+    "title": "Hopefully Things Return to Normal",
+    "file": "chapter0926.html"
+  },
+  {
+    "num": 927,
+    "title": "Definitely Keeping a Tight Lip",
+    "file": "chapter0927.html"
+  },
+  {
+    "num": 928,
+    "title": "A Well-Known Trademark",
+    "file": "chapter0928.html"
+  },
+  {
+    "num": 929,
+    "title": "The Wizard Sanctum's Token of Appreciation",
+    "file": "chapter0929.html"
+  },
+  {
+    "num": 930,
+    "title": "The Stonemason Who Shouldn't Have Been in Prison",
+    "file": "chapter0930.html"
+  },
+  {
+    "num": 931,
+    "title": "Gradually Blending In",
+    "file": "chapter931.html"
+  },
+  {
+    "num": 932,
+    "title": "The Night Watch",
+    "file": "chapter932.html"
+  },
+  {
+    "num": 933,
+    "title": "Better Robes, Stronger Potions",
+    "file": "chapter933.html"
+  },
+  {
+    "num": 934,
+    "title": "The Uses of a Mage Tower",
+    "file": "chapter0934.html"
+  },
+  {
+    "num": 935,
+    "title": "A Blessing of the Dream",
+    "file": "chapter0935.html"
+  },
+  {
+    "num": 936,
+    "title": "\"Red-Braised Pork\"",
+    "file": "chapter0936.html"
+  },
+  {
+    "num": 937,
+    "title": "Bedtime Story",
+    "file": "chapter0937.html"
+  },
+  {
+    "num": 938,
+    "title": "Arriving on Schedule",
+    "file": "chapter0938.html"
+  },
+  {
+    "num": 939,
+    "title": "A Dangerous Question",
+    "file": "chapter0939.html"
+  },
+  {
+    "num": 940,
+    "title": "The Overdue Guest",
+    "file": "chapter0940.html"
+  },
+  {
+    "num": 941,
+    "title": "A Pitiful Soul at the End of the Road",
+    "file": "chapter0941.html"
+  },
+  {
+    "num": 942,
+    "title": "Amidst Emotion",
+    "file": "chapter0942.html"
+  },
+  {
+    "num": 943,
+    "title": "The Alteraci Princess",
+    "file": "chapter0943.html"
+  },
+  {
+    "num": 944,
+    "title": "Keeping the Appointment",
+    "file": "chapter0944.html"
+  },
+  {
+    "num": 945,
+    "title": "Going Too Far",
+    "file": "chapter0945.html"
+  },
+  {
+    "num": 946,
+    "title": "The Opposite Direction",
+    "file": "chapter946.html"
+  },
+  {
+    "num": 947,
+    "title": "The King's Tacit Understanding",
+    "file": "chapter947.html"
+  },
+  {
+    "num": 948,
+    "title": "A Beginner's Guide to Disguise",
+    "file": "chapter0948.html"
+  },
+  {
+    "num": 949,
+    "title": "The Noble of Lakeshire",
+    "file": "chapter0949.html"
+  },
+  {
+    "num": 950,
+    "title": "Racial Advantage",
+    "file": "chapter0950.html"
+  },
+  {
+    "num": 951,
+    "title": "Stonewatch's Stores",
+    "file": "chapter0951.html"
+  },
+  {
+    "num": 952,
+    "title": "Mok'Noloshin—Ka!",
+    "file": "chapter0952.html"
+  },
+  {
+    "num": 953,
+    "title": "The Road to Blackrock",
+    "file": "chapter0953.html"
+  },
+  {
+    "num": 954,
+    "title": "Run, Hirt!",
+    "file": "chapter0954.html"
+  },
+  {
+    "num": 955,
+    "title": "The Dark Iron's Creation",
+    "file": "chapter0955.html"
+  },
+  {
+    "num": 956,
+    "title": "The Scorching Passage",
+    "file": "chapter0956.html"
+  },
+  {
+    "num": 957,
+    "title": "The Enemy of My Enemy Is My Friend",
+    "file": "chapter0957.html"
+  },
+  {
+    "num": 958,
+    "title": "Struggle Beneath the Earth",
+    "file": "chapter0958.html"
+  },
+  {
+    "num": 959,
+    "title": "Shadowforge City",
+    "file": "chapter0959.html"
+  },
+  {
+    "num": 960,
+    "title": "The Gnome's Work",
+    "file": "chapter0960.html"
+  },
+  {
+    "num": 961,
+    "title": "The Black Iron Bar",
+    "file": "chapter961.html"
+  },
+  {
+    "num": 962,
+    "title": "The Price of a Succubus's Help",
+    "file": "chapter0962.html"
+  },
+  {
+    "num": 963,
+    "title": "Starting with the Warlocks",
+    "file": "chapter0963.html"
+  },
+  {
+    "num": 964,
+    "title": "Judgment",
+    "file": "chapter0964.html"
+  },
+  {
+    "num": 965,
+    "title": "Execution",
+    "file": "chapter0965.html"
+  },
+  {
+    "num": 966,
+    "title": "From Booty Bay",
+    "file": "chapter0966.html"
+  },
+  {
+    "num": 967,
+    "title": "Mutual Exchange",
+    "file": "chapter0967.html"
+  },
+  {
+    "num": 968,
+    "title": "Demon Blood and Demons",
+    "file": "chapter0968.html"
+  },
+  {
+    "num": 969,
+    "title": "An Unintended Clue",
+    "file": "chapter0969.html"
+  },
+  {
+    "num": 970,
+    "title": "Preparing for the Pilgrimage",
+    "file": "chapter0970.html"
+  },
+  {
+    "num": 971,
+    "title": "The Pilgrimage Fails, But Not Completely",
+    "file": "chapter0971.html"
+  },
+  {
+    "num": 972,
+    "title": "The Thorium Brotherhood's Trust",
+    "file": "chapter0972.html"
+  },
+  {
+    "num": 973,
+    "title": "Power and Mission",
+    "file": "chapter0973.html"
+  },
+  {
+    "num": 974,
+    "title": "\"Mountain King,\" or Keep Wandering?",
+    "file": "chapter0974.html"
+  },
+  {
+    "num": 975,
+    "title": "Which Side Are You On?",
+    "file": "chapter0975.html"
+  },
+  {
+    "num": 976,
+    "title": "The Temple of Flame",
+    "file": "chapter0976.html"
+  },
+  {
+    "num": 977,
+    "title": "The Fire-Tenders' Vault",
+    "file": "chapter0977.html"
+  },
+  {
+    "num": 978,
+    "title": "Is It Really Draconic?",
+    "file": "chapter0978.html"
+  },
+  {
+    "num": 979,
+    "title": "An Unfinished Task",
+    "file": "chapter0979.html"
+  },
+  {
+    "num": 980,
+    "title": "For a Caster, the Most Important Thing Is the Staff",
+    "file": "chapter0980.html"
+  },
+  {
+    "num": 981,
+    "title": "The Highland Search",
+    "file": "chapter0981.html"
+  },
+  {
+    "num": 982,
+    "title": "The Abandoned",
+    "file": "chapter0982.html"
+  },
+  {
+    "num": 983,
+    "title": "Blood Ritual",
+    "file": "chapter0983.html"
+  },
+  {
+    "num": 984,
+    "title": "The Major",
+    "file": "chapter0984.html"
+  },
+  {
+    "num": 985,
+    "title": "The Ring",
+    "file": "chapter0985.html"
+  },
+  {
+    "num": 986,
+    "title": "Just Borrowing It",
+    "file": "chapter0986.html"
+  },
+  {
+    "num": 987,
+    "title": "The Dagger's Edge",
+    "file": "chapter0987.html"
+  },
+  {
+    "num": 988,
+    "title": "Return, and Prepare",
+    "file": "chapter0988.html"
+  },
+  {
+    "num": 989,
+    "title": "An Anomaly in the Palace",
+    "file": "chapter0989.html"
+  },
+  {
+    "num": 990,
+    "title": "Evening Gathering",
+    "file": "chapter0990.html"
+  },
+  {
+    "num": 991,
+    "title": "Blood Vial",
+    "file": "chapter0991.html"
+  },
+  {
+    "num": 992,
+    "title": "Better Safe Than Sorry",
+    "file": "chapter0992.html"
+  },
+  {
+    "num": 993,
+    "title": "Setting the Stage",
+    "file": "chapter0993.html"
+  },
+  {
+    "num": 994,
+    "title": "The Unshakable \"Curse\"",
+    "file": "chapter0994.html"
+  },
+  {
+    "num": 995,
+    "title": "Everything in Place",
+    "file": "chapter0995.html"
+  },
+  {
+    "num": 996,
+    "title": "By Mirror Lake",
+    "file": "chapter0996.html"
+  },
+  {
+    "num": 997,
+    "title": "The Source of Shadow",
+    "file": "chapter0997.html"
+  },
+  {
+    "num": 998,
+    "title": "The Seat of Flame",
+    "file": "chapter0998.html"
+  },
+  {
+    "num": 999,
+    "title": "Between Worlds",
+    "file": "chapter0999.html"
+  },
+  {
+    "num": 1000,
+    "title": "A Soul on Loan",
+    "file": "chapter1000.html"
+  },
+  {
+    "num": 1001,
+    "title": "The Flame Fades",
+    "file": "chapter1001.html"
+  },
+  {
+    "num": 1002,
+    "title": "Truth and Falsehood",
+    "file": "chapter1002.html"
+  },
+  {
+    "num": 1003,
+    "title": "Each to Their Duties",
+    "file": "chapter1003.html"
+  },
+  {
+    "num": 1004,
+    "title": "Next Steps at the Tavern",
+    "file": "chapter1004.html"
+  },
+  {
+    "num": 1005,
+    "title": "Where Souls Come From",
+    "file": "chapter1005.html"
+  },
+  {
+    "num": 1006,
+    "title": "Making the Most of Everything",
+    "file": "chapter1006.html"
+  },
+  {
+    "num": 1007,
+    "title": "A Gift for the Ranger",
+    "file": "chapter1007.html"
+  },
+  {
+    "num": 1008,
+    "title": "Another Possible Method",
+    "file": "chapter1008.html"
+  },
+  {
+    "num": 1009,
+    "title": "Back to Ironforge",
+    "file": "chapter1009.html"
+  },
+  {
+    "num": 1010,
+    "title": "Stereotypes",
+    "file": "chapter1010.html"
+  },
+  {
+    "num": 1011,
+    "title": "Only One Dark Iron Anvil",
+    "file": "chapter1011.html"
+  },
+  {
+    "num": 1012,
+    "title": "The Lord of Ironforge",
+    "file": "chapter1012.html"
+  },
+  {
+    "num": 1013,
+    "title": "Dragonblood Jewelry",
+    "file": "chapter1013.html"
+  },
+  {
+    "num": 1014,
+    "title": "Sustainable Development and Cooperation",
+    "file": "chapter1014.html"
+  },
+  {
+    "num": 1015,
+    "title": "Curse of Hatred",
+    "file": "chapter1015.html"
+  },
+  {
+    "num": 1016,
+    "title": "Feeding",
+    "file": "chapter1016.html"
+  },
+  {
+    "num": 1017,
+    "title": "Every Hunter's Dream",
+    "file": "chapter1017.html"
+  },
+  {
+    "num": 1018,
+    "title": "A Taboo Even for Goblins",
+    "file": "chapter1018.html"
+  },
+  {
+    "num": 1019,
+    "title": "A Strange Collection",
+    "file": "chapter1019.html"
+  },
+  {
+    "num": 1020,
+    "title": "Pucidiaz's Worth",
+    "file": "chapter1020.html"
+  },
+  {
+    "num": 1021,
+    "title": "A Dark Collector's Dream",
+    "file": "chapter1021.html"
+  },
+  {
+    "num": 1022,
+    "title": "The Green Dragon",
+    "file": "chapter1022.html"
+  },
+  {
+    "num": 1023,
+    "title": "Who Exactly Is Being Tortured Here",
+    "file": "chapter1023.html"
+  },
+  {
+    "num": 1024,
+    "title": "Disciples of Old",
+    "file": "chapter1024.html"
+  },
+  {
+    "num": 1025,
+    "title": "Sacrifice",
+    "file": "chapter1025.html"
+  },
+  {
+    "num": 1026,
+    "title": "A Successful Sale",
+    "file": "chapter1026.html"
+  },
+  {
+    "num": 1027,
+    "title": "The Four of Us",
+    "file": "chapter1027.html"
+  },
+  {
+    "num": 1028,
+    "title": "An Unlikely Line of Communication",
+    "file": "chapter1028.html"
+  },
+  {
+    "num": 1029,
+    "title": "Delivering a Message",
+    "file": "chapter1029.html"
+  },
+  {
+    "num": 1030,
+    "title": "Testing the Replica",
+    "file": "chapter1030.html"
+  },
+  {
+    "num": 1031,
+    "title": "The Void, One Step Further",
+    "file": "chapter1031.html"
+  },
+  {
+    "num": 1032,
+    "title": "Matthias Shaw's Order",
+    "file": "chapter1032.html"
+  },
+  {
+    "num": 1033,
+    "title": "An Uncertain Danger",
+    "file": "chapter1033.html"
+  },
+  {
+    "num": 1034,
+    "title": "The Inside Man",
+    "file": "chapter1034.html"
+  },
+  {
+    "num": 1035,
+    "title": "A Deserved Reward",
+    "file": "chapter1035.html"
+  },
+  {
+    "num": 1036,
+    "title": "Revisiting the Tavern",
+    "file": "chapter1036.html"
+  },
+  {
+    "num": 1037,
+    "title": "The Unenslaved",
+    "file": "chapter1037.html"
+  },
+  {
+    "num": 1038,
+    "title": "A Common Enemy",
+    "file": "chapter1038.html"
+  },
+  {
+    "num": 1039,
+    "title": "\"Senior\"",
+    "file": "chapter1039.html"
+  },
+  {
+    "num": 1040,
+    "title": "Arkesius",
+    "file": "chapter1040.html"
+  },
+  {
+    "num": 1041,
+    "title": "The Magician on the Wall",
+    "file": "chapter1041.html"
+  },
+  {
+    "num": 1042,
+    "title": "Far Away, Right Before Your Eyes",
+    "file": "chapter1042.html"
+  },
+  {
+    "num": 1043,
+    "title": "The Silent Forest",
+    "file": "chapter1043.html"
+  },
+  {
+    "num": 1044,
+    "title": "Atal'ai Hexcraft",
+    "file": "chapter1044.html"
+  },
+  {
+    "num": 1045,
+    "title": "Revisiting Old Ground",
+    "file": "chapter1045.html"
+  },
+  {
+    "num": 1046,
+    "title": "An Unfinished Enemy",
+    "file": "chapter1046.html"
+  },
+  {
+    "num": 1047,
+    "title": "A Menace That Must Not Be Left Behind",
+    "file": "chapter1047.html"
+  },
+  {
+    "num": 1048,
+    "title": "Among the Mushrooms",
+    "file": "chapter1048.html"
+  },
+  {
+    "num": 1049,
+    "title": "A Land of Sorrow",
+    "file": "chapter1049.html"
+  },
+  {
+    "num": 1050,
+    "title": "Crossing the Deep Water",
+    "file": "chapter1050.html"
+  },
+  {
+    "num": 1051,
+    "title": "The Temple of Death",
+    "file": "chapter1051.html"
+  },
+  {
+    "num": 1052,
+    "title": "Corrupt Plants Are Still Plants",
+    "file": "chapter1052.html"
+  },
+  {
+    "num": 1053,
+    "title": "The Mask Hall",
+    "file": "chapter1053.html"
+  },
+  {
+    "num": 1054,
+    "title": "The Atrium",
+    "file": "chapter1054.html"
+  },
+  {
+    "num": 1055,
+    "title": "Emerald Blood",
+    "file": "chapter1055.html"
+  },
+  {
+    "num": 1056,
+    "title": "At Long Last...",
+    "file": "chapter1056.html"
+  },
+  {
+    "num": 1057,
+    "title": "The Dragonblood Barrier",
+    "file": "chapter1057.html"
+  },
+  {
+    "num": 1058,
+    "title": "Scion of the Blood God",
+    "file": "chapter1058.html"
+  },
+  {
+    "num": 1059,
+    "title": "Even Through the Thick Fog",
+    "file": "chapter1059.html"
+  },
+  {
+    "num": 1060,
+    "title": "The Awakened Legion",
+    "file": "chapter1060.html"
+  },
+  {
+    "num": 1061,
+    "title": "The Abyss of Thick Blood",
+    "file": "chapter1061.html"
+  },
+  {
+    "num": 1062,
+    "title": "Jammal'an's Defenders",
+    "file": "chapter1062.html"
+  },
+  {
+    "num": 1063,
+    "title": "Blood, Bones, Sacrifice",
+    "file": "chapter1063.html"
+  },
+  {
+    "num": 1064,
+    "title": "Soul Snatcher",
+    "file": "chapter1064.html"
+  },
+  {
+    "num": 1065,
+    "title": "Amidst the Blood Rain",
+    "file": "chapter1065.html"
+  },
+  {
+    "num": 1066,
+    "title": "The Essence Pool",
+    "file": "chapter1066.html"
+  },
+  {
+    "num": 1067,
+    "title": "Eranikus's Gift",
+    "file": "chapter1067.html"
+  },
+  {
+    "num": 1068,
+    "title": "The Depths of Atal'Hakkar",
+    "file": "chapter1068.html"
+  },
+  {
+    "num": 1069,
+    "title": "Guardian of the Temple",
+    "file": "chapter1069.html"
+  },
+  {
+    "num": 1070,
+    "title": "Battle for the Elements",
+    "file": "chapter1070.html"
+  },
+  {
+    "num": 1071,
+    "title": "The Path to Godhood",
+    "file": "chapter1071.html"
+  },
+  {
+    "num": 1072,
+    "title": "The Lucky One's Blood",
+    "file": "chapter1072.html"
+  },
+  {
+    "num": 1073,
+    "title": "Who Can Lift That Warhammer",
+    "file": "chapter1073.html"
+  },
+  {
+    "num": 1074,
+    "title": "Lost in the Nether?",
+    "file": "chapter1074.html"
+  },
+  {
+    "num": 1075,
+    "title": "The Sleepless Sleeper",
+    "file": "chapter1075.html"
+  },
+  {
+    "num": 1076,
+    "title": "Back to the Real World",
+    "file": "chapter1076.html"
+  },
+  {
+    "num": 1077,
+    "title": "The Witch Doctor's Wish",
+    "file": "chapter1077.html"
+  },
+  {
+    "num": 1078,
+    "title": "Pulling the Fire from Under the Pot",
+    "file": "chapter1078.html"
+  },
+  {
+    "num": 1079,
+    "title": "Rare Good News",
+    "file": "chapter1079.html"
+  },
+  {
+    "num": 1080,
+    "title": "Back from Holiday",
+    "file": "chapter1080.html"
+  },
+  {
+    "num": 1081,
+    "title": "A Necessary Test",
+    "file": "chapter1081.html"
+  },
+  {
+    "num": 1082,
+    "title": "Each Their Own Journey",
+    "file": "chapter1082.html"
+  },
+  {
+    "num": 1083,
+    "title": "Demon Armor, But Another Way",
+    "file": "chapter1083.html"
+  },
+  {
+    "num": 1084,
+    "title": "A Brief Farewell at the Valley of Heroes",
+    "file": "chapter1084.html"
+  },
+  {
+    "num": 1085,
+    "title": "Burn What?",
+    "file": "chapter1085.html"
+  },
+  {
+    "num": 1086,
+    "title": "Finding the Right Target",
+    "file": "chapter1086.html"
+  },
+  {
+    "num": 1087,
+    "title": "Flying Into Darker Darkness",
+    "file": "chapter1087.html"
+  },
+  {
+    "num": 1088,
+    "title": "Damp Nightfall",
+    "file": "chapter1088.html"
+  },
+  {
+    "num": 1089,
+    "title": "The Debt Collector",
+    "file": "chapter1089.html"
+  },
+  {
+    "num": 1090,
+    "title": "An Old Acquaintance",
+    "file": "chapter1090.html"
+  },
+  {
+    "num": 1091,
+    "title": "The Last Chance",
+    "file": "chapter1091.html"
+  },
+  {
+    "num": 1092,
+    "title": "The Duskwood Siege",
+    "file": "chapter1092.html"
+  },
+  {
+    "num": 1093,
+    "title": "Shadow Against Shadow",
+    "file": "chapter1093.html"
+  },
+  {
+    "num": 1094,
+    "title": "The Holy Light Answers",
+    "file": "chapter1094.html"
+  },
+  {
+    "num": 1095,
+    "title": "The Magister's Secret Research?",
+    "file": "chapter1095.html"
+  },
+  {
+    "num": 1096,
+    "title": "Business and Personal Matters",
+    "file": "chapter1096.html"
+  },
+  {
+    "num": 1097,
+    "title": "As a Warrior",
+    "file": "chapter1097.html"
+  },
+  {
+    "num": 1098,
+    "title": "The Duskwood Meeting",
+    "file": "chapter1098.html"
+  },
+  {
+    "num": 1099,
+    "title": "The Same Model",
+    "file": "chapter1099.html"
+  },
+  {
+    "num": 1100,
+    "title": "You Deserve It",
+    "file": "chapter1100.html"
+  },
+  {
+    "num": 1101,
+    "title": "Bound to Be Released (Part 1)",
+    "file": "chapter1101.html"
+  },
+  {
+    "num": 1102,
+    "title": "Bound to Be Unleashed (Part 2)",
+    "file": "chapter1102.html"
+  },
+  {
+    "num": 1103,
+    "title": "Waiting in Line for Treatment",
+    "file": "chapter1103.html"
+  },
+  {
+    "num": 1104,
+    "title": "The Examiner's Advice",
+    "file": "chapter1104.html"
+  },
+  {
+    "num": 1105,
+    "title": "Stormwind Bank",
+    "file": "chapter1105.html"
+  },
+  {
+    "num": 1106,
+    "title": "Teleportation",
+    "file": "chapter1106.html"
+  },
+  {
+    "num": 1107,
+    "title": "Sunstrider Isle",
+    "file": "chapter1107.html"
+  },
+  {
+    "num": 1108,
+    "title": "Who Wants to Go Home the Most",
+    "file": "chapter1108.html"
+  },
+  {
+    "num": 1109,
+    "title": "Sailing for the Eldarath River",
+    "file": "chapter1109.html"
+  },
+  {
+    "num": 1110,
+    "title": "The Three Moons",
+    "file": "chapter1110.html"
+  },
+  {
+    "num": 1111,
+    "title": "Controlling the Chaos",
+    "file": "chapter1111.html"
+  },
+  {
+    "num": 1112,
+    "title": "The Crystal's Balance",
+    "file": "chapter1112.html"
+  },
+  {
+    "num": 1113,
+    "title": "The Sunstar Tower",
+    "file": "chapter1113.html"
+  },
+  {
+    "num": 1114,
+    "title": "Everyone on Edge",
+    "file": "chapter1114.html"
+  },
+  {
+    "num": 1115,
+    "title": "There's Another Secret",
+    "file": "chapter1115.html"
+  },
+  {
+    "num": 1116,
+    "title": "A Flower's Scent",
+    "file": "chapter1116.html"
+  },
+  {
+    "num": 1117,
+    "title": "The Runestone",
+    "file": "chapter1117.html"
+  },
+  {
+    "num": 1118,
+    "title": "Remnants of the Orc Wars",
+    "file": "chapter1118.html"
+  },
+  {
+    "num": 1119,
+    "title": "The Shores of Caer Darrow",
+    "file": "chapter1119.html"
+  },
+  {
+    "num": 1120,
+    "title": "The Curse of the Runestone",
+    "file": "chapter1120.html"
+  },
+  {
+    "num": 1121,
+    "title": "The Enchanter",
+    "file": "chapter1121.html"
+  },
+  {
+    "num": 1122,
+    "title": "The Dark Island",
+    "file": "chapter1122.html"
+  },
+  {
+    "num": 1123,
+    "title": "The Barovs",
+    "file": "chapter1123.html"
+  },
+  {
+    "num": 1124,
+    "title": "If Not Here, Then Where?",
+    "file": "chapter1124.html"
+  },
+  {
+    "num": 1125,
+    "title": "The Jewel in the Crown",
+    "file": "chapter1125.html"
+  },
+  {
+    "num": 1126,
+    "title": "Stratholme",
+    "file": "chapter1126.html"
+  },
+  {
+    "num": 1127,
+    "title": "The Plaza of the Saint",
+    "file": "chapter1127.html"
+  },
+  {
+    "num": 1128,
+    "title": "The Grey Cloak",
+    "file": "chapter1128.html"
+  },
+  {
+    "num": 1129,
+    "title": "The Lighthouse's Influence",
+    "file": "chapter1129.html"
+  },
+  {
+    "num": 1130,
+    "title": "The Westvale Circus",
+    "file": "chapter1130.html"
+  },
+  {
+    "num": 1131,
+    "title": "Once and a Thousand Times",
+    "file": "chapter1131.html"
+  },
+  {
+    "num": 1132,
+    "title": "The River Valley",
+    "file": "chapter1132.html"
+  },
+  {
+    "num": 1133,
+    "title": "Darkness Beneath the Light",
+    "file": "chapter1133.html"
+  },
+  {
+    "num": 1134,
+    "title": "Shadow Hideout",
+    "file": "chapter1134.html"
+  },
+  {
+    "num": 1135,
+    "title": "Guardian of the Ruins",
+    "file": "chapter1135.html"
+  },
+  {
+    "num": 1136,
+    "title": "Dar'Khan's Search",
+    "file": "chapter1136.html"
+  },
+  {
+    "num": 1137,
+    "title": "The Elder",
+    "file": "chapter1137.html"
+  },
+  {
+    "num": 1138,
+    "title": "The Silver Hand",
+    "file": "chapter1138.html"
+  },
+  {
+    "num": 1139,
+    "title": "Broken in Two",
+    "file": "chapter1139.html"
+  },
+  {
+    "num": 1140,
+    "title": "All for Quel'Thalas",
+    "file": "chapter1140.html"
+  },
+  {
+    "num": 1141,
+    "title": "Swings of Mood",
+    "file": "chapter1141.html"
+  },
+  {
+    "num": 1142,
+    "title": "Departing Strahnbrad",
+    "file": "chapter1142.html"
+  },
+  {
+    "num": 1143,
+    "title": "A Simple Question",
+    "file": "chapter1143.html"
+  },
+  {
+    "num": 1144,
+    "title": "Flame in the Cold Wind",
+    "file": "chapter1144.html"
+  },
+  {
+    "num": 1145,
+    "title": "The Malice of Ice",
+    "file": "chapter1145.html"
+  },
+  {
+    "num": 1146,
+    "title": "Guidance of the Frost",
+    "file": "chapter1146.html"
+  },
+  {
+    "num": 1147,
+    "title": "The Frostwolf Village",
+    "file": "chapter1147.html"
+  },
+  {
+    "num": 1148,
+    "title": "Old Matters That Must Be Raised",
+    "file": "chapter1148.html"
+  },
+  {
+    "num": 1149,
+    "title": "The Old Chief's Old Craft",
+    "file": "chapter1149.html"
+  },
+  {
+    "num": 1150,
+    "title": "Return to the Mountains",
+    "file": "chapter1150.html"
+  },
+  {
+    "num": 1151,
+    "title": "Next Stop, Lordamere",
+    "file": "chapter1151.html"
+  },
+  {
+    "num": 1152,
+    "title": "Bad News from Silverpine Forest",
+    "file": "chapter1152.html"
+  },
+  {
+    "num": 1153,
+    "title": "Is Stormwind Really Okay?",
+    "file": "chapter1153.html"
+  },
+  {
+    "num": 1154,
+    "title": "The \"Cover-Up\" Plan",
+    "file": "chapter1154.html"
+  },
+  {
+    "num": 1155,
+    "title": "What a Mage Finds Appealing",
+    "file": "chapter1155.html"
+  },
+  {
+    "num": 1156,
+    "title": "A Big Otherworldly Creature",
+    "file": "chapter1156.html"
+  },
+  {
+    "num": 1157,
+    "title": "Finally Settled In",
+    "file": "chapter1157.html"
+  },
+  {
+    "num": 1158,
+    "title": "The Favorite",
+    "file": "chapter1158.html"
+  },
+  {
+    "num": 1159,
+    "title": "The Dragon Blood Pendant",
+    "file": "chapter1159.html"
+  },
+  {
+    "num": 1160,
+    "title": "A Tavern Reunion",
+    "file": "chapter1160.html"
+  },
+  {
+    "num": 1161,
+    "title": "The Sixth Statue",
+    "file": "chapter1161.html"
+  },
+  {
+    "num": 1162,
+    "title": "The Old Cavalryman",
+    "file": "chapter1162.html"
+  },
+  {
+    "num": 1163,
+    "title": "The Strange Pattern",
+    "file": "chapter1163.html"
+  },
+  {
+    "num": 1164,
+    "title": "From the Deeper Void?",
+    "file": "chapter1164.html"
+  },
+  {
+    "num": 1165,
+    "title": "The \"Decoding\" Difficulty",
+    "file": "chapter1165.html"
+  },
+  {
+    "num": 1166,
+    "title": "Sitting Down Together Again",
+    "file": "chapter1166.html"
+  },
+  {
+    "num": 1167,
+    "title": "The Dream Lord's Gift of Gratitude",
+    "file": "chapter1167.html"
+  },
+  {
+    "num": 1168,
+    "title": "The Wildhammer's Duty",
+    "file": "chapter1168.html"
+  },
+  {
+    "num": 1169,
+    "title": "Everyone Wants the High King to Return",
+    "file": "chapter1169.html"
+  },
+  {
+    "num": 1170,
+    "title": "Nagiva's Altar",
+    "file": "chapter1170.html"
+  },
+  {
+    "num": 1171,
+    "title": "Dangerous Coordinates",
+    "file": "chapter1171.html"
+  },
+  {
+    "num": 1172,
+    "title": "Arcane Glow Deep in the Swamp",
+    "file": "chapter1172.html"
+  },
+  {
+    "num": 1173,
+    "title": "The Not-Yet-Fully-Transformed",
+    "file": "chapter1173.html"
+  },
+  {
+    "num": 1174,
+    "title": "A Reasonable Exchange",
+    "file": "chapter1174.html"
+  },
+  {
+    "num": 1175,
+    "title": "Where the Crystal Points",
+    "file": "chapter1175.html"
+  },
+  {
+    "num": 1176,
+    "title": "Do We Really Have to Come Clean",
+    "file": "chapter1176.html"
+  },
+  {
+    "num": 1177,
+    "title": "The Unavoidable Key Figure",
+    "file": "chapter1177.html"
+  },
+  {
+    "num": 1178,
+    "title": "The Festival of the Garden Draws Near",
+    "file": "chapter1178.html"
+  },
+  {
+    "num": 1179,
+    "title": "Void Hunt",
+    "file": "chapter1179.html"
+  },
+  {
+    "num": 1180,
+    "title": "A Living Bait",
+    "file": "chapter1180.html"
+  },
+  {
+    "num": 1181,
+    "title": "Devourer of Shadow",
+    "file": "chapter1181.html"
+  },
+  {
+    "num": 1182,
+    "title": "News from Amy",
+    "file": "chapter1182.html"
+  },
+  {
+    "num": 1183,
+    "title": "A World Without Dreams?",
+    "file": "chapter1183.html"
+  },
+  {
+    "num": 1184,
+    "title": "The Dream of a Super Easter Egg",
+    "file": "chapter1184.html"
+  },
+  {
+    "num": 1185,
+    "title": "Thorium Watch",
+    "file": "chapter1185.html"
+  },
+  {
+    "num": 1186,
+    "title": "A Long-Held Wish",
+    "file": "chapter1186.html"
+  },
+  {
+    "num": 1187,
+    "title": "The Kadros Anvil",
+    "file": "chapter1187.html"
+  },
+  {
+    "num": 1188,
+    "title": "Surviving the Dragon-Father's Flames",
+    "file": "chapter1188.html"
+  },
+  {
+    "num": 1189,
+    "title": "Thunderfist's Decision",
+    "file": "chapter1189.html"
+  },
+  {
+    "num": 1190,
+    "title": "The Shadow Stone and the Black Robe",
+    "file": "chapter1190.html"
+  },
+  {
+    "num": 1191,
+    "title": "Loud and Full of Meaning",
+    "file": "chapter1191.html"
+  },
+  {
+    "num": 1192,
+    "title": "The Name That Cannot Be Mentioned",
+    "file": "chapter1192.html"
+  },
+  {
+    "num": 1193,
+    "title": "A Mage's Riding Skills",
+    "file": "chapter1193.html"
+  },
+  {
+    "num": 1194,
+    "title": "The Stonemasons' Achievement",
+    "file": "chapter1194.html"
+  },
+  {
+    "num": 1195,
+    "title": "The Warlock's Trap",
+    "file": "chapter1195.html"
+  },
+  {
+    "num": 1196,
+    "title": "The Unwitting Accomplice",
+    "file": "chapter1196.html"
+  },
+  {
+    "num": 1197,
+    "title": "Time to Meet the Friends",
+    "file": "chapter1197.html"
+  },
+  {
+    "num": 1198,
+    "title": "The Demon Tower",
+    "file": "chapter1198.html"
+  },
+  {
+    "num": 1199,
+    "title": "Crystal, Activate",
+    "file": "chapter1199.html"
+  },
+  {
+    "num": 1200,
+    "title": "Getting Along with the Mage Tower",
+    "file": "chapter1200.html"
+  },
+  {
+    "num": 1201,
+    "title": "Absolutely Not a Prison",
+    "file": "chapter1201.html"
+  },
+  {
+    "num": 1202,
+    "title": "Facing His Own Work Head-On",
+    "file": "chapter1202.html"
+  },
+  {
+    "num": 1203,
+    "title": "Parents and Friends",
+    "file": "chapter1203.html"
+  },
+  {
+    "num": 1204,
+    "title": "The House of Wryn's Psychological Baggage",
+    "file": "chapter1204.html"
+  },
+  {
+    "num": 1205,
+    "title": "Possibly a Slight Deviation",
+    "file": "chapter1205.html"
+  },
+  {
+    "num": 1206,
+    "title": "A Different World, Similar Troubles",
+    "file": "chapter1206.html"
+  },
+  {
+    "num": 1207,
+    "title": "To Go Home",
+    "file": "chapter1207.html"
+  },
+  {
+    "num": 1208,
+    "title": "A Hard-to-Shake Problem",
+    "file": "chapter1208.html"
+  },
+  {
+    "num": 1209,
+    "title": "Gradually Coming to Terms",
+    "file": "chapter1209.html"
+  },
+  {
+    "num": 1210,
+    "title": "The Only Means of Contact",
+    "file": "chapter1210.html"
+  },
+  {
+    "num": 1211,
+    "title": "Unable to Rest Easy",
+    "file": "chapter1211.html"
+  },
+  {
+    "num": 1212,
+    "title": "The Ghosts of Auchindoun",
+    "file": "chapter1212.html"
+  },
+  {
+    "num": 1213,
+    "title": "Who Is the Traitor",
+    "file": "chapter1213.html"
+  },
+  {
+    "num": 1214,
+    "title": "A Rare Bit of Solid Intel",
+    "file": "chapter1214.html"
+  },
+  {
+    "num": 1215,
+    "title": "Which Way Is the Shadow Council?",
+    "file": "chapter1215.html"
+  },
+  {
+    "num": 1216,
+    "title": "A Suitable Identity",
+    "file": "chapter1216.html"
+  },
+  {
+    "num": 1217,
+    "title": "The Arcane Sanctum",
+    "file": "chapter1217.html"
+  },
+  {
+    "num": 1218,
+    "title": "Your Story, My Story",
+    "file": "chapter1218.html"
+  },
+  {
+    "num": 1219,
+    "title": "We're Already Friends",
+    "file": "chapter1219.html"
+  },
+  {
+    "num": 1220,
+    "title": "An Unexpected Complication",
+    "file": "chapter1220.html"
+  },
+  {
+    "num": 1221,
+    "title": "The Floating Demon",
+    "file": "chapter1221.html"
+  },
+  {
+    "num": 1222,
+    "title": "The Shortest Time, the Greatest Space",
+    "file": "chapter1222.html"
+  },
+  {
+    "num": 1223,
+    "title": "An Ambassador's Got to Have a Mission",
+    "file": "chapter1223.html"
+  },
+  {
+    "num": 1224,
+    "title": "So Close?",
+    "file": "chapter1224.html"
+  },
+  {
+    "num": 1225,
+    "title": "The Role of Gorefiend",
+    "file": "chapter1225.html"
+  },
+  {
+    "num": 1226,
+    "title": "A Sky of Blood",
+    "file": "chapter1226.html"
+  },
+  {
+    "num": 1227,
+    "title": "The Most Unlikely Potential Ally",
+    "file": "chapter1227.html"
+  },
+  {
+    "num": 1228,
+    "title": "Shadows in the Forest",
+    "file": "chapter1228.html"
+  },
+  {
+    "num": 1229,
+    "title": "Who Is Jace Sesso",
+    "file": "chapter1229.html"
+  },
+  {
+    "num": 1230,
+    "title": "Knowing Friends from Foes",
+    "file": "chapter1230.html"
+  },
+  {
+    "num": 1231,
+    "title": "Black Dragons and the Horde",
+    "file": "chapter1231.html"
+  },
+  {
+    "num": 1232,
+    "title": "Alleria's Fortress",
+    "file": "chapter1232.html"
+  },
+  {
+    "num": 1233,
+    "title": "Long Live the Alliance",
+    "file": "chapter1233.html"
+  },
+  {
+    "num": 1234,
+    "title": "A Gloomy Night",
+    "file": "chapter1234.html"
+  },
+  {
+    "num": 1235,
+    "title": "Limited Choices",
+    "file": "chapter1235.html"
+  },
+  {
+    "num": 1236,
+    "title": "Into Shadowmoon Valley",
+    "file": "chapter1236.html"
+  },
+  {
+    "num": 1237,
+    "title": "Not Only Old, But Young",
+    "file": "chapter1237.html"
+  },
+  {
+    "num": 1238,
+    "title": "Not Only Old, But Young (II)",
+    "file": "chapter1238.html"
+  },
+  {
+    "num": 1239,
+    "title": "Where a Warhammer's Value Lies",
+    "file": "chapter1239.html"
+  },
+  {
+    "num": 1240,
+    "title": "The Legion's Whip",
+    "file": "chapter1240.html"
+  },
+  {
+    "num": 1241,
+    "title": "Mithril Heart",
+    "file": "chapter1241.html"
+  },
+  {
+    "num": 1242,
+    "title": "The Wildhammer's Welcome",
+    "file": "chapter1242.html"
+  },
+  {
+    "num": 1243,
+    "title": "Gifts from the Sons of Lothar",
+    "file": "chapter1243.html"
+  },
+  {
+    "num": 1244,
+    "title": "Setting Out for Nagrand",
+    "file": "chapter1244.html"
+  },
+  {
+    "num": 1245,
+    "title": "Where the Light Dwells",
+    "file": "chapter1245.html"
+  },
+  {
+    "num": 1246,
+    "title": "The Slums",
+    "file": "chapter1246.html"
+  },
+  {
+    "num": 1247,
+    "title": "Another Group of Insiders",
+    "file": "chapter1247.html"
+  },
+  {
+    "num": 1248,
+    "title": "Nagrand",
+    "file": "chapter1248.html"
+  },
+  {
+    "num": 1249,
+    "title": "The Lonely Wilderness",
+    "file": "chapter1249.html"
+  },
+  {
+    "num": 1250,
+    "title": "Nothing But Hills",
+    "file": "chapter1250.html"
+  },
+  {
+    "num": 1251,
+    "title": "Where the Rivers Begin",
+    "file": "chapter1251.html"
+  },
+  {
+    "num": 1252,
+    "title": "The Younger Generation",
+    "file": "chapter1252.html"
+  },
+  {
+    "num": 1253,
+    "title": "Serve the Demons, or Stand with Your People",
+    "file": "chapter1253.html"
+  },
+  {
+    "num": 1254,
+    "title": "The One in the Village Best Suited to Dealing with Demons",
+    "file": "chapter1254.html"
+  },
+  {
+    "num": 1255,
+    "title": "Death-eye",
+    "file": "chapter1255.html"
+  },
+  {
+    "num": 1256,
+    "title": "Mark of the Burning Legion",
+    "file": "chapter1256.html"
+  },
+  {
+    "num": 1257,
+    "title": "Boulderfist Pass",
+    "file": "chapter1257.html"
+  },
+  {
+    "num": 1258,
+    "title": "The Fetid Lair",
+    "file": "chapter1258.html"
+  },
+  {
+    "num": 1259,
+    "title": "Let's Have a Dragon Hunt",
+    "file": "chapter1259.html"
+  },
+  {
+    "num": 1260,
+    "title": "The Hunter, in the End…",
+    "file": "chapter1260.html"
+  },
+  {
+    "num": 1261,
+    "title": "Relics of Highmaul",
+    "file": "chapter1261.html"
+  },
+  {
+    "num": 1262,
+    "title": "The Bleeding Hollow's Gift",
+    "file": "chapter1262.html"
+  },
+  {
+    "num": 1263,
+    "title": "The Old High Arak City",
+    "file": "chapter1263.html"
+  },
+  {
+    "num": 1264,
+    "title": "Black Orcs?",
+    "file": "chapter1264.html"
+  },
+  {
+    "num": 1265,
+    "title": "Dark Form",
+    "file": "chapter1265.html"
+  },
+  {
+    "num": 1266,
+    "title": "A Communication the Burning Legion Would Understand",
+    "file": "chapter1266.html"
+  },
+  {
+    "num": 1267,
+    "title": "The Spellbreaker's Hall",
+    "file": "chapter1267.html"
+  },
+  {
+    "num": 1268,
+    "title": "A Disturbance Loud Enough",
+    "file": "chapter1268.html"
+  },
+  {
+    "num": 1269,
+    "title": "The Fel Barrier",
+    "file": "chapter1269.html"
+  },
+  {
+    "num": 1270,
+    "title": "The Felfire Hall",
+    "file": "chapter1270.html"
+  },
+  {
+    "num": 1271,
+    "title": "The Eredar's Struggle",
+    "file": "chapter1271.html"
+  },
+  {
+    "num": 1272,
+    "title": "The Hunting Queen",
+    "file": "chapter1272.html"
+  },
+  {
+    "num": 1273,
+    "title": "We Have to Find Everyone",
+    "file": "chapter1273.html"
+  },
+  {
+    "num": 1274,
+    "title": "The Perfect Casting Material",
+    "file": "chapter1274.html"
+  },
+  {
+    "num": 1275,
+    "title": "The Ogre Warlock's Treasure",
+    "file": "chapter1275.html"
+  },
+  {
+    "num": 1276,
+    "title": "Return from a \"Journey\"",
+    "file": "chapter1276.html"
+  },
+  {
+    "num": 1277,
+    "title": "A Night on the Steppe",
+    "file": "chapter1277.html"
+  },
+  {
+    "num": 1278,
+    "title": "The Dark Wizards' Spell",
+    "file": "chapter1278.html"
+  },
+  {
+    "num": 1279,
+    "title": "Return to Shadowmoon Valley",
+    "file": "chapter1279.html"
+  },
+  {
+    "num": 1280,
+    "title": "The Source of the Grimoire's Power",
+    "file": "chapter1280.html"
+  },
+  {
+    "num": 1281,
+    "title": "The Auchenai Codex",
+    "file": "chapter1281.html"
+  },
+  {
+    "num": 1282,
+    "title": "A Demon for the Demons",
+    "file": "chapter1282.html"
+  },
+  {
+    "num": 1283,
+    "title": "A Step Toward the Past",
+    "file": "chapter1283.html"
+  },
+  {
+    "num": 1284,
+    "title": "Carrying the Expedition's Hope",
+    "file": "chapter1284.html"
+  },
+  {
+    "num": 1285,
+    "title": "You Can Never Have Too Much Magic",
+    "file": "chapter1285.html"
+  },
+  {
+    "num": 1286,
+    "title": "News from Deep in Shadowmoon Valley",
+    "file": "chapter1286.html"
+  },
+  {
+    "num": 1287,
+    "title": "A Solid Step",
+    "file": "chapter1287.html"
+  },
+  {
+    "num": 1288,
+    "title": "At Least Tonight Is Not a Time for Seriousness",
+    "file": "chapter1288.html"
+  },
+  {
+    "num": 1289,
+    "title": "A Sinister Disturbance",
+    "file": "chapter1289.html"
+  },
+  {
+    "num": 1290,
+    "title": "The Void's Gaze",
+    "file": "chapter1290.html"
+  },
+  {
+    "num": 1291,
+    "title": "What Exactly Are We Up Against",
+    "file": "chapter1291.html"
+  },
+  {
+    "num": 1292,
+    "title": "This Ally's a Whole Different Weight Class",
+    "file": "chapter1292.html"
+  },
+  {
+    "num": 1293,
+    "title": "The Least Suitable Envoy",
+    "file": "chapter1293.html"
+  },
+  {
+    "num": 1294,
+    "title": "Divvying Up the Work",
+    "file": "chapter1294.html"
+  },
+  {
+    "num": 1295,
+    "title": "Victim of Terokkar",
+    "file": "chapter1295.html"
+  },
+  {
+    "num": 1296,
+    "title": "Little One",
+    "file": "chapter1296.html"
+  },
+  {
+    "num": 1297,
+    "title": "Ruler of the Bone Wastes",
+    "file": "chapter1297.html"
+  },
+  {
+    "num": 1298,
+    "title": "The Blackwing's Pledge",
+    "file": "chapter1298.html"
+  },
+  {
+    "num": 1299,
+    "title": "The Dragonmaw Assault Plan",
+    "file": "chapter1299.html"
+  },
+  {
+    "num": 1300,
+    "title": "Yeah, That Was Me",
+    "file": "chapter1300.html"
+  },
+  {
+    "num": 1301,
+    "title": "Preparation for the Raid",
+    "file": "chapter1301.html"
+  },
+  {
+    "num": 1302,
+    "title": "An Unusual Bloodline",
+    "file": "chapter1302.html"
+  },
+  {
+    "num": 1303,
+    "title": "Setting Out Like Last Time",
+    "file": "chapter1303.html"
+  },
+  {
+    "num": 1304,
+    "title": "The Dragonmaw Wall",
+    "file": "chapter1304.html"
+  },
+  {
+    "num": 1305,
+    "title": "The Fel Flame of Karabor",
+    "file": "chapter1305.html"
+  },
+  {
+    "num": 1306,
+    "title": "Zuluhed's \"Treasure\"",
+    "file": "chapter1306.html"
+  },
+  {
+    "num": 1307,
+    "title": "The Void Domain",
+    "file": "chapter1307.html"
+  },
+  {
+    "num": 1308,
+    "title": "Nether Infusion",
+    "file": "chapter1308.html"
+  },
+  {
+    "num": 1309,
+    "title": "Consume Destruction",
+    "file": "chapter1309.html"
+  },
+  {
+    "num": 1310,
+    "title": "Victorious Return",
+    "file": "chapter1310.html"
+  },
+  {
+    "num": 1311,
+    "title": "The \"Secret\" of the Netherwing Mountains",
+    "file": "chapter1311.html"
+  },
+  {
+    "num": 1312,
+    "title": "A Path Laid Out",
+    "file": "chapter1312.html"
+  },
+  {
+    "num": 1313,
+    "title": "The Wraith Tavern",
+    "file": "chapter1313.html"
+  },
+  {
+    "num": 1314,
+    "title": "The Black Prince's Gift",
+    "file": "chapter1314.html"
+  },
+  {
+    "num": 1315,
+    "title": "A Special Flame",
+    "file": "chapter1315.html"
+  },
+  {
+    "num": 1316,
+    "title": "Undiscovered Talent",
+    "file": "chapter1316.html"
+  },
+  {
+    "num": 1317,
+    "title": "A Feint",
+    "file": "chapter1317.html"
+  },
+  {
+    "num": 1318,
+    "title": "Father and Daughter",
+    "file": "chapter1318.html"
+  },
+  {
+    "num": 1319,
+    "title": "Grasp Your True Power",
+    "file": "chapter1319.html"
+  },
+  {
+    "num": 1320,
+    "title": "Cracking",
+    "file": "chapter1320.html"
+  },
+  {
+    "num": 1321,
+    "title": "Searching for the Scepter",
+    "file": "chapter1321.html"
+  },
+  {
+    "num": 1322,
+    "title": "The Paladin's Doubts",
+    "file": "chapter1322.html"
+  },
+  {
+    "num": 1323,
+    "title": "Setting Out for Hellfire Citadel",
+    "file": "chapter1323.html"
+  },
+  {
+    "num": 1324,
+    "title": "Two Orcs",
+    "file": "chapter1324.html"
+  },
+  {
+    "num": 1325,
+    "title": "The Hellfire Ramparts",
+    "file": "chapter1325.html"
+  },
+  {
+    "num": 1326,
+    "title": "The War-Bringer's Ring",
+    "file": "chapter1326.html"
+  },
+  {
+    "num": 1327,
+    "title": "The Warchief",
+    "file": "chapter1327.html"
+  },
+  {
+    "num": 1328,
+    "title": "The Ethereal Envoy",
+    "file": "chapter1328.html"
+  },
+  {
+    "num": 1329,
+    "title": "Lost Connection",
+    "file": "chapter1329.html"
+  },
+  {
+    "num": 1330,
+    "title": "Back to the Mountains at Last",
+    "file": "chapter1330.html"
+  },
+  {
+    "num": 1331,
+    "title": "The Consortium's Plan",
+    "file": "chapter1331.html"
+  },
+  {
+    "num": 1332,
+    "title": "Jace's Plan",
+    "file": "chapter1332.html"
+  },
+  {
+    "num": 1333,
+    "title": "The Prince's Choice",
+    "file": "chapter1333.html"
+  },
+  {
+    "num": 1334,
+    "title": "Leaving Blade's Edge",
+    "file": "chapter1334.html"
+  },
+  {
+    "num": 1335,
+    "title": "The Secret Passage",
+    "file": "chapter1335.html"
+  },
+  {
+    "num": 1336,
+    "title": "Auchindoun, Auchindoun...",
+    "file": "chapter1336.html"
+  },
+  {
+    "num": 1337,
+    "title": "Velen",
+    "file": "chapter1337.html"
+  },
+  {
+    "num": 1338,
+    "title": "Vengeful Spirits",
+    "file": "chapter1338.html"
+  },
+  {
+    "num": 1339,
+    "title": "At Least We Can Share the Burden",
+    "file": "chapter1339.html"
+  },
+  {
+    "num": 1340,
+    "title": "I Did Promise",
+    "file": "chapter1340.html"
+  },
+  {
+    "num": 1341,
+    "title": "Ethereal Technology",
+    "file": "chapter1341.html"
+  },
+  {
+    "num": 1342,
+    "title": "Transmission and Infiltration",
+    "file": "chapter1342.html"
+  },
+  {
+    "num": 1343,
+    "title": "Evacuation Plan",
+    "file": "chapter1343.html"
+  },
+  {
+    "num": 1344,
+    "title": "Hellfire Citadel, or Karabor",
+    "file": "chapter1344.html"
+  },
+  {
+    "num": 1345,
+    "title": "The Revealing Spell",
+    "file": "chapter1345.html"
+  },
+  {
+    "num": 1346,
+    "title": "Problems Within the Cult",
+    "file": "chapter1346.html"
+  },
+  {
+    "num": 1347,
+    "title": "Left and Right",
+    "file": "chapter1347.html"
+  },
+  {
+    "num": 1348,
+    "title": "Vorpil's Decision",
+    "file": "chapter1348.html"
+  },
+  {
+    "num": 1349,
+    "title": "Another Kind of Shadow",
+    "file": "chapter1349.html"
+  },
+  {
+    "num": 1350,
+    "title": "Taking the Bait",
+    "file": "chapter1350.html"
+  },
+  {
+    "num": 1351,
+    "title": "The Blackwing Warrior's Achievement",
+    "file": "chapter1351.html"
+  },
+  {
+    "num": 1352,
+    "title": "The Tomb's Response",
+    "file": "chapter1352.html"
+  },
+  {
+    "num": 1353,
+    "title": "Testing a New Contact Point",
+    "file": "chapter1353.html"
+  },
+  {
+    "num": 1354,
+    "title": "The Final Piece of the Puzzle",
+    "file": "chapter1354.html"
+  },
+  {
+    "num": 1355,
+    "title": "The Elemental Soul Theft Plan",
+    "file": "chapter1355.html"
+  },
+  {
+    "num": 1356,
+    "title": "Assault on the Auchenai",
+    "file": "chapter1356.html"
+  },
+  {
+    "num": 1357,
+    "title": "The Legion Permits No Doubt",
+    "file": "chapter1357.html"
+  },
+  {
+    "num": 1358,
+    "title": "All in the Name of Karabor",
+    "file": "chapter1358.html"
+  },
+  {
+    "num": 1359,
+    "title": "Depths of the Crypt",
+    "file": "chapter1359.html"
+  },
+  {
+    "num": 1360,
+    "title": "Portal Construction Begins",
+    "file": "chapter1360.html"
+  },
+  {
+    "num": 1361,
+    "title": "Only Those You Trust",
+    "file": "chapter1361.html"
+  },
+  {
+    "num": 1362,
+    "title": "Kirin Tor's Gambit",
+    "file": "chapter1362.html"
+  },
+  {
+    "num": 1363,
+    "title": "Divinatory Travel?",
+    "file": "chapter1363.html"
+  },
+  {
+    "num": 1364,
+    "title": "The Fault Is All Yours",
+    "file": "chapter1364.html"
+  },
+  {
+    "num": 1365,
+    "title": "The Shriekhall",
+    "file": "chapter1365.html"
+  },
+  {
+    "num": 1366,
+    "title": "The Shriekhall (Part 2)",
+    "file": "chapter1366.html"
+  },
+  {
+    "num": 1367,
+    "title": "Indelible Memories",
+    "file": "chapter1367.html"
+  },
+  {
+    "num": 1368,
+    "title": "The Kirin Tor's Little Joke",
+    "file": "chapter1368.html"
+  },
+  {
+    "num": 1369,
+    "title": "A Fleeting Dream",
+    "file": "chapter1369.html"
+  },
+  {
+    "num": 1370,
+    "title": "Because Naigagg Must Die",
+    "file": "chapter1370.html"
+  },
+  {
+    "num": 1371,
+    "title": "The Old Bastard Finally Took the Bait",
+    "file": "chapter1371.html"
+  },
+  {
+    "num": 1372,
+    "title": "Sorsala's Reason",
+    "file": "chapter1372.html"
+  },
+  {
+    "num": 1373,
+    "title": "Who Is the Traitor?",
+    "file": "chapter1373.html"
+  },
+  {
+    "num": 1374,
+    "title": "Vopiel's Incantation",
+    "file": "chapter1374.html"
+  },
+  {
+    "num": 1375,
+    "title": "Simultaneously in the Past and Present",
+    "file": "chapter1375.html"
+  },
+  {
+    "num": 1376,
+    "title": "The Echo Fades",
+    "file": "chapter1376.html"
+  },
+  {
+    "num": 1377,
+    "title": "Everything for the Portal Now",
+    "file": "chapter1377.html"
+  },
+  {
+    "num": 1378,
+    "title": "One Step Further",
+    "file": "chapter1378.html"
+  },
+  {
+    "num": 1379,
+    "title": "The Spirits' Promise",
+    "file": "chapter1379.html"
+  },
+  {
+    "num": 1380,
+    "title": "That Day Draws Near",
+    "file": "chapter1380.html"
+  },
+  {
+    "num": 1381,
+    "title": "Shadow Bolt Volley",
+    "file": "chapter1381.html"
+  },
+  {
+    "num": 1382,
+    "title": "The Black Dragon Prince's Clever Trick",
+    "file": "chapter1382.html"
+  },
+  {
+    "num": 1383,
+    "title": "Soul Divination?",
+    "file": "chapter1383.html"
+  },
+  {
+    "num": 1384,
+    "title": "Just Some Warlock's Scheme",
+    "file": "chapter1384.html"
+  },
+  {
+    "num": 1385,
+    "title": "\"Dreaming\" of Azeroth",
+    "file": "chapter1385.html"
+  },
+  {
+    "num": 1386,
+    "title": "Telogrus's Mysterious Relic?",
+    "file": "chapter1386.html"
+  },
+  {
+    "num": 1387,
+    "title": "The Orc's \"Lie\"",
+    "file": "chapter1387.html"
+  },
+  {
+    "num": 1388,
+    "title": "Everyone Has Their Own Schemes",
+    "file": "chapter1388.html"
+  },
+  {
+    "num": 1389,
+    "title": "Telogrus",
+    "file": "chapter1389.html"
+  },
+  {
+    "num": 1390,
+    "title": "Gul'dan's Legacy",
+    "file": "chapter1390.html"
+  },
+  {
+    "num": 1391,
+    "title": "Almost There",
+    "file": "chapter1391.html"
+  },
+  {
+    "num": 1392,
+    "title": "The Auchindoun Gate",
+    "file": "chapter1392.html"
+  },
+  {
+    "num": 1393,
+    "title": "The Shadow Council's Struggle",
+    "file": "chapter1393.html"
+  },
+  {
+    "num": 1394,
+    "title": "Protect the Portal!",
+    "file": "chapter1394.html"
+  },
+  {
+    "num": 1395,
+    "title": "Target: The Throne of Kil'jaeden",
+    "file": "chapter1395.html"
+  },
+  {
+    "num": 1396,
+    "title": "The Summit of Hellfire Peninsula",
+    "file": "chapter1396.html"
+  },
+  {
+    "num": 1397,
+    "title": "The Guardian of the Black Temple",
+    "file": "chapter1397.html"
+  },
+  {
+    "num": 1398,
+    "title": "Embracing Fate",
+    "file": "chapter1398.html"
+  },
+  {
+    "num": 1399,
+    "title": "Blackwing",
+    "file": "chapter1399.html"
+  },
+  {
+    "num": 1400,
+    "title": "The Cold Fire",
+    "file": "chapter1400.html"
+  },
+  {
+    "num": 1401,
+    "title": "What You Truly Value",
+    "file": "chapter1401.html"
+  },
+  {
+    "num": 1402,
+    "title": "Still That Same Garden",
+    "file": "chapter1402.html"
+  },
+  {
+    "num": 1403,
+    "title": "The Summoner",
+    "file": "chapter1403.html"
+  },
+  {
+    "num": 1404,
+    "title": "Since It's Over, Let It Go",
+    "file": "chapter1404.html"
+  },
+  {
+    "num": 1405,
+    "title": "Everyone Kept Their Promises",
+    "file": "chapter1405.html"
+  },
+  {
+    "num": 1406,
+    "title": "Outside the Mage Tower",
+    "file": "chapter1406.html"
+  },
+  {
+    "num": 1407,
+    "title": "The Corruption of Telogrus",
+    "file": "chapter1407.html"
+  },
+  {
+    "num": 1408,
+    "title": "The True Cause of Pain",
+    "file": "chapter1408.html"
+  },
+  {
+    "num": 1409,
+    "title": "Night at the Mage Tower",
+    "file": "chapter1409.html"
+  },
+  {
+    "num": 1410,
+    "title": "Could Anyone Else Have Succeeded",
+    "file": "chapter1410.html"
+  },
+  {
+    "num": 1411,
+    "title": "The Bargaining Chip",
+    "file": "chapter1411.html"
+  },
+  {
+    "num": 1412,
+    "title": "Is This Help or Thanks?",
+    "file": "chapter1412.html"
+  },
+  {
+    "num": 1413,
+    "title": "The True Owners of the Rift Fragment",
+    "file": "chapter1413.html"
+  },
+  {
+    "num": 1414,
+    "title": "The Most Tempting Trick",
+    "file": "chapter1414.html"
+  },
+  {
+    "num": 1415,
+    "title": "Sesso's Demon Assembly",
+    "file": "chapter1415.html"
+  },
+  {
+    "num": 1416,
+    "title": "The Expedition's Return",
+    "file": "chapter1416.html"
+  },
+  {
+    "num": 1417,
+    "title": "Standing in the Light",
+    "file": "chapter1417.html"
+  },
+  {
+    "num": 1418,
+    "title": "Rain in the Night",
+    "file": "chapter1418.html"
+  },
+  {
+    "num": 1419,
+    "title": "If You're Going to Find a Teacher, Find the Best",
+    "file": "chapter1419.html"
+  },
+  {
+    "num": 1420,
+    "title": "Taking This Little Thing Home",
+    "file": "chapter1420.html"
+  },
+  {
+    "num": 1421,
+    "title": "The Black Dragon Flying Into Grim Batol",
+    "file": "chapter1421.html"
+  },
+  {
+    "num": 1422,
+    "title": "Seeing the Queen Again",
+    "file": "chapter1422.html"
+  },
+  {
+    "num": 1423,
+    "title": "The Black Dragon's Choice",
+    "file": "chapter1423.html"
+  },
+  {
+    "num": 1424,
+    "title": "Just One More Piece",
+    "file": "chapter1424.html"
+  },
+  {
+    "num": 1425,
+    "title": "A Message from the North",
+    "file": "chapter1425.html"
+  },
+  {
+    "num": 1426,
+    "title": "A New Research Consultant",
+    "file": "chapter1426.html"
+  },
+  {
+    "num": 1427,
+    "title": "The Black Dragon Settling in Stormwind",
+    "file": "chapter1427.html"
+  },
+  {
+    "num": 1428,
+    "title": "The Apothecary's Work",
+    "file": "chapter1428.html"
+  },
+  {
+    "num": 1429,
+    "title": "What Society?",
+    "file": "chapter1429.html"
+  },
+  {
+    "num": 1430,
+    "title": "Dragon Fishing",
+    "file": "chapter1430.html"
+  },
+  {
+    "num": 1431,
+    "title": "The Coming of Age Ceremony (Part 1)",
+    "file": "chapter1431.html"
+  },
+  {
+    "num": 1432,
+    "title": "Coming of Age (Part 2)",
+    "file": "chapter1432.html"
+  },
+  {
+    "num": 1433,
+    "title": "The Banquet",
+    "file": "chapter1433.html"
+  },
+  {
+    "num": 1434,
+    "title": "Sylvanas's Wish",
+    "file": "chapter1434.html"
+  },
+  {
+    "num": 1435,
+    "title": "After the Banquet",
+    "file": "chapter1435.html"
+  },
+  {
+    "num": 1436,
+    "title": "The Prince and the Princess",
+    "file": "chapter1436.html"
+  },
+  {
+    "num": 1437,
+    "title": "Dreams in the Tavern",
+    "file": "chapter1437.html"
+  },
+  {
+    "num": 1438,
+    "title": "Preparing to Enter the Dream",
+    "file": "chapter1438.html"
+  },
+  {
+    "num": 1439,
+    "title": "It Really Is a Soul Well, But the Gul'dan Version",
+    "file": "chapter1439.html"
+  },
+  {
+    "num": 1440,
+    "title": "The New Lounger",
+    "file": "chapter1440.html"
+  },
+  {
+    "num": 1441,
+    "title": "Entering the Void Requires a Flying Helper",
+    "file": "chapter1441.html"
+  },
+  {
+    "num": 1442,
+    "title": "The Dark Tower Draws Closer",
+    "file": "chapter1442.html"
+  },
+  {
+    "num": 1443,
+    "title": "More Than One Door",
+    "file": "chapter1443.html"
+  },
+  {
+    "num": 1444,
+    "title": "The Password",
+    "file": "chapter1444.html"
+  },
+  {
+    "num": 1445,
+    "title": "The Way Up",
+    "file": "chapter1445.html"
+  },
+  {
+    "num": 1446,
+    "title": "Embers of Life's Essence",
+    "file": "chapter1446.html"
+  },
+  {
+    "num": 1447,
+    "title": "Honored Guests",
+    "file": "chapter1447.html"
+  },
+  {
+    "num": 1448,
+    "title": "The Theater",
+    "file": "chapter1448.html"
+  },
+  {
+    "num": 1449,
+    "title": "On Stage and Off",
+    "file": "chapter1449.html"
+  },
+  {
+    "num": 1450,
+    "title": "Act One",
+    "file": "chapter1450.html"
+  },
+  {
+    "num": 1451,
+    "title": "A Turn of Fortune",
+    "file": "chapter1451.html"
+  },
+  {
+    "num": 1452,
+    "title": "The Demon in the Cottage",
+    "file": "chapter1452.html"
+  },
+  {
+    "num": 1453,
+    "title": "The Foolish Apprentice",
+    "file": "chapter1453.html"
+  },
+  {
+    "num": 1454,
+    "title": "Everything's Different in Karazhan",
+    "file": "chapter1454.html"
+  },
+  {
+    "num": 1455,
+    "title": "You've Got a Dog, So Have I",
+    "file": "chapter1455.html"
+  },
+  {
+    "num": 1456,
+    "title": "Aran's Library Hall",
+    "file": "chapter1456.html"
+  },
+  {
+    "num": 1457,
+    "title": "Snowstorm in the Tower",
+    "file": "chapter1457.html"
+  },
+  {
+    "num": 1458,
+    "title": "Fighting From the Unknown Corner",
+    "file": "chapter1458.html"
+  },
+  {
+    "num": 1459,
+    "title": "The Curator's Records",
+    "file": "chapter1459.html"
+  },
+  {
+    "num": 1460,
+    "title": "Traces of the Search",
+    "file": "chapter1460.html"
+  },
+  {
+    "num": 1461,
+    "title": "Aegwynn and the Scepter of Sargeras?",
+    "file": "chapter1461.html"
+  },
+  {
+    "num": 1462,
+    "title": "So It Still Had to Be Done That Way",
+    "file": "chapter1462.html"
+  },
+  {
+    "num": 1463,
+    "title": "Pointing to the Source of Chaos",
+    "file": "chapter1463.html"
+  },
+  {
+    "num": 1464,
+    "title": "The Afterimage in the Observatory",
+    "file": "chapter1464.html"
+  },
+  {
+    "num": 1465,
+    "title": "Three on Three",
+    "file": "chapter1465.html"
+  },
+  {
+    "num": 1466,
+    "title": "Mistress, or Prisoners (Part 1)",
+    "file": "chapter1466.html"
+  },
+  {
+    "num": 1467,
+    "title": "Mistress, or Prisoners (Part 2)",
+    "file": "chapter1467.html"
+  },
+  {
+    "num": 1468,
+    "title": "The Ritual in the Observatorium",
+    "file": "chapter1468.html"
+  },
+  {
+    "num": 1469,
+    "title": "The Victor's Prize",
+    "file": "chapter1469.html"
+  },
+  {
+    "num": 1470,
+    "title": "Return to the Theater",
+    "file": "chapter1470.html"
+  },
+  {
+    "num": 1471,
+    "title": "Back on Track",
+    "file": "chapter1471.html"
+  },
+  {
+    "num": 1472,
+    "title": "The Storeroom",
+    "file": "chapter1472.html"
+  },
+  {
+    "num": 1473,
+    "title": "The Index",
+    "file": "chapter1473.html"
+  },
+  {
+    "num": 1474,
+    "title": "The Tower Master's Secret?",
+    "file": "chapter1474.html"
+  },
+  {
+    "num": 1475,
+    "title": "Attempting to Simulate",
+    "file": "chapter1475.html"
+  },
+  {
+    "num": 1476,
+    "title": "Simulation? Or...",
+    "file": "chapter1476.html"
+  },
+  {
+    "num": 1477,
+    "title": "Khadgar's Gift",
+    "file": "chapter1477.html"
+  },
+  {
+    "num": 1478,
+    "title": "Demon Simulation",
+    "file": "chapter1478.html"
+  },
+  {
+    "num": 1479,
+    "title": "Draenei and the Swamp",
+    "file": "chapter1479.html"
+  },
+  {
+    "num": 1480,
+    "title": "Return to the Dark Portal",
+    "file": "chapter1480.html"
+  },
+  {
+    "num": 1481,
+    "title": "Born from Destruction",
+    "file": "chapter1481.html"
+  },
+  {
+    "num": 1482,
+    "title": "Self-Made Targets",
+    "file": "chapter1482.html"
+  },
+  {
+    "num": 1483,
+    "title": "Brewfest Means a Lot to Dwarves",
+    "file": "chapter1483.html"
+  },
+  {
+    "num": 1484,
+    "title": "The New Dark Iron",
+    "file": "chapter1484.html"
+  },
+  {
+    "num": 1485,
+    "title": "Reporting to the Alchemist",
+    "file": "chapter1485.html"
+  },
+  {
+    "num": 1486,
+    "title": "A Step Further",
+    "file": "chapter1486.html"
+  },
+  {
+    "num": 1487,
+    "title": "Operation Warlord",
+    "file": "chapter1487.html"
+  },
+  {
+    "num": 1488,
+    "title": "At Least There's a Spell to Share",
+    "file": "chapter1488.html"
+  },
+  {
+    "num": 1489,
+    "title": "The Crackfists of Mount Wogul",
+    "file": "chapter1489.html"
+  },
+  {
+    "num": 1490,
+    "title": "Orguril",
+    "file": "chapter1490.html"
+  },
+  {
+    "num": 1491,
+    "title": "Wasteland of the Deep Valley",
+    "file": "chapter1491.html"
+  },
+  {
+    "num": 1492,
+    "title": "Mathias's Suggestion",
+    "file": "chapter1492.html"
+  },
+  {
+    "num": 1493,
+    "title": "The \"Hundred Souls\" Robe?",
+    "file": "chapter1493.html"
+  },
+  {
+    "num": 1494,
+    "title": "Something's Off About Mom and Dad's House",
+    "file": "chapter1494.html"
+  },
+  {
+    "num": 1495,
+    "title": "A Match Staked on Bloodlines",
+    "file": "chapter1495.html"
+  },
+  {
+    "num": 1496,
+    "title": "Flying Into the Snowy Mountains",
+    "file": "chapter1496.html"
+  },
+  {
+    "num": 1497,
+    "title": "The Perfect Gift",
+    "file": "chapter1497.html"
+  },
+  {
+    "num": 1498,
+    "title": "About the \"Task\"",
+    "file": "chapter1498.html"
+  },
+  {
+    "num": 1499,
+    "title": "After All This Wandering, Here We Are...",
+    "file": "chapter1499.html"
+  },
+  {
+    "num": 1500,
+    "title": "The Violet Hold",
+    "file": "chapter1500.html"
+  },
+  {
+    "num": 1501,
+    "title": "Prisoner of the Magic Prison",
+    "file": "chapter1501.html"
+  },
+  {
+    "num": 1502,
+    "title": "Full Supervision?",
+    "file": "chapter1502.html"
+  },
+  {
+    "num": 1503,
+    "title": "From the Tower Top to the Hall",
+    "file": "chapter1503.html"
+  },
+  {
+    "num": 1504,
+    "title": "The Dream Journey",
+    "file": "chapter1504.html"
+  },
+  {
+    "num": 1505,
+    "title": "An Elven Method?",
+    "file": "chapter1505.html"
+  },
+  {
+    "num": 1506,
+    "title": "The Alterac Gladiator",
+    "file": "chapter1506.html"
+  },
+  {
+    "num": 1507,
+    "title": "Into the Unknown Future",
+    "file": "chapter1507.html"
+  },
+  {
+    "num": 1508,
+    "title": "The Road of Escape",
+    "file": "chapter1508.html"
+  },
+  {
+    "num": 1509,
+    "title": "Passing Through Southshore",
+    "file": "chapter1509.html"
+  },
+  {
+    "num": 1510,
+    "title": "There's Always a First Time",
+    "file": "chapter1510.html"
+  },
+  {
+    "num": 1511,
+    "title": "Grim Batol Reunion",
+    "file": "chapter1511.html"
+  },
+  {
+    "num": 1512,
+    "title": "Brewfest in the Valley",
+    "file": "chapter1512.html"
+  },
+  {
+    "num": 1513,
+    "title": "The Last Step, and the First",
+    "file": "chapter1513.html"
+  },
+  {
+    "num": 1514,
+    "title": "Sulfuron",
+    "file": "chapter1514.html"
+  },
+  {
+    "num": 1515,
+    "title": "A Common Enemy for the Three Hammers",
+    "file": "chapter1515.html"
+  },
+  {
+    "num": 1516,
+    "title": "Hide the Lava Inside the Lava",
+    "file": "chapter1516.html"
+  },
+  {
+    "num": 1517,
+    "title": "Lake Valar",
+    "file": "chapter1517.html"
+  },
+  {
+    "num": 1518,
+    "title": "Farewell, Menethil",
+    "file": "chapter1518.html"
+  },
+  {
+    "num": 1519,
+    "title": "Doing What King Varian Should Do",
+    "file": "chapter1519.html"
+  },
+  {
+    "num": 1520,
+    "title": "A Chest Full of Soul Shards",
+    "file": "chapter1520.html"
+  },
+  {
+    "num": 1521,
+    "title": "Common Ground Between Enchanting and Simulation",
+    "file": "chapter1521.html"
+  },
+  {
+    "num": 1522,
+    "title": "The Beauty of Power",
+    "file": "chapter1522.html"
+  },
+  {
+    "num": 1523,
+    "title": "Valuables Requiring a Dark Iron Escort",
+    "file": "chapter1523.html"
+  },
+  {
+    "num": 1524,
+    "title": "Approaching from the Other Side",
+    "file": "chapter1524.html"
+  },
+  {
+    "num": 1525,
+    "title": "When Paths Cross, Might Makes Right",
+    "file": "chapter1525.html"
+  },
+  {
+    "num": 1526,
+    "title": "Transformed and Onward",
+    "file": "chapter1526.html"
+  },
+  {
+    "num": 1527,
+    "title": "The Dark Iron Gate",
+    "file": "chapter1527.html"
+  },
+  {
+    "num": 1528,
+    "title": "Inspection? Inspect This!",
+    "file": "chapter1528.html"
+  },
+  {
+    "num": 1529,
+    "title": "The \"Missionaries\" of Shadowforge City",
+    "file": "chapter1529.html"
+  },
+  {
+    "num": 1530,
+    "title": "The Old Blacksmith's Dream",
+    "file": "chapter1530.html"
+  },
+  {
+    "num": 1531,
+    "title": "The Ritual of Molten Core",
+    "file": "chapter1531.html"
+  },
+  {
+    "num": 1532,
+    "title": "How to Conquer \"Sulfuron Fire\"?",
+    "file": "chapter1532.html"
+  },
+  {
+    "num": 1533,
+    "title": "The Wizard of Shadowforge City",
+    "file": "chapter1533.html"
+  },
+  {
+    "num": 1534,
+    "title": "The Crack Between Dwarf and Flame",
+    "file": "chapter1534.html"
+  },
+  {
+    "num": 1535,
+    "title": "The Robe, Once More",
+    "file": "chapter1535.html"
+  },
+  {
+    "num": 1536,
+    "title": "Gestane's Secret Means",
+    "file": "chapter1536.html"
+  },
+  {
+    "num": 1537,
+    "title": "The Enemy of My Enemy",
+    "file": "chapter1537.html"
+  },
+  {
+    "num": 1538,
+    "title": "The Dark Iron Warlocks' Intelligence",
+    "file": "chapter1538.html"
+  },
+  {
+    "num": 1539,
+    "title": "The Twilight's Hammer Embassy",
+    "file": "chapter1539.html"
+  },
+  {
+    "num": 1540,
+    "title": "Both Sides at Once",
+    "file": "chapter1540.html"
+  },
+  {
+    "num": 1541,
+    "title": "The Thief",
+    "file": "chapter1541.html"
+  },
+  {
+    "num": 1542,
+    "title": "Nest of Corruption",
+    "file": "chapter1542.html"
+  },
+  {
+    "num": 1543,
+    "title": "After the Nightmare",
+    "file": "chapter1543.html"
+  },
+  {
+    "num": 1544,
+    "title": "Still No Good",
+    "file": "chapter1544.html"
+  },
+  {
+    "num": 1545,
+    "title": "It's All for Morophil",
+    "file": "chapter1545.html"
+  },
+  {
+    "num": 1546,
+    "title": "Ancient Ally",
+    "file": "chapter1546.html"
+  },
+  {
+    "num": 1547,
+    "title": "Half a Prisoner",
+    "file": "chapter1547.html"
+  },
+  {
+    "num": 1548,
+    "title": "First Day as Twilight's Hammer",
+    "file": "chapter1548.html"
+  },
+  {
+    "num": 1549,
+    "title": "Molten Core",
+    "file": "chapter1549.html"
+  },
+  {
+    "num": 1550,
+    "title": "Baron Geddon",
+    "file": "chapter1550.html"
+  },
+  {
+    "num": 1551,
+    "title": "Lord Incendius",
+    "file": "chapter1551.html"
+  },
+  {
+    "num": 1552,
+    "title": "The Flame's Desire",
+    "file": "chapter1552.html"
+  },
+  {
+    "num": 1553,
+    "title": "In the Name of the Old Gods",
+    "file": "chapter1553.html"
+  },
+  {
+    "num": 1554,
+    "title": "Wind Element",
+    "file": "chapter1554.html"
+  },
+  {
+    "num": 1555,
+    "title": "Freedom Regained?",
+    "file": "chapter1555.html"
+  },
+  {
+    "num": 1556,
+    "title": "The Remaining Part",
+    "file": "chapter1556.html"
+  },
+  {
+    "num": 1557,
+    "title": "The Dark Iron Emperor's Loyalty to the Elements",
+    "file": "chapter1557.html"
+  },
+  {
+    "num": 1558,
+    "title": "Thaurissan",
+    "file": "chapter1558.html"
+  },
+  {
+    "num": 1559,
+    "title": "Twilight's Hammer? Or Dragon?",
+    "file": "chapter1559.html"
+  },
+  {
+    "num": 1560,
+    "title": "What Kind of Dragon?",
+    "file": "chapter1560.html"
+  },
+  {
+    "num": 1561,
+    "title": "Shadowforge City's Ancient Tradition",
+    "file": "chapter1561.html"
+  },
+  {
+    "num": 1562,
+    "title": "The Seven Sages",
+    "file": "chapter1562.html"
+  },
+  {
+    "num": 1563,
+    "title": "Breaking the Balance",
+    "file": "chapter1563.html"
+  },
+  {
+    "num": 1564,
+    "title": "Who Needs Fair Play?",
+    "file": "chapter1564.html"
+  },
+  {
+    "num": 1565,
+    "title": "Civil War",
+    "file": "chapter1565.html"
+  },
+  {
+    "num": 1566,
+    "title": "The Abandoned Hall",
+    "file": "chapter1566.html"
+  },
+  {
+    "num": 1567,
+    "title": "Bluffing Through",
+    "file": "chapter1567.html"
+  },
+  {
+    "num": 1568,
+    "title": "Team Culture Is...",
+    "file": "chapter1568.html"
+  },
+  {
+    "num": 1569,
+    "title": "One Last Push",
+    "file": "chapter1569.html"
+  },
+  {
+    "num": 1570,
+    "title": "Records of the Twilight's Hammer",
+    "file": "chapter1570.html"
+  },
+  {
+    "num": 1571,
+    "title": "The Warlocks' Choice",
+    "file": "chapter1571.html"
+  },
+  {
+    "num": 1572,
+    "title": "One Each, Or Two?",
+    "file": "chapter1572.html"
+  },
+  {
+    "num": 1573,
+    "title": "The Majordomo's Throne",
+    "file": "chapter1573.html"
+  },
+  {
+    "num": 1574,
+    "title": "The Protection Rune",
+    "file": "chapter1574.html"
+  },
+  {
+    "num": 1575,
+    "title": "Executus",
+    "file": "chapter1575.html"
+  },
+  {
+    "num": 1576,
+    "title": "The Ritual Begins",
+    "file": "chapter1576.html"
+  },
+  {
+    "num": 1577,
+    "title": "The Black Mountain Summit",
+    "file": "chapter1577.html"
+  },
+  {
+    "num": 1578,
+    "title": "Witness the Hammer",
+    "file": "chapter1578.html"
+  },
+  {
+    "num": 1579,
+    "title": "A Brief Victory",
+    "file": "chapter1579.html"
+  },
+  {
+    "num": 1580,
+    "title": "Shazzrah's Ambition?",
+    "file": "chapter1580.html"
+  },
+  {
+    "num": 1581,
+    "title": "The Ash-Filled Cave",
+    "file": "chapter1581.html"
+  },
+  {
+    "num": 1582,
+    "title": "The Arcane Flamewaker",
+    "file": "chapter1582.html"
+  },
+  {
+    "num": 1583,
+    "title": "Siege of Molten Core",
+    "file": "chapter1583.html"
+  },
+  {
+    "num": 1584,
+    "title": "Ice and Fire",
+    "file": "chapter1584.html"
+  },
+  {
+    "num": 1585,
+    "title": "Lava Lake",
+    "file": "chapter1585.html"
+  },
+  {
+    "num": 1586,
+    "title": "The Flamewakers' Treasure",
+    "file": "chapter1586.html"
+  },
+  {
+    "num": 1587,
+    "title": "True Flame King?",
+    "file": "chapter1587.html"
+  },
+  {
+    "num": 1588,
+    "title": "True Flame King!",
+    "file": "chapter1588.html"
+  },
+  {
+    "num": 1589,
+    "title": "Rune Collapse",
+    "file": "chapter1589.html"
+  },
+  {
+    "num": 1590,
+    "title": "What Troll Temple?",
+    "file": "chapter1590.html"
+  },
+  {
+    "num": 1591,
+    "title": "Sulfuras",
+    "file": "chapter1591.html"
+  },
+  {
+    "num": 1592,
+    "title": "Creator of Blackrock Mountain",
+    "file": "chapter1592.html"
+  },
+  {
+    "num": 1593,
+    "title": "Battle at the Flame Heart",
+    "file": "chapter1593.html"
+  },
+  {
+    "num": 1594,
+    "title": "Just One More Blow to Block",
+    "file": "chapter1594.html"
+  },
+  {
+    "num": 1595,
+    "title": "Someone's Missing?",
+    "file": "chapter1595.html"
+  },
+  {
+    "num": 1596,
+    "title": "Dark Crevice",
+    "file": "chapter1596.html"
+  },
+  {
+    "num": 1597,
+    "title": "The True Master of Sulfuras",
+    "file": "chapter1597.html"
+  },
+  {
+    "num": 1598,
+    "title": "For Khaz Modan!",
+    "file": "chapter1598.html"
+  },
+  {
+    "num": 1599,
+    "title": "King, or Hero?",
+    "file": "chapter1599.html"
+  },
+  {
+    "num": 1600,
+    "title": "The High Places of Blackrock Mountain?",
+    "file": "chapter1600.html"
+  },
+  {
+    "num": 1601,
+    "title": "Outside the Tavern Door",
+    "file": "chapter1601.html"
+  },
+  {
+    "num": 1602,
+    "title": "Roll for It!",
+    "file": "chapter1602.html"
+  },
+  {
+    "num": 1603,
+    "title": "Before the Celebration",
+    "file": "chapter1603.html"
+  },
+  {
+    "num": 1604,
+    "title": "Historically Accurate",
+    "file": "chapter1604.html"
+  },
+  {
+    "num": 1605,
+    "title": "The Dark Iron Feast",
+    "file": "chapter1605.html"
+  },
+  {
+    "num": 1606,
+    "title": "Always Too Late",
+    "file": "chapter1606.html"
+  },
+  {
+    "num": 1607,
+    "title": "Darkness of Blackrock",
+    "file": "chapter1607.html"
+  },
+  {
+    "num": 1608,
+    "title": "Demon? Or Black Dragon?",
+    "file": "chapter1608.html"
+  },
+  {
+    "num": 1609,
+    "title": "Morgan's Watch",
+    "file": "chapter1609.html"
+  },
+  {
+    "num": 1610,
+    "title": "The Light Doesn't Care",
+    "file": "chapter1610.html"
+  },
+  {
+    "num": 1611,
+    "title": "The Power of Telogrus",
+    "file": "chapter1611.html"
+  },
+  {
+    "num": 1612,
+    "title": "Strictly Speaking, Not Killed",
+    "file": "chapter1612.html"
+  },
+  {
+    "num": 1613,
+    "title": "Shadow Medicine Needs Shadow Fire",
+    "file": "chapter1613.html"
+  },
+  {
+    "num": 1614,
+    "title": "Along the Canal",
+    "file": "chapter1614.html"
+  },
+  {
+    "num": 1615,
+    "title": "Early Warning",
+    "file": "chapter1615.html"
+  },
+  {
+    "num": 1616,
+    "title": "A Simple Wish",
+    "file": "chapter1616.html"
+  },
+  {
+    "num": 1617,
+    "title": "Premium Elemental Earth Supplier",
+    "file": "chapter1617.html"
+  },
+  {
+    "num": 1618,
+    "title": "Starting with a Complex Spell",
+    "file": "chapter1618.html"
+  },
+  {
+    "num": 1619,
+    "title": "\"Dark Meteor\", The Next Step (Part 1)",
+    "file": "chapter1619.html"
+  },
+  {
+    "num": 1620,
+    "title": "\"Dark Meteor\", The Next Step (Part 2)",
+    "file": "chapter1620.html"
+  },
+  {
+    "num": 1621,
+    "title": "From Gul'dan to Ursula Delin",
+    "file": "chapter1621.html"
+  },
+  {
+    "num": 1622,
+    "title": "A Winter Friend",
+    "file": "chapter1622.html"
+  },
+  {
+    "num": 1623,
+    "title": "The Northern Paladin (Revised)",
+    "file": "chapter1623.html"
+  },
+  {
+    "num": 1624,
+    "title": "Shadow of the Knight (Revised)",
+    "file": "chapter1624.html"
+  },
+  {
+    "num": 1625,
+    "title": "Step by Step",
+    "file": "chapter1625.html"
+  },
+  {
+    "num": 1626,
+    "title": "Journey to Stonewatch",
+    "file": "chapter1626.html"
+  },
+  {
+    "num": 1627,
+    "title": "What an Eredar Does Best",
+    "file": "chapter1627.html"
+  },
+  {
+    "num": 1628,
+    "title": "The Doom Lord's Spell",
+    "file": "chapter1628.html"
+  },
+  {
+    "num": 1629,
+    "title": "Dark Aura",
+    "file": "chapter1629.html"
+  },
+  {
+    "num": 1630,
+    "title": "Thaurissan's Reply",
+    "file": "chapter1630.html"
+  },
+  {
+    "num": 1631,
+    "title": "Rumors and Gossip",
+    "file": "chapter1631.html"
+  },
+  {
+    "num": 1632,
+    "title": "One Mage After Another",
+    "file": "chapter1632.html"
+  },
+  {
+    "num": 1633,
+    "title": "\"Destruction\" Rises Again?",
+    "file": "chapter1633.html"
+  },
+  {
+    "num": 1634,
+    "title": "Hunter and Pretender",
+    "file": "chapter1634.html"
+  },
+  {
+    "num": 1635,
+    "title": "Wizard's Tower Investigation",
+    "file": "chapter1635.html"
+  },
+  {
+    "num": 1636,
+    "title": "Next, Blackrock Spire",
+    "file": "chapter1636.html"
+  },
+  {
+    "num": 1637,
+    "title": "Reunited at the Storm Altar",
+    "file": "chapter1637.html"
+  },
+  {
+    "num": 1638,
+    "title": "Before the Assembly",
+    "file": "chapter1638.html"
+  },
+  {
+    "num": 1639,
+    "title": "A Hero's Resting Place",
+    "file": "chapter1639.html"
+  },
+  {
+    "num": 1640,
+    "title": "Farstrider Intelligence",
+    "file": "chapter1640.html"
+  },
+  {
+    "num": 1641,
+    "title": "Death Canyon",
+    "file": "chapter1641.html"
+  },
+  {
+    "num": 1642,
+    "title": "Casting Aside the Last Hesitation",
+    "file": "chapter1642.html"
+  },
+  {
+    "num": 1643,
+    "title": "At the Foot of Blackrock Mountain",
+    "file": "chapter1643.html"
+  },
+  {
+    "num": 1644,
+    "title": "The Bridge",
+    "file": "chapter1644.html"
+  },
+  {
+    "num": 1645,
+    "title": "Who Really Commands Demons",
+    "file": "chapter1645.html"
+  },
+  {
+    "num": 1646,
+    "title": "She's On Our Side!",
+    "file": "chapter1646.html"
+  },
+  {
+    "num": 1647,
+    "title": "Rendezvous at the Lava Lake",
+    "file": "chapter1647.html"
+  },
+  {
+    "num": 1648,
+    "title": "Volcanic Fissure",
+    "file": "chapter1648.html"
+  },
+  {
+    "num": 1649,
+    "title": "The Broodmother's Egg?",
+    "file": "chapter1649.html"
+  },
+  {
+    "num": 1650,
+    "title": "Through Hordemar",
+    "file": "chapter1650.html"
+  },
+  {
+    "num": 1651,
+    "title": "Forging a \"True\" Black Dragon",
+    "file": "chapter1651.html"
+  },
+  {
+    "num": 1652,
+    "title": "Source of Power?",
+    "file": "chapter1652.html"
+  },
+  {
+    "num": 1653,
+    "title": "Taking the Lower Spire",
+    "file": "chapter1653.html"
+  },
+  {
+    "num": 1654,
+    "title": "The Spire's Ace",
+    "file": "chapter1654.html"
+  },
+  {
+    "num": 1655,
+    "title": "Ancient Fragment",
+    "file": "chapter1655.html"
+  },
+  {
+    "num": 1656,
+    "title": "The Dragon Blood Seal",
+    "file": "chapter1656.html"
+  },
+  {
+    "num": 1657,
+    "title": "Breaking Into the Upper Spire",
+    "file": "chapter1657.html"
+  },
+  {
+    "num": 1658,
+    "title": "Another Charnel House",
+    "file": "chapter1658.html"
+  },
+  {
+    "num": 1659,
+    "title": "The Vanguard with Extreme Magic Resistance",
+    "file": "chapter1659.html"
+  },
+  {
+    "num": 1660,
+    "title": "The Blackwing Prince's Preliminary Results",
+    "file": "chapter1660.html"
+  },
+  {
+    "num": 1661,
+    "title": "Definitely Didn't Break Any Rules",
+    "file": "chapter1661.html"
+  },
+  {
+    "num": 1662,
+    "title": "Blackhand",
+    "file": "chapter1662.html"
+  },
+  {
+    "num": 1663,
+    "title": "Human and Orc",
+    "file": "chapter1663.html"
+  },
+  {
+    "num": 1664,
+    "title": "Bait?",
+    "file": "chapter1664.html"
+  },
+  {
+    "num": 1665,
+    "title": "Blackwing Lair",
+    "file": "chapter1665.html"
+  },
+  {
+    "num": 1666,
+    "title": "Rage-Fueled Clash",
+    "file": "chapter1666.html"
+  },
+  {
+    "num": 1667,
+    "title": "Razorgore",
+    "file": "chapter1667.html"
+  },
+  {
+    "num": 1668,
+    "title": "Where the Souls of Blackrock Go",
+    "file": "chapter1668.html"
+  },
+  {
+    "num": 1669,
+    "title": "The Orb of Command",
+    "file": "chapter1669.html"
+  },
+  {
+    "num": 1670,
+    "title": "Regrouping",
+    "file": "chapter1670.html"
+  },
+  {
+    "num": 1671,
+    "title": "The Corrupted Will",
+    "file": "chapter1671.html"
+  },
+  {
+    "num": 1672,
+    "title": "Power of the Chromatic (Part 1)",
+    "file": "chapter1672.html"
+  },
+  {
+    "num": 1673,
+    "title": "Power of the Chromatic (Part 2)",
+    "file": "chapter1673.html"
+  },
+  {
+    "num": 1674,
+    "title": "The Tower of Flame and Shadow",
+    "file": "chapter1674.html"
+  },
+  {
+    "num": 1675,
+    "title": "The Lord of Blackwing",
+    "file": "chapter1675.html"
+  },
+  {
+    "num": 1676,
+    "title": "Burning Sky",
+    "file": "chapter1676.html"
+  },
+  {
+    "num": 1677,
+    "title": "Doomsday Dream",
+    "file": "chapter1677.html"
+  },
+  {
+    "num": 1678,
+    "title": "Listen to Your Mother",
+    "file": "chapter1678.html"
+  },
+  {
+    "num": 1679,
+    "title": "Dreadlord",
+    "file": "chapter1679.html"
+  },
+  {
+    "num": 1680,
+    "title": "The Dragon's End",
+    "file": "chapter1680.html"
+  },
+  {
+    "num": 1681,
+    "title": "More Than One",
+    "file": "chapter1681.html"
+  },
+  {
+    "num": 1682,
+    "title": "Triumph",
+    "file": "chapter1682.html"
+  },
+  {
+    "num": 1683,
+    "title": "The Nathrezim's Parting Gift",
+    "file": "chapter1683.html"
+  },
+  {
+    "num": 1684,
+    "title": "Plague in the Tower",
+    "file": "chapter1684.html"
+  },
+  {
+    "num": 1685,
+    "title": "The Plague and You",
+    "file": "chapter1685.html"
+  },
+  {
+    "num": 1686,
+    "title": "Haunting Presence",
+    "file": "chapter1686.html"
+  },
+  {
+    "num": 1687,
+    "title": "Tear of Neltharion",
+    "file": "chapter1687.html"
+  },
+  {
+    "num": 1688,
+    "title": "About the Funeral",
+    "file": "chapter1688.html"
+  },
+  {
+    "num": 1689,
+    "title": "Dinner in the Tower",
+    "file": "chapter1689.html"
+  },
+  {
+    "num": 1690,
+    "title": "Return to Redridge",
+    "file": "chapter1690.html"
+  },
+  {
+    "num": 1691,
+    "title": "How Can You Lose Without Gaining",
+    "file": "chapter1691.html"
+  },
+  {
+    "num": 1692,
+    "title": "Becoming a Hero",
+    "file": "chapter1692.html"
+  },
+  {
+    "num": 1693,
+    "title": "Planning Ahead",
+    "file": "chapter1693.html"
+  },
+  {
+    "num": 1694,
+    "title": "Rain in the Valley of Heroes",
+    "file": "chapter1694.html"
+  },
+  {
+    "num": 1695,
+    "title": "Father and Son",
+    "file": "chapter1695.html"
+  },
+  {
+    "num": 1696,
+    "title": "\"The Poison-Spitting Dragon in the Room\"",
+    "file": "chapter1696.html"
+  },
+  {
+    "num": 1697,
+    "title": "Rumors and Rumors",
+    "file": "chapter1697.html"
+  },
+  {
+    "num": 1698,
+    "title": "Simultaneous Operations",
+    "file": "chapter1698.html"
+  },
+  {
+    "num": 1699,
+    "title": "As an Alchemist, and as a Friend",
+    "file": "chapter1699.html"
+  },
+  {
+    "num": 1700,
+    "title": "Rest",
+    "file": "chapter1700.html"
+  },
+  {
+    "num": 1701,
+    "title": "Taking Off into the Wind",
+    "file": "chapter1701.html"
+  },
+  {
+    "num": 1702,
+    "title": "After the Storm",
+    "file": "chapter1702.html"
+  },
+  {
+    "num": 1703,
+    "title": "The Sulfuras Griddle",
+    "file": "chapter1703.html"
+  },
+  {
+    "num": 1704,
+    "title": "Gray Beach",
+    "file": "chapter1704.html"
+  },
+  {
+    "num": 1705,
+    "title": "One Kind of Green, Another Kind of Green",
+    "file": "chapter1705.html"
+  },
+  {
+    "num": 1706,
+    "title": "Meeting the Master of Gadgetzan Again",
+    "file": "chapter1706.html"
+  },
+  {
+    "num": 1707,
+    "title": "The Lost Ruins",
+    "file": "chapter1707.html"
+  },
+  {
+    "num": 1708,
+    "title": "Wind and Sand",
+    "file": "chapter1708.html"
+  },
+  {
+    "num": 1709,
+    "title": "A Brother",
+    "file": "chapter1709.html"
+  },
+  {
+    "num": 1710,
+    "title": "Making Good Use of the Earth's Affinity",
+    "file": "chapter1710.html"
+  },
+  {
+    "num": 1711,
+    "title": "One Step Too Late",
+    "file": "chapter1711.html"
+  },
+  {
+    "num": 1712,
+    "title": "Ultimate Racing Enthusiast",
+    "file": "chapter1712.html"
+  },
+  {
+    "num": 1713,
+    "title": "Master of the Shimmering Flats",
+    "file": "chapter1713.html"
+  },
+  {
+    "num": 1714,
+    "title": "At Least Fulfill the Dream First",
+    "file": "chapter1714.html"
+  },
+  {
+    "num": 1715,
+    "title": "Mardi's Grand Straightaway",
+    "file": "chapter1715.html"
+  },
+  {
+    "num": 1716,
+    "title": "Silver Medalist",
+    "file": "chapter1716.html"
+  },
+  {
+    "num": 1717,
+    "title": "Finally in Hand",
+    "file": "chapter1717.html"
+  },
+  {
+    "num": 1718,
+    "title": "Freewind Post",
+    "file": "chapter1718.html"
+  },
+  {
+    "num": 1719,
+    "title": "The Wind-Kissed Blade",
+    "file": "chapter1719.html"
+  },
+  {
+    "num": 1720,
+    "title": "Pack It All Up",
+    "file": "chapter1720.html"
+  },
+  {
+    "num": 1721,
+    "title": "Mulgore",
+    "file": "chapter1721.html"
+  },
+  {
+    "num": 1722,
+    "title": "Cow or Horse?",
+    "file": "chapter1722.html"
+  },
+  {
+    "num": 1723,
+    "title": "Who Dares Hurt Sister Sora?!",
+    "file": "chapter1723.html"
+  },
+  {
+    "num": 1724,
+    "title": "Survivors in the Cracks",
+    "file": "chapter1724.html"
+  },
+  {
+    "num": 1725,
+    "title": "Over the Plains",
+    "file": "chapter1725.html"
+  },
+  {
+    "num": 1726,
+    "title": "Owathanka",
+    "file": "chapter1726.html"
+  },
+  {
+    "num": 1727,
+    "title": "Wind of the Plains",
+    "file": "chapter1727.html"
+  },
+  {
+    "num": 1728,
+    "title": "Wind's Aid",
+    "file": "chapter1728.html"
+  },
+  {
+    "num": 1729,
+    "title": "Rumors of the Grimtotem",
+    "file": "chapter1729.html"
+  },
+  {
+    "num": 1730,
+    "title": "A Special \"Guide\"",
+    "file": "chapter1730.html"
+  },
+  {
+    "num": 1731,
+    "title": "Cooperating with a Black Dragon...",
+    "file": "chapter1731.html"
+  },
+  {
+    "num": 1732,
+    "title": "Village in the Mist",
+    "file": "chapter1732.html"
+  },
+  {
+    "num": 1733,
+    "title": "Matriarch Magatha",
+    "file": "chapter1733.html"
+  },
+  {
+    "num": 1734,
+    "title": "A Kind of Greeting",
+    "file": "chapter1734.html"
+  },
+  {
+    "num": 1735,
+    "title": "Natila's Request",
+    "file": "chapter1735.html"
+  },
+  {
+    "num": 1736,
+    "title": "The Dragon's Maw",
+    "file": "chapter1736.html"
+  },
+  {
+    "num": 1737,
+    "title": "The Dragon's Lair",
+    "file": "chapter1737.html"
+  },
+  {
+    "num": 1738,
+    "title": "Demons",
+    "file": "chapter1738.html"
+  },
+  {
+    "num": 1739,
+    "title": "The Black Dragon and the Goblins",
+    "file": "chapter1739.html"
+  },
+  {
+    "num": 1740,
+    "title": "A Bronze Dragon's Treasure?",
+    "file": "chapter1740.html"
+  },
+  {
+    "num": 1741,
+    "title": "Return to the Nest",
+    "file": "chapter1741.html"
+  },
+  {
+    "num": 1742,
+    "title": "Leaving the Nest",
+    "file": "chapter1742.html"
+  },
+  {
+    "num": 1743,
+    "title": "A Teacher?",
+    "file": "chapter1743.html"
+  },
+  {
+    "num": 1744,
+    "title": "Discussion Under the Tree",
+    "file": "chapter1744.html"
+  },
+  {
+    "num": 1745,
+    "title": "Dark Scenes Under Sunlight",
+    "file": "chapter1745.html"
+  },
+  {
+    "num": 1746,
+    "title": "Who's the Mount?",
+    "file": "chapter1746.html"
+  },
+  {
+    "num": 1747,
+    "title": "City of the Moon",
+    "file": "chapter1747.html"
+  },
+  {
+    "num": 1748,
+    "title": "Moon Priestess",
+    "file": "chapter1748.html"
+  },
+  {
+    "num": 1749,
+    "title": "Dinner in Astranaar",
+    "file": "chapter1749.html"
+  },
+  {
+    "num": 1750,
+    "title": "That's Right, Him",
+    "file": "chapter1750.html"
+  },
+  {
+    "num": 1751,
+    "title": "The Person Who Should Never Be Mentioned",
+    "file": "chapter1751.html"
+  },
+  {
+    "num": 1752,
+    "title": "Waiting for Word",
+    "file": "chapter1752.html"
+  },
+  {
+    "num": 1753,
+    "title": "A Place That Should Not Be Known",
+    "file": "chapter1753.html"
+  },
+  {
+    "num": 1754,
+    "title": "The Dungeon",
+    "file": "chapter1754.html"
+  },
+  {
+    "num": 1755,
+    "title": "Prisoner of Hyjal",
+    "file": "chapter1755.html"
+  },
+  {
+    "num": 1756,
+    "title": "Demon Hunter",
+    "file": "chapter1756.html"
+  },
+  {
+    "num": 1757,
+    "title": "Wishes",
+    "file": "chapter1757.html"
+  },
+  {
+    "num": 1758,
+    "title": "Farewell to Hyjal",
+    "file": "chapter1758.html"
+  },
+  {
+    "num": 1759,
+    "title": "Rumors Take Flight",
+    "file": "chapter1759.html"
+  },
+  {
+    "num": 1760,
+    "title": "Closing In",
+    "file": "chapter1760.html"
+  },
+  {
+    "num": 1761,
+    "title": "Path Dependency",
+    "file": "chapter1761.html"
+  },
+  {
+    "num": 1762,
+    "title": "Hope to Meet Again",
+    "file": "chapter1762.html"
+  },
+  {
+    "num": 1763,
+    "title": "Tundra... Still a Tundra?",
+    "file": "chapter1763.html"
+  },
+  {
+    "num": 1764,
+    "title": "Sneaking Back to the Homeland",
+    "file": "chapter1764.html"
+  },
+  {
+    "num": 1765,
+    "title": "A Change of Image",
+    "file": "chapter1765.html"
+  },
+  {
+    "num": 1766,
+    "title": "Same Recipe",
+    "file": "chapter1766.html"
+  },
+  {
+    "num": 1767,
+    "title": "Plague and Cure",
+    "file": "chapter1767.html"
+  },
+  {
+    "num": 1768,
+    "title": "Phantom Memories",
+    "file": "chapter1768.html"
+  },
+  {
+    "num": 1769,
+    "title": "Khadgar's Servant",
+    "file": "chapter1769.html"
+  },
+  {
+    "num": 1770,
+    "title": "Half a Step or Ten Thousand",
+    "file": "chapter1770.html"
+  },
+  {
+    "num": 1771,
+    "title": "From Paper to Practice",
+    "file": "chapter1771.html"
+  },
+  {
+    "num": 1772,
+    "title": "Lessons from Predecessors",
+    "file": "chapter1772.html"
+  },
+  {
+    "num": 1773,
+    "title": "A Luxury Suite Fit for Khadgar",
+    "file": "chapter1773.html"
+  },
+  {
+    "num": 1774,
+    "title": "Enough of a Show",
+    "file": "chapter1774.html"
+  },
+  {
+    "num": 1775,
+    "title": "Today?",
+    "file": "chapter1775.html"
+  },
+  {
+    "num": 1776,
+    "title": "The Door-Breaker",
+    "file": "chapter1776.html"
+  },
+  {
+    "num": 1777,
+    "title": "More Than Just a Show",
+    "file": "chapter1777.html"
+  },
+  {
+    "num": 1778,
+    "title": "One More Favor",
+    "file": "chapter1778.html"
+  },
+  {
+    "num": 1779,
+    "title": "Three Minutes, or Ten Seconds?",
+    "file": "chapter1779.html"
+  },
+  {
+    "num": 1780,
+    "title": "One More We Forgot",
+    "file": "chapter1780.html"
+  },
+  {
+    "num": 1781,
+    "title": "Safekeeping",
+    "file": "chapter1781.html"
+  },
+  {
+    "num": 1782,
+    "title": "First, Confirm the Test Subject",
+    "file": "chapter1782.html"
+  },
+  {
+    "num": 1783,
+    "title": "The Observers Want to Know Too",
+    "file": "chapter1783.html"
+  },
+  {
+    "num": 1784,
+    "title": "An Observer's Curiosity",
+    "file": "chapter1784.html"
+  },
+  {
+    "num": 1785,
+    "title": "A Local's Understanding",
+    "file": "chapter1785.html"
+  },
+  {
+    "num": 1786,
+    "title": "Stormrage's Artifact",
+    "file": "chapter1786.html"
+  },
+  {
+    "num": 1787,
+    "title": "Next Stop, the Monastery",
+    "file": "chapter1787.html"
+  },
+  {
+    "num": 1788,
+    "title": "An Age of Doubt and Anxiety",
+    "file": "chapter1788.html"
+  },
+  {
+    "num": 1789,
+    "title": "The Holy Light and the Mage",
+    "file": "chapter1789.html"
+  },
+  {
+    "num": 1790,
+    "title": "The Monastery",
+    "file": "chapter1790.html"
+  },
+  {
+    "num": 1791,
+    "title": "The Church Library",
+    "file": "chapter1791.html"
+  },
+  {
+    "num": 1792,
+    "title": "Good at Empathy",
+    "file": "chapter1792.html"
+  },
+  {
+    "num": 1793,
+    "title": "Bathing in the Light",
+    "file": "chapter1793.html"
+  },
+  {
+    "num": 1794,
+    "title": "Danger Breeds Opportunity",
+    "file": "chapter1794.html"
+  },
+  {
+    "num": 1795,
+    "title": "The Eye-Bearer?",
+    "file": "chapter1795.html"
+  },
+  {
+    "num": 1796,
+    "title": "The Only Innocent One",
+    "file": "chapter1796.html"
+  },
+  {
+    "num": 1797,
+    "title": "\"Cooperating with the Investigation\"",
+    "file": "chapter1797.html"
+  },
+  {
+    "num": 1798,
+    "title": "Frank and Open",
+    "file": "chapter1798.html"
+  },
+  {
+    "num": 1799,
+    "title": "No Connection At All",
+    "file": "chapter1799.html"
+  },
+  {
+    "num": 1800,
+    "title": "The Informant",
+    "file": "chapter1800.html"
+  },
+  {
+    "num": 1801,
+    "title": "The Sky Council",
+    "file": "chapter1801.html"
+  },
+  {
+    "num": 1802,
+    "title": "The Source of Everything",
+    "file": "chapter1802.html"
+  },
+  {
+    "num": 1803,
+    "title": "The Millennial Plague",
+    "file": "chapter1803.html"
+  },
+  {
+    "num": 1804,
+    "title": "The Final Question",
+    "file": "chapter1804.html"
+  },
+  {
+    "num": 1805,
+    "title": "Victory, or Defeat?",
+    "file": "chapter1805.html"
+  },
+  {
+    "num": 1806,
+    "title": "Defeat",
+    "file": "chapter1806.html"
+  },
+  {
+    "num": 1807,
+    "title": "Returned in Full",
+    "file": "chapter1807.html"
+  },
+  {
+    "num": 1808,
+    "title": "Unfinished Investigation",
+    "file": "chapter1808.html"
+  },
+  {
+    "num": 1809,
+    "title": "Heavy Rain",
+    "file": "chapter1809.html"
+  },
+  {
+    "num": 1810,
+    "title": "Shadow of Karazhan",
+    "file": "chapter1810.html"
+  },
+  {
+    "num": 1811,
+    "title": "Hunting a Guardian?",
+    "file": "chapter1811.html"
+  },
+  {
+    "num": 1812,
+    "title": "Leave It to the Professionals",
+    "file": "chapter1812.html"
+  },
+  {
+    "num": 1813,
+    "title": "Demon or Demon Hunter",
+    "file": "chapter1813.html"
+  },
+  {
+    "num": 1814,
+    "title": "What Is a Lie, What Is Truth",
+    "file": "chapter1814.html"
+  },
+  {
+    "num": 1815,
+    "title": "Breaking the Snowball",
+    "file": "chapter1815.html"
+  },
+  {
+    "num": 1816,
+    "title": "Who's to Blame?",
+    "file": "chapter1816.html"
+  },
+  {
+    "num": 1817,
+    "title": "The Meeting",
+    "file": "chapter1817.html"
+  },
+  {
+    "num": 1818,
+    "title": "The Survivor",
+    "file": "chapter1818.html"
+  },
+  {
+    "num": 1819,
+    "title": "Lord, or Marshal?",
+    "file": "chapter1819.html"
+  },
+  {
+    "num": 1820,
+    "title": "The Island Castle",
+    "file": "chapter1820.html"
+  },
+  {
+    "num": 1821,
+    "title": "The Figurehead Commander",
+    "file": "chapter1821.html"
+  },
+  {
+    "num": 1822,
+    "title": "No Time for the Normal Way",
+    "file": "chapter1822.html"
+  },
+  {
+    "num": 1823,
+    "title": "Two Paths, Converging at One Point",
+    "file": "chapter1823.html"
+  },
+  {
+    "num": 1824,
+    "title": "Who Is the True Lord of Nathreza",
+    "file": "chapter1824.html"
+  },
+  {
+    "num": 1825,
+    "title": "Eye of the Storm",
+    "file": "chapter1825.html"
+  },
+  {
+    "num": 1826,
+    "title": "Eye of Sargeras",
+    "file": "chapter1826.html"
+  },
+  {
+    "num": 1827,
+    "title": "The Portal",
+    "file": "chapter1827.html"
+  },
+  {
+    "num": 1828,
+    "title": "Darkness Over Lordamere",
+    "file": "chapter1828.html"
+  },
+  {
+    "num": 1829,
+    "title": "South Bank",
+    "file": "chapter1829.html"
+  },
+  {
+    "num": 1830,
+    "title": "Fel Fire",
+    "file": "chapter1830.html"
+  },
+  {
+    "num": 1831,
+    "title": "You Have Your Staff, I Have Mine",
+    "file": "chapter1831.html"
+  },
+  {
+    "num": 1832,
+    "title": "Forced to Stand Aside",
+    "file": "chapter1832.html"
+  },
+  {
+    "num": 1833,
+    "title": "Atiesh",
+    "file": "chapter1833.html"
+  },
+  {
+    "num": 1834,
+    "title": "Just in Case",
+    "file": "chapter1834.html"
+  },
+  {
+    "num": 1835,
+    "title": "Flying to Fenris Isle",
+    "file": "chapter1835.html"
+  },
+  {
+    "num": 1836,
+    "title": "Arcane Bomb",
+    "file": "chapter1836.html"
+  },
+  {
+    "num": 1837,
+    "title": "The Descent",
+    "file": "chapter1837.html"
+  },
+  {
+    "num": 1838,
+    "title": "The Snow and Ice of Dalaran",
+    "file": "chapter1838.html"
+  },
+  {
+    "num": 1839,
+    "title": "Unwilling to Give Up",
+    "file": "chapter1839.html"
+  },
+  {
+    "num": 1840,
+    "title": "The Emerald Dream",
+    "file": "chapter1840.html"
+  },
+  {
+    "num": 1841,
+    "title": "A Solitary City in the Snow",
+    "file": "chapter1841.html"
+  },
+  {
+    "num": 1842,
+    "title": "Drifting Souls",
+    "file": "chapter1842.html"
+  },
+  {
+    "num": 1843,
+    "title": "Dawn Has Not Yet Come",
+    "file": "chapter1843.html"
+  },
+  {
+    "num": 1844,
+    "title": "Soul Devourer",
+    "file": "chapter1844.html"
+  },
+  {
+    "num": 1845,
+    "title": "The Encirclement",
+    "file": "chapter1845.html"
+  },
+  {
+    "num": 1846,
+    "title": "Hell's Inferno",
+    "file": "chapter1846.html"
+  },
+  {
+    "num": 1847,
+    "title": "A World of Blood",
+    "file": "chapter1847.html"
+  },
+  {
+    "num": 1848,
+    "title": "The True Darkness",
+    "file": "chapter1848.html"
+  },
+  {
+    "num": 1849,
+    "title": "Dawn",
+    "file": "chapter1849.html"
+  },
+  {
+    "num": 1850,
+    "title": "Ash City",
+    "file": "chapter1850.html"
+  },
+  {
+    "num": 1851,
+    "title": "One Good News, and One Bad News",
+    "file": "chapter1851.html"
+  },
+  {
+    "num": 1852,
+    "title": "The Mage's Task",
+    "file": "chapter1852.html"
+  },
+  {
+    "num": 1853,
+    "title": "Always the Same Man",
+    "file": "chapter1853.html"
+  },
+  {
+    "num": 1854,
+    "title": "The Guardian's Way",
+    "file": "chapter1854.html"
+  },
+  {
+    "num": 1855,
+    "title": "The Boundary",
+    "file": "chapter1855.html"
+  },
+  {
+    "num": 1856,
+    "title": "Turning Back",
+    "file": "chapter1856.html"
+  },
+  {
+    "num": 1857,
+    "title": "The End",
+    "file": "chapter1857.html"
+  },
+  {
+    "num": 1858,
+    "title": "Liberation",
+    "file": "chapter1858.html"
+  },
+  {
+    "num": 1859,
+    "title": "Return",
+    "file": "chapter1859.html"
+  },
+  {
+    "num": 1860,
+    "title": "A New Day",
+    "file": "chapter1860.html"
+  },
+  {
+    "num": 1861,
+    "title": "Only Wanted to See You Soon",
+    "file": "chapter1861.html"
+  },
+  {
+    "num": 1862,
+    "title": "Parting, Reunion",
+    "file": "chapter1862.html"
+  }
+]

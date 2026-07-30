@@ -1,0 +1,133 @@
+## Chapter 1799: No Connection At All
+
+August 3, Dark Portal Year 17, summer.
+
+Dalaran, the Violet Citadel.
+
+Lake Lordamere outside the window was utterly tranquil and peaceful. Flocks of waterfowl flew across its surface, gradually making their way toward the distant pine forests until they vanished entirely into the thin mist.
+
+Outside this picture-perfect scene, the demon legions, the plague, the dark rumors — all of it for a moment felt as false as stories in a book that had just been closed.
+
+The plague had ultimately not spread, thanks to the medicinal brew he had brought, and to the fact that the Alliance had not yet fractured at this moment. With the help of the Sons of Lothar, the vigilance of the Church and the Kirin Tor, and the Lich King's forces retreating step by step under the combined assault of the Red Dragonflight and the Kirin Tor, the southern reaches of Northrend had almost been fully healed. Naturally, there was no further spread from other plague sources.
+
+The efforts of their group had shown results. Now it seemed that beneath this clear sky, there was only one villain left to deal with.
+
+Was it Jace Sesso, or Tichondrius, the King of the Nathrezim? This little toy city, bristling with flags of every color, would soon find its answer, the warlock by the window thought to himself.
+
+The public hearing regarding Jace Sesso of the Kingdom of Stormwind in Dalaran would take place in one week. By now, the leaders of the various nations should have received word and be making their way to Dalaran. Many kingdoms' emissaries had already arrived ahead of time.
+
+Word had it that King Terenas Menethil II of Lordaeron and his son had already reached the south shore of Lake Lordamere. Admiral Daelin Proudmoore's fleet of Kul Tiras had also dropped anchor near Southshore. Thoras Trollbane of Stromgarde should be on the road and would arrive soon. It was said that King Genn Greymane of Gilneas would also be bringing an Alterac prince to observe the hearing.
+
+The Sun King of Quel'Thalas, as always, refused to attend — as he had done for the past two thousand years. But also as always, while expressing his regrets, he sent his son Prince Kael'thas to attend in his place.
+
+As a member of the Kirin Tor's Council of Six, Prince Kael'thas, who was already in Dalaran, would naturally attend the hearing anyway. So the declaration was essentially meaningless.
+
+But Jace didn't mind. After all, the Sun King was probably the least likely target for a dreadlord among all the Alliance leaders.
+
+Getting through Banthinorel to possess someone who almost never left the Sunfury Spire, surrounded by magisters and countless elite Spellbreaker guards, who might be the most powerful battle mage in Silvermoon's history?
+
+Honestly, they might as well try to possess him, Jace Sesso, and reveal Uthalesh's existence to the entire Alliance.
+
+But even so, in Jace's memory, the Alliance leaders had never gathered this completely. Not even when Varian Wrynn had summoned all the leaders to Lordaeron to attack Blackrock Spire. And so, even the King of Gilneas wanted to use this opportunity to prove to everyone in the Alliance that he, too, had a claim in the succession disputes of the Kingdom of Alterac.
+
+That's good. Let them all come to the Sky Council and witness the existence of that demon together. Make up for the regret that Tyr's Hand Monastery had been too remote — that the shock of having a demon hidden right beside them hadn't been felt directly by the other kingdoms.
+
+The key to making this happen was, naturally, hiding the existence of Khadgar's Eye. Khadgar might be annoyed, but the fellow shouldn't have mind-reading powers. And right now, he was probably still having heart-to-heart talks with the Kirin Tor investigators. Even if he did have mind-reading powers, they wouldn't reach this room. No problem.
+
+Sora had basically cleared herself of suspicion. After all, she had never shown her face or exposed any evidence of participation from start to finish. And as Ysera's daughter — a genuine green dragon — the Kirin Tor wouldn't dare put her under too much surveillance. Not to mention she had just helped hunt down a Nathrezim.
+
+So she had to stay in Dalaran with that eye, waiting for Varian Wrynn's arrival.
+
+At this moment, he was practically the only candidate who could attend the Sky Council hearing, who could be absolutely trusted, and more importantly, who could sit together with those leaders and the Council of Six and make that eye work to its fullest potential.
+
+If only Krasus could return from Northrend, he thought to himself. But there was also a knot in his heart.
+
+Queen Alexstrasza and her children were the guardians of life. If she and Korialstrasz knew that he held a staff that even the former Guardian was afraid of — dared not possess, dared not even seal in Dalaran's vault — a source of death and plague... would they still stand so firmly by his side?
+
+I've controlled Uthalesh for years. Guarded it for years. Never let its power run wild or harm any innocent.
+
+But what did that mean, Jace Sesso? Did you truly believe, from the bottom of your heart, that you could control its power?
+
+If even you couldn't trust yourself, how could you expect others to believe?
+
+Did you truly believe you could forever resist the temptation of the endless darkness deep within that blood-colored demonic eye? Forever?
+
+Don't deceive yourself.
+
+You knew very well. You just hadn't yet encountered the unsolvable problem that was meant for you.
+
+Knock, knock — a knock came from the door.
+
+"Who's there?" Vereesa, who was sitting by the table, looked up and asked. Needleflame by Jace's side fixed her gaze on the door. Grede snorted a couple of times, straightened up from his chair, and rubbed his eyes.
+
+"Still me. Gunther Arcanus."
+
+"Come in, please. The door isn't locked, Archmage," Jace said.
+
+A Kirin Tor mage entered the room. He gave a slight bow to the four people inside. "Good morning, distinguished lords and lady."
+
+Gunther Arcanus. At this time, he was still a rather robust middle-aged man.
+
+In another timeline, in just a few years, he would become a pawn of the Scourge. Then, after the Frozen Throne had been struck by the Eye of Sargeras, he would regain his will together with the Scourge soldiers in Tirisfal.
+
+He hadn't joined Sylvanas Windrunner's Forsaken back then. Instead, he had gone into hiding near a clear lake in the north, becoming a physical lich that even the undead feared.
+
+Connecting his name to all those stories, seeing his rather polite demeanor now, Jace found it somewhat unsettling.
+
+"Regarding the case of the storm elementals running rampant in Dalaran on the last day of the Midsummer Fire Festival — July 5 — the Kirin Tor still has some questions..."
+
+As Gunther spoke, Grede was about to open his mouth. Jace reached out to stop the impatient dwarf. "Didn't we make this very clear yesterday, Archmage? You shouldn't keep trying to connect our affairs to Khadgar's escape, only thinking about creating some big news that would shake all of Dalaran. They have nothing to do with each other."
+
+Vereesa sighed. "How could we have known that Khadgar was already imprisoned in this castle before we arrived here, Master Arcanus? We just wanted to know what that blade was for, and we didn't want the Kirin Tor to find out about our movements. This was inappropriate of us, but you're well aware of the Kirin Tor's attitude toward Jace Sesso and us."
+
+"Master Khadgar is not 'imprisoned' here, respected Windrunner Lord," Gunther said, then turned to Jace and corrected him further: "So strictly speaking, that wasn't an 'escape' either."
+
+"Whatever you say," Vereesa said. "As for Needleflame — did she actually hurt anyone?"
+
+"Two cows are missing." Gunther flipped open the ledger in his hand while reading. "Six sheep are also missing. Ten domestic pigs were injured, one died — only half its body left. Two barns burned down. Three farm workers at Hillsbrad Farm were injured to varying degrees while fighting the fire. And one old watchtower in Tarren Mill collapsed from the fire. Fortunately, no one was on duty at the time..."
+
+Vereesa, Jace, and Grede all stared wide-eyed at the window. Needleflame, leaning against the window frame with her hands behind her back, shifted guiltily up and down, licking her lips awkwardly.
+
+Gunther glanced at her and continued. "It's really hard to imagine causing such a commotion just to draw away Dalaran's magical defenses, help you disguise yourselves, get close to this castle, and ask Master Antonidas about an unidentified magical artifact..."
+
+"She's a genuine black dragon, mage. It's not like I can make her do whatever I want," Jace said quietly. "And I've been working hard to educate her. You should know about the Sons of Lothar returning to Azeroth..."
+
+Gunther hesitated, glancing at the group. Jace stopped and paused for a moment. "Those old matters aren't important now. The key is — do you have evidence?"
+
+"You think all of this is connected to Khadgar's escape. This castle is protected by a powerful magical barrier, relying on the power of the Eye of Dalaran. It couldn't possibly have failed to detect even a trace of the chaos we caused. Other than the elemental chaos this dwarf created under an assumed name, is there any other evidence linking these two things together?"
+
+Grede coughed and sat obediently in his chair, saying nothing.
+
+The mage looked at the dwarf, clearly with words on the tip of his tongue, but in the end swallowed them.
+
+Jace roughly knew what he wanted to say and why he couldn't say it.
+
+After all, the fact that Dalaran's protective barrier had to be briefly lowered when recalibrating its defenses was a secret known only to the highest administrators of the Kirin Tor. Even if Arcanus knew, he couldn't admit it to outsiders like Jace here.
+
+Gunther pressed his finger on a line in the ledger. "Master Khadgar's clone possessed an abnormally abundant life force. It looked indistinguishable from a living person. That's not something a normal Mirror Image or other type of clone spell can achieve. It might have come from some mysterious druidic magic from Kalimdor."
+
+"Then shouldn't you be asking Khadgar?" Vereesa frowned. "How would we know how it was done?"
+
+"At the monastery, didn't Master Khadgar... mention how he did it?" Gunther asked.
+
+"We didn't even know he was imprisoned," Jace said. "We couldn't find any news of him in all of Lordaeron or Dalaran. In the end, he came to us on his own initiative to hunt demons. Didn't he study magic at Karazhan? Maybe he also learned some powerful nature magic that could give an arcane clone actual life. None of us know what knowledge is hidden in the Guardian's tower."
+
+"That's possible." The mage hesitated for a moment. "And it's not an imprisonment. Still... never mind. You once entered Karazhan with him, Master Sesso. Did you happen to learn anything about..."
+
+"Isn't that a different case?" Jace asked. "Are you also responsible for the Karazhan case? Are you a member of the Violet Eye?"
+
+"No, I'm not." Gunther lowered his head.
+
+"Then let the Violet Eye come ask me about it. Have they returned from Stormwind?" Jace asked.
+
+"They have," Gunther said.
+
+"Good." Jace nodded.
+
+"In that case." Gunther flipped a page, staring at a list on the paper. "The chaos caused by that elemental storm within Dalaran — the preliminary estimate of the total property damage is around seven hundred and sixty gold coins. That storm destroyed the top floor of a mage's tower. Additionally, the destruction caused by Lady Phaedra within the Kingdom of Lordaeron..."
+
+Jace and Grede's eyes widened slightly. Needleflame stood leaning against the wall, swinging one foot, apparently not yet understanding the situation as she watched their reactions.
+
+"Say no more, Master Arcanus." Vereesa said expressionlessly. "When you're done tallying everything, send the compensation list to Windrunner Spire in Quel'Thalas."
+
+The warlock, the dwarf, and the black dragon all stared at the ranger. The Kirin Tor mage looked at her for a moment, then wrote as he spoke, "I understand. I'll report this truthfully to the Kirin Tor, Ranger Lord."

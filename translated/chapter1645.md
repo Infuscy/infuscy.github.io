@@ -1,0 +1,97 @@
+## Chapter 1645: Who Really Commands Demons
+
+"Felhounds!"
+
+"Stop those demons! Don't let them disrupt the Kirin Tor's spellcasting!" "Right flank! Right flank!"
+
+Shouts in Thalassian, Common, and Dwarven exploded around them. The gryphons that had been wheeling through the sky, dodging breath attacks and hunting whelps, banked hard and dove toward the canyon.
+
+More and more shadows gathered beneath the dark tower. The scraping of felhound claws on volcanic rock had grown too dense to ignore. The first felhound had already lunged onto the mages' high slope.
+
+A Stormwind knight charged into the felhound pack first, white light erupting from his crackling hammer. He managed to impale one felhound with his lance before several more entangled his horse's legs with their tentacles, dragging him to the ground. He went still soon after. The knights who followed him into the melee scattered the demons swarming around him, but the first fallen knight was already lost in the dust kicked up by hooves.
+
+The Farstriders' arrows were so precise that the archers from Stromgarde and Stormwind behind them could hardly believe their eyes. The elves loosed their shots into the melee where Stormwind knights had already plunged into the demon pack, yet every arrow seemed to have eyes, striking the charging felhounds without a single one grazing horse or rider.
+
+Galen Trollbane led a column of red-cloaked knights close behind Stormwind's war party, driving like another wedge through the dark demon horde and relieving the Stormwind knights' pressure at once. But more and more felhounds kept pouring out of the canyon. Though the Alliance had blocked them from reaching the Kirin Tor mages, they were now locked in a grueling fight with no clear end in sight.
+
+The whelps overhead had lost some of their initial ferocity but still drew fire from archers, gryphon riders, and mages. Some felhounds tried to slip around the knights and the newly arrived shielded spearmen, seeking gaps to harass the mages channeling the bridge-support spell. A few even crept close to the Farstriders' position, forcing many elven rangers to draw blades and join the melee. On the bluffs and hills to the right of the bridge, chaos reigned.
+
+The orc summoners inside the tower were pulling more than just felhounds from the Twisting Nether. Felguards appeared too. At first, only the occasional red-skinned Mo'arg, towering over the human and elven soldiers, emerged onto the field. But as the fighting dragged on, more and more felguards materialized from nowhere.
+
+At Blackrock Mountain's main gate, the paladins had gained the upper hand. Hundreds of ogres had fallen before Turalyon, Tirion, Danath, and the most elite knights. The blessed warriors had pushed the front line right up to the gap in the gate. Many ogres lay dead at the threshold, slumped against walls carved with Dark Iron colossi.
+
+The harassment from whelps and felhounds did not suppress the Alliance's morale. Every face in sight was wild with battle fury, showing no fear. The young King Varian had already charged into the demons with Stormwind's second wave of knights, cutting through felhounds that tried to surround him as easily as hacking brush. Even the felguards found no advantage against him.
+
+But Stormwind knights had already fallen. Gryphons that had been struck by whelp breath and lost the ability to fly tumbled into the gorge, and the dwarven riders on their backs were surely lost as well.
+
+The Alliance's opponents were either stupid ogres, whelps the Blackwing Legion treated as experiments, or demon cannon fodder summoned from the Twisting Nether at the cost of mana. Though the exchange ratio was heavily lopsided — the leading commanders alone were worth dozens or even hundreds of enemies each — every Alliance loss was a real person, a brave soul.
+
+If this kept up, even reaching the entrance of Blackrock Spire and meeting the Dark Iron forces at the gates would cost terrible casualties, making the subsequent assault several times harder.
+
+And this was just the entrance to Blackrock Spire. Not a single black dragon had shown its face yet. Not even a single dragonkin — the fallen beasts the black dragons considered lowly servants — had appeared. And those corrupted creatures were Blackrock Spire's real main force.
+
+If that held, Nefarian would have gained a significant advantage at this stage.
+
+Three or four felhounds charged at Midnight from different directions. The infernal steed casually crushed them under its hooves. Jace raised Ulthalesh and murmured a Drain Soul incantation at a pack of felhounds trying to sneak up on Galen Trollbane and his guards from behind. Within seconds, the felhounds slowed, withered in a faint blue glow, and collapsed into lifeless husks of flesh, rapidly decaying.
+
+Jace's shadow magic was never going to be of much use in this kind of chaotic melee. Even a volley of Shadow Bolts could not match the efficiency of several skilled Farstriders firing in succession.
+
+But his target was not the demons fighting the Alliance soldiers on the ground. It was higher up — those windows and cracks between the walls where the whelps and felhounds had come from.
+
+A massive shadow fell over the battlefield. Several gryphons instinctively veered aside. Many soldiers on the bridge looked up in surprise. Varian Wrynn wiped demon blood from his face and looked up too. Jace would bet anything they all thought a black dragon was coming.
+
+"Who rules this battlefield? Kneel before your true master!"
+
+A booming voice came from within the mist. The felhounds running loose seemed to lose their wits instantly — they did not know who to attack or where to run. Even many felguards hesitated, looking up and muttering something. Several demons were run through in that moment of distraction by the pressing Alliance soldiers and fell screeching.
+
+Kar'lez's massive hooves slammed down onto a hilltop. The impact was so strong that even Midnight, a hundred meters away, faltered a step before steadying itself. The demon lord's hand ignited with fel fire, and the countless demons before him roared along with the flame in his grasp.
+
+The sound made Kar'lez laugh. He had not even unleashed a devastating spell yet. Before their eyes, many felhounds turned around and began tearing into their own kind. Some even attacked the felguards. In an instant, the situation had completely reversed. Even Sazeno, clinging to Jace's belt, trembled in fear.
+
+But the demon lord's pressure did not only affect demons. Some Alliance soldiers could not bear it either. When they saw the giant silhouette on the heights, with its terrifying eyes and massive wings, their blood ran cold. Still, the demon's arrival had broken the stalemate. Most of them took a deep breath, got their bearings, and plunged back into the fight.
+
+This was exactly what Jace had expected. Kar'lez was a walking domination rune — no, he was far more powerful than any domination rune Jace possessed. As long as he was here, the demons the orc warlocks had hastily summoned could not be sure who to obey.
+
+But Jace's preparations were not finished. He had been holding Ulthalesh high and chanting for some time. Countless souls from felhounds, felguards, and other Mo'arg demons were streaming into Ulthalesh without pause. Around Midnight, the air was filled with the screeching of demon souls. Even Alleria, up ahead, turned her head uneasily at the sound.
+
+Beneath the black sky, shadow serpents had been slithering unnoticed for a long time. In the rolling dark clouds, something flashed — whether lightning or strange, colorful demonic shadows, it was hard to tell.
+
+His chant continued. But Midnight felt its master's intent and lifted its forelegs, galloping toward Blackrock Spire's cliff face.
+
+"Hope you don't waste those delicious souls, Jace Sesso!" Kar'lez laughed in Demonic, watching the rider below trail green fire.
+
+The demon lord should have joined the fight against the felguards himself. But instead of crushing them personally, he seemed to prefer watching demons submit to him tear each other apart in defiance.
+
+Jace could not afford to think about that now. His attention was fixed on the shadow serpents coiling overhead, his mouth reciting the revised incantation earnestly. He had been at it for a while and had no time for other commands.
+
+This was the first time he was using Khadgar's revised spell in actual combat — and at this scale. Kar'lez's appearance had indirectly helped him gather more and stronger demon souls. That was enough.
+
+The strange serpents in the sky gathered thicker and thicker, finally coalescing under the pull of a dominant shadow force, their mana igniting like lit gunpowder. Even Kar'lez noticed the cloud-like dark energy gathering, and his grinning mouth slowly fell.
+
+Without anyone quite noticing, a howling dark meteor was already flying toward the windows and cracks in Blackrock Spire. Soldiers and demons alike looked up at the sound, only then aware of the dark thing's presence.
+
+When the Hand of Gul'dan struck the wall, it erupted with a torrent of dark energy from the Twisting Nether. It was not like a Fireball with raw concussive force — it was more like a demonic claw that could crush everything and corrupt anything normal it touched.
+
+When the dust cleared, the wall was corroded and peeling. The windows that had glowed with firelight were now stained violet. The screams of orcs and trolls carried all the way to the gate, making even the paladins on the front line turn to look.
+
+As the violet fel flames faded, a large section of the wall had ruptured like a severe, rotting wound. Countless blackened victims tumbled from the gap, screaming as they fell into the gorge.
+
+A group of doomguards appeared out of nowhere, laughing maniacally as they drove packs of far larger felhounds and felfire imps through the breach, zealously hunting down the orcs who had survived the Hand of Gul'dan's bombardment.
+
+Other windows fell into chaos too. Defenders had no choice but to pull back toward the breach to block this inexplicable demon war band from entering. With that, no more whelps could fly out, and no more summoned felhounds emerged.
+
+Galen Trollbane gripped his sword and stared at the scene, shocked into not blinking. Alleria, who had been notching an arrow to shoot, slowly lowered her bowstring, her eyes trembling slightly with the flicker of shadowy fel flames.
+
+"Well done, Jace Sesso! Great minds think alike!" Khadgar hollered from above, laughing despite maintaining his spell.
+
+Jace looked up at him and managed a dry laugh. Then he took a deep breath, tugged the reins, and glanced back at Varian Wrynn, who had just cut down a felhound. The look on the king's face was something like "I knew you were crazy, but I didn't know you were this crazy."
+
+The king's surprise did not last long, because the soldiers further off were already roaring with excitement. The gryphon riders overhead were shouting "Victory!" in Dwarven without restraint.
+
+"What a rush, great Master!" Sazeno laughed, watching a gryphon streak past overhead. "Let these mortals see what's what! Too bad Morofil didn't get to see it!"
+
+"Who says she didn't?" Jace chuckled.
+
+"Huh? I bet the mana trail through the soul link was disgustingly ugly..." The imp spat a few times.
+
+The ogres at the gate had gone quiet. The Silver Hand knights had cut down the last of the stupid brutes and were pushing through the doorway. At the same time, a series of explosions echoed from deep within Blackrock Mountain. Dagran Thaurissan's soldiers must have launched their attack on the Spire's defenders from the Ironforge Crypt.

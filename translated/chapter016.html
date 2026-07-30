@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 16: The Night's Guardian — The Wobbly Peach</title>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+<style>
+/* Reading layout — ponytail: inline so generated pages need no Jekyll build */
+:root {
+  --reader-max: 42rem;
+  --reader-bg: #fefefe;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+}
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a {
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress {
+  color: var(--reader-muted);
+  font-size: .85rem;
+}
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -.02em;
+  color: #0f172a;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 2rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0 0 1.25rem;
+  color: var(--reader-text);
+}
+.reader-content hr {
+  border: 0;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 6rem;
+}
+.reader-content hr::before {
+  content: '· · ·';
+  color: var(--reader-muted);
+  font-size: 1.2rem;
+  letter-spacing: .3em;
+}
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover {
+  background: #eff6ff;
+  border-color: var(--reader-accent);
+}
+.reader-nav-link.disabled {
+  color: var(--reader-muted);
+  border-color: transparent;
+  pointer-events: none;
+}
+.reader-toc-link {
+  color: var(--reader-muted);
+  text-decoration: none;
+  font-size: .9rem;
+}
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+/* Flags */
+.flags-section {
+  max-width: var(--reader-max);
+  margin: 2rem auto 0;
+  padding: 0 1.25rem;
+}
+.flags-section summary {
+  cursor: pointer;
+  color: var(--reader-muted);
+  font-size: .9rem;
+  font-weight: 600;
+  padding: .5rem 0;
+  border-top: 1px solid var(--reader-border);
+  margin-top: 2rem;
+}
+.flags-section summary:hover { color: var(--reader-text); }
+.flags-section h2 { font-size: 1rem; font-weight: 700; margin: 1rem 0 .5rem; }
+.flags-section p { font-size: .9rem; line-height: 1.6; color: var(--reader-muted); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: 1.4rem; }
+  .reader-content p { font-size: 1.05rem; line-height: 1.75; }
+}
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/novel/">← Table of Contents</a>
+  <span class="reader-progress">Chapter 16 of 1862</span>
+</div>
+<main class="reader-content">
+<h1>Chapter 16: The Night's Guardian</h1>
+<p>Jace heard Grede and looked over. He didn't know when the young man had appeared in the doorway — about Jace's age, watching them pack their bags.</p>
+<p>"I ought to be asking you," the young man said coldly. "I'm the town watch. What are you doing in Raven Hill carrying all these weapons?"</p>
+<p>Jace gave him a once-over. The kid claimed to be a town guard, but he wasn't carrying a weapon or wearing a uniform. Some two-bit con artist trying to shake them down for coin?</p>
+<p>"We're just passing through," Jace said. "We came from Sentinel Hill. Some of our luggage got soaked crossing the Nafeltari River, so we've got some free time to check if anything got damaged."</p>
+<p>"Yeah, yeah, that's right," Grede chimed in quickly.</p>
+<p>"I don't trust you," the young man said. "Come with me. Don't make me get rough."</p>
+<p>Jace thought, <em>You're a half-grown kid — how exactly are you gonna get rough?</em> He glanced at Grede, who seemed to catch his meaning.</p>
+<p>Jace suddenly stood up, tackled the young man, and pinned him down. The kid let out a wild shout and actually reversed the hold, pressing Jace beneath him. He raised a fist to strike — but Grede caught his arm and hoisted him clean off the ground.</p>
+<p>"Morgan!"</p>
+<p>A girl's voice froze all three of them.</p>
+<p>Down the hallway, a blonde girl stared at them in shock. She looked dazedly at the boy dangling in the air, then asked, almost in a sob, "What are you doing to him?"</p>
+<p>"What's your relation to him?" Jace asked.</p>
+<p>"I'm his wife," the girl said firmly.</p>
+<p><em>Wife?</em> Jace was stunned for a moment. The boy looked about his own age — married this young?</p>
+<p>Then again, in a medieval world it wasn't exactly unusual, but…</p>
+<p>"Let me go!" The boy thrashed against Grede's arm, though it did absolutely nothing. "Liz, go back! I… I can handle these guys!"</p>
+<p>Clearly, despite the boy's bravado, even the girl — who looked like she'd never thrown a punch in her life — could read the situation perfectly well.</p>
+<p>"Is he really a guard?" Jace asked.</p>
+<p>"He…" The girl hesitated. "Sort of."</p>
+<p>"'Sort of'?" Grede asked Jace. "What does that mean — is he or isn't he? Should we put him down first?"</p>
+<p>Jace nodded. Grede tossed the boy to the ground. The kid sprang to his feet at lightning speed, straightened his collar, and said, "You're strong enough."</p>
+<p>Grede snorted dismissively. "Never seen a dwarf before, have you, lad? Consider this your education."</p>
+<p>"So what's actually going on here?" Jace asked.</p>
+<p>The girl hesitated a moment, then said, "You explain it yourself, Morgan. I need to go tend to Sarah."</p>
+<p>The three of them exchanged glances. No one wanted a second round, but they still eyed each other warily as they went downstairs and found a table.</p>
+<p>"Morgan, right?" Jace asked. "What exactly do you do?"</p>
+<p>Morgan kept his eyes locked on Grede, apparently still on guard. After a moment he answered, "I'm actually a guard from the town of Grand'gran to the east."</p>
+<p>Jace pressed, "You're a Grand'gran guard — so what are you doing in Raven Hill?"</p>
+<p>"I'm a Raven Hill local. I went to Grand'gran for Liz — that girl you just saw, my wife. Later, more and more people left Raven Hill, and the original guards didn't want to stay either. I applied to the Grand'gran guard captain to come back here, and he approved it."</p>
+<p>"Why'd all the residents leave?" Grede asked. "I heard Grand'gran's still fairly populated."</p>
+<p>Morgan answered, "Grand'gran's all right — if it weren't for the Redridge gnolls blocking the roads lately, life would be manageable. But Raven Hill… Raven Hill…"</p>
+<p>He pressed his lips together. "There are werewolves."</p>
+<p>Grede frowned. "Werewolves? What the hell are those?"</p>
+<p>Morgan said, "I haven't actually seen one myself, but that's what everyone says."</p>
+<p>Jace shot Grede a look of pure disdain. The dwarf claimed to be sixty or seventy years old and he'd never even heard of werewolves.</p>
+<p>"Werewolves are creatures from human folklore — half-man, half-wolf. Nasty bastards. They steal children at night," Jace explained.</p>
+<p>"What's so scary about half-man, half-wolf?" Grede said. "Dumber than a man, dumber than a wolf — isn't that just a waste of flesh?"</p>
+<p>Morgan let out an anxious sigh. "You outsiders never believe us."</p>
+<p>Grede said, "You haven't even seen one and you're talking like it's gospel."</p>
+<p>"Someone got mauled by a werewolf," Morgan said. "The man's chest was torn to shreds. When they brought him back, he kept saying he'd run into a werewolf, and he died soon enough. But the next day, before they could even bury him, his body vanished. A lot of people say he was attacked by the werewolf, cursed, turned into one himself, and escaped."</p>
+<p>"Might've been grabbed by a ghoul and turned into one of the living dead," Grede said.</p>
+<p>"Raven Hill used to be famous for its funeral trade," Morgan said. "If someone got bitten by a ghoul and caught the rot, there's no second place in the whole Kingdom of Stormwind that'd know how to handle that mess better than Raven Hill. But that man's wound was completely different — no rot, just terrifying Shadow energy."</p>
+<p>At that, Grede's expression froze. "So let me get this straight — you still haven't actually <em>seen</em> a werewolf."</p>
+<p>"No," Morgan admitted.</p>
+<p>He went on, "You two don't seem like bad people. I'm sorry about earlier — I'm just wary of all outsiders, especially at a time like this. Whatever you came here to do, remember: don't go out at night. <em>Don't</em> go out at night. People say werewolves prowl after dark. And even setting the werewolves aside, nighttime in Duskwood is a hell of a lot more dangerous than daytime."</p>
+<p>"Thanks for the warning," Jace said.</p>
+<p>"It's my duty," Morgan said. "I haven't introduced myself — Morgan Ladimore. If you run into trouble, you can find me. Everyone in town knows where I am."</p>
+<p>"Grede."</p>
+<p>"I'm Jace."</p>
+<p>"Nice to meet you. May the Light be with you."</p>
+<p>Morgan headed upstairs. Jace looked out the door and felt the town had grown even more sinister than before.</p>
+<p>"You buy that kid's story?" the dwarf asked.</p>
+<p>Jace said, "Since he said it, let's just put off the herb-gathering until tomorrow. No harm in that. There'll probably be fewer zombies and animals in the daytime too — maybe we can't tell day from night, but the difference probably matters plenty to beasts and undead."</p>
+<p>Of course werewolves existed. In the game, werewolves ran absolutely rampant all over Duskwood.</p>
+<p>But Jace remembered that being a much later affair — tied to some ancient holy relic, the Moonclaw, that had been left behind here after a night elf was killed. Could it be that Duskwood's werewolves had already been around a decade and a half ago?</p>
+<p>Maybe, like Grede said, these people were just mistaking some other monster for a werewolf. After all, werewolf legends had always been a popular bedtime story around here.</p>
+<p>"Well, I've been traveling all day and I'm beat. I'm going to lie down," Grede yawned. The moment he said it, Jace felt sleepy too.</p>
+<p>In the middle of the night, listening to the dwarf's earth-shaking snoring, Jace stared out the window at the silent forest and a long time passed before he finally fell asleep.</p>
+</main>
+
+<details class="flags-section">
+<summary>Translator Notes</summary>
+<h2>Flags</h2>
+<p>- <strong>纳菲瑞提河 (Nafeltari River):</strong> Not in glossary. Rendered as "Nafeltari River" — transliterated from the Chinese.
+- <strong>摩根·拉迪摩尔 (Morgan Ladimore):</strong> Not in glossary. "Morgan" is listed (young man at Raven Hill); full surname "Ladimore" rendered phonetically.
+- <strong>莉丝 (Liz):</strong> Not in glossary. Short form of the girl's name; rendered as "Liz."
+- <strong>格兰镇 (Grand'gran):</strong> Not in glossary. The town east of Raven Hill, later known as Duskwood's main settlement. Rendered as "Grand'gran" to match the later canonical name.
+- <strong>月神镰刀 (Moonclaw):</strong> Not in glossary. The ancient night-elf holy relic tied to Duskwood's werewolves. Rendered as "Moonclaw" per canonical WoW lore.
+- <strong>莎拉·拉迪摩尔 (Sarah Ladimore):</strong> Not in glossary. Morgan's daughter in the game's lore; mentioned here as a girl Liz tends to.</p>
+</details>
+<nav class="reader-bottom-nav">
+  <a href="chapter015.html" class="reader-nav-link">← Chapter 15</a>
+  <a href="/novel/" class="reader-toc-link">Contents</a>
+  <a href="chapter017.html" class="reader-nav-link">Chapter 17 →</a>
+</nav>
+</body>
+</html>

@@ -1,0 +1,141 @@
+## Chapter 1157: Finally Settled In
+
+The Quel'Thalas sailboat was smaller than many of the large merchant ships that ran between Stormwind and Southshore — generally around thirty meters, not much longer than that.
+
+But strangely, the elven sailboats were far more stable than human ones. They'd crossed Baradin Bay several times now, and this trip aboard the Sunlight Voyage had been the smoothest and most peaceful yet.
+
+At first Jace thought there must be some magical device on this ship that could draw power from the Sunwell. But after crossing the Gilneas Peninsula and entering Baradin Bay, even passing Tol Barad, the sailboat's performance hadn't changed in the slightest.
+
+Aside from an arcanist serving as navigator, there were no other mages on this property of the Farstriders' forces — and this arcanist wasn't even a member of the Magisters' Guild. The reason for this difference could probably only be attributed to the superior seamanship and shipbuilding technique of the high elves.
+
+Not only was the sailing smoother and faster, not to mention there were several Farstriders on board, plus a mage, plus a Ranger-General who — having failed to take part in Jace's battles several times now — spent the whole voyage staring at the sea, hoping some brainless silithid would jump up of its own accord looking for death.
+
+In short, this voyage shouldn't have anything to worry about.
+
+But his parents were on board, and considering the dangers Jace had encountered on the open sea, he didn't want any accidents on this journey.
+
+So he spent nearly every day pacing between the deck and the hold with Ursales in his arms, ready to one-shot anything suspicious with his most devastating, fastest-casting spell the moment he spotted it. For the first few days, Jace's stern attitude even made Vereesa unaccustomed.
+
+But perhaps the dark energy he radiated when he was tense was too frightening, keeping the small-fry hiding in the sea from making a move on this ship. Or perhaps this voyage was simply destined to be lucky. Two weeks later, the Sunlight Voyage completed her journey and arrived smoothly at Stormwind Harbor.
+
+It was noon when they approached the bay, the sun blazing, the whole bay bright and clear. Warm breezes blew between the emerald-green mountains. Compared to Lake Lordamere, full of dark green pine forests and gray fog, Stormwind's harbor felt far more welcoming.
+
+Not until he caught the distant spire of the Cathedral of Light did Jace finally feel himself relax. Those annoying white seabirds in King's Bay had never looked so adorable.
+
+When the Sunlight Voyage docked at the harbor, being an elven sailboat, several high-ranking port officers and soldiers had come ahead of time to welcome them. An elven ambassador had also shown up — it seemed Vereesa had given notice ahead of time.
+
+When they disembarked, the officers and soldiers on the dock saluted Jace and Vereesa one after another, calling out "my lady" and "Archmage Sesso." Jace nodded and acknowledged each of them.
+
+Vik and Henny whispered to each other secretly. Clearly they hadn't expected their son to hold such status in Stormwind. Henny seemed a bit flustered when she came off the ship, nervously nodding and greeting the officers, but stayed close to Vik the whole time.
+
+Vik was much the same. Considering he was still nominally a guard captain of Lordaeron's royal city, he responded to the officers' salutes with Lordaeron's military salute. But it was plain to see he wasn't exactly relaxed either — several of the officers here outranked him within the Alliance — yet the respectful attitude clearly had nothing to do with rank.
+
+While the dockworkers helped unload the cargo, a lieutenant commander in blue plate and a tabard came up to Jace, bowed slightly to Vereesa and Jace, and said: "Archmage Sesso, welcome back to Stormwind. There is a message that must be delivered to you personally. The envoy of King Magni Bronzebeard of Ironforge has been staying in the palace for some time. He says he has something to hand to you personally."
+
+"What is it, Lieutenant Commander?" Vereesa asked.
+
+"A gift forged by the Dwarven King to thank Archmage Jace Sesso for defeating that she-black dragon, the honorable Lady Vereesa Windrunner." The lieutenant commander looked at Jace. "That envoy said you should know about this, Archmage."
+
+"Ah, yes, I know about that." Jace nodded. "If you're going to the palace, could you let that envoy know I'll come see him tomorrow? I still have things to do today."
+
+"Glad to be of service, Archmage." The lieutenant commander placed a fist over his chest, bowed slightly, and stepped aside.
+
+"It's finally done." Jace rubbed his hands together. "Soon I'll get to see that pendant with my own eyes. I'm really curious what it looks like."
+
+"Pendant? It sounds like you know exactly what King Magni Bronzebeard is going to give you," Vereesa said.
+
+"A treasure forged from Onyxia's dragon blood, Vere." Jace said in a low voice. "At first I thought that blood would be roughly like a gemstone — just cut it and put a metal chain on it or something."
+
+Vereesa nodded in understanding. "Even a young dragon's blood isn't easy to work with, Jace. Black dragon blood especially — once it's been properly preserved and solidified, it's as hard as volcanic rock. Let alone a giant like Onyxia. Think of the wounds that blood had to repair and heal — it absolutely can't be treated as an ordinary hard gemstone… I imagine a magic pendant forged from Onyxia's dragon blood should also grant powerful resistance."
+
+"King Magni told me pretty much the same thing. No wonder those dwarves said only Ironforge could craft ornaments from black dragon blood," Jace murmured.
+
+After the soldiers left, Vik came over and asked: "That lieutenant commander just now said you defeated the black dragon princess?"
+
+"She didn't die," Jace said. "We just drove her off, Dad. And I didn't beat her on my own either — Grede Thunderfist, and… some helpers I summoned with magic."
+
+When he mentioned helpers, Jace couldn't help covering his mouth and coughing. Vereesa glanced over sensitively. Well, this was the first step in getting his parents to accept the reality of his world.
+
+"We never heard any of these details back in the royal city. Were you hurt?" Henny asked.
+
+"That was unavoidable," Jace said. "But I have to thank you for praying to the Holy Light, Mom. Thanks to the Light's blessing, I recovered quite fast." Henny's eyes moistened at once. She took Jace's hand and said, "Who could count on the Holy Light to help you defeat a vicious dragon bigger than a bell tower? But… why didn't you say anything about this before?"
+
+"Actually, I didn't want you to get too worked up about it," Jace said, gripping his mother's hand. "And it's all in the past. Look — Stormwind has long since returned to normal, and our house is perfectly intact. That's what matters most."
+
+"I don't know whether I should worry for you, or feel glad you could protect yourself against an enemy like that," Henny said in a low voice.
+
+Vereesa stood to the side watching Henny and her son embrace, lowering her head slightly, her mind probably drifting to some memories of her own.
+
+"You should definitely feel glad," Vik said. "We're both proud of you, Jace."
+
+"Don't make it sound like I drove off that dragon all by myself," Jace said with a smile. "One of these days I really must introduce you to that Wildhammer dwarf, Grede Thunderfist. I think you'll really like him, Dad."
+
+The wheels creaked and groaned, rolling over the stone bricks of the road. The four of them followed the carriage, talking and laughing, into the city's streets.
+
+Vereesa recounted everything that had happened that night — how the Kirin Tor's great mage Krasus had entered the palace to stop Onyxia's escape, to how Jace and his group had ridden a young dragon into the city, defeated all the palace guards and the King himself, and reached the throne room…
+
+Henny and Vik listened in stunned silence. And it wasn't just the two of them — Jace himself felt less and less like the things described were something he'd done. Add to that Vereesa's rather exotic Thalassian-flavored Common, like a female poet who'd traveled from ten thousand miles away singing a legend whose origins no one knew — it was hard to connect the Jace in the story with himself.
+
+The weather had warmed up quite a bit since Jace and Vereesa had left Stormwind through the portal.
+
+Heading down the road from the harbor toward Cathedral Square, they turned right onto the bridge crossing the canal. Looking into the distance, they could already see the roof of the detached house Jace had bought.
+
+"Over there — the house I bought." Jace pointed ahead. "You see it? That brownish-red eave."
+
+"I see it!" Henny clapped her hands lightly. "It's very close to the Cathedral of Light."
+
+"Looks like some minor noble's house," Vik said.
+
+"It is," Jace said. "I bought it from a relative of the Lescovar family. The Lescovars count as one of the top noble families in Stormwind."
+
+"Buying this house must have been tough," Vik said.
+
+Jace looked at his parents, then looked toward the detached house gradually coming fully into view. Recalling the whole process of scraping together those eighty or ninety gold coins bit by bit, he couldn't help feeling a wave of emotion.
+
+"It really wasn't easy," he quietly replied.
+
+After crossing another canal bridge, the carriage stopped at the front steps of the gate. Jace helped the porters carry everything into the house. After settling up and the workers left, the group brought things out and did some arranging.
+
+His father's and mother's eyes kept wandering around curiously. Although Jace really didn't want to use his warlock's senses to probe his parents' emotions, right now he couldn't help but actively reach out, feeling the surprise and joy in their emotions.
+
+"Let me give you the tour of this house, get familiar with it," Jace suggested.
+
+"I can't wait."
+
+Henny looked around the house excitedly, from the living room to the corridor beside it, the staircase, the side rooms. She went all the way to the second floor, then lay across the window of one of the bedrooms and refused to leave, wanting to take in more of the view stretching from the Park all the way to the harbor.
+
+"You see this? You can see the harbor from here! When I was little I always dreamed of owning a house with a view of the sea, Jace. I'm almost a little regretful I didn't run down here to find you with your father earlier. For a long time as a child, I associated the sea with serious books, holy hymns, and choir singing."
+
+"Why?" Vereesa asked.
+
+Henny said, "Because in Tirisfal, you could only see the sea if you went to a Holy Light monastery. Most of the other coastlines were occupied by gnolls and murlocs. No one but hunters and soldiers would risk going to those places, let alone me. It wasn't until I grew up, left Brill, and came to the royal city with Victor that I realized the sea was actually a beautiful place — though after that I rarely had the chance to go see the sea again."
+
+"You forgot we went to Southshore together," Vik said.
+
+"Yes, because of that time, Victor." Henny looked toward the harbor with a smile. "That time I realized the sea was actually that beautiful, completely different from my impression as a child. And the sea here is even more beautiful — crystal clear, like a sapphire."
+
+"Look at those sails!" She tugged excitedly at her father's sleeve, pointing at the merchant ships on the sea in the distance. It was obvious Vik could barely look away either, carefully taking in every detail of the harbor visible from here.
+
+Seeing how much his mother loved this window, Jace finally let go of something that had been nagging at him for a long time — the house in the Park.
+
+Stormwind's Park was somewhat similar to Stratholme's Rivermouth District in certain ways — it had forest-like greenery, quiet and elegant neighbors, fresh, clean air…
+
+But it had the same problem: although both Stormwind and Stratholme were port cities, these places were all blocked from the view by walls, tall buildings, or woods, making it very hard to see the sea.
+
+Stormwind's Park being able to see the sea was only after Deathwing had blown it up. So the houses near the cathedral and harbor along the canal did have a unique advantage.
+
+After seeing the whole house — upper and lower floors and basement — Jace brought his parents around back to look at the stable. Jace knew this was the part his old man was most looking forward to.
+
+Sure enough, the moment they arrived at the stable, Vik couldn't keep himself from touching the stall bars, the doors and windows, his mouth practically splitting into a grin.
+
+"Spacious and bright, Jace." Vik smiled. "Compared to the horses living in Durnholde, living here is practically living in a castle! Of course, the castle there had a training ground where those lads and lasses could run laps…"
+
+"Once you're outside the city walls, head west along the wall and you'll reach a training ground by the woods, Dad." Jace pointed west. "That's the Mage Quarter's training ground. But considering your son has a Wizard Sanctum ring, I imagine you can take your horse there for a safe stroll. There's a watchtower there — no kobolds or gnolls would dare go looking for trouble there. Much safer than riding out of the city yourself."
+
+"Got a stable, got a training ground — all that's missing now is a horse," Vik said, hands on his hips.
+
+"Actually, there is a horse too." Jace leaned against the nearby wooden board with a show-off tone. "And it's a horse King Varian gave me. She's a descendant of a warhorse — still young, didn't make it onto the battlefield before the war ended…"
+
+"So when do we go?" Vik asked excitedly.
+
+"Tomorrow," Jace said.

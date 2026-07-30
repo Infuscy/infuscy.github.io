@@ -1,0 +1,122 @@
+## Chapter 900: The Peace of Lakeshire
+
+Coming out of the mage tower of the Wizard Sanctum, Jace headed straight for the Mage Quarter's staff shop, Storm Staff.
+
+The shopkeeper, Allen Hafegan, was an old acquaintance of Jace's. He still remembered the first time he'd met him, asking about that blood demon's staff — the man had at least looked like a young man then, well-dressed with a neat mustache.
+
+Looking at him now, Jace didn't know when he'd gone bald. His features were still the same as they'd always been, but it suddenly made him look twenty years older.
+
+"Mr. Jace Sesso." Hafegan glanced at the black-cloaked, twisted thing on Jace's back and raised an eyebrow. "Another new staff from somewhere? Haven't found the last one yet?"
+
+"The last one was completely written off," Jace shook his head. "Hopefully this one lasts a little longer."
+
+"Is this one wooden or bone? The design looks quite distinctive. But since you're wrapped it up, you clearly don't want outsiders poking their noses in." Hafegan tidied up the books on his desk. "So what brings you to Storm Staff this time?"
+
+"I'd like to have a new staff made. A short staff is fine. No need to pursue harmony with mana — just make it sturdy." Jace took the mirror stone fragment from his chest and placed it on the desk. "Use this for the staff head."
+
+"Mount this stone?" Hafegan picked it up, turning it over and over, muttering at the faintly visible human figure inside. "I've never seen a magic stone like this. How soon do you need it?"
+
+"As soon as possible," Jace said.
+
+"How about a week?" Hafegan said. "Seventy silver. I'll use the finest wood brought back from the Hinterlands — supposedly material blessed by the forest dragons of legend."
+
+"Let's not," Jace said. "Oak will do."
+
+"Eight silver, then." Hafegan's expression looked a little disappointed. "Hard to imagine — the apprentice Sesso who came to Stormwind just a few short years ago is already King Varian's magic advisor, and he can't even treat himself to something nice?"
+
+Jace coughed and said nothing. After all, he needed to save money for the mage tower right now — every bit counted. Next, before heading to Moonbrook, he needed to free Kallrez.
+
+Jace didn't know how many of the warlocks who'd taken part in the original summoning had been involved in the Moonbrook affair. Some might have been killed; worse, some might have been thrown into the Stormwind Stockades.
+
+So far it looked like the matter hadn't leaked. But there was no telling when something might go wrong, so he had to act immediately.
+
+Going to Lakeshire on horseback would take several days. From Lakeshire, crossing the mountains to the Altar of Storms would take several more. That was a week gone just like that.
+
+Flying would be best. Although Sola was willing to carry him on her travels now, he couldn't go riding her for everything — she was a real green dragon, after all, not some mount he could summon at will.
+
+What's more, this time Jace was planning to go see Kallrez, a doom lord he'd summoned himself. Although Sola knew he'd summoned quite a few demons and was aware of this doom lord's situation, Jace still felt a little guilty at the thought of letting her or Grede see with their own eyes the several-meter-tall massive demon he'd summoned.
+
+So, after leaving the Wizard Sanctum, he rode alone to the walls of the Valley of Heroes to see if he could ask the gryphon master to give him a ride to Lakeshire.
+
+"Excuse me." He came to the edge of the wall and said to the human gryphon master who was craning his neck to look down at the bridge. "Does Stormwind's gryphon roost currently offer a gryphon rental service for travel, sir?"
+
+"At present, only for military, official, and Wizard Sanctum business, sir." The gryphon master turned to look at Jace. "You a mage?"
+
+"Yes." Jace displayed his Court Mage's Signet.
+
+"Master Sesso…" The master stared. "My apologies. Where do you need to go?"
+
+"Lakeshire," Jace said. "I'd like a fairly large gryphon. As large as possible." After all, he'd need room for Morophil beside him too.
+
+"The largest gryphon we have is a dwarf's private property, Master. And even if it weren't private property, none of us could handle him," the master said with a laugh, then suddenly remembered something. "Oh, right — isn't Grede Thunderfist your friend?"
+
+"We've had a bit of a falling out," Jace cleared his throat.
+
+"All right, Master. I understand. Dwarves, eh… Anyway, I'll try to find you a larger one." The gryphon master shouted toward the distance. "Darpen, bring your Ironfeather over here. We've got work!"
+
+A distinctly human voice answered in Dwarvish from afar: "No problem." Jace was a little puzzled at first, but then he figured Stormwind's gryphon riders had all been trained by Wildhammer dwarves and Ironforge's gryphon knights. Communicating with the gryphon and so on was all done in Dwarvish, so it made sense that the gryphon roost on the wall would be accustomed to using Dwarvish.
+
+"I'd like to ask something while I'm at it," Jace said. "Can you fly to Duskwood from here?"
+
+"You can go to any town, sir," the gryphon master turned and said. "Not outside the kingdom's borders for now, due to some diplomatic reasons. But I think as long as there's willingness to coordinate within the Alliance, gryphon flights might one day reach Quel'Thalas."
+
+"Indeed they might," Jace nodded.
+
+Once the demon was settled, he could take a gryphon to Duskwood and see if the Dagger Society people were there. Before heading to Moonbrook, it would be even better if he could meet up with Galders and ask him about this demon plague.
+
+By gryphon, they reached Lakeshire in less than half a day. Just looking across the river, Lakeshire seemed even livelier than before.
+
+There were more people on the bridge, in the streets, and in the taverns. When Jace ate, he hardly heard anyone discussing the Moonbrook unrest. Compared to Stormwind, the people here seemed to care very little about what was happening to the west.
+
+When paying his bill, Jace leaned against the counter and waited for the proprietor. He overheard people nearby talking.
+
+"Now's the perfect time to settle in Lakeshire, Thad. I mean it — that's what a lot of people are thinking right now. If you're really planning on it, you'd best do it soon."
+
+"Before, I heard there were some strange cultists in Moonbrook. I heard people in the south say it was some kind of cult that worshipped…"
+
+"Whatever they worshipped — fire-breathing monsters or some great goddess — it's all gone now. The king has found a way to clean out those brain-dead people around Lakeshire, along with the cult leaders who were swindling them. You didn't notice? The military camp across the river's been scaled back quite a bit."
+
+Hearing this, Jace did recall that the Alliance encampment, the military banners, the tents, the patrolling soldiers, and the cavalry he used to see every time he passed through Lakeshire had all decreased significantly.
+
+"You know what this means? King Varian's done a lot of good since he came back. Redridge has returned to peace. I even heard they're planning to reactivate the mage tower at Stonewatch — and that's no rumor. Even the gnolls in the forest have gotten wind of it and scattered."
+
+The man went on. "Without those brain-dead cultists, without the gnolls, and with the orcs mostly fled, Lakeshire is going to become the most prosperous town — Stormwind's Stratholme, you know what I mean? I'm telling you, Thad, I don't know what there is to hesitate about. You worried about the murlocs by the lake? If those few murlocs could make any kind of waves, the murlocs in Elwynn would be enough to storm Stormwind!"
+
+"It's too close to the Dark Portal," another voice said glumly. "And haven't you heard what kind of person the new master of that mage tower is? A dark wizard."
+
+"You — have you been reading too many horror stories? If he were truly a deranged dark wizard, would the king hand that tower over to him? You're probably going to start talking about controlling people's minds with magic, just like the old, muddle-headed Lordaeron king who was easily manipulated by a male witch. Forget it — our king is only twenty-two at most, twenty-three! I'm wasting my damn time…"
+
+"Seven coppers, mage." The proprietor coughed, pulling Jace's attention back. "Thank you."
+
+Jace paid and left the tavern.
+
+The cultists were gone, the gnolls were gone, the orcs weren't coming anymore, and the soldiers had followed — and with them had gone the sense of tension they'd brought to Lakeshire's residents. In the distance, faintly visible, the blue banner of Stormwind hung high atop the Stonewatch across the lake.
+
+On the surface, everything was indeed moving in a good direction. But Jace knew that hidden beneath this was something off.
+
+King Varian's decision to pull troops from the already-stabilized Lakeshire and redeploy them to Moonbrook to maintain order, deal with demons, and protect the farms and mines sounded perfectly reasonable. But it played right into the black dragons' hands.
+
+After all, in the game, Onyxia's sole aim was to throw the Kingdom of Stormwind into chaos. Her main goal was to stir up internal conflict within the kingdom, leave Lakeshire's defenses hollow, and then have her brother Nefarian seize the opportunity to send black dragons and orcs to take Stonewatch — completely dismantling Stormwind's ability to deal with Blackrock Spire.
+
+This would allow the Blackwing Legion to control the orcs from within Blackrock Spire without outside interference, deal with the Dark Iron dwarves, carry out their plans, and build a new black dragon stronghold.
+
+The fact that Onyxia hadn't shown herself didn't mean Nefarian wouldn't take advantage of this and suddenly move — gathering orcs to attack Stonewatch, to attack the Tower of Ilgalar.
+
+He couldn't let his guard down just because the king's scouts in the Burning Plains hadn't reported any anomalies at Blackrock Spire. After all, scouts couldn't replace an army, and the scouts themselves could have been bewitched by the black dragons.
+
+He just had to resolve the Moonbrook affair as quickly as possible and let the kingdom return to normal as soon as it could.
+
+## Flags
+
+- **风暴法杖 = Storm Staff** — the Mage Quarter staff shop. Not in glossary. (Tentative; could also be "Stormwind Staff.")
+- **艾伦·哈弗甘 = Allen Hafegan** — shopkeeper of Storm Staff. OC; not in glossary. Tentative romanization.
+- **辛特兰 = the Hinterlands** — per glossary.
+- **狮鹫管理员 = gryphon master** — rendered per ch.001 convention (glossary lists 戈斯鲁姆 = Gotsrum, a different NPC).
+- **铁羽 = Ironfeather** — Darpen's gryphon. Not in glossary.
+- **达尔朋 = Darpen** — gryphon rider. Not in glossary.
+- **石堡 = Stonewatch** — per glossary.
+- **伊尔加拉之塔 = the Tower of Ilgalar** — per ch.737 convention.
+- **黑石塔 = Blackrock Spire** — per glossary.
+- **黑翼军团 = the Blackwing Legion** — Nefarian's black dragon faction. Not in glossary (glossary: 黑龙军团 = Black Dragonflight).
+- **奈法利安 = Nefarian** — per glossary.
+- **暴风城监狱 = the Stormwind Stockades** — canonical prison. Not in glossary.

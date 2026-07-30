@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 13: The Bounty Hunter of Sentinel Hill — The Wobbly Peach</title>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+<style>
+/* Reading layout — ponytail: inline so generated pages need no Jekyll build */
+:root {
+  --reader-max: 42rem;
+  --reader-bg: #fefefe;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+}
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a {
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress {
+  color: var(--reader-muted);
+  font-size: .85rem;
+}
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -.02em;
+  color: #0f172a;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 2rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0 0 1.25rem;
+  color: var(--reader-text);
+}
+.reader-content hr {
+  border: 0;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 6rem;
+}
+.reader-content hr::before {
+  content: '· · ·';
+  color: var(--reader-muted);
+  font-size: 1.2rem;
+  letter-spacing: .3em;
+}
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover {
+  background: #eff6ff;
+  border-color: var(--reader-accent);
+}
+.reader-nav-link.disabled {
+  color: var(--reader-muted);
+  border-color: transparent;
+  pointer-events: none;
+}
+.reader-toc-link {
+  color: var(--reader-muted);
+  text-decoration: none;
+  font-size: .9rem;
+}
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+/* Flags */
+.flags-section {
+  max-width: var(--reader-max);
+  margin: 2rem auto 0;
+  padding: 0 1.25rem;
+}
+.flags-section summary {
+  cursor: pointer;
+  color: var(--reader-muted);
+  font-size: .9rem;
+  font-weight: 600;
+  padding: .5rem 0;
+  border-top: 1px solid var(--reader-border);
+  margin-top: 2rem;
+}
+.flags-section summary:hover { color: var(--reader-text); }
+.flags-section h2 { font-size: 1rem; font-weight: 700; margin: 1rem 0 .5rem; }
+.flags-section p { font-size: .9rem; line-height: 1.6; color: var(--reader-muted); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: 1.4rem; }
+  .reader-content p { font-size: 1.05rem; line-height: 1.75; }
+}
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/novel/">← Table of Contents</a>
+  <span class="reader-progress">Chapter 13 of 1862</span>
+</div>
+<main class="reader-content">
+<h1>Chapter 13: The Bounty Hunter of Sentinel Hill</h1>
+<p>That afternoon, Jace and Grede met up at a newly opened tavern near the Stormwind gates to sort out their travel gear. Grede had brought along quite a lot for this trip.</p>
+<p>"My woodcutter's axe, my small round shield, that Stromgarde straight sword I won off that prince, cheese, a liquor flask, animal traps. Yeah, that's about everything."</p>
+<p>"Animal traps?" Jace looked up toward Grede's hand and spotted the black iron trap sitting on the table.</p>
+<p>Grede said, "You want to find Evil Claws, right? We can set traps where the wolves roam in Duskwood and use bait to lure them in… isn't that a lot safer than going head-to-head with those beasts?"</p>
+<p>"Makes sense," Jace said. "But it might take a long time."</p>
+<p>Grede strapped the animal trap to his back. "Should be fine. I'm an old hunter from the Hinterlands. What about you — what'd you bring?"</p>
+<p>Jace answered, "Just the usual stuff. Markers and illustrations to help us find the herbs — that's the most important part. Plus some dried bread, shredded dried meat… though the shredded dried meat is for us two to eat."</p>
+<p>Grede hitched the binding cord for the small round shield to his waist and nodded. "I know. If we're in Duskwood, we can gather what we need on the spot."</p>
+<p>Jace gave a stiff laugh. "I'm not sure that's a good idea. The heroes buried in the Raven Hill cemetery are all veterans of past wars."</p>
+<p>Grede turned his head. "What's bait got to do with the cemetery?"</p>
+<p>Then it hit him that something was off.</p>
+<p>"You're not thinking of digging up corpses to use as bait for those animals, are you? Mate, are you quite right in the head? I mean, catch some small live animals…"</p>
+<p>Jace said quickly, "Ah — probably all those horror stories the patrolmen told me getting to my head. They all say the animals over there love eating human flesh. And we'd just been talking about the Raven Hill cemetery, and then you said gather on the spot, so I assumed…"</p>
+<p>Grede's expression shifted. "Is that so? Well if that's really the case… it's not a bad idea, actually."</p>
+<p>"Forget it." Jace rummaged in his pack. "I brought an extra outer layer too. If we have to go deep into the cemetery, we'll definitely want to change once we're out. The Raven Hill cemetery's been heavily contaminated with corpse toxin — some people who rushed in came back with aftereffects, probably from wearing their filthy clothes too long."</p>
+<p>"That from the patrolmen too?"</p>
+<p>"Some of it from immigrants from Raven Hill and Gelande." Jace hitched up his pack. "If we're all packed, let's go. Any later and I don't know if we'll make it to Westfall Keep before nightfall."</p>
+<p>Stormwind had expanded its city limits, and the massive wave of new housing had already absorbed tens of thousands of new residents — yet there were still plenty of refugees pitching tents inside and outside the Valley of Heroes.</p>
+<p>Many of them were disabled folk with no way to make a living. Some were elderly people and children whose homes had been destroyed and who'd lost their source of income.</p>
+<p>A few priests from the Cathedral of Light were moving through the shabby tents handing out food and tending to the sick. Some workers were helping the poor patch up torn tent canvas and other essential tools.</p>
+<p>The young king wanted to take in as many of these refugees as possible — especially since many of them had fled here from Duskwood or Redridge. They were all subjects of the Kingdom of Stormwind.</p>
+<p>They'd been able to divert some to Goldshire before, but now even Goldshire had a refugee camp. Maybe the new arrivals would have to be sent further out, to towns like Moonbrook.</p>
+<p>Jace walked to the city gate and watched the children sitting at their tent entrances, staring blankly at the Stormwind gates. He remembered when he'd first arrived in Stormwind, looking at the scarred, ruined city and wondering if he'd ever have a place to live here.</p>
+<p>Now he had a roof over his head — barely. But what the future held, nobody could say.</p>
+<p>The two of them spent ten coppers to catch a ride with a wine caravan to the relay station near Westfall Keep. After resting for the night, they set out early the next morning on a wagon heading for Sentinel Hill.</p>
+<p>Westfall at this time of year was anything but a "fall." The Common name for it was closer to "the big flat land to the west."</p>
+<p>With Harvest Festival approaching, the endless fields stretched out before them — golden summer wheat swaying in the breeze, the tree lines dividing the farmland a vivid, contrasting green in the distance.</p>
+<p>Scarecrows stood abrupt and strange across the gently rolling plains, staring down every traveler on the passing wagons.</p>
+<p>By the time they arrived at Sentinel Hill, it was already dark. A walk that took all of a few minutes in the game had, in this world, taken a solid day and a half by wagon. Thanks to the dense string of relay stations and their guards, the main road through Westfall was still relatively safe.</p>
+<p>Sitting in the wagon, they could see the torches burning atop the tall watchtower on the hillside from far off.</p>
+<p>The place was still lively even at night. Miners chatted and drank in the street, watching the wagons — foreign and local — rolling into the station from time to time.</p>
+<p>"Station" was a generous word, really. Sentinel Hill had nearly grown to the size of a town.</p>
+<p>The kingdom's major western stronghold to the southwest — Moonbrook — was the richest place in the realm outside the capital. The town had grown up around a massive mine.</p>
+<p>As the kingdom's most important grain-producing region, the area's central town of Moonbrook had naturally become a major grain distribution hub.</p>
+<p>Thanks to the kingdom's reconstruction efforts over the past two years, demand for stone and minerals had surged, and Moonbrook had quickly recovered its pre-war prosperity.</p>
+<p>Riding that tailwind, Sentinel Hill — originally just a way-station between Moonbrook and the Elwynn region — had ridden along with it.</p>
+<p>On top of that, a new mining district had been discovered northwest of Sentinel Hill recently. Plenty of Moonbrook miners had moved over looking for new opportunities, giving Sentinel Hill the look of a brand-new town taking shape in the middle of Westfall.</p>
+<p>The real place was far bigger than the game — more like one of those little frontier towns built along a railroad in an American Western, except here the "railroad" was the watchtower, the barracks, and the grain road.</p>
+<p>The damage wrought by the Orc Wars was more visceral here too. Some of the outermost houses had been burned down in the war and still hadn't been repaired.</p>
+<p>The small chapel by the lumberyard had suffered badly in the war. Right now a crew of construction workers were sleeping beside the chapel's main building, which was covered in scaffolding, guarding stacks of stone and timber. The miners and townsfolk passing back and forth didn't seem to disturb their slumber in the least.</p>
+<p>Jace could tell this brand-new town was short on hands — help-wanted notices were everywhere. Miners, construction workers, farmhands — the pay wasn't much different from Stormwind's at all.</p>
+<p>No wonder Eden Marin had worried about him coming out here to find work. If a person got used to life here or in Moonbrook, they might genuinely not want to go back to Stormwind.</p>
+<p>"You see that slaughterhouse?" Grede pointed to a small building around the corner, barely ten meters away. "Tomorrow we can head over and buy some bone scraps for bait, so we won't be forced to dig up dead folk."</p>
+<p>"Even bone scraps aren't cheap, especially with food in short supply right now," Jace said. "How about we try hunting wild boar on the western riverbank for meat?"</p>
+<p>Jace didn't have any real hunting experience. He was just shooting his mouth off based on what he knew from the game.</p>
+<p>Grede said, "The Bloodfang Boars around here are famously vicious. Even the gnolls don't count on hunting them for a stable meat supply. You know why moonbrook liver pie's so expensive? Because only Bloodfang Boar liver makes it taste that way… Hunting Bloodfang Boars takes a professional boar hunter."</p>
+<p>Jace asked, "You're from the Hinterlands — how come you know so much about southern boars?"</p>
+<p>Grede answered, "Wait till you've lived another fifty years and you'll pick up all sorts of useless trivia too, Jace. Still, those boars, vicious as they are, are at least easier to deal with than the strange wolves in Duskwood. We'll have to be careful out there. I don't want to get swarmed by a pack of fanged beasts."</p>
+<p>Jace said, "At least that way it'd be a quicker death."</p>
+<p>Grede shook his head. "Not necessarily. Take the bears in the Hinterlands — they don't like killing their prey. They catch you alive and start eating from the least important part, working their way up until you can't feel the pain anymore and you've accepted your fate. Then once you've stopped breathing they just toss you aside, because they don't like their meat dead."</p>
+<p>Jace shifted uncomfortably as the dwarf painted a vivid picture of how a dwarf gets eaten alive.</p>
+<p>"The wolves around here would go for your throat first, I'd wager."</p>
+<p>Grede said, "I'd guess so too. Rare bit of good news."</p>
+<p>The two of them talked as they walked into an inn, and were immediately enveloped by a thick smell of rust.</p>
+<p>Jace couldn't tell if it was the scent off the miners' bodies or the stench of blood from the butcher chopping too many innards — either way, it was foul.</p>
+<p>Grede ordered two ales. They sat down and pulled out their provisions to eat.</p>
+<p>The tavern was noisy. Their neighbors were a group of men and women dressed in all manner of traveling gear, talking at the top of their lungs.</p>
+<p>But every one of them was armed, and the other customers — however annoyed — were consciously keeping their distance.</p>
+<p>"Some cowards see something they've never laid eyes on before and blow it all out of proportion," said a powerfully built man with a black beard, a long-handled war hammer resting across his knees. "I'm telling you, there's no such thing as a gnoll two men tall. It's just that the guards haven't dealt with gnolls in so long that the first time they see one they lose their wits and have nightmares about it."</p>
+<p>"So you're saying there's no gnoll leader at all?" a woman with a hunting bow across her back said coldly.</p>
+<p>Her voice was so rough that her gender was hard to place. Combined with her already-blonde hair cropped extremely short, you could easily mistake her for a man if you weren't looking closely.</p>
+<p>If it weren't for the fact that she was both powerfully built and amply fleshed, with her chest straining against her leather jacket where the bowstring pressed tight, Jace might not have recognized her as a woman at first glance.</p>
+<p>This whole group had extremely pale skin — pale to the point of being glaring, the veins visible clear through it. They were probably from somewhere far to the north.</p>
+<p>A man in a white undershirt sitting beside the woman said, "If a gnoll tribe loses its leader, it'll elect a new one soon enough. But if the new one lacks the old one's leadership, the whole tribe will sink into a period of infighting. I don't deny that the gnolls have been more rampant lately because a strong new leader's emerged… but two men tall is a stretch."</p>
+<p>"That's exactly what I think," the black-bearded man said. "In the end, we probably won't find any two-man-tall gnoll leader. No matter how many gnolls we kill, it's all for nothing… because the wanted notice calls for a gnoll head twice the normal size."</p>
+<p>The black-bearded man went on, "Maybe young Wrynn's trying to pull a fast one — set an impossible bounty condition and have us idiots running around slaughtering gnolls looking for some giant leader, only to find nothing at the end of it. They spend nothing and get the gnoll population in this region thinned out, and not a single one of us collects a copper of bounty!"</p>
+<p>The man in the white shirt said, "I don't think anything bearing the Wrynn name would stoop to something that underhanded. What they'd lose in the end is the royal house's credibility."</p>
+<p>The woman said, "I did some research beforehand. Some miners and farmers did see a giant gnoll, but I'm not sure… whether it's the same one the bounty mentions."</p>
+<p>The black-bearded man gave a contemptuous snort. "You can't trust a mercenary's word, let alone those cowardly miners and farmers!"</p>
+<p>"What did you say?" A stocky man at the next table slammed his hand down and stood up. The black-bearded man gave him a sidelong glance and calmly took a sip of his ale.</p>
+<p>"Spreading that kind of shit in here — you've got a death wish, you hairy bastard!" another miner said coldly.</p>
+<p>Jace slowly raised his tankard, taking a small sip to hide his face. It looked like a nasty brawl was unavoidable.</p>
+<p>"By the Holy Light!" The man in the white shirt stood up, appealing to the crowd. "For the sake of our common faith, everyone calm down. My friend here had a run-in with some miners before, but it was a group of dwarven miners who provoked him — he wasn't referring to you…"</p>
+<p>Grede, hearing this, choked on his ale in quick succession and whipped around to glare at the man. Only then did the nearby customers realize that the stocky, broad fellow sitting here was actually a tall dwarf!</p>
+<p>Jace whispered to Grede, "Haven't the Aerie Peak dwarves found a mine yet? He's either talking about the Dark Iron, or some Bronzebeards from Loch Modan…"</p>
+<p>Grede turned back, wearing an expression that said <em>you've got a point there</em>.</p>
+<p>"We've seen the giant gnoll leader," Jace raised his voice toward the mercenaries. "Over by Westfall Keep. If you follow the riverbank, I'm sure you'll find a trail."</p>
+<p>"Don't take this the wrong way, lad," the black-bearded man glanced over, "but I don't believe someone like you could see a gnoll like that and live to tell about it."</p>
+<p>"From where I'm sitting, his balls are at least twenty times the size of yours," Grede said icily. "Say one more word and I'll shove this tankard so far up your arse—"</p>
+<p>With that, Grede waved the tankard — barely smaller than his own head — in his left hand, while his right hand rested on the table, gripping the sword hilt sticking out of the sack.</p>
+<p>Jace had been a little worried that a real fight would mess up their plans, but now his brain was stuck on the concept of testicles twenty times normal size and couldn't move past it.</p>
+<p>A dwarf throwing a tantrum in a human tavern carried an absolutely enormous deterrent effect. Even the arrogant black-bearded man was getting nervous.</p>
+<p>And the woman beside him had been staring at the sword in Grede's hand the whole time. She leaned over and whispered something in the black-bearded man's ear. Reading her lips, Jace could make out what looked like the word "Stromgarde."</p>
+<p>"I'm just trying to help, everyone," Jace cleared his throat. "After all, if you can take down that giant gnoll, it'd be good for the whole Kingdom of Stormwind, and I sincerely hope you collect that bounty. But if you keep up this hostile attitude, I think everyone here would be happy to help my friend shove his tankard… well… up inside you."</p>
+<p>The black-bearded man glanced around and realized he'd already pissed off a large group of middle-aged laborers fresh out of the mines.</p>
+<p>The man in the white shirt sighed and said quietly, "Cliff, you need to rein in your temper. Stop making trouble. This isn't Northrend."</p>
+<p>Northrend? So these three were from the northern continent off the Northern Sea — no wonder they had an accent he'd never heard before.</p>
+<p>The tense atmosphere in the tavern gradually eased. The black-bearded man's group of three seemed to sense the hostility in the inn. After a few whispered exchanges, they left together.</p>
+<p>After all, if they slept here, there was no telling who might creep into their room in the middle of the night and crack their skulls open. Miners who'd lived here half their lives had plenty of ways to make a man die without a trace.</p>
+</main>
+
+<details class="flags-section">
+<summary>Translator Notes</summary>
+<h2>Flags</h2>
+<p>- <strong>Chapter numbering:</strong> Output chapter012.md = source 第13章. Same off-by-one as noted in chapter010 flags.
+- <strong>Bloodfang Boar (血牙野猪):</strong> Not in glossary. Rendered as "Bloodfang Boar" — a Westfall boar species. "Bloodfang" follows WoW naming conventions.
+- <strong>"moonbrook liver pie" (猪肝馅饼):</strong> The text says 月溪镇的猪肝馅饼 (Moonbrook's liver pie). Rendered as "moonbrook liver pie" lowercase to match the flow; the fame of Moonbrook's liver pie is the reason given for Bloodfang Boar liver's value.
+- <strong>"pull a fast one" (空手套白狼):</strong> Idiom meaning "get something for nothing" / bait-and-switch. Rendered idiomatically.
+- <strong>"young Wrynn" (小乌瑞恩):</strong> Refers to the boy king Varian Wrynn. Rendered as "young Wrynn" — the mercenaries are speculating about the king's honesty.
+- <strong>Cliff (克里夫):</strong> The black-bearded mercenary's name, revealed by the white-shirted man. Not in glossary.
+- <strong>"testicles twenty times normal size" (卵子比你大至少二十倍):</strong> Grede's crude insult. The Chinese literally says "his balls/eggs are at least twenty times bigger than yours" — rendered as "his balls are at least twenty times the size of yours" for natural vulgar tone matching Grede's voice.
+- <strong>"Gelande" (格兰镇):</strong> See chapter010 flags — same transliteration issue.
+- <strong>"Nefiri River" (纳菲瑞提河):</strong> See chapter010 flags.
+- <strong>"Northrend" (诺森德):</strong> Canon WoW continent. Used directly.</p>
+</details>
+<nav class="reader-bottom-nav">
+  <a href="chapter012.html" class="reader-nav-link">← Chapter 12</a>
+  <a href="/novel/" class="reader-toc-link">Contents</a>
+  <a href="chapter014.html" class="reader-nav-link">Chapter 14 →</a>
+</nav>
+</body>
+</html>

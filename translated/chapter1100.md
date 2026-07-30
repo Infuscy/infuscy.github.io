@@ -1,0 +1,179 @@
+## Chapter 1100: You Deserve It
+
+The high elves had no intention of staying long in Duskwood Town. After settling the matter of the staff, Archmagister Belor'al discussed the next steps for cooperation with King Varian in detail, and the Town Hall meeting drew to a close.
+
+Quite a few high elves had already left the town square and headed toward the watchtower near the gryphon corps. Jace didn't go over to look. He only knew they weren't riding gryphons or dragonhawks from there — the magisters were maintaining a temporary portal there, teleporting the elves who'd attended the meeting here from Quel'Thalas. Vereesa had probably come over that way.
+
+Varian exchanged a few final words with Belor'al, then watched the Archmagister leave under the escort of a squad of elven guards.
+
+He glanced Jace's way as if wanting to say something, but his gaze flickered to the side. He cleared his throat and called to his attendants and court advisors, preparing to head back to the inn.
+
+Jace looked where he'd glanced — right at Vereesa, who'd walked over with her hands behind her back.
+
+"What is it, Jace Sesso?" She eyed the retreating procession of high elves. "What did I do wrong? You were in such a hurry to run out and avoid me?"
+
+"What's right and wrong got to do with anything?" Jace said. "I was worried that if I kept standing with you, the other Quel'dorei would suspect you of colluding with me to screw over your own people."
+
+"If you don't stand with me, they won't suspect?" Vereesa asked, moving closer.
+
+"Fair point," Jace tilted his head.
+
+"Truth be told, those magisters and I aren't exactly our own people," Vereesa said, eyeing the elven mages pausing briefly at a street corner not far away. "You might not know this, but no small number of magisters advocate getting Quel'Thalas to leave the Lordaeron Alliance. It's hard to say who's better at 'screwing over' our own kind — them or me."
+
+"At least the Archmagister doesn't seem to think that way," Jace said.
+
+Vereesa said, "No one knows what the Saronna family is thinking. The Archmagister rarely expresses clearly biased positions in the Silvermoon Council. The reason she wants to stay in the Alliance right now is simply because that's the current reality, and the Sun King leans that way too. But that doesn't change anything. Many magisters even accuse Prince Kael'thas in private of 'treason' because he's so enthusiastic about Dalaran's affairs. Even the prince can't sway those people's opinions — Belor'al can do even less."
+
+"What about Dar'Khan?" Jace asked.
+
+"Dar'Khan was unquestionably one of them," Vereesa said. "So I think this incident will more or less make that bunch of magisters tone it down. If the influence of these 'Alliance-withdrawal' types keeps growing, it's hard to say where things will end up."
+
+Listening to Vereesa talk about these things, Jace felt something unsettling in his gut.
+
+Of course he wasn't hoping for Quel'Thalas to leave the Alliance. If you wanted to survive on Azeroth, both humans and elves faced all manner of difficulties and crises... The elves couldn't really wait until the Scourge was at Silvermoon's walls to regret not having maintained good relations with their allies.
+
+This unsettling feeling came from within himself.
+
+Walking out of that crypt, seeing Dar'Khan and his accomplices standing not far off, he'd known the mage was after Ulthalesh, and he'd known a life-or-death fight might be unavoidable.
+
+But he hadn't expected this one battle to send out such enormous ripples — and that was with both Varian and Belor'al deliberately downplaying the incident.
+
+If word that an elven magister had assassinated the Kingdom of Stormwind's magical advisor spread to Ironforge, Kul Tiras, or even Lordaeron and Arathi?
+
+Plenty of northerners might even be sorry that this dark mage hadn't died at the hands of an elven mage.
+
+That elven mage back in the Town Hall had mentioned how all Shadow researchers ultimately fell, devoured by power... It was hard to say whether he wasn't subtly pointing at Jace.
+
+After all, Belor'al had caught it too — and given him a look telling him not to run his mouth.
+
+Right now, Jace recalled the words Archmage Marin had spoken to him beyond the Dark Portal.
+
+Ten thousand people had ten thousand thoughts. Aside from close friends, across the Seven Kingdoms — including the dwarves and elves — there probably weren't many ordinary people who genuinely wished him a long life. Especially after Medivh had opened the Dark Portal.
+
+The more he thought about it, the more the whole world seemed to become a chaotic vortex of mud and mire, and he was in it — every struggle only making the chaos more unpredictable.
+
+All sorts of voices and faces in the vortex responded to his struggles in different ways — kind and positive ones: a helping hand, companionship; hostile and harmful ones: slander, dragging down, framing... Most were silent onlookers. And no matter what the responses were, he inevitably slid toward the dark, invisible void at the center.
+
+The shadow corrosion formed by suspicion and confusion took effect slowly, like poison spreading through his body — silent and stealthy. All Jace could do was lower his head and push these thoughts away.
+
+Vereesa noticed something off about Jace. The faintly playful look in her eyes slowly cooled. "Tell me, Jace — are you really all right? I feel like you're weaker now than when you came out of the Temple of Atal'Hakkar."
+
+She was right. After crossing spells with Dar'Khan, Jace's ability to resist shadow corrosion had indeed dropped considerably. He hadn't gone to see the priests today yet, and the morning at the Town Hall had burned through a lot of energy.
+
+Jace said, "A Quel'Thalas archmage peppered me with Arcane Missiles from the Staff of the Torrent. If I walked away unscathed... But really the biggest problem is Dar'Khan's shadow magic. His ability to manipulate Shadow is unimaginably fluid. If not for what I have in my hand..."
+
+He coughed, glanced at several town guards passing by, and didn't continue.
+
+"Hasn't Mr. Ladimore healed you with the Holy Light?" Vereesa asked.
+
+"Clearly Morgan Ladimore isn't the kind of priest you're imagining, Wen," Jace said. "I think he'd actually be better suited to the Silver Hand. Better suited to... picking up a weapon and hitting people. These past few days I've been getting treatment from Duskwood Town's priests. Don't worry."
+
+"Right. Aren't you going back to Quel'Thalas with your Archmagister?" he asked.
+
+"You're injured," Vereesa said, staring at him. "How could I feel at ease going back?"
+
+"What about the Mirror Stone Staff and that bat scepter? How much is the Reliquary planning to pay?" Jace asked.
+
+Vereesa shot Jace a look and folded her arms. "I haven't given them the Mirror Stone Staff yet. That Ata'le scepter — they're still researching what it is. Haven't settled on a price."
+
+"What's with that Mirror Stone?" Jace asked.
+
+"Earlier, when I passed the intelligence along, I may have exaggerated the difficulty of finding this Mirror Stone a bit," the ranger said, a little embarrassed. "To get you more money, and to get them to hold off on sending mages to Azshara to search for a while, I described that blue dragon — Azuregos — as somewhat... exaggerated."
+
+Seeing Jace's look, Vereesa immediately said, "Not that exaggerated. After all, the moment he saw us he really did deploy terrifying frost magic. If he hadn't known Solara, we'd probably have been frozen to death on that cliff already."
+
+"In any case," she said with a resigned sigh, "during this stretch we neither traveled to Kalimdor, nor found any well-known bounty hunters, nor contacted the Kirin Tor. And then I stole this ancient Kaldorei Mirror Stone out of the hands of that blue dragon lord I'd described... Don't you think it sounds a bit far-fetched? The scholars in the Reliquary aren't all fools. I figured once Grede and Solara are back from Kalimdor, I'd hand the Mirror Stone over to them and credit the recovery to the two of them."
+
+"All right, that does make sense," Jace said. "Good thing Varian covered the tower repair costs for me, so I'm not that desperate for money right now."
+
+Vereesa pinched a gold coin engraved with Tolbein's profile. "Let's talk in the tavern, Jace. Given how hard up you are right now, this meal's on me."
+
+Jace raised his eyebrows. "You heard her."
+
+The ranger flipped the coin between her fingers, then walked lightly across the street toward the tavern, leading Jace. Townsfolk along the way looked a little puzzled as to why this elf wasn't returning to Quel'Thalas with the Archmagister, craning their necks to look behind her.
+
+Quite a few people in the tavern were still talking about the high elves in town today, guessing what those "big shots" had been discussing in the Town Hall. Every table he passed, he'd catch high-frequency mentions of "Quel'Thalas" and "mages."
+
+"Regarding the Reliquary matter," Jace said as he sat, "there's one more thing. I don't know if you asked for me — about that dragonkin lord's head."
+
+"I heard them mention it in Silvermoon," Vereesa said. "An appraiser from the Society has already gone to Stormwind. I don't know if he's arrived, since he didn't go through a portal."
+
+"I hope they accept my original asking price," Jace said softly.
+
+"How much did you ask for?" the ranger asked.
+
+Jace held up two fingers. "Two hundred."
+
+Vereesa raised her long eyebrows. "Did Lady Gellei Lightchaser agree to it?"
+
+"She said she'd discuss it with the people in the Society," Jace said.
+
+"All right." Vereesa nodded. "I have to be honest. By the bounty standards the Reliquary pays to outside contractors, that price is definitely not cheap."
+
+"Not cheap?"
+
+Jace couldn't help mulling over how he'd haggle with the Reliquary's appraiser once he got back to Stormwind — lead with the damage Onyxia had done to Stormwind, for instance.
+
+At that moment, an argument at a nearby table caught his attention. Some of the patrons seemed to have actually caught wind of something, mentioning a conflict, mages fighting a warlock who commanded demons, a large section of the graveyard destroyed, many of the trees around Raven Hill withered...
+
+At the time, Jace had been too focused on casting during his battle with Dar'Khan to notice what kind of impact their Shadow had caused.
+
+But looking back now, the shade of the tree where they'd laid those high elves' bodies really was saturated with Shadow. It was perfectly normal for a lot of the nearby plants to have died.
+
+Vereesa also heard what those people were shouting in their argument. She leaned against the wall and said in a low voice, "I was thinking — if what you said is true, Jace, and Morgan isn't a very skilled priest, then weren't you the one who had to fight those four and still protect him at the same time?"
+
+"I didn't need to protect him," Jace said. "Ressathia turned him into a jackalope the moment she made her move specifically so he couldn't help."
+
+"A jackalope," Vereesa said. "That Dar'Khan really did love being different for the sake of it. Right — how did you beat Veras?"
+
+"I didn't beat him," Jace said. "I nearly got killed by him. Morfile was the one dealing with him."
+
+The mention of Morfile made Vereesa's expression immediately complicated.
+
+She lowered her head and thought about something, even ignoring the glass of goat milk the barmaid had slid in front of her. Then she said, "I don't believe it."
+
+"Don't believe what?" Jace asked.
+
+"I don't believe she could beat Veras Darkshadow." Vereesa gripped the wooden cup, leaned forward slightly, and whispered. "Veras is an assassin. Many of Silvermoon's nobles call him a demon that walks out of the Backward Alleys. If it came to archery or throwing knives and axes, I might be better than him. But when it comes to swordsmanship, blade technique... I'm not at all confident I could beat him."
+
+"I used Demonic Empowerment, channeling some of my own mana to Morfile for power," Jace tried to explain. "And the injuries she takes — part of them get shared to me through the soul link."
+
+"You share her pain too?" Vereesa asked in surprise. "How come I've never heard you mention this?"
+
+"Did I never mention it?" Jace asked blankly.
+
+"So that's how she beat Veras?" Vereesa said. "I regret not going back to Quel'Thalas with those magisters. Should've left you here to enjoy the post-battle warmth with her."
+
+"Wen..." Jace sighed. "The soul link is how it is. It's not like she takes all my injuries for me while I feel nothing when she gets hurt."
+
+"How is that not possible?" Vereesa said urgently. "For example, some mages can use their mana to maintain an arcane protection spell for a companion, or a specific person. But if the mage takes damage, the protected person feels nothing at all."
+
+"You got tricked by that demon into getting hurt this badly, you fool!"
+
+Vereesa stared at the poorly healed arcane arrow wound at the corner of Jace's mouth. Her eyes were already reddening, and her voice was losing control. The drinkers at a few nearby tables caught words like "demon" and glanced over involuntarily. Only then did she press her lips together and fall silent for a while.
+
+Until the people nearby lost interest, she lifted her eyes and said in a suppressed voice, "Hmph. I never had high expectations for you warlocks who mess around with demons all day anyway."
+
+"It wasn't just her. The felhound helped too," Jace said. "I temporarily summoned one of the felhounds from Iylogara Tower to my side. Or maybe the one from SI:7 — I can't remember. I'll have to confirm with Shaw when I get back. In any case, without that felhound, both me and Morfile would definitely have been finished off by those two mages together."
+
+"It's fine. I know she's strong." Vereesa propped her chin on her hand and traced a line on the table. "So — is she still in Duskwood Town right now?"
+
+"Of course she is. What are you going to do?" Jace asked.
+
+"I'm not going to kill her," Vereesa said in a low voice. Jace immediately understood her meaning.
+
+"You two really..."
+
+"What?" Vereesa asked.
+
+"Nothing," Jace said.
+
+"I know she wants to fight me too," Vereesa said. "You think I'm tired of her provocations? No, Jace — I want to learn something from her too, and see just how much this so-called banshee who claims to have fought countless demons in the Twisting Nether for thousands of years is actually worth. Knowing she beat Veras has only made that urge stronger."
+
+"Maybe don't," Jace muttered.
+
+"What, you trying to protect her?" Vereesa asked.
+
+"It's not about protecting her," Jace said. "The point is my injuries aren't healed yet. If you hurt her, or banish her back to the Twisting Nether, won't I be the one who suffers along with her?"
+
+"You deserve it," the ranger said, glaring.

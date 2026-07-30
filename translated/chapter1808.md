@@ -1,0 +1,127 @@
+## Chapter 1808: Unfinished Investigation
+
+Coming out of the Violet Hold and onto the streets of Dalaran, the sun was already overhead.
+
+Crowds of people came and went. Young apprentices hurried toward the academy buildings. Wizards in wide-brimmed hats were still discussing everything that had happened at the Sky Council.
+
+The sky was clear and bright, dotted with streaks of pure white clouds.
+
+Jace stared at those clouds, half expecting them to be scattered at any moment by a terrifying fel energy blast.
+
+But they just hung there, almost motionless.
+
+If not Kel'Thuzad, then who?
+
+Since Kil'jaeden had gone to the trouble of using Jace's possession of Uthalesh to throw Lordaeron into chaos — just to cover up Anshlun Runeval's identity and let him take the Book of Medivh — that meant the endgame should be roughly the same as in the other timeline.
+
+A powerful summoner. A sufficient energy source.
+
+Was it Runeval? Had he already gone to find the other dreadlords to use the Book of Medivh together?
+
+How could that be? If the book wasn't in the vault, it could have been missing for months. And Runeval had still been in Dalaran when the dreadlord at the monastery was exposed — at least according to other mages.
+
+Which meant he probably hadn't participated in the summoning ritual at all.
+
+What about the energy source? Dalaran? The Sunwell?
+
+For the past six months, Banthinorel had been completely still. The Sunwell's energy hadn't changed. Dalaran's magical barrier hadn't changed either — except for the bit of turbulence their group had caused.
+
+"What exactly does this have to do with Kel'Thuzad?" Khadgar caught up to the warlock. "What are you thinking, Jace?"
+
+Jace turned to look at the mage, and something flashed through his mind.
+
+"Do you remember, before we said goodbye at Stormwind Harbor, heading to Kalimdor to find Onyxia — those days of nonstop heavy rain?"
+
+"You mean the ley line tremors from those days." Khadgar paused, then rubbed his forehead hard. "The business with Karazhan and Uthalesh has turned the entire Dalaran into a mess. I don't even know if the mages I sent earlier are still investigating. But honestly, Jace, I don't think those ley line tremors had anything to do with opening a channel to the Twisting Nether to summon demons."
+
+"Why are you so sure?" Jace asked.
+
+Khadgar glanced at the passersby hurrying around them and lowered his voice. "When Medivh opened the Dark Portal... the tremors looked very different from that. And when the Burning Legion tried to seize the Dark Portal to invade Azeroth — a few weeks before I used the Skull of Gul'dan to close it — you were on the other side, at Nethergarde Keep. You should have seen what that was like. Even without checking the ley line fluctuations, you should feel the difference."
+
+"And besides, how long has it been now? Almost half a year. There haven't been any more similar fluctuations since, or any strange weather patterns from them, Jace. What I'm saying is... now that we've just realized we were heading in the wrong direction, maybe we should calm down and plan our next move carefully."
+
+"The Kirin Tor is already tracking Anshlun Runeval. There are also outposts monitoring key ley line nodes across the continent, including Northrend. If the Book of Medivh really has been missing for months, and the demons still haven't made any major moves in all that time — just trying to create chaos and smear your name — doesn't that suggest they might not have found the right way to summon yet?"
+
+"But I still want to see the results of your investigation into those ley line fluctuations." Jace said. "Even if it's just preliminary findings."
+
+"Fine." Khadgar planted his hands on his hips. "But first tell me why the first person you thought of was Kel'Thuzad. What does he have to do with the Book of Medivh, or Runeval?"
+
+Jace was silent for a moment, then said, "The Book of Medivh was stolen from Alterac by the black dragons. And Kel'Thuzad himself was involved in the theft of those three artifacts by the black dragons and death knights. I'm worried he's involved this time too."
+
+"You think Kel'Thuzad could be involved in these things from inside prison?" Khadgar asked.
+
+"The last time I met him, he said some... things to me." Jace said. "That gave me the impression he might have a way out of prison."
+
+"Kill himself inside, then have a necromancer resurrect him outside." Khadgar said.
+
+"You've thought of that possibility too?" Jace asked.
+
+"It wasn't me who thought of it." Khadgar said. "Master Antonidas once mentioned it to me. He said you had brought up wanting to attend Kel'Thuzad's funeral."
+
+"Wait." Jace frowned. "He suspects I'm that 'necromancer'?"
+
+"You're only twenty-seven years old, Jace Sesso." Khadgar tugged at the warlock's cloak. "And yet you're already a hero who has defeated Deathwing, saved the Sons of Lothar, and conquered Blackrock Spire. Even my teacher Medivh at your age... well, in any case, anyone would wonder how you came by such power. One of the suspicions, naturally, is that — like Kel'Thuzad — you might have made some deal with orcs, the Burning Legion, necromancy, or the like."
+
+"So when the Kirin Tor and the Magisterium connected the clues about Uthalesh, it was like they'd finally found the unified solution to every suspicion."
+
+"Indeed," Jace said.
+
+"Let's not talk about this in the street." Khadgar beckoned. "Come with me to Krasus Square. We'll find two gryphons to Southshore. The mages I sent to investigate the ley line fluctuations are working there. We'll go and come back quickly."
+
+After explaining the situation to Grede and Sora back at the Violet Citadel, Jace followed Khadgar on gryphon-back toward Southshore. Crossing the mountain ranges of Alterac and the wooded hills of Hillsbrad, they arrived at Southshore by evening.
+
+The two ate a simple meal at an inn, then went to a standalone cottage near the harbor. Though the cottage looked old and small from the outside, the Dalaran eye emblem by the door was still quite conspicuous.
+
+The archmage knocked. A fairly young mage opened the door. Seeing Khadgar, he blinked in surprise. "The Council allowed you to leave Dalaran, Master Khadgar?"
+
+"They've caught Jace Sesso, so of course they're willing to let me out." Khadgar said, jerking a thumb over his shoulder.
+
+"This is Kinsburg. An investigator working with me on this ley line fluctuation project. Quite an excellent illusionist. And this is Jace Sesso — uh, you know who he is."
+
+"Jace... Master Jace Sesso." The illusionist stared wide-eyed at the cloaked man behind Khadgar. A mix of complex emotions — nervousness and fear — almost overwhelmed the scent of arcane energy and old books in the room.
+
+"A pleasure to meet you, Master Kinsburg," Jace said.
+
+"I'm no master at all, Master Sesso. Please, come in, both of you." The illusionist quickly gestured. "What brings you here today? Is it about the hearing?"
+
+"The hearing is over. Now we have bigger problems." Khadgar said. "I'm here to check on progress. Don't think that just because I was locked up in the Violet Citadel, this case is on hold and you can slack off."
+
+"Of course not, Master." Kinsburg said quickly. "But we've been making slow progress these past few weeks. The Kirin Tor hasn't been providing resources, and two of our investigators were reassigned to search for leads on the Nathrezim..."
+
+"Understandable." Khadgar lowered his head.
+
+Kinsburg spread a map of Azeroth on the table. Kalimdor, the Eastern Kingdoms, Northrend, and the Maelstrom were all marked. In addition, many important ley line nodes were indicated — including Mount Hyjal, Karazhan, the Sunwell, the Nexus in Northrend, Dalaran, some smaller ley line nodes, and even Il'garok Tower.
+
+Furthermore, there were some evidently new markings around the island of Kul Tiras and further west on the Great Sea.
+
+"These are the possible sources of the ley line fluctuations we identified earlier, Jace." Khadgar said.
+
+Jace placed his hand on one of the points. "Do you know what this place is?"
+
+"It's where Sabellian and those black dragons took Teron Gorefiend's death knights to search for the Scepter of Sargeras." Khadgar said.
+
+"The Tomb of Sargeras," Jace said.
+
+"Indeed, many mages call it that." Khadgar said. "But the truth is, we all know Sargeras is not buried there. And ley line fluctuations from that direction have been coming intermittently for over a decade now, ever since the Dark Portal was opened, Jace."
+
+"Because the demons' servant Gul'dan used massive magic to open that demonic tomb, and later died inside it," Kinsburg added. "The remnants of the Horde also found the Skull of Gul'dan there and took it to Draenor."
+
+"So you all think those fluctuations were just aftershocks of Gul'dan's magic?" Jace said.
+
+"The investigation isn't complete yet, Master Sesso..." Kinsburg looked at several marks on the map. "These are all suspicious locations. We cannot draw conclusions at this stage."
+
+Jace listened, let out a breath, and stared at the marks on the table for a while.
+
+"I think you should rest for the night first," Khadgar suggested. "How many days has it been since you last slept? The Sky Council, the Arcane Vault, and now here. The Kirin Tor has launched a full investigation. As hard as we few people try, we can't outwork hundreds or thousands of mages in a large-scale search. Lady Sora mentioned to me once that even while waiting for the portal to be completed in Auchindoun, you made sure to rest every night. She thinks you're a calm and steady person, Jace..."
+
+"I rested well back then because I knew we'd have to fight a big battle in the end." Jace looked up. "The problem now is — I don't know what to do next, Khadgar."
+
+Thump, thump, thump!
+
+Someone was pounding urgently on the door. The three of them looked toward it at the same time.
+
+Kinsburg walked over and opened it. An unfamiliar Farstrider ranger stood at the doorway. She looked at Jace and Khadgar inside. "Both Masters — we found them."
+
+"See?" Khadgar said excitedly. "I told you. Well... it wasn't the Kirin Tor who found them, we have to admit that Lady Vereesa Windrunner's abilities might indeed match hundreds or thousands of mages! Even a cunning Nathrezim demon can't escape the Farstriders!"
+
+"It's not Anshlun Runeval, Master Khadgar." The ranger said. "It's his daughter. Caitlin Runeval. Her current state... you'll want to see her."

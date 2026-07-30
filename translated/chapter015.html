@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 15: Raven Hill — The Wobbly Peach</title>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+<style>
+/* Reading layout — ponytail: inline so generated pages need no Jekyll build */
+:root {
+  --reader-max: 42rem;
+  --reader-bg: #fefefe;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+}
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a {
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress {
+  color: var(--reader-muted);
+  font-size: .85rem;
+}
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -.02em;
+  color: #0f172a;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 2rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0 0 1.25rem;
+  color: var(--reader-text);
+}
+.reader-content hr {
+  border: 0;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 6rem;
+}
+.reader-content hr::before {
+  content: '· · ·';
+  color: var(--reader-muted);
+  font-size: 1.2rem;
+  letter-spacing: .3em;
+}
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover {
+  background: #eff6ff;
+  border-color: var(--reader-accent);
+}
+.reader-nav-link.disabled {
+  color: var(--reader-muted);
+  border-color: transparent;
+  pointer-events: none;
+}
+.reader-toc-link {
+  color: var(--reader-muted);
+  text-decoration: none;
+  font-size: .9rem;
+}
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+/* Flags */
+.flags-section {
+  max-width: var(--reader-max);
+  margin: 2rem auto 0;
+  padding: 0 1.25rem;
+}
+.flags-section summary {
+  cursor: pointer;
+  color: var(--reader-muted);
+  font-size: .9rem;
+  font-weight: 600;
+  padding: .5rem 0;
+  border-top: 1px solid var(--reader-border);
+  margin-top: 2rem;
+}
+.flags-section summary:hover { color: var(--reader-text); }
+.flags-section h2 { font-size: 1rem; font-weight: 700; margin: 1rem 0 .5rem; }
+.flags-section p { font-size: .9rem; line-height: 1.6; color: var(--reader-muted); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: 1.4rem; }
+  .reader-content p { font-size: 1.05rem; line-height: 1.75; }
+}
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/novel/">← Table of Contents</a>
+  <span class="reader-progress">Chapter 15 of 1862</span>
+</div>
+<main class="reader-content">
+<h1>Chapter 15: Raven Hill</h1>
+<p>"You see that? The white thing over there." Jace pointed.</p>
+<p>Grede squinted for a while. "One of the pigs from Elwynn that drowned and washed up here?"</p>
+<p>"Not livestock. A person." The priest, who'd been asleep until now, patted the wagon. "Hold on — there's someone in the water!"</p>
+<p>"A person?" The paladin up front leaned out for a look. The wagon rocked and came to a stop.</p>
+<p>Once the clatter of hooves, the creak of shifting crates, and the groaning of the wagon's workings all fell silent, there was only the sound of water and birdsong, the wind passing through the trees — a silence that was almost unsettling.</p>
+<p>Jace jumped down from the wagon and approached the shore. The pale, bloated thing among the water weeds was indeed a person. It looked large purely because the body was powerfully built, not swollen to abnormal size from prolonged submersion — which meant it hadn't been dead for very long.</p>
+<p>The priest pulled off his outer robe, waded out, and swam to the corpse. He heaved the body over — it was a woman.</p>
+<p>Build quite distinctive, coupled with the short, spiky, almost invisible blond hair on her head, and her identity was more than guessable at this point.</p>
+<p>With everyone's help, the woman's body was dragged ashore. They found that she was missing half a leg, the cross-section already bleached white from the water. Her whole body was covered in all manner of gruesome wounds, especially below the waist.</p>
+<p>Grede frowned. "What happened here — this definitely wasn't drowning herself."</p>
+<p>"Gnolls," one of the travelers said. "There's hardly any other possibility. Don't forget, gnolls are humanoid creatures too. They don't have many of our virtues, but they're not missing a single vice."</p>
+<p>"Remember that group we ran into at the inn last night?" Jace asked Grede.</p>
+<p>"You mean…?" Grede leaned in closer to look at the face. "That really does look like the woman with the bow."</p>
+<p>"Did you know this lady?" the priest asked.</p>
+<p>"It's almost certainly her — we crossed paths yesterday," Jace said. "This woman was with two men, a bounty hunter party. They were heading out to kill a gnoll chieftain that Stormwind had a bounty on. But they left the inn last night, and we haven't seen them since."</p>
+<p>"The new leader of the Riverpaw tribe — I've heard of him too," the paladin said.</p>
+<p>The old priest gazed out toward the waist-high water weeds in the distance and said, "Everyone, we'd best leave. If she was still alive last night, then wherever she was killed can't be far from here."</p>
+<p>"What about the body?" the young priest asked.</p>
+<p>"Push it back in the river. Push it far," the paladin said. "Let the water carry it to Stranglethorn, or farther still. If we bury it here, diseased animals nearby might dig it up. If we're unlucky and it gets infected with necrotic contamination, a corpse this strong would be very difficult to deal with — it would bring trouble to Raven Hill that it doesn't need."</p>
+<p>"Can't we burn it?" Jace asked.</p>
+<p>"We don't enough fuel on hand, and gathering materials on the spot would take a long time — and might draw gnolls," the paladin said. "I don't like saying this, but that would be the same as preparing a roast for them. This lady would not want that to happen."</p>
+<p>"Then let's do it." Grede rolled up his sleeves and helped the others push the woman's body back into the river.</p>
+<p>The priests recited prayers for the dead. The travelers riding with them, whether they were believers in the Light or not, all held their silence and watched the body drift away.</p>
+<p>Jace looked that way, then turned to gaze back north at the unbroken expanse of Elwynn Forest.</p>
+<p>He had the feeling that his story with Hogger wasn't over yet.</p>
+<p>The body finally disappeared from sight. Only then did everyone wash their hands and clothes and climb back onto the wagon.</p>
+<p>For the rest of the journey, everyone was much quieter. No one asked what might have happened to the others in that bounty hunter party.</p>
+<p>Once they entered southern Elwynn and pressed deeper, the darker it got. A glance at the priest's pocket watch said it was only two or three in the afternoon, and yet the sky was already as dark as night.</p>
+<p>The dark energy released by the Karazhan Cataclysm had haunted this place for years, and it would go on — until the people here died in despair, or moved away. The darkness would not end.</p>
+<p>Objectively speaking, the energy within Medivh going out of control and destroying only this one region was already a very optimistic outcome.</p>
+<p>After all, the entity that had possessed him was the Dark Titan Sargeras — the true master of the Burning Legion, the Lord of All Demons capable of cleaving an entire planet in two with a single stroke.</p>
+<p>Gradually, the forest on both sides of the road grew impossibly grim. Heavy fog blazed across their vision. The torches set up along the road to light the way for travelers became, in the fog, points of fire stretching off into the distance — eerie, like will-o'-the-wisps.</p>
+<p>From time to time, sounds came from the forest that might have been human or might have been wolves. Occasionally a crow swept past and broke the silence, reminding them there were still living things here.</p>
+<p>The creak of the wooden wheels became the only constant sound. Jace felt as though their party was being watched by countless pairs of unseen eyes in the forest as they moved forward.</p>
+<p>The wagon reached a crossroads. Through the thick fog, the outlines of several buildings and a small church could be made out up ahead, and within the shadows it seemed a few windows still glowed with light.</p>
+<p>The priest sitting up front turned his head. "This is Raven Hill, everyone."</p>
+<p>This was Raven Hill?</p>
+<p>If no one had told him, Jace would have taken it for nothing more than a slightly larger post station. After all, this so-called small town wasn't even as big as the Sentinel Hill station — compared to Goldshire, it wasn't even in the same league.</p>
+<p>Perhaps it was that he'd grown so used to seeing towns and cities far larger than their game counterparts that suddenly encountering a tiny place no more impressive than its in-game model actually felt… jarring.</p>
+<p>The priests on the church wagon rested briefly and unloaded some things before pressing on. They wanted to reach the next station before full nightfall, though Jace didn't know what difference there really was between day and night in Duskwood.</p>
+<p>Raven Hill was desolate. Not a single soul in the small square at the town center. Only an old man sat in the doorway of an inn not far off, watching them.</p>
+<p>Jace and Grede rented a room in the town's only inn. A night's stay cost only a few copper — practically being given away for free.</p>
+<p>The inn was filthy and chaotic from a lack of staff to clean it, dust everywhere — but they had no other choice.</p>
+<p>Jace took stock of their luggage and tools, then collapsed into a wooden chair. He gazed out at the grim woods beyond the window. "We avoid fighting at all costs. If we're unlucky enough to run into an undead, hide or run. If we run into wolves or other animals, avoid eye contact, avoid conflict."</p>
+<p>"That was my plan too." Grede drew the sword and gave it a shake. "This town doesn't look like it has any means to treat wounds either. If something goes wrong, we might die here."</p>
+<p>With that, he turned the sword around and offered Jace the hilt. "Take it."</p>
+<p>"You use this sword." Jace picked out an axe. "I'll use this."</p>
+<p>"Why?" Grede asked.</p>
+<p>"Using a sword takes skill." Jace said, "I don't have much combat experience, but I've chopped plenty of wood. I understand how to put my weight behind an axe. You're a veteran — you'd wield that sword far better than me."</p>
+<p>"This sword is built for a human frame. It's not really suited for a dwarf." Grede lifted the blade and sighted along the edge. "Good thing it's not too long. It'll do."</p>
+<p>Just then, the dwarf set the sword down — but his gaze didn't move. He stared straight at the door.</p>
+<p>"Who are you, and what do you want?"</p>
+</main>
+
+<nav class="reader-bottom-nav">
+  <a href="chapter014.html" class="reader-nav-link">← Chapter 14</a>
+  <a href="/novel/" class="reader-toc-link">Contents</a>
+  <a href="chapter016.html" class="reader-nav-link">Chapter 16 →</a>
+</nav>
+</body>
+</html>

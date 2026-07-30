@@ -1,0 +1,117 @@
+## Chapter 322: The Sailor's Home
+
+Booty Bay's layout was genuinely baffling to someone who'd just arrived. Fortunately, the town didn't seem to have much width to it — it was strung out in a crescent along Blackwater Bay — so as long as he kept walking and paid attention to the shop names on the streets above and below, he should be able to find an inn.
+
+He walked all the way until evening, and finally spotted a towering building four or five stories high built up against a high cliff. He seemed to have some impression of this location. Could this be the Sailor's Home Inn from the game?
+
+When he got to the bottom of the building, he finally saw an old, weather-beaten sign propped up against the wall by a few goblin soldiers chatting nearby. The sign was written in several languages, and Common wasn't the most prominent among them.
+
+The Sailor's Home Inn. That was the one.
+
+The sky had already darkened. Jace headed for the small side door spilling flickering light. By now he could hear the noise coming from inside the tavern.
+
+Just when he thought he'd finally found a place to get a good night's rest in peace, a low sound suddenly came from the shadows.
+
+"Hey, warlock!"
+
+Jace's guard went up immediately. He looked into the darkness and saw a burly silhouette sitting there, a pair of orange-yellow eyes locked right on him.
+
+"You talking to me? I'm not a warlock."
+
+"If you're not a warlock, why'd you answer?"
+
+"Because I'm the only one here, and you were staring at me, orc."
+
+Jace's eyes swept over his outline.
+
+This was the first orc Jace had seen since arriving in Booty Bay.
+
+"I recognize that staff you're carrying," the orc in the shadows said. "I've seen the Shadow Council warlocks carry it, boy."
+
+Jace said in Orcish, "Whoever carried it before is dead as dead can be. This staff is mine."
+
+The orc nodded when he heard that, and said in Orcish, "It's yours, of course. I'm just looking for work, human. Not looking for trouble."
+
+Jace glanced back. Those goblin guards were close by, and they didn't react to the word "warlock" either. Maybe Booty Bay was a place that simply didn't care about warlocks.
+
+"What can you do?"
+
+The orc said, "I've killed a lot of people. Humans, trolls… I know how to make someone disappear without a sound. You'll need me."
+
+"Bad timing," Jace said. "Got all the help I need."
+
+The orc blinked. Jace left him with an apologetic look and turned to walk into the inn.
+
+Honestly, even if this orc had some skill Jace needed, he didn't really want to get involved with any orc. After all, he couldn't exactly leave Booty Bay with an orc in tow and settle down anywhere else familiar on this continent.
+
+The inn's main hall was packed with people, and he could tell most of them were sailors of every description.
+
+"Every description" was literal. There were green-skinned ones, white-skinned ones, black-skinned ones, blue ones, pink ones, brown ones… The only lighting came from a fireplace far away and two fire basins hanging high from the ceiling, casting the light and shadow on every face in sharp relief. Add in the ones swaying and dancing to some unidentifiable tune, and it was impossible to tell the monsters from the devils.
+
+But once he'd adjusted to the lighting a bit, Jace watched a real monster and devil walk right up.
+
+A succubus was sitting there, perfectly openly, in a corner not far away.
+
+The moment Jace saw the demon, the demon saw him too.
+
+She leaned over and whispered something to the Dark Iron dwarf beside her. The dwarf glanced this way too, muttered something under his breath, and raised his tankard for a long drink.
+
+Jace quickly looked away. He was tired and hungry enough today without going looking for more trouble.
+
+It was just that the whole tavern was stuffed to the brim, and anyone trying to walk through it looked like they could get dragged into a "what are you looking at — what are YOU looking at?" brawl at any moment.
+
+He finally made it to the front counter and looked down to see a little imp rummaging around behind the counter, shouting at a goblin in a language he couldn't understand, while the goblin fired back impatiently with insults.
+
+"Got any rooms left, boss?" he asked the goblin behind the counter who looked like he was wearing the most expensive outfit.
+
+"What do you think, human? You don't look like a fresh arrival." The goblin gave him a sidelong glance. "Anyway, the rooms are all booked up early. Go find yourself a shady spot to sleep outside. It's not as dangerous as you think around here."
+
+Noticing that Jace kept staring at the imp, he added, "Ah, don't worry about that thing. Here in Booty Bay, even demons have to follow the basic rules."
+
+Jace nodded. "Then I'll take some food, and a dark beer."
+
+"All right." The goblin responded, hopped up, and slapped a small wooden board on the counter. "Take your time looking at the food."
+
+"Hammerhead… hammerhead shark, Blackwater Bay hammerhead shark raw slices, spicy, this one." Jace pointed at a line of crooked text.
+
+"You sure?"
+
+Even as the goblin asked, he'd already pulled the board back.
+
+Jace put the three silver listed as the price on the table. He had to admit, the prices here were absurdly expensive. But the name "Blackwater Bay spicy hammerhead shark raw slices" did seem worth three silver.
+
+After all, he'd never eaten hammerhead shark in either of his lives.
+
+Before he could even process what the goblin's "are you sure" meant, a plate of whitish raw fish slices with faint gray streaks was already in front of him, drizzled with a layer of red sauce containing bits of chili pepper — a bit like a thick version of Thai chili sauce. Jace hadn't eaten meat in five or six days. Just the smell of fish in this tavern had been more than he could stand. He quickly picked up a slice and stuffed it in his mouth.
+
+A burst of ocean freshness accompanied by the smoothness of fat gave him a wave of satisfaction the moment his tongue touched the fish. And the chili sauce's flavor masked the fishiness that should have followed.
+
+But all sensation of enjoyment came to an abrupt halt the moment he sucked the chili sauce clean.
+
+First he tasted a sudden sourness in the meat that made him instinctively think it might have gone off.
+
+But before he could even wonder whether it was expired, a thick, heavy stench surged up from his mouth and swallowed every prior sensation. The piece of shark meat he hadn't swallowed yet just sat there in his mouth, jammed in place by the smell.
+
+He saw two people at a small table nearby packing up and leaving, so he carried his plate and beer over to sit down there, to avoid having the goblins witness his contorted expression.
+
+He closed his eyes and, fighting the nausea, forced the mouthful of meat down in one gulp.
+
+The meat was sour and bitter, with a toilet-like stench. Jace didn't know what kind of monster this was meant to feed.
+
+Thanks to the intense stimulation of the chili, it was still passable when it first hit his mouth. So he slathered plenty of hot sauce on the next slice and stuffed it in, bit down once, and swallowed it whole, then took several big gulps of beer.
+
+The flavor that shark meat left in his mouth made the beer taste like concentrated urine. The two mixed together and the smell hit even harder, forcing him to lean against the wall and catch his breath with big mouthfuls of air.
+
+He breathed out into his hand and sniffed it. The thick, fishy stench nearly made him throw up on the spot. But looking at the meat again, he actually wanted some more.
+
+He was just that hungry.
+
+Hunger, a craving for fat and meat, and the bizarre sour-bitter-stinky flavor all tangled together, making this expensive three-silver seafood meal an agonizing dilemma.
+
+Just as he was regretting not just buying some plainly steamed fish or something to fill his stomach, the soul of Morophil beside him seemed to stir restlessly.
+
+Jace couldn't help coughing twice, but his hand tightened on the sword hilt at his waist. Was something dangerous closing in?
+
+"Human, you like troll food?"
+
+The Dark Iron dwarf warlock from the corner said this as he plopped himself down right across from Jace.

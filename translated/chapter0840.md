@@ -1,0 +1,145 @@
+## Chapter 840: A Flying Shadow
+
+Learning that Musa was in danger, none of the three had any mood to spend the night in Everlook. Even Grede couldn't have slept under these circumstances.
+
+That afternoon they booked a small room at the Everlook inn, stashed their luggage inside, rested a bit, and set out toward the snowy mountain where Sola said the owlbears lived as evening approached.
+
+After dozing off for a bit on the room's hard bedboard, Jace woke feeling like he'd gotten a huge chunk of his energy back.
+
+He propped himself on the table and glanced out the window. Sola was standing motionless in the snow, gazing toward the distant plaza, snow blanketing her shoulders and hood.
+
+Windrunner shuffled over wrapped in a blanket and looked out too. Seeing the green dragon, she slowly drew in a breath. "Is she… a little off, mentally?"
+
+"She's a dragon, Wen," Jace said, picking up a chunk of dried cheese from the table and taking a bite. "Maybe among her kind this counts as normal."
+
+"All right, I don't know much about her sort," Windrunner said.
+
+The green dragons, guardians of Azeroth's forests and the Emerald Dream, were supposed to be the most serene and detached of all.
+
+But the corruption of the Old Gods upon the Emerald Dream — the so-called "Nightmare" — had grown ever more powerful as the Old Gods' seals gradually weakened, dragging many green dragons step by step into the abyss of madness.
+
+Decades from now, from the Dreamlord Itheryx to the Queen's own guardians, and even Ysera herself — each would fall, one by one, to their own nightmares.
+
+The Nightmare's erosion of the Emerald Dream had begun long ago. It just hadn't yet revealed its true horror, but many green dragons had already started to be affected.
+
+Was this green dragon who called herself Solamriel suffering the torments of the Nightmare?
+
+Jace wasn't sure, but his gut told him this green dragon's desire to help Musa obtain the Scythe of Elune was very likely connected to the Nightmare.
+
+"What are you thinking about, Jace?" Windrunner asked.
+
+"I'm thinking about how the danger Musa ran into might be connected to this Lady Dragon," Jace said, throwing on his outer robe and cinching the sash. "Think about it — if our Musa isn't hiding somewhere but really has been captured, then why grab her? What's so special about her? Is it because she's a tauren? Or because she's a druid? What does any of that give whoever took her?"
+
+Windrunner thought for a moment. "Could it be other druids competing for that same moon staff? Would they really do something like that?"
+
+Jace thought of the Nightmare again. Druids tormented by nightmares could sometimes do things of utter madness.
+
+"If you know about that staff, then you should know druids can do crazy things too. They can fall. Either way, we have to be prepared to face some pretty troublesome opponents. And it's a good thing this Lady Dragon is willing to help us."
+
+As he spoke, he picked up his sword, caught the demon-satchel Morophil tossed him from across the room and strapped it at his waist, threw on his cloak, and headed into the hallway, where Grede was already leaning on his axe at the far end.
+
+Stepping outside into Everlook's dusk, Jace was momentarily transfixed.
+
+Golden sunlight blanketed the horizon, fading from gold to dark gray higher up in the sky. Snowy pines peeked above the thick walls beyond, and every so often the wind swept past, kicking up a mist of snow that blurred every color.
+
+A thought suddenly popped into his head: if one day all of this was over, he could actually consider coming to live in Everlook.
+
+Setting aside the terrifying chimeras, the tooth-bears that even hunters dreaded, and the elusive yeti — this really was a beautiful place.
+
+His gaze drifted slowly downward, landing on the green-robed woman who'd just turned back around, then on the merchants, mercenaries, and hunters trudging back and forth through the snow hauling luggage and prey carcasses. His thoughts were yanked back to reality.
+
+"We're ready. We can set out, Lady Sola," Grede stepped forward. "We'll have to ask you to lead the way."
+
+"I'll carry you to the vicinity of that snowy mountain," Sola beckoned. "Follow me outside — I can't very well reveal my true form here in Everlook."
+
+Windrunner clenched her fist in excitement and hurried after her. Grede glanced at Jace. "By the Light, do we get to ride a dragon again?"
+
+Hearing the word "ride," Sola turned back and gave them an icy look. "I would not call that 'riding,' dwarf."
+
+"It's a 'partnership,'" Jace corrected quickly.
+
+"That is indeed more accurate," Sola nodded.
+
+With that, she headed toward Everlook's gate. Grede gave an awkward cough.
+
+After leaving Everlook, they followed a road half-buried in snow northward until they rounded a hillside and Everlook was no longer in sight. Sola left the road for a grove of trees and stopped in an open clearing.
+
+The three of them looked at each other, then their eyes converged on the green-robed woman in the center. Jace realized he'd never actually witnessed a true dragon's transformation with his own eyes.
+
+Judging from Grede and Windrunner's expressions, neither had they.
+
+Sola murmured something under her breath. Her long robes were seized by a howling gale that came from nowhere, a wind that scattered the snow from the surrounding pines and carried a fresh, elegant herbal fragrance — just the faintest whiff of it was enough to make a person feel invigorated.
+
+The robes and cloak billowed in the gale, rapidly swelling and growing in a whirlwind of pine needles and grass blades into a pair of enormous green-gold-membraned dragon wings. They kept growing even when fully unfurled, until their shadow blanketed half the clearing in the setting sun.
+
+Then a jutting green dragon head poked out from behind the wings, opening silver eyes that flowed with clear moonlight. The gale abruptly died, leaving only shattered twigs and scattered leaves dancing in the air.
+
+The green dragon's snout was noticeably shorter than a red dragon's or a black dragon's, which made her head look less like a crocodile's and more like a blunt-headed snake.
+
+She was a green dragon even larger than the black dragon leader "Devourer" Trames that had attacked the airship. Her horns, tail, and wings already looked quite close to a mature dragon's, but her body wasn't as large as the full-grown red dragons Jace had seen in Grim Batol. She still retained quite a few juvenile features.
+
+In the game, dragons only had a few stages: whelps, drakes, adults, and a few special-titled great dragons.
+
+But here, Jace had already seen beings like Trames and the Solamriel before him — creatures that looked neither like adult dragons nor juveniles.
+
+This was probably what the "young dragons" he'd read about in the Stormwind library were.
+
+Solamriel raised her head and slowly crouched. The silver and gold ornaments on her golden horns swayed and clinked against each other in the settling wind, giving off a crisp, clear sound.
+
+"Climb on, my friends," she said softly. "We must hurry. I worry some lost traveler or curious furbolg might wander over and spot us. That would be hard to explain."
+
+Everyone nodded, no longer standing on ceremony. Windrunner scrambled onto the dragon's back first, and Jace hauled himself up by the green dragon's legs.
+
+A green dragon's scales weren't as hard and angular as a red dragon's. They were more like oval mirrors laid one over another — full and smooth.
+
+Once settled, Solamriel raised her giant wings and ascended slowly, rhythmically.
+
+She faced the northern snowy mountains, flapping her wings as she slowly turned in the air, using the driving snow to conceal her form, then gradually picking up speed. The whole way, there were no overly violent movements. Even without much to grip, the group just leaned against each other and had no fear of slipping off.
+
+Compared to Alexstrasza's handmaiden, Solamriel seemed more practiced at carrying people on her back. Jace guessed she'd probably carried Musa like this before, or perhaps other druids — even night elves. He just didn't know how old she was. Still an immature young dragon, she couldn't possibly have fought in the War of the Ancients.
+
+Solamriel's flight was nothing like a gryphon's explosive bursts. Jace had half-expected to be numbed by the freezing gale at high altitude among the snowy mountains, but in reality this green dragon moved as quietly as if gliding through another dimension. It was hard to say whether she was drawing on the power of nature to fly.
+
+Or rather, it really was like a "shadow."
+
+At night, the green dragon landed in a concealed snow valley. Amid the snowflakes stirred up by her great wings, she shrank back into a slender human figure. When she walked out of the snow-mist, she brushed the snow from her body, and behind her a long tail slowly retracted into her robes.
+
+Sola pointed toward a spot high up, obscured by rows of pine trees. "Up there — that mountain pass. That's where Musa and I were separated."
+
+"Why not go in as a dragon?" Grede asked. "With a look like that, those owlbears would definitely scare and flee at the sight of you."
+
+Sola said as she walked, "I'm not skilled in combat, dwarf. My enormous size would only draw too much attention and bring you unnecessary trouble. You don't want to take on several owlbears at once. Their arcane magic would leave you trembling in fear every time you saw moonlight for the rest of your life — assuming you're lucky enough to have a rest of your life."
+
+"You underestimate their strength and overestimate my abilities. The Emerald Dream was originally a far more peaceful place than Azeroth's forests. I grew up in my sleep, nourished by the Dream. I never encountered any danger, never had to deal with anything fearsome. That's entirely different from the owlbears that have survived God-knows-how-many years in dangerous Winterspring."
+
+The green dragon was quite open about her own limitations. But judging by the magical ability she'd just displayed in flight, she was by no means a weak green dragon. Perhaps she simply lacked actual combat experience.
+
+"Hard to imagine a dragon that big not being good at fighting," Grede muttered under his breath. "This trip to Kalimdor, I've learned something new again. Last time it was a tauren who could turn into a cat; this time it's a dragon who claims she can't fight."
+
+"If you mean dropping to the ground and tearing into them with fang and claw, I can give it a try," Sola extended her hand and slowly clenched it. "But I can tell you — an owlbear's claws are even bigger than mine, despite their much smaller size."
+
+"I know," Grede said. "I've seen owlbears."
+
+With that, he looked toward Jace, and Jace acknowledged with a sound. The two of them had encountered an enormous owlbear on their way from Durnholde to the Hinterlands. That owlbear's disproportionately large claws had indeed looked a bit more exaggerated than this green dragon's.
+
+If she really got within arm's reach of several owlbears and fought them hand-to-hand, the outcome was anyone's guess.
+
+Sola gazed upward. "In a sense, they are closer to Elune than I am. So I truly don't want to go to war with them. Better to approach as discreetly as possible."
+
+"I think this might help." Windrunner pulled the green dragon's pendant from within her silver hair.
+
+"That's a gift from Queen Ysera to Queen Alexstrasza… and she gave this to you, Lady Windrunner?" Sola stopped in surprise. The silver moonlight flowing in her eyes flickered in almost perfect rhythm with the pendant's silver glow.
+
+"Yes," Windrunner nodded.
+
+Sola said, "This is a marvelous treasure, ranger. But it will be hard to work on the owlbears — they're extremely sensitive to things hidden in unusual dreams. This pendant might even backfire."
+
+Windrunner clutched the pendant and thought for a moment. "Can't you try putting those owlbears to sleep? Musa can do that. Or try using magic to soothe their frenzied emotions?"
+
+"I can't. I don't yet know why they're enraged," Sola shook her head. "At the very least, my magic has no effect. Owlbears aren't ordinary beasts, and they certainly wouldn't be driven to that extent by ordinary factors."
+
+"If that's the case, then if we really do provoke them, we'll have no choice but to fight," Windrunner said.
+
+Jace said, "I believe your Elune will understand all this — after all, those owlbears have already lost their senses."
+
+"Let's hope so," Sola said.

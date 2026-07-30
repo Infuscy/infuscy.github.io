@@ -1,0 +1,81 @@
+## Chapter 1739: The Black Dragon and the Goblins
+
+Even though Jace had known from the start that Kil'jaeden wouldn't send just one or two dreadlords to quietly sow destruction on Azeroth, having it confirmed by Onyxia -- and *five* at that -- still left him feeling unsettled.
+
+As things stood now, it was a good thing he'd left Morophil in Stormwind to guard his parents' house. Otherwise he definitely wouldn't be this calm right now -- he'd have to contact Kalrez immediately and have the Daggerfall warlocks set up a summoning circle to pull him back to the Slaughtered Lamb as fast as possible.
+
+But the Daggerfall members might be investigating demon traces themselves by now. Had they run into any trouble?
+
+One dreadlord eliminated, four left. Khadgar had said before that with Blackrock Spire's plan having just failed, the demons probably wouldn't go out of their way to expose themselves. Still, Jace couldn't suppress the worry.
+
+"What else do you know about the Nathrezim hidden in the Kirin Tor, Lady Onyxia?" he asked.
+
+Onyxia tilted her head back against the throne, saving her strength, and looked down at the warlock below. "Don't tell me you haven't guessed what they came for, Jace Sesso."
+
+"Mephistroth... he knew how you would block his and Nefarian's plans. He knew what you had. And that plan was designed to make you reveal that demon-forged blade -- the one that cut my hand. They came for you. Or rather, they came to seize that scythe. The demons consider it theirs."
+
+Vereesa and Sora both glanced sideways at the tightly wrapped curved object on Jace's back. Jace nodded. "I know."
+
+"The Nathrezim never trusted me for long, Jace Sesso. It's not that I don't want to help you more." The black dragon paused, as if gathering strength. "You are a rather interesting fellow. Part of me wishes you would all die miserable, one by one. But when I consider the safety of this lair, and that the things that want you dead might bring even greater disaster to me and my offspring... the part that wants you to live wins out."
+
+"You don't actually think you still have any say over who lives or dies here, do you, black dragon?" Grede said irritably. "You just don't have a choice!"
+
+"That's not for you to say, loser." Onyxia narrowed her eyes. "You don't think that just because Jace Sesso and that doom lord beat me together, that means you could beat me too, do you?"
+
+Grede cursed in Dwarven and instinctively grabbed the axe at his waist, as if he wanted to settle the score right then and there. But he stared at the dragon princess, so weak on her throne that she could barely move, for a long moment, then snorted and let go of his weapon. "No fun."
+
+"Rather than worrying about us or the Alliance being hostile to your lair, I think you should be more concerned about the goblins to the south, Lady Onyxia," Jace said, looking up. "They have genuine plans to invade the swamps and claim this bay for themselves."
+
+Jace had expected Onyxia to sneer at the goblins' foolish ambition. But instead, the black dragon was silent for a moment before saying: "Thank you for the warning."
+
+There was no way those goblins could actually harm Onyxia. Even in her current state, it was almost impossible.
+
+She said she couldn't leave this lair anymore, but Jace remembered she had escaped here from another continent, and in the meantime she had executed quite a few traitors who refused to pledge loyalty. She was nowhere near as helpless as she appeared.
+
+She had genuinely made up her mind to live and die with all the eggs and whelps in this lair. Whoever threatened this place -- whether it was Jace's group, or Kirin Tor mages, or the Alliance navy, or a quilboar army, or Gadgetzan mercenaries -- she would meet them at full strength, never underestimating any threat.
+
+Because Jace knew that Onyxia understood full well that she might be the only member of the Blackwing in all of Azeroth who still cared about the bloodline.
+
+Her mother was missing -- though Onyxia surely knew better than anyone just how unhinged her mother was.
+
+Sinthania would rather go to Draenor and cooperate with Zuluhed the Whacked and Mogdorg of the Dragonmaw clan to raise more nether dragons, then return to Azeroth and convert whatever eggs she could find into twilight dragons, than patiently continue raising true black dragons.
+
+From this perspective, this cave was practically the Blackwing's "last fortress."
+
+"Before we came to the swamps, we rested in Gadgetzan for a while," Jace said. "The bigshot in Gadgetzan, Marin Noggenfogger, asked us to scout the location of this palace to lay the groundwork for a future assault. I might be able to persuade the Alliance and Kirin Tor decision-makers, but I definitely can't sway the goblins."
+
+"I take it you already have a solution in mind," Onyxia said.
+
+"Indeed." Jace said. "Since what matters to you is the safety of this palace, the well-being of your offspring and eggs, I assume you have little interest in the surrounding swamps or the Bay of Storms to the northeast."
+
+"None," the Black Dragon Princess said, shaking her head slightly.
+
+Jace continued: "As I see it, Marin Noggenfogger just wants to beat other tycoons in establishing a foothold at the Bay of Storms, building a new port to expand his business. The reason he wants to attack your lair is only because he's worried the black dragon will leave her nest and destroy his city, disrupt his shipping routes -- both air and sea."
+
+"You want me to give a guarantee," Onyxia said. "To those goblins. Let them build a port on the coast."
+
+"Yes. You guarantee you won't destroy the port or passing goblin vessels, in exchange for them not setting foot in the southern swamps." Jace said. "If you agree, I'll relay this to Marin Noggenfogger to avert a war started by goblins misjudging the situation."
+
+Onyxia let out a soft laugh. "You're even kinder than I imagined, Sesso."
+
+"This isn't really about kindness, Lady Onyxia." Jace said. "It's mainly that the goblins promised me a handsome reward for the exact coordinates of this palace. If I intend to protect your lair, I'll have to go back empty-handed, and that money goes down the drain."
+
+Jace wasn't lying this time. It really wasn't about kindness. What worried him was that if the goblins actually found a way to damage Onyxia's lair, destroy her eggs, this black dragon who was still reasonable enough to negotiate would instantly transform into a monster even crazier than her brothers and parents.
+
+And then what the cruelest sorceress in Azeroth would do was anyone's guess.
+
+"And if those goblins refuse?" the black dragon asked. "What if they declare war on every obstacle in these swamps to claim the entire Bay of Storms, unwilling to compromise? Then what will you decide?"
+
+"We didn't come to Kalimdor to make money, Lady Onyxia." Jace said. "Extra gains would be nice, but if there aren't any, that's fine too. Gadgetzan asked us for help. If we could do it, we would. If not, oh well."
+
+Grede shot Jace a sideways glance. The look was unmistakable: "We can't just let it go, we can't just casually let it go..."
+
+Onyxia said: "If the goblins agree not to set foot in this fog, I can turn a blind eye to their movements in the swamps and not interfere with their activities at the Bay of Storms. But their flying machines must detour over the Great Plains or the Great Sea."
+
+"I can tell them that," Jace said.
+
+"If they refuse, don't tell them how to find this hill, Jace Sesso." Onyxia sighed. "Not that those goblins could break through my magic... but don't damage the trust we've worked so hard to build for some trivial gain."
+
+"You don't need to remind me," Jace said.
+
+"Follow my guards to the back." The Black Dragon Princess raised a finger slightly. "Take something from my treasury to compensate for the reward you might lose. I think what I have here... won't be inferior to what the goblins could give you."

@@ -1,0 +1,111 @@
+## Chapter 1620: "Dark Meteor", The Next Step (Part 2)
+
+For a group of warlocks who'd experimented with countless bizarre dark incantations, spell failure was just another day at the office.
+
+Besides, Ursula was a complete beginner at Hand of Gul'dan. The fact that she could align her emotions that accurately on her first try was honestly better than Demisette Klaus — and that sorceress had been praised by Morthul the Bloodcaller as a warlock of exceptional talent.
+
+Of course, Jace's more focused assistance and the accumulated experience of journeying together also helped. Ursula wasn't too discouraged either. After recovering a bit of strength, she downed three bottles of potions for stamina and energy in quick succession. After a few breaths, she was back at full strength. While the specially brewed shadow oil was still active, she wanted to get in a few more tries.
+
+Ursula muttered something under her breath as she walked back to the open space and raised her hands following Jace's manual.
+
+She was doing it almost by the book — more like an apprentice mage learning arcane magic at the Wizard Sanctum than one of the Dagger Society's freewheeling shadow masters. Honestly, Jace wasn't entirely confident that the casting gestures he'd summarized were the most accurate. He'd never seen Gul'dan or Teron Gorefiend cast the spell themselves.
+
+So watching Ursula imitate him so seriously made him feel a bit uncertain.
+
+Loneliness. Hatred. Sensing the alchemist's emotions rising inside her like before, Jace grew more focused. He raised his head and concentrated on observing the changes in the shadow energy in the air, hoping to spot any problems if Ursula made a mistake.
+
+When the two new soul shards on the ground were consumed, Jace sensed a vibration of mutual interference between different planes — stronger than last time. Though much more violent than when Jace cast the spell himself, this was the normal phenomenon of Hand of Gul'dan drawing shadow from the Twisting Nether through the power of soul shards. He was very familiar with it.
+
+It also meant Ursula had understood his earlier hint.
+
+But the good sign didn't last. Just when Jace thought Ursula might manage to gather the shadow energy into demonic serpents and condense them into a Dark Meteor, the mana holding the gathered power lost its grip and scattered abruptly.
+
+The nearest canopy of leaves — already yellowed and sparse from winter — was blasted into gray dust by the uncontrolled shadow energy. Ursula sighed, clenched her trembling hands tightly for a moment, and said quietly, "Sorry, Jace. Is it because I don't cast enough spells that my focus can't sustain this one?"
+
+"Your mana pool might be shallow, but it's not shallower than mine when I first tried this spell, Ursula." Jace thought for a moment. "I think my earlier hint might have been misleading. This spell does draw energy from the Twisting Nether, but ultimately it's not a demon summoning spell. I feel like you're spending too much attention on that aspect."
+
+"If you put it that way, I lose the feel for it, Jace." Ursula shook her head.
+
+"Shadow magic isn't as precise as arcane. You just need to keep practicing," Jace said.
+
+"Then I'll continue. You won't lose patience with your clumsy older sister, will you?" the alchemist asked carefully.
+
+"How could I?" Jace put his hands behind his back and rose onto his toes. "The soldiers from Quel'Thalas, Lordaeron, and the Silver Hand haven't arrived in the kingdom yet. Varian Wrynn hasn't called me back to Morgan's Post. And your Destruction Potion is still far from done. We have all the time in the world."
+
+"Good thing I have plenty of mana potions." Ursula smirked, pulling a bottle from her bag. Then, as if something occurred to her, she asked, "By the way, Demisette Klaus — how long did it take her?"
+
+"A lot of tries, with some gap in between." Jace said. "In the end, she only succeeded by borrowing some shadow energy I summoned. And even then, she didn't fully succeed."
+
+"Also, if you're running low on energy, want me to help gather the shadow force? It'll save you some of the mana needed to lay the groundwork for the spell. That way you can successfully cast it once. Then when you practice on your own, you'll know what it feels like, and subsequent tries will be much easier."
+
+"Do you think your body can handle it?" Ursula asked.
+
+"It's not like I've been crippled." Jace patted his chest. "Going one-on-one with an adult Black Dragon might be tough right now, but casting a few complete shadow spells with my staff's support? No problem."
+
+"Adult Black Dragon..." Ursula snorted. "I'm worried that with you joining in, we'll make such a big show that the Stormwind patrols on the south road will notice."
+
+"So you never planned to succeed tonight." Jace smiled. "Morophil is standing watch for us. If she sees anyone approaching, she'll let me know through the soul link. Don't worry."
+
+"In that case, I have nothing to worry about. Let's do it. Let's complete this spell together." Ursula said.
+
+"Honestly, based on your emotional control just now, I think you'd be able to ignite shadowfire pretty easily." Jace lifted Ulthalesh and walked to the alchemist's side. "Just try not to rely on shadow oil for casting next time. I believe you're an absolutely talented shadow caster. You're just lacking confidence."
+
+"If you think I'm still learning this spell just to help with emotional control..." The alchemist downed the potion in her hand in one gulp. "Now I have to master it just to prove you wrong."
+
+With that, the alchemist walked back to the open space and raised her hand to signal she was ready. Jace raised his hands, cast down soul shards, and began chanting to gather shadow energy.
+
+Hand of Gul'dan was second nature to him now. Even in his unrecovered state, he could complete the spell's preparatory stage almost on autopilot.
+
+Soon, a cold wind carrying the stench of shadow began to rustle the leaves. The sky had darkened, and in the distance came panicked "wark wark" sounds — the murlocs must have sensed something was wrong.
+
+As the incantation reached its latter half, Jace directed the unformed shadow serpents spinning in the sky. Ursula immediately raised her hands high, using her own will to "take over" the mana Jace had gathered. Jace didn't let go either; he helped Ursula keep the energy stable so she could complete the second half.
+
+This kind of cooperative casting was something the Dagger Society members had grown quite skilled at through countless ritual sessions. Their coordination was excellent. And after two tries, Ursula could comfortably summon both emotions. The shadow resonance went smoothly too.
+
+Jace could feel that Ursula still had plenty of energy to burn. The demon serpents in the sky were taking shape. She might actually succeed in releasing her first Dark Meteor... Honestly, this might be the first time Jace had ever seen anyone besides himself successfully cast this spell.
+
+Hatred. Loneliness. The demon serpents spiraled together. The planar resonance of the Twisting Nether grew more and more intense. But it was getting too intense. Ursula's shadow guidance seemed tinged with some other emotion.
+
+Jace wanted to say something, but Hand of Gul'dan had already taken shape. If he disrupted the primary caster now, the shadow wouldn't just dissipate harmlessly in the air — it would explode directly above their heads. That would be like dropping a bomb on themselves powerful enough to kill a Pit Lord!
+
+But...
+
+Jace regretted using Ulthalesh. But it was too late for regret now.
+
+Ursula shouted the final words of the incantation. The black-purple dark star roared violently toward a distant abandoned murloc village ruin. Though this dark star couldn't match the one Jace had used to block the Sulfuron Hammer in the Molten Core, this was Elwynn Forest. And this was an experimental spell. Moreover, it carried roars within it that Jace had never heard before.
+
+The dark star exploded on the shore, flinging up wet earth and splintered wood from murloc structures. Purple-red demonic light illuminated a wide stretch of the lake. Ursula staggered back several steps, nearly falling. Jace could barely keep his footing as he took deep breaths to steady his emotions.
+
+"I succeeded?"
+
+Ursula's voice trembled. Before she'd even finished speaking, several shadows charged out of the fading blaze, accompanied by strange grunting sounds.
+
+Two Felhounds!
+
+Jace wasn't surprised at all, but Ursula was startled. These demons were far larger than any guardian she'd ever summoned for the Slaughtered Lamb's basement.
+
+Jace raised Ulthalesh. Despite his injuries and the depleted mana from just guiding a Hand of Gul'dan, dealing with two felhounds at close range was still manageable. But the heavy footsteps hitting the ground made him instinctively tense.
+
+A fairly muscular Doomguard stepped out of the flames, raising an arm. He observed the two warlocks and spat a few insults in Demonic.
+
+"How is this possible?" Ursula grabbed her staff.
+
+Morophil! Get over here, now! Jace sent the thought, and the succubus responded immediately, flying toward them. But she was still a bit far away.
+
+The Doomguard clenched his fists, gathering a powerful sphere of shadow energy. Jace was about to use a spell of Suffocation to buy time when, in less than the blink of an eye, a blast of fel-green demonic fire suddenly struck from the left!
+
+Midnight, green fire streaming from its mouth, charged like a fel-energy meteor straight into the Doomguard and his felhounds. The gathered shadow energy was scattered on impact. Two felhounds had their chests crushed under the demonic horse's hooves. The Doomguard scrambled up and tried to swing his war blade at Midnight, only to be engulfed in blood-red shadowflame.
+
+Jace raised Ulthalesh, seized the lingering energy from Hand of Gul'dan's explosion, and shaped it into a Shadow Bolt that detonated against the Doomguard's chest. Midnight didn't hesitate — it lowered its head and rammed the demon, sending it sprawling. One last hoof stomped through the Doomguard's chest, its heart already corroded by Jace's shadow energy, and crushed the demon's core.
+
+All three demons dead, Midnight stepped back and returned to its usual indifferent demeanor.
+
+"Thank you, Midnight," Jace said in Demonic. But the horse didn't react, as if it hadn't heard.
+
+"I... I don't know what happened, Jace. Was that my fault?" Ursula asked, eyes wide.
+
+"It's not your fault." Jace grabbed her shoulders. "Do you remember what emotion you were channeling during the shadow guidance just now?"
+
+"Let me think..." Ursula swallowed, as if forcing down her panic.
+
+Jace knew full well that this was no "accident." This was an advanced version of Hand of Gul'dan — or rather, the spell's original form!

@@ -1,0 +1,229 @@
+## Chapter 925: Nowhere to Run
+
+In the black hall suffused with crimson dark light and the fishy stench of shadow, the blood of Ursolus, the purple-red armor of the black dragon, and the scarlet flames burning in the dragonkin's hands reflected and flickered off each other, making everything waver between light and dark.
+
+Jace knew he had to take out those dragonkin first. Otherwise the fire chain magic that had been binding Morophil would inevitably be cast on him too.
+
+Even if he had the ability to break free, there was no way he could deal with Raschrel while being pinned down.
+
+Morophil was heavily wounded. The stabbing pain of the spear through her abdomen was still tormenting Jace even now. He probably couldn't count on her much.
+
+While the dragonkin were still processing "father-killer," he swung Ursolus and roared out the Fear incantation. The shadow force emitted a piercing shriek that surged through the oppressive, sealed stone hall. All three dragonkin simultaneously let out low growls, cowering and trying to retreat.
+
+Seeing that even Raschrel had hesitated for a moment, Jace stepped forward and chanted, "Yurazhan…"
+
+The Shadow Bolt incantation had become as effortless and practiced for him as breathing. And compared to before, the speed at which the Shadow Bolt gathered was faster than he'd imagined.
+
+By the time the chant completed, the Shadow Bolt had already formed into a sinister, skull-like dark sphere. A fierce desire to destroy welled up from his heart. He didn't reject this emotion — instead he used it to further infect the power of the shadow sphere in his hand. Before the effect of the Fear spell weakened, he strode forward and hurled the Shadow Bolt at one of the dragonkin mages.
+
+The Shadow Bolt whistled through the air, dragging an inconspicuous dark trajectory as it flew. When it struck the foremost dragonkin, the man was immediately swallowed in a cloud of black mist, sinking into the dragonkin's skin. Before the dragonkin's body could even react to the stiffness brought by the Fear spell, the flesh on his skin suddenly peeled back and burst apart under the distortion of purple corrosive energy. The man wholeheartedly transformed into a ball of shadow fire and blew up with a blast, sending the dragonkin standing close beside him flying with a miserable howl, nearly crashing to the ground.
+
+Dazarmu — probably in his umpteenth life — had already pounced out and latched onto the second dragonkin. Although a dragonkin mage's body was far stronger than a mortal's, dealing with this agile, bizarre-shaped demon he couldn't use magic on was also extremely difficult.
+
+Jace used this opportunity to cast Mage Armor on himself, but Raschrel seemed about to break free from the Fear spell's influence at any moment.
+
+"Jace Sesso… you actually came."
+
+The tall drake shook his head, murmuring the name as he stared at the exploded dragonkin corpse. He went "hmm hmm ah ah," flames spurting from his eyes as he shifted his gaze this way.
+
+ROAR!
+
+He suddenly let out a furious roar. The sound didn't seem like the noise of a living creature — more like something exploding under pressure. The whole stone hall trembled and shook from the impact.
+
+The black scales covering the human-bodied, dragon-headed monster's skin released a blood-red glow of hatred. Scalding dragon blood dispelled the Fear shadows Jace had cast without a trace. He swung his tail, hooked the long spear Jace had pulled out earlier, and gripped it in his hand, striding straight forward with huge steps.
+
+Jace had wanted to use another Shadow Bolt to finish off the third dragonkin, but Raschrel's furious roar disrupted his casting rhythm. The Shadow Bolt could no longer continue to gather.
+
+Seeing Raschrel striding straight at him with huge steps, there was no time to think about chanting any complicated incantation. "Anunijidurazakana…"
+
+He quickly cast a Curse of Weakness on Raschrel before the drake could reach him. Raschrel's footing faltered. The spear he'd leveled suddenly couldn't thrust through that ferocious momentum — instead becoming a step late, weak and sluggish.
+
+Raschrel roared in rage, but this attack was easily dodged by Jace. He swung the scythe backhand in a sweeping slash. Although Raschrel pulled the spear back quickly, the blood-like dark force wrapped around Ursolus's scythe-blade still splashed out, shearing off the enchanted tip of the long spear.
+
+The force of Ursolus sent Raschrel staggering back two steps. Even his rigid dragon face showed enough shock. "I need a Curse of Tongues…" Jace reminded Sazeno in demonic. "Quick!"
+
+"Now, master? Now?!"
+
+The imp in the bag shrieked. In the distance, Raschrel backed up two steps, swung his tail toward a corner of the stone hall, and hooked a massive long-handled axe — the kind an ogre would use — that had been placed there. Yet when this axe came into the hands of Nefarian's emissary, it still looked slightly small.
+
+Raschrel chanted something in draconic, and the axe immediately burst into flames. Jace simultaneously chanted a Corrosion spell and applied it to the drake — but he hadn't expected that this shadow torment would have so much as an effect on him.
+
+It wasn't that Corrosion wasn't damaging his body. Jace could see with his own eyes his skin ulcerating, both eyes clouding, blood flowing from his nose and mouth. But this berserk fellow acted as if he didn't feel any of this pain at all. He hefted the axe in his hands and immediately howled and pounced over again.
+
+"I will have vengeance!"
+
+Raschrel roared in draconic. If Sola had heard his pronunciation, she probably would have burst out laughing. But the current situation was no laughing matter.
+
+Jace had just wanted to use a Suffocation spell to lock down some part of the enemy's body and interrupt his second charge somehow. But he felt the ground beneath his feet gradually growing hot, the temperature around him sharply rising.
+
+Fire chains coiled and rose up, wrapping around his movements, searing his skin, obstructing his spellcasting.
+
+It was the dragonkin mage who'd been blown up by his companion's exploding corpse. He hadn't lost his combat capability. Although he was covered in blast wounds and dragon blood was pouring from his mouth, he still persisted at this critical moment, fulfilling his duty and channeling a Flame Bind magic!
+
+Watching Raschrel take two steps at a time, practically leaping as he charged, combined with a body of that size, Jace was practically nailed to the spot waiting for a mountain to smash down on him.
+
+"Let me go!" he roared furiously in Old Kalimdor. The fire elements binding him seemed to be frightened all at once, their power slashing by a large margin.
+
+Not only that — Jace's whole body blazed with even more fire elements. These tangled with the degenerate fire elements that had been corrupting and binding him. Although they didn't snap the fire chains all at once, they were already enough for Jace to break free.
+
+But Jace didn't flee. Instead he gripped Ursolus and swept it straight at Raschrel, who was already charging up to him!
+
+The drake swung the long-handled axe down from above. From below, the scythe swung back. Black and red war blades collided, and the clashing magic let out a bizarre shriek that could tear a man's brain apart.
+
+The shriek gradually grew hollow. The blood light faded. The battle-axe had been cleanly snapped in two. One of Raschrel's dragon claws had been splashed by the gushing blood light, covered in bloody, cracked gashes.
+
+"Now… right now…"
+
+Sazeno poked his head out of the bag and chanted an incantation at Jace, while Jace swung the scythe again, hacking viciously at the drake's legs. He hadn't expected Raschrel to step back, turn, and sweep his thick dragon tail around in a sideways swipe!
+
+Jace had barely run two steps and couldn't dodge the sudden blow from the side. He was solidly struck and immediately felt his vision swim. The imp that had just poked its head out to finish his incantation was knocked flying out of the bag. Jace also stumbled messily several steps, nearly falling over.
+
+Feeling he'd seized the opportunity, Raschrel stepped forward and raised his foot to stomp down on him. But he only saw the figure beneath his feet, who hadn't even steadied himself, suddenly enveloped in a burst of shadow and flung more than seven meters away. That stomp only hit empty air.
+
+Jace broke free from the shadow and coughed violently several times. That sweep of the dragon tail had made his vision blur, but the Curse of Tongues had already taken effect. His throat was being tormented by the burning pain of the flames, growing more and more agonizing.
+
+Yet Raschrel, looking over this way, didn't charge again.
+
+Was he afraid of this scythe?
+
+"Inkakwelarika-gad!"
+
+Jace cast a Cripple spell. The incantation had only been halfway spoken when Raschrel raised his right foot again. This time he let out a low growl and stomped hard at the ground!
+
+This stomp was clearly no ordinary kick. When his foot hit the ground, a booming sound rang out and the whole hall shook and shuddered.
+
+Even more terrifying, this stomp sent the ground churning and splitting apart. A continuously surging shockwave of bricks and stones rolled toward Jace at a speed no ordinary person could react to.
+
+Jace watched the shockwave raised by the earth's power grow more and more violent. Knowing there was no time to dodge, he simply stood his ground and chanted an incantation. A black shield gathered around his body, reflecting back wave after wave of shadow shockwaves under the impact of flying stones and vibrations. Shadow and earth elements collided, spinning and tearing at each other — and in the end, it was the earth elements that weakened first.
+
+Of course, although Jace's Dark Shield was much thicker than in the past, after enduring wave after wave of impacts it too exploded with a boom. The wall behind him was blown open by the shadow into a crack. Several slabs of stone collapsed from the ceiling, and who knew how many supporting stone pillars toppled.
+
+Raschrel, tormented by the Cripple spell, moved too slowly to dodge and was struck by several stones, coughing a few times. Before long, the billowing dust obscured vision, instantly making the hall — already filled with all sorts of evil energies — even more chaotic.
+
+By now, Jace could no longer sense Dazarmu's aura. It had probably been dealt with somehow by those dragonkin.
+
+At the same time, his mana was severely depleted. After all, when he'd planned to come looking for the Pathfinder today, Jace definitely hadn't expected that he'd need to summon a felhound.
+
+There was no time for him to dig through his bag for potions, so he simply used Life Tap once. Enduring the pain that spread through him, he sacrificed blood and corrupted flesh in exchange for the allegiance of shadow power.
+
+At that moment, he felt he could almost understand Ursolus's murmuring. "Continue… continue… more, souls!"
+
+Was that what it was saying?
+
+Suddenly, there seemed to be a string of claws scraping against the ground behind him. Jace immediately channeled shadow force to wrap himself and pounce over. Before his eyes, a dragonkin mage seemed to be trying to flee this place, searching for the stone hall's exit among the rubble and damaged walls. When he sensed something approaching from behind, he suddenly stiffened like a startled beast and stared this way.
+
+With one dragon claw he conjured a bright fireball and hurled it at this mass of shadow. But this fireball had barely flown out when a second fireball had already been gathered by his other hand and was about to be hurled again!
+
+Jace broke free from the shadow, steadied himself, and took the first fireball's explosion on his body. He channeled his mana amidst the flames, chanting a Suffocation incantation to choke the dragonkin mage's chanting to death. But the second fireball had already been fired and slammed into him.
+
+Relying on the protection of Mage Armor and his red dragon bloodline, although Jace didn't suffer any serious injuries, he was utterly exhausted — not to mention that the life he'd just traded for more mana meant he was now also being tormented by shadow.
+
+He took several ragged breaths and walked up to the dragonkin, who was writhing and struggling on the ground from the Suffocation. He drew the Song of the Blue Sky at his waist and thrust a sword into the man's skull. The dragonkin still twitched his whole body like a bug with its head crushed, then curled up and shuddered with a muffled roar.
+
+All the dragonkin mages were dead. Jace took off his tattered, burning cloak and tossed it aside. He didn't particularly want to use Ursolus to harvest this dragonkin's soul — especially when the staff was howling and urging him to do something.
+
+Even though the dragonkin had died before this scythe, Jace could still feel a portion of the soul being devoured by the scythe. But Ursolus still let out a dissatisfied roar, as if it hadn't received complete satisfaction, and carried a tone of reproach toward Jace.
+
+"Don't tell me what to do."
+
+Jace said this to himself, warily watching the billowing dust all around.
+
+The souls in the scythe let out wave after wave of low murmuring, like the lingering echo of dissatisfaction just now, or like a response to Jace. But soon, Jace stopped paying attention to the sound, because he felt that nauseating dragon blood pervading the air once more. Behind him came a rumbling of stones sliding and falling. In the gradually thinning dust, that giant shadow stood up again.
+
+After all, this was the gatekeeper of Blackwing Lair in the days to come — Nefarian's most trusted and most powerful dragonkin servant. Jace had long since anticipated that this fight wouldn't be so easy.
+
+Raschrel held a massive boulder in his hands, breathing heavily under the increasingly thin power of the Cripple spell. His sightless eyes blazed in the thin flying dust. The blood-stained, giant mouth twisted by exhaustion and pain dripped with thick, viscous saliva laced with blood.
+
+"You have no mana left, Jace Sesso." the drake said in a muffled voice. "You're even weaker than me."
+
+He had to admit the man wasn't wrong. After chasing down and killing that dragonkin mage, Jace had indeed pushed his mana to the critical point once more. He estimated he could cast at most one or two more Shadow Bolts.
+
+Given his current physical state, doing another Life Tap — it was hard to say whether he'd still have a conscious mind and a functioning body to fight this drake head-on.
+
+Raschrel laughed, lifting the boulder with both hands. But he suddenly let out a grunt and leaned back. The boulder slipped from his grip and cracked on the ground. It was a shadow climbing his breastplate and stabbing a short blade viciously between his ribs.
+
+It was Morophil!
+
+Even with her abdomen pierced and a bloody wound you could see right through, she was still agile enough to climb the chains and armor-plate edges binding the drake's armor and reach the top of the dragon beast's head.
+
+Even so, she was also under heavy wounds. The fierce flames in her eyes couldn't ignite, and the fel tattoos all over her body were dim and lusterless…
+
+Raschrel roared angrily, turned, and grabbed her head with one hand. Morophil couldn't dodge in time and was suddenly lifted into the air. The drake grabbed her leg with his other hand.
+
+Even though Morophil was being held by the head and couldn't see anything, she still managed to throw a sword with her hand, accurately piercing Raschrel's eye. This drew an enraged roar from the monster, and the muscles in his arms instantly swelled from the force!
+
+Suddenly his strength slackened, his expression went blank, and his thick arms went limp and dangling, casually flinging the demon to the ground.
+
+Raschrel touched his own back with his arm and knelt down powerlessly. Foul, impure dragon blood poured from his lower back, drenching his entire lower body. When he collapsed into his own pool of blood, it was like throwing himself into a stream — splashing up a spray of blood and foam.
+
+Jace, still wreathed in shadow, appeared behind the collapsed Raschrel, Ursolus in hand. The drake's lower back had been completely sliced open, revealing a thick spine and a large tangle of messy, unidentifiable internal organs. Even in this state, the monster was still muttering something in draconic — but it was already meaningless babbling.
+
+Morophil lay in the dragon blood, turning her head to look this way. The flames in her eyes had finally ignited a little again. "You ought to say something nice about me in a situation like this, Morophil," Jace said weakly.
+
+"I feel like someone completely useless, a burden who can't help her master and only drags him down. This isn't how I should be," Morophil said slowly.
+
+"That wasn't a compliment to me." Jace spat out a mouthful of blood and said, "I'm not in the mood to comfort you right now. If you really feel like a burden, then get out of this state sooner. We're still not out of trouble."
+
+Morophil smiled slightly, nodded, and stood up, supporting herself on Raschrel's now-still body. Jace looked at the horrifying wound on her abdomen — still flowing with bright-red fel blood where it had been pierced — and the corners of his eyes still couldn't help but twitch.
+
+But so long as a demon's body wasn't wounded to the felheart, it wasn't enough to destroy it. A wound like this would recover eventually. Thinking this, he felt somewhat reassured.
+
+Jace pulled a mana potion from his bag and gulped it down. After catching his breath for a while to recover a bit of his spirit, he drank down a pouch of restorative liquid the night elves had given him. He was just about to go look for the stone hall's exit when he saw quite a few cultists had already come in from there.
+
+Not only that — even more cultists with weapons in hand were filing in from outside one after another.
+
+The deaths of Raschrel and the dragonkin mages hadn't restored these people to clarity. Jace could feel it from their seemingly calm but actually chaotic emotions and consciousness — these people were still being bewitched by powerful dark magic.
+
+So the person using dark magic to enslave and control them wasn't in this lighthouse at all. Whoever it was, there weren't many candidates left.
+
+The potion's recovery effect wasn't that fast. Jace was still forcing himself to stay alert when a crossbow bolt came whistling over with a whoosh.
+
+The bolt hit him square in the flank. He grunted in pain, backed up a step, steadied himself, and drew a breath, looking at the cultist holding the crossbow.
+
+These people were muttering God-knew-what as they closed in step by step, holding an assortment of weapons. Their eyes were full of inexplicable hatred born from dark magic.
+
+He hefted the scythe with his right hand. Flames were already dancing in his left palm. The elements were whispering, calling out to something.
+
+The time was drawing close to dawn. The sea reflected vast sheets of crimson firelight.
+
+Jace sat on a reef rock. The lighthouse and the houses behind him were burning fiercely. The air was thick with the terrible, intensely fishy stench of Shadowflame.
+
+He didn't really want to look, and tried not to recreate what had just happened in his mind — tried not to recall those howls of the souls.
+
+The whole night had passed. His clothes on his body were tattered and ruined in the chaos, but his body was still intact — not even his skin bore any damage. Including the wound pierced by the crossbow bolt, the bruise from being struck by the dragon tail, the burns from the flames — all had vanished without a trace.
+
+He picked up the staff wrapped in half-charred, ragged old clothes lying on the ground, stood up, wiped the blood seeping from his nose, and turned his head. A figure was standing right behind him.
+
+"You need not blame yourself for this, Mr. Jace Sesso. These villains, when they decided to help the black dragons summon demons and sow fear and death across the whole kingdom, they should have thought of today's outcome," Magino Dumas said. "However, would you like me to report the situation here to the Wizard Sanctum as it is, or to… embellish it slightly?"
+
+"Report it as it is, Master," Jace said.
+
+The mage hesitated for a moment before saying, "As you wish."
+
+Perhaps the people on shore had seen the fire atop the lighthouse and immediately notified the Wizard Sanctum mages in Moonbrook. Magino Dumas had been the first to teleport to the small island using teleportation magic, and the other mages had arrived one after another. But by then, everything was already over.
+
+Jace hadn't expected them to arrive this quickly. Still, this was for the best.
+
+Not all the warlocks were like those deranged cultists or the warlocks who'd drunk black dragon blood, bent on putting Jace to death. But they hadn't intended to help either — even after realizing they'd been deceived by the black dragons.
+
+They were hiding in various corners of the island, and Jace didn't have the ability to find and restrain every single one of them. "Have the rest of the warlocks been captured?" Jace asked.
+
+"This is a small island. There's nowhere to run," Magino Dumas said.
+
+Jace nodded. Warlocks weren't mages who knew teleportation magic. If they wanted to be pulled off this island, they'd need to contact someone outside in advance.
+
+Given the situation tonight, they probably hadn't had time to notify anyone outside to hastily find a few people who knew summoning rituals to summon them away.
+
+As if feeling Jace was still not reassured, the mage added, "Things having come to this point is the Wizard Sanctum's responsibility. I may face a series of inquiries next, but the Wizard Sanctum certainly won't delay the work that should be done because of this. We'll carefully verify the numbers — it's just that many of the corpses have been burned beyond recognition, many of them incomplete, so it will take some time. I'm just thinking — if we report it like this, you may face some… criticism in the future."
+
+Jace no longer had the energy to care about criticism or reputation. The black dragons wouldn't let the matter rest here. This was far from over.
+
+He didn't continue the conversation along this line and only looked at the coast and asked, "Can you find a boat to take me back? I want to return to Stormwind as soon as possible."
+
+"Are you sure you don't need any treatment? You look…"
+
+The mage sized Jace up from head to toe but didn't continue. Clearly, he'd noticed that Jace just looked a bit ragged, but actually hadn't been injured in the slightest.
+
+"I'm fine."
+
+"In that case, I'll find a boat to send you back to shore right now."

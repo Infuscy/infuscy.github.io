@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 240: A Promise — The Wobbly Peach</title>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+<style>
+/* Reading layout — ponytail: inline so generated pages need no Jekyll build */
+:root {
+  --reader-max: 42rem;
+  --reader-bg: #fefefe;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+}
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a {
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress {
+  color: var(--reader-muted);
+  font-size: .85rem;
+}
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -.02em;
+  color: #0f172a;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 2rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0 0 1.25rem;
+  color: var(--reader-text);
+}
+.reader-content hr {
+  border: 0;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 6rem;
+}
+.reader-content hr::before {
+  content: '· · ·';
+  color: var(--reader-muted);
+  font-size: 1.2rem;
+  letter-spacing: .3em;
+}
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover {
+  background: #eff6ff;
+  border-color: var(--reader-accent);
+}
+.reader-nav-link.disabled {
+  color: var(--reader-muted);
+  border-color: transparent;
+  pointer-events: none;
+}
+.reader-toc-link {
+  color: var(--reader-muted);
+  text-decoration: none;
+  font-size: .9rem;
+}
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+/* Flags */
+.flags-section {
+  max-width: var(--reader-max);
+  margin: 2rem auto 0;
+  padding: 0 1.25rem;
+}
+.flags-section summary {
+  cursor: pointer;
+  color: var(--reader-muted);
+  font-size: .9rem;
+  font-weight: 600;
+  padding: .5rem 0;
+  border-top: 1px solid var(--reader-border);
+  margin-top: 2rem;
+}
+.flags-section summary:hover { color: var(--reader-text); }
+.flags-section h2 { font-size: 1rem; font-weight: 700; margin: 1rem 0 .5rem; }
+.flags-section p { font-size: .9rem; line-height: 1.6; color: var(--reader-muted); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: 1.4rem; }
+  .reader-content p { font-size: 1.05rem; line-height: 1.75; }
+}
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/novel/">← Table of Contents</a>
+  <span class="reader-progress">Chapter 240 of 1862</span>
+</div>
+<main class="reader-content">
+<h1>Chapter 240: A Promise</h1>
+<p>Grede went home. That afternoon Jace was still a little foggy-headed, so he wandered the Trade District market to sober up, and on a whim spent six silver on a lamb.</p>
+<p>When he got home that evening, the imp clapped its hands at the sight of the tightly trussed-up lamb on the floor. "We've got one! We've got one! Quick, give it a try… give it a try…"</p>
+<p>Jace set the lamb down. "You draw the Immolate circle first. Let me go over the banishment incantation one more time."</p>
+<p>"No!" the imp shrieked. "No… master, if you chant it like that, I'm done for on the spot."</p>
+<p>"Almost forgot about that." Jace realized he'd nearly overlooked the fact that the imp was his own summon. "So what do we do?"</p>
+<p>The imp said, "I'll hide first. Once you've cast the spell successfully, call me back out. As long as you can't see me and your thoughts can't latch onto me, the banishment won't affect me either. Right?"</p>
+<p>Jace said, "I've never tried it. How would I know?"</p>
+<p>"That's how it should be, that's how it should be."</p>
+<p>The imp gave an awkward laugh, drew the circle, then squeezed itself into the sack.</p>
+<p>Jace gripped his staff, took out his spell booklet, and silently ran through the banishment incantation a few times. He cleared his throat, stood with his back to the window, and looked at the only clear patch of floor in the room. Staring at the lamb in the middle of the circle, which had apparently bleated itself out and was now just panting, his nerves wound tighter and tighter.</p>
+<p><em>Just don't let it be an Infernal.</em></p>
+<p>Thinking that, he glanced out the window — if it was an Infernal, a green meteor should come streaking down from outside, right?</p>
+<p>And not a Fel Guard, either. If a Fel Guard showed up in this room, one wrong move and it could smash all his furniture and personal effects to bits.</p>
+<p>And he wasn't sure he could control it, either. Even if he used the banishment spell to wipe it out in one shot, a massive demon corpse wouldn't exactly be easy to clean up.</p>
+<p>But curiosity had already gotten the better of him. A demon too powerful for his mana couldn't possibly be summoned successfully anyway.</p>
+<p><em>Might as well summon it.</em></p>
+<p>So he fixed his eyes on the lamb and murmured, "<em>Inhajet, Tulioxenoni, Tayatansayidini, Binodoxis</em>."</p>
+<p>When he finished chanting, nothing happened.</p>
+<p>No rift in the void. No demon appearing before his eyes. Nothing.</p>
+<p>Something wrong? But he'd definitely felt a powerful force of the Void open up in response to his incantation — it was just that there was nothing in front of him.</p>
+<p>What the hell? What kind of incantation was this — a summoning spell, or some kind of buff?</p>
+<p>Just as doubt crept in, Jace noticed the lamb was already dead. He hadn't touched it — blood was seeping from its eyes, nostrils, and mouth.</p>
+<p>The Immolate was complete.</p>
+<p><em>Damn it… it's not really going to drop a meteor from the sky, is it? Don't you need an Infernal fragment to summon an Infernal?</em></p>
+<p>Wait — something smelled sweet.</p>
+<p>Jace leaned toward the window and glanced outside, when he suddenly felt a chill on the back of his neck.</p>
+<p>A pair of slender arms wrapped around him.</p>
+<p>"Let me get a look at you…"</p>
+<p>Jace spun and threw an elbow. The creature behind him yelped and tumbled onto the bed. He turned to see a death-pale-skinned female demon propping herself up, staring right at her.</p>
+<p>A pair of horns curved high from the top of her head, even more exaggerated than a goat's. A cascade of dark hair spilled across the whole bed. She shrank back as though startled.</p>
+<p>The demon stood about a meter forty-five to a meter fifty tall, with a figure full of curves — certain parts even overly so, compared to her terrifyingly narrow waist. Below the clearly defined muscular lines of her long legs, a pair of goat hooves covered in black fur gripped the bedsheets tight.</p>
+<p>It was a succubus. This was a succubus summoning incantation?!</p>
+<p>She didn't quite match his mental image of a succubus. She wasn't wearing leather — instead, a layer of form-fitting dark-green etched metal armor, just as outrageously revealing, covering only the most vital areas.</p>
+<p>And most importantly — where were her wings?</p>
+<p>Where the hell had her wings gone?</p>
+<p>The wingless demon's eyes glowed with a faint ghostly blue light. Watching Jace's expression, her briefly startled face suddenly twisted into an eerie, lascivious smile.</p>
+<p>"Hit me harder, my new partner — just like that… let me see exactly what a man like you is capable of…"</p>
+<p>"Succubus," Jace said stiffly.</p>
+<p>"That label is such a cliché." The demon on the bed laughed. "Look at my evil, hideous face — what charm is there to speak of? An upright man like you would throw a punch the moment he saw me, just like you did just now… If it were a beautiful lady — like the one in your… pure… spotless… like a blue mana crystal…"</p>
+<p>She narrowed her eyes, stared at Jace, and paused. "Or perhaps — a noble lady?"</p>
+<p>"The hell — can you read minds?!"</p>
+<p>"Of course not," the succubus said. "Human thoughts are just too easy to read. You want to try hiding your thoughts from me, darling? You'll need more practice."</p>
+<p>"First, try not swearing. Anger gives your thoughts away, and impatience strips off all your disguises. For instance — what you just said means I guessed right. And I can guess there's another woman in your heart. Whether it's love, or hate, or wariness, suspicion, longing, hope — in any case… she matters enormously to you."</p>
+<p>"It might be a little different from what you're guessing, succubus," Jace said. "But still — I'm sorry, I shouldn't have hit you… wait, why am I apologizing? Are you charming me?"</p>
+<p>The succubus laughed. "So what if I am? What's so bad about being drawn to me? You're afraid of falling in love with a demon?"</p>
+<p>"I'm banishing you!"</p>
+<p>Jace began chanting the banishment spell, but the succubus didn't react at all, just watching as Jace got halfway through the incantation.</p>
+<p>He stopped. "You're not afraid?"</p>
+<p>"What's there to be afraid of?" the succubus said. "The mortal world is a tedious, sticky quagmire, warlock. If you send me away from here, I ought to thank you. Just another promise-breaking coward, that's all. Eredar, Mo'arg, Nathrezim… I've traversed the Twisting Nether on all sorts of promises, and you're just one more oathbreaker among the countless. Go on, darling — take me to the next stop. Let me continue my endless journey."</p>
+<p>The succubus smiled. Jace noticed that her somewhat grotesque demon features had actually started to look almost agreeable. The pale-red skin, once he'd grown accustomed to it, even carried a hint of the allure of a blood elf from the game.</p>
+<p>"What did I promise?" Jace couldn't help but ask.</p>
+<p>"You summoned me on the promise that you would satisfy my demands. Don't tell me you don't understand the eredar incantation at all?" the succubus asked.</p>
+<p>"Then what do you want?"</p>
+<p>"Simple… I want you."</p>
+<p>"You trying to kill me outright?" Jace asked. "Or take my soul? Turn me into the same thing as this livestock?"</p>
+<p>The succubus's gaze flicked to the dead lamb on the floor. Suddenly, a loud banging came from outside.</p>
+<p>"Damn it!"</p>
+<p>Jace pressed himself against the door, glanced back — and the succubus had vanished!</p>
+<p>The old lady next door called out, "Mr. Sesso… why is it so noisy again?"</p>
+<p>Jace cracked the door open. "I'm reciting an essay, ma'am — term starts tomorrow!"</p>
+<p>"Keep it down, Mr. Sesso…"</p>
+<p>"Yes, ma'am."</p>
+<p>Jace shut the door and turned back around. The succubus — where was she?</p>
+</main>
+
+<details class="flags-section">
+<summary>Translator Notes</summary>
+<h2>Flags</h2>
+<p>- <strong>承诺:</strong> Chapter title rendered as "A Promise" — refers to the summoning pact Jace unknowingly made. Not in glossary.
+- <strong>牺牲法阵:</strong> Rendered as "Immolate circle" — the sacrificial circle for the Immolate ritual. Not in glossary as a specific term (glossary lists 献祭 / Immolate).
+- <strong>反召唤咒:</strong> Rendered as "banishment incantation" / "banishment spell." Not in glossary (glossary lists 放逐 / Banish as a warlock spell; here it refers to the dismiss/summoning-reversal spell Jace uses on his imp).
+- <strong>因哈杰特，图利奥克瑟诺尼，塔亚坦萨衣迪尼，比诺督西斯:</strong> Rendered as "<em>Inhajet, Tulioxenoni, Tayatansayidini, Binodoxis</em>" — the succubus-summoning incantation. Transliteration tentative, flagged for consistency if it recurs.
+- <strong>地狱火:</strong> Rendered as "Infernal" (the demon type). Not in glossary as a demon name (glossary lists 邪兽 / Fel beast).
+- <strong>恶魔卫士:</strong> Rendered as "Fel Guard." Not in glossary.
+- <strong>魅魔:</strong> Rendered as "succubus." Not in glossary.
+- <strong>艾瑞达人:</strong> Rendered as "eredar" per chapter056's established usage (canonical Warcraft term; not in glossary).
+- <strong>莫尔葛:</strong> Rendered as "Mo'arg" — canonical demon race (the Mo'arg engineers/forge-masters of the Burning Legion). Not in glossary.
+- <strong>纳斯雷兹姆:</strong> Rendered as "Nathrezim" per glossary (dreadlord race).
+- <strong>无翼恶魔:</strong> Rendered as "wingless demon" — descriptive term Jace uses for the succubus, who notably lacks wings. Not in glossary.</p>
+</details>
+<nav class="reader-bottom-nav">
+  <a href="chapter239.html" class="reader-nav-link">← Chapter 239</a>
+  <a href="/novel/" class="reader-toc-link">Contents</a>
+  <a href="chapter241.html" class="reader-nav-link">Chapter 241 →</a>
+</nav>
+</body>
+</html>

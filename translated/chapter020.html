@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 20: The Ranger — The Wobbly Peach</title>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+<style>
+/* Reading layout — ponytail: inline so generated pages need no Jekyll build */
+:root {
+  --reader-max: 42rem;
+  --reader-bg: #fefefe;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+}
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a {
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress {
+  color: var(--reader-muted);
+  font-size: .85rem;
+}
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -.02em;
+  color: #0f172a;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 2rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0 0 1.25rem;
+  color: var(--reader-text);
+}
+.reader-content hr {
+  border: 0;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 6rem;
+}
+.reader-content hr::before {
+  content: '· · ·';
+  color: var(--reader-muted);
+  font-size: 1.2rem;
+  letter-spacing: .3em;
+}
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover {
+  background: #eff6ff;
+  border-color: var(--reader-accent);
+}
+.reader-nav-link.disabled {
+  color: var(--reader-muted);
+  border-color: transparent;
+  pointer-events: none;
+}
+.reader-toc-link {
+  color: var(--reader-muted);
+  text-decoration: none;
+  font-size: .9rem;
+}
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+/* Flags */
+.flags-section {
+  max-width: var(--reader-max);
+  margin: 2rem auto 0;
+  padding: 0 1.25rem;
+}
+.flags-section summary {
+  cursor: pointer;
+  color: var(--reader-muted);
+  font-size: .9rem;
+  font-weight: 600;
+  padding: .5rem 0;
+  border-top: 1px solid var(--reader-border);
+  margin-top: 2rem;
+}
+.flags-section summary:hover { color: var(--reader-text); }
+.flags-section h2 { font-size: 1rem; font-weight: 700; margin: 1rem 0 .5rem; }
+.flags-section p { font-size: .9rem; line-height: 1.6; color: var(--reader-muted); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: 1.4rem; }
+  .reader-content p { font-size: 1.05rem; line-height: 1.75; }
+}
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/novel/">← Table of Contents</a>
+  <span class="reader-progress">Chapter 20 of 1862</span>
+</div>
+<main class="reader-content">
+<h1>Chapter 20: The Ranger</h1>
+<p>After the chaos in the cemetery, wandering through Duskwood looking for herbs was basically like taking a stroll in a park.</p>
+<p>After being chased by ghouls, even the wolves of Eastvale Logging Camp seemed a lot cuter.</p>
+<p>They hadn't dug up much Grave Moss. Stripping away the wet dirt and surface moisture, the actual usable herb portion was probably less than half a pound.</p>
+<p>But both of them silently agreed that if they could find Grave Moss in the mass graves outside, they'd dig up whatever they could — going back to the cemetery was out of the question.</p>
+<p>South Elwynn had plenty of Silverleaf, except it was often mixed in with all sorts of local shrubs and hard to spot — you needed sharp eyes.</p>
+<p>After walking for hours, Jace felt like he was seeing double.</p>
+<p>As time passed, he'd also noticed the forest's light and dark shifting with the hours. Nighttime was pitch black. In the morning, the dark forest took on a faint blue hue. By afternoon — which was now — it gradually turned a burnt yellow.</p>
+<p>The traps they'd set earlier hadn't caught anything, which neither of them found surprising.</p>
+<p>Grede gathered up the traps and planned to search farther from Raven Hill, but couldn't find a spot that matched the quality of that earlier resting spot.</p>
+<p>They'd walked God knows how many miles. It was time to head south, find the main road, and return to Raven Hill.</p>
+<p>They'd probably have to go out again tomorrow, because aside from Silverleaf and a thorny plant that might or might not be Briarthorn, they hadn't found any other herbs. The most important ingredient, Kingsblood, was nowhere to be seen at all.</p>
+<p>They crested a hill, and looking down at the broad downhill slope ahead, Jace felt a wave of dizziness. He steadied himself and nearly toppled over.</p>
+<p>Grede looked back at him. "What's wrong?"</p>
+<p>"Hungry. A bit dizzy from hunger," Jace said, pulling out a piece of bread. "I need to fill my stomach."</p>
+<p>The bread had been sitting for a few days and was hard as a piece of cardboard. Grede sighed and pulled out a small piece of pale yellow cheese he'd brought. "Here — a little something extra."</p>
+<p>Jace looked at the cheese and felt even hungrier. He took it and stuffed it in his mouth, closing his eyes to savor the bread and the salty-sweet curds melting together in his saliva, the milky fragrance shooting up through the passages in his mouth into his nostrils — a double layer of aroma. He felt like he was about to melt into the ground.</p>
+<p>"The taste is a bit different from Stormwind's blue cheese. Is this a dwarven recipe?"</p>
+<p>"Yes — not as salty, but the milk flavor's richer." The dwarf popped a piece into his own mouth. The two leaned against each other under a tree.</p>
+<p>The milky, sticky melt in their mouths — neither of them wanted to stand up again.</p>
+<p>"If we can't find Kingsblood, let's just head back," Jace said, licking his lips and fingers. "We'll sell what we've collected, and I'll use my share to buy enough materials outright."</p>
+<p>Grede asked, "Think we can sell this trip's haul for, what, thirty silver?"</p>
+<p>Jace opened the bag and peeked inside. "If that Briarthorn's real, and we sell the Grave Moss too, we might hit forty. In the end it was Silverleaf that saved the day."</p>
+<p>"Twenty silver each — still worth it," Grede said. "Push hard once, live comfortable two months. Not a wasted trip."</p>
+<p>Jace nodded and lay flat on the ground. A wave of exhaustion hit him so hard he could barely keep his eyes open.</p>
+<p>"Don't fall asleep here, Jace."</p>
+<p>Grede shook his shoulder. In his daze, Jace turned his head and thought he saw something red in the distance.</p>
+<p>The sight of that red thing jolted him wide awake.</p>
+<p>He squinted and looked carefully. Could that be a patch of Kingsblood growing on the slope?</p>
+<p>"Look over there… am I hallucinating? I think I see Kingsblood."</p>
+<p>Grede looked where Jace was pointing and his eyes went wide.</p>
+<p>"It really is — Kingsblood!"</p>
+<p>Grede scrambled to his feet, grabbed the traps and sword, slung his small round shield, and stumbled forward. Jace hurriedly shouldered his pack and kept pace. The two of them stumbled, rolled, and scrambled toward the red patch.</p>
+<p>Jace dropped into the weeds and felt the tall, raised clusters of ominous pinkish flower spikes, and leaves even darker than Duskwood's grass. No question — this was Kingsblood.</p>
+<p>Suddenly, a sharp whistle rang out from above, echoing through the forest.</p>
+<p>Jace looked up and saw a person sitting in a low tree on the slope above.</p>
+<p>He wore dark green clothes with a dark brown cloak and hood, blending almost perfectly into the dark woods — which was why neither of them had noticed him at all.</p>
+<p>"That patch's taken, lads. Best turn back."</p>
+<p>The voice came from a distance, soft. He was speaking Common, but with an extremely heavy accent — it gave the impression of a Frenchman speaking English.</p>
+<p>"Pointy-eared bastard. Damn it," Grede muttered under his breath.</p>
+<p>An elf?</p>
+<p>Jace said, "Set the trap here."</p>
+<p>Grede shot Jace a quick glance, then set the bear trap down, muffling every sound as he spread it open and carefully covered it with the tall grass and Kingsblood.</p>
+<p>While Grede was setting the trap in the weeds, Jace stood up to draw the elf's attention.</p>
+<p>"Watch your movements, human."</p>
+<p>The creak of a bowstring being drawn was crystal clear in the quiet Duskwood. Jace knew the elf had raised his hunting bow and aimed it this way.</p>
+<p>"This bear trap won't catch an elf," the dwarf whispered from behind him, barely more than a breath. "They're hunters who've lived for centuries. They won't make that kind of rookie mistake."</p>
+<p>Jace bit his lip and whispered back, "Then we try our luck."</p>
+<p>"No fighting," the dwarf said. "No need to fight over a patch of herbs. Elves are members of the Alliance — at least for now. Don't make it a fight to the death."</p>
+<p>"An ally who's pointing an arrow at us?"</p>
+<p>"I'm going! Don't loose!" Jace shouted, backing up step by step.</p>
+<p>The elf dropped from the tree, threw back his hood, and golden long hair streamed in the cold evening wind — strikingly visible in the pitch-black world.</p>
+<p>He was a very tall man. When the hood came off, his eyes glowed with a faint blue light, like a lone wolf in the deep of night.</p>
+<p>Jace was facing a hostile elf for the first time, and he felt the terrifying, ancient aura of this race deep in his bones.</p>
+<p>Reluctant as he was, there were times when you had to bow your head.</p>
+<p>"Remember to take your bear trap with you, dwarf — you could sell it for a fair bit of scrap," the elf said with a smile. "Oh, you weren't planning to use that on me, were you? How frightening."</p>
+<p>His tone turned ice cold. "Learn some manners from your human friend — learn when you're outmatched, you stinking blind bastard."</p>
+<p>Grede's hand had already grabbed the bear trap to take it, but at those last words he stopped.</p>
+<p>Jace could feel the killing intent rising from the ground beside his feet. He knew — this fight was unavoidable now.</p>
+</main>
+
+<details class="flags-section">
+<summary>Translator Notes</summary>
+<h2>Flags</h2>
+<p>- <strong>南艾尔文 (South Elwynn):</strong> Not in glossary. Rendered as "South Elwynn" — the southern part of Elwynn Forest.
+- <strong>皇血草 (Kingsblood):</strong> Listed in glossary. Used "Kingsblood."
+- <strong>石南草 (Briarthorn):</strong> Listed in glossary. Used "Briarthorn."
+- <strong>蓝酪 (blue cheese):</strong> Not in glossary. Stormwind's local blue cheese. Rendered as "blue cheese."
+- <strong>尖耳贼 / 尖耳老鼠 (pointy-eared bastard/rat):</strong> Not in glossary. Grede's derogatory slang for elves. Rendered as "pointy-eared bastard" and "pointy-eared rat."
+- <strong>臭瞎子 (stinking blind bastard):</strong> Not in glossary. The elf's insult to Grede (mocking dwarven eyesight). Rendered as "stinking blind bastard."
+- <strong>巡林客 (Ranger):</strong> Chapter title. The elf is a ranger/warden type. Rendered chapter title as "The Ranger."
+- <strong>联盟 (Alliance):</strong> Listed in glossary. Used "Alliance."
+- <strong>通用语 (Common):</strong> Not in glossary as a term, but the common trade language. Rendered as "Common."</p>
+</details>
+<nav class="reader-bottom-nav">
+  <a href="chapter019.html" class="reader-nav-link">← Chapter 19</a>
+  <a href="/novel/" class="reader-toc-link">Contents</a>
+  <a href="chapter021.html" class="reader-nav-link">Chapter 21 →</a>
+</nav>
+</body>
+</html>

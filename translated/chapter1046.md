@@ -1,0 +1,137 @@
+## Chapter 1046: An Unfinished Enemy
+
+As they followed the captain forward, Jace observed the interior of Stonard — every patrolling soldier, every sentry standing watch in a tower, and the scholars or priests hurrying past.
+
+By now the place was mostly humans — mostly from the Kingdom of Stormwind and Lordaeron. Occasionally there were some who looked like they were from Stromgarde, and he could see a few dwarf smiths discussing something not far off. But from start to finish, Jace only saw two High Elves. They looked like two Farstriders, and when they saw Vereesa they saluted respectfully and announced their names, extending greetings and respect to Jace and Grede as well. There was no way they could be Itharius.
+
+Grede seemed to notice Jace's odd mood. He said in a low voice, "You've been acting strange ever since we entered the marsh, Jace. What are you looking for?"
+
+"Hoping a conscious green dragon escaped and could tell us something about the inside," Jace replied. "But as things stand, there's nothing."
+
+Since even the soldiers at Stonard knew nothing about it, Jace decided to set this lead aside for now.
+
+Perhaps Itharius hadn't found the chance to escape the temple yet, or perhaps for some other reason he didn't yet know what was happening here.
+
+Staying the night at Stonard naturally meant lodging in the outpost's highly distinctive orc dens. You couldn't get this kind of authentic orc experience even in Grim Batol or Blackrock Spire.
+
+Vereesa and Grede had never stayed at Stonard before — they'd gone straight to Nethergarde Keep — so they found everything quite novel. Even though the corridors were uncomfortably cold in winter, the two of them still wandered about with considerable enthusiasm, critiquing orc architecture and discussing guesses about what the orcs' homeland on the other side of the Dark Portal might look like.
+
+Sola walked beside them, but her mind was clearly elsewhere.
+
+"What's wrong, Sola?" Jace asked.
+
+"I can already hear them here," Sola said in a low voice. "Crying, wailing… as if drifting over from some unfathomable distance, from some unfathomable time ago, Jace. It reminds me of when I first came into contact with the corruption in the Dream… Of course, back then I didn't even know that was the beginning of the corruption."
+
+Jace glanced at the elf and dwarf arguing about orc living habits down the corridor, then thought of all the soldiers here going about their normal routines, working and living — and remembered how in the game, Itharius had sent players into the Temple of Atal'Hakkar to find the green dragons while he himself stayed at the farthest end of the marsh from the temple.
+
+He was gradually realizing that the Temple of Atal'Hakkar might possess some kind of psychic corruption power specifically effective against green dragons.
+
+"Put this on," Jace said, taking off the Chain of Will.
+
+Sola looked surprised. "Then what about you?"
+
+"We have potions. They're quite effective against the trolls' hexes," Jace said, handing her the chain. "You're the one leading us to the temple, and if we encounter green dragons inside, you'll need to help us too — whether it's dispersing fog or piercing illusion magic. But as things stand, that temple seems to affect you and your kin… Or don't you trust my command over the shadow forces, Sola?"
+
+"I do," Sola said.
+
+She took the Chain of Will from Jace and put it around his neck. Jace watched the chain take on a faint reddish glow, and Sola slowly closed her eyes and took a long, deep breath. When she exhaled, her expression looked much better.
+
+Jace smiled. "Get a good night's sleep, Sola. We'll set out first thing in the morning after we eat." Sola smiled and nodded, heading to her own den, but one hand kept gripping the chain tightly and wouldn't let go.
+
+"I'm off to bed, Jace!" Grede called from over there.
+
+"Good night, Grede," Jace said.
+
+Just then Vereesa came up beside him. She glanced at Jace's neck, then at the corner where Sola had disappeared, and said, "Is she…"
+
+"Yes," Jace said. "God only knows what those green dragons are going through inside that temple. Did you hear what that captain said? Those green dragons may have been imprisoned here for many years — long before the Dark Portal even opened."
+
+Vereesa frowned. "How much of that medicine did the troll witch doctor give you?"
+
+"Enough for the three of us to last about two days inside that temple," Jace said.
+
+"That's not bad," Vereesa said, leaning against the wall. "Two days should settle everything."
+
+"Let's hope so," Jace said with a smile.
+
+Vereesa moved closer and gently kneaded Jace's brow. "Don't worry too much."
+
+Jace kissed Vereesa's lips, feeling that cold, strong hand of hers already slipping inside his clothes. "I want you, Jace. I want your taste."
+
+"I want you too, Wen," Jace said in a low voice. "Is Morophil here?"
+
+"Over with Sola," Jace said.
+
+Vereesa smiled. The two of them undressed as they kissed and stumbled into the den, falling onto the somewhat damp bedding. Before he'd even gotten his shirt off, the ranger eagerly turned around and sat herself on Jace's chest, lowering her head and burying it between his legs.
+
+A while later, she glanced back over. Jace looked at her with a wicked grin. The elf blushed and slowly inched her body closer toward Jace.
+
+Several other dens were still occupied by mages and officers, so naturally the two of them didn't dare make too much noise. But Vereesa could barely control her panting. She could only grip Jace's legs and bite her lip, eyes squeezed shut, feeling the soft, swirling assault rising from below…
+
+Just as she was about to lose consciousness, she suddenly raised her head as if she'd heard something, looking toward the outside of the den while hastily pulling her cloak up to cover both of them.
+
+Sweat and fluids quickly turned cold. Jace whispered, "What is it?"
+
+"Someone," the ranger whispered. "Don't you hear that?"
+
+"This isn't Windrunner Village," Jace said with a smile, burying his head back between her legs. The elf glared at him unhappily, then couldn't help but let out a sharp "hiss" as her whole body trembled uncontrollably…
+
+The next morning, with a Stonard cook taking special care of them, the four of them ate a hearty breakfast before setting out toward the east.
+
+With the Chain of Will, Solamiel was clearly much more emotionally stable. As she flew, that familiar natural power surrounded them once more, washing away the cold, dark atmosphere of the whole marsh.
+
+"How do you feel, Sola?" Jace asked.
+
+"It really is different," the green dragon said. "This is a gift from Queen Alexstrasza, after all, Jace. I feel as though while I've put on this iron chain, I've also set down an incredibly heavy burden. I can't even remember when I first started being affected by that force…"
+
+"It's not just a gift from the Dragonqueen, you know, Sola," Grede reminded her. "This is a treasure forged by the elemental lords hundreds of thousands of years ago!"
+
+"He knows that, Grede," Jace said, rolling his eyes.
+
+"Wait." Vereesa looked down at the forest canopy passing beneath them. "Do you hear that?"
+
+"What?" Jace asked.
+
+"I hear it, damn it," Grede said through gritted teeth. "What kind of monster is that?!"
+
+A series of wailing, crying sounds suddenly came from the gloomy forest, and now even Jace could hear them.
+
+Before long, a rather small, pale-yellow flying creature darted out of the swaying trees. Solamiel glanced that way and her whole body shuddered.
+
+"Whelp…"
+
+Soon, more and more similar creatures flew out of the forest — not only behind them but ahead as well. Even though Solamiel had sped up, they were still blocked by countless whelps coming head-on.
+
+These whelps weren't the freshly hatched kind. Many were the size of calves. Though they were pitifully small compared to Solamiel, a dozen or twenty of them swarming together was still plenty terrifying.
+
+They spat venom frantically in their direction, drenching the sky around the group as if a rain of poison were falling.
+
+Solamiel had just used a burst of breath to send a few blocking whelps tumbling into the forest when two more dove at them from above. Vereesa straightened up and chanted an incantation while firing three arrows wreathed in arcane light. Guided by the magic, they accurately pierced the two little creatures, clearing an opening for the green dragon to fly straight through.
+
+One of the struck whelps crashed into Solamiel's back as she flew past, then fell into the forest below. That was when Jace got a clear look at these whelps' appearance.
+
+The scales across their bodies had fallen off by nearly half, sickly and diseased. Their eyes were clouded and unclear, like they had severe cataracts. The remaining scales didn't look healthy green either — they were the murky yellow of sewage, with only faint flecks of green left that let you identify what kind they'd originally been.
+
+"They're nowhere near as fast as you, Sola!" Vereesa said. "We can shake them!"
+
+Solamiel responded with a beat of her wings and quickened her pace, but the shadows of the whelps behind them hadn't completely faded before a hazy giant shape appeared in the mist, growing clearer and clearer by the moment.
+
+"Mmm? A continuous dream… how strange."
+
+The voice of an aged old woman drifted over from the distance. Jace knew this voice all too well.
+
+But he remembered that the last time they'd encountered this corrupted dragon here, she'd only had one wing. How could she possibly fly?
+
+When the giant creature's appearance became clearer, Jace found that the corrupted monster's remaining wing wasn't flapping either — it was just hanging off to one side like a unsupported piece of tattered cloth. She looked even more rotten than she had a few years ago.
+
+What was keeping her aloft were several flaps of festering flesh and skin spread open on her back, propelling her forward like a bloated fly.
+
+"No… no…"
+
+Sola's voice was already trembling.
+
+Jace drew Azurewrath. "Sola, she's no longer the kin you once knew."
+
+"I understand, Jace. I understand," the green dragon said.
+
+Grede hefted his warhammer. "For Sola's sake, I've decided to make it quick for her."

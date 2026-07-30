@@ -1,0 +1,119 @@
+## Chapter 1447: Honored Guests
+
+Khadgar led Jace into a narrow, dark passageway. The whole space was filled with a damp, rotting smell.
+
+But under the circumstances, this kind of stench wasn't all that unpleasant. In a dark tower where space and time were both twisted, being able to smell something even remotely normal was a blessing.
+
+Both humans walked slowly. Even though the place was as quiet as if the arcane vortex, the misty staircase, and the burning dragon's explosion had never happened, to Jace and Khadgar, it was a survival — and they were completely drained.
+
+Morofil, being a demon, had no concept of fatigue as long as her mana held out. But even she seemed wary, even a little tense. After all, no demon in the Twisting Nether could face the power of Sargeras and stay calm.
+
+"Are you hurt?" Khadgar turned to ask.
+
+"Nothing serious, I think." Jace felt himself over. "Some pain, but I don't think it's a big problem. I already drank a healing potion. Thanks for the magic shield."
+
+"My magic wasn't that important. The key thing was that Arcanagos wasn't aiming that explosion at us." Khadgar undid his top button and pulled at his collar. "We just literally survived the Dark Titan's wrath. Do you realize that?"
+
+"I'm still processing it." Jace said.
+
+"I'm processing something else too." Khadgar said. "How did you know he was a blue dragon? He called himself Arcanagos, which is indeed the name of an ancient and powerful blue dragon."
+
+"But as I recall, even the people of Karazhan who tell this legend don't mention what kind of dragon he was before he died. And all the characteristics of a blue dragon — skin and scale color, magic crystals on the body — they're gone in the flames of the demon lord. At least, I couldn't tell. I want to know how you knew."
+
+"I didn't know he was actually a blue dragon." Jace said.
+
+Khadgar pointed at the scabbard at Jace's waist. "Then why did you choose to show Azuresong?"
+
+"Even Prince Sabellian would give this blade some respect, Archmage Khadgar — and he's Deathwing's son." Jace rubbed his still-aching lower back. "I figured whatever kind of dragon he was in life, if he still had any will of his own, this sword would wake him up and make him understand that we're his allies. Maybe even remember why he came to Karazhan in the first place. Remember who his real enemy was."
+
+Khadgar slowly nodded. He leaned against the wall to catch his breath. "So here's the second question. How did you know Medivh had used his own life essence to ignite his soul? I never read about anything like that in Karazhan's library. It must be a terrible spell only Sargeras himself knew."
+
+"Didn't you say it yourself?" Jace explained. "You said the dragon held part of Medivh's life. You said he might be an embodiment of the tower's will, or even part of Sargeras's mana."
+
+"Also, I noticed some things myself. Remember those undead soldiers that revived from fragments of his bones? I could feel the force driving them was very similar to Morofil's — demonic energy, life force. So I figured the power driving this dragon might also be some kind of demonic fire fueled by life."
+
+Khadgar studied the succubus for a moment, as if wanting to argue, but not sure where to start.
+
+Finally he turned back. "You've been to Karazhan before."
+
+Morofil's gaze shifted from Khadgar to her master.
+
+"If I'd been here before, would I still be alive to talk about it?" Jace asked.
+
+The succubus's gaze shifted back.
+
+"We all have our secrets, Jace. This isn't a judgment." Khadgar said. "Over the years, countless outsiders — Kirin Tor mages, rogue mages from elsewhere, bold adventurers, treasure hunters, even orc warlocks and Gurubashi explorers — have tried to enter Karazhan. You're not at all out of place among them. And I wouldn't be surprised if someone with your skills managed to walk out alive."
+
+"Believe it or not, my understanding of this place is very limited too." Jace continued. "I was gambling too — gambling that I was right, that my approach would work. Just like you betting you could piece that shattered staircase back together for us to walk on."
+
+"That wasn't a gamble. No one could have predicted running into such a terrifying undead monster here." Khadgar said. "I'd already completed the staircase. And you'd dealt with those void creatures. Everything was going according to plan... If we'd just climbed up, the library would have been close."
+
+"I know." Jace said.
+
+The archmage sighed. "I don't want to go to the other side — the banquet hall. I don't want to deal with the dead. Everything becomes unpredictable there. But if I'd known there was a dragon burning with Medivh's mana waiting for us, I'd have rather gone straight in and performed a dance for all the ghosts in the tower."
+
+"Either way, at least we're lucky." The mage pushed open a small door. "That's the most important thing for adventuring in this tower."
+
+He then glanced at Jace's hand. "That staff made from a demon's bones is something special, Jace. Very powerful."
+
+"Thanks." Jace nodded and wrapped Ulthalesh back up.
+
+Behind the door was a fairly wide corridor. Large blue-black stone pillars with gold trim. Neat square marble tiles on the floor. The whole style was grand and dignified — a world away from the severely damaged bunker-like rooms they'd just been in.
+
+The ceiling was hung with decorative chandeliers. Metal lamp stands like flowering branches stood by the doors, their arcane flames lighting the place so brightly that Jace, who'd been through darkness and shadows and rain for so long, couldn't help squinting.
+
+Suddenly, Jace thought he saw a group of finely dressed men and women walking through the corridor, chatting and laughing. A group of... ghosts?
+
+But these people were so clear, so solid. He couldn't sense any necrotic presence at all. If not for being in Karazhan, he'd have believed without a doubt that they were real, living people.
+
+The only thing confirming his instinct was the Ulthalesh in his hand. Its hunger and agitation were almost tangible. Most of the soul essence he'd drawn on that staircase had been converted into power for the Hand of Gul'dan. Its appetite was far from satisfied.
+
+"Can you see them?" Jace asked quietly.
+
+"Of course." Khadgar warned under his breath. "But don't think about making soul shards here, Jace."
+
+"I know that." Jace said. "But I didn't drink any soul-detection potion. I don't have any spell to see spirits. So why can I?"
+
+"In Karazhan, we're the ghosts." Khadgar said. "We're the ones walking in an unreal plane. They're the people here."
+
+Jace thought about that for a moment. The archmage was already moving along the wall with his staff, heading toward the hall entrance at the end.
+
+From the end of the corridor came the crisp sound of a harpsichord. Distant and muffled from this far away, but Jace felt the melody was familiar.
+
+But along with the music, the laughter and cheers drifting from somewhere, and the familiar scene before him, he felt a daze — as if he'd gone back decades, back to his past life.
+
+He sincerely hoped this disorientation wasn't an illusion conjured by Karazhan's power.
+
+"We need to follow these ghosts and sneak into the grand theater ahead." Khadgar pointed at a group of young human nobles. "There's a staircase behind the theater that leads to the exhibition hall above. And from the exhibition hall, there's a path to the library."
+
+He sighed deeply. "Let's hope this route is smoother."
+
+"If you please, honored guests."
+
+A somewhat hollow voice came from beside them. Khadgar gritted his teeth and sucked in an annoyed breath.
+
+Jace looked toward the source. A server in luxurious blue-violet robes — looking more distinguished than Stormwind's high nobles at a banquet — was approaching silently.
+
+But his head was a floating skull with burning yellow ghost-fire in its eye sockets.
+
+The server seemed to bear no hostility, but Jace couldn't sense any emotion from him at all — good or bad. It was unsettling.
+
+"Tonight's performance is open only to invited guests. Please show me the master's invitation, or identify yourselves. Otherwise, I must treat you as hostile intruders."
+
+Khadgar straightened his chest, cleared his throat, and removed the Kirin Tor archmage insignia from his hand to show the skull. "Does this identify me, honored sir?"
+
+"An archmage of the Kirin Tor from Dalaran. Of course." The skull bowed respectfully, then looked at Jace.
+
+Jace presented his court mage insignia to the server. The burning eyes in the skull flickered. "His Majesty King Llane Wrynn's magic advisor. Please forgive my impertinence. Your presence is an honor..."
+
+"Thank you very much."
+
+The two were about to move past when the skull stopped them again. "One moment. And this... demon lady."
+
+Jace pulled her close. "She's with me. My... partner. Is there a problem?"
+
+"I see. No problem at all." The skull bowed its head and stepped back. "Please enter, three honored guests."
+
+Jace followed Khadgar, forcing calm and grace as they slipped into the procession of ghosts. Morofil caught up, leaning close to Jace's ear. "Say that again, dear. I'm your what?"
+
+Khadgar stroked his half-burned beard, glancing sideways at them. Jace kept his eye on the ghostly guests around them and whispered, "That's enough."

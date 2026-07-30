@@ -1,0 +1,117 @@
+## Chapter 1202: Facing His Own Work Head-On
+
+Kallrez's presence made Ilgalar Tower look to Jace as though the entire structure had been warped by dark magic.
+
+When he stood on the open ground outside and peered at the tower through Detect Demon sight, the tower itself was already saturated with Kallrez's powerful demonic energy. Only the sustaining power of the Taralfsin Crystal kept it from belching fel fire out of its windows like a tower ablaze.
+
+Over the following days, Jace kept a close watch on how Ilgalar Tower and the doom lord coexisted, making sure the power wouldn't leak out and affect the entire forest.
+
+Entering through the tower's main gate, the first thing that greeted you was the doom lord's two black hooves, guarded by heavy fel-iron shackles.
+
+Having accepted his fate of being trapped here, Kallrez couldn't be bothered arguing with Jace anymore.
+
+But for a doom lord, even in the Burning Legion they didn't have much "freedom" to speak of. These demon commanders who carved out paths for the Legion's armies and opened teleportation portals had to stand by the gateways at all times — either stationed long-term on the altars the Legion had built, or channeling mana to keep the portals open around the clock.
+
+Chances to personally charge into battle were few and far between. Maybe once every few centuries, if that.
+
+That was the fate of the Legion's most powerful doom lords like Kazzak and Azgalor, and Kallrez, a step below them, was no exception.
+
+So Jace figured the demon lord's fury at being locked up in this mage tower was probably just wounded pride — the only reason he was so pissed off was that the one blocking him wasn't Lord Kil'jaeden, but a mere mortal.
+
+The demon lord stood with wings folded in the center of the hall, his massive body taking up most of the ground floor. On the staircases on either side, the two felhounds Dazarm II and Dazarm III paced back and forth, occasionally checking on the doom lord's condition.
+
+When Jace walked in, they'd let out a series of dull "thump-thump-thump" sounds to signal they'd spotted their master and were ready to receive orders at any moment.
+
+Morophil was perched on a railing up above, gazing down below. Noticing Jace looking at her, Morophil smiled and blinked her right eye. Jace nodded back in acknowledgment.
+
+And just like that, Ilgalar Tower was essentially ready.
+
+If the Blackrock orcs or the black dragons really did try to attack Stonewatch this time, forcing a "return" to another timeline…
+
+Honestly, with Ilgalar Tower now drawing on the dual mana of a doom lord and a ley line nexus, both forces stabilized and sustained by the Taralfsin Crystal, Jace wouldn't have been the least bit intimidated even if Prince Nefarian himself had flown here in a couple of days.
+
+Let alone the fact that he was wielding Ursales. The staff, wrapped in enchanted cloth, was the only magical object in the tower that had gone largely unaffected by the Taralfsin Crystal. Jace could tell it had no intention of letting anything other than its master touch its soul power — whether person or tower. Naturally, Jace wasn't surprised in the least.
+
+But even though the crystal was essentially powerless against Ursales, its strength still exceeded expectations.
+
+Afterward, it maintained a harmonious coexistence between the ley lines, the demons, and the mage tower — neither letting the forces violently devour and repel each other, nor letting them rapidly leak outward, and without any sign of strain.
+
+Without that crystal, Jace would have had to expend God-knows-how-many times more energy just to maintain the health of the Stonewatch forest.
+
+After all, the places Kallrez had previously inhabited were either scorched ravines already destroyed by elemental flames and the dark magic of storm altars, or gloomy valleys scoured by Karazhan's shadow storms.
+
+The fel energy radiating from this big demon wouldn't cause much further damage to places that were already beyond saving.
+
+But the Stonewatch forest and the gnoll forests farther out were different. Though they'd been occupied by orcs, they hadn't been used as large-scale testing grounds for dark magic, and they'd recovered to some degree after the Orc Wars. If a doom lord stood here unshielded for a few months, the changes would be obvious.
+
+All that was left was to wait for Sola to return and bless the wood used to build the stairs, and then everything would be foolproof.
+
+After Kallrez was successfully summoned, Grede returned to Stormwind a few days later. After all, he'd come here just in case something went wrong with the summoning ritual.
+
+Although Wildhammer dwarves were mocked by other dwarves as "mountain savages," and Grede himself wasn't particularly fond of crowds, his dislike of crowds was relative to other dwarves. And Ilgalar Tower was just way too uncrowded. Besides, the ale Stonewatch brought in didn't have much variety and didn't taste great either. In his own words, Stormwind's wasn't anything special either, but it was still a few times better than the swill here.
+
+Of course, even though he'd left with those excuses, Jace figured the real reason he'd fled was…
+
+After the doom lord was successfully summoned into the tower, Jace no longer had any reason to refuse Morophil feeding on his mana. So the tower wasn't exactly peaceful at night, and Grede had probably just had enough.
+
+But Jace didn't feel particularly apologetic, considering his snoring was even more noticeable in the tower than Kallrez's presence. Jace had suggested several times that he go to the Church to check if something was wrong with his airways, but Jace wasn't exactly counting on the Church to find any health problems in a half-stone man.
+
+That morning, before dawn had fully broken, Jace opened his eyes as if sensing something, and shoved the succubus's little hoof hard off his chest, drawing a light laugh from Morophil.
+
+"Do you feel something?" Jace asked.
+
+The succubus's smile faded, and she let out a slight sigh. "I do. Something is approaching. This tower's power really can radiate far."
+
+Sazeno, who'd been perched on the window, turned around and said, "It's our green lady. No need to worry, master."
+
+Yes. Sola was back.
+
+Jace threw on a shirt and ran down the stairs in his pants, glancing at the massive demon head along the way. "Good morning, Lord Kallrez."
+
+Kallrez just gave him a sidelong glance and made no sound whatsoever. Jace, of course, didn't care. He was used to it by now.
+
+After getting dressed, he came to the door, straightened his collar, and watched a green dragon descend from the sky, great wings beating.
+
+Before she even touched down, Amy had already leaped off her neck and climbed all the way down her claws, letting herself drop to the ground with practiced ease. It looked like she and Sola had gotten along quite well over the past two weeks.
+
+"How'd it go, Amy?" Jace called out.
+
+"Good news and bad news, Jace," Amy said, hurrying up the steps. "Which do you want first?"
+
+Seemed people in every world had the same twisted sense of humor. Jace said offhandedly, "Good news first."
+
+"It's done," Amy said in a low voice. "That Kul Tiras princess of ours fits Dalaran and the Kirin Tor's consistent impression of her from every angle — meaning she's terrifyingly capable to the point of being abnormal. Can you believe it? She only took five days to completely crack that arcanist problem I had no idea how to even approach."
+
+Jace had actually guessed the results would be decent from Amy's elated mood. Considering the risks that might come from this trip to Dalaran and the whole Jaina connection, he couldn't help but breathe a sigh of relief.
+
+"So we can go ahead and…"
+
+"Of course, that's not all the work," Amy said. "But what's left is basically manual labor for me, Jace."
+
+She looked up and said, "Give me four days at most, and I can use this tower to…"
+
+"Taralfsin." Amy stared up at the magic crystal slowly rotating among the treetops, transfixed. "I've never seen its full form like this. In the Violet Hold, it was locked in a dedicated room."
+
+"Uh, I mean, use this tower to complete the repair of the teleportation coordinates," she added quickly.
+
+Jace nodded. "Excellent. I'll write to Vereesa right away to let her know. Come inside the tower and we'll talk."
+
+By then Sola had already shifted into human form and walked over. She asked, "What's the bad news? I didn't hear you mention any bad news in Dalaran, Amy."
+
+Amy let out a bitter laugh as she walked into the tower. "The bad news is that for the next few decades at most, I'll be nothing more than a 'mediocre female mage' in the Kirin Tor, Sola. Just think about what Jaina might accomplish in the future. Some people think she might even enter the Kirin Tor council as the ruler of Kul Tiras, which was considered completely impossible in the past. Everyone used to think Prince Kael'thas would probably be the first to achieve that… my God!"
+
+The young mage froze almost in place, staring blankly at the silent doom lord before her. She gripped her crystal staff tightly, her lips trembling as if she wanted to say something, or perhaps cast some spell.
+
+"Damn it." Jace immediately stepped in front of her. "I was so focused on the teleportation coordinates that I completely forgot to warn you, Amy."
+
+He turned back to look at the massive demon. "This is Kallrez. The demon I mentioned before. Don't worry about him. Things are still under my control — and the tower's."
+
+It didn't seem like Kallrez had any intention of paying attention to these little creatures popping up one after another. He just lifted his head slightly, staring upward, feeling the resonance between the Taralfsin Crystal and the power of the entire tower. Conveniently, this made him look rather "harmless."
+
+Hearing Jace's explanation, Amy blinked slowly and said, "All right, Jace. I understand."
+
+"So, are you still planning to do the repair work here?" Sola tried asking.
+
+"Why not?" Amy let out a long breath, then said with forced composure, "I just… well. The scale is a bit beyond what I expected, but it won't affect my work going forward."
+
+Jace smiled and nodded. Amy's determination not to be a "mediocre female mage" really was something.

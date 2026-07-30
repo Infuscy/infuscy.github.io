@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 17: The Great Graveyard — The Wobbly Peach</title>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+<style>
+/* Reading layout — ponytail: inline so generated pages need no Jekyll build */
+:root {
+  --reader-max: 42rem;
+  --reader-bg: #fefefe;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+}
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a {
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress {
+  color: var(--reader-muted);
+  font-size: .85rem;
+}
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -.02em;
+  color: #0f172a;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 2rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0 0 1.25rem;
+  color: var(--reader-text);
+}
+.reader-content hr {
+  border: 0;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 6rem;
+}
+.reader-content hr::before {
+  content: '· · ·';
+  color: var(--reader-muted);
+  font-size: 1.2rem;
+  letter-spacing: .3em;
+}
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover {
+  background: #eff6ff;
+  border-color: var(--reader-accent);
+}
+.reader-nav-link.disabled {
+  color: var(--reader-muted);
+  border-color: transparent;
+  pointer-events: none;
+}
+.reader-toc-link {
+  color: var(--reader-muted);
+  text-decoration: none;
+  font-size: .9rem;
+}
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+/* Flags */
+.flags-section {
+  max-width: var(--reader-max);
+  margin: 2rem auto 0;
+  padding: 0 1.25rem;
+}
+.flags-section summary {
+  cursor: pointer;
+  color: var(--reader-muted);
+  font-size: .9rem;
+  font-weight: 600;
+  padding: .5rem 0;
+  border-top: 1px solid var(--reader-border);
+  margin-top: 2rem;
+}
+.flags-section summary:hover { color: var(--reader-text); }
+.flags-section h2 { font-size: 1rem; font-weight: 700; margin: 1rem 0 .5rem; }
+.flags-section p { font-size: .9rem; line-height: 1.6; color: var(--reader-muted); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: 1.4rem; }
+  .reader-content p { font-size: 1.05rem; line-height: 1.75; }
+}
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/novel/">← Table of Contents</a>
+  <span class="reader-progress">Chapter 17 of 1862</span>
+</div>
+<main class="reader-content">
+<h1>Chapter 17: The Great Graveyard</h1>
+<p>The Great Graveyard of Raven Hill lay just north of town, an overgrown abandoned road running straight to the cemetery's shut iron gate.</p>
+<p>The metalwork on the gate and railings was quite elaborate and beautiful — this place must have been bustling once. Jace could even picture what it had looked like before the Karazhan Cataclysm.</p>
+<p>A vast cemetery burying countless veterans and nobles who'd fallen in the war. Grieving families of dead heroes, or posh lords and ladies in their fine carriages, would come here to pay their respects. And the people of Raven Hill had built their lives around these visitors and the tending of the dead — the great cemetery was their gold mine.</p>
+<p>Of course, all of that had been wiped out by the cataclysm, the spread of the shadow, and the string of vague, creeping horror stories that followed.</p>
+<p>Jace approached the iron railing and peered inside. Rows of headstones of every size and specification stood side by side, with the occasional family mausoleum rising among them.</p>
+<p>On the farthest hill sat a small cottage — probably where the graveyard keeper lived, or the undertaker who prepared the dead for their final rest.</p>
+<p>Judging by how run-down that place looked, no one had set foot inside it in a very long time.</p>
+<p>In the game, this was the final target of a quest chain — a skeleton warrior named Moradin who could cast Holy Light spells, and he was no joke.</p>
+<p>Back in the early versions, the players leveling here were low-level twinks in their twenties. Moradin patrolled as a level 35 elite, and it was all too easy for some low-level quest-runner to accidentally pull his aggro.</p>
+<p>Once he was aggro'd, he'd charge into the crowd and cut down players two at a time with every swing, leaving corpses scattered everywhere in no time.</p>
+<p>Moradin actually had a deeply tragic backstory too. He'd been a valiant paladin who fought in the Scourge invasion a decade and more from now. When the war ended and he returned home, he found his wife and two children already dead, and his youngest daughter nowhere to be found.</p>
+<p>After searching everywhere in vain, he went mad at his wife's graveside and killed several well-meaning Night Watchmen who'd tried to comfort him. When he came to his senses, he took his own life in remorse and despair, becoming a vengeful revenant with no one left to avenge, wandering the land and making the already-terrifying Raven Hill even more horrifying.</p>
+<p>What Jace didn't know was that his daughter, Sarah Ladimore, had already left Raven Hill for Grand'gran — later known as Duskwood — and joined Duskwood's self-defense militia, the Night Watch. The two of them never did meet again.</p>
+<p>Thinking about this story, Jace suddenly felt something was off.</p>
+<p>"Grede."</p>
+<p>"Hmm?" The dwarf, who'd been studying the dirt and weeds on the ground, looked up. "Found the herbs?"</p>
+<p>"No," Jace said. "Do you remember that guard's name from last night?"</p>
+<p>"Morgan… something… Moore? Who remembers you humans' weird names."</p>
+<p>"Morgan Ladimore," Jace said.</p>
+<p>"Close enough." Grede had zero interest in this topic. He wandered off toward a puddle in the distance, leaving Jace alone staring at the lonely old cottage in the cemetery.</p>
+<p>Yes — that boy his own age was the future Moradin.</p>
+<p>Jace's memory of the fearsome undead warrior was of a man who already had three children, all long dead, whose wife had turned into a headstone ages ago, whose only remaining daughter had grown into a graceful young woman.</p>
+<p>Logically, he should've been a middle-aged fellow. Jace had never connected him to an eighteen- or nineteen-year-old lad.</p>
+<p>"Over here!" Grede suddenly shouted.</p>
+<p>Jace snapped back to reality and hurried after the dwarf to a dirt pit tangled with tree roots.</p>
+<p>Grede stood on a thick root extending over the pit, blocking Jace. "Don't come down here. See that? This is most likely a resting spot for wild wolves or bears."</p>
+<p>"A resting spot?" Jace asked, confused. "Isn't that just a den?"</p>
+<p>"Not the same," Grede said. "Wolf dens and bear dens are mostly caves. Wolves like natural caves, rock crevices, that sort of thing. Bears sometimes dig their own… Anyway, these animals live in holes. But when they're out hunting they can range far, so they find sheltered, comfortable spots away from their dens to rest — kind of like a waystation."</p>
+<p>He pointed down into the pit. "Look at the wolf fur down there. I can even smell the stink off them. There's probably droppings around here too. Bottom line — we set the trap here, and we won't even need bait."</p>
+<p>"Wolves would find a resting spot this close to a cemetery?" Jace asked.</p>
+<p>"That means what you heard is probably true," Grede said. "These wolves really have been feeding on human flesh, and they've made the cemetery their hunting ground. If our trap works… our chances of finding those Evil Claws just went way up."</p>
+<p>"Then let's set the trap," Jace said.</p>
+<p>The dwarf acknowledged, swung the iron bear trap off his back, slid into the pit, and set it up. When he was done, he covered it with dirt, weeds, and animal fur.</p>
+<p>Jace asked, "Won't the wolves smell your scent and abandon the resting spot?"</p>
+<p>"You've got a hunter's instincts, lad," Grede said. "In the Hinterlands, I'd be covered in bear shit doing this kind of work, but here it should be fine. These wolves have never smelled a dwarf before. If they catch an unfamiliar scent, they'll be suspicious for a bit, but once they see there's no danger, they'll let their guard down. But if they catch the scent of a hunter who's always after them — like you humans — then yeah, they might abandon the spot and leave, like you said."</p>
+<p>He climbed up and dusted the filth off his clothes. "We're done here. Let's go find herbs somewhere else — we can check back tomorrow. Found anything?"</p>
+<p>"No." Jace leaned on the handle of his Woodcutter's Axe against a jutting rock and caught his breath. "This is still too close to Raven Hill. Between the townsfolk and passing travelers, any herbs around here probably got picked clean long ago. And most amateurs don't know to leave the roots — they yank the whole thing out, roots and all. Year after year, even if there were herbs here, there wouldn't be any left. Our odds aren't great. We should try somewhere more remote."</p>
+<p>Grede glanced toward the cemetery railing half-hidden in the shadows and said, "What about Grave Moss?"</p>
+<p>Jace looked over too. He realized he was still subconsciously reluctant to step inside the cemetery.</p>
+<p>Especially after finding wolf tracks nearby, the whole place felt even creepier.</p>
+<p>After all, even if wolves were gnawing on bones, they'd go for fresh bones with meat on them, not the rotten-to-nothing bones buried in a cemetery.</p>
+<p>Which meant there was a whole lot of rotting flesh in this cemetery.</p>
+<p>What kind of situation would leave a cemetery with meat on the bones this many years after the war?</p>
+<p>It could only mean there were undead here — maybe a <em>lot</em> of them — enough that the forest wolves had made this their hunting ground.</p>
+<p>On the bright side, predators generally don't attack anything that poses a serious threat. Wolves like eating rabbits, but they'll think twice about a deer — a deer's still dangerous to a wolf.</p>
+<p>A carnivore's goal is to get food, not to pick a fight with everything it sees. It has to weigh the risk of getting hurt.</p>
+<p>For a wild animal, a serious injury usually means death. And even if by some miracle the wound heals, it'll seriously hurt their hunting efficiency.</p>
+<p>If the wolves had made the cemetery their hunting ground, that meant that even if there were undead in there, they probably weren't that powerful. At least not as terrifying as gnolls — no wild animal in its right mind would mess with a gnoll.</p>
+<p>"It's still morning," Grede said. "If we move now, we've still got six or seven hours before nightfall."</p>
+<p>Grede was right. Jace looked up at the sky through the canopy. Actually, after getting used to the darkness here, he'd noticed there <em>was</em> some difference between day and night in Duskwood.</p>
+<p>Last night had been especially black — without the town's ever-burning lamps, it would've been pitch dark. But now, at least some faint light that passed for sunshine was breaking through the layers of shadow, casting pale spots on the gray-green grass.</p>
+<p>Jace shook the axe in his hand. "Then let's go."</p>
+<p>"Easy there." Grede watched the swaying axe head. "Don't forget what you said yesterday — we're just gathering herbs, not looking for a fight. Unless things get really dire… don't go asking for trouble."</p>
+<p>"I remember," Jace said. "If even you remember it that clearly, you think I'd forget?"</p>
+<p>The dwarf chuckled and headed toward the cemetery first.</p>
+<p>Jace followed. The two of them went back to the cemetery railing and followed it a long way without reaching the end.</p>
+<p>This really was the largest cemetery in the entire Kingdom of Stormwind — quite possibly the largest on the whole continent. At least in Lordaeron, Jace couldn't recall anything on this scale.</p>
+<p>Grede was getting annoyed. He grabbed the railing and shook it, but the iron bars, though abandoned for years, were still solid and sturdy — not something he could budge easily.</p>
+<p>"How are we supposed to get in?"</p>
+<p>"If those wolves can get in, so can we," Jace said, looking down. "Watch your feet — there might be holes dug somewhere…"</p>
+<p>"Good point."</p>
+<p>Grede nodded and kept walking. After another ten minutes or so, Jace suddenly spotted a large, very unusual plant at the base of the railing's foundation.</p>
+<p>Its long stems grew densely outward, forming clusters of fine leaves at the tips. The leaves looked like coarse silver-white hairs, and clustered together they resembled chrysanthemums, pressing against each other to form a tilted silver mass that rippled in the breeze.</p>
+<p>Was this… Silverleaf?</p>
+<p>His knowledge of Silverleaf came mostly from flipping through herbal illustrations in the library, because the crude, interlocking textures and ancient models in the game weren't much help identifying most herbs in the real world.</p>
+<p>"Hold up." Jace stopped Grede, pulled out his scroll, and found the rough sketch and description of Silverleaf. He compared them — close enough. "This is Silverleaf, right?"</p>
+<p>"Let me see." Grede plucked a small stem, rubbed it between his fingers, and sniffed it. "Quite possibly. I know a brother who likes to dry Silverleaf and add it to his bitter ale for flavor — smells about right."</p>
+<p>"A pound of Silverleaf goes for over two silver," Jace said, pulling out his knife. "How much do you reckon this is?"</p>
+<p>"Hard to say." Grede examined the plant. "But it's definitely nowhere near a pound. And once we get it back to Stormwind, the dew on it'll dry off and it'll weigh even less."</p>
+<p>"Well, it's a start at least."</p>
+<p>Jace crouched down, ready to cut a stem — when something in the weeds moved. He flinched so hard he let out a "Fuck!" and yanked his hand back, stumbling a step away.</p>
+<p>"What?" Grede, who'd been scanning the area, turned around. "What happened?"</p>
+<p>Jace swallowed. "Something just moved in there."</p>
+<p>"You sure?" Grede walked over slowly, raising his sword, the tip pointed at the Silverleaf.</p>
+<p>He looked back and forth, saw nothing unusual, and jerked his chin for Jace to take another look.</p>
+<p>Jace nodded and slowly reached out. The moment his knife blade parted a leaf, the weeds trembled again!</p>
+<p>Grede thrust his sword in with deadly accuracy. It seemed to hit something hard with a series of clicks… Then the thing in the weeds started thrashing wildly. Grede heaved and flung it into the air — it was a severed arm!</p>
+<p>Grede went white as a sheet at the sight of the arm wriggling like some giant insect. He actually dropped his sword. When the arm flew off the blade and tumbled away, he scrambled to pick it back up.</p>
+<p>He cursed several times in Dwarvish, then said, "Quick — cut the Silverleaf and let's go!"</p>
+<p>Jace dropped to his knees and started cutting. After he'd cut the whole bundle, he found a dirt hole behind the weeds, just big enough for a person to crawl through.</p>
+<p>"Grede, there's a hole here!"</p>
+<p>"You go first! I'll be right behind you!"</p>
+<p>Grede stood with his sword pointed at the arm still writhing on the ground. Jace glanced back — it looked like a big lizard's shed tail.</p>
+<p>And that thought sent a chill down his spine. If the tail was here, where was the lizard?</p>
+<p>The thought barely crossed his mind before he dove into the hole. Good thing he was lean — he squeezed right through. When it came to the dwarf, that iron barrel took some doing. Jace hacked away at the dirt with his axe and hauled him out.</p>
+<p>The two stood up and leaned against the wall to catch their breath. Jace glanced sideways at the dwarf. "How come you're scared too?"</p>
+<p>Grede said unhappily, "I'm not scared of a whole zombie. But an arm twisting around on its own? Who <em>wouldn't</em> get the creeps?"</p>
+<p>"And here I was thinking you'd be the brave one. One little rustle and you jump like a startled cat. Honestly, it's embarrassing. Then again, I don't expect much from humans anyway."</p>
+<p>The dwarf took a deep breath, stood up, and glanced outside the railing. He looked at the bag in Jace's hand. "So, how much do you think that is?"</p>
+<p>Jace hefted the bag. "Feels lighter than the bag itself."</p>
+<p>"About what I expected."</p>
+</main>
+
+<details class="flags-section">
+<summary>Translator Notes</summary>
+<h2>Flags</h2>
+<p>- <strong>守夜人 (Night Watch):</strong> Not in glossary. Duskwood's self-defense militia in the game. Rendered as "Night Watch" per canonical WoW lore.
+- <strong>邪恶之爪 (Evil Claw):</strong> Listed in glossary as "Evil Claw." Kept as-is.
+- <strong>辛特兰 (the Hinterlands):</strong> Listed in glossary. Used "the Hinterlands."
+- <strong>辛特兰的蜘蛛之神 (Spider God of the Hinterlands):</strong> The quest chain Jace references is the "Spider God" quest in the Hinterlands. Not in glossary.
+- <strong>沙德拉 (Sha'dra):</strong> Not in glossary. The Spider God worshipped by the Amani trolls. Rendered as "Sha'dra" per canonical WoW lore.
+- <strong>阿曼尼巨魔 (Amani trolls):</strong> Not in glossary. Rendered as "Amani trolls" per canonical lore.
+- <strong>希尔斯布莱德 (Hillsbrad):</strong> Not in glossary. Rendered as "Hillsbrad" per canonical WoW lore.</p>
+</details>
+<nav class="reader-bottom-nav">
+  <a href="chapter016.html" class="reader-nav-link">← Chapter 16</a>
+  <a href="/novel/" class="reader-toc-link">Contents</a>
+  <a href="chapter018.html" class="reader-nav-link">Chapter 18 →</a>
+</nav>
+</body>
+</html>

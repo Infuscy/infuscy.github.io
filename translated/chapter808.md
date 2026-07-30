@@ -1,0 +1,121 @@
+## Chapter 808: The Boss of Gadgetzan
+
+A handful of goblin guards led them through Gadgetzan's gates. Under the glow of dim yellow streetlamps, they crossed several narrow streets before finally arriving at a factory-like, boxy high-rise ringed with smokestacks and pipes.
+
+This was the headquarters of the Gadgetzan Water Company. Even the air felt a degree hotter than on the other streets.
+
+Inside the building, the goblins showed them into a small room to wait. It was even more stifling in here — the cramped space wasn't just hot, it was so humid it was hard to breathe.
+
+Two months on a ship to Steamwheedle Port, then a desert crossing, and now sitting in this steamer basket of a place — the heat itself wasn't much of a problem for Jace at this point, but the sticky, damp feeling was truly unbearable.
+
+Jace felt sticky and rank all over, and had no choice but to take off his cloak and undo a few buttons on his robe.
+
+Grede had long since tossed aside his sand-dusted cloak. Wrensa was flushed red from the heat too, forced to undo her collar and fan herself with a leather scroll. Very quickly, the whole room reeked of sour sweat.
+
+The calmest one among them was Molophil. She stood behind Jace looking completely unbothered. The female demon who ought to have been giving off the most unpleasant smell was, at this moment, the freshest one in the room.
+
+Wrensia kept glancing at the succubus, then wearing a helpless expression, as if the flames flickering in the demon's eyes were baking the room even more stuffy.
+
+"Jace." The dwarf wiggled a finger, pointing at the sword at his waist. "Time for your baby to do its thing."
+
+Jace immediately understood what the dwarf meant. He drew his sword, pointed it at the nearby table, and intoned, "Vard, tika, kalt!"
+
+A string of ice crystals immediately sprouted across the table with a series of hissing clicks, quickly forming a piled-up, spike-covered little tower shaped like an ice cream cone. The cold mist spread swiftly across the table's surface in the sweltering room.
+
+Grede stared at the tower and muttered, "Just looking at it, I already feel a good deal more comfortable."
+
+Wrensa let out a breath and nodded. "If the only spell you learned in your years at the Wizard Sanctum was this one, it'd still be worth it." Jace shot her an annoyed look. The elf couldn't help but quirk the corner of her mouth.
+
+As the temperature in the room dropped a notch, nobody felt like saying another word.
+
+From time to time, the footsteps of goblin boots came from the corridor outside, which only made the atmosphere in the room feel all the more silent.
+
+But within that silence, Jace felt like he was hearing something different.
+
+Beyond the clanking of gears, the hiss of steam, and the jumbled footsteps outside, there existed another deep, rumbling sound.
+
+After listening closely for a while, Jace could almost tell what it was — the voice of elementals. The voice of fire. Were the boiler flames of the Gadgetzan Water Company's factory talking?
+
+Jace couldn't make out what the fire was saying; his command of the elemental tongue was far from fluent, and the noisy environment made it even harder to discern. But at the very least, he now knew he had the ability to sense the presence of fire elementals here.
+
+When he focused his full attention on the voices of the fire elementals, he wasn't even sure whether this was something his ears could hear. Gradually, he felt as though he were listening to the fire elementals' dull cries with his spirit — much like the howls of vengeful spirits he'd heard at the Dark Portal, just before unleashing the Hand of Gul'dan.
+
+With a clang, the metal door was suddenly yanked open, snapping him back to reality. A goblin in a white shirt with golden epaulets on his shoulders and black boots trimmed with gold walked in, accompanied by a female assistant wearing hideous, heavy makeup.
+
+This goblin's skin was a pale, yellowish-green. His eyebrows grew above his eyes like tufts of an old cat's whiskers, sticking up in wild clumps — far longer than the sparse lashes on the goblin guards around them.
+
+He looked back and forth at the few of them sitting casually about, then at the dark-haired demon behind Jace. He wiggled his enormous hooked nose and lifted the monocle over his right eye. "Mr. Jace Sesso, Lady Wrensa Windrunner, and Mr. Grede Thunderfist — the heroes who saved the Alliance of Lordaeron. Welcome, welcome to Gadgetzan! I am Marin Noggenfogger. Most folks like to call me Marin Noggenfogger the Great. Of course, that's just a strange Common translation. I don't care for that Common title. Not one bit. So you may call me Mister Noggenfogger, or Doctor Noggenfogger, or just Noggenfogger — all perfectly fine."
+
+"You know us, Noggenfogger," Grede said.
+
+Noggenfogger tossed his head back. "Of course. Your names reached my office long ago. Please forgive my employees their ignorance — they were only trying to protect the company's interests, not to offend you on purpose. I've given him a proper dressing-down. After all, offending honored guests of Gadgetzan is a mistake, no matter the motive."
+
+Noggenfogger didn't pay Jace any particular attention. Judging by his gaze, he seemed more interested in Molophil — his eyes always lingered on her an extra moment when they swept past.
+
+In any case, he hadn't recognized him. After all, Mr. Jack Slovak had nothing to do with Jace Sesso.
+
+"So we don't have to pay?" Wrensa asked.
+
+Noggenfogger waved his hands. "Of course not, of course not. What I mean is, the Gadgetzan Water Company has never made things difficult for travelers wanting to cross the desert. After all, in Tanaris, even surviving is hard enough, and the Water Company was founded on the principle that every good person in this desert should be able to live. I imagine he only held you back because he was worried you were spies for the sand bandits. These days, there are more and more forces and factions that want to see the Water Company go bankrupt. They infiltrate this city, disrupt the industry that I and every decent person rely on for our livelihoods, and put everyone on edge… We can't help but be a little sensitive."
+
+Grede nodded. "That's understandable."
+
+"So this whole thing was a misunderstanding," Noggenfogger said. "I hope you enjoy a lovely stay in Gadgetzan. If there's anything I can help with, I'll do everything in my power… That makes us friends, doesn't it?"
+
+"Actually, there is one thing we need help with," Grede said. "Does Gadgetzan have an airship to Everlook? Where?"
+
+"Of course. The airship tower is right by the northern city wall." Noggenfogger pointed north. "An airship arrives in Gadgetzan tomorrow morning, and it departs for Everlook in the evening. The voyage takes no more than a week. If that's the information you're after… Ah, look at my head. To express my apologies, I'll personally buy your tickets to Everlook as compensation for this trouble!"
+
+"And the return trip?" Jace asked.
+
+"The same both ways. I'll give each of you a card in a moment!" Noggenfogger said with a grin.
+
+At this, Wrensa's head lifted sharply from behind, her eyes finding Jace. Jace noticed her gaze. He looked at Molophil, who simply smiled at the two of them in silence.
+
+Even though none of the three said a word, Jace knew they all felt the same thing — that this entire affair seemed deliberately staged by Noggenfogger to make the three of them owe him a favor.
+
+There was no evidence, and the beaming Noggenfogger hadn't asked for anything in return, but the goodwill he was showing was impossible to take at face value — especially from a goblin. This generous.
+
+"We've never been on an airship. Anything we should know?" Jace asked.
+
+"If I were to say anything — best stay put inside the cabin. Don't wander out onto the deck while we're in the air." Noggenfogger held up a finger. "Other than that, there's not much else to note. You can find an observation deck at the back of the airship where you can freely enjoy the beautiful sights of Kalimdor, and have a comfortable journey. If you were to travel overland to Everlook, it would take at least six months. I'm not exaggerating in the slightest — whether you'd make it there alive is questionable! By comparison, the airship is safe, comfortable, and fast…"
+
+"Trade Cartel airships don't have a great reputation on the other continent, Mister Noggenfogger," Wrensa said.
+
+Noggenfogger gave an awkward laugh. "That's all in the past, the noble Lady Wrensa Windrunner. I know the orcish army brought heavy suffering to Quel'Thalas, but ours was purely a commercial relationship. They bought our ships and airships; we took those monsters' money… Other than skin color, we have absolutely nothing else in common with the Horde."
+
+Wrensa said, "Discussing this topic with you is pointless. I was referring to the airship's safety itself."
+
+Noggenfogger nodded respectfully and rubbed his hands together. "Regarding the airship's safety, you can rest fully at ease. As I just said, airships are battle-tested. They sail steadily through the gunfire of Kul Tiras warships and weave through the thunderous attacks of gryphon riders… At present, aside from one airship struck down by a windstorm summoned by a centaur shaman, we haven't had a second serious incident. But even that accident was caused by outside factors, not a problem with the airship itself."
+
+Hearing Noggenfogger mention gryphon riders, Grede snorted unhappily. "What's the threshold for a 'serious incident'?" Jace asked.
+
+"Three or more fatalities, or one fatality plus five or more serious injuries," Noggenfogger answered crisply. "We've modified the flight path to avoid places prone to trouble — airspace over centaur tribes, thunder lizards, harpy roosts, windcaller habitats, and the like. So safety has improved enormously. There haven't been any more disasters of that magnitude."
+
+"The swamp?" Jace asked.
+
+Dustwallow Marsh — the land behind Tidefury Cove that the *Clever Traveler* had approached on their first arrival in Kalimdor. Deep in that swamp was the true lair of the black dragon princess Onyxia, home to countless black whelps and drakes of all sizes.
+
+Compared to the dangers in the swamp, what were a few thunder lizards?
+
+"Since we have to go around the centaur territories, our airship definitely passes over the northern part of the marsh. Is there a problem, Mister Sesso?" Noggenfogger said. "Nothing that flies up there."
+
+"Nothing that flies?" Jace asked skeptically.
+
+"The airship's been flying that route for years. There's no lethal danger, though sometimes the windcallers chase us from the Shimmering Flats all the way to the edge of the marsh." Noggenfogger said helplessly.
+
+Jace mulled it over. Onyxia's lair should be in the southern part of the marsh — perhaps that was why the airship had never encountered any black dragons.
+
+Of course, the black dragons probably didn't want other dragonflights to find their hiding place, so they wouldn't casually attack a harmless goblin passing near their lair and draw attention. That was probably another reason the goblins hadn't discovered the black dragons.
+
+"We'd like a place to stay tonight, Mister Noggenfogger," Grede said. "No problem, I hope?"
+
+"For honored guests who've come so far, it's the least I can do," the goblin said.
+
+## Flags
+
+- **POV consistency**: Third person throughout.
+- **Glossary adherence**: 诺格弗格 → Marin Noggenfogger / Noggenfogger; 加基森水业公司 → Gadgetzan Water Company; 热砂财团 → Trade Cartel; 锈水财阀 → Bilgewater Cartel; 库尔提拉斯 → Kul Tiras; 狮鹫骑士 → gryphon riders; 尘泥沼泽 → Dustwallow Marsh; 奥妮克希亚 → Onyxia; 驭风者 → windcallers; 闪光平原 → Shimmering Flats; 永望镇 → Everlook; 奎尔萨拉斯 → Quel'Thalas; 部落 → Horde; 洛丹伦联盟 → Alliance of Lordaeron; 古尔丹之手 → Hand of Gul'dan; 黑暗之门 → Dark Portal; 巫师圣殿 → Wizard Sanctum; 萨拉斯语 → Thalassian; 通用语 → Common; 卡利姆多语 → Kalimdor tongue; 地精语 → Goblin.
+- **Tone**: Jace's dry internal observations preserved (Noggenfogger's "generous" goblin routine, the Jack Slovak alias relief, the three-way silent agreement that this is staged).
+- **Lore accuracy**: Onyxia's lair in southern Dustwallow, Noggenfogger's canonical goblin bomb-squad persona, Kul Tiras warships, centaur windcaller downed-airship incident all preserved.
+- **Chapter title**: "The Boss of Gadgetzan" — natural English for 加基森的头儿.

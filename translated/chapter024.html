@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 24: A Strange Scroll — The Wobbly Peach</title>
+<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+<style>
+/* Reading layout — ponytail: inline so generated pages need no Jekyll build */
+:root {
+  --reader-max: 42rem;
+  --reader-bg: #fefefe;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+}
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a {
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+}
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress {
+  color: var(--reader-muted);
+  font-size: .85rem;
+}
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  letter-spacing: -.02em;
+  color: #0f172a;
+  margin: 0 0 2rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 2rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  margin: 0 0 1.25rem;
+  color: var(--reader-text);
+}
+.reader-content hr {
+  border: 0;
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 6rem;
+}
+.reader-content hr::before {
+  content: '· · ·';
+  color: var(--reader-muted);
+  font-size: 1.2rem;
+  letter-spacing: .3em;
+}
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover {
+  background: #eff6ff;
+  border-color: var(--reader-accent);
+}
+.reader-nav-link.disabled {
+  color: var(--reader-muted);
+  border-color: transparent;
+  pointer-events: none;
+}
+.reader-toc-link {
+  color: var(--reader-muted);
+  text-decoration: none;
+  font-size: .9rem;
+}
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+/* Flags */
+.flags-section {
+  max-width: var(--reader-max);
+  margin: 2rem auto 0;
+  padding: 0 1.25rem;
+}
+.flags-section summary {
+  cursor: pointer;
+  color: var(--reader-muted);
+  font-size: .9rem;
+  font-weight: 600;
+  padding: .5rem 0;
+  border-top: 1px solid var(--reader-border);
+  margin-top: 2rem;
+}
+.flags-section summary:hover { color: var(--reader-text); }
+.flags-section h2 { font-size: 1rem; font-weight: 700; margin: 1rem 0 .5rem; }
+.flags-section p { font-size: .9rem; line-height: 1.6; color: var(--reader-muted); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: 1.4rem; }
+  .reader-content p { font-size: 1.05rem; line-height: 1.75; }
+}
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/novel/">← Table of Contents</a>
+  <span class="reader-progress">Chapter 24 of 1862</span>
+</div>
+<main class="reader-content">
+<h1>Chapter 24: A Strange Scroll</h1>
+<p>"It's not my blood, it's its." The dwarf moved closer to the wolf's head and looked for a moment. "This isn't an Elwynn wolf. This is an orcish warg. The orcs brought a lot of alien creatures from Draenor. The worst of the plague, besides ogres, were these wolves. There were no horses to ride on the other side of the Dark Portal, so the orcs rode these into battle."</p>
+<p>Looking at the giant wolf lying on the ground, Jace gripped his axe. "Are its claws Evil Claws?"</p>
+<p>"Evil enough." the dwarf agreed.</p>
+<p>Jace was just about to raise his axe and chop the claws off when a thought struck him — could the claws of an Outland beast be used as raw material for Evil Claws just like the creatures of Azeroth?</p>
+<p>Whatever, chop them down first and figure it out later.</p>
+<p>Grede lifted the warg's upper jaw and examined its knife-like fangs, turning them back and forth.</p>
+<p>"Tell me, Jace, what's it like over there?"</p>
+<p>Jace raised his axe, aligned the blade with the wolf's claw and took aim. "Where?"</p>
+<p>"The other side of the Dark Portal, obviously." Grede patted the giant wolf's forehead. "Look at this wolf. It's got a mouth, a mouth full of teeth, ears, fur, blood just as red… you could say it's just an oversized gray wolf with a long neck and long legs. If I didn't know what animal this was, and you told me it was a wolf, I'd believe it. For all we know, they've got deer over there too, and sheep for the wolves to eat, grass, flowers and trees. Maybe even dwarves and humans — Draenor-men and Draenor-dwarves."</p>
+<p>Jace barely held back the urge to give him a premature lore dump. "Maybe."</p>
+<p>"Once the Expedition gets back, everything'll be clear." The dwarf rolled his shoulders and shook his head. "Can't wait."</p>
+<p>The two of them worked for half an hour. Grede cut some meat and chopped a leg bone to take back to Raven Hill for a meal. The claws Jace would carry.</p>
+<p>It was a shame about the whole wolf pelt. The wolf was absurdly heavy, and skinning it was several times harder than a small wolf. Even if they got it off in one piece, the two of them could barely carry it back. All they could do was leave it out to dry here.</p>
+<p>Just as they were about to leave, Jace suddenly seemed to remember something.</p>
+<p>"Didn't we come here looking for an orc warlock?"</p>
+<p>"Isn't there just a wolf here?" the dwarf shot back.</p>
+<p>"Then what was this wolf eating just now?" Jace asked again.</p>
+<p>The two turned their heads at the same time, looking toward the corner where the beast had been feeding.</p>
+<p>The wolf's corpse had filled the whole space with the smell of blood. In the corner, a pile of severed limbs, shredded meat and bones lay in a mess. That clearly wasn't a wolf's corpse.</p>
+<p>"Look here, Jace." Grede called from the other corner. Jace looked over and saw a dark brown head at his feet, lying there with its eyes wide open, staring right in this direction.</p>
+<p>It was an orc's head. Its skin was much darker than a normal orc — whether it was a green-skinned orc who'd drunk demon blood or a brown-skinned one who hadn't, you rarely saw skin this dark.</p>
+<p>The dwarf said, "You check over there, I'll check over here. There's some stuff over here too."</p>
+<p>Jace nodded. He lifted a piece of torn clothing — a black-and-gray rag, with a pattern that wasn't very visible, hard to make out because it was completely soaked in blood.</p>
+<p>He saw an iron chain buried under the bones and rags, and grabbed it and pulled it out little by little. As he pulled, a bloodstained leather pouch came with it.</p>
+<p>It was hard to tell what kind of leather the bag was made from. The craftsmanship was exquisite — not orcish in style at all.</p>
+<p>He untied the bag's binding cord, and the first thing to catch his eye was the spine of a book.</p>
+<p>Jace felt his heart thump with excitement. He carefully pulled the book out — only to find that only the spine was intact. Most of the pages had been burned away, and the rest were curled and yellowed.</p>
+<p>The bag was fine, but the book was ruined. That meant the book was probably something the orc had picked up. There wasn't much dust on it, and the charred parts too brown to read seemed to have been carefully removed. What was left was basically the yellowed areas where the text was still legible. Looked like the orc had taken good care of this damaged book too.</p>
+<p>Since he'd been willing to keep it, the book must have some use.</p>
+<p>Jace couldn't read a single word of the text. He couldn't even tell if it was Demonic or Orcish — he'd never seen either script. Either way, he'd take it back and study it.</p>
+<p>He kept flipping through and found a second book.</p>
+<p>This one was mostly intact, just that the pages were stained with a lot of blood. The text was dense — Jace couldn't read a word of it. And this book had no illustrations, no runes — just rows and rows of text of all sizes with what looked like annotations. It made his head hurt just looking at it.</p>
+<p>But from what Jace knew, he could more or less tell the book had two sets of language, and the two seemed to have some kind of correspondence.</p>
+<p>Could this be a language-learning book? For orcs to learn Demonic?</p>
+<p>In Draenor, many young orcs had turned to the Void and fel magic only a few years ago. It was entirely possible they couldn't get familiar with the Demonic incantations used in dark magic in a short time — even after coming to Azeroth, they might need to keep studying.</p>
+<p>But he couldn't jump to conclusions either. He was completely in the dark, with no clue at all.</p>
+<p>It wasn't like an English speaker reading a French article, or a Chinese speaker reading Japanese news — at least there'd be a few words or characters you half-recognized on a page, enough to guess the general topic.</p>
+<p>Right now these two books were Arabic to him. He didn't know whether to read from the left or the right. He wasn't even sure he wasn't holding them upside down.</p>
+<p>Under this book, at the very bottom of the bag, there was a leather scroll.</p>
+<p>The scroll had no damage at all, and no bloodstains or other dirt. It had been kept in perfect condition.</p>
+<p>Jace picked it up and looked. Like before, he couldn't read a single word — but a symbol in the lower-right corner caught his eye.</p>
+<p>It was a purple rune, shaped like the letter S and also like a bolt of lightning, with a sharp carving style like a stone glyph chiseled by a blade.</p>
+<p>There was a dot inside the upper curve of the S, giving the whole symbol a style that was dead ringers for the later Horde emblem.</p>
+<p>Jace kept feeling like he'd seen this symbol somewhere before — in the game… This was the Shadow Council's sigil.</p>
+<p>That's right — Outland in the level-70 version of The Burning Crusade, the shattered remnant of Draenor, the Draenei tombs of Auchindoun, the Shadow Labyrinth was full of purple banners hanging with this symbol. After all, that was one of the Shadow Council's main gathering points.</p>
+<p>This orc — was actually a member of the Shadow Council?</p>
+<p>The Shadow Council wasn't some two-bit club. It was founded and led by the first orc warlock, Gul'dan, who recruited orcs — even ogre sages — to study shadow and demonic magic. It was the most powerful warlock organization of the time. Some speculated that the Shadow Council's members even included actual demons.</p>
+<p>The Shadow Council, in league with Medivh — who was controlled by Sargeras — had orchestrated the corruption of the orcs and the opening of the Dark Portal. After the Horde's Warchief Blackhand fell for Gul'dan's manipulation, they became the power behind the entire Horde's throne.</p>
+<p>You could say that at this point in time, every member of the Shadow Council was not only a fanatical follower of Gul'dan, but also an absolute elite within the Horde.</p>
+<p>These warlocks' eyes glowed with a dark purple or emerald arcane light from absorbing too much shadow and fel energy, and their skin had turned dark from proximity to Void energy — exactly matching the mutations on this guy's head.</p>
+<p>So why had this Shadow Council member died here in obscurity?</p>
+<p>Jace was a little worried that the orc's black skin and gray robe had led him to connect this symbol to the Shadow Council. After all, he couldn't be completely sure his memory wasn't off. There was also a chance this warlock didn't belong to the Shadow Council.</p>
+<p>As long as he could figure out the contents of this scroll, maybe everything would become clear.</p>
+<p>"Look what I found." Grede walked over from behind the door holding a black rod. "Take a look at this."</p>
+<p>He held the rod up to Jace. "What do you think this is made of?"</p>
+<p>Jace felt the rod. Its material was indeed neither metal nor wood — something in between.</p>
+<p>The end of the rod had a base-like thing, which looked like it should have held something, but it was empty now.</p>
+<p>"This is the orc's staff, right?" Jace said.</p>
+<p>The dwarf asked, "You're sure this orc is the warlock the elf mentioned?"</p>
+<p>Jace shook the bag in his hands. "Look at this pouch, and this scroll… take a look at the marking on it. Familiar?"</p>
+<p>He handed the scroll to Grede, who turned it over and over. "How am I supposed to read this? I can't read a word. This symbol… I haven't seen it either. Looks like the emblem on the Horde's banner."</p>
+<p>"He's wearing a black robe, at least a long robe." Jace said. "And these two books inside… I can't say what they're about, but your average orc warrior probably wouldn't have the patience to read books packed this dense with text. Even if he's not a warlock, he's some kind of scholar."</p>
+<p>"Orc scholar." Grede scratched his chin. "Sounds as ridiculous as 'orc thief'."</p>
+<p>He used the rod to pick up the pouch. "Whatever it is — staff, walking stick, whatever — it can at least work as a carrying pole to save me some effort hauling this bag. Did you find any herbs?"</p>
+<p>"No." Jace said. "This orc definitely didn't come here to gather anything."</p>
+<p>"Then we came all this way for nothing." Grede said. "At least we got some meat."</p>
+<p>Jace looked at the scroll. "You think this scroll could be a letter from the orcs? Conveying orders or something? If we translate it, we might be able to figure out their movements."</p>
+<p>"We'd better not jump to conclusions." Grede glanced at the scroll again. "How about we show it to your boss?"</p>
+<p>Jace didn't respond. He didn't know whether handing this scroll over to the Wizard Sanctum would be a good thing or a bad thing for him.</p>
+<p>He glanced toward the door. "We'd better get going. Any later and we won't make it back to Raven Hill before dark."</p>
+</main>
+
+<details class="flags-section">
+<summary>Translator Notes</summary>
+<h2>Flags</h2>
+<p>- <strong>座狼</strong> → "warg": confirmed by Grede as an orcish mount from Draenor. Glossary lists 座狼 = Warg.
+- <strong>德拉诺人 / 德拉诺矮人</strong> → "Draenor-men / Draenor-dwarves": Grede's speculative terms for hypothetical native races of Draenor.
+- <strong>恶魔语 / 兽人语</strong> → "Demonic / Orcish": the two scripts Jace can't identify. Not in glossary as language names.
+- <strong>语言学习书</strong> → "language-learning book": Jace's guess at the second book's purpose (Orcish–Demonic primer).
+- <strong>阿拉伯语</strong> → "Arabic": Jace's analogy for a completely illegible script (modern transmigrator reference).
+- <strong>暗影议会徽记</strong> → "Shadow Council's sigil": the purple S-shaped rune on the scroll.
+- <strong>燃烧远征</strong> → "The Burning Crusade": the WoW expansion (Jace's game knowledge).
+- <strong>70级版本</strong> → "level-70 version": the TBC cap, Jace's frame of reference.
+- <strong>奥金顿 / 德莱尼墓穴</strong> → "Draenei tombs of Auchindoun": dungeon hub in Terokkar Forest. Not in glossary.
+- <strong>暗影迷宫</strong> → "Shadow Labyrinth": the Auchindoun dungeon where the Shadow Council's banners hang. Not in glossary.
+- <strong>古尔丹</strong> → "Gul'dan": founder of the Shadow Council. Not in glossary.
+- <strong>黑手</strong> → "Blackhand": Horde Warchief manipulated by Gul'dan. Not in glossary.
+- <strong>萨格拉斯</strong> → "Sargeras": the titan controlling Medivh. Not in glossary.
+- <strong>麦迪文</strong> → "Medivh": per glossary.
+- <strong>部落徽记</strong> → "Horde emblem": Grede's comparison for the symbol's style.
+- <strong>担子</strong> → "carrying pole": the repurposed staff used to haul the bag.
+- <strong>巫师圣殿</strong> → "Wizard Sanctum": per glossary; Grede suggests showing the scroll to Jace's boss there.</p>
+</details>
+<nav class="reader-bottom-nav">
+  <a href="chapter023.html" class="reader-nav-link">← Chapter 23</a>
+  <a href="/novel/" class="reader-toc-link">Contents</a>
+  <a href="chapter025.html" class="reader-nav-link">Chapter 25 →</a>
+</nav>
+</body>
+</html>

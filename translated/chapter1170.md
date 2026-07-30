@@ -1,0 +1,137 @@
+## Chapter 1170: Nagiva's Altar
+
+Jace was quite interested in that magician Nagiva the ogres had mentioned. Clearly, he wasn't the only warlock who thought this forest was a good place to perform a summoning ritual.
+
+The ogres led the group through the dense forest to a cleared-out open space. The ogres had built a simple little plaza here, and the high platform assembled from ruined stones in the middle was probably the so-called altar.
+
+The village had few people about at the moment — only a few ogre guards keeping watch. Both the altar and the surrounding torches and small huts looked quite crude, and as if they'd been abandoned.
+
+Although according to what the ogres said, this altar had been built specifically to summon Kalez — meaning it had been erected at most less than a year ago.
+
+"This is our Nagivara Altar." The ogre chief pointed at two ogre skulls hanging on the wooden pillar at the highest point of the altar. "That is Nagiva."
+
+"Something feels very off here, Jace," Vereesa murmured.
+
+It wasn't just Vereesa. Jace also felt the atmosphere here was very wrong. The shadow in the surrounding forest was relatively calm, but the shadow energy here was being pulled by something — exceedingly cold and vicious, like those human towns destroyed by Karazhan's explosion.
+
+Could there be painfully dead spirits here unwilling to disperse? But this was an altar built by ogres. Or had countless ogres been sacrificed here to summon Kalez?
+
+But that didn't add up either. If souls were consumed in a summoning ritual, they shouldn't have the ability to linger here spreading pain and fear.
+
+Being here, Jace even detected the gluttony of Ulthalesh on his back. It began emitting unintelligible murmurs, as if trying to urge Jace to devour all the souls here.
+
+Which meant the souls wandering here still possessed considerable magical power? Ulthalesh absolutely wouldn't be interested in the souls of ordinary ogres.
+
+Jace refocused his attention on Nagiva's two heads. There were still some traces of fel and shadow residue on them.
+
+That was unsurprising. After many powerful warlocks died, their skulls would be made into magical implements. The power of Gul'dan's skull could even reopen the Dark Portal.
+
+Could it be that the inauspicious aura of this entire altar came from the soul of this dead warlock?
+
+"How did Nagiva die?" Jace asked.
+
+"He died in a failed summoning ritual," the ogre chief answered. "He felt he was almost on the verge of success…" Just then, a two-headed ogre appeared from the other side of the altar clearing.
+
+Although he had two heads, he held a long-handled battle axe and wore heavy armor.
+
+This two-headed ogre had been sizing up Jace's group ever since he appeared. The ogre chief who'd brought Jace's group over walked up to him and said, "Respected King the Cursed One Mashvol, these are the warlocks who claim they can summon the High King."
+
+"There is only one warlock here." Mashvol pointed at Jace. "This human — the rest are his accomplices. You've been fooled, Kigu. A single warlock could never summon the High King back to us!"
+
+Kigu clearly hadn't expected this. He turned back to look at Jace, as if he'd begun to doubt too. "What are they saying, Jace?" Grede asked.
+
+"They don't believe us," Morophil said. "What should we do, Master?"
+
+Jace narrowed his eyes at this Mashvol, then asked in Orcish, "Your magician Nagiva was also alone."
+
+"He was not alone," Mashvol said. "He had my help to succeed."
+
+To Jace, when an ogre wanted to lie, it was practically like writing "I'm about to start lying" across his chest.
+
+But Mashvol wasn't so simple. This two-headed ogre kept speaking with the one-eyed head, while the other head remained silent, staring unblinkingly at Jace, never opening its mouth — making people extremely uncomfortable.
+
+Jace vaguely felt he was hiding something, but that feeling wasn't all that clear either. There was no doubt that although Mashvol didn't have a staff in his hand, he was also a warlock skilled at manipulating dark emotions.
+
+But how the owner of those two heads hanging from the wooden pillar had died was already obvious.
+
+"You don't want your High King to come back," Jace said. "Because you know that once he returns, you'll have to give up your throne and return it to him. You killed Nagiva, didn't you?"
+
+"Foolish accusation." The other two-eyed head finally spoke through gritted teeth. "Nagiva died of his own stupidity!"
+
+"Kill these self-righteous intruders — they are challenging your king!" the one-eyed head roared.
+
+Just as the ogre chief Kigu, somewhat hesitant, was raising his club to obey the king's order, a piercing shriek suddenly whipped past from the side!
+
+Two torrents of searing flame, one after another, struck both of Mashvol's heads in turn!
+
+The two-eyed one had its helmet blasted apart by the powerful flame. In the blink of an eye, both heads had charred into two blackened masses.
+
+And Mashvol didn't even react much before toppling to the ground, not even letting out a scream.
+
+Morophil walked over, pulled the two Apocalypse blades from the fiercely burning corpse, raised her arm, and pointed at the already-terrified Kigu. "Now you have a new queen. Kneel before my master."
+
+"It… it is Queen Sayard."
+
+The ogres around them were all so frightened by this scene that they prostrate themselves on the ground, not daring to move. Even the three people behind Jace hadn't figured out what had happened yet.
+
+"What's going on?" Grede asked.
+
+"Dynasty change," Jace said, looking toward the altar. "Let's get on with our business."
+
+"I'm going to cram in some Orcish study these days," Vereesa said. "Considering our plans going forward…"
+
+"Count me in," Grede nodded.
+
+Several people stood around the altar keeping watch over the ogres, who had already been frightened into a daze. Jace came to the middle of the altar platform.
+
+He examined the dried blood magic circle on the altar platform. It looked as though the magician Nagiva had known that summoning demons required blood, but he hadn't known specifically how to use that blood.
+
+If one simply wanted to pull a powerful demon over from the Twisting Nether, then one needed to use demon blood that was as powerful as possible — like that massive summoning ritual Jace and that group of warlocks who'd since fled who-knows-where had performed at the Storm Altar.
+
+If one wanted to summon individually, it had to be done with the blood of the master who'd already established a contract with the demon being summoned.
+
+Jace used the ogres' water mixed with a purification potion to wash away the residual ritual blood on the altar, then carefully re-applied the magic circle with his own blood he'd been accumulating day after day these past days, following the scroll the Dark Iron dwarves had given him.
+
+Summoning Kalez definitely wouldn't be as simple as summoning Dazaralm IV. Everything had to be done as perfectly as possible to save as much mana and consume as few souls as possible.
+
+After all, last time Sazeno had summoned Kalez from Deadwind Pass to the Obsidian Elemental Plane that was still connected by a rift to Stormwind, the distance wasn't that far compared to that between the Twisting Nether and Azeroth. This time Jace was summoning Kalez back from God-knew-where — the difficulty wasn't even in the same league.
+
+He glanced at the ogres around him and confirmed they didn't dare budge an inch under Morophil's intimidation, then looked at Sazeno. "How's my drawing?"
+
+"I think it's pretty close, Master!" Sazeno said.
+
+Jace nodded, stepped into the summoner's position slightly to the right of the center of the altar, cast an Arcane Intellect, then said, "Curse of Tongues."
+
+"Yes." Sazeno raised both hands and chanted an incantation to place a curse on Jace, then fled from the magic circle. Jace felt his throat slowly burning bit by bit while unwrapping the silk cloth wrapping Ulthalesh.
+
+Grede, Vereesa, and Solia all couldn't help but look over. Before Jace had even started chanting, the blood magic circle he'd drawn on the altar had already begun to glow with fire.
+
+By now, even the trace of a playful smile on Morophil's face had little by little faded away.
+
+"Velilinki, Tosintani, Tosesta, Subinath Ereduin, Kalez, Ma'alimasta…"
+
+Jace raised the Ulthalesh staff high toward the sky, using his will to pull at the shadow power permeating the entire forest. The blood magic circle on the altar burned with terrifying purple fire along with it.
+
+The wooden pillars on the altar were also ignited. The two Nagiva skulls hanging from above began their jaws trembling, emitting the clatter of bones knocking together. Flames gushed from all three eye sockets at once, as if they'd suddenly opened their eyes. Quite a few ogres below were so frightened by this scene that they sobbed and howled.
+
+Ulthalesh's souls began to go berserk, roaring wildly in Jace's mind. Among them Jace could even hear quite a few unintelligible Atal'ai troll words — probably some kind of abuse.
+
+But Jace could also hear a thread of hard-to-make-out Orcish amid the souls' cries.
+
+…I, Nagiva, am willing to offer my own soul for the return of the High King.
+
+Nagiva's skull was burned completely to ash, scattered by the currents of air churned up by the magic. The shadow of the forest clearing where the altar stood rotated and gathered together toward the center of the altar, into the ribcage of Ulthalesh's bones.
+
+At this moment, Jace only felt his mana burning violently like kindled firewood. Borrowing the purple-red flame and arcane light from this mana's burning competed to illuminate, rising into the sky like evil claws, tearing open a fearsome wound in mid-air before the utterly astonished gazes of Vereesa, Grede, and Solia.
+
+A brown demonic claw reached out from within, tearing the wound further open…
+
+That ugly, familiar, evil head poked out. One massive demon horn immediately knocked the already charred wooden pillar crashing down.
+
+The altar cracked. The entire ground was shaking. The ogres couldn't even kneel properly and cried for their fathers and mothers in terror. The others also forgot about keeping watch over the ogres, each finding something fairly sturdy to hold onto to avoid falling over.
+
+And Jace could only barely maintain his balance in the center of this chaos, sustaining the ritual… Finally, both of the lord of doom's horns poked over.
+
+He asked in Demonic with a voice that could make one's chest vibrate painfully: "Tell me — is that black dragon dead, Master?"
+
+The dark magical wind pouring in from the Twisting Nether grew even more violent with his voice, blowing so hard Jace could barely open his eyes. He had to shout against the force of it: "Get the rest out first, then we'll talk!"

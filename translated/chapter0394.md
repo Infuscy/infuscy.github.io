@@ -1,0 +1,91 @@
+## Chapter 394: Extracting a Soul
+
+Jace opened the small pouch of soul shards Mosul had given him, only to find that there were only two soul shards still glowing inside.
+
+Moreover, both of these soul shards had been infused with arcane energy, specifically for summoning felhounds. Jace didn't know if using this kind of soul shard to cast magic would produce other unpredictable results.
+
+He looked at the imp. "Sazeno, how are souls forged into these soul shards?"
+
+"Master, those soul-harvesting demons are the best at this!" the imp said.
+
+"That's the same as not saying anything," Jace sighed.
+
+In the game, to collect a soul shard, you had to use a soul-draining spell. If the target died during the draining process, its soul would be collected by the warlock.
+
+Jace didn't have the slightest clue about this kind of magic right now. He looked at the succubus again. "Do you know, Morophil?"
+
+"You finally remembered to ask me?" Morophil said, propping her chin on her hand. "I've captured more than just demon souls, master. I've also used corrupted beasts to create dark soul masses. I think, since you could use a sheep's soul to catch my attention, then the souls of ordinary beasts here should be enough to create small soul shards."
+
+"You actually know this magic?" Jace asked.
+
+"Don't forget what I used to do, master," Morophil tilted her head. "To the Eredar Witch Kings and the lords of the abyss, what use is a demon's corpse? The Twisting Nether is full of palaces built from demon remains... Of course it's the soul that matters most. A reaper who can't harvest souls is barely worthy of the name."
+
+"Why didn't you say so earlier?" Jace looked around. The quiet forest was empty. Right now, he was actually hoping some giant dire wolf would come ambush him.
+
+"Most of the beasts in Duskwood have already been corrupted by shadow, Morophil. We should be able to find the kind of powerful enough soul shards you're talking about here."
+
+In the game, Duskwood was full of wandering hungry wolves. But this forest... was empty. They occasionally heard a beast cry, but when they followed it, there was nothing there.
+
+After a whole afternoon of this, by dusk he'd walked into a dense forest with a faint stench of rot, where insects could be heard buzzing everywhere.
+
+Going a bit further in, there seemed to be something whitish on the trees ahead.
+
+He remembered the troll ruins he'd encountered in the Hinterlands. Was this spider silk?
+
+He looked up into the trees. Sure enough, there were thread-like white substances hanging from the branches, drifting back and forth.
+
+Jace continued forward. The more old trees he encountered draped in these white threads, until he entered another stretch of dense forest where spider webs were everywhere.
+
+He found a spider web, took a running start, and threw himself onto it, thrashing around.
+
+"I'm done for! Save me! Help! I don't want to die!" Suddenly a burst of fire burned away the spider web around him. The web rapidly lost the strength to support Jace under the flames, and he splat into the mud.
+
+After climbing back up, he turned to look at the imp behind him, hands on its waist, looking immensely pleased with itself.
+
+"How's that? I saved the stupid master's life again!"
+
+Morophil emerged from the shadows, grabbed the imp by the neck, and lifted it up. "Master was trying to lure the spiders over... or what are we going to do about the soul shards?"
+
+"Ah... master, I'm sorry..." the imp coughed.
+
+"Vanish!" Jace said.
+
+The two demons disappeared in a flash of light.
+
+Jace looked at the surrounding forest. With that commotion, he didn't know if there were any spiders left here.
+
+He wandered around this suspected spider nest forest, then walked to another area with spider webs. He found a fairly intact web and threw himself onto it.
+
+"Ow, I'm done for! Damn spider! I'm a goner... I don't want to die! Help!"
+
+Those shouts from earlier had fooled the imp. A spider's intelligence shouldn't be higher than the imp's, right? Thinking back to Sazeno's brainless operation from before, and then thinking about the size of Azerothian spiders, he actually hesitated a bit.
+
+After thrashing for a while, he didn't sense any movement from the surrounding spiders. He suddenly remembered that animals seemed to have the ability to sense fear. Was it that he seemed too calm? He should show fear or exhaustion, let the spider sense it? He thrashed a bit more, until he'd worked up a sweat, then looked at the treetops, looked at the dark shadows in the distance, and recalled a few things that scared him a bit — especially that naga he'd encountered in the fishing village that day... He inhaled, then exhaled.
+
+Not long after, there seemed to be movement up in the tree.
+
+Several thin, needle-like black limbs carefully probed down along the web. Jace looked at those few red eyes arranged in a cluster, buried in the shadows, corrupted by shadow, and felt his scalp tingle.
+
+"Strike!"
+
+A shadow suddenly flew in from somewhere, grazing past the spider. The spider made a few hissing sounds and tumbled down from the trunk. Its entire body was about the size of a calf.
+
+Those chisel-like mandibles could probably drill a hole through a skull without much effort.
+
+But by this point its belly had already been sliced open by the black sword Morophil had thrust at it, a massive gash spilling yellow and white innards all over the ground. The giant black spider tried to struggle to its feet and bolt into the forest, but its strength grew weaker and weaker. Before long, it couldn't even stand up.
+
+Morophil chased after it and grabbed the dying spider. She opened her mouth close to its black body, as if extracting something. As she slowly closed her lips, the spider collapsed and never moved again.
+
+She picked up her black sword, came back, and took a pale purple soul shard from her mouth, holding it out to Jace. "It's not as bright as the infused souls in your pouch — it might not attract a felhound. But I think it'll do."
+
+"Good enough, Morophil," Jace took the shard. "I couldn't ask for more. Before this, I thought I'd only get to attempt twice this trip... I'd still have to go back and buy more shards from Erland Dudmoor."
+
+"Speaking of which, could you teach me this magic?"
+
+Morophil said helplessly, "I'm sorry, master, but this isn't some simple incantation... it's not something I can just teach you and have you learn it."
+
+If this wasn't a learnable kind of magic, then how did Mosul get these shards? If he bought them, then the seller should at least know how to make soul shards.
+
+Even in the game, there were many ways to condense souls into soul shards. Morophil's method clearly wasn't like the soul-draining spell from the game.
+
+In any case, there had to be a way that humans could master.

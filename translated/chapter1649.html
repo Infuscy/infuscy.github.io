@@ -15,6 +15,7 @@
   --reader-muted: #64748b;
   --reader-accent: #2563eb;
   --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
 }
 body {
   background: #f8fafc;
@@ -54,7 +55,7 @@ body {
   padding: 2.5rem 1.25rem 3rem;
 }
 .reader-content h1 {
-  font-size: 1.75rem;
+  font-size: calc(1.75rem * var(--reader-font-scale));
   font-weight: 800;
   letter-spacing: -.02em;
   color: #0f172a;
@@ -68,7 +69,7 @@ body {
   color: #0f172a;
 }
 .reader-content p {
-  font-size: 1.1rem;
+  font-size: calc(1.1rem * var(--reader-font-scale));
   line-height: 1.8;
   margin: 0 0 1.25rem;
   color: var(--reader-text);
@@ -119,6 +120,30 @@ body {
   font-size: .9rem;
 }
 .reader-toc-link:hover { color: var(--reader-accent); }
+/* Font size controls */
+.reader-font-controls {
+  display: flex;
+  gap: .25rem;
+  align-items: center;
+}
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover {
+  background: #eff6ff;
+  border-color: var(--reader-accent);
+  color: var(--reader-accent);
+}
 
 /* Flags */
 .flags-section {
@@ -141,14 +166,15 @@ body {
 
 @media (max-width: 600px) {
   .reader-content { padding: 1.5rem 1rem 2rem; }
-  .reader-content h1 { font-size: 1.4rem; }
-  .reader-content p { font-size: 1.05rem; line-height: 1.75; }
+  .reader-content h1 { font-size: calc(1.4rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1.05rem * var(--reader-font-scale)); line-height: 1.75; }
 }
 </style>
 </head>
 <body>
 <div class="reader-top-bar">
   <a href="/novel/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
   <span class="reader-progress">Chapter 1649 of 1862</span>
 </div>
 <main class="reader-content">
@@ -257,5 +283,14 @@ Everyone nodded and continued along the wall. Jace followed the red dragon and a
   <a href="/novel/" class="reader-toc-link">Contents</a>
   <a href="chapter1650.html" class="reader-nav-link">Chapter 1650 →</a>
 </nav>
+<script>
+(function(){
+  var scale = parseFloat(localStorage.getItem("reader-font-scale")) || 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); localStorage.setItem("reader-font-scale", scale); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); localStorage.setItem("reader-font-scale", scale); apply(); });
+})();
+</script>
 </body>
 </html>

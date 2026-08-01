@@ -1,7 +1,7 @@
 {
   "meta": {
-    "source_2025": "C:/GIT/BAC2025IUNIE/analyze/out/digest.json",
-    "source_2026": "C:/GIT/BAC2026/analyze/out/digest.json",
+    "source_2025": "BAC2025IUNIE/analyze/out/digest.json",
+    "source_2026": "BAC2026/analyze/out/digest.json",
     "generated_by": "analyze/delta.py"
   },
   "overview": {

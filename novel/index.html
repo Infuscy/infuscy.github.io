@@ -99,6 +99,14 @@ title: "Novel"
   padding: 3rem 0;
   font-style: italic;
 }
+.toc-note {
+  text-align: center;
+  color: #94a3b8;
+  font-size: .85rem;
+  margin: 1.5rem auto 0;
+  max-width: 34rem;
+  line-height: 1.5;
+}
 @media (max-width: 600px) {
   .toc-wrap { padding: 5rem 0 3rem; }
   .toc-header h1 { font-size: 1.6rem; }
@@ -110,6 +118,7 @@ title: "Novel"
     <div class="toc-header">
       <h1>Table of Contents</h1>
       <p>1,862 chapters — a Warcraft fanfiction novel</p>
+      <p class="toc-note">Unofficial fan work. Warcraft is a trademark of Blizzard Entertainment — this project is not affiliated with or endorsed by Blizzard.</p>
     </div>
 
     <input type="text" class="toc-search" id="tocSearch" placeholder="Search chapters by title or number…" autofocus>
@@ -127,6 +136,13 @@ const CHAPTERS = [
   {% endfor %}
 ];
 
+// Escape strings before injecting into innerHTML (titles come from site data)
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, function (c) {
+    return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+  });
+}
+
 // Known volume markers: chapter number -> volume label
 const VOLUMES = { 514: "Volume 6", 1758: "Volume 19", 1816: "Volume 20" };
 
@@ -143,11 +159,11 @@ function renderToc(filter) {
       continue;
     }
     if (VOLUMES[ch.num]) {
-      html += '<li class="toc-volume-divider">' + VOLUMES[ch.num] + '</li>';
+      html += '<li class="toc-volume-divider">' + esc(VOLUMES[ch.num]) + '</li>';
     }
-    html += '<li><a href="/translated/' + ch.file + '">' +
-      '<span class="chapter-num">' + ch.num + '</span>' +
-      '<span class="chapter-title">' + ch.title + '</span>' +
+    html += '<li><a href="/translated/' + esc(ch.file) + '">' +
+      '<span class="chapter-num">' + esc(ch.num) + '</span>' +
+      '<span class="chapter-title">' + esc(ch.title) + '</span>' +
       '</a></li>';
     count++;
   }

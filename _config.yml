@@ -6,10 +6,6 @@ description: "Investigatii de date statice despre rezultatele Bacalaureatului. H
 skills: "Investigatii de date · Rapoarte statice · 100% in browser"
 meta_author: Buse Florin-Emilian
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-contact: static
-
 # Color settings (hex-codes without the leading hash-tag).
 # Mirrors the BAC report design tokens: blue accent on a slate ground.
 color:
@@ -44,3 +40,7 @@ credits: 'Rapoarte de date independente, construite cu Python, React si DuckDB-W
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Jekyll excludes dotfiles by default; publish .well-known/
+include:
+  - ".well-known"

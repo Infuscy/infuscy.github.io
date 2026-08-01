@@ -1,0 +1,5 @@
+Contact: mailto:contact@febuse.com
+Expires: 2027-08-01T00:00:00.000Z
+Preferred-Languages: en, ro
+Canonical: https://infuscy.github.io/.well-known/security.txt
+Policy: https://infuscy.github.io/privacy/

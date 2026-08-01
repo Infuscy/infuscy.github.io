@@ -39,7 +39,9 @@ credits: 'Rapoarte de date independente, construite cu Python, React si DuckDB-W
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+# Explicit pattern: keeps front-matter `category` (shown in modals) out of post URLs.
+# `pretty` would inject categories, producing "/investigatie de date/..." paths with spaces.
+permalink: /:year/:month/:day/:title/
 
 # Jekyll excludes dotfiles by default; publish .well-known/
 include:

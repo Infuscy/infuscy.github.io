@@ -9,7 +9,8 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.posts %}
+                {% for post in site.posts reversed %}
+                    <!-- reversed: chronological order (2025 -> 2026 -> delta) -->
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">

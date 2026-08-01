@@ -7,6 +7,7 @@ Jekyll + GitHub Pages frontend for static Bacalaureat data reports. Reports are 
 | Command | Description |
 |---------|-------------|
 | `bundle exec jekyll serve` | Local preview at http://localhost:4000 |
+| `JEKYLL_NO_BUNDLER_REQUIRE=1 ruby C:/Ruby40-x64/bin/jekyll build` | Local build on this machine: `bundle` is broken under git-bash (MSYS path mangling + Gemfile pins conflict with Ruby 4.0's installed gems). This skips bundler and works. Output in `_site/` (gitignored). |
 | `npm run build` (in a report's own repo) | Build a report -> `web/dist/` to copy here |
 
 ## Architecture

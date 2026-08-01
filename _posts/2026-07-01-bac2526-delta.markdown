@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 3
-date: 2025-07-01
-title: "BAC 2025 vs 2026 — Delta"
+date: 2026-07-01
+title: "Bacalaureat 2025 vs 2026 — Delta"
 img: bac2526.png
 alt: BAC 2025 vs 2026 - Raport comparativ delta
 project-date: 2025 - 2026

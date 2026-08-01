@@ -1,7 +1,7 @@
 {
   "meta": {
-    "source_2025": "BAC2025IUNIE/analyze/out/digest.json",
-    "source_2026": "BAC2026/analyze/out/digest.json",
+    "source_2025": "C:/GIT/BAC2025IUNIE/analyze/out/digest.json",
+    "source_2026": "C:/GIT/BAC2026/analyze/out/digest.json",
     "generated_by": "analyze/delta.py"
   },
   "overview": {
@@ -1234,63 +1234,72 @@
       {
         "subject": "alegere",
         "n_changed_2025": 10058,
-        "n_changed_2026": 130709,
+        "n_changed_2026": 15131,
         "pct_up_2025": 64.2,
-        "pct_up_2026": 7.34,
-        "delta_pct_up_pp": -56.86,
+        "pct_up_2026": 63.39,
+        "delta_pct_up_pp": -0.8100000000000023,
         "mean_delta_2025": 0.14,
-        "mean_delta_2026": 0.02,
+        "mean_delta_2026": 0.13,
         "max_swing_2025": 2.9,
         "max_swing_2026": 3.2,
         "biggest_jump_2025": [
           "MH1422600",
           2.9
         ],
-        "biggest_jump_2026": null
+        "biggest_jump_2026": [
+          "IF1789994",
+          3.2
+        ]
       },
       {
         "subject": "materna",
         "n_changed_2025": 307,
-        "n_changed_2026": 6856,
+        "n_changed_2026": 472,
         "pct_up_2025": 62.21,
-        "pct_up_2026": 4.59,
-        "delta_pct_up_pp": -57.620000000000005,
+        "pct_up_2026": 66.74,
+        "delta_pct_up_pp": 4.529999999999994,
         "mean_delta_2025": 0.2,
-        "mean_delta_2026": 0.02,
+        "mean_delta_2026": 0.25,
         "max_swing_2025": 2.0,
         "max_swing_2026": 2.15,
         "biggest_jump_2025": [
           "SM1602324",
           2.0
         ],
-        "biggest_jump_2026": null
+        "biggest_jump_2026": [
+          "HR1761173",
+          2.15
+        ]
       },
       {
         "subject": "profil",
         "n_changed_2025": 11031,
-        "n_changed_2026": 130709,
+        "n_changed_2026": 16090,
         "pct_up_2025": 64.92,
-        "pct_up_2026": 7.79,
-        "delta_pct_up_pp": -57.13,
+        "pct_up_2026": 63.27,
+        "delta_pct_up_pp": -1.6499999999999986,
         "mean_delta_2025": 0.17,
-        "mean_delta_2026": 0.02,
+        "mean_delta_2026": 0.16,
         "max_swing_2025": 2.7,
         "max_swing_2026": 2.9,
         "biggest_jump_2025": [
           "AR1581642",
           2.7
         ],
-        "biggest_jump_2026": null
+        "biggest_jump_2026": [
+          "SB1785594",
+          2.9
+        ]
       },
       {
         "subject": "romana",
         "n_changed_2025": 16524,
-        "n_changed_2026": 130709,
+        "n_changed_2026": 21222,
         "pct_up_2025": 67.68,
-        "pct_up_2026": 10.73,
-        "delta_pct_up_pp": -56.95,
+        "pct_up_2026": 66.07,
+        "delta_pct_up_pp": -1.6100000000000136,
         "mean_delta_2025": 0.27,
-        "mean_delta_2026": 0.04,
+        "mean_delta_2026": 0.23,
         "max_swing_2025": 3.85,
         "max_swing_2026": 3.45,
         "biggest_jump_2025": [
@@ -1298,7 +1307,7 @@
           3.85
         ],
         "biggest_jump_2026": [
-          "romana",
+          "B1775939",
           3.45
         ]
       }
@@ -1611,12 +1620,12 @@
       {
         "key": "AG",
         "rank_2025": 12,
-        "rank_2026": null
+        "rank_2026": 11
       },
       {
         "key": "AR",
         "rank_2025": 26,
-        "rank_2026": 12
+        "rank_2026": 22
       },
       {
         "key": "B",
@@ -1656,22 +1665,22 @@
       {
         "key": "CL",
         "rank_2025": 22,
-        "rank_2026": 17
+        "rank_2026": 27
       },
       {
         "key": "CS",
         "rank_2025": 21,
-        "rank_2026": 14
+        "rank_2026": 24
       },
       {
         "key": "DB",
         "rank_2025": 27,
-        "rank_2026": null
+        "rank_2026": 20
       },
       {
         "key": "GJ",
         "rank_2025": 18,
-        "rank_2026": null
+        "rank_2026": 19
       },
       {
         "key": "GL",
@@ -1681,7 +1690,7 @@
       {
         "key": "GR",
         "rank_2025": 19,
-        "rank_2026": 18
+        "rank_2026": 28
       },
       {
         "key": "HD",
@@ -1691,17 +1700,17 @@
       {
         "key": "HR",
         "rank_2025": 24,
-        "rank_2026": null
+        "rank_2026": 18
       },
       {
         "key": "IF",
         "rank_2025": 16,
-        "rank_2026": 20
+        "rank_2026": 30
       },
       {
         "key": "IL",
         "rank_2025": 25,
-        "rank_2026": 13
+        "rank_2026": 23
       },
       {
         "key": "IS",
@@ -1711,17 +1720,22 @@
       {
         "key": "MH",
         "rank_2025": 17,
-        "rank_2026": 19
+        "rank_2026": 29
       },
       {
         "key": "NT",
         "rank_2025": 9,
-        "rank_2026": null
+        "rank_2026": 15
       },
       {
         "key": "OT",
         "rank_2025": 23,
-        "rank_2026": 15
+        "rank_2026": 25
+      },
+      {
+        "key": "PH",
+        "rank_2025": null,
+        "rank_2026": 12
       },
       {
         "key": "SB",
@@ -1731,27 +1745,32 @@
       {
         "key": "SJ",
         "rank_2025": 29,
-        "rank_2026": null
+        "rank_2026": 17
+      },
+      {
+        "key": "SM",
+        "rank_2025": null,
+        "rank_2026": 13
       },
       {
         "key": "SV",
         "rank_2025": 14,
-        "rank_2026": null
+        "rank_2026": 14
       },
       {
         "key": "TL",
         "rank_2025": null,
-        "rank_2026": 11
+        "rank_2026": 21
       },
       {
         "key": "TM",
         "rank_2025": 30,
-        "rank_2026": null
+        "rank_2026": 16
       },
       {
         "key": "TR",
         "rank_2025": 20,
-        "rank_2026": 16
+        "rank_2026": 26
       },
       {
         "key": "VN",
@@ -1806,35 +1825,42 @@
         "COLEGIUL NATIONAL \"COSTACHE NEGRUZZI\", IASI",
         "COLEGIUL NATIONAL \"EMIL RACOVITA\" CLUJ-NAPOCA",
         "COLEGIUL NATIONAL \"GHEORGHE LAZAR\"",
+        "COLEGIUL NATIONAL \"GHEORGHE SINCAI\" CLUJ-NAPOCA",
+        "COLEGIUL NATIONAL \"GRIGORE MOISIL\"",
+        "COLEGIUL NATIONAL \"ION C. BRATIANU\" PITESTI",
+        "COLEGIUL NATIONAL \"NICOLAE GRIGORESCU\", MUNICIPIUL CAMPINA",
         "COLEGIUL NATIONAL \"SFANTUL SAVA\"",
         "COLEGIUL NATIONAL \"SPIRU HARET\"",
+        "COLEGIUL NATIONAL \"VASILE ALECSANDRI\", MUNICIPIUL GALATI",
         "COLEGIUL NATIONAL 'ANDREI SAGUNA' BRASOV",
+        "COLEGIUL NATIONAL 'DR. IOAN MESOTA' BRASOV",
+        "COLEGIUL NATIONAL 'MIRCEA CEL BATRAN' CONSTANTA",
+        "COLEGIUL NATIONAL BILINGV \"GEORGE COSBUC\"",
         "COLEGIUL NATIONAL DE INFORMATICA \"TUDOR VIANU\"",
         "COLEGIUL NATIONAL, IASI",
+        "COMPLEXUL EDUCATIONAL LAUDE-REUT",
         "LICEUL TEORETIC \"AVRAM IANCU\" CLUJ-NAPOCA",
         "LICEUL TEORETIC \"NICOLAE BALCESCU\" CLUJ-NAPOCA"
       ],
       "only_2025": [
         "COLEGIUL NATIONAL \"COSTACHE NEGRI\", MUNICIPIUL GALATI",
         "COLEGIUL NATIONAL \"GHEORGHE MUNTEANU MURGOCI\"",
-        "COLEGIUL NATIONAL \"GHEORGHE SINCAI\" CLUJ-NAPOCA",
         "COLEGIUL NATIONAL \"GHEORGHE VRANCEANU\" BACAU",
-        "COLEGIUL NATIONAL \"GRIGORE MOISIL\"",
-        "COLEGIUL NATIONAL \"ION C. BRATIANU\" PITESTI",
         "COLEGIUL NATIONAL \"MIHAI EMINESCU\", IASI",
-        "COLEGIUL NATIONAL \"NICOLAE GRIGORESCU\", MUNICIPIUL CAMPINA",
         "COLEGIUL NATIONAL \"STEFAN CEL MARE\" SUCEAVA",
-        "COLEGIUL NATIONAL \"UNIREA\" FOCSANI",
-        "COLEGIUL NATIONAL \"VASILE ALECSANDRI\", MUNICIPIUL GALATI",
-        "COLEGIUL NATIONAL 'DR. IOAN MESOTA' BRASOV",
-        "COLEGIUL NATIONAL 'MIRCEA CEL BATRAN' CONSTANTA",
-        "COLEGIUL NATIONAL BILINGV \"GEORGE COSBUC\"",
-        "COMPLEXUL EDUCATIONAL LAUDE-REUT"
+        "COLEGIUL NATIONAL \"UNIREA\" FOCSANI"
       ],
-      "only_2026": [],
-      "n_both": 10,
-      "n_only_2025": 15,
-      "n_only_2026": 0
+      "only_2026": [
+        "COLEGIUL NATIONAL \"CONSTANTIN DIACONOVICI LOGA\" TIMISOARA",
+        "COLEGIUL NATIONAL \"EMANUIL GOJDU\" ORADEA",
+        "COLEGIUL NATIONAL \"EMIL RACOVITA\", IASI",
+        "COLEGIUL NATIONAL \"HOREA, CLOSCA SI CRISAN\" ALBA IULIA",
+        "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARABË®, MUNICIPIUL RAMNICU VALCEA",
+        "COLEGIUL NATIONAL UNITARIAN \"JANOS ZSIGMOND\" CLUJ-NAPOCA"
+      ],
+      "n_both": 19,
+      "n_only_2025": 6,
+      "n_only_2026": 6
     },
     "biggest_jumps_2025": [
       {
@@ -1858,6 +1884,27 @@
         "delta": 2.0
       }
     ],
-    "biggest_jumps_2026": []
+    "biggest_jumps_2026": [
+      {
+        "subject": "romana",
+        "cod_candidat": "B1775939",
+        "delta": 3.45
+      },
+      {
+        "subject": "alegere",
+        "cod_candidat": "IF1789994",
+        "delta": 3.2
+      },
+      {
+        "subject": "profil",
+        "cod_candidat": "SB1785594",
+        "delta": 2.9
+      },
+      {
+        "subject": "materna",
+        "cod_candidat": "HR1761173",
+        "delta": 2.15
+      }
+    ]
   }
 }

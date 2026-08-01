@@ -2,8 +2,9 @@
   "meta": {
     "source": "data/bac2026_final.parquet",
     "generated_by": "analyze/stats.py",
+    "schema_version": 2,
     "total_rows": 130709,
-    "digest_sha256": "938ba866fcdf2015b7e895e2c460b0143462e13d743a2f9cd77a2b85777cead6"
+    "digest_sha256": "0dc15abee6fc791b0dd46088dd0282bbfd5e2908523bce71e87fac8062c8dcb9"
   },
   "overview": {
     "total_candidates": 130709,
@@ -16,7 +17,8 @@
     "presented": 125977,
     "national_pass_rate": 76.98,
     "presented_rate": 96.38,
-    "elimination_rate": 0.05
+    "elimination_rate": 0.05,
+    "perfect10_total": 69
   },
   "grade_distribution": {
     "romana_final": {
@@ -953,59 +955,72 @@
   },
   "contestation_deltas": {
     "romana": {
-      "direction_note": "",
-      "n_changed": 130709,
-      "mean_delta": 0.04,
-      "median_delta": 0.0,
+      "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
+      "n_changed": 21222,
+      "total": 130709,
+      "mean_delta": 0.23,
+      "median_delta": 0.25,
       "up": 14021,
       "down": 7201,
       "unchanged": 109487,
-      "pct_up": 10.73,
-      "pct_down": 5.51,
+      "pct_up": 66.07,
+      "pct_down": 33.93,
       "max_abs_swing": 3.45,
       "biggest_single_jump": [
-        "romana",
+        "B1775939",
         3.45
       ]
     },
     "profil": {
-      "direction_note": "",
-      "n_changed": 130709,
-      "mean_delta": 0.02,
-      "median_delta": 0.0,
+      "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
+      "n_changed": 16090,
+      "total": 130709,
+      "mean_delta": 0.16,
+      "median_delta": 0.15,
       "up": 10180,
       "down": 5910,
       "unchanged": 114619,
-      "pct_up": 7.79,
-      "pct_down": 4.52,
+      "pct_up": 63.27,
+      "pct_down": 36.73,
       "max_abs_swing": 2.9,
-      "biggest_single_jump": null
+      "biggest_single_jump": [
+        "SB1785594",
+        2.9
+      ]
     },
     "alegere": {
-      "direction_note": "",
-      "n_changed": 130709,
-      "mean_delta": 0.02,
-      "median_delta": 0.0,
+      "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
+      "n_changed": 15131,
+      "total": 130709,
+      "mean_delta": 0.13,
+      "median_delta": 0.15,
       "up": 9592,
       "down": 5539,
       "unchanged": 115578,
-      "pct_up": 7.34,
-      "pct_down": 4.24,
+      "pct_up": 63.39,
+      "pct_down": 36.61,
       "max_abs_swing": 3.2,
-      "biggest_single_jump": null
+      "biggest_single_jump": [
+        "IF1789994",
+        3.2
+      ]
     },
     "materna": {
-      "direction_note": "",
-      "n_changed": 6856,
-      "mean_delta": 0.02,
-      "median_delta": 0.0,
+      "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
+      "n_changed": 472,
+      "total": 6856,
+      "mean_delta": 0.25,
+      "median_delta": 0.3,
       "up": 315,
       "down": 157,
       "unchanged": 6384,
-      "pct_up": 4.59,
-      "pct_down": 2.29,
+      "pct_up": 66.74,
+      "pct_down": 33.26,
       "max_abs_swing": 2.15,
-      "biggest_single_jump": null
+      "biggest_single_jump": [
+        "HR1761173",
+        2.15
+      ]
     }
   },
   "correlations": {
@@ -1210,6 +1225,186 @@
         "worst": 1.25,
         "spread": 8.6,
         "island_excellence": -0.51
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC JIMBOLIA",
+        "judet": "TM",
+        "n": 102,
+        "presented": 102,
+        "avg_media": 5.91,
+        "std_media": 2.16,
+        "best": 9.38,
+        "worst": 1.48,
+        "spread": 7.9,
+        "island_excellence": -1.22
+      },
+      {
+        "school": "COLEGIUL TEHNIC \"LATCU VODA\" SIRET",
+        "judet": "SV",
+        "n": 125,
+        "presented": 125,
+        "avg_media": 6.17,
+        "std_media": 2.12,
+        "best": 9.91,
+        "worst": 1.82,
+        "spread": 8.09,
+        "island_excellence": -1.23
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"PETRACHE POENARU\", ORAS BALCESTI",
+        "judet": "VL",
+        "n": 122,
+        "presented": 122,
+        "avg_media": 5.88,
+        "std_media": 2.11,
+        "best": 9.71,
+        "worst": 1.48,
+        "spread": 8.23,
+        "island_excellence": -1.29
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"TIU DUMITRESCU\" MIHAILESTI",
+        "judet": "GR",
+        "n": 73,
+        "presented": 73,
+        "avg_media": 5.35,
+        "std_media": 2.09,
+        "best": 9.41,
+        "worst": 1.62,
+        "spread": 7.79,
+        "island_excellence": -1.32
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC DE TRANSPORT FEROVIAR \"ANGHEL SALIGNY\" SIMERIA",
+        "judet": "HD",
+        "n": 64,
+        "presented": 64,
+        "avg_media": 6.24,
+        "std_media": 2.06,
+        "best": 10.0,
+        "worst": 1.98,
+        "spread": 8.02,
+        "island_excellence": -0.94
+      },
+      {
+        "school": "LICEUL \"ATANASIE MARIENESCU\" LIPOVA",
+        "judet": "AR",
+        "n": 62,
+        "presented": 62,
+        "avg_media": 5.89,
+        "std_media": 2.06,
+        "best": 9.41,
+        "worst": 1.77,
+        "spread": 7.64,
+        "island_excellence": -1.06
+      },
+      {
+        "school": "COLEGIUL TEHNOLOGIC \"CONSTANTIN BRANCOVEANU\"",
+        "judet": "MH",
+        "n": 98,
+        "presented": 98,
+        "avg_media": 5.53,
+        "std_media": 2.06,
+        "best": 9.2,
+        "worst": 1.48,
+        "spread": 7.72,
+        "island_excellence": -1.06
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"NICOLAE IORGA\", ORAS NEGRESTI",
+        "judet": "VS",
+        "n": 181,
+        "presented": 181,
+        "avg_media": 6.6,
+        "std_media": 2.05,
+        "best": 9.83,
+        "worst": 2.13,
+        "spread": 7.7,
+        "island_excellence": -0.57
+      },
+      {
+        "school": "LICEUL TEORETIC COSTESTI",
+        "judet": "AG",
+        "n": 92,
+        "presented": 92,
+        "avg_media": 5.75,
+        "std_media": 2.03,
+        "best": 9.11,
+        "worst": 1.47,
+        "spread": 7.64,
+        "island_excellence": -1.66
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC SEGARCEA",
+        "judet": "DJ",
+        "n": 37,
+        "presented": 37,
+        "avg_media": 7.57,
+        "std_media": 2.01,
+        "best": 9.91,
+        "worst": 3.63,
+        "spread": 6.28,
+        "island_excellence": 0.22
+      },
+      {
+        "school": "LICEUL TEORETIC \"NICOLAE IORGA\" ORAS NEHOIU",
+        "judet": "BZ",
+        "n": 71,
+        "presented": 71,
+        "avg_media": 6.2,
+        "std_media": 2.01,
+        "best": 9.58,
+        "worst": 2.23,
+        "spread": 7.35,
+        "island_excellence": -1.17
+      },
+      {
+        "school": "COLEGIUL \"MIHAI VITEAZUL\" INEU",
+        "judet": "AR",
+        "n": 164,
+        "presented": 164,
+        "avg_media": 6.65,
+        "std_media": 2.0,
+        "best": 9.76,
+        "worst": 1.67,
+        "spread": 8.09,
+        "island_excellence": -0.3
+      },
+      {
+        "school": "LICEUL \"IOAN BUTEANU\" GURAHONT",
+        "judet": "AR",
+        "n": 54,
+        "presented": 54,
+        "avg_media": 6.49,
+        "std_media": 2.0,
+        "best": 9.25,
+        "worst": 1.53,
+        "spread": 7.72,
+        "island_excellence": -0.46
+      },
+      {
+        "school": "LICEUL TEORETIC \"CONSTANTIN BRANCOVEANU\" DABULENI",
+        "judet": "DJ",
+        "n": 62,
+        "presented": 62,
+        "avg_media": 6.45,
+        "std_media": 1.99,
+        "best": 9.6,
+        "worst": 2.05,
+        "spread": 7.55,
+        "island_excellence": -0.9
+      },
+      {
+        "school": "LICEUL \"HERCULES\" BAILE HERCULANE",
+        "judet": "CS",
+        "n": 32,
+        "presented": 32,
+        "avg_media": 5.27,
+        "std_media": 1.99,
+        "best": 9.16,
+        "worst": 1.25,
+        "spread": 7.91,
+        "island_excellence": -1.62
       }
     ],
     "islands_of_excellence": [
@@ -1332,6 +1527,186 @@
         "worst": 1.47,
         "spread": 8.34,
         "island_excellence": 1.87
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GHEORGHE LAZAR\"",
+        "judet": "B",
+        "n": 269,
+        "presented": 269,
+        "avg_media": 9.49,
+        "std_media": 0.56,
+        "best": 10.0,
+        "worst": 4.8,
+        "spread": 5.2,
+        "island_excellence": 1.85
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"SILVANIA\" ZALAU",
+        "judet": "SJ",
+        "n": 239,
+        "presented": 239,
+        "avg_media": 8.93,
+        "std_media": 0.73,
+        "best": 9.93,
+        "worst": 6.12,
+        "spread": 3.81,
+        "island_excellence": 1.84
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"B. P. HASDEU\" MUNICIPIUL BUZAU",
+        "judet": "BZ",
+        "n": 288,
+        "presented": 288,
+        "avg_media": 9.18,
+        "std_media": 0.6,
+        "best": 10.0,
+        "worst": 6.16,
+        "spread": 3.84,
+        "island_excellence": 1.82
+      },
+      {
+        "school": "COLEGIUL NATIONAL, IASI",
+        "judet": "IS",
+        "n": 130,
+        "presented": 130,
+        "avg_media": 9.48,
+        "std_media": 0.39,
+        "best": 10.0,
+        "worst": 7.86,
+        "spread": 2.14,
+        "island_excellence": 1.8
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"VASILE ALECSANDRI\", MUNICIPIUL GALATI",
+        "judet": "GL",
+        "n": 186,
+        "presented": 186,
+        "avg_media": 9.29,
+        "std_media": 0.54,
+        "best": 10.0,
+        "worst": 6.61,
+        "spread": 3.39,
+        "island_excellence": 1.79
+      },
+      {
+        "school": "LICEUL TEORETIC 'OVIDIUS' CONSTANTA",
+        "judet": "CT",
+        "n": 191,
+        "presented": 191,
+        "avg_media": 9.08,
+        "std_media": 0.68,
+        "best": 9.95,
+        "worst": 4.85,
+        "spread": 5.1,
+        "island_excellence": 1.79
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"SFANTUL SAVA\"",
+        "judet": "B",
+        "n": 236,
+        "presented": 236,
+        "avg_media": 9.41,
+        "std_media": 0.53,
+        "best": 10.0,
+        "worst": 6.33,
+        "spread": 3.67,
+        "island_excellence": 1.78
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"FRATII BUZESTI\" CRAIOVA",
+        "judet": "DJ",
+        "n": 230,
+        "presented": 230,
+        "avg_media": 9.13,
+        "std_media": 0.64,
+        "best": 9.98,
+        "worst": 6.02,
+        "spread": 3.96,
+        "island_excellence": 1.78
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"NICOLAE GRIGORESCU\", MUNICIPIUL CAMPINA",
+        "judet": "PH",
+        "n": 167,
+        "presented": 167,
+        "avg_media": 9.19,
+        "std_media": 0.59,
+        "best": 9.95,
+        "worst": 6.71,
+        "spread": 3.24,
+        "island_excellence": 1.77
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"VASILE LUCACIU\" BAIA MARE",
+        "judet": "MM",
+        "n": 199,
+        "presented": 199,
+        "avg_media": 8.95,
+        "std_media": 0.8,
+        "best": 9.91,
+        "worst": 5.35,
+        "spread": 4.56,
+        "island_excellence": 1.77
+      },
+      {
+        "school": "LICEUL TEOLOGIC BAPTIST \"ALEXA POPOVICI\" ARAD",
+        "judet": "AR",
+        "n": 52,
+        "presented": 52,
+        "avg_media": 8.72,
+        "std_media": 0.75,
+        "best": 9.73,
+        "worst": 6.81,
+        "spread": 2.92,
+        "island_excellence": 1.77
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"ION C. BRATIANU\" PITESTI",
+        "judet": "AG",
+        "n": 317,
+        "presented": 317,
+        "avg_media": 9.18,
+        "std_media": 0.63,
+        "best": 10.0,
+        "worst": 5.95,
+        "spread": 4.05,
+        "island_excellence": 1.76
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"STEFAN CEL MARE\" SUCEAVA",
+        "judet": "SV",
+        "n": 171,
+        "presented": 171,
+        "avg_media": 9.16,
+        "std_media": 0.6,
+        "best": 9.91,
+        "worst": 6.96,
+        "spread": 2.95,
+        "island_excellence": 1.76
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"IENACHITA VACARESCU\" TARGOVISTE",
+        "judet": "DB",
+        "n": 234,
+        "presented": 234,
+        "avg_media": 8.82,
+        "std_media": 0.81,
+        "best": 10.0,
+        "worst": 5.18,
+        "spread": 4.82,
+        "island_excellence": 1.76
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"PETRU RARES\", MUNICIPIUL PIATRA-NEAMT",
+        "judet": "NT",
+        "n": 175,
+        "presented": 175,
+        "avg_media": 9.11,
+        "std_media": 0.71,
+        "best": 9.98,
+        "worst": 5.63,
+        "spread": 4.35,
+        "island_excellence": 1.72
       }
     ],
     "below_county_avg": [
@@ -1454,6 +1829,186 @@
         "worst": 1.73,
         "spread": 6.3,
         "island_excellence": -2.79
+      },
+      {
+        "school": "LICEUL DE AGRICULTURA SI INDUSTRIE ALIMENTARA ODOBESTI",
+        "judet": "VN",
+        "n": 22,
+        "presented": 22,
+        "avg_media": 4.49,
+        "std_media": 1.26,
+        "best": 7.03,
+        "worst": 2.12,
+        "spread": 4.91,
+        "island_excellence": -2.79
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" ALEXANDRIA",
+        "judet": "TR",
+        "n": 37,
+        "presented": 37,
+        "avg_media": 4.04,
+        "std_media": 1.87,
+        "best": 7.58,
+        "worst": 1.32,
+        "spread": 6.26,
+        "island_excellence": -2.76
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC DE VEST TIMISOARA",
+        "judet": "TM",
+        "n": 36,
+        "presented": 36,
+        "avg_media": 4.4,
+        "std_media": 1.48,
+        "best": 7.03,
+        "worst": 2.1,
+        "spread": 4.93,
+        "island_excellence": -2.74
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"SAVA BRANCOVICI\" INEU",
+        "judet": "AR",
+        "n": 31,
+        "presented": 31,
+        "avg_media": 4.23,
+        "std_media": 1.61,
+        "best": 8.06,
+        "worst": 1.7,
+        "spread": 6.36,
+        "island_excellence": -2.72
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"TEODOR DIAMANT\", ORASUL BOLDESTI-SCAENI",
+        "judet": "PH",
+        "n": 40,
+        "presented": 40,
+        "avg_media": 4.86,
+        "std_media": 1.59,
+        "best": 9.38,
+        "worst": 2.23,
+        "spread": 7.15,
+        "island_excellence": -2.57
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC AGRICOL BECLEAN",
+        "judet": "BN",
+        "n": 54,
+        "presented": 54,
+        "avg_media": 4.82,
+        "std_media": 1.51,
+        "best": 8.56,
+        "worst": 2.13,
+        "spread": 6.43,
+        "island_excellence": -2.53
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC NR.1 SALONTA",
+        "judet": "BH",
+        "n": 36,
+        "presented": 36,
+        "avg_media": 5.02,
+        "std_media": 1.55,
+        "best": 9.5,
+        "worst": 2.72,
+        "spread": 6.78,
+        "island_excellence": -2.52
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC TARNAVENI",
+        "judet": "MS",
+        "n": 34,
+        "presented": 34,
+        "avg_media": 4.74,
+        "std_media": 1.26,
+        "best": 6.81,
+        "worst": 2.13,
+        "spread": 4.68,
+        "island_excellence": -2.52
+      },
+      {
+        "school": "COLEGIUL TEHNIC \"EDMOND NICOLAU\"",
+        "judet": "B",
+        "n": 96,
+        "presented": 96,
+        "avg_media": 5.12,
+        "std_media": 1.73,
+        "best": 9.16,
+        "worst": 1.88,
+        "spread": 7.28,
+        "island_excellence": -2.51
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\"",
+        "judet": "BR",
+        "n": 38,
+        "presented": 38,
+        "avg_media": 5.02,
+        "std_media": 1.44,
+        "best": 7.26,
+        "worst": 1.75,
+        "spread": 5.51,
+        "island_excellence": -2.51
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"PETRU RARES\" BACAU",
+        "judet": "BC",
+        "n": 21,
+        "presented": 21,
+        "avg_media": 5.08,
+        "std_media": 1.38,
+        "best": 8.23,
+        "worst": 2.78,
+        "spread": 5.45,
+        "island_excellence": -2.5
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"DIMITRIE LEONIDA\", MUNICIPIUL PIATRA-NEAMT",
+        "judet": "NT",
+        "n": 30,
+        "presented": 30,
+        "avg_media": 4.9,
+        "std_media": 1.35,
+        "best": 8.51,
+        "worst": 2.18,
+        "spread": 6.33,
+        "island_excellence": -2.49
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"GEORGE BIBESCU\" CRAIOVA",
+        "judet": "DJ",
+        "n": 21,
+        "presented": 21,
+        "avg_media": 4.86,
+        "std_media": 1.48,
+        "best": 6.6,
+        "worst": 1.8,
+        "spread": 4.8,
+        "island_excellence": -2.49
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO TARGOVISTE",
+        "judet": "DB",
+        "n": 53,
+        "presented": 53,
+        "avg_media": 4.59,
+        "std_media": 1.85,
+        "best": 9.58,
+        "worst": 1.32,
+        "spread": 8.26,
+        "island_excellence": -2.48
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC METALURGIC SLATINA",
+        "judet": "OT",
+        "n": 52,
+        "presented": 52,
+        "avg_media": 4.41,
+        "std_media": 1.74,
+        "best": 7.36,
+        "worst": 1.55,
+        "spread": 5.81,
+        "island_excellence": -2.47
       }
     ]
   },
@@ -2933,11 +3488,20 @@
     ]
   },
   "interesting_facts": [
-    "Național: 76.98% promovare din 125977 prezentați.",
-    "Repetenții: 35.15% vs prima promoție 81.68% (decalaj 46.53 pp).",
-    "Județul cu medie cea mai mare (n≥30): CJ (7.91).",
-    "Județul cu medie cea mai mică (n≥30): IF (6.46).",
-    "Note perfecte 10 (media): 69 din 125977 notați."
+    "Total candidați: 130,709; rata națională de promovare 76.98%.",
+    "REUSIT 96,976 / RESPINS 29,001 / NEPREZENTAT 4,662 / ELIMINAT 70.",
+    "Județul cu cea mai mare medie: CJ (7.91, n=4402).",
+    "Județul cu cea mai mică medie: IF (6.46, n=1368).",
+    "Specializarea cu cea mai mare medie: INVATATOR - EDUCATOARE (8.57, n=1803).",
+    "Note perfecte 10 (media==10): 69 din 125,977 notați.",
+    "Decalajul repetenților: 46.53 pp în rata de promovare (prima promoție 81.68% vs repetenți 35.15%).",
+    "Cel mai mare decalaj între școli din același județ: AG (4.85 puncte, COLEGIUL NATIONAL \"ION C. BRATIANU\" PITESTI vs LICEUL TEHNOLOGIC NR. 1 MARACINENI).",
+    "Cea mai bună limbă modernă după medie: LIMBA SPANIOLA (8.34, n=242).",
+    "Contestații romana: 21,222 note schimbate, 66.07% în sus / 33.93% în jos, swing maxim 3.45.",
+    "Contestații profil: 16,090 note schimbate, 63.27% în sus / 36.73% în jos, swing maxim 2.9.",
+    "Contestații alegere: 15,131 note schimbate, 63.39% în sus / 36.61% în jos, swing maxim 3.2.",
+    "Contestații materna: 472 note schimbate, 66.74% în sus / 33.26% în jos, swing maxim 2.15.",
+    "Cel mai puternic corelat cu media: profil_final (r=0.92)."
   ],
   "rankings": {
     "county_by_avg_media": {
@@ -3001,9 +3565,69 @@
           "avg_media": 7.5,
           "n": 3302,
           "low_confidence": null
+        },
+        {
+          "key": "AG",
+          "avg_media": 7.42,
+          "n": 4194,
+          "low_confidence": null
+        },
+        {
+          "key": "PH",
+          "avg_media": 7.42,
+          "n": 5397,
+          "low_confidence": null
+        },
+        {
+          "key": "SM",
+          "avg_media": 7.41,
+          "n": 1871,
+          "low_confidence": null
+        },
+        {
+          "key": "SV",
+          "avg_media": 7.4,
+          "n": 4904,
+          "low_confidence": null
+        },
+        {
+          "key": "NT",
+          "avg_media": 7.39,
+          "n": 3087,
+          "low_confidence": null
         }
       ],
       "bottom": [
+        {
+          "key": "TM",
+          "avg_media": 7.13,
+          "n": 4560,
+          "low_confidence": null
+        },
+        {
+          "key": "SJ",
+          "avg_media": 7.09,
+          "n": 1445,
+          "low_confidence": null
+        },
+        {
+          "key": "HR",
+          "avg_media": 7.07,
+          "n": 2377,
+          "low_confidence": null
+        },
+        {
+          "key": "GJ",
+          "avg_media": 7.06,
+          "n": 2670,
+          "low_confidence": null
+        },
+        {
+          "key": "DB",
+          "avg_media": 7.06,
+          "n": 2946,
+          "low_confidence": null
+        },
         {
           "key": "TL",
           "avg_media": 7.02,
@@ -3127,9 +3751,69 @@
           "avg_media": 7.52,
           "n": 880,
           "low_confidence": null
+        },
+        {
+          "key": "COREGRAFIE",
+          "avg_media": 7.51,
+          "n": 80,
+          "low_confidence": null
+        },
+        {
+          "key": "TEOLOGIE REFORMATA",
+          "avg_media": 7.5,
+          "n": 183,
+          "low_confidence": null
+        },
+        {
+          "key": "ARTE PLASTICE SI DECORATIVE",
+          "avg_media": 7.43,
+          "n": 1385,
+          "low_confidence": null
+        },
+        {
+          "key": "TEOLOGIE ADVENTISTA",
+          "avg_media": 7.41,
+          "n": 95,
+          "low_confidence": null
+        },
+        {
+          "key": "MUZICA",
+          "avg_media": 7.4,
+          "n": 1186,
+          "low_confidence": null
         }
       ],
       "bottom": [
+        {
+          "key": "TEHNICIAN IN INDUSTRIA TEXTILA",
+          "avg_media": 5.34,
+          "n": 252,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN METROLOG",
+          "avg_media": 5.31,
+          "n": 49,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN INSTALATOR PENTRU CONSTRUCTII",
+          "avg_media": 5.31,
+          "n": 146,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN PRELUCRARI MECANICE",
+          "avg_media": 5.29,
+          "n": 114,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN AGRONOM",
+          "avg_media": 5.27,
+          "n": 82,
+          "low_confidence": null
+        },
         {
           "key": "TEHNICIAN HORTICULTOR",
           "avg_media": 5.27,
@@ -3319,9 +4003,189 @@
           "avg_media": 9.29,
           "n": 227,
           "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL 'MIRCEA CEL BATRAN' CONSTANTA",
+          "avg_media": 9.29,
+          "n": 204,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"VASILE ALECSANDRI\", MUNICIPIUL GALATI",
+          "avg_media": 9.29,
+          "n": 186,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARABË®, MUNICIPIUL RAMNICU VALCEA",
+          "avg_media": 9.29,
+          "n": 164,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"EMIL RACOVITA\", IASI",
+          "avg_media": 9.26,
+          "n": 144,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL BILINGV \"GEORGE COSBUC\"",
+          "avg_media": 9.25,
+          "n": 192,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL 'DR. IOAN MESOTA' BRASOV",
+          "avg_media": 9.24,
+          "n": 163,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"EMANUIL GOJDU\" ORADEA",
+          "avg_media": 9.23,
+          "n": 198,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"CONSTANTIN DIACONOVICI LOGA\" TIMISOARA",
+          "avg_media": 9.22,
+          "n": 176,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"GRIGORE MOISIL\"",
+          "avg_media": 9.2,
+          "n": 194,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL UNITARIAN \"JANOS ZSIGMOND\" CLUJ-NAPOCA",
+          "avg_media": 9.2,
+          "n": 55,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"HOREA, CLOSCA SI CRISAN\" ALBA IULIA",
+          "avg_media": 9.19,
+          "n": 192,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"GHEORGHE SINCAI\" CLUJ-NAPOCA",
+          "avg_media": 9.19,
+          "n": 106,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"NICOLAE GRIGORESCU\", MUNICIPIUL CAMPINA",
+          "avg_media": 9.19,
+          "n": 168,
+          "low_confidence": null
+        },
+        {
+          "key": "COMPLEXUL EDUCATIONAL LAUDE-REUT",
+          "avg_media": 9.19,
+          "n": 41,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"ION C. BRATIANU\" PITESTI",
+          "avg_media": 9.18,
+          "n": 317,
+          "low_confidence": null
         }
       ],
       "bottom": [
+        {
+          "key": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARA TIMISOARA",
+          "avg_media": 4.85,
+          "n": 102,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC AGRICOL BECLEAN",
+          "avg_media": 4.82,
+          "n": 61,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"MIHAI VITEAZUL\" ZALAU",
+          "avg_media": 4.81,
+          "n": 106,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\" ROSIORI DE VEDE",
+          "avg_media": 4.75,
+          "n": 83,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC TARNAVENI",
+          "avg_media": 4.74,
+          "n": 34,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL \"GEORGE TARNEA\", ORAS BABENI",
+          "avg_media": 4.74,
+          "n": 34,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC BARSESTI",
+          "avg_media": 4.72,
+          "n": 49,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"CRISTOFOR NAKO\" SANNICOLAU MARE",
+          "avg_media": 4.7,
+          "n": 71,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMISOARA",
+          "avg_media": 4.7,
+          "n": 46,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"CAROL I\", IASI",
+          "avg_media": 4.68,
+          "n": 40,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA \"DUMITRU MOTOC\"",
+          "avg_media": 4.68,
+          "n": 96,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC CHISINEU CRIS",
+          "avg_media": 4.66,
+          "n": 61,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DIERNA\"",
+          "avg_media": 4.61,
+          "n": 39,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO TARGOVISTE",
+          "avg_media": 4.59,
+          "n": 71,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DINU BRATIANU\" STEFANESTI",
+          "avg_media": 4.54,
+          "n": 38,
+          "low_confidence": null
+        },
         {
           "key": "LICEUL TEHNOLOGIC BANEASA",
           "avg_media": 4.49,
@@ -3445,9 +4309,189 @@
           "pass_rate": 100.0,
           "n": 243,
           "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"GHEORGHE LAZAR\" SIBIU",
+          "pass_rate": 100.0,
+          "n": 171,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"EMIL RACOVITA\" CLUJ-NAPOCA",
+          "pass_rate": 100.0,
+          "n": 81,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"COSTACHE NEGRUZZI\", IASI",
+          "pass_rate": 100.0,
+          "n": 145,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"CONSTANTIN DIACONOVICI LOGA\" TIMISOARA",
+          "pass_rate": 100.0,
+          "n": 176,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"HOREA, CLOSCA SI CRISAN\" ALBA IULIA",
+          "pass_rate": 100.0,
+          "n": 192,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL 'ANDREI SAGUNA' BRASOV",
+          "pass_rate": 100.0,
+          "n": 160,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"GHEORGHE SINCAI\" CLUJ-NAPOCA",
+          "pass_rate": 100.0,
+          "n": 106,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"CAROL I\" CRAIOVA",
+          "pass_rate": 100.0,
+          "n": 251,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"VASILE ALECSANDRI\", IASI",
+          "pass_rate": 100.0,
+          "n": 152,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL MILITAR \"MIHAI VITEAZUL\" ALBA IULIA",
+          "pass_rate": 100.0,
+          "n": 143,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"ION CREANGA\"",
+          "pass_rate": 100.0,
+          "n": 258,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"GRIGORE MOISIL\"",
+          "pass_rate": 100.0,
+          "n": 194,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"GHEORGHE VRANCEANU\" BACAU",
+          "pass_rate": 100.0,
+          "n": 212,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"EMANUIL GOJDU\" ORADEA",
+          "pass_rate": 100.0,
+          "n": 198,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"MIHAI VITEAZUL\" TURDA",
+          "pass_rate": 100.0,
+          "n": 108,
+          "low_confidence": null
         }
       ],
       "bottom": [
+        {
+          "key": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMISOARA",
+          "pass_rate": 21.05,
+          "n": 46,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL TEHNIC AUTO \"TRAIAN VUIA\" FOCSANI",
+          "pass_rate": 20.93,
+          "n": 46,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"ION MINCU\" TULCEA",
+          "pass_rate": 20.83,
+          "n": 33,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DINU BRATIANU\" STEFANESTI",
+          "pass_rate": 20.59,
+          "n": 38,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC AGRICOL BECLEAN",
+          "pass_rate": 20.37,
+          "n": 61,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC ECONOMIC \"ELINA MATEI BASARAB\" MUNICIPIUL RAMNICU SARAT",
+          "pass_rate": 20.0,
+          "n": 51,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"FRANCISC NEUMAN\" ARAD",
+          "pass_rate": 20.0,
+          "n": 80,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC DE VEST TIMISOARA",
+          "pass_rate": 19.44,
+          "n": 46,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC BANEASA",
+          "pass_rate": 19.44,
+          "n": 38,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC BARSESTI",
+          "pass_rate": 19.35,
+          "n": 49,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"CRISTOFOR NAKO\" SANNICOLAU MARE",
+          "pass_rate": 19.23,
+          "n": 71,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"PETRE BANITA\" CALARASI",
+          "pass_rate": 19.05,
+          "n": 40,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" ALEXANDRIA",
+          "pass_rate": 18.92,
+          "n": 51,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"MATEI BASARAB\" CARACAL",
+          "pass_rate": 18.87,
+          "n": 56,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC CHISINEU CRIS",
+          "pass_rate": 18.52,
+          "n": 61,
+          "low_confidence": null
+        },
         {
           "key": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA \"DUMITRU MOTOC\"",
           "pass_rate": 18.07,
@@ -3630,6 +4674,186 @@
         "worst": 1.47,
         "spread": 8.34,
         "island_excellence": 1.87
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GHEORGHE LAZAR\"",
+        "judet": "B",
+        "n": 269,
+        "presented": 269,
+        "avg_media": 9.49,
+        "std_media": 0.56,
+        "best": 10.0,
+        "worst": 4.8,
+        "spread": 5.2,
+        "island_excellence": 1.85
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"SILVANIA\" ZALAU",
+        "judet": "SJ",
+        "n": 239,
+        "presented": 239,
+        "avg_media": 8.93,
+        "std_media": 0.73,
+        "best": 9.93,
+        "worst": 6.12,
+        "spread": 3.81,
+        "island_excellence": 1.84
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"B. P. HASDEU\" MUNICIPIUL BUZAU",
+        "judet": "BZ",
+        "n": 288,
+        "presented": 288,
+        "avg_media": 9.18,
+        "std_media": 0.6,
+        "best": 10.0,
+        "worst": 6.16,
+        "spread": 3.84,
+        "island_excellence": 1.82
+      },
+      {
+        "school": "COLEGIUL NATIONAL, IASI",
+        "judet": "IS",
+        "n": 130,
+        "presented": 130,
+        "avg_media": 9.48,
+        "std_media": 0.39,
+        "best": 10.0,
+        "worst": 7.86,
+        "spread": 2.14,
+        "island_excellence": 1.8
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"VASILE ALECSANDRI\", MUNICIPIUL GALATI",
+        "judet": "GL",
+        "n": 186,
+        "presented": 186,
+        "avg_media": 9.29,
+        "std_media": 0.54,
+        "best": 10.0,
+        "worst": 6.61,
+        "spread": 3.39,
+        "island_excellence": 1.79
+      },
+      {
+        "school": "LICEUL TEORETIC 'OVIDIUS' CONSTANTA",
+        "judet": "CT",
+        "n": 191,
+        "presented": 191,
+        "avg_media": 9.08,
+        "std_media": 0.68,
+        "best": 9.95,
+        "worst": 4.85,
+        "spread": 5.1,
+        "island_excellence": 1.79
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"SFANTUL SAVA\"",
+        "judet": "B",
+        "n": 236,
+        "presented": 236,
+        "avg_media": 9.41,
+        "std_media": 0.53,
+        "best": 10.0,
+        "worst": 6.33,
+        "spread": 3.67,
+        "island_excellence": 1.78
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"FRATII BUZESTI\" CRAIOVA",
+        "judet": "DJ",
+        "n": 230,
+        "presented": 230,
+        "avg_media": 9.13,
+        "std_media": 0.64,
+        "best": 9.98,
+        "worst": 6.02,
+        "spread": 3.96,
+        "island_excellence": 1.78
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"NICOLAE GRIGORESCU\", MUNICIPIUL CAMPINA",
+        "judet": "PH",
+        "n": 167,
+        "presented": 167,
+        "avg_media": 9.19,
+        "std_media": 0.59,
+        "best": 9.95,
+        "worst": 6.71,
+        "spread": 3.24,
+        "island_excellence": 1.77
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"VASILE LUCACIU\" BAIA MARE",
+        "judet": "MM",
+        "n": 199,
+        "presented": 199,
+        "avg_media": 8.95,
+        "std_media": 0.8,
+        "best": 9.91,
+        "worst": 5.35,
+        "spread": 4.56,
+        "island_excellence": 1.77
+      },
+      {
+        "school": "LICEUL TEOLOGIC BAPTIST \"ALEXA POPOVICI\" ARAD",
+        "judet": "AR",
+        "n": 52,
+        "presented": 52,
+        "avg_media": 8.72,
+        "std_media": 0.75,
+        "best": 9.73,
+        "worst": 6.81,
+        "spread": 2.92,
+        "island_excellence": 1.77
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"ION C. BRATIANU\" PITESTI",
+        "judet": "AG",
+        "n": 317,
+        "presented": 317,
+        "avg_media": 9.18,
+        "std_media": 0.63,
+        "best": 10.0,
+        "worst": 5.95,
+        "spread": 4.05,
+        "island_excellence": 1.76
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"STEFAN CEL MARE\" SUCEAVA",
+        "judet": "SV",
+        "n": 171,
+        "presented": 171,
+        "avg_media": 9.16,
+        "std_media": 0.6,
+        "best": 9.91,
+        "worst": 6.96,
+        "spread": 2.95,
+        "island_excellence": 1.76
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"IENACHITA VACARESCU\" TARGOVISTE",
+        "judet": "DB",
+        "n": 234,
+        "presented": 234,
+        "avg_media": 8.82,
+        "std_media": 0.81,
+        "best": 10.0,
+        "worst": 5.18,
+        "spread": 4.82,
+        "island_excellence": 1.76
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"PETRU RARES\", MUNICIPIUL PIATRA-NEAMT",
+        "judet": "NT",
+        "n": 175,
+        "presented": 175,
+        "avg_media": 9.11,
+        "std_media": 0.71,
+        "best": 9.98,
+        "worst": 5.63,
+        "spread": 4.35,
+        "island_excellence": 1.72
       }
     ],
     "schools_highest_variance": [
@@ -3752,9 +4976,210 @@
         "worst": 1.25,
         "spread": 8.6,
         "island_excellence": -0.51
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC JIMBOLIA",
+        "judet": "TM",
+        "n": 102,
+        "presented": 102,
+        "avg_media": 5.91,
+        "std_media": 2.16,
+        "best": 9.38,
+        "worst": 1.48,
+        "spread": 7.9,
+        "island_excellence": -1.22
+      },
+      {
+        "school": "COLEGIUL TEHNIC \"LATCU VODA\" SIRET",
+        "judet": "SV",
+        "n": 125,
+        "presented": 125,
+        "avg_media": 6.17,
+        "std_media": 2.12,
+        "best": 9.91,
+        "worst": 1.82,
+        "spread": 8.09,
+        "island_excellence": -1.23
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"PETRACHE POENARU\", ORAS BALCESTI",
+        "judet": "VL",
+        "n": 122,
+        "presented": 122,
+        "avg_media": 5.88,
+        "std_media": 2.11,
+        "best": 9.71,
+        "worst": 1.48,
+        "spread": 8.23,
+        "island_excellence": -1.29
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"TIU DUMITRESCU\" MIHAILESTI",
+        "judet": "GR",
+        "n": 73,
+        "presented": 73,
+        "avg_media": 5.35,
+        "std_media": 2.09,
+        "best": 9.41,
+        "worst": 1.62,
+        "spread": 7.79,
+        "island_excellence": -1.32
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC DE TRANSPORT FEROVIAR \"ANGHEL SALIGNY\" SIMERIA",
+        "judet": "HD",
+        "n": 64,
+        "presented": 64,
+        "avg_media": 6.24,
+        "std_media": 2.06,
+        "best": 10.0,
+        "worst": 1.98,
+        "spread": 8.02,
+        "island_excellence": -0.94
+      },
+      {
+        "school": "LICEUL \"ATANASIE MARIENESCU\" LIPOVA",
+        "judet": "AR",
+        "n": 62,
+        "presented": 62,
+        "avg_media": 5.89,
+        "std_media": 2.06,
+        "best": 9.41,
+        "worst": 1.77,
+        "spread": 7.64,
+        "island_excellence": -1.06
+      },
+      {
+        "school": "COLEGIUL TEHNOLOGIC \"CONSTANTIN BRANCOVEANU\"",
+        "judet": "MH",
+        "n": 98,
+        "presented": 98,
+        "avg_media": 5.53,
+        "std_media": 2.06,
+        "best": 9.2,
+        "worst": 1.48,
+        "spread": 7.72,
+        "island_excellence": -1.06
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC \"NICOLAE IORGA\", ORAS NEGRESTI",
+        "judet": "VS",
+        "n": 181,
+        "presented": 181,
+        "avg_media": 6.6,
+        "std_media": 2.05,
+        "best": 9.83,
+        "worst": 2.13,
+        "spread": 7.7,
+        "island_excellence": -0.57
+      },
+      {
+        "school": "LICEUL TEORETIC COSTESTI",
+        "judet": "AG",
+        "n": 92,
+        "presented": 92,
+        "avg_media": 5.75,
+        "std_media": 2.03,
+        "best": 9.11,
+        "worst": 1.47,
+        "spread": 7.64,
+        "island_excellence": -1.66
+      },
+      {
+        "school": "LICEUL TEHNOLOGIC SEGARCEA",
+        "judet": "DJ",
+        "n": 37,
+        "presented": 37,
+        "avg_media": 7.57,
+        "std_media": 2.01,
+        "best": 9.91,
+        "worst": 3.63,
+        "spread": 6.28,
+        "island_excellence": 0.22
+      },
+      {
+        "school": "LICEUL TEORETIC \"NICOLAE IORGA\" ORAS NEHOIU",
+        "judet": "BZ",
+        "n": 71,
+        "presented": 71,
+        "avg_media": 6.2,
+        "std_media": 2.01,
+        "best": 9.58,
+        "worst": 2.23,
+        "spread": 7.35,
+        "island_excellence": -1.17
+      },
+      {
+        "school": "COLEGIUL \"MIHAI VITEAZUL\" INEU",
+        "judet": "AR",
+        "n": 164,
+        "presented": 164,
+        "avg_media": 6.65,
+        "std_media": 2.0,
+        "best": 9.76,
+        "worst": 1.67,
+        "spread": 8.09,
+        "island_excellence": -0.3
+      },
+      {
+        "school": "LICEUL \"IOAN BUTEANU\" GURAHONT",
+        "judet": "AR",
+        "n": 54,
+        "presented": 54,
+        "avg_media": 6.49,
+        "std_media": 2.0,
+        "best": 9.25,
+        "worst": 1.53,
+        "spread": 7.72,
+        "island_excellence": -0.46
+      },
+      {
+        "school": "LICEUL TEORETIC \"CONSTANTIN BRANCOVEANU\" DABULENI",
+        "judet": "DJ",
+        "n": 62,
+        "presented": 62,
+        "avg_media": 6.45,
+        "std_media": 1.99,
+        "best": 9.6,
+        "worst": 2.05,
+        "spread": 7.55,
+        "island_excellence": -0.9
+      },
+      {
+        "school": "LICEUL \"HERCULES\" BAILE HERCULANE",
+        "judet": "CS",
+        "n": 32,
+        "presented": 32,
+        "avg_media": 5.27,
+        "std_media": 1.99,
+        "best": 9.16,
+        "worst": 1.25,
+        "spread": 7.91,
+        "island_excellence": -1.62
       }
     ],
-    "biggest_contestation_jumps": []
+    "biggest_contestation_jumps": [
+      {
+        "subject": "romana",
+        "cod_candidat": "B1775939",
+        "delta": 3.45
+      },
+      {
+        "subject": "alegere",
+        "cod_candidat": "IF1789994",
+        "delta": 3.2
+      },
+      {
+        "subject": "profil",
+        "cod_candidat": "SB1785594",
+        "delta": 2.9
+      },
+      {
+        "subject": "materna",
+        "cod_candidat": "HR1761173",
+        "delta": 2.15
+      }
+    ]
   },
   "reporter_deepdive": {
     "contestation_rescue": {

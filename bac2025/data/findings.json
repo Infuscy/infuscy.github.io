@@ -2,8 +2,9 @@
   "meta": {
     "source": "data/bac2025iunie_final.parquet",
     "generated_by": "analyze/stats.py",
+    "schema_version": 2,
     "total_rows": 107812,
-    "digest_sha256": "0814a91724ccea04e51a824e0ac19a804f7152ecfb826815aff211b57e839d32"
+    "digest_sha256": "0043da53a92d678424dbd4ccee16fbdb32d5bb653d40c366a3f55d98d22e2087"
   },
   "overview": {
     "total_candidates": 107812,
@@ -16,7 +17,8 @@
     "presented": 104571,
     "national_pass_rate": 76.56,
     "presented_rate": 96.99,
-    "elimination_rate": 0.06
+    "elimination_rate": 0.06,
+    "perfect10_total": 32
   },
   "grade_distribution": {
     "romana_final": {
@@ -953,6 +955,7 @@
     "romana": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 16524,
+      "total": 107812,
       "mean_delta": 0.27,
       "median_delta": 0.3,
       "up": 11183,
@@ -969,6 +972,7 @@
     "profil": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 11031,
+      "total": 107812,
       "mean_delta": 0.17,
       "median_delta": 0.15,
       "up": 7161,
@@ -985,6 +989,7 @@
     "alegere": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 10058,
+      "total": 107812,
       "mean_delta": 0.14,
       "median_delta": 0.15,
       "up": 6457,
@@ -1001,6 +1006,7 @@
     "materna": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 307,
+      "total": 6201,
       "mean_delta": 0.2,
       "median_delta": 0.2,
       "up": 191,
@@ -3510,20 +3516,20 @@
     ]
   },
   "interesting_facts": [
-    "Total candidates: 107,812; national pass rate 76.56%.",
+    "Total candidați: 107,812; rata națională de promovare 76.56%.",
     "REUSIT 80,056 / RESPINS 24,515 / NEPREZENTAT 3,178 / ELIMINAT 63.",
-    "Top county by avg media: CJ (7.91, n=3643).",
-    "Lowest county by avg media: IF (6.43, n=1092).",
-    "Top specializare by avg media: INVATATOR - EDUCATOARE (8.64, n=1819).",
-    "Perfect 10s (media==10): 32 of 104,571 graded.",
-    "Repeater penalty: pass rate gap 45.9 pp (first-time 81.91% vs repeater 36.01%).",
-    "Widest within-county school gap: OT (5.03 pts, COLEGIUL NATIONAL \"ION MINULESCU\" SLATINA vs LICEUL TEHNOLOGIC \"DANUBIUS\" CORABIA).",
-    "Best language by avg media: LIMBA SPANIOLA (8.32, n=226).",
-    "Contestation for romana: 16,524 changed grade, 67.68% up / 32.32% down, max swing 3.85.",
-    "Contestation for profil: 11,031 changed grade, 64.92% up / 35.08% down, max swing 2.7.",
-    "Contestation for alegere: 10,058 changed grade, 64.2% up / 35.8% down, max swing 2.9.",
-    "Contestation for materna: 307 changed grade, 62.21% up / 37.79% down, max swing 2.0.",
-    "Strongest correlate of media: profil_final (r=0.92)."
+    "Județul cu cea mai mare medie: CJ (7.91, n=3643).",
+    "Județul cu cea mai mică medie: IF (6.43, n=1092).",
+    "Specializarea cu cea mai mare medie: INVATATOR - EDUCATOARE (8.64, n=1819).",
+    "Note perfecte 10 (media==10): 32 din 104,571 notați.",
+    "Decalajul repetenților: 45.9 pp în rata de promovare (prima promoție 81.91% vs repetenți 36.01%).",
+    "Cel mai mare decalaj între școli din același județ: OT (5.03 puncte, COLEGIUL NATIONAL \"ION MINULESCU\" SLATINA vs LICEUL TEHNOLOGIC \"DANUBIUS\" CORABIA).",
+    "Cea mai bună limbă modernă după medie: LIMBA SPANIOLA (8.32, n=226).",
+    "Contestații romana: 16,524 note schimbate, 67.68% în sus / 32.32% în jos, swing maxim 3.85.",
+    "Contestații profil: 11,031 note schimbate, 64.92% în sus / 35.08% în jos, swing maxim 2.7.",
+    "Contestații alegere: 10,058 note schimbate, 64.2% în sus / 35.8% în jos, swing maxim 2.9.",
+    "Contestații materna: 307 note schimbate, 62.21% în sus / 37.79% în jos, swing maxim 2.0.",
+    "Cel mai puternic corelat cu media: profil_final (r=0.92)."
   ],
   "rankings": {
     "county_by_avg_media": {
@@ -3807,22 +3813,10 @@
       ],
       "bottom": [
         {
-          "key": "TEOLOGIE MUSULMANA",
-          "avg_media": 4.15,
-          "n": 6,
-          "low_confidence": "n<30"
-        },
-        {
           "key": "TEHNICIAN IN INDUSTRIA PIELARIEI",
           "avg_media": 4.23,
           "n": 41,
           "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN PRELUCRARI LA CALD",
-          "avg_media": 4.65,
-          "n": 15,
-          "low_confidence": "n<30"
         },
         {
           "key": "TEHNICIAN MECANIC PENTRU INTRETINERE SI REPARATII",
@@ -3861,22 +3855,10 @@
           "low_confidence": null
         },
         {
-          "key": "TEHNICIAN IN INDUSTRIA ALIMENTARA EXTRACTIVA",
-          "avg_media": 4.98,
-          "n": 1,
-          "low_confidence": "n<5"
-        },
-        {
           "key": "TEHNICIAN AGROMONTAN",
           "avg_media": 4.98,
           "n": 45,
           "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN ZOOTEHNIST",
-          "avg_media": 4.98,
-          "n": 12,
-          "low_confidence": "n<30"
         },
         {
           "key": "TEHNICIAN IN CHIMIE INDUSTRIALA",
@@ -3894,6 +3876,30 @@
           "key": "TEHNICIAN PRELUCRARI MECANICE",
           "avg_media": 5.1,
           "n": 111,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN INSTALATOR PENTRU CONSTRUCTII",
+          "avg_media": 5.1,
+          "n": 115,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN AGRICULTURA",
+          "avg_media": 5.11,
+          "n": 285,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN CONSTRUCTII SI LUCRARI PUBLICE",
+          "avg_media": 5.15,
+          "n": 134,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN INDUSTRIA TEXTILA",
+          "avg_media": 5.16,
+          "n": 198,
           "low_confidence": null
         }
       ]
@@ -3979,12 +3985,6 @@
           "low_confidence": null
         },
         {
-          "key": "LICEUL INTERNATIONAL IOANID",
-          "avg_media": 9.41,
-          "n": 3,
-          "low_confidence": "n<5"
-        },
-        {
           "key": "COLEGIUL NATIONAL DE INFORMATICA \"TUDOR VIANU\"",
           "avg_media": 9.4,
           "n": 244,
@@ -4013,12 +4013,6 @@
           "avg_media": 9.33,
           "n": 156,
           "low_confidence": null
-        },
-        {
-          "key": "LICEUL PEDAGOGIC \"ANASTASIA POPESCU\"",
-          "avg_media": 9.33,
-          "n": 6,
-          "low_confidence": "n<30"
         },
         {
           "key": "COLEGIUL NATIONAL \"COSTACHE NEGRUZZI\", IASI",
@@ -4069,12 +4063,6 @@
           "low_confidence": null
         },
         {
-          "key": "COLEGIUL \"RICHARD WURMBRAND\", IASI",
-          "avg_media": 9.25,
-          "n": 25,
-          "low_confidence": "n<30"
-        },
-        {
           "key": "COLEGIUL NATIONAL \"MIHAI EMINESCU\", IASI",
           "avg_media": 9.23,
           "n": 161,
@@ -4115,69 +4103,27 @@
           "avg_media": 9.19,
           "n": 186,
           "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"COSTACHE NEGRI\", MUNICIPIUL GALATI",
+          "avg_media": 9.19,
+          "n": 182,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL \"GHEORGHE VRANCEANU\" BACAU",
+          "avg_media": 9.18,
+          "n": 196,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL NATIONAL 'DR. IOAN MESOTA' BRASOV",
+          "avg_media": 9.18,
+          "n": 159,
+          "low_confidence": null
         }
       ],
       "bottom": [
-        {
-          "key": "CENTRUL SCOLAR PENTRU EDUCATIE INCLUZIVA \"ELENA DOAMNA\" FOCSANI",
-          "avg_media": 2.43,
-          "n": 4,
-          "low_confidence": "n<5"
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC NR.1 SURDUC",
-          "avg_media": 3.05,
-          "n": 7,
-          "low_confidence": "n<30"
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC MACIN",
-          "avg_media": 3.06,
-          "n": 5,
-          "low_confidence": "n<30"
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"TRANDAFIR COCARLA\" CARANSEBES",
-          "avg_media": 3.27,
-          "n": 10,
-          "low_confidence": "n<30"
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC SPECIAL NR. 3",
-          "avg_media": 3.3,
-          "n": 16,
-          "low_confidence": "n<30"
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC ORAS PATARLAGELE",
-          "avg_media": 3.32,
-          "n": 10,
-          "low_confidence": "n<30"
-        },
-        {
-          "key": "SCOALA PROFESIONALA POIENILE DE SUB MUNTE",
-          "avg_media": 3.33,
-          "n": 1,
-          "low_confidence": "n<5"
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"AUREL PERSU\" TARGU MURES",
-          "avg_media": 3.37,
-          "n": 17,
-          "low_confidence": "n<30"
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC NR.1 SUPLACU DE BARCAU",
-          "avg_media": 3.45,
-          "n": 6,
-          "low_confidence": "n<30"
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"IORDACHE ZOSSIMA\" ARMASESTI",
-          "avg_media": 3.47,
-          "n": 1,
-          "low_confidence": "n<5"
-        },
         {
           "key": "LICEUL TEHNOLOGIC \"DANUBIUS\" CORABIA",
           "avg_media": 3.51,
@@ -4185,88 +4131,148 @@
           "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC AUTO CURTEA DE ARGES",
-          "avg_media": 3.54,
-          "n": 5,
-          "low_confidence": "n<30"
+          "key": "LICEUL TEHNOLOGIC \"DIERNA\"",
+          "avg_media": 4.1,
+          "n": 69,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC \"UNIO-TRAIAN VUIA\" SATU MARE",
-          "avg_media": 3.55,
-          "n": 6,
-          "low_confidence": "n<30"
+          "key": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" ALEXANDRIA",
+          "avg_media": 4.1,
+          "n": 42,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC SPECIAL \"BEETHOVEN\" CRAIOVA",
-          "avg_media": 3.68,
-          "n": 3,
-          "low_confidence": "n<5"
+          "key": "LICEUL TEHNOLOGIC \"ALEXE MARIN\" SLATINA",
+          "avg_media": 4.3,
+          "n": 39,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEORETIC \"GHEORGHE IONESCU SISESTI\"",
-          "avg_media": 3.69,
-          "n": 15,
-          "low_confidence": "n<30"
+          "key": "LICEUL TEHNOLOGIC \"SZEKELY KAROLY\" MIERCUREA CIUC",
+          "avg_media": 4.37,
+          "n": 56,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC \"GEORGETA J. CANCICOV\" PARINCEA",
-          "avg_media": 3.71,
-          "n": 2,
-          "low_confidence": "n<5"
+          "key": "LICEUL TEHNOLOGIC TOPOLOVENI",
+          "avg_media": 4.4,
+          "n": 43,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC JIDVEI",
-          "avg_media": 3.71,
-          "n": 2,
-          "low_confidence": "n<5"
+          "key": "LICEUL TEHNOLOGIC \"MIHAI EMINESCU\" SLOBOZIA",
+          "avg_media": 4.41,
+          "n": 71,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC 'NICOLAE ISTRATOIU' DELENI",
-          "avg_media": 3.72,
-          "n": 2,
-          "low_confidence": "n<5"
+          "key": "LICEUL TEHNOLOGIC TOPOLOG",
+          "avg_media": 4.44,
+          "n": 39,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC \"STEFAN ANGHEL\" BAILESTI",
-          "avg_media": 3.77,
-          "n": 15,
-          "low_confidence": "n<30"
+          "key": "LICEUL TEHNOLOGIC \"VOIEVODUL GELU\" ZALAU",
+          "avg_media": 4.44,
+          "n": 38,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC \"PETRU RARES'' BOTOSANI",
-          "avg_media": 3.87,
-          "n": 20,
-          "low_confidence": "n<30"
+          "key": "LICEUL TEHNOLOGIC \"IORDACHE GOLESCU\" GAESTI",
+          "avg_media": 4.47,
+          "n": 116,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC NR.1 PRUNDU",
-          "avg_media": 3.91,
-          "n": 6,
-          "low_confidence": "n<30"
+          "key": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\" ROSIORI DE VEDE",
+          "avg_media": 4.48,
+          "n": 50,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC \"DINU BRATIANU\" STEFANESTI",
-          "avg_media": 3.92,
-          "n": 10,
-          "low_confidence": "n<30"
+          "key": "LICEUL TEHNOLOGIC \"DOMNUL TUDOR\"",
+          "avg_media": 4.48,
+          "n": 46,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMISOARA",
-          "avg_media": 3.94,
-          "n": 19,
-          "low_confidence": "n<30"
+          "key": "LICEUL TEHNOLOGIC \"STEFAN MILCU\" CALAFAT",
+          "avg_media": 4.5,
+          "n": 48,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC \"SF.DIMITRIE\" TEREGOVA",
-          "avg_media": 4.0,
-          "n": 23,
-          "low_confidence": "n<30"
+          "key": "LICEUL TEHNOLOGIC \"CRISTOFOR NAKO\" SANNICOLAU MARE",
+          "avg_media": 4.53,
+          "n": 46,
+          "low_confidence": null
         },
         {
-          "key": "LICEUL AUTO \"TRAIAN VUIA\" TARGU JIU",
-          "avg_media": 4.01,
-          "n": 29,
-          "low_confidence": "n<30"
+          "key": "LICEUL TEHNOLOGIC \"MIHAI VITEAZUL\" ZALAU",
+          "avg_media": 4.57,
+          "n": 86,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC BARSESTI",
+          "avg_media": 4.57,
+          "n": 63,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL AGRICOL \"SANDU ALDEA\" CALARASI",
+          "avg_media": 4.63,
+          "n": 61,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"ION I. C. BRATIANU\" SATU MARE",
+          "avg_media": 4.7,
+          "n": 41,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC METALURGIC SLATINA",
+          "avg_media": 4.7,
+          "n": 41,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"APOR PéTER\" TARGU SECUIESC",
+          "avg_media": 4.72,
+          "n": 52,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"ION I.C. BRATIANU\"",
+          "avg_media": 4.72,
+          "n": 83,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"ION VLASIU\" TARGU MURES",
+          "avg_media": 4.76,
+          "n": 48,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL TEHNIC \"DIMITRIE LEONIDA\"",
+          "avg_media": 4.8,
+          "n": 85,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"ELECTROTIMIS\" TIMISOARA",
+          "avg_media": 4.82,
+          "n": 56,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DIMITRIE LEONIDA\", MUNICIPIUL PIATRA-NEAMT",
+          "avg_media": 4.84,
+          "n": 32,
+          "low_confidence": null
         }
       ]
     },

@@ -6,6 +6,39 @@ Every bug was verified against the shipped data and the live UIs. Fix order = pr
 
 ---
 
+## Batch 2 (2026-08-01) — implemented: sort drift, effect-size fabrication, silent fallbacks
+
+Follow-up audit after the batch-1 rebuild. All fixed in the upstream repos; digests are now **schema v3** (`media_std` added to `repeaters_vs_first`, bottom lists standardized). Guarded in `delta.py:guard_digests` (bottom-list ordering + `media_std` presence).
+
+### Bug 7 (critical) — bottom-15 lists sorted in opposite directions between years
+**Where:** `rankings.*.bottom` in both digests; `rankings.county_rank_churn` in delta.json.
+**Symptom:** 2025 bottom lists worst-first, 2026 best-first (the 2026 `topbottom()` had `list(reversed(ranked(reverse=False)[:k]))`). Churn ranks are list positions, so the delta's "Schimbare" column was inverted for the bottom half: IF (last county, 42/42, BOTH years) showed "16 → 30, +14"; MH showed a +12 fall while actually improving 6.44 → 6.59; TM a −14 rise while flat.
+**Fix:** BAC2026 `stats.py` — drop the `reversed()` in `topbottom()` and `school_by_pass_rate` bottom. Guard: both years' `county/school/specializare/family_by_avg_media` + `school_by_pass_rate` bottoms must be ascending.
+**Result:** IF 16→16 (+0.03), MH 17→17 (+0.15), TM 30→30 (+0.02). UI now shows **Δ medie** instead of rank-delta (see Bug 10).
+
+### Bug 8 (high) — Cohen's d fabricated from hardcoded SD = 0.5
+**Where:** both apps' `sections/Findings.tsx` (Descoperire 2) — `cohensD(avg, 0.5, n, ...)`.
+**Symptom:** displayed "SD = 0.50" and "Cohen's d = 3.90" — the true group SDs are 1.71/0.98 (2025) and 1.69/1.04 (2026), real d ≈ 1.19.
+**Fix:** `media_std` per group added to both digests (schema v3) + passthrough in `delta.py:d_repeaters`; apps read `media_std ?? grade_distribution.media.std`. Guard: `media_std` non-null for both groups, both years.
+
+### Bug 9 (high) — "Începători promovează doar în 0.0%" diacritic fallback
+**Where:** both apps' `Findings.tsx` — `level.includes("începător")` vs ASCII data `"Utilizator incepator"`.
+**Symptom:** `find()` misses → `?? 0` renders 0.0% next to a chart showing 48.6%/49.9%.
+**Fix:** ASCII-fold helper (`NFD` + strip combining marks + lowercase) on both sides; missing level renders "n/a", never 0.
+
+### Bug 10 (medium) — delta report presentation holes
+**Where:** BAC2526 app.
+- Subvariante table rendered blank cells for absent variants (INFORMATICA SN PASCAL: n=1/absent) and hid `n`, so small-sample swings (FILOSOFIE +0.54 on n≈200) read as signal. Fixed: n columns added, n<30 rows excluded from chart+table with an explicit note, nulls render "—".
+- County churn table silently truncated at 20 of 33 rows (`.slice(0, 20)`). Fixed: full table + Δ medie columns + rank convention note ("1 = cel mai bun, 30 = cel mai slab").
+- Copy: "a răstabil" → "a rămas stabilă", "fară a degradarea" → "fără a degrada", "s-a ușor redus" → "s-a redus ușor", "schîntei demografice" → "schimbări demografice"; bogus Acțiune bullet ("repetenții în seral performează mai bine") replaced with the data-backed claim; `C:/GIT/...` paths removed from Metodologie and `delta.json` meta.
+- `delta.py` key typo `materna_competene` → `materna_competente`.
+
+### Remaining (not in this batch)
+- **Mojibake school names (Rm. Vâlcea):** `"MATEI BASARABË®"` etc. are baked into the *scraped* `data/bac2026_final.csv` (164 rows; also in 2025). Fix requires a source re-scrape or a name-normalization map in `preprocess/build_data.py` — not an encoding fix.
+- New analyses proposed in the audit (contestation-filed growth, Ilfov paradox, vocational-wave composition) — not implemented; the shipped parquet already carries the needed columns.
+
+---
+
 ## Bug 1 (critical) — Contestation denominator mismatch 2025 vs 2026
 
 **Where:** `analyze/stats.py` in BAC2025IUNIE and BAC2026; `analyze/delta.py` in BAC2526 consumes the digests.

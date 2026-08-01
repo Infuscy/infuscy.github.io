@@ -2,9 +2,9 @@
   "meta": {
     "source": "data/bac2025iunie_final.parquet",
     "generated_by": "analyze/stats.py",
-    "schema_version": 2,
+    "schema_version": 3,
     "total_rows": 107812,
-    "digest_sha256": "0043da53a92d678424dbd4ccee16fbdb32d5bb653d40c366a3f55d98d22e2087"
+    "digest_sha256": "0eb9b76a10cb1931eb4afa58b569e96b9771c5c1b09cf0bcdb2f703eb894c491"
   },
   "overview": {
     "total_candidates": 107812,
@@ -616,12 +616,14 @@
     "repeaters": {
       "pass_rate": 36.01,
       "n": 12199,
-      "avg_media": 5.62
+      "avg_media": 5.62,
+      "media_std": 0.98
     },
     "first_time": {
       "pass_rate": 81.91,
       "n": 92372,
-      "avg_media": 7.57
+      "avg_media": 7.57,
+      "media_std": 1.71
     },
     "pass_rate_gap_pp": 45.9,
     "media_welch_t": -186.47,

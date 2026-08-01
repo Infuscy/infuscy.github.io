@@ -2,9 +2,9 @@
   "meta": {
     "source": "data/bac2026_final.parquet",
     "generated_by": "analyze/stats.py",
-    "schema_version": 2,
+    "schema_version": 3,
     "total_rows": 130709,
-    "digest_sha256": "0dc15abee6fc791b0dd46088dd0282bbfd5e2908523bce71e87fac8062c8dcb9"
+    "digest_sha256": "970bc9c9aea14956ec5eac138020c0a5d05700bbe50cad5aa019d970f760ed7a"
   },
   "overview": {
     "total_candidates": 130709,
@@ -618,12 +618,14 @@
     "repeaters": {
       "pass_rate": 35.15,
       "n": 12727,
-      "avg_media": 5.6
+      "avg_media": 5.6,
+      "media_std": 1.04
     },
     "first_time": {
       "pass_rate": 81.68,
       "n": 113250,
-      "avg_media": 7.55
+      "avg_media": 7.55,
+      "media_std": 1.69
     },
     "pass_rate_gap_pp": 46.53,
     "media_welch_t": -185.19,
@@ -3599,81 +3601,9 @@
       ],
       "bottom": [
         {
-          "key": "TM",
-          "avg_media": 7.13,
-          "n": 4560,
-          "low_confidence": null
-        },
-        {
-          "key": "SJ",
-          "avg_media": 7.09,
-          "n": 1445,
-          "low_confidence": null
-        },
-        {
-          "key": "HR",
-          "avg_media": 7.07,
-          "n": 2377,
-          "low_confidence": null
-        },
-        {
-          "key": "GJ",
-          "avg_media": 7.06,
-          "n": 2670,
-          "low_confidence": null
-        },
-        {
-          "key": "DB",
-          "avg_media": 7.06,
-          "n": 2946,
-          "low_confidence": null
-        },
-        {
-          "key": "TL",
-          "avg_media": 7.02,
-          "n": 1283,
-          "low_confidence": null
-        },
-        {
-          "key": "AR",
-          "avg_media": 6.95,
-          "n": 2757,
-          "low_confidence": null
-        },
-        {
-          "key": "IL",
-          "avg_media": 6.93,
-          "n": 1561,
-          "low_confidence": null
-        },
-        {
-          "key": "CS",
-          "avg_media": 6.89,
-          "n": 1401,
-          "low_confidence": null
-        },
-        {
-          "key": "OT",
-          "avg_media": 6.88,
-          "n": 2312,
-          "low_confidence": null
-        },
-        {
-          "key": "TR",
-          "avg_media": 6.8,
-          "n": 1735,
-          "low_confidence": null
-        },
-        {
-          "key": "CL",
-          "avg_media": 6.67,
-          "n": 1243,
-          "low_confidence": null
-        },
-        {
-          "key": "GR",
-          "avg_media": 6.67,
-          "n": 964,
+          "key": "IF",
+          "avg_media": 6.46,
+          "n": 1368,
           "low_confidence": null
         },
         {
@@ -3683,9 +3613,81 @@
           "low_confidence": null
         },
         {
-          "key": "IF",
-          "avg_media": 6.46,
-          "n": 1368,
+          "key": "GR",
+          "avg_media": 6.67,
+          "n": 964,
+          "low_confidence": null
+        },
+        {
+          "key": "CL",
+          "avg_media": 6.67,
+          "n": 1243,
+          "low_confidence": null
+        },
+        {
+          "key": "TR",
+          "avg_media": 6.8,
+          "n": 1735,
+          "low_confidence": null
+        },
+        {
+          "key": "OT",
+          "avg_media": 6.88,
+          "n": 2312,
+          "low_confidence": null
+        },
+        {
+          "key": "CS",
+          "avg_media": 6.89,
+          "n": 1401,
+          "low_confidence": null
+        },
+        {
+          "key": "IL",
+          "avg_media": 6.93,
+          "n": 1561,
+          "low_confidence": null
+        },
+        {
+          "key": "AR",
+          "avg_media": 6.95,
+          "n": 2757,
+          "low_confidence": null
+        },
+        {
+          "key": "TL",
+          "avg_media": 7.02,
+          "n": 1283,
+          "low_confidence": null
+        },
+        {
+          "key": "DB",
+          "avg_media": 7.06,
+          "n": 2946,
+          "low_confidence": null
+        },
+        {
+          "key": "GJ",
+          "avg_media": 7.06,
+          "n": 2670,
+          "low_confidence": null
+        },
+        {
+          "key": "HR",
+          "avg_media": 7.07,
+          "n": 2377,
+          "low_confidence": null
+        },
+        {
+          "key": "SJ",
+          "avg_media": 7.09,
+          "n": 1445,
+          "low_confidence": null
+        },
+        {
+          "key": "TM",
+          "avg_media": 7.13,
+          "n": 4560,
           "low_confidence": null
         }
       ]
@@ -3785,81 +3787,9 @@
       ],
       "bottom": [
         {
-          "key": "TEHNICIAN IN INDUSTRIA TEXTILA",
-          "avg_media": 5.34,
-          "n": 252,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN METROLOG",
-          "avg_media": 5.31,
-          "n": 49,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN INSTALATOR PENTRU CONSTRUCTII",
-          "avg_media": 5.31,
-          "n": 146,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN PRELUCRARI MECANICE",
-          "avg_media": 5.29,
-          "n": 114,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN AGRONOM",
-          "avg_media": 5.27,
-          "n": 82,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN HORTICULTOR",
-          "avg_media": 5.27,
-          "n": 170,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN PRELUCRARI PE MASINI CU COMANDA NUMERICA",
-          "avg_media": 5.24,
-          "n": 198,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN IN INDUSTRIA PIELARIEI",
-          "avg_media": 5.22,
-          "n": 51,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN IN AGROTURISM",
-          "avg_media": 5.19,
-          "n": 215,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN ELECTROTEHNIST",
-          "avg_media": 5.18,
-          "n": 376,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN IN MORARIT, PANIFICATIE SI PRODUSE FAINOASE",
-          "avg_media": 5.1,
-          "n": 56,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN TRANSPORTURI",
-          "avg_media": 5.05,
-          "n": 1096,
-          "low_confidence": null
-        },
-        {
-          "key": "TEHNICIAN IN AGRICULTURA",
-          "avg_media": 4.88,
-          "n": 296,
+          "key": "TEHNICIAN IN PRELUCRAREA LEMNULUI",
+          "avg_media": 4.25,
+          "n": 106,
           "low_confidence": null
         },
         {
@@ -3869,9 +3799,81 @@
           "low_confidence": null
         },
         {
-          "key": "TEHNICIAN IN PRELUCRAREA LEMNULUI",
-          "avg_media": 4.25,
-          "n": 106,
+          "key": "TEHNICIAN IN AGRICULTURA",
+          "avg_media": 4.88,
+          "n": 296,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN TRANSPORTURI",
+          "avg_media": 5.05,
+          "n": 1096,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN MORARIT, PANIFICATIE SI PRODUSE FAINOASE",
+          "avg_media": 5.1,
+          "n": 56,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN ELECTROTEHNIST",
+          "avg_media": 5.18,
+          "n": 376,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN AGROTURISM",
+          "avg_media": 5.19,
+          "n": 215,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN INDUSTRIA PIELARIEI",
+          "avg_media": 5.22,
+          "n": 51,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN PRELUCRARI PE MASINI CU COMANDA NUMERICA",
+          "avg_media": 5.24,
+          "n": 198,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN HORTICULTOR",
+          "avg_media": 5.27,
+          "n": 170,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN AGRONOM",
+          "avg_media": 5.27,
+          "n": 82,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN PRELUCRARI MECANICE",
+          "avg_media": 5.29,
+          "n": 114,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN INSTALATOR PENTRU CONSTRUCTII",
+          "avg_media": 5.31,
+          "n": 146,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN METROLOG",
+          "avg_media": 5.31,
+          "n": 49,
+          "low_confidence": null
+        },
+        {
+          "key": "TEHNICIAN IN INDUSTRIA TEXTILA",
+          "avg_media": 5.34,
+          "n": 252,
           "low_confidence": null
         }
       ]
@@ -3911,21 +3913,9 @@
       ],
       "bottom": [
         {
-          "key": "MATEMATICA",
-          "avg_media": 8.08,
-          "n": 40801,
-          "low_confidence": null
-        },
-        {
-          "key": "STIINTE",
-          "avg_media": 7.91,
-          "n": 12141,
-          "low_confidence": null
-        },
-        {
-          "key": "LIMBI",
-          "avg_media": 7.84,
-          "n": 21268,
+          "key": "TEHNIC/VOCATIONAL",
+          "avg_media": 6.23,
+          "n": 41028,
           "low_confidence": null
         },
         {
@@ -3935,9 +3925,21 @@
           "low_confidence": null
         },
         {
-          "key": "TEHNIC/VOCATIONAL",
-          "avg_media": 6.23,
-          "n": 41028,
+          "key": "LIMBI",
+          "avg_media": 7.84,
+          "n": 21268,
+          "low_confidence": null
+        },
+        {
+          "key": "STIINTE",
+          "avg_media": 7.91,
+          "n": 12141,
+          "low_confidence": null
+        },
+        {
+          "key": "MATEMATICA",
+          "avg_media": 8.08,
+          "n": 40801,
           "low_confidence": null
         }
       ]
@@ -4097,141 +4099,9 @@
       ],
       "bottom": [
         {
-          "key": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARA TIMISOARA",
-          "avg_media": 4.85,
-          "n": 102,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC AGRICOL BECLEAN",
-          "avg_media": 4.82,
-          "n": 61,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"MIHAI VITEAZUL\" ZALAU",
-          "avg_media": 4.81,
-          "n": 106,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\" ROSIORI DE VEDE",
-          "avg_media": 4.75,
-          "n": 83,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC TARNAVENI",
-          "avg_media": 4.74,
-          "n": 34,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL \"GEORGE TARNEA\", ORAS BABENI",
-          "avg_media": 4.74,
-          "n": 34,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC BARSESTI",
-          "avg_media": 4.72,
-          "n": 49,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"CRISTOFOR NAKO\" SANNICOLAU MARE",
-          "avg_media": 4.7,
-          "n": 71,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMISOARA",
-          "avg_media": 4.7,
-          "n": 46,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"CAROL I\", IASI",
-          "avg_media": 4.68,
-          "n": 40,
-          "low_confidence": null
-        },
-        {
-          "key": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA \"DUMITRU MOTOC\"",
-          "avg_media": 4.68,
-          "n": 96,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC CHISINEU CRIS",
-          "avg_media": 4.66,
-          "n": 61,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"DIERNA\"",
-          "avg_media": 4.61,
-          "n": 39,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO TARGOVISTE",
-          "avg_media": 4.59,
-          "n": 71,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"DINU BRATIANU\" STEFANESTI",
-          "avg_media": 4.54,
-          "n": 38,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC BANEASA",
-          "avg_media": 4.49,
-          "n": 38,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"PETRE BANITA\" CALARASI",
-          "avg_media": 4.45,
-          "n": 40,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC METALURGIC SLATINA",
-          "avg_media": 4.41,
-          "n": 59,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC DE VEST TIMISOARA",
-          "avg_media": 4.4,
-          "n": 46,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC NR. 1 MARACINENI",
-          "avg_media": 4.33,
-          "n": 37,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"SAVA BRANCOVICI\" INEU",
-          "avg_media": 4.23,
-          "n": 59,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"VASILE DEAC\" VATRA DORNEI",
-          "avg_media": 4.15,
-          "n": 30,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" ALEXANDRIA",
-          "avg_media": 4.04,
-          "n": 51,
+          "key": "LICEUL TEHNOLOGIC \"ION MINCU\" TULCEA",
+          "avg_media": 3.64,
+          "n": 33,
           "low_confidence": null
         },
         {
@@ -4241,9 +4111,141 @@
           "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC \"ION MINCU\" TULCEA",
-          "avg_media": 3.64,
-          "n": 33,
+          "key": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" ALEXANDRIA",
+          "avg_media": 4.04,
+          "n": 51,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"VASILE DEAC\" VATRA DORNEI",
+          "avg_media": 4.15,
+          "n": 30,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"SAVA BRANCOVICI\" INEU",
+          "avg_media": 4.23,
+          "n": 59,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC NR. 1 MARACINENI",
+          "avg_media": 4.33,
+          "n": 37,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC DE VEST TIMISOARA",
+          "avg_media": 4.4,
+          "n": 46,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC METALURGIC SLATINA",
+          "avg_media": 4.41,
+          "n": 59,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"PETRE BANITA\" CALARASI",
+          "avg_media": 4.45,
+          "n": 40,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC BANEASA",
+          "avg_media": 4.49,
+          "n": 38,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DINU BRATIANU\" STEFANESTI",
+          "avg_media": 4.54,
+          "n": 38,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC DE TRANSPORTURI AUTO TARGOVISTE",
+          "avg_media": 4.59,
+          "n": 71,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DIERNA\"",
+          "avg_media": 4.61,
+          "n": 39,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC CHISINEU CRIS",
+          "avg_media": 4.66,
+          "n": 61,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA \"DUMITRU MOTOC\"",
+          "avg_media": 4.68,
+          "n": 96,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"CAROL I\", IASI",
+          "avg_media": 4.68,
+          "n": 40,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMISOARA",
+          "avg_media": 4.7,
+          "n": 46,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"CRISTOFOR NAKO\" SANNICOLAU MARE",
+          "avg_media": 4.7,
+          "n": 71,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC BARSESTI",
+          "avg_media": 4.72,
+          "n": 49,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL \"GEORGE TARNEA\", ORAS BABENI",
+          "avg_media": 4.74,
+          "n": 34,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC TARNAVENI",
+          "avg_media": 4.74,
+          "n": 34,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"ANGHEL SALIGNY\" ROSIORI DE VEDE",
+          "avg_media": 4.75,
+          "n": 83,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"MIHAI VITEAZUL\" ZALAU",
+          "avg_media": 4.81,
+          "n": 106,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC AGRICOL BECLEAN",
+          "avg_media": 4.82,
+          "n": 61,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC DE INDUSTRIE ALIMENTARA TIMISOARA",
+          "avg_media": 4.85,
+          "n": 102,
           "low_confidence": null
         }
       ]
@@ -4403,141 +4405,9 @@
       ],
       "bottom": [
         {
-          "key": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMISOARA",
-          "pass_rate": 21.05,
-          "n": 46,
-          "low_confidence": null
-        },
-        {
-          "key": "COLEGIUL TEHNIC AUTO \"TRAIAN VUIA\" FOCSANI",
-          "pass_rate": 20.93,
-          "n": 46,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"ION MINCU\" TULCEA",
-          "pass_rate": 20.83,
-          "n": 33,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"DINU BRATIANU\" STEFANESTI",
-          "pass_rate": 20.59,
-          "n": 38,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC AGRICOL BECLEAN",
-          "pass_rate": 20.37,
-          "n": 61,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC ECONOMIC \"ELINA MATEI BASARAB\" MUNICIPIUL RAMNICU SARAT",
-          "pass_rate": 20.0,
-          "n": 51,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"FRANCISC NEUMAN\" ARAD",
-          "pass_rate": 20.0,
-          "n": 80,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC DE VEST TIMISOARA",
-          "pass_rate": 19.44,
-          "n": 46,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC BANEASA",
-          "pass_rate": 19.44,
-          "n": 38,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC BARSESTI",
-          "pass_rate": 19.35,
-          "n": 49,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"CRISTOFOR NAKO\" SANNICOLAU MARE",
-          "pass_rate": 19.23,
-          "n": 71,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"PETRE BANITA\" CALARASI",
-          "pass_rate": 19.05,
-          "n": 40,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" ALEXANDRIA",
-          "pass_rate": 18.92,
-          "n": 51,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"MATEI BASARAB\" CARACAL",
-          "pass_rate": 18.87,
-          "n": 56,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC CHISINEU CRIS",
-          "pass_rate": 18.52,
-          "n": 61,
-          "low_confidence": null
-        },
-        {
-          "key": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA \"DUMITRU MOTOC\"",
-          "pass_rate": 18.07,
-          "n": 96,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"AVRAM IANCU\" TARGU MURES",
-          "pass_rate": 17.65,
-          "n": 40,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC NR. 1 MARACINENI",
-          "pass_rate": 16.67,
-          "n": 37,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"DIMITRIE LEONIDA\", MUNICIPIUL PIATRA-NEAMT",
-          "pass_rate": 16.67,
-          "n": 39,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"SAVA BRANCOVICI\" INEU",
-          "pass_rate": 16.13,
-          "n": 59,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC TARNAVENI",
-          "pass_rate": 14.71,
-          "n": 34,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"DANUBIUS\" CORABIA",
-          "pass_rate": 13.51,
-          "n": 48,
-          "low_confidence": null
-        },
-        {
-          "key": "LICEUL TEHNOLOGIC \"DIERNA\"",
-          "pass_rate": 12.5,
-          "n": 39,
+          "key": "LICEUL TEHNOLOGIC \"VASILE DEAC\" VATRA DORNEI",
+          "pass_rate": 5.56,
+          "n": 30,
           "low_confidence": null
         },
         {
@@ -4547,9 +4417,141 @@
           "low_confidence": null
         },
         {
-          "key": "LICEUL TEHNOLOGIC \"VASILE DEAC\" VATRA DORNEI",
-          "pass_rate": 5.56,
-          "n": 30,
+          "key": "LICEUL TEHNOLOGIC \"DIERNA\"",
+          "pass_rate": 12.5,
+          "n": 39,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DANUBIUS\" CORABIA",
+          "pass_rate": 13.51,
+          "n": 48,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC TARNAVENI",
+          "pass_rate": 14.71,
+          "n": 34,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"SAVA BRANCOVICI\" INEU",
+          "pass_rate": 16.13,
+          "n": 59,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DIMITRIE LEONIDA\", MUNICIPIUL PIATRA-NEAMT",
+          "pass_rate": 16.67,
+          "n": 39,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC NR. 1 MARACINENI",
+          "pass_rate": 16.67,
+          "n": 37,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"AVRAM IANCU\" TARGU MURES",
+          "pass_rate": 17.65,
+          "n": 40,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARA \"DUMITRU MOTOC\"",
+          "pass_rate": 18.07,
+          "n": 96,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC CHISINEU CRIS",
+          "pass_rate": 18.52,
+          "n": 61,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"MATEI BASARAB\" CARACAL",
+          "pass_rate": 18.87,
+          "n": 56,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"NICOLAE BALCESCU\" ALEXANDRIA",
+          "pass_rate": 18.92,
+          "n": 51,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"PETRE BANITA\" CALARASI",
+          "pass_rate": 19.05,
+          "n": 40,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"CRISTOFOR NAKO\" SANNICOLAU MARE",
+          "pass_rate": 19.23,
+          "n": 71,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC BARSESTI",
+          "pass_rate": 19.35,
+          "n": 49,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC BANEASA",
+          "pass_rate": 19.44,
+          "n": 38,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC DE VEST TIMISOARA",
+          "pass_rate": 19.44,
+          "n": 46,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"FRANCISC NEUMAN\" ARAD",
+          "pass_rate": 20.0,
+          "n": 80,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC ECONOMIC \"ELINA MATEI BASARAB\" MUNICIPIUL RAMNICU SARAT",
+          "pass_rate": 20.0,
+          "n": 51,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC AGRICOL BECLEAN",
+          "pass_rate": 20.37,
+          "n": 61,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"DINU BRATIANU\" STEFANESTI",
+          "pass_rate": 20.59,
+          "n": 38,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC \"ION MINCU\" TULCEA",
+          "pass_rate": 20.83,
+          "n": 33,
+          "low_confidence": null
+        },
+        {
+          "key": "COLEGIUL TEHNIC AUTO \"TRAIAN VUIA\" FOCSANI",
+          "pass_rate": 20.93,
+          "n": 46,
+          "low_confidence": null
+        },
+        {
+          "key": "LICEUL TEHNOLOGIC TRANSPORTURI AUTO TIMISOARA",
+          "pass_rate": 21.05,
+          "n": 46,
           "low_confidence": null
         }
       ]

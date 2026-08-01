@@ -1,7 +1,7 @@
 {
   "meta": {
-    "source_2025": "C:/GIT/BAC2025IUNIE/analyze/out/digest.json",
-    "source_2026": "C:/GIT/BAC2026/analyze/out/digest.json",
+    "source_2025": "BAC2025IUNIE/analyze/out/digest.json",
+    "source_2026": "BAC2026/analyze/out/digest.json",
     "generated_by": "analyze/delta.py"
   },
   "overview": {
@@ -1005,12 +1005,76 @@
         }
       ]
     },
-    "materna_competene": {
-      "missing_2025": null,
-      "missing_2026": null,
-      "missing_rate_2025": null,
-      "missing_rate_2026": null,
-      "levels": []
+    "materna_competente": {
+      "missing_2025": 101611,
+      "missing_2026": 123853,
+      "missing_rate_2025": 94.25,
+      "missing_rate_2026": 94.75,
+      "levels": [
+        {
+          "level": "LIMBA CROATA",
+          "count_2025": 4,
+          "count_2026": 10,
+          "share_2025": 0.06,
+          "share_2026": 0.15
+        },
+        {
+          "level": "LIMBA GERMANA",
+          "count_2025": 733,
+          "count_2026": 868,
+          "share_2025": 11.82,
+          "share_2026": 12.66
+        },
+        {
+          "level": "LIMBA ITALIANA",
+          "count_2025": 1,
+          "count_2026": 1,
+          "share_2025": 0.02,
+          "share_2026": 0.01
+        },
+        {
+          "level": "LIMBA MAGHIARA (REAL)",
+          "count_2025": 4180,
+          "count_2026": 4488,
+          "share_2025": 67.41,
+          "share_2026": 65.46
+        },
+        {
+          "level": "LIMBA MAGHIARA (UMAN)",
+          "count_2025": 1173,
+          "count_2026": 1358,
+          "share_2025": 18.92,
+          "share_2026": 19.81
+        },
+        {
+          "level": "LIMBA SARBA",
+          "count_2025": 13,
+          "count_2026": 10,
+          "share_2025": 0.21,
+          "share_2026": 0.15
+        },
+        {
+          "level": "LIMBA SLOVACA",
+          "count_2025": 19,
+          "count_2026": 27,
+          "share_2025": 0.31,
+          "share_2026": 0.39
+        },
+        {
+          "level": "LIMBA TURCA",
+          "count_2025": 6,
+          "count_2026": 9,
+          "share_2025": 0.1,
+          "share_2026": 0.13
+        },
+        {
+          "level": "LIMBA UCRAINEANA",
+          "count_2025": 72,
+          "count_2026": 85,
+          "share_2025": 1.16,
+          "share_2026": 1.24
+        }
+      ]
     },
     "digital_cross_tab_success": [
       {
@@ -1053,7 +1117,9 @@
       "n_2026": 113250,
       "avg_media_2025": 7.57,
       "avg_media_2026": 7.55,
-      "delta_avg_media": -0.020000000000000462
+      "delta_avg_media": -0.020000000000000462,
+      "media_std_2025": 1.71,
+      "media_std_2026": 1.69
     },
     "repeaters": {
       "pass_rate_2025": 36.01,
@@ -1063,7 +1129,9 @@
       "n_2026": 12727,
       "avg_media_2025": 5.62,
       "avg_media_2026": 5.6,
-      "delta_avg_media": -0.020000000000000462
+      "delta_avg_media": -0.020000000000000462,
+      "media_std_2025": 0.98,
+      "media_std_2026": 1.04
     },
     "gap_pp_2025": 45.9,
     "gap_pp_2026": 46.53,
@@ -1615,167 +1683,266 @@
       {
         "key": "AB",
         "rank_2025": 10,
-        "rank_2026": 3
+        "rank_2026": 3,
+        "avg_media_2025": 7.48,
+        "avg_media_2026": 7.68,
+        "delta_avg_media": 0.1999999999999993
       },
       {
         "key": "AG",
         "rank_2025": 12,
-        "rank_2026": 11
+        "rank_2026": 11,
+        "avg_media_2025": 7.43,
+        "avg_media_2026": 7.42,
+        "delta_avg_media": -0.009999999999999787
       },
       {
         "key": "AR",
         "rank_2025": 26,
-        "rank_2026": 22
+        "rank_2026": 24,
+        "avg_media_2025": 7.02,
+        "avg_media_2026": 6.95,
+        "delta_avg_media": -0.0699999999999994
       },
       {
         "key": "B",
         "rank_2025": 5,
-        "rank_2026": 4
+        "rank_2026": 4,
+        "avg_media_2025": 7.65,
+        "avg_media_2026": 7.64,
+        "delta_avg_media": -0.010000000000000675
       },
       {
         "key": "BC",
         "rank_2025": 2,
-        "rank_2026": 6
+        "rank_2026": 6,
+        "avg_media_2025": 7.73,
+        "avg_media_2026": 7.58,
+        "delta_avg_media": -0.15000000000000036
       },
       {
         "key": "BH",
         "rank_2025": 15,
-        "rank_2026": 8
+        "rank_2026": 8,
+        "avg_media_2025": 7.42,
+        "avg_media_2026": 7.53,
+        "delta_avg_media": 0.11000000000000032
       },
       {
         "key": "BR",
         "rank_2025": 6,
-        "rank_2026": 9
+        "rank_2026": 9,
+        "avg_media_2025": 7.64,
+        "avg_media_2026": 7.52,
+        "delta_avg_media": -0.1200000000000001
       },
       {
         "key": "BV",
         "rank_2025": 7,
-        "rank_2026": 5
+        "rank_2026": 5,
+        "avg_media_2025": 7.58,
+        "avg_media_2026": 7.61,
+        "delta_avg_media": 0.03000000000000025
       },
       {
         "key": "BZ",
         "rank_2025": 13,
-        "rank_2026": null
+        "rank_2026": null,
+        "avg_media_2025": 7.43,
+        "avg_media_2026": null,
+        "delta_avg_media": null
       },
       {
         "key": "CJ",
         "rank_2025": 1,
-        "rank_2026": 1
+        "rank_2026": 1,
+        "avg_media_2025": 7.91,
+        "avg_media_2026": 7.91,
+        "delta_avg_media": 0.0
       },
       {
         "key": "CL",
         "rank_2025": 22,
-        "rank_2026": 27
+        "rank_2026": 19,
+        "avg_media_2025": 6.8,
+        "avg_media_2026": 6.67,
+        "delta_avg_media": -0.1299999999999999
       },
       {
         "key": "CS",
         "rank_2025": 21,
-        "rank_2026": 24
+        "rank_2026": 22,
+        "avg_media_2025": 6.79,
+        "avg_media_2026": 6.89,
+        "delta_avg_media": 0.09999999999999964
       },
       {
         "key": "DB",
         "rank_2025": 27,
-        "rank_2026": 20
+        "rank_2026": 26,
+        "avg_media_2025": 7.05,
+        "avg_media_2026": 7.06,
+        "delta_avg_media": 0.009999999999999787
       },
       {
         "key": "GJ",
         "rank_2025": 18,
-        "rank_2026": 19
+        "rank_2026": 27,
+        "avg_media_2025": 6.62,
+        "avg_media_2026": 7.06,
+        "delta_avg_media": 0.4399999999999995
       },
       {
         "key": "GL",
         "rank_2025": 4,
-        "rank_2026": 10
+        "rank_2026": 10,
+        "avg_media_2025": 7.68,
+        "avg_media_2026": 7.5,
+        "delta_avg_media": -0.17999999999999972
       },
       {
         "key": "GR",
         "rank_2025": 19,
-        "rank_2026": 28
+        "rank_2026": 18,
+        "avg_media_2025": 6.68,
+        "avg_media_2026": 6.67,
+        "delta_avg_media": -0.009999999999999787
       },
       {
         "key": "HD",
         "rank_2025": 28,
-        "rank_2026": null
+        "rank_2026": null,
+        "avg_media_2025": 7.08,
+        "avg_media_2026": null,
+        "delta_avg_media": null
       },
       {
         "key": "HR",
         "rank_2025": 24,
-        "rank_2026": 18
+        "rank_2026": 28,
+        "avg_media_2025": 6.95,
+        "avg_media_2026": 7.07,
+        "delta_avg_media": 0.1200000000000001
       },
       {
         "key": "IF",
         "rank_2025": 16,
-        "rank_2026": 30
+        "rank_2026": 16,
+        "avg_media_2025": 6.43,
+        "avg_media_2026": 6.46,
+        "delta_avg_media": 0.03000000000000025
       },
       {
         "key": "IL",
         "rank_2025": 25,
-        "rank_2026": 23
+        "rank_2026": 23,
+        "avg_media_2025": 7.0,
+        "avg_media_2026": 6.93,
+        "delta_avg_media": -0.07000000000000028
       },
       {
         "key": "IS",
         "rank_2025": 3,
-        "rank_2026": 2
+        "rank_2026": 2,
+        "avg_media_2025": 7.71,
+        "avg_media_2026": 7.69,
+        "delta_avg_media": -0.019999999999999574
       },
       {
         "key": "MH",
         "rank_2025": 17,
-        "rank_2026": 29
+        "rank_2026": 17,
+        "avg_media_2025": 6.44,
+        "avg_media_2026": 6.59,
+        "delta_avg_media": 0.14999999999999947
       },
       {
         "key": "NT",
         "rank_2025": 9,
-        "rank_2026": 15
+        "rank_2026": 15,
+        "avg_media_2025": 7.53,
+        "avg_media_2026": 7.39,
+        "delta_avg_media": -0.14000000000000057
       },
       {
         "key": "OT",
         "rank_2025": 23,
-        "rank_2026": 25
+        "rank_2026": 21,
+        "avg_media_2025": 6.91,
+        "avg_media_2026": 6.88,
+        "delta_avg_media": -0.03000000000000025
       },
       {
         "key": "PH",
         "rank_2025": null,
-        "rank_2026": 12
+        "rank_2026": 12,
+        "avg_media_2025": null,
+        "avg_media_2026": 7.42,
+        "delta_avg_media": null
       },
       {
         "key": "SB",
         "rank_2025": 8,
-        "rank_2026": 7
+        "rank_2026": 7,
+        "avg_media_2025": 7.56,
+        "avg_media_2026": 7.54,
+        "delta_avg_media": -0.019999999999999574
       },
       {
         "key": "SJ",
         "rank_2025": 29,
-        "rank_2026": 17
+        "rank_2026": 29,
+        "avg_media_2025": 7.1,
+        "avg_media_2026": 7.09,
+        "delta_avg_media": -0.009999999999999787
       },
       {
         "key": "SM",
         "rank_2025": null,
-        "rank_2026": 13
+        "rank_2026": 13,
+        "avg_media_2025": null,
+        "avg_media_2026": 7.41,
+        "delta_avg_media": null
       },
       {
         "key": "SV",
         "rank_2025": 14,
-        "rank_2026": 14
+        "rank_2026": 14,
+        "avg_media_2025": 7.42,
+        "avg_media_2026": 7.4,
+        "delta_avg_media": -0.019999999999999574
       },
       {
         "key": "TL",
         "rank_2025": null,
-        "rank_2026": 21
+        "rank_2026": 25,
+        "avg_media_2025": null,
+        "avg_media_2026": 7.02,
+        "delta_avg_media": null
       },
       {
         "key": "TM",
         "rank_2025": 30,
-        "rank_2026": 16
+        "rank_2026": 30,
+        "avg_media_2025": 7.11,
+        "avg_media_2026": 7.13,
+        "delta_avg_media": 0.019999999999999574
       },
       {
         "key": "TR",
         "rank_2025": 20,
-        "rank_2026": 26
+        "rank_2026": 20,
+        "avg_media_2025": 6.74,
+        "avg_media_2026": 6.8,
+        "delta_avg_media": 0.05999999999999961
       },
       {
         "key": "VN",
         "rank_2025": 11,
-        "rank_2026": null
+        "rank_2026": null,
+        "avg_media_2025": 7.44,
+        "avg_media_2026": null,
+        "delta_avg_media": null
       }
     ],
     "family_delta": [

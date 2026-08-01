@@ -7,11 +7,13 @@ img: bac2025.png
 alt: Bacalaureat 2025 Iunie - Radiografia rezultatelor
 project-date: Iunie 2025
 client: Radiografia rezultatelor
-category: Investigatie de date
+category: Investigație de date
+report: bac2025
 description: |
-  <p>Analiza completa a rezultatelor Bacalaureatului 2025, sesiunea din iunie, dupa contestatii: ~130.000 de candidati, 1.437 de scoli, 42 de judete.</p>
-  <p>Harti interactive, distributii pe materii, anomalii si un consolator SQL live peste setul complet de date.</p>
+  <p>Analiza completă a rezultatelor Bacalaureatului 2025, sesiunea din iunie, după contestații: 107.812 candidați, 1.443 de școli, 42 de județe.</p>
+  <p>Hărți interactive, distribuții pe materii, anomalii și un consolator SQL live peste setul complet de date.</p>
   <a class="btn btn-primary" href="/bac2025/" target="_blank" rel="noopener">
     <i class="fa fa-bar-chart"></i> Deschide raportul &rarr;
   </a>
+  <p class="modal-crosslink">Vezi și <a href="/bac2526/" target="_blank" rel="noopener">comparația directă 2025 vs 2026</a>.</p>
 ---

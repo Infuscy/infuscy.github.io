@@ -7,11 +7,13 @@ img: bac2026.png
 alt: Bacalaureat 2026 - Radiografia rezultatelor
 project-date: 2026
 client: Radiografia rezultatelor
-category: Investigatie de date
+category: Investigație de date
+report: bac2026
 description: |
-  <p>Radiografia rezultatelor Bacalaureatului 2026. Aceeasi metoda de analiza ca pentru 2025, pentru comparabilitate directa.</p>
-  <p>Harte pe judete, distributii de note, outlieri si explorare SQL live a datelor.</p>
+  <p>Radiografia rezultatelor Bacalaureatului 2026: 130.709 candidați, 1.437 de școli, 42 de județe. Aceeași metodă de analiză ca pentru 2025, pentru comparabilitate directă.</p>
+  <p>Hărți pe județe, distribuții de note, outlieri și explorare SQL live a datelor.</p>
   <a class="btn btn-primary" href="/bac2026/" target="_blank" rel="noopener">
     <i class="fa fa-bar-chart"></i> Deschide raportul &rarr;
   </a>
+  <p class="modal-crosslink">Vezi și <a href="/bac2526/" target="_blank" rel="noopener">comparația directă 2025 vs 2026</a>.</p>
 ---

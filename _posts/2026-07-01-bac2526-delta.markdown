@@ -7,11 +7,13 @@ img: bac2526.png
 alt: BAC 2025 vs 2026 - Raport comparativ delta
 project-date: 2025 - 2026
 client: Raport comparativ
-category: Investigatie de date
+category: Investigație de date
+report: bac2526
 description: |
-  <p>Comparatie directa intre rezultatele Bacalaureatului din 2025 (iunie) si 2026: diferente pe materii, competente digitale, repetenti, contestatii si subvariante de dificultate.</p>
-  <p>Calculeaza deltele dintre cele doua digest-uri statistice si le vizualizeaza pe aceeasi scara.</p>
+  <p>Comparație directă între rezultatele Bacalaureatului din 2025 (iunie) și 2026: diferențe pe materii, competențe digitale, repetenți, contestații și subvariante de dificultate.</p>
+  <p>Calculează delta dintre cele două digest-uri statistice și le vizualizează pe aceeași scară.</p>
   <a class="btn btn-primary" href="/bac2526/" target="_blank" rel="noopener">
     <i class="fa fa-balance-scale"></i> Deschide raportul &rarr;
   </a>
+  <p class="modal-crosslink">Bazat pe <a href="/bac2025/" target="_blank" rel="noopener">BAC 2025</a> și <a href="/bac2026/" target="_blank" rel="noopener">BAC 2026</a>.</p>
 ---

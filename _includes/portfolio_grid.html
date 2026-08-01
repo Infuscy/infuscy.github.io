@@ -20,6 +20,16 @@
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
+                        <div class="portfolio-caption">
+                            {% if post == site.posts.first %}
+                                <span class="label label-primary latest-badge">Cel mai recent</span>
+                            {% endif %}
+                            <h4>{{ post.title }}</h4>
+                            <p class="text-muted">{{ post.project-date }} &middot; {{ post.category }}</p>
+                            <a class="btn btn-primary btn-sm" href="/{{ post.report }}/" target="_blank" rel="noopener">
+                                <i class="fa fa-bar-chart"></i> Deschide raportul &rarr;
+                            </a>
+                        </div>
                     </div>
                 {% endfor %}
             </div>

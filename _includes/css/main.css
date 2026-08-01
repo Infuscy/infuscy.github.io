@@ -274,6 +274,33 @@ section.success a {
     z-index: 2;
 }
 
+/* Card captions under the thumbnails: title, date, direct link */
+#portfolio .portfolio-item .portfolio-caption {
+    margin: 0.75rem auto 0;
+    max-width: 400px;
+    text-align: center;
+}
+
+#portfolio .portfolio-item .portfolio-caption h4 {
+    margin: 0.25rem 0 0;
+    font-size: 1.0625rem;
+    line-height: 1.35;
+}
+
+#portfolio .portfolio-item .portfolio-caption p {
+    margin: 0.25rem 0 0.75rem;
+    font-size: 0.875rem;
+}
+
+#portfolio .portfolio-item .portfolio-caption .latest-badge {
+    display: inline-block;
+    margin-bottom: 0.4rem;
+    background: #{{ site.color.primary }};
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+}
+
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 2rem;
@@ -432,6 +459,11 @@ footer a:hover {
 
 .portfolio-modal .modal-content .item-details {
     margin: 2rem 0;
+}
+
+.portfolio-modal .modal-content .modal-crosslink {
+    margin-top: 1.25rem;
+    font-size: 0.9rem;
 }
 
 .portfolio-modal .close-modal {

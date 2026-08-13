@@ -4,6 +4,20 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+// Clickjacking protection: GitHub Pages cannot set X-Frame-Options /
+// frame-ancestors (no custom headers, and meta CSP can't express it).
+// Break out of any frame that isn't our own top-level window.
+(function () {
+    try {
+        if (window.top && window.top !== window.self) {
+            window.top.location = window.self.location;
+        }
+    } catch (e) {
+        // Cross-origin framing: can't inspect top; hide the page instead.
+        document.documentElement.style.display = 'none';
+    }
+})();
+
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     $('.page-scroll a').on('click', function(event) {

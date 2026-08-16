@@ -4,7 +4,7 @@
     "generated_by": "analyze/stats.py",
     "schema_version": 3,
     "total_rows": 107812,
-    "digest_sha256": "0eb9b76a10cb1931eb4afa58b569e96b9771c5c1b09cf0bcdb2f703eb894c491"
+    "digest_sha256": "5d4ad62bf547a6d8b51b27e7c3537c7206a198819b99c4980226310094dff800"
   },
   "overview": {
     "total_candidates": 107812,
@@ -957,6 +957,7 @@
     "romana": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 16524,
+      "filed": 16988,
       "total": 107812,
       "mean_delta": 0.27,
       "median_delta": 0.3,
@@ -965,6 +966,7 @@
       "unchanged": 91288,
       "pct_up": 67.68,
       "pct_down": 32.32,
+      "changed_of_filed_pct": 97.27,
       "max_abs_swing": 3.85,
       "biggest_single_jump": [
         "IS1605682",
@@ -974,6 +976,7 @@
     "profil": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 11031,
+      "filed": 11676,
       "total": 107812,
       "mean_delta": 0.17,
       "median_delta": 0.15,
@@ -982,6 +985,7 @@
       "unchanged": 96781,
       "pct_up": 64.92,
       "pct_down": 35.08,
+      "changed_of_filed_pct": 94.48,
       "max_abs_swing": 2.7,
       "biggest_single_jump": [
         "AR1581642",
@@ -991,6 +995,7 @@
     "alegere": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 10058,
+      "filed": 10731,
       "total": 107812,
       "mean_delta": 0.14,
       "median_delta": 0.15,
@@ -999,6 +1004,7 @@
       "unchanged": 97754,
       "pct_up": 64.2,
       "pct_down": 35.8,
+      "changed_of_filed_pct": 93.73,
       "max_abs_swing": 2.9,
       "biggest_single_jump": [
         "MH1422600",
@@ -1008,6 +1014,7 @@
     "materna": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 307,
+      "filed": 311,
       "total": 6201,
       "mean_delta": 0.2,
       "median_delta": 0.2,
@@ -1016,6 +1023,7 @@
       "unchanged": 5894,
       "pct_up": 62.21,
       "pct_down": 37.79,
+      "changed_of_filed_pct": 98.71,
       "max_abs_swing": 2.0,
       "biggest_single_jump": [
         "SM1602324",
@@ -1421,7 +1429,7 @@
         "island_excellence": 1.98
       },
       {
-        "school": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARABË®, MUNICIPIUL RAMNICU VALCEA",
+        "school": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARAB\", MUNICIPIUL RAMNICU VALCEA",
         "judet": "VL",
         "n": 168,
         "presented": 167,
@@ -4598,7 +4606,7 @@
         "island_excellence": 1.98
       },
       {
-        "school": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARABË®, MUNICIPIUL RAMNICU VALCEA",
+        "school": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARAB\", MUNICIPIUL RAMNICU VALCEA",
         "judet": "VL",
         "n": 168,
         "presented": 167,

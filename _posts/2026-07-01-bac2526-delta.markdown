@@ -9,6 +9,7 @@ project-date: 2025 - 2026
 client: Raport comparativ
 category: Investigație de date
 report: bac2526
+stats: "promovare 76,56% → 76,98% · +22.897 candidați"
 description: |
   <p>Comparație directă între rezultatele Bacalaureatului din 2025 (iunie) și 2026: diferențe pe materii, competențe digitale, repetenți, contestații și subvariante de dificultate.</p>
   <p>Calculează delta dintre cele două digest-uri statistice și le vizualizează pe aceeași scară.</p>

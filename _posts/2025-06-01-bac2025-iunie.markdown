@@ -9,6 +9,7 @@ project-date: Iunie 2025
 client: Radiografia rezultatelor
 category: Investigație de date
 report: bac2025
+stats: "107.812 candidați · promovare 76,56%"
 description: |
   <p>Analiza completă a rezultatelor Bacalaureatului 2025, sesiunea din iunie, după contestații: 107.812 candidați, 1.443 de școli, 42 de județe.</p>
   <p>Hărți interactive, distribuții pe materii, anomalii și un consolator SQL live peste setul complet de date.</p>

@@ -26,6 +26,9 @@
                             {% endif %}
                             <h4>{{ post.title }}</h4>
                             <p class="text-muted">{{ post.project-date }} &middot; {{ post.category }}</p>
+                            {% if post.stats %}
+                                <p class="portfolio-stats">{{ post.stats }}</p>
+                            {% endif %}
                             <a class="btn btn-primary btn-sm" href="/{{ post.report }}/" target="_blank" rel="noopener">
                                 <i class="fa fa-bar-chart"></i> Deschide raportul &rarr;
                             </a>

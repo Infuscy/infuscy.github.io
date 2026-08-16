@@ -292,6 +292,15 @@ section.success a {
     font-size: 0.875rem;
 }
 
+/* Compact stats line under each report card (candidates, pass rate, delta) */
+#portfolio .portfolio-item .portfolio-caption .portfolio-stats {
+    margin: -0.25rem 0 0.6rem;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: #{{ site.color.primary }};
+    font-variant-numeric: tabular-nums;
+}
+
 #portfolio .portfolio-item .portfolio-caption .latest-badge {
     display: inline-block;
     margin-bottom: 0.4rem;

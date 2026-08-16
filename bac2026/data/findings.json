@@ -4,7 +4,7 @@
     "generated_by": "analyze/stats.py",
     "schema_version": 3,
     "total_rows": 130709,
-    "digest_sha256": "970bc9c9aea14956ec5eac138020c0a5d05700bbe50cad5aa019d970f760ed7a"
+    "digest_sha256": "e93a403420ae6e223ca69059bed7c59ef146835f36218c93b04c792a87ce235b"
   },
   "overview": {
     "total_candidates": 130709,
@@ -959,6 +959,7 @@
     "romana": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 21222,
+      "filed": 21896,
       "total": 130709,
       "mean_delta": 0.23,
       "median_delta": 0.25,
@@ -967,6 +968,7 @@
       "unchanged": 109487,
       "pct_up": 66.07,
       "pct_down": 33.93,
+      "changed_of_filed_pct": 96.92,
       "max_abs_swing": 3.45,
       "biggest_single_jump": [
         "B1775939",
@@ -976,6 +978,7 @@
     "profil": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 16090,
+      "filed": 16941,
       "total": 130709,
       "mean_delta": 0.16,
       "median_delta": 0.15,
@@ -984,6 +987,7 @@
       "unchanged": 114619,
       "pct_up": 63.27,
       "pct_down": 36.73,
+      "changed_of_filed_pct": 94.98,
       "max_abs_swing": 2.9,
       "biggest_single_jump": [
         "SB1785594",
@@ -993,6 +997,7 @@
     "alegere": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 15131,
+      "filed": 16117,
       "total": 130709,
       "mean_delta": 0.13,
       "median_delta": 0.15,
@@ -1001,6 +1006,7 @@
       "unchanged": 115578,
       "pct_up": 63.39,
       "pct_down": 36.61,
+      "changed_of_filed_pct": 93.88,
       "max_abs_swing": 3.2,
       "biggest_single_jump": [
         "IF1789994",
@@ -1010,6 +1016,7 @@
     "materna": {
       "direction_note": "delta = final - initial (post-contestation registered minus first grade)",
       "n_changed": 472,
+      "filed": 489,
       "total": 6856,
       "mean_delta": 0.25,
       "median_delta": 0.3,
@@ -1018,6 +1025,7 @@
       "unchanged": 6384,
       "pct_up": 66.74,
       "pct_down": 33.26,
+      "changed_of_filed_pct": 96.52,
       "max_abs_swing": 2.15,
       "biggest_single_jump": [
         "HR1761173",
@@ -1411,7 +1419,7 @@
     ],
     "islands_of_excellence": [
       {
-        "school": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARABË®, MUNICIPIUL RAMNICU VALCEA",
+        "school": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARAB\", MUNICIPIUL RAMNICU VALCEA",
         "judet": "VL",
         "n": 164,
         "presented": 164,
@@ -3282,7 +3290,7 @@
       },
       {
         "judet": "VL",
-        "best": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARABË®, MUNICIPIUL RAMNICU VALCEA",
+        "best": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARAB\", MUNICIPIUL RAMNICU VALCEA",
         "best_avg": 9.29,
         "worst": "LICEUL \"GEORGE TARNEA\", ORAS BABENI",
         "worst_avg": 4.74,
@@ -4019,7 +4027,7 @@
           "low_confidence": null
         },
         {
-          "key": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARABË®, MUNICIPIUL RAMNICU VALCEA",
+          "key": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARAB\", MUNICIPIUL RAMNICU VALCEA",
           "avg_media": 9.29,
           "n": 164,
           "low_confidence": null
@@ -4558,7 +4566,7 @@
     },
     "schools_islands_of_excellence": [
       {
-        "school": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARABË®, MUNICIPIUL RAMNICU VALCEA",
+        "school": "COLEGIUL NATIONAL DE INFORMATICA \"MATEI BASARAB\", MUNICIPIUL RAMNICU VALCEA",
         "judet": "VL",
         "n": 164,
         "presented": 164,
@@ -5517,6 +5525,17 @@
       "neprez_rate": 8.85,
       "repeater_rate": 16.76,
       "seral_n": 33
+    },
+    "ilfov": {
+      "n": 1368,
+      "pass_rate": 58.78,
+      "avg_media": 6.46,
+      "neprez_rate": 6.58,
+      "repeater_rate": 22.95,
+      "tehnic_share": 29.02,
+      "tehnic_pass_rate": 39.08,
+      "repeater_pass_rate": 27.78,
+      "first_pass_rate": 67.1
     },
     "school_pass_bins": {
       "095-100%": 177,

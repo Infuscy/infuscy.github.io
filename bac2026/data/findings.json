@@ -4,13 +4,7 @@
     "generated_by": "analyze/stats.py",
     "schema_version": 4,
     "total_rows": 130709,
-    "digest_sha256": "e93a403420ae6e223ca69059bed7c59ef146835f36218c93b04c792a87ce235b",
-    "patched": {
-      "date": "2026-08-02",
-      "by": "scripts/patch_digests.py (repo-side Batch 3, see BUGFIX_SPEC.md)",
-      "reason": "AUDIT.md D1/D2/D3/D4: subject stats recomputed on presented-final population; materna chi2 over full table; school counts aligned",
-      "population": "rezultat_final in (REUSIT, RESPINS) and non-null final grade"
-    }
+    "digest_sha256": "0dd439764c6383c0788c613e38542f3bc6687e248e6c6c5a4b005ec01e22faad"
   },
   "overview": {
     "total_candidates": 130709,
@@ -39,75 +33,75 @@
       "histogram": [
         {
           "bucket": "1.00-1.50",
-          "count": 2340
+          "count": 98
         },
         {
           "bucket": "1.50-2.00",
-          "count": 195
+          "count": 153
         },
         {
           "bucket": "2.00-2.50",
-          "count": 431
+          "count": 345
         },
         {
           "bucket": "2.50-3.00",
-          "count": 763
+          "count": 660
         },
         {
           "bucket": "3.00-3.50",
-          "count": 1347
+          "count": 1182
         },
         {
           "bucket": "3.50-4.00",
-          "count": 2369
+          "count": 2153
         },
         {
           "bucket": "4.00-4.50",
-          "count": 3058
+          "count": 2827
         },
         {
           "bucket": "4.50-5.00",
-          "count": 3799
+          "count": 3624
         },
         {
           "bucket": "5.00-5.50",
-          "count": 13804
+          "count": 13140
         },
         {
           "bucket": "5.50-6.00",
-          "count": 12205
+          "count": 11851
         },
         {
           "bucket": "6.00-6.50",
-          "count": 11900
+          "count": 11685
         },
         {
           "bucket": "6.50-7.00",
-          "count": 9807
+          "count": 9703
         },
         {
           "bucket": "7.00-7.50",
-          "count": 9048
+          "count": 8993
         },
         {
           "bucket": "7.50-8.00",
-          "count": 9844
+          "count": 9811
         },
         {
           "bucket": "8.00-8.50",
-          "count": 12028
+          "count": 11997
         },
         {
           "bucket": "8.50-9.00",
-          "count": 13899
+          "count": 13887
         },
         {
           "bucket": "9.00-9.50",
-          "count": 14564
+          "count": 14562
         },
         {
           "bucket": "9.50-10.00",
-          "count": 9308
+          "count": 9306
         }
       ]
     },
@@ -123,7 +117,7 @@
       "histogram": [
         {
           "bucket": "1.00-1.50",
-          "count": 37
+          "count": 1
         },
         {
           "bucket": "1.50-2.00",
@@ -143,51 +137,51 @@
         },
         {
           "bucket": "3.50-4.00",
-          "count": 38
+          "count": 37
         },
         {
           "bucket": "4.00-4.50",
-          "count": 53
+          "count": 52
         },
         {
           "bucket": "4.50-5.00",
-          "count": 50
+          "count": 48
         },
         {
           "bucket": "5.00-5.50",
-          "count": 316
+          "count": 301
         },
         {
           "bucket": "5.50-6.00",
-          "count": 410
+          "count": 398
         },
         {
           "bucket": "6.00-6.50",
-          "count": 565
+          "count": 555
         },
         {
           "bucket": "6.50-7.00",
-          "count": 698
+          "count": 689
         },
         {
           "bucket": "7.00-7.50",
-          "count": 794
+          "count": 783
         },
         {
           "bucket": "7.50-8.00",
-          "count": 813
+          "count": 807
         },
         {
           "bucket": "8.00-8.50",
-          "count": 878
+          "count": 876
         },
         {
           "bucket": "8.50-9.00",
-          "count": 883
+          "count": 881
         },
         {
           "bucket": "9.00-9.50",
-          "count": 827
+          "count": 826
         },
         {
           "bucket": "9.50-10.00",
@@ -207,75 +201,75 @@
       "histogram": [
         {
           "bucket": "1.00-1.50",
-          "count": 5294
+          "count": 1904
         },
         {
           "bucket": "1.50-2.00",
-          "count": 998
+          "count": 940
         },
         {
           "bucket": "2.00-2.50",
-          "count": 1062
+          "count": 1014
         },
         {
           "bucket": "2.50-3.00",
-          "count": 1335
+          "count": 1288
         },
         {
           "bucket": "3.00-3.50",
-          "count": 1938
+          "count": 1847
         },
         {
           "bucket": "3.50-4.00",
-          "count": 2712
+          "count": 2606
         },
         {
           "bucket": "4.00-4.50",
-          "count": 3034
+          "count": 2948
         },
         {
           "bucket": "4.50-5.00",
-          "count": 2828
+          "count": 2760
         },
         {
           "bucket": "5.00-5.50",
-          "count": 10601
+          "count": 10228
         },
         {
           "bucket": "5.50-6.00",
-          "count": 8346
+          "count": 8191
         },
         {
           "bucket": "6.00-6.50",
-          "count": 8433
+          "count": 8310
         },
         {
           "bucket": "6.50-7.00",
-          "count": 8840
+          "count": 8765
         },
         {
           "bucket": "7.00-7.50",
-          "count": 9775
+          "count": 9734
         },
         {
           "bucket": "7.50-8.00",
-          "count": 10393
+          "count": 10362
         },
         {
           "bucket": "8.00-8.50",
-          "count": 11471
+          "count": 11449
         },
         {
           "bucket": "8.50-9.00",
-          "count": 12398
+          "count": 12391
         },
         {
           "bucket": "9.00-9.50",
-          "count": 13890
+          "count": 13885
         },
         {
           "bucket": "9.50-10.00",
-          "count": 17361
+          "count": 17355
         }
       ]
     },
@@ -291,75 +285,75 @@
       "histogram": [
         {
           "bucket": "1.00-1.50",
-          "count": 3305
+          "count": 209
         },
         {
           "bucket": "1.50-2.00",
-          "count": 1048
+          "count": 944
         },
         {
           "bucket": "2.00-2.50",
-          "count": 1765
+          "count": 1643
         },
         {
           "bucket": "2.50-3.00",
-          "count": 1813
+          "count": 1679
         },
         {
           "bucket": "3.00-3.50",
-          "count": 1904
+          "count": 1807
         },
         {
           "bucket": "3.50-4.00",
-          "count": 2239
+          "count": 2137
         },
         {
           "bucket": "4.00-4.50",
-          "count": 2232
+          "count": 2166
         },
         {
           "bucket": "4.50-5.00",
-          "count": 2303
+          "count": 2235
         },
         {
           "bucket": "5.00-5.50",
-          "count": 5685
+          "count": 5451
         },
         {
           "bucket": "5.50-6.00",
-          "count": 5588
+          "count": 5453
         },
         {
           "bucket": "6.00-6.50",
-          "count": 7087
+          "count": 6928
         },
         {
           "bucket": "6.50-7.00",
-          "count": 7851
+          "count": 7735
         },
         {
           "bucket": "7.00-7.50",
-          "count": 9290
+          "count": 9180
         },
         {
           "bucket": "7.50-8.00",
-          "count": 10413
+          "count": 10346
         },
         {
           "bucket": "8.00-8.50",
-          "count": 12520
+          "count": 12463
         },
         {
           "bucket": "8.50-9.00",
-          "count": 15072
+          "count": 15043
         },
         {
           "bucket": "9.00-9.50",
-          "count": 18745
+          "count": 18719
         },
         {
           "bucket": "9.50-10.00",
-          "count": 21849
+          "count": 21839
         }
       ]
     },
@@ -383,39 +377,39 @@
         },
         {
           "bucket": "2.00-2.50",
-          "count": 741
+          "count": 742
         },
         {
           "bucket": "2.50-3.00",
-          "count": 985
+          "count": 984
         },
         {
           "bucket": "3.00-3.50",
-          "count": 1534
+          "count": 1536
         },
         {
           "bucket": "3.50-4.00",
-          "count": 2128
+          "count": 2135
         },
         {
           "bucket": "4.00-4.50",
-          "count": 2949
+          "count": 2944
         },
         {
           "bucket": "4.50-5.00",
-          "count": 4089
+          "count": 4101
         },
         {
           "bucket": "5.00-5.50",
-          "count": 6177
+          "count": 6161
         },
         {
           "bucket": "5.50-6.00",
-          "count": 7962
+          "count": 7963
         },
         {
           "bucket": "6.00-6.50",
-          "count": 11435
+          "count": 11434
         },
         {
           "bucket": "6.50-7.00",
@@ -502,7 +496,8 @@
         "chi2": 12946.66,
         "p_value": 0.0,
         "dof": 3,
-        "levels_compared": 4
+        "levels_compared": 4,
+        "note": "computed over all displayed levels; small expected counts (<5) in the smallest groups make the chi2 approximation indicative only"
       }
     },
     "romana_competente": {
@@ -539,7 +534,8 @@
         "chi2": 25692.38,
         "p_value": 0.0,
         "dof": 2,
-        "levels_compared": 3
+        "levels_compared": 3,
+        "note": "computed over all displayed levels; small expected counts (<5) in the smallest groups make the chi2 approximation indicative only"
       }
     },
     "materna_competente": {
@@ -617,7 +613,7 @@
         "p_value": 0.0,
         "dof": 8,
         "levels_compared": 9,
-        "note": "computed over all displayed language groups; expected counts < 5 in the smallest groups (chi2 approximation is indicative there)"
+        "note": "computed over all displayed levels; small expected counts (<5) in the smallest groups make the chi2 approximation indicative only"
       }
     }
   },
@@ -1121,7 +1117,7 @@
     }
   },
   "school_deep": {
-    "n_analyzed": 1207,
+    "n_analyzed": 1206,
     "highest_variance": [
       {
         "school": "LICEUL TEORETIC \"DR.VICTOR GOMOIU\"",
@@ -2027,8 +2023,7 @@
         "spread": 5.81,
         "island_excellence": -2.47
       }
-    ],
-    "rule": "scoli cu >= 20 candidati prezentati"
+    ]
   },
   "outliers": {
     "fragile_top": [
@@ -2606,38 +2601,6 @@
         "std_alegere_final": 0.7
       },
       {
-        "school": "COLEGIUL NATIONAL \"GHEORGHE MUNTEANU MURGOCI\"",
-        "n": 176,
-        "presented": 176,
-        "passed": 176,
-        "rejected": 0,
-        "notpresented": 0,
-        "eliminated": 0,
-        "pass_rate": 100.0,
-        "pass_rate_ci95": [
-          97.86,
-          100.0
-        ],
-        "judet": "BR",
-        "avg_media": 9.12,
-        "median_media": 9.26,
-        "std_media": 0.6,
-        "tens": 0,
-        "tens_rate": 0.0,
-        "avg_media_ci95": [
-          9.04,
-          9.21
-        ],
-        "avg_romana_final": 8.98,
-        "std_romana_final": 0.76,
-        "avg_materna_final": null,
-        "std_materna_final": null,
-        "avg_profil_final": 9.17,
-        "std_profil_final": 0.79,
-        "avg_alegere_final": 9.23,
-        "std_alegere_final": 0.73
-      },
-      {
         "school": "COLEGIUL NATIONAL \"FERDINAND I\" BACAU",
         "n": 176,
         "presented": 176,
@@ -2668,6 +2631,38 @@
         "std_profil_final": 1.05,
         "avg_alegere_final": 9.14,
         "std_alegere_final": 0.88
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GHEORGHE MUNTEANU MURGOCI\"",
+        "n": 176,
+        "presented": 176,
+        "passed": 176,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.86,
+          100.0
+        ],
+        "judet": "BR",
+        "avg_media": 9.12,
+        "median_media": 9.26,
+        "std_media": 0.6,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          9.04,
+          9.21
+        ],
+        "avg_romana_final": 8.98,
+        "std_romana_final": 0.76,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.17,
+        "std_profil_final": 0.79,
+        "avg_alegere_final": 9.23,
+        "std_alegere_final": 0.73
       },
       {
         "school": "LICEUL TEORETIC \"DIMITRIE CANTEMIR\", IASI",
@@ -2702,38 +2697,6 @@
         "std_alegere_final": 0.72
       },
       {
-        "school": "COLEGIUL NATIONAL \"STEFAN CEL MARE\" SUCEAVA",
-        "n": 171,
-        "presented": 171,
-        "passed": 171,
-        "rejected": 0,
-        "notpresented": 0,
-        "eliminated": 0,
-        "pass_rate": 100.0,
-        "pass_rate_ci95": [
-          97.8,
-          100.0
-        ],
-        "judet": "SV",
-        "avg_media": 9.16,
-        "median_media": 9.35,
-        "std_media": 0.6,
-        "tens": 0,
-        "tens_rate": 0.0,
-        "avg_media_ci95": [
-          9.07,
-          9.26
-        ],
-        "avg_romana_final": 9.13,
-        "std_romana_final": 0.71,
-        "avg_materna_final": null,
-        "std_materna_final": null,
-        "avg_profil_final": 9.14,
-        "std_profil_final": 0.84,
-        "avg_alegere_final": 9.21,
-        "std_alegere_final": 0.78
-      },
-      {
         "school": "COLEGIUL NATIONAL \"GHEORGHE LAZAR\" SIBIU",
         "n": 171,
         "presented": 171,
@@ -2764,6 +2727,38 @@
         "std_profil_final": 0.9,
         "avg_alegere_final": 9.11,
         "std_alegere_final": 0.89
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"STEFAN CEL MARE\" SUCEAVA",
+        "n": 171,
+        "presented": 171,
+        "passed": 171,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.8,
+          100.0
+        ],
+        "judet": "SV",
+        "avg_media": 9.16,
+        "median_media": 9.35,
+        "std_media": 0.6,
+        "tens": 0,
+        "tens_rate": 0.0,
+        "avg_media_ci95": [
+          9.07,
+          9.26
+        ],
+        "avg_romana_final": 9.13,
+        "std_romana_final": 0.71,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.14,
+        "std_profil_final": 0.84,
+        "avg_alegere_final": 9.21,
+        "std_alegere_final": 0.78
       },
       {
         "school": "COLEGIUL NATIONAL MILITAR \"DIMITRIE CANTEMIR\" BREAZA",
@@ -3273,19 +3268,19 @@
         "gap": 4.81
       },
       {
-        "judet": "IS",
-        "best": "COLEGIUL NATIONAL, IASI",
-        "best_avg": 9.48,
-        "worst": "LICEUL TEHNOLOGIC \"CAROL I\", IASI",
-        "worst_avg": 4.68,
-        "gap": 4.8
-      },
-      {
         "judet": "CT",
         "best": "COLEGIUL NATIONAL 'MIRCEA CEL BATRAN' CONSTANTA",
         "best_avg": 9.29,
         "worst": "LICEUL TEHNOLOGIC BANEASA",
         "worst_avg": 4.49,
+        "gap": 4.8
+      },
+      {
+        "judet": "IS",
+        "best": "COLEGIUL NATIONAL, IASI",
+        "best_avg": 9.48,
+        "worst": "LICEUL TEHNOLOGIC \"CAROL I\", IASI",
+        "worst_avg": 4.68,
         "gap": 4.8
       },
       {
@@ -5201,18 +5196,18 @@
   },
   "reporter_deepdive": {
     "contestation_rescue": {
-      "total": 1906,
+      "total": 1905,
       "by_subject": {
         "romana": 793,
         "profil": 446,
         "alegere": 487,
-        "materna": 180
+        "materna": 179
       }
     },
     "dead_zone": {
-      "5.0-5.5": 6177,
-      "5.5-6.0": 7962,
-      "6.0-6.5": 11435,
+      "5.0-5.5": 6161,
+      "5.5-6.0": 7963,
+      "6.0-6.5": 11434,
       "6.5-7.0": 10410
     },
     "county_math_pass": [

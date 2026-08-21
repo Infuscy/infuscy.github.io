@@ -3,13 +3,7 @@
     "source_2025": "BAC2025IUNIE/analyze/out/digest.json",
     "source_2026": "BAC2026/analyze/out/digest.json",
     "generated_by": "analyze/delta.py",
-    "schema_version": 4,
-    "patched": {
-      "date": "2026-08-02",
-      "by": "scripts/patch_digests.py (repo-side Batch 3, see BUGFIX_SPEC.md)",
-      "reason": "AUDIT.md D1/D2/D3/D4: subject stats recomputed on presented-final population; materna chi2 over full table; school counts aligned",
-      "population": "rezultat_final in (REUSIT, RESPINS) and non-null final grade"
-    }
+    "schema_version": 4
   },
   "overview": {
     "total_candidates_2025": 107812,
@@ -757,11 +751,11 @@
         },
         {
           "bucket": "4.50-5.00",
-          "share_pct": 3.23
+          "share_pct": 3.24
         },
         {
           "bucket": "5.00-5.50",
-          "share_pct": 4.86
+          "share_pct": 4.85
         },
         {
           "bucket": "5.50-6.00",
@@ -831,11 +825,11 @@
         },
         {
           "bucket": "4.50-5.00",
-          "share_pct": 3.25
+          "share_pct": 3.26
         },
         {
           "bucket": "5.00-5.50",
-          "share_pct": 4.9
+          "share_pct": 4.89
         },
         {
           "bucket": "5.50-6.00",

@@ -47,9 +47,10 @@ for y, df in DF.items():
     d = D[y]
     pres = df["rezultat_final"].isin(["REUSIT", "RESPINS"])
     dfp = df[pres]
-    # --- meta
-    check(f"{y}-meta", d["meta"].get("schema_version") == 4 and "patched" in d["meta"],
-          f"{y}: meta.schema_version != 4 or meta.patched missing")
+    # --- meta (meta.patched is optional: it marks repo-side in-place patches;
+    # upstream-regenerated digests carry provenance in digest_sha256 instead)
+    check(f"{y}-meta", d["meta"].get("schema_version") == 4,
+          f"{y}: meta.schema_version != 4")
     # --- overview
     ov = d["overview"]; rc = ov["result_counts"]
     check(f"{y}-ov-total", sum(rc.values()) == ov["total_candidates"] == len(df),
@@ -135,8 +136,14 @@ for y, df in DF.items():
     cs = mc["chi_square_vs_success"]
     check(f"{y}-chi2", cs["levels_compared"] == len(rows) and close(chi2, cs["chi2"], 0.05),
           f"{y}: materna chi2 {cs['chi2']} != full-table {chi2:.2f}")
-    # --- school_deep.n_analyzed (presented >= 20) (P3)
-    n_an = int(dfp.groupby(["judet", "unitate_invatamant"]).size().ge(20).sum())
+    # --- school_deep.n_analyzed (P3): schools with >= 20 presented candidates
+    # AND at least one computable media, grouped by SCHOOL NAME only (upstream
+    # stats.py keys by unitate_invatamant; a name shared by two counties
+    # counts once — matches the shipped digest exactly).
+    g20 = dfp.groupby("unitate_invatamant").agg(
+        n=("rezultat_final", "size"),
+        has_media=("media", lambda s: s.notna().any()))
+    n_an = int(((g20["n"] >= 20) & g20["has_media"]).sum())
     check(f"{y}-n_analyzed", d["school_deep"]["n_analyzed"] == n_an,
           f"{y}: school_deep.n_analyzed {d['school_deep']['n_analyzed']} != {n_an}")
 

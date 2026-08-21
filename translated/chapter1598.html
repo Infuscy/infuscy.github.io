@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Chapter 1598: For Khaz Modan! — The Wobbly Peach</title>
 <link rel="stylesheet" href="/style.css">
@@ -272,11 +274,11 @@ body {
 
 <script>
 (function(){
-  var scale = parseFloat(localStorage.getItem("reader-font-scale")) || 1;
+  var scale = 1;
   function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
   apply();
-  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); localStorage.setItem("reader-font-scale", scale); apply(); });
-  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); localStorage.setItem("reader-font-scale", scale); apply(); });
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
 })();
 </script>
 </body>

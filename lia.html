@@ -1,0 +1,60 @@
+---
+layout: page
+title: "Evaluarea interesului legitim (LIA)"
+permalink: /lia/
+---
+
+<div class="container" style="padding-top: 100px; max-width: 800px;">
+
+<h2>Evaluarea interesului legitim (LIA)</h2>
+
+<p>Document de responsabilizare (art. 5 alin. (2) și art. 24 GDPR) pentru prelucrarea datelor despre rezultatele Bacalaureatului în rapoartele publicate pe acest site. Ultima revizuire: <strong>21 august 2026</strong>.</p>
+
+<h2>1. Prelucrarea evaluată</h2>
+
+<p><strong>Controlor:</strong> Buse Florin-Emilian (contact@febuse.com), România.</p>
+
+<p><strong>Scop:</strong> analiză statistică și jurnalism de date privind rezultatele Bacalaureatului din România (rate de promovare, distribuții de note, diferențe între județe/școli/specializări, efectul contestațiilor).</p>
+
+<p><strong>Date:</strong> fișiere derivate din seturile publicate de Ministerul Educației la <a href="https://static.bacalaureat.edu.ro/">static.bacalaureat.edu.ro</a>. Fișierele publicate conțin, la nivel de candidat: județul, unitatea de învățământ, specializarea, forma de învățământ, limba modernă și notele/rezultatul final. <strong>Nu conțin identificatori direcți</strong> (nume, CNP, cod de candidat) și nu sunt corelate cu alte surse care ar putea reintroduce identificatori.</p>
+
+<p><strong>Temei:</strong> art. 6 alin. (1) lit. f) GDPR — interesul legitim al controlorului de a publica analize independente ale unui set de date public de interes public educațional.</p>
+
+<h2>2. Testul în trei pași</h2>
+
+<h3>2.1 Există un interes legitim?</h3>
+
+<p>Da. Transparența rezultatelor unui examen național finanțat public este un interes recunoscut: permite evaluarea politicii educaționale, a inechităților regionale și a integrității examenului. Ministerul publică oficial aceste rezultate, inclusiv în variantă cu nume, ceea ce confirmă caracterul lor public. Analiza independentă a datelor publice este o activitate jurnalistică clasică.</p>
+
+<h3>2.2 Prelucrarea este necesară pentru acest scop?</h3>
+
+<p>Da, în forma utilizată. Analiza agregată (pe școli, județe, specializări) cere păstrarea rândurilor la nivel de candidat ca granulație minimă; fără ele, statisticile publicate nu ar putea fi reproduse sau verificate de public (site-ul include inclusiv o consolă SQL prin care oricine poate verifica calculele). Identificatorii direcți sunt eliminați la construirea fișierelor, deși ar fi disponibili în sursa oficială — deci se folosește cea mai puțin intruzivă formă suficientă pentru scop.</p>
+
+<h3>2.3 Interesele persoanelor vizate prevală?</h3>
+
+<p>Nu, pentru următoarele motive:</p>
+
+<ul>
+  <li><strong>Caracterul public al datelor sursă:</strong> notele examenului sunt publicate oficial de autoritate publică; candidații nu pot avea o așteptare rezonabilă de confidențialitate față de notele lor de examen, ci doar față de identificatori — care sunt eliminați aici.</li>
+  <li><strong>Risc de re-identificare limitat:</strong> combinarea județ + școală + specializare + note ar putea sugera identitatea unui candidat doar în unități cu efective foarte mici. Nu se publică tabele la nivel de individ; toate sintezele publicate sunt agregate peste praguri minime de efectiv (reguli n ≥ 20–30 pentru clasamentele pe școli), iar fișierele brute nu sunt promovate în interfață decât ca material de verificare statistică.</li>
+  <li><strong>Prelucrare fără urmărire:</strong> datele se procesează integral în browserul vizitatorului; site-ul nu are backend, nu colectează nimic despre cititori și nu leagă datele examenului de nicio altă categorie de date.</li>
+  <li><strong>Impact redus:</strong> datele au caracter strict educațional, nu sensibile (art. 9), iar utilizarea lor în raport nu afectează decizii despre persoanele vizate.</li>
+  <li><strong>Candidați minori:</strong> o parte a candidaților poate fi minoră. Acest aspect a fost cântărit explicit; absența identificatorilor direcți, caracterul public al notei de examen și publicarea exclusivă de agregate peste praguri minime limitează impactul asupra acestora.</li>
+</ul>
+
+<h2>3. Măsuri de protecție</h2>
+
+<ul>
+  <li>eliminarea numelui, CNP-ului și codului de candidat din toate fișierele publicate;</li>
+  <li>praguri minime de efectiv (n ≥ 20–30) pentru orice tabel publicat la nivel de școală;</li>
+  <li>nicio corelare cu alte seturi de date; nicio încercare de re-identificare;</li>
+  <li>prelucrare exclusiv client-side, fără server propriu, fără cookie-uri sau stocare locală;</li>
+  <li>găzduire statică (GitHub Pages), fără baze de date sau sisteme de retenție;</li>
+  <li>documentul este revizuit la fiecare sesiune de examene adăugată site-ului.</li>
+</ul>
+
+<h2>4. Concluzie</h2>
+
+<p>Interesul public al transparenței educaționale, combinat cu eliminarea identificatorilor direcți, pragurile de agregare și absența oricărei prelucrări de urmărire, cântărește mai mult decât riscul rezidual de re-identificare teoretică. Prelucrarea este considerată echilibrată și conformă cu art. 6 alin. (1) lit. f) GDPR.</p>
+
+</div>

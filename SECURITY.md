@@ -23,11 +23,19 @@ comment services. All content is owner-authored. The residual risks are:
 - Content-Security-Policy via meta tag on the Jekyll layer (`_includes/head.html`)
   and on all three report SPAs (`bac2025/`, `bac2026/`, `bac2526/`). The report
   policy allows `'wasm-unsafe-eval'` (DuckDB-WASM), `worker-src 'self' blob:`,
-  and `img-src ... https://tile.openstreetmap.org`.
+  and `img-src ... https://tile.openstreetmap.org`. The novel chapter pages
+  (`translated/*.html`, standalone HTML outside Jekyll) carry their own meta
+  CSP + referrer policy — injected by `scripts/patch_translated_security.py`,
+  which must be re-run after regenerating chapters upstream.
 - Referrer policy meta tag everywhere (`strict-origin-when-cross-origin`).
 - Frame-buster script in `js/freelancer.js` (Pages cannot set
   `X-Frame-Options`/`frame-ancestors`).
 - No external fonts, analytics or comment widgets; all JS/CSS/fonts are local.
+- No cookies, no localStorage/sessionStorage anywhere (the novel reader's font
+  control is in-memory only, per-page).
+- The novel TOC script lives in `js/novel-toc.js` + `/novel/chapters.js`
+  (Jekyll-rendered data) — the Jekyll-layer CSP is `script-src 'self'` with no
+  `'unsafe-inline'`.
 - `rel="noopener"` on all `target="_blank"` links.
 - `_site/` is gitignored — local build and screenshot artifacts are never published.
 
@@ -44,7 +52,10 @@ comment services. All content is owner-authored. The residual risks are:
   known vulnerabilities.
 - **The novel** (`/novel/`, `translated/`) — a 1,862-chapter fanfiction
   translation. Copyright exposure (original author's text + Blizzard IP) was
-  reviewed and explicitly accepted by the site owner on 2026-08-13.
+  reviewed and explicitly accepted by the site owner on 2026-08-13. Chapters
+  are generated upstream: after regenerating, re-run
+  `scripts/patch_translated_security.py` (idempotent) or the CSP metas and the
+  localStorage-free reader script regress.
 - **Local Ruby build stack** — the `github-pages` gem pins legacy versions:
   liquid 4.0.3 (CVE-2025-47904), rouge 3.26.0 (CVE-2021-44172), commonmarker
   0.17.13 (bundled cmark-gfm CVEs), kramdown 2.3.1 (fixed). GitHub Pages builds
@@ -59,6 +70,10 @@ comment services. All content is owner-authored. The residual risks are:
 
 - GDPR privacy notice: `/privacy/` (GitHub Pages processor disclosure, OSM tile
   transfer, no cookies/analytics/localStorage).
+- Legitimate Interests Assessment for the BAC candidate-level data: `/lia/`
+  (`lia.html`; no direct identifiers, min-n aggregate thresholds, client-side
+  only). The privacy notice no longer calls the data "anonymous" — it states
+  the absence of direct identifiers and links the LIA.
 - OSM Tile Usage Policy: maps attribute "© OpenStreetMap contributors".
 - DSA (2022/2065) and the European Accessibility Act (2019/882): assessed as
   not applicable to this personal, non-commercial static site.

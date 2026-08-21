@@ -2,9 +2,15 @@
   "meta": {
     "source": "data/bac2025iunie_final.parquet",
     "generated_by": "analyze/stats.py",
-    "schema_version": 3,
+    "schema_version": 4,
     "total_rows": 107812,
-    "digest_sha256": "5d4ad62bf547a6d8b51b27e7c3537c7206a198819b99c4980226310094dff800"
+    "digest_sha256": "5d4ad62bf547a6d8b51b27e7c3537c7206a198819b99c4980226310094dff800",
+    "patched": {
+      "date": "2026-08-02",
+      "by": "scripts/patch_digests.py (repo-side Batch 3, see BUGFIX_SPEC.md)",
+      "reason": "AUDIT.md D1/D2/D3/D4: subject stats recomputed on presented-final population; materna chi2 over full table; school counts aligned",
+      "population": "rezultat_final in (REUSIT, RESPINS) and non-null final grade"
+    }
   },
   "overview": {
     "total_candidates": 107812,
@@ -22,11 +28,11 @@
   },
   "grade_distribution": {
     "romana_final": {
-      "n": 107812,
-      "mean": 6.95,
-      "median": 7.2,
-      "std": 1.98,
-      "min": -2.0,
+      "n": 104571,
+      "mean": 7.1,
+      "median": 7.3,
+      "std": 1.71,
+      "min": 1.0,
       "max": 10.0,
       "mode": 5.0,
       "exact_10": 240,
@@ -106,11 +112,11 @@
       ]
     },
     "materna_final": {
-      "n": 6201,
-      "mean": 7.44,
+      "n": 6098,
+      "mean": 7.5,
       "median": 7.6,
-      "std": 1.54,
-      "min": -2.0,
+      "std": 1.39,
+      "min": 1.4,
       "max": 10.0,
       "mode": 9.0,
       "exact_10": 25,
@@ -190,11 +196,11 @@
       ]
     },
     "profil_final": {
-      "n": 107812,
-      "mean": 6.96,
-      "median": 7.35,
-      "std": 2.49,
-      "min": -2.0,
+      "n": 104571,
+      "mean": 7.16,
+      "median": 7.45,
+      "std": 2.16,
+      "min": 1.0,
       "max": 10.0,
       "mode": 10.0,
       "exact_10": 3903,
@@ -274,14 +280,14 @@
       ]
     },
     "alegere_final": {
-      "n": 107812,
-      "mean": 7.55,
-      "median": 8.3,
-      "std": 2.37,
-      "min": -2.0,
+      "n": 104571,
+      "mean": 7.76,
+      "median": 8.35,
+      "std": 1.98,
+      "min": 1.0,
       "max": 10.0,
       "mode": 10.0,
-      "exact_10": 3439,
+      "exact_10": 3438,
       "histogram": [
         {
           "bucket": "1.00-1.50",
@@ -605,10 +611,11 @@
         }
       ],
       "chi_square_vs_success": {
-        "chi2": 243.61,
+        "chi2": 260.1,
         "p_value": 0.0,
-        "dof": 3,
-        "levels_compared": 4
+        "dof": 8,
+        "levels_compared": 9,
+        "note": "computed over all displayed language groups; expected counts < 5 in the smallest groups (chi2 approximation is indicative there)"
       }
     }
   },
@@ -1072,9 +1079,9 @@
         [
           1.0,
           0.62,
-          0.66,
-          0.66,
-          0.87
+          0.75,
+          0.7,
+          0.89
         ],
         [
           0.62,
@@ -1084,24 +1091,24 @@
           0.81
         ],
         [
-          0.66,
+          0.75,
           0.62,
           1.0,
-          0.72,
-          0.88
+          0.74,
+          0.92
         ],
         [
-          0.66,
+          0.7,
           0.61,
-          0.72,
+          0.74,
           1.0,
-          0.87
+          0.9
         ],
         [
-          0.87,
+          0.89,
           0.81,
-          0.88,
-          0.87,
+          0.92,
+          0.9,
           1.0
         ]
       ]
@@ -1112,7 +1119,7 @@
     }
   },
   "school_deep": {
-    "n_analyzed": 1137,
+    "n_analyzed": 1138,
     "highest_variance": [
       {
         "school": "LICEUL TEORETIC \"DR.VICTOR GOMOIU\"",
@@ -2018,7 +2025,8 @@
         "spread": 6.24,
         "island_excellence": -2.53
       }
-    ]
+    ],
+    "rule": "scoli cu >= 20 candidati prezentati"
   },
   "outliers": {
     "fragile_top": [
@@ -3301,11 +3309,11 @@
         "gap": 4.55
       },
       {
-        "judet": "IL",
-        "best": "COLEGIUL NATIONAL \"MIHAI VITEAZUL\" SLOBOZIA",
-        "best_avg": 8.84,
-        "worst": "LICEUL TEHNOLOGIC \"MIHAI EMINESCU\" SLOBOZIA",
-        "worst_avg": 4.41,
+        "judet": "DB",
+        "best": "COLEGIUL NATIONAL \"CONSTANTIN CARABELLA\" TARGOVISTE",
+        "best_avg": 8.9,
+        "worst": "LICEUL TEHNOLOGIC \"IORDACHE GOLESCU\" GAESTI",
+        "worst_avg": 4.47,
         "gap": 4.43
       },
       {
@@ -3317,11 +3325,11 @@
         "gap": 4.43
       },
       {
-        "judet": "DB",
-        "best": "COLEGIUL NATIONAL \"CONSTANTIN CARABELLA\" TARGOVISTE",
-        "best_avg": 8.9,
-        "worst": "LICEUL TEHNOLOGIC \"IORDACHE GOLESCU\" GAESTI",
-        "worst_avg": 4.47,
+        "judet": "IL",
+        "best": "COLEGIUL NATIONAL \"MIHAI VITEAZUL\" SLOBOZIA",
+        "best_avg": 8.84,
+        "worst": "LICEUL TEHNOLOGIC \"MIHAI EMINESCU\" SLOBOZIA",
+        "worst_avg": 4.41,
         "gap": 4.43
       },
       {

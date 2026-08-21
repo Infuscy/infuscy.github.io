@@ -6,6 +6,54 @@ Every bug was verified against the shipped data and the live UIs. Fix order = pr
 
 ---
 
+## Batch 3 (2026-08-02) — repo-side data patches (full codebase audit, see `AUDIT.md`)
+
+The upstream repos were unavailable, so this batch **patches the shipped artifacts in place** via `scripts/patch_digests.py` (kept for provenance). A permanent guard — `scripts/verify_digests.py`, wired as `.github/workflows/verify-data.yml` — recomputes a canary set from the shipped parquets and fails on drift. **Port all of this batch upstream before the next rebuild**, or the rebuild will silently reintroduce the bugs.
+
+**New canonical definition (schema v4):** subject-grade population = `rezultat_final ∈ {REUSIT, RESPINS}` **and** non-null final grade. The old digests computed subject stats over *all* candidates (incl. NEPREZENTAT/ELIMINAT) on *pre-contestation* grades with absentees as 0 — provably not reproducible from the shipped parquet (AUDIT D1: shipped `mean × n` < sum of non-null grades alone for romana 2025).
+
+### D1 (critical) — grade_distribution + correlations not reproducible from shipped data
+**Where:** `grade_distribution.{romana,materna,profil,alegere}_final` and `correlations` in both digests; the per-subject blocks + histograms in `delta.json.grade_distribution`.
+**Fix (applied to shipped JSONs):** recomputed on the canonical population (romana/profil/alegere n: 107.812/130.709 → 104.571/125.977; materna: 6.201/6.856 → 6.098/6.748). Correlations: pairwise-complete Pearson over presented rows (romana×profil 0.66/0.65 → 0.75). `delta.json` histograms rebuilt on the same 0.50 bucket grid. `meta.schema_version` 3 → **4** + `meta.patched` added (`digest_sha256` left as upstream provenance).
+**Upstream fix:** `stats.py` must compute subject stats on finals over the presented population (same rule as `media`), and the digest must be generated from the same parquet state that gets slimmed into `bac_slim.parquet`.
+
+### D2 (high) — materna chi² computed on a hidden 4-language subset
+**Where:** `competente.materna_competente.chi_square_vs_success` (both digests): shipped 243.61/231.41 with `levels_compared: 4` next to a 9-row cross-tab.
+**Fix (applied):** chi² over all 9 displayed rows → 260.10/252.27, `dof: 8`, `levels_compared: 9`, small-cell caveat in a `note` field.
+**Upstream fix:** compute the chi² over exactly the rows displayed (or display the subset used).
+
+### D3 (medium) — school counts off by one
+**Where:** posts ("1.443"/"1.437"), `school_deep.n_analyzed` (1.137/1.206). Shipped data: 1.444/1.438 distinct schools; presented≥20 → 1.138/1.207.
+**Fix (applied):** posts updated to 1.444/1.438; `n_analyzed` → 1.138/1.207 + `rule: "scoli cu >= 20 candidati prezentati"`.
+**Upstream fix:** count schools from the same data state that ships; publish the counting rule.
+
+### D4 (medium) — delta-app copy (dist-level micro-patches; **must port upstream**)
+**Where:** `BAC2526` bundle (`src/` findings section).
+**Fix (applied to `bac2526/assets/index-*.js`):**
+- Finding 2 heading: "Notele perfecte s-au dublat" → "s-au mai mult decât dublat" (32 → 69 is +116%).
+- Finding 4: static `"Ziua a rămas stabilă la ~77.7%."` → data-driven `(a.ZI ? " pp. Ziua a rămas stabilă ("+a.ZI.pass_rate_2025+"% → "+a.ZI.pass_rate_2026+"%)." : " pp.")` (77,36 → 77,71; the old literal was the 2026 value only).
+**Upstream fix:** same two changes in `src/`; never hardcode digest numbers in prose.
+
+### D5 (low) — tie-break order drift digest ↔ outliers.json
+**Where:** `outliers.county_gap` (both years), `outliers.all_pass` (2026): same members/values, different order among equal sort keys.
+**Fix (applied):** digest section reordered to match `outliers.json` (the file the UI reads). Guard asserts order equality.
+
+### D6 (cosmetic) — `''` quote-artifact school names normalized
+**Where:** `LICEUL "ALEXANDRU CEL BUN'' BOTOSANI`, `LICEUL TEHNOLOGIC "PETRU RARES'' BOTOSANI` (69/102 rows 2025/2026).
+**Fix (applied):** normalized to `"` closing quotes in both `bac_slim.parquet` (schema/compression preserved), both `findings.json`, both `schools.json`. `outliers.json`/`delta.json` never referenced them. NOTE: raw-text replace silently misses JSON-escaped names (`\"`) — always sweep parsed JSON, as `scripts/verify_digests.py` does.
+
+### Batch 3 verification
+
+```bash
+python scripts/verify_digests.py        # exits 0; CI runs it on every data push
+# key expected values after patch:
+#   romana 2026: n=125977 mean=7.17 std=1.74 exact_10=498
+#   correlations romana×profil: 0.75 (both years); materna chi²: 260.1 / 252.27 (dof 8)
+#   school_deep.n_analyzed: 1138 / 1207; posts: 1.444 / 1.438
+```
+
+---
+
 ## Batch 2 (2026-08-01) — implemented: sort drift, effect-size fabrication, silent fallbacks
 
 Follow-up audit after the batch-1 rebuild. All fixed in the upstream repos; digests are now **schema v3** (`media_std` added to `repeaters_vs_first`, bottom lists standardized). Guarded in `delta.py:guard_digests` (bottom-list ordering + `media_std` presence).

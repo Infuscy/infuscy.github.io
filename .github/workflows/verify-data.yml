@@ -1,0 +1,31 @@
+name: verify-bac-data
+
+# Data integrity guard: recomputes a canary set of statistics from the shipped
+# bac_slim.parquet files and diffs them against the shipped digests.
+# See scripts/verify_digests.py and BUGFIX_SPEC.md (Batch 3).
+
+on:
+  push:
+    paths:
+      - "bac2025/data/**"
+      - "bac2026/data/**"
+      - "bac2526/data/**"
+      - "scripts/verify_digests.py"
+      - ".github/workflows/verify-data.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: pip install pyarrow pandas numpy
+      - name: Run data guard
+        run: python scripts/verify_digests.py

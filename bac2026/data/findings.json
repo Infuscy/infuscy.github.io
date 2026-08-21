@@ -2,9 +2,15 @@
   "meta": {
     "source": "data/bac2026_final.parquet",
     "generated_by": "analyze/stats.py",
-    "schema_version": 3,
+    "schema_version": 4,
     "total_rows": 130709,
-    "digest_sha256": "e93a403420ae6e223ca69059bed7c59ef146835f36218c93b04c792a87ce235b"
+    "digest_sha256": "e93a403420ae6e223ca69059bed7c59ef146835f36218c93b04c792a87ce235b",
+    "patched": {
+      "date": "2026-08-02",
+      "by": "scripts/patch_digests.py (repo-side Batch 3, see BUGFIX_SPEC.md)",
+      "reason": "AUDIT.md D1/D2/D3/D4: subject stats recomputed on presented-final population; materna chi2 over full table; school counts aligned",
+      "population": "rezultat_final in (REUSIT, RESPINS) and non-null final grade"
+    }
   },
   "overview": {
     "total_candidates": 130709,
@@ -22,11 +28,11 @@
   },
   "grade_distribution": {
     "romana_final": {
-      "n": 130709,
-      "mean": 6.97,
-      "median": 7.15,
-      "std": 2.1,
-      "min": -2.0,
+      "n": 125977,
+      "mean": 7.17,
+      "median": 7.3,
+      "std": 1.74,
+      "min": 1.0,
       "max": 10.0,
       "mode": 5.0,
       "exact_10": 498,
@@ -106,11 +112,11 @@
       ]
     },
     "materna_final": {
-      "n": 6856,
-      "mean": 7.58,
-      "median": 7.75,
-      "std": 1.54,
-      "min": -2.0,
+      "n": 6748,
+      "mean": 7.64,
+      "median": 7.8,
+      "std": 1.37,
+      "min": 1.3,
       "max": 10.0,
       "mode": 8.7,
       "exact_10": 37,
@@ -190,14 +196,14 @@
       ]
     },
     "profil_final": {
-      "n": 130709,
-      "mean": 6.98,
-      "median": 7.5,
-      "std": 2.51,
-      "min": -2.0,
+      "n": 125977,
+      "mean": 7.24,
+      "median": 7.6,
+      "std": 2.07,
+      "min": 1.0,
       "max": 10.0,
       "mode": 10.0,
-      "exact_10": 3843,
+      "exact_10": 3842,
       "histogram": [
         {
           "bucket": "1.00-1.50",
@@ -274,14 +280,14 @@
       ]
     },
     "alegere_final": {
-      "n": 130709,
-      "mean": 7.39,
-      "median": 8.1,
-      "std": 2.44,
-      "min": -2.0,
+      "n": 125977,
+      "mean": 7.65,
+      "median": 8.2,
+      "std": 1.96,
+      "min": 1.0,
       "max": 10.0,
       "mode": 10.0,
-      "exact_10": 3350,
+      "exact_10": 3349,
       "histogram": [
         {
           "bucket": "1.00-1.50",
@@ -607,10 +613,11 @@
         }
       ],
       "chi_square_vs_success": {
-        "chi2": 231.41,
+        "chi2": 252.27,
         "p_value": 0.0,
-        "dof": 3,
-        "levels_compared": 4
+        "dof": 8,
+        "levels_compared": 9,
+        "note": "computed over all displayed language groups; expected counts < 5 in the smallest groups (chi2 approximation is indicative there)"
       }
     }
   },
@@ -1074,9 +1081,9 @@
         [
           1.0,
           0.64,
-          0.65,
-          0.67,
-          0.86
+          0.75,
+          0.71,
+          0.89
         ],
         [
           0.64,
@@ -1086,24 +1093,24 @@
           0.83
         ],
         [
-          0.65,
+          0.75,
           0.63,
           1.0,
-          0.71,
-          0.88
+          0.75,
+          0.92
         ],
         [
-          0.67,
+          0.71,
           0.65,
-          0.71,
+          0.75,
           1.0,
-          0.88
+          0.91
         ],
         [
-          0.86,
+          0.89,
           0.83,
-          0.88,
-          0.88,
+          0.92,
+          0.91,
           1.0
         ]
       ]
@@ -1114,7 +1121,7 @@
     }
   },
   "school_deep": {
-    "n_analyzed": 1206,
+    "n_analyzed": 1207,
     "highest_variance": [
       {
         "school": "LICEUL TEORETIC \"DR.VICTOR GOMOIU\"",
@@ -1721,7 +1728,7 @@
     ],
     "below_county_avg": [
       {
-        "school": "LICEUL TEHNOLOGIC \"PETRU RARES'' BOTOSANI",
+        "school": "LICEUL TEHNOLOGIC \"PETRU RARES\" BOTOSANI",
         "judet": "BT",
         "n": 22,
         "presented": 22,
@@ -2020,7 +2027,8 @@
         "spread": 5.81,
         "island_excellence": -2.47
       }
-    ]
+    ],
+    "rule": "scoli cu >= 20 candidati prezentati"
   },
   "outliers": {
     "fragile_top": [
@@ -2566,38 +2574,6 @@
         "std_alegere_final": 0.84
       },
       {
-        "school": "COLEGIUL NATIONAL \"FERDINAND I\" BACAU",
-        "n": 176,
-        "presented": 176,
-        "passed": 176,
-        "rejected": 0,
-        "notpresented": 0,
-        "eliminated": 0,
-        "pass_rate": 100.0,
-        "pass_rate_ci95": [
-          97.86,
-          100.0
-        ],
-        "judet": "BC",
-        "avg_media": 8.96,
-        "median_media": 9.18,
-        "std_media": 0.75,
-        "tens": 1,
-        "tens_rate": 0.57,
-        "avg_media_ci95": [
-          8.86,
-          9.07
-        ],
-        "avg_romana_final": 8.93,
-        "std_romana_final": 0.81,
-        "avg_materna_final": null,
-        "std_materna_final": null,
-        "avg_profil_final": 8.83,
-        "std_profil_final": 1.05,
-        "avg_alegere_final": 9.14,
-        "std_alegere_final": 0.88
-      },
-      {
         "school": "COLEGIUL NATIONAL \"CONSTANTIN DIACONOVICI LOGA\" TIMISOARA",
         "n": 176,
         "presented": 176,
@@ -2662,6 +2638,38 @@
         "std_alegere_final": 0.73
       },
       {
+        "school": "COLEGIUL NATIONAL \"FERDINAND I\" BACAU",
+        "n": 176,
+        "presented": 176,
+        "passed": 176,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.86,
+          100.0
+        ],
+        "judet": "BC",
+        "avg_media": 8.96,
+        "median_media": 9.18,
+        "std_media": 0.75,
+        "tens": 1,
+        "tens_rate": 0.57,
+        "avg_media_ci95": [
+          8.86,
+          9.07
+        ],
+        "avg_romana_final": 8.93,
+        "std_romana_final": 0.81,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 8.83,
+        "std_profil_final": 1.05,
+        "avg_alegere_final": 9.14,
+        "std_alegere_final": 0.88
+      },
+      {
         "school": "LICEUL TEORETIC \"DIMITRIE CANTEMIR\", IASI",
         "n": 172,
         "presented": 172,
@@ -2694,38 +2702,6 @@
         "std_alegere_final": 0.72
       },
       {
-        "school": "COLEGIUL NATIONAL \"GHEORGHE LAZAR\" SIBIU",
-        "n": 171,
-        "presented": 171,
-        "passed": 171,
-        "rejected": 0,
-        "notpresented": 0,
-        "eliminated": 0,
-        "pass_rate": 100.0,
-        "pass_rate_ci95": [
-          97.8,
-          100.0
-        ],
-        "judet": "SB",
-        "avg_media": 9.0,
-        "median_media": 9.16,
-        "std_media": 0.61,
-        "tens": 1,
-        "tens_rate": 0.58,
-        "avg_media_ci95": [
-          8.91,
-          9.1
-        ],
-        "avg_romana_final": 8.89,
-        "std_romana_final": 0.69,
-        "avg_materna_final": null,
-        "std_materna_final": null,
-        "avg_profil_final": 9.01,
-        "std_profil_final": 0.9,
-        "avg_alegere_final": 9.11,
-        "std_alegere_final": 0.89
-      },
-      {
         "school": "COLEGIUL NATIONAL \"STEFAN CEL MARE\" SUCEAVA",
         "n": 171,
         "presented": 171,
@@ -2756,6 +2732,38 @@
         "std_profil_final": 0.84,
         "avg_alegere_final": 9.21,
         "std_alegere_final": 0.78
+      },
+      {
+        "school": "COLEGIUL NATIONAL \"GHEORGHE LAZAR\" SIBIU",
+        "n": 171,
+        "presented": 171,
+        "passed": 171,
+        "rejected": 0,
+        "notpresented": 0,
+        "eliminated": 0,
+        "pass_rate": 100.0,
+        "pass_rate_ci95": [
+          97.8,
+          100.0
+        ],
+        "judet": "SB",
+        "avg_media": 9.0,
+        "median_media": 9.16,
+        "std_media": 0.61,
+        "tens": 1,
+        "tens_rate": 0.58,
+        "avg_media_ci95": [
+          8.91,
+          9.1
+        ],
+        "avg_romana_final": 8.89,
+        "std_romana_final": 0.69,
+        "avg_materna_final": null,
+        "std_materna_final": null,
+        "avg_profil_final": 9.01,
+        "std_profil_final": 0.9,
+        "avg_alegere_final": 9.11,
+        "std_alegere_final": 0.89
       },
       {
         "school": "COLEGIUL NATIONAL MILITAR \"DIMITRIE CANTEMIR\" BREAZA",
@@ -3265,19 +3273,19 @@
         "gap": 4.81
       },
       {
-        "judet": "CT",
-        "best": "COLEGIUL NATIONAL 'MIRCEA CEL BATRAN' CONSTANTA",
-        "best_avg": 9.29,
-        "worst": "LICEUL TEHNOLOGIC BANEASA",
-        "worst_avg": 4.49,
-        "gap": 4.8
-      },
-      {
         "judet": "IS",
         "best": "COLEGIUL NATIONAL, IASI",
         "best_avg": 9.48,
         "worst": "LICEUL TEHNOLOGIC \"CAROL I\", IASI",
         "worst_avg": 4.68,
+        "gap": 4.8
+      },
+      {
+        "judet": "CT",
+        "best": "COLEGIUL NATIONAL 'MIRCEA CEL BATRAN' CONSTANTA",
+        "best_avg": 9.29,
+        "worst": "LICEUL TEHNOLOGIC BANEASA",
+        "worst_avg": 4.49,
         "gap": 4.8
       },
       {
@@ -3321,19 +3329,19 @@
         "gap": 4.23
       },
       {
-        "judet": "NT",
-        "best": "COLEGIUL NATIONAL \"PETRU RARES\", MUNICIPIUL PIATRA-NEAMT",
-        "best_avg": 9.11,
-        "worst": "LICEUL TEHNOLOGIC \"DIMITRIE LEONIDA\", MUNICIPIUL PIATRA-NEAMT",
-        "worst_avg": 4.9,
-        "gap": 4.21
-      },
-      {
         "judet": "BH",
         "best": "COLEGIUL NATIONAL \"EMANUIL GOJDU\" ORADEA",
         "best_avg": 9.23,
         "worst": "LICEUL TEHNOLOGIC NR.1 SALONTA",
         "worst_avg": 5.02,
+        "gap": 4.21
+      },
+      {
+        "judet": "NT",
+        "best": "COLEGIUL NATIONAL \"PETRU RARES\", MUNICIPIUL PIATRA-NEAMT",
+        "best_avg": 9.11,
+        "worst": "LICEUL TEHNOLOGIC \"DIMITRIE LEONIDA\", MUNICIPIUL PIATRA-NEAMT",
+        "worst_avg": 4.9,
         "gap": 4.21
       },
       {

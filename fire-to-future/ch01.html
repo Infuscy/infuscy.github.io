@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 1: Fire: Making, Keeping, and Engineering Heat — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 1 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch01_fire-chapter-1-fire-making-keeping-and-engineering-heat">Chapter 1: Fire: Making, Keeping, and Engineering Heat</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> earliest sites ~1 Ma–790 ka (evidence debated); habitual use secure by ~400 ka · <strong>Difficulty:</strong> low
+<br><strong>Requires:</strong> nothing — this is node zero · <br><strong>Unlocks:</strong> <a href="ch02.html">Ch 2</a>, <a href="ch05.html">Ch 5</a>, <a href="ch07.html">Ch 7</a>, and everything hot thereafter</p>
+</blockquote>
+<p>Fire is not one technology but three: <strong>ignition</strong> (creating it on demand), <strong>maintenance</strong> (keeping it through nights, storms, and transport), and <strong>heat engineering</strong> (shaping where the heat goes). Most histories stop at ignition. A civilization that stops there stays cold; the third layer is what later becomes kilns, forges, retorts, and blast furnaces.</p>
+<h2 id="ch01_fire-11-ignition-by-friction">1.1 Ignition by Friction</h2>
+<p>The bow-drill is the most reliable primitive method because it converts sustained arm motion into spindle rotation with a mechanical advantage.</p>
+<ul>
+<li><strong>Spindle:</strong> dry, straight-grained softwood (willow, cedar, cottonwood), 15–25 cm long, 1–2 cm diameter, rounded ends.</li>
+<li><strong>Hearth board:</strong> same wood family as spindle — <em>matching hardness matters</em>; a hard spindle on soft wood polishes instead of grinding.</li>
+<li><strong>Bow:</strong> slightly bent branch, cord of rawhide or a 2-ply plant-fiber string (see <a href="ch03.html">Ch 3</a>), one loose loop around the spindle.</li>
+<li><strong>Bearing block:</strong> hardwood, stone, shell, or a knuckle-guard of bone; lubricated with tallow or green leaves.</li>
+<li><strong>Technique:</strong> carve a V-notch from the edge of a shallow hearth depression so the accumulating char can drop onto a tinder bundle below. Stroke smoothly until smoke is continuous (~20–60 s of vigorous work), then transfer the smoking pile of char into the tinder and blow in long, steady breaths. Flame follows at roughly 300–450 °C ember temperature.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> a coal that holds together when the tinder bundle is tapped — crumbly char means wet material or wrong wood.</p>
+<p>Alternatives worth knowing: the <strong>hand drill</strong> (no bow; needs very dry low-density woods like yucca or mullein — lighter but harder to learn) and the <strong>fire plough/saw</strong> (rubbing one stick along a groove; simple tools, high effort).</p>
+<h2 id="ch01_fire-12-ignition-by-spark">1.2 Ignition by Spark</h2>
+<p>Where pyrite or marcasite nodules occur naturally, striking them with flint or quartz throws sparks that will ignite true tinder — dried fungus (<em>Fomes fomentarius</em>, "amadou") processed by boiling, pounding, and slow drying, or charred cloth once textiles exist. This method is faster and less caloric than friction and works in wind.</p>
+<p class="co co-jump"><strong>Jump:</strong> if flint-bearing chalk deposits and iron sulfides are known, skip friction methods entirely as your standard kit and carry strike-a-light sets. Friction remains the fallback when minerals fail.</p>
+<p>A <strong>fire piston</strong> (ignition by adiabatic compression of air, ~260 °C in a sealed bore) exists in Southeast Asian tradition and can be built once tight-fitting bored cylinders and gasketed pistons exist — interesting, but never worth prioritizing over spark kits.</p>
+<h2 id="ch01_fire-13-tinder-and-fuel-economics">1.3 Tinder and Fuel Economics</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Role</th>
+<th>Materials</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tinder</td>
+<td>processed fungus, char cloth, shredded bark (birch, juniper), dry grass twisted into a nest</td>
+<td>must catch from a single ember</td>
+</tr>
+<tr>
+<td>Kindling</td>
+<td>pencil-thin to finger-thick dead branches, split fine</td>
+<td>add only when flame is established</td>
+</tr>
+<tr>
+<td>Fuel</td>
+<td>dead-standing hardwood &gt; downed softwood &gt; green wood (smokes, low heat)</td>
+<td>resinous softwoods for fast heat, hardwoods for coals</td>
+</tr>
+</tbody>
+</table></div>
+<p>Fuel value is roughly proportional to density: oak at ~0.75 g/cm³ yields ~2× the heat per volume of poplar at ~0.35. One person's daily cooking and heating demand in a temperate climate is on the order of 5–10 kg dry wood; a village burns a forest margin annually. This arithmetic, not romance, drives the shift to charcoal (<a href="#ch01_fire-14-charcoal-the-first-fuel-industry">below</a>) and eventually to coal (<a href="ch22.html">Ch 22</a>).</p>
+<h2 id="ch01_fire-14-charcoal-the-first-fuel-industry">1.4 Charcoal: The First Fuel Industry</h2>
+<p>Charcoal burns hotter and cleaner than wood because pyrolysis has already stripped water, volatiles, and tars.</p>
+<ul>
+<li><strong>Mound kiln:</strong> stack seasoned wood around a central flue, cover with turf/earth leaving small draft holes, ignite top-down, then seal most openings so the mass smolders oxygen-starved.</li>
+<li><strong>Control:</strong> watch the smoke — white/thick means still driving off water; blue and thin means carbonization complete. Seal fully to quench before the charge turns to ash.</li>
+<li><strong>Yield:</strong> 10–15 % of dry wood mass, but near-pure carbon burning at 900–1,200 °C under forced air versus ~600–800 °C for an open wood fire.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> charcoal + forced draft = temperatures where clay sinters, copper melts (1,085 °C), and iron becomes workable (see <a href="ch10.html">Ch 10</a>, <a href="ch14.html">Ch 14</a>). Every metal age stands on this chapter.</p>
+<h2 id="ch01_fire-15-ovens-banking-and-heat-discipline">1.5 Ovens, Banking, and Heat Discipline</h2>
+<ul>
+<li><strong>Banking:</strong> bury live coals in ash overnight; they insulate to a slow burn and rekindle in minutes. Fire-carrying between camps uses slow-burning punk or embers in a container — useful, but treat it as logistics, not strategy.</li>
+<li><strong>Clay oven:</strong> a beehive dome of mud over a temporary form, front mouth for loading, chimney optional. Fired once from within, it bakes itself while baking bread; retained-mass cooking runs hours per firing.</li>
+<li><strong>Draft control:</strong> a fire's temperature is managed by air supply more than fuel quantity. Bellows (two boards, hide hinges, wooden nozzle — see <a href="ch03.html">Ch 3</a> for leather) arrive early and pay forever; even a simple blowpipe doubles effective flame temperature.</li>
+</ul>
+<p class="co co-dead"><strong>Dead end avoided:</strong> myths of fire-starting by "spontaneous" methods — bamboo fire saws aside, every reliable primitive ignition is controlled friction, spark, or compression. Budget zero effort on anything else, and do not build ceremonial eternal flames; a banked ember plus skill beats a shrine.</p>
+<h2 id="ch01_fire-16-what-this-unlocks">1.6 What This Unlocks</h2>
+<p>Warmth and cooking expand edible range (detoxifying many plants, sterilizing meat), which feeds population growth into <a href="ch07.html">Ch 7</a>. Hardened wooden points, pitch-hafted composite tools (<a href="ch02.html">Ch 2</a>), fired clay (<a href="ch05.html">Ch 5</a>), lime, glass, metals, ceramics, steam, steel — all of it is downstream of a bow-drill and a turf-covered mound of smoldering logs.</p>
+<h2 id="ch01_fire-17-fire-as-landscape-engineering">1.7 Fire as Landscape Engineering</h2>
+<p>Fire was a land-management tool long before it was industrial heat:</p>
+<ul>
+<li><strong>Fire-stick farming</strong> (the term is Rhys Jones', 1969): Aboriginal Australian burning regimes created mosaic landscapes — fresh green flush attracting game days after a cool burn, while old growth remained as refuge. Similar anthropogenic burning is documented for Californian and Pacific Northwest peoples (oak savanna maintenance, camas fields) and inferred for European Mesolithic.</li>
+<li><strong>Doctrine of the cool burn:</strong> burn in damp season, against light wind, behind natural breaks; never crown-fire terrain in drought. The skill is scheduling and patchwork, not pyrotechnics — the same patch-dynamics logic modern prescribed-burn programs rediscovered. Quantifying the yield/fuel-load effect of mosaic burning remains open: [EVIDENCE NEEDED] for a defensible number before asserting one.</li>
+<li><strong>Ash and charcoal as soil amendment</strong> foreshadows <a href="ch07.html">Ch 7</a>'s terra preta discussion: slash burned slowly into char raises soil cation-exchange capacity and persists centuries.</li>
+</ul>
+<h2 id="ch01_fire-18-what-the-archaeological-record-actually-shows">1.8 What the Archaeological Record Actually Shows</h2>
+<p>Precision matters here because fire's timeline is genuinely contested:</p>
+<ul>
+<li><strong>Wonderwerk Cave, South Africa:</strong> burnt bone, plant ash, and heated flint fragments in discrete layers dated near <strong>1.0 million years</strong> — currently the strongest early in-cave fire evidence.</li>
+<li><strong>Gesher Benot Ya'aqov, Israel (~790 ka):</strong> clustered burnt-flint distributions suggesting repeated hearth placement at one lakeside spot; interpretation remains argued.</li>
+<li><strong>Secure, habitual control</strong> is broadly accepted only from around <strong>400 ka onward</strong>, when hearth features, ash lenses, and burnt artifacts become routine across Old World sites.</li>
+<li>Neanderthal structured hearths (Abric Romaní, Spain — excavated combustion features with bedding and tool zones) show spatial organization around fire well before anatomically modern humans arrived in Europe.</li>
+</ul>
+<p>Claims linking cooking to human biology (smaller guts, bigger brains — Wrangham's cooking hypothesis) are influential but partially speculative; what is solid: cooked starches raise digestible energy markedly, and every surviving human society cooks. Treat the cognitive/language-by-fire stories as hypotheses, not findings.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="front-matter.html" class="reader-nav-link">← Front matter</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch02.html" class="reader-nav-link">Chapter 2 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

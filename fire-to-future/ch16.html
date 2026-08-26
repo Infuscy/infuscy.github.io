@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 16: Water and Wind: Mills and Pre-Fuel Prime Movers — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 16 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch16_water_wind-chapter-16-water-and-wind-mills-and-pre-fuel-prime-movers">Chapter 16: Water and Wind: Mills and Pre-Fuel Prime Movers</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> ~300 BCE → 18th c. CE · <strong>Difficulty:</strong> mid
+<br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch03.html">Ch 3</a>/<a href="ch14.html">14</a> belting/ironwork · <br><strong>Unlocks:</strong> <a href="ch22.html">Ch 22</a> blast, <a href="ch18.html">Ch 18</a> paper pounding, factory organization</p>
+</blockquote>
+<p>Before fossil fuel, captured water and wind are your only non-muscle power. A single overshot waterwheel delivers 2–10 kW continuously — twenty laborers' worth, day and night, for the price of maintenance. Mill sites become the fixed capital around which industrial districts form; choose them like cities.</p>
+<h2 id="ch16_water_wind-161-water-power-fundamentals">16.1 Water Power Fundamentals</h2>
+<p>Power available = weight of water × fall height × flow rate × efficiency. Practical numbers:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Wheel type</th>
+<th>Efficiency</th>
+<th>Fall needed</th>
+<th>Character</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Current (undershot, floating)</td>
+<td>~20 %</td>
+<td>none</td>
+<td>rivers with no head; low power</td>
+</tr>
+<tr>
+<td>Breast</td>
+<td>~50 %</td>
+<td>~1–2 m</td>
+<td>mid-grade compromise</td>
+</tr>
+<tr>
+<td>Overshot</td>
+<td>~60–70 %</td>
+<td>≥2–3 m</td>
+<td>buckets on top, gravity does the work; the workhorse</td>
+</tr>
+<tr>
+<td>Turbine (later refinement)</td>
+<td>~80–90 %</td>
+<td>flexible</td>
+<td>enclosed runners; jump when iron allows</td>
+</tr>
+</tbody>
+</table></div>
+<p>Site engineering: a <strong>millpond</strong> behind a dam stores the stream's night flow for daytime grinding (power storage before batteries); a <strong>millrace/canal</strong> carries water to the wheel; a <strong>tailrace</strong> returns it below. Head is gold — even 2 m of extra drop doubles output.</p>
+<p class="co co-key"><strong>Key threshold:</strong> 1 m³/s falling 3 m ≈ 29 kW raw, ~20 kW delivered by an excellent wheel. That runs a flour mill, a fulling plant, a bellows line for a bloomery (<a href="ch14.html">Ch 14</a>), or a paper mill's stampers (<a href="ch18.html">Ch 18</a>) simultaneously if geared right.</p>
+<h2 id="ch16_water_wind-162-transmission-from-wheel-to-work">16.2 Transmission from Wheel to Work</h2>
+<p>Wheel shafts turn slowly (~5–15 rpm); most work wants speed or reciprocation:</p>
+<ul>
+<li><strong>Gear-up trains</strong> (small lantern pinion on driven shaft meshing large wheel) multiply speed at torque's expense.</li>
+<li><strong>Cams and trip-hammers:</strong> lobes on a shaft lift hammer heads that drop under gravity — pounding grain fullers cloth, crushes ore (<a href="ch13.html">Ch 13</a>), beats paper pulp.</li>
+<li><strong>Crank-and-rod</strong> converts rotation to reciprocation for saws and pumps (<a href="ch15.html">Ch 15</a>).</li>
+<li><strong>Belt lines</strong> distribute one water source to multiple workstations in one building — the first factories ARE water-powered halls with line-shafting overhead.</li>
+</ul>
+<h2 id="ch16_water_wind-163-windmills">16.3 Windmills</h2>
+<p>Where streams fail, wind serves — with caveats: it is intermittent, stormy, and needs orientation.</p>
+<ul>
+<li><strong>Post mill:</strong> whole body pivots on a post to face the wind; simple, small (~5 kW).</li>
+<li><strong>Smock/tower mill:</strong> rotating cap only — larger sails, heavier machinery, more stable.</li>
+<li><strong>Sail physics:</strong> canvas-on-lattice sails, adjustable reefing; spring sails later automate gust response. Tip-speed ratios stay modest; torque is what you get.</li>
+<li><strong>Dutch drainage duty:</strong> scoop wheels lift polder water — land reclamation as windmill economics.</li>
+</ul>
+<p>Wind suits grinding and pumping where water is absent; don't run precision industry on gusts until storage exists.</p>
+<h2 id="ch16_water_wind-164-what-mills-make-possible">16.4 What Mills Make Possible</h2>
+<p>Priority deployment order for rebuilding civilization:</p>
+<ol>
+<li><strong>Grain milling</strong> — frees hundreds of women-hours daily per village; querns to millstones is a demographic event (<a href="ch07.html">Ch 7</a>).</li>
+<li><strong>Sawmills</strong> — dimensioned timber at 10× hand-sawing rates feeds construction (<a href="ch06.html">Ch 6</a>) and shipbuilding.</li>
+<li><strong>Fulling and spinning machinery</strong> — textile throughput (<a href="ch03.html">Ch 3</a>); historically THE first mechanized industry and the trigger of the Industrial Revolution's early phase.</li>
+<li><strong>Iron works air blast</strong> — hotter furnaces, better yield (<a href="ch14.html">Ch 14</a>); water-powered hammers consolidate blooms mechanically.</li>
+<li><strong>Ore crushing/paper pounding/oil pressing</strong> — batch processing industries cluster around good sites.</li>
+<li><strong>Mine drainage</strong> — water-driven pumps extend depth limits (<a href="ch13.html">Ch 13</a>).</li>
+</ol>
+<p>Mill-site map = proto-industrial geography. Record flow gauges seasonally; drought years decide which sites deserve capital upgrades.</p>
+<h2 id="ch16_water_wind-165-limits-and-why-steam-was-inevitable">16.5 Limits — and Why Steam Was Inevitable</h2>
+<p>Water binds you to valleys and seasons; wind binds you to weather. Both deliver rotary power beautifully but CANNOT be carried into mineships or fields. The historical escape was burning fuel to make motion anywhere (<a href="ch23.html">Ch 23</a>). Build the mill economy anyway: its accumulated machine-shop skill (millwrights!) is exactly the workforce that builds the first engines — Newcomen and Watt both emerged from millwright culture. Mills are not obsolete technology; they are the apprenticeship program for Part III.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> over-investing in exotic perpetual-motion schemes to "beat" intermittency — history burned real talent there. Intermittency is managed by storage ponds, mixed sources, and task scheduling (grind when water flows, saw when wind holds), not defeated by cleverness.</p>
+<h2 id="ch16_water_wind-166-the-mill-record">16.6 The Mill Record</h2>
+<ul>
+<li><strong>Barbegal (Gaul, 2nd c. CE):</strong> sixteen overshot wheels stacked in two parallel flights down a hillside channel — a Roman industrial flour complex; capacity estimates range from a few tonnes of flour daily upward (scholars argue), but nobody disputes the plant's industrial character.</li>
+<li>Rome's Janiculum Hill hosted state mills; when Gothic sieges cut the aqueducts (537 CE), Belisarius installed floating mills on the Tiber — power infrastructure defended like the walls it fed.</li>
+<li><strong>Domesday Book (1086)</strong> records ~5,624 watermills across surveyed England — roughly one per 350–400 recorded inhabitants; milling had saturated rural geography three centuries before anyone wrote a treatise about it.</li>
+<li>Wind arrives late and eastward: vertical-axis Persian panemone mills recorded by 10th-century geographers in Sistan; horizontal-sail postmills appear in northwestern Europe by the late 12th century; the great Dutch drainage program (polder pumping, <a href="#ch16_water_wind-163-windmills">§16.3</a>) turned mill engineering into national survival infrastructure.</li>
+<li>Historiographical flag: Richard Carus-Wilson's 1941 essay called fulling-mill diffusion "an Industrial Revolution of the thirteenth century" — wool processing fleeing towns for cheap rural waterpower, reorganizing regional economies. Later scholars moderated the thesis (transport costs, guild politics mattered too), but the pattern — power sites restructuring industry's map — stands and repeats with steam (<a href="ch23.html">Ch 23</a>) and electricity (<a href="ch26.html">Ch 26</a>).</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch15.html" class="reader-nav-link">← Chapter 15</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch17.html" class="reader-nav-link">Chapter 17 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 14: Iron Without Tears: Bloomery, Forging, Case Hardening — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 14 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch14_iron-chapter-14-iron-without-tears-bloomery-forging-case-hardening">Chapter 14: Iron Without Tears: Bloomery, Forging, Case Hardening</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> ~1200 BCE → medieval · <strong>Difficulty:</strong> mid–high
+<br><strong>Requires:</strong> <a href="ch01.html">Ch 1</a> charcoal, <a href="ch05.html">Ch 5</a> tuyères, <a href="ch13.html">Ch 13</a> ore, bellows craft · <br><strong>Unlocks:</strong> <a href="ch22.html">Ch 22</a> scale-up, <a href="ch27.html">Ch 27</a></p>
+</blockquote>
+<p>Iron wins on abundance: where tin routes decide bronze economies (<a href="ch10.html">Ch 10</a>), iron ore is under nearly every foot. Its cost is skill — iron must be worked at every stage rather than simply cast. This chapter is the longest single skill investment in Parts I–II; treat smithing as a multi-year apprenticeship program, not a recipe.</p>
+<h2 id="ch14_iron-141-the-chemistry-in-one-paragraph">14.1 The Chemistry in One Paragraph</h2>
+<p>Bloomery smelting reduces iron oxide (Fe₂O₃/Fe₃O₄) with charcoal carbon monoxide at ~1,100–1,250 °C — BELOW iron's melting point (1,538 °C). The result is a <strong>bloom</strong>: a spongy mass of metallic iron riddled with slag (iron silicate glass). Everything in this chapter is about getting a bloom, then squeezing its slag out while consolidating metal.</p>
+<h2 id="ch14_iron-142-the-bloomery-furnace">14.2 The Bloomery Furnace</h2>
+<ul>
+<li><strong>Shaft furnace:</strong> clay-stone cylinder ~1–1.5 m tall, ~30–40 cm bore, one or more tuyères (bellows nozzles, ceramic) aimed at the hearth zone.</li>
+<li><strong>Charge:</strong> alternating layers of charcoal and roasted ore (crushed, washed concentrate from <a href="ch13.html">Ch 13</a>; roasting drives off water/sulfur and pre-oxidizes).</li>
+<li><strong>Air:</strong> twin bellows or water-driven bellows (<a href="ch16.html">Ch 16</a>) blowing continuously for 6–12 hours. Airflow is THE control variable: too little = unreduced ore; too much/too hot = carbon absorption climbs toward cast iron (brittle, unforgeable at this stage).</li>
+<li><strong>Extraction:</strong> break the furnace front, pull the bloom hot with tongs, cut it into palm-sized pieces ("loupes") for immediate consolidation.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> slag must be fluid enough to drain (tapped or squeezed out) but the metal never fully molten. Watch flame color and slag viscosity; keep written notes per charge — bloom yield varies wildly without records. Once three smelts are logged, plot per-smelt bar yield on an X̄–R chart exactly as <a href="ch47.html">Ch 47</a> §47.13 specifies; the chart is what separates real process change from noise.</p>
+<h2 id="ch14_iron-143-forging-consolidation-and-shaping">14.3 Forging: Consolidation and Shaping</h2>
+<p>The smithy's essential kit: heavy anvil (any massive hard-faced block), assorted hammers, tongs, a slack-tub quench, forge hearth with charcoal and air blast.</p>
+<p>Core operations, learnable in roughly this order:</p>
+<ol>
+<li><strong>Drawing out</strong> (lengthening), <strong>upsetting</strong> (thickening), <strong>bending</strong>, <strong>punching/drifting holes</strong>, <strong>fullering</strong> (grooves), <strong>welding</strong> (scarf two pieces, flux with sand/borax, bring both to sparking white (~1,300 °C), hammer together — yes, iron welds in a coal forge).</li>
+<li><strong>Slag squeezing:</strong> reheating bloom loupes and hammering them flat-and-folded repeatedly expels slag and welds iron fibers into solid bar. Expect to lose half the bloom's weight; that's normal.</li>
+</ol>
+<h2 id="ch14_iron-144-steel-carbon-is-the-dial">14.4 Steel: Carbon Is the Dial</h2>
+<p>Iron's personality is set by carbon content:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Carbon %</th>
+<th>Material</th>
+<th>Behavior</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&lt;0.05</td>
+<td>wrought iron</td>
+<td>soft, tough, bends before breaking; fences, chains</td>
+</tr>
+<tr>
+<td>0.2–0.6</td>
+<td>low/mid steel</td>
+<td>strong, springy</td>
+</tr>
+<tr>
+<td>0.6–1.4</td>
+<td>high-carbon steel</td>
+<td>takes hard edge, brittle if abused; blades, files</td>
+</tr>
+<tr>
+<td>2–4</td>
+<td>cast iron</td>
+<td>hard, brittle, melts pourable (needs &gt;2,000 °C airflow or cupola — later, <a href="ch22.html">Ch 22</a>)</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Case hardening</strong> converts mild iron surfaces to steel: pack the part in charcoal powder inside a sealed clay box, heat for hours (~900 °C); carbon diffuses inward a fraction of a millimeter. Quench in water for hardness. Repeat coats build depth. This gives you steel edges from cheap iron bodies centuries before bulk steelmaking — the historical secret of good swordsmiths.</p>
+<h2 id="ch14_iron-145-heat-treatment-the-hardness-dance">14.5 Heat Treatment: The Hardness Dance</h2>
+<p>Three moves, endlessly recombined:</p>
+<ol>
+<li><strong>Normalize:</strong> heat above transformation (non-magnetic point, ~770 °C for plain steel — test with a magnet), cool in still air: relieves stress, refines grain.</li>
+<li><strong>Harden:</strong> same temperature, quench fast (water = aggressive, oil = gentler): traps hard martensite; file should skate off, glass should scratch.</li>
+<li><strong>Temper:</strong> reheat gently (straw ~230 °C / brown ~260 °C / blue ~290 °C colors on polished steel), air cool: trades a little hardness for toughness so edges chip instead of shatter.</li>
+</ol>
+<p class="co co-key"><strong>Key threshold:</strong> spark color + oxide colors + a pocket magnet = your entire metallurgical lab for steel. Master these three signals and you can reproduce any historical blade quality.</p>
+<h2 id="ch14_iron-146-products-priority-list">14.6 Products Priority List</h2>
+<p>In order of civilizational payoff:</p>
+<ol>
+<li><strong>Axes/adzes and hoes</strong> — land clearance and farming throughput (<a href="ch07.html">Ch 7</a>).</li>
+<li><strong>Chisels, saws, augers, planes</strong> — woodworking precision, which feeds machine tools (<a href="ch15.html">Ch 15</a>).</li>
+<li><strong>Scythes</strong> — hay economics (<a href="ch08.html">Ch 8</a>).</li>
+<li><strong>Nails, hinges, fittings</strong> — construction standardization (<a href="ch06.html">Ch 6</a>).</li>
+<li><strong>Weapons</strong> — spearheads, arrowheads, blades, and later firearms; inter-group competition made metallurgy a security prerequisite throughout recorded history (<a href="ch48.html">Part VI</a>). A community unable to produce arms negotiates from weakness — a documented regularity, not an endorsement.</li>
+<li><strong>Smith's own tooling</strong> — self-replication closes the loop.</li>
+</ol>
+<p class="co co-dead"><strong>Dead end avoided:</strong> chasing crucible "wootz"-style fancy steels early, and Chinese-style cast-iron-first paths without the ceramic/pig-iron infrastructure to exploit them. Bloomery-forged plain carbon steel solves every need through the medieval era; elegance comes later (<a href="ch27.html">Ch 27</a>).</p>
+<h2 id="ch14_iron-147-organization-of-iron-production">14.7 Organization of Iron Production</h2>
+<p>One master smith serves ~500 people at subsistence level. Scale demands specialization: smelter crews separate from forgers, bar stock traded to village smiths, apprenticeship pipelines formalized (<a href="ch47.html">Ch 47</a>). Water-powered hammers and bellows (<a href="ch16.html">Ch 16</a>) multiply each smith 5–10× — iron and water power co-evolve historically and should here too.</p>
+<h2 id="ch14_iron-148-the-iron-record">14.8 The Iron Record</h2>
+<ul>
+<li>Iron was known to Late Bronze Age powers chiefly as a precious exotic — Tutankhamun's dagger blade is meteoritic (confirmed by X-ray fluorescence analysis published 2016). Smelted iron only displaced bronze after the palace-system collapse (~1200–1150 BCE) removed the tin logistics iron would compete against.</li>
+<li><strong>Bloomery spread:</strong> Celtic and Germanic Europe ran on local bog-iron ore and small furnaces; Slavic and African bloomeries developed independently (sub-Saharan ironworking from ~500–1000 BCE via Meroe and West African centers — independent invention or diffusion remains argued).</li>
+<li><strong>Wootz:</strong> South Indian/Sri Lankan crucible steel exported for centuries (~300 BCE onward); its banded cementite microstructure produced "Damascus" blades' surface patterns. European attempts failed for centuries; the production tradition faded by the 18th century before microstructure was understood (modern analyses explain what smiths achieved empirically).</li>
+<li><strong>Japan's tatara route:</strong> charcoal-smelted <em>tamahagane</em> sand-iron, folded-and-welded construction — folding primarily homogenizes and expels slag; the carbon control comes from smelting and quench/temper discipline, not folding mystique.</li>
+<li><strong>China's cast-iron head start:</strong> blast-furnace-like operations produced cast iron by ~5th century BCE — over a millennium before Europe's first cast iron (~1400s CE), thanks to large furnaces, double-acting box bellows, and high-phosphorus ores. Two viable paths diverged: China cast plows and statuary; Europe forged blooms. Both worked; neither was "backward."</li>
+<li>Quench folklore check: legends of quenching blades in urine, blood, or slaves ("Nibelungied"-style stories) get repeated as nitrogen-hardening secrets — chemical analysis finds no meaningful effect beyond water-vs-oil cooling-curve differences. The folklore is historical data about smith psychology, not metallurgy.</li>
+</ul>
+<h2 id="ch14_iron-149-smithing-as-institution">14.9 Smithing as Institution</h2>
+<p>The forge anchored settlement life: village smiths shod, mended, and armed; guild systems regulated apprenticeship (years-long progression apprentice→journeyman→master with masterpiece requirements); armories drove precision manufacture centuries before interchangeable-parts doctrine formalized (<a href="ch49.html">Ch 49</a>). When this book says "budget smithing as multi-year skill formation," the budget line is institutional, not individual: apprenticeship pipelines ARE the technology.</p>
+<h2 id="ch14_iron-1410-first-build-one-smelt-from-roasted-ore-to-bar">14.10 First Build: One Smelt From Roasted Ore to Bar</h2>
+<p>One buildable reference design — a single-tuyère clay-straw shaft furnace of the class repeatedly validated by experimental-archaeology smelts (Wealden Iron Research Group and similar reconstructions) — with its working numbers. Scale nothing until this smelt succeeds twice in a row.</p>
+<p><strong>Phase 0 — Prerequisites.</strong></p>
+<ol>
+<li><strong>Ore:</strong> ~50 kg crushed (&lt;6 mm) washed concentrate from <a href="ch13.html">Ch 13</a>; sort to ≥50 % iron by magnet response and density before roasting.</li>
+<li><strong>Charcoal:</strong> ~100 kg hardwood charcoal, &gt;85 % fixed carbon — snaps cleanly, rings metallic, no sap smell.</li>
+<li><strong>Furnace:</strong> clay–straw shaft, 1.0–1.1 m internal height × 35 cm bore, wall 10–15 cm thick, air-dried ≥7 days; front arch low for slag tapping.</li>
+<li><strong>Tuyère:</strong> ceramic or copper tube, 25 mm bore, set ~20° downward, tip protruding ~5 cm into the bore, positioned ~45 cm above the furnace floor — the bloom forms below tuyère level.</li>
+<li><strong>Blast:</strong> twin bellows or blower delivering <strong>800 L/min ±100 continuous</strong>; measure as bellows displacement × strokes/min and log it every charge.</li>
+<li><strong>Tools:</strong> tapping bar, bloom tongs, slag rake, beam scale (±0.1 kg), quench trough, sand bed for extraction.</li>
+</ol>
+<p><strong>Phase 1 — Roast the ore.</strong></p>
+<ol start="7">
+<li>Roast concentrate in a shallow iron pan at dull-red heat (~700 °C), stirring until particles redden uniformly through and colored fumes stop rising.
+   - <em>Failure mode — under-roasted ore:</em> blue acidic smoke, sulfur smell mid-smelt, frothy slag that will not drain. <em>Recovery:</em> extend roast; roasted ore is brittle and darker throughout.</li>
+</ol>
+<p><em>Verification checkpoint:</em> no fume, uniform dull-red interior — wet or sulfidic ore entering the shaft is the classic first-smelt killer.</p>
+<p><strong>Phase 2 — Heat the furnace.</strong></p>
+<ol start="8">
+<li>Ignite a 5 kg charcoal bed on natural draught (~30 min), then go to full blast 45–60 min until bright orange shows at the tuyère eye.
+   - <em>Failure mode — green shaft cracks:</em> flame weeping through the exterior. <em>Recovery:</em> patch outside with clay mud while running; next time extend curing.
+   - <em>Failure mode — tuyère blockage:</em> bellows back-pressure rises, glow shrinks to a point. <em>Recovery:</em> ream the tip with a steel rod from outside without stopping blast.</li>
+</ol>
+<p><em>Verification checkpoint:</em> white-orange glow at tuyère tip, no dark zones when viewed down the charge mouth.</p>
+<p><strong>Phase 3 — Charging schedule (the load-bearing numbers).</strong></p>
+<ol start="9">
+<li>Charge cycle: every ~9 minutes add <strong>2 kg charcoal : 1.5 kg roasted ore</strong>, ore sprinkled evenly over the center third of the shaft. Hold this ratio for 25–30 charges (~6 h): ≈45 kg ore consumed against ≈60 kg working charcoal plus ≈30 kg preheat/startup fuel — call it 90 kg charcoal total.</li>
+<li>Airflow discipline: hold 800 L/min all smelt; brief bumps toward 900 after ore additions if top gas dims.</li>
+<li>Tap slag hourly through the front arch.</li>
+</ol>
+<p><em>Verification checkpoint (keys to §14.2's threshold):</em> tapped slag draws glassy strings and freezes glossy while no metal runs — fluid slag, solid iron. Stiff pasty slag = cold hearth; thin watery slag with white sparkles = running toward cast iron.</p>
+<p>Per-step failure modes:</p>
+<ul>
+<li><em>Scaffold/bridge:</em> charge hangs, top gas dims, level stops dropping → poke down through the charge mouth with a green pole; never lean over the mouth.</li>
+<li><em>Frozen hearth:</em> tap hole refreezes within minutes, bloom pasty → raise blast 10 %, switch to driest charcoal, narrow ore additions to the center.</li>
+<li><em>Running hot (cast formation):</em> white sparkly droplets at tap, watery slag → halve ore per charge and drop blast 15 %; cast iron here is scrap (<a href="#ch14_iron-144-steel-carbon-is-the-dial">§14.4</a> table).</li>
+<li><em>Wet ore spatter:</em> sharp pops and sparks at the tuyère → suspend ore two cycles, burn charcoal only, resume with dry material.</li>
+</ul>
+<p><strong>Phase 4 — Extraction.</strong></p>
+<ol start="12">
+<li>At hour six, break the front arch and pull the bloom at bright heat onto the sand bed with tongs; weigh immediately; cut into palm-sized loupes while hot.</li>
+</ol>
+<p><em>Expected result:</em> raw bloom 8–12 kg carrying roughly half its mass as metallic iron — slag fraction 30–45 %. Below 5 kg, audit ore grade and blast discipline before blaming luck.</p>
+<p><em>Verification checkpoint:</em> bloom holds shape unaided, slag still plastic between metal filaments.</p>
+<p><strong>Phase 5 — Consolidation.</strong></p>
+<ol start="13">
+<li>Forge loupes within the hour at welding heat (<a href="#ch14_iron-143-forging-consolidation-and-shaping">§14.3</a>); hammer flat-and-fold repeatedly, fluxing scarfs with sand.</li>
+<li>Expect consolidated bar at <strong>40–60 % of raw bloom mass</strong> — losing half is the historical norm. Spark and bend tests per §14.5: soft wrought core, mild skin carburization = success; white unforgeable edges = Phase 3 ran hot.</li>
+</ol>
+<p><em>Final acceptance — Key threshold:</em> a smelt counts only when both numbers land: raw bloom ≥15 % of ore charged AND bar ≥8 % of ore charged. Between those two numbers sits everything §14.2 promised.</p>
+<p><strong>Per-hour firing log format</strong> (one row per charge, hourly roll-up line):</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Charge #</th>
+<th>kg ore</th>
+<th>kg charcoal</th>
+<th>Strokes/min</th>
+<th>Top-gas color</th>
+<th>Slag taps</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<p>Two weeks of these logs feed X̄–R yield charts per <a href="ch47.html">Ch 47</a> §47.13 — yield stabilizes only under recorded control.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch13.html" class="reader-nav-link">← Chapter 13</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch15.html" class="reader-nav-link">Chapter 15 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

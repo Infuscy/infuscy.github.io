@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 24: Mass Transport: Canals, Roads, Railways — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 24 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch24_transport-chapter-24-mass-transport-canals-roads-railways">Chapter 24: Mass Transport: Canals, Roads, Railways</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> ancient roads → 1900 railways · <strong>Difficulty:</strong> mid
+<br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch22.html">Ch 22</a>/<a href="ch23.html">23</a> iron &amp; engines, <a href="ch09.html">Ch 9</a> finance · <br><strong>Unlocks:</strong> national markets, <a href="ch28.html">Ch 28</a> distribution, urbanization</p>
+</blockquote>
+<p>Transport is the circulatory system of civilization. Every halving of freight cost per ton-kilometer enlarges the market radius where specialization pays — and market radius is the hidden variable behind most "economic miracles." Build in this order: water first (cheapest), roads for feeders, rails when steam exists.</p>
+<h2 id="ch24_transport-241-the-freight-hierarchy">24.1 The Freight Hierarchy</h2>
+<p>Cost per ton-kilometer falls roughly 10× at each step down this ladder:</p>
+<ol>
+<li>Human porter / pack animal — flexible, expensive.</li>
+<li>Cart on decent road — 5–10× better than pack animals.</li>
+<li>Canal barge — one horse tows 30–100 t; ~20–50× a cart horse.</li>
+<li>Railway train — hundreds of tons at speed; schedule reliability creates <em>plannable</em> logistics.</li>
+<li>Steamship — global reach; triple-expansion engines (<a href="ch23.html">Ch 23</a>) end sail's freight dominance.</li>
+</ol>
+<p>Design doctrine: move bulk by water/rail, distribute by road. Roads that try to do rail's job waste fuel and surface.</p>
+<h2 id="ch24_transport-242-canals">24.2 Canals</h2>
+<ul>
+<li><strong>Engineering core:</strong> locks (gated chambers filling/emptying to climb hills) — each lock costs water from the summit-level reservoirs; flight planning balances lift vs water supply. Aqueducts cross valleys; contour routes ("the canal follows the hillside") avoid both.</li>
+<li><strong>Economics:</strong> canals are cheap ONCE built but slow (~4 km/h) and freeze/drought-limited. Perfect for coal, grain, stone, timber — the bulk commodities of <a href="ch09.html">Parts I–III</a>.</li>
+<li>Boat design: narrowbeam for small canals, horse towpath standard until steam tugs.</li>
+</ul>
+<p class="co co-jump"><strong>Jump:</strong> if your railway engineering maturity arrives early, compress the canal era to single strategic arteries (coal-to-city lines) rather than networks. History overbuilt canals right before railways obsoleted much of the grid.</p>
+<h2 id="ch24_transport-243-roads-that-survive-rain">24.3 Roads That Survive Rain</h2>
+<p>The secret isn't pavement thickness; it's DRAINAGE:</p>
+<ul>
+<li><strong>Cambered crown</strong> sheds water sideways; side ditches carry it away.</li>
+<li><strong>Macadam layers:</strong> compacted broken stone in graded sizes — interlocking mass with drainage voids, not a sealed slab. Cheap to maintain by re-grading.</li>
+<li>Foundations matter only under heavy traffic; Telford-style large-stone bases for trunk roads.</li>
+<li>Gradients rule: every 1 % grade meaningfully cuts cart loads; route surveys (<a href="ch12.html">Ch 12</a> leveling) choose alignment before earth moves.</li>
+</ul>
+<h2 id="ch24_transport-244-railways">24.4 Railways</h2>
+<p>Rail's trick: steel wheel on steel rail rolls at ~1/500th the resistance of cart on road. Consequences compound:</p>
+<ul>
+<li><strong>Permanent way:</strong> heavy rails on chairs/sleepers in ballast; standardize gauge EARLY across the whole network (<strong>Dead end avoided:</strong> gauge fragmentation — history's break-of-gauge towns existed purely to transfer cargo between incompatible rails; pure friction).</li>
+<li><strong>Locomotive recipe (Stephenson-era mature):</strong> multi-tubular fire-tube boiler, cylinders driving coupled wheels, BLAST PIPE exhausting cylinder steam up the chimney to draw the fire — self-regulating draft at any speed. "Rocket" (1829) won trials on exactly these elements.</li>
+<li><strong>Grades and curves dominate design:</strong> ruling gradient sets train weight; 1-in-100 needs bank engines or alignment changes. Curves force rail superelevation (cant) and coupling articulation.</li>
+<li><strong>Braking:</strong> hand-brakes multiply crew deaths; continuous automatic brakes (air brakes — fail-safe spring application) cut accident rates dramatically. Adopt early.</li>
+<li><strong>Signaling:</strong> time-interval working kills people; telegraph block sections + interlocked switch/semaphore frames make collisions require TWO simultaneous failures (<a href="ch25.html">Ch 25</a> dependency). Safety systems pay for themselves in avoided wrecks within years.</li>
+</ul>
+<h2 id="ch24_transport-245-oceanic-transport-and-navigation">24.5 Oceanic Transport and Navigation</h2>
+<p>Seventy percent of the planet is water; whoever moves cargo across it cheaply trades globally.</p>
+<ul>
+<li><strong>Hull basics:</strong> displacement hulls ride between two wave systems — length-to-beam ratio sets speed limits (hull speed ~1.34×√LWL feet/knots intuition); fine bows split waves, wide sterns carry power. Deep keels resist leeward drift; ballast lowers center of gravity so sail pressure doesn't capsize.</li>
+<li><strong>Sail plan evolution:</strong> square rig for downwind power, fore-and-aft rig for windward ability — combined rigs reach ~70° into the wind. Steam's arrival didn't kill sail instantly; hybrid steam-assist ships hauled freight until triple-expansion economics won outright (<a href="ch23.html">Ch 23</a>).</li>
+<li><strong>Navigation toolkit:</strong> dead reckoning (compass heading × log-line speed × time), latitude by solar noon sextant shot, longitude by chronometer vs local noon (<a href="ch20.html">Ch 20</a>) or lunar distances as fallback. Pilot books chart coastlines, currents, harbor approaches; lighthouses and buoyage systems mark hazards — public infrastructure, fund accordingly.</li>
+<li><strong>Safety doctrine:</strong> watertight compartments, lifeboats sized to crew+passengers, radio watchkeeping (<a href="ch25.html">Ch 25</a> distress frequencies) — written into convention AFTER Titanic-style disasters; write them in BEFORE yours.</li>
+<li>Modern endpoint: container ships (<a href="ch47.html">Ch 47</a>) moving 20,000+ TEU at ~22 knots — the cheapest freight per ton-mile humanity has ever achieved.</li>
+</ul>
+<h2 id="ch24_transport-246-network-effects-and-planning">24.6 Network Effects and Planning</h2>
+<p>Railways create their own demand: fresh milk, commuting, tourism, mail-order everything. But they're capital monsters — finance via joint-stock structures with state-backed land rights (<a href="ch47.html">Ch 47</a>), build trunk lines between proven traffic nodes FIRST, branch later. Survey honestly: optimistic gradients bankrupted half of history's early companies.</p>
+<h2 id="ch24_transport-247-what-mass-transport-unlocks">24.7 What Mass Transport Unlocks</h2>
+<ul>
+<li><strong>National grain markets:</strong> regional famines end when surplus regions can ship relief in days (<a href="ch07.html">Ch 7</a>).</li>
+<li><strong>Coal everywhere:</strong> energy stops being local geography (<a href="ch22.html">Ch 22</a>).</li>
+<li><strong>Perishables trade:</strong> refrigerated cars later extend this to meat/produce.</li>
+<li><strong>Urbanization:</strong> cities grow past million-scale once daily food inflow is reliable — feeding them becomes a solved logistics problem instead of a miracle.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> freight cost below ~10 % of delivered goods' value makes continental-scale division of labor stable. Watch that ratio per corridor; it predicts which investments pay.</p>
+<h2 id="ch24_transport-248-the-transport-record">24.8 The Transport Record</h2>
+<ul>
+<li><strong>Canal du Midi (completed 1681):</strong> ~240 km with 100+ locks built under Riquet on royal finance — Europe's greatest pre-industrial canal proved state-backed megastructures could pay in trade terms.</li>
+<li><strong>Bridgewater Canal (1761)</strong> halved Manchester coal prices within months of opening (contemporary price records confirm the drop); its aqueduct over the Irwell made "canal engineering" a spectacle investors trusted. Canal mania followed — including documented bubble losses when projections overshot geography.</li>
+<li>Macadam promoted his road system from the 1820s (metalled cambered layers, drainage-first doctrine <a href="#ch24_transport-243-roads-that-survive-rain">§24.3</a>); turnpike trusts' toll records show maintenance costs falling where adopted.</li>
+<li><strong>Stockton–Darlington (1825)</strong> opened public steam railways; <strong>Liverpool–Manchester (1830)</strong> opened them commercially — and its opening day killed MP William Huskisson (struck by Rocket at Parkside; amputation failed), the first widely reported railway passenger death. Railway safety culture starts with that funeral.</li>
+<li><strong>Gauge wars:</strong> Brunel's 7-ft broad gauge vs standard 4 ft 8½ in split western Britain until the Gauge Act (1846) froze standards and break-of-gauge transshipment taxed passengers/freight for decades afterward — <a href="#ch24_transport-244-railways">§24.4</a>'s dead-end made law.</li>
+<li><strong>Railway Time:</strong> before ~1840 every town kept local solar noon; timetables forced standardized GMT adoption across British railways within a decade — transport infrastructure standardizing national time itself, the cleanest example in this book of technology reorganizing institutions (<a href="ch47.html">Ch 47</a>).</li>
+<li>Military mobilization rode rails from the start: Prussian staff planning assumed them (<a href="ch51.html">Ch 51</a>); the 1870–71 war moved hundreds of thousands on schedules Moltke's office had rehearsed.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch23.html" class="reader-nav-link">← Chapter 23</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch25.html" class="reader-nav-link">Chapter 25 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

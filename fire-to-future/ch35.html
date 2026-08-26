@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 35: Transistors and Integrated Circuits — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 35 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch35_semiconductors-chapter-35-transistors-and-integrated-circuits">Chapter 35: Transistors and Integrated Circuits</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1947 transistor → 1971 microprocessor · <strong>Difficulty:</strong> extreme
+<br><strong>Requires:</strong> <a href="ch34.html">Ch 34</a> circuit concepts, <a href="ch20.html">Ch 20</a> metrology, extreme chemistry discipline · <br><strong>Unlocks:</strong> <a href="ch36.html">Ch 36</a>, all of Part V</p>
+</blockquote>
+<p>The transistor is the most consequential artifact ever manufactured: trillions now ship yearly, each switching billions of times per second. Its story is a materials-purity crusade — the physics was understood decades before ENGINEERING could deliver it.</p>
+<h2 id="ch35_semiconductors-351-band-theory-in-one-paragraph">35.1 Band Theory in One Paragraph</h2>
+<p>Quantum mechanics sorts solids by electron band gaps: conductors (overlapping bands), insulators (huge gap), semiconductors (small gap, ~1 eV for silicon). Doping silicon (group IV) with phosphorus (group V: extra electron → n-type) or boron (group III: missing electron/"hole" → p-type) creates controllable charge carriers. A p-n junction conducts one way — rectification from crystal structure itself. Germanium came first (easier purity); silicon won on temperature stability and its miracle oxide.</p>
+<h2 id="ch35_semiconductors-352-the-transistor-trio">35.2 The Transistor Trio</h2>
+<ul>
+<li><strong>Point-contact (Dec 1947, Bardeen &amp; Brattain):</strong> two gold contacts nudged onto germanium crystal showed power gain — proof of principle, maddening to manufacture.</li>
+<li><strong>Junction transistor (Shockley's theory, 1948):</strong> sandwich structure — thin base between emitter/collector — where injected minority carriers across the base produce gain. Manufacturable, analyzable, the design that scales.</li>
+<li><strong>Why gain works:</strong> small base current commands large collector current; as a SWITCH, saturation/cutoff states encode logic (<a href="ch36.html">Ch 36</a>).</li>
+</ul>
+<h2 id="ch35_semiconductors-353-silicon-and-the-planar-revolution">35.3 Silicon and the Planar Revolution</h2>
+<p>Germanium's 80 °C ceiling and leaky junctions capped it. Silicon's higher melting point (1,414 °C) demanded better purification — <strong>zone refining</strong> (molten zone sweeping impurities along an ingot, segregation coefficients doing the work) and <strong>Czochralski/FLOAT-ZONE single-crystal growth</strong> delivered it. Then:</p>
+<ul>
+<li><strong>Hoerni's planar process (1959):</strong> grow a protective SiO₂ layer; open windows through it photolithographically; dope through windows; the oxide passivates junctions forever after. Devices became surface-stable, batch-fabricated, and RELIABLE.</li>
+<li><strong>Photolithography cycle:</strong> photoresist coat → mask exposure → develop → etch/diffuse/ion-implant → strip; repeat per layer. Resolution defines the generation; cleanrooms (dust = killer defects) define the factory.</li>
+<li>Kilby's (1958, germanium, hand-wired hybrid) vs Noyce's (1959, silicon, planar-integrated) integrated circuit race ended with Noyce's architecture winning because it matched manufacturing reality.</li>
+</ul>
+<h2 id="ch35_semiconductors-354-moores-law-as-business-model">35.4 Moore's Law as Business Model</h2>
+<p>Moore's 1965 observation — component counts doubling roughly every two years — became a self-fulfilling ROADMAP: fabs, equipment makers, and designers synchronized investment to it. The engine underneath:</p>
+<ul>
+<li>Learning-curve economics: costs fall ~25–30 % per cumulative-doubling regardless of technology generation.</li>
+<li>Wafer scale-ups (25 mm → 300 mm), feature shrinks (10 µm → nanometers), yield management (defect density statistics).</li>
+<li>Landmark artifacts: Intel 1103 DRAM (1970, core memory obsoleted), 4004 microprocessor (1971, ~2,300 transistors — a CPU on one chip), then the exponential everything.</li>
+</ul>
+<h2 id="ch35_semiconductors-355-what-semiconductors-demand-from-your-civilization">35.5 What Semiconductors Demand From Your Civilization</h2>
+<p>Honest prerequisites list — this chapter fails without them:</p>
+<ol>
+<li><strong>Chemical purity culture:</strong> parts-per-billion contamination control; ultrapure water, process gases, acids (<a href="ch21.html">Ch 21</a>).</li>
+<li><strong>Metrology at microns:</strong> microscopy, interferometry, step-height measurement (<a href="ch20.html">Ch 20</a>).</li>
+<li><strong>Vacuum and thin films:</strong> sputtering/evaporation deposition, oxidation furnaces with tight temperature control.</li>
+<li><strong>Photomask fabrication:</strong> precision optics + pattern generation (<a href="ch19.html">Ch 19</a> skills industrialized).</li>
+<li><strong>Statistical process control:</strong> yields are probability distributions managed by data (<a href="ch47.html">Ch 47</a>). Build X̄–R charts on lot yields and defect tallies exactly as §47.13 specifies — the chart is what turns the 90 %+ stable-yield threshold below from luck into policy, and it feeds straight off the firing-log discipline of <a href="ch14.html">Ch 14</a> and charge logs of <a href="ch22.html">Ch 22</a>.</li>
+</ol>
+<p class="co co-jump"><strong>Jump:</strong> skip germanium consumer products entirely; go zone-refined silicon straight into planar ICs IF §35.5 exists. Tubes remain necessary ONLY as circuit-concept scaffolding (<a href="ch34.html">Ch 34</a>) — their schematics port directly.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> chasing ever-smaller FEATURES before yield discipline exists. History's losers built beautiful prototypes they couldn't manufacture profitably; the industry belongs to boring reproducibility.</p>
+<p class="co co-key"><strong>Key threshold:</strong> first home-fabbed working logic gate marks entry; stable 90 %+ yields on simple circuits mark industrial arrival. From there, compute compounds exactly as fast as you can shrink and stack — which is the throttle setting for every remaining chapter.</p>
+<h2 id="ch35_semiconductors-356-the-transistor-papers">35.6 The Transistor Papers</h2>
+<ul>
+<li>Point-contact detectors predate understanding: cat's-whisker crystal sets (silicon/galena, 1900s radio) used semiconductor rectification nobody could explain; WWII radar detector programs (Purdue and elsewhere) industrialized germanium/silicon diode purity — Bell Labs' postwar solid-state group inherited trained physicists AND refined crystals from that war program (<a href="ch51.html">Ch 51</a>'s spillover ledger).</li>
+<li><strong>December 23, 1947:</strong> Bardeen and Brattain's demonstration logged in lab notebooks; the group announcement came June 30, 1948; the Nobel (shared with Shockley) arrived 1956. Shockley's junction-transistor theory (1948) made devices manufacturable — theory completing experiment, textbook sequence.</li>
+<li><strong>Sony before Sony:</strong> Tokyo Tsushin Kogyo licensed Western Electric's transistor (1952–53) despite Bell executives' doubts, shipped the TR-55 pocket radio (1955) — Japan's consumer-electronics ascent began with licensed technology plus manufacturing discipline, not indigenous invention.</li>
+<li><strong>The Traitorous Eight (September 1957):</strong> eight Shockley Semiconductor Lab researchers resigned over Shockley's management (his Nobel came anyway, 1956); Fairchild Semiconductor resulted; planar process (Hoerni's January 1959 memo), Noyce's IC architecture, Intel (1968, Noyce/Moore/Grove), and venture-capital culture all descend from that resignation letter. Management quality as existential variable, documented in personnel files.</li>
+<li><strong>Kilby v. Noyce:</strong> Kilby's September 1958 TI prototype used germanium and hand-added wire; Noyce's January 1959 silicon planar concept matched manufacturing reality; the interference litigation settled with cross-licensing and both men sharing honors. Simultaneous invention resolved by who could FABRICATE — recurring verdict.</li>
+<li>Czochralski discovered his crystal-pulling method accidentally in 1916 when he dipped his pen into molten tin instead of the inkwell; zone refining came from Pfann's Bell Labs work (1952). The wafer supply chain has accident and wartime pedigree stamped through it.</li>
+</ul>
+<h2 id="ch35_semiconductors-357-first-build-the-first-home-fabbed-device">35.7 First Build: The First Home-Fabbed Device</h2>
+<p>One buildable reference design: a single planar junction device — a silicon p–n diode first, then an aluminum-gate MOSFET on the same process — on a 25 mm wafer. This is deliberately below the §35.5 logic-gate threshold: one junction working proves every discipline; a gate proves four of them at once.</p>
+<p><strong>Phase 0 — Silicon supply (zone refining, worked numbers).</strong></p>
+<ol>
+<li>Start from metallurgical-grade silicon (~98 %); crush, acid-leach in <a href="ch21.html">Ch 21</a> aqua-class acids to strip iron/aluminum.</li>
+<li>Zone-refine in a floating-zone rig (containerless — no crucible contamination): induction or focused-resistance heated molten zone ≈ ingot diameter, <strong>6–8 passes sweeping ~2 mm/min</strong> under argon.
+   - Segregation does the work: impurities with distribution coefficient k ≪ 1 (Fe, Cu, most metals) ride the zone to the tail; cut and discard both ends each run.
+   - <em>Failure mode — boron persists:</em> k(B) = 0.8, zoning barely moves it. <em>Recovery:</em> chemical removal upstream (distilled chlorosilane route) is mandatory for low-resistivity control; zoning alone cannot fix bad feedstock.
+   - <em>Failure mode — polycrystal freeze:</em> sweep too fast cracks the zone → drop to 1.5 mm/min, stabilize zone power before advancing.</li>
+<li>Pull or float-zone a single crystal; target 10 Ω·cm n-type wafers, lapped, then chem-mech polished to mirror.</li>
+</ol>
+<p><em>Verification checkpoint:</em> four-point probe resistivity within spec across the wafer AND etched cross-section shows single-crystal lattice under microscope (<a href="ch19.html">Ch 19</a>) — resistivity without crystallinity fails silently later.</p>
+<p><strong>Phase 1 — Cleanroom discipline.</strong></p>
+<ol start="4">
+<li>First fab runs at <strong>ISO Class 7</strong> overall (~Class 10,000: HEPA ceiling, ≥60 air changes/hour) with an <strong>ISO Class 5 laminar-flow bench</strong> (0.45 m/s face velocity) for all open-wafer handling.</li>
+<li>Rule that governs everything: any particle ≥ ~1/10 of minimum feature size is a killer defect — for µm features, police ≥0.5 µm particles religiously; full suits, no paper, no wood.</li>
+</ol>
+<p><em>Verification checkpoint:</em> witness wafers left open on the bench 30 min show zero added particles of killing size under dark-field inspection.</p>
+<p><strong>Wafer clean (run before every furnace step).</strong> The documented RCA sequence, adjusted only in container material (polymer tubs — never soda glass, that is sodium again):</p>
+<ol>
+<li>Organic/particle strip: NH₄OH : H₂O₂ : H₂O at 1 : 1 : 5, 75 °C, 10 min.</li>
+<li>DI rinse.</li>
+<li>Metal-ion strip: HCl : H₂O₂ : H₂O at 1 : 1 : 6, 75 °C, 10 min.</li>
+<li>Final DI rinse; dry under filtered nitrogen. Tongs only; both baths are aggressively oxidizing — vent them.</li>
+</ol>
+<p>Skip this and every later failure mode below gets more likely at once.</p>
+<p><strong>Phase 2 — First photolithography cycle (worked parameters).</strong></p>
+<ol start="6">
+<li>Grow mask oxide: wet steam oxidation, 1,000 °C, ~60 min → ≈0.5 µm SiO₂; measure by interference color chart.</li>
+<li><strong>Spin coat:</strong> positive photoresist, <strong>4,000 rpm / 30 s</strong> → ~1 µm film (edge bead wiped after).</li>
+<li><strong>Soft bake:</strong> 95 °C hotplate, 60 s.</li>
+<li><strong>Expose:</strong> contact print against chrome-on-glass mask under Hg g-line (436 nm); dose <strong>100–200 mJ/cm²</strong> — with a measured 10 mW/cm² lamp, 10–20 s. Calibrate dose on a step-wedge coupon once; never guess twice.</li>
+<li><strong>Develop:</strong> 2.38 % TMAH (metal-ion-free), 60 s with gentle agitation; DI rinse.</li>
+<li><strong>Hard bake:</strong> 110–120 °C, 2 min.</li>
+<li><strong>Etch oxide through windows:</strong> buffered HF (6:1 NH₄F:HF), ~100 nm/min at room temperature — time from measured thickness +25 % overetch, then calibrate the bath weekly on a witness coupon rather than trusting any printed rate.</li>
+<li>Resist strip in acetone/oxidizer chemistry; inspect.</li>
+</ol>
+<p>Per-step failure modes:</p>
+<ul>
+<li><em>Resist lifts during develop:</em> soft bake skipped/short → re-deposit; bake discipline is not optional.</li>
+<li><em>Undercut grass (oxide fuzz in windows):</em> over-etched past clearing → shorten next batch; verify endpoint on a half-etched witness.</li>
+<li><em>Random window failures:</em> particle at exposure → trace via the Phase 1 witness wafers; fix airflow before blaming chemistry.</li>
+<li><em>Pinholes in mask oxide:</em> dirty pre-oxidation surface → add the Phase 1 wafer clean before furnace; repeat offender = contaminated glassware, not chemistry.</li>
+</ul>
+<p><strong>Mask quality gates everything.</strong> The first mask can be drawn at 10:1 scale and photoreduced through <a href="ch19.html">Ch 19</a> optics onto high-contrast plate — but inspect it under magnification before every exposure run: a mask defect replicates onto EVERY die on EVERY wafer, converting one flaw into a systematic yield loss that charts will (correctly) flag as an assignable cause. Keep two masks per layer: working and master; retire scratched working copies. Log bath temperatures beside etch timestamps — rate drift hides there first.</p>
+<p><em>Verification checkpoint:</em> oxide thickness ±10 % of target across wafer, window edges vertical under high-power inspection, no lifting resist — this cycle repeated three times identically IS §35.5's "boring reproducibility."</p>
+<p><strong>Phase 3 — Junction and transistor completion.</strong></p>
+<ol start="14">
+<li>Diode route: dope through windows (diffusion or deposited-dopant anneal to target sheet resistance), evaporate aluminum through a third mask, alloy contacts at ~450 °C for 15 min.</li>
+<li>MOSFET route adds a gate step before metal: grow <strong>dry gate oxide, 1,000 °C, ~45 min → ≈80 nm</strong> (dry oxidation grows slower and cleaner than the wet mask oxide of Phase 2 — never reuse a wet-grown layer under a gate), open source/drain windows by repeating Phase 2's lithography, dope to heavy concentration, then metallize gate/source/drain in one aluminum evaporation from a tungsten filament.</li>
+<li>Test without exotic gear: an oscilloscope plus isolating transformer and series resistors plots I–V families (a curve tracer in disguise). Diode acceptance: forward knee ~0.6 V, reverse leakage below µA range at rated voltage. MOSFET acceptance: drain current switching cleanly with gate voltage; threshold read where drain current crosses a fixed µA-class reference at fixed V_DS.</li>
+</ol>
+<p>Per-step failure modes:</p>
+<ul>
+<li><em>Gate shorts:</em> pinholes in thin gate oxide → stricter pre-gate clean, slower furnace ramps; discard affected die rather than rework.</li>
+<li><em>Threshold drifts between measurements:</em> mobile sodium ions wandering in the oxide (sweat, soda glassware) → this is why development specified metal-ion-free TMAH, not NaOH (<a href="#ch35_semiconductors-357-first-build-the-first-home-fabbed-device">Phase 2</a>, step 10); enforce gloves and polymer labware.</li>
+<li><em>Ohmic contact refuses:</em> under-doped contact regions spike or rectify → raise surface doping at contacts, re-alloy.</li>
+</ul>
+<p><em>Verification checkpoint:</em> diode curves repeatable across five sibling die within ±10 %; MOSFET threshold stable over an hour of bias — stability, not peak performance, is the acceptance bar per §35.5.</p>
+<p><em>Final acceptance — Key threshold:</em> one junction is entry-level proof; repeat §35.5's real bar by building the same stack into a resistor-loaded logic gate with stable 90 %+ lot yield, charts running per §47.13.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch34.html" class="reader-nav-link">← Chapter 34</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch36.html" class="reader-nav-link">Chapter 36 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

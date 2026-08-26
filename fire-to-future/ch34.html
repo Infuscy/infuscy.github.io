@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 34: Radio, Radar, Television: Vacuum-Tube Electronics — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 34 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch34_vacuum_tubes-chapter-34-radio-radar-television-vacuum-tube-electronics">Chapter 34: Radio, Radar, Television: Vacuum-Tube Electronics</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1887 Hertz → 1950s · <strong>Difficulty:</strong> high
+<br><strong>Requires:</strong> <a href="ch25.html">Ch 25</a>/<a href="ch26.html">26</a>, <a href="ch17.html">Ch 17</a> glasswork · <br><strong>Unlocks:</strong> <a href="ch35.html">Ch 35</a> (as scaffolding + spec source), broadcasting, navigation</p>
+</blockquote>
+<p>Electronics begins when engineers stop merely carrying power and start SHAPING signals. Vacuum tubes — electrons boiling off heated cathodes, commanded by grids — provided the first controllable amplification and switching, building every concept semiconductors later inherited: gain, oscillation, modulation, logic.</p>
+<h2 id="ch34_vacuum_tubes-341-waves-proven">34.1 Waves Proven</h2>
+<p>Maxwell's equations predicted electromagnetic waves (<a href="ch25.html">Ch 25</a>); Hertz generated and detected spark-gap radio waves (1887) — reflection, refraction, polarization all demonstrated with brass gaps and loops. Marconi's contribution was ENGINEERING: taller antennas, grounded circuits, coherer receivers refined into commercial ship-to-shore service; 1901 transatlantic signal (over skeptics' horizon-curve objections — the ionosphere, unknown, was bouncing it).</p>
+<h2 id="ch34_vacuum_tubes-342-the-triode-electronics-exists">34.2 The Triode: Electronics Exists</h2>
+<ul>
+<li>Fleming diode (1904): hot cathode boils electrons toward plate; current flows ONE way — rectification.</li>
+<li>De Forest audion triode (1906): a wire GRID between cathode and plate commands plate current with tiny grid-voltage changes — VOLTAGE AMPLIFICATION. Cascade stages multiply gains into thousands.</li>
+<li>Armstrong's regenerative circuit (1912): feed amplified output back in phase — enormous gain from one tube, and pushed further, controlled OSCILLATION. Transmitters became affordable; broadcast radio (KDKA 1920 onward) followed within years.</li>
+<li>Tube family map: rectifiers, voltage/triode amplifiers, pentodes (grid shields taming capacitances), beam-power outputs, magnetrons/klystrons for microwaves.</li>
+</ul>
+<h2 id="ch34_vacuum_tubes-343-modulation-imposing-information-on-carriers">34.3 Modulation: Imposing Information on Carriers</h2>
+<ul>
+<li><strong>AM:</strong> carrier amplitude follows audio — simple, noise-prone (lightning sounds like news).</li>
+<li><strong>FM (Armstrong, 1933):</strong> frequency deviation carries the signal; amplitude noise clipped away — static-free, high-fidelity. The physics-vs-industry fight over FM bandwidth is a case study in regulatory capture; build your spectrum policy honestly.</li>
+<li><strong>Superheterodyne receiver (Armstrong again):</strong> mix incoming signal with local oscillator to a fixed intermediate frequency — selectivity and gain optimized once for ALL received frequencies. Architecture still standard today.</li>
+<li>Propagation facts: ground wave hugs by day; ionospheric skip returns shortwave thousands of km at night; line-of-sight rules VHF/UHF. Antenna design follows wavelength (dipole ~λ/2).</li>
+</ul>
+<h2 id="ch34_vacuum_tubes-344-radar">34.4 Radar</h2>
+<p>Radio echoes measure distance (range = c·Δt/2). Chain Home (1938) crude but decisive; the cavity magnetron (1940, Birmingham) — resonant copper cavities kicking electron spokes into microwave pulses of kilowatts — miniaturized radar onto aircraft. Tizard Mission handed the magnetron to America: arguably history's highest-value technology transfer.</p>
+<p>Applications beyond war: air traffic control, weather observation (precipitation echoes), navigation beacons, marine safety. Radar engineering seeded postwar electronics talent AND microwave infrastructure (<a href="ch41.html">Ch 41</a>'s terrestrial links, later satellite comms).</p>
+<h2 id="ch34_vacuum_tubes-345-television">34.5 Television</h2>
+<p>Mechanical disk TV (Baird) died on resolution (<strong>Dead end avoided</strong>); electronic television won via camera tubes (iconoscope/image orthicon — photoemission scanned by electron beams) + CRT display (electron gun painting raster lines on phosphor). Standards bodies locked 525/625-line interlaced systems with compatible color added 1953–67 (NTSC/PAL/SECAM) — compatibility doctrine: new standards must serve old receivers or adoption stalls.</p>
+<p>Broadcasting's social weight deserves stating: synchronized national audiences, advertising-funded content economics, emergency broadcast capability — media infrastructure as governance layer (<a href="ch47.html">Ch 47</a>).</p>
+<h2 id="ch34_vacuum_tubes-346-tubes-limits-semiconductor-handoff">34.6 Tubes' Limits → Semiconductor Handoff</h2>
+<p>Tubes consume filament power, cook themselves, fail statistically (ENIAC burned ~thousands of tubes; MTBF arithmetic dominated maintenance planning), and miniaturize poorly. Yet they established EVERY circuit concept: amplifiers, oscillators, mixers, gates, flip-flops, delay-line memory (<a href="ch36.html">Ch 36</a>). </p>
+<p class="co co-jump"><strong>Jump:</strong> treat vacuum-tube CONSUMER products as skippable scaffolding IF semiconductor-grade silicon purification exists (<a href="ch35.html">Ch 35</a>); keep tubes only where high-power/high-frequency niches still favor them (magnetrons in ovens/radar, high-power broadcast). What is NOT skippable: the circuit-design knowledge this chapter encodes — transistors inherit schematics, not just replace bottles.</p>
+<p class="co co-key"><strong>Key threshold:</strong> reliable amplification available to any workshop converts electricity from energy utility into INFORMATION medium — the pivot this whole Part IV ladder has been climbing toward.</p>
+<h2 id="ch34_vacuum_tubes-347-the-electronics-record">34.7 The Electronics Record</h2>
+<ul>
+<li>Marconi's Signal Hill reception (December 12, 1901) contradicted respectable physics on Earth's curvature; Kennelly and Heaviside independently proposed the conducting upper layer within months (1902) — practice outrunning theory so hard that theory had to invent the ionosphere to catch up.</li>
+<li><strong>Titanic (April 15, 1912):</strong> Marconi operators Phillips and Bride transmitted distress to Carpathia's rescue; nearby Californian's single operator had gone to bed. The Radio Act (1912) mandated 24-hour watches, secondary-power backups, and frequency separation afterward — regulation written in lifeboat arithmetic (<a href="ch47.html">Ch 47</a>).</li>
+<li><strong>Armstrong v. De Forest:</strong> the regenerative-patent war ran through courts for over a decade, ending at the Supreme Court (1934) for De Forest on procedural grounds; Armstrong later fought RCA over FM royalties, exhausted himself in litigation, and died by suicide in 1954. Two geniuses, one patent system, decades burned — record the pattern wherever IP meets rapid innovation (<a href="ch47.html">Ch 47</a>'s incentive chapter inherits this case).</li>
+<li><strong>Superheterodyne origin:</strong> Armstrong developed it in WWI Paris as a signals officer chasing down enemy receivers — military R&amp;D before radar made it famous (<a href="ch51.html">Ch 51</a>'s pattern again).</li>
+<li><strong>The magnetron handover:</strong> Randall and Boot's resonant cavity magnetron (Birmingham, February 1940) produced kilowatt pulses at 10 cm; the Tizard Mission carried one to America that September. Official US historian James Phinney Baxter III called it "the most valuable cargo ever brought to our shores" — microwave radar, then postwar microwave engineering, descends from that suitcase.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch33.html" class="reader-nav-link">← Chapter 33</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch35.html" class="reader-nav-link">Chapter 35 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

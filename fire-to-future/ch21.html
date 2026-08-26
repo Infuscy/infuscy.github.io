@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 21: Black Powder and Industrial Chemistry — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 21 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch21_blackpowder_acids-chapter-21-black-powder-and-industrial-chemistry">Chapter 21: Black Powder and Industrial Chemistry</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 9th-c. China (earliest surviving formulas 1044) → 19th c. heavy chemicals · <strong>Difficulty:</strong> mid–high
+<br><strong>Requires:</strong> <a href="ch13.html">Ch 13</a> saltpeter/sulfur, <a href="ch17.html">Ch 17</a> distillation craft · <br><strong>Unlocks:</strong> <a href="ch22.html">Ch 22</a> demand-pull, mining productivity, <a href="ch27.html">Ch 27</a> acid-fed steelmaking</p>
+</blockquote>
+<p>Two payloads ride in this chapter: black powder (the first industrial explosive — mining's productivity multiplier and physics' teacher) and the mineral-acid industry (the hinge from kitchen chemistry to true chemical industry). Both are dangerous; both are treated here at textbook-process level with the safety discipline stated plainly.</p>
+<h2 id="ch21_blackpowder_acids-211-black-powder">21.1 Black Powder</h2>
+<p>Composition by weight: <strong>75 % potassium nitrate / 15 % charcoal / 10 % sulfur</strong>. It is a physical mixture, not a compound — performance depends on intimacy of mixing and purity of nitrate.</p>
+<ul>
+<li><strong>Saltpeter (KNO₃):</strong> the hard part. Nitrary beds: floor of rich soil + lime, layered with urine/dung/stable refuse, kept moist and turned for months; soil bacteria oxidize ammonia → nitrate. Leach the black earth with water, filter, add wood-ash lye (converts calcium nitrate to potassium nitrate), evaporate; KNO₃ crystallizes first on cooling ("salting out"), recrystallize once for purity. Laborious — historically a state-protected industry with saltpetermen empowered to dig privies. Plan supply as agriculture, not mining.</li>
+<li><strong>Charcoal:</strong> willow/alder, charred at LOW temperature (~300–350 °C) — light, black, fast-burning grades.</li>
+<li><strong>Sulfur:</strong> volcanic deposits or roasted pyrite (<a href="ch13.html">Ch 13</a>); purified by distillation.</li>
+<li><strong>Corning:</strong> wet-mill ingredients together into dense cake, dry, then crack through sieves into grains. Grained powder burns consistently; loose dust either explodes unpredictably or fizzles. Moisture is the enemy — store sealed, rotate stock.</li>
+</ul>
+<p>Uses in priority order: <strong>mine/quarry blasting</strong> (productivity 5–10× per <a href="ch13.html">Ch 13</a>), military propellant, signal rockets, and — scientifically decisive — confined-pressure experiments that birthed gas-law physics (<a href="ch20.html">Ch 20</a>).</p>
+<p><strong>Safety doctrine (binding):</strong> small batches, wooden/bronze tools only (no sparks), no metal-on-metal contact, damp working, remote ignition by slow-match trains, blast shelters, written charge tables. Powder plants that skipped discipline burned down — repeatedly, historically.</p>
+<h2 id="ch21_blackpowder_acids-212-sulfuric-acid-the-master-chemical">21.2 Sulfuric Acid: The Master Chemical</h2>
+<p>Sulfuric acid (H₂SO₄) is the tonnage king of chemistry: it refines metals, makes other acids, processes textiles, fertilizers, explosives.</p>
+<ol>
+<li><strong>Early bell process:</strong> burn sulfur + saltpeter mixture inside glass bells over water — crude but real acid, enough to dissolve metals.</li>
+<li><strong>Lead chamber process (1746):</strong> large lead-lined rooms where sulfur burner gases + nitrate-derived nitrogen oxides + steam react; acid condenses on walls, drains to pans. Nitrogen oxides recycle as catalysts. Yields ~60–70 % acid (chamber grade).</li>
+<li><strong>Concentration:</strong> boil in glass/platinum vessels to ~90 %+ ("oil of vitriol"). Lead resists dilute acid; iron resists CONCENTrated (passivation) — vessel material follows concentration stage.</li>
+</ol>
+<h2 id="ch21_blackpowder_acids-213-nitric-acid-and-the-acid-ladder">21.3 Nitric Acid and the Acid Ladder</h2>
+<p>Distill saltpeter + sulfuric acid in iron or glass retorts: HNO₃ distills over, condensed in cooled receivers. Nitric acid dissolves copper/silver, nitrates organics, and pairs with HCl (from salt + H₂SO₄) to make aqua regia — which dissolves gold, enabling refining and assay purity standards (<a href="ch09.html">Ch 9</a>).</p>
+<p>Hydrochloric acid byproduct chain feeds bleaching powder (chlorine absorbed into lime) — textile whitening goes from sun-months to hours, collapsing cloth costs.</p>
+<h2 id="ch21_blackpowder_acids-214-soda-alkali-at-industrial-scale">21.4 Soda: Alkali at Industrial Scale</h2>
+<p>Glass (<a href="ch17.html">Ch 17</a>), soap, and textiles all drink alkali faster than wood ash supplies it:</p>
+<ul>
+<li><strong>Leblanc process (1791):</strong> salt + sulfuric acid → sodium sulfate ("salt cake"); roast with coal + limestone → "black ash"; leach yields soda ash. WORKS but belches hydrochloric acid fumes and solid waste — poisoned entire districts (<strong>Dead end avoided:</strong> build it if you must, but plan its replacement immediately).</li>
+<li><strong>Solvay ammonia-soda (1861):</strong> brine + limestone + recycled ammonia under pressure; cleaner, cheaper, self-contained loops. The design target — skip Leblanc entirely if your engineering can reach Solvay's pressure vessels.</li>
+</ul>
+<h2 id="ch21_blackpowder_acids-215-what-industrial-chemistry-unlocks-downstream">21.5 What Industrial Chemistry Unlocks Downstream</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Acid/product</th>
+<th>Feeds</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sulfuric</td>
+<td>steel pickling (<a href="ch27.html">Ch 27</a>), fertilizer processing (<a href="ch32.html">Ch 32</a>), other acids</td>
+</tr>
+<tr>
+<td>Nitric</td>
+<td>explosives (mining/civil engineering), nitrates</td>
+</tr>
+<tr>
+<td>HCl/chlorine</td>
+<td>sanitation (<a href="ch30.html">Ch 30</a>), PVC precursor era</td>
+</tr>
+<tr>
+<td>Soda</td>
+<td>glass optics (<a href="ch19.html">Ch 19</a>), soap mass production</td>
+</tr>
+<tr>
+<td>Distillation skill</td>
+<td>petroleum cracking (<a href="ch28.html">Ch 28</a>)</td>
+</tr>
+</tbody>
+</table></div>
+<p class="co co-key"><strong>Key threshold:</strong> when acids flow by the ton, metallurgy upgrades from art to industry — impurity control becomes routine, and every later chapter inherits the difference.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> alchemy's transmutation obsession. Chasing gold-from-lead wasted lifetimes; the REAL treasure was the apparatus culture (distillation, crystallization, assaying) this chapter industrializes. Take the labware, skip the philosophy.</p>
+<h2 id="ch21_blackpowder_acids-216-the-gunpowder-paper-record">21.6 The Gunpowder-Paper Record</h2>
+<ul>
+<li>Europe's powder knowledge arrived through translation culture: the pseudo-Aristotelian <em>Liber ignium</em> (~1300) lists fire-medicine recipes; Roger Bacon's coded letter referencing saltpeter's explosive potential (~1249?) remains textually contested — historians treat attribution legends (the monk "Berthold Schwarz") as later guild myth-making.</li>
+<li>English crown powder monopolies bred documented grievances: saltpetermen legally dug nitre-earth from stable floors and dovecotes into the Civil War era — strategic-material law colliding with property rights centuries before modern equivalents.</li>
+<li><strong>Sulfuric acid's founding firms:</strong> John Roebuck's Prestonpans works (1746) scaled the lead-chamber process; Leblanc's soda patent (1791) and Saint-Denis plant (1793) ended with the inventor ruined by revolutionary expropriation and litigation — he died by suicide in 1806. The process fed half a century of alkali production while its creator died broke: document it as incentive-design evidence (<a href="ch47.html">Ch 47</a>), not as morality tale.</li>
+<li><strong>Ernest Solvay</strong> patented his ammonia-soda loop (1861) and proved it at Couillet (1863–65) — cleaner chemistry winning on cost, exactly as <a href="#ch21_blackpowder_acids-214-soda-alkali-at-industrial-scale">§21.4</a> recommends.</li>
+<li><strong>The Alkali Act (UK, 1863)</strong> created the first chemical-inspectorate with statutory emission limits (hydrochloric acid abatement ≥95 %) — arguably the world's first industrial-pollution regulation, born from Leblanc-process fumes. Environmental law's ancestry sits squarely in this chapter's supply chain.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch20.html" class="reader-nav-link">← Chapter 20</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch22.html" class="reader-nav-link">Chapter 22 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

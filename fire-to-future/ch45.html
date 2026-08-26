@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 45: Automation and Robotics — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 45 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch45_robotics-chapter-45-automation-and-robotics">Chapter 45: Automation and Robotics</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1788 governor → present · <strong>Difficulty:</strong> high
+<br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch35.html">Ch 35</a> sensors/compute, <a href="ch36.html">Ch 36</a> software, <a href="ch43.html">Ch 43</a> cheap power · <br><strong>Unlocks:</strong> lights-out manufacturing, hazardous-work elimination, labor reallocation</p>
+</blockquote>
+<p>Robotics is feedback control embodied: sense → decide → act, closed in a loop fast enough to matter. Watt's flyball governor (1788) was the first industrial robot in spirit; everything since adds sensing and computation to that loop.</p>
+<h2 id="ch45_robotics-451-control-theory-core">45.1 Control Theory Core</h2>
+<ul>
+<li><strong>Feedback:</strong> measure output, compare to target, correct. Open-loop machines repeat blindly; closed-loop machines achieve targets despite disturbances.</li>
+<li><strong>PID controller</strong> (1920s–40s ships/autos): proportional (present error), integral (accumulated error — kills steady-state offset), derivative (error trend — damps overshoot). Tuning intuition: raise P until oscillation, back off, add I for accuracy, D for stability. PID runs inside ~95 % of industrial loops today.</li>
+<li><strong>Servomechanisms:</strong> motor + encoder + drive closing position/velocity loops at kHz rates — every robot joint is a servo.</li>
+<li>Discrete-event control above continuous loops (state machines sequencing actions); safety-rated stops as separate hardwired paths (software never owns emergency stop).</li>
+</ul>
+<h2 id="ch45_robotics-452-from-nc-to-industrial-robots">45.2 From NC to Industrial Robots</h2>
+<ul>
+<li><strong>Numerical control (MIT, 1952):</strong> punched-tape machine tools machining to programmed coordinates — CNC made precision REPRODUCIBLE (<a href="ch20.html">Ch 20</a>'s tolerances democratized). G-code became manufacturing's Latin.</li>
+<li><strong>Unimate (1961):</strong> die-casting robot arm at GM — dangerous, repetitive job automated first (pattern holds forever: robots take the four D's — dirty, dull, dangerous, dear).</li>
+<li>Robot anatomy: articulated arms (6 DOF = full pose), SCARA (fast planar assembly), delta pickers (lightning pick-and-place), cartesian gantries (heavy/precise). End effectors define capability: grippers, welders, sprayers, suction. Harmonic drives pack huge ratios into thin joints; encoders close the loops.</li>
+</ul>
+<h2 id="ch45_robotics-453-sensing">45.3 Sensing</h2>
+<ul>
+<li><strong>Machine vision:</strong> structured light/stereo depth, defect inspection at line speed — quality control becomes automatic statistics (<a href="ch47.html">Ch 47</a>).</li>
+<li>Force-torque sensors enable assembly by FEEL (peg insertion, compliance tasks); lidar/radar/ultrasonic give spatial awareness outdoors.</li>
+<li>MEMS inertial units (<a href="ch35.html">Ch 35</a>) put navigation-grade IMUs in every phone/drone — the quiet sensor revolution.</li>
+</ul>
+<h2 id="ch45_robotics-454-mobile-robots-and-drones">45.4 Mobile Robots and Drones</h2>
+<ul>
+<li>AGVs (fixed paths) → AMRs (self-navigating warehouse fleets; Kiva→Amazon scale: hundreds of thousands of units moving shelves to pickers — logistics throughput multiplied while human walking eliminated).</li>
+<li><strong>Drones:</strong> brushless motors + lithium batteries + MEMS IMUs + flight controllers = the hobby-to-industrial stack. Fixed-wing endurance vs multirotor agility split missions: survey/spraying/mapping/delivery niches each have a winner. Regulatory integration (airspace rules) lags capability everywhere — budget for governance friction.</li>
+<li>Surgical robotics (teleoperation with tremor filtration, camera steadiness): precision augmentation where human judgment steers machine steadiness.</li>
+</ul>
+<h2 id="ch45_robotics-455-humanoids-and-the-honesty-section">45.5 Humanoids and the Honesty Section</h2>
+<p>Humanoid general-purpose robots remain HARD: bipedal balance solved-ish, but dexterous manipulation (fingers adapting to novel objects) lacks its transistor moment. Theater demos ≠ warehouse economics. Pragmatic doctrine:</p>
+<ol>
+<li>Automate STRUCTURED environments first (factories, warehouses — geometry known, parts standardized).</li>
+<li>Deploy mobile manipulation where ROI clears without anthropomorphism.</li>
+<li>Watch lab-to-field transfer of tactile sensing and learned grasping (<a href="ch46.html">Ch 46</a>) as the humanoid-enabling frontier — but don't gate production plans on it.</li>
+</ol>
+<h2 id="ch45_robotics-456-deployment-doctrine">45.6 Deployment Doctrine</h2>
+<ul>
+<li><strong>Cobots</strong> (force-limited collaborative robots, ISO-specified) share workspace with humans safely without caging — small manufacturers' entry point.</li>
+<li>Maintenance robotics (pipe crawlers, blade-climbing rigs) extends asset life in hazardous inspection (<a href="ch30.html">Ch 30</a>-adjacent safety gains).</li>
+<li>Lights-out factories are mostly hybrid cells: automation handles repetition; humans handle exceptions — design workflows around exception HANDLING capacity.</li>
+<li>Labor transition policy matters (<a href="ch47.html">Ch 47</a>): automation's productivity dividend gets politically confiscated if retraining fails — plan retraining as part of deployment cost, not afterthought.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> when robot cost-per-hour falls below local wages for equivalent task quality, adoption self-accelerates (historically ~$5/hr-equivalent crossing in developed markets circa 2010s). Below it, labor scarcity stops being a growth constraint — the demographic wall every aging civilization fears quietly dissolves.</p>
+<h2 id="ch45_robotics-457-the-robotics-papers">45.7 The Robotics Papers</h2>
+<ul>
+<li>Watt's flyball governor (1788) prompted Maxwell's "On Governors" (1868) — control theory's founding paper written about steam engines; Minorsky's USS New Mexico automatic-steering trials (1922–23) introduced PID-like ship autopilots; Ziegler–Nichols tuning rules (1942) gave practitioners recipes. Control matured through ships and chemical plants before robots existed.</li>
+<li><strong>NC machining:</strong> Parsons Corporation's helicopter-blade templates + Air Force funding + MIT's servomechanisms lab demonstrated numerical control March 9, 1952; APT programming language standardized it — defense contracts buying manufacturing language again (<a href="ch49.html">Ch 49</a>'s armory pattern).</li>
+<li>Unimate #001 entered GM's Ewing Township die-casting line January 1961. Devol filed "Programmed Article Transfer" in 1954; Engelberger — who met Devol at a cocktail party discussing Asimov's robot stories — built the business. Science fiction recruiting industrial capital, on record.</li>
+<li>Shakey the Robot (SRI, 1966–72) needed pathfinding; Hart, Nilsson &amp; Raphael invented A* (1968) to give it one — every GPS route and game AI since inherits that algorithm from a wheeled box with antennae.</li>
+<li>Honda's P2 (1996) surprised the field with bipedal autonomy → ASIMO (2000); Boston Dynamics' DARPA-funded quadrupeds and Atlas stunts kept dynamics visible while warehouse economics quietly won adoption: Kiva Systems (founded 2003) sold to Amazon for $775 million (2012); Roomba (2002) put millions of robots in homes doing ONE task well.</li>
+<li>da Vinci cleared by FDA July 2000 — teleoperative surgery's precision/tremor-filtering case study <a href="#ch45_robotics-455-humanoids-and-the-honesty-section">§45.5</a>.</li>
+<li>Cobot safety formalized late: ISO/TS 15066 (2016) specified force/pressure limits by body region — collaborative robotics required a published injury-biomechanics standard before insurers and regulators allowed shared workspaces at scale.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch44.html" class="reader-nav-link">← Chapter 44</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch46.html" class="reader-nav-link">Chapter 46 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

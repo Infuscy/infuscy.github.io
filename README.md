@@ -6,6 +6,7 @@ Frontend pentru rapoarte statice de investigatii de date. Gazduieste rapoarte in
 
 - **`_posts/`** — un post Jekyll per raport. Postul descrie cardul din grid si modal-ul cu link catre raport.
 - **subdirectoarele de rapoarte** (`bac2025/`, `bac2026/`, `bac2526/`) — build-uri statice Vite (`web/dist/`) copiate din repo-urile fiecarui raport. Servite de GitHub Pages la `infuscy.github.io/<dir>/`.
+- **`fire-to-future/`** — editia web a cartii FIRE TO FUTURE (51 capitole + 7 anexe, din `C:\GIT\Apocalypse`): o pagina reader per sectiune, PDF-ul printului, plus `index.html` (cuprins + cautare). Se regenereaza cu `python scripts/build_fire_to_future.py` (genereaza si `_data/fire_to_future_chapters.json`).
 - **`img/portfolio/`** — thumbnaily pentru cardurile din grid.
 - Tema actuala: Jekyll + Start Bootstrap "Freelancer" (GitHub Pages build automat la push).
 

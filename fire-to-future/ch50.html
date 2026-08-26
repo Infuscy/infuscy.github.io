@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 50: Naval Power: Galleys to Missile Age — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 50 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch50_naval_power-chapter-50-naval-power-galleys-to-missile-age">Chapter 50: Naval Power: Galleys to Missile Age</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> Salamis 480 BCE → present · <strong>Difficulty:</strong> high
+<br><strong>Requires:</strong> <a href="ch03.html">Ch 3</a> sail canvas, <a href="ch17.html">Ch 17</a>/<a href="ch21.html">21</a> materials, <a href="ch23.html">Ch 23</a>/<a href="ch24.html">24</a> marine engineering, <a href="ch34.html">Ch 34</a>/<a href="ch35.html">35</a> electronics · <br><strong>Unlocks:</strong> global power projection, <a href="ch51.html">Ch 51</a></p>
+</blockquote>
+<p>Seventy percent of Earth's surface is water, and whoever commands it moves armies, food, fuel, and trade — or denies the same to rivals. Naval history is a 2,500-year engineering dialectic: platform vs weapon, armor vs gun, hull vs sea state. This chapter covers the lineage at textbook depth.</p>
+<h2 id="ch50_naval_power-501-oared-warfare-ram-and-boarding">50.1 Oared Warfare: Ram and Boarding</h2>
+<p>The trireme (three banks of rowers, ~170 oars, ~9–10 knots in bursts) fought by ramming with a bronze beak at the waterline, then boarding. Athens' victory at Salamis (480 BCE) exploited narrow straits where numbers couldn't deploy — geometry again (<a href="ch48.html">Ch 48</a>'s invariant). Oared fleets were strategically coastal: hundreds of rowers needed water and food daily, so galleys hugged shores; "sea power" before sails meant control of littorals, not oceans.</p>
+<h2 id="ch50_naval_power-502-sail-broadside-and-the-line-of-battle">50.2 Sail, Broadside, and the Line of Battle</h2>
+<p>Deep-draft sailing ships with pierceable hulls could mount heavy guns along their sides — the <strong>broadside</strong> — but firing all guns effectively required sailing in ordered single file: the <strong>line of battle</strong>. The Anglo-Dutch Wars (1652–1674) turned this from ad hoc practice into codified <em>Fighting Instructions</em>; the rating system (ships-of-the-line by gun count, first-rates ~100 guns) standardized fleets.</p>
+<ul>
+<li>Doctrine's conservatism vs opportunity: breaking the enemy line concentrated fire on segments but risked friendly confusion; the Royal Navy's signal-book rigidity broke spectacularly when Nelson deliberately split his fleet into two columns at <strong>Trafalgar (October 21, 1805)</strong>, annihilating the combined Franco-Spanish line in close action where British gunnery rate (two-three broadsides per enemy one) decided.</li>
+<li>Ship design co-evolved with empire: East Indiamen, then clipper extremes of sail efficiency (<a href="ch24.html">Ch 24</a>), then steam's arrival as auxiliary (paddle tugs for calms) before screw propellers + efficient engines made sail auxiliary instead.</li>
+</ul>
+<h2 id="ch50_naval_power-503-the-ironclad-revolution">50.3 The Ironclad Revolution</h2>
+<p>Two technologies collided mid-19th century:</p>
+<ol>
+<li><strong>Paixhans shell guns (1820s):</strong> explosive shells that shattered wooden hulls (demonstrated at Navarino 1827; decisively at Sinope, November 1853, when Russian shells destroyed an Ottoman wooden squadron — the event that electrified Europe).</li>
+<li><strong>Industrial iron:</strong> plate rolling (<a href="ch22.html">Ch 22</a>) and marine engines.</li>
+</ol>
+<p>Answers followed within years: France's <em>Gloire</em> (1859, wooden-hulled ironclad) provoked Britain's HMS <em>Warrior</em> (1860, iron hull). The American Civil War staged the first ironclad-vs-ironclad duel — USS <em>Monitor</em> (turret-mounted guns, revolving!) vs CSS <em>Virginia</em> at Hampton Roads (March 8–9, 1862) — tactically a draw, doctrinally a verdict: wooden battle fleets were obsolete everywhere, instantly.</p>
+<p>Then the spiral ran: thicker compound armor → heavier guns → steel armor Harvey/Krupp cemented processes → bigger guns again, with stability lessons priced in wrecks (HMS <em>Captain</em> capsized 1870 — low freeboard plus sail masts plus turret weight; naval architecture learned center-of-gravity discipline the hard way).</p>
+<h2 id="ch50_naval_power-504-the-dreadnought-race">50.4 The Dreadnought Race</h2>
+<p>HMS <em>Dreadnought</em> (completed 1906) reset everything: uniform battery of ten 12-inch guns (salvo fire easier to spot/correct than mixed calibers), steam turbines (<a href="ch23.html">Ch 23</a> lineage), ~21 knots. Every existing battleship became "pre-dreadnought" overnight — and every major power started building anew:</p>
+<ul>
+<li>Anglo-German naval race arithmetic (1906–1914): Britain maintained roughly parity-plus via industrial depth and fiscal muscle; Germany's fleet challenge is the textbook case of strategic competition converting shipyards into national-security instruments.</li>
+<li><strong>Jutland (May 31 – June 1, 1916):</strong> largest battleship engagement ever (~250 ships). Tactical draw/strategic British continuation (the German High Seas Fleet returned to port and largely stayed). Technical postmortems matter here: British cordite handling doctrine (leaving flash-tight doors open to sustain rate of fire) cost three battlecruisers to magazine detonations (<em>Indefatigable</em>, <em>Queen Mary</em>, <em>Invincible</em>); German flash-protection practice saved equivalents. Beatty's reported remark — "there seems to be something wrong with our bloody ships today" — described procedures, not metallurgy.</li>
+<li>Arms control as institutional technology: <strong>Washington Naval Treaty (1922)</strong> capped tonnage at 5 : 5 : 3 : 1.75 : 1.75 ratios (US/UK/Japan/France/Italy), scrapped fleets under construction, and invented treaty verification categories — <a href="ch47.html">Ch 47</a>'s measurement culture applied to destruction.</li>
+</ul>
+<h2 id="ch50_naval_power-505-aircraft-carriers-displace-the-battle-line">50.5 Aircraft Carriers Displace the Battle Line</h2>
+<ul>
+<li>USS <em>Langley</em> (converted collier, commissioned 1922) began US naval aviation; <em>Lexington</em>-class conversions and interwar <strong>Fleet Problems</strong> (Pacific war games) taught US aviators carrier tactics years before any war — peacetime experimentation done right, worth emulating in any rebuild.</li>
+<li><strong>Pearl Harbor (December 7, 1941)</strong> — six Japanese carriers, ~350 aircraft — demonstrated the carrier strike's reach against a fleet at anchor (and accidentally proved the carrier thesis: US carriers were at sea).</li>
+<li><strong>Coral Sea (May 1942):</strong> first battle where opposing fleets never sighted each other — strikes crossed, losses counted in flight decks. One month of repair arithmetic later, <strong>Midway (June 4–7, 1942)</strong>: US codebreakers read Japanese intentions (combat intelligence as force multiplier — <a href="ch51.html">Ch 51</a>); three dive-bomber squadrons caught four Japanese carriers rearming and sank all four within minutes. The Pacific war became a carrier-and-logistics contest thereafter.</li>
+<li>Production decided it: Essex-class fleet carriers (commissioned through 1942–46 in double digits), escort carriers convoying against U-boats, and pilot-training pipelines out-producing Axis attrition.</li>
+</ul>
+<h2 id="ch50_naval_power-506-submarines-the-blockade-weapon">50.6 Submarines: The Blockade Weapon</h2>
+<ul>
+<li>Early experiments: <em>Turtle</em> (Bushnell, 1776, hand-cranked, failed attack), Confederate <em>H.L. Hunley</em> (1864 — sank USS <em>Housatonic</em> by spar torpedo; itself lost with crew, after earlier sinkings had already killed crews twice: the machine's danger preceded its targets).</li>
+<li>John Holland's gasoline-then-electric boats (US Navy accepted Holland VI, 1900) set the modern template: surface diesel cruising, submerged batteries, torpedo tubes.</li>
+<li>WWI: Germany's unrestricted submarine warfare (1917) sank merchant tonnage faster than Allies could build — until the <strong>convoy system</strong> (escorted groups, defended by destroyers/Q-ships and eventually aircraft) reversed the exchange rate. Lesson institutionalized forever: dispersed shipping dies, grouped shipping lives (Lanchester-style concentration logic at sea).</li>
+<li>WWII Atlantic: wolfpack coordinated attacks against convoys; Allied counters stacked up — Ultra decrypts of Enigma traffic (<a href="ch51.html">Ch 51</a>), centimetric airborne radar (<a href="ch34.html">Ch 34</a> magnetron lineage), Leigh-light illuminations, escort carriers, and simply building merchant tonnage faster than it sank (US Liberty ships: 2,710 built). The Atlantic was won by cryptography, radar physics, and shipyard throughput simultaneously.</li>
+<li>Nuclear submarines: USS <em>Nautilus</em> (commissioned 1954 — first nuclear propulsion; surfaced at the North Pole August 3, 1958, crossing under the ice), then ballistic-missile submarines (USS <em>George Washington</em>, first deterrent patrol November 1960) created the survivable second-strike leg of nuclear deterrence (<a href="ch51.html">Ch 51</a>). Air-independent conventional subs (Stirling/AIP) keep diesel boats relevant in littoral waters.</li>
+</ul>
+<h2 id="ch50_naval_power-507-missiles-networks-and-the-modern-question">50.7 Missiles, Networks, and the Modern Question</h2>
+<ul>
+<li>Anti-ship missiles ended the armored-gunship era's assumptions: Exocet hits on HMS <em>Sheffield</em> and Atlantic Conveyor (Falklands, May 1982) showed small platforms threatening capital ships; the US Navy answered with layered defense — Aegis combat system (SPY-1 phased-array radar + Standard missiles, operational 1983) integrating fleet air defense computationally (<a href="ch42.html">Ch 42</a>-style networking avant la lettre), CIWS radar-directed Gatlings as last-ditch layer.</li>
+<li>Carrier aviation remains unmatched for mobile airpower projection; missile-age debates (long-range anti-ship ballistics/hypersonics vs carrier defense chains) are the current round of the same dialectic this chapter has tracked since Salamis. Unmanned surface and underwater vehicles are entering the cycle now.</li>
+<li>Amphibious warfare's engineering peaks: Gallipoli (1915) as anatomy of failure (no surprise, no landing craft doctrine, stalemate ashore mirroring the Western Front); Normandy (June 6, 1944) as counter-example — Mulberry artificial harbors, PLUTO fuel pipeline, ~156,000 troops landed the first day behind the greatest logistics rehearsal in history (<a href="ch24.html">Ch 24</a>, <a href="ch51.html">Ch 51</a>).</li>
+</ul>
+<h2 id="ch50_naval_power-508-engineering-principles-extracted">50.8 Engineering Principles Extracted</h2>
+<ol>
+<li><strong>Concentration beats dispersion</strong> — line of battle, convoys, task forces; the math has held across oars, sail, coal, oil, and missiles.</li>
+<li><strong>Armor-vs-ordnance spirals resolve toward either speed or sensors</strong>, never thickness alone.</li>
+<li><strong>Logistics range defines strategy:</strong> coal stations built empires; oil conversion (Britain, 1912–14 decision under Fisher/Churchill, tied to Persian supply) extended range and doubled fleet speed margins while creating fuel-dependence vulnerabilities — energy choices are strategic choices (<a href="ch43.html">Ch 43</a>).</li>
+<li><strong>Peacetime experimentation wins wartime first contact:</strong> Fleet Problems, wargames, and honest postmortems are cheaper than sunk fleets.</li>
+</ol>
+<p class="co co-key"><strong>Key threshold:</strong> a civilization able to build and sustain blue-water fleets can project force globally; historically only such civilizations reached for — or defended against — planetary-scale dominance (<a href="appendix-d.html">Appendix D</a>).</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch49.html" class="reader-nav-link">← Chapter 49</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch51.html" class="reader-nav-link">Chapter 51 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

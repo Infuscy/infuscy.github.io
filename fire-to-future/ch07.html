@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 7: Agriculture: Domestication, Cultivation, Soil, Irrigation — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 7 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch07_agriculture-chapter-7-agriculture-domestication-cultivation-soil-irrigation">Chapter 7: Agriculture: Domestication, Cultivation, Soil, Irrigation</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> ~10,000 BCE onward · <strong>Difficulty:</strong> mid
+<br><strong>Requires:</strong> <a href="ch01.html">Ch 1</a>, <a href="ch05.html">Ch 5</a> (storage), <a href="ch06.html">Ch 6</a> (granaries) · <br><strong>Unlocks:</strong> <a href="ch08.html">Ch 8</a> (fodder base), <a href="ch09.html">Ch 9</a> (surplus economy), <a href="ch32.html">Ch 32</a></p>
+</blockquote>
+<p>Agriculture is the single largest calorie-engine ever built: it multiplies food output per hectare of desirable land by 10–100× over foraging, which multiplies population, which funds every specialist in this book. It is also the first technology whose central problem is invisible — soil nitrogen — and mismanaging it has starved more civilizations than any war.</p>
+<h2 id="ch07_agriculture-71-what-to-domesticate-first">7.1 What to Domesticate First</h2>
+<p>Choose founder crops by engineering criteria, not taste:</p>
+<ul>
+<li><strong>Self-pollinating annuals</strong> (wheat, barley, rice): breeding progress locks into the seed; one season per generation means fast improvement.</li>
+<li><strong>Large storable seeds/grains</strong> that thresh free of husks and store for years (<a href="ch04.html">Ch 4</a>).</li>
+<li><strong>High harvest index:</strong> wild einkorn allocates much energy to stalks; select plants where most biomass is the edible part. Continuous mass selection — save seed only from the best plants — doubles yields within decades without knowing a word of genetics.</li>
+<li>Legumes (peas, lentils, beans) alongside cereals from day one: they fix their own nitrogen and feed soil.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> domestication's real bottleneck is <em>non-shattering seed heads</em> — mutant plants that hold grain until harvested rather than scattering it. Spot and propagate these obsessively; they are the difference between farming and re-harvesting wild stands.</p>
+<h2 id="ch07_agriculture-72-soil-the-nitrogen-ledger">7.2 Soil: The Nitrogen Ledger</h2>
+<p>Every grain harvest exports nitrogen from the soil. Soil organic matter holds only ~2–5 % nitrogen, and crops take it relentlessly. The pre-industrial ledger has exactly three income lines:</p>
+<ol>
+<li><strong>Legumes:</strong> beans/clover/alfalfa host nitrogen-fixing bacteria on roots — a legume year deposits fertilizer for the following crop. This is rotation's entire secret.</li>
+<li><strong>Manure and compost:</strong> herd manure closes the nutrient loop with <a href="ch08.html">Ch 8</a>; composting (layered green/brown matter kept moist and turned) stabilizes nutrients against leaching.</li>
+<li><strong>Fallow:</strong> bare rest years let soil biology recover — the fallback when 1–2 are underused.</li>
+</ol>
+<p>Rotation systems: two-field (crop/fallow) → three-field (winter grain / spring grain / fallow-or-legume) raises cultivated share from 50 % to 66–100 % of arable land. Design your three-course rotation immediately; skipping straight past two-field is an easy <a href="#ch07_agriculture-75-jump-rotation-design">Jump</a>.</p>
+<h2 id="ch07_agriculture-73-tillage-and-tools">7.3 Tillage and Tools</h2>
+<p>Tillage kills weeds, incorporates manure, and prepares a seedbed — but over-tillage oxidizes humus and erodes slope soils. Tool ladder:</p>
+<ol>
+<li>Digging stick and hoe (human power, gardens).</li>
+<li>Scratch plow / ard (animal power, breaks surface).</li>
+<li>Moldboard plow (<a href="ch08.html">Ch 8</a>): turns a full furrow, buries weeds, unlocks heavy wet clay soils — historically the plow that made northern Europe's plains farmland.</li>
+</ol>
+<p>Sowing: broadcast wastes 30–50 % of seed to birds and uneven depth. A simple <strong>seed drill</strong> (a hopper feeding a tube behind a furrow-opening tine, spaced rows) halves seed use and doubles weeding efficiency because rows can be hoed. It is low-tech enough to build in <a href="ch15.html">Part II</a> workshops and pays for itself in one season.</p>
+<h2 id="ch07_agriculture-74-water-management">7.4 Water Management</h2>
+<p>Rainfall agriculture fails somewhere between one-in-five and one-in-ten years everywhere. Water control converts that gamble into arithmetic:</p>
+<ul>
+<li><strong>Gravity furrow irrigation</strong> from stream or reservoir; field levelness determines uniformity.</li>
+<li><strong>Lift devices:</strong> shadoof (counterweighted bucket arm) lifts ~50 L per pull several meters; waterwheels and chain pumps scale up later (<a href="ch16.html">Ch 16</a>).</li>
+<li><strong>Drainage matters as much as watering:</strong> waterlogged roots suffocate; ridge-and-furrow fields and tile drains (fired ceramic tubes — <a href="ch05.html">Ch 5</a>) reclaim wetlands.</li>
+</ul>
+<p class="co co-dead"><strong>Dead end avoided:</strong> Mesopotamia's salinization collapse. Irrigated water always carries dissolved salts; evaporation leaves them behind. Prevent with deep drainage below root zone, periodic heavy flushing leaches, and salt-tolerant crop rotation — or watch barley fields turn white within centuries, as history's first great irrigation civilization did.</p>
+<h2 id="ch07_agriculture-75-jump-rotation-design">7.5 Jump: Rotation Design</h2>
+<p>Knowing what history learned slowly, skip directly to a four-course system on establishment: <strong>legume ley → cereal → root/vegetable → cereal</strong>, integrating livestock grazing on the ley. This is essentially the Norfolk four-course rotation that powered 18th-century English yields — deployable at village scale from day one, no machinery required beyond fences.</p>
+<h2 id="ch07_agriculture-76-pests-storage-and-seed-sovereignty">7.6 Pests, Storage, and Seed Sovereignty</h2>
+<ul>
+<li><strong>Storage hygiene</strong> decides whether surplus exists: dry grain to &lt;13 % moisture, cool, sealed, rodent-proofed (<a href="ch06.html">Ch 6</a>); inspect monthly. Weevil-infested granaries were routine historical catastrophes — diatomaceous earth or wood ash layers deter insects cheaply.</li>
+<li><strong>Never eat your seed corn:</strong> reserve 10–20 % of the best harvest as next year's seed, stored separately and labeled. Civilizations have died eating it.</li>
+<li>Keep <strong>three distinct landraces</strong> of each staple in case disease finds one; genetic monoculture is a standing invitation to famine (the Irish potato lesson, formalized in <a href="ch32.html">Ch 32</a>).</li>
+</ul>
+<h2 id="ch07_agriculture-77-the-surplus-equation">7.7 The Surplus Equation</h2>
+<p>Rough numbers to plan by: one hectare of managed grain supports ~4–10 people; one person hand-farming tends ~1–2 ha (less with drill and draft animals). Surplus above subsistence is what frees roughly one in five people to become potters, smiths, scribes, engineers — i.e., everything else in this book. Maximize yield-per-labor first, yield-per-hectare second; labor is the scarcer input until machines arrive (<a href="ch29.html">Ch 29</a>).</p>
+<h2 id="ch07_agriculture-78-multiple-independent-origins">7.8 Multiple Independent Origins</h2>
+<p>Agriculture was invented separately at least half a dozen times — each package engineered around local species:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Region</th>
+<th>Approximate start</th>
+<th>Founder crops/animals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fertile Crescent</td>
+<td>~10,500–10,000 BP</td>
+<td>emmer, einkorn, barley, lentils, chickpeas, flax + sheep/goats/pigs/cattle</td>
+</tr>
+<tr>
+<td>Yangtze China</td>
+<td>~9,000–8,000 BP</td>
+<td>rice (<em>japonica</em> from wild <em>O. rufipogon</em>); foxtail millet on the Yellow River in parallel</td>
+</tr>
+<tr>
+<td>Mesoamerica</td>
+<td>~9,000 BP (Balsas)</td>
+<td>maize from teosinte; beans/squash later; fully domesticated cob by ~6,000 BP</td>
+</tr>
+<tr>
+<td>Andes/Amazonia</td>
+<td>~8,000–7,000 BP</td>
+<td>potato, quinoa, manioc</td>
+</tr>
+<tr>
+<td>New Guinea Highlands</td>
+<td>~7,000 BP (Kuk Swamp drainage)</td>
+<td>taro, bananas</td>
+</tr>
+<tr>
+<td>Sahel/Ethiopia</td>
+<td>~5,000–3,000 BP</td>
+<td>sorghum, pearl millet, teff</td>
+</tr>
+</tbody>
+</table></div>
+<p>The <strong>domestication syndrome</strong> repeats across all of them: non-shattering seed heads (the <a href="#ch07_agriculture-71-what-to-domesticate-first">threshold</a>), reduced seed dormancy, gigantism of harvested organs, determinate growth, and often loss of defensive chemistry (bitterness) that then requires human processing or protection.</p>
+<p>Why here, why then? Theories (climate stress after the Younger Dryas; sedentary population pressure; mutualistic co-evolution) remain debated — what is not debated is that farming arose independently wherever suitable species and semi-sedentary people overlapped.</p>
+<h2 id="ch07_agriculture-79-terra-preta-ancient-biochar">7.9 Terra Preta: Ancient Biochar</h2>
+<p>Amazonian dark earth (<em>terra preta de índio</em>) is pre-Columbian agriculture's most striking legacy:</p>
+<ul>
+<li>Soils enriched with charcoal, pottery sherds, and organic refuse hold markedly higher fertility than surrounding oxisols — and retain it <strong>centuries to millennia</strong> after abandonment, because pyrogenic carbon resists microbial breakdown.</li>
+<li>Production method reconstructs as smoldering (low-oxygen charring rather than burning-to-ash) of waste streams, mixed into garden beds — village-scale, tool-light, endlessly replicable.</li>
+<li>The modern biochar movement is this practice rediscovered: carbon sequestration and soil amendment in one operation (<a href="ch43.html">Ch 43</a>'s energy abundance makes industrial-scale versions viable later).</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch06.html" class="reader-nav-link">← Chapter 6</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch08.html" class="reader-nav-link">Chapter 8 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

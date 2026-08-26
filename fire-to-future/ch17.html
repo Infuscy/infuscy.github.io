@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 17: Practical Chemistry I: Lime, Mortar, Glass, Salt, Soap, Alcohol, Distillation — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 17 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch17_chemistry_ancient-chapter-17-practical-chemistry-i-lime-mortar-glass-salt-soap-alcohol-distillation">Chapter 17: Practical Chemistry I: Lime, Mortar, Glass, Salt, Soap, Alcohol, Distillation</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> ~7000 BCE → 17th c. craft chemistry · <strong>Difficulty:</strong> mid
+<br><strong>Requires:</strong> <a href="ch05.html">Ch 5</a> kilns/vessels, <a href="ch13.html">Ch 13</a>, <a href="ch21.html">Ch 21</a> (successor chapter) · <br><strong>Unlocks:</strong> <a href="ch06.html">Ch 6</a> mortars, <a href="ch19.html">Ch 19</a> glass lenses, <a href="ch30.html">Ch 30</a> soap/disinfection</p>
+</blockquote>
+<p>Craft chemistry converts common minerals into civilization's quiet materials. Every product here predates chemical theory by millennia — proof that careful procedure outranks understanding, though theory (once <a href="ch20.html">Part III</a> arrives) will multiply everything.</p>
+<h2 id="ch17_chemistry_ancient-171-lime-and-mortar">17.1 Lime and Mortar</h2>
+<p>Limestone (CaCO₃) calcines to quicklime (CaO) at ~900 °C — kiln territory (<a href="ch05.html">Ch 5</a>). Slake with water (violently exothermic! steam, spattering — add lime TO water slowly) to make slaked lime Ca(OH)₂; mix 1:3 with sand for mortar that carbonizes back toward limestone as it cures.</p>
+<ul>
+<li><strong>Lime mortar</strong> flexes with buildings — right choice for brick/stone masonry for centuries.</li>
+<li><strong>Roman concrete upgrade:</strong> blend slaked lime with volcanic ash (pozzolana) or fired clay dust + aggregate: sets hard even UNDERWATER (harbors!), approaches modern concrete behavior. The chemistry (alumino-silicate reaction with lime) wasn't understood until the 20th century — build it anyway.</li>
+<li><strong>Whitewash</strong> (thin slaked lime wash) disinfects surfaces cheaply — proto-sanitation for stables and sickrooms (<a href="ch30.html">Ch 30</a>).</li>
+<li>Quicklime has battlefield/agricultural uses (soil sweetening, carcass disposal) — handle with total respect: it chemically burns wet skin and eyes.</li>
+</ul>
+<h2 id="ch17_chemistry_ancient-172-soda-potash-and-the-alkali-economy">17.2 Soda, Potash, and the Alkali Economy</h2>
+<p>Alkalis dissolve grease, flux glass, and cure textiles:</p>
+<ul>
+<li><strong>Potash</strong> (K₂CO₃): leach wood-ash lye through barrels; evaporate to white salts. Forest nations exported potash as a staple commodity.</li>
+<li><strong>Soda</strong> (Na₂CO₃): harvested from salty-margin plants (barilla) or Egyptian natron lakes. Needed where glass quality matters (soda glasses melt cleaner than potash ones).</li>
+</ul>
+<p>Both feed soap (<a href="#ch17_chemistry_ancient-174-soap-the-first-surfactant">§17.4</a>), glass (<a href="#ch17_chemistry_ancient-173-glass-from-glaze-to-clarity">§17.3</a>), and textile bleaching/scouring. The industrial-scale leap (Leblanc/Solvay processes) waits for <a href="ch21.html">Ch 21</a>'s acid infrastructure.</p>
+<h2 id="ch17_chemistry_ancient-173-glass-from-glaze-to-clarity">17.3 Glass: From Glaze to Clarity</h2>
+<p>Glass = silica (sand) melted with alkali flux (soda/potash cuts melting point from ~1,700 °C to ~800–1,000 °C) + lime for stability.</p>
+<p>Progression:
+1. <strong>Fused glazes</strong> on pottery (<a href="ch05.html">Ch 5</a>) — accidental origin story.
+2. <strong>Core-formed and cast vessels</strong> — opaque, colored (metal oxides: cobalt blue, copper teal, manganese purple/decolorizer).
+3. <strong>Blowpipe glass (~1st c. BCE)</strong> — a tube + lung power turns glassmaking from jewelry-scale to tableware-scale. Inflate gathers inside smooth molds or free-hand.
+4. <strong>Clear glass</strong> requires decolorized melt (manganese against iron's green), clean sand, and covered crucibles to keep furnace ash out — achievable once kilns exceed ~1,100 °C reliably.</p>
+<p>Flat window glass starts as blown cylinders split and flattened (distortion acceptable); ground/polished plate comes with casting on metal tables. Lenses — polished convex segments — unlock <a href="ch19.html">Ch 19</a>. Crown vs flint compositions matter THERE, note them now.</p>
+<p class="co co-key"><strong>Key threshold:</strong> bubble-free, streak-free clear glass is the gating artifact for microscopes, telescopes, thermometers, and prisms. Treat glassworks as strategic industry from the first firing.</p>
+<h2 id="ch17_chemistry_ancient-174-soap-the-first-surfactant">17.4 Soap: The First Surfactant</h2>
+<p>Boil animal fat with alkali lye → saponification: glycerol splits off, fatty-acid salts remain. Hard soap uses soda lye; soft soap potash lye. Procedure notes:</p>
+<ul>
+<li>Render clean fat first (slow simmer, skim).</li>
+<li>Lye concentration tested by egg/fresh potato float density — traditional but real.</li>
+<li>Boil hours until "traced" batter thickens; salt-out (salting the pan) precipitates hard soap for lifting.</li>
+<li>Cure weeks to mildew excess lye. Lye burns are real chemical burns; gloves-equivalent discipline applies.</li>
+</ul>
+<p>Value cascade: laundry, body hygiene, wool scouring (<a href="ch03.html">Ch 3</a>), wound-cleaning adjunct (<a href="ch31.html">Ch 31</a>), and emulsifier duties across workshops. Cheap soap plus clean-water doctrine measurably cuts disease generations before germ theory names why.</p>
+<h2 id="ch17_chemistry_ancient-175-fermentation-and-alcohol">17.5 Fermentation and Alcohol</h2>
+<p>Yeast metabolizes sugar → ethanol + CO₂. Three tiers:</p>
+<ol>
+<li><strong>Beverages:</strong> beer/mead/wine (2–12 % ABV) — safer-than-water drinks historically, morale infrastructure, and trade goods (<a href="ch09.html">Ch 9</a>). Airlock fermentation (any water-seal) prevents vinegar spoilage.</li>
+<li><strong>Vinegar:</strong> deliberately oxidize weak alcohol with acetobacter — the first industrial solvent and food preservative (pickling!).</li>
+<li><strong>Distillation:</strong> boil fermented wash, condense vapors — alembic still (pot with dome head, vapor tube through cooling water, receiver). Ethanol boils 78 °C, water 100 °C; distillate enriches progressively ("proof" by gunpowder flare test). Strong spirit (&gt;40 %) disinfects wounds and instruments (<a href="ch30.html">Ch 30</a>-adjacent), preserves specimens, extracts medicines (tinctures), and fuels early experiments.</li>
+</ol>
+<p>Fractionating columns (packed vertical stills) sharpen separation — the same counterflow logic later refines petroleum (<a href="ch28.html">Ch 28</a>). Distillation is also the gateway skill for acids: <a href="ch21.html">Ch 21</a> retorts are alembics with angrier cargos.</p>
+<h2 id="ch17_chemistry_ancient-176-doctrine">17.6 Doctrine</h2>
+<p>Every process above shares one meta-lesson: <strong>temperature control + material purity + written procedure = reproducible chemistry.</strong> Write recipes with quantities, times, colors, and failure notes (<a href="ch11.html">Ch 11</a>). The workshop that documents failures out-invents the genius who doesn't.</p>
+<h2 id="ch17_chemistry_ancient-177-the-craft-chemistry-record">17.7 The Craft-Chemistry Record</h2>
+<ul>
+<li><strong>Egyptian faience</strong> (~4000 BCE onward): ground quartz bodies glazed with soda-lime coatings fired in kilns — glass chemistry practiced before glass itself.</li>
+<li><strong>Earliest true glass vessels</strong> appear in Mesopotamia/Egypt ~2500–2300 BCE (cast/core-formed beads and small vessels); <strong>glassblowing</strong> revolutionizes the trade around the mid-1st century BCE on the Syro-Palestinian coast — a blowing iron turns hours of core work into minutes of inflation; Roman production scales to tableware within a generation.</li>
+<li>Egypt's <strong>natron lakes (Wadi el-Natrun)</strong> supplied soda for glass and mummification for centuries — a mineral deposit functioning as an international strategic commodity (<a href="ch09.html">Ch 9</a>).</li>
+<li><strong>Lime mortar</strong> runs from Mycenaean floors to Roman pozzolanic concretes (<a href="#ch17_chemistry_ancient-171-lime-and-mortar">§17.1</a>); medieval builders lost and re-derived Roman underwater formulations — knowledge decayed where documentation lapsed, exactly as <a href="ch11.html">Ch 11</a> predicts.</li>
+<li><strong>Soap:</strong> Babylonian tablets (~2800 BCE) record fat+ash preparations (purpose possibly textile-fulling rather than bathing); Pliny attributes soap to Gaulish manufacture; widespread personal hygiene use is late-medieval European, driven by urban water systems and plague-era cleanliness doctrines.</li>
+<li><strong>Distillation lineage:</strong> Alexandrian alchemists (the word <em>ambix</em> becomes alembic) built the apparatus; Baghdad's 8th–10th-century school matured controlled distillation (alcohol isolation credited variously to al-Kindī and al-Zahrāwī among others — attribution genuinely murky, equipment evolution well documented); fractional thinking arrives with later columns (<a href="ch28.html">Ch 28</a>'s towers are direct descendants).</li>
+<li>Fermentation's oldest recipes: the Hymn to Ninkasi (~1800 BCE) encodes Sumerian beer procedure as a memorizable poem; Jiahu pottery residues (~7000 BP, McGovern's analyses) carry wine-like fermented-beverage signatures — brewing predates bread's earliest secure evidence in the same region, a sequencing archaeologists still enjoy arguing about.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch16.html" class="reader-nav-link">← Chapter 16</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch18.html" class="reader-nav-link">Chapter 18 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

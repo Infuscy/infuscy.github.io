@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 3: Cordage, Basketry, Hides, and Textiles — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 3 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch03_textiles-chapter-3-cordage-basketry-hides-and-textiles">Chapter 3: Cordage, Basketry, Hides, and Textiles</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> ~50,000 BCE onward · <strong>Difficulty:</strong> low
+<br><strong>Requires:</strong> <a href="ch02.html">Ch 2</a> (cutting edges) · <br><strong>Unlocks:</strong> <a href="ch04.html">Ch 4</a> (nets, snares, bowstrings), <a href="ch06.html">Ch 6</a> (lashing), <a href="ch08.html">Ch 8</a> (halters, harness), <a href="ch16.html">Ch 16</a> (mill drives)</p>
+</blockquote>
+<p>String is the quiet giant of technology. Bows, nets, snares, fishing lines, lashings, tethers, slings, baskets, sails, belts, and every pre-modern machine transmission depend on twisted fiber. A civilization without cordage cannot hunt efficiently, build flexibly, or transmit power.</p>
+<h2 id="ch03_textiles-31-fiber-selection">3.1 Fiber Selection</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Examples</th>
+<th>Character</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bast (plant stem bark)</td>
+<td>linden inner bark, willow, nettle, flax, hemp</td>
+<td>strongest plant fibers; best for rope and thread</td>
+</tr>
+<tr>
+<td>Leaf</td>
+<td>yucca, agave, sisal, palm</td>
+<td>stiff; excellent for coarse rope in warm climates</td>
+</tr>
+<tr>
+<td>Seed/fluff</td>
+<td>milkweed, cattail down</td>
+<td>short staple; insulation and tinder more than string</td>
+</tr>
+<tr>
+<td>Tendon</td>
+<td>deer-leg sinew</td>
+<td>highest strength-to-weight available; shrinks tight when drying — ideal for hafting (<a href="ch02.html">Ch 2</a>) and bowstrings</td>
+</tr>
+<tr>
+<td>Rawhide</td>
+<td>untanned cattle/deer hide strips</td>
+<td>lashes tighten as they dry; weak when wet</td>
+</tr>
+</tbody>
+</table></div>
+<p>Harvest bast by stripping bark ribbons and retting (soaking until soft tissue rots loose), then scraping. Flax dew-rets in grass fields for weeks; water-retting is faster but smellier.</p>
+<h2 id="ch03_textiles-32-twisted-cordage-reverse-wrap">3.2 Twisted Cordage: Reverse Wrap</h2>
+<p>Two-ply reverse wrap is the universal method: twist one strand tightly clockwise while folding it over the other counter-clockwise; the opposing torsion locks each half-twist. Key rules:</p>
+<ul>
+<li><strong>Twist tightness = strength.</strong> Under-twisted cord fails at knots.</li>
+<li><strong>Ply against fiber's natural twist</strong> for balance.</li>
+<li>Splice in new fiber with staggered tails so no point carries all the load.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> a properly made 3 mm two-ply cord of bast fiber holds 20–50 kg. Multiply strands: doubled diameter ≈ quadruple strength. This arithmetic turns hand-made cord into rigging capable of hauling logs, well-buckets, and later millstones (<a href="ch16.html">Ch 16</a>).</p>
+<p>Rope-making scales up with a simple <strong>rope walk</strong>: three or four cords paid out between two posts, wound together on a top with a crank, countersunk tension at the far end. An afternoon's work yields a ship's hawser.</p>
+<h2 id="ch03_textiles-33-basketry-and-containers">3.3 Basketry and Containers</h2>
+<p>Three weave families cover all needs:</p>
+<ul>
+<li><strong>Coiling</strong> (sewn spirals): strong, watertight-capable with tight stitching; ideal for grain storage and hot-stone cooking baskets.</li>
+<li><strong>Twining</strong> (active warps twisting around passive wefts): flexible, strong bags, fish traps, snowshoe frames.</li>
+<li><strong>Plaiting</strong> (checkerboard over-under): fast mats, screens, basket bases.</li>
+</ul>
+<p>Waterproofing options: pine-pitch linings, clay-plastered interiors (a stepping stone to pottery — some ceramic traditions began as fired baskets), or woven-tight willow that self-seals when wetted and swelled.</p>
+<h2 id="ch03_textiles-34-hides-from-skin-to-leather">3.4 Hides: From Skin to Leather</h2>
+<p>Raw hide rots and stiffens unpredictably; processed leather does neither. Two main routes:</p>
+<ol>
+<li><strong>Brain tanning</strong> (buckskin): scrape membranes from a dehaired hide, work an emulsified brain-water mash (lecithin does the work; every animal has enough for its own hide) into the fibers, wring, smoke over rotten-wood smudge. Result: soft, washable buckskin.</li>
+<li><strong>Vegetable tanning:</strong> soak dehaired hides in progressively stronger baths of oak/birch bark liquor (tannins cross-link collagen) for weeks to months. Stiffer, firmer leather — the stuff of soles, buckets, belting, and later machinery drive-belts (<a href="ch16.html">Ch 16</a>).</li>
+</ol>
+<p>Either way: flesh, dehair (slaked-wood-ash paste loosens hair), frame-stretch, and dry evenly. Hair-on hides make winter robes; rawhide makes glue stock and drum heads.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> skipping preservation because "meat on the hoof" suffices. Untanned hides are a perishable liability; unprocessed herds' skins were historically burned as waste before tanning knowledge spread.</p>
+<h2 id="ch03_textiles-35-woven-textiles">3.5 Woven Textiles</h2>
+<p>The loom separates threads into tension-bearing <strong>warp</strong> and interlaced <strong>weft</strong>:</p>
+<ul>
+<li><strong>Warp-weighted loom:</strong> upright warp threads hung from a bar, tensioned by clay loomweights — buildable with pottery from <a href="ch05.html">Ch 5</a>.</li>
+<li>Weaving beats knotted-netting for cloth density; tablet weaving produces strong decorative bands for straps and trim.</li>
+<li>Wool arrives with domesticated sheep (<a href="ch08.html">Ch 8</a>); linen from retted flax; cotton where climate allows. Spinning (drop spindle: weighted stick twisting fiber into continuous yarn) is the bottleneck labor — one spinner supports roughly one weaver.</li>
+</ul>
+<p class="co co-jump"><strong>Jump:</strong> once you understand spinning and weaving, skip millennia of incremental loom evolution and go straight to a treadle-driven horizontal loom with a heddle frame — foot-powered shed-changing multiplies output several-fold and anticipates mechanized weaving (<a href="ch23.html">Ch 23</a>). Do the same on the spinning side, where the real bottleneck sits: a driven <strong>spinning wheel</strong> (foot treadle turning the spindle) multiplies one spinner's thread output roughly threefold over a drop spindle, and Hargreaves' jenny (1764) — eight spindles per operator, later far more — is the documented proof that parallelizing spinning was the century's payoff before power machinery took over (<a href="ch23.html">Ch 23</a>).</p>
+<h2 id="ch03_textiles-36-why-this-chapter-gates-everything">3.6 Why This Chapter Gates Everything</h2>
+<p>Nets raise fishing yield per calorie spent by an order of magnitude (<a href="ch04.html">Ch 4</a>). Bowstrings enable the most efficient handheld weapon below gunpowder. Lashings hold shelters and boats together. Belts transmit rotary power. Sewn clothing lets humans colonize arctic latitudes. Treat fiber technology as infrastructure, not craft: stockpile it like grain.</p>
+<h2 id="ch03_textiles-37-the-material-record">3.7 The Material Record</h2>
+<p>Textiles and cordage preserve badly, so each survivor carries weight:</p>
+<ul>
+<li><strong>Dzudzuana Cave, Georgia:</strong> dyed wild flax fibers dated ~34–30 ka — the oldest known colored textile fibers.</li>
+<li><strong>Eyed needles</strong> appear by ~40–50 ka; a bird-bone specimen from Denisova Cave (~50 ka) is the oldest yet found — sewing fitted clothing enabled cold-climate occupation.</li>
+<li><strong>Venus figurines</strong> (Gravettian) repeatedly depict woven or corded garment textures — indirect but repeated evidence that fiber clothing was normal by ~28–22 ka.</li>
+<li><strong>Ötzi the Iceman (5,300 BP)</strong> traveled alpine passes with a full fiber kit: stitched hide-and-leather clothing, grass-net cape, cordage, unfinished yew bow, copper axe hafted with leather and tar — a complete snapshot of Chalcolithic fiber craft.</li>
+<li>Spindle whorls and loom weights appear in Neolithic strata wherever textiles scale up; warp-weighted looms dominate early European house plans.</li>
+<li><strong>Silk</strong> sericulture carries legendary dating to ~2700 BCE (Empress Leizu tradition); archaeological silk finds run earlier and remain debated. <strong>Cotton</strong> threads appear at Mehrgarh by ~5000 BCE; wool follows sheep's fleece transformation (wild sheep have hair, not wool — fleeced breeds are themselves a product of <a href="ch08.html">Ch 8</a>-style selection).</li>
+</ul>
+<p>Historian's caution: absence-of-evidence dominates this field — most string ever made rotted. Perishables' history is reconstructed from lucky microclimates (caves, waterlogged bogs, ice), and every generalization should carry that caveat.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch02.html" class="reader-nav-link">← Chapter 2</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch04.html" class="reader-nav-link">Chapter 4 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

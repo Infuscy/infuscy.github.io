@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 5: Pottery: Fired Clay as the First Chemical Product — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 5 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch05_pottery-chapter-5-pottery-fired-clay-as-the-first-chemical-product">Chapter 5: Pottery: Fired Clay as the First Chemical Product</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> ~20,000 BCE onward · <strong>Difficulty:</strong> low–mid
+<br><strong>Requires:</strong> <a href="ch01.html">Ch 1</a> (controlled heat) · <br><strong>Unlocks:</strong> <a href="ch07.html">Ch 7</a> storage, <a href="ch17.html">Ch 17</a> (crucibles, retorts), <a href="ch09.html">Ch 9</a> (transportable goods)</p>
+</blockquote>
+<p>Pottery is applied chemistry before anyone knows what chemistry is: a permanent, water-tight, heat-proof material manufactured from dirt by irreversible transformation. It stores surplus (<a href="ch04.html">Ch 4</a>), enables cooking stews and brewing, carries trade goods, insulates homes, and — as crucibles and kiln furniture — is the silent prerequisite of every metallurgical chapter that follows.</p>
+<h2 id="ch05_pottery-51-clay-selection-and-testing">5.1 Clay Selection and Testing</h2>
+<p>Good pottery clay is plastic when wet, holds shape, and shrinks predictably. Field tests:</p>
+<ol>
+<li><strong>Feel test:</strong> moistened clay should roll into a 3 mm coil bent 180° without crumbling or cracking badly.</li>
+<li><strong>Slake test:</strong> dry lump in water should slake smoothly, not fizz apart with grit.</li>
+<li><strong>Firing test:</strong> always fire a small test bar before committing a batch; note cracking, bloating, discoloration.</li>
+</ol>
+<p>Sources: stream-cut banks and pond bottoms where fine particles settle. Reddish = iron oxide present (fine for earthenware); white/gray = cleaner fireclay.</p>
+<h2 id="ch05_pottery-52-preparation-wedging-and-tempering">5.2 Preparation: Wedging and Tempering</h2>
+<ul>
+<li><strong>Wedging:</strong> knead like dough to expel air pockets and inconsistencies — air expands at temperature and explodes ware.</li>
+<li><strong>Temper</strong> (30–50 % by volume of non-plastic grit) controls shrinkage and thermal shock: sand, crushed fired pot ("grog"), crushed shell, or grass/chaff (burns out leaving pores). Untempered fat clay cracks on drying and shatters on firing.</li>
+<li>Drying must be slow and even under cloth/plastic-equivalent; rapid drying = cracks. Bone-dry ware ("greenware") is extremely fragile — handle accordingly.</li>
+</ul>
+<h2 id="ch05_pottery-53-forming">5.3 Forming</h2>
+<ul>
+<li><strong>Pinch and coil:</strong> roll ropes of clay, spiral them up a base, blend seams — the universal primitive method.</li>
+<li><strong>Paddle-and-anvil:</strong> beat the exterior over a stone with a wooden paddle for thin, even walls and compaction.</li>
+<li><strong>Simple turntable (tournette):</strong> any slowly rotated slab lets you true a rim; do not chase the fast wheel early — it matters for mass production later (<a href="#ch05_pottery-56-jump-the-fast-wheel">Jump</a>, below).</li>
+</ul>
+<h2 id="ch05_pottery-54-firing-the-temperature-ladder">5.4 Firing: The Temperature Ladder</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Temp</th>
+<th>What happens</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Open bonfire</td>
+<td>500–700 °C</td>
+<td>chemically bound water expelled; clay permanently hardened (earthenware-ish, still porous)</td>
+</tr>
+<tr>
+<td>Pit/updraft kiln</td>
+<td>700–900 °C</td>
+<td>vitrification begins at surfaces; stronger, less porous</td>
+</tr>
+<tr>
+<td>True kiln, draft control</td>
+<td>900–1,000 °C</td>
+<td>reliable earthenware/stoneware territory</td>
+</tr>
+</tbody>
+</table></div>
+<p>Kiln design principle: <strong>separate fire from ware</strong> while letting hot gases pass — a firebox beneath or beside, a bag wall protecting pots from flame impingement, a flue drawing the draft. Even a simple updraft shaft kiln doubles achievable temperature versus open firing because insulation retains heat instead of radiating it to open sky.</p>
+<p>Pyrometry without instruments: color scale. Dull red ~600 °C, cherry ~750 °C, orange ~900 °C, yellow ~1,100 °C, white ~1,300 °C. This visual thermometer remains standard practice in forge and furnace work through <a href="ch14.html">Ch 14</a>.</p>
+<h2 id="ch05_pottery-55-products-that-matter-most">5.5 Products That Matter Most</h2>
+<p>Priority order for a rebuilding civilization:</p>
+<ol>
+<li><strong>Storage jars</strong> — grain, oil, water, fermented goods (<a href="ch07.html">Ch 7</a>, <a href="ch09.html">Ch 9</a>). Rodent-proof, insect-proof, stackable wealth.</li>
+<li><strong>Cooking vessels</strong> — stews extract calories from grains and bones that roasting wastes; ceramic boils milk, brews beer, renders fat.</li>
+<li><strong>Drain tiles and pipe segments</strong> — sanitation preview (<a href="ch30.html">Ch 30</a>) and irrigation control (<a href="ch07.html">Ch 7</a>).</li>
+<li><strong>Crucibles and tuyères (nozzle tubes)</strong> — direct enablers of metallurgy (<a href="ch10.html">Ch 10</a>).</li>
+<li><strong>Brick</strong> — sun-dried mudbrick first (<a href="ch06.html">Ch 6</a>); fired brick once kilns are spare.</li>
+</ol>
+<p>Glazes are optional luxury: wood ash + silica + flux melts to glass at high temperature — park it until <a href="ch17.html">Ch 17</a>, where soda and lead fluxes get systematic.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> chasing porcelain-grade refinement early. Porcelain needs specific kaolin clays and &gt;1,300 °C firing; generations wasted on its secrets historically. Earthenware at 800 °C solves every urgent problem porcelain would.</p>
+<h2 id="ch05_pottery-56-jump-the-fast-wheel">5.6 Jump: The Fast Wheel</h2>
+<p>Once forming skill exists, jump directly from tournette to <strong>kick-wheel</strong>: a heavy flywheel disc kicked to speed lets hands center and pull walls ten times faster than hand-building. The wheel is also your first precision rotating reference — the mechanical intuition transfers directly to lathes (<a href="ch15.html">Ch 15</a>).</p>
+<p class="co co-key"><strong>Key threshold:</strong> a village producing hundreds of standardized jars per season converts harvest surplus into year-round food security — the demographic foundation for specialists who make everything else in this book.</p>
+<h2 id="ch05_pottery-57-the-oldest-pottery-predates-farming">5.7 The Oldest Pottery Predates Farming</h2>
+<p>A fact that reorders assumptions: the earliest ceramics belong to hunter-gatherers, not farmers.</p>
+<ul>
+<li><strong>Xianrendong and Laoshandao caves (South China):</strong> sherds dated to ~20,000–19,000 cal BP — currently the world's oldest known pottery.</li>
+<li><strong>Incipient Jōmon (Japan):</strong> cord-marked vessels from ~16,500 cal BP; lipid-residue analysis (Craig et al., 2013) shows early Jōmon pots primarily cooked freshwater and brackish-water fish and shellfish.</li>
+<li>The working hypothesis: pottery emerged where aquatic resources rewarded simmering/boiling — extracting fat and oil from fish and nuts that roasting wastes. Agriculture adopted ceramics afterward for storage (<a href="ch07.html">Ch 7</a>); the technology's first job was the dinner pot.</li>
+</ul>
+<h2 id="ch05_pottery-58-atmospheres-and-kiln-evolution">5.8 Atmospheres and Kiln Evolution</h2>
+<ul>
+<li><strong>Oxidation vs reduction firing:</strong> abundant air turns iron minerals red-orange and burns organics out; starved air (smoldering fuel, closed vents) pulls oxygen from the clay body instead, greying or blackening it. Black-topped Egyptian red ware and Greek black-glaze both manipulate this switch deliberately.</li>
+<li>Kiln lineage: open bonfire → pit firing (insulated from wind, better heat retention) → true updraft kiln with separate firebox → <strong>downdraft chamber kilns</strong> (China, by the Shang era), whose long flame paths pushed temperatures toward ~1,200 °C and enabled the first stoneware/proto-porcelain experiments centuries ahead of everyone else.</li>
+<li>Kiln furniture (stilts, saggars — protective fireclay boxes) separates ware from flame and ash: the same separation-of-load-from-heat logic that later builds retorts and muffle furnaces (<a href="ch21.html">Ch 21</a>).</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch04.html" class="reader-nav-link">← Chapter 4</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch06.html" class="reader-nav-link">Chapter 6 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

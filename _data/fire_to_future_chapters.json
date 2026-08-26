@@ -1,0 +1,474 @@
+[
+  {
+    "type": "front",
+    "num": "",
+    "title": "Introduction — What This Guide Is",
+    "part": "Front matter",
+    "file": "front-matter.html",
+    "label": "Front matter"
+  },
+  {
+    "type": "chapter",
+    "num": 1,
+    "title": "Fire: Making, Keeping, and Engineering Heat",
+    "part": "Part I — Ignition",
+    "file": "ch01.html",
+    "label": "Chapter 1"
+  },
+  {
+    "type": "chapter",
+    "num": 2,
+    "title": "The First Toolkit: Stone, Bone, Antler, and Wood",
+    "part": "Part I — Ignition",
+    "file": "ch02.html",
+    "label": "Chapter 2"
+  },
+  {
+    "type": "chapter",
+    "num": 3,
+    "title": "Cordage, Basketry, Hides, and Textiles",
+    "part": "Part I — Ignition",
+    "file": "ch03.html",
+    "label": "Chapter 3"
+  },
+  {
+    "type": "chapter",
+    "num": 4,
+    "title": "Food Acquisition: Hunting, Fishing, Gathering, Preservation",
+    "part": "Part I — Ignition",
+    "file": "ch04.html",
+    "label": "Chapter 4"
+  },
+  {
+    "type": "chapter",
+    "num": 5,
+    "title": "Pottery: Fired Clay as the First Chemical Product",
+    "part": "Part I — Ignition",
+    "file": "ch05.html",
+    "label": "Chapter 5"
+  },
+  {
+    "type": "chapter",
+    "num": 6,
+    "title": "Shelter and Settlement: Architecture Before Metals",
+    "part": "Part I — Ignition",
+    "file": "ch06.html",
+    "label": "Chapter 6"
+  },
+  {
+    "type": "chapter",
+    "num": 7,
+    "title": "Agriculture: Domestication, Cultivation, Soil, Irrigation",
+    "part": "Part I — Ignition",
+    "file": "ch07.html",
+    "label": "Chapter 7"
+  },
+  {
+    "type": "chapter",
+    "num": 8,
+    "title": "Animals: Husbandry, Transport, and Power",
+    "part": "Part I — Ignition",
+    "file": "ch08.html",
+    "label": "Chapter 8"
+  },
+  {
+    "type": "chapter",
+    "num": 9,
+    "title": "Surplus, Storage, Trade, and Money",
+    "part": "Part II — The Ancient Engine",
+    "file": "ch09.html",
+    "label": "Chapter 9"
+  },
+  {
+    "type": "chapter",
+    "num": 10,
+    "title": "Copper and Bronze — and How to Shorten Their Era",
+    "part": "Part II — The Ancient Engine",
+    "file": "ch10.html",
+    "label": "Chapter 10"
+  },
+  {
+    "type": "chapter",
+    "num": 11,
+    "title": "Writing, Record Keeping, and Bureaucracy",
+    "part": "Part II — The Ancient Engine",
+    "file": "ch11.html",
+    "label": "Chapter 11"
+  },
+  {
+    "type": "chapter",
+    "num": 12,
+    "title": "Numbers, Geometry, and Practical Mathematics",
+    "part": "Part II — The Ancient Engine",
+    "file": "ch12.html",
+    "label": "Chapter 12"
+  },
+  {
+    "type": "chapter",
+    "num": 13,
+    "title": "Mining and Quarrying",
+    "part": "Part II — The Ancient Engine",
+    "file": "ch13.html",
+    "label": "Chapter 13"
+  },
+  {
+    "type": "chapter",
+    "num": 14,
+    "title": "Iron Without Tears: Bloomery, Forging, Case Hardening",
+    "part": "Part II — The Ancient Engine",
+    "file": "ch14.html",
+    "label": "Chapter 14"
+  },
+  {
+    "type": "chapter",
+    "num": 15,
+    "title": "Mechanical Primitives: Wheel, Axle, Screw, Gear, Bearing",
+    "part": "Part II — The Ancient Engine",
+    "file": "ch15.html",
+    "label": "Chapter 15"
+  },
+  {
+    "type": "chapter",
+    "num": 16,
+    "title": "Water and Wind: Mills and Pre-Fuel Prime Movers",
+    "part": "Part II — The Ancient Engine",
+    "file": "ch16.html",
+    "label": "Chapter 16"
+  },
+  {
+    "type": "chapter",
+    "num": 17,
+    "title": "Practical Chemistry I: Lime, Mortar, Glass, Salt, Soap, Alcohol, Distillation",
+    "part": "Part II — The Ancient Engine",
+    "file": "ch17.html",
+    "label": "Chapter 17"
+  },
+  {
+    "type": "chapter",
+    "num": 18,
+    "title": "Paper and the Printing Press",
+    "part": "Part III — The Acceleration",
+    "file": "ch18.html",
+    "label": "Chapter 18"
+  },
+  {
+    "type": "chapter",
+    "num": 19,
+    "title": "Optics: Lenses to Telescopes and Microscopes",
+    "part": "Part III — The Acceleration",
+    "file": "ch19.html",
+    "label": "Chapter 19"
+  },
+  {
+    "type": "chapter",
+    "num": 20,
+    "title": "Precision Instruments and the Scientific Method",
+    "part": "Part III — The Acceleration",
+    "file": "ch20.html",
+    "label": "Chapter 20"
+  },
+  {
+    "type": "chapter",
+    "num": 21,
+    "title": "Black Powder and Industrial Chemistry",
+    "part": "Part III — The Acceleration",
+    "file": "ch21.html",
+    "label": "Chapter 21"
+  },
+  {
+    "type": "chapter",
+    "num": 22,
+    "title": "Coke Smelting and Cheap Iron",
+    "part": "Part III — The Acceleration",
+    "file": "ch22.html",
+    "label": "Chapter 22"
+  },
+  {
+    "type": "chapter",
+    "num": 23,
+    "title": "Steam Engines Done Right",
+    "part": "Part III — The Acceleration",
+    "file": "ch23.html",
+    "label": "Chapter 23"
+  },
+  {
+    "type": "chapter",
+    "num": 24,
+    "title": "Mass Transport: Canals, Roads, Railways",
+    "part": "Part III — The Acceleration",
+    "file": "ch24.html",
+    "label": "Chapter 24"
+  },
+  {
+    "type": "chapter",
+    "num": 25,
+    "title": "Electricity I: Charge, Batteries, Electromagnetism, Telegraph",
+    "part": "Part III — The Acceleration",
+    "file": "ch25.html",
+    "label": "Chapter 25"
+  },
+  {
+    "type": "chapter",
+    "num": 26,
+    "title": "Electricity II: Dynamos, Motors, Lighting, Grids",
+    "part": "Part III — The Acceleration",
+    "file": "ch26.html",
+    "label": "Chapter 26"
+  },
+  {
+    "type": "chapter",
+    "num": 27,
+    "title": "Steel at Scale and Reinforced Concrete",
+    "part": "Part IV — The Modern Stack",
+    "file": "ch27.html",
+    "label": "Chapter 27"
+  },
+  {
+    "type": "chapter",
+    "num": 28,
+    "title": "Petroleum: Drilling, Refining, Cracking",
+    "part": "Part IV — The Modern Stack",
+    "file": "ch28.html",
+    "label": "Chapter 28"
+  },
+  {
+    "type": "chapter",
+    "num": 29,
+    "title": "Internal Combustion: Cars, Tractors, Ships",
+    "part": "Part IV — The Modern Stack",
+    "file": "ch29.html",
+    "label": "Chapter 29"
+  },
+  {
+    "type": "chapter",
+    "num": 30,
+    "title": "Germ Theory, Sanitation, and Water Treatment",
+    "part": "Part IV — The Modern Stack",
+    "file": "ch30.html",
+    "label": "Chapter 30"
+  },
+  {
+    "type": "chapter",
+    "num": 31,
+    "title": "Clinical Medicine: Anesthesia, Vaccines, Antibiotics",
+    "part": "Part IV — The Modern Stack",
+    "file": "ch31.html",
+    "label": "Chapter 31"
+  },
+  {
+    "type": "chapter",
+    "num": 32,
+    "title": "Feeding Billions: Haber-Bosch, Breeding, Mechanized Farming",
+    "part": "Part IV — The Modern Stack",
+    "file": "ch32.html",
+    "label": "Chapter 32"
+  },
+  {
+    "type": "chapter",
+    "num": 33,
+    "title": "Flight: From Gliders to Jets",
+    "part": "Part IV — The Modern Stack",
+    "file": "ch33.html",
+    "label": "Chapter 33"
+  },
+  {
+    "type": "chapter",
+    "num": 34,
+    "title": "Radio, Radar, Television: Vacuum-Tube Electronics",
+    "part": "Part IV — The Modern Stack",
+    "file": "ch34.html",
+    "label": "Chapter 34"
+  },
+  {
+    "type": "chapter",
+    "num": 35,
+    "title": "Transistors and Integrated Circuits",
+    "part": "Part IV — The Modern Stack",
+    "file": "ch35.html",
+    "label": "Chapter 35"
+  },
+  {
+    "type": "chapter",
+    "num": 36,
+    "title": "Computers and Software",
+    "part": "Part IV — The Modern Stack",
+    "file": "ch36.html",
+    "label": "Chapter 36"
+  },
+  {
+    "type": "chapter",
+    "num": 37,
+    "title": "Nuclear Fission: Reactors and Radioisotopes",
+    "part": "Part IV — The Modern Stack",
+    "file": "ch37.html",
+    "label": "Chapter 37"
+  },
+  {
+    "type": "chapter",
+    "num": 38,
+    "title": "Polymers and Advanced Materials",
+    "part": "Part V — Planetary Dominance",
+    "file": "ch38.html",
+    "label": "Chapter 38"
+  },
+  {
+    "type": "chapter",
+    "num": 39,
+    "title": "Rocketry and Access to Orbit",
+    "part": "Part V — Planetary Dominance",
+    "file": "ch39.html",
+    "label": "Chapter 39"
+  },
+  {
+    "type": "chapter",
+    "num": 40,
+    "title": "Satellites: Communications, Positioning, Observation",
+    "part": "Part V — Planetary Dominance",
+    "file": "ch40.html",
+    "label": "Chapter 40"
+  },
+  {
+    "type": "chapter",
+    "num": 41,
+    "title": "Fiber Optics and Global Telephony",
+    "part": "Part V — Planetary Dominance",
+    "file": "ch41.html",
+    "label": "Chapter 41"
+  },
+  {
+    "type": "chapter",
+    "num": 42,
+    "title": "The Internet and Data Centers",
+    "part": "Part V — Planetary Dominance",
+    "file": "ch42.html",
+    "label": "Chapter 42"
+  },
+  {
+    "type": "chapter",
+    "num": 43,
+    "title": "Energy Mastery: Solar, Wind, Grid Storage, Fusion",
+    "part": "Part V — Planetary Dominance",
+    "file": "ch43.html",
+    "label": "Chapter 43"
+  },
+  {
+    "type": "chapter",
+    "num": 44,
+    "title": "Biotechnology: Genetics to CRISPR and mRNA",
+    "part": "Part V — Planetary Dominance",
+    "file": "ch44.html",
+    "label": "Chapter 44"
+  },
+  {
+    "type": "chapter",
+    "num": 45,
+    "title": "Automation and Robotics",
+    "part": "Part V — Planetary Dominance",
+    "file": "ch45.html",
+    "label": "Chapter 45"
+  },
+  {
+    "type": "chapter",
+    "num": 46,
+    "title": "Machine Intelligence",
+    "part": "Part V — Planetary Dominance",
+    "file": "ch46.html",
+    "label": "Chapter 46"
+  },
+  {
+    "type": "chapter",
+    "num": 47,
+    "title": "The Invisible Machine: Institutions, Law, Finance, Logistics, Statistics",
+    "part": "Part V — Planetary Dominance",
+    "file": "ch47.html",
+    "label": "Chapter 47"
+  },
+  {
+    "type": "chapter",
+    "num": 48,
+    "title": "Fortification and Siegecraft",
+    "part": "Part VI — The Martial Thread",
+    "file": "ch48.html",
+    "label": "Chapter 48"
+  },
+  {
+    "type": "chapter",
+    "num": 49,
+    "title": "Gunpowder Weapons: Matchlock to Machine Gun",
+    "part": "Part VI — The Martial Thread",
+    "file": "ch49.html",
+    "label": "Chapter 49"
+  },
+  {
+    "type": "chapter",
+    "num": 50,
+    "title": "Naval Power: Galleys to Missile Age",
+    "part": "Part VI — The Martial Thread",
+    "file": "ch50.html",
+    "label": "Chapter 50"
+  },
+  {
+    "type": "chapter",
+    "num": 51,
+    "title": "The Nation-in-Arms: Drill, Staffs, Logistics, and Industrial War",
+    "part": "Part VI — The Martial Thread",
+    "file": "ch51.html",
+    "label": "Chapter 51"
+  },
+  {
+    "type": "appendix",
+    "num": 51,
+    "title": "The Critical Path",
+    "part": "Appendices",
+    "file": "appendix-a.html",
+    "label": null
+  },
+  {
+    "type": "appendix",
+    "num": 51,
+    "title": "Catalog of Dead Ends",
+    "part": "Appendices",
+    "file": "appendix-b.html",
+    "label": null
+  },
+  {
+    "type": "appendix",
+    "num": 51,
+    "title": "Catalog of Permissible Jumps",
+    "part": "Appendices",
+    "file": "appendix-c.html",
+    "label": null
+  },
+  {
+    "type": "appendix",
+    "num": 51,
+    "title": "The Minimum Viable Industrial Stack",
+    "part": "Appendices",
+    "file": "appendix-d.html",
+    "label": null
+  },
+  {
+    "type": "appendix",
+    "num": 51,
+    "title": "Master Timeline & Dependency Table",
+    "part": "Appendices",
+    "file": "appendix-e.html",
+    "label": null
+  },
+  {
+    "type": "appendix",
+    "num": 51,
+    "title": "Glossary",
+    "part": "Appendices",
+    "file": "appendix-f.html",
+    "label": null
+  },
+  {
+    "type": "appendix",
+    "num": 51,
+    "title": "Key Thresholds & Critical Numbers",
+    "part": "Appendices",
+    "file": "appendix-g.html",
+    "label": null
+  }
+]

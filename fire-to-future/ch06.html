@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 6: Shelter and Settlement: Architecture Before Metals — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 6 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch06_shelter-chapter-6-shelter-and-settlement-architecture-before-metals">Chapter 6: Shelter and Settlement: Architecture Before Metals</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> prehistory → medieval techniques · <strong>Difficulty:</strong> low–mid
+<br><strong>Requires:</strong> <a href="ch02.html">Ch 2</a> (timber tools), <a href="ch03.html">Ch 3</a> (lashings), <a href="ch05.html">Ch 5</a> (brick optional) · <br><strong>Unlocks:</strong> <a href="ch07.html">Ch 7</a> barns/granaries, <a href="ch09.html">Ch 9</a> settlements, <a href="ch16.html">Ch 16</a> mill foundations</p>
+</blockquote>
+<p>Shelter converts climate into survivability and stored goods into lasting goods. The engineering problem never changes across the book: keep loads traveling safely to the ground, keep water out, keep heat in, keep pests away from food. Solve it with whatever material is densest on site.</p>
+<h2 id="ch06_shelter-61-siting-rules">6.1 Siting Rules</h2>
+<ol>
+<li><strong>Water nearby but not adjacent:</strong> above flood stage, within carry distance; check flood debris lines, not just current weather.</li>
+<li><strong>Aspect:</strong> south-facing slope (northern hemisphere) gains winter sun and sheds cold-air pooling; avoid valley floors that collect frost and fog.</li>
+<li><strong>Drainage first:</strong> swales and ditches around foundations cost an afternoon and prevent rot and malaria habitat alike (<a href="ch30.html">Ch 30</a>).</li>
+<li><strong>Materials within haul range:</strong> every kilometer of log-hauling multiplies labor; build near materials unless defending something strategic.</li>
+<li><strong>Defensibility</strong> only after water and warmth are secured — a fortress without a spring is a siege gift to attackers.</li>
+</ol>
+<h2 id="ch06_shelter-62-the-structural-menu">6.2 The Structural Menu</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>System</th>
+<th>Material basis</th>
+<th>Strengths</th>
+<th>Watch-outs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Post-and-lintel frame</td>
+<td>timber</td>
+<td>fastest, flexible, repairable</td>
+<td>posts rot at grade — set on stones</td>
+</tr>
+<tr>
+<td>Wattle-and-daub infill</td>
+<td>woven sticks + clay daub</td>
+<td>cheap walls, decent insulation</td>
+<td>must be roofed quickly; daub dissolves if unwetted-proofed</td>
+</tr>
+<tr>
+<td>Cob / adobe</td>
+<td>clay-rich earth + fiber</td>
+<td>thermal mass, no special tools</td>
+<td>vulnerable to rain — big eaves, raised stem walls mandatory</td>
+</tr>
+<tr>
+<td>Rammed earth</td>
+<td>damp earth compacted in forms</td>
+<td>very durable walls, fireproof</td>
+<td>formwork labor; needs many hands</td>
+</tr>
+<tr>
+<td>Dry-stone corbelling</td>
+<td>stacked flat stones</td>
+<td>zero timber needed, lasts millennia</td>
+<td>slow; lintel spans limited</td>
+</tr>
+<tr>
+<td>Sod / turf</td>
+<td>prairie sod bricks</td>
+<td>instant insulation in treeless plains</td>
+<td>leaks during settling; roof load heavy</td>
+</tr>
+<tr>
+<td>Thatch roof</td>
+<td>reed/straw bundles</td>
+<td>excellent insulation, easy repair</td>
+<td>fire risk — chimney discipline from <a href="ch01.html">Ch 1</a></td>
+</tr>
+</tbody>
+</table></div>
+<p>Universal principles: <strong>roof pitch ≥45°</strong> sheds rain and snow load; <strong>overhangs protect earth walls</strong>; <strong>foundations interrupt capillary moisture</strong> (a gravel trench works as well as mortar); <strong>thermal mass inside insulation</strong> stabilizes temperature swings.</p>
+<h2 id="ch06_shelter-63-heat-and-smoke-management">6.3 Heat and Smoke Management</h2>
+<p>The open central hearth with a smoke hole is the default: radiant heat warms bodies and mass, smoke preserves the thatch and repels insects, but it means smoky eyes and blackened roofs. Upgrades in order:</p>
+<ol>
+<li><strong>Raised hearth stone</strong> (safer, radiates longer).</li>
+<li><strong>Bellows-backed flue niche</strong> directing draft (<a href="ch01.html">Ch 1</a>).</li>
+<li><strong>True chimney</strong> — clay-lined wooden or stone flues transform indoor air quality; historically delayed by centuries purely by habit, not difficulty. Build it as soon as masonry exists.</li>
+</ol>
+<p>Insulation doctrine: dead air space is the insulator. Double-layered walls, straw-stuffed panels, turf banks against north faces, and low ceilings in living rooms cut fuel demand by half or more — fuel arithmetic from <a href="ch01.html">Ch 1</a> compounds annually.</p>
+<h2 id="ch06_shelter-64-granaries-barns-and-food-infrastructure">6.4 Granaries, Barns, and Food Infrastructure</h2>
+<p>Settlement architecture is mostly <em>food</em> architecture:</p>
+<ul>
+<li><strong>Granaries on stilts</strong> with smooth clay-slip collars on the posts (rodents can't grip), ventilated floors, and tight lids — the physical guarantee behind <a href="ch04.html">Ch 4</a>'s surplus threshold.</li>
+<li><strong>Root cellars:</strong> buried, ventilated pits hold root crops at stable 2–8 °C through winter — refrigeration before refrigeration.</li>
+<li><strong>Smokehouses</strong> co-located with slaughter schedules (<a href="ch04.html">Ch 4</a>).</li>
+<li><strong>Barns sized to herds</strong>, with manure gutters feeding the fertility loop (<a href="ch07.html">Ch 7</a>).</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> when stored seed plus protected housing survives a worst-case winter with margin, population growth becomes a planning variable rather than a gamble — the pivot point this entire Part I ladder was built to reach.</p>
+<h2 id="ch06_shelter-65-settlement-layout">6.5 Settlement Layout</h2>
+<p>Compact clusters beat scattered homesteads for defense and shared infrastructure (wells, mills, granaries). Reserve a central open ground for markets and assemblies — the physical seed of governance (<a href="ch47.html">Ch 47</a>). Keep livestock downwind/downslope of dwellings and wells; the germ theory payoff comes much later (<a href="ch30.html">Ch 30</a>), but empirical "smelly places sicken" rules save lives centuries earlier.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> monumental construction before functional capacity. Pyramids and temples are downstream luxuries; every hour spent on prestige masonry before granaries, mills, and workshops is borrowed from survival.</p>
+<h2 id="ch06_shelter-67-the-built-record">6.7 The Built Record</h2>
+<p>Shelter history has spectacular surviving data points:</p>
+<ul>
+<li><strong>Mezhirich (Ukraine, ~15 ka):</strong> dwellings framed in stacked mammoth bones — architecture built from megafauna leftovers at glacial margins.</li>
+<li><strong>Dolní Věstonice (~29 ka):</strong> mammoth-bone huts AND a fired-clay kiln feature associated with ceramic figurines (one famously cracked in firing) — art, shelter, and pyrotechnology co-located millennia before pottery vessels (<a href="ch05.html">Ch 5</a>).</li>
+<li><strong>Lepenski Vir (Danube Gorges, ~9500–6000 BP):</strong> trapezoidal house floors oriented toward the river — geometric planning in stone-age settlements.</li>
+<li><strong>Çatalhöyük (~7100–6000 BCE):</strong> several thousand people packed into mudbrick houses entered through roof hatches — no streets, no doors at grade; density, shared walls, and rooftop life long before "city" is supposed to exist. Grain storage bins inside houses; wall paintings document daily life.</li>
+<li>Mesopotamian mudbrick standardization (flat-molded bricks of regular size) made construction administrable — labor crews could be fed, tasked, and audited (<a href="ch11.html">Ch 11</a>).</li>
+</ul>
+<p>One health footnote historians of housing emphasize: biomass smoke indoors remains among the largest documented household hazards — recent WHO/IHME estimates attribute roughly 2–3 million premature deaths annually to household air pollution even today. Chimney adoption (<a href="#ch06_shelter-63-heat-and-smoke-management">§6.3</a>) was always public-health infrastructure, not comfort alone.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch05.html" class="reader-nav-link">← Chapter 5</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch07.html" class="reader-nav-link">Chapter 7 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

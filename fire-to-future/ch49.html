@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 49: Gunpowder Weapons: Matchlock to Machine Gun — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 49 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch49_gunpowder_weapons-chapter-49-gunpowder-weapons-matchlock-to-machine-gun">Chapter 49: Gunpowder Weapons: Matchlock to Machine Gun</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 10th c. China → 20th c. automatic weapons · <strong>Difficulty:</strong> mid–high
+<br><strong>Requires:</strong> <a href="ch21.html">Ch 21</a> powder, <a href="ch14.html">Ch 14</a>/<a href="ch27.html">27</a> metallurgy, <a href="ch15.html">Ch 15</a> machining · <br><strong>Unlocks:</strong> <a href="ch51.html">Ch 51</a> industrial war, state formation pressures</p>
+</blockquote>
+<p>Gunpowder weapons are chemistry (energy release), mechanics (confining and directing it), and precision manufacturing (making parts interchangeable under battlefield tolerances) fused into one artifact. Their lineage drove interchangeable-parts manufacture, machine-tool development, and ballistics science as hard as any civilian demand — several chapters of this book trace directly back to arms contracts. This chapter covers the hardware at textbook depth; doctrine and organization live in <a href="ch51.html">Ch 51</a>.</p>
+<h2 id="ch49_gunpowder_weapons-491-origins-and-diffusion">49.1 Origins and Diffusion</h2>
+<p>Chinese alchemists experimenting with saltpeter mixtures produced incendiary and explosive preparations by the 9th century; the <em>Wujing Zongyao</em> (1044) records the earliest surviving gunpowder formulas — including "poisonous smoke" bombs for siege defense. The critical invention — confining the charge behind a projectile in a tube to use the gas pressure mechanically — appears in Chinese fire-lances (bamboo/tube flame-throwers evolving into projectile launchers) and metal hand cannons by the late 13th century (the Heilongjiang hand cannon, dated 1288, is the earliest securely dated firearm). Diffusion westward along Mongol exchange routes brought gunpowder weapons to Europe and the Islamic world within a generation or two of each other (~1320s); the first European manuscript depiction of a cannon dates to 1326–27.</p>
+<h2 id="ch49_gunpowder_weapons-492-small-arms-lineage">49.2 Small Arms Lineage</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Date</th>
+<th>Mechanism</th>
+<th>Rate of fire</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hand cannon</td>
+<td>~1288–1400s</td>
+<td>touch-hole, applied match</td>
+<td>&lt;1 rd/min</td>
+<td>no stock/aiming geometry</td>
+</tr>
+<tr>
+<td>Arquebus/matchlock</td>
+<td>~1400s</td>
+<td>serpentine lever lowers slow-match into pan</td>
+<td>1–2 rd/min</td>
+<td>shoulder stock, trigger — aimable</td>
+</tr>
+<tr>
+<td>Wheellock</td>
+<td>~1500</td>
+<td>spring-spun pyrite wheel sparks</td>
+<td>same</td>
+<td>expensive; cavalry/civilian pistols</td>
+</tr>
+<tr>
+<td>Flintlock</td>
+<td>~1610s–1690 (le Bourgeoys synthesis)</td>
+<td>flint strikes frizzen spark into pan</td>
+<td>2–4 rd/min</td>
+<td>standard for ~200 years</td>
+</tr>
+<tr>
+<td>Percussion cap</td>
+<td>Forsyth 1807 patent; copper caps 1820s</td>
+<td>fulminate detonates on strike</td>
+<td>faster, all-weather</td>
+<td>kills the flint's wet-weather failure mode</td>
+</tr>
+<tr>
+<td>Metallic cartridge</td>
+<td>1850s–60s (Dreyse paper cartridge 1841 precedes; brass cases Boxer/Berdan 1860s)</td>
+<td>self-contained primer+powder+bullet</td>
+<td>enables repeaters</td>
+<td>THE packaging revolution</td>
+</tr>
+</tbody>
+</table></div>
+<p>Tactical arithmetic shaped formations for two centuries: an arquebusier/musketeer needed ~30 seconds per reload while pikes protected him from cavalry; hence <strong>pike-and-shot squares</strong>, then <strong>volley fire by rotation</strong> (Maurice of Nassau's countermarch drills, 1590s — see <a href="ch51.html">Ch 51</a>). The plug bayonet (1670s) then socket bayonet (Vaquette de Gribeauval-era French service; adopted widely ~1700s) let every musket double as a spear, retiring the pike entirely.</p>
+<p>The rifling trade-off defined the era: grooved bores (known since ~1470s German hunting guns) gave range/accuracy but loaded slowly with patched round balls. Solutions arrived in sequence:</p>
+<ol>
+<li><strong>Minié ball (1849):</strong> hollow-based conical bullet expands into grooves on firing — rifle accuracy at musket-loading speed. Crimean War (1853–56) and American Civil War (1861–65) casualty tables reflect it immediately (massed infantry vs rifled muskets at ~400 m = slaughter; Pickett's Charge and similar assaults are the data points).</li>
+<li><strong>Breechloading + metallic cartridge:</strong> Dreyse needle gun (Prussia, adopted 1841, decisive at Königgrätz 1866 vs Austrian muzzle-loaders — prone reloading), Chassepot (France 1866), then bolt-action brass-cartridge rifles (Mauser 71/84, Gewehr 98; Lee-Metford/Lee-Enfield with magazine).</li>
+<li><strong>Smokeless powder (Vielle's Poudre B, 1884):</strong> tripled velocities, cleared battlefields of telltale smoke, enabled smaller-caliber high-velocity cartridges (.303, 7.92×57, 8 mm Lebel) — modern ammunition was born here.</li>
+<li><strong>Semi/full automatic small arms:</strong> Maxim 1884 (recoil-operated machine gun — see §49.5), self-loading pistols (Borchardt/Luger 1893–1900), assault-rifle concept (StG 44, Germany 1943–44 — selective-fire, intermediate 7.92×33 cartridge, mass-produced with stamped parts); AK-47 (Kalashnikov, adopted 1949 — extreme reliability under neglect via loose tolerances and generous clearances); M16 (Armalite/Colt, US 1960s — early 1965 Vietnam jamming crisis traced to powder/propellant change and missing chrome chamber lining; corrected M16A1 became the archetype of direct-impingement small bores).</li>
+</ol>
+<h2 id="ch49_gunpowder_weapons-493-machine-guns-and-the-arithmetic-they-forced">49.3 Machine Guns and the Arithmetic They Forced</h2>
+<ul>
+<li><strong>Gatling (1862):</strong> hand-cranked multi-barrel rotary — reliable but not truly automatic; used sparsely in major-power wars, widely in colonial campaigns.</li>
+<li><strong>Maxim (1884):</strong> recoil energy loads each next round automatically — sustained 500+ rpm changed everything. Colonial battles (Omdurman 1898: British-Egyptian forces with Maxims vs Mahdist massed infantry — lopsided casualties recorded on both sides' returns) advertised the effect; European general staffs absorbed it more slowly than they should have (pre-1914 doctrines still emphasized offensive spirit over fire discipline — a documented planning failure, not a mystery).</li>
+<li><strong>WWI integration:</strong> belt-fed water-cooled Vickers/MG08s in interlocking defensive zones produced the tactical stalemate of 1915–17 (July 1, 1916 Somme first day: ~57,000 British casualties, the largest single-day loss in British Army history). Counters evolved: creeping barrages, infiltration tactics (Hutier/Stoßtruppen 1917–18), tanks (<a href="#ch49_gunpowder_weapons-494-artillery-and-armor">below</a>), and light automatics (Lewis gun, BAR, MG08/15) moving firepower to the platoon.</li>
+<li><strong>WWII maturation:</strong> air-cooled squad weapons (Bren, DP-28), the universal-machine-gun concept (MG42, ~1,200 rpm, barrel-change system), and combined-arms integration that finally gave maneuver an answer to the gun that had frozen 1914.</li>
+</ul>
+<h2 id="ch49_gunpowder_weapons-494-artillery-and-armor">49.4 Artillery and Armor</h2>
+<p>Artillery, not rifles, inflicted most combat deaths of WWI (~60 % of casualties by most tabulations):</p>
+<ul>
+<li>Smoothbore spherical shot gave way to explosive shells usable against ships and earthworks (Paixhans shell guns, 1820s — demonstrated against wooden fleets at Navarino 1827/Sinope 1853, triggering ironclads <a href="ch50.html">Ch 50</a>).</li>
+<li>Rifled breechloaders (Armstrong's wrought-iron built-up guns 1855; Krupp cast-steel breechloaders winning adoption through the 1860s) extended ranges to kilometers; Franco-Prussian War 1870–71 showed German artillery preparation deciding battles (Sedan).</li>
+<li><strong>French 75 mm Model 1897:</strong> hydro-pneumatic recoil returned the tube to battery without re-laying — aimed rapid fire ~15 rounds/min; the pattern (recoil system + quick-fusing shells + shield for crew) defines field artillery ever since.</li>
+<li>Indirect fire mathematics: WWI required firing from beyond visual range — sound ranging (flash spotting + microphone time-difference triangulation), survey-controlled gunnery, meteorological corrections, predicted barrages. Counter-battery duels became applied physics contests (<a href="ch20.html">Ch 20</a> culture militarized).</li>
+<li>Rockets returned as saturation artillery (Katyusha BM-13, 1941 — cheap rails, devastating area effect, terrifying signature) leading to modern MLRS/HIMARS-class systems with guided rockets (<a href="ch39.html">Ch 39</a>'s lineage weaponized).</li>
+<li><strong>Tanks:</strong> born from the 1915–16 deadlock (Landships Committee; Little Willie prototype Sept 1915, Mark I debuted Somme Sept 1916; Cambrai Nov 1917 showed mass armor breakthrough before German recovery tactics caught up). Interwar theorists (Fuller, Liddell Hart in Britain; Guderian synthesizing radio-equipped panzer divisions in <em>Achtung – Panzer!</em> 1937; Soviet Deep Battle theorists Triandafillov/Tukhachevsky) wrote the doctrine; 1939–41 executed it. WWII design dialectic — sloped armor/diesel/wide tracks T-34 (1940) vs heavy Tiger/Panther quality vs Sherman/T-34 quantity-plus-logistics (production arithmetic: ~49k Shermans, ~55k T-34s vs ~1,350 Tigers) — remains engineering economics' favorite case study. Postwar main battle tank synthesis (Centurion, T-54/55, Leopard 2, M1 Abrams 1980 with gas-turbine powerpack), composite/reactive armor, and the ATGM counter-cycle (RPG-7 ubiquitous since 1961; wire-guided TOW 1970s; top-attack Javelin 1996+) continue the dialogue; drone-vs-armor exchanges (Nagorno-Karabakh 2020; Ukraine 2022–) currently rewrite it again.</li>
+</ul>
+<h2 id="ch49_gunpowder_weapons-495-ballistics-science">49.5 Ballistics Science</h2>
+<p>War paid for the physics:</p>
+<ul>
+<li><strong>Benjamin Robins (1742)</strong> invented the ballistic pendulum, measuring muzzle velocities for the first time — experimental ballistics begins here; his <em>New Principles of Gunnery</em> quantified air resistance effects Euler then formalized.</li>
+<li>Supersonic drag studies, wind tunnels, and exterior-ballistics tables (cradle-to-war dual-use with <a href="ch33.html">Ch 33</a>) grew through the 19th c.; WWI/II made ballistics computation a computing-industry driver (ENIAC's original job was artillery firing tables — <a href="ch36.html">Ch 36</a>).</li>
+<li>Terminal ballistics and wound ballistics founded modern trauma medicine's dataset (<a href="ch31.html">Ch 31</a> — Larrey's triage, Korean-War mobile surgical hospitals).</li>
+</ul>
+<h2 id="ch49_gunpowder_weapons-496-what-this-chapter-means-for-the-rebuild-plan">49.6 What This Chapter Means for the Rebuild Plan</h2>
+<p>A rebuilding civilization inherits the whole lineage as knowledge. Sequencing note for Appendix A readers: powder chemistry arrives at <a href="ch21.html">Ch 21</a> primarily for mining; converting it into firearms requires precision boring and standardized cartridges — i.e., the <a href="ch15.html">machine-tool base of Ch 15</a> and the steel of <a href="ch22.html">Ch 22</a>/<a href="ch27.html">27</a>. Arms production historically PAID for those very capabilities (interchangeable parts originated in armories: le Gribéval France 1765+, Springfield/Harpers Ferry US 1810s–20s with machinists like John H. Hall whose gauge-driven milling practice spread industry-wide). Expect the same feedback loop: military demand funds your precision industries, which serve everything else afterward.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch48.html" class="reader-nav-link">← Chapter 48</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch50.html" class="reader-nav-link">Chapter 50 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

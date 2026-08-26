@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appendix D — The Minimum Viable Industrial Stack — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Appendix D of 7</span>
+</div>
+<main class="reader-content">
+<h1 id="appendix_D_minimum_viable_stack-appendix-d-the-minimum-viable-industrial-stack">Appendix D — The Minimum Viable Industrial Stack</h1>
+<blockquote class="meta">
+<p>The ~16 load-bearing technologies for PLANETARY DOMINANCE — not comfort. Each entry: function, gated-by, gates, and collapse consequence.</p>
+</blockquote>
+<h2 id="appendix_D_minimum_viable_stack-d0-what-dominating-a-planet-means-operationally">D.0 What "Dominating a Planet" Means Operationally</h2>
+<p>Not flags on maps. Five measurable capabilities:</p>
+<ol>
+<li><strong>Energy mastery</strong> — per-capita power at industrial rates, resilient to single failures (<a href="ch43.html">Ch 43</a>).</li>
+<li><strong>Food security</strong> — buffer stocks + yield stability across bad years (<a href="ch32.html">Ch 32</a>).</li>
+<li><strong>Global communication/navigation</strong> — real-time coordination anywhere on the surface (<a href="ch40.html">Ch 40</a>, <a href="ch42.html">42</a>).</li>
+<li><strong>Space access</strong> — the high ground; observation and relay beyond atmosphere (<a href="ch39.html">Ch 39</a>).</li>
+<li><strong>Self-repairing knowledge institutions</strong> — error-correcting governance that outlives individuals (<a href="ch47.html">Ch 47</a>).</li>
+</ol>
+<p>The stack below delivers those five. Lose any node and the ceiling drops accordingly.</p>
+<h2 id="appendix_D_minimum_viable_stack-d1-the-stack">D.1 The Stack</h2>
+<p><strong>1. Fire &amp; heat control</strong> (<a href="ch01.html">Ch 1</a>)
+Function: ignition on demand + engineered temperatures.
+Gates: everything downstream that's hot.
+Collapse consequence: no metallurgy, no chemistry, no glass, no ceramics — instant descent to stone-age ceilings.</p>
+<p><strong>2. Agriculture + storage</strong> (<a href="ch07.html">Ch 7</a>, <a href="ch06.html">6</a>)
+Function: calorie surplus beyond subsistence, preserved through bad seasons.
+Gated by: fire, shelter craft.
+Gates: population density → specialists → everything.
+Collapse: 90 %+ of people return to food production; science/industry starve within a decade.</p>
+<p><strong>3. Writing + positional numerals</strong> (<a href="ch11.html">Ch 11</a>, <a href="ch12.html">12</a>)
+Function: external memory with error correction; algorithmic arithmetic.
+Collapse: knowledge reverts to oral decay curves; engineering math impossible; institutions forget their own rules between generations.</p>
+<p><strong>4. Kiln ceramics</strong> (<a href="ch05.html">Ch 5</a>)
+Function: first controlled-temperature industry; storage vessels; crucibles/tuyères.
+Collapse: metallurgy and chemistry lose their containers; surplus storage fails rodent-proofing.</p>
+<p><strong>5. Iron→steel metallurgy</strong> (<a href="ch14.html">Ch 14</a>, <a href="ch22.html">22</a>, <a href="ch27.html">27</a>)
+Function: abundant strong structural metal at falling cost.
+Collapse: machines, rails, frames, engines all revert to wood/stone limits; energy infrastructure shrinks to charcoal geography.</p>
+<p><strong>6. Mechanical power: water/wind mills → engines</strong> (<a href="ch16.html">Ch 16</a>, <a href="ch23.html">23</a>, <a href="ch29.html">29</a>)
+Function: non-muscle work at kW–MW scale, sited freely once fuel-fired.
+Collapse: labor scarcity caps production; mines flood; transport returns to animal speeds.</p>
+<p><strong>7. Printing + mass literacy</strong> (<a href="ch18.html">Ch 18</a>)
+Function: information cost collapse + exact-copy fidelity including diagrams.
+Collapse: knowledge transmission re-corrupts per copy; science loses its cumulative character; literacy stays elite.</p>
+<p><strong>8. Precision measurement culture</strong> (<a href="ch20.html">Ch 20</a>)
+Function: clocks/balances/scales/standards + method as institutional habit.
+Collapse: interchangeability dies; experiments stop replicating; trade disputes explode over measures; science stalls at natural-history level.</p>
+<p><strong>9. Industrial chemistry: acids/alkalis/explosives</strong> (<a href="ch21.html">Ch 21</a>)
+Function: mining productivity, textile processing, fertilizer precursor industry.
+Collapse: mining slows 10×; fertilizers vanish (see node 12); sanitation chemistry (chlorine) unavailable.</p>
+<p><strong>10. Electricity generation + distribution</strong> (<a href="ch25.html">Ch 25</a>, <a href="ch26.html">26</a>)
+Function: power as universal utility; motors/lighting/electrolysis enabled.
+Collapse: factories revert to line-shafting; cities go dark at dusk; electrolysis industries (aluminum, chlor-alkali) vanish; computing impossible at scale.</p>
+<p><strong>11. Sanitation + germ theory</strong> (<a href="ch30.html">Ch 30</a>)
+Function: cities survivable; epidemic cycles broken.
+Collapse: urban mortality reverts; megacities become death traps; medicine loses its laboratory base.</p>
+<p><strong>12. Synthetic nitrogen fixation</strong> (<a href="ch32.html">Ch 32</a>)
+Function: breaks agriculture's ancient nitrogen ceiling (~half of humanity's food nitrogen).
+Collapse: global food output falls ~30–50 % within seasons; famine politics return permanently until rebuilt.</p>
+<p><strong>13. Semiconductors + computing</strong> (<a href="ch35.html">Ch 35</a>, <a href="ch36.html">36</a>)
+Function: thought automation substrate; control systems for everything modern.
+Collapse: logistics, grids, aircraft, communications all degrade to electromechanical era; AI/biotech chapters close entirely.</p>
+<p><strong>14. Orbital launch + satellites</strong> (<a href="ch39.html">Ch 39</a>, <a href="ch40.html">40</a>)
+Function: navigation, observation, communication from above atmosphere.
+Collapse: GPS-dependent systems (aviation, banking timestamps, grid sync) degrade; weather warning reverts to guesswork; planetary dominance demotes back to regional power status.</p>
+<p><strong>15. Global network fabric</strong> (<a href="ch41.html">Ch 41</a>, <a href="ch42.html">42</a>)
+Function: real-time coordination layer for science/commerce/governance.
+Collapse: collaboration returns to letter-speed; distributed knowledge systems fragment; this book becomes unsharable.</p>
+<p><strong>16. The institutional layer</strong> (<a href="ch47.html">Ch 47</a>)
+Money integrity, double-entry accounting, joint-stock finance, insurance, patent bargain, scientific societies, statistics, containerized logistics, contract law.
+Collapse: every physical ladder above stalls at trust-radius scale. This is the ONLY node whose failure alone can end the civilization — hardware without institutions is loot waiting for a warlord.</p>
+<p><strong>Defense capability note:</strong> military technology is not a separate node because it is DERIVATIVE — steel (5), power (6), chemistry (9), electronics (13), and institutions (16) jointly produce whatever force a civilization needs. <a href="ch48.html">Part VI</a> documents the lineage; this stack produces its inputs. Armament without nodes 1–16 is impossible; with them, it follows.</p>
+<h2 id="appendix_D_minimum_viable_stack-d2-the-8020-audit-if-you-can-fund-only-five">D.2 The 80/20 Audit — If You Can Fund Only Five</h2>
+<ol>
+<li><strong>Agriculture + storage (node 2)</strong> — everything human starts with calories.</li>
+<li><strong>Writing + numerals (node 3)</strong> — memory and arithmetic compound all future effort.</li>
+<li><strong>Iron/steel (node 5)</strong> — the material backbone of tools, energy, construction.</li>
+<li><strong>Electricity (node 10)</strong> — the power universal solvent for every modern capability.</li>
+<li><strong>Institutional layer (node 16)</strong> — the multiplier deciding whether any capability survives contact with human nature.</li>
+</ol>
+<p>Justification: nodes 1, 4, 6, 7, 8 rebuild fastest organically once 1–5 exist; nodes 9–15 are expensive but derivative. The five above are the ones civilizations have historically failed to re-establish quickly once lost.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="appendix-c.html" class="reader-nav-link">← Appendix C</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="appendix-e.html" class="reader-nav-link">Appendix E →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appendix F — Glossary — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Appendix F of 7</span>
+</div>
+<main class="reader-content">
+<h1 id="appendix_F_glossary-appendix-f-glossary">Appendix F — Glossary</h1>
+<blockquote class="meta">
+<p>~100 terms, alphabetical. Chapter references point to first substantive use.</p>
+</blockquote>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>Ch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alloy</td>
+<td>Metal deliberately mixed with other elements for property control</td>
+<td><a href="ch10.html">10</a></td>
+</tr>
+<tr>
+<td>Amortization</td>
+<td>Spreading an asset's cost over its useful life in accounts</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Annealing</td>
+<td>Heating and slow cooling to soften metal and relieve stress</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>Antifragility</td>
+<td>Property of gaining strength from stressors rather than merely surviving them</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Arbitrage</td>
+<td>Profiting from price differences of the same asset across markets</td>
+<td><a href="ch09.html">9</a></td>
+</tr>
+<tr>
+<td>Armature</td>
+<td>Rotating coil assembly of a motor/generator</td>
+<td><a href="ch26.html">26</a></td>
+</tr>
+<tr>
+<td>Band gap</td>
+<td>Energy range electrons can't occupy; separates conductors/semiconductors/insulators</td>
+<td><a href="ch35.html">35</a></td>
+</tr>
+<tr>
+<td>Baseload</td>
+<td>Minimum continuous power demand a grid must always supply</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+<tr>
+<td>Bellows</td>
+<td>Collapsible air pump forcing draft into fires/furnaces</td>
+<td><a href="ch01.html">1</a></td>
+</tr>
+<tr>
+<td>Bessemer process</td>
+<td>Steelmaking by blowing air through molten pig iron to burn out carbon</td>
+<td><a href="ch27.html">27</a></td>
+</tr>
+<tr>
+<td>Bloomery</td>
+<td>Furnace producing spongy iron bloom below iron's melting point</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>Bond (finance)</td>
+<td>Tradeable debt instrument paying interest over fixed term</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Capacitance</td>
+<td>Charge stored per volt across plates; Leyden jar property</td>
+<td><a href="ch25.html">25</a></td>
+</tr>
+<tr>
+<td>Carnot efficiency</td>
+<td>Maximum heat-engine efficiency: 1 − T_cold/T_hot</td>
+<td><a href="ch23.html">23</a></td>
+</tr>
+<tr>
+<td>Catalyst</td>
+<td>Substance accelerating reactions without being consumed</td>
+<td><a href="ch28.html">28</a></td>
+</tr>
+<tr>
+<td>Clinker</td>
+<td>Fused cement-kiln product ground into Portland cement</td>
+<td><a href="ch27.html">27</a></td>
+</tr>
+<tr>
+<td>Collateral</td>
+<td>Asset pledged against loan default</td>
+<td><a href="ch09.html">9</a></td>
+</tr>
+<tr>
+<td>Commutator</td>
+<td>Rotating switch converting generator AC output to DC</td>
+<td><a href="ch26.html">26</a></td>
+</tr>
+<tr>
+<td>Containerization</td>
+<td>Standardized freight boxes enabling mechanical intermodal handling</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Criticality (k=1)</td>
+<td>Chain reaction exactly sustaining neutron population; reactor steady state</td>
+<td><a href="ch37.html">37</a></td>
+</tr>
+<tr>
+<td>Crosslinking</td>
+<td>Chemical bonds joining polymer chains into permanent networks</td>
+<td><a href="ch38.html">38</a></td>
+</tr>
+<tr>
+<td>Crucible</td>
+<td>Ceramic vessel holding metal during melting/refining</td>
+<td><a href="ch10.html">10</a></td>
+</tr>
+<tr>
+<td>Decarburization</td>
+<td>Removing carbon from iron surface/melt toward steel chemistry</td>
+<td><a href="ch22.html">22</a></td>
+</tr>
+<tr>
+<td>Delta-v (Δv)</td>
+<td>Total velocity change a rocket can produce; orbital budget currency</td>
+<td><a href="ch39.html">39</a></td>
+</tr>
+<tr>
+<td>Dielectric</td>
+<td>Insulating material between capacitor plates storing field energy</td>
+<td><a href="ch25.html">25</a></td>
+</tr>
+<tr>
+<td>Dispersion (optics)</td>
+<td>Refraction varying by wavelength; causes chromatic aberration</td>
+<td><a href="ch19.html">19</a></td>
+</tr>
+<tr>
+<td>Doping</td>
+<td>Adding trace impurities to semiconductors to set carrier type/density</td>
+<td><a href="ch35.html">35</a></td>
+</tr>
+<tr>
+<td>Double-entry bookkeeping</td>
+<td>Recording each transaction twice so books must balance by construction</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Eddy currents</td>
+<td>Circulating currents induced in conductors by changing magnetic fields</td>
+<td><a href="ch26.html">26</a></td>
+</tr>
+<tr>
+<td>Endothermic/exothermic</td>
+<td>Reaction absorbing/releasing heat</td>
+<td><a href="ch17.html">17</a></td>
+</tr>
+<tr>
+<td>Enthalpy</td>
+<td>Heat content at constant pressure; steam-table workhorse property</td>
+<td><a href="ch23.html">23</a></td>
+</tr>
+<tr>
+<td>Equilibrium (chemical)</td>
+<td>Forward/reverse reaction rates balancing; Haber-Bosch yield limiter</td>
+<td><a href="ch32.html">32</a></td>
+</tr>
+<tr>
+<td>Eutectic</td>
+<td>Alloy composition with lowest melting point of the mixture family</td>
+<td><a href="ch18.html">18</a></td>
+</tr>
+<tr>
+<td>Externality</td>
+<td>Cost/benefit of activity falling on parties not party to it (pollution classic)</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Fermentation</td>
+<td>Microbial conversion of sugars to alcohol/acids/CO₂</td>
+<td><a href="ch04.html">4</a></td>
+</tr>
+<tr>
+<td>Flux</td>
+<td>Additive cleaning melts or promoting fusion (welding/soldering/smelting)</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>Fractional distillation</td>
+<td>Separating liquid mixtures by boiling-point fractionation in columns</td>
+<td><a href="ch28.html">28</a></td>
+</tr>
+<tr>
+<td>Frequency response</td>
+<td>System output behavior across input frequencies; filter/amplifier spec</td>
+<td><a href="ch34.html">34</a></td>
+</tr>
+<tr>
+<td>Futures contract</td>
+<td>Agreement to trade an asset at set price/date; hedging tool</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Gear train</td>
+<td>Meshed gear sets transmitting exact speed/torque ratios</td>
+<td><a href="ch15.html">15</a></td>
+</tr>
+<tr>
+<td>Germ theory</td>
+<td>Specific microbes cause specific diseases; sanitation's foundation</td>
+<td><a href="ch30.html">30</a></td>
+</tr>
+<tr>
+<td>Haber-Bosch</td>
+<td>High-pressure catalytic ammonia synthesis breaking agriculture's nitrogen wall</td>
+<td><a href="ch32.html">32</a></td>
+</tr>
+<tr>
+<td>Half-life</td>
+<td>Time for half of radioactive material to decay</td>
+<td><a href="ch37.html">37</a></td>
+</tr>
+<tr>
+<td>Induction (electromagnetic)</td>
+<td>Changing magnetic flux inducing current in nearby circuits</td>
+<td><a href="ch25.html">25</a></td>
+</tr>
+<tr>
+<td>Insolation</td>
+<td>Solar power arriving per unit area; PV sizing input</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+<tr>
+<td>Isotope</td>
+<td>Atoms of same element with different neutron counts/masses</td>
+<td><a href="ch37.html">37</a></td>
+</tr>
+<tr>
+<td>Kerogen</td>
+<td>Solid organic matter in source rocks; petroleum's precursor</td>
+<td><a href="ch28.html">28</a></td>
+</tr>
+<tr>
+<td>Latent heat</td>
+<td>Energy absorbed/released at phase change without temperature change</td>
+<td><a href="ch23.html">23</a></td>
+</tr>
+<tr>
+<td>Lignin</td>
+<td>Wood polymer causing pulp acidity/yellowing if not removed</td>
+<td><a href="ch18.html">18</a></td>
+</tr>
+<tr>
+<td>Liquidity</td>
+<td>Ease of converting assets to cash without value loss</td>
+<td><a href="ch09.html">9</a></td>
+</tr>
+<tr>
+<td>Martensite</td>
+<td>Hard steel microstructure formed by rapid quenching</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>Metrology</td>
+<td>Science of measurement standards and calibration chains</td>
+<td><a href="ch20.html">20</a></td>
+</tr>
+<tr>
+<td>Modulus of elasticity</td>
+<td>Stiffness measure: stress/strain in elastic region</td>
+<td><a href="ch27.html">27</a></td>
+</tr>
+<tr>
+<td>Mordant</td>
+<td>Fixative binding dyes to fibers</td>
+<td><a href="ch03.html">3</a></td>
+</tr>
+<tr>
+<td>Moral hazard</td>
+<td>Risk-taking increases when actors are shielded from consequences</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Nitriding</td>
+<td>Case-hardening steel via nitrogen diffusion for wear resistance</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>Ohm's law</td>
+<td>V = I·R; voltage equals current times resistance</td>
+<td><a href="ch25.html">25</a></td>
+</tr>
+<tr>
+<td>Opportunity cost</td>
+<td>Value of best alternative foregone by any choice</td>
+<td><a href="ch12.html">12</a></td>
+</tr>
+<tr>
+<td>Oxidation-reduction</td>
+<td>Electron-transfer reaction pair; smelting/combustion/respiration all examples</td>
+<td><a href="ch21.html">21</a></td>
+</tr>
+<tr>
+<td>pH</td>
+<td>Acidity/alkalinity logarithmic scale</td>
+<td><a href="ch21.html">21</a></td>
+</tr>
+<tr>
+<td>Photolithography</td>
+<td>Light-through-mask pattern transfer defining semiconductor layers</td>
+<td><a href="ch35.html">35</a></td>
+</tr>
+<tr>
+<td>Piezoelectric</td>
+<td>Materials generating charge under mechanical stress (and reverse)</td>
+<td><a href="ch45.html">45</a></td>
+</tr>
+<tr>
+<td>Planar process</td>
+<td>Oxide-passivated, photolithographically patterned transistor fabrication</td>
+<td><a href="ch35.html">35</a></td>
+</tr>
+<tr>
+<td>Polarization (batteries)</td>
+<td>Gas buildup degrading cell output under load</td>
+<td><a href="ch25.html">25</a></td>
+</tr>
+<tr>
+<td>Polymerization</td>
+<td>Monomers chaining into macromolecules</td>
+<td><a href="ch38.html">38</a></td>
+</tr>
+<tr>
+<td>Positional notation</td>
+<td>Digit values depending on place; zero as placeholder enables algorithms</td>
+<td><a href="ch12.html">12</a></td>
+</tr>
+<tr>
+<td>Pozzolana</td>
+<td>Volcanic ash reacting with lime for water-setting concrete</td>
+<td><a href="ch17.html">17</a></td>
+</tr>
+<tr>
+<td>Pre-stressed concrete</td>
+<td>Concrete compressed via tensioned cables before service loads arrive</td>
+<td><a href="ch27.html">27</a></td>
+</tr>
+<tr>
+<td>Principal-agent problem</td>
+<td>Incentive misalignment between delegators and delegates</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Pyrometallurgy</td>
+<td>Heat-based metal extraction/refinement</td>
+<td><a href="ch13.html">13</a></td>
+</tr>
+<tr>
+<td>Quenching</td>
+<td>Rapid cooling hardening steel by trapping martensite</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>Rankine cycle</td>
+<td>Idealized steam power-plant thermodynamic cycle</td>
+<td><a href="ch23.html">23</a></td>
+</tr>
+<tr>
+<td>Recombinant DNA</td>
+<td>Splicing DNA segments into vectors for replication/expression</td>
+<td><a href="ch44.html">44</a></td>
+</tr>
+<tr>
+<td>Refractory</td>
+<td>Heat-resistant furnace lining material</td>
+<td><a href="ch22.html">22</a></td>
+</tr>
+<tr>
+<td>Regenerative braking</td>
+<td>Recovering deceleration energy electrically instead of wasting as heat</td>
+<td><a href="ch29.html">29</a></td>
+</tr>
+<tr>
+<td>Reinforcement ratio</td>
+<td>Steel area ÷ concrete area governing beam design</td>
+<td><a href="ch27.html">27</a></td>
+</tr>
+<tr>
+<td>Residual magnetism</td>
+<td>Remnant magnetization enabling generator self-excitation</td>
+<td><a href="ch26.html">26</a></td>
+</tr>
+<tr>
+<td>Rent-seeking</td>
+<td>Extracting wealth via gatekeeping rather than production</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Reverberatory furnace</td>
+<td>Flame passes OVER hearth separating fuel from charge</td>
+<td><a href="ch22.html">22</a></td>
+</tr>
+<tr>
+<td>RTG</td>
+<td>Radioisotope thermoelectric generator powering deep-space craft</td>
+<td><a href="ch40.html">40</a></td>
+</tr>
+<tr>
+<td>Salinization</td>
+<td>Salt accumulation ruining irrigated soils; Mesopotamia's killer</td>
+<td><a href="ch07.html">7</a></td>
+</tr>
+<tr>
+<td>Sintering</td>
+<td>Powder particles fusing below melting point under heat/pressure</td>
+<td><a href="ch37.html">37</a></td>
+</tr>
+<tr>
+<td>Slag</td>
+<td>Molten waste rock skimmed/tapped from smelts</td>
+<td><a href="ch10.html">10</a></td>
+</tr>
+<tr>
+<td>Sunk cost</td>
+<td>Already-spent resources irrelevant to forward-looking decisions</td>
+<td><a href="ch12.html">12</a></td>
+</tr>
+<tr>
+<td>Superalloy</td>
+<td>Nickel/cobalt alloys retaining strength near melting; jet turbine enabler</td>
+<td><a href="ch33.html">33</a></td>
+</tr>
+<tr>
+<td>TCP/IP</td>
+<td>Layered internet protocol suite; end-to-end principle embodiment</td>
+<td><a href="ch42.html">42</a></td>
+</tr>
+<tr>
+<td>Tempering</td>
+<td>Reheating hardened steel to trade hardness for toughness</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>Tensile strength</td>
+<td>Maximum pulling stress before failure</td>
+<td><a href="ch02.html">2</a></td>
+</tr>
+<tr>
+<td>Thermocouple</td>
+<td>Two dissimilar metals reading temperature via generated voltage</td>
+<td><a href="ch20.html">20</a></td>
+</tr>
+<tr>
+<td>Transformer</td>
+<td>Static device transforming AC voltage up/down via coupled coils</td>
+<td><a href="ch26.html">26</a></td>
+</tr>
+<tr>
+<td>Trilateration</td>
+<td>Position solving from distances to known points; GPS method</td>
+<td><a href="ch40.html">40</a></td>
+</tr>
+<tr>
+<td>Tuyère</td>
+<td>Nozzle delivering bellows air into furnaces</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>Vapor pressure</td>
+<td>Pressure exerted by evaporating liquid; distillation driver</td>
+<td><a href="ch17.html">17</a></td>
+</tr>
+<tr>
+<td>Watt</td>
+<td>Power unit: joules/second</td>
+<td><a href="ch16.html">16</a></td>
+</tr>
+<tr>
+<td>Work hardening</td>
+<td>Strengthening metal through plastic deformation</td>
+<td><a href="ch10.html">10</a></td>
+</tr>
+<tr>
+<td>Yield point</td>
+<td>Stress where permanent deformation begins</td>
+<td><a href="ch27.html">27</a></td>
+</tr>
+<tr>
+<td>Young's modulus</td>
+<td>Elastic stiffness coefficient of materials</td>
+<td><a href="ch27.html">27</a></td>
+</tr>
+<tr>
+<td>Zero (placeholder)</td>
+<td>Positional notation's enabling digit; arithmetic algorithm unlocker</td>
+<td><a href="ch12.html">12</a></td>
+</tr>
+</tbody>
+</table></div>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="appendix-e.html" class="reader-nav-link">← Appendix E</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="appendix-g.html" class="reader-nav-link">Appendix G →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

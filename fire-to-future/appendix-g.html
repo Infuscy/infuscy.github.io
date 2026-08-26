@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appendix G — Key Thresholds & Critical Numbers — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Appendix G of 7</span>
+</div>
+<main class="reader-content">
+<h1 id="appendix_G_key_numbers-appendix-g-key-thresholds-critical-numbers">Appendix G — Key Thresholds &amp; Critical Numbers</h1>
+<blockquote class="meta">
+<p>The book's load-bearing numbers in one place — the quick-reference card for workshops, classrooms, and field decisions. Each entry links to its full context.</p>
+</blockquote>
+<h2 id="appendix_G_key_numbers-temperature-ladder-c">Temperature Ladder (°C)</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Temp</th>
+<th>What happens</th>
+<th>Ch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>~260</td>
+<td>Fire-piston ignition by compression; ember from friction coal</td>
+<td><a href="ch01.html">1</a></td>
+</tr>
+<tr>
+<td>250–400</td>
+<td>Heat-treating chert improves knappability; low-temp charcoal for powder</td>
+<td><a href="ch02.html">2</a>/<a href="ch21.html">21</a></td>
+</tr>
+<tr>
+<td>300–350</td>
+<td>Fast-charcoal grade for black powder</td>
+<td><a href="ch21.html">21</a></td>
+</tr>
+<tr>
+<td>150–600</td>
+<td>Hot-blast preheat range (Neilson pipe stoves upward; Cowper regenerators later exceed 1,000)</td>
+<td><a href="ch22.html">22</a></td>
+</tr>
+<tr>
+<td>~600</td>
+<td>Dull-red glow; open-fire pottery hardening begins</td>
+<td><a href="ch05.html">5</a></td>
+</tr>
+<tr>
+<td>63/72</td>
+<td>Milk pasteurization (30 min / 15 s)</td>
+<td><a href="ch30.html">30</a></td>
+</tr>
+<tr>
+<td>~700</td>
+<td>Cherry-red; reliable earthenware kilns</td>
+<td><a href="ch05.html">5</a></td>
+</tr>
+<tr>
+<td>~770</td>
+<td>Steel loses magnetism (transformation point — hardening reference)</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>800–1,000</td>
+<td>Updraft kiln territory; soda-lime glass melts with flux</td>
+<td><a href="ch05.html">5</a>/<a href="ch17.html">17</a></td>
+</tr>
+<tr>
+<td>~900</td>
+<td>Lime calcination (CaCO₃ → CaO); case-hardening carburizing heat</td>
+<td><a href="ch17.html">17</a>/<a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>~900–1,250</td>
+<td>Bloomery operating range (below iron's melt point)</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>~950</td>
+<td>Hall-Héroult cryolite bath for aluminum</td>
+<td><a href="ch38.html">38</a></td>
+</tr>
+<tr>
+<td>900–1,200</td>
+<td>Charcoal + forced draft; copper smelting zone</td>
+<td><a href="ch01.html">1</a>/<a href="ch10.html">10</a></td>
+</tr>
+<tr>
+<td>1,085</td>
+<td>Copper melts</td>
+<td><a href="ch10.html">10</a></td>
+</tr>
+<tr>
+<td>~1,300</td>
+<td>Sparking-white forging heat (welding)</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>1,414</td>
+<td>Silicon melts (semiconductor purification world)</td>
+<td><a href="ch35.html">35</a></td>
+</tr>
+<tr>
+<td>1,450</td>
+<td>Portland cement clinker sintering</td>
+<td><a href="ch27.html">27</a></td>
+</tr>
+<tr>
+<td>1,538</td>
+<td>Pure iron melts (cupola territory needs forced blast)</td>
+<td><a href="ch22.html">22</a></td>
+</tr>
+<tr>
+<td>~1,700</td>
+<td>Incandescent lamp filament glow</td>
+<td><a href="ch26.html">26</a></td>
+</tr>
+<tr>
+<td>~3,500</td>
+<td>Carbon arc crater</td>
+<td><a href="ch26.html">26</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_G_key_numbers-ratios-compositions">Ratios &amp; Compositions</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Numbers</th>
+<th>Ch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Black powder</td>
+<td>75 : 15 : 10 KNO₃/S/C, grained, dry</td>
+<td><a href="ch21.html">21</a></td>
+</tr>
+<tr>
+<td>Lime mortar</td>
+<td>1 lime : 3 sand</td>
+<td><a href="ch17.html">17</a></td>
+</tr>
+<tr>
+<td>Concrete water/cement</td>
+<td>0.4–0.5 structural (more water = always weaker)</td>
+<td><a href="ch27.html">27</a></td>
+</tr>
+<tr>
+<td>Type metal</td>
+<td>~60 Pb / 25 Sn / 12 Sb</td>
+<td><a href="ch18.html">18</a></td>
+</tr>
+<tr>
+<td>Bronze classic</td>
+<td>88–90 Cu / 10–12 Sn (+Pb variants)</td>
+<td><a href="ch10.html">10</a></td>
+</tr>
+<tr>
+<td>Steel carbon window</td>
+<td>0.2–1.4 % C useful; &gt;2 % = cast iron</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>Stainless threshold</td>
+<td>≥ ~10.5 % Cr passive film</td>
+<td><a href="ch27.html">27</a></td>
+</tr>
+<tr>
+<td>Saltpeter leach → crystallize</td>
+<td>KNO₃ salts out first on cooling; recrystallize once</td>
+<td><a href="ch21.html">21</a></td>
+</tr>
+<tr>
+<td>Chlorine residual</td>
+<td>0.2–0.5 mg/L after 30 min contact = protected water</td>
+<td><a href="ch30.html">30</a></td>
+</tr>
+<tr>
+<td>Grain storage moisture</td>
+<td>&lt;13 % or mold/weevils win</td>
+<td><a href="ch07.html">7</a></td>
+</tr>
+<tr>
+<td>Hay safe moisture</td>
+<td>&lt;18 % before baling/storing</td>
+<td><a href="ch08.html">8</a></td>
+</tr>
+<tr>
+<td>ORS formula scale</td>
+<td>~75 mmol/L glucose with matched sodium salts</td>
+<td><a href="ch30.html">30</a></td>
+</tr>
+<tr>
+<td>Haber-Bosch conditions</td>
+<td>~200 atm, ~450–500 °C, Fe catalyst, recycle loops</td>
+<td><a href="ch32.html">32</a></td>
+</tr>
+<tr>
+<td>Bloomery reference smelt</td>
+<td>2 kg charcoal : 1.5 kg roasted ore per charge (~45 kg ore, ~90 kg charcoal total) → 8–12 kg raw bloom (30–45 % slag) → 4–5 kg consolidated bar; blast 800 L/min</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>Photolithography first cycle</td>
+<td>spin 4,000 rpm/30 s ≈1 µm resist · soft bake 95 °C/60 s · g-line dose 100–200 mJ/cm² · develop TMAH 2.38 %/60 s · BOE etch ~100 nm/min</td>
+<td><a href="ch35.html">35</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_G_key_numbers-power-energy-arithmetic">Power &amp; Energy Arithmetic</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Fact</th>
+<th>Number</th>
+<th>Ch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ox sustained draft</td>
+<td>~0.5 kW (~6 humans)</td>
+<td><a href="ch08.html">8</a></td>
+</tr>
+<tr>
+<td>Horse draft</td>
+<td>~0.7–1 kW bursts</td>
+<td><a href="ch08.html">8</a></td>
+</tr>
+<tr>
+<td>Overshot waterwheel</td>
+<td>60–70 % efficiency; 1 m³/s × 3 m ≈ ~20 kW delivered</td>
+<td><a href="ch16.html">16</a></td>
+</tr>
+<tr>
+<td>Newcomen → Watt efficiency</td>
+<td>~0.5 % → ~3–4 % (separate condenser saves ~75 % fuel)</td>
+<td><a href="ch23.html">23</a></td>
+</tr>
+<tr>
+<td>Reference 10 kW steam unit</td>
+<td>Ø180 mm × 200 mm stroke, 300 rpm, 7 bar gauge, mep ≈240 kPa, double-acting → ~12 kW indicated / ~10 kW brake; Ø400 mm boiler shell at 7 bar needs 6 mm plate (computed min 3.1 mm, SF 5, joint η 0.70)</td>
+<td><a href="ch23.html">23</a></td>
+</tr>
+<tr>
+<td>Hot blast fuel effect</td>
+<td>~⅓ less fuel per ton pig from ≥150 °C blast (Neilson, 1828); enables raw-coal smelting</td>
+<td><a href="ch22.html">22</a></td>
+</tr>
+<tr>
+<td>Steam duty trajectory</td>
+<td>Newcomen ~4–6M → Watt ~20–30M → best Cornish compounds ~90–100M ft·lb per 84-lb bushel; 2 kg coal/kWh ≈ 50M duty</td>
+<td><a href="ch23.html">23</a></td>
+</tr>
+<tr>
+<td>Marine triple-expansion</td>
+<td>15–20 % thermal</td>
+<td><a href="ch23.html">23</a></td>
+</tr>
+<tr>
+<td>Diesel slow-speed marine</td>
+<td>&gt;50 % thermal</td>
+<td><a href="ch29.html">29</a></td>
+</tr>
+<tr>
+<td>Gasoline energy density</td>
+<td>~45 MJ/kg (battery c.1900: ~0.2)</td>
+<td><a href="ch29.html">29</a></td>
+</tr>
+<tr>
+<td>Petroleum energy density</td>
+<td>~42 MJ/kg</td>
+<td><a href="ch28.html">28</a></td>
+</tr>
+<tr>
+<td>Modern battery cost fall</td>
+<td>~90 % decline since commercialization</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+<tr>
+<td>PV module learning rate</td>
+<td>~20 % cost drop per doubling</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+<tr>
+<td>Betz limit</td>
+<td>59.3 % max wind extraction</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+<tr>
+<td>Pumped hydro round-trip</td>
+<td>~75–80 %</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+<tr>
+<td>Hydrogen round-trip</td>
+<td>~30–40 % (use for industry, not bulk grid)</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+<tr>
+<td>Aluminum smelting</td>
+<td>~13–15 kWh/kg; recycling ~5 % of that</td>
+<td><a href="ch38.html">38</a></td>
+</tr>
+<tr>
+<td>Fission per fission event</td>
+<td>~200 MeV</td>
+<td><a href="ch37.html">37</a></td>
+</tr>
+<tr>
+<td>Abundance threshold</td>
+<td>&lt;$0.03/kWh system-level electricity</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_G_key_numbers-motion-space-navigation">Motion, Space &amp; Navigation</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Fact</th>
+<th>Number</th>
+<th>Ch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Δv to LEO</td>
+<td>~9.4 km/s incl losses; mass ratio e^(Δv/ve)</td>
+<td><a href="ch39.html">39</a></td>
+</tr>
+<tr>
+<td>LEO orbital speed</td>
+<td>~7.8 km/s; GEO altitude 35,786 km</td>
+<td><a href="ch40.html">40</a></td>
+</tr>
+<tr>
+<td>GPS relativistic drift</td>
+<td>~38 μs/day uncorrected ≈ 10 km/day error</td>
+<td><a href="ch40.html">40</a></td>
+</tr>
+<tr>
+<td>Longitude arithmetic</td>
+<td>Earth rotates 15°/hour; 1 s chronometer error ≈ 0.4 km at equator</td>
+<td><a href="ch20.html">20</a></td>
+</tr>
+<tr>
+<td>Fiber loss target</td>
+<td>≤20 dB/km viable (1970); modern ~0.15–0.2 dB/km @1550 nm</td>
+<td><a href="ch41.html">41</a></td>
+</tr>
+<tr>
+<td>Hull speed intuition</td>
+<td>~1.34×√waterline(ft) knots (displacement hulls)</td>
+<td><a href="ch24.html">24</a></td>
+</tr>
+<tr>
+<td>Sewer self-cleansing velocity</td>
+<td>≥ ~0.6 m/s keeps solids moving</td>
+<td><a href="ch30.html">30</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_G_key_numbers-health-food-security">Health &amp; Food Security</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Fact</th>
+<th>Number</th>
+<th>Ch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Semmelweis handwashing effect</td>
+<td>~90 % childbed-fever mortality cut</td>
+<td><a href="ch30.html">30</a></td>
+</tr>
+<tr>
+<td>Sanitation-first result</td>
+<td>Urban life expectancy doubled pre-antibiotics</td>
+<td><a href="ch30.html">30</a></td>
+</tr>
+<tr>
+<td>Agriculture land yield</td>
+<td>1 ha managed grain supports ~4–10 people</td>
+<td><a href="ch07.html">7</a></td>
+</tr>
+<tr>
+<td>Pre-mechanized farm labor</td>
+<td>~1–2 ha per person hand-farming</td>
+<td><a href="ch07.html">7</a></td>
+</tr>
+<tr>
+<td>Green Revolution yields</td>
+<td>~1–2 t/ha → 6–10 t/ha cereals</td>
+<td><a href="ch32.html">32</a></td>
+</tr>
+<tr>
+<td>Nitrogen dependency</td>
+<td>~half of humanity's fixed N via Haber-Bosch</td>
+<td><a href="ch32.html">32</a></td>
+</tr>
+<tr>
+<td>Medical dashboard</td>
+<td>Maternal+infant mortality &lt;1 % of births = functioning system</td>
+<td><a href="ch31.html">31</a></td>
+</tr>
+<tr>
+<td>Cold chain vaccines</td>
+<td>2–8 °C; freeze OR heat both destroy potency</td>
+<td><a href="ch31.html">31</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_G_key_numbers-process-discipline-constants">Process Discipline Constants</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Rule</th>
+<th>Statement</th>
+<th>Ch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>√N law</td>
+<td>Averaging N repeats shrinks random error by √N</td>
+<td><a href="ch20.html">20</a></td>
+</tr>
+<tr>
+<td>Learning curve</td>
+<td>Costs fall ~25–30 % per cumulative production doubling</td>
+<td><a href="ch35.html">35</a>/<a href="ch43.html">43</a></td>
+</tr>
+<tr>
+<td>I²R doctrine</td>
+<td>Doubling voltage quarters line loss — buy distance with voltage</td>
+<td><a href="ch26.html">26</a></td>
+</tr>
+<tr>
+<td>N-1 contingency</td>
+<td>Grid survives any single component loss instantly</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+<tr>
+<td>Stewardship rule</td>
+<td>Antibiotics: right drug/dose/duration, narrow spectrum, complete courses</td>
+<td><a href="ch31.html">31</a></td>
+</tr>
+<tr>
+<td>Jump legality test</td>
+<td>Physics permits + knowledge exists + failure recoverable</td>
+<td><a href="appendix-c.html">Appendix C</a></td>
+</tr>
+<tr>
+<td>X̄–R chart constants</td>
+<td>n=5: A₂=0.577, D₃=0, D₄=2.114, σ̂=R̄/d₂ (d₂=2.326); baseline 20–25 subgroups; act only on signals</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Limit-gauge budget</td>
+<td>gauge tolerance ≤10 % of work tolerance; ~10 % wear allowance on GO member, audited monthly</td>
+<td><a href="ch15.html">15</a></td>
+</tr>
+<tr>
+<td>Capability gate</td>
+<td>tolerance ÷ 6σ̂ ≥ 1.33 before promising interchangeable parts</td>
+<td><a href="ch15.html">15</a>/<a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Interface standardization</td>
+<td>Container loading: ~$5.86/t break-bulk → ~$0.16/t containerized (lock the interface first; ISO 668)</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>First-fab cleanroom</td>
+<td>ISO Class 7 room + ISO Class 5 laminar bench (≥60 air changes/h)</td>
+<td><a href="ch35.html">35</a></td>
+</tr>
+<tr>
+<td>Zone-refining plan</td>
+<td>6–8 passes at ~2 mm/min, zone ≈ ingot diameter; boron (k≈0.8) resists zoning — remove chemically first</td>
+<td><a href="ch35.html">35</a></td>
+</tr>
+<tr>
+<td>Dead-end alarm</td>
+<td>Enthusiasm without falsification path = consult <a href="appendix-b.html">Appendix B</a></td>
+<td>B</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Usage:</strong> print/laminate this appendix alongside <a href="appendix-a.html">Appendix A</a>. A carries the sequence; G carries the numbers that keep each step honest.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="appendix-f.html" class="reader-nav-link">← Appendix F</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <span class="reader-nav-link disabled">End →</span>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

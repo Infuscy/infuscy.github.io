@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appendix E — Master Timeline & Dependency Table — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Appendix E of 7</span>
+</div>
+<main class="reader-content">
+<h1 id="appendix_E_timeline-appendix-e-master-timeline-dependency-table">Appendix E — Master Timeline &amp; Dependency Table</h1>
+<blockquote class="meta">
+<p>Part 1: all 47 chapters mapped to historical era, difficulty, prerequisites, and unlocks.
+Part 2: a realistic compressed rebuild schedule for a determined civilization that possesses this book.</p>
+</blockquote>
+<h2 id="appendix_E_timeline-e1-chapter-dependency-table">E.1 Chapter Dependency Table</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Ch</th>
+<th>Title (short)</th>
+<th>Historical development band</th>
+<th>Difficulty</th>
+<th>Requires</th>
+<th>Unlocks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="ch01.html">1</a></td>
+<td>Fire</td>
+<td>~400 kya</td>
+<td>low</td>
+<td>—</td>
+<td>2, 5, heat everywhere</td>
+</tr>
+<tr>
+<td><a href="ch02.html">2</a></td>
+<td>Toolkit</td>
+<td>paleolithic</td>
+<td>mid</td>
+<td>1</td>
+<td>3, 4, 6</td>
+</tr>
+<tr>
+<td><a href="ch03.html">3</a></td>
+<td>Cordage/textiles</td>
+<td>upper paleolithic</td>
+<td>low</td>
+<td>2</td>
+<td>4, 6, 8, belts/sails</td>
+</tr>
+<tr>
+<td><a href="ch04.html">4</a></td>
+<td>Food acquisition/preservation</td>
+<td>mesolithic</td>
+<td>low–mid</td>
+<td>2, 3</td>
+<td>surplus → 7, 9</td>
+</tr>
+<tr>
+<td><a href="ch05.html">5</a></td>
+<td>Pottery</td>
+<td>~20 kya</td>
+<td>low–mid</td>
+<td>1</td>
+<td>storage → 7, crucibles → 10/14</td>
+</tr>
+<tr>
+<td><a href="ch06.html">6</a></td>
+<td>Shelter/settlement</td>
+<td>neolithic</td>
+<td>low–mid</td>
+<td>2, 3, 5</td>
+<td>granaries, villages</td>
+</tr>
+<tr>
+<td><a href="ch07.html">7</a></td>
+<td>Agriculture</td>
+<td>~10 kya</td>
+<td>mid</td>
+<td>1, 5, 6</td>
+<td>population engine</td>
+</tr>
+<tr>
+<td><a href="ch08.html">8</a></td>
+<td>Animals/draft</td>
+<td>~12 kya</td>
+<td>mid</td>
+<td>3, 4, 7</td>
+<td>traction, manure loop</td>
+</tr>
+<tr>
+<td><a href="ch09.html">9</a></td>
+<td>Trade/money</td>
+<td>bronze age</td>
+<td>low–mid</td>
+<td>7, 8</td>
+<td>specialization at scale</td>
+</tr>
+<tr>
+<td><a href="ch10.html">10</a></td>
+<td>Copper/bronze</td>
+<td>~5000 BCE</td>
+<td>mid</td>
+<td>1, 5, 13</td>
+<td>furnace skills</td>
+</tr>
+<tr>
+<td><a href="ch11.html">11</a></td>
+<td>Writing</td>
+<td>~3200 BCE</td>
+<td>low–mid</td>
+<td>9</td>
+<td>administration, 12, 18</td>
+</tr>
+<tr>
+<td><a href="ch12.html">12</a></td>
+<td>Math</td>
+<td>3000 BCE–900 CE</td>
+<td>mid</td>
+<td>11</td>
+<td>engineering cognition</td>
+</tr>
+<tr>
+<td><a href="ch13.html">13</a></td>
+<td>Mining</td>
+<td>~4000 BCE</td>
+<td>mid</td>
+<td>1, 2</td>
+<td>ore/salt/coal security</td>
+</tr>
+<tr>
+<td><a href="ch14.html">14</a></td>
+<td>Iron/steel craft</td>
+<td>~1200 BCE</td>
+<td>mid–high</td>
+<td>10, 13, 16</td>
+<td>tool abundance</td>
+</tr>
+<tr>
+<td><a href="ch15.html">15</a></td>
+<td>Mechanisms/lathe</td>
+<td>ancient→1800</td>
+<td>mid</td>
+<td>12, 14</td>
+<td>machine culture</td>
+</tr>
+<tr>
+<td><a href="ch16.html">16</a></td>
+<td>Mills</td>
+<td>~300 BCE–1200 CE</td>
+<td>mid</td>
+<td>15</td>
+<td>proto-industry power</td>
+</tr>
+<tr>
+<td><a href="ch17.html">17</a></td>
+<td>Craft chemistry</td>
+<td>ancient→1600s</td>
+<td>mid</td>
+<td>5, 13</td>
+<td>glass/lime/soap/distill</td>
+</tr>
+<tr>
+<td><a href="ch18.html">18</a></td>
+<td>Printing</td>
+<td>1450s</td>
+<td>mid</td>
+<td>11, 15, 16</td>
+<td>knowledge cost collapse</td>
+</tr>
+<tr>
+<td><a href="ch19.html">19</a></td>
+<td>Optics</td>
+<td>1280→1670s</td>
+<td>mid</td>
+<td>17, 15</td>
+<td>astronomy/microscopy</td>
+</tr>
+<tr>
+<td><a href="ch20.html">20</a></td>
+<td>Instruments/method</td>
+<td>1600→1900</td>
+<td>mid–high</td>
+<td>15, 19</td>
+<td>science engine</td>
+</tr>
+<tr>
+<td><a href="ch21.html">21</a></td>
+<td>Powder/acids</td>
+<td>850→1860s</td>
+<td>mid–high</td>
+<td>13, 17</td>
+<td>mining + heavy chemicals</td>
+</tr>
+<tr>
+<td><a href="ch22.html">22</a></td>
+<td>Coke iron</td>
+<td>1709→1850s</td>
+<td>mid–high</td>
+<td>14, 13, 16</td>
+<td>cheap metal era</td>
+</tr>
+<tr>
+<td><a href="ch23.html">23</a></td>
+<td>Steam engines</td>
+<td>1698→1900s</td>
+<td>high</td>
+<td>22, 15, 20</td>
+<td>power anywhere</td>
+</tr>
+<tr>
+<td><a href="ch24.html">24</a></td>
+<td>Canals/roads/rails</td>
+<td>ancient→1900</td>
+<td>mid</td>
+<td>23, 22, 9</td>
+<td>national markets</td>
+</tr>
+<tr>
+<td><a href="ch25.html">25</a></td>
+<td>Electricity I</td>
+<td>1745→1866</td>
+<td>mid–high</td>
+<td>20, 17</td>
+<td>electromagnetism mastery</td>
+</tr>
+<tr>
+<td><a href="ch26.html">26</a></td>
+<td>Electricity II/grids</td>
+<td>1866→1900</td>
+<td>high</td>
+<td>25, 23, 22</td>
+<td>universal power socket</td>
+</tr>
+<tr>
+<td><a href="ch27.html">27</a></td>
+<td>Steel/concrete</td>
+<td>1856→1950s</td>
+<td>high</td>
+<td>22, 21, 20</td>
+<td>structural abundance</td>
+</tr>
+<tr>
+<td><a href="ch28.html">28</a></td>
+<td>Petroleum</td>
+<td>1859→1940s</td>
+<td>high</td>
+<td>13, 21, 23</td>
+<td>transport fuels</td>
+</tr>
+<tr>
+<td><a href="ch29.html">29</a></td>
+<td>ICE/vehicles</td>
+<td>1876→1950s</td>
+<td>high</td>
+<td>28, 27, 15</td>
+<td>mobility revolution</td>
+</tr>
+<tr>
+<td><a href="ch30.html">30</a></td>
+<td>Sanitation/germs</td>
+<td>1847→1920s</td>
+<td>mid</td>
+<td>19, 17, 20</td>
+<td>survivable cities</td>
+</tr>
+<tr>
+<td><a href="ch31.html">31</a></td>
+<td>Clinical medicine</td>
+<td>1846→1960s</td>
+<td>high</td>
+<td>30, 21, 28</td>
+<td>individual survival tech</td>
+</tr>
+<tr>
+<td><a href="ch32.html">32</a></td>
+<td>Green Revolution</td>
+<td>1909→1970s</td>
+<td>high</td>
+<td>21, 29, 30</td>
+<td>nitrogen wall broken</td>
+</tr>
+<tr>
+<td><a href="ch33.html">33</a></td>
+<td>Flight</td>
+<td>1853→1960s</td>
+<td>extreme</td>
+<td>29, 27, 38</td>
+<td>air transport/aerospace path</td>
+</tr>
+<tr>
+<td><a href="ch34.html">34</a></td>
+<td>Vacuum-tube electronics</td>
+<td>1887→1950s</td>
+<td>high</td>
+<td>25, 26, 17</td>
+<td>signal shaping concepts</td>
+</tr>
+<tr>
+<td><a href="ch35.html">35</a></td>
+<td>Transistors/ICs</td>
+<td>1947→1971+</td>
+<td>extreme</td>
+<td>34, 20</td>
+<td>computation collapse</td>
+</tr>
+<tr>
+<td><a href="ch36.html">36</a></td>
+<td>Computers/software</td>
+<td>1854→1980s</td>
+<td>extreme</td>
+<td>35</td>
+<td>thought automation</td>
+</tr>
+<tr>
+<td><a href="ch37.html">37</a></td>
+<td>Fission</td>
+<td>1896→1980s</td>
+<td>extreme</td>
+<td>20, 27, 13</td>
+<td>dense power/isotopes</td>
+</tr>
+<tr>
+<td><a href="ch38.html">38</a></td>
+<td>Polymers/composites</td>
+<td>1839→present</td>
+<td>high</td>
+<td>28, 21</td>
+<td>materials catalog</td>
+</tr>
+<tr>
+<td><a href="ch39.html">39</a></td>
+<td>Rocketry/orbit</td>
+<td>1926→present</td>
+<td>extreme</td>
+<td>27, 29, 36, 38</td>
+<td>space access</td>
+</tr>
+<tr>
+<td><a href="ch40.html">40</a></td>
+<td>Satellites</td>
+<td>1957→present</td>
+<td>extreme</td>
+<td>39, 34, 35</td>
+<td>planetary nervous system</td>
+</tr>
+<tr>
+<td><a href="ch41.html">41</a></td>
+<td>Fiber optics</td>
+<td>1966→present</td>
+<td>high</td>
+<td>17, 34, 35</td>
+<td>bandwidth civilization</td>
+</tr>
+<tr>
+<td><a href="ch42.html">42</a></td>
+<td>Internet/cloud</td>
+<td>1969→present</td>
+<td>extreme</td>
+<td>36, 41</td>
+<td>real-time coordination</td>
+</tr>
+<tr>
+<td><a href="ch43.html">43</a></td>
+<td>Energy portfolio</td>
+<td>1954→present</td>
+<td>high</td>
+<td>26, 35, 37</td>
+<td>abundance pricing</td>
+</tr>
+<tr>
+<td><a href="ch44.html">44</a></td>
+<td>Biotech</td>
+<td>1865→present</td>
+<td>extreme</td>
+<td>30, 31, 35</td>
+<td>read-write genome</td>
+</tr>
+<tr>
+<td><a href="ch45.html">45</a></td>
+<td>Robotics</td>
+<td>1788→present</td>
+<td>high</td>
+<td>15, 35, 36</td>
+<td>labor automation</td>
+</tr>
+<tr>
+<td><a href="ch46.html">46</a></td>
+<td>Machine intelligence</td>
+<td>1958→present</td>
+<td>extreme</td>
+<td>35, 42, 43</td>
+<td>cognition infrastructure</td>
+</tr>
+<tr>
+<td><a href="ch47.html">47</a></td>
+<td>Institutions</td>
+<td>1300→present</td>
+<td>high</td>
+<td>9, 11, 12</td>
+<td>scale itself</td>
+</tr>
+<tr>
+<td><a href="ch49.html">49</a></td>
+<td>Gunpowder weapons</td>
+<td>10th c. China→20th c.</td>
+<td>mid–high</td>
+<td>21, 14/27, 15</td>
+<td>industrial war; armory precision</td>
+</tr>
+<tr>
+<td><a href="ch50.html">50</a></td>
+<td>Naval power</td>
+<td>Salamis→present</td>
+<td>high</td>
+<td>3, 17/21, 23/24, 34/35</td>
+<td>global projection</td>
+</tr>
+<tr>
+<td><a href="ch51.html">51</a></td>
+<td>Industrial war/org tech</td>
+<td>1590s drill→present</td>
+<td>high</td>
+<td>9, 11/47, 24, 49</td>
+<td>modern state capacity itself</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_E_timeline-e2-compressed-rebuild-schedule">E.2 Compressed Rebuild Schedule</h2>
+<p>Assumptions: starting population ≥1 M with this book, no inherited industry, competent governance (<a href="ch47.html">Ch 47</a>) from day one. Dates are ELAPSED YEARS from start.</p>
+<h3 id="appendix_E_timeline-phase-0-survival-years-02">Phase 0 — Survival (years 0–2)</h3>
+<p>Fire discipline, toolkit, cordage, food acquisition + preservation, first shelters, prospecting register begun (<a href="ch01.html">Ch 1</a>–<a href="ch04.html">4</a>, start of <a href="ch06.html">6</a>, <a href="ch13.html">13</a>).
+<strong>Exit criterion:</strong> zero starvation risk in worst modeled season; tool production self-sustaining.</p>
+<h3 id="appendix_E_timeline-phase-1-settled-agriculture-years-230">Phase 1 — Settled agriculture (years 2–30)</h3>
+<p>Pottery, full settlement buildout, crop packages + rotation, animal domestication, writing adopted immediately, numerals with zero taught universally, money/markets established early (<a href="ch05.html">Ch 5</a>–<a href="ch12.html">12</a>).
+<strong>Exit:</strong> grain surplus &gt;25 % above consumption stored rodent-proof; literacy &gt;50 %; kilns firing reliably.</p>
+<h3 id="appendix_E_timeline-phase-2-classical-industry-years-30150">Phase 2 — Classical industry (years 30–150)</h3>
+<p>Copper/bronze compressed into furnace apprenticeship (~decade), then bloomery iron at scale; mills on every good stream; craft chemistry maturing; mining doctrine running (<a href="ch13.html">Ch 13</a>–<a href="ch17.html">17</a>).
+<strong>Exit:</strong> iron tools cheaper than stone equivalents; water power exceeds muscle power regionally; written technical manuals circulating.</p>
+<h3 id="appendix_E_timeline-phase-3-acceleration-years-150250">Phase 3 — Acceleration (years 150–250)</h3>
+<p>Printing press within reach of every town; lens workshops → telescopes/microscopes; instrument culture + scientific societies institutionalized; black powder + acid industry online; coke smelting breaking wood ceilings (<a href="ch18.html">Ch 18</a>–<a href="ch22.html">22</a>).
+<strong>Exit:</strong> identical textbooks across regions; measurement standards enforced; iron output compounding annually.</p>
+<h3 id="appendix_E_timeline-phase-4-steam-and-electrification-years-250320">Phase 4 — Steam and electrification (years 250–320)</h3>
+<p>Watt-correct steam engines; railways with telegraph pairing; batteries → dynamos → polyphase grids; sanitation wave begins (<a href="ch23.html">Ch 23</a>–<a href="ch26.html">26</a>, <a href="ch30.html">30</a>).
+<strong>Exit:</strong> grid power in major cities; freight costs &lt;10 % of goods value; urban death rates falling visibly.</p>
+<h3 id="appendix_E_timeline-phase-5-modern-stack-years-320420">Phase 5 — Modern stack (years 320–420)</h3>
+<p>Steel/concrete at scale, petroleum refining, ICE fleets, tractors, Haber-Bosch, clinical medicine, flight, vacuum tubes as scaffolding then straight to silicon planar ICs, computers, fission plants (<a href="ch27.html">Ch 27</a>–<a href="ch37.html">37</a>, <a href="ch32.html">32</a>).
+<strong>Exit:</strong> yields &gt;4 t/ha sustained; antibiotics under stewardship; working integrated circuits fabbed domestically.</p>
+<h3 id="appendix_E_timeline-phase-6-planetary-years-420500">Phase 6 — Planetary (years 420–500)</h3>
+<p>Polymers/composites mature, orbital launch, satellite constellations, fiber backbone, internet protocols, modern energy portfolio, biotech platforms, robotics, machine intelligence (<a href="ch38.html">Ch 38</a>–<a href="ch46.html">46</a>).
+<strong>Exit criterion = D.0's five dominance capabilities met simultaneously (<a href="appendix-d.html">Appendix D</a>).</strong></p>
+<h3 id="appendix_E_timeline-where-the-schedule-bends">Where the Schedule Bends</h3>
+<ul>
+<li><strong>Tighteners:</strong> coastal iron sand or bog iron (Phase 2 accelerates decades); surface coal seams (Phase 3–4 accelerate); preserved libraries/engineers (whole plan compresses toward Phase 3's exit by year 100); strong institutional culture avoids the century-scale waste of monetary/legal instability.</li>
+<li><strong>Hard floors (do not fantasy-compress):</strong></li>
+<li><strong>Population:</strong> specialists need surplus feeding them; sub-1M populations cap out around late Phase 3 complexity.</li>
+<li><strong>Mining depth accumulation:</strong> ore bodies reveal their structure only as workings deepen; geology can't be rushed.</li>
+<li><strong>Tacit skill formation:</strong> smithing, glassblowing, machining take years-per-generation of hands-on apprenticeship — books transfer knowledge, not knacks. Budget generations, not months, for craft maturity (<a href="ch14.html">Ch 14</a>'s warning stands).</li>
+<li><strong>Institutional trust compounds slowly:</strong> credit systems, statistical bureaus, and scientific norms each need decades of kept promises before they bear load (<a href="ch47.html">Ch 47</a>).</li>
+</ul>
+<p>Realistic total: <strong>~450–550 years to full planetary capability</strong>, versus history's ~10,000 — the book's entire value proposition is that compression, purchased with knowledge instead of blind exploration.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="appendix-d.html" class="reader-nav-link">← Appendix D</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="appendix-f.html" class="reader-nav-link">Appendix F →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

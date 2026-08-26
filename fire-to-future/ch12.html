@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 12: Numbers, Geometry, and Practical Mathematics — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 12 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch12_mathematics-chapter-12-numbers-geometry-and-practical-mathematics">Chapter 12: Numbers, Geometry, and Practical Mathematics</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> ~3000 BCE → 9th c. CE algebra · <strong>Difficulty:</strong> mid
+<br><strong>Requires:</strong> <a href="ch11.html">Ch 11</a> · <br><strong>Unlocks:</strong> <a href="ch15.html">Ch 15</a> gearing ratios, <a href="ch20.html">Ch 20</a> measurement theory, all engineering thereafter</p>
+</blockquote>
+<p>Mathematics is compression for reality: formulas store thousands of measurements in one line. This chapter selects only the mathematics that pays immediate engineering dividends, in dependency order.</p>
+<h2 id="ch12_mathematics-121-positional-notation-with-zero">12.1 Positional Notation with Zero</h2>
+<p class="co co-jump"><strong>Jump:</strong> adopt base-10 positional notation WITH zero as a placeholder immediately. History's detour: Egyptians used cumbersome unit-fractions, Babylonians lacked a true zero (their 60-base system left gaps), Romans managed empire-scale logistics on additive numerals where multiplication meant repeated abacus grinding. Hindu-Arabic positional arithmetic reduces long multiplication and division to pencil algorithms a child learns — and it is the direct ancestor of binary logic gates (<a href="ch36.html">Ch 36</a>).</p>
+<p>Teach in this order:
+1. Place values, carrying/borrowing algorithms.
+2. Fractions AND decimals side by side (decimals for engineering, fractions for exact ratios like gear teeth).
+3. Negative numbers as debt (<a href="ch09.html">Ch 9</a> makes them intuitive).
+4. Exponent notation — powers compress the enormous ranges physics demands (from <a href="ch25.html">Ch 25</a> onward, quantities span 10⁻¹² to 10⁹).</p>
+<h2 id="ch12_mathematics-122-practical-arithmetic-for-commerce">12.2 Practical Arithmetic for Commerce</h2>
+<ul>
+<li>The four operations fluently, mentally and on paper/abacus.</li>
+<li>Ratio and proportion: the workhorse of scaling recipes, mixtures, maps, and model-to-real conversions ("if 3 parts sand to 1 lime makes X barrels, then…").</li>
+<li>Percentage and interest computation (<a href="ch09.html">Ch 9</a>): compound interest A = P(1+r)ⁿ — teach the doubling-time intuition (70/rule-of-thumb).</li>
+<li>Unit discipline: EVERY quantity carries units; converting wrongly has destroyed bridges and lost spacecraft. Make unit-labeling a reflex before physics ever needs it.</li>
+</ul>
+<h2 id="ch12_mathematics-123-geometry-the-engineers-core">12.3 Geometry: The Engineer's Core</h2>
+<p>Surveying and building run on Euclid's practical core:</p>
+<ul>
+<li><strong>Triangles rule construction:</strong> rigid triangles don't deform; rectangles need diagonals to stay square. Roof trusses, bracing, survey frameworks — triangulate everything.</li>
+<li><strong>Pythagoras</strong> for right angles and distance checks (3-4-5 rope trick squares foundations instantly).</li>
+<li><strong>Similar triangles</strong> measure heights and distances indirectly — cliff heights, river widths, tree felling safety margins. Shadow methods suffice; no instruments required.</li>
+<li><strong>Circle math:</strong> π ≈ 22/7 (or 3.1416); circumference/diameter/area relationships drive wheels, gears, tanks, arches.</li>
+<li><strong>Areas and volumes</strong> of standard shapes price materials honestly — cheating thrives where volume math is weak.</li>
+</ul>
+<h2 id="ch12_mathematics-124-trigonometry-at-survey-precision">12.4 Trigonometry at Survey Precision</h2>
+<p>Once angles become measurable (<a href="ch20.html">Ch 20</a>), sine/cosine/tangent turn angle readings into coordinates:</p>
+<ul>
+<li>Triangulation networks map entire territories from a few measured baselines — how every pre-satellite national map got made.</li>
+<li>Sine rule/cosine rule solve any triangle from minimal data.</li>
+<li>Tables (computed once by hand teams, copied forever) precede calculators; invest in table-making as infrastructure.</li>
+</ul>
+<h2 id="ch12_mathematics-125-algebra-and-the-equation-habit">12.5 Algebra and the Equation Habit</h2>
+<p>Algebra is the art of naming unknowns and letting manipulation reveal them:</p>
+<ul>
+<li>Linear equations model mixture, motion-at-constant-speed, and pricing problems.</li>
+<li>Quadratics arise in projectile paths (<a href="ch33.html">Ch 33</a>), areas, braking distances.</li>
+<li>Systems of linear equations model multi-market and structural-load problems — solvable by elimination at small scale, foreshadowing computational methods (<a href="ch36.html">Ch 36</a>).</li>
+<li>Logarithms convert multiplication into addition: indispensable for compound interest, decibel scales, slide-rule-era calculation, and exponential decay (half-lives, <a href="ch37.html">Ch 37</a>). Build log tables early; they are cheap and pay for generations.</li>
+</ul>
+<h2 id="ch12_mathematics-126-probability-and-statistics-the-seed-planted-early">12.6 Probability and Statistics: The Seed Planted Early</h2>
+<p>Full statistics matures in <a href="ch47.html">Ch 47</a>, but plant the axioms here:</p>
+<ol>
+<li>Relative frequency as probability; expected value as decision currency.</li>
+<li>Sampling beats guessing: weigh part of a harvest to estimate the whole.</li>
+<li>Record variance, not just averages — two fields averaging equal yields may have wildly different famine risks.</li>
+</ol>
+<p class="co co-dead"><strong>Dead end avoided:</strong> numerology, gematria, and "magic" number mysticism — historically these consumed serious minds (including Pythagoreans') chasing patterns in nothing. Numbers describe; they do not command.</p>
+<p class="co co-key"><strong>Key threshold:</strong> a bureaucracy fluent in positional arithmetic, geometry, and proportion can plan multi-year projects, audit honestly, and build true — the cognitive infrastructure every subsequent chapter assumes silently.</p>
+<h2 id="ch12_mathematics-127-the-historical-record">12.7 The Historical Record</h2>
+<ul>
+<li><strong>Babylonian base-60 arithmetic:</strong> the tablet YBC 7289 gives √2 as 1;24,51,10 sexagesimally — 1.41421296…, accurate to five decimal places (~1800–1600 BCE). Plimpton 322's column of near-Pythagorean triples is real; whether it is a trig table or a list of reciprocal exercise pairs is an active scholarly argument.</li>
+<li><strong>Rhind Mathematical Papyrus (~1650 BCE,</strong> copied from an older original<strong>)</strong> teaches unit-fraction methods and practical problem sets — Egyptian pedagogy survives as homework.</li>
+<li><strong>Zero's slow birth:</strong> Babylonians used a placeholder gap by ~300 BCE; a Maya stela carries a zero glyph by ~36 BCE; the Bakhshali manuscript's placeholder dots date in parts to the 3rd–4th century CE; <strong>Brahmagupta (628 CE) states rules treating zero as a NUMBER</strong> (including division puzzles he got half-right) — the conceptual finish line crossed in India, then transmitted west through Arabic mathematics (al-Khwārizmī's ~820 CE <em>al-jabr</em> names algebra itself).</li>
+<li><strong>Fibonacci's <em>Liber Abaci</em> (1202)</strong> carried positional numerals into European commerce — adoption lagged another three centuries in places because guilds banned "ciphers" as fraud-friendly; arithmetic literacy fought cultural immune responses everywhere it landed.</li>
+<li><strong>Applied geometry's scoreboard:</strong> Eratosthenes (~240 BCE) computed Earth's circumference from shadow angles at Alexandria and Syene — landing within a few percent of modern values, modulo which stadium length you assume. Surveyors ("rope-stretchers") rebuilt fields after each Nile flood; the same triangulation logic later mapped continents (<a href="ch20.html">Ch 20</a>).</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch11.html" class="reader-nav-link">← Chapter 11</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch13.html" class="reader-nav-link">Chapter 13 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

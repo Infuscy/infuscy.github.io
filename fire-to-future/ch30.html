@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 30: Germ Theory, Sanitation, and Water Treatment — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 30 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch30_sanitation-chapter-30-germ-theory-sanitation-and-water-treatment">Chapter 30: Germ Theory, Sanitation, and Water Treatment</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1847 Semmelweis → 1920s sanitary engineering · <strong>Difficulty:</strong> mid
+<br><strong>Requires:</strong> <a href="ch19.html">Ch 19</a> microscopes, <a href="ch17.html">Ch 17</a>/<a href="ch21.html">21</a> chlorine, <a href="ch20.html">Ch 20</a> statistics · <br><strong>Unlocks:</strong> <a href="ch31.html">Ch 31</a> clinical medicine, demographic transition</p>
+</blockquote>
+<p>The single highest-return chapter in this book. Clean water and sanitation doubled urban life expectancy BEFORE antibiotics existed — and they remain the cheapest health technology ever deployed. A civilization that skips this for flashier medicine wastes its people.</p>
+<h2 id="ch30_sanitation-301-the-intellectual-revolution">30.1 The Intellectual Revolution</h2>
+<ul>
+<li><strong>Miasma theory</strong> ("bad air" from rotting matter causes disease) was wrong but USEFUL: it correctly linked filth to sickness, driving early sanitation. Keep the engineering, fix the theory.
+  <strong>Dead end avoided:</strong> bloodletting and humoral balancing — centuries of active harm dressed as medicine.</li>
+<li><strong>Semmelweis (1847):</strong> hand-washing with chlorinated lime cut childbed fever deaths ~90 % in one ward — and medicine ignored him for decades. Institutional lesson: data without authority structures dies (<a href="ch47.html">Ch 47</a>); build review systems that CAN accept inconvenient results.</li>
+<li><strong>John Snow (1854):</strong> mapped cholera deaths around the Broad Street pump; handle removed, epidemic collapsed — epidemiology (statistics + geography + intervention) founded before anyone saw a vibrio.</li>
+<li><strong>Pasteur:</strong> swan-neck flasks killed spontaneous generation forever; microbes exist, float, ferment, spoil, infect.</li>
+<li><strong>Koch:</strong> pure cultures on solid media; his postulates tie specific microbe → specific disease. Anthrax, tuberculosis, cholera identified; the laboratory becomes medicine's engine room.</li>
+</ul>
+<h2 id="ch30_sanitation-302-water-treatment">30.2 Water Treatment</h2>
+<p>Priority ladder per community:</p>
+<ol>
+<li><strong>Source protection:</strong> fence watersheds, separate latrines from wells by soil-percolation distances (30 m+ in most soils), prefer deep wells/springs over standing water.</li>
+<li><strong>Filtration:</strong> slow sand filters — a biological Schmutzdecke layer eats pathogens while sand strains solids; simple, proven (London's cholera fell where filtered). Rapid sand filters coagulate first (alum floc traps particles) then filter faster for big cities.</li>
+<li><strong>Disinfection:</strong> chlorine gas/calcium hypochlorite dosed to leave 0.2–0.5 mg/L residual after 30 min contact — residual is measurable PROOF of protection, not just treatment. First continuous municipal chlorination: Jersey City, 1908; typhoid rates collapse within years across every adopting city.</li>
+<li>Testing regime: coliform assays (lactose fermentation tubes) flag fecal contamination before outbreaks; publish results (<a href="ch11.html">Ch 11</a> doctrine).</li>
+</ol>
+<p>Boiling remains the universal fallback everywhere, always teachable.</p>
+<h2 id="ch30_sanitation-303-sewerage">30.3 Sewerage</h2>
+<ul>
+<li><strong>Combined vs separate systems:</strong> combined sewers carry storm + waste (cheap initial, overflow problems); separated systems cost more but protect treatment plants. Choose by rainfall pattern and budget honestly.</li>
+<li>Gradients sized for self-cleansing velocity (~0.6 m/s minimum so solids don't settle); manholes for access; vents prevent siphoning trap seals.</li>
+<li><strong>Treatment cascade:</strong> screening → sedimentation → biological treatment (trickling filters or activated sludge — aerated microbial communities consuming dissolved organics) → disinfection before discharge. Rivers stop being open sewers; downstream cities stop poisoning themselves.</li>
+<li>Rural answer: septic tanks + drain fields where density allows.</li>
+</ul>
+<h2 id="ch30_sanitation-304-the-sanitary-waves-results">30.4 The Sanitary Wave's Results</h2>
+<p>Cities adopting filtration/chlorination/sewers saw typhoid, cholera, infant diarrhea fall 50–90 % within a generation. Child mortality halving WITHOUT any clinical drug is history's cleanest natural experiment: <strong>infrastructure outperformed pharmacy</strong> at population scale. Budget accordingly: water/sewer capital outranks hospital capital until coverage completes.</p>
+<h2 id="ch30_sanitation-305-food-and-vectors">30.5 Food and Vectors</h2>
+<ul>
+<li><strong>Pasteurization:</strong> milk at 63 °C/30 min or 72 °C/15 s kills TB/brucella/etc. while sparing taste — cold chains (<a href="ch26.html">Ch 26</a>) extend safety to retail.</li>
+<li>Inspection regimes for slaughter/handling (trichinosis, salmonella control).</li>
+<li><strong>Vector control:</strong> mosquitoes breed in standing water — drainage, larvivorous fish, screens, bed nets; yellow fever/malaria retreat from engineered environments before advanced drugs exist. Quinine from bark as bridge therapy.</li>
+</ul>
+<h2 id="ch30_sanitation-306-oral-rehydration-the-absurd-bargain">30.6 Oral Rehydration: The Absurd Bargain</h2>
+<p>Diarrhea kills via fluid/electrolyte loss; ORS — sugar+salt in clean water (precisely ~75 mmol/L glucose + sodium salts formula) — reverses it at cents per dose. It has saved more children than entire pharmaceutical catalogs. Teach the recipe universally; it requires no infrastructure beyond the water supply this chapter builds.</p>
+<p class="co co-key"><strong>Key threshold:</strong> when a city's water leaves residuals and its sewage gets treated, epidemic cycles break permanently. From there, population growth becomes policy arithmetic instead of fate — the demographic gate to everything modern.</p>
+<h2 id="ch30_sanitation-307-the-sanitation-record">30.7 The Sanitation Record</h2>
+<ul>
+<li><strong>Broad Street, precisely:</strong> the outbreak ran late August–September 1854; Snow mapped ~600 deaths around the pump, removed-handle intervention came September 8 (after incidence was already falling — Snow himself noted this honestly), and his REAL argument was the Grand Experiment: adjacent districts served by Southwark &amp; Vauxhall (sewage-tainted) versus Lambeth (upstream intake) water companies showed ~14-fold cholera-mortality differences among similarly housed populations. Natural-experiment epidemiology begins here, statistics doing what theory couldn't (<a href="ch20.html">Ch 20</a>).</li>
+<li><strong>The Great Stink (June 1858)</strong> — Thames stench suspending Parliament — funded Bazalgette's system: ~132 km of brick interceptor sewers, ~1,800 km of street sewers, pumping stations at Abbey Mills and Crossness, completed stages through 1875. London never cholera-epidemic again; typhoid fell with the same pipes.</li>
+<li><strong>Semmelweis's end, documented:</strong> mocked, dismissed, his manual-instruction pamphlet ignored; he died in an Austrian asylum in August 1865 after being beaten by guards — two weeks before Lister began carbolic treatment of compound fractures in Glasgow. Institutional rejection has body counts; this one has a date pair worth remembering.</li>
+<li><strong>Pasteur's silkworm rescue (1865–70):</strong> pebrine disease collapsing French sericulture; Pasteur identified the two pathogens and the egg-selection protocol — germ theory's first agricultural application, saving an export industry before it convinced physicians.</li>
+<li>Koch chased cholera to Egypt then India (1883–84), isolated <em>Vibrio cholerae</em>, and returned a national hero — laboratory medicine acquiring imperial logistics.</li>
+<li><strong>First US installations:</strong> Lawrence, Massachusetts slow-sand filtration (1893); Jersey City's Boonton reservoir chlorination (1908, Leal's design, Fuller's execution) upheld by a court as delivering "pure and wholesome" water — sanitation validated in litigation, a governance form engineers should expect again.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch29.html" class="reader-nav-link">← Chapter 29</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch31.html" class="reader-nav-link">Chapter 31 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

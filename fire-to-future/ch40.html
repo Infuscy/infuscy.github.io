@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 40: Satellites: Communications, Positioning, Observation — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 40 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch40_satellites-chapter-40-satellites-communications-positioning-observation">Chapter 40: Satellites: Communications, Positioning, Observation</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1957 Sputnik → mega-constellations · <strong>Difficulty:</strong> extreme
+<br><strong>Requires:</strong> <a href="ch39.html">Ch 39</a>, <a href="ch34.html">Ch 34</a>-lineage RF, <a href="ch35.html">Ch 35</a> · <br><strong>Unlocks:</strong> global connectivity, GPS, weather/climate eyes — planetary nervous system</p>
+</blockquote>
+<p>A satellite is a robot in vacuum doing one job for fifteen years without repair. This chapter covers the bus (everything shared), then the three payload families that dominate a planet: communications, positioning, observation.</p>
+<h2 id="ch40_satellites-401-orbital-mechanics-minimum">40.1 Orbital Mechanics Minimum</h2>
+<ul>
+<li>LEO (~400–1,200 km): ~7.5 km/s, ~90–110 min periods; latency low, coverage narrow, drag real.</li>
+<li>MEO (~20,000 km): navigation's home (GPS constellation).</li>
+<li>GEO (35,786 km): matches Earth rotation — fixed footprint; Clarke proposed it for comms in 1945 from first principles. Single-sat coverage of ⅓ planet; ~500 ms round-trip latency.</li>
+<li>Station-keeping burns fuel against perturbations; when propellant ends, the satellite dies — orbit lifetime IS mission lifetime. Sun-synchronous orbits precess to keep constant solar time over ground (remote sensing favorite).</li>
+</ul>
+<h2 id="ch40_satellites-402-the-bus">40.2 The Bus</h2>
+<p>Every satellite shares:</p>
+<ul>
+<li><strong>Power:</strong> solar arrays (III-V cells &gt;30 % efficiency on premium birds) + batteries through eclipse seasons; power budget rules everything else.</li>
+<li><strong>Thermal:</strong> vacuum has no convection — radiators face deep space, louvers/heat pipes move heat, MLI blankets buffer solar cycling.</li>
+<li><strong>Attitude control:</strong> reaction wheels slew precisely using stored momentum (magnetorquers unload it against Earth's field); star trackers give arcsecond knowledge; thrusters for large maneuvers.</li>
+<li><strong>Command/data:</strong> TT&amp;C links, radiation-hardened or redundant computers (<a href="ch35.html">Ch 35</a> parts screened against single-event upsets).</li>
+</ul>
+<h2 id="ch40_satellites-403-communications-relays">40.3 Communications Relays</h2>
+<p>Lineage: Echo balloon (passive bounce) → Telstar (1962, active transponder) → Syncom (1963, GEO) → Intelsat global telephony. Transponders receive uplink, shift frequency, amplify, downlink — bandwidth sold by MHz. Antenna engineering (spot beams reuse frequencies geographically) and encryption layers serve broadcasters, carriers, and remote regions fiber can't reach (<a href="ch41.html">Ch 41</a> carries the bulk; satellites own the last mile everywhere else).</p>
+<h2 id="ch40_satellites-404-navigation-gps-as-civilizational-utility">40.4 Navigation: GPS as Civilizational Utility</h2>
+<p>Architecture: ~24+ satellites in MEO, each carrying atomic clocks, broadcasting precise time + orbit ephemerides continuously.</p>
+<ul>
+<li><strong>Trilateration:</strong> receiver solves position from signal travel times to ≥4 satellites (x,y,z + clock offset). Your phone's clock is garbage; the fourth satellite corrects it.</li>
+<li><strong>Relativity is not optional:</strong> satellite clocks tick ~38 μs/day fast net of special+general relativistic effects — uncorrected, positions drift ~10 km/DAY. The most elegant proof-by-necessity in engineering history.</li>
+<li>Accuracy tiers: open service meters-level; augmentation (WAAS/RTK) reaches centimeters for survey/agriculture/machine control.</li>
+<li>Dependence audit (do this seriously): aviation approaches, shipping, banking timestamps, power-grid sync, logistics all quietly assume GNSS. Jam/spoof resilience = critical-infrastructure planning (<a href="ch47.html">Ch 47</a>).</li>
+</ul>
+<h2 id="ch40_satellites-405-observation">40.5 Observation</h2>
+<ul>
+<li><strong>Weather satellites:</strong> TIROS (1960) began continuous atmospheric watching; hurricane warnings transformed mortality statistics — the quietest life-saving program ever fielded. Geostationary imagers loop storms live; polar orbiters feed forecast models globally.</li>
+<li><strong>Land/ocean remote sensing:</strong> Landsat continuity since 1972 gives decades-comparable surface records; spectral bands diagnose crops (NDVI vegetation index), water quality, mineral signatures; radar (SAR) images through cloud/night measuring ground deformation millimeter-scale (earthquake/volcano/subsidence science).</li>
+<li>Climate accounting (ice mass, sea level, carbon flux) exists ONLY via these platforms — policy-grade data infrastructure.</li>
+</ul>
+<h2 id="ch40_satellites-406-constellations-and-debris">40.6 Constellations and Debris</h2>
+<p>Mega-constellations (thousands of LEO birds) blur satellite-to-ground latency toward terrestrial feel. The externality they manage: <strong>orbital debris</strong> — Kessler syndrome (cascade collisions rendering orbits unusable) is the tragedy-of-commons failure mode. Mandatory doctrine: deorbit capability at end-of-life, collision avoidance coordination, trackable-and-maneuverable designs. A clogged LEO is a self-inflicted wound generations can't undo cheaply.</p>
+<h2 id="ch40_satellites-407-ground-segment">40.7 Ground Segment</h2>
+<p>Satellites are half the system: dishes/gateways, network operations centers, telemetry analysis, anomaly response procedures ("save the bird" playbooks). Ground stations networked globally hand off passes; scheduling software treats contacts like appointments. Budget reality: ground segment ≈ half of lifecycle cost — plan it with the launch, not after.</p>
+<p class="co co-key"><strong>Key threshold:</strong> when your civilization receives positioning, weather warning, and intercontinental connectivity as ambient utilities, it has crossed into "planetary dominance" operationally — space infrastructure is the definition difference between regional powers and planetary ones (<a href="appendix-d.html">Appendix D</a>).</p>
+<h2 id="ch40_satellites-408-the-satellite-papers">40.8 The Satellite Papers</h2>
+<ul>
+<li><strong>Telstar launched July 10, 1962 — the day after the Starfish Prime high-altitude nuclear test</strong> injected energetic particles into the magnetosphere; radiation damage contributed to Telstar's failure months later. Space-weather risk entered engineering through weapons testing; every subsequent rad-hardening spec descends from that lesson.</li>
+<li>Syncom 3 (1964) carried the Tokyo Olympics across the Pacific — geostationary broadcasting demonstrated on the world stage; Early Bird/Intelsat I (1965) made GEO commercially routine.</li>
+<li>Reconnaissance existed before civilians knew: CORONA film-return satellites flew 1960–1972 and were declassified in 1995 — their imagery ended the "missile gap" debates and seeded civilian remote-sensing practice.</li>
+<li><strong>Debris became measurable:</strong> Kessler's 1978 cascade paper named the syndrome; the 2007 Chinese ASAT test on Fengyun-1C added thousands of cataloged fragments; the 2009 Iridium 33–Cosmos 2251 collision proved accidental cascades occur. Tracking networks (US Space Surveillance, ESA conjunction warnings) now operate as traffic control — governance infrastructure built post hoc, as usual (<a href="ch47.html">Ch 47</a>).</li>
+<li>GPS lineage: Timation and 621B experimental programs merged into the 1978 Block Is; the Gulf War's 1991 use forced Selective Availability debates (civilian accuracy degraded deliberately until May 2000); GLONASS, Galileo, and BeiDou followed as sovereignty investments — navigation joined currency and language among state-function monopolies, then pluralized.</li>
+<li>Landsat's continuity argument: five decades of comparable multispectral imagery created climate and land-use science that no single mission could have; program survival fights recur every decade — long-duration measurement needs institutional champions, not just hardware budgets (<a href="ch20.html">Ch 20</a>'s metrology culture scaled to orbit).</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch39.html" class="reader-nav-link">← Chapter 39</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch41.html" class="reader-nav-link">Chapter 41 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

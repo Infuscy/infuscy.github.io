@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 44: Biotechnology: Genetics to CRISPR and mRNA — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 44 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch44_biotech-chapter-44-biotechnology-genetics-to-crispr-and-mrna">Chapter 44: Biotechnology: Genetics to CRISPR and mRNA</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1865 Mendel → present · <strong>Difficulty:</strong> extreme
+<br><strong>Requires:</strong> <a href="ch30.html">Ch 30</a>/<a href="ch31.html">31</a> medicine, <a href="ch35.html">Ch 35</a> sequencing hardware, chemistry industry · <br><strong>Unlocks:</strong> read-write genome access — biology becomes engineering</p>
+</blockquote>
+<p>Biology was the last physical science to become an information discipline. Once DNA's code was cracked and tools could READ it cheaply, then WRITE it precisely, medicine and agriculture joined the exponential economy.</p>
+<h2 id="ch44_biotech-441-foundations">44.1 Foundations</h2>
+<ul>
+<li><strong>Mendel (1865):</strong> particulate inheritance via pea ratios — ignored 35 years, then rediscovered simultaneously by three groups (replication's redemption arc).</li>
+<li><strong>DNA double helix (1953):</strong> Watson/Crick model built on Franklin/Gosling's Photo 51 X-ray diffraction; antiparallel strands, A-T/G-C base pairing → replication mechanism implied by structure. Data-first discovery done right.</li>
+<li><strong>Central dogma:</strong> DNA → RNA → protein; triplet codons cracked (Nirenberg et al.) — the genetic code is a LOOKUP TABLE, universal across life. That universality is why one toolkit edits everything.</li>
+<li>Recombinant DNA (Cohen-Boyer, 1973): restriction enzymes cut, plasmids carry, bacteria copy — genetic engineering begins. <strong>Asilomar conference (1975):</strong> scientists paused voluntarily to set safety tiers before proceeding — institutional foresight worth emulating permanently (<a href="ch47.html">Ch 47</a>).</li>
+</ul>
+<h2 id="ch44_biotech-442-reading-sequencing">44.2 Reading: Sequencing</h2>
+<p>Sanger sequencing (chain-terminating radio-labels) → automated fluorescence → Human Genome Project (1990–2003): $3 billion, 13 years, international consortium vs private competitor — both finished together, both vindicated. Then next-generation sequencing collapsed costs ~100,000×: genomes now sequence for hundreds of dollars. Biology acquired its Moore's-law moment; hypothesis generation became data-limited instead of sample-limited.</p>
+<p>PCR (Mullis, 1983): enzymatic exponential copying of target sequences — the amplification trick behind diagnostics (COVID-era PCR), forensics, paleogenomics. Thermocyclers are just precision temperature cycling (<a href="ch20.html">Ch 20</a>).</p>
+<h2 id="ch44_biotech-443-writing-crispr">44.3 Writing: CRISPR</h2>
+<p>CRISPR-Cas9 (Doudna/Charpentier, 2012; Nobel 2020): a bacterial immune system repurposed into programmable scissors — guide RNA targets any ~20-base sequence; Cas9 cuts there; cellular repair machinery does the rest (knockouts easily; precise edits via repair templates; base/prime editors refine further without double-strand breaks).</p>
+<p>Applications shipped or imminent:</p>
+<ul>
+<li><strong>Agriculture:</strong> Bt insect resistance, herbicide tolerance, disease-resistant crops (papaya ringspot saved Hawaii's industry), golden rice vitamin-A biofortification, faster breeding via gene editing versus transgenic baggage. Controversy summary kept honest: regulatory regimes vary wildly; safety record to date strong; access economics contested.</li>
+<li><strong>Medicine:</strong> recombinant insulin/HGH (1980s first blockbusters), CAR-T cancer immunotherapy (patient cells engineered to hunt leukemia), gene therapies reaching approval (Luxturna blindness; Casgevy sickle-cell 2023 — first CRISPR therapy).</li>
+<li><strong>Manufacturing:</strong> engineered microbes producing enzymes, materials, food proteins — fermentation as general-purpose factory (<a href="ch17.html">Ch 17</a>'s craft scaled by design).</li>
+</ul>
+<h2 id="ch44_biotech-444-mrna-platform">44.4 mRNA Platform</h2>
+<p>Karikó/Weissman's insight: modified nucleosides (pseudouridine) let synthetic mRNA dodge innate immune alarms; lipid nanoparticles deliver it into cells (decades of unglamorous nanoparticle work made delivery possible). COVID vaccines proved platform speed: sequence pathogen → designed vaccine in DAYS; clinical validation &lt;1 year. The product isn't one vaccine — it's the CAPABILITY to encode any protein transiently: vaccines, enzyme replacement, personalized cancer antigens. Platform thinking beats product thinking.</p>
+<h2 id="ch44_biotech-445-biosecurity-frame">44.5 Biosecurity Frame</h2>
+<p>Capability demands governance (kept at policy level here):</p>
+<ol>
+<li>Sequence/synthesis screening for hazardous-pathogen orders of concern.</li>
+<li>Dual-use research review with published criteria — transparency about categories, discretion about methods.</li>
+<li>Culture of publication norms balancing openness against uplift (the Asilomar tradition continued).</li>
+<li>Public-health surge capacity (vaccine platforms + manufacturing reservations) as defense-in-depth — <a href="ch31.html">Ch 31</a>'s stewardship logic extended.</li>
+</ol>
+<p class="co co-key"><strong>Key threshold:</strong> "read-write genome" maturity = sequencing cost below surveillance budgets + editing success rates reliable enough for approved therapies. Past that line, biology compounds like software: design-build-test cycles shrink annually, and the constraint shifts from capability to wisdom (<a href="ch47.html">Ch 47</a> closes that loop).</p>
+<h2 id="ch44_biotech-446-the-biology-papers">44.6 The Biology Papers</h2>
+<ul>
+<li>Mendel died (1884) unrecognized; three botanists rediscovered the ratios independently in 1900; Bateson coined "genetics" (1905). Griffith found the "transforming principle" (1928); Avery–MacLeod–McCarty identified it as DNA (1944); Hershey–Chase's blender experiment (1952) settled protein-vs-DNA for most holdouts.</li>
+<li><strong>Photo 51 was taken by Raymond Gosling under Rosalind Franklin's supervision (May 1952)</strong>; Franklin died of ovarian cancer in 1958 at 37, before the 1962 Nobel (rules exclude the dead). Modern historiography restored her contribution; the episode is now standard coursework in credit allocation.</li>
+<li>Nirenberg's poly-U codon assignment (May 1961) cracked the first word of the code mid-conference-hall silence; Sanger's dideoxy method (1977, second Nobel 1980) made reading genes routine.</li>
+<li>Cohen–Boyer published November 1973; Boyer met venture capitalist Swanson in 1976 → Genentech; Humulin (approved 1982) became the first approved recombinant drug — biotech's founding business cycle took three years.</li>
+<li>Asilomar (February 1975): Berg-led voluntary moratorium and risk-tiered guidelines — self-governance executed BEFORE incidents, still the reference case (<a href="ch47.html">Ch 47</a>).</li>
+<li>PCR: Mullis conceived it on a night drive (1983); Cetus fought DuPont off the patent; the technique earned a Nobel (1993) and every diagnostic lab that followed.</li>
+<li>Sequencing politics: HGP (public, Collins) versus Celera (private, Venter) announced a joint draft June 26, 2000 via Clinton–Blair satellite link; shotgun-method contributions remain contested in credit but not in effect — costs fell ~six orders of magnitude within two decades.</li>
+<li>CRISPR's own papers: Ishino spotted odd repeats (1987); Mojica hypothesized immunity (~2003, published 2005); Doudna–Charpentier's programmable editing (June 2012); Zhang/Broad and Church groups delivered mammalian editing (2013). The USPTO interference ruling favored Broad (2022) while European offices decided differently — jurisdictional divergence as live IP case study.</li>
+<li>The boundary case, recorded factually: He Jiankui announced edited babies (November 2018); Chinese courts sentenced him to three years (December 2019). Germline editing in humans remains prohibited across most jurisdictions — biosecurity norms have enforcement history now.</li>
+<li>mRNA speed run, dated: SARS-CoV-2 sequence published January 11, 2020; Moderna's vaccine designed within days; first human dosed March 16, 2020; EUAs December 2020. Karikó–Weissman's pseudouridine modification (2005) plus decades of lipid-nanoparticle work made the platform possible — pandemic urgency cashing decades of unfashionable research.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch43.html" class="reader-nav-link">← Chapter 43</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch45.html" class="reader-nav-link">Chapter 45 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

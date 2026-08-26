@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 39: Rocketry and Access to Orbit — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 39 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch39_rocketry-chapter-39-rocketry-and-access-to-orbit">Chapter 39: Rocketry and Access to Orbit</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1926 Goddard → reusable era · <strong>Difficulty:</strong> extreme
+<br><strong>Requires:</strong> <a href="ch27.html">Ch 27</a>/<a href="ch38.html">38</a> materials, <a href="ch29.html">Ch 29</a> turbomachinery concepts, <a href="ch36.html">Ch 36</a> guidance compute, <a href="ch20.html">Ch 20</a> gyroscopes · <br><strong>Unlocks:</strong> <a href="ch40.html">Ch 40</a> entirely — the highest-leverage capability in this book</p>
+</blockquote>
+<p>Orbit access is a physics problem with a brutal receipt: nothing else in the book demands so much energy per kilogram delivered. Master the arithmetic first; everything else follows from respecting it.</p>
+<h2 id="ch39_rocketry-391-the-tyranny-of-the-rocket-equation">39.1 The Tyranny of the Rocket Equation</h2>
+<p>Tsiolkovsky: <strong>Δv = vₑ·ln(m₀/m_f)</strong> — velocity gained equals exhaust velocity times the natural log of mass ratio. The log is the tyrant:</p>
+<ul>
+<li>To LEO needs ~9.4 km/s total (7.8 km/s orbital + gravity/drag losses).</li>
+<li>With exhaust velocity ~3 km/s (kerosene/LOX), mass ratio e^3.1 ≈ 23 — meaning ~96 % of liftoff mass is propellant. Structure+payload share the remaining 4 %.</li>
+<li><strong>Staging</strong> resets the denominator: drop empty tanks/engines mid-flight and the remaining vehicle's math restarts lighter. Two-to-three stages make orbit reachable; single-stage-to-orbit with chemical fuels remains marginal engineering.</li>
+</ul>
+<p>Design consequence: every gram of structure steals payload quadratically-ish. Aerospace weight discipline ("fighting for ounces") is culture, not affectation.</p>
+<h2 id="ch39_rocketry-392-propellants">39.2 Propellants</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Family</th>
+<th>Examples</th>
+<th>Isp (s, vac)</th>
+<th>Trade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kerolox</td>
+<td>RP-1/LOX</td>
+<td>~340</td>
+<td>dense, storable-ish, great first stage</td>
+</tr>
+<tr>
+<td>Hydrolox</td>
+<td>LH₂/LOX</td>
+<td>~450</td>
+<td>best Isp; cryogenic H₂ bulky, leaky, expensive tanks</td>
+</tr>
+<tr>
+<td>Hypergolic</td>
+<td>NTO/hydrazine</td>
+<td>~320</td>
+<td>ignites on contact — reliability for spacecraft; toxic handling</td>
+</tr>
+<tr>
+<td>Solids</td>
+<td>APCP</td>
+<td>~250–280</td>
+<td>simple, no throttle/cutoff; boosters, kick stages</td>
+</tr>
+<tr>
+<td>Methalox</td>
+<td>CH₄/LOX</td>
+<td>~370</td>
+<td>clean-burning (reusability), modern favorite</td>
+</tr>
+</tbody>
+</table></div>
+<p>Engine cycles (how turbines drive pumps): pressure-fed (simplest) → gas generator (exhaust dumped) → staged combustion (full-performance, hardest). Pump-fed engines are jet engines' violent cousins — turbopumps spin tens of thousands of rpm moving cryogens.</p>
+<h2 id="ch39_rocketry-393-guidance-and-control">39.3 Guidance and Control</h2>
+<ul>
+<li><strong>Gyroscopes + accelerometers</strong> (inertial measurement): integrate acceleration to know position without external references (<a href="ch20.html">Ch 20</a>'s precision escalated to war-then-space grade).</li>
+<li><strong>Thrust vector control:</strong> gimbaled engines or vanes steer by pointing thrust — rockets balance like brooms on palms, actively.</li>
+<li>Guidance laws fly computed trajectories; kill switches and range safety destruct rules exist because failures rain fuel.</li>
+<li>Control-loop tuning under changing mass/aero conditions = hard real-time feedback (<a href="ch45.html">Ch 45</a> ancestor).</li>
+</ul>
+<h2 id="ch39_rocketry-394-lineage-compressed">39.4 Lineage Compressed</h2>
+<p>Goddard flies liquid-fueled rocket (1926, Massachusetts farm); his patents later tax every American launch. The wartime V-2 (Peenemünde program; first successful ballistic flight October 3, 1942; ~3,200 operational launches from September 1944) demonstrates rocketry at strategic scale (~320 km apex altitude, first human-made objects reaching space-adjacent altitudes); postwar programs in the US (Operation Paperclip hires von Braun's team) and USSR (Korolev, drawing on R-1/V-2 derivatives) build directly on its engineering. R-7 clusters engines into orbit-capable booster → Sputnik (Oct 1957). Saturn V apex: ~2,900 t liftoff, F-1 engines (single-shaft monsters), Moon within a decade of program start — proof that systems integration at national scale works when requirements freeze.</p>
+<p>Reusable turn: Shuttle flew often but refit costs ate economics (thermal-protection tile labor, SSME teardown). Propulsive landing (fly-back boosters landing on tails, 2015→) attacks the OTHER cost half: hardware amortization across flights.</p>
+<h2 id="ch39_rocketry-395-site-and-ops-discipline">39.5 Site and Ops Discipline</h2>
+<ul>
+<li>Launch toward equator/eastward harvests Earth's rotation (~465 m/s free at equator).</li>
+<li>Max-Q (peak dynamic pressure) throttle management; fairings protect payloads through transonic buffet then jettison — every kg of fairing was payload's enemy.</li>
+<li>Range safety, weather constraints, pad deluge/acoustics (sound alone destroys unfixed hardware).</li>
+<li>Reliability doctrine: quality culture beats test heroics — inspect EVERYTHING, test to failure on the ground so failures happen there. Post-failure forensics feed design changes mandatorily (<a href="ch33.html">Ch 33</a>'s aviation pattern).</li>
+</ul>
+<h2 id="ch39_rocketry-396-why-this-chapter-rules-the-rest">39.6 Why This Chapter Rules the Rest</h2>
+<p>Orbit delivers: global communication, navigation, observation, climate monitoring, treaty verification — <a href="ch40.html">Ch 40</a> in full. A civilization without launch is blind beyond its horizon and deaf across oceans. Prioritize accordingly: this is the single capability whose absence caps planetary dominance.</p>
+<p class="co co-key"><strong>Key threshold:</strong> routine access below ~$2,000/kg-to-LEO marks the industrialization line (history sat at $50k+/kg shuttle-era; reusability drove order-of-magnitude cuts). Below that line, satellite constellations become infrastructure instead of national prestige projects.</p>
+<h2 id="ch39_rocketry-397-the-rocketry-papers">39.7 The Rocketry Papers</h2>
+<ul>
+<li>The New York Times editorialized against Goddard in 1920 (mocking lunar flight as ignorance of schoolboy physics); <strong>on July 17, 1969 — Apollo 11's launch day — it printed a correction</strong>, conceding Goddard's mathematics. Institutional humility has a dated artifact.</li>
+<li>Lindbergh brokered Guggenheim funding for Goddard (1929 onward) after visiting Roswell — celebrity philanthropy financing basic rocketry when agencies wouldn't.</li>
+<li><strong>Peenemünde's ledger:</strong> the A-4/V-2 program's success (first ballistic flight October 3, 1942; ~3,200 operational launches) rested on the Mittelwerk underground complex where prisoner labor produced them; estimates of deaths in the Dora-Mittelbau system run into the tens of thousands. This book records the engineering lineage AND its human cost in the same paragraph — both belong to the record.</li>
+<li>Postwar absorption: ~1,600 German specialists entered US service (Paperclip); Korolev's bureau reverse-engineered V-2s before leaping ahead; the Cold War missile race then funded everything in this chapter.</li>
+<li><strong>Sputnik's effect was acoustic:</strong> the 21 MHz beeps were deliberately trackable by any radio ham; Explorer 1 (January 31, 1958) discovered the Van Allen belts; NASA stood up October 1, 1958 from NACA within ten months of Sputnik — organizational speed as strategic response.</li>
+<li><strong>F-1 combustion instability</strong> nearly killed Saturn V: oscillating pressure waves destroyed engines until baffle-ring injectors plus a documented campaign of full-scale test firings tamed it — brute-force empirical iteration solving what theory couldn't, on record at Marshall.</li>
+<li>Crewed-loss doctrine: Apollo 1's pad fire (January 27, 1967 — pure-O₂ atmosphere, inward-opening hatch, combustible materials) rewrote cabin atmospheres, hatches, and wiring standards; Challenger (January 28, 1986) turned on cold-degraded O-rings (Feynman's ice-water demonstration at the Rogers Commission remains the genre's clearest public explanation); Columbia (February 1, 2003) fell to launch foam damaging the wing leading edge. Each disaster produced mandatory-design changes — the aviation postmortem culture applied to spaceflight.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch38.html" class="reader-nav-link">← Chapter 38</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch40.html" class="reader-nav-link">Chapter 40 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

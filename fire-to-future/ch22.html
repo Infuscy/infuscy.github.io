@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 22: Coke Smelting and Cheap Iron — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 22 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch22_coke_iron-chapter-22-coke-smelting-and-cheap-iron">Chapter 22: Coke Smelting and Cheap Iron</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1709 Darby → 1850s · <strong>Difficulty:</strong> mid–high
+<br><strong>Requires:</strong> <a href="ch14.html">Ch 14</a>, <a href="ch13.html">Ch 13</a> coal, <a href="ch16.html">Ch 16</a> blast power · <br><strong>Unlocks:</strong> <a href="ch23.html">Ch 23</a> engine cylinders, <a href="ch27.html">Ch 27</a> steel feedstock</p>
+</blockquote>
+<p>Charcoal iron hit a ceiling: each ton of bar iron consumed the annual growth of ~10+ acres of forest. England's answer — smelting with coked coal — is the single most important substitution in industrial history. This chapter is deliberately short on chemistry (already covered in <a href="ch14.html">Ch 14</a>) and long on SCALE engineering.</p>
+<h2 id="ch22_coke_iron-221-why-raw-coal-fails-and-coke-works">22.1 Why Raw Coal Fails and Coke Works</h2>
+<p>Coal straight from the ground carries sulfur (embrittles hot metal), volatiles (tar/smoke wreck furnace chemistry), and crumbles under load (chokes the air column). <strong>Coke</strong> fixes all three: heat coal in oxygen-starved ovens to drive off volatiles (~20–30 % mass loss), leaving porous carbon skeleton that burns hot, stays strong in a loaded shaft, and (with careful coal selection or washing) leaves sulfur behind.</p>
+<ul>
+<li><strong>Beehive ovens:</strong> dome chambers batch-coked; simple, wasteful of byproducts.</li>
+<li><strong>Byproduct retorts</strong> (later): capture tar, ammonia liquor, gas — the same family of chemicals as <a href="ch21.html">Ch 21</a>'s industry.</li>
+</ul>
+<h2 id="ch22_coke_iron-222-the-shaft-furnace-grows">22.2 The Shaft Furnace Grows</h2>
+<p>Coke's crush strength permits TALLER furnaces than charcoal ever allowed — taller shaft = better heat exchange = less fuel per ton. Additions that compound:</p>
+<ol>
+<li><strong>Water- or steam-driven blowing engines:</strong> continuous high-pressure blast replaces bellows; furnace temperatures stabilize.</li>
+<li><strong>Hot blast (Neilson, 1828):</strong> preheat incoming air through stoves heated by furnace's own exhaust gases — cuts fuel ~⅓ immediately. Recycling waste heat becomes standard design doctrine from here forward.</li>
+<li><strong>Slag control:</strong> limestone flux charges calculated per ore analysis (<a href="ch20.html">Ch 20</a> assays); tap slag continuously, cast pig iron into ingots ("pigs") for transport to refineries.</li>
+</ol>
+<h2 id="ch22_coke_iron-223-refining-pig-to-wrought">22.3 Refining Pig to Wrought</h2>
+<p>Pig iron (~3–4 % carbon) is brittle. Two historical routes:</p>
+<ul>
+<li><strong>Finery/forge charcoal routes</strong> — obsolete once volumes grew.</li>
+<li><strong>Puddling (Cort, 1784):</strong> stir molten pig in reverberatory furnace (flame passes OVER the metal, fuel never touches it) while carbon burns out; the pasty ball is then squeezed/rolled to expel slag. Brutal manual labor, but output jumped from hundreds of tons to tens of THOUSANDS annually per works. Mechanized puddling failed historically until Bessemer made it moot — don't over-invest there (<a href="#ch22_coke_iron-226-the-jump-to-steel">Jump</a> below).</li>
+</ul>
+<h2 id="ch22_coke_iron-224-rolling-mills">22.4 Rolling Mills</h2>
+<p>Rolling (squeezing hot metal between powered rolls) replaces hammering for stock production: bars, plates, rails, structural shapes. Rolling rail directly (rather than hammering strap rail) multiplies railway build-out feasibility in <a href="ch24.html">Ch 24</a>. Universal rolling mills (adjustable roll gap via screws) make one mill produce many sections — flexibility as capital efficiency.</p>
+<h2 id="ch22_coke_iron-225-numbers-that-tell-the-story">22.5 Numbers That Tell the Story</h2>
+<p>Britain pig-iron output: ~17,000 t (1740) → ~125,000 t (1796, coke dominant) → &gt;2,000,000 t (1850s). Iron price fell ~an order of magnitude across the century. Every downstream chapter's economics reprice accordingly: machinery cheap enough to build MORE machines — the self-replication threshold crossed at last.</p>
+<p class="co co-key"><strong>Key threshold:</strong> iron so cheap that replacing wooden machine parts, bridges, ship hulls, and rails with iron pays back within years. When you see that arithmetic locally, scale the works aggressively.</p>
+<h2 id="ch22_coke_iron-226-the-jump-to-steel">22.6 The Jump to Steel</h2>
+<p class="co co-jump"><strong>Jump:</strong> with hot blast + assay discipline, push experiments toward direct steelmaking rather than perfecting wrought iron: Henry Bessemer's converter (1856 — air blown THROUGH molten pig burns carbon in minutes, not weeks) needs only phosphorus-free ores OR basic linings (Gilchrist-Thomas, 1879) to conquer everything. Full treatment lands in <a href="ch27.html">Ch 27</a>; flag here that puddling-era investments should be sized as BRIDGES, not destinations.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> deforestation-by-smelting. Charcoal iron at scale strips continents (historical Mediterranean, China's loess margins). Coal geology, not forest stewardship, is what lets iron production compound without ecological bankruptcy.</p>
+<h2 id="ch22_coke_iron-227-the-coalbrookdale-papers">22.7 The Coalbrookdale Papers</h2>
+<ul>
+<li><strong>Abraham Darby I</strong> leased Coalbrookdale's furnace in 1709 and coked Shropshire clod coal for smelting thin-walled castings (cookware first — the cheap-castings business funded the metallurgy). His son Darby II solved coke-furnace blowing problems and cast Newcomen cylinders (~1722) — the steam age's cylinders came FROM the coke-iron complex, closing the loop between chapters.</li>
+<li><strong>Darby III built the Iron Bridge (1779)</strong> — 30 m span, first major cast-iron bridge, assembled from standardized castings: marketing monument for the family furnace.</li>
+<li><strong>Henry Cort's ruin is documented incentive-system evidence:</strong> his puddling/rolling patents (1783–84) made him wealthy briefly; his financial agent embezzled government funds into Cort's works; when the agent died insolvent, the Crown held liens — Cort died poor (1800) while his patents lapsed into free use, accelerating national output. Britain's puddled-iron boom was partly built on a bankrupted inventor's orphaned IP: record it, plan around such outcomes (<a href="ch47.html">Ch 47</a>).</li>
+<li><strong>Neilson's hot blast (1828)</strong> emerged from Glasgow Gas Works troubleshooting (heated air improving iron-smelting furnace combustion), cut fuel consumption roughly a third, and enabled raw-coal smelting in Scotland — waste-heat recovery paying for itself within months wherever adopted.</li>
+</ul>
+<h2 id="ch22_coke_iron-228-hot-blast-teaching-waste-heat-to-work">22.8 Hot Blast: Teaching Waste Heat to Work</h2>
+<p>§22.2 names hot blast; this section teaches it, because it is the cheapest single fuel win available to any shaft-furnace economy and the founding doctrine of industrial waste-heat recovery.</p>
+<p><strong>Mechanism.</strong> Cold blast steals heat from the hearth: every cubic meter of air must be warmed from ambient to flame temperature by burning fuel <em>inside</em> the furnace. Preheating that air outside the burden means less fuel burned for the same flame temperature — or a hotter flame from the same fuel, which smelts faster and tolerates poorer fuels. The exhaust gas leaving a furnace still carries 400–800 °C of usable heat; routing it backward into the incoming blast converts a smoke nuisance into fuel.</p>
+<p><strong>Documented numbers.</strong> James Beaumont Neilson's patent (1828) began with blast heated only ~80–150 °C through cast-iron pipes; Clyde Iron Works' coal consumption per ton of pig fell by roughly a third almost immediately, and Scottish works adopted the practice within a few years. Higher blast temperatures followed better stoves: 300 °C common by the mid-1830s, 400–600 °C with improved pipe and stove materials. The second documented payoff: hot enough blast let Scottish furnaces run <strong>raw bituminous coal</strong> instead of coke where local chemistry allowed (self-fluxing blackband ores), deleting the entire coking step's cost. A century later Cowper regenerative stoves pushed blast beyond 1,000 °C — the same doctrine scaled.</p>
+<p><strong>Worked stove sizing</strong> (the arithmetic that tells you the stove pays before you build it). Assume a works furnace drawing blast at 100 m³/min and a target of heating it from ambient to 300 °C:</p>
+<ol>
+<li>Air mass flow: 100 m³/min × ~1.2 kg/m³ ≈ 120 kg/min.</li>
+<li>Heat duty: 120 kg/min × 1.0 kJ/kg·K × (300 − 20) K ≈ 34 MJ/min ≈ <strong>560 kW continuous recovered duty</strong>.</li>
+<li>Pipe area: gas-to-gas heat transfer through cast-iron pipe walls runs conservatively near U ≈ 15 W/m²·K; counterflow ΔT ≈ 315 K → area = Q/(U·ΔT) ≈ 560,000/(15 × 315) ≈ <strong>120 m²</strong> — e.g., sixty 150 mm-diameter pipes of ~4 m length in the flue chamber.</li>
+<li>Compare against fuel: 560 kW recovered around the clock is ~48 GJ/day — several tons of coal per day not burned for the same smelting work, which is why adoption was measured in months, not years.</li>
+</ol>
+<p>Scale linearly for bigger blast; Clyde-class furnaces needed stove buildings, not pipe arrays, and got them. Two honesty notes: measured savings ran <em>ahead</em> of this arithmetic because hotter flame improves furnace chemistry, not just sensible heat recovery; and the raw-coal route is conditional — high-volatile caking coals low in sulfur on self-fluxing ores — otherwise stay with coke (<a href="#ch22_coke_iron-221-why-raw-coal-fails-and-coke-works">§22.1</a>).</p>
+<p><strong>Deployment steps.</strong></p>
+<ol>
+<li>Build a brick recuperator chamber in the exhaust flue; run blast air through an array of cast-iron pipes heated from outside (counterflow: hottest exhaust meets outgoing hottest air).</li>
+<li>Start conservative — target blast <strong>150–200 °C</strong>; iron pipes scale and burn above their capacity, and a burst pipe dumping cold air into a hot furnace costs more than it saves.</li>
+<li>Log fuel per ton of pig weekly (<a href="#ch22_coke_iron-225-numbers-that-tell-the-story">§22.5</a> numbers) and plot on X̄–R charts per <a href="ch47.html">Ch 47</a> §47.13 alongside the per-charge logs — the fuel drop is large enough to see immediately, which makes hot blast the perfect first exercise in measured process control.</li>
+<li>Upgrade stove materials toward <strong>400–600 °C</strong> blast once weeks of logs show stable operation.</li>
+<li>When furnace output justifies gas-tight top closure, switch to true regenerators: <strong>Cowper stoves (1857)</strong> burn cleaned furnace gas on checker-brick chambers in alternating pairs, 20–60 minute swings, delivering 600–1,000 °C blast continuously.</li>
+</ol>
+<p><strong>Instrumentation and routine</strong> (the stove is a process, not a monument):</p>
+<ul>
+<li>Blast thermometer at the tuyère inlet — the stove's single most important gauge; every other number on this section keys to it.</li>
+<li>Furnace-pressure taps either side of the stove circuit: rising pressure drop across the pipes means fouling/scale buildup inside them.</li>
+<li>Swing procedure for regenerator pairs: heat-on chamber burns gas until its checker top nears material limit; swing valves; the fresh chamber gives its stored heat to blast while the spent one reheats. Miss a swing and the on-line stove chills mid-blast — the furnace feels it within minutes as falling tap temperature.</li>
+<li>Monthly: inspect pipe sections and checker crowns; log wall-thickness checks on the hottest pipes; retire thin sections before they burst into the flue.</li>
+</ul>
+<p><em>Failure modes:</em> pipe burnout between inspection intervals → stagger spare pipe sections and inspect monthly; check valves fouling with tar → fit cleanouts; blast too hot for tuyère refractory → water-cooled tuyère jackets before pushing temperatures further; missed swing cycle → manual override drill rehearsed quarterly.</p>
+<p><strong>Scale boundary — when hot blast is the wrong investment.</strong> The stove's recovered heat must exceed what it loses through its own walls and the pumping penalty of dragging blast through long pipe runs — runs that bellows-driven blast, with its stroke-to-stroke pressure pulsing, handles worst of all. Below roughly the Ch 14 bloomery class (single small shafts, bellows-driven), stove losses and added resistance swallow the gain: keep cold blast until a furnace consumes fuel fast enough to feed a recuperator continuously — as an ordering rule, hot blast enters the plan when the works burns multiple tons of fuel per day, not per week. Above that line the economics only improve with size, which is why every large ironworks on record converged on it within a decade of availability — and why small charcoal furnaces historically kept cold blast for decades after 1828 without being wrong to do so.</p>
+<p><strong>Synergy with blowing power.</strong> Hot blast does not reduce the volume of air a furnace wants, but it raises what each cubic meter does (<a href="ch16.html">Ch 16</a> water-driven blowers suffice at small scale). At coke-furnace scale the steady high-pressure blast comes from steam blowing engines (<a href="ch23.html#ch23_steam-235-deployment-priorities">§23.5</a>): the engine burns fuel to move air, the recuperator recycles heat into that air, and both fuel streams land in the same per-ton ledger — measure them together or optimize neither.</p>
+<p class="co co-key"><strong>Key threshold:</strong> blast ≥200 °C cuts fuel per ton by about a third; below ~100 °C the gains drown in stove losses. If your logs cannot show the difference, your instrumentation is the first repair.</p>
+<p><strong>Worked fuel ledger</strong> (per ton of pig, rounded from published Clyde-era returns): cold blast consumed roughly <strong>8 t of coal per ton of pig</strong>; hot blast at ~300 °C cut this toward <strong>5 t</strong> — three tons saved per ton of iron, call it <strong>~90 GJ of fuel per ton of product</strong> at coal's ~30 GJ/t. A works casting 50 t of pig per week therefore keeps ~150 t of coal in stock weekly, before counting the coking step deleted wherever raw coal proves workable. Run this ledger monthly from your own logs (<a href="#ch22_coke_iron-225-numbers-that-tell-the-story">§22.5</a>); the stove's payback time falls out of two columns of arithmetic.</p>
+<p>Institutional footnote worth carrying into <a href="ch47.html">Ch 47</a>: Neilson defended his patent through litigation (Neilson v. Harwood upheld it in 1834) and died wealthy from royalties — the incentive system working exactly as designed, a pointed documented contrast with Cort's ruin one section above. Both cases are on the historical record; rebuilders should plan for both outcomes.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch21.html" class="reader-nav-link">← Chapter 21</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch23.html" class="reader-nav-link">Chapter 23 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

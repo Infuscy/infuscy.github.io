@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 42: The Internet and Data Centers — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 42 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch42_internet-chapter-42-the-internet-and-data-centers">Chapter 42: The Internet and Data Centers</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1969 ARPANET → cloud era · <strong>Difficulty:</strong> extreme
+<br><strong>Requires:</strong> <a href="ch36.html">Ch 36</a>, <a href="ch41.html">Ch 41</a>, <a href="ch26.html">Ch 26</a> · <br><strong>Unlocks:</strong> planetary knowledge coordination — the book's own distribution medium</p>
+</blockquote>
+<p>The internet is not a thing but an AGREEMENT: protocols everyone adopts so any network can talk to any network. Its genius is architectural humility — a dumb, reliable packet core with intelligence pushed to the edges. This chapter builds that agreement and the physical plant underneath it.</p>
+<h2 id="ch42_internet-421-packet-switching-insight">42.1 Packet Switching Insight</h2>
+<p>Circuit switching (telephony) reserves paths even during silence; Baran/Licklider-era insight: chop messages into PACKETS, each finding its way independently, links shared statistically. Survivability (no single node kills the net) and efficiency (multiplexing bursty traffic) fall out of the same design. ARPANET demonstrated it across four nodes (1969); email arrived 1971 and immediately dominated traffic (people, it turns out, want to talk).</p>
+<h2 id="ch42_internet-422-tcpip-and-layering">42.2 TCP/IP and Layering</h2>
+<p>January 1, 1983: ARPANET flag-day to TCP/IP. The stack:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>Job</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Link</td>
+<td>move frames one hop</td>
+<td>Ethernet, Wi-Fi</td>
+</tr>
+<tr>
+<td>Internet</td>
+<td>route packets end-to-end</td>
+<td>IP (best-effort, no promises)</td>
+</tr>
+<tr>
+<td>Transport</td>
+<td>reliability/flow</td>
+<td>TCP (ordered, retransmits), UDP (fast, raw)</td>
+</tr>
+<tr>
+<td>Application</td>
+<td>actual meaning</td>
+<td>HTTP, DNS, SMTP</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>End-to-end principle:</strong> keep core simple; put intelligence at endpoints. Consequences: innovation needs no permission (new apps run on old networks), censorship/filtering concentrates at edges, failures degrade gracefully. Ethernet (Metcalfe, 1973) won local networking on cost; switches later replaced hub collision domains.</p>
+<h2 id="ch42_internet-423-naming-and-trust">42.3 Naming and Trust</h2>
+<ul>
+<li><strong>DNS (1983):</strong> hierarchical names mapping to addresses — human-readable, globally delegated, cached aggressively. DNS is critical infrastructure disguised as phone book.</li>
+<li><strong>Public-key cryptography (Diffie-Hellman 1976, RSA 1977):</strong> two parties derive shared secrets over open channels; sign documents without sharing signing keys. TLS wraps connections in authenticated encryption; certificate authorities anchor identity chains (their compromises are systemic risks — pinning/transparency logs mitigate).</li>
+<li>Threat arc: Morris worm (1988, first internet-scale wake-up) → botnets/ransomware era. Defense doctrine: patch velocity, least privilege, defense-in-depth, assume-breach monitoring. Security is process, not product (<a href="ch47.html">Ch 47</a>).</li>
+</ul>
+<h2 id="ch42_internet-424-the-web-layer">42.4 The Web Layer</h2>
+<p>Berners-Lee (1989–91): URL + HTTP + HTML — hypertext with global addressing, deliberately royalty-free. Mosaic (1993) made it visual; browsers became universal clients. Then: search (PageRank mapped academic citation logic onto links — authority as algorithm), platforms/recommendation engines (engagement economics — note honestly: attention markets have pathologies regulation is still chasing), and API ecosystems where services compose services.</p>
+<h2 id="ch42_internet-425-data-centers">42.5 Data Centers</h2>
+<p>The internet's body is warehouses of computation:</p>
+<ul>
+<li><strong>Scale anatomy:</strong> megawatt campuses; racks at 10–100+ kW; leaf-spine network fabrics; storage tiers (NVMe → disk → tape archive).</li>
+<li><strong>Efficiency metric PUE</strong> (total power ÷ IT power): legacy ~2.0, hyperscale ~1.1 via free-air/economizer cooling, hot-aisle containment, running warmer.</li>
+<li><strong>Virtualization → cloud (AWS 2006):</strong> hardware abstracted into rentable primitives (compute instances, object storage, managed databases). CapEx became OpEx; startups scaled without buying data centers; utilization economics favored giants who could fill machines.</li>
+<li><strong>CDNs:</strong> cache content at edges near users — latency and backbone load both drop; the network effectively grows content outward.</li>
+<li>Reliability engineering: redundancy (N+1 power/cooling), availability zones, chaos testing, SRE error budgets (<a href="ch47.html">Ch 47</a>'s statistical governance applied to uptime).</li>
+</ul>
+<h2 id="ch42_internet-426-governance-and-doctrine">42.6 Governance and Doctrine</h2>
+<ul>
+<li>IETF culture: open standards via "rough consensus and running code" — RFCs anyone can read/implement. Protocol neutrality kept the network generative.</li>
+<li>Net-neutrality debates, jurisdiction conflicts, platform-governance arguments remain live politics; the ENGINEERING stance stays constant: interoperability, openness, graceful degradation.</li>
+<li>Capacity planning lesson from history's fiber glut: build ahead of demand when marginal cost is low — bandwidth follows demand with lag, and lag costs decades (<a href="ch41.html">Ch 41</a>).</li>
+</ul>
+<h2 id="ch42_internet-427-why-this-is-the-books-keystone">42.7 Why This Is the Book's Keystone</h2>
+<p>Every prior technology documented its results in paper archives decaying by fire and neglect; this one indexes humanity's knowledge in real time, distributes it universally, and lets <a href="ch44.html">Ch 44</a>-<a href="ch46.html">46</a> compound at network speed. A civilization dominating a planet runs on synchronized information — this chapter IS that synchronization.</p>
+<p class="co co-key"><strong>Key threshold:</strong> majority-of-population broadband access marks information-infrastructure arrival; measure by participation (creators, transactors online), not just subscription counts.</p>
+<h2 id="ch42_internet-428-the-internet-papers">42.8 The Internet Papers</h2>
+<ul>
+<li>Lineage documents stack up neatly: Licklider's "Intergalactic Computer Network" memo (1962); Baran's RAND <em>On Distributed Communications</em> (1964, eleven volumes); Donald Davies independently coined "packet" at NPL (1965–66). Three origins, one idea — simultaneous invention again (<a href="ch35.html">Ch 35</a>'s pattern).</li>
+<li><strong>The first ARPANET message (October 29, 1969)</strong> crashed after two characters: UCLA's system sent "LO" of "LOGIN" before SRI's host fell. The network's first word was an abbreviation nobody chose.</li>
+<li>RFC culture started casually: Steve Crocker drafted RFC 1 (April 1969) as graduate students documenting protocols without authority — the "Requests for Comments" ethos IS the internet's constitution, written on beds and in dorm rooms.</li>
+<li>Tomlinson chose "@" for email (1971) because it occupied unused Model 33 Teletype keycap real estate and read naturally ("user AT host") — interface archaeology deciding syntax forever.</li>
+<li><strong>Cerf &amp; Kahn's May 1974 paper</strong> specified TCP; the January 1, 1983 flag-day cutover happened because coexistence stopped scaling — protocol migration is possible, and this is the canonical proof.</li>
+<li>Berners-Lee's manager Mike Sendall annotated the 1989 proposal "Vague but exciting…" (margin note preserved) and approved it; <strong>CERN released the web royalty-free on April 30, 1993</strong> — a licensing decision, more than any code, explains why the web won where proprietary hypertext died.</li>
+<li>Morris worm (November 2, 1988) infected roughly a tenth of the connected internet and produced the first CFAA conviction; the incident-response community (CERT) predates the virus it was named for by days — security institutions form around incidents.</li>
+<li>Netscape's August 9, 1995 IPO (priced $28, closed $58.25) opened the browser era's capital flood; NASDAQ peaked March 10, 2000 (5,048) and the crash burned capital that had, incidentally, laid dark fiber and built data centers — the bust subsidized the broadband decade (<a href="ch41.html">Ch 41</a>'s overbuild lesson restated financially).</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch41.html" class="reader-nav-link">← Chapter 41</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch43.html" class="reader-nav-link">Chapter 43 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

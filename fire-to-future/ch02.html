@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 2: The First Toolkit: Stone, Bone, Antler, and Wood — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 2 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch02_toolkit-chapter-2-the-first-toolkit-stone-bone-antler-and-wood">Chapter 2: The First Toolkit: Stone, Bone, Antler, and Wood</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 3.3 million BCE – Bronze Age overlap · <strong>Difficulty:</strong> mid
+<br><strong>Requires:</strong> <a href="ch01.html">Ch 1</a> (hardening, pitch) · <br><strong>Unlocks:</strong> <a href="ch03.html">Ch 3</a> cutting fibers, <a href="ch04.html">Ch 4</a> butchering, <a href="ch13.html">Ch 13</a> prospecting hammers</p>
+</blockquote>
+<p>Tools are the first <em>self-replicating</em> technology: you need a tool to make better tools. The goal of this chapter is not museum-quality knapping but a working reduction sequence — a repeatable path from raw rock to a maintained edge, plus the organic toolkit that stone alone cannot provide.</p>
+<h2 id="ch02_toolkit-21-stone-selection">2.1 Stone Selection</h2>
+<ul>
+<li><strong>Conchoidal fracturers</strong> (flint, chert, obsidian, chalcedony) break with sharp, predictable edges. Test by striking a fresh face: clean ripples = good; dull granular break = poor.</li>
+<li><strong>Heat treatment</strong> improves marginal cherts: slow-bake buried under sand at ~250–400 °C for hours; color deepens, luster rises, flaking becomes easier. This is humanity's first materials-science process — kiln-adjacent thinking from day one (<a href="ch05.html">Ch 5</a>).</li>
+<li><strong>Coarse stones</strong> (granite, basalt, sandstone) serve as hammerstones, anvils, grinding slabs — durability over sharpness.</li>
+</ul>
+<h2 id="ch02_toolkit-22-the-reduction-sequence">2.2 The Reduction Sequence</h2>
+<ol>
+<li><strong>Test and select</strong> a nodule free of internal flaws (ring it with another stone; dead thud = cracked).</li>
+<li><strong>Percussion flaking, hard hammer:</strong> strike platform edges at ~120° exterior angle with a round hammerstone to detach large flakes and set the core's shape.</li>
+<li><strong>Soft hammer:</strong> antler billets remove thinning flakes with longer, shallower scars — this is the step that turns a chunk into a bifacial handaxe or preform.</li>
+<li><strong>Pressure flaking:</strong> push small flakes off with an antler-tine or copper-tipped pressure flaker for final edge regularity. Pressure-flaked notches make haftable stems.</li>
+<li><strong>Blade strategy:</strong> prepared cores (Levallois-style or prismatic blade cores) yield many long parallel flakes from one core — mass production, Paleolithic edition.</li>
+</ol>
+<p class="co co-key"><strong>Key threshold:</strong> an edge angle of 20–40° cuts efficiently; steeper scrapers (45–70°) shave hides and wood. Match geometry to task instead of chasing one universal form.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> obsessing over elegant symmetrical forms. A field-expedient flake with a good edge outperforms a beautiful biface made at triple the cost. Optimize calories-per-edge-centimeter.</p>
+<h2 id="ch02_toolkit-23-ground-stone-and-abrasives">2.3 Ground Stone and Abrasives</h2>
+<p>Pecking (pounding with a harder stone) followed by grinding against sandstone shapes durable axes, adzes, and celts in tough rocks like greenstone or basalt — superior to any knapped edge for felling trees. Querns and manos (grinding slabs) process grain at scale and become civilization-critical in <a href="ch07.html">Ch 7</a>; flour digestion is a genuine calorie multiplier.</p>
+<p>Sand, then later emery/corundum, are the abrasive feedstock; wet grinding doubles speed and controls dust.</p>
+<h2 id="ch02_toolkit-24-bone-antler-and-ivory">2.4 Bone, Antler, and Ivory</h2>
+<ul>
+<li><strong>Antler</strong> is springy and impact-resistant: billets for knapping, wedges for splitting wood, pressure flakers, harpoon points.</li>
+<li><strong>Bone</strong> splits along its length: score-and-snap ("groove-and-split") produces blanks for awls, needles (drilled eyes with flint micro-points), fishhooks, arrowheads. Boiling in water skims grease and sanitizes; simmering scraps renders glue stock (see §2.6).</li>
+<li>Teeth (boar tusks, shark teeth) mount as serrated blades.</li>
+</ul>
+<h2 id="ch02_toolkit-25-wood-technology-without-metal">2.5 Wood Technology Without Metal</h2>
+<ul>
+<li><strong>Splitting:</strong> drive antler or hardwood wedges along the grain; green wood splits predictably, seasoned wood does not.</li>
+<li><strong>Shaping:</strong> burn-and-scrape — char the surface in coals, scrape with a flint flake or mussel shell, repeat. This hollows canoes, bowls, and dugouts with surprising speed.</li>
+<li><strong>Joining:</strong> lashings (fiber, sinew, rawhide — <a href="ch03.html">Ch 3</a>) and mortise joints cut with flint chisels; pegs of dense hardwood.</li>
+</ul>
+<h2 id="ch02_toolkit-26-composite-tools-and-adhesives">2.6 Composite Tools and Adhesives</h2>
+<p>Hafting multiplies capability: a 30 cm handle turns arm motion into levered force and protects the user.</p>
+<ul>
+<li><strong>Pitch adhesives:</strong> pine resin thickened with charcoal powder (reduces brittleness); applied hot, kneaded like taffy, hardened on cooling.</li>
+<li><strong>Bitumen</strong>, where surface seeps exist, is a ready-made adhesive and waterproofing (forward link to <a href="ch09.html">Ch 9</a> boat building).</li>
+<li><strong>Animal glue:</strong> simmer hide/bone collagen for hours; strong, reversible with heat.</li>
+<li><strong>Sinew wrapping</strong>, dampened as it shrinks-dries to a drum-tight grip, mechanically locks the joint; pitch fills gaps beneath.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> a hafted axe fells a tree in minutes versus hours for burning or gouging — timber architecture, dugout boats, and palisades all date their feasibility to reliable hafting.</p>
+<h2 id="ch02_toolkit-27-maintenance-doctrine">2.7 Maintenance Doctrine</h2>
+<p>Edges are consumables. Carry a small hammerstone and pressure flaker; retouch during rest breaks. Standardize a few tool types rather than carrying dozens of specials. The toolkit that wins is the one whose <em>repair</em> was designed alongside its manufacture — a principle that scales unchanged up to jet engines (<a href="ch33.html">Ch 33</a>).</p>
+<h2 id="ch02_toolkit-28-the-deep-record">2.8 The Deep Record</h2>
+<p>The lithic sequence is the longest dataset technology has:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Industry</th>
+<th>Approximate age</th>
+<th>Signature</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oldowan</td>
+<td>~2.6 Ma (Gona, Ethiopia)</td>
+<td>sharp flakes struck from cobbles</td>
+</tr>
+<tr>
+<td>Acheulean bifaces</td>
+<td>~1.76 Ma (Kokiselei, Kenya)</td>
+<td>standardized symmetric handaxes — planned form</td>
+</tr>
+<tr>
+<td>Prepared-core (Levallois)</td>
+<td>by ~300 ka</td>
+<td>core shaped to detach predetermined flakes — manufacturing planning</td>
+</tr>
+<tr>
+<td>Wooden throwing spears</td>
+<td>~300 ka (Schöningen, Germany)</td>
+<td>eight preserved spruce shafts — sophisticated green-wood working long before <em>Homo sapiens</em></td>
+</tr>
+<tr>
+<td>Blade + microlith industries</td>
+<td>~45 ka onward</td>
+<td>mass-production of standardized blades; composite microlith armatures</td>
+</tr>
+</tbody>
+</table></div>
+<p>Obsidian sourcing (trace-element fingerprinting) shows stone transported hundreds of kilometers from its source (Melos to mainland Greece; Lipari across the Tyrrhenian; Yellowstone obsidian across the Plains) — the oldest documented trade networks, preceding any other recordable exchange (<a href="ch09.html">Ch 9</a>).</p>
+<h2 id="ch02_toolkit-29-how-we-know-experimental-archaeology">2.9 How We Know: Experimental Archaeology</h2>
+<p>Every performance claim in this chapter rests on three evidentiary methods worth naming:</p>
+<ol>
+<li><strong>Replication experiments</strong> — knappers reproduce tools under controlled conditions and measure edge durability, cutting efficiency, and failure modes.</li>
+<li><strong>Use-wear analysis</strong> — microscopic polish and scarring patterns identify which material a particular ancient edge actually cut (hide polish looks different from wood polish).</li>
+<li><strong>Residue analysis</strong> — blood proteins, starch grains, and pitch traces survive on ancient tools and bind them to specific tasks.</li>
+</ol>
+<p>Where claims rest on none of these, treat them as plausible reconstruction, not established fact — this discipline separates lithics from just-so storytelling.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch01.html" class="reader-nav-link">← Chapter 1</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch03.html" class="reader-nav-link">Chapter 3 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

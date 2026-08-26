@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 8: Animals: Husbandry, Transport, and Power — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 8 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch08_animals-chapter-8-animals-husbandry-transport-and-power">Chapter 8: Animals: Husbandry, Transport, and Power</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> ~12,000 BCE onward · <strong>Difficulty:</strong> mid
+<br><strong>Requires:</strong> <a href="ch03.html">Ch 3</a> (harness fiber), <a href="ch04.html">Ch 4</a> (fodder/hay), <a href="ch07.html">Ch 7</a> (feed surplus) · <br><strong>Unlocks:</strong> <a href="ch14.html">Ch 14</a> (draft for ore haulage), <a href="ch16.html">Ch 16</a> (spare-animal economics), <a href="ch24.html">Ch 24</a> (rail predecessor logistics)</p>
+</blockquote>
+<p>Domesticated animals are living engines, nutrient pumps, fiber factories, and walking larders. A ox delivers sustained draft of ~0.5 kW (roughly six humans' continuous work); a horse ~0.7–1 kW in bursts. Every machine chapter ahead assumes this biological prime mover as its default until steam arrives (<a href="ch23.html">Ch 23</a>).</p>
+<h2 id="ch08_animals-81-species-selection-and-roles">8.1 Species Selection and Roles</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Species</th>
+<th>Primary products</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dog</td>
+<td>guarding, herding, hunting partner</td>
+<td>domesticate first; force multiplier, not food</td>
+</tr>
+<tr>
+<td>Sheep</td>
+<td>wool, meat, milk, hides</td>
+<td>thrive on marginal land nothing else uses</td>
+</tr>
+<tr>
+<td>Goat</td>
+<td>milk, meat, brush clearance</td>
+<td>escape artists; fence discipline mandatory</td>
+</tr>
+<tr>
+<td>Cattle</td>
+<td>draft, manure, milk, meat, hides</td>
+<td>the traction backbone; oxen (castrated males) are docile and cheap to run</td>
+</tr>
+<tr>
+<td>Horse</td>
+<td>speed, heavy draft, riding</td>
+<td>expensive feed (grain), high output; riding extends human range 5×</td>
+</tr>
+<tr>
+<td>Donkey/Mule</td>
+<td>packing, small draft</td>
+<td>lowest-maintenance transport on poor forage</td>
+</tr>
+<tr>
+<td>Pig</td>
+<td>meat, fat</td>
+<td>garbage converter; turns waste streams into calories</td>
+</tr>
+<tr>
+<td>Chicken</td>
+<td>eggs (~200+/yr/hen), meat, feathers</td>
+<td>smallest land cost per protein unit; pest control bonus</td>
+</tr>
+</tbody>
+</table></div>
+<p>Match species to land: sheep/goats on hills, cattle on meadow, pigs on forest mast, chickens everywhere.</p>
+<h2 id="ch08_animals-82-breeding-management">8.2 Breeding Management</h2>
+<p>Controlled breeding is applied genetics before genetics:</p>
+<ul>
+<li>Keep detailed parentage records once writing exists (<a href="ch11.html">Ch 11</a>) — selection without records plateaus fast.</li>
+<li>Select replacements from mothers who conceived early, birthed unassisted, mothered well, and produced heavily.</li>
+<li>One ram/bull services 30–50 ewes/cows: sire choice is half the flock's genetic future — never breed the average male.</li>
+<li>Castrate surplus males early (oxen, barrows): docility converts directly into usable work and manageable herds.</li>
+<li>Avoid inbreeding: rotate sires with neighbors — the first cooperative institution most villages form (<a href="ch47.html">Ch 47</a>).</li>
+</ul>
+<h2 id="ch08_animals-83-feed-arithmetic-and-the-hay-problem">8.3 Feed Arithmetic and the Hay Problem</h2>
+<p>The binding constraint on animal power is winter feed:</p>
+<ul>
+<li>A cow eats ~10–12 kg dry matter daily; an ox working hard needs grain supplementation on top of roughage.</li>
+<li><strong>Haymaking</strong> (cutting grass at flowering, drying to &lt;18 % moisture, stacking under roof) is the single invention that makes large herds survivable at northern latitudes. Scythe (<a href="ch15.html">Ch 15</a>) and rake work; schedule hay around weather like a military campaign.</li>
+<li>Root crops (turnips, mangels) extend winter fodder and slot neatly into rotation (<a href="ch07.html">Ch 7</a>) — historically the pairing that ended seasonal livestock slaughter.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> if you can carry 100 % of herd numbers through worst-case winter, you stop slaughtering stock every autumn and start accumulating capital animals — herd size becomes compound interest.</p>
+<h2 id="ch08_animals-84-harness-the-difference-between-pulling-and-choking">8.4 Harness: The Difference Between Pulling and Choking</h2>
+<p class="co co-dead"><strong>Dead end avoided:</strong> the throat-and-girth strap. Yoked or strapped across soft throat tissue, a horse can exert only ~25 % of potential pull — it strangles itself against the load. History ran on choked horses for millennia.</p>
+<p>Correct sequence:
+1. <strong>Ox yoke</strong> (wooden beam on shoulder humps): correct for cattle from the start; zebu/humped breeds suit it best.
+2. <strong>Breast-strap harness</strong> for light horsework: pushes on sternum, ~50 % efficiency.
+3. <strong>Padded collar harness</strong> with hames and traces: load transfers through shoulders to traces, bypassing the windway entirely; horses deliver near-full strength and can haul plows, wagons, and canal barges. Build collars from leather (<a href="ch03.html">Ch 3</a>), straw-stuffed, fitted individually.</p>
+<p>Whippletree/eveners distribute pull among team members so each animal bears an equal share — mechanical fairness as engineering (<a href="ch15.html">Ch 15</a>).</p>
+<h2 id="ch08_animals-85-working-animals-in-production-systems">8.5 Working Animals in Production Systems</h2>
+<ul>
+<li><strong>Plowing</strong> with ox pair: ~0.4 ha/day with moldboard (<a href="ch07.html">Ch 7</a>). Horses plow faster but need better feed; oxen plow cheaper — choose by fodder economics, not prestige.</li>
+<li><strong>Carting:</strong> two-wheel carts for farms, four-wheel wagons for trade; spoked wheels cut rotating weight dramatically (<a href="ch15.html">Ch 15</a>). Paved or drained roads repay themselves in broken axle savings (<a href="ch24.html">Ch 24</a>).</li>
+<li><strong>Riding/post networks</strong> multiply administrative reach — the physical layer of governance (<a href="ch47.html">Ch 47</a>).</li>
+<li><strong>Manure:</strong> a stalled ox returns ~20 kg/day of fertility. Barn design routes it to a covered heap; well-rotted manure is worth more than the traction sometimes. The animal is a nutrient pump moving fertility from pasture to plow.</li>
+</ul>
+<h2 id="ch08_animals-86-health-basics">8.6 Health Basics</h2>
+<p>Preventive doctrine beats veterinary heroics:</p>
+<ol>
+<li>Clean water, dry bedding, ventilation — most "mystery" illness is housing.</li>
+<li>Hoof care (trimming, and shoeing horses on abrasive terrain) prevents lameness, the top career-ender of draft animals.</li>
+<li>Quarantine new arrivals 3 weeks; parasite rotation of grazing paddocks breaks worm cycles without drugs.</li>
+<li>Basic kit: castration tools, stitching awl and thread, tourniquet; know your limits and cull early — a chronically sick animal is a feed leak and infection source.</li>
+</ol>
+<p class="co co-jump"><strong>Jump:</strong> skip donkey-era pack networks entirely where rivers allow — towpaths plus collar-harnessed horses move 50× the ton-kilometers per driver, anticipating canal freight economics in <a href="ch24.html">Ch 24</a>.</p>
+<h2 id="ch08_animals-87-domestication-dates-and-geographies">8.7 Domestication Dates and Geographies</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Species</th>
+<th>Where/when</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dog</td>
+<td>Eurasia, ~15,000–30,000 BP (contested)</td>
+<td>from grey wolf; multiple-origin vs single-origin debate ongoing</td>
+</tr>
+<tr>
+<td>Sheep, goats</td>
+<td>Zagros Mountains, ~10,500–10,000 BP</td>
+<td>Ganj Dareh goat morphometrics ~10 ka are classic evidence</td>
+</tr>
+<tr>
+<td>Pig</td>
+<td>two centers: Anatolia &amp; Yellow River, ~10,000–9,000 BP</td>
+<td>independent domestications, later mixed</td>
+</tr>
+<tr>
+<td>Cattle (taurine)</td>
+<td>upper Euphrates, ~10,500 BP</td>
+<td>genetic bottleneck suggests ~80 founding aurochs cows; zebu separately in Indus region ~8,000 BP</td>
+</tr>
+<tr>
+<td>Horse</td>
+<td>western Eurasian steppe ~4,200 BP (modern lineage DOM2)</td>
+<td>Botai (~5,500 BP) kept horses and drank mare's milk, but genomic work (2018) showed Botai horses were Przewalski-related, not modern stock — the textbook story got rewritten recently</td>
+</tr>
+<tr>
+<td>Donkey</td>
+<td>NE Africa, by 4th millennium BCE</td>
+<td>Abydos funerary donkeys (~3000 BCE) among earliest secure finds; loaded skeletons show actual caravan use</td>
+</tr>
+</tbody>
+</table></div>
+<p>Every domestication traded some wild autonomy for productivity under human selection — faster maturity, tamer temperament, higher yield — with genetic bottlenecks (founder effects) that modern breeding works to widen again via rare-breed conservation.</p>
+<p>Zoonotic ledger: close animal contact seeded humanity's epidemic pathogen pool (measles diverged from a rinderpest-like cattle virus ~11th–12th century CE per molecular-clock studies; the smallpox-cattle link remains hypothesis). Herds fed cities and infected them simultaneously — the sanitation chapter (<a href="ch30.html">Ch 30</a>) inherits this bill.</p>
+<h2 id="ch08_animals-88-the-harness-numbers-debate">8.8 The Harness Numbers Debate</h2>
+<p>This book cites throat-girth harness delivering ~25 % of potential pull versus padded collar near-full efficiency. Calibrate honestly:</p>
+<ul>
+<li>Those figures descend from Lefebvre des Noëttes' reconstruction experiments (1931), which drove a century of textbook repetition.</li>
+<li>Later scholarship (Spruytte's rebuilds; John Langdon's <em>Horses, Oxen and Technological Innovation</em>, 1986) showed des Noëttes' ancient-harness reconstruction was likely too crude — the real gap was smaller, though still real — and that medieval ox→horse adoption tracked feed prices and road quality as much as collar engineering.</li>
+<li>What stands: breast-straps appear in China by ~5th c. BCE; padded collars spread across Europe roughly 800–1000 CE (visible on Bayeux Tapestry horses hauling ships). Direction of the effect is solid; magnitudes are contested. This book flags such contested numbers explicitly rather than hiding them — that is what an objective register does.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch07.html" class="reader-nav-link">← Chapter 7</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch09.html" class="reader-nav-link">Chapter 9 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

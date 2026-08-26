@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 27: Steel at Scale and Reinforced Concrete — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 27 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch27_steel_concrete-chapter-27-steel-at-scale-and-reinforced-concrete">Chapter 27: Steel at Scale and Reinforced Concrete</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1856 Bessemer → 1950s · <strong>Difficulty:</strong> high
+<br><strong>Requires:</strong> <a href="ch22.html">Ch 22</a> pig iron, <a href="ch21.html">Ch 21</a> acids, <a href="ch20.html">Ch 20</a> assays · <br><strong>Unlocks:</strong> rails/skyline/machinery era, <a href="ch33.html">Ch 33</a> airframes, <a href="ch39.html">Ch 39</a> structures</p>
+</blockquote>
+<p>Steel is iron with controlled carbon (~0.05–1.5 %) plus deliberate alloying — strong enough to build skyscrapers, cheap enough to pave the world in rails. The 19th century's problem was making it BY THE TON instead of by the billet; two processes solved it, and concrete solved what steel couldn't afford to.</p>
+<h2 id="ch27_steel_concrete-271-the-bessemer-converter">27.1 The Bessemer Converter</h2>
+<p>Molten pig iron poured into a tilted pear-shaped vessel; blast air blown through the melt from the bottom; carbon and silicon burn out in ~15–20 minutes in a spectacular orange fountain; tilt back, add precise carbon/manganese recarburization, pour. Steel for pennies over wrought-iron prices.</p>
+<ul>
+<li><strong>The phosphorus problem:</strong> Bessemer worked only with non-phosphoric ores (rare outside Sweden/Wales); most of Europe's ores made brittle cold-short steel. Decade of frustration until <strong>Gilchrist-Thomas basic process (1879):</strong> dolomite-lined converter + lime flux captures phosphorus into the slag — AND the phosphate slag becomes fertilizer (<a href="ch32.html">Ch 32</a>). One fix unlocked the continent's ore bodies.</li>
+<li>Lesson institutionalized: impurity control IS the industry; assays (<a href="ch20.html">Ch 20</a>) run every heat.</li>
+</ul>
+<h2 id="ch27_steel_concrete-272-open-hearth-competition">27.2 Open-Hearth Competition</h2>
+<p>Siemens regenerative furnace: checker-brick chambers preheat incoming gas/air with exhaust heat (<a href="ch22.html">Ch 22</a>'s hot-blast logic scaled up). Slower than Bessemer (8–12 hours vs 20 minutes) but controllable, scrap-friendly (Bessemer couldn't melt much scrap), and verifiable per charge. Open-hearth won tonnage share until mid-20th century precisely because quality control beat speed. Basic-oxygen steelmaking (BOF, 1950s) later fused both virtues — oxygen lance through molten bath at scale.</p>
+<h2 id="ch27_steel_concrete-273-alloy-steels">27.3 Alloy Steels</h2>
+<p>Small additions, giant consequences:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Addition</th>
+<th>Effect</th>
+<th>Killer application</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Manganese</td>
+<td>deoxidizes, toughens</td>
+<td>railway rails</td>
+</tr>
+<tr>
+<td>Tungsten (+Cr/V)</td>
+<td>hot hardness</td>
+<td>high-speed machine-tool bits (<a href="ch15.html">Ch 15</a>)</td>
+</tr>
+<tr>
+<td>Nickel</td>
+<td>toughness at low temp</td>
+<td>armor, shafts</td>
+</tr>
+<tr>
+<td>Chromium ≥ ~10.5 %</td>
+<td>passive oxide skin</td>
+<td>STAINLESS steel (1913) — chemical plants, kitchens, medicine</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="ch27_steel_concrete-274-portland-cement">27.4 Portland Cement</h2>
+<p>Limestone + clay, calcined to clinker at ~1,450 °C in rotary kilns, ground fine. Mixed with water, cement HYDRATES — minerals grow interlocking crystals, not "drying." Rules that follow:</p>
+<ul>
+<li>Water/cement ratio governs strength: more water = weaker, always. ~0.4–0.5 w/c for structural work.</li>
+<li>Cures for weeks; keep moist early (curing compounds the strength curve).</li>
+<li>Standards (28-day strength classes) let buyers trust distant suppliers — metrology again (<a href="ch20.html">Ch 20</a>).</li>
+</ul>
+<h2 id="ch27_steel_concrete-275-reinforced-prestressed-concrete">27.5 Reinforced &amp; Prestressed Concrete</h2>
+<p>Concrete crushes readily but pulls apart pathetically (~10× weaker in tension); steel carries tension brilliantly. Bury steel bars where tension lives:</p>
+<ul>
+<li>Beams sag → bottom steel; cantilevers invert the rule.</li>
+<li>Bond, cover depth (~25–50 mm), and crack control protect bars from rust — rust expands and bursts concrete (<strong>the failure mode to respect</strong>; salt exposure demands extra cover).</li>
+<li><strong>Prestressing (Freyssinet):</strong> tension high-strength cables BEFORE loading (post-tensioned ducts jacked and anchored) — the concrete arrives permanently compressed, erasing its tension weakness; longer spans, thinner sections.</li>
+<li>Formwork economics dominate: reusable steel forms and standardized elements turn construction into assembly-line work.</li>
+</ul>
+<h2 id="ch27_steel_concrete-276-structural-systems">27.6 Structural Systems</h2>
+<ul>
+<li><strong>Steel skeletons:</strong> columns carry loads; walls become weather skins. Chicago School (1880s) + Otis safety elevator (1852) = the skyscraper as routine engineering.</li>
+<li><strong>Riveting → bolting → welding</strong> progression; welded ships taught fracture lessons the hard way (Liberty ships cracking in North Atlantic cold — Charpy impact testing became mandatory doctrine; brittleness is a temperature behavior).</li>
+<li>Testing machines (hydraulic tensile testers) certify every batch — trust is manufactured here as much as steel.</li>
+</ul>
+<h2 id="ch27_steel_concrete-277-deployment-priorities">27.7 Deployment Priorities</h2>
+<ol>
+<li>Rails + rolling stock (<a href="ch24.html">Ch 24</a>) — network effects immediately.</li>
+<li>Structural frames for factories/bridges — span without forests' limits.</li>
+<li>Reinforced concrete for dams, silos, sewers (<a href="ch30.html">Ch 30</a>), housing at population scale.</li>
+<li>Machine bases and pressure vessels (<a href="ch23.html">Ch 23</a>, <a href="ch32.html">Ch 32</a> Haber columns).</li>
+</ol>
+<p class="co co-key"><strong>Key threshold:</strong> structural materials cost falling below ~a week's wages per square meter of built floor makes cities affordable at industrial scale — watch that ratio; it predicts your construction boom's timing.</p>
+<h2 id="ch27_steel_concrete-278-the-steel-record">27.8 The Steel Record</h2>
+<ul>
+<li>Priority folklore: American William Kelly claimed air-refining priority (his Eddyville, Kentucky experiments, late 1840s–early 1850s, documented in later affidavits); Bessemer developed independently at scale and patented (1855–56). Historians record a parallel-invention case, resolved commercially in Bessemer's favor.</li>
+<li><strong>Gilchrist-Thomas was a clerical breakthrough:</strong> Sidney Gilchrist Thomas, a London police-court clerk with amateur chemistry training, worked evenings with cousin Percy Gilchrist at Blaenavon; their 1879 paper converted Europe's phosphoric ores overnight. Basic slag became a profitable fertilizer byproduct — waste-to-product before the term existed (<a href="ch32.html">Ch 32</a>).</li>
+<li><strong>Carnegie's edge was accounting as much as chemistry:</strong> continuous cost-per-ton tracking down to each shift's product made efficiency visible daily; vertical integration owned ore (Mesabi), boats, rails, mills. The Homestead lockout (July 1892): Frick's lockout, Pinkerton barges, a day-long gunfight killing seven workers and three Pinkertons, militia occupation, union broken — recorded here as documented industrial-relations history, without editorial.</li>
+<li>National scoreboard: US pig-iron output passed Britain's during the mid-1880s; <strong>U.S. Steel (1901)</strong> capitalized at $1.4 billion — the world's first billion-dollar corporation, assembled by Morgan out of Carnegie Steel.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch26.html" class="reader-nav-link">← Chapter 26</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch28.html" class="reader-nav-link">Chapter 28 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

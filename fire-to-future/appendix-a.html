@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appendix A — The Critical Path — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Appendix A of 7</span>
+</div>
+<main class="reader-content">
+<h1 id="appendix_A_critical_path-appendix-a-the-critical-path">Appendix A — The Critical Path</h1>
+<blockquote class="meta">
+<p>The minimal ordered chain from fire to orbital capability. If you can only fund/teach one line of development, teach this one.</p>
+</blockquote>
+<h2 id="appendix_A_critical_path-a1-the-chain">A.1 The Chain</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>#</th>
+<th>Node</th>
+<th>Chapter</th>
+<th>Why here (not earlier/later)</th>
+<th>Unlocks downstream</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Fire + charcoal kilns</td>
+<td><a href="ch01.html">1</a></td>
+<td>No heat = nothing hot ever happens</td>
+<td>ceramics, metals, chemistry</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Stone/flint toolkit + hafting</td>
+<td><a href="ch02.html">2</a></td>
+<td>Tools make tools; needed for everything physical</td>
+<td>timber work, agriculture labor</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Cordage &amp; textiles</td>
+<td><a href="ch03.html">3</a></td>
+<td>String gates hunting/building/machines</td>
+<td>nets, bows, belts, sails</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Food preservation (dry/smoke/salt/ferment)</td>
+<td><a href="ch04.html">4</a></td>
+<td>Surplus must OUTLIVE seasons before anything else starts</td>
+<td>granaries, trade, specialists</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Pottery kiln craft</td>
+<td><a href="ch05.html">5</a></td>
+<td>First controlled high-temp industry; storage vessels gate surplus</td>
+<td>crucibles, bricks, brewing</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Shelter + granary architecture</td>
+<td><a href="ch06.html">6</a></td>
+<td>Protects stored wealth; enables settlement density</td>
+<td>villages → cities</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Agriculture with rotation design</td>
+<td><a href="ch07.html">7</a></td>
+<td>Calorie engine; 10–100× land productivity</td>
+<td>population, draft animals</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Draft animals + collar harness</td>
+<td><a href="ch08.html">8</a></td>
+<td>First non-human prime mover (~0.5 kW each)</td>
+<td>plowing, haulage, mills</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Money, markets, credit discipline</td>
+<td><a href="ch09.html">9</a></td>
+<td>Strangers must cooperate at scale before big projects</td>
+<td>specialization cascade</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Phonetic writing</td>
+<td><a href="ch11.html">11</a></td>
+<td>External memory with error correction</td>
+<td>administration, science</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Positional numerals with zero</td>
+<td><a href="ch12.html">12</a></td>
+<td>Arithmetic becomes algorithmic; engineering math possible</td>
+<td>gearing ratios, surveying</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Bloomery iron → forging</td>
+<td><a href="ch14.html">14</a></td>
+<td>Abundant strong metal beats scarce bronze geopolitics</td>
+<td>tools everywhere, machine parts</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Mining + ore dressing doctrine</td>
+<td><a href="ch13.html">13</a></td>
+<td>Metal supply security; salt for food chain</td>
+<td>sustained metallurgy</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Mechanisms: gears/crank/lathe</td>
+<td><a href="ch15.html">15</a></td>
+<td>Motion alphabet + precision culture begins</td>
+<td>mills, engines, clocks</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Water mills (overshot + gearing)</td>
+<td><a href="ch16.html">16</a></td>
+<td>First industrial power (kW-class, continuous)</td>
+<td>proto-industry workforce</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Craft chemistry: lime/glass/soap/distillation</td>
+<td><a href="ch17.html">17</a></td>
+<td>Materials + hygiene + lab apparatus lineage</td>
+<td>optics, acids, sanitation</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Paper + movable-type printing</td>
+<td><a href="ch18.html">18</a></td>
+<td>Information cost collapse ~300×; error correction across copies</td>
+<td>literacy, exact diagrams</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Lenses → telescopes/microscopes</td>
+<td><a href="ch19.html">19</a></td>
+<td>Senses extended beyond biology</td>
+<td>astronomy kills geocentrism; germs visible</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Pendulum clock + balances + method</td>
+<td><a href="ch20.html">20</a></td>
+<td>Measurement culture = science engine</td>
+<td>every quantitative field</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Saltpeter + black powder + acid industry</td>
+<td><a href="ch21.html">21</a></td>
+<td>Mining productivity + heavy chemicals hinge</td>
+<td>deep mines, textiles, steel pickling</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Coke smelting + hot blast iron</td>
+<td><a href="ch22.html">22</a></td>
+<td>Breaks the wood ceiling on metal production</td>
+<td>cheap machinery era</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Steam engine (Watt-corrected)</td>
+<td><a href="ch23.html">23</a></td>
+<td>Power anywhere, not just rivers</td>
+<td>factories, railways, pumps</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Railways + telegraph pairing</td>
+<td><a href="ch24.html">24</a>/<a href="ch25.html">25</a></td>
+<td>Bulk logistics + instant coordination</td>
+<td>national markets</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Batteries → electromagnetism mastery</td>
+<td><a href="ch25.html">25</a></td>
+<td>Electricity measurable and commandable</td>
+<td>everything electric after</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Dynamos + polyphase AC grid</td>
+<td><a href="ch26.html">26</a></td>
+<td>Universal power socket installed</td>
+<td>motors, lighting, electrolysis</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Sanitation: water/sewers/chlorination</td>
+<td><a href="ch30.html">30</a></td>
+<td>Highest-return health tech EVER; cities become survivable</td>
+<td>demographic transition</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Germ theory → vaccines → antibiotics</td>
+<td><a href="ch31.html">31</a></td>
+<td>Individual medicine joins engineering</td>
+<td>surgery, pandemic defense</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Haber-Bosch + breeding + mechanization</td>
+<td><a href="ch32.html">32</a></td>
+<td>Nitrogen wall broken; yields tripled</td>
+<td>megacity-scale food security</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Steel at scale + reinforced concrete</td>
+<td><a href="ch27.html">27</a></td>
+<td>Structural material abundance</td>
+<td>skyline/dam/rail civilization</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Petroleum refining + ICE</td>
+<td><a href="ch28.html">28</a>/<a href="ch29.html">29</a></td>
+<td>Transport fuel density unlocks mobility revolution</td>
+<td>tractors, trucks, planes</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Vacuum-tube electronics concepts</td>
+<td><a href="ch34.html">34</a></td>
+<td>Circuit concepts exist (scaffolding only)</td>
+<td>radio/radar + transistor schematics</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Transistor → planar IC</td>
+<td><a href="ch35.html">35</a></td>
+<td>Computation cost collapse begins</td>
+<td>computers, all Part V</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Stored-program computers + software stack</td>
+<td><a href="ch36.html">36</a></td>
+<td>Thought automation infrastructure</td>
+<td>simulation, control, AI</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Fission power + isotopes</td>
+<td><a href="ch37.html">37</a></td>
+<td>Dense dispatchable energy + medicine</td>
+<td>grid anchor, RTG spacecraft</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Rocketry to orbit</td>
+<td><a href="ch39.html">39</a></td>
+<td>Escape velocity achieved</td>
+<td>satellites — planetary nervous system</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Satellite constellations (comms/GPS/EO)</td>
+<td><a href="ch40.html">40</a></td>
+<td>Global coordination layer live</td>
+<td>navigation, weather, connectivity</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Fiber backbone + internet protocols</td>
+<td><a href="ch41.html">41</a>/<a href="ch42.html">42</a></td>
+<td>Real-time planetary knowledge network</td>
+<td>distributed science/commerce</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Modern energy portfolio</td>
+<td><a href="ch43.html">43</a></td>
+<td>Abundance pricing (&lt;$0.03/kWh system-level)</td>
+<td>desalination, automation, synthesis</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Biotech read-write genome</td>
+<td><a href="ch44.html">44</a></td>
+<td>Biology joins engineering economy</td>
+<td>medicine/agriculture exponential</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Robotics + machine intelligence</td>
+<td><a href="ch45.html">45</a>/<a href="ch46.html">46</a></td>
+<td>Labor and cognition as utilities</td>
+<td>compounding loops close</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Institutional underlay running parallel throughout:</strong> money integrity (<a href="ch09.html">9</a>), written law/administration (<a href="ch11.html">11</a>), double-entry accounting, joint-stock finance, statistics, logistics standardization (<a href="ch47.html">47</a>). Physical nodes fail without it — see <a href="appendix-b.html">Appendix B</a> failure modes.</p>
+<h2 id="appendix_A_critical_path-a2-parallel-tracks">A.2 Parallel Tracks</h2>
+<p>Once their prerequisites exist, these proceed simultaneously without blocking each other:</p>
+<ul>
+<li>After node 7 (agriculture): animal husbandry, pottery refinement, weaving industries.</li>
+<li>After node 11 (numerals): surveying, architecture, astronomy calendars.</li>
+<li>After node 15 (mills): textile mechanization, sawmills, ore stamping.</li>
+<li>After node 17 (printing): map-making, herbals, instrument catalogs — knowledge trades freely.</li>
+<li>After node 25 (grid): electrified transport, chemistry, home lighting all scale independently.</li>
+<li>After node 33 (computing): CAD, logistics software, sequencing automation compound together.</li>
+<li>After node 21/49 (powder + precision machining): arms production funds machine-tool culture (<a href="ch48.html">Part VI</a>) — historically armories paid for interchangeable-parts practice that industry then inherited.</li>
+</ul>
+<h2 id="appendix_A_critical_path-a3-the-three-irreplaceable-hinges">A.3 The Three Irreplaceable Hinges</h2>
+<ol>
+<li><strong>Writing + positional numbers</strong> (<a href="ch11.html">Ch 11</a>, <a href="ch12.html">12</a>) — memory externalized and made algorithmic. Without both, knowledge decays generationally and arithmetic stays artisanal. Every complex society in history had writing; none skipped numerals for long.</li>
+<li><strong>Printing + precision instruments</strong> (<a href="ch18.html">Ch 18</a>, <a href="ch20.html">20</a>) — exact copies plus calibrated measurement turn craft into cumulative science. Skip either and progress stalls at Renaissance ceilings.</li>
+<li><strong>Electricity + computation</strong> (<a href="ch26.html">Ch 26</a>, <a href="ch36.html">36</a>) — power and thought as universal utilities. Everything distinguishing modern from 1900-era capability flows through these two sockets.</li>
+</ol>
+<p>A rebuild plan that protects these three hinges survives most other setbacks. One that loses any of them restarts centuries.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch51.html" class="reader-nav-link">← Chapter 51</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="appendix-b.html" class="reader-nav-link">Appendix B →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

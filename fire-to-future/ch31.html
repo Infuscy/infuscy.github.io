@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 31: Clinical Medicine: Anesthesia, Vaccines, Antibiotics — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 31 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch31_medicine-chapter-31-clinical-medicine-anesthesia-vaccines-antibiotics">Chapter 31: Clinical Medicine: Anesthesia, Vaccines, Antibiotics</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1846 ether → 1960s golden age · <strong>Difficulty:</strong> high
+<br><strong>Requires:</strong> <a href="ch30.html">Ch 30</a> aseptic base, <a href="ch21.html">Ch 21</a>/<a href="ch28.html">28</a> chemical industry · <br><strong>Unlocks:</strong> surgery as routine care, pandemic defense, biotech platform (<a href="ch44.html">Ch 44</a>)</p>
+</blockquote>
+<p>Where <a href="ch30.html">Ch 30</a> saved populations, this chapter saves individuals: painless surgery, immune memory on demand, and chemical weapons against infection. Together they convert medicine from consolation into engineering.</p>
+<h2 id="ch31_medicine-311-anesthesia">31.1 Anesthesia</h2>
+<p>Surgery before 1846 was speed competition — amputations timed in seconds, survival hinged on shock and blood loss. Nitrous oxide (1844) then ether (Morton, 1846) and chloroform changed the profession's physics:</p>
+<ul>
+<li>Ether/oxygen vapor delivery with airway management; chloroform potent but arrhythmia-prone (<strong>Dead end avoided:</strong> unmonitored chloroform for routine cases — cardiac arrest killed patients on tables).</li>
+<li>Anesthesia's real gift: TIME. Surgeons could plan anatomy instead of racing it; abdominal/thoracic surgery becomes possible at all.</li>
+<li>Asepsis (Lister's carbolic acid, 1865 → gloves/masks/sterile theater) made opened bodies survivable; anesthesia + antisepsis = modern surgery.</li>
+</ul>
+<h2 id="ch31_medicine-312-vaccination">31.2 Vaccination</h2>
+<p>Exploit immune memory deliberately:</p>
+<ul>
+<li><strong>Variolation → vaccination:</strong> Jenner (1796) used milder cowpox to protect against smallpox — risk arithmetic (controlled exposure vs epidemic roulette) accepted empirically two centuries before mechanism.</li>
+<li><strong>Attenuation (Pasteur):</strong> aged/exposed cultures lose virulence while keeping antigenicity — rabies/anthrax vaccines follow deliberate lab logic, not luck.</li>
+<li><strong>Taxonomy by approach:</strong> live attenuated (strong, durable immunity), killed/inactivated (safer, weaker), toxoids (detoxified exotoxins — diphtheria/tetanus), subunit/conjugate (purified pieces, carrier proteins boost infant response). Each class trades efficacy vs safety differently; match to disease severity.</li>
+<li><strong>Cold chain</strong> discipline (refrigeration, <a href="ch26.html">Ch 26</a>) and record-keeping (<a href="ch11.html">Ch 11</a>) decide whether campaigns work in the field.</li>
+<li>Smallpox eradication (1980) via ring vaccination — surveillance + targeted response — remains the proof that organization outperforms technology alone.</li>
+</ul>
+<h2 id="ch31_medicine-313-the-laboratory-turn">31.3 The Laboratory Turn</h2>
+<p>Medicine becomes measurement:</p>
+<ul>
+<li>Blood typing (Landsteiner, ABO 1901): transfusion moves from russian-roulette therapy to routine; citrate anticoagulation enables stored blood banks — battlefield medicine transformed.</li>
+<li>Clinical chemistry (blood glucose, urea), X-ray imaging (1895, immediate adoption), ECG (1903): diagnosis gains objective instruments (<a href="ch20.html">Ch 20</a> culture imported wholesale).</li>
+<li><strong>Randomized controlled trials:</strong> streptomycin TB trial (1948) set the template — randomize, control, blind where possible, predefine endpoints. RCTs are medicine's quality-control system, the epistemic machinery separating treatment from tradition.</li>
+</ul>
+<h2 id="ch31_medicine-314-antibiotics">31.4 Antibiotics</h2>
+<p>The discovery arc matters as much as the drugs:</p>
+<ul>
+<li>Fleming (1928): mold contaminant lyses staphylococci — noted, parked.</li>
+<li>Florey/Heatley (1940–41): mouse protection studies → human rescue cases; wartime Anglo-American crash program scales production via deep-tank fermentation (corn-steep liquor medium, sterile aeration — chemical-engineering rigor applied to biology).</li>
+<li>Streptomycin (1943, Waksman actinomycete screening): systematic soil-microbe prospecting replaces luck — the antibiotic GOLDEN AGE follows (chloramphenicol, tetracyclines, macrolides within a decade).</li>
+<li>Mechanism classes: cell-wall synthesis blockers (beta-lactams), protein-synthesis inhibitors (aminoglycosides/tetracyclines/macrolides), DNA-replication blockers (quinolones), membrane disruptors (polymyxins).</li>
+</ul>
+<p><strong>Resistance doctrine (binding, learned expensively since):</strong> antibiotics select for resistant survivors whenever exposure is partial or casual. Stewardship rules: correct drug/dose/duration, narrow-spectrum when possible, complete courses, never routine growth-promotion use in livestock, surveillance of resistance patterns (<a href="ch47.html">Ch 47</a> data systems). Resistance evolution is faster than discovery pipelines — stewardship IS the technology.</p>
+<h2 id="ch31_medicine-315-vitamins-and-deficiency-medicine">31.5 Vitamins and Deficiency Medicine</h2>
+<p>Deficiency diseases are engineering failures of diet logistics:</p>
+<ul>
+<li>Scurvy: citrus cured it (Lind's trial, 1747) — ignored for decades because theory ("putrefaction") outranked evidence. Institutional lesson repeated until learned.</li>
+<li>Beriberi (thiamine, polished-rice diets), pellagra (niacin, corn monoculture), rickets (vitamin D/sunlight), goiter (iodized salt — one mineral, millions spared): each maps deficiency→food policy fixes (fortification programs) cheaper than any clinic.</li>
+</ul>
+<h2 id="ch31_medicine-316-deployment-doctrine">31.6 Deployment Doctrine</h2>
+<ol>
+<li>Sanitation first, always (<a href="ch30.html">Ch 30</a>) — hospitals cannot compensate for dirty water.</li>
+<li>Vaccination campaigns next: herd thresholds protect those vaccines can't reach.</li>
+<li>Surgical capacity scaled to trauma/maternal need; anesthesia+asepsis as inseparable pair.</li>
+<li>Antibiotics under written stewardship from day one — no era of careless abundance exists anymore; you inherit the post-resistance world directly.</li>
+<li>Trials culture everywhere: every new protocol earns adoption through §31.3's machinery.</li>
+</ol>
+<h2 id="ch31_medicine-317-the-cold-chain">31.7 The Cold Chain</h2>
+<p>Temperature control is medicine infrastructure (<a href="ch43.html">Ch 43</a> builds the machinery):</p>
+<ul>
+<li><strong>Vaccines</strong> live in narrow temperature windows (typically 2–8 °C); freezing ruins adsorbed vaccines, heat kills potency silently. Cold boxes with ice packs, temperature indicators on every shipment, and written excursion protocols decide campaign success more than any laboratory.</li>
+<li><strong>Blood products:</strong> +2–6 °C, 35–42 day shelf life citrated; platelets need room temperature with agitation — blood banking is logistics under strict thermal law.</li>
+<li><strong>Insulin, biologics, reagents</strong> all ride the same chain; a single unmonitored truck leg can destroy a regional program.</li>
+<li>Doctrine: every cold-chain link carries continuous temperature logging (<a href="ch20.html">Ch 20</a>) and fails LOUDLY. Silent failure is the enemy.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> maternal and infant mortality falling below ~1 % of births marks a medical system actually functioning — track those two numbers as the system's dashboard.</p>
+<h2 id="ch31_medicine-318-the-medical-record">31.8 The Medical Record</h2>
+<ul>
+<li>Anesthesia priority: Crawford Long used ether surgically in Georgia in 1842 but published nothing until 1849; Morton's public 1846 demonstration took the world stage. Publish or be a footnote — the rule applies to scalpels too.</li>
+<li><strong>Chloroform à la Reine:</strong> John Snow administered chloroform to Queen Victoria for Prince Leopold's birth (1853); religious and obstetric objections collapsed behind a palace delivery. One documented adoption case did what decades of data hadn't.</li>
+<li><strong>Lister's first case:</strong> James Greenlees, compound femur fracture, Glasgow Royal Infirmary 1865 — carbolic dressings, uninfected healing. The Lancet's skepticism ran years anyway; antisepsis spread continent-by-continent against professional pride, another Semmelweis-pattern with a happier ending.</li>
+<li><strong>Salvarsan (606), 1910:</strong> Ehrlich's organoarsenic syphilis cure — the first systematic screen-and-synthesize chemotherapy ("magic bullet"), numbering compounds literally by trial count.</li>
+<li><strong>Insulin, January 11, 1922:</strong> Leonard Thompson, 14, received the first injection at Toronto General. The 1923 Nobel went to Banting and Macleod; Banting shared his prize money with Best, Macleod with Collip — the awarding committee's choices remain one of medicine's most argued honor disputes.</li>
+<li><strong>Penicillin's scarcity tragedy, documented:</strong> the Oxford team's first patient, policeman Albert Alexander (1941), improved dramatically until the precious drug ran out — they filtered his urine to recover it; he relapsed and died. Deep-tank fermentation at Pfizer's Brooklyn plant (1943) converted the shortage into mass supply within two years.</li>
+<li><strong>Credit mechanics:</strong> streptomycin was isolated by graduate student Albert Schatz in Waksman's lab (1943); Schatz sued for recognition and settled (1950) as co-discoverer with royalties — authorship disputes are institutional-design failures, not personality flaws.</li>
+<li>Smallpox eradication closed October 26, 1977 (Ali Maow Maalin, Merca, Somalia — the last natural case); D.A. Henderson's WHO campaign spent roughly $300 million total and returns its cost every few weeks in forgone vaccination programs alone. Ring surveillance beat mass campaigns where health systems were thin — organization beating budget.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch30.html" class="reader-nav-link">← Chapter 30</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch32.html" class="reader-nav-link">Chapter 32 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

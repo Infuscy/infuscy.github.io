@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 15: Mechanical Primitives: Wheel, Axle, Screw, Gear, Bearing — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 15 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch15_mechanisms-chapter-15-mechanical-primitives-wheel-axle-screw-gear-bearing">Chapter 15: Mechanical Primitives: Wheel, Axle, Screw, Gear, Bearing</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> ~3500 BCE → Renaissance mechanism culture · <strong>Difficulty:</strong> mid
+<br><strong>Requires:</strong> <a href="ch14.html">Ch 14</a> tools, <a href="ch12.html">Ch 12</a> ratios · <br><strong>Unlocks:</strong> <a href="ch16.html">Ch 16</a> mills, <a href="ch23.html">Ch 23</a> engines, <a href="ch35.html">Ch 35</a>-era machine tools</p>
+</blockquote>
+<p>Every machine ever built is an arrangement of six or so primitives. This chapter is the alphabet of mechanics; fluency here is what lets <a href="ch18.html">Part III</a> move fast instead of re-deriving basics.</p>
+<h2 id="ch15_mechanisms-151-the-six-classical-simple-machines">15.1 The Six Classical Simple Machines</h2>
+<ol>
+<li><strong>Lever</strong> — trade distance for force around a fulcrum; F₁·d₁ = F₂·d₂. Crowbars, oars, wheelbarrows (wheel+lever combo), pliers.</li>
+<li><strong>Wheel and axle</strong> — rotary lever with huge effective radius ratio. Windlasses, capstans, grindstones.</li>
+<li><strong>Pulley</strong> — direction change free; block-and-tackle trades pull length for force at near-ideal ratios (4:1 with four rope segments, minus friction).</li>
+<li><strong>Inclined plane / wedge</strong> — ramps raise what cranes can't; wedges split and clamp. Screw = inclined plane wrapped on a cylinder.</li>
+<li><strong>Screw</strong> — the force multiplier of precision: fine pitch converts gentle rotation into enormous linear force (presses, vises) AND ultra-fine positioning (lathe leadscrews — see §15.4).</li>
+<li><strong>Gear</strong> — toothed wheels that transmit exact speed/torque ratios without slipping.</li>
+</ol>
+<p>Mechanical advantage arithmetic is <a href="ch12.html">Ch 12</a> proportion in action; teach apprentices to compute before they build.</p>
+<h2 id="ch15_mechanisms-152-wheels-done-right">15.2 Wheels Done Right</h2>
+<ul>
+<li><strong>Rolling resistance beats dragging</strong> by ~10–50× on prepared surfaces — the entire economic case for roads (<a href="ch24.html">Ch 24</a>).</li>
+<li><strong>Spoked wheels</strong> cut rotating mass ~5× versus solid discs: faster animals, less axle wear, responsive war chariots. Build with felloes (rim segments), spokes mortised into hub, rawhide-bound while damp for shrink-fit tension.</li>
+<li><strong>Axle bearings:</strong> plain bronze or iron bushings in hardwood hubs, greased with tallow. Friction loss in a decent plain bearing runs 2–5 % — acceptable until <a href="#ch15_mechanisms-156-bearing-and-friction-management">ball bearings below</a>.</li>
+<li><strong>Caster/roller intuition:</strong> logs under sledges are the zero-tech ancestor; keep rollers in the heavy-movement toolkit forever.</li>
+</ul>
+<h2 id="ch15_mechanisms-153-power-transmission-elements">15.3 Power Transmission Elements</h2>
+<ul>
+<li><strong>Rope/cord drives:</strong> cheap, quiet, tolerant of misalignment; stretch limits precision.</li>
+<li><strong>Flat belts</strong> (leather, later rubberized fabric): medium distances, moderate power; crowned pulleys self-track. Belting becomes THE factory transmission for a century once <a href="ch16.html">Ch 16</a>/<a href="ch26.html">Ch 26</a> power sources exist.</li>
+<li><strong>Gears:</strong> wooden lantern pinions (trundle wheels) with iron teeth serve mills for centuries; all-iron cut gears arrive with clockmakers' skill. Tooth profile perfection is NOT required early — crude gears run noisily but work if teeth are evenly spaced and mesh depth consistent.</li>
+<li><strong>Crank and connecting rod:</strong> converts rotation↔reciprocation. Historically underexploited for a millennium after its first appearance; DO exploit it immediately — it is the single most important motion converter between waterwheels ([rotary]) and hammers/pumps/saw-blades [reciprocating].</li>
+<li><strong>Escapements</strong> (clockwork): release stored energy in counted ticks — mechanical counting, previewing computation (<a href="ch36.html">Ch 36</a>).</li>
+</ul>
+<h2 id="ch15_mechanisms-154-the-lathe-mother-of-machine-tools">15.4 The Lathe: Mother of Machine Tools</h2>
+<p>A lathe spins workpiece against a cutting tool. With it you make: round shafts, pulleys, wheels, screws, cannon bores, telescope parts, engine cylinders. Without it, everything above stays artisan-lumpy.</p>
+<p>Build order:
+1. <strong>Pole/bow lathe</strong> (cord-wrapped spindle, spring return): turns wood well, metal poorly.
+2. <strong>Treadle lathe with flywheel:</strong> continuous rotation, feet free hands.
+3. <strong>Metal-turning lathe with leadscrew and slide rest:</strong> Maudslay's ~1800 configuration — tool fed by a screw against a rigid carriage. This one machine births interchangeable parts and every precision industry.</p>
+<p class="co co-key"><strong>Key threshold:</strong> a lathe that holds 0.5 mm accuracy upgrades your whole civilization's artifacts; one holding 0.05 mm makes steam-engine cylinders (<a href="ch23.html">Ch 23</a>) physically possible. Precision propagates: lathes make better lathes.</p>
+<h2 id="ch15_mechanisms-155-screws-and-standard-threads">15.5 Screws and Standard Threads</h2>
+<p>Hand-cut threads (chase over a turned mandrel, or die stocks) suffice early. Standardize thread pitches EARLY across workshops — bolts that fit only their mate are a tax on every future repair. Historical detour compressed by fiat: pick three coarse pitches (large/medium/small), publish them, enforce them. Whitworth did exactly this nationally in <strong>1841</strong> — constant-pitch series on a 55° thread flank angle, the first national screw-thread standard — and standard threads plus standardized measures made his later "millionth of an inch" measuring machines meaningful (<a href="ch20.html">Ch 20</a>).</p>
+<p><strong>The gauge system that makes interchangeability real</strong> (<a href="#ch15_mechanisms-157-machine-tools-and-interchangeable-parts">§15.7</a> states the doctrine; this is its hardware):</p>
+<ol>
+<li><strong>Master artifacts first.</strong> Preserve one known-good example of each critical part, handled only with gloves and never used — it is the shop's reference against which everything else is checked.</li>
+<li><strong>Limit gauges per critical dimension.</strong> For each dimension that matters functionally, make a hardened-steel <strong>GO gauge</strong> at the maximum-material limit and a <strong>NO-GO gauge</strong> at the minimum-material limit. Plug gauges for holes, ring/snap gauges for shafts, thread plug/ring gauges for screws. A worker who cannot measure with rules can still sort perfectly: GO enters, NO-GO refuses.</li>
+<li><strong>The 10 % budget.</strong> Total gauge tolerance ≤10 % of the workpiece tolerance; reserve another ~10 % of the tolerance band as <strong>wear allowance</strong> on the GO member (it rubs every part; the NO-GO should barely ever touch). Audit gauges monthly against masters; retire GO members past their wear budget — a worn GO gauge passes loose parts forever after. Threads get their own GO/NO-GO ring (external) and plug (internal) gauges — they check <em>fit</em>, the only thing that matters on a bolted joint, while pitch itself is verified once at gauge manufacture against a screw-pitch gauge.</li>
+<li><strong>When gauge blocks become affordable:</strong> Johansson's wrung-stack gauge blocks (Sweden, <strong>1896</strong>) gave absolute reference lengths in hardened lapped sets (47–87 blocks covering any dimension in steps; blocks adhere when wrung because the intervening ~25 nm fluid film lets molecular attraction act); they became ordinary toolroom equipment once lapped-hardened-steel production scaled, roughly by the 1920s–30s. Until then, master artifacts plus disciplined limit gauges carry a rebuild economy's entire metrology — which is precisely how the historical armory system ran.</li>
+</ol>
+<p><strong>Worked dimensioning example</strong> (one critical fit, done once properly, copied forever):</p>
+<p>Fit: Ø25 mm running fit, hole in bracket Ø25.000–25.100 mm (+0.10/−0). Work tolerance W = 0.10 mm.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Member</th>
+<th>Nominal</th>
+<th>Manufactured as</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GO plug</td>
+<td>25.000 (hole's smallest = max material)</td>
+<td>24.997 ±0.003 → 24.994–25.000</td>
+<td>Upper bound sits ON the lower limit, so every acceptable hole accepts it</td>
+</tr>
+<tr>
+<td>GO wear floor</td>
+<td>retire at 24.990</td>
+<td>—</td>
+<td>Below this a worn GO passes undersize (tight) holes forever</td>
+</tr>
+<tr>
+<td>NO-GO plug</td>
+<td>25.100 (hole's largest)</td>
+<td>25.103 ±0.003 → 25.100–25.106</td>
+<td>Lower bound sits ON the upper limit, so no acceptable hole admits it</td>
+</tr>
+</tbody>
+</table></div>
+<p>Gauge tolerances here are ±0.003–0.005 — inside the 10 %-of-W budget (≤0.010). The shaft mirrors this with snap or ring gauges at reversed limits. Make both members in hardened steel, grind, lap to blue-fit against the masters, and log monthly audits on the same charts as production (<a href="ch47.html">Ch 47</a> §47.13 treats gauge dimensions exactly like product dimensions).</p>
+<p><strong>Bootstrap problem, solved the historical way:</strong> your first limit gauges must be better than your first products, so make them from your best current output — turn soft blanks on the best lathe setting available, harden (water quench plain-carbon steel, then temper straw-color per <a href="ch14.html">Ch 14</a> §14.5), grind the measuring surfaces, and lap against fine abrasive until a master part blue-fits evenly. The gauge then defines production, not vice versa. Store gauges oiled and temperature-stable — flash rust ruins lapped reference surfaces faster than wear does — and rebuild the gauges whenever process capability improves (<a href="ch47.html">Ch 47</a> §47.13 capability arithmetic tells you when): each gauge generation tighter than the last is precision propagating upward through hardware.</p>
+<p><strong>Documented payoff, the armory precedent:</strong> John H. Hall at Harpers Ferry's Rifle Works (1820s) tooled every rifle part to limit gauges staffed by unskilled hands; in January <strong>1826</strong> he demonstrated before U.S. Ordnance officials that rifles could be disassembled, parts interchanged among them, reassembled, and fired — field repair by part-swap, no artisan required. Springfield adopted the practice, and the "armory system" diffused into sewing machines, clocks, bicycles, and automobiles. Retrofitting gauge discipline onto a craft industry took generations historically; adopt it while your industry is still small enough to enforce one standard.</p>
+<p class="co co-key"><strong>Key threshold:</strong> when more than ~1 % of production fails a NO-GO gauge, the fault sits in machine wear or process drift, not worker sloppiness — fix the machine, chart the dimension (<a href="ch47.html">Ch 47</a> §47.13), and require tolerance ÷ 6σ̂ ≥ 1.33 before promising interchangeable parts at all.</p>
+<h2 id="ch15_mechanisms-156-bearing-and-friction-management">15.6 Bearing and Friction Management</h2>
+<p>Friction engineering = free efficiency:</p>
+<ul>
+<li><strong>Lubrication:</strong> tallow/vegetable oil films cut plain-bearing friction roughly in half and halve it again under pressure feeds. Grease cups (simple reservoirs dripping onto journals) automate care.</li>
+<li><strong>Journal geometry:</strong> longer, larger-diameter bearings carry more load at lower unit pressure; keep surfaces smooth and aligned.</li>
+<li><strong>Ball/roller bearings:</strong> rolling contact cuts friction to &lt;1 %. Needs hardened steel balls (cast then ground) and races — a late-medieval-to-industrial luxury worth jumping TO once steel quality supports it (<a href="#">Jump</a>: skip wooden-roller experiments; go straight from greased plain bearings to ball bearings when steel arrives).</li>
+</ul>
+<h2 id="ch15_mechanisms-157-machine-tools-and-interchangeable-parts">15.7 Machine Tools and Interchangeable Parts</h2>
+<p>The lathe births a FAMILY of machines, each removing metal with controlled precision:</p>
+<ul>
+<li><strong>Drill press</strong> (rotating bit fed vertically), <strong>milling machine</strong> (rotating cutter over fed workpiece — flat surfaces, slots, gears), <strong>planer/shaper</strong> (linear cutting strokes), <strong>grinder</strong> (abrasive finishing to tenths).</li>
+<li>Each machine tool can make PARTS FOR BETTER MACHINE TOOLS — the self-improving loop that separates toolmaking cultures from craft cultures. Fund it continuously (<a href="ch23.html">Ch 23</a>'s cylinder tolerances depend entirely on this base).</li>
+</ul>
+<p><strong>Interchangeability doctrine:</strong> parts made to gauge-checked tolerance fit ANY assembly of their type without filing.</p>
+<ol>
+<li>Define functional gauges (go/no-go rings and plugs) per dimension.</li>
+<li>Machine to gauge; workers never measure with rules, only check against limits.</li>
+<li>Repair becomes part-swap instead of artisan refit — armies and railways ran on this arithmetic.</li>
+</ol>
+<p>Historical note: interchangeable parts originated in arms contracts (le Gribéval, Springfield) because militaries needed battlefield repair by unskilled hands; civilian industry adopted it once gauges standardized (Whitworth's thread standards, <a href="#ch15_mechanisms-155-screws-and-standard-threads">§15.5</a>). Adopt the doctrine early — retrofitting interchangeability onto a craft industry has historically taken generations.</p>
+<h2 id="ch15_mechanisms-158-design-doctrine">15.8 Design Doctrine</h2>
+<ol>
+<li><strong>Static determinism:</strong> support rigid bodies on three points, not four (four-legged tables rock; three never do).</li>
+<li><strong>Triangulate loads</strong> — triangles resist deformation (<a href="ch12.html">Ch 12</a>); rectangles rack.</li>
+<li><strong>Design for manufacture:</strong> if your shop can't hold the tolerance, the design is wrong regardless of elegance.</li>
+<li><strong>Fail visibly and safely:</strong> shear pins, breakaway mounts — machines should die loudly where they can't kill.</li>
+</ol>
+<p>The civilization that internalizes these eight sections has absorbed, in one generation, the mechanical vocabulary that took history five millennia to compile.</p>
+<h2 id="ch15_mechanisms-159-the-ancient-engineering-record">15.9 The Ancient Engineering Record</h2>
+<p>Precision mechanics is far older than clocks:</p>
+<ul>
+<li><strong>Antikythera mechanism (~150–100 BCE):</strong> at least 30 interlocking bronze gears computing eclipse cycles and calendrical dials. Derek de Solla Price's 1974 reconstruction began the field; 2005–06 CT imaging revealed hidden gear trains and month names. One surviving artifact implies an unbroken craft tradition behind it — survivors' bias runs backwards in mechanism history.</li>
+<li><strong>Hellenistic automata workshop:</strong> Ctesibius (water clocks, force pump), Philon, Hero of Alexandria (aeolipile reaction sphere, coin-operated holy-water dispenser) — pneumatics and hydraulics engineered for temples and wonder; the same physics later powers turbines (<a href="ch16.html">Ch 16</a>, <a href="ch26.html">Ch 26</a>).</li>
+<li><strong>Vitruvius (~25–15 BCE)</strong> documents treadwheel cranes, hodometers, and hoists in <em>De architectura</em> — single-treadwheel cranes lifted on the order of 6 tonnes; the Baalbek trilithon blocks (~800 t each) moved WITHOUT cranes, by sledges, rollers, levers, and brute coordination — matching tool class to load, not forcing one tool everywhere.</li>
+<li><strong>Su Song's astronomical clock tower (1092 CE)</strong> integrated a water-driven chain drive with an escapement-like regulator — mechanical timekeeping sophistication centuries before Europe's weight-driven clocks, built for state astronomy rather than commerce.</li>
+<li>Bearings history honestly told: roller-and-sledge transport is documented in Egyptian tomb scenes; true ball bearings await machined races (Leonardo sketched them, 1490s); antiquity ran on plain journals + grease because manufacturing tolerance, not insight, was the binding constraint (<a href="#ch15_mechanisms-156-bearing-and-friction-management">§15.6</a>).</li>
+</ul>
+<p>Lesson for rebuilders: mechanical genius recurs across civilizations whenever machining culture exists; the machine-tool chapter is where ancient genius and industrial output actually connect.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch14.html" class="reader-nav-link">← Chapter 14</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch16.html" class="reader-nav-link">Chapter 16 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 18: Paper and the Printing Press — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 18 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch18_printing-chapter-18-paper-and-the-printing-press">Chapter 18: Paper and the Printing Press</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> ~100 CE paper → 1450s press · <strong>Difficulty:</strong> mid
+<br><strong>Requires:</strong> <a href="ch11.html">Ch 11</a>, <a href="ch15.html">Ch 15</a> (screw press), <a href="ch16.html">Ch 16</a> (pulp stamping) · <br><strong>Unlocks:</strong> <a href="ch20.html">Ch 20</a> knowledge circulation, mass literacy</p>
+</blockquote>
+<p>Printing is the meta-invention: it accelerates the invention of everything else by collapsing the cost of copying exact information — diagrams included, which speech cannot carry. A civilization that prints cheaply runs its technology tree in decades instead of centuries.</p>
+<h2 id="ch18_printing-181-paper">18.1 Paper</h2>
+<p>Paper is a random mat of cellulose fibers drained on a screen:</p>
+<ol>
+<li><strong>Pulp the fiber:</strong> shred rags (linen/hemp/cotton — best early feedstock) or bark; beat in water with stampers (<a href="ch16.html">Ch 16</a> water-hammers) until fibers separate into slurry.</li>
+<li><strong>Dip the mould:</strong> a wire-cloth screen in a wooden frame lifts a thin layer of slurry; shake side-to-side to interlace fibers ("vatman" and "coucher" as a two-person team).</li>
+<li><strong>Press and dry:</strong> couche wet sheets onto felt blankets, stack-press out water, then hang-dry.</li>
+<li><strong>Size</strong> (surface-treat) with dilute gelatin or starch so ink sits on the surface instead of feathering.</li>
+</ol>
+<p>Wood-pulp note: mechanical wood pulp is cheap but lignin-rich and ACIDIC — books self-destruct in decades (<strong>Dead end avoided:</strong> building your whole archive on high-lignin newsprint; use rag paper for anything permanent, or chemical pulps once alkali processes exist via <a href="ch21.html">Ch 21</a>).</p>
+<h2 id="ch18_printing-182-ink">18.2 Ink</h2>
+<p>Water-based carbon inks bead on metal type. Printing needs a viscous varnish ink: boil linseed oil (or walnut) to varnish thickness, stir in lampblack until glossy black. Varnish temperature controls tack; too stiff, it pulls type out of form; too loose, it squashes.</p>
+<h2 id="ch18_printing-183-movable-type-systematics">18.3 Movable Type Systematics</h2>
+<p>Gutenberg's real invention was the SYSTEM, not the idea of movable type:</p>
+<ol>
+<li><strong>Punch:</strong> cut a steel letterface hard.</li>
+<li><strong>Matrix:</strong> strike the punch into soft copper — the mold cavity.
+3 <strong>Caster:</strong> an adjustable hand mold clamps the matrix while molten alloy pours in; every letter body comes out identical height.</li>
+<li><strong>Alloy:</strong> lead + tin + antimony (~60/25/12-ish). Antimony expands slightly on cooling — crisp letters, no shrinkage cavities. Pure lead shrinks and rounds off.</li>
+</ol>
+<p>Type height standardization (all foundries same dimension) lets any printer buy any founder's type — network effects from day one. Cast in quantity: lowercase/uppercase/punctuation in proportion to language frequency; compositors pick from two-compartment cases.</p>
+<h2 id="ch18_printing-184-the-press">18.4 The Press</h2>
+<p>A wine-style screw press adapted: flat bed holds the locked forme (type face-up), paper held in a hinged "frisket/tympan" sandwich folds down, screw drives a platen pressing one page area per pull. Two trained men run ~200–250 sheets/hour single-sided. Compose → lock (quoins wedged against furniture) → ink with leather dabbers → print → distribute type back to cases. Page imposition (arranging pages so folded sheets read correctly) is bookkeeping-level cleverness that halves binding labor.</p>
+<p class="co co-key"><strong>Key threshold:</strong> one press + crew produces more <em>identical</em> pages per year than a scriptorium of hundreds — at falling marginal cost. Information price collapse ~300× historically; expect similar here.</p>
+<h2 id="ch18_printing-185-what-mass-printing-changes">18.5 What Mass Printing Changes</h2>
+<ol>
+<li><strong>Error rates:</strong> copies are identical; errata sheets fix all copies at once. Knowledge stops decaying in transmission — the silent killer of pre-print craft secrets.</li>
+<li><strong>Standardized diagrams and tables</strong> circulate: geometry figures, machine drawings, anatomical plates, star charts (<a href="ch20.html">Ch 20</a> depends on exactly this).</li>
+<li><strong>Literacy pays:</strong> cheap primers make universal schooling rational (<a href="ch47.html">Ch 47</a>); vernacular languages standardize.</li>
+<li><strong>Critique scales:</strong> identical texts can be compared, cited, argued over page-by-page — the precondition for peer review culture.</li>
+<li><strong>News networks:</strong> periodicals synchronize markets and politics across distances.</li>
+</ol>
+<p class="co co-jump"><strong>Jump:</strong> skip woodblock-only era for books (keep blocks where they shine: images) — go straight to full movable-type systems using §18.3's punch/matrix/caster trio. Also skip hand-press refinements directly toward iron frame presses (lever-driven, ~4× output) once foundries exist.</p>
+<h2 id="ch18_printing-186-scaling-doctrine">18.6 Scaling Doctrine</h2>
+<p>Sequence: one press per literate market town → newspaper weeklies → stereotype casting (whole-page lead plates for reprint runs) → steam-powered cylinder presses (<a href="ch23.html">Ch 23</a>) → web-fed rotary monsters printing tens of thousands hourly. Each step rides existing tech; none requires new physics. Printing is infrastructure — fund it like bridges.</p>
+<h2 id="ch18_printing-187-what-the-incunabula-record-shows">18.7 What the Incunabula Record Shows</h2>
+<ul>
+<li>Gutenberg's 42-line Bible completed ~1454–55 (~180 copies printed; ~49 survive). The Fust–Gutenberg lawsuit of 1455 documents who financed and who lost the original venture — printing began with litigation over money, like most industries.</li>
+<li>Diffusion speed is the dataset that matters: by 1500 — just 45 years after Mainz — presses operated in roughly <strong>270 European towns</strong>, producing an estimated <strong>27,000–29,000 distinct editions</strong> ("incunabula") totaling millions of copies. No pre-print technology diffused that fast except plague.</li>
+<li>Venice's Aldus Manutius invented the portable book market (octavo classics, italic type cut by Griffo) — product design as market creation.</li>
+<li><strong>The Reformation as print event:</strong> Luther's 1517 theses circulated across German-speaking Europe within weeks; his 1520–22 tracts sold hundreds of thousands of copies. Whether printing caused the Reformation or merely carried it, every historian agrees censorship became unenforceable at scale — governance changed permanently.</li>
+<li><strong>Scientific communication institutionalized:</strong> the <em>Journal des sçavans</em> and <em>Philosophical Transactions</em> both appeared in January 1665 — priority registration, citable results, and peer critique begin here (<a href="ch20.html">Ch 20</a>'s method gets its postal system).</li>
+<li>England's first press: Caxton at Westminster, 1476; Germany's first paper mill purpose-built for printing: Ulman Stromer's Nuremberg mill, 1390 — paper capacity preceded type capacity, a supply-chain lesson rebuilders should note (<a href="#ch18_printing-181-paper">§18.1</a>).</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch17.html" class="reader-nav-link">← Chapter 17</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch19.html" class="reader-nav-link">Chapter 19 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

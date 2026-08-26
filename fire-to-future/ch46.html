@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 46: Machine Intelligence — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 46 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch46_machine_intelligence-chapter-46-machine-intelligence">Chapter 46: Machine Intelligence</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1958 perceptron → present · <strong>Difficulty:</strong> extreme
+<br><strong>Requires:</strong> <a href="ch35.html">Ch 35</a> compute, <a href="ch42.html">Ch 42</a> data, <a href="ch12.html">Ch 12</a> statistics matured · <br><strong>Unlocks:</strong> cognition as infrastructure — science acceleration, automation of thought work</p>
+</blockquote>
+<p>Machine learning is statistics grown muscular: fitting flexible functions to data at scale. Demystified, its power remains enormous — and its limits (hallucination, bias amplification, brittleness) are engineering facts to design around, not mysteries.</p>
+<h2 id="ch46_machine_intelligence-461-the-learning-arc">46.1 The Learning Arc</h2>
+<ul>
+<li>Perceptron (1958): a tunable weight layer learns classifications; Minsky/Papert prove single layers can't do XOR → funding winter (lesson: capability claims outrunning math invite corrections).</li>
+<li>Backpropagation popularized (1986): gradient descent through layered networks trains multi-layer models — the algorithmic unlock.</li>
+<li>Convolutional nets read images (LeNet handwriting); then <strong>AlexNet (2012):</strong> GPUs + ImageNet data + depth crushed the benchmark — hardware-software-data CO-EVOLUTION became the pattern (<a href="ch45.html">Ch 45</a>'s sensors, <a href="ch43.html">Ch 43</a>'s power economics all feeding one curve).</li>
+<li><strong>Transformers (2017, "Attention Is All You Need"):</strong> attention mechanisms process sequences in parallel, scaling cleanly with compute/data/parameters. Scaling laws held embarrassingly well: bigger kept meaning better. Language models emerged as general text interfaces — translation, code, reasoning-flavored tasks behind one architecture.</li>
+</ul>
+<h2 id="ch46_machine_intelligence-462-what-learning-actually-is">46.2 What Learning Actually Is</h2>
+<p>Keep the demystified frame:</p>
+<ol>
+<li>A model is a function with millions-to-trillions of adjustable parameters.</li>
+<li>Training adjusts them to minimize error on examples (gradient descent finds slopes downhill).</li>
+<li>Generalization = performance on UNSEEN data — the only metric that matters; benchmarks leak, so evaluation discipline decides truth.</li>
+<li>RLHF-style alignment training shapes model behavior toward human preferences after base training — capability and behavior are separately tuned dials.</li>
+</ol>
+<h2 id="ch46_machine_intelligence-463-proven-wins">46.3 Proven Wins</h2>
+<ul>
+<li><strong>AlphaGo/AlphaZero:</strong> superhuman game play via self-play reinforcement — search + learned intuition.</li>
+<li><strong>AlphaFold:</strong> protein structure prediction solved-ish (50-year grand challenge) — structural biology accelerated by years-decades; drug targets arrive pre-computed.</li>
+<li>Weather models beating physics-based ensembles on speed and sometimes accuracy — forecasting democratized.</li>
+<li>Chip-design floorplanning, code assistants (measurable productivity gains in controlled studies), industrial inspection (<a href="ch45.html">Ch 45</a>), drug-candidate screening (<a href="ch44.html">Ch 44</a>).</li>
+</ul>
+<h2 id="ch46_machine_intelligence-464-failure-modes-engineering-facts">46.4 Failure Modes (Engineering Facts)</h2>
+<ol>
+<li><strong>Hallucination/confabulation:</strong> fluent falsehoods generated with confidence — retrieval grounding, citation requirements, human verification for consequential outputs.</li>
+<li><strong>Bias inheritance:</strong> training data's prejudices amplify silently — audits, representative data, outcome monitoring.</li>
+<li><strong>Distribution shift:</strong> performance collapses off-distribution (the world keeps moving); monitor drift continuously.</li>
+<li><strong>Adversarial fragility:</strong> tiny perturbations flip classifications — security mindset applies (<a href="ch42.html">Ch 42</a>).</li>
+<li><strong>Evaluation gaming:</strong> Goodhart's law (<a href="ch47.html">Ch 47</a>) — when a benchmark becomes the target, it stops measuring capability.</li>
+</ol>
+<p>Doctrine: AI augments verification-capable humans best; autonomous deployment belongs where errors are cheap and checkable.</p>
+<h2 id="ch46_machine_intelligence-465-compute-economics-and-governance">46.5 Compute Economics and Governance</h2>
+<ul>
+<li>Frontier training runs cost $M→$B; inference optimization (quantization, distillation, caching) determines deployment economics — the fab race (<a href="ch35.html">Ch 35</a>) now doubles as strategic policy (export controls treat chips like oil once was).</li>
+<li>Governance snapshots: risk-tiered regulation (EU AI Act pattern), safety institutes evaluating frontier models, liability allocation debates unresolved. Engineering stance: measurable evaluations, incident reporting norms, red-teaming as standard practice — aviation's post-mortem culture (<a href="ch33.html">Ch 33</a>) ported to software intelligence.</li>
+</ul>
+<h2 id="ch46_machine_intelligence-466-the-honest-uncertainty-section">46.6 The Honest Uncertainty Section</h2>
+<p>Trajectory debates are genuinely open: ceiling heights, timeline distributions, alignment difficulty all contested among experts. Planning stance for this book:</p>
+<ul>
+<li>Treat AI as a powerful amplifier whose exact ceiling is unknown — build institutions that benefit from strong-but-bounded systems while remaining robust to stronger ones.</li>
+<li>The compounding loop matters more than any single capability: AI designs chips that train better AI (<a href="#ch46_machine_intelligence-465-compute-economics-and-governance">§46.5</a>) — feedback rates, not point capabilities, set the pace.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> AI crossing "useful co-worker" reliability in a domain (coding, radiology triage, logistics planning) marks adoption self-acceleration per-domain. Track domains independently — aggregate AGI-style predictions have been reliably wrong in both directions for seventy years; domain-level arithmetic hasn't.</p>
+<h2 id="ch46_machine_intelligence-467-the-machine-intelligence-papers">46.7 The Machine-Intelligence Papers</h2>
+<ul>
+<li>McCulloch &amp; Pitts modeled neurons as logic gates (1943); McCarthy coined "artificial intelligence" at Dartmouth (summer 1956). The New York Times reported the perceptron (1958) as an embryo machine expected to "walk, talk, see, write, reproduce itself" — hype cycles have primary sources.</li>
+<li>Minsky &amp; Papert's <em>Perceptrons</em> (1969) proved single-layer limits (XOR) and helped trigger funding winter #1; the Lighthill Report (1973) cut British programs — winter #2. Expert systems boomed in between: MYCIN matched expert physicians on bacterial meningitis studies yet never entered clinics (liability/regulatory friction — capability ≠ adoption); DEC's XCON configurer demonstrably saved $25M+/year, proving deployment where ROI was mechanical.</li>
+<li>Backpropagation: Werbos' 1974 thesis preceded the Rumelhart–Hinton–Williams Nature papers (1985–86) that popularized it; LeNet's convolutional nets read a significant share of US bank checks by the late 1990s — neural networks paid rent decades before their fame.</li>
+<li>Deep Blue beat Kasparov May 11, 1997 (match 3.5–2.5) using brute-force search plus handcrafted evaluation — a different paradigm than what followed. AlexNet (2012): top-5 error 15.3% versus runner-up 26.2%, trained on two consumer GPUs in under a week — hardware availability, not new theory, flipped the field (<a href="ch35.html">Ch 35</a>'s compute curve meeting <a href="ch42.html">Ch 42</a>'s datasets).</li>
+<li>AlphaGo's move 37 (game 2 vs Lee Sedol, March 2016): policy network assigned a human probability of ~1/10,000 — a documented moment where machine valuation visibly diverged from centuries of professional intuition. AlphaZero generalized via pure self-play; <strong>AlphaFold2 (CASP14, 2020)</strong> reached median backbone accuracy ~92 GDT — atom-level structure prediction for most targets, converting a 50-year problem into a web service.</li>
+<li>Transformers ("Attention Is All You Need," 2017) scaled predictably enough to become infrastructure; GPT-3's 175B parameters (2020) demonstrated few-shot behavior; ChatGPT (November 30, 2022) reportedly crossed ~100M users in two months (third-party estimate) — adoption speed itself became a policy input. The EU's AI Act (adopted 2024) tiered regulation by risk class; export controls turned advanced chips into strategic goods (<a href="ch51.html">Ch 51</a>'s resource-politics pattern recurring around computation).</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch45.html" class="reader-nav-link">← Chapter 45</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch47.html" class="reader-nav-link">Chapter 47 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

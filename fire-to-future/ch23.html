@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 23: Steam Engines Done Right — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 23 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch23_steam-chapter-23-steam-engines-done-right">Chapter 23: Steam Engines Done Right</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1698 Savery → 1900s compounds · <strong>Difficulty:</strong> high
+<br><strong>Requires:</strong> <a href="ch22.html">Ch 22</a> iron, <a href="ch15.html">Ch 15</a> boring precision, <a href="ch20.html">Ch 20</a> pressure gauges · <br><strong>Unlocks:</strong> <a href="ch24.html">Ch 24</a> locomotion, <a href="ch26.html">Ch 26</a> prime power, factory independence from rivers</p>
+</blockquote>
+<p>Steam is the first engine that makes power WHERE YOU WANT IT, burning fuel anyone can ship. History took 150 years to get it right; this chapter compresses the learning by stating the physics up front and the design sequence after.</p>
+<h2 id="ch23_steam-231-the-physics-first-history-did-it-backwards">23.1 The Physics First (History Did It Backwards)</h2>
+<ul>
+<li>Water → steam expands ~1,600× at atmospheric pressure; condensing it back creates vacuum.</li>
+<li>Heat engines convert only a FRACTION of heat to work: Carnot bound η = 1 − T_cold/T_hot. Every efficiency gain in this chapter is secretly "raise T_hot, lower T_cold, waste less in between."</li>
+<li>Latent heat: boiling/condensing absorbs/releases enormous energy at constant temperature — why condensers dominate engine economics.</li>
+</ul>
+<p>Knowing these three facts, you can skip a century of blind tinkering.</p>
+<h2 id="ch23_steam-232-the-design-ladder">23.2 The Design Ladder</h2>
+<p><strong>Stage 1 — Savery pump (skip if possible):</strong> no piston; steam pressure pushes water up, vacuum sucks it higher; boiler explosions capped it at ~10 m lifts. Historical dead end once Newcomen exists.</p>
+<p><strong>Stage 2 — Newcomen atmospheric engine:</strong> open-top cylinder; piston hangs from beam pump rods. Fill cylinder with low-pressure steam, spray cold water inside to condense, ATMOSPHERE slams piston down, stroke repeats. Robust, crude, ~0.5 % efficient — it burns coal ONLY where coal is nearly free (mine mouths), which is fine: its job is mine drainage (<a href="ch13.html">Ch 13</a>).</p>
+<p><strong>Stage 3 — Watt's corrections (~1765–1790):</strong>
+1. <strong>Separate condenser:</strong> keep the cylinder hot, condense steam elsewhere — fuel drops ~75 %.
+2. <strong>Double-acting:</strong> steam pushes both strokes.
+3. <strong>Parallel motion linkage:</strong> piston force transmitted without chains.
+4. <strong>Centrifugal governor + throttle:</strong> automatic speed regulation — the first industrial feedback controller (<a href="ch45.html">Ch 45</a> ancestor).
+5. <strong>Pressure gauge and vacuum gauge:</strong> instrumented operation (<a href="ch20.html">Ch 20</a>).</p>
+<p>Efficiency ~3–4 %. Watt's patent ironically DELAYED high-pressure development for decades (<strong>Dead end avoided:</strong> don't let one firm's IP strategy define your roadmap — patent around or leapfrog).</p>
+<p><strong>Stage 4 — High pressure (Trevithick/Evans):</strong> stronger boilers let steam WORK expansively above atmospheric; engines shrink 10×, become mobile. This unlocks boats and locomotives.</p>
+<p><strong>Stage 5 — Compounding &amp; superheating (19th c. mature form):</strong> expand steam through successive cylinders (high→low pressure), superheat before admission to keep steam dry. Marine triple-expansion engines reach 15–20 % efficiency — good enough to make steamships outperform sailing freight economically (<a href="ch24.html">Ch 24</a>).</p>
+<h2 id="ch23_steam-233-the-machine-tool-dependency">23.3 The Machine-Tool Dependency</h2>
+<p>Watt's first engines leaked like sieves until Wilkinson's boring machine (1774 — originally cannon bores!) machined true cylinders. Lesson institutionalized: <strong>engine progress = machine-tool progress</strong>. Fund lathes/borers/planers continuously (<a href="ch15.html">Ch 15</a>); every micron of cylinder fit becomes fuel saved for decades.</p>
+<h2 id="ch23_steam-234-boilers-where-danger-lives">23.4 Boilers: Where Danger Lives</h2>
+<p>Most steam fatalities were boiler explosions, not engine failures. Non-negotiables:</p>
+<ul>
+<li>Water level gauges + fusible plugs (melt and vent if dry-fire begins).</li>
+<li>Spring-loaded safety valves sized generously, tested weekly under steam.</li>
+<li>Riveted/welded shells with computed thickness margins; pressure testing ABOVE working pressure with water (incompressible — failures are leaks, not bombs).</li>
+<li>Written operating logs per shift (<a href="ch11.html">Ch 11</a>) — pattern analysis catches drifting maintenance before it kills.</li>
+</ul>
+<h2 id="ch23_steam-235-deployment-priorities">23.5 Deployment Priorities</h2>
+<ol>
+<li><strong>Mine drainage</strong> (pays instantly where water floods workings).</li>
+<li><strong>Mill drive</strong> in riverless towns; line-shafting identical to water mills (<a href="ch16.html">Ch 16</a>) but sited anywhere near coal.</li>
+<li><strong>Blast blowing</strong> for ironworks (<a href="ch22.html">Ch 22</a>) — hot blast synergy.</li>
+<li><strong>Locomotion</strong> — next chapter.</li>
+<li><strong>Electric generation</strong> — <a href="ch26.html">Ch 26</a>; steam's final century of dominance.</li>
+</ol>
+<p class="co co-key"><strong>Key threshold:</strong> an engine hall delivering 50–200 kW on demand converts any town into an industrial site. Track fuel-per-kWh relentlessly; thermodynamics says there's always headroom, and competitors who ignore the number die quietly.</p>
+<h2 id="ch23_steam-236-the-engine-papers">23.6 The Engine Papers</h2>
+<ul>
+<li>Hero's aeolipile (1st c. CE) proves reaction jets existed as temple toys for seventeen centuries — physics known, economics absent: fuel was expensive, labor cheap. Steam waited for the wage/coal price crossover (<a href="ch22.html">Ch 22</a> supplies it), not for genius.</li>
+<li><strong>Savery's 1698 "Miner's Friend" patent</strong> claimed such broad wording (drawing water by impelling fire) that it taxed later inventors for decades — documented patent-drafting abuse predating modern IP law.</li>
+<li>Newcomen's first working engine ran at Dudley Castle colliery (~1712). Watt recorded his separate-condenser insight during a Glasgow Green walk in May 1765; the 1769 patent, Boulton partnership (1775), and a Parliamentary extension to 1800 made the firm rich and — per Cornish engineers' contemporary complaints — slowed high-pressure development until expiry. Both readings are documented; the book records the tension rather than adjudicating it.</li>
+<li>Wilkinson's cannon-boring patent (1774) became Watt's cylinder salvation — arms machining feeding civil industry again (<a href="ch49.html">Ch 49</a>'s armory loop).</li>
+<li><strong>Cornwall quantified competition:</strong> mine engineers measured engines in "duty" (foot-pounds of work per bushel of coal), publishing league tables; Woolf's compound designs pushed duty records through the 1810s–30s. Efficiency racing as public sport — an institution worth rebuilding deliberately.</li>
+<li>Trevithick's Penydarren locomotive hauled iron along plateway rails (February 1804); Rocket won Rainhill Trials (October 1829) with the multi-tubular boiler + blast pipe package <a href="ch24.html">Ch 24</a> describes.</li>
+</ul>
+<h2 id="ch23_steam-237-first-build-a-10-kw-stationary-engine-from-computed-drawings">23.7 First Build: A 10 kW Stationary Engine From Computed Drawings</h2>
+<p>One buildable reference design: a double-acting simple high-pressure horizontal engine, non-condensing for its first season. Every dimension below is derived, not quoted — recompute them whenever one input changes.</p>
+<p><strong>Phase 0 — Size the cylinder (worked arithmetic).</strong></p>
+<ol>
+<li>Target 10 kW brake output; assume mechanical efficiency ~85 % → ~11.8 kW indicated required.</li>
+<li>Boiler pressure 7 bar gauge (8 bar absolute, saturated steam ~170 °C); cut-off ~35 % gives a realistic mean effective pressure p_m ≈ <strong>240 kPa</strong>.</li>
+<li>Speed n = 300 rpm = 5 rev/s; choose stroke L = 200 mm.</li>
+<li>Double-acting work per revolution = 2·p_m·A·L, so required piston area A = P/(2·p_m·L·n) = 11,800/(2 × 240,000 × 0.20 × 5) = <strong>0.0246 m²</strong> → bore d = √(4A/π) ≈ 177 mm.</li>
+<li>Adopt <strong>bore Ø180 mm × stroke 200 mm</strong>: A = 0.02545 m² → work/rev = 2 × 240,000 × 0.02545 × 0.20 ≈ 2,443 J → indicated power at 300 rpm ≈ 12.2 kW, ~10 kW at the belt.</li>
+<li>Sanity checks before cutting metal: mean piston speed = 2Ln = 2 × 0.20 × 5 = <strong>2.0 m/s</strong> — comfortably under the ~4 m/s where ring and bore wear escalate at this tech level. Steam demand: full displacement 2 × A × L × n = 50.9 L/s of 8-bar saturated steam (~4.16 kg/m³) at 35 % cut-off ≈ <strong>75 kg/h</strong>; a good fire-tube boiler evaporating ~7 kg steam per kg coal puts coal burn near <strong>11 kg/h ≈ 1.1 kg per delivered kWh</strong>.</li>
+</ol>
+<p><em>Verification checkpoint:</em> an indicator diagram (or careful gauge-and-stroke estimate) reading ≥10 kW sustained against a Prony brake for four hours confirms sizing; half that means leaking piston or dead passages, not wrong arithmetic.</p>
+<p>Per-step failure modes:</p>
+<ul>
+<li><em>Knocking on stroke reversal:</em> water slug in the cylinder → stop immediately; drain, fix priming source before restart.</li>
+<li><em>Speed hunts under load:</em> governor friction or flyball spring sag → clean linkage, reset springs until ±3 % regulation.</li>
+</ul>
+<p><strong>Phase 1 — Boiler plate thickness (worked hoop stress).</strong></p>
+<ol start="7">
+<li>Shell: seamless-wound or riveted drum, internal diameter D = 400 mm.</li>
+<li>Hoop stress σ_h = pD/2t; solve thickness t = pD/(2·σ_allow·η). With wrought-iron/mild-steel plate ultimate ~320 MPa, safety factor 5 → σ_allow = 64 MPa; riveted longitudinal joint efficiency η = 0.70:
+   t_min = (700,000 Pa × 0.40 m)/(2 × 64,000,000 × 0.70) = 280,000/89,600,000 ≈ <strong>3.1 mm</strong>.</li>
+<li>Adopt <strong>6 mm plate</strong> — roughly double the computed minimum, covering corrosion loss, rivet-lap weakening, and shop damage. Flat ends are forbidden at this pressure unstayed: use dished heads with gusset stays, firebox crown stayed ≤150 mm pitch.</li>
+<li>Tube bank: 24 × 65 mm firetubes × 1.5 m gives ≈7.4 m² heating surface — evaporates &gt;100 kg/h against this engine's ~75 kg/h demand.</li>
+</ol>
+<p><em>Verification checkpoint:</em> hydrostatic test at <strong>1.5 × working pressure (10.5 bar) held 30 min</strong>, gauge motionless, seams weeping nothing worse than damp. Any stream = strip, re-caulk, retest. Water only — compressed gas stores lethal energy.</p>
+<p>Per-step failure modes:</p>
+<ul>
+<li><em>Seam weep under test:</em> mark, depressurize, re-caulk seam, retest from zero.</li>
+<li><em>Gauge creep during hold:</em> thermal expansion still equalizing; restart the clock only after full temperature soak.</li>
+</ul>
+<p><strong>Phase 2 — Safety hardware before first fire.</strong></p>
+<ol start="11">
+<li>Spring safety valve set 7.5 bar gauge, sized to hold pressure ≤110 % with fires at maximum; hand-ease it weekly under steam.</li>
+<li>Fusible plug (lead–tin alloy, melts ~230 °C) in the firebox crown — dry-firing melts it and vents the box instead of collapsing the crown.</li>
+<li>Two independent water gauges plus try-cocks; feed pump AND injector-class backup.</li>
+</ol>
+<p><em>Verification checkpoint:</em> pop test — valve lifts within ±2 % of set pressure twice consecutively; fusible plug sits flush in crown, unobstructed.</p>
+<p><strong>Phase 3 — Valve gear: lap and lead (where most homemade engines go wrong).</strong></p>
+<ol start="14">
+<li>Mark steam ports with the piston at each dead center (rock the flywheel over center by feel — the "rock-over" method — and scribe crossheads/crank marks at both).</li>
+<li>Set the slide valve's <strong>outside lap</strong> symmetrically on both steam ends: lap is what creates cutoff; more lap = shorter admission = earlier expansion. For ~35 % cut-off at this geometry, outside lap near <strong>one-third of port width</strong> is the starting point; verify by measuring port opening at dead center.</li>
+<li>Set <strong>lead</strong> — slight port opening (~1–3 mm) at dead center so steam is already entering as the stroke begins; too much lead wastes throttle, none makes the engine knock on reversal.</li>
+<li>Exhaust lap ≈ zero for a first engine (inside edges of valve flush with exhaust ports).</li>
+</ol>
+<p><em>Verification checkpoint:</em> engine turns over slowly on hand-barrow air/steam, runs in BOTH directions from mid-position, and reverses cleanly — a mis-lapped valve hunts or refuses one direction.</p>
+<p>Per-step failure modes:</p>
+<ul>
+<li><em>Runs one way only / dies at half-revolution:</em> unequal lap or eccentric set wrong → re-scribe dead centers, reset eccentric to crank at 90° plus lap angle.</li>
+<li><em>Knocks at each dead center:</em> clearance lost in crosshead or bearings, not the valve → check brasses first.</li>
+</ul>
+<p><strong>Phase 4 — First-fire procedure.</strong></p>
+<ol start="18">
+<li>Cure refractory/masonry gently: wood coals only, day one; never raise metal temperature faster than ~50 °C/h thereafter.</li>
+<li>Fill with the softest water available (scale is silent murder), glass at mid-level, vent open until steady steam shows.</li>
+<li>Raise steam over 2–3 h; blow down 10 % twice in the first day to skim oil and salts.</li>
+<li>Admit steam to cylinder with engine on light load; run 30 min, shut, retighten gland bolts warm, then couple the load.</li>
+</ol>
+<p><em>Verification checkpoint:</em> gauge holds 7 bar under full load with safety valve quiet; exhaust clear (no white priming carryover); bearings cool enough to rest a hand.</p>
+<p>Per-step failure modes:</p>
+<ul>
+<li><em>Priming/carryover:</em> erratic gauge, water hammer, wet exhaust → drop load, check water level and quality, reduce firing rate.</li>
+<li><em>Dry firing:</em> fusible plug vents with hiss while gauge falls → kill fires, cool completely, replace plug (spares stocked), find feed failure first.</li>
+<li><em>Gland leak growing:</em> steam feathering at rod → tighten evenly warm; never crank cold.</li>
+</ul>
+<p><strong>Phase 5 — Condenser-trip procedure (when the jet/surface condenser is added).</strong></p>
+<ol start="22">
+<li>Normal running: condenser vacuum ≥70 kPa below atmospheric; log it hourly (<a href="#ch23_steam-234-boilers-where-danger-lives">§23.4</a> log discipline).</li>
+<li>Trip drill monthly: throttle cooling water deliberately → when vacuum falls through 50 kPa, the atmospheric break-valve must open within seconds, dumping exhaust to roof; engine keeps turning non-condensing at reduced economy.</li>
+<li>Pass criterion: no stall, no overspeed, vacuum recovered within 5 min of cooling-water restoration.</li>
+</ol>
+<p><em>Verification checkpoint:</em> three consecutive clean trips logged; then the drill joins the weekly safety-valve round.</p>
+<p class="co co-key"><strong>Key threshold:</strong> fuel burn near <strong>2 kg coal per kWh delivered</strong> marks an honest first build; Cornish-style discipline (§23.6 duty tables) exists precisely to halve that number. Log fuel and feed water every shift from day one — the engine that isn't metered regresses silently.</p>
+<p><strong>Duty, converted into your terms.</strong> §23.6's league-table metric is work per bushel of coal (84 lb ≈ 38 kg): duty (ft·lb) = output work ÷ bushels burned, and since 1 kWh = 2.66 million ft·lb, any metered engine converts straight across. The documented trajectory: Newcomen-era engines ran roughly <strong>4–6 M</strong> ft·lb/bushel (≈20 kg coal/kWh); Watt's separate condenser lifted practice to roughly <strong>20–30 M</strong> (≈3–4 kg/kWh, matching its 3–4 % thermal efficiency above); the best Cornish compounds peaked around <strong>90–100 M</strong> (≈1 kg/kWh). This section's own 2 kg-coal/kWh acceptance bar corresponds to <strong>~50 M duty</strong> — a Watt-class result, with Cornwall's numbers marking what disciplined iteration buys. Compute yours weekly from the shift logs; publish the table internally exactly as Cornwall did (<a href="#ch23_steam-236-the-engine-papers">§23.6</a>).</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch22.html" class="reader-nav-link">← Chapter 22</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch24.html" class="reader-nav-link">Chapter 24 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

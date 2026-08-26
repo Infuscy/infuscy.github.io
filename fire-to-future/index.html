@@ -1,0 +1,160 @@
+---
+layout: page
+title: "Fire to Future"
+---
+
+<style>
+/* ToC styles inline since they're specific to this one page */
+.toc-wrap {
+  padding: 6rem 0 4rem;
+  min-height: 80vh;
+}
+.toc-wrap .container {
+  max-width: 42rem;
+}
+.toc-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.toc-header h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -.025em;
+  color: #0f172a;
+  margin: 0 0 .5rem;
+}
+.toc-header p {
+  color: #64748b;
+  font-size: 1rem;
+  margin: 0 0 .25rem;
+}
+.toc-header .toc-sub {
+  font-size: .9rem;
+  color: #94a3b8;
+  margin-top: .5rem;
+  line-height: 1.5;
+}
+.toc-download {
+  display: inline-block;
+  margin-top: 1.1rem;
+  padding: .6rem 1.4rem;
+  border: 1px solid #2563eb;
+  border-radius: .5rem;
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.toc-download:hover {
+  background: #eff6ff;
+}
+.toc-search {
+  display: block;
+  width: 100%;
+  padding: .75rem 1rem;
+  border: 1px solid #e2e8f0;
+  border-radius: .75rem;
+  font-size: 1rem;
+  font-family: inherit;
+  margin-bottom: 1.5rem;
+  outline: none;
+  transition: border-color .15s, box-shadow .15s;
+}
+.toc-search:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37,99,235,.1);
+}
+.toc-search::placeholder {
+  color: #94a3b8;
+}
+.toc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.toc-list li {
+  border-bottom: 1px solid #f1f5f9;
+}
+.toc-list li:last-child {
+  border-bottom: 0;
+}
+.toc-list a {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: .65rem .5rem;
+  text-decoration: none;
+  color: #0f172a;
+  border-radius: .375rem;
+  transition: background .1s;
+}
+.toc-list a:hover {
+  background: #f8fafc;
+  color: #2563eb;
+}
+.toc-list .chapter-num {
+  color: #94a3b8;
+  font-size: .85rem;
+  font-weight: 500;
+  min-width: 2.5rem;
+  text-align: right;
+}
+.toc-list .chapter-title {
+  font-weight: 500;
+  flex: 1;
+  margin-left: .75rem;
+}
+.toc-list .chapter-type {
+  color: #cbd5e1;
+  font-size: .75rem;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+}
+.toc-part-divider {
+  padding: 1rem .5rem .5rem;
+  font-size: .8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: #2563eb;
+  border-bottom: 1px solid #f1f5f9;
+}
+.toc-empty {
+  text-align: center;
+  color: #94a3b8;
+  padding: 3rem 0;
+  font-style: italic;
+}
+.toc-note {
+  text-align: center;
+  color: #94a3b8;
+  font-size: .85rem;
+  margin: 1.5rem auto 0;
+  max-width: 34rem;
+  line-height: 1.5;
+}
+@media (max-width: 600px) {
+  .toc-wrap { padding: 5rem 0 3rem; }
+  .toc-header h1 { font-size: 1.6rem; }
+}
+</style>
+
+<div class="toc-wrap">
+  <div class="container">
+    <div class="toc-header">
+      <h1>Fire to Future</h1>
+      <p>The Complete Technology Ladder — from making fire to dominating a planet</p>
+      <p class="toc-sub">51 chapters · 7 appendices · ~68,000 words · a dependency-ordered guide to rebuilding technological civilization</p>
+      <a class="toc-download" href="/fire-to-future/Fire-To-Future.pdf" download>Download PDF (3.8 MB)</a>
+    </div>
+
+    <input type="text" class="toc-search" id="tocSearch" placeholder="Search chapters by title or number…">
+
+    <ul class="toc-list" id="tocList"></ul>
+    <p class="toc-empty" id="tocEmpty" style="display:none">No chapters match your search.</p>
+  </div>
+</div>
+
+<script src="/fire-to-future/chapters.js"></script>
+<script src="/js/fire-to-future-toc.js"></script>

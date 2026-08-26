@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appendix B — Catalog of Dead Ends — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Appendix B of 7</span>
+</div>
+<main class="reader-content">
+<h1 id="appendix_B_dead_ends-appendix-b-catalog-of-dead-ends">Appendix B — Catalog of Dead Ends</h1>
+<blockquote class="meta">
+<p>Theories, wastes, and traps to never bother with. Each entry: what it was, why it failed, what to do instead.</p>
+</blockquote>
+<h2 id="appendix_B_dead_ends-b1-scientific-dead-ends">B.1 Scientific Dead Ends</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Dead end</th>
+<th>Era wasted</th>
+<th>What went wrong</th>
+<th>Do instead</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alchemical gold transmutation</td>
+<td>~1,500 yrs</td>
+<td>Element identity isn't chemical; apparatus culture was real, goal wasn't</td>
+<td>Take the labware (distillation/assaying), skip the philosophy (<a href="ch17.html">Ch 17</a>)</td>
+</tr>
+<tr>
+<td>Phlogiston theory</td>
+<td>~100 yrs</td>
+<td>Explained combustion by backwards mechanism; unfalsifiable patches</td>
+<td>Lavoisier-style mass accounting (<a href="ch20.html">Ch 20</a>)</td>
+</tr>
+<tr>
+<td>Geocentrism + epicycles</td>
+<td>~1,400 yrs</td>
+<td>Model fit data but compounded complexity with each observation</td>
+<td>Telescope evidence settles it in years (<a href="ch19.html">Ch 19</a>)</td>
+</tr>
+<tr>
+<td>Humoral medicine &amp; bloodletting</td>
+<td>~2,000 yrs</td>
+<td>Authority (Galen) outranked outcomes for millennia</td>
+<td>Outcome measurement + RCTs (<a href="ch31.html">Ch 31</a>)</td>
+</tr>
+<tr>
+<td>Spontaneous generation</td>
+<td>~200 yrs active debate</td>
+<td>Contamination misread as generation</td>
+<td>Swan-neck flasks; sterile technique (<a href="ch30.html">Ch 30</a>)</td>
+</tr>
+<tr>
+<td>Miasma theory (as final truth)</td>
+<td>—</td>
+<td>Wrong mechanism, right correlations</td>
+<td>Keep the sanitation engineering, adopt germ theory (<a href="ch30.html">Ch 30</a>)</td>
+</tr>
+<tr>
+<td>Lamarckian inheritance / Lysenkoism</td>
+<td>decades + famines</td>
+<td>Ideology over agronomy; genetics suppressed</td>
+<td>Mendel-forward breeding (<a href="ch32.html">Ch 32</a>)</td>
+</tr>
+<tr>
+<td>Vitalism (blocking organic chemistry)</td>
+<td>~100 yrs</td>
+<td>"Life force" gatekept synthesis; Wöhler's urea ended it</td>
+<td>Chemistry is chemistry (<a href="ch21.html">Ch 21</a>)</td>
+</tr>
+<tr>
+<td>N-rays, cold fusion claims, Martian canals</td>
+<td>brief but instructive</td>
+<td>Wishful observation without replication controls</td>
+<td>Instrumented method §<a href="ch20.html">20.5</a></td>
+</tr>
+<tr>
+<td>Perpetual motion schemes</td>
+<td>centuries of talent</td>
+<td>Thermodynamic bookkeeping always wins</td>
+<td>Carnot bound first, design second (<a href="ch23.html">Ch 23</a>)</td>
+</tr>
+<tr>
+<td>Eugenics pseudoscience</td>
+<td>decades + atrocities</td>
+<td>Bad genetics + worse ethics; coefficient math abused</td>
+<td>Welfare genetics = medicine + consent (<a href="ch44.html">Ch 44</a>)</td>
+</tr>
+<tr>
+<td>Numerology/gematria</td>
+<td>scattered lifetimes</td>
+<td>Patterns in noise worshipped</td>
+<td>Statistics distinguishes signal/noise (<a href="ch12.html">Ch 12</a>)</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_B_dead_ends-b2-technology-dead-ends">B.2 Technology Dead Ends</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Dead end</th>
+<th>What went wrong</th>
+<th>Do instead</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Logographic-only scripts</td>
+<td>Literacy locked into decade-trained scribe castes</td>
+<td>Phonetic alphabet from day one (<a href="ch11.html">Ch 11</a>)</td>
+</tr>
+<tr>
+<td>Non-positional numerals (Roman)</td>
+<td>Multiplication/division stayed abacus-rituals</td>
+<td>Positional decimal with zero immediately (<a href="ch12.html">Ch 12</a>)</td>
+</tr>
+<tr>
+<td>Bronze dependence without tin geography</td>
+<td>Core industry hostage to rare deposits</td>
+<td>Bloomery iron fast (<a href="ch10.html">Ch 10</a>)</td>
+</tr>
+<tr>
+<td>Throat-and-girth horse harness</td>
+<td>Horses delivered ~25 % of potential pull</td>
+<td>Padded collar harness (<a href="ch08.html">Ch 8</a>)</td>
+</tr>
+<tr>
+<td>Savery-style vacuum pumps post-Newcomen</td>
+<td>Height-limited, explosion-prone</td>
+<td>Piston engines onward (<a href="ch23.html">Ch 23</a>)</td>
+</tr>
+<tr>
+<td>Steam road carriages vs rail coordination</td>
+<td>Lost to infrastructure politics + road damage</td>
+<td>Railways where rails make sense (<a href="ch24.html">Ch 24</a>)</td>
+</tr>
+<tr>
+<td>Rigid airships as passenger transport</td>
+<td>Hydrogen + weather + structural fragility</td>
+<td>Heavier-than-air from Cayley's insight (<a href="ch33.html">Ch 33</a>)</td>
+</tr>
+<tr>
+<td>Mechanical television</td>
+<td>Resolution ceiling physical</td>
+<td>Electronic scanning (<a href="ch34.html">Ch 34</a>)</td>
+</tr>
+<tr>
+<td>Leaded gasoline (TEL)</td>
+<td>Octane via neurotoxin; global IQ damage</td>
+<td>Refinery octane chemistry (<a href="ch28.html">Ch 28</a>)</td>
+</tr>
+<tr>
+<td>CFC refrigerants (also Midgley — same man twice)</td>
+<td>Stable = indestructible in stratosphere; ozone hole</td>
+<td>Non-ozone-depleting refrigerants; the safety-vs-inertness lesson institutionalized</td>
+</tr>
+<tr>
+<td>Radium health tonics</td>
+<td>Radioactivity marketed as vitality</td>
+<td>Dosimetry discipline (<a href="ch37.html">Ch 37</a>)</td>
+</tr>
+<tr>
+<td>Asbestos enthusiasm</td>
+<td>Miracle fiber, carcinogenic dust</td>
+<td>Substitute fibers; handling doctrine everywhere</td>
+</tr>
+<tr>
+<td>Static-only fortification doctrine</td>
+<td>Fixed defenses without mobile reserves or air cover get bypassed or enveloped (Eben-Emael 1940; Ardennes coverage gap)</td>
+<td>Defense-in-depth + mobility + dispersion (<a href="ch48.html">Ch 48</a>)</td>
+</tr>
+<tr>
+<td>DC mile-radius power grids</td>
+<td>Copper arithmetic doomed dense-plant futures</td>
+<td>Polyphase AC + transformers day one (<a href="ch26.html">Ch 26</a>)</td>
+</tr>
+<tr>
+<td>RBMK positive-void reactors</td>
+<td>Reactivity rises as coolant boils — unstable by construction</td>
+<td>Negative feedback safety cases only (<a href="ch37.html">Ch 37</a>)</td>
+</tr>
+<tr>
+<td>Mechanical general-purpose computing</td>
+<td>Precision ceilings at affordable cost</td>
+<td>Relay→tube→transistor path (<a href="ch36.html">Ch 36</a>)</td>
+</tr>
+<tr>
+<td>Planned obsolescence business models</td>
+<td>Trust erosion; regulatory backlash; waste</td>
+<td>Durability + service economics (<a href="ch47.html">Ch 47</a>)</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_B_dead_ends-b3-institutional-dead-ends">B.3 Institutional Dead Ends</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Dead end</th>
+<th>Mechanism</th>
+<th>Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Scribal knowledge monopolies</td>
+<td>Literacy gatekept for power</td>
+<td>Centuries of suppressed progress (<a href="ch11.html">Ch 11</a>)</td>
+</tr>
+<tr>
+<td>Argument-from-authority as arbiter</td>
+<td>Texts outrank evidence</td>
+<td>Galen ruling medicine 1,300 years</td>
+</tr>
+<tr>
+<td>Full centrally-planned economies</td>
+<td>Calculation + incentive problems at scale</td>
+<td>Chronic shortage economies</td>
+</tr>
+<tr>
+<td>Metric gaming (Goodhart collapse)</td>
+<td>Measures become targets stop measuring</td>
+<td>Institutions fly blind while dashboards glow green (<a href="ch47.html">Ch 47</a>)</td>
+</tr>
+<tr>
+<td>Rent-seeking licensing capture</td>
+<td>Gatekeeping taxes entrants</td>
+<td>Innovation chilled, insiders enriched</td>
+</tr>
+<tr>
+<td>Monetary debasement</td>
+<td>Short-term treasury gain, long-term trust destruction</td>
+<td>Roman denarius collapse pattern (<a href="ch09.html">Ch 9</a>)</td>
+</tr>
+<tr>
+<td>Debt-slavery regimes</td>
+<td>Labor force incentives destroyed</td>
+<td>Tax base collapses with the freeholders</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_B_dead_ends-b4-why-dead-ends-happen">B.4 Why Dead Ends Happen</h2>
+<ol>
+<li><strong>Plausible theories survive on elegance.</strong> Phlogiston explained everything and predicted nothing; elegance without falsifiability is a trap dressed as depth.</li>
+<li><strong>War distorts priorities.</strong> Radar/jets/nukes arrived fast because war paid; airships got passenger duty they never earned.</li>
+<li><strong>Single-point-of-failure inventors.</strong> When one firm/person owns a paradigm (Watt's patent delays, Edison's DC crusade), alternatives starve on schedule rather than merit.</li>
+<li><strong>Ideology capture.</strong> Lysenkoism, eugenics, numerology — when conclusions are predetermined, evidence becomes decoration. The immune system is always §20.5's method plus institutions that can accept unwelcome results (<a href="ch47.html">Ch 47</a>).</li>
+</ol>
+<p><strong>Usage:</strong> consult this appendix whenever a technology/theory proposal arrives with enthusiasm but no falsification path. The catalog is not exhaustive; the PATTERN is.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="appendix-a.html" class="reader-nav-link">← Appendix A</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="appendix-c.html" class="reader-nav-link">Appendix C →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

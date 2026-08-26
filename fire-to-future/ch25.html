@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 25: Electricity I: Charge, Batteries, Electromagnetism, Telegraph — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 25 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch25_electricity_1-chapter-25-electricity-i-charge-batteries-electromagnetism-telegraph">Chapter 25: Electricity I: Charge, Batteries, Electromagnetism, Telegraph</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1745 Leyden jar → 1866 transatlantic cable · <strong>Difficulty:</strong> mid–high
+<br><strong>Requires:</strong> <a href="ch20.html">Ch 20</a> measurement culture, <a href="ch17.html">Ch 17</a> chemistry, <a href="ch15.html">Ch 15</a> wire drawing · <br><strong>Unlocks:</strong> <a href="ch26.html">Ch 26</a> power engineering, <a href="ch34.html">Ch 34</a> electronics</p>
+</blockquote>
+<p>This chapter builds electricity as a LABORATORY discipline: store it (capacitors), generate it continuously (batteries), measure it (instruments), command it at a distance (telegraph). Power engineering waits for the next chapter; without this one, that one is impossible.</p>
+<h2 id="ch25_electricity_1-251-static-charge-and-storage">25.1 Static Charge and Storage</h2>
+<ul>
+<li>Rubbing dissimilar materials separates charge; like charges repel, unlike attract.</li>
+<li><strong>Leyden jar (1745):</strong> foil-lined glass jar = capacitor. Charge it from friction machines, discharge through your audience (parlor science paid for laboratories). Capacitance C = Q/V intuition: bigger plates, thinner dielectric, more storage.</li>
+<li><strong>Coulomb's torsion balance:</strong> force ∝ q₁q₂/r² — inverse-square law measured directly (<a href="ch20.html">Ch 20</a> method in action).</li>
+<li>Franklin's single-fluid convention survives in circuit language ("current flows + to −") even though electrons drift oppositely — keep the convention, note the truth.</li>
+</ul>
+<h2 id="ch25_electricity_1-252-the-battery-continuous-current">25.2 The Battery: Continuous Current</h2>
+<p>Volta's pile (1800): stacked zinc | brine-soaked cloth | copper discs — chemistry converts to steady current. Defects to engineer around:</p>
+<ul>
+<li><strong>Polarization:</strong> hydrogen bubbles coat electrodes, choking output → Daniell cell (zinc|CuSO₄|copper with porous barrier) runs clean and constant for telegraph duty.</li>
+<li><strong>Local action:</strong> zinc impurity self-discharges → amalgamated or pure-zinc electrodes.</li>
+<li><strong>Leclanché (1866):</strong> zinc-carbon with manganese dioxide depolarizer — the dry-cell ancestor; portable power arrives.</li>
+</ul>
+<p>Battery arithmetic: cells in SERIES add voltage; in PARALLEL add current capacity. Ohm's law (V = I·R, published 1827 amid dismissal — publish anyway) governs every sizing decision: line resistance eats voltage as I²R heat; thick copper or high voltage fights back.</p>
+<h2 id="ch25_electricity_1-253-electromagnetism-current-commands-magnetism">25.3 Electromagnetism: Current Commands Magnetism</h2>
+<ul>
+<li><strong>Oersted (1820):</strong> compass needle deflects near a current — electricity and magnetism are ONE subject.</li>
+<li><strong>Ampère:</strong> parallel currents attract/repel; coils become electromagnets. Soft-iron cores multiply field strength hundreds-fold; Sturgeon's horseshoe lifts kilograms on amperes.</li>
+<li><strong>Faraday (1821/1831):</strong> current-carrying wire orbits a magnet (motor principle); changing magnetic flux INDUCES current in nearby circuits (transformer/generator principle). Field-line thinking — invisible geometry you can map with iron filings — becomes physics' most productive visualization.</li>
+<li><strong>Maxwell (1860s):</strong> four equations unify everything; light IS electromagnetic waves. Hertz confirms (1887) — radio becomes inevitable (<a href="ch34.html">Ch 34</a>).</li>
+</ul>
+<h2 id="ch25_electricity_1-254-the-telegraph">25.4 The Telegraph</h2>
+<p>The first electrical industry, built entirely from §25.2–25.3:</p>
+<ul>
+<li><strong>Signal chain:</strong> key interrupts battery current → line wire → receiving electromagnet clicks armature → code interpreted. That's the whole invention.</li>
+<li><strong>Codes:</strong> Morse's variable-length code assigns short sequences to common letters — compression before information theory named it. Needle systems (Cooke-Wheatstone) skip code learning entirely.</li>
+<li><strong>Lines:</strong> iron/copper wire on poles with glass insulators (keep leakage off wet poles); earth-return saves half the copper.</li>
+<li><strong>Relays:</strong> weak incoming current energizes a local strong circuit — signal regeneration extends range indefinitely; multiplexing follows later.</li>
+<li><strong>Submarine cables:</strong> gutta-percha insulation, armored sheathing, careful laying tension. The 1858 Atlantic cable died in weeks (excessive test voltages); the 1866 success (with fault-location bridge measurements) opened global instant communication. Empire-scale coordination changes character permanently: markets synchronize, news is same-day, administration centralizes.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> when message latency drops from weeks (mail) to minutes, commerce, diplomacy, weather warning, and military logistics all change regime simultaneously. No other pre-radio technology buys so much coordination per unit of hardware.</p>
+<h2 id="ch25_electricity_1-255-doctrine">25.5 Doctrine</h2>
+<ol>
+<li>Standardize voltage/current units and instruments across your network from day one (<a href="ch20.html">Ch 20</a> metrology).</li>
+<li>Wire gauge tables, insulation specs, and testing routines are the difference between a network and a fire hazard.</li>
+<li>Train maintainers systematically — telegraphy was history's first mass technical profession; its apprenticeship schools are the template for all later electrical training.</li>
+</ol>
+<p><strong>Jump available:</strong> with Maxwell + Faraday known upfront, compress 1800→1870 into a decade of focused work: pile → Daniell → electromagnets → telegraph within years, skipping decades of philosophical debate about "animal electricity" and vital fluids (<strong>Dead end avoided:</strong> Galvani-vs-Volta metaphysics; Volta's metal-metal-electrolyte framing won by explaining more).</p>
+<h2 id="ch25_electricity_1-256-the-electrical-papers">25.6 The Electrical Papers</h2>
+<ul>
+<li>Leyden-jar discovery letters (1745–46) record Musschenbroek's shock testimony ("I would not take another shock for the whole kingdom of France" — the king-of-France version came later, embellished); Benjamin Franklin's 1752 kite experiment is documented but genuinely dangerous — <strong>Georg Richman died replicating it in St. Petersburg (1753)</strong>, the era's most cited electrical fatality. Replication has costs; publish protocols, not just results.</li>
+<li>Volta announced the pile to the Royal Society (letter dated March 1800); <strong>Nicholson and Carlisle electrolyzed water with one within six weeks</strong> — open publication converting a device into a research program at record speed.</li>
+<li>Ohm published <em>Die galvanische Kette</em> (1827) into hostile reception, resigned his teaching post, and lived poor until Berlin recognition arrived in the 1840s — the method chapter's authority warning, biographically instantiated.</li>
+<li><strong>Morse–Vail's Baltimore–Washington line</strong> transmitted "What hath God wrought" (May 24, 1844) — federal funding ($30k congressional appropriation) bought the demonstration line after private investors balked; infrastructure finance patterns repeat.</li>
+<li><strong>Transatlantic cable forensics:</strong> the 1857 attempt snapped mid-ocean; 1858 carried brief traffic (Queen Victoria–Buchanan exchanges) before Wildman Whitehouse's brute-force high-voltage signaling destroyed the core — Cyrus Field's syndicate commissioned a proper engineering postmortem (William Thomson's mirror-galvanometer analysis), then rebuilt with science-based methods for the 1866 success. Thomson left the venture a knight and later a lord — instrument physics monetized through failure analysis. The 1866 cable cut message latency across the Atlantic from ten days (steamship) to minutes; markets, diplomacy, and naval coordination all repriced immediately (<a href="ch50.html">Ch 50</a>).</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch24.html" class="reader-nav-link">← Chapter 24</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch26.html" class="reader-nav-link">Chapter 26 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

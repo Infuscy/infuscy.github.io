@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 47: The Invisible Machine: Institutions, Law, Finance, Logistics, Statistics — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 47 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch47_institutions-chapter-47-the-invisible-machine-institutions-law-finance-logistics-statistics">Chapter 47: The Invisible Machine: Institutions, Law, Finance, Logistics, Statistics</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1300 double-entry → present · <strong>Difficulty:</strong> high
+<br><strong>Requires:</strong> <a href="ch11.html">Ch 11</a>, <a href="ch12.html">Ch 12</a>, <a href="ch09.html">Ch 9</a> · <br><strong>Unlocks:</strong> scale itself — every physical chapter compounds only as far as this layer holds</p>
+</blockquote>
+<p>The book's closing thesis: organizational technology IS technology. It compounds like capital, decays without maintenance, and gates every hardware ladder in Parts I–V. A civilization with jet engines and corrupt courts is weaker than one with railways and honest ledgers. This chapter catalogs the load-bearing institutional inventions.</p>
+<h2 id="ch47_institutions-471-double-entry-bookkeeping">47.1 Double-Entry Bookkeeping</h2>
+<p>Amatino's manuscript (1300) → Pacioli's printed treatise (1494): every transaction posts twice (debit/credit); books must balance BY CONSTRUCTION.</p>
+<ul>
+<li>Integrity check built into the format — errors and theft surface as imbalances.</li>
+<li>Enabled partnership at distance: investors could trust accounts they never watched; Medici-scale banking, joint ventures, colonial companies all ride it.</li>
+<li>Auditing, depreciation, accrual concepts grew from this root into modern finance's grammar.
+Doctrine: measurement integrity precedes capital accumulation — always.</li>
+</ul>
+<h2 id="ch47_institutions-472-the-corporation">47.2 The Corporation</h2>
+<p>Joint-stock + limited liability (VOC, 1602): many investors pool capital; each risks only their stake; entity outlives founders.</p>
+<ul>
+<li>Risk-pooling made MEGAPROJECTS financeable — voyages, canals, railways (<a href="ch24.html">Ch 24</a>), transatlantic cables (<a href="ch25.html">Ch 25</a>).</li>
+<li>Stock exchanges add liquidity: shares become currency-adjacent; capital reallocates hourly toward returns.</li>
+<li>Corporate governance (boards, disclosure, fiduciary duty) is maintenance against the principal-agent rot that killed earlier forms — governance failures are how great firms die quietly.</li>
+</ul>
+<h2 id="ch47_institutions-473-insurance-and-risk-mathematics">47.3 Insurance and Risk Mathematics</h2>
+<p>Lloyd's coffeehouse underwriting → actuarial science (Halley's life tables, 1693): pooling ruinous individual risks into predictable collective costs.</p>
+<ul>
+<li>Marine insurance made trade expansion rational; fire insurance rebuilt cities faster; health/life insurance stabilized families and labor markets.</li>
+<li>Underwriting discipline vs speculative excess cycles repeatedly (2008 as modern case study): models are only as honest as their assumptions — tail risk gets underestimated exactly when memories of last crash fade.</li>
+</ul>
+<h2 id="ch47_institutions-474-money-architecture-and-central-banking">47.4 Money Architecture and Central Banking</h2>
+<p><a href="ch09.html">Ch 9</a> built money; this builds its institutions:</p>
+<ul>
+<li>Central banks standardize note issue, clear interbank obligations, and act as lender-of-last-resort (Bagehot's rule: lend freely, against good collateral, at penalty rates) — panics shortened from decades-long depressions to sharp recessions where this works.</li>
+<li>Monetary integrity doctrine (<a href="ch09.html">§9.4</a>) remains binding across all regimes; debasement by printing is just debasement with extra steps.</li>
+</ul>
+<h2 id="ch47_institutions-475-patents-and-innovation-incentives">47.5 Patents and Innovation Incentives</h2>
+<p>Statute of Monopolies (1624) → patent bargain: disclose your invention publicly in exchange for time-limited exclusivity.</p>
+<ul>
+<li>Disclosure side built the technical literature; exclusivity funded R&amp;D recovery (pharmaceuticals' decade-plus development costs need this logic).</li>
+<li>Honest trade-off ledger: evergreening abuse, patent-thicket litigation, access-vs-incentive tension in medicine (<a href="ch31.html">Ch 31</a>). Tune terms per industry; publish everything eventually — the public domain is the end state that matters.</li>
+</ul>
+<h2 id="ch47_institutions-476-scientific-institutions">47.6 Scientific Institutions</h2>
+<p>Royal Society (1660): <em>nullius in verba</em> — take nobody's word for it. Journals, societies, peer review evolved into knowledge's quality-control system (<a href="ch20.html">Ch 20</a>'s method institutionalized).</p>
+<ul>
+<li>Replication crisis (modern honesty round): published results skew positive; pre-registration and replication norms are the current repair. Institutions decay without active maintenance — even epistemic ones.</li>
+<li>Research universities (Humboldt model) fused teaching/research; extension services pushed agronomy to farmers (<a href="ch07.html">Ch 7</a>) — knowledge diffusion systems matter as much as knowledge creation.</li>
+</ul>
+<h2 id="ch47_institutions-477-statistics-as-statecraft">47.7 Statistics as Statecraft</h2>
+<ul>
+<li>Censuses (Domesday 1086 → modern bureaus): knowing what exists is governing's prerequisite.</li>
+<li>Sampling theory (Gosset's Guinness t-test — brewing quality control birthed modern statistics), randomized trials generalized from medicine (<a href="ch31.html">§31.3</a>) to policy experiments (A/B testing as mass practice).</li>
+<li><strong>Goodhart's law:</strong> when a measure becomes a target, it ceases to be a good measure — metric gaming is THE systemic risk of managed organizations. Countermeasure: multiple metrics, adversarial review, ground-truth audits.</li>
+<li>Economic national accounts (GDP et al., 1930s–40s): wars and depressions got managed better once measured coherently.</li>
+</ul>
+<h2 id="ch47_institutions-478-logistics-revolutions">47.8 Logistics Revolutions</h2>
+<ul>
+<li>Standardization cascades: screw threads (<a href="ch15.html">Ch 15</a>), rail gauges (<a href="ch24.html">Ch 24</a>), container dimensions.</li>
+<li><strong>Containerization (McLean, 1956):</strong> standardized steel boxes + purpose-built ships/cranes/ports cut loading labor from armies-of-dockers-days to crane-hours; global manufacturing fragmentation, just-in-time supply chains, and food trade (<a href="ch32.html">Ch 32</a>) all became arithmetic instead of adventure.</li>
+</ul>
+<p><em>Taught, not just named</em> — the mechanism was standardizing an <strong>interface</strong>, not inventing a machine: one box geometry means every crane, truck chassis, rail well car, and ship cell accepts every box without touching its contents. Deployment steps: (1) fix the interface first — ISO 668 dimensions (20-ft / 40-ft lengths) and corner castings that mate standard twistlocks; (2) retool the handling chain around that interface — shore gantry cranes, cell-hulled ships, chassis fleets — before building more boxes; (3) move the paperwork at box speed: manifests digitized so cargo documentation stops being the bottleneck the box removed. Documented numbers (Levinson, <em>The Box</em>, the book's standing source above): break-bulk longshore loading cost about <strong>US$5.86 per ton</strong> in the pre-container 1950s; containerized handling ran about <strong>US$0.16 per ton</strong> — the order-of-magnitude claim made arithmetic. Failure modes: adopting boxes without locking the interface standard (rival company geometries) rebuilds break-bulk costs inside steel walls; automating cranes before manifests leaves clerks as the choke point. Argue it straight: the container is trade's transistor.</p>
+<h2 id="ch47_institutions-479-law-infrastructure">47.9 Law Infrastructure</h2>
+<p>Property registries (who owns what, verifiable), contract enforcement (predictability &gt; content — merchants choose boring reliable courts over brilliant capricious ones), independent adjudication (rulings bind the powerful or markets stay local). Institutional quality is measurable: enforcement-speed surveys predict investment flows better than resource endowments do.</p>
+<h2 id="ch47_institutions-4710-failure-modes-catalog">47.10 Failure Modes Catalog</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Dead end</th>
+<th>Mechanism</th>
+<th>Historical cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lysenkoism</td>
+<td>ideology overriding agronomy</td>
+<td>Soviet famines prolonged; genetics crushed for a generation</td>
+</tr>
+<tr>
+<td>Command economies (full central planning)</td>
+<td>calculation/incentive problems at scale</td>
+<td>chronic shortage economies; information cannot be centralized fast enough</td>
+</tr>
+<tr>
+<td>Rent-seeking licensing</td>
+<td>gatekeeping capture</td>
+<td>innovation taxed, insiders enriched</td>
+</tr>
+<tr>
+<td>Metric gaming</td>
+<td>Goodhart collapse</td>
+<td>targets hit, missions failed</td>
+</tr>
+<tr>
+<td>Scribal/credential monopolies</td>
+<td>knowledge hoarding</td>
+<td>literacy suppressed centuries (<a href="ch11.html">Ch 11</a>)</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="ch47_institutions-4711-closing-synthesis">47.11 Closing Synthesis</h2>
+<p>Every physical ladder in this book — fire to fusion — stands ON this software-of-society layer. Institutions set the compounding rate of knowledge; knowledge sets the pace of every chapter before this one. Planetary dominance, operationally defined, is matching physical capability to institutional capability: energy mastery, food security, global communication/navigation, space access — all wrapped in self-repairing truth-seeking institutions. Build both ladders together or neither stands.</p>
+<p><strong>Final threshold:</strong> when institutions correct errors faster than they commit them, the civilization becomes antifragile — that feedback property, not any single invention, is what "dominating a planet" actually means.</p>
+<h2 id="ch47_institutions-4712-the-institutional-papers">47.12 The Institutional Papers</h2>
+<ul>
+<li>Pacioli's <em>Particularis computis et scripturis</em> (1494) printed bookkeeping inside a mathematics encyclopedia — accounting diffused as math, not commerce law. The Medici and double-entry rose together; auditors appeared wherever partners couldn't watch partners.</li>
+<li><strong>VOC (1602)</strong> pioneered permanent capital and tradable shares on the Amsterdam bourse — liquidity itself was the invention. Tulip-era futures (1636–37) produced spectacular collapses later moderated by archival work (Goldgar showed most traders were wealthy professionals, not maids and cobblers) — bubbles are real; their folklore needs footnoting. The Newton-lost-£20,000-in-South-Sea line remains unverified anecdote; print it as legend or not at all.</li>
+<li>Lloyd's List has published shipping intelligence continuously since 1734; insurance's actuarial core (Halley's 1693 Breslau life table) predates its coffeehouse mythology.</li>
+<li>Bagehot's rule (1873) — lend freely, at penalty rates, against good collateral — remains central-banking's operating manual; FDIC deposit insurance (Banking Act 1933) largely ended retail bank runs; Bretton Woods (July 1944) fixed exchange rates until August 15, 1971 (the Nixon shock) — monetary regimes have lifespans, and planning should assume them.</li>
+<li>Historian's correction worth printing: <strong>systematic peer review is younger than assumed</strong> — the Royal Society used referees informally, formalizing review mostly across the 20th century; "peer review = science since Newton" is retrospective myth. Gosset published as "Student" because Guinness forbade employee names in print — industrial secrecy shaping statistical history's most famous pseudonym.</li>
+<li>Containers: Malcom McLean was a trucking entrepreneur, not shipping royalty; the Ideal-X sailed Newark→Houston April 26, 1956 carrying 58 boxes; Marc Levinson's <em>The Box</em> (2006) documents how standardization, not invention, created global trade's cost collapse (<a href="#ch47_institutions-478-logistics-revolutions">§47.8</a>). ISO itself (founded 1947 from a 1946 London conference of delegates from 25 countries) exists because screw threads and freight dimensions failed diplomatically before they failed technically (<a href="ch15.html">Ch 15</a>'s thread doctrine at planetary scale).</li>
+</ul>
+<h2 id="ch47_institutions-4713-control-charts-managing-variation">47.13 Control Charts: Managing Variation</h2>
+<p>Demanded upstream by <a href="ch35.html">Ch 35</a> §35.5 and fed by the charge logs of <a href="ch14.html">Ch 14</a> and <a href="ch22.html">Ch 22</a> — taught here because nowhere else in this book does variation itself get engineered.</p>
+<p><strong>Mechanism.</strong> Every measured quantity (bar yield per smelt, fuel per ton pig, lot yield %, machined bore diameter) varies for two distinct reasons: common-cause noise inherent to the process, and assignable causes (a worn tool, wet ore, a new charcoal batch). Tampering with common-cause noise <em>adds</em> variation — the tamperer chases ghosts and makes things worse while feeling diligent. The control chart is the discriminator: it tells you when a signal exists and when to leave the process alone. It is Goodhart's-law armor (<a href="#ch47_institutions-477-statistics-as-statecraft">§47.7</a>) at shop-floor resolution.</p>
+<p><strong>Construction (X̄–R charts, the workhorse pair).</strong></p>
+<ol>
+<li>Choose one measurable output per process; measure it in small rational subgroups of <strong>n = 5</strong>, taken at fixed intervals (per shift, per charge, per lot).</li>
+<li>Baseline on <strong>20–25 subgroups</strong> of honest current-practice data — no improvements during baselining.</li>
+<li>Compute grand mean X̿ and mean range R̄ across subgroups.</li>
+<li>Set trial limits from Shewhart's constants for n = 5:
+   - X̄ chart: UCL = X̿ + A₂R̄, LCL = X̿ − A₂R̄, with <strong>A₂ = 0.577</strong>
+   - R chart: UCL = D₄R̄ = <strong>2.114 × R̄</strong>, LCL = D₃R̄ = 0
+   - Process noise estimate: σ̂ = R̄/d₂ = R̄/<strong>2.326</strong></li>
+<li>Plot ongoing points. Signals demanding investigation: any point beyond a limit; eight consecutive points one side of center; six steadily rising or falling.</li>
+<li>Recompute limits ONLY after a deliberate, logged process change — never because points look inconvenient.</li>
+</ol>
+<p><strong>Rational subgrouping, stated once and enforced forever:</strong> the n = 5 samples within one subgroup must be consecutive product from one short interval — they capture only the process's moment-to-moment noise. Variation <em>between</em> subgroups across the day is what the limits test. Sample five parts scattered randomly through a shift and the chart's limits balloon until nothing ever signals: the chart goes blind exactly when you need it.</p>
+<p><strong>Named adopters, documented lineage:</strong> Walter A. Shewhart's one-page memo at Western Electric's Hawthorne Works (May 16, 1924) proposed the control chart; his <em>Economic Control of Quality</em> (1931) systematized it; American War Standards Z1.1–Z1.3 (1941) pushed it through WWII munitions production; Deming's 1950 lectures to JUSE carried it into Japanese industry, whose postwar quality ascent rode it. A crisp single-figure gain attributable to chart adoption alone remains contested across those cases — [EVIDENCE NEEDED] — but Motorola's Six Sigma program, a direct descendant run at scale, reported ~$16 billion cumulative savings 1987–2001 (company-reported figure; treat as upper bound).</p>
+<p><strong>Worked example</strong> (one process, end to end): a fab line tracks lot yield %. Twenty-five subgroups of n = 5 give grand mean X̿ = 89.0 % and mean range R̄ = 6.0 points. Limits: X̄ chart at 89.0 ± 0.577 × 6.0 → <strong>UCL 92.5 / LCL 85.5</strong>; R-chart UCL = 2.114 × 6.0 = <strong>12.7</strong>, LCL 0; σ̂ = 6.0/2.326 = 2.58 points. Next week's first subgroup averages 94.0 (range 5 — the range is fine, the level moved). That is a signal, not an excuse to celebrate: hunt the assignable cause. It was a new photoresist lot; quarantine it, log the event on the chart, limits stay where they are until the fix is <em>verified</em> and a deliberate rebaseline locks the improvement in.</p>
+<p><strong>Deployment steps.</strong></p>
+<ol>
+<li>Instrument ONE process end-to-end first (the Ch 14 firing log or Ch 22 fuel-per-ton ledger are ideal candidates — the log format already exists).</li>
+<li>Baselined? Chart visibly where the crew works; review weekly.</li>
+<li>Act on signals only: hunt the assignable cause, fix it, note it on the chart. No signal → change nothing.</li>
+<li>After a verified improvement, rebaseline; the new limits lock the gain in against drift-back.</li>
+<li>When stability holds, add capability arithmetic (<a href="ch15.html">Ch 15</a>'s interchangeable-parts gate): tolerance width ÷ 6σ̂ ≥ 1.33 before promising gauge-passing parts.</li>
+</ol>
+<p class="co co-key"><strong>Key threshold:</strong> a process "in control" is not necessarily good — it is predictable. Predictability is the precondition; capability (tolerance vs ±3σ̂) is the product. Charts make the difference measurable instead of rhetorical.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> inspection-heavy regimes that sort good parts from bad after manufacture. Sorting pays scrap costs forever; control charts attack the variation producing the scrap — the entire economic argument Shewhart made to Western Electric's accountants.</p>
+<p><strong>When there is no dimension to measure</strong> (pass/fail outcomes — castings cracked, lots rejected): tally defects per constant unit of production and chart counts on the same ±3σ̂ logic (c-chart for defects per unit, p-chart for proportion rejected) — constants differ, discipline identical. The X̄–R pair above remains the teaching case because continuous measurements carry the most information per observation.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch46.html" class="reader-nav-link">← Chapter 46</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch48.html" class="reader-nav-link">Chapter 48 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

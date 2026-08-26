@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 29: Internal Combustion: Cars, Tractors, Ships — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 29 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch29_combustion-chapter-29-internal-combustion-cars-tractors-ships">Chapter 29: Internal Combustion: Cars, Tractors, Ships</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1876 Otto → mid-20th c. · <strong>Difficulty:</strong> high
+<br><strong>Requires:</strong> <a href="ch28.html">Ch 28</a> fuels, <a href="ch27.html">Ch 27</a> alloys, <a href="ch15.html">Ch 15</a> precision machining · <br><strong>Unlocks:</strong> mechanized agriculture (<a href="ch32.html">Ch 32</a>), road logistics, aircraft engines (<a href="ch33.html">Ch 33</a>)</p>
+</blockquote>
+<p>Internal combustion burns fuel INSIDE the working cylinder — no boiler, no coal pile, power density steam could never touch. This chapter builds the engine family and the vehicles that industrialized ground transport.</p>
+<h2 id="ch29_combustion-291-the-otto-four-stroke-cycle">29.1 The Otto Four-Stroke Cycle</h2>
+<p>Intake (fuel+air drawn in) → compression (work invested) → POWER (ignition, expansion does work) → exhaust. Four strokes, one power stroke — the torque pulses smooth out across multiple cylinders.</p>
+<ul>
+<li>Compression ratio (swept ÷ clearance volume) drives thermal efficiency: η ≈ 1 − r^(1−γ). Raising r from 4:1 to 12:1 nearly doubles efficiency — but knock (premature fuel self-ignition) caps it, which is why octane (<a href="ch28.html">Ch 28</a>) is an engine technology, not just a refinery metric.</li>
+<li>Ignition systems: hot tube (primitive) → magneto (self-powered spark, no battery needed) → coil/battery/distributor.</li>
+<li>Carburetion meters fuel into airflow by venturi depression; mixture strength varies with load/cold start (chokes). Fuel injection later replaces guesswork with metered precision.</li>
+</ul>
+<h2 id="ch29_combustion-292-the-diesel-divergence">29.2 The Diesel Divergence</h2>
+<p>Diesel's insight: compress AIR alone to ~18:1+; injected fuel self-ignites on contact with ~550 °C compressed air. No ignition system, higher compression = higher efficiency (~40 %+ vs Otto's ~25–30 % of the era), heavy fuels acceptable. The engineering fight was injection precision — air-blast injection worked but demanded compressors; solid (jerk-pump) injection (plunger pumps with helix-metering) made diesels practical everywhere from trucks to ships.</p>
+<p>Marine slow-speed two-strokes run at ~100 rpm on residual oil, exceed 50 % efficiency, and move 90 % of world trade tonnage (<a href="ch24.html">Ch 24</a> finale).</p>
+<h2 id="ch29_combustion-293-the-automobile-system">29.3 The Automobile System</h2>
+<p>A car is a SYSTEM around its engine:</p>
+<ul>
+<li><strong>Clutch + gearbox:</strong> engine idles narrow; wheels need torque from zero. Disengage/shift/re-engage; gear ratios trade speed for torque (<a href="ch15.html">Ch 15</a> lever logic in rotary form).</li>
+<li><strong>Differential:</strong> driven axle's outer wheel travels farther in turns; bevel spider gears split torque while permitting speed difference.</li>
+<li><strong>Steering geometry</strong> (Ackermann), suspension springs + dampers keep tires loaded over bumps — tire CONTACT PATCH is where every newton of control lives.</li>
+<li><strong>Brakes:</strong> drum→disc; hydraulics multiply pedal force evenly across four corners.</li>
+<li><strong>Electrics:</strong> magneto/coil ignition, then starter motors (hand-cranking killed people when engines kicked back), lighting, later alternators.</li>
+</ul>
+<h2 id="ch29_combustion-294-mass-production">29.4 Mass Production</h2>
+<p>Ford's moving assembly line (1913): chassis towed past stations; each worker performs ONE task repeatedly. Chassis time fell 12.5 h → ~93 min; Model T price $850 → $260. The deeper principles:</p>
+<ol>
+<li>Interchangeable parts demand measurement discipline (<a href="ch20.html">Ch 20</a>) — gauges, not eyeballs.</li>
+<li>Work moves to workers at ergonomic height; material flows one direction.</li>
+<li>Standardize ruthlessly, THEN improve continuously (the Toyota refinement comes decades later — build the feedback habit immediately).</li>
+</ol>
+<h2 id="ch29_combustion-295-tractors-and-farm-mechanization">29.5 Tractors and Farm Mechanization</h2>
+<p>The tractor is the ICE's greatest humanitarian application:</p>
+<ul>
+<li>One driver + 30–50 hp replaces a dozen horses AND their 25 % cropland feed bill (<a href="ch08.html">Ch 8</a>) — land returns to food production directly.</li>
+<li>PTO shafts and three-point hitches make one tractor power plows, seeders, sprayers, balers (<a href="ch07.html">Ch 7</a>).</li>
+<li>Rubber tires (1930s) doubled drawbar efficiency versus steel lugs and let tractors roam roads.</li>
+<li>Combine harvesters merge reaping/threshing/winnowing — harvest labor collapses; grain losses fall below manual-race levels.</li>
+</ul>
+<h2 id="ch29_combustion-296-doctrine-and-dead-ends">29.6 Doctrine and Dead Ends</h2>
+<p class="co co-dead"><strong>Dead end avoided:</strong> steam cars and early electric roadcars lost to arithmetic — energy density (gasoline ~45 MJ/kg vs batteries then ~0.2) and refill minutes vs recharge hours. Note honestly: battery physics changed by <a href="ch43.html">Ch 43</a>; the lesson is "revisit losing designs when their limiting constant changes," not "electric forever wrong."</p>
+<p>Also avoided: over-valve-count exotic engines, rotary (Wankel) mass adoption, air-cooled complexity creep for mainstream fleets — maintenance networks punish cleverness that shops can't service.</p>
+<p class="co co-key"><strong>Key threshold:</strong> when a farm worker can feed 10+ people (vs subsistence-era ~2–3), labor floods into factories — the demographic pivot that powers every remaining chapter.</p>
+<h2 id="ch29_combustion-297-the-engine-record">29.7 The Engine Record</h2>
+<ul>
+<li>Étienne Lenoir's commercial gas engine (1860) sold hundreds despite ~4 % efficiency — first mover advantage without thermodynamic polish; Otto &amp; Langen's free-piston atmospheric machine (1867) won prizes on fuel economy and funded the real breakthrough.</li>
+<li><strong>The Otto patent collapse:</strong> Alphonse Beau de Rochas had theorized the four-stroke sequence in an 1862 French patent without building anything; German courts voided Otto's key claims (1886) citing it. Competition exploded immediately — Daimler/Maybach hot-tube ignition high-speed engines (1883+) emerged from within Otto's own shop. Prior-art patents matter; so does what teams build while protection lasts.</li>
+<li><strong>Diesel's arc:</strong> theory monograph 1893 (constant-temperature objections answered by experiment); early Augsburg tests included a near-catastrophic explosion; the 1897 production engine measured ~26 % thermal efficiency — doubling contemporary steam. Diesel boarded the Dresden to London in September 1913 and vanished overboard; the mystery remains unsolved and is recorded as such.</li>
+<li><strong>Bertha Benz's August 1888 drive</strong> (Mannheim–Pforzheim–return, ~106 km, without her husband Karl's knowledge) proved usability, fixed a fuel-line blockage with a hatpin, purchased ligroin at the Wiesloch town pharmacy (now styled the world's first filling station), and generated the first automotive marketing — a customer doing the field testing manufacturers hadn't.</li>
+<li><strong>The Selden patent cartel:</strong> George Selden held a broad 1879-filed "road engine" patent enforced by the ALAM licensing combine; Henry Ford fought it, lost the first ruling, then won outright (Second Circuit, January 1911 — the court held Selden's claims covered Brayton-cycle engines, not Otto-cycle cars). Documented patent-thicket warfare ending in open competition; the automobile market boomed once licensing rent disappeared.</li>
+<li>Toyota's postwar production system (Taiichi Ohno; supermarket-inspired replenishment logic observed in America) turned Ford's line inside-out — pull instead of push, inventory as liability. Cross-reference <a href="ch47.html">Ch 47</a>'s statistics discipline: kanban IS measurement infrastructure.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch28.html" class="reader-nav-link">← Chapter 28</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch30.html" class="reader-nav-link">Chapter 30 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

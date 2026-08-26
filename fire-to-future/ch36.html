@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 36: Computers and Software — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 36 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch36_computers-chapter-36-computers-and-software">Chapter 36: Computers and Software</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1854 Boole → 1980s PCs · <strong>Difficulty:</strong> extreme
+<br><strong>Requires:</strong> <a href="ch35.html">Ch 35</a> hardware, <a href="ch18.html">Ch 18</a> text culture · <br><strong>Unlocks:</strong> <a href="ch42.html">Ch 42</a>, <a href="ch45.html">Ch 45</a>, <a href="ch46.html">Ch 46</a>, every data system after</p>
+</blockquote>
+<p>Computers automate reasoning itself. The lineage is longer than the hardware: logic formalized → information quantified → machines built → software industrialized. This chapter builds the stack in that order, because each layer only works on the one below.</p>
+<h2 id="ch36_computers-361-theory-before-metal">36.1 Theory Before Metal</h2>
+<ul>
+<li><strong>Boole (1854):</strong> logic becomes algebra — AND/OR/NOT operations on true/false values. Shannon (1937): Boolean algebra IS switching-circuit design; telephone relays compute.</li>
+<li><strong>Turing (1936):</strong> the universal machine — one device reading/writing symbols on tape can simulate ANY computation. Also the halting problem: some questions provably unanswerable by any machine. Know the limits BEFORE building (<a href="ch46.html">Ch 46</a> inherits them).</li>
+<li><strong>Shannon's information theory (1948):</strong> bits measure information; channel capacity bounds exist; redundancy beats noise (error-correcting codes make unreliable hardware reliable — the quiet miracle under all computing).</li>
+</ul>
+<h2 id="ch36_computers-362-hardware-generations">36.2 Hardware Generations</h2>
+<ul>
+<li><strong>Mechanical calculators:</strong> Pascal/Leibniz gear arithmetic; Babbage's Difference Engine concept worked, his Analytical Engine (programmed, general-purpose, 1837 design) never got built — precision machining couldn't hold tolerances at affordable cost (<strong>Dead end avoided as strategy:</strong> mechanical GENERAL-PURPOSE computing; mechanical SPECIAL-PURPOSE calculators remained useful for a century).</li>
+<li><strong>Relay computers (1941–):</strong> Zuse Z3, Harvard Mark I — telephone-switch tech computing reliably but slowly (seconds per multiply).</li>
+<li><strong>Vacuum-tube monsters:</strong> ENIAC (completed late 1945, publicly unveiled February 1946; ~18,000 tubes; originally programmed by plugboards and switches — its first production job was artillery firing tables); then <strong>stored-program architecture</strong> (von Neumann/EDVAC report 1945; Manchester "Baby" ran first, June 1948): instructions live in memory like data — programs become writable, loadable, self-modifiable. THE architectural decision still governing everything.</li>
+<li><strong>Memory hierarchy:</strong> delay lines/core memory (magnetic rings threaded by wires — reliable, tedious) → DRAM (<a href="ch35.html">Ch 35</a>); storage on punched cards/tape/magnetic disks.</li>
+<li><strong>Transistorized → integrated</strong> generations shrink rooms to chips; microprocessors put whole CPUs on single dies (4004, 1971).</li>
+</ul>
+<h2 id="ch36_computers-363-software-the-second-machine">36.3 Software: The Second Machine</h2>
+<p>Hardware without software is jewelry. The stack, in dependency order:</p>
+<ol>
+<li><strong>Machine code/assembler:</strong> raw instruction encodings; human-hostile but direct.</li>
+<li><strong>Compilers (FORTRAN, 1957):</strong> translate human-readable formulas into optimized machine code — programming productivity multiplies ~10× overnight; skeptics predicted bad code, benchmarks humiliated them.</li>
+<li><strong>Operating systems:</strong> batch schedulers → time-sharing (many users, interleaved execution; CTSS/Multics) → <strong>UNIX (1969):</strong> small kernel + composable tools + portability via C language. Unix patterns (files, pipes, processes) remain the lingua franca.</li>
+<li><strong>Languages by purpose:</strong> COBOL (business records), Lisp (symbolic/AI research), ALGOL (structured-programming theory → Pascal/C descendants). Type systems, structured control flow, and modularity tame complexity ("software crisis" responses of the late 60s).</li>
+<li><strong>Engineering culture:</strong> version control, testing, code review, documentation — software quality is process quality (<a href="ch47.html">Ch 47</a>).</li>
+</ol>
+<h2 id="ch36_computers-364-personal-computing-inflection">36.4 Personal Computing Inflection</h2>
+<p>Microprocessors made computers cheap enough to give away:</p>
+<ul>
+<li>Altair 8800 kit (1975) ignited hobbyists; Apple II (1977) packaged usability (color graphics, floppy storage); VisiCalc (1979) — the spreadsheet — gave businesses their first irresistible reason to buy; IBM PC (1981) standardized the platform; GUIs (Xerox PARC research → Macintosh 1984) removed command-line illiteracy as a barrier.</li>
+</ul>
+<p>Adoption economics: value compounds with installed base (compatibility gravity) — platform wars are ecosystem wars, won by developers courted early.</p>
+<h2 id="ch36_computers-365-doctrine">36.5 Doctrine</h2>
+<ul>
+<li><strong>Standards compound:</strong> ASCII text, fixed file formats, open protocols — lock-in fights are expensive; interop wins long-term.</li>
+<li><strong>Backup and redundancy from day one:</strong> data outlives hardware; error-correcting codes (<a href="#ch36_computers-361-theory-before-metal">§36.1</a>) plus geographic copies prevent catastrophe.</li>
+<li><strong>Automate verification:</strong> compilers caught typos; tests catch regressions; formal methods eventually catch logic errors in critical systems. Trust scales with checking machinery.</li>
+<li><strong>Compute budget discipline:</strong> algorithms matter more than hardware speed — an O(n²) fix buys more than any fab upgrade. Teach big-O thinking alongside soldering.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> when computation costs less than the labor it replaces per task (payroll, inventory, drafting, simulation), adoption becomes automatic — the same crossover logic as <a href="ch26.html">Ch 26</a>'s electricity, now applied to thought work. Everything remaining in this book rides that curve.</p>
+<h2 id="ch36_computers-366-the-computing-papers">36.6 The Computing Papers</h2>
+<ul>
+<li><strong>Babbage's government project failed honestly:</strong> Treasury funded the Difference Engine from 1823 (~£17,000 public money eventually); cost overruns, precision-tool limits, and engineer Clement's disputes killed it — the first documented state mega-program overrun in computing, cited ever since in procurement debates.</li>
+<li>Ada Lovelace's Note G (1843) — Bernoulli-number pseudocode with the loop insight — is regarded as the first published computer program; she died at 36 in 1852. Babbage died bitter; the Analytical Engine remained drawings.</li>
+<li><strong>Hollerith punched cards saved the 1890 census roughly $5 million and two years</strong>; his Tabulating Machine Company merged into CTR, renamed IBM in 1924 under Thomas Watson Sr.</li>
+<li>Zuse's Z3 (1941) ran Berlin until bombing destroyed it (1943); he rebuilt machines postwar from memory. Atanasoff–Berry's ABC (1942) never became general-purpose but resurfaced legally: <strong>Honeywell v. Sperry Rand (1973)</strong> invalidated the ENIAC patents citing Mauchly's 1941 visit — landmark IP ruling, delivered by a judge noting the patent should never have issued.</li>
+<li>UNIVAC I (1951, first commercial computer) predicted Eisenhower's 1952 landslide early on CBS with partial returns — television taught America computers existed overnight.</li>
+<li><strong>IBM System/360 (1964):</strong> a $5 billion commitment (contemporary Fortune called it IBM's gamble) betting the company on compatible instruction-set families — the platform concept's costliest proof.</li>
+<li>UNIX began on a scavenged PDP-7 (Thompson, 1969); Ritchie's C rewrite (1973) proved OS portability — the licensing-friendly OS whose descendants run everything from phones to supercomputers.</li>
+<li><strong>The Altair BASIC contract (1975)</strong> launched Microsoft; <strong>the non-exclusive DOS license to IBM (1980–81)</strong> — retained rights to license MS-DOS to clones — is widely assessed as history's most consequential business-contract oversight (an assessment, not a fact; the clone-market outcome it produced IS fact). Compaq's clean-room BIOS reverse-engineering (1982) legalized the PC clone industry — reverse-engineering law shaping markets as much as chips did.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch35.html" class="reader-nav-link">← Chapter 35</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch37.html" class="reader-nav-link">Chapter 37 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

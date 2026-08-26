@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 4: Food Acquisition: Hunting, Fishing, Gathering, Preservation — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 4 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch04_food-chapter-4-food-acquisition-hunting-fishing-gathering-preservation">Chapter 4: Food Acquisition: Hunting, Fishing, Gathering, Preservation</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> prehistory → permanent · <strong>Difficulty:</strong> low–mid
+<br><strong>Requires:</strong> <a href="ch02.html">Ch 2</a>, <a href="ch03.html">Ch 3</a> · <br><strong>Unlocks:</strong> <a href="ch07.html">Ch 7</a> (surplus logic, seed selection), <a href="ch09.html">Ch 9</a> (storable wealth)</p>
+</blockquote>
+<p>Everything downstream — cities, specialists, metallurgy, science — is bought with calories someone else grew, caught, or preserved. This chapter maximizes acquisition efficiency and converts surplus into shelf life. Preservation matters more than acquisition: spoiled abundance equals famine.</p>
+<h2 id="ch04_food-41-hunting-systems">4.1 Hunting Systems</h2>
+<p>Escalate capability in this order:</p>
+<ol>
+<li><strong>Traps and snares</strong> (best return per calorie): deadfall triggers, spring-pole snare loops set on game trails at head height for the target species, figure-four triggers, pit traps with camouflaged covers. Traps hunt <em>while you do other things</em> — the first automation.</li>
+<li><strong>Throwing spears / atlatl:</strong> a throwing board effectively lengthens your arm; spear velocity rises ~50 % and effective range to ~20–30 m.</li>
+<li><strong>Bow and arrow:</strong> range 50 m+, repeat shots fast, ammunition cheap (fire-hardened foreshafts, stone or bone points). A sinew-backed recurved stave of dense wood (osage, yew, hickory) stores remarkable energy; draw weight 20–35 kg suffices for large game.</li>
+<li><strong>Drive and ambush systems:</strong> fire drives, funnel fences into kill zones, pit lines at migration crossings. Organized group hunts out-yield individual effort several times over — early evidence that coordination itself is technology (<a href="ch47.html">Ch 47</a>).</li>
+</ol>
+<p>Field discipline: approach downwind, hunt dawn/dusk, recover every wounded animal (tracking is mandatory ethics and economics).</p>
+<h2 id="ch04_food-42-fishing-and-aquatic-harvest">4.2 Fishing and Aquatic Harvest</h2>
+<p>Fisheries are the cheapest protein on Earth per unit of labor:</p>
+<ul>
+<li><strong>Weirs:</strong> fence barriers across channels guiding fish into removable baskets — passive harvesting at riverine scale.</li>
+<li><strong>Nets:</strong> gillnets (mesh sized to snag gill plates), seines, cast nets; trawl-free line-and-hook methods preserve stocks longer.</li>
+<li><strong>Hooks:</strong> gorge pins (bone splinters baited inline) precede curved hooks; trotlines (mainline with many droppers) multiply hooks per check.</li>
+<li><strong>Winter ice fishing, tidal traps, shellfish beds</strong> provide dependable fallback calories even when hunting fails.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> dried fish runs ~50 % protein and keeps for months — the first exportable protein commodity and a classic trade good (<a href="ch09.html">Ch 9</a>).</p>
+<h2 id="ch04_food-43-gathering-intelligence">4.3 Gathering Intelligence</h2>
+<p>Gathering is not random grazing; it is applied botany:</p>
+<ul>
+<li><strong>Calorie mapping:</strong> nuts (acorn, chestnut, walnut) and oily seeds beat berries by an order of magnitude per kilogram harvested. Acorn stands fed whole civilizations after leaching.</li>
+<li><strong>Detoxification techniques:</strong> cold-water leaching removes acorn tannins (hours in streambed sand filters); boiling in changes of water detoxifies many roots; grinding + cooking denatures others. One reliable detox protocol unlocks entire biomes.</li>
+<li><strong>Seasonal calendars</strong> and controlled burning to boost next year's yields blur the line into proto-agriculture (<a href="ch07.html">Ch 7</a>).</li>
+<li>Universal safety rule: positive identification or nothing. Test unknowns skin→lip→small bite→wait; teach the protocol explicitly.</li>
+</ul>
+<h2 id="ch04_food-44-preservation-the-surplus-engine">4.4 Preservation: The Surplus Engine</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Method</th>
+<th>Principle</th>
+<th>Shelf life</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Drying</td>
+<td>water activity below ~0.6 stops microbes</td>
+<td>months–years</td>
+<td>thin-sliced, air/sun/smoke-dried; cheapest, first priority</td>
+</tr>
+<tr>
+<td>Smoking</td>
+<td>phenols + drying; cold smoke flavors/preserves, hot smoke cooks</td>
+<td>weeks–months</td>
+<td>alder/hickory; keep temps &lt;30 °C (cold) vs 60–90 °C (hot)</td>
+</tr>
+<tr>
+<td>Salting</td>
+<td>osmotic dehydration of cells</td>
+<td>months–years</td>
+<td>needs salt supply — prospect brines/rock salt early (<a href="ch13.html">Ch 13</a>); dry-cure or brine</td>
+</tr>
+<tr>
+<td>Fermentation</td>
+<td>desired microbes exclude spoilage ones</td>
+<td>months</td>
+<td>sauerkraut-style lactic fermentation (2–3 % salt, submerged under brine); also preserves vegetables' vitamin C through winter</td>
+</tr>
+<tr>
+<td>Pemmican</td>
+<td>dried lean meat + rendered fat + fruit</td>
+<td>years</td>
+<td>~650 kcal/100 g; the definitive expedition ration</td>
+</tr>
+<tr>
+<td>Freeze-drying</td>
+<td>freeze then sublimate</td>
+<td>years</td>
+<td>high-altitude nights or deep winter; Andean chuño tradition</td>
+</tr>
+</tbody>
+</table></div>
+<p>Fat is the scarce macronutrient — lean-protein-only diets poison ("rabbit starvation"). Render and store fat deliberately; oil-rich seeds and nuts are strategic assets.</p>
+<p class="co co-key"><strong>Key threshold:</strong> a settlement that can carry &gt;6 months of shelf-stable food survives bad winters and funds specialization. Granary logic begins here and formalizes in <a href="ch09.html">Ch 9</a>.</p>
+<h2 id="ch04_food-45-doctrine">4.5 Doctrine</h2>
+<ol>
+<li><strong>Diversify sources</strong>: never let any single species exceed ~half the diet.</li>
+<li><strong>Automate first</strong> (traps/weirs/nets), hunt second.</li>
+<li><strong>Preserve at peak abundance</strong>, not after spoilage begins.</li>
+<li><strong>Record what works</strong>: which plants, which waters, which years — written food knowledge becomes agriculture's seed catalog in <a href="ch07.html">Ch 7</a>.</li>
+</ol>
+<p class="co co-dead"><strong>Dead end avoided:</strong> big-game romanticism. Megafauna specialize toward extinction; the durable diet is broad-spectrum — small game, fish, plants, insects — with big kills as windfalls, not strategy.</p>
+<h2 id="ch04_food-46-return-rate-economics">4.6 Return-Rate Economics</h2>
+<p>Foraging is measurable economics, and the measurements reshape assumptions:</p>
+<ul>
+<li><strong>Optimal foraging logic:</strong> rank resources by calories-per-hour-handled minus pursuit risk. Large game scores highest when successful but fails often; small packages (shellfish, nuts, grubs) score moderately with almost no variance.</li>
+<li>Richard Lee's 1960s !Kung studies quantified this: mongongo nuts delivered dependable returns year-round; meat supplied a minority of calories (commonly ~30–40 % in recorded periods) despite carrying most cultural prestige. The pattern repeats across documented foragers — prestige and calories are different currencies.</li>
+<li>The <strong>broad-spectrum revolution</strong> (Flannery's term): late-glacial diets widened to fish, fowl, shellfish, and small seeds — higher labor intensity, higher population density, and (per many archaeologists) selective pressure favoring the plants that would become crops (<a href="ch07.html">Ch 7</a>).</li>
+<li><strong>Sedentism preceded farming:</strong> Natufian communities (~14,500–11,500 cal BP, Levant) built permanent stone houses and dug storage pits while still living on wild resources — settlement first, cultivation second, reversing the folk sequence.</li>
+</ul>
+<h2 id="ch04_food-47-what-fish-weirs-show-about-institutions">4.7 What Fish Weirs Show About Institutions</h2>
+<p>Monumental weir systems are the Paleolithic-to-Mesolithic equivalent of infrastructure bonds:</p>
+<ul>
+<li>Timber weir complexes in the Seine basin date to roughly 8,000 years ago; the Boylston Street fishweir (Boston) to ~5,300–5,200 BP; Danish and Baltic examples run continuously through the Mesolithic–Neolithic transition.</li>
+<li>Hundreds of stakes, coordinated placement across channels, and seasonal maintenance imply labor organization, territorial rights, and inheritance of positions — governance technology (<a href="ch47.html">Ch 47</a>) built from fish, centuries before grain states existed.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch03.html" class="reader-nav-link">← Chapter 3</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch05.html" class="reader-nav-link">Chapter 5 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

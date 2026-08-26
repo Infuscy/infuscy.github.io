@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 28: Petroleum: Drilling, Refining, Cracking — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 28 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch28_petroleum-chapter-28-petroleum-drilling-refining-cracking">Chapter 28: Petroleum: Drilling, Refining, Cracking</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1859 Drake well → 1940s catalytic era · <strong>Difficulty:</strong> high
+<br><strong>Requires:</strong> <a href="ch13.html">Ch 13</a>, <a href="ch21.html">Ch 21</a> acid industry, <a href="ch23.html">Ch 23</a> power · <br><strong>Unlocks:</strong> <a href="ch29.html">Ch 29</a> fuel, <a href="ch38.html">Ch 38</a> feedstock, lubrication civilization</p>
+</blockquote>
+<p>Petroleum is stored ancient sunlight with unmatched energy density (~42 MJ/kg, ~10× wood). The industry's history is a chain of "surplus becomes the next product" moves: kerosene for lamps, then gasoline as waste, then gasoline as king. Learn the whole chain; every fraction finds a use.</p>
+<h2 id="ch28_petroleum-281-finding-it">28.1 Finding It</h2>
+<p>Oil seeps advertised fields for millennia. Systematic prospecting adds:</p>
+<ul>
+<li><strong>Surface geology:</strong> anticline domes trap oil under salt/clay caps — map folds, drill crests.</li>
+<li><strong>Seep halos, paraffin dirt, gas bubbles</strong> in marshes.</li>
+<li>Later: gravity/magnetic surveys, then seismic reflection (echo sounding with dynamite/vibroseis) images salt domes and traps at depth — geophysics turns wildcatting into science.</li>
+</ul>
+<h2 id="ch28_petroleum-282-drilling">28.2 Drilling</h2>
+<ul>
+<li><strong>Cable-tool:</strong> heavy bit chisels up/down thousands of times per minute-hour; bail out cuttings; casing pipes sealed as you descend to exclude water. Slow but simple — Drake's 1859 well (~21 m) used it; cable-tool reached ~1,500 m limits.</li>
+<li><strong>Rotary drilling:</strong> toothed roller bits grind continuously while drilling MUD (bentonite slurry) circulates down the drill pipe, flushing cuttings up the annulus AND balancing formation pressure against blowouts. Rotary + mud = modern depth and speed.</li>
+<li><strong>Blowout preventers:</strong> stacked rams that clamp pipe/shear it when pressure kicks — drilled wells kill people only when this discipline lapses. Write the rule: NEVER rely on mud weight alone to control a live formation.</li>
+<li>Directional drilling steers bits (mud motors, measurement-while-drilling later) toward targets kilometers off-vertical. Hydraulic fracturing — pumping proppant-laden fluid at pressures that crack tight source rock — later unlocks shale reservoirs conventional drilling could never produce; it is a stimulation technique riding on the same mud/BOP/casing discipline, not a replacement for it.</li>
+</ul>
+<h2 id="ch28_petroleum-283-refining-fractional-distillation">28.3 Refining: Fractional Distillation</h2>
+<p>Heat crude in a furnace, inject into a tall column; vapors rise, condensing on trays at their boiling ranges — light fractions top, heavy bottom:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Fraction</th>
+<th>Boiling range</th>
+<th>Uses</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gases</td>
+<td>&lt;30 °C</td>
+<td>fuel gas, petrochemical feed</td>
+</tr>
+<tr>
+<td>Gasoline/naphtha</td>
+<td>30–180 °C</td>
+<td>engines (<a href="ch29.html">Ch 29</a>)</td>
+</tr>
+<tr>
+<td>Kerosene</td>
+<td>180–260 °C</td>
+<td>lamps/heating/jets later</td>
+</tr>
+<tr>
+<td>Diesel/gas oil</td>
+<td>260–350 °C</td>
+<td>diesel engines, furnaces</td>
+</tr>
+<tr>
+<td>Residues</td>
+<td>&gt;350 °C</td>
+<td>lubricants (vacuum-distilled), waxes, asphalt</td>
+</tr>
+</tbody>
+</table></div>
+<p>Continuous columns run for years between cleanouts; tray efficiency and reflux ratio set separation quality. Vacuum columns protect heavy fractions from thermal cracking during separation.</p>
+<h2 id="ch28_petroleum-284-cracking-chemistry-enters">28.4 Cracking: Chemistry Enters</h2>
+<p>Distillation alone yields too little gasoline for engine demand. <strong>Cracking</strong> splits big molecules into small ones:</p>
+<ol>
+<li><strong>Thermal cracking (Burton, 1913):</strong> heat+pressure breaks molecules — roughly doubles gasoline yield.</li>
+<li><strong>Catalytic cracking (Houdry 1936 → fluidized bed FCC):</strong> acidic catalysts steer splitting toward branched/alkylated products — better octane, higher yields, continuous operation with catalyst circulating between reactor/regenerator (coke burns off the catalyst in the regenerator). FCC remains refining's conversion backbone today.</li>
+<li><strong>Reforming/polymerization/alkylation:</strong> rearrange and combine light ends into octane-rich blendstocks.</li>
+</ol>
+<p>Octane number measures knock resistance (iso-octane = 100). Compression ratio — hence efficiency (<a href="ch29.html">Ch 29</a>) — is octane-limited.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> tetraethyl lead ("ethyl," Midgley, 1920s): cheap octane boost that poisoned generations' blood lead levels worldwide and fouled catalytic converters later. Alternatives existed contemporaneously (ethanol blends, reforming). Skip TEL entirely; buy octane with chemistry and refinery complexity instead.</p>
+<h2 id="ch28_petroleum-285-lubricants-and-waxes">28.5 Lubricants and Waxes</h2>
+<p>Vacuum-distilled base oils graded by viscosity; dewaxing prevents cold gelling. Additives (anti-oxidants, detergents, extreme-pressure agents) turn base oil into machine-saving packages — engine life doubles or triples versus raw distillate. Greases (soap-thickened oils) seal bearings against dirt (<a href="ch15.html">Ch 15</a>).</p>
+<h2 id="ch28_petroleum-286-natural-gas-and-logistics">28.6 Natural Gas and Logistics</h2>
+<p>Associated gas historically FLARED as nuisance (<strong>Dead end avoided:</strong> capture it — methane is clean heat and hydrogen feedstock for fertilizer, <a href="ch32.html">Ch 32</a>). Pipelines (welded steel, compressor stations every ~100 km) move energy at costs rails can't touch; LNG cryogenic chains (-162 °C on insulated ships) make gas global later.</p>
+<h2 id="ch28_petroleum-287-petrochemical-gateway">28.7 Petrochemical Gateway</h2>
+<p>Cracked gases (ethylene, propylene, butadiene) and aromatics are polymer feedstock — plastics (<a href="ch38.html">Ch 38</a>), synthetic rubber, fibers, solvents, and eventually pharmaceutical intermediates. Oil's deepest value was never burning it; budget your field development knowing fuels fund chemicals.</p>
+<p class="co co-key"><strong>Key threshold:</strong> refining yield shifted toward middle distillates + petrochemicals signals industrial maturity. Track "crude-to-useful" conversion rate like a farm watches harvest index.</p>
+<h2 id="ch28_petroleum-288-the-oil-record">28.8 The Oil Record</h2>
+<ul>
+<li><strong>Drake drilled Titusville (August 27, 1859)</strong> after Seneca Oil hired him partly because a retired railroad conductor looked official ("Colonel" was self-supplied). The well produced ~25 barrels/day initially; within months western Pennsylvania was an oil-rush economy with boomtown price collapses — commodity cycles began at birth.</li>
+<li><strong>Standard Oil's consolidation:</strong> by 1879–80 Rockefeller's trust controlled roughly 90 % of US refining via rebates, drawbacks, and acquisition; Ohio's courts began unwinding it (1892), and after the Sherman Act (1890) the Supreme Court ordered dissolution in 1911 into 34 successor companies — whose descendants (Exxon, Mobil, Chevron, Amoco…) dominated global oil for the next century. Antitrust law's defining precedent grew directly from this industry.</li>
+<li><strong>Spindletop (January 10, 1901):</strong> the Beaumont gusher flowed at reported rates near 100,000 barrels/day before capping — proving Gulf Coast salt-dome fields, launching Texaco/Gulf lineages, and repricing American fuel economics that <a href="ch29.html">Ch 29</a>'s vehicles would consume.</li>
+<li><strong>Masjed Soleyman (May 26, 1908):</strong> first Middle Eastern commercial strike, under the D'Arcy concession; Burmah Oil refinanced it into the Anglo-Persian Oil Company (1913 British-government majority stake) — ancestor of BP, and origin of the geopolitics of petroleum this chapter only sketches.</li>
+<li><strong>Midgley's personal ledger, fully documented:</strong> he suffered lead poisoning severe enough to take leave in 1923 (he publicized recovery carefully); two decades later, crippled by poliomyelitis, he devised a body-support pulley system and died strangled in it (1944). The man who put lead into gasoline and CFCs into refrigeration is history's starkest single-person externalities case study — recorded here without embellishment because none is needed.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch27.html" class="reader-nav-link">← Chapter 27</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch29.html" class="reader-nav-link">Chapter 29 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

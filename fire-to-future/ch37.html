@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 37: Nuclear Fission: Reactors and Radioisotopes — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 37 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch37_nuclear-chapter-37-nuclear-fission-reactors-and-radioisotopes">Chapter 37: Nuclear Fission: Reactors and Radioisotopes</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1896 Becquerel → 1980s mature reactors · <strong>Difficulty:</strong> extreme
+<br><strong>Requires:</strong> <a href="ch20.html">Ch 20</a>, <a href="ch27.html">Ch 27</a> vessels, <a href="ch13.html">Ch 13</a> uranium, extreme regulation discipline · <br><strong>Unlocks:</strong> dense dispatchable power, medical isotopes, RTG spacecraft power</p>
+</blockquote>
+<p><strong>Scope note (binding):</strong> this chapter covers reactor engineering and isotope applications at textbook level. Weapons physics stays at encyclopedia-history level — chain-reaction concepts only, no design detail.</p>
+<h2 id="ch37_nuclear-371-discovery-chain">37.1 Discovery Chain</h2>
+<p>Becquerel finds uranium rays (1896); Curies isolate radium/polonium; Rutherford names alpha/beta/gamma and finds the nucleus (1911), then transmutes elements (1919); Chadwick finds the neutron (1932) — the perfect projectile, no charge to repel it. Fermi's group irradiates everything; Hahn/Strassmann's chemistry finds BARium in neutron-bombarded uranium; Meitner/Frisch interpret: the nucleus SPLITS, releasing ~200 MeV per fission plus 2–3 free neutrons — which can split more nuclei. Chain reaction concept lands immediately (1939); CP-1 achieves criticality under Chicago stadium (Dec 2, 1942).</p>
+<h2 id="ch37_nuclear-372-reactor-physics-essentials">37.2 Reactor Physics Essentials</h2>
+<ul>
+<li><strong>Criticality:</strong> k = neutrons born ÷ neutrons lost. k = 1 sustained; &lt;1 subcritical; &gt;1 supercritical (power climbing). Control rods (neutron absorbers) manage k in real time.</li>
+<li><strong>Moderators:</strong> fast fission neutrons must slow (~thermal energies) where U-235's cross-section peaks. Water, heavy water, or graphite moderate; each choice defines a reactor family.</li>
+<li><strong>Fuel:</strong> natural uranium (0.7 % U-235) works with heavy-water or graphite moderation; light-water reactors need ENRICHED fuel (3–5 % U-235; gaseous diffusion/centrifuges — industrial-scale isotope separation).</li>
+<li><strong>Delayed neutrons</strong> (small fraction arriving late from decay products) are what make mechanical control possible at human timescales — prompt-critical excursions are the accident regime to never approach.</li>
+<li>Decay heat continues AFTER shutdown — cooling systems need redundancy against station-blackout scenarios (Fukushima's lesson: the tsunami killed diesels, then residual heat did the rest).</li>
+</ul>
+<h2 id="ch37_nuclear-373-reactor-families">37.3 Reactor Families</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Family</th>
+<th>Moderator/Coolant</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PWR</td>
+<td>light water both</td>
+<td>~70 % of world fleet; compact, proven</td>
+</tr>
+<tr>
+<td>BWR</td>
+<td>light water both, boiling in core</td>
+<td>simpler loop, activated steam</td>
+</tr>
+<tr>
+<td>CANDU</td>
+<td>heavy water</td>
+<td>natural-U fuel — enrichment skippable</td>
+</tr>
+<tr>
+<td>RBMK</td>
+<td>graphite/water</td>
+<td>positive void coefficient design flaw → Chernobyl 1986 (<strong>Dead end avoided</strong>: reactivity INCREASING as coolant boils is unstable-by-construction; forbid that sign in your safety case)</td>
+</tr>
+<tr>
+<td>Fast breeders</td>
+<td>liquid sodium</td>
+<td>breeds more fuel than burned; complexity/costs kept them niche</td>
+</tr>
+</tbody>
+</table></div>
+<p>Accident canon: TMI 1979 (containment held; control-room design failed operators — instruments must answer "is it safe?" at a glance); Chernobyl 1986 (design flaw + test protocol violation + no containment); Fukushima 2011 (site hazard beyond design basis). Doctrine: defense-in-depth layers, containment ALWAYS, regulator independence from promoters (<a href="ch47.html">Ch 47</a>).</p>
+<h2 id="ch37_nuclear-374-the-fuel-cycle">37.4 The Fuel Cycle</h2>
+<p>Mining (<a href="ch13.html">Ch 13</a>) → conversion/enrichment → ceramic UO₂ pellets in zirconium cladding → reactor (18–24 month cycles, capacity factors &gt;90 % — highest of any thermal source) → spent fuel pools (years underwater) → dry casks. Waste arithmetic surprises people: a gigawatt-year produces roughly a truckload of high-level waste versus COAL's million-plus tons of CO₂ plus flyash (itself radioactive). Closed fuel cycles/reprocessing exist but add proliferation-sensitive steps — political economy decides adoption more than chemistry does.</p>
+<h2 id="ch37_nuclear-375-isotope-economy">37.5 Isotope Economy</h2>
+<p>The unglamorous payoff that touches millions:</p>
+<ul>
+<li><strong>Medicine:</strong> Co-60 teletherapy beams; Tc-99m imaging (~30+ million procedures/year globally — nuclear medicine IS diagnostic imaging for hearts/thyroid/bones); I-131 thyroid therapy; sterile disposable syringes via gamma irradiation.</li>
+<li><strong>Industry:</strong> radiography weld-inspection gauges, thickness/tracing measurements.</li>
+<li><strong>Space:</strong> RTGs (Pu-238 thermoelectric) powered deep-space missions past solar reach.</li>
+<li><strong>Food safety:</strong> low-dose irradiation extends shelf life (underused relative to evidence).</li>
+<li>Smoke detectors' Am-241 chips — isotopes hiding in plain household safety.</li>
+</ul>
+<h2 id="ch37_nuclear-376-fusion-preview">37.6 Fusion Preview</h2>
+<p>Fusion (fusing light nuclei) powers stars; terrestrial confinement (tokamaks/stellerators/laser inertial — NIF achieved ignition-grade target gain Dec 2022, wall-plug accounting still far negative) remains decades-from-grid engineering. Full treatment in <a href="ch43.html">Ch 43</a>; planning stance here: <strong>do not gate civilization on fusion</strong> — fission plus renewables already cover planetary energy needs with margin.</p>
+<p class="co co-key"><strong>Key threshold:</strong> first grid-connected power reactor marks energy abundance entry. Uranium's energy density (millions× chemical fuels) means one mine feeds centuries — the resource-security endgame that fossil logistics (<a href="ch28.html">Ch 28</a>) never offered.</p>
+<h2 id="ch37_nuclear-377-the-nuclear-record">37.7 The Nuclear Record</h2>
+<p>Discovery-to-grid, dates verifiable:</p>
+<ul>
+<li>Rutherford split nitrogen nuclei artificially (1917, Manchester); Cockcroft &amp; Walton split lithium with their voltage multiplier (1932, Nobel 1951); Fermi's Rome group discovered slow-neutron activation (1934, Nobel 1938).</li>
+<li>Szilard conceived the chain reaction (1933) and patented the concept (assigned to the British Admiralty and placed under secrecy — prewar secrecy regimes begin here); the Einstein–Szilard letter reached Roosevelt August 2, 1939; the British MAUD Committee's July 1941 report concluded feasibility and galvanized Washington.</li>
+<li><strong>CP-1 criticality, December 2, 1942</strong>, beneath Stagg Field's west stands; Hanford's B reactor bred plutonium; Oak Ridge ran Y-12/K-25 enrichment; Los Alamos organized on a mesa under Oppenheimer. Trinity fired July 16, 1945. Hiroshima (August 6) and Nagasaki (August 9) ended the war; this book records those events and their casualty ranges as history — weapons physics beyond chain-reaction concepts stays outside its scope, consistently.</li>
+<li>Soviet program mirrored the organization: F-1 reactor (1946), first test device (August 29, 1949) aided by espionage networks whose convictions (Fuchs, Rosenberg case) are documented legal history.</li>
+<li><strong>Atoms for Peace (Eisenhower, UN speech, December 1953)</strong> reframed fission civilian; Obninsk APS-1 connected to grid June 1954 (USSR, 5 MW); Calder Hall (UK, 1956) pioneered commercial-scale; Shippingport (US, 1957) followed. Rickover's Navy standardized light-water reactors, which the civilian fleet then inherited — submarine procurement shaped global power plant design, a governance fact few expect.</li>
+<li>Accident canon, dated precisely: TMI partial meltdown March 28, 1979 (containment held); Chernobyl April 26, 1986, 01:23:44 reactor time (INES scale itself created afterward, 1990, partly in response); Fukushima March 11, 2011 — tsunami runup far exceeded the site's design basis (~5.7 m design vs ~14 m+ flooding), killing backup generators. Each event rewrote regulation; none changed the underlying neutron economics recorded in <a href="#ch37_nuclear-372-reactor-physics-essentials">§37.2</a>.</li>
+</ul>
+<h2 id="ch37_nuclear-378-what-historians-would-add">37.8 What Historians Would Add</h2>
+<p>The Manhattan Project is studied less for physics than for MANAGEMENT: OSRD coordination, compartmentalized secrecy (which slowed some science even while protecting security), Groves' unified command over science's consensus culture — friction documented in memoirs on all sides. Big-science organization — milestones, parallel redundancy, systems engineering (<a href="ch39.html">Ch 39</a> inherits it wholesale) — is nuclear fission's second export after electricity.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch36.html" class="reader-nav-link">← Chapter 36</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch38.html" class="reader-nav-link">Chapter 38 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

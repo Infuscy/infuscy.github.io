@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 33: Flight: From Gliders to Jets — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 33 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch33_flight-chapter-33-flight-from-gliders-to-jets">Chapter 33: Flight: From Gliders to Jets</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1853 Cayley gliders → 1960s jets · <strong>Difficulty:</strong> extreme
+<br><strong>Requires:</strong> <a href="ch29.html">Ch 29</a> engines, <a href="ch27.html">Ch 27</a>/<a href="ch38.html">38</a> materials, <a href="ch20.html">Ch 20</a> wind-tunnel measurement · <br><strong>Unlocks:</strong> rapid long-distance transport, aerial survey, aerospace path (<a href="ch39.html">Ch 39</a>)</p>
+</blockquote>
+<p>Heavier-than-air flight is a systems triumph: aerodynamics + structures + propulsion + CONTROL converging. The Wright brothers' genius was treating it as engineering iteration, not inspiration — this chapter follows their method.</p>
+<h2 id="ch33_flight-331-aerodynamics-you-need">33.1 Aerodynamics You Need</h2>
+<p>Four forces: lift ∝ ρ·v²·S·C_L (air density, speed², wing area, lift coefficient); drag splits into parasite (∝v²) and induced (price of lift, high at low speeds); weight; thrust. Key concepts:</p>
+<ul>
+<li><strong>Angle of attack</strong> drives C_L up to stall (~15° typical), where flow separates and lift collapses. Stall management = flight safety foundation.</li>
+<li><strong>Airfoils:</strong> cambered upper surface accelerates flow, drops pressure (Bernoulli's accounting; Newton's momentum deflection both true, same answer). Wind tunnels measure rather than argue — the Wrights built one when published tables failed them.</li>
+<li><strong>Aspect ratio:</strong> long slender wings (gliders) trade maneuverability for efficiency; induced drag halves as aspect ratio doubles.</li>
+</ul>
+<h2 id="ch33_flight-332-control-the-real-invention">33.2 Control: The Real Invention</h2>
+<p>History's glider builders could fly downhill; nobody could TURN under power without falling. Three-axis control:</p>
+<ul>
+<li><strong>Roll</strong> (ailerons/wing-warping), <strong>pitch</strong> (elevator), <strong>yaw</strong> (rudder) — coordinated turns need all three (banked lift provides turn force; rudder counters adverse yaw).</li>
+<li>The Wrights' insight: an airplane must be inherently UNSTABLE in roll but controllable — like riding a bicycle. Their glider program (1900–1902, thousands of flights at Kitty Hawk) validated control before power existed.</li>
+<li>Lilienthal's legacy: hang-glider data tables + the lesson he died teaching — control authority must exceed conditions.</li>
+</ul>
+<h2 id="ch33_flight-333-propulsion-under-weight-budget">33.3 Propulsion Under Weight Budget</h2>
+<p>The Wrights couldn't buy a suitable engine; their mechanic built one (~12 hp, aluminum crankcase, ~80 kg). Design doctrine: power-to-weight rules aviation forever. Propellers are rotating wings — the Wrights discovered theirs needed airfoil theory too (their 1903 props hit ~70 %+ efficiency, decades ahead of convention).</p>
+<h2 id="ch33_flight-334-progression-milestones">33.4 Progression Milestones</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Year</th>
+<th>Event</th>
+<th>What it proved</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1903</td>
+<td>Wright Flyer: 12 s / 37 m</td>
+<td>powered control works</td>
+</tr>
+<tr>
+<td>1908</td>
+<td>public demonstrations (Le Mans)</td>
+<td>repeatable, steerable flight</td>
+</tr>
+<tr>
+<td>1909</td>
+<td>Blériot crosses Channel</td>
+<td>geography no longer protects</td>
+</tr>
+<tr>
+<td>1915–19</td>
+<td>all-metal monoplanes, cantilever wings</td>
+<td>external bracing retired</td>
+</tr>
+<tr>
+<td>1930s</td>
+<td>retractable gear, variable-pitch props, pressurization (1938)</td>
+<td>cruise efficiency + altitude</td>
+</tr>
+<tr>
+<td>1939→</td>
+<td>jet propulsion (below)</td>
+<td>the next regime</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="ch33_flight-335-jets">33.5 Jets</h2>
+<p>Whittle (patent 1930, engine run 1937) and von Ohain (He 178, 1939): compress air, burn fuel continuously, expand through turbine driving compressor, exhaust at speed. Turbojet thrust scales with mass flow × Δvelocity:</p>
+<ul>
+<li>Axial compressors (many stages) beat centrifugal for large engines; turbine metallurgy (nickel superalloys surviving red-hot) is the binding constraint — <a href="ch27.html">Ch 27</a>/<a href="ch38.html">38</a> investment pays here.</li>
+<li><strong>Turbofans:</strong> add a big slow fan around the core — bypass air moves MORE mass slower = better propulsive efficiency + quieter. Bypass ratio climbed from ~0 to &gt;10 for airliners; fuel per seat fell ~70 % since 1960.</li>
+<li><strong>Dead end avoided:</strong> de Havilland Comet (1952) square-window cabin failures — pressurization cycles fatigue metal; cracks grow from stress concentrations (corners). Round openings, fail-safe multi-path structure, full-scale fatigue test articles mandatory thereafter. Aviation's safety culture institutionalizes post-mortems into design rules.</li>
+</ul>
+<h2 id="ch33_flight-336-helicopters">33.6 Helicopters</h2>
+<p>Rotary wings solve vertical flight with hard problems: dissymmetry of lift (advancing blade faster than retreating) fixed by FLAPPING hinges letting blades ride their own lift; tail rotors counter torque. Autogyros (Cierva) proved rotor principles safely; Sikorsky VS-300 (1939) matured the single-main-rotor configuration. Use cases: rescue, vertical logistics, crop work — niche economics versus airplanes, irreplaceable within them.</p>
+<h2 id="ch33_flight-337-supersonic-and-systems">33.7 Supersonic and Systems</h2>
+<p>Bell X-1 broke Mach 1 (1947) once transonic drag rise was understood; Whitcomb's area rule (pinch the fuselage where wings add cross-section) cut wave drag. Supersonic cruise stays niche (Concorde: magnificent, unprofitable — <strong>Dead end avoided as business model:</strong> speed sells only when time-value exceeds fuel-bill arithmetic).</p>
+<p>Aviation safety SYSTEM: accident investigation feeding mandatory design changes, ATC separation services, instrument landing, crew resource management (cockpit hierarchy flattened after "captain-is-god" crashes), flight recorders. Result: fatal-accident rates fell ~100× from 1950s levels while traffic multiplied — the best safety story in heavy industry, and a governance template (<a href="ch47.html">Ch 47</a>).</p>
+<p class="co co-key"><strong>Key threshold:</strong> scheduled service where flying costs less than rail per passenger-km marks aviation crossing from luxury to infrastructure — watch jet fuel price and load factors; they set that crossover.</p>
+<h2 id="ch33_flight-338-the-flight-record">33.8 The Flight Record</h2>
+<ul>
+<li>Cayley engraved his fixed-wing concept on a silver disc (1799: lift/propulsion separated on one face, forces on the other) — conceptual priority preserved on a coin-sized artifact now in the Science Museum.</li>
+<li><strong>The 1853 coachman glider</strong> rests on a decades-later granddaughter's recollection; historians treat it cautiously while crediting Cayley's published principles absolutely.</li>
+<li><strong>Langley vs the Wrights, documented near-miss:</strong> the Smithsonian-backed Aerodrome crashed into the Potomac twice — October 7 and December 8, 1903 — nine weeks before Kitty Hawk. Government-funded model, $50k+ spent, pilot-mannequin aboard; the Wrights spent ~$1,000 of bicycle-shop money and flew December 17 (four flights; Wilbur's final effort 59 seconds, 852 feet).</li>
+<li>Priority controversy, stated neutrally: Santos-Dumont's November 1906 Paris flight was Europe's first officially witnessed, wheeled-takeoff flight; the Wrights' earlier flights used catapult/rail assists and lacked witnesses until 1908 — hence transatlantic disputes over "first flight" definitions. Definitions decide records; engineers should write them down in advance.</li>
+<li><strong>Wright patent wars (1906–1917):</strong> litigation against Curtiss and others consumed the era's American aviation energy; US entry into WWI found domestic squadrons flying European-designed types (and the Curtiss JN-4 trainer built under cross-license). Patent thickets taxing an infant industry — documented, quantified in court calendars.</li>
+<li><strong>Comet forensics:</strong> after three hull losses (1954), the RAE salvaged fuselages from Mediterranean seafloors and pressure-cycled a complete water-tank test article — cracks initiated at ADF window corners after ~9,000 cycles (design life assumed 10,000+). Fail-safe design doctrine and full-scale fatigue testing were written into airworthiness rules because of this investigation.</li>
+<li><strong>X-1:</strong> Chuck Yeager broke Mach 1 October 14, 1947, over Muroc, in <em>Glamorous Glennis</em>, with two broken ribs from a riding accident kept off his commanders' medical log. Whitcomb's area rule then reshaped fuselages (YF-102 failing drag estimates → redesigned F-102A passing supersonically).</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch32.html" class="reader-nav-link">← Chapter 32</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch34.html" class="reader-nav-link">Chapter 34 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

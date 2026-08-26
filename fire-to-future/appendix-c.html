@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Appendix C — Catalog of Permissible Jumps — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Appendix C of 7</span>
+</div>
+<main class="reader-content">
+<h1 id="appendix_C_jumps-appendix-c-catalog-of-permissible-jumps">Appendix C — Catalog of Permissible Jumps</h1>
+<blockquote class="meta">
+<p>Where knowledge lets you skip stages. History's detours are optional; each jump lists its minimum entry requirements and its risk.</p>
+</blockquote>
+<h2 id="appendix_C_jumps-c1-valid-jumps">C.1 Valid Jumps</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Skip</th>
+<th>Historical detour</th>
+<th>Why skippable</th>
+<th>Minimum knowledge needed</th>
+<th>Risk</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Copper/bronze era compression (<a href="ch10.html">Ch 10</a>)</td>
+<td>~2,000 yrs of tin-route geopolitics</td>
+<td>Iron ore is everywhere; furnace skills transfer directly</td>
+<td>Bloomery chemistry + forging discipline</td>
+<td>Smiths lack casting finesse; keep small bronze capability for bearings/art</td>
+</tr>
+<tr>
+<td>Logographic writing → phonetic alphabet (<a href="ch11.html">Ch 11</a>)</td>
+<td>Millennia of script refinement</td>
+<td>24 letters cover all speech; literacy time collapses to months</td>
+<td>Understanding of phoneme-letter mapping</td>
+<td>Losing logographic cultural continuity (cosmetic)</td>
+</tr>
+<tr>
+<td>Roman numerals → positional decimal with zero (<a href="ch12.html">Ch 12</a>)</td>
+<td>Centuries of abacus-only arithmetic</td>
+<td>Algorithms are teachable directly</td>
+<td>Place-value pedagogy</td>
+<td>None — pure gain</td>
+</tr>
+<tr>
+<td>Ptolemaic astronomy → heliocentrism (<a href="ch19.html">Ch 19</a>)</td>
+<td>~1,400 yrs epicycle patching</td>
+<td>Telescope evidence (Venus phases, Jupiter moons) settles it immediately</td>
+<td>Refracting telescope + patience</td>
+<td>None once instruments exist</td>
+</tr>
+<tr>
+<td>Miasma-era medicine → germ theory practice (<a href="ch30.html">Ch 30</a>)</td>
+<td>Decades of sanitary confusion</td>
+<td>Boiling/antisepsis/filtration work without full theory</td>
+<td>Koch-Pasteur core + handwashing doctrine</td>
+<td>Overconfidence in partial theory — keep empirical feedback loops</td>
+</tr>
+<tr>
+<td>Telegraph as consumer network → radio-first (<a href="ch25.html">Ch 25</a>, <a href="ch34.html">34</a>)</td>
+<td>Wired-network buildout decades</td>
+<td>Radio needs batteries+magnetism anyway; skip copper landline sprawl</td>
+<td>Battery tech + induction understanding</td>
+<td>Lose telegraphy's training-ground for line maintenance professions; keep minimal wire skills</td>
+</tr>
+<tr>
+<td>Vacuum-tube consumer products → transistors (<a href="ch34.html">Ch 34</a>→<a href="ch35.html">35</a>)</td>
+<td>Tube-era electronics decades</td>
+<td>Circuit concepts port; tubes only needed as scaffolding</td>
+<td>Zone-refined silicon + planar process prerequisites (<a href="ch35.html">§35.5</a>)</td>
+<td>HIGH if purity infrastructure immature — tubes then remain necessary fallback</td>
+</tr>
+<tr>
+<td>Film photography → digital imaging</td>
+<td>A century of silver halide industry</td>
+<td>Semiconductor sensors ride the same fab base</td>
+<td>CCD/CMOS fabrication capability</td>
+<td>Early digital quality is poor; niche optics still need film-era lens craft (keep that part)</td>
+</tr>
+<tr>
+<td>Landline telephony → radio then cellular (<a href="ch41.html">Ch 41</a>)</td>
+<td>Copper loop plant everywhere</td>
+<td>Cellular skips last-mile copper entirely</td>
+<td>RF engineering + switching software</td>
+<td>Regulatory/spectrum management must mature FAST</td>
+</tr>
+<tr>
+<td>Canal age → early railways (<a href="ch24.html">Ch 24</a>)</td>
+<td>Canal network overbuild</td>
+<td>Railways obsoleted much of history's canal grid</td>
+<td>Locomotive maturity + steel rails</td>
+<td>Bulk freight economics suffer pre-rail; build ONE strategic canal, not networks</td>
+</tr>
+<tr>
+<td>Sailing-ship refinement → steam-assist early (<a href="ch23.html">Ch 23</a>, <a href="ch24.html">24</a>)</td>
+<td>Century of clipper perfection</td>
+<td>Marine steam pays immediately on schedules</td>
+<td>Compact marine boilers</td>
+<td>Fuel logistics at sea initially painful</td>
+</tr>
+<tr>
+<td>Mechanical calculators → electronic computing (<a href="ch36.html">Ch 36</a>)</td>
+<td>Babbage-through-tabulator era</td>
+<td>Relay/tube machines leapfrog gears</td>
+<td>Switching-circuit theory (Shannon)</td>
+<td>Numerical analysis lore from mechanical era gets skipped — relearn rounding/error discipline</td>
+</tr>
+<tr>
+<td>Gas-lighting city infrastructure → electric lighting (<a href="ch26.html">Ch 26</a>)</td>
+<td>Gasworks+streetlamps half-century</td>
+<td>Dynamos make gas lighting instantly obsolete</td>
+<td>Grid maturity</td>
+<td>Pre-grid nights stay dark longer; candles/whale oil bridge</td>
+</tr>
+<tr>
+<td>Horse-drawn urban transit → motor buses/trams</td>
+<td>Streetcar-horse era</td>
+<td>ICE/electric traction arrives together</td>
+<td>Vehicle industry basics</td>
+<td>Urban form assumes density later than historical pattern</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_C_jumps-c2-jumps-that-fail">C.2 Jumps That FAIL</h2>
+<p>Tempting skips that don't work — listed so nobody wastes a decade discovering why:</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Tempting skip</th>
+<th>Why it fails</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Skipping pottery (<a href="ch05.html">Ch 5</a>)</td>
+<td>Kilns gate EVERYTHING hot: crucibles, tuyères, lime, glass, brick. No ceramics = no metallurgy, no chemistry.</td>
+</tr>
+<tr>
+<td>Skipping precision instrument culture (<a href="ch20.html">Ch 20</a>)</td>
+<td>"Close enough" machine tools cannot build engines; tolerances compound. Watt needed Wilkinson's borer; you need your equivalents.</td>
+</tr>
+<tr>
+<td>Skipping the institutional layer (<a href="ch47.html">Ch 47</a>)</td>
+<td>Finance/logistics/law gate SCALE. Hardware ladders stall at village scale without credit, contracts, statistics.</td>
+</tr>
+<tr>
+<td>Skipping sanitation for antibiotics (<a href="ch30.html">Ch 30</a>, <a href="ch31.html">31</a>)</td>
+<td>Resistance disaster: antibiotics in filthy environments breed resistant flora faster than new drugs arrive. Sanitation first, ALWAYS.</td>
+</tr>
+<tr>
+<td>Coal → oil directly, skipping coal-iron synergy (<a href="ch22.html">Ch 22</a>)</td>
+<td>Petroleum refining needs drilled wells, steel, pressure vessels, catalysts — all children of the coal-iron-steam complex.</td>
+</tr>
+<tr>
+<td>Skipping water/wind mills straight to steam (<a href="ch16.html">Ch 16</a>)</td>
+<td>Millwrights ARE the workforce that builds engines. No milling tradition = no machining culture = engines nobody can service.</td>
+</tr>
+<tr>
+<td>Direct fusion pursuit, skipping fission/renewables (<a href="ch43.html">Ch 43</a>)</td>
+<td>Fusion is decades-from-grid even optimistically; gating civilization on it is planning suicide. Fission+solar+wind suffice.</td>
+</tr>
+<tr>
+<td>Skipping writing for oral tradition + computers</td>
+<td>Computation needs text interfaces, specifications, code — writing is load-bearing all the way up.</td>
+</tr>
+<tr>
+<td>Skipping money for barter or pure allocation (<a href="ch09.html">Ch 9</a>)</td>
+<td>Prices aggregate distributed knowledge; alternatives require omniscience nobody has.</td>
+</tr>
+<tr>
+<td>Humanoid robots before structured automation (<a href="ch45.html">Ch 45</a>)</td>
+<td>Dexterity lacks its transistor moment; automate factories/warehouses first or waste capital on theater.</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_C_jumps-c3-jump-discipline">C.3 Jump Discipline</h2>
+<p>A jump is legal when THREE conditions hold simultaneously:</p>
+<ol>
+<li><strong>Physics permits</strong> — no violated prerequisite (see failures table).</li>
+<li><strong>Knowledge exists</strong> — someone alive holds the compressed theory the detour originally discovered.</li>
+<li><strong>Failure is recoverable</strong> — if the jump stalls, the previous rung is still reachable without catastrophe.</li>
+</ol>
+<p>Test every proposed shortcut against all three; document the verdict in your own copy of this appendix. The book's whole advantage IS this table — use it deliberately rather than re-walking history blind.</p>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="appendix-b.html" class="reader-nav-link">← Appendix B</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="appendix-d.html" class="reader-nav-link">Appendix D →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

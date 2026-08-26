@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chapter 32: Feeding Billions: Haber-Bosch, Breeding, Mechanized Farming — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+.co-key { background: #eef5ec; border-color: #3f6c3f; }
+.co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.co-jump { background: #edf2f9; border-color: #2f5286; }
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Chapter 32 of 51</span>
+</div>
+<main class="reader-content">
+<h1 id="ch32_green_revolution-chapter-32-feeding-billions-haber-bosch-breeding-mechanized-farming">Chapter 32: Feeding Billions: Haber-Bosch, Breeding, Mechanized Farming</h1>
+<blockquote class="meta">
+<p><strong>Era span:</strong> 1909 Haber → 1970s Green Revolution · <strong>Difficulty:</strong> high
+<br><strong>Requires:</strong> <a href="ch21.html">Ch 21</a> pressure chemistry, <a href="ch29.html">Ch 29</a> tractors, <a href="ch30.html">Ch 30</a>-era logistics · <br><strong>Unlocks:</strong> megacity-scale food security, demographic headroom for specialists</p>
+</blockquote>
+<p>Agriculture's ancient nitrogen ledger (<a href="ch07.html">Ch 7</a>) capped populations at what manure and legumes could fix. Breaking that cap — plus genetics plus machines — tripled grain yields and made the modern world demographically possible. Roughly half the nitrogen atoms in your body passed through a Haber reactor.</p>
+<h2 id="ch32_green_revolution-321-the-nitrogen-wall">32.1 The Nitrogen Wall</h2>
+<p>Every protein requires fixed nitrogen. Pre-1913 sources: legume rotation (~fixed ceiling), guano islands (mined toward exhaustion; naval wars fought over them), Chilean saltpeter (finite, strategic). Chemistry knew N₂ + 3H₂ → 2NH₃ was possible — ammonia is the hydrogen carrier of fixed nitrogen — but equilibrium HATES you: high pressure favors product, high temperature favors speed but kills yield.</p>
+<p><strong>Haber-Bosch synthesis:</strong> ~200 atm, ~450–500 °C, iron catalyst (promoted with K₂O/Al₂O₃), gases recycled in loops so per-pass yields of ~15 % compound to near-total conversion. Bosch's contribution was engineering the impossible vessel: low-alloy steel decarbonizes under hot hydrogen — he lined reactors with soft iron that sacrificially absorbs it. Pressure-vessel metallurgy (<a href="ch27.html">Ch 27</a>) + recycle-loop design = industrial fixation (Oppau plant, 1913).</p>
+<ul>
+<li>Hydrogen source evolution: coal gasification → natural gas steam reforming (CH₄ + H₂O → H₂ + CO₂) once pipelines exist — energy cost tracks fuel price forever.</li>
+<li>Consequence: synthetic fertilizer now feeds roughly half of humanity. This single process is the strongest candidate for "most important invention" in this book by lives enabled.</li>
+</ul>
+<h2 id="ch32_green_revolution-322-phosphate-and-potash">32.2 Phosphate and Potash</h2>
+<p>Nitrogen is one of three macros:</p>
+<ul>
+<li><strong>Phosphorus:</strong> mined rock phosphate, treated with sulfuric acid (<a href="ch21.html">Ch 21</a>) into superphosphate for plant-available form. Finite reserves demand recycling discipline: return sewage phosphorus to soil or mine more (strategic resource planning, <a href="ch47.html">Ch 47</a>).</li>
+<li><strong>Potassium:</strong> potash mines (<a href="ch13.html">Ch 13</a>); less controversial, equally essential.</li>
+<li>Soil testing (<a href="ch20.html">Ch 20</a>) converts fertilizing from ritual to prescription — apply what tests show missing, not folklore ratios.</li>
+</ul>
+<h2 id="ch32_green_revolution-323-genetics-applied-hybrid-corn-and-dwarf-grains">32.3 Genetics Applied: Hybrid Corn and Dwarf Grains</h2>
+<ul>
+<li><strong>Heterosis:</strong> Shull's inbred-line crosses (1900s–20s) produced hybrid corn out-yielding open-pollinated varieties 25–50 %. Farmers buy fresh seed yearly (inbred lines must be re-crossed) — seed industry born; breeding becomes an R&amp;D discipline.</li>
+<li><strong>Dwarfing:</strong> tall grains lodge (fall over) when heavy fertilizer pushes growth. Borlaug's shuttle-breeding program crossed Japanese dwarf wheat genes into local adapted varieties; IR8 "miracle rice" (1966) similarly. Short stiff stems convert fertilizer into GRAIN instead of straw — yields doubled/tripled across Asia/Latin America within a decade; famines predicted for the 1970s never arrived at forecast scale.</li>
+<li>Breeding infrastructure: nurseries, pedigree records (<a href="ch11.html">Ch 11</a>), multi-location trials to defeat location-specific diseases, seed certification chains maintaining varietal purity.</li>
+</ul>
+<h2 id="ch32_green_revolution-324-crop-protection">32.4 Crop Protection</h2>
+<ul>
+<li>Generations: inorganic poisons (Paris green) → organochlorines (DDT: WWII malaria victories, then resistance + bioaccumulation documented by Carson 1962) → selective organophosphates/carbamates → integrated pest management (IPM): thresholds before spraying, biological controls, resistant varieties, targeted chemistry as last resort.</li>
+<li><strong>Dead end avoided:</strong> spray-everything schedules breed resistance within seasons (evolution doesn't negotiate) and nuke beneficial predators that were doing free pest control. IPM is the corrected path; herbicide-tolerant crops later integrate cleanly INTO IPM rather than replacing it.</li>
+</ul>
+<h2 id="ch32_green_revolution-325-mechanization-and-irrigation-completion">32.5 Mechanization and Irrigation Completion</h2>
+<p>Tractors/combines (<a href="ch29.html">Ch 29</a>) free land from horse feed and labor from harvest crews; tube wells + center-pivot systems extend irrigation where aquifers allow (<strong>watch drawdown rates — Ogallala-style overdraft is a slow-motion catastrophe</strong>); refrigerated logistics connect harvests to cities year-round (<a href="ch26.html">Ch 26</a>, <a href="ch24.html">24</a>).</p>
+<h2 id="ch32_green_revolution-326-honest-ledger">32.6 Honest Ledger</h2>
+<p>Costs of the package: aquifer depletion, eutrophication runoff (fertilizer excess feeding algal blooms and dead zones), biodiversity loss under monoculture, fossil dependence. Counterpoints: billions fed, forests spared (yields rise meant less wild land converted), famine forecasts broken. The corrected doctrine — precision application, cover crops, buffer strips, diversified rotations, recycled nutrients — keeps the gains while trimming the damage. Yield-per-input, not yield-per-hectare alone, becomes the master metric.</p>
+<p class="co co-key"><strong>Key threshold:</strong> national cereal yields sustained above ~4 t/ha with stable input supply mark food-security independence. Below that line, every drought is a political crisis; above it, agriculture becomes an export industry and population policy stabilizes (<a href="ch30.html">Ch 30</a>'s demographic transition completes).</p>
+<h2 id="ch32_green_revolution-328-the-green-revolution-record">32.8 The Green Revolution Record</h2>
+<ul>
+<li><strong>Haber-Bosch went to war first:</strong> Oppau's ammonia fed the Ostwald process (ammonia → nitric acid → explosives) once British naval blockade choked Chilean saltpeter in WWI — synthetic nitrogen sustained German munitions for years. Dual-use from day one; the fertilizer dividend came only after 1918, and Chile's nitrate economy collapsed into depression as a direct consequence. Energy-dense chemistry does not choose its customers.</li>
+<li><strong>Borlaug's shuttle breeding (Mexico, 1944–53):</strong> two nurseries at different latitudes doubled generations per year — geography hacked for breeding speed; stem-rust resistance came from thousands of crosses. Norin 10 dwarfing genes reached him via Orville Vogel (Washington State), whose source traced to Japanese breeding lines. CIMMYT institutionalized the pipeline.</li>
+<li><strong>IR8 (1966):</strong> IRRI's cross of Indonesian tall Peta with Taiwanese dwarf Dee-geo-woo-gen yielded ~10 t/ha under ideal management versus traditional ~1–2 — the "miracle rice" that made Asian rice self-sufficiency plausible. Ford and Rockefeller foundations funded IRRI (founded 1962, Los Baños); national governments did the scaling.</li>
+<li>The famine-that-wasn't context: 1960s neo-Malthusian bestsellers (<em>Famine—1975!</em> etc.) predicted mass starvation; PL-480 food-aid politics and Green Revolution yields jointly falsified the near-term forecasts. Later scholars credit both factors and note India's monsoon luck; the book records the forecast failure without crowing.</li>
+<li><strong>Nobel Peace Prize, Borlaug, 1970</strong> — an agronomist winning peace's prize is itself data about what feeding people prevents.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="ch31.html" class="reader-nav-link">← Chapter 31</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <a href="ch33.html" class="reader-nav-link">Chapter 33 →</a>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script>
+(function(){
+  var scale = 1;
+  function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
+  apply();
+  document.getElementById("fontDown").addEventListener("click", function(){ scale = Math.max(0.6, scale - 0.1); apply(); });
+  document.getElementById("fontUp").addEventListener("click", function(){ scale = Math.min(2.0, scale + 0.1); apply(); });
+})();
+</script>
+</body>
+</html>

@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 - Preferred channel: https://infuscy.github.io/.well-known/security.txt
-- Email: contact@febuse.com (also used for GDPR/data-subject requests)
+- Email: buse.florinx@gmail.com (also used for GDPR/data-subject requests)
 - Supervisory authority for data-protection complaints: ANSPDCP — https://www.dataprotection.ro
 
 ## Threat model

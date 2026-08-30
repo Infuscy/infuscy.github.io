@@ -19,13 +19,28 @@
 })();
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
+// Anchors may carry a path ("/#portfolio"): same-path anchors keep the
+// smooth scroll; cross-path anchors fall through to normal navigation
+// so the navbar links work from subpages too.
 $(function() {
     $('.page-scroll a').on('click', function(event) {
-        var $anchor = $(this);
-        $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top
-        }, 1500, 'easeInOutExpo');
-        event.preventDefault();
+        var href = $(this).attr('href') || '';
+        var hashIdx = href.indexOf('#');
+        if (hashIdx === -1) {
+            return; // plain/external link: normal navigation
+        }
+        var path = href.slice(0, hashIdx) || location.pathname;
+        var hash = href.slice(hashIdx);
+        if (path === location.pathname) {
+            var $target = $(hash);
+            if ($target.length) {
+                $('html, body').stop().animate({
+                    scrollTop: $target.offset().top
+                }, 1500, 'easeInOutExpo');
+                event.preventDefault();
+            }
+        }
+        // else: link to another page - let the browser navigate
     });
 });
 

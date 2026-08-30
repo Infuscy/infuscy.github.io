@@ -10,13 +10,13 @@
 
     <!-- Open Graph / social sharing (meta only, no third-party requests) -->
     <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:type" content="website">
+    <meta property="og:type" content="{% if page.og_type %}{{ page.og_type }}{% else %}website{% endif %}">
     <meta property="og:locale" content="ro_RO">
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | normalize_whitespace | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <meta property="og:image" content="{% if page.img %}{{ site.url }}/img/portfolio/{{ page.img }}{% else %}{{ site.url }}/img/portfolio/profile.png{% endif %}">
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="{% if page.twitter_card %}{{ page.twitter_card }}{% else %}summary{% endif %}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | normalize_whitespace | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
     <meta name="twitter:image" content="{% if page.img %}{{ site.url }}/img/portfolio/{{ page.img }}{% else %}{{ site.url }}/img/portfolio/profile.png{% endif %}">

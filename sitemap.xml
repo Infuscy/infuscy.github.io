@@ -20,6 +20,9 @@ layout: null
   <url>
     <loc>{{ site.url }}/fire-to-future/</loc>
   </url>
+  <url>
+    <loc>{{ site.url }}/art47-hcl419/</loc>
+  </url>
   {% for ch in site.data.fire_to_future_chapters %}
   <url>
     <loc>{{ site.url }}/fire-to-future/{{ ch.file }}</loc>

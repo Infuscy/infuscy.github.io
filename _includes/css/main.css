@@ -1,5 +1,5 @@
 /*!
- * Rapoarte BAC — landing theme.
+ * Febuse — landing theme.
  * Re-skin of the default Bootstrap/Freelancer markup to match the
  * BAC report design system: Inter typeface, slate palette, blue accent.
  */
@@ -93,7 +93,7 @@ header .intro-text .name {
 }
 
 header .intro-text .skills {
-    font-size: 1.125rem;
+    font-size: 1.7rem;
     font-weight: 500;
     color: #64748b;
 }
@@ -107,7 +107,7 @@ header .intro-text .skills {
         font-size: 3.75rem;
     }
     header .intro-text .skills {
-        font-size: 1.375rem;
+        font-size: 1.9rem;
     }
 }
 

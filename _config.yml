@@ -1,9 +1,9 @@
 # Site settings
-title: Rapoarte BAC
+title: Febuse
 email: contact@febuse.com
 url: https://infuscy.github.io
-description: "Investigații de date statice despre rezultatele Bacalaureatului. Hărți, distribuții, anomalii și explorare SQL live — 100% în browser."
-skills: "Investigații de date · Rapoarte statice · 100% în browser"
+description: "Site personal: investigații de date statice despre Bacalaureat, analiză juridică și civică (HCL 419/2025 Craiova) și ficțiune — totul 100% în browser, fără urmărire."
+skills: "Date reale · Analiză civică · Ficțiune"
 meta_author: Buse Florin-Emilian
 
 # Color settings (hex-codes without the leading hash-tag).
@@ -35,7 +35,7 @@ address:
   - line: Romania
 
 # Credits content
-credits: 'Rapoarte de date independente, construite cu Python, React si DuckDB-WASM. <br>Datele sursă provin de pe <a href="https://static.bacalaureat.edu.ro/">static.bacalaureat.edu.ro</a>.'
+credits: 'Proiecte personale: rapoarte de date statice (Python, React, DuckDB-WASM), analiză juridică verificată din surse primare, ficțiune publicată static. <br>Datele Bacalaureatului provin de pe <a href="https://static.bacalaureat.edu.ro/">static.bacalaureat.edu.ro</a>.'
 
 # Build settings
 markdown: kramdown

@@ -1,10 +1,10 @@
  <!-- Portfolio Modals -->
  {% for post in site.posts %}
-    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-modal="true" aria-labelledby="portfolioModalTitle-{{ post.modal-id }}" aria-hidden="true">
         <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
+            <div class="close-modal" data-dismiss="modal" role="button" tabindex="0" aria-label="Închide fereastra: {{ post.title }}">
+                <div class="lr" aria-hidden="true">
+                    <div class="rl" aria-hidden="true">
                     </div>
                 </div>
             </div>
@@ -12,9 +12,9 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
+                            <h2 id="portfolioModalTitle-{{ post.modal-id }}">{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}" loading="lazy" decoding="async">
                             <p>{{ post.description | raw }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
@@ -27,7 +27,7 @@
                                     <strong>{{ post.category }}</strong>
                                 </li>
                             </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Închide</button>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times" aria-hidden="true"></i> Închide</button>
                         </div>
                     </div>
                 </div>

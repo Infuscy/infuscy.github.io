@@ -1,13 +1,23 @@
-    <!-- Header -->
-    <header>
+    <!-- Header / hero -->
+    <header class="hero">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <img class="img-responsive hero-avatar" src="img/profile.png" alt="Febuse — avatar" width="112" height="112" decoding="async" fetchpriority="high">
+                    <p class="hero-eyebrow">Date deschise · Analiză civică · Ficțiune</p>
                     <div class="intro-text">
-                        <span class="name">{{ site.title }}</span>
-                        <hr class="star-light">
-                        <span class="skills">{{ site.skills }}</span>
+                        <h1 class="name">{{ site.title }}</h1>
+                        <p class="hero-lede">Investigații de date despre Bacalaureat, o analiză juridică verificată din surse primare și ficțiune — totul static, 100% în browser, fără urmărire.</p>
+                        <p class="skills">{{ site.skills }}</p>
+                        <p class="hero-cta">
+                            <a class="btn btn-primary btn-lg page-scroll-cta" href="#portfolio">Explorează rapoartele</a>
+                            <a class="btn btn-ghost btn-lg" href="/art47-hcl419/">Citește analiza parcărilor</a>
+                        </p>
+                        <ul class="hero-stats" aria-label="Repere din rapoarte">
+                            <li><strong>238K+</strong><span>candidați analizați</span></li>
+                            <li><strong>1,4K</strong><span>școli · 42 județe</span></li>
+                            <li><strong>100%</strong><span>în browser, fără cont</span></li>
+                        </ul>
                     </div>
                 </div>
             </div>

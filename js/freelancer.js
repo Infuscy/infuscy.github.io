@@ -23,6 +23,18 @@
 // smooth scroll; cross-path anchors fall through to normal navigation
 // so the navbar links work from subpages too.
 $(function() {
+    var reduceMotion = window.matchMedia &&
+        window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    function smoothTo($target) {
+        var top = $target.offset().top;
+        if (reduceMotion) {
+            $('html, body').stop().scrollTop(top);
+            return;
+        }
+        $('html, body').stop().animate({
+            scrollTop: top
+        }, 1500, 'easeInOutExpo');
+    }
     $('.page-scroll a').on('click', function(event) {
         var href = $(this).attr('href') || '';
         var hashIdx = href.indexOf('#');
@@ -34,13 +46,19 @@ $(function() {
         if (path === location.pathname) {
             var $target = $(hash);
             if ($target.length) {
-                $('html, body').stop().animate({
-                    scrollTop: $target.offset().top
-                }, 1500, 'easeInOutExpo');
+                smoothTo($target);
                 event.preventDefault();
             }
         }
         // else: link to another page - let the browser navigate
+    });
+    // Hero CTA is a plain anchor (not inside .page-scroll li).
+    $('.page-scroll-cta').on('click', function(event) {
+        var $target = $($(this).attr('href'));
+        if ($target.length) {
+            smoothTo($target);
+            event.preventDefault();
+        }
     });
 });
 
@@ -63,4 +81,36 @@ $('body').scrollspy({
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
+});
+
+// Keep hamburger aria-expanded in sync (Bootstrap 3 toggles collapse only).
+$(function() {
+    var $toggle = $('.navbar-toggle');
+    var $menu = $('#bs-example-navbar-collapse-1');
+    $menu.on('shown.bs.collapse', function() { $toggle.attr('aria-expanded', 'true'); });
+    $menu.on('hidden.bs.collapse', function() { $toggle.attr('aria-expanded', 'false'); });
+});
+
+// Portfolio modals: focus management + keyboard-dismissable custom X.
+// Keeps jQuery-3 compatible API (.on only).
+$(function() {
+    var lastTrigger = null;
+    $('.portfolio-modal').on('show.bs.modal', function(event) {
+        lastTrigger = event.relatedTarget || document.activeElement;
+    });
+    $('.portfolio-modal').on('shown.bs.modal', function() {
+        $(this).find('[data-dismiss="modal"].btn, .close-modal').first().focus();
+    });
+    $('.portfolio-modal').on('hidden.bs.modal', function() {
+        if (lastTrigger && lastTrigger.focus) {
+            lastTrigger.focus();
+        }
+        lastTrigger = null;
+    });
+    $('.portfolio-modal .close-modal').on('keydown', function(event) {
+        if (event.which === 13 || event.which === 32) {
+            event.preventDefault();
+            $(this).closest('.portfolio-modal').modal('hide');
+        }
+    });
 });

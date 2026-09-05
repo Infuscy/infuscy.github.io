@@ -213,6 +213,21 @@ for y in (2025, 2026):
     name30 = int(t.groupby("unitate_invatamant")["_p"].sum().ge(30).sum())
     check(f"{y}-x-binssum", sum(bins.values()) == name30,
           f"{y}: bins sum {sum(bins.values())} != name-based presented>=30 ({name30})")
+    # perfect-10 concentration claim must hold: clusters are a top-25 subset
+    ov = D[y]["overview"]
+    pcl = D[y]["outliers"]["perfect10_clusters"]
+    check(f"{y}-x-p10", sum(x["perfect10"] for x in pcl) <= ov["perfect10_total"],
+          f"{y}: perfect10 cluster sum exceeds national total")
+    # 'best modern language' fact must carry the n>=30 qualifier whenever a
+    # low-confidence language outranks the named one (Batch 4, both years)
+    facts = [fl for fl in D[y]["interesting_facts"] if "limbă modernă" in fl.lower()]
+    m = re.search(r"LIMBA [A-ZĂÂÎȘȚ ]+", facts[0]) if facts else None
+    if m:
+        best = D[y]["limba_moderna"][m.group(0).strip()]
+        beaten = any(v.get("low_confidence") and v["avg_media"] > best["avg_media"]
+                     for v in D[y]["limba_moderna"].values())
+        check(f"{y}-x-lang", (not beaten) or ("30" in facts[0]),
+              f"{y}: best-language fact lacks the n>=30 qualifier")
 for f in glob.glob(rf"{ROOT}/bac*/data/*.json"):
     raw = open(f, encoding="utf-8").read()
     hits = sorted(set(CODEPAT.findall(raw)))

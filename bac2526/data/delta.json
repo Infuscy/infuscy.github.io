@@ -1316,11 +1316,11 @@
         "max_swing_2025": 2.9,
         "max_swing_2026": 3.2,
         "biggest_jump_2025": [
-          "MH1422600",
+          "MH",
           2.9
         ],
         "biggest_jump_2026": [
-          "IF1789994",
+          "IF",
           3.2
         ]
       },
@@ -1340,11 +1340,11 @@
         "max_swing_2025": 2.0,
         "max_swing_2026": 2.15,
         "biggest_jump_2025": [
-          "SM1602324",
+          "SM",
           2.0
         ],
         "biggest_jump_2026": [
-          "HR1761173",
+          "HR",
           2.15
         ]
       },
@@ -1364,11 +1364,11 @@
         "max_swing_2025": 2.7,
         "max_swing_2026": 2.9,
         "biggest_jump_2025": [
-          "AR1581642",
+          "AR",
           2.7
         ],
         "biggest_jump_2026": [
-          "SB1785594",
+          "SB",
           2.9
         ]
       },
@@ -1388,11 +1388,11 @@
         "max_swing_2025": 3.85,
         "max_swing_2026": 3.45,
         "biggest_jump_2025": [
-          "IS1605682",
+          "IS",
           3.85
         ],
         "biggest_jump_2026": [
-          "B1775939",
+          "B",
           3.45
         ]
       }
@@ -2049,44 +2049,44 @@
     "biggest_jumps_2025": [
       {
         "subject": "romana",
-        "cod_candidat": "IS1605682",
+        "cod_candidat": "IS",
         "delta": 3.85
       },
       {
         "subject": "alegere",
-        "cod_candidat": "MH1422600",
+        "cod_candidat": "MH",
         "delta": 2.9
       },
       {
         "subject": "profil",
-        "cod_candidat": "AR1581642",
+        "cod_candidat": "AR",
         "delta": 2.7
       },
       {
         "subject": "materna",
-        "cod_candidat": "SM1602324",
+        "cod_candidat": "SM",
         "delta": 2.0
       }
     ],
     "biggest_jumps_2026": [
       {
         "subject": "romana",
-        "cod_candidat": "B1775939",
+        "cod_candidat": "B",
         "delta": 3.45
       },
       {
         "subject": "alegere",
-        "cod_candidat": "IF1789994",
+        "cod_candidat": "IF",
         "delta": 3.2
       },
       {
         "subject": "profil",
-        "cod_candidat": "SB1785594",
+        "cod_candidat": "SB",
         "delta": 2.9
       },
       {
         "subject": "materna",
-        "cod_candidat": "HR1761173",
+        "cod_candidat": "HR",
         "delta": 2.15
       }
     ]

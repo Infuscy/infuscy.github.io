@@ -974,7 +974,7 @@
       "changed_of_filed_pct": 96.92,
       "max_abs_swing": 3.45,
       "biggest_single_jump": [
-        "B1775939",
+        "B",
         3.45
       ]
     },
@@ -993,7 +993,7 @@
       "changed_of_filed_pct": 94.98,
       "max_abs_swing": 2.9,
       "biggest_single_jump": [
-        "SB1785594",
+        "SB",
         2.9
       ]
     },
@@ -1012,7 +1012,7 @@
       "changed_of_filed_pct": 93.88,
       "max_abs_swing": 3.2,
       "biggest_single_jump": [
-        "IF1789994",
+        "IF",
         3.2
       ]
     },
@@ -1031,7 +1031,7 @@
       "changed_of_filed_pct": 96.52,
       "max_abs_swing": 2.15,
       "biggest_single_jump": [
-        "HR1761173",
+        "HR",
         2.15
       ]
     }
@@ -1118,6 +1118,7 @@
   },
   "school_deep": {
     "n_analyzed": 1206,
+    "rule": "scoli grupate dupa denumire (o denumire in doua judete conteaza o data), cu >= 20 candidati prezentati si medie calculabila",
     "highest_variance": [
       {
         "school": "LICEUL TEORETIC \"DR.VICTOR GOMOIU\"",
@@ -3509,7 +3510,7 @@
     "Note perfecte 10 (media==10): 69 din 125,977 notați.",
     "Decalajul repetenților: 46.53 pp în rata de promovare (prima promoție 81.68% vs repetenți 35.15%).",
     "Cel mai mare decalaj între școli din același județ: AG (4.85 puncte, COLEGIUL NATIONAL \"ION C. BRATIANU\" PITESTI vs LICEUL TEHNOLOGIC NR. 1 MARACINENI).",
-    "Cea mai bună limbă modernă după medie: LIMBA SPANIOLA (8.34, n=242).",
+    "Cea mai bună limbă modernă după medie, dintre cele cu cel puțin 30 de candidați: LIMBA SPANIOLA (8.34, n=242).",
     "Contestații romana: 21,222 note schimbate, 66.07% în sus / 33.93% în jos, swing maxim 3.45.",
     "Contestații profil: 16,090 note schimbate, 63.27% în sus / 36.73% în jos, swing maxim 2.9.",
     "Contestații alegere: 15,131 note schimbate, 63.39% în sus / 36.61% în jos, swing maxim 3.2.",
@@ -5174,22 +5175,22 @@
     "biggest_contestation_jumps": [
       {
         "subject": "romana",
-        "cod_candidat": "B1775939",
+        "cod_candidat": "B",
         "delta": 3.45
       },
       {
         "subject": "alegere",
-        "cod_candidat": "IF1789994",
+        "cod_candidat": "IF",
         "delta": 3.2
       },
       {
         "subject": "profil",
-        "cod_candidat": "SB1785594",
+        "cod_candidat": "SB",
         "delta": 2.9
       },
       {
         "subject": "materna",
-        "cod_candidat": "HR1761173",
+        "cod_candidat": "HR",
         "delta": 2.15
       }
     ]
@@ -5542,7 +5543,7 @@
     },
     "school_pass_bins": {
       "095-100%": 177,
-      "100-105%": 56,
+      "100%": 56,
       "085-090%": 75,
       "090-095%": 102,
       "080-085%": 72,

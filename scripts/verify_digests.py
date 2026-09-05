@@ -14,7 +14,7 @@ Definitions (must stay in sync with scripts/patch_digests.py):
 
 Usage: python scripts/verify_digests.py   (requires pyarrow + pandas)
 """
-import json, sys, io, os, glob
+import json, sys, io, os, glob, re
 if os.environ.get("PYARROW_PATH"):
     sys.path.insert(0, os.environ["PYARROW_PATH"])
 import pandas as pd
@@ -180,6 +180,44 @@ for y, (bad, good) in posts.items():
         raw = open(p, encoding="utf-8").read()
         check(f"post-{y}", f"{good // 1000}.{good % 1000:03d}" in raw and bad not in raw,
               f"post {y}: school count not updated to {good}")
+
+# --- Batch 4 guards: school-table coverage, bin labels, identifier hygiene
+# (Batch 4 fixed a name-merged school row, an impossible 100-105% bucket and
+# published candidate codes; these checks pin the fixes.)
+CODEPAT = re.compile(r'"[A-Z]{1,2}\d{5,}"')
+for y in (2025, 2026):
+    df = DF[y]
+    sch = load(rf"{ROOT}/bac{y}/data/schools.json")
+    co = load(rf"{ROOT}/bac{y}/data/counties.json")
+    pairs = set(zip(df["judet"].astype(str), df["unitate_invatamant"].astype(str)))
+    keys = [(s["judet"], s["school"]) for s in sch["schools"]]
+    check(f"{y}-x-pairs", set(keys) == pairs and len(keys) == len(pairs),
+          f"{y}: schools.json (judet,school) coverage != parquet "
+          f"({len(keys)} vs {len(pairs)})")
+    check(f"{y}-x-meta", sch["total_schools"] == len(pairs),
+          f"{y}: total_schools {sch['total_schools']} != {len(pairs)}")
+    con = {c["judet"]: c["n"] for c in co["counties"]}
+    sumn = {}
+    for s in sch["schools"]:
+        sumn[s["judet"]] = sumn.get(s["judet"], 0) + s["n"]
+    check(f"{y}-x-county", sumn == con,
+          f"{y}: schools.json per-county n != counties.json")
+    check(f"{y}-x-nodev", not any("_dev" in c for c in co["counties"]),
+          f"{y}: counties.json leaks internal _dev")
+    check(f"{y}-x-rule", bool(D[y]["school_deep"].get("rule")),
+          f"{y}: school_deep.rule (counting rule) missing")
+    bins = D[y]["reporter_deepdive"]["school_pass_bins"]
+    check(f"{y}-x-bins", "100-105%" not in bins and "100%" in bins,
+          f"{y}: impossible 100-105% bucket still present")
+    t = df.assign(_p=df["rezultat_final"].isin(["REUSIT", "RESPINS"]))
+    name30 = int(t.groupby("unitate_invatamant")["_p"].sum().ge(30).sum())
+    check(f"{y}-x-binssum", sum(bins.values()) == name30,
+          f"{y}: bins sum {sum(bins.values())} != name-based presented>=30 ({name30})")
+for f in glob.glob(rf"{ROOT}/bac*/data/*.json"):
+    raw = open(f, encoding="utf-8").read()
+    hits = sorted(set(CODEPAT.findall(raw)))
+    check(f"x-codes-{os.path.basename(f)}", not hits,
+          f"full candidate codes in {f}: {hits[:3]}")
 
 # ---------------------------------------------------------------- verdict
 if fails:

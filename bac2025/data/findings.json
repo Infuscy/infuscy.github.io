@@ -969,7 +969,7 @@
       "changed_of_filed_pct": 97.27,
       "max_abs_swing": 3.85,
       "biggest_single_jump": [
-        "IS1605682",
+        "IS",
         3.85
       ]
     },
@@ -988,7 +988,7 @@
       "changed_of_filed_pct": 94.48,
       "max_abs_swing": 2.7,
       "biggest_single_jump": [
-        "AR1581642",
+        "AR",
         2.7
       ]
     },
@@ -1007,7 +1007,7 @@
       "changed_of_filed_pct": 93.73,
       "max_abs_swing": 2.9,
       "biggest_single_jump": [
-        "MH1422600",
+        "MH",
         2.9
       ]
     },
@@ -1026,7 +1026,7 @@
       "changed_of_filed_pct": 98.71,
       "max_abs_swing": 2.0,
       "biggest_single_jump": [
-        "SM1602324",
+        "SM",
         2.0
       ]
     }
@@ -1113,6 +1113,7 @@
   },
   "school_deep": {
     "n_analyzed": 1137,
+    "rule": "scoli grupate dupa denumire (o denumire in doua judete conteaza o data), cu >= 20 candidati prezentati si medie calculabila",
     "highest_variance": [
       {
         "school": "LICEUL TEORETIC \"DR.VICTOR GOMOIU\"",
@@ -5199,22 +5200,22 @@
     "biggest_contestation_jumps": [
       {
         "subject": "romana",
-        "cod_candidat": "IS1605682",
+        "cod_candidat": "IS",
         "delta": 3.85
       },
       {
         "subject": "alegere",
-        "cod_candidat": "MH1422600",
+        "cod_candidat": "MH",
         "delta": 2.9
       },
       {
         "subject": "profil",
-        "cod_candidat": "AR1581642",
+        "cod_candidat": "AR",
         "delta": 2.7
       },
       {
         "subject": "materna",
-        "cod_candidat": "SM1602324",
+        "cod_candidat": "SM",
         "delta": 2.0
       }
     ]
@@ -5556,7 +5557,7 @@
     },
     "school_pass_bins": {
       "095-100%": 157,
-      "100-105%": 67,
+      "100%": 67,
       "090-095%": 97,
       "080-085%": 64,
       "085-090%": 66,

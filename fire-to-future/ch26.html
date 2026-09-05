@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Part III's climax: converting mechanical power into the universal currency of electricity and distributing it. The physics is all Faraday/Maxwell (<a href="ch25.html">Ch 25</a>); this chapter is engineering scale-up — and one decisive architecture fight (AC vs DC) that you can win in advance.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Self-exciting dynamo loop">
+<title>Self-exciting dynamo loop</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 26.1 — The bootstrap trick: residual magnetism seeds its own field (1866)</text>
 <circle cx="150" cy="110" r="40" fill="none" stroke="#16130e" stroke-width="2"/>
@@ -286,12 +310,14 @@ body {
 </ul>
 <p><strong>Filament program (Menlo Park pattern):</strong> test thousands of candidates (bamboo won first), log hours-to-failure per batch, vacuum to &lt;1 torr, seal while hot. The lamp is 10% glassware, 90% quality statistics — the laboratory, not the bulb, was Edison's invention (<a href="ch47.html">Ch 47</a>).</p>
 <h2 id="ch26_electricity_2-263-the-grid-begins">26.3 The Grid Begins</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> grids kill linemen and the public by arc flash, step voltage, and backfeed — high voltage jumps gaps, grounds energize earth for meters, and "dead" lines re-energize from generators. Isolate, lock, test-before-touch, ground both sides of the work zone, and treat every conductor as live until proven dead twice.</p>
 <p>Pearl Street Station (1882): steam engine + Jumbo dynamos serving ~60 customers within a kilometer — DC's radius limit made visible. Every district needed its own plant (<strong>Dead end avoided:</strong> don't build the dense DC-megaplant future; it dies against transformer arithmetic below).</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Transformer transmission arithmetic">
+<title>Transformer transmission arithmetic</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 26.2 — Transformers make distance trivial (2× volts = ¼ loss)</text>
-<rect x="40" y="60" width="90" height="60" rx="6" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
+<rect x="40" y="60" width="90" height="60" rx="6" fill="#9a927e" stroke="#16130e" stroke-width="2"/>
 <text x="85" y="80" text-anchor="middle" font-size="10" font-weight="bold" fill="#fff">GENERATE</text>
 <text x="85" y="94" text-anchor="middle" font-size="9" fill="#fff">low V, big I</text>
 <rect x="160" y="60" width="100" height="60" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>

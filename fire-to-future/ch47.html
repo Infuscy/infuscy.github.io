@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -226,6 +249,7 @@ Doctrine: measurement integrity precedes capital accumulation — always.</li>
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Double entry balance schematic">
+<title>Double entry balance schematic</title>
 <rect x="0" y="0" width="640" height="190" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 47.1 — Every coin has two stories (debit = credit, always)</text>
 <rect x="60" y="55" width="200" height="80" fill="#fff" stroke="#16130e" stroke-width="1.5"/>
@@ -361,6 +385,7 @@ Doctrine: measurement integrity precedes capital accumulation — always.</li>
 <p><strong>Worked example</strong> (one process, end to end): a fab line tracks lot yield %. Twenty-five subgroups of n = 5 give grand mean X̿ = 89.0 % and mean range R̄ = 6.0 points. Limits: X̄ chart at 89.0 ± 0.577 × 6.0 → <strong>UCL 92.5 / LCL 85.5</strong>; R-chart UCL = 2.114 × 6.0 = <strong>12.7</strong>, LCL 0; σ̂ = 6.0/2.326 = 2.58 points. Next week's first subgroup averages 94.0 (range 5 — the range is fine, the level moved). That is a signal, not an excuse to celebrate: hunt the assignable cause. It was a new photoresist lot; quarantine it, log the event on the chart, limits stay where they are until the fix is <em>verified</em> and a deliberate rebaseline locks the improvement in.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="X-bar control chart schematic">
+<title>X-bar control chart schematic</title>
 <rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 47.2 — The chart discriminates signal from noise (X̄, n = 5)</text>
 <line x1="60" y1="60" x2="580" y2="60" stroke="#8f3b2d" stroke-width="1.5" stroke-dasharray="6,3"/>

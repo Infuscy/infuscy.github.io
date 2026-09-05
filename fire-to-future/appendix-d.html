@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -280,6 +303,7 @@ Collapse: every physical ladder above stalls at trust-radius scale. This is the 
 <h2 id="appendix_D_minimum_viable_stack-d2-the-8020-audit-if-you-can-fund-only-five">D.2 The 80/20 Audit — If You Can Fund Only Five</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Minimum viable stack pyramid">
+<title>Minimum viable stack pyramid</title>
 <rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig D.1 — Sixteen nodes, four layers, one wrapping (lose any layer, lose the ceiling)</text>
 <g font-size="9" text-anchor="middle" font-weight="bold">

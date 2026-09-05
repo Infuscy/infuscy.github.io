@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,9 +241,10 @@ body {
 <p>Agriculture's ancient nitrogen ledger (<a href="ch07.html">Ch 7</a>) capped populations at what manure and legumes could fix. Breaking that cap — plus genetics plus machines — tripled grain yields and made the modern world demographically possible. Roughly half the nitrogen atoms in your body passed through a Haber reactor.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Haber-Bosch recycle loop">
+<title>Haber-Bosch recycle loop</title>
 <rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 32.1 — Haber-Bosch: 15% per pass → ~97% via recycle</text>
-<rect x="40" y="70" width="110" height="60" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<rect x="40" y="70" width="110" height="60" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
 <text x="95" y="88" text-anchor="middle" font-size="10" font-weight="bold">N₂ + 3H₂</text>
 <text x="95" y="100" text-anchor="middle" font-size="9">1 : 3, purified</text>
 <text x="95" y="112" text-anchor="middle" font-size="9">S-free, CO-free</text>
@@ -230,7 +254,7 @@ body {
 <text x="320" y="101" text-anchor="middle" font-size="9">~450–500 °C</text>
 <text x="320" y="112" text-anchor="middle" font-size="9">Fe (K/Al promoted)</text>
 <text x="320" y="126" text-anchor="middle" font-size="9" font-style="italic">~15% converts/pass</text>
-<rect x="480" y="70" width="120" height="60" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
+<rect x="480" y="70" width="120" height="60" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
 <text x="540" y="88" text-anchor="middle" font-size="10" font-weight="bold">CONDENSE NH₃</text>
 <text x="540" y="100" text-anchor="middle" font-size="9">cool → liquid out</text>
 <text x="540" y="112" text-anchor="middle" font-size="9">unreacted loops back</text>
@@ -311,18 +335,19 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Yield staircase">
+<title>Yield staircase</title>
 <rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 32.2 — The yield staircase (wheat/rice, t/ha, schematic)</text>
 <g font-size="10">
-<rect x="80" y="120" width="90" height="30" fill="#9a927e" stroke="#16130e"/>
+<rect x="80" y="120" width="90" height="30" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
 <text x="125" y="139" text-anchor="middle" font-weight="bold">~1–2</text>
 <text x="125" y="163" text-anchor="middle" font-size="9">landrace,</text>
 <text x="125" y="174" text-anchor="middle" font-size="9">no inputs</text>
-<rect x="190" y="100" width="90" height="50" fill="#c9a86a" stroke="#16130e"/>
+<rect x="190" y="100" width="90" height="50" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/>
 <text x="235" y="129" text-anchor="middle" font-weight="bold">~2–4</text>
 <text x="235" y="163" text-anchor="middle" font-size="9">+ NPK +</text>
 <text x="235" y="174" text-anchor="middle" font-size="9">water</text>
-<rect x="300" y="100" width="90" height="50" fill="#c9a86a" stroke="#8f3b2d" stroke-dasharray="5,3"/>
+<rect x="300" y="100" width="90" height="50" fill="#c9a86a" stroke="#8f3b2d" stroke-width="1.5" stroke-dasharray="5,3"/>
 <text x="345" y="129" text-anchor="middle" font-weight="bold">lodges!</text>
 <text x="345" y="163" text-anchor="middle" font-size="9">tall + heavy</text>
 <text x="345" y="174" text-anchor="middle" font-size="9">= flat crop</text>
@@ -331,7 +356,7 @@ body {
 <text x="465" y="163" text-anchor="middle" font-size="9">dwarf + NPK</text>
 <text x="465" y="174" text-anchor="middle" font-size="9">+ water + care</text>
 </g>
-<line x1="60" y1="150" x2="540" y2="150" stroke="#16130e" stroke-width="1"/>
+<line x1="60" y1="150" x2="540" y2="150" stroke="#16130e" stroke-width="1.5"/>
 <text x="560" y="100" font-size="9" font-weight="bold">short stiff</text>
 <text x="560" y="111" font-size="9" font-weight="bold">straw holds</text>
 <text x="560" y="122" font-size="9">grain, not straw</text>
@@ -341,6 +366,7 @@ body {
 
 <p><strong>Shuttle-breeding hack (Borlaug pattern):</strong> plant two nurseries at different latitudes/altitudes per year (e.g., valley + highland) to double generations, select for broad adaptation + rust resistance simultaneously. Keep pedigree books ruthless: every cross numbered, every row scored for height, heading date, disease, lodging, threshability. Release only after multi-location trials beat the local check in at least two seasons.</p>
 <h2 id="ch32_green_revolution-324-crop-protection">32.4 Crop Protection</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> crop poisons poison applicators first — concentrates burn skin and lungs, drift hits families and bees, and washed-off residues enter wells. Mix and spray only upwind with cover and wash stations staged, observe re-entry and pre-harvest intervals, lock concentrates from children and food stores, and prefer IPM thresholds so chemistry stays the last resort, not the first patrol.</p>
 <ul>
 <li>Generations: inorganic poisons (Paris green) → organochlorines (DDT: WWII malaria victories, then resistance + bioaccumulation documented by Carson 1962) → selective organophosphates/carbamates → integrated pest management (IPM): thresholds before spraying, biological controls, resistant varieties, targeted chemistry as last resort.</li>
 <li><strong>Dead end avoided:</strong> spray-everything schedules breed resistance within seasons (evolution doesn't negotiate) and nuke beneficial predators that were doing free pest control. IPM is the corrected path; herbicide-tolerant crops later integrate cleanly INTO IPM rather than replacing it.</li>
@@ -418,7 +444,7 @@ body {
 </tbody>
 </table></div>
 <p class="co co-key"><strong>Key threshold:</strong> national cereal yields sustained above ~4 t/ha with stable input supply mark food-security independence. Below that line, every drought is a political crisis; above it, agriculture becomes an export industry and population policy stabilizes (<a href="ch30.html">Ch 30</a>'s demographic transition completes).</p>
-<h2 id="ch32_green_revolution-328-the-green-revolution-record">32.8 The Green Revolution Record</h2>
+<h2 id="ch32_green_revolution-327-the-green-revolution-record">32.7 The Green Revolution Record</h2>
 <ul>
 <li><strong>Haber-Bosch went to war first:</strong> Oppau's ammonia fed the Ostwald process (ammonia → nitric acid → explosives) once British naval blockade choked Chilean saltpeter in WWI — synthetic nitrogen sustained German munitions for years. Dual-use from day one; the fertilizer dividend came only after 1918, and Chile's nitrate economy collapsed into depression as a direct consequence. Energy-dense chemistry does not choose its customers.</li>
 <li><strong>Borlaug's shuttle breeding (Mexico, 1944–53):</strong> two nurseries at different latitudes doubled generations per year — geography hacked for breeding speed; stem-rust resistance came from thousands of crosses. Norin 10 dwarfing genes reached him via Orville Vogel (Washington State), whose source traced to Japanese breeding lines. CIMMYT institutionalized the pipeline.</li>
@@ -426,7 +452,7 @@ body {
 <li>The famine-that-wasn't context: 1960s neo-Malthusian bestsellers (<em>Famine—1975!</em> etc.) predicted mass starvation; PL-480 food-aid politics and Green Revolution yields jointly falsified the near-term forecasts. Later scholars credit both factors and note India's monsoon luck; the book records the forecast failure without crowing.</li>
 <li><strong>Nobel Peace Prize, Borlaug, 1970</strong> — an agronomist winning peace's prize is itself data about what feeding people prevents.</li>
 </ul>
-<h2 id="ch32_green_revolution-329-village-package-one-page-extension-order">32.9 Village Package (One-Page Extension Order)</h2>
+<h2 id="ch32_green_revolution-328-village-package-one-page-extension-order">32.8 Village Package (One-Page Extension Order)</h2>
 <p>Seed of adapted dwarf/hybrid (certified, fresh yearly) + soil test + lime + split NPK + water schedule + IPM scouting card + storage crib dried below 13 % moisture (<a href="appendix-g.html">App G</a>) + grain reserve ledger. Deliver as a kit with a demonstration plot beside the farmer's own field — side-by-side harvest weights persuade where pamphlets fail.</p>
 </main>
 <nav class="reader-bottom-nav">

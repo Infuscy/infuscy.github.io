@@ -204,9 +204,11 @@ class Converter:
             body,
             flags=re.S,
         )
-        # callout paragraphs
+        # callout paragraphs (mirrors book/tools/build_html.py Gate 4 mapping)
         labels = {
             "key threshold": "key", "dead end avoided": "dead", "dead end": "dead", "jump": "jump",
+            "safety warning": "warn", "operational hazard": "hazard", "scope note": "scope",
+            "safety doctrine": "warn", "safety doctrine (binding)": "warn", "scope note (binding)": "scope",
         }
 
         def callout(m):
@@ -215,7 +217,7 @@ class Converter:
             return f'<p class="co co-{cls}"><strong>{label}:</strong>'
 
         body = re.sub(
-            r"<p><strong>(Key threshold|Dead end avoided|Dead end|Jump)[:.]?</strong>",
+            r"<p><strong>(Key threshold|Dead end avoided|Dead end|Jump|Safety warning|Operational hazard|Scope note|Safety doctrine(?: \(binding\))?|Scope note \(binding\))[:.]?</strong>",
             callout,
             body,
         )
@@ -363,6 +365,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }

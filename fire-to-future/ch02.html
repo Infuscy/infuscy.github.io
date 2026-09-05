@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,22 +241,23 @@ body {
 <p>Tools are the first <em>self-replicating</em> technology: you need a tool to make better tools. The goal of this chapter is not museum-quality knapping but a working reduction sequence — a repeatable path from raw rock to a maintained edge, plus the organic toolkit that stone alone cannot provide.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Reduction sequence flowchart">
+<title>Reduction sequence flowchart</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 2.1 — The reduction sequence (follow left → right, never skip)</text>
 <g font-size="9" text-anchor="middle">
-<rect x="10" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="10" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="62" y="80" font-weight="bold">1. SELECT</text>
 <text x="62" y="92">ring-test</text>
 <text x="62" y="103">nodule</text>
-<rect x="133" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="133" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="185" y="80" font-weight="bold">2. HARD</text>
 <text x="185" y="92">hammerstone</text>
 <text x="185" y="103">~120° strike</text>
-<rect x="256" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="256" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="308" y="80" font-weight="bold">3. SOFT</text>
 <text x="308" y="92">antler billet</text>
 <text x="308" y="103">thin + shape</text>
-<rect x="379" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="379" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="431" y="80" font-weight="bold">4. PRESSURE</text>
 <text x="431" y="92">tine flaker</text>
 <text x="431" y="103">edge + haft</text>
@@ -256,6 +280,7 @@ body {
 </figure>
 
 <h2 id="ch02_toolkit-21-stone-selection">2.1 Stone Selection</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> knapping throws razor flakes and silica dust — eyes cut before pain registers, dust scars lungs over seasons, and heat-treating stone spalls explosively when rushed. Knapp seated with eyes covered, strike away from hands and bystanders over a hide sheet, wet-grind or ventilate dusty work, and heat chert buried under sand with slow ramps only.</p>
 <ul>
 <li><strong>Conchoidal fracturers</strong> (flint, chert, obsidian, chalcedony) break with sharp, predictable edges. Test by striking a fresh face: clean ripples = good; dull granular break = poor.</li>
 <li><strong>Heat treatment</strong> improves marginal cherts: slow-bake buried under sand at ~250–400 °C for hours; color deepens, luster rises, flaking becomes easier. This is humanity's first materials-science process — kiln-adjacent thinking from day one (<a href="ch05.html">Ch 5</a>).</li>
@@ -321,6 +346,7 @@ body {
 <p class="co co-key"><strong>Key threshold:</strong> an edge angle of 20–40° cuts efficiently; steeper scrapers (45–70°) shave hides and wood. Match geometry to task instead of chasing one universal form.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 170" width="100%" role="img" aria-label="Edge angle guide">
+<title>Edge angle guide</title>
 <rect x="0" y="0" width="640" height="170" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 2.2 — Edge-angle guide (cross-sections, exaggerated)</text>
 <g stroke="#16130e" stroke-width="1.5">

@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,22 +241,23 @@ body {
 <p>Printing is the meta-invention: it accelerates the invention of everything else by collapsing the cost of copying exact information — diagrams included, which speech cannot carry. A civilization that prints cheaply runs its technology tree in decades instead of centuries.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Type-making chain">
+<title>Type-making chain</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 18.1 — The punch → matrix → caster → type chain (Gutenberg's system)</text>
 <g font-size="9" text-anchor="middle">
-<rect x="15" y="55" width="140" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="15" y="55" width="140" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="85" y="72" font-weight="bold">1. PUNCH</text>
 <text x="85" y="84">hardened steel</text>
 <text x="85" y="95">letter cut in</text>
 <text x="85" y="106">relief, mirrored</text>
 <text x="85" y="120" font-style="italic">one per sort</text>
-<rect x="172" y="55" width="140" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="172" y="55" width="140" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="242" y="72" font-weight="bold">2. MATRIX</text>
 <text x="242" y="84">punch struck</text>
 <text x="242" y="95">into soft copper</text>
 <text x="242" y="106">= reusable mold</text>
 <text x="242" y="120" font-style="italic">the master</text>
-<rect x="329" y="55" width="140" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="329" y="55" width="140" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="399" y="72" font-weight="bold">3. HAND MOULD</text>
 <text x="399" y="84">adjustable caster</text>
 <text x="399" y="95">matrix + body</text>
@@ -319,6 +343,7 @@ body {
 <p>Water-based carbon inks bead on metal type. Printing needs a viscous varnish ink: boil linseed oil (or walnut) to varnish thickness, stir in lampblack until glossy black. Varnish temperature controls tack; too stiff, it pulls type out of form; too loose, it squashes.</p>
 <p><strong>Reference batch:</strong> ~2 L linseed oil boiled outdoors (fire risk — it foams and can ignite) until a cooled drop strings ~2 cm between fingers; stir in ~400–600 g lampblack plus a spoon of rosin varnish. Grind on a slab with a muller until no grit shows between teeth. Store under water film in sealed pots. Test-tack rule: dabbed type should print solid black with crisp edges at one firm pull — halo squeeze means too loose, grey mottle means too stiff or under-inked.</p>
 <h2 id="ch18_printing-183-movable-type-systematics">18.3 Movable Type Systematics</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> type metal and inks poison slowly — molten lead fumes and dust accumulate, antimony fumes sicken, and oil-ink solvents flash near dryers. Melt and cast only ventilated with fume capture, keep food and drink from benches, wash hands and cover cuts before meals, and store solvents from heat with extinguishers staged.</p>
 <p>Gutenberg's real invention was the SYSTEM, not the idea of movable type:</p>
 <ol>
 <li><strong>Punch:</strong> cut a steel letterface hard.</li>
@@ -332,6 +357,7 @@ body {
 <p>A wine-style screw press adapted: flat bed holds the locked forme (type face-up), paper held in a hinged "frisket/tympan" sandwich folds down, screw drives a platen pressing one page area per pull. Two trained men run ~200–250 sheets/hour single-sided. Compose → lock (quoins wedged against furniture) → ink with leather dabbers → print → distribute type back to cases. Page imposition (arranging pages so folded sheets read correctly) is bookkeeping-level cleverness that halves binding labor.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Common press schematic">
+<title>Common press schematic</title>
 <rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 18.2 — Common press: one pull, one page (side view)</text>
 <line x1="180" y1="45" x2="180" y2="185" stroke="#4a4436" stroke-width="10"/>

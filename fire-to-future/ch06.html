@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Shelter converts climate into survivability and stored goods into lasting goods. The engineering problem never changes across the book: keep loads traveling safely to the ground, keep water out, keep heat in, keep pests away from food. Solve it with whatever material is densest on site.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Roof pitch and load paths">
+<title>Roof pitch and load paths</title>
 <rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 6.1 — Pitch sheds weather, triangles carry loads, eaves save walls</text>
 <g stroke="#16130e" stroke-width="2" fill="none">
@@ -348,6 +372,7 @@ body {
 </tbody>
 </table></div>
 <h2 id="ch06_shelter-63-heat-and-smoke-management">6.3 Heat and Smoke Management</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> indoor fire smokes lungs and ignites roofs — CO and particulates poison sleepers silently, creosote-lined flues flash into chimney fires, and thatch catches from single sparks. Line flues, separate hearths 1 m+ from thatch with spark arrestors, sweep quarterly, vent sleeping rooms always, and never bank fires in sealed shelters (see <a href="ch01.html">Ch 1</a> §1.11).</p>
 <p>The open central hearth with a smoke hole is the default: radiant heat warms bodies and mass, smoke preserves the thatch and repels insects, but it means smoky eyes and blackened roofs. Upgrades in order:</p>
 <ol>
 <li><strong>Raised hearth stone</strong> (safer, radiates longer).</li>
@@ -369,28 +394,29 @@ body {
 <h2 id="ch06_shelter-65-settlement-layout">6.5 Settlement Layout</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Settlement layout schematic">
+<title>Settlement layout schematic</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 6.2 — Put smells and smoke downwind, water uphill of everything dirty</text>
 <rect x="30" y="40" width="580" height="130" fill="#fff" stroke="#16130e" stroke-width="1.5"/>
 <text x="320" y="35" text-anchor="middle" font-size="9" font-style="italic">prevailing wind → (place accordingly) · slope falls toward river</text>
 <rect x="60" y="60" width="90" height="40" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
 <text x="105" y="76" text-anchor="middle" font-size="9" font-weight="bold">WELL / SPRING</text>
-<text x="105" y="88" text-anchor="middle" font-size="8">uphill, fenced</text>
+<text x="105" y="88" text-anchor="middle" font-size="9">uphill, fenced</text>
 <rect x="180" y="60" width="130" height="40" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
 <text x="245" y="76" text-anchor="middle" font-size="9" font-weight="bold">HOUSES (compact)</text>
-<text x="245" y="88" text-anchor="middle" font-size="8">south aspect, drainage</text>
+<text x="245" y="88" text-anchor="middle" font-size="9">south aspect, drainage</text>
 <rect x="330" y="60" width="100" height="40" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
 <text x="380" y="76" text-anchor="middle" font-size="9" font-weight="bold">GRANARY</text>
-<text x="380" y="88" text-anchor="middle" font-size="8">center, guarded</text>
-<rect x="450" y="60" width="130" height="40" fill="#efe9db" stroke="#16130e"/>
+<text x="380" y="88" text-anchor="middle" font-size="9">center, guarded</text>
+<rect x="450" y="60" width="130" height="40" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
 <text x="515" y="76" text-anchor="middle" font-size="9" font-weight="bold">MARKET GREEN</text>
-<text x="515" y="88" text-anchor="middle" font-size="8">assembly + trade</text>
+<text x="515" y="88" text-anchor="middle" font-size="9">assembly + trade</text>
 <rect x="180" y="115" width="130" height="40" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
 <text x="245" y="131" text-anchor="middle" font-size="9" font-weight="bold">LIVESTOCK ↓ slope</text>
-<text x="245" y="143" text-anchor="middle" font-size="8">downwind, downslope</text>
-<rect x="330" y="115" width="100" height="40" fill="#9a927e" stroke="#16130e"/>
+<text x="245" y="143" text-anchor="middle" font-size="9">downwind, downslope</text>
+<rect x="330" y="115" width="100" height="40" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
 <text x="380" y="131" text-anchor="middle" font-size="9" font-weight="bold" fill="#fff">SMITH / KILN</text>
-<text x="380" y="143" text-anchor="middle" font-size="8" fill="#fff">fire downwind</text>
+<text x="380" y="143" text-anchor="middle" font-size="9" fill="#fff">fire downwind</text>
 <text x="320" y="185" text-anchor="middle" font-size="9">latrines + tanning lowest, 30 m+ from wells · ditches drain everything away from water</text>
 </svg>
 <figcaption><strong>Figure 6.2.</strong> Gravity and wind do the sanitation zoning free: clean water highest, houses mid-slope, animals and fire lowest and downwind, wastes farthest down. The market green at center is governance's first real estate (Ch 47).</figcaption>
@@ -398,7 +424,7 @@ body {
 
 <p>Compact clusters beat scattered homesteads for defense and shared infrastructure (wells, mills, granaries). Reserve a central open ground for markets and assemblies — the physical seed of governance (<a href="ch47.html">Ch 47</a>). Keep livestock downwind/downslope of dwellings and wells; the germ theory payoff comes much later (<a href="ch30.html">Ch 30</a>), but empirical "smelly places sicken" rules save lives centuries earlier.</p>
 <p class="co co-dead"><strong>Dead end avoided:</strong> monumental construction before functional capacity. Pyramids and temples are downstream luxuries; every hour spent on prestige masonry before granaries, mills, and workshops is borrowed from survival.</p>
-<h2 id="ch06_shelter-67-the-built-record">6.7 The Built Record</h2>
+<h2 id="ch06_shelter-66-the-built-record">6.6 The Built Record</h2>
 <p>Shelter history has spectacular surviving data points:</p>
 <ul>
 <li><strong>Mezhirich (Ukraine, ~15 ka):</strong> dwellings framed in stacked mammoth bones — architecture built from megafauna leftovers at glacial margins.</li>
@@ -408,7 +434,7 @@ body {
 <li>Mesopotamian mudbrick standardization (flat-molded bricks of regular size) made construction administrable — labor crews could be fed, tasked, and audited (<a href="ch11.html">Ch 11</a>).</li>
 </ul>
 <p>One health footnote historians of housing emphasize: biomass smoke indoors remains among the largest documented household hazards — recent WHO/IHME estimates attribute roughly 2–3 million premature deaths annually to household air pollution even today. Chimney adoption (<a href="#ch06_shelter-63-heat-and-smoke-management">§6.3</a>) was always public-health infrastructure, not comfort alone.</p>
-<h2 id="ch06_shelter-68-maintenance-calendar">6.8 Maintenance Calendar</h2>
+<h2 id="ch06_shelter-67-maintenance-calendar">6.7 Maintenance Calendar</h2>
 <p>Spring: re-thatch worn slopes, clear ditches, repoint daub cracks. Summer: cut + stack thatch reed, burn lime wash (disinfects + seals). Autumn: chimney sweep, granary rat-collar check, fuel stack under cover. Winter: indoor repairs (tools, looms, baskets — <a href="ch03.html">Ch 3</a>), snow-load watch on shallow roofs. A house maintained one week a year stands a century; a neglected one fails in five.</p>
 </main>
 <nav class="reader-bottom-nav">

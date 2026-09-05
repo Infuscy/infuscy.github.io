@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -216,23 +239,24 @@ body {
 </blockquote>
 <h2 id="appendix_G_key_numbers-temperature-ladder-c">Temperature Ladder (°C)</h2>
 <figure class="fig">
-<svg viewBox="0 0 640 120" width="100%" role="img" aria-label="Temperature ladder strip">
-<rect x="0" y="0" width="640" height="120" fill="#fbf9f3"/>
-<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig G.1 — Heat ladder: every threshold below, at a glance (laminate this)</text>
-<rect x="30" y="40" width="580" height="30" fill="#4a4436" stroke="#16130e" stroke-width="1.5"/>
-<rect x="30" y="40" width="90" height="30" fill="#3a2e22"/>
-<rect x="120" y="40" width="90" height="30" fill="#7a3b28"/>
-<rect x="210" y="40" width="110" height="30" fill="#c96a2e"/>
-<rect x="320" y="40" width="110" height="30" fill="#e8a83c"/>
-<rect x="430" y="40" width="180" height="30" fill="#f5e6b8"/>
+<svg viewBox="0 0 640 185" width="100%" role="img" aria-label="Temperature ladder strip">
+<title>Temperature ladder strip</title>
+<rect x="0" y="0" width="640" height="185" fill="#fbf9f3"/>
+<text x="320" y="26" text-anchor="middle" font-size="13" font-weight="bold">Fig G.1 — Heat ladder: every threshold below, at a glance (laminate this)</text>
+<rect x="30" y="52" width="580" height="54" fill="#4a4436" stroke="#16130e" stroke-width="1.5"/>
+<rect x="30" y="52" width="90" height="54" fill="#3a2e22"/>
+<rect x="120" y="52" width="90" height="54" fill="#7a3b28"/>
+<rect x="210" y="52" width="110" height="54" fill="#c96a2e"/>
+<rect x="320" y="52" width="110" height="54" fill="#e8a83c"/>
+<rect x="430" y="52" width="180" height="54" fill="#f5e6b8"/>
 <g font-size="9" text-anchor="middle" font-weight="bold">
-<text x="75" y="52">260–600</text><text x="75" y="63" font-size="8">fire · pottery</text>
-<text x="165" y="52">770–900</text><text x="165" y="63" font-size="8">steel · lime</text>
-<text x="265" y="52">1,085–1,200</text><text x="265" y="63" font-size="8">copper · charcoal</text>
-<text x="375" y="52">1,414–1,538</text><text x="375" y="63" font-size="8">silicon · iron</text>
-<text x="520" y="52">1,700–3,500</text><text x="520" y="63" font-size="8">filament · arc</text>
+<text x="75" y="76">260–600</text><text x="75" y="94">fire · pottery</text>
+<text x="165" y="76">770–900</text><text x="165" y="94">steel · lime</text>
+<text x="265" y="76">1,085–1,200</text><text x="265" y="94">copper · charcoal</text>
+<text x="375" y="76">1,414–1,538</text><text x="375" y="94">silicon · iron</text>
+<text x="520" y="76">1,700–3,500</text><text x="520" y="94">filament · arc</text>
 </g>
-<text x="320" y="92" text-anchor="middle" font-size="10">full table follows (temps · ratios · power · motion · health · discipline) — each entry links its chapter</text>
+<text x="320" y="140" text-anchor="middle" font-size="10">full table follows (temps · ratios · power · motion · health · discipline) — each entry links its chapter</text>
 </svg>
 <figcaption><strong>Figure G.1.</strong> The book's heat thresholds on one strip — fire piston to carbon arc. Pin beside Appendix A: sequence on one wall, numbers on the other.</figcaption>
 </figure>

@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Glass that bends light is the first instrument that extends a human sense beyond biology. Two inventions — telescope and microscope — rewrite astronomy, navigation, and medicine within a century of each other; both come from the same craft skill: grinding spherical surfaces.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Convex lens ray diagram">
+<title>Convex lens ray diagram</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 19.1 — Convex lens: parallel rays meet at the focal point</text>
 <line x1="30" y1="100" x2="610" y2="100" stroke="#9a927e" stroke-width="1" stroke-dasharray="6,4"/>
@@ -297,6 +321,7 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 250" width="100%" role="img" aria-label="Telescope configurations compared">
+<title>Telescope configurations compared</title>
 <rect x="0" y="0" width="640" height="250" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 19.2 — Three telescopes: same objective trick, different fixes</text>
 <text x="110" y="42" font-size="10" font-weight="bold">GALILEAN (1609)</text>
@@ -354,7 +379,7 @@ body {
 <li>Newton's reflecting prototype dates 1668 (Royal Society demo 1671–72); William Herschel's home-built giants found Uranus (1781) — amateur instrument-makers discovering planets is the strongest advertisement this chapter can offer.</li>
 </ul>
 <h2 id="ch19_optics-198-safe-sun-doctrine">19.8 Safe Sun Doctrine</h2>
-<p>Never look through any telescope at the Sun. The only permitted solar methods: (1) projection — eyepiece throws the disk onto white paper in shade, observers look at paper; (2) pinhole — no optics at all. A moment's direct view through an objective focuses ~100× solar flux onto a retina and blinds permanently. Post the rule on the mount itself, not in a manual nobody reads.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> telescope objectives focus sunlight to blinding intensity — one direct glance destroys a retina permanently, and filters at the eyepiece crack under heat without warning. Never look through any telescope at the Sun. The only permitted solar methods: (1) projection — eyepiece throws the disk onto white paper in shade, observers look at paper; (2) pinhole — no optics at all. A moment's direct view through an objective focuses ~100× solar flux onto a retina and blinds permanently. Post the rule on the mount itself, not in a manual nobody reads.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch18.html" class="reader-nav-link">← Chapter 18</a>

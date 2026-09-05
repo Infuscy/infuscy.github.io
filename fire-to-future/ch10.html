@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Copper taught humanity metallurgy; bronze taught it alloy design and industrial scale. But this guide's thesis says: learn their lessons fast, then move to iron (<a href="ch14.html">Ch 14</a>) — bronze's economics depended on rare tin geography that no plan should copy.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 230" width="100%" role="img" aria-label="Shaft furnace cross section">
+<title>Shaft furnace cross section</title>
 <rect x="0" y="0" width="640" height="230" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 10.1 — Clay shaft furnace for copper smelting (cross-section)</text>
 <path d="M240,50 L400,50 L420,200 L220,200 Z" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
@@ -229,8 +253,8 @@ body {
 <text x="320" y="130" text-anchor="middle" font-size="9" fill="#fff">alternating charge, hand-size lumps</text>
 <ellipse cx="320" cy="165" rx="55" ry="18" fill="#c96a2e" stroke="#16130e" stroke-width="1.5"/>
 <text x="320" y="169" text-anchor="middle" font-size="9" font-weight="bold">MOLTEN ZONE ~1,100–1,200 °C</text>
-<rect x="295" y="183" width="50" height="14" fill="#8f3b2d"/>
-<text x="320" y="193" text-anchor="middle" font-size="8" fill="#fff">blister Cu</text>
+<rect x="288" y="183" width="64" height="15" fill="#8f3b2d"/>
+<text x="320" y="194" text-anchor="middle" font-size="9" fill="#fff">blister Cu</text>
 <rect x="180" y="140" width="60" height="18" fill="#9a927e" stroke="#16130e" stroke-width="1.5" transform="rotate(-20 210 149)"/>
 <text x="150" y="130" font-size="9" font-weight="bold">TUYÈRE</text>
 <text x="150" y="141" font-size="9">bellows air in low</text>
@@ -242,12 +266,13 @@ body {
 <text x="320" y="28" text-anchor="middle" font-size="9" font-style="italic">charge from top, exhaust escapes</text>
 <text x="90" y="200" font-size="9">clay-lined shaft</text>
 <text x="90" y="210" font-size="9">~60–100 cm tall</text>
-<line x1="200" y1="198" x2="220" y2="190" stroke="#16130e" stroke-width="1"/>
+<line x1="200" y1="198" x2="220" y2="190" stroke="#16130e" stroke-width="1.5"/>
 </svg>
 <figcaption><strong>Figure 10.1.</strong> The shaft furnace is a chimney that concentrates bellows air where it matters. Ore and charcoal enter the top; air enters low through the clay tuyère; dense copper pools at the bottom while lighter slag floats and is tapped off. slag left inside poisons the batch — tapping is the skill.</figcaption>
 </figure>
 
 <h2 id="ch10_copper_bronze-101-native-copper-and-first-melting">10.1 Native Copper and First Melting</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> copper melting pairs 1,085 °C metal with charcoal CO and crucible failure — odorless gas pools low, molds spit steam when damp, and dropped crucibles splash molten metal meters. Melt only ventilated with dry molds and tools, preheat everything the metal touches, wear face and leather cover, and carry full crucibles on practiced paths with spill sand staged.</p>
 <p>Some copper occurs as pure metal in rock. Hammered cold, it work-hardens into tools; heated and quenched, it softens again (annealing). Melting point 1,085 °C is achievable with charcoal + bellows in a ceramic crucible (<a href="ch05.html">Ch 5</a>) — and molten copper pours into stone or clay molds, replicating any shape indefinitely.</p>
 <p><strong>Field identification:</strong> native copper appears as dendritic (branching) masses or rounded nuggets in basalt cavities, often with green carbonate staining nearby. The staining is the prospecting signal — follow green/blue rock paint uphill to the lode (<a href="ch13.html">Ch 13</a>). Cold-hammer a flake: copper flattens without cracking (unlike pyrite or mica, which shatter or flake). Anneal at dull red (~600 °C) whenever hammering stiffens the piece; quench in water — unlike steel, quenching softens copper.</p>
 <h2 id="ch10_copper_bronze-102-smelting-ore">10.2 Smelting Ore</h2>
@@ -289,13 +314,14 @@ body {
 </table></div>
 <figure class="fig">
 <svg viewBox="0 0 640 170" width="100%" role="img" aria-label="Hardness versus tin content bar chart">
+<title>Hardness versus tin content bar chart</title>
 <rect x="0" y="0" width="640" height="170" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 10.2 — Why ~10% tin (relative hardness, copper = 1.0)</text>
 <rect x="60" y="40" width="520" height="90" fill="none" stroke="#16130e" stroke-width="1.5"/>
-<rect x="70" y="105" width="80" height="15" fill="#c9a86a" stroke="#16130e"/><text x="70" y="100" font-size="9">Cu (1.0)</text>
-<rect x="70" y="85" width="160" height="15" fill="#c9a86a" stroke="#16130e"/><text x="235" y="96" font-size="9">5% Sn (~2×)</text>
+<rect x="70" y="105" width="80" height="15" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/><text x="70" y="100" font-size="9">Cu (1.0)</text>
+<rect x="70" y="85" width="160" height="15" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/><text x="235" y="96" font-size="9">5% Sn (~2×)</text>
 <rect x="70" y="65" width="280" height="15" fill="#8a6d1f" stroke="#16130e" stroke-width="1.5"/><text x="355" y="76" font-size="9" font-weight="bold">10% Sn (~3–4×) ← target</text>
-<rect x="70" y="45" width="300" height="15" fill="#9a927e" stroke="#16130e"/><text x="375" y="56" font-size="9">15% Sn (harder, brittle)</text>
+<rect x="70" y="45" width="300" height="15" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/><text x="375" y="56" font-size="9">15% Sn (harder, brittle)</text>
 <text x="320" y="148" text-anchor="middle" font-size="10" font-style="italic">past ~12% Sn gains stop and brittleness rises — more tin is not better</text>
 <text x="320" y="161" text-anchor="middle" font-size="10">lead adds flow, not hardness · arsenic hardens but poisons the smith</text>
 </svg>

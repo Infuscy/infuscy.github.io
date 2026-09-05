@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -511,31 +534,39 @@ body {
 <p><strong>Institutional underlay running parallel throughout:</strong> money integrity (<a href="ch09.html">9</a>), written law/administration (<a href="ch11.html">11</a>), double-entry accounting, joint-stock finance, statistics, logistics standardization (<a href="ch47.html">47</a>). Physical nodes fail without it — see <a href="appendix-b.html">Appendix B</a> failure modes.</p>
 <h2 id="appendix_A_critical_path-a2-parallel-tracks">A.2 Parallel Tracks</h2>
 <figure class="fig">
-<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Critical path ribbon across eras">
-<rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
+<svg viewBox="0 0 640 252" width="100%" role="img" aria-label="Critical path ribbon across eras">
+<title>Critical path ribbon across eras</title>
+<rect x="0" y="0" width="640" height="252" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig A.1 — The 40-node ribbon: six eras, three hinges, one underlay</text>
-<g font-size="8" text-anchor="middle" font-weight="bold">
-<rect x="10" y="45" width="95" height="70" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
-<text x="57" y="62">IGNITION</text><text x="57" y="73" font-weight="normal">1–8 fire→draft</text>
-<rect x="112" y="45" width="95" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
-<text x="159" y="62">ANCIENT</text><text x="159" y="73" font-weight="normal">9–16 coin→glass</text>
-<rect x="214" y="45" width="95" height="70" rx="6" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
-<text x="261" y="62">ACCEL.</text><text x="261" y="73" font-weight="normal">17–25 press→grid</text>
-<rect x="316" y="45" width="95" height="70" rx="6" fill="#e8c8c0" stroke="#8f3b2d" stroke-width="1.5"/>
-<text x="363" y="62">MODERN</text><text x="363" y="73" font-weight="normal">26–34 sanitation→tubes</text>
-<rect x="418" y="45" width="100" height="70" rx="6" fill="#eef5ec" stroke="#2e5b34" stroke-width="2"/>
-<text x="468" y="62">PLANETARY</text><text x="468" y="73" font-weight="normal">35–40 Si→orbit→net</text>
-<rect x="525" y="45" width="105" height="70" rx="6" fill="#4a4436"/>
-<text x="577" y="62" fill="#fff">MARTIAL</text><text x="577" y="73" fill="#fff" font-weight="normal">derivative (VI)</text>
+<g text-anchor="middle">
+<rect x="10" y="45" width="95" height="78" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
+<text x="57" y="64" font-size="10" font-weight="bold">IGNITION</text><text x="57" y="78" font-size="9">1–8 fire→draft</text>
+<rect x="112" y="45" width="95" height="78" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
+<text x="159" y="64" font-size="10" font-weight="bold">ANCIENT</text><text x="159" y="78" font-size="9">9–16 coin→glass</text>
+<rect x="214" y="45" width="95" height="78" rx="6" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<text x="261" y="64" font-size="10" font-weight="bold">ACCEL.</text><text x="261" y="78" font-size="9">17–25 press→grid</text>
+<rect x="316" y="45" width="95" height="78" rx="6" fill="#e8c8c0" stroke="#8f3b2d" stroke-width="2"/>
+<text x="363" y="64" font-size="10" font-weight="bold">MODERN</text><text x="363" y="78" font-size="9">26–34 san.→tubes</text>
+<rect x="418" y="45" width="100" height="78" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="468" y="64" font-size="10" font-weight="bold">PLANETARY</text><text x="468" y="78" font-size="9">35–40 Si→net</text>
+<rect x="525" y="45" width="105" height="78" rx="6" fill="#4a4436" stroke="#16130e" stroke-width="2"/>
+<text x="577" y="64" font-size="10" font-weight="bold" fill="#fff">MARTIAL</text><text x="577" y="78" font-size="9" fill="#fff">derivative (VI)</text>
 </g>
-<g stroke="#16130e" stroke-width="2">
-<line x1="105" y1="80" x2="112" y2="80"/><line x1="207" y1="80" x2="214" y2="80"/><line x1="309" y1="80" x2="316" y2="80"/><line x1="411" y1="80" x2="418" y2="80"/>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="105" y1="84" x2="112" y2="84"/><polygon points="112,79 112,89 119,84" fill="#16130e"/>
+<line x1="207" y1="84" x2="214" y2="84"/><polygon points="214,79 214,89 221,84" fill="#16130e"/>
+<line x1="309" y1="84" x2="316" y2="84"/><polygon points="316,79 316,89 323,84" fill="#16130e"/>
+<line x1="411" y1="84" x2="418" y2="84"/><polygon points="418,79 418,89 425,84" fill="#16130e"/>
 </g>
-<text x="57" y="95" font-size="7">nodes 1–8</text><text x="159" y="95" font-size="7">nodes 9–16</text><text x="261" y="95" font-size="7">nodes 17–25</text><text x="363" y="95" font-size="7">nodes 26–34</text><text x="468" y="95" font-size="7">nodes 35–40</text>
-<text x="320" y="135" text-anchor="middle" font-size="10" font-weight="bold">HINGES: ① writing + numerals ② printing + instruments ③ electricity + computation</text>
-<text x="320" y="152" text-anchor="middle" font-size="10">lose any hinge → restart centuries · protect all three → survive other setbacks</text>
-<rect x="10" y="162" width="620" height="28" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
-<text x="320" y="180" text-anchor="middle" font-size="10" font-weight="bold">INSTITUTIONAL UNDERLAY (parallel throughout): money integrity · law · double-entry · statistics · logistics ([Ch 47])</text>
+<g text-anchor="middle" font-size="8.5">
+<text x="57" y="100">nodes 1–8</text><text x="159" y="100">nodes 9–16</text><text x="261" y="100">nodes 17–25</text><text x="363" y="100">nodes 26–34</text><text x="468" y="100">nodes 35–40</text><text x="577" y="100" font-style="italic">arms loop</text>
+</g>
+<text x="320" y="145" text-anchor="middle" font-size="10.5" font-weight="bold">HINGES: ① writing + numerals ② printing + instruments ③ electricity + computation</text>
+<text x="320" y="161" text-anchor="middle" font-size="10">lose any hinge → restart centuries · protect all three → survive other setbacks</text>
+<rect x="10" y="172" width="620" height="64" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="320" y="194" text-anchor="middle" font-size="10" font-weight="bold">INSTITUTIONAL UNDERLAY (parallel throughout)</text>
+<text x="320" y="211" text-anchor="middle" font-size="9.5">money integrity · law · double-entry · statistics · logistics ([Ch 47])</text>
+<text x="320" y="226" text-anchor="middle" font-size="9" font-style="italic">physical nodes fail without it — see Appendix B failure modes</text>
 </svg>
 <figcaption><strong>Figure A.1.</strong> Forty nodes in six era bands plus the martial derivative — read left to right, fund in order, run parallel tracks (§A.2) wherever prerequisites allow. The three hinges are the non-negotiable spine; the institutional underlay carries all of it.</figcaption>
 </figure>

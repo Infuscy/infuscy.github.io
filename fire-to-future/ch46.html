@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,15 +241,16 @@ body {
 <p>Machine learning is statistics grown muscular: fitting flexible functions to data at scale. Demystified, its power remains enormous — and its limits (hallucination, bias amplification, brittleness) are engineering facts to design around, not mysteries.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Learning arc from perceptron to transformer">
+<title>Learning arc from perceptron to transformer</title>
 <rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 46.1 — Winters end when hardware, data, and algorithms coincide</text>
 <g font-size="9" text-anchor="middle">
-<rect x="15" y="55" width="110" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="15" y="55" width="110" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="70" y="72" font-weight="bold">1958 PERCEPTRON</text>
 <text x="70" y="84">one layer learns;</text>
 <text x="70" y="95">XOR kills funding</text>
 <text x="70" y="109" font-style="italic">winter #1</text>
-<rect x="140" y="55" width="110" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="140" y="55" width="110" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="195" y="72" font-weight="bold">1986 BACKPROP</text>
 <text x="195" y="84">gradients through</text>
 <text x="195" y="95">layers — trains!</text>
@@ -241,7 +265,7 @@ body {
 <text x="450" y="84">parallel, scales</text>
 <text x="450" y="95">cleanly — LLMs</text>
 <text x="450" y="109" font-style="italic">bigger = better</text>
-<rect x="520" y="55" width="105" height="70" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<rect x="520" y="55" width="105" height="70" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
 <text x="572" y="72" font-weight="bold">2020s SCALE</text>
 <text x="572" y="84">AlphaFold, code,</text>
 <text x="572" y="95">weather, chips</text>
@@ -311,6 +335,7 @@ body {
 <h2 id="ch46_machine_intelligence-462-what-learning-actually-is">46.2 What Learning Actually Is</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Train validate deploy loop with failure guards">
+<title>Train validate deploy loop with failure guards</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 46.2 — Generalization is the only metric (guards at every arrow)</text>
 <g font-size="9" text-anchor="middle">
@@ -322,7 +347,7 @@ body {
 <text x="230" y="72" font-weight="bold">VALIDATE (unseen)</text>
 <text x="230" y="84">benchmarks leak —</text>
 <text x="230" y="95">held-out decides</text>
-<rect x="320" y="55" width="120" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="320" y="55" width="120" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="380" y="72" font-weight="bold">ALIGN (RLHF)</text>
 <text x="380" y="84">behavior ≠ capability:</text>
 <text x="380" y="95">tune separately</text>

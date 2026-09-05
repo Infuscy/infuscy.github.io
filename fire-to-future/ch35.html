@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -226,6 +249,7 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="P-N junction and transistor sandwich">
+<title>P-N junction and transistor sandwich</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 35.1 — Dope the crystal, stack the sandwich (small base rules big collector)</text>
 <rect x="60" y="60" width="110" height="70" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
@@ -260,10 +284,11 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Planar photolithography cycle">
+<title>Planar photolithography cycle</title>
 <rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 35.2 — Planar process: print, etch, dope, repeat (Hoerni 1959)</text>
 <g font-size="9" text-anchor="middle">
-<rect x="15" y="55" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="15" y="55" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="67" y="72" font-weight="bold">OXIDIZE</text>
 <text x="67" y="84">SiO₂ blanket</text>
 <text x="67" y="95">protects all</text>
@@ -271,7 +296,7 @@ body {
 <text x="185" y="72" font-weight="bold">PRINT</text>
 <text x="185" y="84">resist + mask</text>
 <text x="185" y="95">expose/develop</text>
-<rect x="251" y="55" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="251" y="55" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="303" y="72" font-weight="bold">ETCH</text>
 <text x="303" y="84">windows open</text>
 <text x="303" y="95">strip resist</text>
@@ -326,6 +351,7 @@ body {
 <li>Czochralski discovered his crystal-pulling method accidentally in 1916 when he dipped his pen into molten tin instead of the inkwell; zone refining came from Pfann's Bell Labs work (1952). The wafer supply chain has accident and wartime pedigree stamped through it.</li>
 </ul>
 <h2 id="ch35_semiconductors-357-first-build-the-first-home-fabbed-device">35.7 First Build: The First Home-Fabbed Device</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> home-fab chemistry burns, blinds, and poisons in small volumes — HF etches bone through skin without immediate pain, solvents flash, and diffusion furnaces run above 1,000 °C. Etch only with face, acid gloves, and calcium-gluconate gel staged for HF, vent and interlock furnaces, ground high-voltage diffusion supplies, and keep wash and neutralizer within reach; never work acids alone.</p>
 <p>One buildable reference design: a single planar junction device — a silicon p–n diode first, then an aluminum-gate MOSFET on the same process — on a 25 mm wafer. This is deliberately below the §35.5 logic-gate threshold: one junction working proves every discipline; a gate proves four of them at once.</p>
 <p><strong>Phase 0 — Silicon supply (zone refining, worked numbers).</strong></p>
 <ol>

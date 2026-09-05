@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>A satellite is a robot in vacuum doing one job for fifteen years without repair. This chapter covers the bus (everything shared), then the three payload families that dominate a planet: communications, positioning, observation.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Orbit regimes compared">
+<title>Orbit regimes compared</title>
 <rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 40.1 — Pick your altitude: latency vs coverage vs drag</text>
 <circle cx="150" cy="125" r="35" fill="#46617a" stroke="#16130e" stroke-width="2"/>
@@ -303,17 +327,18 @@ body {
 <h2 id="ch40_satellites-404-navigation-gps-as-civilizational-utility">40.4 Navigation: GPS as Civilizational Utility</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="GPS trilateration and relativity correction">
+<title>GPS trilateration and relativity correction</title>
 <rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 40.2 — Four clocks solve four unknowns (relativity included)</text>
 <g fill="#2f5286" stroke="#16130e" stroke-width="1.5">
 <circle cx="100" cy="70" r="14"/><circle cx="250" cy="55" r="14"/><circle cx="330" cy="120" r="14"/><circle cx="140" cy="140" r="14"/>
 </g>
-<g font-size="8" fill="#fff" text-anchor="middle" font-weight="bold">
+<g font-size="9" fill="#fff" text-anchor="middle" font-weight="bold">
 <text x="100" y="73">SV1</text><text x="250" y="58">SV2</text><text x="330" y="123">SV3</text><text x="140" y="143">SV4</text>
 </g>
 <circle cx="220" cy="110" r="8" fill="#8f3b2d" stroke="#16130e" stroke-width="2"/>
 <text x="220" y="135" text-anchor="middle" font-size="9" font-weight="bold">YOU (+cheap clock)</text>
-<g stroke="#8f3b2d" stroke-width="1" stroke-dasharray="5,3">
+<g stroke="#8f3b2d" stroke-width="1.5" stroke-dasharray="5,3">
 <line x1="108" y1="80" x2="214" y2="106"/><line x1="240" y1="64" x2="226" y2="102"/>
 <line x1="318" y1="114" x2="230" y2="110"/><line x1="148" y1="130" x2="212" y2="114"/>
 </g>
@@ -381,6 +406,7 @@ body {
 </ul>
 <p><strong>Spectral-band logic:</strong> visible (what eyes see) → near-IR (plant vigor: NDVI = (NIR−Red)/(NIR+Red)) → shortwave-IR (minerals, moisture) → thermal (fires, heat islands) → microwave/SAR (all-weather shape change). Calibrate against ground truth plots seasonally; an uncalibrated index is wallpaper.</p>
 <h2 id="ch40_satellites-406-constellations-and-debris">40.6 Constellations and Debris</h2>
+<p class="co co-hazard"><strong>Operational hazard:</strong> orbits clog permanently when operators treat them as infinite — dead hulks, separation junk, and intentional debris cascade into Kessler collisions no cleanup can afford. Fly only maneuverable plus trackable birds with deorbit and passivation built in, answer conjunction warnings, and design for demise; never create intentional debris.</p>
 <p>Mega-constellations (thousands of LEO birds) blur satellite-to-ground latency toward terrestrial feel. The externality they manage: <strong>orbital debris</strong> — Kessler syndrome (cascade collisions rendering orbits unusable) is the tragedy-of-commons failure mode. Mandatory doctrine: deorbit capability at end-of-life, collision avoidance coordination, trackable-and-maneuverable designs. A clogged LEO is a self-inflicted wound generations can't undo cheaply.</p>
 <div class="table-wrap"><table>
 <thead>

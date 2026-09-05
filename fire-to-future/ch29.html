@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,29 +241,30 @@ body {
 <p>Internal combustion burns fuel INSIDE the working cylinder — no boiler, no coal pile, power density steam could never touch. This chapter builds the engine family and the vehicles that industrialized ground transport.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Otto four-stroke cycle">
+<title>Otto four-stroke cycle</title>
 <rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 29.1 — Otto four-stroke: four piston trips, one power punch</text>
 <g text-anchor="middle" font-size="9">
 <text x="90" y="42" font-weight="bold">1. INTAKE</text>
-<rect x="55" y="55" width="70" height="90" fill="none" stroke="#16130e" stroke-width="1.5"/>
+<rect x="55" y="55" width="70" height="90" rx="6" fill="none" stroke="#16130e" stroke-width="2"/>
 <rect x="65" y="110" width="50" height="10" fill="#9a927e" stroke="#16130e"/>
 <line x1="115" y1="70" x2="135" y2="70" stroke="#2f5286" stroke-width="3"/>
 <text x="90" y="160" font-size="9">piston falls,</text>
 <text x="90" y="171" font-size="9">charge in</text>
 <text x="245" y="42" font-weight="bold">2. COMPRESSION</text>
-<rect x="210" y="55" width="70" height="90" fill="none" stroke="#16130e" stroke-width="1.5"/>
+<rect x="210" y="55" width="70" height="90" rx="6" fill="none" stroke="#16130e" stroke-width="2"/>
 <rect x="220" y="85" width="50" height="10" fill="#9a927e" stroke="#16130e"/>
 <text x="245" y="160" font-size="9">both valves shut,</text>
 <text x="245" y="171" font-size="9">squeeze ~8:1</text>
 <text x="400" y="42" font-weight="bold">3. POWER</text>
-<rect x="365" y="55" width="70" height="90" fill="none" stroke="#16130e" stroke-width="2"/>
+<rect x="365" y="55" width="70" height="90" rx="6" fill="none" stroke="#16130e" stroke-width="2"/>
 <rect x="375" y="120" width="50" height="10" fill="#8f3b2d" stroke="#16130e"/>
 <polygon points="400,70 392,85 408,85" fill="#c96a2e"/>
 <circle cx="392" cy="95" r="3" fill="#c96a2e"/><circle cx="408" cy="95" r="3" fill="#c96a2e"/><circle cx="400" cy="105" r="3" fill="#c96a2e"/>
 <text x="400" y="160" font-size="9" font-weight="bold">SPARK → push</text>
 <text x="400" y="171" font-size="9">only paid stroke</text>
 <text x="555" y="42" font-weight="bold">4. EXHAUST</text>
-<rect x="520" y="55" width="70" height="90" fill="none" stroke="#16130e" stroke-width="1.5"/>
+<rect x="520" y="55" width="70" height="90" rx="6" fill="none" stroke="#16130e" stroke-width="2"/>
 <rect x="530" y="80" width="50" height="10" fill="#4a4436" stroke="#16130e"/>
 <line x1="505" y1="70" x2="525" y2="70" stroke="#4a4436" stroke-width="3"/>
 <text x="555" y="160" font-size="9">piston rises,</text>
@@ -265,6 +289,7 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 180" width="100%" role="img" aria-label="Compression ratio versus efficiency and knock limit">
+<title>Compression ratio versus efficiency and knock limit</title>
 <rect x="0" y="0" width="640" height="180" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 29.2 — Compression buys efficiency until knock collects</text>
 <line x1="80" y1="40" x2="80" y2="140" stroke="#16130e" stroke-width="2"/>
@@ -392,6 +417,7 @@ body {
 </table></div>
 <p><strong>PTO safety (non-negotiable):</strong> shielded shafts, no loose clothing, disengage before mounting implements, chock and brake on slopes. The same machine that feeds a district can wrap a sleeve in a second — guards are not optional trim.</p>
 <h2 id="ch29_combustion-296-doctrine-and-dead-ends">29.6 Doctrine and Dead Ends</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> liquid fuels and hot engines burn crews, shops, and barns together — vapor flashes at arm's length, crankcase backfires throw flame, and running engines poison closed sheds with CO. Fuel and test only ventilated and grounded, keep extinguishers and kill switches at hand, never crank on ether near sparks, and shut down on any fuel leak; log fuel per hour because a 15 % rise is the earliest overhaul signal.</p>
 <p class="co co-dead"><strong>Dead end avoided:</strong> steam cars and early electric roadcars lost to arithmetic — energy density (gasoline ~45 MJ/kg vs batteries then ~0.2) and refill minutes vs recharge hours. Note honestly: battery physics changed by <a href="ch43.html">Ch 43</a>; the lesson is "revisit losing designs when their limiting constant changes," not "electric forever wrong."</p>
 <p>Also avoided: over-valve-count exotic engines, rotary (Wankel) mass adoption, air-cooled complexity creep for mainstream fleets — maintenance networks punish cleverness that shops can't service.</p>
 <p class="co co-key"><strong>Key threshold:</strong> when a farm worker can feed 10+ people (vs subsistence-era ~2–3), labor floods into factories — the demographic pivot that powers every remaining chapter.</p>

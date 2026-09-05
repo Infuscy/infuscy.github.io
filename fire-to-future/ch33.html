@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Heavier-than-air flight is a systems triumph: aerodynamics + structures + propulsion + CONTROL converging. The Wright brothers' genius was treating it as engineering iteration, not inspiration — this chapter follows their method.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Four forces and airfoil section">
+<title>Four forces and airfoil section</title>
 <rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 33.1 — Four forces + what an airfoil actually does</text>
 <g text-anchor="middle">
@@ -304,6 +328,7 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Three axis control diagram">
+<title>Three axis control diagram</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 33.2 — Three axes: every turn uses all three</text>
 <g stroke="#16130e" stroke-width="2" fill="#e8dcc0">
@@ -451,6 +476,7 @@ body {
 <li><strong>X-1:</strong> Chuck Yeager broke Mach 1 October 14, 1947, over Muroc, in <em>Glamorous Glennis</em>, with two broken ribs from a riding accident kept off his commanders' medical log. Whitcomb's area rule then reshaped fuselages (YF-102 failing drag estimates → redesigned F-102A passing supersonically).</li>
 </ul>
 <h2 id="ch33_flight-339-airstrip-doctrine">33.9 Airstrip Doctrine</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> flight testing kills test pilots first — stalls spin at low altitude, engines quit after takeoff, and overloaded airframes break up in gusts. Prove glide range before engine cuts, test stalls high with recovery altitude, filter fuel twice, tie down in wind, and fly first flights over open ground with crash and fire crew staged; never stretch glide, gross weight, or weather on the same flight.</p>
 <p>Level 300–500 m of rolled grass flies early airplanes; drainage matters more than pavement. Windsock, tie-downs, fuel filtered twice, and a repair shed with fabric, dope, spruce, and piano wire precede any hangar palace. Survey from the air from week one — even a glider with a camera maps plant disease, floods, and ore stains (<a href="ch13.html">Ch 13</a>) better than ground parties.</p>
 </main>
 <nav class="reader-bottom-nav">

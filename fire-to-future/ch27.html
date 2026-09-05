@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Steel is iron with controlled carbon (~0.05–1.5 %) plus deliberate alloying — strong enough to build skyscrapers, cheap enough to pave the world in rails. The 19th century's problem was making it BY THE TON instead of by the billet; two processes solved it, and concrete solved what steel couldn't afford to.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Bessemer converter three stages">
+<title>Bessemer converter three stages</title>
 <rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 27.1 — Bessemer blow in three tilts (side view)</text>
 <g text-anchor="middle" font-size="9">
@@ -363,10 +387,11 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Reinforced beam principle">
+<title>Reinforced beam principle</title>
 <rect x="0" y="0" width="640" height="190" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 27.2 — Why steel lives at the bottom of the beam</text>
 <rect x="120" y="60" width="400" height="50" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
-<line x1="120" y1="85" x2="520" y2="85" stroke="#9a927e" stroke-width="1" stroke-dasharray="5,3"/>
+<line x1="120" y1="85" x2="520" y2="85" stroke="#9a927e" stroke-width="1.5" stroke-dasharray="5,3"/>
 <text x="90" y="72" font-size="10">TOP:</text><text x="90" y="84" font-size="9">squashed</text>
 <text x="528" y="72" font-size="9">concrete loves this</text>
 <text x="90" y="102" font-size="10">BOTTOM:</text><text x="90" y="114" font-size="9">stretched</text>
@@ -406,6 +431,7 @@ body {
 <li>National scoreboard: US pig-iron output passed Britain's during the mid-1880s; <strong>U.S. Steel (1901)</strong> capitalized at $1.4 billion — the world's first billion-dollar corporation, assembled by Morgan out of Carnegie Steel.</li>
 </ul>
 <h2 id="ch27_steel_concrete-279-safety-and-scale-hazards">27.9 Safety and Scale Hazards</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> molten steel plus water is a steam explosion — ladles, pits, and scrap must be bone-dry and preheated, or the melt throws itself across the shop. Hold converter and crane interlocks, slag-pit exclusion zones, respirators and lockout on kilns, and CO monitoring from the first heat; never pour over damp ground or into unpreheated vessels.</p>
 <p>Molten steel (1,600 °C+) plus water equals steam explosion — keep ladles, pits, and scrap bone-dry; preheat everything the melt touches. Converter/control-pulpit discipline, ladle-crane interlocks, and slag-pit exclusion zones are written procedures, not folklore. Cement kilns add their own tax: alkali dust, hot clinker, and CO — respirators, lockout rules, and gas monitoring from the first heat.</p>
 </main>
 <nav class="reader-bottom-nav">

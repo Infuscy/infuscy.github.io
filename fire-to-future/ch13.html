@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Metallurgy is downstream of geology. This chapter finds and extracts the raw inputs — metal ores, salt, coal, stone, sulfur — using pre-explosive methods that remained essentially unchanged for four millennia, then adds black-powder blasting once <a href="ch21.html">Ch 21</a> delivers it.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Mine cross section with adit and shafts">
+<title>Mine cross section with adit and shafts</title>
 <rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 13.1 — The drained, ventilated mine (cross-section)</text>
 <path d="M0,60 L640,60 L640,40 L0,40 Z" fill="#c9b98a"/>
@@ -233,7 +257,7 @@ body {
 <line x1="320" y1="60" x2="320" y2="130" stroke="#16130e" stroke-width="6"/>
 <text x="320" y="80" font-size="9" font-weight="bold">HOIST</text>
 <line x1="260" y1="95" x2="260" y2="130" stroke="#16130e" stroke-width="3" stroke-dasharray="5,3"/>
-<text x="262" y="112" font-size="8">winze</text>
+<text x="262" y="112" font-size="9">winze</text>
 <path d="M120,130 L400,130" stroke="#46617a" stroke-width="2"/>
 <text x="120" y="160" font-size="9">water OUT ↓ valley side</text>
 <path d="M200,65 Q260,85 320,65" fill="none" stroke="#2f5286" stroke-width="1.5"/>
@@ -308,6 +332,7 @@ body {
 </code></pre>
 <p><strong>Sluice tuning:</strong> slope ~1:12, water deep enough to dance gravel but not plane off heavies; riffles clean to canvas at day's end; tailings re-run once, then stacked (reworkable when prices rise). A well-tuned sluice catches flour gold a pan keeps losing — build the box before blaming the ground.</p>
 <h2 id="ch13_mining-133-underground-mining">13.3 Underground Mining</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> underground workings kill by gas, water, and roof before they pay by ore — choke damp pools low, fire damp explodes at 5–15 %, white damp strikes odorless after blasts, and H₂S deadens smell fast. Force ventilation with air shafts and fans, flame-test and gas-test before entry, timber bad ground, keep two egresses open, and never use open flame near suspected methane; evacuate on guttering flames.</p>
 <p>Go underground only when surface veins pinch out. The four eternal underground problems, in order of deadliness:</p>
 <ol>
 <li><strong>Ventilation:</strong> stale air and choke damp (CO₂ pools in low spots; it extinguishes candles before it kills you — carry candle discipline as gas detection). Air shafts every ~20 m of drift; bellows or revolving fans force airflow; never enter old workings without a flame test.</li>
@@ -362,14 +387,15 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Ore dressing flow">
+<title>Ore dressing flow</title>
 <rect x="0" y="0" width="640" height="190" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 13.2 — Concentrate before you smelt (hauling rock is the tax)</text>
 <g font-size="9" text-anchor="middle">
-<rect x="15" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="15" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="67" y="77" font-weight="bold">SORT</text>
 <text x="67" y="89">at face by</text>
 <text x="67" y="100">eye + heft</text>
-<rect x="133" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="133" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="185" y="77" font-weight="bold">CRUSH</text>
 <text x="185" y="89">stamps to</text>
 <text x="185" y="100">liberate grains</text>
@@ -377,7 +403,7 @@ body {
 <text x="303" y="77" font-weight="bold">WASH</text>
 <text x="303" y="89">heavies sink,</text>
 <text x="303" y="100">silica floats off</text>
-<rect x="369" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="369" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="421" y="77" font-weight="bold">ROAST</text>
 <text x="421" y="89">sulfide → oxide;</text>
 <text x="421" y="100">As/S upwind!</text>
@@ -407,6 +433,7 @@ body {
 </ol>
 <p><strong>Graduation + ponds (fuel-free path):</strong> trickle brine down thorn-stacked graduation towers (wind evaporates, iron precipitates), then tier ponds: reservoir → concentrators (gypsum drops) → crystallizers (salt harvest) → bitterns drain (magnesium salts — later chemical feed). Rake crystallizers dry between crops; wash harvest with saturated brine, never fresh water.</p>
 <h2 id="ch13_mining-136-blasting-changes-everything">13.6 Blasting Changes Everything</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> blasting turns rock into projectiles and fumes — misfires wait, flyrock outruns shouts, and afterdamp chokes re-entry crews. Stem with clay using copper tools only, fire by slow-match train from cover with shouted and flagged clearance, wait 30 min on a miss and approach with water (never drill out), ventilate before re-entry, and keep one lightning-rodded brass-locked magazine per district downhill of sparks.</p>
 <p>Once black powder exists (<a href="ch21.html">Ch 21</a>): drill a charge hole (hand steel and sledge, or jumpers), tamp powder with clay stemmer, fire by slow-match train — and whole faces come down per blast instead of per week. Productivity multiples of 5–10× are typical; deep mining becomes economical, which is precisely the demand-pull that funded steam engines and rails. Mining is not a side quest: it is the resource artery of Parts III–V.</p>
 <p><strong>Blast SOP (hand-steel era):</strong> drill hole 1 m deep, 3 cm bore, angled to free face; dry and blow clean; charge ⅓ powder, stem clay tamped (copper tools only — no steel sparks); fuse cut to clear + shout + flag; fire from cover, count misfires by watch (wait 30 min on a miss, approach with water, never drill out). One powder magazine per district, brass-locked, lightning-rodded, downhill of sparks.</p>
 <p class="co co-key"><strong>Key threshold:</strong> a self-documenting prospect register plus adit-drained workings = mineral security. With those two disciplines, the metal chapters never starve.</p>

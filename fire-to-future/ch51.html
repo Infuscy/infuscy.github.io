@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -242,15 +265,16 @@ body {
 </ol>
 <figure class="fig">
 <svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Corps and staff organization schematic">
+<title>Corps and staff organization schematic</title>
 <rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 51.1 — Organization as weapon: corps disperse, staffs compute (Napoleon → Moltke)</text>
 <g font-size="9" text-anchor="middle">
-<rect x="30" y="55" width="120" height="60" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
+<rect x="30" y="55" width="120" height="60" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
 <text x="90" y="72" font-weight="bold">CORPS (Napoleon)</text>
 <text x="90" y="84">inf + cav + guns +</text>
 <text x="90" y="95">engineers + supply</text>
 <text x="90" y="108" font-style="italic">fights alone a day</text>
-<rect x="170" y="55" width="120" height="60" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
+<rect x="170" y="55" width="120" height="60" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
 <text x="230" y="72" font-weight="bold">CORPS</text>
 <text x="230" y="84">parallel roads,</text>
 <text x="230" y="95">converge at decision</text>
@@ -306,6 +330,7 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Operations research loop and production arithmetic">
+<title>Operations research loop and production arithmetic</title>
 <rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 51.2 — OR: embed scientists, measure reality, spend where it pays</text>
 <g font-size="9" text-anchor="middle">
@@ -313,7 +338,7 @@ body {
 <text x="85" y="72" font-weight="bold">MEASURE (field)</text>
 <text x="85" y="84">convoy losses, aim</text>
 <text x="85" y="95">error, search rates</text>
-<rect x="170" y="55" width="130" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="170" y="55" width="130" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="235" y="72" font-weight="bold">MODEL (math)</text>
 <text x="235" y="84">Blackett: convoy size,</text>
 <text x="235" y="95">depth settings, cover</text>
@@ -356,6 +381,7 @@ body {
 <h2 id="ch51_industrial_war-5111-spillovers-what-war-gave-civilian-life">51.11 Spillovers: What War Gave Civilian Life</h2>
 <p>Documented transfers, listed without embellishment: triage and ambulance systems (Larrey, Napoleonic wars → emergency medicine), penicillin deep-tank fermentation (<a href="ch31.html">Ch 31</a>), helicopter medevac reducing golden-hour mortality (Korea), blood-banking logistics (Spanish Civil War onward), radar→microwave→semiconductor demand pull (<a href="ch34.html">Ch 34</a>→<a href="ch35.html">35</a>), jet propulsion (<a href="ch33.html">Ch 33</a>), rockets→spaceflight (<a href="ch39.html">Ch 39</a>), ENIAC/Colossus→computing (<a href="ch36.html">Ch 36</a>), ARPANET→internet (<a href="ch42.html">Ch 42</a>), operations research→logistics/economics (<a href="ch47.html">Ch 47</a>), nuclear reactors (<a href="ch37.html">Ch 37</a>), containerization's military-palletization ancestry (<a href="ch47.html">Ch 47</a>). The honest ledger includes the costs alongside: tens of millions dead in the 20th century's wars, capital consumed that civilian investment would have used differently, and institutional habits (secrecy, hierarchy) that sometimes outlived their usefulness. Both columns are facts; this book prints both.</p>
 <h2 id="ch51_industrial_war-5112-synthesis">51.12 Synthesis</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> unexploded ordnance, minefields, and guided weapons outlive every war in this chapter — duds wait decades, mine belts drift on maps, and standoff strikes hit the wrong grid on wrong coordinates. Mark, fence, and log every fired and dropped munition, clear by drilled EOD procedure only, rehearse civilian exclusion and fratricide checks, and treat every suspect object as live until proven inert by qualified disposal.</p>
 <p>War functions in technological history as a <strong>selection environment with unlimited budget authority and terrible feedback speed</strong>: it funds development commerce would starve, accepts failure rates markets wouldn't, and integrates systems faster than any peacetime program — while consuming lives and wealth at scales this book reports but does not celebrate. For the rebuild planner, Part VI's lesson is neither glorification nor pacifism but engineering realism: military demand will exist in any civilization, and channeled well it pays for precision manufacturing, logistics, communications, medicine, and organizational science that serve everyone afterward. Design institutions (<a href="ch47.html">Ch 47</a>) that capture those spillovers while keeping the selection pressure accountable to something beyond itself.</p>
 <p class="co co-key"><strong>Key threshold:</strong> a society that can mass-produce interchangeable arms can mass-produce nearly anything — the armory system is the gateway to industrial civilization (<a href="ch49.html">Ch 49</a>'s closing loop back to Appendix A).</p>
 </main>

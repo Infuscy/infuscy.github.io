@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -228,9 +251,18 @@ body {
 <li><strong>The Engineer</strong> — scaling industry: Parts III–V are your ladder, rung by rung.</li>
 <li><strong>The Foreman</strong> — running any workshop on the ladder: Appendix G is your laminated wall card; every critical number in the book lives there.</li>
 </ul>
+<h3 @_front_matter-professional-responder-entry-paths-retain-warn">Professional-responder entry paths (retain + warn)</h3>
+<p>This edition is written for trained services — full operational detail is retained throughout; hazards are marked with <strong>Safety warning:</strong> / <strong>Operational hazard:</strong> flags, never cut. Enter by corps:</p>
+<ul>
+<li><strong>Fire / Rescue</strong> — <a href="ch01.html">Ch 1</a> (heat, CO, kiln/forge discipline §1.11) → <a href="ch13.html">Ch 13</a> (gases, collapse) → <a href="ch21.html">Ch 21</a> (powder/acids discipline) → <a href="ch28.html">Ch 28</a> (§28.9 fire/pressure/poison) → <a href="ch30.html">Ch 30</a> (hazmat hygiene) → Appendix G.</li>
+<li><strong>Medical Corps</strong> — <a href="ch04.html">Ch 4</a> / <a href="ch07.html">Ch 7</a> / <a href="ch08.html">Ch 8</a> (food, water, zoonoses) → <a href="ch17.html">Ch 17</a> (soap, distillation) → <a href="ch30.html">Ch 30</a> → <a href="ch31.html">Ch 31</a> (anesthesia, vaccines, antibiotics, stewardship) → <a href="ch44.html">Ch 44</a> → Appendix G health rows.</li>
+<li><strong>Engineer Corps</strong> — <a href="ch13.html">Ch 13</a> / <a href="ch14.html">Ch 14</a> / <a href="ch22.html">Ch 22</a> / <a href="ch23.html">Ch 23</a> (§23.4 boilers) → <a href="ch15.html">Ch 15</a> / <a href="ch20.html">Ch 20</a> → <a href="ch25.html">Ch 25</a>–<a href="ch27.html">Ch 27</a> → <a href="ch24.html">Ch 24</a> / <a href="ch47.html">Ch 47</a> → Appendices A/D.</li>
+<li><strong>Military / Logistics</strong> — <a href="ch48.html">Part VI</a> spine (Ch 48–51) + <a href="ch09.html">Ch 9</a> / <a href="ch11.html">Ch 11</a> / <a href="ch47.html">Ch 47</a> → <a href="ch21.html">Ch 21</a> / <a href="ch37.html">Ch 37</a> (at stated scope) → Appendices B/C (dead ends / jumps).</li>
+</ul>
 <h2 @_front_matter-how-to-read-it">How To Read It</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Reader map by role">
+<title>Reader map by role</title>
 <rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 0.1 — Four readers, four paths (one book)</text>
 <g font-size="9" text-anchor="middle">
@@ -252,7 +284,7 @@ body {
 <text x="401" y="85">rung by rung</text>
 <text x="401" y="99" font-style="italic">the ladder proper</text>
 <text x="401" y="112" font-style="italic">print→grid→orbit</text>
-<rect x="486" y="45" width="139" height="90" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="486" y="45" width="139" height="90" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="555" y="62" font-weight="bold">FOREMAN</text>
 <text x="555" y="74">App G wall card</text>
 <text x="555" y="85">+ chapter at hand</text>

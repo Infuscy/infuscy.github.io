@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,34 +241,35 @@ body {
 <p>Two payloads ride in this chapter: black powder (the first industrial explosive — mining's productivity multiplier and physics' teacher) and the mineral-acid industry (the hinge from kitchen chemistry to true chemical industry). Both are dangerous; both are treated here at textbook-process level with the safety discipline stated plainly.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Saltpeter to grained powder flow">
+<title>Saltpeter to grained powder flow</title>
 <rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 21.1 — Saltpeter is farmed, powder is milled wet (75:15:10)</text>
 <g font-size="9" text-anchor="middle">
-<rect x="10" y="55" width="115" height="75" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
+<rect x="10" y="55" width="115" height="75" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
 <text x="67" y="72" font-weight="bold">NITRE BED</text>
 <text x="67" y="84">soil + lime +</text>
 <text x="67" y="95">urine/dung,</text>
 <text x="67" y="106">moist, turned</text>
 <text x="67" y="120" font-style="italic">months (farm it)</text>
-<rect x="138" y="55" width="115" height="75" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="138" y="55" width="115" height="75" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="195" y="72" font-weight="bold">LEACH + LYE</text>
 <text x="195" y="84">water leach,</text>
 <text x="195" y="95">wood-ash lye →</text>
 <text x="195" y="106">KNO₃ salts first</text>
 <text x="195" y="120" font-style="italic">recrystallize 1×</text>
-<rect x="266" y="55" width="115" height="75" rx="6" fill="#4a4436"/>
+<rect x="266" y="55" width="115" height="75" rx="6" fill="#4a4436" stroke="#16130e" stroke-width="2"/>
 <text x="323" y="72" font-weight="bold" fill="#fff">WET MILL</text>
-<text x="323" y="84" font-size="8" fill="#fff">75 KNO₃ / 15 C / 10 S</text>
-<text x="323" y="95" font-size="8" fill="#fff">bronze/wood, damp,</text>
-<text x="323" y="106" font-size="8" fill="#fff">no sparks ever</text>
-<text x="323" y="120" font-size="8" fill="#fff" font-style="italic">intimacy = power</text>
+<text x="323" y="84" font-size="9" fill="#fff">75 KNO₃ / 15 C / 10 S</text>
+<text x="323" y="95" font-size="9" fill="#fff">bronze/wood, damp,</text>
+<text x="323" y="106" font-size="9" fill="#fff">no sparks ever</text>
+<text x="323" y="120" font-size="9" fill="#fff" font-style="italic">intimacy = power</text>
 <rect x="394" y="55" width="115" height="75" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
 <text x="451" y="72" font-weight="bold">CORN + GRADE</text>
 <text x="451" y="84">press cake, dry,</text>
 <text x="451" y="95">crack via sieves</text>
 <text x="451" y="106">grained = even</text>
 <text x="451" y="120" font-style="italic">dust = danger</text>
-<rect x="522" y="55" width="108" height="75" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<rect x="522" y="55" width="108" height="75" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
 <text x="576" y="72" font-weight="bold">STORE</text>
 <text x="576" y="84">sealed, dry,</text>
 <text x="576" y="95">small lots,</text>
@@ -265,6 +289,7 @@ body {
 </figure>
 
 <h2 id="ch21_blackpowder_acids-211-black-powder">21.1 Black Powder</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> black powder mills kill by dust flash, spark, and confinement — a dry-milled batch in a metal vessel is a bomb with the crew inside. Work damp, in small lots, with bronze/wood tools only, remote ignition, blast shelter, and written charge tables per the binding doctrine below; every historic powder-plant fire was a skipped rule, not bad luck.</p>
 <p>Composition by weight: <strong>75 % potassium nitrate / 15 % charcoal / 10 % sulfur</strong>. It is a physical mixture, not a compound — performance depends on intimacy of mixing and purity of nitrate.</p>
 <ul>
 <li><strong>Saltpeter (KNO₃):</strong> the hard part. Nitrary beds: floor of rich soil + lime, layered with urine/dung/stable refuse, kept moist and turned for months; soil bacteria oxidize ammonia → nitrate. Leach the black earth with water, filter, add wood-ash lye (converts calcium nitrate to potassium nitrate), evaporate; KNO₃ crystallizes first on cooling ("salting out"), recrystallize once for purity. Laborious — historically a state-protected industry with saltpetermen empowered to dig privies. Plan supply as agriculture, not mining.</li>
@@ -273,7 +298,7 @@ body {
 <li><strong>Corning:</strong> wet-mill ingredients together into dense cake, dry, then crack through sieves into grains. Grained powder burns consistently; loose dust either explodes unpredictably or fizzles. Moisture is the enemy — store sealed, rotate stock.</li>
 </ul>
 <p>Uses in priority order: <strong>mine/quarry blasting</strong> (productivity 5–10× per <a href="ch13.html">Ch 13</a>), military propellant, signal rockets, and — scientifically decisive — confined-pressure experiments that birthed gas-law physics (<a href="ch20.html">Ch 20</a>).</p>
-<p><strong>Safety doctrine (binding):</strong> small batches, wooden/bronze tools only (no sparks), no metal-on-metal contact, damp working, remote ignition by slow-match trains, blast shelters, written charge tables. Powder plants that skipped discipline burned down — repeatedly, historically.</p>
+<p class="co co-warn"><strong>Safety doctrine (binding):</strong> small batches, wooden/bronze tools only (no sparks), no metal-on-metal contact, damp working, remote ignition by slow-match trains, blast shelters, written charge tables. Powder plants that skipped discipline burned down — repeatedly, historically.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -311,12 +336,14 @@ body {
 </tbody>
 </table></div>
 <h2 id="ch21_blackpowder_acids-212-sulfuric-acid-the-master-chemical">21.2 Sulfuric Acid: The Master Chemical</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> mineral acids blind, burn lungs, and erupt when water meets hot acid — chamber gases choke, concentrated acid chars flesh, and wrong-order dilution boils over. Add acid to water, never water to acid; vent and scrub nitrous fumes, wear face/eye and acid-proof cover, keep wash water and neutralizer at arm's length, and store oxidizers away from fuels per §21.7.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Acid ladder flow diagram">
+<title>Acid ladder flow diagram</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 21.2 — The acid ladder: sulfur → sulfuric → everything else</text>
 <g font-size="9" text-anchor="middle">
-<rect x="20" y="55" width="120" height="70" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
+<rect x="20" y="55" width="120" height="70" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
 <text x="80" y="72" font-weight="bold">BURN S</text>
 <text x="80" y="84">sulfur + nitre</text>
 <text x="80" y="95">gases + steam</text>
@@ -331,7 +358,7 @@ body {
 <text x="390" y="84">glass/Pt boil</text>
 <text x="390" y="95">Fe passivates (conc.)</text>
 <text x="390" y="109" font-style="italic">oil of vitriol</text>
-<rect x="480" y="55" width="140" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="480" y="55" width="140" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="550" y="72" font-weight="bold">+ SALT/NITRE →</text>
 <text x="550" y="84">HCl, HNO₃,</text>
 <text x="550" y="95">aqua regia, soda</text>
@@ -442,6 +469,7 @@ Cl₂ + Ca(OH)₂ → BLEACHING POWDER (cloth in hours, not months)
 <li><strong>The Alkali Act (UK, 1863)</strong> created the first chemical-inspectorate with statutory emission limits (hydrochloric acid abatement ≥95 %) — arguably the world's first industrial-pollution regulation, born from Leblanc-process fumes. Environmental law's ancestry sits squarely in this chapter's supply chain.</li>
 </ul>
 <h2 id="ch21_blackpowder_acids-217-chemical-works-discipline">21.7 Chemical Works Discipline</h2>
+<p class="co co-hazard"><strong>Operational hazard:</strong> a chemical works fails as a system — one fire taking both mill and acid house, one unlogged batch hiding a bad lot, one unabated stack poisoning the workforce's own market town. Separate powder mills from acid houses by distance plus earthworks, keep drenching water everywhere, log every batch with charge tables and yields, train on small fires, and measure plus abate emissions ≥95 % with independent inspection from day one.</p>
 <p>Separate powder mills from acid houses by distance + earthworks (one fire never takes both); water everywhere (drenching, not drinking); log every batch (charge tables, densities, yields — <a href="ch11.html">Ch 11</a>); train with small fires so big ones never surprise. The Alkali-Act lesson generalizes: measure emissions from day one, abate ≥95 %, inspect independently — neighbors poisoned are markets lost.</p>
 </main>
 <nav class="reader-bottom-nav">

@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Science is not a subject; it is a <em>quality-control system for knowledge</em>. Its hardware is precision instruments; its software is method. This chapter builds both, because either alone stalls: instruments without method produce curiosities; method without instruments produces philosophy.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Vernier scale reading diagram">
+<title>Vernier scale reading diagram</title>
 <rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 20.1 — Reading a vernier: find the ONE line that aligns</text>
 <g font-size="10" font-family="Consolas, monospace">
@@ -300,6 +324,7 @@ body {
 </ul>
 <p><strong>Balance SOP:</strong> level the case, zero with empty pans, weigh by substitution (sample + weights vs counterpoise) to cancel arm inequality, record temperature and drafts, clean pans with a brush never fingers (skin oil weighs milligrams — exactly your error budget). Calibrate against one sealed reference mass; never use the reference for daily work — use working copies and re-verify quarterly.</p>
 <h2 id="ch20_instruments-203-pressure-vacuum-temperature">20.3 Pressure, Vacuum, Temperature</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> instrument shops trade in mercury poison and implosions — mercury vapor accumulates without smell, glass vacuum vessels collapse into knives, and boiling-mercury fills burn lungs. Work mercury only ventilated with spill kits and sealed recovery, shield vacuum vessels behind screens, and boil-fill tubes under hoods with face cover; log every gram in and out.</p>
 <ul>
 <li><strong>Barometer (Torricelli):</strong> a mercury column ~760 mm at sea level measures atmosphere AND altitude (−11 mm per 100 m climb roughly); weather correlation follows.</li>
 <li><strong>Vacuum pump:</strong> piston pumps on glass/metal vessels prove sound needs medium, enable Boyle's law demonstrations (P·V = const at fixed T) — gas behavior becomes measurable.</li>
@@ -357,6 +382,7 @@ body {
 </ol>
 <figure class="fig">
 <svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Method loop and error shrinking">
+<title>Method loop and error shrinking</title>
 <rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
 <text x="200" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 20.2a — The method loop</text>
 <g font-size="9" text-anchor="middle">

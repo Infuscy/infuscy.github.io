@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Every machine ever built is an arrangement of six or so primitives. This chapter is the alphabet of mechanics; fluency here is what lets <a href="ch18.html">Part III</a> move fast instead of re-deriving basics.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Six simple machines overview">
+<title>Six simple machines overview</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 15.1 — Six primitives: every machine is a sentence in these words</text>
 <g font-size="9" text-anchor="middle">
@@ -225,33 +249,33 @@ body {
 <text x="57" y="67" font-weight="bold">LEVER</text>
 <line x1="25" y1="95" x2="90" y2="85" stroke="#16130e" stroke-width="3"/>
 <polygon points="57,85 57,105 67,95" fill="#16130e"/>
-<text x="57" y="118" font-size="8">F₁·d₁ = F₂·d₂</text>
+<text x="57" y="118" font-size="9">F₁·d₁ = F₂·d₂</text>
 <rect x="115" y="50" width="95" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
 <text x="162" y="67" font-weight="bold">WHEEL+AXLE</text>
 <circle cx="162" cy="95" r="18" fill="none" stroke="#16130e" stroke-width="2"/>
 <circle cx="162" cy="95" r="5" fill="#16130e"/>
-<text x="162" y="118" font-size="8">rotary lever</text>
+<text x="162" y="118" font-size="9">rotary lever</text>
 <rect x="220" y="50" width="95" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
 <text x="267" y="67" font-weight="bold">PULLEY</text>
 <circle cx="267" cy="90" r="14" fill="none" stroke="#16130e" stroke-width="2"/>
 <line x1="267" y1="76" x2="267" y2="60" stroke="#16130e"/><line x1="253" y1="90" x2="253" y2="115" stroke="#16130e"/><line x1="281" y1="90" x2="281" y2="115" stroke="#16130e"/>
-<text x="267" y="122" font-size="8">4 ropes = 4:1</text>
+<text x="267" y="122" font-size="9">4 ropes = 4:1</text>
 <rect x="325" y="50" width="95" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
 <text x="372" y="67" font-weight="bold">WEDGE</text>
 <polygon points="340,110 405,110 405,85" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/>
-<text x="372" y="122" font-size="8">split + clamp</text>
+<text x="372" y="122" font-size="9">split + clamp</text>
 <rect x="430" y="50" width="95" height="80" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
 <text x="477" y="67" font-weight="bold">SCREW</text>
 <line x1="445" y1="85" x2="510" y2="85" stroke="#16130e" stroke-width="3"/>
 <path d="M450,85 l10,-6 M460,85 l10,-6 M470,85 l10,-6 M480,85 l10,-6 M490,85 l10,-6" stroke="#16130e" stroke-width="1.5"/>
-<text x="477" y="110" font-size="8">plane wrapped</text>
-<text x="477" y="121" font-size="8">on cylinder</text>
+<text x="477" y="110" font-size="9">plane wrapped</text>
+<text x="477" y="121" font-size="9">on cylinder</text>
 <rect x="535" y="50" width="95" height="80" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
 <text x="582" y="67" font-weight="bold">GEAR</text>
 <circle cx="570" cy="95" r="14" fill="none" stroke="#16130e" stroke-width="2"/>
 <circle cx="594" cy="95" r="10" fill="none" stroke="#16130e" stroke-width="2"/>
-<text x="582" y="118" font-size="8">exact ratios,</text>
-<text x="582" y="128" font-size="8">no slip</text>
+<text x="582" y="118" font-size="9">exact ratios,</text>
+<text x="582" y="128" font-size="9">no slip</text>
 </g>
 <text x="320" y="155" text-anchor="middle" font-size="10">crank + connecting rod (rotation ↔ reciprocation) is the seventh honorary member — exploit it immediately</text>
 <text x="320" y="172" text-anchor="middle" font-size="10" font-weight="bold">Compute mechanical advantage BEFORE building ([Ch 12](ch12.html) proportion).</text>
@@ -327,6 +351,7 @@ body {
 </tbody>
 </table></div>
 <h2 id="ch15_mechanisms-154-the-lathe-mother-of-machine-tools">15.4 The Lathe: Mother of Machine Tools</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> rotating work grabs hands, hair, and rags and does not let go — belts, chucks, and flywheels maim on contact, and long cuts whip. Tie back hair and clothing, use guards and tool rests, stop the spindle before measuring or clearing swarf with hooks (never fingers), and prove chuck keys are out before starting.</p>
 <p>A lathe spins workpiece against a cutting tool. With it you make: round shafts, pulleys, wheels, screws, cannon bores, telescope parts, engine cylinders. Without it, everything above stays artisan-lumpy.</p>
 <p>Build order:
 1. <strong>Pole/bow lathe</strong> (cord-wrapped spindle, spring return): turns wood well, metal poorly.
@@ -335,14 +360,15 @@ body {
 <p class="co co-key"><strong>Key threshold:</strong> a lathe that holds 0.5 mm accuracy upgrades your whole civilization's artifacts; one holding 0.05 mm makes steam-engine cylinders (<a href="ch23.html">Ch 23</a>) physically possible. Precision propagates: lathes make better lathes.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Precision propagation through lathes and gauges">
+<title>Precision propagation through lathes and gauges</title>
 <rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 15.2 — Precision propagates: lathes birth lathes, gauges enforce it</text>
 <g font-size="9" text-anchor="middle">
-<rect x="30" y="55" width="130" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="30" y="55" width="130" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="95" y="72" font-weight="bold">POLE LATHE</text>
 <text x="95" y="84">wood, 0.5 mm+</text>
 <text x="95" y="95">shafts, pulleys</text>
-<rect x="180" y="55" width="130" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="180" y="55" width="130" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="245" y="72" font-weight="bold">TREADLE + FLY</text>
 <text x="245" y="84">continuous spin</text>
 <text x="245" y="95">iron possible</text>

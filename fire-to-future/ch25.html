@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>This chapter builds electricity as a LABORATORY discipline: store it (capacitors), generate it continuously (batteries), measure it (instruments), command it at a distance (telegraph). Power engineering waits for the next chapter; without this one, that one is impossible.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Volta pile and battery arithmetic">
+<title>Volta pile and battery arithmetic</title>
 <rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 25.1 — Stack chemistry into current (series adds volts, parallel adds endurance)</text>
 <g text-anchor="middle">
@@ -258,6 +282,7 @@ body {
 </ul>
 <p><strong>Jar gang rules:</strong> parallel jars add capacitance (bigger bang); series divides voltage stress. Discharge with insulated tongs, one hand behind back — the parlor trick that stops hearts at scale. Log capacitance per jar (foil area ÷ glass thickness); matched gangs share voltage evenly.</p>
 <h2 id="ch25_electricity_1-252-the-battery-continuous-current">25.2 The Battery: Continuous Current</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> battery rooms make hydrogen and acid together — charging vents explosive gas, sulfuric acid blinds, and shorted cells weld tools to terminals. Ventilate charging spaces, keep flame and steel away from tops, wear eyes and acid cover, lift with carriers (never by terminals), and fuse every bank; wash acid with flood water immediately.</p>
 <p>Volta's pile (1800): stacked zinc | brine-soaked cloth | copper discs — chemistry converts to steady current. Defects to engineer around:</p>
 <ul>
 <li><strong>Polarization:</strong> hydrogen bubbles coat electrodes, choking output → Daniell cell (zinc|CuSO₄|copper with porous barrier) runs clean and constant for telegraph duty.</li>
@@ -304,6 +329,7 @@ body {
 <h2 id="ch25_electricity_1-253-electromagnetism-current-commands-magnetism">25.3 Electromagnetism: Current Commands Magnetism</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Oersted Ampere Faraday triptych plus telegraph chain">
+<title>Oersted Ampere Faraday triptych plus telegraph chain</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 25.2 — One subject, three demos, one industry (1820 → 1844)</text>
 <text x="110" y="42" font-size="10" font-weight="bold">OERSTED 1820</text>

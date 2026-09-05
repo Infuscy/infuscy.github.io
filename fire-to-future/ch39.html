@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Orbit access is a physics problem with a brutal receipt: nothing else in the book demands so much energy per kilogram delivered. Master the arithmetic first; everything else follows from respecting it.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Rocket equation tyranny chart">
+<title>Rocket equation tyranny chart</title>
 <rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 39.1 — The log is the tyrant (mass ratio for Δv = 9.4 km/s to LEO)</text>
 <line x1="80" y1="40" x2="80" y2="170" stroke="#16130e" stroke-width="2"/>
@@ -338,6 +362,7 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Launch profile with staging events">
+<title>Launch profile with staging events</title>
 <rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 39.2 — Uphill sideways: a launch profile (not to scale)</text>
 <path d="M60,190 Q150,185 220,150 Q300,110 380,80 Q470,50 580,45" fill="none" stroke="#2f5286" stroke-width="2.5"/>
@@ -345,12 +370,12 @@ body {
 <text x="60" y="205" text-anchor="middle" font-size="9" font-weight="bold">LIFTOFF</text>
 <circle cx="220" cy="150" r="5" fill="#8a6d1f"/>
 <text x="220" y="140" text-anchor="middle" font-size="9" font-weight="bold">Max-Q</text>
-<text x="220" y="168" text-anchor="middle" font-size="8">throttle down,</text>
-<text x="220" y="177" text-anchor="middle" font-size="8">then back up</text>
+<text x="220" y="168" text-anchor="middle" font-size="9">throttle down,</text>
+<text x="220" y="178" text-anchor="middle" font-size="9">then back up</text>
 <circle cx="330" cy="98" r="5" fill="#16130e"/>
 <text x="330" y="88" text-anchor="middle" font-size="9" font-weight="bold">STAGE SEP</text>
-<text x="330" y="115" text-anchor="middle" font-size="8">drop empties,</text>
-<text x="330" y="124" text-anchor="middle" font-size="8">light next</text>
+<text x="330" y="115" text-anchor="middle" font-size="9">drop empties,</text>
+<text x="330" y="125" text-anchor="middle" font-size="9">light next</text>
 <circle cx="430" cy="65" r="5" fill="#2e5b34"/>
 <text x="430" y="55" text-anchor="middle" font-size="9" font-weight="bold">FAIRING JETTISON</text>
 <text x="580" y="35" text-anchor="middle" font-size="9" font-weight="bold">ORBIT 7.8 km/s →</text>
@@ -399,6 +424,7 @@ body {
 </tbody>
 </table></div>
 <h2 id="ch39_rocketry-395-site-and-ops-discipline">39.5 Site and Ops Discipline</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> launch vehicles are crewed-adjacent bombs with a guidance system — propellants detonate, plumes incinerate for hundreds of meters, dropped stages crush downrange, and acoustics kill unsecured hardware and hearing. Clear exclusion zones, enforce range-safety destruct lines, ground the stack against lightning, flood the pad with deluge water, and hold for weather; never chase a window with a red range or red weather.</p>
 <ul>
 <li>Launch toward equator/eastward harvests Earth's rotation (~465 m/s free at equator).</li>
 <li>Max-Q (peak dynamic pressure) throttle management; fairings protect payloads through transonic buffet then jettison — every kg of fairing was payload's enemy.</li>

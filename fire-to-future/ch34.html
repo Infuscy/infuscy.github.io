@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Electronics begins when engineers stop merely carrying power and start SHAPING signals. Vacuum tubes — electrons boiling off heated cathodes, commanded by grids — provided the first controllable amplification and switching, building every concept semiconductors later inherited: gain, oscillation, modulation, logic.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Diode versus triode schematic">
+<title>Diode versus triode schematic</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 34.1 — Diode rectifies; triode amplifies (the grid is the lever)</text>
 <text x="160" y="42" font-size="11" font-weight="bold">DIODE (Fleming, 1904)</text>
@@ -306,6 +330,7 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 220" width="100%" role="img" aria-label="AM versus FM and superhet blocks">
+<title>AM versus FM and superhet blocks</title>
 <rect x="0" y="0" width="640" height="220" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 34.2 — AM varies height; FM varies spacing; superhet fixes the work at one frequency</text>
 <text x="160" y="42" font-size="10" font-weight="bold">AM (tall = loud)</text>
@@ -315,13 +340,13 @@ body {
 <path d="M40,135 Q48,125 56,135 Q64,145 72,135 Q80,125 88,135 Q100,125 112,135 Q124,145 136,135 Q148,125 160,135 Q168,145 176,135 Q184,125 192,135 Q204,125 216,135 Q228,145 240,135 Q252,125 264,135" fill="none" stroke="#2f5286" stroke-width="1.5"/>
 <text x="160" y="155" text-anchor="middle" font-size="9">clip amplitude → static vanishes</text>
 <text x="470" y="42" font-size="10" font-weight="bold">SUPERHET (every station → one IF)</text>
-<g font-size="8" text-anchor="middle">
-<rect x="350" y="55" width="70" height="32" rx="4" fill="#efe9db" stroke="#16130e"/><text x="385" y="68">ANT + RF</text><text x="385" y="79">tune</text>
-<rect x="430" y="55" width="70" height="32" rx="4" fill="#efe9db" stroke="#16130e"/><text x="465" y="68">MIXER +</text><text x="465" y="79">LOCAL OSC</text>
-<rect x="510" y="55" width="70" height="32" rx="4" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/><text x="545" y="68">FIXED IF</text><text x="545" y="79">gain+filter</text>
-<rect x="390" y="95" width="150" height="32" rx="4" fill="#efe9db" stroke="#16130e"/><text x="465" y="108">DETECTOR (AM/FM)</text><text x="465" y="119">+ AUDIO AMP</text>
+<g font-size="9" text-anchor="middle">
+<rect x="350" y="55" width="70" height="34" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/><text x="385" y="68">ANT + RF</text><text x="385" y="80">tune</text>
+<rect x="430" y="55" width="70" height="34" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/><text x="465" y="68">MIXER +</text><text x="465" y="80">LOCAL OSC</text>
+<rect x="510" y="55" width="70" height="34" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/><text x="545" y="68">FIXED IF</text><text x="545" y="80">gain+filter</text>
+<rect x="390" y="97" width="150" height="34" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/><text x="465" y="110">DETECTOR (AM/FM)</text><text x="465" y="122">+ AUDIO AMP</text>
 </g>
-<g stroke="#16130e"><line x1="420" y1="71" x2="430" y2="71"/><line x1="500" y1="71" x2="510" y2="71"/><line x1="465" y1="87" x2="465" y2="95"/></g>
+<g stroke="#16130e" stroke-width="1.5"><line x1="420" y1="72" x2="430" y2="72"/><line x1="500" y1="72" x2="510" y2="72"/><line x1="465" y1="89" x2="465" y2="97"/></g>
 <text x="470" y="150" text-anchor="middle" font-size="9">optimize ONE IF strip perfectly;</text>
 <text x="470" y="162" text-anchor="middle" font-size="9">front end just translates stations to it</text>
 <text x="470" y="180" text-anchor="middle" font-size="9" font-style="italic">dipole ≈ λ/2 · ground wave by day, skip by night</text>
@@ -412,6 +437,7 @@ body {
 <li><strong>The magnetron handover:</strong> Randall and Boot's resonant cavity magnetron (Birmingham, February 1940) produced kilowatt pulses at 10 cm; the Tizard Mission carried one to America that September. Official US historian James Phinney Baxter III called it "the most valuable cargo ever brought to our shores" — microwave radar, then postwar microwave engineering, descends from that suitcase.</li>
 </ul>
 <h2 id="ch34_vacuum_tubes-348-workshop-sequence">34.8 Workshop Sequence</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> tube and transmitter benches store lethal charge after switch-off — filter capacitors hold kilovolts, CRT/magnetron supplies bite through insulation, and RF burns deep before pain warns. Bleed and short high-voltage rails before touching, keep one hand behind the back on live checks, ground chassis and antennas against lightning, and never defeat interlocks for alignment.</p>
 <p>Crystal set first (no power, teaches resonance) → one-tube regenerative (amplification + oscillation in one bottle) → superhet with IF strip (selectivity) → push-pull audio (power) → VHF/FM + dipole farm (clean signals) → magnetron-grade microwaves only with machine-shop + high-voltage discipline. Log every station heard; the logbook is a propagation textbook written by your own antenna.</p>
 </main>
 <nav class="reader-bottom-nav">

@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Mathematics is compression for reality: formulas store thousands of measurements in one line. This chapter selects only the mathematics that pays immediate engineering dividends, in dependency order.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Positional versus Roman multiplication">
+<title>Positional versus Roman multiplication</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 12.1 — Why positional notation wins (same sum, different centuries)</text>
 <rect x="30" y="40" width="280" height="120" fill="#fff" stroke="#16130e" stroke-width="1.5"/>
@@ -293,6 +317,7 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Rope triangle and similar triangle surveying">
+<title>Rope triangle and similar triangle surveying</title>
 <rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
 <text x="170" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 12.2a — 3-4-5 rope squares corners</text>
 <polygon points="80,60 80,150 200,150" fill="none" stroke="#16130e" stroke-width="2"/>
@@ -307,8 +332,8 @@ body {
 <line x1="350" y1="150" x2="560" y2="150" stroke="#16130e" stroke-width="1.5"/>
 <polygon points="560,150 560,130 580,130 580,150" fill="none" stroke="#16130e" stroke-width="1.5"/>
 <text x="570" y="120" font-size="10">stick (known)</text>
-<line x1="420" y1="150" x2="560" y2="150" stroke="#2f5286" stroke-width="1" stroke-dasharray="4,3"/>
-<line x1="350" y1="60" x2="560" y2="130" stroke="#2f5286" stroke-width="1" stroke-dasharray="4,3"/>
+<line x1="420" y1="150" x2="560" y2="150" stroke="#2f5286" stroke-width="1.5" stroke-dasharray="4,3"/>
+<line x1="350" y1="60" x2="560" y2="130" stroke="#2f5286" stroke-width="1.5" stroke-dasharray="4,3"/>
 <text x="455" y="170" text-anchor="middle" font-size="9">tree / shadow = stick / its shadow</text>
 <text x="455" y="185" text-anchor="middle" font-size="9">same sun angle → same ratio</text>
 <text x="470" y="200" text-anchor="middle" font-size="9" font-style="italic">river widths the same way: baseline + two sightings</text>

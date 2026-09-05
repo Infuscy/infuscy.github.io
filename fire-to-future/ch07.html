@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,23 +241,24 @@ body {
 <p>Agriculture is the single largest calorie-engine ever built: it multiplies food output per hectare of desirable land by 10–100× over foraging, which multiplies population, which funds every specialist in this book. It is also the first technology whose central problem is invisible — soil nitrogen — and mismanaging it has starved more civilizations than any war.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Rotation systems compared">
+<title>Rotation systems compared</title>
 <rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 7.1 — Rotations: rest less, fix nitrogen more (start at the right)</text>
 <g font-size="9" text-anchor="middle">
 <text x="110" y="42" font-weight="bold">TWO-FIELD (skip)</text>
-<rect x="50" y="50" width="120" height="30" fill="#c9a86a" stroke="#16130e"/><text x="110" y="69" font-weight="bold">CROP</text>
-<rect x="50" y="82" width="120" height="30" fill="#9a927e" stroke="#16130e"/><text x="110" y="101" fill="#fff">FALLOW 50%</text>
+<rect x="50" y="50" width="120" height="30" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/><text x="110" y="69" font-weight="bold">CROP</text>
+<rect x="50" y="82" width="120" height="30" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/><text x="110" y="101" fill="#fff">FALLOW 50%</text>
 <text x="110" y="128" font-size="9">half the land idle</text>
 <text x="320" y="42" font-weight="bold">THREE-FIELD</text>
-<rect x="250" y="50" width="140" height="24" fill="#c9a86a" stroke="#16130e"/><text x="320" y="66" font-weight="bold">WINTER GRAIN</text>
-<rect x="250" y="76" width="140" height="24" fill="#e8dcc0" stroke="#16130e"/><text x="320" y="92">SPRING GRAIN</text>
-<rect x="250" y="102" width="140" height="24" fill="#9a927e" stroke="#16130e"/><text x="320" y="118" fill="#fff">FALLOW/LEGUME</text>
+<rect x="250" y="50" width="140" height="24" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/><text x="320" y="66" font-weight="bold">WINTER GRAIN</text>
+<rect x="250" y="76" width="140" height="24" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/><text x="320" y="92">SPRING GRAIN</text>
+<rect x="250" y="102" width="140" height="24" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/><text x="320" y="118" fill="#fff">FALLOW/LEGUME</text>
 <text x="320" y="133" font-size="9">66–100% cropped</text>
 <text x="530" y="42" font-weight="bold">NORFOLK FOUR (build)</text>
 <rect x="460" y="50" width="140" height="22" fill="#2e5b34" stroke="#16130e" stroke-width="1.5"/><text x="530" y="64" fill="#fff" font-weight="bold">LEGUME LEY + graze</text>
-<rect x="460" y="74" width="140" height="22" fill="#c9a86a" stroke="#16130e"/><text x="530" y="88" font-weight="bold">CEREAL</text>
-<rect x="460" y="98" width="140" height="22" fill="#e8dcc0" stroke="#16130e"/><text x="530" y="112">ROOTS</text>
-<rect x="460" y="122" width="140" height="22" fill="#c9a86a" stroke="#16130e"/><text x="530" y="136" font-weight="bold">CEREAL</text>
+<rect x="460" y="74" width="140" height="22" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/><text x="530" y="88" font-weight="bold">CEREAL</text>
+<rect x="460" y="98" width="140" height="22" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/><text x="530" y="112">ROOTS</text>
+<rect x="460" y="122" width="140" height="22" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/><text x="530" y="136" font-weight="bold">CEREAL</text>
 </g>
 <text x="320" y="160" text-anchor="middle" font-size="10">legume year = fertilizer factory (rhizobia fix N) + livestock graze the ley → manure</text>
 <text x="320" y="177" text-anchor="middle" font-size="10" font-weight="bold">Jump: deploy Norfolk from day one — no machinery needed, only fences.</text>
@@ -255,6 +279,7 @@ body {
 <h2 id="ch07_agriculture-72-soil-the-nitrogen-ledger">7.2 Soil: The Nitrogen Ledger</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Nitrogen ledger flows">
+<title>Nitrogen ledger flows</title>
 <rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 7.2 — The ledger: every harvest withdraws, only three pre-industrial deposits</text>
 <rect x="240" y="55" width="160" height="50" rx="6" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>

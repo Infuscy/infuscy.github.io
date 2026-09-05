@@ -143,6 +143,29 @@ body {
 .co-key { background: #eef5ec; border-color: #3f6c3f; }
 .co-dead { background: #f9eeec; border-color: #8f3b2d; }
 .co-jump { background: #edf2f9; border-color: #2f5286; }
+.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
+.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
 
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
@@ -218,6 +241,7 @@ body {
 <p>Where <a href="ch30.html">Ch 30</a> saved populations, this chapter saves individuals: painless surgery, immune memory on demand, and chemical weapons against infection. Together they convert medicine from consolation into engineering.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Antibiotic targets on bacterial cell">
+<title>Antibiotic targets on bacterial cell</title>
 <rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 31.1 — Where antibiotics strike (human cells lack these targets)</text>
 <ellipse cx="320" cy="120" rx="180" ry="70" fill="#fff" stroke="#16130e" stroke-width="2"/>
@@ -225,16 +249,16 @@ body {
 <text x="320" y="52" text-anchor="middle" font-size="10" font-weight="bold" fill="#8f3b2d">CELL WALL ← beta-lactams (penicillins)</text>
 <ellipse cx="320" cy="120" rx="150" ry="52" fill="none" stroke="#2f5286" stroke-width="2" stroke-dasharray="6,3"/>
 <text x="320" y="72" text-anchor="middle" font-size="9" fill="#2f5286">MEMBRANE ← polymyxins (last resort)</text>
-<ellipse cx="260" cy="125" rx="28" ry="20" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
-<text x="260" y="129" text-anchor="middle" font-size="8" font-weight="bold">RIBOSOME</text>
+<ellipse cx="260" cy="125" rx="34" ry="22" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
+<text x="260" y="129" text-anchor="middle" font-size="9" font-weight="bold">RIBOSOME</text>
 <line x1="150" y1="150" x2="232" y2="135" stroke="#16130e" stroke-width="1.5"/>
 <text x="130" y="155" text-anchor="middle" font-size="9" font-weight="bold">protein blockers</text>
-<text x="130" y="166" text-anchor="middle" font-size="8">tetra/macrolide/</text>
-<text x="130" y="176" text-anchor="middle" font-size="8">aminoglycoside</text>
+<text x="130" y="166" text-anchor="middle" font-size="9">tetra/macrolide/</text>
+<text x="130" y="177" text-anchor="middle" font-size="9">aminoglycoside</text>
 <ellipse cx="380" cy="115" rx="45" ry="14" fill="none" stroke="#16130e" stroke-width="1.5"/>
 <path d="M340,115 Q360,100 380,115 Q400,130 420,115" fill="none" stroke="#16130e" stroke-width="1.5"/>
 <text x="500" y="115" text-anchor="middle" font-size="9" font-weight="bold">DNA blockers</text>
-<text x="500" y="126" text-anchor="middle" font-size="8">quinolones ←</text>
+<text x="500" y="126" text-anchor="middle" font-size="9">quinolones ←</text>
 <line x1="425" y1="117" x2="465" y2="117" stroke="#16130e" stroke-width="1.5"/>
 <text x="320" y="200" text-anchor="middle" font-size="10" font-style="italic">selective toxicity: poison the wall/ribosome/DNA bacteria own and humans don't (or differ in)</text>
 </svg>
@@ -242,6 +266,7 @@ body {
 </figure>
 
 <h2 id="ch31_medicine-311-anesthesia">31.1 Anesthesia</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> anesthesia trades pain for a managed airway on the edge of death — ether flashes near cautery, chloroform stops hearts without a watcher, and every agent obstructs breathing when unwatched. Keep ether from flame and cautery, assign a dedicated watcher with pulse and airway duty, position airways and ready resuscitation at every stage, and use chloroform only with continuous monitoring per the ladder below.</p>
 <p>Surgery before 1846 was speed competition — amputations timed in seconds, survival hinged on shock and blood loss. Nitrous oxide (1844) then ether (Morton, 1846) and chloroform changed the profession's physics:</p>
 <ul>
 <li>Ether/oxygen vapor delivery with airway management; chloroform potent but arrhythmia-prone (<strong>Dead end avoided:</strong> unmonitored chloroform for routine cases — cardiac arrest killed patients on tables).</li>
@@ -309,21 +334,22 @@ body {
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Randomized trial schematic">
+<title>Randomized trial schematic</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 31.2 — The randomized trial (streptomycin pattern, 1948)</text>
-<rect x="40" y="55" width="140" height="50" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="40" y="55" width="140" height="50" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="110" y="74" text-anchor="middle" font-size="10" font-weight="bold">ELIGIBLE</text>
 <text x="110" y="87" text-anchor="middle" font-size="9">patients + consent</text>
 <text x="110" y="98" text-anchor="middle" font-size="9">predefined endpoints</text>
 <line x1="180" y1="80" x2="230" y2="60" stroke="#16130e" stroke-width="1.5"/>
 <line x1="180" y1="80" x2="230" y2="105" stroke="#16130e" stroke-width="1.5"/>
-<rect x="230" y="38" width="160" height="44" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
+<rect x="230" y="38" width="160" height="44" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
 <text x="310" y="55" text-anchor="middle" font-size="10" font-weight="bold">TREATMENT ARM</text>
 <text x="310" y="68" text-anchor="middle" font-size="9">drug + standard care</text>
-<rect x="230" y="92" width="160" height="44" rx="6" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
+<rect x="230" y="92" width="160" height="44" rx="6" fill="#f9eeec" stroke="#8f3b2d" stroke-width="2"/>
 <text x="310" y="109" text-anchor="middle" font-size="10" font-weight="bold">CONTROL ARM</text>
 <text x="310" y="122" text-anchor="middle" font-size="9">standard care / placebo</text>
-<rect x="420" y="55" width="180" height="81" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<rect x="420" y="55" width="180" height="81" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
 <text x="510" y="72" text-anchor="middle" font-size="10" font-weight="bold">COMPARE, BLINDED</text>
 <text x="510" y="85" text-anchor="middle" font-size="9">same follow-up, same measures</text>
 <text x="510" y="98" text-anchor="middle" font-size="9">analyze as randomized</text>
@@ -340,6 +366,7 @@ body {
 
 <p><strong>Bedside-test cascade (cheap → dear):</strong> temperature/pulse/respiration chart → urine dip → blood smear under <a href="ch19.html">Ch 19</a> bead microscope → culture on solid media → chemistry/X-ray/ECG. Treat in that order; instruments confirm judgment, never replace observation.</p>
 <h2 id="ch31_medicine-314-antibiotics">31.4 Antibiotics</h2>
+<p class="co co-warn"><strong>Safety warning:</strong> antibiotics and anesthetics kill when dosed by guess — wrong drug, allergy, or interaction closes airways and stops hearts, and partial courses breed resistant killers that outlive the patient. Culture first, weigh and chart every dose, screen allergy and interactions, monitor airway and vitals throughout, and complete narrow-spectrum courses per the binding stewardship doctrine below; log every prescription and outcome.</p>
 <p>The discovery arc matters as much as the drugs:</p>
 <ul>
 <li>Fleming (1928): mold contaminant lyses staphylococci — noted, parked.</li>
@@ -431,6 +458,7 @@ body {
 </ol>
 <p><strong>Herd-threshold guide:</strong> measles ~92–95 %, polio/diphtheria ~80–85 %, smallpox ~80 % with rings. Below threshold, outbreaks find the unvaccinated — including infants too young for shots. Coverage maps (<a href="ch11.html">Ch 11</a> registers) are the campaign's instrument panel.</p>
 <h2 id="ch31_medicine-317-the-cold-chain">31.7 The Cold Chain</h2>
+<p class="co co-hazard"><strong>Operational hazard:</strong> the cold chain fails silently — frozen adsorbed vaccines and heat-killed potencies look identical to good stock, and one unlogged truck leg wastes a region's campaign. Log temperature continuously at every link, attach indicators to every shipment, quarantine and test on any excursion, and fail loudly rather than shipping suspect vials.</p>
 <p>Temperature control is medicine infrastructure (<a href="ch43.html">Ch 43</a> builds the machinery):</p>
 <ul>
 <li><strong>Vaccines</strong> live in narrow temperature windows (typically 2–8 °C); freezing ruins adsorbed vaccines, heat kills potency silently. Cold boxes with ice packs, temperature indicators on every shipment, and written excursion protocols decide campaign success more than any laboratory.</li>

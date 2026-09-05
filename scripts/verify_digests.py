@@ -164,6 +164,28 @@ for col in SUBJECTS:
             check(f"dl-hist-{col}-{hkey}", abs(ssum - 100.0) <= 1.0,
                   f"delta: {col}.{hkey} shares sum {ssum:.2f}")
 check("dl-meta", DELTA["meta"].get("schema_version") == 4, "delta: schema_version != 4")
+# --- delta cross-checks (Batch 4/2526: overview arithmetic, overlap sets,
+# biggest-jump deltas vs year max swings)
+check("dl-ov", dov["delta_candidates"] == D[2026]["overview"]["total_candidates"]
+      - D[2025]["overview"]["total_candidates"]
+      and close(dov["delta_pass_rate_pp"],
+                D[2026]["overview"]["national_pass_rate"] - D[2025]["overview"]["national_pass_rate"])
+      and close(dov["delta_presented_rate_pp"],
+                D[2026]["overview"]["presented_rate"] - D[2025]["overview"]["presented_rate"]),
+      "delta: overview arithmetic drifted from year digests")
+rkd = DELTA["rankings"]
+t25 = {s["key"] for s in D[2025]["rankings"]["school_by_avg_media"]["top"]}
+t26 = {s["key"] for s in D[2026]["rankings"]["school_by_avg_media"]["top"]}
+ovl = rkd["top_school_overlap"]
+check("dl-overlap", set(ovl["both_years"]) == (t25 & t26)
+      and set(ovl["only_2025"]) == (t25 - t26) and set(ovl["only_2026"]) == (t26 - t25),
+      "delta: top-25 overlap != recomputation from year tops")
+for yr, y in (("2025", 2025), ("2026", 2026)):
+    for j in rkd[f"biggest_jumps_{yr}"]:
+        sw = D[y]["contestation_deltas"][j["subject"]]["max_abs_swing"]
+        if not close(j["delta"], sw):
+            check(f"dl-jump-{yr}-{j['subject']}", False,
+                  f"delta: biggest_jumps_{yr} {j['subject']} {j['delta']} != max swing {sw}")
 
 # --- name hygiene (P6): no quote-artifact school names anywhere in data JSONs
 OLD_NAMES = ["CEL BUN'' BOTOSANI", 'PETRU RARES\'\' BOTOSANI']

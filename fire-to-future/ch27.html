@@ -216,14 +216,91 @@ body {
 <br><strong>Requires:</strong> <a href="ch22.html">Ch 22</a> pig iron, <a href="ch21.html">Ch 21</a> acids, <a href="ch20.html">Ch 20</a> assays · <br><strong>Unlocks:</strong> rails/skyline/machinery era, <a href="ch33.html">Ch 33</a> airframes, <a href="ch39.html">Ch 39</a> structures</p>
 </blockquote>
 <p>Steel is iron with controlled carbon (~0.05–1.5 %) plus deliberate alloying — strong enough to build skyscrapers, cheap enough to pave the world in rails. The 19th century's problem was making it BY THE TON instead of by the billet; two processes solved it, and concrete solved what steel couldn't afford to.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Bessemer converter three stages">
+<rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 27.1 — Bessemer blow in three tilts (side view)</text>
+<g text-anchor="middle" font-size="9">
+<text x="110" y="42" font-weight="bold">1. CHARGE (tilted)</text>
+<path d="M70,70 L150,70 L140,160 L80,160 Z" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
+<rect x="60" y="90" width="40" height="14" fill="#c96a2e" stroke="#16130e" transform="rotate(-20 80 97)"/>
+<text x="110" y="178" font-size="9">molten pig iron in</text>
+<text x="110" y="190" font-size="9" font-style="italic">no blast yet</text>
+<text x="320" y="42" font-weight="bold">2. BLOW (upright, ~15 min)</text>
+<path d="M280,70 L360,70 L350,160 L290,160 Z" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
+<path d="M300,70 L310,30 L330,30 L340,70" fill="none" stroke="#c96a2e" stroke-width="3"/>
+<circle cx="312" cy="25" r="3" fill="#c96a2e"/><circle cx="322" cy="18" r="4" fill="#c96a2e"/><circle cx="332" cy="26" r="3" fill="#c96a2e"/>
+<line x1="320" y1="160" x2="320" y2="180" stroke="#16130e" stroke-width="3"/>
+<text x="320" y="178" font-size="9">air through melt</text>
+<text x="320" y="190" font-size="9" font-style="italic">C + Si burn out — orange fountain</text>
+<text x="530" y="42" font-weight="bold">3. POUR (tilted out)</text>
+<path d="M490,70 L570,70 L560,160 L500,160 Z" fill="#8a6d1f" stroke="#16130e" stroke-width="1.5"/>
+<path d="M570,80 L600,95 L596,102 L566,88" fill="#c96a2e" stroke="#16130e"/>
+<text x="530" y="178" font-size="9">recarburize, then pour</text>
+<text x="530" y="190" font-size="9" font-style="italic">Mn + C to spec</text>
+</g>
+</svg>
+<figcaption><strong>Figure 27.1.</strong> The Bessemer converter is a tilting kettle: fill it sideways, stand it up to blow air through the melt (impurities burn out, heating the bath further), tilt to pour. Speed is the virtue — 20 minutes a heat — and phosphorus is the trap (see §27.1).</figcaption>
+</figure>
+
 <h2 id="ch27_steel_concrete-271-the-bessemer-converter">27.1 The Bessemer Converter</h2>
 <p>Molten pig iron poured into a tilted pear-shaped vessel; blast air blown through the melt from the bottom; carbon and silicon burn out in ~15–20 minutes in a spectacular orange fountain; tilt back, add precise carbon/manganese recarburization, pour. Steel for pennies over wrought-iron prices.</p>
 <ul>
 <li><strong>The phosphorus problem:</strong> Bessemer worked only with non-phosphoric ores (rare outside Sweden/Wales); most of Europe's ores made brittle cold-short steel. Decade of frustration until <strong>Gilchrist-Thomas basic process (1879):</strong> dolomite-lined converter + lime flux captures phosphorus into the slag — AND the phosphate slag becomes fertilizer (<a href="ch32.html">Ch 32</a>). One fix unlocked the continent's ore bodies.</li>
 <li>Lesson institutionalized: impurity control IS the industry; assays (<a href="ch20.html">Ch 20</a>) run every heat.</li>
 </ul>
+<p><strong>Blow-reading (before spectrometers):</strong> the flame starts long and orange (silicon burning), shortens as carbon burns (CO flame), then drops suddenly — the "blow over" moment to stop air within seconds. Overshoot oxidizes iron itself (yellow-brown fume, wasted yield); undershoot leaves brittle high-carbon steel. Recarburize with weighed spiegeleisen (Fe-Mn-C alloy) to hit the ordered grade — manganese also scavenges dissolved oxygen and sulfur.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Route</th>
+<th>Heat time</th>
+<th>Charge</th>
+<th>Strengths</th>
+<th>Weaknesses</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bessemer (acid)</td>
+<td>~20 min</td>
+<td>Molten pig, low-P only</td>
+<td>Speed, cheap</td>
+<td>No scrap, P-intolerant, hard to control</td>
+</tr>
+<tr>
+<td>Bessemer (basic / Thomas)</td>
+<td>~20 min</td>
+<td>Molten pig + lime, P OK</td>
+<td>Unlocks phosphoric ores; slag = fertilizer</td>
+<td>Nitrogen pickup; still no scrap</td>
+</tr>
+<tr>
+<td>Open-hearth (Siemens)</td>
+<td>8–12 h</td>
+<td>Pig + scrap + ore, any P with basic lining</td>
+<td>Controllable, scrap-hungry, verifiable</td>
+<td>Slow, fuel-hungry</td>
+</tr>
+<tr>
+<td>Basic oxygen (BOF, 1950s)</td>
+<td>~40 min</td>
+<td>Molten pig + up to 30 % scrap, O₂ lance</td>
+<td>Speed + control + quality</td>
+<td>Needs oxygen plant + hot metal supply</td>
+</tr>
+<tr>
+<td>Electric arc (scrap era)</td>
+<td>hours</td>
+<td>100 % scrap + alloys</td>
+<td>Alloy steels, stainless, recycling</td>
+<td>Electricity-intensive</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch27_steel_concrete-272-open-hearth-competition">27.2 Open-Hearth Competition</h2>
 <p>Siemens regenerative furnace: checker-brick chambers preheat incoming gas/air with exhaust heat (<a href="ch22.html">Ch 22</a>'s hot-blast logic scaled up). Slower than Bessemer (8–12 hours vs 20 minutes) but controllable, scrap-friendly (Bessemer couldn't melt much scrap), and verifiable per charge. Open-hearth won tonnage share until mid-20th century precisely because quality control beat speed. Basic-oxygen steelmaking (BOF, 1950s) later fused both virtues — oxygen lance through molten bath at scale.</p>
+<p><strong>Why slowness won for 80 years:</strong> an 8-hour heat can be sampled, assayed, and corrected mid-course (add ore to cut carbon, add lime to take phosphorus, hold for temperature). A 20-minute blow cannot. Until the oxygen lance + spectrometer combination arrived, controllability out-earned velocity — a general lesson: instrumented slowness beats blind speed wherever chemistry decides value.</p>
 <h2 id="ch27_steel_concrete-273-alloy-steels">27.3 Alloy Steels</h2>
 <p>Small additions, giant consequences:</p>
 <div class="table-wrap"><table>
@@ -255,8 +332,19 @@ body {
 <td>passive oxide skin</td>
 <td>STAINLESS steel (1913) — chemical plants, kitchens, medicine</td>
 </tr>
+<tr>
+<td>Molybdenum</td>
+<td>deep hardening, creep resistance</td>
+<td>pressure vessels, gun tubes</td>
+</tr>
+<tr>
+<td>Silicon (electrical)</td>
+<td>high resistivity, low hysteresis</td>
+<td>transformer laminations (<a href="ch26.html">Ch 26</a>)</td>
+</tr>
 </tbody>
 </table></div>
+<p><strong>Carbon-window discipline:</strong> below ~0.05 % C the metal is soft iron; 0.2–0.5 % welds and machines well (structural grades); 0.6–1.0 % hardens for tools and springs; above ~2 % it is cast iron — unforgeable. Every heat's carbon aim decides its downstream life; mis-aimed steel becomes scrap before it leaves the ladle.</p>
 <h2 id="ch27_steel_concrete-274-portland-cement">27.4 Portland Cement</h2>
 <p>Limestone + clay, calcined to clinker at ~1,450 °C in rotary kilns, ground fine. Mixed with water, cement HYDRATES — minerals grow interlocking crystals, not "drying." Rules that follow:</p>
 <ul>
@@ -264,6 +352,7 @@ body {
 <li>Cures for weeks; keep moist early (curing compounds the strength curve).</li>
 <li>Standards (28-day strength classes) let buyers trust distant suppliers — metrology again (<a href="ch20.html">Ch 20</a>).</li>
 </ul>
+<p><strong>Clinker chemistry in one paragraph:</strong> heat limestone (CaCO₃ → CaO + CO₂ at ~900 °C) with clay's silica/alumina to ~1,450 °C; the powder sinters into nodules of alite (C₃S — early strength), belite (C₂S — late strength), aluminate and ferrite (set control). Grind with ~5 % gypsum (retards flash set). On wetting, alite hydrates to calcium-silicate-hydrate gel + lime — the gel's nanostructure IS the strength. Rotary kilns (60–100 m steel tubes, 1–2° slope, coal/oil/gas fired) run countercurrent: rock in the top, flame at the bottom, clinker out the nose into coolers that return heat to the flame.</p>
 <h2 id="ch27_steel_concrete-275-reinforced-prestressed-concrete">27.5 Reinforced &amp; Prestressed Concrete</h2>
 <p>Concrete crushes readily but pulls apart pathetically (~10× weaker in tension); steel carries tension brilliantly. Bury steel bars where tension lives:</p>
 <ul>
@@ -272,12 +361,34 @@ body {
 <li><strong>Prestressing (Freyssinet):</strong> tension high-strength cables BEFORE loading (post-tensioned ducts jacked and anchored) — the concrete arrives permanently compressed, erasing its tension weakness; longer spans, thinner sections.</li>
 <li>Formwork economics dominate: reusable steel forms and standardized elements turn construction into assembly-line work.</li>
 </ul>
+<figure class="fig">
+<svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Reinforced beam principle">
+<rect x="0" y="0" width="640" height="190" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 27.2 — Why steel lives at the bottom of the beam</text>
+<rect x="120" y="60" width="400" height="50" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
+<line x1="120" y1="85" x2="520" y2="85" stroke="#9a927e" stroke-width="1" stroke-dasharray="5,3"/>
+<text x="90" y="72" font-size="10">TOP:</text><text x="90" y="84" font-size="9">squashed</text>
+<text x="528" y="72" font-size="9">concrete loves this</text>
+<text x="90" y="102" font-size="10">BOTTOM:</text><text x="90" y="114" font-size="9">stretched</text>
+<text x="528" y="102" font-size="9">steel bars live here</text>
+<circle cx="200" cy="100" r="5" fill="#8f3b2d" stroke="#16130e"/><circle cx="320" cy="100" r="5" fill="#8f3b2d" stroke="#16130e"/><circle cx="440" cy="100" r="5" fill="#8f3b2d" stroke="#16130e"/>
+<line x1="200" y1="100" x2="440" y2="100" stroke="#8f3b2d" stroke-width="2"/>
+<polygon points="120,130 150,110 150,150" fill="#16130e"/><polygon points="520,130 490,110 490,150" fill="#16130e"/>
+<text x="320" y="130" text-anchor="middle" font-size="10">supports at ends → load sags middle → bottom in tension</text>
+<text x="320" y="148" text-anchor="middle" font-size="10" font-weight="bold">cover ≥ 25–50 mm · rust expands → spalls concrete</text>
+<text x="320" y="165" text-anchor="middle" font-size="9" font-style="italic">cantilever? flip it — steel goes on TOP. prestressing squeezes the whole section first.</text>
+</svg>
+<figcaption><strong>Figure 27.2.</strong> Bending stretches one face and compresses the other. Concrete handles compression; steel handles stretch. Place the bars where the stretch is — and keep them covered, because rusting bars jack the concrete apart from inside.</figcaption>
+</figure>
+
+<p><strong>Cover-and-crack rules (laminate these):</strong> 25 mm inland, 40–50 mm marine/salted; crack widths held &lt; 0.3 mm by bar spacing, not by hope; water/cement ≤ 0.5 for durability exposure; cure wet 7 days minimum. Nine-tenths of "concrete failures" are steel-corrosion failures wearing a concrete mask.</p>
 <h2 id="ch27_steel_concrete-276-structural-systems">27.6 Structural Systems</h2>
 <ul>
 <li><strong>Steel skeletons:</strong> columns carry loads; walls become weather skins. Chicago School (1880s) + Otis safety elevator (1852) = the skyscraper as routine engineering.</li>
 <li><strong>Riveting → bolting → welding</strong> progression; welded ships taught fracture lessons the hard way (Liberty ships cracking in North Atlantic cold — Charpy impact testing became mandatory doctrine; brittleness is a temperature behavior).</li>
 <li>Testing machines (hydraulic tensile testers) certify every batch — trust is manufactured here as much as steel.</li>
 </ul>
+<p><strong>Fracture doctrine:</strong> strength without toughness kills. Specify Charpy impact energy at service temperature (cold oceans, winter bridges), favor killed/normalized steels over rimmed for critical welds, preheat thick joints, and inspect welds (visual + hammer + later ultrasonic). The Liberty-ship cracks stopped when steel chemistry, welding procedure, and inspection changed together — no single fix sufficed.</p>
 <h2 id="ch27_steel_concrete-277-deployment-priorities">27.7 Deployment Priorities</h2>
 <ol>
 <li>Rails + rolling stock (<a href="ch24.html">Ch 24</a>) — network effects immediately.</li>
@@ -286,6 +397,7 @@ body {
 <li>Machine bases and pressure vessels (<a href="ch23.html">Ch 23</a>, <a href="ch32.html">Ch 32</a> Haber columns).</li>
 </ol>
 <p class="co co-key"><strong>Key threshold:</strong> structural materials cost falling below ~a week's wages per square meter of built floor makes cities affordable at industrial scale — watch that ratio; it predicts your construction boom's timing.</p>
+<p><strong>Build order for a greenfield works:</strong> assay lab first (<a href="ch20.html">Ch 20</a>), then converter/open-hearth + ingot handling, then rail mill (it pays for the rest), then plate/structural mill, then cement kiln + aggregate supply, then prestressing yard. Never build the skyscraper mill before the rail mill — rails fund tolerances.</p>
 <h2 id="ch27_steel_concrete-278-the-steel-record">27.8 The Steel Record</h2>
 <ul>
 <li>Priority folklore: American William Kelly claimed air-refining priority (his Eddyville, Kentucky experiments, late 1840s–early 1850s, documented in later affidavits); Bessemer developed independently at scale and patented (1855–56). Historians record a parallel-invention case, resolved commercially in Bessemer's favor.</li>
@@ -293,6 +405,8 @@ body {
 <li><strong>Carnegie's edge was accounting as much as chemistry:</strong> continuous cost-per-ton tracking down to each shift's product made efficiency visible daily; vertical integration owned ore (Mesabi), boats, rails, mills. The Homestead lockout (July 1892): Frick's lockout, Pinkerton barges, a day-long gunfight killing seven workers and three Pinkertons, militia occupation, union broken — recorded here as documented industrial-relations history, without editorial.</li>
 <li>National scoreboard: US pig-iron output passed Britain's during the mid-1880s; <strong>U.S. Steel (1901)</strong> capitalized at $1.4 billion — the world's first billion-dollar corporation, assembled by Morgan out of Carnegie Steel.</li>
 </ul>
+<h2 id="ch27_steel_concrete-279-safety-and-scale-hazards">27.9 Safety and Scale Hazards</h2>
+<p>Molten steel (1,600 °C+) plus water equals steam explosion — keep ladles, pits, and scrap bone-dry; preheat everything the melt touches. Converter/control-pulpit discipline, ladle-crane interlocks, and slag-pit exclusion zones are written procedures, not folklore. Cement kilns add their own tax: alkali dust, hot clinker, and CO — respirators, lockout rules, and gas monitoring from the first heat.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch26.html" class="reader-nav-link">← Chapter 26</a>

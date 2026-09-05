@@ -216,6 +216,53 @@ body {
 <br><strong>Requires:</strong> <a href="ch07.html">Ch 7</a>, <a href="ch08.html">Ch 8</a> · <br><strong>Unlocks:</strong> <a href="ch11.html">Ch 11</a> (records of what money did), <a href="ch47.html">Ch 47</a></p>
 </blockquote>
 <p>Money is a technology for moving obligations through time and space without personal trust. Trade is a technology for making one region's surplus cure another's famine. Together they let millions of strangers cooperate — the precondition for every large project in this book, from cathedrals to railroads to space programs.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Money ladder from grain to paper">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 9.1 — The money ladder: denser value, cheaper verification</text>
+<g font-size="9" text-anchor="middle">
+<rect x="10" y="55" width="115" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="67" y="72" font-weight="bold">GRAIN JAR</text>
+<text x="67" y="84">universal want</text>
+<text x="67" y="95">rots, rats,</text>
+<text x="67" y="106">bulk</text>
+<text x="67" y="120" font-style="italic">first surplus</text>
+<rect x="138" y="55" width="115" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="195" y="72" font-weight="bold">COMMODITY</text>
+<text x="195" y="84">cattle, salt,</text>
+<text x="195" y="95">weighed metal</text>
+<text x="195" y="106">tested each deal</text>
+<text x="195" y="120" font-style="italic">portable, slow</text>
+<rect x="266" y="55" width="115" height="80" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="323" y="72" font-weight="bold">STAMPED COIN</text>
+<text x="323" y="84">Lydia ~600 BCE</text>
+<text x="323" y="95">stamp = weight</text>
+<text x="323" y="106">+ purity certified</text>
+<text x="323" y="120" font-style="italic">weighing dies</text>
+<rect x="394" y="55" width="116" height="80" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="452" y="72" font-weight="bold">PAPER CLAIMS</text>
+<text x="452" y="84">receipts, bills</text>
+<text x="452" y="95">1:1 backed</text>
+<text x="452" y="106">or fraud</text>
+<text x="452" y="120" font-style="italic">trust required</text>
+<rect x="523" y="55" width="107" height="80" rx="6" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
+<text x="576" y="72" font-weight="bold">DEBASEMENT</text>
+<text x="576" y="84">shaved, alloyed</text>
+<text x="576" y="95">Rome 95%→5%</text>
+<text x="576" y="106">trade dies</text>
+<text x="576" y="120" font-style="italic">never do this</text>
+</g>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="125" y1="95" x2="138" y2="95"/><polygon points="138,89 138,101 146,95" fill="#16130e"/>
+<line x1="253" y1="95" x2="266" y2="95"/><polygon points="266,89 266,101 274,95" fill="#16130e"/>
+<line x1="381" y1="95" x2="394" y2="95"/><polygon points="394,89 394,101 402,95" fill="#16130e"/>
+</g>
+<text x="320" y="160" text-anchor="middle" font-size="10">each rung removes a verification cost — coin kills weighing, paper kills carrying</text>
+<text x="320" y="177" text-anchor="middle" font-size="10" font-weight="bold">Monetary integrity outranks every other treasury priority.</text>
+</svg>
+<figcaption><strong>Figure 9.1.</strong> Money climbs toward cheaper trust: grain needs guarding, weighed metal needs testing every deal, stamped coin needs only a glance — paper needs an honest issuer. Debasement slides the whole ladder back down.</figcaption>
+</figure>
+
 <h2 id="ch09_trade_money-91-surplus-becomes-wealth">9.1 Surplus Becomes Wealth</h2>
 <p>Grain in a sealed jar (<a href="ch07.html">Ch 7</a>) is the first money-like object: durable, countable, universally wanted. But grain money has physics problems — bulk, rot, rodents. The historical solution set, in rough order of sophistication:</p>
 <ol>
@@ -224,6 +271,37 @@ body {
 <li><strong>Stamped coinage (~600 BCE, Lydia):</strong> the state's stamp certifies weight and purity, killing the weighing-and-testing step from every transaction. Liquidity explodes; so does the temptation to debase (see §9.4).</li>
 <li><strong>Representative paper:</strong> warehouse receipts and bills of exchange — claims on real stored goods — which work <em>only</em> when redemption is trustworthy.</li>
 </ol>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Verification cost per deal</th>
+<th>Failure mode</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Grain jars</td>
+<td>Guard + taste + measure</td>
+<td>Rot, rodents, bulk</td>
+</tr>
+<tr>
+<td>Weighed silver</td>
+<td>Scales + touchstone every trade</td>
+<td>Clipping, slow queues</td>
+</tr>
+<tr>
+<td>Stamped coin</td>
+<td>Glance at stamp + reeding</td>
+<td>Debasement by issuer</td>
+</tr>
+<tr>
+<td>Backed receipts</td>
+<td>Trust the vault (audit!)</td>
+<td>Fractional backing → runs</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch09_trade_money-92-what-makes-good-money">9.2 What Makes Good Money</h2>
 <p>Five engineering requirements, all satisfiable simultaneously only by metals until paper:</p>
 <ul>
@@ -234,6 +312,7 @@ body {
 <li><strong>Verifiability</strong> (cheap authenticity checks)</li>
 </ul>
 <p>Gold/silver excel on four but are naturally rare everywhere — that scarcity IS the feature. Copper/bronze serve small change. Iron money appears where nothing else exists (Sparta famously) and fails on verifiability.</p>
+<p><strong>Shop tests (touchstone kit):</strong> streak the piece on lydian stone beside a known-good needle; compare color; weigh on the balance (<a href="ch20.html">Ch 20</a>); listen (silver rings, lead thuds); bite nothing — use the stone. Reeded edges (milled ridges) expose clipping at a glance; adopt them with the first die-cutter.</p>
 <h2 id="ch09_trade_money-93-markets-prices-and-specialization">9.3 Markets, Prices, and Specialization</h2>
 <p>A market is an information processor: prices aggregate thousands of local knowledge fragments into one number anyone can read. Consequences to engineer deliberately:</p>
 <ul>
@@ -241,6 +320,7 @@ body {
 <li><strong>Standardized measures</strong> — length, weight, volume — enforced publicly. Every unit ambiguity is a tax on trade and an invitation to fraud. This chapter's standards are the ancestors of <a href="ch20.html">Ch 20</a>'s metrology.</li>
 <li><strong>Specialization cascade:</strong> grain surplus → part-time smith → full-time smith → better tools → bigger surplus. Each loop multiplies productivity; the flywheel starts HERE.</li>
 </ul>
+<p><strong>Market charter (post at the gate):</strong> fixed market days; sealed standard weights hung in public; toll schedule carved in stone; judge present during hours; false weights = confiscation + ban. Revenue follows fairness — merchants walk away from rigged venues and never return.</p>
 <h2 id="ch09_trade_money-94-debt-credit-and-their-failure-modes">9.4 Debt, Credit, and Their Failure Modes</h2>
 <p>Credit precedes coinage (Mesopotamian temple ledgers run on barley-debt centuries before coins). Credit multiplies productive capacity — a farmer who borrows seed and repays from harvest has manufactured time. But debt compounds geometrically while harvests grow linearly; unmanaged, it concentrates land ownership until smallholders become serfs and tax base collapses. Standard stabilizers:</p>
 <ol>
@@ -249,15 +329,71 @@ body {
 <li><strong>Bankruptcy discharge</strong> — letting failure die so the failed can try again keeps entrepreneurial churn alive.</li>
 </ol>
 <p class="co co-dead"><strong>Dead end avoided:</strong> debasement inflation. Rulers shaved coins and mixed alloys for short-term gain; Rome's denarius slid from ~95 % to &lt;5 % silver while prices multiplied hundreds-fold, shredding long-distance trade into local barter. Rule: monetary integrity outranks almost every other treasury priority.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Stabilizer</th>
+<th>Mechanism</th>
+<th>Historical form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rate caps</td>
+<td>Grain 33 %, silver 20 % (Hammurabi)</td>
+<td>Carved law, audited lenders</td>
+</tr>
+<tr>
+<td>Clean slates</td>
+<td>Annul personal debt, restore land</td>
+<td><em>mīšarum</em> decrees, ~millennium of use</td>
+</tr>
+<tr>
+<td>No debt-persons</td>
+<td>Collateral = property only</td>
+<td>Keeps workforce incentivized</td>
+</tr>
+<tr>
+<td>Discharge</td>
+<td>Failed ventures end cleanly</td>
+<td>Entrepreneurs retry</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch09_trade_money-95-storage-infrastructure">9.5 Storage Infrastructure</h2>
 <p>Wealth needs warehouses: granaries (<a href="ch06.html">Ch 6</a>), treasuries, and eventually vaults with professional guards. Guarding is a genuine cost center — typically 1–3 % of stored value annually — which is why pooled, specialized custody (early banking) beats every household defending its own hoard. Warehouse receipts circulating as payment are the natural birth of paper money; keep them 1:1 backed or the scheme ends in the <a href="#ch09_trade_money-94-debt-credit-and-their-failure-modes">dead-end</a> above.</p>
+<p><strong>Granary arithmetic:</strong> dry grain below 13 % moisture (<a href="appendix-g.html">App G</a>), raised floors, vented bins, cats + traps before poisons near food. Reserve doctrine: two-year carryover against drought; ledger by bin (<a href="ch11.html">Ch 11</a>); first-in-first-out rotation. A full granary is a bank that pays interest in survival.</p>
 <h2 id="ch09_trade_money-96-trade-routes-and-comparative-advantage">9.6 Trade Routes and Comparative Advantage</h2>
 <p>Even at donkey-cart speeds, trade transforms regional survival: coastal salt inland, mountain timber to plains, obsidian across deserts (among humanity's earliest trade goods — sharp edges were worth porters' lives).</p>
+<figure class="fig">
+<svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Water beats wheels freight diagram">
+<rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 9.2 — Freight physics: put bulk on water (ton-km per effort)</text>
+<g font-size="10" text-anchor="middle">
+<rect x="40" y="60" width="100" height="26" fill="#9a927e" stroke="#16130e"/>
+<text x="90" y="77" font-weight="bold">PACKHORSE ×1</text>
+<rect x="40" y="92" width="180" height="26" fill="#c9a86a" stroke="#16130e"/>
+<text x="130" y="109" font-weight="bold">CART ×5–10</text>
+<rect x="40" y="124" width="380" height="26" fill="#2e5b34" stroke="#16130e" stroke-width="2"/>
+<text x="230" y="141" font-weight="bold" fill="#fff">BARGE-HORSE ×50</text>
+</g>
+<text x="440" y="100" font-size="10">one horse + barge =</text>
+<text x="440" y="112" font-size="10">fifty packhorses' work</text>
+<line x1="420" y1="110" x2="432" y2="124" stroke="#16130e"/>
+<path d="M480,150 L600,150 L590,165 L490,165 Z" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
+<rect x="520" y="130" width="30" height="20" fill="#e8dcc0" stroke="#16130e"/>
+<text x="540" y="180" text-anchor="middle" font-size="9">rivers/coasts = highways till rail</text>
+<text x="320" y="198" text-anchor="middle" font-size="9" font-style="italic">relay skeleton: way-stations, wells, ferries, honest tolls → [Ch 24](ch24.html)</text>
+</svg>
+<figcaption><strong>Figure 9.2.</strong> Friction decides trade geography: water carries bulk fifty times cheaper than backs. Mill towns, ports, and mine mouths sit where transshipment is cheapest — the map of industry follows the map of freight.</figcaption>
+</figure>
+
 <ul>
 <li><strong>Water beats wheels:</strong> one barge-horse moves 50× a packhorse's ton-kilometers (<a href="ch08.html">Ch 8</a>); rivers and coastlines are the highways until railways (<a href="ch24.html">Ch 24</a>).</li>
 <li><strong>Comparative advantage arithmetic:</strong> if region A grows grain at half region B's cost while B smelts iron cheaper, BOTH gain by specializing and exchanging, even if A could do everything somewhat better. Teach this explicitly — mercantilist hoarding instincts waste decades of potential growth.</li>
 <li><strong>Relay infrastructure:</strong> way-stations, wells, ferry rights, road tolls kept honest — the logistics skeleton later formalized in <a href="ch24.html">Ch 24</a>.</li>
 </ul>
+<p><strong>Comparative-advantage miniature:</strong> coast makes salt at 1 labor-day/sack, grain at 4; inland makes salt at 6, grain at 3. Coast sells salt, buys grain; inland reverses — both eat cheaper than self-sufficiency. Specialization + exchange beats autarky even where one side is "better" at everything.</p>
 <p class="co co-key"><strong>Key threshold:</strong> when a farmer can sell grain for coined silver, hire a stranger's smithwork, and expect both transactions honored next year — that society has crossed into exponential capability growth. Everything from <a href="ch18.html">Part III</a> onward is downstream of this crossing.</p>
 <h2 id="ch09_trade_money-97-what-the-tablets-show">9.7 What the Tablets Show</h2>
 <p>Money's history survives in clay, and the record is richer than folklore:</p>
@@ -269,6 +405,8 @@ body {
 <li><strong>Coinage dates:</strong> first electrum coins struck at Sardis under Lydian kings ~630–600 BCE; Croesus introduced separated gold/silver denominations ~mid-6th century BCE; Athenian owl tetradrachms became the Mediterranean reserve currency by the 5th century.</li>
 <li><strong>Debasement measured:</strong> Rome's denarius slid from ~95 % silver under Nero to ~50 % under the Severans and below 5 % during the third-century crisis; Diocletian's Price Edict (301 CE) attempted command pricing against the resulting inflation and was broadly ignored within years (Lactantius records enforcers dying in the attempt). Both the disease and the failed cure are textbook-documented.</li>
 </ul>
+<h2 id="ch09_trade_money-98-founding-a-market-town">9.8 Founding a Market Town</h2>
+<p>Charter + standard weights + judge + warehouse + guarded vault + assay stone + ledger office (<a href="ch11.html">Ch 11</a>) + road/wharf repair fund from tolls. Open on fixed days, publish prices on a board, punish fraud publicly. The market that traders trust becomes the town that smiths, millers, and printers choose — industry follows trust.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch08.html" class="reader-nav-link">← Chapter 8</a>

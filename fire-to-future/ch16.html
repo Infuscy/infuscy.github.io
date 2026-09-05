@@ -216,6 +216,35 @@ body {
 <br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch03.html">Ch 3</a>/<a href="ch14.html">14</a> belting/ironwork · <br><strong>Unlocks:</strong> <a href="ch22.html">Ch 22</a> blast, <a href="ch18.html">Ch 18</a> paper pounding, factory organization</p>
 </blockquote>
 <p>Before fossil fuel, captured water and wind are your only non-muscle power. A single overshot waterwheel delivers 2–10 kW continuously — twenty laborers' worth, day and night, for the price of maintenance. Mill sites become the fixed capital around which industrial districts form; choose them like cities.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Waterwheel types compared">
+<rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 16.1 — Head decides the wheel (efficiency in brackets)</text>
+<g text-anchor="middle">
+<text x="110" y="42" font-size="10" font-weight="bold">UNDERSHOT (~20%)</text>
+<circle cx="110" cy="110" r="40" fill="none" stroke="#16130e" stroke-width="2"/>
+<line x1="110" y1="110" x2="110" y2="70" stroke="#16130e"/><line x1="110" y1="110" x2="145" y2="130" stroke="#16130e"/><line x1="110" y1="110" x2="75" y2="130" stroke="#16130e"/>
+<path d="M30,140 L190,140" stroke="#46617a" stroke-width="6"/>
+<text x="110" y="165" font-size="9">current pushes</text>
+<text x="110" y="176" font-size="9">floats — no head</text>
+<text x="320" y="42" font-size="10" font-weight="bold">BREAST (~50%)</text>
+<circle cx="320" cy="110" r="40" fill="none" stroke="#16130e" stroke-width="2"/>
+<line x1="320" y1="110" x2="320" y2="70" stroke="#16130e"/><line x1="320" y1="110" x2="355" y2="130" stroke="#16130e"/><line x1="320" y1="110" x2="285" y2="130" stroke="#16130e"/>
+<path d="M280,110 L240,110 L240,140 L280,140" fill="none" stroke="#46617a" stroke-width="3"/>
+<text x="320" y="165" font-size="9">water meets mid-height</text>
+<text x="320" y="176" font-size="9">1–2 m head</text>
+<text x="530" y="42" font-size="10" font-weight="bold">OVERSHOT (~65%)</text>
+<circle cx="530" cy="115" r="40" fill="none" stroke="#2e5b34" stroke-width="2.5"/>
+<line x1="530" y1="115" x2="530" y2="75" stroke="#16130e"/><line x1="530" y1="115" x2="565" y2="135" stroke="#16130e"/><line x1="530" y1="115" x2="495" y2="135" stroke="#16130e"/>
+<path d="M570,60 L530,75 L530,60" fill="none" stroke="#46617a" stroke-width="3"/>
+<text x="530" y="170" font-size="9" font-weight="bold">buckets fill on top,</text>
+<text x="530" y="181" font-size="9">gravity does the work ≥2–3 m</text>
+</g>
+<text x="320" y="200" text-anchor="middle" font-size="9" font-style="italic">power ≈ flow × head × efficiency · 1 m³/s × 3 m ≈ 20 kW delivered overshot</text>
+</svg>
+<figcaption><strong>Figure 16.1.</strong> No head, no choice (undershot); some head, compromise (breast); good head, buckets (overshot — the workhorse). Turbines (~85%) come later with iron runners; the site's head chooses long before the catalog does.</figcaption>
+</figure>
+
 <h2 id="ch16_water_wind-161-water-power-fundamentals">16.1 Water Power Fundamentals</h2>
 <p>Power available = weight of water × fall height × flow rate × efficiency. Practical numbers:</p>
 <div class="table-wrap"><table>
@@ -256,6 +285,7 @@ body {
 </table></div>
 <p>Site engineering: a <strong>millpond</strong> behind a dam stores the stream's night flow for daytime grinding (power storage before batteries); a <strong>millrace/canal</strong> carries water to the wheel; a <strong>tailrace</strong> returns it below. Head is gold — even 2 m of extra drop doubles output.</p>
 <p class="co co-key"><strong>Key threshold:</strong> 1 m³/s falling 3 m ≈ 29 kW raw, ~20 kW delivered by an excellent wheel. That runs a flour mill, a fulling plant, a bellows line for a bloomery (<a href="ch14.html">Ch 14</a>), or a paper mill's stampers (<a href="ch18.html">Ch 18</a>) simultaneously if geared right.</p>
+<p><strong>Survey doctrine:</strong> gauge flow every month for a full year (notch weir + watch) before building in stone; design for late-summer low water, spill for spring flood. A mill sized to the average flow starves every August and drowns every March — size to the minimum, spill the maximum.</p>
 <h2 id="ch16_water_wind-162-transmission-from-wheel-to-work">16.2 Transmission from Wheel to Work</h2>
 <p>Wheel shafts turn slowly (~5–15 rpm); most work wants speed or reciprocation:</p>
 <ul>
@@ -264,6 +294,34 @@ body {
 <li><strong>Crank-and-rod</strong> converts rotation to reciprocation for saws and pumps (<a href="ch15.html">Ch 15</a>).</li>
 <li><strong>Belt lines</strong> distribute one water source to multiple workstations in one building — the first factories ARE water-powered halls with line-shafting overhead.</li>
 </ul>
+<figure class="fig">
+<svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Mill transmission line">
+<rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 16.2 — One wheel, many machines (the first factory)</text>
+<circle cx="90" cy="110" r="35" fill="none" stroke="#2e5b34" stroke-width="2.5"/>
+<text x="90" y="160" text-anchor="middle" font-size="10" font-weight="bold">WHEEL 8 rpm</text>
+<circle cx="220" cy="110" r="16" fill="none" stroke="#16130e" stroke-width="2"/>
+<circle cx="220" cy="110" r="38" fill="none" stroke="#16130e" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="220" y="160" text-anchor="middle" font-size="9">GEAR-UP ×4</text>
+<rect x="300" y="100" width="260" height="10" fill="#4a4436"/>
+<text x="430" y="93" text-anchor="middle" font-size="10" font-weight="bold">LINE SHAFT ~60–120 rpm</text>
+<line x1="380" y1="110" x2="380" y2="140" stroke="#16130e" stroke-width="2"/>
+<rect x="365" y="140" width="30" height="18" fill="#e8dcc0" stroke="#16130e"/>
+<text x="380" y="172" text-anchor="middle" font-size="9">MILLSTONES</text>
+<line x1="460" y1="110" x2="460" y2="135" stroke="#16130e" stroke-width="2" stroke-dasharray="4,2"/>
+<rect x="440" y="135" width="40" height="10" fill="#9a927e" stroke="#16130e"/>
+<text x="460" y="159" text-anchor="middle" font-size="9">TRIP-HAMMER</text>
+<text x="460" y="170" text-anchor="middle" font-size="8">(cam lifts, gravity drops)</text>
+<line x1="530" y1="110" x2="530" y2="140" stroke="#16130e" stroke-width="2"/>
+<circle cx="530" cy="148" r="8" fill="none" stroke="#16130e" stroke-width="2"/>
+<text x="530" y="172" text-anchor="middle" font-size="9">SAW (crank)</text>
+<line x1="125" y1="110" x2="182" y2="110" stroke="#16130e" stroke-width="1.5"/>
+<line x1="236" y1="110" x2="300" y2="105" stroke="#16130e" stroke-width="1.5"/>
+</svg>
+<figcaption><strong>Figure 16.2.</strong> Gear up once, distribute everywhere: the line shaft carries wheel power the length of the building; belts, cams, and cranks tap it per machine. Scheduling (which machines run together) is power management before electricity.</figcaption>
+</figure>
+
+<p><strong>Millwright's rules:</strong> gears meshed with consistent depth (noise means wear); belts crowned pulleys self-track, crossed belts reverse; trip-hammer helves of springy ash, cam faces greased; line-shaft hangers aligned within sighting tolerance or bearings eat themselves. Grease cups over every journal, checked each shift — friction is a tax collector who never sleeps.</p>
 <h2 id="ch16_water_wind-163-windmills">16.3 Windmills</h2>
 <p>Where streams fail, wind serves — with caveats: it is intermittent, stormy, and needs orientation.</p>
 <ul>
@@ -273,6 +331,37 @@ body {
 <li><strong>Dutch drainage duty:</strong> scoop wheels lift polder water — land reclamation as windmill economics.</li>
 </ul>
 <p>Wind suits grinding and pumping where water is absent; don't run precision industry on gusts until storage exists.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Mill</th>
+<th>Faces wind by</th>
+<th>Power</th>
+<th>Best duty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Post</td>
+<td>Whole body on post</td>
+<td>~5 kW</td>
+<td>Farm grinding, cheap sites</td>
+</tr>
+<tr>
+<td>Smock/tower</td>
+<td>Cap only</td>
+<td>10–20 kW</td>
+<td>Villages, drainage gangs</td>
+</tr>
+<tr>
+<td>Persian panemone</td>
+<td>Vertical axis, no yaw</td>
+<td>~1 kW</td>
+<td>Steady one-direction winds</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Storm doctrine:</strong> reef early (canvas shortened before the gust, not during), tail-pole or fantail holds heading, brake locks rotor for maintenance only — never trust the brake in a gale; turn out of wind instead. More mills die of overspeed in storms than of old age.</p>
 <h2 id="ch16_water_wind-164-what-mills-make-possible">16.4 What Mills Make Possible</h2>
 <p>Priority deployment order for rebuilding civilization:</p>
 <ol>
@@ -284,9 +373,46 @@ body {
 <li><strong>Mine drainage</strong> — water-driven pumps extend depth limits (<a href="ch13.html">Ch 13</a>).</li>
 </ol>
 <p>Mill-site map = proto-industrial geography. Record flow gauges seasonally; drought years decide which sites deserve capital upgrades.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Deployment</th>
+<th>Labor freed</th>
+<th>Capital</th>
+<th>Payback</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Village grain mill</td>
+<td>100s of hours/day</td>
+<td>Wheel + stones</td>
+<td>Months</td>
+</tr>
+<tr>
+<td>Sawmill</td>
+<td>10× hand rates</td>
+<td>Crank + pit conversion</td>
+<td>One building season</td>
+</tr>
+<tr>
+<td>Fulling mill</td>
+<td>Town-scale cloth</td>
+<td>Hammers + fuller's earth</td>
+<td>Trade goods fund next mill</td>
+</tr>
+<tr>
+<td>Blast + forge hammers</td>
+<td>2× furnace yield</td>
+<td>Ducts + helves</td>
+<td>Iron pays for paper mill</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch16_water_wind-165-limits-and-why-steam-was-inevitable">16.5 Limits — and Why Steam Was Inevitable</h2>
 <p>Water binds you to valleys and seasons; wind binds you to weather. Both deliver rotary power beautifully but CANNOT be carried into mineships or fields. The historical escape was burning fuel to make motion anywhere (<a href="ch23.html">Ch 23</a>). Build the mill economy anyway: its accumulated machine-shop skill (millwrights!) is exactly the workforce that builds the first engines — Newcomen and Watt both emerged from millwright culture. Mills are not obsolete technology; they are the apprenticeship program for Part III.</p>
 <p class="co co-dead"><strong>Dead end avoided:</strong> over-investing in exotic perpetual-motion schemes to "beat" intermittency — history burned real talent there. Intermittency is managed by storage ponds, mixed sources, and task scheduling (grind when water flows, saw when wind holds), not defeated by cleverness.</p>
+<p><strong>Scheduling doctrine (pre-steam grid):</strong> millpond gates meter day power; heavy hammering at night flow; sawing to windy days; grinding to calm water days. The miller is a dispatcher — log flows, post the week's run order, never promise all machines at once.</p>
 <h2 id="ch16_water_wind-166-the-mill-record">16.6 The Mill Record</h2>
 <ul>
 <li><strong>Barbegal (Gaul, 2nd c. CE):</strong> sixteen overshot wheels stacked in two parallel flights down a hillside channel — a Roman industrial flour complex; capacity estimates range from a few tonnes of flour daily upward (scholars argue), but nobody disputes the plant's industrial character.</li>
@@ -295,6 +421,8 @@ body {
 <li>Wind arrives late and eastward: vertical-axis Persian panemone mills recorded by 10th-century geographers in Sistan; horizontal-sail postmills appear in northwestern Europe by the late 12th century; the great Dutch drainage program (polder pumping, <a href="#ch16_water_wind-163-windmills">§16.3</a>) turned mill engineering into national survival infrastructure.</li>
 <li>Historiographical flag: Richard Carus-Wilson's 1941 essay called fulling-mill diffusion "an Industrial Revolution of the thirteenth century" — wool processing fleeing towns for cheap rural waterpower, reorganizing regional economies. Later scholars moderated the thesis (transport costs, guild politics mattered too), but the pattern — power sites restructuring industry's map — stands and repeats with steam (<a href="ch23.html">Ch 23</a>) and electricity (<a href="ch26.html">Ch 26</a>).</li>
 </ul>
+<h2 id="ch16_water_wind-167-choosing-sites-like-cities">16.7 Choosing Sites Like Cities</h2>
+<p>Water right + head + flow + flood history + road/wharf + timber + grain hinterland + defensibility. Mark all eight on the register (<a href="ch11.html">Ch 11</a>); build in stone only where seven hold. The eighth failure mode finds you in the drought year.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch15.html" class="reader-nav-link">← Chapter 15</a>

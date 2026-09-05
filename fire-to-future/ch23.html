@@ -223,6 +223,43 @@ body {
 <li>Latent heat: boiling/condensing absorbs/releases enormous energy at constant temperature — why condensers dominate engine economics.</li>
 </ul>
 <p>Knowing these three facts, you can skip a century of blind tinkering.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Steam engine efficiency ladder">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 23.1 — Each fix keeps the cylinder hot or uses steam twice (duty trajectory)</text>
+<g font-size="9" text-anchor="middle">
+<rect x="15" y="55" width="110" height="70" rx="6" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
+<text x="70" y="72" font-weight="bold" fill="#fff">NEWCOMEN</text>
+<text x="70" y="84" font-size="8" fill="#fff">~0.5% · 4–6M</text>
+<text x="70" y="95" font-size="8" fill="#fff">spray INSIDE (cold!)</text>
+<text x="70" y="109" font-size="8" fill="#fff" font-style="italic">mine mouths only</text>
+<rect x="140" y="55" width="120" height="70" rx="6" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
+<text x="200" y="72" font-weight="bold">WATT</text>
+<text x="200" y="84" font-size="8">3–4% · 20–30M</text>
+<text x="200" y="95" font-size="8">SEPARATE condenser</text>
+<text x="200" y="109" font-size="8" font-style="italic">−75% fuel ✓</text>
+<rect x="275" y="55" width="120" height="70" rx="6" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
+<text x="335" y="72" font-weight="bold">HIGH-PRESSURE</text>
+<text x="335" y="84" font-size="8">Trevithick/Evans</text>
+<text x="335" y="95" font-size="8">10× smaller, mobile</text>
+<text x="335" y="109" font-size="8" font-style="italic">boats + locos</text>
+<rect x="410" y="55" width="110" height="70" rx="6" fill="#eef5ec" stroke="#2e5b34" stroke-width="2"/>
+<text x="465" y="72" font-weight="bold">COMPOUND</text>
+<text x="465" y="84" font-size="8">15–20% · 90–100M</text>
+<text x="465" y="95" font-size="8">HP→LP + superheat</text>
+<text x="465" y="109" font-size="8" font-style="italic">beats sail freight</text>
+<rect x="535" y="55" width="90" height="70" rx="6" fill="#4a4436"/>
+<text x="580" y="72" font-weight="bold" fill="#fff">YOUR 10 kW</text>
+<text x="580" y="84" font-size="8" fill="#fff">~50M duty</text>
+<text x="580" y="95" font-size="8" fill="#fff">2 kg/kWh bar</text>
+<text x="580" y="109" font-size="8" fill="#fff" font-style="italic">§23.7 build</text>
+</g>
+<text x="320" y="150" text-anchor="middle" font-size="10">duty = ft·lb per bushel coal (Cornwall league tables) · η = 1 − T_cold/T_hot (Carnot)</text>
+<text x="320" y="167" text-anchor="middle" font-size="10" font-weight="bold">Progress = machine tools (Wilkinson bores) + gauges + logs.</text>
+</svg>
+<figcaption><strong>Figure 23.1.</strong> Newcomen heats then murders its own cylinder each stroke; Watt condenses elsewhere; high pressure shrinks everything mobile; compounding wrings steam twice. Duty (work per bushel) is the scoreboard — publish it like Cornwall did.</figcaption>
+</figure>
+
 <h2 id="ch23_steam-232-the-design-ladder">23.2 The Design Ladder</h2>
 <p><strong>Stage 1 — Savery pump (skip if possible):</strong> no piston; steam pressure pushes water up, vacuum sucks it higher; boiler explosions capped it at ~10 m lifts. Historical dead end once Newcomen exists.</p>
 <p><strong>Stage 2 — Newcomen atmospheric engine:</strong> open-top cylinder; piston hangs from beam pump rods. Fill cylinder with low-pressure steam, spray cold water inside to condense, ATMOSPHERE slams piston down, stroke repeats. Robust, crude, ~0.5 % efficient — it burns coal ONLY where coal is nearly free (mine mouths), which is fine: its job is mine drainage (<a href="ch13.html">Ch 13</a>).</p>
@@ -239,6 +276,30 @@ body {
 <p>Watt's first engines leaked like sieves until Wilkinson's boring machine (1774 — originally cannon bores!) machined true cylinders. Lesson institutionalized: <strong>engine progress = machine-tool progress</strong>. Fund lathes/borers/planers continuously (<a href="ch15.html">Ch 15</a>); every micron of cylinder fit becomes fuel saved for decades.</p>
 <h2 id="ch23_steam-234-boilers-where-danger-lives">23.4 Boilers: Where Danger Lives</h2>
 <p>Most steam fatalities were boiler explosions, not engine failures. Non-negotiables:</p>
+<figure class="fig">
+<svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Boiler safety anatomy">
+<rect x="0" y="0" width="640" height="190" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 23.2 — The boiler is a bomb tamed by water, valves, and logs</text>
+<rect x="80" y="60" width="300" height="70" rx="30" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
+<rect x="80" y="95" width="300" height="8" fill="#46617a"/>
+<text x="230" y="92" text-anchor="middle" font-size="9" font-weight="bold">WATER LINE (gauges + try-cocks, ×2)</text>
+<circle cx="130" cy="60" r="10" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/>
+<text x="130" y="45" text-anchor="middle" font-size="9" font-weight="bold">SAFETY VALVE</text>
+<circle cx="330" cy="130" r="8" fill="#8f3b2d" stroke="#16130e" stroke-width="1.5"/>
+<text x="330" y="155" text-anchor="middle" font-size="9" font-weight="bold" fill="#8f3b2d">FUSIBLE PLUG</text>
+<text x="450" y="60" font-size="10" font-weight="bold">TEST WATER-ONLY</text>
+<text x="450" y="73" font-size="9">1.5× pressure, 30 min,</text>
+<text x="450" y="84" font-size="9">gauge motionless (leaks, not bombs)</text>
+<text x="450" y="100" font-size="10" font-weight="bold">LOG EVERY SHIFT</text>
+<text x="450" y="113" font-size="9">pressure, water, coal, feed —</text>
+<text x="450" y="124" font-size="9">drift kills before bursts do</text>
+<text x="450" y="140" font-size="9">flat ends forbidden unstayed;</text>
+<text x="450" y="151" font-size="9">dished + gusset stays ≤150 mm</text>
+<text x="230" y="172" text-anchor="middle" font-size="9" font-style="italic">shell 6 mm (≈2× computed 3.1 mm) — corrosion + laps + damage live in the margin</text>
+</svg>
+<figcaption><strong>Figure 23.2.</strong> Two gauges agree or nobody fires; the safety valve is sized generous and popped weekly; the fusible plug melts before the crown collapses; hydrostatic proof uses incompressible water. Logs catch the drift that precedes every explosion.</figcaption>
+</figure>
+
 <ul>
 <li>Water level gauges + fusible plugs (melt and vent if dry-fire begins).</li>
 <li>Spring-loaded safety valves sized generously, tested weekly under steam.</li>

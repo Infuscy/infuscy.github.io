@@ -216,12 +216,94 @@ body {
 <br><strong>Requires:</strong> <a href="ch35.html">Ch 35</a> hardware, <a href="ch18.html">Ch 18</a> text culture · <br><strong>Unlocks:</strong> <a href="ch42.html">Ch 42</a>, <a href="ch45.html">Ch 45</a>, <a href="ch46.html">Ch 46</a>, every data system after</p>
 </blockquote>
 <p>Computers automate reasoning itself. The lineage is longer than the hardware: logic formalized → information quantified → machines built → software industrialized. This chapter builds the stack in that order, because each layer only works on the one below.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Stored program architecture block diagram">
+<rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 36.1 — Stored program: instructions ARE data (von Neumann, 1945)</text>
+<g font-size="9" text-anchor="middle">
+<rect x="30" y="60" width="120" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="90" y="77" font-weight="bold">INPUT</text>
+<text x="90" y="89">cards, tape,</text>
+<text x="90" y="100">keys, sensors</text>
+<rect x="170" y="60" width="140" height="70" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="240" y="77" font-weight="bold">CPU</text>
+<text x="240" y="89">ALU (AND/OR/ADD)</text>
+<text x="240" y="100">control + registers</text>
+<text x="240" y="114" font-style="italic">fetches, decodes,</text>
+<text x="240" y="125" font-style="italic">executes, stores</text>
+<rect x="330" y="60" width="140" height="70" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="400" y="77" font-weight="bold">MEMORY</text>
+<text x="400" y="89">program + data</text>
+<text x="400" y="100">same store!</text>
+<text x="400" y="114" font-style="italic">loadable, writable,</text>
+<text x="400" y="125" font-style="italic">self-modifying</text>
+<rect x="490" y="60" width="120" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="550" y="77" font-weight="bold">OUTPUT</text>
+<text x="550" y="89">print, display,</text>
+<text x="550" y="100">disk, control</text>
+</g>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="150" y1="95" x2="170" y2="95"/><polygon points="170,89 170,101 178,95" fill="#16130e"/>
+<line x1="310" y1="80" x2="330" y2="80"/><polygon points="330,74 330,86 338,80" fill="#16130e"/>
+<line x1="330" y1="110" x2="310" y2="110"/><polygon points="310,104 310,116 302,110" fill="#16130e"/>
+<line x1="470" y1="95" x2="490" y2="95"/><polygon points="490,89 490,101 498,95" fill="#16130e"/>
+</g>
+<text x="320" y="152" text-anchor="middle" font-size="10">BUS joins all three — address says WHERE, data says WHAT, control says WHEN</text>
+<text x="320" y="170" text-anchor="middle" font-size="10" font-weight="bold">Manchester Baby (June 1948) first ran this loop; everything since is refinement.</text>
+<text x="320" y="187" text-anchor="middle" font-size="9" font-style="italic">plugboard programming (ENIAC) died here — programs became files, not wiring</text>
+</svg>
+<figcaption><strong>Figure 36.1.</strong> The architectural decision that still governs everything: no separate "program machine" and "data machine" — one memory holds both, and the CPU fetches instructions exactly as it fetches numbers. Programs become writable, loadable, transmittable text.</figcaption>
+</figure>
+
 <h2 id="ch36_computers-361-theory-before-metal">36.1 Theory Before Metal</h2>
 <ul>
 <li><strong>Boole (1854):</strong> logic becomes algebra — AND/OR/NOT operations on true/false values. Shannon (1937): Boolean algebra IS switching-circuit design; telephone relays compute.</li>
 <li><strong>Turing (1936):</strong> the universal machine — one device reading/writing symbols on tape can simulate ANY computation. Also the halting problem: some questions provably unanswerable by any machine. Know the limits BEFORE building (<a href="ch46.html">Ch 46</a> inherits them).</li>
 <li><strong>Shannon's information theory (1948):</strong> bits measure information; channel capacity bounds exist; redundancy beats noise (error-correcting codes make unreliable hardware reliable — the quiet miracle under all computing).</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Gate</th>
+<th>Symbol</th>
+<th>Rule</th>
+<th>Relay/tube/transistor form</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NOT</td>
+<td>¬A</td>
+<td>Inverts</td>
+<td>One switch, normally closed</td>
+</tr>
+<tr>
+<td>AND</td>
+<td>A·B</td>
+<td>1 only if both 1</td>
+<td>Series switches</td>
+</tr>
+<tr>
+<td>OR</td>
+<td>A+B</td>
+<td>1 if either 1</td>
+<td>Parallel switches</td>
+</tr>
+<tr>
+<td>NAND / NOR</td>
+<td>Completeness</td>
+<td>Any circuit from one type</td>
+<td>Preferred in silicon</td>
+</tr>
+<tr>
+<td>XOR</td>
+<td>A⊕B</td>
+<td>1 if different</td>
+<td>Adder core (sum bit)</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Half-adder in one line:</strong> sum = A⊕B, carry = A·B. Chain carry into full adders, chain adders into ALUs — arithmetic IS stacked logic, and Shannon's thesis is the translation dictionary.</p>
 <h2 id="ch36_computers-362-hardware-generations">36.2 Hardware Generations</h2>
 <ul>
 <li><strong>Mechanical calculators:</strong> Pascal/Leibniz gear arithmetic; Babbage's Difference Engine concept worked, his Analytical Engine (programmed, general-purpose, 1837 design) never got built — precision machining couldn't hold tolerances at affordable cost (<strong>Dead end avoided as strategy:</strong> mechanical GENERAL-PURPOSE computing; mechanical SPECIAL-PURPOSE calculators remained useful for a century).</li>
@@ -230,6 +312,69 @@ body {
 <li><strong>Memory hierarchy:</strong> delay lines/core memory (magnetic rings threaded by wires — reliable, tedious) → DRAM (<a href="ch35.html">Ch 35</a>); storage on punched cards/tape/magnetic disks.</li>
 <li><strong>Transistorized → integrated</strong> generations shrink rooms to chips; microprocessors put whole CPUs on single dies (4004, 1971).</li>
 </ul>
+<figure class="fig">
+<svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Memory hierarchy pyramid and software stack">
+<rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
+<text x="170" y="20" text-anchor="middle" font-size="13" font-weight="bold">Hierarchy (fast/small → slow/big)</text>
+<polygon points="170,35 250,150 90,150" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
+<line x1="143" y1="75" x2="197" y2="75" stroke="#16130e"/><line x1="125" y1="105" x2="215" y2="105" stroke="#16130e"/>
+<text x="170" y="62" text-anchor="middle" font-size="9" font-weight="bold">REGISTERS</text>
+<text x="170" y="95" text-anchor="middle" font-size="9">CACHE / RAM</text>
+<text x="170" y="125" text-anchor="middle" font-size="9">DISK / TAPE</text>
+<text x="170" y="140" text-anchor="middle" font-size="8" font-style="italic">keep hot data high</text>
+<text x="470" y="20" text-anchor="middle" font-size="13" font-weight="bold">Software stack (each runs on below)</text>
+<g font-size="9" text-anchor="middle">
+<rect x="370" y="35" width="200" height="26" rx="4" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
+<text x="470" y="51" font-weight="bold">APPLICATIONS (payroll, CAD, games)</text>
+<rect x="370" y="63" width="200" height="26" rx="4" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="470" y="79" font-weight="bold">OS (files, pipes, processes)</text>
+<rect x="370" y="91" width="200" height="26" rx="4" fill="#efe9db" stroke="#16130e"/>
+<text x="470" y="107">COMPILERS (FORTRAN, C, Lisp)</text>
+<rect x="370" y="119" width="200" height="26" rx="4" fill="#efe9db" stroke="#16130e"/>
+<text x="470" y="135">ASSEMBLER + MACHINE CODE</text>
+<rect x="370" y="147" width="200" height="26" rx="4" fill="#4a4436"/>
+<text x="470" y="163" fill="#fff" font-weight="bold">HARDWARE (gates → CPU)</text>
+</g>
+</svg>
+<figcaption><strong>Figure 36.2.</strong> Left: the hierarchy — speed costs, so keep working data in the smallest fast store that holds it. Right: the stack — each layer hides the one below. Portability (C, UNIX) means upper layers survive hardware generations.</figcaption>
+</figure>
+
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Generation</th>
+<th>Element</th>
+<th>Cycle time</th>
+<th>Lesson</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Relay (Z3, Mark I)</td>
+<td>Telephone switches</td>
+<td>Seconds/multiply</td>
+<td>Reliability before speed</td>
+</tr>
+<tr>
+<td>Tube (ENIAC)</td>
+<td>~18,000 bottles</td>
+<td>~100 µs add</td>
+<td>MTBF planning; stored program next</td>
+</tr>
+<tr>
+<td>Transistor</td>
+<td>Discrete germanium/silicon</td>
+<td>~µs</td>
+<td>Rooms become cabinets</td>
+</tr>
+<tr>
+<td>IC → microprocessor</td>
+<td>4004 (1971) → 8-bit families</td>
+<td>Sub-µs</td>
+<td>Cabinets become desks</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch36_computers-363-software-the-second-machine">36.3 Software: The Second Machine</h2>
 <p>Hardware without software is jewelry. The stack, in dependency order:</p>
 <ol>
@@ -239,12 +384,49 @@ body {
 <li><strong>Languages by purpose:</strong> COBOL (business records), Lisp (symbolic/AI research), ALGOL (structured-programming theory → Pascal/C descendants). Type systems, structured control flow, and modularity tame complexity ("software crisis" responses of the late 60s).</li>
 <li><strong>Engineering culture:</strong> version control, testing, code review, documentation — software quality is process quality (<a href="ch47.html">Ch 47</a>).</li>
 </ol>
+<p><strong>UNIX pattern in four nouns:</strong> everything is a file; small tools do one thing; pipes join tools; shell scripts freeze workflows. A team that internalizes this administers ten machines with the effort others spend on one — composability IS staffing.</p>
 <h2 id="ch36_computers-364-personal-computing-inflection">36.4 Personal Computing Inflection</h2>
 <p>Microprocessors made computers cheap enough to give away:</p>
 <ul>
 <li>Altair 8800 kit (1975) ignited hobbyists; Apple II (1977) packaged usability (color graphics, floppy storage); VisiCalc (1979) — the spreadsheet — gave businesses their first irresistible reason to buy; IBM PC (1981) standardized the platform; GUIs (Xerox PARC research → Macintosh 1984) removed command-line illiteracy as a barrier.</li>
 </ul>
 <p>Adoption economics: value compounds with installed base (compatibility gravity) — platform wars are ecosystem wars, won by developers courted early.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Machine</th>
+<th>Hook</th>
+<th>Why it mattered</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Altair 8800</td>
+<td>Kit, S-100 bus</td>
+<td>Hobbyists became an industry</td>
+</tr>
+<tr>
+<td>Apple II</td>
+<td>Color + floppy + slots</td>
+<td>Usable out of box, expandable</td>
+</tr>
+<tr>
+<td>VisiCalc</td>
+<td>Spreadsheet</td>
+<td>First business "must-buy" app</td>
+</tr>
+<tr>
+<td>IBM PC</td>
+<td>Open-ish standard</td>
+<td>Clones → commodity → ubiquity</td>
+</tr>
+<tr>
+<td>Macintosh</td>
+<td>GUI + mouse</td>
+<td>Computing without memorizing</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch36_computers-365-doctrine">36.5 Doctrine</h2>
 <ul>
 <li><strong>Standards compound:</strong> ASCII text, fixed file formats, open protocols — lock-in fights are expensive; interop wins long-term.</li>
@@ -252,6 +434,37 @@ body {
 <li><strong>Automate verification:</strong> compilers caught typos; tests catch regressions; formal methods eventually catch logic errors in critical systems. Trust scales with checking machinery.</li>
 <li><strong>Compute budget discipline:</strong> algorithms matter more than hardware speed — an O(n²) fix buys more than any fab upgrade. Teach big-O thinking alongside soldering.</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Move</th>
+<th>Cost</th>
+<th>Payoff</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ASCII + open formats</td>
+<td>Convention effort</td>
+<td>Files readable for decades</td>
+</tr>
+<tr>
+<td>3-2-1 backups (3 copies, 2 media, 1 offsite)</td>
+<td>Disks + routine</td>
+<td>Survive fire, theft, fat-finger</td>
+</tr>
+<tr>
+<td>Tests + review per change</td>
+<td>30–50 % of coding time</td>
+<td>Regressions caught, not shipped</td>
+</tr>
+<tr>
+<td>O(n²) → O(n log n)</td>
+<td>One smart afternoon</td>
+<td>100× on real data</td>
+</tr>
+</tbody>
+</table></div>
 <p class="co co-key"><strong>Key threshold:</strong> when computation costs less than the labor it replaces per task (payroll, inventory, drafting, simulation), adoption becomes automatic — the same crossover logic as <a href="ch26.html">Ch 26</a>'s electricity, now applied to thought work. Everything remaining in this book rides that curve.</p>
 <h2 id="ch36_computers-366-the-computing-papers">36.6 The Computing Papers</h2>
 <ul>
@@ -264,6 +477,8 @@ body {
 <li>UNIX began on a scavenged PDP-7 (Thompson, 1969); Ritchie's C rewrite (1973) proved OS portability — the licensing-friendly OS whose descendants run everything from phones to supercomputers.</li>
 <li><strong>The Altair BASIC contract (1975)</strong> launched Microsoft; <strong>the non-exclusive DOS license to IBM (1980–81)</strong> — retained rights to license MS-DOS to clones — is widely assessed as history's most consequential business-contract oversight (an assessment, not a fact; the clone-market outcome it produced IS fact). Compaq's clean-room BIOS reverse-engineering (1982) legalized the PC clone industry — reverse-engineering law shaping markets as much as chips did.</li>
 </ul>
+<h2 id="ch36_computers-367-first-machine-build-order">36.7 First-Machine Build Order</h2>
+<p>Gates on breadboard (AND/OR/NOT by hand) → half-adder → stored-program paper simulator (fetch-decode-execute by hand on paper memory) → relay or tube ALU → assembler → compiler for one tiny language → OS kernel (scheduler + filesystem) → useful application. Teams that skip the paper simulator misunderstand every bug thereafter; teams that build it debug hardware and software separately — the skill that separates engineers from assemblers.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch35.html" class="reader-nav-link">← Chapter 35</a>

@@ -216,8 +216,80 @@ body {
 <br><strong>Requires:</strong> <a href="ch20.html">Ch 20</a>, <a href="ch27.html">Ch 27</a> vessels, <a href="ch13.html">Ch 13</a> uranium, extreme regulation discipline · <br><strong>Unlocks:</strong> dense dispatchable power, medical isotopes, RTG spacecraft power</p>
 </blockquote>
 <p><strong>Scope note (binding):</strong> this chapter covers reactor engineering and isotope applications at textbook level. Weapons physics stays at encyclopedia-history level — chain-reaction concepts only, no design detail.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Fission and criticality diagram">
+<rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 37.1 — One fission funds the next (k decides everything)</text>
+<circle cx="130" cy="100" r="30" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
+<text x="130" y="96" text-anchor="middle" font-size="10" font-weight="bold">U-235</text>
+<circle cx="90" cy="100" r="6" fill="#2f5286"/>
+<text x="70" y="118" font-size="9">neutron in</text>
+<line x1="96" y1="100" x2="102" y2="100" stroke="#2f5286" stroke-width="2"/>
+<polygon points="160,100 200,70 200,130" fill="#c96a2e" stroke="#16130e" stroke-width="1.5"/>
+<text x="230" y="80" font-size="10" font-weight="bold">2 fragments +</text>
+<text x="230" y="93" font-size="10" font-weight="bold">2–3 neutrons +</text>
+<text x="230" y="106" font-size="10" font-weight="bold">~200 MeV heat</text>
+<g fill="#2f5286">
+<circle cx="300" cy="80" r="6"/><circle cx="300" cy="110" r="6"/><circle cx="310" cy="95" r="6"/>
+</g>
+<line x1="310" y1="80" x2="360" y2="60" stroke="#2f5286" stroke-width="1.5"/>
+<line x1="310" y1="110" x2="360" y2="130" stroke="#2f5286" stroke-width="1.5"/>
+<line x1="316" y1="95" x2="360" y2="95" stroke="#2f5286" stroke-width="1.5" stroke-dasharray="4,3"/>
+<circle cx="380" cy="60" r="16" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
+<circle cx="380" cy="130" r="16" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
+<circle cx="380" cy="95" r="16" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
+<text x="380" y="64" text-anchor="middle" font-size="8">next</text>
+<text x="380" y="134" text-anchor="middle" font-size="8">next</text>
+<text x="380" y="99" text-anchor="middle" font-size="8">lost</text>
+<text x="480" y="65" font-size="11" font-weight="bold">k = born ÷ lost</text>
+<text x="480" y="82" font-size="10">k &lt; 1 dies out</text>
+<text x="480" y="96" font-size="10" font-weight="bold">k = 1 steady power ✓</text>
+<text x="480" y="110" font-size="10">k &gt; 1 climbing (rods in!)</text>
+<text x="480" y="130" font-size="9" font-style="italic">delayed neutrons (late arrivals)</text>
+<text x="480" y="142" font-size="9" font-style="italic">make human control possible</text>
+<text x="320" y="185" text-anchor="middle" font-size="10">moderator slows fast neutrons to thermal where U-235 bites hardest (water / heavy water / graphite)</text>
+</svg>
+<figcaption><strong>Figure 37.1.</strong> Each fission releases the neutrons that cause the next — plus the heat that is the whole point (~200 MeV each). Control rods absorb the surplus; the moderator slows fast neutrons into the catchable range. Keep k at exactly one.</figcaption>
+</figure>
+
 <h2 id="ch37_nuclear-371-discovery-chain">37.1 Discovery Chain</h2>
 <p>Becquerel finds uranium rays (1896); Curies isolate radium/polonium; Rutherford names alpha/beta/gamma and finds the nucleus (1911), then transmutes elements (1919); Chadwick finds the neutron (1932) — the perfect projectile, no charge to repel it. Fermi's group irradiates everything; Hahn/Strassmann's chemistry finds BARium in neutron-bombarded uranium; Meitner/Frisch interpret: the nucleus SPLITS, releasing ~200 MeV per fission plus 2–3 free neutrons — which can split more nuclei. Chain reaction concept lands immediately (1939); CP-1 achieves criticality under Chicago stadium (Dec 2, 1942).</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Radiation</th>
+<th>Stops with</th>
+<th>Hazard form</th>
+<th>Use</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alpha (He nuclei)</td>
+<td>Paper, skin</td>
+<td>Lethal inhaled/ingested</td>
+<td>Smoke detectors (Am-241), RTGs</td>
+</tr>
+<tr>
+<td>Beta (electrons)</td>
+<td>Aluminum mm</td>
+<td>Skin/eye burns</td>
+<td>Thickness gauges, tracers</td>
+</tr>
+<tr>
+<td>Gamma/X (photons)</td>
+<td>Lead/concrete m</td>
+<td>Penetrating dose</td>
+<td>Imaging, sterilization, therapy</td>
+</tr>
+<tr>
+<td>Neutron</td>
+<td>Water/paraffin + boron</td>
+<td>Activates materials</td>
+<td>The chain carrier — shield + absorb</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch37_nuclear-372-reactor-physics-essentials">37.2 Reactor Physics Essentials</h2>
 <ul>
 <li><strong>Criticality:</strong> k = neutrons born ÷ neutrons lost. k = 1 sustained; &lt;1 subcritical; &gt;1 supercritical (power climbing). Control rods (neutron absorbers) manage k in real time.</li>
@@ -226,7 +298,69 @@ body {
 <li><strong>Delayed neutrons</strong> (small fraction arriving late from decay products) are what make mechanical control possible at human timescales — prompt-critical excursions are the accident regime to never approach.</li>
 <li>Decay heat continues AFTER shutdown — cooling systems need redundancy against station-blackout scenarios (Fukushima's lesson: the tsunami killed diesels, then residual heat did the rest).</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Moderator</th>
+<th>Absorbs</th>
+<th>Fuel needed</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Light water</td>
+<td>Noticeably (needs enrichment)</td>
+<td>3–5 % U-235</td>
+<td>PWR/BWR (~70 % of fleet)</td>
+</tr>
+<tr>
+<td>Heavy water</td>
+<td>Barely</td>
+<td>Natural 0.7 % works</td>
+<td>CANDU — skip enrichment</td>
+</tr>
+<tr>
+<td>Graphite</td>
+<td>Barely</td>
+<td>Natural works</td>
+<td>Early piles; RBMK warning below</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Enrichment note:</strong> natural U is 0.7 % fissile; light-water fuel 3–5 %; anything beyond is not a power-reactor need. Centrifuge cascades are industrial mountains — choose heavy-water moderation if enrichment is out of reach, and keep all nuclear material under accountancy from the first gram (<a href="ch47.html">Ch 47</a>).</p>
 <h2 id="ch37_nuclear-373-reactor-families">37.3 Reactor Families</h2>
+<figure class="fig">
+<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="PWR loop and defense in depth">
+<rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 37.2 — PWR: three loops + five barriers (defense in depth)</text>
+<rect x="40" y="55" width="110" height="70" rx="6" fill="#f9eeec" stroke="#8f3b2d" stroke-width="2"/>
+<text x="95" y="72" text-anchor="middle" font-size="10" font-weight="bold">CORE</text>
+<text x="95" y="84" text-anchor="middle" font-size="9">fuel + rods +</text>
+<text x="95" y="95" text-anchor="middle" font-size="9">pressurized water</text>
+<text x="95" y="108" text-anchor="middle" font-size="9">~320 °C, no boil</text>
+<rect x="200" y="55" width="110" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="255" y="72" text-anchor="middle" font-size="10" font-weight="bold">STEAM GEN</text>
+<text x="255" y="84" text-anchor="middle" font-size="9">hot loop boils</text>
+<text x="255" y="95" text-anchor="middle" font-size="9">clean loop → steam</text>
+<rect x="360" y="55" width="110" height="70" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="415" y="72" text-anchor="middle" font-size="10" font-weight="bold">TURBINE</text>
+<text x="415" y="84" text-anchor="middle" font-size="9">steam spins</text>
+<text x="415" y="95" text-anchor="middle" font-size="9">generator → grid</text>
+<rect x="500" y="55" width="100" height="70" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
+<text x="550" y="72" text-anchor="middle" font-size="10" font-weight="bold">CONDENSER</text>
+<text x="550" y="84" text-anchor="middle" font-size="9">cool + return</text>
+<text x="550" y="95" text-anchor="middle" font-size="9">river/tower</text>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="150" y1="90" x2="200" y2="90"/><line x1="310" y1="90" x2="360" y2="90"/><line x1="470" y1="90" x2="500" y2="90"/>
+</g>
+<text x="320" y="150" text-anchor="middle" font-size="10">BARRIERS: ceramic pellet → zirconium clad → pressure vessel → containment → exclusion zone</text>
+<text x="320" y="167" text-anchor="middle" font-size="10" font-weight="bold">Containment ALWAYS. No reactivity that rises as coolant boils (RBMK rule).</text>
+<text x="320" y="184" text-anchor="middle" font-size="9" font-style="italic">decay heat needs cooling AFTER shutdown — diesels + gravity + procedures (Fukushima lesson)</text>
+</svg>
+<figcaption><strong>Figure 37.2.</strong> The pressurized-water pattern: radioactive water never leaves containment — it heats clean water into steam through tubes. Five nested barriers stand between fission products and the public; every accident in §37.3 broke more than one at once.</figcaption>
+</figure>
+
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -264,8 +398,13 @@ body {
 </tbody>
 </table></div>
 <p>Accident canon: TMI 1979 (containment held; control-room design failed operators — instruments must answer "is it safe?" at a glance); Chernobyl 1986 (design flaw + test protocol violation + no containment); Fukushima 2011 (site hazard beyond design basis). Doctrine: defense-in-depth layers, containment ALWAYS, regulator independence from promoters (<a href="ch47.html">Ch 47</a>).</p>
+<p><strong>Operator-instrument rule (TMI lesson):</strong> the control room must show core cooling state unambiguously — one glance answers "is the core covered?" Alarm floods that bury the critical signal kill; prioritize, group by safety function, train on simulators quarterly.</p>
 <h2 id="ch37_nuclear-374-the-fuel-cycle">37.4 The Fuel Cycle</h2>
 <p>Mining (<a href="ch13.html">Ch 13</a>) → conversion/enrichment → ceramic UO₂ pellets in zirconium cladding → reactor (18–24 month cycles, capacity factors &gt;90 % — highest of any thermal source) → spent fuel pools (years underwater) → dry casks. Waste arithmetic surprises people: a gigawatt-year produces roughly a truckload of high-level waste versus COAL's million-plus tons of CO₂ plus flyash (itself radioactive). Closed fuel cycles/reprocessing exist but add proliferation-sensitive steps — political economy decides adoption more than chemistry does.</p>
+<pre><code>MINE → MILL (yellowcake) → CONVERT → ENRICH (3–5%) → PELLETS → CLAD → CORE (18–24 mo)
+   → POOL (years, water shield + cooling) → DRY CASK (air-cooled, decades) → REPOSITORY
+</code></pre>
+<p><strong>Capacity-factor economics:</strong> reactors cost most upfront and sip fuel — run them at &gt;90 % (baseload), never load-follow by choice. Refueling outages are planned years ahead; a day offline costs more than a year of operator salaries.</p>
 <h2 id="ch37_nuclear-375-isotope-economy">37.5 Isotope Economy</h2>
 <p>The unglamorous payoff that touches millions:</p>
 <ul>
@@ -275,6 +414,48 @@ body {
 <li><strong>Food safety:</strong> low-dose irradiation extends shelf life (underused relative to evidence).</li>
 <li>Smoke detectors' Am-241 chips — isotopes hiding in plain household safety.</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Isotope</th>
+<th>Half-life</th>
+<th>Ships as</th>
+<th>Does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tc-99m</td>
+<td>6 h (from Mo-99 cow)</td>
+<td>Generator eluted daily</td>
+<td>Heart/bone/thyroid scans</td>
+</tr>
+<tr>
+<td>I-131</td>
+<td>8 days</td>
+<td>Capsule/solution</td>
+<td>Thyroid therapy + imaging</td>
+</tr>
+<tr>
+<td>Co-60</td>
+<td>5.3 y</td>
+<td>Sealed pencils</td>
+<td>Teletherapy, sterilization</td>
+</tr>
+<tr>
+<td>Cs-137</td>
+<td>30 y</td>
+<td>Sealed</td>
+<td>Gauges, (legacy therapy)</td>
+</tr>
+<tr>
+<td>Pu-238</td>
+<td>88 y</td>
+<td>Ceramic pellet</td>
+<td>RTG deep-space power</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch37_nuclear-376-fusion-preview">37.6 Fusion Preview</h2>
 <p>Fusion (fusing light nuclei) powers stars; terrestrial confinement (tokamaks/stellerators/laser inertial — NIF achieved ignition-grade target gain Dec 2022, wall-plug accounting still far negative) remains decades-from-grid engineering. Full treatment in <a href="ch43.html">Ch 43</a>; planning stance here: <strong>do not gate civilization on fusion</strong> — fission plus renewables already cover planetary energy needs with margin.</p>
 <p class="co co-key"><strong>Key threshold:</strong> first grid-connected power reactor marks energy abundance entry. Uranium's energy density (millions× chemical fuels) means one mine feeds centuries — the resource-security endgame that fossil logistics (<a href="ch28.html">Ch 28</a>) never offered.</p>
@@ -290,6 +471,8 @@ body {
 </ul>
 <h2 id="ch37_nuclear-378-what-historians-would-add">37.8 What Historians Would Add</h2>
 <p>The Manhattan Project is studied less for physics than for MANAGEMENT: OSRD coordination, compartmentalized secrecy (which slowed some science even while protecting security), Groves' unified command over science's consensus culture — friction documented in memoirs on all sides. Big-science organization — milestones, parallel redundancy, systems engineering (<a href="ch39.html">Ch 39</a> inherits it wholesale) — is nuclear fission's second export after electricity.</p>
+<h2 id="ch37_nuclear-379-regulators-five-lines">37.9 Regulator's Five Lines</h2>
+<p>Independent regulator (no promotion role) → licensed operators (examined, re-tested) → written safety case per plant (design-basis hazards + margins) → inspection + incident reporting (near-misses published) → emergency drills with the public. Promoters never grade their own homework — Fukushima's regulator-capture debate is the warning label.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch36.html" class="reader-nav-link">← Chapter 36</a>

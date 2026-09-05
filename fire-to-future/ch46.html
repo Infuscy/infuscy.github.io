@@ -216,6 +216,49 @@ body {
 <br><strong>Requires:</strong> <a href="ch35.html">Ch 35</a> compute, <a href="ch42.html">Ch 42</a> data, <a href="ch12.html">Ch 12</a> statistics matured · <br><strong>Unlocks:</strong> cognition as infrastructure — science acceleration, automation of thought work</p>
 </blockquote>
 <p>Machine learning is statistics grown muscular: fitting flexible functions to data at scale. Demystified, its power remains enormous — and its limits (hallucination, bias amplification, brittleness) are engineering facts to design around, not mysteries.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Learning arc from perceptron to transformer">
+<rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 46.1 — Winters end when hardware, data, and algorithms coincide</text>
+<g font-size="9" text-anchor="middle">
+<rect x="15" y="55" width="110" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="70" y="72" font-weight="bold">1958 PERCEPTRON</text>
+<text x="70" y="84">one layer learns;</text>
+<text x="70" y="95">XOR kills funding</text>
+<text x="70" y="109" font-style="italic">winter #1</text>
+<rect x="140" y="55" width="110" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="195" y="72" font-weight="bold">1986 BACKPROP</text>
+<text x="195" y="84">gradients through</text>
+<text x="195" y="95">layers — trains!</text>
+<text x="195" y="109" font-style="italic">experts, not scale</text>
+<rect x="265" y="55" width="115" height="70" rx="6" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<text x="322" y="72" font-weight="bold">2012 ALEXNET</text>
+<text x="322" y="84">GPUs + ImageNet</text>
+<text x="322" y="95">+ depth wins big</text>
+<text x="322" y="109" font-style="italic">co-evolution pattern</text>
+<rect x="395" y="55" width="110" height="70" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="450" y="72" font-weight="bold">2017 ATTENTION</text>
+<text x="450" y="84">parallel, scales</text>
+<text x="450" y="95">cleanly — LLMs</text>
+<text x="450" y="109" font-style="italic">bigger = better</text>
+<rect x="520" y="55" width="105" height="70" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="572" y="72" font-weight="bold">2020s SCALE</text>
+<text x="572" y="84">AlphaFold, code,</text>
+<text x="572" y="95">weather, chips</text>
+<text x="572" y="109" font-style="italic">per-domain wins</text>
+</g>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="125" y1="90" x2="140" y2="90"/><polygon points="140,84 140,96 148,90" fill="#16130e"/>
+<line x1="250" y1="90" x2="265" y2="90"/><polygon points="265,84 265,96 273,90" fill="#16130e"/>
+<line x1="380" y1="90" x2="395" y2="90"/><polygon points="395,84 395,96 403,90" fill="#16130e"/>
+<line x1="505" y1="90" x2="520" y2="90"/><polygon points="520,84 520,96 528,90" fill="#16130e"/>
+</g>
+<text x="320" y="150" text-anchor="middle" font-size="10">lesson: capability claims outrunning math invite corrections (Minsky/Papert, Lighthill)</text>
+<text x="320" y="167" text-anchor="middle" font-size="10" font-weight="bold">Hype has primary sources (NYT 1958: embryo to "walk, talk, reproduce").</text>
+</svg>
+<figcaption><strong>Figure 46.1.</strong> Each thaw needed all three: algorithms (backprop, attention), hardware (GPUs, fabs), data (ImageNet, web scale). Single-ingredient theories of progress keep failing; the triple coincidence keeps paying.</figcaption>
+</figure>
+
 <h2 id="ch46_machine_intelligence-461-the-learning-arc">46.1 The Learning Arc</h2>
 <ul>
 <li>Perceptron (1958): a tunable weight layer learns classifications; Minsky/Papert prove single layers can't do XOR → funding winter (lesson: capability claims outrunning math invite corrections).</li>
@@ -223,7 +266,84 @@ body {
 <li>Convolutional nets read images (LeNet handwriting); then <strong>AlexNet (2012):</strong> GPUs + ImageNet data + depth crushed the benchmark — hardware-software-data CO-EVOLUTION became the pattern (<a href="ch45.html">Ch 45</a>'s sensors, <a href="ch43.html">Ch 43</a>'s power economics all feeding one curve).</li>
 <li><strong>Transformers (2017, "Attention Is All You Need"):</strong> attention mechanisms process sequences in parallel, scaling cleanly with compute/data/parameters. Scaling laws held embarrassingly well: bigger kept meaning better. Language models emerged as general text interfaces — translation, code, reasoning-flavored tasks behind one architecture.</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Wave</th>
+<th>Unlock</th>
+<th>Limit found</th>
+<th>Lesson</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Perceptron 1958</td>
+<td>Learned weights</td>
+<td>No XOR (single layer)</td>
+<td>Math audits hype</td>
+</tr>
+<tr>
+<td>Expert systems 80s</td>
+<td>Encoded rules (XCON $25M+/yr)</td>
+<td>Brittle, unmaintainable</td>
+<td>ROI mechanical ≠ general</td>
+</tr>
+<tr>
+<td>Backprop 1986</td>
+<td>Deep training</td>
+<td>Compute-starved</td>
+<td>Wait for GPUs</td>
+</tr>
+<tr>
+<td>AlexNet 2012</td>
+<td>GPU + data + depth</td>
+<td>Hungry for labels/power</td>
+<td>Co-evolution wins</td>
+</tr>
+<tr>
+<td>Transformers 2017+</td>
+<td>Parallel scale</td>
+<td>Cost, hallucination</td>
+<td>Per-domain adoption</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch46_machine_intelligence-462-what-learning-actually-is">46.2 What Learning Actually Is</h2>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Train validate deploy loop with failure guards">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 46.2 — Generalization is the only metric (guards at every arrow)</text>
+<g font-size="9" text-anchor="middle">
+<rect x="20" y="55" width="120" height="60" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="80" y="72" font-weight="bold">TRAIN</text>
+<text x="80" y="84">fit millions of</text>
+<text x="80" y="95">weights downhill</text>
+<rect x="170" y="55" width="120" height="60" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="230" y="72" font-weight="bold">VALIDATE (unseen)</text>
+<text x="230" y="84">benchmarks leak —</text>
+<text x="230" y="95">held-out decides</text>
+<rect x="320" y="55" width="120" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="380" y="72" font-weight="bold">ALIGN (RLHF)</text>
+<text x="380" y="84">behavior ≠ capability:</text>
+<text x="380" y="95">tune separately</text>
+<rect x="470" y="55" width="150" height="60" rx="6" fill="#f9eeec" stroke="#8f3b2d" stroke-width="2"/>
+<text x="545" y="72" font-weight="bold">DEPLOY + MONITOR</text>
+<text x="545" y="84">drift, adversaries,</text>
+<text x="545" y="95">Goodhart gaming</text>
+</g>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="140" y1="85" x2="170" y2="85"/><polygon points="170,79 170,91 178,85" fill="#16130e"/>
+<line x1="290" y1="85" x2="320" y2="85"/><polygon points="320,79 320,91 328,85" fill="#16130e"/>
+<line x1="440" y1="85" x2="470" y2="85"/><polygon points="470,79 470,91 478,85" fill="#16130e"/>
+</g>
+<path d="M545,115 Q320,160 80,115" fill="none" stroke="#8f3b2d" stroke-width="1.5" stroke-dasharray="6,3"/>
+<text x="320" y="150" text-anchor="middle" font-size="9" fill="#8f3b2d">retrain on drift — the world keeps moving (distribution shift)</text>
+<text x="320" y="167" text-anchor="middle" font-size="10" font-weight="bold">Augment verification-capable humans; autonomy where errors are cheap + checkable.</text>
+<text x="320" y="184" text-anchor="middle" font-size="9" font-style="italic">red-team like aviation post-mortems ([Ch 33](ch33.html)) — incident norms before incidents</text>
+</svg>
+<figcaption><strong>Figure 46.2.</strong> Training minimizes error on examples; validation on unseen data is the only truth; alignment tunes behavior apart from capability; deployment drifts. Guards (audits, grounding, monitoring) belong at every arrow, not as an afterthought layer.</figcaption>
+</figure>
+
 <p>Keep the demystified frame:</p>
 <ol>
 <li>A model is a function with millions-to-trillions of adjustable parameters.</li>
@@ -231,6 +351,7 @@ body {
 <li>Generalization = performance on UNSEEN data — the only metric that matters; benchmarks leak, so evaluation discipline decides truth.</li>
 <li>RLHF-style alignment training shapes model behavior toward human preferences after base training — capability and behavior are separately tuned dials.</li>
 </ol>
+<p><strong>Evaluation doctrine:</strong> held-out sets never touched in training, leakage audits (near-duplicates count as cheating), per-domain scorecards (aggregate means hide the failing specialty), human-verified samples for consequential outputs. A benchmark become a target stops measuring (<a href="ch47.html">Ch 47</a> Goodhart) — rotate and re-blind regularly.</p>
 <h2 id="ch46_machine_intelligence-463-proven-wins">46.3 Proven Wins</h2>
 <ul>
 <li><strong>AlphaGo/AlphaZero:</strong> superhuman game play via self-play reinforcement — search + learned intuition.</li>
@@ -238,6 +359,37 @@ body {
 <li>Weather models beating physics-based ensembles on speed and sometimes accuracy — forecasting democratized.</li>
 <li>Chip-design floorplanning, code assistants (measurable productivity gains in controlled studies), industrial inspection (<a href="ch45.html">Ch 45</a>), drug-candidate screening (<a href="ch44.html">Ch 44</a>).</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Win</th>
+<th>Method</th>
+<th>Why it transferred</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AlphaGo → Zero</td>
+<td>Self-play RL, no human games</td>
+<td>Rules closed, simulator perfect</td>
+</tr>
+<tr>
+<td>AlphaFold2 (92 GDT)</td>
+<td>Attention + geometry</td>
+<td>50-yr labeled data (PDB)</td>
+</tr>
+<tr>
+<td>Weather ML</td>
+<td>Train on reanalysis</td>
+<td>Physics ensembles as teachers</td>
+</tr>
+<tr>
+<td>Code assistants</td>
+<td>Next-token at scale</td>
+<td>Repositories = labeled corpus</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch46_machine_intelligence-464-failure-modes-engineering-facts">46.4 Failure Modes (Engineering Facts)</h2>
 <ol>
 <li><strong>Hallucination/confabulation:</strong> fluent falsehoods generated with confidence — retrieval grounding, citation requirements, human verification for consequential outputs.</li>
@@ -247,11 +399,48 @@ body {
 <li><strong>Evaluation gaming:</strong> Goodhart's law (<a href="ch47.html">Ch 47</a>) — when a benchmark becomes the target, it stops measuring capability.</li>
 </ol>
 <p>Doctrine: AI augments verification-capable humans best; autonomous deployment belongs where errors are cheap and checkable.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Failure</th>
+<th>Guard</th>
+<th>Cost of skipping</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hallucination</td>
+<td>Retrieval + citations + human sign-off</td>
+<td>Confident falsehoods in records</td>
+</tr>
+<tr>
+<td>Bias</td>
+<td>Audits + representative data + outcome stats</td>
+<td>Silent discrimination at scale</td>
+</tr>
+<tr>
+<td>Drift</td>
+<td>Monitoring + retrain triggers</td>
+<td>Decaying accuracy, nobody notices</td>
+</tr>
+<tr>
+<td>Adversarial</td>
+<td>Threat model + input validation</td>
+<td>Stickers fooling classifiers</td>
+</tr>
+<tr>
+<td>Gaming</td>
+<td>Rotated blind evals</td>
+<td>Benchmarks green, users red</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch46_machine_intelligence-465-compute-economics-and-governance">46.5 Compute Economics and Governance</h2>
 <ul>
 <li>Frontier training runs cost $M→$B; inference optimization (quantization, distillation, caching) determines deployment economics — the fab race (<a href="ch35.html">Ch 35</a>) now doubles as strategic policy (export controls treat chips like oil once was).</li>
 <li>Governance snapshots: risk-tiered regulation (EU AI Act pattern), safety institutes evaluating frontier models, liability allocation debates unresolved. Engineering stance: measurable evaluations, incident reporting norms, red-teaming as standard practice — aviation's post-mortem culture (<a href="ch33.html">Ch 33</a>) ported to software intelligence.</li>
 </ul>
+<p><strong>Deployment arithmetic:</strong> training cost ÷ lifetime inferences + serving watts (<a href="ch43.html">Ch 43</a>) = per-answer price. Distill/quantize/cache till the price clears the domain's wage comparison (<a href="ch45.html">Ch 45</a> $/hr logic, now per decision). Chips as strategy: fabs, power, and talent are the oil fields of this curve (<a href="ch51.html">Ch 51</a> pattern recurring).</p>
 <h2 id="ch46_machine_intelligence-466-the-honest-uncertainty-section">46.6 The Honest Uncertainty Section</h2>
 <p>Trajectory debates are genuinely open: ceiling heights, timeline distributions, alignment difficulty all contested among experts. Planning stance for this book:</p>
 <ul>
@@ -268,6 +457,8 @@ body {
 <li>AlphaGo's move 37 (game 2 vs Lee Sedol, March 2016): policy network assigned a human probability of ~1/10,000 — a documented moment where machine valuation visibly diverged from centuries of professional intuition. AlphaZero generalized via pure self-play; <strong>AlphaFold2 (CASP14, 2020)</strong> reached median backbone accuracy ~92 GDT — atom-level structure prediction for most targets, converting a 50-year problem into a web service.</li>
 <li>Transformers ("Attention Is All You Need," 2017) scaled predictably enough to become infrastructure; GPT-3's 175B parameters (2020) demonstrated few-shot behavior; ChatGPT (November 30, 2022) reportedly crossed ~100M users in two months (third-party estimate) — adoption speed itself became a policy input. The EU's AI Act (adopted 2024) tiered regulation by risk class; export controls turned advanced chips into strategic goods (<a href="ch51.html">Ch 51</a>'s resource-politics pattern recurring around computation).</li>
 </ul>
+<h2 id="ch46_machine_intelligence-468-domain-scorecard-run-quarterly">46.8 Domain Scorecard (Run Quarterly)</h2>
+<p>Per domain (code, triage, dispatch, inspection, drafting): reliability vs verified baseline → error cost × volume → wage comparison → adopt / assist / hold. Aggregate AGI forecasts excluded from the meeting — domains decide, prophecies observe from the hallway.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch45.html" class="reader-nav-link">← Chapter 45</a>

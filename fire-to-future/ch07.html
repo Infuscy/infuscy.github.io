@@ -216,6 +216,32 @@ body {
 <br><strong>Requires:</strong> <a href="ch01.html">Ch 1</a>, <a href="ch05.html">Ch 5</a> (storage), <a href="ch06.html">Ch 6</a> (granaries) · <br><strong>Unlocks:</strong> <a href="ch08.html">Ch 8</a> (fodder base), <a href="ch09.html">Ch 9</a> (surplus economy), <a href="ch32.html">Ch 32</a></p>
 </blockquote>
 <p>Agriculture is the single largest calorie-engine ever built: it multiplies food output per hectare of desirable land by 10–100× over foraging, which multiplies population, which funds every specialist in this book. It is also the first technology whose central problem is invisible — soil nitrogen — and mismanaging it has starved more civilizations than any war.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Rotation systems compared">
+<rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 7.1 — Rotations: rest less, fix nitrogen more (start at the right)</text>
+<g font-size="9" text-anchor="middle">
+<text x="110" y="42" font-weight="bold">TWO-FIELD (skip)</text>
+<rect x="50" y="50" width="120" height="30" fill="#c9a86a" stroke="#16130e"/><text x="110" y="69" font-weight="bold">CROP</text>
+<rect x="50" y="82" width="120" height="30" fill="#9a927e" stroke="#16130e"/><text x="110" y="101" fill="#fff">FALLOW 50%</text>
+<text x="110" y="128" font-size="9">half the land idle</text>
+<text x="320" y="42" font-weight="bold">THREE-FIELD</text>
+<rect x="250" y="50" width="140" height="24" fill="#c9a86a" stroke="#16130e"/><text x="320" y="66" font-weight="bold">WINTER GRAIN</text>
+<rect x="250" y="76" width="140" height="24" fill="#e8dcc0" stroke="#16130e"/><text x="320" y="92">SPRING GRAIN</text>
+<rect x="250" y="102" width="140" height="24" fill="#9a927e" stroke="#16130e"/><text x="320" y="118" fill="#fff">FALLOW/LEGUME</text>
+<text x="320" y="133" font-size="9">66–100% cropped</text>
+<text x="530" y="42" font-weight="bold">NORFOLK FOUR (build)</text>
+<rect x="460" y="50" width="140" height="22" fill="#2e5b34" stroke="#16130e" stroke-width="1.5"/><text x="530" y="64" fill="#fff" font-weight="bold">LEGUME LEY + graze</text>
+<rect x="460" y="74" width="140" height="22" fill="#c9a86a" stroke="#16130e"/><text x="530" y="88" font-weight="bold">CEREAL</text>
+<rect x="460" y="98" width="140" height="22" fill="#e8dcc0" stroke="#16130e"/><text x="530" y="112">ROOTS</text>
+<rect x="460" y="122" width="140" height="22" fill="#c9a86a" stroke="#16130e"/><text x="530" y="136" font-weight="bold">CEREAL</text>
+</g>
+<text x="320" y="160" text-anchor="middle" font-size="10">legume year = fertilizer factory (rhizobia fix N) + livestock graze the ley → manure</text>
+<text x="320" y="177" text-anchor="middle" font-size="10" font-weight="bold">Jump: deploy Norfolk from day one — no machinery needed, only fences.</text>
+</svg>
+<figcaption><strong>Figure 7.1.</strong> Fallow rests soil; legumes feed it. Each step right crops more land while banking more nitrogen — the four-course ley integrates livestock grazing so animals fertilize the next cereal for free.</figcaption>
+</figure>
+
 <h2 id="ch07_agriculture-71-what-to-domesticate-first">7.1 What to Domesticate First</h2>
 <p>Choose founder crops by engineering criteria, not taste:</p>
 <ul>
@@ -225,7 +251,36 @@ body {
 <li>Legumes (peas, lentils, beans) alongside cereals from day one: they fix their own nitrogen and feed soil.</li>
 </ul>
 <p class="co co-key"><strong>Key threshold:</strong> domestication's real bottleneck is <em>non-shattering seed heads</em> — mutant plants that hold grain until harvested rather than scattering it. Spot and propagate these obsessively; they are the difference between farming and re-harvesting wild stands.</p>
+<p><strong>Mass-selection protocol:</strong> mark the best 5 % of plants before harvest (non-shattering, plump, disease-free); harvest and thresh them separately; sow that seed on the best ground next year; repeat. Within a decade the field visibly changes — unconscious selection made conscious.</p>
 <h2 id="ch07_agriculture-72-soil-the-nitrogen-ledger">7.2 Soil: The Nitrogen Ledger</h2>
+<figure class="fig">
+<svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Nitrogen ledger flows">
+<rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 7.2 — The ledger: every harvest withdraws, only three pre-industrial deposits</text>
+<rect x="240" y="55" width="160" height="50" rx="6" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
+<text x="320" y="74" text-anchor="middle" font-size="11" font-weight="bold">SOIL NITROGEN BANK</text>
+<text x="320" y="88" text-anchor="middle" font-size="9">organic matter ~2–5% N</text>
+<text x="320" y="99" text-anchor="middle" font-size="9">crops withdraw yearly</text>
+<g font-size="10" font-weight="bold">
+<text x="90" y="60" fill="#2e5b34">+ LEGUMES →</text>
+<text x="90" y="80" fill="#4a4436">+ MANURE →</text>
+<text x="90" y="100" fill="#9a927e">+ FALLOW →</text>
+<text x="450" y="70" fill="#8f3b2d">→ HARVEST −</text>
+<text x="450" y="90" fill="#8f3b2d">→ LEACHING −</text>
+<text x="450" y="110" fill="#8f3b2d">→ EROSION −</text>
+</g>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="180" y1="60" x2="240" y2="70"/><line x1="180" y1="80" x2="240" y2="82"/><line x1="180" y1="100" x2="240" y2="94"/>
+<line x1="400" y1="70" x2="448" y2="70"/><line x1="400" y1="90" x2="448" y2="90"/><line x1="400" y1="105" x2="448" y2="110"/>
+</g>
+<text x="320" y="130" text-anchor="middle" font-size="10">withdrawals &gt; deposits for a decade = civilization overdraft (yields slide, then crash)</text>
+<text x="320" y="147" text-anchor="middle" font-size="10" font-weight="bold">Compost + rotations + manure: the only pre-Haber income lines.</text>
+<text x="320" y="164" text-anchor="middle" font-size="9" font-style="italic">irrigation adds a fourth withdrawal risk: SALT (drain below roots, flush, rotate — §7.4)</text>
+<text x="320" y="180" text-anchor="middle" font-size="9">terra preta (§7.9): charcoal locks fertility for centuries — the savings account</text>
+</svg>
+<figcaption><strong>Figure 7.2.</strong> Harvests, rain, and slopes drain the account; legumes, manure, and rest refill it. Farm the balance sheet, not the field — and watch salt where irrigation flows.</figcaption>
+</figure>
+
 <p>Every grain harvest exports nitrogen from the soil. Soil organic matter holds only ~2–5 % nitrogen, and crops take it relentlessly. The pre-industrial ledger has exactly three income lines:</p>
 <ol>
 <li><strong>Legumes:</strong> beans/clover/alfalfa host nitrogen-fixing bacteria on roots — a legume year deposits fertilizer for the following crop. This is rotation's entire secret.</li>
@@ -233,6 +288,7 @@ body {
 <li><strong>Fallow:</strong> bare rest years let soil biology recover — the fallback when 1–2 are underused.</li>
 </ol>
 <p>Rotation systems: two-field (crop/fallow) → three-field (winter grain / spring grain / fallow-or-legume) raises cultivated share from 50 % to 66–100 % of arable land. Design your three-course rotation immediately; skipping straight past two-field is an easy <a href="#ch07_agriculture-75-jump-rotation-design">Jump</a>.</p>
+<p><strong>Compost recipe:</strong> alternate green (manure, fresh weeds, food waste) with brown (straw, leaves, dry stalks); keep damp as a wrung sponge; turn when the core cools; finished when dark, crumbly, earth-smelling (8–12 weeks warm). Cap heaps against downpours (nutrients leach) and site on soil (worms inoculate free).</p>
 <h2 id="ch07_agriculture-73-tillage-and-tools">7.3 Tillage and Tools</h2>
 <p>Tillage kills weeds, incorporates manure, and prepares a seedbed — but over-tillage oxidizes humus and erodes slope soils. Tool ladder:</p>
 <ol>
@@ -241,6 +297,10 @@ body {
 <li>Moldboard plow (<a href="ch08.html">Ch 8</a>): turns a full furrow, buries weeds, unlocks heavy wet clay soils — historically the plow that made northern Europe's plains farmland.</li>
 </ol>
 <p>Sowing: broadcast wastes 30–50 % of seed to birds and uneven depth. A simple <strong>seed drill</strong> (a hopper feeding a tube behind a furrow-opening tine, spaced rows) halves seed use and doubles weeding efficiency because rows can be hoed. It is low-tech enough to build in <a href="ch15.html">Part II</a> workshops and pays for itself in one season.</p>
+<pre><code>HOPPER (metered hole) → TUBE → TINE (opens furrow) → seed falls even depth
+   → CHAIN/HARROW covers → ROWS evenly spaced → hoe between rows
+</code></pre>
+<p><strong>Plow-match rule:</strong> light ard for thin dry soils (less draft, less erosion); moldboard for heavy wet clays (full inversion buries weed seed); never plow wet clay (smears into brick) or powder-dry slope (wind takes it). Contour-plow slopes — furrows across, never down.</p>
 <h2 id="ch07_agriculture-74-water-management">7.4 Water Management</h2>
 <p>Rainfall agriculture fails somewhere between one-in-five and one-in-ten years everywhere. Water control converts that gamble into arithmetic:</p>
 <ul>
@@ -249,6 +309,48 @@ body {
 <li><strong>Drainage matters as much as watering:</strong> waterlogged roots suffocate; ridge-and-furrow fields and tile drains (fired ceramic tubes — <a href="ch05.html">Ch 5</a>) reclaim wetlands.</li>
 </ul>
 <p class="co co-dead"><strong>Dead end avoided:</strong> Mesopotamia's salinization collapse. Irrigated water always carries dissolved salts; evaporation leaves them behind. Prevent with deep drainage below root zone, periodic heavy flushing leaches, and salt-tolerant crop rotation — or watch barley fields turn white within centuries, as history's first great irrigation civilization did.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Water move</th>
+<th>Device</th>
+<th>Lift/role</th>
+<th>Rule</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Furrow gravity</td>
+<td>Leveled channels</td>
+<td>Distribution</td>
+<td>Level fields first — water won't climb</td>
+</tr>
+<tr>
+<td>Shadoof</td>
+<td>Counterweighted arm</td>
+<td>~50 L/pull, meters</td>
+<td>One operator, gardens</td>
+</tr>
+<tr>
+<td>Sakia / chain pump</td>
+<td>Animal/water driven</td>
+<td>Continuous lift</td>
+<td>Later with <a href="ch16.html">Ch 16</a></td>
+</tr>
+<tr>
+<td>Drainage</td>
+<td>Ridge-furrow + tile</td>
+<td>Removes excess</td>
+<td>Drain below root zone or salts rise</td>
+</tr>
+<tr>
+<td>Flush leach</td>
+<td>Heavy watering</td>
+<td>Pushes salts deep</td>
+<td>Periodic, with drainage open</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch07_agriculture-75-jump-rotation-design">7.5 Jump: Rotation Design</h2>
 <p>Knowing what history learned slowly, skip directly to a four-course system on establishment: <strong>legume ley → cereal → root/vegetable → cereal</strong>, integrating livestock grazing on the ley. This is essentially the Norfolk four-course rotation that powered 18th-century English yields — deployable at village scale from day one, no machinery required beyond fences.</p>
 <h2 id="ch07_agriculture-76-pests-storage-and-seed-sovereignty">7.6 Pests, Storage, and Seed Sovereignty</h2>
@@ -257,8 +359,39 @@ body {
 <li><strong>Never eat your seed corn:</strong> reserve 10–20 % of the best harvest as next year's seed, stored separately and labeled. Civilizations have died eating it.</li>
 <li>Keep <strong>three distinct landraces</strong> of each staple in case disease finds one; genetic monoculture is a standing invitation to famine (the Irish potato lesson, formalized in <a href="ch32.html">Ch 32</a>).</li>
 </ul>
+<p><strong>Seed store (separate building or sealed bins):</strong> best heads only, dried hardest, labeled by field + year (<a href="ch11.html">Ch 11</a>), germination-tested each spring (100 seeds on damp cloth — count sprouts; re-sow below 85 %). Seed is next year's civilization in sacks — guard it like the treasury.</p>
 <h2 id="ch07_agriculture-77-the-surplus-equation">7.7 The Surplus Equation</h2>
 <p>Rough numbers to plan by: one hectare of managed grain supports ~4–10 people; one person hand-farming tends ~1–2 ha (less with drill and draft animals). Surplus above subsistence is what frees roughly one in five people to become potters, smiths, scribes, engineers — i.e., everything else in this book. Maximize yield-per-labor first, yield-per-hectare second; labor is the scarcer input until machines arrive (<a href="ch29.html">Ch 29</a>).</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Input</th>
+<th>Tends</th>
+<th>Feeds</th>
+<th>Frees</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hand hoe, broadcast</td>
+<td>~1 ha/person</td>
+<td>~4–6 people</td>
+<td>Family + margin</td>
+</tr>
+<tr>
+<td>Ard + rotation</td>
+<td>~1.5 ha</td>
+<td>~6–8</td>
+<td>Part-time smith</td>
+</tr>
+<tr>
+<td>Moldboard + drill + manure</td>
+<td>~2 ha +</td>
+<td>~8–10</td>
+<td>1 in 5 specialists</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch07_agriculture-78-multiple-independent-origins">7.8 Multiple Independent Origins</h2>
 <p>Agriculture was invented separately at least half a dozen times — each package engineered around local species:</p>
 <div class="table-wrap"><table>
@@ -311,6 +444,7 @@ body {
 <li>Production method reconstructs as smoldering (low-oxygen charring rather than burning-to-ash) of waste streams, mixed into garden beds — village-scale, tool-light, endlessly replicable.</li>
 <li>The modern biochar movement is this practice rediscovered: carbon sequestration and soil amendment in one operation (<a href="ch43.html">Ch 43</a>'s energy abundance makes industrial-scale versions viable later).</li>
 </ul>
+<p><strong>Pit-char method:</strong> dig trench, stack dry waste wood, light top-down (flame cap consumes oxygen), quench with water/soil when charred not ashed (<a href="ch01.html">Ch 1</a> mound logic, small scale); crush, charge with urine/manure tea (raw char robs nitrogen first season), mix 1:10 into beds with sherds and compost. Every kitchen midden becomes a fertility factory.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch06.html" class="reader-nav-link">← Chapter 6</a>

@@ -216,9 +216,61 @@ body {
 <br><strong>Requires:</strong> <a href="ch17.html">Ch 17</a> glass, <a href="ch34.html">Ch 34</a>/<a href="ch35.html">35</a> photonics/electronics, <a href="ch26.html">Ch 26</a> power · <br><strong>Unlocks:</strong> <a href="ch42.html">Ch 42</a>'s physical layer, global real-time civilization</p>
 </blockquote>
 <p>Copper carries bandwidth; glass carries BANDWIDTH. Fiber moved humanity from scarce, expensive communication to ambient, effectively-free communication — the substrate the internet assumes. This chapter builds light into a utility.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Total internal reflection and loss ladder">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 41.1 — Trap light by index step; win by purity (dB/km)</text>
+<rect x="40" y="50" width="300" height="60" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<rect x="40" y="42" width="300" height="8" fill="#9a927e" stroke="#16130e"/>
+<rect x="40" y="110" width="300" height="8" fill="#9a927e" stroke="#16130e"/>
+<text x="190" y="85" text-anchor="middle" font-size="10" font-weight="bold">CORE (higher index)</text>
+<text x="190" y="98" text-anchor="middle" font-size="9">cladding lower — ray reflects, never escapes</text>
+<polyline points="50,95 120,70 190,95 260,70 330,95" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<text x="60" y="135" font-size="9">shallow rays guided · steep rays leak (acceptance cone)</text>
+<text x="450" y="50" font-size="11" font-weight="bold">LOSS LADDER</text>
+<rect x="400" y="60" width="200" height="18" fill="#f9eeec" stroke="#8f3b2d"/><text x="500" y="73" text-anchor="middle" font-size="9">ordinary glass ~1,000 dB/km (meters!)</text>
+<rect x="400" y="82" width="140" height="18" fill="#e8dcc0" stroke="#8a6d1f"/><text x="470" y="95" text-anchor="middle" font-size="9">Kao target &lt;20 dB/km (1966)</text>
+<rect x="400" y="104" width="200" height="18" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/><text x="500" y="117" text-anchor="middle" font-size="9" font-weight="bold">Corning 1970 ✓ → modern 0.15–0.2</text>
+<rect x="400" y="126" width="100" height="18" fill="#eef5ec" stroke="#2e5b34" stroke-width="1.5"/><text x="450" y="139" text-anchor="middle" font-size="9">half survives ~15–20 km</text>
+<text x="500" y="160" text-anchor="middle" font-size="9" font-style="italic">enemy: Fe/Cu ions + OH water —</text>
+<text x="500" y="172" text-anchor="middle" font-size="9" font-style="italic">vapor deposition purity ([Ch 35])</text>
+</svg>
+<figcaption><strong>Figure 41.1.</strong> The step in refractive index is the pipe; impurity removal is the breakthrough. Kao reframed attenuation as dirt, Corning removed the dirt — four years from calculation to communication-grade glass.</figcaption>
+</figure>
+
 <h2 id="ch41_fiber_optics-411-why-glass">41.1 Why Glass</h2>
 <p>Total internal reflection traps light inside a core whose index exceeds its cladding — the principle of optical fiber. But ordinary glass absorbs catastrophically (~dB per METER): every meter steals signal until nothing arrives. Kao &amp; Hockham (1966) computed that IF attenuation fell below ~20 dB/km, communication-grade fiber was possible; impurities (iron, copper ions, water's OH) were the enemy, not physics.</p>
 <p>Corning delivered &lt;20 dB/km in 1970 via vapor-deposition purity; modern transmission fiber runs ~0.15–0.2 dB/kM near 1550 nm — half the light survives ~15–20 km. Purity culture (<a href="ch35.html">Ch 35</a>'s discipline applied to silica) is the whole ballgame.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Window</th>
+<th>Loss</th>
+<th>Dispersion</th>
+<th>Serves</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>850 nm</td>
+<td>Higher, cheap sources</td>
+<td>Modal (multimode)</td>
+<td>Buildings, campus</td>
+</tr>
+<tr>
+<td>1310 nm</td>
+<td>~0.35 dB/km</td>
+<td>Near-zero</td>
+<td>Metro, legacy long-haul</td>
+</tr>
+<tr>
+<td>1550 nm</td>
+<td>~0.15–0.2 dB/km</td>
+<td>Managed</td>
+<td>Long-haul + EDFAs live here</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch41_fiber_optics-412-fiber-types">41.2 Fiber Types</h2>
 <ul>
 <li><strong>Step-index multimode:</strong> fat core, simple/cheap sources, modal dispersion smears pulses over distance — buildings/campus only.</li>
@@ -226,21 +278,91 @@ body {
 <li><strong>Single-mode:</strong> tiny core (~9 μm); one path = no modal dispersion; chromatic dispersion managed by dispersion-shifted designs/compensation. THE long-haul standard.</li>
 <li>Windows: 1310 nm (zero dispersion) and 1550 nm (lowest loss) — erbium-doped fiber amplifiers live at 1550.</li>
 </ul>
+<p><strong>Choice rule:</strong> multimode where hands are cheap and runs short (patch, riser); single-mode everywhere else — the price gap vanished while the distance gap never did. Pull single-mode even when lighting multimode today; the glass outlives three electronics generations.</p>
 <h2 id="ch41_fiber_optics-413-sources-and-amplifiers">41.3 Sources and Amplifiers</h2>
 <ul>
 <li>Laser diodes (edge-emitting, then DFB single-frequency) inject light efficiently into single-mode cores; direct modulation gave way to external modulators at speed.</li>
 <li><strong>EDFA (1987):</strong> pump a spool of erbium-doped fiber with 980/1480 nm lasers and it amplifies passing 1550-nm signals OPTICALLY — no conversion to electricity mid-ocean. Transoceanic systems became economic overnight.</li>
 <li><strong>WDM:</strong> dozens-to-hundreds of closely-spaced wavelengths share one fiber (prism-like mux/demux splitting colors at endpoints); coherent detection + DSP later packed terabits per fiber pair. Capacity growth outpaced Moore's law for stretches — spectrum is the new acreage.</li>
 </ul>
+<pre><code>TRANSMIT: DFB lasers (one color each) → MUX (combine colors) → FIBER → EDFA (optical boost)
+   → FIBER → ... → DEMUX (split colors) → RECEIVERS (coherent + DSP)
+</code></pre>
 <h2 id="ch41_fiber_optics-414-submarine-cables">41.4 Submarine Cables</h2>
+<figure class="fig">
+<svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Submarine cable layers and WDM">
+<rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 41.2 — One cable, many colors: armor outside, spectrum inside</text>
+<g text-anchor="middle" font-size="9">
+<circle cx="150" cy="100" r="42" fill="none" stroke="#16130e" stroke-width="2"/>
+<circle cx="150" cy="100" r="34" fill="none" stroke="#8f3b2d" stroke-width="2"/>
+<circle cx="150" cy="100" r="26" fill="none" stroke="#8a6d1f" stroke-width="2"/>
+<circle cx="150" cy="100" r="16" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<circle cx="150" cy="100" r="6" fill="#2e5b34"/>
+<text x="150" y="160" font-size="9">steel armor → copper power →</text>
+<text x="150" y="171" font-size="9">polyethylene → fibers (center)</text>
+<text x="150" y="185" font-size="9" font-style="italic">bury near shore; bare in deep</text>
+</g>
+<text x="420" y="50" font-size="11" font-weight="bold">WDM: PRISM IN REVERSE, TWICE</text>
+<rect x="320" y="60" width="200" height="26" rx="4" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="420" y="77" text-anchor="middle" font-size="9" font-weight="bold">MUX: λ1+λ2+…+λ96 → one fiber</text>
+<rect x="320" y="92" width="200" height="26" rx="4" fill="#eef5ec" stroke="#2e5b34" stroke-width="1.5"/>
+<text x="420" y="109" text-anchor="middle" font-size="9" font-weight="bold">EDFA every ~60–80 km (optical)</text>
+<rect x="320" y="124" width="200" height="26" rx="4" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="420" y="141" text-anchor="middle" font-size="9" font-weight="bold">DEMUX: one fiber → λ1, λ2…</text>
+<text x="420" y="162" text-anchor="middle" font-size="9">repeaters fed by cable copper itself</text>
+<text x="420" y="175" text-anchor="middle" font-size="9" font-style="italic">OTDR backscatter pinpoints faults to meters</text>
+<text x="420" y="190" text-anchor="middle" font-size="9">anchors/trawls top fault log; sharks marginal</text>
+</svg>
+<figcaption><strong>Figure 41.2.</strong> Left: concentric survival — fibers ride the neutral center, copper feeds repeaters, steel takes the bites. Right: colors multiply capacity — one fiber carries a rainbow, amplifiers boost light without ever decoding it.</figcaption>
+</figure>
+
 <p>~500+ cables carry &gt;95 % of intercontinental data (satellites are rounding errors for bulk traffic):</p>
 <ul>
 <li>Repeatered design: amplifier housings every ~60–80 km fed by constant-current copper in the cable itself.</li>
 <li>Armor where anchors/sharks bite (yes — shark bites are a logged maintenance category), burial near shore, deep-water sections nearly bare.</li>
 <li>Cable ships splice repairs at sea; fault location via OTDR backscattering math. Landing stations are chokepoints — route diversity is resilience doctrine (<a href="ch47.html">Ch 47</a>).</li>
 </ul>
+<p><strong>Repair loop:</strong> OTDR locates (meters) → ship grapples → splice spare section on deck → test → re-lay with slack loop. Stock cable + repeaters + trained crew before the fault, not after — mean repair time is measured in weeks of ship scheduling, not hours of splicing.</p>
 <h2 id="ch41_fiber_optics-415-terrestrial-build-out-and-access">41.5 Terrestrial Build-Out and Access</h2>
 <p>Backbone rings → metro rings → access. The last mile history: dial-up modems (audio-band cleverness) → DSL (reusing phone copper at MHz) → cable DOCSIS → FTTH (GPON sharing one fiber across 32–128 homes passively). Each generation re-litigated the same economics: construction labor dominates; dig once, pull more fiber later.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Generation</th>
+<th>Medium</th>
+<th>Rate</th>
+<th>Lesson</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dial-up</td>
+<td>Voice copper</td>
+<td>~56 kbps</td>
+<td>Cleverness over physics, briefly</td>
+</tr>
+<tr>
+<td>DSL</td>
+<td>Same copper, MHz</td>
+<td>Mbps</td>
+<td>Squeeze the sunk plant</td>
+</tr>
+<tr>
+<td>DOCSIS</td>
+<td>Coax + fiber deep</td>
+<td>10–100s Mbps</td>
+<td>Shared medium congests</td>
+</tr>
+<tr>
+<td>GPON FTTH</td>
+<td>Passive fiber 1:32–128</td>
+<td>Gbps shared</td>
+<td>Dig once, blow more fiber later</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Dig-once doctrine:</strong> trench cost dwarfs glass cost 10:1 — lay ducts with pull-cords and spare microducts every excavation; light only what sells, keep dark fiber for the boom (<a href="ch42.html">Ch 42</a> consumes the glut).</p>
 <h2 id="ch41_fiber_optics-416-telephonys-switching-evolution">41.6 Telephony's Switching Evolution</h2>
 <p>The circuit side matured in parallel:</p>
 <ul>
@@ -249,6 +371,9 @@ body {
 <li>Mobile generations rode semiconductor progress (<a href="ch35.html">Ch 35</a>): 1G analog FM → 2G GSM digital + SMS → 3G packet data → 4G LTE all-IP → 5G massive MIMO/beamforming. Cell concept: reuse frequencies spatially; handoff keeps calls alive at walking/driving speed.</li>
 <li>VoIP collapsed circuit/packet distinction entirely — voice became an application.</li>
 </ul>
+<pre><code>CELL = hexagon of coverage; frequency reused 7 cells away; handoff at walking/driving speed
+1G FM voice → 2G digital+SMS → 3G packets → 4G all-IP → 5G beams (MIMO)
+</code></pre>
 <p class="co co-dead"><strong>Dead end avoided:</strong> building parallel dedicated networks per service (voice/video/data). Converged IP infrastructure won on economics; plan convergence from the start.</p>
 <p class="co co-key"><strong>Key threshold:</strong> when international bandwidth costs fall below the price of postage-equivalent value exchange, global real-time collaboration becomes default — remote work, telemedicine, distributed science all become ordinary rather than exotic. That threshold crossed circa the 2000s fiber glut; the overbuild was civilization's bargain of the century (<a href="ch42.html">Ch 42</a> inherits it directly).</p>
 <h2 id="ch41_fiber_optics-417-the-fiber-papers">41.7 The Fiber Papers</h2>
@@ -259,6 +384,8 @@ body {
 <li>Submarine maintenance reality, from repair logs: anchors and trawls account for most faults; shark bites are documented but marginal; fault location runs on OTDR backscatter arithmetic (<a href="#ch41_fiber_optics-414-submarine-cables">§41.4</a>).</li>
 <li>Historians of bandwidth note the pattern: each overbuild (fiber glut circa 2001, dark fiber resold cheaply) preceded the next usage explosion — video streaming consumed the glut the bust left behind (<a href="ch42.html">Ch 42</a> inherits the lesson: capacity arrives before demand proves it).</li>
 </ul>
+<h2 id="ch41_fiber_optics-418-splicing-discipline">41.8 Splicing Discipline</h2>
+<p>Strip → clean (alcohol, lint-free) → cleave (mirror end, &lt;1° angle) → fuse (arc, auto-align cores) → sleeve + test (OTDR + power meter, budget 0.05–0.1 dB/splice single-mode). A dirty cleave costs more decibels than kilometers of glass — cleanliness IS the network.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch40.html" class="reader-nav-link">← Chapter 40</a>

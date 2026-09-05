@@ -216,6 +216,37 @@ body {
 <br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch17.html">Ch 17</a>/<a href="ch19.html">19</a> glass, <a href="ch18.html">Ch 18</a> tables · <br><strong>Unlocks:</strong> every quantitative chapter after this one</p>
 </blockquote>
 <p>Science is not a subject; it is a <em>quality-control system for knowledge</em>. Its hardware is precision instruments; its software is method. This chapter builds both, because either alone stalls: instruments without method produce curiosities; method without instruments produces philosophy.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Vernier scale reading diagram">
+<rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 20.1 — Reading a vernier: find the ONE line that aligns</text>
+<g font-size="10" font-family="Consolas, monospace">
+<rect x="40" y="45" width="560" height="40" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<g stroke="#16130e" stroke-width="1">
+<line x1="60" y1="45" x2="60" y2="70"/><text x="60" y="95" text-anchor="middle">0</text>
+<line x1="110" y1="45" x2="110" y2="65"/><line x1="160" y1="45" x2="160" y2="65"/><line x1="210" y1="45" x2="210" y2="65"/>
+<line x1="260" y1="45" x2="260" y2="70"/><text x="260" y="95" text-anchor="middle">20</text>
+<line x1="310" y1="45" x2="310" y2="65"/><line x1="360" y1="45" x2="360" y2="65"/><line x1="410" y1="45" x2="410" y2="65"/>
+<line x1="460" y1="45" x2="460" y2="70"/><text x="460" y="95" text-anchor="middle">40 mm</text>
+</g>
+<text x="40" y="115" font-size="10" font-family="Cambria, serif">MAIN SCALE (1 mm divisions)</text>
+<rect x="90" y="125" width="450" height="36" fill="#dfe7ee" stroke="#2f5286" stroke-width="1.5"/>
+<g stroke="#2f5286" stroke-width="1">
+<line x1="100" y1="125" x2="100" y2="150"/><text x="100" y="172" text-anchor="middle">0</text>
+<line x1="145" y1="125" x2="145" y2="145"/><text x="145" y="172" text-anchor="middle">1</text>
+<line x1="190" y1="125" x2="190" y2="145"/><text x="190" y="172" text-anchor="middle">2</text>
+<line x1="235" y1="125" x2="235" y2="150"/><text x="235" y="172" text-anchor="middle">3</text>
+<line x1="280" y1="125" x2="280" y2="145"/><text x="280" y="172" text-anchor="middle">4</text>
+<line x1="325" y1="125" x2="325" y2="150"/><text x="325" y="172" text-anchor="middle">5</text>
+</g>
+<line x1="235" y1="45" x2="235" y2="161" stroke="#8f3b2d" stroke-width="2"/>
+<circle cx="235" cy="105" r="6" fill="none" stroke="#8f3b2d" stroke-width="2"/>
+</g>
+<text x="320" y="192" text-anchor="middle" font-size="10">main scale reads 13 mm + vernier line 3 aligns → <tspan font-weight="bold">13.3 mm</tspan> (vernier divides 1 mm into 10)</text>
+</svg>
+<figcaption><strong>Figure 20.1.</strong> The vernier trick: 10 vernier divisions span 9 main divisions, so exactly one vernier line aligns — its index is the fractional digit. Ten minutes of practice replaces a magnifier and a guess.</figcaption>
+</figure>
+
 <h2 id="ch20_instruments-201-the-clock-master-instrument">20.1 The Clock: Master Instrument</h2>
 <p>Precision time is the root measurement — everything else (speed, acceleration, flow rates, longitude) derives from it.</p>
 <ul>
@@ -224,12 +255,50 @@ body {
 <li>Doctrine: build ONE reference regulator per institution; all other clocks sync to it daily.</li>
 </ul>
 <p class="co co-key"><strong>Key threshold:</strong> seconds-level timekeeping unlocks velocity measurement → dynamics experiments → engineering design from data instead of tradition.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Clock</th>
+<th>Rate</th>
+<th>Daily error</th>
+<th>What it unlocks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verge + foliot (tower)</td>
+<td>~15 min/day</td>
+<td>900 s</td>
+<td>Bell-ringing, prayer hours</td>
+</tr>
+<tr>
+<td>Pendulum regulator (seconds pendulum, L ≈ 0.994 m)</td>
+<td>seconds/day</td>
+<td>1–5 s</td>
+<td>Dynamics, surveying baselines</td>
+</tr>
+<tr>
+<td>Temperature-compensated regulator</td>
+<td>&lt;1 s/day</td>
+<td>&lt;1 s</td>
+<td>Observatory standard</td>
+</tr>
+<tr>
+<td>Marine chronometer (H4 class)</td>
+<td>&lt;0.1 s/day</td>
+<td>0.1 s</td>
+<td>Longitude to ~25 m at equator</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Seconds-pendulum shortcut:</strong> a ~0.994 m pendulum beats exact seconds at sea level. Build the regulator around this length first, then rate it against noon transits (a pinhole + plumb line gives local noon to seconds). Lengthen to slow, shorten to gain — one full turn of the rating nut ≈ predictable seconds/day once logged.</p>
 <h2 id="ch20_instruments-202-mass-length-force">20.2 Mass, Length, Force</h2>
 <ul>
 <li><strong>Equal-arm balance:</strong> sensitivity scales with beam length minus flex; knife-edge agate bearings. A good balance reaches 1-part-in-100,000 — enough to found stoichiometry (<a href="ch21.html">Ch 21</a>) and assay law (<a href="ch09.html">Ch 9</a>).</li>
 <li><strong>Length standards:</strong> a sealed metal bar in constant temperature defines the unit locally; divide by vernier scales (a sliding auxiliary scale reading 1/10 of the main division — trivially clever, universally useful). Micrometer screws read to 0.01 mm once lathe-cut threads are consistent (<a href="ch15.html">Ch 15</a>).</li>
 <li><strong>Standards bodies early:</strong> publish your units, distribute certified copies, re-verify annually. Metric-style decimal coherence (every unit ×10) is a deliberate simplification — adopt it from scratch.</li>
 </ul>
+<p><strong>Balance SOP:</strong> level the case, zero with empty pans, weigh by substitution (sample + weights vs counterpoise) to cancel arm inequality, record temperature and drafts, clean pans with a brush never fingers (skin oil weighs milligrams — exactly your error budget). Calibrate against one sealed reference mass; never use the reference for daily work — use working copies and re-verify quarterly.</p>
 <h2 id="ch20_instruments-203-pressure-vacuum-temperature">20.3 Pressure, Vacuum, Temperature</h2>
 <ul>
 <li><strong>Barometer (Torricelli):</strong> a mercury column ~760 mm at sea level measures atmosphere AND altitude (−11 mm per 100 m climb roughly); weather correlation follows.</li>
@@ -237,6 +306,42 @@ body {
 <li><strong>Thermometer:</strong> fixed points (ice/water, boiling water) calibrate; mercury range −39→357 °C covers practical needs. Gas thermometers define scale better later. Standardize degrees NOW — mixed Fahrenheit/Celsius/Reaumur confusion is pure historical waste.</li>
 <li><strong>Calorimetry seed:</strong> mix known masses of hot/cold water in insulated vessels; temperature change × mass = heat exchanged. Latent heats (melting/boiling plateaus) measured similarly — Black's insights that later power steam design (<a href="ch23.html">Ch 23</a>).</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Instrument</th>
+<th>Build</th>
+<th>Range</th>
+<th>Calibration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mercury barometer</td>
+<td>90 cm glass tube, boiled mercury, inverted in cistern</td>
+<td>~600–800 mmHg</td>
+<td>Sea-level mark + altitude table</td>
+</tr>
+<tr>
+<td>Spirit thermometer</td>
+<td>Sealed capillary, alcohol + dye</td>
+<td>−30→+80 °C</td>
+<td>Ice point + boiling point, divide evenly</td>
+</tr>
+<tr>
+<td>Mercury thermometer</td>
+<td>Same, mercury fill</td>
+<td>−39→+357 °C</td>
+<td>Same fixed points; finer bore = finer reading</td>
+</tr>
+<tr>
+<td>Vacuum pump (piston)</td>
+<td>Oiled leather piston, two flap valves</td>
+<td>to ~1–10 torr</td>
+<td>Boyle check: halve volume → pressure doubles</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch20_instruments-204-electricitys-measuring-kit-preview">20.4 Electricity's Measuring Kit (Preview)</h2>
 <p>Static charge storage (<a href="ch25.html">Ch 25</a>) begins with Leyden jars; torsion balances quantify inverse-square laws; galvanometers (needle deflection from current coils) make electricity measurable at all. Build these when Part III's electrical chapters arrive — but note here that EVERY physical domain became science only after it acquired an instrument.</p>
 <h2 id="ch20_instruments-205-the-method-itself">20.5 The Method Itself</h2>
@@ -250,11 +355,80 @@ body {
 <li><strong>Publication:</strong> printed, dated, citable (<a href="ch18.html">Ch 18</a>); priority disputes resolved by timestamps, not seniority.</li>
 <li><strong>Peer critique institutions:</strong> scientific societies meeting regularly, publishing journals, maintaining archives (Royal Society pattern, 1660).</li>
 </ol>
+<figure class="fig">
+<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Method loop and error shrinking">
+<rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
+<text x="200" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 20.2a — The method loop</text>
+<g font-size="9" text-anchor="middle">
+<ellipse cx="200" cy="55" rx="70" ry="18" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="200" y="58" font-weight="bold">QUESTION</text>
+<ellipse cx="200" cy="100" rx="70" ry="18" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="200" y="103" font-weight="bold">PREDICT (falsifiable)</text>
+<ellipse cx="200" cy="145" rx="70" ry="18" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="200" y="148" font-weight="bold">TEST + MEASURE</text>
+<ellipse cx="200" cy="188" rx="70" ry="18" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="200" y="191" font-weight="bold">PUBLISH + REPLICATE</text>
+</g>
+<path d="M270,60 Q300,120 272,183" fill="none" stroke="#16130e" stroke-width="1.5"/>
+<polygon points="272,183 264,173 280,174" fill="#16130e"/>
+<text x="305" y="120" font-size="9" font-style="italic">revise or</text>
+<text x="305" y="131" font-size="9" font-style="italic">discard</text>
+<text x="470" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 20.2b — Averaging shrinks error</text>
+<line x1="380" y1="40" x2="560" y2="40" stroke="#16130e"/>
+<line x1="380" y1="40" x2="380" y2="190" stroke="#16130e"/>
+<line x1="400" y1="60" x2="400" y2="140" stroke="#8f3b2d" stroke-width="3"/>
+<circle cx="400" cy="100" r="4" fill="#8f3b2d"/>
+<line x1="460" y1="80" x2="460" y2="120" stroke="#8a6d1f" stroke-width="3"/>
+<circle cx="460" cy="100" r="4" fill="#8a6d1f"/>
+<line x1="520" y1="90" x2="520" y2="110" stroke="#3f6c3f" stroke-width="3"/>
+<circle cx="520" cy="100" r="4" fill="#3f6c3f"/>
+<text x="400" y="155" text-anchor="middle" font-size="9">N=1</text>
+<text x="460" y="155" text-anchor="middle" font-size="9">N=9</text>
+<text x="520" y="155" text-anchor="middle" font-size="9">N=36</text>
+<text x="470" y="175" text-anchor="middle" font-size="10">error ÷ √N (true value = dot)</text>
+<text x="470" y="190" text-anchor="middle" font-size="9" font-style="italic">report spread, never just the mean</text>
+</svg>
+<figcaption><strong>Figure 20.2.</strong> Left: the loop — every circuit ends in print and independent replication, or it was not science. Right: why repetition works — nine trials cut random error to one-third; systematic error (bad calibration) never averages away.</figcaption>
+</figure>
+
 <p class="co co-dead"><strong>Dead end avoided:</strong> argument-from-authority as final arbiter. Ancient texts were magnificent starting libraries but catastrophic final judges — Galen's errors ruled medicine for 1,300 years precisely because citing him outranked dissecting corpses. Method demotes authority to "hypothesis with track record."</p>
+<p><strong>Lab-notebook law (enforce from day one):</strong> bound pages, numbered, dated, ink only; instrument ID + calibration date on every entry; raw readings before arithmetic; failed trials recorded, never torn out; witnessed weekly. Priority, replication, and fraud detection all reduce to this notebook — the cheapest instrument in the building.</p>
 <h2 id="ch20_instruments-206-statistics-enters-early">20.6 Statistics Enters Early</h2>
 <p>Astronomy's orbital calculations forced error-curve mathematics (Gauss/Laplace): repeated measurements scatter normally; averaging N observations shrinks random error by √N. Teach least-squares fitting as soon as data accumulates. This is the mathematical spine that <a href="ch47.html">Ch 47</a>'s statistics will grow into governance.</p>
+<p><strong>Worked miniature (pendulum + gravity):</strong> time 10 swings, repeat 9×; mean period T̄, spread s. Gravity g = 4π²L/T̄²; uncertainty in g ≈ 2·(s/T̄)·g. Students who compute this once never again report "g = 9.81" from a single swing — they report "9.8 ± 0.2" and know which half is knowledge and which is noise. Distinguish always: random error (shrinks with √N) from systematic error (bad ruler, tilted plane — replicates forever until calibrated out).</p>
 <h2 id="ch20_instruments-207-the-payoff-curve">20.7 The Payoff Curve</h2>
 <p>Instrumented method converts craft knowledge into transferable LAW: Boyle's gas law, Ohm's relation, Carnot's efficiency bound — each replaces decades of trial-and-error with a sentence. A civilization running §20.5's procedure with §20.1–20.4's tools compresses its next four centuries of physics into two generations. That compression is the entire strategic value of this chapter.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Law</th>
+<th>Instrument pair</th>
+<th>Sentences replacing workshops</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Boyle (P·V = const)</td>
+<td>Barometer + vacuum pump</td>
+<td>All "airs behave mysteriously" lore</td>
+</tr>
+<tr>
+<td>Pendulum isochrony</td>
+<td>Regulator + counting</td>
+<td>Timing by pulse, water, sand</td>
+</tr>
+<tr>
+<td>Ohm (V = IR, preview)</td>
+<td>Galvanometer + standard cells</td>
+<td>Volumes of spark anecdotes</td>
+</tr>
+<tr>
+<td>Carnot bound (preview)</td>
+<td>Calorimeter + indicator</td>
+<td>"Just add more fire" engine lore</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch20_instruments-208-the-record-clocks-prizes-and-standards">20.8 The Record: Clocks, Prizes, and Standards</h2>
 <ul>
 <li><strong>Longitude drama, fully documented:</strong> Harrison spent 45 years building H1→H4 (1730s–1759); H4 performed superbly on the Jamaica voyage (1761–62 trial: ~3× better than required accuracy). The Board of Longitude — dominated by astronomers invested in the rival lunar-distance method — delayed full payment for years; Parliament intervened; Harrison received substantial rewards only in 1773 under George III's pressure. Institutional lesson recorded twice in this book now: measurement infrastructure advances through politics as much as genius, and boards capture prizes they are supposed to award (<a href="ch47.html">Ch 47</a>).</li>
@@ -264,6 +438,8 @@ body {
 <li><strong>Metric system as revolutionary project:</strong> the meter was defined by Delambre and Méchain's meridian arc survey (1792–99, conducted partly across warring front lines); the platinum bar deposited 1799. Decimal coherence was ideology-adjacent, but its engineering value survived the ideology — which is why it spread globally afterward.</li>
 <li>Societies institutionalized critique: Royal Society chartered 1662, Paris Académie des sciences 1666, both publishing proceedings — replication claims needed addresses, and addresses needed archives.</li>
 </ul>
+<h2 id="ch20_instruments-209-founding-a-standards-room">20.9 Founding a Standards Room</h2>
+<p>One dry room, one stone pier, one regulator, one balance, one barometer, one reference bar + mass set, one logbook shelf. Calibrate working instruments against references monthly; references against each other annually; publish the corrections. Cost: a week's skilled wages. Value: every later chapter's numbers mean the same thing in every workshop — the precondition for interchangeable parts (<a href="ch15.html">Ch 15</a>), steam ratings (<a href="ch23.html">Ch 23</a>), and drug doses (<a href="ch31.html">Ch 31</a>).</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch19.html" class="reader-nav-link">← Chapter 19</a>

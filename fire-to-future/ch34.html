@@ -216,8 +216,37 @@ body {
 <br><strong>Requires:</strong> <a href="ch25.html">Ch 25</a>/<a href="ch26.html">26</a>, <a href="ch17.html">Ch 17</a> glasswork · <br><strong>Unlocks:</strong> <a href="ch35.html">Ch 35</a> (as scaffolding + spec source), broadcasting, navigation</p>
 </blockquote>
 <p>Electronics begins when engineers stop merely carrying power and start SHAPING signals. Vacuum tubes — electrons boiling off heated cathodes, commanded by grids — provided the first controllable amplification and switching, building every concept semiconductors later inherited: gain, oscillation, modulation, logic.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Diode versus triode schematic">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 34.1 — Diode rectifies; triode amplifies (the grid is the lever)</text>
+<text x="160" y="42" font-size="11" font-weight="bold">DIODE (Fleming, 1904)</text>
+<ellipse cx="160" cy="110" rx="70" ry="55" fill="#fff" stroke="#16130e" stroke-width="1.5"/>
+<line x1="120" y1="75" x2="120" y2="145" stroke="#8f3b2d" stroke-width="5"/>
+<text x="120" y="160" text-anchor="middle" font-size="9" font-weight="bold" fill="#8f3b2d">CATHODE (hot)</text>
+<line x1="200" y1="75" x2="200" y2="145" stroke="#2f5286" stroke-width="5"/>
+<text x="200" y="160" text-anchor="middle" font-size="9" font-weight="bold" fill="#2f5286">PLATE</text>
+<g fill="#c96a2e"><circle cx="150" cy="100" r="3"/><circle cx="165" cy="110" r="3"/><circle cx="155" cy="122" r="3"/><circle cx="175" cy="100" r="3"/></g>
+<line x1="175" y1="100" x2="198" y2="100" stroke="#c96a2e" stroke-width="1.5"/>
+<text x="160" y="185" text-anchor="middle" font-size="9">current flows ONE way only</text>
+<text x="480" y="42" font-size="11" font-weight="bold">TRIODE (De Forest, 1906)</text>
+<ellipse cx="480" cy="110" rx="70" ry="55" fill="#fff" stroke="#16130e" stroke-width="1.5"/>
+<line x1="440" y1="75" x2="440" y2="145" stroke="#8f3b2d" stroke-width="5"/>
+<text x="440" y="160" text-anchor="middle" font-size="9" font-weight="bold" fill="#8f3b2d">CATHODE</text>
+<line x1="480" y1="70" x2="480" y2="150" stroke="#2e5b34" stroke-width="2" stroke-dasharray="5,3"/>
+<text x="480" y="160" text-anchor="middle" font-size="9" font-weight="bold" fill="#2e5b34">GRID</text>
+<line x1="520" y1="75" x2="520" y2="145" stroke="#2f5286" stroke-width="5"/>
+<text x="520" y="160" text-anchor="middle" font-size="9" font-weight="bold" fill="#2f5286">PLATE</text>
+<g fill="#c96a2e"><circle cx="460" cy="105" r="3"/><circle cx="470" cy="118" r="3"/></g>
+<text x="480" y="60" text-anchor="middle" font-size="9" font-style="italic">tiny grid volts → big plate current</text>
+<text x="480" y="185" text-anchor="middle" font-size="9">cascade stages: gain × gain × gain</text>
+</svg>
+<figcaption><strong>Figure 34.1.</strong> Heat boils electrons off the cathode; the plate collects them. The diode passes current one way (rectifier). The triode's grid — a whisper of voltage — throttles a torrent of plate current: amplification, oscillation, switching all follow.</figcaption>
+</figure>
+
 <h2 id="ch34_vacuum_tubes-341-waves-proven">34.1 Waves Proven</h2>
 <p>Maxwell's equations predicted electromagnetic waves (<a href="ch25.html">Ch 25</a>); Hertz generated and detected spark-gap radio waves (1887) — reflection, refraction, polarization all demonstrated with brass gaps and loops. Marconi's contribution was ENGINEERING: taller antennas, grounded circuits, coherer receivers refined into commercial ship-to-shore service; 1901 transatlantic signal (over skeptics' horizon-curve objections — the ionosphere, unknown, was bouncing it).</p>
+<p><strong>Starter-station recipe:</strong> spark gap or arc transmitter (kilowatts, broadband — dirty but audible), elevated wire antenna (~λ/4 against ground radials), coherer or crystal detector + headphones. Range scales with antenna height and power; reliability scales with frequency discipline — log every contact (time, band, conditions) and the ionosphere teaches itself seasonally.</p>
 <h2 id="ch34_vacuum_tubes-342-the-triode-electronics-exists">34.2 The Triode: Electronics Exists</h2>
 <ul>
 <li>Fleming diode (1904): hot cathode boils electrons toward plate; current flows ONE way — rectification.</li>
@@ -225,6 +254,49 @@ body {
 <li>Armstrong's regenerative circuit (1912): feed amplified output back in phase — enormous gain from one tube, and pushed further, controlled OSCILLATION. Transmitters became affordable; broadcast radio (KDKA 1920 onward) followed within years.</li>
 <li>Tube family map: rectifiers, voltage/triode amplifiers, pentodes (grid shields taming capacitances), beam-power outputs, magnetrons/klystrons for microwaves.</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Tube</th>
+<th>Grids</th>
+<th>Job</th>
+<th>Signature circuit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Diode</td>
+<td>0</td>
+<td>Rectify, detect</td>
+<td>Power supply, AM detector</td>
+</tr>
+<tr>
+<td>Triode</td>
+<td>1</td>
+<td>Voltage gain, oscillate</td>
+<td>Audio preamp, regenerative set</td>
+</tr>
+<tr>
+<td>Tetrode / pentode</td>
+<td>2–3</td>
+<td>Stable RF gain (screen kills feedback)</td>
+<td>IF strips, transmitters</td>
+</tr>
+<tr>
+<td>Beam tetrode / pentode output</td>
+<td>shaped beams</td>
+<td>Power to speaker/antenna</td>
+<td>Audio finals, modulators</td>
+</tr>
+<tr>
+<td>Magnetron / klystron</td>
+<td>cavities, not grids</td>
+<td>Microwave kilowatts</td>
+<td>Radar, relay links</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Filament discipline:</strong> under-run heaters slightly for 2× life; ventilate (each tube is a small stove); stock spares by measured failure rate (ENIAC's lesson: thousands of tubes × per-tube MTBF = daily replacements — schedule them, don't mourn them). Shock-mount mobile sets; cathode poisoning from standby-without-plate-current kills emission silently.</p>
 <h2 id="ch34_vacuum_tubes-343-modulation-imposing-information-on-carriers">34.3 Modulation: Imposing Information on Carriers</h2>
 <ul>
 <li><strong>AM:</strong> carrier amplitude follows audio — simple, noise-prone (lightning sounds like news).</li>
@@ -232,15 +304,104 @@ body {
 <li><strong>Superheterodyne receiver (Armstrong again):</strong> mix incoming signal with local oscillator to a fixed intermediate frequency — selectivity and gain optimized once for ALL received frequencies. Architecture still standard today.</li>
 <li>Propagation facts: ground wave hugs by day; ionospheric skip returns shortwave thousands of km at night; line-of-sight rules VHF/UHF. Antenna design follows wavelength (dipole ~λ/2).</li>
 </ul>
+<figure class="fig">
+<svg viewBox="0 0 640 220" width="100%" role="img" aria-label="AM versus FM and superhet blocks">
+<rect x="0" y="0" width="640" height="220" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 34.2 — AM varies height; FM varies spacing; superhet fixes the work at one frequency</text>
+<text x="160" y="42" font-size="10" font-weight="bold">AM (tall = loud)</text>
+<path d="M40,70 Q55,50 70,70 Q85,90 100,70 Q115,52 130,70 Q145,88 160,70 Q175,54 190,70 Q205,86 220,70 Q235,56 250,70 Q265,84 280,70" fill="none" stroke="#8f3b2d" stroke-width="1.5"/>
+<text x="160" y="90" text-anchor="middle" font-size="9">lightning also changes height → noise</text>
+<text x="160" y="108" font-size="10" font-weight="bold">FM (dense = shifted)</text>
+<path d="M40,135 Q48,125 56,135 Q64,145 72,135 Q80,125 88,135 Q100,125 112,135 Q124,145 136,135 Q148,125 160,135 Q168,145 176,135 Q184,125 192,135 Q204,125 216,135 Q228,145 240,135 Q252,125 264,135" fill="none" stroke="#2f5286" stroke-width="1.5"/>
+<text x="160" y="155" text-anchor="middle" font-size="9">clip amplitude → static vanishes</text>
+<text x="470" y="42" font-size="10" font-weight="bold">SUPERHET (every station → one IF)</text>
+<g font-size="8" text-anchor="middle">
+<rect x="350" y="55" width="70" height="32" rx="4" fill="#efe9db" stroke="#16130e"/><text x="385" y="68">ANT + RF</text><text x="385" y="79">tune</text>
+<rect x="430" y="55" width="70" height="32" rx="4" fill="#efe9db" stroke="#16130e"/><text x="465" y="68">MIXER +</text><text x="465" y="79">LOCAL OSC</text>
+<rect x="510" y="55" width="70" height="32" rx="4" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/><text x="545" y="68">FIXED IF</text><text x="545" y="79">gain+filter</text>
+<rect x="390" y="95" width="150" height="32" rx="4" fill="#efe9db" stroke="#16130e"/><text x="465" y="108">DETECTOR (AM/FM)</text><text x="465" y="119">+ AUDIO AMP</text>
+</g>
+<g stroke="#16130e"><line x1="420" y1="71" x2="430" y2="71"/><line x1="500" y1="71" x2="510" y2="71"/><line x1="465" y1="87" x2="465" y2="95"/></g>
+<text x="470" y="150" text-anchor="middle" font-size="9">optimize ONE IF strip perfectly;</text>
+<text x="470" y="162" text-anchor="middle" font-size="9">front end just translates stations to it</text>
+<text x="470" y="180" text-anchor="middle" font-size="9" font-style="italic">dipole ≈ λ/2 · ground wave by day, skip by night</text>
+</svg>
+<figcaption><strong>Figure 34.2.</strong> AM is simple and storm-noisy; FM trades bandwidth for silence. The superheterodyne's genius is laziness done right: convert every station to one fixed intermediate frequency, then amplify and filter that one frequency superbly.</figcaption>
+</figure>
+
 <h2 id="ch34_vacuum_tubes-344-radar">34.4 Radar</h2>
 <p>Radio echoes measure distance (range = c·Δt/2). Chain Home (1938) crude but decisive; the cavity magnetron (1940, Birmingham) — resonant copper cavities kicking electron spokes into microwave pulses of kilowatts — miniaturized radar onto aircraft. Tizard Mission handed the magnetron to America: arguably history's highest-value technology transfer.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Band behavior</th>
+<th>Use</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>HF / shortwave skip</td>
+<td>Long-range early warning</td>
+<td>Crude accuracy, huge coverage (Chain Home)</td>
+</tr>
+<tr>
+<td>Microwave (10 cm, magnetron)</td>
+<td>Aircraft/ship sets, gun-laying</td>
+<td>Dish-focused, weather-piercing</td>
+</tr>
+<tr>
+<td>PPI display</td>
+<td>360° map around station</td>
+<td>Operators read raids, not blips</td>
+</tr>
+<tr>
+<td>IFF (transponder replies)</td>
+<td>Tell own from hostile</td>
+<td>Cryptography meets radar</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Range arithmetic:</strong> pulse round-trip Δt gives range R = c·Δt/2 (~150 m per microsecond). Pulse length sets resolution (short = fine, weak); repetition rate sets max unambiguous range. Duplexer lets one antenna transmit megawatts and receive microwatts milliseconds later — the switch that made single-dish radar possible.</p>
 <p>Applications beyond war: air traffic control, weather observation (precipitation echoes), navigation beacons, marine safety. Radar engineering seeded postwar electronics talent AND microwave infrastructure (<a href="ch41.html">Ch 41</a>'s terrestrial links, later satellite comms).</p>
 <h2 id="ch34_vacuum_tubes-345-television">34.5 Television</h2>
 <p>Mechanical disk TV (Baird) died on resolution (<strong>Dead end avoided</strong>); electronic television won via camera tubes (iconoscope/image orthicon — photoemission scanned by electron beams) + CRT display (electron gun painting raster lines on phosphor). Standards bodies locked 525/625-line interlaced systems with compatible color added 1953–67 (NTSC/PAL/SECAM) — compatibility doctrine: new standards must serve old receivers or adoption stalls.</p>
 <p>Broadcasting's social weight deserves stating: synchronized national audiences, advertising-funded content economics, emergency broadcast capability — media infrastructure as governance layer (<a href="ch47.html">Ch 47</a>).</p>
+<p><strong>Scanning in one paragraph:</strong> camera tube stores a charge image; an electron beam scans it line by line (525 or 625 lines, 25/30 frames, interlaced odd/even to halve flicker); the current varies with brightness; the receiver's gun repaints phosphor in lockstep (sync pulses). Color adds three sub-signals (or sequential fields) inside the same timing so monochrome sets still show grey — compatibility as engineering constraint, not courtesy.</p>
 <h2 id="ch34_vacuum_tubes-346-tubes-limits-semiconductor-handoff">34.6 Tubes' Limits → Semiconductor Handoff</h2>
-<p>Tubes consume filament power, cook themselves, fail statistically (ENIAC burned ~thousands of tubes; MTBF arithmetic dominated maintenance planning), and miniaturize poorly. Yet they established EVERY circuit concept: amplifiers, oscillators, mixers, gates, flip-flops, delay-line memory (<a href="ch36.html">Ch 36</a>). </p>
+<p>Tubes consume filament power, cook themselves, fail statistically (ENIAC burned ~thousands of tubes; MTBF arithmetic dominated maintenance planning), and miniaturize poorly. Yet they established EVERY circuit concept: amplifiers, oscillators, mixers, gates, flip-flops, delay-line memory (<a href="ch36.html">Ch 36</a>).</p>
 <p class="co co-jump"><strong>Jump:</strong> treat vacuum-tube CONSUMER products as skippable scaffolding IF semiconductor-grade silicon purification exists (<a href="ch35.html">Ch 35</a>); keep tubes only where high-power/high-frequency niches still favor them (magnetrons in ovens/radar, high-power broadcast). What is NOT skippable: the circuit-design knowledge this chapter encodes — transistors inherit schematics, not just replace bottles.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Limit</th>
+<th>Cost</th>
+<th>Handoff</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Heater power (~watts/tube)</td>
+<td>Rooms of heat, power budget</td>
+<td>Transistors sip</td>
+</tr>
+<tr>
+<td>Statistical failure</td>
+<td>Daily replacements at scale</td>
+<td>Solid-state MTBF 1000×</td>
+</tr>
+<tr>
+<td>Size (bottles + sockets)</td>
+<td>Racks per function</td>
+<td>Chips per system</td>
+</tr>
+<tr>
+<td>Microphonics, drift</td>
+<td>Constant realignment</td>
+<td>Stable biasing</td>
+</tr>
+</tbody>
+</table></div>
 <p class="co co-key"><strong>Key threshold:</strong> reliable amplification available to any workshop converts electricity from energy utility into INFORMATION medium — the pivot this whole Part IV ladder has been climbing toward.</p>
 <h2 id="ch34_vacuum_tubes-347-the-electronics-record">34.7 The Electronics Record</h2>
 <ul>
@@ -250,6 +411,8 @@ body {
 <li><strong>Superheterodyne origin:</strong> Armstrong developed it in WWI Paris as a signals officer chasing down enemy receivers — military R&amp;D before radar made it famous (<a href="ch51.html">Ch 51</a>'s pattern again).</li>
 <li><strong>The magnetron handover:</strong> Randall and Boot's resonant cavity magnetron (Birmingham, February 1940) produced kilowatt pulses at 10 cm; the Tizard Mission carried one to America that September. Official US historian James Phinney Baxter III called it "the most valuable cargo ever brought to our shores" — microwave radar, then postwar microwave engineering, descends from that suitcase.</li>
 </ul>
+<h2 id="ch34_vacuum_tubes-348-workshop-sequence">34.8 Workshop Sequence</h2>
+<p>Crystal set first (no power, teaches resonance) → one-tube regenerative (amplification + oscillation in one bottle) → superhet with IF strip (selectivity) → push-pull audio (power) → VHF/FM + dipole farm (clean signals) → magnetron-grade microwaves only with machine-shop + high-voltage discipline. Log every station heard; the logbook is a propagation textbook written by your own antenna.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch33.html" class="reader-nav-link">← Chapter 33</a>

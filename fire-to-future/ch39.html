@@ -216,6 +216,35 @@ body {
 <br><strong>Requires:</strong> <a href="ch27.html">Ch 27</a>/<a href="ch38.html">38</a> materials, <a href="ch29.html">Ch 29</a> turbomachinery concepts, <a href="ch36.html">Ch 36</a> guidance compute, <a href="ch20.html">Ch 20</a> gyroscopes · <br><strong>Unlocks:</strong> <a href="ch40.html">Ch 40</a> entirely — the highest-leverage capability in this book</p>
 </blockquote>
 <p>Orbit access is a physics problem with a brutal receipt: nothing else in the book demands so much energy per kilogram delivered. Master the arithmetic first; everything else follows from respecting it.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Rocket equation tyranny chart">
+<rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 39.1 — The log is the tyrant (mass ratio for Δv = 9.4 km/s to LEO)</text>
+<line x1="80" y1="40" x2="80" y2="170" stroke="#16130e" stroke-width="2"/>
+<line x1="80" y1="170" x2="580" y2="170" stroke="#16130e" stroke-width="2"/>
+<text x="40" y="110" font-size="10" font-weight="bold">MASS</text>
+<text x="40" y="122" font-size="10" font-weight="bold">RATIO</text>
+<text x="330" y="190" font-size="10" font-weight="bold">EXHAUST VELOCITY → (better propellant / engine)</text>
+<rect x="110" y="60" width="80" height="110" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
+<text x="150" y="120" text-anchor="middle" font-size="10" font-weight="bold">SOLID</text>
+<text x="150" y="132" text-anchor="middle" font-size="9">~2.6 km/s</text>
+<text x="150" y="144" text-anchor="middle" font-size="9">ratio ~37!</text>
+<rect x="210" y="95" width="80" height="75" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
+<text x="250" y="125" text-anchor="middle" font-size="10" font-weight="bold">KEROLOX</text>
+<text x="250" y="137" text-anchor="middle" font-size="9">~3.3 km/s</text>
+<text x="250" y="149" text-anchor="middle" font-size="9">ratio ~23</text>
+<rect x="310" y="110" width="80" height="60" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
+<text x="350" y="135" text-anchor="middle" font-size="10" font-weight="bold">METHALOX</text>
+<text x="350" y="147" text-anchor="middle" font-size="9">~3.6 km/s</text>
+<rect x="410" y="120" width="90" height="50" fill="#eef5ec" stroke="#2e5b34" stroke-width="2"/>
+<text x="455" y="142" text-anchor="middle" font-size="10" font-weight="bold">HYDROLOX</text>
+<text x="455" y="154" text-anchor="middle" font-size="9">~4.4 km/s</text>
+<text x="150" y="50" text-anchor="middle" font-size="9" font-style="italic">Δv = vₑ · ln(m₀/mf) — 96% propellant at kerolox</text>
+<text x="455" y="50" text-anchor="middle" font-size="9" font-style="italic">staging resets the math lighter</text>
+</svg>
+<figcaption><strong>Figure 39.1.</strong> Schematic (not to log scale): better exhaust velocity collapses the mass ratio — but even the best chemical fuels leave single-stage orbit marginal. The log punishes the mediocre and merely taxes the excellent; staging (§39.1) is how mortals answer it.</figcaption>
+</figure>
+
 <h2 id="ch39_rocketry-391-the-tyranny-of-the-rocket-equation">39.1 The Tyranny of the Rocket Equation</h2>
 <p>Tsiolkovsky: <strong>Δv = vₑ·ln(m₀/m_f)</strong> — velocity gained equals exhaust velocity times the natural log of mass ratio. The log is the tyrant:</p>
 <ul>
@@ -224,6 +253,37 @@ body {
 <li><strong>Staging</strong> resets the denominator: drop empty tanks/engines mid-flight and the remaining vehicle's math restarts lighter. Two-to-three stages make orbit reachable; single-stage-to-orbit with chemical fuels remains marginal engineering.</li>
 </ul>
 <p>Design consequence: every gram of structure steals payload quadratically-ish. Aerospace weight discipline ("fighting for ounces") is culture, not affectation.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Stages</th>
+<th>Dead mass carried to orbit</th>
+<th>Verdict</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 (SSTO chemical)</td>
+<td>All tanks + big engines all the way</td>
+<td>Marginal — heroic mass fractions</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Drop booster tanks/engines halfway</td>
+<td>The workhorse (Falcon-class)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Shed twice; tiny upper stage finishes</td>
+<td>Moon-class (Saturn pattern)</td>
+</tr>
+<tr>
+<td>4+</td>
+<td>Diminishing returns, more separations</td>
+<td>Kick stages for high orbits only</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch39_rocketry-392-propellants">39.2 Propellants</h2>
 <div class="table-wrap"><table>
 <thead>
@@ -268,6 +328,7 @@ body {
 </tbody>
 </table></div>
 <p>Engine cycles (how turbines drive pumps): pressure-fed (simplest) → gas generator (exhaust dumped) → staged combustion (full-performance, hardest). Pump-fed engines are jet engines' violent cousins — turbopumps spin tens of thousands of rpm moving cryogens.</p>
+<p><strong>Selection logic:</strong> first stages want DENSITY (kerolox/solids — small tanks, brute thrust); upper stages want ISP (hydrolox — every second counts when nearly orbital); spacecraft want STORABILITY + restart (hypergolic — months of readiness); reusable fleets want CLEANLINESS (methalox — no coking, fast turnaround). Never optimize one stage's Isp at the expense of the stack's mass ratio.</p>
 <h2 id="ch39_rocketry-393-guidance-and-control">39.3 Guidance and Control</h2>
 <ul>
 <li><strong>Gyroscopes + accelerometers</strong> (inertial measurement): integrate acceleration to know position without external references (<a href="ch20.html">Ch 20</a>'s precision escalated to war-then-space grade).</li>
@@ -275,9 +336,68 @@ body {
 <li>Guidance laws fly computed trajectories; kill switches and range safety destruct rules exist because failures rain fuel.</li>
 <li>Control-loop tuning under changing mass/aero conditions = hard real-time feedback (<a href="ch45.html">Ch 45</a> ancestor).</li>
 </ul>
+<figure class="fig">
+<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Launch profile with staging events">
+<rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 39.2 — Uphill sideways: a launch profile (not to scale)</text>
+<path d="M60,190 Q150,185 220,150 Q300,110 380,80 Q470,50 580,45" fill="none" stroke="#2f5286" stroke-width="2.5"/>
+<circle cx="60" cy="190" r="5" fill="#8f3b2d"/>
+<text x="60" y="205" text-anchor="middle" font-size="9" font-weight="bold">LIFTOFF</text>
+<circle cx="220" cy="150" r="5" fill="#8a6d1f"/>
+<text x="220" y="140" text-anchor="middle" font-size="9" font-weight="bold">Max-Q</text>
+<text x="220" y="168" text-anchor="middle" font-size="8">throttle down,</text>
+<text x="220" y="177" text-anchor="middle" font-size="8">then back up</text>
+<circle cx="330" cy="98" r="5" fill="#16130e"/>
+<text x="330" y="88" text-anchor="middle" font-size="9" font-weight="bold">STAGE SEP</text>
+<text x="330" y="115" text-anchor="middle" font-size="8">drop empties,</text>
+<text x="330" y="124" text-anchor="middle" font-size="8">light next</text>
+<circle cx="430" cy="65" r="5" fill="#2e5b34"/>
+<text x="430" y="55" text-anchor="middle" font-size="9" font-weight="bold">FAIRING JETTISON</text>
+<text x="580" y="35" text-anchor="middle" font-size="9" font-weight="bold">ORBIT 7.8 km/s →</text>
+<text x="120" y="120" font-size="9" font-style="italic">gravity turn:</text>
+<text x="120" y="131" font-size="9" font-style="italic">pitch over early,</text>
+<text x="120" y="142" font-size="9" font-style="italic">fly sideways to stay up</text>
+<text x="500" y="100" font-size="9">sound + weather</text>
+<text x="500" y="111" font-size="9">+ range safety</text>
+<text x="500" y="122" font-size="9">hold authority</text>
+</svg>
+<figcaption><strong>Figure 39.2.</strong> Orbit is not "up" — it is sideways at 7.8 km/s with the altitude to stay out of the air. Throttle through Max-Q, shed dead mass, drop the fairing once the air thins. Every event is pre-scripted; the vehicle flies the script, ground holds the abort pen.</figcaption>
+</figure>
+
+<p><strong>Broom-balancing (TVC):</strong> the engine gimbals ±5–10° on actuators, the computer nulls attitude error hundreds of times per second, slosh baffles keep propellant from swinging the loop. Test the full loop on a hanging rig before flight — a sign error in the feedback murders vehicles faster than any engine failure.</p>
 <h2 id="ch39_rocketry-394-lineage-compressed">39.4 Lineage Compressed</h2>
 <p>Goddard flies liquid-fueled rocket (1926, Massachusetts farm); his patents later tax every American launch. The wartime V-2 (Peenemünde program; first successful ballistic flight October 3, 1942; ~3,200 operational launches from September 1944) demonstrates rocketry at strategic scale (~320 km apex altitude, first human-made objects reaching space-adjacent altitudes); postwar programs in the US (Operation Paperclip hires von Braun's team) and USSR (Korolev, drawing on R-1/V-2 derivatives) build directly on its engineering. R-7 clusters engines into orbit-capable booster → Sputnik (Oct 1957). Saturn V apex: ~2,900 t liftoff, F-1 engines (single-shaft monsters), Moon within a decade of program start — proof that systems integration at national scale works when requirements freeze.</p>
 <p>Reusable turn: Shuttle flew often but refit costs ate economics (thermal-protection tile labor, SSME teardown). Propulsive landing (fly-back boosters landing on tails, 2015→) attacks the OTHER cost half: hardware amortization across flights.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Program</th>
+<th>Lesson for rebuilders</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>V-2</td>
+<td>Scale proves concepts; slave labor indicts the program</td>
+</tr>
+<tr>
+<td>R-7/Sputnik</td>
+<td>Cluster simple engines; beep loudly (adversaries respond)</td>
+</tr>
+<tr>
+<td>Saturn V</td>
+<td>Freeze requirements; test full-scale till it breaks, then fix</td>
+</tr>
+<tr>
+<td>Shuttle</td>
+<td>Refit labor can eat flight-rate savings — count both</td>
+</tr>
+<tr>
+<td>Propulsive landing</td>
+<td>Amortize hardware; landings are controlled falls, practice them</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch39_rocketry-395-site-and-ops-discipline">39.5 Site and Ops Discipline</h2>
 <ul>
 <li>Launch toward equator/eastward harvests Earth's rotation (~465 m/s free at equator).</li>
@@ -285,6 +405,7 @@ body {
 <li>Range safety, weather constraints, pad deluge/acoustics (sound alone destroys unfixed hardware).</li>
 <li>Reliability doctrine: quality culture beats test heroics — inspect EVERYTHING, test to failure on the ground so failures happen there. Post-failure forensics feed design changes mandatorily (<a href="ch33.html">Ch 33</a>'s aviation pattern).</li>
 </ul>
+<p><strong>Site arithmetic:</strong> equator + eastward + ocean downrange = free velocity + dropped stages in water + no neighbors under the plume. Latitude costs ~cos(latitude) of the 465 m/s bonus; inland sites pay dogleg or drop-zone penalties forever. Deluge water (hundreds of tonnes per launch) and lightning masts precede the second pad — acoustics and weather kill more schedules than engines do.</p>
 <h2 id="ch39_rocketry-396-why-this-chapter-rules-the-rest">39.6 Why This Chapter Rules the Rest</h2>
 <p>Orbit delivers: global communication, navigation, observation, climate monitoring, treaty verification — <a href="ch40.html">Ch 40</a> in full. A civilization without launch is blind beyond its horizon and deaf across oceans. Prioritize accordingly: this is the single capability whose absence caps planetary dominance.</p>
 <p class="co co-key"><strong>Key threshold:</strong> routine access below ~$2,000/kg-to-LEO marks the industrialization line (history sat at $50k+/kg shuttle-era; reusability drove order-of-magnitude cuts). Below that line, satellite constellations become infrastructure instead of national prestige projects.</p>
@@ -298,6 +419,8 @@ body {
 <li><strong>F-1 combustion instability</strong> nearly killed Saturn V: oscillating pressure waves destroyed engines until baffle-ring injectors plus a documented campaign of full-scale test firings tamed it — brute-force empirical iteration solving what theory couldn't, on record at Marshall.</li>
 <li>Crewed-loss doctrine: Apollo 1's pad fire (January 27, 1967 — pure-O₂ atmosphere, inward-opening hatch, combustible materials) rewrote cabin atmospheres, hatches, and wiring standards; Challenger (January 28, 1986) turned on cold-degraded O-rings (Feynman's ice-water demonstration at the Rogers Commission remains the genre's clearest public explanation); Columbia (February 1, 2003) fell to launch foam damaging the wing leading edge. Each disaster produced mandatory-design changes — the aviation postmortem culture applied to spaceflight.</li>
 </ul>
+<h2 id="ch39_rocketry-398-test-like-you-fly">39.8 Test Like You Fly</h2>
+<p>Static-fire every engine, stage-test every separation on the ground, fly trajectories in hardware-in-the-loop rigs with real computers and simulated sensors. Destruct charges armed only with two independent safeties + range officer authority. The countdown has holds built in — use them; scrubbed launches fly next week, rushed ones feed the forensics team.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch38.html" class="reader-nav-link">← Chapter 38</a>

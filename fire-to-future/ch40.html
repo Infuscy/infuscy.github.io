@@ -216,6 +216,27 @@ body {
 <br><strong>Requires:</strong> <a href="ch39.html">Ch 39</a>, <a href="ch34.html">Ch 34</a>-lineage RF, <a href="ch35.html">Ch 35</a> · <br><strong>Unlocks:</strong> global connectivity, GPS, weather/climate eyes — planetary nervous system</p>
 </blockquote>
 <p>A satellite is a robot in vacuum doing one job for fifteen years without repair. This chapter covers the bus (everything shared), then the three payload families that dominate a planet: communications, positioning, observation.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Orbit regimes compared">
+<rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 40.1 — Pick your altitude: latency vs coverage vs drag</text>
+<circle cx="150" cy="125" r="35" fill="#46617a" stroke="#16130e" stroke-width="2"/>
+<text x="150" y="129" text-anchor="middle" font-size="9" fill="#fff" font-weight="bold">EARTH</text>
+<circle cx="150" cy="125" r="50" fill="none" stroke="#2e5b34" stroke-width="2"/>
+<circle cx="150" cy="125" r="68" fill="none" stroke="#8a6d1f" stroke-width="2" stroke-dasharray="6,3"/>
+<ellipse cx="150" cy="125" rx="110" ry="40" fill="none" stroke="#8f3b2d" stroke-width="1.5"/>
+<text x="330" y="55" font-size="10" font-weight="bold" fill="#2e5b34">LEO 400–1,200 km · 90–110 min · low latency, drag real</text>
+<text x="330" y="72" font-size="10" font-weight="bold" fill="#8a6d1f">MEO ~20,000 km · navigation's home (GPS)</text>
+<text x="330" y="89" font-size="10" font-weight="bold" fill="#8f3b2d">GEO 35,786 km · fixed footprint, ⅓ planet each</text>
+<text x="330" y="110" font-size="10">GEO latency ~500 ms round trip (Clarke 1945, from first principles)</text>
+<text x="330" y="127" font-size="10">sun-synchronous: precess to hold solar time (imagers' favorite)</text>
+<text x="330" y="144" font-size="10" font-weight="bold">Propellant = lifetime: station-keeping till tanks dry.</text>
+<text x="330" y="161" font-size="9" font-style="italic">mega-constellations: thousands of LEO birds → terrestrial-feel latency</text>
+<text x="150" y="195" text-anchor="middle" font-size="9">● LEO — MEO - - GEO elongated view</text>
+</svg>
+<figcaption><strong>Figure 40.1.</strong> Low orbits are fast and hungry (drag, handoffs); high orbits stare fixedly (latency, launch cost). Navigation sits middle; weather stares from GEO while mappers sweep sun-synchronous LEO.</figcaption>
+</figure>
+
 <h2 id="ch40_satellites-401-orbital-mechanics-minimum">40.1 Orbital Mechanics Minimum</h2>
 <ul>
 <li>LEO (~400–1,200 km): ~7.5 km/s, ~90–110 min periods; latency low, coverage narrow, drag real.</li>
@@ -223,6 +244,47 @@ body {
 <li>GEO (35,786 km): matches Earth rotation — fixed footprint; Clarke proposed it for comms in 1945 from first principles. Single-sat coverage of ⅓ planet; ~500 ms round-trip latency.</li>
 <li>Station-keeping burns fuel against perturbations; when propellant ends, the satellite dies — orbit lifetime IS mission lifetime. Sun-synchronous orbits precess to keep constant solar time over ground (remote sensing favorite).</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Regime</th>
+<th>Period</th>
+<th>Footprint</th>
+<th>Latency</th>
+<th>Enemies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LEO 500 km</td>
+<td>~95 min</td>
+<td>~2,000 km wide</td>
+<td>~ms</td>
+<td>Drag, debris, handoff complexity</td>
+</tr>
+<tr>
+<td>MEO 20,200 km</td>
+<td>~12 h</td>
+<td>Continental</td>
+<td>~100 ms</td>
+<td>Radiation belts, clock stability</td>
+</tr>
+<tr>
+<td>GEO 35,786 km</td>
+<td>24 h (fixed)</td>
+<td>⅓ planet</td>
+<td>~500 ms</td>
+<td>Launch cost, slot crowding</td>
+</tr>
+<tr>
+<td>Sun-sync ~700 km</td>
+<td>~100 min</td>
+<td>Narrow strip</td>
+<td>~ms</td>
+<td>Downlink volume, dawn/dusk power</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch40_satellites-402-the-bus">40.2 The Bus</h2>
 <p>Every satellite shares:</p>
 <ul>
@@ -231,9 +293,43 @@ body {
 <li><strong>Attitude control:</strong> reaction wheels slew precisely using stored momentum (magnetorquers unload it against Earth's field); star trackers give arcsecond knowledge; thrusters for large maneuvers.</li>
 <li><strong>Command/data:</strong> TT&amp;C links, radiation-hardened or redundant computers (<a href="ch35.html">Ch 35</a> parts screened against single-event upsets).</li>
 </ul>
+<p><strong>Power-budget law:</strong> payload watts + bus watts + margin (≥20 %) ≤ array output at end-of-life (degraded by radiation) through worst eclipse on batteries. Size arrays for year 15, not year 1 — a satellite that starves at year 8 dies of optimism, not age. Thermal twin rule: every watt generated must be radiated; size radiators to the hot case, heaters to the cold.</p>
 <h2 id="ch40_satellites-403-communications-relays">40.3 Communications Relays</h2>
 <p>Lineage: Echo balloon (passive bounce) → Telstar (1962, active transponder) → Syncom (1963, GEO) → Intelsat global telephony. Transponders receive uplink, shift frequency, amplify, downlink — bandwidth sold by MHz. Antenna engineering (spot beams reuse frequencies geographically) and encryption layers serve broadcasters, carriers, and remote regions fiber can't reach (<a href="ch41.html">Ch 41</a> carries the bulk; satellites own the last mile everywhere else).</p>
+<pre><code>UPLINK (6/14/30 GHz) → transponder: filter → shift frequency → amplify (TWTA/SSPA)
+   → DOWNLINK (4/12/20 GHz) → spot beam footprint → dishes ([§40.7](#407-ground-segment))
+</code></pre>
+<p><strong>Link arithmetic (one line):</strong> received power = transmit × gains ÷ path loss (∝ range² × frequency²). GEO's 36,000 km costs ~200 dB — hence big dishes, premium amplifiers, and frequency-reuse spot beams. Rain fades Ka-band; size margin for the local monsoon, not the datasheet's desert.</p>
 <h2 id="ch40_satellites-404-navigation-gps-as-civilizational-utility">40.4 Navigation: GPS as Civilizational Utility</h2>
+<figure class="fig">
+<svg viewBox="0 0 640 205" width="100%" role="img" aria-label="GPS trilateration and relativity correction">
+<rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 40.2 — Four clocks solve four unknowns (relativity included)</text>
+<g fill="#2f5286" stroke="#16130e" stroke-width="1.5">
+<circle cx="100" cy="70" r="14"/><circle cx="250" cy="55" r="14"/><circle cx="330" cy="120" r="14"/><circle cx="140" cy="140" r="14"/>
+</g>
+<g font-size="8" fill="#fff" text-anchor="middle" font-weight="bold">
+<text x="100" y="73">SV1</text><text x="250" y="58">SV2</text><text x="330" y="123">SV3</text><text x="140" y="143">SV4</text>
+</g>
+<circle cx="220" cy="110" r="8" fill="#8f3b2d" stroke="#16130e" stroke-width="2"/>
+<text x="220" y="135" text-anchor="middle" font-size="9" font-weight="bold">YOU (+cheap clock)</text>
+<g stroke="#8f3b2d" stroke-width="1" stroke-dasharray="5,3">
+<line x1="108" y1="80" x2="214" y2="106"/><line x1="240" y1="64" x2="226" y2="102"/>
+<line x1="318" y1="114" x2="230" y2="110"/><line x1="148" y1="130" x2="212" y2="114"/>
+</g>
+<text x="450" y="55" font-size="10" font-weight="bold">3 sats = x, y, z</text>
+<text x="450" y="69" font-size="10" font-weight="bold">4th sat = YOUR clock error</text>
+<text x="450" y="88" font-size="10">atomic clocks upstairs,</text>
+<text x="450" y="100" font-size="10">quartz garbage downstairs —</text>
+<text x="450" y="112" font-size="10">math fixes the difference</text>
+<rect x="400" y="125" width="200" height="55" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
+<text x="500" y="140" text-anchor="middle" font-size="10" font-weight="bold">+38 μs/day relativity</text>
+<text x="500" y="153" text-anchor="middle" font-size="9">uncorrected = 10 km/day drift</text>
+<text x="500" y="166" text-anchor="middle" font-size="9">built INTO the clock rate</text>
+</svg>
+<figcaption><strong>Figure 40.2.</strong> Ranges from travel times; three ranges place you, the fourth corrects your clock. Satellite clocks are pre-offset for relativity before launch — Einstein cast in hardware, drifting kilometers per day if ignored.</figcaption>
+</figure>
+
 <p>Architecture: ~24+ satellites in MEO, each carrying atomic clocks, broadcasting precise time + orbit ephemerides continuously.</p>
 <ul>
 <li><strong>Trilateration:</strong> receiver solves position from signal travel times to ≥4 satellites (x,y,z + clock offset). Your phone's clock is garbage; the fourth satellite corrects it.</li>
@@ -241,16 +337,85 @@ body {
 <li>Accuracy tiers: open service meters-level; augmentation (WAAS/RTK) reaches centimeters for survey/agriculture/machine control.</li>
 <li>Dependence audit (do this seriously): aviation approaches, shipping, banking timestamps, power-grid sync, logistics all quietly assume GNSS. Jam/spoof resilience = critical-infrastructure planning (<a href="ch47.html">Ch 47</a>).</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Tier</th>
+<th>Accuracy</th>
+<th>Needs</th>
+<th>Serves</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Open standalone</td>
+<td>~3–5 m</td>
+<td>Any receiver</td>
+<td>Hiking, cars, phones</td>
+</tr>
+<tr>
+<td>SBAS (WAAS/EGNOS)</td>
+<td>~1 m</td>
+<td>Geostationary corrections</td>
+<td>Aviation approaches</td>
+</tr>
+<tr>
+<td>RTK / PPP</td>
+<td>~cm</td>
+<td>Base station / precise orbits</td>
+<td>Survey, autosteer, machine control</td>
+</tr>
+<tr>
+<td>Holdover (no GNSS)</td>
+<td>Drifts</td>
+<td>Chip-scale atomic + inertial</td>
+<td>Jam/spoof survival</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch40_satellites-405-observation">40.5 Observation</h2>
 <ul>
 <li><strong>Weather satellites:</strong> TIROS (1960) began continuous atmospheric watching; hurricane warnings transformed mortality statistics — the quietest life-saving program ever fielded. Geostationary imagers loop storms live; polar orbiters feed forecast models globally.</li>
 <li><strong>Land/ocean remote sensing:</strong> Landsat continuity since 1972 gives decades-comparable surface records; spectral bands diagnose crops (NDVI vegetation index), water quality, mineral signatures; radar (SAR) images through cloud/night measuring ground deformation millimeter-scale (earthquake/volcano/subsidence science).</li>
 <li>Climate accounting (ice mass, sea level, carbon flux) exists ONLY via these platforms — policy-grade data infrastructure.</li>
 </ul>
+<p><strong>Spectral-band logic:</strong> visible (what eyes see) → near-IR (plant vigor: NDVI = (NIR−Red)/(NIR+Red)) → shortwave-IR (minerals, moisture) → thermal (fires, heat islands) → microwave/SAR (all-weather shape change). Calibrate against ground truth plots seasonally; an uncalibrated index is wallpaper.</p>
 <h2 id="ch40_satellites-406-constellations-and-debris">40.6 Constellations and Debris</h2>
 <p>Mega-constellations (thousands of LEO birds) blur satellite-to-ground latency toward terrestrial feel. The externality they manage: <strong>orbital debris</strong> — Kessler syndrome (cascade collisions rendering orbits unusable) is the tragedy-of-commons failure mode. Mandatory doctrine: deorbit capability at end-of-life, collision avoidance coordination, trackable-and-maneuverable designs. A clogged LEO is a self-inflicted wound generations can't undo cheaply.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Rule</th>
+<th>Implementation</th>
+<th>Verifies by</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deorbit ≤25 y (tighter now)</td>
+<td>Propulsion or drag sail, passivation</td>
+<td>Tracked reentry, no dead hulks</td>
+</tr>
+<tr>
+<td>Maneuverable + trackable</td>
+<td>GPS + thrusters + reflectors</td>
+<td>Conjunction warnings answered</td>
+</tr>
+<tr>
+<td>No intentional debris</td>
+<td>No ASAT, no separation junk</td>
+<td>Norms + <a href="ch47.html">Ch 47</a> licensing</td>
+</tr>
+<tr>
+<td>Design for demise</td>
+<td>Burnable materials</td>
+<td>Casualty risk &lt; 1:10,000</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch40_satellites-407-ground-segment">40.7 Ground Segment</h2>
 <p>Satellites are half the system: dishes/gateways, network operations centers, telemetry analysis, anomaly response procedures ("save the bird" playbooks). Ground stations networked globally hand off passes; scheduling software treats contacts like appointments. Budget reality: ground segment ≈ half of lifecycle cost — plan it with the launch, not after.</p>
+<p><strong>Anomaly playbook (write before launch):</strong> safe-mode triggers, power-positive attitudes, stored command loads, ground-simulator twin for rehearsing recoveries, 24 h staffing through early orbit. The bird that survives its first eclipse season usually survives its design life — staff accordingly.</p>
 <p class="co co-key"><strong>Key threshold:</strong> when your civilization receives positioning, weather warning, and intercontinental connectivity as ambient utilities, it has crossed into "planetary dominance" operationally — space infrastructure is the definition difference between regional powers and planetary ones (<a href="appendix-d.html">Appendix D</a>).</p>
 <h2 id="ch40_satellites-408-the-satellite-papers">40.8 The Satellite Papers</h2>
 <ul>

@@ -216,6 +216,41 @@ body {
 <br><strong>Requires:</strong> <a href="ch29.html">Ch 29</a> engines, <a href="ch27.html">Ch 27</a>/<a href="ch38.html">38</a> materials, <a href="ch20.html">Ch 20</a> wind-tunnel measurement · <br><strong>Unlocks:</strong> rapid long-distance transport, aerial survey, aerospace path (<a href="ch39.html">Ch 39</a>)</p>
 </blockquote>
 <p>Heavier-than-air flight is a systems triumph: aerodynamics + structures + propulsion + CONTROL converging. The Wright brothers' genius was treating it as engineering iteration, not inspiration — this chapter follows their method.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Four forces and airfoil section">
+<rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 33.1 — Four forces + what an airfoil actually does</text>
+<g text-anchor="middle">
+<text x="140" y="42" font-size="11" font-weight="bold">FORCES (level flight)</text>
+<line x1="140" y1="120" x2="140" y2="70" stroke="#2e5b34" stroke-width="3"/>
+<polygon points="140,70 134,82 146,82" fill="#2e5b34"/>
+<text x="140" y="62" font-size="10" font-weight="bold" fill="#2e5b34">LIFT</text>
+<line x1="140" y1="120" x2="140" y2="165" stroke="#8f3b2d" stroke-width="3"/>
+<polygon points="140,165 134,153 146,153" fill="#8f3b2d"/>
+<text x="140" y="180" font-size="10" font-weight="bold" fill="#8f3b2d">WEIGHT</text>
+<line x1="140" y1="120" x2="200" y2="120" stroke="#2f5286" stroke-width="3"/>
+<polygon points="200,120 188,114 188,126" fill="#2f5286"/>
+<text x="215" y="124" font-size="10" font-weight="bold" fill="#2f5286">THRUST →</text>
+<line x1="140" y1="120" x2="80" y2="120" stroke="#8a6d1f" stroke-width="3"/>
+<polygon points="80,120 92,114 92,126" fill="#8a6d1f"/>
+<text x="60" y="124" font-size="10" font-weight="bold" fill="#8a6d1f">← DRAG</text>
+<text x="140" y="198" font-size="9" font-style="italic">lift = weight, thrust = drag (steady flight)</text>
+</g>
+<text x="430" y="42" font-size="11" font-weight="bold">AIRFOIL SECTION</text>
+<path d="M300,120 Q380,75 520,105 L520,115 Q380,95 300,128 Z" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<line x1="270" y1="95" x2="300" y2="112" stroke="#c96a2e" stroke-width="1.5"/>
+<line x1="270" y1="110" x2="300" y2="118" stroke="#c96a2e" stroke-width="1.5"/>
+<line x1="270" y1="125" x2="300" y2="124" stroke="#c96a2e" stroke-width="1.5"/>
+<text x="278" y="140" font-size="9">airflow →</text>
+<line x1="520" y1="100" x2="580" y2="85" stroke="#c96a2e" stroke-width="1.5"/>
+<line x1="520" y1="112" x2="580" y2="112" stroke="#c96a2e" stroke-width="1.5"/>
+<text x="430" y="150" font-size="10">faster over top → lower pressure → lift</text>
+<text x="430" y="165" font-size="9" font-style="italic">+ momentum deflected down (same answer, both true)</text>
+<text x="430" y="182" font-size="10" font-weight="bold">stall ~15°: flow separates, lift collapses</text>
+</svg>
+<figcaption><strong>Figure 33.1.</strong> Left: the bargain — lift must equal weight, thrust must equal drag, continuously. Right: camber turns speed into suction above the wing. Exceed the critical angle and the smooth flow lets go — that cliff edge is the stall every pilot trains for.</figcaption>
+</figure>
+
 <h2 id="ch33_flight-331-aerodynamics-you-need">33.1 Aerodynamics You Need</h2>
 <p>Four forces: lift ∝ ρ·v²·S·C_L (air density, speed², wing area, lift coefficient); drag splits into parasite (∝v²) and induced (price of lift, high at low speeds); weight; thrust. Key concepts:</p>
 <ul>
@@ -223,6 +258,43 @@ body {
 <li><strong>Airfoils:</strong> cambered upper surface accelerates flow, drops pressure (Bernoulli's accounting; Newton's momentum deflection both true, same answer). Wind tunnels measure rather than argue — the Wrights built one when published tables failed them.</li>
 <li><strong>Aspect ratio:</strong> long slender wings (gliders) trade maneuverability for efficiency; induced drag halves as aspect ratio doubles.</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Variable</th>
+<th>Lever</th>
+<th>Practical meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Speed v (squared!)</td>
+<td>2× speed = 4× lift, 4× parasite drag</td>
+<td>Takeoff/landing are slow-flight problems</td>
+</tr>
+<tr>
+<td>Wing area S</td>
+<td>Bigger wing lifts slower</td>
+<td>Gliders huge, jets small + fast</td>
+</tr>
+<tr>
+<td>C_L (angle + flaps)</td>
+<td>Flaps/slots raise C_L for landing</td>
+<td>Complexity buys short fields</td>
+</tr>
+<tr>
+<td>Density ρ</td>
+<td>Thin air at altitude starves lift + engines</td>
+<td>Pressurize, turbocharge, or fly low</td>
+</tr>
+<tr>
+<td>Aspect ratio</td>
+<td>Long span = less induced drag</td>
+<td>Sailplanes ~20+, fighters ~3</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Wright wind-tunnel method (copy it):</strong> 6-foot tunnel, fan-driven, two balances measuring lift and drag on 200+ miniature airfoils at many angles. When Lilienthal's published tables disagreed with their gliders, they trusted their own tunnel — built in weeks from bicycle parts. Every later claim in this chapter traces to that habit: measure, don't argue.</p>
 <h2 id="ch33_flight-332-control-the-real-invention">33.2 Control: The Real Invention</h2>
 <p>History's glider builders could fly downhill; nobody could TURN under power without falling. Three-axis control:</p>
 <ul>
@@ -230,8 +302,84 @@ body {
 <li>The Wrights' insight: an airplane must be inherently UNSTABLE in roll but controllable — like riding a bicycle. Their glider program (1900–1902, thousands of flights at Kitty Hawk) validated control before power existed.</li>
 <li>Lilienthal's legacy: hang-glider data tables + the lesson he died teaching — control authority must exceed conditions.</li>
 </ul>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Three axis control diagram">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 33.2 — Three axes: every turn uses all three</text>
+<g stroke="#16130e" stroke-width="2" fill="#e8dcc0">
+<ellipse cx="160" cy="110" rx="55" ry="14" fill="#cfe0ea"/>
+<rect x="150" y="60" width="20" height="100" fill="#e8dcc0"/>
+<rect x="100" y="70" width="120" height="16" fill="#e8dcc0"/>
+</g>
+<path d="M160,40 Q190,70 160,100 Q130,70 160,40" fill="none" stroke="#8f3b2d" stroke-width="2"/>
+<text x="160" y="175" text-anchor="middle" font-size="10" font-weight="bold" fill="#8f3b2d">ROLL (ailerons)</text>
+<text x="160" y="187" text-anchor="middle" font-size="9">bank = turn force</text>
+<g stroke="#16130e" stroke-width="2" fill="#e8dcc0">
+<ellipse cx="340" cy="110" rx="55" ry="14" fill="#cfe0ea"/>
+<rect x="330" y="60" width="20" height="100" fill="#e8dcc0"/>
+<rect x="280" y="70" width="120" height="16" fill="#e8dcc0"/>
+</g>
+<path d="M310,130 Q340,145 370,130" fill="none" stroke="#2e5b34" stroke-width="2"/>
+<polygon points="370,130 360,126 362,136" fill="#2e5b34"/>
+<text x="340" y="175" text-anchor="middle" font-size="10" font-weight="bold" fill="#2e5b34">PITCH (elevator)</text>
+<text x="340" y="187" text-anchor="middle" font-size="9">nose up/down</text>
+<g stroke="#16130e" stroke-width="2" fill="#e8dcc0">
+<ellipse cx="520" cy="110" rx="55" ry="14" fill="#cfe0ea"/>
+<rect x="510" y="60" width="20" height="100" fill="#e8dcc0"/>
+<rect x="460" y="70" width="120" height="16" fill="#e8dcc0"/>
+</g>
+<path d="M480,95 Q520,85 560,95" fill="none" stroke="#2f5286" stroke-width="2"/>
+<polygon points="560,95 550,91 550,101" fill="#2f5286"/>
+<text x="520" y="175" text-anchor="middle" font-size="10" font-weight="bold" fill="#2f5286">YAW (rudder)</text>
+<text x="520" y="187" text-anchor="middle" font-size="9">counters adverse yaw</text>
+</svg>
+<figcaption><strong>Figure 33.2.</strong> Roll banks the lift vector sideways (that sideways component turns the airplane); pitch sets angle of attack and speed; rudder keeps the turn coordinated. Students who "steer with the rudder" skid — bank to turn, rudder to tidy.</figcaption>
+</figure>
+
+<p><strong>Training order (Wright pattern):</strong> glides first (unpowered, low, over sand), powered straights second, coordinated turns third, engine-out glides always. Control authority must exceed gusts: size tail and ailerons for the worst landing crosswind, not the cruise brochure.</p>
 <h2 id="ch33_flight-333-propulsion-under-weight-budget">33.3 Propulsion Under Weight Budget</h2>
 <p>The Wrights couldn't buy a suitable engine; their mechanic built one (~12 hp, aluminum crankcase, ~80 kg). Design doctrine: power-to-weight rules aviation forever. Propellers are rotating wings — the Wrights discovered theirs needed airfoil theory too (their 1903 props hit ~70 %+ efficiency, decades ahead of convention).</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Engine era</th>
+<th>Power/weight</th>
+<th>What it allowed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Wright custom 12 hp (~80 kg)</td>
+<td>~0.15 hp/kg</td>
+<td>12 seconds of level flight</td>
+</tr>
+<tr>
+<td>Rotary/WWI (~100 hp)</td>
+<td>~0.7 hp/kg</td>
+<td>Fighters, but oil-spraying</td>
+</tr>
+<tr>
+<td>Radial/1930s (~1,000 hp)</td>
+<td>~1.5 hp/kg</td>
+<td>Airliners, pressurization</td>
+</tr>
+<tr>
+<td>Merlin-class V-12 (~1,500 hp)</td>
+<td>~2 hp/kg</td>
+<td>High-altitude bombers</td>
+</tr>
+<tr>
+<td>Early jets</td>
+<td>3–5:1 thrust:weight</td>
+<td>Speed past prop limits</td>
+</tr>
+<tr>
+<td>Modern turbofans</td>
+<td>8–10:1 (engine alone)</td>
+<td>Twin-engine ocean crossing</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch33_flight-334-progression-milestones">33.4 Progression Milestones</h2>
 <div class="table-wrap"><table>
 <thead>
@@ -274,6 +422,7 @@ body {
 </tr>
 </tbody>
 </table></div>
+<p><strong>Structures lesson:</strong> external bracing wires cost drag; cantilever wings cost weight but buy speed. Retractable gear, flush rivets, and cowled engines each bought ~10–20 knots — cruise efficiency is accumulated detail, not one breakthrough.</p>
 <h2 id="ch33_flight-335-jets">33.5 Jets</h2>
 <p>Whittle (patent 1930, engine run 1937) and von Ohain (He 178, 1939): compress air, burn fuel continuously, expand through turbine driving compressor, exhaust at speed. Turbojet thrust scales with mass flow × Δvelocity:</p>
 <ul>
@@ -281,6 +430,10 @@ body {
 <li><strong>Turbofans:</strong> add a big slow fan around the core — bypass air moves MORE mass slower = better propulsive efficiency + quieter. Bypass ratio climbed from ~0 to &gt;10 for airliners; fuel per seat fell ~70 % since 1960.</li>
 <li><strong>Dead end avoided:</strong> de Havilland Comet (1952) square-window cabin failures — pressurization cycles fatigue metal; cracks grow from stress concentrations (corners). Round openings, fail-safe multi-path structure, full-scale fatigue test articles mandatory thereafter. Aviation's safety culture institutionalizes post-mortems into design rules.</li>
 </ul>
+<pre><code>AIR IN → COMPRESSOR (many stages, pressure ×20+) → COMBUSTOR (fuel + flame, constant)
+   → TURBINE (extracts compressor power) → NOZZLE (fast jet = thrust)
+        └─ TURBOFAN: big slow fan around core moves 10× air gently = quiet + thrifty
+</code></pre>
 <h2 id="ch33_flight-336-helicopters">33.6 Helicopters</h2>
 <p>Rotary wings solve vertical flight with hard problems: dissymmetry of lift (advancing blade faster than retreating) fixed by FLAPPING hinges letting blades ride their own lift; tail rotors counter torque. Autogyros (Cierva) proved rotor principles safely; Sikorsky VS-300 (1939) matured the single-main-rotor configuration. Use cases: rescue, vertical logistics, crop work — niche economics versus airplanes, irreplaceable within them.</p>
 <h2 id="ch33_flight-337-supersonic-and-systems">33.7 Supersonic and Systems</h2>
@@ -297,6 +450,8 @@ body {
 <li><strong>Comet forensics:</strong> after three hull losses (1954), the RAE salvaged fuselages from Mediterranean seafloors and pressure-cycled a complete water-tank test article — cracks initiated at ADF window corners after ~9,000 cycles (design life assumed 10,000+). Fail-safe design doctrine and full-scale fatigue testing were written into airworthiness rules because of this investigation.</li>
 <li><strong>X-1:</strong> Chuck Yeager broke Mach 1 October 14, 1947, over Muroc, in <em>Glamorous Glennis</em>, with two broken ribs from a riding accident kept off his commanders' medical log. Whitcomb's area rule then reshaped fuselages (YF-102 failing drag estimates → redesigned F-102A passing supersonically).</li>
 </ul>
+<h2 id="ch33_flight-339-airstrip-doctrine">33.9 Airstrip Doctrine</h2>
+<p>Level 300–500 m of rolled grass flies early airplanes; drainage matters more than pavement. Windsock, tie-downs, fuel filtered twice, and a repair shed with fabric, dope, spruce, and piano wire precede any hangar palace. Survey from the air from week one — even a glider with a camera maps plant disease, floods, and ore stains (<a href="ch13.html">Ch 13</a>) better than ground parties.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch32.html" class="reader-nav-link">← Chapter 32</a>

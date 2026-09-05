@@ -216,6 +216,49 @@ body {
 <br><strong>Requires:</strong> <a href="ch14.html">Ch 14</a> tools, <a href="ch12.html">Ch 12</a> ratios · <br><strong>Unlocks:</strong> <a href="ch16.html">Ch 16</a> mills, <a href="ch23.html">Ch 23</a> engines, <a href="ch35.html">Ch 35</a>-era machine tools</p>
 </blockquote>
 <p>Every machine ever built is an arrangement of six or so primitives. This chapter is the alphabet of mechanics; fluency here is what lets <a href="ch18.html">Part III</a> move fast instead of re-deriving basics.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Six simple machines overview">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 15.1 — Six primitives: every machine is a sentence in these words</text>
+<g font-size="9" text-anchor="middle">
+<rect x="10" y="50" width="95" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="57" y="67" font-weight="bold">LEVER</text>
+<line x1="25" y1="95" x2="90" y2="85" stroke="#16130e" stroke-width="3"/>
+<polygon points="57,85 57,105 67,95" fill="#16130e"/>
+<text x="57" y="118" font-size="8">F₁·d₁ = F₂·d₂</text>
+<rect x="115" y="50" width="95" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="162" y="67" font-weight="bold">WHEEL+AXLE</text>
+<circle cx="162" cy="95" r="18" fill="none" stroke="#16130e" stroke-width="2"/>
+<circle cx="162" cy="95" r="5" fill="#16130e"/>
+<text x="162" y="118" font-size="8">rotary lever</text>
+<rect x="220" y="50" width="95" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="267" y="67" font-weight="bold">PULLEY</text>
+<circle cx="267" cy="90" r="14" fill="none" stroke="#16130e" stroke-width="2"/>
+<line x1="267" y1="76" x2="267" y2="60" stroke="#16130e"/><line x1="253" y1="90" x2="253" y2="115" stroke="#16130e"/><line x1="281" y1="90" x2="281" y2="115" stroke="#16130e"/>
+<text x="267" y="122" font-size="8">4 ropes = 4:1</text>
+<rect x="325" y="50" width="95" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="372" y="67" font-weight="bold">WEDGE</text>
+<polygon points="340,110 405,110 405,85" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/>
+<text x="372" y="122" font-size="8">split + clamp</text>
+<rect x="430" y="50" width="95" height="80" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="477" y="67" font-weight="bold">SCREW</text>
+<line x1="445" y1="85" x2="510" y2="85" stroke="#16130e" stroke-width="3"/>
+<path d="M450,85 l10,-6 M460,85 l10,-6 M470,85 l10,-6 M480,85 l10,-6 M490,85 l10,-6" stroke="#16130e" stroke-width="1.5"/>
+<text x="477" y="110" font-size="8">plane wrapped</text>
+<text x="477" y="121" font-size="8">on cylinder</text>
+<rect x="535" y="50" width="95" height="80" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="582" y="67" font-weight="bold">GEAR</text>
+<circle cx="570" cy="95" r="14" fill="none" stroke="#16130e" stroke-width="2"/>
+<circle cx="594" cy="95" r="10" fill="none" stroke="#16130e" stroke-width="2"/>
+<text x="582" y="118" font-size="8">exact ratios,</text>
+<text x="582" y="128" font-size="8">no slip</text>
+</g>
+<text x="320" y="155" text-anchor="middle" font-size="10">crank + connecting rod (rotation ↔ reciprocation) is the seventh honorary member — exploit it immediately</text>
+<text x="320" y="172" text-anchor="middle" font-size="10" font-weight="bold">Compute mechanical advantage BEFORE building ([Ch 12](ch12.html) proportion).</text>
+</svg>
+<figcaption><strong>Figure 15.1.</strong> Six shapes, infinite machines: levers trade distance for force, wheels turn leverage rotary, pulleys split loads across rope lengths, wedges split and grip, screws multiply force into precision, gears lock ratios exact.</figcaption>
+</figure>
+
 <h2 id="ch15_mechanisms-151-the-six-classical-simple-machines">15.1 The Six Classical Simple Machines</h2>
 <ol>
 <li><strong>Lever</strong> — trade distance for force around a fulcrum; F₁·d₁ = F₂·d₂. Crowbars, oars, wheelbarrows (wheel+lever combo), pliers.</li>
@@ -241,6 +284,48 @@ body {
 <li><strong>Crank and connecting rod:</strong> converts rotation↔reciprocation. Historically underexploited for a millennium after its first appearance; DO exploit it immediately — it is the single most important motion converter between waterwheels ([rotary]) and hammers/pumps/saw-blades [reciprocating].</li>
 <li><strong>Escapements</strong> (clockwork): release stored energy in counted ticks — mechanical counting, previewing computation (<a href="ch36.html">Ch 36</a>).</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Transmission</th>
+<th>Distance</th>
+<th>Precision</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rope/cord</td>
+<td>meters</td>
+<td>Low (stretch)</td>
+<td>Tolerant of misalignment; retension often</td>
+</tr>
+<tr>
+<td>Flat belt (crowned pulleys)</td>
+<td>hall-scale</td>
+<td>Medium</td>
+<td>Self-tracks; THE factory standard once power exists</td>
+</tr>
+<tr>
+<td>Gears (lantern → cut iron)</td>
+<td>contact</td>
+<td>Exact ratio</td>
+<td>Noisy till cut well; mesh depth consistent</td>
+</tr>
+<tr>
+<td>Crank + rod</td>
+<td>local</td>
+<td>Exact phase</td>
+<td>Rotary ↔ reciprocation — waterwheel to hammer/pump/saw</td>
+</tr>
+<tr>
+<td>Line shaft + hangers</td>
+<td>whole building</td>
+<td>Medium</td>
+<td>One wheel drives many stations (<a href="ch16.html">Ch 16</a>)</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch15_mechanisms-154-the-lathe-mother-of-machine-tools">15.4 The Lathe: Mother of Machine Tools</h2>
 <p>A lathe spins workpiece against a cutting tool. With it you make: round shafts, pulleys, wheels, screws, cannon bores, telescope parts, engine cylinders. Without it, everything above stays artisan-lumpy.</p>
 <p>Build order:
@@ -248,6 +333,40 @@ body {
 2. <strong>Treadle lathe with flywheel:</strong> continuous rotation, feet free hands.
 3. <strong>Metal-turning lathe with leadscrew and slide rest:</strong> Maudslay's ~1800 configuration — tool fed by a screw against a rigid carriage. This one machine births interchangeable parts and every precision industry.</p>
 <p class="co co-key"><strong>Key threshold:</strong> a lathe that holds 0.5 mm accuracy upgrades your whole civilization's artifacts; one holding 0.05 mm makes steam-engine cylinders (<a href="ch23.html">Ch 23</a>) physically possible. Precision propagates: lathes make better lathes.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Precision propagation through lathes and gauges">
+<rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 15.2 — Precision propagates: lathes birth lathes, gauges enforce it</text>
+<g font-size="9" text-anchor="middle">
+<rect x="30" y="55" width="130" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="95" y="72" font-weight="bold">POLE LATHE</text>
+<text x="95" y="84">wood, 0.5 mm+</text>
+<text x="95" y="95">shafts, pulleys</text>
+<rect x="180" y="55" width="130" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="245" y="72" font-weight="bold">TREADLE + FLY</text>
+<text x="245" y="84">continuous spin</text>
+<text x="245" y="95">iron possible</text>
+<rect x="330" y="55" width="130" height="60" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="395" y="72" font-weight="bold">LEADSCREW LATHE</text>
+<text x="395" y="84">0.05 mm, Maudslay</text>
+<text x="395" y="95">cylinders, screws</text>
+<rect x="480" y="55" width="130" height="60" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="545" y="72" font-weight="bold">GO / NO-GO</text>
+<text x="545" y="84">workers sort,</text>
+<text x="545" y="95">parts interchange</text>
+</g>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="160" y1="85" x2="180" y2="85"/><polygon points="180,79 180,91 188,85" fill="#16130e"/>
+<line x1="310" y1="85" x2="330" y2="85"/><polygon points="330,79 330,91 338,85" fill="#16130e"/>
+<line x1="460" y1="85" x2="480" y2="85"/><polygon points="480,79 480,91 488,85" fill="#16130e"/>
+</g>
+<text x="320" y="140" text-anchor="middle" font-size="10">each generation machines the next generation's parts — the self-improving loop (§15.7)</text>
+<text x="320" y="157" text-anchor="middle" font-size="10" font-weight="bold">Gauge budget ≤10% of work tolerance; tolerance ÷ 6σ̂ ≥ 1.33 before promising interchange.</text>
+<text x="320" y="174" text-anchor="middle" font-size="9" font-style="italic">Hall 1826 (Harpers Ferry) → Whitworth 1841 (threads) → Johansson 1896 (gauge blocks)</text>
+</svg>
+<figcaption><strong>Figure 15.2.</strong> The climb: each lathe generation holds tighter tolerance and builds its successor. Limit gauges (GO enters, NO-GO refuses) let unskilled hands sort to standard — interchangeability is metrology made democratic.</figcaption>
+</figure>
+
 <h2 id="ch15_mechanisms-155-screws-and-standard-threads">15.5 Screws and Standard Threads</h2>
 <p>Hand-cut threads (chase over a turned mandrel, or die stocks) suffice early. Standardize thread pitches EARLY across workshops — bolts that fit only their mate are a tax on every future repair. Historical detour compressed by fiat: pick three coarse pitches (large/medium/small), publish them, enforce them. Whitworth did exactly this nationally in <strong>1841</strong> — constant-pitch series on a 55° thread flank angle, the first national screw-thread standard — and standard threads plus standardized measures made his later "millionth of an inch" measuring machines meaningful (<a href="ch20.html">Ch 20</a>).</p>
 <p><strong>The gauge system that makes interchangeability real</strong> (<a href="#ch15_mechanisms-157-machine-tools-and-interchangeable-parts">§15.7</a> states the doctrine; this is its hardware):</p>

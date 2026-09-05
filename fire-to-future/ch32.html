@@ -216,6 +216,36 @@ body {
 <br><strong>Requires:</strong> <a href="ch21.html">Ch 21</a> pressure chemistry, <a href="ch29.html">Ch 29</a> tractors, <a href="ch30.html">Ch 30</a>-era logistics · <br><strong>Unlocks:</strong> megacity-scale food security, demographic headroom for specialists</p>
 </blockquote>
 <p>Agriculture's ancient nitrogen ledger (<a href="ch07.html">Ch 7</a>) capped populations at what manure and legumes could fix. Breaking that cap — plus genetics plus machines — tripled grain yields and made the modern world demographically possible. Roughly half the nitrogen atoms in your body passed through a Haber reactor.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Haber-Bosch recycle loop">
+<rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 32.1 — Haber-Bosch: 15% per pass → ~97% via recycle</text>
+<rect x="40" y="70" width="110" height="60" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="95" y="88" text-anchor="middle" font-size="10" font-weight="bold">N₂ + 3H₂</text>
+<text x="95" y="100" text-anchor="middle" font-size="9">1 : 3, purified</text>
+<text x="95" y="112" text-anchor="middle" font-size="9">S-free, CO-free</text>
+<rect x="250" y="60" width="140" height="80" rx="6" fill="#f9eeec" stroke="#8f3b2d" stroke-width="2"/>
+<text x="320" y="78" text-anchor="middle" font-size="10" font-weight="bold">REACTOR</text>
+<text x="320" y="90" text-anchor="middle" font-size="9">~200 atm</text>
+<text x="320" y="101" text-anchor="middle" font-size="9">~450–500 °C</text>
+<text x="320" y="112" text-anchor="middle" font-size="9">Fe (K/Al promoted)</text>
+<text x="320" y="126" text-anchor="middle" font-size="9" font-style="italic">~15% converts/pass</text>
+<rect x="480" y="70" width="120" height="60" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
+<text x="540" y="88" text-anchor="middle" font-size="10" font-weight="bold">CONDENSE NH₃</text>
+<text x="540" y="100" text-anchor="middle" font-size="9">cool → liquid out</text>
+<text x="540" y="112" text-anchor="middle" font-size="9">unreacted loops back</text>
+<g stroke="#16130e" stroke-width="2">
+<line x1="150" y1="100" x2="250" y2="100"/><polygon points="250,94 250,106 258,100" fill="#16130e"/>
+<line x1="390" y1="100" x2="480" y2="100"/><polygon points="480,94 480,106 488,100" fill="#16130e"/>
+</g>
+<path d="M540,130 Q540,170 320,170 Q100,170 95,130" fill="none" stroke="#16130e" stroke-width="1.5" stroke-dasharray="6,3"/>
+<polygon points="95,130 87,128 91,120" fill="#16130e"/>
+<text x="320" y="185" text-anchor="middle" font-size="10">RECYCLE LOOP (compressor returns N₂/H₂) — the loop IS the yield</text>
+<text x="320" y="199" text-anchor="middle" font-size="9" font-style="italic">poisons kill Fe: sulfur &lt; ppm, oxygen excluded; soft-iron liner absorbs H₂ attack</text>
+</svg>
+<figcaption><strong>Figure 32.1.</strong> Equilibrium allows only ~15% conversion per pass — so unreacted gas is condensed free of ammonia and pumped back. Bosch's pressure vessel (soft-iron liner against hydrogen decarbonization) plus the recycle compressor are the engineering that made Haber's chemistry industrial.</figcaption>
+</figure>
+
 <h2 id="ch32_green_revolution-321-the-nitrogen-wall">32.1 The Nitrogen Wall</h2>
 <p>Every protein requires fixed nitrogen. Pre-1913 sources: legume rotation (~fixed ceiling), guano islands (mined toward exhaustion; naval wars fought over them), Chilean saltpeter (finite, strategic). Chemistry knew N₂ + 3H₂ → 2NH₃ was possible — ammonia is the hydrogen carrier of fixed nitrogen — but equilibrium HATES you: high pressure favors product, high temperature favors speed but kills yield.</p>
 <p><strong>Haber-Bosch synthesis:</strong> ~200 atm, ~450–500 °C, iron catalyst (promoted with K₂O/Al₂O₃), gases recycled in loops so per-pass yields of ~15 % compound to near-total conversion. Bosch's contribution was engineering the impossible vessel: low-alloy steel decarbonizes under hot hydrogen — he lined reactors with soft iron that sacrificially absorbs it. Pressure-vessel metallurgy (<a href="ch27.html">Ch 27</a>) + recycle-loop design = industrial fixation (Oppau plant, 1913).</p>
@@ -223,6 +253,48 @@ body {
 <li>Hydrogen source evolution: coal gasification → natural gas steam reforming (CH₄ + H₂O → H₂ + CO₂) once pipelines exist — energy cost tracks fuel price forever.</li>
 <li>Consequence: synthetic fertilizer now feeds roughly half of humanity. This single process is the strongest candidate for "most important invention" in this book by lives enabled.</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Fixation source</th>
+<th>Ceiling</th>
+<th>Cost</th>
+<th>Verdict</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Legume rotation + manure</td>
+<td>~1–2 t/ha grain</td>
+<td>Land-hungry</td>
+<td>Base layer, never sufficient alone</td>
+</tr>
+<tr>
+<td>Guano / saltpeter mining</td>
+<td>Finite islands/veins</td>
+<td>Wars + exhaustion</td>
+<td>Bridge, not future</td>
+</tr>
+<tr>
+<td>Electric-arc (Birkeland–Eyde)</td>
+<td>~2 % NO, huge power</td>
+<td>Only with stranded hydro</td>
+<td>Niche; skip unless power is free</td>
+</tr>
+<tr>
+<td>Cyanamide (Frank–Caro)</td>
+<td>Solid fertilizer path</td>
+<td>Power + carbide plant</td>
+<td>Interim where Haber vessels lag</td>
+</tr>
+<tr>
+<td>Haber-Bosch</td>
+<td>Unlimited air + fuel</td>
+<td>Fuel-price-linked</td>
+<td>The wall-breaker — build this</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch32_green_revolution-322-phosphate-and-potash">32.2 Phosphate and Potash</h2>
 <p>Nitrogen is one of three macros:</p>
 <ul>
@@ -230,21 +302,121 @@ body {
 <li><strong>Potassium:</strong> potash mines (<a href="ch13.html">Ch 13</a>); less controversial, equally essential.</li>
 <li>Soil testing (<a href="ch20.html">Ch 20</a>) converts fertilizing from ritual to prescription — apply what tests show missing, not folklore ratios.</li>
 </ul>
+<p><strong>Prescription doctrine:</strong> test pH + N/P/K + organic matter per field every 2–3 years; lime to pH 6–7 first (locked nutrients unlock free); band phosphorus near seed (it barely moves in soil); split nitrogen (planting + tillering + heading) to match uptake curves and cut leaching; return straw, manure, and — once <a href="ch30.html">Ch 30</a> treatment allows — sewage phosphorus. Fertilizer without testing is irrigation without measuring rain.</p>
 <h2 id="ch32_green_revolution-323-genetics-applied-hybrid-corn-and-dwarf-grains">32.3 Genetics Applied: Hybrid Corn and Dwarf Grains</h2>
 <ul>
 <li><strong>Heterosis:</strong> Shull's inbred-line crosses (1900s–20s) produced hybrid corn out-yielding open-pollinated varieties 25–50 %. Farmers buy fresh seed yearly (inbred lines must be re-crossed) — seed industry born; breeding becomes an R&amp;D discipline.</li>
 <li><strong>Dwarfing:</strong> tall grains lodge (fall over) when heavy fertilizer pushes growth. Borlaug's shuttle-breeding program crossed Japanese dwarf wheat genes into local adapted varieties; IR8 "miracle rice" (1966) similarly. Short stiff stems convert fertilizer into GRAIN instead of straw — yields doubled/tripled across Asia/Latin America within a decade; famines predicted for the 1970s never arrived at forecast scale.</li>
 <li>Breeding infrastructure: nurseries, pedigree records (<a href="ch11.html">Ch 11</a>), multi-location trials to defeat location-specific diseases, seed certification chains maintaining varietal purity.</li>
 </ul>
+<figure class="fig">
+<svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Yield staircase">
+<rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 32.2 — The yield staircase (wheat/rice, t/ha, schematic)</text>
+<g font-size="10">
+<rect x="80" y="120" width="90" height="30" fill="#9a927e" stroke="#16130e"/>
+<text x="125" y="139" text-anchor="middle" font-weight="bold">~1–2</text>
+<text x="125" y="163" text-anchor="middle" font-size="9">landrace,</text>
+<text x="125" y="174" text-anchor="middle" font-size="9">no inputs</text>
+<rect x="190" y="100" width="90" height="50" fill="#c9a86a" stroke="#16130e"/>
+<text x="235" y="129" text-anchor="middle" font-weight="bold">~2–4</text>
+<text x="235" y="163" text-anchor="middle" font-size="9">+ NPK +</text>
+<text x="235" y="174" text-anchor="middle" font-size="9">water</text>
+<rect x="300" y="100" width="90" height="50" fill="#c9a86a" stroke="#8f3b2d" stroke-dasharray="5,3"/>
+<text x="345" y="129" text-anchor="middle" font-weight="bold">lodges!</text>
+<text x="345" y="163" text-anchor="middle" font-size="9">tall + heavy</text>
+<text x="345" y="174" text-anchor="middle" font-size="9">= flat crop</text>
+<rect x="410" y="60" width="110" height="90" fill="#2e5b34" stroke="#16130e" stroke-width="2"/>
+<text x="465" y="109" text-anchor="middle" font-weight="bold" fill="#fff">6–10</text>
+<text x="465" y="163" text-anchor="middle" font-size="9">dwarf + NPK</text>
+<text x="465" y="174" text-anchor="middle" font-size="9">+ water + care</text>
+</g>
+<line x1="60" y1="150" x2="540" y2="150" stroke="#16130e" stroke-width="1"/>
+<text x="560" y="100" font-size="9" font-weight="bold">short stiff</text>
+<text x="560" y="111" font-size="9" font-weight="bold">straw holds</text>
+<text x="560" y="122" font-size="9">grain, not straw</text>
+</svg>
+<figcaption><strong>Figure 32.2.</strong> Fertilizer alone pushes tall varieties over — literally. Dwarfing genes shorten straw so added nitrogen becomes grain. The package (seed + nutrient + water + protection) yields together or not at all.</figcaption>
+</figure>
+
+<p><strong>Shuttle-breeding hack (Borlaug pattern):</strong> plant two nurseries at different latitudes/altitudes per year (e.g., valley + highland) to double generations, select for broad adaptation + rust resistance simultaneously. Keep pedigree books ruthless: every cross numbered, every row scored for height, heading date, disease, lodging, threshability. Release only after multi-location trials beat the local check in at least two seasons.</p>
 <h2 id="ch32_green_revolution-324-crop-protection">32.4 Crop Protection</h2>
 <ul>
 <li>Generations: inorganic poisons (Paris green) → organochlorines (DDT: WWII malaria victories, then resistance + bioaccumulation documented by Carson 1962) → selective organophosphates/carbamates → integrated pest management (IPM): thresholds before spraying, biological controls, resistant varieties, targeted chemistry as last resort.</li>
 <li><strong>Dead end avoided:</strong> spray-everything schedules breed resistance within seasons (evolution doesn't negotiate) and nuke beneficial predators that were doing free pest control. IPM is the corrected path; herbicide-tolerant crops later integrate cleanly INTO IPM rather than replacing it.</li>
 </ul>
+<p><strong>IPM in five lines:</strong> (1) scout weekly, count pests + beneficials; (2) spray only past economic threshold; (3) rotate modes of action every season; (4) preserve refuges and predators (hedges, beetle banks); (5) plow/drain/rotate to break cycles mechanically first. The sprayer is the last resort, not the first patrol.</p>
 <h2 id="ch32_green_revolution-325-mechanization-and-irrigation-completion">32.5 Mechanization and Irrigation Completion</h2>
 <p>Tractors/combines (<a href="ch29.html">Ch 29</a>) free land from horse feed and labor from harvest crews; tube wells + center-pivot systems extend irrigation where aquifers allow (<strong>watch drawdown rates — Ogallala-style overdraft is a slow-motion catastrophe</strong>); refrigerated logistics connect harvests to cities year-round (<a href="ch26.html">Ch 26</a>, <a href="ch24.html">24</a>).</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Water source</th>
+<th>Yield effect</th>
+<th>Failure mode</th>
+<th>Rule</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rain only</td>
+<td>Variable, 1–3 t/ha</td>
+<td>Drought year = crisis</td>
+<td>Store grain (2-year reserve)</td>
+</tr>
+<tr>
+<td>River diversion</td>
+<td>Stable 3–6 t/ha</td>
+<td>Upstream claims</td>
+<td>Measure shares, line canals</td>
+</tr>
+<tr>
+<td>Tubewell</td>
+<td>5–10 t/ha possible</td>
+<td>Aquifer mining</td>
+<td>Meter drawdown; cap pumping</td>
+</tr>
+<tr>
+<td>Center pivot</td>
+<td>Uniform + fertile-able</td>
+<td>Energy cost</td>
+<td>Fertigate through pivot, soil-test guided</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch32_green_revolution-326-honest-ledger">32.6 Honest Ledger</h2>
 <p>Costs of the package: aquifer depletion, eutrophication runoff (fertilizer excess feeding algal blooms and dead zones), biodiversity loss under monoculture, fossil dependence. Counterpoints: billions fed, forests spared (yields rise meant less wild land converted), famine forecasts broken. The corrected doctrine — precision application, cover crops, buffer strips, diversified rotations, recycled nutrients — keeps the gains while trimming the damage. Yield-per-input, not yield-per-hectare alone, becomes the master metric.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Cost</th>
+<th>Mechanism</th>
+<th>Correction (no yield surrender)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nitrate runoff → dead zones</td>
+<td>Over-applied, wrong-timed N</td>
+<td>Split doses, cover crops, riparian buffers</td>
+</tr>
+<tr>
+<td>Aquifer mining</td>
+<td>Pumping &gt; recharge</td>
+<td>Meter, price, drip where it pays</td>
+</tr>
+<tr>
+<td>Pesticide resistance</td>
+<td>Same mode, yearly</td>
+<td>Rotate chemistry, IPM thresholds</td>
+</tr>
+<tr>
+<td>Monoculture disease</td>
+<td>Genetic uniformity</td>
+<td>Multilines, rotation, seed banks</td>
+</tr>
+</tbody>
+</table></div>
 <p class="co co-key"><strong>Key threshold:</strong> national cereal yields sustained above ~4 t/ha with stable input supply mark food-security independence. Below that line, every drought is a political crisis; above it, agriculture becomes an export industry and population policy stabilizes (<a href="ch30.html">Ch 30</a>'s demographic transition completes).</p>
 <h2 id="ch32_green_revolution-328-the-green-revolution-record">32.8 The Green Revolution Record</h2>
 <ul>
@@ -254,6 +426,8 @@ body {
 <li>The famine-that-wasn't context: 1960s neo-Malthusian bestsellers (<em>Famine—1975!</em> etc.) predicted mass starvation; PL-480 food-aid politics and Green Revolution yields jointly falsified the near-term forecasts. Later scholars credit both factors and note India's monsoon luck; the book records the forecast failure without crowing.</li>
 <li><strong>Nobel Peace Prize, Borlaug, 1970</strong> — an agronomist winning peace's prize is itself data about what feeding people prevents.</li>
 </ul>
+<h2 id="ch32_green_revolution-329-village-package-one-page-extension-order">32.9 Village Package (One-Page Extension Order)</h2>
+<p>Seed of adapted dwarf/hybrid (certified, fresh yearly) + soil test + lime + split NPK + water schedule + IPM scouting card + storage crib dried below 13 % moisture (<a href="appendix-g.html">App G</a>) + grain reserve ledger. Deliver as a kit with a demonstration plot beside the farmer's own field — side-by-side harvest weights persuade where pamphlets fail.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch31.html" class="reader-nav-link">← Chapter 31</a>

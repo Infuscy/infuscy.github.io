@@ -216,6 +216,46 @@ body {
 <br><strong>Requires:</strong> <a href="ch28.html">Ch 28</a> fuels, <a href="ch27.html">Ch 27</a> alloys, <a href="ch15.html">Ch 15</a> precision machining · <br><strong>Unlocks:</strong> mechanized agriculture (<a href="ch32.html">Ch 32</a>), road logistics, aircraft engines (<a href="ch33.html">Ch 33</a>)</p>
 </blockquote>
 <p>Internal combustion burns fuel INSIDE the working cylinder — no boiler, no coal pile, power density steam could never touch. This chapter builds the engine family and the vehicles that industrialized ground transport.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Otto four-stroke cycle">
+<rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 29.1 — Otto four-stroke: four piston trips, one power punch</text>
+<g text-anchor="middle" font-size="9">
+<text x="90" y="42" font-weight="bold">1. INTAKE</text>
+<rect x="55" y="55" width="70" height="90" fill="none" stroke="#16130e" stroke-width="1.5"/>
+<rect x="65" y="110" width="50" height="10" fill="#9a927e" stroke="#16130e"/>
+<line x1="115" y1="70" x2="135" y2="70" stroke="#2f5286" stroke-width="3"/>
+<text x="90" y="160" font-size="9">piston falls,</text>
+<text x="90" y="171" font-size="9">charge in</text>
+<text x="245" y="42" font-weight="bold">2. COMPRESSION</text>
+<rect x="210" y="55" width="70" height="90" fill="none" stroke="#16130e" stroke-width="1.5"/>
+<rect x="220" y="85" width="50" height="10" fill="#9a927e" stroke="#16130e"/>
+<text x="245" y="160" font-size="9">both valves shut,</text>
+<text x="245" y="171" font-size="9">squeeze ~8:1</text>
+<text x="400" y="42" font-weight="bold">3. POWER</text>
+<rect x="365" y="55" width="70" height="90" fill="none" stroke="#16130e" stroke-width="2"/>
+<rect x="375" y="120" width="50" height="10" fill="#8f3b2d" stroke="#16130e"/>
+<polygon points="400,70 392,85 408,85" fill="#c96a2e"/>
+<circle cx="392" cy="95" r="3" fill="#c96a2e"/><circle cx="408" cy="95" r="3" fill="#c96a2e"/><circle cx="400" cy="105" r="3" fill="#c96a2e"/>
+<text x="400" y="160" font-size="9" font-weight="bold">SPARK → push</text>
+<text x="400" y="171" font-size="9">only paid stroke</text>
+<text x="555" y="42" font-weight="bold">4. EXHAUST</text>
+<rect x="520" y="55" width="70" height="90" fill="none" stroke="#16130e" stroke-width="1.5"/>
+<rect x="530" y="80" width="50" height="10" fill="#4a4436" stroke="#16130e"/>
+<line x1="505" y1="70" x2="525" y2="70" stroke="#4a4436" stroke-width="3"/>
+<text x="555" y="160" font-size="9">piston rises,</text>
+<text x="555" y="171" font-size="9">burnt gas out</text>
+</g>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="125" y1="100" x2="210" y2="100"/><polygon points="210,94 210,106 218,100" fill="#16130e"/>
+<line x1="280" y1="100" x2="365" y2="100"/><polygon points="365,94 365,106 373,100" fill="#16130e"/>
+<line x1="435" y1="100" x2="520" y2="100"/><polygon points="520,94 520,106 528,100" fill="#16130e"/>
+</g>
+<text x="320" y="192" text-anchor="middle" font-size="9" font-style="italic">valves: intake opens only in 1, exhaust only in 4 — mistimed by one tooth = dead engine</text>
+</svg>
+<figcaption><strong>Figure 29.1.</strong> The four-stroke bargain: three strokes consume work to make the fourth possible. Flywheel and multi-cylinder phasing smooth the pulses; valve timing is the assembly discipline that decides whether it runs at all.</figcaption>
+</figure>
+
 <h2 id="ch29_combustion-291-the-otto-four-stroke-cycle">29.1 The Otto Four-Stroke Cycle</h2>
 <p>Intake (fuel+air drawn in) → compression (work invested) → POWER (ignition, expansion does work) → exhaust. Four strokes, one power stroke — the torque pulses smooth out across multiple cylinders.</p>
 <ul>
@@ -223,9 +263,72 @@ body {
 <li>Ignition systems: hot tube (primitive) → magneto (self-powered spark, no battery needed) → coil/battery/distributor.</li>
 <li>Carburetion meters fuel into airflow by venturi depression; mixture strength varies with load/cold start (chokes). Fuel injection later replaces guesswork with metered precision.</li>
 </ul>
+<figure class="fig">
+<svg viewBox="0 0 640 180" width="100%" role="img" aria-label="Compression ratio versus efficiency and knock limit">
+<rect x="0" y="0" width="640" height="180" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 29.2 — Compression buys efficiency until knock collects</text>
+<line x1="80" y1="40" x2="80" y2="140" stroke="#16130e" stroke-width="2"/>
+<line x1="80" y1="140" x2="560" y2="140" stroke="#16130e" stroke-width="2"/>
+<path d="M100,130 Q250,90 350,70 Q450,55 540,50" fill="none" stroke="#2f5286" stroke-width="2.5"/>
+<circle cx="180" cy="110" r="5" fill="#9a927e" stroke="#16130e"/>
+<text x="180" y="155" text-anchor="middle" font-size="9">4:1 early</text>
+<circle cx="330" cy="73" r="5" fill="#8a6d1f" stroke="#16130e" stroke-width="1.5"/>
+<text x="330" y="155" text-anchor="middle" font-size="9" font-weight="bold">8–10:1 sweet spot</text>
+<circle cx="480" cy="55" r="5" fill="#8f3b2d" stroke="#16130e"/>
+<text x="480" y="155" text-anchor="middle" font-size="9">12:1+ needs octane</text>
+<line x1="420" y1="40" x2="420" y2="140" stroke="#8f3b2d" stroke-width="1.5" stroke-dasharray="6,4"/>
+<text x="425" y="50" font-size="9" fill="#8f3b2d" font-weight="bold">KNOCK WALL (fuel-limited)</text>
+<text x="200" y="60" font-size="10" font-style="italic">efficiency η ≈ 1 − r^(1−γ)</text>
+</svg>
+<figcaption><strong>Figure 29.2.</strong> Schematic: efficiency climbs steeply, then flattens — while knock risk climbs steeply. Octane moves the wall right; without it, raising compression destroys pistons instead of saving fuel.</figcaption>
+</figure>
+
+<p><strong>Tuning rules:</strong> mixture slightly rich for starting and full load (cooling + power), stoichiometric for cruise, lean misfires if overdone; spark advanced with speed, retarded for starting (kickback breaks arms — retard at crank); cooling must reject ~2× shaft power as heat (radiator sized accordingly, thermostat obligado). An engine that starts easily, idles steadily, and pulls without pinking under load is tuned; chase nothing exotic before those three hold.</p>
 <h2 id="ch29_combustion-292-the-diesel-divergence">29.2 The Diesel Divergence</h2>
 <p>Diesel's insight: compress AIR alone to ~18:1+; injected fuel self-ignites on contact with ~550 °C compressed air. No ignition system, higher compression = higher efficiency (~40 %+ vs Otto's ~25–30 % of the era), heavy fuels acceptable. The engineering fight was injection precision — air-blast injection worked but demanded compressors; solid (jerk-pump) injection (plunger pumps with helix-metering) made diesels practical everywhere from trucks to ships.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Otto (spark)</th>
+<th>Diesel (compression ignition)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Charge compressed</td>
+<td>Fuel + air (knock-limited ~12:1)</td>
+<td>Air only (~14–22:1)</td>
+</tr>
+<tr>
+<td>Ignition</td>
+<td>Timed spark</td>
+<td>Injection into hot air, self-fires</td>
+</tr>
+<tr>
+<td>Fuel</td>
+<td>Gasoline, high octane wanted</td>
+<td>Distillate/residual; cetane wanted</td>
+</tr>
+<tr>
+<td>Efficiency (era)</td>
+<td>~25–30 %</td>
+<td>~35–45 %; marine giants &gt;50 %</td>
+</tr>
+<tr>
+<td>Weight/cost</td>
+<td>Light, cheap</td>
+<td>Heavy, dear — pays on fuel bill</td>
+</tr>
+<tr>
+<td>Best duty</td>
+<td>Cars, aircraft, bursts</td>
+<td>Trucks, tractors, ships, steady load</td>
+</tr>
+</tbody>
+</table></div>
 <p>Marine slow-speed two-strokes run at ~100 rpm on residual oil, exceed 50 % efficiency, and move 90 % of world trade tonnage (<a href="ch24.html">Ch 24</a> finale).</p>
+<p><strong>Injection discipline:</strong> fuel filtered to microns, pump timing to crank-degrees, nozzles popping at 150–300 bar with clean spray cones. Nine-tenths of "bad diesel" is dirty fuel, air in lines, or cold-start abuse — bleed, heat, and filter before rebuilding.</p>
 <h2 id="ch29_combustion-293-the-automobile-system">29.3 The Automobile System</h2>
 <p>A car is a SYSTEM around its engine:</p>
 <ul>
@@ -235,6 +338,12 @@ body {
 <li><strong>Brakes:</strong> drum→disc; hydraulics multiply pedal force evenly across four corners.</li>
 <li><strong>Electrics:</strong> magneto/coil ignition, then starter motors (hand-cranking killed people when engines kicked back), lighting, later alternators.</li>
 </ul>
+<pre><code>ENGINE → CLUTCH → GEARBOX → PROPSHAFT → DIFFERENTIAL → HALF-SHAFTS → WHEELS
+           │          │                      │
+        disconnect  3–4 ratios,        splits speed L/R
+        for shifts  reverse            (outer wheel faster)
+</code></pre>
+<p><strong>Gear logic in one line:</strong> low gear multiplies torque for starting hills; high gear trades torque for speed once rolling. Final-drive ratio sets the compromise — trucks short, cars tall. Teach drivers: slipping the clutch burns lining (smell = money), lugging in high gear hammers bearings, over-revving in low floats valves.</p>
 <h2 id="ch29_combustion-294-mass-production">29.4 Mass Production</h2>
 <p>Ford's moving assembly line (1913): chassis towed past stations; each worker performs ONE task repeatedly. Chassis time fell 12.5 h → ~93 min; Model T price $850 → $260. The deeper principles:</p>
 <ol>
@@ -242,6 +351,7 @@ body {
 <li>Work moves to workers at ergonomic height; material flows one direction.</li>
 <li>Standardize ruthlessly, THEN improve continuously (the Toyota refinement comes decades later — build the feedback habit immediately).</li>
 </ol>
+<p><strong>Line-layout rules:</strong> parts arrive at point-of-use (no fetching walks), each station's work ≤ takt time (available minutes ÷ units wanted), go/no-go gauges at every fit, andon cord (any worker stops the line for defects — cheap now, ruinous later). Inventory between stations is the visible form of distrust in the process; shrink it deliberately.</p>
 <h2 id="ch29_combustion-295-tractors-and-farm-mechanization">29.5 Tractors and Farm Mechanization</h2>
 <p>The tractor is the ICE's greatest humanitarian application:</p>
 <ul>
@@ -250,10 +360,42 @@ body {
 <li>Rubber tires (1930s) doubled drawbar efficiency versus steel lugs and let tractors roam roads.</li>
 <li>Combine harvesters merge reaping/threshing/winnowing — harvest labor collapses; grain losses fall below manual-race levels.</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Power</th>
+<th>Replaces</th>
+<th>Frees</th>
+<th>Enables</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 horse (~0.7 kW)</td>
+<td>6 laborers at peak</td>
+<td>—</td>
+<td>1–2 ha/person farming</td>
+</tr>
+<tr>
+<td>30 hp tractor</td>
+<td>12+ horses + handlers</td>
+<td>~25 % of cropland (horse feed)</td>
+<td>20–50 ha per driver</td>
+</tr>
+<tr>
+<td>30 hp + combine</td>
+<td>50+ harvest hands</td>
+<td>Harvest window risk</td>
+<td>Grain losses &lt; manual</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>PTO safety (non-negotiable):</strong> shielded shafts, no loose clothing, disengage before mounting implements, chock and brake on slopes. The same machine that feeds a district can wrap a sleeve in a second — guards are not optional trim.</p>
 <h2 id="ch29_combustion-296-doctrine-and-dead-ends">29.6 Doctrine and Dead Ends</h2>
 <p class="co co-dead"><strong>Dead end avoided:</strong> steam cars and early electric roadcars lost to arithmetic — energy density (gasoline ~45 MJ/kg vs batteries then ~0.2) and refill minutes vs recharge hours. Note honestly: battery physics changed by <a href="ch43.html">Ch 43</a>; the lesson is "revisit losing designs when their limiting constant changes," not "electric forever wrong."</p>
 <p>Also avoided: over-valve-count exotic engines, rotary (Wankel) mass adoption, air-cooled complexity creep for mainstream fleets — maintenance networks punish cleverness that shops can't service.</p>
 <p class="co co-key"><strong>Key threshold:</strong> when a farm worker can feed 10+ people (vs subsistence-era ~2–3), labor floods into factories — the demographic pivot that powers every remaining chapter.</p>
+<p><strong>Fleet doctrine:</strong> standardize one engine family per fleet (parts interchange), stock consumables (plugs, points, filters, belts, gaskets) before stocking engines, train mechanics on diagnosis order — fuel → spark → compression → timing — because guessing order wastes parts. Log fuel per hour per machine; a 15 % consumption rise is the earliest overhaul signal.</p>
 <h2 id="ch29_combustion-297-the-engine-record">29.7 The Engine Record</h2>
 <ul>
 <li>Étienne Lenoir's commercial gas engine (1860) sold hundreds despite ~4 % efficiency — first mover advantage without thermodynamic polish; Otto &amp; Langen's free-piston atmospheric machine (1867) won prizes on fuel economy and funded the real breakthrough.</li>

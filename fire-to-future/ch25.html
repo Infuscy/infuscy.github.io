@@ -216,6 +216,39 @@ body {
 <br><strong>Requires:</strong> <a href="ch20.html">Ch 20</a> measurement culture, <a href="ch17.html">Ch 17</a> chemistry, <a href="ch15.html">Ch 15</a> wire drawing · <br><strong>Unlocks:</strong> <a href="ch26.html">Ch 26</a> power engineering, <a href="ch34.html">Ch 34</a> electronics</p>
 </blockquote>
 <p>This chapter builds electricity as a LABORATORY discipline: store it (capacitors), generate it continuously (batteries), measure it (instruments), command it at a distance (telegraph). Power engineering waits for the next chapter; without this one, that one is impossible.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Volta pile and battery arithmetic">
+<rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 25.1 — Stack chemistry into current (series adds volts, parallel adds endurance)</text>
+<g text-anchor="middle">
+<rect x="60" y="55" width="40" height="12" fill="#8a8a8a" stroke="#16130e"/><text x="80" y="51" font-size="9">Zn</text>
+<rect x="60" y="67" width="40" height="12" fill="#cfe0ea" stroke="#2f5286"/><text x="80" y="98" font-size="9">brine</text>
+<rect x="60" y="79" width="40" height="12" fill="#c96a2e" stroke="#16130e"/><text x="80" y="111" font-size="9">Cu</text>
+<rect x="60" y="95" width="40" height="12" fill="#8a8a8a" stroke="#16130e"/>
+<rect x="60" y="107" width="40" height="12" fill="#cfe0ea" stroke="#2f5286"/>
+<rect x="60" y="119" width="40" height="12" fill="#c96a2e" stroke="#16130e"/>
+<text x="80" y="145" font-size="10" font-weight="bold">PILE (Volta 1800)</text>
+<text x="80" y="157" font-size="9">Zn | brine | Cu × N</text>
+<text x="230" y="60" font-size="10" font-weight="bold">DANIELL (telegraph duty)</text>
+<rect x="160" y="70" width="140" height="50" fill="#fff" stroke="#16130e" stroke-width="1.5"/>
+<line x1="230" y1="70" x2="230" y2="120" stroke="#16130e" stroke-dasharray="4,3"/>
+<text x="195" y="90" font-size="9">Zn | ZnSO₄</text>
+<text x="265" y="90" font-size="9">CuSO₄ | Cu</text>
+<text x="230" y="110" font-size="9" font-style="italic">porous barrier — no H₂ choke</text>
+<text x="230" y="135" font-size="9">clean, constant for lines</text>
+</g>
+<text x="450" y="55" font-size="11" font-weight="bold">ARITHMETIC (Ohm 1827)</text>
+<rect x="370" y="65" width="220" height="30" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
+<text x="480" y="84" text-anchor="middle" font-size="11" font-weight="bold">SERIES: volts add · PARALLEL: amps add</text>
+<rect x="370" y="100" width="220" height="30" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="480" y="119" text-anchor="middle" font-size="11" font-weight="bold">V = I·R · loss = I²R (heat)</text>
+<text x="480" y="148" text-anchor="middle" font-size="10">thick copper OR high voltage fights loss —</text>
+<text x="480" y="162" text-anchor="middle" font-size="10">[Ch 26](ch26.html) chooses voltage</text>
+<text x="480" y="178" text-anchor="middle" font-size="9" font-style="italic">Leclanché Zn-C (1866): dry-cell ancestor, portable power</text>
+</svg>
+<figcaption><strong>Figure 25.1.</strong> Alternate metals around wet chemistry and chemistry becomes current; barrier-separated salts (Daniell) stop the hydrogen choke for line duty. Series multiplies push, parallel multiplies stamina — Ohm prices every mile of wire.</figcaption>
+</figure>
+
 <h2 id="ch25_electricity_1-251-static-charge-and-storage">25.1 Static Charge and Storage</h2>
 <ul>
 <li>Rubbing dissimilar materials separates charge; like charges repel, unlike attract.</li>
@@ -223,6 +256,7 @@ body {
 <li><strong>Coulomb's torsion balance:</strong> force ∝ q₁q₂/r² — inverse-square law measured directly (<a href="ch20.html">Ch 20</a> method in action).</li>
 <li>Franklin's single-fluid convention survives in circuit language ("current flows + to −") even though electrons drift oppositely — keep the convention, note the truth.</li>
 </ul>
+<p><strong>Jar gang rules:</strong> parallel jars add capacitance (bigger bang); series divides voltage stress. Discharge with insulated tongs, one hand behind back — the parlor trick that stops hearts at scale. Log capacitance per jar (foil area ÷ glass thickness); matched gangs share voltage evenly.</p>
 <h2 id="ch25_electricity_1-252-the-battery-continuous-current">25.2 The Battery: Continuous Current</h2>
 <p>Volta's pile (1800): stacked zinc | brine-soaked cloth | copper discs — chemistry converts to steady current. Defects to engineer around:</p>
 <ul>
@@ -231,7 +265,69 @@ body {
 <li><strong>Leclanché (1866):</strong> zinc-carbon with manganese dioxide depolarizer — the dry-cell ancestor; portable power arrives.</li>
 </ul>
 <p>Battery arithmetic: cells in SERIES add voltage; in PARALLEL add current capacity. Ohm's law (V = I·R, published 1827 amid dismissal — publish anyway) governs every sizing decision: line resistance eats voltage as I²R heat; thick copper or high voltage fights back.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Cell</th>
+<th>Chemistry</th>
+<th>Volts</th>
+<th>Serves</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Volta pile</td>
+<td>Zn/brine/Cu stack</td>
+<td>~0.7/cell</td>
+<td>Demos, electrolysis (<a href="#ch25_electricity_1-256-the-electrical-papers">§25.6</a>)</td>
+</tr>
+<tr>
+<td>Daniell</td>
+<td>Zn/ZnSO₄‖CuSO₄/Cu</td>
+<td>~1.1, steady</td>
+<td>Telegraph lines (no polarization)</td>
+</tr>
+<tr>
+<td>Leclanché</td>
+<td>Zn/NH₄Cl/MnO₂-C</td>
+<td>~1.5</td>
+<td>Portable, intermittent (dry-cell ancestor)</td>
+</tr>
+<tr>
+<td>Lead-acid (preview)</td>
+<td>Pb/H₂SO₄/PbO₂</td>
+<td>~2.0, rechargeable</td>
+<td>Charge discipline in <a href="ch26.html">Ch 26</a></td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch25_electricity_1-253-electromagnetism-current-commands-magnetism">25.3 Electromagnetism: Current Commands Magnetism</h2>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Oersted Ampere Faraday triptych plus telegraph chain">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 25.2 — One subject, three demos, one industry (1820 → 1844)</text>
+<text x="110" y="42" font-size="10" font-weight="bold">OERSTED 1820</text>
+<line x1="50" y1="90" x2="170" y2="90" stroke="#8f3b2d" stroke-width="3"/>
+<circle cx="110" cy="110" r="16" fill="#fff" stroke="#16130e" stroke-width="1.5"/>
+<line x1="110" y1="98" x2="122" y2="112" stroke="#8f3b2d" stroke-width="2"/>
+<text x="110" y="140" text-anchor="middle" font-size="9">needle twists</text>
+<text x="110" y="151" text-anchor="middle" font-size="9">near current</text>
+<text x="320" y="42" font-size="10" font-weight="bold">AMPÈRE → STURGEON</text>
+<path d="M270,70 L270,120 Q270,135 290,135 L350,135 Q370,135 370,120 L370,70" fill="none" stroke="#16130e" stroke-width="3"/>
+<rect x="300" y="135" width="40" height="14" fill="#9a927e" stroke="#16130e"/>
+<text x="320" y="163" text-anchor="middle" font-size="9">coil + iron = kg lift</text>
+<text x="530" y="42" font-size="10" font-weight="bold">FARADAY 1831</text>
+<rect x="480" y="70" width="60" height="40" fill="none" stroke="#16130e" stroke-width="2"/>
+<line x1="540" y1="70" x2="540" y2="40" stroke="#16130e" stroke-width="2"/>
+<line x1="540" y1="110" x2="540" y2="140" stroke="#16130e" stroke-width="2"/>
+<text x="510" y="125" font-size="9">move magnet →</text>
+<text x="510" y="136" font-size="9">current flows</text>
+<text x="510" y="60" font-size="9">map with filings</text>
+<text x="320" y="180" text-anchor="middle" font-size="10" font-weight="bold">KEY → battery → LINE → electromagnet clicks → CODE ([§25.4](#254-the-telegraph)) · Maxwell unifies (1860s) → Hertz proves (1887)</text>
+</svg>
+<figcaption><strong>Figure 25.2.</strong> Current twists compasses (Oersted), coils with iron lift weights (Ampère/Sturgeon), moving magnets make currents (Faraday) — iron filings map the invisible geometry. The telegraph chains all three: key, battery, wire, clicking armature, code.</figcaption>
+</figure>
+
 <ul>
 <li><strong>Oersted (1820):</strong> compass needle deflects near a current — electricity and magnetism are ONE subject.</li>
 <li><strong>Ampère:</strong> parallel currents attract/repel; coils become electromagnets. Soft-iron cores multiply field strength hundreds-fold; Sturgeon's horseshoe lifts kilograms on amperes.</li>
@@ -247,6 +343,33 @@ body {
 <li><strong>Relays:</strong> weak incoming current energizes a local strong circuit — signal regeneration extends range indefinitely; multiplexing follows later.</li>
 <li><strong>Submarine cables:</strong> gutta-percha insulation, armored sheathing, careful laying tension. The 1858 Atlantic cable died in weeks (excessive test voltages); the 1866 success (with fault-location bridge measurements) opened global instant communication. Empire-scale coordination changes character permanently: markets synchronize, news is same-day, administration centralizes.</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Morse (variable)</th>
+<th>Letter</th>
+<th>Needle alternative</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>· −</td>
+<td>A (common = short)</td>
+<td>Deflect left/right, read off board</td>
+</tr>
+<tr>
+<td>− ···</td>
+<td>B (rare = long)</td>
+<td>No code book needed</td>
+</tr>
+<tr>
+<td>···</td>
+<td>S / ·−−− O</td>
+<td>Operators trade speed for training</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Line-maintenance arithmetic:</strong> resistance per mile logged per section (bridge-measured); leakage to wet poles patrolled after storms; relay thresholds set above worst-case leakage, below weakest signal. Earth-return halves copper but doubles fault-hunting subtlety — keep the metallic spare for the trunk.</p>
 <p class="co co-key"><strong>Key threshold:</strong> when message latency drops from weeks (mail) to minutes, commerce, diplomacy, weather warning, and military logistics all change regime simultaneously. No other pre-radio technology buys so much coordination per unit of hardware.</p>
 <h2 id="ch25_electricity_1-255-doctrine">25.5 Doctrine</h2>
 <ol>
@@ -255,6 +378,32 @@ body {
 <li>Train maintainers systematically — telegraphy was history's first mass technical profession; its apprenticeship schools are the template for all later electrical training.</li>
 </ol>
 <p><strong>Jump available:</strong> with Maxwell + Faraday known upfront, compress 1800→1870 into a decade of focused work: pile → Daniell → electromagnets → telegraph within years, skipping decades of philosophical debate about "animal electricity" and vital fluids (<strong>Dead end avoided:</strong> Galvani-vs-Volta metaphysics; Volta's metal-metal-electrolyte framing won by explaining more).</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Gauge (SWG-ish)</th>
+<th>Use</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fine (~20+)</td>
+<td>Instrument coils, relays</td>
+<td>Varnish-insulated, waxed</td>
+</tr>
+<tr>
+<td>Medium (~14–18)</td>
+<td>Trunk lines (copper)</td>
+<td>Glass insulators, tensioned</td>
+</tr>
+<tr>
+<td>Heavy (iron)</td>
+<td>Cheap long spans</td>
+<td>Rusts — grease + inspect</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch25_electricity_1-256-the-electrical-papers">25.6 The Electrical Papers</h2>
 <ul>
 <li>Leyden-jar discovery letters (1745–46) record Musschenbroek's shock testimony ("I would not take another shock for the whole kingdom of France" — the king-of-France version came later, embellished); Benjamin Franklin's 1752 kite experiment is documented but genuinely dangerous — <strong>Georg Richman died replicating it in St. Petersburg (1753)</strong>, the era's most cited electrical fatality. Replication has costs; publish protocols, not just results.</li>

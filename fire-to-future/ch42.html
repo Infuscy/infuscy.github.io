@@ -216,8 +216,61 @@ body {
 <br><strong>Requires:</strong> <a href="ch36.html">Ch 36</a>, <a href="ch41.html">Ch 41</a>, <a href="ch26.html">Ch 26</a> · <br><strong>Unlocks:</strong> planetary knowledge coordination — the book's own distribution medium</p>
 </blockquote>
 <p>The internet is not a thing but an AGREEMENT: protocols everyone adopts so any network can talk to any network. Its genius is architectural humility — a dumb, reliable packet core with intelligence pushed to the edges. This chapter builds that agreement and the physical plant underneath it.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Circuit versus packet and TCP IP stack">
+<rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 42.1 — Share, don't reserve: packets + the four-layer agreement</text>
+<text x="160" y="42" font-size="10" font-weight="bold">CIRCUIT (telephony): reserved, idle</text>
+<line x1="40" y1="60" x2="280" y2="60" stroke="#8f3b2d" stroke-width="3"/>
+<text x="160" y="74" text-anchor="middle" font-size="9">whole path held even in silence — wasteful</text>
+<text x="160" y="92" font-size="10" font-weight="bold">PACKET (Baran): chopped, shared</text>
+<rect x="40" y="100" width="50" height="22" fill="#2f5286" stroke="#16130e"/><text x="65" y="115" text-anchor="middle" font-size="8" fill="#fff">pkt1</text>
+<rect x="95" y="100" width="50" height="22" fill="#2e5b34" stroke="#16130e"/><text x="120" y="115" text-anchor="middle" font-size="8" fill="#fff">pkt2</text>
+<rect x="150" y="100" width="50" height="22" fill="#8a6d1f" stroke="#16130e"/><text x="175" y="115" text-anchor="middle" font-size="8" fill="#fff">pkt3</text>
+<rect x="205" y="100" width="50" height="22" fill="#4a4436" stroke="#16130e"/><text x="230" y="115" text-anchor="middle" font-size="8" fill="#fff">pkt4</text>
+<text x="160" y="136" text-anchor="middle" font-size="9">each finds its way; links shared statistically</text>
+<g font-size="9" text-anchor="middle">
+<rect x="340" y="48" width="260" height="26" rx="4" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
+<text x="470" y="64" font-weight="bold">APPLICATION (HTTP, DNS, SMTP)</text>
+<rect x="340" y="76" width="260" height="26" rx="4" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="470" y="92" font-weight="bold">TRANSPORT (TCP reliable / UDP raw)</text>
+<rect x="340" y="104" width="260" height="26" rx="4" fill="#efe9db" stroke="#16130e"/>
+<text x="470" y="120">INTERNET (IP best-effort routing)</text>
+<rect x="340" y="132" width="260" height="26" rx="4" fill="#efe9db" stroke="#16130e"/>
+<text x="470" y="148">LINK (Ethernet, Wi-Fi — one hop)</text>
+</g>
+<text x="470" y="172" text-anchor="middle" font-size="9">end-to-end: dumb core, smart edges — no permission needed</text>
+<text x="470" y="186" text-anchor="middle" font-size="9" font-style="italic">Jan 1, 1983 flag-day: ARPANET → TCP/IP</text>
+</svg>
+<figcaption><strong>Figure 42.1.</strong> Circuits waste silence; packets share it — survivability and efficiency from one design. The stack keeps the core simple (IP moves packets) and pushes reliability (TCP) and meaning (apps) to the edges where innovation needs no permission.</figcaption>
+</figure>
+
 <h2 id="ch42_internet-421-packet-switching-insight">42.1 Packet Switching Insight</h2>
 <p>Circuit switching (telephony) reserves paths even during silence; Baran/Licklider-era insight: chop messages into PACKETS, each finding its way independently, links shared statistically. Survivability (no single node kills the net) and efficiency (multiplexing bursty traffic) fall out of the same design. ARPANET demonstrated it across four nodes (1969); email arrived 1971 and immediately dominated traffic (people, it turns out, want to talk).</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Switching</th>
+<th>Reserves</th>
+<th>Survives node loss?</th>
+<th>Fits bursty data?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Circuit (voice)</td>
+<td>Whole path per call</td>
+<td>No — call drops</td>
+<td>Poor (silence wastes)</td>
+</tr>
+<tr>
+<td>Packet (Baran/Davies)</td>
+<td>Nothing; share all</td>
+<td>Yes — reroute</td>
+<td>Excellent (statistical gain)</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch42_internet-422-tcpip-and-layering">42.2 TCP/IP and Layering</h2>
 <p>January 1, 1983: ARPANET flag-day to TCP/IP. The stack:</p>
 <div class="table-wrap"><table>
@@ -252,15 +305,89 @@ body {
 </tbody>
 </table></div>
 <p><strong>End-to-end principle:</strong> keep core simple; put intelligence at endpoints. Consequences: innovation needs no permission (new apps run on old networks), censorship/filtering concentrates at edges, failures degrade gracefully. Ethernet (Metcalfe, 1973) won local networking on cost; switches later replaced hub collision domains.</p>
+<p><strong>TCP in four mechanisms:</strong> sequence numbers (order) → acknowledgments (receipt) → retransmit on loss → window (flow control) + slow-start (congestion politeness). UDP skips all four for speed (voice, video, games — loss tolerated, delay not).</p>
 <h2 id="ch42_internet-423-naming-and-trust">42.3 Naming and Trust</h2>
 <ul>
 <li><strong>DNS (1983):</strong> hierarchical names mapping to addresses — human-readable, globally delegated, cached aggressively. DNS is critical infrastructure disguised as phone book.</li>
 <li><strong>Public-key cryptography (Diffie-Hellman 1976, RSA 1977):</strong> two parties derive shared secrets over open channels; sign documents without sharing signing keys. TLS wraps connections in authenticated encryption; certificate authorities anchor identity chains (their compromises are systemic risks — pinning/transparency logs mitigate).</li>
 <li>Threat arc: Morris worm (1988, first internet-scale wake-up) → botnets/ransomware era. Defense doctrine: patch velocity, least privilege, defense-in-depth, assume-breach monitoring. Security is process, not product (<a href="ch47.html">Ch 47</a>).</li>
 </ul>
+<pre><code>DNS: root → TLD → domain → host (cache at every level; TTL balances fresh vs fast)
+TLS: hello → certificate (CA-signed) → key exchange (DH/RSA) → encrypted session
+THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor always
+</code></pre>
+<p><strong>DNS outage drill:</strong> cache + secondary resolvers + anycast + TTL hygiene (lower before migrations). When names fail, numbers still route — keep critical IPs documented offline.</p>
 <h2 id="ch42_internet-424-the-web-layer">42.4 The Web Layer</h2>
 <p>Berners-Lee (1989–91): URL + HTTP + HTML — hypertext with global addressing, deliberately royalty-free. Mosaic (1993) made it visual; browsers became universal clients. Then: search (PageRank mapped academic citation logic onto links — authority as algorithm), platforms/recommendation engines (engagement economics — note honestly: attention markets have pathologies regulation is still chasing), and API ecosystems where services compose services.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>Invention</th>
+<th>Why it won</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>URL/HTTP/HTML</td>
+<td>Global hypertext, royalty-free</td>
+<td>Anyone publishes, anyone links</td>
+</tr>
+<tr>
+<td>Browsers (Mosaic→)</td>
+<td>Visual universal client</td>
+<td>No install per service</td>
+</tr>
+<tr>
+<td>Search (PageRank)</td>
+<td>Links vote authority</td>
+<td>Found things in abundance</td>
+</tr>
+<tr>
+<td>APIs</td>
+<td>Services compose</td>
+<td>New apps on old platforms</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch42_internet-425-data-centers">42.5 Data Centers</h2>
+<figure class="fig">
+<svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Data center anatomy">
+<rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 42.2 — Warehouses of computation (PUE = total ÷ IT)</text>
+<g font-size="9" text-anchor="middle">
+<rect x="20" y="55" width="100" height="60" rx="6" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
+<text x="70" y="72" font-weight="bold">GRID IN</text>
+<text x="70" y="84">MW campus</text>
+<text x="70" y="95">UPS + diesel</text>
+<rect x="135" y="55" width="100" height="60" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="185" y="72" font-weight="bold">COOLING</text>
+<text x="185" y="84">free air, hot</text>
+<text x="185" y="95">aisle, warmer</text>
+<rect x="250" y="55" width="140" height="60" rx="6" fill="#4a4436"/>
+<text x="320" y="72" font-weight="bold" fill="#fff">RACKS 10–100 kW</text>
+<text x="320" y="84" font-size="8" fill="#fff">leaf-spine fabric inside</text>
+<text x="320" y="95" font-size="8" fill="#fff">NVMe → disk → tape</text>
+<rect x="405" y="55" width="100" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="455" y="72" font-weight="bold">VIRTUAL</text>
+<text x="455" y="84">cloud primitives</text>
+<text x="455" y="95">(AWS 2006)</text>
+<rect x="520" y="55" width="100" height="60" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="570" y="72" font-weight="bold">CDN EDGE</text>
+<text x="570" y="84">cache near user</text>
+<text x="570" y="95">latency ↓ load ↓</text>
+</g>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="120" y1="85" x2="135" y2="85"/><line x1="235" y1="85" x2="250" y2="85"/>
+<line x1="390" y1="85" x2="405" y2="85"/><line x1="505" y1="85" x2="520" y2="85"/>
+</g>
+<text x="320" y="140" text-anchor="middle" font-size="10">PUE legacy ~2.0 → hyperscale ~1.1 · N+1 power/cooling · zones + chaos tests + error budgets</text>
+<text x="320" y="157" text-anchor="middle" font-size="10" font-weight="bold">CapEx → OpEx: startups scale without buying buildings.</text>
+<text x="320" y="174" text-anchor="middle" font-size="9" font-style="italic">data outlives hardware: 3-2-1 backups ([Ch 36](ch36.html)) + geographic copies</text>
+</svg>
+<figcaption><strong>Figure 42.2.</strong> Power and cooling are the computer: grid through UPS into racks, heat out through contained aisles, virtualization filling the machines, CDN pushing content to edges. PUE measures the overhead civilization pays per useful watt.</figcaption>
+</figure>
+
 <p>The internet's body is warehouses of computation:</p>
 <ul>
 <li><strong>Scale anatomy:</strong> megawatt campuses; racks at 10–100+ kW; leaf-spine network fabrics; storage tiers (NVMe → disk → tape archive).</li>
@@ -269,12 +396,49 @@ body {
 <li><strong>CDNs:</strong> cache content at edges near users — latency and backbone load both drop; the network effectively grows content outward.</li>
 <li>Reliability engineering: redundancy (N+1 power/cooling), availability zones, chaos testing, SRE error budgets (<a href="ch47.html">Ch 47</a>'s statistical governance applied to uptime).</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Tier</th>
+<th>Medium</th>
+<th>Latency</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NVMe / RAM cache</td>
+<td>Silicon</td>
+<td>µs–ms</td>
+<td>Hot working set</td>
+</tr>
+<tr>
+<td>Disk pool</td>
+<td>Spinning/flash</td>
+<td>ms</td>
+<td>Warm corpus</td>
+</tr>
+<tr>
+<td>Tape / glacier</td>
+<td>Linear</td>
+<td>Hours</td>
+<td>Cold archive, ransomware-proof</td>
+</tr>
+<tr>
+<td>CDN edge</td>
+<td>Cached copy</td>
+<td>Near-user</td>
+<td>Absorbs flash crowds</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch42_internet-426-governance-and-doctrine">42.6 Governance and Doctrine</h2>
 <ul>
 <li>IETF culture: open standards via "rough consensus and running code" — RFCs anyone can read/implement. Protocol neutrality kept the network generative.</li>
 <li>Net-neutrality debates, jurisdiction conflicts, platform-governance arguments remain live politics; the ENGINEERING stance stays constant: interoperability, openness, graceful degradation.</li>
 <li>Capacity planning lesson from history's fiber glut: build ahead of demand when marginal cost is low — bandwidth follows demand with lag, and lag costs decades (<a href="ch41.html">Ch 41</a>).</li>
 </ul>
+<p><strong>SRE error budget (import from <a href="ch47.html">Ch 47</a>):</strong> 99.9 % uptime = 43 min/month of allowed breakage; spend it on releases, freeze on exhaustion. Chaos-test in daylight with rollback ready — failures rehearsed hurt less than failures surprised.</p>
 <h2 id="ch42_internet-427-why-this-is-the-books-keystone">42.7 Why This Is the Book's Keystone</h2>
 <p>Every prior technology documented its results in paper archives decaying by fire and neglect; this one indexes humanity's knowledge in real time, distributes it universally, and lets <a href="ch44.html">Ch 44</a>-<a href="ch46.html">46</a> compound at network speed. A civilization dominating a planet runs on synchronized information — this chapter IS that synchronization.</p>
 <p class="co co-key"><strong>Key threshold:</strong> majority-of-population broadband access marks information-infrastructure arrival; measure by participation (creators, transactors online), not just subscription counts.</p>
@@ -289,6 +453,8 @@ body {
 <li>Morris worm (November 2, 1988) infected roughly a tenth of the connected internet and produced the first CFAA conviction; the incident-response community (CERT) predates the virus it was named for by days — security institutions form around incidents.</li>
 <li>Netscape's August 9, 1995 IPO (priced $28, closed $58.25) opened the browser era's capital flood; NASDAQ peaked March 10, 2000 (5,048) and the crash burned capital that had, incidentally, laid dark fiber and built data centers — the bust subsidized the broadband decade (<a href="ch41.html">Ch 41</a>'s overbuild lesson restated financially).</li>
 </ul>
+<h2 id="ch42_internet-429-build-order-greenfield-network">42.9 Build Order (Greenfield Network)</h2>
+<p>Fiber backbone with spare ducts (<a href="ch41.html">Ch 41</a>) → exchange + DNS + anycast resolvers → data hall (N+1 power/cool) → core services (mail, web, backups) → CDN/cache edges → monitoring + incident rota → public access points. Log everything, publish status, drill outages — the network that admits faults keeps users; the one that hides them loses them.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch41.html" class="reader-nav-link">← Chapter 41</a>

@@ -216,6 +216,31 @@ body {
 <br><strong>Requires:</strong> <a href="ch25.html">Ch 25</a>, <a href="ch23.html">Ch 23</a> prime movers, <a href="ch22.html">Ch 22</a> core steel · <br><strong>Unlocks:</strong> <a href="ch34.html">Ch 34</a>, electrified industry, <a href="ch43.html">Ch 43</a></p>
 </blockquote>
 <p>Part III's climax: converting mechanical power into the universal currency of electricity and distributing it. The physics is all Faraday/Maxwell (<a href="ch25.html">Ch 25</a>); this chapter is engineering scale-up — and one decisive architecture fight (AC vs DC) that you can win in advance.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Self-exciting dynamo loop">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 26.1 — The bootstrap trick: residual magnetism seeds its own field (1866)</text>
+<circle cx="150" cy="110" r="40" fill="none" stroke="#16130e" stroke-width="2"/>
+<rect x="135" y="70" width="30" height="14" fill="#8a8a8a" stroke="#16130e"/>
+<rect x="135" y="136" width="30" height="14" fill="#8a8a8a" stroke="#16130e"/>
+<text x="150" y="114" text-anchor="middle" font-size="9" font-weight="bold">COIL spins</text>
+<text x="150" y="40" font-size="10" font-weight="bold">ARMATURE (drum, multi-coil)</text>
+<ellipse cx="320" cy="110" rx="55" ry="40" fill="none" stroke="#8f3b2d" stroke-width="3"/>
+<text x="320" y="105" text-anchor="middle" font-size="10" font-weight="bold" fill="#8f3b2d">FIELD COILS</text>
+<text x="320" y="118" text-anchor="middle" font-size="9">electromagnets</text>
+<path d="M190,110 L265,110" stroke="#16130e" stroke-width="2"/>
+<polygon points="265,104 265,116 273,110" fill="#16130e"/>
+<path d="M375,110 L450,110 L450,60 L520,60" fill="none" stroke="#16130e" stroke-width="1.5"/>
+<path d="M520,60 L520,160 L170,160 L170,128" fill="none" stroke="#2e5b34" stroke-width="2"/>
+<polygon points="170,128 164,138 176,138" fill="#2e5b34"/>
+<text x="480" y="140" font-size="9" font-weight="bold" fill="#2e5b34">OUTPUT feeds FIELD ↑</text>
+<text x="480" y="152" font-size="9">more field → more volts →</text>
+<text x="480" y="164" font-size="9">more field (bootstrap!)</text>
+<text x="320" y="185" text-anchor="middle" font-size="9" font-style="italic">Gramme ring → drum armature (smoother, less spark) · efficiency 30% → 90%+ in a generation</text>
+</svg>
+<figcaption><strong>Figure 26.1.</strong> Feed a whisper of output back into the field coils and residual magnetism avalanches into full excitation — no permanent magnets needed. Every percent of efficiency after is fuel money forever.</figcaption>
+</figure>
+
 <h2 id="ch26_electricity_2-261-generators-dynamos">26.1 Generators (Dynamos)</h2>
 <p>A coil rotating in a magnetic field induces EMF; commutator rectifies to DC pulses, slip rings pass AC through.</p>
 <ul>
@@ -223,14 +248,73 @@ body {
 <li><strong>Armature evolution:</strong> two-pole Gramme rings → multi-coil drum armatures = smoother voltage, less sparking.</li>
 <li>Efficiency climbs from ~30 % to &gt;90 % across a generation; every percent is fuel money forever.</li>
 </ul>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Build</th>
+<th>Field</th>
+<th>Output</th>
+<th>Serves</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Magneto (permanent)</td>
+<td>Steel magnets</td>
+<td>Weak, fades</td>
+<td>Ignition sparks (<a href="ch29.html">Ch 29</a>)</td>
+</tr>
+<tr>
+<td>Self-excited DC</td>
+<td>Own output loop</td>
+<td>Strong, stable</td>
+<td>Plating shops first (cash!), then light</td>
+</tr>
+<tr>
+<td>Alternator + slip rings</td>
+<td>AC field</td>
+<td>Polyphase AC</td>
+<td>The grid (<a href="#ch26_electricity_2-264-transformers-make-ac-win">§26.4</a>)</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch26_electricity_2-262-arc-and-incandescent-lighting">26.2 Arc and Incandescent Lighting</h2>
 <ul>
 <li><strong>Arc lamps:</strong> carbon rods strike an arc (~3,500 °C plasma) — blindingly bright, maintenance-heavy; perfect for streets/halls, useless for homes.</li>
 <li><strong>Incandescent (Edison/Swan, 1879):</strong> high-resistance carbon filament glowing ~1,700 °C in vacuum (vacuum pumps from <a href="ch20.html">Ch 20</a> prevent burnout). Edison's SYSTEM insight outranks the lamp: high-resistance lamps allow PARALLEL circuits on economical copper — low-resistance arc-era thinking demanded series strings that died together.</li>
 <li>Economics rule discovered here, governing everything after: <strong>copper costs vs line losses.</strong> Doubling distribution voltage quarters I²R loss for same power — voltage is how you buy copper savings.</li>
 </ul>
+<p><strong>Filament program (Menlo Park pattern):</strong> test thousands of candidates (bamboo won first), log hours-to-failure per batch, vacuum to &lt;1 torr, seal while hot. The lamp is 10% glassware, 90% quality statistics — the laboratory, not the bulb, was Edison's invention (<a href="ch47.html">Ch 47</a>).</p>
 <h2 id="ch26_electricity_2-263-the-grid-begins">26.3 The Grid Begins</h2>
 <p>Pearl Street Station (1882): steam engine + Jumbo dynamos serving ~60 customers within a kilometer — DC's radius limit made visible. Every district needed its own plant (<strong>Dead end avoided:</strong> don't build the dense DC-megaplant future; it dies against transformer arithmetic below).</p>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Transformer transmission arithmetic">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 26.2 — Transformers make distance trivial (2× volts = ¼ loss)</text>
+<rect x="40" y="60" width="90" height="60" rx="6" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
+<text x="85" y="80" text-anchor="middle" font-size="10" font-weight="bold" fill="#fff">GENERATE</text>
+<text x="85" y="94" text-anchor="middle" font-size="9" fill="#fff">low V, big I</text>
+<rect x="160" y="60" width="100" height="60" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="210" y="80" text-anchor="middle" font-size="10" font-weight="bold">STEP UP ↑</text>
+<text x="210" y="94" text-anchor="middle" font-size="9">10–100 kV</text>
+<text x="210" y="106" text-anchor="middle" font-size="9">98%+, no motion</text>
+<line x1="260" y1="90" x2="380" y2="90" stroke="#16130e" stroke-width="2"/>
+<text x="320" y="80" text-anchor="middle" font-size="9">thin wire, far miles</text>
+<text x="320" y="106" text-anchor="middle" font-size="9" font-weight="bold">loss = I²R (tiny I!)</text>
+<rect x="380" y="60" width="100" height="60" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="430" y="80" text-anchor="middle" font-size="10" font-weight="bold">STEP DOWN ↓</text>
+<text x="430" y="94" text-anchor="middle" font-size="9">safe use volts</text>
+<rect x="500" y="60" width="100" height="60" rx="6" fill="#eef5ec" stroke="#2e5b34" stroke-width="2"/>
+<text x="550" y="80" text-anchor="middle" font-size="10" font-weight="bold">MOTORS</text>
+<text x="550" y="94" text-anchor="middle" font-size="9">Tesla 1888: no</text>
+<text x="550" y="106" text-anchor="middle" font-size="9">brushes, rugged</text>
+<text x="320" y="150" text-anchor="middle" font-size="10">three phases 120° apart: constant power + self-starting + 3 wires do 6 wires' work</text>
+<text x="320" y="167" text-anchor="middle" font-size="10" font-weight="bold">War of Currents decided by arithmetic — standardize polyphase AC day one.</text>
+<text x="320" y="183" text-anchor="middle" font-size="9" font-style="italic">keep DC for chemistry (plating, batteries) and later HVDC links — nowhere else</text>
+</svg>
+<figcaption><strong>Figure 26.2.</strong> Iron cores coupling two windings move power across voltage levels at ~98% efficiency with no moving parts. High voltage buys thin copper and far reach; three-phase buys constant power and self-starting motors.</figcaption>
+</figure>
+
 <h2 id="ch26_electricity_2-264-transformers-make-ac-win">26.4 Transformers Make AC Win</h2>
 <p>Faraday induction in its industrial form: iron core coupling primary/secondary windings transforms voltage up/down at ~98 %+ efficiency with NO moving parts.</p>
 <ul>
@@ -239,6 +323,36 @@ body {
 <li><strong>Polyphase systems:</strong> three phases offset 120° deliver constant instantaneous power and self-starting fields; transmission towers carry three conductors where six would otherwise suffice.</li>
 </ul>
 <p>The "War of Currents" was decided by arithmetic, not marketing — adopt polyphase AC as your standard from day one of grid planning. Keep DC only where chemistry needs it (electroplating, batteries, later HVDC links).</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Motor</th>
+<th>Needs</th>
+<th>Brushes?</th>
+<th>Duty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>DC commutator</td>
+<td>DC supply</td>
+<td>Yes (wear)</td>
+<td>Traction, variable speed early</td>
+</tr>
+<tr>
+<td>Induction (Tesla)</td>
+<td>3-phase AC</td>
+<td>No — rugged</td>
+<td>Factory default forever</td>
+</tr>
+<tr>
+<td>Synchronous</td>
+<td>AC + DC field</td>
+<td>Slip rings</td>
+<td>Clocks, converters, power-factor</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch26_electricity_2-265-system-engineering">26.5 System Engineering</h2>
 <ul>
 <li><strong>Frequency standardize:</strong> 50 or 60 Hz, ONE value nationwide (mixed frequencies were a decades-long tax).</li>
@@ -247,6 +361,7 @@ body {
 <li><strong>Metering:</strong> induction meters bill by kWh — honest accounting makes grids financeable (<a href="ch47.html">Ch 47</a> again: measurement IS governance).</li>
 <li><strong>Load management:</strong> diverse loads (day factories, evening lighting) flatten the demand curve; smaller peak capacity = cheaper grid.</li>
 </ul>
+<p><strong>Paralleling checklist (before every breaker close):</strong> same frequency (±0.1 Hz) → same phase sequence → voltages within 5 % → synchroscope creeping SLOW toward 12 o'clock → close at the mark. Wrong-phase paralleling shears shafts — the scope is cheaper than the coupling.</p>
 <h2 id="ch26_electricity_2-266-electrifications-cascade">26.6 Electrification's Cascade</h2>
 <p>Cheap ubiquitous electricity re-prices everything downstream:</p>
 <div class="table-wrap"><table>
@@ -290,6 +405,8 @@ body {
 <li><strong>Lauffen–Frankfurt (1891)</strong> transmitted three-phase power ~175 km at tens of kV for the electrical exhibition — the demonstration that settled polyphase transmission publicly; European practice consolidated near 50 Hz and American near 60 Hz by the early 1900s (frequency standardization was gradual, regional, and utility-by-utility).</li>
 <li>Metering closed the business case: Shallenberger's induction meter (1888) turned electricity into billable units — honest measurement making private grids financeable (<a href="ch47.html">Ch 47</a>'s metrology-governance link, again).</li>
 </ul>
+<h2 id="ch26_electricity_2-268-first-grid-greenfield-town">26.8 First Grid (Greenfield Town)</h2>
+<p>Dynamo hall beside steam (<a href="ch23.html">Ch 23</a>) → step-up → one trunk feeder at distribution voltage → step-down kiosks per street → meters per customer (<a href="ch47.html">Ch 47</a> billing) → plating shop + mill motors as anchor loads (they pay the coal bill while homes connect). One frequency, one voltage family, grounded everywhere — expand by paralleling, never by second standards.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch25.html" class="reader-nav-link">← Chapter 25</a>

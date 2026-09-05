@@ -224,6 +224,33 @@ body {
 <li><strong>Junction transistor (Shockley's theory, 1948):</strong> sandwich structure — thin base between emitter/collector — where injected minority carriers across the base produce gain. Manufacturable, analyzable, the design that scales.</li>
 <li><strong>Why gain works:</strong> small base current commands large collector current; as a SWITCH, saturation/cutoff states encode logic (<a href="ch36.html">Ch 36</a>).</li>
 </ul>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="P-N junction and transistor sandwich">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 35.1 — Dope the crystal, stack the sandwich (small base rules big collector)</text>
+<rect x="60" y="60" width="110" height="70" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<text x="115" y="80" text-anchor="middle" font-size="11" font-weight="bold">n-TYPE</text>
+<text x="115" y="93" text-anchor="middle" font-size="9">P doped: extra e⁻</text>
+<rect x="170" y="60" width="110" height="70" fill="#e8c8c0" stroke="#8f3b2d" stroke-width="2"/>
+<text x="225" y="80" text-anchor="middle" font-size="11" font-weight="bold">p-TYPE</text>
+<text x="225" y="93" text-anchor="middle" font-size="9">B doped: holes ○</text>
+<text x="170" y="115" text-anchor="middle" font-size="9">junction → one-way ✓</text>
+<text x="420" y="55" font-size="11" font-weight="bold">NPN SANDWICH (Shockley 1948)</text>
+<rect x="330" y="65" width="60" height="60" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<text x="360" y="97" text-anchor="middle" font-size="9" font-weight="bold">E(n)</text>
+<rect x="390" y="65" width="40" height="60" fill="#e8c8c0" stroke="#8f3b2d" stroke-width="2"/>
+<text x="410" y="97" text-anchor="middle" font-size="9" font-weight="bold">B</text>
+<rect x="430" y="65" width="60" height="60" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<text x="460" y="97" text-anchor="middle" font-size="9" font-weight="bold">C(n)</text>
+<text x="410" y="140" text-anchor="middle" font-size="9">thin base: whisper in,</text>
+<text x="410" y="152" text-anchor="middle" font-size="9">torrent across (gain!)</text>
+<text x="410" y="168" text-anchor="middle" font-size="9" font-style="italic">switch: saturation/cutoff = 1/0</text>
+<text x="170" y="155" text-anchor="middle" font-size="9">point-contact 1947: proof · junction: product</text>
+<text x="170" y="170" text-anchor="middle" font-size="9" font-style="italic">Ge first (easy) → Si wins (stable + miracle oxide)</text>
+</svg>
+<figcaption><strong>Figure 35.1.</strong> Phosphorus donates electrons, boron donates holes; their junction rectifies. Stack n-p-n thin and a whisper of base current throttles a torrent of collector current — amplification and logic from crystal geometry.</figcaption>
+</figure>
+
 <h2 id="ch35_semiconductors-353-silicon-and-the-planar-revolution">35.3 Silicon and the Planar Revolution</h2>
 <p>Germanium's 80 °C ceiling and leaky junctions capped it. Silicon's higher melting point (1,414 °C) demanded better purification — <strong>zone refining</strong> (molten zone sweeping impurities along an ingot, segregation coefficients doing the work) and <strong>Czochralski/FLOAT-ZONE single-crystal growth</strong> delivered it. Then:</p>
 <ul>
@@ -231,6 +258,45 @@ body {
 <li><strong>Photolithography cycle:</strong> photoresist coat → mask exposure → develop → etch/diffuse/ion-implant → strip; repeat per layer. Resolution defines the generation; cleanrooms (dust = killer defects) define the factory.</li>
 <li>Kilby's (1958, germanium, hand-wired hybrid) vs Noyce's (1959, silicon, planar-integrated) integrated circuit race ended with Noyce's architecture winning because it matched manufacturing reality.</li>
 </ul>
+<figure class="fig">
+<svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Planar photolithography cycle">
+<rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 35.2 — Planar process: print, etch, dope, repeat (Hoerni 1959)</text>
+<g font-size="9" text-anchor="middle">
+<rect x="15" y="55" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="67" y="72" font-weight="bold">OXIDIZE</text>
+<text x="67" y="84">SiO₂ blanket</text>
+<text x="67" y="95">protects all</text>
+<rect x="133" y="55" width="105" height="60" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="185" y="72" font-weight="bold">PRINT</text>
+<text x="185" y="84">resist + mask</text>
+<text x="185" y="95">expose/develop</text>
+<rect x="251" y="55" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="303" y="72" font-weight="bold">ETCH</text>
+<text x="303" y="84">windows open</text>
+<text x="303" y="95">strip resist</text>
+<rect x="369" y="55" width="105" height="60" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="421" y="72" font-weight="bold">DOPE</text>
+<text x="421" y="84">diffuse/implant</text>
+<text x="421" y="95">junctions form</text>
+<rect x="487" y="55" width="138" height="60" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
+<text x="556" y="72" font-weight="bold">METAL + REPEAT</text>
+<text x="556" y="84">Al wires per layer;</text>
+<text x="556" y="95">oxide passivates ✓</text>
+</g>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="120" y1="85" x2="133" y2="85"/><polygon points="133,79 133,91 141,85" fill="#16130e"/>
+<line x1="238" y1="85" x2="251" y2="85"/><polygon points="251,79 251,91 259,85" fill="#16130e"/>
+<line x1="356" y1="85" x2="369" y2="85"/><polygon points="369,79 369,91 377,85" fill="#16130e"/>
+<line x1="474" y1="85" x2="487" y2="85"/><polygon points="487,79 487,91 495,85" fill="#16130e"/>
+</g>
+<text x="320" y="140" text-anchor="middle" font-size="10">resolution = generation · dust = killer defects (cleanrooms) · reproducibility = the industry</text>
+<text x="320" y="157" text-anchor="middle" font-size="10" font-weight="bold">Noyce won because planar matched manufacturing — fabricate, don't hand-wire.</text>
+<text x="320" y="174" text-anchor="middle" font-size="9" font-style="italic">first gate = entry · 90%+ lot yield = arrival (§35.5 charts, §47.13)</text>
+</svg>
+<figcaption><strong>Figure 35.2.</strong> Oxide blankets the wafer, light prints windows, etch opens them, dopant writes junctions, metal wires the result — then the cycle repeats per layer. Each generation shrinks the print; cleanrooms and statistics defend the yield.</figcaption>
+</figure>
+
 <h2 id="ch35_semiconductors-354-moores-law-as-business-model">35.4 Moore's Law as Business Model</h2>
 <p>Moore's 1965 observation — component counts doubling roughly every two years — became a self-fulfilling ROADMAP: fabs, equipment makers, and designers synchronized investment to it. The engine underneath:</p>
 <ul>

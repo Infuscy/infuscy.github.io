@@ -216,6 +216,47 @@ body {
 <br><strong>Requires:</strong> <a href="ch11.html">Ch 11</a>, <a href="ch15.html">Ch 15</a> (screw press), <a href="ch16.html">Ch 16</a> (pulp stamping) · <br><strong>Unlocks:</strong> <a href="ch20.html">Ch 20</a> knowledge circulation, mass literacy</p>
 </blockquote>
 <p>Printing is the meta-invention: it accelerates the invention of everything else by collapsing the cost of copying exact information — diagrams included, which speech cannot carry. A civilization that prints cheaply runs its technology tree in decades instead of centuries.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Type-making chain">
+<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 18.1 — The punch → matrix → caster → type chain (Gutenberg's system)</text>
+<g font-size="9" text-anchor="middle">
+<rect x="15" y="55" width="140" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="85" y="72" font-weight="bold">1. PUNCH</text>
+<text x="85" y="84">hardened steel</text>
+<text x="85" y="95">letter cut in</text>
+<text x="85" y="106">relief, mirrored</text>
+<text x="85" y="120" font-style="italic">one per sort</text>
+<rect x="172" y="55" width="140" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="242" y="72" font-weight="bold">2. MATRIX</text>
+<text x="242" y="84">punch struck</text>
+<text x="242" y="95">into soft copper</text>
+<text x="242" y="106">= reusable mold</text>
+<text x="242" y="120" font-style="italic">the master</text>
+<rect x="329" y="55" width="140" height="80" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="399" y="72" font-weight="bold">3. HAND MOULD</text>
+<text x="399" y="84">adjustable caster</text>
+<text x="399" y="95">matrix + body</text>
+<text x="399" y="106">molten alloy in</text>
+<text x="399" y="120" font-style="italic">identical height</text>
+<rect x="486" y="55" width="140" height="80" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="556" y="72" font-weight="bold">4. SORTS</text>
+<text x="556" y="84">1000s of type</text>
+<text x="556" y="95">Pb/Sn/Sb alloy</text>
+<text x="556" y="106">sorted in cases</text>
+<text x="556" y="120" font-style="italic">interchangeable</text>
+</g>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="155" y1="95" x2="172" y2="95"/><polygon points="172,89 172,101 180,95" fill="#16130e"/>
+<line x1="312" y1="95" x2="329" y2="95"/><polygon points="329,89 329,101 337,95" fill="#16130e"/>
+<line x1="469" y1="95" x2="486" y2="95"/><polygon points="486,89 486,101 494,95" fill="#16130e"/>
+</g>
+<text x="320" y="160" text-anchor="middle" font-size="10" font-style="italic">cut once → strike many matrices → cast unlimited identical type</text>
+<text x="320" y="176" text-anchor="middle" font-size="10" font-weight="bold">Standardize body height first; everything else follows.</text>
+</svg>
+<figcaption><strong>Figure 18.1.</strong> Gutenberg's real invention was interchangeability: one punch makes the matrix, the matrix plus adjustable mould makes thousands of identical sorts. Copy the system, not just the press.</figcaption>
+</figure>
+
 <h2 id="ch18_printing-181-paper">18.1 Paper</h2>
 <p>Paper is a random mat of cellulose fibers drained on a screen:</p>
 <ol>
@@ -225,20 +266,96 @@ body {
 <li><strong>Size</strong> (surface-treat) with dilute gelatin or starch so ink sits on the surface instead of feathering.</li>
 </ol>
 <p>Wood-pulp note: mechanical wood pulp is cheap but lignin-rich and ACIDIC — books self-destruct in decades (<strong>Dead end avoided:</strong> building your whole archive on high-lignin newsprint; use rag paper for anything permanent, or chemical pulps once alkali processes exist via <a href="ch21.html">Ch 21</a>).</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Feedstock</th>
+<th>Prep</th>
+<th>Sheet quality</th>
+<th>Verdict</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Linen/hemp rags</td>
+<td>Retted, beaten 4–8 h</td>
+<td>Strong, archival, takes sizing well</td>
+<td>Default for permanent books</td>
+</tr>
+<tr>
+<td>Cotton rags</td>
+<td>Shorter beating</td>
+<td>Soft, absorbent</td>
+<td>Good; slightly weaker than linen</td>
+</tr>
+<tr>
+<td>Mulberry / kozo bark</td>
+<td>Steamed, stripped, beaten</td>
+<td>Long fibers, tough, thin</td>
+<td>Best for large sheets; Asian standard</td>
+</tr>
+<tr>
+<td>Straw + lime</td>
+<td>Cooked alkaline, beaten</td>
+<td>Decent, yellows slowly</td>
+<td>Volume paper once alkali exists</td>
+</tr>
+<tr>
+<td>Groundwood (mechanical)</td>
+<td>Ground wet, no chemistry</td>
+<td>Cheap, lignin-rich, browns</td>
+<td>Newspapers only — never archives</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Vat-team rhythm:</strong> the vatman dips and shakes (~10 s per sheet), the coucher transfers to felt (~8 s), the layman stacks. A practiced trio lifts 2,000–3,000 sheets/day. Drying loft capacity — lines, air flow, frost-free space — limits output more often than the vat does; size the loft before hiring the second team.</p>
+<pre><code>RAGS → sort/wash → STAMPERS (water-powered) → slurry vat
+                                              │
+                         MOULD dip + shake → COUCH to felt → STACK PRESS
+                                              │                    │
+                                              └→ HANG-DRY → SIZE → dry again → calender
+</code></pre>
 <h2 id="ch18_printing-182-ink">18.2 Ink</h2>
 <p>Water-based carbon inks bead on metal type. Printing needs a viscous varnish ink: boil linseed oil (or walnut) to varnish thickness, stir in lampblack until glossy black. Varnish temperature controls tack; too stiff, it pulls type out of form; too loose, it squashes.</p>
+<p><strong>Reference batch:</strong> ~2 L linseed oil boiled outdoors (fire risk — it foams and can ignite) until a cooled drop strings ~2 cm between fingers; stir in ~400–600 g lampblack plus a spoon of rosin varnish. Grind on a slab with a muller until no grit shows between teeth. Store under water film in sealed pots. Test-tack rule: dabbed type should print solid black with crisp edges at one firm pull — halo squeeze means too loose, grey mottle means too stiff or under-inked.</p>
 <h2 id="ch18_printing-183-movable-type-systematics">18.3 Movable Type Systematics</h2>
 <p>Gutenberg's real invention was the SYSTEM, not the idea of movable type:</p>
 <ol>
 <li><strong>Punch:</strong> cut a steel letterface hard.</li>
-<li><strong>Matrix:</strong> strike the punch into soft copper — the mold cavity.
-3 <strong>Caster:</strong> an adjustable hand mold clamps the matrix while molten alloy pours in; every letter body comes out identical height.</li>
+<li><strong>Matrix:</strong> strike the punch into soft copper — the mold cavity.</li>
+<li><strong>Caster:</strong> an adjustable hand mold clamps the matrix while molten alloy pours in; every letter body comes out identical height.</li>
 <li><strong>Alloy:</strong> lead + tin + antimony (~60/25/12-ish). Antimony expands slightly on cooling — crisp letters, no shrinkage cavities. Pure lead shrinks and rounds off.</li>
 </ol>
 <p>Type height standardization (all foundries same dimension) lets any printer buy any founder's type — network effects from day one. Cast in quantity: lowercase/uppercase/punctuation in proportion to language frequency; compositors pick from two-compartment cases.</p>
+<p><strong>Sort quantities per 100 kg fount (Latin text guide):</strong> e ~12 %, t/a/o/i/n ~7–9 % each, full lower-case ~60 %, capitals ~8 %, figures/punctuation/spaces the rest. Running short of <code>e</code> stops the press as surely as running out of paper — cast frequency-weighted, not alphabetically.</p>
 <h2 id="ch18_printing-184-the-press">18.4 The Press</h2>
 <p>A wine-style screw press adapted: flat bed holds the locked forme (type face-up), paper held in a hinged "frisket/tympan" sandwich folds down, screw drives a platen pressing one page area per pull. Two trained men run ~200–250 sheets/hour single-sided. Compose → lock (quoins wedged against furniture) → ink with leather dabbers → print → distribute type back to cases. Page imposition (arranging pages so folded sheets read correctly) is bookkeeping-level cleverness that halves binding labor.</p>
+<figure class="fig">
+<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Common press schematic">
+<rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 18.2 — Common press: one pull, one page (side view)</text>
+<line x1="180" y1="45" x2="180" y2="185" stroke="#4a4436" stroke-width="10"/>
+<line x1="420" y1="45" x2="420" y2="185" stroke="#4a4436" stroke-width="10"/>
+<rect x="150" y="38" width="300" height="14" fill="#4a4436"/>
+<text x="320" y="33" text-anchor="middle" font-size="9" font-style="italic">frame (cheeks + head + winter)</text>
+<line x1="300" y1="52" x2="300" y2="100" stroke="#16130e" stroke-width="6"/>
+<text x="345" y="70" font-size="10" font-weight="bold">SCREW + SPINDLE</text>
+<text x="345" y="82" font-size="9">bar pull → platen drops</text>
+<rect x="240" y="105" width="120" height="16" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
+<text x="300" y="117" text-anchor="middle" font-size="9" font-weight="bold">PLATEN</text>
+<rect x="230" y="125" width="140" height="10" fill="#e0c896" stroke="#16130e"/>
+<text x="380" y="133" font-size="9">TYMPAN + FRISKET (hinged)</text>
+<rect x="220" y="139" width="160" height="22" fill="#6b5a33" stroke="#16130e" stroke-width="1.5"/>
+<text x="300" y="153" text-anchor="middle" font-size="9" font-weight="bold" fill="#fff">FORME (locked type)</text>
+<rect x="200" y="161" width="200" height="12" fill="#8a6d1f"/>
+<text x="300" y="183" text-anchor="middle" font-size="9">BED on rails — crank under platen, pull, crank back</text>
+<text x="300" y="196" text-anchor="middle" font-size="9" font-style="italic">ink → fold tympan → pull → release → move bed → hang sheet</text>
+</svg>
+<figcaption><strong>Figure 18.2.</strong> The common press concentrates the screw's force on one page area per pull. Output is paced by inking and bed-cranking, not by pull strength — crew drill beats muscle.</figcaption>
+</figure>
+
 <p class="co co-key"><strong>Key threshold:</strong> one press + crew produces more <em>identical</em> pages per year than a scriptorium of hundreds — at falling marginal cost. Information price collapse ~300× historically; expect similar here.</p>
+<p><strong>Press-crew SOP (two pullers):</strong> (1) plane-check forme with a lye wash; (2) dab ink twice, perpendicular passes; (3) fold frisket/tympan, crank bed under platen; (4) single firm bar pull — no double-strike (it ghosts); (5) crank out, lift tympan, hang sheet; (6) every 50 sheets, proof against copy. Wash forme nightly; pick out kerned sorts with an awl, never a knife edge.</p>
 <h2 id="ch18_printing-185-what-mass-printing-changes">18.5 What Mass Printing Changes</h2>
 <ol>
 <li><strong>Error rates:</strong> copies are identical; errata sheets fix all copies at once. Knowledge stops decaying in transmission — the silent killer of pre-print craft secrets.</li>
@@ -248,8 +365,45 @@ body {
 <li><strong>News networks:</strong> periodicals synchronize markets and politics across distances.</li>
 </ol>
 <p class="co co-jump"><strong>Jump:</strong> skip woodblock-only era for books (keep blocks where they shine: images) — go straight to full movable-type systems using §18.3's punch/matrix/caster trio. Also skip hand-press refinements directly toward iron frame presses (lever-driven, ~4× output) once foundries exist.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Stage</th>
+<th>Machine</th>
+<th>Output</th>
+<th>When</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hand press, wood frame</td>
+<td>Common press, 2 men</td>
+<td>~200–250 impressions/h</td>
+<td>Day one</td>
+</tr>
+<tr>
+<td>Iron hand press</td>
+<td>Stanhope/Columbian levers</td>
+<td>~400–500/h</td>
+<td>Once iron founding exists</td>
+</tr>
+<tr>
+<td>Cylinder, hand-fed</td>
+<td>Koenig-style flatbed</td>
+<td>~1,000–2,000/h</td>
+<td>With <a href="ch23.html">Ch 23</a> power nearby</td>
+</tr>
+<tr>
+<td>Rotary web</td>
+<td>Steam-driven reel</td>
+<td>10,000+/h</td>
+<td>Full industrial stack</td>
+</tr>
+</tbody>
+</table></div>
 <h2 id="ch18_printing-186-scaling-doctrine">18.6 Scaling Doctrine</h2>
 <p>Sequence: one press per literate market town → newspaper weeklies → stereotype casting (whole-page lead plates for reprint runs) → steam-powered cylinder presses (<a href="ch23.html">Ch 23</a>) → web-fed rotary monsters printing tens of thousands hourly. Each step rides existing tech; none requires new physics. Printing is infrastructure — fund it like bridges.</p>
+<p><strong>Stereotype payoff:</strong> cast a papier-mâché flong of a composed page, pour lead to make a curved plate, print from the plate and distribute the type. Reprints no longer tie up the fount — the book stays "standing" as plates on a shelf.</p>
 <h2 id="ch18_printing-187-what-the-incunabula-record-shows">18.7 What the Incunabula Record Shows</h2>
 <ul>
 <li>Gutenberg's 42-line Bible completed ~1454–55 (~180 copies printed; ~49 survive). The Fust–Gutenberg lawsuit of 1455 documents who financed and who lost the original venture — printing began with litigation over money, like most industries.</li>
@@ -259,6 +413,48 @@ body {
 <li><strong>Scientific communication institutionalized:</strong> the <em>Journal des sçavans</em> and <em>Philosophical Transactions</em> both appeared in January 1665 — priority registration, citable results, and peer critique begin here (<a href="ch20.html">Ch 20</a>'s method gets its postal system).</li>
 <li>England's first press: Caxton at Westminster, 1476; Germany's first paper mill purpose-built for printing: Ulman Stromer's Nuremberg mill, 1390 — paper capacity preceded type capacity, a supply-chain lesson rebuilders should note (<a href="#ch18_printing-181-paper">§18.1</a>).</li>
 </ul>
+<h2 id="ch18_printing-188-troubleshooting-matrix">18.8 Troubleshooting Matrix</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Symptom</th>
+<th>Cause</th>
+<th>Fix</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Feathered, fuzzy letters</td>
+<td>Unsized paper or too-loose ink</td>
+<td>Re-size sheets; stiffen varnish, lighten dabbing</td>
+</tr>
+<tr>
+<td>Type pulls from forme</td>
+<td>Ink too tacky or lockup loose</td>
+<td>Thin ink slightly; re-wedge quoins, check furniture</td>
+</tr>
+<tr>
+<td>Ghost / double image</td>
+<td>Bed moved during pull or double-strike</td>
+<td>One firm pull; tighten rail gibs</td>
+</tr>
+<tr>
+<td>Uneven impression (pale corner)</td>
+<td>Platen unlevel or forme unlevel</td>
+<td>Shim with tissue under forme; level platen screws</td>
+</tr>
+<tr>
+<td>Rapid type wear, rounded faces</td>
+<td>Too-soft alloy (lead-heavy)</td>
+<td>Re-cast toward ~60/25/12 Pb/Sn/Sb; cool moulds fully</td>
+</tr>
+<tr>
+<td>Sheets stick, tear on lift</td>
+<td>Over-inked or damp stock</td>
+<td>Less ink, more drying time; dust with dry starch</td>
+</tr>
+</tbody>
+</table></div>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch17.html" class="reader-nav-link">← Chapter 17</a>

@@ -244,15 +244,17 @@ body {
 <title>Circuit versus packet and TCP IP stack</title>
 <rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 42.1 — Share, don't reserve: packets + the four-layer agreement</text>
-<text x="160" y="42" font-size="10" font-weight="bold">CIRCUIT (telephony): reserved, idle</text>
-<line x1="40" y1="60" x2="280" y2="60" stroke="#8f3b2d" stroke-width="3"/>
-<text x="160" y="74" text-anchor="middle" font-size="9">whole path held even in silence — wasteful</text>
-<text x="160" y="92" font-size="10" font-weight="bold">PACKET (Baran): chopped, shared</text>
-<rect x="40" y="100" width="50" height="22" fill="#2f5286" stroke="#16130e" stroke-width="1.5"/><text x="65" y="115" text-anchor="middle" font-size="9" fill="#fff">pkt1</text>
-<rect x="95" y="100" width="50" height="22" fill="#2e5b34" stroke="#16130e" stroke-width="1.5"/><text x="120" y="115" text-anchor="middle" font-size="9" fill="#fff">pkt2</text>
-<rect x="150" y="100" width="50" height="22" fill="#8a6d1f" stroke="#16130e" stroke-width="1.5"/><text x="175" y="115" text-anchor="middle" font-size="9" fill="#fff">pkt3</text>
-<rect x="205" y="100" width="50" height="22" fill="#4a4436" stroke="#16130e" stroke-width="1.5"/><text x="230" y="115" text-anchor="middle" font-size="9" fill="#fff">pkt4</text>
-<text x="160" y="136" text-anchor="middle" font-size="9">each finds its way; links shared statistically</text>
+<text x="160" y="70" text-anchor="middle" font-size="10" font-weight="bold">CIRCUIT (telephony): reserved, idle</text>
+<line x1="40" y1="88" x2="280" y2="88" stroke="#8f3b2d" stroke-width="3"/>
+<circle cx="40" cy="88" r="3.5" fill="#8f3b2d"/>
+<circle cx="280" cy="88" r="3.5" fill="#8f3b2d"/>
+<text x="160" y="102" text-anchor="middle" font-size="9">whole path held even in silence — wasteful</text>
+<text x="160" y="120" text-anchor="middle" font-size="10" font-weight="bold">PACKET (Baran): chopped, shared</text>
+<rect x="40" y="128" width="50" height="22" fill="#2f5286" stroke="#16130e" stroke-width="1.5"/><text x="65" y="143" text-anchor="middle" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.8">pkt1</text>
+<rect x="95" y="128" width="50" height="22" fill="#2e5b34" stroke="#16130e" stroke-width="1.5"/><text x="120" y="143" text-anchor="middle" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.8">pkt2</text>
+<rect x="150" y="128" width="50" height="22" fill="#8a6d1f" stroke="#16130e" stroke-width="1.5"/><text x="175" y="143" text-anchor="middle" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.8">pkt3</text>
+<rect x="205" y="128" width="50" height="22" fill="#4a4436" stroke="#16130e" stroke-width="1.5"/><text x="230" y="143" text-anchor="middle" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.8">pkt4</text>
+<text x="160" y="164" text-anchor="middle" font-size="9">each finds its way; links shared statistically</text>
 <g font-size="9" text-anchor="middle">
 <rect x="340" y="48" width="260" height="26" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
 <text x="470" y="64" font-weight="bold">APPLICATION (HTTP, DNS, SMTP)</text>
@@ -390,9 +392,9 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
 <text x="185" y="84">free air, hot</text>
 <text x="185" y="95">aisle, warmer</text>
 <rect x="250" y="55" width="140" height="60" rx="6" fill="#4a4436" stroke="#16130e" stroke-width="2"/>
-<text x="320" y="72" font-weight="bold" fill="#fff">RACKS 10–100 kW</text>
-<text x="320" y="84" font-size="9" fill="#fff">leaf-spine fabric inside</text>
-<text x="320" y="95" font-size="9" fill="#fff">NVMe → disk → tape</text>
+<text x="320" y="72" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.8">RACKS 10–100 kW</text>
+<text x="320" y="84" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.8">leaf-spine fabric inside</text>
+<text x="320" y="95" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.8">NVMe → disk → tape</text>
 <rect x="405" y="55" width="100" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="455" y="72" font-weight="bold">VIRTUAL</text>
 <text x="455" y="84">cloud primitives</text>
@@ -403,12 +405,14 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
 <text x="570" y="95">latency ↓ load ↓</text>
 </g>
 <g stroke="#16130e" stroke-width="1.5">
-<line x1="120" y1="85" x2="135" y2="85"/><line x1="235" y1="85" x2="250" y2="85"/>
-<line x1="390" y1="85" x2="405" y2="85"/><line x1="505" y1="85" x2="520" y2="85"/>
+<line x1="120" y1="85" x2="128" y2="85"/><polygon points="128,80 128,90 135,85" fill="#16130e"/>
+<line x1="235" y1="85" x2="243" y2="85"/><polygon points="243,80 243,90 250,85" fill="#16130e"/>
+<line x1="390" y1="85" x2="398" y2="85"/><polygon points="398,80 398,90 405,85" fill="#16130e"/>
+<line x1="505" y1="85" x2="513" y2="85"/><polygon points="513,80 513,90 520,85" fill="#16130e"/>
 </g>
 <text x="320" y="140" text-anchor="middle" font-size="10">PUE legacy ~2.0 → hyperscale ~1.1 · N+1 power/cooling · zones + chaos tests + error budgets</text>
 <text x="320" y="157" text-anchor="middle" font-size="10" font-weight="bold">CapEx → OpEx: startups scale without buying buildings.</text>
-<text x="320" y="174" text-anchor="middle" font-size="9" font-style="italic">data outlives hardware: 3-2-1 backups ([Ch 36](ch36.html)) + geographic copies</text>
+<text x="320" y="174" text-anchor="middle" font-size="9" font-style="italic">data outlives hardware: 3-2-1 backups (Ch 36) + geographic copies</text>
 </svg>
 <figcaption><strong>Figure 42.2.</strong> Power and cooling are the computer: grid through UPS into racks, heat out through contained aisles, virtualization filling the machines, CDN pushing content to edges. PUE measures the overhead civilization pays per useful watt.</figcaption>
 </figure>

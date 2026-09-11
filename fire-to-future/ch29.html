@@ -247,26 +247,46 @@ body {
 <g text-anchor="middle" font-size="9">
 <text x="90" y="42" font-weight="bold">1. INTAKE</text>
 <rect x="55" y="55" width="70" height="90" rx="6" fill="none" stroke="#16130e" stroke-width="2"/>
-<rect x="65" y="110" width="50" height="10" fill="#9a927e" stroke="#16130e"/>
-<line x1="115" y1="70" x2="135" y2="70" stroke="#2f5286" stroke-width="3"/>
+<rect x="60" y="66" width="60" height="44" fill="#cfe0ea"/>
+<line x1="60" y1="64" x2="65" y2="64" stroke="#16130e" stroke-width="1.5"/>
+<line x1="81" y1="64" x2="120" y2="64" stroke="#16130e" stroke-width="1.5"/>
+<line x1="73" y1="56" x2="73" y2="67" stroke="#16130e" stroke-width="1.5"/>
+<rect x="67" y="67" width="12" height="4" fill="#9a927e" stroke="#16130e" stroke-width="1"/>
+<rect x="101" y="59" width="12" height="4" fill="#9a927e" stroke="#16130e" stroke-width="1"/>
+<text x="73" y="84" font-size="8.5" font-weight="bold">in</text>
+<rect x="65" y="110" width="50" height="10" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
 <text x="90" y="160" font-size="9">piston falls,</text>
 <text x="90" y="171" font-size="9">charge in</text>
 <text x="245" y="42" font-weight="bold">2. COMPRESSION</text>
 <rect x="210" y="55" width="70" height="90" rx="6" fill="none" stroke="#16130e" stroke-width="2"/>
-<rect x="220" y="85" width="50" height="10" fill="#9a927e" stroke="#16130e"/>
+<rect x="215" y="66" width="60" height="19" fill="#cfe0ea"/>
+<line x1="215" y1="64" x2="275" y2="64" stroke="#16130e" stroke-width="1.5"/>
+<rect x="222" y="59" width="12" height="4" fill="#9a927e" stroke="#16130e" stroke-width="1"/>
+<rect x="256" y="59" width="12" height="4" fill="#9a927e" stroke="#16130e" stroke-width="1"/>
+<rect x="220" y="85" width="50" height="10" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
 <text x="245" y="160" font-size="9">both valves shut,</text>
 <text x="245" y="171" font-size="9">squeeze ~8:1</text>
 <text x="400" y="42" font-weight="bold">3. POWER</text>
 <rect x="365" y="55" width="70" height="90" rx="6" fill="none" stroke="#16130e" stroke-width="2"/>
-<rect x="375" y="120" width="50" height="10" fill="#8f3b2d" stroke="#16130e"/>
-<polygon points="400,70 392,85 408,85" fill="#c96a2e"/>
-<circle cx="392" cy="95" r="3" fill="#c96a2e"/><circle cx="408" cy="95" r="3" fill="#c96a2e"/><circle cx="400" cy="105" r="3" fill="#c96a2e"/>
+<rect x="370" y="66" width="60" height="54" fill="#f5e6b8"/>
+<line x1="370" y1="64" x2="430" y2="64" stroke="#16130e" stroke-width="1.5"/>
+<rect x="377" y="59" width="12" height="4" fill="#9a927e" stroke="#16130e" stroke-width="1"/>
+<rect x="411" y="59" width="12" height="4" fill="#9a927e" stroke="#16130e" stroke-width="1"/>
+<polygon points="400,72 391,88 409,88" fill="#c96a2e"/>
+<circle cx="392" cy="97" r="3" fill="#c96a2e"/><circle cx="408" cy="97" r="3" fill="#c96a2e"/><circle cx="400" cy="107" r="3" fill="#c96a2e"/>
+<rect x="375" y="120" width="50" height="10" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
 <text x="400" y="160" font-size="9" font-weight="bold">SPARK → push</text>
 <text x="400" y="171" font-size="9">only paid stroke</text>
 <text x="555" y="42" font-weight="bold">4. EXHAUST</text>
 <rect x="520" y="55" width="70" height="90" rx="6" fill="none" stroke="#16130e" stroke-width="2"/>
-<rect x="530" y="80" width="50" height="10" fill="#4a4436" stroke="#16130e"/>
-<line x1="505" y1="70" x2="525" y2="70" stroke="#4a4436" stroke-width="3"/>
+<rect x="525" y="66" width="60" height="14" fill="#cfe0ea"/>
+<line x1="525" y1="64" x2="564" y2="64" stroke="#16130e" stroke-width="1.5"/>
+<line x1="580" y1="64" x2="585" y2="64" stroke="#16130e" stroke-width="1.5"/>
+<line x1="572" y1="56" x2="572" y2="67" stroke="#16130e" stroke-width="1.5"/>
+<rect x="566" y="67" width="12" height="4" fill="#9a927e" stroke="#16130e" stroke-width="1"/>
+<rect x="532" y="59" width="12" height="4" fill="#9a927e" stroke="#16130e" stroke-width="1"/>
+<text x="545" y="77" font-size="8.5" font-weight="bold">ex</text>
+<rect x="530" y="80" width="50" height="10" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
 <text x="555" y="160" font-size="9">piston rises,</text>
 <text x="555" y="171" font-size="9">burnt gas out</text>
 </g>
@@ -288,21 +308,27 @@ body {
 <li>Carburetion meters fuel into airflow by venturi depression; mixture strength varies with load/cold start (chokes). Fuel injection later replaces guesswork with metered precision.</li>
 </ul>
 <figure class="fig">
-<svg viewBox="0 0 640 180" width="100%" role="img" aria-label="Compression ratio versus efficiency and knock limit">
+<svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Compression ratio versus efficiency and knock limit">
 <title>Compression ratio versus efficiency and knock limit</title>
-<rect x="0" y="0" width="640" height="180" fill="#fbf9f3"/>
+<rect x="0" y="0" width="640" height="190" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 29.2 — Compression buys efficiency until knock collects</text>
 <line x1="80" y1="40" x2="80" y2="140" stroke="#16130e" stroke-width="2"/>
+<text x="42" y="60" font-size="9" font-weight="bold">η</text>
+<line x1="76" y1="60" x2="80" y2="60" stroke="#16130e" stroke-width="1.5"/>
+<text x="74" y="63" text-anchor="end" font-size="9">40%</text>
+<line x1="76" y1="100" x2="80" y2="100" stroke="#16130e" stroke-width="1.5"/>
+<text x="74" y="103" text-anchor="end" font-size="9">20%</text>
 <line x1="80" y1="140" x2="560" y2="140" stroke="#16130e" stroke-width="2"/>
 <path d="M100,130 Q250,90 350,70 Q450,55 540,50" fill="none" stroke="#2f5286" stroke-width="2.5"/>
+<path d="M420,55 Q470,50 540,47" fill="none" stroke="#8f3b2d" stroke-width="2.5" stroke-dasharray="6,4"/>
 <circle cx="180" cy="110" r="5" fill="#9a927e" stroke="#16130e"/>
-<text x="180" y="155" text-anchor="middle" font-size="9">4:1 early</text>
+<text x="180" y="157" text-anchor="middle" font-size="9">4:1 early</text>
 <circle cx="330" cy="73" r="5" fill="#8a6d1f" stroke="#16130e" stroke-width="1.5"/>
-<text x="330" y="155" text-anchor="middle" font-size="9" font-weight="bold">8–10:1 sweet spot</text>
+<text x="330" y="157" text-anchor="middle" font-size="9" font-weight="bold">8–10:1 sweet spot</text>
 <circle cx="480" cy="55" r="5" fill="#8f3b2d" stroke="#16130e"/>
-<text x="480" y="155" text-anchor="middle" font-size="9">12:1+ needs octane</text>
+<text x="480" y="157" text-anchor="middle" font-size="9">12:1+ needs octane</text>
 <line x1="420" y1="40" x2="420" y2="140" stroke="#8f3b2d" stroke-width="1.5" stroke-dasharray="6,4"/>
-<text x="425" y="50" font-size="9" fill="#8f3b2d" font-weight="bold">KNOCK WALL (fuel-limited)</text>
+<text x="424" y="34" font-size="9" fill="#8f3b2d" font-weight="bold">KNOCK WALL (fuel-limited)</text>
 <text x="200" y="60" font-size="10" font-style="italic">efficiency η ≈ 1 − r^(1−γ)</text>
 </svg>
 <figcaption><strong>Figure 29.2.</strong> Schematic: efficiency climbs steeply, then flattens — while knock risk climbs steeply. Octane moves the wall right; without it, raising compression destroys pistons instead of saving fuel.</figcaption>

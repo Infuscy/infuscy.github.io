@@ -244,20 +244,26 @@ body {
 <title>Total internal reflection and loss ladder</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 41.1 — Trap light by index step; win by purity (dB/km)</text>
-<rect x="40" y="50" width="300" height="60" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
-<rect x="40" y="42" width="300" height="8" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
-<rect x="40" y="110" width="300" height="8" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
-<text x="190" y="85" text-anchor="middle" font-size="10" font-weight="bold">CORE (higher index)</text>
-<text x="190" y="98" text-anchor="middle" font-size="9">cladding lower — ray reflects, never escapes</text>
-<polyline points="50,95 120,70 190,95 260,70 330,95" fill="none" stroke="#c96a2e" stroke-width="2"/>
-<text x="60" y="135" font-size="9">shallow rays guided · steep rays leak (acceptance cone)</text>
-<text x="450" y="50" font-size="11" font-weight="bold">LOSS LADDER</text>
-<rect x="400" y="60" width="200" height="18" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/><text x="500" y="73" text-anchor="middle" font-size="9">ordinary glass ~1,000 dB/km (meters!)</text>
-<rect x="400" y="82" width="140" height="18" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/><text x="470" y="95" text-anchor="middle" font-size="9">Kao target &lt;20 dB/km (1966)</text>
-<rect x="400" y="104" width="200" height="18" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/><text x="500" y="117" text-anchor="middle" font-size="9" font-weight="bold">Corning 1970 ✓ → modern 0.15–0.2</text>
-<rect x="400" y="126" width="100" height="18" fill="#eef5ec" stroke="#2e5b34" stroke-width="1.5"/><text x="450" y="139" text-anchor="middle" font-size="9">half survives ~15–20 km</text>
-<text x="500" y="160" text-anchor="middle" font-size="9" font-style="italic">enemy: Fe/Cu ions + OH water —</text>
-<text x="500" y="172" text-anchor="middle" font-size="9" font-style="italic">vapor deposition purity ([Ch 35])</text>
+<rect x="40" y="40" width="300" height="8" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
+<rect x="40" y="48" width="300" height="60" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<rect x="40" y="108" width="300" height="8" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
+<text x="288" y="78" text-anchor="middle" font-size="10" font-weight="bold">CORE</text>
+<text x="288" y="92" text-anchor="middle" font-size="10" font-weight="bold">(higher index)</text>
+<polyline points="52,102 100,52 148,102 196,52 244,102 320,102" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<polygon points="334,102 321,97.5 321,106.5" fill="#c96a2e"/>
+<line x1="336" y1="50" x2="336" y2="106" stroke="#16130e" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="190" y="132" text-anchor="middle" font-size="9">cladding has the lower index — the ray cannot escape</text>
+<text x="40" y="148" font-size="9">shallow rays are guided · rays steeper than the acceptance cone leak out</text>
+<text x="502" y="52" text-anchor="middle" font-size="11" font-weight="bold">LOSS LADDER</text>
+<rect x="380" y="60" width="200" height="18" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
+<text x="574" y="73" text-anchor="end" font-size="9">ordinary glass 1,000 dB/km — meters only</text>
+<rect x="380" y="82" width="115" height="18" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
+<text x="501" y="95" font-size="9">Kao target 20 dB/km (1966)</text>
+<rect x="380" y="104" width="15" height="18" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
+<text x="401" y="117" font-size="9" font-weight="bold">Corning 1970 → modern 0.2 dB/km</text>
+<text x="401" y="130" font-size="9">half the light survives ~15–20 km</text>
+<text x="624" y="146" text-anchor="end" font-size="9">bar length ∝ log(attenuation)</text>
+<text x="498" y="166" text-anchor="middle" font-size="8.5" font-style="italic">enemy: Fe/Cu ions + OH water — vapor deposition purity (Ch 35)</text>
 </svg>
 <figcaption><strong>Figure 41.1.</strong> The step in refractive index is the pipe; impurity removal is the breakthrough. Kao reframed attenuation as dirt, Corning removed the dirt — four years from calculation to communication-grade glass.</figcaption>
 </figure>
@@ -318,26 +324,34 @@ body {
 <title>Submarine cable layers and WDM</title>
 <rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 41.2 — One cable, many colors: armor outside, spectrum inside</text>
-<g text-anchor="middle" font-size="9">
-<circle cx="150" cy="100" r="42" fill="none" stroke="#16130e" stroke-width="2"/>
-<circle cx="150" cy="100" r="34" fill="none" stroke="#8f3b2d" stroke-width="2"/>
-<circle cx="150" cy="100" r="26" fill="none" stroke="#8a6d1f" stroke-width="2"/>
-<circle cx="150" cy="100" r="16" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
-<circle cx="150" cy="100" r="6" fill="#2e5b34"/>
-<text x="150" y="160" font-size="9">steel armor → copper power →</text>
-<text x="150" y="171" font-size="9">polyethylene → fibers (center)</text>
-<text x="150" y="185" font-size="9" font-style="italic">bury near shore; bare in deep</text>
+<text x="150" y="48" text-anchor="middle" font-size="11" font-weight="bold">CABLE CROSS-SECTION</text>
+<circle cx="150" cy="114" r="42" fill="none" stroke="#16130e" stroke-width="2"/>
+<circle cx="150" cy="114" r="34" fill="none" stroke="#8f3b2d" stroke-width="2"/>
+<circle cx="150" cy="114" r="26" fill="none" stroke="#8a6d1f" stroke-width="2"/>
+<circle cx="150" cy="114" r="16" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<circle cx="150" cy="114" r="6" fill="#2e5b34"/>
+<g font-size="9">
+<circle cx="222" cy="84" r="5" fill="none" stroke="#16130e" stroke-width="2.5"/>
+<text x="234" y="88">steel armor</text>
+<circle cx="222" cy="106" r="5" fill="none" stroke="#8f3b2d" stroke-width="2.5"/>
+<text x="234" y="110">copper power</text>
+<circle cx="222" cy="128" r="5" fill="none" stroke="#8a6d1f" stroke-width="2.5"/>
+<text x="234" y="132">polyethylene</text>
+<circle cx="222" cy="150" r="5" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
+<circle cx="222" cy="150" r="2" fill="#2e5b34"/>
+<text x="234" y="154">fibers (center)</text>
+<text x="150" y="178" text-anchor="middle" font-style="italic">bury near shore; bare in deep</text>
 </g>
-<text x="420" y="50" font-size="11" font-weight="bold">WDM: PRISM IN REVERSE, TWICE</text>
-<rect x="320" y="60" width="200" height="26" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
-<text x="420" y="77" text-anchor="middle" font-size="9" font-weight="bold">MUX: λ1+λ2+…+λ96 → one fiber</text>
-<rect x="320" y="92" width="200" height="26" rx="6" fill="#eef5ec" stroke="#2e5b34" stroke-width="2"/>
-<text x="420" y="109" text-anchor="middle" font-size="9" font-weight="bold">EDFA every ~60–80 km (optical)</text>
-<rect x="320" y="124" width="200" height="26" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
-<text x="420" y="141" text-anchor="middle" font-size="9" font-weight="bold">DEMUX: one fiber → λ1, λ2…</text>
-<text x="420" y="162" text-anchor="middle" font-size="9">repeaters fed by cable copper itself</text>
-<text x="420" y="175" text-anchor="middle" font-size="9" font-style="italic">OTDR backscatter pinpoints faults to meters</text>
-<text x="420" y="190" text-anchor="middle" font-size="9">anchors/trawls top fault log; sharks marginal</text>
+<text x="468" y="48" text-anchor="middle" font-size="11" font-weight="bold">WDM: PRISM IN REVERSE, TWICE</text>
+<rect x="344" y="60" width="248" height="26" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="468" y="77" text-anchor="middle" font-size="9" font-weight="bold">MUX: λ1+λ2+…+λ96 → one fiber</text>
+<rect x="344" y="92" width="248" height="26" rx="6" fill="#eef5ec" stroke="#2e5b34" stroke-width="2"/>
+<text x="468" y="109" text-anchor="middle" font-size="9" font-weight="bold">EDFA every ~60–80 km (optical)</text>
+<rect x="344" y="124" width="248" height="26" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="468" y="141" text-anchor="middle" font-size="9" font-weight="bold">DEMUX: one fiber → λ1, λ2…</text>
+<text x="468" y="164" text-anchor="middle" font-size="9">repeaters fed by cable copper itself</text>
+<text x="468" y="177" text-anchor="middle" font-size="9" font-style="italic">OTDR backscatter pinpoints faults to meters</text>
+<text x="468" y="190" text-anchor="middle" font-size="9">anchors/trawls top fault log; sharks marginal</text>
 </svg>
 <figcaption><strong>Figure 41.2.</strong> Left: concentric survival — fibers ride the neutral center, copper feeds repeaters, steel takes the bites. Right: colors multiply capacity — one fiber carries a rainbow, amplifiers boost light without ever decoding it.</figcaption>
 </figure>

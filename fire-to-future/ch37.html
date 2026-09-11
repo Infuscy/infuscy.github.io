@@ -247,18 +247,23 @@ body {
 <circle cx="130" cy="100" r="30" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
 <text x="130" y="96" text-anchor="middle" font-size="10" font-weight="bold">U-235</text>
 <circle cx="90" cy="100" r="6" fill="#2f5286"/>
-<text x="70" y="118" font-size="9">neutron in</text>
+<text x="100" y="118" text-anchor="end" font-size="9">neutron in</text>
 <line x1="96" y1="100" x2="102" y2="100" stroke="#2f5286" stroke-width="2"/>
 <polygon points="160,100 200,70 200,130" fill="#c96a2e" stroke="#16130e" stroke-width="1.5"/>
-<text x="230" y="80" font-size="10" font-weight="bold">2 fragments +</text>
-<text x="230" y="93" font-size="10" font-weight="bold">2–3 neutrons +</text>
-<text x="230" y="106" font-size="10" font-weight="bold">~200 MeV heat</text>
+<text x="222" y="80" font-size="10" font-weight="bold">2 fragments +</text>
+<text x="222" y="95" font-size="10" font-weight="bold">2–3 neutrons +</text>
+<text x="222" y="110" font-size="10" font-weight="bold">~200 MeV heat</text>
 <g fill="#2f5286">
-<circle cx="300" cy="80" r="6"/><circle cx="300" cy="110" r="6"/><circle cx="310" cy="95" r="6"/>
+<circle cx="314" cy="80" r="6"/><circle cx="314" cy="110" r="6"/><circle cx="314" cy="95" r="6"/>
 </g>
-<line x1="310" y1="80" x2="360" y2="60" stroke="#2f5286" stroke-width="1.5"/>
-<line x1="310" y1="110" x2="360" y2="130" stroke="#2f5286" stroke-width="1.5"/>
-<line x1="316" y1="95" x2="360" y2="95" stroke="#2f5286" stroke-width="1.5" stroke-dasharray="4,3"/>
+<g stroke="#2f5286" stroke-width="1.5" fill="#2f5286">
+<line x1="316" y1="92" x2="358" y2="71"/>
+<line x1="316" y1="98" x2="358" y2="119"/>
+<line x1="320" y1="95" x2="356" y2="95" stroke-dasharray="4,3"/>
+<polygon points="365.7,67.2 360.4,74.5 356.6,67.5"/>
+<polygon points="365.7,122.8 360.4,115.5 356.6,122.5"/>
+<polygon points="364,95 356,90.5 356,99.5"/>
+</g>
 <circle cx="380" cy="60" r="16" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
 <circle cx="380" cy="130" r="16" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
 <circle cx="380" cy="95" r="16" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
@@ -356,33 +361,62 @@ body {
 <p><strong>Enrichment note:</strong> natural U is 0.7 % fissile; light-water fuel 3–5 %; anything beyond is not a power-reactor need. Centrifuge cascades are industrial mountains — choose heavy-water moderation if enrichment is out of reach, and keep all nuclear material under accountancy from the first gram (<a href="ch47.html">Ch 47</a>).</p>
 <h2 id="ch37_nuclear-373-reactor-families">37.3 Reactor Families</h2>
 <figure class="fig">
-<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="PWR loop and defense in depth">
+<svg viewBox="0 0 640 300" width="100%" role="img" aria-label="PWR loop and defense in depth">
 <title>PWR loop and defense in depth</title>
-<rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
+<rect x="0" y="0" width="640" height="300" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 37.2 — PWR: three loops + five barriers (defense in depth)</text>
-<rect x="40" y="55" width="110" height="70" rx="6" fill="#f9eeec" stroke="#8f3b2d" stroke-width="2"/>
-<text x="95" y="72" text-anchor="middle" font-size="10" font-weight="bold">CORE</text>
-<text x="95" y="84" text-anchor="middle" font-size="9">fuel + rods +</text>
-<text x="95" y="95" text-anchor="middle" font-size="9">pressurized water</text>
-<text x="95" y="108" text-anchor="middle" font-size="9">~320 °C, no boil</text>
-<rect x="200" y="55" width="110" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
-<text x="255" y="72" text-anchor="middle" font-size="10" font-weight="bold">STEAM GEN</text>
-<text x="255" y="84" text-anchor="middle" font-size="9">hot loop boils</text>
-<text x="255" y="95" text-anchor="middle" font-size="9">clean loop → steam</text>
-<rect x="360" y="55" width="110" height="70" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
-<text x="415" y="72" text-anchor="middle" font-size="10" font-weight="bold">TURBINE</text>
-<text x="415" y="84" text-anchor="middle" font-size="9">steam spins</text>
-<text x="415" y="95" text-anchor="middle" font-size="9">generator → grid</text>
-<rect x="500" y="55" width="100" height="70" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
-<text x="550" y="72" text-anchor="middle" font-size="10" font-weight="bold">CONDENSER</text>
-<text x="550" y="84" text-anchor="middle" font-size="9">cool + return</text>
-<text x="550" y="95" text-anchor="middle" font-size="9">river/tower</text>
-<g stroke="#16130e" stroke-width="1.5">
-<line x1="150" y1="90" x2="200" y2="90"/><line x1="310" y1="90" x2="360" y2="90"/><line x1="470" y1="90" x2="500" y2="90"/>
-</g>
-<text x="320" y="150" text-anchor="middle" font-size="10">BARRIERS: ceramic pellet → zirconium clad → pressure vessel → containment → exclusion zone</text>
-<text x="320" y="167" text-anchor="middle" font-size="10" font-weight="bold">Containment ALWAYS. No reactivity that rises as coolant boils (RBMK rule).</text>
-<text x="320" y="184" text-anchor="middle" font-size="9" font-style="italic">decay heat needs cooling AFTER shutdown — diesels + gravity + procedures (Fukushima lesson)</text>
+<rect x="150" y="56" width="220" height="80" rx="8" fill="none" stroke="#8f3b2d" stroke-width="1.5" stroke-dasharray="6,4"/>
+<rect x="184" y="48" width="152" height="16" fill="#fbf9f3"/>
+<text x="260" y="60" text-anchor="middle" font-size="9" font-weight="bold" fill="#8f3b2d">CONTAINMENT</text>
+<rect x="170" y="66" width="120" height="62" rx="6" fill="#f9eeec" stroke="#8f3b2d" stroke-width="2"/>
+<text x="230" y="84" text-anchor="middle" font-size="10" font-weight="bold">CORE</text>
+<text x="230" y="96" text-anchor="middle" font-size="9">fuel + rods +</text>
+<text x="230" y="107" text-anchor="middle" font-size="9">pressurized water</text>
+<text x="230" y="120" text-anchor="middle" font-size="9">~320 °C, no boil</text>
+<rect x="308" y="66" width="54" height="62" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="335" y="90" text-anchor="middle" font-size="9" font-weight="bold">STEAM</text>
+<text x="335" y="101" text-anchor="middle" font-size="9" font-weight="bold">GEN</text>
+<text x="335" y="117" text-anchor="middle" font-size="9">boils</text>
+<line x1="290" y1="97" x2="300" y2="97" stroke="#8f3b2d" stroke-width="2"/>
+<polygon points="300,91 300,103 308,97" fill="#8f3b2d"/>
+<rect x="400" y="66" width="90" height="62" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="445" y="90" text-anchor="middle" font-size="10" font-weight="bold">TURBINE</text>
+<text x="445" y="102" text-anchor="middle" font-size="9">steam spins</text>
+<text x="445" y="113" text-anchor="middle" font-size="9">generator → grid</text>
+<line x1="362" y1="97" x2="392" y2="97" stroke="#16130e" stroke-width="1.5"/>
+<polygon points="392,91 392,103 400,97" fill="#16130e"/>
+<text x="381" y="84" text-anchor="middle" font-size="9">loop 2</text>
+<rect x="520" y="66" width="96" height="62" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
+<text x="568" y="90" text-anchor="middle" font-size="10" font-weight="bold">CONDENSER</text>
+<text x="568" y="102" text-anchor="middle" font-size="9">cool + return</text>
+<text x="568" y="113" text-anchor="middle" font-size="9">river/tower</text>
+<line x1="490" y1="97" x2="512" y2="97" stroke="#16130e" stroke-width="1.5"/>
+<polygon points="512,91 512,103 520,97" fill="#16130e"/>
+<text x="505" y="84" text-anchor="middle" font-size="9">loop 3</text>
+<path d="M568,128 L568,142 L335,142 L335,139" fill="none" stroke="#2f5286" stroke-width="1.5" stroke-dasharray="6,3"/>
+<polygon points="329,139 341,139 335,127" fill="#2f5286"/>
+<text x="200" y="154" text-anchor="middle" font-size="9" fill="#8f3b2d">loop 1 · radioactive · sealed inside containment</text>
+<text x="150" y="46" font-size="10" font-weight="bold">THE LOOPS</text>
+<text x="372" y="172" text-anchor="middle" font-size="10" font-weight="bold">FIVE NESTED BARRIERS</text>
+<rect x="296" y="180" width="152" height="72" rx="7" fill="none" stroke="#2f5286" stroke-width="1.5" stroke-dasharray="6,4"/>
+<rect x="303" y="185" width="138" height="62" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<rect x="310" y="189" width="124" height="54" rx="5" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<rect x="317" y="193" width="110" height="46" rx="4" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
+<rect x="324" y="197" width="96" height="38" rx="4" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
+<circle cx="372" cy="216" r="6" fill="#8f3b2d"/>
+<text x="384" y="219" text-anchor="start" font-size="9" font-weight="bold">fuel</text>
+<text x="288" y="184" text-anchor="end" font-size="9">exclusion zone</text>
+<line x1="290" y1="182" x2="296" y2="182" stroke="#16130e" stroke-width="1"/>
+<text x="288" y="196" text-anchor="end" font-size="9">containment</text>
+<line x1="290" y1="194" x2="303" y2="194" stroke="#16130e" stroke-width="1"/>
+<text x="288" y="208" text-anchor="end" font-size="9">pressure vessel</text>
+<line x1="290" y1="206" x2="310" y2="206" stroke="#16130e" stroke-width="1"/>
+<text x="288" y="220" text-anchor="end" font-size="9">zirconium clad</text>
+<line x1="290" y1="218" x2="317" y2="218" stroke="#16130e" stroke-width="1"/>
+<text x="288" y="232" text-anchor="end" font-size="9">ceramic pellet</text>
+<line x1="290" y1="230" x2="324" y2="230" stroke="#16130e" stroke-width="1"/>
+<text x="320" y="264" text-anchor="middle" font-size="10" font-weight="bold">Containment ALWAYS. No reactivity that rises as coolant boils (RBMK rule).</text>
+<text x="320" y="277" text-anchor="middle" font-size="9" font-style="italic">decay heat needs cooling AFTER shutdown — diesels + gravity (Fukushima lesson)</text>
 </svg>
 <figcaption><strong>Figure 37.2.</strong> The pressurized-water pattern: radioactive water never leaves containment — it heats clean water into steam through tubes. Five nested barriers stand between fission products and the public; every accident in §37.3 broke more than one at once.</figcaption>
 </figure>

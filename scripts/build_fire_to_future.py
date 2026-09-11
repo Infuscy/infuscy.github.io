@@ -179,7 +179,9 @@ class Converter:
         self.md.reset()
         body = self.md.convert(src)
         # namespace heading ids to keep them unique (same scheme as print build)
-        body = re.sub(r'(\bid=")', rf"\1{key}-", body)
+        # NOTE: \g<1> is required — a bare \1 before a digit-leading key
+        # (00_front_matter) would parse as the octal escape \100 and mangle ids.
+        body = re.sub(r'(\bid=")', rf"\g<1>{key}-", body)
 
         def fix_href(m):
             frag = m.group(1)

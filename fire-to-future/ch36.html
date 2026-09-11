@@ -240,9 +240,9 @@ body {
 </blockquote>
 <p>Computers automate reasoning itself. The lineage is longer than the hardware: logic formalized → information quantified → machines built → software industrialized. This chapter builds the stack in that order, because each layer only works on the one below.</p>
 <figure class="fig">
-<svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Stored program architecture block diagram">
+<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Stored program architecture block diagram">
 <title>Stored program architecture block diagram</title>
-<rect x="0" y="0" width="640" height="210" fill="#fbf9f3"/>
+<rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 36.1 — Stored program: instructions ARE data (von Neumann, 1945)</text>
 <g font-size="9" text-anchor="middle">
 <rect x="30" y="60" width="120" height="70" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
@@ -267,14 +267,20 @@ body {
 <text x="550" y="100">disk, control</text>
 </g>
 <g stroke="#16130e" stroke-width="1.5">
-<line x1="150" y1="95" x2="170" y2="95"/><polygon points="170,89 170,101 178,95" fill="#16130e"/>
-<line x1="310" y1="80" x2="330" y2="80"/><polygon points="330,74 330,86 338,80" fill="#16130e"/>
-<line x1="330" y1="110" x2="310" y2="110"/><polygon points="310,104 310,116 302,110" fill="#16130e"/>
-<line x1="470" y1="95" x2="490" y2="95"/><polygon points="490,89 490,101 498,95" fill="#16130e"/>
+<line x1="146" y1="95" x2="162" y2="95"/><polygon points="162,89 162,101 170,95" fill="#16130e"/>
+<line x1="306" y1="80" x2="322" y2="80"/><polygon points="322,74 322,86 330,80" fill="#16130e"/>
+<line x1="326" y1="110" x2="314" y2="110"/><polygon points="314,104 314,116 306,110" fill="#16130e"/>
+<line x1="466" y1="95" x2="482" y2="95"/><polygon points="482,89 482,101 490,95" fill="#16130e"/>
 </g>
-<text x="320" y="152" text-anchor="middle" font-size="10">BUS joins all three — address says WHERE, data says WHAT, control says WHEN</text>
-<text x="320" y="170" text-anchor="middle" font-size="10" font-weight="bold">Manchester Baby (June 1948) first ran this loop; everything since is refinement.</text>
-<text x="320" y="187" text-anchor="middle" font-size="9" font-style="italic">plugboard programming (ENIAC) died here — programs became files, not wiring</text>
+<line x1="60" y1="140" x2="580" y2="140" stroke="#16130e" stroke-width="2"/>
+<g stroke="#16130e" stroke-width="1.5">
+<line x1="90" y1="130" x2="90" y2="140"/><line x1="240" y1="130" x2="240" y2="140"/>
+<line x1="400" y1="130" x2="400" y2="140"/><line x1="550" y1="130" x2="550" y2="140"/>
+</g>
+<text x="320" y="154" text-anchor="middle" font-size="9">SYSTEM BUS — address (where) · data (what) · control (when)</text>
+<text x="320" y="168" text-anchor="middle" font-size="10">one bus joins all three — programs and numbers travel the same wires</text>
+<text x="320" y="182" text-anchor="middle" font-size="10" font-weight="bold">Manchester Baby (June 1948) first ran this loop; everything since is refinement.</text>
+<text x="320" y="196" text-anchor="middle" font-size="9" font-style="italic">plugboard programming (ENIAC) died here — programs became files, not wiring</text>
 </svg>
 <figcaption><strong>Figure 36.1.</strong> The architectural decision that still governs everything: no separate "program machine" and "data machine" — one memory holds both, and the CPU fetches instructions exactly as it fetches numbers. Programs become writable, loadable, transmittable text.</figcaption>
 </figure>
@@ -337,28 +343,31 @@ body {
 <li><strong>Transistorized → integrated</strong> generations shrink rooms to chips; microprocessors put whole CPUs on single dies (4004, 1971).</li>
 </ul>
 <figure class="fig">
-<svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Memory hierarchy pyramid and software stack">
+<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Memory hierarchy pyramid and software stack">
 <title>Memory hierarchy pyramid and software stack</title>
-<rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
-<text x="170" y="20" text-anchor="middle" font-size="13" font-weight="bold">Hierarchy (fast/small → slow/big)</text>
-<polygon points="170,35 250,150 90,150" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
-<line x1="143" y1="75" x2="197" y2="75" stroke="#16130e" stroke-width="1.5"/><line x1="125" y1="105" x2="215" y2="105" stroke="#16130e" stroke-width="1.5"/>
-<text x="170" y="62" text-anchor="middle" font-size="9" font-weight="bold">REGISTERS</text>
-<text x="170" y="95" text-anchor="middle" font-size="9">CACHE / RAM</text>
-<text x="170" y="125" text-anchor="middle" font-size="9">DISK / TAPE</text>
-<text x="170" y="140" text-anchor="middle" font-size="9" font-style="italic">keep hot data high</text>
-<text x="470" y="20" text-anchor="middle" font-size="13" font-weight="bold">Software stack (each runs on below)</text>
+<rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 36.2 — Memory pyramid and software stack</text>
+<text x="170" y="40" text-anchor="middle" font-size="10" font-weight="bold">Hierarchy (fast/small → slow/big)</text>
+<polygon points="170,48 280,158 60,158" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
+<line x1="170" y1="48" x2="170" y2="40" stroke="#16130e" stroke-width="1.25"/>
+<line x1="132" y1="92" x2="208" y2="92" stroke="#16130e" stroke-width="1.5"/>
+<line x1="100" y1="124" x2="240" y2="124" stroke="#16130e" stroke-width="1.5"/>
+<text x="170" y="84" text-anchor="middle" font-size="9" font-weight="bold">REGISTERS</text>
+<text x="170" y="111" text-anchor="middle" font-size="9">CACHE / RAM</text>
+<text x="170" y="135" text-anchor="middle" font-size="9">DISK / TAPE</text>
+<text x="170" y="148" text-anchor="middle" font-size="9" font-style="italic">keep hot data high</text>
+<text x="470" y="40" text-anchor="middle" font-size="10" font-weight="bold">Software stack (each runs on below)</text>
 <g font-size="9" text-anchor="middle">
-<rect x="370" y="35" width="200" height="26" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
-<text x="470" y="51" font-weight="bold">APPLICATIONS (payroll, CAD, games)</text>
-<rect x="370" y="63" width="200" height="26" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
-<text x="470" y="79" font-weight="bold">OS (files, pipes, processes)</text>
-<rect x="370" y="91" width="200" height="26" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
-<text x="470" y="107">COMPILERS (FORTRAN, C, Lisp)</text>
-<rect x="370" y="119" width="200" height="26" rx="4" fill="#efe9db" stroke="#16130e"/>
-<text x="470" y="135">ASSEMBLER + MACHINE CODE</text>
-<rect x="370" y="147" width="200" height="26" rx="4" fill="#4a4436"/>
-<text x="470" y="163" fill="#fff" font-weight="bold">HARDWARE (gates → CPU)</text>
+<rect x="370" y="50" width="200" height="26" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="470" y="66" font-weight="bold">APPLICATIONS (payroll, CAD, games)</text>
+<rect x="370" y="78" width="200" height="26" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="470" y="94" font-weight="bold">OS (files, pipes, processes)</text>
+<rect x="370" y="106" width="200" height="26" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
+<text x="470" y="122">COMPILERS (FORTRAN, C, Lisp)</text>
+<rect x="370" y="134" width="200" height="26" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
+<text x="470" y="150">ASSEMBLER + MACHINE CODE</text>
+<rect x="370" y="162" width="200" height="26" rx="6" fill="#4a4436"/>
+<text x="470" y="178" fill="#fff" font-weight="bold" stroke="#16130e" stroke-width="0.9">HARDWARE (gates → CPU)</text>
 </g>
 </svg>
 <figcaption><strong>Figure 36.2.</strong> Left: the hierarchy — speed costs, so keep working data in the smallest fast store that holds it. Right: the stack — each layer hides the one below. Portability (C, UNIX) means upper layers survive hardware generations.</figcaption>

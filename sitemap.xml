@@ -8,11 +8,14 @@ layout: null
   </url>
   {% for post in site.posts %}
   <url>
-    <loc>{{ site.url }}{{ post.url }}</loc>
+    <loc>{{ site.url }}/{{ post.report }}/</loc>
   </url>
   {% endfor %}
   <url>
     <loc>{{ site.url }}/privacy/</loc>
+  </url>
+  <url>
+    <loc>{{ site.url }}/lia/</loc>
   </url>
   <url>
     <loc>{{ site.url }}/novel/</loc>

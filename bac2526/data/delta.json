@@ -751,11 +751,11 @@
         },
         {
           "bucket": "4.50-5.00",
-          "share_pct": 3.24
+          "share_pct": 3.23
         },
         {
           "bucket": "5.00-5.50",
-          "share_pct": 4.85
+          "share_pct": 4.86
         },
         {
           "bucket": "5.50-6.00",
@@ -825,11 +825,11 @@
         },
         {
           "bucket": "4.50-5.00",
-          "share_pct": 3.26
+          "share_pct": 3.25
         },
         {
           "bucket": "5.00-5.50",
-          "share_pct": 4.89
+          "share_pct": 4.9
         },
         {
           "bucket": "5.50-6.00",

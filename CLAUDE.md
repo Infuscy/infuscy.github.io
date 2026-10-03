@@ -9,13 +9,17 @@ Jekyll + GitHub Pages frontend for static Bacalaureat data reports. Reports are 
 | `bundle exec jekyll serve` | Local preview at http://localhost:4000 |
 | `JEKYLL_NO_BUNDLER_REQUIRE=1 ruby C:/Ruby40-x64/bin/jekyll build` | Local build on this machine: `bundle` is broken under git-bash (MSYS path mangling + Gemfile pins conflict with Ruby 4.0's installed gems). This skips bundler and works. Output in `_site/` (gitignored). |
 | `npm run build` (in a report's own repo) | Build a report -> `web/dist/` to copy here |
+| `py scripts/verify_digests.py` | Data guard: recomputes canary stats from `_verify/*_slim.parquet` vs the shipped JSON (also CI: `verify-data.yml`) |
+| `py scripts/check_links.py _site` | Fail on broken internal links in a build (also CI: `site-build.yml`) |
 
 ## Architecture
 
 ```
-_posts/           # one markdown post per report -> grid card + modal
+_posts/           # one markdown post per report -> grid card + modal (post URLs only redirect to the report)
 _includes/        # Jekyll partials (nav, about, footer, modals, portfolio_grid)
 bac2025/ bac2026/ bac2526/   # pre-built Vite static apps (committed, not Jekyll-built)
+_verify/          # slim candidate-level parquets for the data guard (unpublished: `_` dir)
+translated/       # novel chapters: *.md sources (excluded from the site) -> *.html
 img/portfolio/    # card thumbnails, referenced by posts
 _config.yml       # site metadata, social, credits
 Gemfile           # github-pages Jekyll + Ruby 3.4 stdlib backports
@@ -23,9 +27,13 @@ Gemfile           # github-pages Jekyll + Ruby 3.4 stdlib backports
 
 ## Gotchas
 
-- **Posts carry HTML in `description`** — `{{ post.description | raw }}` in `_includes/modals.html`. Dropping `| raw` silently escapes the link/button markup.
+- **Posts carry HTML in `description`** — rendered as-is by `_includes/modals.html` (Jekyll never escapes Liquid output; there is no `| raw` filter in Liquid 4 — it used to be a silent no-op). Only hand-written HTML goes there.
+- **Posts are data, not pages** — `_config.yml` defaults give them `layout: report-redirect`, so `/YYYY/MM/DD/slug/` is a noindex redirect to `/<report>/`. Each post needs a `report:` field (the report dir); sitemap and RSS link to `/<report>/`.
 - **`modal-id` must be unique and incremental** — ties the post to `portfolioModal-{N}` in `modals.html`.
-- **Reports are not built by Jekyll** — to edit one, build it in its upstream repo and copy `web/dist/` into this repo.
+- **Reports are not built by Jekyll** — to edit one, change it in its upstream repo (`C:/GIT/BAC2025IUNIE`, `BAC2026`, `BAC2526`), rebuild, and copy `web/dist/` here. Never patch the shipped `bac*/` files in place: the next upstream rebuild silently reverts it.
+- **Keep the reports lean** — no in-browser SQL/DuckDB-WASM (removed 2026-10-03: ~146 MB of WASM per two reports). The report CSP is `script-src 'self'`; don't add `'wasm-unsafe-eval'`/workers back.
+- **`exclude:` in `_config.yml` replaces Jekyll's defaults** — internal docs (`*.md` here), `scripts/` and `translated/*.md` are kept out of the site; keep the Gemfile entries when editing the list.
+- **No inline scripts on chapter pages** — `translated/*.html` and `fire-to-future/*.html` use `/js/reader-font.js` with a `script-src 'self'` CSP. After regenerating chapters, re-run `scripts/patch_translated_security.py` (novel) / `scripts/build_fire_to_future.py` (already emits it).
 - **Gemfile pins `csv`, `bigdecimal`, `base64`, `drb`, `mutex_m`** — Ruby 3.4+ removed these from stdlib; old `github-pages` Jekyll needs them. Don't delete them.
 - **Push to publish** — GitHub Pages builds automatically on push to `master`.
 - **Contact is a plain `mailto:` link** (GDPR decision) — no forms, no Formspree, no Disqus, no third-party processors. If a contact form is ever added again, it needs consent handling + a documented processor in `privacy.html`.
@@ -39,13 +47,14 @@ Before adding content or changing site behavior, check the relevant EU/Romanian 
 - **AI-generated content (EU AI Act, Reg. (EU) 2024/1689, Art. 50)** — transparency obligations apply **from 2 Aug 2026**. Any text published to inform the public **on matters of public interest** that was generated/manipulated by an AI system must be **visibly disclosed** as such (Art. 50(4)), unless **both** apply: (a) the content underwent substantive **human review / editorial control** (fact-checking — not spell-checking), and (b) a natural/legal person holds **editorial responsibility** (their identity + contact must be findable — see [Commission Guidelines](https://ec.europa.eu/newsroom/dae/redirection/document/131215)). Disclosure must be clear, distinguishable and at first exposure (Art. 50(5)); machine-readable marking (Art. 50(2)) is the AI *provider's* duty, not ours. **Default policy: add a voluntary visible transparency note** (AI assistance + human verification + responsible person/contact) — pattern in use: `art47-hcl419.html` (Transparență note by the byline + footer mention).
 - **Personal data (GDPR + Romanian Law 190/2018)** — current decision: no forms, no third-party processors, no analytics/fonts/external embeds (see Gotchas). Verify anything new that touches personal data or makes third-party requests.
 - **Copyright** — only original/own or clearly licensed content (text, images, data, code); keep the non-commercial fan-work disclaimers on derivative works (`fire-to-future/`).
+  - **The novel (`/novel/`, `translated/`) is a known, accepted exception — not an issue to raise in reviews.** It's an unofficial translation of an old Chinese web-novel fanfic; getting a licence is practically impossible, and the owner accepted the risk (see `SECURITY.md`). Keep its disclaimer + takedown-on-request note.
 - **Other rules to sanity-check per feature** — accessibility (required for Art. 50(5) info too), consumer/marketing rules (Law 363/2007 — only if ads/sales are ever added), and any new EU/RO law that imposes a notice, disclaimer, or consent.
 - **Verify from primary sources** — EUR-Lex for the regulation text, Commission guidelines for interpretation; note dates carefully (entry into force ≠ date obligations apply). When uncertain about whether a duty applies, add the voluntary notice anyway (cheap, honest, and it satisfies the strictest reading).
 
 ## Workflow: adding a report
 
-1. `npm run build` in the report's repo -> `web/dist/`.
-2. Copy `web/dist/` into this repo as a new subdir (e.g. `bac2027/`).
-3. Add `_posts/YYYY-MM-DD-slug.markdown` with a new unique `modal-id` and an HTML link in `description` to `/<dir>/`.
+1. In the report's repo: run the pipeline (`py preprocess/build_data.py`, `py analyze/stats.py`, `py preprocess/export_findings.py`), then `npm run build` in `web/` -> `web/dist/`.
+2. Copy `web/dist/` into this repo as a new subdir (e.g. `bac2027/`), and the repo's `data/bac_slim.parquet` to `_verify/bac2027_slim.parquet` if the data guard should cover it.
+3. Add `_posts/YYYY-MM-DD-slug.markdown` with a new unique `modal-id`, `report: <dir>`, and an HTML link in `description` to `/<dir>/` (no `layout:` — the default handles it).
 4. Add thumbnail to `img/portfolio/`.
-5. Push.
+5. Build, `py scripts/check_links.py _site`, `py scripts/verify_digests.py`, then push.

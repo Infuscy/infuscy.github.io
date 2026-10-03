@@ -4,7 +4,7 @@
     "generated_by": "analyze/stats.py",
     "schema_version": 4,
     "total_rows": 130709,
-    "digest_sha256": "0dd439764c6383c0788c613e38542f3bc6687e248e6c6c5a4b005ec01e22faad"
+    "digest_sha256": "91b01ed626ccdeb2aafee1daf21f7444c175f43ef43649eb7e771bac14e9d5a0"
   },
   "overview": {
     "total_candidates": 130709,
@@ -377,39 +377,39 @@
         },
         {
           "bucket": "2.00-2.50",
-          "count": 742
+          "count": 741
         },
         {
           "bucket": "2.50-3.00",
-          "count": 984
+          "count": 985
         },
         {
           "bucket": "3.00-3.50",
-          "count": 1536
+          "count": 1534
         },
         {
           "bucket": "3.50-4.00",
-          "count": 2135
+          "count": 2128
         },
         {
           "bucket": "4.00-4.50",
-          "count": 2944
+          "count": 2949
         },
         {
           "bucket": "4.50-5.00",
-          "count": 4101
+          "count": 4089
         },
         {
           "bucket": "5.00-5.50",
-          "count": 6161
+          "count": 6177
         },
         {
           "bucket": "5.50-6.00",
-          "count": 7963
+          "count": 7962
         },
         {
           "bucket": "6.00-6.50",
-          "count": 11434
+          "count": 11435
         },
         {
           "bucket": "6.50-7.00",
@@ -5197,18 +5197,18 @@
   },
   "reporter_deepdive": {
     "contestation_rescue": {
-      "total": 1905,
+      "total": 1906,
       "by_subject": {
         "romana": 793,
         "profil": 446,
         "alegere": 487,
-        "materna": 179
+        "materna": 180
       }
     },
     "dead_zone": {
-      "5.0-5.5": 6161,
-      "5.5-6.0": 7963,
-      "6.0-6.5": 11434,
+      "5.0-5.5": 6177,
+      "5.5-6.0": 7962,
+      "6.0-6.5": 11435,
       "6.5-7.0": 10410
     },
     "county_math_pass": [

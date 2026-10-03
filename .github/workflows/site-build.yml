@@ -1,0 +1,27 @@
+name: site-build
+
+# Builds the site with the same action GitHub Pages uses and fails on broken
+# internal links (missing images, dead report/chapter links, etc.).
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Check internal links
+        run: python scripts/check_links.py _site

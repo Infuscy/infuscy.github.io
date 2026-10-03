@@ -8,7 +8,7 @@ permalink: /lia/
 
 <h2>Evaluarea interesului legitim (LIA)</h2>
 
-<p>Document de responsabilizare (art. 5 alin. (2) și art. 24 GDPR) pentru prelucrarea datelor despre rezultatele Bacalaureatului în rapoartele publicate pe acest site. Ultima revizuire: <strong>30 august 2026</strong>.</p>
+<p>Document de responsabilizare (art. 5 alin. (2) și art. 24 GDPR) pentru prelucrarea datelor despre rezultatele Bacalaureatului în rapoartele publicate pe acest site. Ultima revizuire: <strong>3 octombrie 2026</strong>.</p>
 
 <h2>1. Prelucrarea evaluată</h2>
 
@@ -28,7 +28,7 @@ permalink: /lia/
 
 <h3>2.2 Prelucrarea este necesară pentru acest scop?</h3>
 
-<p>Da, în forma utilizată. Analiza agregată (pe școli, județe, specializări) cere păstrarea rândurilor la nivel de candidat ca granulație minimă; fără ele, statisticile publicate nu ar putea fi reproduse sau verificate de public (site-ul include inclusiv o consolă SQL prin care oricine poate verifica calculele). Identificatorii direcți sunt eliminați la construirea fișierelor, deși ar fi disponibili în sursa oficială — deci se folosește cea mai puțin intruzivă formă suficientă pentru scop.</p>
+<p>Da, în forma utilizată. Analiza agregată (pe școli, județe, specializări) cere păstrarea rândurilor la nivel de candidat ca granulație minimă; fără ele, statisticile publicate nu ar putea fi reproduse sau verificate (un extras la nivel de candidat, fără identificatori, este păstrat în depozitul de cod al site-ului, unde un test automat recalculează statisticile publicate). Identificatorii direcți sunt eliminați la construirea fișierelor, deși ar fi disponibili în sursa oficială — deci se folosește cea mai puțin intruzivă formă suficientă pentru scop.</p>
 
 <h3>2.3 Interesele persoanelor vizate prevală?</h3>
 
@@ -36,7 +36,7 @@ permalink: /lia/
 
 <ul>
   <li><strong>Caracterul public al datelor sursă:</strong> notele examenului sunt publicate oficial de autoritate publică; candidații nu pot avea o așteptare rezonabilă de confidențialitate față de notele lor de examen, ci doar față de identificatori — care sunt eliminați aici.</li>
-  <li><strong>Risc de re-identificare limitat:</strong> combinarea județ + școală + specializare + note ar putea sugera identitatea unui candidat doar în unități cu efective foarte mici. Nu se publică tabele la nivel de individ; toate sintezele publicate sunt agregate peste praguri minime de efectiv (reguli n ≥ 20–30 pentru clasamentele pe școli), iar fișierele brute nu sunt promovate în interfață decât ca material de verificare statistică.</li>
+  <li><strong>Risc de re-identificare limitat:</strong> combinarea județ + școală + specializare + note ar putea sugera identitatea unui candidat doar în unități cu efective foarte mici. Nu se publică tabele la nivel de individ; toate sintezele publicate sunt agregate peste praguri minime de efectiv (reguli n ≥ 20–30 pentru clasamentele pe școli), iar extrasul la nivel de candidat nu este servit pe site — rămâne doar în depozitul de cod, ca material de verificare statistică.</li>
   <li><strong>Prelucrare fără urmărire:</strong> datele se procesează integral în browserul vizitatorului; site-ul nu are backend, nu colectează nimic despre cititori și nu leagă datele examenului de nicio altă categorie de date.</li>
   <li><strong>Impact redus:</strong> datele au caracter strict educațional, nu sensibile (art. 9), iar utilizarea lor în raport nu afectează decizii despre persoanele vizate.</li>
   <li><strong>Candidați minori:</strong> o parte a candidaților poate fi minoră. Acest aspect a fost cântărit explicit; absența identificatorilor direcți, caracterul public al notei de examen și publicarea exclusivă de agregate peste praguri minime limitează impactul asupra acestora.</li>

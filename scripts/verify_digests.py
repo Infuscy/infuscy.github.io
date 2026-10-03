@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """Data integrity guard for the shipped BAC artifacts (Batch 3, AUDIT.md P1).
 
-Recomputes a canary set from bac*/data/bac_slim.parquet and diffs it against
+Recomputes a canary set from _verify/bac*_slim.parquet (the slim extract the
+upstream pipelines write to data/bac_slim.parquet; not published) and diffs it against
 the shipped findings.json / outliers.json / delta.json. Exits non-zero on any
 mismatch beyond 2-dp rounding tolerance (0.011).
 
@@ -41,7 +42,7 @@ def load(p):
 D = {y: load(rf"{ROOT}/bac{y}/data/findings.json") for y in (2025, 2026)}
 OUTJ = {y: load(rf"{ROOT}/bac{y}/data/outliers.json") for y in (2025, 2026)}
 DELTA = load(rf"{ROOT}/bac2526/data/delta.json")
-DF = {y: pd.read_parquet(rf"{ROOT}/bac{y}/data/bac_slim.parquet") for y in (2025, 2026)}
+DF = {y: pd.read_parquet(rf"{ROOT}/_verify/bac{y}_slim.parquet") for y in (2025, 2026)}
 
 for y, df in DF.items():
     d = D[y]

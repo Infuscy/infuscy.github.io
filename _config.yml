@@ -17,7 +17,7 @@ color:
 # Footer settings
 footer:
   copyright: Febuse
-  location: Locatie
+  location: Locație
   social: Pe web
   credits: Credite
 
@@ -35,7 +35,7 @@ address:
   - line: Romania
 
 # Credits content
-credits: 'Proiecte personale: rapoarte de date statice (Python, React, DuckDB-WASM), analiză juridică verificată din surse primare, ficțiune publicată static. <br>Datele Bacalaureatului provin de pe <a href="https://static.bacalaureat.edu.ro/">static.bacalaureat.edu.ro</a>.'
+credits: 'Proiecte personale: rapoarte de date statice (Python, React), analiză juridică verificată din surse primare, ficțiune publicată static. <br>Datele Bacalaureatului provin de pe <a href="https://static.bacalaureat.edu.ro/">static.bacalaureat.edu.ro</a>.'
 
 # Build settings
 markdown: kramdown
@@ -46,3 +46,27 @@ permalink: /:year/:month/:day/:title/
 # Jekyll excludes dotfiles by default; publish .well-known/
 include:
   - ".well-known"
+
+# Repo-only files: internal docs, build scripts, and the chapter Markdown
+# sources (translated/*.md feed scripts/build-novel.js; the site serves the .html).
+# Listing exclude replaces Jekyll's defaults, so Gemfile & co. are repeated here.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - AUDIT.md
+  - BUGFIX_SPEC.md
+  - CLAUDE.md
+  - README.md
+  - SECURITY.md
+  - scripts
+  - "translated/*.md"
+
+# Posts are data for the report grid/modals, not pages. Their URLs only
+# redirect to the report itself (see _layouts/report-redirect.html).
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: report-redirect

@@ -1,9 +1,10 @@
 """One-shot security patch for translated/*.html (novel reader pages).
 
 1. Injects CSP + referrer meta tags after <meta charset="UTF-8"> (idempotent).
-2. Replaces the localStorage-based reader-font-scale script with an
-   in-memory version (no terminal-equipment storage), collapsing
-   accidental duplicate script blocks (chapter100.html had two).
+2. Replaces the inline reader-font-scale script (both the old localStorage
+   version and the in-memory one) with /js/reader-font.js, so the CSP needs
+   no 'unsafe-inline' for scripts; collapses accidental duplicates
+   (chapter100.html had two).
 
 Run again after regenerating chapters upstream.
 """
@@ -21,7 +22,7 @@ OLD_SCRIPT = """<script>
 })();
 </script>"""
 
-NEW_SCRIPT = """<script>
+INLINE_SCRIPT = """<script>
 (function(){
   var scale = 1;
   function apply(){ document.documentElement.style.setProperty("--reader-font-scale", scale); }
@@ -31,9 +32,11 @@ NEW_SCRIPT = """<script>
 })();
 </script>"""
 
+NEW_SCRIPT = '<script src="/js/reader-font.js"></script>'
+
 METAS = (
     '<meta http-equiv="Content-Security-Policy" content="default-src \'self\'; '
-    "script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; "
+    "script-src 'self'; style-src 'self' 'unsafe-inline'; "
     "img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; "
     'object-src \'none\'; connect-src \'self\'">\n'
     '<meta name="referrer" content="strict-origin-when-cross-origin">'
@@ -53,6 +56,8 @@ def main() -> int:
             text = fh.read()
         original = text
 
+        # Older pages carry the previous CSP that allowed inline scripts.
+        text = text.replace(METAS.replace("script-src 'self';", "script-src 'self' 'unsafe-inline';"), METAS)
         if METAS not in text:
             if CHARSET not in text:
                 errors.append(f"{path}: no charset meta")
@@ -60,9 +65,8 @@ def main() -> int:
             text = text.replace(CHARSET, CHARSET + "\n" + METAS, 1)
             patched_meta += 1
 
-        n_old = text.count(OLD_SCRIPT)
-        if n_old:
-            text = text.replace(OLD_SCRIPT, NEW_SCRIPT)
+        if OLD_SCRIPT in text or INLINE_SCRIPT in text:
+            text = text.replace(OLD_SCRIPT, NEW_SCRIPT).replace(INLINE_SCRIPT, NEW_SCRIPT)
             patched_script += 1
 
         while NEW_SCRIPT + "\n" + NEW_SCRIPT in text:
@@ -85,6 +89,7 @@ def main() -> int:
         p
         for p in files
         if "localStorage" in open(p, encoding="utf-8").read()
+        or "<script>" in open(p, encoding="utf-8").read()
         or METAS not in open(p, encoding="utf-8").read()
     ]
     if leftovers:

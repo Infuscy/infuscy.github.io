@@ -13,7 +13,7 @@ accounts or sessions, no forms, no cookies, and no third-party analytics or
 comment services. All content is owner-authored. The residual risks are:
 
 1. supply chain (bundled client-side libraries),
-2. client-side injection via authored HTML (`| raw` front matter),
+2. client-side injection via authored HTML (post `description` / `site.credits`),
 3. clickjacking (GitHub Pages cannot set frame headers),
 4. third-party requests made by the report SPAs (now reduced to OSM map tiles).
 
@@ -22,11 +22,13 @@ comment services. All content is owner-authored. The residual risks are:
 - HTTPS only (GitHub Pages; `github.io` is on the HSTS preload list).
 - Content-Security-Policy via meta tag on the Jekyll layer (`_includes/head.html`)
   and on all three report SPAs (`bac2025/`, `bac2026/`, `bac2526/`). The report
-  policy allows `'wasm-unsafe-eval'` (DuckDB-WASM), `worker-src 'self' blob:`,
-  and `img-src ... https://tile.openstreetmap.org`. The novel chapter pages
-  (`translated/*.html`, standalone HTML outside Jekyll) carry their own meta
-  CSP + referrer policy — injected by `scripts/patch_translated_security.py`,
-  which must be re-run after regenerating chapters upstream.
+  policy is `script-src 'self'` (no WASM/workers since the DuckDB SQL console was
+  removed on 2026-10-03); `bac2025`/`bac2026` add `img-src ...
+  https://tile.openstreetmap.org` for the county map, `bac2526` has no map. The
+  standalone chapter pages (`translated/*.html`, `fire-to-future/*.html`) carry
+  their own meta CSP (`script-src 'self'`, the font control is
+  `/js/reader-font.js`) + referrer policy — `scripts/patch_translated_security.py`
+  re-applies both after regenerating novel chapters upstream.
 - Referrer policy meta tag everywhere (`strict-origin-when-cross-origin`).
 - Frame-buster script in `js/freelancer.js` (Pages cannot set
   `X-Frame-Options`/`frame-ancestors`).
@@ -44,8 +46,9 @@ comment services. All content is owner-authored. The residual risks are:
 - **Bootstrap 3.4.1** — CVE-2024-6484 / CVE-2024-6485 (carousel / tooltip-popover
   XSS). Bootstrap 3.x is EOL with no upstream fix. The vulnerable components are
   bundled but not used with untrusted data. Migration to Bootstrap 5 is backlog.
-- **`| raw` HTML sinks** — `_posts/*.markdown` `description` and `site.credits`
-  are rendered unescaped. That is a stored-XSS vector *if* third-party HTML is
+- **Unescaped HTML sinks** — `_posts/*.markdown` `description` and `site.credits`
+  are rendered unescaped (Jekyll never escapes Liquid output; the old `| raw`
+  filter was a no-op and has been removed). That is a stored-XSS vector *if* third-party HTML is
   ever committed. Rule: post descriptions may only contain hand-written HTML.
 - **jQuery 3.7.1** — no known CVEs; upgrade to 4.x is backlog only.
 - **Font Awesome 4.1.0 / Bootswatch CSS 3.2.0** — old, but CSS/fonts only; no
@@ -55,7 +58,7 @@ comment services. All content is owner-authored. The residual risks are:
   reviewed and explicitly accepted by the site owner on 2026-08-13. Chapters
   are generated upstream: after regenerating, re-run
   `scripts/patch_translated_security.py` (idempotent) or the CSP metas and the
-  localStorage-free reader script regress.
+  external reader script regress.
 - **Local Ruby build stack** — the `github-pages` gem pins legacy versions:
   liquid 4.0.3 (CVE-2025-47904), rouge 3.26.0 (CVE-2021-44172), commonmarker
   0.17.13 (bundled cmark-gfm CVEs), kramdown 2.3.1 (fixed). GitHub Pages builds
@@ -87,9 +90,10 @@ repo (stopgap, so the live site is correct now) **and** to the upstream repos,
 so future rebuilds keep them:
 
 1. `web/index.html` (all three repos): Google Fonts `preconnect` + stylesheet
-   links removed; CSP meta + referrer meta added (strict policy with
-   `'wasm-unsafe-eval'` for DuckDB-WASM, `worker-src 'self' blob:`,
-   `img-src ... https://tile.openstreetmap.org`).
+   links removed; CSP meta + referrer meta added. On 2026-10-03 the DuckDB-WASM
+   SQL console was removed upstream, so `'wasm-unsafe-eval'` and
+   `worker-src 'self' blob:` are gone; only `bac2025`/`bac2026` keep
+   `img-src ... https://tile.openstreetmap.org`.
 2. `web/src/components/CountyMap.tsx` (BAC2025IUNIE, BAC2026): attribution
    `&copy; OpenStreetMap contributors`, tile URL without the deprecated
    `{s}.` subdomain prefix.

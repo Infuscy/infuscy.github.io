@@ -23,7 +23,7 @@
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
-                        <p>{{ site.credits | raw }}</p>
+                        <p>{{ site.credits }}</p>
                     </div>
                 </div>
             </div>
@@ -32,7 +32,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+                        Copyright &copy; {{ site.footer.copyright }} {{ site.time | date: '%Y' }}
                         &middot; <a href="/privacy/">Confidențialitate</a>
                         &middot; <a href="/lia/">Evaluarea interesului legitim</a>
                         &middot; <a href="https://static.bacalaureat.edu.ro/">Surse date</a>

@@ -14,16 +14,16 @@
                         <div class="modal-body">
                             <h2 id="portfolioModalTitle-{{ post.modal-id }}">{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}" loading="lazy" decoding="async">
-                            <p>{{ post.description | raw }}</p>
+                            <img src="/img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}" loading="lazy" decoding="async">
+                            <div class="modal-description">{{ post.description }}</div>
                             <ul class="list-inline item-details">
-                                <li>Client:
+                                <li>Proiect:
                                     <strong>{{ post.client }}</strong>
                                 </li>
-                                <li>Date:
+                                <li>Perioadă:
                                     <strong>{{ post.project-date }}</strong>
                                 </li>
-                                <li>Service:
+                                <li>Categorie:
                                     <strong>{{ post.category }}</strong>
                                 </li>
                             </ul>

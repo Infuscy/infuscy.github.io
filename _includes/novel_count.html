@@ -1,0 +1,1 @@
+{% comment %}Novel chapter count from _data/novel_chapters.json, with a Romanian thousands dot (1.862).{% endcomment %}{% assign n = site.data.novel_chapters | size %}{% assign k = n | divided_by: 1000 %}{% if k > 0 %}{% assign r = n | modulo: 1000 | prepend: "00" %}{{ k }}.{{ r | slice: -3, 3 }}{% else %}{{ n }}{% endif %}

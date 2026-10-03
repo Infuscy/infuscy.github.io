@@ -1,5 +1,4 @@
 ---
-layout: default
 modal-id: 3
 date: 2026-07-01
 title: "Bacalaureat 2025 vs 2026 — Delta"

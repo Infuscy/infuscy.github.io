@@ -1,7 +1,7 @@
 name: verify-bac-data
 
 # Data integrity guard: recomputes a canary set of statistics from the shipped
-# bac_slim.parquet files and diffs them against the shipped digests.
+# _verify/*_slim.parquet extracts and diffs them against the shipped digests.
 # See scripts/verify_digests.py and BUGFIX_SPEC.md (Batch 3).
 
 on:
@@ -10,6 +10,8 @@ on:
       - "bac2025/data/**"
       - "bac2026/data/**"
       - "bac2526/data/**"
+      - "_verify/**"
+      - "_posts/**"
       - "scripts/verify_digests.py"
       - ".github/workflows/verify-data.yml"
   workflow_dispatch:

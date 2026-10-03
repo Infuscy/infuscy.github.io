@@ -4,6 +4,8 @@ Audit date: 2026-08-01. Scope: the three upstream report repos (`BAC2025IUNIE`, 
 
 Every bug was verified against the shipped data and the live UIs. Fix order = priority order.
 
+> **Status 2026-10-03:** all batches live upstream. Batch 3 was ported on 2026-08-21; Batch 4 (the 2026-09-05 dist-only patches: school split by (judet, name), `100%` pass bin, candidate-code redaction, no `_dev` in counties.json, `school_deep.rule`, n≥30 language qualifier, data-driven bimodality / perfect-10 copy, BAC2526 heading diacritics + `jud.` labels) is now in the upstream pipelines and sources, and the shipped `bac*/` dirs are clean rebuilds. The rebuild also refreshed the media histogram / `dead_zone` / 2026 `contestation_rescue` counts, which the old shipped digests had stale (verified against the slim parquet). The SQL console (DuckDB-WASM) and the shipped `bac_slim.parquet` were removed at the same time; the guard now reads `_verify/*_slim.parquet`.
+
 ---
 
 ## Batch 3 (2026-08-02) — repo-side data patches (full codebase audit, see `AUDIT.md`)

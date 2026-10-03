@@ -14,14 +14,7 @@
                     <!-- reversed: chronological order (2025 -> 2026 -> delta) -->
                     <article class="col-sm-4 portfolio-item">
                         <div class="portfolio-card">
-                            <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal" aria-label="Detalii: {{ post.title }}" tabindex="-1" aria-hidden="true">
-                                <span class="caption" aria-hidden="true">
-                                    <span class="caption-content">
-                                        <i class="fa fa-search-plus fa-3x" aria-hidden="true"></i>
-                                    </span>
-                                </span>
-                                <img src="/img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}" loading="lazy" decoding="async" width="400" height="225">
-                            </a>
+                            <img src="/img/portfolio/{{ post.img }}" class="card-thumb" alt="" loading="lazy" decoding="async" width="960" height="540">
                             <div class="portfolio-caption">
                                 <p class="card-badges">
                                     {% if post == site.posts.first %}
@@ -29,16 +22,16 @@
                                     {% endif %}
                                     <span class="card-category">{{ post.category }}</span>
                                 </p>
-                                <h3>{{ post.title }}</h3>
+                                <h3><a class="card-link" href="/{{ post.report }}/">{{ post.title }}</a></h3>
                                 <p class="text-muted card-meta">{{ post.project-date }}</p>
                                 {% if post.stats %}
                                     <p class="portfolio-stats">{{ post.stats }}</p>
                                 {% endif %}
-                                <p class="card-actions">
-                                    <a class="btn btn-primary btn-sm" href="/{{ post.report }}/">
-                                        <i class="fa fa-bar-chart" aria-hidden="true"></i> Deschide raportul &rarr;
-                                    </a>
-                                    <a class="card-details" href="#portfolioModal-{{ post.modal-id }}" data-toggle="modal">Detalii</a>
+                                <p class="card-summary">{{ post.description }}</p>
+                                <p class="card-actions" aria-hidden="true">
+                                    <span class="btn btn-primary btn-sm">
+                                        <i class="fa fa-bar-chart"></i> Deschide raportul &rarr;
+                                    </span>
                                 </p>
                             </div>
                         </div>

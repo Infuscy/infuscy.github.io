@@ -4,6 +4,24 @@
  * BAC report design system: Inter typeface, slate palette, blue accent.
  */
 
+/* Bootstrap 3 sets html { font-size: 10px }, which shrank every rem in
+   this file (and in the chapter/ToC pages that load style.css) to 62.5%.
+   All rem values here assume the browser default of 16px. */
+html {
+    font-size: 100%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    html {
+        scroll-behavior: smooth;
+    }
+}
+
+/* In-page anchors land below the fixed navbar. */
+section[id] {
+    scroll-margin-top: 4rem;
+}
+
 body {
     overflow-x: hidden;
     font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -92,22 +110,13 @@ header .intro-text .name {
     color: #0f172a;
 }
 
-header .intro-text .skills {
-    font-size: 1.7rem;
-    font-weight: 500;
-    color: #64748b;
-}
-
 @media(min-width:768px) {
     header .container {
-        padding-top: 9rem;
-        padding-bottom: 7rem;
+        padding-top: 8rem;
+        padding-bottom: 5.5rem;
     }
     header .intro-text .name {
         font-size: 3.75rem;
-    }
-    header .intro-text .skills {
-        font-size: 1.9rem;
     }
 }
 
@@ -216,80 +225,9 @@ section.success a {
     margin: 0 0 1.5rem;
 }
 
-#portfolio .portfolio-item .portfolio-link {
-    display: block;
-    position: relative;
-    margin: 0 auto;
-    max-width: 400px;
-    border-radius: 0.75rem;
-    overflow: hidden;
-    border: 1px solid #e2e8f0;
-    background: #fff;
-    box-shadow: 0 1px 3px 0 rgb(15 23 42 / 0.06), 0 1px 2px -1px rgb(15 23 42 / 0.04);
-    -webkit-transition: box-shadow .2s ease, -webkit-transform .2s ease;
-    transition: box-shadow .2s ease, transform .2s ease;
-}
-
-#portfolio .portfolio-item .portfolio-link:hover {
-    box-shadow: 0 10px 25px -5px rgb(15 23 42 / 0.12), 0 4px 10px -6px rgb(15 23 42 / 0.08);
-    -webkit-transform: translateY(-3px);
-    transform: translateY(-3px);
-}
-
-#portfolio .portfolio-item .portfolio-link .caption {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    opacity: 0;
-    background: rgba({{ site.color.primary-rgb }},.85);
-    -webkit-transition: all ease .3s;
-    transition: all ease .3s;
-}
-
-#portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
-}
-
-#portfolio .portfolio-item .portfolio-link .caption .caption-content {
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    height: 20px;
-    margin-top: -12px;
-    text-align: center;
-    font-size: 20px;
-    color: #fff;
-}
-
-#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
-    margin-top: -12px;
-}
-
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
-    margin: 0;
-}
-
-#portfolio * {
-    z-index: 2;
-}
-
-/* Card captions under the thumbnails: title, date, direct link */
-#portfolio .portfolio-item .portfolio-caption {
-    margin: 0.75rem auto 0;
-    max-width: 400px;
-    text-align: center;
-}
-
-#portfolio .portfolio-item .portfolio-caption h4 {
-    margin: 0.25rem 0 0;
-    font-size: 1.0625rem;
-    line-height: 1.35;
-}
-
 #portfolio .portfolio-item .portfolio-caption p {
     margin: 0.25rem 0 0.75rem;
-    font-size: 0.875rem;
+    font-size: 0.9375rem;
 }
 
 /* Compact stats line under each report card (candidates, pass rate, delta) */
@@ -440,74 +378,16 @@ footer a:hover {
     justify-content: center;
 }
 
-.scroll-top .btn:focus {
-    outline: 0;
+.scroll-top {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(0.5rem);
+    transition: opacity .2s ease, visibility .2s ease, transform .2s ease;
 }
-
-/* ---------- Portfolio modal ---------- */
-.portfolio-modal .modal-content {
-    padding: 4rem 0;
-    min-height: 100%;
-    border: 0;
-    border-radius: 0;
-    text-align: center;
-    background-clip: border-box;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-}
-
-.portfolio-modal .modal-content h2 {
-    margin: 0;
-    font-size: 2rem;
-}
-
-.portfolio-modal .modal-content img {
-    margin-bottom: 2rem;
-    border-radius: 0.75rem;
-}
-
-.portfolio-modal .modal-content .item-details {
-    margin: 2rem 0;
-}
-
-.portfolio-modal .modal-content .modal-crosslink {
-    margin-top: 1.25rem;
-    font-size: 0.9rem;
-}
-
-.portfolio-modal .close-modal {
-    position: absolute;
-    top: 1.5rem;
-    right: 1.5rem;
-    width: 3rem;
-    height: 3rem;
-    background-color: transparent;
-    cursor: pointer;
-}
-
-.portfolio-modal .close-modal:hover {
-    opacity: .4;
-}
-
-.portfolio-modal .close-modal .lr {
-    z-index: 1051;
-    width: 2px;
-    height: 2rem;
-    margin-left: 1.4rem;
-    background-color: #{{ site.color.secondary }};
-    -webkit-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
-}
-
-.portfolio-modal .close-modal .lr .rl {
-    z-index: 1052;
-    width: 2px;
-    height: 2rem;
-    background-color: #{{ site.color.secondary }};
-    -webkit-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
+.scroll-top.is-visible {
+    opacity: 1;
+    visibility: visible;
+    transform: none;
 }
 
 .navbar-nav>.active>a,
@@ -516,12 +396,6 @@ footer a:hover {
     background-color: #f1f5f9 !important;
     color: #{{ site.color.primary }} !important;
     border-radius: 0.5rem;
-}
-
-/* Fix modal mouse wheel issues — https://github.com/twbs/bootstrap/issues/16297 */
-.modal.fade.in {
-    transform: translateZ(0);
-    -webkit-transform: translateZ(0);
 }
 
 /* ---------- Design tokens ---------- */
@@ -584,10 +458,6 @@ input:focus-visible {
     font-size: 1.2rem;
     line-height: 1.6;
     color: #334155;
-}
-.hero .intro-text .skills {
-    font-size: 1rem;
-    letter-spacing: 0.02em;
 }
 .hero-avatar {
     width: 7rem;
@@ -665,26 +535,55 @@ section.band {
     transition: box-shadow .2s ease, transform .2s ease;
 }
 .portfolio-card:hover,
-.portfolio-card:focus-within {
+.feature-card:hover {
     box-shadow: 0 10px 25px -5px rgb(15 23 42 / 0.12);
     transform: translateY(-3px);
 }
-#portfolio .portfolio-item .portfolio-link {
-    max-width: none;
-    border: 0;
-    border-radius: 0;
-    box-shadow: none;
-    margin: 0;
-}
-#portfolio .portfolio-item .portfolio-link:hover {
-    box-shadow: none;
-    transform: none;
-}
-#portfolio .portfolio-item .portfolio-link img {
+.card-thumb {
+    display: block;
     width: 100%;
     height: auto;
     aspect-ratio: 16 / 9;
     object-fit: cover;
+    object-position: top left;
+    border-bottom: 1px solid var(--line);
+}
+
+/* Whole card is clickable: the title link's ::after covers the card.
+   Secondary links (.card-details) sit above it. */
+.portfolio-card,
+.feature-card {
+    position: relative;
+}
+.card-link,
+.card-link:hover,
+.card-link:focus {
+    color: inherit;
+    text-decoration: none;
+}
+.card-link::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+}
+.card-link:focus-visible {
+    outline: 0;
+}
+.portfolio-card:hover .card-link,
+.feature-card:hover .card-link {
+    color: var(--brand);
+}
+.portfolio-card:has(.card-link:focus-visible),
+.feature-card:has(.card-link:focus-visible) {
+    outline: 3px solid rgba(37,99,235,.55);
+    outline-offset: 2px;
+}
+.card-summary {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 #portfolio .portfolio-item .portfolio-caption,
 .fiction-card .portfolio-caption {
@@ -728,6 +627,8 @@ section.band {
     flex-wrap: wrap;
 }
 .card-details {
+    position: relative;
+    z-index: 2;
     font-weight: 600;
     font-size: 0.9rem;
     white-space: nowrap;
@@ -740,6 +641,7 @@ section.band {
     border-radius: var(--radius);
     padding: 1.75rem;
     box-shadow: 0 1px 3px 0 rgb(15 23 42 / 0.06);
+    transition: box-shadow .2s ease, transform .2s ease;
 }
 .feature-card h3 {
     margin-top: 0.75rem;
@@ -784,7 +686,28 @@ section.band {
 .footer-ai-note {
     margin: 0.75rem 0 0;
     font-size: 0.8rem;
-    color: #64748b;
+    color: #94a3b8;
+}
+
+/* ---------- Contrast (WCAG AA, >= 4.5:1) ---------- */
+/* Bootswatch's .text-muted (#b4bcc2) is 1.9:1 on white. */
+.text-muted {
+    color: var(--muted);
+}
+/* The global p color (#334155) is 1.7:1 on the dark footer. */
+footer .footer-col p {
+    color: #cbd5e1;
+}
+
+/* ---------- Content pages (privacy, LIA) ---------- */
+.page-content {
+    max-width: 50rem;
+    padding-top: 7rem;
+    padding-bottom: 3rem;
+}
+.page-content h1 {
+    margin: 0 0 1.5rem;
+    font-size: clamp(2rem, 4vw, 2.5rem);
 }
 .footer-below a {
     white-space: nowrap;
@@ -834,6 +757,15 @@ section.band {
 
 /* ---------- Responsive tuning ---------- */
 @media(max-width:767px) {
+    /* Bootswatch colors mobile dropdown items white (made for its dark navbar). */
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: var(--ink);
+    }
+    /* The open menu is opaque so the hero doesn't show through it. */
+    .navbar-collapse.in,
+    .navbar-collapse.collapsing {
+        background: #fff;
+    }
     header .container {
         padding-top: 6rem;
         padding-bottom: 3.5rem;
@@ -863,8 +795,8 @@ section.band {
         transition-duration: 0.01ms !important;
         scroll-behavior: auto !important;
     }
-    #portfolio .portfolio-item .portfolio-link:hover,
-    .portfolio-card:hover {
+    .portfolio-card:hover,
+    .feature-card:hover {
         transform: none;
     }
 }
@@ -872,7 +804,6 @@ section.band {
 @media print {
     nav,
     .scroll-top,
-    .portfolio-modal,
     .hero-cta {
         display: none !important;
     }

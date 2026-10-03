@@ -1,6 +1,6 @@
 # infuscy.github.io
 
-Jekyll + GitHub Pages frontend for static Bacalaureat data reports. Reports are pre-built Vite apps committed into subdirs; the Jekyll layer is the grid + modals that link to them.
+Jekyll + GitHub Pages frontend for static Bacalaureat data reports. Reports are pre-built Vite apps committed into subdirs; the Jekyll layer is the card grid that links to them.
 
 ## Commands
 
@@ -15,8 +15,8 @@ Jekyll + GitHub Pages frontend for static Bacalaureat data reports. Reports are 
 ## Architecture
 
 ```
-_posts/           # one markdown post per report -> grid card + modal (post URLs only redirect to the report)
-_includes/        # Jekyll partials (nav, about, footer, modals, portfolio_grid)
+_posts/           # one markdown post per report -> grid card (post URLs only redirect to the report)
+_includes/        # Jekyll partials (nav, about, footer, portfolio_grid)
 bac2025/ bac2026/ bac2526/   # pre-built Vite static apps (committed, not Jekyll-built)
 _verify/          # slim candidate-level parquets for the data guard (unpublished: `_` dir)
 translated/       # novel chapters: *.md sources (excluded from the site) -> *.html
@@ -27,9 +27,11 @@ Gemfile           # github-pages Jekyll + Ruby 3.4 stdlib backports
 
 ## Gotchas
 
-- **Posts carry HTML in `description`** — rendered as-is by `_includes/modals.html` (Jekyll never escapes Liquid output; there is no `| raw` filter in Liquid 4 — it used to be a silent no-op). Only hand-written HTML goes there.
+- **Post `description` is plain text** — one or two sentences, shown on the card (clamped to 3 lines) and in `feed.xml`. Jekyll never escapes Liquid output, so keep HTML out of it.
 - **Posts are data, not pages** — `_config.yml` defaults give them `layout: report-redirect`, so `/YYYY/MM/DD/slug/` is a noindex redirect to `/<report>/`. Each post needs a `report:` field (the report dir); sitemap and RSS link to `/<report>/`.
-- **`modal-id` must be unique and incremental** — ties the post to `portfolioModal-{N}` in `modals.html`.
+- **Cards are fully clickable** — the title link (`.card-link`) stretches over the card via `::after`; the "Deschide…" button is a decorative `<span aria-hidden="true">`. Any extra link inside a card needs `class="card-details"` (raised above the overlay) or it won't be clickable.
+- **Theme `rem` = 16px** — `main.css` resets Bootstrap 3's `html { font-size: 10px }` to `100%`. Write sizes in `rem` assuming 16px; don't remove the reset (chapter and ToC pages depend on it too).
+- **Card thumbnails are report screenshots** — 960×540 PNG in `img/portfolio/`, from headless Chrome at 1120×630, 2× DPR, of the served report (`chrome --headless=new --force-device-scale-factor=2 --window-size=1120,630 --screenshot=… http://localhost:4000/<dir>/`), then resized.
 - **Reports are not built by Jekyll** — to edit one, change it in its upstream repo (`C:/GIT/BAC2025IUNIE`, `BAC2026`, `BAC2526`), rebuild, and copy `web/dist/` here. Never patch the shipped `bac*/` files in place: the next upstream rebuild silently reverts it.
 - **Keep the reports lean** — no in-browser SQL/DuckDB-WASM (removed 2026-10-03: ~146 MB of WASM per two reports). The report CSP is `script-src 'self'`; don't add `'wasm-unsafe-eval'`/workers back.
 - **`exclude:` in `_config.yml` replaces Jekyll's defaults** — internal docs (`*.md` here), `scripts/` and `translated/*.md` are kept out of the site; keep the Gemfile entries when editing the list.
@@ -55,6 +57,6 @@ Before adding content or changing site behavior, check the relevant EU/Romanian 
 
 1. In the report's repo: run the pipeline (`py preprocess/build_data.py`, `py analyze/stats.py`, `py preprocess/export_findings.py`), then `npm run build` in `web/` -> `web/dist/`.
 2. Copy `web/dist/` into this repo as a new subdir (e.g. `bac2027/`), and the repo's `data/bac_slim.parquet` to `_verify/bac2027_slim.parquet` if the data guard should cover it.
-3. Add `_posts/YYYY-MM-DD-slug.markdown` with a new unique `modal-id`, `report: <dir>`, and an HTML link in `description` to `/<dir>/` (no `layout:` — the default handles it).
-4. Add thumbnail to `img/portfolio/`.
+3. Add `_posts/YYYY-MM-DD-slug.markdown` with `report: <dir>`, `img`, `category`, `project-date`, `stats` and a plain-text `description` (no `layout:` — the default handles it).
+4. Add a screenshot thumbnail to `img/portfolio/` (see Gotchas).
 5. Build, `py scripts/check_links.py _site`, `py scripts/verify_digests.py`, then push.

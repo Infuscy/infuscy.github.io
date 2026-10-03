@@ -1,19 +1,10 @@
 ---
-modal-id: 3
 date: 2026-07-01
 title: "Bacalaureat 2025 vs 2026 — Delta"
 img: bac2526.png
-alt: BAC 2025 vs 2026 - Raport comparativ delta
 project-date: 2025 - 2026
-client: Raport comparativ
 category: Investigație de date
 report: bac2526
 stats: "promovare 76,56% → 76,98% · +22.897 candidați"
-description: |
-  <p>Comparație directă între rezultatele Bacalaureatului din 2025 (iunie) și 2026: diferențe pe materii, competențe digitale, repetenți, contestații și subvariante de dificultate.</p>
-  <p>Calculează delta dintre cele două digest-uri statistice și le vizualizează pe aceeași scară.</p>
-  <a class="btn btn-primary" href="/bac2526/" target="_blank" rel="noopener">
-    <i class="fa fa-balance-scale"></i> Deschide raportul &rarr;
-  </a>
-  <p class="modal-crosslink">Bazat pe <a href="/bac2025/" target="_blank" rel="noopener">BAC 2025</a> și <a href="/bac2026/" target="_blank" rel="noopener">BAC 2026</a>.</p>
+description: "Diferențele dintre 2025 (iunie) și 2026, pe aceeași scară: materii, competențe digitale, repetenți, contestații și subvariante de dificultate."
 ---

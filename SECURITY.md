@@ -33,8 +33,10 @@ comment services. All content is owner-authored. The residual risks are:
 - Frame-buster script in `js/freelancer.js` (Pages cannot set
   `X-Frame-Options`/`frame-ancestors`).
 - No external fonts, analytics or comment widgets; all JS/CSS/fonts are local.
-- No cookies, no localStorage/sessionStorage anywhere (the novel reader's font
-  control is in-memory only, per-page).
+- No cookies, no sessionStorage. The only localStorage key is
+  `reader-font-scale` (`js/reader-font.js`): written only when the reader clicks
+  the font buttons, removed at the default size — strictly necessary storage
+  (Law 506/2004 art. 4(6)(b)), disclosed in `/privacy/`.
 - The novel TOC script lives in `js/novel-toc.js` + `/novel/chapters.js`
   (Jekyll-rendered data) — the Jekyll-layer CSP is `script-src 'self'` with no
   `'unsafe-inline'`.
@@ -72,7 +74,7 @@ comment services. All content is owner-authored. The residual risks are:
 ## EU legislation posture
 
 - GDPR privacy notice: `/privacy/` (GitHub Pages processor disclosure, OSM tile
-  transfer, no cookies/analytics/localStorage).
+  transfer, no cookies/analytics; the one localStorage key is disclosed).
 - Legitimate Interests Assessment for the BAC candidate-level data: `/lia/`
   (`lia.html`; no direct identifiers, min-n aggregate thresholds, client-side
   only). The privacy notice no longer calls the data "anonymous" — it states

@@ -28,9 +28,9 @@ The user-facing surface is the rendered HTML. After building (`B` = build dir):
   `py scripts/verify_digests.py` → `VERIFY: OK`.
 - **Portfolio grid:** `grep -c 'col-sm-4 portfolio-item' "$B/index.html"` →
   number of `_posts`.
-- **Modals:** `grep -oE 'id="portfolioModal-[0-9]+"' "$B/index.html"` → one per
-  post, sequential; post HTML renders as real markup (a window around
-  "Deschide raportul" shows `<a class="btn btn-primary" href="/bacYYYY/" ...>`).
+- **Card links:** `grep -o 'class="card-link" href="[^"]*"' "$B/index.html"` →
+  one per post (`/bacYYYY/`) plus `/art47-hcl419/`, `/novel/`, `/fire-to-future/`.
+  There are no modals any more (`portfolioModal` count → 0).
 - **Post URLs redirect:** `"$B/2025/06/01/bac2025-iunie/index.html"` is the
   `report-redirect` stub (noindex + canonical/refresh to `/bac2025/`).
 - **Excluded files stay out:** no `CLAUDE.md`, `AUDIT.md`, `scripts/` or

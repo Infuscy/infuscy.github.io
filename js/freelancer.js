@@ -18,68 +18,19 @@
     }
 })();
 
-// jQuery for page scrolling feature - requires jQuery Easing plugin
-// Anchors may carry a path ("/#portfolio"): same-path anchors keep the
-// smooth scroll; cross-path anchors fall through to normal navigation
-// so the navbar links work from subpages too.
-$(function() {
-    var reduceMotion = window.matchMedia &&
-        window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    function smoothTo($target) {
-        var top = $target.offset().top;
-        if (reduceMotion) {
-            $('html, body').stop().scrollTop(top);
-            return;
-        }
-        $('html, body').stop().animate({
-            scrollTop: top
-        }, 1500, 'easeInOutExpo');
-    }
-    $('.page-scroll a').on('click', function(event) {
-        var href = $(this).attr('href') || '';
-        var hashIdx = href.indexOf('#');
-        if (hashIdx === -1) {
-            return; // plain/external link: normal navigation
-        }
-        var path = href.slice(0, hashIdx) || location.pathname;
-        var hash = href.slice(hashIdx);
-        if (path === location.pathname) {
-            var $target = $(hash);
-            if ($target.length) {
-                smoothTo($target);
-                event.preventDefault();
-            }
-        }
-        // else: link to another page - let the browser navigate
-    });
-    // Hero CTA is a plain anchor (not inside .page-scroll li).
-    $('.page-scroll-cta').on('click', function(event) {
-        var $target = $($(this).attr('href'));
-        if ($target.length) {
-            smoothTo($target);
-            event.preventDefault();
-        }
-    });
-});
+// In-page scrolling is CSS (scroll-behavior + scroll-margin-top in main.css),
+// so "/#portfolio" links work the same from the home page and from subpages.
 
-// Floating label headings for the contact form
-$(function() {
-    $("body").on("input propertychange", ".floating-label-form-group", function(e) {
-        $(this).toggleClass("floating-label-form-group-with-value", !! $(e.target).val());
-    }).on("focus", ".floating-label-form-group", function() {
-        $(this).addClass("floating-label-form-group-with-focus");
-    }).on("blur", ".floating-label-form-group", function() {
-        $(this).removeClass("floating-label-form-group-with-focus");
-    });
-});
-
-// Highlight the top nav as scrolling occurs
+// Highlight the top nav as scrolling occurs. The offset covers the sections'
+// scroll-margin-top (4rem) plus a little slack.
 $('body').scrollspy({
-    target: '.navbar-fixed-top'
-})
+    target: '.navbar-fixed-top',
+    offset: 80
+});
 
-// Closes the Responsive Menu on Menu Item Click
-$('.navbar-collapse ul li a').click(function() {
+// Closes the Responsive Menu on Menu Item Click (not on the dropdown toggle,
+// which would collapse the menu before its submenu can be used).
+$('.navbar-collapse ul li a:not(.dropdown-toggle)').on('click', function() {
     $('.navbar-toggle:visible').click();
 });
 
@@ -91,26 +42,22 @@ $(function() {
     $menu.on('hidden.bs.collapse', function() { $toggle.attr('aria-expanded', 'false'); });
 });
 
-// Portfolio modals: focus management + keyboard-dismissable custom X.
-// Keeps jQuery-3 compatible API (.on only).
+// Scroll-to-top button: only shown once the hero is out of view.
 $(function() {
-    var lastTrigger = null;
-    $('.portfolio-modal').on('show.bs.modal', function(event) {
-        lastTrigger = event.relatedTarget || document.activeElement;
-    });
-    $('.portfolio-modal').on('shown.bs.modal', function() {
-        $(this).find('[data-dismiss="modal"].btn, .close-modal').first().focus();
-    });
-    $('.portfolio-modal').on('hidden.bs.modal', function() {
-        if (lastTrigger && lastTrigger.focus) {
-            lastTrigger.focus();
+    var $btn = $('.scroll-top');
+    if (!$btn.length) {
+        return;
+    }
+    var ticking = false;
+    function update() {
+        $btn.toggleClass('is-visible', window.scrollY > 600);
+        ticking = false;
+    }
+    window.addEventListener('scroll', function() {
+        if (!ticking) {
+            ticking = true;
+            window.requestAnimationFrame(update);
         }
-        lastTrigger = null;
-    });
-    $('.portfolio-modal .close-modal').on('keydown', function(event) {
-        if (event.which === 13 || event.which === 32) {
-            event.preventDefault();
-            $(this).closest('.portfolio-modal').modal('hide');
-        }
-    });
+    }, { passive: true });
+    update();
 });

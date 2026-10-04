@@ -650,6 +650,9 @@ section.band {
 }
 .civic-card {
     border-left: 4px solid #{{ site.color.primary }};
+    display: flex;
+    flex-direction: column;
+    width: 100%;
 }
 .fiction-card {
     text-align: left;

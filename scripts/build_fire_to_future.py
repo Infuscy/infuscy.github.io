@@ -2,7 +2,7 @@
 """Build the per-chapter web edition of FIRE TO FUTURE for infuscy.github.io.
 
 Reads the markdown book in C:\\GIT\\Apocalypse\\book (front matter, 51 chapters in
-6 parts, appendices A-G), converts each section into a standalone reader page
+6 parts, appendices A-G, the source policy), converts each section into a standalone reader page
 under fire-to-future/, writes the ToC data file _data/fire_to_future_chapters.json,
 and copies the print PDF (Fire-To-Future.pdf) next to the pages.
 
@@ -18,10 +18,11 @@ Usage:
 Requires Python 3 + the `markdown` package (pip install markdown).
 
 The script deletes only the generated page files inside fire-to-future/
-(front-matter.html, chNN.html, appendix-X.html) and never touches index.html,
+(front-matter.html, chNN.html, appendix-X.html, source-policy.html) and never touches index.html,
 chapters.js, or anything outside that directory.
 """
 import argparse
+import importlib.util
 import json
 import os
 import re
@@ -65,14 +66,14 @@ PARTS = [
       "part4/ch30_sanitation.md", "part4/ch31_medicine.md", "part4/ch32_green_revolution.md",
       "part4/ch33_flight.md", "part4/ch34_vacuum_tubes.md", "part4/ch35_semiconductors.md",
       "part4/ch36_computers.md", "part4/ch37_nuclear.md"]),
-    ("Part V", "Planetary Dominance",
+    ("Part V", "Planetary Systems",
      "1950 \u2192 present",
      ["part5/ch38_polymers_materials.md", "part5/ch39_rocketry.md", "part5/ch40_satellites.md",
       "part5/ch41_fiber_optics.md", "part5/ch42_internet.md", "part5/ch43_energy_mastery.md",
       "part5/ch44_biotech.md", "part5/ch45_robotics.md", "part5/ch46_machine_intelligence.md",
       "part5/ch47_institutions.md"]),
-    ("Part VI", "The Martial Thread",
-     "War as a Technology Driver",
+    ("Optional Defense Annex", "Defense and Wartime Spillovers",
+     "Optional context — outside the core build sequence",
      ["part6/ch48_fortification.md", "part6/ch49_gunpowder_weapons.md",
       "part6/ch50_naval_power.md", "part6/ch51_industrial_war.md"]),
 ]
@@ -83,6 +84,9 @@ APPENDICES = [
     "appendix_F_glossary.md", "appendix_G_key_numbers.md",
 ]
 
+# printed after the appendices (book/tools/build_html.py REFERENCE_NOTES)
+REFERENCE_NOTES = ["SOURCE_POLICY.md"]
+
 FRONT_MATTER = "00_front_matter.md"
 
 # book-relative posix path -> key (filename stem)
@@ -90,7 +94,7 @@ KEYS = {}
 for _part in PARTS:
     for _f in _part[3]:
         KEYS[os.path.splitext(os.path.basename(_f))[0]] = _f
-for _f in APPENDICES + [FRONT_MATTER]:
+for _f in APPENDICES + REFERENCE_NOTES + [FRONT_MATTER]:
     KEYS[os.path.splitext(os.path.basename(_f))[0]] = _f
 
 
@@ -124,8 +128,27 @@ def page_file(key):
         return "front-matter.html"
     if key.startswith("appendix_"):
         return f"appendix-{key.split('_')[1].lower()}.html"
+    if key == "SOURCE_POLICY":
+        return "source-policy.html"
     num = int(re.match(r"ch(\d+)", key).group(1))
     return f"ch{num:02d}.html"
+
+
+def nav_label(kind, num):
+    """Prev/next button text for a sequence entry."""
+    return {"chapter": f"Chapter {num}", "appendix": f"Appendix {num}",
+            "reference": "Source policy"}.get(kind, "Front matter")
+
+
+def load_callouts(book_dir):
+    """Callout label -> CSS class suffix, read from the book's own
+    book/tools/callouts.py (the vocabulary its print build styles and its
+    linter enforces), so new labels never drift out of sync."""
+    spec = importlib.util.spec_from_file_location(
+        "ftf_callouts", os.path.join(book_dir, "tools", "callouts.py"))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod.CALLOUTS
 
 
 def word_count(rel, book_dir):
@@ -138,6 +161,12 @@ class Converter:
 
     def __init__(self, book_dir):
         self.book_dir = book_dir
+        self.callouts = load_callouts(book_dir)
+        self.callout_re = re.compile(
+            r"<p><strong>("
+            + "|".join(re.escape(k) for k in sorted(self.callouts, key=len, reverse=True))
+            + r")[:.]?</strong>"
+        )
         self.md = markdown.Markdown(
             extensions=["tables", "fenced_code", "sane_lists", "toc"],
             extension_configs={"toc": {"anchorlink": False}},
@@ -197,7 +226,9 @@ class Converter:
         body = re.sub(r"(</h1>\s*)<blockquote>", r'\1<blockquote class="meta">', body, count=1)
 
         def meta_breaks(m):
-            inner = re.sub(r"(<strong>(?:Requires|Unlocks):</strong>)", r"<br>\1", m.group(1))
+            inner = re.sub(
+                r"\s*(?:·\s*)?(<strong>(?:Requires|Unlocks|Annex status|Data snapshot):</strong>)",
+                r"<br>\1", m.group(1))
             return f'<blockquote class="meta">{inner}</blockquote>'
 
         body = re.sub(
@@ -206,23 +237,12 @@ class Converter:
             body,
             flags=re.S,
         )
-        # callout paragraphs (mirrors book/tools/build_html.py Gate 4 mapping)
-        labels = {
-            "key threshold": "key", "dead end avoided": "dead", "dead end": "dead", "jump": "jump",
-            "safety warning": "warn", "operational hazard": "hazard", "scope note": "scope",
-            "safety doctrine": "warn", "safety doctrine (binding)": "warn", "scope note (binding)": "scope",
-        }
-
+        # callout paragraphs (mirrors book/tools/build_html.py; labels from callouts.py)
         def callout(m):
             label = m.group(1)
-            cls = labels[label.lower()]
-            return f'<p class="co co-{cls}"><strong>{label}:</strong>'
+            return f'<p class="co co-{self.callouts[label]}"><strong>{label}:</strong>'
 
-        body = re.sub(
-            r"<p><strong>(Key threshold|Dead end avoided|Dead end|Jump|Safety warning|Operational hazard|Scope note|Safety doctrine(?: \(binding\))?|Scope note \(binding\))[:.]?</strong>",
-            callout,
-            body,
-        )
+        body = self.callout_re.sub(callout, body)
         # horizontal-scroll wrapper for wide tables
         body = body.replace("<table>", '<div class="table-wrap"><table>')
         body = body.replace("</table>", "</table></div>")
@@ -364,12 +384,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -475,7 +497,7 @@ TEMPLATE = """<!DOCTYPE html>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   @NEXT@
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE \u2014 The Complete Technology Ladder \u00b7 <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE \u2014 A Field Manual for Rebuilding Technology \u00b7 <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>
@@ -518,6 +540,9 @@ def main():
         key = os.path.splitext(os.path.basename(rel))[0]
         letter = key.split("_")[1]
         seq.append((key, rel, "Appendices", "appendix", letter))
+    for rel in REFERENCE_NOTES:
+        key = os.path.splitext(os.path.basename(rel))[0]
+        seq.append((key, rel, "Reference note", "reference", ""))
 
     n_chapters = sum(1 for s in seq if s[3] == "chapter")
     n_appendices = sum(1 for s in seq if s[3] == "appendix")
@@ -542,22 +567,25 @@ def main():
             display_title = title
             progress = f"Chapter {num_label} of {n_chapters}"
             data_num = int(num_label)
-        else:
+        elif kind == "appendix":
             display_title = re.sub(r"^Appendix\s+\w+\s*[—–-]\s*", "", title)
             progress = f"Appendix {num_label} of {n_appendices}"
+            data_num = num_label
+        else:
+            display_title = title
+            progress = "Reference note"
+            data_num = ""
 
         # prev/next across the whole book sequence
         prev_link, next_link = '<span class="reader-nav-link disabled">\u2190 Start</span>', \
             '<span class="reader-nav-link disabled">End \u2192</span>'
         if idx > 0:
             prev_key, prev_rel, _p, prev_kind, prev_num = seq[idx - 1]
-            prev_label = "Chapter " + prev_num if prev_kind == "chapter" else \
-                ("Appendix " + prev_num if prev_kind == "appendix" else "Front matter")
+            prev_label = nav_label(prev_kind, prev_num)
             prev_link = f'<a href="{page_file(prev_key)}" class="reader-nav-link">\u2190 {prev_label}</a>'
         if idx < len(seq) - 1:
             next_key, _next_rel, _p, next_kind, next_num = seq[idx + 1]
-            next_label = "Chapter " + next_num if next_kind == "chapter" else \
-                ("Appendix " + next_num if next_kind == "appendix" else "Front matter")
+            next_label = nav_label(next_kind, next_num)
             next_link = f'<a href="{page_file(next_key)}" class="reader-nav-link">{next_label} \u2192</a>'
 
         page_raw = raw_title if kind != "front" else "FIRE TO FUTURE \u2014 What This Guide Is"
@@ -592,7 +620,7 @@ def main():
     # ---- stale page cleanup: remove old generated pages not in the manifest ----
     kept = {f for f, _k in pages} | {"index.html", "chapters.js"}
     for name in os.listdir(OUT_PAGES_DIR):
-        if name.endswith(".html") and re.match(r"^(front-matter|ch\d{2}|appendix-[a-g])\.html$", name):
+        if name.endswith(".html") and re.match(r"^(front-matter|ch\d{2}|appendix-[a-g]|source-policy)\.html$", name):
             if name not in kept:
                 os.remove(os.path.join(OUT_PAGES_DIR, name))
 

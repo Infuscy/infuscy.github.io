@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,10 +237,9 @@ body {
 <main class="reader-content">
 <h1 id="ch41_fiber_optics-chapter-41-fiber-optics-and-global-telephony">Chapter 41: Fiber Optics and Global Telephony</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1966 Kao proposal → present · <strong>Difficulty:</strong> high
-<br><strong>Requires:</strong> <a href="ch17.html">Ch 17</a> glass, <a href="ch34.html">Ch 34</a>/<a href="ch35.html">35</a> photonics/electronics, <a href="ch26.html">Ch 26</a> power · <br><strong>Unlocks:</strong> <a href="ch42.html">Ch 42</a>'s physical layer, global real-time civilization</p>
+<p><strong>Era span:</strong> 1966 Kao proposal → present · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch17.html">Ch 17</a>, <a href="ch26.html">Ch 26</a>, <a href="ch34.html">Ch 34</a>, <a href="ch35.html">Ch 35</a><br><strong>Unlocks:</strong> <a href="ch42.html">Ch 42</a><br><strong>Data snapshot:</strong> volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</p>
 </blockquote>
-<p>Copper carries bandwidth; glass carries BANDWIDTH. Fiber moved humanity from scarce, expensive communication to ambient, effectively-free communication — the substrate the internet assumes. This chapter builds light into a utility.</p>
+<p>Copper and glass carry different bandwidth-distance-cost regimes. Fibre optic systems moved long-haul communication from scarce and expensive to abundant capacity in many markets, but glass, rights of way, repeaters, landing stations, power, maintenance, and failure recovery still have real costs. This chapter explains the physical utility.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Total internal reflection and loss ladder">
 <title>Total internal reflection and loss ladder</title>
@@ -262,7 +263,7 @@ body {
 <rect x="380" y="104" width="15" height="18" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
 <text x="401" y="117" font-size="9" font-weight="bold">Corning 1970 → modern 0.2 dB/km</text>
 <text x="401" y="130" font-size="9">half the light survives ~15–20 km</text>
-<text x="624" y="146" text-anchor="end" font-size="9">bar length ∝ log(attenuation)</text>
+<text x="624" y="146" text-anchor="end" font-size="9">log scale: each bar step ≈ 10× less loss</text>
 <text x="498" y="166" text-anchor="middle" font-size="8.5" font-style="italic">enemy: Fe/Cu ions + OH water — vapor deposition purity (Ch 35)</text>
 </svg>
 <figcaption><strong>Figure 41.1.</strong> The step in refractive index is the pipe; impurity removal is the breakthrough. Kao reframed attenuation as dirt, Corning removed the dirt — four years from calculation to communication-grade glass.</figcaption>
@@ -270,7 +271,7 @@ body {
 
 <h2 id="ch41_fiber_optics-411-why-glass">41.1 Why Glass</h2>
 <p>Total internal reflection traps light inside a core whose index exceeds its cladding — the principle of optical fiber. But ordinary glass absorbs catastrophically (~dB per METER): every meter steals signal until nothing arrives. Kao &amp; Hockham (1966) computed that IF attenuation fell below ~20 dB/km, communication-grade fiber was possible; impurities (iron, copper ions, water's OH) were the enemy, not physics.</p>
-<p>Corning delivered &lt;20 dB/km in 1970 via vapor-deposition purity; modern transmission fiber runs ~0.15–0.2 dB/kM near 1550 nm — half the light survives ~15–20 km. Purity culture (<a href="ch35.html">Ch 35</a>'s discipline applied to silica) is the whole ballgame.</p>
+<p>Corning delivered &lt;20 dB/km in 1970 via vapor-deposition purity; modern transmission fiber runs ~0.15–0.2 dB/km near 1550 nm — half the light survives ~15–20 km. Purity culture (<a href="ch35.html">Ch 35</a>'s discipline applied to silica) is the whole ballgame.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -312,7 +313,7 @@ body {
 <h2 id="ch41_fiber_optics-413-sources-and-amplifiers">41.3 Sources and Amplifiers</h2>
 <ul>
 <li>Laser diodes (edge-emitting, then DFB single-frequency) inject light efficiently into single-mode cores; direct modulation gave way to external modulators at speed.</li>
-<li><strong>EDFA (1987):</strong> pump a spool of erbium-doped fiber with 980/1480 nm lasers and it amplifies passing 1550-nm signals OPTICALLY — no conversion to electricity mid-ocean. Transoceanic systems became economic overnight.</li>
+<li><strong>EDFA (1987):</strong> pump an erbium-doped fibre section with 980/1480 nm light and it amplifies passing 1550-nm signals optically. Removing regenerative electronics transformed long-haul capacity over subsequent system generations; adoption was not a single overnight event.</li>
 <li><strong>WDM:</strong> dozens-to-hundreds of closely-spaced wavelengths share one fiber (prism-like mux/demux splitting colors at endpoints); coherent detection + DSP later packed terabits per fiber pair. Capacity growth outpaced Moore's law for stretches — spectrum is the new acreage.</li>
 </ul>
 <pre><code>TRANSMIT: DFB lasers (one color each) → MUX (combine colors) → FIBER → EDFA (optical boost)
@@ -410,16 +411,16 @@ body {
 <li>Mobile generations rode semiconductor progress (<a href="ch35.html">Ch 35</a>): 1G analog FM → 2G GSM digital + SMS → 3G packet data → 4G LTE all-IP → 5G massive MIMO/beamforming. Cell concept: reuse frequencies spatially; handoff keeps calls alive at walking/driving speed.</li>
 <li>VoIP collapsed circuit/packet distinction entirely — voice became an application.</li>
 </ul>
-<pre><code>CELL = hexagon of coverage; frequency reused 7 cells away; handoff at walking/driving speed
+<pre><code>CELL = hexagon of coverage; frequencies reused cluster to cluster (classic 7-cell pattern); handoff at walking/driving speed
 1G FM voice → 2G digital+SMS → 3G packets → 4G all-IP → 5G beams (MIMO)
 </code></pre>
 <p class="co co-dead"><strong>Dead end avoided:</strong> building parallel dedicated networks per service (voice/video/data). Converged IP infrastructure won on economics; plan convergence from the start.</p>
-<p class="co co-key"><strong>Key threshold:</strong> when international bandwidth costs fall below the price of postage-equivalent value exchange, global real-time collaboration becomes default — remote work, telemedicine, distributed science all become ordinary rather than exotic. That threshold crossed circa the 2000s fiber glut; the overbuild was civilization's bargain of the century (<a href="ch42.html">Ch 42</a> inherits it directly).</p>
+<p class="co co-scope"><strong>Planning marker:</strong> international bandwidth cost, latency, reliability, local access, and affordability determine whether global collaboration is practical. No single price substitutes for those conditions. The early-2000s fibre overbuild created strategic inventory, but “bargain of the century” is advocacy, not an engineering threshold (<a href="ch42.html">Ch 42</a> inherits the capacity question).</p>
 <h2 id="ch41_fiber_optics-417-the-fiber-papers">41.7 The Fiber Papers</h2>
 <ul>
-<li>Light-guiding-by-water-jet demos trace to Colladon (Geneva, 1840s) with Tyndall's Royal Institution version (1870) making it famous — total internal reflection entertained audiences for a century before communication used it.</li>
+<li>Light-guiding-by-water-jet demos trace to Colladon (Geneva, 1840s) with Tyndall's Royal Institution version (1854) making it famous — total internal reflection entertained audiences for a century before communication used it.</li>
 <li>Maiman's ruby laser (Hughes, May 16, 1960) supplied the carrier source; glass remained the bottleneck until <strong>Kao &amp; Hockham's 1966 calculation</strong> reframed attenuation as impurity removal. Corning's team (Maurer, Keck, Schultz) delivered ~16.8 dB/km titanium-doped silica fiber in April 1970, then pushed lower — the purity-culture chapter promise kept within four years.</li>
-<li>First operational systems: AT&amp;T's Chicago downtown trial (1976) ran 45 Mbps under city streets; TAT-8 (1988) crossed the Atlantic at 280 Mbps using electronic repeaters; erbium-doped amplifiers (Southampton and Bell Labs papers, 1987) removed repeaters' electronics from the following cable generations — capacity then compounded via wavelength division.</li>
+<li>First operational systems: AT&amp;T's Chicago downtown system (1977, after a 1976 Atlanta trial) ran 45 Mbps under city streets; TAT-8 (1988) crossed the Atlantic at 280 Mbps using electronic repeaters; erbium-doped amplifiers (Southampton and Bell Labs papers, 1987) removed repeaters' electronics from the following cable generations — capacity then compounded via wavelength division.</li>
 <li>Submarine maintenance reality, from repair logs: anchors and trawls account for most faults; shark bites are documented but marginal; fault location runs on OTDR backscatter arithmetic (<a href="#ch41_fiber_optics-414-submarine-cables">§41.4</a>).</li>
 <li>Historians of bandwidth note the pattern: each overbuild (fiber glut circa 2001, dark fiber resold cheaply) preceded the next usage explosion — video streaming consumed the glut the bust left behind (<a href="ch42.html">Ch 42</a> inherits the lesson: capacity arrives before demand proves it).</li>
 </ul>
@@ -432,7 +433,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch42.html" class="reader-nav-link">Chapter 42 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,10 +237,10 @@ body {
 <main class="reader-content">
 <h1 id="ch49_gunpowder_weapons-chapter-49-gunpowder-weapons-matchlock-to-machine-gun">Chapter 49: Gunpowder Weapons: Matchlock to Machine Gun</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 10th c. China → 20th c. automatic weapons · <strong>Difficulty:</strong> mid–high
-<br><strong>Requires:</strong> <a href="ch21.html">Ch 21</a> powder, <a href="ch14.html">Ch 14</a>/<a href="ch27.html">27</a> metallurgy, <a href="ch15.html">Ch 15</a> machining · <br><strong>Unlocks:</strong> <a href="ch51.html">Ch 51</a> industrial war, state formation pressures</p>
+<p><strong>Era span:</strong> 10th c. China → 20th c. automatic weapons · <strong>Difficulty:</strong> mid–high<br><strong>Requires:</strong> <a href="ch14.html">Ch 14</a>, <a href="ch15.html">Ch 15</a>, <a href="ch21.html">Ch 21</a>, <a href="ch27.html">Ch 27</a><br><strong>Unlocks:</strong> <a href="ch51.html">Ch 51</a><br><strong>Annex status:</strong> optional; historical and engineering context only</p>
 </blockquote>
 <p>Gunpowder weapons are chemistry (energy release), mechanics (confining and directing it), and precision manufacturing (making parts interchangeable under battlefield tolerances) fused into one artifact. Their lineage drove interchangeable-parts manufacture, machine-tool development, and ballistics science as hard as any civilian demand — several chapters of this book trace directly back to arms contracts. This chapter covers the hardware at textbook depth; doctrine and organization live in <a href="ch51.html">Ch 51</a>.</p>
+<p class="co co-gate"><strong>Annex competence gate:</strong> historical and engineering study only. The manual does not authorise firearm or ammunition construction, loading, proof firing, repair, storage, marksmanship, or range work. Such activities require licensed and qualified specialists, controlled facilities and materials, written test and safety procedures, applicable law, and emergency response.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Lock evolution timeline">
 <title>Lock evolution timeline</title>
@@ -285,7 +287,7 @@ body {
 
 <h2 id="ch49_gunpowder_weapons-491-origins-and-diffusion">49.1 Origins and Diffusion</h2>
 <p>Chinese alchemists experimenting with saltpeter mixtures produced incendiary and explosive preparations by the 9th century; the <em>Wujing Zongyao</em> (1044) records the earliest surviving gunpowder formulas — including "poisonous smoke" bombs for siege defense. The critical invention — confining the charge behind a projectile in a tube to use the gas pressure mechanically — appears in Chinese fire-lances (bamboo/tube flame-throwers evolving into projectile launchers) and metal hand cannons by the late 13th century (the Heilongjiang hand cannon, dated 1288, is the earliest securely dated firearm). Diffusion westward along Mongol exchange routes brought gunpowder weapons to Europe and the Islamic world within a generation or two of each other (~1320s); the first European manuscript depiction of a cannon dates to 1326–27.</p>
-<p><strong>Diffusion note for rebuilders:</strong> the tube-behind-projectile idea transfers faster than any hardware — demonstrate a fire-lance once and every bronze-casting shop (<a href="ch10.html">Ch 10</a>) becomes a gun founder within the year. Guard the powder supply (<a href="ch21.html">Ch 21</a> nitre beds), not the tube shape.</p>
+<p><strong>Historical diffusion note:</strong> the tube-behind-projectile principle spread through exchange, warfare, and technical translation. That history is not an instruction to build or test a fire-lance or any other weapon; the relevant capability lesson is that metallurgical, mechanical, and manufacturing knowledge crossed sectors unevenly and with severe human consequences.</p>
 <h2 id="ch49_gunpowder_weapons-492-small-arms-lineage">49.2 Small Arms Lineage</h2>
 <div class="table-wrap"><table>
 <thead>
@@ -342,7 +344,7 @@ body {
 </tr>
 </tbody>
 </table></div>
-<p>Tactical arithmetic shaped formations for two centuries: an arquebusier/musketeer needed ~30 seconds per reload while pikes protected him from cavalry; hence <strong>pike-and-shot squares</strong>, then <strong>volley fire by rotation</strong> (Maurice of Nassau's countermarch drills, 1590s — see <a href="ch51.html">Ch 51</a>). The plug bayonet (1670s) then socket bayonet (Vaquette de Gribeauval-era French service; adopted widely ~1700s) let every musket double as a spear, retiring the pike entirely.</p>
+<p>Tactical arithmetic shaped formations for two centuries: an arquebusier/musketeer needed ~30 seconds per reload while pikes protected him from cavalry; hence <strong>pike-and-shot squares</strong>, then <strong>volley fire by rotation</strong> (Maurice of Nassau's countermarch drills, 1590s — see <a href="ch51.html">Ch 51</a>). The plug bayonet (1670s) then socket bayonet (French service from the late 1680s; adopted widely by ~1700) let every musket double as a spear, retiring the pike entirely.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Minié ball and firepower steps">
 <title>Minié ball and firepower steps</title>
@@ -360,7 +362,7 @@ body {
 <text x="230" y="112" font-size="9">1860s slaughter</text>
 <text x="465" y="42" text-anchor="middle" font-size="10" font-weight="bold">SMOKELESS 1884 → AUTOMATIC</text>
 <rect x="330" y="60" width="150" height="24" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
-<text x="405" y="75" text-anchor="middle" font-size="9">Poudre B: 3× velocity</text>
+<text x="405" y="75" text-anchor="middle" font-size="9">Poudre B: ~1.5× speed</text>
 <rect x="330" y="88" width="270" height="24" fill="#cfe0ea" stroke="#16130e" stroke-width="1.5"/>
 <text x="465" y="103" text-anchor="middle" font-size="9">small-bore + magazine + Maxim 500+/min</text>
 <rect x="330" y="116" width="270" height="24" fill="#4a4436" stroke="#16130e" stroke-width="1.5"/>
@@ -375,8 +377,8 @@ body {
 <ol>
 <li><strong>Minié ball (1849):</strong> hollow-based conical bullet expands into grooves on firing — rifle accuracy at musket-loading speed. Crimean War (1853–56) and American Civil War (1861–65) casualty tables reflect it immediately (massed infantry vs rifled muskets at ~400 m = slaughter; Pickett's Charge and similar assaults are the data points).</li>
 <li><strong>Breechloading + metallic cartridge:</strong> Dreyse needle gun (Prussia, adopted 1841, decisive at Königgrätz 1866 vs Austrian muzzle-loaders — prone reloading), Chassepot (France 1866), then bolt-action brass-cartridge rifles (Mauser 71/84, Gewehr 98; Lee-Metford/Lee-Enfield with magazine).</li>
-<li><strong>Smokeless powder (Vielle's Poudre B, 1884):</strong> tripled velocities, cleared battlefields of telltale smoke, enabled smaller-caliber high-velocity cartridges (.303, 7.92×57, 8 mm Lebel) — modern ammunition was born here.</li>
-<li><strong>Semi/full automatic small arms:</strong> Maxim 1884 (recoil-operated machine gun — see §49.5), self-loading pistols (Borchardt/Luger 1893–1900), assault-rifle concept (StG 44, Germany 1943–44 — selective-fire, intermediate 7.92×33 cartridge, mass-produced with stamped parts); AK-47 (Kalashnikov, adopted 1949 — extreme reliability under neglect via loose tolerances and generous clearances); M16 (Armalite/Colt, US 1960s — early 1965 Vietnam jamming crisis traced to powder/propellant change and missing chrome chamber lining; corrected M16A1 became the archetype of direct-impingement small bores).</li>
+<li><strong>Smokeless powder (Vieille's Poudre B, 1884):</strong> raised muzzle velocities by roughly half (the 1886 Lebel's ~630 m/s against ~430 m/s for the black-powder Gras it replaced), cleared battlefields of telltale smoke, enabled smaller-caliber high-velocity cartridges (.303, 7.92×57, 8 mm Lebel) — modern ammunition was born here.</li>
+<li><strong>Semi/full automatic small arms:</strong> Maxim 1884 (recoil-operated machine gun — see §49.3), self-loading pistols (Borchardt/Luger 1893–1900), assault-rifle concept (StG 44, Germany 1943–44 — selective-fire, intermediate 7.92×33 cartridge, mass-produced with stamped parts); AK-47 (Kalashnikov, adopted 1949 — extreme reliability under neglect via loose tolerances and generous clearances); M16 (Armalite/Colt, US 1960s — the 1966–67 Vietnam jamming crisis traced to powder/propellant change and missing chrome chamber lining; corrected M16A1 became the archetype of direct-impingement small bores).</li>
 </ol>
 <h2 id="ch49_gunpowder_weapons-493-machine-guns-and-the-arithmetic-they-forced">49.3 Machine Guns and the Arithmetic They Forced</h2>
 <ul>
@@ -424,7 +426,7 @@ body {
 <h2 id="ch49_gunpowder_weapons-494-artillery-and-armor">49.4 Artillery and Armor</h2>
 <p>Artillery, not rifles, inflicted most combat deaths of WWI (~60 % of casualties by most tabulations):</p>
 <ul>
-<li>Smoothbore spherical shot gave way to explosive shells usable against ships and earthworks (Paixhans shell guns, 1820s — demonstrated against wooden fleets at Navarino 1827/Sinope 1853, triggering ironclads <a href="ch50.html">Ch 50</a>).</li>
+<li>Smoothbore spherical shot gave way to explosive shells usable against ships and earthworks (Paixhans shell guns, trialled 1824 and adopted from the late 1830s — decisively demonstrated against a wooden squadron at Sinope 1853, triggering ironclads <a href="ch50.html">Ch 50</a>).</li>
 <li>Rifled breechloaders (Armstrong's wrought-iron built-up guns 1855; Krupp cast-steel breechloaders winning adoption through the 1860s) extended ranges to kilometers; Franco-Prussian War 1870–71 showed German artillery preparation deciding battles (Sedan).</li>
 <li><strong>French 75 mm Model 1897:</strong> hydro-pneumatic recoil returned the tube to battery without re-laying — aimed rapid fire ~15 rounds/min; the pattern (recoil system + quick-fusing shells + shield for crew) defines field artillery ever since.</li>
 <li>Indirect fire mathematics: WWI required firing from beyond visual range — sound ranging (flash spotting + microphone time-difference triangulation), survey-controlled gunnery, meteorological corrections, predicted barrages. Counter-battery duels became applied physics contests (<a href="ch20.html">Ch 20</a> culture militarized).</li>
@@ -440,16 +442,16 @@ body {
 <li>Terminal ballistics and wound ballistics founded modern trauma medicine's dataset (<a href="ch31.html">Ch 31</a> — Larrey's triage, Korean-War mobile surgical hospitals).</li>
 </ul>
 <h2 id="ch49_gunpowder_weapons-496-what-this-chapter-means-for-the-rebuild-plan">49.6 What This Chapter Means for the Rebuild Plan</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> every firearm is a pressure vessel fired beside the face and hands — hangfires cook off late, bore obstructions burst barrels, and mixed or degraded charges kill the gunner first. Prove every lot on a remote range, clear and rod every bore before loading, keep muzzles downrange in exclusion zones, segregate powders and primers by lot, and destroy suspect ammunition in place; never clear a misfire by looking down the muzzle.</p>
-<p>A rebuilding civilization inherits the whole lineage as knowledge. Sequencing note for Appendix A readers: powder chemistry arrives at <a href="ch21.html">Ch 21</a> primarily for mining; converting it into firearms requires precision boring and standardized cartridges — i.e., the <a href="ch15.html">machine-tool base of Ch 15</a> and the steel of <a href="ch22.html">Ch 22</a>/<a href="ch27.html">27</a>. Arms production historically PAID for those very capabilities (interchangeable parts originated in armories: le Gribéval France 1765+, Springfield/Harpers Ferry US 1810s–20s with machinists like John H. Hall whose gauge-driven milling practice spread industry-wide). Expect the same feedback loop: military demand funds your precision industries, which serve everything else afterward.</p>
-<p><strong>Armory-first doctrine:</strong> gauge-driven milling (<a href="ch15.html">Ch 15</a> §15.5) on one rifle part teaches interchangeability for every civilian product after. Fund the armory's gauges; inherit the industry's future.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> firearms and ammunition combine stored chemical energy, a pressure boundary, a projectile, and often a person immediately behind the muzzle. Hangfires, degraded or incompatible components, obstructions, unsafe storage, and unqualified modification can kill or disable people well beyond the apparent target. Testing, maintenance, ammunition identification, storage, range control, and destruction of suspect items belong to qualified specialists under written procedures and applicable law; this manual supplies no firing or clearance procedure.</p>
+<p>A rebuilding civilisation inherits the whole lineage as history, not as a default procurement path. Precision boring, gauges, and armory practice contributed to manufacturing history, but interchangeable parts also arose from clocks, textile machinery, sewing machines, and civilian production. Arms demand can fund a precision ecosystem; it can also orient that ecosystem toward a narrow military purpose. The general lesson is to preserve reusable industrial capability while keeping military decisions under accountable civilian authority.</p>
+<p><strong>Industrial lesson:</strong> gauge-driven milling can teach repeatable tolerancing and interchangeability. A recovery programme should build that capability around civilian inspection, safety, and production needs rather than making weapons the default first customer.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch48.html" class="reader-nav-link">← Chapter 48</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch50.html" class="reader-nav-link">Chapter 50 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

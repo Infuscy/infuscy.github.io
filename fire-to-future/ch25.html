@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch25_electricity_1-chapter-25-electricity-i-charge-batteries-electromagnetism-telegraph">Chapter 25: Electricity I: Charge, Batteries, Electromagnetism, Telegraph</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1745 Leyden jar → 1866 transatlantic cable · <strong>Difficulty:</strong> mid–high
-<br><strong>Requires:</strong> <a href="ch20.html">Ch 20</a> measurement culture, <a href="ch17.html">Ch 17</a> chemistry, <a href="ch15.html">Ch 15</a> wire drawing · <br><strong>Unlocks:</strong> <a href="ch26.html">Ch 26</a> power engineering, <a href="ch34.html">Ch 34</a> electronics</p>
+<p><strong>Era span:</strong> 1745 Leyden jar → 1866 transatlantic cable · <strong>Difficulty:</strong> mid–high<br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch17.html">Ch 17</a>, <a href="ch20.html">Ch 20</a><br><strong>Unlocks:</strong> <a href="ch26.html">Ch 26</a>, <a href="ch34.html">Ch 34</a></p>
 </blockquote>
 <p>This chapter builds electricity as a LABORATORY discipline: store it (capacitors), generate it continuously (batteries), measure it (instruments), command it at a distance (telegraph). Power engineering waits for the next chapter; without this one, that one is impossible.</p>
 <figure class="fig">
@@ -281,11 +282,11 @@ body {
 <h2 id="ch25_electricity_1-251-static-charge-and-storage">25.1 Static Charge and Storage</h2>
 <ul>
 <li>Rubbing dissimilar materials separates charge; like charges repel, unlike attract.</li>
-<li><strong>Leyden jar (1745):</strong> foil-lined glass jar = capacitor. Charge it from friction machines, discharge through your audience (parlor science paid for laboratories). Capacitance C = Q/V intuition: bigger plates, thinner dielectric, more storage.</li>
+<li><strong>Leyden jar (1745):</strong> a foil-lined glass jar is a capacitor. Historical demonstrations discharged stored energy through people, sometimes fatally; present work uses rated components, a controlled discharge path, isolation, and interlocks. Capacitance <code>C = Q/V</code>: larger plates and a thinner dielectric increase storage.</li>
 <li><strong>Coulomb's torsion balance:</strong> force ∝ q₁q₂/r² — inverse-square law measured directly (<a href="ch20.html">Ch 20</a> method in action).</li>
 <li>Franklin's single-fluid convention survives in circuit language ("current flows + to −") even though electrons drift oppositely — keep the convention, note the truth.</li>
 </ul>
-<p><strong>Jar gang rules:</strong> parallel jars add capacitance (bigger bang); series divides voltage stress. Discharge with insulated tongs, one hand behind back — the parlor trick that stops hearts at scale. Log capacitance per jar (foil area ÷ glass thickness); matched gangs share voltage evenly.</p>
+<p><strong>Capacitor gangs:</strong> parallel connection adds capacitance at the same voltage; series connection divides voltage but <strong>reduces</strong> equivalent capacitance. For identical capacitors, <code>C_parallel = nC</code> and <code>C_series = C/n</code>. Do not use capacitance as a substitute for a controlled discharge resistor and rated switching equipment. Log measured capacitance, voltage rating, insulation, and leakage; matched gangs require balancing resistors where unequal discharge could be hazardous.</p>
 <h2 id="ch25_electricity_1-252-the-battery-continuous-current">25.2 The Battery: Continuous Current</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> battery rooms make hydrogen and acid together — charging vents explosive gas, sulfuric acid blinds, and shorted cells weld tools to terminals. Ventilate charging spaces, keep flame and steel away from tops, wear eyes and acid cover, lift with carriers (never by terminals), and fuse every bank; wash acid with flood water immediately.</p>
 <p>Volta's pile (1800): stacked zinc | brine-soaked cloth | copper discs — chemistry converts to steady current. Defects to engineer around:</p>
@@ -344,23 +345,57 @@ body {
 <text x="110" y="140" text-anchor="middle" font-size="9">needle twists</text>
 <text x="110" y="151" text-anchor="middle" font-size="9">near current</text>
 <text x="320" y="42" text-anchor="middle" font-size="10" font-weight="bold">AMPÈRE → STURGEON</text>
-<path d="M270,70 L270,120 Q270,135 290,135 L350,135 Q370,135 370,120 L370,70" fill="none" stroke="#16130e" stroke-width="3"/>
-<rect x="300" y="142" width="40" height="14" fill="#9a927e" stroke="#16130e"/>
-<text x="320" y="172" text-anchor="middle" font-size="9">coil + iron = kg lift</text>
-<text x="545" y="42" text-anchor="middle" font-size="10" font-weight="bold">FARADAY 1831</text>
-<rect x="480" y="70" width="60" height="40" fill="none" stroke="#16130e" stroke-width="2"/>
-<line x1="540" y1="70" x2="540" y2="52" stroke="#16130e" stroke-width="2"/>
-<line x1="540" y1="110" x2="540" y2="140" stroke="#16130e" stroke-width="2"/>
-<line x1="540" y1="136" x2="540" y2="150" stroke="#16130e" stroke-width="2"/>
-<polygon points="534,150 546,150 540,160" fill="#16130e"/>
-<rect x="514" y="162" width="52" height="14" fill="#4a4436" stroke="#16130e"/>
-<text x="533" y="171" text-anchor="middle" font-size="8.5" fill="#ffffff" stroke="#16130e" stroke-width="0.8">N</text>
-<text x="547" y="171" text-anchor="middle" font-size="8.5" fill="#ffffff" stroke="#16130e" stroke-width="0.8">S</text>
-<text x="508" y="170" text-anchor="end" font-size="9">move magnet ↑</text>
-<text x="508" y="182" text-anchor="end" font-size="9">current flows</text>
-<circle cx="540" cy="123" r="8" fill="none" stroke="#16130e" stroke-width="1.25"/>
-<text x="624" y="126" text-anchor="end" font-size="9">map with filings</text>
-<text x="551" y="147" font-size="8.5" font-style="italic">I</text>
+<path d="M280,136 L280,82 Q280,60 302,60 L338,60 Q360,60 360,82 L360,136" fill="none" stroke="#6b5a33" stroke-width="12"/>
+<line x1="271" y1="86" x2="289" y2="88" stroke="#c96a2e" stroke-width="2"/>
+<line x1="351" y1="86" x2="369" y2="88" stroke="#c96a2e" stroke-width="2"/>
+<line x1="271" y1="91" x2="289" y2="93" stroke="#c96a2e" stroke-width="2"/>
+<line x1="351" y1="91" x2="369" y2="93" stroke="#c96a2e" stroke-width="2"/>
+<line x1="271" y1="96" x2="289" y2="98" stroke="#c96a2e" stroke-width="2"/>
+<line x1="351" y1="96" x2="369" y2="98" stroke="#c96a2e" stroke-width="2"/>
+<line x1="271" y1="101" x2="289" y2="103" stroke="#c96a2e" stroke-width="2"/>
+<line x1="351" y1="101" x2="369" y2="103" stroke="#c96a2e" stroke-width="2"/>
+<line x1="271" y1="106" x2="289" y2="108" stroke="#c96a2e" stroke-width="2"/>
+<line x1="351" y1="106" x2="369" y2="108" stroke="#c96a2e" stroke-width="2"/>
+<line x1="271" y1="111" x2="289" y2="113" stroke="#c96a2e" stroke-width="2"/>
+<line x1="351" y1="111" x2="369" y2="113" stroke="#c96a2e" stroke-width="2"/>
+<line x1="271" y1="116" x2="289" y2="118" stroke="#c96a2e" stroke-width="2"/>
+<line x1="351" y1="116" x2="369" y2="118" stroke="#c96a2e" stroke-width="2"/>
+<line x1="271" y1="121" x2="289" y2="123" stroke="#c96a2e" stroke-width="2"/>
+<line x1="351" y1="121" x2="369" y2="123" stroke="#c96a2e" stroke-width="2"/>
+<line x1="271" y1="126" x2="289" y2="128" stroke="#c96a2e" stroke-width="2"/>
+<line x1="351" y1="126" x2="369" y2="128" stroke="#c96a2e" stroke-width="2"/>
+<line x1="271" y1="86" x2="254" y2="86" stroke="#16130e" stroke-width="1.25"/><circle cx="251" cy="86" r="3" fill="#fff" stroke="#16130e" stroke-width="1.25"/>
+<line x1="369" y1="86" x2="386" y2="86" stroke="#16130e" stroke-width="1.25"/><circle cx="389" cy="86" r="3" fill="#fff" stroke="#16130e" stroke-width="1.25"/>
+<text x="251" y="78" text-anchor="middle" font-size="9" font-weight="bold">+</text>
+<text x="389" y="78" text-anchor="middle" font-size="9" font-weight="bold">−</text>
+<rect x="270" y="140" width="100" height="10" fill="#9a927e" stroke="#16130e" stroke-width="1.25"/>
+<line x1="320" y1="150" x2="320" y2="156" stroke="#16130e" stroke-width="1.5"/>
+<rect x="306" y="156" width="28" height="14" fill="#efe9db" stroke="#16130e" stroke-width="1.25"/>
+<text x="320" y="166" text-anchor="middle" font-size="9" font-weight="bold">kg</text>
+<text x="320" y="184" text-anchor="middle" font-size="9">coil on iron lifts the keeper + load</text>
+<ellipse cx="470" cy="100" rx="4" ry="18" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<ellipse cx="478" cy="100" rx="4" ry="18" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<ellipse cx="486" cy="100" rx="4" ry="18" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<ellipse cx="494" cy="100" rx="4" ry="18" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<ellipse cx="502" cy="100" rx="4" ry="18" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<ellipse cx="510" cy="100" rx="4" ry="18" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<ellipse cx="518" cy="100" rx="4" ry="18" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<ellipse cx="526" cy="100" rx="4" ry="18" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<ellipse cx="534" cy="100" rx="4" ry="18" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<ellipse cx="542" cy="100" rx="4" ry="18" fill="none" stroke="#c96a2e" stroke-width="2"/>
+<polyline points="470,118 470,150 491,150" fill="none" stroke="#16130e" stroke-width="1.25"/>
+<polyline points="542,118 542,150 519,150" fill="none" stroke="#16130e" stroke-width="1.25"/>
+<circle cx="505" cy="150" r="14" fill="#fff" stroke="#16130e" stroke-width="1.5"/>
+<line x1="505" y1="158" x2="513" y2="142" stroke="#8f3b2d" stroke-width="1.5"/>
+<circle cx="505" cy="158" r="1.8" fill="#16130e"/>
+<rect x="558" y="92" width="28" height="16" fill="#4a4436" stroke="#16130e" stroke-width="1.25"/>
+<rect x="586" y="92" width="28" height="16" fill="#9a927e" stroke="#16130e" stroke-width="1.25"/>
+<text x="572" y="104" text-anchor="middle" font-size="9" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.8">N</text>
+<text x="600" y="104" text-anchor="middle" font-size="9" font-weight="bold">S</text>
+<line x1="606" y1="80" x2="572" y2="80" stroke="#16130e" stroke-width="1.5"/><polygon points="572,76 572,84 564,80" fill="#16130e"/>
+<text x="590" y="72" text-anchor="middle" font-size="9">push in</text>
+<text x="532" y="178" text-anchor="middle" font-size="9">moving magnet → meter kicks</text>
+<text x="532" y="190" text-anchor="middle" font-size="9" font-style="italic">iron filings map the field</text>
 <text x="320" y="205" text-anchor="middle" font-size="9.5" font-weight="bold">KEY → battery → LINE → electromagnet clicks → CODE (§25.4) · Maxwell unifies (1860s) → Hertz proves (1887)</text>
 </svg>
 <figcaption><strong>Figure 25.2.</strong> Current twists compasses (Oersted), coils with iron lift weights (Ampère/Sturgeon), moving magnets make currents (Faraday) — iron filings map the invisible geometry. The telegraph chains all three: key, battery, wire, clicking armature, code.</figcaption>
@@ -384,38 +419,44 @@ body {
 <div class="table-wrap"><table>
 <thead>
 <tr>
-<th>Morse (variable)</th>
+<th>Morse</th>
 <th>Letter</th>
-<th>Needle alternative</th>
+<th>Design logic</th>
 </tr>
 </thead>
 <tbody>
 <tr>
+<td>·</td>
+<td>E</td>
+<td>Most common English letter → shortest code (Vail is said to have counted a printer's type case)</td>
+</tr>
+<tr>
 <td>· −</td>
-<td>A (common = short)</td>
-<td>Deflect left/right, read off board</td>
+<td>A</td>
+<td>Common → short</td>
 </tr>
 <tr>
-<td>− ···</td>
-<td>B (rare = long)</td>
-<td>No code book needed</td>
+<td>− · · ·</td>
+<td>B</td>
+<td>Rarer → longer</td>
 </tr>
 <tr>
-<td>···</td>
-<td>S / ·−−− O</td>
-<td>Operators trade speed for training</td>
+<td>· · · / − − −</td>
+<td>S / O</td>
+<td>Easy to send and hear; "SOS" (adopted 1906) was chosen as an unmistakable pattern, not an abbreviation</td>
 </tr>
 </tbody>
 </table></div>
+<p>Needle telegraphs trade the other way: the operator reads letters off a board with no code to learn, at the cost of more wires and slower sending.</p>
 <p><strong>Line-maintenance arithmetic:</strong> resistance per mile logged per section (bridge-measured); leakage to wet poles patrolled after storms; relay thresholds set above worst-case leakage, below weakest signal. Earth-return halves copper but doubles fault-hunting subtlety — keep the metallic spare for the trunk.</p>
 <p class="co co-key"><strong>Key threshold:</strong> when message latency drops from weeks (mail) to minutes, commerce, diplomacy, weather warning, and military logistics all change regime simultaneously. No other pre-radio technology buys so much coordination per unit of hardware.</p>
 <h2 id="ch25_electricity_1-255-doctrine">25.5 Doctrine</h2>
 <ol>
 <li>Standardize voltage/current units and instruments across your network from day one (<a href="ch20.html">Ch 20</a> metrology).</li>
 <li>Wire gauge tables, insulation specs, and testing routines are the difference between a network and a fire hazard.</li>
-<li>Train maintainers systematically — telegraphy was history's first mass technical profession; its apprenticeship schools are the template for all later electrical training.</li>
+<li>Train maintainers systematically — telegraphy was among the first mass technical professions, and its training schools shaped later electrical training.</li>
 </ol>
-<p><strong>Jump available:</strong> with Maxwell + Faraday known upfront, compress 1800→1870 into a decade of focused work: pile → Daniell → electromagnets → telegraph within years, skipping decades of philosophical debate about "animal electricity" and vital fluids (<strong>Dead end avoided:</strong> Galvani-vs-Volta metaphysics; Volta's metal-metal-electrolyte framing won by explaining more).</p>
+<p class="co co-jump"><strong>Jump:</strong> with Maxwell + Faraday known upfront, compress 1800→1870 into a decade of focused work: pile → Daniell → electromagnets → telegraph within years, skipping decades of philosophical debate about "animal electricity" and vital fluids (<strong>Dead end avoided:</strong> Galvani-vs-Volta metaphysics; Volta's metal-metal-electrolyte framing won by explaining more).</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -431,22 +472,22 @@ body {
 <td>Varnish-insulated, waxed</td>
 </tr>
 <tr>
-<td>Medium (~14–18)</td>
-<td>Trunk lines (copper)</td>
+<td>Medium (~10–12, hard-drawn copper)</td>
+<td>Trunk lines</td>
 <td>Glass insulators, tensioned</td>
 </tr>
 <tr>
-<td>Heavy (iron)</td>
-<td>Cheap long spans</td>
-<td>Rusts — grease + inspect</td>
+<td>Heavy (~6–9, galvanized iron)</td>
+<td>Cheap long spans — the historical standard land line</td>
+<td>Rusts — galvanize, inspect</td>
 </tr>
 </tbody>
 </table></div>
 <h2 id="ch25_electricity_1-256-the-electrical-papers">25.6 The Electrical Papers</h2>
 <ul>
-<li>Leyden-jar discovery letters (1745–46) record Musschenbroek's shock testimony ("I would not take another shock for the whole kingdom of France" — the king-of-France version came later, embellished); Benjamin Franklin's 1752 kite experiment is documented but genuinely dangerous — <strong>Georg Richman died replicating it in St. Petersburg (1753)</strong>, the era's most cited electrical fatality. Replication has costs; publish protocols, not just results.</li>
+<li>Leyden-jar discovery letters (1745–46) record Musschenbroek's shock testimony (he wrote that he would not take a second shock for the whole kingdom of France); Benjamin Franklin's 1752 kite experiment is documented but genuinely dangerous — <strong>Georg Wilhelm Richmann died replicating it in St. Petersburg (1753)</strong>, the era's most cited electrical fatality. Replication has costs; publish protocols, not just results.</li>
 <li>Volta announced the pile to the Royal Society (letter dated March 1800); <strong>Nicholson and Carlisle electrolyzed water with one within six weeks</strong> — open publication converting a device into a research program at record speed.</li>
-<li>Ohm published <em>Die galvanische Kette</em> (1827) into hostile reception, resigned his teaching post, and lived poor until Berlin recognition arrived in the 1840s — the method chapter's authority warning, biographically instantiated.</li>
+<li>Ohm published <em>Die galvanische Kette</em> (1827) into hostile reception, resigned his teaching post, and struggled until recognition arrived in the 1840s (Royal Society Copley Medal, 1841; Munich chair, 1849) — the method chapter's authority warning, biographically instantiated.</li>
 <li><strong>Morse–Vail's Baltimore–Washington line</strong> transmitted "What hath God wrought" (May 24, 1844) — federal funding ($30k congressional appropriation) bought the demonstration line after private investors balked; infrastructure finance patterns repeat.</li>
 <li><strong>Transatlantic cable forensics:</strong> the 1857 attempt snapped mid-ocean; 1858 carried brief traffic (Queen Victoria–Buchanan exchanges) before Wildman Whitehouse's brute-force high-voltage signaling destroyed the core — Cyrus Field's syndicate commissioned a proper engineering postmortem (William Thomson's mirror-galvanometer analysis), then rebuilt with science-based methods for the 1866 success. Thomson left the venture a knight and later a lord — instrument physics monetized through failure analysis. The 1866 cable cut message latency across the Atlantic from ten days (steamship) to minutes; markets, diplomacy, and naval coordination all repriced immediately (<a href="ch50.html">Ch 50</a>).</li>
 </ul>
@@ -456,7 +497,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch26.html" class="reader-nav-link">Chapter 26 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

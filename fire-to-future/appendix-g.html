@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Appendix G — Key Thresholds & Critical Numbers — Fire to Future</title>
+<title>Appendix G — Provisional Engineering Data — Fire to Future</title>
 <style>
 
 :root {
@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -233,16 +235,48 @@ body {
   <span class="reader-progress">Appendix G of 7</span>
 </div>
 <main class="reader-content">
-<h1 id="appendix_G_key_numbers-appendix-g-key-thresholds-critical-numbers">Appendix G — Key Thresholds &amp; Critical Numbers</h1>
+<h1 id="appendix_G_key_numbers-appendix-g-provisional-engineering-data">Appendix G — Provisional Engineering Data</h1>
 <blockquote class="meta">
-<p>The book's load-bearing numbers in one place — the quick-reference card for workshops, classrooms, and field decisions. Each entry links to its full context.</p>
+<p><strong>NOT FOR LIFE-SAFETY DECISIONS.</strong> This appendix is a navigation aid, not a pressure-vessel, medical, toxicological, explosive, electrical, reactor, or construction standard. Values are useful only with their stated conditions. Qualified specialists and current codes, standards, clinical guidance, and tested local procedures govern high-consequence work.</p>
 </blockquote>
-<h2 id="appendix_G_key_numbers-temperature-ladder-c">Temperature Ladder (°C)</h2>
+<h2 id="appendix_G_key_numbers-g0-status-labels">G.0 Status Labels</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Status</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>REFERENCE</strong></td>
+<td>Stable textbook value with a stated physical or chemical definition</td>
+</tr>
+<tr>
+<td><strong>CONDITIONAL</strong></td>
+<td>Useful only under named material, process, or operating conditions</td>
+</tr>
+<tr>
+<td><strong>PLANNING</strong></td>
+<td>Editorial scenario or threshold, not a physical constant</td>
+</tr>
+<tr>
+<td><strong>VERIFY</strong></td>
+<td>Retained as a research lead; source/date/uncertainty audit still required</td>
+</tr>
+<tr>
+<td><strong>CONTESTED</strong></td>
+<td>Material disagreement exists and must be represented as a range or debate</td>
+</tr>
+</tbody>
+</table></div>
+<p>No value becomes life-safety guidance merely because it appears in this appendix.</p>
+<h2 id="appendix_G_key_numbers-g1-temperature-reference">G.1 Temperature Reference</h2>
 <figure class="fig">
-<svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Temperature ladder strip">
-<title>Temperature ladder strip</title>
+<svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Selected thermal reference points, not a calibrated temperature scale">
+<title>Selected thermal reference points, not a calibrated temperature scale</title>
 <rect x="0" y="0" width="640" height="190" fill="#fbf9f3"/>
-<text x="320" y="26" text-anchor="middle" font-size="13" font-weight="bold">Fig G.1 — Heat ladder: every threshold at a glance</text>
+<text x="320" y="24" text-anchor="middle" font-size="13" font-weight="bold">Fig G.1 — Selected thermal references (colour and spacing schematic)</text>
 <rect x="30" y="50" width="580" height="76" fill="#4a4436" stroke="#16130e" stroke-width="1.5"/>
 <rect x="30" y="50" width="90" height="76" fill="#3a2e22"/>
 <rect x="120" y="50" width="90" height="76" fill="#7a3b28"/>
@@ -250,506 +284,485 @@ body {
 <rect x="320" y="50" width="110" height="76" fill="#e8a83c"/>
 <rect x="430" y="50" width="180" height="76" fill="#f5e6b8"/>
 <g font-size="10" text-anchor="middle" font-weight="bold">
-<text x="75" y="78" fill="#ffffff" stroke="#16130e" stroke-width="1.1">260–600</text><text x="75" y="102" fill="#ffffff" stroke="#16130e" stroke-width="1.1">fire · pottery</text>
-<text x="165" y="78" fill="#ffffff" stroke="#16130e" stroke-width="1.1">770–900</text><text x="165" y="102" fill="#ffffff" stroke="#16130e" stroke-width="1.1">steel · lime</text>
-<text x="265" y="78">1,085–1,200</text><text x="265" y="102">copper · charcoal</text>
-<text x="375" y="78">1,414–1,538</text><text x="375" y="102">silicon · iron</text>
-<text x="520" y="78">1,700–3,500</text><text x="520" y="102">filament · arc</text>
+<text x="75" y="78" fill="#ffffff" stroke="#16130e" stroke-width="1.1">≈260–600</text><text x="75" y="102" fill="#ffffff" stroke="#16130e" stroke-width="1.1">fire / char</text>
+<text x="165" y="78" fill="#ffffff" stroke="#16130e" stroke-width="1.1">≈700–1,000</text><text x="165" y="102" fill="#ffffff" stroke="#16130e" stroke-width="1.1">lime / steel heat</text>
+<text x="265" y="78">1,085–1,250</text><text x="265" y="102">copper / bloomery</text>
+<text x="375" y="78">1,414–1,538</text><text x="375" y="102">silicon / iron</text>
+<text x="520" y="78">≈1,700+</text><text x="520" y="102">filament / arc</text>
 </g>
-<text x="320" y="156" text-anchor="middle" font-size="10">full table follows (temps · ratios · power · motion · health · discipline) — each entry links its chapter</text>
+<text x="320" y="158" text-anchor="middle" font-size="10">Do not use glow colour as a thermometer: emissivity, surface condition, lighting, and atmosphere change apparent colour.</text>
 </svg>
-<figcaption><strong>Figure G.1.</strong> The book's heat thresholds on one strip — fire piston to carbon arc. Pin beside Appendix A: sequence on one wall, numbers on the other.</figcaption>
+<figcaption><strong>Figure G.1.</strong> Selected process and material temperatures are approximate references, not a calibrated pyrometer or a linear heat-treatment schedule.</figcaption>
 </figure>
 
 <div class="table-wrap"><table>
 <thead>
 <tr>
-<th>Temp</th>
-<th>What happens</th>
+<th>Value</th>
+<th>Context and limitation</th>
+<th>Status</th>
 <th>Ch</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>~260</td>
-<td>Fire-piston ignition by compression; ember from friction coal</td>
+<td>≈260 °C</td>
+<td>Approximate ignition temperature of char-cloth tinder; a fire piston's compressed air runs far hotter, and actual ignition depends on cylinder, compression ratio, humidity, and loss</td>
+<td>CONDITIONAL</td>
 <td><a href="ch01.html">1</a></td>
 </tr>
 <tr>
-<td>250–400</td>
-<td>Heat-treating chert improves knappability; low-temp charcoal for powder</td>
-<td><a href="ch02.html">2</a>/<a href="ch21.html">21</a></td>
+<td>250–400 °C</td>
+<td>Historic ranges for heat treatment of some cherts; mineral-specific</td>
+<td>CONTESTED</td>
+<td><a href="ch02.html">2</a></td>
 </tr>
 <tr>
-<td>300–350</td>
-<td>Fast-charcoal grade for black powder</td>
+<td>300–350 °C</td>
+<td>One historical range for low-temperature charcoal used in gunpowder; not a universal fuel specification</td>
+<td>VERIFY</td>
 <td><a href="ch21.html">21</a></td>
 </tr>
 <tr>
-<td>150–600</td>
-<td>Hot-blast preheat range (Neilson pipe stoves upward; Cowper regenerators later exceed 1,000)</td>
-<td><a href="ch22.html">22</a></td>
-</tr>
-<tr>
-<td>~600</td>
-<td>Dull-red glow; open-fire pottery hardening begins</td>
+<td>≈600 °C</td>
+<td>Approximate onset of visible dull red; clay hardening is a process range, not a point</td>
+<td>CONDITIONAL</td>
 <td><a href="ch05.html">5</a></td>
 </tr>
 <tr>
-<td>63/72</td>
-<td>Milk pasteurization (30 min / 15 s)</td>
+<td>63 °C/30 min or 72 °C/15 s</td>
+<td>Representative low-temperature and HTST pasteurisation examples; exact time/temperature depends on product and authority</td>
+<td>CONDITIONAL</td>
 <td><a href="ch30.html">30</a></td>
 </tr>
 <tr>
-<td>~700</td>
-<td>Cherry-red; reliable earthenware kilns</td>
+<td>≈730–770 °C</td>
+<td>Approximate transformation range for low-alloy steel; composition-dependent. Do not confuse transformation with Curie temperature</td>
+<td>CONDITIONAL</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>≈800–1,000 °C</td>
+<td>Many earthenware processes; body and atmosphere determine result</td>
+<td>CONDITIONAL</td>
 <td><a href="ch05.html">5</a></td>
 </tr>
 <tr>
-<td>~770</td>
-<td>Steel loses magnetism (transformation point — hardening reference)</td>
-<td><a href="ch14.html">14</a></td>
+<td>≈900 °C</td>
+<td>Lime calcination equilibrium depends strongly on CO₂ partial pressure and pressure system</td>
+<td>CONDITIONAL</td>
+<td><a href="ch17.html">17</a></td>
 </tr>
 <tr>
-<td>800–1,000</td>
-<td>Updraft kiln territory; soda-lime glass melts with flux</td>
-<td><a href="ch05.html">5</a>/<a href="ch17.html">17</a></td>
-</tr>
-<tr>
-<td>~900</td>
-<td>Lime calcination (CaCO₃ → CaO); case-hardening carburizing heat</td>
-<td><a href="ch17.html">17</a>/<a href="ch14.html">14</a></td>
-</tr>
-<tr>
-<td>~900–1,250</td>
-<td>Bloomery operating range (below iron's melt point)</td>
-<td><a href="ch14.html">14</a></td>
-</tr>
-<tr>
-<td>~950</td>
-<td>Hall-Héroult cryolite bath for aluminum</td>
-<td><a href="ch38.html">38</a></td>
-</tr>
-<tr>
-<td>900–1,200</td>
-<td>Charcoal + forced draft; copper smelting zone</td>
-<td><a href="ch01.html">1</a>/<a href="ch10.html">10</a></td>
-</tr>
-<tr>
-<td>1,085</td>
-<td>Copper melts</td>
+<td>1,085 °C</td>
+<td>Melting point of pure copper; alloying and pressure change process behaviour</td>
+<td>REFERENCE</td>
 <td><a href="ch10.html">10</a></td>
 </tr>
 <tr>
-<td>~1,300</td>
-<td>Sparking-white forging heat (welding)</td>
+<td>1,100–1,250 °C</td>
+<td>Typical bloomery operating region; furnace and charge determine iron/slag chemistry</td>
+<td>CONDITIONAL</td>
 <td><a href="ch14.html">14</a></td>
 </tr>
 <tr>
-<td>1,414</td>
-<td>Silicon melts (semiconductor purification world)</td>
+<td>≈1,250–1,400 °C</td>
+<td>Common welding/forging heat region; appearance and geometry are poor controls</td>
+<td>CONDITIONAL</td>
+<td><a href="ch14.html">14</a></td>
+</tr>
+<tr>
+<td>1,414 °C</td>
+<td>Silicon melting point</td>
+<td>REFERENCE</td>
 <td><a href="ch35.html">35</a></td>
 </tr>
 <tr>
-<td>1,450</td>
-<td>Portland cement clinker sintering</td>
+<td>≈1,450 °C</td>
+<td>Typical Portland-cement clinker zone; composition and process vary</td>
+<td>CONDITIONAL</td>
 <td><a href="ch27.html">27</a></td>
 </tr>
 <tr>
-<td>1,538</td>
-<td>Pure iron melts (cupola territory needs forced blast)</td>
+<td>1,538 °C</td>
+<td>Melting point of pure iron; steel and impurities alter behaviour</td>
+<td>REFERENCE</td>
 <td><a href="ch22.html">22</a></td>
 </tr>
 <tr>
-<td>~1,700</td>
-<td>Incandescent lamp filament glow</td>
+<td>≈1,700 °C+</td>
+<td>Incandescent filament operating temperature; material and life trade-off vary</td>
+<td>CONDITIONAL</td>
 <td><a href="ch26.html">26</a></td>
 </tr>
 <tr>
-<td>~3,500</td>
-<td>Carbon arc crater</td>
+<td>several thousand °C</td>
+<td>Arc and plasma temperatures vary with electrode, current, gas, and diagnostic method</td>
+<td>CONDITIONAL</td>
 <td><a href="ch26.html">26</a></td>
 </tr>
 </tbody>
 </table></div>
-<h2 id="appendix_G_key_numbers-ratios-compositions">Ratios &amp; Compositions</h2>
+<h2 id="appendix_G_key_numbers-g2-compositions-ratios-and-process-windows">G.2 Compositions, Ratios, and Process Windows</h2>
 <div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Item</th>
-<th>Numbers</th>
+<th>Value and required conditions</th>
+<th>Status</th>
 <th>Ch</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Black powder</td>
-<td>75 : 15 : 10 KNO₃/S/C, grained, dry</td>
+<td>Common historical formulation near 75 KNO₃ : 15 charcoal : 10 sulfur by mass; performance and safety depend on materials, grain, moisture, density, and age</td>
+<td>CONDITIONAL</td>
 <td><a href="ch21.html">21</a></td>
 </tr>
 <tr>
 <td>Lime mortar</td>
-<td>1 lime : 3 sand</td>
+<td>Frequently described near 1 volume slaked lime : 3 volume sand, but grading, lime class, sand, exposure, and binder vary</td>
+<td>CONDITIONAL</td>
 <td><a href="ch17.html">17</a></td>
 </tr>
 <tr>
 <td>Concrete water/cement</td>
-<td>0.4–0.5 structural (more water = always weaker)</td>
+<td>Lower ratios generally improve strength/durability when materials and curing suit them; no single value fits every mix. Use a qualified mix design and test regime</td>
+<td>CONDITIONAL</td>
 <td><a href="ch27.html">27</a></td>
 </tr>
 <tr>
 <td>Type metal</td>
-<td>~60 Pb / 25 Sn / 12 Sb</td>
+<td>Historical Pb–Sn–Sb mixtures vary; approximate ranges are Pb 55–85, Sb 10–28, Sn 3–15 with impurities balance. Foundry type near Pb 60 / Sb 25 / Sn 13 is one recipe, not a universal formula</td>
+<td>CONTESTED</td>
 <td><a href="ch18.html">18</a></td>
 </tr>
 <tr>
-<td>Bronze classic</td>
-<td>88–90 Cu / 10–12 Sn (+Pb variants)</td>
+<td>Bronze</td>
+<td>Many structural/copper-tin alloys fall around 88–92% Cu and 8–12% Sn, but purpose and standard vary</td>
+<td>CONDITIONAL</td>
 <td><a href="ch10.html">10</a></td>
 </tr>
 <tr>
-<td>Steel carbon window</td>
-<td>0.2–1.4 % C useful; &gt;2 % = cast iron</td>
-<td><a href="ch14.html">14</a></td>
-</tr>
-<tr>
-<td>Stainless threshold</td>
-<td>≥ ~10.5 % Cr passive film</td>
+<td>Stainless passive range</td>
+<td>≈10.5% Cr is associated with the conventional “stainless” threshold; exact corrosion performance depends on alloy and environment</td>
+<td>CONDITIONAL</td>
 <td><a href="ch27.html">27</a></td>
 </tr>
 <tr>
-<td>Saltpeter leach → crystallize</td>
-<td>KNO₃ salts out first on cooling; recrystallize once</td>
-<td><a href="ch21.html">21</a></td>
-</tr>
-<tr>
 <td>Chlorine residual</td>
-<td>0.2–0.5 mg/L after 30 min contact = protected water</td>
+<td>Dose/contact targets are site- and organism-specific; pH, temperature, turbidity, demand, distribution, and validated assay control</td>
+<td>CONDITIONAL</td>
 <td><a href="ch30.html">30</a></td>
 </tr>
 <tr>
-<td>Grain storage moisture</td>
-<td>&lt;13 % or mold/weevils win</td>
+<td>Grain storage</td>
+<td>Safe equilibrium moisture changes by cereal, temperature, storage time, and available technology; ~12–14% is a common wheat-range rule, not a universal limit</td>
+<td>CONDITIONAL</td>
 <td><a href="ch07.html">7</a></td>
 </tr>
 <tr>
-<td>Hay safe moisture</td>
-<td>&lt;18 % before baling/storing</td>
+<td>Hay</td>
+<td>≤18% moisture is a traditional rule; bale, species, storage, and local testing matter</td>
+<td>VERIFY</td>
 <td><a href="ch08.html">8</a></td>
 </tr>
 <tr>
-<td>ORS formula scale</td>
-<td>~75 mmol/L glucose with matched sodium salts</td>
+<td>ORS</td>
+<td>Use a complete current WHO or national formulation; common low-osmolarity solutions contain specified glucose and multiple electrolytes. Do not improvise from sugar and table salt</td>
+<td>VERIFY</td>
 <td><a href="ch30.html">30</a></td>
 </tr>
 <tr>
-<td>Haber-Bosch conditions</td>
-<td>~200 atm, ~450–500 °C, Fe catalyst, recycle loops</td>
+<td>Haber–Bosch</td>
+<td>Modern plants vary widely; representative early conditions are high pressure, iron catalyst, and several hundred °C with product gas continuously removed and recycled</td>
+<td>CONDITIONAL</td>
 <td><a href="ch32.html">32</a></td>
 </tr>
 <tr>
-<td>Bloomery reference smelt</td>
-<td>2 kg charcoal : 1.5 kg roasted ore per charge (~45 kg ore, ~90 kg charcoal total) → 8–12 kg raw bloom (30–45 % slag) → 4–5 kg consolidated bar; blast 800 L/min</td>
+<td>Bloomery commissioning</td>
+<td>No universal charge or airflow. The former worked case is retained only as a professionally supervised example pending source and independent engineering review</td>
+<td>VERIFY</td>
 <td><a href="ch14.html">14</a></td>
 </tr>
 <tr>
-<td>Photolithography first cycle</td>
-<td>spin 4,000 rpm/30 s ≈1 µm resist · soft bake 95 °C/60 s · g-line dose 100–200 mJ/cm² · develop TMAH 2.38 %/60 s · BOE etch ~100 nm/min</td>
+<td>Photolithography</td>
+<td>Resist thickness, dose, development, etch rate, and feature geometry are process-specific; the former generic recipe has been withdrawn from the core manual</td>
+<td>VERIFY</td>
 <td><a href="ch35.html">35</a></td>
 </tr>
 </tbody>
 </table></div>
-<h2 id="appendix_G_key_numbers-power-energy-arithmetic">Power &amp; Energy Arithmetic</h2>
+<h2 id="appendix_G_key_numbers-g3-power-energy-and-motion">G.3 Power, Energy, and Motion</h2>
 <div class="table-wrap"><table>
 <thead>
 <tr>
-<th>Fact</th>
-<th>Number</th>
+<th>Quantity</th>
+<th>Value / relation</th>
+<th>Status</th>
 <th>Ch</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Ox sustained draft</td>
-<td>~0.5 kW (~6 humans)</td>
+<td>Human sustained power</td>
+<td>Often estimated around 0.07–0.10 kW over long work periods; task and duration matter</td>
+<td>CONDITIONAL</td>
 <td><a href="ch08.html">8</a></td>
 </tr>
 <tr>
-<td>Horse draft</td>
-<td>~0.7–1 kW bursts</td>
+<td>Draft-animal power</td>
+<td>Ox and horse figures vary with speed, duration, terrain, harness, animal, and work cycle</td>
+<td>CONDITIONAL</td>
 <td><a href="ch08.html">8</a></td>
 </tr>
 <tr>
-<td>Overshot waterwheel</td>
-<td>60–70 % efficiency; 1 m³/s × 3 m ≈ ~20 kW delivered</td>
+<td>Fuelwood demand</td>
+<td>~5–10 kg dry wood per person per day for temperate cooking and heating; managed coppice yields ~5–10 m³/ha/yr, so 100 people need on the order of 50–100 ha in rotation. Charcoal at 10–15 % yield multiplies wood demand 7–10×</td>
+<td>PLANNING</td>
+<td><a href="ch01.html">1</a></td>
+</tr>
+<tr>
+<td>Water power</td>
+<td><code>P = ρQghη</code>; at 1 m³/s and 3 m, raw hydraulic power is about 29.4 kW before efficiency and losses</td>
+<td>REFERENCE</td>
 <td><a href="ch16.html">16</a></td>
 </tr>
 <tr>
-<td>Newcomen → Watt efficiency</td>
-<td>~0.5 % → ~3–4 % (separate condenser saves ~75 % fuel)</td>
+<td>Steam power</td>
+<td>Work and fuel depend on cycle, pressure, expansion, exhaust pressure, boiler efficiency, mechanical efficiency, and measured output. No universal reference engine dimensions apply</td>
+<td>REFERENCE</td>
 <td><a href="ch23.html">23</a></td>
 </tr>
 <tr>
-<td>Reference 10 kW steam unit</td>
-<td>Ø180 mm × 200 mm stroke, 300 rpm, 7 bar gauge, mep ≈240 kPa, double-acting → ~12 kW indicated / ~10 kW brake; Ø400 mm boiler shell at 7 bar needs 6 mm plate (computed min 3.1 mm, SF 5, joint η 0.70)</td>
-<td><a href="ch23.html">23</a></td>
-</tr>
-<tr>
-<td>Hot blast fuel effect</td>
-<td>~⅓ less fuel per ton pig from ≥150 °C blast (Neilson, 1828); enables raw-coal smelting</td>
-<td><a href="ch22.html">22</a></td>
-</tr>
-<tr>
-<td>Steam duty trajectory</td>
-<td>Newcomen ~4–6M → Watt ~20–30M → best Cornish compounds ~90–100M ft·lb per 84-lb bushel; 2 kg coal/kWh ≈ 50M duty</td>
-<td><a href="ch23.html">23</a></td>
-</tr>
-<tr>
-<td>Marine triple-expansion</td>
-<td>15–20 % thermal</td>
-<td><a href="ch23.html">23</a></td>
-</tr>
-<tr>
-<td>Diesel slow-speed marine</td>
-<td>&gt;50 % thermal</td>
-<td><a href="ch29.html">29</a></td>
-</tr>
-<tr>
-<td>Gasoline energy density</td>
-<td>~45 MJ/kg (battery c.1900: ~0.2)</td>
-<td><a href="ch29.html">29</a></td>
-</tr>
-<tr>
-<td>Petroleum energy density</td>
-<td>~42 MJ/kg</td>
-<td><a href="ch28.html">28</a></td>
-</tr>
-<tr>
-<td>Modern battery cost fall</td>
-<td>~90 % decline since commercialization</td>
-<td><a href="ch43.html">43</a></td>
-</tr>
-<tr>
-<td>PV module learning rate</td>
-<td>~20 % cost drop per doubling</td>
-<td><a href="ch43.html">43</a></td>
-</tr>
-<tr>
-<td>Betz limit</td>
-<td>59.3 % max wind extraction</td>
-<td><a href="ch43.html">43</a></td>
-</tr>
-<tr>
-<td>Pumped hydro round-trip</td>
-<td>~75–80 %</td>
-<td><a href="ch43.html">43</a></td>
-</tr>
-<tr>
-<td>Hydrogen round-trip</td>
-<td>~30–40 % (use for industry, not bulk grid)</td>
-<td><a href="ch43.html">43</a></td>
-</tr>
-<tr>
-<td>Aluminum smelting</td>
-<td>~13–15 kWh/kg; recycling ~5 % of that</td>
-<td><a href="ch38.html">38</a></td>
-</tr>
-<tr>
-<td>Fission per fission event</td>
-<td>~200 MeV</td>
-<td><a href="ch37.html">37</a></td>
-</tr>
-<tr>
-<td>Abundance threshold</td>
-<td>&lt;$0.03/kWh system-level electricity</td>
-<td><a href="ch43.html">43</a></td>
-</tr>
-</tbody>
-</table></div>
-<h2 id="appendix_G_key_numbers-motion-space-navigation">Motion, Space &amp; Navigation</h2>
-<div class="table-wrap"><table>
-<thead>
-<tr>
-<th>Fact</th>
-<th>Number</th>
-<th>Ch</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Δv to LEO</td>
-<td>~9.4 km/s incl losses; mass ratio e^(Δv/ve)</td>
+<td>Rocket mass ratio</td>
+<td><code>R = exp(Δv/ve)</code> for one ideal stage; at Δv=9.4 km/s, approximate ratios are 37, 17, 14, and 8.5 for ve=2.6, 3.3, 3.6, and 4.4 km/s</td>
+<td>REFERENCE</td>
 <td><a href="ch39.html">39</a></td>
 </tr>
 <tr>
-<td>LEO orbital speed</td>
-<td>~7.8 km/s; GEO altitude 35,786 km</td>
-<td><a href="ch40.html">40</a></td>
+<td>Betz limit</td>
+<td>16/27 ≈59.3% maximum wind extraction for an ideal horizontal-axis turbine in undisturbed flow</td>
+<td>REFERENCE</td>
+<td><a href="ch43.html">43</a></td>
 </tr>
 <tr>
-<td>GPS relativistic drift</td>
-<td>~38 μs/day uncorrected ≈ 10 km/day error</td>
-<td><a href="ch40.html">40</a></td>
+<td>Pumped-hydro round trip</td>
+<td>Commonly about 70–85%, strongly dependent on project and cycle</td>
+<td>CONDITIONAL</td>
+<td><a href="ch43.html">43</a></td>
 </tr>
 <tr>
-<td>Longitude arithmetic</td>
-<td>Earth rotates 15°/hour; 1 s chronometer error ≈ 0.4 km at equator</td>
-<td><a href="ch20.html">20</a></td>
+<td>Hydrogen round trip</td>
+<td>Electrolyser, storage, and fuel-cell losses commonly yield roughly 25–45%; boundaries matter</td>
+<td>CONDITIONAL</td>
+<td><a href="ch43.html">43</a></td>
 </tr>
 <tr>
-<td>Fiber loss target</td>
-<td>≤20 dB/km viable (1970); modern ~0.15–0.2 dB/km @1550 nm</td>
-<td><a href="ch41.html">41</a></td>
+<td>Aluminium primary smelting</td>
+<td>Roughly 13–15 kWh/kg is a representative industry-scale value; energy source and technology vary</td>
+<td>VERIFY</td>
+<td><a href="ch38.html">38</a></td>
 </tr>
 <tr>
-<td>Hull speed intuition</td>
-<td>~1.34×√waterline(ft) knots (displacement hulls)</td>
-<td><a href="ch24.html">24</a></td>
+<td>Fission energy release</td>
+<td>About 200 MeV per fission event, with recoverable heat lower after losses</td>
+<td>REFERENCE</td>
+<td><a href="ch37.html">37</a></td>
 </tr>
 <tr>
-<td>Sewer self-cleansing velocity</td>
-<td>≥ ~0.6 m/s keeps solids moving</td>
-<td><a href="ch30.html">30</a></td>
+<td>Solar learning rate</td>
+<td>Reported rates vary widely by period and product; some series are near 15–25% per cumulative doubling</td>
+<td>CONTESTED</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+<tr>
+<td>Abundance price</td>
+<td><code>$0.03/kWh</code> is one planning scenario, not a physical threshold or definition of abundance</td>
+<td>PLANNING</td>
+<td><a href="ch43.html">43</a></td>
 </tr>
 </tbody>
 </table></div>
-<h2 id="appendix_G_key_numbers-health-food-security">Health &amp; Food Security</h2>
+<h2 id="appendix_G_key_numbers-g4-health-and-food">G.4 Health and Food</h2>
 <div class="table-wrap"><table>
 <thead>
 <tr>
-<th>Fact</th>
-<th>Number</th>
+<th>Quantity</th>
+<th>Required context</th>
+<th>Status</th>
 <th>Ch</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Semmelweis handwashing effect</td>
-<td>~90 % childbed-fever mortality cut</td>
+<td>Semmelweis-era mortality change</td>
+<td>Historical ward comparisons are affected by baseline, case mix, handwashing, chlorinated lime, and other changes</td>
+<td>CONTESTED</td>
 <td><a href="ch30.html">30</a></td>
 </tr>
 <tr>
-<td>Sanitation-first result</td>
-<td>Urban life expectancy doubled pre-antibiotics</td>
-<td><a href="ch30.html">30</a></td>
-</tr>
-<tr>
-<td>Agriculture land yield</td>
-<td>1 ha managed grain supports ~4–10 people</td>
+<td>Agriculture support ratio</td>
+<td>Ch 7 derives ~2–4 people per rain-fed hectare from stated assumptions (0.7–1.5 t/ha, 250 kg grain/person/yr, 25 % seed and storage loss); crop, soil, climate, mechanisation, diet, and irrigation change it</td>
+<td>CONTESTED</td>
 <td><a href="ch07.html">7</a></td>
 </tr>
 <tr>
-<td>Pre-mechanized farm labor</td>
-<td>~1–2 ha per person hand-farming</td>
-<td><a href="ch07.html">7</a></td>
-</tr>
-<tr>
-<td>Green Revolution yields</td>
-<td>~1–2 t/ha → 6–10 t/ha cereals</td>
+<td>Green Revolution yield</td>
+<td>Ranges differ by crop, year, irrigation, seed, fertiliser, and whether “traditional” is a short baseline</td>
+<td>CONTESTED</td>
 <td><a href="ch32.html">32</a></td>
 </tr>
 <tr>
-<td>Nitrogen dependency</td>
-<td>~half of humanity's fixed N via Haber-Bosch</td>
+<td>Synthetic nitrogen</td>
+<td>Roughly half of current human food nitrogen fixation is associated with industrial processes; the denominator and year matter</td>
+<td>VERIFY</td>
 <td><a href="ch32.html">32</a></td>
 </tr>
 <tr>
 <td>Medical dashboard</td>
-<td>Maternal+infant mortality &lt;1 % of births = functioning system</td>
+<td>Report maternal, neonatal, and under-five mortality separately with coverage, cause, access, and system data; no universal combined <code>&lt;1%</code> gate</td>
+<td>PLANNING</td>
 <td><a href="ch31.html">31</a></td>
 </tr>
 <tr>
-<td>Cold chain vaccines</td>
-<td>2–8 °C; freeze OR heat both destroy potency</td>
+<td>Vaccine cold chain</td>
+<td>Product-specific ranges from frozen to 2–8 °C; excursions require product-specific stability and disposition evidence</td>
+<td>VERIFY</td>
 <td><a href="ch31.html">31</a></td>
 </tr>
 </tbody>
 </table></div>
-<h2 id="appendix_G_key_numbers-process-discipline-constants">Process Discipline Constants</h2>
+<h2 id="appendix_G_key_numbers-g5-process-and-statistical-discipline">G.5 Process and Statistical Discipline</h2>
 <div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Rule</th>
-<th>Statement</th>
+<th>Correct use</th>
+<th>Status</th>
 <th>Ch</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>√N law</td>
-<td>Averaging N repeats shrinks random error by √N</td>
+<td><code>1/√N</code></td>
+<td>Standard error of a mean falls as <code>1/√N</code> only for independent, approximately stable, identically distributed noise; correlations and drift break the assumption</td>
+<td>REFERENCE</td>
 <td><a href="ch20.html">20</a></td>
 </tr>
 <tr>
-<td>Learning curve</td>
-<td>Costs fall ~25–30 % per cumulative production doubling</td>
-<td><a href="ch35.html">35</a>/<a href="ch43.html">43</a></td>
-</tr>
-<tr>
-<td>I²R doctrine</td>
-<td>Doubling voltage quarters line loss — buy distance with voltage</td>
+<td><code>I²R</code></td>
+<td>Electrical loss in a conductor grows with current squared; line design trades current, voltage, conductor, and distance</td>
+<td>REFERENCE</td>
 <td><a href="ch26.html">26</a></td>
 </tr>
 <tr>
-<td>N-1 contingency</td>
-<td>Grid survives any single component loss instantly</td>
+<td>N-1 planning</td>
+<td>A credible single contingency should not cause unacceptable failure; common-cause and cascade risks remain</td>
+<td>CONDITIONAL</td>
 <td><a href="ch43.html">43</a></td>
 </tr>
 <tr>
-<td>Stewardship rule</td>
-<td>Antibiotics: right drug/dose/duration, narrow spectrum, complete courses</td>
+<td>Antibiotic stewardship</td>
+<td>Right indication, agent, dose, route, and evidence-based duration; not “always complete the course”</td>
+<td>REFERENCE</td>
 <td><a href="ch31.html">31</a></td>
 </tr>
 <tr>
-<td>Jump legality test</td>
-<td>Physics permits + knowledge exists + failure recoverable</td>
-<td><a href="appendix-c.html">Appendix C</a></td>
+<td>Capability index</td>
+<td><code>C_p</code> and related indices require a stable process, appropriate distribution, rational sampling, and specification limits</td>
+<td>CONDITIONAL</td>
+<td><a href="ch15.html">15</a>, <a href="ch47.html">47</a></td>
 </tr>
 <tr>
-<td>X̄–R chart constants</td>
-<td>n=5: A₂=0.577, D₃=0, D₄=2.114, σ̂=R̄/d₂ (d₂=2.326); baseline 20–25 subgroups; act only on signals</td>
+<td>X̄–R chart</td>
+<td>Use n=5 only as a teaching subgroup; constants apply to that subgroup. Baseline 20–25 points is a common starting practice, not universal</td>
+<td>CONDITIONAL</td>
 <td><a href="ch47.html">47</a></td>
 </tr>
 <tr>
-<td>Limit-gauge budget</td>
-<td>gauge tolerance ≤10 % of work tolerance; ~10 % wear allowance on GO member, audited monthly</td>
+<td>I-MR chart</td>
+<td>For one value per period (one smelt, one weekly fuel-per-ton figure): individuals limits X̄ ± 2.66 × MR̄, moving-range upper limit 3.267 × MR̄; attribute data use p- or c-charts instead</td>
+<td>CONDITIONAL</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Limit gauges</td>
+<td>Gauge uncertainty/tolerance allocation requires a real metrology budget; 10% is an example, not a law</td>
+<td>CONDITIONAL</td>
 <td><a href="ch15.html">15</a></td>
 </tr>
 <tr>
-<td>Capability gate</td>
-<td>tolerance ÷ 6σ̂ ≥ 1.33 before promising interchangeable parts</td>
-<td><a href="ch15.html">15</a>/<a href="ch47.html">47</a></td>
+<td>ISO cleanroom</td>
+<td>Class 7 room and Class 5 bench describe particle-count performance under a defined test; they do not by themselves guarantee yield or safety</td>
+<td>REFERENCE</td>
+<td><a href="ch35.html">35</a></td>
 </tr>
 <tr>
-<td>Interface standardization</td>
-<td>Container loading: ~$5.86/t break-bulk → ~$0.16/t containerized (lock the interface first; ISO 668)</td>
+<td>Interface standardisation</td>
+<td>Containers, threads, rails, electrical connectors, and similar interfaces gain value only when the entire chain adopts compatible standards</td>
+<td>REFERENCE</td>
 <td><a href="ch47.html">47</a></td>
-</tr>
-<tr>
-<td>First-fab cleanroom</td>
-<td>ISO Class 7 room + ISO Class 5 laminar bench (≥60 air changes/h)</td>
-<td><a href="ch35.html">35</a></td>
-</tr>
-<tr>
-<td>Zone-refining plan</td>
-<td>6–8 passes at ~2 mm/min, zone ≈ ingot diameter; boron (k≈0.8) resists zoning — remove chemically first</td>
-<td><a href="ch35.html">35</a></td>
-</tr>
-<tr>
-<td>Dead-end alarm</td>
-<td>Enthusiasm without falsification path = consult <a href="appendix-b.html">Appendix B</a></td>
-<td>B</td>
 </tr>
 </tbody>
 </table></div>
-<p><strong>Usage:</strong> print/laminate this appendix alongside <a href="appendix-a.html">Appendix A</a>. A carries the sequence; G carries the numbers that keep each step honest.</p>
+<h2 id="appendix_G_key_numbers-g6-navigation-and-communication">G.6 Navigation and Communication</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Quantity</th>
+<th>Value / relation</th>
+<th>Status</th>
+<th>Ch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LEO/GEO</td>
+<td>LEO commonly ≈400–1,200 km; GEO altitude ≈35,786 km; mission requirements determine orbit</td>
+<td>REFERENCE</td>
+<td><a href="ch40.html">40</a></td>
+</tr>
+<tr>
+<td>GPS relativity</td>
+<td>Net satellite-clock offset is about +38 μs/day; uncorrected timing corresponds to roughly 10 km/day of position error</td>
+<td>REFERENCE</td>
+<td><a href="ch40.html">40</a></td>
+</tr>
+<tr>
+<td>Longitude timing</td>
+<td>Earth rotates 15°/hour; 1 s of time error is about 463 m of longitude at the equator</td>
+<td>REFERENCE</td>
+<td><a href="ch20.html">20</a></td>
+</tr>
+<tr>
+<td>Fibre loss</td>
+<td>Modern low-loss fibre is commonly ≈0.15–0.2 dB/km near 1550 nm; half power survives about 15–20 km</td>
+<td>CONDITIONAL</td>
+<td><a href="ch41.html">41</a></td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_G_key_numbers-g7-required-next-audit">G.7 Required Next Audit</h2>
+<p>Before this appendix becomes a laminated field card:</p>
+<ul>
+<li>attach a primary or authoritative source to every reference value;</li>
+<li>add source date, range, and uncertainty;</li>
+<li>obtain professional sign-off for medical, toxicological, explosive, pressure, electrical, structural, nuclear, and aerospace entries;</li>
+<li>replace <code>VERIFY</code> values with sourced, conditional statements or remove them;</li>
+<li>state the exact edition/date for volatile prices and technology status;</li>
+<li>run an independent link and numerical-consistency audit;</li>
+<li>add a revision date and change-control owner.</li>
+</ul>
+<p>Until then, use the linked chapter context and current specialist standards—not this card alone.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="appendix-f.html" class="reader-nav-link">← Appendix F</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <span class="reader-nav-link disabled">End →</span>
+  <a href="source-policy.html" class="reader-nav-link">Source policy →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

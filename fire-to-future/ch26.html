@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch26_electricity_2-chapter-26-electricity-ii-dynamos-motors-lighting-grids">Chapter 26: Electricity II: Dynamos, Motors, Lighting, Grids</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1866 self-excitation → 1900 AC grids · <strong>Difficulty:</strong> high
-<br><strong>Requires:</strong> <a href="ch25.html">Ch 25</a>, <a href="ch23.html">Ch 23</a> prime movers, <a href="ch22.html">Ch 22</a> core steel · <br><strong>Unlocks:</strong> <a href="ch34.html">Ch 34</a>, electrified industry, <a href="ch43.html">Ch 43</a></p>
+<p><strong>Era span:</strong> 1866 self-excitation → 1900 AC grids · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch22.html">Ch 22</a>, <a href="ch23.html">Ch 23</a>, <a href="ch25.html">Ch 25</a><br><strong>Unlocks:</strong> <a href="ch34.html">Ch 34</a>, <a href="ch38.html">Ch 38</a>, <a href="ch41.html">Ch 41</a>, <a href="ch42.html">Ch 42</a>, <a href="ch43.html">Ch 43</a></p>
 </blockquote>
 <p>Part III's climax: converting mechanical power into the universal currency of electricity and distributing it. The physics is all Faraday/Maxwell (<a href="ch25.html">Ch 25</a>); this chapter is engineering scale-up — and one decisive architecture fight (AC vs DC) that you can win in advance.</p>
 <figure class="fig">
@@ -269,7 +270,7 @@ body {
 <p>A coil rotating in a magnetic field induces EMF; commutator rectifies to DC pulses, slip rings pass AC through.</p>
 <ul>
 <li><strong>Field magnets:</strong> permanent → electromagnets. <strong>Self-excitation (Siemens/Wheatstone, 1866–67):</strong> feed generator output back to its own field coils using residual magnetism as seed — dynamos bootstrap from zero field. THE enabling trick.</li>
-<li><strong>Armature evolution:</strong> two-pole Gramme rings → multi-coil drum armatures = smoother voltage, less sparking.</li>
+<li><strong>Armature evolution:</strong> Gramme ring armatures → drum armatures (von Hefner-Alteneck, 1872) with many coils in slots = smoother voltage, less sparking, better use of copper.</li>
 <li>Efficiency climbs from ~30 % to &gt;90 % across a generation; every percent is fuel money forever.</li>
 </ul>
 <div class="table-wrap"><table>
@@ -308,9 +309,9 @@ body {
 <li><strong>Incandescent (Edison/Swan, 1879):</strong> high-resistance carbon filament glowing ~1,700 °C in vacuum (vacuum pumps from <a href="ch20.html">Ch 20</a> prevent burnout). Edison's SYSTEM insight outranks the lamp: high-resistance lamps allow PARALLEL circuits on economical copper — low-resistance arc-era thinking demanded series strings that died together.</li>
 <li>Economics rule discovered here, governing everything after: <strong>copper costs vs line losses.</strong> Doubling distribution voltage quarters I²R loss for same power — voltage is how you buy copper savings.</li>
 </ul>
-<p><strong>Filament program (Menlo Park pattern):</strong> test thousands of candidates (bamboo won first), log hours-to-failure per batch, vacuum to &lt;1 torr, seal while hot. The lamp is 10% glassware, 90% quality statistics — the laboratory, not the bulb, was Edison's invention (<a href="ch47.html">Ch 47</a>).</p>
+<p><strong>Filament program (Menlo Park pattern):</strong> test thousands of candidates (carbonised cotton thread first, then carbonised bamboo), log hours-to-failure per batch, pump to high vacuum (Edison's lamps reached roughly a millionth of an atmosphere), seal while hot. The lamp is 10% glassware, 90% quality statistics — the laboratory, not the bulb, was Edison's invention (<a href="ch47.html">Ch 47</a>).</p>
 <h2 id="ch26_electricity_2-263-the-grid-begins">26.3 The Grid Begins</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> grids kill linemen and the public by arc flash, step voltage, and backfeed — high voltage jumps gaps, grounds energize earth for meters, and "dead" lines re-energize from generators. Isolate, lock, test-before-touch, ground both sides of the work zone, and treat every conductor as live until proven dead twice.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> grids kill through arc flash, step and touch voltage, stored charge, induced voltage, and backfeed. De-energisation is a procedure: identify all sources, isolate, lock/tag, prove dead with a correctly rated tester, apply approved protective grounds where the hazard assessment requires them, and maintain boundaries. A “dead” line may re-energise. Only qualified electrical workers may perform this work; the historical one-hand convention is not a substitute for rated equipment and an approved method.</p>
 <p>Pearl Street Station (1882): steam engine + Jumbo dynamos serving ~60 customers within a kilometer — DC's radius limit made visible. Every district needed its own plant (<strong>Dead end avoided:</strong> don't build the dense DC-megaplant future; it dies against transformer arithmetic below).</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Transformer transmission arithmetic">
@@ -351,7 +352,7 @@ body {
 <ul>
 <li>Step UP at generation → transmit at high voltage (10–100 kV) → step DOWN for use. Line loss arithmetic beats nostalgia; long-distance transmission becomes trivial.</li>
 <li><strong>Induction motor (Tesla/Ferraris, 1888):</strong> rotating field drags a squirrel-cage rotor with no brushes or commutator — rugged, cheap, self-starting under polyphase supply. Industry's default motor ever since.</li>
-<li><strong>Polyphase systems:</strong> three phases offset 120° deliver constant instantaneous power and self-starting fields; transmission towers carry three conductors where six would otherwise suffice.</li>
+<li><strong>Polyphase systems:</strong> three phases offset 120° deliver constant instantaneous power and self-starting fields; transmission towers carry three conductors where three separate single-phase circuits would need six.</li>
 </ul>
 <p>The "War of Currents" was decided by arithmetic, not marketing — adopt polyphase AC as your standard from day one of grid planning. Keep DC only where chemistry needs it (electroplating, batteries, later HVDC links).</p>
 <div class="table-wrap"><table>
@@ -374,7 +375,7 @@ body {
 <td>Induction (Tesla)</td>
 <td>3-phase AC</td>
 <td>No — rugged</td>
-<td>Factory default forever</td>
+<td>The factory default ever since</td>
 </tr>
 <tr>
 <td>Synchronous</td>
@@ -388,7 +389,7 @@ body {
 <ul>
 <li><strong>Frequency standardize:</strong> 50 or 60 Hz, ONE value nationwide (mixed frequencies were a decades-long tax).</li>
 <li><strong>Synchronization:</strong> paralleling alternators requires matched frequency/phase/voltage — synchroscopes check before breakers close.</li>
-<li><strong>Protection:</strong> fuses then circuit breakers clear faults; grounding bonds every exposed conductor; insulation coordination per voltage class.</li>
+<li><strong>Protection:</strong> fuses and circuit breakers interrupt faults under their rated duty; equipment grounding/bonding ties exposed metal to earth so that a fault trips the protection instead of electrifying the frame. System earthing — whether and how the neutral is grounded — is a separate design decision; most distribution systems ground the neutral deliberately at the source. Insulation, creepage, clearance, overcurrent coordination, and earthing are engineered by voltage class and fault current.</li>
 <li><strong>Metering:</strong> induction meters bill by kWh — honest accounting makes grids financeable (<a href="ch47.html">Ch 47</a> again: measurement IS governance).</li>
 <li><strong>Load management:</strong> diverse loads (day factories, evening lighting) flatten the demand curve; smaller peak capacity = cheaper grid.</li>
 </ul>
@@ -426,7 +427,7 @@ body {
 </tbody>
 </table></div>
 <p class="co co-key"><strong>Key threshold:</strong> when electricity costs less than ~the labor it displaces per task, adoption becomes automatic. Drive price down relentlessly — efficiency (<a href="#ch26_electricity_2-261-generators-dynamos">§26.1</a>), load factor, and fuel logistics (<a href="ch22.html">Ch 22</a>, later <a href="ch43.html">Ch 43</a>) are the three levers.</p>
-<p><strong>Jump recap for this Part:</strong> battery → telegraph → dynamo → transformer → polyphase grid, skipping electrostatic parlor era, DC mega-grid dead end, and single-phase confusion entirely. Part III ends with the modern world's power socket installed; Part IV plugs everything into it.</p>
+<p class="co co-jump"><strong>Jump:</strong> the compressed route for this Part runs battery → telegraph → dynamo → transformer → polyphase grid, skipping electrostatic parlor era, DC mega-grid dead end, and single-phase confusion entirely. Part III ends with the modern world's power socket installed; Part IV plugs everything into it.</p>
 <h2 id="ch26_electricity_2-267-the-grid-papers">26.7 The Grid Papers</h2>
 <ul>
 <li>Zénobe Gramme — a Belgian cabinetmaker working in Paris — built the commercially practical ring-armature dynamo (shown 1869–71); Siemens' self-exciting design (1866–67) supplied the bootstrap field principle. Industrial dynamos diffused through electroplating shops FIRST (plating paid before lighting did) — niche markets funding general technologies.</li>
@@ -437,14 +438,14 @@ body {
 <li>Metering closed the business case: Shallenberger's induction meter (1888) turned electricity into billable units — honest measurement making private grids financeable (<a href="ch47.html">Ch 47</a>'s metrology-governance link, again).</li>
 </ul>
 <h2 id="ch26_electricity_2-268-first-grid-greenfield-town">26.8 First Grid (Greenfield Town)</h2>
-<p>Dynamo hall beside steam (<a href="ch23.html">Ch 23</a>) → step-up → one trunk feeder at distribution voltage → step-down kiosks per street → meters per customer (<a href="ch47.html">Ch 47</a> billing) → plating shop + mill motors as anchor loads (they pay the coal bill while homes connect). One frequency, one voltage family, grounded everywhere — expand by paralleling, never by second standards.</p>
+<p>Dynamo hall beside steam (<a href="ch23.html">Ch 23</a>) → step-up → one trunk feeder at distribution voltage → step-down kiosks per street → meters per customer (<a href="ch47.html">Ch 47</a> billing) → plating shop + mill motors as anchor loads (they pay the coal bill while homes connect). One frequency, one voltage family, one earthing scheme everywhere — expand by paralleling, never by second standards.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch25.html" class="reader-nav-link">← Chapter 25</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch27.html" class="reader-nav-link">Chapter 27 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Appendix C — Catalog of Permissible Jumps — Fire to Future</title>
+<title>Appendix C — Conditional Jumps — Fire to Future</title>
 <style>
 
 :root {
@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -233,124 +235,129 @@ body {
   <span class="reader-progress">Appendix C of 7</span>
 </div>
 <main class="reader-content">
-<h1 id="appendix_C_jumps-appendix-c-catalog-of-permissible-jumps">Appendix C — Catalog of Permissible Jumps</h1>
+<h1 id="appendix_C_jumps-appendix-c-conditional-jumps">Appendix C — Conditional Jumps</h1>
 <blockquote class="meta">
-<p>Where knowledge lets you skip stages. History's detours are optional; each jump lists its minimum entry requirements and its risk.</p>
+<p>A jump is legal only when the skipped stage is not a hard prerequisite for the proposed capability at the intended scale. Historical development does not prove that a stage is compulsory; neither does the ability to describe a shortcut prove that people, materials, institutions, or failure recovery exist.</p>
 </blockquote>
-<h2 id="appendix_C_jumps-c1-valid-jumps">C.1 Valid Jumps</h2>
+<h2 id="appendix_C_jumps-c1-the-five-part-jump-test">C.1 The Five-Part Jump Test</h2>
+<p>A proposed jump passes only when all five questions have evidence-backed answers:</p>
+<ol>
+<li><strong>Physics and materials:</strong> no unaccounted hard prerequisite is violated.</li>
+<li><strong>Living knowledge:</strong> the needed theory, measurements, recipes, and failure data are held by real practitioners—not merely written in a book.</li>
+<li><strong>Competence and facilities:</strong> trained people, tools, test equipment, safe facilities, and quality inputs exist.</li>
+<li><strong>Institutional support:</strong> standards, finance, records, maintenance, supply, and accountability are available.</li>
+<li><strong>Recoverable failure:</strong> if the shortcut stalls, the society can return to a workable lower rung without catastrophe.</li>
+</ol>
+<figure class="fig">
+<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Five-part legality test for a technological jump">
+<title>Five-part legality test for a technological jump</title>
+<rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig C.1 — A jump is legal only when all five gates pass</text>
+<g text-anchor="middle" font-size="9">
+<rect x="12" y="50" width="116" height="72" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="70" y="70" font-weight="bold">① PHYSICS</text><text x="70" y="88">hard prerequisite</text><text x="70" y="103">not violated?</text>
+<rect x="136" y="50" width="116" height="72" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="194" y="70" font-weight="bold">② KNOWLEDGE</text><text x="194" y="88">held by living</text><text x="194" y="103">practitioners?</text>
+<rect x="260" y="50" width="116" height="72" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
+<text x="318" y="70" font-weight="bold">③ CAPABILITY</text><text x="318" y="88">people, tools,</text><text x="318" y="103">facilities ready?</text>
+<rect x="384" y="50" width="116" height="72" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
+<text x="442" y="70" font-weight="bold">④ INSTITUTIONS</text><text x="442" y="88">finance, rules,</text><text x="442" y="103">maintenance?</text>
+<rect x="508" y="50" width="120" height="72" rx="6" fill="#f9eeec" stroke="#8f3b2d" stroke-width="2"/>
+<text x="568" y="70" font-weight="bold">⑤ RECOVERY</text><text x="568" y="88">fallback still</text><text x="568" y="103">works?</text>
+</g>
+<text x="320" y="151" text-anchor="middle" font-size="10" font-weight="bold">One “no” does not always forbid the jump; it names the evidence or capability that must be built first.</text>
+<text x="320" y="177" text-anchor="middle" font-size="9.5" font-style="italic">Example: tubes → transistors: physics may permit it, but semiconductor purity, contamination control, and fabrication competence decide legality.</text>
+</svg>
+<figcaption><strong>Figure C.1.</strong> The jump test separates an attractive physical possibility from an executable technological and institutional programme.</figcaption>
+</figure>
+
+<h2 id="appendix_C_jumps-c2-conditional-jumps">C.2 Conditional Jumps</h2>
 <div class="table-wrap"><table>
 <thead>
 <tr>
-<th>Skip</th>
-<th>Historical detour</th>
-<th>Why skippable</th>
-<th>Minimum knowledge needed</th>
-<th>Risk</th>
+<th>Skip or compress</th>
+<th>Why it may be legal</th>
+<th>Entry requirements</th>
+<th>Main risk</th>
+<th>Control</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Copper/bronze era compression (<a href="ch10.html">Ch 10</a>)</td>
-<td>~2,000 yrs of tin-route geopolitics</td>
-<td>Iron ore is everywhere; furnace skills transfer directly</td>
-<td>Bloomery chemistry + forging discipline</td>
-<td>Smiths lack casting finesse; keep small bronze capability for bearings/art</td>
+<td>Long Bronze Age → iron</td>
+<td>Local ore and bloomery skill may avoid a tin-import economy</td>
+<td>reliable charcoal, furnace skill, qualified forging and heat treatment</td>
+<td>brittle iron, weak tooling, false metallurgy</td>
+<td>keep limited copper/bronze where castability or corrosion resistance matters</td>
 </tr>
 <tr>
-<td>Logographic writing → phonetic alphabet (<a href="ch11.html">Ch 11</a>)</td>
-<td>Millennia of script refinement</td>
-<td>24 letters cover all speech; literacy time collapses to months</td>
-<td>Understanding of phoneme-letter mapping</td>
-<td>Losing logographic cultural continuity (cosmetic)</td>
+<td>Long development of logographic writing → designed alphabet</td>
+<td>A purpose-built script can target a known language efficiently</td>
+<td>phonology, teaching materials, durable media, many trained readers</td>
+<td>designing around one language or excluding non-literate knowledge</td>
+<td>test literacy and inclusion; preserve oral and visual record</td>
 </tr>
 <tr>
-<td>Roman numerals → positional decimal with zero (<a href="ch12.html">Ch 12</a>)</td>
-<td>Centuries of abacus-only arithmetic</td>
-<td>Algorithms are teachable directly</td>
-<td>Place-value pedagogy</td>
-<td>None — pure gain</td>
+<td>Roman numerals → positional decimal</td>
+<td>General arithmetic and accounting are easier to teach with place value</td>
+<td>place-value pedagogy, digit forms, paper/abacus bridge, quality standards</td>
+<td>unfamiliarity or mistaken “pure gain” claim</td>
+<td>retain abaci as independent checks during migration</td>
 </tr>
 <tr>
-<td>Ptolemaic astronomy → heliocentrism (<a href="ch19.html">Ch 19</a>)</td>
-<td>~1,400 yrs epicycle patching</td>
-<td>Telescope evidence (Venus phases, Jupiter moons) settles it immediately</td>
-<td>Refracting telescope + patience</td>
-<td>None once instruments exist</td>
+<td>Long gas lighting transition → electric lighting</td>
+<td>Electric grids can displace urban gas and improve control</td>
+<td>generation, distribution, protection, meters, maintenance</td>
+<td>stranded gas assets and weak grids</td>
+<td>phase replacement by district; retain emergency lighting</td>
 </tr>
 <tr>
-<td>Miasma-era medicine → germ theory practice (<a href="ch30.html">Ch 30</a>)</td>
-<td>Decades of sanitary confusion</td>
-<td>Boiling/antisepsis/filtration work without full theory</td>
-<td>Koch-Pasteur core + handwashing doctrine</td>
-<td>Overconfidence in partial theory — keep empirical feedback loops</td>
+<td>Mechanical general-purpose computing → electronic</td>
+<td>Electronic switching can replace many mechanical functions</td>
+<td>logic, reliable devices, power, memory, software discipline</td>
+<td>premature scaling and unmaintainable hardware</td>
+<td>retain tested procedures and independent data backups</td>
 </tr>
 <tr>
-<td>Telegraph as consumer network → radio-first (<a href="ch25.html">Ch 25</a>, <a href="ch34.html">34</a>)</td>
-<td>Wired-network buildout decades</td>
-<td>Radio needs batteries+magnetism anyway; skip copper landline sprawl</td>
-<td>Battery tech + induction understanding</td>
-<td>Lose telegraphy's training-ground for line maintenance professions; keep minimal wire skills</td>
+<td>Film-only imaging → digital</td>
+<td>Digital sensors can fit a semiconductor and software platform</td>
+<td>fabs, optics, calibration, storage, colour science</td>
+<td>loss of capability if lens and film expertise disappear</td>
+<td>preserve selected film processes; require interoperable formats</td>
 </tr>
 <tr>
-<td>Vacuum-tube consumer products → transistors (<a href="ch34.html">Ch 34</a>→<a href="ch35.html">35</a>)</td>
-<td>Tube-era electronics decades</td>
-<td>Circuit concepts port; tubes only needed as scaffolding</td>
-<td>Zone-refined silicon + planar process prerequisites (<a href="ch35.html">§35.5</a>)</td>
-<td>HIGH if purity infrastructure immature — tubes then remain necessary fallback</td>
+<td>Landline-first telecom → wireless/cellular</td>
+<td>Wireless access can avoid some last-mile copper</td>
+<td>spectrum regulation, RF engineering, switching, backhaul</td>
+<td>interference, surveillance, fragile backhaul; cellular is not a total replacement</td>
+<td>design redundant fibre and radio paths; test jurisdiction and interoperability</td>
 </tr>
 <tr>
-<td>Film photography → digital imaging</td>
-<td>A century of silver halide industry</td>
-<td>Semiconductor sensors ride the same fab base</td>
-<td>CCD/CMOS fabrication capability</td>
-<td>Early digital quality is poor; niche optics still need film-era lens craft (keep that part)</td>
+<td>Canal era → early railway</td>
+<td>A few strategic railways can carry bulk freight sooner</td>
+<td>locomotives, permanent way, finance, maintenance, safe operations</td>
+<td>weak alignment and single-route failure</td>
+<td>retain strategic water transport as a redundant route</td>
 </tr>
 <tr>
-<td>Landline telephony → radio then cellular (<a href="ch41.html">Ch 41</a>)</td>
-<td>Copper loop plant everywhere</td>
-<td>Cellular skips last-mile copper entirely</td>
-<td>RF engineering + switching software</td>
-<td>Regulatory/spectrum management must mature FAST</td>
+<td>Sail refinement → steam assist</td>
+<td>Steam can improve schedule certainty where fuel and maintenance exist</td>
+<td>marine boilers, pressure controls, engine-room competence</td>
+<td>fuel logistics and single-engine dependence</td>
+<td>retain sail as emergency propulsion and test changeovers</td>
 </tr>
 <tr>
-<td>Canal age → early railways (<a href="ch24.html">Ch 24</a>)</td>
-<td>Canal network overbuild</td>
-<td>Railways obsoleted much of history's canal grid</td>
-<td>Locomotive maturity + steel rails</td>
-<td>Bulk freight economics suffer pre-rail; build ONE strategic canal, not networks</td>
-</tr>
-<tr>
-<td>Sailing-ship refinement → steam-assist early (<a href="ch23.html">Ch 23</a>, <a href="ch24.html">24</a>)</td>
-<td>Century of clipper perfection</td>
-<td>Marine steam pays immediately on schedules</td>
-<td>Compact marine boilers</td>
-<td>Fuel logistics at sea initially painful</td>
-</tr>
-<tr>
-<td>Mechanical calculators → electronic computing (<a href="ch36.html">Ch 36</a>)</td>
-<td>Babbage-through-tabulator era</td>
-<td>Relay/tube machines leapfrog gears</td>
-<td>Switching-circuit theory (Shannon)</td>
-<td>Numerical analysis lore from mechanical era gets skipped — relearn rounding/error discipline</td>
-</tr>
-<tr>
-<td>Gas-lighting city infrastructure → electric lighting (<a href="ch26.html">Ch 26</a>)</td>
-<td>Gasworks+streetlamps half-century</td>
-<td>Dynamos make gas lighting instantly obsolete</td>
-<td>Grid maturity</td>
-<td>Pre-grid nights stay dark longer; candles/whale oil bridge</td>
-</tr>
-<tr>
-<td>Horse-drawn urban transit → motor buses/trams</td>
-<td>Streetcar-horse era</td>
-<td>ICE/electric traction arrives together</td>
-<td>Vehicle industry basics</td>
-<td>Urban form assumes density later than historical pattern</td>
+<td>Mature vacuum-tube consumer products → semiconductors</td>
+<td>Solid-state devices can replace many consumer tubes</td>
+<td>qualified silicon, planar process, contamination control, yield statistics</td>
+<td>uncontrolled fab and maintenance burden</td>
+<td>use tube circuits as conceptual and emergency fallback only where justified</td>
 </tr>
 </tbody>
 </table></div>
-<h2 id="appendix_C_jumps-c2-jumps-that-fail">C.2 Jumps That FAIL</h2>
-<p>Tempting skips that don't work — listed so nobody wastes a decade discovering why:</p>
+<h2 id="appendix_C_jumps-c3-alphabet-covers-all-speech-is-not-a-jump-criterion">C.3 “Alphabet covers all speech” is not a jump criterion</h2>
+<p>An alphabet designed for a known language can encode its phonemes efficiently; no finite stock of ordinary characters literally represents all speech, dialect variation, prosody, gesture, and meaning. The relevant question is whether the script is <strong>adequate, teachable, and maintainable for its actual users</strong>.</p>
+<h2 id="appendix_C_jumps-c4-jumps-that-commonly-fail">C.4 Jumps That Commonly Fail</h2>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -360,88 +367,65 @@ body {
 </thead>
 <tbody>
 <tr>
-<td>Skipping pottery (<a href="ch05.html">Ch 5</a>)</td>
-<td>Kilns gate EVERYTHING hot: crucibles, tuyères, lime, glass, brick. No ceramics = no metallurgy, no chemistry.</td>
+<td>Skipping pottery or another controlled-heat vessel capability</td>
+<td>Metallurgy, glass, lime, tile, refractories, and laboratory work all depend on controlled vessels and heat</td>
 </tr>
 <tr>
-<td>Skipping precision instrument culture (<a href="ch20.html">Ch 20</a>)</td>
-<td>"Close enough" machine tools cannot build engines; tolerances compound. Watt needed Wilkinson's borer; you need your equivalents.</td>
+<td>Skipping precision measurement</td>
+<td>Cylinders, pressure, chemistry, power, medicine, and electronics inherit their errors</td>
 </tr>
 <tr>
-<td>Skipping the institutional layer (<a href="ch47.html">Ch 47</a>)</td>
-<td>Finance/logistics/law gate SCALE. Hardware ladders stall at village scale without credit, contracts, statistics.</td>
+<td>Skipping public health before clinical medicine</td>
+<td>Devices cannot compensate for continual exposure to contaminated water, waste, and infection</td>
 </tr>
 <tr>
-<td>Skipping sanitation for antibiotics (<a href="ch30.html">Ch 30</a>, <a href="ch31.html">31</a>)</td>
-<td>Resistance disaster: antibiotics in filthy environments breed resistant flora faster than new drugs arrive. Sanitation first, ALWAYS.</td>
+<td>Skipping institutions and maintenance</td>
+<td>Hardware does not scale beyond its procurement, funding, records, incentives, and repair system</td>
 </tr>
 <tr>
-<td>Coal → oil directly, skipping coal-iron synergy (<a href="ch22.html">Ch 22</a>)</td>
-<td>Petroleum refining needs drilled wells, steel, pressure vessels, catalysts — all children of the coal-iron-steam complex.</td>
+<td>Skipping coal/iron/steel capability to jump directly to oil and electronics</td>
+<td>Drilling, pressure vessels, catalysts, motors, grids, and tools depend on prior industrial capability</td>
 </tr>
 <tr>
-<td>Skipping water/wind mills straight to steam (<a href="ch16.html">Ch 16</a>)</td>
-<td>Millwrights ARE the workforce that builds engines. No milling tradition = no machining culture = engines nobody can service.</td>
+<td>Skipping semiconductor process control by starting with a transistor diagram</td>
+<td>A one-off transistor does not establish yield, contamination control, metrology, safety, or maintenance</td>
 </tr>
 <tr>
-<td>Direct fusion pursuit, skipping fission/renewables (<a href="ch43.html">Ch 43</a>)</td>
-<td>Fusion is decades-from-grid even optimistically; gating civilization on it is planning suicide. Fission+solar+wind suffice.</td>
+<td>Direct fusion dependency</td>
+<td>Fusion remains an incomplete technology; planning cannot assume schedule or cost certainty</td>
 </tr>
 <tr>
-<td>Skipping writing for oral tradition + computers</td>
-<td>Computation needs text interfaces, specifications, code — writing is load-bearing all the way up.</td>
+<td>Humanoid robots before structured automation</td>
+<td>General manipulation remains harder than many constrained factory and logistics tasks</td>
 </tr>
 <tr>
-<td>Skipping money for barter or pure allocation (<a href="ch09.html">Ch 9</a>)</td>
-<td>Prices aggregate distributed knowledge; alternatives require omniscience nobody has.</td>
-</tr>
-<tr>
-<td>Humanoid robots before structured automation (<a href="ch45.html">Ch 45</a>)</td>
-<td>Dexterity lacks its transistor moment; automate factories/warehouses first or waste capital on theater.</td>
+<td>Money replaced by informal sharing or allocation at continental scale</td>
+<td>Large cooperation still needs records, standards, dispute handling, and a way to express scarcity and priorities—though the form need not be coinage</td>
 </tr>
 </tbody>
 </table></div>
-<h2 id="appendix_C_jumps-c3-jump-discipline">C.3 Jump Discipline</h2>
-<figure class="fig">
-<svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Jump legality test">
-<title>Jump legality test</title>
-<rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
-<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig C.1 — Legal iff ALL three hold (one NO = walk the rung)</text>
-<g font-size="10" text-anchor="middle" font-weight="bold">
-<rect x="30" y="55" width="170" height="60" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
-<text x="115" y="75">① PHYSICS PERMITS</text>
-<text x="115" y="89" font-size="9" font-weight="normal">no violated prerequisite</text>
-<text x="115" y="102" font-size="9" font-weight="normal">(§C.2 failures list)</text>
-<rect x="235" y="55" width="170" height="60" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
-<text x="320" y="75">② KNOWLEDGE EXISTS</text>
-<text x="320" y="89" font-size="9" font-weight="normal">someone alive holds</text>
-<text x="320" y="102" font-size="9" font-weight="normal">the compressed theory</text>
-<rect x="440" y="55" width="170" height="60" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
-<text x="525" y="75">③ FAILURE SURVIVABLE</text>
-<text x="525" y="89" font-size="9" font-weight="normal">previous rung reachable</text>
-<text x="525" y="102" font-size="9" font-weight="normal">without catastrophe</text>
-</g>
-<text x="320" y="140" text-anchor="middle" font-size="10">examples: bronze→iron ✓✓✓ (jump) · tubes→transistors ✓✓✗ w/o purity (scaffold first)</text>
-<text x="320" y="157" text-anchor="middle" font-size="10" font-weight="bold">Document the verdict in your copy — the table IS the book's advantage.</text>
-<text x="320" y="174" text-anchor="middle" font-size="9" font-style="italic">never jump pottery, writing, money, mills, instruments, sanitation, or institutions (§C.2)</text>
-</svg>
-<figcaption><strong>Figure C.1.</strong> Three gates, all mandatory: physics must allow it, living knowledge must cover the skipped discovery, and stalling must land soft. Tubes-to-transistors fails gate three without purity culture — which is why the book keeps tubes as scaffolding.</figcaption>
-</figure>
-
-<p>A jump is legal when THREE conditions hold simultaneously:</p>
-<ol>
-<li><strong>Physics permits</strong> — no violated prerequisite (see failures table).</li>
-<li><strong>Knowledge exists</strong> — someone alive holds the compressed theory the detour originally discovered.</li>
-<li><strong>Failure is recoverable</strong> — if the jump stalls, the previous rung is still reachable without catastrophe.</li>
-</ol>
-<p>Test every proposed shortcut against all three; document the verdict in your own copy of this appendix. The book's whole advantage IS this table — use it deliberately rather than re-walking history blind.</p>
+<h2 id="appendix_C_jumps-c5-jump-record">C.5 Jump Record</h2>
+<p>For every accepted jump, record:</p>
+<ul>
+<li>skipped stage;</li>
+<li>target scale and operating environment;</li>
+<li>hard-prerequisite analysis;</li>
+<li>living-knowledge holders;</li>
+<li>required competence and facilities;</li>
+<li>institutional owner and budget;</li>
+<li>acceptance test;</li>
+<li>failure signal and stop-work threshold;</li>
+<li>fallback capability;</li>
+<li>review date.</li>
+</ul>
+<p>A jump is not “free” because history spent time there. It is efficient only when the saved time exceeds the new verification and coordination cost.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="appendix-b.html" class="reader-nav-link">← Appendix B</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="appendix-d.html" class="reader-nav-link">Appendix D →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

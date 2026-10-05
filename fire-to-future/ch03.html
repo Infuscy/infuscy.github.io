@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch03_textiles-chapter-3-cordage-basketry-hides-and-textiles">Chapter 3: Cordage, Basketry, Hides, and Textiles</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> ~50,000 BCE onward · <strong>Difficulty:</strong> low
-<br><strong>Requires:</strong> <a href="ch02.html">Ch 2</a> (cutting edges) · <br><strong>Unlocks:</strong> <a href="ch04.html">Ch 4</a> (nets, snares, bowstrings), <a href="ch06.html">Ch 6</a> (lashing), <a href="ch08.html">Ch 8</a> (halters, harness), <a href="ch16.html">Ch 16</a> (mill drives)</p>
+<p><strong>Era span:</strong> ~50,000 BCE onward · <strong>Difficulty:</strong> low<br><strong>Requires:</strong> <a href="ch02.html">Ch 2</a><br><strong>Unlocks:</strong> <a href="ch04.html">Ch 4</a>, <a href="ch06.html">Ch 6</a>, <a href="ch08.html">Ch 8</a>, <a href="ch16.html">Ch 16</a></p>
 </blockquote>
 <p>String is the quiet giant of technology. Bows, nets, snares, fishing lines, lashings, tethers, slings, baskets, sails, belts, and every pre-modern machine transmission depend on twisted fiber. A civilization without cordage cannot hunt efficiently, build flexibly, or transmit power.</p>
 <figure class="fig">
@@ -244,11 +245,27 @@ body {
 <title>Reverse wrap cordage method</title>
 <rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 3.1 — Reverse wrap: opposing twists lock (the universal cord)</text>
-<path d="M80,80 Q140,60 200,80 Q260,100 320,80" fill="none" stroke="#8a6d1f" stroke-width="3"/>
-<path d="M80,100 Q140,120 200,100 Q260,80 320,100" fill="none" stroke="#4a4436" stroke-width="3"/>
-<text x="200" y="60" text-anchor="middle" font-size="10">strand A: twist clockwise ──→</text>
-<text x="200" y="130" text-anchor="middle" font-size="10">←── strand B: fold counter-clockwise</text>
-<text x="200" y="145" text-anchor="middle" font-size="9" font-style="italic">torsion opposes torsion = locked</text>
+<path d="M44,90 Q24,95 44,100" fill="none" stroke="#8a6d1f" stroke-width="4"/>
+<path d="M216,92 Q238,86 262,66" fill="none" stroke="#8a6d1f" stroke-width="4" stroke-linecap="round"/>
+<path d="M216,98 Q238,104 262,124" fill="none" stroke="#6b5a33" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="48" cy="95" rx="11" ry="5.5" transform="rotate(-40 48 95)" fill="#c9a86a" stroke="#8a6d1f" stroke-width="1"/>
+<ellipse cx="63" cy="95" rx="11" ry="5.5" transform="rotate(-40 63 95)" fill="#6b5a33" stroke="#16130e" stroke-width="1"/>
+<ellipse cx="78" cy="95" rx="11" ry="5.5" transform="rotate(-40 78 95)" fill="#c9a86a" stroke="#8a6d1f" stroke-width="1"/>
+<ellipse cx="93" cy="95" rx="11" ry="5.5" transform="rotate(-40 93 95)" fill="#6b5a33" stroke="#16130e" stroke-width="1"/>
+<ellipse cx="108" cy="95" rx="11" ry="5.5" transform="rotate(-40 108 95)" fill="#c9a86a" stroke="#8a6d1f" stroke-width="1"/>
+<ellipse cx="123" cy="95" rx="11" ry="5.5" transform="rotate(-40 123 95)" fill="#6b5a33" stroke="#16130e" stroke-width="1"/>
+<ellipse cx="138" cy="95" rx="11" ry="5.5" transform="rotate(-40 138 95)" fill="#c9a86a" stroke="#8a6d1f" stroke-width="1"/>
+<ellipse cx="153" cy="95" rx="11" ry="5.5" transform="rotate(-40 153 95)" fill="#6b5a33" stroke="#16130e" stroke-width="1"/>
+<ellipse cx="168" cy="95" rx="11" ry="5.5" transform="rotate(-40 168 95)" fill="#c9a86a" stroke="#8a6d1f" stroke-width="1"/>
+<ellipse cx="183" cy="95" rx="11" ry="5.5" transform="rotate(-40 183 95)" fill="#6b5a33" stroke="#16130e" stroke-width="1"/>
+<ellipse cx="198" cy="95" rx="11" ry="5.5" transform="rotate(-40 198 95)" fill="#c9a86a" stroke="#8a6d1f" stroke-width="1"/>
+<ellipse cx="213" cy="95" rx="11" ry="5.5" transform="rotate(-40 213 95)" fill="#6b5a33" stroke="#16130e" stroke-width="1"/>
+<text x="130" y="76" text-anchor="middle" font-size="9" font-style="italic">two-ply cord (each strand twisted, then plied)</text>
+<text x="268" y="64" font-size="10" font-weight="bold">1. twist top strand</text>
+<text x="268" y="76" font-size="9">tight, clockwise ↻</text>
+<text x="268" y="122" font-size="10" font-weight="bold">2. fold it over</text>
+<text x="268" y="134" font-size="9">counter-clockwise ↺</text>
+<text x="130" y="122" text-anchor="middle" font-size="9" font-style="italic">repeat: torsion opposes torsion = locked</text>
 <text x="470" y="53" text-anchor="middle" font-size="11" font-weight="bold">STRENGTH ARITHMETIC</text>
 <text x="470" y="66" text-anchor="middle" font-size="9" font-style="italic">bar length ∝ strength</text>
 <rect x="380" y="74" width="30" height="20" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/>
@@ -310,7 +327,7 @@ body {
 <li>Splice in new fiber with staggered tails so no point carries all the load.</li>
 </ul>
 <p class="co co-key"><strong>Key threshold:</strong> a properly made 3 mm two-ply cord of bast fiber holds 20–50 kg. Multiply strands: doubled diameter ≈ quadruple strength. This arithmetic turns hand-made cord into rigging capable of hauling logs, well-buckets, and later millstones (<a href="ch16.html">Ch 16</a>).</p>
-<p>Rope-making scales up with a simple <strong>rope walk</strong>: three or four cords paid out between two posts, wound together on a top with a crank, countersunk tension at the far end. An afternoon's work yields a ship's hawser.</p>
+<p>Rope-making scales up with a simple <strong>rope walk</strong>: three or four cords paid out between two posts, wound together on a top with a crank, counter-tension (a weighted sledge) at the far end. A ship's hawser needs a long walk — historical rope walks ran a few hundred metres — and a practised crew.</p>
 <pre><code>FIBER → ret → scutch/hetchel → REVERSE-WRAP 2-ply → 3-ply cable-laid
    → ROPE WALK (3–4 cables + top + crank) → HAWSER (tarred for weather)
 </code></pre>
@@ -322,7 +339,7 @@ body {
 <li><strong>Twining</strong> (active warps twisting around passive wefts): flexible, strong bags, fish traps, snowshoe frames.</li>
 <li><strong>Plaiting</strong> (checkerboard over-under): fast mats, screens, basket bases.</li>
 </ul>
-<p>Waterproofing options: pine-pitch linings, clay-plastered interiors (a stepping stone to pottery — some ceramic traditions began as fired baskets), or woven-tight willow that self-seals when wetted and swelled.</p>
+<p>Waterproofing options: pine-pitch linings, clay-plastered interiors (a stepping stone to pottery — some ceramic traditions began as fired baskets), or tightly coiled grass and root baskets that swell shut when soaked.</p>
 <p><strong>Hot-stone cooking (basket cuisine):</strong> watertight coiled basket + heated stones from the fire (<a href="ch01.html">Ch 1</a>) → stones cycle fire-to-basket, water boils without a pot. Grains, stews, and fish oils all predate ceramics this way — the Jōmon lipid record (<a href="ch05.html">Ch 5</a>) has a basketry prequel.</p>
 <h2 id="ch03_textiles-34-hides-from-skin-to-leather">3.4 Hides: From Skin to Leather</h2>
 <p>Raw hide rots and stiffens unpredictably; processed leather does neither. Two main routes:</p>
@@ -330,8 +347,8 @@ body {
 <li><strong>Brain tanning</strong> (buckskin): scrape membranes from a dehaired hide, work an emulsified brain-water mash (lecithin does the work; every animal has enough for its own hide) into the fibers, wring, smoke over rotten-wood smudge. Result: soft, washable buckskin.</li>
 <li><strong>Vegetable tanning:</strong> soak dehaired hides in progressively stronger baths of oak/birch bark liquor (tannins cross-link collagen) for weeks to months. Stiffer, firmer leather — the stuff of soles, buckets, belting, and later machinery drive-belts (<a href="ch16.html">Ch 16</a>).</li>
 </ol>
-<p>Either way: flesh, dehair (slaked-wood-ash paste loosens hair), frame-stretch, and dry evenly. Hair-on hides make winter robes; rawhide makes glue stock and drum heads.</p>
-<p class="co co-dead"><strong>Dead end avoided:</strong> skipping preservation because "meat on the hoof" suffices. Untanned hides are a perishable liability; unprocessed herds' skins were historically burned as waste before tanning knowledge spread.</p>
+<p>Either way: flesh, dehair (a wood-ash lye or slaked-lime soak loosens hair; both burn skin and eyes, so handle with gloves and rinse spills at once), frame-stretch, and dry evenly. Hair-on hides make winter robes; rawhide makes glue stock and drum heads.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> treating the hide as a by-product of the meat. An untanned skin starts to rot within a day or two in warm weather, so a hunt or slaughter without a hide plan wastes the animal's second most valuable yield. Flesh, salt or dry, and frame the hide the same day as butchery.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -405,7 +422,7 @@ body {
 <li>Weaving beats knotted-netting for cloth density; tablet weaving produces strong decorative bands for straps and trim.</li>
 <li>Wool arrives with domesticated sheep (<a href="ch08.html">Ch 8</a>); linen from retted flax; cotton where climate allows. Spinning (drop spindle: weighted stick twisting fiber into continuous yarn) is the bottleneck labor — one spinner supports roughly one weaver.</li>
 </ul>
-<p class="co co-jump"><strong>Jump:</strong> once you understand spinning and weaving, skip millennia of incremental loom evolution and go straight to a treadle-driven horizontal loom with a heddle frame — foot-powered shed-changing multiplies output several-fold and anticipates mechanized weaving (<a href="ch23.html">Ch 23</a>). Do the same on the spinning side, where the real bottleneck sits: a driven <strong>spinning wheel</strong> (foot treadle turning the spindle) multiplies one spinner's thread output roughly threefold over a drop spindle, and Hargreaves' jenny (1764) — eight spindles per operator, later far more — is the documented proof that parallelizing spinning was the century's payoff before power machinery took over (<a href="ch23.html">Ch 23</a>).</p>
+<p class="co co-jump"><strong>Jump:</strong> once you understand spinning and weaving, skip millennia of incremental loom evolution and go straight to a treadle-driven horizontal loom with a heddle frame — foot-powered shed-changing multiplies output several-fold and anticipates mechanized weaving. Do the same on the spinning side, where the real bottleneck sits: a driven <strong>spinning wheel</strong> (foot treadle turning the spindle) multiplies one spinner's thread output roughly threefold over a drop spindle, and Hargreaves' jenny (1764) — eight spindles per operator, later far more — is the documented proof that parallelizing spinning was the century's payoff before power machinery took over (<a href="ch23.html">Ch 23</a>).</p>
 <h2 id="ch03_textiles-36-why-this-chapter-gates-everything">3.6 Why This Chapter Gates Everything</h2>
 <p>Nets raise fishing yield per calorie spent by an order of magnitude (<a href="ch04.html">Ch 4</a>). Bowstrings enable the most efficient handheld weapon below gunpowder. Lashings hold shelters and boats together. Belts transmit rotary power. Sewn clothing lets humans colonize arctic latitudes. Treat fiber technology as infrastructure, not craft: stockpile it like grain.</p>
 <div class="table-wrap"><table>
@@ -461,14 +478,14 @@ body {
 </ul>
 <p>Historian's caution: absence-of-evidence dominates this field — most string ever made rotted. Perishables' history is reconstructed from lucky microclimates (caves, waterlogged bogs, ice), and every generalization should carry that caveat.</p>
 <h2 id="ch03_textiles-38-cloth-math-and-care">3.8 Cloth Math and Care</h2>
-<p>Thread count per cm × loom width = warp ends to spin (a 60 cm cloth at 10/cm needs 600 ends — spin accordingly). Full woven wool (pounded wet) shrinks dense and sheds rain; linen must dry fully or mildews; store cloth with ash/cedar against moths, rolled not folded on damp. Patch early — a darned elbow outlasts a replaced sleeve.</p>
+<p>Thread count per cm × loom width = warp ends to spin (a 60 cm cloth at 10/cm needs 600 ends — spin accordingly). Fulled wool (woven cloth pounded wet) shrinks dense and sheds rain; linen must dry fully or it mildews; store cloth with ash or cedar against moths, rolled rather than folded, and never damp. Patch early — a darned elbow outlasts a replaced sleeve.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch02.html" class="reader-nav-link">← Chapter 2</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch04.html" class="reader-nav-link">Chapter 4 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

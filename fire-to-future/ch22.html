@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,10 +237,9 @@ body {
 <main class="reader-content">
 <h1 id="ch22_coke_iron-chapter-22-coke-smelting-and-cheap-iron">Chapter 22: Coke Smelting and Cheap Iron</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1709 Darby → 1850s · <strong>Difficulty:</strong> mid–high
-<br><strong>Requires:</strong> <a href="ch14.html">Ch 14</a>, <a href="ch13.html">Ch 13</a> coal, <a href="ch16.html">Ch 16</a> blast power · <br><strong>Unlocks:</strong> <a href="ch23.html">Ch 23</a> engine cylinders, <a href="ch27.html">Ch 27</a> steel feedstock</p>
+<p><strong>Era span:</strong> 1709 Darby → 1850s · <strong>Difficulty:</strong> mid–high<br><strong>Requires:</strong> <a href="ch13.html">Ch 13</a>, <a href="ch14.html">Ch 14</a>, <a href="ch16.html">Ch 16</a><br><strong>Unlocks:</strong> <a href="ch23.html">Ch 23</a>, <a href="ch24.html">Ch 24</a>, <a href="ch26.html">Ch 26</a>, <a href="ch27.html">Ch 27</a></p>
 </blockquote>
-<p>Charcoal iron hit a ceiling: each ton of bar iron consumed the annual growth of ~10+ acres of forest. England's answer — smelting with coked coal — is the single most important substitution in industrial history. This chapter is deliberately short on chemistry (already covered in <a href="ch14.html">Ch 14</a>) and long on SCALE engineering.</p>
+<p>Charcoal iron hit a ceiling: each ton of bar iron consumed the annual growth of ~10+ acres of forest. England's answer — smelting with coked coal — is one of the most consequential substitutions in industrial history. This chapter is deliberately short on chemistry (already covered in <a href="ch14.html">Ch 14</a>) and long on SCALE engineering.</p>
 <h2 id="ch22_coke_iron-221-why-raw-coal-fails-and-coke-works">22.1 Why Raw Coal Fails and Coke Works</h2>
 <p>Coal straight from the ground carries sulfur (embrittles hot metal), volatiles (tar/smoke wreck furnace chemistry), and crumbles under load (chokes the air column). <strong>Coke</strong> fixes all three: heat coal in oxygen-starved ovens to drive off volatiles (~20–30 % mass loss), leaving porous carbon skeleton that burns hot, stays strong in a loaded shaft, and (with careful coal selection or washing) leaves sulfur behind.</p>
 <ul>
@@ -331,8 +332,8 @@ body {
 </figure>
 
 <h2 id="ch22_coke_iron-226-the-jump-to-steel">22.6 The Jump to Steel</h2>
-<p class="co co-jump"><strong>Jump:</strong> with hot blast + assay discipline, push experiments toward direct steelmaking rather than perfecting wrought iron: Henry Bessemer's converter (1856 — air blown THROUGH molten pig burns carbon in minutes, not weeks) needs only phosphorus-free ores OR basic linings (Gilchrist-Thomas, 1879) to conquer everything. Full treatment lands in <a href="ch27.html">Ch 27</a>; flag here that puddling-era investments should be sized as BRIDGES, not destinations.</p>
-<p class="co co-dead"><strong>Dead end avoided:</strong> deforestation-by-smelting. Charcoal iron at scale strips continents (historical Mediterranean, China's loess margins). Coal geology, not forest stewardship, is what lets iron production compound without ecological bankruptcy.</p>
+<p class="co co-jump"><strong>Jump:</strong> with hot blast + assay discipline, push experiments toward direct steelmaking rather than perfecting wrought iron: Henry Bessemer's converter (1856 — air blown THROUGH molten pig burns carbon in about twenty minutes, against a couple of hours per puddling heat) needs only phosphorus-free ores OR basic linings (Gilchrist-Thomas, 1879) to conquer everything. Full treatment lands in <a href="ch27.html">Ch 27</a>; flag here that puddling-era investments should be sized as BRIDGES, not destinations.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> deforestation-by-smelting. Charcoal iron at scale strips whole regions of forest (the historical Mediterranean, the Weald, China's loess margins). Coal geology, not forest stewardship, is what lets iron production compound without ecological bankruptcy.</p>
 <h2 id="ch22_coke_iron-227-the-coalbrookdale-papers">22.7 The Coalbrookdale Papers</h2>
 <ul>
 <li><strong>Abraham Darby I</strong> leased Coalbrookdale's furnace in 1709 and coked Shropshire clod coal for smelting thin-walled castings (cookware first — the cheap-castings business funded the metallurgy). His son Darby II solved coke-furnace blowing problems and cast Newcomen cylinders (~1722) — the steam age's cylinders came FROM the coke-iron complex, closing the loop between chapters.</li>
@@ -349,14 +350,14 @@ body {
 <li>Air mass flow: 100 m³/min × ~1.2 kg/m³ ≈ 120 kg/min.</li>
 <li>Heat duty: 120 kg/min × 1.0 kJ/kg·K × (300 − 20) K ≈ 34 MJ/min ≈ <strong>560 kW continuous recovered duty</strong>.</li>
 <li>Pipe area: gas-to-gas heat transfer through cast-iron pipe walls runs conservatively near U ≈ 15 W/m²·K; counterflow ΔT ≈ 315 K → area = Q/(U·ΔT) ≈ 560,000/(15 × 315) ≈ <strong>120 m²</strong> — e.g., sixty 150 mm-diameter pipes of ~4 m length in the flue chamber.</li>
-<li>Compare against fuel: 560 kW recovered around the clock is ~48 GJ/day — several tons of coal per day not burned for the same smelting work, which is why adoption was measured in months, not years.</li>
+<li>Compare against fuel: 560 kW recovered around the clock is ~48 GJ/day — roughly 1.5 t of coal per day (at ~30 GJ/t) not burned for the same smelting work, which is why adoption was measured in months, not years.</li>
 </ol>
-<p>Scale linearly for bigger blast; Clyde-class furnaces needed stove buildings, not pipe arrays, and got them. Two honesty notes: measured savings ran <em>ahead</em> of this arithmetic because hotter flame improves furnace chemistry, not just sensible heat recovery; and the raw-coal route is conditional — high-volatile caking coals low in sulfur on self-fluxing ores — otherwise stay with coke (<a href="#ch22_coke_iron-221-why-raw-coal-fails-and-coke-works">§22.1</a>).</p>
+<p>Scale linearly for bigger blast; Clyde-class furnaces needed stove buildings, not pipe arrays, and got them. Two honesty notes: measured savings ran far <em>ahead</em> of this arithmetic. The sensible heat recovered is only a few percent of what a cold-blast furnace burned, but it arrives in the hearth as high-temperature heat, where each kilojoule displaces several kilojoules of fuel that would otherwise burn just to reach smelting temperature — most of the historical one-third saving comes from that leverage, not from the heat balance alone; and the raw-coal route is conditional — high-volatile caking coals low in sulfur on self-fluxing ores — otherwise stay with coke (<a href="#ch22_coke_iron-221-why-raw-coal-fails-and-coke-works">§22.1</a>).</p>
 <p><strong>Deployment steps.</strong></p>
 <ol>
 <li>Build a brick recuperator chamber in the exhaust flue; run blast air through an array of cast-iron pipes heated from outside (counterflow: hottest exhaust meets outgoing hottest air).</li>
 <li>Start conservative — target blast <strong>150–200 °C</strong>; iron pipes scale and burn above their capacity, and a burst pipe dumping cold air into a hot furnace costs more than it saves.</li>
-<li>Log fuel per ton of pig weekly (<a href="#ch22_coke_iron-225-numbers-that-tell-the-story">§22.5</a> numbers) and plot on X̄–R charts per <a href="ch47.html">Ch 47</a> §47.13 alongside the per-charge logs — the fuel drop is large enough to see immediately, which makes hot blast the perfect first exercise in measured process control.</li>
+<li>Log fuel per ton of pig weekly (<a href="#ch22_coke_iron-225-numbers-that-tell-the-story">§22.5</a> numbers) and plot on an individuals (I-MR) chart per <a href="ch47.html">Ch 47</a> §47.13 alongside the per-charge logs — the fuel drop is large enough to see immediately, which makes hot blast the perfect first exercise in measured process control.</li>
 <li>Upgrade stove materials toward <strong>400–600 °C</strong> blast once weeks of logs show stable operation.</li>
 <li>When furnace output justifies gas-tight top closure, switch to true regenerators: <strong>Cowper stoves (1857)</strong> burn cleaned furnace gas on checker-brick chambers in alternating pairs, 20–60 minute swings, delivering 600–1,000 °C blast continuously.</li>
 </ol>
@@ -371,15 +372,15 @@ body {
 <p><strong>Scale boundary — when hot blast is the wrong investment.</strong> The stove's recovered heat must exceed what it loses through its own walls and the pumping penalty of dragging blast through long pipe runs — runs that bellows-driven blast, with its stroke-to-stroke pressure pulsing, handles worst of all. Below roughly the Ch 14 bloomery class (single small shafts, bellows-driven), stove losses and added resistance swallow the gain: keep cold blast until a furnace consumes fuel fast enough to feed a recuperator continuously — as an ordering rule, hot blast enters the plan when the works burns multiple tons of fuel per day, not per week. Above that line the economics only improve with size, which is why every large ironworks on record converged on it within a decade of availability — and why small charcoal furnaces historically kept cold blast for decades after 1828 without being wrong to do so.</p>
 <p><strong>Synergy with blowing power.</strong> Hot blast does not reduce the volume of air a furnace wants, but it raises what each cubic meter does (<a href="ch16.html">Ch 16</a> water-driven blowers suffice at small scale). At coke-furnace scale the steady high-pressure blast comes from steam blowing engines (<a href="ch23.html#ch23_steam-235-deployment-priorities">§23.5</a>): the engine burns fuel to move air, the recuperator recycles heat into that air, and both fuel streams land in the same per-ton ledger — measure them together or optimize neither.</p>
 <p class="co co-key"><strong>Key threshold:</strong> blast ≥200 °C cuts fuel per ton by about a third; below ~100 °C the gains drown in stove losses. If your logs cannot show the difference, your instrumentation is the first repair.</p>
-<p><strong>Worked fuel ledger</strong> (per ton of pig, rounded from published Clyde-era returns): cold blast consumed roughly <strong>8 t of coal per ton of pig</strong>; hot blast at ~300 °C cut this toward <strong>5 t</strong> — three tons saved per ton of iron, call it <strong>~90 GJ of fuel per ton of product</strong> at coal's ~30 GJ/t. A works casting 50 t of pig per week therefore keeps ~150 t of coal in stock weekly, before counting the coking step deleted wherever raw coal proves workable. Run this ledger monthly from your own logs (<a href="#ch22_coke_iron-225-numbers-that-tell-the-story">§22.5</a>); the stove's payback time falls out of two columns of arithmetic.</p>
-<p>Institutional footnote worth carrying into <a href="ch47.html">Ch 47</a>: Neilson defended his patent through litigation (Neilson v. Harwood upheld it in 1834) and died wealthy from royalties — the incentive system working exactly as designed, a pointed documented contrast with Cort's ruin one section above. Both cases are on the historical record; rebuilders should plan for both outcomes.</p>
+<p><strong>Worked fuel ledger</strong> (per ton of pig, rounded from published Clyde-era returns): cold blast consumed roughly <strong>8 t of coal per ton of pig</strong>; hot blast at ~300 °C cut this toward <strong>5 t</strong> — three tons saved per ton of iron, call it <strong>~90 GJ of fuel per ton of product</strong> at coal's ~30 GJ/t. A works casting 50 t of pig per week therefore saves ~150 t of coal a week, before counting the coking step deleted wherever raw coal proves workable. Run this ledger monthly from your own logs (<a href="#ch22_coke_iron-225-numbers-that-tell-the-story">§22.5</a>); the stove's payback time falls out of two columns of arithmetic.</p>
+<p>Institutional footnote worth carrying into <a href="ch47.html">Ch 47</a>: Neilson defended his patent through litigation (Neilson v Harford, finally decided in 1841, upheld it) and died wealthy from royalties — the incentive system working exactly as designed, a pointed documented contrast with Cort's ruin one section above. Both cases are on the historical record; rebuilders should plan for both outcomes.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch21.html" class="reader-nav-link">← Chapter 21</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch23.html" class="reader-nav-link">Chapter 23 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

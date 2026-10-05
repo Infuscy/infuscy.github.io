@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Appendix A — The Critical Path — Fire to Future</title>
+<title>Appendix A — Core Build Sequence — Fire to Future</title>
 <style>
 
 :root {
@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -233,366 +235,215 @@ body {
   <span class="reader-progress">Appendix A of 7</span>
 </div>
 <main class="reader-content">
-<h1 id="appendix_A_critical_path-appendix-a-the-critical-path">Appendix A — The Critical Path</h1>
+<h1 id="appendix_A_critical_path-appendix-a-core-build-sequence">Appendix A — Core Build Sequence</h1>
 <blockquote class="meta">
-<p>The minimal ordered chain from fire to orbital capability. If you can only fund/teach one line of development, teach this one.</p>
+<p>A capability-gated sequence for rebuilding technological society. It is <strong>not</strong> a universal, mathematically minimal critical path. Materials, institutions, workforce, and local resources can reorder or compress parts of it. A node is complete only when its acceptance tests pass and it can be maintained from recorded knowledge.</p>
 </blockquote>
-<h2 id="appendix_A_critical_path-a1-the-chain">A.1 The Chain</h2>
+<h2 id="appendix_A_critical_path-a1-what-counts-as-a-prerequisite">A.1 What Counts as a Prerequisite?</h2>
+<p>A <strong>hard prerequisite</strong> is a capability that cannot be produced reliably without another capability already existing. An <strong>accelerator</strong> improves speed, scale, or quality but is not indispensable. A <strong>jump</strong> is legal only when the knowledge, materials, equipment, people, failure recovery, and validation method for the skipped stage are all available.</p>
+<p>The sequence below combines hard prerequisites into practical <strong>capability gates</strong>. Passing one gate does not imply passing the next.</p>
+<h2 id="appendix_A_critical_path-a2-the-core-gates">A.2 The Core Gates</h2>
 <div class="table-wrap"><table>
 <thead>
 <tr>
-<th>#</th>
-<th>Node</th>
-<th>Chapter</th>
-<th>Why here (not earlier/later)</th>
-<th>Unlocks downstream</th>
+<th>Gate</th>
+<th>Capability</th>
+<th>Principal chapters</th>
+<th>Acceptance gate</th>
+<th>What may proceed in parallel</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
-<td>Fire + charcoal kilns</td>
+<td>Reliable heat and fire control</td>
 <td><a href="ch01.html">1</a></td>
-<td>No heat = nothing hot ever happens</td>
-<td>ceramics, metals, chemistry</td>
+<td>repeatable ignition, fuel supply, ventilation, transportable fire, safe heat work</td>
+<td>basic cutting tools; water and food observation</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Stone/flint toolkit + hafting</td>
-<td><a href="ch02.html">2</a></td>
-<td>Tools make tools; needed for everything physical</td>
-<td>timber work, agriculture labor</td>
+<td>Cutting, cordage, containers, and preserved food</td>
+<td><a href="ch02.html">2</a>, <a href="ch03.html">3</a>, <a href="ch04.html">4</a></td>
+<td>maintained tools, usable cordage, safe storage, broad-spectrum food plan, recorded hazards</td>
+<td>pottery experiments; shelter design; initial surveying</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Cordage &amp; textiles</td>
-<td><a href="ch03.html">3</a></td>
-<td>String gates hunting/building/machines</td>
-<td>nets, bows, belts, sails</td>
+<td>Stored surplus, settlement, crops, and animals</td>
+<td><a href="ch05.html">5</a>, <a href="ch06.html">6</a>, <a href="ch07.html">7</a>, <a href="ch08.html">8</a></td>
+<td>reproducible pottery, protected stores, reliable food supply, managed soils and herds, seasonal reserves</td>
+<td>writing signs; basic trade; more capable tools</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Food preservation (dry/smoke/salt/ferment)</td>
-<td><a href="ch04.html">4</a></td>
-<td>Surplus must OUTLIVE seasons before anything else starts</td>
-<td>granaries, trade, specialists</td>
+<td>Cooperation across time and distance</td>
+<td><a href="ch09.html">9</a>, <a href="ch11.html">11</a>, <a href="ch12.html">12</a></td>
+<td>standard weights/measures, contracts, archives, positional arithmetic, surveying and error checking</td>
+<td>craft expansion; ore mapping; basic astronomy</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Pottery kiln craft</td>
-<td><a href="ch05.html">5</a></td>
-<td>First controlled high-temp industry; storage vessels gate surplus</td>
-<td>crucibles, bricks, brewing</td>
+<td>Extracted materials and metal production</td>
+<td><a href="ch10.html">10</a>, <a href="ch13.html">13</a>, <a href="ch14.html">14</a></td>
+<td>safe extraction, repeatable charge records, identified yield, qualified forging/heat treatment, maintenance</td>
+<td>machinery; chemistry; water power; masonry at scale</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Shelter + granary architecture</td>
-<td><a href="ch06.html">6</a></td>
-<td>Protects stored wealth; enables settlement density</td>
-<td>villages → cities</td>
+<td>Machines, prime movers, and craft chemistry</td>
+<td><a href="ch15.html">15</a>, <a href="ch16.html">16</a>, <a href="ch17.html">17</a></td>
+<td>documented tolerances, maintainable mechanisms, measured water power, reproducible lime/glass/soap processes</td>
+<td>printing research; lens grinding; foundry metallurgy</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Agriculture with rotation design</td>
-<td><a href="ch07.html">7</a></td>
-<td>Calorie engine; 10–100× land productivity</td>
-<td>population, draft animals</td>
+<td>Exact information and measured inquiry</td>
+<td><a href="ch18.html">18</a>, <a href="ch19.html">19</a>, <a href="ch20.html">20</a></td>
+<td>repeatable print runs, accessible diagrams, standards room, calibrated instruments, raw-data notebooks</td>
+<td>institutions; mathematical tables; small-scale chemistry</td>
 </tr>
 <tr>
 <td>8</td>
-<td>Draft animals + collar harness</td>
-<td><a href="ch08.html">8</a></td>
-<td>First non-human prime mover (~0.5 kW each)</td>
-<td>plowing, haulage, mills</td>
+<td>Controlled industrial chemistry</td>
+<td><a href="ch21.html">21</a></td>
+<td>qualified process ownership, batch records, emissions/waste control, independent safety review</td>
+<td>large ironworks; steam development; laboratory instruments</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Money, markets, credit discipline</td>
-<td><a href="ch09.html">9</a></td>
-<td>Strangers must cooperate at scale before big projects</td>
-<td>specialization cascade</td>
+<td>Large-scale iron and steam power</td>
+<td><a href="ch22.html">22</a>, <a href="ch23.html">23</a></td>
+<td>reproducible iron output, engineered pressure systems, measured energy balance, trained operators</td>
+<td>machine tools; steel development; electrical experiments</td>
 </tr>
 <tr>
 <td>10</td>
-<td>Phonetic writing</td>
-<td><a href="ch11.html">11</a></td>
-<td>External memory with error correction</td>
-<td>administration, science</td>
+<td>Bulk transport and electric power</td>
+<td><a href="ch24.html">24</a>, <a href="ch25.html">25</a>, <a href="ch26.html">26</a></td>
+<td>safe network standards, maintenance corridors, generated and distributed power with protection</td>
+<td>steel/concrete; public health; machine industry</td>
 </tr>
 <tr>
 <td>11</td>
-<td>Positional numerals with zero</td>
-<td><a href="ch12.html">12</a></td>
-<td>Arithmetic becomes algorithmic; engineering math possible</td>
-<td>gearing ratios, surveying</td>
+<td>Survivable cities and public health</td>
+<td><a href="ch30.html">30</a></td>
+<td>verified water and waste systems, disease surveillance, food-safety controls, trained sanitation operators</td>
+<td>steel and cement; petroleum; clinical training</td>
 </tr>
 <tr>
 <td>12</td>
-<td>Bloomery iron → forging</td>
-<td><a href="ch14.html">14</a></td>
-<td>Abundant strong metal beats scarce bronze geopolitics</td>
-<td>tools everywhere, machine parts</td>
+<td>Structural and transport-material scale</td>
+<td><a href="ch27.html">27</a>, <a href="ch28.html">28</a>, <a href="ch29.html">29</a></td>
+<td>qualified steel and cement production, structural design and inspection, fuel supply, vehicle maintenance</td>
+<td>clinical medicine; agricultural machinery; electronics</td>
 </tr>
 <tr>
 <td>13</td>
-<td>Mining + ore dressing doctrine</td>
-<td><a href="ch13.html">13</a></td>
-<td>Metal supply security; salt for food chain</td>
-<td>sustained metallurgy</td>
+<td>Modern medicine and food security</td>
+<td><a href="ch31.html">31</a>, <a href="ch32.html">32</a></td>
+<td>trained health workers, vaccine/cold-chain systems, evidence-based prescribing, fertiliser and seed supply, resilient food reserves</td>
+<td>electronics; aviation; materials research</td>
 </tr>
 <tr>
 <td>14</td>
-<td>Mechanisms: gears/crank/lathe</td>
-<td><a href="ch15.html">15</a></td>
-<td>Motion alphabet + precision culture begins</td>
-<td>mills, engines, clocks</td>
+<td>Electronics, computing, and advanced materials</td>
+<td><a href="ch34.html">34</a>, <a href="ch35.html">35</a>, <a href="ch36.html">36</a>, <a href="ch38.html">38</a></td>
+<td>controlled vacuum/electronic systems, controlled fab process, statistical yield, material qualification, tested software, backups and standards</td>
+<td>networking; AI research; aerospace materials; instrumentation</td>
 </tr>
 <tr>
 <td>15</td>
-<td>Water mills (overshot + gearing)</td>
-<td><a href="ch16.html">16</a></td>
-<td>First industrial power (kW-class, continuous)</td>
-<td>proto-industry workforce</td>
+<td>Dense power and orbital infrastructure</td>
+<td><a href="ch37.html">37</a>, <a href="ch39.html">39</a>, <a href="ch40.html">40</a>; <a href="ch33.html">33</a> as an optional aerospace branch</td>
+<td>independently regulated plant, safeguarded fuel cycle, qualified launch systems, maintained ground segment</td>
+<td>modern grids; fibre; institutions</td>
 </tr>
 <tr>
 <td>16</td>
-<td>Craft chemistry: lime/glass/soap/distillation</td>
-<td><a href="ch17.html">17</a></td>
-<td>Materials + hygiene + lab apparatus lineage</td>
-<td>optics, acids, sanitation</td>
+<td>Planetary information and resilient energy</td>
+<td><a href="ch41.html">41</a>, <a href="ch42.html">42</a>, <a href="ch43.html">43</a></td>
+<td>maintained fibre routes, interoperable networks, monitored generation/storage/transmission, tested restoration</td>
+<td>biotech; robotics; AI deployment</td>
 </tr>
 <tr>
 <td>17</td>
-<td>Paper + movable-type printing</td>
-<td><a href="ch18.html">18</a></td>
-<td>Information cost collapse ~300×; error correction across copies</td>
-<td>literacy, exact diagrams</td>
+<td>Biological and automation platforms</td>
+<td><a href="ch44.html">44</a>, <a href="ch45.html">45</a>, <a href="ch46.html">46</a></td>
+<td>biosafety and clinical governance, reproducible experiments, domain-specific automation safety and evaluation, human oversight</td>
+<td>open research; standards; workforce redesign</td>
 </tr>
 <tr>
 <td>18</td>
-<td>Lenses → telescopes/microscopes</td>
-<td><a href="ch19.html">19</a></td>
-<td>Senses extended beyond biology</td>
-<td>astronomy kills geocentrism; germs visible</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Pendulum clock + balances + method</td>
-<td><a href="ch20.html">20</a></td>
-<td>Measurement culture = science engine</td>
-<td>every quantitative field</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Saltpeter + black powder + acid industry</td>
-<td><a href="ch21.html">21</a></td>
-<td>Mining productivity + heavy chemicals hinge</td>
-<td>deep mines, textiles, steel pickling</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Coke smelting + hot blast iron</td>
-<td><a href="ch22.html">22</a></td>
-<td>Breaks the wood ceiling on metal production</td>
-<td>cheap machinery era</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Steam engine (Watt-corrected)</td>
-<td><a href="ch23.html">23</a></td>
-<td>Power anywhere, not just rivers</td>
-<td>factories, railways, pumps</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Railways + telegraph pairing</td>
-<td><a href="ch24.html">24</a>/<a href="ch25.html">25</a></td>
-<td>Bulk logistics + instant coordination</td>
-<td>national markets</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Batteries → electromagnetism mastery</td>
-<td><a href="ch25.html">25</a></td>
-<td>Electricity measurable and commandable</td>
-<td>everything electric after</td>
-</tr>
-<tr>
-<td>25</td>
-<td>Dynamos + polyphase AC grid</td>
-<td><a href="ch26.html">26</a></td>
-<td>Universal power socket installed</td>
-<td>motors, lighting, electrolysis</td>
-</tr>
-<tr>
-<td>26</td>
-<td>Sanitation: water/sewers/chlorination</td>
-<td><a href="ch30.html">30</a></td>
-<td>Highest-return health tech EVER; cities become survivable</td>
-<td>demographic transition</td>
-</tr>
-<tr>
-<td>27</td>
-<td>Germ theory → vaccines → antibiotics</td>
-<td><a href="ch31.html">31</a></td>
-<td>Individual medicine joins engineering</td>
-<td>surgery, pandemic defense</td>
-</tr>
-<tr>
-<td>28</td>
-<td>Haber-Bosch + breeding + mechanization</td>
-<td><a href="ch32.html">32</a></td>
-<td>Nitrogen wall broken; yields tripled</td>
-<td>megacity-scale food security</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Steel at scale + reinforced concrete</td>
-<td><a href="ch27.html">27</a></td>
-<td>Structural material abundance</td>
-<td>skyline/dam/rail civilization</td>
-</tr>
-<tr>
-<td>30</td>
-<td>Petroleum refining + ICE</td>
-<td><a href="ch28.html">28</a>/<a href="ch29.html">29</a></td>
-<td>Transport fuel density unlocks mobility revolution</td>
-<td>tractors, trucks, planes</td>
-</tr>
-<tr>
-<td>31</td>
-<td>Vacuum-tube electronics concepts</td>
-<td><a href="ch34.html">34</a></td>
-<td>Circuit concepts exist (scaffolding only)</td>
-<td>radio/radar + transistor schematics</td>
-</tr>
-<tr>
-<td>32</td>
-<td>Transistor → planar IC</td>
-<td><a href="ch35.html">35</a></td>
-<td>Computation cost collapse begins</td>
-<td>computers, all Part V</td>
-</tr>
-<tr>
-<td>33</td>
-<td>Stored-program computers + software stack</td>
-<td><a href="ch36.html">36</a></td>
-<td>Thought automation infrastructure</td>
-<td>simulation, control, AI</td>
-</tr>
-<tr>
-<td>34</td>
-<td>Fission power + isotopes</td>
-<td><a href="ch37.html">37</a></td>
-<td>Dense dispatchable energy + medicine</td>
-<td>grid anchor, RTG spacecraft</td>
-</tr>
-<tr>
-<td>35</td>
-<td>Rocketry to orbit</td>
-<td><a href="ch39.html">39</a></td>
-<td>Escape velocity achieved</td>
-<td>satellites — planetary nervous system</td>
-</tr>
-<tr>
-<td>36</td>
-<td>Satellite constellations (comms/GPS/EO)</td>
-<td><a href="ch40.html">40</a></td>
-<td>Global coordination layer live</td>
-<td>navigation, weather, connectivity</td>
-</tr>
-<tr>
-<td>37</td>
-<td>Fiber backbone + internet protocols</td>
-<td><a href="ch41.html">41</a>/<a href="ch42.html">42</a></td>
-<td>Real-time planetary knowledge network</td>
-<td>distributed science/commerce</td>
-</tr>
-<tr>
-<td>38</td>
-<td>Modern energy portfolio</td>
-<td><a href="ch43.html">43</a></td>
-<td>Abundance pricing (&lt;$0.03/kWh system-level)</td>
-<td>desalination, automation, synthesis</td>
-</tr>
-<tr>
-<td>39</td>
-<td>Biotech read-write genome</td>
-<td><a href="ch44.html">44</a></td>
-<td>Biology joins engineering economy</td>
-<td>medicine/agriculture exponential</td>
-</tr>
-<tr>
-<td>40</td>
-<td>Robotics + machine intelligence</td>
-<td><a href="ch45.html">45</a>/<a href="ch46.html">46</a></td>
-<td>Labor and cognition as utilities</td>
-<td>compounding loops close</td>
+<td>Institutional self-correction</td>
+<td><a href="ch09.html">9</a>, <a href="ch11.html">11</a>, <a href="ch47.html">47</a></td>
+<td>reliable records, independent audit, dispute resolution, statistics, maintenance funding, emergency succession, transparent correction</td>
+<td>every prior gate; failure recovery; public education</td>
 </tr>
 </tbody>
 </table></div>
-<p><strong>Institutional underlay running parallel throughout:</strong> money integrity (<a href="ch09.html">9</a>), written law/administration (<a href="ch11.html">11</a>), double-entry accounting, joint-stock finance, statistics, logistics standardization (<a href="ch47.html">47</a>). Physical nodes fail without it — see <a href="appendix-b.html">Appendix B</a> failure modes.</p>
-<h2 id="appendix_A_critical_path-a2-parallel-tracks">A.2 Parallel Tracks</h2>
+<h2 id="appendix_A_critical_path-a3-visual-summary">A.3 Visual Summary</h2>
 <figure class="fig">
-<svg viewBox="0 0 640 228" width="100%" role="img" aria-label="Critical path ribbon across eras">
-<title>Critical path ribbon across eras</title>
+<svg viewBox="0 0 640 228" width="100%" role="img" aria-label="Core build sequence grouped into six capability stages with institutions as a continuous underlay">
+<title>Core build sequence grouped into six capability stages with institutions as a continuous underlay</title>
 <rect x="0" y="0" width="640" height="228" fill="#fbf9f3"/>
-<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig A.1 — The 40-node ribbon: five eras + martial, three hinges</text>
-<g text-anchor="middle">
-<rect x="16" y="42" width="93" height="56" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
-<text x="62.5" y="64" font-size="10" font-weight="bold">IGNITION</text><text x="62.5" y="78" font-size="9">1–8 fire→draft</text>
-<rect x="117" y="42" width="93" height="56" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
-<text x="163.5" y="64" font-size="10" font-weight="bold">ANCIENT</text><text x="163.5" y="78" font-size="9">9–16 coin→glass</text>
-<rect x="218" y="42" width="93" height="56" rx="6" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
-<text x="264.5" y="64" font-size="10" font-weight="bold">ACCEL.</text><text x="264.5" y="78" font-size="9">17–25 press→grid</text>
-<rect x="319" y="42" width="93" height="56" rx="6" fill="#e8c8c0" stroke="#8f3b2d" stroke-width="2"/>
-<text x="365.5" y="64" font-size="10" font-weight="bold">MODERN</text><text x="365.5" y="78" font-size="9">26–34 san.→tubes</text>
-<rect x="420" y="42" width="98" height="56" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
-<text x="469" y="64" font-size="10" font-weight="bold">PLANETARY</text><text x="469" y="78" font-size="9">35–40 Si→net</text>
-<rect x="526" y="42" width="98" height="56" rx="6" fill="#4a4436" stroke="#16130e" stroke-width="2"/>
-<text x="575" y="64" font-size="10" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.8">MARTIAL</text><text x="575" y="78" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.8">derivative (VI)</text>
+<text x="320" y="22" text-anchor="middle" font-size="13" font-weight="bold">Fig A.1 — Six capability stages; institutions run throughout</text>
+<g text-anchor="middle" font-size="9.5" font-weight="bold">
+<rect x="16" y="48" width="90" height="58" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
+<text x="61" y="69">SURVIVE</text><text x="61" y="84">Gates 1–2</text>
+<rect x="116" y="48" width="90" height="58" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
+<text x="161" y="69">SETTLE</text><text x="161" y="84">Gates 3–5</text>
+<rect x="216" y="48" width="90" height="58" rx="6" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<text x="261" y="69">CRAFT</text><text x="261" y="84">Gates 6–8</text>
+<rect x="316" y="48" width="90" height="58" rx="6" fill="#e8c8c0" stroke="#8f3b2d" stroke-width="2"/>
+<text x="361" y="69">INDUSTRIAL</text><text x="361" y="84">Gates 9–10</text>
+<rect x="416" y="48" width="90" height="58" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
+<text x="461" y="69">MODERN</text><text x="461" y="84">Gates 11–14</text>
+<rect x="516" y="48" width="108" height="58" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
+<text x="570" y="69">PLANETARY</text><text x="570" y="84">Gates 15–17</text>
 </g>
 <g stroke="#16130e" stroke-width="1.5">
-<line x1="109" y1="70" x2="117" y2="70"/><polygon points="117,65 117,75 124,70" fill="#16130e"/>
-<line x1="210" y1="70" x2="218" y2="70"/><polygon points="218,65 218,75 225,70" fill="#16130e"/>
-<line x1="311" y1="70" x2="319" y2="70"/><polygon points="319,65 319,75 326,70" fill="#16130e"/>
-<line x1="412" y1="70" x2="420" y2="70"/><polygon points="420,65 420,75 427,70" fill="#16130e"/>
+<line x1="106" y1="77" x2="108" y2="77"/><polygon points="108,72 108,82 116,77" fill="#16130e"/>
+<line x1="206" y1="77" x2="208" y2="77"/><polygon points="208,72 208,82 216,77" fill="#16130e"/>
+<line x1="306" y1="77" x2="308" y2="77"/><polygon points="308,72 308,82 316,77" fill="#16130e"/>
+<line x1="406" y1="77" x2="408" y2="77"/><polygon points="408,72 408,82 416,77" fill="#16130e"/>
+<line x1="506" y1="77" x2="508" y2="77"/><polygon points="508,72 508,82 516,77" fill="#16130e"/>
 </g>
-<text x="575" y="91" text-anchor="middle" font-size="8.5" font-style="italic" fill="#ffffff" stroke="#16130e" stroke-width="0.8">arms loop</text>
-<text x="320" y="120" text-anchor="middle" font-size="10.5" font-weight="bold">HINGES: writing + numerals · printing + instruments · electricity + computation</text>
-<text x="320" y="136" text-anchor="middle" font-size="10">lose one → restart centuries; keep all three → survive the rest</text>
-<rect x="16" y="147" width="608" height="64" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
-<text x="320" y="171" text-anchor="middle" font-size="10" font-weight="bold">INSTITUTIONAL UNDERLAY — parallel throughout</text>
-<text x="320" y="187" text-anchor="middle" font-size="9.5">money integrity · law · double-entry · statistics · logistics (Ch 47)</text>
-<text x="320" y="202" text-anchor="middle" font-size="9" font-style="italic">physical nodes fail without it (Appendix B failure modes)</text>
+<rect x="22" y="135" width="596" height="58" rx="8" fill="#efe9db" stroke="#8f3b2d" stroke-width="2"/>
+<text x="320" y="157" text-anchor="middle" font-size="11" font-weight="bold">INSTITUTIONAL UNDERLAY — Gate 18 plus continuous maintenance</text>
+<text x="320" y="177" text-anchor="middle" font-size="9.5">records · standards · finance · law · education · safety · audit · succession</text>
+<text x="320" y="214" text-anchor="middle" font-size="9" font-style="italic">Read rightward as capability growth, not a promise of a single universal timetable.</text>
 </svg>
-<figcaption><strong>Figure A.1.</strong> Forty nodes in five era bands plus the martial derivative — read left to right, fund in order, run parallel tracks (§A.2) wherever prerequisites allow. The three hinges are the non-negotiable spine; the institutional underlay carries all of it.</figcaption>
+<figcaption><strong>Figure A.1.</strong> The core manual moves from survival through settlement, craft industry, industrial power, modern public systems, computing, and planetary infrastructure. Institutional capability is not a late chapter: it is a continuous dependency beneath every gate.</figcaption>
 </figure>
 
-<p>Once their prerequisites exist, these proceed simultaneously without blocking each other:</p>
+<h2 id="appendix_A_critical_path-a4-parallel-tracks">A.4 Parallel Tracks</h2>
+<p>Once prerequisites exist, many tracks can proceed together:</p>
 <ul>
-<li>After node 7 (agriculture): animal husbandry, pottery refinement, weaving industries.</li>
-<li>After node 11 (numerals): surveying, architecture, astronomy calendars.</li>
-<li>After node 15 (mills): textile mechanization, sawmills, ore stamping.</li>
-<li>After node 17 (printing): map-making, herbals, instrument catalogs — knowledge trades freely.</li>
-<li>After node 25 (grid): electrified transport, chemistry, home lighting all scale independently.</li>
-<li>After node 33 (computing): CAD, logistics software, sequencing automation compound together.</li>
-<li>After node 21/49 (powder + precision machining): arms production funds machine-tool culture (<a href="ch48.html">Part VI</a>) — historically armories paid for interchangeable-parts practice that industry then inherited.</li>
+<li>After Gate 3: metallurgy, textiles, trade, and architecture can develop in parallel.</li>
+<li>After Gate 5: mechanisms, water power, chemistry, and mining should train together.</li>
+<li>After Gate 7: printing, standards, instruments, and mathematics form a reinforcing loop.</li>
+<li>After Gate 9: rail, telegraph, steel, sanitation, and electrical experiments can run concurrently.</li>
+<li>After Gate 12: electronics, clinical medicine, mechanised agriculture, and power networks are mutually enabling.</li>
+<li>After Gate 14: fibre, energy, biotechnology, robotics, and AI research proceed in parallel—but each still needs its own safety and institutional gate.</li>
+<li>Chapters 48–51 are an optional defense annex and do not block any core gate.</li>
 </ul>
-<h2 id="appendix_A_critical_path-a3-the-three-irreplaceable-hinges">A.3 The Three Irreplaceable Hinges</h2>
+<h2 id="appendix_A_critical_path-a5-how-to-use-this-appendix">A.5 How to Use This Appendix</h2>
 <ol>
-<li><strong>Writing + positional numbers</strong> (<a href="ch11.html">Ch 11</a>, <a href="ch12.html">12</a>) — memory externalized and made algorithmic. Without both, knowledge decays generationally and arithmetic stays artisanal. Every complex society in history had writing; none skipped numerals for long.</li>
-<li><strong>Printing + precision instruments</strong> (<a href="ch18.html">Ch 18</a>, <a href="ch20.html">20</a>) — exact copies plus calibrated measurement turn craft into cumulative science. Skip either and progress stalls at Renaissance ceilings.</li>
-<li><strong>Electricity + computation</strong> (<a href="ch26.html">Ch 26</a>, <a href="ch36.html">36</a>) — power and thought as universal utilities. Everything distinguishing modern from 1900-era capability flows through these two sockets.</li>
+<li>Choose a starting scenario: settlement survival, regional craft industry, or large industrial society.</li>
+<li>Select the highest incomplete gate whose prerequisites are actually available.</li>
+<li>Define measurable acceptance tests before building.</li>
+<li>Record inputs, competence, maintenance, failure recovery, and institutional owner.</li>
+<li>Run independent review for pressure, toxic, energetic, biological, electrical, medical, or structural hazards.</li>
+<li>Do not advance because a historical society did; advance because the current capability passes its acceptance test.</li>
 </ol>
-<p>A rebuild plan that protects these three hinges survives most other setbacks. One that loses any of them restarts centuries.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch51.html" class="reader-nav-link">← Chapter 51</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="appendix-b.html" class="reader-nav-link">Appendix B →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

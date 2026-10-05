@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch40_satellites-chapter-40-satellites-communications-positioning-observation">Chapter 40: Satellites: Communications, Positioning, Observation</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1957 Sputnik → mega-constellations · <strong>Difficulty:</strong> extreme
-<br><strong>Requires:</strong> <a href="ch39.html">Ch 39</a>, <a href="ch34.html">Ch 34</a>-lineage RF, <a href="ch35.html">Ch 35</a> · <br><strong>Unlocks:</strong> global connectivity, GPS, weather/climate eyes — planetary nervous system</p>
+<p><strong>Era span:</strong> 1957 Sputnik → mega-constellations · <strong>Difficulty:</strong> extreme<br><strong>Requires:</strong> <a href="ch34.html">Ch 34</a>, <a href="ch35.html">Ch 35</a>, <a href="ch39.html">Ch 39</a><br><strong>Unlocks:</strong> <a href="ch47.html">Ch 47</a><br><strong>Data snapshot:</strong> volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</p>
 </blockquote>
 <p>A satellite is a robot in vacuum doing one job for fifteen years without repair. This chapter covers the bus (everything shared), then the three payload families that dominate a planet: communications, positioning, observation.</p>
 <figure class="fig">
@@ -251,8 +252,8 @@ body {
 <circle cx="150" cy="99" r="70" fill="none" stroke="#8f3b2d" stroke-width="1.5"/>
 <text x="330" y="55" font-size="10" font-weight="bold" fill="#2e5b34">LEO 400–1,200 km · 90–110 min · low latency, drag real</text>
 <text x="330" y="72" font-size="10" font-weight="bold" fill="#8a6d1f">MEO ~20,000 km · navigation's home (GPS)</text>
-<text x="330" y="89" font-size="10" font-weight="bold" fill="#8f3b2d">GEO 35,786 km · fixed footprint, ⅓ planet each</text>
-<text x="330" y="110" font-size="10">GEO latency ~500 ms round trip (Clarke 1945, from first principles)</text>
+<text x="330" y="89" font-size="10" font-weight="bold" fill="#8f3b2d">GEO 35,786 km · fixed position, constrained service footprint</text>
+<text x="330" y="110" font-size="10">propagation ≈0.25 s one route; end-to-end depends on gateways</text>
 <text x="330" y="127" font-size="10">sun-synchronous: precess to hold solar time (imagers' favorite)</text>
 <text x="330" y="144" font-size="10" font-weight="bold">Propellant = lifetime: station-keeping till tanks dry.</text>
 <text x="330" y="161" font-size="9" font-style="italic">mega-constellations: thousands of LEO birds → terrestrial-feel latency</text>
@@ -270,7 +271,7 @@ body {
 <ul>
 <li>LEO (~400–1,200 km): ~7.5 km/s, ~90–110 min periods; latency low, coverage narrow, drag real.</li>
 <li>MEO (~20,000 km): navigation's home (GPS constellation).</li>
-<li>GEO (35,786 km): matches Earth rotation — fixed footprint; Clarke proposed it for comms in 1945 from first principles. Single-sat coverage of ⅓ planet; ~500 ms round-trip latency.</li>
+<li>GEO (35,786 km altitude): matches Earth's rotation, giving a nominally fixed position. Propagation alone for a user→satellite→gateway route is on the order of a quarter-second; end-to-end latency depends on distance to the gateway, routing, processing, protocol, and any additional terrestrial path. A fixed satellite does not “cover one third of the planet” in a service sense without antenna gain, interference, capacity, and visibility constraints.</li>
 <li>Station-keeping burns fuel against perturbations; when propellant ends, the satellite dies — orbit lifetime IS mission lifetime. Sun-synchronous orbits precess to keep constant solar time over ground (remote sensing favorite).</li>
 </ul>
 <div class="table-wrap"><table>
@@ -301,8 +302,8 @@ body {
 <tr>
 <td>GEO 35,786 km</td>
 <td>24 h (fixed)</td>
-<td>⅓ planet</td>
-<td>~500 ms</td>
+<td>Constrained by antenna gain and gateway reach</td>
+<td>~0.25 s propagation on one route; route-dependent total</td>
 <td>Launch cost, slot crowding</td>
 </tr>
 <tr>
@@ -363,7 +364,7 @@ body {
 <p>Architecture: ~24+ satellites in MEO, each carrying atomic clocks, broadcasting precise time + orbit ephemerides continuously.</p>
 <ul>
 <li><strong>Trilateration:</strong> receiver solves position from signal travel times to ≥4 satellites (x,y,z + clock offset). Your phone's clock is garbage; the fourth satellite corrects it.</li>
-<li><strong>Relativity is not optional:</strong> satellite clocks tick ~38 μs/day fast net of special+general relativistic effects — uncorrected, positions drift ~10 km/DAY. The most elegant proof-by-necessity in engineering history.</li>
+<li><strong>Relativity is not optional:</strong> satellite clocks tick ~38 μs/day fast net of special+general relativistic effects — uncorrected, positions drift ~10 km/DAY. One of the most elegant proofs-by-necessity in engineering.</li>
 <li>Accuracy tiers: open service meters-level; augmentation (WAAS/RTK) reaches centimeters for survey/agriculture/machine control.</li>
 <li>Dependence audit (do this seriously): aviation approaches, shipping, banking timestamps, power-grid sync, logistics all quietly assume GNSS. Jam/spoof resilience = critical-infrastructure planning (<a href="ch47.html">Ch 47</a>).</li>
 </ul>
@@ -405,7 +406,7 @@ body {
 </table></div>
 <h2 id="ch40_satellites-405-observation">40.5 Observation</h2>
 <ul>
-<li><strong>Weather satellites:</strong> TIROS (1960) began continuous atmospheric watching; hurricane warnings transformed mortality statistics — the quietest life-saving program ever fielded. Geostationary imagers loop storms live; polar orbiters feed forecast models globally.</li>
+<li><strong>Weather satellites:</strong> TIROS (1960) began continuous atmospheric watching; hurricane warnings transformed mortality statistics — a quiet but major life-saving program. Geostationary imagers loop storms live; polar orbiters feed forecast models globally.</li>
 <li><strong>Land/ocean remote sensing:</strong> Landsat continuity since 1972 gives decades-comparable surface records; spectral bands diagnose crops (NDVI vegetation index), water quality, mineral signatures; radar (SAR) images through cloud/night measuring ground deformation millimeter-scale (earthquake/volcano/subsidence science).</li>
 <li>Climate accounting (ice mass, sea level, carbon flux) exists ONLY via these platforms — policy-grade data infrastructure.</li>
 </ul>
@@ -447,7 +448,7 @@ body {
 <h2 id="ch40_satellites-407-ground-segment">40.7 Ground Segment</h2>
 <p>Satellites are half the system: dishes/gateways, network operations centers, telemetry analysis, anomaly response procedures ("save the bird" playbooks). Ground stations networked globally hand off passes; scheduling software treats contacts like appointments. Budget reality: ground segment ≈ half of lifecycle cost — plan it with the launch, not after.</p>
 <p><strong>Anomaly playbook (write before launch):</strong> safe-mode triggers, power-positive attitudes, stored command loads, ground-simulator twin for rehearsing recoveries, 24 h staffing through early orbit. The bird that survives its first eclipse season usually survives its design life — staff accordingly.</p>
-<p class="co co-key"><strong>Key threshold:</strong> when your civilization receives positioning, weather warning, and intercontinental connectivity as ambient utilities, it has crossed into "planetary dominance" operationally — space infrastructure is the definition difference between regional powers and planetary ones (<a href="appendix-d.html">Appendix D</a>).</p>
+<p class="co co-key"><strong>Capability gate:</strong> when positioning, weather warning, and intercontinental connectivity operate as maintained public or organisational services—with backups, governance, and failure recovery—the society has a resilient planetary information layer. Space infrastructure supports global capability; it does not by itself define political power or “dominance” (<a href="appendix-d.html">Appendix D</a>).</p>
 <h2 id="ch40_satellites-408-the-satellite-papers">40.8 The Satellite Papers</h2>
 <ul>
 <li><strong>Telstar launched July 10, 1962 — the day after the Starfish Prime high-altitude nuclear test</strong> injected energetic particles into the magnetosphere; radiation damage contributed to Telstar's failure months later. Space-weather risk entered engineering through weapons testing; every subsequent rad-hardening spec descends from that lesson.</li>
@@ -463,7 +464,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch41.html" class="reader-nav-link">Chapter 41 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

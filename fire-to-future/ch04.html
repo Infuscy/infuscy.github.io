@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch04_food-chapter-4-food-acquisition-hunting-fishing-gathering-preservation">Chapter 4: Food Acquisition: Hunting, Fishing, Gathering, Preservation</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> prehistory → permanent · <strong>Difficulty:</strong> low–mid
-<br><strong>Requires:</strong> <a href="ch02.html">Ch 2</a>, <a href="ch03.html">Ch 3</a> · <br><strong>Unlocks:</strong> <a href="ch07.html">Ch 7</a> (surplus logic, seed selection), <a href="ch09.html">Ch 9</a> (storable wealth)</p>
+<p><strong>Era span:</strong> prehistory → permanent · <strong>Difficulty:</strong> low–mid<br><strong>Requires:</strong> <a href="ch02.html">Ch 2</a>, <a href="ch03.html">Ch 3</a><br><strong>Unlocks:</strong> <a href="ch07.html">Ch 7</a>, <a href="ch09.html">Ch 9</a>, <a href="ch30.html">Ch 30</a>, <a href="ch31.html">Ch 31</a></p>
 </blockquote>
 <p>Everything downstream — cities, specialists, metallurgy, science — is bought with calories someone else grew, caught, or preserved. This chapter maximizes acquisition efficiency and converts surplus into shelf life. Preservation matters more than acquisition: spoiled abundance equals famine.</p>
 <figure class="fig">
@@ -249,19 +250,19 @@ body {
 <text x="125" y="63" text-anchor="middle" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.6">TRAPS / WEIRS / NETS</text>
 <rect x="40" y="78" width="150" height="30" fill="#4a7c43" stroke="#16130e" stroke-width="1.5"/>
 <text x="115" y="97" text-anchor="middle" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.6">SHELLFISH / NUTS</text>
-<rect x="40" y="112" width="110" height="30" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/>
-<text x="95" y="131" text-anchor="middle" font-weight="bold">SPEAR / ATLATL</text>
-<rect x="40" y="146" width="90" height="30" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
-<text x="85" y="165" text-anchor="middle" font-weight="bold">BOW (skill)</text>
+<rect x="40" y="112" width="120" height="30" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/>
+<text x="100" y="131" text-anchor="middle" font-weight="bold">BOW (skill)</text>
+<rect x="40" y="146" width="96" height="30" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
+<text x="88" y="165" text-anchor="middle" font-weight="bold">SPEAR / ATLATL</text>
 </g>
 <text x="280" y="63" font-size="10">hunt while you sleep — check daily</text>
 <text x="280" y="97" font-size="10">low variance, gather in bulk</text>
-<text x="280" y="131" font-size="10">high peak, high failure rate</text>
-<text x="280" y="165" font-size="10">best active return once mastered</text>
+<text x="280" y="131" font-size="10">best active return once mastered</text>
+<text x="280" y="165" font-size="10">high peak, high failure rate</text>
 <rect x="462" y="50" width="162" height="120" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
 <text x="543" y="86" text-anchor="middle" font-size="10" font-weight="bold">PRESTIGE ≠ CALORIES</text>
 <text x="543" y="101" text-anchor="middle" font-size="9">meat ~30–40% of forager diet</text>
-<text x="543" y="114" text-anchor="middle" font-size="9">(!Kung pattern) but ~90%</text>
+<text x="543" y="114" text-anchor="middle" font-size="9">(!Kung pattern) but most</text>
 <text x="543" y="127" text-anchor="middle" font-size="9">of the stories — plan rations</text>
 <text x="543" y="140" text-anchor="middle" font-size="9">on mongongo, not mammoth</text>
 <text x="320" y="194" text-anchor="middle" font-size="9" font-style="italic">doctrine: automate first (passive gear), hunt second, never let one species exceed half the diet</text>
@@ -292,7 +293,7 @@ body {
 <tr>
 <td>Spring-pole snare</td>
 <td>Rabbit–fox</td>
-<td>Loop fist-sized, 10–15 cm off trail</td>
+<td>Loop fist-sized, bottom 10–15 cm above the trail</td>
 <td>Trail narrowing (brush funnel) doubles takes</td>
 </tr>
 <tr>
@@ -322,14 +323,14 @@ body {
 </tbody>
 </table></div>
 <h2 id="ch04_food-42-fishing-and-aquatic-harvest">4.2 Fishing and Aquatic Harvest</h2>
-<p>Fisheries are the cheapest protein on Earth per unit of labor:</p>
+<p>Where stocks allow, fisheries are among the cheapest protein per unit of labor:</p>
 <ul>
 <li><strong>Weirs:</strong> fence barriers across channels guiding fish into removable baskets — passive harvesting at riverine scale.</li>
 <li><strong>Nets:</strong> gillnets (mesh sized to snag gill plates), seines, cast nets; trawl-free line-and-hook methods preserve stocks longer.</li>
 <li><strong>Hooks:</strong> gorge pins (bone splinters baited inline) precede curved hooks; trotlines (mainline with many droppers) multiply hooks per check.</li>
 <li><strong>Winter ice fishing, tidal traps, shellfish beds</strong> provide dependable fallback calories even when hunting fails.</li>
 </ul>
-<p class="co co-key"><strong>Key threshold:</strong> dried fish runs ~50 % protein and keeps for months — the first exportable protein commodity and a classic trade good (<a href="ch09.html">Ch 9</a>).</p>
+<p class="co co-key"><strong>Key threshold:</strong> dried lean fish runs well over 50 % protein (stockfish ~75 %) and keeps for months — the first exportable protein commodity and a classic trade good (<a href="ch09.html">Ch 9</a>).</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -375,39 +376,39 @@ body {
 <h2 id="ch04_food-43-gathering-intelligence">4.3 Gathering Intelligence</h2>
 <p>Gathering is not random grazing; it is applied botany:</p>
 <ul>
-<li><strong>Calorie mapping:</strong> nuts (acorn, chestnut, walnut) and oily seeds beat berries by an order of magnitude per kilogram harvested. Acorn stands fed whole civilizations after leaching.</li>
-<li><strong>Detoxification techniques:</strong> cold-water leaching removes acorn tannins (hours in streambed sand filters); boiling in changes of water detoxifies many roots; grinding + cooking denatures others. One reliable detox protocol unlocks entire biomes.</li>
-<li><strong>Seasonal calendars</strong> and controlled burning to boost next year's yields blur the line into proto-agriculture (<a href="ch07.html">Ch 7</a>).</li>
-<li>Universal safety rule: positive identification or nothing. Test unknowns skin→lip→small bite→wait; teach the protocol explicitly.</li>
+<li><strong>Calorie mapping:</strong> nuts (acorn, chestnut, walnut) and oily seeds often yield more food energy per kilogram harvested than berries. Acorn stands fed many communities after leaching.</li>
+<li><strong>Documented detoxification techniques:</strong> cold-water leaching reduces acorn tannins; repeated boiling can reduce some bitter compounds; grinding and cooking alter others. Processing does not make an unknown species safe, so identification comes first.</li>
+<li><strong>Seasonal calendars</strong> and controlled burning to boost later yields blur the line into proto-agriculture (<a href="ch07.html">Ch 7</a>).</li>
+<li><strong>Safety rule:</strong> positive identification by a qualified local expert or a validated field key—or no use. Never use a person as the test organism. A skin, lip, or taste challenge can cause delayed respiratory or neurotoxic death.</li>
 </ul>
 <div class="table-wrap"><table>
 <thead>
 <tr>
 <th>Food</th>
-<th>Unlock step</th>
-<th>Method</th>
+<th>Processing step</th>
+<th>Safe-use rule</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Acorns</td>
-<td>Leach tannins</td>
-<td>Shell → grind coarse → cold-water sand filter till water runs clear → dry → meal</td>
+<td>Shell, grind, leach in changes of clean water, dry, mill</td>
+<td>Confirm species and local processing tradition; discard water after each leach</td>
 </tr>
 <tr>
 <td>Bitter roots</td>
-<td>Boil in changes</td>
-<td>Slice thin, 2–3 boils discarding water, taste-test bitterness out</td>
+<td>Slice and boil in changes of water when the species is positively identified</td>
+<td>A milder sample is not proof of safety; use established regional preparation</td>
 </tr>
 <tr>
 <td>Nuts/oily seed</td>
-<td>Dry + store</td>
-<td>Husk, dry below ~10 % moisture, cache rodent-proof</td>
+<td>Hull and dry fully before rodent-proof storage</td>
+<td>Use a measured moisture target appropriate to the species and storage duration</td>
 </tr>
 <tr>
 <td>Unknown plant</td>
-<td>Prove edible</td>
-<td>Skin rub → lip → pea-bite → wait 8 h → spoon → wait 24 h (one volunteer, never groups)</td>
+<td><strong>Do not eat</strong></td>
+<td>Photograph, preserve a specimen, and consult a qualified field botanist or local ethnobotanical source</td>
 </tr>
 </tbody>
 </table></div>
@@ -442,7 +443,7 @@ body {
 <text x="570" y="67" font-weight="bold">FERMENT</text>
 <text x="570" y="79">submerged lactic</text>
 <text x="570" y="90">keeps vitamin C</text>
-<text x="570" y="104" font-style="italic">winters' greens</text>
+<text x="570" y="104" font-style="italic">winter greens</text>
 </g>
 <text x="320" y="145" text-anchor="middle" font-size="10">FAT is the scarce macro — render and store deliberately (rabbit starvation kills on lean alone)</text>
 <text x="320" y="162" text-anchor="middle" font-size="10" font-weight="bold">6+ months shelf-stable = specialization fundable (Ch 9).</text>
@@ -499,11 +500,11 @@ body {
 </tr>
 </tbody>
 </table></div>
-<p>Fat is the scarce macronutrient — lean-protein-only diets poison ("rabbit starvation"). Render and store fat deliberately; oil-rich seeds and nuts are strategic assets.</p>
+<p>Fat is the scarce macronutrient — a diet of lean meat alone causes protein poisoning ("rabbit starvation") within weeks, however much is eaten. Render and store fat deliberately; oil-rich seeds and nuts are strategic assets.</p>
 <p class="co co-key"><strong>Key threshold:</strong> a settlement that can carry &gt;6 months of shelf-stable food survives bad winters and funds specialization. Granary logic begins here and formalizes in <a href="ch09.html">Ch 9</a>.</p>
 <p><strong>Pemmican standard:</strong> dry lean to crack-dry, pound to powder, mix ~1:1 by weight with rendered tallow, add ~10–20 % dried pounded fruit; pack tight in skin bags, seal with tallow. Keeps years cool and dry; 500 g feeds a worker a day.</p>
 <h2 id="ch04_food-45-doctrine">4.5 Doctrine</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> preserved food kills when salt, heat, or dryness fall short — anaerobic jars grow botulism without smell, under-smoked meats harbor parasites, and moldy grain carries toxins heat does not destroy. Salt to measure, boil low-acid preserves by tested time, dry to crack-dry below 13 % grain moisture, boil wild meats through, and discard swollen, foul, or mold-through stores; never taste-test suspect jars.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> preserved food kills when salt, heat, or dryness fall short — anaerobic jars grow botulism without smell, under-smoked meats harbor parasites, and moldy grain carries toxins heat does not destroy. Salt to measure; never seal low-acid food (meat, fish, most vegetables) in jars unless it has been pressure-processed at ~116–121 °C for a tested time or acidified or salted to a tested level, because a boiling-water bath does not kill botulinum spores; dry grain below 13 % moisture and meat to crack-dry; cook wild meat through (bear and wild boar carry <em>Trichinella</em>); and discard swollen, foul, or mold-through stores; never taste-test suspect jars.</p>
 <ol>
 <li><strong>Diversify sources</strong>: never let any single species exceed ~half the diet.</li>
 <li><strong>Automate first</strong> (traps/weirs/nets), hunt second.</li>
@@ -521,9 +522,9 @@ body {
 <li><strong>Sedentism preceded farming:</strong> Natufian communities (~14,500–11,500 cal BP, Levant) built permanent stone houses and dug storage pits while still living on wild resources — settlement first, cultivation second, reversing the folk sequence.</li>
 </ul>
 <h2 id="ch04_food-47-what-fish-weirs-show-about-institutions">4.7 What Fish Weirs Show About Institutions</h2>
-<p>Monumental weir systems are the Paleolithic-to-Mesolithic equivalent of infrastructure bonds:</p>
+<p>Monumental weir systems are the Mesolithic equivalent of infrastructure bonds:</p>
 <ul>
-<li>Timber weir complexes in the Seine basin date to roughly 8,000 years ago; the Boylston Street fishweir (Boston) to ~5,300–5,200 BP; Danish and Baltic examples run continuously through the Mesolithic–Neolithic transition.</li>
+<li>Mesolithic timber fish traps and weirs in northern Europe date back roughly 8,000–9,000 years (Dublin's Liffey traps; Denmark's Syltholm Fjord); the Boylston Street fishweir (Boston) was begun ~5,300 BP and maintained for well over a millennium; Danish and Baltic examples run continuously through the Mesolithic–Neolithic transition.</li>
 <li>Hundreds of stakes, coordinated placement across channels, and seasonal maintenance imply labor organization, territorial rights, and inheritance of positions — governance technology (<a href="ch47.html">Ch 47</a>) built from fish, centuries before grain states existed.</li>
 </ul>
 <h2 id="ch04_food-48-butchery-and-hygiene">4.8 Butchery and Hygiene</h2>
@@ -534,7 +535,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch05.html" class="reader-nav-link">Chapter 5 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch02_toolkit-chapter-2-the-first-toolkit-stone-bone-antler-and-wood">Chapter 2: The First Toolkit: Stone, Bone, Antler, and Wood</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 3.3 million BCE – Bronze Age overlap · <strong>Difficulty:</strong> mid
-<br><strong>Requires:</strong> <a href="ch01.html">Ch 1</a> (hardening, pitch) · <br><strong>Unlocks:</strong> <a href="ch03.html">Ch 3</a> cutting fibers, <a href="ch04.html">Ch 4</a> butchering, <a href="ch13.html">Ch 13</a> prospecting hammers</p>
+<p><strong>Era span:</strong> ~3.3 Ma (Lomekwi) – Bronze Age overlap · <strong>Difficulty:</strong> mid<br><strong>Requires:</strong> <a href="ch01.html">Ch 1</a><br><strong>Unlocks:</strong> <a href="ch03.html">Ch 3</a>, <a href="ch04.html">Ch 4</a>, <a href="ch06.html">Ch 6</a>, <a href="ch13.html">Ch 13</a></p>
 </blockquote>
 <p>Tools are the first <em>self-replicating</em> technology: you need a tool to make better tools. The goal of this chapter is not museum-quality knapping but a working reduction sequence — a repeatable path from raw rock to a maintained edge, plus the organic toolkit that stone alone cannot provide.</p>
 <figure class="fig">
@@ -252,7 +253,7 @@ body {
 <rect x="136" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="188" y="80" font-weight="bold">2. HARD</text>
 <text x="188" y="92">hammerstone</text>
-<text x="188" y="103">~120° strike</text>
+<text x="188" y="103">platform <90°</text>
 <rect x="256" y="60" width="105" height="60" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="308" y="80" font-weight="bold">3. SOFT</text>
 <text x="308" y="92">antler billet</text>
@@ -276,11 +277,11 @@ body {
 <text x="320" y="160" text-anchor="middle" font-size="10">blade-core shortcut: prepare one core → strike many parallel blades (mass production)</text>
 <text x="320" y="178" text-anchor="middle" font-size="10" font-weight="bold">Rule: calories per edge-centimeter beats beauty.</text>
 </svg>
-<figcaption><strong>Figure 2.1.</strong> The five-stage reduction sequence. Beginners fail by starting at stage 4 (pretty pressure flaking) on an unshaped core. Professionals spend 80% of time in stages 1–3.</figcaption>
+<figcaption><strong>Figure 2.1.</strong> The five-stage reduction sequence. Beginners fail by starting at stage 4 (pretty pressure flaking) on an unshaped core. Experienced knappers spend most of their time in stages 1–3.</figcaption>
 </figure>
 
 <h2 id="ch02_toolkit-21-stone-selection">2.1 Stone Selection</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> knapping throws razor flakes and silica dust — eyes cut before pain registers, dust scars lungs over seasons, and heat-treating stone spalls explosively when rushed. Knapp seated with eyes covered, strike away from hands and bystanders over a hide sheet, wet-grind or ventilate dusty work, and heat chert buried under sand with slow ramps only.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> knapping throws razor flakes and silica dust — eyes cut before pain registers, dust scars lungs over seasons, and heat-treating stone spalls explosively when rushed. Knap seated with eyes covered, strike away from hands and bystanders over a hide sheet, wet-grind or ventilate dusty work, and heat chert buried under sand with slow ramps only.</p>
 <ul>
 <li><strong>Conchoidal fracturers</strong> (flint, chert, obsidian, chalcedony) break with sharp, predictable edges. Test by striking a fresh face: clean ripples = good; dull granular break = poor.</li>
 <li><strong>Heat treatment</strong> improves marginal cherts: slow-bake buried under sand at ~250–400 °C for hours; color deepens, luster rises, flaking becomes easier. This is humanity's first materials-science process — kiln-adjacent thinking from day one (<a href="ch05.html">Ch 5</a>).</li>
@@ -338,11 +339,12 @@ body {
 <h2 id="ch02_toolkit-22-the-reduction-sequence">2.2 The Reduction Sequence</h2>
 <ol>
 <li><strong>Test and select</strong> a nodule free of internal flaws (ring it with another stone; dead thud = cracked).</li>
-<li><strong>Percussion flaking, hard hammer:</strong> strike platform edges at ~120° exterior angle with a round hammerstone to detach large flakes and set the core's shape.</li>
+<li><strong>Percussion flaking, hard hammer:</strong> strike platform edges whose exterior platform angle is below 90° (typically ~60–85°) with a round hammerstone to detach large flakes and set the core's shape.</li>
 <li><strong>Soft hammer:</strong> antler billets remove thinning flakes with longer, shallower scars — this is the step that turns a chunk into a bifacial handaxe or preform.</li>
 <li><strong>Pressure flaking:</strong> push small flakes off with an antler-tine or copper-tipped pressure flaker for final edge regularity. Pressure-flaked notches make haftable stems.</li>
-<li><strong>Blade strategy:</strong> prepared cores (Levallois-style or prismatic blade cores) yield many long parallel flakes from one core — mass production, Paleolithic edition.</li>
+<li><strong>Maintain:</strong> retouch edges in the field rather than making new tools (§2.7).</li>
 </ol>
+<p><strong>Blade shortcut:</strong> prepared cores (Levallois-style or prismatic blade cores) yield many long parallel flakes from one core — mass production, Paleolithic edition. It is a variant of stages 2–3, not a separate stage, and it pays only once a knapper can read a core reliably.</p>
 <p class="co co-key"><strong>Key threshold:</strong> an edge angle of 20–40° cuts efficiently; steeper scrapers (45–70°) shave hides and wood. Match geometry to task instead of chasing one universal form.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 286" width="100%" role="img" aria-label="Edge angle guide drawn to scale">
@@ -360,8 +362,8 @@ body {
 <path d="M516,171 A 26 26 0 0 0 544,171"/>
 </g>
 <text x="122" y="44" font-size="9" fill="#8f3b2d">25°</text>
-<text x="334" y="122" font-size="9" fill="#8f3b2d">40°</text>
-<text x="552" y="177" font-size="9" fill="#8f3b2d">65°</text>
+<text x="336" y="110" font-size="9" fill="#8f3b2d">40°</text>
+<text x="550" y="160" font-size="9" fill="#8f3b2d">65°</text>
 <line x1="36" y1="236" x2="604" y2="236" stroke="#9a927e" stroke-width="1"/>
 <text x="110" y="256" text-anchor="middle" font-size="10.5" font-weight="bold">~25° — meat / reeds</text>
 <text x="110" y="268" text-anchor="middle" font-size="9">razor, fragile — retouch often</text>
@@ -370,7 +372,7 @@ body {
 <text x="530" y="256" text-anchor="middle" font-size="10.5" font-weight="bold">~65° — hide / wood</text>
 <text x="530" y="268" text-anchor="middle" font-size="9">scraper — durable, shaves</text>
 </svg>
-<figcaption><strong>Figure 2.2.</strong> Acute edges slice; steep edges scrape. Knapping one "universal" 45° edge guarantees a tool that does nothing well — carry two blanks instead.</figcaption>
+<figcaption><strong>Figure 2.2.</strong> Acute edges slice; steep edges scrape. Knapping one "universal" edge for every job guarantees a tool that does nothing well — match the angle to the task and carry more than one blank.</figcaption>
 </figure>
 
 <p class="co co-dead"><strong>Dead end avoided:</strong> obsessing over elegant symmetrical forms. A field-expedient flake with a good edge outperforms a beautiful biface made at triple the cost. Optimize calories-per-edge-centimeter.</p>
@@ -401,11 +403,11 @@ body {
 <p>Hafting multiplies capability: a 30 cm handle turns arm motion into levered force and protects the user.</p>
 <ul>
 <li><strong>Pitch adhesives:</strong> pine resin thickened with charcoal powder (reduces brittleness); applied hot, kneaded like taffy, hardened on cooling.</li>
-<li><strong>Bitumen</strong>, where surface seeps exist, is a ready-made adhesive and waterproofing (forward link to <a href="ch09.html">Ch 9</a> boat building).</li>
+<li><strong>Bitumen</strong>, where surface seeps exist, is a ready-made adhesive and waterproofing (it later seals boat seams for the river trade of <a href="ch09.html">Ch 9</a> and <a href="ch24.html">Ch 24</a>).</li>
 <li><strong>Animal glue:</strong> simmer hide/bone collagen for hours; strong, reversible with heat.</li>
-<li><strong>Sinew wrapping</strong>, dampened as it shrinks-dries to a drum-tight grip, mechanically locks the joint; pitch fills gaps beneath.</li>
+<li><strong>Sinew wrapping</strong>, applied wet, shrinks as it dries into a drum-tight grip that mechanically locks the joint; pitch fills gaps beneath.</li>
 </ul>
-<p class="co co-key"><strong>Key threshold:</strong> a hafted axe fells a tree in minutes versus hours for burning or gouging — timber architecture, dugout boats, and palisades all date their feasibility to reliable hafting.</p>
+<p class="co co-key"><strong>Key threshold:</strong> a hafted ground axe fells a sapling in minutes and a 30 cm trunk in under an hour (§2.3), versus half a day for burning or gouging — timber architecture, dugout boats, and palisades all date their feasibility to reliable hafting.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -433,7 +435,7 @@ body {
 </tr>
 <tr>
 <td>Hide glue</td>
-<td>simmered collagen, ~1:4 glue:water</td>
+<td>simmered collagen; dry glue ~1:2 with water by weight</td>
 <td>warm pot ~60 °C</td>
 <td>No — reverses</td>
 <td>Furniture-grade wood joints</td>
@@ -462,6 +464,11 @@ body {
 </thead>
 <tbody>
 <tr>
+<td>Lomekwian</td>
+<td>~3.3 Ma (Lomekwi 3, Kenya)</td>
+<td>large crude flakes and anvil-struck cores; maker unknown, interpretation debated</td>
+</tr>
+<tr>
 <td>Oldowan</td>
 <td>~2.6 Ma (Gona, Ethiopia)</td>
 <td>sharp flakes struck from cobbles</td>
@@ -478,8 +485,8 @@ body {
 </tr>
 <tr>
 <td>Wooden throwing spears</td>
-<td>~300 ka (Schöningen, Germany)</td>
-<td>eight preserved spruce shafts — sophisticated green-wood working long before <em>Homo sapiens</em></td>
+<td>~200 ka (Schöningen, Germany; revised from ~300 ka in 2025)</td>
+<td>about ten preserved spears, mostly spruce — sophisticated green-wood working, now attributed to Neanderthals</td>
 </tr>
 <tr>
 <td>Blade + microlith industries</td>
@@ -505,7 +512,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch03.html" class="reader-nav-link">Chapter 3 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

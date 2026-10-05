@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Appendix E — Master Timeline & Dependency Table — Fire to Future</title>
+<title>Appendix E — Dependency Table and Scenario Planning — Fire to Future</title>
 <style>
 
 :root {
@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -233,12 +235,12 @@ body {
   <span class="reader-progress">Appendix E of 7</span>
 </div>
 <main class="reader-content">
-<h1 id="appendix_E_timeline-appendix-e-master-timeline-dependency-table">Appendix E — Master Timeline &amp; Dependency Table</h1>
+<h1 id="appendix_E_timeline-appendix-e-dependency-table-and-scenario-planning">Appendix E — Dependency Table and Scenario Planning</h1>
 <blockquote class="meta">
-<p>Part 1: all 47 chapters mapped to historical era, difficulty, prerequisites, and unlocks.
-Part 2: a realistic compressed rebuild schedule for a determined civilization that possesses this book.</p>
+<p>This appendix maps all 51 chapters to historical era, difficulty, prerequisites, and unlocks, then replaces the former universal rebuild schedule with scenario-dependent planning bands. These bands are not forecasts or critical-path dates.</p>
 </blockquote>
 <h2 id="appendix_E_timeline-e1-chapter-dependency-table">E.1 Chapter Dependency Table</h2>
+<p>Chapters 1–47 form the core manual. Chapters 48–51 are an optional defense annex and are excluded from the core planning graph.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -257,7 +259,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>~400 kya</td>
 <td>low</td>
 <td>—</td>
-<td>2, 5, heat everywhere</td>
+<td>2, 5, 7, heat everywhere</td>
 </tr>
 <tr>
 <td><a href="ch02.html">2</a></td>
@@ -328,8 +330,8 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Copper/bronze</td>
 <td>~5000 BCE</td>
 <td>mid</td>
-<td>1, 5, 13</td>
-<td>furnace skills</td>
+<td>1, 2, 5; basic surface ore selection</td>
+<td>furnace skills; industrial mining</td>
 </tr>
 <tr>
 <td><a href="ch11.html">11</a></td>
@@ -352,16 +354,16 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Mining</td>
 <td>~4000 BCE</td>
 <td>mid</td>
-<td>1, 2</td>
-<td>ore/salt/coal security</td>
+<td>1, 2, 5, 6</td>
+<td>industrial 10/14; 21/28 feedstock</td>
 </tr>
 <tr>
 <td><a href="ch14.html">14</a></td>
 <td>Iron/steel craft</td>
 <td>~1200 BCE</td>
 <td>mid–high</td>
-<td>10, 13, 16</td>
-<td>tool abundance</td>
+<td>1, 2, 5, 10, 13</td>
+<td>15 precision tools; 22 scale-up</td>
 </tr>
 <tr>
 <td><a href="ch15.html">15</a></td>
@@ -376,7 +378,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Mills</td>
 <td>~300 BCE–1200 CE</td>
 <td>mid</td>
-<td>15</td>
+<td>3, 14, 15</td>
 <td>proto-industry power</td>
 </tr>
 <tr>
@@ -385,7 +387,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>ancient→1600s</td>
 <td>mid</td>
 <td>5, 13</td>
-<td>glass/lime/soap/distill</td>
+<td>19 optics; 21 industrial chemistry; 30/31 hygiene</td>
 </tr>
 <tr>
 <td><a href="ch18.html">18</a></td>
@@ -400,7 +402,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Optics</td>
 <td>1280→1670s</td>
 <td>mid</td>
-<td>17, 15</td>
+<td>12, 15, 17</td>
 <td>astronomy/microscopy</td>
 </tr>
 <tr>
@@ -408,8 +410,8 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Instruments/method</td>
 <td>1600→1900</td>
 <td>mid–high</td>
-<td>15, 19</td>
-<td>science engine</td>
+<td>15, 17, 18, 19</td>
+<td>21+ measurement and method</td>
 </tr>
 <tr>
 <td><a href="ch21.html">21</a></td>
@@ -448,7 +450,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Electricity I</td>
 <td>1745→1866</td>
 <td>mid–high</td>
-<td>20, 17</td>
+<td>15, 17, 20</td>
 <td>electromagnetism mastery</td>
 </tr>
 <tr>
@@ -488,7 +490,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Sanitation/germs</td>
 <td>1847→1920s</td>
 <td>mid</td>
-<td>19, 17, 20</td>
+<td>17, 19, 20, 21</td>
 <td>survivable cities</td>
 </tr>
 <tr>
@@ -512,7 +514,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Flight</td>
 <td>1853→1960s</td>
 <td>extreme</td>
-<td>29, 27, 38</td>
+<td>20, 27, 29; Ch 38 optional jump</td>
 <td>air transport/aerospace path</td>
 </tr>
 <tr>
@@ -528,7 +530,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Transistors/ICs</td>
 <td>1947→1971+</td>
 <td>extreme</td>
-<td>34, 20</td>
+<td>20, 21, 34</td>
 <td>computation collapse</td>
 </tr>
 <tr>
@@ -536,7 +538,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Computers/software</td>
 <td>1854→1980s</td>
 <td>extreme</td>
-<td>35</td>
+<td>18, 35</td>
 <td>thought automation</td>
 </tr>
 <tr>
@@ -552,7 +554,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Polymers/composites</td>
 <td>1839→present</td>
 <td>high</td>
-<td>28, 21</td>
+<td>21, 26, 28, 35</td>
 <td>materials catalog</td>
 </tr>
 <tr>
@@ -560,7 +562,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Rocketry/orbit</td>
 <td>1926→present</td>
 <td>extreme</td>
-<td>27, 29, 36, 38</td>
+<td>20, 27, 29, 36, 38</td>
 <td>space access</td>
 </tr>
 <tr>
@@ -576,7 +578,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Fiber optics</td>
 <td>1966→present</td>
 <td>high</td>
-<td>17, 34, 35</td>
+<td>17, 26, 34, 35</td>
 <td>bandwidth civilization</td>
 </tr>
 <tr>
@@ -584,7 +586,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Internet/cloud</td>
 <td>1969→present</td>
 <td>extreme</td>
-<td>36, 41</td>
+<td>26, 36, 41</td>
 <td>real-time coordination</td>
 </tr>
 <tr>
@@ -608,7 +610,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Robotics</td>
 <td>1788→present</td>
 <td>high</td>
-<td>15, 35, 36</td>
+<td>15, 35, 36, 43</td>
 <td>labor automation</td>
 </tr>
 <tr>
@@ -616,8 +618,8 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <td>Machine intelligence</td>
 <td>1958→present</td>
 <td>extreme</td>
-<td>35, 42, 43</td>
-<td>cognition infrastructure</td>
+<td>12, 35, 42</td>
+<td>domain automation/cognition infrastructure</td>
 </tr>
 <tr>
 <td><a href="ch47.html">47</a></td>
@@ -630,7 +632,7 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 <tr>
 <td><a href="ch48.html">48</a></td>
 <td>Fortification/siegecraft</td>
-<td>~9000 BCE→20th c.</td>
+<td>~8000 BCE→20th c.</td>
 <td>mid</td>
 <td>6, 13, 21</td>
 <td>state fiscal systems</td>
@@ -661,86 +663,232 @@ Part 2: a realistic compressed rebuild schedule for a determined civilization th
 </tr>
 </tbody>
 </table></div>
-<h2 id="appendix_E_timeline-e2-compressed-rebuild-schedule">E.2 Compressed Rebuild Schedule</h2>
+<h2 id="appendix_E_timeline-e2-scenario-dependent-planning-model">E.2 Scenario-Dependent Planning Model</h2>
+<p>A calendar is not a dependency analysis. The same technology can take one generation or several depending on population, resources, institutions, education, finance, war, famine, climate, and whether the knowledge survives. The former single “500-year” estimate assumed a large starting population and competent governance while claiming no inherited industry—conditions that already contain major social capital.</p>
+<p>This edition therefore provides scenario bands, exit evidence, and bottleneck categories rather than universal dates.</p>
 <figure class="fig">
-<svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Compressed rebuild schedule bars">
-<title>Compressed rebuild schedule bars</title>
-<rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
-<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig E.1 — ~500 years, not 10,000 (elapsed-year phases + exits)</text>
-<rect x="17" y="36" width="36.4" height="18" fill="#e8dcc0"/>
-<rect x="53.4" y="36" width="145.4" height="18" fill="#efe9db"/>
-<rect x="198.8" y="36" width="121.2" height="18" fill="#cfe0ea"/>
-<rect x="320" y="36" width="84.9" height="18" fill="#e0c896"/>
-<rect x="404.9" y="36" width="121.2" height="18" fill="#e8c8c0"/>
-<rect x="526.1" y="36" width="96.9" height="18" fill="#eef5ec"/>
-<g stroke="#16130e" stroke-width="1">
-<line x1="53.4" y1="36" x2="53.4" y2="54"/>
-<line x1="198.8" y1="36" x2="198.8" y2="54"/>
-<line x1="320" y1="36" x2="320" y2="54"/>
-<line x1="404.9" y1="36" x2="404.9" y2="54"/>
-<line x1="526.1" y1="36" x2="526.1" y2="54"/>
+<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Scenario-dependent planning model instead of a universal 500-year schedule">
+<title>Scenario-dependent planning model instead of a universal 500-year schedule</title>
+<rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig E.1 — Start scale and local bottlenecks determine elapsed time</text>
+<g text-anchor="middle" font-size="9.5">
+<rect x="20" y="50" width="184" height="82" rx="7" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
+<text x="112" y="72" font-weight="bold">SETTLEMENT · 10k–50k</text>
+<text x="112" y="90">target: survival + local repair</text>
+<text x="112" y="107">bottlenecks: specialists, reserves</text>
+<text x="112" y="124">output: resilient settlement</text>
+<rect x="228" y="50" width="184" height="82" rx="7" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
+<text x="320" y="72" font-weight="bold">REGIONAL · 50k–500k</text>
+<text x="320" y="90">target: workshops + trade</text>
+<text x="320" y="107">bottlenecks: power, tools, finance</text>
+<text x="320" y="124">output: regional industry</text>
+<rect x="436" y="50" width="184" height="82" rx="7" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<text x="528" y="72" font-weight="bold">INDUSTRIAL · 1m+</text>
+<text x="528" y="90">target: cities + advanced systems</text>
+<text x="528" y="107">bottlenecks: scale, energy, research</text>
+<text x="528" y="124">output: industrial civilisation</text>
 </g>
-<rect x="17" y="36" width="606" height="18" rx="3" fill="none" stroke="#16130e" stroke-width="2"/>
-<g font-size="9" font-weight="bold" text-anchor="middle" fill="#16130e">
-<text x="35.2" y="49">FARM</text>
-<text x="126.1" y="49">30–150 CLASSICAL</text>
-<text x="259.4" y="49">150–250 ACCEL</text>
-<text x="362.5" y="49">250–320 STEAM</text>
-<text x="465.5" y="49">320–420 MODERN</text>
-<text x="574.6" y="49">420–500 PLANETARY</text>
-</g>
-<line x1="20" y1="36" x2="20" y2="32" stroke="#16130e" stroke-width="1.25"/>
-<text x="40" y="29" text-anchor="middle" font-size="9" font-weight="bold" fill="#16130e">0–2 survive</text>
-<text x="19" y="67" text-anchor="middle" font-size="9" fill="#16130e">0</text>
-<text x="622" y="67" text-anchor="end" font-size="9" fill="#16130e">500 yr</text>
-<text x="320" y="88" text-anchor="middle" font-size="9">each phase has an EXIT — surplus stored, literacy, iron &lt; stone, textbooks, grid, yields held, D.0 five</text>
-<text x="320" y="108" text-anchor="middle" font-size="10" font-weight="bold">Hard floors: population ≥1M · geology reveals slowly · knacks take generations · trust compounds in decades</text>
-<text x="320" y="128" text-anchor="middle" font-size="10" font-weight="bold">Tighteners: bog iron · surface coal · preserved libraries · strong institutions</text>
-<text x="320" y="148" text-anchor="middle" font-size="10">knowledge replaces blind exploration — that difference IS the 20× compression</text>
-<text x="320" y="172" text-anchor="middle" font-size="11" font-weight="bold">Total: ~450–550 years to planetary capability.</text>
+<text x="320" y="157" text-anchor="middle" font-size="10" font-weight="bold">Advance only when an acceptance gate passes—not because a bar on a chart says the date arrived.</text>
+<text x="320" y="181" text-anchor="middle" font-size="9.5">Any model must be rerun after war, famine, epidemic, migration, resource discovery, or institutional failure.</text>
+<text x="320" y="202" text-anchor="middle" font-size="9" font-style="italic">Elapsed years are an output of the scenario model, never an input hidden inside it.</text>
 </svg>
-<figcaption><strong>Figure E.1.</strong> Seven phases with exit criteria, not dates — advance on evidence (surplus stored, iron cheaper than stone, grids lit, yields held). Tighteners pull left, hard floors refuse: people, geology, hands, and trust keep their own clocks.</figcaption>
+<figcaption><strong>Figure E.1.</strong> The manual now starts from a declared population, resource, and institutional scenario. Each scenario has a different target and different binding constraints.</figcaption>
 </figure>
 
-<p>Assumptions: starting population ≥1 M with this book, no inherited industry, competent governance (<a href="ch47.html">Ch 47</a>) from day one. Dates are ELAPSED YEARS from start.</p>
-<h3 id="appendix_E_timeline-phase-0-survival-years-02">Phase 0 — Survival (years 0–2)</h3>
-<p>Fire discipline, toolkit, cordage, food acquisition + preservation, first shelters, prospecting register begun (<a href="ch01.html">Ch 1</a>–<a href="ch04.html">4</a>, start of <a href="ch06.html">6</a>, <a href="ch13.html">13</a>).
-<strong>Exit criterion:</strong> zero starvation risk in worst modeled season; tool production self-sustaining.</p>
-<h3 id="appendix_E_timeline-phase-1-settled-agriculture-years-230">Phase 1 — Settled agriculture (years 2–30)</h3>
-<p>Pottery, full settlement buildout, crop packages + rotation, animal domestication, writing adopted immediately, numerals with zero taught universally, money/markets established early (<a href="ch05.html">Ch 5</a>–<a href="ch12.html">12</a>).
-<strong>Exit:</strong> grain surplus &gt;25 % above consumption stored rodent-proof; literacy &gt;50 %; kilns firing reliably.</p>
-<h3 id="appendix_E_timeline-phase-2-classical-industry-years-30150">Phase 2 — Classical industry (years 30–150)</h3>
-<p>Copper/bronze compressed into furnace apprenticeship (~decade), then bloomery iron at scale; mills on every good stream; craft chemistry maturing; mining doctrine running (<a href="ch13.html">Ch 13</a>–<a href="ch17.html">17</a>).
-<strong>Exit:</strong> iron tools cheaper than stone equivalents; water power exceeds muscle power regionally; written technical manuals circulating.</p>
-<h3 id="appendix_E_timeline-phase-3-acceleration-years-150250">Phase 3 — Acceleration (years 150–250)</h3>
-<p>Printing press within reach of every town; lens workshops → telescopes/microscopes; instrument culture + scientific societies institutionalized; black powder + acid industry online; coke smelting breaking wood ceilings (<a href="ch18.html">Ch 18</a>–<a href="ch22.html">22</a>).
-<strong>Exit:</strong> identical textbooks across regions; measurement standards enforced; iron output compounding annually.</p>
-<h3 id="appendix_E_timeline-phase-4-steam-and-electrification-years-250320">Phase 4 — Steam and electrification (years 250–320)</h3>
-<p>Watt-correct steam engines; railways with telegraph pairing; batteries → dynamos → polyphase grids; sanitation wave begins (<a href="ch23.html">Ch 23</a>–<a href="ch26.html">26</a>, <a href="ch30.html">30</a>).
-<strong>Exit:</strong> grid power in major cities; freight costs &lt;10 % of goods value; urban death rates falling visibly.</p>
-<h3 id="appendix_E_timeline-phase-5-modern-stack-years-320420">Phase 5 — Modern stack (years 320–420)</h3>
-<p>Steel/concrete at scale, petroleum refining, ICE fleets, tractors, Haber-Bosch, clinical medicine, flight, vacuum tubes as scaffolding then straight to silicon planar ICs, computers, fission plants (<a href="ch27.html">Ch 27</a>–<a href="ch37.html">37</a>, <a href="ch32.html">32</a>).
-<strong>Exit:</strong> yields &gt;4 t/ha sustained; antibiotics under stewardship; working integrated circuits fabbed domestically.</p>
-<h3 id="appendix_E_timeline-phase-6-planetary-years-420500">Phase 6 — Planetary (years 420–500)</h3>
-<p>Polymers/composites mature, orbital launch, satellite constellations, fiber backbone, internet protocols, modern energy portfolio, biotech platforms, robotics, machine intelligence (<a href="ch38.html">Ch 38</a>–<a href="ch46.html">46</a>).
-<strong>Exit criterion = D.0's five dominance capabilities met simultaneously (<a href="appendix-d.html">Appendix D</a>).</strong></p>
-<h3 id="appendix_E_timeline-where-the-schedule-bends">Where the Schedule Bends</h3>
+<h3 id="appendix_E_timeline-e21-planning-inputs">E.2.1 Planning inputs</h3>
+<p>Every schedule must state:</p>
 <ul>
-<li><strong>Tighteners:</strong> coastal iron sand or bog iron (Phase 2 accelerates decades); surface coal seams (Phase 3–4 accelerate); preserved libraries/engineers (whole plan compresses toward Phase 3's exit by year 100); strong institutional culture avoids the century-scale waste of monetary/legal instability.</li>
-<li><strong>Hard floors (do not fantasy-compress):</strong></li>
-<li><strong>Population:</strong> specialists need surplus feeding them; sub-1M populations cap out around late Phase 3 complexity.</li>
-<li><strong>Mining depth accumulation:</strong> ore bodies reveal their structure only as workings deepen; geology can't be rushed.</li>
-<li><strong>Tacit skill formation:</strong> smithing, glassblowing, machining take years-per-generation of hands-on apprenticeship — books transfer knowledge, not knacks. Budget generations, not months, for craft maturity (<a href="ch14.html">Ch 14</a>'s warning stands).</li>
-<li><strong>Institutional trust compounds slowly:</strong> credit systems, statistical bureaus, and scientific norms each need decades of kept promises before they bear load (<a href="ch47.html">Ch 47</a>).</li>
+<li>starting population and age structure;</li>
+<li>local food, water, fuel, ore, timber, minerals, and energy resources;</li>
+<li>surviving literate, technical, medical, and organisational capacity;</li>
+<li>settlement pattern, transport geography, and climate;</li>
+<li>finance, property, dispute-resolution, and record systems;</li>
+<li>ability to enforce safety and environmental limits;</li>
+<li>access to technical books, test equipment, calibration, and replacement parts;</li>
+<li>strategic reserves and recovery plans for crop, tool, medicine, and energy failure;</li>
+<li>external conflict, migration, trade, and epidemic risk.</li>
 </ul>
-<p>Realistic total: <strong>~450–550 years to full planetary capability</strong>, versus history's ~10,000 — the book's entire value proposition is that compression, purchased with knowledge instead of blind exploration.</p>
+<h3 id="appendix_E_timeline-e22-bottleneck-categories">E.2.2 Bottleneck categories</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Bottleneck</th>
+<th>Typical symptom</th>
+<th>Evidence needed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Population and food</td>
+<td>specialists cannot be sustained through bad seasons</td>
+<td>reliable reserves, productivity, labour and age data</td>
+</tr>
+<tr>
+<td>Tacit skill</td>
+<td>apprentices can copy objects but not diagnose variation</td>
+<td>supervised production, measured yield, qualified teachers</td>
+</tr>
+<tr>
+<td>Energy</td>
+<td>machinery exists but cannot run continuously</td>
+<td>reliable fuel, power, heat, maintenance, storage</td>
+</tr>
+<tr>
+<td>Materials</td>
+<td>one ore, grade, or supplier blocks production</td>
+<td>qualified alternatives, strategic stock, substitution test</td>
+</tr>
+<tr>
+<td>Measurement</td>
+<td>parts and processes cannot be compared</td>
+<td>traceable standards, instruments, calibration records</td>
+</tr>
+<tr>
+<td>Institutions</td>
+<td>projects fund construction but not maintenance</td>
+<td>named owner, lifecycle budget, audit, succession</td>
+</tr>
+<tr>
+<td>Public health</td>
+<td>labour loss and contamination rise</td>
+<td>water, waste, disease, vaccination, cold-chain evidence</td>
+</tr>
+<tr>
+<td>Information</td>
+<td>knowledge is copied but not validated</td>
+<td>archive, edition control, independent test and revision</td>
+</tr>
+<tr>
+<td>Safety</td>
+<td>accidents are treated as isolated bad luck</td>
+<td>hazard register, controls, incident learning, independent review</td>
+</tr>
+<tr>
+<td>Environment</td>
+<td>resource base or system output degrades</td>
+<td>measured flows, limits, restoration and substitution plans</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="appendix_E_timeline-e23-gate-record">E.2.3 Gate record</h3>
+<p>At each capability gate, record:</p>
+<ol>
+<li>current output and uncertainty;</li>
+<li>next acceptance test;</li>
+<li>hard prerequisite;</li>
+<li>named responsible organisation;</li>
+<li>workforce and competence requirement;</li>
+<li>material and energy budget;</li>
+<li>maintenance interval;</li>
+<li>failure and recovery plan;</li>
+<li>independent review date;</li>
+<li>scenario assumptions that would invalidate the plan.</li>
+</ol>
+<h3 id="appendix_E_timeline-e24-what-can-still-be-estimated-responsibly">E.2.4 What can still be estimated responsibly</h3>
+<p>A project planner may estimate duration for a <strong>specific scenario</strong> using:</p>
+<ul>
+<li>demonstrated historical build rates;</li>
+<li>current workforce and equipment;</li>
+<li>learning curves with confidence ranges;</li>
+<li>resource and logistics throughput;</li>
+<li>explicit failure and restart assumptions;</li>
+<li>sensitivity to famine, war, epidemic, and migration.</li>
+</ul>
+<p>The result should be a range with scenarios, not a single date. A useful model answers: “Under these assumptions, which capability is the next binding constraint, and what evidence would change the answer?” It does not convert incomplete knowledge into a universal timetable.</p>
+<h2 id="appendix_E_timeline-e3-planning-record-template">E.3 Planning Record Template</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Current value</th>
+<th>Evidence</th>
+<th>Confidence</th>
+<th>Owner</th>
+<th>Review date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Scenario</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Highest complete gate</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Next gate</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Binding constraint</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acceptance test</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Safety / environmental review</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Failure recovery</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Estimated duration range</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Assumptions to test</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
 </main>
 <nav class="reader-bottom-nav">
   <a href="appendix-d.html" class="reader-nav-link">← Appendix D</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="appendix-f.html" class="reader-nav-link">Appendix F →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

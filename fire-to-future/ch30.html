@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,10 +237,9 @@ body {
 <main class="reader-content">
 <h1 id="ch30_sanitation-chapter-30-germ-theory-sanitation-and-water-treatment">Chapter 30: Germ Theory, Sanitation, and Water Treatment</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1847 Semmelweis → 1920s sanitary engineering · <strong>Difficulty:</strong> mid
-<br><strong>Requires:</strong> <a href="ch19.html">Ch 19</a> microscopes, <a href="ch17.html">Ch 17</a>/<a href="ch21.html">21</a> chlorine, <a href="ch20.html">Ch 20</a> statistics · <br><strong>Unlocks:</strong> <a href="ch31.html">Ch 31</a> clinical medicine, demographic transition</p>
+<p><strong>Era span:</strong> 1847 Semmelweis → 1920s sanitary engineering · <strong>Difficulty:</strong> mid<br><strong>Requires:</strong> <a href="ch17.html">Ch 17</a>, <a href="ch19.html">Ch 19</a>, <a href="ch20.html">Ch 20</a>, <a href="ch21.html">Ch 21</a><br><strong>Unlocks:</strong> <a href="ch31.html">Ch 31</a>, <a href="ch32.html">Ch 32</a>, <a href="ch44.html">Ch 44</a></p>
 </blockquote>
-<p>The single highest-return chapter in this book. Clean water and sanitation doubled urban life expectancy BEFORE antibiotics existed — and they remain the cheapest health technology ever deployed. A civilization that skips this for flashier medicine wastes its people.</p>
+<p>Arguably the highest-return chapter in this book. Clean water and sanitation drove much of the fall in urban mortality BEFORE antibiotics existed (in early-20th-century US cities, clean water alone is credited with roughly half of the decline) — and they remain among the most cost-effective health investments known. A civilization that skips this for flashier medicine wastes its people.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Water treatment train">
 <title>Water treatment train</title>
@@ -248,8 +249,8 @@ body {
 <rect x="16" y="55" width="109" height="75" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="73" y="72" font-weight="bold">1. PROTECT</text>
 <text x="73" y="84">fence watershed</text>
-<text x="73" y="95">latrine 30 m+</text>
-<text x="73" y="106">from wells</text>
+<text x="73" y="95">latrines down-</text>
+<text x="73" y="106">gradient of wells</text>
 <text x="73" y="120" font-style="italic">cheapest step</text>
 <rect x="138" y="55" width="115" height="75" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="195" y="72" font-weight="bold">2. FILTER</text>
@@ -259,10 +260,10 @@ body {
 <text x="195" y="120" font-style="italic">removes bulk</text>
 <rect x="266" y="55" width="115" height="75" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
 <text x="323" y="72" font-weight="bold">3. DISINFECT</text>
-<text x="323" y="84">chlorine dose +</text>
-<text x="323" y="95">30 min contact</text>
-<text x="323" y="106">0.2–0.5 mg/L left</text>
-<text x="323" y="120" font-style="italic">residual = proof</text>
+<text x="323" y="84">validated dose +</text>
+<text x="323" y="95">validated contact</text>
+<text x="323" y="106">measured residual</text>
+<text x="323" y="120" font-style="italic">conditions matter</text>
 <rect x="394" y="55" width="115" height="75" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="451" y="72" font-weight="bold">4. TEST</text>
 <text x="451" y="84">coliform tubes</text>
@@ -277,15 +278,15 @@ body {
 <text x="573" y="120" font-style="italic">no excuses</text>
 </g>
 <g stroke="#16130e" stroke-width="1.5">
-<line x1="125" y1="92" x2="138" y2="92"/><polygon points="138,86 138,98 146,92" fill="#16130e"/>
-<line x1="253" y1="92" x2="266" y2="92"/><polygon points="266,86 266,98 274,92" fill="#16130e"/>
-<line x1="381" y1="92" x2="394" y2="92"/><polygon points="394,86 394,98 402,92" fill="#16130e"/>
-<line x1="509" y1="92" x2="522" y2="92"/><polygon points="522,86 522,98 530,92" fill="#16130e"/>
+<line x1="125" y1="92" x2="130" y2="92"/><polygon points="130,86 130,98 138,92" fill="#16130e"/>
+<line x1="253" y1="92" x2="258" y2="92"/><polygon points="258,86 258,98 266,92" fill="#16130e"/>
+<line x1="381" y1="92" x2="386" y2="92"/><polygon points="386,86 386,98 394,92" fill="#16130e"/>
+<line x1="509" y1="92" x2="514" y2="92"/><polygon points="514,86 514,98 522,92" fill="#16130e"/>
 </g>
 <text x="320" y="152" text-anchor="middle" font-size="10" font-weight="bold">Chlorine without filtration fails in turbid water — run the full train.</text>
 <text x="320" y="170" text-anchor="middle" font-size="9" font-style="italic">boil order precedes every repair; lift it only on two clean tests 24 h apart</text>
 </svg>
-<figcaption><strong>Figure 30.1.</strong> Protection removes most risk for free; filtration removes particles and most pathogens; chlorine kills what remains and its residual proves it at the tap. Testing closes the loop. Boiling underwrites all of it.</figcaption>
+<figcaption><strong>Figure 30.1.</strong> Protection removes contamination at source; filtration removes particles and many organisms; validated disinfection inactivates remaining targets. Residual monitoring, testing, and an emergency fallback close the loop. Boiling guidance is a public-health fallback, not a substitute for a maintained system.</figcaption>
 </figure>
 
 <h2 id="ch30_sanitation-301-the-intellectual-revolution">30.1 The Intellectual Revolution</h2>
@@ -319,24 +320,24 @@ body {
 <rect x="360" y="50" width="240" height="120" fill="#fff" stroke="#16130e" stroke-width="1.5"/>
 <rect x="370" y="65" width="220" height="40" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
 <text x="480" y="80" text-anchor="middle" font-size="10" font-weight="bold">Southwark &amp; Vauxhall (sewage intake)</text>
-<text x="480" y="94" text-anchor="middle" font-size="10">cholera rate ~14× higher</text>
+<text x="480" y="94" text-anchor="middle" font-size="10">cholera rate ~8–14× higher</text>
 <rect x="370" y="112" width="220" height="40" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
 <text x="480" y="127" text-anchor="middle" font-size="10" font-weight="bold">Lambeth (upstream intake)</text>
 <text x="480" y="141" text-anchor="middle" font-size="10">same streets, clean water</text>
 <text x="480" y="186" text-anchor="middle" font-size="9">adjacent houses, different pipes → water, not air</text>
 </svg>
-<figcaption><strong>Figure 30.2.</strong> Snow won twice: the dot map indicted one pump, and the water-company comparison convicted water itself — neighbors differing only in pipe supplier died at 14:1. Copy the method: map cases, then find the natural control group.</figcaption>
+<figcaption><strong>Figure 30.2.</strong> Snow won twice: the dot map indicted one pump, and the water-company comparison convicted water itself — neighbors differing only in pipe supplier died at roughly 8–14 times the rate. Copy the method: map cases, then find the natural control group.</figcaption>
 </figure>
 
 <p><strong>Koch's postulates (working form):</strong> (1) microbe present in every case, absent in health; (2) isolated in pure culture; (3) cultured microbe reproduces disease in a susceptible host; (4) re-isolated from that host. Viruses and carriers complicate the letter — keep the spirit: specific cause, isolated, reproduced.</p>
 <h2 id="ch30_sanitation-302-water-treatment">30.2 Water Treatment</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> water disinfectants are poisons dosed right — chlorine gas kills lungs, overdosed water poisons, underdosed water spreads cholera and typhoid under a false sense of safety. Dose to 0.2–0.5 mg/L residual after 30 min contact, verify at the farthest tap daily, filter turbidity first, and store gas cylinders chained, upright, and downwind of crews.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> water disinfectants are hazardous chemicals. Chlorine exposure can injure lungs; over- or under-dosing can respectively create chemical risk or a false sense of protection. Dose, contact time, residual, pH, turbidity, temperature, and target organism determine performance and follow a validated local water-treatment protocol. Gas systems require engineered ventilation, leak control, detection, cylinders secured upright and separated from incompatible materials, and trained operators.</p>
 <p>Priority ladder per community:</p>
 <ol>
-<li><strong>Source protection:</strong> fence watersheds, separate latrines from wells by soil-percolation distances (30 m+ in most soils), prefer deep wells/springs over standing water.</li>
-<li><strong>Filtration:</strong> slow sand filters — a biological Schmutzdecke layer eats pathogens while sand strains solids; simple, proven (London's cholera fell where filtered). Rapid sand filters coagulate first (alum floc traps particles) then filter faster for big cities.</li>
-<li><strong>Disinfection:</strong> chlorine gas/calcium hypochlorite dosed to leave 0.2–0.5 mg/L residual after 30 min contact — residual is measurable PROOF of protection, not just treatment. First continuous municipal chlorination: Jersey City, 1908; typhoid rates collapse within years across every adopting city.</li>
-<li>Testing regime: coliform assays (lactose fermentation tubes) flag fecal contamination before outbreaks; publish results (<a href="ch11.html">Ch 11</a> doctrine).</li>
+<li><strong>Source protection:</strong> fence or manage catchments, locate latrines and waste systems down-gradient, and choose separation distances from hydrogeology and local health guidance—not a universal 30 m rule. Prefer protected springs and properly constructed deep wells where appropriate.</li>
+<li><strong>Filtration:</strong> slow sand filters use a biological Schmutzdecke layer while sand strains solids. Rapid sand filters commonly add a coagulant such as alum, then stratify and filter faster. Performance depends on design, turbidity, temperature, and maintenance.</li>
+<li><strong>Disinfection:</strong> chlorine gas or hypochlorite can inactivate many pathogens, but dose and contact time are not universal. Free-chlorine targets, pH, temperature, turbidity, contact time, and distribution conditions determine residual performance. A residual is evidence that disinfectant reached the tap, not proof that every pathogen is controlled. First continuous municipal chlorination: Jersey City, 1908; typhoid fell sharply across many adopting cities.</li>
+<li><strong>Testing regime:</strong> use validated coliform or equivalent assays appropriate to the water and target organisms, with chain-of-custody, duplicates, controls, and public reporting (<a href="ch11.html">Ch 11</a>).</li>
 </ol>
 <p>Boiling remains the universal fallback everywhere, always teachable.</p>
 <div class="table-wrap"><table>
@@ -353,14 +354,14 @@ body {
 <tr>
 <td>Slow sand</td>
 <td>~0.1–0.2 m/h</td>
-<td>~200–400 m²</td>
+<td>~30–65 m² at 150 L/person/day, plus standby beds</td>
 <td>No chemicals; scrape skin periodically</td>
 <td>Towns, villages — robust</td>
 </tr>
 <tr>
 <td>Rapid sand + alum</td>
 <td>~5–10 m/h</td>
-<td>~5–10 m²</td>
+<td>~0.6–1.3 m² at 150 L/person/day, plus standby units</td>
 <td>Alum dosing, backwash pumps</td>
 <td>Cities — compact</td>
 </tr>
@@ -373,9 +374,9 @@ body {
 </tr>
 </tbody>
 </table></div>
-<p><strong>Dosing arithmetic:</strong> demand (organic load) + residual (0.2–0.5 mg/L) = dose. Test residual at the farthest tap daily with a comparator — colorless means unprotected regardless of what the plant log claims. Turbid water (&gt;5 NTU) must be settled/filtered first; chlorine cannot reach bugs inside mud grains.</p>
+<p><strong>Dosing arithmetic:</strong> chlorine demand plus the desired distribution residual equals applied dose only after a validated jar test or equivalent protocol accounts for water chemistry, temperature, pH, contact time, turbidity, and target organism. A colourless comparator means the residual is below that test method's detection level; it does not by itself distinguish safe, unsafe, or untreated water. Turbidity can shield organisms from disinfectant and should be removed before disinfection.</p>
 <h2 id="ch30_sanitation-303-sewerage">30.3 Sewerage</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> sewers and tanks collect explosive and asphyxiating gases — methane flashes, H₂S deadens smell then drops crews, and low oxygen gives no warning. Ventilate and gas-test every confined entry, work harnessed with a top attendant and retrieval line, never enter alone on smell alone, and keep ignition sources out until proven clear.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> sewers and tanks collect explosive and asphyxiating gases — methane flashes, H₂S deadens smell then drops crews, and low oxygen gives no warning. Ventilate and gas-test every confined entry, work harnessed with a top attendant and retrieval line, never enter alone, never trust smell, and keep ignition sources out until proven clear.</p>
 <ul>
 <li><strong>Combined vs separate systems:</strong> combined sewers carry storm + waste (cheap initial, overflow problems); separated systems cost more but protect treatment plants. Choose by rainfall pattern and budget honestly.</li>
 <li>Gradients sized for self-cleansing velocity (~0.6 m/s minimum so solids don't settle); manholes for access; vents prevent siphoning trap seals.</li>
@@ -389,7 +390,7 @@ body {
 </code></pre>
 <p><strong>Septic rules:</strong> tank sized ~3 days' retention, desludge every 3–5 years, drain field in permeable soil above water table, no fats/solvents down the drain. A maintained septic beats a broken sewer — match the technology to the maintenance actually available.</p>
 <h2 id="ch30_sanitation-304-the-sanitary-waves-results">30.4 The Sanitary Wave's Results</h2>
-<p>Cities adopting filtration/chlorination/sewers saw typhoid, cholera, infant diarrhea fall 50–90 % within a generation. Child mortality halving WITHOUT any clinical drug is history's cleanest natural experiment: <strong>infrastructure outperformed pharmacy</strong> at population scale. Budget accordingly: water/sewer capital outranks hospital capital until coverage completes.</p>
+<p>Cities adopting filtration/chlorination/sewers saw typhoid, cholera, infant diarrhea fall 50–90 % within a generation. Child mortality halving WITHOUT any clinical drug is one of history's clearest natural experiments: in that era, <strong>infrastructure outperformed pharmacy</strong> at population scale. Budget accordingly: water/sewer capital outranks hospital capital until coverage completes.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -411,7 +412,7 @@ body {
 </tr>
 <tr>
 <td>Bazalgette interceptors (London)</td>
-<td>No further cholera epidemics</td>
+<td>No cholera epidemic in connected districts (1866 struck the unconnected East End)</td>
 <td>One season</td>
 </tr>
 <tr>
@@ -423,20 +424,20 @@ body {
 </table></div>
 <h2 id="ch30_sanitation-305-food-and-vectors">30.5 Food and Vectors</h2>
 <ul>
-<li><strong>Pasteurization:</strong> milk at 63 °C/30 min or 72 °C/15 s kills TB/brucella/etc. while sparing taste — cold chains (<a href="ch26.html">Ch 26</a>) extend safety to retail.</li>
+<li><strong>Pasteurization:</strong> milk at 63 °C/30 min or 72 °C/15 s kills TB/brucella/etc. while sparing taste — refrigerated cold chains (<a href="ch31.html">Ch 31</a> §31.7, <a href="ch43.html">Ch 43</a> §43.7) extend safety to retail.</li>
 <li>Inspection regimes for slaughter/handling (trichinosis, salmonella control).</li>
 <li><strong>Vector control:</strong> mosquitoes breed in standing water — drainage, larvivorous fish, screens, bed nets; yellow fever/malaria retreat from engineered environments before advanced drugs exist. Quinine from bark as bridge therapy.</li>
 </ul>
-<p><strong>Market-milk SOP:</strong> pasteurize → cool below 4 °C within 2 h → hold cold to sale → date-stamp. Any warm link restarts bacterial clocks; temperature logs at reception decide acceptance, not smell.</p>
+<p><strong>Market-milk SOP:</strong> use a validated pasteurisation process, then apply the current local cold-chain time/temperature limits. Rapid cooling limits microbial growth but does not replace pasteurisation, sealed containers, temperature records, and rejection criteria. Smell is not a release test.</p>
 <h2 id="ch30_sanitation-306-oral-rehydration-the-absurd-bargain">30.6 Oral Rehydration: The Absurd Bargain</h2>
-<p>Diarrhea kills via fluid/electrolyte loss; ORS — sugar+salt in clean water (precisely ~75 mmol/L glucose + sodium salts formula) — reverses it at cents per dose. It has saved more children than entire pharmaceutical catalogs. Teach the recipe universally; it requires no infrastructure beyond the water supply this chapter builds.</p>
-<p><strong>Field recipe (WHO reduced-osmolarity):</strong> 1 L clean water + 6 level teaspoons sugar + ½ level teaspoon salt, stirred dissolved. Taste: tears, not seawater. Give after every loose stool (child: 50–100 mL; adult: 200+ mL) plus continued feeding — withhold nothing but alcohol. Pre-mix sachets where printing (<a href="ch18.html">Ch 18</a>) allows; the printed packet IS the dose control.</p>
+<p>Diarrhoea kills through fluid and electrolyte loss. Oral rehydration solution (ORS) is a high-impact public-health treatment when prepared from a fully specified formulation and administered according to current clinical guidance. The balance of glucose and sodium supports absorption; potassium and citrate or equivalent salts are part of the formulation, not optional flavour.</p>
+<p><strong>Do not improvise this recipe from “sugar plus salt” or taste.</strong> Teaspoon size, salt composition, water volume, age, stool losses, vomiting, dehydration classification, and alternatives all affect dosing. Teach recognition and referral; administer pre-formulated ORS through trained community-health workers following the current WHO or national protocol. Printing supports sachets and pictorial instructions, but the printed packet is not a substitute for formulation control, clean water, training, and escalation criteria.</p>
 <p class="co co-key"><strong>Key threshold:</strong> when a city's water leaves residuals and its sewage gets treated, epidemic cycles break permanently. From there, population growth becomes policy arithmetic instead of fate — the demographic gate to everything modern.</p>
 <h2 id="ch30_sanitation-307-the-sanitation-record">30.7 The Sanitation Record</h2>
 <ul>
-<li><strong>Broad Street, precisely:</strong> the outbreak ran late August–September 1854; Snow mapped ~600 deaths around the pump, removed-handle intervention came September 8 (after incidence was already falling — Snow himself noted this honestly), and his REAL argument was the Grand Experiment: adjacent districts served by Southwark &amp; Vauxhall (sewage-tainted) versus Lambeth (upstream intake) water companies showed ~14-fold cholera-mortality differences among similarly housed populations. Natural-experiment epidemiology begins here, statistics doing what theory couldn't (<a href="ch20.html">Ch 20</a>).</li>
-<li><strong>The Great Stink (June 1858)</strong> — Thames stench suspending Parliament — funded Bazalgette's system: ~132 km of brick interceptor sewers, ~1,800 km of street sewers, pumping stations at Abbey Mills and Crossness, completed stages through 1875. London never cholera-epidemic again; typhoid fell with the same pipes.</li>
-<li><strong>Semmelweis's end, documented:</strong> mocked, dismissed, his manual-instruction pamphlet ignored; he died in an Austrian asylum in August 1865 after being beaten by guards — two weeks before Lister began carbolic treatment of compound fractures in Glasgow. Institutional rejection has body counts; this one has a date pair worth remembering.</li>
+<li><strong>Broad Street, precisely:</strong> the outbreak ran late August–September 1854; Snow mapped ~600 deaths around the pump, removed-handle intervention came September 8 (after incidence was already falling — Snow himself noted this honestly), and his REAL argument was the Grand Experiment: adjacent districts served by Southwark &amp; Vauxhall (sewage-tainted) versus Lambeth (upstream intake) water companies showed roughly 8–14-fold cholera-mortality differences (~14× in the first four weeks; ~8.5× over seven: 315 versus 37 deaths per 10,000 houses) among similarly housed populations. Natural-experiment epidemiology begins here, statistics doing what theory couldn't (<a href="ch20.html">Ch 20</a>).</li>
+<li><strong>The Great Stink (June 1858)</strong> — Thames stench suspending Parliament — funded Bazalgette's system: ~132 km of brick interceptor sewers, ~1,800 km of street sewers, pumping stations at Abbey Mills and Crossness, completed stages through 1875. After 1866 — an outbreak in the not-yet-connected East End — London had no further cholera epidemic; typhoid fell with the same pipes.</li>
+<li><strong>Semmelweis's end, documented:</strong> mocked, dismissed, his manual-instruction pamphlet ignored; he died in an Austrian asylum on 13 August 1865 after being beaten by guards — the day after Lister first dressed a compound fracture with carbolic acid in Glasgow. Institutional rejection has body counts; this one has a date pair worth remembering.</li>
 <li><strong>Pasteur's silkworm rescue (1865–70):</strong> pebrine disease collapsing French sericulture; Pasteur identified the two pathogens and the egg-selection protocol — germ theory's first agricultural application, saving an export industry before it convinced physicians.</li>
 <li>Koch chased cholera to Egypt then India (1883–84), isolated <em>Vibrio cholerae</em>, and returned a national hero — laboratory medicine acquiring imperial logistics.</li>
 <li><strong>First US installations:</strong> Lawrence, Massachusetts slow-sand filtration (1893); Jersey City's Boonton reservoir chlorination (1908, Leal's design, Fuller's execution) upheld by a court as delivering "pure and wholesome" water — sanitation validated in litigation, a governance form engineers should expect again.</li>
@@ -449,7 +450,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch31.html" class="reader-nav-link">Chapter 31 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

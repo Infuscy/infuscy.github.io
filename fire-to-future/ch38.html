@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch38_polymers_materials-chapter-38-polymers-and-advanced-materials">Chapter 38: Polymers and Advanced Materials</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1839 vulcanization → present · <strong>Difficulty:</strong> high
-<br><strong>Requires:</strong> <a href="ch28.html">Ch 28</a> feedstock, <a href="ch21.html">Ch 21</a> acid industry · <br><strong>Unlocks:</strong> lightweight structures (<a href="ch33.html">Ch 33</a>), insulation, packaging, <a href="ch45.html">Ch 45</a> components</p>
+<p><strong>Era span:</strong> 1839 vulcanization → present · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch21.html">Ch 21</a>, <a href="ch26.html">Ch 26</a>, <a href="ch28.html">Ch 28</a>, <a href="ch35.html">Ch 35</a><br><strong>Unlocks:</strong> <a href="ch33.html">Ch 33</a>, <a href="ch39.html">Ch 39</a>, <a href="ch43.html">Ch 43</a></p>
 </blockquote>
 <p>Metals carry loads; polymers replace weight, corrosion, cost, and complexity. The modern material catalog is mostly polymer chemistry plus reinforced hybrids — this chapter builds the catalog and the selection discipline to use it honestly.</p>
 <figure class="fig">
@@ -249,7 +250,7 @@ body {
 <path d="M30,90 Q60,80 90,90 T150,90 T190,90" fill="none" stroke="#2f5286" stroke-width="2"/>
 <path d="M30,110 Q60,100 90,110 T150,110 T190,110" fill="none" stroke="#2f5286" stroke-width="2"/>
 <text x="110" y="130" text-anchor="middle" font-size="9">chains slide past each other</text>
-<text x="110" y="142" text-anchor="middle" font-size="9">PE, PP, PVC, PET — recycle ✓</text>
+<text x="110" y="142" text-anchor="middle" font-size="9">PE, PP, PET common; PVC harder</text>
 <text x="320" y="42" text-anchor="middle" font-size="10" font-weight="bold">THERMOSET (one network)</text>
 <path d="M250,70 L390,70 M250,90 L390,90 M250,110 L390,110" stroke="#8f3b2d" stroke-width="2"/>
 <line x1="280" y1="70" x2="280" y2="110" stroke="#8f3b2d" stroke-width="2"/>
@@ -258,9 +259,11 @@ body {
 <text x="320" y="130" text-anchor="middle" font-size="9">crosslinked — heat chars, never melts</text>
 <text x="320" y="142" text-anchor="middle" font-size="9">Bakelite, epoxy — strong, final</text>
 <text x="510" y="42" text-anchor="middle" font-size="10" font-weight="bold">ELASTOMER (coils)</text>
-<path d="M450,90 q10,-15 20,0 q10,15 20,0 q10,-15 20,0 q10,15 20,0 q10,-15 20,0 q10,15 20,0" fill="none" stroke="#2e5b34" stroke-width="2"/>
-<line x1="470" y1="90" x2="470" y2="115" stroke="#2e5b34" stroke-width="1.5" stroke-dasharray="3,3"/>
-<line x1="550" y1="90" x2="550" y2="115" stroke="#2e5b34" stroke-width="1.5" stroke-dasharray="3,3"/>
+<path d="M450,74 q10,-12 20,0 q10,12 20,0 q10,-12 20,0 q10,12 20,0 q10,-12 20,0 q10,12 20,0" fill="none" stroke="#2e5b34" stroke-width="2"/>
+<path d="M450,108 q10,12 20,0 q10,-12 20,0 q10,12 20,0 q10,-12 20,0 q10,12 20,0 q10,-12 20,0" fill="none" stroke="#2e5b34" stroke-width="2"/>
+<g stroke="#8a6d1f" stroke-width="2.5"><line x1="480" y1="80" x2="480" y2="102"/><line x1="560" y1="80" x2="560" y2="102"/></g>
+<g fill="#8a6d1f"><circle cx="480" cy="80" r="2.5"/><circle cx="480" cy="102" r="2.5"/><circle cx="560" cy="80" r="2.5"/><circle cx="560" cy="102" r="2.5"/></g>
+<text x="520" y="95" text-anchor="middle" font-size="8.5" fill="#6b5a33" font-style="italic">S bridges</text>
 <text x="510" y="130" text-anchor="middle" font-size="9">light crosslinks — stretch, snap back</text>
 <text x="510" y="142" text-anchor="middle" font-size="9">rubber family (vulcanize!)</text>
 <text x="320" y="165" text-anchor="middle" font-size="10">tune via chain length + crystallinity + additives (plasticizers / fillers / UV stabilizers)</text>
@@ -340,7 +343,7 @@ body {
 <tr>
 <td>1933→1953</td>
 <td>Polyethylene</td>
-<td>high-pressure accident product; Ziegler-Natta catalysis later delivers HDPE with controlled stereochemistry (Nobel chemistry)</td>
+<td>high-pressure accident product; Ziegler's catalysts (1953) make low-pressure HDPE, and Natta's extension gives stereoregular polypropylene (Nobel chemistry, 1963)</td>
 </tr>
 <tr>
 <td>1938</td>
@@ -383,7 +386,7 @@ body {
 <figcaption><strong>Figure 38.2.</strong> Ashby-style thinking: plot stiffness against density and the trade space appears — composites float above metals on specific stiffness, polymers win on cost and corrosion, steel wins on price per strength. List requirements first (§38.6), then read the chart.</figcaption>
 </figure>
 
-<p><strong>Layup law:</strong> fibers carry load along themselves only — orient plies with the load paths (0°/±45°/90° quasi-isotropic starter), stagger joints, seal edges against moisture, cure on schedule (undercured epoxy is expensive cheese). Proof-test the first article to destruction; the breaking load ÷ design load IS your safety factor, not a datasheet's promise.</p>
+<p><strong>Layup law:</strong> fibres carry load chiefly along their own direction. Orient plies to the load path, control joints and thickness, protect edges from moisture, and follow the qualified cure schedule. Use representative test coupons to characterise material, process, and failure modes. A single prototype broken in a test is not a safety factor; design allowables require statistical data, environmental and fatigue testing, conservative analysis, and applicable standards.</p>
 <h2 id="ch38_polymers_materials-384-silicones-and-adhesives">38.4 Silicones and Adhesives</h2>
 <ul>
 <li><strong>Silicones:</strong> Si-O backbone — temperature-stable elastomers, sealants, medical-grade inertness. The inorganic-backbone oddity that earns its niche everywhere from bakeries to spacecraft.</li>
@@ -441,18 +444,18 @@ body {
 <li>Screen by property charts (Ashby-style: stiffness vs density, strength vs cost maps) — visualize trade space before falling in love with candidates.</li>
 <li>Test under REAL conditions (UV, creep at temperature, fatigue) — lab-ambient data lies about service life.</li>
 </ol>
-<p><strong>Creep-and-weather warning:</strong> plastics flow slowly under steady load (creep — size for years, not minutes) and sun eats them (UV + ozone crack unprotected grades). Stabilized outdoor grades, shaded/painted service, and derated long-term stresses separate decade parts from season parts.</p>
+<p><strong>Creep and weathering:</strong> plastics flow slowly under steady load (creep — size for years, not minutes) and sun eats them (UV + ozone crack unprotected grades). Stabilized outdoor grades, shaded/painted service, and derated long-term stresses separate decade parts from season parts.</p>
 <h2 id="ch38_polymers_materials-387-recycling-realities">38.7 Recycling Realities</h2>
 <p>Mechanical recycling works cleanly for single-polymer streams (PET, HDPE codes exist for this reason); mixed/dirty streams degrade properties each loop. Chemical recycling (depolymerization) and energy recovery complete the hierarchy. Doctrine: <strong>design-for-recycling beats afterthought recycling</strong> — mono-material packaging, marked parts, reversible adhesives where possible.</p>
 <pre><code>REDUCE → REUSE → MECHANICAL (clean mono-stream) → CHEMICAL (depolymerize)
    → ENERGY RECOVERY → LANDFILL (engineered, last)
 </code></pre>
-<p><strong>Dead end avoided (both directions):</strong> "biodegradable everything" dogma (compostable ≠ litter-degradable; performance often fails) AND eternal-plastic carelessness (centuries-long litter, microplastic drift). Match expected service life to material persistence: short-life items biodegrade or recycle; long-life infrastructure uses durable stuff deliberately.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> in both directions — "biodegradable everything" dogma (compostable ≠ litter-degradable; performance often fails) AND eternal-plastic carelessness (centuries-long litter, microplastic drift). Match expected service life to material persistence: short-life items biodegrade or recycle; long-life infrastructure uses durable stuff deliberately.</p>
 <h2 id="ch38_polymers_materials-388-aluminum-the-electrolytic-light-metal">38.8 Aluminum: The Electrolytic Light Metal</h2>
 <p>Not a polymer, but the light-metals era belongs in any advanced-materials chapter:</p>
 <ul>
 <li><strong>Bayer process:</strong> digest bauxite ore in hot caustic; precipitate pure alumina (Al₂O₃) from the sodium aluminate liquor.</li>
-<li><strong>Hall-Héroult electrolysis:</strong> dissolve alumina in molten cryolite (~950 °C), electrolyze with carbon electrodes — aluminum metal at the cathode, CO₂-consuming anodes. The process DEMANDS massive cheap electricity (~13–15 kWh/kg) — aluminum cities locate at power sources, never at ore (<a href="ch26.html">Ch 26</a>, <a href="ch43.html">43</a>).</li>
+<li><strong>Hall-Héroult electrolysis:</strong> dissolve alumina in molten cryolite (~950 °C), electrolyze with carbon electrodes — aluminum metal at the cathode, carbon anodes consumed to CO₂. The process DEMANDS massive cheap electricity (~13–15 kWh/kg) — aluminum smelters locate at power sources, rarely at ore (<a href="ch26.html">Ch 26</a>, <a href="ch43.html">43</a>).</li>
 <li>Properties: density ~2.7 g/cm³ (a third of steel), excellent strength once alloyed (with Mg/Si/Cu — aircraft grades), natural oxide film resists corrosion, superb conductivity per kilogram.</li>
 <li>Uses ranked by civilizational payoff: airframes (<a href="ch33.html">Ch 33</a>), power transmission lines, lightweight vehicles, packaging, heat exchangers.</li>
 <li>Recycling is nearly free energetically (remelting uses ~5 % of smelting energy) — aluminum scrap is one of civilization's best-kept energy banks.</li>
@@ -474,7 +477,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch39.html" class="reader-nav-link">Chapter 39 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

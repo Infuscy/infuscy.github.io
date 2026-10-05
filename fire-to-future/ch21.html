@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch21_blackpowder_acids-chapter-21-black-powder-and-industrial-chemistry">Chapter 21: Black Powder and Industrial Chemistry</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 9th-c. China (earliest surviving formulas 1044) → 19th c. heavy chemicals · <strong>Difficulty:</strong> mid–high
-<br><strong>Requires:</strong> <a href="ch13.html">Ch 13</a> saltpeter/sulfur, <a href="ch17.html">Ch 17</a> distillation craft · <br><strong>Unlocks:</strong> <a href="ch22.html">Ch 22</a> demand-pull, mining productivity, <a href="ch27.html">Ch 27</a> acid-fed steelmaking</p>
+<p><strong>Era span:</strong> 9th-c. China (earliest surviving formulas 1044) → 19th c. heavy chemicals · <strong>Difficulty:</strong> mid–high<br><strong>Requires:</strong> <a href="ch13.html">Ch 13</a>, <a href="ch17.html">Ch 17</a><br><strong>Unlocks:</strong> <a href="ch22.html">Ch 22</a>, <a href="ch27.html">Ch 27</a>, <a href="ch28.html">Ch 28</a>, <a href="ch31.html">Ch 31</a>, <a href="ch32.html">Ch 32</a>, <a href="ch35.html">Ch 35</a>, <a href="ch38.html">Ch 38</a>, <a href="ch48.html">Ch 48</a>, <a href="ch49.html">Ch 49</a>, <a href="ch50.html">Ch 50</a></p>
 </blockquote>
 <p>Two payloads ride in this chapter: black powder (the first industrial explosive — mining's productivity multiplier and physics' teacher) and the mineral-acid industry (the hinge from kitchen chemistry to true chemical industry). Both are dangerous; both are treated here at textbook-process level with the safety discipline stated plainly.</p>
 <figure class="fig">
@@ -283,13 +284,13 @@ body {
 <line x1="506" y1="92" x2="511" y2="92"/><polygon points="515,92 509,87 509,97" fill="#16130e"/>
 </g>
 <text x="320" y="155" text-anchor="middle" font-size="10">charcoal: willow/alder @ 300–350 °C (fast black grades) · sulfur distilled · *mill damp, store dry</text>
-<text x="320" y="172" text-anchor="middle" font-size="10" font-weight="bold">Blasting first (5–10× mining), propellant second, physics third.</text>
+<text x="320" y="172" text-anchor="middle" font-size="10" font-weight="bold">Blasting first (mining), propellant second, physics third.</text>
 </svg>
 <figcaption><strong>Figure 21.1.</strong> Nitre beds are agriculture (bacteria oxidize ammonia to nitrate over months); lye converts calcium nitrate to potassium nitrate; wet milling marries the three ingredients at particle scale; corning turns cake into uniform grains. Mill damp for safety, store dry for power.</figcaption>
 </figure>
 
 <h2 id="ch21_blackpowder_acids-211-black-powder">21.1 Black Powder</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> black powder mills kill by dust flash, spark, and confinement — a dry-milled batch in a metal vessel is a bomb with the crew inside. Work damp, in small lots, with bronze/wood tools only, remote ignition, blast shelter, and written charge tables per the binding doctrine below; every historic powder-plant fire was a skipped rule, not bad luck.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> black powder manufacture, storage, and blasting are professional hazardous operations. Dust, confinement, incompatible tools, static, heat, and accidental ignition can produce a flash or explosion without warning. This chapter explains the chemistry and system boundaries for trained readers; manufacture and use require a qualified site, written process, tested equipment, remote handling, blast protection, quantity-distance separation, inventory control, and applicable law. A warning does not qualify an operator.</p>
 <p>Composition by weight: <strong>75 % potassium nitrate / 15 % charcoal / 10 % sulfur</strong>. It is a physical mixture, not a compound — performance depends on intimacy of mixing and purity of nitrate.</p>
 <ul>
 <li><strong>Saltpeter (KNO₃):</strong> the hard part. Nitrary beds: floor of rich soil + lime, layered with urine/dung/stable refuse, kept moist and turned for months; soil bacteria oxidize ammonia → nitrate. Leach the black earth with water, filter, add wood-ash lye (converts calcium nitrate to potassium nitrate), evaporate; KNO₃ crystallizes first on cooling ("salting out"), recrystallize once for purity. Laborious — historically a state-protected industry with saltpetermen empowered to dig privies. Plan supply as agriculture, not mining.</li>
@@ -297,8 +298,8 @@ body {
 <li><strong>Sulfur:</strong> volcanic deposits or roasted pyrite (<a href="ch13.html">Ch 13</a>); purified by distillation.</li>
 <li><strong>Corning:</strong> wet-mill ingredients together into dense cake, dry, then crack through sieves into grains. Grained powder burns consistently; loose dust either explodes unpredictably or fizzles. Moisture is the enemy — store sealed, rotate stock.</li>
 </ul>
-<p>Uses in priority order: <strong>mine/quarry blasting</strong> (productivity 5–10× per <a href="ch13.html">Ch 13</a>), military propellant, signal rockets, and — scientifically decisive — confined-pressure experiments that birthed gas-law physics (<a href="ch20.html">Ch 20</a>).</p>
-<p class="co co-warn"><strong>Safety doctrine (binding):</strong> small batches, wooden/bronze tools only (no sparks), no metal-on-metal contact, damp working, remote ignition by slow-match trains, blast shelters, written charge tables. Powder plants that skipped discipline burned down — repeatedly, historically.</p>
+<p>Uses in priority order: <strong>mine/quarry blasting</strong> (face advance can rise sharply, but see <a href="ch13.html">Ch 13</a> §13.6 on why historical multipliers are not design values), military propellant, signal rockets, and — scientifically decisive — confined-pressure experiments that fed early interior ballistics and gas physics (<a href="ch20.html">Ch 20</a>).</p>
+<p class="co co-warn"><strong>Safety doctrine (binding):</strong> no general-public or improvised powder manufacture. A qualified explosives organisation must approve the formulation, process scale, equipment compatibility, moisture controls, grounding, quantity limits, separation distances, remote initiation, blast protection, inventories, and site-specific written procedures. Bronze or wood reduces one ignition source; it does not make an operation safe.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -379,15 +380,17 @@ body {
 <ol>
 <li><strong>Early bell process:</strong> burn sulfur + saltpeter mixture inside glass bells over water — crude but real acid, enough to dissolve metals.</li>
 <li><strong>Lead chamber process (1746):</strong> large lead-lined rooms where sulfur burner gases + nitrate-derived nitrogen oxides + steam react; acid condenses on walls, drains to pans. Nitrogen oxides recycle as catalysts. Yields ~60–70 % acid (chamber grade).</li>
-<li><strong>Concentration:</strong> boil in glass/platinum vessels to ~90 %+ ("oil of vitriol"). Lead resists dilute acid; iron resists CONCENTrated (passivation) — vessel material follows concentration stage.</li>
+<li><strong>Concentration:</strong> boil in glass/platinum vessels to ~90 %+ ("oil of vitriol"). Lead resists dilute acid; iron resists concentrated acid (passivation) — vessel material follows concentration stage.</li>
 </ol>
-<p><strong>Chamber-plant SOP:</strong> burner sulfur metered steady (surging wastes nitre), steam admitted to visible reaction (white chamber mist, not brown fume), acid drawn continuously at density-checked strength, nitre make-up logged per ton. Brown fumes at the exit = nitre wasted up the stack; tune feed before blaming weather.</p>
+<p><strong>How chamber plants were run (historical context, not an operating procedure):</strong> operators metered burner sulfur steadily (surging wasted nitre), admitted steam until the chambers showed white acid mist rather than brown fume, drew acid continuously at density-checked strength, and logged nitre make-up per ton. Brown fume at the exit is nitrogen dioxide: a toxic gas whose lung injury can appear hours after exposure, as well as nitre lost up the stack. It signalled a release to workers and neighbours, not merely a yield problem.</p>
+<p class="co co-gate"><strong>Competence gate:</strong> acid plants, nitrogen-oxide handling, and concentrated-acid storage and transfer require qualified chemical-process engineering, gas detection and ventilation, acid-rated vessels and personal protection, written operating and emergency procedures, and emission abatement before first operation. The warning above does not replace those controls.</p>
 <h2 id="ch21_blackpowder_acids-213-nitric-acid-and-the-acid-ladder">21.3 Nitric Acid and the Acid Ladder</h2>
 <p>Distill saltpeter + sulfuric acid in iron or glass retorts: HNO₃ distills over, condensed in cooled receivers. Nitric acid dissolves copper/silver, nitrates organics, and pairs with HCl (from salt + H₂SO₄) to make aqua regia — which dissolves gold, enabling refining and assay purity standards (<a href="ch09.html">Ch 9</a>).</p>
-<p>Hydrochloric acid byproduct chain feeds bleaching powder (chlorine absorbed into lime) — textile whitening goes from sun-months to hours, collapsing cloth costs.</p>
+<p>Hydrochloric acid byproduct chain feeds bleaching powder: oxidize HCl to chlorine (historically with manganese dioxide), then absorb the chlorine into slaked lime — textile whitening goes from sun-months to hours, collapsing cloth costs.</p>
 <pre><code>H₂SO₄ + KNO₃ → HNO₃ (distill over) + KHSO₄
 H₂SO₄ + NaCl → HCl (gas → absorb) + NaHSO₄
 HNO₃ + 3HCl → AQUA REGIA (dissolves gold → assay/refine)
+4HCl + MnO₂ → Cl₂ + MnCl₂ + 2H₂O (chlorine from the HCl byproduct)
 Cl₂ + Ca(OH)₂ → BLEACHING POWDER (cloth in hours, not months)
 </code></pre>
 <h2 id="ch21_blackpowder_acids-214-soda-alkali-at-industrial-scale">21.4 Soda: Alkali at Industrial Scale</h2>
@@ -464,20 +467,20 @@ Cl₂ + Ca(OH)₂ → BLEACHING POWDER (cloth in hours, not months)
 <ul>
 <li>Europe's powder knowledge arrived through translation culture: the pseudo-Aristotelian <em>Liber ignium</em> (~1300) lists fire-medicine recipes; Roger Bacon's coded letter referencing saltpeter's explosive potential (~1249?) remains textually contested — historians treat attribution legends (the monk "Berthold Schwarz") as later guild myth-making.</li>
 <li>English crown powder monopolies bred documented grievances: saltpetermen legally dug nitre-earth from stable floors and dovecotes into the Civil War era — strategic-material law colliding with property rights centuries before modern equivalents.</li>
-<li><strong>Sulfuric acid's founding firms:</strong> John Roebuck's Prestonpans works (1746) scaled the lead-chamber process; Leblanc's soda patent (1791) and Saint-Denis plant (1793) ended with the inventor ruined by revolutionary expropriation and litigation — he died by suicide in 1806. The process fed half a century of alkali production while its creator died broke: document it as incentive-design evidence (<a href="ch47.html">Ch 47</a>), not as morality tale.</li>
+<li><strong>Sulfuric acid's founding firms:</strong> John Roebuck and Samuel Garbett scaled the lead-chamber process (Birmingham 1746; Prestonpans 1749); Leblanc's soda patent (1791) and Saint-Denis plant (1793) ended with the inventor ruined by revolutionary expropriation and litigation — he died by suicide in 1806. The process fed half a century of alkali production while its creator died broke: document it as incentive-design evidence (<a href="ch47.html">Ch 47</a>), not as morality tale.</li>
 <li><strong>Ernest Solvay</strong> patented his ammonia-soda loop (1861) and proved it at Couillet (1863–65) — cleaner chemistry winning on cost, exactly as <a href="#ch21_blackpowder_acids-214-soda-alkali-at-industrial-scale">§21.4</a> recommends.</li>
 <li><strong>The Alkali Act (UK, 1863)</strong> created the first chemical-inspectorate with statutory emission limits (hydrochloric acid abatement ≥95 %) — arguably the world's first industrial-pollution regulation, born from Leblanc-process fumes. Environmental law's ancestry sits squarely in this chapter's supply chain.</li>
 </ul>
 <h2 id="ch21_blackpowder_acids-217-chemical-works-discipline">21.7 Chemical Works Discipline</h2>
-<p class="co co-hazard"><strong>Operational hazard:</strong> a chemical works fails as a system — one fire taking both mill and acid house, one unlogged batch hiding a bad lot, one unabated stack poisoning the workforce's own market town. Separate powder mills from acid houses by distance plus earthworks, keep drenching water everywhere, log every batch with charge tables and yields, train on small fires, and measure plus abate emissions ≥95 % with independent inspection from day one.</p>
-<p>Separate powder mills from acid houses by distance + earthworks (one fire never takes both); water everywhere (drenching, not drinking); log every batch (charge tables, densities, yields — <a href="ch11.html">Ch 11</a>); train with small fires so big ones never surprise. The Alkali-Act lesson generalizes: measure emissions from day one, abate ≥95 %, inspect independently — neighbors poisoned are markets lost.</p>
+<p class="co co-hazard"><strong>Operational hazard:</strong> a chemical works fails as a system — one fire taking both mill and acid house, one unlogged batch hiding a bad lot, one unabated stack poisoning the workforce's own market town. Separate powder mills from acid houses by distance plus earthworks, keep drenching water (not drinking water) everywhere, log every batch with charge tables and yields, train on small fires, and measure plus abate emissions ≥95 % with independent inspection from day one.</p>
+<p>Batch logs follow <a href="ch11.html">Ch 11</a>: charge tables, densities, and yields for every run. The Alkali-Act lesson generalizes beyond acid — neighbours poisoned are markets lost.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch20.html" class="reader-nav-link">← Chapter 20</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch22.html" class="reader-nav-link">Chapter 22 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

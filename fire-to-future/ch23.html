@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch23_steam-chapter-23-steam-engines-done-right">Chapter 23: Steam Engines Done Right</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1698 Savery → 1900s compounds · <strong>Difficulty:</strong> high
-<br><strong>Requires:</strong> <a href="ch22.html">Ch 22</a> iron, <a href="ch15.html">Ch 15</a> boring precision, <a href="ch20.html">Ch 20</a> pressure gauges · <br><strong>Unlocks:</strong> <a href="ch24.html">Ch 24</a> locomotion, <a href="ch26.html">Ch 26</a> prime power, factory independence from rivers</p>
+<p><strong>Era span:</strong> 1698 Savery → 1900s compounds · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch20.html">Ch 20</a>, <a href="ch22.html">Ch 22</a><br><strong>Unlocks:</strong> <a href="ch24.html">Ch 24</a>, <a href="ch26.html">Ch 26</a>, <a href="ch28.html">Ch 28</a></p>
 </blockquote>
 <p>Steam is the first engine that makes power WHERE YOU WANT IT, burning fuel anyone can ship. History took 150 years to get it right; this chapter compresses the learning by stating the physics up front and the design sequence after.</p>
 <h2 id="ch23_steam-231-the-physics-first-history-did-it-backwards">23.1 The Physics First (History Did It Backwards)</h2>
@@ -265,7 +266,7 @@ body {
 <rect x="274" y="48" width="120" height="70" rx="6" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
 <text x="334" y="65" font-weight="bold">HIGH-PRESSURE</text>
 <text x="334" y="77">Trevithick/Evans</text>
-<text x="334" y="88">10× smaller, mobile</text>
+<text x="334" y="88">smaller / mobile</text>
 <text x="334" y="102" font-style="italic">boats + locos</text>
 <rect x="408" y="48" width="110" height="70" rx="6" fill="#eef5ec" stroke="#3f6c3f" stroke-width="2"/>
 <text x="463" y="65" font-weight="bold">COMPOUND</text>
@@ -273,64 +274,68 @@ body {
 <text x="463" y="88">HP→LP + superheat</text>
 <text x="463" y="102" font-style="italic">beats sail freight</text>
 <rect x="532" y="48" width="90" height="70" rx="6" fill="#4a4436" stroke="#16130e" stroke-width="2"/>
-<text x="577" y="65" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.9">YOUR 10 kW</text>
-<text x="577" y="77" fill="#fff" stroke="#16130e" stroke-width="0.9">~50M duty</text>
-<text x="577" y="88" fill="#fff" stroke="#16130e" stroke-width="0.9">2 kg/kWh bar</text>
-<text x="577" y="102" fill="#fff" font-style="italic" stroke="#16130e" stroke-width="0.9">§23.7 build</text>
+<text x="577" y="65" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.9">YOUR DESIGN</text>
+<text x="577" y="77" fill="#fff" stroke="#16130e" stroke-width="0.9">measured duty</text>
+<text x="577" y="88" fill="#fff" stroke="#16130e" stroke-width="0.9">energy ledger</text>
+<text x="577" y="102" fill="#fff" font-style="italic" stroke="#16130e" stroke-width="0.9">§23.7 workflow</text>
 </g>
 <text x="320" y="152" text-anchor="middle" font-size="10">duty = ft·lb per bushel coal (Cornwall league tables) · η = 1 − T_cold/T_hot (Carnot)</text>
 <text x="320" y="169" text-anchor="middle" font-size="10" font-weight="bold">Progress = machine tools (Wilkinson bores) + gauges + logs.</text>
 </svg>
-<figcaption><strong>Figure 23.1.</strong> Newcomen heats then murders its own cylinder each stroke; Watt condenses elsewhere; high pressure shrinks everything mobile; compounding wrings steam twice. Duty (work per bushel) is the scoreboard — publish it like Cornwall did.</figcaption>
+<figcaption><strong>Figure 23.1.</strong> Historical development improved cylinder heating, exhaust condensation, pressure, expansion, and control. The numerical bands are representative, not design setpoints. A modern design closes a measured energy ledger and accepts only targets justified by its duty, fuel, and measured output.</figcaption>
 </figure>
 
 <h2 id="ch23_steam-232-the-design-ladder">23.2 The Design Ladder</h2>
-<p><strong>Stage 1 — Savery pump (skip if possible):</strong> no piston; steam pressure pushes water up, vacuum sucks it higher; boiler explosions capped it at ~10 m lifts. Historical dead end once Newcomen exists.</p>
-<p><strong>Stage 2 — Newcomen atmospheric engine:</strong> open-top cylinder; piston hangs from beam pump rods. Fill cylinder with low-pressure steam, spray cold water inside to condense, ATMOSPHERE slams piston down, stroke repeats. Robust, crude, ~0.5 % efficient — it burns coal ONLY where coal is nearly free (mine mouths), which is fine: its job is mine drainage (<a href="ch13.html">Ch 13</a>).</p>
+<p><strong>Stage 1 — Savery pump:</strong> no piston; steam pressure pushes water upward and vacuum helps draw it into a higher vessel. Lifts depended on boiler pressure, vacuum, vessel arrangement, and materials; historical failures included weak vessels and boiler explosions. It was Newcomen's piston engine, not Savery's pump, that became the workhorse of mine drainage.</p>
+<p><strong>Stage 2 — Newcomen atmospheric engine:</strong> the cylinder is open at the top. Steam at about atmospheric pressure fills it below the piston, a water spray condenses the steam, and the atmosphere pushes the piston down into the resulting partial vacuum — the steam does no pushing itself. Condensing steam inside the cylinder exposed the casting to repeated heating and cooling; reported thermal efficiency was very low by later standards. It became important for pumping where coal and water-handling conditions suited it, especially mines (<a href="ch13.html">Ch 13</a>).</p>
 <p><strong>Stage 3 — Watt's corrections (~1765–1790):</strong>
-1. <strong>Separate condenser:</strong> keep the cylinder hot, condense steam elsewhere — fuel drops ~75 %.
+1. <strong>Separate condenser:</strong> keep the cylinder hot and condense steam elsewhere. In the historical comparison this sharply reduced condensation losses, though the exact fuel saving depended on engine and boiler design.
 2. <strong>Double-acting:</strong> steam pushes both strokes.
 3. <strong>Parallel motion linkage:</strong> piston force transmitted without chains.
-4. <strong>Centrifugal governor + throttle:</strong> automatic speed regulation — the first industrial feedback controller (<a href="ch45.html">Ch 45</a> ancestor).
+4. <strong>Centrifugal governor and throttle:</strong> an important early application of automatic speed regulation; governors and feedback control had earlier mechanical precedents (<a href="ch45.html">Ch 45</a>).
 5. <strong>Pressure gauge and vacuum gauge:</strong> instrumented operation (<a href="ch20.html">Ch 20</a>).</p>
-<p>Efficiency ~3–4 %. Watt's patent ironically DELAYED high-pressure development for decades (<strong>Dead end avoided:</strong> don't let one firm's IP strategy define your roadmap — patent around or leapfrog).</p>
-<p><strong>Stage 4 — High pressure (Trevithick/Evans):</strong> stronger boilers let steam WORK expansively above atmospheric; engines shrink 10×, become mobile. This unlocks boats and locomotives.</p>
-<p><strong>Stage 5 — Compounding &amp; superheating (19th c. mature form):</strong> expand steam through successive cylinders (high→low pressure), superheat before admission to keep steam dry. Marine triple-expansion engines reach 15–20 % efficiency — good enough to make steamships outperform sailing freight economically (<a href="ch24.html">Ch 24</a>).</p>
+<p>Historical reports place early Watt-era efficiency in the low single digits, but the value depends on boiler, engine, measurement boundary, and load. Patent and licensing disputes affected diffusion; whether Watt's extended patent actually delayed high-pressure engines is disputed (§23.6).</p>
+<p><strong>Stage 4 — High pressure (Trevithick/Evans):</strong> stronger boilers allowed engines to use steam expansion above atmospheric pressure, improving power density and enabling more compact mobile applications. The size reduction depended on the complete design.</p>
+<p><strong>Stage 5 — Compounding and superheating (19th c. mature form):</strong> expand steam through successive cylinders from high to lower pressure; superheating can reduce condensation and maintain steam quality. Reported marine thermal efficiencies varied widely; steam competed with sail when fuel, reliability, capital, and route economics favoured it (<a href="ch24.html">Ch 24</a>).</p>
 <h2 id="ch23_steam-233-the-machine-tool-dependency">23.3 The Machine-Tool Dependency</h2>
-<p>Watt's first engines leaked like sieves until Wilkinson's boring machine (1774 — originally cannon bores!) machined true cylinders. Lesson institutionalized: <strong>engine progress = machine-tool progress</strong>. Fund lathes/borers/planers continuously (<a href="ch15.html">Ch 15</a>); every micron of cylinder fit becomes fuel saved for decades.</p>
+<p>Watt's early cylinders leaked until Wilkinson's boring machine produced more accurate bores. The broader lesson is that engine progress and machine-tool capability reinforce each other. Maintain lathes, borers, planers, gauges, and inspection (<a href="ch15.html">Ch 15</a>); record the actual leakage, friction, and efficiency effect rather than treating a dimensional tolerance as a universal fuel saving.</p>
 <h2 id="ch23_steam-234-boilers-where-danger-lives">23.4 Boilers: Where Danger Lives</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> a fired pressure vessel stores blast energy — low water plus high fire bursts the shell and kills the crew, not just the engine. Keep two independent water gauges agreeing, safety valve popped weekly, fusible plug fitted, hydrostatic proof at 1.5× with water only, and a written log every shift; never fire when the gauges disagree.</p>
-<p>Most steam fatalities were boiler explosions, not engine failures. Non-negotiables:</p>
+<p class="co co-warn"><strong>Safety warning:</strong> a fired pressure vessel stores blast energy—low water, blocked relief, overpressure, or brittle pressure-boundary material can rupture the shell and kill the crew. Design, construction, relief sizing, proof testing, inspection, and operation follow the applicable pressure-vessel and boiler code under qualified supervision. Water level must be independently indicated and alarmed; controls, trips, and relief devices are tested on a documented schedule. A generic warning or one auxiliary device is not an adequate safety system.</p>
+<p>Pressure-boundary failures can be catastrophic, and the historical record includes many boiler explosions. The general design requirements are therefore non-negotiable:</p>
 <figure class="fig">
-<svg viewBox="0 0 640 190" width="100%" role="img" aria-label="The boiler is a bomb tamed by paired gauges, a generous safety valve, a fusible plug, water-only proof, and shift logs">
-<title>The boiler is a bomb tamed by paired gauges, a generous safety valve, a fusible plug, water-only proof, and shift logs</title>
+<svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Boiler protection uses independent indication, code-sized relief, proof testing, and operating records">
+<title>Boiler protection uses independent indication, code-sized relief, proof testing, and operating records</title>
 <rect x="0" y="0" width="640" height="190" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 23.2 — The boiler is a bomb tamed by water, valves, and logs</text>
-<rect x="80" y="60" width="300" height="70" rx="30" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
-<rect x="80" y="95" width="300" height="8" fill="#46617a"/>
-<text x="230" y="88" text-anchor="middle" font-size="9" font-weight="bold">WATER LINE (gauges + try-cocks, ×2)</text>
+<rect x="80" y="60" width="300" height="70" rx="30" fill="#efe9db"/>
+<path d="M80,98 L380,98 L380,100 A30,30 0 0 1 350,130 L110,130 A30,30 0 0 1 80,100 Z" fill="#cfe0ea"/>
+<line x1="80" y1="98" x2="380" y2="98" stroke="#2f5286" stroke-width="2"/>
+<rect x="80" y="60" width="300" height="70" rx="30" fill="none" stroke="#16130e" stroke-width="2"/>
+<text x="230" y="78" text-anchor="middle" font-size="9" font-style="italic">steam space</text>
+<text x="230" y="92" text-anchor="middle" font-size="9" font-weight="bold">WATER LINE (gauges + try-cocks, ×2)</text>
+<text x="230" y="116" text-anchor="middle" font-size="9" font-style="italic">water must always cover the heated plates</text>
 <circle cx="130" cy="60" r="10" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/>
 <text x="130" y="45" text-anchor="middle" font-size="9" font-weight="bold">SAFETY VALVE</text>
 <circle cx="330" cy="130" r="8" fill="#8f3b2d" stroke="#16130e" stroke-width="1.5"/>
-<text x="330" y="155" text-anchor="middle" font-size="9" font-weight="bold" fill="#8f3b2d">FUSIBLE PLUG</text>
-<text x="450" y="60" font-size="10" font-weight="bold">TEST WATER-ONLY</text>
-<text x="450" y="73" font-size="9">1.5× pressure, 30 min,</text>
-<text x="450" y="84" font-size="9">gauge motionless (leaks, not bombs)</text>
+<text x="330" y="155" text-anchor="middle" font-size="9" font-weight="bold" fill="#8f3b2d">INDEPENDENT TRIPS</text>
+<text x="450" y="60" font-size="10" font-weight="bold">PROVE TO CODE</text>
+<text x="450" y="73" font-size="9">qualified hydrostatic test,</text>
+<text x="450" y="84" font-size="9">documented pressure and hold time</text>
 <text x="450" y="100" font-size="10" font-weight="bold">LOG EVERY SHIFT</text>
 <text x="450" y="113" font-size="9">pressure, water, coal, feed —</text>
 <text x="450" y="124" font-size="9">drift kills before bursts do</text>
 <text x="450" y="140" font-size="9">flat ends forbidden unstayed;</text>
 <text x="450" y="151" font-size="9">dished + gusset stays ≤150 mm</text>
-<text x="230" y="170" text-anchor="middle" font-size="9" font-style="italic">shell 6 mm (≈2× computed 3.1 mm) — corrosion + laps + damage live in the margin</text>
+<text x="230" y="170" text-anchor="middle" font-size="9" font-style="italic">thickness, joints, corrosion allowance, and inspection follow engineered code calculations</text>
 </svg>
-<figcaption><strong>Figure 23.2.</strong> Two gauges agree or nobody fires; the safety valve is sized generous and popped weekly; the fusible plug melts before the crown collapses; hydrostatic proof uses incompressible water. Logs catch the drift that precedes every explosion.</figcaption>
+<figcaption><strong>Figure 23.2.</strong> A boiler requires independent level indication, code-sized pressure relief, separate protective trips, qualified proof testing, and operating records. No single gauge, plug, or operator observation certifies a pressure vessel.</figcaption>
 </figure>
 
 <ul>
-<li>Water level gauges + fusible plugs (melt and vent if dry-fire begins).</li>
-<li>Spring-loaded safety valves sized generously, tested weekly under steam.</li>
-<li>Riveted/welded shells with computed thickness margins; pressure testing ABOVE working pressure with water (incompressible — failures are leaks, not bombs).</li>
-<li>Written operating logs per shift (<a href="ch11.html">Ch 11</a>) — pattern analysis catches drifting maintenance before it kills.</li>
+<li>Independent water-level indication and alarms, with a documented response to disagreement.</li>
+<li>Relief devices and trips sized and tested under the applicable code; auxiliary devices supplement rather than replace them.</li>
+<li>Pressure-boundary material, joints, supports, corrosion allowance, inspection access, and proof test specified by qualified design.</li>
+<li>Written operating and maintenance records (<a href="ch11.html">Ch 11</a>) with trend review and named responsibility.</li>
 </ul>
 <h2 id="ch23_steam-235-deployment-priorities">23.5 Deployment Priorities</h2>
 <ol>
@@ -350,87 +355,41 @@ body {
 <li><strong>Cornwall quantified competition:</strong> mine engineers measured engines in "duty" (foot-pounds of work per bushel of coal), publishing league tables; Woolf's compound designs pushed duty records through the 1810s–30s. Efficiency racing as public sport — an institution worth rebuilding deliberately.</li>
 <li>Trevithick's Penydarren locomotive hauled iron along plateway rails (February 1804); Rocket won Rainhill Trials (October 1829) with the multi-tubular boiler + blast pipe package <a href="ch24.html">Ch 24</a> describes.</li>
 </ul>
-<h2 id="ch23_steam-237-first-build-a-10-kw-stationary-engine-from-computed-drawings">23.7 First Build: A 10 kW Stationary Engine From Computed Drawings</h2>
-<p>One buildable reference design: a double-acting simple high-pressure horizontal engine, non-condensing for its first season. Every dimension below is derived, not quoted — recompute them whenever one input changes.</p>
-<p><strong>Phase 0 — Size the cylinder (worked arithmetic).</strong></p>
+<h2 id="ch23_steam-237-engineering-design-gate-from-thermal-target-to-commissioning-plan">23.7 Engineering Design Gate: From Thermal Target to Commissioning Plan</h2>
+<p>A stationary engine is not defined by bore, stroke, and a single “mean effective pressure” copied from a worked example. It is a coupled thermodynamic, mechanical, pressure-boundary, controls, fuel, and commissioning problem. This general manual defines the engineering workflow; it does not certify dimensions for construction.</p>
+<p class="co co-gate"><strong>Competence gate:</strong> design, pressure-boundary work, controls integration, proof testing, and first firing belong to qualified mechanical and pressure-system engineers working to applicable codes and recognised test procedures. Historical practice can teach architecture and failure modes, but it cannot replace current stress analysis, relief-device sizing, material qualification, inspection, and operator training.</p>
+<h3 id="ch23_steam-design-workflow">Design workflow</h3>
 <ol>
-<li>Target 10 kW brake output; assume mechanical efficiency ~85 % → ~11.8 kW indicated required.</li>
-<li>Boiler pressure 7 bar gauge (8 bar absolute, saturated steam ~170 °C); cut-off ~35 % gives a realistic mean effective pressure p_m ≈ <strong>240 kPa</strong>.</li>
-<li>Speed n = 300 rpm = 5 rev/s; choose stroke L = 200 mm.</li>
-<li>Double-acting work per revolution = 2·p_m·A·L, so required piston area A = P/(2·p_m·L·n) = 11,800/(2 × 240,000 × 0.20 × 5) = <strong>0.0246 m²</strong> → bore d = √(4A/π) ≈ 177 mm.</li>
-<li>Adopt <strong>bore Ø180 mm × stroke 200 mm</strong>: A = 0.02545 m² → work/rev = 2 × 240,000 × 0.02545 × 0.20 ≈ 2,443 J → indicated power at 300 rpm ≈ 12.2 kW, ~10 kW at the belt.</li>
-<li>Sanity checks before cutting metal: mean piston speed = 2Ln = 2 × 0.20 × 5 = <strong>2.0 m/s</strong> — comfortably under the ~4 m/s where ring and bore wear escalate at this tech level. Steam demand: full displacement 2 × A × L × n = 50.9 L/s of 8-bar saturated steam (~4.16 kg/m³) at 35 % cut-off ≈ <strong>75 kg/h</strong>; a good fire-tube boiler evaporating ~7 kg steam per kg coal puts coal burn near <strong>11 kg/h ≈ 1.1 kg per delivered kWh</strong>.</li>
+<li><strong>Declare the service envelope.</strong> Specify rated and peak output, speed range, load profile, fuel, ambient conditions, water chemistry, start/stop frequency, desired service life, and permitted emissions. A village mill and a continuous sawmill do not have the same duty cycle.</li>
+<li><strong>Select a thermodynamic cycle.</strong> State boiler pressure, steam temperature or quality, exhaust/back pressure, condensation or non-condensing operation, intended cut-off or expansion, and mechanical efficiency. Use a current steam-property source rather than treating a gauge-pressure label as total thermodynamic state.</li>
+<li><strong>Calculate independently.</strong> For a double-acting piston engine, mean effective pressure gives indicated work per cycle from <code>W = 2 p_m A L</code>. Mechanical efficiency then gives brake power. Calculate steam admission from actual valve timing, cylinder clearances, compression, wire-drawing (throttling) losses, and measured flow—not from the cut-off fraction alone. Cross-check with an indicator diagram or instrumented test.</li>
+<li><strong>Close the energy ledger.</strong> Measure fuel mass flow, feedwater flow, steam quality, and heat input. A stated coal-per-kWh target is credible only if the steam demand, boiler efficiency, combustion efficiency, and measured output agree within a stated uncertainty.</li>
+<li><strong>Design the pressure boundary.</strong> Use current code, corrosion allowance, fatigue loads, supports, openings, welds/rivets, relief path, and inspection access. A fusible plug is a supplementary last-line device in some designs; it is not a universal substitute for a correctly sized relief device or sound crown.</li>
+<li><strong>Separate control from protection.</strong> Controls regulate load and speed; independent protection limits unsafe pressure, water level, temperature, and motion. Test each path independently and document the trip setpoints and reset policy.</li>
+<li><strong>Commission progressively.</strong> Static inspection and pressure tests come first, then no-load rotation, interlocks, governor response, load engagement, vibration, bearing temperatures, exhaust condition, and a measured efficiency run. Stop at any failed acceptance test and correct the cause.</li>
 </ol>
-<p><em>Verification checkpoint:</em> an indicator diagram (or careful gauge-and-stroke estimate) reading ≥10 kW sustained against a Prony brake for four hours confirms sizing; half that means leaking piston or dead passages, not wrong arithmetic.</p>
-<p>Per-step failure modes:</p>
+<h3 id="ch23_steam-commissioning-data-sheet">Commissioning data sheet</h3>
+<p>Record:</p>
 <ul>
-<li><em>Knocking on stroke reversal:</em> water slug in the cylinder → stop immediately; drain, fix priming source before restart.</li>
-<li><em>Speed hunts under load:</em> governor friction or flyball spring sag → clean linkage, reset springs until ±3 % regulation.</li>
+<li>drawing revision and applicable design code;</li>
+<li>boiler pressure, temperature, water chemistry, and relief-device data;</li>
+<li>cylinder, valve, piston, rod, bearing, and coupling materials;</li>
+<li>instrument ranges, calibration dates, and trip setpoints;</li>
+<li>fuel and feedwater quantities;</li>
+<li>indicated and brake power at each acceptance load;</li>
+<li>exhaust pressure and temperature;</li>
+<li>bearing and lubrication temperatures;</li>
+<li>vibration and leakage observations;</li>
+<li>operator sign-offs and outstanding defects.</li>
 </ul>
-<p><strong>Phase 1 — Boiler plate thickness (worked hoop stress).</strong></p>
-<ol start="7">
-<li>Shell: seamless-wound or riveted drum, internal diameter D = 400 mm.</li>
-<li>Hoop stress σ_h = pD/2t; solve thickness t = pD/(2·σ_allow·η). With wrought-iron/mild-steel plate ultimate ~320 MPa, safety factor 5 → σ_allow = 64 MPa; riveted longitudinal joint efficiency η = 0.70:
-   t_min = (700,000 Pa × 0.40 m)/(2 × 64,000,000 × 0.70) = 280,000/89,600,000 ≈ <strong>3.1 mm</strong>.</li>
-<li>Adopt <strong>6 mm plate</strong> — roughly double the computed minimum, covering corrosion loss, rivet-lap weakening, and shop damage. Flat ends are forbidden at this pressure unstayed: use dished heads with gusset stays, firebox crown stayed ≤150 mm pitch.</li>
-<li>Tube bank: 24 × 65 mm firetubes × 1.5 m gives ≈7.4 m² heating surface — evaporates &gt;100 kg/h against this engine's ~75 kg/h demand.</li>
-</ol>
-<p><em>Verification checkpoint:</em> hydrostatic test at <strong>1.5 × working pressure (10.5 bar) held 30 min</strong>, gauge motionless, seams weeping nothing worse than damp. Any stream = strip, re-caulk, retest. Water only — compressed gas stores lethal energy.</p>
-<p>Per-step failure modes:</p>
-<ul>
-<li><em>Seam weep under test:</em> mark, depressurize, re-caulk seam, retest from zero.</li>
-<li><em>Gauge creep during hold:</em> thermal expansion still equalizing; restart the clock only after full temperature soak.</li>
-</ul>
-<p><strong>Phase 2 — Safety hardware before first fire.</strong></p>
-<ol start="11">
-<li>Spring safety valve set 7.5 bar gauge, sized to hold pressure ≤110 % with fires at maximum; hand-ease it weekly under steam.</li>
-<li>Fusible plug (lead–tin alloy, melts ~230 °C) in the firebox crown — dry-firing melts it and vents the box instead of collapsing the crown.</li>
-<li>Two independent water gauges plus try-cocks; feed pump AND injector-class backup.</li>
-</ol>
-<p><em>Verification checkpoint:</em> pop test — valve lifts within ±2 % of set pressure twice consecutively; fusible plug sits flush in crown, unobstructed.</p>
-<p><strong>Phase 3 — Valve gear: lap and lead (where most homemade engines go wrong).</strong></p>
-<ol start="14">
-<li>Mark steam ports with the piston at each dead center (rock the flywheel over center by feel — the "rock-over" method — and scribe crossheads/crank marks at both).</li>
-<li>Set the slide valve's <strong>outside lap</strong> symmetrically on both steam ends: lap is what creates cutoff; more lap = shorter admission = earlier expansion. For ~35 % cut-off at this geometry, outside lap near <strong>one-third of port width</strong> is the starting point; verify by measuring port opening at dead center.</li>
-<li>Set <strong>lead</strong> — slight port opening (~1–3 mm) at dead center so steam is already entering as the stroke begins; too much lead wastes throttle, none makes the engine knock on reversal.</li>
-<li>Exhaust lap ≈ zero for a first engine (inside edges of valve flush with exhaust ports).</li>
-</ol>
-<p><em>Verification checkpoint:</em> engine turns over slowly on hand-barrow air/steam, runs in BOTH directions from mid-position, and reverses cleanly — a mis-lapped valve hunts or refuses one direction.</p>
-<p>Per-step failure modes:</p>
-<ul>
-<li><em>Runs one way only / dies at half-revolution:</em> unequal lap or eccentric set wrong → re-scribe dead centers, reset eccentric to crank at 90° plus lap angle.</li>
-<li><em>Knocks at each dead center:</em> clearance lost in crosshead or bearings, not the valve → check brasses first.</li>
-</ul>
-<p><strong>Phase 4 — First-fire procedure.</strong></p>
-<ol start="18">
-<li>Cure refractory/masonry gently: wood coals only, day one; never raise metal temperature faster than ~50 °C/h thereafter.</li>
-<li>Fill with the softest water available (scale is silent murder), glass at mid-level, vent open until steady steam shows.</li>
-<li>Raise steam over 2–3 h; blow down 10 % twice in the first day to skim oil and salts.</li>
-<li>Admit steam to cylinder with engine on light load; run 30 min, shut, retighten gland bolts warm, then couple the load.</li>
-</ol>
-<p><em>Verification checkpoint:</em> gauge holds 7 bar under full load with safety valve quiet; exhaust clear (no white priming carryover); bearings cool enough to rest a hand.</p>
-<p>Per-step failure modes:</p>
-<ul>
-<li><em>Priming/carryover:</em> erratic gauge, water hammer, wet exhaust → drop load, check water level and quality, reduce firing rate.</li>
-<li><em>Dry firing:</em> fusible plug vents with hiss while gauge falls → kill fires, cool completely, replace plug (spares stocked), find feed failure first.</li>
-<li><em>Gland leak growing:</em> steam feathering at rod → tighten evenly warm; never crank cold.</li>
-</ul>
-<p><strong>Phase 5 — Condenser-trip procedure (when the jet/surface condenser is added).</strong></p>
-<ol start="22">
-<li>Normal running: condenser vacuum ≥70 kPa below atmospheric; log it hourly (<a href="#ch23_steam-234-boilers-where-danger-lives">§23.4</a> log discipline).</li>
-<li>Trip drill monthly: throttle cooling water deliberately → when vacuum falls through 50 kPa, the atmospheric break-valve must open within seconds, dumping exhaust to roof; engine keeps turning non-condensing at reduced economy.</li>
-<li>Pass criterion: no stall, no overspeed, vacuum recovered within 5 min of cooling-water restoration.</li>
-</ol>
-<p><em>Verification checkpoint:</em> three consecutive clean trips logged; then the drill joins the weekly safety-valve round.</p>
-<p class="co co-key"><strong>Key threshold:</strong> fuel burn near <strong>2 kg coal per kWh delivered</strong> marks an honest first build; Cornish-style discipline (§23.6 duty tables) exists precisely to halve that number. Log fuel and feed water every shift from day one — the engine that isn't metered regresses silently.</p>
-<p><strong>Duty, converted into your terms.</strong> §23.6's league-table metric is work per bushel of coal (84 lb ≈ 38 kg): duty (ft·lb) = output work ÷ bushels burned, and since 1 kWh = 2.66 million ft·lb, any metered engine converts straight across. The documented trajectory: Newcomen-era engines ran roughly <strong>4–6 M</strong> ft·lb/bushel (≈20 kg coal/kWh); Watt's separate condenser lifted practice to roughly <strong>20–30 M</strong> (≈3–4 kg/kWh, matching its 3–4 % thermal efficiency above); the best Cornish compounds peaked around <strong>90–100 M</strong> (≈1 kg/kWh). This section's own 2 kg-coal/kWh acceptance bar corresponds to <strong>~50 M duty</strong> — a Watt-class result, with Cornwall's numbers marking what disciplined iteration buys. Compute yours weekly from the shift logs; publish the table internally exactly as Cornwall did (<a href="#ch23_steam-236-the-engine-papers">§23.6</a>).</p>
+<p class="co co-key"><strong>Key threshold:</strong> a design passes when its calculated energy balance, measured output, pressure-boundary evidence, protection tests, and operating records agree within declared tolerances. The manual is not the acceptance authority. A claimed value such as “2 kg coal/kWh” is a target until a complete instrumented test demonstrates it for the actual engine and fuel.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch22.html" class="reader-nav-link">← Chapter 22</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch24.html" class="reader-nav-link">Chapter 24 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

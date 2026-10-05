@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch19_optics-chapter-19-optics-lenses-to-telescopes-and-microscopes">Chapter 19: Optics: Lenses to Telescopes and Microscopes</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> ~1280 spectacles → 17th c. instruments · <strong>Difficulty:</strong> mid
-<br><strong>Requires:</strong> <a href="ch17.html">Ch 17</a> clear glass, <a href="ch15.html">Ch 15</a> lathes (grinding rigs), <a href="ch12.html">Ch 12</a> trigonometry · <br><strong>Unlocks:</strong> <a href="ch20.html">Ch 20</a> measurement culture, <a href="ch30.html">Ch 30</a> microbiology, <a href="ch33.html">Ch 33</a>-style systematic engineering</p>
+<p><strong>Era span:</strong> ~1280 spectacles → 17th c. instruments · <strong>Difficulty:</strong> mid<br><strong>Requires:</strong> <a href="ch12.html">Ch 12</a>, <a href="ch15.html">Ch 15</a>, <a href="ch17.html">Ch 17</a><br><strong>Unlocks:</strong> <a href="ch20.html">Ch 20</a>, <a href="ch30.html">Ch 30</a>, <a href="ch35.html">Ch 35</a></p>
 </blockquote>
 <p>Glass that bends light is the first instrument that extends a human sense beyond biology. Two inventions — telescope and microscope — rewrite astronomy, navigation, and medicine within a century of each other; both come from the same craft skill: grinding spherical surfaces.</p>
 <figure class="fig">
@@ -280,7 +281,7 @@ body {
 <tbody>
 <tr>
 <td>Focal length f</td>
-<td>Light-gathering leverage; magnification ≈ F_objective / f_eyepiece</td>
+<td>Sets image scale; telescope magnification ≈ F_objective ÷ f_eyepiece</td>
 <td>Sun-spot distance</td>
 </tr>
 <tr>
@@ -313,67 +314,71 @@ body {
 <li><strong>Spectacle-grade skill threshold:</strong> consistent 5–20 cm focal lengths, decent clarity. Reading glasses alone justify the workshop economically while skill matures toward long telescopes.</li>
 </ul>
 <p><strong>Grit ladder (never skip a grade):</strong> coarse sand (~0.5 mm) → fine sand → emery 120 → emery 220 → emery 400 → washed tripoli → rouge polish. Wash blank, tool, and hands between grades — one stray coarse grain re-scratches an hour's work. Test figure by reflecting a candle flame: a clean single image means spherical; doubled or tailed images mean zones to rework. Pitch laps (tar + rouge on a shaped base) finish telescope objectives; keep the lap warm-soft, stroke 1/3 overhang, rotate often.</p>
-<p><strong>Economics first:</strong> sell spectacles (convex +2 to +4 diopters covers most presbyopia) to fund the telescope program. A village glazier who can fit reading glasses has already paid for the grinding rig that later figures an objective.</p>
+<p><strong>Economics first:</strong> sell spectacles (convex +1 to +3 diopters covers most presbyopia) to fund the telescope program. A village glazier who can fit reading glasses has already paid for the grinding rig that later figures an objective.</p>
 <h2 id="ch19_optics-193-the-refracting-telescope">19.3 The Refracting Telescope</h2>
 <p>Galilean configuration: weak convex objective (long f) + strong concave eyepiece = upright image, narrow field. Keplerian upgrade: both convex — wider field, inverted image (fine for sky; annoying for ships). Practical build notes:</p>
 <ul>
 <li>Long objectives (f = 1–3 m) magnify 10–40×; mount on steady tripod with slow-motion altitude/azimuth adjustments. Stability matters more than raw power — a shaky image sees nothing.</li>
 <li><strong>Aberrations:</strong> spherical (edges blur — stop down aperture to improve) and chromatic (colored fringes from dispersion — different colors focus at different lengths). Achromatic doublet (crown + flint cemented, ~1758) largely cures chromatic error; before that, "aerial" ultra-long tubes were the workaround.</li>
-<li>Point it at: Moon mountains (another world, mapped), Jupiter's four moons (miniature solar system visible nightly), Venus phases (heliocentrism settled by direct evidence), sunspots (projected safely through a pinhole onto paper — never stare).</li>
+<li>Point it at: Moon mountains (another world, mapped), Jupiter's four moons (miniature solar system visible nightly), Venus phases (direct evidence against Ptolemy's system, though still compatible with Tycho's), sunspots (projected safely through a pinhole onto paper — never stare).</li>
 </ul>
 <figure class="fig">
-<svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Three telescopes share the long-focus objective; the eyepiece choice sets upright or inverted views, and the Newtonian mirror removes color error">
+<svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Three telescopes share the long-focus objective; the eyepiece choice sets upright or inverted views, and the Newtonian mirror removes color error">
 <title>Three telescopes share the long-focus objective; the eyepiece choice sets upright or inverted views, and the Newtonian mirror removes color error</title>
-<rect x="0" y="0" width="640" height="200" fill="#fbf9f3"/>
+<rect x="0" y="0" width="640" height="190" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 19.2 — Three telescopes: same objective trick, different fixes</text>
-<text x="110" y="42" font-size="10" font-weight="bold">GALILEAN (1609)</text>
-<rect x="36" y="55" width="14" height="50" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
-<line x1="18" y1="65" x2="36" y2="65" stroke="#c96a2e" stroke-width="1.5"/><line x1="18" y1="95" x2="36" y2="95" stroke="#c96a2e" stroke-width="1.5"/>
-<line x1="50" y1="65" x2="148" y2="75" stroke="#c96a2e" stroke-width="1.5"/><line x1="50" y1="95" x2="148" y2="85" stroke="#c96a2e" stroke-width="1.5"/>
-<polygon points="148,64 156,64 153.5,80 156,96 148,96 150.5,80" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
-<line x1="155" y1="74" x2="212" y2="74" stroke="#c96a2e" stroke-width="1.5"/><line x1="155" y1="86" x2="212" y2="86" stroke="#c96a2e" stroke-width="1.5"/>
-<text x="115" y="130" text-anchor="middle" font-size="9">upright, narrow field</text>
-<text x="320" y="42" font-size="10" font-weight="bold">KEPLERIAN (1611+)</text>
-<rect x="246" y="55" width="14" height="50" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
-<line x1="228" y1="65" x2="246" y2="65" stroke="#c96a2e" stroke-width="1.5"/><line x1="228" y1="95" x2="246" y2="95" stroke="#c96a2e" stroke-width="1.5"/>
-<line x1="260" y1="65" x2="322" y2="80" stroke="#c96a2e" stroke-width="1.5"/><line x1="260" y1="95" x2="322" y2="80" stroke="#c96a2e" stroke-width="1.5"/>
-<circle cx="322" cy="80" r="2.5" fill="#8f3b2d"/>
-<line x1="322" y1="80" x2="355" y2="69" stroke="#c96a2e" stroke-width="1.5"/><line x1="322" y1="80" x2="355" y2="91" stroke="#c96a2e" stroke-width="1.5"/>
-<polygon points="360,60 366,80 360,100 354,80" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
-<line x1="365" y1="73" x2="412" y2="73" stroke="#c96a2e" stroke-width="1.5"/><line x1="365" y1="87" x2="412" y2="87" stroke="#c96a2e" stroke-width="1.5"/>
-<text x="320" y="125" text-anchor="middle" font-size="9">inverted, wide field — astronomers' choice</text>
-<text x="525" y="42" font-size="10" font-weight="bold">NEWTONIAN (1668)</text>
-<line x1="476" y1="78" x2="498" y2="78" stroke="#9a927e" stroke-width="5"/>
-<line x1="510" y1="78" x2="550" y2="78" stroke="#9a927e" stroke-width="5"/>
-<line x1="476" y1="112" x2="550" y2="112" stroke="#9a927e" stroke-width="5"/>
-<rect x="546" y="72" width="9" height="46" fill="#6b5a33" stroke="#16130e" stroke-width="1"/>
-<rect x="496" y="60" width="14" height="16" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
-<line x1="480" y1="86" x2="546" y2="86" stroke="#c96a2e" stroke-width="1.5"/><line x1="480" y1="104" x2="546" y2="104" stroke="#c96a2e" stroke-width="1.5"/>
-<line x1="498" y1="80" x2="510" y2="92" stroke="#16130e" stroke-width="2"/>
-<line x1="546" y1="86" x2="506" y2="88" stroke="#c96a2e" stroke-width="1.25" stroke-dasharray="4,2"/>
-<line x1="506" y1="88" x2="506" y2="74" stroke="#c96a2e" stroke-width="1.25" stroke-dasharray="4,2"/>
-<text x="522" y="130" text-anchor="middle" font-size="9">mirror — no color fringes</text>
-<text x="320" y="160" text-anchor="middle" font-size="9" font-style="italic">build Galilean first (weeks), Keplerian second, reflector for everything above ~10×</text>
+<text x="115" y="42" text-anchor="middle" font-size="10" font-weight="bold">GALILEAN (1609)</text>
+<line x1="18" y1="70" x2="40" y2="70" stroke="#c96a2e" stroke-width="1.5"/><line x1="18" y1="110" x2="40" y2="110" stroke="#c96a2e" stroke-width="1.5"/>
+<line x1="40" y1="70" x2="150" y2="83.75" stroke="#c96a2e" stroke-width="1.5"/><line x1="40" y1="110" x2="150" y2="96.25" stroke="#c96a2e" stroke-width="1.5"/>
+<line x1="152" y1="83.75" x2="212" y2="83.75" stroke="#c96a2e" stroke-width="1.5"/><line x1="152" y1="96.25" x2="212" y2="96.25" stroke="#c96a2e" stroke-width="1.5"/>
+<ellipse cx="40" cy="90" rx="6" ry="30" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
+<polygon points="145,74 155,74 152,90 155,106 145,106 148,90" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
+<text x="40" y="132" text-anchor="middle" font-size="9">objective</text>
+<text x="150" y="120" text-anchor="middle" font-size="9">concave</text>
+<text x="115" y="148" text-anchor="middle" font-size="9">upright, narrow field</text>
+<text x="324" y="42" text-anchor="middle" font-size="10" font-weight="bold">KEPLERIAN (1611+)</text>
+<line x1="228" y1="70" x2="250" y2="70" stroke="#c96a2e" stroke-width="1.5"/><line x1="228" y1="110" x2="250" y2="110" stroke="#c96a2e" stroke-width="1.5"/>
+<line x1="250" y1="70" x2="370" y2="100" stroke="#c96a2e" stroke-width="1.5"/><line x1="250" y1="110" x2="370" y2="80" stroke="#c96a2e" stroke-width="1.5"/>
+<line x1="370" y1="100" x2="420" y2="100" stroke="#c96a2e" stroke-width="1.5"/><line x1="370" y1="80" x2="420" y2="80" stroke="#c96a2e" stroke-width="1.5"/>
+<circle cx="330" cy="90" r="2.5" fill="#8f3b2d"/>
+<ellipse cx="250" cy="90" rx="6" ry="30" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
+<ellipse cx="370" cy="90" rx="5" ry="20" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
+<text x="330" y="78" text-anchor="middle" font-size="9">focus</text>
+<text x="370" y="122" text-anchor="middle" font-size="9">convex</text>
+<text x="324" y="148" text-anchor="middle" font-size="9">inverted, wide field — astronomers' choice</text>
+<text x="532" y="42" text-anchor="middle" font-size="10" font-weight="bold">NEWTONIAN (1668)</text>
+<line x1="452" y1="64" x2="502" y2="64" stroke="#16130e" stroke-width="2"/><line x1="520" y1="64" x2="602" y2="64" stroke="#16130e" stroke-width="2"/>
+<line x1="452" y1="116" x2="602" y2="116" stroke="#16130e" stroke-width="2"/>
+<rect x="503" y="50" width="16" height="14" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
+<line x1="440" y1="76" x2="593" y2="76" stroke="#c96a2e" stroke-width="1.5"/><line x1="440" y1="104" x2="593" y2="104" stroke="#c96a2e" stroke-width="1.5"/>
+<line x1="593" y1="76" x2="509" y2="87" stroke="#c96a2e" stroke-width="1.5"/><line x1="593" y1="104" x2="513" y2="91" stroke="#c96a2e" stroke-width="1.5"/>
+<line x1="509" y1="87" x2="509" y2="64" stroke="#c96a2e" stroke-width="1.5"/><line x1="513" y1="91" x2="513" y2="64" stroke="#c96a2e" stroke-width="1.5"/>
+<line x1="503" y1="82" x2="519" y2="97" stroke="#16130e" stroke-width="2.5"/>
+<path d="M600,62 Q586,90 600,118" fill="none" stroke="#6b5a33" stroke-width="5"/>
+<text x="586" y="132" text-anchor="middle" font-size="9">concave mirror</text>
+<text x="490" y="132" text-anchor="middle" font-size="9">flat diagonal</text>
+<text x="532" y="148" text-anchor="middle" font-size="9">mirror — no color fringes</text>
+<text x="320" y="172" text-anchor="middle" font-size="9" font-style="italic">build Galilean first (weeks), Keplerian second, reflector for everything above ~10×</text>
 </svg>
 <figcaption><strong>Figure 19.2.</strong> All three use a long-focus objective; they differ in the eyepiece. Concave (Galileo) gives upright views for ships; convex (Kepler) gives wider inverted views for the sky; a mirror (Newton) removes color error entirely.</figcaption>
 </figure>
 
 <p><strong>Mount doctrine:</strong> a 20× telescope on a wobbling staff sees less than a 10× on a braced tripod with slow screws. Build the mount before chasing magnification: two-axis pivot, long tangent-screw handles, weighted legs. Observe seated; heartbeat through elbows ruins high power.</p>
 <h2 id="ch19_optics-194-the-reflecting-telescope">19.4 The Reflecting Telescope</h2>
-<p class="co co-jump"><strong>Jump:</strong> Newton's reflector (1668) sidesteps chromatic aberration entirely — mirrors bounce all colors identically. Speculum metal (copper-tin alloy, polishable) mirrors at f/… modest apertures; later silvered-glass mirrors scale enormously. For this guide: once you can grind and polish metal or glass curves, build reflectors for anything above ~10× magnification duty; refractors stay for precision transit work.</p>
+<p class="co co-jump"><strong>Jump:</strong> Newton's reflector (1668) sidesteps chromatic aberration entirely — mirrors bounce all colors identically. Speculum metal (copper-tin alloy, polishable) makes mirrors of modest aperture; later silvered-glass mirrors scale enormously. For this guide: once you can grind and polish metal or glass curves, build reflectors for anything above ~10× magnification duty; refractors stay for precision transit work.</p>
 <p><strong>Mirror recipe (speculum):</strong> ~68 % copper / 32 % tin, cast 1–2 cm thick, ground concave against a convex iron tool with the same grit ladder as lenses, polished on pitch with rouge, figured by selective stroke (center-strokes deepen, edge-strokes flatten). Test by Foucault knife-edge: a point source at center-of-curvature should darken uniformly — zones show as shadows. Tarnish is the tax: repolish every 6–12 months until silvered-glass chemistry (<a href="ch21.html">Ch 21</a>) arrives.</p>
 <h2 id="ch19_optics-195-the-microscope">19.5 The Microscope</h2>
 <p>Two routes:</p>
 <ol>
-<li><strong>Simple bead microscope:</strong> a tiny glass bead/ball lens (~1 mm) between specimen slide and eye magnifies 100–270× — Leeuwenhoek saw bacteria, spermatazoa, and protozoa with these. Cheap, sharp, tiny field. The fastest path to germ-era discoveries (<a href="ch30.html">Ch 30</a>).</li>
+<li><strong>Simple bead microscope:</strong> a tiny glass bead/ball lens (~1 mm) between specimen slide and eye magnifies 100–270× — Leeuwenhoek saw bacteria, spermatozoa, and protozoa with these. Cheap, sharp, tiny field. The fastest path to germ-era discoveries (<a href="ch30.html">Ch 30</a>).</li>
 <li><strong>Compound microscope:</strong> short-f objective + eyepiece; comfortable but early examples had color-corrected NOTHING — images fringed. Improve systematically: achromatic objective pairs, then apochromatic; substage condenser to light the specimen; fine-focus screws.</li>
 </ol>
-<p>Specimen craft matters as much as optics: thin sections, staining (later aniline dyes from coal tar, <a href="ch28.html">Ch 28</a>), dark-field illumination via side mirror. Microscopy plus staining plus recorded observations IS microbiology's founding toolkit.</p>
+<p>Specimen craft matters as much as optics: thin sections, staining (later aniline dyes, made from the coal tar that coke ovens yield — <a href="ch22.html">Ch 22</a> — and decisive in Koch's bacteriology, <a href="ch31.html">Ch 31</a>), dark-field illumination via side mirror. Microscopy plus staining plus recorded observations IS microbiology's founding toolkit.</p>
 <p><strong>Bead-lens fast path (days, not months):</strong> draw a glass thread in a flame, melt the tip into a 1–2 mm bead, mount between brass plates with a pinhole, hold specimen on a pin behind it with a focusing screw. Total parts: bead, two plates, three screws. Leeuwenhoek's 270× needed nothing more — build 20 of these and hand them to every healer and brewer before attempting a single compound stand.</p>
 <h2 id="ch19_optics-196-optical-instrument-culture">19.6 Optical Instrument Culture</h2>
 <p>Optics teaches general instrument discipline: measure, record, compare, calibrate against standards. It also creates demand pull for better glass (<a href="ch17.html">Ch 17</a>), finer screws (<a href="ch15.html">Ch 15</a>), and divided scales — feeding directly into <a href="ch20.html">Ch 20</a>'s precision ecosystem.</p>
 <p class="co co-dead"><strong>Dead end avoided:</strong> chasing giant refractors pre-achromat (history's "long telescope" era hung absurd 50 m tubes from poles). Go reflective early; save refractor elegance for when compound lenses exist.</p>
-<p class="co co-key"><strong>Key threshold:</strong> arcsecond-level angular resolution plus stable mounts turns astronomy into predictive science — ephemerides good enough for longitude navigation, which doubles oceanic trade reach overnight (<a href="ch24.html">Ch 24</a>).</p>
+<p class="co co-key"><strong>Key threshold:</strong> arcsecond-level angular resolution plus stable mounts turns astronomy into predictive science — ephemerides good enough for longitude navigation, which made ocean passages markedly safer and more predictable (<a href="ch24.html">Ch 24</a>).</p>
 <p><strong>Shop rules:</strong> never touch polished surfaces (skin acid etches); store lenses edge-standing in slotted racks; clean only with breath-fog and washed linen, never dry grit-wiping; cap objectives when idle; log every lens (blank source, tool radius, f measured, date) — the logbook is the instrument's second half.</p>
 <h2 id="ch19_optics-197-who-actually-invented-what">19.7 Who Actually Invented What</h2>
 <p>Priority disputes in optics are unusually well documented — useful calibration for any inventor culture:</p>
@@ -393,7 +398,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch20.html" class="reader-nav-link">Chapter 20 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

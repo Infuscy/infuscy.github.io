@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch10_copper_bronze-chapter-10-copper-and-bronze-and-how-to-shorten-their-era">Chapter 10: Copper and Bronze — and How to Shorten Their Era</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> ~5000–1200 BCE compressed · <strong>Difficulty:</strong> mid
-<br><strong>Requires:</strong> <a href="ch01.html">Ch 1</a> charcoal, <a href="ch05.html">Ch 5</a> crucibles/tuyères, <a href="ch13.html">Ch 13</a> · <br><strong>Unlocks:</strong> <a href="ch14.html">Ch 14</a> (furnace skills), <a href="ch15.html">Ch 15</a> (cast fittings)</p>
+<p><strong>Era span:</strong> ~5000–1200 BCE compressed · <strong>Difficulty:</strong> mid<br><strong>Requires:</strong> <a href="ch01.html">Ch 1</a>, <a href="ch02.html">Ch 2</a>, <a href="ch05.html">Ch 5</a><br><strong>Unlocks:</strong> <a href="ch13.html">Ch 13</a>, <a href="ch14.html">Ch 14</a></p>
 </blockquote>
 <p>Copper taught humanity metallurgy; bronze taught it alloy design and industrial scale. But this guide's thesis says: learn their lessons fast, then move to iron (<a href="ch14.html">Ch 14</a>) — bronze's economics depended on rare tin geography that no plan should copy.</p>
 <figure class="fig">
@@ -245,16 +246,22 @@ body {
 <rect x="0" y="0" width="640" height="230" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 10.1 — Clay shaft furnace for copper smelting (cross-section)</text>
 <path d="M240,50 L400,50 L420,200 L220,200 Z" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
-<rect x="255" y="65" width="130" height="22" fill="#4a4436"/>
-<text x="320" y="80" text-anchor="middle" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.6">CHARCOAL + ORE LAYERS</text>
-<rect x="250" y="92" width="140" height="20" fill="#6b5a33"/>
-<text x="320" y="105" text-anchor="middle" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.6">charcoal / crushed malachite</text>
-<rect x="248" y="117" width="144" height="20" fill="#4a4436"/>
-<text x="320" y="130" text-anchor="middle" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.6">alternating charge, hand-size lumps</text>
-<ellipse cx="320" cy="165" rx="55" ry="18" fill="#c96a2e" stroke="#16130e" stroke-width="1.5"/>
+<polygon points="241.9,58 398.1,58 399.4,68 240.6,68" fill="#3a2e22"/>
+<polygon points="240.6,68 399.4,68 400.7,78 239.3,78" fill="#4a7c43"/>
+<polygon points="239.3,78 400.7,78 402.1,88 237.9,88" fill="#3a2e22"/>
+<polygon points="237.9,88 402.1,88 403.4,98 236.6,98" fill="#4a7c43"/>
+<polygon points="236.6,98 403.4,98 404.7,108 235.3,108" fill="#3a2e22"/>
+<polygon points="235.3,108 404.7,108 406.1,118 233.9,118" fill="#4a7c43"/>
+<polygon points="233.9,118 406.1,118 407.4,128 232.6,128" fill="#3a2e22"/>
+<polygon points="232.6,128 407.4,128 408.7,138 231.3,138" fill="#4a7c43"/>
+<line x1="404" y1="80" x2="430" y2="80" stroke="#16130e" stroke-width="1.25"/>
+<text x="434" y="78" font-size="9" font-weight="bold">CHARCOAL + ORE LAYERS</text>
+<text x="434" y="90" font-size="9">dark = charcoal, green = crushed</text>
+<text x="434" y="101" font-size="9">malachite · hand-size lumps</text>
+<ellipse cx="320" cy="165" rx="72" ry="18" fill="#c96a2e" stroke="#16130e" stroke-width="1.5"/>
 <text x="320" y="169" text-anchor="middle" font-size="9" font-weight="bold">MOLTEN ZONE ~1,100–1,200 °C</text>
 <rect x="288" y="183" width="64" height="15" fill="#8f3b2d"/>
-<text x="320" y="194" text-anchor="middle" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.6">blister Cu</text>
+<text x="320" y="194" text-anchor="middle" font-size="9" fill="#fff" stroke="#16130e" stroke-width="0.6">raw Cu</text>
 <rect x="180" y="140" width="60" height="18" fill="#9a927e" stroke="#16130e" stroke-width="1.5" transform="rotate(-20 210 149)"/>
 <text x="136" y="122" font-size="9" font-weight="bold">TUYÈRE</text>
 <text x="136" y="133" font-size="9">bellows air in low</text>
@@ -262,28 +269,28 @@ body {
 <text x="470" y="164" font-size="9" font-weight="bold">SLAG TAP</text>
 <text x="470" y="175" font-size="9">drain waste, keep metal</text>
 <line x1="450" y1="168" x2="470" y2="168" stroke="#16130e" stroke-width="1.5"/>
-<path d="M310,50 Q320,30 330,50" fill="none" stroke="#8a6d1f" stroke-width="1.5"/>
+<line x1="320" y1="30" x2="320" y2="42" stroke="#16130e" stroke-width="1.5"/><polygon points="316,42 324,42 320,49" fill="#16130e"/>
 <text x="345" y="40" font-size="9" font-style="italic">charge from top, exhaust escapes</text>
 <text x="90" y="200" font-size="9">clay-lined shaft</text>
 <text x="90" y="210" font-size="9">~60–100 cm tall</text>
 <line x1="170" y1="197" x2="222" y2="190" stroke="#16130e" stroke-width="1.5"/>
 </svg>
-<figcaption><strong>Figure 10.1.</strong> The shaft furnace is a chimney that concentrates bellows air where it matters. Ore and charcoal enter the top; air enters low through the clay tuyère; dense copper pools at the bottom while lighter slag floats and is tapped off. slag left inside poisons the batch — tapping is the skill.</figcaption>
+<figcaption><strong>Figure 10.1.</strong> The shaft furnace is a chimney that concentrates bellows air where it matters. Ore and charcoal enter the top; air enters low through the clay tuyère; dense copper pools at the bottom while lighter slag floats and is tapped off. Slag left inside poisons the batch — tapping is the skill.</figcaption>
 </figure>
 
 <h2 id="ch10_copper_bronze-101-native-copper-and-first-melting">10.1 Native Copper and First Melting</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> copper melting pairs 1,085 °C metal with charcoal CO and crucible failure — odorless gas pools low, molds spit steam when damp, and dropped crucibles splash molten metal meters. Melt only ventilated with dry molds and tools, preheat everything the metal touches, wear face and leather cover, and carry full crucibles on practiced paths with spill sand staged.</p>
-<p>Some copper occurs as pure metal in rock. Hammered cold, it work-hardens into tools; heated and quenched, it softens again (annealing). Melting point 1,085 °C is achievable with charcoal + bellows in a ceramic crucible (<a href="ch05.html">Ch 5</a>) — and molten copper pours into stone or clay molds, replicating any shape indefinitely.</p>
-<p><strong>Field identification:</strong> native copper appears as dendritic (branching) masses or rounded nuggets in basalt cavities, often with green carbonate staining nearby. The staining is the prospecting signal — follow green/blue rock paint uphill to the lode (<a href="ch13.html">Ch 13</a>). Cold-hammer a flake: copper flattens without cracking (unlike pyrite or mica, which shatter or flake). Anneal at dull red (~600 °C) whenever hammering stiffens the piece; quench in water — unlike steel, quenching softens copper.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> copper melting pairs 1,085 °C metal with charcoal CO and crucible failure — odorless CO builds up in still air, molds spit steam when damp, and dropped crucibles splash molten metal meters. Melt only ventilated with dry molds and tools, preheat everything the metal touches, wear face and leather cover, and carry full crucibles on practiced paths with spill sand staged.</p>
+<p>Some copper occurs as native metal in rock. Hammering cold work-hardens it; heating to a dull red (~500–700 °C) recrystallises and softens it again (annealing). Unlike steel, copper does not harden when quenched, so the cooling rate after annealing matters little — smiths often quench simply to save time. Do not carry this habit over to steel, where quenching is the hardening step (<a href="ch14.html">Ch 14</a>). Melting point 1,085 °C is achievable with charcoal, bellows, and a suitable ceramic crucible (<a href="ch05.html">Ch 5</a>); molten copper can then be poured into dry molds.</p>
+<p><strong>Field identification:</strong> native copper appears as dendritic (branching) masses or rounded nuggets, often with green carbonate staining nearby. Staining helps locate a copper occurrence but does not by itself trace a lode. Cold-hammer a sample: copper deforms plastically, whereas pyrite and mica fracture differently. Anneal whenever the metal stiffens or starts to crack under the hammer.</p>
 <h2 id="ch10_copper_bronze-102-smelting-ore">10.2 Smelting Ore</h2>
 <p>Native copper runs out fast; the real supply is ore (malachite, azurite — green/blue stained rocks, easy to spot). Smelting chemistry: carbon + heat strips oxygen from the mineral.</p>
 <ul>
 <li>Furnace: clay-lined shaft, charcoal charge alternating with crushed ore, tuyère blowing air in low.</li>
-<li>Reactions run around 1,100–1,200 °C; product is impure "blister" copper plus slag (molten rock waste). Slag tapping (a hole slag can flow from, kept above the metal) is the key furnace trick — slag left inside poisons the batch.</li>
+<li>Reactions run around 1,100–1,200 °C; product is impure raw ("black") copper plus slag (molten rock waste); the term "blister copper" properly belongs to converting sulfide matte. Slag tapping (a hole slag can flow from, kept above the metal) is the key furnace trick — slag left inside poisons the batch.</li>
 <li>Refine by remelting; stir with green wood poles ("poling") to remove absorbed oxygen.</li>
 </ul>
-<p><strong>Reference smelt (small shaft, one afternoon):</strong> ~10 kg charcoal + ~5 kg roasted malachite/azurite crushed to hazelnut size, charged in alternating handfuls over ~3 hours with continuous bellows (two operators alternating). Expect ~0.8–1.2 kg blister copper (~50–60 % recovery on rich ore) plus a tapped slag cake. Losses go to fume, slag entrapment, and spilled prills — crush and re-smelt old slag before discarding it; ancients routinely left 1–2 % copper in "waste" that repays reworking.</p>
-<p class="co co-dead"><strong>Dead end avoided:</strong> sulfide ores (chalcopyrite — brassy, smells of sulfur when roasted). They demand roasting + matte conversion + converting — three extra operations. Mark the outcrop, walk away, and smelt oxide/carbonate ores first. Return to sulfides only with <a href="ch22.html">Ch 22</a>-grade draft and acid handling (<a href="ch21.html">Ch 21</a>).</p>
+<p><strong>Reference smelt (small shaft, one afternoon):</strong> ~10 kg charcoal + ~5 kg roasted malachite/azurite crushed to hazelnut size, charged in alternating handfuls over ~3 hours with continuous bellows (two operators alternating). Expect ~0.8–1.2 kg raw copper (~50–60 % recovery on rich ore) plus a tapped slag cake. Losses go to fume, slag entrapment, and spilled prills — crush and re-smelt old slag before discarding it; ancients routinely left 1–2 % copper in "waste" that repays reworking.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> sulfide ores (chalcopyrite — brassy, smells of sulfur when roasted). They demand roasting, matte smelting, and converting — three extra operations. Mark the outcrop, walk away, and smelt oxide/carbonate ores first. Return to sulfides only with <a href="ch22.html">Ch 22</a>-grade draft and acid handling (<a href="ch21.html">Ch 21</a>).</p>
 <h2 id="ch10_copper_bronze-103-alloy-design-bronze">10.3 Alloy Design: Bronze</h2>
 <p>Pure copper is soft and casts poorly (gassy, shrinkage-prone). Tin fixes both:</p>
 <div class="table-wrap"><table>
@@ -308,7 +315,7 @@ body {
 <tr>
 <td>Arsenical bronze</td>
 <td>Cu + As impurities</td>
-<td>the accidental earlier version; arsenic fumes poisoned its own smiths</td>
+<td>the accidental earlier version; arsenic fume is a real hazard to the smith (§10.6, §10.7)</td>
 </tr>
 </tbody>
 </table></div>
@@ -333,11 +340,11 @@ body {
 <p class="co co-key"><strong>Key threshold:</strong> hardness jumps make axes, chisels, saws, and swords hold edges through real work — bronze tooling accelerates every craft in Parts I–II, including quarrying the stone that builds the kilns that smelt more metal. Metallurgy bootstraps itself here.</p>
 <p><strong>Lost-wax in 7 steps:</strong> (1) sculpt wax model with pouring cup and vents; (2) coat in fine clay slip, then coarse clay + dung shell; (3) dry slowly (rush = cracks); (4) invert and bake — wax melts out (~100 °C) and mold fires (~700 °C); (5) preheat mold to dull red and pour bronze at bright orange (~1,050–1,100 °C); (6) cool, break mold; (7) cut off gates, hammer-harden edges. One mold = one object; bivalve stone molds pay off only above ~20 repeats.</p>
 <h2 id="ch10_copper_bronze-104-why-bronze-is-a-trap-without-tin-geography">10.4 Why Bronze Is a Trap Without Tin Geography</h2>
-<p>Tin deposits are rarer than gold's cousin minerals — Cornwall, Iberia, Anatolia, Malaysia. Bronze-age civilizations built thousand-kilometer tin trade routes; when the network broke (~1200 BCE), bronze-age states fell with it. Strategic lesson:</p>
+<p>Workable tin deposits are rare and clustered — Cornwall, Iberia, the Erzgebirge, Central Asia, and Southeast Asia. Bronze-age civilizations built thousand-kilometer tin trade routes; when the network broke (~1200 BCE), bronze-age states fell with it. Strategic lesson:</p>
 <blockquote>
 <p>A core industry dependent on imports you cannot defend is a standing vulnerability.</p>
 </blockquote>
-<p class="co co-jump"><strong>Jump:</strong> once furnace craft exists, push directly toward bloomery iron (<a href="ch14.html">Ch 14</a>). Iron ores are everywhere — often surface bog iron and hematite sands — and iron's final superiority (hardness, abundance) retires bronze within a generation. Keep bronze only for cast art, bearings-bronze, and corrosion-prone marine fittings where it genuinely outperforms. Historical detour skipped: roughly two millennia of tin-route geopolitics.</p>
+<p class="co co-jump"><strong>Jump:</strong> once furnace craft exists, push directly toward bloomery iron (<a href="ch14.html">Ch 14</a>). Iron ores are everywhere; bog iron and hematite sands often lie at the surface. Abundance is what let iron displace bronze for most tools over a few centuries. Hardness came later, once smiths could carburize and quench it — plain wrought iron is softer than work-hardened bronze. Keep bronze for cast art, bearings, and marine fittings, where it resists the corrosion that eats iron. Historical detour skipped: roughly two millennia of tin-route geopolitics.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -375,9 +382,9 @@ body {
 <p>Treat copper/bronze as metallurgy's training wheels: ride them hard, drop them early.</p>
 <h2 id="ch10_copper_bronze-106-the-metallurgical-record">10.6 The Metallurgical Record</h2>
 <ul>
-<li><strong>Native-copper cold working</strong> appears by ~9000–8000 BCE (Çayönü, Çatalhöyük bead finds) — hammering before smelting by six millennia.</li>
+<li><strong>Native-copper cold working</strong> appears by ~9000–8000 BCE (Çayönü, Çatalhöyük bead finds) — hammering before smelting by three millennia or more.</li>
 <li>Smelting's earliest claimed evidence sits at <strong>Belovode (Serbia, ~5000 BCE)</strong> — slag analyses published 2010 argue for Balkan-first copper smelting; dating and interpretation remain argued among archaeometallurgists.</li>
-<li><strong>Arsenical copper</strong> dominated early alloys not by design but by ore chemistry — arsenic-rich ores simply made harder metal; the smiths who noticed the correlation gained an edge, and arsenic fumes poisoned some of them (documented skeletal pathologies).</li>
+<li><strong>Arsenical copper</strong> dominated early alloys not by design but by ore chemistry — arsenic-rich ores simply made harder metal; the smiths who noticed the correlation gained an edge; arsenic fume was a real occupational hazard, though skeletal evidence for poisoned smiths remains thin.</li>
 <li>The <strong>Uluburun shipwreck (~1320–1300 BCE)</strong> is the era's balance sheet in one hold: ~10 tonnes of copper ingots plus ~1 tonne of tin — demonstrating that bronze production ran on specialized maritime logistics long before anyone wrote about it. Oxhide-ingot shapes standardized across the Aegean-to-Levant circuit.</li>
 <li><strong>The Late Bronze Age collapse (~1200–1150 BCE)</strong> — palace economies falling across the Eastern Mediterranean alongside disrupted tin networks — is the historical case study for this chapter's warning about import-dependent core industries. Ironworking rose in its aftermath partly because the old bronze supply chains no longer existed to be defended.</li>
 </ul>
@@ -390,7 +397,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch11.html" class="reader-nav-link">Chapter 11 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

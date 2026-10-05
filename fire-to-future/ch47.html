@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,18 +237,17 @@ body {
 <main class="reader-content">
 <h1 id="ch47_institutions-chapter-47-the-invisible-machine-institutions-law-finance-logistics-statistics">Chapter 47: The Invisible Machine: Institutions, Law, Finance, Logistics, Statistics</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1300 double-entry → present · <strong>Difficulty:</strong> high
-<br><strong>Requires:</strong> <a href="ch11.html">Ch 11</a>, <a href="ch12.html">Ch 12</a>, <a href="ch09.html">Ch 9</a> · <br><strong>Unlocks:</strong> scale itself — every physical chapter compounds only as far as this layer holds</p>
+<p><strong>Era span:</strong> 1300 double-entry → present · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch09.html">Ch 9</a>, <a href="ch11.html">Ch 11</a>, <a href="ch12.html">Ch 12</a><br><strong>Unlocks:</strong> <a href="ch51.html">Ch 51</a></p>
 </blockquote>
 <p>The book's closing thesis: organizational technology IS technology. It compounds like capital, decays without maintenance, and gates every hardware ladder in Parts I–V. A civilization with jet engines and corrupt courts is weaker than one with railways and honest ledgers. This chapter catalogs the load-bearing institutional inventions.</p>
 <h2 id="ch47_institutions-471-double-entry-bookkeeping">47.1 Double-Entry Bookkeeping</h2>
 <p>Amatino's manuscript (1300) → Pacioli's printed treatise (1494): every transaction posts twice (debit/credit); books must balance BY CONSTRUCTION.</p>
 <ul>
-<li>Integrity check built into the format — errors and theft surface as imbalances.</li>
-<li>Enabled partnership at distance: investors could trust accounts they never watched; Medici-scale banking, joint ventures, colonial companies all ride it.</li>
-<li>Auditing, depreciation, accrual concepts grew from this root into modern finance's grammar.
-Doctrine: measurement integrity precedes capital accumulation — always.</li>
+<li><strong>Arithmetic integrity:</strong> every transaction has equal debits and credits, so accidental imbalance is visible. That does not prove honesty: false transactions can balance, and collusion can hide in apparently correct entries.</li>
+<li><strong>Distance support:</strong> standardised accounts made partnership and oversight across distance easier; they did not replace independent audit, custody, law, or trust.</li>
+<li>Modern accounting also requires controlled chart of accounts, source documents, reconciliation, inventory, valuation, depreciation policy, and audit evidence. Those are institutional controls, not automatic consequences of double entry.</li>
 </ul>
+<p>Doctrine: measurement integrity precedes capital accumulation — always.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Double entry balance schematic">
 <title>Double entry balance schematic</title>
@@ -264,10 +265,10 @@ Doctrine: measurement integrity precedes capital accumulation — always.</li>
 <text x="480" y="111" text-anchor="middle" font-size="10">capital invested</text>
 <line x1="260" y1="95" x2="380" y2="95" stroke="#2e5b34" stroke-width="2"/>
 <text x="320" y="90" text-anchor="middle" font-size="12" font-weight="bold" fill="#2e5b34">=</text>
-<text x="320" y="155" text-anchor="middle" font-size="10">imbalance = error or theft, surfaced by construction (Pacioli 1494)</text>
+<text x="320" y="155" text-anchor="middle" font-size="10">imbalance exposes arithmetic error; balanced fraud still needs audit</text>
 <text x="320" y="172" text-anchor="middle" font-size="10" font-weight="bold">Distant partners trust books they never watch — Medici scale rides this.</text>
 </svg>
-<figcaption><strong>Figure 47.1.</strong> Post twice or post nothing: each transaction names where value came from and where it went. The books balance by construction — the gap between the columns is where fraud and error go to be found.</figcaption>
+<figcaption><strong>Figure 47.1.</strong> Double entry makes arithmetic imbalance visible and supports comparison. It does not detect every balanced error or fraudulent entry; reconciliation, custody, supporting documents, independent audit, and accountability remain necessary.</figcaption>
 </figure>
 
 <h2 id="ch47_institutions-472-the-corporation">47.2 The Corporation</h2>
@@ -286,8 +287,8 @@ Doctrine: measurement integrity precedes capital accumulation — always.</li>
 <h2 id="ch47_institutions-474-money-architecture-and-central-banking">47.4 Money Architecture and Central Banking</h2>
 <p><a href="ch09.html">Ch 9</a> built money; this builds its institutions:</p>
 <ul>
-<li>Central banks standardize note issue, clear interbank obligations, and act as lender-of-last-resort (Bagehot's rule: lend freely, against good collateral, at penalty rates) — panics shortened from decades-long depressions to sharp recessions where this works.</li>
-<li>Monetary integrity doctrine (<a href="ch09.html">§9.4</a>) remains binding across all regimes; debasement by printing is just debasement with extra steps.</li>
+<li>Central banks standardize note issue, clear interbank obligations, and act as lender-of-last-resort (Bagehot's rule: lend freely, against good collateral, at penalty rates) — panics shortened from years-long depressions to sharp recessions where this works.</li>
+<li>Monetary regimes differ in what backs money, who controls supply, how banks are supervised, and how inflation is measured. Coin debasement and money creation are not economically identical, but both can erode trust if the unit changes faster than people can adjust. Integrity means transparent rules, credible constraints, and accountable institutions—not a claim that one monetary design fits every situation.</li>
 </ul>
 <h2 id="ch47_institutions-475-patents-and-innovation-incentives">47.5 Patents and Innovation Incentives</h2>
 <p>Statute of Monopolies (1624) → patent bargain: disclose your invention publicly in exchange for time-limited exclusivity.</p>
@@ -304,7 +305,7 @@ Doctrine: measurement integrity precedes capital accumulation — always.</li>
 <h2 id="ch47_institutions-477-statistics-as-statecraft">47.7 Statistics as Statecraft</h2>
 <ul>
 <li>Censuses (Domesday 1086 → modern bureaus): knowing what exists is governing's prerequisite.</li>
-<li>Sampling theory (Gosset's Guinness t-test — brewing quality control birthed modern statistics), randomized trials generalized from medicine (<a href="ch31.html">§31.3</a>) to policy experiments (A/B testing as mass practice).</li>
+<li>Sampling theory (Gosset's Guinness t-test — brewing quality control birthed modern statistics), randomized trials generalized from medicine (<a href="ch31.html#ch31_medicine-313-the-laboratory-turn">§31.3</a>) to policy experiments (A/B testing as mass practice).</li>
 <li><strong>Goodhart's law:</strong> when a measure becomes a target, it ceases to be a good measure — metric gaming is THE systemic risk of managed organizations. Countermeasure: multiple metrics, adversarial review, ground-truth audits.</li>
 <li>Economic national accounts (GDP et al., 1930s–40s): wars and depressions got managed better once measured coherently.</li>
 </ul>
@@ -313,9 +314,9 @@ Doctrine: measurement integrity precedes capital accumulation — always.</li>
 <li>Standardization cascades: screw threads (<a href="ch15.html">Ch 15</a>), rail gauges (<a href="ch24.html">Ch 24</a>), container dimensions.</li>
 <li><strong>Containerization (McLean, 1956):</strong> standardized steel boxes + purpose-built ships/cranes/ports cut loading labor from armies-of-dockers-days to crane-hours; global manufacturing fragmentation, just-in-time supply chains, and food trade (<a href="ch32.html">Ch 32</a>) all became arithmetic instead of adventure.</li>
 </ul>
-<p><em>Taught, not just named</em> — the mechanism was standardizing an <strong>interface</strong>, not inventing a machine: one box geometry means every crane, truck chassis, rail well car, and ship cell accepts every box without touching its contents. Deployment steps: (1) fix the interface first — ISO 668 dimensions (20-ft / 40-ft lengths) and corner castings that mate standard twistlocks; (2) retool the handling chain around that interface — shore gantry cranes, cell-hulled ships, chassis fleets — before building more boxes; (3) move the paperwork at box speed: manifests digitized so cargo documentation stops being the bottleneck the box removed. Documented numbers (Levinson, <em>The Box</em>, the book's standing source above): break-bulk longshore loading cost about <strong>US$5.86 per ton</strong> in the pre-container 1950s; containerized handling ran about <strong>US$0.16 per ton</strong> — the order-of-magnitude claim made arithmetic. Failure modes: adopting boxes without locking the interface standard (rival company geometries) rebuilds break-bulk costs inside steel walls; automating cranes before manifests leaves clerks as the choke point. Argue it straight: the container is trade's transistor.</p>
+<p><em>Taught, not just named</em> — the mechanism was standardizing an <strong>interface</strong>, not inventing a machine: one box geometry means every crane, truck chassis, rail well car, and ship cell accepts every box without touching its contents. Deployment steps: (1) fix the interface first — ISO 668 dimensions (20-ft / 40-ft lengths) and corner castings that mate standard twistlocks; (2) retool the handling chain around that interface — shore gantry cranes, cell-hulled ships, chassis fleets — before building more boxes; (3) move the paperwork at box speed: manifests digitized so cargo documentation stops being the bottleneck the box removed. Documented numbers (Levinson, <em>The Box</em>; see §47.12): break-bulk longshore loading cost about <strong>US$5.86 per ton</strong> in the pre-container 1950s; containerized handling ran about <strong>US$0.16 per ton</strong> — the order-of-magnitude claim made arithmetic. Failure modes: adopting boxes without locking the interface standard (rival company geometries) rebuilds break-bulk costs inside steel walls; automating cranes before manifests leaves clerks as the choke point. Argue it straight: the container is trade's transistor.</p>
 <h2 id="ch47_institutions-479-law-infrastructure">47.9 Law Infrastructure</h2>
-<p>Property registries (who owns what, verifiable), contract enforcement (predictability &gt; content — merchants choose boring reliable courts over brilliant capricious ones), independent adjudication (rulings bind the powerful or markets stay local). Institutional quality is measurable: enforcement-speed surveys predict investment flows better than resource endowments do.</p>
+<p>Property registries (who owns what, verifiable), contract enforcement (predictability &gt; content — merchants choose boring reliable courts over brilliant capricious ones), independent adjudication (rulings bind the powerful or markets stay local). Institutional quality is measurable: contract-enforcement speed and property-registry reliability are among the better predictors of investment flows, often outweighing resource endowments.</p>
 <h2 id="ch47_institutions-4710-failure-modes-catalog">47.10 Failure Modes Catalog</h2>
 <div class="table-wrap"><table>
 <thead>
@@ -354,12 +355,12 @@ Doctrine: measurement integrity precedes capital accumulation — always.</li>
 </tbody>
 </table></div>
 <h2 id="ch47_institutions-4711-closing-synthesis">47.11 Closing Synthesis</h2>
-<p>Every physical ladder in this book — fire to fusion — stands ON this software-of-society layer. Institutions set the compounding rate of knowledge; knowledge sets the pace of every chapter before this one. Planetary dominance, operationally defined, is matching physical capability to institutional capability: energy mastery, food security, global communication/navigation, space access — all wrapped in self-repairing truth-seeking institutions. Build both ladders together or neither stands.</p>
-<p><strong>Final threshold:</strong> when institutions correct errors faster than they commit them, the civilization becomes antifragile — that feedback property, not any single invention, is what "dominating a planet" actually means.</p>
+<p>Every capability in this book stands on an institutional layer. Institutions determine whether knowledge can be preserved, funded, taught, deployed, and corrected. A resilient civilisation matches physical capability with food security, energy and transport systems, public health, communications, standards, maintenance, and institutions able to investigate failure. Build technical and institutional capability together; neither is self-executing.</p>
+<p class="co co-key"><strong>Capability gate:</strong> the book's final gate is institutional. Resilient institutions detect error, investigate it, correct it, and preserve evidence without pretending failure did not occur. That is adaptive learning and accountability. It is not automatically “antifragility”—a system becomes antifragile only if specified stressors produce a measurable benefit rather than merely bounded loss.</p>
 <h2 id="ch47_institutions-4712-the-institutional-papers">47.12 The Institutional Papers</h2>
 <ul>
-<li>Pacioli's <em>Particularis computis et scripturis</em> (1494) printed bookkeeping inside a mathematics encyclopedia — accounting diffused as math, not commerce law. The Medici and double-entry rose together; auditors appeared wherever partners couldn't watch partners.</li>
-<li><strong>VOC (1602)</strong> pioneered permanent capital and tradable shares on the Amsterdam bourse — liquidity itself was the invention. Tulip-era futures (1636–37) produced spectacular collapses later moderated by archival work (Goldgar showed most traders were wealthy professionals, not maids and cobblers) — bubbles are real; their folklore needs footnoting. The Newton-lost-£20,000-in-South-Sea line remains unverified anecdote; print it as legend or not at all.</li>
+<li>Pacioli's <em>Particularis de computis et scripturis</em> (1494) printed bookkeeping inside a mathematics encyclopedia — accounting diffused as math, not commerce law. The Medici and double-entry rose together; auditors appeared wherever partners couldn't watch partners.</li>
+<li><strong>VOC (1602)</strong> pioneered permanent capital and tradable shares on the Amsterdam bourse — liquidity itself was the invention. Tulip-era futures (1636–37) produced spectacular collapses later moderated by archival work (Goldgar showed most traders were wealthy professionals, not maids and cobblers) — bubbles are real; their folklore needs footnoting. Newton's heavy South Sea losses are supported by archival work (Odlyzko, 2019); the "madness of people" quotation attached to them remains unsourced — print it as legend or not at all.</li>
 <li>Lloyd's List has published shipping intelligence continuously since 1734; insurance's actuarial core (Halley's 1693 Breslau life table) predates its coffeehouse mythology.</li>
 <li>Bagehot's rule (1873) — lend freely, at penalty rates, against good collateral — remains central-banking's operating manual; FDIC deposit insurance (Banking Act 1933) largely ended retail bank runs; Bretton Woods (July 1944) fixed exchange rates until August 15, 1971 (the Nixon shock) — monetary regimes have lifespans, and planning should assume them.</li>
 <li>Historian's correction worth printing: <strong>systematic peer review is younger than assumed</strong> — the Royal Society used referees informally, formalizing review mostly across the 20th century; "peer review = science since Newton" is retrospective myth. Gosset published as "Student" because Guinness forbade employee names in print — industrial secrecy shaping statistical history's most famous pseudonym.</li>
@@ -415,6 +416,7 @@ Doctrine: measurement integrity precedes capital accumulation — always.</li>
 </ol>
 <p class="co co-key"><strong>Key threshold:</strong> a process "in control" is not necessarily good — it is predictable. Predictability is the precondition; capability (tolerance vs ±3σ̂) is the product. Charts make the difference measurable instead of rhetorical.</p>
 <p class="co co-dead"><strong>Dead end avoided:</strong> inspection-heavy regimes that sort good parts from bad after manufacture. Sorting pays scrap costs forever; control charts attack the variation producing the scrap — the entire economic argument Shewhart made to Western Electric's accountants.</p>
+<p><strong>When each period yields one value</strong> (one smelt per day, one weekly fuel-per-ton figure — the <a href="ch14.html">Ch 14</a> and <a href="ch22.html">Ch 22</a> cases): rational subgroups of five do not exist, so use an <strong>individuals and moving-range (I-MR) chart</strong>. Plot each value; the moving range MR is the absolute difference between successive values. With mean X̄ and mean moving range MR̄, the individuals limits are X̄ ± <strong>2.66 × MR̄</strong> and the moving-range upper limit is <strong>3.267 × MR̄</strong>. Baseline on 20–25 values, apply the same run rules, and recompute only after a logged change.</p>
 <p><strong>When there is no dimension to measure</strong> (pass/fail outcomes — castings cracked, lots rejected): tally defects per constant unit of production and chart counts on the same ±3σ̂ logic (c-chart for defects per unit, p-chart for proportion rejected) — constants differ, discipline identical. The X̄–R pair above remains the teaching case because continuous measurements carry the most information per observation.</p>
 </main>
 <nav class="reader-bottom-nav">
@@ -422,7 +424,7 @@ Doctrine: measurement integrity precedes capital accumulation — always.</li>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch48.html" class="reader-nav-link">Chapter 48 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

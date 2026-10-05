@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,10 +237,10 @@ body {
 <main class="reader-content">
 <h1 id="ch50_naval_power-chapter-50-naval-power-galleys-to-missile-age">Chapter 50: Naval Power: Galleys to Missile Age</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> Salamis 480 BCE → present · <strong>Difficulty:</strong> high
-<br><strong>Requires:</strong> <a href="ch03.html">Ch 3</a> sail canvas, <a href="ch17.html">Ch 17</a>/<a href="ch21.html">21</a> materials, <a href="ch23.html">Ch 23</a>/<a href="ch24.html">24</a> marine engineering, <a href="ch34.html">Ch 34</a>/<a href="ch35.html">35</a> electronics · <br><strong>Unlocks:</strong> global power projection, <a href="ch51.html">Ch 51</a></p>
+<p><strong>Era span:</strong> Salamis 480 BCE → present · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch03.html">Ch 3</a>, <a href="ch17.html">Ch 17</a>, <a href="ch21.html">Ch 21</a>, <a href="ch23.html">Ch 23</a>, <a href="ch24.html">Ch 24</a>, <a href="ch34.html">Ch 34</a>, <a href="ch35.html">Ch 35</a><br><strong>Unlocks:</strong> <a href="ch51.html">Ch 51</a><br><strong>Annex status:</strong> optional; outside the core reconstruction sequence<br><strong>Data snapshot:</strong> volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</p>
 </blockquote>
-<p>Seventy percent of Earth's surface is water, and whoever commands it moves armies, food, fuel, and trade — or denies the same to rivals. Naval history is a 2,500-year engineering dialectic: platform vs weapon, armor vs gun, hull vs sea state. This chapter covers the lineage at textbook depth.</p>
+<p>Earth's surface is mostly water, and control of sea lanes can move or deny armies, food, fuel, and trade. Naval history is a long engineering dialectic: platform versus weapon, armour versus gun, and hull versus sea state. This optional annex covers that lineage at textbook depth.</p>
+<p class="co co-gate"><strong>Annex competence gate:</strong> historical and engineering context only. Hull and weapons design, construction, repair, navigation, marine engineering, explosive handling, sensors, communications, and military maritime operations require qualified, licensed specialists, classified or controlled technical information where applicable, written procedures, and applicable law.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Armor versus gun spiral timeline">
 <title>Armor versus gun spiral timeline</title>
@@ -321,10 +323,10 @@ body {
 <h2 id="ch50_naval_power-503-the-ironclad-revolution">50.3 The Ironclad Revolution</h2>
 <p>Two technologies collided mid-19th century:</p>
 <ol>
-<li><strong>Paixhans shell guns (1820s):</strong> explosive shells that shattered wooden hulls (demonstrated at Navarino 1827; decisively at Sinope, November 1853, when Russian shells destroyed an Ottoman wooden squadron — the event that electrified Europe).</li>
+<li><strong>Paixhans shell guns (1820s):</strong> explosive shells that shattered wooden hulls (test-fired against a hulk in 1824; decisively at Sinope, November 1853, when Russian shells destroyed an Ottoman wooden squadron — the event that electrified Europe).</li>
 <li><strong>Industrial iron:</strong> plate rolling (<a href="ch22.html">Ch 22</a>) and marine engines.</li>
 </ol>
-<p>Answers followed within years: France's <em>Gloire</em> (1859, wooden-hulled ironclad) provoked Britain's HMS <em>Warrior</em> (1860, iron hull). The American Civil War staged the first ironclad-vs-ironclad duel — USS <em>Monitor</em> (turret-mounted guns, revolving!) vs CSS <em>Virginia</em> at Hampton Roads (March 8–9, 1862) — tactically a draw, doctrinally a verdict: wooden battle fleets were obsolete everywhere, instantly.</p>
+<p>Answers followed within years: France's <em>Gloire</em> (1859, wooden-hulled ironclad) provoked Britain's HMS <em>Warrior</em> (1860, iron hull). The American Civil War staged the first ironclad-vs-ironclad duel — USS <em>Monitor</em> (turret-mounted guns, revolving!) vs CSS <em>Virginia</em> at Hampton Roads (March 8–9, 1862) — tactically a draw, doctrinally a verdict: wooden battle fleets' days were numbered, and navies stopped building them within a few years.</p>
 <p>Then the spiral ran: thicker compound armor → heavier guns → steel armor Harvey/Krupp cemented processes → bigger guns again, with stability lessons priced in wrecks (HMS <em>Captain</em> capsized 1870 — low freeboard plus sail masts plus turret weight; naval architecture learned center-of-gravity discipline the hard way).</p>
 <h2 id="ch50_naval_power-504-the-dreadnought-race">50.4 The Dreadnought Race</h2>
 <p>HMS <em>Dreadnought</em> (completed 1906) reset everything: uniform battery of ten 12-inch guns (salvo fire easier to spot/correct than mixed calibers), steam turbines (<a href="ch23.html">Ch 23</a> lineage), ~21 knots. Every existing battleship became "pre-dreadnought" overnight — and every major power started building anew:</p>
@@ -337,7 +339,7 @@ body {
 <ul>
 <li>USS <em>Langley</em> (converted collier, commissioned 1922) began US naval aviation; <em>Lexington</em>-class conversions and interwar <strong>Fleet Problems</strong> (Pacific war games) taught US aviators carrier tactics years before any war — peacetime experimentation done right, worth emulating in any rebuild.</li>
 <li><strong>Pearl Harbor (December 7, 1941)</strong> — six Japanese carriers, ~350 aircraft — demonstrated the carrier strike's reach against a fleet at anchor (and accidentally proved the carrier thesis: US carriers were at sea).</li>
-<li><strong>Coral Sea (May 1942):</strong> first battle where opposing fleets never sighted each other — strikes crossed, losses counted in flight decks. One month of repair arithmetic later, <strong>Midway (June 4–7, 1942)</strong>: US codebreakers read Japanese intentions (combat intelligence as force multiplier — <a href="ch51.html">Ch 51</a>); three dive-bomber squadrons caught four Japanese carriers rearming and sank all four within minutes. The Pacific war became a carrier-and-logistics contest thereafter.</li>
+<li><strong>Coral Sea (May 1942):</strong> first battle where opposing fleets never sighted each other—strikes crossed and losses were counted mainly on flight decks. One month later, <strong>Midway (June 4–7, 1942):</strong> US codebreakers supplied crucial intent information; dive bombers wrecked three Japanese fleet carriers within minutes on the morning of June 4 and a fourth that afternoon. The Pacific war became a carrier-and-logistics contest thereafter.</li>
 <li>Production decided it: Essex-class fleet carriers (commissioned through 1942–46 in double digits), escort carriers convoying against U-boats, and pilot-training pipelines out-producing Axis attrition.</li>
 </ul>
 <figure class="fig">
@@ -355,6 +357,8 @@ body {
 <g fill="#2e5b34" stroke="#16130e" stroke-width="1.5">
 <circle cx="400" cy="88" r="8"/><circle cx="430" cy="88" r="8"/><circle cx="460" cy="88" r="8"/><circle cx="415" cy="108" r="8"/><circle cx="445" cy="108" r="8"/>
 </g>
+<g fill="#2f5286" stroke="#16130e" stroke-width="1"><polygon points="384,66 390,72 384,78 378,72"/><polygon points="478,64 484,70 478,76 472,70"/><polygon points="380,106 386,112 380,118 374,112"/><polygon points="476,106 482,112 476,118 470,112"/></g>
+<text x="488" y="116" font-size="8.5" font-style="italic" fill="#2f5286">escorts</text>
 <line x1="472" y1="88" x2="561" y2="88" stroke="#16130e" stroke-width="1.5"/>
 <polygon points="561,82 561,94 570,88" fill="#16130e"/>
 <text x="480" y="130" text-anchor="middle" font-size="9">escorts + air (Ultra, radar,</text>
@@ -362,16 +366,16 @@ body {
 <text x="320" y="165" text-anchor="middle" font-size="10">line of battle → convoys → carrier task forces: GROUPED force survives, loners don't</text>
 <text x="320" y="182" text-anchor="middle" font-size="10" font-weight="bold">Peacetime Fleet Problems beat wartime first contact — rehearse before needing it.</text>
 </svg>
-<figcaption><strong>Figure 50.2.</strong> Scattered merchants die one by one; convoyed merchants share escorts, air cover, and intelligence — losses invert. The line of battle, the convoy, and the carrier task force are one principle in three centuries of hulls.</figcaption>
+<figcaption><strong>Figure 50.2.</strong> Convoys trade some spatial dispersion for shared escorts, communications, air cover, and recovery capacity. Scattered shipping can evade some threats but spends more on each defence. Concentration, dispersion, and escort density are system choices, not one universal law.</figcaption>
 </figure>
 
 <h2 id="ch50_naval_power-506-submarines-the-blockade-weapon">50.6 Submarines: The Blockade Weapon</h2>
 <ul>
 <li>Early experiments: <em>Turtle</em> (Bushnell, 1776, hand-cranked, failed attack), Confederate <em>H.L. Hunley</em> (1864 — sank USS <em>Housatonic</em> by spar torpedo; itself lost with crew, after earlier sinkings had already killed crews twice: the machine's danger preceded its targets).</li>
-<li>John Holland's gasoline-then-electric boats (US Navy accepted Holland VI, 1900) set the modern template: surface diesel cruising, submerged batteries, torpedo tubes.</li>
-<li>WWI: Germany's unrestricted submarine warfare (1917) sank merchant tonnage faster than Allies could build — until the <strong>convoy system</strong> (escorted groups, defended by destroyers/Q-ships and eventually aircraft) reversed the exchange rate. Lesson institutionalized forever: dispersed shipping dies, grouped shipping lives (Lanchester-style concentration logic at sea).</li>
+<li>John Holland's gasoline-then-electric boats (US Navy accepted Holland VI, 1900) set the modern template: an engine for surface cruising (gasoline at first, diesel soon after), batteries submerged, torpedo tubes.</li>
+<li>WWI: Germany's unrestricted submarine warfare (1917) sank merchant tonnage faster than Allies could build — until the <strong>convoy system</strong> (escorted groups, defended by destroyers/Q-ships and eventually aircraft) reversed the exchange rate. Lesson institutionalized: against submarines of that era, escorted convoys fared far better than independent sailings (see §50.8 for when dispersion wins instead).</li>
 <li>WWII Atlantic: wolfpack coordinated attacks against convoys; Allied counters stacked up — Ultra decrypts of Enigma traffic (<a href="ch51.html">Ch 51</a>), centimetric airborne radar (<a href="ch34.html">Ch 34</a> magnetron lineage), Leigh-light illuminations, escort carriers, and simply building merchant tonnage faster than it sank (US Liberty ships: 2,710 built). The Atlantic was won by cryptography, radar physics, and shipyard throughput simultaneously.</li>
-<li>Nuclear submarines: USS <em>Nautilus</em> (commissioned 1954 — first nuclear propulsion; surfaced at the North Pole August 3, 1958, crossing under the ice), then ballistic-missile submarines (USS <em>George Washington</em>, first deterrent patrol November 1960) created the survivable second-strike leg of nuclear deterrence (<a href="ch51.html">Ch 51</a>). Air-independent conventional subs (Stirling/AIP) keep diesel boats relevant in littoral waters.</li>
+<li>Nuclear submarines: USS <em>Nautilus</em> (commissioned 1954 — first nuclear propulsion; passed submerged beneath the North Pole on August 3, 1958), then ballistic-missile submarines (USS <em>George Washington</em>, first deterrent patrol November 1960) created the survivable second-strike leg of nuclear deterrence (<a href="ch51.html">Ch 51</a>). Air-independent conventional subs (Stirling/AIP) keep diesel boats relevant in littoral waters.</li>
 </ul>
 <div class="table-wrap"><table>
 <thead>
@@ -407,8 +411,8 @@ body {
 <h2 id="ch50_naval_power-507-missiles-networks-and-the-modern-question">50.7 Missiles, Networks, and the Modern Question</h2>
 <ul>
 <li>Anti-ship missiles ended the armored-gunship era's assumptions: Exocet hits on HMS <em>Sheffield</em> and Atlantic Conveyor (Falklands, May 1982) showed small platforms threatening capital ships; the US Navy answered with layered defense — Aegis combat system (SPY-1 phased-array radar + Standard missiles, operational 1983) integrating fleet air defense computationally (<a href="ch42.html">Ch 42</a>-style networking avant la lettre), CIWS radar-directed Gatlings as last-ditch layer.</li>
-<li>Carrier aviation remains unmatched for mobile airpower projection; missile-age debates (long-range anti-ship ballistics/hypersonics vs carrier defense chains) are the current round of the same dialectic this chapter has tracked since Salamis. Unmanned surface and underwater vehicles are entering the cycle now.</li>
-<li>Amphibious warfare's engineering peaks: Gallipoli (1915) as anatomy of failure (no surprise, no landing craft doctrine, stalemate ashore mirroring the Western Front); Normandy (June 6, 1944) as counter-example — Mulberry artificial harbors, PLUTO fuel pipeline, ~156,000 troops landed the first day behind the greatest logistics rehearsal in history (<a href="ch24.html">Ch 24</a>, <a href="ch51.html">Ch 51</a>).</li>
+<li>Carrier aviation remains the principal means of mobile airpower projection at sea; missile-age debates (long-range anti-ship ballistics/hypersonics vs carrier defense chains) are the current round of the same dialectic this chapter has tracked since Salamis. Unmanned surface and underwater vehicles are entering the cycle now.</li>
+<li>Amphibious warfare's engineering peaks: Gallipoli (1915) as anatomy of failure (no surprise, no landing craft doctrine, stalemate ashore mirroring the Western Front); Normandy (June 6, 1944) as counter-example — Mulberry artificial harbors, PLUTO fuel pipeline, ~156,000 troops landed the first day behind one of the largest logistics rehearsals in history (<a href="ch24.html">Ch 24</a>, <a href="ch51.html">Ch 51</a>).</li>
 </ul>
 <pre><code>LAYERED DEFENSE (out → in): satellites/cues → CAP fighters → Aegis/Standard →
    ESSM medium → CIWS Gatling → decoys/chaff — no single layer asked to be perfect
@@ -416,19 +420,19 @@ body {
 <h2 id="ch50_naval_power-508-engineering-principles-extracted">50.8 Engineering Principles Extracted</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> warships concentrate fuel, magazine, and crew in one steel box — cordite fires flash through handling rooms, fuel oil spreads fire across water, and submarines trade every surface risk for drowning. Flood and vent on drill timing, segregate magazines with flash-tight scuttles, bond fueling rigs, and rehearse abandon-ship and damage-control until dark and silent; never stow charges outside magazines for convenience.</p>
 <ol>
-<li><strong>Concentration beats dispersion</strong> — line of battle, convoys, task forces; the math has held across oars, sail, coal, oil, and missiles.</li>
+<li><strong>Concentration and dispersion answer different risks.</strong> Task forces concentrate combat power; convoys pool escorts and intelligence; dispersed movement can complicate targeting and reduce common-mode loss. The optimum depends on communications, sensors, geography, cargo, adversary, and failure recovery.</li>
 <li><strong>Armor-vs-ordnance spirals resolve toward either speed or sensors</strong>, never thickness alone.</li>
-<li><strong>Logistics range defines strategy:</strong> coal stations built empires; oil conversion (Britain, 1912–14 decision under Fisher/Churchill, tied to Persian supply) extended range and doubled fleet speed margins while creating fuel-dependence vulnerabilities — energy choices are strategic choices (<a href="ch43.html">Ch 43</a>).</li>
+<li><strong>Logistics range defines strategy:</strong> coal stations built empires; oil conversion (Britain, 1912–14 decision under Fisher/Churchill, tied to Persian supply) added several knots, extended range, and cut stokers' labour while creating fuel-dependence vulnerabilities — energy choices are strategic choices (<a href="ch43.html">Ch 43</a>).</li>
 <li><strong>Peacetime experimentation wins wartime first contact:</strong> Fleet Problems, wargames, and honest postmortems are cheaper than sunk fleets.</li>
 </ol>
-<p class="co co-key"><strong>Key threshold:</strong> a civilization able to build and sustain blue-water fleets can project force globally; historically only such civilizations reached for — or defended against — planetary-scale dominance (<a href="appendix-d.html">Appendix D</a>).</p>
+<p class="co co-key"><strong>Capability gate:</strong> sustained blue-water fleets require coordinated shipbuilding, ports, repair, navigation, finance, training, supply, and crew institutions. They enable global projection and long-distance trade, but are neither necessary nor sufficient for a resilient technological civilisation (<a href="appendix-d.html">Appendix D</a>).</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch49.html" class="reader-nav-link">← Chapter 49</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch51.html" class="reader-nav-link">Chapter 51 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

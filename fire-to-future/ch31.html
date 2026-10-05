@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch31_medicine-chapter-31-clinical-medicine-anesthesia-vaccines-antibiotics">Chapter 31: Clinical Medicine: Anesthesia, Vaccines, Antibiotics</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1846 ether → 1960s golden age · <strong>Difficulty:</strong> high
-<br><strong>Requires:</strong> <a href="ch30.html">Ch 30</a> aseptic base, <a href="ch21.html">Ch 21</a>/<a href="ch28.html">28</a> chemical industry · <br><strong>Unlocks:</strong> surgery as routine care, pandemic defense, biotech platform (<a href="ch44.html">Ch 44</a>)</p>
+<p><strong>Era span:</strong> 1846 ether → 1960s golden age · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch21.html">Ch 21</a>, <a href="ch28.html">Ch 28</a>, <a href="ch30.html">Ch 30</a><br><strong>Unlocks:</strong> <a href="ch44.html">Ch 44</a></p>
 </blockquote>
 <p>Where <a href="ch30.html">Ch 30</a> saved populations, this chapter saves individuals: painless surgery, immune memory on demand, and chemical weapons against infection. Together they convert medicine from consolation into engineering.</p>
 <figure class="fig">
@@ -264,26 +265,26 @@ body {
 <line x1="425" y1="115" x2="503" y2="110" stroke="#16130e" stroke-width="1.5"/>
 <text x="320" y="212" text-anchor="middle" font-size="10" font-style="italic">selective toxicity: hit what bacteria own and human cells lack — wall, ribosome, DNA machinery</text>
 </svg>
-<figcaption><strong>Figure 31.1.</strong> Four target families, one principle: attack structures humans lack or use differently. Resistance defeats each family separately — which is why narrow-spectrum choice and full courses (§31.4) are technology, not etiquette.</figcaption>
+<figcaption><strong>Figure 31.1.</strong> Four target families, one principle: attack structures humans lack or use differently. Resistance defeats each family separately — which is why narrow-spectrum choice and evidence-based duration (§31.4) are technology, not etiquette.</figcaption>
 </figure>
 
 <h2 id="ch31_medicine-311-anesthesia">31.1 Anesthesia</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> anesthesia trades pain for a managed airway on the edge of death — ether flashes near cautery, chloroform stops hearts without a watcher, and every agent obstructs breathing when unwatched. Keep ether from flame and cautery, assign a dedicated watcher with pulse and airway duty, position airways and ready resuscitation at every stage, and use chloroform only with continuous monitoring per the ladder below.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> anaesthesia is a clinical emergency-service capability, not a workshop procedure. Airway obstruction, aspiration, hypotension, arrhythmia, incompatibility, equipment failure, and fire or explosion can kill a patient. Anaesthesia, surgery, resuscitation, and drug administration require licensed clinicians, trained assistants, appropriate equipment and drugs, monitoring, recovery care, and current professional protocols. The historical sequence below explains why modern anaesthesia became safer; it is not an operating instruction.</p>
 <p>Surgery before 1846 was speed competition — amputations timed in seconds, survival hinged on shock and blood loss. Nitrous oxide (1844) then ether (Morton, 1846) and chloroform changed the profession's physics:</p>
 <ul>
 <li>Ether/oxygen vapor delivery with airway management; chloroform potent but arrhythmia-prone (<strong>Dead end avoided:</strong> unmonitored chloroform for routine cases — cardiac arrest killed patients on tables).</li>
 <li>Anesthesia's real gift: TIME. Surgeons could plan anatomy instead of racing it; abdominal/thoracic surgery becomes possible at all.</li>
 <li>Asepsis (Lister's carbolic acid, 1865 → gloves/masks/sterile theater) made opened bodies survivable; anesthesia + antisepsis = modern surgery.</li>
 </ul>
-<p><strong>Anesthetic ladder (build in order):</strong> ether drop-mask (simple, forgiving, flammable — no cautery nearby) → nitrous + ether sequences → chloroform only with dedicated watcher and pulse monitoring → spinal/local (cocaine → procaine derivatives) for limbs and childbirth → modern vaporizers + oxygen + suction once machining (<a href="ch15.html">Ch 15</a>) allows. Every stage needs the same three companions: airway positioning, vital-sign watching, and resuscitation readiness — the watcher is the machine.</p>
+<p><strong>Historical capability sequence:</strong> inhaled anaesthetics made surgery practical but introduced airway, volatility, fire, and toxicity problems; local anaesthetics, sterilisation, monitoring, mechanical ventilation, oxygen, suction, and modern vapour delivery improved safety. A rebuilding health system should prioritise trained personnel, sterile supplies, basic airway/resuscitation capability, oxygen, suction, and referral before adding a wider drug formulary. Drug identity, dose, interaction, ventilation, and monitoring follow current clinical guidance.</p>
 <h2 id="ch31_medicine-312-vaccination">31.2 Vaccination</h2>
 <p>Exploit immune memory deliberately:</p>
 <ul>
 <li><strong>Variolation → vaccination:</strong> Jenner (1796) used milder cowpox to protect against smallpox — risk arithmetic (controlled exposure vs epidemic roulette) accepted empirically two centuries before mechanism.</li>
 <li><strong>Attenuation (Pasteur):</strong> aged/exposed cultures lose virulence while keeping antigenicity — rabies/anthrax vaccines follow deliberate lab logic, not luck.</li>
 <li><strong>Taxonomy by approach:</strong> live attenuated (strong, durable immunity), killed/inactivated (safer, weaker), toxoids (detoxified exotoxins — diphtheria/tetanus), subunit/conjugate (purified pieces, carrier proteins boost infant response). Each class trades efficacy vs safety differently; match to disease severity.</li>
-<li><strong>Cold chain</strong> discipline (refrigeration, <a href="ch26.html">Ch 26</a>) and record-keeping (<a href="ch11.html">Ch 11</a>) decide whether campaigns work in the field.</li>
-<li>Smallpox eradication (1980) via ring vaccination — surveillance + targeted response — remains the proof that organization outperforms technology alone.</li>
+<li><strong>Cold chain</strong> discipline (§31.7) and record-keeping (<a href="ch11.html">Ch 11</a>) decide whether campaigns work in the field.</li>
+<li>Smallpox eradication (last natural case 1977, certified 1980) via ring vaccination — surveillance + targeted response — remains the proof that organization outperforms technology alone.</li>
 </ul>
 <div class="table-wrap"><table>
 <thead>
@@ -330,7 +331,7 @@ body {
 <h2 id="ch31_medicine-313-the-laboratory-turn">31.3 The Laboratory Turn</h2>
 <p>Medicine becomes measurement:</p>
 <ul>
-<li>Blood typing (Landsteiner, ABO 1901): transfusion moves from russian-roulette therapy to routine; citrate anticoagulation enables stored blood banks — battlefield medicine transformed.</li>
+<li>Blood typing (Landsteiner, ABO 1901): transfusion moves from Russian-roulette therapy to routine; citrate anticoagulation enables stored blood banks — battlefield medicine transformed.</li>
 <li>Clinical chemistry (blood glucose, urea), X-ray imaging (1895, immediate adoption), ECG (1903): diagnosis gains objective instruments (<a href="ch20.html">Ch 20</a> culture imported wholesale).</li>
 <li><strong>Randomized controlled trials:</strong> streptomycin TB trial (1948) set the template — randomize, control, blind where possible, predefine endpoints. RCTs are medicine's quality-control system, the epistemic machinery separating treatment from tradition.</li>
 </ul>
@@ -352,16 +353,16 @@ body {
 <rect x="230" y="92" width="160" height="44" rx="6" fill="#f9eeec" stroke="#8f3b2d" stroke-width="2"/>
 <text x="310" y="109" text-anchor="middle" font-size="10" font-weight="bold">CONTROL ARM</text>
 <text x="310" y="122" text-anchor="middle" font-size="9">standard care / placebo</text>
-<polygon points="230,54 230,66 238,60" fill="#16130e"/>
-<polygon points="230,99 230,111 238,105" fill="#16130e"/>
+<polygon points="222,54 222,66 230,60" fill="#16130e"/>
+<polygon points="222,99 222,111 230,105" fill="#16130e"/>
 <rect x="420" y="55" width="180" height="81" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
 <text x="510" y="72" text-anchor="middle" font-size="10" font-weight="bold">COMPARE, BLINDED</text>
 <text x="510" y="85" text-anchor="middle" font-size="9">same follow-up, same measures</text>
 <text x="510" y="98" text-anchor="middle" font-size="9">analyze as randomized</text>
 <text x="510" y="111" text-anchor="middle" font-size="9">publish all outcomes</text>
 <g stroke="#16130e" stroke-width="1.5">
-<line x1="390" y1="60" x2="420" y2="75"/><polygon points="420,69 420,81 428,75" fill="#16130e"/>
-<line x1="390" y1="114" x2="420" y2="100"/><polygon points="420,94 420,106 428,100" fill="#16130e"/>
+<line x1="390" y1="60" x2="420" y2="75"/><polygon points="412,69 412,81 420,75" fill="#16130e"/>
+<line x1="390" y1="114" x2="420" y2="100"/><polygon points="412,94 412,106 420,100" fill="#16130e"/>
 </g>
 <text x="320" y="160" text-anchor="middle" font-size="10">RANDOMIZE = the only fair coin; without it, keen doctors give the new drug to the hopeful cases</text>
 <text x="320" y="177" text-anchor="middle" font-size="10" font-weight="bold">Predefine endpoints. Blind assessors. Never move the goalposts after seeing data.</text>
@@ -371,7 +372,7 @@ body {
 
 <p><strong>Bedside-test cascade (cheap → dear):</strong> temperature/pulse/respiration chart → urine dip → blood smear under <a href="ch19.html">Ch 19</a> bead microscope → culture on solid media → chemistry/X-ray/ECG. Treat in that order; instruments confirm judgment, never replace observation.</p>
 <h2 id="ch31_medicine-314-antibiotics">31.4 Antibiotics</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> antibiotics and anesthetics kill when dosed by guess — wrong drug, allergy, or interaction closes airways and stops hearts, and partial courses breed resistant killers that outlive the patient. Culture first, weigh and chart every dose, screen allergy and interactions, monitor airway and vitals throughout, and complete narrow-spectrum courses per the binding stewardship doctrine below; log every prescription and outcome.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> antibiotics kill when selected, dosed, or combined with other drugs by guess. Allergy, renal/hepatic impairment, interactions, pregnancy, age, infection site, resistance, and delayed source control matter. Diagnosis and culture can guide therapy, but treatment may need to begin before results return. A trained prescriber selects the drug, dose, route, and <strong>evidence-based duration</strong>, monitors response and adverse effects, and reviews the plan. Do not use leftover stock, share courses, or self-treat.</p>
 <p>The discovery arc matters as much as the drugs:</p>
 <ul>
 <li>Fleming (1928): mold contaminant lyses staphylococci — noted, parked.</li>
@@ -379,7 +380,7 @@ body {
 <li>Streptomycin (1943, Waksman actinomycete screening): systematic soil-microbe prospecting replaces luck — the antibiotic GOLDEN AGE follows (chloramphenicol, tetracyclines, macrolides within a decade).</li>
 <li>Mechanism classes: cell-wall synthesis blockers (beta-lactams), protein-synthesis inhibitors (aminoglycosides/tetracyclines/macrolides), DNA-replication blockers (quinolones), membrane disruptors (polymyxins).</li>
 </ul>
-<p><strong>Resistance doctrine (binding, learned expensively since):</strong> antibiotics select for resistant survivors whenever exposure is partial or casual. Stewardship rules: correct drug/dose/duration, narrow-spectrum when possible, complete courses, never routine growth-promotion use in livestock, surveillance of resistance patterns (<a href="ch47.html">Ch 47</a> data systems). Resistance evolution is faster than discovery pipelines — stewardship IS the technology.</p>
+<p><strong>Resistance doctrine (binding, learned expensively since):</strong> antibiotics select for resistance whenever susceptible organisms survive exposure. Stewardship means correct indication, agent, dose, route, and duration; source control; de-escalation when cultures justify it; surveillance; and prevention of unnecessary exposure. “Always finish the course” is not a universal rule—the right duration depends on drug, infection, host, response, and current evidence. Never use antibiotics as routine growth promotion in livestock. Stewardship is a clinical and agricultural system, not one slogan.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -390,9 +391,9 @@ body {
 </thead>
 <tbody>
 <tr>
-<td>Stopped course early</td>
-<td>Survivors = least susceptible</td>
-<td>Full duration, observed where possible</td>
+<td>Treatment stopped or changed without review</td>
+<td>Residual infection plus selection pressure</td>
+<td>Reassess diagnosis, source control, drug, dose, and evidence-based duration</td>
 </tr>
 <tr>
 <td>Broad-spectrum for narrow bug</td>
@@ -439,7 +440,7 @@ body {
 <tr>
 <td>Pellagra (niacin)</td>
 <td>Corn without alkali treatment</td>
-<td>Nixtamalize (<a href="ch07.html">Ch 7</a>) or fortify meal</td>
+<td>Nixtamalize — cook maize in limewater, as Mesoamerica always did (<a href="ch07.html">Ch 7</a> §7.8) — or fortify meal</td>
 </tr>
 <tr>
 <td>Rickets (D)</td>
@@ -461,31 +462,31 @@ body {
 <li>Antibiotics under written stewardship from day one — no era of careless abundance exists anymore; you inherit the post-resistance world directly.</li>
 <li>Trials culture everywhere: every new protocol earns adoption through §31.3's machinery.</li>
 </ol>
-<p><strong>Herd-threshold guide:</strong> measles ~92–95 %, polio/diphtheria ~80–85 %, smallpox ~80 % with rings. Below threshold, outbreaks find the unvaccinated — including infants too young for shots. Coverage maps (<a href="ch11.html">Ch 11</a> registers) are the campaign's instrument panel.</p>
+<p><strong>Coverage planning:</strong> herd-immunity thresholds depend on pathogen, reproductive number, vaccine effectiveness, population structure, and immunity from prior infection. Ring vaccination and mass campaigns solve different problems. Use current disease-specific targets and coverage maps (<a href="ch11.html">Ch 11</a> registers); do not reuse one numeric threshold across measles, polio, diphtheria, or smallpox.</p>
 <h2 id="ch31_medicine-317-the-cold-chain">31.7 The Cold Chain</h2>
 <p class="co co-hazard"><strong>Operational hazard:</strong> the cold chain fails silently — frozen adsorbed vaccines and heat-killed potencies look identical to good stock, and one unlogged truck leg wastes a region's campaign. Log temperature continuously at every link, attach indicators to every shipment, quarantine and test on any excursion, and fail loudly rather than shipping suspect vials.</p>
 <p>Temperature control is medicine infrastructure (<a href="ch43.html">Ch 43</a> builds the machinery):</p>
 <ul>
-<li><strong>Vaccines</strong> live in narrow temperature windows (typically 2–8 °C); freezing ruins adsorbed vaccines, heat kills potency silently. Cold boxes with ice packs, temperature indicators on every shipment, and written excursion protocols decide campaign success more than any laboratory.</li>
+<li><strong>Vaccines and biologic products</strong> have product-specific temperature ranges. Many refrigerated vaccines use 2–8 °C, some are freeze-sensitive, and others require frozen or ultra-cold storage. A universal 2–8 °C label is wrong. Maintain product specifications, calibrated monitoring, qualified excursions, and documented quarantine/release procedures.</li>
 <li><strong>Blood products:</strong> +2–6 °C, 35–42 day shelf life citrated; platelets need room temperature with agitation — blood banking is logistics under strict thermal law.</li>
 <li><strong>Insulin, biologics, reagents</strong> all ride the same chain; a single unmonitored truck leg can destroy a regional program.</li>
 <li>Doctrine: every cold-chain link carries continuous temperature logging (<a href="ch20.html">Ch 20</a>) and fails LOUDLY. Silent failure is the enemy.</li>
 </ul>
-<pre><code>MANUFACTURER (2–8 °C) → REFRIGERATED TRUCK (logger) → DISTRICT STORE (alarm fridge)
+<pre><code>MANUFACTURER (product-specific range) → REFRIGERATED TRUCK (logger) → DISTRICT STORE (alarm fridge)
         → COLD BOX + ICE (outreach) → HEALTH POST (thermometer twice daily)
         → SESSION (shade, foam pad, vial monitor checked) → CHILD
 </code></pre>
-<p class="co co-key"><strong>Key threshold:</strong> maternal and infant mortality falling below ~1 % of births marks a medical system actually functioning — track those two numbers as the system's dashboard.</p>
+<p><strong>Health-system dashboard:</strong> track maternal, neonatal, and under-five mortality separately, alongside age- and cause-specific data, coverage, supply continuity, antimicrobial use, and access. A single combined “below 1 %” threshold hides too much and is not a general measure of system quality.</p>
 <h2 id="ch31_medicine-318-the-medical-record">31.8 The Medical Record</h2>
 <ul>
 <li>Anesthesia priority: Crawford Long used ether surgically in Georgia in 1842 but published nothing until 1849; Morton's public 1846 demonstration took the world stage. Publish or be a footnote — the rule applies to scalpels too.</li>
 <li><strong>Chloroform à la Reine:</strong> John Snow administered chloroform to Queen Victoria for Prince Leopold's birth (1853); religious and obstetric objections collapsed behind a palace delivery. One documented adoption case did what decades of data hadn't.</li>
-<li><strong>Lister's first case:</strong> James Greenlees, compound femur fracture, Glasgow Royal Infirmary 1865 — carbolic dressings, uninfected healing. The Lancet's skepticism ran years anyway; antisepsis spread continent-by-continent against professional pride, another Semmelweis-pattern with a happier ending.</li>
+<li><strong>Lister's first case:</strong> James Greenlees, aged 11, compound fracture of the leg, Glasgow Royal Infirmary 1865 — carbolic dressings, uninfected healing. The Lancet's skepticism ran years anyway; antisepsis spread continent-by-continent against professional pride, another Semmelweis-pattern with a happier ending.</li>
 <li><strong>Salvarsan (606), 1910:</strong> Ehrlich's organoarsenic syphilis cure — the first systematic screen-and-synthesize chemotherapy ("magic bullet"), numbering compounds literally by trial count.</li>
 <li><strong>Insulin, January 11, 1922:</strong> Leonard Thompson, 14, received the first injection at Toronto General. The 1923 Nobel went to Banting and Macleod; Banting shared his prize money with Best, Macleod with Collip — the awarding committee's choices remain one of medicine's most argued honor disputes.</li>
 <li><strong>Penicillin's scarcity tragedy, documented:</strong> the Oxford team's first patient, policeman Albert Alexander (1941), improved dramatically until the precious drug ran out — they filtered his urine to recover it; he relapsed and died. Deep-tank fermentation at Pfizer's Brooklyn plant (1943) converted the shortage into mass supply within two years.</li>
 <li><strong>Credit mechanics:</strong> streptomycin was isolated by graduate student Albert Schatz in Waksman's lab (1943); Schatz sued for recognition and settled (1950) as co-discoverer with royalties — authorship disputes are institutional-design failures, not personality flaws.</li>
-<li>Smallpox eradication closed October 26, 1977 (Ali Maow Maalin, Merca, Somalia — the last natural case); D.A. Henderson's WHO campaign spent roughly $300 million total and returns its cost every few weeks in forgone vaccination programs alone. Ring surveillance beat mass campaigns where health systems were thin — organization beating budget.</li>
+<li>Smallpox eradication closed October 26, 1977 (Ali Maow Maalin, Merca, Somalia — the last natural case); D.A. Henderson's WHO campaign spent roughly $300 million in total; the United States alone was estimated to recoup its contribution every few weeks in forgone vaccination costs. Ring surveillance beat mass campaigns where health systems were thin — organization beating budget.</li>
 </ul>
 </main>
 <nav class="reader-bottom-nav">
@@ -493,7 +494,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch32.html" class="reader-nav-link">Chapter 32 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

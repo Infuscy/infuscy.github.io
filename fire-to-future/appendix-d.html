@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Appendix D — The Minimum Viable Industrial Stack — Fire to Future</title>
+<title>Appendix D — Scenario-Dependent Capability Stack — Fire to Future</title>
 <style>
 
 :root {
@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -233,113 +235,185 @@ body {
   <span class="reader-progress">Appendix D of 7</span>
 </div>
 <main class="reader-content">
-<h1 id="appendix_D_minimum_viable_stack-appendix-d-the-minimum-viable-industrial-stack">Appendix D — The Minimum Viable Industrial Stack</h1>
+<h1 id="appendix_D_minimum_viable_stack-appendix-d-scenario-dependent-capability-stack">Appendix D — Scenario-Dependent Capability Stack</h1>
 <blockquote class="meta">
-<p>The ~16 load-bearing technologies for PLANETARY DOMINANCE — not comfort. Each entry: function, gated-by, gates, and collapse consequence.</p>
+<p>There is no single “minimum stack for dominating a planet.” A settlement, regional workshop network, industrial state, and global civilisation need different capabilities at different scales. This appendix identifies load-bearing capabilities and the failure consequences of losing them, then groups them by plausible starting scenarios.</p>
 </blockquote>
-<h2 id="appendix_D_minimum_viable_stack-d0-what-dominating-a-planet-means-operationally">D.0 What "Dominating a Planet" Means Operationally</h2>
-<p>Not flags on maps. Five measurable capabilities:</p>
+<h2 id="appendix_D_minimum_viable_stack-d0-capability-tiers">D.0 Capability Tiers</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Tier</th>
+<th>Goal</th>
+<th>Typical scale assumption</th>
+<th>What success means</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>S — Settlement survival</strong></td>
+<td>Protect people through seasonal cycles</td>
+<td>10,000–50,000 people with local resource access</td>
+<td>Reliable heat, tools, food, water, shelter, basic health, records, repair, and governance</td>
+</tr>
+<tr>
+<td><strong>R — Regional industry</strong></td>
+<td>Sustain workshops and dependable trade</td>
+<td>50,000–500,000 people with usable resources and transport</td>
+<td>Materials, machines, power, manufacturing, public health, education, finance, and maintenance</td>
+</tr>
+<tr>
+<td><strong>I — Industrial civilisation</strong></td>
+<td>Supply cities and advanced institutions</td>
+<td>One million or more people, coordinated resource base</td>
+<td>Mature metallurgy, energy, transport, medicine, computing, standardised production, resilient institutions</td>
+</tr>
+<tr>
+<td><strong>G — Global systems</strong></td>
+<td>Operate planetary-scale services</td>
+<td>Multiple connected industrial regions</td>
+<td>Space access, satellite services, global networks, resilient energy, advanced science, and crisis governance</td>
+</tr>
+</tbody>
+</table></div>
+<p>These are planning scenarios, not claims about “primitive” or “advanced” peoples. A small community can possess high knowledge; a large state can remain institutionally fragile.</p>
+<h2 id="appendix_D_minimum_viable_stack-d1-load-bearing-capabilities">D.1 Load-Bearing Capabilities</h2>
 <ol>
-<li><strong>Energy mastery</strong> — per-capita power at industrial rates, resilient to single failures (<a href="ch43.html">Ch 43</a>).</li>
-<li><strong>Food security</strong> — buffer stocks + yield stability across bad years (<a href="ch32.html">Ch 32</a>).</li>
-<li><strong>Global communication/navigation</strong> — real-time coordination anywhere on the surface (<a href="ch40.html">Ch 40</a>, <a href="ch42.html">42</a>).</li>
-<li><strong>Space access</strong> — the high ground; observation and relay beyond atmosphere (<a href="ch39.html">Ch 39</a>).</li>
-<li><strong>Self-repairing knowledge institutions</strong> — error-correcting governance that outlives individuals (<a href="ch47.html">Ch 47</a>).</li>
+<li><strong>Heat and fire control</strong> — ignition, fuel, ventilation, containment, and safe high-temperature work. Failure blocks ceramics, metallurgy, chemistry, steam, and maintenance.</li>
+<li><strong>Tools, fibres, and material processing</strong> — cutting, cordage, ceramics, glass, paper, polymers, and advanced composites. Failure breaks every downstream process and repair system.</li>
+<li><strong>Food, water, and public health</strong> — agriculture, storage, sanitation, cold chains where needed, and trained health work. Failure raises mortality and interrupts every other capability.</li>
+<li><strong>Records, writing, and calculation</strong> — external memory, standards, contracts, archives, positional arithmetic, and error checking. Failure collapses scale and succession.</li>
+<li><strong>Extraction and primary materials</strong> — mining, timber, ores, salt, fuels, minerals, and managed renewable resources. Failure localises production and raises cost.</li>
+<li><strong>Primary metallurgy and manufacturing quality</strong> — repeatable iron, steel, cement, tools, and inspection. Failure limits loads, transport, energy, and repair.</li>
+<li><strong>Mechanical and thermal power</strong> — water, wind, steam, combustion, and their controls. Failure makes production depend on scarce human or animal labour.</li>
+<li><strong>Electric generation and distribution</strong> — generation, transformers, protection, meters, and maintenance. Failure prevents modern motors, lighting, computing, and electrochemistry at scale.</li>
+<li><strong>Information and measurement</strong> — printing, clocks, balances, optics, instruments, data formats, and standards. Failure prevents comparable experiments and cumulative correction.</li>
+<li><strong>Industrial chemistry and materials supply</strong> — acids, alkalis, fertilisers, polymers, ceramics, gases, and safe waste handling. Failure constrains medicine, agriculture, materials, and maintenance.</li>
+<li><strong>Transport, construction, and logistics</strong> — roads, water, rail, ports, standardised interfaces, warehousing, and recovery routes. Failure isolates production centres and prevents relief distribution.</li>
+<li><strong>Semiconductors, computing, and software</strong> — controlled fabrication, hardware, operating systems, data standards, backups, and cybersecurity. Failure forces lower-scale control and information systems.</li>
+<li><strong>Advanced energy</strong> — grids, storage, dispatchable supply, energy standards, and black-start/restoration. Failure creates cascading loss across industry and public services.</li>
+<li><strong>Biotechnology and automation</strong> — biological platforms and controlled machines can increase capability, but require qualified practitioners, safety, evaluation, and human oversight.</li>
+<li><strong>Orbital and global information infrastructure</strong> — launch, satellites, navigation, weather, communications, and ground segment. Failure removes planetary-scale coordination, not basic civilisation.</li>
+<li><strong>Institutional self-correction</strong> — finance, law, audit, education, maintenance funding, emergency planning, independent review, and truthful records. Failure can disable every physical capability regardless of hardware stock.</li>
 </ol>
-<p>The stack below delivers those five. Lose any node and the ceiling drops accordingly.</p>
-<h2 id="appendix_D_minimum_viable_stack-d1-the-stack">D.1 The Stack</h2>
-<p><strong>1. Fire &amp; heat control</strong> (<a href="ch01.html">Ch 1</a>)
-Function: ignition on demand + engineered temperatures.
-Gates: everything downstream that's hot.
-Collapse consequence: no metallurgy, no chemistry, no glass, no ceramics — instant descent to stone-age ceilings.</p>
-<p><strong>2. Agriculture + storage</strong> (<a href="ch07.html">Ch 7</a>, <a href="ch06.html">6</a>)
-Function: calorie surplus beyond subsistence, preserved through bad seasons.
-Gated by: fire, shelter craft.
-Gates: population density → specialists → everything.
-Collapse: 90 %+ of people return to food production; science/industry starve within a decade.</p>
-<p><strong>3. Writing + positional numerals</strong> (<a href="ch11.html">Ch 11</a>, <a href="ch12.html">12</a>)
-Function: external memory with error correction; algorithmic arithmetic.
-Collapse: knowledge reverts to oral decay curves; engineering math impossible; institutions forget their own rules between generations.</p>
-<p><strong>4. Kiln ceramics</strong> (<a href="ch05.html">Ch 5</a>)
-Function: first controlled-temperature industry; storage vessels; crucibles/tuyères.
-Collapse: metallurgy and chemistry lose their containers; surplus storage fails rodent-proofing.</p>
-<p><strong>5. Iron→steel metallurgy</strong> (<a href="ch14.html">Ch 14</a>, <a href="ch22.html">22</a>, <a href="ch27.html">27</a>)
-Function: abundant strong structural metal at falling cost.
-Collapse: machines, rails, frames, engines all revert to wood/stone limits; energy infrastructure shrinks to charcoal geography.</p>
-<p><strong>6. Mechanical power: water/wind mills → engines</strong> (<a href="ch16.html">Ch 16</a>, <a href="ch23.html">23</a>, <a href="ch29.html">29</a>)
-Function: non-muscle work at kW–MW scale, sited freely once fuel-fired.
-Collapse: labor scarcity caps production; mines flood; transport returns to animal speeds.</p>
-<p><strong>7. Printing + mass literacy</strong> (<a href="ch18.html">Ch 18</a>)
-Function: information cost collapse + exact-copy fidelity including diagrams.
-Collapse: knowledge transmission re-corrupts per copy; science loses its cumulative character; literacy stays elite.</p>
-<p><strong>8. Precision measurement culture</strong> (<a href="ch20.html">Ch 20</a>)
-Function: clocks/balances/scales/standards + method as institutional habit.
-Collapse: interchangeability dies; experiments stop replicating; trade disputes explode over measures; science stalls at natural-history level.</p>
-<p><strong>9. Industrial chemistry: acids/alkalis/explosives</strong> (<a href="ch21.html">Ch 21</a>)
-Function: mining productivity, textile processing, fertilizer precursor industry.
-Collapse: mining slows 10×; fertilizers vanish (see node 12); sanitation chemistry (chlorine) unavailable.</p>
-<p><strong>10. Electricity generation + distribution</strong> (<a href="ch25.html">Ch 25</a>, <a href="ch26.html">26</a>)
-Function: power as universal utility; motors/lighting/electrolysis enabled.
-Collapse: factories revert to line-shafting; cities go dark at dusk; electrolysis industries (aluminum, chlor-alkali) vanish; computing impossible at scale.</p>
-<p><strong>11. Sanitation + germ theory</strong> (<a href="ch30.html">Ch 30</a>)
-Function: cities survivable; epidemic cycles broken.
-Collapse: urban mortality reverts; megacities become death traps; medicine loses its laboratory base.</p>
-<p><strong>12. Synthetic nitrogen fixation</strong> (<a href="ch32.html">Ch 32</a>)
-Function: breaks agriculture's ancient nitrogen ceiling (~half of humanity's food nitrogen).
-Collapse: global food output falls ~30–50 % within seasons; famine politics return permanently until rebuilt.</p>
-<p><strong>13. Semiconductors + computing</strong> (<a href="ch35.html">Ch 35</a>, <a href="ch36.html">36</a>)
-Function: thought automation substrate; control systems for everything modern.
-Collapse: logistics, grids, aircraft, communications all degrade to electromechanical era; AI/biotech chapters close entirely.</p>
-<p><strong>14. Orbital launch + satellites</strong> (<a href="ch39.html">Ch 39</a>, <a href="ch40.html">40</a>)
-Function: navigation, observation, communication from above atmosphere.
-Collapse: GPS-dependent systems (aviation, banking timestamps, grid sync) degrade; weather warning reverts to guesswork; planetary dominance demotes back to regional power status.</p>
-<p><strong>15. Global network fabric</strong> (<a href="ch41.html">Ch 41</a>, <a href="ch42.html">42</a>)
-Function: real-time coordination layer for science/commerce/governance.
-Collapse: collaboration returns to letter-speed; distributed knowledge systems fragment; this book becomes unsharable.</p>
-<p><strong>16. The institutional layer</strong> (<a href="ch47.html">Ch 47</a>)
-Money integrity, double-entry accounting, joint-stock finance, insurance, patent bargain, scientific societies, statistics, containerized logistics, contract law.
-Collapse: every physical ladder above stalls at trust-radius scale. This is the ONLY node whose failure alone can end the civilization — hardware without institutions is loot waiting for a warlord.</p>
-<p><strong>Defense capability note:</strong> military technology is not a separate node because it is DERIVATIVE — steel (5), power (6), chemistry (9), electronics (13), and institutions (16) jointly produce whatever force a civilization needs. <a href="ch48.html">Part VI</a> documents the lineage; this stack produces its inputs. Armament without nodes 1–16 is impossible; with them, it follows.</p>
-<h2 id="appendix_D_minimum_viable_stack-d2-the-8020-audit-if-you-can-fund-only-five">D.2 The 80/20 Audit — If You Can Fund Only Five</h2>
+<h2 id="appendix_D_minimum_viable_stack-d2-scenario-matrix">D.2 Scenario Matrix</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Capability</th>
+<th style="text-align: right;">S — Settlement</th>
+<th style="text-align: right;">R — Regional</th>
+<th style="text-align: right;">I — Industrial</th>
+<th style="text-align: right;">G — Global</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pottery, lime, craft chemistry</td>
+<td style="text-align: right;">essential</td>
+<td style="text-align: right;">industrial scale</td>
+<td style="text-align: right;">advanced</td>
+<td style="text-align: right;">advanced</td>
+</tr>
+<tr>
+<td>Water and waste systems</td>
+<td style="text-align: right;">protected source + simple drains</td>
+<td style="text-align: right;">engineered supply/sewers</td>
+<td style="text-align: right;">monitored networks</td>
+<td style="text-align: right;">interconnected and climate-resilient</td>
+</tr>
+<tr>
+<td>Metallurgy</td>
+<td style="text-align: right;">limited bloomery/copper</td>
+<td style="text-align: right;">repeatable iron</td>
+<td style="text-align: right;">steel + cement</td>
+<td style="text-align: right;">advanced materials and circular supply</td>
+</tr>
+<tr>
+<td>Mechanical power</td>
+<td style="text-align: right;">hand/animal/water</td>
+<td style="text-align: right;">water/wind + steam</td>
+<td style="text-align: right;">electricity and motors</td>
+<td style="text-align: right;">multiple energy and storage systems</td>
+</tr>
+<tr>
+<td>Printing and records</td>
+<td style="text-align: right;">durable ledgers and maps</td>
+<td style="text-align: right;">reproducible print</td>
+<td style="text-align: right;">technical libraries/data</td>
+<td style="text-align: right;">globally interoperable archives</td>
+</tr>
+<tr>
+<td>Medicine and public health</td>
+<td style="text-align: right;">trained first aid, sanitation, maternal care</td>
+<td style="text-align: right;">laboratories, vaccination, cold chain</td>
+<td style="text-align: right;">modern clinical system</td>
+<td style="text-align: right;">networked surveillance and specialist centres</td>
+</tr>
+<tr>
+<td>Transport</td>
+<td style="text-align: right;">walking, animal, water</td>
+<td style="text-align: right;">roads/canals/early rail</td>
+<td style="text-align: right;">integrated freight/aviation</td>
+<td style="text-align: right;">space-enabled global logistics</td>
+</tr>
+<tr>
+<td>Computing</td>
+<td style="text-align: right;">mechanical/early records</td>
+<td style="text-align: right;">electromechanical/relay</td>
+<td style="text-align: right;">electronic systems</td>
+<td style="text-align: right;">distributed high-reliability systems</td>
+</tr>
+<tr>
+<td>Space infrastructure</td>
+<td style="text-align: right;">not required</td>
+<td style="text-align: right;">not required</td>
+<td style="text-align: right;">reconnaissance/communications</td>
+<td style="text-align: right;">launch, satellite networks, weather/navigation</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="appendix_D_minimum_viable_stack-d3-what-the-8020-mistake-would-be">D.3 What the 80/20 Mistake Would Be</h2>
+<p>A single five-node “80/20” list erases the starting scenario. Every society needs heat, food, water, tools, knowledge, and institutions, but the required form changes with scale:</p>
+<ul>
+<li><strong>Settlement first:</strong> fire, tools, fibres, food preservation, pottery, shelter, sanitation basics, records, and local governance.</li>
+<li><strong>Regional industry first:</strong> mining, metallurgy, mechanics, water power, craft chemistry, printing, instruments, and transport.</li>
+<li><strong>Industrial civilisation first:</strong> steel, steam, electricity, public health, chemistry, machine tools, computing, and high-capacity institutions.</li>
+<li><strong>Global systems first:</strong> resilient energy, space infrastructure, networks, advanced materials, and international rules.</li>
+</ul>
+<h2 id="appendix_D_minimum_viable_stack-d4-visual-stack">D.4 Visual Stack</h2>
 <figure class="fig">
-<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Minimum viable stack pyramid">
-<title>Minimum viable stack pyramid</title>
+<svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Scenario-dependent capability stack with institutions surrounding all tiers">
+<title>Scenario-dependent capability stack with institutions surrounding all tiers</title>
 <rect x="0" y="0" width="640" height="215" fill="#fbf9f3"/>
-<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig D.1 — Sixteen nodes, four layers, one wrapping</text>
-<g font-size="9" text-anchor="middle" font-weight="bold">
-<rect x="120" y="40" width="400" height="26" rx="4" fill="#eef5ec" stroke="#2e5b34" stroke-width="1.5"/>
-<text x="320" y="57">PLANETARY: 13 compute · 14 orbit · 15 network (§D.1: 13–15)</text>
-<rect x="140" y="68" width="360" height="26" rx="4" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
-<text x="320" y="85">MODERN: 10 electricity · 11 sanitation · 12 nitrogen</text>
-<rect x="160" y="96" width="320" height="26" rx="4" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
-<text x="320" y="113">INDUSTRY: 5 steel · 6 engines · 7 print · 8 measure · 9 chemistry</text>
-<rect x="180" y="124" width="280" height="26" rx="4" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
-<text x="320" y="141">BASE: 1 fire · 2 food · 3 writing · 4 kilns</text>
-</g>
-<rect x="92" y="32" width="456" height="124" rx="10" fill="none" stroke="#8f3b2d" stroke-width="2"/>
-<rect x="235" y="29" width="170" height="8" fill="#fbf9f3"/>
-<text x="320" y="36" text-anchor="middle" font-size="9" font-weight="bold" fill="#8f3b2d">16 · INSTITUTIONS WRAP ALL</text>
-<text x="320" y="176" text-anchor="middle" font-size="9">failure alone can end it — and the 80/20 five (food, writing, steel, electricity, institutions) come first</text>
-<text x="320" y="190" text-anchor="middle" font-size="9" font-style="italic">defense is derivative (5+6+9+13+16) — [Part VI], not a 17th node</text>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig D.1 — Capability layers; institutions surround every scenario</text>
+<g text-anchor="middle" font-size="9">
+<rect x="120" y="40" width="400" height="26" rx="4" fill="#edf2f9" stroke="#2f5286" stroke-width="1.5"/>
+<text x="320" y="57" font-weight="bold">G · GLOBAL: space · satellite services · global networks</text>
+<rect x="140" y="72" width="360" height="26" rx="4" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
+<text x="320" y="89" font-weight="bold">I · INDUSTRIAL: energy · computing · modern health</text>
+<rect x="160" y="100" width="320" height="26" rx="4" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
+<text x="320" y="117" font-weight="bold">R · REGIONAL: metallurgy · machines · power</text>
+<rect x="180" y="128" width="280" height="26" rx="4" fill="#efe9db" stroke="#16130e" stroke-width="1.5"/>
+<text x="320" y="145" font-weight="bold">S · SETTLEMENT: heat · tools · food · water</text>
+<rect x="92" y="32" width="456" height="132" rx="10" fill="none" stroke="#8f3b2d" stroke-width="2"/>
+<rect x="238" y="29" width="164" height="8" fill="#fbf9f3"/>
+<text x="320" y="36" font-weight="bold" fill="#8f3b2d">INSTITUTIONS + RECORDS + REVIEW</text>
+<text x="320" y="181" text-anchor="middle" font-size="9.5">Defence is optional context, not a seventeenth prerequisite for civilian recovery.</text>
+<text x="320" y="202" text-anchor="middle" font-size="9" font-style="italic">Choose a tier, verify its gates, and do not pretend lower tiers are already complete.</text>
 </svg>
-<figcaption><strong>Figure D.1.</strong> Base survival at the bottom, planetary systems at the top, institutions wrapped around everything. The 80/20 five (food, writing, steel, electricity, institutions) are the layers history failed to re-establish quickly once lost.</figcaption>
+<figcaption><strong>Figure D.1.</strong> Scenario tiers describe different target capabilities, not a hierarchy of human worth. Institutional capability surrounds and sustains every layer.</figcaption>
 </figure>
 
-<ol>
-<li><strong>Agriculture + storage (node 2)</strong> — everything human starts with calories.</li>
-<li><strong>Writing + numerals (node 3)</strong> — memory and arithmetic compound all future effort.</li>
-<li><strong>Iron/steel (node 5)</strong> — the material backbone of tools, energy, construction.</li>
-<li><strong>Electricity (node 10)</strong> — the power universal solvent for every modern capability.</li>
-<li><strong>Institutional layer (node 16)</strong> — the multiplier deciding whether any capability survives contact with human nature.</li>
-</ol>
-<p>Justification: nodes 1, 4, 6, 7, 8 rebuild fastest organically once 1–5 exist; nodes 9–15 are expensive but derivative. The five above are the ones civilizations have historically failed to re-establish quickly once lost.</p>
+<h2 id="appendix_D_minimum_viable_stack-d5-optional-defense-annex">D.5 Optional Defense Annex</h2>
+<p>Chapters 48–51 are not a required seventeenth node. They remain valuable for fortification, emergency organisation, weapons, naval logistics, and the study of military spillovers. Their dependence on core capabilities is real; the reverse dependence is not universal. A resilient civilian recovery plan should not make weapons production a prerequisite for food, health, energy, computing, or governance.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="appendix-c.html" class="reader-nav-link">← Appendix C</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="appendix-e.html" class="reader-nav-link">Appendix E →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

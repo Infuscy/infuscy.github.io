@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch12_mathematics-chapter-12-numbers-geometry-and-practical-mathematics">Chapter 12: Numbers, Geometry, and Practical Mathematics</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> ~3000 BCE → 9th c. CE algebra · <strong>Difficulty:</strong> mid
-<br><strong>Requires:</strong> <a href="ch11.html">Ch 11</a> · <br><strong>Unlocks:</strong> <a href="ch15.html">Ch 15</a> gearing ratios, <a href="ch20.html">Ch 20</a> measurement theory, all engineering thereafter</p>
+<p><strong>Era span:</strong> ~3000 BCE → 9th c. CE algebra · <strong>Difficulty:</strong> mid<br><strong>Requires:</strong> <a href="ch11.html">Ch 11</a><br><strong>Unlocks:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch19.html">Ch 19</a>, <a href="ch46.html">Ch 46</a>, <a href="ch47.html">Ch 47</a></p>
 </blockquote>
 <p>Mathematics is compression for reality: formulas store thousands of measurements in one line. This chapter selects only the mathematics that pays immediate engineering dividends, in dependency order.</p>
 <figure class="fig">
@@ -253,15 +254,15 @@ body {
 <rect x="330" y="46" width="280" height="120" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
 <text x="470" y="66" text-anchor="middle" font-size="11" font-weight="bold">ROMAN (avoid)</text>
 <text x="470" y="88" text-anchor="middle" font-size="14" font-family="Consolas, monospace">CCXLVII × XXXVI</text>
-<text x="470" y="108" text-anchor="middle" font-size="12" font-family="Consolas, monospace">??? (abacus grinding)</text>
-<text x="470" y="128" text-anchor="middle" font-size="14" font-family="Consolas, monospace" font-weight="bold">= DCCCLXXXII? (trust me)</text>
+<text x="470" y="108" text-anchor="middle" font-size="12" font-family="Consolas, monospace">(abacus, then transcribe)</text>
+<text x="470" y="128" text-anchor="middle" font-size="14" font-family="Consolas, monospace" font-weight="bold">= MMMMMMMMDCCCXCII</text>
 <text x="470" y="148" text-anchor="middle" font-size="9" font-style="italic">empire ran logistics on this — at vast labor cost</text>
 </svg>
-<figcaption><strong>Figure 12.1.</strong> Positional notation with zero turns multiplication into a pencil algorithm; additive numerals turn it into a career. Adopt Hindu-Arabic numerals immediately — the three-century European adoption lag was guild protectionism, not pedagogy.</figcaption>
+<figcaption><strong>Figure 12.1.</strong> Positional notation with zero turns multiplication into a pencil algorithm; additive numerals turn it into a career. Adopt Hindu-Arabic numerals early — Europe's slow adoption owed as much to custom, fraud concerns, and guild rules as to any difficulty of teaching.</figcaption>
 </figure>
 
 <h2 id="ch12_mathematics-121-positional-notation-with-zero">12.1 Positional Notation with Zero</h2>
-<p class="co co-jump"><strong>Jump:</strong> adopt base-10 positional notation WITH zero as a placeholder immediately. History's detour: Egyptians used cumbersome unit-fractions, Babylonians lacked a true zero (their 60-base system left gaps), Romans managed empire-scale logistics on additive numerals where multiplication meant repeated abacus grinding. Hindu-Arabic positional arithmetic reduces long multiplication and division to pencil algorithms a child learns — and it is the direct ancestor of binary logic gates (<a href="ch36.html">Ch 36</a>).</p>
+<p class="co co-jump"><strong>Jump:</strong> adopt base-10 positional notation WITH zero as a placeholder immediately. History's detour: Egyptians used cumbersome unit-fractions, Babylonians lacked a true zero (their 60-base system left gaps), Romans managed empire-scale logistics on additive numerals where multiplication meant repeated abacus grinding. Hindu-Arabic positional arithmetic reduces long multiplication and division to pencil algorithms a child learns — and the same place-value idea, in base 2, is how computers represent numbers (<a href="ch36.html">Ch 36</a>).</p>
 <p>Teach in this order:
 1. Place values, carrying/borrowing algorithms.
 2. Fractions AND decimals side by side (decimals for engineering, fractions for exact ratios like gear teeth).
@@ -329,13 +330,15 @@ body {
 <text x="470" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 12.2b — Similar triangles measure far things</text>
 <line x1="350" y1="150" x2="350" y2="60" stroke="#8f3b2d" stroke-width="3"/>
 <text x="336" y="110" text-anchor="end" font-size="10" font-weight="bold" fill="#8f3b2d">TREE?</text>
-<line x1="350" y1="150" x2="600" y2="150" stroke="#16130e" stroke-width="1.5"/>
+<line x1="350" y1="150" x2="620" y2="150" stroke="#16130e" stroke-width="1.5"/>
 <line x1="350" y1="150" x2="530" y2="150" stroke="#16130e" stroke-width="4"/>
-<line x1="560" y1="150" x2="600" y2="150" stroke="#16130e" stroke-width="4"/>
+<line x1="560" y1="150" x2="620" y2="150" stroke="#16130e" stroke-width="4"/>
 <line x1="350" y1="60" x2="530" y2="150" stroke="#2f5286" stroke-width="1.5" stroke-dasharray="4,3"/>
-<line x1="560" y1="130" x2="600" y2="150" stroke="#2f5286" stroke-width="1.5" stroke-dasharray="4,3"/>
-<polygon points="560,150 560,130 580,130 580,150" fill="#fbf9f3" stroke="#16130e" stroke-width="1.5"/>
-<text x="570" y="120" font-size="10">stick (known)</text>
+<line x1="560" y1="120" x2="620" y2="150" stroke="#2f5286" stroke-width="1.5" stroke-dasharray="4,3"/>
+<line x1="560" y1="150" x2="560" y2="120" stroke="#16130e" stroke-width="3"/>
+<text x="560" y="112" text-anchor="middle" font-size="10">stick (known)</text>
+<text x="440" y="143" text-anchor="middle" font-size="9">tree's shadow</text>
+<text x="590" y="162" text-anchor="middle" font-size="9">its shadow</text>
 <text x="455" y="170" text-anchor="middle" font-size="9">tree / its shadow = stick / its shadow</text>
 <text x="455" y="185" text-anchor="middle" font-size="9">same sun angle → same ratio</text>
 <text x="470" y="200" text-anchor="middle" font-size="9" font-style="italic">river widths the same way: baseline + two sightings</text>
@@ -399,13 +402,13 @@ body {
 <li>Record variance, not just averages — two fields averaging equal yields may have wildly different famine risks.</li>
 </ol>
 <p class="co co-dead"><strong>Dead end avoided:</strong> numerology, gematria, and "magic" number mysticism — historically these consumed serious minds (including Pythagoreans') chasing patterns in nothing. Numbers describe; they do not command.</p>
-<p><strong>Sampling drill (granary):</strong> weigh 10 random sacks, mean × count = harvest estimate; spread ÷ √10 = confidence. A clerk who reports "≈ 40 t ± 3" outranks one who reports "about 40" — uncertainty stated IS information delivered.</p>
+<p><strong>Sampling drill (granary):</strong> weigh 10 random sacks; harvest ≈ mean sack weight × number of sacks. The uncertainty is the number of sacks × (standard deviation of the 10 weights ÷ √10); double it for a ~95 % range. A clerk who reports "≈ 40 t ± 3" outranks one who reports "about 40" — uncertainty stated IS information delivered.</p>
 <p class="co co-key"><strong>Key threshold:</strong> a bureaucracy fluent in positional arithmetic, geometry, and proportion can plan multi-year projects, audit honestly, and build true — the cognitive infrastructure every subsequent chapter assumes silently.</p>
 <h2 id="ch12_mathematics-127-the-historical-record">12.7 The Historical Record</h2>
 <ul>
 <li><strong>Babylonian base-60 arithmetic:</strong> the tablet YBC 7289 gives √2 as 1;24,51,10 sexagesimally — 1.41421296…, accurate to five decimal places (~1800–1600 BCE). Plimpton 322's column of near-Pythagorean triples is real; whether it is a trig table or a list of reciprocal exercise pairs is an active scholarly argument.</li>
 <li><strong>Rhind Mathematical Papyrus (~1650 BCE,</strong> copied from an older original<strong>)</strong> teaches unit-fraction methods and practical problem sets — Egyptian pedagogy survives as homework.</li>
-<li><strong>Zero's slow birth:</strong> Babylonians used a placeholder gap by ~300 BCE; a Maya stela carries a zero glyph by ~36 BCE; the Bakhshali manuscript's placeholder dots date in parts to the 3rd–4th century CE; <strong>Brahmagupta (628 CE) states rules treating zero as a NUMBER</strong> (including division puzzles he got half-right) — the conceptual finish line crossed in India, then transmitted west through Arabic mathematics (al-Khwārizmī's ~820 CE <em>al-jabr</em> names algebra itself).</li>
+<li><strong>Zero's slow birth:</strong> Babylonians used a placeholder gap by ~300 BCE; a Long Count date of 36 BCE (Chiapa de Corzo) implies a Mesoamerican zero placeholder, though securely read zero glyphs are centuries later; the Bakhshali manuscript's placeholder dots date in parts to the 3rd–4th century CE; <strong>Brahmagupta (628 CE) states rules treating zero as a NUMBER</strong> (including division puzzles he got half-right) — the conceptual finish line crossed in India, then transmitted west through Arabic mathematics (al-Khwārizmī's ~820 CE <em>al-jabr</em> names algebra itself).</li>
 <li><strong>Fibonacci's <em>Liber Abaci</em> (1202)</strong> carried positional numerals into European commerce — adoption lagged another three centuries in places because guilds banned "ciphers" as fraud-friendly; arithmetic literacy fought cultural immune responses everywhere it landed.</li>
 <li><strong>Applied geometry's scoreboard:</strong> Eratosthenes (~240 BCE) computed Earth's circumference from shadow angles at Alexandria and Syene — landing within a few percent of modern values, modulo which stadium length you assume. Surveyors ("rope-stretchers") rebuilt fields after each Nile flood; the same triangulation logic later mapped continents (<a href="ch20.html">Ch 20</a>).</li>
 </ul>
@@ -417,7 +420,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch13.html" class="reader-nav-link">Chapter 13 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

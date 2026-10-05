@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch09_trade_money-chapter-9-surplus-storage-trade-and-money">Chapter 9: Surplus, Storage, Trade, and Money</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> ~9000 BCE (Jericho) → 17th c. CE institutions · <strong>Difficulty:</strong> low–mid
-<br><strong>Requires:</strong> <a href="ch07.html">Ch 7</a>, <a href="ch08.html">Ch 8</a> · <br><strong>Unlocks:</strong> <a href="ch11.html">Ch 11</a> (records of what money did), <a href="ch47.html">Ch 47</a></p>
+<p><strong>Era span:</strong> ~9000 BCE (Jericho) → 17th c. CE institutions · <strong>Difficulty:</strong> low–mid<br><strong>Requires:</strong> <a href="ch07.html">Ch 7</a>, <a href="ch08.html">Ch 8</a><br><strong>Unlocks:</strong> <a href="ch11.html">Ch 11</a>, <a href="ch24.html">Ch 24</a>, <a href="ch47.html">Ch 47</a>, <a href="ch51.html">Ch 51</a></p>
 </blockquote>
 <p>Money is a technology for moving obligations through time and space without personal trust. Trade is a technology for making one region's surplus cure another's famine. Together they let millions of strangers cooperate — the precondition for every large project in this book, from cathedrals to railroads to space programs.</p>
 <figure class="fig">
@@ -276,9 +277,9 @@ body {
 <text x="568" y="120" font-style="italic">never do this</text>
 </g>
 <g stroke="#16130e" stroke-width="1.5">
-<line x1="128" y1="95" x2="140" y2="95"/><polygon points="140,89 140,101 148,95" fill="#16130e"/>
-<line x1="252" y1="95" x2="264" y2="95"/><polygon points="264,89 264,101 272,95" fill="#16130e"/>
-<line x1="376" y1="95" x2="388" y2="95"/><polygon points="388,89 388,101 396,95" fill="#16130e"/>
+<line x1="128" y1="95" x2="132" y2="95"/><polygon points="132,89 132,101 140,95" fill="#16130e"/>
+<line x1="252" y1="95" x2="256" y2="95"/><polygon points="256,89 256,101 264,95" fill="#16130e"/>
+<line x1="376" y1="95" x2="380" y2="95"/><polygon points="380,89 380,101 388,95" fill="#16130e"/>
 </g>
 <text x="320" y="160" text-anchor="middle" font-size="10">each rung removes a verification cost — coin kills weighing, paper kills carrying</text>
 <text x="320" y="177" text-anchor="middle" font-size="10" font-weight="bold">Monetary integrity outranks every other treasury priority.</text>
@@ -289,7 +290,7 @@ body {
 <h2 id="ch09_trade_money-91-surplus-becomes-wealth">9.1 Surplus Becomes Wealth</h2>
 <p>Grain in a sealed jar (<a href="ch07.html">Ch 7</a>) is the first money-like object: durable, countable, universally wanted. But grain money has physics problems — bulk, rot, rodents. The historical solution set, in rough order of sophistication:</p>
 <ol>
-<li><strong>Commodity money:</strong> standardized units of something scarce and portable — cattle (Latin <em>pecunia</em> = wealth = cattle), salt blocks, metal ingots by weight.</li>
+<li><strong>Commodity money:</strong> standardized units of something scarce and portable — cattle (Latin <em>pecunia</em>, money, comes from <em>pecus</em>, cattle), salt blocks, metal ingots by weight.</li>
 <li><strong>Weight-standardized metal:</strong> silver/copper pieces weighed at each transaction. Metal wins because value density is extreme: a gram of silver ≈ days of labor.</li>
 <li><strong>Stamped coinage (~600 BCE, Lydia):</strong> the state's stamp certifies weight and purity, killing the weighing-and-testing step from every transaction. Liquidity explodes; so does the temptation to debase (see §9.4).</li>
 <li><strong>Representative paper:</strong> warehouse receipts and bills of exchange — claims on real stored goods — which work <em>only</em> when redemption is trustworthy.</li>
@@ -334,7 +335,7 @@ body {
 <li><strong>Portability</strong> (value density)</li>
 <li><strong>Verifiability</strong> (cheap authenticity checks)</li>
 </ul>
-<p>Gold/silver excel on four but are naturally rare everywhere — that scarcity IS the feature. Copper/bronze serve small change. Iron money appears where nothing else exists (Sparta famously) and fails on verifiability.</p>
+<p>Gold/silver excel on four but are naturally rare everywhere — that scarcity IS the feature. Copper/bronze serve small change. Iron money appears where nothing else exists, or where a state wants to discourage hoarding (Sparta famously), and fails on portability — the bars are too heavy for their value.</p>
 <p><strong>Shop tests (touchstone kit):</strong> streak the piece on lydian stone beside a known-good needle; compare color; weigh on the balance (<a href="ch20.html">Ch 20</a>); listen (silver rings, lead thuds); bite nothing — use the stone. Reeded edges (milled ridges) expose clipping at a glance; adopt them with the first die-cutter.</p>
 <h2 id="ch09_trade_money-93-markets-prices-and-specialization">9.3 Markets, Prices, and Specialization</h2>
 <p>A market is an information processor: prices aggregate thousands of local knowledge fragments into one number anyone can read. Consequences to engineer deliberately:</p>
@@ -392,32 +393,31 @@ body {
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Water beats wheels freight diagram">
 <title>Water beats wheels freight diagram</title>
 <rect x="0" y="0" width="640" height="205" fill="#fbf9f3"/>
-<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 9.2 — Freight physics: put bulk on water (ton-km per effort)</text>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 9.2 — Freight physics: put bulk on water (load per horse)</text>
 <g font-size="10" text-anchor="middle">
 <rect x="40" y="60" width="100" height="26" fill="#6b5a33" stroke="#16130e" stroke-width="1.5"/>
-<text x="90" y="77" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.8">PACKHORSE ×1</text>
+<text x="90" y="77" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.8">PACKHORSE ~0.1 t</text>
 <rect x="40" y="92" width="180" height="26" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/>
-<text x="130" y="109" font-weight="bold">CART ×5–10</text>
+<text x="130" y="109" font-weight="bold">CART ~1–2 t</text>
 <rect x="40" y="124" width="380" height="26" fill="#2e5b34" stroke="#16130e" stroke-width="2"/>
-<text x="230" y="141" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.8">BARGE-HORSE ×50</text>
+<text x="230" y="141" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.8">BARGE-HORSE ~30–50 t</text>
 </g>
-<text x="440" y="100" font-size="10">one horse + barge =</text>
-<text x="440" y="112" font-size="10">fifty packhorses' work</text>
-<line x1="420" y1="110" x2="432" y2="124" stroke="#16130e" stroke-width="1.25"/>
+<text x="432" y="135" font-size="10">≈ 300–500 packhorse</text>
+<text x="432" y="147" font-size="10">loads per horse</text>
 <path d="M490,58 L610,58 L600,73 L500,73 Z" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
 <rect x="535" y="38" width="30" height="20" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
 <text x="550" y="90" text-anchor="middle" font-size="9">rivers/coasts = highways till rail</text>
 <text x="320" y="188" text-anchor="middle" font-size="9" font-style="italic">relay skeleton: way-stations, wells, ferries, honest tolls → Ch 24</text>
 </svg>
-<figcaption><strong>Figure 9.2.</strong> Friction decides trade geography: water carries bulk fifty times cheaper than backs. Mill towns, ports, and mine mouths sit where transshipment is cheapest — the map of industry follows the map of freight.</figcaption>
+<figcaption><strong>Figure 9.2.</strong> Friction decides trade geography: one canal horse moves what a few hundred packhorses carry. Delivered cost falls less steeply than load (boats, crews, tolls, and canals cost money too), but historically still several-fold. Bars are schematic. Mill towns, ports, and mine mouths sit where transshipment is cheapest — the map of industry follows the map of freight.</figcaption>
 </figure>
 
 <ul>
-<li><strong>Water beats wheels:</strong> one barge-horse moves 50× a packhorse's ton-kilometers (<a href="ch08.html">Ch 8</a>); rivers and coastlines are the highways until railways (<a href="ch24.html">Ch 24</a>).</li>
-<li><strong>Comparative advantage arithmetic:</strong> if region A grows grain at half region B's cost while B smelts iron cheaper, BOTH gain by specializing and exchanging, even if A could do everything somewhat better. Teach this explicitly — mercantilist hoarding instincts waste decades of potential growth.</li>
+<li><strong>Water beats wheels:</strong> one barge-horse tows ~30–50 t, the load of a few hundred packhorses (<a href="ch08.html">Ch 8</a>), and canal freight historically cost several times less than road carriage; rivers and coastlines are the highways until railways (<a href="ch24.html">Ch 24</a>).</li>
+<li><strong>Comparative advantage arithmetic:</strong> if region A grows grain at half region B's cost but smelts iron only slightly cheaper than B, BOTH gain when A specializes in grain and B in iron — even though A is better at everything. Relative cost, not absolute cost, decides. Teach this explicitly — mercantilist hoarding instincts waste decades of potential growth.</li>
 <li><strong>Relay infrastructure:</strong> way-stations, wells, ferry rights, road tolls kept honest — the logistics skeleton later formalized in <a href="ch24.html">Ch 24</a>.</li>
 </ul>
-<p><strong>Comparative-advantage miniature:</strong> coast makes salt at 1 labor-day/sack, grain at 4; inland makes salt at 6, grain at 3. Coast sells salt, buys grain; inland reverses — both eat cheaper than self-sufficiency. Specialization + exchange beats autarky even where one side is "better" at everything.</p>
+<p><strong>Comparative-advantage miniature:</strong> coast makes salt at 1 labor-day/sack and grain at 2; inland makes salt at 6 and grain at 3. The coast is better at both, but its edge is sixfold in salt and only 1.5-fold in grain. Coast specializes in salt, inland in grain; trading sack for sack, the coast gets grain for 1 day instead of 2 and inland gets salt for 3 days instead of 6 — both eat cheaper than self-sufficiency. Specialization + exchange beats autarky even where one side is "better" at everything.</p>
 <p class="co co-key"><strong>Key threshold:</strong> when a farmer can sell grain for coined silver, hire a stranger's smithwork, and expect both transactions honored next year — that society has crossed into exponential capability growth. Everything from <a href="ch18.html">Part III</a> onward is downstream of this crossing.</p>
 <h2 id="ch09_trade_money-97-what-the-tablets-show">9.7 What the Tablets Show</h2>
 <p>Money's history survives in clay, and the record is richer than folklore:</p>
@@ -437,7 +437,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch10.html" class="reader-nav-link">Chapter 10 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

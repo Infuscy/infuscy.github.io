@@ -30,7 +30,7 @@
                 lastPart = ch.part;
             }
             var typeTag = ch.type === 'chapter' ? '' : ' <span class="chapter-type">' +
-                (ch.type === 'appendix' ? 'appendix' : 'intro') + '</span>';
+                ({ appendix: 'appendix', reference: 'reference' }[ch.type] || 'intro') + '</span>';
             html += '<li><a href="/fire-to-future/' + esc(ch.file) + '">' +
                 '<span class="chapter-num">' + esc(ch.num) + '</span>' +
                 '<span class="chapter-title">' + esc(ch.title) + typeTag + '</span>' +

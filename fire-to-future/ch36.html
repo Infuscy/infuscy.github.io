@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch36_computers-chapter-36-computers-and-software">Chapter 36: Computers and Software</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1854 Boole → 1980s PCs · <strong>Difficulty:</strong> extreme
-<br><strong>Requires:</strong> <a href="ch35.html">Ch 35</a> hardware, <a href="ch18.html">Ch 18</a> text culture · <br><strong>Unlocks:</strong> <a href="ch42.html">Ch 42</a>, <a href="ch45.html">Ch 45</a>, <a href="ch46.html">Ch 46</a>, every data system after</p>
+<p><strong>Era span:</strong> 1854 Boole → 1980s PCs · <strong>Difficulty:</strong> extreme<br><strong>Requires:</strong> <a href="ch18.html">Ch 18</a>, <a href="ch35.html">Ch 35</a><br><strong>Unlocks:</strong> <a href="ch39.html">Ch 39</a>, <a href="ch42.html">Ch 42</a>, <a href="ch45.html">Ch 45</a>, <a href="ch46.html">Ch 46</a></p>
 </blockquote>
 <p>Computers automate reasoning itself. The lineage is longer than the hardware: logic formalized → information quantified → machines built → software industrialized. This chapter builds the stack in that order, because each layer only works on the one below.</p>
 <figure class="fig">
@@ -268,8 +269,8 @@ body {
 </g>
 <g stroke="#16130e" stroke-width="1.5">
 <line x1="146" y1="95" x2="162" y2="95"/><polygon points="162,89 162,101 170,95" fill="#16130e"/>
-<line x1="306" y1="80" x2="322" y2="80"/><polygon points="322,74 322,86 330,80" fill="#16130e"/>
-<line x1="326" y1="110" x2="314" y2="110"/><polygon points="314,104 314,116 306,110" fill="#16130e"/>
+<line x1="310" y1="80" x2="322" y2="80"/><polygon points="322,74 322,86 330,80" fill="#16130e"/>
+<line x1="330" y1="110" x2="318" y2="110"/><polygon points="318,104 318,116 310,110" fill="#16130e"/>
 <line x1="466" y1="95" x2="482" y2="95"/><polygon points="482,89 482,101 490,95" fill="#16130e"/>
 </g>
 <line x1="60" y1="140" x2="580" y2="140" stroke="#16130e" stroke-width="2"/>
@@ -321,8 +322,8 @@ body {
 </tr>
 <tr>
 <td>NAND / NOR</td>
-<td>Completeness</td>
-<td>Any circuit from one type</td>
+<td>¬(A·B), ¬(A+B)</td>
+<td>Each alone is complete: any circuit can be built from one type</td>
 <td>Preferred in silicon</td>
 </tr>
 <tr>
@@ -338,7 +339,7 @@ body {
 <ul>
 <li><strong>Mechanical calculators:</strong> Pascal/Leibniz gear arithmetic; Babbage's Difference Engine concept worked, his Analytical Engine (programmed, general-purpose, 1837 design) never got built — precision machining couldn't hold tolerances at affordable cost (<strong>Dead end avoided as strategy:</strong> mechanical GENERAL-PURPOSE computing; mechanical SPECIAL-PURPOSE calculators remained useful for a century).</li>
 <li><strong>Relay computers (1941–):</strong> Zuse Z3, Harvard Mark I — telephone-switch tech computing reliably but slowly (seconds per multiply).</li>
-<li><strong>Vacuum-tube monsters:</strong> ENIAC (completed late 1945, publicly unveiled February 1946; ~18,000 tubes; originally programmed by plugboards and switches — its first production job was artillery firing tables); then <strong>stored-program architecture</strong> (von Neumann/EDVAC report 1945; Manchester "Baby" ran first, June 1948): instructions live in memory like data — programs become writable, loadable, self-modifiable. THE architectural decision still governing everything.</li>
+<li><strong>Vacuum-tube monsters:</strong> ENIAC (completed late 1945, publicly unveiled February 1946; ~18,000 tubes; originally programmed by plugboards and switches — built to compute artillery firing tables, though its first major job, in December 1945, was a Los Alamos thermonuclear calculation); then <strong>stored-program architecture</strong> (von Neumann/EDVAC report 1945; Manchester "Baby" ran first, June 1948): instructions live in memory like data — programs become writable, loadable, self-modifiable. THE architectural decision still governing everything.</li>
 <li><strong>Memory hierarchy:</strong> delay lines/core memory (magnetic rings threaded by wires — reliable, tedious) → DRAM (<a href="ch35.html">Ch 35</a>); storage on punched cards/tape/magnetic disks.</li>
 <li><strong>Transistorized → integrated</strong> generations shrink rooms to chips; microprocessors put whole CPUs on single dies (4004, 1971).</li>
 </ul>
@@ -349,7 +350,6 @@ body {
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 36.2 — Memory pyramid and software stack</text>
 <text x="170" y="40" text-anchor="middle" font-size="10" font-weight="bold">Hierarchy (fast/small → slow/big)</text>
 <polygon points="170,48 280,158 60,158" fill="#e8dcc0" stroke="#16130e" stroke-width="1.5"/>
-<line x1="170" y1="48" x2="170" y2="40" stroke="#16130e" stroke-width="1.25"/>
 <line x1="132" y1="92" x2="208" y2="92" stroke="#16130e" stroke-width="1.5"/>
 <line x1="100" y1="124" x2="240" y2="124" stroke="#16130e" stroke-width="1.5"/>
 <text x="170" y="84" text-anchor="middle" font-size="9" font-weight="bold">REGISTERS</text>
@@ -392,7 +392,7 @@ body {
 <tr>
 <td>Tube (ENIAC)</td>
 <td>~18,000 bottles</td>
-<td>~100 µs add</td>
+<td>~200 µs add (5,000 additions/s)</td>
 <td>MTBF planning; stored program next</td>
 </tr>
 <tr>
@@ -413,7 +413,7 @@ body {
 <p>Hardware without software is jewelry. The stack, in dependency order:</p>
 <ol>
 <li><strong>Machine code/assembler:</strong> raw instruction encodings; human-hostile but direct.</li>
-<li><strong>Compilers (FORTRAN, 1957):</strong> translate human-readable formulas into optimized machine code — programming productivity multiplies ~10× overnight; skeptics predicted bad code, benchmarks humiliated them.</li>
+<li><strong>Compilers (FORTRAN, 1957):</strong> translate human-readable formulas into optimized machine code — programming effort fell several-fold; skeptics predicted bad code, benchmarks humiliated them.</li>
 <li><strong>Operating systems:</strong> batch schedulers → time-sharing (many users, interleaved execution; CTSS/Multics) → <strong>UNIX (1969):</strong> small kernel + composable tools + portability via C language. Unix patterns (files, pipes, processes) remain the lingua franca.</li>
 <li><strong>Languages by purpose:</strong> COBOL (business records), Lisp (symbolic/AI research), ALGOL (structured-programming theory → Pascal/C descendants). Type systems, structured control flow, and modularity tame complexity ("software crisis" responses of the late 60s).</li>
 <li><strong>Engineering culture:</strong> version control, testing, code review, documentation — software quality is process quality (<a href="ch47.html">Ch 47</a>).</li>
@@ -466,7 +466,7 @@ body {
 <li><strong>Standards compound:</strong> ASCII text, fixed file formats, open protocols — lock-in fights are expensive; interop wins long-term.</li>
 <li><strong>Backup and redundancy from day one:</strong> data outlives hardware; error-correcting codes (<a href="#ch36_computers-361-theory-before-metal">§36.1</a>) plus geographic copies prevent catastrophe.</li>
 <li><strong>Automate verification:</strong> compilers caught typos; tests catch regressions; formal methods eventually catch logic errors in critical systems. Trust scales with checking machinery.</li>
-<li><strong>Compute budget discipline:</strong> algorithms matter more than hardware speed — an O(n²) fix buys more than any fab upgrade. Teach big-O thinking alongside soldering.</li>
+<li><strong>Compute budget discipline:</strong> algorithms matter more than hardware speed — replacing an O(n²) algorithm with an O(n log n) one buys more than any fab upgrade. Teach big-O thinking alongside soldering.</li>
 </ul>
 <div class="table-wrap"><table>
 <thead>
@@ -519,7 +519,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch37.html" class="reader-nav-link">Chapter 37 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

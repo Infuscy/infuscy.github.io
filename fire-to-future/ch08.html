@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,10 +237,9 @@ body {
 <main class="reader-content">
 <h1 id="ch08_animals-chapter-8-animals-husbandry-transport-and-power">Chapter 8: Animals: Husbandry, Transport, and Power</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> ~12,000 BCE onward · <strong>Difficulty:</strong> mid
-<br><strong>Requires:</strong> <a href="ch03.html">Ch 3</a> (harness fiber), <a href="ch04.html">Ch 4</a> (fodder/hay), <a href="ch07.html">Ch 7</a> (feed surplus) · <br><strong>Unlocks:</strong> <a href="ch14.html">Ch 14</a> (draft for ore haulage), <a href="ch16.html">Ch 16</a> (spare-animal economics), <a href="ch24.html">Ch 24</a> (rail predecessor logistics)</p>
+<p><strong>Era span:</strong> ~12,000 BCE onward · <strong>Difficulty:</strong> mid<br><strong>Requires:</strong> <a href="ch03.html">Ch 3</a>, <a href="ch04.html">Ch 4</a>, <a href="ch07.html">Ch 7</a><br><strong>Unlocks:</strong> <a href="ch09.html">Ch 9</a>, <a href="ch14.html">Ch 14</a>, <a href="ch16.html">Ch 16</a>, <a href="ch24.html">Ch 24</a></p>
 </blockquote>
-<p>Domesticated animals are living engines, nutrient pumps, fiber factories, and walking larders. A ox delivers sustained draft of ~0.5 kW (roughly six humans' continuous work); a horse ~0.7–1 kW in bursts. Every machine chapter ahead assumes this biological prime mover as its default until steam arrives (<a href="ch23.html">Ch 23</a>).</p>
+<p>Domesticated animals are living engines, nutrient pumps, fiber factories, and walking larders. An ox delivers sustained draft of ~0.5 kW (roughly six humans' continuous work); a horse ~0.7–1 kW sustained, and several times that in short bursts. Every machine chapter ahead assumes this biological prime mover as its default until steam arrives (<a href="ch23.html">Ch 23</a>).</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Throat strap versus collar harness">
 <title>Throat strap versus collar harness</title>
@@ -347,7 +348,7 @@ body {
 </tr>
 <tr>
 <td>Horse</td>
-<td>~0.7–1 kW bursts</td>
+<td>~0.7–1 kW sustained</td>
 <td>Faster, heavier, hungrier</td>
 <td>Grain-hungry</td>
 </tr>
@@ -387,14 +388,15 @@ body {
 <g stroke="#16130e" stroke-width="1.5">
 <line x1="220" y1="95" x2="250" y2="95"/><polygon points="250,89 250,101 258,95" fill="#16130e"/>
 <line x1="410" y1="95" x2="440" y2="95"/><polygon points="440,89 440,101 448,95" fill="#16130e"/>
-  <path d="M520,127 Q330,168 140,127" fill="none" stroke="#16130e" stroke-width="1.5"/>
-  <polygon points="144,128 154,122 152,133" fill="#16130e"/>
+<path d="M520,63 Q425,30 339.5,59" fill="none" stroke="#16130e" stroke-width="1.5"/>
+<polygon points="331,62 341,63.3 338,54.7" fill="#16130e"/>
 </g>
-<text x="235" y="80" text-anchor="middle" font-size="9">feed</text>
-<text x="425" y="80" text-anchor="middle" font-size="9">draft</text>
-<text x="330" y="158" text-anchor="middle" font-size="10" font-weight="bold">MANURE 20 kg/day/ox → covered heap → fields (Ch 7)</text>
-<text x="330" y="174" text-anchor="middle" font-size="10">winter hay = compound interest: carry 100% through, stop autumn slaughter</text>
-<text x="330" y="190" text-anchor="middle" font-size="9" font-style="italic">roots (turnips/mangels) in rotation end the starvation cull</text>
+<text x="235" y="72" text-anchor="middle" font-size="9">feed</text>
+<text x="425" y="72" text-anchor="middle" font-size="9">manure + draft</text>
+<text x="425" y="40" text-anchor="middle" font-size="9" font-style="italic">straw + roots → winter feed</text>
+<text x="330" y="152" text-anchor="middle" font-size="10" font-weight="bold">MANURE 20 kg/day/ox → covered heap → fields (Ch 7)</text>
+<text x="330" y="169" text-anchor="middle" font-size="10">winter hay = compound interest: carry 100% through, stop autumn slaughter</text>
+<text x="330" y="185" text-anchor="middle" font-size="9" font-style="italic">roots (turnips/mangels) in rotation end the starvation cull</text>
 </svg>
 <figcaption><strong>Figure 8.2.</strong> Animals move fertility uphill from pasture to plow — draft and food going out, manure coming back. Winter feed (hay + roots) decides whether the herd compounds or gets eaten every autumn.</figcaption>
 </figure>
@@ -408,10 +410,10 @@ body {
 <p class="co co-key"><strong>Key threshold:</strong> if you can carry 100 % of herd numbers through worst-case winter, you stop slaughtering stock every autumn and start accumulating capital animals — herd size becomes compound interest.</p>
 <p><strong>Hay campaign (treat as battle):</strong> cut at early flower (peak feed value), tedder-turn twice, bale/stack below 18 % (a twisted wisp that crackles, not bends), roof that night — rain on curing hay leaches half its value. One wet week without hay is a dead ox by February; plan acres accordingly (~1 ha meadow per cow overwintered, region-dependent).</p>
 <h2 id="ch08_animals-84-harness-the-difference-between-pulling-and-choking">8.4 Harness: The Difference Between Pulling and Choking</h2>
-<p class="co co-dead"><strong>Dead end avoided:</strong> the throat-and-girth strap. Yoked or strapped across soft throat tissue, a horse can exert only ~25 % of potential pull — it strangles itself against the load. History ran on choked horses for millennia.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> the throat-and-girth strap. Strapped across the soft tissue of the throat, a horse presses its own windpipe as it leans into the load and gives up much of its usable pull. The often-quoted figure of ~25 % is probably too pessimistic (§8.8), but the direction is not in doubt: much of antiquity ran on poorly harnessed horses.</p>
 <p>Correct sequence:
 1. <strong>Ox yoke</strong> (wooden beam on shoulder humps): correct for cattle from the start; zebu/humped breeds suit it best.
-2. <strong>Breast-strap harness</strong> for light horsework: pushes on sternum, ~50 % efficiency.
+2. <strong>Breast-strap harness</strong> for light horsework: the load bears on the chest below the windpipe — a large improvement, though still short of a collar.
 3. <strong>Padded collar harness</strong> with hames and traces: load transfers through shoulders to traces, bypassing the windway entirely; horses deliver near-full strength and can haul plows, wagons, and canal barges. Build collars from leather (<a href="ch03.html">Ch 3</a>), straw-stuffed, fitted individually.</p>
 <p>Whippletree/eveners distribute pull among team members so each animal bears an equal share — mechanical fairness as engineering (<a href="ch15.html">Ch 15</a>).</p>
 <p><strong>Fitting check:</strong> two fingers between collar and neck all around; hames seated, traces level to load; sores = refit same day (a galled shoulder idles a team for weeks). Train in halter → long-rein → light drag → full load over weeks — a rushed breaker makes a ruined puller.</p>
@@ -453,7 +455,7 @@ body {
 <tr>
 <td>Barge tow</td>
 <td>Horse + towpath</td>
-<td>50× pack rate</td>
+<td>~30–50 t per horse (a packhorse carries ~0.1 t)</td>
 <td>Rivers beat roads (<a href="ch09.html">Ch 9</a>)</td>
 </tr>
 <tr>
@@ -464,6 +466,7 @@ body {
 </tr>
 </tbody>
 </table></div>
+<p class="co co-jump"><strong>Jump:</strong> skip donkey-era pack networks entirely where rivers allow — towpaths plus collar-harnessed horses let one horse move the load of a few hundred packhorses, anticipating canal freight economics in <a href="ch24.html">Ch 24</a>.</p>
 <h2 id="ch08_animals-86-health-basics">8.6 Health Basics</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> livestock share disease with handlers — anthrax, brucellosis, rabies, and parasites move from hide, milk, birth fluids, and bites to humans without warning. Quarantine arrivals 3 weeks, wear cover for births and carcasses, boil suspect milk, wash and disinfect after handling sick stock, and cull and burn anthrax-suspect cases rather than opening them; vaccinate and dose only by weight and schedule.</p>
 <p>Preventive doctrine beats veterinary heroics:</p>
@@ -473,7 +476,6 @@ body {
 <li>Quarantine new arrivals 3 weeks; parasite rotation of grazing paddocks breaks worm cycles without drugs.</li>
 <li>Basic kit: castration tools, stitching awl and thread, tourniquet; know your limits and cull early — a chronically sick animal is a feed leak and infection source.</li>
 </ol>
-<p class="co co-jump"><strong>Jump:</strong> skip donkey-era pack networks entirely where rivers allow — towpaths plus collar-harnessed horses move 50× the ton-kilometers per driver, anticipating canal freight economics in <a href="ch24.html">Ch 24</a>.</p>
 <p><strong>Hoof round (6–8 weeks):</strong> pick daily, trim flare, shoe worn/soft hooves on stone roads (hot-fit, clinched, never quicked); rest the footsore immediately. Lameness ignored becomes a carcass — the cheapest veterinary act is the timely rest day.</p>
 <h2 id="ch08_animals-87-domestication-dates-and-geographies">8.7 Domestication Dates and Geographies</h2>
 <div class="table-wrap"><table>
@@ -518,13 +520,13 @@ body {
 </tbody>
 </table></div>
 <p>Every domestication traded some wild autonomy for productivity under human selection — faster maturity, tamer temperament, higher yield — with genetic bottlenecks (founder effects) that modern breeding works to widen again via rare-breed conservation.</p>
-<p>Zoonotic ledger: close animal contact seeded humanity's epidemic pathogen pool (measles diverged from a rinderpest-like cattle virus ~11th–12th century CE per molecular-clock studies; the smallpox-cattle link remains hypothesis). Herds fed cities and infected them simultaneously — the sanitation chapter (<a href="ch30.html">Ch 30</a>) inherits this bill.</p>
+<p>Zoonotic ledger: close animal contact helped seed humanity's epidemic pathogen pool, but the date, host, and pathway differ by pathogen and remain subjects of molecular-clock and archaeological debate. Measles diverged from the cattle virus rinderpest, with molecular-clock estimates now reaching back to around the 6th century BCE (Düx et al., 2020); smallpox's livestock-origin story remains unproven. Herds nevertheless fed cities while transmitting anthrax, brucellosis, rabies, parasitic infections, and other hazards—the sanitation chapter (<a href="ch30.html">Ch 30</a>) inherits this bill.</p>
 <h2 id="ch08_animals-88-the-harness-numbers-debate">8.8 The Harness Numbers Debate</h2>
-<p>This book cites throat-girth harness delivering ~25 % of potential pull versus padded collar near-full efficiency. Calibrate honestly:</p>
+<p>Textbooks long cited throat-girth harness delivering ~25 % of potential pull versus near-full efficiency for the padded collar. Calibrate honestly:</p>
 <ul>
 <li>Those figures descend from Lefebvre des Noëttes' reconstruction experiments (1931), which drove a century of textbook repetition.</li>
 <li>Later scholarship (Spruytte's rebuilds; John Langdon's <em>Horses, Oxen and Technological Innovation</em>, 1986) showed des Noëttes' ancient-harness reconstruction was likely too crude — the real gap was smaller, though still real — and that medieval ox→horse adoption tracked feed prices and road quality as much as collar engineering.</li>
-<li>What stands: breast-straps appear in China by ~5th c. BCE; padded collars spread across Europe roughly 800–1000 CE (visible on Bayeux Tapestry horses hauling ships). Direction of the effect is solid; magnitudes are contested. This book flags such contested numbers explicitly rather than hiding them — that is what an objective register does.</li>
+<li>What stands: breast-straps appear in China by ~5th c. BCE; padded collars, attested earlier in China, spread across Europe roughly 800–1000 CE (the Bayeux Tapestry shows a collared horse drawing a harrow). Direction of the effect is solid; magnitudes are contested. This book flags such contested numbers explicitly rather than hiding them — that is what an objective register does.</li>
 </ul>
 <h2 id="ch08_animals-89-milestone-part-i-complete">8.9 Milestone: Part I Complete</h2>
 <p>With draft, manure, rotation, storage, and shelter all standing, the village carries itself through worst-case winter with margin — population growth becomes plannable, and one in five hands frees for smithing, scribing, and engineering. Parts II–VI spend that surplus; Part I earned it.</p>
@@ -534,7 +536,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch09.html" class="reader-nav-link">Chapter 9 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

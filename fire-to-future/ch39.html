@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch39_rocketry-chapter-39-rocketry-and-access-to-orbit">Chapter 39: Rocketry and Access to Orbit</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1926 Goddard → reusable era · <strong>Difficulty:</strong> extreme
-<br><strong>Requires:</strong> <a href="ch27.html">Ch 27</a>/<a href="ch38.html">38</a> materials, <a href="ch29.html">Ch 29</a> turbomachinery concepts, <a href="ch36.html">Ch 36</a> guidance compute, <a href="ch20.html">Ch 20</a> gyroscopes · <br><strong>Unlocks:</strong> <a href="ch40.html">Ch 40</a> entirely — the highest-leverage capability in this book</p>
+<p><strong>Era span:</strong> 1926 Goddard → reusable era · <strong>Difficulty:</strong> extreme<br><strong>Requires:</strong> <a href="ch20.html">Ch 20</a>, <a href="ch27.html">Ch 27</a>, <a href="ch29.html">Ch 29</a>, <a href="ch36.html">Ch 36</a>, <a href="ch38.html">Ch 38</a><br><strong>Unlocks:</strong> <a href="ch40.html">Ch 40</a><br><strong>Data snapshot:</strong> volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</p>
 </blockquote>
 <p>Orbit access is a physics problem with a brutal receipt: nothing else in the book demands so much energy per kilogram delivered. Master the arithmetic first; everything else follows from respecting it.</p>
 <figure class="fig">
@@ -248,46 +249,46 @@ body {
 <line x1="70" y1="170" x2="600" y2="170" stroke="#16130e" stroke-width="2"/>
 <text x="26" y="176" font-size="10" font-weight="bold">MASS</text>
 <text x="26" y="188" font-size="10" font-weight="bold">RATIO</text>
-<line x1="66" y1="40" x2="70" y2="40" stroke="#16130e" stroke-width="1.5"/>
-<text x="62" y="43" text-anchor="end" font-size="9">37</text>
-<line x1="66" y1="69" x2="70" y2="69" stroke="#16130e" stroke-width="1.5"/>
-<text x="62" y="72" text-anchor="end" font-size="9">29</text>
+<line x1="66" y1="137.5" x2="70" y2="137.5" stroke="#16130e" stroke-width="1.5"/>
+<text x="62" y="140.5" text-anchor="end" font-size="9">10</text>
 <line x1="66" y1="105" x2="70" y2="105" stroke="#16130e" stroke-width="1.5"/>
-<text x="62" y="108" text-anchor="end" font-size="9">18</text>
-<line x1="66" y1="141" x2="70" y2="141" stroke="#16130e" stroke-width="1.5"/>
-<text x="62" y="144" text-anchor="end" font-size="9">7</text>
+<text x="62" y="108" text-anchor="end" font-size="9">20</text>
+<line x1="66" y1="72.5" x2="70" y2="72.5" stroke="#16130e" stroke-width="1.5"/>
+<text x="62" y="75.5" text-anchor="end" font-size="9">30</text>
+<line x1="66" y1="40" x2="70" y2="40" stroke="#16130e" stroke-width="1.5"/>
+<text x="62" y="43" text-anchor="end" font-size="9">40</text>
 <text x="340" y="186" text-anchor="middle" font-size="10" font-weight="bold">EXHAUST VELOCITY → (better propellant / engine)</text>
-<rect x="90" y="40" width="100" height="130" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
-<text x="140" y="100" text-anchor="middle" font-size="10" font-weight="bold">SOLID</text>
-<text x="140" y="112" text-anchor="middle" font-size="9">~2.6 km/s</text>
-<text x="140" y="124" text-anchor="middle" font-size="9">ratio ~37!</text>
-<rect x="200" y="89" width="100" height="81" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
-<text x="250" y="113" text-anchor="middle" font-size="10" font-weight="bold">KEROLOX</text>
-<text x="250" y="125" text-anchor="middle" font-size="9">~3.3 km/s</text>
-<text x="250" y="137" text-anchor="middle" font-size="9">ratio ~23</text>
-<text x="250" y="149" text-anchor="middle" font-size="9">96% propellant</text>
-<rect x="310" y="117" width="100" height="53" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
-<text x="360" y="134" text-anchor="middle" font-size="10" font-weight="bold">METHALOX</text>
-<text x="360" y="146" text-anchor="middle" font-size="9">~3.6 km/s</text>
-<text x="360" y="158" text-anchor="middle" font-size="9">ratio ~15</text>
-<rect x="420" y="128" width="100" height="42" fill="#eef5ec" stroke="#2e5b34" stroke-width="1.5"/>
-<text x="470" y="140" text-anchor="middle" font-size="10" font-weight="bold">HYDROLOX</text>
-<text x="470" y="152" text-anchor="middle" font-size="9">~4.4 km/s</text>
-<text x="470" y="164" text-anchor="middle" font-size="9">ratio ~12</text>
-<text x="320" y="30" text-anchor="middle" font-size="9" font-style="italic">Δv = vₑ · ln(m₀/mf) — bar height = mass ratio</text>
+<rect x="90" y="49.4" width="100" height="120.6" fill="#f9eeec" stroke="#8f3b2d" stroke-width="1.5"/>
+<text x="140" y="100.0" text-anchor="middle" font-size="10" font-weight="bold">SOLID</text>
+<text x="140" y="112.0" text-anchor="middle" font-size="9">~2.6 km/s</text>
+<text x="140" y="124.0" text-anchor="middle" font-size="9">ratio ~37!</text>
+<rect x="200" y="113.8" width="100" height="56.2" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="1.5"/>
+<text x="250" y="128.0" text-anchor="middle" font-size="10" font-weight="bold">KEROLOX</text>
+<text x="250" y="140.0" text-anchor="middle" font-size="9">~3.3 km/s</text>
+<text x="250" y="152.0" text-anchor="middle" font-size="9">ratio ~17</text>
+<text x="250" y="164.0" text-anchor="middle" font-size="9">94% propellant</text>
+<rect x="310" y="125.8" width="100" height="44.2" fill="#cfe0ea" stroke="#2f5286" stroke-width="1.5"/>
+<text x="360" y="139.0" text-anchor="middle" font-size="10" font-weight="bold">METHALOX</text>
+<text x="360" y="151.0" text-anchor="middle" font-size="9">~3.6 km/s</text>
+<text x="360" y="163.0" text-anchor="middle" font-size="9">ratio ~14</text>
+<rect x="420" y="142.4" width="100" height="27.6" fill="#eef5ec" stroke="#2e5b34" stroke-width="1.5"/>
+<text x="470" y="112.4" text-anchor="middle" font-size="10" font-weight="bold">HYDROLOX</text>
+<text x="470" y="124.4" text-anchor="middle" font-size="9">~4.4 km/s</text>
+<text x="470" y="136.4" text-anchor="middle" font-size="9">ratio ~8.5</text>
+<text x="320" y="30" text-anchor="middle" font-size="9" font-style="italic">Δv = vₑ · ln(m₀/mf) — bar height = mass ratio (linear scale)</text>
 <text x="556" y="52" text-anchor="middle" font-size="9" font-style="italic">staging resets the math lighter</text>
 </svg>
-<figcaption><strong>Figure 39.1.</strong> Schematic (not to log scale): better exhaust velocity collapses the mass ratio — but even the best chemical fuels leave single-stage orbit marginal. The log punishes the mediocre and merely taxes the excellent; staging (§39.1) is how mortals answer it.</figcaption>
+<figcaption><strong>Figure 39.1.</strong> Bars drawn to a linear scale (ratio = e<sup>Δv/vₑ</sup>): better exhaust velocity collapses the mass ratio — but even the best chemical fuels leave single-stage orbit marginal. The log punishes the mediocre and merely taxes the excellent; staging (§39.1) is how mortals answer it.</figcaption>
 </figure>
 
 <h2 id="ch39_rocketry-391-the-tyranny-of-the-rocket-equation">39.1 The Tyranny of the Rocket Equation</h2>
 <p>Tsiolkovsky: <strong>Δv = vₑ·ln(m₀/m_f)</strong> — velocity gained equals exhaust velocity times the natural log of mass ratio. The log is the tyrant:</p>
 <ul>
 <li>To LEO needs ~9.4 km/s total (7.8 km/s orbital + gravity/drag losses).</li>
-<li>With exhaust velocity ~3 km/s (kerosene/LOX), mass ratio e^3.1 ≈ 23 — meaning ~96 % of liftoff mass is propellant. Structure+payload share the remaining 4 %.</li>
+<li>With exhaust velocity 3.3 km/s, a single ideal stage needing 9.4 km/s has mass ratio <code>exp(9.4/3.3) ≈ 17</code>; real stages need additional margin for structure, engines, residuals, and losses. The ratio is idealised—not a complete vehicle design.</li>
 <li><strong>Staging</strong> resets the denominator: drop empty tanks/engines mid-flight and the remaining vehicle's math restarts lighter. Two-to-three stages make orbit reachable; single-stage-to-orbit with chemical fuels remains marginal engineering.</li>
 </ul>
-<p>Design consequence: every gram of structure steals payload quadratically-ish. Aerospace weight discipline ("fighting for ounces") is culture, not affectation.</p>
+<p>Design consequence: every kilogram of upper-stage structure costs roughly a kilogram of payload (first-stage mass costs less — very roughly a tenth as much). Aerospace weight discipline ("fighting for ounces") is culture, not affectation.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -402,7 +403,7 @@ body {
 
 <p><strong>Broom-balancing (TVC):</strong> the engine gimbals ±5–10° on actuators, the computer nulls attitude error hundreds of times per second, slosh baffles keep propellant from swinging the loop. Test the full loop on a hanging rig before flight — a sign error in the feedback murders vehicles faster than any engine failure.</p>
 <h2 id="ch39_rocketry-394-lineage-compressed">39.4 Lineage Compressed</h2>
-<p>Goddard flies liquid-fueled rocket (1926, Massachusetts farm); his patents later tax every American launch. The wartime V-2 (Peenemünde program; first successful ballistic flight October 3, 1942; ~3,200 operational launches from September 1944) demonstrates rocketry at strategic scale (~320 km apex altitude, first human-made objects reaching space-adjacent altitudes); postwar programs in the US (Operation Paperclip hires von Braun's team) and USSR (Korolev, drawing on R-1/V-2 derivatives) build directly on its engineering. R-7 clusters engines into orbit-capable booster → Sputnik (Oct 1957). Saturn V apex: ~2,900 t liftoff, F-1 engines (single-shaft monsters), Moon within a decade of program start — proof that systems integration at national scale works when requirements freeze.</p>
+<p>Goddard flies liquid-fueled rocket (1926, Massachusetts farm); the US government later bought rights to his 214 patents from his estate (1960, $1 million). The wartime V-2 (Peenemünde program; first successful ballistic flight October 3, 1942; ~3,200 operational launches from September 1944) demonstrates rocketry at strategic scale (~320 km range; vertical test shots reached ~175–190 km in 1944, the first human-made objects in space); postwar programs in the US (Operation Paperclip hires von Braun's team) and USSR (Korolev, drawing on R-1/V-2 derivatives) build directly on its engineering. R-7 clusters engines into orbit-capable booster → Sputnik (Oct 1957). Saturn V apex: ~2,900 t liftoff, F-1 engines (single-shaft monsters), Moon within a decade of program start — proof that systems integration at national scale works when requirements freeze.</p>
 <p>Reusable turn: Shuttle flew often but refit costs ate economics (thermal-protection tile labor, SSME teardown). Propulsive landing (fly-back boosters landing on tails, 2015→) attacks the OTHER cost half: hardware amortization across flights.</p>
 <div class="table-wrap"><table>
 <thead>
@@ -442,17 +443,17 @@ body {
 <li>Range safety, weather constraints, pad deluge/acoustics (sound alone destroys unfixed hardware).</li>
 <li>Reliability doctrine: quality culture beats test heroics — inspect EVERYTHING, test to failure on the ground so failures happen there. Post-failure forensics feed design changes mandatorily (<a href="ch33.html">Ch 33</a>'s aviation pattern).</li>
 </ul>
-<p><strong>Site arithmetic:</strong> equator + eastward + ocean downrange = free velocity + dropped stages in water + no neighbors under the plume. Latitude costs ~cos(latitude) of the 465 m/s bonus; inland sites pay dogleg or drop-zone penalties forever. Deluge water (hundreds of tonnes per launch) and lightning masts precede the second pad — acoustics and weather kill more schedules than engines do.</p>
+<p><strong>Site arithmetic:</strong> equator + eastward + ocean downrange = free velocity + dropped stages in water + no neighbors under the plume. The bonus scales with cos(latitude) — about 410 m/s at 28° N, 0 at the poles; inland sites pay dogleg or drop-zone penalties forever. Deluge water (hundreds of tonnes per launch) and lightning masts precede the second pad — acoustics and weather kill more schedules than engines do.</p>
 <h2 id="ch39_rocketry-396-why-this-chapter-rules-the-rest">39.6 Why This Chapter Rules the Rest</h2>
-<p>Orbit delivers: global communication, navigation, observation, climate monitoring, treaty verification — <a href="ch40.html">Ch 40</a> in full. A civilization without launch is blind beyond its horizon and deaf across oceans. Prioritize accordingly: this is the single capability whose absence caps planetary dominance.</p>
-<p class="co co-key"><strong>Key threshold:</strong> routine access below ~$2,000/kg-to-LEO marks the industrialization line (history sat at $50k+/kg shuttle-era; reusability drove order-of-magnitude cuts). Below that line, satellite constellations become infrastructure instead of national prestige projects.</p>
+<p>Orbit delivers global communication, navigation, observation, climate monitoring, and—in some contexts—treaty verification through <a href="ch40.html">Ch 40</a>. A society without launch lacks orbital services, but it can still build resilient terrestrial institutions, health, energy, transport, and computing. Launch is a capability gate for global infrastructure, not a prerequisite for civilisation.</p>
+<p class="co co-scope"><strong>Planning marker:</strong> launch cost per delivered kilogram is useful only when the payload destination, orbit, mission duration, failure allowance, and ground system are stated. Reusable systems have reduced some prices by orders of magnitude, but launch price is not the total mission cost and no single threshold turns every constellation into infrastructure.</p>
 <h2 id="ch39_rocketry-397-the-rocketry-papers">39.7 The Rocketry Papers</h2>
 <ul>
-<li>The New York Times editorialized against Goddard in 1920 (mocking lunar flight as ignorance of schoolboy physics); <strong>on July 17, 1969 — Apollo 11's launch day — it printed a correction</strong>, conceding Goddard's mathematics. Institutional humility has a dated artifact.</li>
-<li>Lindbergh brokered Guggenheim funding for Goddard (1929 onward) after visiting Roswell — celebrity philanthropy financing basic rocketry when agencies wouldn't.</li>
+<li>The New York Times editorialized against Goddard in 1920 (mocking lunar flight as ignorance of schoolboy physics); <strong>on July 17, 1969 — the day after Apollo 11's launch — it printed a correction</strong>, conceding Goddard's mathematics. Institutional humility has a dated artifact.</li>
+<li>Lindbergh brokered Guggenheim funding for Goddard (1929 onward) after meeting him in Worcester; the grant moved the work to Roswell, New Mexico, in 1930 — celebrity philanthropy financing basic rocketry when agencies wouldn't.</li>
 <li><strong>Peenemünde's ledger:</strong> the A-4/V-2 program's success (first ballistic flight October 3, 1942; ~3,200 operational launches) rested on the Mittelwerk underground complex where prisoner labor produced them; estimates of deaths in the Dora-Mittelbau system run into the tens of thousands. This book records the engineering lineage AND its human cost in the same paragraph — both belong to the record.</li>
 <li>Postwar absorption: ~1,600 German specialists entered US service (Paperclip); Korolev's bureau reverse-engineered V-2s before leaping ahead; the Cold War missile race then funded everything in this chapter.</li>
-<li><strong>Sputnik's effect was acoustic:</strong> the 21 MHz beeps were deliberately trackable by any radio ham; Explorer 1 (January 31, 1958) discovered the Van Allen belts; NASA stood up October 1, 1958 from NACA within ten months of Sputnik — organizational speed as strategic response.</li>
+<li><strong>Sputnik's effect was acoustic:</strong> the ~20 and 40 MHz beeps were deliberately trackable by any radio ham; Explorer 1 (January 31, 1958) discovered the Van Allen belts; NASA stood up on October 1, 1958 from NACA, less than a year after Sputnik — organisational speed as strategic response.</li>
 <li><strong>F-1 combustion instability</strong> nearly killed Saturn V: oscillating pressure waves destroyed engines until baffle-ring injectors plus a documented campaign of full-scale test firings tamed it — brute-force empirical iteration solving what theory couldn't, on record at Marshall.</li>
 <li>Crewed-loss doctrine: Apollo 1's pad fire (January 27, 1967 — pure-O₂ atmosphere, inward-opening hatch, combustible materials) rewrote cabin atmospheres, hatches, and wiring standards; Challenger (January 28, 1986) turned on cold-degraded O-rings (Feynman's ice-water demonstration at the Rogers Commission remains the genre's clearest public explanation); Columbia (February 1, 2003) fell to launch foam damaging the wing leading edge. Each disaster produced mandatory-design changes — the aviation postmortem culture applied to spaceflight.</li>
 </ul>
@@ -464,7 +465,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch40.html" class="reader-nav-link">Chapter 40 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

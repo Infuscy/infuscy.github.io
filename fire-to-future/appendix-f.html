@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,7 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="appendix_F_glossary-appendix-f-glossary">Appendix F — Glossary</h1>
 <blockquote class="meta">
-<p>~100 terms, alphabetical. Chapter references point to first substantive use.</p>
+<p>114 terms, alphabetical. References point to the chapter or appendix of first substantive use.</p>
 </blockquote>
 <div class="table-wrap"><table>
 <thead>
@@ -247,18 +249,23 @@ body {
 </thead>
 <tbody>
 <tr>
+<td>Acceptance test</td>
+<td>Declared measurement a result must pass, under stated conditions, before a process or capability counts as complete</td>
+<td><a href="appendix-a.html">App A</a></td>
+</tr>
+<tr>
 <td>Alloy</td>
 <td>Metal deliberately mixed with other elements for property control</td>
 <td><a href="ch10.html">10</a></td>
 </tr>
 <tr>
 <td>Amortization</td>
-<td>Spreading an asset's cost over its useful life in accounts</td>
-<td><a href="ch47.html">47</a></td>
+<td>Spreading an asset's cost over its useful life or number of uses</td>
+<td><a href="ch39.html">39</a></td>
 </tr>
 <tr>
 <td>Annealing</td>
-<td>Heating and slow cooling to soften metal and relieve stress</td>
+<td>Heating work-hardened metal so it recrystallizes, softening it and relieving stress (steel needs slow cooling afterwards; copper does not)</td>
 <td><a href="ch14.html">14</a></td>
 </tr>
 <tr>
@@ -267,9 +274,9 @@ body {
 <td><a href="ch47.html">47</a></td>
 </tr>
 <tr>
-<td>Arbitrage</td>
-<td>Profiting from price differences of the same asset across markets</td>
-<td><a href="ch09.html">9</a></td>
+<td>Antimicrobial stewardship</td>
+<td>Right indication, agent, dose, route, and evidence-based duration, with surveillance, to slow resistance</td>
+<td><a href="ch31.html">31</a></td>
 </tr>
 <tr>
 <td>Armature</td>
@@ -282,8 +289,8 @@ body {
 <td><a href="ch35.html">35</a></td>
 </tr>
 <tr>
-<td>Baseload</td>
-<td>Minimum continuous power demand a grid must always supply</td>
+<td>Baseload demand</td>
+<td>The portion of demand present across much of the day; plant designed to run continuously is baseload generation</td>
 <td><a href="ch43.html">43</a></td>
 </tr>
 <tr>
@@ -297,6 +304,11 @@ body {
 <td><a href="ch27.html">27</a></td>
 </tr>
 <tr>
+<td>Black start</td>
+<td>Restoring a power grid from total shutdown using generation that can start without external supply</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+<tr>
 <td>Bloomery</td>
 <td>Furnace producing spongy iron bloom below iron's melting point</td>
 <td><a href="ch14.html">14</a></td>
@@ -304,12 +316,22 @@ body {
 <tr>
 <td>Bond (finance)</td>
 <td>Tradeable debt instrument paying interest over fixed term</td>
-<td><a href="ch47.html">47</a></td>
+<td><a href="ch51.html">51</a></td>
+</tr>
+<tr>
+<td>Capability gate</td>
+<td>Set of acceptance tests a society must pass before relying on a capability; the unit of Appendix A</td>
+<td><a href="appendix-a.html">App A</a></td>
 </tr>
 <tr>
 <td>Capacitance</td>
 <td>Charge stored per volt across plates; Leyden jar property</td>
 <td><a href="ch25.html">25</a></td>
+</tr>
+<tr>
+<td>Capacity factor</td>
+<td>A plant's actual energy output divided by its output at full rated power over the same period</td>
+<td><a href="ch37.html">37</a></td>
 </tr>
 <tr>
 <td>Carnot efficiency</td>
@@ -337,9 +359,24 @@ body {
 <td><a href="ch26.html">26</a></td>
 </tr>
 <tr>
+<td>Competence gate</td>
+<td>Statement of the trained people, supervision, facilities, procedures, and law a hazardous activity requires</td>
+<td><a href="ch17.html">17</a></td>
+</tr>
+<tr>
 <td>Containerization</td>
 <td>Standardized freight boxes enabling mechanical intermodal handling</td>
 <td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Control chart</td>
+<td>Plot of a process measurement against statistically derived limits that separates assignable causes from routine noise</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
+<td>Coppicing</td>
+<td>Cutting trees at the stump on a rotation so they regrow many poles; sustainable fuelwood</td>
+<td><a href="ch01.html">1</a></td>
 </tr>
 <tr>
 <td>Criticality (k=1)</td>
@@ -358,8 +395,13 @@ body {
 </tr>
 <tr>
 <td>Decarburization</td>
-<td>Removing carbon from iron surface/melt toward steel chemistry</td>
-<td><a href="ch22.html">22</a></td>
+<td>Loss of carbon from steel or iron — deliberate in refining, damaging when hot hydrogen or oxidizing heat strips it from a part</td>
+<td><a href="ch32.html">32</a></td>
+</tr>
+<tr>
+<td>Defense in depth</td>
+<td>Several independent protective layers, so no single failure causes harm</td>
+<td><a href="ch37.html">37</a></td>
 </tr>
 <tr>
 <td>Delta-v (Δv)</td>
@@ -377,6 +419,11 @@ body {
 <td><a href="ch19.html">19</a></td>
 </tr>
 <tr>
+<td>Distribution shift</td>
+<td>Change between the data a model was trained on and the conditions it meets in use</td>
+<td><a href="ch46.html">46</a></td>
+</tr>
+<tr>
 <td>Doping</td>
 <td>Adding trace impurities to semiconductors to set carrier type/density</td>
 <td><a href="ch35.html">35</a></td>
@@ -387,19 +434,9 @@ body {
 <td><a href="ch47.html">47</a></td>
 </tr>
 <tr>
-<td>Eddy currents</td>
-<td>Circulating currents induced in conductors by changing magnetic fields</td>
-<td><a href="ch26.html">26</a></td>
-</tr>
-<tr>
-<td>Endothermic/exothermic</td>
-<td>Reaction absorbing/releasing heat</td>
-<td><a href="ch17.html">17</a></td>
-</tr>
-<tr>
-<td>Enthalpy</td>
-<td>Heat content at constant pressure; steam-table workhorse property</td>
-<td><a href="ch23.html">23</a></td>
+<td>Duck curve</td>
+<td>Daily net-demand shape when midday solar output deepens the trough and steepens the evening ramp</td>
+<td><a href="ch43.html">43</a></td>
 </tr>
 <tr>
 <td>Equilibrium (chemical)</td>
@@ -407,14 +444,14 @@ body {
 <td><a href="ch32.html">32</a></td>
 </tr>
 <tr>
-<td>Eutectic</td>
-<td>Alloy composition with lowest melting point of the mixture family</td>
-<td><a href="ch18.html">18</a></td>
+<td>Exothermic/endothermic</td>
+<td>Reaction releasing/absorbing heat</td>
+<td><a href="ch17.html">17</a></td>
 </tr>
 <tr>
 <td>Externality</td>
 <td>Cost/benefit of activity falling on parties not party to it (pollution classic)</td>
-<td><a href="ch47.html">47</a></td>
+<td><a href="ch28.html">28</a></td>
 </tr>
 <tr>
 <td>Fermentation</td>
@@ -452,6 +489,11 @@ body {
 <td><a href="ch30.html">30</a></td>
 </tr>
 <tr>
+<td>Goodhart's law</td>
+<td>When a measure becomes a target, it ceases to be a good measure</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
 <td>Haber-Bosch</td>
 <td>High-pressure catalytic ammonia synthesis breaking agriculture's nitrogen wall</td>
 <td><a href="ch32.html">32</a></td>
@@ -462,14 +504,29 @@ body {
 <td><a href="ch37.html">37</a></td>
 </tr>
 <tr>
+<td>Hard prerequisite</td>
+<td>Capability that cannot be produced reliably without another already existing</td>
+<td><a href="appendix-a.html">App A</a></td>
+</tr>
+<tr>
+<td>Heterosis</td>
+<td>Hybrid vigour: crosses of inbred lines out-yielding either parent</td>
+<td><a href="ch32.html">32</a></td>
+</tr>
+<tr>
+<td>Hot blast</td>
+<td>Furnace air preheated by waste heat before entering the tuyères; cuts fuel per ton</td>
+<td><a href="ch22.html">22</a></td>
+</tr>
+<tr>
+<td>I-MR chart</td>
+<td>Individuals and moving-range control chart for processes that yield one value per period</td>
+<td><a href="ch47.html">47</a></td>
+</tr>
+<tr>
 <td>Induction (electromagnetic)</td>
 <td>Changing magnetic flux inducing current in nearby circuits</td>
 <td><a href="ch25.html">25</a></td>
-</tr>
-<tr>
-<td>Insolation</td>
-<td>Solar power arriving per unit area; PV sizing input</td>
-<td><a href="ch43.html">43</a></td>
 </tr>
 <tr>
 <td>Isotope</td>
@@ -477,9 +534,14 @@ body {
 <td><a href="ch37.html">37</a></td>
 </tr>
 <tr>
-<td>Kerogen</td>
-<td>Solid organic matter in source rocks; petroleum's precursor</td>
-<td><a href="ch28.html">28</a></td>
+<td>Jump</td>
+<td>Skipping or compressing a historical stage; legal only when the five-part test of Appendix C passes</td>
+<td><a href="appendix-c.html">App C</a></td>
+</tr>
+<tr>
+<td>Kessler syndrome</td>
+<td>Cascade of orbital collisions whose debris makes further collisions likely</td>
+<td><a href="ch40.html">40</a></td>
 </tr>
 <tr>
 <td>Latent heat</td>
@@ -487,9 +549,24 @@ body {
 <td><a href="ch23.html">23</a></td>
 </tr>
 <tr>
+<td>Learning rate</td>
+<td>Fractional cost decline for each doubling of cumulative production</td>
+<td><a href="ch43.html">43</a></td>
+</tr>
+<tr>
+<td>Levigation</td>
+<td>Separating fine clay from grit by suspending it in water and decanting</td>
+<td><a href="ch05.html">5</a></td>
+</tr>
+<tr>
 <td>Lignin</td>
-<td>Wood polymer causing pulp acidity/yellowing if not removed</td>
+<td>Complex wood polymer that resists some chemical pulping and promotes yellowing; oxidation products contribute strongly to paper ageing</td>
 <td><a href="ch18.html">18</a></td>
+</tr>
+<tr>
+<td>Limit gauge</td>
+<td>Fixed GO/NO-GO gauge pair that accepts or rejects a part dimension without reading a scale</td>
+<td><a href="ch15.html">15</a></td>
 </tr>
 <tr>
 <td>Liquidity</td>
@@ -502,29 +579,19 @@ body {
 <td><a href="ch14.html">14</a></td>
 </tr>
 <tr>
+<td>Mass ratio</td>
+<td>Rocket's fuelled mass divided by its empty mass; set by the rocket equation</td>
+<td><a href="ch39.html">39</a></td>
+</tr>
+<tr>
 <td>Metrology</td>
 <td>Science of measurement standards and calibration chains</td>
 <td><a href="ch20.html">20</a></td>
 </tr>
 <tr>
-<td>Modulus of elasticity</td>
-<td>Stiffness measure: stress/strain in elastic region</td>
-<td><a href="ch27.html">27</a></td>
-</tr>
-<tr>
-<td>Mordant</td>
-<td>Fixative binding dyes to fibers</td>
-<td><a href="ch03.html">3</a></td>
-</tr>
-<tr>
-<td>Moral hazard</td>
-<td>Risk-taking increases when actors are shielded from consequences</td>
-<td><a href="ch47.html">47</a></td>
-</tr>
-<tr>
-<td>Nitriding</td>
-<td>Case-hardening steel via nitrogen diffusion for wear resistance</td>
-<td><a href="ch14.html">14</a></td>
+<td>N-1 contingency</td>
+<td>Planning rule that a credible single failure must not cause unacceptable loss of service</td>
+<td><a href="ch43.html">43</a></td>
 </tr>
 <tr>
 <td>Ohm's law</td>
@@ -532,14 +599,9 @@ body {
 <td><a href="ch25.html">25</a></td>
 </tr>
 <tr>
-<td>Opportunity cost</td>
-<td>Value of best alternative foregone by any choice</td>
-<td><a href="ch12.html">12</a></td>
-</tr>
-<tr>
 <td>Oxidation-reduction</td>
-<td>Electron-transfer reaction pair; smelting/combustion/respiration all examples</td>
-<td><a href="ch21.html">21</a></td>
+<td>Electron-transfer reaction pair; kiln atmospheres, smelting, and combustion are all examples</td>
+<td><a href="ch05.html">5</a></td>
 </tr>
 <tr>
 <td>pH</td>
@@ -550,11 +612,6 @@ body {
 <td>Photolithography</td>
 <td>Light-through-mask pattern transfer defining semiconductor layers</td>
 <td><a href="ch35.html">35</a></td>
-</tr>
-<tr>
-<td>Piezoelectric</td>
-<td>Materials generating charge under mechanical stress (and reverse)</td>
-<td><a href="ch45.html">45</a></td>
 </tr>
 <tr>
 <td>Planar process</td>
@@ -592,9 +649,19 @@ body {
 <td><a href="ch47.html">47</a></td>
 </tr>
 <tr>
-<td>Pyrometallurgy</td>
-<td>Heat-based metal extraction/refinement</td>
-<td><a href="ch13.html">13</a></td>
+<td>Process capability</td>
+<td>Comparison of tolerance width with process spread (e.g. tolerance ÷ 6σ̂); meaningful only for a stable process</td>
+<td><a href="ch15.html">15</a></td>
+</tr>
+<tr>
+<td>Puddling</td>
+<td>Stirring molten pig iron in a reverberatory furnace to burn out carbon, giving wrought iron</td>
+<td><a href="ch22.html">22</a></td>
+</tr>
+<tr>
+<td>PUE</td>
+<td>Power usage effectiveness: total data-centre power divided by IT equipment power</td>
+<td><a href="ch42.html">42</a></td>
 </tr>
 <tr>
 <td>Quenching</td>
@@ -602,9 +669,9 @@ body {
 <td><a href="ch14.html">14</a></td>
 </tr>
 <tr>
-<td>Rankine cycle</td>
-<td>Idealized steam power-plant thermodynamic cycle</td>
-<td><a href="ch23.html">23</a></td>
+<td>Rational subgroup</td>
+<td>Small set of consecutive measurements taken so that only short-term variation lies within it</td>
+<td><a href="ch47.html">47</a></td>
 </tr>
 <tr>
 <td>Recombinant DNA</td>
@@ -617,19 +684,9 @@ body {
 <td><a href="ch22.html">22</a></td>
 </tr>
 <tr>
-<td>Regenerative braking</td>
-<td>Recovering deceleration energy electrically instead of wasting as heat</td>
-<td><a href="ch29.html">29</a></td>
-</tr>
-<tr>
 <td>Reinforcement ratio</td>
 <td>Steel area ÷ concrete area governing beam design</td>
 <td><a href="ch27.html">27</a></td>
-</tr>
-<tr>
-<td>Residual magnetism</td>
-<td>Remnant magnetization enabling generator self-excitation</td>
-<td><a href="ch26.html">26</a></td>
 </tr>
 <tr>
 <td>Rent-seeking</td>
@@ -637,24 +694,44 @@ body {
 <td><a href="ch47.html">47</a></td>
 </tr>
 <tr>
+<td>Residual magnetism</td>
+<td>Remnant magnetization enabling generator self-excitation</td>
+<td><a href="ch26.html">26</a></td>
+</tr>
+<tr>
+<td>Retting</td>
+<td>Soaking or dew-exposing plant stems so microbes loosen bast fibre from the stalk</td>
+<td><a href="ch03.html">3</a></td>
+</tr>
+<tr>
 <td>Reverberatory furnace</td>
 <td>Flame passes OVER hearth separating fuel from charge</td>
 <td><a href="ch22.html">22</a></td>
 </tr>
 <tr>
+<td>Ring vaccination</td>
+<td>Vaccinating the contacts, and contacts of contacts, around each detected case</td>
+<td><a href="ch31.html">31</a></td>
+</tr>
+<tr>
 <td>RTG</td>
 <td>Radioisotope thermoelectric generator powering deep-space craft</td>
-<td><a href="ch40.html">40</a></td>
+<td><a href="ch37.html">37</a></td>
 </tr>
 <tr>
 <td>Salinization</td>
-<td>Salt accumulation ruining irrigated soils; Mesopotamia's killer</td>
+<td>Salt accumulation ruining irrigated soils; a documented stress on southern Mesopotamian farming</td>
 <td><a href="ch07.html">7</a></td>
+</tr>
+<tr>
+<td>Schmutzdecke</td>
+<td>Biologically active surface layer of a slow sand filter that removes many pathogens</td>
+<td><a href="ch30.html">30</a></td>
 </tr>
 <tr>
 <td>Sintering</td>
 <td>Powder particles fusing below melting point under heat/pressure</td>
-<td><a href="ch37.html">37</a></td>
+<td><a href="ch05.html">5</a></td>
 </tr>
 <tr>
 <td>Slag</td>
@@ -662,14 +739,19 @@ body {
 <td><a href="ch10.html">10</a></td>
 </tr>
 <tr>
-<td>Sunk cost</td>
-<td>Already-spent resources irrelevant to forward-looking decisions</td>
-<td><a href="ch12.html">12</a></td>
+<td>Specific impulse (Isp)</td>
+<td>Thrust per unit propellant weight flow, in seconds; proportional to exhaust velocity</td>
+<td><a href="ch39.html">39</a></td>
 </tr>
 <tr>
 <td>Superalloy</td>
 <td>Nickel/cobalt alloys retaining strength near melting; jet turbine enabler</td>
 <td><a href="ch33.html">33</a></td>
+</tr>
+<tr>
+<td>Taylor's principle</td>
+<td>GO gauges check the full form at maximum material; NO-GO gauges check single dimensions; gauge zones sit inside the tolerance</td>
+<td><a href="ch15.html">15</a></td>
 </tr>
 <tr>
 <td>TCP/IP</td>
@@ -684,7 +766,7 @@ body {
 <tr>
 <td>Tensile strength</td>
 <td>Maximum pulling stress before failure</td>
-<td><a href="ch02.html">2</a></td>
+<td><a href="ch27.html">27</a></td>
 </tr>
 <tr>
 <td>Thermocouple</td>
@@ -712,9 +794,14 @@ body {
 <td><a href="ch17.html">17</a></td>
 </tr>
 <tr>
-<td>Watt</td>
-<td>Power unit: joules/second</td>
-<td><a href="ch16.html">16</a></td>
+<td>Water activity (aw)</td>
+<td>Free water available to microbes; below about 0.6 none can grow</td>
+<td><a href="ch04.html">4</a></td>
+</tr>
+<tr>
+<td>Watt (W, kW)</td>
+<td>Power unit: one joule per second; 1 kW = 1,000 W</td>
+<td><a href="ch08.html">8</a></td>
 </tr>
 <tr>
 <td>Work hardening</td>
@@ -724,11 +811,6 @@ body {
 <tr>
 <td>Yield point</td>
 <td>Stress where permanent deformation begins</td>
-<td><a href="ch27.html">27</a></td>
-</tr>
-<tr>
-<td>Young's modulus</td>
-<td>Elastic stiffness coefficient of materials</td>
 <td><a href="ch27.html">27</a></td>
 </tr>
 <tr>
@@ -744,7 +826,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="appendix-g.html" class="reader-nav-link">Appendix G →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch32_green_revolution-chapter-32-feeding-billions-haber-bosch-breeding-mechanized-farming">Chapter 32: Feeding Billions: Haber-Bosch, Breeding, Mechanized Farming</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1909 Haber → 1970s Green Revolution · <strong>Difficulty:</strong> high
-<br><strong>Requires:</strong> <a href="ch21.html">Ch 21</a> pressure chemistry, <a href="ch29.html">Ch 29</a> tractors, <a href="ch30.html">Ch 30</a>-era logistics · <br><strong>Unlocks:</strong> megacity-scale food security, demographic headroom for specialists</p>
+<p><strong>Era span:</strong> 1909 Haber → 1970s Green Revolution · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch21.html">Ch 21</a>, <a href="ch29.html">Ch 29</a>, <a href="ch30.html">Ch 30</a><br><strong>Unlocks:</strong> <a href="ch47.html">Ch 47</a></p>
 </blockquote>
 <p>Agriculture's ancient nitrogen ledger (<a href="ch07.html">Ch 7</a>) capped populations at what manure and legumes could fix. Breaking that cap — plus genetics plus machines — tripled grain yields and made the modern world demographically possible. Roughly half the nitrogen atoms in your body passed through a Haber reactor.</p>
 <figure class="fig">
@@ -259,8 +260,8 @@ body {
 <text x="540" y="100" text-anchor="middle" font-size="9">cool → liquid out</text>
 <text x="540" y="112" text-anchor="middle" font-size="9">unreacted loops back</text>
 <g stroke="#16130e" stroke-width="2">
-<line x1="150" y1="100" x2="250" y2="100"/><polygon points="250,94 250,106 258,100" fill="#16130e"/>
-<line x1="390" y1="100" x2="480" y2="100"/><polygon points="480,94 480,106 488,100" fill="#16130e"/>
+<line x1="150" y1="100" x2="242" y2="100"/><polygon points="242,94 242,106 250,100" fill="#16130e"/>
+<line x1="390" y1="100" x2="472" y2="100"/><polygon points="472,94 472,106 480,100" fill="#16130e"/>
 </g>
 <path d="M540,130 Q540,170 320,170 Q100,170 95,130" fill="none" stroke="#16130e" stroke-width="1.5" stroke-dasharray="6,3"/>
 <polygon points="95,130 87,128 91,120" fill="#16130e"/>
@@ -271,11 +272,11 @@ body {
 </figure>
 
 <h2 id="ch32_green_revolution-321-the-nitrogen-wall">32.1 The Nitrogen Wall</h2>
-<p>Every protein requires fixed nitrogen. Pre-1913 sources: legume rotation (~fixed ceiling), guano islands (mined toward exhaustion; naval wars fought over them), Chilean saltpeter (finite, strategic). Chemistry knew N₂ + 3H₂ → 2NH₃ was possible — ammonia is the hydrogen carrier of fixed nitrogen — but equilibrium HATES you: high pressure favors product, high temperature favors speed but kills yield.</p>
-<p><strong>Haber-Bosch synthesis:</strong> ~200 atm, ~450–500 °C, iron catalyst (promoted with K₂O/Al₂O₃), gases recycled in loops so per-pass yields of ~15 % compound to near-total conversion. Bosch's contribution was engineering the impossible vessel: low-alloy steel decarbonizes under hot hydrogen — he lined reactors with soft iron that sacrificially absorbs it. Pressure-vessel metallurgy (<a href="ch27.html">Ch 27</a>) + recycle-loop design = industrial fixation (Oppau plant, 1913).</p>
+<p>Every protein requires fixed nitrogen. Pre-1913 sources: legume rotation (~fixed ceiling), guano islands (mined toward exhaustion; naval wars fought over them), Chilean saltpeter (finite, strategic). Chemistry knew N₂ + 3H₂ ⇌ 2NH₃ was possible, but equilibrium HATES you: high pressure favors product, high temperature favors speed but kills yield.</p>
+<p><strong>Haber-Bosch synthesis:</strong> ~200 atm, ~450–500 °C, iron catalyst (promoted with K₂O/Al₂O₃), gases recycled in loops so per-pass yields of ~15 % compound to near-total conversion. Bosch's contribution was engineering the impossible vessel: low-alloy steel decarburizes under hot hydrogen — he lined reactors with low-carbon soft iron (nothing to decarburize) inside a steel shell drilled with vent holes so diffusing hydrogen could escape. Pressure-vessel metallurgy (<a href="ch27.html">Ch 27</a>) + recycle-loop design = industrial fixation (Oppau plant, 1913).</p>
 <ul>
-<li>Hydrogen source evolution: coal gasification → natural gas steam reforming (CH₄ + H₂O → H₂ + CO₂) once pipelines exist — energy cost tracks fuel price forever.</li>
-<li>Consequence: synthetic fertilizer now feeds roughly half of humanity. This single process is the strongest candidate for "most important invention" in this book by lives enabled.</li>
+<li>Hydrogen source evolution: coal gasification → natural gas steam reforming (overall CH₄ + 2H₂O → CO₂ + 4H₂, via reforming and the water-gas shift) once pipelines exist — energy cost tracks fuel price forever.</li>
+<li>Consequence: synthetic fertilizer now feeds roughly half of humanity. By lives enabled, this single process is a strong candidate for the most consequential invention in this book.</li>
 </ul>
 <div class="table-wrap"><table>
 <thead>
@@ -347,12 +348,11 @@ body {
 <text x="235" y="138" text-anchor="middle" font-weight="bold">~2–4</text>
 <text x="235" y="163" text-anchor="middle" font-size="9">+ NPK +</text>
 <text x="235" y="174" text-anchor="middle" font-size="9">water</text>
-<rect x="300" y="116" width="90" height="34" fill="#c9a86a" stroke="#8f3b2d" stroke-width="1.5" stroke-dasharray="5,3"/>
-<text x="345" y="138" text-anchor="middle" font-weight="bold">lodges!</text>
+<polygon points="300,150 372,150 404,122 332,122" fill="#c9a86a" stroke="#8f3b2d" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="352" y="140" text-anchor="middle" font-weight="bold">lodges!</text>
 <text x="345" y="163" text-anchor="middle" font-size="9">tall + heavy</text>
 <text x="345" y="174" text-anchor="middle" font-size="9">= flat crop</text>
 <rect x="410" y="60" width="110" height="90" fill="#2e5b34" stroke="#16130e" stroke-width="2"/>
-<line x1="410" y1="90" x2="520" y2="90" stroke="#16130e" stroke-width="1" stroke-dasharray="4,3"/>
 <text x="465" y="109" text-anchor="middle" font-weight="bold" fill="#fff" stroke="#16130e" stroke-width="0.9">6–10</text>
 <text x="465" y="163" text-anchor="middle" font-size="9">dwarf + NPK</text>
 <text x="465" y="174" text-anchor="middle" font-size="9">+ water + care</text>
@@ -375,7 +375,7 @@ body {
 </ul>
 <p><strong>IPM in five lines:</strong> (1) scout weekly, count pests + beneficials; (2) spray only past economic threshold; (3) rotate modes of action every season; (4) preserve refuges and predators (hedges, beetle banks); (5) plow/drain/rotate to break cycles mechanically first. The sprayer is the last resort, not the first patrol.</p>
 <h2 id="ch32_green_revolution-325-mechanization-and-irrigation-completion">32.5 Mechanization and Irrigation Completion</h2>
-<p>Tractors/combines (<a href="ch29.html">Ch 29</a>) free land from horse feed and labor from harvest crews; tube wells + center-pivot systems extend irrigation where aquifers allow (<strong>watch drawdown rates — Ogallala-style overdraft is a slow-motion catastrophe</strong>); refrigerated logistics connect harvests to cities year-round (<a href="ch26.html">Ch 26</a>, <a href="ch24.html">24</a>).</p>
+<p>Tractors/combines (<a href="ch29.html">Ch 29</a>) free land from horse feed and labor from harvest crews; tube wells + center-pivot systems extend irrigation where aquifers allow (<strong>watch drawdown rates — Ogallala-style overdraft is a slow-motion catastrophe</strong>); refrigerated logistics connect harvests to cities year-round (<a href="ch24.html">Ch 24</a>, <a href="ch43.html">Ch 43</a> §43.7).</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -450,7 +450,7 @@ body {
 <ul>
 <li><strong>Haber-Bosch went to war first:</strong> Oppau's ammonia fed the Ostwald process (ammonia → nitric acid → explosives) once British naval blockade choked Chilean saltpeter in WWI — synthetic nitrogen sustained German munitions for years. Dual-use from day one; the fertilizer dividend came only after 1918, and Chile's nitrate economy collapsed into depression as a direct consequence. Energy-dense chemistry does not choose its customers.</li>
 <li><strong>Borlaug's shuttle breeding (Mexico, 1944–53):</strong> two nurseries at different latitudes doubled generations per year — geography hacked for breeding speed; stem-rust resistance came from thousands of crosses. Norin 10 dwarfing genes reached him via Orville Vogel (Washington State), whose source traced to Japanese breeding lines. CIMMYT institutionalized the pipeline.</li>
-<li><strong>IR8 (1966):</strong> IRRI's cross of Indonesian tall Peta with Taiwanese dwarf Dee-geo-woo-gen yielded ~10 t/ha under ideal management versus traditional ~1–2 — the "miracle rice" that made Asian rice self-sufficiency plausible. Ford and Rockefeller foundations funded IRRI (founded 1962, Los Baños); national governments did the scaling.</li>
+<li><strong>IR8 (1966):</strong> IRRI's cross of Indonesian tall Peta with Taiwanese dwarf Dee-geo-woo-gen yielded ~10 t/ha under ideal management versus traditional ~1–2 — the "miracle rice" that made Asian rice self-sufficiency plausible. Ford and Rockefeller foundations funded IRRI (founded 1960, Los Baños; research began 1962); national governments did the scaling.</li>
 <li>The famine-that-wasn't context: 1960s neo-Malthusian bestsellers (<em>Famine—1975!</em> etc.) predicted mass starvation; PL-480 food-aid politics and Green Revolution yields jointly falsified the near-term forecasts. Later scholars credit both factors and note India's monsoon luck; the book records the forecast failure without crowing.</li>
 <li><strong>Nobel Peace Prize, Borlaug, 1970</strong> — an agronomist winning peace's prize is itself data about what feeding people prevents.</li>
 </ul>
@@ -462,7 +462,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch33.html" class="reader-nav-link">Chapter 33 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

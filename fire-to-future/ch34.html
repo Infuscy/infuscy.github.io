@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch34_vacuum_tubes-chapter-34-radio-radar-television-vacuum-tube-electronics">Chapter 34: Radio, Radar, Television: Vacuum-Tube Electronics</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1887 Hertz → 1950s · <strong>Difficulty:</strong> high
-<br><strong>Requires:</strong> <a href="ch25.html">Ch 25</a>/<a href="ch26.html">26</a>, <a href="ch17.html">Ch 17</a> glasswork · <br><strong>Unlocks:</strong> <a href="ch35.html">Ch 35</a> (as scaffolding + spec source), broadcasting, navigation</p>
+<p><strong>Era span:</strong> 1887 Hertz → 1950s · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch17.html">Ch 17</a>, <a href="ch25.html">Ch 25</a>, <a href="ch26.html">Ch 26</a><br><strong>Unlocks:</strong> <a href="ch35.html">Ch 35</a>, <a href="ch40.html">Ch 40</a>, <a href="ch41.html">Ch 41</a>, <a href="ch50.html">Ch 50</a></p>
 </blockquote>
 <p>Electronics begins when engineers stop merely carrying power and start SHAPING signals. Vacuum tubes — electrons boiling off heated cathodes, commanded by grids — provided the first controllable amplification and switching, building every concept semiconductors later inherited: gain, oscillation, modulation, logic.</p>
 <figure class="fig">
@@ -273,7 +274,8 @@ body {
 
 <h2 id="ch34_vacuum_tubes-341-waves-proven">34.1 Waves Proven</h2>
 <p>Maxwell's equations predicted electromagnetic waves (<a href="ch25.html">Ch 25</a>); Hertz generated and detected spark-gap radio waves (1887) — reflection, refraction, polarization all demonstrated with brass gaps and loops. Marconi's contribution was ENGINEERING: taller antennas, grounded circuits, coherer receivers refined into commercial ship-to-shore service; 1901 transatlantic signal (over skeptics' horizon-curve objections — the ionosphere, unknown, was bouncing it).</p>
-<p><strong>Starter-station recipe:</strong> spark gap or arc transmitter (kilowatts, broadband — dirty but audible), elevated wire antenna (~λ/4 against ground radials), coherer or crystal detector + headphones. Range scales with antenna height and power; reliability scales with frequency discipline — log every contact (time, band, conditions) and the ionosphere teaches itself seasonally.</p>
+<p><strong>Historical starter station:</strong> spark gap or arc transmitter (kilowatts, broadband — dirty but audible), elevated wire antenna (~λ/4 against ground radials), coherer or crystal detector + headphones. Range scales with antenna height and power; reliability scales with frequency discipline — log every contact (time, band, conditions) and the ionosphere teaches itself seasonally.</p>
+<p class="co co-gate"><strong>Competence gate:</strong> a spark transmitter radiates across a wide band and jams other receivers within range, which is why international radio regulation phased spark out from the late 1920s in favour of narrow-band continuous-wave transmitters. Any transmitter needs an assigned frequency and power limit, under the applicable licence or, where no regulator operates, a coordinated frequency plan. Its high-voltage supply, antenna work, and RF exposure are qualified electrical work (see <a href="#ch34_vacuum_tubes-348-workshop-sequence">§34.8</a>).</p>
 <h2 id="ch34_vacuum_tubes-342-the-triode-electronics-exists">34.2 The Triode: Electronics Exists</h2>
 <ul>
 <li>Fleming diode (1904): hot cathode boils electrons toward plate; current flows ONE way — rectification.</li>
@@ -336,12 +338,14 @@ body {
 <title>AM versus FM and superhet blocks</title>
 <rect x="0" y="0" width="640" height="220" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 34.2 — AM varies height; FM varies spacing; superhet fixes one IF</text>
-<text x="160" y="42" font-size="10" font-weight="bold">AM (tall = loud)</text>
-<path d="M40,70 Q55,50 70,70 Q85,90 100,70 Q115,52 130,70 Q145,88 160,70 Q175,54 190,70 Q205,86 220,70 Q235,56 250,70 Q265,84 280,70" fill="none" stroke="#8f3b2d" stroke-width="1.5"/>
-<text x="160" y="90" text-anchor="middle" font-size="9">lightning also changes height → noise</text>
-<text x="160" y="108" font-size="10" font-weight="bold">FM (dense = shifted)</text>
-<path d="M40,135 Q48,125 56,135 Q64,145 72,135 Q80,125 88,135 Q100,125 112,135 Q124,145 136,135 Q148,125 160,135 Q168,145 176,135 Q184,125 192,135 Q204,125 216,135 Q228,145 240,135 Q252,125 264,135" fill="none" stroke="#2f5286" stroke-width="1.5"/>
-<text x="160" y="155" text-anchor="middle" font-size="9">clip amplitude → static vanishes</text>
+<text x="160" y="42" text-anchor="middle" font-size="10" font-weight="bold">AM (tall = loud)</text>
+<polyline points="40,63 44,62.9 48,62.5 52,61.9 56,61.2 60,60.2 64,59.2 68,58.1 72,56.9 76,55.8 80,54.8 84,53.8 88,53.1 92,52.5 96,52.1 100,52 104,52.1 108,52.5 112,53.1 116,53.8 120,54.8 124,55.8 128,56.9 132,58.1 136,59.2 140,60.2 144,61.2 148,61.9 152,62.5 156,62.9 160,63 164,62.9 168,62.5 172,61.9 176,61.2 180,60.2 184,59.2 188,58.1 192,56.9 196,55.8 200,54.8 204,53.8 208,53.1 212,52.5 216,52.1 220,52 224,52.1 228,52.5 232,53.1 236,53.8 240,54.8 244,55.8 248,56.9 252,58.1 256,59.2 260,60.2 264,61.2 268,61.9 272,62.5 276,62.9 280,63" fill="none" stroke="#b3a67f" stroke-width="1"/>
+<polyline points="40,73 44,73.1 48,73.5 52,74.1 56,74.8 60,75.8 64,76.8 68,77.9 72,79.1 76,80.2 80,81.2 84,82.2 88,82.9 92,83.5 96,83.9 100,84 104,83.9 108,83.5 112,82.9 116,82.2 120,81.2 124,80.2 128,79.1 132,77.9 136,76.8 140,75.8 144,74.8 148,74.1 152,73.5 156,73.1 160,73 164,73.1 168,73.5 172,74.1 176,74.8 180,75.8 184,76.8 188,77.9 192,79.1 196,80.2 200,81.2 204,82.2 208,82.9 212,83.5 216,83.9 220,84 224,83.9 228,83.5 232,82.9 236,82.2 240,81.2 244,80.2 248,79.1 252,77.9 256,76.8 260,75.8 264,74.8 268,74.1 272,73.5 276,73.1 280,73" fill="none" stroke="#b3a67f" stroke-width="1"/>
+<polyline points="40,68 41,66.1 42,64.4 43,63.3 44,62.9 45,63.2 46,64.3 47,65.9 48,68 49,70.1 50,72.1 51,73.4 52,74.1 53,73.8 54,72.5 55,70.5 56,68 57,65.3 58,62.9 59,61.1 60,60.2 61,60.6 62,62.2 63,64.7 64,68 65,71.5 66,74.6 67,76.9 68,77.9 69,77.4 70,75.4 71,72.1 72,68 73,63.7 74,59.8 75,57 76,55.8 77,56.5 78,59 79,63 80,68 81,73.2 82,77.7 83,80.9 84,82.2 85,81.3 86,78.3 87,73.7 88,68 89,62.2 90,57.2 91,53.8 92,52.5 93,53.6 94,56.9 95,61.9 96,68 97,74.1 98,79.3 99,82.8 100,84 101,82.8 102,79.3 103,74.1 104,68 105,61.9 106,56.9 107,53.6 108,52.5 109,53.8 110,57.2 111,62.2 112,68 113,73.7 114,78.3 115,81.3 116,82.2 117,80.9 118,77.7 119,73.2 120,68 121,63 122,59 123,56.5 124,55.8 125,57 126,59.8 127,63.7 128,68 129,72.1 130,75.4 131,77.4 132,77.9 133,76.9 134,74.6 135,71.5 136,68 137,64.7 138,62.2 139,60.6 140,60.2 141,61.1 142,62.9 143,65.3 144,68 145,70.5 146,72.5 147,73.8 148,74.1 149,73.4 150,72.1 151,70.1 152,68 153,65.9 154,64.3 155,63.2 156,62.9 157,63.3 158,64.4 159,66.1 160,68 161,69.9 162,71.6 163,72.7 164,73.1 165,72.8 166,71.7 167,70.1 168,68 169,65.9 170,63.9 171,62.6 172,61.9 173,62.2 174,63.5 175,65.5 176,68 177,70.7 178,73.1 179,74.9 180,75.8 181,75.4 182,73.8 183,71.3 184,68 185,64.5 186,61.4 187,59.1 188,58.1 189,58.6 190,60.6 191,63.9 192,68 193,72.3 194,76.2 195,79 196,80.2 197,79.5 198,77 199,73 200,68 201,62.8 202,58.3 203,55.1 204,53.8 205,54.7 206,57.7 207,62.3 208,68 209,73.8 210,78.8 211,82.2 212,83.5 213,82.4 214,79.1 215,74.1 216,68 217,61.9 218,56.7 219,53.2 220,52 221,53.2 222,56.7 223,61.9 224,68 225,74.1 226,79.1 227,82.4 228,83.5 229,82.2 230,78.8 231,73.8 232,68 233,62.3 234,57.7 235,54.7 236,53.8 237,55.1 238,58.3 239,62.8 240,68 241,73 242,77 243,79.5 244,80.2 245,79 246,76.2 247,72.3 248,68 249,63.9 250,60.6 251,58.6 252,58.1 253,59.1 254,61.4 255,64.5 256,68 257,71.3 258,73.8 259,75.4 260,75.8 261,74.9 262,73.1 263,70.7 264,68 265,65.5 266,63.5 267,62.2 268,61.9 269,62.6 270,63.9 271,65.9 272,68 273,70.1 274,71.7 275,72.8 276,73.1 277,72.7 278,71.6 279,69.9 280,68" fill="none" stroke="#8f3b2d" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="160" y="98" text-anchor="middle" font-size="9">envelope = signal · lightning also changes height → noise</text>
+<text x="160" y="114" text-anchor="middle" font-size="10" font-weight="bold">FM (spacing varies with signal)</text>
+<polyline points="40,136 41,133.1 42,130.4 43,127.9 44,125.8 45,124.3 46,123.3 47,123 48,123.4 49,124.4 50,126 51,128.2 52,130.8 53,133.8 54,136.9 55,139.9 56,142.8 57,145.3 58,147.2 59,148.5 60,149 61,148.7 62,147.5 63,145.5 64,142.8 65,139.6 66,136.1 67,132.6 68,129.2 69,126.4 70,124.3 71,123.2 72,123.1 73,124.3 74,126.5 75,129.7 76,133.6 77,137.7 78,141.8 79,145.3 80,147.8 81,148.9 82,148.6 83,146.7 84,143.4 85,139.1 86,134.3 87,129.7 88,125.9 89,123.6 90,123.1 91,124.6 92,128 93,132.7 94,138.1 95,143.2 96,147.1 97,148.9 98,148.3 99,145.3 100,140.3 101,134.4 102,128.8 103,124.6 104,123 105,124.3 106,128.4 107,134.4 108,140.9 109,146.1 110,148.8 111,148.2 112,144.2 113,137.9 114,131 115,125.5 116,123 117,124.5 118,129.4 119,136.5 120,143.5 121,148.1 122,148.7 123,145.1 124,138.3 125,130.7 126,124.9 127,123 128,125.9 129,132.6 130,140.5 131,146.8 132,149 133,146.1 134,139.1 135,130.9 136,124.7 137,123.1 138,126.8 139,134.4 140,142.7 141,148.2 142,148.4 143,143.3 144,134.9 145,127 146,123.1 147,124.9 148,131.7 149,140.5 150,147.2 151,148.8 152,144.6 153,136.3 154,127.9 155,123.3 156,124.5 157,131.1 158,140 159,147 160,148.9 161,144.7 162,136.5 163,128 164,123.3 165,124.5 166,131 167,139.9 168,146.9 169,148.9 170,144.9 171,136.9 172,128.4 173,123.5 174,124.1 175,130.1 176,138.7 177,146.1 178,149 179,146.2 180,139 181,130.6 182,124.4 183,123.2 184,127.3 185,135 186,143 187,148.2 188,148.5 189,143.8 190,136.2 191,128.5 192,123.7 193,123.5 194,128 195,135.3 196,142.8 197,147.9 198,148.8 199,145.4 200,138.9 201,131.4 202,125.6 203,123 204,124.6 205,129.5 206,136.4 207,143.1 208,147.7 209,149 210,146.6 211,141.5 212,135 213,128.8 214,124.4 215,123 216,124.7 217,129 218,134.8 219,140.9 220,145.8 221,148.6 222,148.8 223,146.4 224,142 225,136.6 226,131.1 227,126.6 228,123.8 229,123 230,124.4 231,127.6 232,132.1 233,137.1 234,141.8 235,145.7 236,148.2 237,149 238,148.1 239,145.8 240,142.3 241,138.1 242,133.7 243,129.6 244,126.3 245,124.1 246,123.1 247,123.3 248,124.8 249,127.2 250,130.4 251,134.1 252,137.8 253,141.4 254,144.4 255,146.8 256,148.4 257,149 258,148.7 259,147.5 260,145.6 261,143 262,140.1 263,136.9 264,133.7 265,130.7 266,128 267,125.8 268,124.2 269,123.2 270,123 271,123.5 272,124.6 273,126.4 274,128.6 275,131.2 276,134 277,137 278,139.8 279,142.5 280,144.8" fill="none" stroke="#2f5286" stroke-width="1.75" stroke-linejoin="round"/>
+<text x="160" y="164" text-anchor="middle" font-size="9">constant height: clip amplitude → static vanishes</text>
 <text x="470" y="42" font-size="10" font-weight="bold">SUPERHET (every station → one IF)</text>
 <g font-size="9" text-anchor="middle">
 <rect x="350" y="55" width="70" height="34" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/><text x="385" y="68">ANT + RF</text><text x="385" y="80">tune</text>
@@ -358,7 +362,7 @@ body {
 <text x="470" y="162" text-anchor="middle" font-size="9">front end just translates stations to it</text>
 <text x="470" y="180" text-anchor="middle" font-size="9" font-style="italic">dipole ≈ λ/2 · ground wave by day, skip by night</text>
 </svg>
-<figcaption><strong>Figure 34.2.</strong> AM is simple and storm-noisy; FM trades bandwidth for silence. The superheterodyne's genius is laziness done right: convert every station to one fixed intermediate frequency, then amplify and filter that one frequency superbly.</figcaption>
+<figcaption><strong>Figure 34.2.</strong> AM varies carrier amplitude; FM varies instantaneous frequency, shown here by changing wave spacing. Both trade bandwidth and receiver design for different noise and capture behaviour. The superheterodyne converts every station to a common intermediate frequency for shared gain and filtering.</figcaption>
 </figure>
 
 <h2 id="ch34_vacuum_tubes-344-radar">34.4 Radar</h2>
@@ -373,9 +377,9 @@ body {
 </thead>
 <tbody>
 <tr>
-<td>HF / shortwave skip</td>
+<td>HF (Chain Home, ~20–30 MHz)</td>
 <td>Long-range early warning</td>
-<td>Crude accuracy, huge coverage (Chain Home)</td>
+<td>Crude bearing accuracy, huge floodlit coverage</td>
 </tr>
 <tr>
 <td>Microwave (10 cm, magnetron)</td>
@@ -401,7 +405,7 @@ body {
 <p>Broadcasting's social weight deserves stating: synchronized national audiences, advertising-funded content economics, emergency broadcast capability — media infrastructure as governance layer (<a href="ch47.html">Ch 47</a>).</p>
 <p><strong>Scanning in one paragraph:</strong> camera tube stores a charge image; an electron beam scans it line by line (525 or 625 lines, 25/30 frames, interlaced odd/even to halve flicker); the current varies with brightness; the receiver's gun repaints phosphor in lockstep (sync pulses). Color adds three sub-signals (or sequential fields) inside the same timing so monochrome sets still show grey — compatibility as engineering constraint, not courtesy.</p>
 <h2 id="ch34_vacuum_tubes-346-tubes-limits-semiconductor-handoff">34.6 Tubes' Limits → Semiconductor Handoff</h2>
-<p>Tubes consume filament power, cook themselves, fail statistically (ENIAC burned ~thousands of tubes; MTBF arithmetic dominated maintenance planning), and miniaturize poorly. Yet they established EVERY circuit concept: amplifiers, oscillators, mixers, gates, flip-flops, delay-line memory (<a href="ch36.html">Ch 36</a>).</p>
+<p>Tubes consume filament power, cook themselves, fail statistically (ENIAC's ~17,500 tubes failed at several a week even with derated heaters; MTBF arithmetic dominated maintenance planning), and miniaturize poorly. Yet they established EVERY circuit concept: amplifiers, oscillators, mixers, gates, flip-flops, delay-line memory (<a href="ch36.html">Ch 36</a>).</p>
 <p class="co co-jump"><strong>Jump:</strong> treat vacuum-tube CONSUMER products as skippable scaffolding IF semiconductor-grade silicon purification exists (<a href="ch35.html">Ch 35</a>); keep tubes only where high-power/high-frequency niches still favor them (magnetrons in ovens/radar, high-power broadcast). What is NOT skippable: the circuit-design knowledge this chapter encodes — transistors inherit schematics, not just replace bottles.</p>
 <div class="table-wrap"><table>
 <thead>
@@ -444,7 +448,7 @@ body {
 <li><strong>The magnetron handover:</strong> Randall and Boot's resonant cavity magnetron (Birmingham, February 1940) produced kilowatt pulses at 10 cm; the Tizard Mission carried one to America that September. Official US historian James Phinney Baxter III called it "the most valuable cargo ever brought to our shores" — microwave radar, then postwar microwave engineering, descends from that suitcase.</li>
 </ul>
 <h2 id="ch34_vacuum_tubes-348-workshop-sequence">34.8 Workshop Sequence</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> tube and transmitter benches store lethal charge after switch-off — filter capacitors hold kilovolts, CRT/magnetron supplies bite through insulation, and RF burns deep before pain warns. Bleed and short high-voltage rails before touching, keep one hand behind the back on live checks, ground chassis and antennas against lightning, and never defeat interlocks for alignment.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> tube and transmitter benches can retain lethal charge after switch-off; filter capacitors, CRT supplies, magnetron systems, and RF power create shock, arc, fire, and radiation hazards. De-energisation, lockout, verification with a correctly rated meter, discharge verification, bonding, interlocks, shielding, and emergency procedures are qualified-electrical work. The historical “one hand behind the back” convention is not a safe working method.</p>
 <p>Crystal set first (no power, teaches resonance) → one-tube regenerative (amplification + oscillation in one bottle) → superhet with IF strip (selectivity) → push-pull audio (power) → VHF/FM + dipole farm (clean signals) → magnetron-grade microwaves only with machine-shop + high-voltage discipline. Log every station heard; the logbook is a propagation textbook written by your own antenna.</p>
 </main>
 <nav class="reader-bottom-nav">
@@ -452,7 +456,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch35.html" class="reader-nav-link">Chapter 35 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

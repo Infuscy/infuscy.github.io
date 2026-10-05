@@ -307,7 +307,7 @@
     "type": "chapter",
     "num": 38,
     "title": "Polymers and Advanced Materials",
-    "part": "Part V — Planetary Dominance",
+    "part": "Part V — Planetary Systems",
     "file": "ch38.html",
     "label": "Chapter 38"
   },
@@ -315,7 +315,7 @@
     "type": "chapter",
     "num": 39,
     "title": "Rocketry and Access to Orbit",
-    "part": "Part V — Planetary Dominance",
+    "part": "Part V — Planetary Systems",
     "file": "ch39.html",
     "label": "Chapter 39"
   },
@@ -323,7 +323,7 @@
     "type": "chapter",
     "num": 40,
     "title": "Satellites: Communications, Positioning, Observation",
-    "part": "Part V — Planetary Dominance",
+    "part": "Part V — Planetary Systems",
     "file": "ch40.html",
     "label": "Chapter 40"
   },
@@ -331,7 +331,7 @@
     "type": "chapter",
     "num": 41,
     "title": "Fiber Optics and Global Telephony",
-    "part": "Part V — Planetary Dominance",
+    "part": "Part V — Planetary Systems",
     "file": "ch41.html",
     "label": "Chapter 41"
   },
@@ -339,7 +339,7 @@
     "type": "chapter",
     "num": 42,
     "title": "The Internet and Data Centers",
-    "part": "Part V — Planetary Dominance",
+    "part": "Part V — Planetary Systems",
     "file": "ch42.html",
     "label": "Chapter 42"
   },
@@ -347,7 +347,7 @@
     "type": "chapter",
     "num": 43,
     "title": "Energy Mastery: Solar, Wind, Grid Storage, Fusion",
-    "part": "Part V — Planetary Dominance",
+    "part": "Part V — Planetary Systems",
     "file": "ch43.html",
     "label": "Chapter 43"
   },
@@ -355,7 +355,7 @@
     "type": "chapter",
     "num": 44,
     "title": "Biotechnology: Genetics to CRISPR and mRNA",
-    "part": "Part V — Planetary Dominance",
+    "part": "Part V — Planetary Systems",
     "file": "ch44.html",
     "label": "Chapter 44"
   },
@@ -363,7 +363,7 @@
     "type": "chapter",
     "num": 45,
     "title": "Automation and Robotics",
-    "part": "Part V — Planetary Dominance",
+    "part": "Part V — Planetary Systems",
     "file": "ch45.html",
     "label": "Chapter 45"
   },
@@ -371,7 +371,7 @@
     "type": "chapter",
     "num": 46,
     "title": "Machine Intelligence",
-    "part": "Part V — Planetary Dominance",
+    "part": "Part V — Planetary Systems",
     "file": "ch46.html",
     "label": "Chapter 46"
   },
@@ -379,7 +379,7 @@
     "type": "chapter",
     "num": 47,
     "title": "The Invisible Machine: Institutions, Law, Finance, Logistics, Statistics",
-    "part": "Part V — Planetary Dominance",
+    "part": "Part V — Planetary Systems",
     "file": "ch47.html",
     "label": "Chapter 47"
   },
@@ -387,7 +387,7 @@
     "type": "chapter",
     "num": 48,
     "title": "Fortification and Siegecraft",
-    "part": "Part VI — The Martial Thread",
+    "part": "Optional Defense Annex — Defense and Wartime Spillovers",
     "file": "ch48.html",
     "label": "Chapter 48"
   },
@@ -395,7 +395,7 @@
     "type": "chapter",
     "num": 49,
     "title": "Gunpowder Weapons: Matchlock to Machine Gun",
-    "part": "Part VI — The Martial Thread",
+    "part": "Optional Defense Annex — Defense and Wartime Spillovers",
     "file": "ch49.html",
     "label": "Chapter 49"
   },
@@ -403,7 +403,7 @@
     "type": "chapter",
     "num": 50,
     "title": "Naval Power: Galleys to Missile Age",
-    "part": "Part VI — The Martial Thread",
+    "part": "Optional Defense Annex — Defense and Wartime Spillovers",
     "file": "ch50.html",
     "label": "Chapter 50"
   },
@@ -411,53 +411,53 @@
     "type": "chapter",
     "num": 51,
     "title": "The Nation-in-Arms: Drill, Staffs, Logistics, and Industrial War",
-    "part": "Part VI — The Martial Thread",
+    "part": "Optional Defense Annex — Defense and Wartime Spillovers",
     "file": "ch51.html",
     "label": "Chapter 51"
   },
   {
     "type": "appendix",
-    "num": 51,
-    "title": "The Critical Path",
+    "num": "A",
+    "title": "Core Build Sequence",
     "part": "Appendices",
     "file": "appendix-a.html",
     "label": null
   },
   {
     "type": "appendix",
-    "num": 51,
-    "title": "Catalog of Dead Ends",
+    "num": "B",
+    "title": "Failure Modes and Conditional Traps",
     "part": "Appendices",
     "file": "appendix-b.html",
     "label": null
   },
   {
     "type": "appendix",
-    "num": 51,
-    "title": "Catalog of Permissible Jumps",
+    "num": "C",
+    "title": "Conditional Jumps",
     "part": "Appendices",
     "file": "appendix-c.html",
     "label": null
   },
   {
     "type": "appendix",
-    "num": 51,
-    "title": "The Minimum Viable Industrial Stack",
+    "num": "D",
+    "title": "Scenario-Dependent Capability Stack",
     "part": "Appendices",
     "file": "appendix-d.html",
     "label": null
   },
   {
     "type": "appendix",
-    "num": 51,
-    "title": "Master Timeline & Dependency Table",
+    "num": "E",
+    "title": "Dependency Table and Scenario Planning",
     "part": "Appendices",
     "file": "appendix-e.html",
     "label": null
   },
   {
     "type": "appendix",
-    "num": 51,
+    "num": "F",
     "title": "Glossary",
     "part": "Appendices",
     "file": "appendix-f.html",
@@ -465,10 +465,18 @@
   },
   {
     "type": "appendix",
-    "num": 51,
-    "title": "Key Thresholds & Critical Numbers",
+    "num": "G",
+    "title": "Provisional Engineering Data",
     "part": "Appendices",
     "file": "appendix-g.html",
+    "label": null
+  },
+  {
+    "type": "reference",
+    "num": "",
+    "title": "Source and Confidence Policy",
+    "part": "Reference note",
+    "file": "source-policy.html",
     "label": null
   }
 ]

@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch17_chemistry_ancient-chapter-17-practical-chemistry-i-lime-mortar-glass-salt-soap-alcohol-distillation">Chapter 17: Practical Chemistry I: Lime, Mortar, Glass, Salt, Soap, Alcohol, Distillation</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> ~7000 BCE → 17th c. craft chemistry · <strong>Difficulty:</strong> mid
-<br><strong>Requires:</strong> <a href="ch05.html">Ch 5</a> kilns/vessels, <a href="ch13.html">Ch 13</a>, <a href="ch21.html">Ch 21</a> (successor chapter) · <br><strong>Unlocks:</strong> <a href="ch06.html">Ch 6</a> mortars, <a href="ch19.html">Ch 19</a> glass lenses, <a href="ch30.html">Ch 30</a> soap/disinfection</p>
+<p><strong>Era span:</strong> ~7000 BCE → 17th c. craft chemistry · <strong>Difficulty:</strong> mid<br><strong>Requires:</strong> <a href="ch05.html">Ch 5</a>, <a href="ch13.html">Ch 13</a><br><strong>Unlocks:</strong> <a href="ch19.html">Ch 19</a>, <a href="ch21.html">Ch 21</a>, <a href="ch30.html">Ch 30</a>, <a href="ch41.html">Ch 41</a>, <a href="ch50.html">Ch 50</a></p>
 </blockquote>
 <p>Craft chemistry converts common minerals into civilization's quiet materials. Every product here predates chemical theory by millennia — proof that careful procedure outranks understanding, though theory (once <a href="ch20.html">Part III</a> arrives) will multiply everything.</p>
 <figure class="fig">
@@ -263,9 +264,9 @@ body {
 <text x="555" y="105" font-size="9">→ limestone ✓</text>
 </g>
 <g stroke="#16130e" stroke-width="1.5">
-<line x1="150" y1="90" x2="190" y2="90"/><polygon points="190,84 190,96 198,90" fill="#16130e"/>
-<line x1="310" y1="90" x2="350" y2="90"/><polygon points="350,84 350,96 358,90" fill="#16130e"/>
-<line x1="470" y1="90" x2="500" y2="90"/><polygon points="500,84 500,96 508,90" fill="#16130e"/>
+<line x1="150" y1="90" x2="182" y2="90"/><polygon points="182,84 182,96 190,90" fill="#16130e"/>
+<line x1="310" y1="90" x2="342" y2="90"/><polygon points="342,84 342,96 350,90" fill="#16130e"/>
+<line x1="470" y1="90" x2="492" y2="90"/><polygon points="492,84 492,96 500,90" fill="#16130e"/>
 </g>
 <text x="230" y="140" text-anchor="middle" font-size="9">calcine drives off CO₂</text>
 <text x="410" y="140" text-anchor="middle" font-size="9">slaking boils + spits</text>
@@ -277,15 +278,15 @@ body {
 </figure>
 
 <h2 id="ch17_chemistry_ancient-171-lime-and-mortar">17.1 Lime and Mortar</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> quicklime plus water erupts — slaking spatters caustic, kiln heat burns lungs, and lime dust blinds. Add lime to water slowly (never water to lime), wear eyes and skin cover, stand upwind at the kiln draw, and store quicklime bone-dry in sealed containers; wash splashes with flood water and keep wash water staged before starting.</p>
-<p>Limestone (CaCO₃) calcines to quicklime (CaO) at ~900 °C — kiln territory (<a href="ch05.html">Ch 5</a>). Slake with water (violently exothermic! steam, spattering — add lime TO water slowly) to make slaked lime Ca(OH)₂; mix 1:3 with sand for mortar that carbonizes back toward limestone as it cures.</p>
+<p class="co co-warn"><strong>Safety warning:</strong> quicklime plus water erupts — slaking spatters caustic, kiln heat burns lungs, and lime dust blinds. Add lime to water slowly (never water to lime), wear eyes and skin cover, stand upwind at the kiln draw, never shelter or sleep beside a burning kiln (its CO₂ and CO have killed many who did), and store quicklime bone-dry in sealed containers; wash splashes with flood water and keep wash water staged before starting.</p>
+<p>Limestone (CaCO₃) calcines to quicklime (CaO) at ~900 °C — kiln territory (<a href="ch05.html">Ch 5</a>). Slake with water (violently exothermic! steam, spattering — add lime TO water slowly) to make slaked lime Ca(OH)₂; mix 1:3 with sand for mortar that carbonates back toward limestone as it cures.</p>
 <ul>
 <li><strong>Lime mortar</strong> flexes with buildings — right choice for brick/stone masonry for centuries.</li>
 <li><strong>Roman concrete upgrade:</strong> blend slaked lime with volcanic ash (pozzolana) or fired clay dust + aggregate: sets hard even UNDERWATER (harbors!), approaches modern concrete behavior. The chemistry (alumino-silicate reaction with lime) wasn't understood until the 20th century — build it anyway.</li>
 <li><strong>Whitewash</strong> (thin slaked lime wash) disinfects surfaces cheaply — proto-sanitation for stables and sickrooms (<a href="ch30.html">Ch 30</a>).</li>
 <li>Quicklime has battlefield/agricultural uses (soil sweetening, carcass disposal) — handle with total respect: it chemically burns wet skin and eyes.</li>
 </ul>
-<p><strong>Kiln run (flare kiln, one firing):</strong> stack limestone lumps over a fire chamber with draft gaps, burn 2–3 days to full ~900 °C (stone glows dull red), cool sealed, draw quicklime into DRY sealed containers (air slakes it useless). Test: a lump dropped in water should hiss, steam, and fall apart in minutes — dead-burned (overfired glassy) lumps sulk instead; underfired cores fizz acid-test unreacted.</p>
+<p><strong>Kiln run (flare kiln, one firing):</strong> stack limestone lumps over a fire chamber with draft gaps, burn 2–3 days to full ~900 °C (stone glows orange), cool sealed, draw quicklime into DRY sealed containers (air slakes it useless). Test: a lump dropped in water should hiss, steam, and fall apart in minutes — dead-burned (overfired glassy) lumps sulk instead; underfired cores still fizz in acid (unconverted limestone).</p>
 <h2 id="ch17_chemistry_ancient-172-soda-potash-and-the-alkali-economy">17.2 Soda, Potash, and the Alkali Economy</h2>
 <p>Alkalis dissolve grease, flux glass, and cure textiles:</p>
 <ul>
@@ -293,7 +294,7 @@ body {
 <li><strong>Soda</strong> (Na₂CO₃): harvested from salty-margin plants (barilla) or Egyptian natron lakes. Needed where glass quality matters (soda glasses melt cleaner than potash ones).</li>
 </ul>
 <p>Both feed soap (<a href="#ch17_chemistry_ancient-174-soap-the-first-surfactant">§17.4</a>), glass (<a href="#ch17_chemistry_ancient-173-glass-from-glaze-to-clarity">§17.3</a>), and textile bleaching/scouring. The industrial-scale leap (Leblanc/Solvay processes) waits for <a href="ch21.html">Ch 21</a>'s acid infrastructure.</p>
-<pre><code>ASH BARREL: straw filter → hardwood ash → percolate water → LYE (egg-floats = strong)
+<pre><code>ASH BARREL: straw filter → hardwood ash → percolate water → LYE (check strength by density / hydrometer)
    → evaporate in iron pans → POTASH cakes → store dry (drinks water from air!)
 </code></pre>
 <h2 id="ch17_chemistry_ancient-173-glass-from-glaze-to-clarity">17.3 Glass: From Glaze to Clarity</h2>
@@ -342,39 +343,51 @@ body {
 </tbody>
 </table></div>
 <h2 id="ch17_chemistry_ancient-174-soap-the-first-surfactant">17.4 Soap: The First Surfactant</h2>
-<p>Boil animal fat with alkali lye → saponification: glycerol splits off, fatty-acid salts remain. Hard soap uses soda lye; soft soap potash lye. Procedure notes:</p>
+<p>Saponification combines triglyceride fats with a calculated quantity of alkali, producing soap and glycerol. Hard soap generally uses a soda-based formulation; soft soap uses potash. Concentration matters more than tradition: excess caustic can burn skin and eyes, while insufficient caustic leaves unreacted fat.</p>
+<p class="co co-gate"><strong>Competence gate:</strong> concentrated lye handling, process heating, and product release require protective equipment, labelled storage, a written formulation, and a validated titration or equivalent concentration method. Do not use egg or potato-float folklore as a release test or taste soap to test for excess lye.</p>
+<p>Process outline for a qualified workshop:</p>
 <ul>
-<li>Render clean fat first (slow simmer, skim).</li>
-<li>Lye concentration tested by egg/fresh potato float density — traditional but real.</li>
-<li>Boil hours until "traced" batter thickens; salt-out (salting the pan) precipitates hard soap for lifting.</li>
-<li>Cure weeks to mildew excess lye. Lye burns are real chemical burns; gloves-equivalent discipline applies.</li>
+<li>Render and filter fat to remove water and non-fat solids.</li>
+<li>Determine the required alkali from the actual fat and caustic strength.</li>
+<li>Mix with controlled temperature and agitation in a vessel with safe addition and ventilation.</li>
+<li>Verify conversion with a validated process test; salt-out or cure only after the formulation is known.</li>
+<li>Cure and package with a batch record, lot identity, and a documented safety data sheet.</li>
 </ul>
-<p>Value cascade: laundry, body hygiene, wool scouring (<a href="ch03.html">Ch 3</a>), wound-cleaning adjunct (<a href="ch31.html">Ch 31</a>), and emulsifier duties across workshops. Cheap soap plus clean-water doctrine measurably cuts disease generations before germ theory names why.</p>
-<p><strong>Batch (hard soap, ~5 kg):</strong> 3 kg rendered tallow + lye from ~1 kg potash equivalent (egg floats half-exposed) → boil stirring 3–5 h to trace → salt-out handfuls till curd separates → lift, mold, cure 3–4 weeks (tongue-tip test: no zap = done; zap = still caustic, cure longer). Soft soap skips salting (potash, jelly consistency, stored in casks).</p>
+<p>Value cascade: laundry, body hygiene, wool scouring (<a href="ch03.html">Ch 3</a>), and industrial cleaning. Soap lowers some transmission risks when used with clean running water; it is not a disinfectant and does not replace sanitation.</p>
+<p><strong>Batch discipline:</strong> calculate the caustic charge from the fat's saponification value and the measured strength of the alkali solution; record every mass; verify conversion by a validated titration or equivalent; then cure for the tested formulation. Historical “three kilograms plus a handful” recipes are not transferable specifications because fat composition and lye strength vary.</p>
 <h2 id="ch17_chemistry_ancient-175-fermentation-and-alcohol">17.5 Fermentation and Alcohol</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 206" width="100%" role="img" aria-label="Alembic still schematic">
 <title>Alembic still schematic</title>
 <rect x="0" y="0" width="640" height="206" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 17.2 — The alembic: boil the wash, keep the spirit</text>
-<ellipse cx="150" cy="130" rx="60" ry="30" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
-<text x="150" y="126" text-anchor="middle" font-size="10" font-weight="bold">POT (wash)</text>
-<text x="150" y="138" text-anchor="middle" font-size="9">beer/wine 2–12%</text>
-<path d="M100,105 Q150,40 200,105" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
-<text x="150" y="68" text-anchor="middle" font-size="9" font-weight="bold">DOME HEAD</text>
-<line x1="200" y1="100" x2="320" y2="100" stroke="#16130e" stroke-width="3"/>
-<text x="260" y="92" text-anchor="middle" font-size="9">vapor tube →</text>
-<rect x="320" y="80" width="150" height="40" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
-<text x="395" y="96" text-anchor="middle" font-size="10" font-weight="bold">CONDENSER (water-cooled)</text>
-<text x="395" y="109" text-anchor="middle" font-size="9">vapor → liquid, drip to receiver</text>
-<circle cx="510" cy="100" r="20" fill="#fff" stroke="#16130e" stroke-width="1.5"/>
-<text x="510" y="104" text-anchor="middle" font-size="9">SPIRIT</text>
-<line x1="470" y1="100" x2="490" y2="100" stroke="#16130e" stroke-width="2"/>
-<text x="150" y="172" text-anchor="middle" font-size="9">fire below, seal joints (paste/flour)</text>
-<text x="150" y="185" text-anchor="middle" font-size="9" font-style="italic">airlock ferments (water-seal vs vinegar)</text>
-<text x="450" y="150" font-size="10" font-weight="bold">PROOF: gunpowder flare test</text>
-<text x="450" y="163" font-size="9">packed columns sharpen cuts —</text>
-<text x="450" y="176" font-size="9">petroleum towers descend here (Ch 28)</text>
+<line x1="84" y1="161" x2="216" y2="161" stroke="#16130e" stroke-width="2"/>
+<path d="M126,160 C120,152 124,146 128,140 C132,147 134,153 126,160 Z" fill="#c96a2e"/>
+<path d="M150,160 C143,151 147,143 152,136 C157,144 159,152 150,160 Z" fill="#c96a2e"/>
+<path d="M174,160 C168,152 172,146 176,140 C180,147 182,153 174,160 Z" fill="#c96a2e"/>
+<path d="M150,158 C147,153 149,149 151,146 C154,150 155,154 150,158 Z" fill="#e8a83c"/>
+<ellipse cx="150" cy="116" rx="58" ry="28" fill="#e8dcc0" stroke="#16130e" stroke-width="2"/>
+<text x="150" y="114" text-anchor="middle" font-size="10" font-weight="bold">POT (wash)</text>
+<text x="150" y="127" text-anchor="middle" font-size="9">beer/wine 2–12%</text>
+<path d="M113,96 Q150,46 187,96 Z" fill="#e8dcc0" stroke="#16130e" stroke-width="2" stroke-linejoin="round"/>
+<text x="150" y="90" text-anchor="middle" font-size="9" font-weight="bold">DOME HEAD</text>
+<path d="M166,74 Q200,56 232,64 L322,90" fill="none" stroke="#16130e" stroke-width="3" stroke-linejoin="round"/>
+<text x="268" y="62" text-anchor="middle" font-size="9">vapor tube ↘</text>
+<rect x="322" y="70" width="140" height="52" fill="#cfe0ea" stroke="#2f5286" stroke-width="2"/>
+<polyline points="322,90 338,78 354,112 370,78 386,112 402,78 418,112 434,78 450,112 462,112" fill="none" stroke="#16130e" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="392" y="62" text-anchor="middle" font-size="10" font-weight="bold">CONDENSER</text>
+<text x="392" y="136" text-anchor="middle" font-size="9">cold-water jacket: vapor → liquid</text>
+<line x1="462" y1="112" x2="502" y2="112" stroke="#16130e" stroke-width="2"/>
+<line x1="502" y1="112" x2="502" y2="118" stroke="#16130e" stroke-width="2"/>
+<circle cx="502" cy="122" r="1.8" fill="#2f5286"/>
+<rect x="484" y="126" width="38" height="28" rx="4" fill="#ffffff" stroke="#16130e" stroke-width="1.5"/>
+<rect x="485" y="139" width="36" height="14" rx="3" fill="#edf2f9"/>
+<text x="503" y="149" text-anchor="middle" font-size="9" font-weight="bold">SPIRIT</text>
+<text x="150" y="176" text-anchor="middle" font-size="9">fire below, seal joints (paste/flour)</text>
+<text x="150" y="189" text-anchor="middle" font-size="9" font-style="italic">airlock ferments (water-seal vs vinegar)</text>
+<text x="300" y="166" font-size="10" font-weight="bold">VERIFY: hydrometer / refractometer</text>
+<text x="300" y="178" font-size="9">packed columns sharpen cuts — petroleum</text>
+<text x="300" y="189" font-size="9">towers descend from here (Ch 28)</text>
 </svg>
 <figcaption><strong>Figure 17.2.</strong> Ferment under water-seal, boil the wash, cool the vapor — ethanol's lower boiling point enriches each pass. Strong spirit disinfects, preserves, extracts (tinctures); packed columns later sharpen the same counterflow into refineries. Retorts for acids are alembics with angrier cargos (Ch 21).</figcaption>
 </figure>
@@ -383,7 +396,7 @@ body {
 <ol>
 <li><strong>Beverages:</strong> beer/mead/wine (2–12 % ABV) — safer-than-water drinks historically, morale infrastructure, and trade goods (<a href="ch09.html">Ch 9</a>). Airlock fermentation (any water-seal) prevents vinegar spoilage.</li>
 <li><strong>Vinegar:</strong> deliberately oxidize weak alcohol with acetobacter — the first industrial solvent and food preservative (pickling!).</li>
-<li><strong>Distillation:</strong> boil fermented wash, condense vapors — alembic still (pot with dome head, vapor tube through cooling water, receiver). Ethanol boils 78 °C, water 100 °C; distillate enriches progressively ("proof" by gunpowder flare test). Strong spirit (&gt;40 %) disinfects wounds and instruments (<a href="ch30.html">Ch 30</a>-adjacent), preserves specimens, extracts medicines (tinctures), and fuels early experiments.</li>
+<li><strong>Distillation:</strong> heat a fermented wash and condense the vapour. Because ethanol and water have different volatilities, repeated or fractionating distillation enriches the distillate. Concentration, water activity, contact time, and organic load determine antimicrobial performance; “over 40 %” is not a universal disinfection threshold. Instrument decontamination and clinical antisepsis follow current validated protocols rather than historical spirit-strength tests. A flame test is a fire hazard and is not accepted as a quality-control procedure. Ethanol vapour is flammable: keep open flame away from joints and the receiver, and never run a still unattended. Discard the heads (the first fraction of each spirit run): they concentrate methanol and acetaldehyde, and methanol blinds and kills.</li>
 </ol>
 <p>Fractionating columns (packed vertical stills) sharpen separation — the same counterflow logic later refines petroleum (<a href="ch28.html">Ch 28</a>). Distillation is also the gateway skill for acids: <a href="ch21.html">Ch 21</a> retorts are alembics with angrier cargos.</p>
 <div class="table-wrap"><table>
@@ -418,7 +431,7 @@ body {
 <td>Spirit 2nd pass</td>
 <td>Low wines</td>
 <td>60–70 %+ (cut heads/tails)</td>
-<td>Heads (solvent) / tails (re-run)</td>
+<td>Heads (methanol-rich — never drink; solvent at most) / tails (re-run)</td>
 </tr>
 </tbody>
 </table></div>
@@ -428,12 +441,12 @@ body {
 <h2 id="ch17_chemistry_ancient-177-the-craft-chemistry-record">17.7 The Craft-Chemistry Record</h2>
 <ul>
 <li><strong>Egyptian faience</strong> (~4000 BCE onward): ground quartz bodies glazed with soda-lime coatings fired in kilns — glass chemistry practiced before glass itself.</li>
-<li><strong>Earliest true glass vessels</strong> appear in Mesopotamia/Egypt ~2500–2300 BCE (cast/core-formed beads and small vessels); <strong>glassblowing</strong> revolutionizes the trade around the mid-1st century BCE on the Syro-Palestinian coast — a blowing iron turns hours of core work into minutes of inflation; Roman production scales to tableware within a generation.</li>
+<li><strong>Earliest true glass</strong> appears as beads in Mesopotamia ~2500–2300 BCE; core-formed vessels follow ~1600–1500 BCE in Mesopotamia and Egypt; <strong>glassblowing</strong> revolutionizes the trade around the mid-1st century BCE on the Syro-Palestinian coast — a blowing iron turns hours of core work into minutes of inflation; Roman production scales to tableware within a generation.</li>
 <li>Egypt's <strong>natron lakes (Wadi el-Natrun)</strong> supplied soda for glass and mummification for centuries — a mineral deposit functioning as an international strategic commodity (<a href="ch09.html">Ch 9</a>).</li>
-<li><strong>Lime mortar</strong> runs from Mycenaean floors to Roman pozzolanic concretes (<a href="#ch17_chemistry_ancient-171-lime-and-mortar">§17.1</a>); medieval builders lost and re-derived Roman underwater formulations — knowledge decayed where documentation lapsed, exactly as <a href="ch11.html">Ch 11</a> predicts.</li>
-<li><strong>Soap:</strong> Babylonian tablets (~2800 BCE) record fat+ash preparations (purpose possibly textile-fulling rather than bathing); Pliny attributes soap to Gaulish manufacture; widespread personal hygiene use is late-medieval European, driven by urban water systems and plague-era cleanliness doctrines.</li>
+<li><strong>Lime mortar</strong> runs from Mycenaean floors to Roman pozzolanic concretes (<a href="#ch17_chemistry_ancient-171-lime-and-mortar">§17.1</a>); medieval builders lost the Roman underwater formulations, which were re-derived only in the 18th century (Smeaton's hydraulic lime, 1756) — knowledge decayed where documentation lapsed, exactly as <a href="ch11.html">Ch 11</a> predicts.</li>
+<li><strong>Soap:</strong> Babylonian tablets (~2800 BCE) record fat+ash preparations (purpose possibly textile-fulling rather than bathing); Pliny attributes soap to Gaulish manufacture; soap-making scaled up in the medieval Islamic world and Mediterranean Europe (Aleppo, Nablus, Castile, Marseille), and everyday personal use became common only later.</li>
 <li><strong>Distillation lineage:</strong> Alexandrian alchemists (the word <em>ambix</em> becomes alembic) built the apparatus; Baghdad's 8th–10th-century school matured controlled distillation (alcohol isolation credited variously to al-Kindī and al-Zahrāwī among others — attribution genuinely murky, equipment evolution well documented); fractional thinking arrives with later columns (<a href="ch28.html">Ch 28</a>'s towers are direct descendants).</li>
-<li>Fermentation's oldest recipes: the Hymn to Ninkasi (~1800 BCE) encodes Sumerian beer procedure as a memorizable poem; Jiahu pottery residues (~7000 BP, McGovern's analyses) carry wine-like fermented-beverage signatures — brewing predates bread's earliest secure evidence in the same region, a sequencing archaeologists still enjoy arguing about.</li>
+<li>Fermentation's oldest recipes: the Hymn to Ninkasi (~1800 BCE) encodes Sumerian beer procedure as a memorizable poem; Jiahu pottery residues (~9,000 BP, c. 7000 BCE; McGovern's analyses) carry wine-like fermented-beverage signatures — brewing predates bread's earliest secure evidence in the same region, a sequencing archaeologists still enjoy arguing about.</li>
 </ul>
 <h2 id="ch17_chemistry_ancient-178-stores-discipline">17.8 Stores Discipline</h2>
 <p>Lye + quicklime sealed dry (both drink air); acids in glass, waxed stoppers, labeled POISON + date; spirits bonded store (proof-logged, locked — revenue and safety); soap cured on ventilated racks. One shelf order, everywhere: FLAMMABLE / CAUSTIC / ACID / FOOD — never adjacent, never unmarked.</p>
@@ -443,7 +456,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch18.html" class="reader-nav-link">Chapter 18 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch29_combustion-chapter-29-internal-combustion-cars-tractors-ships">Chapter 29: Internal Combustion: Cars, Tractors, Ships</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1876 Otto → mid-20th c. · <strong>Difficulty:</strong> high
-<br><strong>Requires:</strong> <a href="ch28.html">Ch 28</a> fuels, <a href="ch27.html">Ch 27</a> alloys, <a href="ch15.html">Ch 15</a> precision machining · <br><strong>Unlocks:</strong> mechanized agriculture (<a href="ch32.html">Ch 32</a>), road logistics, aircraft engines (<a href="ch33.html">Ch 33</a>)</p>
+<p><strong>Era span:</strong> 1876 Otto → mid-20th c. · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch27.html">Ch 27</a>, <a href="ch28.html">Ch 28</a><br><strong>Unlocks:</strong> <a href="ch32.html">Ch 32</a>, <a href="ch33.html">Ch 33</a>, <a href="ch39.html">Ch 39</a></p>
 </blockquote>
 <p>Internal combustion burns fuel INSIDE the working cylinder — no boiler, no coal pile, power density steam could never touch. This chapter builds the engine family and the vehicles that industrialized ground transport.</p>
 <figure class="fig">
@@ -291,9 +292,9 @@ body {
 <text x="555" y="171" font-size="9">burnt gas out</text>
 </g>
 <g stroke="#16130e" stroke-width="1.5">
-<line x1="125" y1="100" x2="210" y2="100"/><polygon points="210,94 210,106 218,100" fill="#16130e"/>
-<line x1="280" y1="100" x2="365" y2="100"/><polygon points="365,94 365,106 373,100" fill="#16130e"/>
-<line x1="435" y1="100" x2="520" y2="100"/><polygon points="520,94 520,106 528,100" fill="#16130e"/>
+<line x1="125" y1="100" x2="202" y2="100"/><polygon points="202,94 202,106 210,100" fill="#16130e"/>
+<line x1="280" y1="100" x2="357" y2="100"/><polygon points="357,94 357,106 365,100" fill="#16130e"/>
+<line x1="435" y1="100" x2="512" y2="100"/><polygon points="512,94 512,106 520,100" fill="#16130e"/>
 </g>
 <text x="320" y="192" text-anchor="middle" font-size="9" font-style="italic">valves: intake opens only in 1, exhaust only in 4 — mistimed by one tooth = dead engine</text>
 </svg>
@@ -303,7 +304,7 @@ body {
 <h2 id="ch29_combustion-291-the-otto-four-stroke-cycle">29.1 The Otto Four-Stroke Cycle</h2>
 <p>Intake (fuel+air drawn in) → compression (work invested) → POWER (ignition, expansion does work) → exhaust. Four strokes, one power stroke — the torque pulses smooth out across multiple cylinders.</p>
 <ul>
-<li>Compression ratio (swept ÷ clearance volume) drives thermal efficiency: η ≈ 1 − r^(1−γ). Raising r from 4:1 to 12:1 nearly doubles efficiency — but knock (premature fuel self-ignition) caps it, which is why octane (<a href="ch28.html">Ch 28</a>) is an engine technology, not just a refinery metric.</li>
+<li>Compression ratio (swept ÷ clearance volume) drives thermal efficiency: η ≈ 1 − r^(1−γ). Raising r from 4:1 to 12:1 lifts ideal efficiency from ~43 % to ~63 %, roughly a 1.5× gain — but knock (premature fuel self-ignition) caps it, which is why octane (<a href="ch28.html">Ch 28</a>) is an engine technology, not just a refinery metric.</li>
 <li>Ignition systems: hot tube (primitive) → magneto (self-powered spark, no battery needed) → coil/battery/distributor.</li>
 <li>Carburetion meters fuel into airflow by venturi depression; mixture strength varies with load/cold start (chokes). Fuel injection later replaces guesswork with metered precision.</li>
 </ul>
@@ -320,7 +321,8 @@ body {
 <text x="74" y="103" text-anchor="end" font-size="9">20%</text>
 <line x1="80" y1="140" x2="560" y2="140" stroke="#16130e" stroke-width="2"/>
 <path d="M100,130 Q250,90 350,70 Q450,55 540,50" fill="none" stroke="#2f5286" stroke-width="2.5"/>
-<path d="M420,55 Q470,50 540,47" fill="none" stroke="#8f3b2d" stroke-width="2.5" stroke-dasharray="6,4"/>
+<path d="M100,138 Q400,136 518,44" fill="none" stroke="#8f3b2d" stroke-width="2" stroke-dasharray="6,4"/>
+<text x="526" y="62" font-size="9" font-style="italic" fill="#8f3b2d">knock risk</text>
 <circle cx="180" cy="110" r="5" fill="#9a927e" stroke="#16130e"/>
 <text x="180" y="157" text-anchor="middle" font-size="9">4:1 early</text>
 <circle cx="330" cy="73" r="5" fill="#8a6d1f" stroke="#16130e" stroke-width="1.5"/>
@@ -329,12 +331,13 @@ body {
 <text x="480" y="157" text-anchor="middle" font-size="9">12:1+ needs octane</text>
 <line x1="420" y1="40" x2="420" y2="140" stroke="#8f3b2d" stroke-width="1.5" stroke-dasharray="6,4"/>
 <text x="424" y="34" font-size="9" fill="#8f3b2d" font-weight="bold">KNOCK WALL (fuel-limited)</text>
-<text x="200" y="60" font-size="10" font-style="italic">efficiency η ≈ 1 − r^(1−γ)</text>
+<text x="150" y="52" font-size="9.5" font-style="italic">ideal Otto η = 1 − r<tspan dy="-4" font-size="8.5">1−γ</tspan><tspan dy="4"> sets the trend;</tspan></text>
+<text x="150" y="64" font-size="9.5" font-style="italic">real brake η (plotted) runs well below it</text>
 </svg>
 <figcaption><strong>Figure 29.2.</strong> Schematic: efficiency climbs steeply, then flattens — while knock risk climbs steeply. Octane moves the wall right; without it, raising compression destroys pistons instead of saving fuel.</figcaption>
 </figure>
 
-<p><strong>Tuning rules:</strong> mixture slightly rich for starting and full load (cooling + power), stoichiometric for cruise, lean misfires if overdone; spark advanced with speed, retarded for starting (kickback breaks arms — retard at crank); cooling must reject ~2× shaft power as heat (radiator sized accordingly, thermostat obligado). An engine that starts easily, idles steadily, and pulls without pinking under load is tuned; chase nothing exotic before those three hold.</p>
+<p><strong>Tuning rules:</strong> mixture slightly rich for starting and full load (cooling + power), stoichiometric for cruise, lean misfires if overdone; spark advanced with speed, retarded for starting (kickback breaks arms — retard at crank); the cooling system must reject roughly as much heat as the shaft delivers, and the exhaust carries about as much again (size the radiator accordingly; fit a thermostat). An engine that starts easily, idles steadily, and pulls without pinking under load is tuned; chase nothing exotic before those three hold.</p>
 <h2 id="ch29_combustion-292-the-diesel-divergence">29.2 The Diesel Divergence</h2>
 <p>Diesel's insight: compress AIR alone to ~18:1+; injected fuel self-ignites on contact with ~550 °C compressed air. No ignition system, higher compression = higher efficiency (~40 %+ vs Otto's ~25–30 % of the era), heavy fuels acceptable. The engineering fight was injection precision — air-blast injection worked but demanded compressors; solid (jerk-pump) injection (plunger pumps with helix-metering) made diesels practical everywhere from trucks to ships.</p>
 <div class="table-wrap"><table>
@@ -379,7 +382,7 @@ body {
 </tbody>
 </table></div>
 <p>Marine slow-speed two-strokes run at ~100 rpm on residual oil, exceed 50 % efficiency, and move 90 % of world trade tonnage (<a href="ch24.html">Ch 24</a> finale).</p>
-<p><strong>Injection discipline:</strong> fuel filtered to microns, pump timing to crank-degrees, nozzles popping at 150–300 bar with clean spray cones. Nine-tenths of "bad diesel" is dirty fuel, air in lines, or cold-start abuse — bleed, heat, and filter before rebuilding.</p>
+<p><strong>Injection discipline:</strong> fuel filtered to microns, pump timing to crank-degrees, nozzles popping at 150–300 bar with clean spray cones. Most "bad diesel" is dirty fuel, air in lines, or cold-start abuse — bleed, heat, and filter before rebuilding.</p>
 <h2 id="ch29_combustion-293-the-automobile-system">29.3 The Automobile System</h2>
 <p>A car is a SYSTEM around its engine:</p>
 <ul>
@@ -404,11 +407,11 @@ body {
 </ol>
 <p><strong>Line-layout rules:</strong> parts arrive at point-of-use (no fetching walks), each station's work ≤ takt time (available minutes ÷ units wanted), go/no-go gauges at every fit, andon cord (any worker stops the line for defects — cheap now, ruinous later). Inventory between stations is the visible form of distrust in the process; shrink it deliberately.</p>
 <h2 id="ch29_combustion-295-tractors-and-farm-mechanization">29.5 Tractors and Farm Mechanization</h2>
-<p>The tractor is the ICE's greatest humanitarian application:</p>
+<p>The tractor is arguably the ICE's greatest humanitarian application:</p>
 <ul>
 <li>One driver + 30–50 hp replaces a dozen horses AND their 25 % cropland feed bill (<a href="ch08.html">Ch 8</a>) — land returns to food production directly.</li>
 <li>PTO shafts and three-point hitches make one tractor power plows, seeders, sprayers, balers (<a href="ch07.html">Ch 7</a>).</li>
-<li>Rubber tires (1930s) doubled drawbar efficiency versus steel lugs and let tractors roam roads.</li>
+<li>Rubber tires (1930s) raised drawbar efficiency and fuel economy substantially versus steel lugs and let tractors roam roads.</li>
 <li>Combine harvesters merge reaping/threshing/winnowing — harvest labor collapses; grain losses fall below manual-race levels.</li>
 </ul>
 <div class="table-wrap"><table>
@@ -443,17 +446,17 @@ body {
 </table></div>
 <p><strong>PTO safety (non-negotiable):</strong> shielded shafts, no loose clothing, disengage before mounting implements, chock and brake on slopes. The same machine that feeds a district can wrap a sleeve in a second — guards are not optional trim.</p>
 <h2 id="ch29_combustion-296-doctrine-and-dead-ends">29.6 Doctrine and Dead Ends</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> liquid fuels and hot engines burn crews, shops, and barns together — vapor flashes at arm's length, crankcase backfires throw flame, and running engines poison closed sheds with CO. Fuel and test only ventilated and grounded, keep extinguishers and kill switches at hand, never crank on ether near sparks, and shut down on any fuel leak; log fuel per hour because a 15 % rise is the earliest overhaul signal.</p>
-<p class="co co-dead"><strong>Dead end avoided:</strong> steam cars and early electric roadcars lost to arithmetic — energy density (gasoline ~45 MJ/kg vs batteries then ~0.2) and refill minutes vs recharge hours. Note honestly: battery physics changed by <a href="ch43.html">Ch 43</a>; the lesson is "revisit losing designs when their limiting constant changes," not "electric forever wrong."</p>
+<p class="co co-warn"><strong>Safety warning:</strong> liquid fuels and hot engines burn crews, shops, and barns together — vapor flashes at arm's length, crankcase backfires throw flame, and running engines poison closed sheds with CO. Fuel and test only ventilated and grounded, keep extinguishers and kill switches at hand, never crank on ether near sparks, and shut down on any fuel leak.</p>
+<p class="co co-dead"><strong>Dead end avoided:</strong> steam cars and early electric roadcars lost to arithmetic — energy density (gasoline ~45 MJ/kg vs lead-acid batteries ~0.1) and refill minutes vs recharge hours. Note honestly: battery physics changed by <a href="ch43.html">Ch 43</a>; the lesson is "revisit losing designs when their limiting constant changes," not "electric forever wrong."</p>
 <p>Also avoided: over-valve-count exotic engines, rotary (Wankel) mass adoption, air-cooled complexity creep for mainstream fleets — maintenance networks punish cleverness that shops can't service.</p>
-<p class="co co-key"><strong>Key threshold:</strong> when a farm worker can feed 10+ people (vs subsistence-era ~2–3), labor floods into factories — the demographic pivot that powers every remaining chapter.</p>
+<p class="co co-key"><strong>Key threshold:</strong> when one farm worker can feed 20 or more people (the pre-industrial rows in <a href="ch07.html">Ch 7</a> §7.7 run from ~2 to ~10), labor floods into factories — the demographic pivot that powers every remaining chapter.</p>
 <p><strong>Fleet doctrine:</strong> standardize one engine family per fleet (parts interchange), stock consumables (plugs, points, filters, belts, gaskets) before stocking engines, train mechanics on diagnosis order — fuel → spark → compression → timing — because guessing order wastes parts. Log fuel per hour per machine; a 15 % consumption rise is the earliest overhaul signal.</p>
 <h2 id="ch29_combustion-297-the-engine-record">29.7 The Engine Record</h2>
 <ul>
 <li>Étienne Lenoir's commercial gas engine (1860) sold hundreds despite ~4 % efficiency — first mover advantage without thermodynamic polish; Otto &amp; Langen's free-piston atmospheric machine (1867) won prizes on fuel economy and funded the real breakthrough.</li>
-<li><strong>The Otto patent collapse:</strong> Alphonse Beau de Rochas had theorized the four-stroke sequence in an 1862 French patent without building anything; German courts voided Otto's key claims (1886) citing it. Competition exploded immediately — Daimler/Maybach hot-tube ignition high-speed engines (1883+) emerged from within Otto's own shop. Prior-art patents matter; so does what teams build while protection lasts.</li>
+<li><strong>The Otto patent collapse:</strong> Alphonse Beau de Rochas had theorized the four-stroke sequence in an 1862 French patent without building anything; German courts voided Otto's key claims (1886) citing it. Competition exploded immediately — Daimler and Maybach, who had left Otto's own firm in 1882, built hot-tube-ignition high-speed engines from 1883. Prior-art patents matter; so does what teams build while protection lasts.</li>
 <li><strong>Diesel's arc:</strong> theory monograph 1893 (constant-temperature objections answered by experiment); early Augsburg tests included a near-catastrophic explosion; the 1897 production engine measured ~26 % thermal efficiency — doubling contemporary steam. Diesel boarded the Dresden to London in September 1913 and vanished overboard; the mystery remains unsolved and is recorded as such.</li>
-<li><strong>Bertha Benz's August 1888 drive</strong> (Mannheim–Pforzheim–return, ~106 km, without her husband Karl's knowledge) proved usability, fixed a fuel-line blockage with a hatpin, purchased ligroin at the Wiesloch town pharmacy (now styled the world's first filling station), and generated the first automotive marketing — a customer doing the field testing manufacturers hadn't.</li>
+<li><strong>Bertha Benz's August 1888 drive</strong> (Mannheim–Pforzheim, ~106 km each way, without her husband Karl's knowledge) proved usability, fixed a fuel-line blockage with a hatpin, purchased ligroin at the Wiesloch town pharmacy (now styled the world's first filling station), and generated the first automotive marketing — a customer doing the field testing manufacturers hadn't.</li>
 <li><strong>The Selden patent cartel:</strong> George Selden held a broad 1879-filed "road engine" patent enforced by the ALAM licensing combine; Henry Ford fought it, lost the first ruling, then won outright (Second Circuit, January 1911 — the court held Selden's claims covered Brayton-cycle engines, not Otto-cycle cars). Documented patent-thicket warfare ending in open competition; the automobile market boomed once licensing rent disappeared.</li>
 <li>Toyota's postwar production system (Taiichi Ohno; supermarket-inspired replenishment logic observed in America) turned Ford's line inside-out — pull instead of push, inventory as liability. Cross-reference <a href="ch47.html">Ch 47</a>'s statistics discipline: kanban IS measurement infrastructure.</li>
 </ul>
@@ -463,7 +466,7 @@ body {
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch30.html" class="reader-nav-link">Chapter 30 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

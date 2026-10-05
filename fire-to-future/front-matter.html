@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -234,85 +236,88 @@ body {
 </div>
 <main class="reader-content">
 <h1 id="00_front_matter-fire-to-future">FIRE TO FUTURE</h1>
-<h3 id="00_front_matter-the-complete-technology-ladder-from-making-fire-to-dominating-a-planet">The Complete Technology Ladder: From Making Fire to Dominating a Planet</h3>
+<h3 id="00_front_matter-a-field-manual-for-rebuilding-technology-from-reliable-fire-to-resilient-industrial-civilization">A Field Manual for Rebuilding Technology: From Reliable Fire to Resilient Industrial Civilization</h3>
 <hr />
 <h2 id="00_front_matter-what-this-guide-is">What This Guide Is</h2>
-<p>This is a <strong>rebuild manual for technological civilization</strong>. It assumes a human population with no inherited industry and walks it, step by ordered step, from making fire to commanding satellites, antibiotics, computers, and fusion-adjacent energy systems.</p>
-<p>Three principles shape every recommendation in this book:</p>
+<p>This is a <strong>field manual for rebuilding technological capability under real constraints</strong>. It does not assume that every surviving society follows one universal path or that a list of inventions is itself a rebuild plan. A capability exists only when its inputs, tools, trained people, verification, maintenance, institutions, and failure-recovery plans exist together.</p>
+<p>Four rules govern the manual:</p>
 <ol>
-<li><strong>Dependency order over chronology.</strong> Chapters are sequenced by what actually enables what, not by the order history happened to discover things. History took ~10,000 years because it was exploring blind. This book is a map drawn after the exploration.</li>
-<li><strong>Dead ends are named and bypassed.</strong> Civilizations lost centuries on phlogiston, alchemical transmutation, humoral medicine, geocentrism, Lamarckism, leaded fuel, CFCs, and a thousand smaller traps. Each is flagged where it occurs; Appendix B collects them all.</li>
-<li><strong>Jumps are legal.</strong> Where knowledge lets you skip an entire stage — bronze, the telegraph network, the vacuum tube as consumer product — you skip it. Appendix C catalogs every deliberate skip.</li>
+<li><strong>Hard prerequisites before historical convenience.</strong> Chapters are ordered by what must be possible before another capability can be built reliably. A historical stage may be compressed, taught directly, or retained for a local reason; it is not compulsory merely because it happened.</li>
+<li><strong>Acceptance tests matter.</strong> A process is not finished because an object was made. It is finished when the result meets a declared measurement, survives its intended service conditions, and can be maintained from recorded information.</li>
+<li><strong>Numbers need conditions.</strong> Temperatures, efficiencies, prices, yields, and dates are useful only when their source, context, and confidence are clear. Historical reconstruction and present engineering targets are labelled separately.</li>
+<li><strong>Hazardous knowledge is retained; hazardous procedures are gated.</strong> Powder, blasting, pressure vessels, concentrated acids, semiconductor etching, reactor work, anesthesia, ordnance, and other high-consequence processes require trained operators, qualified supervision, suitable facilities, written procedures, and emergency planning. A warning is not competence.</li>
 </ol>
 <h2 id="00_front_matter-who-it-is-for">Who It Is For</h2>
 <ul>
-<li><strong>The Survivor</strong> — dropped into wilderness or post-collapse: read Part I, then Appendices A and D.</li>
-<li><strong>The Governor</strong> — rebuilding a society's institutions and logistics: chapters 9, 11, 47 are your spine, with <a href="ch48.html">Part VI</a> covering war's role in state formation.</li>
-<li><strong>The Engineer</strong> — scaling industry: Parts III–V are your ladder, rung by rung.</li>
-<li><strong>The Foreman</strong> — running any workshop on the ladder: Appendix G is your laminated wall card; every critical number in the book lives there.</li>
+<li><strong>The survivor or settlement steward</strong> — start with Part I; use Appendices A and D to identify the next capability gate rather than attempting the whole book.</li>
+<li><strong>The governor or institutional builder</strong> — chapters 9, 11, 12, and 47 form the institutional spine; fiscal capacity, records, standards, dispute resolution, and maintenance precede large projects.</li>
+<li><strong>The engineer or industrial planner</strong> — use Parts II–V as a dependency-aware reference; no chapter substitutes for a qualified design process, applicable code, or independent review.</li>
+<li><strong>The foreman or workshop lead</strong> — use the chapter procedure, acceptance tests, and failure table together. Appendix G is provisional engineering data, not a life-safety authority.</li>
 </ul>
-<h3 id="00_front_matter-professional-responder-entry-paths-retain-warn">Professional-responder entry paths (retain + warn)</h3>
-<p>This edition is written for trained services — full operational detail is retained throughout; hazards are marked with <strong>Safety warning:</strong> / <strong>Operational hazard:</strong> flags, never cut. Enter by corps:</p>
+<h3 id="00_front_matter-professional-entry-paths">Professional entry paths</h3>
+<p>Professionals should enter by discipline and retain the relevant competence boundaries:</p>
 <ul>
-<li><strong>Fire / Rescue</strong> — <a href="ch01.html">Ch 1</a> (heat, CO, kiln/forge discipline §1.11) → <a href="ch13.html">Ch 13</a> (gases, collapse) → <a href="ch21.html">Ch 21</a> (powder/acids discipline) → <a href="ch28.html">Ch 28</a> (§28.9 fire/pressure/poison) → <a href="ch30.html">Ch 30</a> (hazmat hygiene) → Appendix G.</li>
-<li><strong>Medical Corps</strong> — <a href="ch04.html">Ch 4</a> / <a href="ch07.html">Ch 7</a> / <a href="ch08.html">Ch 8</a> (food, water, zoonoses) → <a href="ch17.html">Ch 17</a> (soap, distillation) → <a href="ch30.html">Ch 30</a> → <a href="ch31.html">Ch 31</a> (anesthesia, vaccines, antibiotics, stewardship) → <a href="ch44.html">Ch 44</a> → Appendix G health rows.</li>
-<li><strong>Engineer Corps</strong> — <a href="ch13.html">Ch 13</a> / <a href="ch14.html">Ch 14</a> / <a href="ch22.html">Ch 22</a> / <a href="ch23.html">Ch 23</a> (§23.4 boilers) → <a href="ch15.html">Ch 15</a> / <a href="ch20.html">Ch 20</a> → <a href="ch25.html">Ch 25</a>–<a href="ch27.html">Ch 27</a> → <a href="ch24.html">Ch 24</a> / <a href="ch47.html">Ch 47</a> → Appendices A/D.</li>
-<li><strong>Military / Logistics</strong> — <a href="ch48.html">Part VI</a> spine (Ch 48–51) + <a href="ch09.html">Ch 9</a> / <a href="ch11.html">Ch 11</a> / <a href="ch47.html">Ch 47</a> → <a href="ch21.html">Ch 21</a> / <a href="ch37.html">Ch 37</a> (at stated scope) → Appendices B/C (dead ends / jumps).</li>
+<li><strong>Fire / Rescue</strong> — <a href="ch01.html">Ch 1</a> → <a href="ch13.html">Ch 13</a> → <a href="ch28.html">Ch 28</a> → <a href="ch30.html">Ch 30</a>. Chemical and powder operations require specialist qualifications.</li>
+<li><strong>Medical Corps</strong> — <a href="ch04.html">Ch 4</a>, <a href="ch07.html">Ch 7</a>, <a href="ch08.html">Ch 8</a>, <a href="ch30.html">Ch 30</a>, <a href="ch31.html">Ch 31</a>, and <a href="ch44.html">Ch 44</a>. Clinical dosing and procedures follow current professional guidance, not improvised recipes in this book.</li>
+<li><strong>Engineering Corps</strong> — <a href="ch13.html">Ch 13</a>, <a href="ch15.html">Ch 15</a>, <a href="ch20.html">Ch 20</a>, <a href="ch22.html">Ch 22</a>, <a href="ch23.html">Ch 23</a>, <a href="ch25.html">Ch 25</a>–<a href="ch27.html">Ch 27</a>, and <a href="ch47.html">Ch 47</a>. Pressure, electrical, excavation, and process safety require qualified engineering review.</li>
+<li><strong>Defense, logistics, and emergency-response readers</strong> — <a href="ch48.html">Ch 48</a>–<a href="ch51.html">Ch 51</a> form an optional annex outside the core build sequence.</li>
 </ul>
 <h2 id="00_front_matter-how-to-read-it">How To Read It</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Reader map by role">
 <title>Reader map by role</title>
 <rect x="0" y="0" width="640" height="195" fill="#fbf9f3"/>
-<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 0.1 — Four readers, four paths (one book)</text>
+<text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 0.1 — Four roles, four starting points (one dependency graph)</text>
 <g font-size="9" text-anchor="middle">
 <rect x="16" y="45" width="143" height="90" rx="6" fill="#eef5ec" stroke="#2e5b34" stroke-width="2"/>
 <text x="87.5" y="62" font-size="10" font-weight="bold">SURVIVOR</text>
 <text x="87.5" y="74">Part I →</text>
 <text x="87.5" y="85">App A + D</text>
-<text x="87.5" y="99" font-style="italic">wilderness path</text>
-<text x="87.5" y="112" font-style="italic">start [Ch 1]</text>
+<text x="87.5" y="99" font-style="italic">settlement path</text>
+<text x="87.5" y="112" font-style="italic">start: Ch 1</text>
 <rect x="171" y="45" width="143" height="90" rx="6" fill="#edf2f9" stroke="#2f5286" stroke-width="2"/>
 <text x="242.5" y="62" font-size="10" font-weight="bold">GOVERNOR</text>
-<text x="242.5" y="74">Ch 9 · 11 · 47</text>
-<text x="242.5" y="85">+ Part VI</text>
+<text x="242.5" y="74">Ch 9 · 11 · 12 · 47</text>
+<text x="242.5" y="85">law + finance</text>
 <text x="242.5" y="99" font-style="italic">institutions spine</text>
-<text x="242.5" y="112" font-style="italic">money→law→war</text>
+<text x="242.5" y="112" font-style="italic">records→law→finance</text>
 <rect x="326" y="45" width="143" height="90" rx="6" fill="#e8dcc0" stroke="#8a6d1f" stroke-width="2"/>
 <text x="397.5" y="62" font-size="10" font-weight="bold">ENGINEER</text>
 <text x="397.5" y="74">Parts III–V</text>
-<text x="397.5" y="85">rung by rung</text>
-<text x="397.5" y="99" font-style="italic">the ladder proper</text>
-<text x="397.5" y="112" font-style="italic">print→grid→orbit</text>
+<text x="397.5" y="85">capability gates</text>
+<text x="397.5" y="99" font-style="italic">core path</text>
+<text x="397.5" y="112" font-style="italic">measure→accept→scale</text>
 <rect x="481" y="45" width="143" height="90" rx="6" fill="#efe9db" stroke="#16130e" stroke-width="2"/>
 <text x="552.5" y="62" font-size="10" font-weight="bold">FOREMAN</text>
-<text x="552.5" y="74">App G wall card</text>
+<text x="552.5" y="74">App G data card</text>
 <text x="552.5" y="85">+ chapter at hand</text>
-<text x="552.5" y="99" font-style="italic">numbers first</text>
-<text x="552.5" y="112" font-style="italic">sequence + values</text>
+<text x="552.5" y="99" font-style="italic">conditions first</text>
+<text x="552.5" y="112" font-style="italic">tests + records</text>
 </g>
-<text x="320" y="155" text-anchor="middle" font-size="10">one page only? Appendix A (sequence) + Appendix D (stack) — the whole book in two sheets</text>
+<text x="320" y="155" text-anchor="middle" font-size="10">one page? Appendix A (capability gates) + Appendix D (scenario stack)</text>
 <text x="320" y="172" text-anchor="middle" font-size="10" font-weight="bold">Requires → Unlocks links form the graph; Appendix E flattens it.</text>
 </svg>
-<figcaption><strong>Figure 0.1.</strong> Pick your path by your job: survive, govern, build, or run the shop — all four converge on the same dependency graph, entered at different rungs.</figcaption>
+<figcaption><strong>Figure 0.1.</strong> Pick your path by role: settle, govern, engineer, or operate a workshop. The same dependency graph supports different entry points, but no role skips its own competence requirements.</figcaption>
 </figure>
 
-<p>Each chapter states its <strong>Era span</strong>, <strong>Difficulty</strong>, what it <strong>Requires</strong>, and what it <strong>Unlocks</strong>. The dependency links form a graph; Appendix E flattens that graph into a table. If you must compress everything into one page, read Appendix A (<strong>The Critical Path</strong>) and Appendix D (<strong>The Minimum Viable Industrial Stack</strong>).</p>
+<p>Each chapter states its <strong>Era span</strong>, <strong>Difficulty</strong>, what it <strong>Requires</strong>, and what it <strong>Unlocks</strong>. Those links form a working graph; Appendix E flattens it into a dependency table. If you need the shortest usable overview, begin with Appendix A (<strong>Core Build Sequence</strong>) and Appendix D (<strong>Scenario-Dependent Capability Stack</strong>).</p>
 <h2 id="00_front_matter-the-core-insight">The Core Insight</h2>
 <p>Civilization is not a pile of inventions. It is a <strong>small set of load-bearing technologies</strong> — fire, agriculture, writing, metallurgy, mechanical power, printing, precision measurement, chemistry, electricity, sanitation, computation, orbital access — each of which unlocks several others, wrapped in <strong>institutional technology</strong> (money, law, logistics, statistics) that lets knowledge accumulate faster than entropy destroys it.</p>
-<p>History is the story of finding those nodes by accident. Two great engines did the finding: <strong>commerce</strong> (profit seeking, price signals, trade networks) and <strong>war</strong> (inter-group competition, which historically forced faster investment in metallurgy, logistics, navigation, chemistry, computing, and organizational design than any peacetime incentive). Both engines appear throughout this book and are treated identically: as documented causes with measurable outputs. <a href="ch48.html">Part VI</a> treats the martial thread directly.</p>
+<p>History found many capabilities through competition, exchange, crisis, and accident. War sometimes accelerated metallurgy, logistics, medicine, computing, and organization by concentrating funds and imposing deadlines. It also destroyed people, wealth, and knowledge, suppressed dissent, and often favored weapons over welfare. The claim is therefore narrower: <strong>war is one important coercive selection environment, not a uniquely efficient engine of innovation and not a prerequisite for technological recovery.</strong> Civilian commerce, public health, scientific institutions, and maintenance cultures are independent causal traditions. Chapters 48–51 preserve the military record in an optional annex rather than placing it on the core dependency path.</p>
 <h2 id="00_front_matter-scope-and-level">Scope and Level</h2>
-<p>This guide is written at an <strong>adult (18+) college level</strong>, the density and frankness of a university textbook. It does not sanitize: military technology, siegecraft, firearms, naval power, and the organizational machinery of industrial war are first-class subjects in <a href="ch48.html">Part VI</a>, because they demonstrably shaped the technology tree. Casualties, atrocities, and strategic decisions appear as historical facts with figures; neither glorification nor condemnation has a place in an objective register.</p>
+<p>This guide is written at an <strong>adult (18+) college level</strong> and combines textbook explanation, historical evidence, and operational reference. It is not a substitute for professional training, engineering codes, clinical guidance, or emergency procedures. High-risk material is retained for system understanding, but construction and operation are competence-gated.</p>
+<p><a href="ch48.html">Ch 48</a>–<a href="ch51.html">Ch 51</a> preserve the military and industrial-war record in the optional annex. Their engineering and institutional spillovers matter, but their human costs and contested causal claims are assessed alongside their outputs rather than reduced to “objective” colorlessness. Casualties, atrocities, and strategic decisions require explicit provenance and uncertainty where available; technical explanation does not excuse the political choices that produced them.</p>
 <p>Weapons of mass destruction receive what standard histories give them: physics, organizations, delivery systems, doctrines, and arms-control regimes are covered (<a href="ch37.html">Ch 37</a>, <a href="ch51.html">Ch 51</a>); detailed synthesis procedures are outside every college curriculum and likewise absent here — a scope line, not a moral one.</p>
+<p>The binding evidence rules appear in the <a href="source-policy.html">Source and Confidence Policy</a>. Appendix G labels unresolved or conditional values rather than presenting polished precision as certainty.</p>
 <hr />
-<p><em>Begin at <a href="ch01.html">Ch 1</a>. Or begin at <a href="appendix-a.html">Appendix A</a> if you only have one page.</em></p>
+<p><em>Begin at <a href="ch01.html">Ch 1</a>. For the shortest capability overview, begin with <a href="appendix-a.html">Appendix A</a>, then select the scenario stack in <a href="appendix-d.html">Appendix D</a>.</em></p>
 </main>
 <nav class="reader-bottom-nav">
   <span class="reader-nav-link disabled">← Start</span>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch01.html" class="reader-nav-link">Chapter 1 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

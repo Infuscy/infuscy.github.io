@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch42_internet-chapter-42-the-internet-and-data-centers">Chapter 42: The Internet and Data Centers</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> 1969 ARPANET → cloud era · <strong>Difficulty:</strong> extreme
-<br><strong>Requires:</strong> <a href="ch36.html">Ch 36</a>, <a href="ch41.html">Ch 41</a>, <a href="ch26.html">Ch 26</a> · <br><strong>Unlocks:</strong> planetary knowledge coordination — the book's own distribution medium</p>
+<p><strong>Era span:</strong> 1969 ARPANET → cloud era · <strong>Difficulty:</strong> extreme<br><strong>Requires:</strong> <a href="ch26.html">Ch 26</a>, <a href="ch36.html">Ch 36</a>, <a href="ch41.html">Ch 41</a><br><strong>Unlocks:</strong> <a href="ch43.html">Ch 43</a>, <a href="ch46.html">Ch 46</a><br><strong>Data snapshot:</strong> volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</p>
 </blockquote>
 <p>The internet is not a thing but an AGREEMENT: protocols everyone adopts so any network can talk to any network. Its genius is architectural humility — a dumb, reliable packet core with intelligence pushed to the edges. This chapter builds that agreement and the physical plant underneath it.</p>
 <figure class="fig">
@@ -272,7 +273,7 @@ body {
 </figure>
 
 <h2 id="ch42_internet-421-packet-switching-insight">42.1 Packet Switching Insight</h2>
-<p>Circuit switching (telephony) reserves paths even during silence; Baran/Licklider-era insight: chop messages into PACKETS, each finding its way independently, links shared statistically. Survivability (no single node kills the net) and efficiency (multiplexing bursty traffic) fall out of the same design. ARPANET demonstrated it across four nodes (1969); email arrived 1971 and immediately dominated traffic (people, it turns out, want to talk).</p>
+<p>Circuit switching (telephony) reserves paths even during silence; Baran/Licklider-era insight: chop messages into PACKETS, each finding its way independently, links shared statistically. Survivability (no single node kills the net) and efficiency (multiplexing bursty traffic) fall out of the same design. ARPANET demonstrated it across four nodes (1969); email arrived 1971 and within two years dominated traffic (people, it turns out, want to talk).</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -330,7 +331,7 @@ body {
 </tr>
 </tbody>
 </table></div>
-<p><strong>End-to-end principle:</strong> keep core simple; put intelligence at endpoints. Consequences: innovation needs no permission (new apps run on old networks), censorship/filtering concentrates at edges, failures degrade gracefully. Ethernet (Metcalfe, 1973) won local networking on cost; switches later replaced hub collision domains.</p>
+<p><strong>End-to-end principle:</strong> keep core functions simple where possible and place application intelligence at endpoints. This enables new applications over older networks, but it does not confine all control or censorship to edges: routes, resolvers, transit, platforms, endpoints, and local law all shape what users can do. Ethernet (Metcalfe, 1973) won local networking on cost; switches later replaced shared-medium collision domains.</p>
 <p><strong>TCP in four mechanisms:</strong> sequence numbers (order) → acknowledgments (receipt) → retransmit on loss → window (flow control) + slow-start (congestion politeness). UDP skips all four for speed (voice, video, games — loss tolerated, delay not).</p>
 <h2 id="ch42_internet-423-naming-and-trust">42.3 Naming and Trust</h2>
 <ul>
@@ -410,7 +411,7 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
 <line x1="390" y1="85" x2="398" y2="85"/><polygon points="398,80 398,90 405,85" fill="#16130e"/>
 <line x1="505" y1="85" x2="513" y2="85"/><polygon points="513,80 513,90 520,85" fill="#16130e"/>
 </g>
-<text x="320" y="140" text-anchor="middle" font-size="10">PUE legacy ~2.0 → hyperscale ~1.1 · N+1 power/cooling · zones + chaos tests + error budgets</text>
+<text x="320" y="140" text-anchor="middle" font-size="10">PUE = total ÷ IT power · well-designed sites can approach 1.1; older systems often exceed 2</text>
 <text x="320" y="157" text-anchor="middle" font-size="10" font-weight="bold">CapEx → OpEx: startups scale without buying buildings.</text>
 <text x="320" y="174" text-anchor="middle" font-size="9" font-style="italic">data outlives hardware: 3-2-1 backups (Ch 36) + geographic copies</text>
 </svg>
@@ -420,7 +421,7 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
 <p>The internet's body is warehouses of computation:</p>
 <ul>
 <li><strong>Scale anatomy:</strong> megawatt campuses; racks at 10–100+ kW; leaf-spine network fabrics; storage tiers (NVMe → disk → tape archive).</li>
-<li><strong>Efficiency metric PUE</strong> (total power ÷ IT power): legacy ~2.0, hyperscale ~1.1 via free-air/economizer cooling, hot-aisle containment, running warmer.</li>
+<li><strong>Efficiency metric PUE</strong> (total data-centre power ÷ IT power): older facilities often approach or exceed 2, while the best hyperscale sites can approach 1.1. Climate, cooling design, redundancy, IT load, and measurement boundary determine the result.</li>
 <li><strong>Virtualization → cloud (AWS 2006):</strong> hardware abstracted into rentable primitives (compute instances, object storage, managed databases). CapEx became OpEx; startups scaled without buying data centers; utilization economics favored giants who could fill machines.</li>
 <li><strong>CDNs:</strong> cache content at edges near users — latency and backbone load both drop; the network effectively grows content outward.</li>
 <li>Reliability engineering: redundancy (N+1 power/cooling), availability zones, chaos testing, SRE error budgets (<a href="ch47.html">Ch 47</a>'s statistical governance applied to uptime).</li>
@@ -436,9 +437,9 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
 </thead>
 <tbody>
 <tr>
-<td>NVMe / RAM cache</td>
+<td>RAM / NVMe</td>
 <td>Silicon</td>
-<td>µs–ms</td>
+<td>ns (RAM) – tens of µs (NVMe)</td>
 <td>Hot working set</td>
 </tr>
 <tr>
@@ -448,10 +449,10 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
 <td>Warm corpus</td>
 </tr>
 <tr>
-<td>Tape / glacier</td>
+<td>Tape / object archive</td>
 <td>Linear</td>
 <td>Hours</td>
-<td>Cold archive, ransomware-proof</td>
+<td>Cold archive; requires isolation and tested recovery</td>
 </tr>
 <tr>
 <td>CDN edge</td>
@@ -469,17 +470,17 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
 </ul>
 <p><strong>SRE error budget (import from <a href="ch47.html">Ch 47</a>):</strong> 99.9 % uptime = 43 min/month of allowed breakage; spend it on releases, freeze on exhaustion. Chaos-test in daylight with rollback ready — failures rehearsed hurt less than failures surprised.</p>
 <h2 id="ch42_internet-427-why-this-is-the-books-keystone">42.7 Why This Is the Book's Keystone</h2>
-<p>Every prior technology documented its results in paper archives decaying by fire and neglect; this one indexes humanity's knowledge in real time, distributes it universally, and lets <a href="ch44.html">Ch 44</a>-<a href="ch46.html">46</a> compound at network speed. A civilization dominating a planet runs on synchronized information — this chapter IS that synchronization.</p>
-<p class="co co-key"><strong>Key threshold:</strong> majority-of-population broadband access marks information-infrastructure arrival; measure by participation (creators, transactors online), not just subscription counts.</p>
+<p>Earlier information systems depended on physical archives vulnerable to fire, neglect, distance, and selective access. Networks can index, copy, distribute, and update information at global scale, accelerating research, commerce, education, and public coordination while creating new failures in concentration, surveillance, misinformation, and infrastructure dependence. The capability is synchronisation—provided access, governance, and resilience keep it broadly useful.</p>
+<p class="co co-key"><strong>Capability gate:</strong> report availability, adoption, affordability, device access, latency, reliability, safety, and meaningful participation. A majority-subscription threshold alone hides exclusion and does not define information resilience.</p>
 <h2 id="ch42_internet-428-the-internet-papers">42.8 The Internet Papers</h2>
 <ul>
 <li>Lineage documents stack up neatly: Licklider's "Intergalactic Computer Network" memo (1962); Baran's RAND <em>On Distributed Communications</em> (1964, eleven volumes); Donald Davies independently coined "packet" at NPL (1965–66). Three origins, one idea — simultaneous invention again (<a href="ch35.html">Ch 35</a>'s pattern).</li>
 <li><strong>The first ARPANET message (October 29, 1969)</strong> crashed after two characters: UCLA's system sent "LO" of "LOGIN" before SRI's host fell. The network's first word was an abbreviation nobody chose.</li>
-<li>RFC culture started casually: Steve Crocker drafted RFC 1 (April 1969) as graduate students documenting protocols without authority — the "Requests for Comments" ethos IS the internet's constitution, written on beds and in dorm rooms.</li>
+<li>RFC culture started casually: Steve Crocker drafted RFC 1 (April 1969) as graduate students documenting protocols without authority — the "Requests for Comments" ethos IS the internet's constitution, and it began as deliberately tentative notes from people with no formal authority.</li>
 <li>Tomlinson chose "@" for email (1971) because it occupied unused Model 33 Teletype keycap real estate and read naturally ("user AT host") — interface archaeology deciding syntax forever.</li>
 <li><strong>Cerf &amp; Kahn's May 1974 paper</strong> specified TCP; the January 1, 1983 flag-day cutover happened because coexistence stopped scaling — protocol migration is possible, and this is the canonical proof.</li>
 <li>Berners-Lee's manager Mike Sendall annotated the 1989 proposal "Vague but exciting…" (margin note preserved) and approved it; <strong>CERN released the web royalty-free on April 30, 1993</strong> — a licensing decision, more than any code, explains why the web won where proprietary hypertext died.</li>
-<li>Morris worm (November 2, 1988) infected roughly a tenth of the connected internet and produced the first CFAA conviction; the incident-response community (CERT) predates the virus it was named for by days — security institutions form around incidents.</li>
+<li>Morris worm (November 2, 1988) infected roughly a tenth of the connected internet and produced the first CFAA conviction; DARPA founded the CERT Coordination Center within weeks in response — security institutions form around incidents.</li>
 <li>Netscape's August 9, 1995 IPO (priced $28, closed $58.25) opened the browser era's capital flood; NASDAQ peaked March 10, 2000 (5,048) and the crash burned capital that had, incidentally, laid dark fiber and built data centers — the bust subsidized the broadband decade (<a href="ch41.html">Ch 41</a>'s overbuild lesson restated financially).</li>
 </ul>
 <h2 id="ch42_internet-429-build-order-greenfield-network">42.9 Build Order (Greenfield Network)</h2>
@@ -490,7 +491,7 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch43.html" class="reader-nav-link">Chapter 43 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

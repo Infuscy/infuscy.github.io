@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Source and Confidence Policy — Fire to Future</title>
+<style>
+
+:root {
+  --reader-max: 46rem;
+  --reader-text: #1e293b;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-border: #e2e8f0;
+  --reader-font-scale: 1;
+}
+* { box-sizing: border-box; }
+body {
+  background: #f8fafc;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .75rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: #0f172a;
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: #0f172a;
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: #f8fafc; }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: #f1f5f9;
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: #f1f5f9;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+</style>
+</head>
+<body>
+<div class="reader-top-bar">
+  <a href="/fire-to-future/">← Table of Contents</a>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+  <span class="reader-progress">Reference note</span>
+</div>
+<main class="reader-content">
+<h1 id="SOURCE_POLICY-source-and-confidence-policy">Source and Confidence Policy</h1>
+<p>This policy applies to all claims, numbers, diagrams, and operational statements in <em>Fire to Future</em>.</p>
+<h2 id="SOURCE_POLICY-1-evidence-classes">1. Evidence classes</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Class</th>
+<th>Typical source</th>
+<th>Permitted wording</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A — standard/primary</strong></td>
+<td>law, code, standard, primary study, original dataset, official manual</td>
+<td>“requires,” “is defined as,” or a direct measured result with scope</td>
+</tr>
+<tr>
+<td><strong>B — authoritative synthesis</strong></td>
+<td>systematic review, major monograph, institutional report</td>
+<td>“evidence indicates,” “is associated with”</td>
+</tr>
+<tr>
+<td><strong>C — reconstructed or historical</strong></td>
+<td>archaeology, experimental archaeology, specialist history</td>
+<td>“a plausible reconstruction,” “reported,” “approximately”</td>
+</tr>
+<tr>
+<td><strong>D — contested</strong></td>
+<td>credible sources disagree</td>
+<td>present range, competing explanations, and uncertainty</td>
+</tr>
+<tr>
+<td><strong>E — editorial planning target</strong></td>
+<td>this book’s scenario model</td>
+<td>“planning marker,” “scenario,” or “acceptance target”</td>
+</tr>
+</tbody>
+</table></div>
+<p>A named practitioner or company claim is not independent evidence merely because the number is precise.</p>
+<h2 id="SOURCE_POLICY-2-required-citation-fields">2. Required citation fields</h2>
+<p>Every load-bearing number should eventually carry:</p>
+<ul>
+<li>source or stable bibliographic reference;</li>
+<li>source class A–E;</li>
+<li>date and edition for standards or volatile data;</li>
+<li>units and uncertainty/range;</li>
+<li>material, population, geography, and operating conditions;</li>
+<li>whether the value is measured, derived, estimated, or normative;</li>
+<li>reviewer and verification date for high-consequence claims.</li>
+</ul>
+<p>Until those fields exist, Appendix G labels the value <code>VERIFY</code>, <code>CONDITIONAL</code>, <code>PLANNING</code>, or <code>CONTESTED</code>.</p>
+<h2 id="SOURCE_POLICY-3-high-consequence-domains">3. High-consequence domains</h2>
+<p>The following require qualified subject-matter review before publication and must never be treated as general-reader instructions:</p>
+<ul>
+<li>explosives, blasting, firearms, and ammunition;</li>
+<li>boilers, pressure vessels, mines, confined spaces, and demolition;</li>
+<li>concentrated acids, caustics, industrial chemistry, gases, and hazardous waste;</li>
+<li>electricity, batteries, grids, high voltage, and RF;</li>
+<li>structural engineering, cement, dams, towers, and aircraft;</li>
+<li>semiconductor fabrication, including HF, TMAH, process gases, and vacuum systems;</li>
+<li>clinical diagnosis, prescribing, anaesthesia, infection control, ORS, and cold chains;</li>
+<li>reactors, radioactive material, safeguards, and waste;</li>
+<li>biological synthesis, genome editing, culture, and clinical translation.</li>
+</ul>
+<p>Warnings do not convert a general manual into an operating procedure. Hazardous procedures require competence, qualified supervision, suitable facilities, written methods, test equipment, emergency planning, and applicable law.</p>
+<h2 id="SOURCE_POLICY-4-quantitative-language">4. Quantitative language</h2>
+<p>Use precise language only when the boundary is known:</p>
+<ul>
+<li><strong>constant/reference:</strong> physical definition, e.g. copper melting point 1,085 °C at standard pressure;</li>
+<li><strong>conditional:</strong> valid only under named conditions, e.g. a conversion efficiency at a specified load;</li>
+<li><strong>range:</strong> report the interval and source;</li>
+<li><strong>typical:</strong> representative but not universal;</li>
+<li><strong>minimum/design target:</strong> a chosen acceptance value, not a discovered constant;</li>
+<li><strong>historical estimate:</strong> tied to source quality and uncertainty;</li>
+<li><strong>scenario:</strong> explicitly belongs to Appendix E or a local plan.</li>
+</ul>
+<p>Avoid “only,” “always,” “never,” “zero,” “exact,” “instant,” “free,” and “dominates” unless the scope and evidence make the claim defensible.</p>
+<h2 id="SOURCE_POLICY-5-historical-causation">5. Historical causation</h2>
+<p>Separate:</p>
+<ol>
+<li>chronology;</li>
+<li>mechanism;</li>
+<li>adoption;</li>
+<li>measurable outcome;</li>
+<li>counterfactual uncertainty;</li>
+<li>distribution and human cost.</li>
+</ol>
+<p>“War accelerated X” does not imply “war built modern society,” “civil society could not have done X,” or “X’s benefits cancel its costs.” The same discipline applies to commerce, religion, public health, law, and scientific institutions.</p>
+<h2 id="SOURCE_POLICY-6-volatile-material">6. Volatile material</h2>
+<p>Prices, launch costs, battery chemistry, energy performance, regulation, AI capability, military systems, and space operations require a publication-date snapshot. Keep volatile data out of timeless causal claims and identify the date of the snapshot.</p>
+<h2 id="SOURCE_POLICY-7-diagrams-and-numerical-artwork">7. Diagrams and numerical artwork</h2>
+<p>A diagram counts as a quantitative claim when it draws a scale, ratio, timeline, map, process sequence, or labelled threshold. The caption, drawing, and body must agree. If the artwork is schematic, say so. If proportions are proportional, provide a machine or manual check.</p>
+<h2 id="SOURCE_POLICY-8-publication-gate">8. Publication gate</h2>
+<p>A release candidate passes source governance only when:</p>
+<ul>
+<li>all high-consequence chapters have qualified review recorded;</li>
+<li>all Appendix G <code>VERIFY</code> entries are sourced, qualified, or removed;</li>
+<li>volatile material has a dated snapshot;</li>
+<li>dependency metadata matches <code>dependency_manifest.json</code>;</li>
+<li>broken files, links, and fragments fail the build;</li>
+<li>no unsupported number remains hidden in SVG text;</li>
+<li>known uncertainty is visible to the reader, not only in an editor’s ledger.</li>
+</ul>
+</main>
+<nav class="reader-bottom-nav">
+  <a href="appendix-g.html" class="reader-nav-link">← Appendix G</a>
+  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
+  <span class="reader-nav-link disabled">End →</span>
+</nav>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<script src="/js/reader-font.js"></script>
+</body>
+</html>

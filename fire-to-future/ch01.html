@@ -140,12 +140,14 @@ body {
   text-align: left;
   hyphens: none;
 }
-.co-key { background: #eef5ec; border-color: #3f6c3f; }
-.co-dead { background: #f9eeec; border-color: #8f3b2d; }
-.co-jump { background: #edf2f9; border-color: #2f5286; }
-.co-warn { background: #fdf0ec; border-color: #b3271e; border-width: 3px; }
-.co-hazard { background: #fff7e6; border-color: #8a6d1f; }
-.co-scope { background: #eef1f5; border-color: #46617a; }
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
 
 /* figures (inline SVG, web analogue of the print figure CSS) */
 .reader-content figure.fig {
@@ -235,8 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch01_fire-chapter-1-fire-making-keeping-and-engineering-heat">Chapter 1: Fire: Making, Keeping, and Engineering Heat</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> earliest sites ~1 Ma–790 ka (evidence debated); habitual use secure by ~400 ka · <strong>Difficulty:</strong> low
-<br><strong>Requires:</strong> nothing — this is node zero · <br><strong>Unlocks:</strong> <a href="ch02.html">Ch 2</a>, <a href="ch05.html">Ch 5</a>, <a href="ch07.html">Ch 7</a>, and everything hot thereafter</p>
+<p><strong>Era span:</strong> earliest sites ~1 Ma–790 ka (evidence debated); habitual use secure by ~400 ka · <strong>Difficulty:</strong> low<br><strong>Requires:</strong> nothing — capability node zero<br><strong>Unlocks:</strong> <a href="ch02.html">Ch 2</a>, <a href="ch05.html">Ch 5</a>, <a href="ch07.html">Ch 7</a></p>
 </blockquote>
 <p>Fire is not one technology but three: <strong>ignition</strong> (creating it on demand), <strong>maintenance</strong> (keeping it through nights, storms, and transport), and <strong>heat engineering</strong> (shaping where the heat goes). Most histories stop at ignition. A civilization that stops there stays cold; the third layer is what later becomes kilns, forges, retorts, and blast furnaces.</p>
 <figure class="fig">
@@ -263,7 +264,7 @@ body {
 <circle cx="352" cy="102" r="4" fill="#8f3b2d"/><text x="364" y="105" font-size="10">1,085 copper melts</text>
 <circle cx="352" cy="134" r="4" fill="#8a6d1f"/><text x="364" y="137" font-size="10">~800 pottery kiln</text>
 <circle cx="352" cy="155" r="4" fill="#8a6d1f"/><text x="364" y="158" font-size="10">~600 open wood fire</text>
-<circle cx="352" cy="176" r="4" fill="#8a6d1f"/><text x="364" y="179" font-size="10">~260 fire piston / friction coal</text>
+<circle cx="352" cy="176" r="4" fill="#8a6d1f"/><text x="364" y="179" font-size="10">~260 char/tinder ignites</text>
 </svg>
 <figcaption><strong>Figure 1.1.</strong> Left: the fire triangle — banking smothers oxygen, dousing removes heat, fuel exhaustion ends even banked coals. Right: the temperature ladder this chapter climbs. Every later metallurgical chapter is a move up this ladder.</figcaption>
 </figure>
@@ -275,7 +276,7 @@ body {
 <li><strong>Hearth board:</strong> same wood family as spindle — <em>matching hardness matters</em>; a hard spindle on soft wood polishes instead of grinding.</li>
 <li><strong>Bow:</strong> slightly bent branch, cord of rawhide or a 2-ply plant-fiber string (see <a href="ch03.html">Ch 3</a>), one loose loop around the spindle.</li>
 <li><strong>Bearing block:</strong> hardwood, stone, shell, or a knuckle-guard of bone; lubricated with tallow or green leaves.</li>
-<li><strong>Technique:</strong> carve a V-notch from the edge of a shallow hearth depression so the accumulating char can drop onto a tinder bundle below. Stroke smoothly until smoke is continuous (~20–60 s of vigorous work), then transfer the smoking pile of char into the tinder and blow in long, steady breaths. Flame follows at roughly 300–450 °C ember temperature.</li>
+<li><strong>Technique:</strong> carve a V-notch from the edge of a shallow hearth depression so the accumulating char can drop onto a tinder bundle below. Stroke smoothly until smoke is continuous (~20–60 s of vigorous work), then transfer the smoking pile of char into the tinder and blow in long, steady breaths. The coal glows red (above ~500 °C); flame follows once enough of the surrounding tinder reaches its ignition temperature.</li>
 </ul>
 <p class="co co-key"><strong>Key threshold:</strong> a coal that holds together when the tinder bundle is tapped — crumbly char means wet material or wrong wood.</p>
 <p>Alternatives worth knowing: the <strong>hand drill</strong> (no bow; needs very dry low-density woods like yucca or mullein — lighter but harder to learn) and the <strong>fire plough/saw</strong> (rubbing one stick along a groove; simple tools, high effort).</p>
@@ -284,43 +285,48 @@ body {
 <title>Bow drill assembly schematic</title>
 <rect x="0" y="0" width="640" height="213" fill="#fbf9f3"/>
 <text x="320" y="20" text-anchor="middle" font-size="13" font-weight="bold">Fig 1.2 — Bow-drill assembly (side view, not to scale)</text>
-<polygon points="34,144 206,80 210,90 38,154" fill="#8a6d1f"/>
-<text x="75" y="122" text-anchor="middle" font-size="10" font-weight="bold">BOW</text>
-<path d="M210,85 L249,96" fill="none" stroke="#16130e" stroke-width="1.25" stroke-dasharray="5,4"/>
-<path d="M249,104 L38,152" fill="none" stroke="#16130e" stroke-width="1.25" stroke-dasharray="5,4"/>
+<path d="M38,150 Q110,96 208,85" fill="none" stroke="#8a6d1f" stroke-width="9" stroke-linecap="round"/>
+<text x="80" y="110" text-anchor="middle" font-size="10" font-weight="bold">BOW</text>
+<line x1="208" y1="85" x2="248" y2="94" stroke="#16130e" stroke-width="1.25"/>
+<line x1="248" y1="104" x2="38" y2="150" stroke="#16130e" stroke-width="1.25"/>
 <rect x="248" y="58" width="30" height="84" rx="6" fill="#c9a86a" stroke="#16130e" stroke-width="1.5"/>
+<line x1="248" y1="94" x2="278" y2="101" stroke="#16130e" stroke-width="1.5"/>
+<text x="140" y="146" text-anchor="middle" font-size="10" font-weight="bold">CORD <tspan font-weight="normal" font-size="9">(one wrap)</tspan></text>
 <ellipse cx="263" cy="52" rx="26" ry="11" fill="#9a927e" stroke="#16130e" stroke-width="1.5"/>
 <text x="290" y="49" font-size="10" font-weight="bold">BEARING</text>
 <text x="290" y="60" font-size="9" font-style="italic">down pressure</text>
 <text x="290" y="96" font-size="10" font-weight="bold">SPINDLE</text>
 <text x="290" y="107" font-size="9">15–25 cm</text>
-<rect x="240" y="142" width="72" height="14" fill="#e0c896" stroke="#16130e" stroke-width="1.5"/>
-<polygon points="312,145 299,149 312,153" fill="#fbf9f3" stroke="#16130e" stroke-width="1.25"/>
-<circle cx="317" cy="150" r="3" fill="#3a2e22"/>
-<line x1="318" y1="149" x2="366" y2="128" stroke="#16130e" stroke-width="1.5"/>
+<rect x="212" y="142" width="74" height="14" fill="#e0c896" stroke="#16130e" stroke-width="1.5"/>
+<polygon points="286,144 270,149 286,154" fill="#fbf9f3" stroke="#16130e" stroke-width="1.25"/>
+<circle cx="292" cy="150" r="3" fill="#3a2e22"/>
+<line x1="296" y1="148" x2="366" y2="128" stroke="#16130e" stroke-width="1.5"/>
 <polygon points="374,124.5 365.5,131.8 364.2,124.8" fill="#16130e"/>
-<text x="256" y="168" text-anchor="middle" font-size="10" font-weight="bold">HEARTH BOARD</text>
-<text x="334" y="172" text-anchor="middle" font-size="10" font-weight="bold">V-NOTCH</text>
-<text x="334" y="184" text-anchor="middle" font-size="9">feeds the coal</text>
-<text x="334" y="195" text-anchor="middle" font-size="9">to the tinder</text>
+<text x="240" y="168" text-anchor="middle" font-size="10" font-weight="bold">HEARTH BOARD</text>
+<text x="324" y="166" text-anchor="middle" font-size="10" font-weight="bold">V-NOTCH</text>
+<text x="324" y="178" text-anchor="middle" font-size="9">feeds the coal</text>
+<text x="324" y="189" text-anchor="middle" font-size="9">to the tinder</text>
 <ellipse cx="440" cy="120" rx="66" ry="26" fill="#eef5ec" stroke="#3f6c3f" stroke-width="1.5"/>
 <path d="M386,132 Q440,108 494,132" fill="none" stroke="#3f6c3f" stroke-width="1.25"/>
 <path d="M394,140 Q440,120 486,140" fill="none" stroke="#3f6c3f" stroke-width="1.25"/>
 <text x="440" y="164" text-anchor="middle" font-size="10" font-weight="bold">TINDER NEST</text>
 <text x="440" y="176" text-anchor="middle" font-size="9">fungus / char cloth / bark</text>
 <rect x="540" y="78" width="66" height="60" rx="4" fill="#e0c896" stroke="#16130e" stroke-width="1.5"/>
-<polygon points="540,100 554,107 540,114" fill="#fbf9f3" stroke="#16130e" stroke-width="1.25"/>
-<text x="573" y="70" text-anchor="middle" font-size="10" font-weight="bold">HEARTH</text>
-<text x="573" y="150" text-anchor="middle" font-size="9">notch: top view</text>
-<text x="573" y="161" text-anchor="middle" font-size="9">same wood family</text>
+<circle cx="562" cy="108" r="10" fill="#6b5a33" stroke="#16130e" stroke-width="1.25"/>
+<polygon points="540,99 562,108 540,117" fill="#fbf9f3" stroke="#16130e" stroke-width="1.25"/>
+<text x="573" y="58" text-anchor="middle" font-size="10" font-weight="bold">HEARTH</text>
+<text x="573" y="70" text-anchor="middle" font-size="9" font-style="italic">top view</text>
+<text x="573" y="150" text-anchor="middle" font-size="9">notch cut into</text>
+<text x="573" y="161" text-anchor="middle" font-size="9">the burnt socket</text>
+<text x="573" y="172" text-anchor="middle" font-size="9">same wood family</text>
 </svg>
 <figcaption><strong>Figure 1.2.</strong> Bow-drill geometry: the cord loop spins the spindle, the bearing block supplies downward pressure, the V-notch feeds the coal onto the tinder. Failure is almost always wet tinder, mismatched wood hardness, or a cord too tight to spin freely.</figcaption>
 </figure>
 
 <h2 id="ch01_fire-12-ignition-by-spark">1.2 Ignition by Spark</h2>
-<p>Where pyrite or marcasite nodules occur naturally, striking them with flint or quartz throws sparks that will ignite true tinder — dried fungus (<em>Fomes fomentarius</em>, "amadou") processed by boiling, pounding, and slow drying, or charred cloth once textiles exist. This method is faster and less caloric than friction and works in wind.</p>
+<p>Where pyrite or marcasite nodules occur naturally, striking them with flint or quartz throws sparks that will ignite true tinder — dried fungus (<em>Fomes fomentarius</em>, "amadou") processed by boiling, pounding, and slow drying, or charred cloth once textiles exist. It is faster and far less tiring than friction, and it works in wind.</p>
 <p class="co co-jump"><strong>Jump:</strong> if flint-bearing chalk deposits and iron sulfides are known, skip friction methods entirely as your standard kit and carry strike-a-light sets. Friction remains the fallback when minerals fail.</p>
-<p>A <strong>fire piston</strong> (ignition by adiabatic compression of air, ~260 °C in a sealed bore) exists in Southeast Asian tradition and can be built once tight-fitting bored cylinders and gasketed pistons exist — interesting, but never worth prioritizing over spark kits.</p>
+<p>A <strong>fire piston</strong> (ignition by rapid adiabatic compression of air in a sealed bore — the compressed charge runs far hotter than the ~260 °C at which char tinder ignites) exists in Southeast Asian tradition and can be built once tight-fitting bored cylinders and gasketed pistons exist — interesting, but never worth prioritizing over spark kits.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -392,7 +398,7 @@ body {
 <p>Fuel value is roughly proportional to density: oak at ~0.75 g/cm³ yields ~2× the heat per volume of poplar at ~0.35. One person's daily cooking and heating demand in a temperate climate is on the order of 5–10 kg dry wood; a village burns a forest margin annually. This arithmetic, not romance, drives the shift to charcoal (<a href="#ch01_fire-14-charcoal-the-first-fuel-industry">below</a>) and eventually to coal (<a href="ch22.html">Ch 22</a>).</p>
 <p><strong>Char cloth recipe (once textiles exist):</strong> cut plain-weave cotton/linen into 5 cm squares, pack loosely in a pierced tin, heat in coals until smoke stops (~5–10 min). Done correctly the cloth is black, flexible, and catches a single spark. Overfired (ashy, crumbling) = too hot; underfired (brown, stiff) = too cool.</p>
 <h2 id="ch01_fire-14-charcoal-the-first-fuel-industry">1.4 Charcoal: The First Fuel Industry</h2>
-<p class="co co-warn"><strong>Safety warning:</strong> mound kilns make carbon monoxide and wildfire in the same pile — CO pools downslope and kills in pits and shelters, and an unguarded mound throws sparks into thatch and forest. Tend kilns only in open ground with wind watched, never sleep beside a smoking mound, and never bank fires inside sealed shelters (see §1.11).</p>
+<p class="co co-warn"><strong>Safety warning:</strong> mound kilns make carbon monoxide and wildfire in the same pile — CO, carried with heavier CO₂, collects in pits, hollows, and shelters and kills sleepers without warning, and an unguarded mound throws sparks into thatch and forest. Tend kilns only in open ground with wind watched, never sleep beside a smoking mound, and never bank fires inside sealed shelters (see §1.10).</p>
 <p>Charcoal burns hotter and cleaner than wood because pyrolysis has already stripped water, volatiles, and tars.</p>
 <ul>
 <li><strong>Mound kiln:</strong> stack seasoned wood around a central flue, cover with turf/earth leaving small draft holes, ignite top-down, then seal most openings so the mass smolders oxygen-starved.</li>
@@ -441,19 +447,17 @@ body {
 <ul>
 <li><strong>Banking:</strong> bury live coals in ash overnight; they insulate to a slow burn and rekindle in minutes. Fire-carrying between camps uses slow-burning punk or embers in a container — useful, but treat it as logistics, not strategy.</li>
 <li><strong>Clay oven:</strong> a beehive dome of mud over a temporary form, front mouth for loading, chimney optional. Fired once from within, it bakes itself while baking bread; retained-mass cooking runs hours per firing.</li>
-<li><strong>Draft control:</strong> a fire's temperature is managed by air supply more than fuel quantity. Bellows (two boards, hide hinges, wooden nozzle — see <a href="ch03.html">Ch 3</a> for leather) arrive early and pay forever; even a simple blowpipe doubles effective flame temperature.</li>
+<li><strong>Draft control:</strong> a fire's temperature is managed by air supply more than fuel quantity. Bellows (two boards, hide hinges, wooden nozzle — see <a href="ch03.html">Ch 3</a> for leather) arrive early and pay forever; even a simple blowpipe raises working temperature markedly.</li>
 </ul>
-<p class="co co-dead"><strong>Dead end avoided:</strong> myths of fire-starting by "spontaneous" methods — bamboo fire saws aside, every reliable primitive ignition is controlled friction, spark, or compression. Budget zero effort on anything else, and do not build ceremonial eternal flames; a banked ember plus skill beats a shrine.</p>
-<h2 id="ch01_fire-16-what-this-unlocks">1.6 What This Unlocks</h2>
-<p>Warmth and cooking expand edible range (detoxifying many plants, sterilizing meat), which feeds population growth into <a href="ch07.html">Ch 7</a>. Hardened wooden points, pitch-hafted composite tools (<a href="ch02.html">Ch 2</a>), fired clay (<a href="ch05.html">Ch 5</a>), lime, glass, metals, ceramics, steam, steel — all of it is downstream of a bow-drill and a turf-covered mound of smoldering logs.</p>
-<h2 id="ch01_fire-17-fire-as-landscape-engineering">1.7 Fire as Landscape Engineering</h2>
+<p class="co co-dead"><strong>Dead end avoided:</strong> myths of "spontaneous" fire-starting. Every reliable primitive method — bow drill, hand drill, bamboo fire saw, strike-a-light, fire piston — is controlled friction, spark, or compression. Budget zero effort on anything else, and do not build ceremonial eternal flames; a banked ember plus skill beats a shrine.</p>
+<h2 id="ch01_fire-16-fire-as-landscape-engineering">1.6 Fire as Landscape Engineering</h2>
 <p>Fire was a land-management tool long before it was industrial heat:</p>
 <ul>
 <li><strong>Fire-stick farming</strong> (the term is Rhys Jones', 1969): Aboriginal Australian burning regimes created mosaic landscapes — fresh green flush attracting game days after a cool burn, while old growth remained as refuge. Similar anthropogenic burning is documented for Californian and Pacific Northwest peoples (oak savanna maintenance, camas fields) and inferred for European Mesolithic.</li>
 <li><strong>Doctrine of the cool burn:</strong> burn in damp season, against light wind, behind natural breaks; never crown-fire terrain in drought. The skill is scheduling and patchwork, not pyrotechnics — the same patch-dynamics logic modern prescribed-burn programs rediscovered. Quantifying the yield/fuel-load effect of mosaic burning remains open: [EVIDENCE NEEDED] for a defensible number before asserting one.</li>
 <li><strong>Ash and charcoal as soil amendment</strong> foreshadows <a href="ch07.html">Ch 7</a>'s terra preta discussion: slash burned slowly into char raises soil cation-exchange capacity and persists centuries.</li>
 </ul>
-<h2 id="ch01_fire-18-what-the-archaeological-record-actually-shows">1.8 What the Archaeological Record Actually Shows</h2>
+<h2 id="ch01_fire-17-what-the-archaeological-record-actually-shows">1.7 What the Archaeological Record Actually Shows</h2>
 <p>Precision matters here because fire's timeline is genuinely contested:</p>
 <ul>
 <li><strong>Wonderwerk Cave, South Africa:</strong> burnt bone, plant ash, and heated flint fragments in discrete layers dated near <strong>1.0 million years</strong> — currently the strongest early in-cave fire evidence.</li>
@@ -462,16 +466,17 @@ body {
 <li>Neanderthal structured hearths (Abric Romaní, Spain — excavated combustion features with bedding and tool zones) show spatial organization around fire well before anatomically modern humans arrived in Europe.</li>
 </ul>
 <p>Claims linking cooking to human biology (smaller guts, bigger brains — Wrangham's cooking hypothesis) are influential but partially speculative; what is solid: cooked starches raise digestible energy markedly, and every surviving human society cooks. Treat the cognitive/language-by-fire stories as hypotheses, not findings.</p>
-<h2 id="ch01_fire-19-fuelwood-management-coppice-before-you-clear-cut">1.9 Fuelwood Management: Coppice Before You Clear-Cut</h2>
-<p>A settlement that burns 5–10 kg per person per day strips a 1 km radius within years. The Neolithic answer — still the correct one — is <strong>coppicing</strong>:</p>
+<h2 id="ch01_fire-18-fuelwood-management-coppice-before-you-clear-cut">1.8 Fuelwood Management: Coppice Before You Clear-Cut</h2>
+<p>At 5–10 kg per person per day, a settlement exhausts the dead wood within walking distance in a few seasons and, without management, thins the living woodland within a generation. The Neolithic answer — still the correct one — is <strong>coppicing</strong>:</p>
 <ol>
 <li>Cut hazel, ash, willow, or oak at stump height in winter; the stool resprouts 5–15 straight poles.</li>
 <li>Rotate coupes on 7–15 year cycles; one hectare of managed coppice yields ~5–10 m³/year indefinitely, versus one clear-cut and then mud.</li>
 <li>Reserve standards (a few mature trees per coupe) for timber while the underwood supplies fuel and charcoal stock.</li>
 <li>Dry split wood 6–12 months under cover before burning or charring — green wood wastes ~30 % of its heat boiling its own water and coats kiln walls with creosote.</li>
 </ol>
+<p><strong>Sizing check:</strong> 100 people at ~7.5 kg/day burn ~275 t of dry wood a year. At ~5–10 m³/ha/yr and roughly 0.5–0.6 t of dry wood per cubic metre, that is on the order of <strong>50–100 ha of coppice</strong> — worked in rotation, not felled at once. Charcoal multiplies the demand: at 10–15 % yield, every tonne of charcoal for the kiln or forge costs 7–10 t of wood.</p>
 <p>Pollarding (cutting at 2–3 m to keep regrowth above browsing animals) is the pasture-country variant. Both are archaeologically visible as stool beds and historically documented as the fuel base for every pre-coal pottery, lime, and metal district.</p>
-<h2 id="ch01_fire-110-troubleshooting-matrix">1.10 Troubleshooting Matrix</h2>
+<h2 id="ch01_fire-19-troubleshooting-matrix">1.9 Troubleshooting Matrix</h2>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -513,15 +518,17 @@ body {
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch01_fire-111-safety-doctrine">1.11 Safety Doctrine</h2>
-<p>Fire kills camps faster than predators do. Non-negotiable rules: clear 3 m of ground to mineral soil around any open flame; never leave a mound kiln unattended in the first 4 hours; store charcoal bone-dry (it re-adsorbs moisture and can self-heat if bagged with fines); keep a dedicated water/sand dump beside every forge and kiln; site ovens downwind of thatch. Carbon-monoxide discipline — never bank a fire inside a sealed shelter — belongs here, not in a later medical chapter, because the dead cannot read <a href="ch30.html">Ch 30</a>.</p>
+<h2 id="ch01_fire-110-safety-doctrine">1.10 Safety Doctrine</h2>
+<p>Fire kills camps faster than predators do. Non-negotiable rules: clear 3 m of ground to mineral soil around any open flame; never leave a mound kiln unattended in the first 4 hours; store charcoal bone-dry (it re-adsorbs moisture and can self-heat if bagged with fines); keep a dedicated water/sand dump beside every forge and kiln; site ovens downwind of thatch. Carbon-monoxide discipline belongs here, not in a later medical chapter, because the dead cannot read ahead: never bank a fire inside a sealed shelter, and treat headache, dizziness, or nausea in several sleepers at once as CO until proven otherwise — get everyone into open air first, then find the cause.</p>
+<h2 id="ch01_fire-111-what-this-unlocks">1.11 What This Unlocks</h2>
+<p>Warmth and cooking expand edible range (detoxifying many plants, sterilizing meat), which feeds population growth into <a href="ch07.html">Ch 7</a>. Hardened wooden points, pitch-hafted composite tools (<a href="ch02.html">Ch 2</a>), fired clay (<a href="ch05.html">Ch 5</a>), lime, glass, metals, ceramics, steam, steel — all of it is downstream of a bow-drill and a turf-covered mound of smoldering logs.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="front-matter.html" class="reader-nav-link">← Front matter</a>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   <a href="ch02.html" class="reader-nav-link">Chapter 2 →</a>
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — The Complete Technology Ladder · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

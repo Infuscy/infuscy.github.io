@@ -245,8 +245,9 @@ body {
 <li>Water → steam expands ~1,600× at atmospheric pressure; condensing it back creates vacuum.</li>
 <li>Heat engines convert only a FRACTION of heat to work: Carnot bound η = 1 − T_cold/T_hot. Every efficiency gain in this chapter is secretly "raise T_hot, lower T_cold, waste less in between."</li>
 <li>Latent heat: boiling/condensing absorbs/releases enormous energy at constant temperature — why condensers dominate engine economics.</li>
+<li>Energy is conserved: heat and work are two forms of one quantity (about 4.19 J per calorie — <a href="ch20.html">Ch 20</a> §20.10), so fuel heat in must equal shaft work plus every loss out. That equality is the energy ledger §23.7 requires an engine to close.</li>
 </ul>
-<p>Knowing these three facts, you can skip a century of blind tinkering.</p>
+<p>Knowing these four facts, you can skip a century of blind tinkering.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 195" width="100%" role="img" aria-label="Each steam fix keeps the cylinder hot or reuses steam; duty climbs from Newcomen's ~0.5% toward a ~50M target">
 <title>Each steam fix keeps the cylinder hot or reuses steam; duty climbs from Newcomen's ~0.5% toward a ~50M target</title>
@@ -383,6 +384,14 @@ body {
 <li>operator sign-offs and outstanding defects.</li>
 </ul>
 <p class="co co-key"><strong>Key threshold:</strong> a design passes when its calculated energy balance, measured output, pressure-boundary evidence, protection tests, and operating records agree within declared tolerances. The manual is not the acceptance authority. A claimed value such as “2 kg coal/kWh” is a target until a complete instrumented test demonstrates it for the actual engine and fuel.</p>
+<h2 id="ch23_steam-238-the-steam-turbine">23.8 The Steam Turbine</h2>
+<p>A piston engine turns steam pressure into back-and-forth motion and then into rotation. A turbine skips the middle step: steam expands through nozzles and blades and turns a shaft directly — Hero's aeolipile (§23.6) made practical once metallurgy and machining caught up.</p>
+<ul>
+<li><strong>Lineage:</strong> Charles Parsons's multistage reaction turbine (1884) took the steam's pressure drop in many small steps across rows of fixed and moving blades, keeping blade speeds manageable; his first turbo-generator delivered about 7.5 kW at roughly 18,000 rpm. De Laval's single-stage impulse turbine (1880s) and Curtis's velocity-compounded design (1890s) followed, and Parsons's <em>Turbinia</em> (shown at Spithead, 1897) carried the idea to sea (<a href="ch50.html">Ch 50</a> §50.4).</li>
+<li><strong>Why turbines took over power stations:</strong> continuous rotation couples directly to an alternator (<a href="ch26.html">Ch 26</a> §26.1); unit sizes scale from kilowatts to hundreds of megawatts without reciprocating masses; and a condensing turbine can expand steam down to a deep vacuum, extracting more work per kilogram than any piston engine. New central stations were turbine-driven by the early 20th century, and nearly all large fossil and nuclear plants (<a href="ch37.html">Ch 37</a>) still are. Water turbines (<a href="ch43.html">Ch 43</a> §43.9) and gas turbines (<a href="ch33.html">Ch 33</a> §33.5) belong to the same family.</li>
+<li><strong>What a turbine demands:</strong> precisely machined and balanced blades and discs in high-strength steel, bearings and forced lubrication at high speed, dry steam (water droplets erode blades) made from treated feedwater (dissolved solids scale them), and an independent overspeed trip, because a runaway rotor can burst its casing. A turbine is a precision rotating machine first and a steam engine second — it sits at the far end of the <a href="ch15.html">Ch 15</a> machine-tool ladder, so build piston engines first and turbines when that ladder has been climbed.</li>
+</ul>
+<p>Turbine design, overspeed protection, and commissioning fall under the same qualified-engineering gate as §23.7.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch22.html" class="reader-nav-link">← Chapter 22</a>

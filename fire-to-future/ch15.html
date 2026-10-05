@@ -481,6 +481,7 @@ body {
 <li><strong>Triangulate loads</strong> — triangles resist deformation (<a href="ch12.html">Ch 12</a>); rectangles rack.</li>
 <li><strong>Design for manufacture:</strong> if your shop can't hold the tolerance, the design is wrong regardless of elegance.</li>
 <li><strong>Fail visibly and safely:</strong> shear pins, breakaway mounts — machines should die loudly where they can't kill.</li>
+<li><strong>Size with a stated safety factor:</strong> stress is force ÷ area, and a part's working stress must sit below the material's <em>tested</em> strength by a factor that covers uncertain loads, variable material, wear, fatigue, and the consequence of failure. Historical machine-design practice ran from about two for well-characterised steel under steady load to six or more for brittle cast iron or shock loading; the applicable code, not habit, sets the number for anything that can hurt people (<a href="ch27.html">Ch 27</a> §27.11).</li>
 </ol>
 <p>The civilization that internalizes these sections has absorbed, in one generation, the mechanical vocabulary that took history five millennia to compile.</p>
 <h2 id="ch15_mechanisms-159-the-ancient-engineering-record">15.9 The Ancient Engineering Record</h2>
@@ -493,6 +494,15 @@ body {
 <li>Bearings history honestly told: roller-and-sledge transport is documented in Egyptian tomb scenes; true ball bearings await machined races (Leonardo sketched them, 1490s); antiquity ran on plain journals + grease because manufacturing tolerance, not insight, was the binding constraint (<a href="#ch15_mechanisms-156-bearing-and-friction-management">§15.6</a>).</li>
 </ul>
 <p>Lesson for rebuilders: mechanical genius recurs across civilizations whenever machining culture exists; the machine-tool chapter is where ancient genius and industrial output actually connect.</p>
+<h2 id="ch15_mechanisms-1510-engineering-drawings-the-shops-common-language">15.10 Engineering Drawings: The Shop's Common Language</h2>
+<p>Interchangeable parts (§15.5, §15.7) need one more standard beside threads and gauges: a drawing that every shop reads the same way.</p>
+<ul>
+<li><strong>Orthographic projection:</strong> each view (front, top, side) shows the part square-on, aligned so that every feature lines up from view to view, with sections cut through to show hidden interiors. Gaspard Monge's descriptive geometry, taught at the new École Polytechnique from the 1790s, turned this into a teachable discipline. Choose first-angle (European custom) or third-angle (American custom) projection once, and print its symbol on every sheet.</li>
+<li><strong>Dimensions and tolerances:</strong> every functional size carries its limits (Ø25.000–25.100 in §15.5). Dimension from the datum surfaces the part is actually machined and inspected from; never chain critical dimensions end to end, where the errors accumulate.</li>
+<li><strong>Title block and revision control:</strong> part name, material, finish, scale, drawn-by and checked-by names, and a revision letter. The shop builds only to the current revision, and superseded prints are withdrawn and archived, not left on benches (<a href="ch11.html">Ch 11</a> §11.3).</li>
+<li><strong>Copies that match the master:</strong> hand tracings were multiplied by blueprint (cyanotype) from the 1870s (<a href="ch21.html">Ch 21</a> §21.9), so one checked master could reach every shop unchanged.</li>
+</ul>
+<p class="co co-key"><strong>Key threshold:</strong> two shops, working only from the same drawing, make parts that pass the same gauges and assemble without filing. Until that happens, the real specification lives in one machinist's head.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch14.html" class="reader-nav-link">← Chapter 14</a>

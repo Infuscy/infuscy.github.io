@@ -485,6 +485,7 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
 </ul>
 <h2 id="ch42_internet-429-build-order-greenfield-network">42.9 Build Order (Greenfield Network)</h2>
 <p>Fiber backbone with spare ducts (<a href="ch41.html">Ch 41</a>) → exchange + DNS + anycast resolvers → data hall (N+1 power/cool) → core services (mail, web, backups) → CDN/cache edges → monitoring + incident rota → public access points. Log everything, publish status, drill outages — the network that admits faults keeps users; the one that hides them loses them.</p>
+<p><strong>Before the backbone exists:</strong> store-and-forward networks deliver useful messaging on very little infrastructure. UUCP (from the late 1970s) and FidoNet (from 1984) relayed mail, news, and files between computers over intermittent dial-up calls; packet radio does the same over shared radio channels (<a href="ch34.html">Ch 34</a>). Design early applications to tolerate hours of delay and broken links — queue, retry, and confirm — and the same software keeps working when fibre arrives.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch41.html" class="reader-nav-link">← Chapter 41</a>

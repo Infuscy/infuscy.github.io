@@ -242,11 +242,12 @@ body {
 <p>The transistor is the most-manufactured artifact in history and among the most consequential: single chips now carry billions, each switching billions of times per second. Its story is a materials-purity crusade — the physics was understood decades before ENGINEERING could deliver it.</p>
 <h2 id="ch35_semiconductors-351-band-theory-in-one-paragraph">35.1 Band Theory in One Paragraph</h2>
 <p>Quantum mechanics sorts solids by electron band gaps: conductors (overlapping bands), insulators (huge gap), semiconductors (small gap, ~1 eV for silicon). Doping silicon (group IV) with phosphorus (group V: extra electron → n-type) or boron (group III: missing electron/"hole" → p-type) creates controllable charge carriers. A p-n junction conducts one way — rectification from crystal structure itself. Germanium came first (easier purity); silicon won on temperature stability and its miracle oxide.</p>
-<h2 id="ch35_semiconductors-352-the-transistor-trio">35.2 The Transistor Trio</h2>
+<h2 id="ch35_semiconductors-352-the-transistor-family">35.2 The Transistor Family</h2>
 <ul>
 <li><strong>Point-contact (Dec 1947, Bardeen &amp; Brattain):</strong> two gold contacts nudged onto germanium crystal showed power gain — proof of principle, maddening to manufacture.</li>
 <li><strong>Junction transistor (Shockley's theory, 1948):</strong> sandwich structure — thin base between emitter/collector — where injected minority carriers across the base produce gain. Manufacturable, analyzable, the design that scales.</li>
 <li><strong>Why gain works:</strong> small base current commands large collector current; as a SWITCH, saturation/cutoff states encode logic (<a href="ch36.html">Ch 36</a>).</li>
+<li><strong>The MOSFET (Atalla and Kahng, Bell Labs, 1959–60) — the transistor that won:</strong> a metal gate over a thin layer of silicon oxide controls the channel beneath it by its electric field alone, drawing almost no gate current. It depended on Atalla's grown-oxide passivation of silicon (§35.3) and is simpler to build in planar layers than the junction sandwich. Wanlass's complementary MOS (CMOS, 1963) pairs n-channel and p-channel devices so that a logic gate draws significant power only while it switches. MOSFETs in CMOS logic and memory are the billions-per-chip transistors behind this chapter's opening claim.</li>
 </ul>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="P-N junction and transistor sandwich">
@@ -278,7 +279,7 @@ body {
 </figure>
 
 <h2 id="ch35_semiconductors-353-silicon-and-the-planar-revolution">35.3 Silicon and the Planar Revolution</h2>
-<p>Germanium's 80 °C ceiling and leaky junctions capped it. Silicon's higher melting point (1,414 °C) demanded better purification — <strong>zone refining</strong> (molten zone sweeping impurities along an ingot, segregation coefficients doing the work) and <strong>Czochralski/FLOAT-ZONE single-crystal growth</strong> delivered it. Then:</p>
+<p>Germanium's 80 °C ceiling and leaky junctions capped it. Silicon's higher melting point (1,414 °C) demanded better purification — <strong>zone refining</strong> (molten zone sweeping impurities along an ingot, segregation coefficients doing the work) and <strong>Czochralski/FLOAT-ZONE single-crystal growth</strong> delivered it. The feedstock itself starts as quartz: reduced with carbon in an electric-arc furnace to metallurgical-grade silicon of roughly 98–99 % purity, converted to a volatile chloride (trichlorosilane), distilled, and deposited as ultrapure polysilicon on heated rods (the Siemens process, late 1950s) — the "nine nines" material that crystal pulling needs (<a href="#ch35_semiconductors-357-qualification-gate-from-controlled-semiconductors-to-a-fabrication-line">§35.7</a> treats it as a qualified material, not a percentage). Then:</p>
 <ul>
 <li><strong>Hoerni's planar process (1959):</strong> grow a protective SiO₂ layer; open windows through it photolithographically; dope through windows; the oxide passivates junctions forever after. Devices became surface-stable, batch-fabricated, and RELIABLE.</li>
 <li><strong>Photolithography cycle:</strong> photoresist coat → mask exposure → develop → etch/diffuse/ion-implant → strip; repeat per layer. Resolution defines the generation; cleanrooms (dust = killer defects) define the factory.</li>

@@ -237,7 +237,7 @@ body {
 <main class="reader-content">
 <h1 id="ch12_mathematics-chapter-12-numbers-geometry-and-practical-mathematics">Chapter 12: Numbers, Geometry, and Practical Mathematics</h1>
 <blockquote class="meta">
-<p><strong>Era span:</strong> ~3000 BCE → 9th c. CE algebra · <strong>Difficulty:</strong> mid<br><strong>Requires:</strong> <a href="ch11.html">Ch 11</a><br><strong>Unlocks:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch19.html">Ch 19</a>, <a href="ch46.html">Ch 46</a>, <a href="ch47.html">Ch 47</a></p>
+<p><strong>Era span:</strong> ~3000 BCE → 9th c. CE algebra → 17th c. calculus · <strong>Difficulty:</strong> mid<br><strong>Requires:</strong> <a href="ch11.html">Ch 11</a><br><strong>Unlocks:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch19.html">Ch 19</a>, <a href="ch46.html">Ch 46</a>, <a href="ch47.html">Ch 47</a></p>
 </blockquote>
 <p>Mathematics is compression for reality: formulas store thousands of measurements in one line. This chapter selects only the mathematics that pays immediate engineering dividends, in dependency order.</p>
 <figure class="fig">
@@ -348,7 +348,7 @@ body {
 
 <p><strong>Volume cheat-sheet (post on the workshop wall):</strong> box L×W×H; cylinder πr²h (tanks, kilns, grain bins); cone ⅓πr²h (piles, funnels); sphere 4⁄3πr³ (cisterns, buoys). Price sand, lime, grain, and water by computed volume — lumpy estimates are where suppliers steal.</p>
 <h2 id="ch12_mathematics-124-trigonometry-at-survey-precision">12.4 Trigonometry at Survey Precision</h2>
-<p>Once angles become measurable (<a href="ch20.html">Ch 20</a>), sine/cosine/tangent turn angle readings into coordinates:</p>
+<p>Once angles become measurable (divided circles, quadrants, theodolites — <a href="ch20.html#ch20_instruments-202-mass-length-force">Ch 20</a> §20.2), sine/cosine/tangent turn angle readings into coordinates:</p>
 <ul>
 <li>Triangulation networks map entire territories from a few measured baselines — how every pre-satellite national map got made.</li>
 <li>Sine rule/cosine rule solve any triangle from minimal data.</li>
@@ -413,7 +413,19 @@ body {
 <li><strong>Applied geometry's scoreboard:</strong> Eratosthenes (~240 BCE) computed Earth's circumference from shadow angles at Alexandria and Syene — landing within a few percent of modern values, modulo which stadium length you assume. Surveyors ("rope-stretchers") rebuilt fields after each Nile flood; the same triangulation logic later mapped continents (<a href="ch20.html">Ch 20</a>).</li>
 </ul>
 <h2 id="ch12_mathematics-128-school-sequence-one-room-one-year">12.8 School Sequence (One Room, One Year)</h2>
-<p>Counting + place value → four operations on beads and paper → measures and units → ratio/proportion/percent → 3-4-5 + area/volume → similar triangles in the field → unknowns (linear, then quadratic) → logs + sampling. Graduate by surveying a real plot, auditing a real ledger, and computing a real bill of materials — mathematics that cannot price a granary is decoration.</p>
+<p>Counting + place value → four operations on beads and paper → measures and units → ratio/proportion/percent → 3-4-5 + area/volume → similar triangles in the field → unknowns (linear, then quadratic) → logs + sampling → graphs, rates, and areas (§12.9) for the engineering stream. Graduate by surveying a real plot, auditing a real ledger, and computing a real bill of materials — mathematics that cannot price a granary is decoration.</p>
+<h2 id="ch12_mathematics-129-rates-and-accumulations-the-calculus-habit">12.9 Rates and Accumulations: The Calculus Habit</h2>
+<p>Arithmetic, geometry, and algebra handle quantities that sit still. From <a href="ch20.html">Part III</a> onward, engineering handles quantities that change — speed, flow, heat, charge, population, dose — and needs the two ideas Newton and Leibniz systematised between the 1660s and 1680s.</p>
+<ul>
+<li><strong>Graphs first:</strong> Descartes' coordinate geometry (1637) joins algebra to geometry, so any recorded series — fuel per day, water level per hour — becomes a curve whose shape can be read.</li>
+<li><strong>Rate of change (the derivative):</strong> the slope of a quantity plotted against time or distance. Velocity is the rate of change of position, acceleration the rate of change of velocity, power the rate of doing work. From records, estimate it as Δy ÷ Δx over a short interval.</li>
+<li><strong>Accumulation (the integral):</strong> the area under a rate curve is the total. The area under a flow-rate curve is the volume delivered, under a power curve the energy, and inside an engine's pressure–volume indicator loop the work per stroke (<a href="ch23.html">Ch 23</a> §23.7).</li>
+<li><strong>The fundamental theorem:</strong> rate and accumulation are inverse operations — know one curve and you can recover the other.</li>
+<li><strong>Exponential change:</strong> when a quantity's rate is proportional to the quantity itself (dN/dt = kN), it grows or decays exponentially, N = N₀e^(kt). Compound interest (§12.2), unchecked population growth, radioactive decay (<a href="ch37.html">Ch 37</a>), Newtonian cooling, and the rocket equation (<a href="ch39.html">Ch 39</a> §39.1) are all this one equation.</li>
+<li><strong>Numerical methods before closed forms:</strong> step forward in small increments (Euler's method), sum thin strips (the trapezoid rule), and halve the step until the answer stops changing. The habit of iterating and checking convergence is what computers later automate (<a href="ch36.html">Ch 36</a> §36.5).</li>
+</ul>
+<p><strong>Worked miniature:</strong> a tank filled at 2 L/min for 10 minutes and then at 5 L/min for 4 minutes holds 2 × 10 + 5 × 4 = 40 L — the area under its flow graph. For an irregular flow read every minute, the trapezoid rule sums the same area: half the sum of each neighbouring pair of readings, minute by minute.</p>
+<p class="co co-key"><strong>Key threshold:</strong> a surveyor or engineer who can turn a logged series into a rate, a rate into a total, and an exponential into a doubling or half-life time is ready for the physics of <a href="ch20.html">Ch 20</a> §20.10 and every energy ledger after it.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch11.html" class="reader-nav-link">← Chapter 11</a>

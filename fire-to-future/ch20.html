@@ -316,8 +316,9 @@ body {
 <p><strong>Seconds-pendulum shortcut:</strong> a ~0.994 m pendulum beats exact seconds at sea level. Build the regulator around this length first, then rate it against noon transits (a pinhole + plumb line gives local noon to seconds). Lengthen to slow, shorten to gain — one full turn of the rating nut ≈ predictable seconds/day once logged.</p>
 <h2 id="ch20_instruments-202-mass-length-force">20.2 Mass, Length, Force</h2>
 <ul>
-<li><strong>Equal-arm balance:</strong> sensitivity grows with beam length and falls with beam flex and pivot friction — hence stiff, light beams on agate knife-edges. A good balance reaches 1-part-in-100,000 — enough to found stoichiometry (<a href="ch21.html">Ch 21</a>) and assay law (<a href="ch09.html">Ch 9</a>).</li>
+<li><strong>Equal-arm balance:</strong> sensitivity grows with beam length and falls with beam flex and pivot friction — hence stiff, light beams on agate knife-edges. A good balance reaches 1-part-in-100,000 — enough to found stoichiometry (<a href="ch21.html#ch21_blackpowder_acids-218-chemical-theory-elements-mass-balance-and-stoichiometry">Ch 21</a> §21.8) and assay law (<a href="ch09.html">Ch 9</a>).</li>
 <li><strong>Length standards:</strong> a sealed metal bar in constant temperature defines the unit locally; divide by vernier scales (a sliding auxiliary scale reading 1/10 of the main division — trivially clever, universally useful). Micrometer screws read to 0.01 mm once lathe-cut threads are consistent (<a href="ch15.html">Ch 15</a>).</li>
+<li><strong>Angle and level:</strong> divided circles and arcs read with verniers measure angle. The quadrant and Hadley's reflecting octant (1731), later the sextant, take star and sun altitudes at sea (<a href="ch24.html">Ch 24</a> §24.5); the theodolite (a telescope on graduated horizontal and vertical circles) and the surveyor's level with its spirit-bubble vial feed triangulation and levelling on land (<a href="ch12.html">Ch 12</a> §12.4). Ramsden's dividing engine (1770s) graduated circles mechanically, far more finely and consistently than hand division — the bottleneck it removed was the instrument-maker's eye.</li>
 <li><strong>Standards bodies early:</strong> publish your units, distribute certified copies, re-verify annually. Metric-style decimal coherence (every unit ×10) is a deliberate simplification — adopt it from scratch.</li>
 </ul>
 <p><strong>Balance SOP:</strong> level the case, zero with empty pans, weigh by substitution (sample + weights vs counterpoise) to cancel arm inequality, record temperature and drafts, clean pans with a brush never fingers (skin oil weighs milligrams — exactly your error budget). Calibrate against one sealed reference mass; never use the reference for daily work — use working copies and re-verify quarterly.</p>
@@ -470,6 +471,81 @@ body {
 </ul>
 <h2 id="ch20_instruments-209-founding-a-standards-room">20.9 Founding a Standards Room</h2>
 <p>One dry room, one stone pier, one regulator, one balance, one barometer, one reference bar + mass set, one logbook shelf. Calibrate working instruments against references monthly; references against each other annually; publish the corrections. Cost: a precision clock and balance are expensive, but small next to the workshops they serve. Value: every later chapter's numbers mean the same thing in every workshop — the precondition for interchangeable parts (<a href="ch15.html">Ch 15</a>), steam ratings (<a href="ch23.html">Ch 23</a>), and drug doses (<a href="ch31.html">Ch 31</a>).</p>
+<h2 id="ch20_instruments-2010-the-load-bearing-laws">20.10 The Load-Bearing Laws</h2>
+<p>Method (§20.5) produces laws; these are the ones every later chapter leans on. A school that teaches only recipes inherits the recipes' errors; one that teaches these laws, with the measurement behind each, can check any recipe it is handed.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Law</th>
+<th>Statement</th>
+<th>Established by</th>
+<th>Used in</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Newton's laws of motion</td>
+<td>A body keeps its state of rest or uniform motion unless a net force acts; F = m·a; forces come in equal and opposite pairs</td>
+<td>Newton, <em>Principia</em> (1687), building on Galileo's falling-body and pendulum measurements</td>
+<td>Machines (<a href="ch15.html">Ch 15</a>), vehicles, flight (<a href="ch33.html">Ch 33</a>), rockets (<a href="ch39.html">Ch 39</a>)</td>
+</tr>
+<tr>
+<td>Universal gravitation</td>
+<td>F = G·m₁·m₂/r²; explains Kepler's laws of planetary orbits (1609–1619), tides, and falling bodies alike</td>
+<td>Newton (1687); G derived from Cavendish's torsion-balance measurement (1798)</td>
+<td>Orbits (<a href="ch40.html">Ch 40</a>), gravity surveys (<a href="ch28.html">Ch 28</a>), pendulum clocks (§20.1)</td>
+</tr>
+<tr>
+<td>Conservation of momentum</td>
+<td>The total momentum of an isolated system stays constant</td>
+<td>Follows from Newton's third law</td>
+<td>Rockets (<a href="ch39.html">Ch 39</a> §39.1), collisions, recoil</td>
+</tr>
+<tr>
+<td>Conservation of energy (first law)</td>
+<td>Energy changes form but its total is conserved; heat is a form of energy, about 4.19 J per calorie</td>
+<td>Mayer (1842), Joule's paddle-wheel experiments (1840s), Helmholtz (1847)</td>
+<td>Every energy ledger: steam (<a href="ch23.html">Ch 23</a>), electricity (<a href="ch26.html">Ch 26</a>), food and fuel arithmetic</td>
+</tr>
+<tr>
+<td>Second law of thermodynamics</td>
+<td>Heat flows spontaneously from hot to cold; no heat engine beats the Carnot bound</td>
+<td>Carnot (1824), Clausius and Kelvin (1850s)</td>
+<td>Engines (<a href="ch23.html">Ch 23</a>), refrigeration (<a href="ch43.html">Ch 43</a> §43.7)</td>
+</tr>
+<tr>
+<td>Conservation of mass in reactions</td>
+<td>Chemical change rearranges matter; it neither creates nor destroys it</td>
+<td>Lavoisier (1789)</td>
+<td>Chemistry (<a href="ch21.html">Ch 21</a> §21.8)</td>
+</tr>
+<tr>
+<td>Electromagnetism</td>
+<td>Ohm's law, Faraday's induction, Maxwell's unified equations</td>
+<td>1827–1860s (<a href="ch25.html">Ch 25</a>)</td>
+<td>Power, telegraph, radio (<a href="ch26.html">Ch 26</a>, <a href="ch34.html">Ch 34</a>)</td>
+</tr>
+<tr>
+<td>Germ theory</td>
+<td>Specific microorganisms cause specific infectious diseases</td>
+<td>Pasteur, Koch (1860s–1880s)</td>
+<td>Sanitation and medicine (<a href="ch30.html">Ch 30</a>, <a href="ch31.html">Ch 31</a>)</td>
+</tr>
+<tr>
+<td>Evolution by natural selection</td>
+<td>Heritable variation plus unequal survival and reproduction changes populations over generations</td>
+<td>Darwin and Wallace (1858–59); genetics later supplied the mechanism of heredity (<a href="ch44.html">Ch 44</a>)</td>
+<td>Breeding (<a href="ch07.html">Ch 7</a>, <a href="ch08.html">Ch 8</a>, <a href="ch32.html">Ch 32</a>); antibiotic and pesticide resistance (<a href="ch31.html">Ch 31</a> §31.4, <a href="ch32.html">Ch 32</a> §32.4)</td>
+</tr>
+<tr>
+<td>Deep time and stratigraphy</td>
+<td>Rock layers record long sequences of deposition, younger above older unless disturbed; fossils and, later, radiometric dating order them</td>
+<td>Steno (1669), Hutton (1788), William Smith's geological map (1815); radiometric dating (20th c.)</td>
+<td>Prospecting (<a href="ch13.html">Ch 13</a>), petroleum geology (<a href="ch28.html">Ch 28</a>)</td>
+</tr>
+</tbody>
+</table></div>
+<p class="co co-key"><strong>Key threshold:</strong> students who can state each law, reproduce one measurement that supports it (§20.6 error analysis included), and predict an outcome before the experiment is run hold the core of physical and biological science. Everything else in Parts III–V is application.</p>
 </main>
 <nav class="reader-bottom-nav">
   <a href="ch19.html" class="reader-nav-link">← Chapter 19</a>

@@ -4,7 +4,7 @@ An adult Netherwing dragon?
 
 It had only been three years since Draenor's collapse. Netherwing eggs were twisted by void energy from the Scepter of Sargeras. In just three years, the Dragonmaw had managed to raise an adult dragon?
 
-Even with Sabellian's care, that was absurd — even Needletooth's growth rate had surprised Sora. And later, when the black dragons created Twilight Drakes to quickly build combat strength, even that was fast!
+Even with Sabellian's care, that was absurd — even Needleflame's growth rate had surprised Sola. And later, when the black dragons created twilight dragons to quickly build combat strength, even that was fast!
 
 But since this adult Netherwing existed, the Netherwing dragonkin that had been blocking them outside made sense. Without an adult dragon's blood, the orcs couldn't have been promoted into such mutated monsters.
 
@@ -22,17 +22,17 @@ Because this dragon simply didn't understand!
 
 "Must... grow..."
 
-The dragon murmured in a low voice, as if blind, its consciousness unclear — maybe still half-asleep. Jace could tell it was a female dragon. And most crucially, she was speaking orcish.
+The dragon murmured in a low voice, as if blind, its consciousness unclear — maybe still half-asleep. Jace could tell it was a female dragon. And most crucially, she was speaking Orcish.
 
 "There's no room for negotiation, Vereesa!"
 
 The Netherwing suddenly spread its wings, unleashing a violent shadow wind. Jace barely got the words out before he was nearly hurled backward by the shadow-wings that suddenly covered most of the hall. Even Sazeno, who'd been poking his head out of the bag, was blown away, leaving only an unintelligible shriek.
 
-The demon wings dyed the entire hall black. Even a warlock like Jace could barely withstand it — let alone the others. Vereesa, closest, was blown completely into the air and only caught by Morofel before being fully swept away.
+The demon wings dyed the entire hall black. Even a warlock like Jace could barely withstand it — let alone the others. Vereesa, closest, was blown completely into the air and only caught by Morophil before being fully swept away.
 
 The paladins behind, even shielded by the Holy Light, couldn't advance a single step. Grede hadn't even had time to transform before the twisting force slammed him into the wall...
 
-How had she grown to such a terrifying size and accumulated such immense power in this short time? And most importantly, Gellorion and the Blackwing Legion clearly had no idea she existed!
+How had she grown to such a terrifying size and accumulated such immense power in this short time? And most importantly, Gorlorio and the Blackwing Legion clearly had no idea she existed!
 
 But this dragon's power went beyond that. In the shadow wind, even the walls themselves began to fade. The Netherwing's power had drawn everyone into a dark domain centered around her!
 
@@ -48,7 +48,7 @@ Controlling another's magic within their domain was incredibly difficult. But Ja
 
 Jace planted himself, letting the shadow energy gnawing at him seep in, feeling the emotions of this power — fear... intense fear. This massive Netherwing's heart was filled with fear.
 
-Not the fear of enslavement. She was afraid of her loved ones being hurt. More afraid of being abandoned in this world, tormented by endless loneliness... Yes, this dragon might have the size of a Gellorion, but she was still nothing more than a two- or three-year-old infant...
+Not the fear of enslavement. She was afraid of her loved ones being hurt. More afraid of being abandoned in this world, tormented by endless loneliness... Yes, this dragon might have the size of a Gorlorio, but she was still nothing more than a two- or three-year-old infant...
 
 Emotions like that — being abandoned in a strange world, facing endless loneliness... who understood better than Jace?
 
@@ -58,21 +58,21 @@ With this power, Jace felt himself successfully lift a corner of the domain. But
 
 And once he could cast spells, he could disrupt Zuluhed's ritual.
 
-Seizing that emotional root, Jace struck first. He cast Suffocate on the orc warlock channeling magic in the Netherwing's protective cocoon, forcing his channel to break.
+Seizing that emotional root, Jace struck first. He cast Asphyxiate on the orc warlock channeling magic in the Netherwing's protective cocoon, forcing his channel to break.
 
-Under Jace's gathered shadow energy, the Suffocate formed into a nearly visible claw, tightening around the orc warlock!
+Under Jace's gathered shadow energy, the Asphyxiate formed into a nearly visible claw, tightening around the orc warlock!
 
 But the orc didn't panic at Jace's interference. He kept channeling, summoning more void rifts around the room, creating shadow tendrils connecting to the Netherwing.
 
 Logically, a caster channeling other magic shouldn't have the focus to block Jace's spell. How could he be so confident?
 
-Jace found out soon enough. As the Suffocate constricted the orc, its energy was suddenly drained — as if the Netherwing had siphoned away most of it.
+Jace found out soon enough. As the Asphyxiate constricted the orc, its energy was suddenly drained — as if the Netherwing had siphoned away most of it.
 
-Wait — this spell hadn't been blocked by the Netherwing like Vereesa's arrows. Jace clearly felt the magic had reached Zuluhed... Did the two of them share some kind of... soul link?
+Wait — this spell hadn't been blocked by the Netherwing like Vereesa's arrows. Jace clearly felt the magic had reached Zuluhed... Did the two of them share some kind of... Soul Link?
 
-Not only that. Thanks to the Netherwing's impenetrable shadow resistance, the siphoned part had simply dissolved into nothing. Jace had never encountered a soul link in this world that didn't involve a demon. But considering the close connection between this Netherwing and the warlock, it wouldn't be strange if they did have a soul link. The game had plenty of twin bosses who shared damage.
+Not only that. Thanks to the Netherwing's impenetrable shadow resistance, the siphoned part had simply dissolved into nothing. Jace had never encountered a Soul Link in this world that didn't involve a demon. But considering the close connection between this Netherwing and the warlock, it wouldn't be strange if they did have a Soul Link. The game had plenty of twin bosses who shared damage.
 
-But the Netherwing was absorbing way too much shadow energy. If Jace's soul link with Morofel could split at most about half, based on Jace's estimate of the magic's effect, the Netherwing had swallowed at least ninety percent of the Suffocate! The remaining effect was practically negligible!
+But the Netherwing was absorbing way too much shadow energy. If Jace's Soul Link with Morophil could split at most about half, based on Jace's estimate of the magic's effect, the Netherwing had swallowed at least ninety percent of the Asphyxiate! The remaining effect was practically negligible!
 
 But as long as it worked, Jace had to persist. He raised Ulthalesh, chanting the incantation to shape the shadow-suffocating chains, continuously escalating the pressure on Zuluhed's movements.
 
@@ -86,14 +86,14 @@ Those purple-red, star-like eyes trembled. One glance nearly dissolved you in th
 
 "Stop..."
 
-The Netherwing continued her low chant in orcish. She shifted, an arm like a constellation of stars reaching for Jace with claws that seemed slow — yet with her ethereal, formless body, Jace could barely judge distance or true speed.
+The Netherwing continued her low chant in Orcish. She shifted, an arm like a constellation of stars reaching for Jace with claws that seemed slow — yet with her ethereal, formless body, Jace could barely judge distance or true speed.
 
-And he couldn't abandon his shadow channelling now. If he let go, the increasingly violent shadowstorm would spiral out of control!
+And he couldn't abandon his shadow channeling now. If he let go, the increasingly violent shadowstorm would spiral out of control!
 
 At the critical moment, furious flames tore through the void's bonds. A pink form appeared before him, twin burning blades cleanly slashing through the shadow connection, stopping the dragon's swat!
 
-The female demon stood before him. But the dragon howled and reared up, bringing her other claw down at Morofel.
+The female demon stood before him. But the dragon howled and reared up, bringing her other claw down at Morophil.
 
-The blow was like a violent black wave — a passing shadow with immense impact. But once again, Morofel's flame power met it. The demon, her body glowing with magic lines, held firm against the combined pressure of the Netherwing's merged claws!
+The blow was like a violent black wave — a passing shadow with immense impact. But once again, Morophil's flame power met it. The demon, her body glowing with magic lines, held firm against the combined pressure of the Netherwing's merged claws!
 
-The Netherwing might be nearly incorporeal, but Morofel's flame magic was enough to counter this surging tide of power!
+The Netherwing might be nearly incorporeal, but Morophil's flame magic was enough to counter this surging tide of power!

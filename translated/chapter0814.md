@@ -28,7 +28,7 @@ Jace looked toward the pitch-black forest ahead and the burning debris scattered
 
 After hesitating for a moment, Jace still pushed the stopper back in.
 
-He felt his injuries weren't serious — at least not to the point of affecting his ability to keep moving. If he ran into some wild animal — like the ferocious crocodiles lurking in Dustwallow Marsh trying to ambush him — he could just use Life Drain to patch himself up.
+He felt his injuries weren't serious — at least not to the point of affecting his ability to keep moving. If he ran into some wild animal — like the ferocious crocolisks lurking in Dustwallow Marsh trying to ambush him — he could just use Drain Life to patch himself up.
 
 But if the two of them had lost their potions and gotten hurt, and he drank this guaranteed full Healing Potion himself, that would be a lot more trouble.
 
@@ -98,4 +98,4 @@ Vereesa noticed Jace's gaze and lowered her head to glance. She wiped her eye an
 
 Thinking of how pathetic he must have looked tumbling from the envelope into the treetops, Jace had no room to argue and could only sigh softly.
 
-"Let's go to the airship. I hope Grede and Morofir are all right," Vereesa said. Jace nodded and followed the ranger's footsteps.
+"Let's go to the airship. I hope Grede and Morophil are all right," Vereesa said. Jace nodded and followed the ranger's footsteps.

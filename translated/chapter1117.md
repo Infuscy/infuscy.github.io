@@ -1,30 +1,30 @@
 ## Chapter 1117: The Runestone
 
-While Halduron headed back to the Sunstar Tower, Jace and Vereesa hadn't been sitting idle either.
+While Halduron headed back to Dawnstar Spire, Jace and Vereesa hadn't been sitting idle either.
 
-They joined Alionnis and several other mages in carefully searching the room, but they didn't find any more leads. Before long, a discussion sounded outside the door, and Halduron walked in with a High Elf man with light red hair.
+They joined Alionnis and several other mages in carefully searching the room, but they didn't find any more leads. Before long, a discussion sounded outside the door, and Halduron walked in with a high elf man with light red hair.
 
-"Let me introduce everyone," Halduron said in a casual tone. "This is Tanionrel, the botanist of the Sunstar Tower."
+"Let me introduce everyone," Halduron said in a casual tone. "This is Tanionrel, the botanist of Dawnstar Spire."
 
-"Sunrise Village," Tanionrel corrected softly. "I'm from Sunrise Village, Captain Halduron. I'm merely employed by Lord Ista Sunstar to conduct some research here."
+"Suncrown Village," Tanionrel corrected softly. "I'm from Suncrown Village, Captain Halduron. I'm merely employed by Lord Ista Dawnstar to conduct some research here."
 
 He nodded slightly to Jace and Vereesa. "Lady Vereesa Windrunner, Mr. Jace Sesso — it is an honor to meet you both."
 
 "Master Tanionrel," Jace and Vereesa replied politely.
 
-"Magister Alionnis…" Tanionrel bowed slightly, then looked around. "Where is the Archmage?"
+"Magister Alionnis…" Tanionrel bowed slightly, then looked around. "Where is the Grand Magister?"
 
-"Unfortunately, Tanionrel," Alionnis said with a smile. "The Archmage has gone to see the head of the Datharvis Academy."
+"Unfortunately, Tanionrel," Alionnis said with a smile. "The Grand Magister has gone to see the head of Duskwither Spire."
 
-"Ah, so tomorrow's event there will have the Archmage attending in person?" Tanionrel's eyes lit up. "Would there still be time to make it if we left now?"
+"Ah, so tomorrow's event there will have the Grand Magister attending in person?" Tanionrel's eyes lit up. "Would there still be time to make it if we left now?"
 
 "Probably not," Halduron said with a cough. "Let's talk business."
 
-"Yes, yes, the Sorrowful Flower…"
+"Yes, yes, the Flower of Sorrow…"
 
 Tanionrel mumbled, nodding as if snapping back to his senses, though his eyes still held a trace of regret. It felt exactly like missing an idol's concert.
 
-Under the watchful eyes of everyone present, the botanist carefully walked a few steps around the room, then skillfully recited a moderately long incantation in elven.
+Under the watchful eyes of everyone present, the botanist carefully walked a few steps around the room, then skillfully recited a moderately long incantation in Elvish.
 
 Jace realized this was some kind of Arcane enhancement state — similar to Arcane Intellect, but not quite the same.
 
@@ -48,15 +48,15 @@ The botanist took the ink and began smearing it across the floor with his finger
 
 "Is this a magic circle?" Alionnis asked in surprise.
 
-"Most likely," Tanionrel said, setting the bottle aside and stretching. "Though I can't draw it out completely — the Sin'dorei who used the Purification Potion to wipe it was also rather crude."
+"Most likely," Tanionrel said, setting the bottle aside and stretching. "Though I can't draw it out completely — the Quel'dorei who used the Purification Potion to wipe it was also rather crude."
 
 "You call this crude?" Halduron said in surprise. "You've nearly reconstructed the entire magic circle based on Purification Potion traces."
 
-"Isn't the apprentice who helped Dar'kan wipe these traces rather stingy?" Jace asked skeptically. "Purification Potion made from Plaguebloom isn't cheap… I wouldn't imagine the owner of this tower as someone short on money."
+"Isn't the apprentice who helped Dar'Khan wipe these traces rather stingy?" Jace asked skeptically. "Purification Potion made from Plaguebloom isn't cheap… I wouldn't imagine the owner of this tower as someone short on money."
 
-"Probably because the stock was limited," Alionnis explained. "News of Dar'kan's death came too suddenly. This helper of his probably couldn't brew enough potion before the Magisters and Farstriders entered the tower."
+"Probably because the stock was limited," Alionnis explained. "News of Dar'Khan's death came too suddenly. This helper of his probably couldn't brew enough potion before the Magisters and Farstriders entered the tower."
 
-"Dar'kan is dead?" Tanionrel said in surprise. "I thought he'd just been taken into custody by the Archmage for some mistake."
+"Dar'Khan is dead?" Tanionrel said in surprise. "I thought he'd just been taken into custody by the Grand Magister for some mistake."
 
 "He's dead," Halduron said. "Killed by this very man here, Mr. Jace Sesso. So next time you think about poisoning him to avenge the countless suitors of Lady Vereesa Windrunner, think twice."
 
@@ -78,29 +78,31 @@ Jace listened to their discussion about the circle's writing material while walk
 
 He felt like he'd seen this pattern before — and more than once. But where exactly…
 
-Wait — wasn't this the magic circle that had appeared in Galders's book from the Dagger Society, the so-called "Summoned Circle"?
+Wait — wasn't this the magic circle that had appeared in Zardeth's book from the Dagger Society, the so-called "Summoned Circle"?
 
 The Summoned Circle was actually a rather special Shadow-enhancement circle used in summoning rituals. It was placed under the feet of the summoned party to ensure the stability of the summoning ritual.
 
 Jace had never used it himself, because he'd never been summoned by the Dagger Society. But his impression of this circle was extremely vivid.
 
-Because Erland Dudmore, as the Dagger Society's summoning ritual "lab rat," had once frantically practiced how to draw this circle more precisely, so for a while the whole training hall and lobby had been covered with these things.
+Because Erlan Drudgemoor, as the Dagger Society's summoning ritual "lab rat," had once frantically practiced how to draw this circle more precisely, so for a while the whole training hall and lobby had been covered with these things.
 
 Although, just as Alionnis had said, reconstructing it through Purification Potion couldn't restore all the runes. But just this general appearance was already enough to make Jace unable to scrub this suspicion from his mind.
 
-"I… roughly." Jace parted his lips. Alionnis immediately said, "Please speak your mind, Master Sesso."
+"I… have a rough idea." Jace parted his lips.
+
+Alionnis immediately said, "Please speak your mind, Master Sesso."
 
 Jace nodded and said, "This looks like a summoning-ritual stabilization circle — arranged on the receiving end."
 
-"So you mean Dar'kan tried to teleport something out of this tower," Alionnis said. "But that's fundamentally impossible, Master Sesso. Teleporting across Bandinoriel — whether by Arcane or Shadow — is something that simply cannot be done. Unless it's through the Magisters… but such teleportations all require the approval of the Silvermoon Council, and then specialized modifications to the corresponding runestones — like the teleportation magic that brought you from the Kingdom of Stormwind to Sunstrider Isle."
+"So you mean Dar'Khan tried to teleport something out of this tower," Alionnis said. "But that's fundamentally impossible, Master Sesso. Teleporting across Ban'dinoriel — whether by Arcane or Shadow — is something that simply cannot be done. Unless it's through the Magisters… but such teleportations all require the approval of the Silvermoon Council, and then specialized modifications to the corresponding runestones — like the teleportation magic that brought you from the Kingdom of Stormwind to Sunstrider Isle."
 
-Halduron glanced at him and said softly, "So what you mean is, this was done in cooperation between the Archmage and Dar'kan…"
+Halduron glanced at him and said softly, "So what you mean is, this was done in cooperation between the Grand Magister and Dar'Khan…"
 
 "I didn't say that," Alionnis said. "What I mean is, Master Sesso, perhaps this circle could have another use."
 
-"What if the teleportation was conducted within Bandinoriel?" Jace asked.
+"What if the teleportation was conducted within Ban'dinoriel?" Jace asked.
 
-"If it's internal, the Isle of Quel'Danas would know everything clearly," Alionnis said. "Every runestone has guards watching it, recording the information revealed by the runestones' flickers, and reporting to the Magisters' Platform. As long as the destination is within the runestones', even a Blink would be detected, never mind summoning and teleporting using a passage through the Twisting Nether. If there really were magic like that, the runestones near the summoning ritual would probably flash a terrifying violet-red."
+"If it's internal, the Isle of Quel'Danas would know everything clearly," Alionnis said. "Every runestone has guards watching it, recording the information revealed by the runestones' flickers, and reporting to the Magisters' Terrace. As long as the destination is within the runestones' range, even a Blink would be detected, never mind summoning and teleporting using a passage through the Twisting Nether. If there really were magic like that, the runestones near the summoning ritual would probably flash a terrifying violet-red."
 
 "There was such a situation during the orc invasion," Tanionrel nodded.
 
@@ -108,7 +110,7 @@ Halduron glanced at him and said softly, "So what you mean is, this was done in 
 
 "What?" Alionnis asked. Everyone looked at the Ranger together.
 
-"Do you remember the time Lor'thema was captured, Vereesa?" Halduron said, folding his arms. "There were several other Sin'dorei with him — Dar'kan was among them. They had fallen into a trap while investigating the Sebunwa Runestone, which had been influenced by Amani troll sorcery. That controlled runestone was regarded by the other runestones as part of Bandinoriel, so the Shadow magic and sorcery happening within it couldn't be detected at all."
+"Do you remember the time Lor'themar was captured, Vereesa?" Halduron said, folding his arms. "There were several other Quel'dorei with him — Dar'Khan was among them. They had fallen into a trap while investigating the runestone at Zeb'Nowa, which had been influenced by Amani troll sorcery. That controlled runestone was regarded by the other runestones as part of Ban'dinoriel, so the Shadow magic and sorcery happening within it couldn't be detected at all."
 
 Alionnis said, "But that was an accident from many years ago, Captain Halduron. After Gul'dan and Orgrim's armies were repelled, Quel'Thalas reclaimed every runestone south of the Elrendar River. There haven't been any cases of runestones being out of control since then."
 

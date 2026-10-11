@@ -38,7 +38,7 @@ Jace had no idea where the mages were. Honestly, he didn't dare stick his head o
 
 They probably didn't dare go out either, Jace told himself. But then a voice from somewhere — "Archers, ready!" — and these soldiers immediately burst from cover, drawing arrows to their bows.
 
-These Lordaeron soldiers defending Southshore were undoubtedly veterans who'd fought in the Orc Wars a few years back. And Hillsbrad Foothills was the battlefield where red dragons had been most active across the entire continent.
+These Lordaeron soldiers defending Southshore were undoubtedly veterans who'd fought in the Orc Wars a few years back. And the Hillsbrad Foothills had been the battlefield where red dragons had been most active across the entire continent.
 
 The people here would never question whether orcs had really ridden dragons into battle the way the people of the Kingdom of Stormwind did, because most of the locals had seen red dragons screaming overhead with their own eyes.
 
@@ -91,15 +91,3 @@ The black dragon, seeing the attacks growing more intense, groaned in constant p
 From the corner of his eye he glanced up at the black dragon and saw that its folded wing membrane had already been badly torn, a chain of wounds running all the way to the ribs connecting to the massive wing. That was the gruesome wound left by that dwarf gryphon rider.
 
 Damn it, where was Grede?
-
-## Flags
-
-- **骑士队长** → knight-captain. The officer directing troops; generic rank.
-- **锁子甲** → chainmail. Generic armor.
-- **减速术** → slowing spell. Generic term for a decelerate/decay-type spell; not a specific named WoW spell in this context.
-- **奥术飞弹** → Arcane Missiles (glossary).
-- **暗影防护药水** → Shadow Protection Potion (glossary).
-- **暗影腐蚀** → shadow corruption. Describing the lingering fel/shadow damage from the black dragon's flames; not in glossary as a term. Flagged.
-- **巨物恐惧症** → megalophobia. Jace's reaction to the dragon's head; kept as the clinical term.
-- **公共汽车那么大的壁虎** → "bus-sized gecko." Jace's simile; kept the modern-reference flavor.
-- **母语** → native language. Jace mutters in his 21st-century tongue (Chinese); left ambiguous per style.

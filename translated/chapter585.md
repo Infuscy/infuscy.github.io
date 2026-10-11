@@ -28,19 +28,19 @@ Grede soon returned to his original form, after all maintaining the Avatar was e
 
 "By the Light, it really is as you said." He looked at the night elf woman who'd been tidying the storage rack. "Thank you, miss — if you hadn't said anything, we never would have known!"
 
-But the woman had already been stunned into a daze. She blinked and only then nodded, clearly astonished by the dwarf's Earthen form.
+But the woman had already been stunned into a daze. She blinked and only then nodded, clearly astonished by the dwarf's earthen form.
 
 "So, do we make the trade?" Grede's tone was already thoroughly excited.
 
-"I agree," Vereesa said with a smile. "Besides, what would we do with that satyr head? You don't think those Mala'dari centaur would offer us anything better than this armor, do you?"
+"I agree," Vereesa said with a smile. "Besides, what would we do with that satyr head? You don't think those Maraudine centaur would offer us anything better than this armor, do you?"
 
 "I agree too," Jace said. "And I'd say this already exceeds the price."
 
 Mosa nodded. "Pretty thing."
 
-Since everyone agreed, after lunch Jace carried the bundle containing Vilethane's head to the wooden house where Shandris Feathermoon was quartered, set it down, and said, "We agree, General. We hope this head serves your purpose."
+Since everyone agreed, after lunch Jace carried the bundle containing Vyletongue's head to the wooden house where Shandris Feathermoon was quartered, set it down, and said, "We agree, General. We hope this head serves your purpose."
 
-"Thank you very much." Shandris lifted the cloth and glanced at the half-hidden demon face within. "I'm curious — how did you know Vilethane was hiding deep within Maraudon?"
+"Thank you very much." Shandris lifted the cloth and glanced at the half-hidden demon face within. "I'm curious — how did you know Vyletongue was hiding deep within Maraudon?"
 
 "Actually, we had no idea at all," Jace said. "We only went in tracking demons, following the trail. The centaur said there were demons hiding inside... Yesterday Vereesa Windrunner already gave you a detailed account, didn't she?"
 
@@ -72,7 +72,7 @@ Jace gave a simple nod of the head. "We've already decided to leave Feathermoon 
 
 Perhaps she was saying it to herself as well. The bronze dragons were the watchers of time — if there was anyone who could help the Kaldorei escape the predicament of Silithus at this moment, it was the bronze dragons.
 
-As for why the bronze dragons said nothing about the crisis facing Kalimdor, Jace surmised that the War of the Shifting Sands a thousand years ago had inflicted devastating casualties on the bronze dragonflight. Not to mention that the Bronze Aspect Nozdormu and the other Aspects' powers were still sealed within the Demon Soul forged by Deathwing, leaving them unable to step forward and personally halt the Qiraji's second expansion.
+As for why the bronze dragons said nothing about the crisis facing Kalimdor, Jace surmised that the War of the Shifting Sands a thousand years ago had inflicted devastating casualties on the Bronze Dragonflight. Not to mention that the Bronze Aspect Nozdormu and the other Aspects' powers were still sealed within the Demon Soul forged by Deathwing, leaving them unable to step forward and personally halt the Qiraji's second expansion.
 
 The Dragonmaw orcs in Grim Batol held the Demon Soul, enslaving the Dragonqueen. So long as it remained unbroken, the Aspects' powers — sealed ever since the War of the Ancients — would remain locked away for one more day.
 
@@ -81,22 +81,3 @@ In the afternoon, the group boarded a wooden boat leaving Feathermoon Stronghold
 When they returned to that beach the next day, the sentinels departed one after another. Only a lone night elf guard remained on the pier. Jace looked at him, then turned toward the forest that was nothing but a blur of shadow in the distance.
 
 The next leg of the journey was already before his eyes.
-
-## Flags
-
-- **Vilethane**: 维利塔恩 — satyr leader. See Chapter 584 flag. The text confirms his head is being traded to the sentinels.
-- **Mala'dari**: Canonical name for 玛洛迪 — the centaur tribe guarding Maraudon (the "Maraudon centaur").
-- **Silithid / Qiraji**: Canonical insectoid race terminology. The text distinguishes between the lesser silithids (异种虫) and the greater Qiraji (其拉虫人).
-- **Avatar**: Canonical dwarven warrior ability (天神下凡) — the stone-form transformation. Grede demonstrates it here.
-- **Earthen form**: 土灵形态 — the night elf's term for the dwarf's stone-body transformation, linking to the ancient Earthen (土灵) lore.
-- **Cenarion Circle**: Canonical druidic organization (塞纳里奥议会).
-- **Bronze dragons / Nozdormu**: Canonical dragonflight and Bronze Aspect (青铜龙 / 诺教多姆). The glossary lists "青铜龙族" as the Bronze Dragonflight.
-- **Demon Soul**: Canonical artifact (恶魔之魂) — forged by Deathwing to enslave the Aspects. Glossary lists it.
-- **Grim Batol**: Canonical location (格瑞姆巴托) — where the Dragonmaw orcs held the Demon Soul and enslaved Alexstrasza.
-- **Dragonqueen**: Canonical title for Alexstrasza (红龙女王).
-- **"You never know what's in the stone until you swing the pick"**: Dwarf proverb — rendered naturally in English; Jace uses it to goad Grede into trying the armor.
-- **"By the Light"**: Grede's exclamation of amazement — kept as a dwarven oath.
-- **Feralas**: Canonical zone name (菲拉斯).
-- **Tauren exile subplot**: Jace's suggestion to ask the tauren for help, and Shandris's cold reaction — reflects the strained night elf / tauren relationship in the story (Mosa's earlier coldness toward the night elves).
-- **"May time eventually dissolve your sorrows"**: Night elf farewell — rendered poetically; Jace notes it's unusual for Shandris to say it in Common rather than Elvish.
-- **POV**: Third person throughout.

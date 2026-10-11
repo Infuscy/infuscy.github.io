@@ -1,6 +1,6 @@
 ## Chapter 764: A Special Cooperation
 
-This small block of cells was quite unusual. Jace could tell magic had gone into their construction — meaning that although the Wizard Sanctum wanted SI:7 to hand over these dark magic users, they had actually helped renovate this place, specifically to hold spellcasters.
+This small block of cells was quite unusual. Jace could tell magic had gone into their construction — meaning that although the Wizard's Sanctum wanted SI:7 to hand over these dark magic users, they had actually helped renovate this place, specifically to hold spellcasters.
 
 There were four separated prisoners in the cells — three men and one woman. Though they were all warlocks, Jace didn't recognize a single one of them. The number of dark magic circles within the Kingdom of Stormwind was far greater than he'd imagined.
 
@@ -72,7 +72,7 @@ Hearing that, the fury on the middle-aged man's face was almost impossible to co
 
 "Utter nonsense!" the middle-aged man cursed in Draconic. "You're dead, little mage!"
 
-The man's pupils narrowed to vertical slits. His clothes burst apart as his body swelled up. His form expanded, brown-black scales filling Jace's vision. He raised his claws high — and Jace simply spoke the incantation for Fear, making the dragonkin shrink back on the spot, wailing, arms and claws curling in, dropping to his knees, throwing himself uncontrollably at the bottom of the cell, clawing frantically at the walls as if he wanted to dig through and escape from the other side.
+The man's pupils narrowed to vertical slits. His clothes burst apart as his body swelled up. His form expanded, brown-black scales filling Jace's vision. He raised his claws high — and Jace simply spoke the incantation for Fear, making the dragonkin shrink back on the spot, wailing, arms and claws curling in, dropping to his knees, throwing himself uncontrollably at the back of the cell, clawing frantically at the walls as if he wanted to dig through and escape from the other side.
 
 Jace calmly closed the cell door and walked outside. The guard immediately locked it. Mathias and Denton had just drawn their daggers and longswords, staring at the dragonkin howling madly inside the cell.
 
@@ -89,11 +89,3 @@ The group came outside the cell block. Mathias glanced back inside and said, "No
 But that offhand remark was the thing that jolted Jace awake.
 
 He looked at Mathias, then at Denton, and said, "The real question is — if there really were such a dog, would you be willing to cooperate with these special dog trainers?"
-
-## Flags
-
-- **Dragonkin identified via cloak reaction**: Jace detects a disguised black dragon among four warlock prisoners by reading shadow-energy emotional fluctuations — the man feared Jace's Vaelastrasz-given black dragon-leather cloak. Jace baits him with Draconic speech, forcing him to reveal his true form.
-- **Fear spell used**: Jace subdues the transformed dragonkin with a single Fear incantation, demonstrating his power.
-- **Other prisoners are Cultists**: The three remaining warlocks prostrate themselves before the dragonkin and curse Jace — confirming them as Cult of the Dragon members.
-- **SI:7's identification problem**: Mathias wants a reliable method to identify disguised dragonkin. Denton's joke about a "magic-sniffing dog" gives Jace the idea to propose using a fel hound.
-- **Prisoners held in magic-dampening cells**: The Wizard Sanctum helped SI:7 construct these cells to suppress spellcasting, which is why Jace couldn't sense magic from outside.

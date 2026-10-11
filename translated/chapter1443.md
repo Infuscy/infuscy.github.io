@@ -2,17 +2,17 @@
 
 Beneath the night sky, there was barely any moonlight to be seen. The view was almost pitch black.
 
-Jace, Khadgar, and Morofil left the barren forest and followed a dirt path into a town that had already crumbled into ruins.
+Jace, Khadgar, and Morophil left the barren forest and followed a dirt path into a town that had already crumbled into ruins.
 
 By the time they reached this point — whether from years without sunlight or the influence of magic — the temperature had plummeted to freezing, and a light rain had even started to fall.
 
 The shadow of Karazhan loomed on the far slope at the end of the road. Behind iron fences and clusters of trees, the tower's massive body merged with the dark gray, scaly mountains beneath it. Up above, whether thick clouds or something even darker and deeper churned together, blurring even further in the rain. You could barely make out its silhouette.
 
-Many years ago, long before the Dark Portal opened — even before the Gurubashi War and the Gnoll Wars — Karazhan was just the name of a small town in the southern kingdoms. The town had grown up around Aegwynn's wizard tower and prospered from the constant visits of nobles and high-ranking mages from across the world, becoming famous throughout the Seven Kingdoms.
+Many years ago, long before the Dark Portal opened — even before the Gurubashi War and the Gnoll War — Karazhan was just the name of a small town in the southern kingdoms. The town had grown up around Aegwynn's wizard tower and prospered from the constant visits of nobles and high-ranking mages from across the world, becoming famous throughout the Seven Kingdoms.
 
 But after Aegwynn's disappearance, and especially after Medivh inherited the tower, Karazhan and its town grew increasingly mysterious. It seemed only the less scrupulous nobles and mages would come here, to gather with the "Lord of Karazhan," to befriend him... In any case, every name associated with this place eventually became taboo, something outsiders didn't want to mention.
 
-The town was much larger than Jace had imagined. He'd heard there was a small town beneath Karazhan, and could see from maps that several towns dotted the Deadwind Pass valley, with the one below the tower being the largest.
+The town was much larger than Jace had imagined. He'd heard there was a small town beneath Karazhan, and could see from maps that several towns dotted Deadwind Pass valley, with the one below the tower being the largest.
 
 But actually walking into it now caught him off guard. The town looked about the size of Lakeshire — several streets, a town center, a marketplace, even a small chapel.
 
@@ -36,7 +36,7 @@ Of course, Jace could maintain his sanity in such an environment now. But if an 
 
 Khadgar glanced at Jace's expression, as if sensing what he was feeling. "This is why I insisted you both come along," he said quietly.
 
-Jace and Morofil exchanged a look. Even though he felt this might be beyond his capabilities, he nodded anyway.
+Jace and Morophil exchanged a look. Even though he felt this might be beyond his capabilities, he nodded anyway.
 
 The three of them crossed the empty streets and climbed a slope, pushing through tangled underbrush onto weed-covered, slippery stone bricks, walking against the streams of rainwater gushing through the cracks until they reached the fence of Karazhan's courtyard.
 
@@ -44,13 +44,13 @@ Among piles of collapsed walls and rubble, Khadgar quickly found an easy breach 
 
 But they hadn't gone far when a flash of light suddenly flickered ahead, illuminating the clawing dark underbrush.
 
-Morofil quickly faded into the shadows. Khadgar and Jace ducked behind a broken wall. The light swayed closer, accompanied by voices.
+Morophil quickly faded into the shadows. Khadgar and Jace ducked behind a broken wall. The light swayed closer, accompanied by voices.
 
 Four people were murmuring to each other as they crossed the courtyard toward the distant stables. One of them was fiddling with a lantern — its light was extremely faint, but in this rainy night at Karazhan, it was glaring enough.
 
 They were all wrapped in thick cloaks, their faces unclear, but they were definitely living people.
 
-However, Jace could barely sense any trace of magic on them. From the slight surprise on Khadgar's face, he hadn't expected them either. Morofil hadn't had time to warn Jace, which meant she hadn't sensed their magical presence either.
+However, Jace could barely sense any trace of magic on them. From the slight surprise on Khadgar's face, he hadn't expected them either. Morophil hadn't had time to warn Jace, which meant she hadn't sensed their magical presence either.
 
 But logically, anyone who could make it here and still keep their sanity couldn't be ordinary travelers or treasure hunters.
 
@@ -66,13 +66,13 @@ Khadgar said quietly, "Aegwynn used Karazhan's power to search for the coordinat
 
 "Whatever they've found in the tower, at least their preparations are solid. They know that to enter the tower safely, the first thing is to stay low-key and not disturb anything inside... These people must have used some kind of mana-concealment technique from the Order of Tirisfal. Thorough enough that we nearly ran into them head-on. After Medivh's death, they basically inherited the Order of Tirisfal's legacy. Can't underestimate them."
 
-Morofil looked up at the broken windows high in the dark tower. "Can we just fly up?"
+Morophil looked up at the broken windows high in the dark tower. "Can we just fly up?"
 
-"No. Just because you've gotten your wings back doesn't mean you should look for excuses to use them, Lady Morofil." Khadgar glanced up, then noticed the succubus shooting him a disappointed look. He sighed and explained, "Not yet, at least. The only way into this tower is through the doors. Trust me — otherwise you'll find yourself somewhere you don't even recognize, and you won't even have a chance to regret it. Can't be helped. Looks like we have to wait for them to leave."
+"No. Just because you've gotten your wings back doesn't mean you should look for excuses to use them, Lady Morophil." Khadgar glanced up, then noticed the succubus shooting him a disappointed look. He sighed and explained, "Not yet, at least. The only way into this tower is through the doors. Trust me — otherwise you'll find yourself somewhere you don't even recognize, and you won't even have a chance to regret it. Can't be helped. Looks like we have to wait for them to leave."
 
 "Wait for the Violet Eye to leave Karazhan?" Jace leaned against the wall. "That could take forever."
 
-"So we sneak in and risk getting caught?" Khadgar used his fingers to mimic a little walking figure. "I'm not planning to use Blink, teleportation, phased invisibility, or any spatial magic in or near Karazhan. Lady Morofil has her shadow concealment. You and I will have to rely on the skills we picked up as kids sneaking around. If we get caught, Jace, neither of us can explain ourselves. Your peaceful days and my reputation would both go down the drain."
+"So we sneak in and risk getting caught?" Khadgar used his fingers to mimic a little walking figure. "I'm not planning to use Blink, teleportation, phased invisibility, or any spatial magic in or near Karazhan. Lady Morophil has her shadow concealment. You and I will have to rely on the skills we picked up as kids sneaking around. If we get caught, Jace, neither of us can explain ourselves. Your peaceful days and my reputation would both go down the drain."
 
 "Sounds like not much of a loss." Jace muttered under his breath.
 

@@ -2,29 +2,29 @@
 
 "Sulfuras?" Vereesa looked at Jace, then asked the Dark Iron dwarf in Dwarvish: "Are you sure it's Sulfuras, not the Sulfuron Hammer?"
 
-"Everyone in Shadowforge City should know by now," the officer replied. "They say that after the Molten Core collapsed, Sulfuras -- flying out with the storm -- destroyed the gates of Thaurissan's Temple. It's still there. No one dares approach it, Ranger-Lord of Quel'Thalas. And everyone says it's waiting for its master to come and claim it."
+"Everyone in Shadowforge City should know by now," the officer replied. "They say that after the Molten Core collapsed, Sulfuras -- flying out with the storm -- destroyed the gates of the Shrine of Thaurissan. It's still there. No one dares approach it, Ranger Lord of Quel'Thalas. And everyone says it's waiting for its master to come and claim it."
 
 Jace said quietly: "But--"
 
 "Let me... go see it," Grede suddenly spoke up. "Jace, let me see it first."
 
-"Are you sure, Grede?" Sora said. "If what he says is true, that hammer must be very dangerous right now. And you're still weak."
+"Are you sure, Grede?" Sola said. "If what he says is true, that hammer must be very dangerous right now. And you're still weak."
 
-Grede swallowed hard. From the look on his face, he clearly didn't want to agree with Sora, but he didn't even have the strength to argue anymore.
+Grede swallowed hard. From the look on his face, he clearly didn't want to agree with Sola, but he didn't even have the strength to argue anymore.
 
 "Let's take him to see it," Jace said. "Otherwise, I think even if he rests... he'll just keep worrying about it. That won't be good for him either."
 
-"I agree with Sesso," Vaelastrzasz said.
+"I agree with Sesso," Vaelastrasz said.
 
 "Maybe that hammer's new look will do our dwarf more good than a big bottle of Super Healing Potion," Sazeno muttered in Demonic.
 
-The imp's words were crude, but he had a point. Vereesa smiled slightly. Sora could only nod reluctantly. Grede let out a breath.
+The imp's words were crude, but he had a point. Vereesa smiled slightly. Sola could only nod reluctantly. Grede let out a breath.
 
 "I'll take you there," the officer said.
 
 "Thank you," Jace said.
 
-The group asked the Shadowforge soldiers for a cart, laid Grede on it, and followed the officer out of the badly damaged corridor, heading east toward Thaurissan's Temple.
+The group asked the Anvilrage soldiers for a cart, laid Grede on it, and followed the officer out of the badly damaged corridor, heading east toward the Shrine of Thaurissan.
 
 Along the way, Shadowforge City was a wreck. Half-collapsed walls, pillars, and statues everywhere. Several grand bridges had snapped. Dark Iron citizens hauled rubble and called out, searching for survivors beneath the debris.
 
@@ -34,51 +34,51 @@ A Dark Iron dwarf trapped by rubble by the roadside shrieked madly at passersby.
 
 "You have no idea what power you're facing, human. You will regret this--"
 
-Before he could finish, an Ironfury soldier yanked him back, sending him crashing to the ground. His head smacked hard against the stone steps, and he howled in pain.
+Before he could finish, an Anvilrage soldier yanked him back, sending him crashing to the ground. His head smacked hard against the stone steps, and he howled in pain.
 
 As they crossed a relatively intact bridge, the temperature dropped at a rate Jace could feel on his skin -- down to a level that wouldn't even count as hot outside of the Burning Steppes. In Shadowforge City, it was practically cold.
 
 Not only that, but he could see fine droplets of water drifting diagonally down from the heights. Jace looked up and saw a faint light at the very top.
 
-"Rain," Vaelastrzasz said, looking up. "The tremors from Ragnaros's manifestation shook the entire mountain. Even the mountain above Shadowforge City cracked open. The Wildhammer and Bronzebeard gryphon riders came through those cracks to reach the Molten Core. That this city district wasn't completely destroyed by such terrible tremors... it's hard to say what power was protecting it."
+"Rain," Vaelastrasz said, looking up. "The tremors from Ragnaros's manifestation shook the entire mountain. Even the mountain above Shadowforge City cracked open. The Wildhammer and Bronzebeard gryphon riders came through those cracks to reach the Molten Core. That this city district wasn't completely destroyed by such terrible tremors... it's hard to say what power was protecting it."
 
 "I figured as much when I saw the gryphons," Jace said. "But what surprises me more is that it's actually raining in the Burning Steppes."
 
-"The protection runes were destroyed. The planar seal deep in the Molten Core collapsed with them. There's no longer any power radiating across the whole of Blackrock Mountain." Vaelastrzasz walked as he spoke. "You've done what no one dared to imagine in two hundred years -- destroyed the fire elementals' dominion and driven Ragnaros himself back to the Firelands."
+"The protection runes were destroyed. The planar seal deep in the Molten Core collapsed with them. There's no longer any power radiating across the whole of Blackrock Mountain." Vaelastrasz walked as he spoke. "You've done what no one dared to imagine in two hundred years -- destroyed the fire elementals' dominion and driven Ragnaros himself back to the Firelands."
 
 "To be honest, I never planned to enter the Molten Core to fight Ragnaros. I was ready to come to pull you all out of Blackrock Mountain before you completely screwed everything up... But it's you, Jace Sesso."
 
 "When you survived Grim Batol, many people thought you were practically a second young Medivh. I wasn't willing to accept that back then. But now... I have to say I'm convinced too."
 
-When Vaelastrzasz mentioned Medivh, Jace suddenly remembered the gnomish marching band that had burst out of the bookshelves in Karazhan's library when he tried to tamper with that shelf.
+When Vaelastrasz mentioned Medivh, Jace suddenly remembered the gnomish marching band that had burst out of the bookshelves in Karazhan's library when he tried to tamper with that shelf.
 
 No question about it. He still had a long way to go.
 
 Still, Jace could sense that the red dragon wasn't bringing up Medivh purely to compare his magical power or great deeds. There was another side to his words.
 
-Then Vaelastrzasz quickly glanced at Jace and spoke quietly.
+Then Vaelastrasz quickly glanced at Jace and spoke quietly.
 
 "In that crevice, when I was trying to save Lord Grede Thunderfist, your emotions were nearly out of control."
 
 "Sorry," Jace said. "At that moment... I really thought you might not be able to save him."
 
-"You know that emotion is shadow, especially for mortals." Vaelastrzasz's voice was low. "And your emotions are especially dangerous. Always remember to keep them under control, Sesso. The way you were then made me nervous. I felt like I was facing an enemy more dangerous than a collapsing Molten Core."
+"You know that emotion is shadow, especially for mortals." Vaelastrasz's voice was low. "And your emotions are especially dangerous. Always remember to keep them under control, Sesso. The way you were then made me nervous. I felt like I was facing an enemy more dangerous than a collapsing Molten Core."
 
 Jace nodded.
 
-Vaelastrzasz looked at him for a moment, then said: "Your cloak. It's the skin of Lord Aulastrasz."
+Vaelastrasz looked at him for a moment, then said: "Your cloak. It's the skin of Lord Olastrasz."
 
-Jace tugged at his cloak, trying to think of how to explain. Vaelastrzasz continued.
+Jace tugged at his cloak, trying to think of how to explain. Vaelastrasz continued.
 
 "I assume you got it from Prince Sabellian, correct? You worked with him in Draenor against the Burning Legion."
 
 "Yes," Jace had to admit.
 
-"The Dragonmaw clan killed Lord Aulastrasz and stole the Demon Soul. That tragedy has already happened and cannot be changed." Vaelastrzasz's voice was heavy. "Deathwing had his skin made into a cloak to flaunt black dragon might... which fits the Black Father's style. I think if Lord Aulastrasz knew that the remnants of his body were still being used to protect this world, helping the heroes who destroyed Deathwing, rather than assisting black dragons or their servants in doing evil... he would find some comfort. So take good care of it, Sesso."
+"The Dragonmaw clan killed Lord Olastrasz and stole the Demon Soul. That tragedy has already happened and cannot be changed." Vaelastrasz's voice was heavy. "Deathwing had his skin made into a cloak to flaunt black dragon might... which fits the Black Father's style. I think if Lord Olastrasz knew that the remnants of his body were still being used to protect this world, helping the heroes who destroyed Deathwing, rather than assisting black dragons or their servants in doing evil... he would find some comfort. So take good care of it, Sesso."
 
 "I will," Jace said.
 
-Vaelastrzasz nodded, then smiled slightly.
+Vaelastrasz nodded, then smiled slightly.
 
 "But don't wear it in front of other red dragons."
 
@@ -88,7 +88,7 @@ They crossed a bridge that hadn't collapsed in the Molten Core's destruction and
 
 More and more dwarves were gathered here. Dark Irons. Dwarves in Ironforge armor. Dwarves from Aerie Peak.
 
-When the Shadowforge soldiers led Jace's group into view, every dwarf gathered here turned to look at them.
+When the Anvilrage soldiers led Jace's group into view, every dwarf gathered here turned to look at them.
 
 "Is that him?"
 
@@ -108,7 +108,7 @@ Grede's eyes were half-lidded. He looked at them and coughed a couple of times, 
 
 The dwarves of all clans parted a path for Jace, who was pushing Grede's cart. The light ahead grew brighter. Jace saw, at the bottom of what was clearly a crater blasted out by an explosion of terrifying force, among broken tiles and shattered bricks, a mass of burning flame.
 
-Half of Thaurissan's Temple had collapsed from the blast. Jace could even see the door to the treasure vault where the flamekeepers had once taken him to see the black dragon's curse tablet -- it was behind a toppled wall.
+Half of the Shrine of Thaurissan had collapsed from the blast. Jace could even see the door to the treasure vault where the pyromancers had once taken him to see the black dragon's curse tablet -- it was behind a toppled wall.
 
 Dagran Thaurissan stood in the crater, not far from the flame. Hearing sounds from above, he turned and looked up toward the heights.
 
@@ -130,7 +130,7 @@ Jace nodded and straightened up. He watched Grede grit his teeth, push himself u
 
 The entire crater and the temple ruins were dead silent. Not a single dwarf spoke. Not a sound from anyone. Even the bloodhounds didn't make a peep. Everyone stared, fixated, at this dwarf who could barely walk, gasping for breath as he stepped over the rubble and walked deeper, past Dagran Thaurissan.
 
-Jace couldn't help but remember that scene at the Anvil of Kadros in Grim Batol. Kurdran Wildhammer and many of the dwarves here had witnessed it. At that time, amid shouts and cheers, Grede Thunderfist -- in his incredibly powerful Ancestral Aspect form -- had raised the blazing Sulfuron Hammer, taking on the mission of all three dwarf clans.
+Jace couldn't help but remember that scene at the Anvil of Khardros in Grim Batol. Kurdran Wildhammer and many of the dwarves here had witnessed it. At that time, amid shouts and cheers, Grede Thunderfist -- in his incredibly powerful Avatar form -- had raised the blazing Sulfuron Hammer, taking on the mission of all three dwarf clans.
 
 And now, this small, fragile creature dragged a body barely held together by fire and pain. Forget the Avatar of the Mountain. He couldn't even walk as well as a kobold.
 
@@ -138,7 +138,7 @@ Compared to that day, this was utterly silent. Almost deathly still.
 
 But before him was the true Sulfuras. The Hand of Ragnaros, the Firelord.
 
-A treasure born from the Eye of Sulfuras, which had consumed the fire essence of Ragnaros and the entire Molten Core. Far more powerful than its former self, the rough prototype born on the Anvil of Kadros.
+A treasure born from the Eye of Sulfuras, which had consumed the Essence of Fire of Ragnaros and the entire Molten Core. Far more powerful than its former self, the rough prototype born on the Anvil of Khardros.
 
 Grede lowered both hands into the mass of fire. For a moment, he gritted his teeth. His legs buckled, as if he might be burned unconscious all over again.
 
@@ -148,7 +148,7 @@ Even Vereesa -- who usually never missed a chance to needle the dwarf -- couldn'
 
 Suddenly, the dwarf lifted the flame!
 
-Those scorching, blazing spikes, those golden-glowing flame runes burst forth with brilliant radiance, illuminating the entire space...
+Those scorching, blazing spikes, those golden-glowing fire runes burst forth with brilliant radiance, illuminating the entire space...
 
 For an instant, it was as if the Firelord had risen from the depths again.
 

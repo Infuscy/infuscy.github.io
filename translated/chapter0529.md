@@ -1,14 +1,14 @@
 ## Chapter 529: Meeting on the Narrow Path
 
-Early the next morning, the group set out again. They followed the cliff for a full day, and as the sky began to darken, Musa led them up a small slope.
+Early the next morning, the group set out again. They followed the cliff for a full day, and as the sky began to darken, Mosa led them up a small slope.
 
 After a while, they rounded a rocky outcrop and Jace saw an ancient totem, about waist-high, lying toppled against the stone wall ahead. Something the tauren had left behind.
 
-Musa glanced at the totem, turned back, and said something to Wenresa. Wenresa relayed it to Jace and Grede behind her, "The path ahead is going to get steep. Musa wants us to be careful."
+Mosa glanced at the totem, turned back, and said something to Vereesa. Vereesa relayed it to Jace and Grede behind her, "The path ahead is going to get steep. Mosa wants us to be careful."
 
 Grede pounded his chest. "She should worry about herself. I'm a dwarf from Aerie Peak!"
 
-Wenresa sighed. "I'll leave that one untranslated…"
+Vereesa sighed. "I'll leave that one untranslated…"
 
 They rounded the totem and kept going. The path grew steeper by the minute, and soon Jace was forced against the cliff face, shuffling sideways as he climbed.
 
@@ -16,13 +16,13 @@ Grede clung to the rock wall, occasionally unable to resist a glance downward.
 
 Jace had made his peace with it — he knew one look down and his legs would turn to jelly, so he simply didn't look.
 
-Up here, it was actually the two women who moved with the most ease. Wenresa's steps were light, each one placed without difficulty. And the tauren, despite her heavy hooves and towering frame, navigated the narrow walkway with practiced skill — she didn't even steady herself against the cliff, advancing slowly as if she were strolling across flat ground.
+Up here, it was actually the two women who moved with the most ease. Vereesa's steps were light, each one placed without difficulty. And the tauren, despite her heavy hooves and towering frame, navigated the narrow walkway with practiced skill — she didn't even steady herself against the cliff, advancing slowly as if she were strolling across flat ground.
 
-Molofel, small-bodied and equipped with a pair of hooves built for climbing, had nothing to fear either. But with the hesitant Grede blocking the way behind her, she could only follow in fits and starts, letting out a sigh now and then.
+Morophil, small-bodied and equipped with a pair of hooves built for climbing, had nothing to fear either. But with the hesitant Grede blocking the way behind her, she could only follow in fits and starts, letting out a sigh now and then.
 
 "Stop your damn whining, demon!" Grede snarled. "Why don't you just go around and stay up front with your master!"
 
-Molofel shot him a look. Grede pressed himself against the cliff wall and watched the succubus leap nimbly forward, landing neatly on the narrow path ahead, and continue on her way.
+Morophil shot him a look. Grede pressed himself against the cliff wall and watched the succubus leap nimbly forward, landing neatly on the narrow path ahead, and continue on her way.
 
 "Damn hoofed monsters!" Grede cursed.
 
@@ -30,15 +30,15 @@ Molofel shot him a look. Grede pressed himself against the cliff wall and watche
 
 Grede shot back, "We build proper staircases and tunnels before we move into any mountain! Not like these tauren, too lazy to widen the damn path when they carved it…"
 
-"Long ago, there was a great lift to the west," Wenresa said. "Musa says the tauren built this massive structure when they held this region, so they could travel easily between the grasslands and the stone forest. But as the tauren gradually lost ground in the war against the centaur, they could no longer protect it, and the quilboar destroyed the lift."
+"Long ago, there was a great lift to the west," Vereesa said. "Mosa says the tauren built this massive structure when they held this region, so they could travel easily between the grasslands and the stone forest. But as the tauren gradually lost ground in the war against the centaur, they could no longer protect it, and the quilboar destroyed the lift."
 
-Just then, Musa said something in a sharp, short burst, holding up a hand to stop Wenresa behind her.
+Just then, Mosa said something in a sharp, short burst, holding up a hand to stop Vereesa behind her.
 
 She was looking ahead up the walkway. Jace followed her gaze.
 
 Far above, a burly figure stood blocking the path ahead. It had the narrow walkway completely sealed off.
 
-"Quilboar," Wenresa said.
+"Quilboar," Vereesa said.
 
 "What's it planning to do?" Grede asked.
 
@@ -46,19 +46,19 @@ Right on cue, something whistled down from above with a whoosh and struck the ro
 
 "What the hell…" Grede glanced down and shifted his foot. "That was a damn close call."
 
-Musa felt around, seemingly searching for a rock of the right size. Wenresa patted Musa's shoulder, signaling her to move aside, and drew her bow in one motion, drawing the string taut and aiming at the dark shape up ahead…
+Mosa felt around, seemingly searching for a rock of the right size. Vereesa patted Mosa's shoulder, signaling her to move aside, and drew her bow in one motion, drawing the string taut and aiming at the dark shape up ahead…
 
 The elf loosed. The arrow cut through the air with a faint, piercing hiss and vanished into the morning mist. The dark shape up high shuddered, then slowly toppled and plunged off the cliff.
 
-Musa looked at Wenresa with excitement and astonishment — clearly she hadn't expected the elf's archery to be that good. But then a piercing squeal echoed up from below, followed by a heavy thud.
+Mosa looked at Vereesa with excitement and astonishment — clearly she hadn't expected the elf's archery to be that good. But then a piercing squeal echoed up from below, followed by a heavy thud.
 
-The squeal wiped the joy clean off Musa's face. She muttered something under her breath and immediately broke into a sprint toward the heights. Wenresa turned back to the others, "We need to move, now!"
+The squeal wiped the joy clean off Mosa's face. She muttered something under her breath and immediately broke into a sprint toward the heights. Vereesa turned back to the others, "We need to move, now!"
 
 Jace and Grede threw caution about the cliff's height to the wind and scrambled up after her, half-climbing, half-running.
 
-Musa led Wenresa and the rest of the group charging up the walkway at speed, kicking down a shower of loose stones and dust with every step. From somewhere far off in the valley, quilboar voices began to sound.
+Mosa led Vereesa and the rest of the group charging up the walkway at speed, kicking down a shower of loose stones and dust with every step. From somewhere far off in the valley, quilboar voices began to sound.
 
-"Damn it," Wenresa cursed under her breath.
+"Damn it," Vereesa cursed under her breath.
 
 They rounded a rocky spur, and sure enough, several quilboar were already on the walkway ahead. Hearing the footsteps, they had leveled an assortment of weapons toward the group, jostling one another as they charged.
 
@@ -66,7 +66,7 @@ These bristle-faced monsters had a pair of tusks curving high from their snouts.
 
 Hunched over, their bristling fur standing on end, arms thick and stubby but with grotesquely oversized hands, claws as deformed and massive as a demon's.
 
-The lead quilboar came charging down from above and collided head-on with Musa at the front. Musa grabbed the creature's shield and grappled with it. Though the quilboar stood a full head shorter, it shrieked and heaved with all its might — and for the moment, it wasn't losing.
+The lead quilboar came charging down from above and collided head-on with Mosa at the front. Mosa grabbed the creature's shield and grappled with it. Though the quilboar stood a full head shorter, it shrieked and heaved with all its might — and for the moment, it wasn't losing.
 
 "Let me up front!" Grede grabbed at Jace.
 
@@ -80,7 +80,7 @@ They hadn't brought any Shadow Protection Potions. Even if they beat the quilboa
 
 After a moment's thought, Jace simply cast Fear on the one at the very front.
 
-The quilboar grappling over the shield with Musa stiffened. Its furious roar turned into a panicked howl. Its grip faltered for an instant, and Musa shoved it straight off the cliff.
+The quilboar grappling over the shield with Mosa stiffened. Its furious roar turned into a panicked howl. Its grip faltered for an instant, and Mosa shoved it straight off the cliff.
 
 Seeing that it worked, Jace went right down the line — targeting the ones with short bows, the ones with slings, any quilboar that looked like it had a weak will — and cast Fear on them one by one, throwing their formation into chaos.
 
@@ -88,4 +88,4 @@ The quilboar's ranks on the narrow walkway immediately dissolved into pandemoniu
 
 Grede, for his part, simply scooped up loose rocks, clods of dirt, or stones the enemy had thrown, and hurled them back. The dwarf threw with terrifying force — when he connected, even a quilboar's thick skull would crack open and bleed, howling in agony.
 
-But the one who surprised Jace most was Musa, standing at the very front.
+But the one who surprised Jace most was Mosa, standing at the very front.

@@ -1,14 +1,14 @@
-## Chapter 19: A Gift from the Dream
+## Chapter 819: A Gift from the Dream
 
 Even without any magical perception or detection, Jace could feel the treetops deep in the marsh stirring, and the occasional furious dragonkin roars echoing from a distance.
 
-Bremmugo had been a small but young and volatile whelp, and his death had clearly enraged the black dragons even more—to say nothing of the confirmed death of the "Devourer" Tremeth. Judging by what the dragonkin had been saying, it seemed to be the leader of the black dragons in this region ever since Onyxia's departure.
+Bremmugo had been a small but young and volatile drake, and his death had clearly enraged the black dragons even more—to say nothing of the confirmed death of Teremus the Devourer. Judging by what the dragonkin had been saying, it seemed to be the leader of the black dragons in this region ever since Onyxia's departure.
 
 So what was hunting them and closing in was practically a dragonkin army. Once surrounded, the outcome would be grim. There truly wasn't a moment to rest now.
 
 What was worse, Vereesa's quiver had fewer than ten arrows left, and most of them were black arrows she'd scavenged from dragonkin hunters when she had the chance.
 
-If more than two more whelps took to the air, they'd be completely stuck in a passive, beat-up position. At that altitude, Jace's attack spells could barely reach, and Grede would have a hard time throwing his hammer both fast and accurate.
+If more than two more drakes took to the air, they'd be completely stuck in a passive, beat-up position. At that altitude, Jace's attack spells could barely reach, and Grede would have a hard time throwing his hammer both fast and accurate.
 
 For a moment Jace even found himself wondering what Vereesa would do once they actually reached Darkwhisper Gorge, given her lack of arrows—whether they should head to Ashenvale to borrow some from those night elves...
 
@@ -22,7 +22,7 @@ Jace thought of the dragonkin mage in that black mountain hollow—even running 
 
 Of course, the dragonkin mage had only worn a few scraps of dark red rags, but this nest guardian was decked out in heavy full-body armor and still ran this fast—it was practically a charging heavy tank.
 
-Grede clearly realized the problem too, cursing "damn it, damn it" as he ran. Vereesa adjusted her stride, preparing to draw an arrow and fire back, but seeing how little gaps there were in that dragonkin's armor, she hesitated. The creature's protection had to be far sturdier than a whelp's scales.
+Grede clearly realized the problem too, cursing "damn it, damn it" as he ran. Vereesa adjusted her stride, preparing to draw an arrow and fire back, but seeing how little gaps there were in that dragonkin's armor, she hesitated. The creature's protection had to be far sturdier than a drake's scales.
 
 Jace held out a hand to stop her. "I'll handle it."
 
@@ -34,9 +34,9 @@ But just as Jace confirmed this dragonkin guard couldn't keep up, a faster shado
 
 "Master! Right side!" Morophil suddenly shouted. Jace looked toward the eastern treeline and saw a dragonkin running on all fours while its upper body drew a bow with both arms, taking aim.
 
-Before he could even finish incanting Dark Shield, the dragonkin loosed his arrow. Jace ducked his head. The arrow struck his shoulder but failed to pierce the black dragon-hide cloak, grazing off it and flying past his ear to bounce behind him.
+Before he could even finish incanting Shadow Shield, the dragonkin loosed his arrow. Jace ducked his head. The arrow struck his shoulder but failed to pierce the black dragon-hide cloak, grazing off it and flying past his ear to bounce behind him.
 
-Jace immediately cast a Dark Shield for protection. Before the dragonkin hunter could nock a second arrow, a dark figure wreathed in flickering flames had already blurred past Jace at a speed the naked eye couldn't follow.
+Jace immediately cast a Shadow Shield for protection. Before the dragonkin hunter could nock a second arrow, a dark figure wreathed in flickering flames had already blurred past Jace at a speed the naked eye couldn't follow.
 
 Before the dragonkin got his next arrow set, Morophil burst out of a cloud of black smoke wreathed in blazing fire and thrust her flaming dagger forward. The dragonkin raised his arm to block, but the succubus's other hand drove her black shortblade into his chest. Coughing, he crashed to the ground.
 
@@ -54,13 +54,13 @@ A dragonkin further back drew a bow and shot at him. Grede hefted the dead drago
 
 Jace looked over toward the elf. Aside from the one arrow in her hand, there were only four black arrows left in her quiver. The arrows she'd brought herself had probably been exhausted long ago.
 
-More and more dragonkin were pouring out of the sparse treeline in pursuit. Now there were even the shrieks of whelps in the distance—calling more companions, perhaps, or issuing a threat.
+More and more dragonkin were pouring out of the sparse treeline in pursuit. Now there were even the shrieks of drakes in the distance—calling more companions, perhaps, or issuing a threat.
 
-As they ran, the imp had been trembling with fear, clutching Jace's chest and scanning the sky in every direction, but he could never tell exactly where a whelp might be closing in.
+As they ran, the imp had been trembling with fear, clutching Jace's chest and scanning the sky in every direction, but he could never tell exactly where a drake might be closing in.
 
-It might have been the consecutive deaths of three whelps that kept the others from charging in as vanguard again, preferring to let the dragonkin wear them down first.
+It might have been the consecutive deaths of three drakes that kept the others from charging in as vanguard again, preferring to let the dragonkin wear them down first.
 
-As he ran, Jace said to Vereesa, "Stop using arrows on the dragonkin, Vere. Other than you, we don't have a good way to force those whelps down to the ground. I'm pretty sure they know it too. Once your arrows run out, those whelps will swarm us in no time..."
+As he ran, Jace said to Vereesa, "Stop using arrows on the dragonkin, Vere. Other than you, we don't have a good way to force those drakes down to the ground. I'm pretty sure they know it too. Once your arrows run out, those drakes will swarm us in no time..."
 
 "All right." Vereesa rubbed the dragon blood off her fingers. "I realized that too. I was just worried the hunters would hurt you."
 

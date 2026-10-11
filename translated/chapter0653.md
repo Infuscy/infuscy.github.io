@@ -72,10 +72,10 @@ The question had barely crossed his mind when Jace noticed the old orc in the ce
 
 So he was actually Nekros? A creature who looked more savage than a barbarian and more powerful than a strongman… was supposed to be the rumored Shadow prodigy, the finest warlock of the Dragonmaw clan?
 
-Jace suddenly recalled his surname — Skullcrusher. Seeing the man in person, he understood this was likely a title bestowed on him by other orcs. Combined to the multi-spiked hammer-mace hanging at his waist, Jace realized this was probably a Skullcrusher in the literal sense. And warlock… was probably just his side gig.
+Jace suddenly recalled his surname — Skullcrusher. Seeing the man in person, he understood this was likely a title bestowed on him by other orcs. Combined with the multi-spiked hammer-mace hanging at his waist, Jace realized this was probably a Skullcrusher in the literal sense. And warlock… was probably just his side gig.
 
 No wonder the Dragonmaw orcs had so naturally accepted him as their Warlord rather than some kind of magic advisor.
 
-"I am Yuruk." Jace touched his chest with one hand and lifted his chin slightly. "I pay my respects, Dragonmaw Warlord. Warchief Rend is most grateful for your efforts in defending Grim Batol."
+"I am Yurk." Jace touched his chest with one hand and lifted his chin slightly. "I pay my respects, Dragonmaw Warlord. Warchief Rend is most grateful for your efforts in defending Grim Batol."
 
 "Is he now?" the old orc said. "I seriously doubt that."

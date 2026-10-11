@@ -10,9 +10,9 @@ Kormakien — Death Coil.
 
 Ever since he'd learned this incantation on the ship on the way to Kalimdor, he hadn't tried it even once.
 
-After all, practicing such an evil spell in front of Grede and Vereesa — especially with Mosar there too — would only make the already somewhat awkward party dynamics even more strained.
+After all, practicing such an evil spell in front of Grede and Vereesa — especially with Mosa there too — would only make the already somewhat awkward party dynamics even more strained.
 
-Korili, Ferathos, Pakumili.
+Korili, Feraos, Pakumili.
 
 A very short incantation, but the pronunciation was bizarrely tricky — constant trilling, constant lip-biting, like it required several layers of lips and teeth producing sound at the same time. Every time Jace tried to practice the exact pronunciation of this incantation, he found it endlessly frustrating.
 
@@ -22,7 +22,7 @@ The succubus frowned. "What is the master thinking?"
 
 "That counts as telepathy, right?" Jace asked.
 
-"No," Molphis said. "I can feel the shadow energy being wielded by you, master. But it makes me uneasy."
+"No," Morophil said. "I can feel the shadow energy being wielded by you, master. But it makes me uneasy."
 
 "I'm trying to familiarize myself with the Death Coil incantation," Jace said.
 
@@ -46,7 +46,7 @@ This was no time for mercy.
 
 The felhound seemed to sense the danger and began making low, uneasy growling sounds. But Jace had already touched its soul from within his consciousness…
 
-Korili, Ferathos, Pakumili…
+Korili, Feraos, Pakumili…
 
 Jace spoke the incantation in a rush, and the spell took effect quickly. The felhound burst into flames, struggling amid a burst of expanding green fire as it burned to ashes. A demon skull wreathed in a churning mass of dark and green fel fire rose from the charred remains into the air, baring its fangs and claws as it screamed toward him — as if furious at being killed so suddenly…
 
@@ -60,11 +60,11 @@ The poor lone tree was tormented by shadow, withering rapidly… Jace felt his w
 
 He stared at the tree, yet couldn't describe what he was feeling inside. The joy of a successful first cast? Not at all.
 
-He'd actually expected to go smoothly, because the shadow magic reaction this incantation provoked was very different from the Hand of Gul'dan. The memorization and study of the incantation along the way — whether it was the shadow power hanging in the air, the shadow within his body, or the fel fire… all had seemed to be eagerly waiting for him to perform this spell, to devour the demon's soul… and that actually made him feel quite uncomfortable.
+He'd actually expected it to go smoothly, because the shadow magic reaction this incantation provoked was very different from the Hand of Gul'dan. The memorization and study of the incantation along the way — whether it was the shadow power hanging in the air, the shadow within his body, or the fel fire… all had seemed to be eagerly waiting for him to perform this spell, to devour the demon's soul… and that actually made him feel quite uncomfortable.
 
 "Erdemensamalus…"
 
-Jace hesitated no longer. He drew Azure Song and chanted the incantation, using the arcane power of the magical sword to slowly gather an extraordinarily potent pure fireball at the blade's tip.
+Jace hesitated no longer. He drew Azuresong and chanted the incantation, using the arcane power of the magical sword to slowly gather an extraordinarily potent pure fireball at the blade's tip.
 
 The gathered, dancing fire element not only swept away the chaotic shadow and disordered fel energy radiating from the tree, but also helped Jace burn away the unease in his heart bit by bit.
 
@@ -72,7 +72,7 @@ He hurled the fireball out in one go, finally blowing apart the blackened tree t
 
 The nearly spent fel embers were devoured by the suddenly arrived high-energy fireball, while the roots completely corrupted by chaotic and dark magic were blasted to ashes — even blowing a crater in the ground.
 
-Molphis's black hair was thrown back by the fiery heat wave. After the scorching wind had completely dissipated, she looked over. Jace was still staring blankly at the crackling remnants of the flames.
+Morophil's black hair was thrown back by the fiery heat wave. After the scorching wind had completely dissipated, she looked over. Jace was still staring blankly at the crackling remnants of the flames.
 
 He raised his head and gazed at the sky, which had already darkened. "Let's head back early. Don't let anyone find out there was some kind of demon gathering here."
 
@@ -90,6 +90,6 @@ Jace didn't want to wait around for some perfect house anymore. He'd already sav
 
 Lying in bed at night, he thought about how tomorrow he'd be going with the agent to pick out a house, and couldn't help but get excited.
 
-He glanced at the Quel'Thalas chest at the foot of his bed. Originally Vereesa had used it to hold Azure Song; now he was using it using it to store his money. He wished he could cast some sealing spell to lock it up tight.
+He glanced at the Quel'Thalas chest at the foot of his bed. Originally Vereesa had used it to hold Azuresong; now he was using it to store his money. He wished he could cast some sealing spell to lock it up tight.
 
-"Watch this chest well, Molphis," he muttered, heard the succubus's acknowledgment, and drifted off to sleep.
+"Watch this chest well, Morophil," he muttered, heard the succubus's acknowledgment, and drifted off to sleep.

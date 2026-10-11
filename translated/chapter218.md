@@ -1,20 +1,20 @@
 ## Chapter 218: Good Lad, Bad Lad
 
-Early that morning, Jace arrived at the door of The Slaughtered Lamb carrying a bag with his cloak in it.
+Early that morning, Jace arrived at the door of the Slaughtered Lamb carrying a bag with his cloak in it.
 
-His plan was to head to Larson's clothes shop right after leaving The Slaughtered Lamb.
+His plan was to head to Larson Clothiers right after leaving the Slaughtered Lamb.
 
 He walked into the tavern — and there wasn't a single person inside.
 
-Tharle poked his head out from behind the bar. "Who's there?"
+Jarel poked his head out from behind the bar. "Who's there?"
 
 "Do you always just ask your guests who they are?" Jace said.
 
-"You brat." Tharle pointed at the door. "You didn't see the sign? What time is it? Who opens their eyes first thing in the morning and runs to a tavern for a drink? A man with a drinking problem that bad can't even open his eyes at this hour."
+"You brat." Jarel pointed at the door. "You didn't see the sign? What time is it? Who opens their eyes first thing in the morning and runs to a tavern for a drink? A man with a drinking problem that bad can't even open his eyes at this hour."
 
 "Fine," Jace said. "Are they all here?"
 
-"Same with those lot," Tharle said. "No one's here. Except Ursula."
+"Same with those lot," Jarel said. "No one's here. Except Ursula."
 
 "Right," Jace said. "I'm here for Ursula."
 
@@ -22,11 +22,11 @@ Tharle poked his head out from behind the bar. "Who's there?"
 
 "Got it. I'm heading down, then. Hope business is good today," Jace said, and left the bar.
 
-Tharle snorted and set out the mugs. "Welcome back, Jace Sesso."
+Jarel snorted and set out the mugs. "Welcome back, Jace Sesso."
 
-Jace looked back at him, nodded, and kept walking toward the basement. Passing through layer after layer of iron cell doors, Jace glanced at the hallways and felt they ought to add some magic runes, or illusion magic like the forests around Quel'Danas, to disguise the place a bit. Otherwise it was way too easy to stumble onto.
+Jace looked back at him, nodded, and kept walking toward the basement. Passing through layer after layer of iron cell doors, Jace glanced at the hallways and felt they ought to add some magic runes, or illusion magic like the forests around Quel'Danil, to disguise the place a bit. Otherwise it was way too easy to stumble onto.
 
-Just as Tharle had said, the basement hall was empty. From the side corridor, though, came the bubbling of water and the faint clink of a wooden spoon against the side of a crucible.
+Just as Jarel had said, the basement hall was empty. From the side corridor, though, came the bubbling of water and the faint clink of a wooden spoon against the side of a crucible.
 
 Jace walked to the door of the alchemy lab and saw Ursula squatting in front of a boiling crucible in a small tank top, one hand holding a spoon and the other fixed on a page of a rolled-up book, reading intently — the very picture of a forest hag.
 
@@ -42,9 +42,9 @@ As she spoke, she turned back, stirred the pot twice, and poured in some unrecog
 
 Her black hair was soaked through and plastered to her scalp. Her whole body was drenched in sweat, as if she'd just stepped out of a shower and run back in wearing nothing but a tank top — everything showing through, the things that should and shouldn't.
 
-Jace scratched his head. "I told Galders. He said some scary stuff — something about what he'd do to me if I didn't come back. I didn't dare hang around after that."
+Jace scratched his head. "I told Zardeth. He said some scary stuff — something about what he'd do to me if I didn't come back. I didn't dare hang around after that."
 
-Ursula gave a bitter laugh. "Galders is just like that. So — how are you going to make it up to me?"
+Ursula gave a bitter laugh. "Zardeth is just like that. So — how are you going to make it up to me?"
 
 Jace sighed. "This needs making up for too?"
 
@@ -72,13 +72,13 @@ Jace leaned against the wall behind him. "So what do you want me to do? Tell me.
 
 "I need some gunpowder."
 
-"Huh? Gunpowder? Gajin starting a rebellion?"
+"Huh? Gunpowder? Gakin starting a rebellion?"
 
 Ursula shook her head. "I don't want that crude, low-grade gunpowder. I want a special kind — to be precise, Dark Iron dwarf gunpowder."
 
 "What's different about Dark Iron gunpowder?"
 
-"I heard from Bronzebeard dwarves that the Dark Iron dwarves infuse their gunpowder with a special kind of fire element energy from the depths of Blackrock Mountain. It makes their firearms absurdly powerful. Right now I need a material that produces intense burning. I've tried several and none of them have worked well enough, including regular gunpowder. So I want to take a look at their secret weapon…"
+"I heard from Bronzebeard dwarves that the Dark Iron dwarves infuse their gunpowder with a special kind of fire elemental energy from the depths of Blackrock Mountain. It makes their firearms absurdly powerful. Right now I need a material that produces intense burning. I've tried several and none of them have worked well enough, including regular gunpowder. So I want to take a look at their secret weapon…"
 
 "Isn't that too much?" Jace said. "You want me to go on a Shadowforge City grand adventure?"
 
@@ -111,15 +111,3 @@ Jace nodded. "Thanks. I'll bring you herbs later."
 "By the way — it was pretty. Just a little small."
 
 "Get out! Get out!"
-
-## Flags
-
-- **Title**: 好小伙坏小伙 — "Good Lad, Bad Lad" (Ursula teasing Jace for being a prude).
-- **Tharle** (札雷): Tharle Mor, the bartender gatekeeper, per glossary.
-- **Ursula** (厄苏拉): glossary's alchemist/warlock at The Slaughtered Lamb.
-- **Galders** (加尔德斯): glossary warlock in the Slaughtered Lamb circle.
-- **Gajin / Jagin** (加金): glossary warlock; used "Gajin" here.
-- **Dagger Society** (匕首会): the warlocks' circle; rendered as "the Dagger Society."
-- **Quel'Danas** (奎尔丹尼): used for the high-elf forest illusion-magic reference (Quel'Danas / Sunwell isle).
-- **Dark Iron dwarf gunpowder / Shadowforge City / Blackrock Depths / Blackrock Mountain**: all canonical WoW lore terms per standard rendering.
-- **Shadow Protection Potion / mana potion**: glossary terms preserved.

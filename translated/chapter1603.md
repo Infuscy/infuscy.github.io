@@ -1,22 +1,22 @@
 ## Chapter 1603: Before the Celebration
 
-Today was the day Dagran Thaurissan had set for the victory celebration. Since the Hall of Learning had been badly damaged in the battle -- and that place had represented the faith of Ragnaros for hundreds of years -- Thaurissan had moved the venue to the still-intact Black Anvil Bridge.
+Today was the day Dagran Thaurissan had set for the victory celebration. Since the Lyceum had been badly damaged in the battle -- and that place had represented the faith of Ragnaros for hundreds of years -- Thaurissan had moved the venue to the still-intact Black Anvil Bridge.
 
 It had barely been a week since Ragnaros's defeat. Many of the seriously wounded soldiers still couldn't stand on their own. Even Grede needed a crutch and assistance to get out of bed. But the citizens of Shadowforge City didn't seem to mind. Many had been unable to wait for this celebration as early as a few days ago.
 
-Last night, Grede had Jace help him all the way back to the Black Iron Tavern. Today, he took off the clothes the Dark Iron dwarves had given him over the past couple of days and put on his own Wildhammer gear.
+Last night, Grede had Jace help him all the way back to the Grim Guzzler. Today, he took off the clothes the Dark Iron dwarves had given him over the past couple of days and put on his own Wildhammer gear.
 
 If he was going to attend the Dark Iron dwarves' celebration, he insisted on making his origins as clear as possible.
 
 Word had it that Ironforge had sent other important emissaries -- besides Muradin Bronzebeard -- to Shadowforge City to express goodwill toward Dagran Thaurissan. So for the Three Hammers, this was a pretty big occasion.
 
-Last time, when Grede picked up Sulfuras in front of the elite warriors of all clans at Thaurissan's Temple, Jace had felt like a half-cooked duck leg.
+Last time, when Grede picked up Sulfuras in front of the elite warriors of all clans at the Shrine of Thaurissan, Jace had felt like a half-cooked duck leg.
 
 So this time, he needed to clean himself up properly too. Wear something decent. As one of the few humans in Blackrock Mountain, he also represented the image of Stormwind -- even Lordaeron.
 
 "What do you think, Vereesa?"
 
-Jace turned to look at Vereesa. The ranger-lord was wearing a typical Quel'Thalas high noble's favorite -- a blue short robe threaded with gold. Combined with her silver hair -- singed a bit here and there, but tied up in a way that made it look even neater and sharper -- she made Jace look like a lumbering idiot by comparison.
+Jace turned to look at Vereesa. The Ranger Lord was wearing a typical Quel'Thalas high noble's favorite -- a blue short robe threaded with gold. Combined with her silver hair -- singed a bit here and there, but tied up in a way that made it look even neater and sharper -- she made Jace look like a lumbering idiot by comparison.
 
 Still, Vereesa squinted and smiled.
 
@@ -40,17 +40,17 @@ He had lost most of his beard in the Molten Core too. When he was completely cha
 
 "No," Jace said. "More like a Pandaren god."
 
-"Don't act like I'm ignorant. I've heard goblins talk about those guys who drink from double-headed hammer-shaped wooden pots." Grede adjusted his shoulder. "But if I were that Pandaren war god, I'd rather have an extra arm than an eye. That way, besides Sulfuras and the Sky-Shatterer, I could carry a third weapon too. Like that magic sword--"
+"Don't act like I'm ignorant. I've heard goblins talk about those guys who drink from double-headed hammer-shaped wooden pots." Grede adjusted his shoulder. "But if I were that Pandaren war god, I'd rather have an extra arm than an eye. That way, besides Sulfuras and Skyshatter, I could carry a third weapon too. Like that magic sword--"
 
 "What sword?" Jace squinted at him.
 
-"That lava sword! The three-pronged one! What did you think?" Grede turned his head. "That dagger the fire elemental tried to kill me with. I told you to grab it. You didn't lose it, did you?"
+"That lava sword! The three-pronged one! What did you think?" Grede turned his head. "That dagger the flamewaker tried to kill me with. I told you to grab it. You didn't lose it, did you?"
 
 "Of course not," Jace said.
 
-"Good!" Grede headed for the stairs, raising a hand to the two dragons down there. "Morning, Sora. Little Black Dragon. I need to get out of here as fast as possible. That warlock's dark energy is bad for my health."
+"Good!" Grede headed for the stairs, raising a hand to the two dragons down there. "Morning, Sola. Little black dragon. I need to get out of here as fast as possible. That warlock's dark energy is bad for my health."
 
-Sora and Needleflame guiltily followed Grede's descent with their eyes, then looked at Jace. Jace glanced at Vereesa beside him.
+Sola and Needleflame guiltily followed Grede's descent with their eyes, then looked at Jace. Jace glanced at Vereesa beside him.
 
 "So you didn't tell him."
 
@@ -58,7 +58,7 @@ Sora and Needleflame guiltily followed Grede's descent with their eyes, then loo
 
 "Damn, that's actually a good point." Jace grumbled. "He's still not doing great. We'll tell him when he's recovered a bit more. It's for his own good."
 
-Vereesa nodded slowly, but her face was full of the look of someone who just wants to watch the world burn. Jace shot her a glance, picked up his staff, and headed for the stairs. Sora and Needleflame up ahead both wore expressions of "nothing to do with me" as they tugged each other along, snickering, and fled down the stairs.
+Vereesa nodded slowly, but her face was full of the look of someone who just wants to watch the world burn. Jace shot her a glance, picked up his staff, and headed for the stairs. Sola and Needleflame up ahead both wore expressions of "nothing to do with me" as they tugged each other along, snickering, and fled down the stairs.
 
 "Jace." Vereesa caught up. Her gaze followed the two young dragons until they disappeared into the tavern entrance, then she spoke quietly. "How are you feeling?"
 
@@ -68,7 +68,7 @@ Vereesa nodded slowly, but her face was full of the look of someone who just wan
 
 She glanced at the succubus peeking into the tavern from the doorway, and lowered her voice further.
 
-"If there are things you find hard to say even to me, tell Sora. Or even Morophil. She might understand your situation better than I can. Either way... at least don't bottle it all up inside."
+"If there are things you find hard to say even to me, tell Sola. Or even Morophil. She might understand your situation better than I can. Either way... at least don't bottle it all up inside."
 
 Jace paused for a moment.
 

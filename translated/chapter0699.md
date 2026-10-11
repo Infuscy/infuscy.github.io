@@ -24,13 +24,13 @@ Amy said, "I've heard his name. If I'm not mistaken, he's a high magister. Are y
 
 "A vial of Sunwell water?!" Amy said in surprise. "I thought you meant to have me rely on the energy inside your body…"
 
-Vereesa shook her head. "I may have grown up in Quel'Thalas, but as a Farstrider, the Sunwell's aura within me can't hold a candle to a magister's. If I walked into that library full of Quel'dorei with only my own aura to track by, it would be harder by I don't know how many times. Dar'Khan is no ordinary magister — he holds a high enough station to have had access to the Sunwell Highlands. The energy signature he carries is more distinctive as well. Right now I'll head back to the embassy district and ask around. You two wait for me at the entrance to the Great Library."
+Vereesa shook her head. "I may have grown up in Quel'Thalas, but as a Farstrider, the Sunwell's aura within me can't hold a candle to a magister's. If I walked into that library full of Quel'dorei with only my own aura to track by, it would be harder by I don't know how many times. Dar'Khan is no ordinary magister — he holds a high enough station to have had access to the Sunwell Plateau. The energy signature he carries is more distinctive as well. Right now I'll head back to the embassy district and ask around. You two wait for me at the entrance to the Great Library."
 
 "You're sure you can borrow one that easily?" Jace asked.
 
 "Any magister residing long-term in Dalaran should have little trouble keeping a vial on hand."
 
-"Then we're counting on you, Wen," Jace said.
+"Then we're counting on you, Vere," Jace said.
 
 As evening fell and the sky slowly darkened, the Great Library of Dalaran — fortunately — stayed open even in the dead of night, and the number of elves coming and going after dark was noticeably greater than during the day.
 
@@ -60,13 +60,13 @@ Vereesa looked around to be certain no one else had been drawn over, then tucked
 
 Entering the Great Library, Jace had been escorted by a guard the last time he came. Returning after a week, he no longer recognized the way — but Amy was completely at home.
 
-She walked at a brisk pace with Jace in tow, leading him along until the guards stationed at this section inspected the two of them's rings and let them through.
+She walked at a brisk pace with Jace in tow, leading him along until the guards stationed at this section inspected both their rings and let them through.
 
 What Amy produced was a golden ring — quite heavy and beautiful, covered in runes, with a violet-gemstone set in the middle that brimmed with radiant arcane energy.
 
 She didn't seem to wear this ring on her finger ordinarily. She only brought it out when she needed to present it.
 
-Amy glanced at the silver Kirin Tor trust ring on Jace's hand, and once they were in the corridor she asked, "Has Archmaster Antonidas shown any intention of bringing you into the Kirin Tor?"
+Amy glanced at the silver Kirin Tor trust ring on Jace's hand, and once they were in the corridor she asked, "Has Archmage Antonidas shown any intention of bringing you into the Kirin Tor?"
 
 "What?" Jace asked.
 
@@ -74,6 +74,6 @@ Amy glanced at the silver Kirin Tor trust ring on Jace's hand, and once they wer
 
 "It may be that I truly lack any talent for the arcane," Jace said, touching his ring. "I'm a misfit here, Amy. I'd think you of all people would know that."
 
-"Jace… that was only a simple test. And even setting that aside, not everyone in the Kirin Tor possesses so-called talent either — I only came to realize that after coming here," Amy said, stopping beside several towering bookshelves. "I truly cannot understand why a man who stood against Deathwing with his own magic should have any reason to be excluded from the Kirin Tor. Perhaps Archmaster Antonidas has his own considerations."
+"Jace… that was only a simple test. And even setting that aside, not everyone in the Kirin Tor possesses so-called talent either — I only came to realize that after coming here," Amy said, stopping beside several towering bookshelves. "I truly cannot understand why a man who stood against Deathwing with his own magic should have any reason to be excluded from the Kirin Tor. Perhaps Archmage Antonidas has his own considerations."
 
 "But this is no place for that sort of talk. Keep an eye on our surroundings for me, Jace. I'd rather not be seen by outsiders while I'm concentrating on tracing magical residues…"

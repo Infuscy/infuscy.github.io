@@ -1,6 +1,6 @@
 ## Chapter 1662: Blackhand
 
-After the Alliance seized the Spire's forge hall and dealt with The Beast with little trouble, the Horde's morale took a visible hit. All the way to the Hall of the Blackhand, the resistance collapsed at first contact.
+After the Alliance seized the Spire's forge hall and dealt with The Beast with little trouble, the Horde's morale took a visible hit. All the way to the Hall of Blackhand, the resistance collapsed at first contact.
 
 Continuing upward, Jace could sense through the shadow energy permeating Blackrock Spire that the orcs' emotions had shifted from battle frenzy to widespread anxiety and unease. Now, when he manipulated the shadow corrosion to aid the Alliance's assault, he had to adjust his own emotions to match.
 
@@ -8,21 +8,21 @@ It seemed that using dragonkin to block the gate, ambushing the Alliance with ch
 
 According to the Dark Iron dwarves' map, this level was the Commander's Hall — the top floor before the Blackwing Lair raid entrance in the game. Where Drakkisath and Rend Blackhand made their stand.
 
-But since breaking through the Hall of the Blackhand, the Alliance had not encountered any more dragonkin. According to Farstrider reports, the dragonkin they had seen seemed to be retreating, showing no desire to fight. And aside from wounded orcs and a few scattered assassins, there were no Horde soldiers to be found. Were they planning to abandon this section and fall back to the top floor — Blackwing Hall?
+But since breaking through the Hall of Blackhand, the Alliance had not encountered any more dragonkin. According to Farstrider reports, the dragonkin they had seen seemed to be retreating, showing no desire to fight. And aside from wounded orcs and a few scattered assassins, there were no Horde soldiers to be found. Were they planning to abandon this section and fall back to the top floor — Blackwing Lair?
 
 The Silver Hand, Stromgarde, and Stormwind soldiers split up, led by Dark Iron dwarves and Farstriders, searching the various branching passages for a route to the highest level. The actual layout was far more complex than in the game. Stairs going up and down, sudden balconies, deep chasms leading straight down to Hordemar, cliffs over the lava river deep in the mountain — they encountered them all. Occasionally they even ran into whelps that had struggled to fly up and could not find a way out.
 
 Jace could not rely on his game knowledge to navigate. After the damage from Molten Core's collapse, even the Dark Iron veteran dwarves with maps kept taking wrong turns.
 
-Jace and Sora stayed close to Varian Wrynn. Partly because they were both from Stormwind, and partly because this group had fewer priests and paladins and needed him to dispel the shadow fog.
+Jace and Sola stayed close to Varian Wrynn. Partly because they were both from Stormwind, and partly because this group had fewer priests and paladins and needed him to dispel the shadow fog.
 
-"I'm not trying to make excuses for being overwhelmed by the Emerald Dream's sleeping mist, Jace..." Sora said as she walked beside him. "When I saw those so-called 'chromatic dragonkin' just now, I was shocked at first. I mean, I had seen some things about the chromatic dragon experiments in the notes of that dragonkin alchemist Nefarian had twisted with his blood magic. But seeing a finished product with my own eyes... I still find it hard to believe."
+"I'm not trying to make excuses for being overwhelmed by the Emerald Dream's sleeping mist, Jace..." Sola said as she walked beside him. "When I saw those so-called 'chromatic dragonkin' just now, I was shocked at first. I mean, I had seen some things about the chromatic dragon experiments in the notes of that dragonkin alchemist Nefarian had twisted with his blood magic. But seeing a finished product with my own eyes... I still find it hard to believe."
 
 "But they're all bark and no bite, green dragon," Sazeno said. "Once you get used to their flashy tricks, they're easy to beat. Like you just proved!"
 
-"I don't know." Sora shook her head. "If those chromatic dragonkin did not have purple scales, they would just be the weakest, most insignificant dragonkin servants. What about the stronger ones? The dragonkin commanders who serve as lair guards, the elite protectors, even... true chromatic dragons? What kind of power would they have? You might think their tricks are flashy but useless, but they do possess special abilities only dragons of specific scale colors can command. Mist. Sand."
+"I don't know." Sola shook her head. "If those chromatic dragonkin did not have purple scales, they would just be the weakest, most insignificant dragonkin servants. What about the stronger ones? The dragonkin commanders who serve as lair guards, the elite protectors, even... true chromatic dragons? What kind of power would they have? You might think their tricks are flashy but useless, but they do possess special abilities only dragons of specific scale colors can command. Mist. Sand."
 
-Sora's worries were justified. And Nefarian had created far more than just weak dragonkin in Blackwing Lair.
+Sola's worries were justified. And Nefarian had created far more than just weak dragonkin in Blackwing Lair.
 
 A very powerful chromatic dragon experiment was imprisoned deep inside Blackwing Lair — Chromaggus. It was not a true dragon, but a deformed, two-headed draconic blood-beast. It possessed the abilities of multiple dragon flights and was far stronger than those dragonkin. At least, in the game.
 
@@ -30,9 +30,9 @@ If those weak dragonkin could cause this much trouble, who knew what Chromaggus 
 
 "Orcs!"
 
-A Dark Iron shout came from ahead. Jace and Sora quickened their pace. They passed through a doorway into a dark, reeking hall. A group of tall, black-skinned orcs stood before them, wielding weapons and shields carved with orcish runes, wearing broad spiked armor. The Blackhand clan emblem was painted in blood on their cloaks and hide robes.
+A Dark Iron shout came from ahead. Jace and Sola quickened their pace. They passed through a doorway into a dark, reeking hall. A group of tall, black-skinned orcs stood before them, wielding weapons and shields carved with orcish runes, wearing broad spiked armor. The Blackhand emblem was painted in blood on their cloaks and hide robes.
 
-The hall was spacious. By the light of the burning braziers, they could see three or four hundred orcs filling the upper and lower levels. Shadow Council warlocks stood among the orc guards on the high balconies. Some wore tattered robes in the same style as when Gul'dan had first crossed the Dark Portal with Warchief Blackhand — robes even the Cult of the Damned warlocks in Auchindoun no longer wore.
+The hall was spacious. By the light of the burning braziers, they could see three or four hundred orcs filling the upper and lower levels. Shadow Council warlocks stood among the orc guards on the high balconies. Some wore tattered robes in the same style as when Gul'dan had first crossed the Dark Portal with Warchief Blackhand — robes even the Cabal warlocks in Auchindoun no longer wore.
 
 They outnumbered the group with Varian and Jace, and their gear looked excellent. If both sides clashed immediately, the cost would be heavy. But the hall was completely silent. No one had expected so many elite enemies waiting here.
 
@@ -46,7 +46,7 @@ The arena, lovingly crafted by the arena-loving Dark Iron dwarves, was now cover
 
 At the center of the pit, a gray-haired, one-eyed orc paced back and forth. He took two steps, looked up, took two more steps, looked up again. He kept this up until the Silver Hand, the Church, the Stromgarde soldiers, and all the Farstriders — Vereesa, Alleria, Nathanos and their group — had converged here from the other passages and crossings in response to Stormwind's signal. Only then did the orc stop.
 
-"You look like your father, Warchief," Varian Wrynn said in broken orcish.
+"You look like your father, Warchief," Varian Wrynn said in broken Orcish.
 
 "You've seen him, human," the orc replied, turning.
 

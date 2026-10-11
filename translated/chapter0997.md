@@ -30,7 +30,7 @@ If she really was an ordinary mortal, the most Jace or the others could do was t
 
 Katrana Prestor arrived at the door, removed her rain-soaked cloak, and handed it to the maid beside her, smiling as she looked outside. Jace said with a trace of apology, "I didn't expect it to rain this hard today."
 
-"It's all right, Master Sesso." Katrana waved a hand. "I actually felt everything had been going a little too smoothly ever since I came to Stormwind. The people here are so warm, and His Majesty the king and the queen have been so kind to you, and Master Sesso, you found clues so quickly. Compared to everything I went through up North, it's all been like a dream. This rain is a bit of a reminder that things don't always go smoothly — there are occasional setbacks. It's actually set my mind slightly at ease."
+"It's all right, Master Sesso." Katrana waved a hand. "I actually felt everything had been going a little too smoothly ever since I came to Stormwind. The people here are so warm, and His Majesty the king and the queen have been so kind to me, and Master Sesso, you found clues so quickly. Compared to everything I went through up North, it's all been like a dream. This rain is a bit of a reminder that things don't always go smoothly — there are occasional setbacks. It's actually set my mind slightly at ease."
 
 Jace nodded. "Please, sit wherever you like."
 
@@ -62,7 +62,9 @@ Jace couldn't hesitate any longer. He knew he could smell the chromatic dragon b
 
 By the time he got here, Jace already sensed from the corner of his eye Katrana Prestor's expression beginning to change. He'd anticipated this — if Krasus could decipher the contents of the incantation, then naturally Onyxia would be able to make it out too.
 
-So he paid no mind to her reaction. The incantation was already half done. The most important thing now was to concentrate and finish it. "Patiwa, Puteli..."
+So he paid no mind to her reaction. The incantation was already half done. The most important thing now was to concentrate and finish it.
+
+"Patiwa, Puteli..."
 
 "Wait, Master Sesso." Katrana suddenly said in a low voice. "Something doesn't feel right..."
 
@@ -72,7 +74,7 @@ Katrana Prestor's appearance hadn't changed at all, but after the incantation wa
 
 Soon, as if struck by something heavy, she coughed without stopping, even spitting a mouthful of blood onto the table. She clutched her stomach and whimpered softly in pain. The maid beside her turned pale with fright and dropped to her knees beside her mistress.
 
-"Master, Lady Katrana... what's happened to you? What's going on?"
+"Mistress, Lady Katrana... what's happened to you? What's going on?"
 
 She looked at Jace, tears streaming, and shouted, "What kind of dark magic is this?! You lured her here just to murder her in this vicious way?!"
 
@@ -94,7 +96,9 @@ Katrana was kneeling on the ground, completely devoid of the vitality she'd had 
 
 The maid, terrified nearly out of her mind, had given up any thought of fighting Jace and could only hold her mistress and keep asking what was wrong.
 
-"What happened?" Grede asked. "I'd like to know too," Jace said.
+"What happened?" Grede asked.
+
+"I'd like to know too," Jace said.
 
 Vereesa frowned, looking down at Katrana. "The smell of black dragon's blood."
 
@@ -116,7 +120,7 @@ Krasus thought for a moment. "I think she knows, Jace. I mean Onyxia. Such a met
 
 Jace had felt this too; he just hadn't been able to accept it psychologically yet.
 
-With that, the red dragon looked at Sola. "Let her rest a while, Solamyer. Her reaction clearly shows she's been under the black dragon's control for God knows how long and has only just been freed — there's no way we'll get anything out of her like this. Pushing her further could even cause irreversible damage to her mind."
+With that, the red dragon looked at Sola. "Let her rest a while, Somaelir. Her reaction clearly shows she's been under the black dragon's control for God knows how long and has only just been freed — there's no way we'll get anything out of her like this. Pushing her further could even cause irreversible damage to her mind."
 
 Sola nodded and cast a spell to put Katrana to sleep. She stiffened and collapsed, and Vereesa carried her to a nearby bench.
 
@@ -126,7 +130,7 @@ Black dragon, disguise, control, shadow... the woman high up in the Blackrock Sp
 
 But beyond that, the orc hadn't revealed anything more. A woman...
 
-Could it really be Ponasia Shaw — this woman who'd ostensibly retired but was actually pulling all the strings in secret?
+Could it really be Pathonia Shaw — this woman who'd ostensibly retired but was actually pulling all the strings in secret?
 
 But according to Shaw's account, she didn't seem to have influenced anything either — no dark magic controlling minds, no verbal orders directing SI:7, so...
 
@@ -166,6 +170,8 @@ Could what he'd sensed be the emotions emanating from the countless dragon eggs 
 
 Indifferent, cold, hollow.
 
-"The palace..." Jace looked up at Krasus. "The king is in danger, Master. It's the queen!" Krasus didn't say another word, instantly transforming into a burst of arcane light and vanishing among them.
+"The palace..." Jace looked up at Krasus. "The king is in danger, Master. It's the queen!"
+
+Krasus didn't say another word, instantly transforming into a burst of arcane light and vanishing among them.
 
 Jace slammed the table. "Sola, take us to Stormwind Keep — now!"

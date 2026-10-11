@@ -6,21 +6,21 @@ Across the main road, the soldiers' camp blazed with campfire light. From Eastva
 
 The Kingdom had gone to enormous lengths to protect the trade route linking the three towns.
 
-But pulling that many troops meant stripping manpower from Westfall Keep and parts of Westfall — so it was no surprise that the gnolls there were starting to run wild again.
+But pulling that many troops meant stripping manpower from Westbrook Garrison and parts of Westfall — so it was no surprise that the gnolls there were starting to run wild again.
 
 The two of them made it back to the tent they were borrowing. Grede sniffed the air. "You smell that? Something stinks like piss. Some animal marked its territory in our tent?"
 
 Hearing that, Jace tensed up. Please don't tell me he's caught the sulfur stink from Sazeno.
 
-He shot a glance at the warlock's bag where the imp was hiding — still lying flat, completely still. If the scholars and mages at the Wizard Sanctum hadn't noticed the dark energy ripples, how could Grede? Did Wildhammer dwarves have some kind of racial talent for detecting demons?
+He shot a glance at the warlock's bag where the imp was hiding — still lying flat, completely still. If the scholars and mages at the Wizard's Sanctum hadn't noticed the dark energy ripples, how could Grede? Did Wildhammer dwarves have some kind of racial talent for detecting demons?
 
 "I don't smell anything," Jace said. "What animal would even be in here? A fox? A mongoose?"
 
 Grede lowered his head and sniffed around. His nose swept right over the warlock's bag without stopping, and Jace finally relaxed.
 
-The dwarf finally laid his hands on the parcel Marin had given Jace. "It's this thing stinking the place up. What's in here?"
+The dwarf finally laid his hands on the parcel Malin had given Jace. "It's this thing stinking the place up. What's in here?"
 
-"That's the package my boss wants me delivered to Stonewatch," Jace said, collapsing onto the cloth mat in exhaustion. "Don't mess with it. He didn't tell me to open it — if I open it and he fines me, that's on you. Let's just sleep."
+"That's the package my boss wants me to deliver to Stonewatch," Jace said, collapsing onto the cloth mat in exhaustion. "Don't mess with it. He didn't tell me to open it — if I open it and he fines me, that's on you. Let's just sleep."
 
 "But this thing reeks," Grede said. "You're fine with that?"
 
@@ -64,19 +64,19 @@ Jace tilted his head, found the right angle, and finally made out what was on th
 
 Jace was suddenly at a loss for how to answer that. Draenor didn't originally have dragons — but whether it had them now, he couldn't say for sure.
 
-If Teron Gorefiend had already returned through the Dark Portal, then the Black Dragon King allied with the Horde — Deathwing — had followed him through as well.
+If Teron Gorefiend had already returned through the Dark Portal, then the Black Dragon Aspect allied with the Horde — Deathwing — had followed him through as well.
 
-Had he gone to Draenor to find a safe place, free from interference by the other dragonflights, to preserve his eggs and build a new black dragonflight nest?
+Had he gone to Draenor to find a safe place, free from interference by the other dragonflights, to preserve his eggs and build a new Black Dragonflight nest?
 
 "There's a clan among the orcs called the Dragonmaw clan," Jace said. "The ones who ride red dragons into battle. That ring any bells?"
 
 Grede said immediately, "I — of course I know about the red dragons and the Dragonmaw clan. But did those orcs just rename their whole clan because they tamed some red dragons?"
 
-"How should I know? Go ask their Warchief yourself sometime," Jace said. "My boss probably found this orcish banner somewhere and figured showing it to his colleagues at Stonewatch might help track down where the red dragons went? I don't know. I'm just the delivery boy."
+"How should I know? Go ask their chieftain yourself sometime," Jace said. "My boss probably found this orcish banner somewhere and figured showing it to his colleagues at Stonewatch might help track down where the red dragons went? I don't know. I'm just the delivery boy."
 
 "Track down where the red dragons went?" Grede said, astonished. "Why go after them? They can go wherever they please. Best if they disappeared off the face of the earth forever. Why go looking for trouble?"
 
-In the eyes of most veterans of the Orc Wars, red dragons were evil, savage beasts. This wasn't the time to give a worldview lecture, and he was dead tired.
+In the eyes of most veterans of the Orc Wars, red dragons were evil, savage beasts. This wasn't the time to give a lore lecture, and he was dead tired.
 
 "Mages all want to find some eye-catching research topic so they can publish sensationalist articles in Dalaran and grab fame, promotion opportunities, that sort of thing. Let's not get mixed up in their mess, Grede. Go to sleep. Now."
 
@@ -99,13 +99,3 @@ One of the cavalrymen up ahead shouted, "That's Lake Everstill up ahead! Lakeshi
 The caravan and the travelers broke into cheers, and Grede hollered along with them.
 
 Who knew what these people had been through before — the fact that this trip had passed without a single attack practically counted as good luck. Maybe it was one of those unspoken rituals, like passengers clapping when a plane touches down.
-
-## Flags
-
-- **东谷伐木场:** Rendered as "Eastvale Logging Camp" (in glossary).
-- **石堡:** Rendered as "Stonewatch." Glossary lists 斯通沃特 = Stonewatch; 石堡 is the canonical WoW name for the Redridge fortress (Stonewatch). Treated as the same location. Flag to confirm.
-- **战印旗帜 / 旗子:** Rendered as "war banner" / "banner." 战印 = war emblem/battle insignia.
-- **龙头:** Rendered as "dragon's head" (the emblem on the banner).
-- **黑暗能浪:** Rendered as "dark energy ripples." Same unusual term as ch. 56. Flag for consistency.
-- **蛮锤矮人侦测恶魔的种族天赋:** Jace wonders if Wildhammer dwarves have a racial talent for detecting demons. Not confirmed in text; left as his speculation.
-- **动物园里老虎身上的味道:** Rendered as "like the smell of a tiger at the zoo." Kept the modern analogy consistent with Jace's transmigrator voice.

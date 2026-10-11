@@ -2,21 +2,21 @@
 
 Swirling snowflakes sliced across their cheeks, sharp as flying blades. Sky and earth had both been devoured by the howling white haze. All that remained in sight were struggling black tree shadows swaying madly, and a wailing roar like countless beasts in pain fleeing in panic.
 
-It was hard to imagine that just half an hour ago the air had been clear, the sunlight shining on the snow glittering gold, with a view stretching ten miles away layer by layer of snow mountains and peaks, and even further beyond.
+It was hard to imagine that just half an hour ago the air had been clear, the sunlight shining on the snow glittering gold, with a view stretching ten miles across layer upon layer of snowy mountains and peaks, and even further beyond.
 
 Jace trudged forward with difficulty, stumbling and slipping from time to time, finally reaching a pine tree bent over by the gale. He grabbed the trunk and steadied himself for a moment.
 
 In just the few hundred meters from the cave, layer after layer of snow that was constantly blown away and constantly piled thicker had already covered his cloak and hood.
 
-Vereesa had already walked ahead. Dazarum IV followed her step by step. Jace pushed his hood back and forced a hard step forward, plunging back into the gale again.
+Vereesa had already walked ahead. Dazarm IV followed her step by step. Jace pushed his hood back and forced a hard step forward, plunging back into the gale again.
 
 Heading down the slope to the south from here would reach the Frostwolves' hiding place — that was what the ogres had revealed earlier. And the increasingly violent blizzard corroborated it too.
 
 Jace slid down an exposed rock slab, caught a jutting boulder, and buried his face to catch his breath.
 
-The cold wind made it hard for his lungs, and his face was so cold it had almost lost feeling. The few thick layers of clothes he'd added in Strahnbrad for climbing the snow mountain were starting to fail him too.
+The cold wind made it hard to breathe, and his face was so cold it had almost lost feeling. The few thick layers of clothes he'd added in Strahnbrad for climbing the snowy mountain were starting to fail him too.
 
-He drew Azure Song. Wiping away the ice and snow, the crystalline blade emitted a faint blue glow, looking even more beautiful than it did in clear weather.
+He drew Azuresong. Wiping away the ice and snow, the crystalline blade emitted a faint blue glow, looking even more beautiful than it did in clear weather.
 
 He was in no mood to appreciate a work of art forged by Malygos right now. He called on the flame in the elemental tongue, but a burst of sparks drifting through the air had barely gathered before the cold wind blew them away into gray ash. The blade had barely shown a hint of fire before returning to its cold blue glow, as if nothing had happened.
 
@@ -24,11 +24,11 @@ This attempt to call flame wasn't just a complete failure — it had taken even 
 
 After all, this blizzard wasn't ordinary weather at all. It was fury released by the thing that ruled this place.
 
-The Frost King. This wasn't some vague reference, wasn't a pronoun — it was the actual ruler of a snow mountain…
+The Ice Lord. This wasn't some vague reference, wasn't a pronoun — it was the actual ruler of a snowy mountain…
 
-Jace knew who this title the flame had mentioned referred to. He was the Frost King Lok'holar, a powerful ice elemental lord that the Frostwolf shamans could summon on the Alterac Valley battlefield, one capable of turning the tide of battle.
+Jace knew who this title the flame had mentioned referred to. He was the Ice Lord Lokholar, a powerful ice elemental lord that the Frostwolf shamans could summon on the Alterac Valley battlefield, one capable of turning the tide of battle.
 
-"Frost King!" Jace called out in the elemental tongue. "My name is Jace Sesso. I came to the Alterac Mountains with no intention of doing harm, no intention of hurting anyone…"
+"Ice Lord!" Jace called out in the elemental tongue. "My name is Jace Sesso. I came to the Alterac Mountains with no intention of doing harm, no intention of hurting anyone…"
 
 His elemental tongue wasn't good enough for fluent everyday communication, so it took him a while to get all these words out.
 
@@ -44,7 +44,7 @@ At that moment, suddenly something grabbed his clothes and arm and yanked him fo
 
 He raised his head. A monster's head covered in spikes and blood-stained scales was staring at him, two black-red tentacles waving excitedly behind it.
 
-Dazarum IV let out a strange "du-du-du-du" roar, then turned and plunged back into the snow. This demon who had ridiculous resistance to every kind of magical damage hadn't actually been slowed down at all by the freezing blizzard.
+Dazarm IV let out a strange "du-du-du-du" roar, then turned and plunged back into the snow. This demon who had ridiculous resistance to every kind of magical damage hadn't actually been slowed down at all by the freezing blizzard.
 
 The wind grew stronger and stronger. The enormous snowflakes filling the sky had gone from slanting across to flying almost flat. Every breath was as difficult as using every ounce of strength to wrest a wisp of air from the freezing gale. If an ordinary person were walking in this storm, survival was all but impossible.
 
@@ -52,9 +52,9 @@ Still, his fingers and the tops of his feet itched faintly, the hot blood in his
 
 Ahead, Vereesa's silhouette turned back and seemed to shout his name. Jace waved at her hard. This Farstrider ranger whose physical capabilities were extraordinarily powerful could at least still hold out.
 
-If this was the full extent of this Frost King's abilities, then maybe it wasn't quite enough.
+If this was the full extent of this Ice Lord's abilities, then maybe it wasn't quite enough.
 
-Just as this slightly mocking thought turned over in his head, a snow-shadow appeared faintly in the low ground ahead. The snowflakes scraping past it seemed to be disturbed, spinning around it, either slapping and tumbling away.
+Just as this slightly mocking thought turned over in his head, a snow-shadow appeared faintly in the low ground ahead. The snowflakes scraping past it seemed to be disturbed, spinning around it, slapping against it or tumbling away.
 
 Vereesa's silhouette had also stopped, observing that strange thing. Jace watched as the shadow grew clearer and clearer, gradually becoming more solid. Swaths of snowflakes spun and finally coalesced with it… forming a humanoid shape.
 
@@ -66,7 +66,7 @@ Jace shouted toward Vereesa, but his voice couldn't reach her at all. Still, Ver
 
 In the violent cold current, cutting through the waterfall-like snow between them, the arrow, aided by arcane energy, struggled forward like a barracuda swimming upstream against a torrent — but still, before it could reach the construct, it seemed to lose its spirit and veered off course.
 
-Vereesa cursed loudly, and a second arrow was already in her hand. But several ice shards crystalline around the ice elemental construct flew at her like thrown javelins in rapid succession, forcing the ranger to break off her action. She rolled several times to barely dodge, nearly getting flipped by the air current when she landed.
+Vereesa cursed loudly, and a second arrow was already in her hand. But several ice shards that had crystallized around the ice elemental flew at her like thrown javelins in rapid succession, forcing the ranger to break off her action. She rolled several times to barely dodge, nearly getting flipped by the air current when she landed.
 
 Jace steadied himself and channeled a Shadow Bolt. The incantation, disrupted by the chaotic wind and snow, came out fragmented and struggled to take shape. The channeling of Shadow power was also being shredded by elemental energy into chaos. Casting under these conditions was harder than normal by an untold measure.
 
@@ -94,11 +94,11 @@ A volley of ice shards struck a boulder exposed in front of him in succession, e
 
 A tall ice construct flashed out from beside him, swinging a huge hailstone-like fist to smash hard at Jace.
 
-Jace drew Azure Song to meet it. The biting cold wind blew his black cloak high, as if building momentum for his counterattack. The blue-purple blade, carrying arcane light, cleaved straight into the elemental creature's direct punch, shattering its entire arm on the spot.
+Jace drew Azuresong to meet it. The biting cold wind blew his black cloak high, as if building momentum for his counterattack. The blue-purple blade, carrying arcane light, cleaved straight into the elemental creature's direct punch, shattering its entire arm on the spot.
 
 Of course, this blow had also shaken Jace up considerably. His opponent was, after all, an elemental giant more than half again his size, fighting on home turf.
 
-Seeing several more ice constructs approaching from another direction, clearly coming to help their companion, already raising their double fists — and tangling with these giants had already slowed the two of them down.
+Several more ice constructs were approaching from another direction, clearly coming to help their companion, already raising both fists — and tangling with these giants had already slowed the two of them down.
 
 Wearing down a group of ice elementals fighting on their own home ground in the snow and wind of Alterac would be utter foolishness. Jace immediately summoned Shadowstep, turning into a mass of shadow and charging through the gap between the ice constructs, quickly breaking free of the encirclement and chasing after Vereesa.
 

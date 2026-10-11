@@ -6,11 +6,11 @@ During the day, looking down from the mountains, you could see a slash of discor
 
 In the morning they'd followed the patrol routes of the red-coated cavalry down the mountain road, and by evening they'd reach the waystation on the Coldwind River bank. From there, following the Coldwind River upstream for about three days, you'd reach the landmark on Lordaeron's eastern frontier — Durnholde Keep.
 
-Durnholde Keep was so massive that Jace could hardly believe it was just a single keep. Of course, Lordaeronians generally agreed that Fenris Keep was the most magnificent castle in the entire Kingdom of Lordaeron — it's just that Fenris Keep sat on the continent's largest lake, Lake Lordamere, and the vast expanse of Silverpine Forest covering the entire western shore, plus the even greater Lordaeron capital in the distance, made it look like a child trying to break free from its father's embrace and dash for the grasslands to the west.
+Durnholde Keep was so massive that Jace could hardly believe it was just a single keep. Of course, Lordaeronians generally agreed that Fenris Keep was the most magnificent castle in the entire Kingdom of Lordaeron — it's just that Fenris Keep sat on the continent's largest lake, Lordamere Lake, and the vast expanse of Silverpine Forest covering the entire western shore, plus the even greater Lordaeron capital in the distance, made it look like a child trying to break free from its father's embrace and dash for the grasslands to the west.
 
 Durnholde, on the other hand, stood alone on the boundless riverland — the only towering thing in sight, with the mountains far off at the edge of the horizon, nothing but hazy silhouettes. The whole keep looked like a mountain giant dozing off as it sat between the streams.
 
-The calm, broad Coldwind River was the largest of the rivers on this plain. It connected the continent's second-largest lake, Lake Darrowmere, to Baradin Bay, and served as the dividing line of the lowlands. This place had been called the Lowlands long ago, in contrast to the Arathi Highlands to the east, which stretched far farther than the widely known Hillsbrad — and that was Stromgarde's territory.
+The calm, broad Coldwind River was the largest of the rivers on this plain. It connected the continent's second-largest lake, Darrowmere Lake, to Baradin Bay, and served as the dividing line of the lowlands. This place had been called the Lowlands long ago, in contrast to the Arathi Highlands to the east, which stretched far farther than the widely known Hillsbrad — and that was Stromgarde's territory.
 
 After the Lordaeronians seized Durnholde, they designated the area as Eastern Hillsbrad, but the highlanders stubbornly insisted on calling it the Lowlands, or even Arathi Lowlands, or Arathi Foothills — and to this day, they still hadn't settled on a name everyone could agree on.
 
@@ -24,7 +24,7 @@ The village beneath Durnholde Keep looked even livelier than Alterac City. When 
 
 Humans of every stripe, speaking in every regional accent, sang winter songs in every key. Travelers dressed as oddly as Jace and Grede didn't feel out of place in the slightest.
 
-Jace hadn't even known there was a village half the size of Southhore beneath Durnholde, let alone that it was this bustling.
+Jace hadn't even known there was a village half the size of Southshore beneath Durnholde, let alone that it was this bustling.
 
 The moment he walked into the inn, he looked around curiously and asked, "Why are there so many people here? Wasn't this place hit hard during the war? Even if there are gladiator matches…"
 
@@ -76,7 +76,9 @@ Arthas might look every inch a prince, but there was no connecting him to the yo
 
 And Jaina was even more so — aside from that head of pale blonde hair that had a hint of *her*, she was entirely the look of a grade-schooler who hadn't started growing yet.
 
-Maybe he'd transmigrated a little too early. Since coming to this world, the heroes who'd given him that "game" feeling seemed to be limited to Alleria Windrunner. And Wrynn and Kel'Thuzad could count as half. Then again, getting in required a seventeen-silver ticket, and it was only a practice match at that. Even if they got in, there was no guarantee they'd actually see whoever they'd come to see.
+Maybe he'd transmigrated a little too early. Since coming to this world, the heroes who'd given him that "game" feeling seemed to be limited to Vereesa Windrunner. And Wrynn and Kel'Thuzad could count as half.
+
+Then again, getting in required a seventeen-silver ticket, and it was only a practice match at that. Even if they got in, there was no guarantee they'd actually see whoever they'd come to see.
 
 Jace figured the future Warchief of the Horde was probably still in basic training right now — no way a kid that young would be risking injury in the arena.
 
@@ -99,20 +101,3 @@ Seeing how interested Grede was, Jace figured it might help lift his spirits, so
 "My treat!"
 
 "Hah, now you're talking!"
-
-## Flags
-
-- 敦霍尔德城堡 → Durnholde Keep (canonical WoW; not in glossary).
-- 芬里斯堡 → Fenris Keep (canonical WoW; not in glossary).
-- 洛丹米尔湖 → Lake Lordamere (glossary confirms).
-- 冰风河 → Coldwind River (tentative translation; not in glossary).
-- 达隆米尔湖 → Lake Darrowmere (canonical WoW; not in glossary).
-- 巴拉丁湾 → Baradin Bay (glossary confirms).
-- 希尔斯布莱德 → Hillsbrad (canonical WoW; not in glossary).
-- 阿拉希高地 → Arathi Highlands (glossary confirms Arathi).
-- 南海镇 → Southshore (canonical WoW; not in glossary).
-- 奥特兰克 → Alterac (canonical WoW; not in glossary).
-- 斯托姆加德 → Stromgarde (glossary confirms).
-- 古拉巴什 → Gurubashi (glossary confirms).
-- 格瑞德's "近乡情更怯" → rendered as the feeling of approaching one's homeland with mixed emotions (chengyu: 近乡情更怯).
-- 羊奶酒 → goat-milk ale (fermented goat milk drink; not in glossary).

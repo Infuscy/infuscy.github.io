@@ -8,9 +8,9 @@ Jace had no idea what the red dragon fire inside him looked like in the eyes of 
 
 On the other hand, the panic he'd felt back then had also strengthened his ability to control his own fear, which let him fool Baron Geddon. Now he was dealing with Incendius, and from every angle that was far easier.
 
-Gestahn, following Jace's instructions, had sent a Twilight's Hammer attendant to the Dark Iron bar to call Grede, Sora, and Needleflame to the embassy.
+Gerstahn, following Jace's instructions, had sent a Twilight's Hammer attendant to the Dark Iron bar to call Grede, Sola, and Needleflame to the embassy.
 
-Incendius absolutely refused to be separated from the Wind Prince's cage. Jace and Vereesa didn't have any good ideas right now, so they could only wait and see if anyone else had a plan.
+Incendius absolutely refused to be separated from the Prince of Air's cage. Jace and Vereesa didn't have any good ideas right now, so they could only wait and see if anyone else had a plan.
 
 Even if everyone was at a loss, having more hands wouldn't hurt.
 
@@ -22,9 +22,9 @@ If that damaged the trust between Twilight's Hammer and the fire elementals, Jac
 
 Still, he also had to consider the possibility that Incendius might catch on to their intentions and their disguise during the process and strike first.
 
-Before long, Sora and Needleflame arrived together at the embassy. Both had reverted to their most familiar mortal forms — an elf woman and a human woman. Since Twilight's Hammer had only recently arrived in Shadowforge City and hadn't yet recruited Dark Iron dwarves on a large scale, their original appearances drew less suspicion.
+Before long, Sola and Needleflame arrived together at the embassy. Both had reverted to their most familiar mortal forms — an elf woman and a human woman. Since Twilight's Hammer had only recently arrived in Shadowforge City and hadn't yet recruited Dark Iron dwarves on a large scale, their original appearances drew less suspicion.
 
-Sora wore a light purple robe like some elven noble, while Needleflame had clearly copied the look of a Twilight's Hammer enforcer — spiked iron hoops and leather straps covering only the essential areas. The bizarre outfit, combined with her overly youthful face, looked extremely odd. Though the solid muscle on her arms and calves did compensate somewhat.
+Sola wore a light purple robe like some elven noble, while Needleflame had clearly copied the look of a Twilight's Hammer enforcer — spiked iron hoops and leather straps covering only the essential areas. The bizarre outfit, combined with her overly youthful face, looked extremely odd. Though the solid muscle on her arms and calves did compensate somewhat.
 
 "Where's Grede?" Jace sidled over and asked quietly.
 
@@ -32,17 +32,17 @@ Sora wore a light purple robe like some elven noble, while Needleflame had clear
 
 "Close enough is fine," Jace sighed. "Why doesn't he just come over as a Dark Iron dwarf? Why waste time..."
 
-"But the moment he heard he could turn back into a Wildhammer, he switched right back," Sora said. "The crystal needs some time to recharge. You know how much he hates moving around looking like a Dark Iron dwarf..."
+"But the moment he heard he could turn back into a Wildhammer, he switched right back," Sola said. "The crystal needs some time to recharge. You know how much he hates moving around looking like a Dark Iron dwarf..."
 
 "Ha. He sure seemed to enjoy himself that night in the bar, competing with Dark Irons at shooting," Jace said coldly.
 
 "Vereesa's outside. Did she fill you in on the situation here when you arrived?"
 
-"She did," Sora said. "But... neither of us has any good ideas. We'll wait for Grede and discuss it?"
+"She did," Sola said. "But... neither of us has any good ideas. We'll wait for Grede and discuss it?"
 
 "His great idea is probably to smash everything in here," Needleflame muttered.
 
-Just then, the corridor began to grow hotter. Jace knew Incendius was approaching. Soon enough, the voices of Gestahn and the fire elemental having a conversation appeared at the end of the hall. The three of them fell into a wordless silence.
+Just then, the corridor began to grow hotter. Jace knew Incendius was approaching. Soon enough, the voices of Gerstahn and the fire elemental having a conversation appeared at the end of the hall. The three of them fell into a wordless silence.
 
 The fire elemental gave them a brief once-over, then asked, "When can the ceremony begin, hm?"
 
@@ -50,21 +50,21 @@ The fire elemental gave them a brief once-over, then asked, "When can the ceremo
 
 "Don't waste the time we have now," Incendius said in a low tone. "Baron Geddon wants me to see that bottle of the Tidehunter's soul essence for myself. Bring it out now."
 
-"Of course, if it's the Firelord's wish." Jace exchanged a glance with Sora, and she produced the crystal bottle she'd been keeping.
+"Of course, if it's the Firelord's wish." Jace exchanged a glance with Sola, and she produced the crystal bottle she'd been keeping.
 
-When the Water Essence appeared in that hall lit by the powerful fire elemental, even though the faint luminescence inside the crystal bottle was barely visible, the fire radiating from the elemental dimmed significantly.
+When the Aqual Quintessence appeared in that hall lit by the powerful fire elemental, even though the faint luminescence inside the crystal bottle was barely visible, the fire radiating from the elemental dimmed significantly.
 
-Jace had expected Incendius to be shocked by the Water Essence like Lokholar had been. But this fire elemental showed no surprise at all.
+Jace had expected Incendius to be shocked by the Aqual Quintessence like Roccor had been. But this fire elemental showed no surprise at all.
 
 Instead, it approached without hesitation, lowering its head — which was indistinct compared to its "body," like tumbling flames — to take a close look at the crystal bottle. There was no awe in its eyes, no fear. Jace's senses even caught a flicker of... greed.
 
 Having witnessed countless mortals consumed by the desire for power, trying to steal treasures, Jace was quite familiar with that kind of greed. But this was an elemental — a lump of pure flame. How could its emotions manifest as shadow energy?
 
-And more to the point, this was a bottle of Water Essence.
+And more to the point, this was a bottle of Aqual Quintessence.
 
 But then again, Ragnaros had also devoured the Windseeker's "Essence of Wind" to strengthen himself. Maybe fire elementals also had a way to convert water elementals' souls into their own power?
 
-Jace didn't know. There were too many doubts in that single moment. He didn't dare jump to conclusions. "I can't say for sure it's the Tidehunter's Eternal Essence, but it does look far stronger than any Water Essence I've ever seen," Incendius said. "Where did you find it?"
+Jace didn't know. There were too many doubts in that single moment. He didn't dare jump to conclusions. "I can't say for sure it's the Tidehunter's Eternal Quintessence, but it does look far stronger than any Aqual Quintessence I've ever seen," Incendius said. "Where did you find it?"
 
 "We found it in a secret passage in Shadowforge City," Jace said. "Someone might have been trying to smuggle it into the city but was caught or killed by Anvilrage soldiers. And to Dark Iron dwarves, who aren't particularly sensitive to water elementals, this thing is hardly noticeable."
 
@@ -72,15 +72,15 @@ Jace didn't know. There were too many doubts in that single moment. He didn't da
 
 "Praise the Old Gods for their protection."
 
-Jace put the Water Essence away. Sora shot him a sideways glance — the remark seemed to bother her — but at least Incendius straightened his fiery form again, looking fairly satisfied.
+Jace put the Aqual Quintessence away. Sola shot him a sideways glance — the remark seemed to bother her — but at least Incendius straightened his fiery form again, looking fairly satisfied.
 
-"Lord Incendius, now that we're in the embassy..." Jace ventured. "The ceremony hasn't started yet, but could we take a look at the Wind Prince's cage?"
+"Lord Incendius, now that we're in the embassy..." Jace ventured. "The ceremony hasn't started yet, but could we take a look at the Prince of Air's cage?"
 
 "No reason to refuse."
 
-The Firelord seemed to be in a decent mood. He thrust his fiery hand into his chest and pulled out the cage wrapped in cold wind, with its blurry elemental face. This time, Jace even felt the room's temperature drop a little.
+The fire lord seemed to be in a decent mood. He thrust his fiery hand into his chest and pulled out the cage wrapped in cold wind, with its blurry elemental face. This time, Jace even felt the room's temperature drop a little.
 
-Jace stared at that face, focusing all his attention on sensing the energy inside the cage. He wanted to detect even the slightest whisper of Elemental tongue, any possible fluctuation — anything he could read. Maybe a hint the Wind Prince was trying to send him.
+Jace stared at that face, focusing all his attention on sensing the energy inside the cage. He wanted to detect even the slightest whisper of Elemental tongue, any possible fluctuation — anything he could read. Maybe a hint the Prince of Air was trying to send him.
 
 But there was nothing. The cage was just there. Jace could feel the will inside the cage, but he couldn't feel any response from that will.
 
@@ -102,6 +102,6 @@ Had tens of thousands of years of enslavement by the Old Gods caused these eleme
 
 So did that mean Incendius had designs on this cage?
 
-Just then, the Wildhammer dwarf finally arrived. Coughing a few times, he put on a grave expression, walked up to them, and said in Elemental with a bit of an Aerie Peak accent, "My apologies for being late, Lord Incendius, Master Slovak, and Lord Gestahn..."
+Just then, the Wildhammer dwarf finally arrived. Coughing a few times, he put on a grave expression, walked up to them, and said in Elemental with a bit of an Aerie Peak accent, "My apologies for being late, Lord Incendius, Master Slovakia, and Lord Gerstahn..."
 
-Jace nodded. He looked at Grede, then at Incendius's fiery chest that had swallowed the Wind Prince's cage, and suddenly an idea came to him.
+Jace nodded. He looked at Grede, then at Incendius's fiery chest that had swallowed the Prince of Air's cage, and suddenly an idea came to him.

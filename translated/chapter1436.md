@@ -1,18 +1,18 @@
 ## Chapter 1436: The Prince and the Princess
 
-Afternoon. The Blue Heron.
+Afternoon. The Blue Recluse.
 
 Jace had fixed his hair, shaved his beard, and put on a simple brown cloak with a hood before entering the tavern.
 
 Among the crowd of young mages in light-colored robes, his dark cloak and hood stood out a bit. But plenty of teachers who wanted to relax without being bothered by students wore hoods in here, so it wasn't especially strange. People might glance over during their lively conversations, but they wouldn't keep staring.
 
-Jace had invited Amy here for a meal today, hoping to talk about Jaina. He didn't want anyone to know that Jace Sesso was digging into gossip about the Lordaeron prince and the daughter of Kul Tiras's Lord Admiral, so he needed to conceal his identity somewhat. At the same time, he didn't want Amy to think he'd gone to all this trouble just to fish for gossip, so he couldn't pick some rundown shack or street corner for their meeting. The Blue Heron made it seem less purposeful.
+Jace had invited Amy here for a meal today, hoping to talk about Jaina. He didn't want anyone to know that Jace Sesso was digging into gossip about the Lordaeron prince and the daughter of Kul Tiras's Lord Admiral, so he needed to conceal his identity somewhat. At the same time, he didn't want Amy to think he'd gone to all this trouble just to fish for gossip, so he couldn't pick some rundown shack or street corner for their meeting. The Blue Recluse made it seem less purposeful.
 
-Of course, Jace genuinely wanted to treat Amy to a meal. Back when Khadgar hadn't yet returned to Azeroth, Amy had stayed alone at Ilgara's Tower, keeping watch for them, all while constantly worrying that Dalaran might catch on.
+Of course, Jace genuinely wanted to treat Amy to a meal. Back when Khadgar hadn't yet returned to Azeroth, Amy had stayed alone at the Tower of Ilgalar, keeping watch for them, all while constantly worrying that Dalaran might catch on.
 
 As a warlock who'd gotten used to sneaking around, Jace understood that kind of pressure. For a young Kirin Tor member like her, it must have been even worse.
 
-The Expedition's return was still the hottest topic at the Blue Heron, with no sign of cooling down. Prince Arthas's coming-of-age ceremony was a close second.
+The Expedition's return was still the hottest topic at the Blue Recluse, with no sign of cooling down. Prince Arthas's coming-of-age ceremony was a close second.
 
 Most of the mages were discussing how the Kirin Tor had managed to create a portal that could transport an entire army, whether that portal would bring disaster to Azeroth like the Dark Portal, and the topic of the Scepter of Sargeras.
 
@@ -30,13 +30,13 @@ Even if he does rebuild the Arathor Empire eventually, Jace couldn't care less �
 
 "What are you thinking about?"
 
-Amy Marin plopped down across from him, tossing a stack of books onto the chair beside her, and glanced in the direction Jace had been staring.
+Amy Malin plopped down across from him, tossing a stack of books onto the chair beside her, and glanced in the direction Jace had been staring.
 
 Jace took a deep breath and sat up straight. "The future of the Alliance. The future of the world."
 
 "How responsible of you." Amy smiled and folded her arms. "Speaking of which, I have no idea what my father did to deserve such kindness from you — you actually handed him... that black dragon?"
 
-"In my homeland, there's an old saying." Jace said. "Repay a drop of water with a gushing spring. He taught me so many spells. Getting him a few dragons for research didn't seem like a big deal."
+"In my homeland, there's an old saying." Jace said. "One good turn deserves another, ten times over. He taught me so many spells. Getting him a few dragons for research didn't seem like a big deal."
 
 "Why don't you just summon a water elemental with arcane magic and give him that instead?" Amy said quietly.
 
@@ -64,11 +64,11 @@ Amy glanced at the sliced moonberry cake. "You remembered I like this."
 
 "Of course I do," Jace said.
 
-How could he forget that meal Amy had shared with him at the Blue Heron?
+How could he forget that meal Amy had shared with him at the Blue Recluse?
 
 Back when he'd been on the verge of being consumed by shadow and desire, about to fall completely like every nameless warlock who'd gone down that twisted path — when one foot was already over the cliff's edge — Amy had pulled him back.
 
-If not for that day, that lunch, he probably wouldn't have made it this far. Without Amy back then, without Master Marin, without his parents behind him, without Grede...
+If not for that day, that lunch, he probably wouldn't have made it this far. Without Amy back then, without Master Malin, without his parents behind him, without Grede...
 
 "Sweets are the healthiest way to restore mana." Amy scooped up a piece of cake and put it in her mouth, chewing as she spoke. "But in all my years in Dalaran, I'd almost forgotten Archmage Antonidas's advice."
 
@@ -98,7 +98,7 @@ Jace looked at the female mage, tapping his fingers on the table. Amy set down h
 
 "It has nothing to do with that Proudmoore girl." Jace said. "It has everything to do with Prince Arthas. Like you said, he's the heir to Lordaeron now, and a full member of the Silver Hand. Turalyon has some... concerns about him. So I need to help him figure out what's going on, see if there's something those paladins haven't noticed. He's Vereesa's brother-in-law. I need to be useful."
 
-"Marshal Turalyon?" Amy thought for a moment, then nodded. "Alright. I'll try to ask around a bit for you. But don't expect too much. I don't want to accidentally stumble into some mysterious political storm involving Kul Tiras and Lordaeron."
+"General Turalyon?" Amy thought for a moment, then nodded. "Alright. I'll try to ask around a bit for you. But don't expect too much. I don't want to accidentally stumble into some mysterious political storm involving Kul Tiras and Lordaeron."
 
 "It's probably nothing to do with politics." Jace waved a hand. "What kind of political problem could two teenagers arguing have?"
 
@@ -112,28 +112,10 @@ Jace looked at the female mage, tapping his fingers on the table. Amy set down h
 
 Just then, a golden-haired elven woman in a green dress appeared at the entrance. She looked around the room, then fixed her eyes directly on Jace.
 
-She looked almost ninety percent like Sorah's mortal form — but it wasn't Sorah. Jace was fairly certain this was a green dragon. She wasn't trying too hard to hide the draconic elements of her attire — scale-like patterns, claw-and-branch-inspired shoulder ornaments...
+She looked almost ninety percent like Sola's mortal form — but it wasn't Sola. Jace was fairly certain this was a green dragon. She wasn't trying too hard to hide the draconic elements of her attire — scale-like patterns, claw-and-branch-inspired shoulder ornaments...
 
-The young mages in the Blue Heron might not immediately connect this elven woman with a dragon, but considering what Jace had asked the Red Dragonqueen back at Grim Batol, it wasn't hard to guess.
+The young mages in the Blue Recluse might not immediately connect this elven woman with a dragon, but considering what Jace had asked the Red Dragonqueen back at Grim Batol, it wasn't hard to guess.
 
 Amy noticed Jace's suddenly strange expression and turned to look, also noting the somewhat unusual high elf. "Who is she?"
 
 "No idea." Jace said. "But I know she's here for Vereesa."
-
-Sure enough, Jace's guess was correct. The corrupted dragon that had been madly spreading mushrooms in the Black Morass was one of Emeriss's sisters.
-
-The green dragon continued, "I know many mortals consider you a shadow-wielding warlock. But I think whatever your purpose, whatever methods you used, you and Lady Vereesa Windrunner and Lord Grede Thunderfist saved the Emerald Dream."
-
-"Saved the Emerald Dream?" Amy glanced at Jace. "What does that mean?"
-
-"For years, the Emerald Dream has been corroded and infiltrated because of the decay of a World Tree. For a thousand years, most of my kin turned a blind eye to it... myself included." Emeriss's tone was quite serious. "And we all paid a heavy price for it. Countless young and even elder green dragons became severely corrupted — like our father and brother, Lord Eranikus, and your friend, Somniel, sister and daughter of Isendren. Our connection was severed at one point. We couldn't even hear the Queen's voice, because even the Queen of Dreams had fallen into an unending slumber."
-
-Father and brother, sister and daughter... Clearly, Lady Emeriss was even more matter-of-fact about her dragon-kind's tangled relationships than Sorah.
-
-Though, Jace understood that races that lived for tens of thousands of years probably had a different concept of ethics and family than mortals.
-
-"You never told me or Father about any of this," Amy said, leaning in.
-
-"Because saving the Emerald Dream wasn't really our achievement." Jace turned back to Emeriss. "It was Queen Alexstrasza, while injured, who risked herself to help her sister..."
-
-Emeriss smiled and shook her head. "But when almost every green dragon was unable to look outward..."

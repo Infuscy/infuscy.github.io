@@ -82,11 +82,11 @@ The fire didn't last long, though. Driven by elemental fire power, it burned for
 
 "Like that." Ruige stepped aside. "Let me see what you can do, Sesso. Since you want to learn fire magic, I'm guessing you've already got something up your sleeve."
 
-Jace didn't actually know any techniques for communicating with elementals. All he knew were the incantations the wizards of the Wizard Sanctum had taught him — the Scorch spell and Fireball.
+Jace didn't actually know any techniques for communicating with elementals. All he knew were the incantations the mages of the Wizard's Sanctum had taught him — the Scorch spell and Fireball.
 
 And of course there were Immolate and Searing Pain. Jace had those incantations memorized, but those fel-tainted fire spells… were clearly not suited for communicating with fire elementals.
 
-"Kimibomflosath!" Jace chanted the Scorch incantation, and a ball of flame exploded on the golem's shoulder!
+"Kibimofulosas!" Jace chanted the Scorch incantation, and a ball of flame exploded on the golem's shoulder!
 
 The whole golem shuddered with a boom, and a plate of iron clanged to the ground. Ruige raised his eyebrows in surprise. "That… caught me off guard."
 
@@ -94,7 +94,7 @@ The whole golem shuddered with a boom, and a plate of iron clanged to the ground
 
 Ruige said, "That's the Scorch incantation. I know that one too. Of course, I've got no talent for the arcane — I only learned it out of curiosity from those mages, and it took a hell of a lot of effort. But clearly, when you called on the arcane to guide the flame for you, the fire obeyed more than just the arcane's direction. I could feel the fire elementals willing to answer your call… how is that?"
 
-"Maybe I've got a talent for being a fire-tender," Jace said with a smile.
+"Maybe I've got a talent for being a pyromancer," Jace said with a smile.
 
 "Then there was a reason you came looking for us." Ruige nodded. "It's just that the fire elementals can't figure out your motives. They just sensed that you wanted them to appear, so they appeared — which is why that Scorch spell hit harder than expected! But they need to understand your intentions better. They need to understand what you're saying!"
 
@@ -110,7 +110,9 @@ Ruige frowned. "That shouldn't be. I can feel you really do have some kind of fl
 
 "What does this phrase mean?" Jace asked.
 
-"It makes your weapon burn with flame and imbues it with fire's power," Ruige explained. "I mean, what does the phrase itself mean, literally."
+"It makes your weapon burn with flame and imbues it with fire's power," Ruige explained.
+
+"I mean, what does the phrase itself mean, literally," Jace said.
 
 "Ah, right, I should have told you… It means — 'Flame, bless what I hold. Burn!'" Ruige clicked his tongue after he said it. "Saying it in Common really is embarrassing."
 
@@ -118,7 +120,7 @@ Ruige frowned. "That shouldn't be. I can feel you really do have some kind of fl
 
 He looked toward the window again, gazed at the firelight, and said with full sincerity, "Endur, vendal, milg, frag!"
 
-Suddenly he felt a violent surge of heat rush up from his waist. Skysong's scabbard was instantly incinerated, and the sword clattered to the ground. Jace dropped the iron staff and pulled the burning Skysong to him with a spell, slowly lifting it.
+Suddenly he felt a violent surge of heat rush up from his hip. Azuresong's scabbard was instantly incinerated, and the sword clattered to the ground. Jace dropped the iron staff and pulled the burning Azuresong to him with a spell, slowly lifting it.
 
 The blue sword was now wreathed in crimson fire — and not just a flash, but burning steadily. The contrast was so striking that it felt like something out of a dream.
 

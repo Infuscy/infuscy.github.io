@@ -1,6 +1,6 @@
 ## Chapter 1449: On Stage and Off
 
-"A Succubus from the Twisting Nether, who has captivated both evil and good with her beauty and elegance, and conquered arrogance and recklessness with her wings and blade."
+"A succubus from the Twisting Nether, who has captivated both evil and good with her beauty and elegance, and conquered arrogance and recklessness with her wings and blade."
 
 "An archmage from Dalaran, who has fought for hundreds and thousands of years to protect this world from darkness and corruption — and to this day, has never relented."
 
@@ -22,7 +22,7 @@ He looked at the entire audience. "We respect the wishes of everyone chosen. If 
 
 This was all too deliberate. He looked up to scan the second floor of the theater, trying to pick out from among the guests who was orchestrating all this. He was increasingly feeling like this trip to Karazhan was being arranged by someone.
 
-"We're willing!" Morofil raised her hand and shouted.
+"We're willing!" Morophil raised her hand and shouted.
 
 "Then please come backstage, three honored guests. Our staff will give you plenty of time to prepare..." Barnes strode dramatically to the edge of the stage, pointing at the passage they'd just tried to escape through.
 
@@ -40,13 +40,13 @@ While the ghostly attendant wasn't paying attention, he spoke as he gestured sub
 
 But that would have to wait until after the play ended. Canceling on the entire audience would stir up the whole of Karazhan.
 
-Khadgar stepped through the door. The impatient Morofil followed. Jace stepped in after them, but as one foot went through, something felt wrong. When he tried to step back, his foot landed in a pile of soft fallen leaves.
+Khadgar stepped through the door. The impatient Morophil followed. Jace stepped in after them, but as one foot went through, something felt wrong. When he tried to step back, his foot landed in a pile of soft fallen leaves.
 
 What the hell?
 
 Somehow, he was in a vast, unfamiliar forest.
 
-It was different from Elwynn, Tirisfal Glades, the Gnoll Woods, or any of the other forests he knew well. It also didn't look like the South Elwynn or Deadwind Pass that had been corrupted by Karazhan's dark energy.
+It was different from Elwynn, Tirisfal Glades, the Gnoll Woods, or any of the other forests he knew well. It also didn't look like southern Elwynn or Deadwind Pass that had been corrupted by Karazhan's dark energy.
 
 This felt more like the north — it reminded him of the forest at the border between Hillsbrad and the Hinterlands that he'd passed through with Grede on the way to Aerie Peak.
 
@@ -54,13 +54,13 @@ Everywhere were giant pine trees. Sunlight struggled through the tangled branche
 
 Before entering Karazhan, Jace had been prepared for the possibility of crossing between spaces. So suddenly finding himself in a strange place wasn't too shocking.
 
-But where was Morofil? Where was Khadgar?
+But where was Morophil? Where was Khadgar?
 
-At least he still had a soul link with Morofil. It meant the demon wasn't impossibly far away. He almost called out, but stopped himself.
+At least he still had a Soul Link with Morophil. It meant the demon wasn't impossibly far away. He almost called out, but stopped himself.
 
 Facing an unknown, deep forest, it was better to be cautious first.
 
-Through the soul link, he could sense Morofil's general direction. He headed that way.
+Through the Soul Link, he could sense Morophil's general direction. He headed that way.
 
 As he walked, he carefully observed everything in the forest. Maybe this was a dimension inside Karazhan, and everything around was real. But it could also be a complete illusion — meaning any accident could happen at any moment.
 
@@ -76,11 +76,11 @@ Especially since the stage manager Barnes's voice had been so clear just moments
 
 A silent forest. Occasional bird calls. The damp smell of decaying vegetation.
 
-He followed the soul link's sense for who knew how long. The sun set. The sky grew dark.
+He followed the Soul Link's sense for who knew how long. The sun set. The sky grew dark.
 
-Jace felt like the distance in the soul link was getting closer, the sense clearer. But it was still more exhausting than expected.
+Jace felt like the distance in the Soul Link was getting closer, the sense clearer. But it was still more exhausting than expected.
 
-Was Morofil fleeing from him? Why?
+Was Morophil fleeing from him? Why?
 
 Just when the monotonous dark woodland was starting to fatigue him and he was thinking of resting, a dark gray shadow flickered at the edge of his vision.
 

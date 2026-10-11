@@ -1,6 +1,6 @@
 ## Chapter 24: A Strange Scroll
 
-"It's not my blood, it's its." The dwarf moved closer to the wolf's head and looked for a moment. "This isn't an Elwynn wolf. This is an orcish warg. The orcs brought a lot of alien creatures from Draenor. The worst of the plague, besides ogres, were these wolves. There were no horses to ride on the other side of the Dark Portal, so the orcs rode these into battle."
+"It's not my blood, it's its." The dwarf moved closer to the wolf's head and looked for a moment. "This isn't an Elwynn wolf. This is an orcish worg. The orcs brought a lot of alien creatures from Draenor. The worst of the lot, besides the ogres, were these wolves. There were no horses to ride on the other side of the Dark Portal, so the orcs rode these into battle."
 
 Looking at the giant wolf lying on the ground, Jace gripped his axe. "Are its claws Evil Claws?"
 
@@ -10,7 +10,7 @@ Jace was just about to raise his axe and chop the claws off when a thought struc
 
 Whatever, chop them down first and figure it out later.
 
-Grede lifted the warg's upper jaw and examined its knife-like fangs, turning them back and forth.
+Grede lifted the worg's upper jaw and examined its knife-like fangs, turning them back and forth.
 
 "Tell me, Jace, what's it like over there?"
 
@@ -84,11 +84,11 @@ Jace picked it up and looked. Like before, he couldn't read a single word — bu
 
 It was a purple rune, shaped like the letter S and also like a bolt of lightning, with a sharp carving style like a stone glyph chiseled by a blade.
 
-There was a dot inside the upper curve of the S, giving the whole symbol a style that was dead ringers for the later Horde emblem.
+There was a dot inside the upper curve of the S, giving the whole symbol a style that was a dead ringer for the later Horde emblem.
 
 Jace kept feeling like he'd seen this symbol somewhere before — in the game… This was the Shadow Council's sigil.
 
-That's right — Outland in the level-70 version of The Burning Crusade, the shattered remnant of Draenor, the Draenei tombs of Auchindoun, the Shadow Labyrinth was full of purple banners hanging with this symbol. After all, that was one of the Shadow Council's main gathering points.
+That's right — Outland in the level-70 version of The Burning Crusade, the shattered remnant of Draenor, the draenei tombs of Auchindoun, the Shadow Labyrinth was full of purple banners hanging with this symbol. After all, that was one of the Shadow Council's main gathering points.
 
 This orc — was actually a member of the Shadow Council?
 
@@ -136,26 +136,6 @@ Jace looked at the scroll. "You think this scroll could be a letter from the orc
 
 "We'd better not jump to conclusions." Grede glanced at the scroll again. "How about we show it to your boss?"
 
-Jace didn't respond. He didn't know whether handing this scroll over to the Wizard Sanctum would be a good thing or a bad thing for him.
+Jace didn't respond. He didn't know whether handing this scroll over to the Wizard's Sanctum would be a good thing or a bad thing for him.
 
 He glanced toward the door. "We'd better get going. Any later and we won't make it back to Raven Hill before dark."
-
-## Flags
-
-- **座狼** → "warg": confirmed by Grede as an orcish mount from Draenor. Glossary lists 座狼 = Warg.
-- **德拉诺人 / 德拉诺矮人** → "Draenor-men / Draenor-dwarves": Grede's speculative terms for hypothetical native races of Draenor.
-- **恶魔语 / 兽人语** → "Demonic / Orcish": the two scripts Jace can't identify. Not in glossary as language names.
-- **语言学习书** → "language-learning book": Jace's guess at the second book's purpose (Orcish–Demonic primer).
-- **阿拉伯语** → "Arabic": Jace's analogy for a completely illegible script (modern transmigrator reference).
-- **暗影议会徽记** → "Shadow Council's sigil": the purple S-shaped rune on the scroll.
-- **燃烧远征** → "The Burning Crusade": the WoW expansion (Jace's game knowledge).
-- **70级版本** → "level-70 version": the TBC cap, Jace's frame of reference.
-- **奥金顿 / 德莱尼墓穴** → "Draenei tombs of Auchindoun": dungeon hub in Terokkar Forest. Not in glossary.
-- **暗影迷宫** → "Shadow Labyrinth": the Auchindoun dungeon where the Shadow Council's banners hang. Not in glossary.
-- **古尔丹** → "Gul'dan": founder of the Shadow Council. Not in glossary.
-- **黑手** → "Blackhand": Horde Warchief manipulated by Gul'dan. Not in glossary.
-- **萨格拉斯** → "Sargeras": the titan controlling Medivh. Not in glossary.
-- **麦迪文** → "Medivh": per glossary.
-- **部落徽记** → "Horde emblem": Grede's comparison for the symbol's style.
-- **担子** → "carrying pole": the repurposed staff used to haul the bag.
-- **巫师圣殿** → "Wizard Sanctum": per glossary; Grede suggests showing the scroll to Jace's boss there.

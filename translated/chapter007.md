@@ -4,19 +4,19 @@ That morning, Jace arrived at the Mage Quarter. After resting for a few days, he
 
 He still had some bruises on his face, and his walk was still a bit awkward, but at least he'd taken the bandages off his arm. On the surface, he looked like a normal person — a man ready to re-enter the land of the living.
 
-He came to the Mage Quarter and knocked on Eden Marin's door. Master Marin wasn't in; a young woman in her twenties was cleaning the room.
+He came to the Mage Quarter and knocked on Eden Malin's door. Master Malin wasn't in; a young woman in her twenties was cleaning the room.
 
-She glanced over. Her face was somewhat handsome, with clearly defined features, her dark-brown hair combed neatly back. The moment Jace saw her, she struck him as looking a lot like Marin.
+She glanced over. Her face was somewhat handsome, with clearly defined features, her dark-brown hair combed neatly back. The moment Jace saw her, she struck him as looking a lot like Malin.
 
 "Hello — you're Mr. Jace Sesso, aren't you? Father's away in the Redridge Mountains. He might be gone for a week. He mentioned you might be coming by soon, though he didn't mention you were so young…"
 
-"You're Master Marin's daughter?"
+"You're Master Malin's daughter?"
 
-"That's right. I'm Amy Marin, an apprentice mage at the Wizard Sanctum. Come to think of it, you ran into gnolls near Westfall Keep a few days ago, at night — is that true?"
+"That's right. I'm Amy Malin, an apprentice mage at the Wizard's Sanctum. Come to think of it, you ran into gnolls near Westbrook Garrison a few days ago, at night — is that true?"
 
-"It is. If it weren't for Master Marin, I might not be alive."
+"It is. If it weren't for Master Malin, I might not be alive."
 
-Amy Marin said with concern, "I didn't expect the gnolls to come back at a time like this. The orcs caused serious damage to their tribe when they invaded this land, and the gnolls benefited when the orcs were driven back. I never thought they'd turn around and attack us. Despicable."
+Amy Malin said with concern, "I didn't expect the gnolls to come back at a time like this. The orcs caused serious damage to their tribe when they invaded this land, and the gnolls benefited when the orcs were driven back. I never thought they'd turn around and attack us. Despicable."
 
 "Maybe their intelligence doesn't even reach the level of gratitude or cooperation," Jace said.
 
@@ -24,11 +24,11 @@ Amy Marin said with concern, "I didn't expect the gnolls to come back at a time 
 
 Watching Amy set down what she was holding and wash her hands in the basin nearby, Jace said, "Actually, I came today to discuss compensation."
 
-Amy dried her hands and asked, "You don't know the pay for a mage assistant at the Wizard Sanctum? Oh, right — you're from the north, aren't you? Your accent sounds like you're from the Kingdom of Lordaeron."
+Amy dried her hands and asked, "You don't know the pay for a mage assistant at the Wizard's Sanctum? Oh, right — you're from the north, aren't you? Your accent sounds like you're from the Kingdom of Lordaeron."
 
 Jace hummed an acknowledgment. When he'd first arrived in this world, he'd learned Common carrying memories of Chinese and English, and he'd gone to some trouble to avoid a strange accent. Back then, he never would've expected that when he grew up, everyone could tell he was from Lordaeron just by his voice.
 
-Amy said, "Then let me give you a brief rundown and see what you think. Six silver a month. For meals, you can eat in the Wizard Sanctum's dining hall alongside the mages. As for housing, the Mage Quarter has free dormitories for apprentices and assistants. They've been full this whole time, but because of the Expedition, some apprentices followed their mentors to Nethergarde Keep, so there might be openings. I'll keep an eye out for you. You could move in as early as next month."
+Amy said, "Then let me give you a brief rundown and see what you think. Six silver a month. For meals, you can eat in the Wizard's Sanctum's dining hall alongside the mages. As for housing, the Mage Quarter has free dormitories for apprentices and assistants. They've been full this whole time, but because of the Expedition, some apprentices followed their mentors to Nethergarde Keep, so there might be openings. I'll keep an eye out for you. You could move in as early as next month."
 
 "Thank you — I really appreciate it."
 
@@ -52,7 +52,7 @@ Cleaning a study and dusting — none of that was a problem for Jace. Back in mi
 
 "No problem at all, ma'am." Jace couldn't help but ask, "Actually, I wanted to know — when can I become an apprentice?"
 
-"Apprentice?" Amy blinked. "You mean… a mage apprentice at the Wizard Sanctum? Becoming my father's apprentice?"
+"Apprentice?" Amy blinked. "You mean… a mage apprentice at the Wizard's Sanctum? Becoming my father's apprentice?"
 
 "Yes."
 
@@ -60,7 +60,7 @@ Cleaning a study and dusting — none of that was a problem for Jace. Back in mi
 
 Hearing Amy say it so matter-of-factly, Jace felt like he'd been struck by lightning. How was it possible that becoming a mage's assistant didn't lead to becoming an apprentice? What kind of logic was that?
 
-So that was how it was. So that was the reason he'd been hired — Marin just wanted someone to do manual labor. He wasn't looking for a disciple at all.
+So that was how it was. So that was the reason he'd been hired — Malin just wanted someone to do manual labor. He wasn't looking for a disciple at all.
 
 Then why ask all those mystic-sounding questions? Jace felt like he'd been cheated, though it was a weird thing to feel toward an old man.
 
@@ -68,9 +68,9 @@ Seeing the boy looked rather surprised, Amy asked, "How old are you?"
 
 "Seventeen. Almost eighteen."
 
-Amy shook her head. "To become a magic apprentice, training either starts at a very young age — you'd need to enroll around eleven or twelve. If you're your age now and don't have extraordinary talent, it might already be too late to train into a qualified mage. I started studying at the Wizard Sanctum at twelve, on my father's instructions. I'm twenty-six now and still haven't become a full mage. If I haven't earned my advancement by thirty, Father will probably be disappointed."
+Amy shook her head. "To become a magic apprentice, training either starts at a very young age — you'd need to enroll around eleven or twelve. If you're your age now and don't have extraordinary talent, it might already be too late to train into a qualified mage. I started studying at the Wizard's Sanctum at twelve, on my father's instructions. I'm twenty-six now and still haven't become a full mage. If I haven't earned my advancement by thirty, Father will probably be disappointed."
 
-She sighed and went on. "But there are plenty of apprentice mages in their thirties at the Wizard Sanctum — the vast majority of them became apprentices before fifteen."
+She sighed and went on. "But there are plenty of apprentice mages in their thirties at the Wizard's Sanctum — the vast majority of them became apprentices before fifteen."
 
 "What if," Jace said, "and I mean what if — I have very strong talent? Exceptionally strong."
 
@@ -106,7 +106,7 @@ The ley lines could be understood as Azeroth's blood vessels.
 
 Azeroth was actually an unborn, infant Titan. The blood flowing through a Titan's veins wasn't blood at all — it was extraordinarily pure arcane energy.
 
-The Well of Eternity that the ancient elves guarded was a wound accidentally inflicted by Aman'Thul, leader of the Pantheon and Father of Gods, when he tried to remove a parasitic evil aberration from Azeroth's body.
+The Well of Eternity that the ancient elves guarded was a wound accidentally inflicted by Aman'Thul, Highfather of the Pantheon, when he tried to remove a parasitic evil aberration from Azeroth's body.
 
 It could be said that every living being born on Azeroth was affected by the ley lines to varying degrees, and those beings capable of harnessing the ley lines would in turn influence the ley lines — and Azeroth itself.
 
@@ -142,7 +142,7 @@ He realized the mage path was most likely a dead end.
 
 "Thank you, Miss Amy," Jace said. "Honestly, I didn't necessarily want to become an apprentice just to learn magic. I just wanted to broaden my horizons and learn things I didn't know."
 
-Amy narrowed her eyes and smiled. "I'm glad to hear you say that. The library is open to everyone who works in the Mage Quarter. Come here this afternoon and I'll give you an identification badge. With this badge, you'll have free access to the Wizard Sanctum."
+Amy narrowed her eyes and smiled. "I'm glad to hear you say that. The library is open to everyone who works in the Mage Quarter. Come here this afternoon and I'll give you an identification badge. With this badge, you'll have free access to the Wizard's Sanctum."
 
 "Wonderful. That's exactly what I was hoping for."
 
@@ -151,12 +151,3 @@ Even as he said it, an idea had already surfaced in his mind. He needed to go to
 He'd go again and again and again — not just to earn money, but for something far more important.
 
 Dark magic wasn't the Arcane. Just as Amy had said, "dark magic accepts anyone willing to accept it."
-
-## Flags
-
-- 魔网: rendered as "ley lines" (standard WoW term for the planet's arcane network; not in glossary).
-- 奥术智慧 (BUFF): rendered as "Arcane Intellect" (standard WoW mage buff; not in glossary).
-- Canonical WoW proper nouns not in glossary: Well of Eternity, the Pantheon, Aman'Thul, Guardian of Tirisfal, Sargeras.
-- 卫生委员: rendered as "sanitation monitor" (Chinese school role; approximate equivalent).
-- 升阶: rendered as "advancement" (mage rank progression at the Wizard Sanctum; not in glossary).
-- 见习法师: glossary has 见习法师 = Apprentice Mage, but Amy is specifically an "apprentice mage at the Wizard Sanctum" — kept consistent with glossary.

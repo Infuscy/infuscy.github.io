@@ -2,13 +2,13 @@
 
 One green and one black young dragon flew over Baron Silverlaine's castle. The wind from their wings pressed down the treetops. But not a single guard, passing caravan, or patrolling cavalryman looked up.
 
-Well, maybe someone did look up. Jace couldn't tell. The Dream Pendant of Queen Ysera made everything outside itsscope hazy — like looking through a water's surface, only able to make out outlines.
+Well, maybe someone did look up. Jace couldn't tell. The Dream Pendant of Queen Ysera made everything outside its scope hazy — like looking through a water's surface, only able to make out outlines.
 
-Sora channeled the pendant's magic from the lead. Needleflame stayed close behind to remain within the pendant's cover and keep her invisibility. The vast Silverpine Forest provided unimaginable power for the pendant.
+Sola channeled the pendant's magic from the lead. Needleflame stayed close behind to remain within the pendant's cover and keep her invisibility. The vast Silverpine Forest provided unimaginable power for the pendant.
 
 Add in the fact that a real green dragon was activating it — the area it covered and the invisibility effect from the dream energy were even stronger than when they'd used it to avoid black dragon scouts in Dustwallow Marsh.
 
-Unless these Gilneans were more sensitive to dragon magic than Onyxia's dragonman guards, they wouldn't see a thing.
+Unless these Gilneans were more sensitive to dragon magic than Onyxia's dragonkin guards, they wouldn't see a thing.
 
 Jace wondered if Aegwynn happened to be nearby again, would she still be able to strip their illusion at a glance?
 
@@ -26,13 +26,13 @@ This wasn't Jace's first time in Ambermill, so he wasn't completely unfamiliar w
 
 Seeing large clearings among the pines ahead meant the logging camp wasn't far. Blurred purple and blue figures on the road were becoming more frequent. Ambermill was close.
 
-The two dragons landed in a dense pine forest. After making sure no hunters or passing woodcutters were around, they let Jace and the others dismount and dropped the Dream Pendant's veil. Without Morofil around, quietly dealing with an innocent witness would be much more troublesome.
+The two dragons landed in a dense pine forest. After making sure no hunters or passing woodcutters were around, they let Jace and the others dismount and dropped the Dream Pendant's veil. Without Morophil around, quietly dealing with an innocent witness would be much more troublesome.
 
 "We only have one polymorph stone left." Grede said. "And it doesn't have much power. No lava around either... Not sure why it ran out so fast this time."
 
 "Maybe turning a Wildhammer into a Dark Iron dwarf didn't use that much energy," Jace said, "but turning one into a tauren would be different."
 
-"No, no, Wildhammer to Dark Iron would take way more energy." Grede said. "There's a fundamental difference between us and those shameless bastards. Maybe they're not even descendants of the mountain and the earth. Maybe Kaz'goroth the Mountain Lord slept with one of Ragnaros's daughters or something..."
+"No, no, Wildhammer to Dark Iron would take way more energy." Grede said. "There's a fundamental difference between us and those shameless bastards. Maybe they're not even descendants of the mountain and the earth. Maybe Khaz'goroth the Mountain Lord slept with one of Ragnaros's daughters or something..."
 
 "All that storytelling won't restore any mana to this stone." Vereesa said. "And were you planning to walk into Ambermill as a Dark Iron dwarf? People's minds have opened up a lot since the Dark Portal, but not that much."
 
@@ -54,9 +54,9 @@ The two dragons landed in a dense pine forest. After making sure no hunters or p
 
 "Jace..." The green dragon behind him sighed.
 
-"Sorry, Sora." Jace glanced back.
+"Sorry, Sola." Jace glanced back.
 
-"I'm fine." Vereesa expertly tied on a face veil, then pulled up her hood. Many rangers operating around Lake Lordamere dressed like this. They didn't usually like dealing with humans, so a mask wasn't particularly suspicious.
+"I'm fine." Vereesa expertly tied on a face veil, then pulled up her hood. Many rangers operating around Lordamere Lake dressed like this. They didn't usually like dealing with humans, so a mask wasn't particularly suspicious.
 
 "Thank the Light for Lordaeron's cool summer weather," Jace said. "Otherwise your hair would be stuck to your face in no time in that getup."
 
@@ -66,13 +66,13 @@ The two dragons landed in a dense pine forest. After making sure no hunters or p
 
 "Quel'Thalas silver hair is more common than you think." Vereesa said.
 
-Sora lowered her head and asked, "Should I take human form or quel'dorei form? I'm quite skilled at human form now. I don't think anyone in Dalaran except Prince Korialstrasz could easily tell... and he should be in Northrend by now."
+Sola lowered her head and asked, "Should I take human form or Quel'dorei form? I'm quite skilled at human form now. I don't think anyone in Dalaran except Prince Korialstrasz could easily tell... and he should be in Northrend by now."
 
-"Don't, Sora." Vereesa said. "Stay as quel'dorei."
+"Don't, Sola." Vereesa said. "Stay as Quel'dorei."
 
-"Won't quel'dorei stand out too much?" Jace asked.
+"Won't Quel'dorei stand out too much?" Jace asked.
 
-"Sora's human form is plenty eye-catching too, Jace Sesso. You're a human male — you should know that better than I do." The ranger crossed her arms. "Besides, in Lordaeron, two quel'dorei walking around together is much more normal than one. The Farstriders here always patrol in pairs or threes."
+"Sola's human form is plenty eye-catching too, Jace Sesso. You're a human male — you should know that better than I do." The ranger crossed her arms. "Besides, in Lordaeron, two Quel'dorei walking around together is much more normal than one. The Farstriders here always patrol in pairs or threes."
 
 "Alright then." The green dragon kicked up a cloud of pink mist like moth dust. When it cleared, she was back in elven form.
 
@@ -90,15 +90,15 @@ The mist hadn't just taken the green dragon — the black dragon was gone too. N
 
 "Then why's your human mom so pale?" Grede's eyes went wider.
 
-"Uh." Needleflame faltered, looking at Sora. "How do I get lighter, Sora?"
+"Uh." Needleflame faltered, looking at Sola. "How do I get lighter, Sola?"
 
-"Belly." Sora patted her own belly quietly. "The color's lighter there."
+"Belly." Sola patted her own belly quietly. "The color's lighter there."
 
 Jace, Grede, and Vereesa all froze. What the hell?
 
 "Isn't it about transformation? What's the belly got to do with it?" Grede asked.
 
-But Sora and Needleflame seemed to have completely ignored the dwarf's question. More importantly, Needleflame didn't find anything strange about it at all. She nodded, and suddenly she was surrounded by sand.
+But Sola and Needleflame seemed to have completely ignored the dwarf's question. More importantly, Needleflame didn't find anything strange about it at all. She nodded, and suddenly she was surrounded by sand.
 
 When the sand cleared, her skin really had gotten lighter... well, more yellow. Lighter, anyway. At least not as dark as before.
 

@@ -10,7 +10,7 @@ And yet she was genuinely an ancient elder who had lived for ten thousand years.
 
 During the War of the Ancients she had been a young elf maiden whose experience and combat skill might not have matched even Vereesa's today, but now she was one of the very few beings left in this world who had witnessed the Sundering with her own eyes.
 
-Compared to her, even the Sunstrider King Anasterian — whose lifespan was already beyond human imagination — was merely a junior who had appeared who-knows-how-many years later.
+Compared to her, even the King Anasterian Sunstrider — whose lifespan was already beyond human imagination — was merely a junior who had appeared who-knows-how-many years later.
 
 At first she seemed slightly wary of Jace's dark power, then her attention shifted to the dwarf and the tauren beside him, but soon enough she focused entirely on Vereesa.
 
@@ -34,7 +34,7 @@ Vereesa standing in the middle looked distinctly out of place. The leaf patterns
 
 Vereesa explained to Shandris the purpose of their visit, including the whole process of entering Maraudon to investigate demons and then escaping — while naturally leaving out a great many details concerning Jace's demonic servants.
 
-When she finished, Shandris Feathermoon let out a long sigh. "The children of Cenarius have long wished to enter the centaur-guarded sacred tomb to seek traces of his eldest son, Zaetar, and they hoped for our help. But for ages we have respected the High Priestess's counsel and had no contact or involvement with the centaur. Though the forest guardians have shown full understanding of this, I have always felt a measure of personal regret. So in helping Celebras to some degree, I thank you as well."
+When she finished, Shandris Feathermoon let out a long sigh. "The children of Cenarius have long wished to enter the centaur-guarded sacred tomb to seek traces of his eldest son, Zaetar, and they hoped for our help. But for ages we have respected the High Priestess's counsel and had no contact or involvement with the centaur. Though the keepers of the grove have shown full understanding of this, I have always felt a measure of personal regret. So in helping Celebras to some degree, I thank you as well."
 
 Now Jace roughly understood why Mosa had been largely silent and in poor spirits ever since her capture.
 
@@ -58,30 +58,12 @@ But clearly they had also known that this seal would one day fail, and so they b
 
 At this moment, there was probably no group in the entire world that understood the Qiraji better than the night elves.
 
-Just as Jace was considering whether to ask General Shandris Feathermoon about the insects, Vereesa brought up Dathmora Darkeye.
+Just as Jace was considering whether to ask General Shandris Feathermoon about the insects, Vereesa brought up Dasmora Darkeye.
 
-"Dathmora." Shandris repeated the name softly. "I know that name, but I'm afraid I cannot offer you much information, friends."
+"Dasmora." Shandris repeated the name softly. "I know that name, but I'm afraid I cannot offer you much information, friends."
 
 "Any scrap you can share, lady elf," Grede said eagerly.
 
 Shandris glanced at the dwarf. She did not take offense the way Vereesa did when someone called her "elf." "For a long time now we have been tracking the Kaldorei who fled Eldre'Thalas — especially members of the Shen'dralar."
 
 "Shen'dralar?" Grede asked. "What's that?"
-
-## Flags
-
-- **Line number discrepancy**: The user's brief said "verify line 33356 = 第581章", but line 33356 is actually **第582章 失踪的辛德拉**. The real 第581章 哨兵统帅 starts at line 33318. Translated the correct chapter (581) starting from line 33318.
-- **Shandris Feathermoon**: Canonical WoW name for 珊蒂斯·羽月. The glossary does not list her explicitly, but she is a well-known canon character — leader of the Sentinel Corps in Feathermoon Stronghold.
-- **Vereesa Windrunner**: Canonical WoW name for 温蕾萨·风行者 (the third Windrunner sister). Not in the glossary table but firmly canonical.
-- **Shen'dralar**: Canonical WoW name for 辛德拉 — the Highborne group that ruled Eldre'Thalas (Dire Maul).
-- **Eldre'Thalas**: Canonical name for 埃雷萨拉斯 (Dire Maul).
-- **Dathmora Darkeye**: OC character (达斯莫拉·暗眼). Transliterated; no canonical equivalent found.
-- **Celebras / Zaetar**: Canonical WoW characters (塞雷布拉斯 / 扎尔塔) from the Maraudon questline.
-- **Dath'Remar Sunstrider**: Canonical founder of Quel'Thalas (达斯雷玛·逐日者).
-- **Farstriders**: Canonical name for 远行者 — the ranger corps of Quel'Thalas.
-- **Sunstrider King Anasterian**: 太阳王安纳斯特里亚·逐日者 — canonical ruler of Quel'Thalas during the Second War.
-- **Silithus / Qiraji / Scarab Wall / Cenarion Hold / Ahn'Qiraj**: All canonical War of the Shifting Sands terminology.
-- **Ursula**: From glossary — OC alchemist/warlock who sent Jace to find Qiraji specimens.
-- **Mosa**: 莫萨 — the tauren companion. Glossary does not list her surname; kept as "Mosa".
-- **"Lady elf"**: Grede's familiar address — kept in his bluff dwarven register, contrasting with Vereesa's irritation at being called "elf".
-- **POV**: Rendered throughout in third person per the style guide.

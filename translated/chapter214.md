@@ -36,7 +36,7 @@ Vereesa nodded. "Jace… how is your friend, Grede Thunderfist?"
 
 "You can probably guess," Vereesa said. "I'm here because of that letter. I'm investigating the recipient of the order — a Horde member named Angor Mokargel. I need some relevant leads. At present, you could say we know absolutely nothing about him besides his name."
 
-Jace said, "Judging by how orcs use surnames, I'd say his surname is probably closer to 'Death's Wish' or 'Lethal Will' — that Mokargel part."
+Jace said, "Judging by how orcs use surnames, I'd say his surname is probably closer to 'Deathwish' or 'Lethal Will' — that Mokargel part."
 
 "I don't care how orcs name themselves," Vereesa said in a low voice. "I only care about how to find him."
 
@@ -62,7 +62,7 @@ He picked his up and drank half in one go, catching the corner of his eye as the
 
 The look Vereesa fixed on that serving girl was cold and wary, reminding Jace of the first time he'd met her in that Dalaran tavern.
 
-Seeing Jace set his glass down, the elf asked again: "So about this recipient — do you have any more leads? After all, you were the first person in the Alliance of Lordaeron to get that letter. Things like his identity, his strength, where he might be hiding. Should I head straight to Deadwind Pass to investigate the missing orc spellcaster — or an undead human? I imagine he could very well be hiding in the Blackmarsh too."
+Seeing Jace set his glass down, the elf asked again: "So about this recipient — do you have any more leads? After all, you were the first person in the Alliance of Lordaeron to get that letter. Things like his identity, his strength, where he might be hiding. Should I head straight to Deadwind Pass to investigate the missing orc spellcaster — or an undead human? I imagine he could very well be hiding in the Black Morass too."
 
 Hearing that, Jace scratched his head — he'd completely forgotten the lie he'd told at that meeting. What a headache.
 
@@ -72,27 +72,27 @@ Hearing that, Jace scratched his head — he'd completely forgotten the lie he'd
 
 The elf said that, then glanced at the biscuits that had just been set on the table. "May I…"
 
-"Go ahead," Jace said. "Also, there's another related lead I'm fairly concerned about — the werewolf legends of Duskwood."
+"Go ahead," Jace said. "Also, there's another related lead I'm fairly concerned about — the worgen legends of Duskwood."
 
-"Werewolves?" Vereesa had just bitten into a biscuit and caught the crumbs with her hand. She was clearly surprised, and hesitated. "Humans have werewolf legends too?"
+"Worgen?" Vereesa had just bitten into a biscuit and caught the crumbs with her hand. She was clearly surprised, and hesitated. "Humans have worgen legends too?"
 
-Jace explained: "Always have — though mostly they're just parents scaring their kids into behaving. But in Duskwood, people really have seen strange things appear. Still, neither the Wizard Sanctum's investigation nor the local sheriff's investigation has turned up any solid evidence connected to werewolves."
+Jace explained: "Always have — though mostly they're just parents scaring their kids into behaving. But in Duskwood, people really have seen strange things appear. Still, neither the Wizard's Sanctum's investigation nor the local sheriff's investigation has turned up any solid evidence connected to worgen."
 
-"I've always suspected it might just was a death knight showing his face — using shadow magic to harm a local, clouding his senses so he'd forgotten what the attacker looked like, something like that… Of course that's just a personal guess, because the features match — tall, built more like a human than an orc but hunched over when he walks, and wielding shadow magic and the like. If it's not an actual werewolf, then aside from a death knight I don't think there are many other possibilities. What do you think?"
+"I've always suspected it might just have been a death knight showing his face — using shadow magic to harm a local, clouding his senses so he'd forgotten what the attacker looked like, something like that… Of course that's just a personal guess, because the features match — tall, built more like a human than an orc but hunched over when he walks, and wielding shadow magic and the like. If it's not an actual worgen, then aside from a death knight I don't think there are many other possibilities. What do you think?"
 
 "That does sound suspicious." Vereesa brushed the chocolate from her lips. "Did you ever try tracking down that fellow yourself?"
 
 "I was curious — after all, I tried translating that letter myself too," Jace said, shoving an entire biscuit into his mouth. "It's just that I don't have the ability to actually go looking. I've got to study magic, and I've got my own work. I couldn't handle a death knight like that on my own either, so I only spared it some spare time. That's about as far as it goes for now… no other leads."
 
-"Duskwood, South Elwynn, werewolf legends… I understand."
+"Duskwood, South Elwynn, worgen legends… I understand."
 
 Vereesa asked, "About how far is that from here?"
 
-"About a hundred or two hundred miles to the south — still the Kingdom of Stormwind's territory. But if you want to go, either take the crossroads through Redridge or go through Westfall. Don't try to cross the Nafeltari River in a straight line — there are no post stations or villages along the way, and it'd be far more dangerous."
+"About a hundred or two hundred miles to the south — still the Kingdom of Stormwind's territory. But if you want to go, either go by way of Three Corners in Redridge or go through Westfall. Don't try to cross the Nazferiti River in a straight line — there are no post stations or villages along the way, and it'd be far more dangerous."
 
-"Thank you for the advice," Vereesa said. "The seat of government there — it's called Gran Town, if I remember the location correctly."
+"Thank you for the advice," Vereesa said. "The seat of government there — it's called Grand Hamlet, if I remember the location correctly."
 
-Jace found the word "seat of government" (首府) a bit jarringly exotic, but he nodded. "Most people call it Duskwood Town now. If you're going to start your investigation over there, you'd be better off taking the Redridge road — going west would be a big detour. Did you come here on your own?"
+Jace found the phrase "seat of government" a bit jarringly exotic, but he nodded. "Most people call it Darkshire now. If you're going to start your investigation over there, you'd be better off taking the Redridge road — going west would be a big detour. Did you come here on your own?"
 
 "Alone," Vereesa said. "I don't want anyone else involved in this matter."
 
@@ -110,9 +110,9 @@ Vereesa said, "I still remember that wound… If it's recovered this well, it me
 
 "Thanks — not many people have ever complimented my build." Jace asked, "And you? I never actually got to ask — I remember you seemed to be injured fighting Gorefiend too."
 
-"He was only his shadow magic grazing me — nothing serious. It healed completely in Dalaran," Vereesa answered. "Otherwise, Sylvanas wouldn't have allowed me to come alone to the south this far."
+"It was only his shadow magic grazing me — nothing serious. It healed completely in Dalaran," Vereesa answered. "Otherwise, Sylvanas wouldn't have allowed me to come alone to the south this far."
 
-The two of them chatted a bit more after that about Quel'Danas. Jace felt like there was still something she hadn't said, but it probably didn't concern him much.
+The two of them chatted a bit more after that about Quel'Danil. Jace felt like there was still something she hadn't said, but it probably didn't concern him much.
 
 They'd just about finished eating and were preparing to settle the bill when Vereesa suddenly said: "Actually, Jace, there's one more thing I'd like to ask you for help with."
 
@@ -128,11 +128,11 @@ Jace had been about to ask how a Windrunner could possibly not know anyone — t
 
 So… a place to stay… a place… a house… Never mind Vereesa, an outsider who'd barely spent any time in the human world — Jace had lived here for over two years and the thought still gave him a headache.
 
-Even Grede had to plan half a month ahead to find a place, and that was with connections in the Dwarf District. How was Jace supposed to find a suitable room in the city in a short time?
+Even Grede had to plan half a month ahead to find a place, and that was with connections in the Dwarven District. How was Jace supposed to find a suitable room in the city in a short time?
 
 And it had to be a safe place to stay… Besides — was it really safe?
 
-He was about to say he truly couldn't help, then remembered that as an apprentice he should be able to get a single apartment in the Mage Quarter. He could ask Amy Marin to help him find a vacant room.
+He was about to say he truly couldn't help, then remembered that as an apprentice he should be able to get a single apartment in the Mage Quarter. He could ask Amy Malin to help him find a vacant room.
 
 Actually, logically speaking, as an apprentice he should have a small single room reserved for him in the new school year. He could ask about it when he went to register at the Academy.
 
@@ -152,11 +152,11 @@ Hearing Jace's words, Vereesa fell silent for a moment.
 
 "Three days?!" Jace was shocked. "Aren't you tired?"
 
-Vereesa said, "I don't need as much sleep as a dwarf, but I'm really at my limit… According to the information they gave me, you should have returned to Stormwind long ago — but that turned out to be Instructor Dushan's arrival time. You weren't on the ship at all. So I came a few days early and never found a suitable place to rest either."
+Vereesa said, "I don't need as much sleep as a dwarf, but I'm really at my limit… According to the information they gave me, you should have returned to Stormwind long ago — but that turned out to be Master Dushan's arrival time. You weren't on the ship at all. So I came a few days early and never found a suitable place to rest either."
 
 "I went to the Hinterlands…" Jace said.
 
-Vereesa rubbed her forehead. "It was only after I saw Instructor Dushan that I remembered that."
+Vereesa rubbed her forehead. "It was only after I saw Master Dushan that I remembered that."
 
 "Then… come with me. I'll take you to ask. Do you want this drink?"
 
@@ -170,33 +170,8 @@ Jace picked up the hot apple cider and downed it in a few gulps, paused to catch
 
 "The hot apple cider is two silver and forty copper."
 
-"Ah? Are the apples made of silver or the ale made of silver?"
+"Ah? Are the apples made of silver, or is it the cider?"
 
 Jace shot a glance at the bewildered-looking Vereesa beside him, then swallowed the rest of his anger.
 
 "Fine, fine…" He pulled out three silver and a handful of copper and set them on the table. "Let's go."
-
-## Flags
-
-- **Title:** 独行者 — "Lone Wanderer" (Vereesa operating solo under a false identity).
-- **兜帽:** hood — Vereesa keeping a low profile.
-- **酒侍:** serving girl — the tavern staff member is female; Vereesa's wariness toward her mirrors their first meeting in Dalaran.
-- **热苹果 cider / 杏仁巧克力饼 / 盐薄饼 / 甜奶酪:** hot apple cider / almond chocolate biscuits / salt wafers / sweet cheese — period-appropriate tavern fare.
-- **格瑞德·雷拳:** Grede Thunderfist (glossary: Thunderfist is Grede's family name).
-- **安高尔·莫卡格尔:** Angor Mokargel — transliterated; OC Horde member. Jace interprets 莫卡格尔 as "Death's Wish" / "Lethal Will" — flagged as his speculative etymology, not confirmed lore.
-- **死亡之愿 / 致死意志:** "Death's Wish" / "Lethal Will" — Jace's guesses at the orcish meaning of Mokargel.
-- **遗物学会:** the Reliquary (Jace's guess, flagged).
-- **逆风小径 / 黑色沼泽:** Deadwind Pass / the Blackmarsh — Vereesa's suggested search areas. Blackmarsh is not a canonical location to my knowledge; rendered literally and flagged.
-- **暮色森林 / 南艾尔文:** Duskwood / South Elwynn — Jace redirects Vereesa here.
-- **狼人:** werewolves — Jace's theory ties the Duskwood sightings to a death knight.
-- **太阳之井:** the Sunwell (glossary) — healed Vereesa's wound.
-- **席尔瓦娜斯 / 希尔瓦娜斯:** Sylvanas — variant transcription of Sylvanas Windrunner.
-- **奎尔丹尼:** Quel'Danas — the isle of the Sunwell; rendered per context.
-- **格兰镇 / 夜色镇:** Gran Town / Duskwood Town — Vereesa recalls the old name "Gran Town"; Jace says it's now called Duskwood Town (canonical: Darkshire is Duskwood's main settlement). Flagged — "Gran Town" may be an OC/older name.
-- **赤脊山的三岔道:** the crossroads through Redridge.
-- **西部荒野:** Westfall (glossary).
-- **纳菲瑞提河:** the Nafeltari River (glossary: tentative, TODO verify canonical name).
-- **卡罗·杜尚:** Caro Dushan (glossary).
-- **辛特兰:** the Hinterlands (glossary).
-- **Hot apple cider price:** 2 silver 40 copper — deliberately inflated; Jace's haggling kept for humor.
-- **Note on Vereesa's mission:** she's tracking the recipient of the order Jace previously translated — connects to the ongoing Horde-remnant plotline.

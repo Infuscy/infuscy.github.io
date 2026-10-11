@@ -81,11 +81,3 @@ He had to progress one step at a time, patiently. Grede was willing to teach him
 Thanks to years of labor and work, Jace's physical condition was decent enough, so he imitated Grede's movements with reasonable accuracy.
 
 Watching Jace earnestly go through the motions, Grede couldn't help but laugh. "That's it, that's it — now you're getting somewhere, my little Jace. Once you've got these movements down, I'll teach you a few more, and then you can practice on your own whenever you like. I won't have to watch you every single night — you'd better keep at it for me!"
-
-## Flags
-
-- **"The other sword"** — Grede's euphemism (he pats his crotch); rendered literally as "the other sword" to preserve the joke's indirection.
-- **"Pointy-ears"** — Grede's colloquial jab at elves; kept the dwarf-register insult.
-- **Mongooses** — simile for elves/trolls darting around; "six-foot mongooses" preserves the Chinese image (猫鼬).
-- **"Hagga, hagga!"** — the gnoll chief's battle cry; kept as-is since it's in-game gnoll vocalization.
-- **"Beating themselves stupid"** — colloquial rendering of Grede's phrasing about Blackrock vs. Dark Iron fighting.

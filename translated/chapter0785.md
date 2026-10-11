@@ -1,6 +1,6 @@
 ## Chapter 785: The Sword's Master
 
-To master the elemental language in this book, Jace needed to learn Dwarvish first. By now, he was already proficient in Orcish, Common, and Eredun, could communicate in simple Dragon tongue, and — because there were so few ways to record and study it — could only read simple texts in Eredun on specific subjects.
+To master the elemental language in this book, Jace needed to learn Dwarvish first. By now, he was already proficient in Orcish, Common, and Demonic, could communicate in simple Draconic, and — because there were so few ways to record and study it — could only read simple texts in Ered'ruin on specific subjects.
 
 But through learning these completely different languages, Jace had picked up a few tricks. By his own estimate, he could probably get the basics of a new language down in about three months.
 
@@ -14,7 +14,7 @@ There should be enough time on the ship to Kalimdor for further study. He'd have
 
 But this elemental language tome — Ruige refused to lend it out. What was he supposed to do?
 
-After about a week of searching and asking around, he bought a copy of *Drokeken Goldbeard's Khaz Modan Runes* from a dwarven scholar for twenty silver. It wasn't an uncommon dwarven dictionary among Ironforge's intellectuals. But the most important thing was that this book had Common annotations written in it by several of its previous owners. So despite the high price, Jace bit the bullet and bought it.
+After about a week of searching and asking around, he bought a copy of *Droken Goldbeard's Khaz Modan Runes* from a dwarven scholar for twenty silver. It wasn't an uncommon dwarven dictionary among Ironforge's intellectuals. But the most important thing was that this book had Common annotations written in it by several of its previous owners. So despite the high price, Jace bit the bullet and bought it.
 
 When he got back to the Thorium Brotherhood and headed downstairs, Ruige was still going at it with his succubus.
 
@@ -36,11 +36,11 @@ Ruige buttoned his shirt one button at a time as he said, "Have you considered, 
 
 "There's a first time for everything," Jace said.
 
-"Impossible." Ruige shook his head like a rattle-drum. "At least, I can't make that call." Then his eyes flicked to Jace's waist. "Alright, I'm heading to the Great Forge."
+"Impossible." Ruige shook his head vigorously. "At least, I can't make that call." Then his eyes flicked to Jace's hip. "Alright, I'm heading to the Great Forge."
 
 "What about it?" Jace touched his new scabbard. "You interested in this?"
 
-Ruige put on an air of indifference. 'Interested? Not exactly. But the enchantment on that sword of yours is genuinely interesting. The Wizard Sanctum's enchantment work is at a much higher level than I expected."
+Ruige put on an air of indifference. "Interested? Not exactly. But the enchantment on that sword of yours is genuinely interesting. The Wizard's Sanctum's enchantment work is at a much higher level than I expected."
 
 "It's not an enchantment," Jace said. "This sword… is just like that."
 
@@ -50,9 +50,9 @@ Jace put his hand on the elemental language book. "I'll tell you. And you lend m
 
 "Damn it, my god, you…" The Dark Iron dwarf covered his face. "Tell me first where you got this sword. Let me see if the information about this sword is really worth the risk I'd be taking."
 
-"Have you heard of Skysong?" Jace asked.
+"Have you heard of Azuresong?" Jace asked.
 
-"What absolute nonsense." There was even a note of anger in Ruige's voice. "Skysong is an elven treasure — a legendary gift from the blue dragons to Quel'Thalas! How could it possibly be in your hands? Fine, I admit this sword does look a bit like the Skysong in the paintings. But it differs in many details. The most obvious ones are the blade's color and material, which are very clearly different. If you ask me, this is just a very high-quality replica… You vain mages love putting on these tricks to fool people who don't know better. And I'm a member of the Thorium Brotherhood, Sesso. Don't insult my knowledge and intelligence here."
+"What absolute nonsense." There was even a note of anger in Ruige's voice. "Azuresong is an elven treasure — a legendary gift from the blue dragons to Quel'Thalas! How could it possibly be in your hands? Fine, I admit this sword does look a bit like Azuresong in the paintings. But it differs in many details. The most obvious ones are the blade's color and material, which are very clearly different. If you ask me, this is just a very high-quality replica… You vain mages love putting on these tricks to fool people who don't know better. And I'm a member of the Thorium Brotherhood, Sesso. Don't insult my knowledge and intelligence here."
 
 Jace drew the sword and laid it on the table. A faint melody slowly rose with the movement, incredibly soft and restrained against the deep rumbling of Ironforge's depths.
 
@@ -62,27 +62,27 @@ Ruige stared at the sword, and the anger on his face became less certain.
 
 He could tell that whatever the material of this sword was, it was far too extraordinary.
 
-"This melody… You don't need to borrow Skysong's name to make this sword look better, Sesso. It's a treasure in its own right. A work of art. I can tell. Tell me the truth."
+"This melody… You don't need to borrow Azuresong's name to make this sword look better, Sesso. It's a treasure in its own right. A work of art. I can tell. Tell me the truth."
 
-"This really is Skysong," Jace said, looking at the dwarf on the other side of the table. "But it's also not the original Skysong. The original Skysong was destroyed at Grim Batol. The Blue Dragonlord reforged this sword from its remains and his own scales."
+"This really is Azuresong," Jace said, looking at the dwarf on the other side of the table. "But it's also not the original Azuresong. The original Azuresong was destroyed at Grim Batol. The blue Aspect reforged this sword from its remains and his own scales."
 
-"I've never heard of that legend." Ruige sat down and stared at the sword. "Where did you hear it? When did Skysong go to Grim Batol — before that witch destroyed Grim Batol with dark magic, or after?"
+"I've never heard of that legend." Ruige sat down and stared at the sword. "Where did you hear it? When did Azuresong go to Grim Batol — before that witch destroyed Grim Batol with dark magic, or after?"
 
-Jace said, "A few months ago. I took it to Grim Batol, and during the fight with Deathwing, I accidentally damaged it. The Blue Dragonlord Malygos helped me repair it."
+Jace said, "A few months ago. I took it to Grim Batol, and during the fight with Deathwing, I accidentally damaged it. Malygos, the blue Aspect, helped me repair it."
 
 "That's…"
 
 Ruige muttered something, frowning. He reached out to touch the blade, then pulled back and rubbed his fingers together.
 
-"Honestly, I'm having a little trouble believing that the hero who wielded Skysong against Deathwing and rescued the Dragonqueen could be a young fellow like you. Was it really you?"
+"Honestly, I'm having a little trouble believing that the hero who wielded Azuresong against Deathwing and rescued the Dragonqueen could be a young fellow like you. Was it really you?"
 
 The dwarf glanced doubtfully at Jace's ring, as if wanting to believe but unable to.
 
 "This man is sitting right in front of me? Dressed like a refugee who fled here from Stormwind? I can't convince myself of it."
 
-"I dress like a refugee because you burned my clothes with a fire elemental," Jace asked helplessly.
+"I dress like a refugee because you burned my clothes with a fire elemental," Jace said helplessly.
 
-"Fair enough. Sorry." Ruige pressed on. "Then why haven't you found a poet or a singer to turn your story into a ballad and sing it in every inn and tavern? Why haven't you told the new legend of Skysong to every gnome, human, dwarf, and elf you know?"
+"Fair enough. Sorry." Ruige pressed on. "Then why haven't you found a poet or a singer to turn your story into a ballad and sing it in every inn and tavern? Why haven't you told the new legend of Azuresong to every gnome, human, dwarf, and elf you know?"
 
 "Haven't had the time." Jace leaned back in the stone chair. "Isn't that what I'm telling you now? If you don't believe me, you can go ask the Bronzebeard king why he let the elves gift this sword to me. Or, more directly, just go find a blue dragon or a red dragon and ask them."
 
@@ -90,7 +90,7 @@ The dwarf glanced doubtfully at Jace's ring, as if wanting to believe but unable
 
 "Go ahead," Jace said.
 
-The dwarf carefully gripped the sword on the table, took a deep breath, and slowly lifted it. Skysong let out a discordant sound, as if voicing an unhappy complaint.
+The dwarf carefully gripped the sword on the table, took a deep breath, and slowly lifted it. Azuresong let out a discordant sound, as if voicing an unhappy complaint.
 
 Ruige hesitated. "Am I holding it wrong? I think…"
 
@@ -104,11 +104,11 @@ Ruige gently set the sword down, his eyes never leaving it.
 
 "Heh." Jace said. "Don't even think about it."
 
-"Alright, that was an excessive request." Ruige slapped the table. "I don't want the Thorium Brotherhood to get on the wrong side of Skysong's master over some petty rule. Take the book. But you have to return it before the next Winter Veil, because the auditors will come to review the Brotherhood's assets then. If this thing goes missing and you're not here to explain it, I'll be in trouble."
+"Alright, that was an excessive request." Ruige slapped the table. "I don't want the Thorium Brotherhood to get on the wrong side of Azuresong's master over some petty rule. Take the book. But you have to return it before the next Winter Veil, because the auditors will come to review the Brotherhood's assets then. If this thing goes missing and you're not here to explain it, I'll be in trouble."
 
 "Winter Veil — you mean nine months from now? No problem," Jace said. "I'll definitely come back to Ironforge before the next Winter Veil and return this to you."
 
-Ruige warned him, "Don't think that learning the elemental language and mastering the techniques of communication means you know everything about fire elementals, Sesso. Once you've thoroughly studied this book, you'll only have earned the capital to set foot on the Path of Flame — and that road is still long! There are many fire-tenders in the Thorium Brotherhood more skilled than me, and even more in Shadowforge City. If you want to go far on this path and build a closer, stronger bond with flame… you must remember to return this book."
+Ruige warned him, "Don't think that learning the elemental language and mastering the techniques of communication means you know everything about fire elementals, Sesso. Once you've thoroughly studied this book, you'll only have earned the right to set foot on the Path of Flame — and that road is still long! There are many pyromancers in the Thorium Brotherhood more skilled than me, and even more in Shadowforge City. If you want to go far on this path and build a closer, stronger bond with flame… you must remember to return this book."
 
 Jace asked curiously, "Could the Thorium Brotherhood help me get into Shadowforge City and make contact with those Dark Iron dwarves?"
 
@@ -124,8 +124,8 @@ Jace took a moment to digest that, then thought — here, Shadowforge City was a
 
 So the hardest part would actually be the process of getting into Shadowforge City. Shadowforge City lay in the deepest part of Blackrock Mountain. With Blackrock Spire above occupied by orcs, entering Blackrock Mountain meant you'd very likely run into patrolling orcs along the way.
 
-Still, the cloak Verastrasz had given him would come in handy. He could disguise himself as an orc to get through the occupied areas, then drop the disguise to meet the Dark Iron dwarves.
+Still, the cloak Vaelastrasz had given him would come in handy. He could disguise himself as an orc to get through the occupied areas, then drop the disguise to meet the Dark Iron dwarves.
 
 But this matter needed careful planning. For now, he should focus on preparing for the journey to Kalimdor.
 
-Beyond Dar'Khan Drathis, he still didn't know how many people had seen the records of the Holy Relics Society, or how many were searching for Ursulas's location.
+Beyond Dar'Khan Drathir, he still didn't know how many people had seen the records of the Reliquary, or how many were searching for Ulthalesh's location.

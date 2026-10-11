@@ -2,7 +2,7 @@
 
 Winter Veil was only a few days away, which meant Ruige's deadline was fast approaching.
 
-Jace couldn't delay any longer. Although Rokktus Darkpact knew that the elemental-language dictionary was in his possession, and also knew about Ruige's situation, he himself didn't have the ability to leave Shadowforge City. In such a short time, Jace couldn't count on any member of the Thorium Brotherhood to have the skill to break through the orc blockade into Shadowforge City, communicate with him about this matter, and then run back to Ironforge to explain things to Ruige's superiors.
+Jace couldn't delay any longer. Although Lokhtos Darkbargainer knew that the elemental-language dictionary was in his possession, and also knew about Ruige's situation, he himself didn't have the ability to leave Shadowforge City. In such a short time, Jace couldn't count on any member of the Thorium Brotherhood to have the skill to break through the orc blockade into Shadowforge City, communicate with him about this matter, and then run back to Ironforge to explain things to Ruige's superiors.
 
 So, taking advantage of the time Krasus was researching the stone tablet incantations, and with no urgent matters to attend to in Stormwind, Jace had to hurry onto the tram to Ironforge.
 
@@ -14,7 +14,9 @@ You could tell that the King felt an immense sense of responsibility for Onyxia'
 
 When Jace saw Varian, he was helping the clerics move chairs. The King was wearing a simple blue outer garment, mixed in among a large group of soldiers and clerics. Aside from being taller and having a head of thick, brown-black hair, there was absolutely no way to tell he had any connection to a king or a noble.
 
-"Your Majesty." Jace called out. Varian straightened up and looked over, leaning on his waist and panting. "Damn it, Jace. It feels like it's been a long time since I've done hard labor. Sword training… is simply not the same as manual labor — it gets you absolutely no exercise. My lower back is already starting to ache."
+"Your Majesty," Jace called out.
+
+Varian straightened up and looked over, leaning on his waist and panting. "Damn it, Jace. It feels like it's been a long time since I've done hard labor. Sword training… is simply not the same as manual labor — it gets you absolutely no exercise. My lower back is already starting to ache."
 
 "Has there been any progress on the Queen?" Jace asked.
 
@@ -38,7 +40,9 @@ He lowered his voice. "Actually, Jace, at this moment I'm even a little grateful
 
 Jace smiled slightly and said nothing. At that moment, the guard brought over the letter, already sealed with the Wrynn lion seal, and handed it to him. Jace glanced at the letter and simply said, "I'll convey your meaning to King Magni, Your Majesty."
 
-"Then don't convey the meaning of that last paragraph," Varian reminded him. "Of course," Jace nodded.
+"Then don't convey the meaning of that last paragraph," Varian reminded him.
+
+"Of course." Jace nodded.
 
 "How is Lady Katrana Prestor doing?" the King asked again.
 
@@ -48,7 +52,7 @@ Varian said, "If she wakes up, Mathias should come to inform me. All right, Jace
 
 "Then I'll take my leave, Your Majesty."
 
-After leaving the cathedral, Jace headed straight for the Dwarf District.
+After leaving the cathedral, Jace headed straight for the Dwarven District.
 
 The tram from Stormwind to Ironforge hadn't improved in the slightest over the better part of a year, and the journey along the way was still miserable.
 
@@ -62,7 +66,7 @@ He wasn't the only one. A group of gnomish technicians who'd been traveling with
 
 In this state, there was no way he could go see the King of Ironforge. Jace planned to first go to that hunters' guild he'd visited before and see if they'd returned from Kalimdor yet.
 
-So much time had passed. He'd already made a round trip to Kalimdor himself, even traveling from Gadgetzan all the way to Winterspring, and there'd been a plane crash along the way. Those experienced dwarf hunters, with clear goals and a precise location, should have produced some results by all rights.
+So much time had passed. He'd already made a round trip to Kalimdor himself, even traveling from Gadgetzan all the way to Winterspring, and there'd been an airship crash along the way. Those experienced dwarf hunters, with clear goals and a precise location, should have produced some results by all rights.
 
 After finding an inn and eating some dwarven cheese to fill his stomach, Jace made his way through the stair channels, squeezing up to the seventh level among a crowd of dwarves going up and down the stairs.
 
@@ -70,7 +74,7 @@ After visiting Shadowforge City once and returning to Ironforge, he could clearl
 
 Before coming to Ironforge for the first time, Jace had held quite a few typical stereotypes about dwarves. Although Grede claimed to be a very unusual dwarf, the vast majority of things he did only reinforced those stereotypes even further. And Ironforge was practically the culmination of those stereotypes — the Bronzebeard dwarves were cheerful, frank, and honest… Even Ruige had been infected to the point where, aside from having a bad temper and being a bit petty, he was practically a Bronzebeard in black skin.
 
-But in Shadowforge City, aside from catching glimpses of some common ground in the Ironforge tavern, the streets and corridors were full of suspicious glances, venomous stares, and even undisguised verbal abuse to one's face.
+But in Shadowforge City, aside from catching glimpses of some common ground in the Grim Guzzler, the streets and corridors were full of suspicious glances, venomous stares, and even undisguised verbal abuse to one's face.
 
 Only with this contrast could one more deeply feel the warmth and friendliness of the dwarves of Ironforge.
 

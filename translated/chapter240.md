@@ -4,7 +4,7 @@ Grede went home. That afternoon Jace was still a little foggy-headed, so he wand
 
 When he got home that evening, the imp clapped its hands at the sight of the tightly trussed-up lamb on the floor. "We've got one! We've got one! Quick, give it a try… give it a try…"
 
-Jace set the lamb down. "You draw the Immolate circle first. Let me go over the banishment incantation one more time."
+Jace set the lamb down. "You draw the sacrificial circle first. Let me go over the banishment incantation one more time."
 
 "No!" the imp shrieked. "No… master, if you chant it like that, I'm done for on the spot."
 
@@ -20,11 +20,11 @@ The imp gave an awkward laugh, drew the circle, then squeezed itself into the sa
 
 Jace gripped his staff, took out his spell booklet, and silently ran through the banishment incantation a few times. He cleared his throat, stood with his back to the window, and looked at the only clear patch of floor in the room. Staring at the lamb in the middle of the circle, which had apparently bleated itself out and was now just panting, his nerves wound tighter and tighter.
 
-*Just don't let it be an Infernal.*
+*Just don't let it be an infernal.*
 
-Thinking that, he glanced out the window — if it was an Infernal, a green meteor should come streaking down from outside, right?
+Thinking that, he glanced out the window — if it was an infernal, a green meteor should come streaking down from outside, right?
 
-And not a Fel Guard, either. If a Fel Guard showed up in this room, one wrong move and it could smash all his furniture and personal effects to bits.
+And not a felguard, either. If a felguard showed up in this room, one wrong move and it could smash all his furniture and personal effects to bits.
 
 And he wasn't sure he could control it, either. Even if he used the banishment spell to wipe it out in one shot, a massive demon corpse wouldn't exactly be easy to clean up.
 
@@ -44,9 +44,9 @@ What the hell? What kind of incantation was this — a summoning spell, or some 
 
 Just as doubt crept in, Jace noticed the lamb was already dead. He hadn't touched it — blood was seeping from its eyes, nostrils, and mouth.
 
-The Immolate was complete.
+The sacrifice was complete.
 
-*Damn it… it's not really going to drop a meteor from the sky, is it? Don't you need an Infernal fragment to summon an Infernal?*
+*Damn it… it's not really going to drop a meteor from the sky, is it? Don't you need an infernal fragment to summon an infernal?*
 
 Wait — something smelled sweet.
 
@@ -56,7 +56,7 @@ A pair of slender arms wrapped around him.
 
 "Let me get a look at you…"
 
-Jace spun and threw an elbow. The creature behind him yelped and tumbled onto the bed. He turned to see a death-pale-skinned female demon propping herself up, staring right at her.
+Jace spun and threw an elbow. The creature behind him yelped and tumbled onto the bed. He turned to see a death-pale-skinned female demon propping herself up, staring right at him.
 
 A pair of horns curved high from the top of her head, even more exaggerated than a goat's. A cascade of dark hair spilled across the whole bed. She shrank back as though startled.
 
@@ -125,17 +125,3 @@ Jace cracked the door open. "I'm reciting an essay, ma'am — term starts tomorr
 "Yes, ma'am."
 
 Jace shut the door and turned back around. The succubus — where was she?
-
-## Flags
-
-- **承诺:** Chapter title rendered as "A Promise" — refers to the summoning pact Jace unknowingly made. Not in glossary.
-- **牺牲法阵:** Rendered as "Immolate circle" — the sacrificial circle for the Immolate ritual. Not in glossary as a specific term (glossary lists 献祭 / Immolate).
-- **反召唤咒:** Rendered as "banishment incantation" / "banishment spell." Not in glossary (glossary lists 放逐 / Banish as a warlock spell; here it refers to the dismiss/summoning-reversal spell Jace uses on his imp).
-- **因哈杰特，图利奥克瑟诺尼，塔亚坦萨衣迪尼，比诺督西斯:** Rendered as "*Inhajet, Tulioxenoni, Tayatansayidini, Binodoxis*" — the succubus-summoning incantation. Transliteration tentative, flagged for consistency if it recurs.
-- **地狱火:** Rendered as "Infernal" (the demon type). Not in glossary as a demon name (glossary lists 邪兽 / Fel beast).
-- **恶魔卫士:** Rendered as "Fel Guard." Not in glossary.
-- **魅魔:** Rendered as "succubus." Not in glossary.
-- **艾瑞达人:** Rendered as "eredar" per chapter056's established usage (canonical Warcraft term; not in glossary).
-- **莫尔葛:** Rendered as "Mo'arg" — canonical demon race (the Mo'arg engineers/forge-masters of the Burning Legion). Not in glossary.
-- **纳斯雷兹姆:** Rendered as "Nathrezim" per glossary (dreadlord race).
-- **无翼恶魔:** Rendered as "wingless demon" — descriptive term Jace uses for the succubus, who notably lacks wings. Not in glossary.

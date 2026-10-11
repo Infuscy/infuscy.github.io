@@ -1,6 +1,6 @@
 ## Chapter 871: Titanforged
 
-The healing potion was already taking effect. Sola's wounds were little by little, and the color was returning to her face.
+The healing potion was already taking effect. Sola's wounds were closing little by little, and the color was returning to her face.
 
 Despite Sola's appearance as a somewhat frail Quel'dorei, the amount of potion required to treat her far exceeded what it would take for mortals like Jace. And that was just the healing potions — she'd also gone through mana potions, given that she was a genuine green dragon.
 
@@ -10,7 +10,7 @@ Jace pulled from his potion satchel the Restorative Potion he hadn't been able t
 
 "I know what a Restorative Potion is, Jace Sesso." Sola said with a smile as she accepted it. "Drinking too much wouldn't do any good anyway."
 
-That's what she said, but she lifted the bottle and half of it back without a second thought. Jace nearly bugged his eyes out watching. Even Vereesa raised an eyebrow, glancing carefully at Jace. Off in the distance, Grede choked and broke into a fit of coughing.
+That's what she said, but she lifted the bottle and knocked half of it back without a second thought. Jace nearly bugged his eyes out watching. Even Vereesa raised an eyebrow, glancing carefully at Jace. Off in the distance, Grede choked and broke into a fit of coughing.
 
 Think about it — back when he'd been staring death in the face on that ship to Booty Bay, he'd been nursing his potion a tiny mouthful at a time. This dragon genuinely had no idea how precious Elemental Earth was to mortals.
 
@@ -26,7 +26,7 @@ Sola stood up. "Let me finish the spell from earlier, everyone."
 
 Vereesa and Jace stepped aside. Sola slowly raised her right hand, tilting her head back to gaze up at the hazy night sky within the Dream. Here, only the faintest moonlight was visible.
 
-She began calling out in the dragon tongue. Jace could tell clearly that this wasn't any incantation — it was more like a prayer. Soon, the moonlight within the Dream answered her invocation. Once more, moonlight and points of starlight swirled around all of them, and the entire chamber was bathed in silver light.
+She began calling out in Draconic. Jace could tell clearly that this wasn't any incantation — it was more like a prayer. Soon, the moonlight within the Dream answered her invocation. Once more, moonlight and points of starlight swirled around all of them, and the entire chamber was bathed in silver light.
 
 A clear, ringing surge of mana followed, bringing with it a sense of reassurance and calm.
 
@@ -50,29 +50,29 @@ Grede limped over to Sola's side. "I feel guilty for doubting you could get that
 
 Vereesa merely cast a sidelong glance at the dwarf and didn't dignify that with a response.
 
-Kenluk also approached Sola and bowed, then said in Thalassian, "We guard the forest, and the forest guards us, green lady."
+Kenluk also approached Sola and bowed, then said in Elvish, "We guard the forest, and the forest guards us, green lady."
 
-The words seemed to be some kind of furbolg prayer of gratitude, so the meaning was a bit unclear. Then again, Jace suspected his Thalassian simply wasn't good enough — he had no idea how the furbolgs communicated with the Kaldorei.
+The words seemed to be some kind of furbolg prayer of gratitude, so the meaning was a bit unclear. Then again, Jace suspected his Elvish simply wasn't good enough — he had no idea how the furbolgs communicated with the Kaldorei.
 
 "We will protect all the children of the forest." Sola bowed in return, then reached out and gently took the furbolg's thick arm to examine his injuries.
 
 Jace noticed that the wounds on the furbolg's arm had closed over, but his severed hand hadn't regrown. So Tranquility only accelerated healing and restored the spirit — it couldn't regenerate lost limbs.
 
-"I'm sorry, Kenluk. I promised your chieftain I'd keep you safe," he said in Thalassian.
+"I'm sorry, Kenluk. I promised your chieftain I'd keep you safe," he said in Elvish.
 
-"A lost hand is Kenluk's honor," Kenluk panted. "I thank you. When I return home, I will tell them the story of this place. I will tell them you took away the disaster buried here... From now on, the Frosthammer tribe can live in peace."
+"A lost hand is Kenluk's honor," Kenluk panted. "I thank you. When I return home, I will tell them the story of this place. I will tell them you took away the disaster buried here... From now on, the Frostmaul tribe can live in peace."
 
-Jace nodded, but his heart was a bitter cocktail when he thought about what Darkwhisper Gulch would become. Living in peace on Azeroth was a luxury easier wished than won.
+Jace nodded, but his heart was a bitter cocktail when he thought about what Darkwhisper Gorge would become. Living in peace on Azeroth was a luxury easier wished than won.
 
 All he'd originally wanted was to hole up in Stormwind and survive — survive as long as he could. He hadn't expected today... He glanced at the spine staff in his hand and was at a loss for words.
 
-"We should leave here as soon as possible, master." Morophil looked around. "The deathly aura left behind by these black knights is no good for you living folk."
+"We should leave here as soon as possible, master." Morophil looked around. "The deathly aura left behind by these Dark Riders is no good for you living folk."
 
-"Mm." Jace said. "Take everything we can carry. Those black knights charged in here... burned through so many of our precious potions. I refuse to believe these treasure hunters didn't have anything on them."
+"Mm." Jace said. "Take everything we can carry. Those Dark Riders charged in here... burned through so many of our precious potions. I refuse to believe these treasure hunters didn't have anything on them."
 
 "Damn right." Grede said. "My warhammer, my shield — even my axe took a chunk out of it! I don't expect these idiots' weapons to match my gear, but we take as much as we can carry..."
 
-He grumbled as he picked up a longsword from one of the black knights. The blade was already bent, so he tossed it aside, flipped over a damaged black knight corpse, and reached into the man's pockets.
+He grumbled as he picked up a longsword from one of the Dark Riders. The blade was already bent, so he tossed it aside, flipped over a damaged Dark Rider corpse, and reached into the man's pockets.
 
 Jace looked at Morophil and noticed that the injuries she'd taken for him through the Soul Link had mostly healed as well. "Tranquility healed you too?" he asked, skeptical.
 
@@ -82,7 +82,7 @@ Jace looked at Morophil and noticed that the injuries she'd taken for him throug
 
 Morophil licked her bloodstained fangs. "Nobody cares about your definition."
 
-She let out a contemptuous laugh, then glanced in Eredin's direction. Her smile froze and died. The succubus's gaze locked in place.
+She let out a contemptuous laugh, then glanced in Ariden's direction. Her smile froze and died. The succubus's gaze locked in place.
 
 "Apocalypse is broken," she murmured.
 
@@ -90,7 +90,7 @@ She let out a contemptuous laugh, then glanced in Eredin's direction. Her smile 
 
 "But it really is broken," Morophil said. "The Nathrezim's demon blade, Apocalypse, which has destroyed countless lives... is actually broken."
 
-"What?" Grede looked toward the depths of the chamber, and only then spotted the broken, darkened runeblade beside Eredin's bisected corpse. Sazeno zipped all the way over and propped up the severed blade. "How is this possible?"
+"What?" Grede looked toward the depths of the chamber, and only then spotted the broken, darkened runeblade beside Ariden's bisected corpse. Sazeno zipped all the way over and propped up the severed blade. "How is this possible?"
 
 Then they all turned to Jace, their faces screaming *what on Azeroth just happened*.
 
@@ -110,19 +110,19 @@ Forget Grede and Vereesa — even Morophil was stunned into silence, all of them
 
 "Perhaps your shadow power awakened it, master?" Morophil ventured. "Awakened?"
 
-Jace hesitated, thinking back over the battle. It seemed that in the final moment, to counter Eredin's assault, he'd channeled Life Tap once more. Life Tap had given him the strength to make one last stand, but it had also further corrupted his flesh and blood.
+Jace hesitated, thinking back over the battle. It seemed that in the final moment, to counter Ariden's assault, he'd channeled Life Tap once more. Life Tap had given him the strength to make one last stand, but it had also further corrupted his flesh and blood.
 
-Could that surge of Life Tap have awakened Ursolus?
+Could that surge of Life Tap have awakened Ulthalesh?
 
 But he couldn't just channel Life Tap on a whim now to test whether the staff would obey him — not with magic that terrifying.
 
-Morophil continued, "If this really is Ursolus, then cleaving through Apocalypse isn't impossible. After all, it's a demon-slaying weapon forged by the Dark Titan Sargeras himself in hatred. And Apocalypse... as much as it's a masterpiece of the Nathrezim, it can't possibly compare to something forged by a Dark Titan's wrath. In fact, you could say the very fact that it could shatter Apocalypse's blade is what proves it's the real thing."
+Morophil continued, "If this really is Ulthalesh, then cleaving through Apocalypse isn't impossible. After all, it's a demon-slaying weapon forged by the Dark Titan Sargeras himself in hatred. And Apocalypse... as much as it's a masterpiece of the Nathrezim, it can't possibly compare to something forged by a Dark Titan's wrath. In fact, you could say the very fact that it could shatter Apocalypse's blade is what proves it's the real thing."
 
 "But this is Apocalypse, succubus. Don't tell me you've killed so many demons in the Twisting Nether and never once dreamed of laying hands on this." The imp steadied Apocalypse's severed blade and shook it, then said, somewhat disappointedly, "Although right now it feels like a chunk of scrap iron... but without a doubt, this is the real deal! You all felt its power just now. If not for being in a Guardian's crypt, master, the catastrophe unleashed by this weapon probably would have destroyed the entire forest!"
 
 "And yet it broke," Sola said.
 
-Morophil looked at Jace. "If I'm ever unlucky enough to return to the Twisting Nether someday, master, I'll tell the demons that a dark herald wielding Ursolus destroyed the Nathrezim's Apocalypse... I doubt even a foolhardy Annihilan would take that story seriously."
+Morophil looked at Jace. "If I'm ever unlucky enough to return to the Twisting Nether someday, master, I'll tell the demons that a dark herald wielding Ulthalesh destroyed the Nathrezim's Apocalypse... I doubt even a foolhardy Annihilan would take that story seriously."
 
 "Absolutely — if I hadn't seen it with my own eyes, I'd think any demon who believed that was out of his mind!" the imp shrieked for a while, then calmed down. "But then, this is Azeroth. Anything insane can happen here."
 
@@ -132,20 +132,12 @@ Morophil looked at Jace. "If I'm ever unlucky enough to return to the Twisting N
 
 "God knows what would happen if Silvermoon ever learned of this thing's existence."
 
-"So it stays quiet. None of us speaks of what happened today." Jace said this as he lifted the tattered cloak that was all that remained of Eredin's burned body and wrapped the staff from top to bottom. "We leave here first and find a safe place to figure out what exactly is going on."
+"So it stays quiet. None of us speaks of what happened today." Jace said this as he lifted the tattered cloak that was all that remained of Ariden's burned body and wrapped the staff from top to bottom. "We leave here first and find a safe place to figure out what exactly is going on."
 
 "What about the broken sword?" Grede asked, holding Apocalypse's hilt.
 
-His other hand was already carrying his large sack, who knew how many items looted from the black knights already stuffed inside.
+His other hand was already carrying his large sack, who knew how many items looted from the Dark Riders already stuffed inside.
 
 Add in the broken sword hilt he was holding, plus the fact that his clothes and cloak had been torn up in the fight — he looked less like a Mountain King and more like a scrap-collecting old dwarf.
 
 "Bring it back too," Jace said. "We'll ask the Dragonqueen how to deal with this thing."
-
-## Flags
-
-- **POV:** Third person, Jace.
-- **Key names:** 索拉 = Sola (green dragon, short form; full name 索麦莉尔 = Somali'er appears later); 索拉·幽影 = Sola Shade; 乌萨勒斯 = Ursolus (fanfic-original name for Sargeras-forged demon scythe — transliterated, flagged as non-canonical); 埃瑞丁 = Eredin (death knight wielding Apocalypse); 天启 = Apocalypse (Nathrezim dreadlord sword, canonical-adjacent); 肯卢克 = Kenluk (Furbolg hunter).
-- **Spells/items:** 滋补药剂 = Restorative Potion; 宁静 = Tranquility; 生命分流 = Life Tap; 灵魂链接 = Soul Link; 意志之链 = Will-Chain (item Jace wears).
-- **Lore:** Ursolus described as Sargeras's personal demon-slaying weapon; Apocalypse as a Nathrezim masterpiece. Jace suspects Life Tap's corruption awakened the staff.
-- **Translation note:** 奎尔多雷 rendered as "Quel'dorei" per glossary (ancient noble high-elf term, distinct from Kaldorei commoners).

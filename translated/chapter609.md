@@ -2,11 +2,11 @@
 
 Leaving Eldre'Thalas and heading south, back deep into the Feralas jungle, Jace felt as though he'd set down an enormous burden. After all, this journey had finally yielded a successful outcome.
 
-Das'mora Dark-eye — a demon-knowledge teacher infinitely revered by the hidden warlocks of the Eastern Kingdoms — had turned out to be an actual demon. When Galders first mentioned this name, Jace had never imagined this possibility.
+Dasmora Darkeye — a demon-knowledge teacher infinitely revered by the hidden warlocks of the Eastern Kingdoms — had turned out to be an actual demon. When Zardeth first mentioned this name, Jace had never imagined this possibility.
 
 And he hadn't really dared to believe he'd actually find her.
 
-He wondered how Musol would react if he knew Jace had personally taken down his dream girl. Thinking this, Jace was already looking forward to seeing that mysterious, pretentious fellow who'd kept up his act from start to finish.
+He wondered how Mor'zul would react if he knew Jace had personally taken down his dream girl. Thinking this, Jace was already looking forward to seeing that mysterious, pretentious fellow who'd kept up his act from start to finish.
 
 They walked south for roughly two days and two nights, arriving once again at the river where they'd encountered Rexxar before. Jace remembered that this river had a name in the game, but he suspected that even with Arcane Intellect he probably couldn't recall what it was.
 
@@ -14,7 +14,7 @@ The group rested in a tree hollow near a small pond where the river flowed in, n
 
 At least this time he wouldn't be ambushed by Rexxar. As for other forest troubles, gnolls and the like… he wasn't particularly worried.
 
-And this time, he had Song of the Blue with him.
+And this time, he had Azuresong with him.
 
 Stripping off his shirt and throwing on a pair of worn pants that could handle getting wet, he carried the crude fishing rod Grede had made in one hand and a small tackle bag in the other, and headed into the jungle.
 
@@ -22,7 +22,7 @@ Looking at the thick line and metal hook, Jace seriously doubted this thing woul
 
 Pushing through the thickets, stepping on the soft mud, listening to the rain pattering against leaves and trunks, smelling the grassy fragrance wafting everywhere through the forest, Jace drew a deep breath of that lush vitality and suddenly felt that the sensation of his insides being scorched by fel energy wasn't so painful anymore.
 
-Arriving at the pond, Jace suddenly remembered — Grede still hadn't confessed to Musa.
+Arriving at the pond, Jace suddenly remembered — Grede still hadn't confessed to Mosa.
 
 Of course, he'd anticipated this. Grede, this fellow, while often recklessly brave in critical moments, was limited to that.
 
@@ -38,15 +38,15 @@ Jace felt sitting here was too much of a waste of time. He figured it had been a
 
 He was almost forgetting what it felt like to be an idiot in his normal state.
 
-Thinking this, he propped the fishing rod between some rocks and branches, glanced at the float, cast Arcane Intellect on himself, and began recalling the scene of his battle with Das'mora.
+Thinking this, he propped the fishing rod between some rocks and branches, glanced at the float, cast Arcane Intellect on himself, and began recalling the scene of his battle with Dasmora.
 
 Because he'd had Arcane Intellect active at the time, recalling it from an Arcane Intellect-enhanced state made the images and sounds extremely clear.
 
-He could even remember many things he hadn't noticed at the time — Wynne occasionally glancing over to check on his state, Grede going pale when he saw Jace get hit by a shadow bolt, then breathing a sigh of relief when he saw Jace could still stand steady, Morfell nearly getting blasted out of stealth after taking some of the shadow damage for him.
+He could even remember many things he hadn't noticed at the time — Vereesa occasionally glancing over to check on his state, Grede going pale when he saw Jace get hit by a Shadow Bolt, then breathing a sigh of relief when he saw Jace could still stand steady, Morophil nearly getting blasted out of stealth after taking some of the shadow damage for him.
 
-He glanced at the float, rubbed his eyes to wipe away the rain, and tried hard to recall the moment when Das'mora had trapped him with that strange dark magic.
+He glanced at the float, rubbed his eyes to wipe away the rain, and tried hard to recall the moment when Dasmora had trapped him with that strange dark magic.
 
-At that time, he was about to cast Curse of Agony on Das'mora. The incantation was just half-finished when the demon heard the chanting and turned around.
+At that time, he was about to cast Curse of Agony on Dasmora. The incantation was just half-finished when the demon heard the chanting and turned around.
 
 The demon's face… even as a female doomguard, it was hideously ugly, reminding Jace of a cow with a gaping maw and fangs.
 
@@ -54,7 +54,7 @@ The demon's face… even as a female doomguard, it was hideously ugly, reminding
 
 Jace chanted along with the incantation from memory. He didn't know if he was imitating it well enough, recalling it over and over, repeating it.
 
-As he recalled, the incantation grew clearer and clearer. He felt he'd reproduced the entire incantation, and excitedly grabbed a broken branch and scratched the demonic script into the mud.
+As he recalled, the incantation grew clearer and clearer. He felt he'd reproduced the entire incantation, and excitedly grabbed a broken branch and scratched the Demonic script into the mud.
 
 Suddenly, his peripheral vision caught something colorful drifting through the grass nearby.
 
@@ -80,24 +80,6 @@ Just as he was troubled by why this faerie dragon wouldn't leave, the faerie dra
 
 What's wrong?
 
-Jace then heard a muffled roar from the direction of their camp behind him, like the sound made by a night elf's saber-tooth mount. What's going on?
+Jace then heard a muffled roar from the direction of their camp behind him, like the sound made by a night elf's nightsaber. What's going on?
 
-He immediately pushed through the underbrush toward the camp, only to collide head-on with someone coming the other way. "Uh, Wynne?"
-
-## Flags
-
-- **Das'mora Dark-eye** (达斯莫拉·暗眼): the demon Jace defeated; revered as a demon-knowledge teacher by Eastern Kingdoms warlocks.
-- **Galders** (加尔德斯): the warlock who first mentioned Das'mora's name to Jace.
-- **Musol** (莫苏尔): a warlock whose "dream girl" (Das'mora) Jace killed.
-- **Rexxar** (雷克萨): the half-orc beastmaster the group previously encountered at this river.
-- **Song of the Blue** (碧空之歌): the sword Jace carries; 碧空之歌 = Song of the Blue (tentative rendering).
-- **Arcane Intellect** (奥术智慧): Jace uses it to enhance his recollection of the battle with Das'mora.
-- **Curse of Agony** (痛苦诅咒): the warlock DoT spell Jace was casting when Das'mora interrupted him.
-- **Shadow bolt** (暗影箭): the spell that hit Jace during the battle.
-- **Faerie Dragon** (精灵龙): a magical creature tied to the Emerald Dream; its appearance and sudden flight are preserved.
-- **Emerald Dream** (翡翠梦境): the dream realm the faerie dragons are said to help guard.
-- **Duk… Hedunilauin** (督克……赫督尼洛因): the demonic incantation Jace is trying to reconstruct from memory.
-- **Morfell** (莫洛菲尔): the succubus; 魅魔 = succubus.
-- **Wynne** (温蕾萨): the high elf ranger.
-- **Grede** (格瑞德): the dwarf.
-- **Musa** (莫萨): the tauren druid.
+He immediately pushed through the underbrush toward the camp, only to collide head-on with someone coming the other way. "Uh, Vereesa?"

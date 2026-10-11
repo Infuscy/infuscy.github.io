@@ -1,6 +1,6 @@
 ## Chapter 1635: Wizard's Tower Investigation
 
-In the Mage Quarter these days, there was hardly anyone who didn't recognize Jace Sesso — except the young apprentices with their heads buried in books. Especially after Archbishop Alonsus Faol had awarded him the Mark of Fortitude at the Cathedral of Light a few months ago.
+In the Mage Quarter these days, there was hardly anyone who didn't recognize Jace Sesso — except the young apprentices with their heads buried in books. Especially after Archbishop Alonsus Faol had awarded him the Sigil of Tyr's Guardian at the Cathedral of Light a few months ago.
 
 So as Jace walked through the garden, he kept running into mages who bowed and called out "Master Sesso." He could feel respect in their emotions — and some fear too. Everyone in Stormwind, in the whole Alliance, knew who Jace Sesso was. And with the rumors spreading everywhere lately...
 
@@ -8,69 +8,69 @@ He didn't need to hide anymore. On one hand, as Khadgar had said, the more he sh
 
 Passing the portraits of great archmages, he spotted his own painting, placed six years ago, not far from Nielas Aran's. Looking at himself back then, he felt he looked like such a child.
 
-More and more people recognized him now. Standing here staring at his own portrait wasn't a great look, so Jace continued deeper into the corridor and entered the hall at the top of the Wizard Sanctum tower.
+More and more people recognized him now. Standing here staring at his own portrait wasn't a great look, so Jace continued deeper into the corridor and entered the hall at the top of the Wizard's Sanctum tower.
 
-The moment he appeared in the doorway, the lively chatter in the hall quieted noticeably. As many mages turned to look, Jace cast Detect Demon. Unsurprisingly, nothing showed.
+The moment he appeared in the doorway, the lively chatter in the hall quieted noticeably. As many mages turned to look, Jace cast Sense Demons. Unsurprisingly, nothing showed.
 
-"Sesso!" Senior Mage Andormas called from across the room. "You haven't visited the Wizard Sanctum in a long time."
+"Sesso!" High Sorcerer Andromath called from across the room. "You haven't visited the Wizard's Sanctum in a long time."
 
-Jace nodded to the mages greeting him as "Master" and made his way through the atrium to Andormas. "Good morning, Master Andormas."
+Jace nodded to the mages greeting him as "Master" and made his way through the atrium to Andromath. "Good morning, Master Andromath."
 
-"Is this important business? Something to do with Blackrock Spire?" Andormas asked.
+"Is this important business? Something to do with Blackrock Spire?" Andromath asked.
 
-"Yes," Jace said. "By order of King Varian Wrynn, I'm delivering Elemental Earth sent from the emperor of Shadowforge City to the Wizard Sanctum. It's for making Restorative Potions to counter necromantic and shadow curses. Quite a lot — nearly a thousand pounds, according to the Dark Iron dwarves, brought from the deepest parts of Blackrock Mountain."
+"Yes," Jace said. "By order of King Varian Wrynn, I'm delivering Elemental Earth sent from the emperor of Shadowforge City to the Wizard's Sanctum. It's for making Restorative Potions to counter necromantic and shadow curses. Quite a lot — nearly a thousand pounds, according to the Dark Iron dwarves, brought from the deepest parts of Blackrock Mountain."
 
-"A thousand pounds?! That's critical. Elemental Earth has been in desperately short supply." Andormas lowered his voice. "Why is Dagran Thaurissan being so generous? We never expected the Dark Iron dwarves to actively cooperate with our assault on the Blackrock orcs and Black Dragons in Blackrock Spire. As long as those wicked bastards don't stab us in the back while they pick up the scraps, that's already a huge help."
+"A thousand pounds?! That's critical. Elemental Earth has been in desperately short supply." Andromath lowered his voice. "Why is Dagran Thaurissan being so generous? We never expected the Dark Iron dwarves to actively cooperate with our assault on the Blackrock orcs and black dragons in Blackrock Spire. As long as those wicked bastards don't stab us in the back while they pick up the scraps, that's already a huge help."
 
-"From what we've heard back from Molten Core, I suspect that emperor wouldn't even have his life right now if not for Jace," said Archmage Jania Cannon, standing nearby.
+"From what we've heard back from Molten Core, I suspect that emperor wouldn't even have his life right now if not for Jace," said Archmage Jennea Cannon, standing nearby.
 
 "Let's not go that far, Lady Cannon," Jace said quietly. "I think his throne matters more to him than his life."
 
-"So even the Dark Iron aren't fearless after all," Andormas said. "This Elemental Earth is extremely important for the coming assault on Blackrock Spire, Jace — and it's also crucial for clearing out the necromantic problems along the south bank of the River Neltharion."
+"So even the Dark Iron aren't fearless after all," Andromath said. "This Elemental Earth is extremely important for the coming assault on Blackrock Spire, Jace — and it's also crucial for clearing out the necromantic problems along the south bank of the Nazferiti River."
 
-"Have you heard the news Lord Tirion Fordring brought from Lordaeron? Not just Duskwood — the north has its own stories about the Black Knight and the Necromantic Plague. SI:7's investigation over the past few months, I always thought... I thought they were just making trouble for the Wizard Sanctum to show off their ability to handle the demon and ogre crises. But now I realize Mathias Shaw's insight is far keener than mine."
+"Have you heard the news Lord Tirion Fordring brought from Lordaeron? Not just Duskwood — the north has its own stories about the Dark Rider and the Necromantic Plague. SI:7's investigation over the past few months, I always thought... I thought they were just making trouble for the Wizard's Sanctum to show off their ability to handle the demon and ogre crises. But now I realize Mathias Shaw's insight is far keener than mine."
 
 "I've already spoken with him about it," Jace said.
 
-"Yes." Andormas nodded. "Making the Alliance suspect you naturally weakens the reputation of the Wizard Sanctum and the whole Kingdom of Stormwind... So if there's anything I can help with, I'll give it my full support. Including your teacher, Master Marin, Archmage Maginor Dumas, Lady Cannon, and every mage in this room — you're still one of us at the Wizard Sanctum, Jace. You wear our sigil and serve Stormwind. It's our obligation to protect you."
+"Yes." Andromath nodded. "Making the Alliance suspect you naturally weakens the reputation of the Wizard's Sanctum and the whole Kingdom of Stormwind... So if there's anything I can help with, I'll give it my full support. Including your teacher, Master Malin, Archmage Maginor Dumas, Lady Cannon, and every mage in this room — you're still one of us at the Wizard's Sanctum, Jace. You wear our sigil and serve Stormwind. It's our obligation to protect you."
 
 "I know, Master." Jace nodded.
 
-"Master Andormas, Master Sesso." A female mage approached. If Jace remembered correctly, she was the Wizard Sanctum's Portal Magic Master, Laramani Pouldu.
+"Master Andromath, Master Sesso." A female mage approached. If Jace remembered correctly, she was the Wizard's Sanctum's Portal Magic Master, Larimaine Purdue.
 
-She bowed respectfully to Jace, then addressed the senior mage beside her. "Don't forget about the portal, Master Andormas."
+She bowed respectfully to Jace, then addressed the senior mage beside her. "Don't forget about the portal, Master Andromath."
 
-"Yes, right. I almost forgot." Andormas smoothed the hair on his forehead. "For this assault on Blackrock Spire, we're establishing a portal channel in the Mage Quarter to connect Stormwind with the front lines — for relaying intelligence and critical supplies. Like last time with the Black Morass."
+"Yes, right. I almost forgot." Andromath smoothed the hair on his forehead. "For this assault on Blackrock Spire, we're establishing a portal channel in the Mage Quarter to connect Stormwind with the front lines — for relaying intelligence and critical supplies. Like last time with the Black Morass."
 
-"But the landing point is a problem. Morgan's Post isn't on a minor ley line node the way Khadgar's Nethergarde Keep or the orc warlocks' Stonard are. So we've decided to anchor the other end of the portal at the Storm Altar near Blackrock Spire — the one Gul'dan built."
+"But the landing point is a problem. Morgan's Vigil isn't on a minor ley line nexus the way Khadgar's Nethergarde Keep or the orc warlocks' Stonard are. So we've decided to anchor the other end of the portal at the Altar of Storms near Blackrock Spire — the one Gul'dan built."
 
-"But the energy at the Storm Altar is too unstable," said Mage Pouldu. "Even the Kirin Tor mages are having difficulty controlling the power there to complete the portal ritual."
+"But the energy at the Altar of Storms is too unstable," said Mage Purdue. "Even the Kirin Tor mages are having difficulty controlling the power there to complete the portal ritual."
 
 "Not even Master Khadgar?" Jace asked.
 
-"He's the one who recommended you," Pouldu said. "After all, the altar was originally built by orc demon summoners."
+"He's the one who recommended you," Purdue said. "After all, the altar was originally built by orc demon summoners."
 
-"I... well, I do know some demonology, but I'm not skilled at portal rituals, Lady Pouldu," Jace said.
+"I... well, I do know some demonology, but I'm not skilled at portal rituals, Lady Purdue," Jace said.
 
 Why would Khadgar think he could help set up a portal? That guy knew his limits better than anyone...
 
 But just as he thought that, Jace suddenly understood what Khadgar was playing at.
 
-"All right," he said. "I have a friend who probably knows better than anyone how to manipulate the Storm Altar's power and can help the Wizard Sanctum open a portal there perfectly — it just depends on whether you'll accept his help."
+"All right," he said. "I have a friend who probably knows better than anyone how to manipulate the Altar of Storms' power and can help the Wizard's Sanctum open a portal there perfectly — it just depends on whether you'll accept his help."
 
 "With someone that perfect, why wouldn't we accept?" the mage asked.
 
-It was Jania Cannon beside her who caught on first. She lowered her voice. "I think Jace means the one who helped the Kirin Tor send the Sons of Lothar back from the Telogrus Rift."
+It was Jennea Cannon beside her who caught on first. She lowered her voice. "I think Jace means the one who helped the Kirin Tor send the Sons of Lothar back from the Telogrus Rift."
 
-"Ereduin." Andormas understood now too.
+"Ered'ruin." Andromath understood now too.
 
-"Uh..." Mage Pouldu hesitated. "Is that acceptable, Master Sesso?"
+"Uh..." Mage Purdue hesitated. "Is that acceptable, Master Sesso?"
 
-"If you're willing." Jace said. "I was already planning to use the Storm Altar to summon him fully from the Telogrus Rift to the Blackrock Spire area so he can help the Alliance attack the Blackwing Legion. That way he can help you open the portal at the same time."
+"If you're willing." Jace said. "I was already planning to use the Altar of Storms to summon him fully from the Telogrus Rift to the Blackrock Spire area so he can help the Alliance attack the Blackwing Legion. That way he can help you open the portal at the same time."
 
-"Then it's settled." Andormas said.
+"Then it's settled." Andromath said.
 
-"Any spellcaster capable of opening a portal to Draenor," Pouldu said excitedly, "we have no reason to doubt his ability."
+"Any spellcaster capable of opening a portal to Draenor," Purdue said excitedly, "we have no reason to doubt his ability."
 
 ---
 
@@ -84,15 +84,15 @@ Coming out of the hall at the tower's top floor, Jace found an empty corner by t
 
 "No," Morophil said. "While you were talking to those mages, I observed everyone inside — including those who came and went during that time. Not a single Nathrezim. You can rest easy for now."
 
-"But there is some necromantic aura in there. It could be a Nathrezim... but I can't say for sure, master. It could be the same kind of necromantic aura the Black Dragons in Blackrock Spire leave behind. Or maybe the Wizard Sanctum picked it up investigating the death knights. Or the Black Dragon princess left it — this tower still stores Onyxia's flesh. And these auras have mostly dissipated anyway. It could be anything."
+"But there is some necromantic aura in there. It could be a Nathrezim... but I can't say for sure, master. It could be the same kind of necromantic aura the black dragons in Blackrock Spire leave behind. Or maybe the Wizard's Sanctum picked it up investigating the death knights. Or the black dragon princess left it — this tower still stores Onyxia's flesh. And these auras have mostly dissipated anyway. It could be anything."
 
-"Honestly, I wouldn't be surprised if it was a Nathrezim or a disguised Black Dragon that left it." Jace rubbed his brow. "Which only makes it more likely there's a problem in the Kirin Tor. Damn it."
+"Honestly, I wouldn't be surprised if it was a Nathrezim or a disguised black dragon that left it." Jace rubbed his brow. "Which only makes it more likely there's a problem in the Kirin Tor. Damn it."
 
 "And what about Maginor Dumas?" He pointed downstairs. "Let's check that archmage's office. Don't forget — SI:7's investigation started with him. Those rumors came out of his quarters. We might sense things more clearly there."
 
-Morophil nodded and slipped back into the shadows. Jace went down to Dumas's office, knocked, but no one was there. A passing mage told him Dumas had already left for the Storm Altar.
+Morophil nodded and slipped back into the shadows. Jace went down to Dumas's office, knocked, but no one was there. A passing mage told him Dumas had already left for the Altar of Storms.
 
-Just as Jace was heading back upstairs to ask Master Andormas if he could open Maginor's office for a look, Morophil stopped him on the stairs.
+Just as Jace was heading back upstairs to ask Master Andromath if he could open Maginor's office for a look, Morophil stopped him on the stairs.
 
 "Don't bother, master." Morophil looked up toward the highest floor. "The heaviest concentration of suspicious necromantic aura in this whole tower is on the top floor."
 

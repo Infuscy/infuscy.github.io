@@ -20,7 +20,7 @@ Jace felt a blast of hot wind at his back. He turned to see several chunks of ea
 
 The half-formed earth elemental wielded its stones with tremendous force, but its sheer ferocity telegraphed its intent too early.
 
-Jace easily dodged the strike and instinctively spat an Immolate incantation at one of its "arms," but the blast of flame didn't do much against the already-burning stones. Though it shattered a few chunks, the fire seemed to draw even more stones in, making the elemental before him grow an entire size larger.
+Jace easily dodged the strike and instinctively spat a Scorch incantation at one of its "arms," but the blast of flame didn't do much against the already-burning stones. Though it shattered a few chunks, the fire seemed to draw even more stones in, making the elemental before him grow an entire size larger.
 
 A roar from Grede came from behind, followed by the sound of a warhammer crushing stone — clearly, they'd been tangled up by other earth elementals too.
 
@@ -30,17 +30,17 @@ The earth elemental before him, beneath its two flickering flame-like eyes, sudd
 
 After pulling the rubble back together, the elemental seemed to have grown a notch taller.
 
-Jace used Fel Grasp to casually tear a chunk of rubble from its chest. The earth elemental's body swayed, but it quickly filled the gap with several large stones and scraped in another mass of rock from the side to patch the void, all while emitting a strange whooshing sound. The rubble beneath it suddenly rolled toward Jace with accelerated speed, charging up to him like a battering ram, both arms raised high. Jace reacted instantly, incanting: "Thomsogas, Veholi—"
+Jace used Gorefiend's Grasp to casually tear a chunk of rubble from its chest. The earth elemental's body swayed, but it quickly filled the gap with several large stones and scraped in another mass of rock from the side to patch the void, all while emitting a strange whooshing sound. The rubble beneath it suddenly rolled toward Jace with accelerated speed, charging up to him like a battering ram, both arms raised high. Jace reacted instantly, incanting: "Tomthokas, Veholi—"
 
-The twin arms of condensed boulders crashed down together. Jace sidestepped the blow, glanced at the cracked, parched earth where it had struck, and continued: "...Thasia, Vasdaron!"
+The twin arms of condensed boulders crashed down together. Jace sidestepped the blow, glanced at the cracked, parched earth where it had struck, and continued: "...Thasia, Vasdhaung!"
 
-The earth elemental, enraged at having missed, swept its fist horizontally — and it slammed straight into the Shadow Ward!
+The earth elemental, enraged at having missed, swept its fist horizontally — and it slammed straight into the Shadow Shield!
 
-The Shadow Ward held firm against the blow, and the dark-hued barrier of shadow flickered and burst apart. The entire body of the earth elemental was blown backward, its arm shattering into the air in a plume of dust.
+The Shadow Shield held firm against the blow, and the dark-hued barrier of shadow flickered and burst apart. The entire body of the earth elemental was blown backward, its arm shattering into the air in a plume of dust.
 
 A faint purple dark energy gnawed at the stones of its torso and head, slowing its ability to gather its shattered stone body back together.
 
-Jace raised his staff at the half-shattered earth elemental, focused his will, and intoned Immolate. A burst of shadowflame devoured the lingering fires on its broken body, triggering an even more violent dark explosion.
+Jace raised his staff at the half-shattered earth elemental, focused his will, and intoned Scorch. A burst of shadowflame devoured the lingering fires on its broken body, triggering an even more violent dark explosion.
 
 The force of the blast didn't just shatter the stones — the shadow energy within, merging with the elemental's own heat, tore through and carved a dark elemental "fissure" amid flame and smoke, as if it had directly infected and destroyed the very force binding the rubble together.
 
@@ -52,7 +52,7 @@ Daggett parried the elemental's assault with a long staff — he seemed a nimble
 
 Grede's warhammer, crackling with lightning, smashed squarely into the elemental's back. His Lightning Hammer Throw was devastatingly effective against these elementals — a chain of detonating current blasted it into a shower of stone, freeing Daggett from the relentless hammering.
 
-He reeled his crackling hammer back in, nodded to Daggett, who lowered his head, caught his breath, and raised a hand. "Thanks, Grede brother, I'm alright!"
+He reeled his crackling hammer back in, nodded to Daggett, who lowered his head, caught his breath, and raised a hand. "Thanks, brother Grede — I'm all right!"
 
 Grede rolled his shoulders. "I was hoping a few more of the buggers would show up — let me work off some of the anger from being chased by a pack of beasts half the night."
 
@@ -75,11 +75,3 @@ With that, Daggett cradled the stone in his gloved hands and handed it to Jace. 
 "You're the one who found this special stone. You don't want it?" Grede asked.
 
 "All I want is to go back in one more time. The rest is unnecessary. You two are the ones who defeated these hostile elementals — they should belong to you." Daggett said, "Let's keep moving."
-
-## Flags
-
-- **Chapter title**: 被扰动的大地 — "The Disturbed Earth" (lit. "Earth That Has Been Disturbed").
-- **Key terms**: 死亡之翼 = Deathwing (canon), 大地守护者 = the Earth-Warder (canon title of Neltharion), 虚弱咒语 = Curse of Weakness (canon warlock spell), 灼烧咒 = Immolate (canon warlock spell), 血魔之握 = Fel Grasp (fanfic OC spell), 暗影之盾 = Shadow Ward (fanfic OC spell), 闪电飞锤 = Lightning Hammer Throw (fanfic OC ability), 元素之土 = Elemental Earth (canon crafting material), 元素核碎片 = elemental core fragment (fanfic term).
-- **Characters**: 达葛特 = Daggett (OC Bronzebeard dwarf), 格瑞德 = Grede (canon per glossary).
-- **Lore note**: The passage explains that Deathwing's residual fel/insane power, left in the wake of his passage, is throwing the local earth elementals into a frenzy — hence the abnormally aggressive earth elementals in the ravine.
-- **Tone note**: Battle prose kept punchy and physical; Jace's internal voice stays dry and tactical even mid-fight. Grede's dialogue kept bluff and hearty.

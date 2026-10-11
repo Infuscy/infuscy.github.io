@@ -8,7 +8,7 @@ Truth be told, if this area weren't already occupied by black dragons, orcs, and
 
 Once they flew into this dark valley swallowed by ash and volcanic soot, nobody said another word.
 
-Not every gryphon could break through this haze like Grede's Gol'jett. Without Sora leading the way, even the best Wildhammer riders had a good chance of not making it out of Blackrock Mountain alive.
+Not every gryphon could break through this haze like Grede's Gorjet. Without Sola leading the way, even the best Wildhammer riders had a good chance of not making it out of Blackrock Mountain alive.
 
 But even so, Needleflame was flying ahead excitedly. To her, diving into this ash and scorched earth was like diving into a homeland she'd never known.
 
@@ -26,7 +26,7 @@ But even so, Needleflame was flying ahead excitedly. To her, diving into this as
 
 "You were never a gryphon rider captain, Grede." Vereesa sounded like she'd caught him in a lie. "Finished training at fifteen, joined the 'Watchers' of Aerie Peak. At twenty-two, sent to Stromgarde under the Kurdran Wildhammer-Liam Trollbane agreement to defend against Dark Iron raids. At twenty-seven, promoted into the Thunderfist Knights for merit in an ambush against the Witherbark trolls. At forty-two, became a Wildhammer vanguard."
 
-"You don't have to go on." Grede waved his hand. "A ranger-lord thinks she's special, huh? Want me to unroll your whole family tree?"
+"You don't have to go on." Grede waved his hand. "A Ranger Lord thinks she's special, huh? Want me to unroll your whole family tree?"
 
 Vereesa coughed. "Garin Thunderfist. Fenrak Thunderfist."
 
@@ -34,7 +34,7 @@ Vereesa coughed. "Garin Thunderfist. Fenrak Thunderfist."
 
 Jace snorted. "So you like being a noble, huh? Heh."
 
-"Vick Sesso. Florel Sesso. Rumein Wade Sesso. Jetherind Sesso..."
+"Vic Sesso. Florel Sesso. Rumein Wade Sesso. Jetherind Sesso..."
 
 "Stop, stop, stop." Jace covered Vereesa's mouth. "I know you're impressive. My own father probably doesn't know my family that well."
 
@@ -48,11 +48,11 @@ Jace snorted. "So you like being a noble, huh? Heh."
 
 "I don't like you either, Jace Sesso!" Needleflame screeched, then flew off into the distance, becoming a faint blue speck on the horizon.
 
-"Stop teasing her, Jace." Sora murmured, flapping her wings to catch up.
+"Stop teasing her, Jace." Sola murmured, flapping her wings to catch up.
 
 "What's the problem? It's not like she'll turn back into a dragon and scare people now." Jace grinned.
 
-Grede chuckled, but Sora still sighed with worry, not daring to relax. Jace patted the horns that extended behind her neck. "Don't forget what she was like in Auchindoun, Sora. She's calmer than you think. Besides, we're past the orc and black dragon territory now. No danger."
+Grede chuckled, but Sola still sighed with worry, not daring to relax. Jace patted the horns that extended behind her neck. "Don't forget what she was like in Auchindoun, Sola. She's calmer than you think. Besides, we're past the orc and black dragon territory now. No danger."
 
 As they chased, the green dragon flew out of the Badlands and reached the coastal mountains south of Loch Modan. To avoid the orcs and black dragons around Blackrock Mountain, they'd chosen the route closest to the eastern coast of the continent. The barren wasteland along both sides of the Redridge Mountains didn't torment them for long — less than a day and night before they were through.
 
@@ -60,9 +60,9 @@ But Needleflame seemed to be flying faster and faster in anger. By the time they
 
 Needleflame was as reliable on dangerous missions as she was unreliable when bored and wandering around. Now that everyone was relaxed, who knew what that little thing would do?
 
-"Chase her, Sora." Jace said immediately. "Lord Kurdran can keep up. There are still Wildhammer villages around here. No need to worry about them getting lost."
+"Chase her, Sola." Jace said immediately. "Lord Kurdran can keep up. There are still Wildhammer villages around here. No need to worry about them getting lost."
 
-Sora nodded and sped up, letting out a sharp, high-pitched call to get Needleflame to respond. The gryphon riders behind, sensing the green dragon's tension, also accelerated to follow.
+Sola nodded and sped up, letting out a sharp, high-pitched call to get Needleflame to respond. The gryphon riders behind, sensing the green dragon's tension, also accelerated to follow.
 
 Not long after, a series of roars echoed from the mountains ahead. And not just one dragon...
 
@@ -72,13 +72,13 @@ A black shadow burst out from between the peaks, with two red shapes in pursuit.
 
 "Damn — the reds think she's an enemy." Jace said.
 
-Sora lunged toward the flying shapes. One of the young red dragons, noticing Sora's approach, roared in Draconic, "Child of Queen Ysera! Join us! Capture and execute this arrogant black dragon! How dare she invade Grim Batol again!"
+Sola lunged toward the flying shapes. One of the young red dragons, noticing Sola's approach, roared in Draconic, "Child of Queen Ysera! Join us! Capture and execute this arrogant black dragon! How dare she invade Grim Batol again!"
 
 "It's a misunderstanding, children of Queen Alexstrasza!" The green dragon cried out urgently. "She came with us! She's not an enemy!"
 
 "What nonsense are you speaking? Or have you been corrupted by dark power too—" another young red dragon began, but before he could finish, Needleflame stopped running. She wheeled around, flames blazing in her mouth, and slammed straight into him, biting and clawing.
 
-"I'm Jace Sesso!" Jace immediately raised his Azure Song high. "I swear on everything Sora says is true! This black dragon came back from Draenor with us!"
+"I'm Jace Sesso!" Jace immediately raised Azuresong high. "I swear everything Sola says is true! This black dragon came back from Draenor with us!"
 
 Not just Jace — Grede was shouting explanations too, trying to stop the fight. But whether because their voices were too weak as mortals shouting from the backs of flying mounts, or because their hatred of black dragons had blinded them — likely both — the two young dragons were locked together, tumbling into the valley. The remaining red dragon screeched and dove after them. Wings beat. Flame swirled. None of them paid any attention to Jace's group.
 
@@ -90,9 +90,9 @@ The green dragon plunged without hesitation into the dense forest valley of the 
 
 *Damn.* Jace thought silently. *Why would you bring that up of all things...*
 
-They jumped off Sora's back. The green dragon charged straight in, dragging one of the reds away, then grabbed Needleflame and held her down. Sora was a full size larger than all three young dragons, and far outstripped them in power and age. With her forcing the issue, the two reds — held back by their fear of an elder — didn't dare keep fighting.
+They jumped off Sola's back. The green dragon charged straight in, dragging one of the reds away, then grabbed Needleflame and held her down. Sola was a full size larger than all three young dragons, and far outstripped them in power and age. With her forcing the issue, the two reds — held back by their fear of an elder — didn't dare keep fighting.
 
-Jace and the others caught up. Grede grabbed the tail of one red who seemed about to attack Sora, nearly pulling the massive creature off balance. The red roared, flames in its mouth, and whipped its head around furiously — only to find Vereesa aiming her bow at its head. It swallowed the flames.
+Jace and the others caught up. Grede grabbed the tail of one red who seemed about to attack Sola, nearly pulling the massive creature off balance. The red roared, flames in its mouth, and whipped its head around furiously — only to find Vereesa aiming her bow at its head. It swallowed the flames.
 
 "I'm warning you, red dragon. Don't try anything." Vereesa's voice was icy. "Have you forgotten? We're the ones who saved the Queen."
 
@@ -102,11 +102,11 @@ Jace and the others caught up. Grede grabbed the tail of one red who seemed abou
 
 "And it ended in betrayal!" the other red shouted. "When the portal was about to collapse, when the Expedition was most isolated — those black dragons chose to flee! They've always been this shameless. Even leaving Azeroth didn't change them! Only people like the Expedition, like you — good-hearted people — would believe otherwise."
 
-"I never betrayed anyone!" Needleflame roared, madly breaking free from Sora's grip and launching herself at the red.
+"I never betrayed anyone!" Needleflame roared, madly breaking free from Sola's grip and launching herself at the red.
 
 Though she was smaller than the red, her sudden charge startled the other dragon into shrinking back, barely raising his wings in defense before being ruthlessly slammed into another patch of woods, crushing a swath of trees.
 
-Chaos erupted again. Sora couldn't stop them this time either. Above, the two Wildhammer gryphons circled, afraid to land.
+Chaos erupted again. Sola couldn't stop them this time either. Above, the two Wildhammer gryphons circled, afraid to land.
 
 It was clear words weren't going to work. But Jace really didn't want to use shadow magic to break this up. At this point, though, if he didn't intervene, these dragons would end up with damage that couldn't be repaired.
 

@@ -2,7 +2,7 @@
 
 Some Expedition officers and mages who'd returned from Draenor were still stationed at Stonard and Nethergarde Keep. They were there partly to help the draenei cooperate with the Alliance, and partly to keep watch over the Dark Portal — making sure nothing stirred again in that corrupted Blasted Lands.
 
-Several Expedition members who'd come back from Wildhammer Keep offered to guide Jace to Nethergarde Keep, but he decided to go alone. It wasn't his first time on this road anyway. Besides, even with his eyes blindfolded, Midnight still didn't look normal. By evening, a priest even came to Jace voluntarily, suggesting that the strange illness afflicting the black horse might originate from Jace's own dark magic... and that he should try to control his magic more while riding.
+Several Expedition members who'd come back from Wildhammer Stronghold offered to guide Jace to Nethergarde Keep, but he decided to go alone. It wasn't his first time on this road anyway. Besides, even with his eyes blindfolded, Midnight still didn't look normal. By evening, a priest even came to Jace voluntarily, suggesting that the strange illness afflicting the black horse might originate from Jace's own dark magic... and that he should try to control his magic more while riding.
 
 Jace naturally understood the priest's good intentions and appreciated the advice. But he just thought to himself that if his magic could twist a horse into this state, that would be quite an achievement.
 
@@ -30,19 +30,19 @@ Midnight's black mane trembled rhythmically with the clatter of his hooves. The 
 
 Looking south from here into the lowlands, he could also see the Dark Portal — and the dim green shadow still clinging to it, radiating undisguised evil.
 
-But supply carts and convoys were coming from the Portal toward the keep. The watchtowers that had once been occupied by Eredar now flew blue and white banners. The Alliance had basically taken control of the Dark Portal.
+But supply carts and convoys were coming from the Portal toward the keep. The watchtowers that had once been occupied by eredar now flew blue and white banners. The Alliance had basically taken control of the Dark Portal.
 
-Jace followed a supply cart to the city gate, waiting to enter. Anti-demon runes were densely packed along the walls on both sides, glowing faintly under arcane energy. Jace could clearly sense Mor'fel's invisible form stir with a confrontational emotion — as if she wanted to see if those runes could drag her out of the shadows.
+Jace followed a supply cart to the city gate, waiting to enter. Anti-demon runes were densely packed along the walls on both sides, glowing faintly under arcane energy. Jace could clearly sense Morophil's invisible form stir with a confrontational emotion — as if she wanted to see if those runes could drag her out of the shadows.
 
-Jace wasn't optimistic. She'd already lost the *Book of Evil Names*. Although Khadgar hadn't noticed her last time, that was because he'd been completely off guard. Expecting the Kirin Tor wardens guarding the Dark Portal not to detect her was a stretch.
+Jace wasn't optimistic. She'd already lost the *Book of Fel Names*. Although Khadgar hadn't noticed her last time, that was because he'd been completely off guard. Expecting the Kirin Tor wardens guarding the Dark Portal not to detect her was a stretch.
 
 Sure enough, as she passed one of the runes, Jace clearly felt several alarm runes begin to warp and turn red. The Kirin Tor battle mages guarding the gate also noticed the rune's reaction and hurried over.
 
-"Better give up, Mor'fel. That's the foundation of the Order of Tirisfal..." Jace said with a smile.
+"Better give up, Morophil. That's the foundation of the Order of Tirisfal..." Jace said with a smile.
 
-But though irritation flared in Mor'fel's emotions, she didn't immediately concede by appearing from the shadows.
+But though irritation flared in Morophil's emotions, she didn't immediately concede by appearing from the shadows.
 
-"This bag, mage." A battle mage carrying both sword and staff glanced at the Kirin Tor Trust Ring on Jace's hand. "Please open this bag for inspection. I'm certain the runes' reaction has nothing to do with its Eredun leather material."
+"This bag, mage." A battle mage carrying both sword and staff glanced at the Kirin Tor Trust Ring on Jace's hand. "Please open this bag for inspection. I'm certain the runes' reaction has nothing to do with its Ered'ruin leather material."
 
 It was the bag causing problems? Jace was a bit surprised, considering what was inside...
 
@@ -68,13 +68,13 @@ The young mage statue — holding a staff in one hand and a sword in the other �
 
 "He wasn't even twenty back then."
 
-"That's a genuine Blade of the Eternals. Look at that sapphire hilt."
+"That's a genuine Azuresong. Look at that sapphire hilt."
 
 "His staff looks a bit different..."
 
 Someone's comment snapped Jace back to reality. He shifted the staff hanging at his side slightly behind him and said to the mage in front, "I have more than one demon with me. I should tell you in advance."
 
-But the battle mage didn't seem interested in the demon issue at all. Instead he asked, "You... destroyed Sargeras' scepter on the Seat of Kil'jaeden — the scepter even Aegwynn couldn't destroy? Is that true, master?"
+But the battle mage didn't seem interested in the demon issue at all. Instead he asked, "You... destroyed Sargeras' scepter on the Throne of Kil'jaeden — the scepter even Aegwynn couldn't destroy? Is that true, master?"
 
 "What did Sargeras' scepter look like?" Another mage chimed in. "I heard it was like an emerald green jade scepter, but the green was pure fel energy. They say the Eye of Sargeras was set in its tip."
 
@@ -96,13 +96,13 @@ But the battle mage didn't seem interested in the demon issue at all. Instead he
 
 Soon, the word "Jace Sesso has returned to Nethergarde Keep" spread up to the walls.
 
-"Hard to say if this statue is better placed here or in the Valley of Heroes." Jace looked at the folds of the robe on the statue and the blood-magic staff — already destroyed at the bottom of Grim Batol — and said, "But this statue is smaller than the one in the Valley of Heroes. It might not look right together..."
+"Hard to say if this statue is better placed here or in the Valley of Heroes." Jace looked at the folds of the robe on the statue and Gorefiend's staff — already destroyed at the bottom of Grim Batol — and said, "But this statue is smaller than the one in the Valley of Heroes. It might not look right together..."
 
 "So they should build another one in the Valley of Heroes!" the imp shouted.
 
 "Let Varian save his money for the siege on Blackrock Spire." Jace said.
 
-"Why aren't you saying anything, Mor'fel?"
+"Why aren't you saying anything, Morophil?"
 
 "Hmm... I want to climb that statue."
 

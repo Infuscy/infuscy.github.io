@@ -4,7 +4,7 @@ These people didn't give him much time to breathe. The Farstrider kept shouting 
 
 Dazarm was charging after the real Dar'Khan, but there was no way it could handle all these copies at once.
 
-For an archmage like Dar'Khan, Mirror Images weren't mere shadows — they still carried considerable killing power. Jace raised a Dark Shield to block a volley of Arcane Missiles. The blue-violet arcane energy hammered against the black membrane in pulses, scattering dazzling electric-bright light. The last Ice Lance pierced the shadow shield, and with a shockwave that blasted outward, the nearest Mirror Image was blown apart. Jace summoned a blast of Shadowflame with one hand to scatter the other copy.
+For an archmage like Dar'Khan, Mirror Images weren't mere shadows — they still carried considerable killing power. Jace raised a Shadow Shield to block a volley of Arcane Missiles. The blue-violet arcane energy hammered against the black membrane in pulses, scattering dazzling electric-bright light. The last Ice Lance pierced the shadow shield, and with a shockwave that blasted outward, the nearest Mirror Image was blown apart. Jace summoned a blast of Shadowflame with one hand to scatter the other copy.
 
 As the firelight cleared, he saw that the Farstrider had already moved to a nearby headstone, bow fully drawn and aimed right at him...
 
@@ -22,35 +22,35 @@ He gave a cold laugh. "Dragon-slayer, remember my name — Veras Darkshadow."
 
 "Got it. So... go die."
 
-A demon's murmur accompanied two bursts of flame that suddenly tore free from the shadows behind him. Morfile's two short blades hacked straight down at the elf assassin — only to impale him into a cloud of smoke.
+A demon's murmur accompanied two bursts of flame that suddenly tore free from the shadows behind him. Morophil's two short blades hacked straight down at the elf assassin — only for him to burst into a cloud of smoke.
 
-Morfile didn't seem surprised in the slightest. She sized Jace up quickly, then without hesitation swung hard at the figure behind her — just in time to meet the blade of the elf who'd emerged from another shadow.
+Morophil didn't seem surprised in the slightest. She sized Jace up quickly, then without hesitation swung hard at the figure behind her — just in time to meet the blade of the elf who'd emerged from another shadow.
 
 The demon was slightly shorter than the elf, and as a succubus her limbs looked more delicate and frail, but her savagery and fel power were every bit his match.
 
-Jace couldn't keep up with the two of them. He immediately chanted Demonic Empowerment. Morfile's eyes flared with intensifying heat, her muscles and fel markings swelling as if she were a demon of hell manifested in the rain. She steadily began pressing Veras back.
+Jace couldn't keep up with the two of them. He immediately chanted Demonic Empowerment. Morophil's eyes flared with intensifying heat, her muscles and fel markings swelling as if she were a demon of hell manifested in the rain. She steadily began pressing Veras back.
 
 The two shifted too fast, tangled together. Aiming a spell by sight alone was too risky — he might hit the demon. He'd have to rely on sensing his target's aura to land a spell.
 
 But shadow coiled between the two of them. Veras... this elf assassin had some enchantment on his clothing or weapon that masked even his aura to the point of being nearly undetectable. Jace was completely powerless. He couldn't help.
 
-Was this the rogue's ultimate move, "Shadow Cloak"? A self-preservation shroud that blocked the vast majority of magic and spells.
+Was this the rogue's ultimate move, "Cloak of Shadows"? A self-preservation shroud that blocked the vast majority of magic and spells.
 
 "Another demon?" the Farstrider ranger roared from beyond the mausoleum. "Veras!"
 
 "You hear that? Go kill that ranger, darling. Don't let me keep getting hit following you around — it hurts. I'll keep dealing with him..."
 
-Morfile's demonic whisper drifted over, her tone calm enough to actually put Jace slightly at ease. Within moments, the two plunged back into shadow.
+Morophil's demonic whisper drifted over, her tone calm enough to actually put Jace slightly at ease. Within moments, the two plunged back into shadow.
 
 Yes. He had to kill that ranger. Couldn't let her keep calmly supporting from range.
 
 Jace moved to the edge of the mausoleum wall, following the sound. He'd barely cleared the wall when an arrow wreathed in Holy Light suddenly streaked from beside a distant headstone, grazed the wall, and ricocheted away.
 
-This ranger actually thought to use Holy Wizard Oil on him? Was that the image he projected in these Quel'dorei's eyes?
+This ranger actually thought to use Blessed Wizard Oil on him? Was that the image he projected in these Quel'dorei's eyes?
 
-Dar'Khan seemed to be tied up by Dazarm, and the elven assassin had Morfile on him. Which left only you.
+Dar'Khan seemed to be tied up by Dazarm, and the elven assassin had Morophil on him. Which left only you.
 
-Backed by the Refined Wisdom Elixir, Jace went ahead and Shadowstepped straight out of the mausoleum wall, circled around, dodged another arrow from the ranger, and closed in fast — landing not far behind her.
+Backed by the Flask of Distilled Wisdom, Jace went ahead and Shadowstepped straight out of the mausoleum wall, circled around, dodged another arrow from the ranger, and closed in fast — landing not far behind her.
 
 The ranger had just nocked another arrow when she saw Jace close a huge chunk of distance. She seemed reluctant to go hand-to-hand with him.
 
@@ -60,7 +60,7 @@ Jace obviously wasn't about to give her a chance to open the distance and hide a
 
 The ranger's movements had always been light and agile. Dragged by that savage force so suddenly, she actually tumbled among the headstones.
 
-But she scrambled back up quickly, staggered a few times, and tried to run again. That single stumble had already let Jace close to her back. He caught her throat with Asphyxiate, gritted his teeth, and chanted: "Eramun, Xilondor."
+But she scrambled back up quickly, staggered a few times, and tried to run again. That single stumble had already let Jace close to her back. He caught her throat with Asphyxiate, gritted his teeth, and chanted: "Elamun, Silondor."
 
 "Jace... Sesso..."
 
@@ -76,13 +76,13 @@ Just as he was about to finish the ranger off, he suddenly felt a powerful arcan
 
 He turned. Through the rain, a vaguely humanoid mass of pure arcane energy charged before him, arms raised high, gathering an ever-growing arcane sphere between its hands. It grabbed the sphere with one hand and hurled it hard.
 
-Jace raised a Dark Shield at top speed and barely blocked the arcane sphere. The blast of arcane energy shattered his Dark Shield. The outward shockwave and mana explosion flattened nearly every still-standing headstone nearby. Rubble and shattered tile flew everywhere, clattering and crashing across the ground.
+Jace raised a Shadow Shield at top speed and barely blocked the arcane sphere. The blast of arcane energy shattered his Shadow Shield. The outward shockwave and mana explosion flattened nearly every still-standing headstone nearby. Rubble and shattered tile flew everywhere, clattering and crashing across the ground.
 
 The arcane aberration shoved through the flying debris and charged straight at him. The arcane sphere had cost it some of its form, but it was still ferocious. Which made it a perfect target to test a spell Jace had only recently learned.
 
-"Menali, Katali, Shukile!"
+"Menali, Katali, Shukil!"
 
-Jace pointed at the onrushing aberration and chanted. Bright, dazzling arcane energy was rapidly infected by Shadow, forming a sheet of violet-crimson flame. By the whole aberration crashed into Jace, it had become a great burst of Shadowflame scattering around him, accompanied by a reluctant wail — and then the rain swallowed the sound once more.
+Jace pointed at the onrushing aberration and chanted. Bright, dazzling arcane energy was rapidly infected by Shadow, forming a sheet of violet-crimson flame. By the time the whole aberration crashed into Jace, it had become a great burst of Shadowflame scattering around him, accompanied by a reluctant wail — and then the rain swallowed the sound once more.
 
 Jace flicked the embers off his clothes and couldn't help a cough. Only one shadow remained.
 
@@ -98,17 +98,17 @@ Jace had no arcane talent whatsoever. Severing his connection to the Weave natur
 
 What spell was that?
 
-Dar'Khan showed no satisfaction at dismantling Jace's spell. He raised one hand and gathered a mass of arcane energy. From the sound of the arcane gathering, Jace could tell this was an extremely powerful Arcane Barrage. He focused immediately, channeling Ulthalesh's power to chant and shape a Dark Shield...
+Dar'Khan showed no satisfaction at dismantling Jace's spell. He raised one hand and gathered a mass of arcane energy. From the sound of the arcane gathering, Jace could tell this was an extremely powerful Arcane Barrage. He focused immediately, channeling Ulthalesh's power to chant and shape a Shadow Shield...
 
-The arcane mana that lit up a huge swath of the graveyard slammed into the Dark Shield. A vast stretch of fallen tree trunks behind him was flung away. Winds howled and spun. Iron railings were ripped clean out of the ground. But the Dark Shield Jace had chanted with real focus still held — it wasn't shattered by that Arcane Barrage.
+The arcane mana that lit up a huge swath of the graveyard slammed into the Shadow Shield. A vast stretch of fallen tree trunks behind him was flung away. Winds howled and spun. Iron railings were ripped clean out of the ground. But the Shadow Shield Jace had chanted with real focus still held — it wasn't shattered by that Arcane Barrage.
 
 "What kind of power is this?! You can't, you don't..."
 
 Dar'Khan was clearly shaken too, but he didn't waste time being surprised. He immediately switched to a different gesture.
 
-Now his arcane-blue eyes were being devoured by shadow energy. He clenched both hands and chanted something Jace couldn't make out. Jace felt his once-solid Dark Shield being rapidly dismantled and shattered... without even enough force left to explode outward.
+Now his arcane-blue eyes were being devoured by shadow energy. He clenched both hands and chanted something Jace couldn't make out. Jace felt his once-solid Shadow Shield being rapidly dismantled and shattered... without even enough force left to explode outward.
 
-Jace had no time to figure out how Dar'Khan was doing it. While the Dark Shield still had remnants standing, he called up several Fireballs and hurled them. Dar'Khan vanished in a flash of light and reappeared more than ten meters away, buying time to raise a Fire Ward that absorbed every bit of flame.
+Jace had no time to figure out how Dar'Khan was doing it. While the Shadow Shield still had remnants standing, he called up several Fireballs and hurled them. Dar'Khan vanished in a flash of light and reappeared more than ten meters away, buying time to raise a Fire Ward that absorbed every bit of flame.
 
 A wave of pale helplessness spread through Jace's heart. If he wanted to deal with Dar'Khan, he'd have to summon another felhound.
 
@@ -118,21 +118,21 @@ Should he improvise enough blood on the spot?
 
 He looked at his arm — but Dar'Khan gave him no opening at all. The graveyard lit up again, and soon a continuous volley of Arcane Missiles came at him. Boom after boom of arcane energy hammered against his shield with dull, heavy impacts that seemed to go on without end...
 
-This volley of Arcane Missiles was clearly far more powerful. The Dark Shield finally shattered. One Arcane Missile punched through the shockwave of shadow energy and hit Jace square in the chest, blasting him to the ground. Another struck the floor beside him, and the shockwave sent him rolling to the side.
+This volley of Arcane Missiles was clearly far more powerful. The Shadow Shield finally shattered. One Arcane Missile punched through the shockwave of shadow energy and hit Jace square in the chest, blasting him to the ground. Another struck the floor beside him, and the shockwave sent him rolling to the side.
 
 If he hadn't drained a mouthful of that ranger's life force earlier, that one hit would have killed him.
 
 In the distance, Dar'Khan raised his silver staff high. The arcane radiance pouring from that fearsome staff spread outward in wave after wave, like a tide. What staff was that?
 
-At that moment, a burning shadow suddenly manifested behind Dar'Khan — it was Morfile!
+At that moment, a burning shadow suddenly manifested behind Dar'Khan — it was Morophil!
 
 Veras must have been dealt with. She drove her short sword viciously at Dar'Khan's back — but just before it touched his robe, a solid wall of ice blocked her!
 
-The ice wall exploded immediately after, throwing Morfile back several steps. The two tangled together, shadow and frost interlocking. This was the chance to summon another felhound.
+The ice wall exploded immediately after, throwing Morophil back several steps. The two tangled together, shadow and frost interlocking. This was the chance to summon another felhound.
 
 Jace spat a mouthful of blood and without hesitation slashed his arm, blood spraying as he chanted.
 
-His vision was growing blurred. Morfile seemed to be held at bay layer by layer by Dar'Khan's terrifying frost magic, finally turning into an ice sculpture — and the Void Portal was already opening.
+His vision was growing blurred. Morophil seemed to be held at bay layer by layer by Dar'Khan's terrifying frost magic, finally turning into an ice sculpture — and the Void Portal was already opening.
 
 Damn it. Still not enough time.
 
@@ -142,19 +142,19 @@ Dar'Khan roared. Tentacles of the Void suddenly whipped up around Jace, coiling 
 
 "We spent God knows how long preparing for you, Jace Sesso. Accept this outcome!"
 
-The elven mage's voice was already breaking into a hoarse, ragged wail. He suddenly Blinked to a spot not far ahead and, raising his right hand toward Jace bound tight by tentacles, chanted: "Eramun, Xilondulir!"
+The elven mage's voice was already breaking into a hoarse, ragged wail. He suddenly Blinked to a spot not far ahead and, raising his right hand toward Jace bound tight by tentacles, chanted: "Elamun, Silondulir!"
 
 Jace felt the vitality in his whole body seized by an invisible hand — gushing out through his eyes, nose, mouth, and throat, all of it gathered and devoured by the high elf mage before him.
 
 His hands and legs, his limbs rapidly went limp. And then he saw crimson patterns suddenly bloom across his skin. Blood Pact?
 
-Dar'Khan had clearly sensed the imp's presence too. His eyes shifted slightly to the side. But the Blood Pact wouldn't hold for long either — sooner or later Life Drain would hollow him out completely. So he focused on Jace again, chanting and intensifying the Life Drain.
+Dar'Khan had clearly sensed the imp's presence too. His eyes shifted slightly to the side. But the Blood Pact wouldn't hold for long either — sooner or later Drain Life would hollow him out completely. So he focused on Jace again, chanting and intensifying the Drain Life.
 
 But this had bought Jace enough time... most importantly, enough willpower to chant.
 
-"Luhravankta, Luarakipta..."
+"Luhravenkta, Luarakipta..."
 
-Feeling the shadow energy that filled the entire Great Graveyard, Jace sacrificed his own life and channeled shadow mana into his body. The mana channel Dar'Khan was guiding for Life Drain suddenly flushed violet-crimson. The veins across his body turned black with Shadow in an instant!
+Feeling the shadow energy that filled the entire Raven Hill Cemetery, Jace sacrificed his own life and channeled shadow mana into his body. The mana channel Dar'Khan was guiding for Drain Life suddenly flushed violet-crimson. The veins across his body turned black with Shadow in an instant!
 
 The mage howled and stopped casting, vomiting in pain. Jace gave a few satisfied, cold laughs — only to find he'd been tormented to the point where he had no strength left to break free of these shadow tentacles.
 

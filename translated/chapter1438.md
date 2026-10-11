@@ -8,21 +8,21 @@ Of course, Jace wasn't just thinking about finding Medivh's Void research or bri
 
 After saying goodbye to Amy, Jace walked to the canal bridge at the entrance to the Mage Quarter. Emeriss was waiting there for him to head to the embassy district together.
 
-"I saw the black dragon, Jace Sesso." Emeriss said. "Needlefang. That is the name Prince Sabellian gave to the first black dragon born in ten thousand years without the shadow's corruption."
+"I saw the black dragon, Jace Sesso." Emeriss said. "Needleflame. That is the name Prince Sabellian gave to the first black dragon born in ten thousand years without the shadow's corruption."
 
-"Needlefang isn't the only one from that clutch of eggs." Jace said. "But she's the only one willing to come back with us."
+"Needleflame isn't the only one from that clutch of eggs." Jace said. "But she's the only one willing to come back with us."
 
 "Then she is the purest one — the one most worthy of attention." Emeriss said. "Brave, responsible, different from the others... No matter how unfamiliar Azeroth is to her, a black dragon with the most traditional will will always find a way to return here, to protect this place. That is the mission bestowed upon the bloodline of the Earth-Warder by the greatest of beings."
 
-It was an angle Jace had never considered. But thinking back to Draenor, Needlefang had never been to Azeroth, yet whenever Jace told stories about it, she'd show curiosity and longing. Even when Jace deliberately described the darkness and horror of the Old Gods, she was cautious but not scared off.
+It was an angle Jace had never considered. But thinking back to Draenor, Needleflame had never been to Azeroth, yet whenever Jace told stories about it, she'd show curiosity and longing. Even when Jace deliberately described the darkness and horror of the Old Gods, she was cautious but not scared off.
 
 And now that she was in Azeroth, even if she sometimes missed her kin back on Draenor, it was more about worrying how they were doing after the portal closed than about wanting to go home... Maybe that pure-blood influence was real. By comparison, Deathwing and Sabellian's decision to move to Outland seemed like they'd completely forgotten their past.
 
-Would Needlefang really become the queen of the black dragons someday?
+Would Needleflame really become the queen of the black dragons someday?
 
-Setting Needlefang aside, there was actually another black dragon who'd avoided corruption by being forgotten, hiding in the Broken Isles as a Highmountain tauren — Ebyssian, the "Blackhorn." Compared to Needlefang, who was only three or four years old, this ancient black dragon who'd been in hiding for ten thousand years was obviously better suited to inherit the Earth-Warder's duty.
+Setting Needleflame aside, there was actually another black dragon who'd avoided corruption by being forgotten, hiding in the Broken Isles as a Highmountain tauren — Ebyssian, known as "Ebonhorn." Compared to Needleflame, who was only three or four years old, this ancient black dragon who'd been in hiding for ten thousand years was obviously better suited to inherit the Earth-Warder's duty.
 
-Jace genuinely hoped Needlefang could grow up simply, happily, and without trouble, like Alexstrasza had said. Even if she ended up joining a bandit group like the Defias Brotherhood, or went to Ravenholdt... whatever. At least she'd live like a normal Azerothian creature.
+Jace genuinely hoped Needleflame could grow up simply, happily, and without trouble, like Alexstrasza had said. Even if she ended up joining a bandit group like the Defias Brotherhood, or went to Ravenholdt... whatever. At least she'd live like a normal Azerothian creature.
 
 But as a descendant of Deathwing, her fate was never going to be that smooth. Jace knew that very well.
 
@@ -34,7 +34,7 @@ When Sylvanas noticed Jace at the door, she elbowed Vereesa, who was chattering 
 
 "Even though I'm a Quel'dorei?" Vereesa clapped her hands excitedly. "Queen Alexstrasza was willing to help, but I was still nervous."
 
-Emeriss said, "Empress Azshara's crimes were ten thousand years ago. And the Quel'dorei have made tremendous contributions in the Dark Portal disasters, fighting against the demons. Especially you, Vereesa Windrunner. Everything you, Jace Sesso, and Grede Thunderfist did — Queen Ysera remembers it all."
+Emeriss said, "Queen Azshara's crimes were ten thousand years ago. And the Quel'dorei have made tremendous contributions in the Dark Portal disasters, fighting against the demons. Especially you, Vereesa Windrunner. Everything you, Jace Sesso, and Grede Thunderfist did — Queen Ysera remembers it all."
 
 "But the Emerald Dream is ultimately very different from reality. The flow of time and the shifting of space may be difficult for a mortal to adapt to. I hope you are prepared to face all challenges."
 
@@ -42,17 +42,17 @@ Vereesa took a deep breath and glanced at Jace beside her. "I'd like to say I'm 
 
 While Vereesa was determined but slightly nervous, Jace found himself suddenly very interested in what Emeriss had said about the flow of time and shifting of space.
 
-He remembered when they'd entered the Dream through the Temple of Kislieran to save Sorah — he, Grede, and Vereesa had been besieged by a horde of nightmare creatures for what felt like ages, then spent a long time dealing with the corrupted Somniel. But when they woke up, it seemed like hardly any time had passed in Winterspring.
+He remembered when they'd entered the Dream through the ruins of Kel'Theril to save Sola — he, Grede, and Vereesa had been besieged by a horde of nightmare creatures for what felt like ages, then spent a long time dealing with the corrupted Somaelir. But when they woke up, it seemed like hardly any time had passed in Winterspring.
 
 Could studying in the Emerald Dream have a "Hyperbolic Time Chamber" effect?
 
 "Lady Emeriss — could someone spend months learning in the Emerald Dream, only to find only days had passed in the real world?" Jace asked.
 
-"Perhaps. But it is far from that simple." Emeriss said. "Sometimes you feel like you've spent years in the Dream, only to wake and find a single night has passed. Other times, you feel like only an instant in the Dream, then wake to find a whole long night has gone by. Somniel was born during the War of the Shifting Sands. By your reckoning, she is undoubtedly over a thousand years old. But she certainly wouldn't agree — to her, it's probably only been a few decades... I think only the bronze dragons could explain the rules behind it."
+"Perhaps. But it is far from that simple." Emeriss said. "Sometimes you feel like you've spent years in the Dream, only to wake and find a single night has passed. Other times, you feel like only an instant in the Dream, then wake to find a whole long night has gone by. Somaelir was born during the War of the Shifting Sands. By your reckoning, she is undoubtedly over a thousand years old. But she certainly wouldn't agree — to her, it's probably only been a few decades... I think only the bronze dragons could explain the rules behind it."
 
 Jace knew "only the bronze dragons could explain the rules" was an idiom among dragonkind, basically a classier way of saying "gods only know."
 
-"When can we depart, Lady Vereesa?" Emeriss turned. "Queen Ysera is waiting for you. She looks forward to meeting you soon. We can enter through the Dream Gate in the Dawnwood."
+"When can we depart, Lady Vereesa?" Emeriss turned. "Queen Ysera is waiting for you. She looks forward to meeting you soon. We can enter through the Dream Gate in the Twilight Grove."
 
 Vereesa looked at Jace and said apologetically, "Give me one night to prepare... I'm sorry, Lady Emeriss. I honestly didn't expect Queen Ysera to respond so quickly."
 

@@ -82,11 +82,11 @@ The demon's eyes slid toward the staff beside them, and suddenly her tail hooked
 
 Morophil gave a soft cry of surprise, her eyes fixed on the gem until its glow dimmed.
 
-Only now did Jace remember: he'd summoned this succubus using Taron's staff — no, his own staff. By rights, it should have been a stronger subspecies, just like the imp.
+Only now did Jace remember: he'd summoned this succubus using Teron's staff — no, his own staff. By rights, it should have been a stronger subspecies, just like the imp.
 
 But the Morophil before him didn't seem any stronger except for the missing wings. Not only did she lack the wings a normal succubus had — she didn't have a whip either. Without a whip, how was she supposed to fight?
 
-"You took the Eredar's long staff," Morophil said. "I knew it. I never would have been summoned directly by a weak human otherwise."
+"You took the eredar's long staff," Morophil said. "I knew it. I never would have been summoned directly by a weak human otherwise."
 
 Jace set the staff back in its place and touched the scrape on his arm. "What, so this 'weak human' of mine is making you regret it?"
 
@@ -110,7 +110,7 @@ The succubus snorted and turned her head away. Seeing that she'd gone silent, Ja
 
 The lamb was still lying on the ground. If not for the cloying sweet scent coming off the succubus, the whole room would have been thick with the smell of blood by now. Good thing it wasn't an old goat — it didn't have much of a mutton stench yet.
 
-He carried the goat out and found an old man fishing by the canal who was willing to take it home and dress it, and got a handful of coppers for it. Honestly, he didn't even care about the money anymore — as long as someone would take it away quickly.
+He carried the lamb out and found an old man fishing by the canal who was willing to take it home and dress it, and got a handful of coppers for it. Honestly, he didn't even care about the money anymore — as long as someone would take it away quickly.
 
 By now Jace felt completely drained. Logically, a young lamb shouldn't have tired him out this much over a few hundred meters.
 
@@ -120,7 +120,7 @@ Jace squatted by the canal, washing the blood from his wounds. After squatting u
 
 Staring at the shadow of the Mage Quarter's tall towers in the distance, he thought about how he ought to explain this succubus-summoning incantation to the people at the Slaughtered Lamb.
 
-Telling them within the next couple of days definitely wouldn't do. He'd have to wait at least a while — otherwise Galders would think he was some terrifying dark magic prodigy. And if it came too easily, nobody would take his results seriously.
+Telling them within the next couple of days definitely wouldn't do. He'd have to wait at least a while — otherwise Zardeth would think he was some terrifying dark magic prodigy. And if it came too easily, nobody would take his results seriously.
 
 Most of all, Jace really didn't want those orgy enthusiasts summoning another succubus of their own.
 
@@ -135,12 +135,3 @@ He lay down on the bed. The succubus leaned close to his ear. "So do you want a 
 "Then shall I help you fall asleep?"
 
 "You… how?"
-
-## Flags
-
-- **Morophil's combat observation:** She notes Jace's staff is the "Eredar's long staff" (艾瑞达人的长杖) — glossary: 艾瑞达 = Eredar. She implies it's why a human could summon her directly.
-- **Missing wings/whip:** Morophil lacks both wings and a whip — unusual for a succubus. Jace finds this suspicious; she later demonstrates speed/blink-like combat ability (Chapter 244).
-- **The lamb:** The goat Jace bought for the ritual — he sells it to a canal fisherman for a handful of coppers (铜币).
-- **Slaughtered Lamb:** 已宰的羔羊 → The Slaughtered Lamb (glossary). Galders (加尔德斯) is the warlock Jace reports to.
-- **Charm spell:** 魅惑术 → "charm spell" (succubus ability; not in glossary as a named spell, rendered descriptively).
-- **Tone:** Morophil's teasing, provocative voice kept playful and slightly menacing; Jace's internal voice stays dry and exasperated.

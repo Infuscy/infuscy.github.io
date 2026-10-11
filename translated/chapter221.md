@@ -16,11 +16,11 @@ Both of them stared over that way for a moment. Grede asked, "Fish or frog?"
 
 Jace looked at him. "Frogs in winter?"
 
-"You ever heard of Mana Brew?" the dwarf asked.
+"You ever heard of mojo?" the dwarf asked.
 
-"Amani witch doctors turning magic frogs out here? What kind of joke is that?" Jace laughed.
+"Amani witch doctors turning people into frogs out here? What kind of joke is that?" Jace laughed.
 
-The dwarf narrowed his eyes. "You actually know about Mana Brew?"
+The dwarf narrowed his eyes. "You actually know about mojo?"
 
 The smile on Jace's face froze. He covered, "I'm from the north too — what's so strange about knowing that? Come on, let's go take a look."
 
@@ -60,7 +60,7 @@ Right then, the man suddenly went still.
 
 "Our own people?" Jace said. "We need to watch out for other mercenaries now. Honestly, we should've seen this coming from the start."
 
-Back at Westfall Keep, when the sheriff had said "you're not quite like the other mercenaries," Jace had a vague feeling about what kind of situation he'd be dealing with here. He just hadn't expected it to get this naked and brutal.
+Back at Westbrook Garrison, when the sheriff had said "you're not quite like the other mercenaries," Jace had a vague feeling about what kind of situation he'd be dealing with here. He just hadn't expected it to get this naked and brutal.
 
 Looking at this man who had just died, he felt a wave of intense nausea. Even facing the walking corpses back in Dalaran, he'd never felt this sick.
 
@@ -70,7 +70,7 @@ Looking at this man who had just died, he felt a wave of intense nausea. Even fa
 
 Jace said quietly, "Sazeno, come out and keep watch for us."
 
-At that, the imp immediately popped its head out of the warlock pack on Jace's back.
+At that, the imp immediately popped its head out of the warlock's bag on Jace's back.
 
 Grede watched the golden imp head stretch out and stare at him. His expression went from shock to confusion to anger. He grabbed Jace by the robe and hissed, "What the hell are you doing?"
 
@@ -84,7 +84,9 @@ The imp nodded vigorously.
 
 "It's that obedient?"
 
-"At least on the surface." The two of them followed the riverbank, using the tall waterside grass as cover, heading south for roughly two hours. The imp didn't detect a single disturbance the whole time.
+"At least on the surface."
+
+The two of them followed the riverbank, using the tall waterside grass as cover, heading south for roughly two hours. The imp didn't detect a single disturbance the whole time.
 
 "Check the map," Jace said, patting Grede's back.
 
@@ -100,7 +102,7 @@ At their walking pace, two hours felt like four or five kilometers. By his recko
 
 "Are we lost?" Grede asked.
 
-Jace looked back at the calm river surface and said, "We haven't left this river since we set out from Westfall Keep. Honestly, Grede, if we don't leave this river and head into the woods, we haven't even started — let alone gotten lost. The map says we're about there too. Let's head in."
+Jace looked back at the calm river surface and said, "We haven't left this river since we set out from Westbrook Garrison. Honestly, Grede, if we don't leave this river and head into the woods, we haven't even started — let alone gotten lost. The map says we're about there too. Let's head in."
 
 "Then let's go," Grede said.
 
@@ -113,14 +115,3 @@ After the two of them had been picking their way through the forest for ten or t
 "What is it? Speak."
 
 "There seems to be a spellcaster in the distance… or maybe not."
-
-## Flags
-
-- **Title**: 河岸 — "Riverbank" (the banks of the River Neltharion / Nafeltari River).
-- **Mana Brew** (魔汁): Jace recognizes the term and Gredes is surprised — a lore reference to Amani troll alchemical magic; Jace nearly slips by revealing too much knowledge.
-- **Northshire woman** (诺森德人): the earlier dead woman by the river near Raven Hill; rendered per context as a woman from the northern region.
-- **Sazeno** (撒厄诺): the imp, per glossary. Jace has ordered it to stay silent on this outing.
-- **Southshore dragon** (南海镇): a prior adventure reference — the imp's ability to sense creatures at range was proven when it detected a dragon near Southshore.
-- **River Neltharion / Nafeltari River** (纳菲瑞提河): glossary notes a TODO on the canonical name; rendered per glossary.
-- **Dalaran walking corpses** (达拉然活尸): a prior memory — Jace's time among the undead in Dalaran, yet this dead man disturbs him more.
-- **Westfall Keep sheriff's warning** (西泉要塞治安官): the sheriff's comment that Jace was "not quite like the other mercenaries" is now clearly justified.

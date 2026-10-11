@@ -1,10 +1,10 @@
 ## Chapter 314: A Bizarre Potion
 
-"I seem to have been cursed. A death knight's curse," Jace said. "The priests at the Cathedral of Light couldn't do anything, and my teacher at the Wizard Sanctum couldn't either."
+"I seem to have been cursed. A death knight's curse," Jace said. "The priests at the Cathedral of Light couldn't do anything, and my teacher at the Wizard's Sanctum couldn't either."
 
 "Jace, don't tell me it's that death curse that turns people into wraiths," Ursula said, her gaze piercing.
 
-"Death Shadow." Jace gave a bitter laugh. "Am I really the last person in the world to know about this dark magic?"
+"Shadow of Death." Jace gave a bitter laugh. "Am I really the last person in the world to know about this dark magic?"
 
 Although he spoke in a relaxed tone, he watched Ursula's face visibly pale.
 
@@ -38,13 +38,13 @@ She spoke as fast as if reciting a textbook from memory. Jace was dazed for a mo
 
 "Could you listen to me patiently?" Ursula said. "That medicine doesn't just kill you. Once the effect wears off, you wake back up — you might just sleep for a very long time. But after you wake up, all the death hexes will miss their target, Jace. Otherwise, how do those wealthy goblins who are obsessed with dealing with the trolls handle witch-doctor assassinations?"
 
-"Hold on," Jace said. "You're not talking about Norgannon's Potion, are you?!"
+"Hold on," Jace said. "You're not talking about Noggenfogger Elixir, are you?!"
 
 "You actually know about it?!" Ursula said in surprise. "That weird, awful name — I thought I'd remember it for the rest of my life!"
 
-In the game, Norgannon's Potion could turn a person into a skeleton. Jace had thought it was just some kind of joke item — he didn't expect it actually existed here too? Did such an absurd thing really exist?
+In the game, Noggenfogger Elixir could turn a person into a skeleton. Jace had thought it was just some kind of joke item — he didn't expect it actually existed here too? Did such an absurd thing really exist?
 
-But the one who knew how to brew this potion, Norgannon, lived in Gadgetzan in the southern part of Kalimdor. Was he supposed to sail across the ocean for this?
+But the one who knew how to brew this elixir, Marin Noggenfogger, lived in Gadgetzan in the southern part of Kalimdor. Was he supposed to sail across the ocean for this?
 
 Of course, Jace couldn't just lay out all those details at once.
 
@@ -62,9 +62,9 @@ Of course, Jace couldn't just lay out all those details at once.
 
 But thinking about it for a moment, he found that deep down he didn't feel it was too expensive. After all, this was something that might save his life.
 
-Perhaps this was the price to be paid for obtaining a fearsome weapon like Azurewrath.
+Perhaps this was the price to be paid for obtaining a fearsome weapon like Azuresong.
 
-Considering that Windrunner and Grede had both praised Ursula's potions, and that Ursula also understood this curse and even knew so much about the problems between the trolls and goblins in the southern Stranglethorn Vale, he had to take the solution she proposed seriously.
+Considering that Windrunner and Grede had both praised Ursula's potions, and that Ursula also understood this curse and even knew so much about the problems between the trolls and goblins in southern Stranglethorn Vale, he had to take the solution she proposed seriously.
 
 "How long does a trip to Booty Bay take?" Jace asked.
 
@@ -74,15 +74,15 @@ Considering that Windrunner and Grede had both praised Ursula's potions, and tha
 
 Ursula said, "Just tell me whether you want to go or not."
 
-Jace thought for a moment. He could write a letter asking Windrunner if the elves had a solution, then ask Marin to help him collect any reply. While that was happening, he could make a trip to Booty Bay and inquire about the situation.
+Jace thought for a moment. He could write a letter asking Vereesa if the elves had a solution, then ask Malin to help him collect any reply. While that was happening, he could make a trip to Booty Bay and inquire about the situation.
 
 "Of course I want to go."
 
 "Then take this." Ursula turned around and pulled out a bottle of pale green liquid packaged in an extremely unusual material from the cabinet, walking over and placing it in front of Jace.
 
-"Don't drink it all at once. Sip it slowly. One sip will gradually purify necrotic contamination over a period of time — it's very effective, much stronger than an ordinary priest's purification. If you're careful, this one bottle should last you two months."
+"Don't drink it all at once. Sip it slowly. One sip will gradually purify the corpse-taint over a period of time — it's very effective, much stronger than an ordinary priest's purification. If you're careful, this one bottle should last you two months."
 
-Jace took it, opened the stopper, and sniffed. A faint scent of Goldthorn — a smell he was very familiar with, since he brewed tea for Marin all the time when he had nothing to do.
+Jace took it, opened the stopper, and sniffed. A faint scent of Goldthorn — a smell he was very familiar with, since he brewed tea for Malin all the time when he had nothing to do.
 
 But behind that fragrance, there was clearly a hint of the scent of fresh earth after rain.
 
@@ -98,26 +98,6 @@ Jace still remembered asking the alchemy lab about Elemental Earth — how they'
 
 Jace looked at the bottle of medicine again. "Then how do I repay you?"
 
-"Repay?" Ursula poked Jace's chest with her finger, saying each word deliberately: "Don't die, you hear me? Everything else is negotiable. I just can't guarantee this will be one hundred percent effective, Jace. If it works, don't forget to bring me back some fel essence."
+"Repay?" Ursula poked Jace's chest with her finger, saying each word deliberately: "Don't die, you hear me? Everything else is negotiable. I just can't guarantee this will be one hundred percent effective, Jace. If it works, don't forget to bring me back some mojo."
 
 "Even if it doesn't work, I'll bring you some," Jace said.
-
-## Flags
-
-- **Death Shadow** (死亡阴影) — curse name, kept consistent with Ch. 312.
-- **Wraith** (恶鬼) — the form the cursed soul takes; kept distinct from "ghost" (鬼魂) used for other spirits.
-- **Gurubashi troll witch doctors** (古拉巴什巨魔巫医) — canonical Gurubashi; "witch doctor" for 巫医.
-- **Norgannon's Potion** (诺格弗格药剂) — the text's 诺格弗格药剂. Canonical WoW item is "Noggenfogger's Potion" / "Norgannon's Potion" — rendered as Norgannon's Potion (the text's name). Note: the game's "Noggenfogger's Potion" turns the drinker into a skeleton; the text treats this as real.
-- **Gadgetzan / Gadgetzan reference** — Jace's internal knowledge of the potion's origin (Norgannon in Gadgetzan, southern Kalimdor); kept as his gamer thought.
-- **Booty Bay** (藏宝海湾) — canonical port in Stranglethorn Vale, per glossary.
-- **Stranglethorn Vale / southern Stranglethorn** (南荆棘谷) — canonical; Ursula's knowledge of the region.
-- **Restorative Potion** (滋补药剂) — canonical WoW potion, per glossary.
-- **Goldthorn** (金棘草) — canonical herb, per glossary.
-- **Elemental Earth** (元素之土) — canonical crafting material, per glossary.
-- **Fel essence** (魔精) — demonic crafting material; kept as "fel essence."
-- **Azurewrath** (碧空之歌) — Jace's reflection on the price of obtaining the weapon.
-- **Windrunner** (温蕾萨) — Jace's elf contact.
-- **Grede** (格瑞德) — dwarf companion, per glossary.
-- **Wizard Sanctum** (巫师圣殿) — canonical, per glossary.
-- **Cathedral of Light** (光明大教堂) — canonical, per glossary.
-- **Corpse poison** (尸毒) — Jace's earlier misdiagnosis, kept distinct from the curse.

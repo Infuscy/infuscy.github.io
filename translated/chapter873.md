@@ -2,7 +2,7 @@
 
 Emerging from the cave, in the open space below the high slope, the old furbolg rasped out to the young clansmen and warriors to clear a space and pile branches into a bonfire.
 
-They arranged various stones carved with furbolg runes and Thalassian glyphs in front of the stone pile, prostrating themselves around it. Some furbolgs, as they lay there, kept stealing glances at Jace's group.
+They arranged various stones carved with furbolg runes and Elvish glyphs in front of the stone pile, prostrating themselves around it. Some furbolgs, as they lay there, kept stealing glances at Jace's group.
 
 The furbolgs stacked the woodpile high — far higher than any bonfire in the Slaughtered Lamb — and the surrounding stones were arranged in such numbers that they resembled a riverbank's cobblestones, each one carefully carved with runes Jace couldn't quite read. It looked like whatever ritual came next was going to be important.
 
@@ -10,7 +10,7 @@ A young furbolg warrior set the bonfire alight. From a distance, the old furbolg
 
 Despite the fact that the bonfire contained nothing but dry wood and branches — no kindling oil or anything of the sort — the flames still shot upward at an absurd speed, and even the torches at the distant cave entrance flared more vigorously.
 
-Jace sensed that the old furbolg was likely chanting in the ancient Kalimardian of the elements. Was he trying to summon the elements?
+Jace sensed that the old furbolg was likely chanting in the ancient Kalimag of the elements. Was he trying to summon the elements?
 
 Sure enough, by now he could hear the murmuring of the flames as well. The elements had answered the old furbolg's call with excitement. The bonfire burned higher and higher, and the bright flames at the top even formed the swaying shape of an upper humanoid body in the wind, as if a giant fire elemental had truly appeared.
 
@@ -20,7 +20,7 @@ When two eye-like points of light appeared in the center of that humanoid form, 
 
 The eyes in the flames swayed. They gazed upon the furbolgs, then looked toward Jace. "Jace Sesso, blessed of the Dragonqueen..."
 
-"It is I," Jace said in Kalimardian. "I thank you for your selfless aid, flame."
+"It is I," Jace said in Kalimag. "I thank you for your selfless aid, flame."
 
 "Glad to be of service." The blaze let out a whoosh, and the entire bonfire crackled in response.
 
@@ -28,7 +28,7 @@ At this, all the young furbolgs looked over — whether astonished that Jace kne
 
 The element's twin eyes looked back toward the furbolgs. "The source of the curse has been carried away from the temple. But do not return to those deadlands. Wait for the earth and nature to cleanse that filth, children of the forest."
 
-"Great flame, the Frosthammer will forever remember the elements' kindness."
+"Great flame, the Frostmaul will forever remember the elements' kindness."
 
 With that, the blaze atop the bonfire dissipated in an instant, leaving behind only feeble flames flickering among the firewood by comparison.
 
@@ -36,7 +36,7 @@ The furbolgs leaped up one after another, howling and running about in celebrati
 
 The furbolg named Gegel came before Jace and bowed deeply, seeking forgiveness. Jace bore him no grudge — as a warlock, he'd encountered this sort of thing far too often to count. He was used to it.
 
-What's more, vigilance against the corruption and taint of dark power was never something one could have too much of. The Frosthammer having more young folk like this was a hundred benefits with not a single drawback.
+What's more, vigilance against the corruption and taint of dark power was never something one could have too much of. The Frostmaul having more young folk like this was all benefit and no harm.
 
 Although Jace's group tried to decline, the old furbolg, out of both apology and gratitude, insisted on having the young furbolgs escort them out of the snow valley.
 
@@ -72,7 +72,7 @@ Flanking him stood several magisters — judging by their attire, none of them w
 
 "Greetings, benefactors of Quel'Thalas — Master Jace Sesso, and Lord Grede Thunderfist of Aerie Peak." Dar'Khan Drathir greeted them in Thalassian.
 
-"Hello." Jace said directly in Common. "We've met before. What are you waiting for here? Planning to hunt Frosthammer giants?"
+"Hello." Jace said directly in Common. "We've met before. What are you waiting for here? Planning to hunt Frostmaul giants?"
 
 Dar'Khan smiled and continued in Thalassian. "Of course not. We're tracking a group of evil undead creatures. They've fled into the deep valley and can't escape now. You haven't encountered those monsters, have you?"
 
@@ -86,11 +86,11 @@ He looked at the nearby elven ruin pillars. "But there's nothing here we're look
 
 "It's meant to counter undead and demons, Jace. You..." Vereesa murmured with some hesitation. "Sazeno and Morophil definitely won't make it across."
 
-"Fine." Jace coughed softly. "If your judgment's off, Wen, this could get bloody. And then explaining it back in Quel'Thalas won't be easy."
+"Fine." Jace coughed softly. "If your judgment's off, Vere, this could get bloody. And then explaining it back in Quel'Thalas won't be easy."
 
-"That depends on whether you're actually a demon or not," Vereesa said, entirely unbothered. Jace stared at her and cleared his throat. "Lady Somali'er."
+"That depends on whether you're actually a demon or not," Vereesa said, entirely unbothered. Jace stared at her and cleared his throat. "Lady Somaelir."
 
-He handed the demon satchel containing Sazeno to Sola beside him and said loudly, "Thank you for your help. We'll part ways here."
+He handed the demon bag containing Sazeno to Sola beside him and said loudly, "Thank you for your help. We'll part ways here."
 
 Sola took the satchel and said quietly, "I won't fly too far, Jace. Be careful."
 
@@ -104,13 +104,13 @@ Jace watched the silhouette of the succubus being carried in her claws, then sai
 
 The dwarf strode ahead with swagger, with Jace and Vereesa following behind.
 
-The three of them crossed the bridge openly, encountering no magical obstruction. But when they reached the middle, Jace did indeed feel something off — not from below his feet, but from behind him, from Ursolus wrapped in the black knight's cloak.
+The three of them crossed the bridge openly, encountering no magical obstruction. But when they reached the middle, Jace did indeed feel something off — not from below his feet, but from behind him, from Ulthalesh wrapped in the Dark Rider's cloak.
 
 That staff seemed to be emanating a faint trace of hostility. But only for the briefest moment as they passed the middle.
 
-When they reached Dar'Khan, the Farstriders greeted both Jace and Grede, then bowed their heads and addressed Vereesa by her title of Ranger-Lord. Vereesa simply looked straight ahead and didn't glance at them at all.
+When they reached Dar'Khan, the Farstriders greeted both Jace and Grede, then bowed their heads and addressed Vereesa by her title of Ranger Lord. Vereesa simply looked straight ahead and didn't glance at them at all.
 
-"How did you come to know an Emerald Dragon?" Dar'Khan asked again, glancing toward the horizon in Common.
+"How did you come to know a green dragon?" Dar'Khan asked again, glancing toward the horizon in Common.
 
 "We ran into each other on the journey. She was also looking for ancient Kaldorei relics, ones related to the Dream," Jace said offhandedly. "But we both came up empty, so we had to part ways. The rest of us are planning to look elsewhere too."
 
@@ -122,9 +122,9 @@ Jace nodded politely as well. "May the Holy Light watch over you, Magister." Dar
 
 As they walked farther and farther away, Jace could even sense the gazes still fixed on them from behind.
 
-"Would those Farstriders recognize that the cloth wrapping the staff on my back is a black knight's cloak?" Jace asked.
+"Would those Farstriders recognize that the cloth wrapping the staff on my back is a Dark Rider's cloak?" Jace asked.
 
-"Perhaps. But they're probably more worried about whether they've offended Ranger-Lord Vereesa Windrunner," Vereesa said. "Actually, what surprises me more is that you weren't trapped by that ward."
+"Perhaps. But they're probably more worried about whether they've offended Ranger Lord Vereesa Windrunner," Vereesa said. "Actually, what surprises me more is that you weren't trapped by that ward."
 
 "You were hoping I'd get trapped?" Jace asked.
 
@@ -134,15 +134,6 @@ Grede, walking along, scratched his beard. "That's not exactly perfectly reasona
 
 "Isn't it?" the ranger asked, displeased.
 
-"Let them wait here, then." Jace adjusted his hood. "Since they're waiting here for the black knights to fall into their trap, they probably know they can't handle Apocalypse themselves, so they definitely wouldn't dare go in lightly. Even if they did go in, they probably wouldn't figure out what happened for a while. Let them stand in the freezing snow as punishment for their discourtesy."
+"Let them wait here, then." Jace adjusted his hood. "Since they're waiting here for the Dark Riders to fall into their trap, they probably know they can't handle Apocalypse themselves, so they definitely wouldn't dare go in lightly. Even if they did go in, they probably wouldn't figure out what happened for a while. Let them stand in the freezing snow as punishment for their discourtesy."
 
 Vereesa laughed. "Not bad, I suppose."
-
-## Flags
-
-- **POV:** Third person, Jace.
-- **Key names:** 达尔坎·德拉希尔 = Dar'Khan Drathir (canonical — high elf magister, later traitor/lich); 温蕾萨 = Vereesa Windrunner; 格瑞德·雷拳 = Grede Thunderfist (dwarf, Wildhammer clan); 索拉/索麦莉尔 = Sola / Somali'er (green dragon); 肯卢克 = Kenluk; 格格尔 = Gegel.
-- **Places:** 雪谷 = snow valley; 奎尔萨拉斯 = Quel'Thalas; 鹰巢山 = Aerie Peak; 已宰的羔羊 = the Slaughtered Lamb.
-- **Magic:** 反邪恶结界 = anti-evil ward (Quel'Thalas magister creation, detects undead/demons); 元素的古卡利姆多语 = ancient Kalimardian of the elements.
-- **Lore:** Furbolg fire ritual confirms the curse source is gone. Dar'Khan and magisters/Farstriders are lying in wait for the black knights (undead) in the valley — they have an anti-evil ward set up. Vereesa recognizes it because it's of Quel'Thalas make. Ursolus reacts faintly to the ward. Jace speaks Kalimardian to the fire element. Dar'Khan greets Jace as "Master Jace Sesso" and Grede as "Lord Grede Thunderfist of Aerie Peak."
-- **Language note:** 萨拉斯语 = Thalassian; 通用语 = Common; 精灵语 = Thalassian.

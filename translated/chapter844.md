@@ -1,8 +1,8 @@
 ## Chapter 844: Still a Green Dragon After All
 
-The group charged toward the source of the sounds. Jace held Azurewrath aloft to illuminate the path ahead. Soon the demonic shrieks from the depths shifted from ethereal echoes to something increasingly real and distinct.
+The group charged toward the source of the sounds. Jace held Azuresong aloft to illuminate the path ahead. Soon the demonic shrieks from the depths shifted from ethereal echoes to something increasingly real and distinct.
 
-A solitary shriek and the sound of an explosion came from ahead. Jace felt his mind relax slightly — which meant Dazarim the Fifth was gone.
+A solitary shriek and the sound of an explosion came from ahead. Jace felt his mind relax slightly — which meant Dazarm V was gone.
 
 Soon the scraping of claws and hooks against earth and stone, and the furious roars of demons, grew closer and closer, an uncountable number of demons bearing down on them.
 
@@ -28,21 +28,21 @@ The dwarf pulled out the dagger and tossed it back. Morophil had just stabbed a 
 
 Morophil glanced back at Vereesa, who had already nocked another arrow, and said to Grede beside her, "You think I wouldn't want to see the whole cave clearly from out here?"
 
-Relying on Detect Demons, Jace still couldn't count how many demons were ahead. He watched the dark, shadowy demonic forms swaying in the blackness before him.
+Relying on Sense Demons, Jace still couldn't count how many demons were ahead. He watched the dark, shadowy demonic forms swaying in the blackness before him.
 
 He said to Vereesa, "Save your arrows. Grede's right — there are too many demons in here."
 
-Vereesa nodded, snapped her bow with a fierce swing to whip a lunging felhound hard to the ground, then drew her shortsword at her waist and pierced its heart.
+Vereesa nodded, snapped her bow with a fierce swing to whip a lunging felhound hard to the ground, then drew the shortsword at her hip and pierced its heart.
 
 Grede up front bashed one away with his shield, stepped forward, and collided head-on with a charging felhound. Surrounded by several felhounds, he carved out enough space to swing his arms and brought his lightning-arcing warhammer down, directly shattering the front half of a felhound lunging from the side.
 
 Morophil guarded the dwarf's flank, but in the pitch-black tunnel, felhounds packed in swarms, chasing and jostling each other as they pressed forward. Some corpses that had been blown apart by Grede's lightning hammer ahead of time even became cover for the charging companions behind them. All that met the eye was a mass of demonic flesh surging forward, then tangling into a chaotic melee with Morophil and Grede.
 
-Against felhounds, which excelled at devouring magic and disrupting the mind, Jace's magic was naturally of no use at all. He could only draw Azurewrath, call upon fire to ignite the blade, and hack and burn every felhound that slipped through.
+Against felhounds, which excelled at devouring magic and disrupting the mind, Jace's magic was naturally of no use at all. He could only draw Azuresong, call upon fire to ignite the blade, and hack and burn every felhound that slipped through.
 
 But before long, the frenzied demonic tide was on the verge of breaking through. The flesh and forms of the felhounds repeatedly cut off the shadows of the dwarf and succubus up front. More and more felhounds besieged Jace and Vereesa here.
 
-He had to pull out the Flowing Ice Crystal, ready at any moment to use this artifact's demon-power-blocking effect to protect himself once. Because under the felhounds' siege, he didn't even have a chance to cast the Dark Shield incantation.
+He had to pull out the Flowing Ice Crystal, ready at any moment to use this artifact's demon-power-blocking effect to protect himself once. Because under the felhounds' siege, he didn't even have a chance to cast the Shadow Shield incantation.
 
 The howls of these evil hounds that had descended from the Twisting Nether disrupted the arcane, elemental, and even Shadow energies drifting in the air to the point where they couldn't be reached. The lightning that Grede had initially called to his warhammer grew weaker and weaker, dissipating with each strike. Even Vereesa couldn't channel arcane energy to enchant her arrows.
 
@@ -66,7 +66,7 @@ Jace, watching this scene, was so frightened he leaped several meters forward to
 
 "Thank you, I'll remember." Sola caught the blade and nodded.
 
-Jace had almost forgotten — no matter what she looked like, she was still a green dragon after all. "Musa, hold on — we're coming!"
+Jace had almost forgotten — no matter what she looked like, she was still a green dragon after all. "Mosa, hold on — we're coming!"
 
 Grede roared from the front, shoving several felhounds aside with his shield and charging over the demons' corpses. Morophil matched his pace, guarding his flank. Vereesa put an arrow through a felhound that slipped through, raised her shortsword, and charged after them together with Jace. Sola also caught her breath and followed them forward.
 
@@ -74,17 +74,6 @@ This wave of felhound assault had barely been held off by the group. The felhoun
 
 In the deep, dim tunnel, one or two imps shrieking and fleeing would appear from time to time, casually swatted away by Grede at the front with a thrown hammer. Finally, the group pushed aside tree roots that had been torn to shreds and entered a vast, empty cavern. A tall dark figure stood before them like a statue.
 
-Jace raised Azurewrath to reveal the dark figure's true form. It was a towering felguard with pale blue skin, a blood-red polearm in his hands, his body clad in black-and-gold enchanted armor. His exposed shoulders and chest were covered in sigils glowing with a red light.
+Jace raised Azuresong to reveal the dark figure's true form. It was a towering felguard with pale blue skin, a blood-red polearm in his hands, his body clad in black-and-gold enchanted armor. His exposed shoulders and chest were covered in sigils glowing with a red light.
 
 Seeing Jace's group arrive before him, he neither spoke nor made any motion. He simply stood there, looking as though he intended to block their advance to the death.
-
-## Flags
-
-- **碧空之歌 = Azurewrath** — Jace's sword (canonical WoW item; per chapter 311).
-- **流冰之晶 = Flowing Ice Crystal** — Kirin Tor artifact (per chapter 821; also rendered "Frostflow Crystal" in chapter 477 and "Flow of Ice Crystal" in chapter 501).
-- **侦测恶魔 = Detect Demons** — warlock spell (not in glossary).
-- **黑暗之盾 = Dark Shield** — warlock spell (not in glossary).
-- **撒厄诺 = Sazeno** — imp minion (per glossary); "Mother of the Void" is his exaggerated exclamation.
-- **莫萨 = Mosa** — tauren druid companion (not in glossary).
-- **恶魔卫士 = felguard** — canonical demon type (not in glossary).
-- **Chapter title**: "Still a Green Dragon After All" — a nod to Sola revealing her true draconic power by spewing corrosive dragon breath.

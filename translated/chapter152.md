@@ -12,11 +12,13 @@ The elf watched the dwarf's back as he stomped off, then turned around and let o
 
 Judging by the elf's none-too-pleased expression, Jace could guess who he meant.
 
-The first human ranger — the one who would later become the "Withering Blight," loyal Dark Lady's Forsaken Ranger-General — was probably training in Quel'Thalas right now. And the organization training him was the Farstriders. This human's presence had stirred up discontent across all of Quel'Thalas, from the prince down to the lowest ranger.
+The first human ranger — the one who would later become the "Blightcaller," the Dark Lady's loyal Forsaken ranger lord — was probably training in Quel'Thalas right now. And the organization training him was the Farstriders. This human's presence had stirred up discontent across all of Quel'Thalas, from the prince down to the lowest ranger.
 
-Of course, right now he was still Nathanos Marris — a progressive young man bent on mastering the elves' arts so he could return to Lordaeron, train more fine warriors, serve the crown, and protect the people. Still a long way from becoming that undead minion who'd stop at nothing for Sylvanas's victory. The elf waved a hand. "Never mind all that. I am Kael'fal Moonwing. As I said before, I'm a member of the Farstriders. What happened that day in Duskwood — I'm truly sorry. I was acting on the Ranger-General's orders, tracking orcish movements in the area. I was also doing a friend a favor and gathering some special herbs. It never should have turned into a conflict."
+Of course, right now he was still Nathanos Marris — a progressive young man bent on mastering the elves' arts so he could return to Lordaeron, train more fine warriors, serve the crown, and protect the people. Still a long way from becoming that undead minion who'd stop at nothing for Sylvanas's victory.
 
-"Moonwing? What's your relation to Halduron Moonwing?" Jace asked, curious.
+The elf waved a hand. "Never mind all that. I am Kael'fal Brightwing. As I said before, I'm a member of the Farstriders. What happened that day in Duskwood — I'm truly sorry. I was acting on the Ranger-General's orders, tracking orcish movements in the area. I was also doing a friend a favor and gathering some special herbs. It never should have turned into a conflict."
+
+"Brightwing? What's your relation to Halduron Brightwing?" Jace asked, curious.
 
 Kael'fal said, "All I can confirm is that he's a relative of mine. As for the exact nature of our blood tie, I neither know nor care to find out. You seem to know quite a bit about the Farstriders, though. Is Captain Halduron famous in your world?"
 
@@ -80,7 +82,7 @@ She looked at Jace, lifted the edge of her hood, and said in stiff, heavily acce
 
 Jace got a proper look at her face.
 
-Compared to the striking, almost aggressive exotic beauty of most quel'dorei women, the curves of her cheeks were softer — because she was clearly young. Even Jace, a human, could tell that much.
+Compared to the striking, almost aggressive exotic beauty of most Quel'dorei women, the curves of her cheeks were softer — because she was clearly young. Even Jace, a human, could tell that much.
 
 She was thin. The hood and cloak hung off her like they'd been draped over a narrow coat rack. Pale strands of hair slipped out from the faintly flushed nape of her neck. If it were long, it would have been tied up in a bun. Jace realized he had never been this close to an elf before.
 
@@ -121,23 +123,3 @@ As he spoke, Kael'fal raised his eyebrows meaningfully and glanced over for a mo
 "She's only a recruit in the sense that she still has to learn to become a proper Farstrider. But if it came to single combat, she'd have me beat hands down. She's the most outstanding and driven of the last batch of recruits — young and deadly, the full inheritance of her bloodline on display. In fact, one of her older sisters is my direct superior — the Ranger-General of Silvermoon I mentioned earlier."
 
 "Her eldest sister's name — you're certain to know it." Kael'fal lowered his voice. "Alleria Windrunner."
-
-## Flags
-
-- 凯法尔·明翼 = Kael'fal Moonwing — OC? Not in glossary. Rendered phonetically; "Moonwing" for 明翼 per standard translation.
-- 哈杜伦·明翼 = Halduron Moonwing — canonical Ranger-General of Silvermoon (WoW). Not in glossary.
-- 温蕾萨·风行者 = Windrunner — the text implies but does not name her; Jace identifies her as "Windrunner," the youngest of the three Windrunner sisters (canonical). Not explicitly named in source, so left as implication.
-- 纳萨诺斯·玛瑞斯 / 凋零者 = Nathanos Marris / the "Withering Blight" — the Chinese gives 凋零者 as a title. Rendered descriptively; canonical name Nathanos Marris used. Not in glossary.
-- 达拉然之眼 = Eye of Dalaran — canonical artifact. Not in glossary; rendered per standard WoW term.
-- 塔隆·血魔 = Teron Gorefiend (glossary confirms).
-- 萨格拉斯之墓 = Tomb of Sargeras (canonical). Not in glossary.
-- 萨格拉斯权杖 = Scepter of Sargeras (canonical). Not in glossary.
-- 麦迪文之书 = Book of Medivh (canonical). Not in glossary.
-- 班蒂诺雷尔 = the Ban'dinoriel (Quel'Thalas's magical shield). Not in glossary; rendered as "the Ban'dinoriel's protection."
-- 逐日者 = Sunstrider (the Quel'Thalas royal house). Not in glossary.
-- 银月城 = Silvermoon City (canonical). Not in glossary.
-- 东威尔德 = "Eastweald" — likely the Eastern Plaguelands/Westfall region; rendered tentatively. Not in glossary. TODO: verify.
-- 萨拉斯语 = Thalassian (glossary confirms).
-- 游侠将军 = Ranger-General (canonical title). Not in glossary.
-- 肯瑞托 = Kirin Tor (glossary confirms).
-- 大法师安东尼达斯 = Archmage Antonidas (glossary confirms Antonidas).

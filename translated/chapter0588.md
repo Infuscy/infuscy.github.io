@@ -6,7 +6,7 @@ It felt something like mana burnout, but not exactly.
 
 After he'd recovered a bit, he asked, "What kind of spell was that, a mana drain? Can I learn the incantation?"
 
-"It's Sayaad magic. Nearly impossible for you to learn, master," Morophil said. "Of course, I know the Eredar created similar dark sorcery, but I don't remember the words. Unfortunately I'm not as knowledged as that little wretch."
+"It's sayaad magic. Nearly impossible for you to learn, master," Morophil said. "Of course, I know the eredar created similar dark sorcery, but I don't remember the words. Unfortunately I'm not as knowledgeable as that little wretch."
 
 "Hard to admit that, you lazy bastard!" Sazeno piped up, finally daring to stick his head out.
 
@@ -16,15 +16,15 @@ After he'd recovered a bit, he asked, "What kind of spell was that, a mana drain
 
 It really was the same incantation from before, but when she spoke it, Jace could barely make out which organs were producing the sound — for all he knew some of it was magic rather than voice, and it didn't quite match her lip movements either.
 
-"That's not demonic," Jace said.
+"That's not Demonic," Jace said.
 
-"It's the Sayaad tongue, master. It's very hard for a mortal body to speak," Morophil said. "That's precisely why I said you probably can't learn it."
+"It's the sayaad tongue, master. It's very hard for a mortal body to speak," Morophil said. "That's precisely why I said you probably can't learn it."
 
 "Ta-ki..." Jace tried to mimic it, but the moment he opened his mouth he knew it was completely wrong.
 
 "Forget it. I'll stick to getting the hang of satyr incantations," Jace said, covering his mouth to cough. He glanced at his palm and let out a breath. "Since you're back, and you've got your strength again, Morophil, let's get back to organizing those satyr scrolls."
 
-"Work... work..." the mutter. "It's the same everywhere — Stormwind, Kalimdor, work that never ends, ugh!"
+"Work... work..." the imp muttered. "It's the same everywhere — Stormwind, Kalimdor, work that never ends, ugh!"
 
 He looked at Morophil and asked, "I'm curious — a spell this devastating, and you never use it against other enemies?"
 
@@ -77,15 +77,3 @@ Before long, they heard several ogre shouts echoing from beyond the wall. Everyo
 Grede had a point. Plenty of ogre warlocks here summoned demons. Jace nodded and gave Morophil the signal that she didn't have to stay hidden anymore.
 
 The succubus stepped out of the shadows and revealed herself. Grede gave her an extra glance. "I feel like she's a little taller than when we set out. Am I imagining that?"
-
-## Flags
-
-- **Sayaad magic**: 萨亚德的魔法 — the mana-drain incantation Morophil uses; she says it's nearly impossible for a human body to speak.
-- **Eredar / Nathrezim / pit lord**: Canonical demon races (艾瑞达 / 纳斯雷兹姆 / 深渊领主) — Morophil name-drops them while describing how disgusting other demons' energy feels to her now.
-- **Overlord Brutallus**: 霸主布鲁塔鲁斯 — Morophil's former master (canonical pit lord, "Brutallus"); she admits she was a berserk, brainless bomb back then.
-- **Satyr incantations**: 萨特的咒语 — Jace decides to stick with satyr spells he can actually pronounce.
-- **Flowing Ice Crystal**: 流冰之晶 — the Kirin Tor artifact that's been healing Jace; he hides it to avoid drawing mages' attention.
-- **Deadwind Pass**: 逆风小径 — where Jace was previously ambushed by an undead Dalaran frost mage.
-- **Highborne mage**: 上层精灵法师 — Jace considers a roaming Highborne far more dangerous than the undead frost mage from before.
-- **"done the deed"**: Mosa's cold looks imply she thinks Jace and Morophil just had sex — a running joke about the mana drain's intimacy.
-- **POV**: Third person throughout.

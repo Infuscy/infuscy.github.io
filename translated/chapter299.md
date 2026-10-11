@@ -1,6 +1,6 @@
 ## Chapter 299: The Dark Iron City
 
-Following the whelp's corpse as a landmark, Jace found the small room where he and Vereesa had hidden earlier. As if she had heard his footsteps, Vereesa poked her head out and waved, as though afraid he might not find the place.
+Following the drake's corpse as a landmark, Jace found the small room where he and Vereesa had hidden earlier. As if she had heard his footsteps, Vereesa poked her head out and waved, as though afraid he might not find the place.
 
 Jace dragged half a boar up to the window, sighed, and sat on a broken stone beside it. "This hike kicked my ass!"
 
@@ -52,7 +52,7 @@ After eating, the two of them tidied up and set out at once, heading uphill. By 
 
 As they walked, just as they were about to leave the ruins, Vereesa suddenly hesitated, stopping at a corner and looking back.
 
-Jace nodded silently and glanced past the wall. Sure enough, dragonkin were walking down the opposite street toward where the whelp had died.
+Jace nodded silently and glanced past the wall. Sure enough, dragonkin were walking down the opposite street toward where the drake had died.
 
 Two dragonkin mages and a tall dragonkin warrior in dark heavy armor. In their current condition, Jace and Vereesa had basically no chance of handling them.
 
@@ -72,7 +72,7 @@ Using the rubble walls as cover, they crept forward street by street. As they ad
 
 Judging by the ranger's performance tracking the orcs before, trusting her read of enemy movements a hundred percent was absolutely the smart play. In this regard, Jace was no better than an idiot compared to her.
 
-Using the rubble as cover, the two headed west toward a larger stretch of the dwarven city. Along the way they encountered several two- or three-dragonkin patrols. They seemed to be searching purposefully for whoever had killed the whelp.
+Using the rubble as cover, the two headed west toward a larger stretch of the dwarven city. Along the way they encountered several two- or three-dragonkin patrols. They seemed to be searching purposefully for whoever had killed the drake.
 
 The scale of the city here seemed much larger than before. Jace guessed this must be the true ruins of Thaurissan.
 
@@ -120,17 +120,4 @@ Jace noticed her face did not look too good either.
 
 "Ghosts, right?" Jace asked.
 
-"Probably." Vereesa pulled out the Holy Wizard Oil. "Damn it. One problem after another."
-
-## Flags
-
-- **厄苏拉:** "Ursula" (in glossary).
-- **索瑞森城:** "Thaurissan" — the ruined Dark Iron city. Not in glossary. Flag for confirmation.
-- **龙人:** "dragonkin" — not in glossary. Flag for confirmation.
-- **隐形药水:** "Invisibility Potion" — not in glossary. Flag for confirmation.
-- **神圣巫师之油:** "Holy Wizard Oil" — not in glossary. Flag for confirmation.
-- **鬼魂:** "ghosts" — not in glossary. Flag for confirmation.
-- **法力药水:** "Mana Potion" — not in glossary. Flag for confirmation.
-- **黑石山:** "Blackrock Mountain" — not in glossary. Flag for confirmation.
-- **燃烧平原:** "the Burning Steppes" — not in glossary. Flag for confirmation.
-- **赤脊山:** "Redridge Mountains" (in glossary as 赤脊山 = Redridge Mountains).
+"Probably." Vereesa pulled out the Blessed Wizard Oil. "Damn it. One problem after another."

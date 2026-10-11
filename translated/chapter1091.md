@@ -1,6 +1,6 @@
 ## Chapter 1091: The Last Chance
 
-"Thank you for your cooperation, Mr. Sesso." Dar'Khan nodded firmly. "The last time we met was in Winterspring — to be more precise, in Frosthammer Canyon. Have you remembered anything?"
+"Thank you for your cooperation, Mr. Sesso." Dar'Khan nodded firmly. "The last time we met was in Winterspring — to be more precise, in Frostwhisper Gorge. Have you remembered anything?"
 
 "I have some recollection," Jace said.
 
@@ -10,13 +10,13 @@ Jace realized that Dar'Khan didn't know that Ulthalesh, which he was currently c
 
 Of course, this wasn't necessarily thanks to the cloth wrapping the staff. Because even Jace, who'd seen Ulthalesh in his past life, hadn't immediately realized it was Ulthalesh the first time he'd laid eyes on the staff's true form. And Dar'Khan, an elven mage who'd only heard of this thing in legends, was even less likely to.
 
-"The undead wearing rings," he said. "Why not just tell me what kind of things they were? Do they have something to do with the furbolgs plagued by the necrotic plague in Frosthammer Valley?"
+"The undead wearing rings," he said. "Why not just tell me what kind of things they were? Do they have something to do with the furbolgs plagued by the necrotic plague in Frostwhisper Gorge?"
 
-"Don't talk to me about furbolgs," Dar'Khan said coldly. "You killed those black knights, Jace Sesso — you and Ranger Lord Vereesa Windrunner killed Eredin! Only you could have done it, no one else could possibly have. Are you trying to make me believe that some amateur mercenaries from Winterspring defeated Medivh's hunters?!"
+"Don't talk to me about furbolgs," Dar'Khan said coldly. "You killed those Dark Riders, Jace Sesso — you and Ranger Lord Vereesa Windrunner killed Ariden! Only you could have done it, no one else could possibly have. Are you trying to make me believe that some amateur mercenaries from Winterspring defeated Medivh's hunters?!"
 
-Jace shook his head. "Medivh's hunters, black knights... honestly, Dar'Khan, you know far more than I do. I went to Frosthammer Valley to help a group of furbolgs transport medicine to treat the plague."
+Jace shook his head. "Medivh's hunters, Dark Riders... honestly, Dar'Khan, you know far more than I do. I went to Frostwhisper Gorge to help a group of furbolgs transport medicine to treat the plague."
 
-Dar'Khan stared at Jace for a while, then gave a dry laugh. "Are you trying to convince me that the Court Mage advisor to Varian Wrynn, the Ranger Lord of the High Kingdom, the Highpeak Lord of Aerie Peak — a group of heroes who fought at the Battle of Grim Batol — trekked all the way into the heart of the snowy mountains of northern Kalimdor just to help a bunch of brainless beasts transport a load of medicine brewed from savage witchcraft and crude weeds and animal hides?"
+Dar'Khan stared at Jace for a while, then gave a dry laugh. "Are you trying to convince me that the Court Mage advisor to Varian Wrynn, a Ranger Lord of Quel'Thalas, a lord of Aerie Peak — a group of heroes who fought at the Battle of Grim Batol — trekked all the way into the heart of the snowy mountains of northern Kalimdor just to help a bunch of brainless beasts transport a load of medicine brewed from savage witchcraft and crude weeds and animal hides?"
 
 "It's related to the green dragons, Magister," Jace said. "Queen Ysera believes there exists a corruption of the dream in that place, perhaps related to the furbolgs. Helping the Timbermaw tribe was along the way."
 
@@ -30,13 +30,13 @@ Jace was a little surprised, because generally speaking, not many people would b
 
 Dar'Khan was precisely Quel'Thalas's foremost researcher of shadow. And coincidentally, Jace was exactly the kind of expert at manipulating his own emotions and deceiving these mages who relied on shadow "lie detection."
 
-After hesitating for a moment, Dar'Khan glanced at the Ladimore beside him, then fixed his gaze on Jace. "You deciphered the secret recorded by that Burning Legion demon, Jace Sesso. I know you understand Eredun. I know... this absolutely cannot be a coincidence."
+After hesitating for a moment, Dar'Khan glanced at the Ladimore beside him, then fixed his gaze on Jace. "You deciphered the secret recorded by that Burning Legion demon, Jace Sesso. I know you understand Ered'ruin. I know... this absolutely cannot be a coincidence."
 
-"I admit, I did try to decipher that secret, Magister. But in the end there weren't any concrete results," Jace said calmly. "The Eredun language... even the doomguards themselves have already forgotten it. It's an abandoned language, isn't it? And what does this have to do with those black knights?"
+"I admit, I did try to decipher that secret, Magister. But in the end there weren't any concrete results," Jace said calmly. "The Ered'ruin language... even the doomguards themselves have already forgotten it. It's an abandoned language, isn't it? And what does this have to do with those Dark Riders?"
 
 Dar'Khan didn't immediately respond to his words. Jace could feel that although he appeared calm on the surface, two forces were constantly tearing at each other within his heart.
 
-The other side firmly believed that, as an evil warlock, he would definitely be intrigued by the terrible evil artifact recorded in that demonic rune. At the same time, he clearly trusted his own understanding of shadow — this warlock before him really didn't seem to know much about the matter.
+On the one hand, he firmly believed that Jace, as an evil warlock, would definitely be intrigued by the terrible evil artifact recorded in that demonic rune. At the same time, he clearly trusted his own understanding of shadow — this warlock before him really didn't seem to know much about the matter.
 
 That unfamiliar Farstrider glanced at him, also seeming somewhat suspicious.
 
@@ -68,7 +68,7 @@ Before Jace could give any response, Dar'Khan gritted his teeth and said anxious
 
 Jace said skeptically, "You've already confirmed that it's a..."
 
-"Silence strangle you, Jace Sesso!" Dar'Khan suddenly cursed furiously in Thalassian, then said, "Do you think you're hiding it well? Hmm? I've seen through it, I've sensed it — stop beating around the bush with me, you self-righteous bastard! Do you think you're clever?!"
+"Shut your mouth, Jace Sesso!" Dar'Khan suddenly cursed furiously in Thalassian, then said, "Do you think you're hiding it well? Hmm? I've seen through it, I've sensed it — stop beating around the bush with me, you self-righteous bastard! Do you think you're clever?!"
 
 The rain poured down in torrents. Although the more he said the more hysterical his tone became, his emotions rapidly descending into chaos, anger quickly spiraling out of control — his voice still sounded dry and feeble.
 
@@ -76,17 +76,17 @@ Jace could understand. Dar'Khan didn't want to just believe that Jace knew nothi
 
 Because he felt he was very close to Ulthalesh. This warlock before him was his last lead. If he let Jace leave like this, he might never find it again.
 
-"Tell me," the Magister said in a rigid roar. "Where exactly is the Staff of Sathir? Where exactly is Ulthalesh?!"
+"Tell me," the Magister said in a rigid roar. "Where exactly is the Staff of Sataiel? Where exactly is Ulthalesh?!"
 
-When that name was shouted so publicly, even Ressaticis and the Farstrider beside him were startled. Actually, it wasn't just these two elves — even Jace was somewhat taken aback. He hadn't expected Dar'Khan to get so agitated that he'd blurt out Ulthalesh's name.
+When that name was shouted so publicly, even Ressathia and the Farstrider beside him were startled. Actually, it wasn't just these two elves — even Jace was somewhat taken aback. He hadn't expected Dar'Khan to get so agitated that he'd blurt out Ulthalesh's name.
 
-Ressaticis moved closer and said something in a low voice.
+Ressathia moved closer and said something in a low voice.
 
 "Shut up!" he cursed in Thalassian, then shouted loudly at Jace: "You must know — you know it inside out!"
 
 Jace blinked. By now the situation had rapidly spiraled out of control. At this point Morgan beside him asked, "Ulthalesh — what is that?"
 
-The rain grew heavier. The sound of raindrops striking the flagstones and the mud, bang-bang crack-crack, couldn't drown out the priest's voice.
+The rain grew heavier. The clatter of raindrops striking the flagstones and the mud couldn't drown out the priest's voice.
 
 Dar'Khan seemed to be jolted awake by this question, suddenly cooling all over.
 
@@ -94,7 +94,7 @@ Dar'Khan seemed to be jolted awake by this question, suddenly cooling all over.
 
 "I came here to help you find clues, Dar'Khan." The Farstrider beside him said in dissatisfaction in Thalassian. "You never said anything about hurting Jace Sesso. Don't forget he's Lady Vereesa's lover, damn it!"
 
-"If you go back on your word now, Marla, then you'll die too," Dar'Khan said coldly.
+"If you go back on your word now, Maela, then you'll die too," Dar'Khan said coldly.
 
 Hearing these words, the Farstrider's face went white as a sheet.
 
@@ -102,4 +102,4 @@ She spat, raised the bow in her hands, and Jace grabbed the staff behind him wit
 
 The priest hadn't even replied when in an instant he was turned into a jackalope in a cloud of arcane mist, falling into the filthy puddle.
 
-Ressaticis raised her staff flickering with arcane light. It was already too late to take any of it back.
+Ressathia raised her staff flickering with arcane light. It was already too late to take any of it back.

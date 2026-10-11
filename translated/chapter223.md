@@ -1,4 +1,4 @@
-## Chapter 223: Tearing Down Another's Wall
+## Chapter 223: Robbing Peter to Pay Paul
 
 He was faster than me…
 
@@ -44,7 +44,7 @@ The thought blackened like a rapidly rotting petal and fell as a mass of shadow,
 
 The shadow power seemed to sense the shift in his heart, seeping out of his veins and crawling up his wrists.
 
-He pointed his staff at the retreating man and intoned coldly, "Erathun, Siliondor."
+He pointed his staff at the retreating man and intoned coldly, "Elamun, Silondor."
 
 In that moment, he even had the illusion that he could cast this magic without the incantation.
 
@@ -54,7 +54,7 @@ His expression began to twist. His lips twitched uncontrollably. He wanted to cl
 
 He felt unbearable discomfort all over, but couldn't tell where it hurt.
 
-"Demon… demon!" he growled, though he didn't know where he was growling. Eventually his curses turned to sobs. He tried to crawl away desperately, but found the skin on his arms visibly withering before his eyes. He couldn't muster any strength at all, couldn't even drag his own body. The sobs quickly became low moans — "Aiyo, aiyo…"
+"Demon… demon!" he growled, though he didn't know where he was growling. Eventually his curses turned to sobs. He tried to crawl away desperately, but found the skin on his arms visibly withering before his eyes. He couldn't muster any strength at all, couldn't even drag his own body. The sobs quickly became low moans — "Ow, ow…"
 
 Jace clenched his hand and looked down. The crossbow bolt was on the ground, still stained with some blood — and his belly had already healed.
 
@@ -92,7 +92,7 @@ Jace saw the hole and cursed inwardly.
 
 He'd only bought this robe a day ago.
 
-But he truly hadn't expected Life Drain's self-healing effect to be this powerful. It seemed that in the real world, all magic was far more exaggerated than its game counterpart — both the positive effects and the negative ones.
+But he truly hadn't expected Drain Life's self-healing effect to be this powerful. It seemed that in the real world, all magic was far more exaggerated than its game counterpart — both the positive effects and the negative ones.
 
 He thought back to Dalaran, when he'd been stabbed by Teron Gorefiend. Maybe he could have healed himself by draining some living creature's blood…
 
@@ -105,13 +105,3 @@ Jace caught his breath and tried to calm himself, because the more this happened
 After calming down a bit, he looked at the corpses scattered across the ground. He thought back to their earlier arrogance, then their fear, and finally their miserable deaths, and couldn't help but sigh inwardly at the unpredictability of life.
 
 "Come on, let's see what goodies they've got, Grede."
-
-## Flags
-
-- **Title**: 拆别人的墙 — "Tearing Down Another's Wall" — metaphorical; Jace uses Life Drain to tear the life out of a living man, a darker act than simple killing.
-- **Life Drain** (生命吸取): Jace's first deliberate use of Life Drain on a human target. The incantation "Erathun, Siliondor" (厄拉芒，西利昂多尔) is rendered phonetically. The spell heals his gut wound by draining the man's life — a visceral demonstration of warlock magic's self-sustaining horror.
-- **Self-healing side effect**: the excess life energy causes Jace to hemorrhage blood from his eyes, nose, and mouth — a grotesque physical cost that mirrors the game's Life Tap but far more visceral.
-- **The crossbowman's accusations**: "orc-worshipping degenerate," "blasphemer against the Holy Light," "traitor to the Alliance" — the man recognizes Jace's magic as warlockry and lashes out with every slur he knows before Grede's hammer silences him.
-- **Teron Gorefiend** (塔隆·血魔): Jace recalls being stabbed by the death knight in Dalaran — a prior wound that might have been self-healed this way under different circumstances.
-- **Shadow corruption theme**: Jace recognizes the growing pull of shadow power and forces himself to calm down — a recurring internal struggle.
-- **Grede's concern**: the dwarf compares Jace's post-Life Drain appearance to a vampire, unsettled but trying not to judge.

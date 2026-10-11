@@ -8,11 +8,11 @@ Jace racked his brains searching for any memory of that name, but in the end cam
 
 "I'll keep that person in mind," Jace said. "Any other possibilities?"
 
-"A married alchemist and doctor, still alive, who's had dealings between Raven Hill and Duskwood Town — he's the only one I can think of." Morgan took a deep breath. "So you think he's connected to that Death Knight? What's his relation to this Abercrombie you mentioned?"
+"A married alchemist and doctor, still alive, who's had dealings between Raven Hill and Darkshire — he's the only one I can think of." Morgan took a deep breath. "So you think he's connected to that death knight? What's his relation to this Abercrombie you mentioned?"
 
 "Truly, there's no way to be certain," Jace said. "I only heard that this so-called Abercrombie knows some clues, and picked up a few things about his identity. The person who fed me the intelligence knew almost nothing about the name itself either, so I'm stumbling in the dark here."
 
-"So you're an investigator for the Wizard Sanctum, then?" Morgan lowered his eyes to Jace's fingers. "You didn't mention that the last time you were here. If it really is Mr. Waller… if he's done something wrong, I hope… well, perhaps this isn't my place to say, Jace, but he cured my illness. More than once."
+"So you're an investigator for the Wizard's Sanctum, then?" Morgan lowered his eyes to Jace's fingers. "You didn't mention that the last time you were here. If it really is Mr. Waller… if he's done something wrong, I hope… well, perhaps this isn't my place to say, Jace, but he cured my illness. More than once."
 
 "It's only suspicion for now, Morgan," Jace said. "Don't worry too much. I'm just going to ask a few questions."
 
@@ -32,7 +32,7 @@ Of course, he couldn't let his guard down entirely either. A decade or so from n
 
 Lost in thought, he made his way down the hallway when he suddenly noticed, at the window on the far side of the corridor, Vereesa sitting on the sill gazing outside, one hand holding a few salted biscuits she'd brought from Stormwind.
 
-"Ve… Aserwen?"
+"Ve… Aselwen?"
 
 "Jace, you still aren't asleep?"
 
@@ -44,9 +44,9 @@ Lost in thought, he made his way down the hallway when he suddenly noticed, at t
 
 Vereesa smiled. "Slowing me down? Last time I came to Raven Hill I found almost no useful leads. The humans were all wary of me — they wouldn't tell me a thing, and I didn't even know where to start asking. You got more out of this place in one evening than I could've managed in weeks. It's like everyone here knows you. What did you even come here for last time?"
 
-"Last time I was here, Grede and I hunted an orcish warg," Jace said. "Brought some of the meat back and shared it around, so a few folks still remember me, I suppose."
+"Last time I was here, Grede and I hunted an orcish worg," Jace said. "Brought some of the meat back and shared it around, so a few folks still remember me, I suppose."
 
-"Hunting a warg and throwing a feast for the town with it — hah, doesn't sound like a warlock's line of work at all," Vereesa said. "Coming out on this trip, I feel like I'm understanding you less and less, Jace. There's always a process of shedding prejudices."
+"Hunting a worg and throwing a feast for the town with it — hah, doesn't sound like a warlock's line of work at all," Vereesa said. "Coming out on this trip, I feel like I'm understanding you less and less, Jace. There's always a process of shedding prejudices."
 
 Jace said, "Someone once told me that only by stepping into another world yourself, encountering different people and different cultures on their own terms, can you come at a deeper understanding. What you hear secondhand from elsewhere always carries some bias."
 
@@ -60,17 +60,17 @@ Early the next morning, Jace sat on the rim of what had become a filthy reflecti
 
 Vereesa was even more anxious than him, standing far off by the road and gazing that way, as though standing farther back might make the carriage come faster.
 
-Just then Morgan walked over. "Should be soon. Every morning around this time there's a wagon from Moonbrook hauling goods to Duskwood Town, Jace."
+Just then Morgan walked over. "Should be soon. Every morning around this time there's a wagon from Moonbrook hauling goods to Darkshire, Jace."
 
-"So you've all gotten used to calling it Duskwood Town now," Jace said.
+"So you've all gotten used to calling it Darkshire now," Jace said.
 
-"That's right," Morgan said. "Lord Ebrlock's wish is that we accept the present reality of this forest as early as possible and steel ourselves for a long fight against it. I understand the reasoning, and the current state of Duskwood Town really isn't bad."
+"That's right," Morgan said. "Lord Ebonlocke's wish is that we accept the present reality of this forest as early as possible and steel ourselves for a long fight against it. I understand the reasoning, and the current state of Darkshire really isn't bad."
 
-"If you do find that Mr. Thomas Waller is connected to the Death Knight, would you kill him?"
+"If you do find that Mr. Thomas Waller is connected to the death knight, would you kill him?"
 
-"Kill him?" Jace said. "That seems unlikely. I'd probably inform the Wizard Sanctum."
+"Kill him?" Jace said. "That seems unlikely. I'd probably inform the Wizard's Sanctum."
 
-"These days, both Duskwood Town and Raven Hill are in desperate need of good doctors who can treat plague and disease," Morgan said. "If he hasn't committed some unforgivable crime, I hope you'll spare his life and give him a chance to repent."
+"These days, both Darkshire and Raven Hill are in desperate need of good doctors who can treat plague and disease," Morgan said. "If he hasn't committed some unforgivable crime, I hope you'll spare his life and give him a chance to repent."
 
 "Sounds like you're already quite certain he's done something," Jace said.
 
@@ -88,19 +88,10 @@ She pointed into the distance. "It's coming, Jace."
 
 "What?" Jace turned his head, puzzled.
 
-Morgan stole a glance at the elf's back and whispered, "Haven't you heard the story about Marshal Turalyon? Next time we meet, you won't be showing up with a half-elf baby in your arms, will you?"
+Morgan stole a glance at the elf's back and whispered, "Haven't you heard the story about General Turalyon? Next time we meet, you won't be showing up with a half-elf baby in your arms, will you?"
 
 Jace leaned in with a perfectly straight face. "Hard to say."
 
 "I was just kidding, and you're really running with it…"
 
 The two of them burst out laughing. Looking further off, Vereesa was waving at the carriage, whose outline was only just barely visible in the distance.
-
-## Flags
-
-- Morgan describes Thomas Waller: Duskwood's finest doctor, driven to ruin by his wife Elizabeth's terminal illness — a far cry from the "deranged necromancer" image.
-- Jace realizes "Abercrombie" is almost certainly a false name; even the future mayor of Duskwood Town won't know it.
-- Morgan reveals Jace works for the Wizard Sanctum (a cover Jace didn't volunteer). He asks Jace to spare Waller if the man hasn't committed an unforgivable crime.
-- Vereesa reflects that Jace extracted more from Raven Hill in one evening than she could have in weeks — the locals trust him.
-- Jace deflects Vereesa's question about who taught him about shedding prejudices: "Kel'Thuzad." (A name that carries weight for a lore-savvy transmigrator.)
-- Morgan teases Jace about the Turalyon–Alleria romance, asking if he'll show up next time with a half-elf baby — a nod to the inter-species relationship theme.

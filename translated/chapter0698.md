@@ -1,6 +1,6 @@
 ## Chapter 698: Return to Dalaran
 
-Like Vereesa, Jace had never expected Song of the Blue to be repaired by Malygos himself, using his own scales. The scales of the Dragon Aspects were beyond precious. Aside from those still on their bodies, every fallen scale was exceedingly rare — let alone one personally selected by an Aspect to be forged into a weapon. That was rare even among rarities.
+Like Vereesa, Jace had never expected Azuresong to be repaired by Malygos himself, using his own scales. The scales of the Dragon Aspects were beyond precious. Aside from those still on their bodies, every fallen scale was exceedingly rare — let alone one personally selected by an Aspect to be forged into a weapon. That was rare even among rarities.
 
 Jace should have known this. Which was why, after the destruction of Grim Batol, he had actually imagined scouring the ground for fallen scales of Deathwing's…
 
@@ -22,7 +22,7 @@ Still, Jace and Vereesa were eager to get to Amy's and see how her sympathetic m
 
 Actually, before coming to Dalaran, Jace had considered bringing Vereesa along to join in the fun — but that enthusiasm had been thoroughly dashed by that stone-skipping contest on the capital's canal.
 
-He simply could not give this Ranger-Lord any more opportunities to show off.
+He simply could not give this Ranger Lord any more opportunities to show off.
 
 In the evening, the two of them arrived at Amy's doorstep and knocked. Amy opened the door remarkably fast. She pulled the two of them inside and shut the door, silently poured the tea, sat down, took a deep breath, and looked at them. "I know what you did."
 
@@ -30,7 +30,7 @@ In the evening, the two of them arrived at Amy's doorstep and knocked. Amy opene
 
 Amy frowned. "Jace, do you understand what Deathwing was? If you did, you couldn't have said a single word about it when you saw me earlier. Vereesa Windrunner — you too. You can't possibly not know who Deathwing was."
 
-"How could we not know?" Vereesa said. "The moment Deathwing showed himself, he destroyed half of Grim Batol with a single spell and burned several valleys into a hellscape of flame… Against the assault of dozens of whelms and adult dragons, he was virtually unscathed. At that moment, no legend could compare to what we saw with our own eyes. I'm certain Jace felt it even more deeply than I did."
+"How could we not know?" Vereesa said. "The moment Deathwing showed himself, he destroyed half of Grim Batol with a single spell and burned several valleys into a hellscape of flame… Against the assault of dozens of drakes and adult dragons, he was virtually unscathed. At that moment, no legend could compare to what we saw with our own eyes. I'm certain Jace felt it even more deeply than I did."
 
 Listening to Vereesa's description, Jace felt as though he had been transported back to that place. His feet, which had lost their boots, seemed to burn once more from the cinders and ash. The voice of the Father of Black Dragons sounded in his mind once again.
 
@@ -40,7 +40,7 @@ It was the voice of death and doom — and the voice of betrayal. "I will give y
 
 "Uh." Amy was taken aback. Vereesa glanced over as well.
 
-The words had left Jace's mouth almost involuntarily, but the moment they did, he felt his tone may have been a touch too cold. He wasn't facing Deathwing — he was facing Amy Marin, who was no different from family.
+The words had left Jace's mouth almost involuntarily, but the moment they did, he felt his tone may have been a touch too cold. He wasn't facing Deathwing — he was facing Amy Malin, who was no different from family.
 
 Damn it, what was he doing.
 
@@ -74,6 +74,6 @@ Jace took a sip of his tea. "Specifically, I'm trying to track a Quel'dorei. A m
 
 "A magister?" Amy looked between the two of them. "That… is no simple task."
 
-"Which is exactly why we need you, Amy," Vereesa said. "But you won't need to take any risks tracking down magical items connected to that magister to follow his trail. We just need you into Dalaran's Great Library to help Jace find — Amy, can you access the section of the library that holds the records of the Order of Tirisfal?"
+"Which is exactly why we need you, Amy," Vereesa said. "But you won't need to take any risks tracking down magical items connected to that magister to follow his trail. We just need you to go into Dalaran's Great Library to help Jace find — Amy, can you access the section of the library that holds the records of the Order of Tirisfal?"
 
 "I can," Amy said. "I have clearance for that section of the library."

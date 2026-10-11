@@ -1,6 +1,6 @@
 ## Chapter 300: A Murky Malice
 
-Vereesa coated both her blades with the Holy Wizard Oil and handed the bottle to Jace.
+Vereesa coated both her blades with the Blessed Wizard Oil and handed the bottle to Jace.
 
 Jace took the bottle, glanced at the black staff in his hand, then strapped it to his back and switched to the fire staff to apply the oil.
 
@@ -48,7 +48,7 @@ The two left the abandoned dwelling and stepped onto the street. The dragonkin h
 
 "Have we shaken the dragonkin?" Jace whispered.
 
-"I cannot sense their presence anymore. A dragon's scent is pretty easy to pick out." Vereesa glanced back at Jace's tattered cloak. "They probably think we're still at the whelp's corpse. Let them look."
+"I cannot sense their presence anymore. A dragon's scent is pretty easy to pick out." Vereesa glanced back at Jace's tattered cloak. "They probably think we're still at the drake's corpse. Let them look."
 
 "This road curves ahead. Let's take a different one."
 
@@ -60,7 +60,7 @@ Just as the two were about to climb out the window on the other side, Jace sudde
 
 A cold closing in!
 
-He spun around and began chanting Immolate. To keep from interfering with the Wizard Oil's effect, he held himself back from channeling his Shadow energy...
+He spun around and began chanting Scorch. To keep from interfering with the Wizard Oil's effect, he held himself back from channeling his Shadow energy...
 
 The spell completed. Golden fire erupted through the room with a piercing shriek!
 
@@ -86,7 +86,9 @@ Vereesa swallowed and muttered, "Hopefully the friendly ones will not take it to
 
 "They're ghosts. You really expect them to be rational?" Jace said quietly.
 
-The elf sighed helplessly, glanced toward the lower ground to the south, and said, "Let's keep moving." The two moved along the wall down a flight of steps. Just then Jace felt a wave of freezing cold hit him. Before he could warn her, Vereesa suddenly gasped and slammed into the wall beside her, as if shoved hard.
+The elf sighed helplessly, glanced toward the lower ground to the south, and said, "Let's keep moving."
+
+The two moved along the wall down a flight of steps. Just then Jace felt a wave of freezing cold hit him. Before he could warn her, Vereesa suddenly gasped and slammed into the wall beside her, as if shoved hard.
 
 The elf reacted fast, swinging her blade back through the air. The sword carved a diagonal arc of golden light, and a pale phantom suddenly materialized out of nowhere, howling as it rose up the wall and gradually came apart.
 
@@ -105,17 +107,3 @@ Vereesa seemed about to say something, her lips moved, but in the end she just n
 Jace held out his hand. "Give me a blade. At the speed that thing came at us, I probably will not have time to cast. And my energy has not recovered enough either."
 
 The elf handed him the longer one. With the blade in hand, Jace immediately felt a lot more confident. After all, the idea of swinging a stick at ghosts had never sat right with him.
-
-## Flags
-
-- **灼烧咒:** rendered as "Immolate" — Jace's fire spell. Glossary maps 献祭 = Immolate; 灼烧 is a distinct term here. Flag for confirmation of preferred rendering.
-- **神圣巫师之油:** "Holy Wizard Oil" — not in glossary. Flag for confirmation.
-- **隐形药水:** "Invisibility Potion" — not in glossary. Flag for confirmation.
-- **暗影防护药水:** "Shadow Protection Potion" (in glossary).
-- **乌鸦岭:** "Raven Hill" (in glossary).
-- **法师区:** "Mage Quarter" (in glossary).
-- **黑铁:** "Dark Iron" — as in the Dark Iron dwarves. Not in glossary (glossary has 黑铁 = Dark Iron as a dwarven clan). Flag for confirmation.
-- **鬼魂 / 幽灵:** "ghosts" / "phantom" — not in glossary. Flag for confirmation.
-- **龙人:** "dragonkin" — not in glossary. Flag for confirmation.
-- **碎手兽人:** "Shattered Hand orcs" — not in glossary. Flag for confirmation.
-- **黑杖 / 火焰杖:** "black staff" / "fire staff" — Jace's two staves; not in glossary. Flag for confirmation.

@@ -22,9 +22,9 @@ Varian nodded. "A succubus — is she the same demon lady who helped me suppress
 
 "Yes," Jace said. "But she had to deal with Veras Darkshadow — that killer hiding in the shadows I mentioned to you earlier. The felhound helped me defeat one of the mages, the other dead one, Ressathia. But Dar'Khan killed it soon after, forcing me to face him alone."
 
-"Many Quel'Thalas arcanists are excellent swordsmen too," Varian said. "If it were those old men from the Wizard Sanctum, they'd have a hard time dealing with a felhound. I know how dangerous those demons are. But I'm really most interested in how you beat that elven mage. I remember when I was a kid, I actually tried to prove I had some arcane talent. But clearly I don't — at least nowhere near as much as the admiral's daughter Proudmoore."
+"Many Quel'Thalas arcanists are excellent swordsmen too," Varian said. "If it were those old men from the Wizard's Sanctum, they'd have a hard time dealing with a felhound. I know how dangerous those demons are. But I'm really most interested in how you beat that elven mage. I remember when I was a kid, I actually tried to prove I had some arcane talent. But clearly I don't — at least nowhere near as much as Admiral Proudmoore's daughter."
 
-Jace knew very well that if the felhound hadn't bought him some time, and if Morfile hadn't launched a surprise attack later to disrupt Dar'Khan's rhythm as he peppered Jace with Arcane Missiles, he'd have been in serious trouble.
+Jace knew very well that if the felhound hadn't bought him some time, and if Morophil hadn't launched a surprise attack later to disrupt Dar'Khan's rhythm as he peppered Jace with Arcane Missiles, he'd have been in serious trouble.
 
 Just like Dar'Khan had shouted in his final moments — without any demons protecting him, going toe-to-toe in a straight duel really would have been very hard to win.
 
@@ -32,7 +32,7 @@ Just like Dar'Khan had shouted in his final moments — without any demons prote
 
 "You don't counter magic?" Varian asked.
 
-Jace gave an awkward shrug. "I can. But I wouldn't try using a Counterspell incantation I'm not very familiar with against an archmage like Dar'Khan. I studied it at the Wizard Sanctum, but my arcane talent is probably not much better than yours."
+Jace gave an awkward shrug. "I can. But I wouldn't try using a Counterspell incantation I'm not very familiar with against an archmage like Dar'Khan. I studied it at the Wizard's Sanctum, but my arcane talent is probably not much better than yours."
 
 "If someone like you struggles so much against a single mage, then for warriors who've never studied magic, it must be even harder," Varian said, leaning back in his chair. "They don't even need to think about countering anything. Just use all sorts of strange spells to pin your limbs, then casually conjure a fireball the size of a gnome bomb and blow you to pieces."
 
@@ -44,13 +44,13 @@ He went on. "Maybe you need to prepare a hidden weapon — throwing knives, or..
 
 Jace fell silent for a moment after hearing that, wondering to himself whether the reason Varian would eventually obtain a powerful weapon that could split into two war swords was just... destiny.
 
-"A better choice is to prepare in advance," he added. "If I knew I was about to deal with my teacher Marin, I'd definitely drink a few Fire Protection Potions first."
+"A better choice is to prepare in advance," he added. "If I knew I was about to deal with my teacher Malin, I'd definitely drink a few Fire Protection Potions first."
 
 "And then get blown into the sky by Arcane Missiles."
 
 After Varian said it, the two of them burst out laughing.
 
-After a while, Varian sighed. "I know that Lord Edras Blackmoore of Durnholde has built an arena in the castle King Terenas granted him. Have you been there?"
+After a while, Varian sighed. "I know that Lord Aedelas Blackmoore of Durnholde has built an arena in the castle King Terenas granted him. Have you been there?"
 
 "Once," Jace said.
 

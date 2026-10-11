@@ -40,7 +40,7 @@ The old priest gazed out toward the waist-high water weeds in the distance and s
 
 "Can't we burn it?" Jace asked.
 
-"We don't enough fuel on hand, and gathering materials on the spot would take a long time — and might draw gnolls," the paladin said. "I don't like saying this, but that would be the same as preparing a roast for them. This lady would not want that to happen."
+"We don't have enough fuel on hand, and gathering materials on the spot would take a long time — and might draw gnolls," the paladin said. "I don't like saying this, but that would be the same as preparing a roast for them. This lady would not want that to happen."
 
 "Then let's do it." Grede rolled up his sleeves and helped the others push the woman's body back into the river.
 
@@ -62,7 +62,7 @@ Objectively speaking, the energy within Medivh going out of control and destroyi
 
 After all, the entity that had possessed him was the Dark Titan Sargeras — the true master of the Burning Legion, the Lord of All Demons capable of cleaving an entire planet in two with a single stroke.
 
-Gradually, the forest on both sides of the road grew impossibly grim. Heavy fog blazed across their vision. The torches set up along the road to light the way for travelers became, in the fog, points of fire stretching off into the distance — eerie, like will-o'-the-wisps.
+Gradually, the forest on both sides of the road grew impossibly grim. Heavy fog rolled across their vision. The torches set up along the road to light the way for travelers became, in the fog, points of fire stretching off into the distance — eerie, like will-o'-the-wisps.
 
 From time to time, sounds came from the forest that might have been human or might have been wolves. Occasionally a crow swept past and broke the silence, reminding them there were still living things here.
 

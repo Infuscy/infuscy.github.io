@@ -14,7 +14,7 @@ But stopping now meant he might not reach the place the troll witch doctor had d
 
 Following the instructions, Jace walked north along the coast, keeping his eyes on the tree line the whole time, searching for that "shaded jungle path half-hidden from view."
 
-After walking for he didn't know how long and poking around in several gloomy spots, the sun slowly sank and the light slanted in sideways. Jace felt his eyes were about to spin.
+After walking for he didn't know how long and poking around in several gloomy spots, the sun slowly sank and the light slanted in sideways. Jace's vision was starting to swim.
 
 Just as he noticed what seemed like another shady spot up ahead and was going to check it out, the succubus whispered from behind, "Look at the shore ahead, Master."
 
@@ -34,7 +34,7 @@ With just that one look, the female troll suddenly bolted for the shore. Damn it
 
 Jace scrambled to his feet and gave chase, but the troll ran with a speed that could've matched an Olympic sprinter, vanishing into the tree line in the blink of an eye.
 
-He bit down on his teeth and forced himself to ignore the pain in his leg, sprinting after her. The race gap between species hit him all over again — more visceral even than the gap between him and Vereesa Windrunner in arcane talent.
+He gritted his teeth and forced himself to ignore the pain in his leg, sprinting after her. The gap between races hit him all over again — more visceral even than the gap between him and Vereesa Windrunner in arcane talent.
 
 Back in Stormwind, there probably weren't many young men left who could outrun him. And now this troll had just disappeared, fast enough to make a man despair.
 
@@ -99,11 +99,3 @@ Jace picked up the two halves of the mask with a sigh, then looked in the direct
 "Nothing's going to be more valuable than this mask," Morophil said. "My guess is she ran into the cave specifically to grab the mask and flee."
 
 "So what *does* this mask do, anyway?" Jace turned the mask over in his hands, pieced the halves back together, and put it on his face. Nothing happened.
-
-## Flags
-
-- **Chapter title**: 流浪猎手 — "Wandering Hunter" (lit. "Roving/Roaming Hunter").
-- **Key terms**: 莫洛菲尔 = Morophil (succubus); 撒厄诺 = Sazeno (imp); 灵魂链接 = Soul Link (warlock spell); 恶魔语 = Demonic (Eredun, the demon language); 巨魔语 = the troll tongue / Zandalari; 通用语 = Common; 西尔娅 = Sylia; 温蕾萨 = Vereesa Windrunner (canon); 碧空之歌 = Song of Azure (referenced in Ch 328).
-- **Lore note**: The troll's "berserk state" references the canonical troll racial trait (Berserker Stance / berserking). Jace notes that mental magic (mesmerism/Charm) doesn't work on a berserking troll.
-- **Note on the mask**: Described as blue-green (青色), closed eyes, long nose — a voodoo/shamanic mask of deep personal significance to Sylia. Its function is not yet revealed here; Jace tries wearing it and senses nothing.
-- **Source**: lines 20091–20141.

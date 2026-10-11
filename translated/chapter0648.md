@@ -6,7 +6,7 @@ He took a bite himself. Sour and astringent, but with a hint of sweetness — co
 
 "This is all I could manage." Vereesa looked at Jace, who was blinking against the sourness. "There are gnolls roaming around here. I was worried that lighting a fire to cook meat would draw their attention."
 
-"This is more than good enough," Jace said. "I was thinking I wouldn't have to find my own food until we got into the Barthor Mountains. This whole swamp is nothing but danger — I just wanted to get out of here as fast as possible."
+"This is more than good enough," Jace said. "I was thinking I wouldn't have to find my own food until we got into the Batol Mountains. This whole swamp is nothing but danger — I just wanted to get out of here as fast as possible."
 
 He looked off to the southeast. Beyond that great stretch of forest, the outlines of mountain silhouettes were already faintly visible through the clouds and mist.
 
@@ -54,7 +54,7 @@ Lately, he'd been sleeping more and more soundly at night.
 
 If he remembered correctly, the Father of Black Dragons should be stirring up trouble in the Lordaeron court right about now.
 
-Using mind magic and illusions, he'd successfully influenced King Terenas of Lordaeron, convincing the King that the Alterac noble he was impersonating — Lord Daval Prestor — was trustworthy and loyal to Lordaeron and the Menethil royal house. That was how he'd gotten the King to push for handing the vacant Alterate throne to him.
+Using mind magic and illusions, he'd successfully influenced King Terenas of Lordaeron, convincing the King that the Alterac noble he was impersonating — Lord Daval Prestor — was trustworthy and loyal to Lordaeron and the Menethil royal house. That was how he'd gotten the King to push for handing the vacant Alterac throne to him.
 
 Maybe he was busy with politics now, or tied up in court trivialities, with no interest in bothering with this bumbling mortal struggling his way through the swamp. After all, what news could there be from flailing around in a swamp for days on end?
 

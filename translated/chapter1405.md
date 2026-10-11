@@ -20,7 +20,7 @@ But even if they couldn't immediately place the tall, scruffy wizard, Khadgar's 
 
 The shout traveled from one soldier to the next along the wall. Soldiers and mages poured out of the parade ground to look toward the walls.
 
-Many of the soldiers who'd come from Wildhammer Keep recognized Jace without much trouble — he'd been just as unkempt back at Wildhammer, and that tightly-wrapped staff of his was unmistakable. They rushed over, shouting his name, expressing their gratitude, thanking the Holy Light for guiding him safely home.
+Many of the soldiers who'd come from Wildhammer Stronghold recognized Jace without much trouble — he'd been just as unkempt back at Wildhammer, and that tightly-wrapped staff of his was unmistakable. They rushed over, shouting his name, expressing their gratitude, thanking the Holy Light for guiding him safely home.
 
 In the past, hearing that kind of talk might have made Jace mutter to himself. He'd have thought, "What did the Holy Light have to do with it?"
 
@@ -68,7 +68,7 @@ Simple, but devastatingly effective.
 
 Looking at his father's face, all the words he'd rehearsed died in his throat.
 
-In that black demon hall, standing amid Brultalus's demon blood, he'd thought more than once — if he ever had the chance to return to his parents, he'd pour everything out, no matter the cost.
+In that black demon hall, standing amid Brutallus's demon blood, he'd thought more than once — if he ever had the chance to return to his parents, he'd pour everything out, no matter the cost.
 
 But now that he was really here, he didn't know where to start. In the end, he could only stand there, silent, and let out a sigh.
 
@@ -102,37 +102,37 @@ The bottom floor of this tower was surprisingly clean. Thick layers of blankets 
 
 But then he noticed the dark, lumpy mass in the corner. A pair of burning flames lit up from its head.
 
-"Needlefang?"
+"Needleflame?"
 
 "No..." The little black dragon was practically sobbing. She whimpered, "Jace... Sesso. Jace Sesso! You really didn't die."
 
-Bandages meant for gryphons were wrapped around Needlefang's legs and belly, which she was trying desperately to hide with her wings. But even without seeing her wounds, Jace could smell the stale herbal medicine radiating from her.
+Bandages meant for gryphons were wrapped around Needleflame's legs and belly, which she was trying desperately to hide with her wings. But even without seeing her wounds, Jace could smell the stale herbal medicine radiating from her.
 
-She must have been seriously injured. Even with Solara and the priests tending to her, she couldn't recover in just a few days. She couldn't shift forms either.
+She must have been seriously injured. Even with Sola and the priests tending to her, she couldn't recover in just a few days. She couldn't shift forms either.
 
-"Don't stare at my wounds! You have no idea how many demons I killed!" Needlefang's voice was practically a shriek. The wooden door thumped twice, and Khadgar's voice came through. "Everything all right in there, Jace?"
+"Don't stare at my wounds! You have no idea how many demons I killed!" Needleflame's voice was practically a shriek. The wooden door thumped twice, and Khadgar's voice came through. "Everything all right in there, Jace?"
 
 "Fine." Jace replied, then asked, "So, how many did you kill?"
 
-"One doomguard," Needlefang said hoarsely. "And countless demon guards. Countless!"
+"One doomguard," Needleflame said hoarsely. "And countless felguards. Countless!"
 
 "I admit, that's impressive." Jace nodded. "So what did I do to piss you off? It sounds like you weren't hoping I'd make it back alive."
 
-Hearing that, the emotions Needlefang had been struggling to contain collapsed all at once. Her head, which looked oversized compared to her body, thumped onto the bedding. Between sobs, she said, "Tell me what happened on the Throne of Kil'jaeden! Tell me — what was my father doing?!"
+Hearing that, the emotions Needleflame had been struggling to contain collapsed all at once. Her head, which looked oversized compared to her body, thumped onto the bedding. Between sobs, she said, "Tell me what happened on the Throne of Kil'jaeden! Tell me — what was my father doing?!"
 
 Jace finally understood why she was so upset. He hadn't died, which meant Sabellian had been lying. Which meant Sabellian had abandoned him and fled, rather than being forced to retreat after witnessing Jace's death.
 
 "He's not much of a warrior. He's not much of a warrior..." The little black dragon trembled all over. "He shouldn't have left you behind and abandoned that mountain!"
 
-"He's really not much of a warrior, Needlefang." Jace said. "But he has a large family to take care of. You should know what would have happened to your kind on Draenor if he hadn't been there. Don't get me wrong — I'm pretty pissed that he left Morlofil and me behind and ran. But I can't blame him for his choice."
+"He's really not much of a warrior, Needleflame." Jace said. "But he has a large family to take care of. You should know what would have happened to your kind on Draenor if he hadn't been there. Don't get me wrong — I'm pretty pissed that he left Morophil and me behind and ran. But I can't blame him for his choice."
 
-Jace hadn't expected to be the one defending the guy who'd nearly killed him. He'd thought about laying it on thick about how the bastard had tried to pick up Sargeras's scepter, to make Needlefang more committed to staying in Azeroth.
+Jace hadn't expected to be the one defending the guy who'd nearly killed him. He'd thought about laying it on thick about how the bastard had tried to pick up Sargeras's scepter, to make Needleflame more committed to staying in Azeroth.
 
 But he couldn't say it. Without Sabellian, the whole plan would never have worked. In the end, Jace just couldn't bring himself to see the guy as an enemy, no matter how things had ended.
 
-Needlefang sobbed for a long moment before she seemed to accept this. She looked like she wasn't going to flare up anymore.
+Needleflame sobbed for a long moment before she seemed to accept this. She looked like she wasn't going to flare up anymore.
 
-"I'm surprised you were willing to come here with us," Jace said. "I heard from Archmage Khadgar that your father was rallying all the black dragons to flee to Bladespire Mountains."
+"I'm surprised you were willing to come here with us," Jace said. "I heard from Archmage Khadgar that your father was rallying all the black dragons to flee to the Blade's Edge Mountains."
 
 The snake-like black head drooped as she shuddered a few more times. "Because I had to keep my promise. I promised you first."
 

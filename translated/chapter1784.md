@@ -14,11 +14,11 @@
 
 Jace thought about it. The Chain of Will was still around his neck, so he wasn't too worried about external mental manipulation. It was just a demonstration, after all. He nodded.
 
-"Do you have any magic items that resist mental control?" Khadgar asked, almost as if he could read minds. "Like the Flow Ice Crystal, which can consume mana to resist mental interference. I know the Kirin Tor gave you that."
+"Do you have any magic items that resist mental control?" Khadgar asked, almost as if he could read minds. "Like the Flowing Ice Crystal, which can consume mana to resist mental interference. I know the Kirin Tor gave you that."
 
 "Vereesa has it." Jace said.
 
-"Anything else? You're covered in priceless magical items. Don't miss any." Khadgar said. "The point is, if this spell doesn't affect the target's mind at all — if it gets blocked by something like the Flow Ice Crystal — it won't pique the observer's curiosity. To them, it'd just be a limited little trick."
+"Anything else? You're covered in priceless magical items. Don't miss any." Khadgar said. "The point is, if this spell doesn't affect the target's mind at all — if it gets blocked by something like the Flowing Ice Crystal — it won't pique the observer's curiosity. To them, it'd just be a limited little trick."
 
 "Damn." Jace cursed under his breath. "Can't you use a different spell?"
 
@@ -26,17 +26,17 @@ Jace thought about it. The Chain of Will was still around his neck, so he wasn't
 
 "Way too many." Jace said.
 
-"Then randomly picking one won't make a difference. If you've got a hundred lice, you stop feeling itchy." Khadgar said. "The real problem is I only spent a few years in Karazhan. I didn't have that many opportunities to learn bizarre spells. This is the most suitable one based on what you mentioned earlier. If you don't want to be the target, I don't have another option."
+"Then randomly picking one won't make a difference. With that many, one more is a drop in the bucket." Khadgar said. "The real problem is I only spent a few years in Karazhan. I didn't have that many opportunities to learn bizarre spells. This is the most suitable one based on what you mentioned earlier. If you don't want to be the target, I don't have another option."
 
 Jace sighed helplessly and paced a couple of steps around the half-dried beast blood circle.
 
 The secret he couldn't afford to expose — the one he least wanted to bring up with this mage — was his transmigration experience.
 
-But was a time-space anomaly, from past to future, really some incomprehensible deadly secret to Khadgar — a man who'd lived in Karazhan, who knew Medivh the Star Mage personally?
+But was a time-space anomaly, from past to future, really some incomprehensible deadly secret to Khadgar — a man who'd lived in Karazhan, who knew the Magus Medivh personally?
 
 More importantly, Khadgar might have already met a past or future Medivh.
 
-If this ended up exposing his time-travel, Jace figured he could smooth it over even if the spell did force it out. Bronze dragonflight, Emerald Dream, strange visions...
+If this ended up exposing his time-travel, Jace figured he could smooth it over even if the spell did force it out. Bronze Dragonflight, Emerald Dream, strange visions...
 
 And Khadgar was in the same boat as him now. If the guy tried to use this against him, Jace had plenty of leverage to get him thrown into the Violet Hold. Who was afraid of who?
 
@@ -46,7 +46,7 @@ Worst case scenario — maybe the spell wouldn't work on him at all. Archmage Kh
 
 Whether he was getting cocky or not... Jace felt he wasn't without a fighting chance.
 
-Jace took off his cloak, robe, and the Chain of Will, setting them aside. He propped Usathers in the corner, straightened his undershirt, and said: "Fine then. Let's do it."
+Jace took off his cloak, robe, and the Chain of Will, setting them aside. He propped Ulthalesh in the corner, straightened his undershirt, and said: "Fine then. Let's do it."
 
 "Excellent." Khadgar said quietly.
 
@@ -74,7 +74,7 @@ Khadgar's expression grew increasingly serious. He looked up at the ceiling, app
 
 "If your mana reaches its limit... don't force yourself to keep channeling, Jace."
 
-Jace didn't answer. For someone holding Usathers, even though this unfamiliar ritual was already draining heavily, he was still far from hitting the bottom of his "mana pool."
+Jace didn't answer. For someone holding Ulthalesh, even though this unfamiliar ritual was already draining heavily, he was still far from hitting the bottom of his "mana pool."
 
 Seeing his calm demeanor, Khadgar wisely shut up and quietly continued watching.
 
@@ -96,7 +96,7 @@ But there was no way Jace would let it out. The spell was indeed strange and sha
 
 His deep, heavy shadow energy was regrouping, firmly pulling back the arcane light heading toward "Transmigration." The brilliant energy specks were failing. They couldn't reach "Transmigration"!
 
-Not so impressive after all... Khadgar, I'm saying Khadgar, you're still just Aegwynn's son's apprentice, not the original inventor. This little trick is interesting but it's all thunder and no lightning. Even without the Chain of Will, you—
+*Not so impressive after all... Khadgar, oh, Khadgar, you're still just Aegwynn's son's apprentice, not the original inventor. This little trick is interesting, but it's all bark and no bite. Even without the Chain of Will, you—*
 
 "...Booty Bay!"
 
@@ -116,7 +116,7 @@ Jace coughed out another word. He suddenly clapped his hand over his mouth. The 
 
 "Indeed, astounding to the void! Such exquisite and bizarre arcane forms, such deep yet chaotic shadow storms! Composing such a brief yet magnificent... melody."
 
-A whisper in Eredar came from the magic circle. The voice was hoarse and piercing. Soon, amid drifting runic light and shadow energy, a shadow the size of an ogre lord's belly materialized within it.
+A whisper in Eredun came from the magic circle. The voice was hoarse and piercing. Soon, amid drifting runic light and shadow energy, a shadow the size of an ogre lord's belly materialized within it.
 
 The magical light faded. A gray floating creature that looked like a stubby-tentacled squid opened its fang-filled, spike-rimmed mouth. "Greetings, mortals of Azeroth. It has been so long, so long, so long... since I last received word from this beautiful place."
 

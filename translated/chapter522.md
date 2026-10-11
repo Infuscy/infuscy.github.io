@@ -8,7 +8,7 @@ All three of them startled at the noise and turned toward the door, though the o
 
 Once he'd confirmed nothing was wrong, Jace pointed to a spot on the map in the middle of Thousand Needles. "Right here. The centaur have taken it over. We'll have to detour north…"
 
-"Looking at this map, the distances seem about the same to me, Jace," Wynne said, popping a chunk of red cactus flesh into her mouth as she chewed. "And we won't have to cut through the whole jungle anymore. Between a jungle and a grassland, I'd say the grassland's a lot friendlier."
+"Looking at this map, the distances seem about the same to me, Jace," Vereesa said, popping a chunk of red cactus flesh into her mouth as she chewed. "And we won't have to cut through the whole jungle anymore. Between a jungle and a grassland, I'd say the grassland's a lot friendlier."
 
 Grede nodded vigorously beside her.
 
@@ -18,11 +18,11 @@ Grede nodded vigorously beside her.
 
 "I don't know," Jace said. "But he's also the one who found the dagger. I can't just ignore that lead."
 
-At that moment, Wynne set down her bowl of meat stew, drew the wrapped dagger from at her waist, and opened it. She placed her hand lightly over the blade and closed her eyes.
+At that moment, Vereesa set down her bowl of meat stew, drew the wrapped dagger from her belt, and opened it. She placed her hand lightly over the blade and closed her eyes.
 
 "What's she doing?" Grede asked.
 
-"I need to keep the magical signature of this dagger fresh in my mind at all times, so I don't miss any important clues," she said quietly. "I haven't been studying sympathy for very long. I need to practice and stay sharp…"
+"I need to keep the magical signature of this dagger fresh in my mind at all times, so I don't miss any important clues," she said quietly. "I haven't been studying sympathetic magic for very long. I need to practice and stay sharp…"
 
 Staring at the dagger, Jace thought of Dire Maul.
 
@@ -38,7 +38,7 @@ Truth be told, the more Jace thought about it, the more it worried him.
 
 Thousand Needles wasn't even where the centaur were thickest. Maraudon was a genuine centaur holy site. If they had to go around the centaur tribes in Thousand Needles, then what were they going to do when they got near Maraudon?
 
-"We should find a guide," Jace said. "Someone who knows the centaur. I'm going to look for a tauren in the city and ask. The tauren have been fighting the centaur for hundreds of thousands of years."
+"We should find a guide," Jace said. "Someone who knows the centaur. I'm going to look for a tauren in the city and ask. The tauren have been fighting the centaur for hundreds, even thousands of years."
 
 "A tauren?" Grede asked. "You sure you want a monster like that as a guide?"
 
@@ -46,7 +46,7 @@ Thousand Needles wasn't even where the centaur were thickest. Maraudon was a gen
 
 The three of them ate their fill and walked out of the restaurant. Jace looked down at the flat, dust-blown road and felt a flicker of déjà vu, like he'd been transported back to his old world.
 
-He cross-referenced a Gadgetzan map he'd picked up on a street corner with the location the innkeeper had marked, then led Grede and Wynne toward the high slope in the southwest corner.
+He cross-referenced a Gadgetzan map he'd picked up on a street corner with the location the innkeeper had marked, then led Grede and Vereesa toward the high slope in the southwest corner.
 
 Below the slope stood a cluster of low buildings. Arriving there, Jace picked out the tauren's dwelling almost at once — among all the little stone huts, there was a crudely pitched hide tent.
 
@@ -60,7 +60,7 @@ His tone was cold. Jace had a bad feeling about this.
 
 "We're travelers from the Eastern Kingdoms, sir," Jace said. "We're heading for the place where Maraudon is!"
 
-"Manethil," the tauren murmured. "Of course. These days we prefer to call it La Va Awak. In your Common tongue… Desolace."
+"Mashan'she," the tauren murmured. "Of course. These days we prefer to call it La Va Awak. In your Common tongue… Desolace."
 
 "That's the one," Grede added.
 
@@ -68,13 +68,13 @@ His tone was cold. Jace had a bad feeling about this.
 
 "A guide?"
 
-The tauren exhaled, then leaned in and sniffed at Jace. He rumbled to himself for a while before speaking. "I won't be your guide, human. You hide your evil tail under your robes, but I know you for a dark one who traffics with demons. I've seen plenty like you in Gadgetzan."
+The tauren exhaled, then leaned in and sniffed at Jace. He rumbled to himself for a while before speaking. "I won't be your guide, human. You may hide what you are beneath those robes, but I know you for a dark one who traffics with demons. I've seen plenty like you in Gadgetzan."
 
-"It's probably not what you think—" Wynne began.
+"It's probably not what you think—" Vereesa began.
 
-"An evil Quel'dorei," the tauren's small eyes swiveled to Wynne. "You're no better."
+"An evil Quel'dorei," the tauren's small eyes swiveled to Vereesa. "You're no better."
 
-Wynne, hit with that right out of the gate, didn't know what to say. Grede immediately stepped forward, jabbing a finger at him. "Hey, what's all this 'evil, evil' crap!"
+Vereesa, hit with that right out of the gate, didn't know what to say. Grede immediately stepped forward, jabbing a finger at him. "Hey, what's all this 'evil, evil' crap!"
 
 "Dwarf, keeping company with these two is your own degradation!" the tauren said, and started to pull his head back inside.
 
@@ -84,26 +84,14 @@ Wynne, hit with that right out of the gate, didn't know what to say. Grede immed
 
 With that, the tauren withdrew entirely into his tent and said nothing more.
 
-"No point dealing with these self-important monsters!" Grede shouted into the tent. "A bunch of freaks with eyes and noses that don't know what they're for, spitting high-minded bullshit — damn, it makes my blood boil!"
+"No point dealing with these self-important monsters!" Grede shouted into the tent. "A bunch of freaks who can't see what's right in front of their snouts, spitting high-minded bullshit — damn, it makes my blood boil!"
 
-"Grede's right, forget what that monster said, Jace," Wynne said. "Self-righteous bastard."
+"Grede's right, forget what that monster said, Jace," Vereesa said. "Self-righteous bastard."
 
 "I'm not bothered by him," Jace said. "It's just… we might really have to head north on our own."
 
-"That's fine too," Wynne said. "I don't like dealing with the types here anyway."
+"That's fine too," Vereesa said. "I don't like dealing with the types here anyway."
 
 Grede shouted, "Then we go ourselves! What's the big deal? There are four directions in the world — north, south, east, west. How lost can we get?! And we've got an elven ranger to boot!"
 
 Jace smiled. "Then let's get ready today. We head north tomorrow morning!"
-
-## Flags
-
-- **centaur** (半人马): half-human, half-horse race; 半人马酋长 = centaur khan/chieftain.
-- **sympathy** (交感): the magical discipline Wynne uses to read the dagger's signature — sympathetic magic.
-- **Dire Maul** (厄运之槌): the ruined elven city; 埃雷萨拉斯 = Eldre'Thalas.
-- **Gul'dan** (古尔丹): the orc warlock whose ogre followers crossed the ocean.
-- **tauren** (牛头人): the bovine race; 老蠢牛 = "stupid old cow" (Grede's insult).
-- **Manethil / La Va Awak / Desolace** (马珊希 / 拉·瓦·阿瓦克 / 凄凉之地): the tauren name for Desolace and its Common translation.
-- **Quel'dorei** (奎尔多雷): the tauren's term for Wynne's people (High Elves).
-- **dark one** (黑暗者): the tauren's term for a demon-dealing warlock.
-- **goblin collector** (地精收藏家): the goblin who found the dagger and hired the mercenary mage.

@@ -18,7 +18,7 @@ The hall, already somewhat stifling from the dragon eggs, grew hotter in an inst
 
 Once through the gate, Jace realized this hall was even larger than the hatchery outside—but it was dark and lightless, and nothing could be seen.
 
-Beside him, Morfil's expression was one of evident agony. Clearly the magical radiation in this place was excruciating for a demon like her. Jace couldn't help but swallow nervously, because he knew what he was about to witness.
+Beside him, Morophil's expression was one of evident agony. Clearly the magical radiation in this place was excruciating for a demon like her. Jace couldn't help but swallow nervously, because he knew what he was about to witness.
 
 The smell of wildfire burning leaves filled his nostrils. In the dark hall, a sphere of flame spiraled into being—like a giant blazing ruby suddenly igniting in the shadows. The ruby flickered once, slowly rose, and then a searing maw tore open beneath it.
 
@@ -26,7 +26,7 @@ Brilliant lights flickered to life from all directions, illuminating the hall. E
 
 One by one, magical gems began to glow and slowly float into the air. As Jace adjusted to the glare of these dazzling treasures, he finally made out the gems—and the silhouette they enclosed.
 
-It was an enormous dragon's skull. The head alone was considerably larger than an entire whelp outside. The massive horns atop it were thicker than the hall's stone pillars, hung with golden rings thicker than house walls. Every magical gem and diamond embedded in them was larger than Jace's own head.
+It was an enormous dragon's skull. The head alone was considerably larger than an entire drake outside. The massive horns atop it were thicker than the hall's stone pillars, hung with golden rings thicker than house walls. Every magical gem and diamond embedded in them was larger than Jace's own head.
 
 Jace felt the back of his neck tingle. Before this incomparably vast magical beast, he felt that merely standing upright was a tremendous challenge.
 
@@ -54,7 +54,7 @@ The Dragonqueen spoke Common. Her voice, though clearly feminine, was deep as an
 
 "I did not come here for you today," Nekros replied in Common. Then he turned to Jace and asked in Orcish, "Are you satisfied?"
 
-Every orc in the entire prison hall—the Dragonqueen included—turned their gaze on him. That was when he noticed the Dragonqueen's eyes fixed on his waist, or more precisely, on the sword at his hip—Skysong.
+Every orc in the entire prison hall—the Dragonqueen included—turned their gaze on him. That was when he noticed the Dragonqueen's eyes fixed on his waist, or more precisely, on the sword at his hip—Azuresong.
 
 "Astonishing, Nekros," Jace said in Orcish. "I don't have the words… this miracle."
 
@@ -64,7 +64,7 @@ Had Vereesa and Grede made it in? Were they ready to fight? Jace had no idea. He
 
 But he truly was awestruck. Locking eyes with the Queen, he could barely breathe. Had he really come here to save this ancient being? Did she even need his saving?
 
-"Look well, Yoruk." Nekros stepped back and climbed the steps to what he judged a safe distance. "After you leave here, you may never again have the chance to witness such a being. Her temper is remarkably calm today. You're fortunate."
+"Look well, Yurk." Nekros stepped back and climbed the steps to what he judged a safe distance. "After you leave here, you may never again have the chance to witness such a being. Her temper is remarkably calm today. You're fortunate."
 
 Jace nodded, his mind racing. Then the Dragonqueen suddenly fixed her gaze on him, slowly closed her eyes, and opened them again, shifting her gaze downward.
 
@@ -76,7 +76,7 @@ Beneath the shelter of her enormous wing, Jace caught sight of something green�
 
 Nekros roared, raised the golden disc, and began chanting a spell. The object finally glimmered faintly, and every chain on the Dragonqueen's body creaked and groaned with an unnatural sound. Alexstrasza let out a pained groan. Her head, which had only barely lifted a moment before, crashed to the ground in agony, and the entire hall shook violently.
 
-When everything finally settled, Nekros stood with his eyes wide, gasping for breath. "I must be cautious," he said, turning to Jace, his face drenched in sweat. Jace nodded and pulled out a Refined Wisdom Elixir to drink.
+When everything finally settled, Nekros stood with his eyes wide, gasping for breath. "I must be cautious," he said, turning to Jace, his face drenched in sweat. Jace nodded and pulled out a Flask of Distilled Wisdom to drink.
 
 "What is that?" Nekros asked.
 
@@ -108,13 +108,13 @@ Hearing Vereesa's warning, Jace spun around. An orc bearing a two-handed sword w
 
 He turned back to hit Nekros with a single-target Fear. He'd barely begun the incantation when Nekros outpaced him, extending his arm toward Jace and roaring the words for Fear. They both cast almost simultaneously, but Nekros's Fear was swiftly cleansed by the still-active Restorative Potion. Jace's Fear spell landed again, and Nekros burst into tears and sat on the ground—but through gritted teeth he tried to force himself back to his feet.
 
-The warlord's willpower was absurdly strong. Even empowered by both the Refined Wisdom Elixir and the blood magic staff, the Fear spell was barely holding him. But Jace immediately cast Asphyxiate, pinning him to the ground. Nekros fell to his knees, clutching his throat. This time he couldn't even grip his crutch.
+The warlord's willpower was absurdly strong. Even empowered by both the Flask of Distilled Wisdom and Gorefiend's staff, the Fear spell was barely holding him. But Jace immediately cast Asphyxiate, pinning him to the ground. Nekros fell to his knees, clutching his throat. This time he couldn't even grip his crutch.
 
 "Charm him—quickly, now!" Jace shouted as he turned back. A flood of orcs was charging in, only to be cut down batch after batch by Vereesa's volleys of magic arrows. Grede, wielding a war hammer, had already struck down several of Nekros's elite guards and charged over to block the Dragonmaw soldiers trying to reach Jace. But more and more orcs were pouring through the gate…
 
-Morfil had already appeared beside Nekros, shadow coalescing in her hands. After a violent fit of coughing, Nekros said in a low voice, "I am yours… I give all that I am, my lady."
+Morophil had already appeared beside Nekros, shadow coalescing in her hands. After a violent fit of coughing, Nekros said in a low voice, "I am yours… I give all that I am, my lady."
 
-Though his tone was abject, the hatred etched on his face was unmistakable. "Give that object to my master," Morfil commanded.
+Though his tone was abject, the hatred etched on his face was unmistakable. "Give that object to my master," Morophil commanded.
 
 Nekros, trembling, unhooked the chain from his shoulder and arms, then handed the Demon Soul bound upon it to Jace. When Jace took hold of it, he felt as though his arm had gone beyond his control.
 
@@ -146,9 +146,9 @@ Perhaps he should stop agonizing and hand the disc to Deathwing, along with the 
 
 He was only a mortal. He shouldn't bear such a heavy burden.
 
-If he gave it to the Dragon Father, he could gain immortality, be with the ones he loved forever. He could rule the new world alongside the Dragon Father, seek a new dawn.
+If he gave it to the Dragonfather, he could gain immortality, be with the ones he loved forever. He could rule the new world alongside the Dragonfather, seek a new dawn.
 
-Jace felt a sore, swollen ache in his arm. He pulled back his sleeve and saw the precious Black Dragon's Mark radiating an indescribably beautiful light. He could almost see his future within that light.
+Jace felt a sore, swollen ache in his arm. He pulled back his sleeve and saw the precious black dragon brand radiating an indescribably beautiful light. He could almost see his future within that light.
 
 He could see Neltharion's nearly flawless face within it, as though all the torment, repression, and pain he'd endured along the way had been building toward this moment of awakening.
 
@@ -164,41 +164,32 @@ The ranger stood atop a distant stone pillar, loosing arrow after arrow with une
 
 Her expression was resolute, her movements clean and precise—a ruthless, efficient engine of death. And yet, in the brief pauses between volleys, she still glanced this way.
 
-——Death is nothing to fear. My only fear is that you will no longer be yourself.
+— Death is nothing to fear. My only fear is that you will no longer be yourself.
 
-Jace drew Skysong with his left hand, raised it, and drove it straight through the Black Dragon's Seal on his arm!
+Jace drew Azuresong with his left hand, raised it, and drove it straight through the black dragon brand on his arm!
 
-A roar followed that nearly burst his eardrums. He screamed at the top of his lungs but heard nothing. He knelt on the ground, enduring the searing pain as he slowly pulled the sword free. The Black Dragon brand had been torn apart by the wound, losing its original shape. Blood that welled up swallowed all the firelight, drowning that indescribable prismatic glow. Black shadow-blood seeped from the wound…
+A roar followed that nearly burst his eardrums. He screamed at the top of his lungs but heard nothing. He knelt on the ground, enduring the searing pain as he slowly pulled the sword free. The black dragon brand had been torn apart by the wound, losing its original shape. Blood that welled up swallowed all the firelight, drowning that indescribable prismatic glow. Black shadow-blood seeped from the wound…
 
-He raised Skysong, now stained with his own dark blood. If there was any way to destroy the Demon Soul, this was it.
+He raised Azuresong, now stained with his own dark blood. If there was any way to destroy the Demon Soul, this was it.
 
-——I will give you one last chance, Sesso…
+— I will give you one last chance, Sesso…
 
 A chant-like murmur echoed in his mind.
 
-——Did you think you could destroy the Demon Soul so easily? I must admit, there was a moment when I truly believed you would be loyal to me. But in the end, you chose the other path. I am deeply disappointed, because I truly valued you.
+— Did you think you could destroy the Demon Soul so easily? I must admit, there was a moment when I truly believed you would be loyal to me. But in the end, you chose the other path. I am deeply disappointed, because I truly valued you.
 
-——But your will is far stronger than I imagined. You are a gifted mortal, so I am willing to give you one last chance. Do not attempt to break my treasure…
+— But your will is far stronger than I imagined. You are a gifted mortal, so I am willing to give you one last chance. Do not attempt to break my treasure…
 
 As the black brand on his arm burned away from the puncture, twisting into a misshapen, corroded scar, Deathwing's cursed voice grew fainter and fainter.
 
 Jace, gripping his bloodied blade, inched it carefully toward the golden disc. When the tip touched its surface, a sharp crack rang out.
 
-Skysong had split.
+Azuresong had split.
 
-The Blue Dragon sword had only grazed the surface lightly, yet a crack had already appeared. Its wavering arcane light rapidly dimmed, while the disc hadn't budged. The blood on the blade slid off the disc's surface without leaving a single trace.
+The blue dragons' sword had only grazed the surface lightly, yet a crack had already appeared. Its wavering arcane light rapidly dimmed, while the disc hadn't budged. The blood on the blade slid off the disc's surface without leaving a single trace.
 
 Was it over? He'd failed.
 
 Yet having accepted that fact, Jace felt an extraordinary calm.
 
 Perhaps it was because he no longer had to bear Deathwing's cursed brand, no longer had to hide everything from everyone.
-
-## Flags
-
-- **POV:** Third person throughout.
-- **Names/titles:** 阿莱克斯塔萨 → Alexstrasza, the Dragonqueen / the Life-Binder (canonical); 生命缚誓者 → the Life-Binder (her title); 碧空之歌 → Skysong (Jace's sword, a Blue Dragon-forged blade); 耐萨里奥 → Neltharion (Deathwing's true name); 恶魔之魂 → the Demon Soul (canonical artifact).
-- **Magic:** 精炼智慧合剂 → Refined Wisdom Elixir; 滋补药剂 → Restorative Potion (glossary); 恐惧术 → Fear (glossary); 窒息术 → Asphyxiate; 群体恐惧术 → Mass Fear; 生命吸取 → Life Drain (glossary); 痛苦诅咒 → Curse of Agony (glossary).
-- **Key beats:** Alexstrasza subtly signals Jace by shifting her wing to reveal Vereesa hiding beneath. Jace drinks a Restorative Potion in advance to cleanse Nekros's Fear. Upon touching the Demon Soul, Jace is overwhelmed by Deathwing's psychic influence urging him to submit; he resists by stabbing his own Black Dragon's Mark with Skysong. Skysong cracks against the Demon Soul and fails to destroy it.
-- **Dragon lore:** The Demon Soul is concealed by an enchantment that masks its power. The demonic chains binding Alexstrasza are forged of elementium.
-- **Tone:** Grandiose and terrifying in the Dragonqueen's presence; psychologically harrowing during the Demon Soul's corruption sequence.

@@ -10,37 +10,37 @@ By the time he reached the tail end of the incantation — the point where he'd 
 
 After finishing the recitation, Jace watched the faintly glowing circle dim, feeling as though his consciousness was still being pulled at by something, not yet back. It took a while for the daze to clear.
 
-Galders folded his arms, pondered for a moment, then asked, "You didn't feel anything either?"
+Zardeth folded his arms, pondered for a moment, then asked, "You didn't feel anything either?"
 
 "Not exactly nothing," Jace said. "It seems like something responded to the incantation, but I couldn't tell you what. Did you two feel the same way?"
 
-"More or less." Grede said, "The two of us felt very similar. Jagin... he has his own interpretation. As for Sulenna, I think something about her casting process was off, so let's not use her as a reference. First off — do you think this is a shadow magic spell?"
+"More or less." Zardeth said, "The two of us felt very similar. Gakin... he has his own interpretation. As for Surena, I think something about her casting process was off, so let's not use her as a reference. First off — do you think this is a shadow magic spell?"
 
-"Of course it is." Jace had been about to say it was because this was a demonic incantation, but it occurred to him all at once that he probably shouldn't let these people know he had a channel for learning the demonic tongue.
+"Of course it is." Jace had been about to say it was because this was a Demonic incantation, but it occurred to him all at once that he probably shouldn't let these people know he had a channel for learning the Demonic tongue.
 
-Even now, he didn't trust any of these people — not Galders, not Jagin, not Erland or Sulenna or anyone of that sort.
+Even now, he didn't trust any of these people — not Zardeth, not Gakin, not Erlan or Surena or anyone of that sort.
 
-If he had to call anyone a friend, it was probably only Ersula — the only warlock who showed little interest in learning magic...
+If he had to call anyone a friend, it was probably only Ursula — the only warlock who showed little interest in learning magic...
 
-"Let me put it this way," Galders said. "Do you think this is a straightforward offensive spell, or something that channels shadow energy to influence others, something like Fear..."
+"Let me put it this way," Zardeth said. "Do you think this is a straightforward offensive spell, or something that channels shadow energy to influence others, something like Fear..."
 
-"You want the honest truth, Galders?" Jace asked.
+"You want the honest truth, Zardeth?" Jace asked.
 
 "Of course."
 
 "I think this is a summoning spell," Jace said. "When I was casting, I felt something similar to the sensation of connecting with another world that I get when summoning an imp — just not very strongly."
 
-Galders smiled. "That's what I think too. Jagin keeps insisting it's some kind of direct-damage spell, but if that were the case it'd be way too long for what it does."
+Zardeth smiled. "That's what I think too. Gakin keeps insisting it's some kind of direct-damage spell, but if that were the case it'd be way too long for what it does."
 
-"I'm sorry, Galders." Jace looked at the paper. "As to what exactly this spell is, I'm genuinely no help."
+"I'm sorry, Zardeth." Jace looked at the paper. "As to what exactly this spell is, I'm genuinely no help."
 
-Galders handed Jace a copy. "Take this back and study it carefully what it is... If you hit a wall, we'll share notes. Jagin and I have been puzzling over this thing this whole time, and he's itching for a breakthrough."
+Zardeth handed Jace a copy. "Take this back and study it carefully... If you hit a wall, we'll share notes. Gakin and I have been puzzling over this thing this whole time, and he's itching for a breakthrough."
 
-"All right, I've got it." Jace put the copy in his bag and returned to the hall. Erland had left at some point. Sulenna was leaning against the wall and asked offhandedly, "How'd it go? That was fast."
+"All right, I've got it." Jace put the copy in his bag and returned to the hall. Erlan had left at some point. Surena was leaning against the wall and asked offhandedly, "How'd it go? That was fast."
 
 "Nothing came of it."
 
-"Not much of anything, are you, little imp." Sulenna sounded drunk, though her dark skin made it impossible to tell if she was flushed.
+"Not much use, are you, kid." Surena sounded drunk, though her dark skin made it impossible to tell if she was flushed.
 
 She stared at Jace, holding her ale. "Come have a drink?"
 
@@ -48,9 +48,9 @@ She stared at Jace, holding her ale. "Come have a drink?"
 
 "What the hell is your problem, walking around looking like the world wronged you every single day? How many troubles could there possibly be? Jace, sometimes I really can't figure you out... Find ways to make yourself a little happier, a little more cheerful."
 
-Hearing that, Jace looked at her again, walked over, picked up the half-full mug, clinked it against Sulenna's, and drained it in one gulp.
+Hearing that, Jace looked at her again, walked over, picked up the half-full mug, clinked it against Surena's, and drained it in one gulp.
 
-"Another?" Sulenna asked with a smile.
+"Another?" Surena asked with a smile.
 
 "No more." Jace licked the ale foam from the corner of his lips. "I need to head home and sleep. Thanks for saying all that."
 
@@ -104,23 +104,6 @@ Jace stared expressionlessly as the imp cackled itself into a frenzy, slapping i
 
 "Let me spell these words out first."
 
-With the imp's help, Jace refined the incantation back into the demonic tongue: "Yinhajiete, Tuliiaokexienuoni, Tayatansayidini, Binoduoxisi."
+With the imp's help, Jace refined the incantation back into the Demonic tongue: "Inhajet, Tulioxenoni, Tayatansayidini, Binodoxis."
 
 All that was left now was an animal sacrifice. A cow would be hard to manage, but a lamb should do.
-
-## Flags
-
-- **有活力的灵魂** → "A Lively Soul": chapter title. The imp's translation of 活动的灵魂 ("a lively/active soul"), the sacrifice required for the demonic summoning incantation. Flag if a more precise title is preferred.
-- **加尔德斯** → "Galders": warlock "Blackclaw," in glossary.
-- **加金** → "Jagin": warlock, in glossary.
-- **苏伦娜** → "Sulenna": warlock, in glossary.
-- **埃尔兰** → "Erland": warlock, in glossary.
-- **撒厄诺** → "Sazeno": Jace's imp minion, in glossary.
-- **无边之界** → "the Boundless Realm": not in glossary; a demonic realm mentioned in the imp's note. Tentative rendering. Flag for review.
-- **扭曲虚空** → "Twisting Nether": canonical demonic dimension, in glossary.
-- **活动的灵魂** → "a lively soul": the imp's translation of the sacrifice required; rendered as "A Lively Soul" for the chapter title and "a lively soul" in dialogue.
-- **恶魔语音译咒语** → the refined demonic incantation "因哈杰特，图利奥克瑟诺尼，塔亚坦萨衣迪尼，比诺督西斯" rendered as "Yinhajiete, Tuliiaokexienuoni, Tayatansayidini, Binoduoxisi" — phonetic transliteration of the Chinese phonetic rendering of demonic. No canonical Warcraft source identified; flag if a canonical demonic incantation exists.
-- **"一万年前燃烧军团的伟主想要亲自降临艾泽拉斯"** → the imp's joke about Sargeras (the "great master of the Burning Legion") being caught in the closing portal when the Well of Eternity exploded — a canonical Warcraft lore reference (the War of the Ancients). Sargeras not in glossary.
-- **虚空行者** → "voidwalker": canonical warlock demon, referenced in Jace's speculation.
-- **小鬼** → "imp": Jace compares the summoning sensation to summoning Sazeno; imp is canonical, not in glossary.
-- **"你被骗啦"** → "you've been tricked": the imp's gleeful reveal that the "incantation" is actually a demon's note to its master, with only the middle section being a real spell.

@@ -1,14 +1,16 @@
 ## Chapter 1070: Battle for the Elements
 
-Whether or not anyone in the group understood the troll tongue, the dread troll Atal'alarion had uttered the name "Jammal'an" before dying — which meant the high priest was likely right ahead.
+Whether or not anyone in the group understood the troll tongue, the dire troll Atal'alarion had uttered the name "Jammal'an" before dying — which meant the high priest was likely right ahead.
 
-After passing Atal'alarion's corpse, which nearly clogged the corridor, Jace followed Vereesa and the others at a quick pace down the pitch-black passage. The water here was still waist-deep, and every step was a miserable slog. Jace stared into the depths of the corridor ahead, feeling that if their group slowed even slightly, the other side might slip away.
+After passing Atal'alarion's corpse, which nearly clogged the corridor, Jace followed Vereesa and the others at a quick pace down the pitch-black passage. The water here was still waist-deep, and every step was a miserable slog. Jace stared into the depths of the corridor ahead, feeling that if their group slowed even slightly, their quarry might slip away.
 
-At the corridor's end stood an iron-barred gate, like the entrance to some kind of prison. Grede didn't give it much thought — he hadn't yet shrunk back to his normal dwarven size, so he simply threw himself at the bars, forced open a gaping hole, and squeezed through. Vereesa and Sora followed. Jace and Morophil came in after.
+At the corridor's end stood an iron-barred gate, like the entrance to some kind of prison. Grede didn't give it much thought — he hadn't yet shrunk back to his normal dwarven size, so he simply threw himself at the bars, forced open a gaping hole, and squeezed through. Vereesa and Sola followed. Jace and Morophil came in after.
 
 Beyond was an even narrower tunnel — but after climbing a flight of steps, they finally emerged from the pool tainted by Hakkar's blood.
 
-That was when Jace thought he heard the footsteps of trolls up ahead, punctured by bursts of dry laughter. "Who sent you?"
+That was when Jace thought he heard the footsteps of trolls up ahead, punctuated by bursts of dry laughter.
+
+"Who sent you?"
 
 "Jin'do? Or Zul'jin? What did they promise… gold, treasure, or great power? I can give you more! The blessings the Soulflayer can bestow are far greater than you imagine!"
 
@@ -18,13 +20,15 @@ This voice was different from the roars they'd heard upon first entering the tem
 
 "Just wait for death, Atal'ai!" Vereesa shouted from the front. Grede was running even faster than her, already nearly at the corridor's end, swallowed by shadow.
 
-"Don't listen to his seductions. He has nothing left." Eranikus's weak reply came from behind Sora. "Rest easy — you have no idea who I've turned down," Jace said.
+"Don't listen to his temptations. He has nothing left." Eranikus's weak reply came from behind Sola.
+
+"Rest easy — you have no idea who I've turned down," Jace said.
 
 "Then… then…"
 
-The distant corridor carried back hollow, indistinct threats, as though he were running farther and farther away. "Don't let him slip off!"
+The distant corridor carried back hollow, indistinct threats, as though he were running farther and farther away.
 
-The dwarf shouted — and suddenly tripped over something, his whole body crashing to the ground with a boom. The walls and floor of the corridor shuddered with the impact.
+"Don't let him slip off!" the dwarf shouted — and suddenly tripped over something, his whole body crashing to the ground with a boom. The walls and floor of the corridor shuddered with the impact.
 
 The corridor was too dark, and Grede was too far ahead for Jace to make out what had happened.
 
@@ -32,9 +36,9 @@ The corridor rang with Jammal'an's laughter. Before Jace could even call out to 
 
 This wasn't Shadow, and it wasn't Hakkar's dark magic. He was still trying to identify the threat when the stone bricks beneath his feet suddenly split open, and his leg plunged through before he could react.
 
-He wasn't the only one — Sora had also sunk into the churning bricks, and Vereesa up ahead had slipped into a fissure in the wall. "Earthbind Stone Totem!"
+He wasn't the only one — Sola had also sunk into the churning bricks, and Vereesa up ahead had slipped into a fissure in the wall.
 
-Vereesa shouted and pointed at a giant serpent statue. Only then did Jace notice the statue's eyes glowing.
+"Earthbind Totem!" Vereesa shouted and pointed at a giant serpent statue. Only then did Jace notice the statue's eyes glowing.
 
 The ranger struggled to steady herself amid the churning stones, drew her bow, and loosed her last arrow at the statue. The shaft, wreathed in flame, struck the statue in a violent blast — but only blasted a web of cracks across its surface, failing to shatter the trap's magic.
 
@@ -46,7 +50,7 @@ These stones didn't simply split open and swallow you — they kept shifting and
 
 This was clearly a corridor of traps painstakingly designed by the Atal'ai. Brute force wouldn't break it. Jace struggled for a moment, then forced himself to calm down, even though one leg was being crushed so badly it ached.
 
-Besides Grede, the strongest in the party was Sora in her dragon form — but this tunnel was barely wide enough for three or four people abreast. There was no room for Sora to revert to her true form, let alone use her strength to smash that totem.
+Besides Grede, the strongest in the party was Sola in her dragon form — but this tunnel was barely wide enough for three or four people abreast. There was no room for Sola to revert to her true form, let alone use her strength to smash that totem.
 
 Jace simply chanted in the tongue of the elements, calling fire to gather in his palm. Though this was a damp, flooded underground hall, it didn't mean the fire elements were entirely extinguished.
 
@@ -64,15 +68,15 @@ But the giant serpent statue didn't hesitate to billow another ball of flame fro
 
 But the statue didn't lose its "divine power." It still commanded the fire elements in the air, constantly siphoning strength from Jace, who was trying to gather flames. Seemingly unable to form a fireball without its "mouth," it instead spewed fire at the others in the corridor.
 
-Jace felt he had neither the time nor the energy to "contest" control of the fire elements with this statue. Sora was already trying to manipulate plants to wrap around the Earthbind totem — cracks had begun to appear on its surface. That could work.
+Jace felt he had neither the time nor the energy to "contest" control of the fire elements with this statue. Sola was already trying to manipulate plants to wrap around the Earthbind totem — cracks had begun to appear on its surface. That could work.
 
-But if the other statue kept spewing fire, the scorched plants would never succeed, until Sora and the mana from the essence gem she carried from Eranikus were both drained dry.
+But if the other statue kept spewing fire, the scorched plants would never succeed, until Sola and the mana from the essence gem she carried from Eranikus were both drained dry.
 
 Yet every time Jace redirected the flames it spewed, he could feel the mana-overdraft dizziness hit the back of his skull like a hammer. A few more of these and he'd collapse on the spot.
 
 "Corrupt that statue, master."
 
-Jace turned his voice. Morophil behind him was now only half above the surface herself — invisibility hadn't saved her from the Earthbind's power.
+Jace turned toward the voice. Morophil behind him was now only half above the surface herself — invisibility hadn't saved her from the Earthbind's power.
 
 But she was right. Once Shadow ignited the fire elements, no elemental tongue could communicate with them anymore — he'd either have to wrestle them with Shadow force or watch them burn everything in sight.
 
@@ -88,15 +92,15 @@ Jace and Vereesa broke free of the Earthbind and ran to the front, hauling Grede
 
 By now his enlargement had faded. He looked utterly spent — a full day of tension and nonstop battle, and Grede really hadn't slept in far too long.
 
-But wherever that witch-doctor was hiding, he couldn't be faring any better than they were.
+But wherever that witch doctor was hiding, he couldn't be faring any better than they were.
 
-Not long ago he'd summoned the Blood God's avatar — who knew how much flesh and blood he'd sacrificed, how much mana he'd burned? If they didn't wipe out this temple's last ruler in one breath now, there'd be no telling how many more nights they'd spend sleeping poorly.
+Not long ago he'd summoned the blood god's avatar — who knew how much flesh and blood he'd sacrificed, how much mana he'd burned? If they didn't finish off this temple's last ruler in one go now, there'd be no telling how many more nights they'd spend sleeping poorly.
 
 After the rumble of fire and earth subsided, the area finally quieted for a moment — but Jammal'an's voice was no longer audible. In its place came the growing din of footsteps, the clatter and scrape of something being dragged, and howls of frenzy.
 
 "How can there still be a troll army?" Vereesa frowned. "Hakkar's avatar has been smashed — and this many Atal'ai are still willing to defend him to the death?!"
 
-"No." Sora said in a low voice. "I can feel it. These are the undead…"
+"No." Sola said in a low voice. "I can feel it. These are the undead…"
 
 Before she'd finished, Jace saw, in the shadows ahead, a pale, shifting mass — a swarm of walking skeletons of every shape and size. Troll-built, but also elven, human, even dwarven in frame.
 
@@ -104,7 +108,7 @@ They clutched all manner of rusted swords and troll weapons, surging forward in 
 
 The shattered stone statue beside them still flickered with intermittent light in its serpent eyes. If they hadn't taken down the Fire and Earthbind totems in time, they would have stood here and let these skeletons butcher them.
 
-"Don't waste your mana, Jace." Vereesa raised her blades, coated in holy wizard oil and gleaming with golden light. "This isn't my first time in a situation like this. Follow me, Grede, Morophil! We'll cut straight through this corridor — let's see where that Hakkar priest can run to!"
+"Don't waste your mana, Jace." Vereesa raised her blades, coated in Blessed Wizard Oil and gleaming with golden light. "This isn't my first time in a situation like this. Follow me, Grede, Morophil! We'll cut straight through this corridor — let's see where that Hakkar priest can run to!"
 
 She shoved half a vial of wizard oil to Grede, then offered one to Morophil as well. The succubus's eyes, burning with baleful life-fire, simply gave her a look of resignation — and only then did Vereesa realize the gesture was a bit odd for a demon.
 
@@ -120,8 +124,8 @@ Grede leaped into the distant throng, sending shattered bones and severed limbs 
 
 Against the three of them, those frail skeleton warriors looked like the temple's final, feeble struggle.
 
-Sora didn't even bother rushing up front to join the fight. She guided the vines that had strangled the statue further into the center of the corridor. At her command, the plants effortlessly sealed the narrow passage entirely, blocking the tide of skeletons pursuing from behind.
+Sola didn't even bother rushing up front to join the fight. She guided the vines that had strangled the statue further into the center of the corridor. At her command, the plants effortlessly sealed the narrow passage entirely, blocking the tide of skeletons pursuing from behind.
 
 As the layers of vines wove thicker and thicker, the undead howls grew thinner and thinner.
 
-By the time Sora and Jace caught up to the front, the ground was already littered with severed limbs and shattered skulls. The three of them had fought their way deep into the tunnel.
+By the time Sola and Jace caught up to the front, the ground was already littered with severed limbs and shattered skulls. The three of them had fought their way deep into the tunnel.

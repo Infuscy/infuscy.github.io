@@ -56,7 +56,7 @@ But Jace's thoughts had only just drifted when he noticed, to his alarm, that th
 
 Grede's expression shifted too. He glanced at Jace and hardly dared to make a sound.
 
-It seemed this group didn't want to cut through the forest either — they were trying to find the River Neltharion's channel and follow it along, which was why they kept heading in this direction.
+It seemed this group didn't want to cut through the forest either — they were trying to find the Nazferiti River's channel and follow it along, which was why they kept heading in this direction.
 
 Jace slowly shifted his footing to the side, waving for Grede to follow. The two of them tried to circle around the big tree to avoid the group's line of sight, but whether it was the carpet of dead leaves that gave away their footsteps, or the men had sensed something off—
 
@@ -88,7 +88,7 @@ Jace obeyed immediately, throwing his staff down and raising his hands high.
 
 "Take that hammer off and throw it aside too, dwarf." A bald man held a sword to the dwarf's nose.
 
-The moment the man did that, Jace knew this wasn't going to end peacefully. He was going to die — no question. He didn't even need to look at Grede's face to know.
+The moment the man did that, Jace knew this wasn't going to end peacefully. The bald man was going to die — no question. He didn't even need to look at Grede's face to know.
 
 "You don't know what this hammer means to me, young man," Grede stared at him. "It's no less important to me than your own father is to you."
 
@@ -98,7 +98,7 @@ Jace looked at the bald man. "No need to push this to the extreme, sir."
 
 The bald man glanced back at the others and laughed.
 
-The other soldiers nearby chuckled. The crossbowman not far off let out a cold laugh too.
+The other mercenaries nearby chuckled. The crossbowman not far off let out a cold laugh too.
 
 "Fine, I'll unchain it." Grede unslung his war hammer. The bald man nodded. "That's more like it… that way we can make it quick for you."
 
@@ -112,7 +112,7 @@ Someone shouted. Jace lowered his outstretched right hand, and the staff on the 
 
 Jace raised the staff high and shouted the incantation for Fear. A strange, piercing sound rose and fell with his chanting. The bald man in front of him screamed, "Dark magic!"
 
-The soldier nearest to him covered his eyes. The bald man's nostrils flared as if struck by some horrifying sight, his legs trembling. The men further away began to sob and wail…
+The mercenary nearest to him covered his eyes. The bald man's nostrils flared as if struck by some horrifying sight, his legs trembling. The men further away began to sob and wail…
 
 Wails, screams — all of it was finally obliterated by a sudden flash of lightning…
 
@@ -125,14 +125,3 @@ Jace stood in place, but his legs felt weak.
 What the…
 
 He looked down and saw a crossbow bolt lodged in his lower abdomen, driven deep, with only half of it sticking out.
-
-## Flags
-
-- **Title**: 我们都是雇佣兵 — "We're All Mercenaries" — the bald mercenary's sneer makes it clear: out here, the line between hunter and hunted is razor-thin.
-- **Vereesa** (温蕾萨): Grede suggests calling for Vereesa Windrunner; Jace dismisses it — she's not on vacation, and another party member means splitting the reward.
-- **Gilded Rose** (镶金玫瑰): Jace recalls Vereesa's behavior at the inn, suspecting she may have deliberately come without money as a self-imposed trial.
-- **Shadow Protection Potion** (暗影防护药水): glossary term; Grede drinks it just before the ambush.
-- **Chuck** (查克): the jumpy mercenary who thinks he hears something.
-- **Fear** (恐惧术): Jace's first combat use of the warlock Fear spell — the incantation is implied rather than spelled out here, but the effect is devastating.
-- **The crossbowman-mage**: the cloaked figure carrying the light crossbow is implied to be a spellcaster (the imp sensed one approaching) — and he's the one who puts the bolt in Jace's gut.
-- **Grede's lightning hammer**: the dwarf's thunder-charged war hammer is the decisive first strike.

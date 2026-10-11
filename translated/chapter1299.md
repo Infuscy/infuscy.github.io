@@ -6,15 +6,15 @@ The leaders inside the hall had mostly realized the black dragon was genuinely h
 
 Judging the black dragons here by Azeroth's black dragons would be unfair. And judging Gorlorio by the nearly-extinct black dragons Jace knew from a decade plus later wouldn't be accurate either.
 
-Right now, their tracks and nests spanned all of Draenor. They were fighting the Burning Legion and the Gronn King simultaneously, keeping the orcs of Auchindoun and Shadowmoon Valley from making any rash moves. They'd even been willing to assault the Dragonmaw headquarters — just south of Karabor's temple — head-on to rescue their leader and recover their eggs. This was a scale and strength that the surviving black dragons of Blade's Edge Mountains in later years could never match.
+Right now, their tracks and nests spanned all of Draenor. They were fighting the Burning Legion and the Gronn King simultaneously, keeping the orcs of Auchindoun and Shadowmoon Valley from making any rash moves. They'd even been willing to assault the Dragonmaw headquarters — just south of Karabor's temple — head-on to rescue their leader and recover their eggs. This was a scale and strength that the surviving black dragons of the Blade's Edge Mountains in later years could never match.
 
 The black dragons hadn't been in Draenor that long. They'd escaped the mental enslavement of the Old Gods, broken free of Deathwing's tyrannical rule, but still carried that same arrogant dismissiveness.
 
 If they felt they were being used, they wouldn't take kindly to being led around by the nose. At the very least, they'd want to make sure the other side understood who was asking whom for help.
 
-Gorlorio glanced at Jace, then looked at Turalyon. "Thanks to our great and noble Dragon Father, Zuluhed and his loyal dogs have mastered many techniques and spells specifically designed to counter dragons. Their fortress is harder for us to breach than many of the Burning Legion's demon foundries."
+Gorlorio glanced at Jace, then looked at Turalyon. "Thanks to our great and noble Dragonfather, Zuluhed and his loyal dogs have mastered many techniques and spells specifically designed to counter dragons. Their fortress is harder for us to breach than many of the Burning Legion's forge camps."
 
-"The walls of Dragonmaw Fortress were reinforced with fel energy by Gul'dan's demons. Hundreds of elite Dragonmaw sharpshooters hold the walls against us. Some of those sharpshooters ride two-headed Gorgrond flyers and engage us from the sky, covered by enchanted arrows from the walls. But compared to the no less than twenty red dragon riders, those flyers are the least of our worries..."
+"The walls of Dragonmaw Fortress were reinforced with fel energy by Gul'dan's demons. Hundreds of elite Dragonmaw sharpshooters hold the walls against us. Some of those sharpshooters ride rylaks — the two-headed flyers of Gorgrond — and engage us from the sky, covered by enchanted arrows from the walls. But compared to the no less than twenty red dragon riders, those flyers are the least of our worries..."
 
 "Red dragon riders?" Grede asked. "There are still red dragons serving the Dragonmaw?"
 
@@ -46,21 +46,21 @@ Gorlorio's eyes slowly widened. His slightly dark lips moved, but in the end, al
 
 "He's telling the truth," Vereesa said. "I was right next to him at the time."
 
-She placed the earring Sora had just returned to her on the table. "Take a good look at this earring. It was a gift from Queen Ysera to Queen Alexstrasza, long ago."
+She placed the earring Sola had just returned to her on the table. "Take a good look at this earring. It was a gift from Queen Ysera to Queen Alexstrasza, long ago."
 
 Gorlorio glanced at the earring, frowned hard — as if he didn't want to think about how the red dragons' gifts had ended up here.
 
 "It certainly appears genuine. Let's hope those idiots catch on as quickly as you say."
 
-"Then there are the demons at Karabor." The black dragon continued. "Though Dragonmaw Fortress has some demon defenders, what we really need to worry about is reinforcements from the Dark Temple to the north. Dragonmaw Fortress is too close to Magtheridon's stronghold. We have to finish the fight before the demons arrive, or we'll be in a slog. The last operation failed because we couldn't kill that coward Zuluhed before the Doomguard legions arrived..."
+"Then there are the demons at Karabor." The black dragon continued. "Though Dragonmaw Fortress has some demon defenders, what we really need to worry about is reinforcements from the Black Temple to the north. Dragonmaw Fortress is too close to Magtheridon's stronghold. We have to finish the fight before the demons arrive, or we'll be in a slog. The last operation failed because we couldn't kill that coward Zuluhed before the doomguard legions arrived..."
 
-"This is where your lady with the power of the Book of Demon Names should step up," Turalyon said to Jace.
+"This is where your lady with the power of the Book of Fel Names should step up," Turalyon said to Jace.
 
-"Maybe she should stay here to defend against demon attacks, Marshal," Jace said. "I can handle demons too."
+"Maybe she should stay here to defend against demon attacks, General," Jace said. "I can handle demons too."
 
 "This is a quick strike mission. In and out fast. We need to put our best tools where they matter most." Turalyon said. "Drag it out too long, and leaving this place vulnerable to a Burning Legion sneak attack means the mission has already gone off course."
 
-"Hold on." Gorlorio looked at the group. "What are you talking about? The Book of Demon Names — that demon registry?"
+"Hold on." Gorlorio looked at the group. "What are you talking about? The Book of Fel Names — that demon registry?"
 
 "Yes, the Burning Legion tome that records the weaknesses of many demons." Turalyon said. "We have it now."
 
@@ -82,7 +82,7 @@ Even in the current, harsher situation, the black dragons were worse off than th
 
 Even this Gorlorio standing before him would fall not long from now, somewhere near Auchindoun, transformed into the bone dragon Teribus by the dark power there — doomed to drift aimlessly. The other black dragons who stayed in Terokkar would become bleached bones on the wasteland. Hard to say whether it was his personality that sealed that fate.
 
-"I've been thinking, Gorlorio," Sora said. "Before the attack, could we disguise ourselves as orcs and infiltrate the castle, then strike from within? That way we'd gain the initiative."
+"I've been thinking, Gorlorio," Sola said. "Before the attack, could we disguise ourselves as orcs and infiltrate the castle, then strike from within? That way we'd gain the initiative."
 
 "That green one's gotten addicted to turning into orcs, Jace." Grede sidled up and whispered. "You're to blame for that, aren't you?"
 
@@ -92,21 +92,21 @@ Even this Gorlorio standing before him would fall not long from now, somewhere n
 
 "Blackwing drakonid?" Jace asked. "Shouldn't they listen to you more than the Dragonmaw?"
 
-A surge of anger flashed through Gorlorio. He stared at Jace. "Then you'd better ask our great Dragon Father himself why those drakonid listen to Zuluhed instead of us. There aren't many options besides a full-frontal assault."
+A surge of anger flashed through Gorlorio. He stared at Jace. "Then you'd better ask our great Dragonfather himself why those drakonid listen to Zuluhed instead of us. There aren't many options besides a full-frontal assault."
 
 Jace nodded. That simplified things. Less to worry about.
 
-The black dragon looked at Sora again. "Besides, of the Blackwing available to attack the orc fortress, only I and one sister have mastered shapeshifting magic. And we have to lead the assault. The rest are too young, or haven't had time to learn. Just because you can do it doesn't mean every whelp can, Somalyr."
+The black dragon looked at Sola again. "Besides, of the Blackwing available to attack the orc fortress, only I and one sister have mastered shapeshifting magic. And we have to lead the assault. The rest are too young, or haven't had time to learn. Just because you can do it doesn't mean every whelp can, Somaelir."
 
 "Full-frontal doesn't mean no tricks, black dragon," Kurdran said. "You said the Dragonmaw are especially good at fighting you, right?"
 
-"Compared to other orcs, Wildhammer King," Gorlorio emphasized.
+"Compared to other orcs, High Thane," Gorlorio emphasized.
 
 "I know, I know." Kurdran said. "So if the other clans noticed your movements, would they call the Dragonmaw for help? Send their flyers to deal with you?"
 
 "Very likely," the black dragon said.
 
-"Then there we go." Kurdran gestured at the map of Shadowmoon Valley. "The fel orcs are rotating with the demons now, moving supplies from Karabor toward Ambrosial. You can send a squad of young, weaker flyers to feign an attack on their supply convoy — distract the Dragonmaw forces. Meanwhile, we hit the front with everything we've got! With the flying Doomguard afraid to act because the book was stolen, I think this plan is completely workable!"
+"Then there we go." Kurdran gestured at the map of Shadowmoon Valley. "The fel orcs are rotating with the demons now, moving supplies from Karabor toward Embaari. You can send a squad of young, weaker flyers to feign an attack on their supply convoy — distract the Dragonmaw forces. Meanwhile, we hit the front with everything we've got! With the flying doomguard afraid to act because the book was stolen, I think this plan is completely workable!"
 
 "Then, to fill the gap on the front lines, I'll lead an elite squad of gryphon riders in the assault and fight the Dragonmaw riders in open battle!" Kurdran pulled his war hammer out from under the table and swung it at Turalyon. "You stay put this time!"
 

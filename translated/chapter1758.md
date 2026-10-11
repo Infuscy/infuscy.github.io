@@ -44,7 +44,7 @@ She finally let out a small breath when she saw him emerge, glancing between Jac
 
 "So did you get anywhere?" Grede couldn't wait. "Did that Yudi... whatever... put some dark curse on you?"
 
-"It's Illidan," Sora corrected from behind.
+"It's Illidan," Sola corrected from behind.
 
 "Whatever," Grede muttered.
 
@@ -52,11 +52,11 @@ She finally let out a small breath when she saw him emerge, glancing between Jac
 
 He glanced back at Maiev Shadowsong. "It won't work here."
 
-Vereesa, Sora, and Grede exchanged looks. They were probably thinking about the failed Kalelez communication ritual from before, and could guess what kind of method Jace meant by "won't work here."
+Vereesa, Sola, and Grede exchanged looks. They were probably thinking about the failed Kallrez communication ritual from before, and could guess what kind of method Jace meant by "won't work here."
 
 "It's not that I doubt Illidan Stormrage's skill at hunting demons," Vereesa said. "But how can we be sure his methods work on Nathrezim? We don't even know where any dreadlords are right now, or who they might be disguised as."
 
-"Don't worry about that," Jace said. "As long as we can get Khadgar's help, there's a Nathrezim named Kasanathir imprisoned in the Violet Hold. If the method works on him, we're golden."
+"Don't worry about that," Jace said. "As long as we can get Khadgar's help, there's a Nathrezim named Kathra'natir imprisoned in the Violet Hold. If the method works on him, we're golden."
 
 "That fake old man Khadgar sure drew the short straw knowing you, Jace Sesso," Grede said.
 
@@ -64,9 +64,9 @@ Vereesa, Sora, and Grede exchanged looks. They were probably thinking about the 
 
 And this is just the beginning, he thought. That mage has way worse times coming.
 
-"So should we leave as soon as possible and head back to the Eastern Kingdoms?" Sora said. "I'm ready whenever. After all this time at Mount Hyjal, it feels like all the weariness from the journey has melted away."
+"So should we leave as soon as possible and head back to the Eastern Kingdoms?" Sola said. "I'm ready whenever. After all this time at Mount Hyjal, it feels like all the weariness from the journey has melted away."
 
-"I can feel that Nordrassil likes you, Sora," Mossa said.
+"I can feel that Nordrassil likes you, Sola," Mosa said.
 
 "Why don't I feel anything?" Needleflame squeezed in to ask. "Doesn't this big tree want to bless me?"
 
@@ -76,7 +76,7 @@ One sentence from the High Priestess and the little black dragon could barely ho
 
 "Really? But that's ten thousand years," Needleflame said. "Ten thousand years... and it never met a black dragon like me?"
 
-Tyrande let out a soft breath. "Ten thousand years pass very quickly, young Princess Fidegonys. You'll understand someday."
+Tyrande let out a soft breath. "Ten thousand years pass very quickly, young Princess Phydygonia. You'll understand someday."
 
 The black dragon nodded, half-understanding. She might have learned a lot from Sabellian and Jace's crew, but some things about age and time — those you had to experience for yourself.
 
@@ -86,15 +86,15 @@ The black dragon nodded, half-understanding. She might have learned a lot from S
 
 "We've been away from the other continent for some time now, High Priestess," Vereesa said. "The demons could act at any moment during that time, and our people over there don't know the new intelligence we've gathered here. So to minimize the danger, every day we save matters."
 
-Tyrande nodded. Grede patted Mossa Mu-ji's robe and said, "Thanks for the hospitality, High Priestess Tyrande. I never thought there'd be elves this friendly to my kind in this world. If I get the chance, I'll visit often — especially while Mossa's here studying."
+Tyrande nodded. Grede patted Mosa Woodmane's robe and said, "Thanks for the hospitality, High Priestess Tyrande. I never thought there'd be elves this friendly to my kind in this world. If I get the chance, I'll visit often — especially while Mosa's here studying."
 
-"Don't expect me to give you rides then," Sora muttered.
+"Don't expect me to give you rides then," Sola muttered.
 
 "I'll have Gorjet then. Who do you think gets to carry the Mountain King on his mountain patrols?" Grede shot back.
 
-"Then you'd better not taint your grand title by riding me on the way back, Mountain King," Sora said.
+"Then you'd better not taint your grand title by riding me on the way back, Mountain King," Sola said.
 
-Grede immediately changed his tune with a placating grin. "Hey now, come on — the way back's all ocean. I'm not the Ocean King, am I, Lady Somelier?"
+Grede immediately changed his tune with a placating grin. "Hey now, come on — the way back's all ocean. I'm not the Ocean King, am I, Lady Somaelir?"
 
 "Illidan was a proud, arrogant mage," Tyrande said quietly, looking at Jace. "Since I've known him, I've hardly ever seen him genuinely admire anyone — except his brother. I know he has plenty of complaints about Malfurion, but deep down, I know he loves his twin."
 
@@ -105,5 +105,3 @@ Grede immediately changed his tune with a placating grin. "Hey now, come on — 
 "You don't know him well enough. He would never think that," Tyrande said with a smile.
 
 (End of Volume)
-
-Volume 19

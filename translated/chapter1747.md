@@ -6,7 +6,7 @@ From the unseen depths came what sounded like a clear, melodious female voice hu
 
 The group rode massive nightsabers, following the sentinel riders northwest along the main road.
 
-The ancient trees lining the path seemed to bow their branches slightly as Sora passed by, as if pressed down by the wind. But seeing Sora occasionally look up and smile in return made it feel as though the old trees really were responding somehow. Hard for an outsider like Jace to say for sure.
+The ancient trees lining the path seemed to bow their branches slightly as Sola passed by, as if pressed down by the wind. But seeing Sola occasionally look up and smile in return made it feel as though the old trees really were responding somehow. Hard for an outsider like Jace to say for sure.
 
 Vines wrapped around lampposts glowing with starlight-like energy. Egg-white giant owls perched in high branches gazed down at the travelers. Spotted deer peeked out from the thickets. The whole forest felt like a living, breathing beast, curiously examining these foreign "invaders."
 
@@ -16,23 +16,23 @@ Now on the road, every sudden movement from the surroundings made her whip her h
 
 The sentinels they passed might not have seen through her human disguise, but her jumpy behavior made them alert too. They kept asking the leading sentinel riders who these people were, and every time they got the answer, their faces showed surprise -- or outright shock -- as they glanced back at the group.
 
-Especially the war ancients -- the massive walking trees patrolling the forest paths, just like the one roaming the gates of Eldre'Thalas. Those Ashenvale guardians made the little black dragon especially wary.
+Especially the Ancients of War -- the massive walking trees patrolling the forest paths, just like the one roaming the gates of Eldre'Thalas. Those Ashenvale guardians made the little black dragon especially wary.
 
 And in turn, those ancient trees seemed to sense something off about her too. Whenever they passed one, it would lower its amber, nature-energized magical eyes to study her.
 
-Even Jace Sesso, carrying Ursales, didn't get this level of attention. Though that wasn't surprising. Ursales had been on Azeroth for a thousand years without the night elves noticing, so it must have some property that kept it hidden. Without someone carrying it, it wouldn't even move.
+Even Jace Sesso, carrying Ulthalesh, didn't get this level of attention. Though that wasn't surprising. Ulthalesh had been on Azeroth for a thousand years without the night elves noticing, so it must have some property that kept it hidden. Without someone carrying it, it wouldn't even move.
 
 Anyway, Needleflame definitely didn't like this forest full of strange energy. And this forest definitely didn't like her. So the two vastly different entities kept up their tense standoff.
 
 Jace was happy to let her focus her attention elsewhere. At least it helped her forget about that "mount" comment from earlier.
 
-Jace was wearing the Hide of Orathastaz, so he wasn't too worried about being thrown off the black dragon and injured. But coming all this way to visit Astranaar only to end up in an undignified mess would've been pretty embarrassing.
+Jace was wearing the Hide of Olastrasz, so he wasn't too worried about being thrown off the black dragon and injured. But coming all this way to visit Astranaar only to end up in an undignified mess would've been pretty embarrassing.
 
 Fortunately, after watching the black dragon throw such a fit over the mount comment, the night elves actually warmed up to her a bit. These ancient forest dwellers were wary of Blackwing dragons, but they had plenty of patience for children.
 
 Jace hadn't wanted to land and switch to riding. It would waste almost another day getting to Astranaar.
 
-If he hadn't already arranged with Lord Kalrez to contact Khadgar, he might have insisted that Sora and Needleflame fly over the entire forest to save time. Even if it might have seemed disrespectful.
+If he hadn't already arranged with Lord Kallrez to contact Khadgar, he might have insisted that Sola and Needleflame fly over the entire forest to save time. Even if it might have seemed disrespectful.
 
 But this was fine too. Immersed in the peaceful depths of Ashenvale, he could relax. His mind had been unsettled from the shadow energy -- surging and powerful -- that he was still learning to balance after the demon ritual.
 
@@ -68,15 +68,15 @@ Not just Jace, but Vereesa and Needleflame had almost the same reaction -- struc
 
 It was far larger than in the game. Though nowhere near as vast or bustling as Stormwind, Jace estimated from a quick scan that at least several thousand residents lived here. Among the lights between the buildings, he could already see dozens or even hundreds of moving figures crossing back and forth. And that didn't count the ones they couldn't see -- those inside homes, or out on patrol or travel.
 
-"I knew you'd react this way." Grede looked smug. "Sorra, didn't I tell you? Even a noble like Windrunner looks like she's never seen the world when she comes here..."
+"I knew you'd react this way." Grede looked smug. "Sola, didn't I tell you? Even a noble like Vereesa looks like she's never seen the world when she comes here..."
 
 "I can be awed by anything beautiful," Vereesa said. "That has nothing to do with how much I've seen."
 
 "Does that beautiful anything include a demon worshipper?" Grede whispered.
 
-Vereesa rolled her eyes at him. Sora sighed. "You're hopeless, Thunderfist."
+Vereesa rolled her eyes at him. Sola sighed. "You're hopeless, Thunderfist."
 
-"Hey, everyone..." Mossa called out, pointing toward the front of the road.
+"Hey, everyone..." Mosa called out, pointing toward the front of the road.
 
 Everyone followed her gaze. At the bridge leading into Astranaar city, a full formation of nightsaber riders stood waiting. In front of them, riding an enormous white tiger, a woman in silver robes with long teal-green hair drew particular attention.
 

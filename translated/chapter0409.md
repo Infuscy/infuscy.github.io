@@ -2,11 +2,11 @@
 
 After saying goodbye to Ferby, Jace joined the party preparing to head to Nethergarde Keep.
 
-The group was being led by a band of Stromgarde cavalry in red who'd come from Nethergarde Keep. Those fellows rode horses a full head taller than Stormwind's cavalry — crimson cloaks, bright red armor, lances tipped with the Arathi fist banner, silver pointed helmets on their heads. They looked proud and imposing, like a flock of red whelps.
+The group was being led by a band of Stromgarde cavalry in red who'd come from Nethergarde Keep. Those fellows rode horses a full head taller than Stormwind's cavalry — crimson cloaks, bright red armor, lances tipped with the Arathi fist banner, silver pointed helmets on their heads. They looked proud and imposing, like a flight of red drakes.
 
 Even though Stormwind was far closer to here than the Kingdom of Stromgarde, it was clear the people of Arathi held considerable influence here at the moment — no doubt tied to the leadership of Danath Trollbane.
 
-Jace still felt a little regretful that he couldn't ride a griffin to Nethergarde Keep like the mages had on that first day. But back then the sky had been total chaos — riding a griffin would have been dangerous, to say nothing of traveling overland the whole way.
+Jace still felt a little regretful that he couldn't ride a gryphon to Nethergarde Keep like the mages had on that first day. But back then the sky had been total chaos — riding a gryphon would have been dangerous, to say nothing of traveling overland the whole way.
 
 Now that there was a cavalry escort, it meant the road from here to Nethergarde Keep had been reopened.
 
@@ -22,7 +22,7 @@ But here on the ground, the boundary between the two wasn't nearly so clear-cut.
 
 Jace could feel the fel energy growing thicker. Streams, bogs, and the like grew sparser. Dead trees multiplied around them. The climate gradually dried out, but the red wasteland didn't appear all at once.
 
-But just as Ferby had said, this place really did increasingly look like a dead land. The clouds overhead grew thicker and thicker. Green fel lightning foreboded ill. Even at three or four in the afternoon, it was as dark as nightfall was near.
+But just as Ferby had said, this place really did increasingly look like a dead land. The clouds overhead grew thicker and thicker. Green fel lightning foreboded ill. Even at three or four in the afternoon, it was as dark as if nightfall were near.
 
 Jace could sense the mages traveling with him growing more and more tense. After all, plenty of full mages who'd fought in the Orc Wars had never seen a scene like this.
 
@@ -32,7 +32,7 @@ As they marched along the road, they occasionally felt something in the woods al
 
 He tried casting Sense Demons to look around, but saw nothing at all.
 
-In a place like the Black Swamp, bandits and thieves were unlikely. Could some beast be sizing up a military party of over a hundred?
+In a place like the Black Morass, bandits and thieves were unlikely. Could some beast be sizing up a military party of over a hundred?
 
 If it were beasts, they'd have fled at the sound of the horses' hooves from a distance. Just then, he noticed a low shadow flitting through the trees — not human, and certainly not orcish. At a quick glance, it rather resembled the silhouette of a gnoll.
 
@@ -46,11 +46,11 @@ Listening to the cavalrymen's description, a possibility occurred to Jace.
 
 These low shadows might be the so-called Lost Ones.
 
-The refugees of Argus who lived on Draenor, the Eredar who called themselves "Draenei" — after suffering defeat after defeat in the war against the orcs, many captives endured long-term corruption by fel and shadow. Some of the survivors had become exactly this sort of malformed monstrosity, severely degraded in both intellect and power.
+The refugees of Argus who lived on Draenor, the eredar who called themselves "Draenei" — after suffering defeat after defeat in the war against the orcs, many captives endured long-term corruption by fel and shadow. Some of the survivors had become exactly this sort of malformed monstrosity, severely degraded in both intellect and power.
 
-The Eredar had all been tall and imposing, standing proud and formidable even among the Burning Legion's many demons. The Draenei who refused fel energy weren't much different.
+The eredar had all been tall and imposing, standing proud and formidable even among the Burning Legion's many demons. The draenei who refused fel energy weren't much different.
 
-He could hardly imagine what sort of inner transformation those Draenei must have endured to degenerate into creatures like this under torment.
+He could hardly imagine what sort of inner transformation those draenei must have endured to degenerate into creatures like this under torment.
 
 Under the gaze of this dark dead land, the party marched to a gloomy low-lying hollow. Jace could tell this had once been a small lake or pond of some sort — the whole depression reeked of an extremely foul stench.
 
@@ -84,6 +84,6 @@ The sentinels on the tower spotted the approaching party from afar and blew a fe
 
 Hanging on those walls were the violet banners of the Alliance and the Lordaeron banners representing the Alliance, fluttering slightly in the fel wind blowing from the Dark Portal.
 
-Jace could tell these walls were more in the Stormwind style. They were quite different from the walls of the Lordaeron capital, or the Arathi style, or even Durnholde Castle. Perhaps the Stonemasons had taken part in designing and building this castle.
+Jace could tell these walls were more in the Stormwind style. They were quite different from the walls of the Lordaeron capital, or the Arathi style, or even Durnholde Keep. Perhaps the Stonemasons had taken part in designing and building this castle.
 
 At any rate, Nethergarde Keep… this place he'd always wanted to see for himself was right there before his eyes.

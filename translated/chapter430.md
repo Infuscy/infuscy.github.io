@@ -66,7 +66,7 @@ After a while, he tried to sit up again, slowly. This time it went much more smo
 
 He was wearing a grey shirt and a pair of linen trousers. His previous mage robes, shirt, hat — all gone.
 
-Azure Song… my Azure Song.
+Azuresong… my Azuresong.
 
 Damn it. He got out of bed, but his legs nearly gave way and he almost collapsed. He caught himself on a nearby table and stood.
 
@@ -102,7 +102,7 @@ He wasn't surprised by the attitude of the mage outside.
 
 After what he'd done — in front of so many Alliance soldiers, with so many mages, paladins, priests, and rangers watching him casually hurl a shadow-star at someone…
 
-Thinking about it, he couldn't help but suck in a cold breath.
+Thinking about it, he couldn't help but suck in a sharp breath.
 
 He instinctively patted the pouch at his chest — and found his pocket watch gone.
 
@@ -122,11 +122,11 @@ Right now Jace's mind was a tangled mess — like a kid who'd just gotten into a
 
 Jace stared at the old mage for a long moment, then said after a beat: "I understand."
 
-"Jace Sesso is a hero of the Alliance. The savior of Nethergarde." Malin sat on a nearby chair. "In his final moment, he sacrificed himself, destroyed the demon lord Azgus, and shattered the demons' intent to push further north."
+"Jace Sesso is a hero of the Alliance. The savior of Nethergarde." Malin sat on a nearby chair. "In his final moment, he sacrificed himself, destroyed the demon lord Azgoth, and shattered the demons' intent to push further north."
 
 "The Dark Portal has been closed. The Sons of Lothar and the other soldiers of the expedition remained in the other world to protect all of Azeroth, sealing the window of demonic invasion forever."
 
-"Mr. Sesso, along with the countless defenders who gave their lives beneath the walls of Nethergarde to stop the demons from defiling this world… will be remembered forever by the entire Lordaeron Alliance."
+"Mr. Sesso, along with the countless defenders who gave their lives beneath the walls of Nethergarde to stop the demons from defiling this world… will be remembered forever by the entire Alliance of Lordaeron."
 
 After finishing, Malin took a deep breath.
 
@@ -140,7 +140,7 @@ After finishing, Malin took a deep breath.
 
 "A vial of water from the Sunwell, provided by General Sylvanas, couldn't fully heal your injuries. It took the help of many priests, plus naturalists from Quel'Thalas, before your condition was finally stabilized."
 
-"According to the Sunstrider royal house's consultant, the senior botanist Frewin, at that time you looked more like a demon corpse with its heart ripped out than an injured human."
+"According to the Sunstrider royal house's consultant, High Botanist Freywinn, at that time you looked more like a demon corpse with its heart ripped out than an injured human."
 
 "Why did they save me?" Jace asked.
 
@@ -151,20 +151,3 @@ After finishing, Malin took a deep breath.
 Jace looked at the scars on his hands and nodded, saying nothing.
 
 The old mage said: "Now — don't you think it's time you told me about those spells?"
-
-## Flags
-- 拯救者的故事 = "The Savior's Story" (the cover narrative constructed for Jace).
-- 马林 = Master Marin (Eden Marin).
-- 守望堡 = Nethergarde Keep.
-- 阿兹格斯 = Azgus.
-- 洛萨之子 = Sons of Lothar.
-- 太阳之井 = Sunwell.
-- 希尔瓦娜斯将军 = General Sylvanas.
-- 逐日者王室 = Sunstrider royal house.
-- 弗雷温 = Frewin (senior botanist; OC).
-- 肯瑞托 = Kirin Tor.
-- 碧空之歌 = Azure Song.
-- 厄苏拉 = Ursula.
-- 克尔苏加德 = Kel'Thuzad.
-- 兽人战争 = Orc Wars.
-- 洛丹伦联盟 = Lordaeron Alliance.

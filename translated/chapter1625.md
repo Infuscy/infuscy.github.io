@@ -1,10 +1,10 @@
 ## Chapter 1625: Step by Step
 
-An image of a Black Knight wielding a blood-red scythe — clearly aimed at him. Jace knew it. Ulthalesh... except for the previous night when Taelan Fordring's sudden arrival had left him no choice but to pull it out and show the scythe's true form, and Khadgar who'd seen it before, Jace couldn't think of anyone else who'd witnessed its appearance.
+An image of a Dark Rider wielding a blood-red scythe — clearly aimed at him. Jace knew it. Ulthalesh... except for the previous night when Taelan Fordring's sudden arrival had left him no choice but to pull it out and show the scythe's true form, and Khadgar who'd seen it before, Jace couldn't think of anyone else who'd witnessed its appearance.
 
 And the ones who knew about Ulthalesh now — aside from his companions in Shadowforge City and Khadgar — were only Aegwynn and Kil'jaeden.
 
-From the way those paladins and Khadgar had reacted to Midnight, that Black Knight probably also rode a horse similar to his.
+From the way those paladins and Khadgar had reacted to Midnight, that Dark Rider probably also rode a horse similar to his.
 
 If this was Kil'jaeden's work, how did he know about Midnight?
 
@@ -12,9 +12,9 @@ Aegwynn had gone to great trouble to leave Karazhan back then, even leaving behi
 
 Was it Khadgar?
 
-Jace looked up at the archmage, who was still discussing Death Knight sightings with the two paladins. Their voices suddenly felt distant and strange.
+Jace looked up at the archmage, who was still discussing death knight sightings with the two paladins. Their voices suddenly felt distant and strange.
 
-But he hadn't been riding Midnight for just a couple of days. News that Jace Sesso possessed a tall black strange horse had probably already reached the Wizard Sanctum and the Kirin Tor. That alone proved nothing.
+But he hadn't been riding Midnight for just a couple of days. News that Jace Sesso possessed a tall black strange horse had probably already reached the Wizard's Sanctum and the Kirin Tor. That alone proved nothing.
 
 He realized his thoughts were spiraling out of control and gave his head a slight shake.
 
@@ -26,17 +26,17 @@ Tirion nodded. He looked at his son, signaling it was time to leave. Taelan Ford
 
 Only Jace and Khadgar remained. Once the footsteps outside had faded enough, Jace asked, "What do you make of this?"
 
-"You mean someone disguised as a Death Knight to stir up trouble in your name?" Khadgar said. "I'm not even sure Black Knights actually exist. So far it's just unfounded rumors. But rumors themselves are worth watching — they mean someone wants to ruin your reputation."
+"You mean someone disguised as a death knight to stir up trouble in your name?" Khadgar said. "I'm not even sure Dark Riders actually exist. So far it's just unfounded rumors. But rumors themselves are worth watching — they mean someone wants to ruin your reputation."
 
 "Going to all that trouble to ruin my reputation? I'm flattered," Jace said.
 
-"Explosions are explosions, but there's a difference between a gnome bomb and a goblin bomb," Khadgar said. "If the necrotic plague at Blackrock Spire really is connected to the orcs' Death Knights, once that news reaches the north, it'll cause even greater panic. By the way, I've been meaning to ask — the Death Knight that Vereesa and the Farstriders hunted down in the Badlands, the first one you found. His name was..."
+"Explosions are explosions, but there's a difference between a gnome bomb and a goblin bomb," Khadgar said. "If the necrotic plague at Blackrock Spire really is connected to the orcs' death knights, once that news reaches the north, it'll cause even greater panic. By the way, I've been meaning to ask — the death knight that Vereesa and the Farstriders hunted down in the Badlands, the first one you found. His name was..."
 
-"Angel Deathwish," Jace said.
+"Angor Deathwish," Jace said.
 
-"Right." Khadgar paused. "Was he really the last orc Death Knight?"
+"Right." Khadgar paused. "Was he really the last orc death knight?"
 
-Jace thought for a moment before answering. "All I can say for sure is that he was the only subordinate Teron Gorefiend was planning to turn to after his failure in Dalaran. When Gorefiend realized Angel wasn't that loyal, he chose to flee to the ruins of Thaurissan's city to drain soul energy and search for Marshal Lothar's remains to resurrect himself, rather than look for other surviving Death Knights."
+Jace thought for a moment before answering. "All I can say for sure is that he was the only subordinate Teron Gorefiend was planning to turn to after his failure in Dalaran. When Gorefiend realized Angor wasn't that loyal, he chose to flee to the Ruins of Thaurissan to drain soul energy and search for Marshal Lothar's remains to resurrect himself, rather than look for other surviving death knights."
 
 "Honestly, you don't seem right." Khadgar studied the warlock's eyes. "When you came back, there was still a hint of bloody shadow in them. It reminded me of when you learned that dark spell in Karazhan that could mimic others' magic. You used Ulthalesh, didn't you?"
 
@@ -66,19 +66,19 @@ Jace chuckled softly. "So as long as the Alliance takes down Blackrock Spire, de
 
 "Thanks," Jace said.
 
-"Don't thank me yet. There's another reason I came to find you." Khadgar leaned in and lowered his voice. "So, the Fire Lord really appeared? The Molten Core? When I first heard it from Varian, I couldn't believe it. Those elementals actually summoned Ragnaros again?"
+"Don't thank me yet. There's another reason I came to find you." Khadgar leaned in and lowered his voice. "So, the Firelord really appeared? The Molten Core? When I first heard it from Varian, I couldn't believe it. Those elementals actually summoned Ragnaros again?"
 
 "True," Jace said.
 
 "Then you have to tell me all about it." The archmage raised a finger. "Considering how actively I've been helping you out."
 
-"It's not that I don't want to brag to a fellow mage, but I'm really not in the mood right now, Khadgar," Jace said. "Lord Tirion Fordring was right — I really should get some sleep. After that I need to head back to Ilgalar's Tower and make preparations for Blackrock Spire."
+"It's not that I don't want to brag to a fellow mage, but I'm really not in the mood right now, Khadgar," Jace said. "Lord Tirion Fordring was right — I really should get some sleep. After that I need to head back to the Tower of Ilgalar and make preparations for Blackrock Spire."
 
-"I'll go with you to Ilgalar's Tower," Khadgar said.
+"I'll go with you to the Tower of Ilgalar," Khadgar said.
 
 "What?"
 
-"Forget what I just told you? If trouble comes later, are you planning to have Lady Morophil testify about what you were doing at Ilgalar's Tower? That would require the Silver Hand or the church to actually believe her..." He paused. "And tell me about the Molten Core on the way."
+"Forget what I just told you? If trouble comes later, are you planning to have Lady Morophil testify about what you were doing at the Tower of Ilgalar? That would require the Silver Hand or the church to actually believe her..." He paused. "And tell me about the Molten Core on the way."
 
 "Fine."
 
@@ -96,7 +96,7 @@ Leaving the tent, Jace looked back and spotted a patch of blue among a sea of wh
 
 He glanced at the church priests discussing something in the distance, then continued, "I still want to explain about last night's misunderstanding."
 
-"Last night we were patrolling the Death Knight sightings King Varian had reported. We sensed necrotic and demonic aura, but after chasing for a while, my father felt our target was different from those orc warlocks possessing knights' bodies, and he told me his doubts."
+"Last night we were patrolling the death knight sightings King Varian had reported. We sensed necrotic and demonic aura, but after chasing for a while, my father felt our target was different from those orc warlocks possessing knights' bodies, and he told me his doubts."
 
 "But it never occurred to us that it might be... I don't know how much you've heard about Hearthglen."
 
@@ -104,11 +104,11 @@ He glanced at the church priests discussing something in the distance, then cont
 
 "Yes." The paladin paused awkwardly. "Because of that, he's been under investigation by the Silver Hand and the church. This campaign to support Blackrock Spire is part of that investigation process. So when it comes to orc dark magic, he had to take a firm stance. He couldn't let the Silver Hand and the church think his attitude toward that orc wanderer was anything like the Perenolde royal family's betrayal."
 
-"So when I saw him hesitate back there... I didn't want our companions to think he'd run into a situation like the Eastern Weald again. Plus we were nearly at Lakeshire, and time was tight. I made an impulsive decision."
+"So when I saw him hesitate back there... I didn't want our companions to think he'd run into a situation like the Eastweald again. Plus we were nearly at Lakeshire, and time was tight. I made an impulsive decision."
 
 A squad of soldiers passed by, led by a shield-bearing church priest. Taelan paused for a moment, then continued, "I hope you won't blame him for this, Master Sesso. It was my fault."
 
-Jace said, "I understand your father's predicament. I've faced similar suspicions myself. But when I reach Morgan's Watch, I'll still report the whole thing to King Varian."
+Jace said, "I understand your father's predicament. I've faced similar suspicions myself. But when I reach Morgan's Vigil, I'll still report the whole thing to King Varian."
 
 "I have no objection to that. I'm sure my father feels the same." Taelan gave the Alliance military salute. "That's all I have to say, Master."
 

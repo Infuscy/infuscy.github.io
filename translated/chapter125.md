@@ -6,13 +6,13 @@ Grede picked up a slice of cut toast, tore it in half, dipped it in squash sprea
 
 "Fine," Jace said. "So should we talk about how to handle the journey once we reach Southshore? I've got to be in Dalaran around the tenth. How long does it take to get from Southshore to Dalaran?"
 
-Jace remembered that the terrain of the Lordaeron continent didn't quite match the game. The Alterac Mountains stretched a lot farther than they did in-game, blocking the path between Lake Lordamere and Southshore. The whole of the Hillsbrad Foothills was, in reality, just the stretch of sloping wilderness running from the Alterac Mountains all the way to the coast at Southshore.
+Jace remembered that the terrain of the Lordaeron continent didn't quite match the game. The Alterac Mountains stretched a lot farther than they did in-game, blocking the path between Lordamere Lake and Southshore. The whole of the Hillsbrad Foothills was, in reality, just the stretch of sloping wilderness running from the Alterac Mountains all the way to the coast at Southshore.
 
 The game's map simplified a lot — the key locations were flatter, without so much terrain in the way.
 
-In the real world, getting from Southshore to Dalaran meant taking a massive detour. You'd even have to cross into the Kingdom of Gilneas. Trying to cut straight north toward Dalaran the way the game let you — point A to point B in a straight line — would land you straight in the middle of the Alterac Mountains. When Jace had traveled from the capital to Southhore, he'd hugged the western coast of Lordaeron, past the shores near Shadowfang Keep — except back then the castle had still been called Sylvane's Keep.
+In the real world, getting from Southshore to Dalaran meant taking a massive detour. You'd even have to cross into the Kingdom of Gilneas. Trying to cut straight north toward Dalaran the way the game let you — point A to point B in a straight line — would land you straight in the middle of the Alterac Mountains. When Jace had traveled from the capital to Southshore, he'd hugged the western coast of Lordaeron, past the shores near Shadowfang Keep — except back then the castle had still been called Silverlaine Keep.
 
-West of Silverpine Forest, you followed Gilneas Bay all the way past Sylvane's Keep, then headed southwest into the Burnwood Marsh. Cross the marsh, pass through another huge stretch of forest, and you'd arrive at the village of Emberstone, hemmed in by trees.
+West of Silverpine Forest, you followed Gilneas Bay all the way past Silverlaine Keep, then headed southwest into the Burnwood Marsh. Cross the marsh, pass through another huge stretch of forest, and you'd arrive at the village of Emberstone, hemmed in by trees.
 
 From Emberstone you pushed east across the broad Hillsbrad farmlands to finally reach the coast and arrive at Southshore.
 
@@ -22,7 +22,7 @@ Grede sketched out a rough map with his finger, and it matched Jace's memory. He
 
 Next, the dwarf tapped a point just north of the Alterac range. "Dalaran."
 
-Then the southern coast. "Southhore."
+Then the southern coast. "Southshore."
 
 Grede's finger traced a circle around that big mountain line he'd drawn. "This route takes about three days, roughly the same as the distance from Stormwind to Sentinel Hill — except the road's nowhere near as good. Nothing but hills and mountains the whole way, and you'll pass through several towns in the Kingdom of Gilneas along the way."
 
@@ -40,15 +40,15 @@ If that wall went up, this relatively safe route would probably be impassable. T
 
 Honestly, that road had been passable before the war too, but after it, cutting straight through Silverpine Forest meant running the risk of getting hunted by orcs.
 
-And politics aside, there was the werewolf problem.
+And politics aside, there was the worgen problem.
 
-From what Jace remembered of Gilneas from his earlier years, werewolf tales had already started cropping up there — similar to the ones over at Raven Hill.
+From what Jace remembered of Gilneas from his earlier years, worgen tales had already started cropping up there — similar to the ones over at Raven Hill.
 
-Except Jace knew Gilneas's legends weren't about werewolf-like creatures. They were about real werewolves.
+Except Jace knew Gilneas's legends weren't about worgen-like creatures. They were about real worgen.
 
-One thing he was certain of: mages in Gilneas had already discovered the werewolves, and had even used plane-shifting magic to probe the werewolves' homeland — the Emerald Dream — which was the source of those faint, half-whispered werewolf legends.
+One thing he was certain of: mages in Gilneas had already discovered the worgen, and had even used plane-shifting magic to probe the worgens' homeland — the Emerald Dream — which was the source of those faint, half-whispered worgen legends.
 
-Grede, of course, knew none of this. He went on, "Once you reach Dalaran, taking a ship to the Lordaeron capital gets a lot easier. Cross Lake Lordamere and you'll be there in less than a day. My suggestion for the trip back is to go from Dalaran to Alterac City, then east to The Hinterlands. Cuts the journey by at least a factor of three, and you won't have to cross any mountains and forests where orcs have been spotted. Safer too."
+Grede, of course, knew none of this. He went on, "Once you reach Dalaran, taking a ship to the Lordaeron capital gets a lot easier. Cross Lordamere Lake and you'll be there in less than a day. My suggestion for the trip back is to go from Dalaran to Alterac City, then east to the Hinterlands. Cuts the journey by at least a factor of three, and you won't have to cross any mountains and forests where orcs have been spotted. Safer too."
 
 "Alterac City?" Jace said. "I heard Alterac just got hit by a surprise attack from black dragons and orcs. Is it safe to go there now?"
 
@@ -60,7 +60,7 @@ Of course, Stromgarde's annexation wouldn't come that easily. If Thoras Trollban
 
 Terenas II of Lordaeron would never allow that to happen. He'd definitely push forward one of the children of Alterac's royal Perenolde family and prop someone up to inherit the crown.
 
-"Then we're fine," Jace said. "So your plan is: once I reach Lordaeron, I go to the capital first to see my parents, then head back to Dalaran for the tenth's orcish exchange meeting?"
+"Then we're fine," Jace said. "So your plan is: once I reach Lordaeron, I go to the capital first to see my parents, then head back to Dalaran for the Orcish symposium on the tenth?"
 
 "Right. Dalaran to Alterac City takes about a day and a night. By the time you've finished your business and reached Alterac City, it'll probably be Winter Veil already. Think about how tight that is."
 
@@ -70,28 +70,10 @@ But what good would a few extra days do? Nothing but making the farewell harder 
 
 Once he got his parents to the Kingdom of Stormwind, he wouldn't have to agonize over any of this.
 
-"How long from Alterac City to The Hinterlands?" Jace asked.
+"How long from Alterac City to the Hinterlands?" Jace asked.
 
 Grede drew a line straight east. "That road's brutal, and there are no caravans. But you can tag along with the patrol units. I looked into it — there are plenty of patrols between Alterac City and Durnholde Keep, because things have been pretty chaotic over there lately. Should take about two days."
 
 Jace took a deep breath. This was going to be one hell of a long journey. Crossing Baradin Bay was only the beginning.
 
 As long as he didn't die halfway there, it'd count as a total victory.
-
-## Flags
-
-- **席瓦莱恩堡 (Sylvane's Keep):** Former name of Shadowfang Keep (影牙城堡). Transliteration tentative; not in glossary.
-- **焚木沼泽 (Burnwood Marsh):** Location in Silverpine. Not in glossary; possibly OC.
-- **烬石村 (Emberstone Village):** Village in Silverpine. Not in glossary; possibly OC.
-- **吉尔尼斯海湾 (Gilneas Bay):** Not in glossary.
-- **托尔贝恩 (Thoras Trollbane):** Canonical ruler of Stromgarde; not in glossary.
-- **匹瑞诺德家族 (Perenolde family):** Royal house of Alterac; canonical but not in glossary.
-- **敦霍尔德城堡 (Durnholde Keep):** Canonical; not in glossary.
-- **冬幕节 (Winter Veil):** Canonical WoW winter holiday; not in glossary.
-- **奥特兰克城 (Alterac City):** Not in glossary.
-- **洛丹伦王城:** Rendered "the capital of Lordaeron" / "the Lordaeron capital." Not a glossary entry as a phrase.
-- **兽人交流会:** Rendered "orcish exchange meeting." Not in glossary; context is a scholarly/military Orcish-language event in Dalaran around the 10th.
-- **联盟收容法案:** Rendered "the Alliance's internment policy" — refers to the orc internment camps. Canonical concept but not in glossary.
-- **翡翠梦境:** Rendered "the Emerald Dream" — canonical, but not in glossary.
-- **位面跨越魔法:** Rendered "plane-shifting magic." Not in glossary.
-- **影牙城堡:** Rendered "Shadowfang Keep" — canonical, but not in glossary.

@@ -1,6 +1,6 @@
 ## Chapter 187: Setting Out Again
 
-The next morning, Dushan set out early, heading west toward Silverpine Forest. Jace waited at the Azure Arrival with his luggage, and Grede walked in not long after.
+The next morning, Dushan set out early, heading west toward Silverpine Forest. Jace waited at the Azure Encounter with his luggage, and Grede walked in not long after.
 
 "I got in touch with a Church caravan," Grede said, coming up to Jace. He was about to go on when he noticed the few pastries sitting on the cloth-wrapped bundle beside Jace.
 
@@ -42,17 +42,17 @@ Grede chuckled and slapped the table. "Give me back those silver coins, quick! T
 
 "This is really the money from selling that Teron Gorefiend command?" Grede asked.
 
-"Sold it to the elves," Jace said. "After that meeting — especially after the theft incident — that letter wasn't just a little orcish textbook anymore, Grede. Its value skyrocketed!"
+"Sold it to the elves," Jace said. "After that meeting — especially after the theft incident — that letter wasn't just a little Orcish textbook anymore, Grede. Its value skyrocketed!"
 
 "It sold for that much…" The dwarf scratched under his beard for a while before saying, "Then you keep that Gurubashi gold coin."
 
-"Keep it for me and you'll be even worse off," Jace reminded him. "I'm already getting more than a six-four split."
+"If I keep it, you'll be even worse off," Jace reminded him. "I'm already getting more than a six-four split."
 
 "You think I'd really split it six-four with you?" Grede laughed, counted out seven gold coins, and stuffed them into his pocket. "Let's just muddle through with the split! Ahh, good times are coming! What should I buy? This is torture — we're leaving Dalaran today, and we've got this huge pile of money. But once we hit Alterac, Durnholde, Aerie Peak, there won't be anything decent to buy!"
 
 "Save your spending. We'll talk when we get back to Stormwind," Jace said.
 
-"Tell you what — let me buy you an outfit?" Grede said. "We're about to head up into the snow mountains. Climbing a snow mountain in winter, and all you've got left is that shirt and that cloak. You're not going to freeze to death up there, are you?"
+"Tell you what — let me buy you an outfit?" Grede said. "We're about to head up into the snowy mountains. Climbing a snowy mountain in winter, and all you've got left is that shirt and that cloak. You're not going to freeze to death up there, are you?"
 
 "It completely slipped my mind." Jace pinched the collar of his shirt and felt the thickness. This outfit was already freezing in Dalaran in December, let alone climbing further northeast into the snow.
 
@@ -66,11 +66,11 @@ Probably because the dwarven village of Dun Baldar up in Alterac wasn't nearly a
 
 Right now, Jace was draped in a brownish-red cloak, clutching a staff wrapped in a dark, tattered yellow cloth, a bag at his side, sitting on a boulder beneath a pine tree.
 
-He hadn't trimmed his beard in days, and the little curls on his mouth made him stare absently at the group of Church of the Holy Light priests not far off. He really did look like some homeless hedge wizard.
+He hadn't trimmed his beard in days, and little curls had sprouted around his mouth as he stared absently at the group of Church of the Holy Light priests not far off. He really did look like some homeless hedge wizard.
 
 "Grede," he asked, turning his head. "Can you smell anything strange?"
 
-"What kind of strange?" Grede said, munching on a pastry bought from Remi Stargaze.
+"What kind of strange?" Grede said, munching on a pastry bought by Remi Stargazer.
 
 "Something like… corpses. Or shadow," Jace said.
 
@@ -86,17 +86,10 @@ Jace pointed to the head of his staff. "This cloth is Teron Gorefiend's cloak."
 
 Jace laughed. "Maybe someday Teron Gorefiend's ghost will be bragging to someone too — back in the day, Archmage Jace used my cloak to wrap his staff."
 
-"Ha! You really do dream big!" Grede took a clean cloth and wrapped it around the thing with no eyes, laughing as he did. "Forget that — you should be thinking about how to win Windreaver's heart! All right, move your ass. Those Church priests are about to set off."
+"Ha! You really do dream big!" Grede took a clean cloth and wrapped it around the eyesore, laughing as he did. "Forget that — you should be thinking about how to win Vereesa's heart! All right, move your ass. Those Church priests are about to set off."
 
 Hearing that, Jace's smile slowly faded. He lowered his head and checked all his luggage once more.
 
-Including the proto-drake whisker hair he'd given to Amy Marin, all the books, the money pouch, the clothes, the dried provisions his parents had bought him, the pastries some rich folk had bought him — he confirmed nothing had been left behind, then stood up.
+Including the faerie dragon quill he meant to give Amy Malin, all the books, the money pouch, the clothes, the dried provisions his parents had bought him, the pastries some rich folk had bought him — he confirmed nothing had been left behind, then stood up.
 
 He dusted off his backside and cloak with one hand, watched the dwarf's back as he shouldered the big woven sack, and thought to himself: Three months ago, if I'd told you we were going to kill a real dragon, would you have thought I was talking out of my ass, Grede?
-
-## Flags
-
-- **Azure Arrival (天蓝色相遇):** the Dalaran tavern where Jace waits. Not in glossary. Rendered as a proper-name tavern.
-- **Remi Stargaze (雷米·观星):** shopkeeper who sold the pastries. Not in glossary. Rendered as a proper name.
-- **"talking out of my ass":** Jace's internal voice — kept the vulgar register to match his 社畜 snark. Not a glossary term, just a tonal call.
-- **"hedge wizard":** Jace's self-description looking scruffy with a staff. Not in glossary.

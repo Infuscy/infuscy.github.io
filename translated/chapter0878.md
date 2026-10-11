@@ -1,4 +1,4 @@
-## Chapter 878: The Chill of Eldallas
+## Chapter 878: The Chill of Eldarath
 
 Azshara, a quiet and desolate stretch of coast in northeastern Kalimdor.
 
@@ -20,9 +20,9 @@ The naga believed the relics here belonged to them, so they sought to reclaim th
 
 It was easy to imagine that, between the conflict of the naga and the blue dragons and all the scavenging the high elves had done over the years, most of the relics here had either been carried off or destroyed.
 
-Vereesa said, somewhat discouraged, "Before I came, I didn't realize Eldallas was such a huge place. Searching for a fragment of a magical gemstone in these half-buried cities is just asking for humiliation. No wonder the Reliquary has sent wave after wave of seekers here to poke around for decades without any luck. Still, the Reliquary didn't demand that we find the exact thing — physical evidence with some clues will do. It's just that the final payment will be a lot less."
+Vereesa said, somewhat discouraged, "Before I came, I didn't realize Eldarath was such a huge place. Searching for a fragment of a magical gemstone in these half-buried cities is just asking for humiliation. No wonder the Reliquary has sent wave after wave of seekers here to poke around for decades without any luck. Still, the Reliquary didn't demand that we find the exact thing — physical evidence with some clues will do. It's just that the final payment will be a lot less."
 
-"Well, that won't do. Since we're here, we might as well turn this place upside down…" Jace looked up at the stars in the sky. "Let's rest for tonight. I need to recover my mana. Tomorrow, I'll try summoning a felhound to help us keep searching. Back in the swamp, a bunch of us treasure hunters tracked down an Eredar magical artifact using a felhound."
+"Well, that won't do. Since we're here, we might as well turn this place upside down…" Jace looked up at the stars in the sky. "Let's rest for tonight. I need to recover my mana. Tomorrow, I'll try summoning a felhound to help us keep searching. Back in the swamp, a bunch of us treasure hunters tracked down an eredar magical artifact using a felhound."
 
 Vereesa's eyes lit up. "That's actually a great idea, Jace. I'll go find somewhere up ahead where we can spend the night."
 
@@ -34,29 +34,29 @@ Watching the elf stride off up the path, the big yellow cat at her side — it r
 
 Grede plopped down beside a fractured stone pillar. "My God, walked half the day and finally we can rest a bit. Leave the rest of the work to the felhound. Everywhere I look it's trees, ruined houses — my eyes are going crossed."
 
-Jace checked the number of soul shards in his bag. Mofir looked at him and said, "That felhound ended up helping us find a corrupted green dragon last time, master. The whole party nearly died in that swamp. Who knows what it'll find this time."
+Jace checked the number of soul shards in his bag. Morophil looked at him and said, "That felhound ended up helping us find a corrupted green dragon last time, master. The whole party nearly died in that swamp. Who knows what it'll find this time."
 
-"You're not going to get jealous of a felhound that can't even talk and doesn't have much of a brain, are you, Sayad?" Sazeno said with a grin.
+"You're not going to get jealous of a felhound that can't even talk and doesn't have much of a brain, are you, sayaad?" Sazeno said with a grin.
 
-"I have to admit, when it comes to tracking down arcane energy, I'm nowhere near those little Annihilan runts," Mofir said with a sigh.
+"I have to admit, when it comes to tracking down arcane energy, I'm nowhere near those little Annihilan runts," Morophil said with a sigh.
 
-"A corrupted green dragon?" Sulenna glanced over. "What happened?"
+"A corrupted green dragon?" Sola glanced over. "What happened?"
 
-"You know about the temple of the troll gods deep in the Black Swamp, Sulenna?" Jace asked.
+"You know about the temple of the troll gods deep in the Black Morass, Sola?" Jace asked.
 
-"Atal'Hakkar?" Sulenna said. "The swamp you mentioned — is it the swamp where the Temple of Atal'Hakkar sits? I don't know much about the place, but I remember Lord Eranikus is guarding that temple on the Queen's orders, stopping an evil ancient god from manifesting again… but have the green dragons there been corrupted?"
+"Atal'Hakkar?" Sola said. "The swamp you mentioned — is it the swamp where the Temple of Atal'Hakkar sits? I don't know much about the place, but I remember Lord Eranikus is guarding that temple on the Queen's orders, stopping an evil ancient god from manifesting again… but have the green dragons there been corrupted?"
 
 Jace nodded. "From what I saw, yes."
 
-"If you get the chance, could you take me there to have a look, Jace?" Sulenna asked.
+"If you get the chance, could you take me there to have a look, Jace?" Sola asked.
 
 "Of course," Jace said. "If the problem there gets any worse, it could threaten the supply route between Stormwind and Nethergarde Keep. Maybe we should talk to Queen Ysera about it before we go?"
 
-Sulenna hesitated slightly. "Isendre doesn't want me meddling in Dream affairs anymore, and I imagine Queen Ysera feels the same."
+Sola hesitated slightly. "Ysondre doesn't want me meddling in Dream affairs anymore, and I imagine Queen Ysera feels the same."
 
 Jace waved a hand. "Then forget it. I'll try asking Queen Alexstrasza when the time comes. We're going to see her anyway, and there's the matter of that sword too."
 
-"Wonderful." Sulenna nodded.
+"Wonderful." Sola nodded.
 
 As they chatted on, it actually started to rain.
 
@@ -66,15 +66,15 @@ The group found shelter beneath a cluster of broken stone pillars. Grede had bar
 
 "What?" Jace looked in the direction Grede was staring and did think he could make out a figure lying there, seemingly wearing a robe that was either cyan or silver.
 
-But the longer Jace stared at it, the more his head swam, and the Chain of Will around his neck grew faintly warm. "Careful of psychic magic, master…" Mofir warned.
+But the longer Jace stared at it, the more his head swam, and the Chain of Will around his neck grew faintly warm. "Careful of psychic magic, master…" Morophil warned.
 
 Jace nodded, then hurled a Fear spell at the figure in the corner. The robe suddenly shuddered, and a tail whipped out from underneath and vanished in a flash, making Grede jump.
 
 "What the hell?!" the dwarf's eyes went wide.
 
-"Naga?" Jace's hand went to the sword at his waist. "How did I not sense a naga closing in on us at all?"
+"Naga?" Jace's hand went to the sword at his hip. "How did I not sense a naga closing in on us at all?"
 
-While he was watching for more naga in the surroundings, Vereesa's shout came from a distance. "Jace! Grede! Sulenna!"
+While he was watching for more naga in the surroundings, Vereesa's shout came from a distance. "Jace! Grede! Sola!"
 
 "The two of them might be in trouble too," Grede said.
 
@@ -88,31 +88,31 @@ But after a short chase, the two of them slowed to a stop and looked back toward
 
 "They got away, damn it!" Vereesa shouted in frustration, and even carried on the rain, the shout was hard to make out by the time it reached them.
 
-"These naga weren't trying to surround us — they were trying to run," Grede said, looking at Jace. "Seems they're a lot smarter than those black knights. Know better than to mess with a Grim Batol killer."
+"These naga weren't trying to surround us — they were trying to run," Grede said, looking at Jace. "Seems they're a lot smarter than those Dark Riders. Know better than to mess with a Grim Batol killer."
 
 The dwarf snorted a laugh. Jace said quietly, "Maybe it's because these ones aren't carrying 'Apocalypse.' Either way, none of us are getting much sleep tonight, Grede. These naga aren't going to let us off easy — they'll probably keep watching us, following us…"
 
-"With you and Mofir keeping watch, at least me and Mosa can get some sleep." The dwarf yawned, then shouted down, "Vereesa, did you find a whole building where we can get out of the rain? I'm about to pass out!"
+"With you and Morophil keeping watch, at least me and Mosa can get some sleep." The dwarf yawned, then shouted down, "Vereesa, did you find a whole building where we can get out of the rain? I'm about to pass out!"
 
 "Come with us!" Vereesa waved.
 
-"Running into the naga is actually kind of a good sign, if you think about it," Sulenna said.
+"Running into the naga is actually kind of a good sign, if you think about it," Sola said.
 
 "What do you mean?" Grede asked.
 
 Jace explained, "It means the naga are interested in these ruins too. Even if we can't find the gemstone fragment Vereesa's after, we should at least come away with something more reliable than stumbling around blind like we were doing in the day."
 
-"Exactly," Sulenna nodded.
+"Exactly," Sola nodded.
 
-Vereesa and Mosa led the group into a fairly intact Kaldorei dwelling. A house of this size would've practically counted as a monastery anywhere in the Kingdom of Stormwind. But in Eldallas, houses this size were a dime a dozen. Jace guessed this was, at best, the home of a fairly well-off commoner or a minor noble.
+Vereesa and Mosa led the group into a fairly intact Kaldorei dwelling. A house of this size would've practically counted as a monastery anywhere in the Kingdom of Stormwind. But in Eldarath, houses this size were a dime a dozen. Jace guessed this was, at best, the home of a fairly well-off commoner or a minor noble.
 
-In the depths of night, Mofir stood watch at a high, broken window, guarding against any naga that might approach. Sulenna sat on the back steps with her eyes closed, resting.
+In the depths of night, Morophil stood watch at a high, broken window, guarding against any naga that might approach. Sola sat on the back steps with her eyes closed, resting.
 
 Grede lay curled up in Mosa's arms, snoring away. Mosa dozed against the head of a Highborne statue poking out of the dirt. Listening to the tauren and the dwarf take turns sawing logs, Jace couldn't fall asleep no matter what.
 
 He glanced at Vereesa beside him, raised his eyebrows in a helpless expression, and Vereesa smiled back.
 
-She looked at the patterns on the wall of the dwelling behind Jace and murmured, in a voice only the two of them could hear, "Ever since I was little, so many elders and teachers told me again and again that our ancestors left from here, crossed the Great Sea, and reached Tirisfal. But looking at all this, I honestly have trouble feeling any blood connection to it — even though some places do look a little like Silvermorne, or the Sunstrider isles…"
+She looked at the patterns on the wall of the dwelling behind Jace and murmured, in a voice only the two of them could hear, "Ever since I was little, so many elders and teachers told me again and again that our ancestors left from here, crossed the Great Sea, and reached Tirisfal. But looking at all this, I honestly have trouble feeling any blood connection to it — even though some places do look a little like Silvermoon, or Sunstrider Isle…"
 
 "When I walked out of the palace in Lordaeron, I looked at that city's walls and they felt a little unfamiliar too," Jace said. "Never mind that you and these things are separated by several thousand, going on ten thousand years."
 
@@ -126,8 +126,8 @@ Hearing the name Arthas Menethil, Jace felt a chill run through him. He didn't k
 
 The rain outside had turned to sleet, even tiny icicles, pattering sparsely against the walls.
 
-Mosa propped up Grede's still-snoring head and sat up. Vereesa turned a wary gaze toward the door. Sulenna's eyes opened at some point — moonlight spilled from the corners of them.
+Mosa propped up Grede's still-snoring head and sat up. Vereesa turned a wary gaze toward the door. Sola's eyes opened at some point — moonlight spilled from the corners of them.
 
-Jace looked up at Mofir in the heights; the flames in her eyes flickered irregularly, unsettled.
+Jace looked up at Morophil in the heights; the flames in her eyes flickered irregularly, unsettled.
 
 "Arcane energy," Vereesa said in a low voice. "It's a masterful weave of arcane power that's altered the climate, Jace. I can feel it."

@@ -22,7 +22,7 @@ Whether it would meet Ursula's requirements was another question.
 
 Pressing deeper, after following the wall of a corridor for some distance, the succubus suddenly stopped. Jace halted too.
 
-"Shh..." the succubus chuckled softly. Jace noticed the fel fire in her eyes fading bit by bit.
+"Shh..." the succubus chuckled softly. Jace noticed the glow in her eyes fading bit by bit.
 
 She'd turned invisible. Jace understood immediately without needing to be told.
 
@@ -88,7 +88,7 @@ The three of them grabbed a string of bullets, hauled the firearm, and ran all t
 
 Jace examined the haul, especially the gun. Unlike the game's guns, which had absurd fire rates for the sake of gameplay, real-world firearms were neither accurate nor reliable, and reloading was slow.
 
-A Dark Iron dwarf's firearm might be a touch more powerful than an ordinary one, but only a touch. Still, it should fetch a decent price in the Dwarf District.
+A Dark Iron dwarf's firearm might be a touch more powerful than an ordinary one, but only a touch. Still, it should fetch a decent price in the Dwarven District.
 
 And Jace's marksmanship was, frankly, terrible.
 
@@ -111,16 +111,3 @@ She lay on her back, looking up into Jace's eyes, and whispered, "Just let me di
 Morophil chuckled, but before she could finish, her expression suddenly changed and she bit her lip...
 
 "Master, how did you... ah..."
-
-## Flags
-
-- **莫洛菲尔** — Morophil, Jace's succubus (not in glossary, but established in earlier chapters).
-- **撒厄诺** — Sazeno, imp minion, per glossary.
-- **黑铁部族** — Dark Iron clan, per glossary (Dark Iron dwarves).
-- **暗炉城** — Shadowforge City, per glossary.
-- **厄苏拉** — Ursula, per glossary.
-- **赤脊山** — Redridge Mountains, per glossary.
-- **矮人区** — Dwarf District, per glossary.
-- **艾泽拉斯** — Azeroth, per glossary.
-- Chapter title 看在同乡的份上 = "For a Fellow Countryman's Sake" — the Dark Iron dwarf's appeal to shared Azerothian origin ("看在艾泽拉斯的份上").
-- POV: third person. The Dark Iron dwarf's bluster and Morophil's teasing register preserved.

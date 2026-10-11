@@ -14,7 +14,7 @@ By all rights, aside from the odd wandering orc shaman, the whole of Redridge sh
 
 Which left only one possibility — gnolls. After all, it couldn't be murlocs.
 
-The local gnolls belonged to the Darkhide tribe, the darkest and most savage tribe in the entire Kingdom of Stormwind. If it was them… should he hole up inside the fort, or hold this watchtower?
+The local gnolls belonged to the Shadowhide tribe, the darkest and most savage tribe in the entire Kingdom of Stormwind. If it was them… should he hole up inside the fort, or hold this watchtower?
 
 Counting this one, the fort had four watchtowers of varying sizes. Right now, the other towers still had sentries holding up torches — only the central tower at the very top of the fort was unguarded at the moment.
 
@@ -64,7 +64,7 @@ Just as he was scrambling for ideas, another gnoll leaped up onto the wall, wavi
 
 No… staying here much longer would only get him killed by waves of gnolls.
 
-Jace didn't even have the "two fists can't beat four pals" problem — the ones coming up now were just gnoll grunts. If a real warrior came up, he'd be in deep trouble all on his own.
+It wasn't even a matter of being outnumbered yet — the ones coming up now were just gnoll grunts. If a real warrior came up, he'd be in deep trouble all on his own.
 
 He had to get back to his room, find his warlock's bag, and let the imp out.
 
@@ -82,9 +82,9 @@ They were frantically hammering at the iron-studded wooden door. That irritating
 
 That fallen gnoll had gone down hard enough, and still none of them had noticed.
 
-"Sathrovarr!"
+"Sazeno!"
 
-Jace called out in a flurried voice, not really expecting the imp to hear. Because if he raised his voice any louder, he'd draw every single one of those gnolls below — and then he'd be in real trouble.
+Jace called out in a low, urgent voice, not really expecting the imp to hear. Because if he raised his voice any louder, he'd draw every single one of those gnolls below — and then he'd be in real trouble.
 
 Better to pick off the ones climbing up one by one. That way he'd last a little longer.
 
@@ -93,11 +93,3 @@ He was still working through that thought when the sound of claws scraping stone
 This gnoll leaped up wielding two short axes. The moment it steadied itself, it let out a howl and swung them back and forth like some kind of circus act.
 
 Jace's head was already full of the techniques Grede had drilled into him — keep your distance, blade pointed forward.
-
-## Flags
-
-- **撒厄诺 (Sathrovarr)**: Jace's imp. Not in glossary. Rendered as "Sathrovarr" — flag for verification of intended spelling; this is the imp's name throughout.
-- **铁钩爬墙 / 铁链**: Grappling hooks with iron chains used by gnolls to scale the wall — identified as repurposed Horde siege equipment.
-- **调虎离山**: Idiom meaning "lure the tiger down from the mountain" — a diversionary tactic. Rendered as "A diversion?"
-- **双拳难敌四手**: Idiom meaning "two fists can't beat four hands" — outnumbered. Rendered naturally.
-- **术士袋 (warlock's bag)**: Jace's bag containing his warlock supplies / the imp.

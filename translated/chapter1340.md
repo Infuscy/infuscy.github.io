@@ -10,7 +10,7 @@ When the green dragon descended, he didn't dodge the fierce wind kicked up by it
 
 "In the reception rooms next to the main hall, Lord Grede," Turalyon said. "But don't treat it like visiting the Stratholme zoo. They can sense that kind of disrespect."
 
-"I have not a shred of disrespect in my heart, Marshal." Grede straightened his cloak. "I'll go have a look. Meet you in the hall later, Jace."
+"I have not a shred of disrespect in my heart, General." Grede straightened his cloak. "I'll go have a look. Meet you in the hall later, Jace."
 
 "Sure." Jace nodded. After the dwarf ran down from the wall, Turalyon looked at him and asked, "How did it go?"
 
@@ -20,11 +20,11 @@ The paladin's tone wasn't asking about the results of the visit — it sounded m
 
 "So even if things didn't go well, it's fine. Alleria and I, and everyone at Wildhammer Stronghold, will help you. Whether it's finding another way, or fighting to the end. I think Vereesa feels the same."
 
-"Of course, Marshal." Vereesa said. "And things didn't go poorly."
+"Of course, General," Vereesa said. "And things didn't go poorly."
 
 "The spirits willingly sacrificed themselves?" Turalyon asked in surprise.
 
-"They're not willing to sacrifice," Jace said. "But they did propose a trade. The spirit leader — a Primate who died many years ago — wants me to clean out the Shadow Council and the traitorous draenei priests in Auchindoun in exchange for their help."
+"They're not willing to sacrifice," Jace said. "But they did propose a trade. The spirit leader — an exarch who died many years ago — wants me to clean out the Shadow Council and the traitorous draenei priests in Auchindoun in exchange for their help."
 
 "But that means our attack will be detected by the demons." Turalyon said. "There are Burning Legion demon underlings in Auchindoun. They might report our movements to Magtheridon through some ritual. I'm worried Kil'jaeden might figure out our intentions."
 
@@ -36,7 +36,7 @@ The paladin's tone wasn't asking about the results of the visit — it sounded m
 
 At that moment, Sola — who had just shifted back into human form — walked up. "Let me go with you this time, Jace."
 
-"Don't worry about me being discovered. I've gotten quite good at playing an orc guard. I've learned orcish. Even in Highmaul, the Burning Legion demon guards didn't detect my disguise. One extra person is one extra layer of insurance, Jace. Don't forget — deep in that maze, a powerful alien elemental is still sealed."
+"Don't worry about me being discovered. I've gotten quite good at playing an orc guard. I've learned Orcish. Even in Highmaul, the Burning Legion felguards didn't detect my disguise. One extra person is one extra layer of insurance, Jace. Don't forget — deep in that maze, a powerful alien elemental is still sealed."
 
 Jace knew Sola was more worried about Sabellian than about elemental lords or orc guards. And her concern was justified, so he nodded in agreement.
 
@@ -52,7 +52,7 @@ Turalyon pointed to a slope next to the stronghold. "In the cave up there."
 
 Jace nodded, said goodbye to Vereesa and Sola, and quickly walked down from the wall.
 
-The black dragons and the few surviving red dragons lived on the mountain peak behind Wildhammer Stronghold. As he passed the red dragons' area, they all bowed their heads to Jace, murmuring "Blood of the Dragonqueen" in draconic.
+The black dragons and the few surviving red dragons lived on the mountain peak behind Wildhammer Stronghold. As he passed the red dragons' area, they all bowed their heads to Jace, murmuring "Blood of the Dragonqueen" in Draconic.
 
 But they lived far from the black dragons. Even though they were now comrades-in-arms, and the black dragons of Draenor were vastly different from those of Azeroth, it couldn't erase the ten-thousand-year rift between the two flights.
 
@@ -72,7 +72,7 @@ Sabellian sat lounging on a dark stone throne carved with dragon claws at the ba
 
 "We went to Auchindoun," Jace said. "Talked to the souls there."
 
-"How courteous of you." The black dragon chuckled. "Gralorio said the souls in Auchindoun have all gone mad by now. But maybe that means they have common ground with you."
+"How courteous of you." The black dragon chuckled. "Gorlorio said the souls in Auchindoun have all gone mad by now. But maybe that means they have common ground with you."
 
 Jace said, "They want me to help them get revenge. Get rid of the Shadow Council leader and the Auchenai leader who defiled the souls."
 
@@ -126,11 +126,11 @@ Jace shot a pleading look at the massive whelp beside him, but it just drooped i
 
 "I can turn into an orc." Needleflame said, and promptly transformed into a somewhat short female orc with teeth growing every which way, looking none too bright.
 
-The two quick shifts seemed to drain her mana completely. She panted pitifully for a couple of breaths, then said in orcish, "You promised me, Jace Sesso. You said so that day."
+The two quick shifts seemed to drain her mana completely. She panted pitifully for a couple of breaths, then said in Orcish, "You promised me, Jace Sesso. You said so that day."
 
-This little one wasn't bluffing. Her orcish really was quite passable.
+This little one wasn't bluffing. Her Orcish really was quite passable.
 
-Needleflame might be a young whelp, but she was still more than a match for the average orc soldier. Plus, Morophil was too conspicuous in the Burning Legion demons' eyes now because of the Tome of Infamy's power, making it inconvenient for her to enter the Shadow Labyrinth with them. So the group was short a grunt for miscellaneous work. Small and agile, Needleflame could fill that gap perfectly.
+Needleflame might be a young whelp, but she was still more than a match for the average orc soldier. Plus, Morophil was too conspicuous in the Burning Legion demons' eyes now because of the Book of Fel Names's power, making it inconvenient for her to enter the Shadow Labyrinth with them. So the group was short a grunt for miscellaneous work. Small and agile, Needleflame could fill that gap perfectly.
 
 "Go ask your father," Jace said. "I can't make that decision."
 

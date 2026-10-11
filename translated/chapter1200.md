@@ -8,7 +8,7 @@ The comforting part was that Rommath had actually left him a Thalassian-Common b
 
 Of course, looking at it from the bright side, this happened to make up for Jace's weakness of being familiar with everyday conversation but not understanding specialized vocabulary.
 
-The second problem was more serious: the books on maintaining mage towers and employing the power of magic crystals made no mention of the Taralfsin Crystal. The several other types of crystals the Grand Magister had introduced to him on the Eldarath River, on the other hand, all had roughly corresponding content.
+The second problem was more serious: the books on maintaining mage towers and employing the power of magic crystals made no mention of the Taralfsin Crystal. The several other types of crystals the Grand Magister had introduced to him on the Elrendar River, on the other hand, all had roughly corresponding content.
 
 Since the Taralfsin Crystal wasn't a typical elven mage tower energy crystal, this was quite normal too. Of course, Rommath had also taken this into account and specifically left some relatively easy-to-understand articles researching the Taralfsin Crystal. But these didn't teach a mage how to use a mage tower equipped with this kind of crystal either.
 
@@ -18,7 +18,7 @@ Fortunately, this crystal didn't need to be adjusted by hand for every single pa
 
 As long as it could do this, it was enough for the needs of Jace's crew going forward. After all, he didn't need to use this mage tower to deal with orcs and the Black Dragonflight, or gnoll invasions, Dark Iron dwarf uprisings, and the like.
 
-By evening, as the sky grew darker, the crystal atop Ilgara Tower naturally shone even more brightly. After reading all day, Jace looked out the window — everything in his vision seemed to be covered in a layer of dark purple-blue.
+By evening, as the sky grew darker, the crystal atop the Tower of Ilgalar naturally shone even more brightly. After reading all day, Jace looked out the window — everything in his vision seemed to be covered in a layer of dark purple-blue.
 
 Jace went downstairs and came outside. Grede had already been sitting under the tree early on, staring up at the top.
 
@@ -26,7 +26,7 @@ Keeping him company in staring were the two felhounds crouching not far away. Th
 
 "Staring at it for too long makes you feel like your soul's being sucked in, Jace," Grede muttered. "You can try it too."
 
-Jace glanced at the Ursolus placed at his side, then asked the dwarf, "Do you know what it feels like to have your soul drained?"
+Jace glanced at Ulthalesh, placed at his side, then asked the dwarf, "Do you know what it feels like to have your soul drained?"
 
 "Don't put on that innocent look, you warlock who messes around with succubi every day," Grede said, pointing up high. "Just stare at it carefully and you'll know."
 
@@ -80,7 +80,7 @@ This was the feeling.
 
 "Yulaxinka, Bistanta." Jace chanted the incantation once more. This time he drew power directly from the crystal, slowly gathering an extremely unstable shadow core in his hand.
 
-This somewhat "fragile" shadow sphere was far less powerful than the Shadow Bolts he conjured when casting on his own, let alone the Shadow Bolts he summoned using the Ursolus, which were comparable to some kind of soul bomb.
+This somewhat "fragile" shadow sphere was far less powerful than the Shadow Bolts he conjured when casting on his own, let alone the Shadow Bolts he summoned using Ulthalesh, which were comparable to some kind of soul bomb.
 
 But the most important thing was that summoning this mass of shadow had cost him almost no mana.
 
@@ -94,8 +94,6 @@ Because the spell had to be cast quickly, Shadowstep didn't have the dedicated c
 
 For demons, this was much simpler. Demons like the sayaad were practically lumps of shadow and fel energy condensed into flesh. But mortals couldn't move the way Morophil did, so in the game, the rogue's Shadowstep was designed as a long-cooldown ability for a reason.
 
-?
-
 But what about now? Jace looked at the Taralfsin Crystal, thinking — what if he used the crystal to channel shadow mana to fuel Shadowstep?
 
 He set his sights on Morophil at the window, once again establishing a connection with the crystal through his consciousness, driving the shadow power within to surge over and wrap around him…
@@ -108,7 +106,7 @@ Suddenly, Jace felt as though this force had lost its momentum all at once. He w
 
 In his peripheral vision, Morophil at the window had already grabbed the window frame, as if she wanted to leap out and catch Jace directly. But in that instant, Jace directly used his own mana to drive Shadowstep and flashed behind the succubus — except his body still carried the inertia of being suspended in midair and hadn't found solid footing, so he inevitably stumbled several steps forward and crashed into an empty storage rack.
 
-Morophil turned her head to look at Jace, smiling as if looking at a clumsy student. "I thought the master of the Ursolus was going to fall to death outside his own mage tower, darling."
+Morophil turned her head to look at Jace, smiling as if looking at a clumsy student. "I thought the master of Ulthalesh was going to fall to death outside his own mage tower, darling."
 
 Jace gave an embarrassed laugh. From below came Grede's roar.
 

@@ -22,11 +22,11 @@ Looks like if Illidan still planned to flee to Outland someday, things would be 
 
 And then it hit him — compared to Dar'Khan's death, Veras Darkshadow's was nothing at all.
 
-During the Scourge invasion a decade and a half from now, the death knight Arthas, leading his undead armies, would raze Lordaeron and march straight through the Wilde into Quel'Thalas. It was Dar'Khan — then a high-ranking member of the Magisters' Platform — who, in exchange for the dark power promised by the Lich King, sabotaged the Ban'dinoriel barrier from within, leaving Silvermoon caught completely off guard.
+During the Scourge invasion a decade and a half from now, the death knight Arthas, leading his undead armies, would raze Lordaeron and march straight through the Eastweald into Quel'Thalas. It was Dar'Khan — then a high-ranking member of the Magisters' Terrace — who, in exchange for the dark power promised by the Lich King, sabotaged the Ban'dinoriel barrier from within, leaving Silvermoon caught completely off guard.
 
-The Ban'dinoriel... a defense that even the Dragonmaw clan's red dragon armies couldn't break head-on. Even Gul'dan himself would have had to start scheming at the barrier-anchor stones. And because of this archmage's betrayal, Arthas's undead legions marched into the Eversong Forest without the slightest resistance.
+The Ban'dinoriel... a defense that even the Dragonmaw clan's red dragon armies couldn't break head-on. Even Gul'dan himself would have had to start scheming at the barrier-anchor stones. And because of this archmage's betrayal, Arthas's undead legions marched into the Eversong Woods without the slightest resistance.
 
-Then came the fall of Silvermoon, the collapse of the Sunwell and the rebirth of Kel'Thuzad, the coming of the Defiler Archimonde to Lordaeron...
+Then came the fall of Silvermoon, the collapse of the Sunwell and the rebirth of Kel'Thuzad, the coming of Archimonde the Defiler to Lordaeron...
 
 And now he was dead.
 
@@ -34,9 +34,9 @@ A sudden jolt of pain snapped Jace from his thoughts. He gasped and sat back dow
 
 A wave of dull, heavy pain surged through his leg. Jace tore open his already-ripped trousers to look — there was no visible wound where it hurt, and he didn't recall any of these high elves striking him there.
 
-This was probably pain he'd taken for Morfile through the soul link. He just hadn't noticed because he'd been too focused.
+This was probably pain he'd taken for Morophil through the Soul Link. He just hadn't noticed because he'd been too focused.
 
-Morfile had hidden herself away somewhere by now. Even if it weren't for the need to keep Jace's secrets hidden, she probably had no desire to face the priest up ahead.
+Morophil had hidden herself away somewhere by now. Even if it weren't for the need to keep Jace's secrets hidden, she probably had no desire to face the priest up ahead.
 
 Morgan seemed to snap back to awareness at the sound from Jace's direction. He came running over. "Jace, how are you?"
 
@@ -88,7 +88,7 @@ Jace adjusted the staff on his back and waved a hand. "I can walk. Keep an eye o
 
 Morgan nodded. Jace made his way along the rows of headstones, bracing against each one. Only now did he notice his hands were soaked with the dark blood of Ulthalesh.
 
-Honestly, he'd expected the Dark Shield he channeled with Ulthalesh's blessing to hold up a little better against Dar'Khan's magic.
+Honestly, he'd expected the Shadow Shield he channeled with Ulthalesh's blessing to hold up a little better against Dar'Khan's magic.
 
 Dar'Khan's magical strength probably had something to do with that extraordinary staff in his hand. Jace glanced that way. Dar'Khan had the staff pinned under his body right now, so it was hard to make out.
 
@@ -120,11 +120,11 @@ Morgan suddenly spoke from behind in the distance. "Maybe we should leave soon, 
 
 "I know," Jace answered. The ranger sitting on the ground grabbed Jace's cloak. "Don't leave me here, Master Sesso. I won't survive the night. I can testify that it was Dar'Khan and his lot who struck first, out of sheer greed, with the goal of killing you... and I was one of them, but I was coerced. I'll vouch for you, and you spared my life knowing my plight."
 
-"Please, Master Sesso. Lady Vereesa is my superior and my role model, and General Sylvanas Windrunner goes without saying. I already know my mistake and my hopeless stupleness... I'm willing to accept punishment."
+"Please, Master Sesso. Lady Vereesa is my superior and my role model, and General Sylvanas Windrunner goes without saying. I already know my mistake and my hopeless stupidity... I'm willing to accept punishment."
 
 "All right, all right." Jace said. "Do you know what Dar'Khan's staff was?"
 
-Maela seemed to grab a lifeline again. "Yes, yes. The Staff of the Torrent — the staff of the magisters' leader, the Archmagister, Master Sesso. Dar'Khan borrowed it from Archmagister Belor'al, under the pretense of helping the Kingdom of Stormwind clear out remnant demons and the dark influence in this area... If I hadn't seen him carrying that staff, I never would have believed him so easily."
+Maela seemed to grab a lifeline again. "Yes, yes. The Staff of the Torrent — the staff of the magisters' leader, the Grand Magister, Master Sesso. Dar'Khan borrowed it from Grand Magister Belo'vir, under the pretense of helping the Kingdom of Stormwind clear out remnant demons and the dark influence in this area... If I hadn't seen him carrying that staff, I never would have believed him so easily."
 
 Jace looked over at the staff with some surprise — right now only the silver handle was visible — hardly believing that was truly the possession of the guardian of the Sunwell and Silvermoon.
 
@@ -132,4 +132,4 @@ Dar'Khan had actually brought that thing out just to kill him?!
 
 "Morgan," he called. "Search that magister's body. We need to take his staff back to the elves."
 
-Morgan answered. But looking at Dar'Khan's corpse, he still seemed hesitant. Jace even suspected that after fighting the undead in the Great Graveyard all this time, he'd never actually killed a living person.
+Morgan answered. But looking at Dar'Khan's corpse, he still seemed hesitant. Jace even suspected that after fighting the undead in the Raven Hill Cemetery all this time, he'd never actually killed a living person.

@@ -1,30 +1,30 @@
 ## Chapter 1305: The Fel Flame of Karabor
 
-The red dragons shook off their saddles and ropes one by one. In the blink of an eye, the Dragonmaw elite that had nearly brought the battle to a stalemate became yet another weapon for assaulting the Dragonmaw Fortress!
+The red dragons shook off their saddles and ropes one by one. In the blink of an eye, the Dragonmaw elite that had nearly brought the battle to a stalemate became yet another weapon for assaulting Dragonmaw Fortress!
 
-Even at this moment, Gellorion could hardly believe Jace had convinced the red dragons with just a drop of his blood. After all, these whelps had been fighting alongside orc riders against the Alliance for years.
+Even at this moment, Gorlorio could hardly believe Jace had convinced the red dragons with just a drop of his blood. After all, these whelps had been fighting alongside orc riders against the Alliance for years.
 
-But when she saw the blue-glowing blade Jace held, she stopped questioning.
+But when he saw the blue-glowing blade Jace held, he stopped questioning.
 
-The scales of Malygos the Spellweaver. Something no black dragon with any conscience left could look upon... What would drive the nearly mad Aspect of the Arcane to forge his own scales into a weapon and gift it to a mortal? Paired with Queen Alexstrasza's blessing-blood, everything spoke for itself.
+The scales of Malygos the Spell-Weaver. Something no black dragon with any conscience left could look upon... What would drive the nearly mad Aspect of the Arcane to forge his own scales into a weapon and gift it to a mortal? Paired with Queen Alexstrasza's blessing-blood, everything spoke for itself.
 
-As fast as gryphons were, they couldn't match the hatred-driven red whelps. Those creatures shrieked as they dove at the Dragonmaw Fortress, spraying blinding dragonfire without regard for their own lives at the orc soldiers advancing on the walls and charging up the stairs toward the paladins.
+As fast as gryphons were, they couldn't match the hatred-driven red whelps. Those creatures shrieked as they dove at Dragonmaw Fortress, spraying blinding dragonfire without regard for their own lives at the orc soldiers advancing on the walls and charging up the stairs toward the paladins.
 
-The doomguards had already fled in fear of Morofel's power. Without the felstalkers and red dragon riders, this fortress had become nothing more than a plaything for countless aerial giants.
+The doomguards had already fled in fear of Morophil's power. Without the Skybreakers and red dragon riders, this fortress had become nothing more than a plaything for countless aerial giants.
 
 Amid the red dragons' screams and cries, two more red dragons burst furiously from the pens and roofless enclosures deep in the fortress, tearing apart the orc beastmasters who tried to stop them, straining against every restraint to take flight and join the battle.
 
-Realizing the fortress had lost its elite air force, and seeing more and more fel orcs — both red dragon and black dragon bloodlines — the orcs felt fear even through their twice-infused demon blood.
+Realizing the fortress had lost its elite air force, and seeing more and more dragons — red and black alike — the fel orcs felt fear even through their twice-infused demon blood.
 
 The defenders' will crumbled like a breached dam. Some rolled down stairs, others toppled from the walls... But then, from far in the north, thunderous laughter rolled across the sky.
 
----More squirming worms beneath my black walls! Have you not learned your lesson yet, hmm?!
+— More squirming worms beneath my black walls! Have you not learned your lesson yet, hmm?!
 
-"Magtheridon's legion is coming," Gellorion's voice warned from a distance.
+"Magtheridon's legion is coming," Gorlorio's voice warned from a distance.
 
 "Hold the walls!" Jace shouted up at the whelps flying overhead. "I'll find your prince!"
 
-As he spoke, he caught sight of green fel-fireballs tearing through the black clouds high above the whelps, hurtling straight down toward the Dragonmaw Fortress. The hum of fel energy roared in waves...
+As he spoke, he caught sight of green fel fireballs tearing through the black clouds high above the whelps, hurtling straight down toward Dragonmaw Fortress. The hum of fel energy roared in waves...
 
 Magtheridon must have realized that once the doomguard legion flew over, everything would be too late. So he'd simply summoned infernals!
 
@@ -32,17 +32,17 @@ A fire meteor slammed into a tower on the wall, causing an explosion. Within the
 
 More fire meteors fell one after another, causing violent explosions as they climbed from their craters and rampaged against any living thing in sight — orc, dragon, or Farstrider. One came straight at Jace, but before it could land, an adult black dragon's tail smashed it midair, scattering it into a spray of sparks across the yard.
 
-In the distance, Gellorion had climbed the wall. She swatted the infernal clinging to the tower into pieces with one claw. The adult female dragon looked at him, then turned back to Jace and roared, "Get the Expedition moving, Jace Sesso... The Blackwing Legion isn't new to fighting infernals. Staying here is just a waste of your mana!"
+In the distance, Gorlorio had climbed the wall. He swatted the infernal clinging to the tower into pieces with one claw. The adult female dragon looked at him, then turned back to Jace and roared, "Get the Expedition moving, Jace Sesso... The Blackwing Legion isn't new to fighting infernals. Staying here is just a waste of your mana!"
 
-Jace grunted in acknowledgment, downed a Shadow Protection Potion, leaped straight off the wall, and in a blur of shadow, darted past fallen orc and demon corpses to reach Morofel's side.
+Jace grunted in acknowledgment, downed a Shadow Protection Potion, leaped straight off the wall, and in a blur of shadow, darted past fallen orc and demon corpses to reach Morophil's side.
 
 He blasted a scorching spell that shattered the legs of an orc still charging at him with a battleaxe, then yelled, "Follow me!"
 
-Morofel turned to look at her master and smiled. "Whatever you say, dear." As if all the fighting, all the orc and demon corpses scattered around, were someone else's work. She might as well have been a bystander who'd watched the whole thing.
+Morophil turned to look at her master and smiled. "Whatever you say, dear." As if all the fighting, all the orc and demon corpses scattered around, were someone else's work. She might as well have been a bystander who'd watched the whole thing.
 
-Ahead and above, three paladins of the Silver Hand had pursued the fleeing fel orcs to the fortress's main gate. As Jace and Morofel approached, a dozen heavily armored fel orcs charged from a side path, black shields and long spears raised, heading straight for the paladins.
+Ahead and above, three paladins of the Silver Hand had pursued the fleeing fel orcs to the fortress's main gate. As Jace and Morophil approached, a dozen heavily armored fel orcs charged from a side path, black shields and long spears raised, heading straight for the paladins.
 
-Jace summoned a wall of shadow flame from a distance, cutting across between the fel orcs to block their advance. Those who touched the flames were quickly consumed. The rest didn't know whether to charge or flee, and were soon cut down one by one by the advancing paladins.
+Jace summoned a wall of Shadowflame from a distance, cutting across between the fel orcs to block their advance. Those who touched the flames were quickly consumed. The rest didn't know whether to charge or flee, and were soon cut down one by one by the advancing paladins.
 
 Then, with a cry of agony, a paladin tumbled from a distance, rolling a few times before collapsing unconscious.
 
@@ -54,7 +54,7 @@ Their skin was a dark shade like a black dragon's, and dragon blood ran through 
 
 This wasn't a pure black dragon bloodline like Broodlord Lashlayer. In a sense, he'd already become a "Netherwing dragonkin."
 
-A paladin ran over, kneeling, calling on the Holy Light to heal his wounded brother. Two other paladins struck down a few fel orcs trying to stop them and charged toward the dragonkin. Jace and Morofel naturally followed close behind.
+A paladin ran over, kneeling, calling on the Holy Light to heal his wounded brother. Two other paladins struck down a few fel orcs trying to stop them and charged toward the dragonkin. Jace and Morophil naturally followed close behind.
 
 But longer reach was a real advantage. This dragonkin's crystalline warhammer was far longer than the paladins' swords and hammers, and with his size, he swung it like a tireless, frenzied windmill — nearly impossible to get close to...
 
@@ -62,31 +62,31 @@ A beam of multicolored light streaked past Jace's ear, piercing straight into th
 
 Vereesa Windrunner jumped down from a nearby burning wooden tower, landing on the ground. She spat out something in Thalassian with disgust.
 
-A four-person Farstrider squad followed Vereesa down from the tower and caught up. The paladin captain up front, wielding a warhammer, noticed the reinforcements and raised his weapon with a shout. "Lady Vereesa, Master Sesso! Their stronghold is right here. By the Holy Light, let's charge in together!"
+A four-person Farstrider squad followed Vereesa down from the tower and caught up. The paladin captain up front, wielding a warhammer, noticed the reinforcements and raised his weapon with a shout. "Lady Vereesa, Master Sesso! Their stronghold is right here. By the Light, let's charge in together!"
 
-"Let's go!" Vereesa turned back to Jace and Morofel as they reached her. "I told you I'd come."
+"Let's go!" Vereesa turned back to Jace and Morophil as they reached her. "I told you I'd come."
 
 Jace nodded. Overhead, infernal meteors continued to streak across the sky. The red and black dragons' flame breaths crisscrossed wildly, ravaging the infernals rising one by one on the walls and towers.
 
 They couldn't waste a single moment now. The infernal assault didn't mean the doomguards weren't coming. These infernal vanguards were definitely buying time for the reinforcements from Karabor...
 
-Vereesa led the Farstrider squad and the two remaining paladins who could still fight, along with Jace and Morofel, charging into the fortress interior. This was a rather old hall — the chaos of shouts and explosions outside made it feel eerily silent in here.
+Vereesa led the Farstrider squad and the two remaining paladins who could still fight, along with Jace and Morophil, charging into the fortress interior. This was a rather old hall — the chaos of shouts and explosions outside made it feel eerily silent in here.
 
 But no one had time to admire the Dragonmaw clan's interior decoration. At the back of the hall, a gaping maw-like doorway led into a pitch-black passage. Since dragonkin were guarding the area outside, whatever was deep in this passage had to be something incredibly important related to dragons. And what that was, there was no doubt.
 
-Vereesa and Morofel charged in side by side. The dark passage spiraled downward.
+Vereesa and Morophil charged in side by side. The dark passage spiraled downward.
 
-As they passed a wooden wall, Morofel suddenly looked at it. Before she could say anything, a violent explosion blew the whole wall inward. The fel fire shockwave blasted the Farstriders ahead off the stairs entirely. The paladins and Jace behind were partially shielded by the stone pillar at the spiral staircase's center, but the shockwave still knocked the lead paladin flat, blood spilling from his mouth.
+As they passed a wooden wall, Morophil suddenly looked at it. Before she could say anything, a violent explosion blew the whole wall inward. The fel fire shockwave blasted the Farstriders ahead off the stairs entirely. The paladins and Jace behind were partially shielded by the stone pillar at the spiral staircase's center, but the shockwave still knocked the lead paladin flat, blood spilling from his mouth.
 
-An infernal golem smashed its way into the passage, swinging a fist at Morofel. The succubus caught it with her bare hands, the two locked in a contest of strength. The infernal roared in fury, and the violent fel flames erupting from it roasted the narrow passage relentlessly.
+An infernal golem smashed its way into the passage, swinging a fist at Morophil. The succubus caught it with her bare hands, the two locked in a contest of strength. The infernal roared in fury, and the violent fel flames erupting from it roasted the narrow passage relentlessly.
 
-Relying on his fire resistance, Jace dragged the blast-injured paladin from the raging hellfire to safety behind him. Then he raised Ulthalesh, aiming at the infernal grappling with Morofel below — though he had no idea how effective his fire magic and shadow corruption would be on this infernal golem...
+Relying on his fire resistance, Jace dragged the blast-injured paladin from the raging hellfire to safety behind him. Then he raised Ulthalesh, aiming at the infernal grappling with Morophil below — though he had no idea how effective his fire magic and shadow corruption would be on this infernal golem...
 
 With a shout, a dwarf came flying almost horizontally through the breach the infernal had smashed in the fortress wall, warhammer in hand, scraping across the infernal's head on the way. The blow exploded the creature's skull into fragments.
 
 The dwarf slammed hard into the opposite wall and hit the ground, apparently taking a brutal fall. But he got up like nothing happened, jumped back in, and hammered the infernal's remaining limbs to pieces. The fel fire quickly sputtered out.
 
-"Can't do it without me, can you?" Grede said, shaking off the fel flames from Morofel. She just tilted her head noncommittally.
+"Can't do it without me, can you?" Grede said, shaking off the fel flames from Morophil. She just tilted her head noncommittally.
 
 "My spell was almost ready," Jace muttered, examining the paladin's injuries.
 
@@ -102,7 +102,7 @@ What lay before them was an abandoned old mine converted into a sort of "undergr
 
 Here, Jace could already feel the intense hatred saturating the underground palace. Raging void energy filled the space — similar to the void power of the rest of Draenor, but not quite the same.
 
-"Where's Sora?" Vereesa asked.
+"Where's Sola?" Vereesa asked.
 
 "She's more useful outside than in here," Grede said as he ran. "The soldiers out there are relying entirely on her nature magic!"
 
@@ -116,4 +116,4 @@ That was an exceptionally massive, powerfully built fel orc in black demonic hea
 
 And those eyes, burning with fel fire... Jace doubted they'd be so easily scratched by teeth.
 
-"The chieftain's dragon lair is guarded by Warlord Mog'dorg." The fel orc clacked his teeth, looked back at the dragonkin with scales shimmering in void-dark hues, and said in halting Common, "No one will defile Zuluhed's treasure."
+"The chieftain's dragon lair is guarded by Warlord Mor'ghor." The fel orc clacked his teeth, looked back at the dragonkin with scales shimmering in void-dark hues, and said in halting Common, "No one will defile Zuluhed's treasure."

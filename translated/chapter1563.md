@@ -34,9 +34,9 @@ Jace felt the darkness gathering beside him, making it harder to draw on shadow 
 
 But he had to land a finishing blow while the male priest's soul was still reeling, blast him back into his black coffin and end this two-on-one as fast as possible...
 
-"Thomsogas."
+"Tomthokas."
 
-He raised a Dark Shield at top speed to block whatever the female priest might throw at him next, while laying a Curse of Agony onto the male priest.
+He raised a Shadow Shield at top speed to block whatever the female priest might throw at him next, while laying a Curse of Agony onto the male priest.
 
 The male priest's soul was being devoured by shadow, his shouted prayers already sounding noticeably weaker.
 
@@ -44,17 +44,17 @@ A holy barrier flickered over the male priest—seemed like a Power Word: Shield
 
 The male priest's soul was shrinking, and the female priest beside him still hadn't attacked. Then—
 
-The last scrap of Holy Light on the male priest's dying form vanished completely, and his pale soul outline disappeared along with it. Had he been defeated, like the warrior Grull'rel before him?
+The last scrap of Holy Light on the male priest's dying form vanished completely, and his pale soul outline disappeared along with it. Had he been defeated, like the warrior Gloom'rel before him?
 
 No. Jace felt the light in the hall suddenly shift. The male priest's radiance hadn't just vanished—it had gone even darker, darker than this hall itself. He'd turned completely black!
 
-And beside him, the female priest who hadn't attacked at all suddenly erupted with a searing burst of Holy Light, scouring Jace's Dark Shield clean away in an instant—not even leaving shadow ripples in its wake.
+And beside him, the female priest who hadn't attacked at all suddenly erupted with a searing burst of Holy Light, scouring Jace's Shadow Shield clean away in an instant—not even leaving shadow ripples in its wake.
 
 Jace was thrown back, stumbling a few steps and nearly falling. His right hand, channeling shadow, was scorched red by Holy Light. The explosion from light and shadow colliding had shredded his sleeve, and he couldn't help spitting out a mouthful of blood.
 
 He looked up at the female priest again. She had shed her Shadowform completely, and somehow two streams of golden light were flaring behind her, golden flames wrapped around the battle-axe in her hands!
 
-How had she suddenly gone from a shadow axe-fighter to a full-blown Paladin?!
+How had she suddenly gone from a shadow axe-fighter to a full-blown paladin?!
 
 This time the female dwarf seemed like an entirely different soul. She charged forward with blazing courage, and Jace couldn't grab onto any fear in her heart to trigger a Fear—worse, the Holy Light radiating from her was even dispelling a good chunk of Jace's own chaotic emotions.
 
@@ -82,17 +82,17 @@ At the same time, the male dwarf's dark form peeled away layer by layer, cracked
 
 "Am I fuckin' seein' things?" a nobleman shouted.
 
-"How can he chant two spells at once? He's not a two-headed ogre!" another dwarf witchdoctor with a hoarse voice exclaimed.
+"How can he chant two spells at once? He's not a two-headed ogre!" another dwarf wizard with a hoarse voice exclaimed.
 
-"What two spells?" another witchdoctor said. "Lady Sage Hatterel caught a Mana Burn—what about Sage Valerel? His shadow energy is being..."
+"What two spells?" another wizard said. "Lady Sage Hate'rel caught a Mana Burn—what about Sage Vile'rel? His shadow energy is being..."
 
 "Stripped," Dagran Thaurissan said quietly. "That warlock knows Modgud's Dark Separation."
 
-"He's certainly a powerful wizard, but he can't overcome the trial of both Sages Valerel and Hatterel on his own. Rest assured, Your Majesty."
+"He's certainly a powerful wizard, but he can't overcome the trial of both Sages Vile'rel and Hate'rel on his own. Rest assured, Your Majesty."
 
 Jace didn't know who'd made that claim, but he couldn't exactly say it was wrong.
 
-Even though he'd temporarily stalled the female paladin's attack rhythm by mimicking Mana Burn, the male priest Valerel was still pressing the attack on the other side.
+Even though he'd temporarily stalled the female paladin's attack rhythm by mimicking Mana Burn, the male priest Vile'rel was still pressing the attack on the other side.
 
 He didn't care about having his Shadowform stripped away. After burning Jace's mana, he immediately stretched out his hands and began chanting to channel the next shadow spell. Jace felt his will being lashed over and over by waves of chilling, almost despair-inducing emotions.
 
@@ -102,31 +102,31 @@ But Jace wasn't just standing there letting the enemy torment his will with shad
 
 Two blue shades of soul and shadow tangled across the space between them—one stronger, brighter blue quickly swallowed the other.
 
-Even without Usaalus's empowerment, Jace Sesso—who'd been through a gauntlet of trials in Draenor—could command shadow power that Valerel across from him simply couldn't match. No matter how respected a dwarf priest he'd been in life, his soul had been sealed beneath Blackrock Mountain for two hundred years.
+Even without Ulthalesh's empowerment, Jace Sesso—who'd been through a gauntlet of trials in Draenor—could command shadow power that Vile'rel across from him simply couldn't match. No matter how respected a dwarf priest he'd been in life, his soul had been sealed beneath Blackrock Mountain for two hundred years.
 
-Soon, Valerel was losing ground in their shadow-cursed duel, his soul form rapidly decaying. Jace also noticed that the paladin—who'd been driven back by a Mana Burn—hadn't moved for a while.
+Soon, Vile'rel was losing ground in their shadow-cursed duel, his soul form rapidly decaying. Jace also noticed that the paladin—who'd been driven back by a Mana Burn—hadn't moved for a while.
 
 When the male dwarf's soul shadow vanished completely, that familiar feeling surfaced once again.
 
 They were about to swap again. A faint glow was already emanating from the male priest.
 
-"Luh'rak ven'kta, Lu'arak ip'ta!"
+"Luhravenkta, Luarakipta!"
 
 Seizing the opportunity, Jace shouted the Life Tap incantation. The flowing light and shadow in the hall were suddenly disrupted by this ferocious pull cutting in mid-process. The conversion failed to complete—a blaze of golden light lit the entire hall for an instant before fading.
 
 He'd guessed right. When one priest was suppressed by Jace's magic, the other would use the powerful shadow energy Jace had unleashed to convert and be reborn!
 
-These two sage souls swapped between Holy Light and Shadow the way a Naaru whose Holy Light had burned out degenerated into an Entropic One, but not quite that extreme. Jace thought they were more like the Northrend Expedition forces in the Trial of the Crusader, who received Light and Shadow blessings from the Val'kyr Twin Valkyrs. After all, they were souls, not pure energy beings.
+These two sage souls swapped between Holy Light and Shadow the way a naaru whose Holy Light had burned out degenerated into a void god, but not quite that extreme. Jace thought they were more like the Northrend Expedition forces in the Trial of the Crusader, who received Light and Shadow blessings from the Twin Val'kyr. After all, they were souls, not pure energy beings.
 
 But no matter the form, once the balance between Light and Shadow was broken, something was bound to go wrong.
 
-By now, the male priest's shadow had been completely corroded by Jace's shadow magic. He couldn't so much as flicker Holy Light and be reborn. The female priest Hatterel had lost her last shred of Holy Light protection, left as nothing but a helpless soul.
+By now, the male priest's shadow had been completely corroded by Jace's shadow magic. He couldn't so much as flicker Holy Light and be reborn. The female priest Hate'rel had lost her last shred of Holy Light protection, left as nothing but a helpless soul.
 
-Hatterel lowered her battle-axe, bowed her head slightly to Jace, and walked back to her black coffin. Across from her, the empty coffin shimmered with a faint glow, and the ghost of Sage Valerel appeared before it—the Holy Light above him much dimmer than when he'd first stepped into the center of the hall.
+Hate'rel lowered her battle-axe, bowed her head slightly to Jace, and walked back to her black coffin. Across from her, the empty coffin shimmered with a faint glow, and the ghost of Sage Vile'rel appeared before it—the Holy Light above him much dimmer than when he'd first stepped into the center of the hall.
 
-"You win, outsider," Hatterel said. "Your will is stronger than we imagined."
+"You win, outsider," Hate'rel said. "Your will is stronger than we imagined."
 
-The living dwarves watching this were dead silent. The witchdoctors stared wide-eyed. The soldiers and nobles didn't know what to say either.
+The living dwarves watching this were dead silent. The wizards stared wide-eyed. The soldiers and nobles didn't know what to say either.
 
 Dagran Thaurissan glanced up at the leader of the Seven Sages, who stood high above holding a Darkstone Staff. He too said nothing.
 

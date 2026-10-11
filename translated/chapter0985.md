@@ -2,9 +2,9 @@
 
 The Marshal Reginald Windsor of back then — no, the Major — looked spirited as a horse with its neck reared up. Scraggly light stubble, a head of dirty, messy curls that hadn't been washed in ages, and a face full of creases baked into it by the heat and dryness of Blackrock Mountain. A decade and a half from now, after being tormented by the Shadowforge City dwarves for who knows how long, Windsor would feel like an old man.
 
-And if Jace wasn't mistaken, the war hammer in his hand should be the other half of the famous Dark Iron dwarf twin hammers mentioned by Rokhtus Darkseal in Shadowforge City — The Opposer.
+And if Jace wasn't mistaken, the war hammer in his hand should be the other half of the famous Dark Iron dwarf twin hammers mentioned by Lokhtos Darkbargainer in Shadowforge City — Ironfoe.
 
-A decade and a half later, after Windsor was captured by the Dark Iron dwarves and dragged into the Hall of Order, this famous war hammer would be taken for himself by Emperor Dagran Thaurissan. Even after Windsor was rescued from Shadowforge City, he never had the chance to get it back.
+A decade and a half later, after Windsor was captured by the Dark Iron dwarves and dragged into the Halls of the Law, this famous war hammer would be taken for himself by Emperor Dagran Thaurissan. Even after Windsor was rescued from Shadowforge City, he never had the chance to get it back.
 
 But compared to all that, Jace was far more focused on that black ring on his hand. It was almost identical to the ring he'd seen in Maloriak's dream — in both size and material…
 
@@ -16,23 +16,23 @@ Jace pointed toward the entrance of the ravine behind him. "Have you been inside
 
 Windsor took a lion-emblem buckler — the design almost worn away — from one of his men, looked in the direction Jace was pointing, and asked, "Is anything special in there, Archmage? There are an awful lot of caves in this area. Some were dug out by dwarves, some were burrowed out by who-knows-what kind of monsters. Could be gnolls, could be tunnel crawlers…"
 
-Jace said, "There's a half-dead drake-man inside. This cave is his hideout."
+Jace said, "There's a half-dead dragonkin inside. This cave is his hideout."
 
-"What?" Windsor's thick, light-colored eyebrows knotted together. "Did you encounter an attack from a drake-man inside?"
+"What?" Windsor's thick, light-colored eyebrows knotted together. "Did you encounter an attack from a dragonkin inside?"
 
-"Although he's not dead yet, he poses no threat whatsoever." Jace then tried to explain: "I suspect the drake-man inside might be connected to the orc rebels, Major. Since you patrol this area often, you should know more about the orc rebels' situation."
+"Although he's not dead yet, he poses no threat whatsoever." Jace then tried to explain: "I suspect the dragonkin inside might be connected to the orc rebels, Major. Since you patrol this area often, you should know more about the orc rebels' situation."
 
-Windsor glanced deeper into the cave again, as if he was particularly concerned about this cave that held a drake-man. After a while, he nodded and said, "Yes, we've captured some orc rebels."
+Windsor glanced deeper into the cave again, as if he was particularly concerned about this cave that held a dragonkin. After a while, he nodded and said, "Yes, we've captured some orc rebels."
 
 He took the ring off his finger and handed it to Jace. "Take a look, Archmage Sesso. This thing was found on an orc rebel officer."
 
-After taking the ring, Jace examined it closely. The band was crudely made, fashioned from some kind of dark-colored metal — neither black iron nor any other common material like iron or copper-tin. The stone set in it was even darker than the band. Jace could sense a faint trace of magical energy from it, but not much stronger than the common magical-stone rings used by ordinary mage apprentices to assist with casting.
+After taking the ring, Jace examined it closely. The band was crudely made, fashioned from some kind of dark-colored metal — neither Dark Iron nor any other common material like iron or copper-tin. The stone set in it was even darker than the band. Jace could sense a faint trace of magical energy from it, but not much stronger than the common magical-stone rings used by ordinary mage apprentices to assist with casting.
 
 Sola, standing to the side, noticed how absorbed Jace was with this ring and probably guessed something.
 
 "Definitely no ordinary orc could wear this ring." Jace tried fitting it onto his thumb. "The band's too small."
 
-Windsor nodded and said, "Exactly. At first we thought this ring had been stolen by the orcs from some human or elf. But after we brought it back, nobody recognized it. Even the mages who came from the Wizard Sanctum couldn't tell what magic was on it. So far, only the dwarves from Ironforge have confirmed that the band is true silver."
+Windsor nodded and said, "Exactly. At first we thought this ring had been stolen by the orcs from some human or elf. But after we brought it back, nobody recognized it. Even the mages who came from the Wizard's Sanctum couldn't tell what magic was on it. So far, only the dwarves from Ironforge have confirmed that the band is truesilver."
 
 He continued, "I was worried about losing this ring. After all, I need to take these lads across this scorched earth on patrols and searches all the time, so I figured I might as well just wear it on my hand. I always felt this ring must have some special significance, so I've been investigating what it's actually for, but so far there's no results at all — including the orcs we captured, none of them recognized it. Those mages are worried there's some kind of hidden warlock magic attached to it… but honestly, after all this time, I haven't felt anything unusual about it at all."
 
@@ -46,18 +46,18 @@ Clearly this necromancy joke was somewhat ill-timed, and the soldiers around the
 
 Jace nodded and handed the ring back to Windsor. He hadn't decided yet whether to tell the Major before him about Maloriak, or the whole business with Lady Katrana Prestor and Onyxia.
 
-Reginald Windsor was a brave and fearless warrior — of that there was no doubt — but at the same time, he was somewhat impulsive. A decade and on, after enduring heaven-knows-how-long of imprisonment, he was still full of fiery passion. Now, in the prime of his youth, he was at his most fiery. Jace didn't know what he'd do after learning about this.
+Reginald Windsor was a brave and fearless warrior — of that there was no doubt — but at the same time, he was somewhat impulsive. A decade and a half on, after enduring heaven-knows-how-long of imprisonment, he was still full of fiery passion. Now, in the prime of his youth, he was at his most fiery. Jace didn't know what he'd do after learning about this.
 
 He was on extremely close terms with King Varian — it was said they used to be practice-sword partners. If he learned that a female black dragon was hiding in Stormwind, he probably wouldn't be able to sit still for even a second.
 
-If the connection between the stone tablets and the ring were leaked ahead of time because of this, along with Maloriak — a renegade that Nefarian was searching for everywhere — and Onyxia realized something was wrong before they were ready, then they'd be scaring the snake. That would be a disaster.
+If the connection between the stone tablets and the ring were leaked ahead of time because of this, along with Maloriak — a renegade that Nefarian was searching for everywhere — and Onyxia realized something was wrong before they were ready, then they'd have tipped their hand. That would be a disaster.
 
-"I'll send someone in to see what to do about that drake-man, Archmage Sesso." Windsor slid the ring back onto his thumb. "Rest assured, our people are very experienced at dealing with drakes."
+"I'll send someone in to see what to do about that dragonkin, Archmage Sesso." Windsor slid the ring back onto his thumb. "Rest assured, our people are very experienced at dealing with dragonkin."
 
-"It's not that I doubt your courage, but don't let anyone go in there, Major Windsor," Sola immediately warned. "There's poison gas of unknown origin in this cave. It was probably released by that drake-man to protect himself. We only made it in alive by relying on magic. Before we find a way to destroy those toxic mists, you shouldn't attempt to explore inside."
+"It's not that I doubt your courage, but don't let anyone go in there, Major Windsor," Sola immediately warned. "There's poison gas of unknown origin in this cave. It was probably released by that dragonkin to protect himself. We only made it in alive by relying on magic. Before we find a way to destroy those toxic mists, you shouldn't attempt to explore inside."
 
 "Toxic mists?" Windsor glanced inside. "All right. Thanks for the reminder. These cursed black dragons are determined to play every evil trick in the world."
 
-After saying that, he seemed to remember something and looked at Jace again, then said, "But just now you mentioned this is a drake-man connected to the orc rebels. Tell me — could this drake-man possibly know something about this ring?"
+After saying that, he seemed to remember something and looked at Jace again, then said, "But just now you mentioned this is a dragonkin connected to the orc rebels. Tell me — could this dragonkin possibly know something about this ring?"
 
 Jace exchanged a glance with Sola beside him, then said, "Currently I have some guesses that might be connected to this ring, but it's a long story. Let's talk more once we get back to camp. After all, black dragons could appear here at any time."

@@ -22,7 +22,7 @@ The city of Alterac was a completely different story. Gazing at it from a distan
 
 Was this the price of betrayal?
 
-During the Orc Wars, King Aiden Perenolde, seeing the Horde's army winning battle after battle and fearing defeat would bring upon him the same fate that had befallen Stormwind, had chosen to collude with the Horde — letting the Horde pass through the Alterac mountain passes to strike north into Westfall, and even Tirisfal.
+During the Orc Wars, King Aiden Perenolde, seeing the Horde's army winning battle after battle and fearing defeat would bring upon him the same fate that had befallen Stormwind, had chosen to collude with the Horde — letting the Horde pass through the Alterac mountain passes to strike north into the heart of Lordaeron, and even Tirisfal.
 
 After the Horde was driven back, the Stromgarde army, which had been locked in a quiet rivalry with Alterac before the war, had swiftly seized the city of Alterac under the banner of suppressing a revolt.
 
@@ -30,9 +30,9 @@ Just as Perenolde had wished, the city's walls hadn't been touched by orcs or og
 
 Afterward, no one in the entire Alliance was willing to help the heir to the Perenolde family that Terenas II had put forward rebuild the city.
 
-Not to mention, the city was currently occupied by Stromgarde's Torbain. If the Lordaeron-backed heir Oriden Perenolde didn't take the throne, it would be annexed by the Kingdom of Stromgarde.
+Not to mention, the city was currently occupied by Stromgarde's Trollbane. If the Lordaeron-backed heir Aliden Perenolde didn't take the throne, it would be annexed by the Kingdom of Stromgarde.
 
-The nations of the Alliance were unwilling to see the descendants of a traitor receive aid. And they were even less willing to help the geographical heir of the Arathi Empire ascend the Alterac peaks once more — it almost carried the weight of fate, or an omen.
+The nations of the Alliance were unwilling to see the descendants of a traitor receive aid. And they were even less willing to help the geographical heir of the Arathorian Empire ascend the Alterac peaks once more — it almost carried the weight of fate, or an omen.
 
 By evening, when the caravan approached the gates of Alterac, Jace saw those red banners fluttering atop the city walls. A large number of Stromgarde soldiers were gathered at the gate, dressed in heavy military uniforms, clustered in groups, subjecting every caravan and traveler that arrived to strict inspection.
 
@@ -50,7 +50,7 @@ Still, what Grede said wasn't exactly wrong. Jace peered through the city gate �
 
 Of course, it was cold, and it had already gotten dark. But for a kingdom's capital, having this few people on the main street by the city gate was beyond ridiculous.
 
-The Kingdom of Alterac, despite once boasting the most formidable army of the seven kingdoms, had never been a large nation.
+The Kingdom of Alterac, despite once boasting the most formidable army of the Seven Kingdoms, had never been a large nation.
 
 Dalaran aside, Alterac was the smallest of the other six kingdoms, in both population and territory. And Alterac was far from as wealthy as Dalaran, nor did it carry the same weight in influence.
 
@@ -78,11 +78,11 @@ The person was dressed in thick clothes and moved without making a sound. Grede 
 
 "Yes."
 
-"Want to try the warmth of the Alterac snow mountains? Just two silver."
+"Want to try the warmth of the snowy Alterac Mountains? Just two silver."
 
 "Sorry…" Jace said helplessly.
 
-"One silver then, Tirisfal sir." She pulled open her collar, revealing a jutting collarbone traced with purple veins.
+"One silver then, sir from Tirisfal." She pulled open her collar, revealing a jutting collarbone traced with purple veins.
 
 Only then did Jace get a clear look at her skin and features. She wasn't as old as he'd thought — it was just that her voice sounded hoarse, like someone well into her years.
 
@@ -128,7 +128,7 @@ Jace was stunned for a moment. Grede just sighed — whether from helplessness o
 
 Jace knew Grede was right. Things he knew couldn't be expected to be clear to everyone. Things he found simple couldn't possibly be simple for everyone. He was really just feeling a bit anxious on that woman's behalf.
 
-Grede went on, "A young woman with no ability to defend herself — if it were you, would you dare go wandering outside with a caravan of travelers on your own? The only reason she dared come up to you is because you look like a good person. It shows she's got a good eye for people, Jace — she nails it every time. You're an out-and-out pushover, that's what you are. I figure if she'd spoken a few words of orcish, you really would have taken her with you."
+Grede went on, "A young woman with no ability to defend herself — if it were you, would you dare go wandering outside with a caravan of travelers on your own? The only reason she dared come up to you is because you look like a good person. It shows she's got a good eye for people, Jace — she nails it every time. You're an out-and-out pushover, that's what you are. I figure if she'd spoken a few words of Orcish, you really would have taken her with you."
 
 "How am I a pushover?" Jace cleared his throat and said in a low voice. "I know so much dark magic — I'm absolutely a dangerous character."
 
@@ -138,19 +138,10 @@ With that, he leaned in and asked quietly, "Jace, you haven't ever been kissed b
 
 "Yes!" Jace said firmly.
 
-Grede pinched Jace's face and said, "Didn't expect you to look like such a slut on the outside but be so proper on the inside. Weren't you talking about messing around with trolls the other day? And now a human kisses you and your face gets hot enough to fry meat."
+Grede pinched Jace's face and said, "Didn't expect you to look like such a rake on the outside but be so proper on the inside. Weren't you talking about messing around with trolls the other day? And now a human kisses you and your face gets hot enough to fry meat."
 
 Jace swatted Grede's hand away. "Let go! It's just the cold."
 
 He glanced back at the door. Aside from the wind and snow that blew past now and then, there was no one left outside.
 
 A man in a heavy cloak walked to the door, slammed it shut with a bang, muttered something in complaint, and went back to the kitchen behind the inn.
-
-## Flags
-
-- **Aiden Perenolde (艾登·匹瑞诺德国王):** the traitor king of Alterac. Not in glossary. Rendered as proper name.
-- **Oriden Perenolde (奥里登·匹瑞诺德):** the Lordaeron-backed heir. Not in glossary.
-- **Torbain (托尔贝恩):** the Stromgarde figure occupying Alterac. Not in glossary. (Distinct from the canonical Daval Prestor/Torbain confusion — flagged.)
-- **"rising from the ashes":** idiom for Stormwind's reconstruction. Not a glossary term.
-- **"pushover":** Grede's description of Jace. Kept colloquial register.
-- **"slut":** Grede's teasing word for Jace's appearance. Kept the banter tone — not a glossary term.

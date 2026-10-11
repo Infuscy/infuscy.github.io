@@ -4,9 +4,9 @@ The infernal that had destroyed the north wall's main gate was so massive that e
 
 The infernal comets that followed seemed endless, one after another slamming into walls and watchtowers, rising from the rubble to continue their destruction.
 
-They not only ignited entire stretches of wall and districts, but also pinned down the bulk of the aerial forces that had been engaging the doomguards. The Eredar, previously suppressed, came surging back. The defenders on the south wall quickly found themselves caught in a pincer, barely hanging on.
+They not only ignited entire stretches of wall and districts, but also pinned down the bulk of the aerial forces that had been engaging the doomguards. The Ered'ruin, previously suppressed, came surging back. The defenders on the south wall quickly found themselves caught in a pincer, barely hanging on.
 
-With more and more felhounds scaling the walls, the mages — whose casting had already been severely weakened by the unstable Ley-lines — were even less useful. Facing these crazed fel-beasts, Lordaeron's defenders no longer even held the numerical advantage.
+With more and more felhounds scaling the walls, the mages — whose casting had already been severely weakened by the unstable ley lines — were even less useful. Facing these crazed fel-beasts, Lordaeron's defenders no longer even held the numerical advantage.
 
 Disjointed horns sounded from the western wall as well. Demonic fire raged there. A Silver Hand commander — Jace couldn't see or hear clearly who it was, maybe Sir Gavinrad, maybe another Silver Hand member — was rallying soldiers to reinforce the western wall.
 
@@ -48,23 +48,23 @@ A patch of dreamlike rainbow passed across the already fouled sky. Jace knew tha
 
 A massive, pale pink shape spread its wings, revealing a deep green dragon beneath. A golden crescent moon crest adorned her head, forming a crown-like ornament with her branch-like horns. The scales on her belly and her wide wing webbing were a dreamlike pale purple. In this pitch-black world, she seemed like a fairy cutting through all filth.
 
-"Queen Ysera!" a red whelp cried in draconic. "The Dream Queen has arrived!"
+"Queen Ysera!" a red drake cried in Draconic. "The Dream Queen has arrived!"
 
 Jace knew — even though he'd never seen her before, only heard legends — he recognized her instantly.
 
-Beside her, a flock of green whelps emerged from the Dream's veil, diving down. They sprayed choking poison mist across the demons on the walls. Sleeping breath soon covered half the city. Several infernals rampaging through the city were dispelled of their demon-fire by the green dragons' magic, cooling into immobile black stone.
+Beside her, a flock of green drakes emerged from the Dream's veil, diving down. They sprayed choking poison mist across the demons on the walls. Sleeping breath soon covered half the city. Several infernals rampaging through the city were dispelled of their demon-fire by the green dragons' magic, cooling into immobile black stone.
 
 Queen Ysera swept over the city and crossed the southern wall. The felhounds and felguards climbing the outside seemed to go mad, roaring and falling, crashing into the demons behind them. Screams echoed across the frozen abyss.
 
 The green dragon queen glanced at Jace. Just one look — no audible words — and Jace heard her voice in his mind and heart.
 
-"Dalaran is besieged by several powerful demon lords, including Mannoroth. The Twisting Nether magic of the Legion's gate, combined with the Ley-line threads seized by the Defiler, is empowering their wicked forces. Until more defenders arrive to break the Burning Legion's invasion, everyone must hold. I will help you evacuate this city, protect the innocent souls here, and weaken Archimonde's power as much as possible — buying you the time and opportunity to reach Dalaran and support the others..."
+"Dalaran is besieged by several powerful demon lords, including Mannoroth. The Twisting Nether magic of the Legion's gate, combined with the ley line threads seized by the Defiler, is empowering their wicked forces. Until more defenders arrive to break the Burning Legion's invasion, everyone must hold. I will help you evacuate this city, protect the innocent souls here, and weaken Archimonde's power as much as possible — buying you the time and opportunity to reach Dalaran and support the others..."
 
 From the reactions of the paladins and defenders on the wall, it seemed everyone could hear the Dream Queen's voice.
 
 Ysera's words grew faint as she flew away, but her brief appearance over this section of wall was enough to turn the tide.
 
-The mortal warriors who had been on the verge of despair, fighting with everything they had, seemed to snap back into peak form in an instant. Their wounds healed at a visible rate. Fel-fire burns mended.
+The mortal warriors who had been on the verge of despair, fighting with everything they had, seemed to snap back into peak form in an instant. Their wounds healed at a visible rate. Fel fire burns mended.
 
 One by one, they raised their weapons again, shouting, "For the Alliance!" "For Lordaeron!" as they bravely surrounded the demons that hadn't yet been driven mad by the illusion magic.
 
@@ -90,9 +90,9 @@ But someone like Arthas or Turalyon — nobles who'd grown up in court — would
 
 "At once, Your Highness!"
 
-Gryphon riders took wing, heading in different directions. Vereesa whistled for a dragonhawk, vaulting onto it with practiced ease. "I'll go tell Sylvanas to rally the Farstriders and other Quel'dorei to meet you. Prince Arthas. Marshal Turalyon..."
+Gryphon riders took wing, heading in different directions. Vereesa whistled for a dragonhawk, vaulting onto it with practiced ease. "I'll go tell Sylvanas to rally the Farstriders and other Quel'dorei to meet you. Prince Arthas. General Turalyon..."
 
-"Light be with you, Ranger-Lord!" Arthas shouted.
+"Light be with you, Ranger Lord!" Arthas shouted.
 
 "Light be with you, Vereesa." Turalyon called. "Tell Sylvanas — I'll be waiting at the canal bend near the Dalaran Embassy."
 
@@ -100,9 +100,9 @@ Gryphon riders took wing, heading in different directions. Vereesa whistled for 
 
 "See you by the canal."
 
-The Ranger-Lord flashed a quick smile, turned her dragonhawk, and plunged into the smoke and demon-fire toward the distant wall.
+The Ranger Lord flashed a quick smile, turned her dragonhawk, and plunged into the smoke and demon-fire toward the distant wall.
 
-Arthas shouted for everyone to retreat as he strode down the steps, engaging felhounds and Eredar.
+Arthas shouted for everyone to retreat as he strode down the steps, engaging felhounds and Ered'ruin.
 
 The dozen or so demons that had slipped through hadn't even exchanged a full round with the Lordaeron soldiers before they fell screaming in the shadow's magical light. Flesh and bones shriveled into blackened, corroded things.
 
@@ -110,7 +110,7 @@ Everyone looked back at the warlock. Jace just flicked his soul-fire-burning bon
 
 The night sky was suffocatingly dark. The torchlight flickering through the streets struggled weakly.
 
-Lordaeron's forces followed the canal toward the Dalaran Embassy. That was where the city's largest sewer entrance to the Undercity was. After the infernal rain, many doomguards and fear-fiends had landed here. The streets were littered with dead demons, defenders, and citizens who hadn't managed to flee.
+Lordaeron's forces followed the canal toward the Dalaran Embassy. That was where the city's largest sewer entrance to the Undercity was. After the infernal rain, many doomguards and terrorguards had landed here. The streets were littered with dead demons, defenders, and citizens who hadn't managed to flee.
 
 Every knight, priest, and soldier had a tight expression. Jace knew what that meant. It was entirely possible the Undercity was already crawling with demons. Maybe even the sewer exits had been sealed by the Burning Legion.
 
@@ -120,7 +120,7 @@ Even if all exits were blocked, retreating into the Undercity and making a last 
 
 Maybe they could hold out until reinforcements arrived. Queen Ysera had come, after all.
 
-Don't kid yourself. We're all going to die here. Every living thing. Every mortal soul.
+*Don't kid yourself. We're all going to die here. Every living thing. Every mortal soul.*
 
 Jace felt the last flicker of hope in his heart being snuffed out by a suffocating force. But this force wasn't coming from within — it was external.
 

@@ -4,15 +4,15 @@
 
 The Dark Iron warlock led the three (four) guests into the corridor behind the stone hall, explaining as he walked. "This spell was known to the dwarves before I was born... but back then the success rate wasn't high. The demon researchers of earlier generations found it in a tome recorded by a mysterious female warlock — that warlock might have been a fugitive from Dalaran, or a descendant of the Highborne, or a lucky soul who'd received pointers from a great demon..."
 
-"Dathmora," Jace said.
+"Dasmora," Jace said.
 
-"You know the name of Dathmora." Molus turned back in surprise, then seemed to think of something. "That's not strange either. Dathmora's tomes are something many warlocks who seek to advance can't avoid. Unfortunately, it's precisely for that reason that they've suffered the most burning and destruction... Aside from our kindred and the shadow scholars of Quel'Thalas, there aren't many who still collect her personally authored works."
+"You know the name of Dasmora." Molus turned back in surprise, then seemed to think of something. "That's not strange either. Dasmora's tomes are something many warlocks who seek to advance can't avoid. Unfortunately, it's precisely for that reason that they've suffered the most burning and destruction... Aside from our kindred and the shadow scholars of Quel'Thalas, there aren't many who still collect her personally authored works."
 
-Hearing the two of them mention Dathmora, Sola glanced with some puzzlement at Ursulus, who was bound tightly on Jace's back.
+Hearing the two of them mention Dasmora, Sola glanced with some puzzlement at Ulthalesh, who was bound tightly on Jace's back.
 
-Back in Winterspring, Jace and his companions had explained to Sola how Dathmora, under orders from the Burning Legion, had tried to reach Darkwhisper Gorge to search for a mysterious demon staff. But Sola had no idea how many schemes Dathmora had devised to find this staff or to seek help from the Burning Legion — these tomes were what she'd spread out to recruit helpers.
+Back in Winterspring, Jace and his companions had explained to Sola how Dasmora, under orders from the Burning Legion, had tried to reach Darkwhisper Gorge to search for a mysterious demon staff. But Sola had no idea how many schemes Dasmora had devised to find this staff or to seek help from the Burning Legion — these tomes were what she'd spread out to recruit helpers.
 
-Hearing a warlock here treat Dathmora — a mid-ranking demon driven all over Kalimdor by satyrs, the Burning Legion, and the Highborne — as a founding-patriarch-level figure, she naturally found it a little surprising.
+Hearing a warlock here treat Dasmora — a mid-ranking demon driven all over Kalimdor by satyrs, the Burning Legion, and the Highborne — as something like a founding matriarch, she naturally found it a little surprising.
 
 "Madam," Molus said after pushing open the door, "frankly, I don't see much talent in you for studying shadow magic. Even for a clanswoman who's never studied dark magic, the shadow energy on you is too thin. Though we all know the shadow opens its arms to all who are willing to accept it, differences still exist. For an apprentice like you, the process of cultivating shadow affinity is still a very long one."
 
@@ -30,7 +30,7 @@ He walked in, raising his hand so that the oil lamps in the library lit one afte
 
 It wasn't a particularly large library. Though the dark metal bookshelves were packed close together and the books arranged densely on them, the collection might be larger than expected.
 
-Several imps peeked out from among the bookshelves, softly greeting their dwarf master in demonic. Molus merely waved a hand and they darted into hiding, vanishing without a trace.
+Several imps peeked out from among the bookshelves, softly greeting their dwarf master in Demonic. Molus merely waved a hand and they darted into hiding, vanishing without a trace.
 
 "But you just said summoning magic isn't a difficult spell," Sola said.
 
@@ -40,21 +40,21 @@ Several imps peeked out from among the bookshelves, softly greeting their dwarf 
 
 "I know it sounds laughable, Master Slovakia." Molus snorted a couple of laughs. "But there are Dark Iron dwarves who even tried using suicide as part of the ritual to summon their servants. Believe me, we've tried nearly everything you can think of — not just blood... we've experimented with pretty much anything you can extract from your body, by every method imaginable. But we still lacked an advantage the orcs didn't have."
 
-Jace ventured, "Pit Lord blood?"
+Jace ventured, "Pit lord blood?"
 
 "That's right. The orcs drank Annihilan blood to gain a deeper connection with demons, and they mastered demon magic far faster than other races." Molus pulled an old book off the shelf, blew off the dust carrying a faint smell of shadow-scorching, and handed it to Jace. "This volume records the incantation, the casting process, and so on — a summary of decades of exploration by many warlocks before the Dark Portal. But it doesn't contain what I just told you, so it can only serve as a foundation for learning."
 
-Jace opened it and flipped to a random page. The book was written almost entirely in Dwarvish, though there were quite a few demonic annotations. "So what method did you find? Go drink Pit Lord blood too?"
+Jace opened it and flipped to a random page. The book was written almost entirely in Dwarvish, though there were quite a few demonic annotations. "So what method did you find? Go drink pit lord blood too?"
 
-The Dark Iron dwarf laughed. "The only Pit Lord recorded to have died on this continent is the demon jailer Azgoth, who perished at the Dark Portal. But his corpse is already in the custody of the Kirin Tor. Only a few human and mages managed to get hold of a small portion of its blood. We Dark Iron had much worse luck. But fortunately, through attempt after attempt, we found another way to simulate demon blood — by using a sacrifice incantation to ignite shadow blood..."
+The Dark Iron dwarf laughed. "The only pit lord recorded to have died on this continent is the demon jailer Azgoth, who perished at the Dark Portal. But his corpse is already in the custody of the Kirin Tor. Only a few humans and mages managed to get hold of a small portion of its blood. We Dark Iron had much worse luck. But fortunately, through attempt after attempt, we found another way to simulate demon blood — by using an Immolate incantation to ignite shadow blood..."
 
-Hearing this, Moruphil tilted her head slightly. "How... troublesome."
+Hearing this, Morophil tilted her head slightly. "How... troublesome."
 
 "That's how it is for you Burning Legion demon lords," Molus said. "We were born outside the Twisting Nether, naturally we have to walk a longer road to get close to it."
 
-Moruphil gave him a thin, humorless smile and didn't respond — probably displeased at Molus calling her a Burning Legion member, but not interested in arguing the point with this dwarf right now.
+Morophil gave him a thin, humorless smile and didn't respond — probably displeased at Molus calling her a Burning Legion member, but not interested in arguing the point with this dwarf right now.
 
-"Draw the circle with your own blood, then ignite it with a sacrifice?" Jace asked.
+"Draw the circle with your own blood, then ignite it with Immolate?" Jace asked.
 
 "You don't need to draw the whole circle. Just writing the summoner's title, name, nickname — everything... at the key points is enough for the power to be sufficient," the Dark Iron dwarf said.
 
@@ -62,9 +62,11 @@ Moruphil gave him a thin, humorless smile and didn't respond — probably disple
 
 "No problem." Molus spread his hands in a gesture of course. He glanced at the group. "Since this is an expression of good faith, I'll hold nothing back... Take this book. Oh, and Kipbip!"
 
-Shouting this, an imp darted out from behind several cabinets and ran to his feet. "What is it this time, master?" it asked in demonic.
+Shouting this, an imp darted out from behind several cabinets and ran to his feet. "What is it this time, master?" it asked in Demonic.
 
-"Come draw a summoning circle for me," the dwarf instructed in demonic. "Got it!"
+"Come draw a summoning circle for me," the dwarf instructed in Demonic.
+
+"Got it!"
 
 The imp zipped out of the library. The dwarf followed, leading the group back to the main hall. He took a jar of thick, dark liquid from a cabinet and set it on a special section of dark-metal flooring in the center, then said to the imp, "Go ahead and draw."
 
@@ -76,8 +78,8 @@ The imp nodded, bounced over to the jar, and pulled out the stopper. Jace immedi
 
 He finished his joke with a dry laugh. The imp had already finished drawing the circle with the ink, inscribing the runes on it with dwarf blood.
 
-"I once saw a human warlock summon his own Wrathguard without using any circle at all," Jace said, watching the dwarf.
+"I once saw a human warlock summon his own felguard without using any circle at all," Jace said, watching the dwarf.
 
-"You must mean Zubel." The dwarf glanced at Jace. "I know him. That fellow is a genius at demon magic. He can summon demon servants by directly burning the blood-rune in his palm, like an orcs. But for one thing I'm not skilled enough for that yet, and for another the cost is enormous... Master Slovakia, I'm only doing a demonstration, after all."
+"You must mean Zubel." The dwarf glanced at Jace. "I know him. That fellow is a genius at demon magic. He can summon demon servants by directly burning the blood-rune in his palm, like an orc. But for one thing I'm not skilled enough for that yet, and for another the cost is enormous... Master Slovakia, I'm only doing a demonstration, after all."
 
 "That's understandable," Jace said.

@@ -1,6 +1,6 @@
 ## Chapter 813: Who Breaks First?
 
-"Tighten up, all of you! Protect the sacred property of the Trade Cartel!"
+"Tighten up, all of you! Protect the sacred property of the Steamwheedle Cartel!"
 
 The captain screamed from below. Jace had already climbed up the ropes beneath the envelope and gripped the netting at the very top.
 
@@ -10,13 +10,13 @@ On an airship in this state, the dwarf didn't dare recklessly wield the power of
 
 By now the airship's entire body was tilting more and more. Jace watched himself slowly toppling backward. His boots could no longer find purchase on the ropes, and he didn't have time to hook onto anything before he slid down. The weight of his body and all his bags dragged entirely onto his arms, swinging back and forth in midair.
 
-Morofir, who had been following behind, also grabbed a rope and swung far away from him with the motion. It would be hard to swing back to Jace's side now. Her eyes were full of anxiety and fury. Jace even saw the broken bones in her trembling, and his heart ached for a moment.
+Morophil, who had been following behind, also grabbed a rope and swung far away from him with the motion. It would be hard to swing back to Jace's side now. Her eyes were full of anxiety and fury. Jace even saw the broken stumps of her wings trembling, and his heart ached for a moment.
 
-"Get back to the deck, Morofir! Help Grede hold off those fire elementals! Don't risk jumping over! Protect those gnomes. If the airship is destroyed, we'll all fall to our deaths!"
+"Get back to the deck, Morophil! Help Grede hold off those fire elementals! Don't risk jumping over! Protect those goblins. If the airship is destroyed, we'll all fall to our deaths!"
 
-His voice grew lower and hoarser. Sazeno's language curse was taking effect. His speech was gradually becoming a demon's low murmur.
+His voice grew lower and hoarser. Sazeno's Curse of Tongues was taking effect. His speech was gradually becoming a demon's low murmur.
 
-Morofir nodded, let go of her hand, slid down the envelope, and dropped onto the deck. Jace, however, needed to keep finding a way upward to help the ranger at the very top.
+Morophil nodded, let go of her hand, slid down the envelope, and dropped onto the deck. Jace, however, needed to keep finding a way upward to help the ranger at the very top.
 
 High above, an arcane arrow traced a trail of arcane light across the dark red sky. The black dragon's shadow was reflected on the envelope's surface, swaying wildly. The ropes and netting shook more and more violently, almost impossible to hold.
 
@@ -28,21 +28,21 @@ The imp clung to Jace's belt, swinging back and forth with his swaying. Besides 
 
 "Yes, yes, sir... ah, no, Master!"
 
-Sazeno hastily retracted his head. At the same time, a dragon's roar came from above, and a massive black dragon whelp flapped its wings beside the envelope, descending to Jace's eye level.
+Sazeno hastily retracted his head. At the same time, a dragon's roar came from above, and a massive black drake flapped its wings beside the envelope, descending to Jace's eye level.
 
-Its size was simply exaggerated for a whelp. Compared to the previous one that had fallen into the forest, this one looked like its child.
+Its size was simply exaggerated for a drake. Compared to the previous one that had fallen into the forest, this one looked like its child.
 
-This was definitely no ordinary whelp. Its head was covered in solid horns. The tail hammer characteristic of whelps was also covered in spikes. Its skull no longer had the full serpentine look of a whelp — instead it had a hint of crocodile to it. Jace had the feeling it was probably in the middle stage between whelp and adult.
+This was definitely no ordinary drake. Its head was covered in solid horns. The tail hammer characteristic of drakes was also covered in spikes. Its skull no longer had the full serpentine look of a drake — instead it had a hint of crocodile to it. Jace had the feeling it was probably in the middle stage between drake and adult.
 
 "Die, evil dragon!"
 
-Vereesa's shout from the top of the envelope pierced the air and reached Jace's ears clearly, despite the noise constantly bombarding his eardrums. Flames kindled between the whelp's lips. It was brewing a breath aimed straight at Vereesa!
+Vereesa's shout from the top of the envelope pierced the air and reached Jace's ears clearly, despite the noise constantly bombarding his eardrums. Flames kindled between the drake's lips. It was brewing a breath aimed straight at Vereesa!
 
 "Inkakweilakagade!"
 
 Jace resolutely pointed his finger at it. Immediately, fel energy quickly seeped in through its teeth, scales, and joints, covering the entire dragon in a fel-green glow.
 
-The whelp's fire spewed from its mouth at the same time, but instead of forming a concentrated, devastating beam, it burst forth from its mouth, splattering a chaotic wall of fire downward. Some sprayed onto the envelope, some fell into the forest, and some poured straight toward Jace!
+The drake's fire spewed from its mouth at the same time, but instead of forming a concentrated, devastating beam, it burst forth from its mouth, splattering a chaotic wall of fire downward. Some sprayed onto the envelope, some fell into the forest, and some poured straight toward Jace!
 
 Jace gritted his teeth and leaped hard to the side, trying to dodge the blast of black dragonfire. Even though he felt he'd reacted quickly, he was still half a beat too late.
 
@@ -54,9 +54,9 @@ He lowered his head and found that the places that had been burned didn't have m
 
 He patted out the flames on his robe, then noticed that the places where his cloak had been touched by fire were emitting a strange dark purple glow — especially the surface, which looked more like a layer of metallic substance.
 
-The Dragonqueen's blessing, along with Vaelastrasz's cloak, had protected him from being rendered unconscious by the black whelp's breath. But the fact that he'd withstood this blast didn't mean the ropes supporting him on the envelope could hold.
+The Dragonqueen's blessing, along with Vaelastrasz's cloak, had protected him from being rendered unconscious by the black drake's breath. But the fact that he'd withstood this blast didn't mean the ropes supporting him on the envelope could hold.
 
-The flames burned on the ropes he gripped. Charred, snapping. Jace quickly drew Song of the Azure and cast a Create Water spell to condense a patch of flames, but he still couldn't stop them from burning through strand by strand...
+The flames burned on the ropes he gripped. Charred, snapping. Jace quickly drew Azuresong and cast Conjure Water to douse a patch of flames, but he still couldn't stop them from burning through strand by strand...
 
 He was about to fall. There was no other choice.
 
@@ -64,13 +64,13 @@ Jace concentrated his mind, forgetting the danger before his eyes, and felt the 
 
 He whispered to the shadows in Demonic, surrendering himself entirely to the dark. In an instant he felt his body seized by a terrible darkness — a darkness like a beast lunging from the bottom of the abyss, grabbing his shoulders, arms, and waist, violently dragging him along the envelope's surface and throwing him out of the shadows. He rolled several times across the rough canvas before hitting the ground and lifting his head.
 
-The person in front of him gritted his teeth, turned his head, and pointed an arrow at the tip of Jace's nose, then immediately lowered it a bit and asked in surprise, "How did you..."
+The person in front of him gritted her teeth, turned her head, and pointed an arrow at the tip of Jace's nose, then immediately lowered it a bit and asked in surprise, "How did you..."
 
 It had actually worked...
 
-He had actually managed to Shadowstep right beside Vereesa! "No time to explain, Ve."
+He had actually managed to Shadowstep right beside Vereesa! "No time to explain, Vere."
 
-A piercing shriek came from the air. The massive black dragon whelp swept past before his eyes. It seemed to have shaken off the effects of the Cripple with its robust body, and was now observing the situation on the envelope, ready to dive at any moment.
+A piercing shriek came from the air. The massive black drake swept past before his eyes. It seemed to have shaken off the effects of Cripple with its robust body, and was now observing the situation on the envelope, ready to dive at any moment.
 
 Vereesa immediately turned, aimed, and loosed an arrow. The black dragon tried to make a sharp turn in the distance to dodge. The arrow grazed its spine, carving an arcane mark into its skin and drawing an angry roar from the black dragon.
 
@@ -80,7 +80,7 @@ She was drenched in sweat. Her face was covered in black soot and grime. The edg
 
 They stared hungrily, madly at the two people in the middle of the fire, as if they wanted to tear them to pieces. The flames pressed closer and closer, and the canvas covering the envelope was also charred black and snapping.
 
-The gnomes hadn't been exaggerating. This airship had indeed been built to fight the Alliance. This canvas, though he didn't know what material it was made of, seemed remarkably fire-resistant.
+The goblins hadn't been exaggerating. This airship had indeed been built to fight the Alliance. This canvas, though he didn't know what material it was made of, seemed remarkably fire-resistant.
 
 But even so, it couldn't withstand this sustained, shadow-laced fire.
 
@@ -100,17 +100,17 @@ Although the power of the shadow-corrupted black fire far exceeded the fire elem
 
 With one side gaining and the other losing ground, the two sides struggled fiercely for a while. The flames surrounding the two of them actually receded at a visible speed under this intense consumption...
 
-Gusts of wind swept in. The already severely depleted flames were quickly reduced to nothing but billowing smoke. The silhouette of the whelp high above reappeared. It flew a distance in the opposite direction of the two of them, then turned at a distance where arrows could barely reach, circling the swaying airship in the air.
+Gusts of wind swept in. The already severely depleted flames were quickly reduced to nothing but billowing smoke. The silhouette of the drake high above reappeared. It flew a distance in the opposite direction of the two of them, then turned at a distance where arrows could barely reach, circling the swaying airship in the air.
 
-Jace quickly glanced back. By now Vereesa had only a single-digit number of arrows left in her quiver. She considered each shot for a long time. The whelp also seemed to realize this ranger's arrows were running out. It could only use distance to drain her arrows, while spewing fire in hopes of destroying the envelope and burning her as much as possible.
+Jace quickly glanced back. By now Vereesa had only a single-digit number of arrows left in her quiver. She considered each shot for a long time. The drake also seemed to realize this ranger's arrows were running out. It could only use distance to drain her arrows, while spewing fire in hopes of destroying the envelope and burning her as much as possible.
 
 At this distance, Jace had almost no magic that could harm it either. Even his longest-range Shadow Bolt was hard to land because its flight speed was simply too fast and its movements too agile.
 
-The black dragon whelp banked back and forth, slowly gaining altitude, seemingly also looking for an opening to attack.
+The black drake banked back and forth, slowly gaining altitude, seemingly also looking for an opening to attack.
 
 At this moment, the airship shuddered again. Probably another rope had snapped. The envelope grew more and more unstable, as if it was about to break apart in midair.
 
-And the whelp grew more and more pleased with itself. It was even laughing. The laugh was so clear — like a sly old man laughing so hard in excitement that he coughed violently. If not for the whelp's lips vibrating with the laugh, Jace couldn't even have connected it to this sound.
+And the drake grew more and more pleased with itself. It was even laughing. The laugh was so clear — like a sly old man laughing so hard in excitement that he coughed violently. If not for the drake's lips vibrating with the laugh, Jace couldn't even have connected it to this sound.
 
 It was waiting for the airship to collapse on its own...
 
@@ -120,15 +120,15 @@ Grede's roar came from below. Jace immediately shouted back, "We're still alive!
 
 "I'm fucking worried... the airship's done for! Kill that dragon quick and stop it from breathing fire! I can't hold on much longer!" Grede bellowed at the top of his lungs. But Jace couldn't figure out what he was holding on to down there. Still, since Grede had said so...
 
-The whelp's line of sight lowered toward the envelope below. Though he didn't know what it saw, it clearly realized that the remaining fire on the airship wasn't enough to make the whole thing crash yet. So it gathered fire in its mouth again, circled around from a distance, and dove straight at them.
+The drake's line of sight lowered toward the envelope below. Though he didn't know what it saw, it clearly realized that the remaining fire on the airship wasn't enough to make the whole thing crash yet. So it gathered fire in its mouth again, circled around from a distance, and dove straight at them.
 
-"I'll slow it down. Make your shots count, Ve," Jace said.
+"I'll slow it down. Make your shots count, Vere," Jace said.
 
 "Of course," Vereesa said coolly.
 
 On the violently shaking envelope, she was almost as steady as if she were on flat ground. Jace, on the other hand, was barely managing.
 
-As the black dragon gradually flew closer, carrying a massive ball of spewed fire and bombing down, and as he hurled flames and tried to break away to fly off in another direction, Jace stood as firm as he could and roared the incantation of the Cripple once more, charging straight into the flames!
+As the black dragon gradually flew closer, carrying a massive ball of spewed fire and bombing down, and as he hurled flames and tried to break away to fly off in another direction, Jace stood as firm as he could and roared the incantation of Cripple once more, charging straight into the flames!
 
 The black dragon, struggling to climb upward, was bound all over by fel-green magic. Its movements grew slower and slower, barely able to maintain flight. Then a sharp arcane arrow pierced through its back and burst out from its chest!
 
@@ -146,23 +146,23 @@ That dragon...
 
 That black dragon had crashed onto the envelope. It was looking to settle the score with him.
 
-Even though the surroundings had been swallowed by fire, Jace could feel its presence. The black dragon was still bound by the Cripple. The fel energy's aura was clearly distinguishable.
+Even though the surroundings had been swallowed by fire, Jace could feel its presence. The black dragon was still bound by Cripple. The fel energy's aura was clearly distinguishable.
 
 That mass of chaotic and dark energy suddenly lunged fiercely from behind. Jace immediately turned. The flames in front of him were blown to both sides by a strange force whipping up a whirlwind. A ferocious black beast's skull screamed as it drilled out, opening its bloody maw!
 
 Jace nimbly dodged to the side, avoiding the mad gnashing of the giant skull. As it swept past in front of him, he roared the incantation of Curse of Agony, pointing at the neck covered in purple-red scales.
 
-The whelp, pained by the Curse of Agony, let out a low snarl and shrank back into the wall of fire again. Roars and curses echoed all around, but Jace could still feel where it was. The massive dark shadow swayed in the black smoke. Every step it took made the entire envelope tremble. That black dragon...
+The drake, pained by the Curse of Agony, let out a low snarl and shrank back into the wall of fire again. Roars and curses echoed all around, but Jace could still feel where it was. The massive dark shadow swayed in the black smoke. Every step it took made the entire envelope tremble. That black dragon...
 
 "Come over here, black dragon! If you want to avenge your dragon father, then come out! Fight me to the death!"
 
-Jace held Song of the Azure. The crystalline blue sword emitted piercing musical notes with his roar, vying with the howling of the surrounding flames and wind for dominance. The brilliant blue light nearly scattered the firelight of the surrounding flames.
+Jace held Azuresong. The crystalline blue sword emitted piercing musical notes with his roar, vying with the howling of the surrounding flames and wind for dominance. The brilliant blue light nearly scattered the firelight of the surrounding flames.
 
-The dark shadow swayed again. Jace could feel it struggling to break free from the torment of the Cripple and attack once more. For him now, it was no longer easy to shake off that magic.
+The dark shadow swayed again. Jace could feel it struggling to break free from the torment of Cripple and attack once more. For him now, it was no longer easy to shake off that magic.
 
 However, the black smoke in front of him was suddenly swept aside by something moving swiftly. A broad dragon claw shot out!
 
-The claw, wreathed in flames and black smoke, swept across. Jace didn't dodge at all. He gritted his teeth and swung his sword hard to meet the arm, which was thicker than a young oak's trunk. Song of the Azure hacked the black dragon's claw clean off as if cutting tofu, accompanied by the black dragon's sharp, miserable shriek — so loud that Jace felt like he'd spend the rest of his life suffering from this extreme, terrifying tinnitus.
+The claw, wreathed in flames and black smoke, swept across. Jace didn't dodge at all. He gritted his teeth and swung his sword hard to meet the arm, which was thicker than a young oak's trunk. Azuresong hacked the black dragon's claw clean off as if cutting butter, accompanied by the black dragon's sharp, miserable shriek — so loud that Jace felt like he'd spend the rest of his life suffering from this extreme, terrifying tinnitus.
 
 The dragon claw seemed to have a life of its own as it twitched and fell off the envelope. But the black dragon didn't abandon its attack because a claw had been chopped off. The nightmare-like shadow in the burning flames swayed, and immediately another claw wreathed in thick smoke slammed over. Jace swung his blade toward where it was swiping again, but missed — it was a feint!
 
@@ -174,21 +174,21 @@ Although Jace's shadow magic was quite powerful, the black dragon's resistance t
 
 The two stared at each other through layers of burning fire. Jace gazed into the black dragon's yellow eyeballs, at its stiff, rigid yet hate-filled reptilian face.
 
-He realized he had never confronted a black dragon like this before. And this one was more mature and more dangerous than Mafellar at Southshore, or the nameless black dragon in the ruins.
+He realized he had never confronted a black dragon like this before. And this one was more mature and more dangerous than Mafral at Southshore, or the nameless black dragon in the ruins.
 
-Although this dragon was restrained by the Cripple, tormented by the Curse of Agony, and an arrow had already pierced its chest, dragon blood flowing unceasingly down its arm, its teeth in its mouth completely stained red with shadow-laced dragon blood — its full-force strike was still not something Jace could easily withstand.
+Although this dragon was restrained by Cripple, tormented by the Curse of Agony, and an arrow had already pierced its chest, dragon blood flowing unceasingly down its arm, its teeth in its mouth completely stained red with shadow-laced dragon blood — its full-force strike was still not something Jace could easily withstand.
 
 Moreover, fighting up to this point, Jace could also feel that his mana had been severely depleted. He couldn't support many more spells. And under the black dragon's gaze, he had no chance to pull out a mana potion.
 
-"No mortal can stop the power of 'Devourer' Theramore, Jace Sesso." The black dragon murmured in a hoarse Common. "Today I'd like to see for myself what kind of person conspired with that queen to murder our father."
+"No mortal can stop the power of Teremus the Devourer, Jace Sesso." The black dragon murmured in a hoarse Common. "Today I'd like to see for myself what kind of person conspired with that queen to murder our father."
 
-So he was "Devourer" Theramore?
+So he was Teremus the Devourer?
 
 That black dragon wandering the Blasted Lands in the game... was at this time guarding the lair of the black dragon princess Onyxia? Well, whoever he was, today he had to die here.
 
 Jace said in Draconic, "Perhaps Neltharion was never as powerful as you worship."
 
-The black dragon flew into an instant rage and roared, "You dare not speak his name!"
+The black dragon flew into an instant rage and roared, "Don't you dare speak his name!"
 
 As he roared, a terrifying flame erupted from his mouth. This flame wasn't an ordinary breath — it was practically a spray of dark, hot blood...
 
@@ -200,11 +200,11 @@ Jace calmly vanished in a mass of shadow. The Shadowflame instantly burned the s
 
 When Jace emerged from the shadows, he was already beneath the black dragon's ribs.
 
-The whelp that had spewed the Shadowflame was still in the weakness right after releasing it. Its movements were so slow that even sensing Jace's presence, it didn't have the strength to move its body away.
+The drake that had spewed the Shadowflame was still in the weakness right after releasing it. Its movements were so slow that even sensing Jace's presence, it didn't have the strength to move its body away.
 
-Jace seized the moment, raised Song of the Azure, and stabbed it hard into the black dragon's abdomen. The creature went limp and screamed as it toppled.
+Jace seized the moment, raised Azuresong, and stabbed it hard into the black dragon's abdomen. The creature went limp and screamed as it toppled.
 
-The envelope had burned away to expose its wooden frame. Surging black smoke burned across the sky. Theramore flapped its giant wings, its remaining single dragon claw struggling to grip the constantly cracking frame, desperately trying not to fall into the envelope. It craned its snake-like neck, trying to stretch its head out to keep its eyes on the warlock who could barely stay standing.
+The envelope had burned away to expose its wooden frame. Surging black smoke burned across the sky. Teremus flapped its giant wings, its remaining single dragon claw struggling to grip the constantly cracking frame, desperately trying not to fall into the envelope. It craned its snake-like neck, trying to stretch its head out to keep its eyes on the warlock who could barely stay standing.
 
 "You won't survive!" the black dragon shrieked.
 
@@ -212,7 +212,7 @@ The envelope had burned away to expose its wooden frame. Surging black smoke bur
 
 The flames all around, hearing the call, quickly shifted from chaotic burning to surging toward the black dragon that was about to fall, as if gathered by a whirlwind, fierce and imposing.
 
-The black dragon let out a savage roar, unable to comprehend the scene before it. It struggled even more frantically to break free, beating its wings trying to fan the flames away. But under the multiple torments of shadow magic, firestorm, and the Cripple, its roars only grew more feeble, its struggles weaker and weaker — not to mention the arrow wound in its chest being torn open by its violent movements...
+The black dragon let out a savage roar, unable to comprehend the scene before it. It struggled even more frantically to break free, beating its wings trying to fan the flames away. But under the multiple torments of shadow magic, firestorm, and Cripple, its roars only grew more feeble, its struggles weaker and weaker — not to mention the arrow wound in its chest being torn open by its violent movements...
 
 However, Jace also felt somewhat dizzy. Two successive, wildly ambitious Shadowsteps had severely drained his mana, not to mention the willpower it took to summon all this fire.
 
@@ -220,21 +220,21 @@ Seizing the opportunity, he pulled a mana potion from his potion pouch, drank th
 
 "Elamun, Silondor!"
 
-He chanted the spell, greedily draining the trapped whelp's life. It seemed the incantation roared out in a demon's voice even strengthened it somewhat, making the mana of this Life Drain spell extremely terrifying.
+He chanted the spell, greedily draining the trapped drake's life. It seemed the incantation roared out in a demon's voice even strengthened it somewhat, making the mana of this Drain Life spell extremely terrifying.
 
-Theramore's cheeks rapidly sunken. Its eyes quickly became lifeless... But just then, he suddenly heard a whistling wind sound rushing past his ear.
+Teremus's cheeks rapidly sank in. Its eyes quickly became lifeless... But just then, he suddenly heard a whistling wind sound rushing past his ear.
 
 When he turned his head, the black dragon's tail hammer had already reached his face!
 
-He immediately swung Song of the Azure in a diagonal slash, hacking away the massive black dragon tail that was bearing down on him. But he was still struck in the chest by the severed tail and sent flying.
+He immediately swung Azuresong in a diagonal slash, hacking away the massive black dragon tail that was bearing down on him. But he was still struck in the chest by the severed tail and sent flying.
 
 This blow blanked his mind in an instant. He rolled continuously through the flames several times before barely managing to hold onto his consciousness, grabbing a burning airship frame to keep himself from falling into the sky.
 
-By now the black dragon had fallen somewhere out of sight. Amid the fiercely burning envelope, its shadow could no longer be seen. In the chaos, the gnomes seemed to be cheering — probably having witnessed the black dragon's fall. Jace didn't have the energy to confirm it either.
+By now the black dragon had fallen somewhere out of sight. Amid the fiercely burning envelope, its shadow could no longer be seen. In the chaos, the goblins seemed to be cheering — probably having witnessed the black dragon's fall. Jace didn't have the energy to confirm it either.
 
-He didn't know how many ribs he'd broken. After staring for a while, he couldn't help but vomit a mouthful of blood, staining his chin, neck, and chest. He didn't even know if this blood was a side effect of the Life Drain, or internal bleeding from the blow.
+He didn't know how many ribs he'd broken. After staring for a while, he couldn't help but vomit a mouthful of blood, staining his chin, neck, and chest. He didn't even know if this blood was a side effect of the Drain Life, or internal bleeding from the blow.
 
-But he still had the strength to support himself. It must have been Morofir's Soul Link that had helped him absorb a considerable portion of the impact.
+But he still had the strength to support himself. It must have been Morophil's Soul Link that had helped him absorb a considerable portion of the impact.
 
 But the airship definitely couldn't hold on.
 
@@ -242,6 +242,6 @@ Jace struggled to look down and saw in the gondola that Grede had already awaken
 
 This was why, even as the airship's ropes burned through one by one, it could still keep flying in the sky... But at this point, even the ropes he was gripping weren't enough to make this beast of steel and wood fly again.
 
-The gnomes' cheers celebrating their escape from the black dragon quickly turned into screams. The bottom of the airship's gondola scraped through a patch of tall treetops with a "pfft pfft." Metal shards, wood chips, and scraps of cloth flew everywhere. It was clear they were about to plunge diagonally into the dark Dustwallow Marsh...
+The goblins' cheers celebrating their escape from the black dragon quickly turned into screams. The bottom of the airship's gondola scraped through a patch of tall treetops with a "pfft pfft." Metal shards, wood chips, and scraps of cloth flew everywhere. It was clear they were about to plunge diagonally into the dark Dustwallow Marsh...
 
 In the end, they still couldn't escape it. Damn it.

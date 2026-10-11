@@ -2,13 +2,13 @@
 
 Prophet Velen looked even more imposing when he was alone — without other draenei nearby. Especially now that he'd left Draenor for Azeroth, he inspired a certain primal fear of large things.
 
-"I'll head back to Stonewatch to tend to the wounded, Jace. See you later." Solara said softly. She could tell the Prophet probably had things to discuss with Jace.
+"I'll head back to Stonewatch to tend to the wounded, Jace. See you later." Sola said softly. She could tell the Prophet probably had things to discuss with Jace.
 
-Jace nodded. After Solara nodded a farewell to Velen from a distance and disappeared into the forest, he approached the draenei leader.
+Jace nodded. After Sola nodded a farewell to Velen from a distance and disappeared into the forest, he approached the draenei leader.
 
 "I came specifically to thank you, Jace Sesso." Velen said. "Without you and the Expedition's help, I and those who follow me would never have escaped the demons' final frenzy. And you managed to destroy Sargeras's scepter, as well as the Burning Legion's passage for further invading Azeroth. This is undoubtedly a great victory."
 
-"I should be the one thanking you, Prophet." Jace gave a slight bow. "If you hadn't appeared at Wildhammer Keep that day to guide me, I truly don't know where all of this would have ended up."
+"I should be the one thanking you, Prophet." Jace gave a slight bow. "If you hadn't appeared at Wildhammer Stronghold that day to guide me, I truly don't know where all of this would have ended up."
 
 "Visions do not always bring good outcomes." Velen's voice grew deeper. "Many times, even I cannot understand what the visions I saw truly meant until the moment everything is revealed. Your decisions were what mattered most."
 
@@ -22,7 +22,7 @@ Velen said, "I am about to depart for Lordaeron to discuss matters with King Ter
 
 "When I passed through Shattrath City, I saw some Aldor priests and draenei survivors living under their protection." Jace said. "Did they come to Azeroth with you too?"
 
-"On the way to Wildhammer Keep, I visited Shattrath City to meet with them." Velen said. "But the Aldor no longer recognize me as their leader. They believe it was my hesitation and cowardice that incurred the Light's rejection, causing the Naaru to lose faith in us."
+"On the way to Wildhammer Stronghold, I visited Shattrath City to meet with them." Velen said. "But the Aldor no longer recognize me as their leader. They believe it was my hesitation and cowardice that incurred the Light's rejection, causing the naaru to lose faith in us."
 
 "I suppose their judgment is not without basis. But Kil'jaeden's target was not them — it was Azeroth. At the same time, he hoped to find me soon, to find an opportunity to prove how right his choices were. Now that I have left Draenor, it should bring them some relief as well."
 
@@ -42,7 +42,7 @@ Jace looked at the Prophet. "I imagine when Sargeras first appeared before you, 
 
 "No." Velen shook his head. "At that time, I did not see any more clearly than Kil'jaeden or Archimonde."
 
-"I know. Without the vision the Naaru revealed to me, I too would have been overjoyed by the future Sargeras promised — infinite knowledge, the deepest secrets of the void. The terms the Dark Titan offered were exactly what the inhabitants of Argus had spent nearly their eternal lives pursuing. I could not have resisted that temptation either."
+"I know. Without the vision the naaru revealed to me, I too would have been overjoyed by the future Sargeras promised — infinite knowledge, the deepest secrets of the void. The terms the Dark Titan offered were exactly what the inhabitants of Argus had spent nearly their eternal lives pursuing. I could not have resisted that temptation either."
 
 Jace understood perfectly. The only reason he'd been able to do all of this — to resist the urge to take up Sargeras's scepter, to refuse Kil'jaeden's offer — was because of what he'd known from his past life. He'd known exactly what lay behind those things.
 
@@ -54,7 +54,7 @@ Maybe he'd already seen something. But just as he'd said — even he couldn't be
 
 "I know, Prophet." Jace nodded. "Thank you for the warning."
 
-Velen gave a slight bow. Just as he was about to leave, Jace called out, "Oh, Prophet. High Priest Maladaar asked me to pass along a message."
+Velen gave a slight bow. Just as he was about to leave, Jace called out, "Oh, Prophet. Exarch Maladaar asked me to pass along a message."
 
 "Maladaar?" Velen turned back in surprise.
 
@@ -82,19 +82,19 @@ Vereesa let out a soft laugh, hopping down from the window and padding over to t
 
 "So those herb samples Gribby gave you are just a continuation of that arrangement?" Vereesa asked.
 
-"Pretty much." Jace nodded. "Beating the eredar lord Balthas was thanks to her refined Elixir of the Sages. Think about how expensive that stuff is. I'd say it was a fair deal."
+"Pretty much." Jace nodded. "Beating the eredar lord Batas was thanks to her refined Elixir of the Sages. Think about how expensive that stuff is. I'd say it was a fair deal."
 
 "And your dealings were only limited to herbs, were they?"
 
 Vereesa narrowed her eyes, and Jace was suddenly reminded of a hawk spotting a rabbit in the field...
 
-He instinctively glanced at Fang of the Sky hanging nearby. The ranger threw a dagger, pinning its cord to the wall. Jace looked at the other side, at Usarlis. Another knife pierced the wrappings, passed through a demon's rib, and buried itself deep in the window frame.
+He instinctively glanced at Azuresong hanging nearby. The ranger threw a dagger, pinning its cord to the wall. Jace looked at the other side, at Ulthalesh. Another knife pierced the wrappings, passed through a demon's rib, and buried itself deep in the window frame.
 
 "Don't even think about using your little tricks to pull those over, Jace Sesso." Vereesa had another knife in her hand. "Now answer my question!"
 
 "That... can't really be called 'dealings,' can it?" Jace said quietly.
 
-"When." Vereesa leaned closer. "When did you two get to know each other?"
+"When?" Vereesa leaned closer. "When did you two get to know each other?"
 
 "Before." Jace admitted. "Before we went to Kalimdor."
 
@@ -118,7 +118,7 @@ Vereesa clicked her tongue in annoyance. Jace looked around. "Where are you keep
 
 Jace pulled out the flower from his robe. "Look."
 
-"What happened to your hand, Jace?" Vereesa reached for his wrist but didn't dare touch the burned skin. "Why did you hide it from me during the day? Does Solara know?"
+"What happened to your hand, Jace?" Vereesa reached for his wrist but didn't dare touch the burned skin. "Why did you hide it from me during the day? Does Sola know?"
 
 "I wasn't talking about my hand." Jace shook the little flower in his hand — it was barely more than a few burned remnants. "I meant this."
 

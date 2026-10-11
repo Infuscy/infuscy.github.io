@@ -2,7 +2,7 @@
 
 Mulgore was too big.
 
-The goblin-made map wasn't nearly as precise as a game map, and Jace didn't particularly want Sora and Needleflame to use their wings to precisely measure a grassland whose size was basically unknown on the map.
+The goblin-made map wasn't nearly as precise as a game map, and Jace didn't particularly want Sola and Needleflame to use their wings to precisely measure a grassland whose size was basically unknown on the map.
 
 No matter how beautiful the scenery, once it becomes an obstacle, it just gets more irritating the longer you look at it.
 
@@ -10,13 +10,13 @@ At first, he thought the flat-topped stone pillars standing in the grassland wer
 
 By now, the sky was nearly dark. The group stopped to rest on a hillside slope, using the last red glow of sunset filtering from behind the mountains to look into the distance.
 
-"Sora, can't you ask these pine trees where the tauren live?"
+"Sola, can't you ask these pine trees where the tauren live?"
 
-"I did. They don't know," Sora said, looking down. "Maybe they didn't want to tell me. Maybe they've never seen them. They just told me the tauren disappeared from here many years ago."
+"I did. They don't know," Sola said, looking down. "Maybe they didn't want to tell me. Maybe they've never seen them. They just told me the tauren disappeared from here many years ago."
 
 "The tauren worship a goddess called the Earth Mother," Grede said. "Maybe these big trees are even closer to the tauren than they are to you. They're afraid that if they tell you where the tauren are hiding, it'll bring harm to them."
 
-"I wish I could tell if these trees were lying, like Jace can," Sora said.
+"I wish I could tell if these trees were lying, like Jace can," Sola said.
 
 "A green dragon warlock. That's a new one," the dwarf laughed.
 
@@ -28,19 +28,19 @@ Seeing the ranger do actual ranger work, Jace immediately climbed onto Needlefla
 
 "No, I'm surprised you didn't snap that bird's neck and throw it in a stew pot."
 
-Grede laughed and climbed onto Sora's back. Vereesa just shot him an annoyed glance and said nothing. Actually... Jace was thinking the same thing.
+Grede laughed and climbed onto Sola's back. Vereesa just shot him an annoyed glance and said nothing. Actually... Jace was thinking the same thing.
 
 The two dragons carried the three toward the direction Vereesa had pointed. They flew over two streams, crossed a large forest, rounded two neighboring stone pillars, and suddenly saw lights ahead.
 
-Jace thought this was strange. Mulgore was supposed to be occupied by centaur. Had the tauren reclaimed Mulgore on their own before Thrall could lead the orc survivors to establish Durotar? Or was Mossa really that powerful — using the druidic knowledge she'd learned from the green dragons to lead the tauren back to glory?
+Jace thought this was strange. Mulgore was supposed to be occupied by centaur. Had the tauren reclaimed Mulgore on their own before Thrall could lead the orc survivors to establish Durotar? Or was Mosa really that powerful — using the druidic knowledge she'd learned from the green dragons to lead the tauren back to glory?
 
 No. Jace looked more carefully. Though he couldn't make out the residents in those lights from this distance, he could tell the huts were shabby. Not just shabby compared to the great tents of Thunder Bluff in another timeline — they couldn't even compare to the Grimtotem huts at Freewind Post. Just a mess of crudely-assembled black-grey hide tents.
 
-This wasn't a tauren village at all. It was a centaur camp! It immediately reminded Jace of the Maredi tribe village they'd seen before the Temple of Maraudon.
+This wasn't a tauren village at all. It was a centaur camp! It immediately reminded Jace of the Maraudine tribe village they'd seen before the Temple of Maraudon.
 
 The centaur tribe occupying Mulgore should be the Kolkar tribe. Jace still remembered the name.
 
-Sora and Needleflame took cover under the night and landed on a nearby cliff. The group got off and peered over.
+Sola and Needleflame took cover under the night and landed on a nearby cliff. The group got off and peered over.
 
 Grede couldn't help asking, "Are you really a ranger, Vereesa? Didn't that bird tell you there were tauren here? All I see is centaur! Or did you screw up the bird language?"
 
@@ -54,9 +54,9 @@ Vereesa ignored the jab, crouched down, and watched for a moment. Suddenly her e
 
 Grede rubbed his beard. "Fair point."
 
-"I could fly over and hypnotize the whole camp, and you could free the tauren while they're under," Sora said, lowering her head. "I'm sure Grede can figure out how to break those cages."
+"I could fly over and hypnotize the whole camp, and you could free the tauren while they're under," Sola said, lowering her head. "I'm sure Grede can figure out how to break those cages."
 
-"Don't waste your precious magic on those damned centaur bastards, Sora." Grede waved a hand dismissively. "Today we'll give them a little warning. Let them know the tauren have picked up some new allies. Next time they move around on this prairie, they'll think twice!"
+"Don't waste your precious magic on those damned centaur bastards, Sola." Grede waved a hand dismissively. "Today we'll give them a little warning. Let them know the tauren have picked up some new allies. Next time they move around on this prairie, they'll think twice!"
 
 The dwarf turned and looked at Needleflame, who was sitting behind them with her long neck stretched, wide-eyed, staring at the camp. "Just go burn them all, little black dragon! Just be careful not to torch the tauren prisoners when you breathe fire. Though I trust strong tauren aren't that easy to burn to death either!"
 
@@ -68,7 +68,7 @@ Needleflame didn't even answer — she just launched herself forward. Jace grabb
 
 "Let's go," Jace said.
 
-Vereesa and Grede nodded and jumped onto Sora's back with Jace. The green dragon's takeoff was noticeably heavier with all of them and their gear. They'd barely gotten airborne when the black dragon swooped down over the village. Sheets of bright red, scorching flame rained down like a waterfall over the tents below, accompanied by rough, terrifying dragon roars. Screaming, panicked shouting, and the crackle of fire erupted everywhere.
+Vereesa and Grede nodded and jumped onto Sola's back with Jace. The green dragon's takeoff was noticeably heavier with all of them and their gear. They'd barely gotten airborne when the black dragon swooped down over the village. Sheets of bright red, scorching flame rained down like a waterfall over the tents below, accompanied by rough, terrifying dragon roars. Screaming, panicked shouting, and the crackle of fire erupted everywhere.
 
 That little rascal had finally found an outlet for all the frustration she'd bottled up since arriving in Kalimdor.
 
@@ -76,13 +76,13 @@ She swooped back and forth without mercy, incinerating every living thing still 
 
 Watching it all, Grede couldn't help commenting, "You know, if it wasn't for this, I'd almost forgotten this little one is the real child of Deathwing."
 
-"She's grown a lot in the past year," Jace called out. "If you'd seen her when Sora and I first found her in Terokkar Forest, you'd never guess she'd have this kind of power in just a year. We'd better hurry, or she's going to burn those tauren too!"
+"She's grown a lot in the past year," Jace called out. "If you'd seen her when Sola and I first found her in Terokkar Forest, you'd never guess she'd have this kind of power in just a year. We'd better hurry, or she's going to burn those tauren too!"
 
 "I'm starting to regret this idea. Hypnosis was safer," Grede muttered into the wind. "If they get burned, it's on me..."
 
 "Too late for that now!"
 
-Sora dove straight into the flames Needleflame had started. Jace landed and shielded himself from the encroaching black dragonfire with the Hide of Olastrasz, chanting in elemental language to part the wall of fire ahead of them.
+Sola dove straight into the flames Needleflame had started. Jace landed and shielded himself from the encroaching black dragonfire with the Hide of Olastrasz, chanting in elemental language to part the wall of fire ahead of them.
 
 Vereesa turned, drew her bow, and easily shot down a few centaur rushing to deal with the intruders. When she looked back, the camp was in complete chaos.
 
@@ -98,7 +98,7 @@ Vereesa kicked at the broken chains that had been brutally snapped. "Lockpicking
 
 "Glad they made it. If I was a tauren and saw a black dragon suddenly appear out of nowhere, I'd run too!" Grede said. "So, we pulling out?"
 
-"Aren't you forgetting why we wanted to save them? We need them to help us find Mossa!" Vereesa looked around, then pointed at a patch of damp grass illuminated by firelight. "There — there are tauren hoofprints. Fresh ones. Let's go!"
+"Aren't you forgetting why we wanted to save them? We need them to help us find Mosa!" Vereesa looked around, then pointed at a patch of damp grass illuminated by firelight. "There — there are tauren hoofprints. Fresh ones. Let's go!"
 
 "This time you sure they're cow prints and not horse prints?" Grede said, following.
 

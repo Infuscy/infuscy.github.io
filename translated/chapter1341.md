@@ -2,7 +2,7 @@
 
 Jace had little interest in standing at the mouth of that dark cave waiting for the father-daughter dispute to play out. He knew that if Needleflame managed to convince her father, she'd come flying at his face like an eagle pouncing on a rabbit the moment she could, no matter where he was in Wildhammer Stronghold.
 
-He headed down the cliff toward the stronghold hall. Turalyon had said the ethereal technicians were resting inside. They'd arrived surprisingly fast — it seemed Node Prince Haramad was quite enthusiastic about this matter.
+He headed down the cliff toward the stronghold hall. Turalyon had said the ethereal technicians were resting inside. They'd arrived surprisingly fast — it seemed Nexus-Prince Haramad was quite enthusiastic about this matter.
 
 Jace could sense that the ethereals weren't entirely confident about their own twenty-year plan either. After all, they were up against the Burning Legion. Who knew what state Draenor would be in after twenty years of demon occupation? When Jace had proposed a feasible way to escape the Legion's lockdown, investing in this direction was a reasonable choice.
 
@@ -20,9 +20,9 @@ Of course, his height, nearly matching an ogre's, made it hard for Jace to see h
 
 "You made it back safely." Velen spoke in Common. "I hope the spirits didn't give you too much trouble."
 
-"They want me to kill Primate Maladaar," Jace said. "And the Shadow Council's leader. Then they'll help me."
+"They want me to kill Exarch Maladaar," Jace said. "And the Shadow Council's leader. Then they'll help me."
 
-Whether that counted as "trouble" was debatable. Especially given the hint of distrust and mockery in the Primate's tone — a distinct "I bet you can't" kind of sneer.
+Whether that counted as "trouble" was debatable. Especially given the hint of distrust and mockery in the Exarch's tone — a distinct "I bet you can't" kind of sneer.
 
 But when it came to finding a way out, Jace and the Expedition had been going back and forth for too long. A dilemma that could be solved by simply killing a few enemies was clear enough.
 
@@ -64,7 +64,7 @@ Vereesa took a meaningful breath but said nothing. The three-dimensional image f
 
 "This is Archmage Vargoth, Jace. I believe this counts as your first meeting," High Thane Kurdran said to Jace, who had just walked in.
 
-"Archmage." Jace stepped forward. "I heard your name when I was studying at the Wizard Sanctum."
+"Archmage." Jace stepped forward. "I heard your name when I was studying at the Wizard's Sanctum."
 
 "My honor, Mr. Sesso." The pale purple arcane image smiled, eyes narrowing. Even the wrinkles on his face were clearly visible.
 
@@ -86,7 +86,7 @@ Grede leaned in and whispered, "When we get back, I've got to send one of these 
 
 "Don't be so smug, elf," Grede muttered.
 
-"The energy is still stable for now, everyone," an ethereal technician said beside him. "But considering Draenor's unstable magic and the long distance between here and Kirin'Var Village, we'd better discuss the important tasks Node Prince Haramad assigned us while the energy is sufficient and the connection is good."
+"The energy is still stable for now, everyone," an ethereal technician said beside him. "But considering Draenor's unstable magic and the long distance between here and Kirin'Var Village, we'd better discuss the important tasks Nexus-Prince Haramad assigned us while the energy is sufficient and the connection is good."
 
 "Of course, ethereal sir." Grede cleared his throat.
 
@@ -104,9 +104,9 @@ The Archmage's projection pondered for a long while, then conferred with someone
 
 "It hasn't been blown to bits yet, respected High Thane." Vargoth's image smiled slightly. "But things aren't as optimistic as you see either."
 
-"How many soul fragments still remain in Kirin'Var Village, Master?" Jace asked. "This demonic ritual will probably consume quite a lot of mana."
+"How many soul shards still remain in Kirin'Var Village, Master?" Jace asked. "This demonic ritual will probably consume quite a lot of mana."
 
-"Very few," the image said. "After all, these fragments were seized from orc warlocks. We don't have much skill in using them. Some of my students and I have been researching ways to use the mana within to save ourselves. We've had some results, but most of it was wasted. If I'd known the black dragons would cooperate with you, we wouldn't have needed to go through all that trouble. Does Archmage Khadgar have any good ideas? Does he know about your plan now?"
+"Very few," the image said. "After all, these shards were seized from orc warlocks. We don't have much skill in using them. Some of my students and I have been researching ways to use the mana within to save ourselves. We've had some results, but most of it was wasted. If I'd known the black dragons would cooperate with you, we wouldn't have needed to go through all that trouble. Does Archmage Khadgar have any good ideas? Does he know about your plan now?"
 
 "He does, but he still needs to confirm some details." Jace looked at the ethereal technician beside him. "I'll try to communicate with him next, and at the same time test how difficult it really is to transmit the ethereals' spells to the other side."
 
@@ -114,14 +114,14 @@ He looked at the ethereal. "Teach me two words of your language first. Let's see
 
 "You know how to use mana crystals to store arcane energy, so you must know methods for calculating mana consumption too, right?" Vereesa asked.
 
-"Of course." The ethereal said. "We've rarely measured demonic magic consumption, Ranger-Lord. But we can try."
+"Of course." The ethereal said. "We've rarely measured demonic magic consumption, Ranger Lord. But we can try."
 
-"I wonder if Greeby has any stamina-reducing potions we can use," a Quel'Thalas arcanist said from the doorway.
+"I wonder if Gribby has any potions to ease the drain that we can use," a Quel'Thalas arcanist said from the doorway.
 
-"Speaking of Greeby." Vargoth's image said. "We've found some more Nethervine recently. Go find Greeby in the alchemy lab, Mr. Sesso. Ask him what this special herb — only found in Farahlon and warped by void energy — can do..."
+"Speaking of Gribby." Vargoth's image said. "We've found some more Netherbloom recently. Go find Gribby in the alchemy lab, Mr. Sesso. Ask him what this special herb — only found in Farahlon and warped by void energy — can do..."
 
-"You mean that annihilation potion?" Jace asked.
+"You mean the Destruction Potion?" Jace asked.
 
-"Yes, you know it. The annihilation potion." Archmage Vargoth's image said seriously. "We have enough Nethervine now for about two doses. When your portal is complete, no matter what kind of mana you pour into it to activate it, the Deceiver won't be fooled. We'll need that potion then."
+"Yes, you know it. The Destruction Potion." Archmage Vargoth's image said seriously. "We have enough Netherbloom now for about two doses. When your portal is complete, no matter what kind of mana you pour into it to activate it, the Deceiver won't be fooled. We'll need that potion then."
 
 The Scepter of Sargeras would need a dose too, Jace thought. That thing deserved one.

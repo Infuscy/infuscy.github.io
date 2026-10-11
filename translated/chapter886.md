@@ -2,9 +2,9 @@
 
 The awkward silence lasted a moment before Grede asked, "What were we talking about again?"
 
-"The aqir," Jace said. "And the kind that can die and resurrect over and over again — if those Tuskarr weren't making things up, anyway."
+"The nerubians," Jace said. "And the kind that can die and resurrect over and over again — if those tuskarr weren't making things up, anyway."
 
-"Necromancy." Grede pointed at the black cloth bundle tucked under Morophil's arm. "Remember that mage's lair? That weapon could resurrect the black-clad warriors I'd just barely managed to put down. What a damned evil thing. So you think those aqir might have something like that too? Whatever Nathrezim forged that sword might've gifted one to the spiders' king as well! Those wicked things never stop trying to throw all of Azeroth into chaos."
+"Necromancy." Grede pointed at the black cloth bundle tucked under Morophil's arm. "Remember that mage's lair? That weapon could resurrect the black-clad warriors I'd just barely managed to put down. What a damned evil thing. So you think those nerubians might have something like that too? Whatever Nathrezim forged that sword might've gifted one to the spiders' king as well! Those wicked things never stop trying to throw all of Azeroth into chaos."
 
 Jace stared at the dwarf in silence. He hadn't expected Grede's rambling to get this close to the truth, even if it was slightly off the mark.
 
@@ -18,13 +18,13 @@ Jace stared at the dwarf in silence. He hadn't expected Grede's rambling to get 
 
 Vereesa said, "What surprises me more is that the northern continent has already descended into this much chaos, and neither Dalaran nor Quel'Thalas has reacted at all."
 
-Jace said, "Based on the Dragon tongue those Tuskarr used, this has only happened in the last year or two. They haven't even decided to migrate elsewhere yet. And Dalaran and Quel'Thalas have each had their own troubles these past two years — the theft of the Eye of the Arcane, the Amani trolls, the Dark Portal... It's no surprise they've overlooked the recent changes in the north."
+Jace said, "Based on Draconic those tuskarr used, this has only happened in the last year or two. They haven't even decided to migrate elsewhere yet. And Dalaran and Quel'Thalas have each had their own troubles these past two years — the theft of the Eye of Dalaran, the Amani trolls, the Dark Portal... It's no surprise they've overlooked the recent changes in the north."
 
 "So what should we do?" Vereesa asked.
 
-"You're the Ranger-Lord of Quel'Thalas," Grede said. "Go back and tell your sister the general about this. Get Silvermoon to pay attention to what's happening in Northrend."
+"You're the Ranger Lord of Quel'Thalas," Grede said. "Go back and tell your sister the general about this. Get Silvermoon to pay attention to what's happening in Northrend."
 
-"Of course," Vereesa said. "I don't know if Sylvanas will care about the Northrend crisis — she's still dealing with the Amani trolls. Prince Kael'thas would probably take this more seriously. I should go to the Sunfury Tower and report it to him, so he can bring it up at the Kirin Tor council and get the whole Alliance's attention."
+"Of course," Vereesa said. "I don't know if Sylvanas will care about the Northrend crisis — she's still dealing with the Amani trolls. Prince Kael'thas would probably take this more seriously. I should go to the Sunfury Spire and report it to him, so he can bring it up at the Kirin Tor council and get the whole Alliance's attention."
 
 Jace nodded. "Then when we reach Dalaran, I'll find Krasus and talk to him about this. He owes me a massive favor — he'll definitely help. And if Kael'thas is interested, we're even more likely to get the Kirin Tor's attention."
 
@@ -34,11 +34,11 @@ Jace nodded. "Then when we reach Dalaran, I'll find Krasus and talk to him about
 
 "Stormwind is simply too far from the north. Even if Varian is willing to pay attention, I doubt there's much he can do." Grede nodded at that. "Should we bring back some evidence? That'd be more convincing."
 
-"You mean we grab some proof related to the undead aqir?" Jace asked.
+"You mean we grab some proof related to the undead nerubians?" Jace asked.
 
-"If we get the chance, definitely. But right now we know nothing about the insect-folk," Vereesa said. "We don't know how to fight them, what they're capable of, where they're hiding... In the end we might end up surrounded by dead aqir and living aqir at the same time."
+"If we get the chance, definitely. But right now we know nothing about the insect-folk," Vereesa said. "We don't know how to fight them, what they're capable of, where they're hiding... In the end we might end up surrounded by dead nerubians and living nerubians at the same time."
 
-Jace knew where the entrance to the aqir kingdom of Azjol-Nerub was in the game — it sat right between Borean Tundra and Dragonblight, quite conspicuous.
+Jace knew where the entrance to the nerubian kingdom of Azjol-Nerub was in the game — it sat right between Borean Tundra and Dragonblight, quite conspicuous.
 
 But what about here?
 
@@ -46,7 +46,7 @@ He gazed out at the endless tundra stretching along the shore, the distant snow 
 
 Here, he didn't even know where on the Borean Tundra they were, and he didn't have a single reliable map to reference — forget about finding the gates of Azjol-Nerub.
 
-Besides, the landscape twenty years from now might look quite different from the present, given all the battles and conflicts that would happen in between. Azjol-Nerub had gone from an aqir kingdom to a place ruled by the undead. For these subterranean dwellers, frequently changing their surface entrances was probably routine.
+Besides, the landscape twenty years from now might look quite different from the present, given all the battles and conflicts that would happen in between. Azjol-Nerub had gone from an nerubian kingdom to a place ruled by the undead. For these subterranean dwellers, frequently changing their surface entrances was probably routine.
 
 "Morophil, are you good at tracking undead creatures?" Jace asked.
 
@@ -62,7 +62,7 @@ Morophil replied, "To be honest, if there really are undead nearby, I can sense 
 
 Somaelir said, "I'll do my best, Jace. But I have to be honest — I've never tried tracking undead before. I might overlook some potential danger."
 
-"That's all right. As long as we search as close to the southern coast as possible. We're not too far from the blue dragon palace, the Nexus, and the Tuskarr described the source of the shadow as being in the far north. I think even if there are undead lurking around at this distance, they won't pose much of a threat to us."
+"That's all right. As long as we search as close to the southern coast as possible. We're not too far from the blue dragon palace, the Nexus, and the tuskarr described the source of the shadow as being in the far north. I think even if there are undead lurking around at this distance, they won't pose much of a threat to us."
 
 Somaelir acknowledged him. Grede took a deep breath and said, "It's still hard to believe we've got a real dragon in our party. Ten years ago, I thought green dragons were just something starving lost travelers in the forest made up. Now here I am riding on the back of a green dragon. Even if I went back to Aerie Peak right now and told them, they wouldn't believe it..."
 
@@ -108,11 +108,13 @@ A gust of wind blew through, and only rags hanging from the windows for some rea
 
 Because he'd caught a scent. A faint smell of decay riding the wind, blowing straight into his face. "It seems an unknown disaster has already swept through this village," Sola said.
 
-"Let's hope they left for Wintergarde on their own, like the Tuskarr did," Jace said.
+"Let's hope they left for Wintergarde on their own, like the tuskarr did," Jace said.
 
 "Though there don't seem to be any signs of insects here." Grede looked around. "I'm not questioning your abilities, Sola, but it looks like..."
 
-"Maybe I'm just not used to tracking in the real world yet. I'm sorry," Sola said. "Don't sell yourself short, Sola," Jace said.
+"Maybe I'm just not used to tracking in the real world yet. I'm sorry," Sola said.
+
+"Don't sell yourself short, Sola," Jace said.
 
 "Either way, we need to check every one of these houses. See if there are any survivors." Vereesa gazed toward a two-story house with its closed door in the distance. "Maybe they can even tell us where to find those resurrected insect-folk."
 
@@ -120,7 +122,7 @@ Because he'd caught a scent. A faint smell of decay riding the wind, blowing str
 
 "Every living person gets a chance to become a dead one after meeting your hammer, dwarf," Morophil said. "I fail to understand why a warrior who considers himself excellent would fear that."
 
-"The ones who aren't fully dead, all right? And I'll correct you — that's disgust, not fear!" Grede grumbled as he looked around at the others. "So, anyone got a good weapon for me? My Headsman got thrown at that blue dragon and teleported clean away!"
+"The ones who aren't fully dead, all right? And I'll correct you — that's disgust, not fear!" Grede grumbled as he looked around at the others. "So, anyone got a good weapon for me? My Ribsplitter got thrown at that blue dragon and teleported clean away!"
 
 "I've only got one sword left myself," Vereesa said, patting her waist.
 
@@ -150,21 +152,4 @@ The group exchanged glances, and Jace said, "Break it open."
 
 Vereesa nodded and kicked the wooden door to pieces. The fragments flew into the house with a bang, and a thick, fishy stench rolled out.
 
-Jace drew Skysong and channeled arcane light into the room — but his view was completely blocked by something grayish-white. "Your senses were spot on, Sola," he said, turning back. "It's full of spider webs in there."
-
-## Flags
-- **Line check**: 第886章 actually begins at source line 50785 (not 50866). Line 50866 = 第887章. Translated the full chapter 886–890 (lines 50785–51108).
-- **温蕾萨·风行者** = Vereesa Windrunner (canonical third Windrunner sister; not in glossary).
-- **索麦莉尔** = Somaelir (OC green dragon; phonetic rendering).
-- **索拉** = Sola (short form of Somaelir).
-- **莫洛菲尔** = Morophil (OC demon/succubus; phonetic).
-- **碧空之歌** = Skysong (Jace's sword; phonetic).
-- **伊森德雷** = Ysondre (canonical green dragon; 伊森德雷 is the Chinese rendering of Ysondre).
-- **奎尔丹尼** = Quel'Danil (high elf outpost; not in glossary).
-- **逆风小径** = Deadwind Pass (canonical).
-- **暮冬镇** = Wintergarde (canonical Northrend settlement).
-- **暮冬壁垒** = Wintergarde Keep (canonical).
-- **断头者** = the Headsman (Grede's axe; not in glossary).
-- **托斯雷兹姆的黑剑** = the Nathrezim black blade (托斯雷兹姆 likely a Nathrezim name).
-- **异种虫** = silithid (canonical insectoid race of Kalimdor).
-- **奎尔多雷** = high elf (used in dialogue by the aqir).
+Jace drew Azuresong and channeled arcane light into the room — but his view was completely blocked by something grayish-white. "Your senses were spot on, Sola," he said, turning back. "It's full of spider webs in there."

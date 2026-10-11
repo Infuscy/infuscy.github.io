@@ -10,7 +10,7 @@ The observer's central huge eye and all its surrounding small eyes blinked in un
 
 "And compared to the one in Auchindoun?" Khadgar asked.
 
-"Hard to say. Xillak already devoured quite a lot of souls in Auchindoun," Jace said. "And what we need isn't combat power — it's the quality of the magic eye. Just based on its perception... it's not inferior at all. I can feel it from the void energy within it."
+"Hard to say. Shirrak had already devoured quite a lot of souls in Auchindoun," Jace said. "And what we need isn't combat power — it's the quality of the magic eye. Just based on its perception... it's not inferior at all. I can feel it from the void energy within it."
 
 "Of course," Khadgar said. "After all the effort we put into summoning this, we naturally got an observer lord with strong enough energy. Too bad he's not a member of the Burning Legion."
 
@@ -18,17 +18,17 @@ The observer's central huge eye and all its surrounding small eyes blinked in un
 
 "Fair point." Khadgar nodded. "Then this one it is."
 
-The observer's huge eye swiveled back and forth, tracking the two as they traded words, then suddenly shouted in Demonic: "What are you talking about? Don't think I can't understand you. The communication methods you simple races design don't require high learning costs. Even for an eredar."
+The observer's huge eye swiveled back and forth, tracking the two as they traded words, then suddenly shouted in Demonic: "What are you talking about? Don't think I can't understand you. The communication methods you simple races design don't take much effort to learn. Not even Eredun does."
 
 The strange demon's brow ridges began emitting a faint purple glow. But almost the next second, its rolling giant eye suddenly locked onto the seemingly ordinary wrapped curved staff leaning by the basement entrance.
 
-The observer let out a sharp, painful shriek that nearly pierced the eardrums of the two men before it, simultaneously yelling a string of words Jace couldn't understand at all. Jace was just about to chant a Suffocation spell to lock the thing in place when, to his surprise, the observer abruptly vanished in a flash of light.
+The observer let out a sharp, painful shriek that nearly pierced the eardrums of the two men before it, simultaneously yelling a string of words Jace couldn't understand at all. Jace was just about to chant Asphyxiate to lock the thing in place when, to his surprise, the observer abruptly vanished in a flash of light.
 
 "Phase shift!" Jace shouted. "It's trying to escape by switching planes!"
 
 "I know." Khadgar calmly murmured some spell, his form growing increasingly ethereal. Then he raised his arm, and right as his figure was about to disappear completely, he silently shouted an incantation.
 
-Jace felt a massive expanse of frosty afterimages spread outward beneath his feet. Ice and frost swept across the floor and walls like some kind of Draenei technology projecting a holographic image, instantly engulfing the entire basement. Yet at the same time, it had no effect on Jace or anything else in the room — as if they were overlapping with something. The frost grew fainter, and fainter...
+Jace felt a massive expanse of frosty afterimages spread outward beneath his feet. Ice and frost swept across the floor and walls like some kind of draenei technology projecting a holographic image, instantly engulfing the entire basement. Yet at the same time, it had no effect on Jace or anything else in the room — as if they were overlapping with something. The frost grew fainter, and fainter...
 
 Just as Jace felt Khadgar, the frost, and the afterimage of the observer were about to vanish completely, the demon's scream suddenly burst out again from the opposite corridor.
 
@@ -80,13 +80,13 @@ The man looked at the broken wall of the house next door, then casually extended
 
 "See?" he said in a low voice. "He's already nice and quiet now."
 
-"Enough talk!" A tall soldier behind him adjusted his cotton cap and shouted. "Pay up, or get out of Aidensblade! The mountains will welcome you!"
+"Enough talk!" A tall soldier behind him adjusted his cotton cap and shouted. "Pay up, or get out of Aiden's Blade! The mountains will welcome you!"
 
 The armed "constables" all tightened their grips on their weapons, raised their shields, bared their teeth, or burst out laughing. But the leader standing in front of Jace had gone completely still and silent.
 
 One of the burlier attendants noticed something was wrong. He tilted his head to observe their leader, who had been quiet for a good while, then looked down and noticed the man's cotton trousers were already soaked through.
 
-He called out to the leader in the Alterac dialect. The leader shuddered violently, then nodded like a chicken pecking grain and mumbled, "I understand... this isn't right... what I did was wrong..."
+He called out to the leader in the Alterac dialect. The leader shuddered violently, then nodded over and over and mumbled, "I understand... this isn't right... what I did was wrong..."
 
 "This gentleman from down the mountain and his hunting dog... um... this gentleman, good neighbor." The leader turned to his bewildered followers. "Let's go back. We've wasted enough time."
 

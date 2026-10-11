@@ -16,7 +16,7 @@ The Gilded Rose was quite lively at noon. Jace finished reading in a low voice a
 
 "Whatever it is, it's not me." Grede set down his ale, took the letter, and glanced at it. "Does a Wildhammer dwarf in Quel'Thalas need to be spoken about so euphemistically? I bet Vereesa already knows you can summon demons... Those elves just don't want to call you out on it. You think Quel'Thalas's void researchers know less than you do? But who's this lady from House Goldthorn?"
 
-"You forgot?" Jace asked. "Aethwyn Goldthorn... that was the alias Vereesa used last time she came to investigate the death knights."
+"You forgot?" Jace asked. "Aselwen Goldthorn... that was the alias Vereesa used last time she came to investigate the death knights."
 
 "How the hell would I remember that? I'd forgotten you even told me." Grede asked, "So are you sure? Are you sure she means she's coming herself?"
 
@@ -68,7 +68,7 @@ Grede said, "Other things can at least be changed. Even looks and build can be d
 
 "Let's not talk about this aimless stuff," Jace said. "I'll write back and tell her to come. And I'll tell her she'd better be mentally prepared for my special servant. Don't say I didn't warn her."
 
-Grede laughed. "Now that you mention it, I'm looking forward to seeing her face when she meets your Molophir. And while we're at it, we can see exactly how she feels about you, little Jace."
+Grede laughed. "Now that you mention it, I'm looking forward to seeing her face when she meets your Morophil. And while we're at it, we can see exactly how she feels about you, Jace, lad."
 
 Jace picked up his ale and took a drink. "So now you're not worried about elves playing me?"
 
@@ -78,7 +78,7 @@ Jace rolled his eyes at him, but had to admit — he felt the same way.
 
 That business with the troll was genuinely the most absurd thing he'd done in two lifetimes. Even if it really did come down to losing his life next time, he wasn't doing that again.
 
-Misersheld had said it — what happens in Booty Bay stays in Booty Bay...
+Mithershield had said it — what happens in Booty Bay stays in Booty Bay...
 
 But he hadn't lost his memory. Did he really think he could just leave it there because he wanted to?
 
@@ -105,13 +105,3 @@ Jace laughed and took a drink. "We'll see!"
 "We'll see!" Grede rapped the table with his fingers. "Five gold says I'm right."
 
 "Who the hell bets you... and that much money," Jace muttered.
-
-## Flags
-
-- **温蕾萨·风行者**: rendered as "Vereesa Windrunner" (canonical — the youngest Windrunner sister). Not in glossary.
-- **神圣遗物学会**: rendered as "the Reliquary" (canonical — the high elven relic-seeking organization). Not in glossary.
-- **远行者 / 金刺家族 / 阿塞尔温·金刺**: rendered as "Farstriders," "House Goldthorn," and "Aethwyn Goldthorn" (Vereesa's alias). Not in glossary.
-- **逐日者王室**: rendered as "the Sunstrider royal house." Not in glossary.
-- **守望堡**: rendered as "Nethergarde Keep" (in glossary).
-- **米瑟谢尔德**: the troll woman from Booty Bay; rendered as "Misersheld." Not in glossary.
-- **雷拳家族**: rendered as "House Thunderfist" (Grede's family name; 雷拳 = Thunderfist per glossary).

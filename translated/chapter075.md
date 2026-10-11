@@ -52,7 +52,9 @@ Jace asked in confusion, "How do you know these are Shadowflame burns?"
 
 "I'm fooling you?" Jace said. "Besides, I can't exactly use it on myself — you think I burned my own hand?"
 
-"Then how do you explain this? The gnolls." Jace said, "The gnolls have Shadow warlocks too. They joined in the night raid."
+"Then how do you explain this?"
+
+"The gnolls," Jace said. "The gnolls have Shadow warlocks too. They joined in the night raid."
 
 "Fine." Grede tossed Jace's hand aside. "You pass. This time."
 
@@ -86,7 +88,7 @@ Quite a few also felt that the Orc Wars had only just shown signs of winding dow
 
 Jace also sensed another reason the king had come all the way to Stonewatch to reward the soldiers. If this had been done in Stormwind, the gnoll attack would have been blown up into a huge uproar. Then it wouldn't be Lakeshire panicking — the whole kingdom would be thrown into turmoil.
 
-Late that night, he sorted through his pack. The three Shadow Protection Potions he'd brought were down to one. One had been thrown by Grede during the fight with the orc shaman, one had been drunk at Stonewatch, and this last one had barely made it back from the lake shore — he'd thought he'd lost it.
+Late that night, he sorted through his pack. The three Shadow Protection Potions he'd brought were down to one. One had been lost by Grede during the fight with the orc shaman, one had been drunk at Stonewatch, and this last one had barely made it back from the lake shore — he'd thought he'd lost it.
 
 Jace had now joined the Slaughtered Lamb crew, so he had a new avenue for learning Shadow magic spells. On top of that, the biggest threat in the entire Stormwind region was actually a bunch of physical brutes — whether gnolls, murlocs, or wild beasts.
 
@@ -106,7 +108,7 @@ Right now Jace's "mana pool" was way too small. Two or three Fears and he was sp
 
 If he went into every fight from now on carrying a dozen Mana Potions, that orc shaman would definitely be crowd-controlled to death — Fear, stab, Fear, stab. Forget about him, even Orgrim Doomhammer couldn't escape. Of course, it wouldn't be that simple. Either the Mana Potions would be really weak, or cost a fortune, or stop working after a few bottles, or drinking too many would give you a racing heart and kill you like overdosing on coffee. That's what he'd guess.
 
-Otherwise, wouldn't it mean that as long as you learned one crowd-control spell, brought a cleaver and a whole burlap sack of Mana Potions, you could run rampant across the seven kingdoms?
+Otherwise, wouldn't it mean that as long as you learned one crowd-control spell, brought a cleaver and a whole burlap sack of Mana Potions, you could run rampant across the Seven Kingdoms?
 
 And what about Healing Potions?
 
@@ -114,9 +116,9 @@ Jace poked the bandage on his hand with a finger. A sharp, burning pain flared u
 
 If I drink a Healing Potion, will this pain go away? However he thought about it, that seemed a bit far-fetched.
 
-But he remembered that elf he'd met in Duskwood. He'd had a vial of pink liquid — Grede had said it was a Revival Potion.
+But he remembered that elf he'd met in Duskwood. He'd had a vial of pink liquid — Grede had said it was a Rejuvenation Potion.
 
-In the game, a Revival Potion was a high-level Healing Potion. That elf had claimed that if you drank a Revival Potion, even a wound from a trap could be repaired in a short time. Was that really true?
+In the game, a Rejuvenation Potion was a high-level Healing Potion. That elf had claimed that if you drank a Rejuvenation Potion, even a wound from a trap could be repaired in a short time. Was that really true?
 
 Still, that elf wouldn't be gambling with his own life. And judging by Grede's reaction, he hadn't raised any objections either.
 
@@ -125,25 +127,3 @@ Still, that elf wouldn't be gambling with his own life. And judging by Grede's r
 The snoring from behind was deafening.
 
 Guess he wouldn't know the real answer unless he drank one himself.
-
-## Flags
-
-- **恐惧术 → Fear**: Canonical warlock spell; not in glossary.
-- **暗影火 / 暗影之焰 → Shadowflame**: Not in glossary. Used for both 暗影火 and 暗影之焰; could also be "Shadow Fire." Tentative unified rendering.
-- **腐蚀术 → Corruption**: Canonical warlock DoT spell; not in glossary.
-- **兽人语 → Orcish**: The orcish language; not in glossary.
-- **通用语 → Common**: The common human language; not in glossary.
-- **雷德·黑手 → Rend Blackhand**: Canonical Blackrock orc boss; not in glossary.
-- **奥格瑞姆 → Orgrim Doomhammer**: Canonical (glossary has full name); here rendered as "Orgrim" per Jace's casual reference.
-- **治疗药水 → Healing Potion**: Not in glossary (canonical WoW item).
-- **法力药水 → Mana Potion**: Not in glossary (canonical WoW item).
-- **蓝瓶 → Mana Potions**: Gamer slang (literally "blue bottles"); rendered as "Mana Potions" for clarity.
-- **第二次豺狼人战争 → Second Gnoll War**: Not in glossary.
-- **杰斯的传奇故事 → Jace's Legend**: Chapter title.
-- 一夫当关万夫莫开 rendered idiomatically as "a lone hero holding the top of a stone tower against an army."
-- 打了个酱油 rendered as "made a cameo, done a bit part."
-- 歇菜 rendered as "spent" (done for/wiped out).
-- 凤毛麟角 rendered as "few and far between."
-- 控到死 rendered as "crowd-controlled to death" (gamer tone).
-- 送走 rendered as "couldn't escape" (finish off/send off).
-- Meta-slip "在游戏里说上话了 — er, in person" preserved to capture Jace's self-aware gamer voice.

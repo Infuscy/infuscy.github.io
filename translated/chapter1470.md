@@ -1,6 +1,6 @@
 ## Chapter 1470: Return to the Theater
 
-Coming out of the Chess Room, Jace could already feel that the magic in Karazhan Tower had calmed significantly compared to before they'd entered the Observatorium.
+Coming out of the Chess Room, Jace could already feel that the magic in Karazhan Tower had calmed significantly compared to before they'd entered the Observatory.
 
 Before returning to the library, Jace wanted to go back to the theater one more time. He still couldn't be one hundred percent certain what Little Red Riding Hood's words meant — who the summoned demon was, and whether it was the one who'd told Aegwynn about Ulthalesh. He was about eighty percent sure, but he wanted confirmation.
 
@@ -10,7 +10,7 @@ Even though they came to the theater for the arcane constructs, the mage kept gr
 
 One moment he was saying the boots really were a rare find. The next he was noting they looked like women's boots, not men's. Then he reasoned that since they'd belonged to a Guardian, and among all the Guardians over two thousand years, Aegwynn was the only woman, so he had reasonable suspicion that Aegwynn herself might have worn them... completely incomprehensible rambling.
 
-Khadgar clearly wanted those boots. As a mage who could sense people's emotions, Jace could tell easily. But if Khadgar hadn't wanted them so badly, he — someone insensitive to arcane — wouldn't have been able to judge what would make a good gift for Amy.
+Khadgar clearly wanted those boots. As a warlock who could sense people's emotions, Jace could tell easily. But if Khadgar hadn't wanted them so badly, he — someone insensitive to arcane — wouldn't have been able to judge what would make a good gift for Amy.
 
 Once Jace left Karazhan and Khadgar took control of the Curator, he'd effectively become the new master of the tower. All the treasures and valuables inside would basically be his anyway.
 
@@ -82,31 +82,31 @@ Barnes looked at him for a moment. Though he maintained his smiling expression, 
 
 "Turned the entire stage into a forest. Turned herself into Little Red Riding Hood." Jace said.
 
-"Turned all of us into characters in the play," Morofil added. "Where did she go after that? Just vanished?"
+"Turned all of us into characters in the play," Morophil added. "Where did she go after that? Just vanished?"
 
-"You said earlier that Aegwynn planned to use the tower's mana to drain her own figures' power." Jace said. "But not long ago, she was here casting such powerful illusions, and then after the performance, she left. She didn't return to the Observatorium. She didn't keep interfering with the tower's magic. Would she really be drained that quickly?"
+"You said earlier that Aegwynn planned to use the tower's mana to drain her own figures' power." Jace said. "But not long ago, she was here casting such powerful illusions, and then after the performance, she left. She didn't return to the Observatory. She didn't keep interfering with the tower's magic. Would she really be drained that quickly?"
 
 "I think she'd already accomplished her goal." Khadgar said. "Maybe the decision she represented was to put on that play with us. She fulfilled her purpose, so the energy maintaining her existence disappeared... but even I can't convince myself of that explanation. She could have just told us directly. No need to go through all that trouble."
 
-"Maybe Aegwynn didn't want these 'decisions' to reveal relevant information." Morofil traced a curving path on the wall with her finger. "So this figure chose to accomplish it through a stage play. She found a way to guide us to the theater, told us her concerns through Little Red Riding Hood, then summoned the demon."
+"Maybe Aegwynn didn't want these 'decisions' to reveal relevant information." Morophil traced a curving path on the wall with her finger. "So this figure chose to accomplish it through a stage play. She found a way to guide us to the theater, told us her concerns through Little Red Riding Hood, then summoned the demon."
 
 "Is that possible?" Jace asked the mage.
 
 "It is one way to get around a prohibition." Khadgar nodded.
 
-"We Sayaad know this game best," the succubus said.
+"We sayaad know this game best," the succubus said.
 
 "What are you worried about, Jace?" Khadgar asked.
 
 "I'm worried about how Lady Aegwynn found out about my situation. Whether it's connected to that summoned demon." Jace said.
 
-"There aren't many demons in the world who know our master wields it," Morofil explained. "Unfortunately, Kil'jaeden is one of them."
+"There aren't many demons in the world who know our master wields it," Morophil explained. "Unfortunately, Kil'jaeden is one of them."
 
 "Yes. You did cut the Scepter of Sargeras in front of him." Khadgar rubbed his forehead and sat down on a wooden chair nearby. "I should have thought of that earlier. Does this mean Kil'jaeden himself, or his servants, have found a way to contact Lady Aegwynn? But thankfully, the Deceiver didn't manage to manipulate her easily."
 
 "She's better than us at recognizing the Deceiver's schemes, Khadgar." Jace said. "But right now, I want to know how the Deceiver found her."
 
-"If Morofil's guess is right, it seems Aegwynn placed a prohibition on all her figures, forbidding them from revealing this information." Khadgar said. "Not just Little Red Riding Hood — you asked that battle-mage figure too, and she self-destructed before answering."
+"If Morophil's guess is right, it seems Aegwynn placed a prohibition on all her figures, forbidding them from revealing this information." Khadgar said. "Not just Little Red Riding Hood — you asked that battle-mage figure too, and she self-destructed before answering."
 
 The mage looked at the demonic skull in Jace's hand and continued, "From this we can infer that even if we find Aegwynn herself, she won't tell us. Even if she doesn't hold this staff against you anymore."
 
@@ -114,7 +114,7 @@ Could it be through the Lich King Ner'zhul? The Lich King could communicate with
 
 "Maybe it's some agent?" Jace ventured. "Someone lurking on this side."
 
-"Very possible." Khadgar said. "Looks like we can only wait for the Deceiver's next move. We'll be ready. Maybe we can catch him by the wrist directly."
+"Very possible." Khadgar said. "Looks like we can only wait for the Deceiver's next move. We'll be ready. Maybe we can catch him red-handed."
 
 "I don't like this feeling," Jace said.
 

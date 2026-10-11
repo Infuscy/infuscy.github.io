@@ -1,6 +1,6 @@
 ## Chapter 1477: Khadgar's Gift
 
-So he'd tried to simulate a spell with Khadgar, only to twist the mage's Mage Armor into shadow-encasement and hurt him. On top of that, there was the malevolent shadow he'd accidentally released during the attempt with Mor'fel.
+So he'd tried to simulate a spell with Khadgar, only to twist the mage's Mage Armor into shadow-encasement and hurt him. On top of that, there was the malevolent shadow he'd accidentally released during the attempt with Morophil.
 
 At this point, Jace was a bit afraid to try Dark Simulacrum again anytime soon.
 
@@ -12,13 +12,13 @@ But practicing shadow magic often led to dangers you couldn't anticipate. The si
 
 Plus, being in Karazhan tower, Jace increasingly felt he shouldn't keep experimenting so recklessly. He needed to thoroughly understand this book first, inside and out.
 
-If he'd practiced back at the Tower of Ilgalar or Tyr's Fall, not only would magic and void energy be abundant, but the situation would be under his control. Everything would be much easier.
+If he'd practiced back at the Tower of Ilgalar or Telogrus, not only would magic and void energy be abundant, but the situation would be under his control. Everything would be much easier.
 
 About two weeks had passed since he'd left Stormwind. He wondered how Grede was doing. Jace had found what he was looking for in Karazhan, plus some unexpected gains, so there wasn't much more for him to do here.
 
 So he decided to head back to Stormwind. That morning, he came to the exhibition hall to say goodbye to Khadgar.
 
-"Khadgar, can I borrow books from the Grand Library?" Jace called from a distance.
+"Khadgar, can I borrow books from the Great Library?" Jace called from a distance.
 
 "Of course, Sesso!" Khadgar emerged from behind the Curator's leg. "The Curator's in my care now anyway."
 
@@ -26,11 +26,11 @@ So he decided to head back to Stormwind. That morning, he came to the exhibition
 
 "Yes, I'm not interested in learning Nathrezim right now anyway." Khadgar put his hands on his hips. "You're leaving Karazhan?"
 
-"In the next couple of days. I don't want to cause more trouble for you and the tower." Jace said. "Also, I need to head to Shadowforge City soon to meet with Master Roktus Darkbargain. I don't know how the Wildhammer knights' raid went, so I need to prepare on my end too."
+"In the next couple of days. I don't want to cause more trouble for you and the tower." Jace said. "Also, I need to head to Shadowforge City soon to meet with Master Lokhtos Darkbargainer. I don't know how the Wildhammer knights' raid went, so I need to prepare on my end too."
 
 "Dark Iron dwarves." Khadgar bowed his head in thought for a moment. "Good luck. I hope that hammer can do enough. After I finish giving the Curator his next instructions, I'll have to leave here temporarily too and return to Lordaeron. When good news comes from Shadowforge City, I believe at least the Kirin Tor and Stromgarde will respond positively. Six years later, the Sons of Lothar will gather beneath Blackrock Spire again. This time we'll finish what we couldn't before. The enemy has the black dragons now, but we're stronger too."
 
-"But I can't send you off right now. A lot of things still need finishing — a week or two more." The mage said. "You know... the books you want to take are very heavy, right? You can't possibly have Miss Mor'fel carry them for you, can you?"
+"But I can't send you off right now. A lot of things still need finishing — a week or two more." The mage said. "You know... the books you want to take are very heavy, right? You can't possibly have Miss Morophil carry them for you, can you?"
 
 "She could defeat a demon lord. I think her strength should..." Jace glanced at the passage to the storeroom. "Okay, she might hold a grudge for years. Not because of the manual labor, but because it'd let Sazeno watch her struggle."
 
@@ -48,7 +48,7 @@ Khadgar chuckled. "You can't use some teleportation spell to send us away? Mass 
 
 "If I knew, I'd be the prophet." The warlock said. "Anyway, I have other business with him too."
 
-"Alright then." The mage said. "That's even closer. You're not worried about the swamp crocodiles and venom spiders, are you?"
+"Alright then." The mage said. "That's even closer. You're not worried about the swamp crocolisks and venom spiders, are you?"
 
 "Those aren't the problem, but at least give me a handcart or something for the books." The warlock said. "I'm sure a tower this big has something like that."
 
@@ -58,19 +58,19 @@ Khadgar leaned against the Curator's foot and looked at Jace for a long, silent 
 
 "You'll see when you get there." Khadgar said. "You've helped me a lot. I can't very well let you walk back."
 
-Jace brought Mor'fel and Sazeno, following Khadgar out of the Grand Library and into the spiral staircase. They passed through the ever-noisy Opera Hall, descended a few flights, and arrived at the Banquet Hall.
+Jace brought Morophil and Sazeno, following Khadgar out of the Great Library and into the spiral staircase. They passed through the ever-noisy theater, descended a few flights, and arrived at the Banquet Hall.
 
 Joyful piano music echoed through the banquet hall. Young men and women sang and danced in the hall. They were all ghosts, but visible without any Ghost-Vision potion. Except for certain unsettling details — like the occasional flash of blue ghostly dust drifting from their footsteps, and the hall being as cold as deep winter while they wore thin shirts and dresses... it was impossible to tell if they were people or spirits.
 
 But these smiling young ghosts didn't treat the passing group as anything strange. They simply ignored them, lost in the piano and their own dancing.
 
-"What about Karazhan's chamberlain?" Jace asked.
+"What about Karazhan's steward?" Jace asked.
 
 "You mean Mr. Moroes." Khadgar said. "He's dead too, Jace."
 
 "I... could guess he was dead." Jace glanced around at the ghosts. "They're dead too."
 
-"That's what you meant." Khadgar shook his head. "I don't know. I haven't found him. Mr. Moroes doesn't seem to have returned to Karazhan as a ghost. Otherwise, he would have stopped the Opera Hall's nonstop performances. He never liked that place."
+"That's what you meant." Khadgar shook his head. "I don't know. I haven't found him. Mr. Moroes doesn't seem to have returned to Karazhan as a ghost. Otherwise, he would have stopped the theater's nonstop performances. He never liked that place."
 
 Jace also remembered that even in the game, Moroes didn't exist in Karazhan as a ghost — but as an undead living corpse.
 
@@ -110,7 +110,7 @@ Midnight. Of course. Attumen the Huntsman's horse.
 
 "How... handled?" Jace asked.
 
-"A few days ago, when I came to check the kitchen, this madman thought I was trying to steal his horse. He came at me with swords and guns. So I gave him a little gift." Khadgar leaned against a wooden post. "Specifically, a jar of Stratholme Holy Water. I got it from Lord Saidan Dathrohan before I came to Karazhan. Most of the ghosts in Karazhan are friendly enough. I thought I wouldn't need it. Turns out I didn't waste it."
+"A few days ago, when I came to check the kitchen, this madman thought I was trying to steal his horse. He came at me with blades drawn. So I gave him a little gift." Khadgar leaned against a wooden post. "Specifically, a jar of Stratholme Holy Water. I got it from Lord Saidan Dathrohan before I came to Karazhan. Most of the ghosts in Karazhan are friendly enough. I thought I wouldn't need it. Turns out I didn't waste it."
 
 Jace stared at him for a long time. Khadgar looked back. "What? Do you know him? Or did Captain Vic Sesso know him?"
 
@@ -120,11 +120,11 @@ Jace stared at him for a long time. Khadgar looked back. "What? Do you know him?
 
 "I'll try."
 
-Jace stepped forward into the yard. Mor'fel watched from behind with a smile, like she was waiting to see her master make a fool of himself. The imp poked his head out from her shoulder, looking nervous.
+Jace stepped forward into the yard. Morophil watched from behind with a smile, like she was waiting to see her master make a fool of himself. The imp poked his head out from her shoulder, looking nervous.
 
 Jace looked into the shadows, steadied his emotions, and asked, "Are you willing to help me leave this place, Midnight?"
 
 The name "Midnight" had barely landed when the gaunt black horse turned his head this way. The evil green demonic flame in his eyes ignited instantly, like two floating will-o'-wisps in the dark stable.
 
-"Remember to get him a blindfold, Jace." Khadgar said. "Best to use gray magicweave cloth enchanted with fel fire resistance."
+"Remember to get him a blindfold, Jace." Khadgar said. "Best to use gray mageweave cloth enchanted with fel fire resistance."
 

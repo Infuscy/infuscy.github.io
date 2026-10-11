@@ -4,7 +4,7 @@ Go meet a forest troll?
 
 If it were a Gurubashi jungle troll, at least among them there were exile groups like the Darkspear — relatively peaceful, not so aggressive. But the forest trolls of the north were the real deal, so to speak. They embodied nearly every terrifying rumor about trolls: cannibalism, headhunting, flaying, dark magic, loa worship, foul rituals...
 
-Still, since this forest troll had managed to carve out a place for herself in Booty Bay, she must've been playing by the rules. And if Mishershield had known her for years, it meant she'd integrated herself well enough over time.
+Still, since this forest troll had managed to carve out a place for herself in Booty Bay, she must've been playing by the rules. And if Mithershield had known her for years, it meant she'd integrated herself well enough over time.
 
 Following the directions the goblin had given him, Jace walked down a narrow street gradually away from the coast, into a palm-covered hillside.
 
@@ -24,7 +24,7 @@ No answer. He glanced outside — the sun was already starting to dim. Had the t
 
 Just as he was wondering whether to leave and come back that evening, the door behind him gave a sudden creak.
 
-Jace turned. Through the square hole in the door, a skull had suddenly appeared. He flinched, his hand shooting to the staff behind him, the first syllable of Immolate already on his lips.
+Jace turned. Through the square hole in the door, a skull had suddenly appeared. He flinched, his hand shooting to the staff behind him, the first syllable of Scorch already on his lips.
 
 But a step later he realized it wasn't a skull at all — it was a wooden mask carved and painted to look like a troll skull.
 
@@ -54,7 +54,7 @@ Hearing that, the troll let out a loud laugh. "Of *course* it tastes better. Luk
 
 "You're welcome to go fetch it yourself from the Hinterlands, human." Sylia said. "I can even tell you exactly where the mushrooms are easiest to find. But I can tell you your fate in advance: your scalp will be stripped off and hung on a wooden wall in some Vilebranch hunter's dwelling as a trophy. Because if you're capable of finding that mushroom, three gold is hardly a price you'd refuse..."
 
-Considering that Mishershield would probably want to run experiments with this formula, Jace couldn't exactly buy just one. Two or three caps, and the price would be absurd.
+Considering that Mithershield would probably want to run experiments with this formula, Jace couldn't exactly buy just one. Two or three caps, and the price would be absurd.
 
 He'd come to Booty Bay prepared to spend as much as ten gold, but that was for buying potions — drink them and be done with it. The situation had turned out a little more complicated than he'd expected back in Stormwind. Blowing nine gold just on a few raw materials wasn't what he'd budgeted for.
 
@@ -72,7 +72,7 @@ He conjured a Light cantrip to brighten the dim cave, then casually dismissed it
 
 The troll forced out a raspy question: "First tell me — what kind of troublesome opponents have you dealt with?"
 
-"Death Knights," Jace said. "I killed a Death Knight once. And I didn't bring any edged weapon — I took his own black dagger and drove it into his eye socket, and he collapsed like a pile of mud before he could even let his soul slip away."
+"Death knights," Jace said. "I killed a death knight once. And I didn't bring any edged weapon — I took his own black dagger and drove it into his eye socket, and he collapsed like a pile of mud before he could even let his soul slip away."
 
 Sylia's eyes shifted. "Hmm. Seems I underestimated you. I can tell from your eyes that you're young — that threw off my judgment."
 
@@ -104,12 +104,6 @@ She grew angrier as she spoke, until the last words came out as a gnashing, bitt
 
 "The mask is blue-green, eyes shut tight, with a long nose — like a male troll's face." Sylia said. "If you find it, you'll recognize it at once."
 
-"Blue-green, closed eyes, long nose. Got it." Jace nodded. "If she won't hand it over, or you can't find the mask anywhere — kill her." Sylia said. "Bring her head back. I'll make her confess everything."
+"Blue-green, closed eyes, long nose. Got it." Jace nodded.
 
-## Flags
-
-- **Chapter title**: 鲁孔卡尼 — "Lukongkani" (fanfic-invented trollish name for a hallucinogenic underwater mushroom native to the Hinterlands; romanization tentative, see below).
-- **Key terms**: 西尔娅 = Sylia (forest troll OC); 邪枝 = Vilebranch (troll tribe, canon); 鲁孔卡尼 = Lukongkani (fanfic mushroom name); 辛特兰 = the Hinterlands; 藏宝海湾 = Booty Bay; 荆棘谷 = Stranglethorn Vale; 灼烧咒 = Immolate (warlock spell, first syllable "I" on Jace's lips); 光亮术 = Light (mage cantrip); 死亡骑士 = Death Knight; 灵魂链接 = Soul Link (referenced later in the chapter sequence).
-- **Lore note**: Jace's Death Knight kill references an earlier arc. Sylia's description of Lukongkani as a hallucinogenic fungus that makes food taste like whatever you want aligns with the fanfic's reimagining of the Noggenfogger Elixir quest material.
-- **Romanization note**: 鲁孔卡尼 is rendered as "Lukongkani" (4 syllables: 鲁-孔-卡-尼). Tentative — no canonical WoW equivalent exists; flag for glossary confirmation.
-- **Source**: lines 19975–20032.
+"If she won't hand it over, or you can't find the mask anywhere — kill her." Sylia said. "Bring her head back. I'll make her confess everything."

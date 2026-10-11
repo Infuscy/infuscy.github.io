@@ -8,11 +8,11 @@ Pushing forward through the corridor saturated with dark magic, Jace even felt l
 
 Just when he felt like he was about to lose the ability to think altogether, the group arrived at a doorway, and before them lay a deep, cavernous hall. Broader than the chamber with the pool where the Kaldorei mage had been, massive stone pillars supported the floor and the ceiling that rose so high it vanished into shadow. Stairs along the sides led up to the high terraces.
 
-This had probably once been a hall for important councils. The residents of Eldre'Thalas would gather here, watching performances from different levels, feasting together, conducting rituals and so on. But now it was empty — not a soul, not a demon. Jace's Detect Demons couldn't sense the faintest trace of demonic activity.
+This had probably once been a hall for important councils. The residents of Eldre'Thalas would gather here, watching performances from different levels, feasting together, conducting rituals and so on. But now it was empty — not a soul, not a demon. Jace's Sense Demons couldn't sense the faintest trace of demonic activity.
 
 Where were the demons? If it was just two felhounds, why go to so much trouble... Just then, Jace noticed a demon lying at the base of a pillar ahead.
 
-His face was withered, his body emaciated. From this distance it was hard to tell whether he was Eredar or Mo'arg. He was tall — at least two meters — drained as though nothing but a skeleton had been left to slump here.
+His face was withered, his body emaciated. From this distance it was hard to tell whether he was eredar or Mo'arg. He was tall — at least two meters — drained as though nothing but a skeleton had been left to slump here.
 
 "A Mo'arg warrior," Morophil said. "Hard to say whether he's a Burning Legion guard. He's not wearing Legion armor, and the fel tattoos on his skin are too faded to make out."
 
@@ -38,13 +38,13 @@ Some battle royale... Jace thought to himself.
 
 But the more he thought about it, the more he felt they might actually have a point.
 
-"So where's the final victor?" he said. "Can you sense any trace of Das'mora here, Vereesa?"
+"So where's the final victor?" he said. "Can you sense any trace of Dasmora here, Vereesa?"
 
-"Honestly, Jace," Vereesa said. "The mana here is chaos. By my senses, Das'mora's magical traces are everywhere, but faint — very similar to the aura on that demon statue we found."
+"Honestly, Jace," Vereesa said. "The mana here is chaos. By my senses, Dasmora's magical traces are everywhere, but faint — very similar to the aura on that Demonic Figurine we found."
 
 "You think maybe that doomguard killed these demons?" Grede asked.
 
-"Eredun drain demons to this state?" Sazeno said, clutching the edge of the soul pouch. "If you told me the master did it, I'd be a lot more inclined to believe that!"
+"An Ered'ruin drain demons to this state?" Sazeno said, clutching the edge of the soul pouch. "If you told me the master did it, I'd be a lot more inclined to believe that!"
 
 "A demon's body is full of fel energy," Jace said. "If I sucked that into myself, wouldn't that be awful? Only a demon could do something like that."
 
@@ -82,13 +82,13 @@ Jace signaled the felhound to hide behind a distant pillar first, glanced inside
 
 A few steps down the stairs, he found himself in a rather cramped dark chamber, the floor soaked with viscous liquid.
 
-All over the floor and walls were demons dead in gruesome ways — mostly Mo'arg and succubi, even an Eredar head piled to one side. The viscous liquid was, beyond doubt, demon blood that would never coagulate.
+All over the floor and walls were demons dead in gruesome ways — mostly Mo'arg and succubi, even an eredar head piled to one side. The viscous liquid was, beyond doubt, demon blood that would never coagulate.
 
 Seeing those bloated demon organs, Jace finally couldn't take it and vomited to the side. After a few heavy breaths cleared his head a little, he realized that while most of the corpses here were withered like the ones elsewhere, a good number of them were still quite plump — as if they'd just been killed.
 
 The others gradually overcame their physical revulsion and came in too. The moment Grede saw the scene, he doubled over and dry-heaved. Vereesa seemed a bit weak-legged and dizzy too — she nearly tripped over some demon's thigh on the floor as she walked over.
 
-Worried there might still be a living demon in here, Jace used Detect Demons to peer past the demon remains into the depths. Soon, he spotted a gaunt figure sitting in the black blood at the lowest point of the chamber.
+Worried there might still be a living demon in here, Jace used Sense Demons to peer past the demon remains into the depths. Soon, he spotted a gaunt figure sitting in the black blood at the lowest point of the chamber.
 
 This figure wasn't a demonic shadow at all — it was a void, a silhouette surrounded by demonic aura that was everywhere, as if some power had shielded the demonic shadow from the body...
 

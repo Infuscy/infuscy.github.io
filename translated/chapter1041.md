@@ -16,9 +16,9 @@ At the same time, he flicked another ball of flame from his other hand into the 
 
 Of course, Jace hadn't come here specifically to perform tricks for the kids running loose in the streets. Not long from now, he and his friends would be setting out for Booty Bay. By arrangement, Vereesa should be returning from Quel'Thalas soon as well.
 
-These past two days, aside from waiting for Ursula to finish the Refined Wisdom Elixir, there wasn't much else to do in Stormwind. So when he got up in the morning he'd thought he'd come up onto the walls to see if he could wait for her blue dragonhawk.
+These past two days, aside from waiting for Ursula to finish the Flask of Distilled Wisdom, there wasn't much else to do in Stormwind. So when he got up in the morning he'd thought he'd come up onto the walls to see if he could wait for her blue dragonhawk.
 
-Naturally, Jace hadn't planned to just kill time here idly. He'd of course brought along the Ignan elemental grimoire Rokhtus had given him.
+Naturally, Jace hadn't planned to just kill time here idly. He'd of course brought along the Ignan elemental grimoire Lokhtos had given him.
 
 It was a bleak winter's day. A cold wind swept across the ground covered in withered yellow leaves. Gazing out at the ripples on the lake at the bottom of the Valley of Heroes, accompanied by the expanse of green Elwynn Forest, with gryphons soaring out from atop the walls from time to time, and patrol cavalry crossing the bridge in neat formation with rhythmic hoofbeats…
 
@@ -52,7 +52,7 @@ The children shouted excitedly. Jace glanced at the little girl who'd first brou
 
 He felt like the last time he'd cast Light was in another life. That absurdly short incantation — he wasn't even confident he remembered it accurately.
 
-After all, with the Song of the Blue Sky being such a convenient arcane torch, who'd waste mana casting Light?
+After all, with Azuresong being such a convenient arcane torch, who'd waste mana casting Light?
 
 But to fulfill the children's wish, there was no helping it — after all, he couldn't very well draw his sword in front of the kids.
 
@@ -66,15 +66,15 @@ Looking toward the source of the light orb, a silver-haired elf in a simple gree
 
 Some child suddenly shouted, and the children all looked over, shouting excitedly along with them.
 
-Vereesa, on the contrary, was thrown into a fluster by the children's enthusiasm. The arcane light orb she'd been guiding dissipated into thin air from the commotion. Compared to the "stars" that could be seen regularly near the Wizard Sanctum, the children seemed far more interested in the appearance of an elf.
+Vereesa, on the contrary, was thrown into a fluster by the children's enthusiasm. The arcane light orb she'd been guiding dissipated into thin air from the commotion. Compared to the "stars" that could be seen regularly near the Wizard's Sanctum, the children seemed far more interested in the appearance of an elf.
 
-After finally managing to shoo the children away, only the two of them were left on the wall again. Jace watched the children below the wall chasing after a candy vendor into the distance and said, "You stole all my thunder, Ve. Actually, I'm curious what spell that light orb was — how did you…"
+After finally managing to shoo the children away, only the two of them were left on the wall again. Jace watched the children below the wall chasing after a candy vendor into the distance and said, "You stole all my thunder, Vere. Actually, I'm curious what spell that light orb was — how did you…"
 
 Vereesa shrugged. "An underpowered Arcane Missile."
 
 "So you threw an Arcane Missile at the children." Jace nodded slowly.
 
-"Still a lot better than you being forced into a corner and firing off a Shadow Bolt just to save face," Vereesa said, giving him a sidelong glance. "Besides, I used to pull this trick on Lorlas all the time when I was little. I'm very familiar with it — no problem at all."
+"Still a lot better than you being forced into a corner and firing off a Shadow Bolt just to save face," Vereesa said, giving him a sidelong glance. "Besides, I used to pull this trick on Lirath all the time when I was little. I'm very familiar with it — no problem at all."
 
 "How long were you watching from behind?" Jace narrowed his eyes.
 
@@ -98,7 +98,9 @@ She lightly pursed her lips and whispered, "Sorry, Jace. The dragonhawk last tim
 
 "Fine — Sola told me." Vereesa glanced toward a big tree not far away. "They're the ones who sold you out."
 
-Jace sighed. "Sola's eyes and ears have surrounded the walls of Stormwind." The two of them shared a quiet laugh. Jace asked, "How's your preparation?"
+Jace sighed. "Sola's eyes and ears have surrounded the walls of Stormwind."
+
+The two of them shared a quiet laugh. Jace asked, "How's your preparation?"
 
 "Don't forget what the Farstriders were founded for, Jace," Vereesa said. "There were Hakkar worshippers in the Amani Empire too, and Hakkar's power didn't help them stop our arrows and blades. I've brought along sacred oils for dealing with the trolls' soul-shamans, as well as some implements that can handle voodoo and blood magic."
 
@@ -108,4 +110,6 @@ The forest troll they'd encountered in the underground spider nest in the Hinter
 
 This time, delving deep into the lair of the most extreme and evil kind of trolls, they absolutely couldn't let their guard down — especially with green dragons to deal with at the same time.
 
-"When do we set out?" Vereesa said. "I can't wait to kill a few more trolls." Jace said, "Tomorrow or the day after — be ready at any time. My potions should be finished today, more or less."
+"When do we set out?" Vereesa said. "I can't wait to kill a few more trolls."
+
+Jace said, "Tomorrow or the day after — be ready at any time. My potions should be finished today, more or less."

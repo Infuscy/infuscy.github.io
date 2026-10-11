@@ -16,23 +16,23 @@ Jace knew the truth. Grede was just scared of ghosts. Plain and simple. The guy 
 
 So it came as a surprise when Grede suggested they all grab a drink at Dreg's this afternoon.
 
-By the time Jace arrived, Vereesa and Sora were already there. The table was obviously Grede's pick — he always liked to tuck himself into a corner.
+By the time Jace arrived, Vereesa and Sola were already there. The table was obviously Grede's pick — he always liked to tuck himself into a corner.
 
-Jace treasured the rare chance to drink at a tavern with his friends, but Wildhammer Stronghold wasn't Stormwind. In Stormwind, plenty of people had heard of him, but apart from the palace, the Wizard Sanctum, and SI:7, most folks didn't know what he looked like. When they met up, the only thing that drew attention was Vereesa's elven features.
+Jace treasured the rare chance to drink at a tavern with his friends, but Wildhammer Stronghold wasn't Stormwind. In Stormwind, plenty of people had heard of him, but apart from the palace, the Wizard's Sanctum, and SI:7, most folks didn't know what he looked like. When they met up, the only thing that drew attention was Vereesa's elven features.
 
-Here, everyone knew exactly who they were and what they'd done. Jace had barely sat down before soldiers started coming over to toast him, expressing their admiration and gratitude for the Dragonmaw Fortress battle. By the time every table in the place had made a round, they could finally talk about what they actually wanted to.
+Here, everyone knew exactly who they were and what they'd done. Jace had barely sat down before soldiers started coming over to toast him, expressing their admiration and gratitude for the battle at Dragonmaw Fortress. By the time every table in the place had made a round, they could finally talk about what they actually wanted to.
 
-The elf and the green dragon were quietly discussing everything that had happened deep in the fortress. Vereesa was animatedly telling Sora how she'd discovered the magical link between the terrifying void dragon and the orc warlock. Sora was more concerned about her injuries — shadow corrosion of that magnitude wasn't something you recovered from in a day or two, even with a priest's help.
+The elf and the green dragon were quietly discussing everything that had happened deep in the fortress. Vereesa was animatedly telling Sola how she'd discovered the magical link between the terrifying nether dragon and the orc warlock. Sola was more concerned about her injuries — shadow corrosion of that magnitude wasn't something you recovered from in a day or two, even with a priest's help.
 
 Grede was burying his face in his drink. Bread in one hand, beer in the other. The talbuk leg the tavern owner had specially brought for their table sat untouched.
 
 "This bread's gone off," the dwarf muttered. "Tastes like acid. Been sitting too long?"
 
-"The best bread went to the Church," Vereesa said. "The wounded get the best food. As for you, I think your constitution can handle a little spoilage. And failing that, we have Sora."
+"The best bread went to the Church," Vereesa said. "The wounded get the best food. As for you, I think your constitution can handle a little spoilage. And failing that, we have Sola."
 
 Grede grumbled a few dwarf curses under his breath and went back to gnawing on his bread.
 
-Normally, Sora would have seized the chance to tease Grede. But this time, she said nothing. She even glanced hesitantly at Jace, her eyes full of worry and doubt.
+Normally, Sola would have seized the chance to tease Grede. But this time, she said nothing. She even glanced hesitantly at Jace, her eyes full of worry and doubt.
 
 "Alright," Jace finally said, unable to ignore the weird atmosphere anymore. He leaned back in his chair. "Just say what you want to say."
 
@@ -44,7 +44,7 @@ Jace let out a snort, crossing his arms. "I wasn't planning to hide anything fro
 
 "You spoke with Master Khadgar, didn't you? Using the array in the basement." Vereesa lowered her voice. "What did he say? Does he think it's possible?"
 
-"He should be in Dalaran, or somewhere. Not in Ilgara's Tower," Jace said. "But I didn't tell them about that thing either."
+"He should be in Dalaran, or somewhere. Not in the Tower of Ilgalar," Jace said. "But I didn't tell them about that thing either."
 
 "Why not?" Grede asked.
 
@@ -54,17 +54,17 @@ Jace let out a snort, crossing his arms. "I wasn't planning to hide anything fro
 
 "What'd you tell me? I said he'd be cautious. You said you'd hit him with your hammer." Vereesa's eyes went wide.
 
-"The hell I said that... Damn it." Grede shot a quick look at Jace, then grimaced at the ranger. "Didn't you go to some Falthrien Academy? Ever hear of a rhetorical device, little elf?"
+"The hell I said that... Damn it." Grede shot a quick look at Jace, then grimaced at the ranger. "Didn't you go to some Faltherin Academy? Ever hear of a rhetorical device, little elf?"
 
 "Falthrien!" Vereesa snapped.
 
-"Sorry..." Sora said quietly, her head down. "It was my idea. I was... worried."
+"Sorry..." Sola said quietly, her head down. "It was my idea. I was... worried."
 
 "Yeah. She's the one who wanted us here." Grede cleared his throat, tore a strip off the talbuk leg, and shoved it into his mouth, chewing as he talked. "Yeah, it was her."
 
-"Jace." Sora swallowed nervously. "We've all been to the Temple of Atal'Hakkar. We know what my father decided there, and what it led to. If the Emerald Nightmare and everything in that temple taught me anything, it's this: be careful of the things you think you can control, Jace. I don't want you to think I'm doubting you, but..."
+"Jace." Sola swallowed nervously. "We've all been to the Temple of Atal'Hakkar. We know what my father decided there, and what it led to. If the Emerald Nightmare and everything in that temple taught me anything, it's this: be careful of the things you think you can control, Jace. I don't want you to think I'm doubting you, but..."
 
-"Think about what you told Grede, Jace." Vereesa said. "That warhammer the Dark Iron dwarves forged. You know how much trouble Grede Thunderfist would be taking on if he picked it up. Those dwarves might genuinely want him to be that hero, want him to free them from the Fire Lord. But in the end, whoever holds that hammer has to face more and more problems. The dwarves can't control that."
+"Think about what you told Grede, Jace." Vereesa said. "That warhammer the Dark Iron dwarves forged. You know how much trouble Grede Thunderfist would be taking on if he picked it up. Those dwarves might genuinely want him to be that hero, want him to free them from the Firelord. But in the end, whoever holds that hammer has to face more and more problems. The dwarves can't control that."
 
 "I don't like that analogy, little elf." Grede pointed at Vereesa. "Not one bit! We're talking about that demonic artifact. How is that the same thing?!"
 
@@ -80,7 +80,7 @@ All three of them looked at him. Vereesa asked cautiously, "A deliberate... trap
 
 "What's going on?" Grede looked around. "I didn't study elven history."
 
-"Queen Azshara, in pursuit of greater power... summoned the Burning Legion," Sora said. "It caused the Great Sundering ten thousand years ago, splitting ancient Kalimdor into the continents we know today."
+"Queen Azshara, in pursuit of greater power... summoned the Burning Legion," Sola said. "It caused the Great Sundering ten thousand years ago, splitting ancient Kalimdor into the continents we know today."
 
 "You're saying... Kil'jaeden is baiting us. No, baiting you..." Vereesa whispered.
 
@@ -102,9 +102,9 @@ He let out a slow breath, glancing at the tables nearby where soldiers were heat
 
 Vereesa seemed to understand, offering a small smile. Grede blew out his mustache. "You're not just doing it for that reason, are you?"
 
-He pitched his voice high in mockery. "'I don't want it, but here I am leading the expedition all over the map in circles?' Marshal Turalyon's not gonna go for that. You can't hide it from them."
+He pitched his voice high in mockery. "'I don't want it, but here I am leading the expedition all over the map in circles?' General Turalyon's not gonna go for that. You can't hide it from them."
 
-"What circles?" the ranger said quietly. "This is stalling for time while we find another way! I understand. My sister and Turalyon will understand too. As for your 'Great Lord' — I can't vouch for him."
+"What circles?" the ranger said quietly. "This is stalling for time while we find another way! I understand. My sister and Turalyon will understand too. As for your 'High Thane' — I can't vouch for him."
 
 Grede gave her a sour look, then said, "Fine. That makes sense. Stalling. But haven't all the other paths been blocked?"
 
@@ -120,13 +120,13 @@ Jace looked at the crossed-out lines on the table and said softly, "Then we need
 
 The dwarf wiped his mouth. "You think those Dark Irons would dare talk back to me once they hear how many demons I've killed in Draenor? That's a damn sight more impressive than them rolling around in a cesspit with a few Blackrock orcs for years."
 
-"Jace." Sora's voice was soft. "What if we find it?"
+"Jace." Sola's voice was soft. "What if we find it?"
 
-Jace looked at the young dragon, then glanced at Usaalus by his side. "That... I honestly haven't figured out yet."
+Jace looked at the young dragon, then glanced at Ulthalesh by his side. "That... I honestly haven't figured out yet."
 
 "I think if the demons wanted this trap to be convincing, they wouldn't make it too easy," Vereesa said. "We should have enough time."
 
-Sora nodded.
+Sola nodded.
 
 "What about those two demons?" Grede asked.
 
@@ -138,4 +138,4 @@ Jace chuckled, taking a sip of beer. "I don't need that thing to do it."
 
 "See that?" Grede gestured at Jace, looking at the ranger and the green dragon. "The cunning warlock shows his true colors!"
 
-Vereesa and Sora burst out laughing. Even the dwarves deep in their own heated conversations turned to glance their way.
+Vereesa and Sola burst out laughing. Even the dwarves deep in their own heated conversations turned to glance their way.

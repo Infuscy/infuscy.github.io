@@ -12,7 +12,9 @@ Of course, not many people in Stormwind seemed to care about the fate of Duke Da
 
 Still, judging solely by the fact that she appeared to have forgotten her father's fate wasn't enough to conclude Katrana didn't care about him. After all, strong executive ability and emotional management were valuable qualities many outstanding people possessed.
 
-Jace guessed that if anyone questioned whether this princess was too heartless, she'd probably trot out those reasons in her defense. Arriving outside Prestor's residence, Jace glanced casually through the railing and noticed the maid sweeping up fallen leaves.
+Jace guessed that if anyone questioned whether this princess was too heartless, she'd probably trot out those reasons in her defense.
+
+Arriving outside Prestor's residence, Jace glanced casually through the railing and noticed the maid sweeping up fallen leaves.
 
 Seemingly catching sight of a shadow passing by outside the metal-railed wall, she stopped her work and looked over. Jace waved. The maid nodded somewhat nervously, didn't say a word, and hurried inside — presumably to report to her mistress.
 
@@ -22,7 +24,7 @@ Truth be told, Jace couldn't say he was entirely indifferent to this maid.
 
 She appeared to be an ordinary human, both in how she looked to the naked eye and in her emotional responses. Jace didn't know how she'd become a maid in the Prestor household.
 
-He hoped she'd survive this unavoidable collision, Jace thought to himself. At this point, he almost wished the maid was a well-disguised whelp or dragonkin — that way, if it came to the end, he could act without hesitation.
+He hoped she'd survive this unavoidable collision, Jace thought to himself. At this point, he almost wished the maid was a well-disguised young dragon or dragonkin — that way, if it came to the end, he could act without hesitation.
 
 After a while, Katrana Prestor walked out of the courtyard in quick, eager steps. The white vapor she exhaled spoke to a rather high breathing rate — some nervousness — and because she'd been watching Jace's position the whole way, her foot nearly caught on the slightly uneven courtyard stones.
 
@@ -64,7 +66,9 @@ Jace glanced up at her, thinking what a thorough performance this was. Aside fro
 
 "Then, tomorrow afternoon at Mirror Lake. I'll bring all the clues and evidence I've found. I also have some questions for you — without some things only you know, it'll be very hard to piece together all the clues I've gathered so far."
 
-"I'll remember — tomorrow afternoon, Mirror Lake," Katrana said. Katrana would definitely agree — Jace wasn't surprised by that.
+"I'll remember — tomorrow afternoon, Mirror Lake," Katrana said.
+
+Katrana would definitely agree — Jace wasn't surprised by that.
 
 After all, she had no reason to refuse. This appointment concerned the life of Daval Prestor, and he was the one who held the most clues, the person in all of Stormwind who understood black dragons best.
 
@@ -76,7 +80,7 @@ Next, he needed to go home first and brief Morophil, then head back to the Mage 
 
 All the way across the bridge over the canal, his thoughts grew more and more tangled, and he couldn't help recalling certain earlier images.
 
-That orc imprisoned in the Order of the Circle in Shadowforge City — the rebel soldier who'd tried to transport the stone tablets — had once described the woman high up in Blackrock Spire, the one before whom even Victor Nefarius reined in his arrogance.
+That orc imprisoned in the Ring of Law in Shadowforge City — the rebel soldier who'd tried to transport the stone tablets — had once described the woman high up in Blackrock Spire, the one before whom even Victor Nefarius reined in his arrogance.
 
 That seemed like the Onyxia Jace truly knew, as if projected straight from his memories of his past life.
 
@@ -86,31 +90,31 @@ Wait... suspicion, wariness, self-doubt. Was this the erosion brought by foreign
 
 Jace couldn't recall ever being struck by shadow magic, but he had to be on guard against these emotions that had suddenly surfaced.
 
-He instinctively wanted to glance back at that Alterac princess, but felt such an easily suspicious gesture was entirely unnecessary — yet the more he didn't look back, the more it felt as if that enormous ancient black dragon had already spread its wings and landed behind him... its claws reaching over his head.
+He instinctively wanted to glance back at that Alteraci princess, but felt such an easily suspicious gesture was entirely unnecessary — yet the more he didn't look back, the more it felt as if that enormous ancient black dragon had already spread its wings and landed behind him... its claws reaching over his head.
 
 Until the iron door scraped open, finally slamming shut with a bang, followed by the sound of locks clicking into place, accompanied by the quiet voices of a master and servant talking.
 
-At noon, he told Sola and Vereesa the appointed time, then had Morophil go to the Dwarf District to inform Grede, as well as Krasus who was staying at Grede's place.
+At noon, he told Sola and Vereesa the appointed time, then had Morophil go to the Dwarven District to inform Grede, as well as Krasus who was staying at Grede's place.
 
 What surprised him considerably was that this red dragon mage, who looked so fastidious, had no complaints whatsoever about his lodgings or his roommate — as long as he could hide his mortal form, anywhere would do.
 
 After informing Mathias of the time, Jace went to the alchemy lab that evening at the agreed time to pick up his potions. The moment he entered the basement, he smelled a scorching odor in the room, untainted by any trace of shadow.
 
-He'd used elemental flames when crafting his Void Robe before, and he was quite familiar with the smell.
+He'd used elemental flames when crafting his Robe of the Void before, and he was quite familiar with the smell.
 
-Erland and Sulenna were organizing spellbooks, scrolls, and various things in the hall. Erland spotted Jace immediately. "Hey, perfect timing, Jace. I've got a spell here... run into a bit of trouble. Could you give me some guidance? It's been goddamn hard to get a hold of you and Galders lately."
+Erlan and Surena were organizing spellbooks, scrolls, and various things in the hall. Erlan spotted Jace immediately. "Hey, perfect timing, Jace. I've got a spell here... run into a bit of trouble. Could you give me some guidance? It's been goddamn hard to get a hold of you and Zardeth lately."
 
-"A few more days, Erland." Jace put on an apologetic expression. "As soon as I deal with the trouble at hand, I'll come help right away."
+"A few more days, Erlan." Jace put on an apologetic expression. "As soon as I deal with the trouble at hand, I'll come help right away."
 
-"Ah, damn it, who knows if your trouble is crossing into the Twifting Nether or drifting off to Kalimdor again," Erland said, somewhat dejected.
+"Ah, damn it, who knows if your trouble is crossing into the Twisting Nether or drifting off to Kalimdor again," Erlan said, somewhat dejected.
 
 "Not that far," Jace said. "Oh, and stay away from Mirror Lake to the south for the next couple of days. I mean it."
 
-"What's going on at Mirror Lake?" Sulenna asked.
+"What's going on at Mirror Lake?" Surena asked.
 
-"It's not that I don't want to tell you, Sulena. In a few days, when there's no problem... you'll know."
+"It's not that I don't want to tell you, Surena. In a few days, when there's no problem... you'll know."
 
-"Relax, Jace," Erland said. "Nobody'd dare go where you've told them not to."
+"Relax, Jace," Erlan said. "Nobody'd dare go where you've told them not to."
 
 Jace nodded, turned, and headed down the passage. When he reached the alchemy lab, Ursula was cleaning her tools, a dark metal box sitting on the table beside her.
 
@@ -120,7 +124,7 @@ Jace nodded, turned, and headed down the passage. When he reached the alchemy la
 
 "Ten bottles total." Ursula leaned on the table. "Eleven gold and thirty silver altogether. I didn't charge you for the brewing, and the materials were priced at the Dagger Society's internal rate."
 
-After paying out for the Irigal Tower's renovation expenses, and then getting thoroughly gouged by the Dark Iron dwarves during the trip to Shadowforge City, Jace didn't have much money left in his pockets.
+After paying out for the Tower of Ilgalar's renovation expenses, and then getting thoroughly gouged by the Dark Iron dwarves during the trip to Shadowforge City, Jace didn't have much money left in his pockets.
 
 Still, paying this much didn't really hurt.
 
@@ -128,19 +132,21 @@ Beat Onyxia and who knew how much of House Prestor's gold they'd rake in. Lose..
 
 Though he'd made ample preparations and called in everyone he could find to help, and didn't think they'd lose — but even if they really did lose, he wouldn't need money anymore, would he?
 
-Ursula counted the gold coins in her hand and raised an eyebrow slightly. "This many Greater Fire Protection Potions, Jace — even if you're not using them to take a bath in a lava pool, it's about the same. Are you sure you don't want a Distilled Elixir of Intellect like last time, or at least a weaker Elixir of Intellect to ensure your casting reliability?"
+Ursula counted the gold coins in her hand and raised an eyebrow slightly. "This many Greater Fire Protection Potions, Jace — even if you're not using them to take a bath in a lava pool, it's about the same. Are you sure you don't want a Flask of Distilled Wisdom like last time, or at least a weaker Elixir of Intellect to ensure your casting reliability?"
 
 "I still have the last one," Jace said.
 
 But the moment the words left his mouth, he hesitated.
 
-When dealing with the Black Knight leader Erethorn in Kalimdor last time, had he drunk that Distilled Elixir of Intellect?
+When dealing with the Dark Rider leader Ariden in Kalimdor last time, had he drunk that Flask of Distilled Wisdom?
 
 Logically, lying in wait for them in the vault, Jace should have been fully prepared and drunk it. But the corrupted dreams in the vault seemed to have interfered with his memory, and he couldn't be sure at once whether he'd actually drunk it.
 
 "Brew me one, Ursula. If I don't use it, I'll bring it back," Jace said.
 
-Hearing that Jace really did need one, Ursula's expression instead hesitated. "What is it this time?" Jace smiled. "Don't worry — definitely nothing like the Grim Batol job, Ursula."
+Hearing that Jace really did need one, Ursula's expression instead hesitated. "What is it this time?"
+
+Jace smiled. "Don't worry — definitely nothing like the Grim Batol job, Ursula."
 
 Ursula relaxed slightly. "Then I'll charge you nine gold a bottle, Jace."
 

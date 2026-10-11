@@ -28,7 +28,7 @@ Something was wrong. Jace didn't feel any Shadow energy dancing along with his i
 
 Was this incantation fake?
 
-Impossible. He'd seen Gagin use this incantation with his own eyes in the basement to kill a freshly summoned demon.
+Impossible. He'd seen Gakin use this incantation with his own eyes in the basement to kill a freshly summoned demon.
 
 What on earth happened? Could it be the naga's companions coming for revenge?
 
@@ -98,32 +98,20 @@ Was it because he lacked the experience, so the critical data was missing and it
 
 Actually, it wasn't that weird.
 
-In a wave of emptiness, he hummed the tune of "A Thousand Years of Waiting" out of habit, packed up his things, ate a bit of dry bread, and prepared to leave this abandoned farm.
+In a wave of emptiness, he hummed the theme from an old TV drama about a snake spirit out of habit, packed up his things, ate a bit of dry bread, and prepared to leave this abandoned farm.
 
 The autumn air was clear and cool. When Jace walked to slightly higher ground, he could see the scattered ruins of houses beyond a distant mountain hollow.
 
-That was an abandoned town. According to what the Westfall Keep soldiers had said, that place shouldn't be the so-called West County — it should be the mining town outside Jangolode Mine.
+That was an abandoned town. According to what the Westbrook Garrison soldiers had said, that place shouldn't be the abandoned village they called Westshire — it should be the mining town outside Jangolode Mine.
 
-The very place Furbloom had said he and his wife had hidden during the war.
+The very place Furlbrow had said he and his wife had hidden during the war.
 
-Gazing out over the endless slopes and wilderness, Jace let out a deep sigh. Felweed… how was he supposed to find this?
+Gazing out over the endless slopes and wilderness, Jace let out a deep sigh. Mageroyal… how was he supposed to find this?
 
 He hadn't even found a single bundle of Silverleaf along the way. Westfall had so many farms, seemingly especially fertile, yet after walking half a day he couldn't find any herbs at all.
 
 Could it be that this place lacked a ley line nexus, so not many magical plants grew?
 
-But Ursula Deline had sworn up and down that there was lots of Felweed on these slopes. Since Furbloom said hardly anyone came here anymore, no one should be competing with him for herbs.
+But Ursula Deline had sworn up and down that there was lots of Mageroyal on these slopes. Since Furlbrow said hardly anyone came here anymore, no one should be competing with him for herbs.
 
 Along the way Jace hadn't seen any sign of gnolls either — no camps, no living gnolls. So there shouldn't be any gnoll herbalists competing with him either.
-
-## Flags
-
-- 关键数据缺失 = "Critical Data Missing" — gamer/tech reference in Jace's internal monologue; not in glossary.
-- 双月 = the twin moons (Azeroth's two moons) — not in glossary.
-- 加金 = Gagin (warlock at the Slaughtered Lamb) — not in glossary.
-- 虚弱术 = Curse of Weakness (Jace's guess at the naga debuff) — not in glossary.
-- 魔皇草 = Felweed — not in glossary.
-- 詹戈洛德矿洞 = Jangolode Mine (Westfall) — not in glossary.
-- 西郡 = West County — not in glossary.
-- 厄苏拉·德林 = Ursula Deline (warlock, runs the Slaughtered Lamb alchemy lab) — not in glossary.
-- "千年等一回" = "A Thousand Years of Waiting" (Chinese opera/pop song reference) — not in glossary.

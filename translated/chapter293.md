@@ -76,7 +76,7 @@ Jace knew he couldn't look any better. More like a Defias bandit in a mask, prob
 
 "Didn't they used to live on the surface too?" Vereesa said. "I know the history of the War of the Three Hammers. I heard the Dark Iron clan built a city on this plain."
 
-"That was before the Blackrock Mountain explosion. The city was called Thandol Span — if it were still here, it'd be…" Jace glanced outside. "I don't know where exactly. Anyway, after the explosion, that city became uninhabitable."
+"That was before the Blackrock Mountain explosion. The city was called Thaurissan — if it were still here, it'd be…" Jace glanced outside. "I don't know where exactly. Anyway, after the explosion, that city became uninhabitable."
 
 As he spoke, he tossed her a front leg and tore into a bone himself.
 
@@ -121,14 +121,3 @@ Jace tilted his head out for another look. "I can't see clearly. Can you make ou
 "Let me look." Vereesa studied them carefully for a moment. "They're dressed pretty simply — all cloth shirts or leather trousers. Hard to tell what they are."
 
 "Though, three out of the four are missing their left hands."
-
-## Flags
-
-- **碎手氏族 (Shattered Hand clan):** The telltale sign — three out of four orcs missing their left hands — marks them as members of the Shattered Hand clan, a canonical orc clan known for ritual self-mutilation.
-- **明显的特征 (The Telltale Sign):** Chapter title refers to the identifying mark of the Shathered Hand orcs — the ritual removal (not "shattering" but amputation) of their left hands.
-- **碎手氏族仪式:** The Shattered Hand tradition: every qualified Shattered Hand warrior ritually shatters and then severs their left hand, replacing it with a fearsome prosthetic — sometimes an axe, sometimes a blade, sometimes an unidentifiable horror. Even more fanatical warriors cut off both hands; these either become the most savage vanguard or warlords of the clan, or quickly die on the battlefield from their own reckless fury.
-- **索瑞森 (Thandol Span):** The Dark Iron dwarf city that stood on the plain before the Blackrock Mountain explosion. Jace says "索瑞森" — this is actually the name of the Dark Iron emperor (Thandol Span is the canonical name of the bridge; the city here is likely meant to be the Dark Iron capital). Flagged: the Chinese 索瑞森 is ambiguous — may refer to the Dark Iron capital city. Rendered descriptively as "Thandol Span" but this may be an error in the source; the canonical Dark Iron city on the Burning Steppes was not named. Flagged for lore verification.
-- **黑铁 (Dark Iron):** Canonical dwarven clan. Rendered as "Dark Iron."
-- **奥能 (Arcane):** Vereesa calls her arrow-coating potion "Arcane" — likely an Arcane-infused coating for enchanted arrowheads, preparation against dragonkin.
-- **龙人 (Dragonkin):** Vereesa's concern — dragonkin (half-dragon creatures serving the black dragonflight).
-- **迪菲亚 (Defias):** Canonical WoW bandit faction. Jace jokes he must look like a "Defias bandit in a mask."

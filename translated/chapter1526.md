@@ -2,9 +2,9 @@
 
 After letting that group of Dark Iron dwarves pass, they immediately quickened their pace deeper into the tunnel, eventually emerging into a wide stone quarry-like cavern. Jace found the place somewhat familiar — it seemed they'd reached the main road into Shadowforge City. Though no figures were visible, the faint murmur of distant Dark Iron dwarves occasionally drifted over.
 
-The group found a concealed high spot and waited quietly for a while, confirming everything seemed normal. Vereesa murmured to the little black dragon: "Didn't know you had some acting talent, Sora's bodyguard."
+The group found a concealed high spot and waited quietly for a while, confirming everything seemed normal. Vereesa murmured to the little black dragon: "Didn't know you had some acting talent, Sola's bodyguard."
 
-"I already showed it back in Auchenai," Sora said.
+"I already showed it back in Auchindoun," Needleflame said.
 
 "To be honest, I wouldn't call it acting," Grede said. "She still had to hold back some of her innate evil nature, or even the cunning, vicious Dark Iron and Blackrock orcs would've been scared stiff. Just think about that panicky guy back there."
 
@@ -30,11 +30,11 @@ Vereesa narrowed her eyes. "Do you think he's waiting for someone?"
 
 Jace scratched the stubble on his chin. "So... could that be Vaelastrasz?"
 
-"I can't tell at all," Sora said, shaking her head.
+"I can't tell at all," Sola said, shaking her head.
 
-"He's the master of disguise in the red dragonflight, Sora," Jace said. "Show him Vereesa's earring. He's the Red Dragonqueen's guard, so he'll recognize the Queen's gift. If he doesn't, pretend you're trying to sell it to him as a treasure. Don't sell no matter what he offers."
+"He's the master of disguise in the Red Dragonflight, Sola," Jace said. "Show him Vereesa's earring. He's the Red Dragonqueen's guard, so he'll recognize the Queen's gift. If he doesn't, pretend you're trying to sell it to him as a treasure. Don't sell no matter what he offers."
 
-"Got it." Sora nodded, took Vereesa's earring, and stepped out from cover toward the Dark Iron mage.
+"Got it." Sola nodded, took Vereesa's earring, and stepped out from cover toward the Dark Iron mage.
 
 "Did the Red Dragonqueen give each of you a gift?" Needleflame asked curiously.
 
@@ -44,7 +44,7 @@ Jace scratched the stubble on his chin. "So... could that be Vaelastrasz?"
 
 "Of course," the demon replied. "Giving the master is as good as giving me."
 
-Vereesa coughed sharply. Jace kept his eyes on Sora, who was now talking to the dwarven mage, and forced a bit of saliva down his dry throat.
+Vereesa coughed sharply. Jace kept his eyes on Sola, who was now talking to the dwarven mage, and forced a bit of saliva down his dry throat.
 
 Needleflame looked at the three of them, then wisely shuffled closer to Grede and whispered, "So what did the Queen give you?"
 
@@ -54,9 +54,9 @@ Jace and Vereesa suddenly realized the problem too. Right. This necklace was the
 
 "A beautiful necklace, beautiful stone, Thunderfist." Needleflame stared at the golden gem.
 
-There was movement from Sora's direction. The red-robed Dark Iron mage was following her back toward them. Looked like Jace's guess was right.
+There was movement from Sola's direction. The red-robed Dark Iron mage was following her back toward them. Looked like Jace's guess was right.
 
-"Ah, everyone. Was my disguise that obvious?" The dwarven mage climbed up to their hiding spot, dusting himself off. "Even the flamewardens guarding the fire elemental lords didn't notice anything wrong with me. Truth be told, I'd rather have caught you than been caught out by you."
+"Ah, everyone. Was my disguise that obvious?" The dwarven mage climbed up to their hiding spot, dusting himself off. "Even the pyromancers guarding the fire elemental lords didn't notice anything wrong with me. Truth be told, I'd rather have caught you than been caught out by you."
 
 "But I'm still glad to meet you all." A flicker of reptile eye passed through the dwarf's red gaze before finally settling on Needleflame. "The Red Dragonqueen's messenger told me there was one among you who'd returned from Draenor... a daughter of Deathwing."
 
@@ -64,15 +64,15 @@ There was movement from Sora's direction. The red-robed Dark Iron mage was follo
 
 "Prince Sabellian, of course." The dwarf studied the black dragon carefully before speaking. "I am Vaelastrasz. An honor to meet you, Lady Needleflame."
 
-"Likewise, red dragon." The black dragon's tone was solemn, carrying a hint of the dignity Sabellian or Grelorio might have mustered.
+"Likewise, red dragon." The black dragon's tone was solemn, carrying a hint of the dignity Sabellian or Gorlorio might have mustered.
 
 "Truly hard to imagine," Vaelastrasz said quietly. "In all my years in Blackrock Spire, I've dealt with countless black dragons — all sorts of dragon-blooded dragonkin, whelps, drakes, even Victor Nefarius himself."
 
 "But looking at you... I know you're a black dragon, I know Nefarian's blood flows in your veins — or Deathwing's, rather — but something feels different. As if..."
 
-"As if ten thousand years of hatred no longer exists," Sora said.
+"As if ten thousand years of hatred no longer exists," Sola said.
 
-"Yes, Somniel, that's exactly it." Vaelastrasz's voice was low. "Strange. Truly strange. I can hardly imagine what the Queen would feel when she sees you — as someone who's witnessed the great changes of tens of thousands of years."
+"Yes, Somaelir, that's exactly it." Vaelastrasz's voice was low. "Strange. Truly strange. I can hardly imagine what the Queen would feel when she sees you — as someone who's witnessed the great changes of tens of thousands of years."
 
 "Enough of that." Seeing Needleflame's slightly uneasy expression, he shook his head. "Welcome back to Azeroth, little one. Your true home. Jace Sesso is a genuinely good man. I'm glad he brought you back."
 

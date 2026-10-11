@@ -1,26 +1,26 @@
 ## Chapter 881: The Magic Mirror Shard
 
-"Kalan — a rather clever black hatchling, he's one. Can take mortal form. And I know he loves wandering the human world. That's a fun little fellow. If you run into him, do me a favor and kill him."
+"Kalan — a rather clever black drake, he's one. Can take mortal form. And I know he loves wandering the human world. That's a fun little fellow. If you run into him, do me a favor and kill him."
 
-"Then there's Chromie — she could already take mortal form when she was still a tiny wyrmling. I don't know if I'm remembering it wrong, or if I've got the timeline mixed up… after all, you know how it is with bronze dragons."
+"Then there's Chromie — she could already take mortal form when she was still a tiny whelp. I don't know if I'm remembering it wrong, or if I've got the timeline mixed up… after all, you know how it is with bronze dragons."
 
 "And Aimigosa — she's a very talented child, but she likes turning into a troll. I have no idea why."
 
-"Oh, and Stellagosa. I knew her grandfather. She's another hatchling who can take mortal form — quite impressive."
+"Oh, and Stellagosa. I knew her grandfather. She's another drake who can take mortal form — quite impressive."
 
-"And then there's you, Sulenna. I should remember your name, because you might become a formidable Dream Warden someday. We might even work together to guard Mount Hyjal and Nordrassil."
+"And then there's you, Sola. I should remember your name, because you might become a formidable Dream Guardian someday. We might even work together to guard Mount Hyjal and Nordrassil."
 
-"As for the red dragons — the red dragons have none. None at all. Because there are too many of them, and Alexstrasza doesn't have time to teach all those hatchlings how to take mortal form."
+"As for the red dragons — the red dragons have none. None at all. Because there are too many of them, and Alexstrasza doesn't have time to teach all those drakes how to take mortal form."
 
-"We're the exact opposite. On our side, there are too few blue dragons — not even enough hands to guard the dragon nests. So every child who grows into a hatchling is beyond precious. We have that lovely little golden platter to thank for that."
+"We're the exact opposite. On our side, there are too few blue dragons — not even enough hands to guard the dragon nests. So every child who grows into a drake is beyond precious. We have that lovely little golden platter to thank for that."
 
-Entering through the main gate of a palace guarded by blue dragonkin, they walked into a narrow corridor. All the way, Azuregos kept muttering to himself. When he mentioned Sulenna's name, Sulenna also nodded a little belatedly, as if she hadn't been paying much attention to what he was saying.
+Entering through the main gate of a palace guarded by blue dragonkin, they walked into a narrow corridor. All the way, Azuregos kept muttering to himself. When he mentioned Sola's name, Sola also nodded a little belatedly, as if she hadn't been paying much attention to what he was saying.
 
 Toward the end, he paused, glanced back at Jace, and said, "That platter, though — you should be deeply impressed by it, I mean."
 
 Jace nodded. Of course he was deeply impressed. Nothing in his entire life had ever impressed him more.
 
-There were dragonkin patrolling back and forth along the corridor. When they saw Azuregos, they would murmur "master" in draconic, but Azuregos acted as if he couldn't see them at all — no response, no greeting, not even a glance.
+There were dragonkin patrolling back and forth along the corridor. When they saw Azuregos, they would murmur "master" in Draconic, but Azuregos acted as if he couldn't see them at all — no response, no greeting, not even a glance.
 
 By this point, Jace was starting to wonder whether it was the dragonkin who were disobedient, or whether Azuregos had simply become impossible for these subordinates to make sense of.
 
@@ -48,7 +48,7 @@ He retrieved an irregular, gemstone-like fragment from a pile of broken Highborn
 
 Jace said, "As long as the pay's good, forget finding a gemstone like this — you could ask me to find a black rat and I wouldn't complain."
 
-"I can sense the essence of the Red Dragonflight's blessing on you, and one bestowed by Queen Alexstrasza's own hand," Azuregos said. "The Dragonqueen once granted me such a blessing as thanks for my protection of the ley lines and the Spellweaver himself. But it wasn't as powerful as yours, so as time passed it gradually faded, and now there should be nothing left of it. But it warmed me for a good long while. I don't understand what someone like you sees in chasing after a few pieces of gold and silver…"
+"I can sense the essence of the Red Dragonflight's blessing on you, and one bestowed by Queen Alexstrasza's own hand," Azuregos said. "The Dragonqueen once granted me such a blessing as thanks for my protection of the ley lines and the Spell-Weaver himself. But it wasn't as powerful as yours, so as time passed it gradually faded, and now there should be nothing left of it. But it warmed me for a good long while. I don't understand what someone like you sees in chasing after a few pieces of gold and silver…"
 
 Azuregos launched back into his rambling, and slowly even Jace was starting to lose track of the main point of what he was saying. He glanced at the gemstone sitting on the pedestal. By now, Mosa had leaned over to peer into the gem, then slowly let out a "Hmm."
 
@@ -64,11 +64,11 @@ Vereesa's eyes went wide with a gasp, then she started laughing. Mosa waved at G
 
 Azuregos noticed Jace's attention had been drawn away by that crowd and stopped the long sentence he'd been mid-way through. He folded his arms with a hint of displeasure and looked over, muttering under his breath, "I don't see what's so interesting."
 
-"Can you really see souls? I thought it was some kind of gimmick." Grede trotted over, leaned in close to the stone, and glanced inside — immediately frowning. "No difference at all. But you, little elf — you look like… you remind me of the eyes of those ghosts in Kirin Vale."
+"Can you really see souls? I thought it was some kind of gimmick." Grede trotted over, leaned in close to the stone, and glanced inside — immediately frowning. "No difference at all. But you, little elf — you look like… you remind me of the eyes of those ghosts in Kel'Theril."
 
-"Shouldn't you be in the form of an Earthen, though? Though I've never actually seen an Earthen," Vereesa said. "Still, I've seen the likenesses recorded by those seekers in paintings, and they're like…"
+"Shouldn't you be in the form of an earthen, though? Though I've never actually seen an earthen," Vereesa said. "Still, I've seen the likenesses recorded by those seekers in paintings, and they're like…"
 
-"A gray dwarf," Grede said. "That doesn't surprise me either. We just have Earthen blood running through our veins — we're not actual Earthen. How could our souls look like Earthen? This is how we look. I'm just me."
+"A gray dwarf," Grede said. "That doesn't surprise me either. We just have earthen blood running through our veins — we're not actual earthen. How could our souls look like earthen? This is how we look. I'm just me."
 
 "Makes sense." Vereesa smiled and nodded, then looked over toward Jace.
 

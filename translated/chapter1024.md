@@ -40,9 +40,11 @@ Sylia's eyes clearly panicked. She glanced around her own dwelling as though the
 
 Sylia nodded slightly as well, hesitated for a long while, then said in Thalassian, "The honor of knowing you is mine as well, Lady Sola."
 
-"You wouldn't come looking for me if you didn't have a problem big enough, Sylia," Jace said.
+"You wouldn't come looking for me if you didn't have a problem big enough, Sesso," Sylia said.
 
-"Of course." Sylia pointed to a wooden stool nearby. "Please, sit, both of you. Make yourselves at home. We can take our time talking."
+"Of course," Jace said.
+
+Sylia pointed to a wooden stool nearby. "Please, sit, both of you. Make yourselves at home. We can take our time talking."
 
 Jace cleared his throat uncomfortably and stole a glance at Sola beside him. Sola sat down and gave him a strange look—her eyes probably asking, "What exactly is your relationship with her?" Jace could only frown innocently and sit down in the wicker chair to one side.
 
@@ -58,7 +60,7 @@ Sylia raised her eyes and stared at him. "So you brought a dwarf. But that's fin
 
 She gave a laugh that sounded like a cough. Jace swallowed and said, "I came today to ask for more of that broth."
 
-"I can be done. The price of materials has actually dropped a bit recently." Sylia held her fingers apart to indicate the size. "A bottle this big, ten silver. Depends on what you plan to use it for."
+"It can be done. The price of materials has actually dropped a bit recently." Sylia held her fingers apart to indicate the size. "A bottle this big, ten silver. Depends on what you plan to use it for."
 
 "I'm planning a trip to Atal'Hakkar," Jace said.
 
@@ -70,7 +72,7 @@ In the dim underground dwelling, the troll's emotional energy was nearly materia
 
 Jace had known that any female troll who could escape the Amani's grip and flee to Booty Bay to scrape by, carrying rare herbs and treasures, couldn't possibly be as simple as she appeared on the surface.
 
-"You seem quite familiar with the Atal'ai, Sesso," the troll said. "But I think a mere Spectral Detection Potion is far from enough to deal with the evil spirits within."
+"You seem quite familiar with the Atal'ai, Sesso," the troll said. "But I think a mere Elixir of Detect Undead is far from enough to deal with the evil spirits within."
 
 "Elaborate, Lady Sylia," Sola said.
 
@@ -78,7 +80,9 @@ Jace had known that any female troll who could escape the Amani's grip and flee 
 
 "How much money do you want?" Jace asked.
 
-"Gold is indeed a good thing, but it can't buy everything," Sylia said, staring at him. Jace asked, "You don't want money—then what do you want?"
+"Gold is indeed a good thing, but it can't buy everything," Sylia said, staring at him.
+
+Jace asked, "You don't want money—then what do you want?"
 
 Sylia gave a mysterious smile. "Don't look at me with that expression, Jace Sesso. Though I do miss what you once gave me, I must admit that's not enough to make me betray my past faith."
 
@@ -88,10 +92,10 @@ Sylia gave a hmph-laugh. "I've heard things about you, Jace Sesso. I don't doubt
 
 "Go ahead," Jace said.
 
-"I want a skull of a Son of the Soulflayer," Sylia said.
+"I want a skull of a Son of Hakkar," Sylia said.
 
-"Son of the Soulflayer?" Sola asked. "What is that?"
+"Son of Hakkar?" Sola asked. "What is that?"
 
-Sylia looked at her and said, "The Sons of the Soulflayer are a group of extremely powerful wind serpents, though nowhere near as powerful as Hakkar himself, or his avatar that descends upon this world. And unlike their father-god, the Sons of the Soulflayer are not immortal. I believe you wouldn't even need to enter the temple—you could find many remains of the Sons of the Soulflayer just in the Black Morass. I once tried hiring people to search, but they only found bone fragments. It's simply far too dangerous there—roaming demons, leftover orcs… so very few people are willing to take the job."
+Sylia looked at her and said, "The Sons of Hakkar are a group of extremely powerful wind serpents, though nowhere near as powerful as Hakkar himself, or his avatar that descends upon this world. And unlike their father-god, the Sons of Hakkar are not immortal. I believe you wouldn't even need to enter the temple—you could find many remains of the Sons of Hakkar just in the Black Morass. I once tried hiring people to search, but they only found bone fragments. It's simply far too dangerous there—roaming demons, leftover orcs… so very few people are willing to take the job."
 
 "This request isn't unreasonable," Jace said. "I'll do my best."

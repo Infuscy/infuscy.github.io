@@ -6,7 +6,7 @@ Jace glanced back at the wooden door they'd come through. "I'm guessing that doo
 
 Khadgar reluctantly put his hand on the door and carefully said in Thalassian again, "The foolish apprentice." The door showed no sign of responding.
 
-"You could try it in demon tongue," Jace said.
+"You could try it in Demonic," Jace said.
 
 Khadgar turned and glared at him, eyes narrowing in annoyance. Jace shrugged. "You said it yourself — if opening a door caused trouble, it'd prove the tower was messing with us."
 
@@ -32,9 +32,9 @@ A powerful mana wyrm lurked deep in the library, called the Mana Devourer. Once 
 
 "Clean out those cockroaches. Quickly. They're getting annoying."
 
-A stranger's voice came from the dark depths of the library. Jace, Khadgar, and Morofil all looked toward the source.
+A stranger's voice came from the dark depths of the library. Jace, Khadgar, and Morophil all looked toward the source.
 
-The voice didn't have any arcane resonance mixed in, so it probably wasn't a construct. A human speaker — or at least. A ghost.
+The voice didn't have any arcane resonance mixed in, so it probably wasn't a construct. A human speaker — or at least a ghost.
 
 Who was it?
 
@@ -52,11 +52,11 @@ Medivh? Or Moroes?
 
 "Do you even need to ask?" Jace said.
 
-"Then what's coming to 'clean out the cockroaches,' master?" Morofil looked at him.
+"Then what's coming to 'clean out the cockroaches,' master?" Morophil looked at him.
 
 "Don't worry," Khadgar said. "We're smaller, but our magic power hasn't weakened. Magic in Karazhan can get chaotic, but whatever it sends to clean out cockroaches isn't worth worrying about. Let's keep moving."
 
-Jace and Morofil nodded. Khadgar talked tough, but his pace quickened considerably.
+Jace and Morophil nodded. Khadgar talked tough, but his pace quickened considerably.
 
 Climbing up onto the books gave them a wider view. Up ahead, the scene was clearer.
 
@@ -68,11 +68,11 @@ Khadgar was already far ahead. That mage had ridiculous stamina. Jace had to spe
 
 "Shit!"
 
-Jace hurled a glob of shadow bolts, smashing the giant insect's head to pulp. But the moment it was hit by the sudden magic, the whole body of the bug leaped up as if shocked, its barbed yellow-brown legs flailing everywhere, rattling pages and shaking books. Jace was thrown off balance and fell into a crevice beside him, barely catching a rope binding some books to stop himself from plunging into the "abyss."
+Jace hurled a glob of Shadow Bolts, smashing the giant insect's head to pulp. But the moment it was hit by the sudden magic, the whole body of the bug leaped up as if shocked, its barbed yellow-brown legs flailing everywhere, rattling pages and shaking books. Jace was thrown off balance and fell into a crevice beside him, barely catching a rope binding some books to stop himself from plunging into the "abyss."
 
 "Cockroach!"
 
-Khadgar's shout came from above. Jace shadow-stepped back, only to emerge from the shadows and get caught midair by a lunging roach. The cockroach's tiny pincer-like mandibles chattered as it tried to crush the little morsel, but couldn't even penetrate Jace's cloak. Morofil sliced the cockroach in half with a single horizontal cut, freeing him.
+Khadgar's shout came from above. Jace shadow-stepped back, only to emerge from the shadows and get caught midair by a lunging roach. The cockroach's tiny pincer-like mandibles chattered as it tried to crush the little morsel, but couldn't even penetrate Jace's cloak. Morophil sliced the cockroach in half with a single horizontal cut, freeing him.
 
 More and more cockroaches swarmed in. A dozen of the giant insects had crawled up onto the surface now. Khadgar shouted and unleashed a terrifying barrage of arcane missiles, blowing them all to bits, but not before he was splattered with insect juice and chitin shards.
 
@@ -80,7 +80,7 @@ More and more cockroaches swarmed in. A dozen of the giant insects had crawled u
 
 The books around them began to tremble uneasily, like lids on boiling pots. Jace chased after him, shouting, "I didn't know you were afraid of cockroaches!"
 
-"I'm not afraid of cockroaches, I'm afraid of cockroaches bigger than warghs!" Khadgar yelled back. "If these disgusting things stay stuck to me and grow with me when I go back to normal size, by the Holy Light, I swear I'll tear Karazhan apart piece by piece!"
+"I'm not afraid of cockroaches, I'm afraid of cockroaches bigger than worgs!" Khadgar yelled back. "If these disgusting things stay stuck to me and grow with me when I go back to normal size, by the Holy Light, I swear I'll tear Karazhan apart piece by piece!"
 
 More and more cockroaches crawled up onto the book covers, converging on the mage, the warlock, and the demon. These bugs were too stupid to know what they were hunting, only that fresh meat didn't wander in here every day.
 
@@ -88,13 +88,13 @@ Just as Jace started chanting Shadow Bolt Volley to wipe out all the roaches at 
 
 "Haven't even cast anything yet!" Jace shouted.
 
-"Clearly, gentlemen, what came to clean out the cockroaches is here," Morofil said.
+"Clearly, gentlemen, what came to clean out the cockroaches is here," Morophil said.
 
 As she spoke, an enormous, monstrous head emerged from beneath the books.
 
 A hound. Even if it looked like a small dog compared to the books, compared to the three of them it was a horrifying giant.
 
-Jace immediately raised his staff and channeled a volley of shadow bolts toward the hound's head, sending them arcing through the air. But the moment the first shadow bolt touched its skin, the entire hound dissolved into arcane light and vanished before their eyes. The remaining bolts hit nothing — some striking the floor, others smacking into books.
+Jace immediately raised his staff and channeled a volley of Shadow Bolts toward the hound's head, sending them arcing through the air. But the moment the first Shadow Bolt touched its skin, the entire hound dissolved into arcane light and vanished before their eyes. The remaining bolts hit nothing — some striking the floor, others smacking into books.
 
 "Phase magic." Khadgar quickly gathered several arcane missiles and hurled them in a seemingly random direction. Arcane light flared there as the hound rematerialized, immediately surrounded by the mage's missiles — but the instant the first missile touched its hide, it dissolved into arcane light again and vanished.
 
@@ -102,9 +102,9 @@ The other missiles didn't fly off wildly or lose their target. Khadgar guided th
 
 "Not fast enough... Damn it," Khadgar said.
 
-Jace watched the hound leap over piles of books directly at them. "Get us airborne, Morofil!"
+Jace watched the hound leap over piles of books directly at them. "Get us airborne, Morophil!"
 
-Morofil grabbed them both and flew up. Fast as the succubus was, she was still small, which meant their relative speed was slower too. The hound nimbly jumped onto a nearby bookshelf and launched itself into the air — barely missing swallowing all three of them in one bite.
+Morophil grabbed them both and flew up. Fast as the succubus was, she was still small, which meant their relative speed was slower too. The hound nimbly jumped onto a nearby bookshelf and launched itself into the air — barely missing swallowing all three of them in one bite.
 
 It crashed into another shelf on the way down, knocking over several books, looked back at the three airborne figures, and estimated the height of the shelves.
 

@@ -24,7 +24,7 @@ They talked late into the night, and finally Jace steeled himself to lay his car
 
 "Met a girl you want to marry?" his dad asked.
 
-"No," Jace said. "I'm thinking of buying a house in Stormwind, or maybe Goldshire, and having you two move up there eventually."
+"No," Jace said. "I'm thinking of buying a house in Stormwind, or maybe Goldshire, and having you two move down there eventually."
 
 "That's not a decision you make in a few nights, Jace," his mother said.
 
@@ -62,7 +62,9 @@ Jace frowned. "How did you know?"
 
 "There's a very particular smell on you, Jace. I've only ever smelled it on one kind of person — people attacked by black dragons." His father said, "The capital took in a batch of wounded soldiers rescued from Alterac not long ago. I helped the priests dress their burns. That smell, I'll never forget it for the rest of my life."
 
-The Shadowflame that black dragons spewed — even people who understood Shadow magic had a hard time stomaching that bizarre, foul reek, let alone soldiers and townsfolk. "I heard Southshore and Ambermill both got hit by black dragons. Did you pass through either of those places?" he asked again.
+The Shadowflame that black dragons spewed — even people who understood Shadow magic had a hard time stomaching that bizarre, foul reek, let alone soldiers and townsfolk.
+
+"I heard Southshore and Ambermill both got hit by black dragons. Did you pass through either of those places?" he asked again.
 
 Jace nodded reluctantly. "Southshore."
 
@@ -78,7 +80,7 @@ But he just kept wearing them, never taking them off.
 
 "That's impressive, seriously. Where have you even seen naga? Around here?" Jace's hackles rose.
 
-"Your old man grew up in Tarlenmil. You don't become a captain of the capital guard without some real skill." His father looked at him. "I only wanted to settle down after I married Henny. And the reason I could attract a girl as beautiful and well-off as your mother wasn't just this face of mine."
+"Your old man grew up in Tarren Mill. You don't become a captain of the capital guard without some real skill." His father looked at him. "I only wanted to settle down after I married Henny. And the reason I could attract a girl as beautiful and well-off as your mother wasn't just this face of mine."
 
 He smiled. "When you were little, the two of us knew you weren't any ordinary child. The Kingdom of Lordaeron is vast, but it'd never be enough to hold you back. That's why, two years ago, when you wanted to go all that way by yourself — even though I hated the idea, I persuaded Henny to let you go."
 
@@ -109,15 +111,3 @@ Jace cleared his throat. "Sorry, Dad, I didn't mean it... but I definitely didn'
 "And you know it's made by a dwarf now..."
 
 "Isn't it?"
-
-## Flags
-
-- **老维克** (chapter title): rendered as "Old Vic" — father's name is Vic Sesso (维克·塞索), so the nickname = Old Vic. Not in glossary.
-- **亨妮** (Henny): mother's given name, not in glossary. Added as Henny Sesso.
-- **东威尔德**: rendered as "the Eastweald" — a region of Lordaeron (contrasted with Tirisfal and Stratholme). Canonical status unclear; possibly the author's rendering of an eastern Lordaeron region. TODO: verify.
-- **塔伦米尔**: rendered as "Tarlenmil" — father's hometown. Possibly the canonical Tarren Mill (Hillsfoot), but transliteration differs. TODO: verify.
-- **敦霍尔德**: rendered as "Durnholde" (canonical: Durnholde Keep). Not in glossary.
-- **古拉巴什金币**: rendered as "Gurubashi gold coin" (Gurubashi = 古拉巴什, per glossary's 古鲁巴什帝国 / Gurubashi Empire). Not separately in glossary.
-- **奥特兰克城**: rendered as "Alterac" (city). Glossary has 奥特兰克山脉 = Alterac Mountains only.
-- **安伯米尔**: rendered as "Ambermill" (canonical WoW location in the Hillsfoot). Not in glossary.
-- **黑龙之血**: rendered as "Black Dragon's Blood" — Jace's draconic trait/mutation. Not in glossary.

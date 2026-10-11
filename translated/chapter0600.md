@@ -26,11 +26,11 @@ He drew Azuresong and said, "Take this sword. Watch out for Arcane Anomalies tha
 
 Mosa understood immediately. She took the sword from Jace's hand, strapped it to her waist, and crouched down, transforming into the great cat. She nodded at Sazeno. Jace tied the imp to the binding rope on Mosa's back. Sazeno pointed at a distant passage. "That way, that way, quick!" Mosa shot out like an arrow. Without the healer, now they could only rely on themselves.
 
-Jace took the Rimecrystal out of its case and placed it in a pouch over his chest as an emergency measure. Holding his staff in both hands, he walked out from behind the pillar. Up ahead, Grede and Morophil had been locked in combat with the demon for a while. Vereesa kept looking for an opening to shoot, but the demon's arcane shield was shattered again and again, only to be raised once more.
+Jace took the Flowing Ice Crystal out of its case and placed it in a pouch over his chest as an emergency measure. Holding his staff in both hands, he walked out from behind the pillar. Up ahead, Grede and Morophil had been locked in combat with the demon for a while. Vereesa kept looking for an opening to shoot, but the demon's arcane shield was shattered again and again, only to be raised once more.
 
 The felhound's head had already been twisted off by the demon, writhing in pain on the ground. After fighting side by side for even this short a while, Jace already felt sick looking at the scene.
 
-He was destined never to be like Jagin, treating demons as nothing but tools.
+He was destined never to be like Gakin, treating demons as nothing but tools.
 
 He had no idea what Mosa and Sazeno would run into. The demon before them was powerful beyond any clear limit. Grede, Vereesa, and Morophil were still fighting desperately. A worry — and a bitter taste — rose up in Jace's heart.
 
@@ -48,9 +48,9 @@ Even Grede in his Avatar form could only barely suppress this fel mage empowered
 
 "Morophil! Damn it!" Vereesa shouted, firing another powerful Arcane Strike that detonated against the arcane shield on the demon's body, blasting her back to the side and releasing the succubus.
 
-Jace watched the succubus get thrown, one arm twisted out of shape, and his heart lurched. A Curse of Agony incantation followed that sudden pang in his chest and landed on the Eredun. The demon, who had been staring at Vereesa, broke into a violent cough. Her whole body pitched forward a few steps. She turned back and flung a Shadow Bolt straight at Jace.
+Jace watched the succubus get thrown, one arm twisted out of shape, and his heart lurched. A Curse of Agony incantation followed that sudden pang in his chest and landed on the Ered'ruin. The demon, who had been staring at Vereesa, broke into a violent cough. Her whole body pitched forward a few steps. She turned back and flung a Shadow Bolt straight at Jace.
 
-She chanted her Shadow Bolts so fast there was no time to react. Jace didn't even have the chance to speak a Dark Shield to protect himself. He had to rely on the Mage Armor and the robe alone to tank the hit...
+She chanted her Shadow Bolts so fast there was no time to react. Jace didn't even have the chance to speak a Shadow Shield to protect himself. He had to rely on the Mage Armor and the robe alone to tank the hit...
 
 The Mage Armor was on the verge of collapse. Jace was slammed to the ground by the powerful Shadow Bolt. The dark force searing into him from every inch of skin tormented him on both a physical and spiritual level...
 
@@ -68,11 +68,11 @@ Even so, he immediately fired off another Shadow Bolt, continuing to pound the d
 
 Grede had caught his breath and was about to rest for a bit, but seeing the shield being stripped away by Arcane Arrows and Shadow Bolts in succession, weakened to the very brink of shattering, he scrambled to grab his war hammer and charged in again!
 
-The dwarf swung. The demon seemed to sense this blow was about to break the shield for this round. She thrust her arm out to meet the war hammer head-on. The demon's arm was instantly shattered and split open, green demon blood flying everywhere. Grede was also shaken and rolled to the side, watching his Earthen form rapidly fade...
+The dwarf swung. The demon seemed to sense this blow was about to break the shield for this round. She thrust her arm out to meet the war hammer head-on. The demon's arm was instantly shattered and split open, green demon blood flying everywhere. Grede was also shaken and rolled to the side, watching his earthen form rapidly fade...
 
 "Don't think that without my Avatar I'm just a useless dwarf!" Grede spat, pulled himself back up, and raised his war hammer to charge.
 
-It was then that Jace suddenly thought: if the demon was being sustained by arcane energy, then draining her vitality would mean... He stepped forward, staff raised in both hands, and immediately began chanting Life Drain.
+It was then that Jace suddenly thought: if the demon was being sustained by arcane energy, then draining her vitality would mean... He stepped forward, staff raised in both hands, and immediately began chanting Drain Life.
 
 The demon, who was about to clash with the dwarf again, was just raising her shield when she felt her body go soft — the mana supporting her was draining away at terrifying speed!
 
@@ -82,7 +82,7 @@ And then the demon's arms had already fully recovered, even gleaming with arcane
 
 "Grede!" Vereesa, seeing Grede caught, drew her blade and charged in to hack at the demon's freshly repaired arm — only to be casually caught by the demon's tail, lifted into the air, and flung away!
 
-After sucking in enough arcane energy, Jace tossed three centaur Soul Shards onto the ground and chanted an incantation...
+After sucking in enough arcane energy, Jace tossed three centaur soul shards onto the ground and chanted an incantation...
 
 The Shadow-corroded miasma filling the hall swiftly gathered from around the pillars into the air at his summons. The demon flicked one eye toward the dark meteor coalescing there and froze for a fraction of a second.
 
@@ -104,17 +104,17 @@ An arrow devoid of any mana energy pierced straight through her lips, then throu
 
 Vereesa saw it and pulled her bow back, leaping off the pillar to dodge. Her movements were already growing disjointed.
 
-Grede had also fought himself to exhaustion. He tried to stand and escape, only to trip and fall to the ground. Jace spoke a Dark Shield incantation and stood in front of him, taking all the Shadow Bolts head-on. The Mage Armor shattered. The collar of his outer robe was torn by Shadow power. But Jace still didn't fall.
+Grede had also fought himself to exhaustion. He tried to stand and escape, only to trip and fall to the ground. Jace spoke a Shadow Shield incantation and stood in front of him, taking all the Shadow Bolts head-on. The Mage Armor shattered. The collar of his outer robe was torn by Shadow power. But Jace still didn't fall.
 
 Reyhidian's Shadow Bolts were already far less powerful than they had been at the start.
 
-The demon extended her right hand, trembling, toward Jace. She chanted a familiar incantation — Life Drain, too!
+The demon extended her right hand, trembling, toward Jace. She chanted a familiar incantation — Drain Life, too!
 
 In a nightmarish shimmer of green and purple tangled together, Jace felt his body rapidly collapsing. The demon laughed wildly as she continued to chant, walking toward him.
 
 "What a delicious force. No wonder that succubus..."
 
-Before she could finish, the Rimecrystal on Jace's chest suddenly radiated a massive golden light, accompanied by an ethereal boom. The demon was shaken back several steps by the force, and the Life Drain came to an abrupt halt.
+Before she could finish, the Flowing Ice Crystal on Jace's chest suddenly radiated a massive golden light, accompanied by an ethereal boom. The demon was shaken back several steps by the force, and the Drain Life came to an abrupt halt.
 
 "What is this?"
 
@@ -124,29 +124,29 @@ Grede seemed to have trouble seeing clearly. He shook his head, searching for th
 
 "I'll tear all of you to pieces... Aaah!"
 
-She suddenly shrieked and turned her head. Morophil was channeling Drain Mana! "A huntress-wraith is nothing before—"
+She suddenly shrieked and turned her head. Morophil was channeling Drain Mana! "A sayaad huntress is nothing before—"
 
-Reyhidian's voice grew weaker by the second. She turned and pointed at the succubus, muttering an incantation. Gritting his teeth, Jace forced himself up with the last of his strength, raised his staff high, and once again chanted Life Drain, draining with all his might from the demon who could barely stay standing...
+Reyhidian's voice grew weaker by the second. She turned and pointed at the succubus, muttering an incantation. Gritting his teeth, Jace forced himself up with the last of his strength, raised his staff high, and once again chanted Drain Life, draining with all his might from the demon who could barely stay standing...
 
-The Eredun's incantation was halfway through when it turned into a helpless, wretched howl. The draining magic pulled her in different directions. The demon had no strength to resist the forces from both sides, and could only claw painfully at her own chest and waist. Her powerful body visibly withered.
+The Ered'ruin's incantation was halfway through when it turned into a helpless, wretched howl. The draining magic pulled her in different directions. The demon had no strength to resist the forces from both sides, and could only claw painfully at her own chest and waist. Her powerful body visibly withered.
 
 Without the magic tower's support, and after a continuous string of fierce battles and blows, she could no longer resist. She dropped to her knees with a thud. Her arm, not yet fully repaired, shattered and split open once more. Her fur fell away in patches. She moaned weakly.
 
-She turned her head and said in demonic tongue, "Do it. Send my soul back to the Twisting Nether. Lord Archimonde will reward my efforts."
+She turned her head and said in Demonic, "Do it. Send my soul back to the Twisting Nether. Lord Archimonde will reward my efforts."
 
 "Your soul belongs to me," Jace said.
 
 "What?"
 
-The demon's ugly face suddenly lost all color. Morophil understood her master's intent and began channeling Soul Drain. Reyhidian roared, "The fall of Eldre'Thalas means nothing! Lord Archimonde will descend in earnest, and all of you will burn in agony in his magic!"
+The demon's ugly face suddenly lost all color. Morophil understood her master's intent and began channeling Drain Soul. Reyhidian roared, "The fall of Eldre'Thalas means nothing! Lord Archimonde will descend in earnest, and all of you will burn in agony in his magic!"
 
-A brilliant Soul Shard took form in the succubus's hands. The demon's eyes instantly went dark and lifeless, and she collapsed to the ground, turning into an empty gray shell.
+A brilliant soul shard took form in the succubus's hands. The demon's eyes instantly went dark and lifeless, and she collapsed to the ground, turning into an empty gray shell.
 
 Grede held his stomach and shuffled over to Jace's side, taking off his armor and tossing it to the side — it was already covered in claw marks. He glanced at the armor, then at the demon. "So... that counts as a win, right?"
 
 "Should be a win," Jace said.
 
-As he spoke, he reached out with hands that wouldn't stop shaking from the exhaustion and took the Soul Shard from Morophil's hands, placing it in his pack. Inside, Vilethane's Soul Shard still gave off a faint, ghostly glow.
+As he spoke, he reached out with hands that wouldn't stop shaking from the exhaustion and took the soul shard from Morophil's hands, placing it in his pack. Inside, Vyletongue's soul shard still gave off a faint, ghostly glow.
 
 "This time the Reliquary's not getting away with less than two hundred gold," Grede said.
 

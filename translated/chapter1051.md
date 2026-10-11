@@ -2,7 +2,7 @@
 
 Everyone quickened their swimming speed toward that colossal shadow, and soon one after another they touched the wall.
 
-This temple was quite similar in structure to the one Jace and Grede had seen in the Hinterlands — the one dedicated to the spider god Skadras. Both resembled the stepped pyramids of South American Mayan civilization.
+This temple was quite similar in structure to the one Jace and Grede had seen in the Hinterlands — the one dedicated to the spider god Shadra. Both resembled the stepped pyramids of South American Mayan civilization.
 
 Only that temple had been buried largely underground, while this one allowed you to take in its full profile at a glance — even if part of it was underwater and impossible to see clearly.
 
@@ -28,7 +28,7 @@ They climbed the stairs all the way to the top of the tower without a single gre
 
 Here, several thick stone pillars still bearing faded troll totems supported the stone beams high above, covered in foul-smelling plants both dry and damp, of indeterminate species.
 
-Beneath these stone pillars was the entrance to the temple — steps leading straight down toward a stone gate that looked like the entrance to an ancient tomb, making a person feel as if walking down was like voluntarily stepping into the gaping maw of some lake-hearted monster.
+Beneath these stone pillars was the entrance to the temple — steps leading straight down toward a stone gate that looked like the entrance to an ancient tomb, making a person feel as if walking down was like voluntarily stepping into the gaping maw of some monster at the heart of the lake.
 
 It was clear that hundreds or even thousands of years ago, this place had once been magnificent and solemn — the stone carvings and runes must have been exquisite. But by now, it had probably been a very, very long time since anyone had come to maintain it.
 
@@ -44,17 +44,19 @@ Jace could tell that the situation outside this tower wasn't much different from
 
 Especially stepping through that stone gate behind Grede. The somewhat dry, deathly silence outside suddenly turned damp and ethereal, and his mind was immediately swallowed up by a buzzing — the sound of some unknown something.
 
-Even so, the sound of water dripping — from who knows the ceiling or the floor — could still be heard crystal clear.
+Even so, the sound of water dripping — from the ceiling or onto the floor, who could tell — could still be heard crystal clear.
 
 Not only did he tense up in an instant, he noticed that Vereesa, walking at the front, had also pricked up her pointed ears and would turn in response to even the slightest unusual sound.
 
-Lit by the glow of Azurewrath, they walked very far down the steps and through several narrow corridors into the depths of the temple. Throughout, they never saw a single troll — not even the figure of any living creature at all.
+Lit by the glow of Azuresong, they walked very far down the steps and through several narrow corridors into the depths of the temple. Throughout, they never saw a single troll — not even the figure of any living creature at all.
 
 "Now I'm actually hoping some monster jumps out and ambushes us," Grede muttered. "Right now it feels like there's an axe hanging over your head and you don't know when it's going to fall."
 
 "Then I hope it stays suspended up there forever," Jace said.
 
-Grede laughed. Vereesa, walking ahead, suddenly stopped in her tracks, staring at the lower area beyond the corner ahead. "What is it?" Jace asked.
+Grede laughed. Vereesa, walking ahead, suddenly stopped in her tracks, staring at the lower area beyond the corner ahead.
+
+"What is it?" Jace asked.
 
 "Water's blocking the path," Vereesa said.
 
@@ -62,9 +64,9 @@ The group walked over to look, and sure enough, the steps leading down ahead had
 
 Jace still remembered that in the game, to enter the temple you also had to pass through a flooded passage — so the situation was the same here.
 
-"Looks like we'll have to swim through after all," he said as he began chanting the Water Breathing incantation again. Grede complained, "I should've known I wouldn't get dressed, damn it."
+"Looks like we'll have to swim through after all," he said as he began chanting the Unending Breath incantation again. Grede complained, "If I'd known, I wouldn't have bothered getting dressed, damn it."
 
-The group efficiently gathered their things and waded into the steps. The moment Sola extended a foot and touched the water, she said in a low voice, "The water here is foul."
+The group efficiently gathered their things and waded down the steps. The moment Sola extended a foot and touched the water, she said in a low voice, "The water here is foul."
 
 Grede, with only his head still above the surface, said, "Feels about the same to me."
 
@@ -72,7 +74,7 @@ Grede, with only his head still above the surface, said, "Feels about the same t
 
 Jace and Vereesa nodded. The moment he sank beneath the surface, he immediately understood what Sola meant. Within the dull, gurgling sounds of the watery depths, there seemed to be a low chant mixed in — whether through the water or not, it sounded like a troll's voice, yet slightly different.
 
-He held Azurewrath ahead of him to light the way. In this dark, murky water, the glow of Azurewrath couldn't even illuminate the surrounding walls, ceiling, and floor in full.
+He held Azuresong ahead of him to light the way. In this dark, murky water, the glow of Azuresong couldn't even illuminate the surrounding walls, ceiling, and floor in full.
 
 Every so often, he'd look back to confirm that the companions following behind were all keeping up. But this time when he turned his head, he saw an extra, blurry humanoid figure beside Grede.
 
@@ -88,11 +90,11 @@ Vereesa held a blade that still burned with light even underwater and swam towar
 
 Grede collapsed on the stone steps and spat out a mouthful of water. The ranger also propped herself up and caught her breath several times.
 
-The stairs led upward all the way to the entrance of another corridor. Everyone tacitly said nothing, waiting together for the air to quiet down, waiting until only the sound of lapping water remained around them and there was no other movement at all before they relaxed a little.
+The stairs led upward all the way to the entrance of another corridor. By unspoken agreement no one said a word, waiting together for the air to quiet down, waiting until only the sound of lapping water remained around them and there was no other movement at all before they relaxed a little.
 
 "Undead," Vereesa said.
 
-Jace stared at the water's surface, which looked like reflective ink lit by Azurewrath. "Resurrected trolls?"
+Jace stared at the water's surface, which looked like reflective ink lit by Azuresong. "Resurrected trolls?"
 
 "No," Grede said. "The one that attacked me was an elf."
 
@@ -102,7 +104,9 @@ Vereesa glanced at the dwarf, then nodded. "I saw a human, and then… it seemed
 
 "If we'd drowned in there, we probably would've become one of them," Grede said.
 
-"They have no souls left," Sola said. "Just a group of empty shells driven by the death power within this tower." Vereesa said, "Perhaps their souls were long ago sacrificed to Hakkar, and only their corpses were discarded here."
+"They have no souls left," Sola said. "Just a group of empty shells driven by the death power within this tower."
+
+Vereesa said, "Perhaps their souls were long ago sacrificed to Hakkar, and only their corpses were discarded here."
 
 "Damn it," Grede said, looking up at where the stairs led. "We shouldn't need to go back into the water from here on, right?"
 

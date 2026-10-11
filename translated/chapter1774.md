@@ -12,13 +12,13 @@
 
 "If necessary," Jace said.
 
-"Don't worry, Ranger-Lady," Khadgar said. "Even Karazhan couldn't sense this demon staff slipping in, let alone Dalaran. It's better at hiding itself than you think."
+"Don't worry, Ranger Lord," Khadgar said. "Even Karazhan couldn't sense this demon staff slipping in, let alone Dalaran. It's better at hiding itself than you think."
 
 Vereesa gave a cautious nod, then looked at Jace, and then at the green dragon beside her.
 
 "You think we two can work in sync?" Jace asked.
 
-"Yes," Sora nodded without hesitation.
+"Yes," Sola nodded without hesitation.
 
 "It warms my heart to see you two trust each other so much," Khadgar said. "I half-expected you'd think this couldn't work."
 
@@ -26,11 +26,11 @@ Vereesa gave a cautious nod, then looked at Jace, and then at the green dragon b
 
 "I've thought about far more than this, but without your involvement, most of it would be completely impossible," Khadgar said. "So, Lord Thunderfist, have you just about got it straight now?"
 
-"So it's like..." Grede's index finger pointed back and forth between the green dragon and the warlock. "Sora's in charge of keepin' your decoy alive, and Jace is in charge of makin' your real self dead..."
+"So it's like..." Grede's index finger pointed back and forth between the green dragon and the warlock. "Sola's in charge of keepin' your mirror image alive, and Jace is in charge of makin' your real self dead..."
 
 "No, no, no, can't die," the mage quickly waved his hands.
 
-"Half-dead," Grede corrected, then continued. "While the two of 'em cast spells on the cell door to fool the prison's defenses, lettin' one of you in and the other out, me and the sprite'll keep watch and distract the patrolmin' magic guards. Needleflame'll fly around outside makin' news. Each of us does our part, and we finish all the steps inside ten minutes..."
+"Half-dead," Grede corrected, then continued. "While the two of 'em cast spells on the cell door to fool the prison's defenses, lettin' one of you in and the other out, me and the little elf'll keep watch and distract the patrollin' magic guards. Needleflame'll fly around outside makin' news. Each of us does our part, and we finish all the steps inside ten minutes..."
 
 "That's it," Khadgar said with a relieved smile.
 
@@ -40,7 +40,7 @@ Vereesa gave a cautious nod, then looked at Jace, and then at the green dragon b
 
 "Cell door? Right, the deluxe suite's door! After all that yammerin' I forgot!" Grede flopped back into his chair. "That's way too many layers!"
 
-"But compared to Master Frevin's life barrier, a cell door isn't that far outside our expectations," Vereesa said, looking exhausted.
+"But compared to Master Freywinn's life barrier, a cell door isn't that far outside our expectations," Vereesa said, looking exhausted.
 
 "True, relatively speaking it's just an ordinary enough door. But it still needs to be opened normally," Khadgar said, looking at the dwarf. "Tight security has its downsides and its upsides. The upside is that to be safe, Master Drenden generally doesn't leave the castle, let alone Dalaran, so the key and the cell door are in the same place. Very convenient."
 
@@ -50,9 +50,9 @@ Vereesa gave a cautious nod, then looked at Jace, and then at the green dragon b
 
 "Ha!" the dwarf across from him let out a laugh. "Don't tell me this Master Drenden is also sittin' with the key in a heavily fortified room, waitin' for us to peel apart box after box."
 
-"Exactly right, esteemed Lord Thunderfist, High Thane in name!" Khadgar turned and pointed at Grede. "But we don't need to peel these boxes ourselves. After all, Drenden isn't under house arrest like me! He can leave his room on his own."
+"Exactly right, esteemed Lord Thunderfist, High King in name!" Khadgar turned and pointed at Grede. "But we don't need to peel these boxes ourselves. After all, Drenden isn't under house arrest like me! He can leave his room on his own."
 
-The nominal Mountain King coughed irritably. "So we gotta wait for him to come out first? Then lift the key?"
+The nominal High King coughed irritably. "So we gotta wait for him to come out first? Then lift the key?"
 
 "That probably won't work," Jace said quietly. "Because we don't know when Antonidas will decide to perform the ritual. Which means the starting signal isn't up to us — it's up to the Violet Citadel. By then, Drenden could be in that magic room Khadgar mentioned, or he could be elsewhere. So the best approach is to find a reason to lure him out after the ritual starts."
 
@@ -74,15 +74,15 @@ The nominal Mountain King coughed irritably. "So we gotta wait for him to come o
 
 "Everyone knows what that thing is, Jace..." Vereesa said helplessly.
 
-"The Wind-Kissed Blade," Sora raised a finger from behind. "We can use the Wind-Kissed Blade. Few mortals have seen that blade with their own eyes. And since it's forged from Arcanite metal, it must be ancient — so ancient even the dragonflights would find it hard to fathom..."
+"The Wind-Kissed Blade," Sola raised a finger from behind. "We can use the Wind-Kissed Blade. Few mortals have seen that blade with their own eyes. And since it's forged from Elementium, it must be ancient — so ancient even the dragonflights would find it hard to fathom..."
 
-"Great idea, Sora," Jace's eyes lit up.
+"Great idea, Sola," Jace's eyes lit up.
 
 "What in the world is the Wind-Kissed Blade?" Khadgar looked around blankly at the group.
 
-"The tip of the greatsword wielded by Prince Thunderaan the Windlord, Khadgar," Sora explained. "We rescued him from Ragnaros the Firelord's prison. He destroyed this cursed sword — a gift from the Windlord himself — to show his resolve, and granted us the blade tip, which holds the most power."
+"The tip of the greatsword wielded by Prince Thunderaan the Windseeker, Khadgar," Sola explained. "We rescued him from Ragnaros the Firelord's prison. He destroyed this cursed sword — a gift from the Windlord himself — to show his resolve, and granted us the blade tip, which holds the most power."
 
-"You actually found a way to free that elemental lord?" Khadgar looked back and forth at the group. "The Windlord, a black dragon princess, a demon prison in Ashenvale... I say, Jace Sesso, didn't you say you were going to Kalimdor to relax a bit on the side? This is what you call relaxing?!"
+"You actually found a way to free that elemental lord?" Khadgar looked back and forth at the group. "The Windseeker, a black dragon princess, a demon prison in Ashenvale... I say, Jace Sesso, didn't you say you were going to Kalimdor to relax a bit on the side? This is what you call relaxing?!"
 
 "That's not the point, mage," Jace said. "The point is, if even you don't know what this is, the average Kirin Tor mage certainly won't. So they'll definitely have to call Drenden himself out for a look."
 
@@ -98,7 +98,7 @@ The nominal Mountain King coughed irritably. "So we gotta wait for him to come o
 
 The group reached the ground floor. Khadgar spotted the object — wrapped in layers of enchanted cloth and leather, shaped like a massive rhomboid shield — and couldn't help raising an eyebrow. As Grede peeled away the wrappings layer by layer, the archmage's features gradually twisted together.
 
-An ice-blue arcane edge peeked out from one corner, releasing a bolt of lightning that flashed the whole hall white. The archmage's decoy clenched his jaw hard.
+An ice-blue arcane edge peeked out from one corner, releasing a bolt of lightning that flashed the whole hall white. The archmage's mirror image clenched his jaw hard.
 
 "What do you think?" Jace asked.
 
@@ -110,8 +110,8 @@ Khadgar stared at the wisp of lightning that had been covered again, murmuring: 
 
 Everyone's eyes locked onto Grede Thunderfist at the same time. Needleflame said quietly: "You touched this blade first, remember, dwarf? It's yours now."
 
-"What if another dwarf recognizes him?" Sora asked. "He is the Mountain King."
+"What if another dwarf recognizes him?" Sola asked. "He is the Mountain King."
 
-"No, no, no, Sora, that won't happen," Vereesa said. "For one thing, it's unlikely any dwarves will be in the Violet Citadel. And more importantly, the legendary Mountain King probably wouldn't have such an ugly beard."
+"No, no, no, Sola, that won't happen," Vereesa said. "For one thing, it's unlikely any dwarves will be in the Violet Citadel. And more importantly, the legendary Mountain King probably wouldn't have such an ugly beard."
 
 "What?!" Grede grabbed his tangled beard and snarled through clenched teeth: "This is still from when yer bloody little sweetheart hacked at it with that bloody crappy sword you gave her?!"

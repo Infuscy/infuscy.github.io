@@ -36,7 +36,9 @@ What surprised Jace was that upon hearing about Durotan's son, Drek'Thar didn't 
 
 The old orc sighed deeply and said, "That's nothing but a rumor spread by people on the outside to trick us into leaving Alterac Valley."
 
-He'd already heard that Durotan's son was still alive? "Where did you hear it from?" Jace asked.
+He'd already heard that Durotan's son was still alive?
+
+"Where did you hear it from?" Jace asked.
 
 "A wandering clansman. He brought that news all the way here, adventuring from a place near the Dark Portal." Drek'Thar said in a cold tone, "He told me that a human wizard informed him that Durotan's son was still alive and being held in a human castle. There's no question — the spreader of this rumor wanted us to empty out and rescue Durotan's son based on such an unfounded message, then take the opportunity to wipe us out in one stroke. Otherwise, why would he be kind enough to tell a wandering orc to come here to us for help?"
 
@@ -44,7 +46,9 @@ After hearing the orc's words, Jace could almost certainly determine that this w
 
 "That so-called human wizard is me, chief." Jace stood up. "Where is that wanderer? I want to see him."
 
-Drek'Thar raised his head in surprise, then said to the orc soldiers beside him in the orcish tongue, "Call Bazuen here." Vereesa stared at Jace. "What's going on? I have absolutely no idea."
+Drek'Thar raised his head in surprise, then said to the orc soldiers beside him in the Orcish tongue, "Call Bazuen here."
+
+Vereesa stared at Jace. "What's going on? I have absolutely no idea."
 
 "We didn't know each other yet back then," Jace said.
 
@@ -58,13 +62,13 @@ The moment he saw him, Jace recognized this fellow immediately. It was him — h
 
 Right now this orc had a battle axe hanging at his waist, and his body was wrapped in layer upon layer of leather and cloaks. He looked even more burly and solid than he had back then.
 
-"Do you know this human warlock, Bazuen?" Drek'Thar asked in the orcish tongue.
+"Do you know this human warlock, Bazuen?" Drek'Thar asked in the Orcish tongue.
 
-The orc sized Jace up, then said in the orcish tongue, "I don't know him. He claims to be the wizard who told me about Chief Durotan's son's news? That fellow was a skinny, scrawny little tender-skin monkey, and he didn't have much strength either. This human is nearly as tall as an orc kid, and he's sturdy and strong, with boiling blood flowing through his veins… They're completely not the same person, respected chief."
+The orc sized Jace up, then said in the Orcish tongue, "I don't know him. He claims to be the wizard who told me about Chief Durotan's son's news? That fellow was a skinny, scrawny little tender-skin monkey, and he didn't have much strength either. This human is nearly as tall as an orc kid, and he's sturdy and strong, with boiling blood flowing through his veins… They're completely not the same person, respected chief."
 
-Jace said in the orcish tongue, "Humans grow taller too."
+Jace said in the Orcish tongue, "Humans grow taller too."
 
-Bazuen frowned. "You speak the orcish tongue? That wizard's orcish was terrible."
+Bazuen frowned. "You speak the Orcish tongue? That wizard's orcish was terrible."
 
 "I've been studying," Jace said. "That's nothing strange. And I wasn't the only one dealing with you back then. There was also a dwarf. Do you remember? He was knocked unconscious by a lightning spell you hit him with."
 
@@ -76,7 +80,9 @@ He walked over a few steps and swept Jace up into a hug with a laugh. "You saved
 
 "Yes," Bazuen nodded. "That's the most important thing… though I still don't know your name, human."
 
-"Jace Sesso," Jace said. "Glad to see you alive, Bazuen. I didn't expect you to actually make it this far either." Vereesa sat to the side and said helplessly in a low voice, "I should have learned more of the orcish tongue."
+"Jace Sesso," Jace said. "Glad to see you alive, Bazuen. I didn't expect you to actually make it this far either."
+
+Vereesa sat to the side and said helplessly in a low voice, "I should have learned more of the Orcish tongue."
 
 "I've learned some Common too, the elf companion of Jace Sesso," Bazuen looked at Jace and said. "You have to admit, warlock — back then you definitely wished I'd get killed by just anyone on the road as soon as possible. I also suspected you'd made up some place for me based on bits and pieces of news you knew, just trying to get me killed. But back then I didn't have anywhere else to go either."
 

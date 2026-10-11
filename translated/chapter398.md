@@ -12,11 +12,11 @@ The muddy clouds in the sky held a strange purple tinge, and the occasional flas
 
 Crossing the Trade District, the crowd on the street seemed somewhat panicked. Some people were staring at the sky despite the rain, whispering amongst themselves about something.
 
-At that moment, a mage in a blue robe rode a horse through the Trade District, holding his staff high and dragging a brilliant sphere of Light as he shouted, "All mages… all mages of apprentice rank and above, proceed immediately to the Wizard Sanctum for assembly!"
+At that moment, a mage in a blue robe rode a horse through the Trade District, holding his staff high and dragging a brilliant sphere of light as he shouted, "All mages… all mages of apprentice rank and above, proceed immediately to the Wizard's Sanctum for assembly!"
 
 The mage's figure quickly vanished at the street corner, but his voice still echoed back and forth. Jace didn't even have time to eat breakfast and immediately ran toward the canal.
 
-By the time he reached the front of the Wizard Sanctum, quite a few mages had already gathered near the Park. Jace had sprinted the whole way and, tinged with a bit of anxiety, had nearly run out of breath. He lowered his head and panted a few times, looking at these tense-faced colleagues. Actually, he could sense what had happened.
+By the time he reached the front of the Wizard's Sanctum, quite a few mages had already gathered near the Park. Jace had sprinted the whole way and, tinged with a bit of anxiety, had nearly run out of breath. He lowered his head and panted a few times, looking at these tense-faced colleagues. Actually, he could sense what had happened.
 
 He could even say that he'd known this day was coming for a very long time.
 
@@ -42,7 +42,7 @@ But why hadn't Khadgar destroyed the Dark Portal yet?
 
 "Mr. Sesso."
 
-Jace turned his head and saw Marin leading several familiar faces over.
+Jace turned his head and saw Malin leading several familiar faces over.
 
 "I'm glad you're here, because we are facing a tremendous problem. Something went wrong at the Dark Portal a few days ago, and demons are threatening Nethergarde Keep. We must set out immediately to reinforce the front."
 
@@ -50,29 +50,29 @@ Jace turned his head and saw Marin leading several familiar faces over.
 
 Jace said, "So Amy…"
 
-"Yes, she's in danger too," Marin said. "I've spoken with Archmage Andormas about leading a mage company to reinforce Nethergarde Keep. We set out tomorrow. You asked me before if you could head to Nethergarde to help — well, do you still have that desire now?"
+"Yes, she's in danger too," Malin said. "I've spoken with High Sorcerer Andromath about leading a mage company to reinforce Nethergarde Keep. We set out tomorrow. You asked me before if you could head to Nethergarde to help — well, do you still have that desire now?"
 
 "This is the time, Master," Jace said immediately. "I'm willing to go."
 
-"Very good, very good, Mr. Sesso." Marin grabbed Jace's shoulder and gave it a pat. "Meet me at the Wizard Sanctum this time tomorrow. The Wizard Sanctum can't send off this many mages in a few days — there may be mages from Quel'Thalas or the Kirin Tor to help then."
+"Very good, very good, Mr. Sesso." Malin grabbed Jace's shoulder and gave it a pat. "Meet me at the Wizard's Sanctum this time tomorrow. The Wizard's Sanctum can't send off this many mages in a few days — there may be mages from Quel'Thalas or the Kirin Tor to help then."
 
 "Teleportation?" Jace asked.
 
-"It's the only way," Marin said. "Even hurrying on foot would take two weeks. By then the demon legions might have reached Darkshire."
+"It's the only way," Malin said. "Even hurrying on foot would take two weeks. By then the demon legions might have reached Darkshire."
 
 Jace nodded dazedly. He hadn't expected he'd be experiencing real teleportation magic so soon.
 
 Even if it wasn't his own magic.
 
-After Marin and the other mages left, he immediately headed for the Slaughtered Lamb.
+After Malin and the other mages left, he immediately headed for the Slaughtered Lamb.
 
 Why had demons come from the Dark Portal to here? He didn't understand. Hadn't the Dark Portal been firmly under the expedition's control? How had demons suddenly appeared?
 
 Perhaps it was precisely because of this that Khadgar hadn't destroyed the Dark Portal at the very start of the catastrophe — the demons had seized back control there.
 
-But this was only a guess. It was obvious that Marin's information was also limited. Perhaps the real reasons could only be known upon reaching Nethergarde Keep.
+But this was only a guess. It was obvious that Malin's information was also limited. Perhaps the real reasons could only be known upon reaching Nethergarde Keep.
 
-He came down to the basement, shooed the hellhound away, and rushed into the alchemy lab.
+He came down to the basement, shooed the felhound away, and rushed into the alchemy lab.
 
 "Ursula." He looked at the alchemist, who had just woken up and was still chewing a piece of bread. "I may be going away for a while. I don't know when I'll be back, but… it shouldn't be too long."
 
@@ -80,7 +80,7 @@ He came down to the basement, shooed the hellhound away, and rushed into the alc
 
 "Nethergarde Keep," Jace said frankly. "Remember to tell the others for me."
 
-"You mean the Dark Portal? You're joining the expedition as a mage? On the Wizard Sanctum's orders?" Ursula asked.
+"You mean the Dark Portal? You're joining the expedition as a mage? On the Wizard's Sanctum's orders?" Ursula asked.
 
 "Not the expedition. Nethergarde Keep is in danger, I need to help. I'm leaving soon."
 
@@ -92,7 +92,7 @@ He came down to the basement, shooed the hellhound away, and rushed into the alc
 
 "Not this time. I'm just stopping by to say something, because things really are sudden."
 
-"Then, good luck," Ursula said, still a little hesitant. "Come back soon, Jace. I'm still waiting for you to find the other ingredients. That Noggenfoger's potion still hasn't…"
+"Then, good luck," Ursula said, still a little hesitant. "Come back soon, Jace. I'm still waiting for you to find the other ingredients. That Noggenfogger Elixir still hasn't…"
 
 She said this in a flat tone, but it was as if a surge of emotion welled up and made her pause.
 
@@ -100,17 +100,4 @@ She said this in a flat tone, but it was as if a surge of emotion welled up and 
 
 "I'll come back," Jace said. "Don't worry."
 
-The alchemist nodded, walked over and hugged Jace tightly, saying softly, "I know you, little guy… you'll be fine."
-
-## Flags
-
-- **黑暗之门 / 守望堡**: Dark Portal / Nethergarde Keep (canonical locations).
-- **塔隆·血魔**: Teron Gorefiend — failed to bring three artifacts across the Dark Portal.
-- **耐奥祖**: Ner'zhul — the Horde Warchief on Draenor.
-- **麦迪文之书 / 萨格拉斯权杖 / 达拉然之眼**: Book of Medivh / Scepter of Sargeras / Eye of Dalaran — the three artifacts Ner'zhul needs to open portals.
-- **卡德加**: Khadgar — the archmage who (in Jace's foreknowledge) destroys the Dark Portal.
-- **安多玛斯**: Andormas — senior mage of the Wizard Sanctum.
-- **传送**: Teleportation — Marin confirms they'll need mage-shipped teleportation to reach the front in time.
-- **厄苏拉**: Ursula — the alchemist at the Slaughtered Lamb; her quiet goodbye with Jace carries genuine warmth.
-- **诺格弗格的药剂**: Noggenfoger's potion — an ongoing alchemy thread Ursula wants finished.
-- **POV note**: Jace's foreknowledge of Draenor's shattering is rendered as internal recollection, not dramatic irony spelled out to other characters.
+The alchemist nodded, walked over and hugged Jace tightly, saying softly, "I know you, kid… you'll be fine."

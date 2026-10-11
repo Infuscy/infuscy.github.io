@@ -2,7 +2,7 @@
 
 After landing in the woods outside the city gates, Jace glanced toward the distant treeline. From this distance and angle, he could just catch a glimpse of the parapet tops and tower peaks.
 
-He thought back to the ancient Kaldorei spires and stone pillars he'd seen not long ago on Kalimdor — the ruined walls — and it didn't feel like much time had passed at all.
+He thought back to the ancient Kaldorei spires and stone pillars he'd seen not long ago in Kalimdor — the ruined walls — and it didn't feel like much time had passed at all.
 
 That was entirely thanks to Sola.
 
@@ -10,7 +10,7 @@ Traveling with a dragon was a completely different experience. No wonder Grede h
 
 Right now, Sola was carefully straightening her clothes, making sure her human appearance didn't have any easily identifiable flaws.
 
-Jace looked at the silver crescent moon at her forehead — very heavy Night Elf style. "You'd better hide that ornament, Sola. Most people here worship the Holy Light. A pendant of the Moon Goddess Elune would draw a lot of attention in Stormwind. Of course, if that thing is important to you, forget I said anything."
+Jace looked at the silver crescent moon at her forehead — very much in the night elf style. "You'd better hide that ornament, Sola. Most people here worship the Holy Light. A pendant of the Moon Goddess Elune would draw a lot of attention in Stormwind. Of course, if that thing is important to you, forget I said anything."
 
 Sola touched the ornament at her forehead, took it off, put it around her neck, and tucked it inside her collar. "All right. I just thought it looked nice."
 
@@ -24,7 +24,7 @@ Jace looked at the succubus beside him. "All right, Morophil. We're back in Stor
 
 As she said this, the fel fire across her whole body dimmed. The melancholy she was putting on was so convincing that Jace even felt a little bad about shutting her down with a single sentence.
 
-War would it be when warlocks and their demons could appear together on the street?
+When would the day come that warlocks and their demons could appear together on the street?
 
 In the game, it seemed that even in the original version — twenty years from now — warlocks still couldn't openly show their faces or acknowledge their existence in Stormwind.
 
@@ -36,15 +36,15 @@ Morophil seemed a little surprised that Jace had answered so seriously. She rais
 
 Her tone was much more formal and heavy than before. She took the demon bag from Jace's hand, stepped back, and finally vanished completely into the dappled shadows of the trees.
 
-Jace remembered the things Vereesa had said to him when they'd parted at the border of Quel'Thalas — how Morophil had been willing to help her voluntarily, without being ordered to. When facing the Black Knights, Morophil had stepped in front of Jace of her own accord, trying to stop the ghosts resurrected by Apocalypse from reaching him — her actual goal being to let Jace help Grede deal with the other Black Knight acolytes…
+Jace remembered the things Vereesa had said to him when they'd parted at the border of Quel'Thalas — how Morophil had been willing to help her voluntarily, without being ordered to. When facing the Dark Riders, Morophil had stepped in front of Jace of her own accord, trying to stop the ghosts resurrected by Apocalypse from reaching him — her actual goal being to let Jace help Grede deal with the other Dark Rider acolytes…
 
 Not only had Vereesa been surprised by it. When Jace had heard Morophil say those things, he'd been a little surprised too. It was just that the battle had been urgent, and he hadn't thought much about it at the time.
 
 In any case, Morophil seemed to be changing in some way. It was hard to say when it had started. Was it because of Alexstrasza's blessing?
 
-Jace thought of the time on the shore of Borean Tundra, when Sazeno had forced him to glance at Morophil's soul through the mirror stone — the image of life flame and fel energy tearing at each other inside her.
+Jace thought of the time on the shore of the Borean Tundra, when Sazeno had forced him to glance at Morophil's soul through the mirror stone — the image of life flame and fel energy tearing at each other inside her.
 
-Still, Sazeno had said she hadn't changed in any fundamental way. She was still a true demon, a Sayaad. Maybe he should find a chance to have a proper talk with Sazeno about Morophil when she wasn't around.
+Still, Sazeno had said she hadn't changed in any fundamental way. She was still a true demon, a sayaad. Maybe he should find a chance to have a proper talk with Sazeno about Morophil when she wasn't around.
 
 "What's wrong, Jace? What are you thinking about?" Grede waved a hand in front of his face. "Sola said she's hungry. Didn't you hear?"
 
@@ -60,9 +60,9 @@ Even as a Horde player, he'd been awed the first time he'd entered Stormwind's g
 
 In other words — it had finally been built to look like it did in the game. The strange taste of intersecting timelines left him dazed for a long time.
 
-Beside him, Grede was telling Sola the story of the expeditionary force's Wildhammer dwarf leader, Kurdran Wildhammer. Jace, meanwhile, gazed at the statue of Alleria Windrunner and, further off, the likeness of Marshal Turalyon, thinking about the mage tower and Kallrez.
+Beside him, Grede was telling Sola the story of the expeditionary force's Wildhammer dwarf leader, Kurdran Wildhammer. Jace, meanwhile, gazed at the statue of Alleria Windrunner and, further off, the likeness of General Turalyon, thinking about the mage tower and Kallrez.
 
-Now that Ursolus was in his hands, at least there was no need to worry about it being seized by someone else — like its previous master Sathiel — and used to recklessly harvest innocent souls for power.
+Now that Ulthalesh was in his hands, at least there was no need to worry about it being seized by someone else — like its previous master Sataiel — and used to recklessly harvest innocent souls for power.
 
 Once this demon trouble died down, he could go find the Stonemasons' VanCleef to rebuild the mage tower, then stuff Kallrez inside and quietly research methods of communicating with Draenor.
 
@@ -74,7 +74,7 @@ Just then, a patrol of mounted soldiers rode past. The green dragon, who'd never
 
 Jace was about to argue that cavalrymen had to be able to communicate with their horses, but he quickly realized that by "communicate" Sola meant actual communication — talking, conversing — not the simple commands and cues that humans used when working with animals.
 
-At that moment, Grede cut in. "Why does there need to be communicating? We can't understand a word gryphon riders say, and we still become brothers who can entrust our lives to each other."
+At that moment, Grede cut in. "Why does there need to be communicating? We gryphon riders can't understand a word our gryphons say, and we still become brothers who can entrust our lives to each other."
 
 "I just feel like if you can't understand what the other party means, you'd worry about misunderstandings."
 
@@ -102,19 +102,8 @@ Sola said, "Jace, I feel that although you're a Lordaeronian, Stormwind is more 
 
 Sola thought for a moment. "Then there must be something truly special about this place, to make you feel such a deep bond."
 
-Jace thought to himself that it was definitely because, not long from now, the Kingdom of Lordaeron would very likely be overthrown by the unstoppable plague laid down by the "death king" they'd seen in Northrend.
+Jace thought to himself that it was definitely because, not long from now, the Kingdom of Lordaeron would very likely be overthrown by the unstoppable plague unleashed by the "king of the dead" they'd heard of in Northrend.
 
 And because when he played his Alliance character, he'd spent most of his time jumping around next to this very fountain — of course he had a deep bond with it.
 
 Naturally, he couldn't say that out loud. So he could only take a deep breath, look around the whole square, and put on a show of not knowing how to answer.
-
-## Flags
-
-- **英雄谷 = the Valley of Heroes** — per ch.001 convention. Not in glossary.
-- **艾露恩 = Elune** — Night Elf moon goddess. Not in glossary.
-- **图拉杨 = Turalyon** — per glossary.
-- **奥妮克希亚 = Onyxia** — canonical black dragon. Not in glossary.
-- **萨泰尔 = Sathiel** — previous wielder of Ursolus. OC; not in glossary. Tentative romanization.
-- **温蕾萨 = Vereesa** — canonical (shortened to "Vere" per ch.851 convention). Not in glossary.
-- **埃雷萨拉斯 = Eldre'Thalas** — ancient Night Elf city (Dire Maul). Canonical; not in glossary.
-- **达拉然城 = the city of Dalaran** — per glossary (Dalaran).

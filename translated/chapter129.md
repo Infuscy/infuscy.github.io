@@ -1,4 +1,4 @@
-## Chapter 129: The Kul Tiras Ship
+## Chapter 129: The Kul Tiran Ship
 
 The sun rose from the sea, no longer hiding its face. Sunlight raked across the sides of everything in the harbor, splitting every person and ship into light and shadow.
 
@@ -6,17 +6,17 @@ The *Great Baradin Conqueror* was a black wooden sailing ship built by the Kingd
 
 Jace knew nothing about sailing, but he could roughly estimate the deck at a hundred and twenty-odd feet, about forty meters long. If his past-life self had seen it, he definitely wouldn't have thought a forty-meter ship was anything impressive — back then, the aircraft carriers he'd heard about were routinely two or three hundred meters. But here, with his own eyes, this ship absolutely qualified as enormous — especially compared to the other vessels at the dock.
 
-The only ship in the whole of Stormwind harbor that seemed longer was a warship flying the lion king's banner in the distance — but only because its forward-raked bowsprit jutted out long, like a lance thrust forward by a charging heavy knight. It had a lot more presence than the tubby transport ship over here.
+The only ship in the whole of Stormwind Harbor that seemed longer was a warship flying the lion king's banner in the distance — but only because its forward-raked bowsprit jutted out long, like a lance thrust forward by a charging heavy knight. It had a lot more presence than the tubby transport ship over here.
 
 There were already thirty or forty people bustling about the deck. The whole ship could probably carry two hundred people without trouble, even with a fair amount of cargo aboard. Especially with a good number of goblin crew — that might mean it could carry even more.
 
-Jace sat at the edge of the deck, looking toward the shore. He noticed that unlike the lively crowds seeing off the other ships, this *Baradin Conqueror* had no well-wishers.
+Jace sat at the edge of the deck, looking toward the shore. He noticed that unlike the lively crowds seeing off the other ships, this *Great Baradin Conqueror* had no well-wishers.
 
 "What kind of people do you think are on this ship?" Jace asked Grede beside him.
 
 Grede was gnawing on a piece of bread. Chewing, he reluctantly turned his head to glance up at the helm, where several goblins sat, also looking their way.
 
-"It's a ship run by goblins of the Trade Cartel. Pay your fare and anyone can board, any cargo can come aboard. If you ask me, I couldn't say for sure. But there are definitely no small number of people like us who simply came too late to book a ticket and had no choice but to get on this ship, Jace."
+"It's a ship run by goblins of the Steamwheedle Cartel. Pay your fare and anyone can board, any cargo can come aboard. If you ask me, I couldn't say for sure. But there are definitely no small number of people like us who simply came too late to book a ticket and had no choice but to get on this ship, Jace."
 
 Jace could only hope the latecomers made up the majority. Otherwise, if the whole ship was full of bandits and thugs, he'd be stuck at sea for half a month — unbearable.
 
@@ -78,7 +78,7 @@ The dwarf pointed at the dense cluster of Stormwind's houses in the distance. "L
 
 "Go on, Jace, I could use a story right now." The dwarf turned around with interest.
 
-Jace said, "Long ago, when Kul Tiras was still part of the Arathi Empire, they built a mighty warship. After decades of grinding war, she still hadn't been sunk — but by the time the war ended, every single one of her components had been replaced at least once."
+Jace said, "Long ago, when Kul Tiras was still part of the Arathorian Empire, they built a mighty warship. After decades of grinding war, she still hadn't been sunk — but by the time the war ended, every single one of her components had been replaced at least once."
 
 "So, was she still the same warship?"
 
@@ -90,13 +90,4 @@ Jace said, "Long ago, when Kul Tiras was still part of the Arathi Empire, they b
 
 Jace knew this slightly adapted Theseus' ship story was only good for comforting Grede a little. If he, like that ship, had every piece of his body slowly replaced by shadow or fel energy, it might be hard to still call him the original Jace Sesso.
 
-Before they knew it, the *Baradin Conqueror* was pulling farther and farther from the harbor. Stormwind grew smaller. The things at the dock grew vaguer. The crash of the waves and the sailors' shouts gradually drowned out the noise drifting over from the city.
-
-## Flags
-
-- **舷斜桅 = bowsprit**: Nautical term for the forward-raked spar.
-- **热砂财团 = the Trade Cartel**: Same rendering as chapter 128.
-- **狮子王旗 = the lion king's banner**: House of Wrynn royal standard, same as chapter 128.
-- **忒修斯之船 = Theseus' ship**: The philosophical paradox, here adapted with a Kul Tiras warship.
-- **阿拉索帝国 = the Arathi Empire**: 阿拉索 = Arathi in the glossary.
-- **Chapter title 库尔提拉斯之船 = "The Kul Tiras Ship"**: The title references the Theseus' ship story Jace tells, which is set in Kul Tiras — not the name of the actual ship.
+Before they knew it, the *Great Baradin Conqueror* was pulling farther and farther from the harbor. Stormwind grew smaller. The things at the dock grew vaguer. The crash of the waves and the sailors' shouts gradually drowned out the noise drifting over from the city.

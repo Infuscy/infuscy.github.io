@@ -1,10 +1,10 @@
-## Chapter 324: The Trade House
+## Chapter 324: The Auction House
 
 When you actually walked into the nooks and crannies of Booty Bay, you'd realize it wasn't hard to find a place to spend the night with at least some peace of mind in a town this complicated.
 
 Add in the protection of two demons, and he felt he could drop the qualifier "at least some."
 
-Deep in the town were abandoned shanties everywhere, and some places even had people sleeping in them. Jace randomly searched for half an hour and found a spot that wasn't particularly filthy or foul, and sitting down beneath the shack, drowsiness came right on cue.
+Deep in the town were abandoned shanties everywhere, and some places even had people sleeping in them. Jace randomly searched for half an hour and found a spot that wasn't particularly filthy or foul, and once he sat down beneath the shack, drowsiness came right on cue.
 
 For Jace, this definitely wasn't the worst place he'd ever stayed.
 
@@ -14,7 +14,7 @@ Jace still remembered that in the game, heading down from the inn would take you
 
 But looking down from here, all he could see was an area too chaotic to make out any function — though it was far more prosperous than the dock area on the other side. It looked like it should be a marketplace of some sort.
 
-There were goblins everywhere, chattering and shouting in swarms. Many of the shops and stalls were built from ship planks. Thinking back to the strange walls and floors inside the Sailor's Home Inn earlier, quite a bit of it seemed to be made from salvaged ship materials too.
+There were goblins everywhere, chattering and shouting in swarms. Many of the shops and stalls were built from ship planks. Thinking back to the strange walls and floors inside the Salty Sailor Tavern earlier, quite a bit of it seemed to be made from salvaged ship materials too.
 
 Stopping in front of a small stall that was practically half-hanging off the street, Jace looked at the jumble of Gurubashi coins and troll voodoo dolls on display and asked the fat goblin inside, "Excuse me, sir. I'd like to know if there's a place in Booty Bay that sells potions?"
 
@@ -38,19 +38,19 @@ Jace put down two silver, took the Gurubashi coin the shopkeeper handed him, and
 
 Jace said, "I'm after potions that come from Kalimdor. Something like special brews made by centaur or tauren, or one of your goblin secret formulas."
 
-The goblin cleared his throat. "Seeing as you know your way around, walk down this road, young man. Soon you'll see that tauren and his employer — the Trade House's director, Razzlovitz. The rarities coming in from Kalimdor are all sold through him."
+The goblin cleared his throat. "Seeing as you know your way around, walk down this road, young man. Soon you'll see that tauren and his employer — the Auction House's director, Razzlovitz. The rarities coming in from Kalimdor are all sold through him."
 
-Hearing "Trade House," Jace felt his stomach sink a little.
+Hearing "Auction House," Jace felt his stomach sink a little.
 
 Of course he'd heard plenty of rumors about Booty Bay's Auction House — every one of them involving outrageous prices in the tens, hundreds, or even several hundred gold.
 
 Ursula hadn't specified a clear price for Noggenfogger Elixir, but for a potion that could let you cheat a death curse, who could say where the upper limit on price even was?
 
-"Have you heard of Noggenfogger Elixir, boss?" Jace asked casually. "I heard this potion from Kalimdor can make a person fake their death. Is that real or not?"
+"Have you heard of Noggenfogger Elixir, sir?" Jace asked casually. "I heard this potion from Kalimdor can make a person fake their death. Is that real or not?"
 
-The boss shook his head. "Noggenfogger? That wealthy fellow from Gadgetzan? He's an alchemist, I think, but I honestly don't know much about him."
+The shopkeeper shook his head. "Noggenfogger? That wealthy fellow from Gadgetzan? He's an alchemist, I think, but I honestly don't know much about him."
 
-Jace thanked him and walked all the way down the road the boss had pointed toward, passing clusters of street vendors and shops one after another, until he reached the end of the road reeking of salted fish — the Trade House.
+Jace thanked him and walked all the way down the road the shopkeeper had pointed toward, passing clusters of street vendors and shops one after another, until he reached the end of the road reeking of salted fish — the Auction House.
 
 There were goblin guards everywhere here, watching over the cargo crates piled high on a dedicated dock and a tall stone-walled vault. From a long way off he could see a tall tauren covered in brown leather, wearing a bridle — or some kind of special "face-guard helmet" — sitting there, while a goblin wearing an expensive turban argued with a high elf standing below over a treasure chest.
 
@@ -64,7 +64,7 @@ Jace looked at him. This goblin was wearing a dark-purple embroidered outer robe
 
 "I'm looking for a potion. One that comes from Kalimdor," Jace said.
 
-"Ah… another one looking for those wondrous Night Elf potions." The goblin nodded. "Then you'll want to talk to those short elves from Quel'Thalas. They're here to buy Dream Potion too, but in any case they'll have to wait for the next auction."
+"Ah… another one looking for those wondrous night elf potions." The goblin nodded. "Then you'll want to talk to those short elves from Quel'Thalas. They're here to buy Dream Potion too, but in any case they'll have to wait for the next auction."
 
 "Not Dream Potion," Jace said. "One called Noggenfogger Elixir."
 
@@ -82,7 +82,9 @@ The goblin nodded. "Before you leave, wouldn't you like to see if you've got any
 
 He glanced at the cluster of elves standing at a distance. "See those? Those are our big clients. Of course, trolls sometimes throw out outrageous prices for magical items too, after all — Gurubashi is the last place short on gold, am I right?"
 
-"How much could you give me for this string?" Jace took the naga pearl bracelet off his wrist. The goblin took it and glanced at the pearls. "About forty to sixty silver. I'm no jewelry appraiser, but I can tell this is naga stuff. It doesn't look harmful, but naga things are always a bit off. I doubt it'd sell for much more than that, kid."
+"How much could you give me for this string?" Jace took the naga pearl bracelet off his wrist.
+
+The goblin took it and glanced at the pearls. "About forty to sixty silver. I'm no jewelry appraiser, but I can tell this is naga stuff. It doesn't look harmful, but naga things are always a bit off. I doubt it'd sell for much more than that, kid."
 
 That was about the same as the estimate from the grocery merchant in Stormwind who'd reported him to the Watch, but Jace had been wearing this string for a while now and had grown a bit attached to it. If it was only a few tens of silver, he wasn't willing to sell it outright.
 

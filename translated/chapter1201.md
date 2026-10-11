@@ -6,11 +6,11 @@ The next morning, a troop of cavalry arrived from Stonewatch — probably becaus
 
 The Stonewatch garrison had always been highly vigilant about strange lights in the forest, since it was quite likely to be gnoll sorcerers up to no good.
 
-Considering that the last time Ilgara's Tower had been activated was ten years ago during the orc invasion, it was only natural that such a light appearing now would worry them.
+Considering that the last time the Tower of Ilgalar had been activated was ten years ago during the orc invasion, it was only natural that such a light appearing now would worry them.
 
-Jace vaguely remembered that the first time he'd come to Stonewatch, it had been a gnoll warlock who'd drawn the cavalry away with shadow magic that had found the opportunity to launch a surprise attack on the walls.
+Jace vaguely remembered that the first time he'd come to Stonewatch, the gnolls had found their chance to launch a surprise attack on the walls because a gnoll warlock had drawn the cavalry away with shadow magic.
 
-This time, only three cavalrymen had come, probably having noticed that this phenomenon was related to Ilgara's Tower. After explaining the matter of the magic crystal to the Stonewatch soldiers, they left contentedly.
+This time, only three cavalrymen had come, probably having noticed that this phenomenon was related to the Tower of Ilgalar. After explaining the matter of the magic crystal to the Stonewatch soldiers, they left contentedly.
 
 After seeing the soldiers off, Jace began drawing the circle at the base of the tower according to the blueprint he'd designed earlier.
 
@@ -36,19 +36,19 @@ It seemed the scene of Kallrez fighting Onyxia head-on in that burning elemental
 
 This wasn't the first time Jace had summoned Kallrez, so he had a lot more confidence this time too.
 
-He walked to the summoner's position in the center of the circle, raised the Ursolus high, closed his eyes, and began chanting the incantation.
+He walked to the summoner's position in the center of the circle, raised Ulthalesh high, closed his eyes, and began chanting the incantation.
 
-"Velinka, Toxintani, Tostesta, Subinas Ereduin, Kallrez Ma'ali…"
+"Velilinki, Toxintani, Tosesta, Subinath Ered'ruin, Kallrez Ma'ali…"
 
-Although the distance to the being he was summoning wasn't that great, this was still the summoning of a demon lord. The interior of Ilgara's Tower began to tremble faintly. Jace felt the ley lines become unstable as well — but all of this was alleviated by the response of the Taralfsin Crystal.
+Although the distance to the being he was summoning wasn't that great, this was still the summoning of a demon lord. The interior of the Tower of Ilgalar began to tremble faintly. Jace felt the ley lines become unstable as well — but all of this was alleviated by the response of the Taralfsin Crystal.
 
 The things the Kirin Tor set their sights on were good things indeed. Otherwise, how could they have kept the Violet Hold calm for hundreds of years.
 
 As the crystal's energy activated, the mana quickly returned to calm, and Jace gained an extra layer of confidence in his heart.
 
-He thought back to when he'd originally wanted to borrow the power of the ley line nexus beneath Ilgara's Tower to summon Kallrez back from the depths of the lost Twisting Nether. Back then, he hadn't even thought about getting a mage tower crystal to stabilize the mana from anyone.
+He thought back to when he'd originally wanted to borrow the power of the ley line nexus beneath the Tower of Ilgalar to summon Kallrez back from the depths of the lost Twisting Nether. Back then, he hadn't even thought about getting a mage tower crystal to stabilize the mana from anyone.
 
-Referencing the summoning altar built by those ogres in Deadwind Valley — if not for the magic crystal, and with Kallrez being so far away, even if the summoning ritual could be completed successfully, the power of the Twisting Nether would probably be enough to tear the tower apart and collapse it directly…
+Referencing the summoning altar built by those ogres in Deadwind Pass — if not for the magic crystal, and with Kallrez being so far away, even if the summoning ritual could be completed successfully, the power of the Twisting Nether would probably be enough to tear the tower apart and collapse it directly…
 
 He continued the summoning ritual. Soon, a crack in the Twisting Nether unfolded from the center, and the murmuring mutters of Kallrez came from within.
 
@@ -66,15 +66,15 @@ He turned his head back and forth, surveying the surroundings. His long horns sc
 
 "Your tower? Your property?"
 
-As Kallrez spoke, he stepped onto the ground. The foundations and ground floor of Ilgara's Tower were far sturdier than the altar the ogres had thrown together. Protected by the circle empowered by the ley lines, only the few bricks where he'd planted his feet solidly had been cracked.
+As Kallrez spoke, he stepped onto the ground. The foundations and ground floor of the Tower of Ilgalar were far sturdier than the altar the ogres had thrown together. Protected by the circle empowered by the ley lines, only the few bricks where he'd planted his feet solidly had been cracked.
 
 Jace frowned at those few bricks. At this moment, the great demon crawled fully out of the crack and tried to straighten up and spread his enormous wings — Jace immediately roared again. The doom lord was so startled by the roar that he stopped moving at once, as if frozen in place.
 
 The demonic shadows pouring in from the crack in the Twisting Nether scattered and spun away. As the vision within the tower cleared, Kallrez slowly turned his head and finally realized where he was.
 
-He raised a finger and touched the window not far from the tip of his horn. Then undisguised fury surged into his mind. His hair even ignited in flames on the spot, and fire spurted from those small eyes squeezed fleshless.
+He raised a finger and touched the window not far from the tip of his horn. Then undisguised fury surged into his mind. His hair even ignited in flames on the spot, and fire spurted from those small, deep-set eyes.
 
-"You've found me a cage?! Jace Sesso!" The doom lord extended a sharp nail that nearly poked Jace on the forehead, cursing viciously in Demonic: "Anuuk — Amil… Just you wait, idiot! Wait until Kazoth dies, wait until this accursed contract between us is fulfilled — I will kill every wretched maggot writhing on Azeroth, including you! I'll personally smash these toy-like towers and walls of yours to pieces, and hang you and your friends, everyone you know, from my horns as decorations!"
+"You've found me a cage?! Jace Sesso!" The doom lord extended a sharp nail that nearly poked Jace on the forehead, cursing viciously in Demonic: "Anuuk — Amil… Just you wait, idiot! Wait until Kazzak dies, wait until this accursed contract between us is fulfilled — I will kill every wretched maggot writhing on Azeroth, including you! I'll personally smash these toy-like towers and walls of yours to pieces, and hang you and your friends, everyone you know, from my horns as decorations!"
 
 "You mean, after the contract is fulfilled?" Jace said, pointing at the succubus beside him. "Fine. When the time comes, you can make me and the Lady Morophil here into belt buckles."
 
@@ -94,13 +94,13 @@ His nail was practically a black broadsword to Jace, and several times, as this 
 
 "What the hell are you two saying, Jace?" Grede asked in a low voice.
 
-Jace patted Grede's shoulder, stared at the stiff, warg-like face of the doom lord pressing right up against him, and said in Common: "Before you fly into a rage, feel the power of this tower, Kallrez. Karazhan's shadow power is, after all, the aftershock of an explosion. The true power held by that ancient tower — you could never extract even a trace of it. But here is a completely different story."
+Jace patted Grede's shoulder, stared at the stiff, worg-like face of the doom lord pressing right up against him, and said in Common: "Before you fly into a rage, feel the power of this tower, Kallrez. Karazhan's shadow power is, after all, the aftershock of an explosion. The true power held by that ancient tower — you could never extract even a trace of it. But here is a completely different story."
 
 Kallrez said nothing, because he knew Jace was right.
 
 This great demon straightened up and looked around once more, then quickly raised his head to look toward the tower top. Jace knew — he'd sensed the presence of the Taralfsin Crystal.
 
-Kallrez was clearly larger than when he'd first descended at the Storm Altar, or to be more precise, he'd recovered somewhat. It was probably because he'd been rather well taken care of by the ogres who worshipped demons and dark magic in Deadwind Valley during this time.
+Kallrez was clearly larger than when he'd first descended at the Altar of Storms, or to be more precise, he'd recovered somewhat. It was probably because he'd been rather well taken care of by the ogres who worshipped demons and dark magic in Deadwind Pass during this time.
 
 So right now, as he straightened up and raised his head, the space within the mage tower was clearly more cramped than Jace had anticipated.
 
@@ -108,7 +108,7 @@ However, his power hadn't seriously exceeded the carrying limit of the Taralfsin
 
 By now, the doom lord's fury had clearly been doused considerably by the mana of this tower. He lowered his head and looked at Jace. "This is a ley line nexus of this world…"
 
-"Yes," Jace said, raising both hands. "Think about it, Kallrez. For a hunter, what could be more comfortable than prey delivering itself to your door? How could this be considered a prison? It's practically a buffet! And all you need to do is use the power of this tower to send us to hunt down your enemy Kazoth… this is practically a sure-win deal."
+"Yes," Jace said, raising both hands. "Think about it, Kallrez. For a hunter, what could be more comfortable than prey delivering itself to your door? How could this be considered a prison? It's practically a buffet! And all you need to do is use the power of this tower to send us to hunt down your enemy Kazzak… this is practically a sure-win deal."
 
 The great demon fell silent, and the fel fire sprouting from his head quieted.
 

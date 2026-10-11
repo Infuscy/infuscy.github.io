@@ -46,7 +46,7 @@ A guard nearby pushed and shoved the agitated crowd and said, "If you want to se
 
 "Watch or get out. Who the hell cares about your stinking money, you Redridge hillbilly? Your house rebuilt yet?"
 
-"You rotten maggot! I'll tear your dog mouth open!"
+"You rotten maggot! I'll tear that foul mouth of yours open!"
 
 "In a hurry to die? Want to go down there and play with those green-skinned beasts?"
 
@@ -58,7 +58,7 @@ It was like he'd been cursed twice over, and yet also had the wind taken out of 
 
 While he was still watching the commotion up top, the fight below had already ended. An old orc crouched in the middle of the floor, holding a younger orc and asking him something over and over, but blood was already streaming from the younger one's mouth. He looked badly hurt. Soon a dozen knights dragged them away — the standing and the lying alike, all of them.
 
-These dozen guards were all fully armored, wearing splendid armor and plumed helmets. They looked not much different from the Menethil royal guards in the capital — even more lavish than the noble knights in the moving pictures.
+These dozen guards were all fully armored, wearing splendid armor and plumed helmets. They looked not much different from the Menethil royal guards in the capital — even more lavish than the noble knights in the movies.
 
 "That was satisfying." Grede grinned. "Enemies though they are, orc fights really are something to watch! These lads are all veterans of the real battles, every one of them vicious. I'm really looking forward to the real matches — shame the timing doesn't work out."
 
@@ -117,19 +117,3 @@ And with all that shouting, the orc only grew prouder, beginning to bow and play
 Amid the chorus of "Thrall!" being shouted over and over, Jace gradually tuned out of the Common he'd grown completely accustomed to.
 
 In the Common spoken with an Alterac-region accent, "thrall" was how you pronounced the word for "slave."
-
-## Flags
-
-- 黑石氏族 → Blackrock clan (canonical WoW orc clan; not in glossary).
-- 敦霍尔德 → Durnholde (canonical WoW; not in glossary).
-- 布莱克摩尔 → Blackmoore (canonical WoW — Lieutenant Blackmoore, master of Durnholde; not in glossary).
-- 萨尔 → Thrall (canonical WoW; not in glossary — revealed at the end of the chapter).
-- 希尔斯布莱德野熊 → Hillsbrad wild bear (not in glossary).
-- 阿拉希的红色迅猛龙 → Arathi red raptor (not in glossary).
-- 米奈希尔卫士 → Menethil royal guards (not in glossary).
-- 赤脊山 → Redridge (glossary confirms).
-- 暴风王国 → Kingdom of Stormwind (glossary confirms Stormwind City; "Kingdom of Stormwind" is the polity).
-- 练习赛 → practice matches (not in glossary).
-- 正赛 → real matches / official matches (not in glossary).
-- 角斗比赛 → pit fights / gladiator matches (not in glossary).
-- 姑隶/奴隶 → "Thrall" / "slave" — the chapter's punchline hinges on the Alterac-accent pronunciation of 奴隶 (slave) sounding like "Thrall." Rendered to preserve the reveal.

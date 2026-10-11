@@ -44,7 +44,7 @@ What was this place, heaven?
 
 Or… a dream?
 
-If this was a dream caused by shadow damage, it was far too normal. You could even call it a "good dream" — definitely not the kind of nightmare some elder god would cook up.
+If this was a dream caused by shadow damage, it was far too normal. You could even call it a "good dream" — definitely not the kind of nightmare some Old God would cook up.
 
 That was when he noticed the pack sitting under the nightstand — the warlock's bag he'd looted from that orc.
 
@@ -72,9 +72,9 @@ Was that dragon dead?
 
 It should be dead. Jace still remembered that massive head slamming down right at his feet.
 
-That had been a whelp. Its head was snakelike, without the thick whiskers of an old dragon or the sharp, sturdy bull-like horns of an adult.
+That had been a drake. Its head was snakelike, without the thick whiskers of an old dragon or the sharp, sturdy bull-like horns of an adult.
 
-Jace really shouldn't have underestimated a whelp's power, since even whelps could have fearsome figures like Tremens the Devourer. But at the time, his mind had been too chaotic to recall any of that. Too much confusion, too much pain, too much adrenaline — he'd just wanted to help Southshore, help Grede put an end to that evil dragon's rampage.
+Jace really shouldn't have underestimated a drake's power, since even drakes could have fearsome figures like Teremus the Devourer. But at the time, his mind had been too chaotic to recall any of that. Too much confusion, too much pain, too much adrenaline — he'd just wanted to help Southshore, help Grede put an end to that evil dragon's rampage.
 
 Grede… right, where was Grede?
 
@@ -86,7 +86,7 @@ The cloak had returned to its dark brown color.
 
 Remembering the moment he'd worn that cloak and been singed by the flames, his right palm and his whole right arm throbbed with pain again. His arm was wrapped in bandages now.
 
-Jace remembered that in the final moment he'd cast Life Drain — and he'd cast it while holding that staff.
+Jace remembered that in the final moment he'd cast Drain Life — and he'd cast it while holding that staff.
 
 Logically, the burns he'd gotten at Stonewatch had healed after draining a single sheep. So why hadn't the burns from being grazed by dragonfire recovered after draining the black dragon's life force?
 
@@ -117,16 +117,3 @@ A jumble of little cream-walled buildings with vaguely Byzantine purple domes, p
 In the distance, behind a towering, solemn purple-tiled castle, the surface of a boundless lake glittered with light. Flocks of white birds crossed the sky.
 
 Endless green pine forests filled the rest of the view, a perfect natural frame for the picture. Jace pinched his own face. This wasn't a dream. Someone had brought him to Dalaran.
-
-## Flags
-
-- **暗影之梦** → "shadow dreams": Jace's term for the nightmares caused by shadow corruption (contrasted with the "good dream" he's having). Flagged as a glossary addition — distinct from generic "nightmares."
-- **石堡** → "Stonewatch" (glossary).
-- **术士包** → "warlock's bag" (the orc-looted pack). Flagged; the glossary doesn't have a specific entry for this item.
-- **吞噬者"的特雷姆斯** → "Tremens the Devourer": a named whelp from WoW lore. Flagged as a glossary addition.
-- **雏龙** → "whelp": canonical WoW term for a young dragon. Flagged for glossary.
-- **拜占庭风格** → "Byzantine": architectural descriptor, kept as-is.
-- **达拉然** → "Dalaran" (glossary).
-- **狮鹫骑士** → "gryphon rider" (glossary: Gryphon Rider).
-- **生命吸取** → "Life Drain" (glossary).
-- **撒厄诺** → "Sazeno" (glossary).

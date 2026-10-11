@@ -1,16 +1,8 @@
 ## Chapter 396: A New Approach
 
-No demon had been drawn by the fragile soul fragment. Perhaps his mana wasn't enough to tear open a wide enough passage between the Twisting Nether and Azeroth for a demon's soul to pass through. Perhaps the demon was too fragile and, upon arriving in this world, had perished in the barrage of shadow.
-
-He should probably say… he still had some way to go before he could make this spell a complete success.
-
-He looked at the shadow scorch marks everywhere in front of him. Forget Stormwind — he absolutely couldn't replicate this even in Elwynn Forest. His decision to switch practice locations after familiarizing himself with the incantation had been the right call.
-
----
-
 On Monday, Jace returned to Goldshire, rested a bit at the inn, and brought the two demons back to Stormwind in the evening.
 
-The next few days were busy with classes, but he finally found time to help Marin clean up his room, organize the articles and books of the apprentice and novice mages, and settle down to writing his report on the death knights.
+The next few days were busy with classes, but he finally found time to help Malin clean up his room, organize the articles and books of the apprentice and novice mages, and settle down to writing his report on the death knights.
 
 Still, he kept thinking back to the emotions he'd channeled when using the Hand of Gul'dan in Duskwood.
 
@@ -42,13 +34,13 @@ The succubus nodded. "I'm really not sure how to help a mortal learn and master 
 
 If he didn't try this, Jace probably wouldn't even be able to sleep.
 
-In the middle of the night, he went out with the succubus, all the way to the Mage Quarter. There were still quite a few people here at this hour, of course none of them could detect the succubus's presence.
+In the middle of the night, he went out with the succubus, all the way to the Mage Quarter. There were still quite a few people here at this hour, though of course none of them could detect the succubus's presence.
 
-Arriving at the Slaughtered Lamb tavern, it was still fairly lively. Tharle was lying on the counter. When he saw Jace come in, he didn't react much, just said, "You lot need to do something about that damn dog."
+When he arrived at the Slaughtered Lamb, the tavern was still fairly lively. Jarel was lying on the counter. When he saw Jace come in, he didn't react much, just said, "You lot need to do something about that damn dog."
 
 "He's not interested in you," Jace said.
 
-"Just standing there is scary enough," Tharle said helplessly.
+"Just standing there is scary enough," Jarel said helplessly.
 
 Jace couldn't help but laugh. He came down to the basement and pushed open the door. Sure enough, that demon was crouching at the far end, staring this way. If he hadn't had the ability to detect demons, he'd probably only see a faint shadow squirming in the darkness, because that thing didn't even have eyes — nothing to reflect light.
 
@@ -56,7 +48,7 @@ Morophil walked out from behind Jace. When the hound saw her, its presence clear
 
 Jace said in Demonic, "Basadim, I'm your master's friend. Don't you remember me?"
 
-The succubus stared at the hellhound and said in Demonic, "Master, shall we speak in Eredun from now on? After all, your Eredun…"
+The succubus stared at the felhound and said in Demonic, "Master, shall we speak in Eredun from now on? After all, your Eredun…"
 
 She muttered a word Jace completely didn't understand. Jace asked, "What did you say?"
 
@@ -106,9 +98,9 @@ Morophil looked up, gritted her teeth, and stood up. "No fun when there's no one
 
 Jace agreed. "Fits the nature of those demons."
 
-Recalling the moment in front of the stone hall gate of Uldaman, facing the swarm of earthen, had Jace felt something similar?
+Recalling the moment in front of the stone hall gate of Uldaman, facing the swarm of troggs, had Jace felt something similar?
 
-Perhaps. After repelling several waves of attacks, forcing the earthen at the front to tangle with their charging companions and tumble continuously down the steps, his heart had indeed slowly developed a trace of contempt from the initial nervousness.
+Perhaps. After repelling several waves of attacks, forcing the troggs at the front to tangle with their charging companions and tumble continuously down the steps, his heart had indeed slowly developed a trace of contempt from the initial nervousness.
 
 Then, how to capture this emotion now? Jace felt that although he was already quite good at suppressing the negative feelings brought by the corrosion and contamination of shadow energy, he wasn't very good at summoning emotions that didn't originally exist in him.
 
@@ -135,12 +127,3 @@ This had already lasted longer than every time he'd used the shield spell before
 When the excitement suddenly welled up in Jace's mind, the shield vanished. Morophil narrowed her eyes. "This spell seems to require the master to find a way to maintain it."
 
 "Seems that way," he said. "But I think this is already a very rare improvement. I almost thought this magic was just like that, Morophil."
-
-## Flags
-
-- **萨亚德** (sà yǎ dé): rendered as "succubus" — the demon race term Morophil uses for herself.
-- **艾瑞达语**: Eredun, the Eredar language. Morophil mocks Jace's pronunciation.
-- **柏萨迪姆**: Basadim, the hellhound lurking in the Slaughtered Lamb basement.
-- **纳斯雷兹姆**: Nathrezim. Morophil uses their cold, contemptuous nature as the emotional template for the shadow shield.
-- **石腭怪**: earthen — the Uldaman creatures Jace recalls fighting.
-- **情绪-as-casting-tool**: the chapter's core concept — Jace discovers that a specific emotional state (cold contempt) stabilizes and prolongs the shadow shield, a departure from his earlier purely technical approach to spellcraft.

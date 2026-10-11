@@ -16,17 +16,17 @@ Leaving the room, he stepped onto the soft grass and neat flagstones. In the sun
 
 At least the beautiful hawkstriders of every color by the pens were being looked after, lending the place a touch of life.
 
-Grede was sleeping in another house — no snoring to be heard from over here. Vereesa and Sylvanas and the other Farstriders were probably busy with something at Windrunner Tower, after all; they didn't even need to sleep at night.
+Grede was sleeping in another house — no snoring to be heard from over here. Vereesa and Sylvanas and the other Farstriders were probably busy with something at Windrunner Spire, after all; they didn't even need to sleep at night.
 
 Standing here alone looking over Windrunner Village, Jace felt an indescribable something in his chest.
 
-Of course he felt sorrow and grief for what this place had suffered at the orc's hands — after all, these were Vereesa's family. And of course the desolation here left a lonely ache in his heart — it was hard not to be affected when you were standing in the middle of it.
+Of course he felt sorrow and grief for what this place had suffered at the orcs' hands — after all, these were Vereesa's family. And of course the desolation here left a lonely ache in his heart — it was hard not to be affected when you were standing in the middle of it.
 
 But more than that, he seemed to have some unspeakably strange feeling about this place.
 
 Ever since arriving here last night, looking at the trees, the houses, the fences — the whole impression had struck him as somehow familiar. He was certain it had nothing to do with any scene he'd seen in the game.
 
-He closed his eyes and felt the wind, heard the pleasant melody of some instrument playing from some distant place, and the barely discernible murmur of voices drifting down from Windrunner Tower above, the sound of running water.
+He closed his eyes and felt the wind, heard the pleasant melody of some instrument playing from some distant place, and the barely discernible murmur of voices drifting down from Windrunner Spire above, the sound of running water.
 
 Yes — it was the sound of that stream.
 
@@ -38,7 +38,7 @@ Beside the garden was a small stream — the very stream he'd seen in Deathwing'
 
 He pulled off his boots and slowly stepped into the water. The icy shock made him feel as though that terrifying man had seized his soul once more, his whole body tensing violently.
 
-Almost in a trance, he drew Azure Skysong — blazing in the sunlight like brilliant crystal — and raised it toward his right arm. But the scar on it had already faded to no more ordinary than a typical burn scar.
+Almost in a trance, he drew Azuresong — blazing in the sunlight like brilliant crystal — and raised it toward his right arm. But the scar on it had already faded to no more ordinary than a typical burn scar.
 
 Jace looked around, making sure that man wasn't closing in like a phantom — no Shadow power, no dreadful visions. His reflection in the water was still the familiar one: a head of messy but thick, dark hair, a young face, a body not especially strong but certainly not frail.
 
@@ -52,7 +52,7 @@ Jace turned his head. Vereesa was standing right behind him; he had no idea when
 
 "I…"
 
-Jace looked at the runeblade already in his hand and was at a loss to explain the gesture.
+Jace looked at the sword already in his hand and was at a loss to explain the gesture.
 
 "What exactly did Deathwing do to you, Jace?" Vereesa stepped closer to the water's edge. "Are you still not going to tell me clearly?"
 
@@ -64,7 +64,7 @@ Jace hesitated a moment, then looked down at the stream beneath his feet and sai
 
 "Was I there in that dream too?" Vereesa asked.
 
-"I was." Jace nodded. "You looked a lot like you do now."
+"You were." Jace nodded. "You looked a lot like you do now."
 
 Vereesa stared at Jace without speaking.
 
@@ -72,7 +72,7 @@ Jace gave a self-mocking smile. "Of course, even then I could tell it was a fake
 
 "I see. Come here, Jace." Vereesa held out her hand.
 
-Jace sheathed Azure Skysong and waded back to the bank step by step. "Am I the fake one now?" Vereesa asked.
+Jace sheathed Azuresong and waded back to the bank step by step. "Am I the fake one now?" Vereesa asked.
 
 "No," Jace said.
 
@@ -103,12 +103,3 @@ Jace glanced north toward the light of the Sunwell and said softly, "Then…"
 "Here?!" Jace exclaimed from his back.
 
 "What, are you scared?" Vereesa asked, provocative as ever.
-
-## Flags
-
-- Jace wakes early in the Windrunner Village guest quarters — the elven comforts can't quiet his unease.
-- The stream (溪流) — Jace recognizes it from Deathwing's nightmare (the dream Krasus interrupted). He tests reality by drawing Azure Skysong on his own arm; the brand-scar has faded to a mundane burn.
-- Jace finally tells Vereesa about Deathwing's dream-invasion: an aged, broken Jace drowning in the stream, with a false Vereesa beside him.
-- Vereesa's reassurance — the real her meets his gaze without flinching, unlike the dream-phantom. A turning point in their intimacy.
-- First unambiguous kiss between Jace and Vereesa by the stream; Jace internally marks Deathwing's death and the end of the nightmare.
-- The chapter ends on a playful, intimate beat — Vereesa pushes Jace down onto the pebbles, teasing.

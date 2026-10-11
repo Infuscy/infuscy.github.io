@@ -36,7 +36,7 @@ The server's eyes lit up. "Thank you so much, Master. You're the first person in
 
 The streets of Dalaran had gotten a bit more crowded. Jace was now wearing an unassuming brown cloak, carrying a bent staff wrapped in magic-dampening cloth on his back. He looked like some backcountry mage who'd traveled here from Arathi. Nobody recognized him. Nobody even noticed him.
 
-It reminded him of eight years ago, when he'd first been brought to Dalaran by a gryphon knight after passing out from his fight with that black whelp beneath the watchtower. He'd woken up in this city that felt like something out of a dream, walking its streets knowing nothing about anything.
+It reminded him of eight years ago, when he'd first been brought to Dalaran by a gryphon rider after passing out from his fight with that black drake beneath the watchtower. He'd woken up in this city that felt like something out of a dream, walking its streets knowing nothing about anything.
 
 Jace realized he kind of missed that feeling.
 
@@ -54,7 +54,7 @@ No question about it — this arcane anomaly was left by Khadgar himself. "Stupi
 
 How the hell did he figure Jace would sneak back into Dalaran to find him? And that Jace would run into this particular arcane construct?
 
-What if Jace had been stubborn and gone straight back to Fort Ilgaral?
+What if Jace had been stubborn and gone straight back to the Tower of Ilgalar?
 
 Actually, thinking about it that way... the end result would probably have been him getting dragged back to Dalaran anyway. Same destination, different route.
 
@@ -98,7 +98,7 @@ Jace stared as this thing calmly narrated Dalaran trivia through telepathy, then
 
 But after cutting itself off, it obediently shuffled forward again, and even seemed to pick up a little speed.
 
-*— From here, follow the main road and you'll see Krasus's Landing, where... Shut up! Keep moving!*
+*— From here, follow the main road and you'll see Krasus' Landing, where... Shut up! Keep moving!*
 
 *— To the north of the street is the Ashen Hills Guild, founded seven hundred years ago... Shut up! Keep moving!*
 
@@ -106,13 +106,13 @@ Slowly, Jace started to get it. This anomaly was probably originally a "tour gui
 
 Of course, Jace didn't really know much about arcane magic. This was just a guess based on logic he could understand.
 
-*— Look to the west. The monument at this intersection commemorates Ranger Vereesa Windrunner, Kefal Brightwing, and the young mage of Stormwind, Jace... Shut up! Keep moving!*
+*— Look to the west. The monument at this intersection commemorates Ranger Vereesa Windrunner, Kael'fal Brightwing, and the young mage of Stormwind, Jace... Shut up! Keep moving!*
 
 Hey, that part you could've left in.
 
 Jace thought to himself, glancing across the street at the refurbished little garden square and the nameplate on the small monument in the middle of it. He felt like he'd almost forgotten about that meeting.
 
-After gods knew how long, the arcane construct led him through a gap between two buildings, wound through a few alleys, and then suddenly opened up — they were at the shore of Lake Lordamere.
+After gods knew how long, the arcane construct led him through a gap between two buildings, wound through a few alleys, and then suddenly opened up — they were at the shore of Lordamere Lake.
 
 There was practically nobody here. Just a solitary figure sitting by the water with his back to them — a fisherman.
 
@@ -140,7 +140,7 @@ Jace turned and looked back at the arcane construct. It had vanished without a t
 
 "I didn't."
 
-Jace was so caught off guard he coughed a couple times. He glanced at the fish net in the water — somehow, two Lake Lordamere Frenzied Fish had appeared in it.
+Jace was so caught off guard he coughed a couple times. He glanced at the fish net in the water — somehow, two Lordamere Lake Frenzied Fish had appeared in it.
 
 "Then how did you manage to pull two live fish out of thin air?"
 

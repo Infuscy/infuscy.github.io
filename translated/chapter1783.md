@@ -4,11 +4,11 @@ A fierce black dragon roar tore across the pale sky. The homeless people sitting
 
 Deep in the Alterac Mountains, even just a few days after the Midsummer Fire Festival, it was still cold and dry. It was as if the vibrant life of the summer plains below couldn't climb up those steep cliffs and snowy slopes.
 
-That wasn't entirely because of the high altitude of the Alterac range, of course. It was also because of the Frost King and his children and servants who dwelled here.
+That wasn't entirely because of the high altitude of the Alterac range, of course. It was also because of the Ice Lord and his children and servants who dwelled here.
 
 "Beautiful Aiden's Blade." Khadgar said. "Climb that watchtower over there and you can overlook all of Dalaran. No Lordaeron patrols, no Stromgarde redcoat scouts, no Farstriders stationed here. Just two Dalaran mages living here, but their main job — besides monitoring the dark magic situation — is working with the church to provide medical advice for the few hundred villagers who refuse to leave."
 
-"Far from most of the important ley line nodes on the Lordaeron continent. After the orc invasion and the effective collapse of the Alterac kingdom, this place became a no-man's land. The locals can barely speak Common. But fortunately, even demons and warlocks find the magic here too thin to bother with secret operations, and the bandits find it too poor to bother setting up shop..."
+"Far from most of the important ley line nexuses on the Lordaeron continent. After the orc invasion and the effective collapse of the Alterac kingdom, this place became a no-man's land. The locals can barely speak Common. But fortunately, even demons and warlocks find the magic here too thin to bother with secret operations, and the bandits find it too poor to bother setting up shop..."
 
 "Perfect for summoning an observer lord." Jace said.
 
@@ -18,7 +18,7 @@ That wasn't entirely because of the high altitude of the Alterac range, of cours
 
 Khadgar shrugged. "The locals here might never have even heard my name. That's one of the main advantages. The problem is, this place is so isolated that almost no dwarves or elves ever set foot here. So Grede and Vereesa will have to keep a low profile, or they'll attract unwanted attention."
 
-"Perfect timing. They can help Sora and Needleflame dodge the SI:7 knights and dragonhawk riders. Those two can't help with the demon summoning anyway." Jace said quietly.
+"Perfect timing. They can help Sola and Needleflame dodge the gryphon riders and dragonhawk riders. Those two can't help with the demon summoning anyway." Jace said quietly.
 
 "I'd like to say I can't help much with it either." Khadgar sighed.
 
@@ -28,23 +28,23 @@ Khadgar shrugged. "The locals here might never have even heard my name. That's o
 
 Jace smiled and followed him into a house and down to the basement. The basement wasn't complicated in layout — one big hall with a small corridor leading to a side room. But it was spacious enough. He hadn't expected such a large underground space hidden under such an unremarkable house.
 
-"Didn't you say this place was far from all ley line nodes, so demon summoners like us wouldn't bother with it?" Jace asked. "Who built this basement, then? I can still see some faint remnants of a magic circle here."
+"Didn't you say this place was far from all ley line nexuses, so demon summoners like us wouldn't bother with it?" Jace asked. "Who built this basement, then? I can still see some faint remnants of a magic circle here."
 
 "There's more than just us two in the world who value secrecy over magical resources." Khadgar opened his bag. "Don't ask too many questions. Just know this is the safest place I could find. It should keep us undetected by my Dalaran colleagues for at least a month."
 
-"Now, put aside all your doubts and worries, Jace. Focus on what we have to do." He handed over a bottle of Beast Blood. "Draw the circle according to the scroll pattern. I'm sure you've done this a thousand times."
+"Now, put aside all your doubts and worries, Jace. Focus on what we have to do." He handed over a bottle of beast blood. "Draw the circle according to the scroll pattern. I'm sure you've done this a thousand times."
 
 Jace nodded, took the beast blood, and uncorked it. The intense negative emotions still lingering in the blood hit him immediately — it felt like his heart had been lightly squeezed by some bitter, gray hand.
 
 "The creature this blood came from... died in agony. Despair, terror, struggle. It's a bit extreme. Are you sure this is okay?"
 
-"You really are a more powerful shadow wielder than I expected, Jace." Khadgar said. "This blood IS pain and despair blood. From beasts driven mad and killed by special torture methods. Observers aren't like most demons — they're quite different from the vast majority. They're a species that drifts along the edges of the Twisting Nether. This type of blood works better than demon blood. That's the conclusion reached by many Tirisfal researchers after repeated experiments."
+"You really are a more powerful shadow wielder than I expected, Jace." Khadgar said. "This blood is steeped in pain and despair. From beasts driven mad and killed by special torture methods. Observers aren't like most demons — they're quite different from the vast majority. They're a species that drifts along the edges of the Twisting Nether. This type of blood works better than demon blood. That's the conclusion reached by many Tirisfal researchers after repeated experiments."
 
-"My first mentor in the Kirin Tor, Master Guzba, once told me that those who can sense the quality difference in this kind of material are the void researchers who delved deepest into shadow power in the Order of Tirisfal. Many of them are so dangerous just mentioning their names causes trouble. And the type of shadow energy you described in this blood matches the description in the material notes almost word for word."
+"My first mentor in the Kirin Tor, Master Guzbah, once told me that those who can sense the quality difference in this kind of material are the void researchers who delved deepest into shadow power in the Order of Tirisfal. Many of them are so dangerous just mentioning their names causes trouble. And the type of shadow energy you described in this blood matches the description in the material notes almost word for word."
 
 "That sounds like a compliment." Jace said.
 
-"No doubt about it. It IS a compliment." Khadgar said as he painted. "So, have you memorized the incantation? You'll need to recite it as accurately as possible. Including some special Eredar pronunciations. You'll have to adjust your articulation at those points. To summon a powerful enough observer lord, every detail has to be perfect."
+"No doubt about it. It is a compliment." Khadgar said as he painted. "So, have you memorized the incantation? You'll need to recite it as accurately as possible. Including some special Eredun pronunciations. You'll have to adjust your articulation at those points. To summon a powerful enough observer lord, every detail has to be perfect."
 
 "Got it." Jace opened the booklet in his hand. "Kizorutok, Tajemistivi, Bawkobakinapi. I've memorized those three word segments."
 
@@ -68,7 +68,7 @@ The archmage finished the last stroke of the circle and sealed the outer lines. 
 
 Jace just looked at the mage, holding the bottle in his hand.
 
-"You think that's not a big deal?" Khadgar said. "I knew it... As an emotions manipulator, a shadow force controller, you're already used to probing, sensing, and concealing secrets. Especially when you've got a powerful Succubus assistant — you can use shadow magic to enslave minds and force anyone to spill all their secrets."
+"You think that's not a big deal?" Khadgar said. "I knew it... As a manipulator of emotions, a wielder of shadow, you're already used to probing, sensing, and concealing secrets. Especially when you've got a powerful succubus assistant — you can use shadow magic to enslave minds and force anyone to spill all their secrets."
 
 "Exactly. If that's what I think, then the observers living at the deepest edge of the Twisting Nether, who are intimately familiar with shadow power, would know it too. Would they really find it 'rare'?" Jace asked.
 

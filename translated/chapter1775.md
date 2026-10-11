@@ -12,7 +12,7 @@ The three of them were all dressed as Dalaran mages. Khadgar wore an additional 
 
 The Midsummer Fire Festival was nearly upon them. Though the Violet Citadel itself hadn't changed, the magical material shops and such near the foot of the steps were already decorated for the occasion — streamers and ornaments, bouquets of flame flowers, the already-assembled stage base for the Blazing Dance, and so on. There were noticeably more people on the streets than before.
 
-"Put out the spirit you had escaping the Everbloom, Jace," Khadgar said. "At the very least, Dalaran hasn't turned into a floating island that shattered and got sucked into the Twisting Nether."
+"Show the same spirit you had escaping the Throne of Kil'jaeden, Jace," Khadgar said. "At the very least, Dalaran hasn't turned into a floating island that shattered and got sucked into the Twisting Nether."
 
 Jace shot him a look. "I'll try."
 
@@ -20,7 +20,7 @@ Jace shot him a look. "I'll try."
 
 "Fortunately, you're also among the best at cracking tough problems. So it's a fair match."
 
-Jace looked toward the dome of the hall in the distance — the place where he'd attended that Orcish language meeting. He still vividly remembered how he'd felt standing before the gates of that hall back then. Full of anticipation, deeply grateful for Teacher Dushan's trust, filled with hope for the future. But after walking out those gates, the whole world had changed.
+Jace looked toward the dome of the hall in the distance — the place where he'd attended that Orcish symposium. He still vividly remembered how he'd felt standing before the gates of that hall back then. Full of anticipation, deeply grateful for Master Dushan's trust, filled with hope for the future. But after walking out those gates, the whole world had changed.
 
 "How do I look today, Jace?" Vereesa adjusted her collar. "Do I pass as a mage?"
 
@@ -34,35 +34,35 @@ Jace looked toward the dome of the hall in the distance — the place where he'd
 
 "What about me?" Khadgar turned to look at the two. "Do you think I'll be recognized?"
 
-"Nothing like a Kirin Tor archmage at all," Jace said. "Actually, I don't really get why you'd use magic to create a decoy, but make it look almost exactly like yourself except for the beard. Doesn't that increase the chance of exposure?"
+"Nothing like a Kirin Tor archmage at all," Jace said. "Actually, I don't really get why you'd use magic to create a mirror image, but make it look almost exactly like yourself except for the beard. Doesn't that increase the chance of exposure?"
 
 "The Kirin Tor magic wardens only gave me two minutes to react," Khadgar said. "When I realized I'd be dragged into the Violet Citadel in two minutes, I was still thinking about the ley line disturbance, damn it. Instead of questioning my choices, you should be praising the great Archmage Khadgar for managing to craft such a near-perfect mirror image in so short a time."
 
 "Praise be to Khadgar's wisdom," Jace said flatly. "So what about the ley line disturbance?"
 
-"If I couldn't figure it out in two weeks, two minutes before getting caught wasn't going to yield any breakthroughs either," the archmage's decoy said. "But I know one of Malygos the Spell-Weaver's servants is investigating around Baradin Bay. He's definitely more qualified than I am, and at this point, I — and the entire Kirin Tor — can't afford to deal with any more trouble."
+"If I couldn't figure it out in two weeks, two minutes before getting caught wasn't going to yield any breakthroughs either," the archmage's mirror image said. "But I know one of Malygos the Spell-Weaver's servants is investigating around Baradin Bay. He's definitely more qualified than I am, and at this point, I — and the entire Kirin Tor — can't afford to deal with any more trouble."
 
 "You mean the one who went to Stormwind for Marshal Anduin Lothar's funeral?" Jace asked.
 
 "How do you know about that?" Khadgar asked.
 
-"Sora told me," Jace said. "We happen to have two real..."
+"Sola told me," Jace said. "We happen to have two real..."
 
-"Are we going to end up standing around here all day again, Archmage Khadgar?" Vereesa sighed softly. "You two look so relaxed — does that mean you've already accepted that Sora and Needleflame's efforts won't amount to anything today?"
+"Are we going to end up standing around here all day again, Archmage Khadgar?" Vereesa sighed softly. "You two look so relaxed — does that mean you've already accepted that Sola and Needleflame's efforts won't amount to anything today?"
 
 "Needleflame has been breathing over the farms and granaries around Hillsbrad for the past couple of days," Khadgar said. "Part of me hopes she causes enough damage to get Dalaran's attention. But on the other hand... I also worry she might cause too much trouble for the townsfolk."
 
 "Like not breathing hard enough, not doing enough damage, and ultimately dooming us to failure while dreadlords run rampant across the Seven Kingdoms?" Vereesa asked.
 
-"I've already reminded Needleflame not to hurt anyone," Jace said. "She looks fierce, but she's really just a kid — not like the black dragons you know, Khadgar. I'm more worried about her getting tangled up with those gryphon knights than I am about her actually hurting someone."
+"I've already reminded Needleflame not to hurt anyone," Jace said. "She looks fierce, but she's really just a kid — not like the black dragons you know, Khadgar. I'm more worried about her getting tangled up with those gryphon riders than I am about her actually hurting someone."
 
-"Don't worry, Jace," Vereesa said. "Before we left, Grede taught her a few commands in Dwarven. If she runs into gryphons, she can shout them out. It might not make all the riders betray their mounts, but at least it'll confuse them long enough for her to break off and escape."
+"Don't worry, Jace," Vereesa said. "Before we left, Grede taught her a few commands in Dwarvish. If she runs into gryphons, she can shout them out. It might not make all the riders betray their mounts, but at least it'll confuse them long enough for her to break off and escape."
 
-"And Lady Sora?" Khadgar asked.
+"And Lady Sola?" Khadgar asked.
 
 "She's circling around Alterac City, Fenris Keep, and Lordamere Harbor," Jace said, pointing north and east. "That puts pressure on Dalaran while also threatening Menethil Harbor, making them lean on Dalaran. Plus, Queen Ysera's earring is strongest in the forests by the lake and snowy mountains, so she can shake off pursuit quickly if she's followed."
 
-"Their demonstrations around Tarren Mill, Southshore, and the Jade Mines a few days ago didn't seem to raise much alarm. Time to turn up the heat on the Kingdom of Dalaran."
+"Their demonstrations around Tarren Mill, Southshore, and Azurelode Mine a few days ago didn't seem to raise much alarm. Time to turn up the heat on the Kingdom of Dalaran."
 
 As they were talking, several Dalaran violet-robed wardens on horseback hurried past along the street, heading toward the stables behind the Violet Citadel. Their expressions were grim. In the distance, a few Kirin Tor mages were also rushing up the castle steps and through the main gate. The apprentices and mages nearby were murmuring among themselves, watching the commotion — as if something major had happened.
 
@@ -94,8 +94,8 @@ As the three were discussing, at the northern street corner, an archmage in purp
 
 That was Antonidas. Even without a clear view of his face, his incredibly ornate rune-embroidered robe and shoulder ornaments, along with his long beard flowing in the wind, were distinctive enough.
 
-"The real owner's here," Khadgar said quietly. "No mistaking it. The bundles his assistants are carrying behind him contain the materials for the ritual. They've been tricked."
+"The real owner's here," Khadgar said quietly. "No mistaking it. The bundles his assistants are carrying behind him contain the materials for the ritual. They've taken the bait."
 
-Grede Thunderfist, who'd been sitting at the entrance of the rune smithy staring off into space for a good while, now stood up with his "shield" and looked in their direction. Vereesa glanced at him and asked quietly, "Should we have the tree tell Sora?"
+Grede Thunderfist, who'd been sitting at the entrance of the rune smithy staring off into space for a good while, now stood up with his "shield" and looked in their direction. Vereesa glanced at him and asked quietly, "Should we have the tree tell Sola?"
 
-Jace touched the trunk and said in the dragon tongue, "Tell Somara it's time to come back and act."
+Jace touched the trunk and said in Draconic, "Tell Somaelir it's time to come back and act."

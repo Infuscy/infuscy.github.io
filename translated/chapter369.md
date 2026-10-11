@@ -1,4 +1,4 @@
-## Chapter 369: The Troggs
+## Chapter 369: The troggs
 
 The depths of Uldaman grew darker and darker, the outlines of the ancient walls and stone pillars barely visible by whatever faint light filtered in from somewhere.
 
@@ -16,7 +16,7 @@ Just then, two strange, swaying, grotesque shadows seemed to appear up ahead. Th
 
 The passage wasn't wide, and the urn wasn't enough to conceal three people. If these two troggs walked up to them, they'd definitely spot the three of them. Grede made a throat-slitting gesture. Daggett nodded. Jace gripped his sword hilt.
 
-As the footsteps reached the urn, Grede swung his stone hammer and smashed the skull of the figure in the distance. The one up close flinched — and Jace immediately drove Skysong through its mouth. Only a low, rattling gargle came from its throat. Jace pulled the sword back and drove it through the creature's skull, ending its life.
+As the footsteps reached the urn, Grede swung his stone hammer and smashed the skull of the figure in the distance. The one up close flinched — and Jace immediately drove Azuresong through its mouth. Only a low, rattling gargle came from its throat. Jace pulled the sword back and drove it through the creature's skull, ending its life.
 
 Their eyesight was clearly poor — by the time Grede had lunged out, the trogg had still been standing there in a daze. As the trogg collapsed, Jace finally got a clear look at what this creature looked like.
 
@@ -32,7 +32,7 @@ There was another possibility: that the troggs hadn't looked like this when the 
 
 But when you actually stood before a trogg, you realized the comparison wasn't entirely baseless.
 
-Right now, under Jace's cautious mood, Skysong only gave off a faint, indistinct glow. Its blade didn't look absurdly sharp, but the ease with which it pierced flesh made Jace feel slightly off.
+Right now, with Jace in so cautious a mood, Azuresong only gave off a faint, indistinct glow. Its blade didn't look absurdly sharp, but the ease with which it pierced flesh made Jace feel slightly off.
 
 The stab wounds on the neck and skull of the trogg he'd just killed still smoldered with a trace of arcane scorch marks.
 
@@ -78,12 +78,4 @@ Its shouting echoed through the hall, drawing the attention of the troggs in the
 
 Those troggs laughed as they dragged the terrified trogg back to where the three of them had been hiding, laughed again, then beat the poor creature savagely.
 
-Troggs were ultimately not true sentient beings — there was always a screw loose in their heads. Seizing the chaos, they quickly slipped into the passage. Though troggs had poor eyesight, their hearing was razor-sharp; no matter how careful they were, it was hard to avoid being noticed.
-
-## Flags
-
-- **Chapter title**: 穴居者 — "The Troggs" (lit. "Cave-Dwellers"; the chapter is about encountering the troggs directly).
-- **Key terms**: 奥达曼 = Uldaman (canon), 石腭怪 / 穴居人 = troggs (canon), 穴居石腭怪 = troggs (compound term), 黑铁矮人 = Dark Iron dwarves (canon), 碧空之歌 = Skysong (Jace's sword), 恐惧术 = Fear (canon warlock spell), 血肉诅咒 = Curse of Flesh (canon Titan lore), 上古之神 = Old Gods (canon), 铁炉堡 = Ironforge (canon), 三锤 = the three dwarven clans (Bronzebeard, Wildhammer, Dark Iron).
-- **Characters**: 达葛特 = Daggett (OC Bronzebeard dwarf), 格瑞德 = Grede (canon per glossary).
-- **Lore note**: The passage gives an in-world scholarly explanation for trogg origins — the "Curse of Flesh" and Old God corruption of Titan-forged beings — and notes the controversial Ironforge theory that troggs are "failed" dwarves. Jace's reaction to the trogg's appearance is kept visceral and disgusted, matching the source.
-- **Tone note**: The horror of the troggs' cannibalism of the Dark Iron dwarf is rendered plainly; Grede's mix of disgust and battle-lust stays in character. The Fear-spell stealth sequence keeps the tension up while letting the trio slip past.
+Troggs were ultimately not true sentient beings — there was always a screw loose in their heads. Seizing on the chaos, the three of them quickly slipped into the passage. Though troggs had poor eyesight, their hearing was razor-sharp; no matter how careful they were, it was hard to avoid being noticed.

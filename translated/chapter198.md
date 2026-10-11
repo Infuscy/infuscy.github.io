@@ -20,7 +20,7 @@ The two conversed quietly for a long time. Only then did Grede nod, finally taki
 
 Jace planted his feet and said, "If you truly had no talent at all, how were you able to use that hammer to summon lightning? Have you forgotten Southshore?"
 
-"I already told you, Jace." Grede grabbed Jace's cloak, looked up, and stared him dead in the eyes. "The war hammers of Wildhammer riders are weapons blessed by the thanes. Not every griffon rider can commune with the elements and charge a weapon with elemental power! Only the most senior riders can! And right now I'm obviously a cripple, understand? That's all I'm going to say. You can be as stubborn as you like — there's nothing I can do about it."
+"I already told you, Jace." Grede grabbed Jace's cloak, looked up, and stared him dead in the eyes. "The war hammers of Wildhammer riders are weapons blessed by the thanes. Not every gryphon rider can commune with the elements and charge a weapon with elemental power! Only the most senior riders can! And right now I'm obviously a cripple, understand? That's all I'm going to say. You can be as stubborn as you like — there's nothing I can do about it."
 
 "I can tell you for certain that no thane blessed that weapon, Thunderfist," came a deep voice from behind them. It was the dwarf thane from before. Though his Common carried all manner of dwarven pronunciation quirks, it was more than clear enough for an outsider to understand.
 
@@ -50,7 +50,7 @@ Jace was a little worried he'd get struck by lightning too and tried to edge bac
 
 So Grede really didn't have any common language with the elements?
 
-What happened in Southshore, then… could it be that the previous griffon rider, that Karden Greyfeather, still had residual power left in the hammer, and Grede had simply reactivated the leftover charge? And what about Dalaran?
+What happened in Southshore, then… could it be that the previous gryphon rider, that Karden Greyfeather, still had residual power left in the hammer, and Grede had simply reactivated the leftover charge? And what about Dalaran?
 
 The night they'd defeated the death knight, Jace clearly remembered Grede's hammer flashing with a spark of lightning in the rain. If Southshore was residual power, was Dalaran residual power too?
 
@@ -70,13 +70,13 @@ Grede glanced back at Jace and shouted, "What Dwarvish? What do you know! You sp
 
 "Shut up!" Grede bristled, pointing at Jace. "Now I'll do it again! You stay quiet!"
 
-Jace knew what Grede meant by "the language of the elements." On another continent, the Kaldorei and tauren called it Kalimdor — a mysterious, ancient language used by the elements to communicate.
+Jace knew what Grede meant by "the language of the elements." On another continent, the Kaldorei and tauren called it Kalimag — a mysterious, ancient language used by the elements to communicate.
 
 Grede took a few deep breaths, raised the war hammer high once more, and shouted at the sky in a stream of sounds completely unlike the crisp staccato of Dwarvish — more continuous, almost viscous in its flow.
 
 Jace stared at the sky. It seemed as quiet as ever, but the air around the war hammer in Grede's hands appeared to warp and distort…
 
-Suddenly a bolt of lightning crashed down from the sky and struck the war hammer. Light exploded, whiting out Jace's vision in an instant. He heard Grede cry out, then felt a shockwave-like gust of wind slam into his face. He staggered two steps, lost his seat, and sat down hard on the ground.
+Suddenly a bolt of lightning crashed down from the sky and struck the war hammer. Light exploded, whiting out Jace's vision in an instant. He heard Grede cry out, then felt a shockwave-like gust of wind slam into his face. He staggered two steps, lost his footing, and sat down hard on the ground.
 
 When his vision cleared two seconds later, he actually saw the war hammer trailing a chain of lightning as it spun up into the sky…
 
@@ -102,16 +102,6 @@ Even from this distance, Jace found the electrical energy in the dark twilight a
 
 And he was certain Grede felt the same. Gripping that war hammer crackling with electrical energy, he let out a string of strange chuckling sounds, snot bubbles forming — impossible to tell whether he was laughing or crying.
 
-When he'd first been told he could come to Quel'Danas to find that botanist, he'd been far from this emotional… perhaps deep down he still didn't like the idea of having an elf help solve his problem.
+When he'd first been told he could come to Quel'Danil to find that botanist, he'd been far from this emotional… perhaps deep down he still didn't like the idea of having an elf help solve his problem.
 
 Looking back at where the thane had been standing — at some point he'd already gone back inside. That old man had seemed to know exactly what was going to happen here, as if from the very start.
-
-## Flags
-
-- Karden Greyfeather (卡登·灰羽) named — previous owner of the war hammer, apprentice of thane master Dogovan Thundermar (杜戈万·桑德玛尔).
-- Dogovan Thundermar confirms Grede has innate elemental talent — the hammer was never blessed, meaning Grede's earlier successes were his own power.
-- Grede successfully summons lightning and recalls the hammer — a major breakthrough in his elemental abilities.
-- The "language of the elements" is Kalimdor (卡利姆多语) — the same tongue used by Kaldorei and tauren shamans.
-- Grede's earlier failures were partly due to using Common instead of the elemental language — a humorous but critical mistake.
-- The thane appears to have foreseen Grede's success, suggesting he had more faith in Grede than Grede had in himself.
-- Southshore and Dalaran lightning incidents recontextualized — they were Grede's own power, not residual energy from the hammer.

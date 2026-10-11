@@ -20,7 +20,7 @@ Jace shook the round bottle in his hand. "I've still got a Lesser one. Since you
 
 "You don't have to tell me that. I've been doing it this whole time." The dwarf tucked the Greater Shadow Protection Potion into his pocket.
 
-"Mana Potions." Jace pulled out two and handed them to Vereesa. "If something goes wrong, don't hoard your magic, Wen. There are a lot of orcs in there — remember the spell that fires a whole bunch of magic arrows at once."
+"Mana Potions." Jace pulled out two and handed them to Vereesa. "If something goes wrong, don't hoard your magic, Vere. There are a lot of orcs in there — remember the spell that fires a whole bunch of magic arrows at once."
 
 "I know." Vereesa slipped the bottles into the pocket beneath her cloak.
 
@@ -38,7 +38,7 @@ Jace said, "As the only spellcaster in our group, I don't think there's any cont
 
 "Not keeping any for yourself?" Vereesa asked.
 
-Jace tugged at his robe. "Do you have any idea how much fire essence went into making this robe? This is its time to shine. And I'm not exactly afraid of fire — I've still got my mana shield and Mage Armor to help out. You two just focus on keeping yourselves alive."
+Jace tugged at his robe. "Do you have any idea how much Essence of Fire went into making this robe? This is its time to shine. And I'm not exactly afraid of fire — I've still got my mana shield and Mage Armor to help out. You two just focus on keeping yourselves alive."
 
 "Fine, since you're so sure, Jace," Vereesa said.
 
@@ -68,15 +68,17 @@ The imp said, "A strong one means we found the queen dragon we're looking for! A
 
 "Keep him safe, Morophil," Vereesa said.
 
-"Rest assured, I won't let him die before I do," Morophil replied. "I hope you mean that," Vereesa said, staring at her.
+"Rest assured, I won't let him die before I do," Morophil replied.
+
+"I hope you mean that," Vereesa said, staring at her.
 
 "Next." Jace stood up, straightened his pack, and pulled out Krasus's transformation orb. "Morophil and I will make contact with them from the front and draw their attention. You two try to find another way into Grim Batol."
 
 "Leave it to me," Grede said. "A city this massive has got to have windows or small doors, cracks you can squeeze through — especially one that's been abandoned this long. My father told me Grim Batol has several rings inside, split into multiple levels, a bit like Ironforge. When he left, a lot of the walls had already been blown to pieces by the Dark Iron dwarves. I've seen paintings of Grim Batol's interior, and I've heard the elders tell stories about the place. With me as your guide, don't worry too much."
 
-Listening to Grede, Jace recalled how the Grim Batol dungeon map in the game was just ring after ring wrapped around the central Iron Anvil.
+Listening to Grede, Jace recalled how the Grim Batol dungeon map in the game was just ring after ring wrapped around the central Khardros Anvil.
 
-He'd originally been planning to rely on his vague memory of the game's map, combined with the library's name, to brief Grede and Vereesa on what the inside might look like. But since Grede had said all that, and given the gap between the game and reality he'd already realized, he figured there was no point in lecturing them. A game scene couldn't possibly beat a Wildhammer dwarf's own depiction.
+He'd originally been planning to rely on his vague memory of the game's map, passed off as something he'd read in the library, to brief Grede and Vereesa on what the inside might look like. But since Grede had said all that, and given the gap between the game and reality he'd already realized, he figured there was no point in lecturing them. A game scene couldn't possibly beat a Wildhammer dwarf's own depiction.
 
 "Sounds solid, Grede," he said. "Then I'm counting on you," Vereesa said.
 
@@ -90,6 +92,6 @@ Morophil said, "I believe it's five, dwarf."
 
 "It's five!" the imp laughed.
 
-"Five of us," Jace nodded. He straightened his robe, tucked the Flowing Ice Crystal into his chest, strapped the sheath of Skysong tight, stowed the Blade of Endless Darkness, cinched every pouch on his waist, placed the fearsome-looking purple demon bag on the outside, propped up Gorefiend's staff, pulled the orb from his pack, took a deep breath, and gazed up at that towering wall.
+"Five of us," Jace nodded. He straightened his robe, tucked the Flowing Ice Crystal into his chest, strapped the sheath of Azuresong tight, stowed the Blade of Eternal Darkness, cinched every pouch on his waist, placed the fearsome-looking purple demon bag on the outside, propped up Gorefiend's staff, pulled the orb from his pack, took a deep breath, and gazed up at that towering wall.
 
 Holy Light, the Sun, Elune, the Earth Mother, or the bronze dragons — if any of you can actually protect me, now's the time.

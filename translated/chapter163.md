@@ -94,19 +94,4 @@ Two blond girls were standing not far behind the dwarf, one tall and one short. 
 
 On the other side stood King Terenas II, his pale-gold hair cascading down, staring fixedly at the two of them — he wasn't even looking at his own son.
 
-Jace tried to squat lower to get a better look, because both girls had their backs to him. He could only catch glimpses of their profiles from the way they leaned their heads together. But it seemed like Terenas II, who was facing this way, had suddenly sensed something and looked straight toward him. He yanked his head back and ducked behind the wall without hesitation, then leaped straight back to the windowsill he'd come from, jumped down, bounced off a cushioning wall, landed steady as anything, and bolted back into the alley. He hopes he hadn't been seen... he thought silently to himself.
-
-## Flags
-
-- **黄金** (chapter title): rendered as "Gold" — refers to the "Golden Prince" (黄金王孙), Arthas's epithet. Not in glossary.
-- **穆拉丁**: rendered as "Muradin" (glossary). Full title: Lord Muradin, the king of Ironforge's younger brother — canonical Muradin Bronzebeard.
-- **铁炉堡**: rendered as "Ironforge" — canonical dwarven capital. Not in glossary.
-- **泰瑞纳斯二世**: rendered as "Terenas II" — King Terenas II. Not in glossary (canonical).
-- **佳莉娅·米奈希尔**: Calia Menethil — Arthas's older sister. Canon-adjacent (Calia appears in WoW lore). Not in glossary. Jace recognizes her; not named in-text, so rendered in the narration.
-- **吉安娜·普罗德摩尔**: Jaina Proudmoore (canonical).
-- **黄金王孙**: rendered as "the Golden Prince" — Arthas's epithet, Alliance-wide. Not in glossary.
-- **横梁**: rendered as "crossbeam" — architectural feature of the cathedral.
-- **旌旗**: rendered as "banners" — Lordaeron's royal/kingdom banners.
-- **楼缝**: rendered as "gap between two buildings" / narrow gap.
-- **四米**: rendered as "about four meters" — kept metric.
-- **武替**: rendered as "stuntman" — Jace's joke about returning to the 21st century.
+Jace tried to squat lower to get a better look, because both girls had their backs to him. He could only catch glimpses of their profiles from the way they leaned their heads together. But it seemed like Terenas II, who was facing this way, had suddenly sensed something and looked straight toward him. He yanked his head back and ducked behind the wall without hesitation, then leaped straight back to the windowsill he'd come from, jumped down, bounced off a cushioning wall, landed steady as anything, and bolted back into the alley. Hopefully he hadn't been seen, he thought.

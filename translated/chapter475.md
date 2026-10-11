@@ -1,6 +1,6 @@
 ## Chapter 475: Curse of Recklessness
 
-After arranging with Erland and Sulenna to meet the next afternoon at Erland's home in Goldshire, Jace left The Slaughtered Lamb in the evening and returned to his old rental to gather the remaining things and collect his two demons.
+After arranging with Erlan and Surena to meet the next afternoon at Erlan's home in Goldshire, Jace left the Slaughtered Lamb in the evening and returned to his old rental to gather the remaining things and collect his two demons.
 
 Arriving at the new place, Morophil entered and carefully sniffed around. "This place doesn't have your scent. It's really hard to get used to."
 
@@ -18,11 +18,11 @@ He sat down on the bed and lay back. "It's been a long time since I've been able
 
 He stretched out an arm. "Sazeno, bring me that Curse of Recklessness. I didn't practice a single incantation this whole trip to Booty Bay. Feels like I wasted all that time."
 
-"Here, here, master." Sazeno hopped onto the bed and spread Senluola's transcription of Gajin's manual — the page on Curse of Recklessness — across Jace's chest. Jace picked it up and glanced at it, murmuring the incantation.
+"Here, here, master." Sazeno hopped onto the bed and spread Senlora's transcription of Gakin's manual — the page on Curse of Recklessness — across Jace's chest. Jace picked it up and glanced at it, murmuring the incantation.
 
 Uruul, Gaatuo, Yaadus.
 
-"Your Eredar is getting more and more like a real Eredar, master!" the imp said happily.
+"Your Eredun is getting more and more like a real eredar's, master!" the imp said happily.
 
 "So you fooled around for several days and only fixed this one incantation?" Jace asked.
 
@@ -34,7 +34,7 @@ Jace flicked the imp hard on the head, sending him flying off the bed. He mutter
 
 Jace glanced at the succubus. "I thought you knew the Curse of Recklessness spell, Morophil?"
 
-"My Curse of Recklessness is channeled using our kind's incantation, master. Only succubus can channel it that way — just as only Nathrezim can transform into black bats and fly away..." The succubus lay down beside Jace. "I don't deny that some human mages can also turn into bats, but the way they do it and the way Nathrezim turn into bats are definitely not the same thing."
+"My Curse of Recklessness is channeled using our kind's incantation, master. Only succubi can channel it that way — just as only Nathrezim can transform into black bats and fly away..." The succubus lay down beside Jace. "I don't deny that some human mages can also turn into bats, but the way they do it and the way Nathrezim turn into bats are definitely not the same thing."
 
 "I more or less get it," Jace said. "Then I'll try this incantation. Curse of Recklessness... shouldn't be too destructive, right? I'll test it on you two."
 
@@ -66,7 +66,7 @@ The first day he'd moved in!
 
 Right across from the Stormwind Stockade!
 
-"Lidstawening!"
+"Modestawening!"
 
 Jace acted without hesitation, hitting Sazeno with a Counterspell. The imp let out a loud cry, tilted its head, and passed out. The flames on its head and in its hands were extinguished at once, leaving it dangling in midair from the succubus's tail like a dead yellow rat.
 
@@ -91,21 +91,3 @@ Morophil said, "Making your enemy fly into a rage isn't a bad approach either. E
 "What about warriors?" Jace asked.
 
 Morophil said, "Even for warriors — keeping them from facing their opponents calmly makes it easier for their foes to find openings. And I happen to be very good at finding openings."
-
-## Flags
-
-- **Goldshire (闪金镇)** — meeting point for the scavenging run departure.
-- **Morophil (莫洛菲尔)** — Jace's succubus; snarky, jealous, affectionate. Her Curse of Recklessness uses succubus-specific incantation (萨亚德), not transferable to humans.
-- **Sazeno (撒厄诺)** — Jace's imp. Tested the Curse of Recklessness on him; went berserk and nearly burned down the apartment on day one.
-- **Senluola (森萝拉)** — OC, the one who transcribed Gajin's manual.
-- **Gajin / Jagin (加金)** — OC warlock; author of the manual Sazeno is studying.
-- **Curse of Recklessness (鲁莽诅咒)** — canonical Warlock spell. Incantation: "Uruul, Gaatuo, Yaadus" (Eredar/Thalassian-flavored).
-- **Curse of Weakness (虚弱诅咒)** — canonical Warlock spell; Jace uses a similar gesture.
-- **Eredar (艾瑞达)** — the language Jace is learning for demon spells.
-- **Nathrezim (纳斯雷兹姆)** — canonical dreadlord race; Morophil references their bat transformation as a race-specific ability.
-- **Succubus (萨亚德)** — the Thalassian/racial term for succubus, per Morophil.
-- **Lidstawening (莉德斯塔威宁)** — the verbal component Jace uses for Counterspell (反制术).
-- **Counterspell (反制术)** — canonical Mage interrupt spell.
-- **Blood Pact (血之契印)** — the imp's life-saving buff.
-- **Stormwind Stockade (暴风城监狱)** — Jace's panic: setting his apartment on fire on move-in day, right across from the prison.
-- Chapter title "鲁莽诅咒" rendered as "Curse of Recklessness" — canonical spell name.

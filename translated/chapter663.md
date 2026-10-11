@@ -10,7 +10,7 @@ A Restorative Potion kept cleansing the spell, the oppression the darkness broug
 
 He took out the disc and confirmed it was still on him. Aside from this object, those explosions and gale-force winds had made him lose most of his belongings — his staff, his pack, and one of his boots.
 
-Azurewrath was cracked beyond use, though it was still fastened tightly in the scabbard at his belt.
+Azuresong was cracked beyond use, though it was still fastened tightly in the scabbard at his belt.
 
 Still, there was the Blade of Eternal Darkness, bound securely inside his robe. This was Jace's last weapon for self-defense. Though he had no idea what use it would be against that demon, against the wildfire covering the mountains, against Deathwing…
 
@@ -22,7 +22,7 @@ Vereesa's voice rang out from not far off. Jace immediately turned toward it, sc
 
 Vereesa turned her head. "I didn't see where that demon went. Damn it."
 
-"I can find him," Jace said. "Molofier must be on his trail — I can feel her presence."
+"I can find him," Jace said. "Morophil must be on his trail — I can feel her presence."
 
 Jace narrowed his eyes and focused, sensing the pull of the Soul Link, then pointed toward a distant mountain hollow. "That way."
 
@@ -38,19 +38,19 @@ But what about the Demon Soul?
 
 Jace glanced at the disc in his hand, then back up at the black, cloud-like shadow cackling in the high sky. He had to destroy the Demon Soul.
 
-At the bottom of the gorge, one after another, stone giants caked in lava pulled themselves out of the molten rock, only to collapse again for some reason. Those that stood their ground either smashed into each other or went after the still-fighting dragonkin and dragonmen. Running and fighting, they would collapse and crumble all over again.
+At the bottom of the gorge, one after another, stone giants caked in lava pulled themselves out of the molten rock, only to collapse again for some reason. Those that stood their ground either smashed into each other or went after the still-fighting drakonids and dragonkin. Running and fighting, they would collapse and crumble all over again.
 
-Raging earth elemental striders, their bodies wreathed in purple fel fire, shrieked shrilly as they hunted down every whelp that couldn't fly and every orc on the run.
+Raging earth elemental striders, their bodies wreathed in purple fel fire, shrieked shrilly as they hunted down every drake that couldn't fly and every orc on the run.
 
 Vereesa took one look at the horrifying scene, closed her eyes for a moment, then turned back. "Where is she now?"
 
-"On the ridge ahead," Jace said. "I can almost make out Molofier's shape…"
+"On the ridge ahead," Jace said. "I can almost make out Morophil's shape…"
 
-Vereesa nodded and pressed on. As they approached the ridge near a burning orc watchtower, Jace saw, in the sky above the tower, a red whelp locked in a brawl with a demonic shadow!
+Vereesa nodded and pressed on. As they approached the ridge near a burning orc watchtower, Jace saw, in the sky above the tower, a red drake locked in a brawl with a demonic shadow!
 
-"I can't do anything about him, master," Molofier emerged from the shadows, helpless. "He keeps flying — I can't help the whelp. Wings are still useful sometimes…"
+"I can't do anything about him, master," Morophil emerged from the shadows, helpless. "He keeps flying — I can't help the drake. Wings are still useful sometimes…"
 
-At this height, Jace figured he could probably hit the demon with a longer-range Shadow Bolt — but if he accidentally struck the whelp instead, he'd be helping the demon break free and climb back into the high sky. Then the four of them would be picked off one by one by that thing's Shadow Bolts!
+At this height, Jace figured he could probably hit the demon with a longer-range Shadow Bolt — but if he accidentally struck the drake instead, he'd be helping the demon break free and climb back into the high sky. Then the four of them would be picked off one by one by that thing's Shadow Bolts!
 
 After all, there was no cover to speak of on this ridge.
 
@@ -60,9 +60,9 @@ Vereesa tossed the dagger and caught it, studied it for a moment, then drank a s
 
 Jace suddenly realized what she was about to do. He immediately gave chase, but his speed was no match at all. Vereesa scaled the burning tower, dodging the flames as nimble as could be, and scrambled to the highest point. Standing in the billowing smoke, she glanced up, took two steps back, and sprinted forward in a running leap…
 
-She hurled the Blade of Eternal Darkness with all her strength mid-air. The flying blade shot out like a bullet, threading precisely between the whelp's ribs, beneath its wing, and cleanly pierced the demon's lower jaw — sinking into his skull!
+She hurled the Blade of Eternal Darkness with all her strength mid-air. The flying blade shot out like a bullet, threading precisely between the drake's ribs, beneath its wing, and cleanly pierced the demon's lower jaw — sinking into his skull!
 
-Dark energy spread from the dagger, warping the demon's will and mana. Nekros let out a wailing cry almost instantly. He could no longer match the whelp's strength!
+Dark energy spread from the dagger, warping the demon's will and mana. Nekros let out a wailing cry almost instantly. He could no longer match the drake's strength!
 
 "Vereesa!"
 
@@ -70,21 +70,21 @@ Jace's shout was swallowed by the dragons' shrieks in the sky and the roar of fl
 
 He tried to run under the tower to catch the elf as she plummeted from the sky, but watching her fall, he simply couldn't keep up… He should've trained harder, run a few more steps, maybe…
 
-A ghostly figure materialized mid-air and grabbed the falling ranger hard — Molofier!
+A ghostly figure materialized mid-air and grabbed the falling ranger hard — Morophil!
 
 The two crashed to the ground and tumbled down the hillside, but that tug had cushioned the fall's speed considerably. They should be…
 
-The whelp, covered in blood, quickly gained the upper hand. It shrieked and dove, pinning the now-defenseless demon hard into the earth.
+The drake, covered in blood, quickly gained the upper hand. It shrieked and dove, pinning the now-defenseless demon hard into the earth.
 
 Jace very much wanted to go check on them, but this was no time to waste. He had to destroy the Demon Soul.
 
-He ran toward where the whelp had landed and shouted in Draconic, "Wait!"
+He ran toward where the drake had landed and shouted in Draconic, "Wait!"
 
-The whelp snarled at him fiercely, its claws poised to rip the demon's heart open at any second.
+The drake snarled at him fiercely, its claws poised to rip the demon's heart open at any second.
 
-Jace remembered that speaking Draconic would only enrage the whelp, so he switched to Common: "Don't kill him. Trust me — I will save Alexstrasza!"
+Jace remembered that speaking Draconic would only enrage the drake, so he switched to Common: "Don't kill him. Trust me — I will save Alexstrasza!"
 
-The wild gleam in the whelp's eyes faded rapidly. Hesitating for that moment, Jace gulped down a Mana Potion, raised his hand toward the demon, and chanted softly: "Vita, tahotusqi, miluoen, tahototani…"
+The wild gleam in the drake's eyes faded rapidly. Hesitating for that moment, Jace gulped down a Mana Potion, raised his hand toward the demon, and chanted softly: "Vita, tahotusqi, milon, tahototani…"
 
 Hearing the incantation, the pinned Nekros immediately burst out laughing.
 
@@ -94,11 +94,11 @@ Peals of thunder rolled across the sky. Deathwing laughed as he seized the Drago
 
 He was going to win. The black dragon was going to win. Molten evil coursed through his body — his chest, his back, his neck were covered in terrifying fissures, like cracks in the black sky itself. And yet he still howled madly, laughed madly, and cried victory.
 
-Jace finished the incantation. Without the Refined Wisdom Elixir, without the whelp's help, he almost certainly couldn't have succeeded. But he braced his spirit and forced Nekros into servitude.
+Jace finished the incantation. Without the Flask of Distilled Wisdom, without the drake's help, he almost certainly couldn't have succeeded. But he braced his spirit and forced Nekros into servitude.
 
-He knew this pact wouldn't last long. As Nekros's demonic form kept devouring the shadow around him to recover his strength, as the Refined Wisdom Elixir slowly lost its effect, the demon's will would overpower him and the enslavement would break. But he didn't need long.
+He knew this pact wouldn't last long. As Nekros's demonic form kept devouring the shadow around him to recover his strength, as the Flask of Distilled Wisdom slowly lost its effect, the demon's will would overpower him and the enslavement would break. But he didn't need long.
 
-Sensing the demon had been brought under control, the whelp stepped off him. The demon clutched his dagger-pierced jaw and sneered. "Give your orders, then, you self-righteous bastard. The moment you weaken even a little, I'll rip open your—"
+Sensing the demon had been brought under control, the drake stepped off him. The demon clutched his dagger-pierced jaw and sneered. "Give your orders, then, you self-righteous bastard. The moment you weaken even a little, I'll rip open your—"
 
 Jace felt that enslaving this demon brought an almost unbearable pressure of shadow — perhaps from Nekros's will, perhaps from… whatever. He had neither the time nor the space to think about it.
 
@@ -124,7 +124,9 @@ He muttered the command like an incantation as he raised the golden disc in his 
 
 For a demon his size, devouring a palm-sized little disc was as easy as popping a candy. Jace bore down against Nekros's mental resistance, gritting his teeth…
 
-*—Now. Kill Deathwing. "Kill, Deathwing!"*
+*—Now. Kill Deathwing.*
+
+"Kill, Deathwing!"
 
 The demon spread his wings and launched into the sky. The black shape quickly melted into the night…
 
@@ -142,7 +144,7 @@ But the moment the demon spoke his spell, the black smoke was suddenly torn apar
 
 Jace felt the pressure of enslaving Nekros release all at once. His body went soft and he staggered back a few steps, nearly falling, barely managing to keep himself from sprawling across the scorching ground.
 
-He caught his breaths, then heard Deathwing let out a low, sinister chuckle.
+He caught his breath, then heard Deathwing let out a low, sinister chuckle.
 
 "Pity… I was going to make your death a crueler one. How dare you…"
 
@@ -150,7 +152,7 @@ Deathwing's words stopped short. Because he saw a thin golden mist left behind w
 
 Vereesa limped over to Jace's side, clutched her stomach, coughed a few times, then looked up too.
 
-Molofier, not far off, was also gazing in that direction. Grede had smashed wave after wave of earth elementals that tried to rush him, and was now leaning against a boulder to catch his breath. Seeing them all look up, he turned his gaze that way too.
+Morophil, not far off, was also gazing in that direction. Grede had smashed wave after wave of earth elementals that tried to rush him, and was now leaning against a boulder to catch his breath. Seeing them all look up, he turned his gaze that way too.
 
 "Odd… what kind of power is that…" the imp poked his head out of Jace's robe and asked.
 
@@ -166,7 +168,7 @@ He didn't know if Deathwing heard. Deathwing didn't answer. He released the Drag
 
 The Dragonqueen, fallen among the ruins of Grim Batol, raised her head and couldn't help but let out a low, triumphant laugh.
 
-Despite the glee of a scheme come to fruition, Jace couldn't help but smile. But he knew that even shattering the Demon Soul wouldn't really harm Deathwing. It would only mean he had to start fearing the power of all the Aspects — because he could never again stand against them all alone…
+Feeling the glee of a scheme come to fruition, Jace couldn't help but smile. But he knew that even shattering the Demon Soul wouldn't really harm Deathwing. It would only mean he had to start fearing the power of all the Aspects — because he could never again stand against them all alone…
 
 Deathwing suddenly stretched out his neck and swallowed all the scattering radiance in one gulp. The sky instantly dimmed. Nothing left. "What—"
 
@@ -178,7 +180,7 @@ Deathwing burst out laughing — a rumbling sound like the death-knell of the ap
 
 "Everything I poured my all into, spent endless time to obtain — how could a mere mortal undo it so easily? Still laughing, Alexstrasza? You thought I'd just admit defeat? You thought I'd sit still and wait for death…"
 
-He puffed out his chest and unleashed a brilliant beam of purple light, firing it straight at Tyranastrazz in the distance — and in an instant, blasted away the lower half of the great dragon.
+He puffed out his chest and unleashed a brilliant beam of purple light, firing it straight at Tyranastrasz in the distance — and in an instant, blasted away the lower half of the great dragon.
 
 The chromatic energy…
 
@@ -194,7 +196,7 @@ Jace didn't know what else he could do. It seemed every effort he made only made
 
 Maybe it should just end here. Don't do anything else. Wait — there was still one more thing to do.
 
-"Right, Ver." He turned to Vereesa beside him. "There's something I need to tell you quickly, otherwise—"
+"Right, Vere." He turned to Vereesa beside him. "There's something I need to tell you quickly, otherwise—"
 
 "I know."
 
@@ -221,19 +223,3 @@ Purple fel fire spewed from the fissures in his body. Deathwing's laughter was g
 Blazing beams of fire shot into the sky from his lifeless remains, like a volcano's final eruption. The Father of Black Dragons took one last step forward, then fell with a low murmur. That skull — like a black castle — toppled sideways, the hellfire in its eyes slowly burning out.
 
 Grede was completely stunned, staring blankly and muttering under his breath: "Truly, completely, bloody insane."
-
-## Flags
-
-- **恶魔之魂:** Rendered as **the Demon Soul** (canonical artifact, glossary).
-- **碧空之歌:** Canonical WoW sword = **Azurewrath**.
-- **无尽黑暗之刃:** Rendered as **Blade of Eternal Darkness** (WoW dagger).
-- **滋补药剂:** Rendered as **Restorative Potion** (glossary).
-- **精炼智慧合剂:** Rendered as **Refined Wisdom Elixir** (fanfic potion — not a direct WoW equivalent).
-- **法力药水:** Rendered as **Mana Potion**.
-- **火焰防护药水:** Rendered as **Fire Protection Potion**.
-- **龙语 / 通用语:** Rendered as **Draconic** / **Common**.
-- **泰兰纳斯特拉兹:** Canonical name **Tyranastrazz**, elder red dragon and Alexstrasza's mate.
-- **龙王之力 / 多彩的能量:** The combined power of the Dragon Aspects — "chromatic energy."
-- **萨亚德:** Alexstrasza addresses Molofier as "萨亚德" — this is the demonological term for **Succubus** (a familiar form of address). Rendered contextually.
-- Incantation "维塔，塔霍拖斯齐，米洛恩，塔霍拖塔尼" kept as phonetic pseudo-Latin: "Vita, tahotusqi, miluoen, tahototani."
-- POV: third person. Jace's inner voice kept snarky and self-aware even amid catastrophe.

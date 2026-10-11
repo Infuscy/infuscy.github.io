@@ -6,13 +6,13 @@ Jace was willing to believe that this was the sense of fulfillment brought by th
 
 Of course, there were probably true adventurers, pirates, noble explorers and the like who were fanatical about the act of sailing itself. But for most participants, it was nothing more than a reluctant means of making a living.
 
-But in Azeroth, the sea literally had magic in the most literal sense of the word.
+But in Azeroth, the sea had magic in the most literal sense of the word.
 
 As they gradually pulled away from the Eastern Kingdoms, even a mage of Jace's level could clearly feel them getting farther and farther from the ley lines. The passengers who'd still been a little excited and curious when they first left Booty Bay had also grown quiet and withdrawn.
 
 By the second week, the whole ship had taken on a bit of a deathly stillness.
 
-It was raining that night, black clouds blotting out the Twin Moons. Jace stood on deck staring out at the endless, eternal darkness beyond the ship, and even had the illusion that he and this pitifully small boat — humble and pathetic compared to the night itself — were about to be swallowed in one bite by some colossal beast lunging out of the shadows.
+It was raining that night, black clouds blotting out the two moons. Jace stood on deck staring out at the endless, eternal darkness beyond the ship, and even had the illusion that he and this pitifully small boat — humble and pathetic compared to the night itself — were about to be swallowed in one bite by some colossal beast lunging out of the shadows.
 
 If not for the arcane lanterns swaying nearby, straining to give off their light and illuminate the seawater close at hand, he'd have almost felt that what the goblins had sailed them into wasn't the Great Sea at all, but the Twisting Nether.
 
@@ -32,7 +32,7 @@ Jace looked at him. The dwarf seemed to notice Jace's somewhat grim expression a
 
 "Resting in the hold," Grede said. "I saw her earlier and she didn't look well. Don't know if it's seasickness or she's coming down with something. You noticed?"
 
-Jace said, "She's not like us two. She's an elf. Away from the ley lines, it hits her like this. I'll give her the Flowingfrost Crystal later and see if that helps."
+Jace said, "She's not like us two. She's an elf. Away from the ley lines, it hits her like this. I'll give her the Flowing Ice Crystal later and see if that helps."
 
 Grede hesitated, then asked, "Didn't she know you had that little crystal? If it really was because she'd been away from the Sunwell, why didn't she just ask you for it directly?"
 
@@ -48,7 +48,7 @@ The dwarf cleared his throat. "You saw how she acted after seeing the succubus. 
 
 "Maybe she just doesn't trust sayaad demons," Jace said.
 
-"You…" Grede leaned against the railing and pointed at Jace, about to say something, then deflated. "Fine. There's a sliver of a chance you're right. But I'm telling you — remember that night at the Sailor's Home before we set off? After you went off, that elf didn't say another damn word. She'd been chatting away happily up till then. I thought we were really hitting it off!"
+"You…" Grede leaned against the railing and pointed at Jace, about to say something, then deflated. "Fine. There's a sliver of a chance you're right. But I'm telling you — remember that night at the Salty Sailor Tavern before we set off? After you went off, that elf didn't say another damn word. She'd been chatting away happily up till then. I thought we were really hitting it off!"
 
 "Let me ask you — don't you have any feelings for her at all?"
 
@@ -56,7 +56,7 @@ Jace stared into the black abyss before him and said quietly, "How could I not�
 
 "That's the strange part," Grede said. "I don't think you're the least bit curious whether she feels the same way about you."
 
-"I am curious," Jace said. "But I want to finish this Kalimor trip smoothly even more. Get the money, come back to Stormwind, buy a house. I'm telling you, Grede — when we get back, if we get any kind of lead and I can just get my hands on twenty gold, I'll have saved up close to seventy or eighty gold. That's more than enough to buy a decent house in the Trade District for my parents. That way I can bring them to Stormwind before next Winter Veil. I can see this goal right in front of me, so everything else has to wait until I get this most important thing done first."
+"I am curious," Jace said. "But I want to finish this Kalimdor trip smoothly even more. Get the money, come back to Stormwind, buy a house. I'm telling you, Grede — when we get back, if we get any kind of lead and I can just get my hands on twenty gold, I'll have saved up close to seventy or eighty gold. That's more than enough to buy a decent house in the Trade District for my parents. That way I can bring them to Stormwind before next Winter Veil. I can see this goal right in front of me, so everything else has to wait until I get this most important thing done first."
 
 "All right. Then at least go check on her for now," Grede said.
 
@@ -74,9 +74,9 @@ Jace caught a glimpse of the arcane light in the elf's eyes — noticeably dimme
 
 "Really nothing?"
 
-"Maybe I'm just not used to sailing this far. The legacy of Dath'Remar's generation of quel'dorei — I didn't inherit a scrap of it," she said with a smile.
+"Maybe I'm just not used to sailing this far. The legacy of Dath'Remar's generation of Quel'dorei — I didn't inherit a scrap of it," she said with a smile.
 
-Jace took the Flowingfrost Crystal from his coat. "Try this."
+Jace took the Flowing Ice Crystal from his coat. "Try this."
 
 Vereesa, who'd been putting on a brave face, lost her composure on the spot the moment she saw the crystal. Jace had the feeling that for a split second, her expression was one of wanting to swallow the thing whole.
 
@@ -96,6 +96,6 @@ At that, Vereesa finally said, "Then… thank you, Jace."
 
 "Nothing to thank me for," Jace said.
 
-Taking the crystal from Jace, Vereesa immediately drew a deep breath and clutched it to her chest. Jace watched as the Flowingfrost Crystal's light dimmed by more than half all at once, while the arcane flame in the elf's eyes flared up as if catching fire, burning a good deal brighter.
+Taking the crystal from Jace, Vereesa immediately drew a deep breath and clutched it to her chest. Jace watched as the Flowing Ice Crystal's light dimmed by more than half all at once, while the arcane flame in the elf's eyes flared up as if catching fire, burning a good deal brighter.
 
-The quel'dorei's ability to draw in magic was a lot more straightforward and brutal than a succubus's.
+The Quel'dorei's ability to draw in magic was a lot more straightforward and brutal than a succubus's.

@@ -20,7 +20,7 @@ Add to that the later appearance of the centaur, and the tauren had no choice bu
 
 The group walked along a dry, gray ridge of earth. Looking down, everywhere they saw were the skeletons of giant beasts that had died who knows how many years ago — perhaps kodos, perhaps thunder lizards, perhaps some other terrifying reptilian creatures. Even Mosa couldn't identify them all.
 
-Late at night, while the group was resting beside a ravine, Wynne suddenly grew alert. She made a "shh" gesture, stopping everyone's idle chatter.
+Late at night, while the group was resting beside a ravine, Vereesa suddenly grew alert. She made a "shh" gesture, stopping everyone's idle chatter.
 
 Grede, who had been chewing a tauren-made vegetable cake, also froze mid-chew. Jace's gaze slowly shifted toward the elf.
 
@@ -28,7 +28,7 @@ After falling quiet, they heard one coarse, absurd-sounding shout after another,
 
 Accompanying these bursts of shouting was the chaotic sound of hoofbeats.
 
-Jace followed Wynne and poked his head out beyond the slope. In the moonlight, very far off, four centaur silhouettes were chasing each other as they ran, shouting amongst themselves.
+Jace followed Vereesa and poked his head out beyond the slope. In the moonlight, very far off, four centaur silhouettes were chasing each other as they ran, shouting amongst themselves.
 
 Judging by their relaxed demeanor, they didn't look like they were on patrol — more like they were out for fun, or perhaps engaged in some kind of race. Utterly out of place with the atmosphere of this dead land.
 
@@ -50,17 +50,17 @@ There were already quite a lot of centaur here. From a distance they could even 
 
 They hid behind a hill outside the canyon and observed the area for a while. Mosa confirmed that entering the valley and walking to the end would bring them to the Maraudon sacred tomb.
 
-Wynne took out a scroll, placed the goblin collector's dagger on top of it through a layer of cloth, and softly recited the incantations on the scroll.
+Vereesa took out a scroll, placed the goblin collector's dagger on top of it through a layer of cloth, and softly recited the incantations on the scroll.
 
 Her eyes flickered between brightness and dimness with the incantations. After the spell was complete, she gently closed her eyes. After a moment, she said, "Jace, that goblin collector you know was right. Since coming to Kalimdor, this place has the strongest resonance with the magical traces on the dagger."
 
-"So far he hasn't been wrong about anything," Jace nodded. "If the source of his dagger is also correct, then the owner of this dagger is Dasmora Darkeye. That would let us confirm that she is the same Highborne that the Relics Society is searching for."
+"So far he hasn't been wrong about anything," Jace nodded. "If the source of his dagger is also correct, then the owner of this dagger is Dasmora Darkeye. That would let us confirm that she is the same Highborne that the Reliquary is searching for."
 
-Wynne nodded. "The question now is, how to pass through the centaur's layers of defenses on the outside and get in."
+Vereesa nodded. "The question now is, how to pass through the centaur's layers of defenses on the outside and get in."
 
 "This valley looks very big," Grede said. "We could use the cover of night and sneak in from up high on those peaks."
 
-Sneaking into Maraudon wasn't a completely impossible choice. Pocodiaz wasn't the only goblin who'd tried to send mercenaries to infiltrate Maraudon. In the game, goblin explorers had already brought their own squads past the centaur outside and successfully entered, wanting to mine the precious gem veins inside.
+Sneaking into Maraudon wasn't a completely impossible choice. Pokodiaz wasn't the only goblin who'd tried to send mercenaries to infiltrate Maraudon. In the game, goblin explorers had already brought their own squads past the centaur outside and successfully entered, wanting to mine the precious gem veins inside.
 
 It was just that after going in, they were ambushed by demons and other dangerous creatures lurking within. In the end, only the leader survived — but at least they'd gotten in.
 
@@ -68,26 +68,10 @@ But this was still an extremely dangerous choice. Especially since not everyone 
 
 Let alone the fact that they were completely unfamiliar with the roads here. Once they entered the invisibility potion's state, they'd be completely blind.
 
-"I think to protect this sacred tomb, the centaur wouldn't fail to set up sentries on the high ground," Wynne said. "We'd probably be spotted as soon as we got close."
+"I think to protect this sacred tomb, the centaur wouldn't fail to set up sentries on the high ground," Vereesa said. "We'd probably be spotted as soon as we got close."
 
 "Are they that smart?" Grede asked. "Don't tell me they've built a fortress in there?"
 
-"Don't forget they even have their own inherited language, Grede," Wynne said. "Since this is the centaur's most sacred place, they're certainly going to protect it quite thoroughly. Look over there, Grede — can you see those faint earthen walls behind the mountains? This isn't some small centaur village."
+"Don't forget they even have their own inherited language, Grede," Vereesa said. "Since this is the centaur's most sacred place, they're certainly going to protect it quite thoroughly. Look over there, Grede — can you see those faint earthen walls behind the mountains? This isn't some small centaur village."
 
 Grede glanced over and said helplessly, "Alright, I can't see that clearly."
-
----
-
-## Flags
-
-- **Chapter title**: 神圣山谷 — "The Sacred Valley" (referring to the valley containing Maraudon).
-- **Burning Steppes comparison**: Jace compares Desolace to the Burning Steppes — both are devastated lands, but Desolace's corruption is spiritual/life-draining rather than fire-based.
-- **Mashan'she / 马珊帐**: the tauren name for Desolace before its corruption — their original homeland.
-- **Theradras / 瑟莱德丝**: the earth elemental princess whose awakening drained Desolace of life (canonical WoW lore; she is the final boss of Maraudon).
-- **Maraudon**: 玛拉顿 — the sacred centaur tomb and dungeon in Desolace (called "Maraudine" in later chapters' naming convention).
-- **Pocodiaz / 普科迪亚兹**: the goblin collector mentioned earlier in the story (not in the glossary; name rendered phonetically). Also spelled "Pocodiaz" in later chapters.
-- **Dasmora Darkeye / 达斯莫拉·暗眼**: a Highborne elf connected to the Relics Society's search.
-- **Relics Society / 神圣遗物学会**: an organization searching for Highborne artifacts.
-- **Game mechanics vs. reality**: Jace explicitly reflects on how Maraudon works in the game (enemies stay in their zones) versus how it would work in reality (the whole tomb would mobilize against intruders).
-- **Invisibility potions**: 隐形药水 — a recurring resource limitation for the group.
-- **Tension with Mosa**: Jace wants to negotiate with the centaur but hesitates because of Mosa's deep hatred for them — a conflict that will continue into the next chapter.

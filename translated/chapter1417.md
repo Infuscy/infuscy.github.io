@@ -30,13 +30,13 @@ Was that Alonsus Faol himself?
 
 When they'd set out from Lakeshire to Stormwind, some priests had informed the Expedition members that the master of the Cathedral of Light would welcome them at the square. Back then, Jace had assumed it would be Bishop Benedictus, since he presided over the cathedral most of the time.
 
-Besides, Jace had heard that the Sons of Lothar had other celebrations when they returned to Lordaeron. Stromgarde and Lordaeron each had their own welcoming ceremonies. The ceremony in Lordaeron's capital might be even grander, since it was the heart of the Lordaeron Alliance and the Expedition's starting point.
+Besides, Jace had heard that the Sons of Lothar had other celebrations when they returned to Lordaeron. Stromgarde and Lordaeron each had their own welcoming ceremonies. The ceremony in Lordaeron's capital might be even grander, since it was the heart of the Alliance of Lordaeron and the Expedition's starting point.
 
 But Jace hadn't expected that the true master of this cathedral, the leader of the church, Archbishop Faol himself would be here. He'd assumed Faol would stay in Lordaeron to await the Expedition's return.
 
 Come to think of it, despite having lived in Tirisfal for fifteen years before the First and Second Wars, Jace had never once seen Alonsus Faol. His mother sometimes saw him when she visited the cathedral.
 
-Not because the archbishop kept himself aloof from common folk. Jace had heard he traveled frequently, moving between the monasteries and villages of Eastern Weald and Tirisfal, sometimes visiting other kingdoms to teach, spread doctrine, and help the poor.
+Not because the archbishop kept himself aloof from common folk. Jace had heard he traveled frequently, moving between the monasteries and villages of Eastweald and Tirisfal, sometimes visiting other kingdoms to teach, spread doctrine, and help the poor.
 
 Also, Jace had never had much interest in priests. He only went when his mother dragged him along, and even then, it wasn't to see the high-ranking clergymen. He was mostly trying to sneak some sweet biscuits and sunfruit, since the church priests didn't seem to mind chasing after the kids running wild through the city.
 
@@ -56,11 +56,11 @@ The square fell utterly silent. Jace's mind drifted back to Wildhammer Stronghol
 
 After the silence, the archbishop briefly recounted everything that had happened on Draenor to the gathered crowd. Every name carved on the statues in the Valley of Heroes was mentioned.
 
-Sylvanas couldn't help but tightly grasp her sisters' hands. Turalyon, Khadgar, and the other Expedition leaders — including Grede and Sora — listened intently.
+Sylvanas couldn't help but tightly grasp her sisters' hands. Turalyon, Khadgar, and the other Expedition leaders — including Grede and Sola — listened intently.
 
 They weren't the only ones. Everyone present was moved. Jace was no exception.
 
-Unconsciously, he recalled those scenes. Nagrand to Bladespire. Auchindoun. The legions of demons. The blood-red fel orcs covering Hellfire Citadel.
+Unconsciously, he recalled those scenes. Nagrand to Blade's Edge. Auchindoun. The legions of demons. The blood-red fel orcs covering Hellfire Citadel.
 
 Then the people around him started turning to look his way. He realized he'd become the focus of the square.
 
@@ -80,7 +80,7 @@ But the closer he got to the archbishop, the more he felt a maddening heat throu
 
 He knew exactly why he felt this way, but he could only try his best to stay calm. He could barely even make out Archbishop Faol's quiet prayer. The sweat beading on his forehead and trickling through his hair was painfully clear.
 
-When Jace had come to the cathedral square before and received the priests' blessings, the discomfort had never been this severe.
+When Jace had come to Cathedral Square before and received the priests' blessings, the discomfort had never been this severe.
 
 He understood the cause. The stronger his control over shadow power became, the more clearly he could sense shadow — emotions, dark fluctuations. Especially on Draenor, as he repeatedly used powerful shadow magic, especially spells like Life Tap, absorbing soul energy and terrifying void power — his flesh and blood had inevitably grown more adapted to shadow and increasingly resistant to the Holy Light.
 
@@ -94,7 +94,7 @@ He understood the cause. The stronger his control over shadow power became, the 
 
 Jace could barely see the archbishop's lips or throat moving, yet the words reached him. He was starting to wonder if the heat was making him hallucinate when Faol fastened a silver shield-and-hammer emblem onto his cloak.
 
-"On behalf of the Church of the Holy Light, I bestow upon you the Sigil of Tyr's Guardian, Jace Sesso. From this day forward, you shall be known as Tyr's Protector. Not only the church, but the entire Lordaeron Alliance thanks you for everything you did beyond the Dark Portal. May the Holy Light bless you."
+"On behalf of the Church of the Holy Light, I bestow upon you the Sigil of Tyr's Guardian, Jace Sesso. From this day forward, you shall be known as the Protector of Tyr. Not only the church, but the entire Alliance of Lordaeron thanks you for everything you did beyond the Dark Portal. May the Holy Light bless you."
 
 "And the Sons of Lothar as well, Jace." Turalyon smiled.
 

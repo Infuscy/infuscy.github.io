@@ -36,7 +36,7 @@ Near those corpses, small, hunched shadow-imps were everywhere — a pack of the
 
 But behind this pack of imps, a burly demon shadow stood watching over them.
 
-By now, the sobbing within the camp could be audible — but only one person was crying. There was no sound from the others. If there were many captured soldiers, then by now they had either already died, or they'd cried themselves too exhausted to make a sound.
+By now, sobbing could be heard from within the camp — but only one person was crying. There was no sound from the others. If there were many captured soldiers, then by now they had either already died, or they'd cried themselves too exhausted to make a sound.
 
 But what kind of demon was that thing?
 
@@ -44,7 +44,7 @@ The two of them withdrew to a more distant spot. Jace whispered: "There may be o
 
 "A Mo'arg," the female elf nodded. "We've encountered one of these before. Every time one of these shows up, it brings a pack of weaker demons with it."
 
-Although the Mo'arg demon was tall and strong, its status was far below that of the Eredar. It was just that these imps kept chanting their incantations nonstop, yet no demon had actually appeared at the center of their summoning ritual. Were they summoning some even more powerful demon?
+Although the Mo'arg demon was tall and strong, its status was far below that of the eredar. It was just that these imps kept chanting their incantations nonstop, yet no demon had actually appeared at the center of their summoning ritual. Were they summoning some even more powerful demon?
 
 Jace said in a low voice: "Their ritual has been going on for some time. I think we have to launch our attack as soon as possible, elf. Otherwise, in a few minutes we might not be facing more imps — we could be facing a demon lord far stronger than that Mo'arg."
 
@@ -62,11 +62,11 @@ Damn it… how many felhounds are there?
 
 Jace had caught glimpses of quite a few small demon shadows earlier. He'd assumed all those hunched little figures were the imps he could see plainly — he hadn't expected a whole pack of felhounds lying in wait elsewhere!
 
-He immediately spoke the incantation for Tenebrous' Fel Protection — that modified mage armor that traded elemental resistance for fel resistance. A wave of dark-glowing magical flame rippled across his body, then vanished without a trace.
+He immediately spoke the incantation for Tenebrous's Warding Against Evil — that modified mage armor that traded elemental resistance for fel resistance. A wave of dark-glowing magical flame rippled across his body, then vanished without a trace.
 
 The elf, seeing the young mage buff himself with a magical barrier, nocked an arrow and said: "Head north — there's no felhound noise up there! Go link up with the captain. I'll hold these demons off for you… You're not planning to fight felhounds head-on here, are you, mage?"
 
-Jace drew Azure Song and said: "That's exactly what I'm planning."
+Jace drew Azuresong and said: "That's exactly what I'm planning."
 
 The elf's eyes flicked to the sword and lingered for a moment. Even if she didn't recognize it immediately, the arcane radiance alone was enough to give a high elf like her pause.
 
@@ -78,7 +78,7 @@ But the situation didn't leave her time to ask questions. A whole pack of felhou
 
 The elf nodded and turned her attention away, rapidly nocking and firing. She dropped two felhounds with successive shots, then drew the two crossed longblades from her back and spun, hacking apart the tentacles of another felhound in all directions, before driving a blade through its head.
 
-Jace, drawing on his previous experience fighting fel hunters, knew these things fed on mana through their tentacles. As long as he didn't cast spells and get stunned by their counterspell, his sword and strength would be enough to handle two or three.
+Jace, drawing on his previous experience fighting felhounds, knew these things fed on mana through their tentacles. As long as he didn't cast spells and get stunned by their counterspell, his sword and strength would be enough to handle two or three.
 
 He wielded his staff in one hand to keep the approaching felhounds at bay, and hacked at the reaching tentacles with his sword in the other. Working in tandem with the elf, they quickly killed five or six. As the remaining few hesitated, the elf casually shot one dead.
 
@@ -91,12 +91,3 @@ Jace sheathed the sword, gripped his staff, and said: "Not injured. Let's go."
 The elf took the lead; Jace followed behind. Every so often he caught flashes of golden light flickering in the distant forest. He thought that there were no priests in the party…
 
 Could that Captain Quenton be a paladin of the Order of the Silver Hand?
-
-## Flags
-
-- 莫尔葛 = Mo'arg (demon race); 小鬼 = imps; 艾瑞达 = Eredar.
-- 地狱犬 = felhounds; 地狱猎犬 = fel hunters (both appear; "fel hunter" used for Jace's prior experience).
-- 提内博拉斯的邪恶防护术 = Tenebrous' Fel Protection (OC mage-armor variant; incantation kept as flavor).
-- 撒厄诺 = Sazeno (Jace's imp minion).
-- 碧空之歌 = Azure Song (magical sword; name rendering — see ch 405).
-- 虚弱咒 = Curse of Weakness (warlock spell).

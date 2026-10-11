@@ -2,13 +2,13 @@
 
 Jace could tell that apart from Prince Korialstrasz, most of the red dragons had reservations about the queen letting Jace look after Needleflame. From a shadow-corruption perspective, entrusting her to someone like Jace was probably the riskiest choice they could make.
 
-Grede and Vereesa, of course, couldn't be happier. Grede especially — he'd finally found a little creature willing to drink with him. The moment Needleflame said she didn't like Stormwind, he charged right up and tried to take her to Aerie Peak for a drink, insisting Sora teach her how to shapeshift into a dwarf.
+Grede and Vereesa, of course, couldn't be happier. Grede especially — he'd finally found a little creature willing to drink with him. The moment Needleflame said she didn't like Stormwind, he charged right up and tried to take her to Aerie Peak for a drink, insisting Sola teach her how to shapeshift into a dwarf.
 
 "I imagine you didn't all come here just for me to meet Needleflame." The red dragon queen spoke softly. "Especially you, High Thane Kurdran Wildhammer."
 
 "Of course, great queen!" Kurdran craned his neck and bellowed. "Returning to Grim Batol one day has been the wish of all Aerie Peak. When I heard in Draenor that the orcs had been driven out of Grim Batol and the red dragons had found a way to purify the corruption inside... I couldn't wait to come see it! If not for that, I'd have stayed in Draenor to fight demons for another fifty years!"
 
-"I heard that Kardros' Anvil has been re-lit." The high thane looked at Korialstrasz. "And there's a group of Thorium Brotherhood dark irons poking around inside. I need to go see what that's about!"
+"I heard that Khardros' Anvil has been re-lit." The high thane looked at Korialstrasz. "And there's a group of Thorium Brotherhood Dark Irons poking around inside. I need to go see what that's about!"
 
 Korialstrasz transformed in a burst of flame into a red-robed elven mage with short hair, a dark red staff materializing in his hand amid a swirl of wind.
 
@@ -26,13 +26,13 @@ The Wildhammers followed the red dragon mage cheerfully toward the towering ruin
 
 "It has to do with me, Your Majesty." Vereesa stepped forward. She gave an embarrassed smile. "I'd like to ask you to help me contact Queen Ysera."
 
-Beside them, Sora, who was still chatting with Needleflame, looked over at the mention of Ysera's name. But she seemed to understand what Vereesa was planning.
+Beside them, Sola, who was still chatting with Needleflame, looked over at the mention of Ysera's name. But she seemed to understand what Vereesa was planning.
 
 "This might be an unusual request." The ranger took a deep breath. "I want to learn natural magic, like a Kaldorei druid. I know very few non-Kaldorei have accessed the Emerald Dream these past ten thousand years, and that there are almost no female druids there. But the magic the Farstriders learn is largely connected to nature. I want to advance further in that direction."
 
 "Besides, the orc war is essentially over. My sister has returned to Quel'Thalas, and the Farstriders' defensive duties aren't as pressing. Well — that's all my business, nothing worth elaborating on."
 
-"You don't need to be so nervous, Vereesa." Alexstrasza's tone was gentle and steady. Her gaze flicked toward Jace. "In truth, ever since Somalliar declined the position of Dreamer of the Dream, Ysera has been looking for a chance to properly thank you. You rescued Prince Eranikus, and you warned us of the Emerald Nightmare. Frankly speaking, part of the materials for the powerful Dream Bow Belanore were found by you yourselves... But Ysera doesn't know what you want, or what you need. So she's been pestering me for ideas in her sleep. That sleepyhead hates being in anyone's debt. Regardless, your request has solved a problem for me..."
+"You don't need to be so nervous, Vereesa." Alexstrasza's tone was gentle and steady. Her gaze flicked toward Jace. "In truth, ever since Somaelir declined the position of Dreamer of the Dream, Ysera has been looking for a chance to properly thank you. You rescued Prince Eranikus, and you warned us of the Emerald Nightmare. Frankly speaking, part of the materials for the powerful Dream Bow Belanur were found by you yourselves... But Ysera doesn't know what you want, or what you need. So she's been pestering me for ideas in her sleep. That sleepyhead hates being in anyone's debt. Regardless, your request has solved a problem for me..."
 
 "Really?" Vereesa practically jumped with excitement.
 
@@ -44,9 +44,9 @@ Beside them, Sora, who was still chatting with Needleflame, looked over at the m
 
 For all her outward composure, Vereesa had been privately fixated on that. She brought it up with Jace from time to time, both directly and indirectly.
 
-Especially after Morophil absorbed the power of the demon register — the ranger's competitive streak had only grown stronger.
+Especially after Morophil absorbed the power of the demon registry — the ranger's competitive streak had only grown stronger.
 
-Though after the Book of Evil Names was torn up, Vereesa hadn't been happy that Morophil lost that portion of her power. If anything, she was a little disappointed the challenge had been lowered. But expecting her to give up on a rematch was out of the question.
+Though after the Book of Fel Names was torn up, Vereesa hadn't been happy that Morophil lost that portion of her power. If anything, she was a little disappointed the challenge had been lowered. But expecting her to give up on a rematch was out of the question.
 
 "I understand, Your Majesty." Vereesa straightened and nodded, looking as confident as if she'd already mastered it.
 
@@ -54,13 +54,13 @@ Though after the Book of Evil Names was torn up, Vereesa hadn't been happy that 
 
 "Thank you, Your Majesty," the ranger said.
 
-"Please give my regards to Queen Ysera as well, Your Majesty," Sora said.
+"Please give my regards to Queen Ysera as well, Your Majesty," Sola said.
 
-The red dragon queen slowly lowered her head onto the grassy flower bed, squinting as she looked at the little green dragon. "Of course, Somalliar."
+The red dragon queen slowly lowered her head onto the grassy flower bed, squinting as she looked at the little green dragon. "Of course, Somaelir."
 
-It was clear that Sora wasn't the only one in awe of her — the red dragon queen also had a fondness for this solitary green dragon. But then, who wouldn't like a kind, gentle child? Especially one brave enough to have thrown off the nightmare's corruption.
+It was clear that Sola wasn't the only one in awe of her — the red dragon queen also had a fondness for this solitary green dragon. But then, who wouldn't like a kind, gentle child? Especially one brave enough to have thrown off the nightmare's corruption.
 
-With Vereesa's matter settled, Jace followed a red dragon into Grim Batol, heading toward Kardros' Anvil.
+With Vereesa's matter settled, Jace followed a red dragon into Grim Batol, heading toward Khardros' Anvil.
 
 Before he'd even reached the depths, he could hear the dwarves' laughter echoing from inside. From the fragments of conversation drifting out, the Wildhammers and Dark Irons were already discussing how to join forces with the Bronzebeards to overthrow Thaurissan's rule.
 
@@ -68,19 +68,19 @@ Was the forging of the Sulfuron Hammer really going so smoothly? Even the Wildha
 
 Then again, it didn't matter if Jace believed. What mattered was that the Three Hammers believed.
 
-Inside the black lava hall where Kardros' Anvil stood, the light of molten rock alone was enough to illuminate the space. A group of dwarves were huddled nearby, talking excitedly.
+Inside the black lava hall where Khardros' Anvil stood, the light of molten rock alone was enough to illuminate the space. A group of dwarves were huddled nearby, talking excitedly.
 
-When Jace approached, Bormnert, the master smith of the Thorium Brotherhood, shouted with excitement, "Jace Sesso! Thank you for your help... We are about to realize Master Lokhtos Darkbargainer's long-held dream — to forge the Firelord's hammer, Sulfuron, on Kardros' Anvil! Soon the Dark Irons will understand that Ragnaros the Firelord's power is not unshakeable, not beyond reach! It all starts here..."
+When Jace approached, Burninate, the master smith of the Thorium Brotherhood, shouted with excitement, "Jace Sesso! Thank you for your help... We are about to realize Master Lokhtos Darkbargainer's long-held dream — to forge the Firelord's hammer, Sulfuron, on Khardros' Anvil! Soon the Dark Irons will understand that Ragnaros the Firelord's power is not unshakeable, not beyond reach! It all starts here..."
 
-"If Kardros' Anvil can truly end the Firelord's reign..." Kurdran Wildhammer looked at Grede. "Then this is surely what Kardros Wildhammer himself would have wanted. If there's one person who can wield it, it would be momentous for Grim Batol and for all Three Hammers."
+"If Khardros' Anvil can truly end the Firelord's reign..." Kurdran Wildhammer looked at Grede. "Then this is surely what Khardros Wildhammer himself would have wanted. If there's one person who can wield it, it would be momentous for Grim Batol and for all Three Hammers."
 
 Grede nodded but said nothing. He just stared at the anvil behind them, as if already mentally preparing to shoulder that responsibility.
 
 "I'm just a messenger for Master Lokhtos, everyone." Jace said. "But are the materials for the Sulfuron Hammer really all gathered? I remember when I was here last, there was still a long way to go."
 
-"It's enough, Master Jace Sesso." Bormnert nodded. "Enough to forge the legendary thing... The failure last time wasn't because the materials weren't gathered. It was because we chose the wrong place and trusted the wrong people. This time, everything is ready. There are no problems from any angle. The main components — refined Dark Iron bars, transmuted Arcanite from Kalimdor, the most powerful Essence of Fire from Blackrock Mountain, Blood of the Mountain and Lava Cores collected near Molten Core, and most importantly — the Sulfuron Ingot. This strange elemental metal comes from the guardians of Molten Core — the molten giants born in the Firelands, where the Firelord rules. It is the key to forging the Firelord's hammer."
+"It's enough, Master Jace Sesso." Burninate nodded. "Enough to forge the legendary thing... The failure last time wasn't because the materials weren't gathered. It was because we chose the wrong place and trusted the wrong people. This time, everything is ready. There are no problems from any angle. The main components — refined Dark Iron bars, transmuted Arcanite from Kalimdor, the most powerful Essence of Fire from Blackrock Mountain, Blood of the Mountain and Lava Cores collected near Molten Core, and most importantly — the Sulfuron Ingot. This strange elemental metal comes from the guardians of Molten Core — the molten giants born in the Firelands, where the Firelord rules. It is the key to forging the Firelord's hammer."
 
-"See? We'll shatter the Firelord with his own power. This will completely overturn the faith of those fire-callers, those fire-demon worshipers!"
+"See? We'll shatter the Firelord with his own power. This will completely overturn the faith of those fire-callers, those fire-demon worshippers!"
 
 The materials the master smith listed were familiar to Jace. Nothing seemed off from the words alone.
 
@@ -90,13 +90,13 @@ Jace wasn't the only one with reservations. Korialstrasz seemed to feel it too. 
 
 "I agree," Jace nodded. "We shouldn't leave any regrets."
 
-Hearing this, the master smith hesitated. Kurdran Wildhammer, who had come up behind them, sensed something was off too. He stepped forward. "What's the problem, Master Bormnert? I thought we were at the final stage!"
+Hearing this, the master smith hesitated. Kurdran Wildhammer, who had come up behind them, sensed something was off too. He stepped forward. "What's the problem, Master Burninate? I thought we were at the final stage!"
 
 "To meet the Thorium Brotherhood's original plan from the early days... we're short one Sulfuron Ingot," another brotherhood smith said.
 
-Bormnert, seeing his apprentice had already let it slip, admitted, "The remaining molten giants are either in Shadowforge City, guarding Dark Iron-controlled excavation sites, or inside Molten Core. The Thorium Brotherhood doesn't have the means to attack them. As for the molten giants defeated by the Bronzebeards or the Blackrock orcs, we've already recovered everything we could. The current plan has been improved by the brotherhood's masters to work with what we have. It will still produce a powerful enough Sulfuron warhammer, High Thane Kurdran."
+Burninate, seeing his apprentice had already let it slip, admitted, "The remaining molten giants are either in Shadowforge City, guarding Dark Iron-controlled excavation sites, or inside Molten Core. The Thorium Brotherhood doesn't have the means to attack them. As for the molten giants defeated by the Bronzebeards or the Blackrock orcs, we've already recovered everything we could. The current plan has been improved by the brotherhood's masters to work with what we have. It will still produce a powerful enough Sulfuron warhammer, High Thane Kurdran."
 
-"So there's a molten giant at an excavation site?" Kurdran asked. "You mean the Dark Iron dig site north of Blackrock Mountain — the 'Great Crucible'?"
+"So there's a molten giant at an excavation site?" Kurdran asked. "You mean the Dark Iron dig site north of Blackrock Mountain — the Cauldron?"
 
 "Yes," the master smith said. "In the valley south of our watchtower."
 

@@ -2,7 +2,7 @@
 
 After a few days, the Shadow Labyrinth had more or less returned to its previous calm.
 
-Though the old leader Vopiel had been killed, Murmur's banishment also removed the ticking time bomb that had been hanging over every orc's head. Now they could focus their energy on building the portal and preparing its power source.
+Though the old leader Vorpil had been killed, Murmur's banishment also removed the ticking time bomb that had been hanging over every orc's head. Now they could focus their energy on building the portal and preparing its power source.
 
 Once the most sensitive and tense few days had passed — with Sabellian and Needleflame helping to handle some "rumors that shouldn't be circulating" about the Screaming Hall chaos — Jace was able to sneak out again at night when no one was watching.
 
@@ -16,7 +16,7 @@ And this was bringing its master an unavoidable influence. Every day, Jace felt 
 
 Once, when he entered the Pulpit, he could clearly read every orc present — warlock and soldier, male and female. Their fear, desire, rage — all laid bare before him.
 
-Including, of course, some people's dissatisfaction and suspicion toward him, their shock at Vopiel's death, and that hollow sense of loss after Murmur was banished...
+Including, of course, some people's dissatisfaction and suspicion toward him, their shock at Vorpil's death, and that hollow sense of loss after Murmur was banished...
 
 At that moment, it seemed the only thing preventing him from strangling these dissatisfied people was Sabellian's disguise magic — fragile enough to be shattered by a spell. It felt like only sacrificing the entire expedition's path back to Azeroth, undoing months of everyone's effort at such a tremendous cost, could stop him from slaughtering these orcs like beasts.
 
@@ -40,37 +40,39 @@ Sometimes he thought it would be nice if this staff and the Scepter of Sargeras 
 
 But no one had ever walked away from Ulthalesh alive. He knew that very well.
 
-In the hidden chamber where the communication ritual array was concealed, Morofel had already prepared the circle.
+In the hidden chamber where the communication ritual array was concealed, Morophil had already prepared the circle.
 
-"Some in the cult have noticed you're different, Morofel," Jace instructed. "Don't try to enter the Arcane Sanctum anymore."
+"Some in the cult have noticed you're different, Morophil," Jace instructed. "Don't try to enter the Arcane Sanctum anymore."
 
-"It's not arrogance, master." Morofel lifted her chin slightly. "None of the Shadow Council's current members are worth my personal attention... So I look forward to the day the portal opens, so I can face real enemies at the Throne of Kil'jaeden."
+"It's not arrogance, master." Morophil lifted her chin slightly. "None of the Shadow Council's current members are worth my personal attention... So I look forward to the day the portal opens, so I can face real enemies at the Throne of Kil'jaeden."
 
 Jace watched her for a moment. "Yes. Real enemies. I'll take you there."
 
 "I can't wait, darling." The succubus inclined her head.
 
-Jace snapped his fingers. The array burst into flames. The incantation had barely finished — he hadn't even closed his eyes to properly feel the void bridge built through the demonic pact — when he sensed Kalrez was already about to respond.
+Jace snapped his fingers. The array burst into flames. The incantation had barely finished — he hadn't even closed his eyes to properly feel the void bridge built through the demonic pact — when he sensed Kallrez was already about to respond.
 
-Even Morofel's eyes widened in surprise. She looked at Ulthalesh set aside, then at her master, unable to stop herself from licking the corner of her mouth with her long purple tongue.
+Even Morophil's eyes widened in surprise. She looked at Ulthalesh set aside, then at her master, unable to stop herself from licking the corner of her mouth with her long purple tongue.
 
 "Master? You feel... different." The voice came from the other side.
 
-"Maybe it's the confidence from eliminating an otherworldly evil god." Jace spoke in Demonic to the other side of the array. "Has Master Khadgar returned, Lord Kalrez? Tell him the last trouble in Auchindoun — Murmur — has been dealt with. I'm hoping to hear some good news from the other side."
+"Maybe it's the confidence from eliminating an otherworldly evil god." Jace spoke in Demonic to the other side of the array. "Has Master Khadgar returned, Lord Kallrez? Tell him the last trouble in Auchindoun — Murmur — has been dealt with. I'm hoping to hear some good news from the other side."
 
-"He's back." Kalrez said. "But he says he's not particularly in the mood to celebrate your great victory."
+"He's back." Kallrez said. "But he says he's not particularly in the mood to celebrate your great victory."
 
 "She refused?" Jace asked.
 
 "Quite the opposite. She agreed." The demon said.
 
-Jace's heart thumped. So Aegwynn really had come to the Kingdom of Stormwind. "Is there anyone else in the tower?" Jace asked.
+Jace's heart thumped. So Aegwynn really had come to the Kingdom of Stormwind.
 
-"No." Kalrez said. "All the Kirin Tor record-keepers here — including Amy Marin — have gone to Stonewatch to organize the ethereal spells you sent over. They have to accurately transcribe everything into a new enchanted codex by tonight. Khadgar will take it to Karazhan and give it to Aegwynn."
+"Is there anyone else in the tower?" Jace asked.
 
-Kalrez was silent on the other end for a long moment before continuing. "Khadgar told me she lives in what looks like a decent hilltop cottage. No cover around it. Almost no trace of magic detectable either. But Khadgar had to search for a while before he finally spotted the place..."
+"No." Kallrez said. "All the Kirin Tor record-keepers here — including Amy Malin — have gone to Stonewatch to organize the ethereal spells you sent over. They have to accurately transcribe everything into a new enchanted codex by tonight. Khadgar will take it to Karazhan and give it to Aegwynn."
 
-"She wanted to know how Khadgar found this place. Though he didn't intend to reveal anything about you — he wanted to shift the blame to some dead Tirisfal Council member — Aegwynn guessed quickly anyway."
+Kallrez was silent on the other end for a long moment before continuing. "Khadgar told me she lives in what looks like a decent hilltop cottage. No cover around it. Almost no trace of magic detectable either. But Khadgar had to search for a while before he finally spotted the place..."
+
+"She wanted to know how Khadgar found this place. Though he didn't intend to reveal anything about you — he wanted to shift the blame to some dead Order of Tirisfal member — Aegwynn guessed quickly anyway."
 
 "I'm not surprised." Jace said. "She hasn't seen many outsiders recently. Our intrusion caught her off guard."
 
@@ -84,7 +86,7 @@ Kalrez was silent on the other end for a long moment before continuing. "Khadgar
 
 There was silence on the other end. Jace suddenly realized — was Khadgar walking in on Aegwynn trying to resurrect her son Medivh?
 
-Resurrecting Medivh was no simple magic. Not a ritual you could complete by chanting some spell and expending some mana. Even Alexstrasza, the Queen of Life, couldn't fully resurrect someone thoroughly dead... It must be a long, painful process.
+Resurrecting Medivh was no simple magic. Not a ritual you could complete by chanting some spell and expending some mana. Even Alexstrasza, the Life-Binder, couldn't fully resurrect someone thoroughly dead... It must be a long, painful process.
 
 "Did he detect her researching some dark magic?" Jace asked.
 
@@ -96,7 +98,7 @@ Resurrecting Medivh was no simple magic. Not a ritual you could complete by chan
 
 "She didn't impose any conditions?"
 
-Kalrez said, "No. The only condition she gave was that she'd move to another location, and if she met any mage in the future, she'd kill them on sight. Whoever died, it would be Khadgar's fault for not stopping her in time. Khadgar thought that was fair, so he agreed."
+Kallrez said, "No. The only condition she gave was that she'd move to another location, and if she met any mage in the future, she'd kill them on sight. Whoever died, it would be Khadgar's fault for not stopping her in time. Khadgar thought that was fair, so he agreed."
 
 "Alright." Jace said, wiping his sweat-damp forehead.
 

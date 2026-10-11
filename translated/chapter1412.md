@@ -1,52 +1,52 @@
 ## Chapter 1412: Is This Help or Thanks?
 
-Mornings at the Tower of Ilgala felt like being back in Draenor — groggy and disoriented. Jace sat up in bed, hand pressed to his forehead, feeling a dull ache all over his body, like he'd just crawled back from the Throne of Kil'jaeden to Stormwind all over again.
+Mornings at the Tower of Ilgalar felt like being back in Draenor — groggy and disoriented. Jace sat up in bed, hand pressed to his forehead, feeling a dull ache all over his body, like he'd just crawled back from the Throne of Kil'jaeden to Stormwind all over again.
 
 Mana drained. Exhausted. Fresh from surviving the flames.
 
 "Good morning, master."
 
-A clatter of hooves came up the stairs from below. Morofil peeked her head over the railing to check on Jace, then climbed fully up the stairs, leaning against the banister. She gave her wings a small stretch and flicked her long tail.
+A clatter of hooves came up the stairs from below. Morophil peeked her head over the railing to check on Jace, then climbed fully up the stairs, leaning against the banister. She gave her wings a small stretch and flicked her long tail.
 
-"How are you feeling, Morofil?" Jace asked, still rubbing his forehead.
+"How are you feeling, Morophil?" Jace asked, still rubbing his forehead.
 
 "Shouldn't I be asking you that?" The demon smirked. "You looked pretty worn out yesterday, master. Could it be that the severe weakness from tearing the Book of Fel Names still hasn't faded?"
 
 "Definitely," Jace said firmly. "But what about you? Weren't you badly hurt?"
 
-Morofil lifted her neck happily. "When I was on Draenor, I felt the Book of Fel Names being torn apart... I was a bit worried that the Burning Legion demons who survived the Throne of Kil'jaeden's collapse would take the chance to jump me while I was weak and rip me apart. I couldn't let them have that opportunity. But fortunately, you summoned me quickly. Before they even realized what was happening, I was already back at your side. As for now — thanks to your 'sacrifice,' my dear — I've recovered from the severe weakness. I'm much stronger now than before I absorbed that grimoire. More importantly, my soul has returned to wholeness. All thanks to Brutaulus's generous donation!"
+Morophil lifted her neck happily. "When I was on Draenor, I felt the Book of Fel Names being torn apart... I was a bit worried that the Burning Legion demons who survived the Throne of Kil'jaeden's collapse would take the chance to jump me while I was weak and rip me apart. I couldn't let them have that opportunity. But fortunately, you summoned me quickly. Before they even realized what was happening, I was already back at your side. As for now — thanks to your 'sacrifice,' my dear — I've recovered from the severe weakness. I'm much stronger now than before I absorbed that grimoire. More importantly, my soul has returned to wholeness. All thanks to Brutallus's generous donation!"
 
 "You don't seem too bothered about losing the soul power," Jace said. "Honestly, I still think it's a bit of a waste. If there were another way..."
 
-"Because strictly speaking, it was never yours or mine, my good master." The succubus lowered her voice. "It was only mana we borrowed from the demon roster. Why do you think Lord Batas guarded the demon roster without ever absorbing it? Because he knew he couldn't hold onto that power forever. Likewise, I don't like having something that could be taken away at any moment. It's better to be rid of it."
+"Because strictly speaking, it was never yours or mine, my good master." The succubus lowered her voice. "It was only mana we borrowed from the demon registry. Why do you think Lord Batas guarded the demon registry without ever absorbing it? Because he knew he couldn't hold onto that power forever. Likewise, I don't like having something that could be taken away at any moment. It's better to be rid of it."
 
-"But when you faced Brutaulus, you seemed pretty happy to have that extra power," Jace teased.
+"But when you faced Brutallus, you seemed pretty happy to have that extra power," Jace teased.
 
-"Because Brutaulus didn't have the ability to burn that grimoire!" Morofil laughed and raised a hand. "Besides, that was a stupid and filthy creature. I didn't mind borrowing a bit of power to crush him! I'd been thinking and scheming about how to kill that bastard for who knows how long. Was I supposed to give up that chance out of pride or dignity? In hindsight, he was tougher than I'd expected. Without the grimoire, I really couldn't have beaten him. But seeing that head of his hanging there with that dumb expression — that alone was satisfying enough. I don't really care about the rest."
+"Because Brutallus didn't have the ability to burn that grimoire!" Morophil laughed and raised a hand. "Besides, that was a stupid and filthy creature. I didn't mind borrowing a bit of power to crush him! I'd been thinking and scheming about how to kill that bastard for who knows how long. Was I supposed to give up that chance out of pride or dignity? In hindsight, he was tougher than I'd expected. Without the grimoire, I really couldn't have beaten him. But seeing that head of his hanging there with that dumb expression — that alone was satisfying enough. I don't really care about the rest."
 
-"But as long as I can spread my wings freely before you," she leaned closer, "as long as I can return to your side and gain the rights that even those low, vile Succubi have — that's more important than anything."
+"But as long as I can spread my wings freely before you," she leaned closer, "as long as I can return to your side and gain the rights that even those low, vile succubi have — that's more important than anything."
 
 "I'm glad you came back too," Jace said with a smile. "That's all I ever wanted."
 
-With that, the succubus brushed her lips against Jace's. He blinked, a little taken aback. He wasn't used to this — it felt different from before. Maybe it was because her soul had been made whole. The tearing of the grimoire hadn't ripped away the shadow power Jace had drawn from that netherwing, nor had it taken the power Ulthalesh had drained from Momor's soul and fed back to him. He still had a much sharper perception of shadow and emotion than before — especially noticeable when sensing Morofil, a powerful succubus.
+With that, the succubus brushed her lips against Jace's. He blinked, a little taken aback. He wasn't used to this — it felt different from before. Maybe it was because her soul had been made whole. The tearing of the grimoire hadn't ripped away the shadow power Jace had drawn from that nether dragon, nor had it taken the power Ulthalesh had drained from Murmur's soul and fed back to him. He still had a much sharper perception of shadow and emotion than before — especially noticeable when sensing Morophil, a powerful succubus.
 
-Or maybe it was just that this heightened perception and Morofil's diminished power created a contrast that made the difference obvious.
+Or maybe it was just that this heightened perception and Morophil's diminished power created a contrast that made the difference obvious.
 
-"I'm glad you're back too, Lady Morofil!" Sazeno chimed in from the side with a flattering smile. "But could you please not hang me from your wings anymore?"
+"I'm glad you're back too, Lady Morophil!" Sazeno chimed in from the side with a flattering smile. "But could you please not hang me from your wings anymore?"
 
-"Ah, Master Sazeno! Haven't you noticed? You're much more polite than before!" Morofil's tail swished back and forth as she stared at the imp. "The treatment is working! I'll have to continue."
+"Ah, Master Sazeno! Haven't you noticed? You're much more polite than before!" Morophil's tail swished back and forth as she stared at the imp. "The treatment is working! I'll have to continue."
 
 "Damn it!" The imp's head burst into flames from frustration, but he immediately suppressed his outburst. It seemed the succubus's wings really did put the fear in him.
 
-Morofil was about to say something else when she suddenly looked out the window with alertness. Jace felt it too and followed her gaze.
+Morophil was about to say something else when she suddenly looked out the window with alertness. Jace felt it too and followed her gaze.
 
 "It's not Vereesa coming back early, is it?" Jace said, grabbing his cloak.
 
-"You look adorable like that." Morofil chuckled as she walked to the window and glanced out. "Unfortunately, it's Khadgar."
+"You look adorable like that." Morophil chuckled as she walked to the window and glanced out. "Unfortunately, it's Khadgar."
 
 "Why hasn't he left yet?" Jace said. "I already gave him back the grimoire."
 
-Morofil shook her head. Jace sighed, threw on a few pieces of clothing, and jogged down to the base of the tower. Khadgar turned around, hesitating.
+Morophil shook her head. Jace sighed, threw on a few pieces of clothing, and jogged down to the base of the tower. Khadgar turned around, hesitating.
 
 "I was wondering if I'd come too early. Especially considering you probably had a lot to deal with last night."
 
@@ -82,7 +82,7 @@ He chuckled twice. "But that's not a loss for you, Jace. At least it means one l
 
 The archmage was practically glowing with enthusiasm. To Jace, he looked exactly like one of those shady older cousins trying to convince a younger kid to join him in some mischief.
 
-Jace had been to Karazhan in the game. The ghosts of mana, the enraged statues, the reanimated armor, the undying servants, the chaotic theater... not to mention the arcane golems guarding the magical tomes in the Great Library. From his past experience, this would only be more dangerous here, more deadly.
+Jace had been to Karazhan in the game. The mana wraiths, the enraged statues, the reanimated armor, the undying servants, the chaotic theater... not to mention the arcane golems guarding the magical tomes in the Great Library. From his past experience, this would only be more dangerous here, more deadly.
 
 But the man standing before him was Khadgar himself. Back when Jace had entered Karazhan, he'd never had someone like this by his side — only a bunch of uncooperative slackers.
 

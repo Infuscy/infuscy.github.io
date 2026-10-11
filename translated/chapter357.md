@@ -6,19 +6,19 @@ Menethil Harbor was actually a small island, connected to the mainland by a long
 
 Jace remembered that in the game, this road was paved with stone — but clearly that hadn't happened yet. After all, Menethil Harbor was still just a hastily built military port. The war had only just ended; there hadn't been time to extend the infrastructure this far.
 
-Just as the "elf" mage had said, they kept running into Bronzebeard cavalry mounted on goats along the way.
+Just as the "elf" mage had said, they kept running into Bronzebeard cavalry mounted on rams along the way.
 
-These goats were far larger than any Jace remembered, but still stood quite a bit shorter than horses — which, of course, suited the dwarves' stature perfectly.
+These rams were far larger than any Jace remembered, but still stood quite a bit shorter than horses — which, of course, suited the dwarves' stature perfectly.
 
-What impressed Jace even more was how incredibly sturdy these goats were. Thick fur all over, two coiled horns solid as a helmet.
+What impressed Jace even more was how incredibly sturdy these rams were. Thick fur all over, two coiled horns solid as a helmet.
 
-Unlike the Wildhammer clan, Bronzebeard dwarves favored heavy plate armor and shields. These goats had to be able to carry a stocky dwarf weighing eighty or ninety kilos, plus armor and weapons that were just as absurdly heavy — so being built tough wasn't optional.
+Unlike the Wildhammer clan, Bronzebeard dwarves favored heavy plate armor and shields. These rams had to be able to carry a stocky dwarf weighing eighty or ninety kilos, plus armor and weapons that were just as absurdly heavy — so being built tough wasn't optional.
 
-"Can these goats climb the Khaz Mountains?" Jace asked curiously.
+"Can these rams climb the Khaz Mountains?" Jace asked curiously.
 
-"Should be able to." Grede glanced south. "But the goats can handle it — whether the two of us can handle these snow mountains is another question. Those cliffs are just too dangerous."
+"Should be able to." Grede glanced south. "But the rams can handle it — whether the two of us can handle these snowy mountains is another question. Those cliffs are just too dangerous."
 
-"And even if you cross the mountains and reach Dun Morogh, you'd still have to head east to the shores of Loch Lake, and that's another long mountain road. Don't forget — it's the road through the Khaz snow mountains…"
+"And even if you cross the mountains and reach Dun Morogh, you'd still have to head east to the shores of the Loch, and that's another long mountain road. Don't forget — it's the road through the snowy mountains of Khaz Modan…"
 
 Jace followed Grede's gaze, but all he could see was a foggy haze.
 
@@ -30,7 +30,7 @@ But looking out over it, Jace couldn't tell where the ground ended and the mire 
 
 Strangely enough, though, after walking for a long while, he hadn't spotted a single living thing in the marsh.
 
-Let alone the gnolls, murlocs, or crocodiles that existed in the game — there weren't even any swamp beasts lumbering through the mire. Not a single bird would settle on the grass or the water; they only flew high overhead.
+Let alone the gnolls, murlocs, or crocolisks that existed in the game — there weren't even any bog beasts lumbering through the mire. Not a single bird would settle on the grass or the water; they only flew high overhead.
 
 All in all, this place was definitely not as quiet as it looked.
 
@@ -38,7 +38,7 @@ At dusk, they reached a fairly wide patch of dry ground, where the dwarves had b
 
 Those two Bronzebeards, however, seemed wary of Jace and Grede. They exchanged simple greetings and then turned in on their own. Jace had been hoping to ask about the road ahead, but seeing how little they wanted to talk, he let it go.
 
-That evening, Jace practiced the dimmed version of Mage Armor he'd copied out of Marin's book. The next morning, after some bread and dried meat, the two of them set out again.
+That evening, Jace practiced the dimmed version of Mage Armor he'd copied out of Malin's book. The next morning, after some bread and dried meat, the two of them set out again.
 
 As they walked, even the dirt road beneath their feet seemed to grow less distinct.
 
@@ -48,13 +48,13 @@ Just for a moment, he could've sworn there were a pair of eyes in the water, wat
 
 He blinked and looked again. The eyes were gone.
 
-"Are there crocodiles in the water here?" he asked Grede, who was walking ahead.
+"Are there crocolisks in the water here?" he asked Grede, who was walking ahead.
 
 "Few and far between in this stretch. More of them near Menethil Harbor, and further south on the road to Dun Algaz." Grede said. "You worried one's gonna lunge out and bite you?"
 
 "I thought something in the water was staring at me just now." Jace said. "Could there be something toxic around here — like poison-spitting mushrooms, hallucinogenic spores, something like that — giving me visions?"
 
-"Your imagination's running away with you." Grede laughed. "Still, best keep your distance from the water. Even if there aren't crocodiles, there could be murlocs, or Loch fish crazy enough to flop ashore and bite you, or toads with a mouth bigger than my face — tsk, tsk…"
+"Your imagination's running away with you." Grede laughed. "Still, best keep your distance from the water. Even if there aren't crocolisks, there could be murlocs, or Loch fish crazy enough to flop ashore and bite you, or toads with a mouth bigger than my face — tsk, tsk…"
 
 That was all well and good, but on this road you couldn't just keep your distance from the water whenever you pleased. Every so often you had to wade through a puddle, or cross a wooden bridge — and glance down from the bridge into a deep, black pool with a bottom you couldn't see.
 
@@ -74,11 +74,11 @@ Grede nodded, looked Jace up and down, and said, "Aren't you a mage? Don't you k
 
 "'Try again' — so can you actually do it or not?" Grede asked.
 
-"Stop talking and let me concentrate." Jace held out his hand. "Hand me one of your empty water skins."
+"Stop talking and let me concentrate." Jace held out his hand. "Hand me one of your empty waterskins."
 
-Grede passed the water skin over. Jace gave him a look, then cast Arcane Intellect on himself. "Watch closely!"
+Grede passed the waterskin over. Jace gave him a look, then cast Arcane Intellect on himself. "Watch closely!"
 
-The dwarf fixed an expectant, squinting stare on the water skin in Jace's hand. Jace licked his lips, held the skin open, pointed inside, and murmured, imitating Amy: "Wad, Tika, Kalt!"
+The dwarf fixed an expectant, squinting stare on the waterskin in Jace's hand. Jace licked his lips, held the skin open, pointed inside, and murmured, imitating Amy: "Vald, Tika, Kalt!"
 
 The skin exploded. A burst of pale-blue arcane fire shot upward, incinerating the fragments in an instant. Jace stood frozen in place, his hand still held out in the same gesture, but all that remained in his palm was a fine powder of deep-purple arcane residue.
 
@@ -90,22 +90,14 @@ Grede asked hesitantly, "What kind of spell was that?"
 
 "This… is… a failed spell."
 
-Grede gritted his teeth. "My water skin!"
+Grede gritted his teeth. "My waterskin!"
 
 "You've got plenty more…"
 
-"How did the Wizard Sanctum even make you an apprentice mage?"
+"How did the Wizard's Sanctum even make you an apprentice mage?"
 
 "I… an apprentice mage doesn't necessarily have to learn Conjure Water…"
 
 "Was that supposed to be Conjure Water?"
 
 "Mm…"
-
-## Flags
-- **POV:** Third person, Jace.
-- **Names:** 艾米 → Amy (Amy Marin, per glossary).
-- **Places:** 米奈希尔港 → Menethil Harbor, 卡兹山 → Khaz Mountains, 丹莫罗 → Dun Morogh, 洛克湖 → Loch Lake, 丹奥加兹 → Dun Algaz (source typo 丹奥加教 corrected).
-- **Lore terms:** 蛮锤氏族 → Wildhammer clan, 铜须骑兵 → Bronzebeard cavalry, 法师护甲 → Mage Armor, 奥术智慧 → Arcane Intellect, 造水术 → Conjure Water, 火盆石座 → stone fire-pit.
-- **Incantation:** "瓦德，提卡，卡尔特！" → "Wad, Tika, Kalt!" (phonetic rendering of the verbal components for a water/ice conjuring spell).
-- **Tone note:** The Conjure Water gag lands as a beat of slapstick — Jace's deadpan "failed spell" line mirrors the source's comedic timing.

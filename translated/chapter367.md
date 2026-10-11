@@ -16,7 +16,7 @@ He and the two dwarves crouched on a high slope, peering from a distance. The Da
 
 "Maybe they think it'll come back," Jace said.
 
-Daggett said, "Feels like there are fewer people here than the last time I came. Even if they're not worried about the black dragon, they're probably concerned about the orcs in the badlands. But we don't need to go in through the front, either. The troggs trying to get out of the ruins dug a lot of passages over the years. Two of them were modified by the Explorers' League — one leads fairly deep and is quite hidden. The other is more obvious and should've been easy for the Dark Iron to find."
+Daggett said, "Feels like there are fewer people here than the last time I came. Even if they're not worried about the black dragon, they're probably concerned about the orcs in the Badlands. But we don't need to go in through the front, either. The troggs trying to get out of the ruins dug a lot of passages over the years. Two of them were modified by the Explorers' League — one leads fairly deep and is quite hidden. The other is more obvious and should've been easy for the Dark Iron to find."
 
 "Can that back way get us past the Dark Iron dwarves?" Jace asked.
 
@@ -36,7 +36,7 @@ Jace looked at the Bronzebeard dwarf. "When you left back then, how far had you 
 
 Daggett answered, "We found the location of the great gate. We hadn't had time to go deeper before we ran into the troggs. Those troggs acted like they'd been living in there from the start — no idea if they built this temple, or if they're servants of the Creators."
 
-"Servants of the gods," Grede said. "You mean those stone giants, like the ones standing around the Iron Ring excavation site?"
+"Servants of the gods," Grede said. "You mean those stone giants, like the ones standing around Ironband's Excavation Site?"
 
 Daggett said, "I'm not sure, but with those enormous statues everywhere, you can't rule it out. I'd genuinely love to see a living stone giant someday — and I don't mean a mountain giant, mind you. I have no interest in running into one of those."
 
@@ -50,7 +50,7 @@ Jace and Grede kept watch outside, debating how they might find an opening to sl
 
 The two of them hurried over and found Daggett standing beside an entrance that looked like a well, holding its cover in place.
 
-Walking up and looking down, they saw a iron ladder leading straight into the dark shadows below.
+Walking up and looking down, they saw an iron ladder leading straight into the dark shadows below.
 
 Though no sound came from within, if the Dark Iron dwarves hadn't found this place, it should still be safe inside.
 
@@ -62,7 +62,7 @@ Daggett nodded. "This passage does collapse easily, but I know where the problem
 
 The three of them climbed down the ladder, moved through a narrow hewn tunnel, and reached the pitch-black bottom, stepping on soft sand. With only the faint light from the well opening above, they could make out very little of the cramped space.
 
-Jace drew Skysong, and Arcane Brilliance lit the area — revealing the skeletons of two dwarves lying in the small room.
+Jace drew Azuresong, and its arcane radiance lit the area — revealing the skeletons of two dwarves lying in the small room.
 
 The Bronzebeard dwarf led the two through a dead-end passage, stopped before a pile of rubble, and said, "Let's move these stones together."
 
@@ -80,22 +80,14 @@ Daggett said, "Move this bigger one and we should be able to squeeze through. I 
 
 "A few times," Grede nodded. "But the last time was a long, long time ago."
 
-Daggett said, "I drank them all the time before I joined the Iron Ring excavation. If I remember right, once you drink it, you basically can't see a thing."
+Daggett said, "I drank them all the time before I joined the Ironband excavation. If I remember right, once you drink it, you basically can't see a thing."
 
 "Can't see a thing?" Grede muttered. "I think I could still make out some stuff."
 
 "Close enough," Jace said. "I suppose I'm the least experienced here — I've only had it once. But as long as you memorize the terrain in advance... you just push past the dangerous stretches."
 
-Jace and Grede nodded. They helped Daggett slowly shove aside a large boulder below, opening a gap just big enough for a dwarf to squeeze through, and Daggett began to inch his way in.
+The two dwarves nodded. Jace and Grede helped Daggett slowly shove aside a large boulder below, opening a gap just big enough for a dwarf to squeeze through, and Daggett began to inch his way in.
 
 Jace stole a glance outside, watching Daggett's shadow slowly move away. There was no reaction out there. Then he heard the faint sound of dwarven voices in the distance, though he couldn't make out the words.
 
 After a while, Daggett came back and waved them over. "Most of them are busy organizing the stuff they hauled in outside. Let's move while we can."
-
-## Flags
-
-- **Chapter title**: 挖掘场 — "The Excavation Site" (lit. "Excavation Ground").
-- **Key terms**: 奥达曼 = Uldaman (canon Titan facility), 黑铁矮人 = Dark Iron dwarves (canon), 穴居人 = troggs (canon), 探险者协会 = the Explorers' League (canon), 铁环挖掘场 = the Iron Ring excavation site (fanfic location), 碧空之歌 = Skysong (Jace's sword, fanfic OC name), 奥术光辉 = Arcane Brilliance (canon mage spell), 隐形药水 = Invisibility Potion (canon), 石腭怪 = troggs (canon, alternate term used later).
-- **Characters**: 达葛特 = Daggett (OC Bronzebeard dwarf, Explorers' League member), 格瑞德 = Grede (canon per glossary).
-- **Lore note**: Daggett references the "Creators" (创造者) — the Titans — and the possibility that troggs are their servants. The "stone giants" Grede mentions are likely Earthen or similar Titan-forged constructs.
-- **Tone note**: Grede's sleepiness and dry complaints kept in character; the tension of scouting the Dark Iron excavation site rendered with a quiet, procedural feel.

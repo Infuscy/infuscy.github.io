@@ -10,7 +10,7 @@ As he spoke, he hefted the war hammer from his luggage. "Now I'm itching to help
 
 "Who agreed to that?"
 
-The dwarf swung the hammer and hurled it before Jace could blink. Jace caught it from the corner of his eye and immediately started chanting, "Tomuso... suowhat..."
+The dwarf swung the hammer and hurled it before Jace could blink. Jace caught it from the corner of his eye and immediately started chanting, "Tomtho... what was it..."
 
 Before he could recall the next word, the hammer was already spinning toward him!
 
@@ -20,13 +20,13 @@ But it was still a hammer. Jace ducked. He'd barely lifted his head when the ham
 
 For a moment he could hear the wind howling around him, the dark green forest swaying under the moonlight in the afterglow of the hammer's lightning.
 
-Tomusogas, Veholissia... Jace muttered the incantation to himself. Grede's hammer was already whirling again in his grip.
+Tomthokas, Veholisha... Jace muttered the incantation to himself. Grede's hammer was already whirling again in his grip.
 
 "Wait, Grede, slow down!"
 
 The dwarf completely ignored his protest and flung the hammer sideways. It flew in a flat spin, carving a curve through the air, the shock wave bending the tall grass flat in its path...
 
-Jace still had a sword in his hand. No time for a chant, let alone a gesture — he could only leap aside. He watched the hammer sail past him, another burst of lightning flashing as it grazed his waist and rocketed back toward the dwarf like a cannonball.
+Jace still had a sword in his hand. No time for a chant, let alone a gesture — he could only leap aside. He watched the hammer sail past him, another burst of lightning flashing as it grazed his side and rocketed back toward the dwarf like a cannonball.
 
 Grede was trying to force him, through round after round of this kind of sparring, to drill the Shadow Shield into muscle memory — the kind that could block an incoming attack.
 
@@ -44,17 +44,17 @@ Grede burst out laughing. "Barely lasted a second!"
 
 Jace shot a sidelong glare at him. The dwarf kept summoning the hammer back with his thunderous energy as if it cost him nothing. Even now his breathing was even, his eyes steady, not a trace of fatigue.
 
-No doubt about it — Grede hadn't spent the last two months just sightseeing in Ironforge. He'd trekked the shores of Loch Modan and the snowcapped peaks of Dun Morogh, and he must gone through battle after battle, ordeal after ordeal, all while gradually readjusting to his old rhythm and getting back to his former self.
+No doubt about it — Grede hadn't spent the last two months just sightseeing in Ironforge. He'd trekked the shores of Loch Modan and the snowcapped peaks of Dun Morogh, and he must have gone through battle after battle, ordeal after ordeal, all while gradually readjusting to his old rhythm and getting back to his former self.
 
 But Jace had his own handicap.
 
-When he'd practiced this Shadow Shield spell before, he'd always used both hands to cast. Now, with a sword in one hand — even if it was the Song of the Blue Sky — he couldn't quite get the gestures right.
+When he'd practiced this Shadow Shield spell before, he'd always used both hands to cast. Now, with a sword in one hand — even if it was Azuresong — he couldn't quite get the gestures right.
 
 "From the look on your face, you about to run dry?" Grede called out.
 
 "What a joke."
 
-Jace said it as he hurled the Song of the Blue Sky to the side. The blade plunged into the earth with a dull, low hum, its arcane glow dimming bit by bit until it merged with the moonlight.
+Jace said it as he hurled Azuresong to the side. The blade plunged into the earth with a dull, low hum, its arcane glow dimming bit by bit until it merged with the moonlight.
 
 "Again!" he shouted.
 
@@ -92,7 +92,7 @@ Jace said, "If that hadn't worked, my brains would have been splattered."
 
 "But this is a flying hammer we're talking about." Grede said. "If it were a sword instead, you still wouldn't make it in time. And I think you ought to figure out how to cast that protection spell while holding the pretty toy Vereesa gave you."
 
-"I still need to practice. One step at a time." Jace glanced at the Song of the Blue Sky. The sword flew straight back into his hand and settled firmly into his grip. He slid it back into its sheath without thinking.
+"I still need to practice. One step at a time." Jace glanced at Azuresong. The sword flew straight back into his hand and settled firmly into his grip. He slid it back into its sheath without thinking.
 
 Grede stared at that, dumbfounded.
 

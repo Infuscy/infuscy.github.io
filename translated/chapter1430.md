@@ -4,7 +4,7 @@ Knock knock knock.
 
 Jace knocked on the door. No answer.
 
-It was raining outside. The Mage Quarter looked hazy through the window. Had Master Marin taken her to the Sanctum tower at this hour?
+It was raining outside. The Mage Quarter looked hazy through the window. Had Master Malin taken her to the Sanctum tower at this hour?
 
 Just as he was wondering whether to knock again, the door swung open with a bang.
 
@@ -12,7 +12,7 @@ A fierce-looking girl glared at him with dark yellow eyes that were downright un
 
 Jace glanced past her into the room. "Didn't expect a little thing raised in a cave to keep a human's room so tidy."
 
-"Sister Sora cleaned it for me," Needleflame said. "What do you want?"
+"Sister Sola cleaned it for me," Needleflame said. "What do you want?"
 
 "Ah. I came to apologize." Jace pulled a crab cake from behind his back. "Try this first."
 
@@ -62,19 +62,19 @@ Raindrops kept pattering against his red dragonhide hood. Everything around them
 
 He liked this blank stretch of time. When he didn't have to think about anything, didn't have to worry about anything.
 
-He didn't even need to worry about the fish. Two broken staves he'd borrowed from Master Marin, a couple of silk threads Master Marin had temporarily enchanted with Arcane Toughness, quills tied on as floats, bugs dug up from the garden around the Sanctum tower during the rain...
+He didn't even need to worry about the fish. Two broken staves he'd borrowed from Master Malin, a couple of silk threads Master Malin had temporarily enchanted with Arcane Toughness, quills tied on as floats, bugs dug up from the garden around the Sanctum tower during the rain...
 
 A complete set of gear cobbled together on a whim. He hadn't actually expected to catch anything.
 
 But Needleflame didn't see it that way at all. She stared at the quill floating on the river without moving, occasionally observing the other fishermen in the distance, then adjusting her sitting position, as if that would somehow increase her chances.
 
-"Ever heard of the Stormwind sewer crocodile?" Jace asked.
+"Ever heard of the Stormwind sewer crocolisk?" Jace asked.
 
 "No," Needleflame said.
 
-"A terrifying legend passed down among the citizens." Jace said. "They say there's a giant crocodile in these canals... Of course, not as terrifying as the black dragon in the Mage Quarter."
+"A terrifying legend passed down among the citizens." Jace said. "They say there's a giant crocolisk in these canals... Of course, not as terrifying as the black dragon in the Mage Quarter."
 
-Needleflame narrowed her eyes unhappily. Jace coughed. "The black dragon in the Mage Quarter doesn't eat people. But according to the legend, this crocodile really does. If you caught it, King Varian might even knight you."
+Needleflame narrowed her eyes unhappily. Jace coughed. "The black dragon in the Mage Quarter doesn't eat people. But according to the legend, this crocolisk really does. If you caught it, King Varian might even knight you."
 
 "Is a knight of the Kingdom of Stormwind more powerful than Protector of Tyr?" Needleflame asked.
 
@@ -132,9 +132,9 @@ Though it was hard to imagine what Sabellian would look like happy because his d
 
 Still a bit rough, but she had that Dark Iron rasp down — that unique quality of creatures who lived surrounded by lava and ash.
 
-"Who taught you Dwarvish?" Jace asked, surprised. "Sora? Will Sora let you go to Shadowforge City?"
+"Who taught you Dwarvish?" Jace asked, surprised. "Sola? Will Sola let you go to Shadowforge City?"
 
-"Not her. Master Marin taught me. What do you think?" Needleflame showed off. "He said I learn very fast, very well — the fastest student he's ever seen learning languages. How could he compare mortals to me? Hmph!"
+"Not her. Master Malin taught me. What do you think?" Needleflame showed off. "He said I learn very fast, very well — the fastest student he's ever seen learning languages. How could he compare mortals to me? Hmph!"
 
 "Keep studying hard, and you can come with us to Blackrock Spire," Jace said.
 
@@ -148,7 +148,7 @@ Jace muttered and reached out to take the flopping, thrashing loach from the air
 
 "Delicious!" The black dragon smacked her lips. "I beat you, Jace Sesso! You didn't catch a single one, you idiot!"
 
-Watching her twist her waist happily, Jace slowly relaxed.
+Watching her wriggle with glee, Jace slowly relaxed.
 
 What had he been thinking? That some cheap fishhook he'd scraped together could actually hurt a real black dragon's esophagus?
 

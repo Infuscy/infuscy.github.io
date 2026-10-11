@@ -136,7 +136,7 @@ Hearing this, Jace turned over with curiosity, and the succubus took the opportu
 
 "Was it combat? Were your wings chopped off by some demon while hunting?"
 
-"Impossible," Morophil replied. "My wings were torn off by the Annihilan overlord I served. All demons who worked for him were forbidden from having demonic wings — whether Doomguards or Saya'de."
+"Impossible," Morophil replied. "My wings were torn off by the Annihilan overlord I served. All demons who worked for him were forbidden from having demonic wings — whether doomguards or sayaad."
 
 "Why did he do that?"
 
@@ -174,7 +174,7 @@ A sweet, fishy scent nearly suffocated Jace. He turned his face away. "The wingl
 
 "An ability?" Jace asked skeptically. "Tell me what it is first."
 
-"Have you heard of the Soul Link between a minion and its master?" the succubus explained. "Though I've never tried it with a human, I know other Saya'de have successfully linked souls with humans… it shouldn't be difficult."
+"Have you heard of the Soul Link between a minion and its master?" the succubus explained. "Though I've never tried it with a human, I know other sayaad have successfully linked souls with humans… it shouldn't be difficult."
 
 Soul Link?
 
@@ -206,7 +206,7 @@ Jace had been moved at first, but hearing the last part, he pushed her upright. 
 
 "Alright then. How do we do it?"
 
-"First, love me wholeheartedly and with all your soul. After all, it's a soul link — we need to bring our souls close…"
+"First, love me wholeheartedly and with all your soul. After all, it's a Soul Link — we need to bring our souls close…"
 
 "Jace Sesso… Jace Sesso!" It was the imp's voice… finally, it was working. Jace had almost thought this alarm was broken.
 
@@ -225,21 +225,3 @@ Jace had been moved at first, but hearing the last part, he pushed her upright. 
 "You said swearing means you're…"
 
 "Bastard!"
-
-## Flags
-
-- **东谷驿站** — Eastvale waystation (Eastvale Logging Camp area), per glossary's Eastvale Logging Camp entry.
-- **湖畔镇** — Lakeshire, canonical, per glossary.
-- **黑铁矮人** — Dark Iron dwarves, canonical dwarven clan, per glossary.
-- **燃烧平原** — Burning Steppes, canonical region.
-- **黑龙披风** — "black dragon cloak." Prior-plot artifact; its sinister aura keeps beasts away.
-- **纳斯雷兹姆** — Nathrezim, canonical dreadlord race, per glossary. The succubus refers to the sword as "this Nathrezim thing."
-- **安尼赫兰霸主** — Annihilan overlord. Annihilan = the pit lord race (canonical). The overlord is Brutallus.
-- **布鲁塔卢斯** — Brutallus. Canonical pit lord (raid boss in Sunwell Plateau). Wingless, uses an arcane orb to enslave demon servants.
-- **基尔加丹** — Kil'jaeden, canonical demon lord, per glossary's Eredar/Burning Legion context.
-- **末日守卫** — Doomguards, canonical demon race.
-- **萨亚德** — Rendered as "succubus" (species label).
-- **灵魂链接** — Soul Link, the demonology warlock talent. Jace's internal explanation references the game mechanic (damage transfer from master to minion).
-- **撒厄诺** — Sazeno, imp minion. The "alarm" of the previous chapter finally triggers here when Jace calls his name across planes.
-- Chapter title 如何成为一个恶魔术 = "How to Become a Demon Warlock" — Jace's decision to bring both demons on the road trip, plus the Soul Link negotiation.
-- POV: third person. Morophil's sadistic, seductive register preserved. Jace's gamer-knowledge asides (Soul Link, Brutallus) kept as internal monologue. The imp's well-timed "alarm" call preserved as the chapter's closing beat.

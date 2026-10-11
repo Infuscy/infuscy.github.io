@@ -62,7 +62,7 @@ A hole in your FACE didn't even count as a problem!
 
 "More or less got it."
 
-"Watch your attitude. 'More or less' isn't good enough — memorize it firmly." The baron said, "Given that you're the hero who saved Stonewatch, I'm going to lay my heart bare and tell you some things I shouldn't be telling an outsider, Mr. Jace Sesso. The king is a young man about your age — you could even say he's still a boy. He hasn't been back in Stormwind for long, and he's determined to build the great legacy of King Lethan into something as powerful as Lordaeron. And an important prerequisite for all that is that people believe he can do it. So he doesn't want anything to go wrong. You should understand how sensitive a boy this age can be. He just came back from Lordaeron — he's met King Terenas II, the one beloved and blessed by the seven kingdoms."
+"Watch your attitude. 'More or less' isn't good enough — memorize it firmly." The baron said, "Given that you're the hero who saved Stonewatch, I'm going to lay my heart bare and tell you some things I shouldn't be telling an outsider, Mr. Jace Sesso. The king is a young man about your age — you could even say he's still a boy. He hasn't been back in Stormwind for long, and he's determined to build the great legacy of King Llane into something as powerful as Lordaeron. And an important prerequisite for all that is that people believe he can do it. So he doesn't want anything to go wrong. You should understand how sensitive a boy this age can be. He just came back from Lordaeron — he's met King Terenas II, the one beloved and blessed by the Seven Kingdoms."
 
 So this was what the young Varian Wrynn looked like in other people's eyes?
 
@@ -94,35 +94,22 @@ The baron sighed. "Make a more realistic request. Or just name something else �
 
 At this, the baron suddenly felt he'd said too much. He wiped the corner of his mouth with his thumb. "They should be able to pay them. Anyway, don't trouble the royal family."
 
-Jace thought it over again and said, "Then I want to enter the Wizard Sanctum."
+Jace thought it over again and said, "Then I want to enter the Wizard's Sanctum."
 
-"What do you mean? Aren't you already some assistant to a Marin or whatever?"
+"What do you mean? Aren't you already some assistant to a Malin or whatever?"
 
 "An assistant isn't an apprentice. I want to become a mage apprentice and learn magic," Jace explained.
 
-"I don't understand." The baron frowned. "Isn't an assistant an apprentice? Are you telling me the young men the Wizard Sanctum hires to run errands for the mages don't even have the right to learn magic? What kind of sense does that make?!"
+"I don't understand." The baron frowned. "Isn't an assistant an apprentice? Are you telling me the young men the Wizard's Sanctum hires to run errands for the mages don't even have the right to learn magic? What kind of sense does that make?!"
 
 Jace explained, "Assistants are just hired hands. To become an apprentice, you either have to get recruited when you're barely ten years old, or you have to have undiscovered talent. I'm already way too old, and I don't have any particular gift. But my longing for magic…"
 
 "I think this shouldn't be a problem. It's just one apprentice spot — that big Mage Quarter can't fit one more apprentice?" Baron Grey Ellerian laughed as he stood up from his stool. "I'll report this to Duke Bolvar Fordragon. It's a good request — a hero who thwarted the gnolls' despicable invasion attempt, striving for self-improvement and seeking knowledge, wanting to become a mage to continue serving the kingdom… Ah, this could practically be written into a story."
 
-"But I think, for those scholars at the Wizard Sanctum, if you don't produce results or pass their assessments, even if you entered by the king's grace, they won't promote you to a full mage just because of connections. You'll still have to rely on your own effort to keep going."
+"But I think, for those scholars at the Wizard's Sanctum, if you don't produce results or pass their assessments, even if you entered by the king's grace, they won't promote you to a full mage just because of connections. You'll still have to rely on your own effort to keep going."
 
 "I understand, my lord," Jace said.
 
 "Good. Then that's about it."
 
 The baron taught him a few more necessary lines, then dusted off his clothes and walked out of the room, turning back to add: "No need to see me off. I'm in a hurry to get back to Lakeshire and report."
-
-## Flags
-
-- **葛雷·艾利安 → Grey Ellerian**: Baron, OC, not in glossary. Given name 葛雷 rendered as "Grey" (could be "Greg"); family name 艾利安 rendered as "Ellerian" to match canonical Tiffin Ellerian.
-- **艾利安家族 → Ellerian family**: Matches canonical Queen Tiffin Ellerian; not in glossary.
-- **蒂芬·乌瑞恩 → Tiffin Wrynn**: Canonical queen; not in glossary.
-- **伯瓦尔·弗塔根公爵 → Duke Bolvar Fordragon**: Canonical; not in glossary. Text uses 公爵 (duke).
-- **泰瑞纳斯二世 → Terenas II**: Canonical; not in glossary.
-- **石堡 → Stonewatch**: Rendered as "Stonewatch" to distinguish from glossary's 斯通沃特 → Stonewatch. See note in ch71 flags — potential overlap with Stonewatch (the canonical Redridge fort) is ambiguous; flagged for review.
-- **一个合适的愿望 → A Suitable Wish**: Chapter title.
-- Source typo handled: 路你交流 → 跟你交流 (to communicate with you).
-- 寸土寸金 rendered idiomatically as "every inch of land costs a fortune."
-- 60年代版本 / 80年代版本 rendered as "level-60 version" / "level-80 version" (gamer-era references to WoW vanilla and Wrath).

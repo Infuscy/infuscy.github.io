@@ -2,31 +2,35 @@
 
 "Onyxia..."
 
-Jace sat up with a start, reaching out his hand. A streak of blood-light tore through the air. Ursaal and the Song of Azure Sky, in the corner, flew over together and smashed hard into his face and chest, making him hastily cover his head.
+Jace sat up with a start, reaching out his hand. A streak of blood-light tore through the air. Ulthalesh and Azuresong, in the corner, flew over together and smashed hard into his face and chest, making him hastily cover his head.
 
-The pastries and plates on the table, the Peacebloom aromatherapy bottle — everything was torn back and forth by the power of the Blood Grip, clattering and scattering across the floor.
+The pastries and plates on the table, the Peacebloom aromatherapy bottle — everything was torn back and forth by the power of Gorefiend's Grasp, clattering and scattering across the floor.
 
-Jace grabbed the scabbard of the Song of Azure Sky and swallowed, glancing at the Ursaal staff that had rolled off the bed. The wrapping cloth that had been torn open by the blood-colored scythe blade had been re-wrapped. But this time it wasn't the silk cloth from Jace's memory — it was a high-end elven fabric with a green tree-grain pattern that looked quite expensive.
+Jace grabbed the scabbard of Azuresong and swallowed, glancing at the Ulthalesh staff that had rolled off the bed. The wrapping cloth that had been torn open by the blood-colored scythe blade had been re-wrapped. But this time it wasn't the silk cloth from Jace's memory — it was a high-end elven fabric with a green tree-grain pattern that looked quite expensive.
 
 Was this Vereesa's cloak?
 
 Jace sighed, then a tearing pain came from his chest.
 
-This was the aftereffect of blocking Onyxia's claw with Dark Shield.
+This was the aftereffect of blocking Onyxia's claw with Shadow Shield.
 
-In hindsight, he shouldn't have been that confident — but faced with the arrogance and conceit of that she-black dragon back then, he'd wanted to take her down a notch or two.
+In hindsight, he shouldn't have been that confident — but faced with the arrogance and conceit of that black she-dragon back then, he'd wanted to take her down a notch or two.
 
-Of course, the more important reason was that he'd lost all his Mana Potions. He really didn't have the confidence to use Shadowstep repeatedly in a short time. Daylight was already streaming through the window, brilliant sunshine filtering in, fine dust drifting in his line of sight.
+Of course, the more important reason was that he'd lost all his Mana Potions. He really didn't have the confidence to use Shadowstep repeatedly in a short time.
+
+Daylight was already streaming through the window, brilliant sunshine filtering in, fine dust drifting in his line of sight.
 
 The air carried a faint, not-too-obvious scorching smell.
 
 Jace could sense Morophil's Soul Link. Though she wasn't nearby, her emotions were stable — she should be fine.
 
-What surprised him more was that he could still sense Karlez's presence occupying his mind. In other words, this bastard hadn't died in that plane fragment at all.
+What surprised him more was that he could still sense Kallrez's presence occupying his mind. In other words, this bastard hadn't died in that plane fragment at all.
 
-As for Sazeno, he swept with Detect Demon the nearby demon-cloth bag tied tightly at the mouth. He could faintly make out a demon's shadow inside — it should still be in there.
+As for Sazeno, he swept with Sense Demons the nearby felcloth bag tied tightly at the mouth. He could faintly make out a demon's shadow inside — it should still be in there.
 
-But knowing its usual behavior, it should have come out and run its mouth by now. Why was it hiding inside and refusing to come out? "Sazeno, Sazeno!"
+But knowing its usual behavior, it should have come out and run its mouth by now. Why was it hiding inside and refusing to come out?
+
+"Sazeno, Sazeno!"
 
 "Mmm..."
 
@@ -36,9 +40,11 @@ Jace tried to get out of bed. The moment his head swayed, a sharp pain like an i
 
 When Onyxia had charged over, he remembered dodging in advance and not taking a direct hit from her body — so this was probably just the force of the flames she'd brought along slamming into him.
 
-He walked slowly to the corner, opened the bag, and the imp poked its head out, glancing around. "So, Master, have we left the Cathedral square yet?"
+He walked slowly to the corner, opened the bag, and the imp poked its head out, glancing around. "So, Master, have we left the Cathedral Square yet?"
 
-Jace took a deep breath, eased the dizziness, stood up, and walked to the table, leaning on it to look out the window. Right next to him was the Cathedral of Light, its white walls dazzling in the sunlight. Before him was the Cathedral square. "Not yet."
+Jace took a deep breath, eased the dizziness, stood up, and walked to the table, leaning on it to look out the window. Right next to him was the Cathedral of Light, its white walls dazzling in the sunlight. Before him was the Cathedral Square.
+
+"Not yet."
 
 "Then why'd you call me out?!" The imp shrank back in at once.
 
@@ -50,13 +56,13 @@ Jace yanked it out. "Stop hiding. Tell me what happened."
 
 "Mmm." The imp spread his hands. "I didn't see anything..."
 
-"Karlez?" Jace asked.
+"Kallrez?" Jace asked.
 
 "I... I don't know either." Sazeno spread his hands. "If even the Master doesn't know, how would I know? But I reckon, he..."
 
 "...He's an Ered'ruin. A high-ranking demon who guards the Legion's gates for Sargeras himself! I'm sure he has his own profound understanding of planes... Master."
 
-The imp was right. Compared to him and Grede, two fellows who could only rely on luck to shuttle between planes, that Doomguard was indeed far more reliable — otherwise he wouldn't have been able to tell at a glance exactly what kind of passage Onyxia had torn open.
+The imp was right. Compared to him and Grede, two fellows who could only rely on luck to shuttle between planes, that doom lord was indeed far more reliable — otherwise he wouldn't have been able to tell at a glance exactly what kind of passage Onyxia had torn open.
 
 Jace picked up the pastry on the ground, blew off the dust, and ate it. The sweet flavor eased quite a bit of the fatigue from last night to now.
 
@@ -120,6 +126,8 @@ Sola shook her head.
 
 "In the Cathedral, with the wounded soldiers, Jace. But you'd best rest a little longer for now," Sola reminded him.
 
-"I can walk and run — I'm fine, Sola." Jace stood up, leaning on Ursaal. "Let the clergymen keep this room for other wounded."
+"I can walk and run — I'm fine, Sola." Jace stood up, leaning on Ulthalesh. "Let the clergymen keep this room for other wounded."
 
-"All right, then I'll go let Vereesa and the others know," Sola said. "I'll leave it to you, Sola," Jace said.
+"All right, then I'll go let Vereesa and the others know," Sola said.
+
+"I'll leave it to you, Sola," Jace said.

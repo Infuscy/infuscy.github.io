@@ -8,7 +8,7 @@ This was Brewfest night, and for a place already packed with dwarves, it was far
 
 Jace sat on the Wildhammer side of camp, looking toward the Bronzebeard contingent. A group of bare-chested dwarves drank slowly, keeping one eye on their smaller cousins in cloth underlayers who hadn't even bothered to take off their heavy plate. And of course, they watched the black banners fluttering in the distant northern forest. Even from this far, Jace could catch glimpses of evil red eyes gleaming in the dark.
 
-Don't forget — the Dark Iron dwarves over there were all members of the Thorium Brotherhood, not General Angerforge's Ironforge Brigade, not the slave-driver mercenaries of the Searing Gorge black iron mines, and not the Flamekeepers sworn to the Firelord. Even though the Thorium Brotherhood had openly rebelled against Shadowforge City, and their leaders wanted to reunite the Three Hammers like the other two clans, two centuries of estrangement wasn't easy to bridge.
+Don't forget — the Dark Iron dwarves over there were all members of the Thorium Brotherhood, not General Angerforge's Anvilrage Legion, not the slave-driver mercenaries of the Searing Gorge Dark Iron mines, and not the pyromancers sworn to the Firelord. Even though the Thorium Brotherhood had openly rebelled against Shadowforge City, and their leaders wanted to reunite the Three Hammers like the other two clans, two centuries of estrangement wasn't easy to bridge.
 
 "Those black-skinned, red-eyed, fire-bearded sewer rats... all crawled back into their holes!" Grede laughed loudly from nearby. "When they saw my lightning-wreathed hammer, my Gorjet that blots out the sky like a thundercloud, they really thought the storm god himself had come to punish them! That's when their Firelord, their Lord of Flame, their Great Inferno — it all became a joke!"
 
@@ -18,11 +18,11 @@ Don't forget — the Dark Iron dwarves over there were all members of the Thoriu
 
 "Without that demon, those bastards are nothing but cowards."
 
-Jace lifted his mug to his lips and said quietly behind it, "I hope the dwarves don't suddenly start fighting once we reach the Anvil of Kador. I've got a bad feeling about this. I hope their leaders have more sense than their men."
+Jace lifted his mug to his lips and said quietly behind it, "I hope the dwarves don't suddenly start fighting once we reach the Anvil of Khardros. I've got a bad feeling about this. I hope their leaders have more sense than their men."
 
 "If the Three Hammers' leaders had 'sense,' the War of the Three Hammers never would have started in the first place," Vereesa said quietly. "Maybe that's just their nature — fighting from underground to the surface, from mountains to beyond. The peace under Anvilmar was just an off-key note in the dwarves' long history of beating each other up."
 
-"I must take exception to that, esteemed Ranger-Lord Vereesa Windrunner." A rather hoarse dwarven voice came from behind them. It was a Bronzebeard dwarf with a beard golden enough to border on red, dressed in simple brown traveling clothes. He held a wide-brimmed sun hat and bowed to Vereesa, then looked at Jace. "Good evening, esteemed Royal Court Mage of Stormwind Kingdom, Master Jace Sesso."
+"I must take exception to that, esteemed Ranger Lord Vereesa Windrunner." A rather hoarse dwarven voice came from behind them. It was a Bronzebeard dwarf with a beard golden enough to border on red, dressed in simple brown traveling clothes. He held a wide-brimmed sun hat and bowed to Vereesa, then looked at Jace. "Good evening, esteemed Royal Court Mage of the Kingdom of Stormwind, Master Jace Sesso."
 
 Even though Jace could barely tell dwarves apart, the distinctive slightly upturned red bulbous nose of this one reminded him of King Magni, whom he'd met at Ironforge.
 
@@ -68,13 +68,13 @@ He glanced at the Wildhammer dwarves clinking mugs in the distance. "Besides, th
 
 "We certainly will," Jace said.
 
-"Now that I've passed on Magni's instructions, there's one more thing of my own." Brann cleared his throat, observed the arguing Wildhammers for a moment, then fixed his gaze on Vereesa and Jace, lowering his voice. "I hear from some Wildhammers that you visited a place called the Spires of Arak on Draenor, right?"
+"Now that I've passed on Magni's instructions, there's one more thing of my own." Brann cleared his throat, observed the arguing Wildhammers for a moment, then fixed his gaze on Vereesa and Jace, lowering his voice. "I hear from some Wildhammers that you visited a place called Highmaul on Draenor, right?"
 
 "Yes," Vereesa said. "Jace even went inside."
 
-"Excellent." Brann rubbed his hands together. "Master Jace Sesso, would you have time in the next few days to accept my... interview? The Spires of Arak is the ogres' homeland. I've heard countless ogres describe that place — to them it sounds like a dream. But even many ogres have never set foot inside the Spires, and the two-headed ones who actually lived there aren't exactly easy to get along with."
+"Excellent." Brann rubbed his hands together. "Master Jace Sesso, would you have time in the next few days to accept my... interview? Highmaul is the ogres' homeland. I've heard countless ogres describe that place — to them it sounds like a dream. But even many ogres have never set foot inside Highmaul, and the two-headed ones who actually lived there aren't exactly easy to get along with."
 
-When Jace first saw Grede's letter, he'd wondered why this explorer's society leader, who loved traveling the world, had suddenly taken such an interest in diplomatic affairs. Turns out the explorer's real goal was this.
+When Jace first saw Grede's letter, he'd wondered why this Explorers' League leader, who loved traveling the world, had suddenly taken such an interest in diplomatic affairs. Turns out the explorer's real goal was this.
 
 "Of course, Thane Brann."
 
@@ -96,9 +96,9 @@ Brann looked flustered and hurried over.
 
 "Go to hell, you yellow-haired brat! Your Thunder Malt is just a stolen Dark Iron beer recipe!" "Who hasn't tried your so-called Darkforge Ale... Is that even drinkable? Can't compare to the recipe from Kharanos!"
 
-"Have you ever been to Shadowforge City? Have you ever tasted the authentic recipe there? Didn't the Ironforge Brigade soldiers skin you alive?"
+"Have you ever been to Shadowforge City? Have you ever tasted the authentic recipe there? Didn't the Anvilrage soldiers skin you alive?"
 
-"Authentic, authentic... who doesn't know what your 'authentic' is. We'd probably have to crawl under Dagran Thaurissan's Black Iron Throne and catch the drips from his beard to get a taste of the real thing!"
+"Authentic, authentic... who doesn't know what your 'authentic' is. We'd probably have to crawl under Dagran Thaurissan's Dark Iron Throne and catch the drips from his beard to get a taste of the real thing!"
 
 "Thaurissan? He's nothing! I'll deal with you today—" "Stop! Stop!" Grede shouted. "Today is Brewfest!"
 
@@ -108,7 +108,7 @@ Brann looked flustered and hurried over.
 
 And Kurdran Wildhammer showed no intention of calming things down. If anything, he was grinning and picking up an empty mug, looking ready to join the fight!
 
-"I have a proposal!" Grede raised Kador's hammer high. "Let's show some respect for our ancestors—"
+"I have a proposal!" Grede raised Khardros's hammer high. "Let's show some respect for our ancestors—"
 
 "Who gives a damn about your ancestors?!" a Thorium Brotherhood member grumbled.
 
@@ -138,7 +138,7 @@ The scene went dead silent. No one seemed willing to go to the red dragons' terr
 
 "Vereesa Windrunner." Jace looked at the elf beside him.
 
-"What? What?" The Ranger-Lord froze on the spot.
+"What? What?" The Ranger Lord froze on the spot.
 
 "Having an elf judge dwarven beer — that's insane!" a dwarf roared. "She's definitely not biased... she looks down on ALL dwarves equally!"
 
@@ -146,7 +146,7 @@ The scene went dead silent. No one seemed willing to go to the red dragons' terr
 
 "Great idea."
 
-"Let her drink! Let the Ranger-Lord drink!" "Ranger-Lord! Ranger-Lord!"
+"Let her drink! Let the Ranger Lord drink!" "Ranger Lord! Ranger Lord!"
 
 "I never thought I'd live to see the day the Three Hammers shouted my name at the same time. Jace Sesso, this is all your doing..." Vereesa said quietly amid the dwarves' roar. "So what do I do now?"
 

@@ -1,12 +1,12 @@
 ## Chapter 1252: The Younger Generation
 
-The stranger in the black cloak walked out of the woods, followed a dirt path between wide stretches of farmland, and came onto a road churned with warg tracks.
+The stranger in the black cloak walked out of the woods, followed a dirt path between wide stretches of farmland, and came onto a road churned with worg tracks.
 
 He pressed on along the road, past one farmstead after another as he climbed higher, and bit by bit the sky began to brighten.
 
 The buildings here didn't look like the orcish caves or strongholds one normally saw in Azeroth — they were more like miniature ogre dwellings. Quite a few orcs glanced his way along the road, but none with much wariness or curiosity. Several, in fact, ducked and hid the moment they noticed this dark-green-skinned orc appear — into their homes, or beneath an overhanging ledge.
 
-Jace came to a wooden bridge spanning a narrow gorge and looked north. Spread out below the morning light was a vast lake shimmering with ripples — that had to be Lake Elrendar, beneath the Throne of the Elements. Which meant this village really was Garadar.
+Jace came to a wooden bridge spanning a narrow gorge and looked north. Spread out below the morning light was a vast lake shimmering with ripples — that had to be Skysong Lake, beneath the Throne of the Elements. Which meant this village really was Garadar.
 
 But the lake was so enormous here he couldn't make out the far shore. All he could see was a hazy line of pale-purple bluffs standing on the opposite bank, and beyond them the looming silhouettes of still loftier mountain ranges. There was no telling where, exactly, the Throne of the Elements lay.
 
@@ -56,7 +56,7 @@ But he'd overlooked how early orcs matured. At six or seven they could already t
 
 His Orcish was halting and clumsy — no more fluent than Jace's. But this really was Garrosh, and he was still a long way from being Warchief, so Jace adjusted his mindset almost instantly.
 
-"I am Yuruk, one of the lieutenants and advisors to Shattered Hand chieftain Kargath Bladefist, ruler of Hellfire Citadel. You should know that Ner'zhul has betrayed us, and Chieftain Kargath will soon become Warchief of the entire Horde."
+"I am Yurk, one of the lieutenants and advisors to Shattered Hand chieftain Kargath Bladefist, ruler of Hellfire Citadel. You should know that Ner'zhul has betrayed us, and Chieftain Kargath will soon become Warchief of the entire Horde."
 
 "Surviving the plague doesn't mean we've gone deaf and blind, warlock," Garrosh said. "But Chieftain Kargath has already come here. I don't understand why he's sent you."
 
@@ -66,7 +66,9 @@ When he said "helpers," Garrosh's tone turned mocking, and he cocked his mouth i
 
 "I'm not familiar with the details of Chieftain Kargath's visit," Jace said with an unconcerned honesty. "I only recently returned from the other side of the Dark Portal, Garrosh. I'm not here to pick a fight. The reason I've come is to sincerely ask for help."
 
-"You came back from Azeroth?" Garrosh frowned. "Yes," Jace said.
+"You came back from Azeroth?" Garrosh frowned.
+
+"Yes," Jace said.
 
 "Do you know how my father is?" the young orc asked.
 

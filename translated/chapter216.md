@@ -1,12 +1,12 @@
 ## Chapter 216: What's Owed Must Be Repaid
 
-For the rest of the afternoon, Jace queued almost the entire time at the top of the Wizard Sanctum. The tower, when it was first built, certainly never expected there'd be this many apprentices here one day.
+For the rest of the afternoon, Jace queued almost the entire time at the top of the Wizard's Sanctum. The tower, when it was first built, certainly never expected there'd be this many apprentices here one day.
 
 Of course, it also had to do with how slow registration was. That many students and only two old mages handling it, and they were being especially long-winded about it.
 
-The whole stretch of time had crowded out his chance to buy a robe. By the came out it was already evening and the clothes shops were closed.
+The whole stretch of time had crowded out his chance to buy a robe. By the time he came out it was already evening and the clothes shops were closed.
 
-He finished registration, got his course schedule — starting Tuesday the 22nd. That day was basically packed: Orcish, Dragon runes, and inscription. Wednesday morning there was one Orcish class; Wednesday afternoon and Thursday morning were Protection school courses.
+He finished registration, got his course schedule — starting Tuesday the 22nd. That day was basically packed: Orcish, Draconic, and Inscription. Wednesday morning there was one Orcish class; Wednesday afternoon and Thursday morning were Abjuration courses.
 
 This year his classes all seemed to be concentrated between Tuesday and Thursday, which meant four days a week were left for practice… or, put another way, free time.
 
@@ -26,11 +26,11 @@ He shifted his stance, dropped his hand low, adjusted to about twenty degrees of
 
 "How… many… was that?" Grede was so shocked he could barely get the words out.
 
-"Does it matter?" Jace said. "The river's not wide enough, Grede. Let's have a proper match at the Nafeltari sometime."
+"Does it matter?" Jace said. "The river's not wide enough, Grede. Let's have a proper match at the Nazferiti sometime."
 
 "No, no more." Grede frowned. "I sometimes really suspect what you've been doing all these years… do you have forty-eight hours in a day?"
 
-Jace glanced at him, thinking: *Should I tell you I went on Zhihu looking for stone-skipping techniques and practiced like a madman?*
+Jace glanced at him, thinking: *Should I tell you I looked up stone-skipping techniques online and practiced like a madman?*
 
 The dwarf shook his head. "No fun at all, Jace Sesso. You're no fun. Right — forgot the important thing. The dinner we arranged. Why didn't you come find me?"
 
@@ -40,7 +40,7 @@ The dwarf shook his head. "No fun at all, Jace Sesso. You're no fun. Right — f
 
 "Weren't you saying tomorrow or the day after? Fine, fine, I owe you. Let's go, let's go…"
 
-The two of them jostled their way to The Gilded Rose. Jace had barely sat down before he said, "This is my second time eating here today."
+The two of them jostled their way to the Gilded Rose. Jace had barely sat down before he said, "This is my second time eating here today."
 
 "Who was the first time with?" the dwarf asked.
 
@@ -78,7 +78,7 @@ Jace said, "As if the two of us could just easily take him down. That's Teron Go
 
 "Didn't you beat Gorefiend himself?" Grede said.
 
-"Without Vereesa and Kafal, I couldn't have beaten him," Jace said. "And Grede — don't forget, she's the one who healed your eye. She's your benefactor, and you're scheming against her…"
+"Without Vereesa and Kael'fal, I couldn't have beaten him," Jace said. "And Grede — don't forget, she's the one who healed your eye. She's your benefactor, and you're scheming against her…"
 
 "She only helped because she didn't want to owe you anything!" Grede said.
 
@@ -96,7 +96,7 @@ As he spoke, Grede picked up the crab leg, cracked the shell straight open with 
 
 The waitress set two dark beers on the table. The two of them watched her leave again, and Jace continued: "Don't you think the Redridge gnoll trouble might have been stirred up by that death knight? The goal being to help the Horde retreat into the Dark Portal, split Stormwind's forces?"
 
-"Not impossible, but that's baseless speculation too," Grede said. "So what's that death knight doing in Duskwood? Last time you said you thought the Duskwood werewolves were a death knight, but Duskwood hasn't had much gnoll activity since the Cataclysm. If you ask me, Raven Hill's a big cemetery. That death knight probably went there to raise reinforcements. Those Dalaran zombies were truly terrifying — scarier than Duskwood ghouls. The more human they look, the scarier they are."
+"Not impossible, but that's baseless speculation too," Grede said. "So what's that death knight doing in Duskwood? Last time you said you thought the Duskwood worgen were a death knight, but Duskwood hasn't had much gnoll activity since the Cataclysm. If you ask me, Raven Hill's a big cemetery. That death knight probably went there to raise reinforcements. Those Dalaran zombies were truly terrifying — scarier than Duskwood ghouls. The more human they look, the scarier they are."
 
 "Could be," Jace said.
 
@@ -109,12 +109,3 @@ The dwarf asked again, "But if they can just raise the dead, why not kill one an
 But the more the two of them talked, the more Jace thought back to that night in Dalaran, and a thought suddenly flashed through his mind.
 
 "What if that death knight is looking for a new body?"
-
-## Flags
-
-- **Title**: 欠下的必须补上 — rendered as "What's Owed Must Be Repaid" (the "debt" here is the drink Jace owes Grede, but the phrasing carries the broader sense of making up for lost time/effort).
-- **Kafal** (凯法尔): the death knight Jace and Vereesa fought alongside; name kept as-is (OC, not in glossary).
-- **Nafeltari River** (纳菲瑞提河): glossary's tentative "River Neltharion / Nafeltari River"; used Nafeltari River.
-- **Zhihu** (知乎): Jace's past-life Q&A site reference; kept as Zhihu to preserve the modern-Chinese flavor of his inner monologue.
-- **Grede Thunderfist** (格瑞德·雷拳): full name used here per glossary (Thunderfist = 雷拳).
-- **Vereesa Windrunner** (温蕾萨·风行者): glossary has Alleria; Vereesa is her canonical younger sister — used Vereesa Windrunner.

@@ -1,6 +1,6 @@
 ## Chapter 1151: Next Stop, Lordamere
 
-The next morning, Jace and Vereesa prepared to leave. Drek'Thar, Galvan, and several other leaders of the Frostwolf village all came to the village entrance to see them off.
+The next morning, Jace and Vereesa prepared to leave. Drek'Thar, Galvangar, and several other leaders of the Frostwolf village all came to the village entrance to see them off.
 
 The wind and snow hadn't picked up again the entire previous night. The cold breeze blowing gently outside the cave had actually let Jace sleep more soundly. And this morning the weather was even clearer — the sunlight spilled through the pine forest, the snow reflecting the light, glittering and bright, making a person feel that retiring to a place like this wouldn't be so bad either. Of course, the premise was no lack of food and clothing.
 
@@ -28,7 +28,7 @@ However, even after defeating the Bladespire ogres, the two clans never truly be
 
 This was probably also the reason why, back by Lake Everstill, Bazuen had hesitated slightly upon first hearing the names of the Frostwolf clan and Drek'Thar. He was too familiar with the Frostwolf clan, but he probably also cared about the rift between the two.
 
-Jace didn't know whether Bazuen had revealed his true identity to Drek'Thar and the other Frostwolf clan members. But judging from Galvan's hurtful words and Bazuen's silent reaction, it was likely he'd already come clean.
+Jace didn't know whether Bazuen had revealed his true identity to Drek'Thar and the other Frostwolf clan members. But judging from Galvangar's hurtful words and Bazuen's silent reaction, it was likely he'd already come clean.
 
 Considering that the real Azeroth had such massive differences from his memories of the game, Draenor might also look completely nothing like what Jace remembered. If he could use this stone to get in touch with the ancestors of the Thunderlord, to get in touch with the elements of Draenor, then he wouldn't be so likely to lose his way in unfamiliar territory.
 
@@ -38,7 +38,7 @@ If there was any part of the surviving Draenor that might have some connection t
 
 Although Bazuen hadn't specified in detail which mountains to throw the stone into, perhaps it was because he felt that as long as it was on Draenor, the exact location didn't matter. Or perhaps he didn't want to add unnecessary risk to Jace's journey.
 
-Still, Jace felt that if he had the chance to pass through the Blade's Edge Mountains or nearby areas, he'd throw it as close as possible. Close is close.
+Still, Jace felt that if he had the chance to pass through the Blade's Edge Mountains or nearby areas, he'd throw it as close as possible. Near enough would have to do.
 
 A while after descending the mountain, they gradually left the snowline. The wind in the mountains was no longer so biting. Among the green pine forests, you could even hear the sound of streams.
 
@@ -56,7 +56,7 @@ Vereesa looked at Jace. "In that tent, for some reason, I almost thought you wer
 
 "Out of sympathy for orcs," Vereesa said.
 
-"Retract your accusation, Ranger-Lord. We're about to enter the territory of the Kingdom of Lordaeron." Jace said this as he walked to the front.
+"Retract your accusation, Ranger Lord. We're about to enter the territory of the Kingdom of Lordaeron." Jace said this as he walked to the front.
 
 "I'm not trying to accuse you of anything." Vereesa quickened her pace to catch up with Jace. "Do you think an orc raised inside a human castle could build peace between humans and orcs?"
 
@@ -66,11 +66,11 @@ Jace smiled. "There's no peace even between humans, Vereesa. With all of Aegwynn
 
 Vereesa opened her mouth to speak but didn't say anything. Jace looked at her and continued.
 
-"Yes, compared to Prince Kael'thas Sunstrider, maybe I count as an 'orc sympathizer.' In any case, I don't agree with blasting that Alliance internment camp to pieces with a single Pyroblast. But I also don't intend to meddle in these orcs' problems — especially the Frostwolves. If they can really survive in the snow mountains, that's fine too. After all, the vast Alterac Mountains isn't short of one more bunch of strange folk. Harpies, kobolds, troggs, wargs, yeti… all of them have more influence than the Frostwolves."
+"Yes, compared to Prince Kael'thas Sunstrider, maybe I count as an 'orc sympathizer.' In any case, I don't agree with blasting that Alliance internment camp to pieces with a single Pyroblast. But I also don't intend to meddle in these orcs' problems — especially the Frostwolves. If they can really survive in the snowy mountains, that's fine too. After all, the vast Alterac Mountains isn't short of one more bunch of strange folk. Harpies, kobolds, troggs, worgs, yeti… all of them have more influence than the Frostwolves."
 
 The ranger didn't say anything more, just followed behind Jace, watching the road while observing his expression, an elusive smile surfacing on her face.
 
-"Compared to these orcs' survival problems, I'm actually more concerned about my old man and old lady." Jace said this as he quickened his pace, hopping down a stone step. "This trip to Alterac Valley went much faster than we expected. But from here we also need to hurry on to Lake Lordamere. Oh right — I asked you to write to me earlier about my parents moving. Has there been a reply?"
+"Compared to these orcs' survival problems, I'm actually more concerned about my old man and old lady." Jace said this as he quickened his pace, hopping down a stone step. "This trip to Alterac Valley went much faster than we expected. But from here we also need to hurry on to Lordamere Lake. Oh right — I asked you earlier to write for me about my parents moving. Has there been a reply?"
 
 "Of course. Because of all those unexpected incidents investigating Dar'Khan… I completely forgot about this." Vereesa pulled a letter out of her pocket and handed it to Jace. "Mr. and Mrs. Sesso are already prepared. They can leave at any time."
 
@@ -88,11 +88,11 @@ After all, the Jace Sesso of right now was no longer that day-laborer who'd just
 
 No matter what, he had to find the Expedition first.
 
-If the day came when the return of the Sons of Lothar still couldn't stop the Scourge — if an immensely powerful Alliance of Lordaeron, at least nominally undivided, was still headed toward an unstoppable fate — if even Dar'Khan's death still couldn't save Banthinorel… at least he'd tried his best.
+If the day came when the return of the Sons of Lothar still couldn't stop the Scourge — if an immensely powerful Alliance of Lordaeron, at least nominally undivided, was still headed toward an unstoppable fate — if even Dar'Khan's death still couldn't save Ban'dinoriel… at least he'd tried his best.
 
-Back at the Farstrider post in Strahnbrad, the blue wyvern perched on its roost. Sensing its master's approach from afar, it raised its slender head to peer this way, letting out a hoarse cry.
+Back at the Farstrider post in Strahnbrad, the blue dragonhawk perched on its roost. Sensing its master's approach from afar, it raised its slender head to peer this way, letting out a hoarse cry.
 
-"Good afternoon, Lady Vereesa Windrunner. Glad to see you both returned safely." The ranger Kreya came out and smiled, giving the Ranger-Lord a salute, then asked with concern, "Did you find anything, lady? Are there new traces of orc activity in the snow mountain?"
+"Good afternoon, Lady Vereesa Windrunner. Glad to see you both returned safely." The ranger Kreya came out and smiled, giving the Ranger Lord a salute, then asked with concern, "Did you find anything, lady? Are there new traces of orc activity in the snowy mountain?"
 
 "There are," Vereesa said.
 

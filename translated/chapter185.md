@@ -1,6 +1,6 @@
 ## Chapter 185: First Come, First Served
 
-"You and your friend took part in the Battle of the Black Dragon in Southshore?" Halister said in surprise. "My apologies, sir. I heard about your experience in Southshore — if I'd known sooner that you were that Jace Sesso… but our main purpose right now is to find leads related to the theft, and everything happened so suddenly. Forgive me for not having prepared earlier — I didn't get any sleep last night either."
+"You and your friend took part in the fight against the black dragon at Southshore?" Halister said in surprise. "My apologies, sir. I heard about your experience in Southshore — if I'd known sooner that you were that Jace Sesso… but our main purpose right now is to find leads related to the theft, and everything happened so suddenly. Forgive me for not having prepared earlier — I didn't get any sleep last night either."
 
 He went on: "If even you felt the invader's power was unstoppable, then whether or not it was Teron Gorefiend himself, it must have been one of his capable lieutenants."
 
@@ -20,15 +20,15 @@ In this world, there were some things he could only keep to himself for now. Tha
 
 "Grede Thunderfist. He's my best friend," Jace replied.
 
-Halister thought for a moment. "Grede Thunderfist — yes, that is the dwarf warrior. Back to that command — the one you presented at the Orcish-language meeting, the order concerning Teron Gorefiend. Could you go over once more how you obtained it?"
+Halister thought for a moment. "Grede Thunderfist — yes, that is the dwarf warrior. Back to that command — the one you presented at the Orcish symposium, the order concerning Teron Gorefiend. Could you go over once more how you obtained it?"
 
 Jace glanced at Halister and cursed inwardly. So this is where you were waiting for me.
 
 If it hadn't been for that sudden flash of inspiration at the herbalist's door, when he'd thought to coordinate this with Grede, everything would have been exposed right there.
 
-Had he known it would be this much trouble, he might as well have just told the truth straight up at the Orcish-language meeting.
+Had he known it would be this much trouble, he might as well have just told the truth straight up at the Orcish symposium.
 
-What did he care whether Kel'Thuzad went to Southshire or not? So what if he turned it into a second Northrend? Duskwood was going to end up that way anyway.
+What did he care whether Kel'Thuzad went to South Elwynn or not? So what if he turned it into a second Northrend? Duskwood was going to end up that way anyway.
 
 As his anger flared, Jace thought of the Ladimore family again.
 
@@ -66,7 +66,7 @@ Jace walked downstairs and, once he'd confirmed all the mages had left, finally 
 
 "No chance, Master," Jace said. "Remember that elf from this afternoon? He'd already bought the command off me."
 
-Dushan laughed. "Actually, the moment that fellow said he was from the Relics Society, I'd already guessed what he was after. Your command wasn't much in itself, but after last night's chaos, it was bound to get a lot of people's attention. Selling it off was for the best — let them fight over it among themselves."
+Dushan laughed. "Actually, the moment that fellow said he was from the Reliquary, I'd already guessed what he was after. Your command wasn't much in itself, but after last night's chaos, it was bound to get a lot of people's attention. Selling it off was for the best — let them fight over it among themselves."
 
 "That's what I figured too." Jace picked up a piece of bread. "When are you heading back to Stormwind, Master?"
 
@@ -99,13 +99,3 @@ After dinner, just as Dushan was about to head back to his room to rest, Jace su
 And with that, before Jace could even reply, Dushan shut the door with a bang.
 
 Jace figured he really had been pushing his luck. He leaned back in his chair and, having heard Dushan out, suddenly felt dead tired himself. And with one arm injured, practicing a mage spell was going to be ten times harder — this spell had pretty demanding gesturing requirements. If something went wrong and messed up tomorrow's travel plans, that'd be a disaster.
-
-## Flags
-
-- **格瑞德·雷拳** → Grede Thunderfist. Thunderfist is in the glossary as Grede's dwarven family name; full name not previously used, so rendered here.
-- **南海镇** → Southshore. Not in the glossary; canonical WoW town in the Hillsbrad/Wetlands area.
-- **南艾尔文** → Southshire. Not in the glossary; see chapter182 flag.
-- **拉迪摩尔一家** → the Ladimore family. Ladimore is in the glossary.
-- **诺森德** → Northrend. Not in the glossary; canonical continent.
-- **米奈希尔港** → Menethil Harbor. In the glossary as Menethil Bay/Harbor; used "Harbor" here for the ship context.
-- **卡罗·杜尚** → Caro Dushan. In the glossary; rendered as "Master Dushan."

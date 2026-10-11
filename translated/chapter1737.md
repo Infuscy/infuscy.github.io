@@ -6,7 +6,7 @@ From the echoes of footsteps, armor and scale scraping, and faint whispers, Jace
 
 The dragonkin guard led Magatha and Jace's group down a winding path, then onto a straight descending slope. Occasionally, reptilian eyes would open on the black walls on either side, but impossible to tell if they belonged to dragons, dragonkin, or drakonid.
 
-There must be a large number of dragonflight hidden here, guarding their mother Onyxia. And every single one of them was calm and composed — even knowing exactly what had walked into this cave.
+There must be a large number of her brood hidden here, guarding their mother Onyxia. And every single one of them was calm and composed — even knowing exactly what had walked into this cave.
 
 "I kind of miss our archmage." Grede eyed the pairs of eyes watching them from the slope on both sides. "Remember that tower?"
 
@@ -22,7 +22,7 @@ There must be a large number of dragonflight hidden here, guarding their mother 
 
 "Then you didn't plan thoroughly enough." Grede said. "Anyway, I'm not counting on this warlock to learn some bizarre spell that teleports everyone out."
 
-"I don't think this lair's master wants us dead." Sora said quietly. "I think she already knows we're here."
+"I don't think this lair's master wants us dead." Sola said quietly. "I think she already knows we're here."
 
 Jace thought so too. It was obvious from the fact that the dragonkin hadn't even asked who they were. He just didn't know if she'd known from the moment they stepped into the swamp, or from when they'd entered Blackhoof Village.
 
@@ -40,11 +40,11 @@ Magatha ahead suddenly stopped. Jace looked forward by the light of the tauren's
 
 A rumbling, snorting sound came from inside the "abyss." Jace couldn't see anything, but he felt the shadow energy that had been surrounding them since they'd entered suddenly tighten.
 
-Needleflame's eyes went wide. She stiffened and took a step back. Vereesa caught her. In the torchlight, Sora's face had also lost its color, though her expression remained calm.
+Needleflame's eyes went wide. She stiffened and took a step back. Vereesa caught her. In the torchlight, Sola's face had also lost its color, though her expression remained calm.
 
 A pair of golden, blazing eyes "floated" up from the abyss. Jace watched as, at the edge of the firelight's reach, layer after layer of purple-red scales swept past like surging waves. Then came a blast of thick, greasy air that nearly knocked them off their feet.
 
-He looked up at the tauren. Aside from Magatha, the others were starting to panic, muttering to each other in Tauren. Even Natila was too scared to blink, staring straight ahead into the darkness.
+He looked up at the tauren. Aside from Magatha, the others were starting to panic, muttering to each other in Taur-ahe. Even Nathra was too scared to blink, staring straight ahead into the darkness.
 
 But in that moment, there was nothing in the abyss beneath them anymore. Even the eyes had vanished.
 
@@ -56,7 +56,7 @@ Grede said through gritted teeth, "That's her. I still remember."
 
 But Jace wasn't surprised. Onyxia was a master of shadow energy. If she didn't want a warlock like Jace to sense her presence through shadow, there was nothing he could do.
 
-"What are you talking about?" Magatha turned back. "You've met the Nestmother before?"
+"What are you talking about?" Magatha turned back. "You've met the Broodmother before?"
 
 "You still don't know who they are, Magatha?"
 
@@ -64,21 +64,21 @@ A murmur rose from the bottom of the abyss. The voice was weak and low, like a m
 
 "Was it a mistake, having you and your tribe guard my lair?"
 
-Magatha looked at the depths ahead, then whipped her head back to stare at Jace. Then she fixed her gaze on Natila. "You."
+Magatha looked at the depths ahead, then whipped her head back to stare at Jace. Then she fixed her gaze on Nathra. "You."
 
 "I... I don't know what she means either, Matriarch!"
 
 "Ah, Magatha. Magatha." The voice laughed twice. "I never expected you to see through Jace Sesso's little trick. The reason I like this human is because—"
 
-"What did you say, Nestmother? He is Jace Sesso?" Magatha nearly staggered. Gripping her staff tightly, her face twisted as she stared down at the warlock and his companions. But just as she drew a breath to say more, the voice cut her off.
+"What did you say, Broodmother? He is Jace Sesso?" Magatha nearly staggered. Gripping her staff tightly, her face twisted as she stared down at the warlock and his companions. But just as she drew a breath to say more, the voice cut her off.
 
 "Enough. I didn't expect you to stop Jace Sesso. That doesn't mean I'm not disappointed. Step aside now. Let them come in."
 
-Magatha frowned, looking back into the darkness. "You're willing to let your most hated enemy enter your hall, to witness your true face, Nestmother... but you won't let your most loyal partner and follower set foot inside?"
+Magatha frowned, looking back into the darkness. "You're willing to let your most hated enemy enter your hall, to witness your true face, Broodmother... but you won't let your most loyal partner and follower set foot inside?"
 
 "Silence."
 
-The voice weakened considerably. But the tauren didn't argue further. She just sighed deeply, her stomach full of fire.
+The voice weakened considerably. But the tauren didn't argue further. She just let out a long breath, seething.
 
 Then, torches blazed to life on both sides of the cliff, illuminating a descending stairway carved into the stone.
 
@@ -90,13 +90,13 @@ Then, torches blazed to life on both sides of the cliff, illuminating a descendi
 
 Jace looked at Needleflame. "How are you holding up?"
 
-"How am I holding up?" Needleflame snorted, steadied her breathing, puffed out her chest, took a breath, and gripped the hilt of the Blade of Ruin at her waist as she hurried down the steps after Vereesa.
+"How am I holding up?" Needleflame snorted, steadied her breathing, puffed out her chest, took a breath, and gripped the hilt of Perdition's Blade at her waist as she hurried down the steps after Vereesa.
 
-Natila seemed shaken by the exchange. She stood beside Magatha with her head down, glanced at Jace once, then didn't dare look again. She only stared at her matriarch's hooves.
+Nathra seemed shaken by the exchange. She stood beside Magatha with her head down, glanced at Jace once, then didn't dare look again. She only stared at her matriarch's hooves.
 
-She was, after all, Magatha's family. If she'd simply been fooled by Jace's group, she probably wouldn't face severe punishment — Magatha had been fooled too. But if these people spoke up for her now, Natila would surely be suspected of betrayal.
+She was, after all, Magatha's family. If she'd simply been fooled by Jace's group, she probably wouldn't face severe punishment — Magatha had been fooled too. But if these people spoke up for her now, Nathra would surely be suspected of betrayal.
 
-So Jace shot a glance at Mossa in her dark iron dwarf form, signaling her to ignore Natila's situation and follow them down. Mossa nodded and went after Grede and Sora.
+So Jace shot a glance at Mosa in her Dark Iron dwarf form, signaling her to ignore Nathra's situation and follow them down. Mosa nodded and went after Grede and Sola.
 
 The spiral stairway wound down and down, surrounded by rough gray stone walls. No reference points. It kept turning until Jace almost lost track of which direction they'd come from.
 

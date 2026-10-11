@@ -12,11 +12,15 @@ Jace and Vereesa came to the forest by the lakeshore, gazing at the starlight re
 
 "Of course I'm grateful for that too, regardless of whether it was on your orders," Vereesa said. "But that's not what I mean. I mean going to Kalimdor. If it weren't for her, I might never have figured out what exactly I felt for you."
 
-The arcane flames in the elf's eyes dimmed a little; Jace could even make out her real eyes now."I'm sorry," he said.
+The arcane flames in the elf's eyes dimmed a little; Jace could even make out her real eyes now.
+
+"I'm sorry," he said.
 
 "I'm not about to compete with a demon servant for anything, Jace," Vereesa said, flicking a long eyebrow. "Don't forget where I come from."
 
-"Why don't we talk about you instead? Since when did you start taking an interest in an 'elf' from Quel'Thalas?" Jace thought for a moment. "Remember Eastvale?"
+"Why don't we talk about you instead? Since when did you start taking an interest in an 'elf' from Quel'Thalas?"
+
+Jace thought for a moment. "Remember Eastvale?"
 
 "Ah — how could I forget? I knew it." She smiled slightly.
 
@@ -84,7 +88,7 @@ He kissed lower and lower. Vereesa realized something was off and abruptly clamp
 
 "Jace…"
 
-"I like you, Wen." Jace raised his head and looked at the elf, whose upper body had curled up in shyness. "I had to say it."
+"I like you, Vere." Jace raised his head and looked at the elf, whose upper body had curled up in shyness. "I had to say it."
 
 Vereesa flushed, let out a breath, and smiled. "Well then, I like you — you must have known that all along." Jace hesitated for a moment, then said quietly, "Actually, I was never quite sure."
 
@@ -96,7 +100,7 @@ She bent forward and clung to Jace tightly, pressing against his hair and forcin
 
 The two of them held each other tightly for a long time. Jace said softly, "You don't need to be afraid anymore. I'll stay with you to the very end."
 
-"Remember your own words." Vereesa wiped away her tears and smiled again. "These past few days have felt like a dream. You stood in the center of that hall, driving Azure Skysong through your own arm. My heart ached… but at that moment you were like a hero out of a story — the master of Grim Batol. I think the Dragonqueen thought so too. Maybe you didn't notice, but she was stunned too. Heh — only that dwarf, too busy fighting orcs to care."
+"Remember your own words." Vereesa wiped away her tears and smiled again. "These past few days have felt like a dream. You stood in the center of that hall, driving Azuresong through your own arm. My heart ached… but at that moment you were like a hero out of a story — the master of Grim Batol. I think the Dragonqueen thought so too. Maybe you didn't notice, but she was stunned too. Heh — only that dwarf, too busy fighting orcs to care."
 
 Jace couldn't help laughing too. "Ever since the war ended, he's finally had a chance to fight orcs to his heart's content. I suspect he followed me into Grim Batol just for that."
 
@@ -107,19 +111,3 @@ Vereesa was silent for a moment, then fixed Jace with a stare. "Then you followe
 Vereesa glanced down, and her face flushed hot again.
 
 "Mm." She tilted her head forward and tasted his lips. "I can't wait."
-
-## Flags
-
-- **温蕾萨** = Vereesa Windrunner.
-- **撒厄诺** = Sazeno (imp).
-- **莫洛菲尔** = Morophil (succubus).
-- **萨亚德** = Sayad/Succubus.
-- **洛克湖** = the Loch (Loch Modan's lake; glossary lists 洛克莫丹 = Loch Modan).
-- **无尽黑暗之刃** = Blade of Eternal Darkness (Vereesa's dagger; tentative).
-- **碧空之歌** = Azure Skysong (Jace's sword; tentative).
-- **奎尔多雷** = Quel'dorei (High Elves; Vereesa's people).
-- **风行者** = Windrunner (Vereesa's surname).
-- **希尔瓦娜斯** = Sylvanas (Sylvanas Windrunner).
-- **生命缚誓者** = the Life-Binder (Alexstrasza, the Dragonqueen).
-- This chapter contains an intimate scene between Jace and Vereesa; translated to match the tone of chapter001's style guide (natural, conversational, no censorship beyond what the source implies).
-- "Mountain King" (山丘之王) = reference to the dwarven Mountain King hero unit / title; Grede's battle-frenzy in Grim Batol.

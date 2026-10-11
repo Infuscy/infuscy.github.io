@@ -106,7 +106,7 @@ He was a very tall man. When the hood came off, his eyes glowed with a faint blu
 
 Jace was facing a hostile elf for the first time, and he felt the terrifying, ancient aura of this race deep in his bones.
 
-Reluctant as he was, there were times when you had to bow your head.
+Reluctant as he was, there were times when you had to swallow your pride.
 
 "Remember to take your bear trap with you, dwarf — you could sell it for a fair bit of scrap," the elf said with a smile. "Oh, you weren't planning to use that on me, were you? How frightening."
 
@@ -115,15 +115,3 @@ His tone turned ice cold. "Learn some manners from your human friend — learn w
 Grede's hand had already grabbed the bear trap to take it, but at those last words he stopped.
 
 Jace could feel the killing intent rising from the ground beside his feet. He knew — this fight was unavoidable now.
-
-## Flags
-
-- **南艾尔文 (South Elwynn):** Not in glossary. Rendered as "South Elwynn" — the southern part of Elwynn Forest.
-- **皇血草 (Kingsblood):** Listed in glossary. Used "Kingsblood."
-- **石南草 (Briarthorn):** Listed in glossary. Used "Briarthorn."
-- **蓝酪 (blue cheese):** Not in glossary. Stormwind's local blue cheese. Rendered as "blue cheese."
-- **尖耳贼 / 尖耳老鼠 (pointy-eared bastard/rat):** Not in glossary. Grede's derogatory slang for elves. Rendered as "pointy-eared bastard" and "pointy-eared rat."
-- **臭瞎子 (stinking blind bastard):** Not in glossary. The elf's insult to Grede (mocking dwarven eyesight). Rendered as "stinking blind bastard."
-- **巡林客 (Ranger):** Chapter title. The elf is a ranger/warden type. Rendered chapter title as "The Ranger."
-- **联盟 (Alliance):** Listed in glossary. Used "Alliance."
-- **通用语 (Common):** Not in glossary as a term, but the common trade language. Rendered as "Common."

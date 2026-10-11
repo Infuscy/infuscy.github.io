@@ -1,6 +1,6 @@
 ## Chapter 1350: Taking the Bait
 
-The air was thick with the stench of shadowflame. Sabellian's ferocious spell had stunned the gathered orcs into dead silence. Even the warlocks who'd recognized Blackheart's tricks dared not move.
+The air was thick with the stench of Shadowflame. Sabellian's ferocious spell had stunned the gathered orcs into dead silence. Even the warlocks who'd recognized Blackheart's tricks dared not move.
 
 Vorpil sat on the ground, his pale, sickly eyes trembling uncontrollably. Hard to say whether he was more afraid that Blackheart had been influenced by the Old Gods, or terrified of Sabellian's devastating power.
 
@@ -18,7 +18,7 @@ From his earlier sermons, he'd been deliberately trying to distort the faith of 
 
 That also explained why Blackheart was so desperate to get his hands on the demon registry. To let his "god" control Draenor, he'd first need to hold back the Burning Legion's demon offensive.
 
-Back then, when he'd urged Jace — playing the warlock Yulruk — to find the Book of Unholy Names, the rewards and promises he'd offered were probably related to the Old Gods too.
+Back then, when he'd urged Jace — playing the warlock Yurk — to find the Book of Fel Names, the rewards and promises he'd offered were probably related to the Old Gods too.
 
 But Jace knew that no matter which Old God had influenced Blackheart, it wasn't N'Zoth — the one who'd corrupted the Earth-Warder Neltharion — or any other being from Azeroth.
 
@@ -28,11 +28,11 @@ It was simply that Azeroth's energy was particularly powerful, blazing brilliant
 
 But as for whether Sabellian had been too hasty in executing Blackheart... that was debatable.
 
-Who knew how many of the faithful here would have been influenced if Blackheart had been allowed to keep chanting those Shath'yar murmurs? Jace could see that many of the more impressionable cult members had already followed Instigator Blackheart too far down that road.
+Who knew how many of the faithful here would have been influenced if Blackheart had been allowed to keep chanting those Shath'Yar murmurs? Jace could see that many of the more impressionable cult members had already followed Blackheart the Inciter too far down that road.
 
 If they'd delayed any longer, the Arcane Sanctum might have erupted in civil war between Blackheart and Vorpil. On Vorpil's side, aside from a few felguards and some not-yet-fully-convinced warlocks, there was almost no one left.
 
-Sora had recovered from her earlier shock. She warily observed the panicked, confused cult members around them, in case any of them suddenly lashed out.
+Sola had recovered from her earlier shock. She warily observed the panicked, confused cult members around them, in case any of them suddenly lashed out.
 
 Most were staring up at Sabellian — or rather, Dragonmaw warlock Naihogar — with complex expressions. Some even gripped their weapons and staves tighter...
 
@@ -58,17 +58,17 @@ After hearing his words, the old warlock coughed a couple of times. "I sincerely
 
 This was a probe into the fel orcs' origin. Jace worked his lips slightly, adjusting his teeth, using the moment to organize his words. It seemed the old warlock wasn't fully convinced just because he couldn't sense any lies.
 
-"We are not the first batch of emissaries Master Magtheridon sent to Auchindoun." Jace said. "Before Dragonmaw fortress fell to the Alliance and the black dragons, Master Magtheridon had already sent several emissaries here. Some who successfully returned brought less than positive feedback. Some reported that the leaders controlling the Shadow Council weren't so loyal. Some doubted the Legion. Some wanted to control Auchindoun's souls for their own use. And some..."
+"We are not the first batch of emissaries Master Magtheridon sent to Auchindoun." Jace said. "Before Dragonmaw Fortress fell to the Alliance and the black dragons, Master Magtheridon had already sent several emissaries here. Some who successfully returned brought less than positive feedback. Some reported that the leaders controlling the Shadow Council weren't so loyal. Some doubted the Legion. Some wanted to control Auchindoun's souls for their own use. And some..."
 
 "Some were after Lord Kil'jaeden's demon registry," Sabellian added.
 
 "Yes. Shocking, isn't it?" Jace said. "Master Magtheridon sent us here partly for that reason."
 
-"It's Yulruk — that powerful warlock — and a powerful Sayad lord who was with him." Vorpil said with certainty. "Very few emissaries from Karabor or Hellfire Citadel have been able to reach Auchindorn recently. It must have been him!"
+"It's Yurk — that powerful warlock — and a powerful sayaad lord who was with him." Vorpil said with certainty. "Very few emissaries from Karabor or Hellfire Citadel have been able to reach Auchindoun recently. It must have been him!"
 
-The old warlock let out a dejected sigh, lowering his voice to almost a whisper. "Blackheart insisted that the Hellfire Citadel emissary was a human warlock named Jace Sesso in disguise. He claimed the man was sent by the Alliance Expedition to gather intelligence. Within days, the Bladespire fortress fell, Lord Batas was killed, and the Book of Unholy Names was stolen. Lord Kil'jaeden must have been furious. Fear and worry forced me to believe him..."
+The old warlock let out a dejected sigh, lowering his voice to almost a whisper. "Blackheart insisted that the Hellfire Citadel emissary was a human warlock named Jace Sesso in disguise. He claimed the man was sent by the Alliance Expedition to gather intelligence. Within days, Highmaul fell, Lord Batas was killed, and the Book of Fel Names was stolen. Lord Kil'jaeden must have been furious. Fear and worry forced me to believe him..."
 
-"I didn't say who it was. Master Magtheridon didn't tell me to reveal the source of this intelligence." Jace said. "Perhaps the Yulruk you mentioned really was Jace Sesso in disguise. No one can say for sure. But the emissary I mentioned did convey Master Magtheridon's wish to build a portal in Auchindoun. And to this day... I see no progress."
+"I didn't say who it was. Master Magtheridon didn't tell me to reveal the source of this intelligence." Jace said. "Perhaps the Yurk you mentioned really was Jace Sesso in disguise. No one can say for sure. But the emissary I mentioned did convey Master Magtheridon's wish to build a portal in Auchindoun. And to this day... I see no progress."
 
 "No, he promised that Master Magtheridon would send more warlocks, even the Legion, to help us build the portal!" Vorpil coughed violently a few times, speaking urgently. "Damn Blackheart. He deceived us all. He thought I was a senile old fool unfit to lead the cult. He thought I would trust anyone... He exploited my weakness! You must believe me, masters! And you too, Lady Sosala!"
 
@@ -82,7 +82,7 @@ Sabellian and Jace exchanged glances. They hadn't expected the old man to jump i
 
 "Are you sure, Master Vorpil?" Jace said. "Blackheart just died. Your cult is in complete chaos. And you think now is a good time to launch an offensive?"
 
-Sora shot Jace a look, as if asking why he was arguing against it when Vorpil had clearly taken the bait.
+Sola shot Jace a look, as if asking why he was arguing against it when Vorpil had clearly taken the bait.
 
 "With a few powerful warlocks like you assisting me, I'm not worried!" Vorpil said fiercely. "Besides, the cult needs a strong enemy — a significant victory — to reunite. As long as it serves the Legion's rule, the cult does not fear death or sacrifice!"
 

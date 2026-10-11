@@ -1,24 +1,24 @@
 ## Chapter 981: The Highland Search
 
-Where the towering Blackrock Mountain connected to the eastern reaches of the Redridge Mountains, a thousand-mile stretch of mountains formed a barrier between the Burning Plains and the Blasted Lands.
+Where the towering Blackrock Mountain connected to the eastern reaches of the Redridge Mountains, a thousand-mile stretch of mountains formed a barrier between the Burning Steppes and the Blasted Lands.
 
-Perhaps because winter had already set in, the bitter cold of the desolate desert at night and the unnatural heat of the Burning Plains created a violent temperature difference, making the wind howl here all day long. Volcanic ash and sand swirled through the sky in a blinding haze.
+Perhaps because winter had already set in, the bitter cold of the desolate desert at night and the unnatural heat of the Burning Steppes created a violent temperature difference, making the wind howl here all day long. Volcanic ash and sand swirled through the sky in a blinding haze.
 
-Solamriel flew through this brutal environment. Though she constantly used the power of the Dream to maintain her own stability, she could still feel herself buffeted about from time to time.
+Somaelir flew through this brutal environment. Though she constantly used the power of the Dream to maintain her own stability, she could still feel herself buffeted about from time to time.
 
 Jace, meanwhile, kept a sharp eye on the mist and clouds around them, watching for black dragons that might appear without warning.
 
-The farther they got from Blackrock Mountain, the lower the chance of encountering whelps. After flying an entire day, the Redridge Mountains below gradually turned from their eastward course to a southward sweep.
+The farther they got from Blackrock Mountain, the lower the chance of encountering drakes. After flying an entire day, the Redridge Mountains below gradually turned from their eastward course to a southward sweep.
 
-The plain was narrowing here. They seemed to be getting closer to the canyon Jace had crossed with Vereesa before—go a little farther east and they'd likely follow the canyon into the gnoll-infested forest. So the Talc cave should be somewhere in these mountains.
+The plain was narrowing here. They seemed to be getting closer to the canyon Jace had crossed with Vereesa before—go a little farther east and they'd likely follow the canyon into the gnoll-infested forest. So the Slither Rock cave should be somewhere in these mountains.
 
-"We're about there," Jace reminded Solamriel. "You can come down a little."
+"We're about there," Jace reminded Somaelir. "You can come down a little."
 
 The green dragon acknowledged softly and slowed the beat of her wings. But scanning the entire mountainside through the still-hanging dust and haze, Jace immediately felt just how difficult finding that cave would be.
 
 The terrain was a jumble of jagged rock formations, ravines cutting everywhere—there was no telling how to even begin searching for a hidden rebel cave.
 
-Good thing they had Solamriel. They didn't have to trudge across every inch of the mountainside on foot. And as a flying creature, the green dragon's eyesight was remarkably keen. With her help, it wasn't long before they found a crack-like cave among a cluster of charred tree stumps.
+Good thing they had Somaelir. They didn't have to trudge across every inch of the mountainside on foot. And as a flying creature, the green dragon's eyesight was remarkably keen. With her help, it wasn't long before they found a crack-like cave among a cluster of charred tree stumps.
 
 There were no guards outside this cave, no identifying markers of any kind. Jace had the feeling something was off.
 
@@ -28,7 +28,7 @@ Still, this was the first cave. Coming up empty was no great loss. Only, the nex
 
 Coming out of the fifth cave, the sky had already begun to darken. Away from Blackrock Mountain, day and night were gradually becoming distinguishable again.
 
-Jace looked toward the gloomy black clouds of the Burning Plains to the west—he'd still underestimated just how well hidden that cave was.
+Jace looked toward the gloomy black clouds of the Burning Steppes to the west—he'd still underestimated just how well hidden that cave was.
 
 "Jace, look over there." Sola pointed to a ravine down the slope. "There seems to be another cave there."
 
@@ -42,9 +42,9 @@ But these mountains… they were truly a wasteland. Forget living people—there
 
 "If there's still some wild creature hiding in here—giant scorpion or fire lizard alike—I'm killing it for meat," he muttered impatiently.
 
-"Save me some. I'm a bit hungry too." Sora said in a husky orcish voice. Combined with the charred iron axe she'd picked up from one of the earlier caves, which she carried as a prop for her disguise, she looked like a rather brainless brute.
+"Save me some. I'm a bit hungry too." Sola said in a husky orcish voice. Combined with the charred iron axe she'd picked up from one of the earlier caves, which she carried as a prop for her disguise, she looked like a rather brainless brute.
 
-Truth be told, that axe had given Jace a false rush of excitement not long ago. He'd really thought they'd found the rebels' hidden "Talc cave"—at the very least a cave connected to orcs or orcish affairs, something to push the trail forward. Who would have thought it was yet another fire lizard's lair—and when they'd reached the deepest part, he'd nearly had a face-full of molten spit from a giant fire lizard.
+Truth be told, that axe had given Jace a false rush of excitement not long ago. He'd really thought they'd found the rebels' hidden "Slither Rock cave"—at the very least a cave connected to orcs or orcish affairs, something to push the trail forward. Who would have thought it was yet another fire lizard's lair—and when they'd reached the deepest part, he'd nearly had a face-full of molten spit from a giant fire lizard.
 
 "You're a dragon, Sola." Jace hopped down a large boulder and jogged a few steps to catch up with Sola. "Shouldn't your appetite be enormous?"
 
@@ -56,15 +56,15 @@ Truth be told, that axe had given Jace a false rush of excitement not long ago. 
 
 Jace smiled. "That's right, mutton chops—Stormwind's mutton chops are great too!"
 
-"And you don't have to worry about horns poking your mouth, unlike antelope," Sola said. "I mean the antelope of Kalimoth. You must have seen them—didn't you travel across the great southern plains to Ashenvale? There are lots of antelope there."
+"And you don't have to worry about horns poking your mouth, unlike antelope," Sola said. "I mean the antelope of Kalimdor. You must have seen them—didn't you travel across the great southern plains to Ashenvale? There are lots of antelope there."
 
 Horns poking his mouth. Jace chewed on that phrase, which didn't sound quite right, and his smile froze on his face. He exchanged a glance with Morophil behind him—the succubus was already grinning wickedly.
 
 He gathered his thoughts and said, "You know, Sola, the sheep in Elwynn Forest all have owners. They live on farms, not… in herds like antelope."
 
-"You think I ate someone's sheep without permission?" Sola turned back to look at Jace. "Grede already told me not to do that. He paid the gryphon keeper for them—apparently they were supposed to be Goret's food. He told me Goret was a very ill-tempered gryphon who loved to bully people, and if I ate his sheep he'd be furious and throw a tantrum everywhere. But when I met Goret that time, he looked very well-behaved and obedient—nothing like what Grede described."
+"You think I ate someone's sheep without permission?" Sola turned back to look at Jace. "Grede already told me not to do that. He paid the gryphon keeper for them—apparently they were supposed to be Gorjet's food. He told me Gorjet was a very ill-tempered gryphon who loved to bully people, and if I ate his sheep he'd be furious and throw a tantrum everywhere. But when I met Gorjet that time, he looked very well-behaved and obedient—nothing like what Grede described."
 
-Ill-tempered or not, Goret was no idiot.
+Ill-tempered or not, Gorjet was no idiot.
 
 Faced with a green monster that outclassed him in both size and fang-and-claw, even the surliest temper would know to rein itself in a little.
 

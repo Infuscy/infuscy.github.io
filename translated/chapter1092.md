@@ -6,11 +6,11 @@ But he wasn't faster than his opponent. Halfway through the incantation, he watc
 
 Once his Fear got countered, even a warlock as practiced in shadow as he was could find his connection to the Shadow severed. That was the brutal nature of the Weave.
 
-In the instant his consciousness shifted, the gathered shadow power began to slip from his control. He felt a savage arcane force stab straight into his skull — a flash of searing pain, but bearable. After all, he'd only caught a Counterspell with nothing behind it. This Counterspell... wasn't much stronger than Marin's.
+In the instant his consciousness shifted, the gathered shadow power began to slip from his control. He felt a savage arcane force stab straight into his skull — a flash of searing pain, but bearable. After all, he'd only caught a Counterspell with nothing behind it. This Counterspell... wasn't much stronger than Malin's.
 
 The rain and air around him turned abruptly cold. Jace channeled the shadow that hadn't yet dissipated to Shadowstep out of that pocket of air, flashing several meters to the side. Where he'd been standing, a mass of frost clamped down and a pillar of ice erupted from the ground, sprouting countless needle-sharp spikes.
 
-He only caught a glimpse — no way to tell whether that was a spell that could kill instantly, or a Bindings of Ice that had simply missed its target.
+He only caught a glimpse — no way to tell whether that was a spell that could kill instantly, or an ice-binding spell that had simply missed its target.
 
 Two mages at once...
 
@@ -20,21 +20,21 @@ He should have summoned a felhound ahead of time, but there was no point dwellin
 
 How the hell was he supposed to summon a felhound right in front of Morgan when they hadn't found a single mage in the crypt?
 
-A bowstring's hiss tore through his thoughts. The Shadow Veil was still carrying him when he caught the sound of several high elves calling to each other in the distance.
+A bowstring's hiss tore through his thoughts. The shadow was still carrying him when he caught the sound of several high elves calling to each other in the distance.
 
-Right now his only helper was Morfile, and Morfile couldn't just show up and pin down these three opponents, because there was still someone lurking in the shadows. Who?
+Right now his only helper was Morophil, and Morophil couldn't just show up and pin down these three opponents, because there was still someone lurking in the shadows. Who?
 
-It's up to you, Morfile... keep an eye on that one. I can't afford to be distracted right now.
+It's up to you, Morophil... keep an eye on that one. I can't afford to be distracted right now.
 
-He drifted behind a headstone and steadied himself. The shadows faded. Dar'Khan was right — the shadow suffusing the Great Graveyard and all of Duskwood was his ally. But that advantage wasn't much of an edge, because Dar'Khan was a master of Shadow too...
+He drifted behind a headstone and steadied himself. The shadows faded. Dar'Khan was right — the shadow suffusing the Raven Hill Cemetery and all of Duskwood was his ally. But that advantage wasn't much of an edge, because Dar'Khan was a master of Shadow too...
 
-He felt a soothing sensation drift over through the soul link. Maybe Morfile had understood. Maybe she hadn't. Jace didn't have the mental bandwidth to figure it out.
+He felt a soothing sensation drift over through the Soul Link. Maybe Morophil had understood. Maybe she hadn't. Jace didn't have the mental bandwidth to figure it out.
 
 Suddenly, a burst of light flared in the distance behind the headstone. An arcane orb drifted toward the rear flank, illuminating a wide stretch of mausoleum foundations nearby.
 
 This was a good moment... to summon a felhound.
 
-But a proper summoning ritual took too long. Those two mangers and that Farstrider would never give him the opening.
+But a proper summoning ritual took too long. Those two mages and that Farstrider would never give him the opening.
 
 Rely on Sazeno?
 
@@ -44,7 +44,7 @@ The arcane orb drowned against the distant graveyard wall. Rapid footsteps close
 
 No time. Jace pulled a small vial of his own blood from his bag — about half a bottle he'd collected a few days ago.
 
-"It has to be Zabel," the Dark Iron warlock Morulus's words echoed in his head. "He's a demon magic genius. He can summon demon minions by burning the blood-writing right in his palm, like an orcs do. But on my end, I'm not skilled enough yet, and the cost is enormous..."
+"It has to be Zubel," the Dark Iron warlock Molus's words echoed in his head. "He's a demon magic genius. He can summon demon minions by burning the blood-writing right in his palm, like the orcs do. But on my end, I'm not skilled enough yet, and the cost is enormous..."
 
 "Write the summoner's title, name, nickname, and so on, at the key point."
 
@@ -64,21 +64,21 @@ But he ignored all of it. He had to finish the summoning.
 
 He gathered shadow power again, using the blazing firestorm as cover to retreat several meters. At the same time, he carved the name "Dazarm" into his palm with the dagger.
 
-There were currently three felhounds within the borders of the Kingdom of Stormwind — one with SI:7, one near Iylogara Tower. So summoning any one of those three to his side wouldn't cost too much mana.
+There were currently three felhounds within the borders of the Kingdom of Stormwind — one with SI:7, one near the Tower of Ilgalar. So summoning any one of those three to his side wouldn't cost too much mana.
 
-He scribbled an Anihelan numeral four after Dazarm. Things were too urgent; he hadn't controlled the force properly, and the last stroke felt like it had cut a little deep.
+He scribbled an Annihilan numeral four after Dazarm. Things were too urgent; he hadn't controlled the force properly, and the last stroke felt like it had cut a little deep.
 
-But this pain... was nothing he couldn't ignore right now. Jace clenched his fist, gritted his teeth, and intoned: "Velirinki, Toxintani, Toxesta, Maalimasta!"
+But this pain... was nothing he couldn't ignore right now. Jace clenched his fist, gritted his teeth, and intoned: "Velilinki, Toxintani, Tosesta, Maalimasta!"
 
 The blood vial shattered. The rune burning in his palm ignited in shadowflame that lit the splashing blood midair. The moment the incantation finished, an arcane figure suddenly flashed through the flames right before Jace's eyes.
 
 Golden-red robes whipping in the wind, Ressathia raised her arm high and brought it down hard. Before the arcane energy of her Blink had even dispersed, she seized countless fire elements Jace had summoned, gathering them at a speed that even surprised Jace into a palm-shaped blast of flame that slammed toward him.
 
-Having just finished the summoning incantation, Jace didn't have nearly enough time to raise a Dark Shield to block the attack. But he had the blessing of red dragon blood — maybe he could...
+Having just finished the summoning incantation, Jace didn't have nearly enough time to raise a Shadow Shield to block the attack. But he had the blessing of red dragon blood — maybe he could...
 
 Just as he thought he was going to have to take the hit with his own body, a burly black shadow suddenly lunged from behind him and swallowed the entire "flame palm." The rest of the force was absorbed by thick hide.
 
-Dazarm IV, wreathed in flames still lurching on its tendrils, charged straight at Ressathia. The elf's confident look collapsed in an instant. She raised her hand and tried to cast what looked like a Slow spell on the felhound closing in at impossible speed — but the incantation was cut short by an ear-splitting roar that nearly deafened Jace.
+Dazarm IV, with flames still clinging to its tendrils, charged straight at Ressathia. The elf's confident look collapsed in an instant. She raised her hand and tried to cast what looked like a Slow spell on the felhound closing in at impossible speed — but the incantation was cut short by an ear-splitting roar that nearly deafened Jace.
 
 The countered mage turned and tried to flee on foot, but Dazarm pounced and clamped down on her neck, pinning her against a shattered headstone and tearing into her like a spotted hyena ripping apart a helpless kitten.
 
@@ -92,7 +92,7 @@ Jace didn't even have the strength to deal with the Farstrider calmly loosing ar
 
 An ethereal incantation began — a Draconic spell. Frost, or arcane?
 
-He couldn't worry about it anymore. He turned and hit the casting, resplendent mage-shadow with Asphyxiate, choking it into the air. Dar'Khan dissolved into a cloud of blue-white mist, laughing wildly.
+He couldn't worry about it anymore. He turned and hit the resplendent, spell-casting figure of the mage with Asphyxiate, choking it into the air. Dar'Khan dissolved into a cloud of blue-white mist, laughing wildly.
 
 Mirror Image...
 
@@ -106,7 +106,7 @@ Seemingly realizing that magic arrows drew this warlock's attention too easily, 
 
 After chaining multiple Shadowsteps and summoning Dazarm, Jace was starting to feel the strain. He needed to drink a mana potion while the ranger was still trying to locate him.
 
-That was when Sazeno grabbed his collar and shoved a Refined Wisdom Elixir into his hand.
+That was when Sazeno grabbed his collar and shoved a Flask of Distilled Wisdom into his hand.
 
 Right, almost forgot.
 
@@ -122,4 +122,4 @@ But precisely because of that, his senses sharpened abruptly — and the sting i
 
 From the other side of a large mausoleum came a muffled boom of arcane energy, followed by a felhound's furious howl. A wave of scalding flame crawled up his throat.
 
-As his panting drew closer and more demonic by the second, he felt the fel fire within him, the churning shadow in his heart, beginning to climb into his skull and infect his emotions...
+As his panting grew heavier and more demonic by the second, he felt the fel fire within him, the churning shadow in his heart, beginning to climb into his skull and infect his emotions...

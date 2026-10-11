@@ -6,17 +6,17 @@ The tower wasn't fit for hosting guests yet, so he'd sent VanCleef back to Stone
 
 He glanced at the notes he'd scribbled on a scrap of waste paper.
 
-"The Altar of Storms is still under threat from the orcs and could be retaken by the forces of Blackrock Spire at any moment… so I need to find a way to move the demon lord out of the Altar and into the mage tower as quickly as possible. That means a large sum of money to get Il'gathar Tower ready — a shortfall of about two hundred gold."
+"The Altar of Storms is still under threat from the orcs and could be retaken by the forces of Blackrock Spire at any moment… so I need to find a way to move the demon lord out of the Altar and into the mage tower as quickly as possible. That means a large sum of money to get the Tower of Ilgalar ready — a shortfall of about two hundred gold."
 
 Reading it over, Jace crumpled the paper into a ball, tossed it aside, and leaned back in his chair with a sigh.
 
 Not convincing. The Blackrock orcs hadn't even finished fighting it out with the Dark Iron dwarves yet, and even a decade from now they'd never show interest in the Altar of Storms again. Besides, Vereesa had already mentioned she couldn't count on her family for money.
 
-Vereesa knew they might need the demon lord Karlez to find a path to shattered Draenor. Bringing him up, Jace worried, would feel like he was using her sister's name to make a point.
+Vereesa knew they might need the demon lord Kallrez to find a path to shattered Draenor. Bringing him up, Jace worried, would feel like he was using her sister's name to make a point.
 
 Jace shook his head. Better to wait until she came to Stormwind and ask about the Reliquary task's reward in person.
 
-After instructing the two Dzaar'lum to keep patrolling the tower, and checking in with the Stonewatch guards about his departure, Jace rode Arna back to Stormwind.
+After instructing the two Dazarm to keep patrolling the tower, and checking in with the Stonewatch guards about his departure, Jace rode Arna back to Stormwind.
 
 He arrived four days later. If Vereesa still needed about a month before she was free, Jace planned to use the gap to look into the Thorium Brotherhood.
 
@@ -28,13 +28,13 @@ The whole of Searing Gorge was still in Dark Iron hands. They'd built towers, fo
 
 A month was a short window to go looking for a hidden stronghold a thousand miles to the north. But Jace didn't want to waste the time, either. At least trying would be something.
 
-So that day he arranged to meet Grede at the Pig and Whistle Inn and pre-ordered a spread he couldn't afford to eat once in several months: ale-braised Hillsbrad mountain lion cutlets, spicy Redridge vulture wings, Loch Modan frenzied fish broth…
+So that day he arranged to meet Grede at the Pig and Whistle Tavern and pre-ordered a spread he couldn't afford to eat once in several months: ale-braised Hillsbrad mountain lion cutlets, spicy Redridge vulture wings, Loch Frenzy broth…
 
-When he spotted Grede coming through the door, he added a flagon of mead. All told, a rough estimate put the bill at somewhere north of ten silver — especially the frenzied fish broth. Even in Thelsamar, on the shores of the Loch, it wasn't a cheap dish, because the vicious green predator was the deadliest killer in those waters.
+When he spotted Grede coming through the door, he added a flagon of mead. All told, a rough estimate put the bill at somewhere north of ten silver — especially the Loch Frenzy broth. Even in Thelsamar, on the shores of the Loch, it wasn't a cheap dish, because the vicious green predator was the deadliest killer in those waters.
 
 Jace was hoping the broth might stir up a little of the evil and ferocity buried deep in Grede's heart — enough to make him willing to go see some Dark Iron dwarves with him.
 
-More importantly, to go with Gor'jhet.
+More importantly, to go with Gorjet.
 
 Grede reached the table, saw the steaming dishes laid out, and sucked in a sharp breath. Then he eyed the Stormwind blue cheese and the honey cornbread sitting off to the side — the things he normally couldn't bring himself to try, reduced tonight to mere supporting sides.
 
@@ -46,7 +46,7 @@ The dwarf gripped the back of his chair and muttered, "What's the meaning of thi
 
 That's what he roared. But his eyes never left the plate of Redridge vulture wings.
 
-He kept stealing glances as he talked. "When you studied at the Wizard Sanctum, you could've picked Dwarvish — but no, you had to go and learn Dragonish instead! And now look, the moment you need a favor—"
+He kept stealing glances as he talked. "When you studied at the Wizard's Sanctum, you could've picked Dwarvish — but no, you had to go and learn Draconic instead! And now look, the moment you need a favor—"
 
 "Shh." Jace glanced around. "Keep your voice down!"
 
@@ -56,7 +56,7 @@ Grede shot an unhappy look at a tall human nursing a drink alone across the room
 
 "Even if it's just repairs and patching, it'll be at least a month or two," Grede said, leaning back. "It's only been a few days. I'll push them to hurry. A lot of Dark Iron dwarves speak Common, Jace — they still do business with Stormwind, after all. And the Thorium Brotherhood folk are mostly sharper than the average Dark Iron, so the odds they speak Common are even higher. See?"
 
-"These are going to cold just looking at them," he muttered.
+"These are going to go cold while we just look at them," he muttered.
 
 "Then eat," Jace said.
 
@@ -86,7 +86,7 @@ Jace said, "Even if you won't take me to see the Dark Iron, at least you'll fly 
 
 "Take the tram," Grede said.
 
-"The tram?!" Jace said. "The one in the Dwarf District? It's finished? How did I not hear about that?"
+"The tram?!" Jace said. "The one in the Dwarven District? It's finished? How did I not hear about that?"
 
 "You're a busy man these days. You've stopped caring about ordinary people's lives in this city," Grede said.
 
@@ -98,9 +98,9 @@ Grede grabbed Jace's wrist and turned it over, pointing at the Royal Court Mage 
 
 "Will that actually work?" Jace asked.
 
-"Try and see," Grede said. "I heard some Explorers' League people came over from Ironforge on the supply tram in the name of archaeological exchange. So my guess is the tram just isn't open to commercial traffic yet — for special individuals, or people on important missions, they'll still give you a ride. I didn't ask. Just go ask them yourself — it won't take much time. If they won't take you to Ironforge, I'll see if I can call Gor'jhet."
+"Try and see," Grede said. "I heard some Explorers' League people came over from Ironforge on the supply tram in the name of archaeological exchange. So my guess is the tram just isn't open to commercial traffic yet — for special individuals, or people on important missions, they'll still give you a ride. I didn't ask. Just go ask them yourself — it won't take much time. If they won't take you to Ironforge, I'll see if I can call Gorjet."
 
-At that, he sighed. "That Gor'jhet… he's way too much work to keep. I feel like Varian Wrynn played me. That little king looks honest and simple on the surface, but he's full of tricks. On the surface he was granting my wish, letting Gor'jhet stay with me — but in the end he screwed me over, and I can't even complain about it."
+At that, he sighed. "That Gorjet… he's way too much work to keep. I feel like Varian Wrynn played me. That little king looks honest and simple on the surface, but he's full of tricks. On the surface he was granting my wish, letting Gorjet stay with me — but in the end he screwed me over, and I can't even complain about it."
 
 "Didn't he say he'd provide a gryphon roost for it to live in, as long as it's in Stormwind?" Jace asked.
 
@@ -110,17 +110,17 @@ Grede took a long pull from the mead flagon and set it down with a sigh. "You do
 
 "There's nothing to eat outside in winter," Grede said helplessly. "I can't exactly let him terrorize other people's farms. Spring's here now, so hopefully things get better. Keeping that beast… it's more trouble than keeping a wife. I've never kept a wife, but I imagine it feels about the same."
 
-"And what about Gor'jhet when we go to Kalimdor?" Jace asked.
+"And what about Gorjet when we go to Kalimdor?" Jace asked.
 
-"This trip to Kalimdor, no problem," Grede said. "I'll just find a gryphon master I trust, pay him well, and have him look after the bird. A gryphon gifted by the human king — nobody would dare neglect him. The cost will definitely be higher than looking after him myself, but it can't be helped. But if later on… if I go to Kalimdor to live with Mosha for good, I don't know whether Gor'jhet can handle the journey, or whether he can adapt to life in Kalimdor."
+"This trip to Kalimdor, no problem," Grede said. "I'll just find a gryphon master I trust, pay him well, and have him look after the bird. A gryphon gifted by the human king — nobody would dare neglect him. The cost will definitely be higher than looking after him myself, but it can't be helped. But if later on… if I go to Kalimdor to live with Mosa for good, I don't know whether Gorjet can handle the journey, or whether he can adapt to life in Kalimdor."
 
-"I wouldn't worry about whether a big, strong fellow like Gor'jhet can handle Kalimdor," Jace said with a small smile, trying to reassure the dwarf. "Worst case, it's just a change of diet. And Kalimdor doesn't have proper farms anyway — just keep him away from the elves, and he can eat whatever he likes."
+"I wouldn't worry about whether a big, strong fellow like Gorjet can handle Kalimdor," Jace said with a small smile, trying to reassure the dwarf. "Worst case, it's just a change of diet. And Kalimdor doesn't have proper farms anyway — just keep him away from the elves, and he can eat whatever he likes."
 
 Grede burst out laughing. Their table instantly became the most conspicuous spot in the whole inn.
 
 Jace laughed along with him, but his mind drifted to the future — to after Grede left for Kalimdor. No matter how good a friend, how close a brother, in the end everyone built a family and lived their own life.
 
-Fortunately, Mosha Woodmane was a rare, good woman — kind, brave, unafraid of sacrifice. Jace still remembered the underground palace of Eldre'Thalas, facing that near-invincible demon wielding limitless mana — Mosha stepping in front of him and firmly volunteering to destroy the mana nexus.
+Fortunately, Mosa Woodmane was a rare, good woman — kind, brave, unafraid of sacrifice. Jace still remembered the underground palace of Eldre'Thalas, facing that near-invincible demon wielding limitless mana — Mosa stepping in front of him and firmly volunteering to destroy the mana nexus.
 
 Most importantly, she truly loved Grede — not playing with his feelings the way some elves did.
 
@@ -128,30 +128,8 @@ On top of that, she cherished her people and her family above all else; she woul
 
 Grede had no love for the Bronzebeards and had no desire to settle in Ironforge. Returning to Aerie Peak always stirred up memories he'd rather not revisit — he'd been away too long, and he wasn't eager to go back.
 
-Bonding with a foreign race from another world, carving out a new life in a strange land — that was probably the best choice. Clearly Grede longed for it, and he deserved that happiness.
+Marrying into a foreign race, carving out a new life in a strange land — that was probably the best choice. Clearly Grede longed for it, and he deserved that happiness.
 
 But even knowing all that, Jace felt a twinge in his chest — not because he didn't want Grede to be happy.
 
 At that moment, Grede fell silent at the same time, quietly mopping up the last of the broth in his plate with a piece of bread.
-
-## Flags
-
-- **猪和哨声旅店** → the Pig and Whistle Inn (canonical Old Town tavern).
-- **希尔斯布莱德山狮排** → Hillsbrad mountain lion cutlets (Hillsbrad = 希尔斯布莱德).
-- **赤脊山秃鹫翅** → Redridge vulture wings.
-- **洛克湖狂鱼汤** → Loch Modan frenzied fish broth (洛克湖 = the Loch in Loch Modan; 塞尔萨玛 = Thelsamar).
-- **蓝酪** → Stormwind blue cheese; **玉米甜面包** → honey cornbread.
-- **瑟银兄弟会** → Thorium Brotherhood (canonical).
-- **瑟银哨塔** → Thorium Point (canonical).
-- **灼热峡谷** → Searing Gorge (canonical).
-- **暗炉城** → Shadowforge City (canonical).
-- **戈尔杰特** → Gor'jhet (Grede's gryphon).
-- **莫萨·木鬃** → Mosha Woodmane (Grede's love interest; 木鬃 = Woodmane).
-- **埃雷萨拉斯** → Eldre'Thalas (canonical; the former Highborne city, Dire Maul).
-- **铜须** → Bronzebeard (dwarven clan).
-- **鹰巢山** → Aerie Peak (canonical Wildhammer stronghold).
-- **地铁** → the tram / the Deeprun Tram (canonical Deeprun Stormwind–Ironforge tram).
-- **王室宫廷法师徽记** → Royal Court Mage Signet (Jace's court mage ring).
-- **探险者协会** → Explorers' League (canonical dwarven organization).
-- **瓦里安·乌瑞恩** → Varian Wrynn (canonical).
-- **狮鹫** → gryphon (canonical mount).

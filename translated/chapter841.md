@@ -20,7 +20,9 @@ The group split up and moved outward in different directions. Jace gazed toward 
 
 "Morophil, can you sense anything?"
 
-"I don't know," Morophil said. "You could ask that little thing — it's more sensitive to this stuff than I am, Master." Jace nodded and said softly, "Sazeno."
+"I don't know," Morophil said. "You could ask that little thing — it's more sensitive to this stuff than I am, Master."
+
+Jace nodded and said softly, "Sazeno."
 
 "What is it, Master?" the imp popped out of the bag, looked around, and said, "Why is it still all snow? When are we getting out of this damned place?"
 
@@ -60,7 +62,9 @@ At that moment, a warm breeze enveloped him. Sola, eyes half-lidded, already had
 
 Soon, along with the warm feeling, a violent pain seized his mind. Jace couldn't help but cough a few low coughs — at least this meant consciousness and sensation were both returning. The healing was working.
 
-He tried to get up again, and this time he finally stood — but the moment he took a step, he nearly fell. "Jace! Hey! What the hell was that?!"
+He tried to get up again, and this time he finally stood — but the moment he took a step, he nearly fell.
+
+"Jace! Hey! What the hell was that?!"
 
 Grede came running from a distance. On the other side, Vereesa suddenly went pale, raised her bow, and shouted, "Behind you! Look out!"
 
@@ -88,7 +92,9 @@ Jace nodded, retrieved his shoe, and made his way over to Sola and the others. V
 
 The group quickly withdrew toward the higher forest. Though Jace still had ringing in his ears and ached all over, under the sustained nourishment of the green dragon's magic he was already far better than before.
 
-"How are you, Jace?" Vereesa asked. "I'm fine," Jace said.
+"How are you, Jace?" Vereesa asked.
+
+"I'm fine," Jace said.
 
 "Don't worry about his injuries, Quel'dorei," Sola said. "Red dragon essence flows in his blood — he won't be destroyed so easily. And I will tend to his wounds."
 
@@ -98,7 +104,9 @@ Sola explained, "They're no ordinary beasts. They've almost merged with this val
 
 The group found a dark spot and, confirming no owlbeasts were approaching, finally breathed a sigh of relief.
 
-But given that enormous owlbeast had approached as tracelessly as a ghost just moments ago, none of them could ever truly let their guard down. "Here, Jace — I know you'll be fine." Grede tossed over a healing potion.
+But given that enormous owlbeast had approached as tracelessly as a ghost just moments ago, none of them could ever truly let their guard down.
+
+"Here, Jace — I know you'll be fine." Grede tossed over a healing potion.
 
 "Thanks." Jace nodded.
 
@@ -118,23 +126,12 @@ Sola observed the wounds on Jace's leg for a moment. Jace asked, "Why did this o
 
 "I only wanted to protect my Master, green dragon," Morophil said. "And that owlbeast had been tormented by some other demon's curse for a long time. Perhaps I could help it remember, just a little, the days when it was still sane."
 
-"How do you know that?" Sola asked. "What demon curse?" Jace asked.
+"How do you know that?" Sola asked.
+
+"What demon curse?" Jace asked.
 
 Vereesa and Grede also looked over.
 
 "I'm certain someone tried to enslave these owlbeasts before me. That owlbeast's will resisting my power told me a great deal." Morophil explained, "Whoever placed this curse upon them, their magic is more aggressive than mine — not mere seduction."
 
 "So," she looked at Sola and said, "you really don't need to worry about my power making anything worse."
-
-## Flags
-
-- **枭兽 = owlbeast** — canonical WoW creature (not in glossary).
-- **温蕾萨·风行者 = Vereesa Windrunner** — canonical third Windrunner sister (not in glossary).
-- **索拉 = Sola** — green dragon companion; short form of 索麦莉尔/Solamiel (not in glossary).
-- **莫洛菲尔 = Morophil** — Jace's succubus (not in glossary; glossary has "Morophil").
-- **撒厄诺 = Sazeno** — imp minion (per glossary).
-- **星火术 = Starfire** — druid spell (not in glossary).
-- **月火术 = Moonfire** — druid spell (not in glossary).
-- **灵魂链接 = Soul Link** — warlock spell (not in glossary).
-- **治疗药水 = Healing Potion** — not in glossary.
-- **辛多雷 / 奎尔多雷 = Quel'dorei** — "children of the high/blood elves"; Sola uses it to address Vereesa (not in glossary).

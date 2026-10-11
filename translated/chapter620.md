@@ -1,22 +1,22 @@
 ## Chapter 620: The Master's Demon Runes
 
-Arriving at the Slaughtered Lamb that evening, the place was right in the thick of its bustle. Tharle was busy attending to customers and hadn't noticed Jace at the door at all.
+Arriving at the Slaughtered Lamb that evening, the place was right in the thick of its bustle. Jarel was busy attending to customers and hadn't noticed Jace at the door at all.
 
-He made his way all the way to the basement. Jaylene was packing up her things to leave. When she spotted Jace and Morophil, who had just materialized from the darkness, her eyes widened in surprise. "You're back, Jace. I had no idea…"
+He made his way all the way to the basement. Jalane was packing up her things to leave. When she spotted Jace and Morophil, who had just materialized from the darkness, her eyes widened in surprise. "You're back, Jace. I had no idea…"
 
-"Just got back yesterday," Jace said. "Jaylene, your robe really is excellent — durability and mana both. Without that robe, this trip of mine absolutely could not have gone so smoothly. Though the collar got a bit damaged by Shadow energy. If you have time, could you…"
+"Just got back yesterday," Jace said. "Jalane, your robe really is excellent — durability and mana both. Without that robe, this trip of mine absolutely could not have gone so smoothly. Though the collar got a bit damaged by Shadow energy. If you have time, could you…"
 
-"Of course. Bring me the robe and I'll mend it for you," Jaylene said with a polite smile. "I'm in the middle of making a second one now, and I have fabric to spare — I can help you out."
+"Of course. Bring me the robe and I'll mend it for you," Jalane said with a polite smile. "I'm in the middle of making a second one now, and I have fabric to spare — I can help you out."
 
 "Then thank you very much."
 
-Watching Jaylene hurry out of the basement with her things, Jace glanced toward the alchemy lab. It was bubbling and gurgling away — someone was brewing.
+Watching Jalane hurry out of the basement with her things, Jace glanced toward the alchemy lab. It was bubbling and gurgling away — someone was brewing.
 
 He came to the doorway and looked in at the alchemist. "Ursula, do you have any spare mana potions?"
 
 "I do." Ursula wiped the sweat from her forehead and stood up. "How many do you need?"
 
-"The same as last time, Ms. Ursula Dlin," the imp said. "Remember? When we transferred demonic power into the runes on that robe…"
+"The same as last time, Ms. Ursula Deline," the imp said. "Remember? When we transferred demonic power into the runes on that robe…"
 
 "And a bowl too," Ursula said, pulling out a mana potion and a bowl-shaped vessel. "I remember it all."
 
@@ -26,15 +26,15 @@ Jace gathered everything up and hurried to the practice room, setting the mana p
 
 "No, master. Carve the runes first, then transfer the power. We need a table for now," the imp said, standing on the stool. "A slightly larger one."
 
-Jace went back into the hallway and looked around. The table in Erland's room seemed fairly sizeable, but the moment he stepped in he caught a faint whiff of succubus. So Erland really had summoned a succubus after all.
+Jace went back into the hallway and looked around. The table in Erlan's room seemed fairly sizeable, but the moment he stepped in he caught a faint whiff of succubus. So Erlan really had summoned a succubus after all.
 
 He dragged the table over to his room. "Will this do?"
 
-"Lie down on it, Succubus," the imp said.
+"Lie down on it, succubus," the imp said.
 
 Morophil hopped up and lay down slowly, her legs dangling off the end. "This will do. We're not carving on the legs, after all."
 
-The imp dragged out Vilethorn's already-dried demon hides one by one and spread them out on the floor. The dark-blue runes on them still gave off a faint Shadow glow.
+The imp dragged out Vyletongue's already-dried demon hides one by one and spread them out on the floor. The dark-blue runes on them still gave off a faint Shadow glow.
 
 "Where do we carve?" Jace asked. "Here, master."
 
@@ -42,7 +42,7 @@ Morophil unfastened her chest guard with a soft murmur, and a pair of full, pale
 
 Jace asked it, instinctively averting his gaze. Though he spent every day with Morophil, he truly hadn't seen quite this much of her before.
 
-"Why is master so shy?" Morophil sat up and leaned in close. "But I'm not doing this deliberately. The runes need to be carved near my Succubus Heart, and the clothing over the outside would interfere with the completeness of the sigil's inscription…"
+"Why is master so shy?" Morophil sat up and leaned in close. "But I'm not doing this deliberately. The runes need to be carved near my heart, and the clothing over the outside would interfere with the completeness of the sigil's inscription…"
 
 "What she says isn't wrong," Sazeno said. "The Burning Legion members' runes are all on the chest and shoulders, but clearly this succubus's shoulders are too narrow and small to carve any powerful, complete sigils."
 
@@ -78,7 +78,7 @@ He glanced at the rune's strokes once more, steadied his nerves with a deep brea
 
 "Doesn't it hurt?"
 
-Never mind Morophil — through the soul link Jace could even feel an itch on his own shoulder in roughly the same spot. Morophil said in a low voice, "It hurts. It hurts very much. But this is from master — isn't that what gives it meaning?"
+Never mind Morophil — through the Soul Link Jace could even feel an itch on his own shoulder in roughly the same spot. Morophil said in a low voice, "It hurts. It hurts very much. But this is from master — isn't that what gives it meaning?"
 
 "She's lying to you! She doesn't hurt at all! Be rougher, master! Stab her to death!"
 
@@ -102,26 +102,4 @@ Jace glanced down at his trousers — already slashed open by the spines on the 
 
 By now the rune had already begun to give off a wisp of Shadow power. The imp stared at the incisions and said, "It's perfect, master. Though I'd love to tell you where you went wrong so I could make you cut her all over again… it really is perfect. We can move on to the next one!"
 
-"Demonic Dark Power rune. A favorite of the Eredrath. Pity the runes on Dasmora's body were drained by you past the point of use, master — otherwise we might have gotten an even better one…"
-
-## Flags
-
-- **已宰的羔羊** → "the Slaughtered Lamb": the secret warlock tavern (glossary standard).
-- **札雷·莫尔** → "Tharle Mor": bartender at the Slaughtered Lamb (glossary standard).
-- **嘉莱恩** → "Jaylene": warlock at the Slaughtered Lamb, robe-maker (glossary standard).
-- **莫洛菲尔** → "Morophil": Jace's succubus (glossary standard).
-- **撒厄诺** → "Sazeno": Jace's imp (glossary standard).
-- **厄苏拉·德林** → "Ursula Dlin": alchemist/warlock at the Slaughtered Lamb (glossary: Ursula; surname "Dlin" transliterated).
-- **埃尔兰** → "Erland": warlock whose room Jace borrows the table from (glossary standard).
-- **维利塔恩** → "Vilethorn": the satyr demon lord whose runes and demon skin Jace uses (glossary standard).
-- **萨亚德之心** → "Succubus Heart": the succubus's core, near which the runes must be carved.
-- **无尽黑暗之刃** → "Blade of Eternal Darkness": the dagger Jace uses to carve runes into Morophil.
-- **达斯莫拉** → "Dasmora": the entity whose runes were drained past use.
-- **埃雷杜因** → "Eredrath": the demon race; the "Demonic Dark Power rune" is noted as their favorite.
-- **萨特** → "satyr": Vilethorn is a satyr demon (glossary standard).
-- **玛拉顿** → "Maraudon": the dungeon where Vilethorn guarded (glossary standard).
-- **树人** → "treant": the ancient tree guardians of Maraudon, corrupted by Shadow.
-- **强化意志符文** → "Willpower-strengthening rune": the first rune Jace carves onto Morophil.
-- **恶魔黑暗力量符文** → "Demonic Dark Power rune": the second rune, a favorite of the Eredrath.
-- **灵魂链接** → "soul link": the bond through which Jace feels echoes of Morophil's sensations.
-- Chapter title "主人的魔纹" → "The Master's Demon Runes."
+"Demonic Dark Power rune. A favorite of the Ered'ruin. Pity the runes on Dasmora's body were drained by you past the point of use, master — otherwise we might have gotten an even better one…"

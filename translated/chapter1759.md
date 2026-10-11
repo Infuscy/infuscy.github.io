@@ -10,11 +10,11 @@ Vibrant life energy flowed in harmony with the arcane power radiating from the W
 
 It was unquestionably gentler than the Sunwell in Quel'Thalas, even though the Well of Eternity's power was far stronger than that magical font.
 
-Jace knew Vereesa would bristle if he said that out loud, but even she was clearly enjoying herself. She kept turning back to look at the forest as they flew away from Mount Hyjal, looking more reluctant to leave than Sora, who'd grown up under these very trees.
+Jace knew Vereesa would bristle if he said that out loud, but even she was clearly enjoying herself. She kept turning back to look at the forest as they flew away from Mount Hyjal, looking more reluctant to leave than Sola, who'd grown up under these very trees.
 
 Flying northeast from Hyjal toward the coast, the temperature dropped sharply once they left Nordrassil's shelter. Snow blanketed the entire field of view before they knew it — Winterspring.
 
-They decided to stop at Everlook to restock supplies for crossing the strait and the frozen coast of Northrend. The last time they'd returned, they'd been forced to land and beg walrus-men for food, and that embarrassment was still fresh in everyone's mind.
+They decided to stop at Everlook to restock supplies for crossing the strait and the frozen coast of Northrend. The last time they'd returned, they'd been forced to land and beg tuskarr for food, and that embarrassment was still fresh in everyone's mind.
 
 Since they weren't exactly short on gold this time... at least not short enough to buy supplies from goblins... they could prepare in advance.
 
@@ -40,7 +40,9 @@ Considering that the best way to maintain peace with Onyxia was through face-to-
 
 Once he'd dealt with the dreadlord problem over on the other side, he'd go to Gadgetzan to discuss the specific exchange terms, or negotiate appropriate compensation. Flying from here to Gadgetzan and back to the Great Sea, then on to Dalaran, would cost an extra half-month compared to flying directly from here. Under current circumstances, Jace and his group couldn't afford that kind of delay. Of course, he didn't mention dreadlords in the letter to the goblin magnate.
 
-"The recipient is..." "Marin Noggenfogger."
+"The recipient is..."
+
+"Marin Noggenfogger."
 
 "Noggenfogger himself? Uh, then we'll need not just the sender's name, but also a seal, sir. And a return receipt address... yes, we'll need all of that."
 

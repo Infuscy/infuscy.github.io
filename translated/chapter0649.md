@@ -50,7 +50,9 @@ Was this even Deathwing's dream?
 
 Jace frowned. He felt like his brain had become a tool for anyone to toy with. This couldn't be his own nightmare — he was certain of that. The scene was clear, the logic coherent, the timeline consistent…
 
-"Who are you?" he asked. "Who am I."
+"Who are you?" he asked.
+
+"Who am I."
 
 The man spoke Common this time, and the voice sounded very familiar to Jace.
 
@@ -92,9 +94,9 @@ Hearing that final order, Krasus lifted his head, clenched his teeth, and fresh 
 
 "I was still planning to offer her my apologies — being forced to lay eggs by orcs is, after all, a little too absurd." Deathwing smiled, then his voice turned cold all of a sudden. "But it seems that wasn't enough. These red flies running amok are far more vicious than I imagined. Not only does the one before me mean to assassinate me — Lord Daval Prestor, sole legitimate heir to the Kingdom of Alterac — he also means to lead a bunch of circus performers in purple costumes to wipe out my entire family. Truly uninhibited. Reckless beyond measure."
 
-"I have to say, your earlier concern about him was justified. This venomous insect cares about nothing but his queen — you least of all. Even with nothing left to his name, his kind on the brink of extinction, in such dire need of a mortal's help, he still feels he can't lower himself to speak as an equal to your kind. He thinks a human like you should charge into fire and water for a single careless word from him. His chest may seem to burn hot, but the truth inside is chilling, Sesso. Can't you feel it?"
+"I have to say, your earlier concern about him was justified. This venomous insect cares about nothing but his queen — you least of all. Even with nothing left to his name, his kind on the brink of extinction, in such dire need of a mortal's help, he still feels he can't lower himself to speak as an equal to your kind. He thinks a human like you should go through fire and water at a single careless word from him. His chest may seem to burn hot, but the truth inside is chilling, Sesso. Can't you feel it?"
 
-"Once you've rescued the Dragonqueen and you've outlived your usefulness, he'll cast you aside without a second thought. At best he'll toss you a few laughable titles — Beneficiary of the Dragons, Savior of Khaz Modan. Then you'll be worshipped by a bunch of mortals who have absolutely nothing to do with you, except they'll mispronounce your name from time to time, because no one truly cares about your sacrifice."
+"Once you've rescued the Dragonqueen and you've outlived your usefulness, he'll cast you aside without a second thought. At best he'll toss you a few laughable titles — Benefactor of the Dragons, Savior of Khaz Modan. Then you'll be worshipped by a bunch of mortals who have absolutely nothing to do with you, except they'll mispronounce your name from time to time, because no one truly cares about your sacrifice."
 
 He looked through the bars to the other side. "You know I'm right, Korialstrasz."
 

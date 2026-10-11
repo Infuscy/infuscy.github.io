@@ -2,25 +2,25 @@
 
 Despite having asked for the quietest room available, Jace still kept hearing all manner of shouting from the street throughout the night.
 
-He hadn't slept well at all. Come morning, Jace threw on a thin shirt and hurried toward the residence of the Mister Cooper the innkeeper had mentioned.
+He hadn't slept well at all. Come morning, Jace threw on a thin shirt and hurried toward the residence of the Mr. Cooper the innkeeper had mentioned.
 
 Sure enough, just as the innkeeper had said, Cooper's home was noticeably more handsome than the other houses at a glance.
 
 A servant of the Cooper household answered the door. After a brief exchange, Jace learned that the master of the house had gone to Stormwind to visit relatives.
 
-Still, Jace wasn't particularly keen on dealing with these people anyway — as long as he delivered the documents smoothly, that would do. What truly intrigued him was Mosh'aru.
+Still, Jace wasn't particularly keen on dealing with these people anyway — as long as he delivered the documents smoothly, that would do. What truly intrigued him was Mor'zul.
 
-Did Mosh'aru have some connection to the warlocks here?
+Did Mor'zul have some connection to the warlocks here?
 
-According to Ursula, Mosh'aru was obsessed with summoning a powerful demon to serve him — he even wanted to enter the Twisting Nether of his own accord to seek out a demon to enslave…
+According to Ursula, Mor'zul was obsessed with summoning a powerful demon to serve him — he even wanted to enter the Twisting Nether of his own accord to seek out a demon to enslave…
 
-The two warlocks he'd happened upon last night had both been accompanied by imps, which was enough to suggest the warlocks around Moonbrook were fairly adept at summoning demons. Who knew whether that had anything to do with Mosh'aru.
+The two warlocks he'd happened upon last night had both been accompanied by imps, which was enough to suggest the warlocks around Moonbrook were fairly adept at summoning demons. Who knew whether that had anything to do with Mor'zul.
 
 So how should he make contact with the warlocks here?
 
-Ah, right — Erland had mentioned before that there were people here who dealt in demon-hide goods. If they bought or sold demon organs, hides, horns, and the like, then even if they weren't warlocks themselves, they ought to have some connections to the local warlocks. They might even have ties to Mosh'aru personally.
+Ah, right — Erlan had mentioned before that there were people here who dealt in demon-hide goods. If they bought or sold demon organs, hides, horns, and the like, then even if they weren't warlocks themselves, they ought to have some connections to the local warlocks. They might even have ties to Mor'zul personally.
 
-If, as Ursula had said, Mosh'aru was wholly consumed by demonology, then how did he make a living? Did he wander around as a mercenary, same as Jace?
+If, as Ursula had said, Mor'zul was wholly consumed by demonology, then how did he make a living? Did he wander around as a mercenary, same as Jace?
 
 In any case, he might as well start by asking around the local alchemy shop or herbalist's.
 
@@ -36,7 +36,7 @@ Jace glanced at the shelves behind him. The very row of racks beside the man's h
 
 The shopkeeper licked his teeth. "You've come to the wrong place. This is an herbalist's, not a demon slaughterhouse. I don't know anything about that sort of thing."
 
-Jace said, "I can assure you the Wizard Sanctum doesn't go after scavengers. The orcs summoned demons in such staggering numbers that filthy demon corpses are polluting land all across the kingdom. Mages are only too happy to let the hunters who collect those corpses put them to reuse."
+Jace said, "I can assure you the Wizard's Sanctum doesn't go after scavengers. The orcs summoned demons in such staggering numbers that filthy demon corpses are polluting land all across the kingdom. Mages are only too happy to let the hunters who collect those corpses put them to reuse."
 
 The shopkeeper looked him up and down, then paused a moment. "Then what do you need?"
 
@@ -86,7 +86,7 @@ The woman sounded somewhat impatient, but she gave the fang a longer look, and h
 
 "Steep." The woman stared hard at the dagger, testing him. "Sixty. Corpses of that sort of demon are all over the swamp."
 
-According to what Erland had said, demon parts like that sold for a few silver at most. Felhounds had densely packed teeth — even if this was an oversized specimen, there was no way it was worth sixty.
+According to what Erlan had said, demon parts like that sold for a few silver at most. Felhounds had densely packed teeth — even if this was an oversized specimen, there was no way it was worth sixty.
 
 She clearly thought she could snap up a dragon fang at a bargain price, and was worried Jace might catch on, so she played it cool.
 
@@ -101,16 +101,3 @@ With that, he turned to leave. The woman opened the door and leaned out. "I can 
 Jace asked, "Here? I'd rather meet at the inn."
 
 The woman said, "He won't go there. Don't even ask me why."
-
-## Flags
-
-- **莫苏尔** → "Mosh'aru": OC? Demonologist; not in glossary. Name rendered as phonetic transliteration.
-- **厄苏拉** → "Ursula": OC? Alchemist/warlock at the Slaughtered Lamb (per glossary).
-- **埃尔兰** → "Erland": OC? Warlock working with Sulenna (per glossary).
-- **魅魔** → "succubus": demon type.
-- **魔翼** → "wings" (literally "demonic wings"): term demons use for their own wings.
-- **地狱猎犬** → "felhound": canonical demon (felhound/hellhound).
-- **银叶草** → "Silverleaf": canonical WoW herb (per glossary).
-- **暗影防护药水** → "Shadow Protection Potion": canonical potion (per glossary).
-- **库伯** → "Cooper": OC? Town figure in Moonbrook (flagged in Chapter 381).
-- Chapter title "特殊材料商" → "The Specialty Materials Merchant."

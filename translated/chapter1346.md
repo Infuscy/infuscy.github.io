@@ -2,19 +2,19 @@
 
 From the central plaza of Auchindoun's ruins all the way into the Arcane Sanctum's main hall, orc guards were everywhere along the passages, lit by dark blue braziers.
 
-Needleflame led from the front with a cult guard guide, while Jace, Sabellian, and Sora followed at a distance. After a patrol passed them by, Sabellian observed the lit and shadowed stretches of the passage ahead and behind, confirming no other orcs were nearby. He looked toward Needleflame up ahead.
+Needleflame led from the front with a cult guard guide, while Jace, Sabellian, and Sola followed at a distance. After a patrol passed them by, Sabellian observed the lit and shadowed stretches of the passage ahead and behind, confirming no other orcs were nearby. He looked toward Needleflame up ahead.
 
 As if sensing the Black Dragon Prince's gaze, the slightly shorter female orc glanced back, then proactively struck up a conversation with the orc guard guide.
 
 Jace could tell — these black dragons really did have some kind of telepathic communication, just as he'd guessed before. Once the guard was engaged with Needleflame's topic, Sabellian edged closer.
 
-"So Magtheridon seems to have found a way to communicate with Auchindoun, and he knows about our movements — from the alliance to the fall of Dragonmaw fortress. If the orcs here get in touch with the Black Temple and start asking questions, how do you plan to handle it?"
+"So Magtheridon seems to have found a way to communicate with Auchindoun, and he knows about our movements — from the alliance to the fall of Dragonmaw Fortress. If the orcs here get in touch with the Black Temple and start asking questions, how do you plan to handle it?"
 
 "Let me think," Jace said quietly.
 
 "This was your brilliant idea, Jace Sesso," Sabellian muttered. "If we'd followed my suggestion and come in Kargath Bladefist's name, we probably wouldn't have all these extra problems. At worst, we'd just have to spin a few more lies."
 
-Sora spoke up quietly from behind. "And if we'd listened to you, only to find out the Shadow Council can communicate with the warlocks and demon servants at Hellfire Citadel through rituals? We can't predict what's going on inside here. Choosing a more reasonable cover story is normal."
+Sola spoke up quietly from behind. "And if we'd listened to you, only to find out the Shadow Council can communicate with the warlocks and demon servants at Hellfire Citadel through rituals? We can't predict what's going on inside here. Choosing a more reasonable cover story is normal."
 
 Jace nodded. "Besides, even Kargath Bladefist can't defy Magtheridon's orders. The Shadow Council would report our fabricated reasons to Karabor anyway."
 
@@ -26,7 +26,7 @@ Sabellian slanted his blood-red orcish eyes at the male and female fel orcs behi
 
 "Right. So it's the worst case." Jace let out a small breath. "We need to see that communication ritual, one way or another. Find a loophole. It's probably similar to my demonic communication ritual with Azeroth — a channel connecting here to Karabor, consuming soul energy for conversation."
 
-"You want to sabotage the array?" Sora asked.
+"You want to sabotage the array?" Sola asked.
 
 "A reasonable sabotage," Jace said. "But if the array fails right after we arrive... isn't that a bit too obvious?"
 
@@ -36,7 +36,7 @@ They followed Needleflame and the guard guide around a corner, past a blue-flame
 
 He was reciting in Demonic with a rhythmic cadence, like poetry — something about the coming of a dark master, the complete transformation of all worlds, the Burning Legion strictly carrying out this dark master's will.
 
-That sounded like Instigator Blackheart's voice. Jace was already familiar with it.
+That sounded like Blackheart the Inciter's voice. Jace was already familiar with it.
 
 At first listen, the "dark master" seemed to refer to Kil'jaeden's master — the Dark Titan Sargeras. But something felt off to Jace.
 
@@ -52,21 +52,21 @@ Looking through the lecture hall's entrance, it was spacious but packed with orc
 
 Which meant that aside from those on patrol and duty outside, nearly every orc in Auchindoun was crammed in here.
 
-They were all kneeling or squatting in the hall, listening to Instigator Blackheart speak about the Twisting Void, the so-called dark master's plan, light and shadow, illumination and darkness — a string of esoteric nonsense.
+They were all kneeling or squatting in the hall, listening to Blackheart the Inciter speak about the Twisting Nether, the so-called dark master's plan, light and shadow, illumination and darkness — a string of esoteric nonsense.
 
 Both of the ogre's heads were talking — sometimes speaking in unison for emphasis, sometimes affirming and supplementing each other.
 
 The orcs and demons below listened reverently. Even the Broken who'd once believed in the Holy Light wore expressions of worship and superstition.
 
-Sabellian squinted at the two-headed ogre waving his hands and speaking torrentially. He glanced at the guard beside him. "I think Master Magtheridon intended for us to see this Instigator, not Master Vorpil."
+Sabellian squinted at the two-headed ogre waving his hands and speaking torrentially. He glanced at the guard beside him. "I think Master Magtheridon intended for us to see this Inciter, not Master Vorpil."
 
-"Master Vorpil is our leader. Even the Instigator acknowledges that, Master Naihogar," the orc guard said.
+"Master Vorpil is our leader. Even the Inciter acknowledges that, Master Naihogar," the orc guard said.
 
-Sabellian exchanged looks with Jace and Sora. Anyone could see that Vorpil's grip on the situation was slipping.
+Sabellian exchanged looks with Jace and Sola. Anyone could see that Vorpil's grip on the situation was slipping.
 
 Just then, Blackheart noticed the fel orc emissaries at the hall's entrance. But he didn't interrupt his speech.
 
-He didn't want to disturb the climax he was building to — about the hidden dangers in the Twisting Void and a power that would turn all crises around. Then he spoke of the Shadow Council, and what role this cult that had survived the Scepter of Sargeras's destructive power should play.
+He didn't want to disturb the climax he was building to — about the hidden dangers in the Twisting Nether and a power that would turn all crises around. Then he spoke of the Shadow Council, and what role this cult that had survived the Scepter of Sargeras's destructive power should play.
 
 Even Jace couldn't help wondering what kind of future the ogre was trying to paint. And the cult members below certainly didn't want to miss a single word.
 
@@ -74,9 +74,9 @@ But at the same time, Jace sensed a trace of aversion from one of the ogre's hea
 
 This ogre, who outwardly pledged loyalty to the Burning Legion, harbored no affection for Karabor's emissaries. What was that about?
 
-The Black Dragon Prince crossed his arms and idly scratched at the demonic horns growing from his chin. Sora surveyed the corners of the hall. Jace knew they both shared the same question — who was really receiving Master Magtheridon's orders?
+The Black Dragon Prince crossed his arms and idly scratched at the demonic horns growing from his chin. Sola surveyed the corners of the hall. Jace knew they both shared the same question — who was really receiving Master Magtheridon's orders?
 
-"Take us to your leader quickly. We'll come listen to the Instigator's truths another time," Jace said in a low voice to the guard beside him.
+"Take us to your leader quickly. We'll come listen to the Inciter's truths another time," Jace said in a low voice to the guard beside him.
 
 The orc, already entranced, nodded at Jace's reminder. "Follow me, masters."
 
@@ -114,7 +114,7 @@ Everything Jace had heard and seen since entering Auchindoun swirled in his mind
 
 The cult here — or rather, the ogre Blackheart — might not have contacted the Burning Legion at all. At least not Karabor!
 
-This Instigator had just been deceiving Vorpil and everyone in the cult with some method. By pretending he could communicate with the Burning Legion's lord, he'd gained more prestige among this demon-worshipping group than Vorpil himself!
+This Inciter had just been deceiving Vorpil and everyone in the cult with some method. By pretending he could communicate with the Burning Legion's lord, he'd gained more prestige among this demon-worshipping group than Vorpil himself!
 
 So when Blackheart actually saw real reinforcements arrive, he couldn't help showing reluctance. He probably hadn't expected "genuine" fel orcs to reach Auchindoun so quickly.
 

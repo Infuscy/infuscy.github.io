@@ -1,4 +1,4 @@
-## Chapter 177: Two Headless Flies
+## Chapter 177: Two Headless Chickens
 
 The rain kept falling. Whether it was the downpour or not, the arcane glow in the sky had become completely invisible.
 
@@ -60,7 +60,7 @@ Was the shadow power he'd bought with his life force starting to fade?
 
 After he'd walked for what felt like ages, Jace suddenly spotted a shop on the street corner. The sign read "The Bronzebeard's Brew."
 
-The streets here really did spiral — so this must be Horn Tree Alley, right?
+The streets here really did spiral — so this must be Hornwood Lane, right?
 
 Jace walked up and pounded on the door.
 
@@ -76,7 +76,7 @@ A dwarf poked his head out. "Who're you?"
 
 "A friend of Grede's," Jace said.
 
-The dwarf looked him up and down. "He ran out a long enough while ago!"
+The dwarf looked him up and down. "He ran out a good while ago!"
 
 Just as Jace had figured.
 
@@ -148,9 +148,9 @@ Thinking it over, after drinking Vereesa's potion the pain really had lessened a
 
 His anger faded with it. Just now he'd been convinced he was a goner — even if he survived, he'd have lost half his life.
 
-Sitting on the steps under the eaves, he thought about that strange potion. It didn't look like the Revival Potion Kaelfal had, and it didn't look like some red healing potion either. The liquid was hard to pin down — just… weird.
+Sitting on the steps under the eaves, he thought about that strange potion. It didn't look like the Rejuvenation Potion Kael'fal had, and it didn't look like some red healing potion either. The liquid was hard to pin down — just… weird.
 
-Recalling it, Kaelfal had only taken a tiny sip and recovered a lot, while Jace had grabbed it and chugged a huge mouthful… and Vereesa had looked a little shocked.
+Recalling it, Kael'fal had only taken a tiny sip and recovered a lot, while Jace had grabbed it and chugged a huge mouthful… and Vereesa had looked a little shocked.
 
 At the time he'd been too busy being tormented by the necrotic energy he'd drained to think about any of it. Only now, with the tension finally unwinding, could he properly piece it together. That potion really didn't seem like anything ordinary.
 
@@ -168,7 +168,7 @@ Jace looked to his side. The blade was gone.
 
 "Yours?" Grede was already turning the blade over in his hands. "This is elven. Where'd you get it?"
 
-Jace wiped the rain from his face and sat up. "An elf gave it to me, obviously. Last night I was fighting alongside Kaelfal Mingyi and a female ranger against Teron Gorefiend. Afterward I said I needed to find you, and the elf saw I didn't have a weapon, so she lent it to me."
+Jace wiped the rain from his face and sat up. "An elf gave it to me, obviously. Last night I was fighting alongside Kael'fal Brightwing and a female ranger against Teron Gorefiend. Afterward I said I needed to find you, and the elf saw I didn't have a weapon, so she lent it to me."
 
 "This is…" Grede tilted the blade to catch the light. "This is a fine piece, and enchanted at that. Why would she lend you something like this? She wasn't afraid you'd run off with it? If this were sold…"
 
@@ -198,13 +198,13 @@ Grede came over with a handful of bottles and jars, glanced at Jace's shoulder, 
 
 "The one," Jace said through gritted teeth. "Could you maybe keep still while you're applying that?"
 
-"Right, right. So this is a Windrunner family blade?" Grede glanced at the blade lying on Jace's table. "Didn't you test it on something?"
+"Right, right. So this is a Windrunner family blade?" Grede glanced at the blade lying on the table. "Didn't you test it on something?"
 
 "I did. Shame you didn't see it." Jace said. "If you turn into a ghoul, I can use it to stab you to death a second time. You can see what it feels like."
 
 "Dying by this blade would be an honor, lad," Grede sighed. Then he added, "Speaking of which, Jace, I can only do a basic patch-up on your shoulder. The black dragons seem to be pulling back already — no idea when the city will settle down. When it does, you need to go see one of Dalaran's healers."
 
-"It's just serious?" Jace asked.
+"Is it that serious?" Jace asked.
 
 Grede went on, "From what you said, Teron Gorefiend ran you through the shoulder with your staff… the wound should look horrifying. But right now it actually seems to be healing. Are you sure you were run through? How bad did it hurt?"
 
@@ -227,14 +227,3 @@ Why did Teron Gorefiend know his name?
 Who had told him?
 
 He thought it over — and before he knew it, he'd drifted off. He was that exhausted.
-
-## Flags
-
-- **角树巷** rendered as **Horn Tree Alley** (the spiral alley near "The Bronzebeard's Brew" shop). Not in glossary; tentative.
-- **铜须的酒** rendered as **The Bronzebeard's Brew** (dwarf-themed tavern/shop). Not in glossary.
-- **杜尚** = **Caro Dushan** (glossary: orcish-language teacher at the Wizard Sanctum).
-- **格瑞德·雷拳** = **Grede Thunderfist** (雷拳 = Thunderfist, glossary confirms as Grede's dwarven family name).
-- **生命分流** = **Life Tap** (glossary).
-- Chapter title 两个没头苍蝇 rendered as "Two Headless Flies" (Chinese idiom for panicking, directionless people — lit. "headless flies").
-- "优美的中国话" carryover concept not present here; no new flag.
-- Grede's speech rendered with dwarven-flavored register ("lad," contractions, bluff tone) per glossary profile.

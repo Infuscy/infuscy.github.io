@@ -1,14 +1,14 @@
 ## Chapter 1457: Snowstorm in the Tower
 
-In the rushing wind of their plunge, Olastraz's hide erupted in flames, wrapping around Jace and sending him spinning through the air like a comet trailing a burning tail across the center of the great library hall.
+In the rushing wind of their plunge, Olastrasz's hide erupted in flames, wrapping around Jace and sending him spinning through the air like a comet trailing a burning tail across the center of the great library hall.
 
 Since his attempt at fire teleportation back in Draenor using the cloak's elemental power, he'd never once managed to fly with the cloak back in Azeroth. Did it really only unleash its true power when his life was on the line?
 
 He didn't have time to dwell on it. The felhound was still falling, and he needed it to take down Medivh's father.
 
-Jace grabbed the cloak, stabilized himself, and reached toward the distant felhound still plummeting below, trying to cast Grasp of Teron Gorefiend to reel in the freshly-summoned Dazharm VI.
+Jace grabbed the cloak, stabilized himself, and reached toward the distant felhound still plummeting below, trying to cast Gorefiend's Grasp to reel in the freshly-summoned Dazarm VI.
 
-But the moment his hand reached out, blood-red magical threads snaked toward the fading shadow of the demon — only to be stopped by a bone-chilling cold that wrapped around him from behind, freezing his mind and flesh stiff. The power of Grasp of Teron Gorefiend scattered.
+But the moment his hand reached out, blood-red magical threads snaked toward the fading shadow of the demon — only to be stopped by a bone-chilling cold that wrapped around him from behind, freezing his mind and flesh stiff. The power of Gorefiend's Grasp scattered.
 
 The felhound's shadow vanished completely into the darkness below. And from behind came a shout.
 
@@ -18,19 +18,19 @@ That was Aran's voice. The old mage drifted down from above like a ghost, both h
 
 Knife-like ice hammered every inch of Jace's exposed skin, even cutting him until he bled.
 
-His hands went numb with cold. His lips wouldn't stop trembling. The fire wrapped around his cloak flickered unsteadily in the storm, threatening to go out at any moment. Even with his mage armor, it barely helped.
+His hands went numb with cold. His lips wouldn't stop trembling. The fire wrapped around his cloak flickered unsteadily in the storm, threatening to go out at any moment. Even with his Mage Armor, it barely helped.
 
-At the same time, Morofil shook off the countless flying spellbooks swarming her, tore a burning path through the snapping old tomes, and lunged with both blades at the old mage above.
+At the same time, Morophil shook off the countless flying spellbooks swarming her, tore a burning path through the snapping old tomes, and lunged with both blades at the old mage above.
 
-Another of Aran's shadows dropped from higher up, appearing nearby. It raised a hand and froze Morofil's back and wings solid. Morofil hurled a blade at the shadow in fury — but the shadow vanished, reappearing even higher. The blizzard didn't waver for an instant!
+Another of Aran's shadows dropped from higher up, appearing nearby. It raised a hand and froze Morophil's back and wings solid. Morophil hurled a blade at the shadow in fury — but the shadow vanished, reappearing even higher. The blizzard didn't waver for an instant!
 
 Aran's two shadows were identical to look at and in presence. There was no telling which was real. Jace felt no emotion from them, detected no physical form.
 
-He raised a hand, trying to interrupt the mage's casting with a spell of suffocation or a curse — but found nothing to latch onto with his magic.
+He raised a hand, trying to interrupt the mage's casting with Asphyxiate or a curse — but found nothing to latch onto with his magic.
 
 "Lost something, boy? Can't find what you're looking for? You damn dark mages... I've seen plenty of you!"
 
-The mockery echoed. Morofil spread her wings, the fel-runes on her body blazing as she shattered the ice that bound her.
+The mockery echoed. Morophil spread her wings, the fel-runes on her body blazing as she shattered the ice that bound her.
 
 That clearly caught the shadow off guard. Before it could freeze her again, she vanished into the shattered mist.
 
@@ -38,11 +38,11 @@ In less than a second, she reappeared behind the shadow and swung Apocalypse, cu
 
 The shadow sighed and dissolved into the air. But the other one, still channeling the blizzard, showed little surprise — just muttered, "Not bad."
 
-At least Morofil's weapon could destroy the shadows. That was enough.
+At least Morophil's weapon could destroy the shadows. That was enough.
 
 After shattering that one, the succubus didn't hesitate — she flew higher to deal with the one channeling the blizzard. Arcane anomalies seeping out from between the shelves cast slow spells at her to drag her down. Jace couldn't sense the shadows' emotions... but the energy of those arcane anomalies was clear enough.
 
-He immediately gathered shadow energy, aiming at every arcane anomaly in sight, preparing to unleash a volley of shadow bolts to destroy them all, or at least stop them from slowing Morofil down.
+He immediately gathered shadow energy, aiming at every arcane anomaly in sight, preparing to unleash a volley of Shadow Bolts to destroy them all, or at least stop them from slowing Morophil down.
 
 But just as he was about to summon the shadow volley, he felt a weight of arcane pressure above his head.
 
@@ -60,7 +60,7 @@ Three more mage apparitions appeared nearby. Each one's emotions were impossibly
 
 All three chanted the same spell at once. Jace watched a colored shimmer ripple over him, then fade away.
 
-"Mage armor. Crude in the extreme!"
+"Mage Armor. Crude in the extreme!"
 
 Then his shadowform was stripped away too. One of the apparitions turned black.
 
@@ -70,49 +70,49 @@ Then the little perception he had left was pulled out from under him. The last a
 
 "The elixir is passable... at best. I wouldn't give it full marks!"
 
-The apparition that had stolen his mage armor sneered. "Without these magical aids, how long can you keep flying in this blizzard on dragonfire alone? Give up, boy! Save some strength for that treasure!"
+The apparition that had stolen his Mage Armor sneered. "Without these magical aids, how long can you keep flying in this blizzard on dragonfire alone? Give up, boy! Save some strength for that treasure!"
 
-At the same time, a patch of shadow crept along the edge of a shelf toward the apparition still channeling the blizzard above. The one that had stolen his shadowform noticed the anomaly and cast a spell in that direction. Morofil was ripped out of the shadows, fully exposed.
+At the same time, a patch of shadow crept along the edge of a shelf toward the apparition still channeling the blizzard above. The one that had stolen his shadowform noticed the anomaly and cast a spell in that direction. Morophil was ripped out of the shadows, fully exposed.
 
-She roared in fury, raised her burning Apocalypse, and flew horizontally at the three apparitions, driving her blade into the one wearing his stolen mage armor. As she went for the second, she was locked in place midair by a slow spell.
+She roared in fury, raised her burning Apocalypse, and flew horizontally at the three apparitions, driving her blade into the one wearing his stolen Mage Armor. As she went for the second, she was locked in place midair by a slow spell.
 
 The apparitions spread out while channeling the slow spell, and new ones emerged from the shelves like ghosts to join them. In the spinning ice storm, she was like a tiger bound by magical ropes pulling from every direction — struggling with all her might, only growing more exhausted.
 
 "Don't get too full of yourself, mage!" she growled through gritted teeth.
 
-"You are powerful, banshee. But centuries of hunting should have taught you — don't try to defeat a mage inside his own tower!"
+"You are powerful, sayaad. But centuries of hunting should have taught you — don't try to defeat a mage inside his own tower!"
 
 "Ayonis, zapa."
 
-Jace had barely recovered enough to cast when he shook off the ice on his arms and chanted a demon empowerment spell. If he was going to keep fighting, he needed to break Morofil free from these apparitions.
+Jace had barely recovered enough to cast when he shook off the ice on his arms and chanted a demon empowerment spell. If he was going to keep fighting, he needed to break Morophil free from these apparitions.
 
 The demon spell didn't depend heavily on shadow energy — even with his shadow magic counterspelled, it could still work.
 
-But he'd barely gotten halfway through the incantation when another tearing pain ripped through his head. The apparition that had drained his Purified Intelligence Elixir casually blocked his fel magic with another counterspell!
+But he'd barely gotten halfway through the incantation when another tearing pain ripped through his head. The apparition that had drained his Flask of Distilled Wisdom casually blocked his fel magic with another counterspell!
 
 "Almost had it! You realized shadow had abandoned you, but you thought fel was still open. Now I've filled that gap for you!"
 
 A pain like slamming into a wall echoed through Jace's mind. He felt completely cut off from all magical energy — like a dead man.
 
-The blizzard kept scouring the flames of the Cloak of Olastraz. He was barely holding on to consciousness, barely keeping himself airborne.
+The blizzard kept scouring the flames of the Hide of Olastrasz. He was barely holding on to consciousness, barely keeping himself airborne.
 
-Morofil's shouts, Aran's laughter, the howl of ice and wind — all growing distant... Jace steadied himself for a moment, then said, "Lady Aegwynn. She regrets."
+Morophil's shouts, Aran's laughter, the howl of ice and wind — all growing distant... Jace steadied himself for a moment, then said, "Lady Aegwynn. She regrets."
 
 "What?" All the apparitions turned to look at him at once. "You dare speak her name?!"
 
 In the void of the high tower, strong emotions surged forth. Disbelief. Doubt. Anger. This was exactly what he wanted.
 
-Jace gathered the shadow energy he'd barely recovered since the last counterspell and seized those emotions, raising Usaalus.
+Jace gathered the shadow energy he'd barely recovered since the last counterspell and seized those emotions, raising Ulthalesh.
 
-"Vekt!"
+"Fekt!"
 
 One of the apparitions seemed to sense the danger. It snapped back to its senses and tried to counterspell Jace's shadow magic again — but it was too late.
 
-The ancient demon's howl smashed through the rationality of everything in the circular hall. Elemental magic snapped. Flying books dropped from the air. Even Morofil went pale with fright, the flames in her eyes nearly dying out, leaving only empty sockets.
+The ancient demon's howl smashed through the rationality of everything in the circular hall. Elemental magic snapped. Flying books dropped from the air. Even Morophil went pale with fright, the flames in her eyes nearly dying out, leaving only empty sockets.
 
-Aran's apparitions dropped their spells, all clutching their ears. Some stared wide-eyed at Jace, lips trembling. Others directly wailed.
+Aran's apparitions dropped their spells, all clutching their ears. Some stared wide-eyed at Jace, lips trembling. Others simply wailed.
 
-"No! He'll wake up! He's the most talented mage in seven kingdoms!"
+"No! He'll wake up! He's the most talented mage in the Seven Kingdoms!"
 
 "You're talking nonsense!"
 
@@ -130,7 +130,7 @@ Fear.
 
 And fear was what Jace knew best.
 
-"Cirinita, nasi, ka'ansani, na'yel, sep'teya'tenus!"
+"Silennita, nashi, kaansani, nayele, shephetitayanus!"
 
 Drain Soul. The blue-green channel of soul magic extended from his palm, wrapping the last apparition in its grip on his overwhelming fear.
 

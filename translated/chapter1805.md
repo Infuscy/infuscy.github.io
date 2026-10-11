@@ -2,19 +2,19 @@
 
 After the representative of the Kirin Tor Council, Archmage Drenden, finished his questioning, the next segment was for questions from other groups concerning dark magic and plague treatment.
 
-Representative of the Magisterium, Archmage Rommath, asked how Jace could have possessed enough mana to sustain the Auchindoun portal during the Draenor evacuation if he did not have a powerful artifact like Uthalesh to help him.
+The representative of the Magisterium, Magister Rommath, asked how Jace could have possessed enough mana to sustain the Auchindoun portal during the Draenor evacuation if he did not have a powerful artifact like Ulthalesh to help him.
 
 In answer, Jace recounted the entire process of communicating with the ancestors of the draenei with the help of the draenei leader, Prophet Velen, and obtaining the support of countless souls from Auchindoun.
 
-Of course, equally important was the Tome of the Unholy Name — Kil'jaeden's roster. The leaders of the Sons of Lothar, as well as Council of Six member Archmage Vargus, also helped attest to this.
+Of course, equally important was the Book of Fel Names — Kil'jaeden's roster. The leaders of the Sons of Lothar, as well as Council of Six member Archmage Vargoth, also helped attest to this.
 
-The remains of the torn Tome of the Unholy Name were still stored in the inner vault of Dalaran's Grand Library. Though it had lost most of its power, the contents recorded within were still worth referencing.
+The remains of the torn Book of Fel Names were still stored in the inner vault of Dalaran's Great Library. Though it had lost most of its power, the contents recorded within were still worth referencing.
 
 The existence of this remnant also proved that Jace had cut ties with uncontrollable dark magic — that all his power had been used to save the Alliance Expedition and return them to Azeroth.
 
-Next, Lady Demitria, representative of the Church of the Holy Light, asked about the origins of the soul ritual at Blackrock Spire. After all, Uthalesh was believed to be an incredibly powerful soul artifact. A soul ritual of that scale could easily be linked to it.
+Next, Lady Demetria, representative of the Church of the Holy Light, asked about the origins of the soul ritual at Blackrock Spire. After all, Ulthalesh was believed to be an incredibly powerful soul artifact. A soul ritual of that scale could easily be linked to it.
 
-Jace answered regarding the knowledge records from the Auchenai — the draenei undead priest order in Auchindoun — and the handbook Gul'dan had left to the Shadow Council.
+Jace answered regarding the knowledge records from the Auchenai — the draenei order of priests who tended the dead in Auchindoun — and the handbook Gul'dan had left to the Shadow Council.
 
 That handbook was currently under the custody of the Silver Hand. Turalyon and the Kirin Tor's ancient text translation experts also helped prove that while this book recorded many horrifying methods of soul harvesting, it did not contain many specific records about death knights or the spread of undead plagues.
 
@@ -22,13 +22,13 @@ After all, Gul'dan had only truly succeeded in creating the first death knight �
 
 Gul'dan died in Azeroth. He never had the chance to return to Draenor after the Horde's defeat. So this handbook must have been left in Auchindoun before he crossed through the Dark Portal.
 
-Another representative of Quel'Thalas, Senior Botanist Frevian, also raised some questions about the details of the "Annihilation Potion" Jace had drunk at Blackrock Spire while fighting the Black Dragon Prince — its effects so powerful that even the most unhinged alchemists would find them absurd, its duration... and finally even asked about the cultivation method for Netherweed.
+Another representative of Quel'Thalas, High Botanist Freywinn, also raised some questions about the details of the "Destruction Potion" Jace had drunk at Blackrock Spire while fighting the black dragon prince — its effects so powerful that even the most unhinged alchemists would find them absurd, its duration... and finally even asked about the cultivation method for Netherbloom.
 
 It was then that Jace finally understood why the elven kingdom had sent such a full delegation to this hearing.
 
 Of course, this was an important project that Jace's group had been working on secretly in cooperation with the Kirin Tor's alchemists and the draenei's herbalists. Without Jace needing to refuse to answer, the Kirin Tor side had already blocked the question.
 
-After all, the Annihilation Potion formula had nothing to do with the hearing's theme — "whether Jace Sesso secretly possesses Uthalesh" — no matter how you spun it.
+After all, the Destruction Potion formula had nothing to do with the hearing's theme — "whether Jace Sesso secretly possesses Ulthalesh" — no matter how you spun it.
 
 These questions, however, had mostly been understood by the Council of Six members through their investigations over this period. For them, it was essentially going through the motions — just letting the leaders and high nobles of the Alliance states, who weren't at the center of the whole affair, get up to speed.
 
@@ -40,13 +40,13 @@ Varian certainly hadn't been completely inactive. During this time, Jace had not
 
 Now, this king's usual calm and composed demeanor was starting to crack.
 
-He began glancing down at the platforms of dwarf lords and Farstrider units, as if seeking help from Vereesa and Grede. Or looking toward the Silver Hand on the opposite side, counting on his good brother Marshal Turalyon.
+He began glancing down at the platforms of dwarf lords and Farstrider units, as if seeking help from Vereesa and Grede. Or looking toward the Silver Hand on the opposite side, counting on his old friend General Turalyon.
 
 But Turalyon knew nothing of Jace's group's plans. He simply stared at Jace Sesso in the center, never looking in Varian's direction.
 
 Jace was at the center of everyone's attention, so he naturally couldn't make any large gestures to guide Varian. Besides, he had no idea what that demon eye in Varian's possession had actually seen.
 
-"Regarding demons, plague, and certain ancient artifacts left behind by the Order of Tirisfal — including Uthalesh, the Windreaver — I believe that countless rulers, nobles, and commoners, present and absent, have countless questions."
+"Regarding demons, plague, and certain ancient artifacts left behind by the Order of Tirisfal — including Ulthalesh, the Deadwind Harvester — I believe that countless rulers, nobles, and commoners, present and absent, have countless questions."
 
 Antonidas announced to the assembly. "Today, representatives from Lordaeron, Quel'Thalas, Khaz Modan, and the southern kingdoms have asked many questions, and Lord Jace Sesso has answered them all one by one. These questions may not have covered everyone's concerns, but I believe they have resolved many of the anxieties in the hearts of those present."
 
@@ -56,7 +56,7 @@ Antonidas announced to the assembly. "Today, representatives from Lordaeron, Que
 
 Jace nodded. Antonidas said something quietly to the other Council members, then announced, "Then, today's hearing is hereby concluded. Thank you, Your Majesties and Lords, for coming..."
 
-Turalyon was the first to descend the steps. He came to Jace and patted his shoulder with a smile. But he quickly noticed that Jace's face showed neither the excitement nor relief of having smoothly passed this "trial." Instead, he was staring intently at Vargus on the high dais, and at the kings nearby.
+Turalyon was the first to descend the steps. He came to Jace and patted his shoulder with a smile. But he quickly noticed that Jace's face showed neither the excitement nor relief of having smoothly passed this "trial." Instead, he was staring intently at Vargoth on the high dais, and at the kings nearby.
 
 "What's wrong, Jace?" the paladin asked quietly.
 
@@ -64,11 +64,11 @@ Jace glanced at the Kirin Tor guards coming and going around them, and the noble
 
 Turalyon nodded. Jace immediately broke away from the crowd and climbed the steps toward Varian. He saw Varian hurriedly dealing with the questions and pleasantries from the surrounding kings and heirs, trying just as urgently to escape their encirclement and head toward the steps.
 
-Jace couldn't spare a thought for Vereesa, Grede, and Khadgar on the lower steps and platforms. The entire Sky Council, including the Council of Six on the high dais, was about to leave the venue in an orderly fashion. This was the last chance to expose the Nathrezim in front of everyone.
+Jace couldn't spare a thought for Vereesa, Grede, and Khadgar on the lower steps and platforms. The entire Chamber of Air, including the Council of Six on the high dais, was about to leave the venue in an orderly fashion. This was the last chance to expose the Nathrezim in front of everyone.
 
 "Jace!"
 
-Varian, gripping his cloak and steadying his crown, rushed down from the higher level, two or three steps at a time. He grabbed Jace's shoulder and said in a low voice, "That eye... the eye Lady Sora gave me. No reaction."
+Varian, gripping his cloak and steadying his crown, rushed down from the higher level, two or three steps at a time. He grabbed Jace's shoulder and said in a low voice, "That eye... the eye Lady Sola gave me. No reaction."
 
 "What?" Jace paused. "Let me see it."
 
@@ -86,11 +86,11 @@ Jace nodded in return. Once the old king turned back, Jace immediately fixed his
 
 "Then around him..." Jace sighed. "Before he asked me that question, did anyone nearby say anything to him?"
 
-"He..." Varian frowned. "He firmly believed you possessed that so-called artifact, Uthalesh. He told his father he didn't want you to slip through this trial — or hearing — unscathed. You understand. He thinks the Kirin Tor is too soft."
+"He..." Varian frowned. "He firmly believed you possessed that so-called artifact, Ulthalesh. He told his father he didn't want you to slip through this trial — or hearing — unscathed. You understand. He thinks the Kirin Tor is too soft."
 
 He glanced back at the King of Lordaeron on the steps above, lowering his voice further. "But King Terenas isn't pursuing the matter anymore. I guess it might be because of the connection between the lurking demon at the monastery and the Lordaeron royal family. As for Arthas... he's always like this, isn't he? Apart from his father, everyone else just wanted to watch his spectacle."
 
-"But I don't think that means he's been possessed by a demon, cooperating to smear your reputation. I'm not defending him, Jace. The point is — this cursed eye didn't show anything either. If it's really as effective as Lady Sora said..."
+"But I don't think that means he's been possessed by a demon, cooperating to smear your reputation. I'm not defending him, Jace. The point is — this cursed eye didn't show anything either. If it's really as effective as Lady Sola said..."
 
 "King Varian! Jace... Master Sesso."
 
@@ -98,7 +98,7 @@ At that moment, Khadgar also came trotting up from the spiral staircase below. H
 
 "The demon's not here, Khadgar," Jace said.
 
-"Impossible? Not even Vargus?"
+"Impossible? Not even Vargoth?"
 
 Khadgar's expression stiffened. He took the eye immediately and examined it.
 

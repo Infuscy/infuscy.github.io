@@ -4,33 +4,33 @@ Despite the mental preparation, Jace still froze up when he saw the giant beast'
 
 The massive pile of dark brown matter sat alone on the grassland. If not for the wave of savage, fecal stench that hit him up close, he might have mistaken it for the nest of some enormous termite-like insect.
 
-The kind that might have migrated here from the silithid deserts…
+The kind that might have migrated here from the deserts of Silithus…
 
 Jace even found himself making a strange connection to the task Ursula had given him.
 
 Honestly, before coming to Kalimdor, he'd figured — based on his impressions from the game — that the southern Barrens, the deep Feralas jungle, and the western edge of Tanaris desert were all crawling with strange insects that had seeped out of the Silithus desert. They should've been easy to find.
 
-But the moment he actually set foot here, the sheer exhaustion of travel alone was enough enough to wear him down. Staring out at this desolate savanna, he had the distinct feeling that searching for silithid here was like fishing for a needle in a haystack.
+But the moment he actually set foot here, the sheer exhaustion of travel alone was enough to wear him down. Staring out at this desolate savanna, he had the distinct feeling that searching for silithid here was like looking for a needle in a haystack.
 
-He wondered how much Musa knew about the silithid.
+He wondered how much Mosa knew about the silithid.
 
-He glanced over at the tauren and saw Musa staring at the enormous pile of dung with a grave expression, as if deep in thought.
+He glanced over at the tauren and saw Mosa staring at the enormous pile of dung with a grave expression, as if deep in thought.
 
 "Do kodos eat meat too? I remember in Gadgetzan, the goblins fed theirs nothing but hay," Grede muttered. "This dung smells way too foul for a grassland herbivore, don't you think?"
 
 "Herbivores aren't strictly vegetarian either," Jace tried to explain. "For a creature like a kodo, snacking on smaller animals once in a while wouldn't be that strange, right?"
 
-Musa grumbled, "Not kodo."
+Mosa grumbled, "Not kodo."
 
-She said something to Wenresa. Wenresa relayed it to Jace and Grede, "It's another kind of ferocious beast that can unleash thunder…"
+She said something to Vereesa. Vereesa relayed it to Jace and Grede, "It's another kind of ferocious beast that can unleash thunder…"
 
 A thunder lizard?
 
-If Musa hadn't brought it up, Jace would have almost forgotten there was such a predator in the Barrens.
+If Mosa hadn't brought it up, Jace would have almost forgotten there was such a predator in the Barrens.
 
 "Better get your Nature Protection Potion ready, Grede," Jace said.
 
-"Right." Grede rummaged through his pack. Musa was already running toward the distance, waving for them to follow.
+"Right." Grede rummaged through his pack. Mosa was already running toward the distance, waving for them to follow.
 
 Were they really going to take on a thunder lizard?
 
@@ -38,19 +38,19 @@ Jace couldn't help but take a deep breath. He'd never imagined he'd actually get
 
 Clearly, Grede was thrilled too — he was probably fascinated by the idea of a "beast that unleashes thunder."
 
-Following Musa Woodmane, the group tracked the giant beast's trail across the grassland for a while, and by afternoon they reached an ancient riverbed long overgrown with weeds.
+Following Mosa Woodmane, the group tracked the giant beast's trail across the grassland for a while, and by afternoon they reached an ancient riverbed long overgrown with weeds.
 
 The tauren slowed her steps, found a spot to crouch, and made a quieting gesture to the three following her, listening intently.
 
 Once everything went still, the only sound left was the wind. Before long, Jace caught it too — a faint, indistinct bleating sound.
 
-Musa crouched lower, dropping her head until the grass rose above her crown, listening carefully. The bleating grew more distinct, and Jace could even feel the ground trembling now.
+Mosa crouched lower, dropping her head until the grass rose above her crown, listening carefully. The bleating grew more distinct, and Jace could even feel the ground trembling now.
 
 The footsteps of an unknown colossus.
 
 The footsteps gradually faded into the distance. Grede unslung his axe from his back, gripped it with both hands, and stared in the direction of the sound, licking his lips nonstop.
 
-Musa glanced at him, then slowly raised her head above the ridge to look. Jace couldn't resist lifting his head too. He caught sight of several enormous, dark purple bony plates swaying back and forth in the low ground of the riverbed, slowly moving away.
+Mosa glanced at him, then slowly raised her head above the ridge to look. Jace couldn't resist lifting his head too. He caught sight of several enormous, dark purple bony plates swaying back and forth in the low ground of the riverbed, slowly moving away.
 
 Thunder lizards — no question.
 
@@ -60,9 +60,9 @@ Many tauren considered them distant cousins of the kodo — even a breed of kodo
 
 Unlike kodos, which traveled in herds, thunder lizards preferred to go it alone.
 
-"Grede, Wenresa, Jace," Musa called their names in a low voice, picking up the wooden staff she used as a walking stick and pointing in the direction the bony plates had gone. "Move!"
+"Grede, Vereesa, Jace," Mosa called their names in a low voice, picking up the wooden staff she used as a walking stick and pointing in the direction the bony plates had gone. "Move!"
 
-Wenresa nodded. Grede could barely contain himself — he snatched up his axe and charged.
+Vereesa nodded. Grede could barely contain himself — he snatched up his axe and charged.
 
 "Drink your Nature Protection Potion, Grede! The lightning this thing throws is the real deal," Jace reminded him in a hushed voice.
 
@@ -70,7 +70,7 @@ Wenresa nodded. Grede could barely contain himself — he snatched up his axe an
 
 Grede ran and gulped down the potion in one go, shoving the bottle back into his pack and sliding down the riverbed slope. Before long he was out of sight, nothing left but the swaying grass fading into the distance.
 
-"Damn it." Jace clutched his staff and sprinted after him, doing his best to keep up. By now Wenresa and Musa had long since run ahead and vanished. He was definitely the slowest one in the group this time.
+"Damn it." Jace clutched his staff and sprinted after him, doing his best to keep up. By now Vereesa and Mosa had long since run ahead and vanished. He was definitely the slowest one in the group this time.
 
 After all, the others were a tauren hunter, an elf ranger, and a stout dwarven gryphon rider with bottomless stamina. He was just a caster — being slow was to be expected… warlocks had short legs, what could you do.
 
@@ -84,11 +84,11 @@ Jace shook his ears and ran on, pulling aside the last curtain of swaying grass 
 
 The thunder lizard was a dull blue-green. It seemed to be quite old. It stood over four meters tall and five or six meters long, and the row of bony plates on its back were still crackling with arcs of electricity.
 
-One of its eyes had already been put out by an arrow that still glowed with arcane light. It was raging like a maddened giant beast. By the time Jace reached the front, it was charging straight at him. Musa shoved Jace aside, saving him from the deeply embarrassing fate of getting flattened the moment he showed his face.
+One of its eyes had already been put out by an arrow that still glowed with arcane light. It was raging, maddened with pain. By the time Jace reached the front, it was charging straight at him. Mosa shoved Jace aside, saving him from the deeply embarrassing fate of getting flattened the moment he showed his face.
 
 The thunder lizard barreled deep into the riverbed, swinging its tail tipped with four massive spikes. Grede was right in pursuit, patting out his smoking cloak as he passed in front of Jace.
 
-Jace scrambled to his feet and steadied his staff. Musa was already up, chanting a nature-healing spell. A cool, howling wind swirled around her hands and drifted into the distance.
+Jace scrambled to his feet and steadied his staff. Mosa was already up, chanting a nature-healing spell. A cool, howling wind swirled around her hands and drifted into the distance.
 
 That bolt of lightning earlier — Grede had clearly taken it head-on. But right now he was charging at the thunder lizard as if nothing had happened.
 

@@ -4,21 +4,21 @@
 
 Reyhidian howled in a frenzy. She was taller than the average doomguard, but leaner — yet her body was already covered in all manner of demonic tattoos that released a purple glow like Shadowflame when she flew into a rage.
 
-Vereesa reacted fastest. The moment she saw Reyhidian burst free of the Kaldorei shell and swell in size, she nocked an arrow and loosed a shot wreathed in arcane light. But the demon, who had shaken off her bindings in seconds, caught the bolt with her single wing — an arrow that could easily pierce the hide of a black whelp was deflected effortlessly in a flash of arcane radiance the moment it touched what looked like a frail membrane.
+Vereesa reacted fastest. The moment she saw Reyhidian burst free of the Kaldorei shell and swell in size, she nocked an arrow and loosed a shot wreathed in arcane light. But the demon, who had shaken off her bindings in seconds, caught the bolt with her single wing — an arrow that could easily pierce the hide of a black drake was deflected effortlessly in a flash of arcane radiance the moment it touched what looked like a frail membrane.
 
 A mana shield. This demon actually had an arcane shield protecting her!
 
-After the demon wing deflected the arrow, Vereesa immediately nocked the next one. Grede's war hammer was already flying through the air, dragging a bolt of lightning that lit up the entire dark hall. When the Lightning Hammer struck the air around the demon, it was blocked again by a layer of arcane shielding. This arcane shield, after taking a hit as heavy as Grede's, showed no sign of weakening whatsoever.
+After the demon wing deflected the arrow, Vereesa immediately nocked the next one. Grede's war hammer was already flying through the air, dragging a bolt of lightning that lit up the entire dark hall. When the lightning-charged hammer struck the air around the demon, it was blocked again by a layer of arcane shielding. This arcane shield, after taking a hit as heavy as Grede's, showed no sign of weakening whatsoever.
 
 Beneath the shield, Reyhidian had already half-completed a demonic incantation. Her chanting echoed back and forth through the corridors and hall, and between her claws had already formed several Shadow orbs, densely swirling together.
 
 "Shadow Bolt volley!" Jace shouted. "Find cover, now!"
 
-Hearing Jace's warning, Vereesa and Grede immediately dove behind the massive stone pillars nearby. Mosa vaulted over a toppled pillar and hid beneath it. Jace himself was standing out in the open, with nowhere to run to and no time to flee. He had no choice but to speak the Dark Shield incantation as fast as he could...
+Hearing Jace's warning, Vereesa and Grede immediately dove behind the massive stone pillars nearby. Mosa vaulted over a toppled pillar and hid beneath it. Jace himself was standing out in the open, with nowhere to run to and no time to flee. He had no choice but to speak the Shadow Shield incantation as fast as he could...
 
-With a roar, Reyhidian released a wave of dark energy. A volley of Shadow Bolts instantly flew in the direction everyone had taken cover. Several came streaking straight at Jace. The first struck the Dark Shield and blew the energy into a fleeting film. Though the violent explosion from the Dark Shield shattered the second bolt that followed hard on its heels, the third punched straight through the shield's defenses and slammed into Jace.
+With a roar, Reyhidian released a wave of dark energy. A volley of Shadow Bolts instantly flew in the direction everyone had taken cover. Several came streaking straight at Jace. The first struck the Shadow Shield and blew the energy into a fleeting film. Though the violent explosion from the Shadow Shield shattered the second bolt that followed hard on its heels, the third punched straight through the shield's defenses and slammed into Jace.
 
-The already-flickering Mage Armor was stimulated into flashing an eerie sheen of purple and green. When the voidweave robe took the Shadow Bolt's energy, the fel inscriptions woven into it flickered with light again and again, layer after layer of defense helping Jace absorb the damage. But he still felt a powerful force of darkness seeping inward from his neck...
+The already-flickering Mage Armor was stimulated into flashing an eerie sheen of purple and green. When the Robe of the Void took the Shadow Bolt's energy, the fel inscriptions woven into it flickered with light again and again, layer after layer of defense helping Jace absorb the damage. But he still felt a powerful force of darkness seeping inward from his neck...
 
 This demon before him was far too strong. So this was why, after the ogres destroyed the magical array, Eldre'Thalas had to send so many Kaldorei into this district to stop her from escaping?
 
@@ -26,15 +26,15 @@ Some of the other Shadow Bolts blew apart stone pillars that were already on the
 
 She was venting her fury. She was going to blast this whole group to pieces with the most straightforward, brutal magic. Jace's eyes darted sideways, looking for something that could help him block the Shadow Bolt volley — but to his surprise, the felhound came bolting out of nowhere, charging straight at the demon in the center.
 
-Reyhidian's fel eye glanced back. The felhound's tentacles were already stabbing forward — and when those tentacles touched the demon's shield, what had seemed an unbreakable barrier suddenly became fragile as glass. Vereesa seized the lean moment, leaned out, and fired off another Arcane Arrow. The arrow cleanly pierced the demon's shield and drove straight for her heart — only to be caught in Reyhidian's grip.
+Reyhidian's fel eye glanced back. The felhound's tentacles were already stabbing forward — and when those tentacles touched the demon's shield, what had seemed an unbreakable barrier suddenly became fragile as glass. Vereesa seized the brief opening, leaned out, and fired off another Arcane Arrow. The arrow cleanly pierced the demon's shield and drove straight for her heart — only to be caught in Reyhidian's grip.
 
 She abandoned the second Shadow Bolt volley, turned, and grabbed the felhound's tentacles, trying to wrench them away — but her hands suddenly seemed to hesitate, as if they wouldn't obey her. The felhound used the opening to wrench itself free and dart to the side.
 
 Reyhidian turned back and saw Jace, who had just hit her with a Curse of Weakness, already chanting Curse of Agony. She extended her demon claws and rapidly spoke an incantation. Jace immediately felt as if something had seized his throat. Let alone speaking, even breathing became a struggle.
 
-The tension and the string of dodging, combined with the heavy damage from the Shadow Bolt volley, had him panting at a high cost. Caught completely off guard by his throat being suddenly squeezed, within seconds he couldn't help but feel a wave of dizziness.
+The tension and the string of dodging, combined with the heavy damage from the Shadow Bolt volley, had left him gasping for air. Caught completely off guard by his throat being suddenly squeezed, within seconds he couldn't help but feel a wave of dizziness.
 
-He forced his mouth open and, with difficulty, shouted the Fel Breath incantation. All at once it was like being brought back to life, and he sucked in a huge breath. Then a thick arm casually lifted him up and threw him more than ten meters, sending him tumbling behind a stone pillar. It was Grede, who had summoned his Earthen form and, after tossing Jace aside, immediately charged at the demon.
+He forced his mouth open and, with difficulty, shouted the Unending Breath incantation. All at once it was like being brought back to life, and he sucked in a huge breath. Then a thick arm casually lifted him up and threw him more than ten meters, sending him tumbling behind a stone pillar. It was Grede, who had summoned his earthen form and, after tossing Jace aside, immediately charged at the demon.
 
 The demon's second Shadow Bolt volley had already been completed while Jace struggled in agony, and was just now being released.
 
@@ -58,13 +58,13 @@ The demon's eyes followed the trail of the spreading flames, and in the end the 
 
 Jace immediately began chanting another Shadow Bolt. The demon smiled and reached out her hand, as if she meant to interrupt Jace's casting once again — only to find the felhound pouncing at her from behind once more.
 
-This time the felhound used its tear through her shield again with its tentacles. Reyhidian's form swayed. She failed to release a counterspell in time, and Jace successfully drove his Shadow Bolt into the demon's shield. Though this one still didn't completely burn through the shield, the fragility was clearly visible!
+This time the felhound tore through her shield again with its tentacles. Reyhidian's form swayed. She failed to release a counterspell in time, and Jace successfully drove his Shadow Bolt into the demon's shield. Though this one still didn't completely burn through the shield, the fragility was clearly visible!
 
 Vereesa's Arcane Shot came again as the final blow. This arrow smoothly pierced the demon's shield. The demon was just grabbing the felhound's tentacles and cleanly snapped one of them off... The moment the shield shattered, Morophil slipped out from behind the demon, raised her black blade, and stabbed hard into her back. The demon had just turned around — too late.
 
 Morophil's black blade drove deep into the demon's spine. The demon howled in pain and hurled the felhound away. Her arm wreathed in green fel flames swung at Morophil!
 
-The demon was enormous. The succubus was much smaller and more nimble, but after dodging that claw swipe, when she drove her knife into the demon's lower waist again, she struck the arcane shield once more and was bounced away.
+The demon was enormous. The succubus was much smaller and more nimble, but after dodging that claw swipe, when she drove her knife into the demon's flank again, she struck the arcane shield once more and was bounced away.
 
 The bounce threw Morophil off balance. The demon let out a strange laugh and lunged with her claws — only to be met by a blinding Arcane Arrow that struck the mana shield on her arm. The explosion shook even the demon herself.
 
@@ -76,7 +76,7 @@ Jace could feel it — her arcane shield was even stronger than it had been seco
 
 How was that possible? Was her mana infinite?
 
-Not only that — before their eyes, the wound Morophilic had stabbed into her back was rapidly being repaired by arcane energy under the protection of the arcane shield. Jace knew demons could use arcane energy to heal themselves — Morophil did exactly that — but seeing one heal this fast still caught him off guard. What kind of monster was she?
+Not only that — before their eyes, the wound Morophil had stabbed into her back was rapidly being repaired by arcane energy under the protection of the arcane shield. Jace knew demons could use arcane energy to heal themselves — Morophil did exactly that — but seeing one heal this fast still caught him off guard. What kind of monster was she?
 
 No, no, something wasn't right. Why would a demon possess such powerful arcane power?
 
@@ -92,8 +92,8 @@ The magic tower.
 
 It was the magic tower they'd sensed the moment they entered this district. If Vereesa was right, then she was the final victor — the champion who had claimed the magic tower all for herself.
 
-In the game, the ruler of Eldre'Thalas, Tortheldrin, had controlled the energy brought by the demon Immol'tar, transforming himself into an unassailable, overwhelmingly powerful presence. Had this demon used the same method to seize control of the magic tower in this ruined district?
+In the game, the ruler of Eldre'Thalas, Tortheldrin, had controlled the energy brought by the demon Immol'thar, transforming himself into an unassailable, overwhelmingly powerful presence. Had this demon used the same method to seize control of the magic tower in this ruined district?
 
-If it wasn't that, how else could she explain this creature's near-infinite source of mana? But how was he supposed to find that magic tower? And how was he supposed to destroy it?
+If it wasn't that, how else could he explain this creature's near-infinite source of mana? But how was he supposed to find that magic tower? And how was he supposed to destroy it?
 
 Right now, even the whole party could barely hold their own against this demon. Where would they find the strength to do anything else on top of that?

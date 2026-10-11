@@ -6,7 +6,7 @@ Jace didn't have the energy to care what they were fighting about, because thing
 
 During the desert crossing, the three of them had chatted with the mercenaries guarding the kodo caravan and learned that airship tickets to Everlook usually ran about two or three gold pieces. That meant eight gold for the four of them including the succubus. Even if the succubus snuck aboard without a ticket, it was still six gold — a genuinely painful price.
 
-But this hadn't exceeded Jace's expectations. After all, the boat ticket from Stormwind to Southshore cost fifty or sixty silver, and that was just crossing a single big bay in the middle of the Eastern Kingdoms. Gadgetzan to Everalmost ran from nearly the southernmost tip of the continent all the way to the northern end — the distance was incomparably greater.
+But this hadn't exceeded Jace's expectations. After all, the boat ticket from Stormwind to Southshore cost fifty or sixty silver, and that was just crossing a single big bay in the middle of the Eastern Kingdoms. Gadgetzan to Everlook ran from nearly the southernmost tip of the continent all the way to the northern end — the distance was incomparably greater.
 
 The airship fares, combined with this goblin's pestering, were wearing on him more and more. He couldn't help but let out a slow sigh.
 
@@ -16,17 +16,17 @@ The airship fares, combined with this goblin's pestering, were wearing on him mo
 
 The goblin looked at Jace and shifted his lips. Grede added, "And we haven't caused you any trouble, and we haven't used any of your supplies — including water. We bought our own water skins at Steamwheedle Port."
 
-"I don't deny that." The goblin stared at Grede. "But have you considered the risk? If you'd collapsed from illness out in the desert, the Water Company absolutely couldn't just watch you die of thirst. If we'd been ambushed by bandits or ogres, our kodos and the Trade Cartel's mercenaries would have dealt with them immediately. We can't just ignore you freeloaders. So in fact, you enjoyed our protection and care. In fact, you rode on our strength all the way to Gadgetzan safely! That kind of service in a place like Kalimdor is extraordinarily expensive. The Gadgetzan Water Company saved Gadgetzan, but that doesn't mean Mister Noggenfogger is a philanthropist!"
+"I don't deny that." The goblin stared at Grede. "But have you considered the risk? If you'd collapsed from illness out in the desert, the Water Company absolutely couldn't just watch you die of thirst. If we'd been ambushed by bandits or ogres, our kodos and the Steamwheedle Cartel's mercenaries would have dealt with them immediately. We can't just ignore you freeloaders. So in fact, you enjoyed our protection and care. In fact, you rode on our strength all the way to Gadgetzan safely! That kind of service in a place like Kalimdor is extraordinarily expensive. The Gadgetzan Water Company saved Gadgetzan, but that doesn't mean Mr. Noggenfogger is a philanthropist!"
 
-"No, sir." Wrensa said coldly, looking at the passersby. "By that logic, it's you who actually accepted our protection."
+"No, sir." Vereesa said coldly, looking at the passersby. "By that logic, it's you who actually accepted our protection."
 
 "I don't see any protective ability here!" The goblin looked around theatrically. "Where's the protection? Where? I don't believe a caravan guarded by two kodos and a dozen well-armed elite mercenaries needs any extra security measures!"
 
-Wrensa glanced at the squatting kodos. "I bear no ill will toward kodos, but I could take them out myself with ease — plus your 'well-armed' goblin fighters. And the dwarf beside me could do the same thing a good deal more cleanly than I could."
+Vereesa glanced at the squatting kodos. "I bear no ill will toward kodos, but I could take them out myself with ease — plus your 'well-armed' goblin fighters. And the dwarf beside me could do the same thing a good deal more cleanly than I could."
 
-Hearing Wrensa praise him like that, Grede smugly curled his mustache.
+Hearing Vereesa praise him like that, Grede smugly curled his mustache.
 
-"As for this human — you don't want to see him in action." Wrensa glanced at Jace.
+"As for this human — you don't want to see him in action." Vereesa glanced at Jace.
 
 The goblin carefully studied the fairly young-looking human. He wore an eerie dark-metallic-colored cloak that not a single grain of sand could cling to without sliding right off.
 
@@ -42,9 +42,11 @@ This didn't quite feel like fear.
 
 The caravan leader smacked his lips and rubbed his hands together. "All right. Seeing as you lot clearly aren't ordinary vagrants, I'm willing to cut you a deal."
 
-"What a scoundrel," Grede sighed. "Name your price," Jace said.
+"What a scoundrel," Grede sighed.
 
-"Three humans and a demon — five gold pieces total." The goblin held up both hands, fingers spread to show five. Jace was taken aback. So seeing his fancy gear, they thought he was rich and were trying to scam him?
+"Name your price," Jace said.
+
+"Three people and a demon — five gold pieces total." The goblin held up both hands, fingers spread to show five. Jace was taken aback. So seeing his fancy gear, they thought he was rich and were trying to scam him?
 
 "What?!" Grede roared. "The boat from Booty Bay here wasn't much cheaper than that!"
 
@@ -60,19 +62,19 @@ The caravan leader smacked his lips and rubbed his hands together. "All right. S
 
 "Sand bandits?!" Grede gritted his teeth and raised his fist, but in the end he could only shove the goblin aside in frustration.
 
-After all, the airship was Trade Cartel property. If they beat up someone from the Gadgetzan Water Company here, none of them should expect to fly anywhere.
+After all, the airship was Steamwheedle Cartel property. If they beat up someone from the Gadgetzan Water Company here, none of them should expect to fly anywhere.
 
-Wrensa lowered her head and breathed out deeply, muttering a complaint in Thalassian under her breath.
+Vereesa lowered her head and breathed out deeply, muttering a complaint in Thalassian under her breath.
 
-"I actually think we could go," Jace said to her quietly. "He's a high-up in the Trade Cartel. If he's well-informed enough about the other continent, he should have heard about us — he should at least know you and your family. If he has any emotional intelligence at all, he wouldn't pick a fight with us over a few gold. The problem is, he might take a personal dislike to me."
+"I actually think we could go," Jace said to her quietly. "He's a high-up in the Steamwheedle Cartel. If he's well-informed enough about the other continent, he should have heard about us — he should at least know you and your family. If he has any emotional intelligence at all, he wouldn't pick a fight with us over a few gold. The problem is, he might take a personal dislike to me."
 
-"A conflict?" Wrensa asked. "You know him?"
+"A conflict?" Vereesa asked. "You know him?"
 
 Jace swallowed and carefully thought over what he was about to say, trying his best not to drag the forest trolls into the conversation again.
 
 "Back in Booty Bay, that potion I had made — the one that lifted my curse — it's connected to Noggenfogger. The formula for that potion was originally developed by him and a business partner. Later, I helped his partner come up with an improved version and took a cut of the profits. So I can only hope his partner hasn't leaked my real name to him."
 
-"The one that required materials from trolls?" Wrensa nodded.
+"The one that required materials from trolls?" Vereesa nodded.
 
 Jace gave her a stiff glance, grunted an "mm," and raised his voice toward the goblin. "We'll go."
 
@@ -86,14 +88,6 @@ The goblin saw him looking completely unbothered and coughed. "Never mind. I don
 
 "No," Jace said.
 
-"I'm fine with it," Jace looked at the other two. "You?" Wrensa shook her head. Grede spread his hands. "I'll follow your lead."
+"I'm fine with going," Jace said, looking at the other two. "You?" Vereesa shook her head. Grede spread his hands. "I'll follow your lead."
 
-Jace glanced back at where Molophil was squatting. She was watching him silently, so naturally she had't have any objections — let alone the imp.
-
-## Flags
-
-- **POV consistency**: Third person throughout.
-- **Glossary adherence**: 温蕾萨·风行者 → Wrensa Windrunner; 格瑞德 → Grede Thunderfist; 杰斯·塞索 → Jace Sesso; 莫洛菲尔 → Molophil (succubus companion); 热砂财团 / 热砂集团 → the Trade Cartel; 加基森水业公司 → Gadgetzan Water Company; 诺格弗格 → Noggenfogger; 锈水财阀 → Bilgewater Cartel; 卡利姆多 → Kalimdor; 塔纳利斯 → Tanaris; 永望镇 → Everlook; 藏宝海湾 → Booty Bay; 热砂港 → Steamwheedle Port; 暴风城 → Stormwind; 南海镇 → Southshore; 东部大陆 → Eastern Kingdoms; 异种虫 → silithids; 地精语 → Goblin; 精灵语 → Thalassian; 通用语 → Common.
-- **Tone**: Snarky internal commentary preserved (the goblin-as-philanthropist line, "what a scoundrel," Jace's wariness about his alias Jack Slovak leaking).
-- **Alias note**: 杰克·斯洛伐克 → Jack Slovak (Jace's Booty Bay alias), distinct identity maintained in translation.
-- **Chapter title**: "Fare Evasion Is Getting Harder and Harder" — keeps the comedic escalation.
+Jace glanced back at where Morophil was squatting. She was watching him silently, so naturally she didn't have any objections — let alone the imp.

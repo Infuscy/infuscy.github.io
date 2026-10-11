@@ -50,13 +50,13 @@ Between the courses, Jace thought he heard someone mention "a prodigal son's ret
 
 She had not changed much since the last time Jace had seen her in the cathedral. She was far easier to recognize than Arthas.
 
-Jace remembered the joke Andormas had made back in the Wizard Sanctum — "The King of Lordaeron ought to marry his daughter off to you." He had been referring to this princess.
+Jace remembered the joke Andromath had made back in the Wizard's Sanctum — "The King of Lordaeron ought to marry his daughter off to you." He had been referring to this princess.
 
 She was speaking with the king about something, glancing over from time to time, her complicated expression jarringly out of place at a banquet whose mood was otherwise cheerful.
 
 Of course, Terenas II would never in a million years marry his daughter to some clueless kid who'd grown up on the muddy streets of the Old Craftsmen's Quarter.
 
-Even if that kid had blown a Pit Lord to pieces with a single shot, or thought up a nasty trick to blast the "Destroyer" Deathwing out of the sky — still no.
+Even if that kid had blown a pit lord to pieces with a single shot, or thought up a nasty trick to blast the "Destroyer" Deathwing out of the sky — still no.
 
 And Jace even doubted that anyone here had any idea what Deathwing actually was, even if every one of them had seen the great dragon in the flesh — in the form of Lord Daval Prestor.
 
@@ -66,7 +66,7 @@ Unless Jace was Medivh reborn, capable of wiping Stromgarde or the city of Gilne
 
 Then again, Jace had zero interest in that saintly young lady anyway. He only liked silver-haired, pointy-eared elves.
 
-"Wen."
+"Vere."
 
 "Hmm?"
 

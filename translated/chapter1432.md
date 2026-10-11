@@ -1,4 +1,4 @@
-## Chapter 1432: Coming of Age (Part 2)
+## Chapter 1432: The Coming of Age Ceremony (Part 2)
 
 Amidst the ethereal, crystalline hymns, the sound of metal boots striking the floor echoed from the corridor beyond the main doors.
 
@@ -50,7 +50,7 @@ Standing among the elven mages and Farstriders, Sylvanas Windrunner watched Arth
 
 But when Jace saw these two together, he had a perception that no one else in the room shared.
 
-In another timeline, a few years from now, Death Knight Arthas would lead the undead Scourge to breach Quel'Thalas's defenses. With Frostmourne in hand, he would kill Sylvanas and forcibly raise her as a banshee in service to the Scourge — beginning the Dark Lady's bitter hatred of the undead legion.
+In another timeline, a few years from now, death knight Arthas would lead the undead Scourge to breach Quel'Thalas's defenses. With Frostmourne in hand, he would kill Sylvanas and forcibly raise her as a banshee in service to the Scourge — beginning the Dark Lady's bitter hatred of the undead legion.
 
 But here and now, they were like two parallel lines with no connection. Neither cared about the other. It gave Jace, as an observer, a strange sense of temporal displacement.
 

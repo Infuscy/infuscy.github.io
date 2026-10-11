@@ -18,9 +18,11 @@ Jace nodded. It seemed she hadn't detected the succubus's presence.
 
 He picked up the dark brown pieces of fabric on Vereesa's table and gave them an experimental sniff. A faint corpse stench threading through the earthy smell made him frown. The memory of rummaging through a pile of gnoll corpses with Grede that day came flooding back.
 
-The ranger set the sword down. "These very much feel like the same person's belongings, Jace — at least in terms of the necrotic aura." Jace couldn't pick out any distinguishing features, so he could only nod, but he didn't doubt a Windrunner's judgment.
+The ranger set the sword down. "These very much feel like the same person's belongings, Jace — at least in terms of the necrotic aura."
 
-Vereesa continued, "So it's possible he was defeated in the Great Graveyard and his soul fled? Or... he's dead. You saw that death knight's corpse. Are you certain it was the same as the husk Teron Gorefiend left behind?"
+Jace couldn't pick out any distinguishing features, so he could only nod, but he didn't doubt a Windrunner's judgment.
+
+Vereesa continued, "So it's possible he was defeated in the Raven Hill Cemetery and his soul fled? Or... he's dead. You saw that death knight's corpse. Are you certain it was the same as the husk Teron Gorefiend left behind?"
 
 "Very similar," Jace said. "Is there a big difference between a death knight killed outright and a husk left behind by a fleeing soul?"
 
@@ -32,9 +34,9 @@ Vereesa continued, "So it's possible he was defeated in the Great Graveyard and 
 
 "But if it's a husk, that means his soul has already escaped, and tracking him becomes even harder. I don't know if bringing these things back to Quel'Thalas will be enough to convince Sylvanas."
 
-Jace said, "I don't think he was defeated. I think he switched bodies voluntarily. The entire Wizard Sanctum — the entire kingdom — doesn't even know there's a death knight here, Vereesa. Who do you think defeated him? It definitely couldn't have been gnolls."
+Jace said, "I don't think he was defeated. I think he switched bodies voluntarily. The entire Wizard's Sanctum — the entire kingdom — doesn't even know there's a death knight here, Vereesa. Who do you think defeated him? It definitely couldn't have been gnolls."
 
-"The Great Graveyard is the resting place of many war heroes — from the Troll Wars, the Gnoll Wars, and even some who died during the two Orc Wars. When the wars first ended, Raven Hill wasn't as run-down as it is today. Some of the corpses there, especially those from the Orc Wars, still haven't fully decayed due to the dark energy influence of Duskwood. Aren't these exactly the kind of vessels a death knight would be looking for?"
+"The Raven Hill Cemetery is the resting place of many war heroes — from the Troll Wars, the Gnoll War, and even some who died during the two Orc Wars. When the wars first ended, Raven Hill wasn't as run-down as it is today. Some of the corpses there, especially those from the Orc Wars, still haven't fully decayed due to the dark energy influence of Duskwood. Aren't these exactly the kind of vessels a death knight would be looking for?"
 
 "But a death knight needs a warlock to perform the ritual to enter a new body, Jace." Vereesa said. "Without someone else guiding his soul into a new vessel... he can't complete the body switch on his own."
 
@@ -44,17 +46,17 @@ Even Teron Gorefiend couldn't simply resurrect himself from a corpse, so his sub
 
 "That's true." Jace rubbed his lip. "Let me think. Would it be his orc warlock attendant? That seems perfectly reasonable, doesn't it?"
 
-"I don't know." Vereesa shook her head. "I didn't find any orc tracks in the Great Graveyard. You know orcish warlocks are far less skilled at hiding their movements than trolls."
+"I don't know." Vereesa shook her head. "I didn't find any orc tracks in the Raven Hill Cemetery. You know orcish warlocks are far less skilled at hiding their movements than trolls."
 
 Since Vereesa had said as much, Jace didn't know what to say either. Then he thought of someone.
 
 "While you were investigating Duskwood and Raven Hill, did you come across a man named Abercrombie?"
 
-In the game, Abercrombie was a necromancer living next to the Great Graveyard. After his wife died, he'd gone mad and tried to resurrect her with necromantic magic, but his wife had turned into a terrifying zombie that attacked townsfolk and was eventually killed by the townspeople.
+In the game, Abercrombie was a necromancer living next to the Raven Hill Cemetery. After his wife died, he'd gone mad and tried to resurrect her with necromantic magic, but his wife had turned into a terrifying zombie that attacked townsfolk and was eventually killed by the townspeople.
 
-To get revenge on the townspeople, he'd deceived travelers into helping him gather materials... eventually creating a massive abomination that attacked Duskwood.
+To get revenge on the townspeople, he'd deceived travelers into helping him gather materials... eventually creating a massive abomination that attacked Darkshire.
 
-If there was anyone in Duskwood who might know something about the death knight in the Great Graveyard, it had to be this man — after all, in the game, he lived right next to the Great Graveyard.
+If there was anyone in Duskwood who might know something about the death knight in the Raven Hill Cemetery, it had to be this man — after all, in the game, he lived right next to the Raven Hill Cemetery.
 
 "Never heard of him. What does he do?"
 
@@ -62,7 +64,7 @@ Jace said, "He seems to know a thing or two about necromancy, and he lived in Ra
 
 "Is he still in Raven Hill? When I went before, I'd never heard of such a person in town." Vereesa said. "Well, I didn't meet many people willing to share information with me either."
 
-Given the decade-plus gap from the game's timeline, Jace didn't even know if Abercrombie had become a necromancer yet, or whether he'd moved next to the Great Graveyard.
+Given the decade-plus gap from the game's timeline, Jace didn't even know if Abercrombie had become a necromancer yet, or whether he'd moved next to the Raven Hill Cemetery.
 
 "I can help you find him," he said. "I want to track down this death knight too."
 
@@ -89,20 +91,3 @@ Vereesa nodded. "I'm helping you. If one day you do go down that path and hurt s
 Jace said, "I understand the weight of this guarantee, Vereesa. I know how dangerous the Shadow is."
 
 Vereesa looked over. "I know you understand. That's why I'm willing to trust you — after all, we've fought side by side."
-
-## Flags
-
-- **温蕾萨** — Vereesa Windrunner (youngest Windrunner sister; canonical).
-- **莫洛菲尔** — Morophil, Jace's succubus (established in earlier chapters).
-- **塔隆·血魔** — Teron Gorefiend, per glossary (first death knight).
-- **亚伯克隆比** — Abercrombie (canonical Duskwood necromancer NPC; lives next to the Great Graveyard in the game).
-- **纳菲瑞提河** — Nafeltari River / River Neltharion, per glossary (tentative name).
-- **大墓园** — the Great Graveyard (Raven Hill's graveyard; canonical Duskwood location).
-- **暮色森林** — Duskwood, per glossary.
-- **乌鸦岭** — Raven Hill, per glossary.
-- **夜色镇** — Duskwood (the town; canonical).
-- **奎尔萨拉斯** — Quel'Thalas, per glossary.
-- **希尔瓦娜斯** — Sylvanas (canonical; Vereesa's older sister, referenced but not named directly in the Chinese).
-- **格瑞德** — Grede, per glossary (dwarf companion).
-- Chapter title 好朋友互相帮助 = "Good Friends Help Each Other" — Jace and Vereesa agreeing to trade favors.
-- POV: third person. Jace's gamer knowledge of the Shadowmoon Valley death-knight questline kept as internal lore-dumping. Vereesa's cautious-but-willing trust register preserved.

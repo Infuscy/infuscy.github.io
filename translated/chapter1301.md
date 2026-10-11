@@ -14,7 +14,7 @@ He knew his role. Fighting groups of archers hiding behind walls and dealing wit
 
 So he had to prepare as many shadow protection potions and various elixirs for enhanced stamina and magical power as possible.
 
-The only regret was that he'd already drunk the two flasks of Purified Wisdom from Ursula. He had one flask of "Ursoc's Strength" left in his hand. Draenor didn't have Black Lotus, so making more of those flasks was out of the question.
+The only regret was that he'd already drunk the two Flasks of Distilled Wisdom from Ursula. He had one flask of "Ursoc's Strength" left in his hand. Draenor didn't have Black Lotus, so making more of those flasks was out of the question.
 
 But from the flasks Alleria had given Vereesa before, the draenei had apparently taught the Alliance Expedition some flask recipes too. Maybe there was a suitable substitute.
 
@@ -44,13 +44,13 @@ The liquid inside was a very bright purple, with a hint of starlight. It clearly
 
 "So these use Draenor's shadow essence." Jace uncorked one and smelled a strange, fishy sweetness. But the shadow resistance was unquestionable.
 
-"And a blue flower called mana thistle," the gnome said. "Another miraculous plant that only appeared after the Cataclysm! A lot of Draenor's native species did die in that disaster. But even more bizarre, more unique things keep emerging. Every coin has two sides, Mr. Sesso!"
+"And a blue flower called mana thistle," the gnome said. "Another miraculous plant that only appeared after the cataclysm! A lot of Draenor's native species did die in that disaster. But even more bizarre, more unique things keep emerging. Every coin has two sides, Mr. Sesso!"
 
 "True," Jace said.
 
 He remembered that before coming to Draenor, he'd promised Ursula he'd bring back some Draenor herbs. Mana thistle was a perfect example.
 
-Back before leaving Azeroth, he'd thought Karlrez could open a portal crack so easily — even if he couldn't get the whole expedition back immediately, he could at least create a channel for communication, quietly exchange information and supplies, support each other...
+Back before leaving Azeroth, he'd thought Kallrez could open a portal crack so easily — even if he couldn't get the whole expedition back immediately, he could at least create a channel for communication, quietly exchange information and supplies, support each other...
 
 At the very least, he and his friends should be able to return for rest and to seek other help. He never imagined the Burning Legion could trap everyone so cleanly and completely.
 
@@ -74,7 +74,7 @@ When he'd told the black dragon yesterday that he wasn't counting on getting bac
 
 Jace nodded, trying not to think about the terrible fate awaiting Gnomeregan. But the gnome's bravado didn't last long either.
 
-He sighed, then mustered his courage again. "We're really not going back, are we? Give me some inside info, sir! The people in the stronghold haven't wanted to talk about it lately. Has Marshal Turalyon and the other Sons of Lothar leaders already decided to fight here forever? I mean, we're already allying with black dragons. Bloody hell... uh, I'm not cursing our own side."
+He sighed, then mustered his courage again. "We're really not going back, are we? Give me some inside info, sir! The people in the stronghold haven't wanted to talk about it lately. Has General Turalyon and the other Sons of Lothar leaders already decided to fight here forever? I mean, we're already allying with black dragons. Bloody hell... uh, I'm not cursing our own side."
 
 "No," Jace said. "All the leaders are thinking about how to break through the demon blockade. I think once we make contact with Kirin'Var Village or the draenei leaders, things will become clearer. But for now, we have to survive the Burning Legion's threat first."
 
@@ -86,7 +86,7 @@ He sighed, then mustered his courage again. "We're really not going back, are we
 
 "Those were brought from Azeroth. If any were left, they'd be stored at the top of that tower." The gnome glanced outside. "If it weren't for the stored potions, I doubt the tower would have blown up that badly. Even my storeroom got wrecked that day."
 
-"In short — there's no way to make wisdom potions in the stronghold anymore. No briarthorn, no blindweed..." The gnome shrugged helplessly, flipping to the back of the booklet. "Maybe try this potion invented by some strange, shamanistic ogres in Blade's Edge Mountains."
+"In short — there's no way to make wisdom potions in the stronghold anymore. No briarthorn, no blindweed..." The gnome shrugged helplessly, flipping to the back of the booklet. "Maybe try this potion invented by some strange, shamanistic ogres in the Blade's Edge Mountains."
 
 "What potion?" Jace asked.
 
@@ -102,10 +102,10 @@ He sighed, then mustered his courage again. "We're really not going back, are we
 
 Leaving the alchemy lab with his bulging potion pouch, Jace thought that if they ever made it back to Azeroth, at least he'd have something to show Ursula.
 
-He took out the totem stone that the orc shaman Bazhun had given him — the one carved with a small totem. When he held it, he could still feel the bitter, frozen wind of Alterac Valley.
+He took out the totem stone that the orc shaman Bazuen had given him — the one carved with a small totem. When he held it, he could still feel the bitter, frozen wind of Alterac Valley.
 
-Bazhun had wanted him to throw this stone into the mountains of Draenor. There were black mountains everywhere he looked, but throwing it into the fel-fire-consumed Shadowmoon Valley probably wasn't what the old shaman had in mind.
+Bazuen had wanted him to throw this stone into the mountains of Draenor. There were black mountains everywhere he looked, but throwing it into the fel fire-consumed Shadowmoon Valley probably wasn't what the old shaman had in mind.
 
-The Thunderlord clan's home was in Blade's Edge Mountains to the north. He'd thought about asking the Farstriders to take the stone with them when they went north, but in the end, he figured he might as well toss it himself and fulfill Bazhun's request.
+The Thunderlord clan's home was in the Blade's Edge Mountains to the north. He'd thought about asking the Farstriders to take the stone with them when they went north, but in the end, he figured he might as well toss it himself and fulfill Bazuen's request.
 
 If he really was stuck here for a while, there'd still be plenty of chances.

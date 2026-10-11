@@ -2,7 +2,7 @@
 
 Whatever the truth behind General Alexandros Mograine's words, at least one thing he'd said was right: the army of Quel'Thalas arrived at Nethergarde that very evening.
 
-The horn of allied arrival sounded. Jace came to the observation deck of the mage tower and looked down. A long column of elves in blue and gold rode white warhorses and colorful springboks toward Nethergarde, wagon after wagon of supplies trailing behind them. Most eye-catching of all was an ornately decorated transport wagon carrying a gorgeous treasure chest.
+The horn of allied arrival sounded. Jace came to the observation deck of the mage tower and looked down. A long column of elves in blue and gold rode white warhorses and colorful hawkstriders toward Nethergarde, wagon after wagon of supplies trailing behind them. Most eye-catching of all was an ornately decorated transport wagon carrying a gorgeous treasure chest.
 
 What was inside naturally piqued Jace's curiosity — but he was far more interested in the elven commanders riding at the front.
 
@@ -24,9 +24,9 @@ Just then, Grede squeezed through from the dwarf side over to where Jace was. He
 
 "Of course!" Grede laughed. "A lot of people say Alleria and Sylvanas look alike — who knows if it's true. I've got to see for myself!"
 
-The gate rose. After a guard of honor carrying blue phoenix banners marched past, a pale-blonde woman in blue feathered armor rode into the fortress on a dark green springbok.
+The gate rose. After a guard of honor carrying blue phoenix banners marched past, a pale-blonde woman in blue feathered armor rode into the fortress on a dark green hawkstrider.
 
-The springbok's plumage was almost painterly in its beauty, and it walked with a stride so haughty it bordered on swagger — exactly like the Quel'dorei who'd raised them.
+The hawkstrider's plumage was almost painterly in its beauty, and it walked with a stride so haughty it bordered on swagger — exactly like the Quel'dorei who'd raised them.
 
 Several of Nethergarde's generals stood with a leader of the Farstriders, calling out something from a distance — probably words of welcome. Jace thought he heard one of the generals mention Sylvanas's name, and the blonde woman nodded in response. No doubt about it, then — that was Sylvanas.
 
@@ -36,7 +36,7 @@ To Sylvanas's left was an elven man Jace didn't recognize. He wore a Farstrider'
 
 "Who's that guy?" Jace asked Grede. Grede shook his head.
 
-"Lor'themar Theron," a red-robed mage beside them said. "The Ranger-General's lieutenant. A powerful Ranger-Lord."
+"Lor'themar Theron," a red-robed mage beside them said. "The Ranger-General's lieutenant. A powerful Ranger Lord."
 
 Lor'themar Theron, indeed…
 
@@ -48,7 +48,7 @@ Just then, Jace spotted a familiar figure among the Farstrider ranks behind Sylv
 
 She was watching Sylvanas's every move, and only after the Ranger-General finished speaking with Nethergarde's generals did she glance off to the side.
 
-The elves who'd come here were quite numerous — mages, rangers, spearmen with shields, and even Spellbreakers wielding sabers and shields. Considering Quel'Thalas had barely recovered from its recent devastation and still faced the threat of the Amani, being able to spare a force this size to reinforce Nethergarde was no small thing — especially since there was already a substantial elven garrison here.
+The elves who'd come here were quite numerous — mages, rangers, spearmen with shields, and even spellbreakers wielding sabers and shields. Considering Quel'Thalas had barely recovered from its recent devastation and still faced the threat of the Amani, being able to spare a force this size to reinforce Nethergarde was no small thing — especially since there was already a substantial elven garrison here.
 
 The elven column, led by several human knights, made its way to the fortress heights at the rear of Nethergarde — presumably the quarters set aside especially for the elves.
 
@@ -64,7 +64,7 @@ What on earth was that… Jace looked up toward the top of the mage tower. A mag
 
 "And she was so far away, bundled up in that hood," he complained.
 
-Jace pointed to the silver-haired elf riding a red springbok. "That one."
+Jace pointed to the silver-haired elf riding a red hawkstrider. "That one."
 
 "Ah…" The dwarf nodded. "Got her. She didn't wave to you — you're not sore about it, are you?"
 
@@ -85,23 +85,3 @@ Grede looked over, thought for a moment, and said, "Just tell them you know—"
 "Doesn't sound like you, ha!" Grede laughed. "Then let's find another chance. Let's go have a drink at the tavern, Jace? No idea how crowded it is right now. I haven't had a single drop of alcohol since I got to Nethergarde — it's driving me crazy."
 
 "Let's go," Jace nodded.
-
-## Flags
-
-- **Nethergarde Keep** (守望堡) — the Alliance frontline base; per Ch. 400 convention.
-- **Quel'Thalas** (奎尔萨拉斯) — High Elf homeland; per glossary.
-- **Sylvanas Windrunner** (希尔瓦娜斯·风行者) — Ranger-General of Silvermoon; canonical WoW figure (the future Banshee Queen).
-- **Alleria Windrunner** (奥蕾莉亚·风行者) — eldest Windrunner sister; canonical, per glossary.
-- **Vereesa Windrunner** (温蕾萨·风行者) — youngest Windrunner sister; canonical, per Ch. 175–176 convention.
-- **Lor'themar Theron** (洛瑟玛·塞隆) — Ranger-Lord and Sylvanas's lieutenant; canonical WoW figure, future regent of Quel'Thalas.
-- **Kael'thas Sunstrider** (凯尔萨斯·逐日者) — canonical; per glossary.
-- **Sin'dorei** (辛多雷) — "Blood Elves" in Thalassian; per glossary.
-- **Quel'dorei** (奎尔多雷) — the high elves' name for themselves; rendered as "Quel'dorei."
-- **Farstriders** (远行者) — the ranger corps of Quel'Thalas; canonical, rendered as "Farstriders."
-- **Spellbreakers** (破法者) — elven anti-mage warriors; canonical, rendered as "Spellbreakers."
-- **Amani** (阿曼尼) — the troll empire threatening Quel'Thalas; canonical.
-- **Kirin Tor** (肯瑞托) — mage council; per glossary.
-- **Dalaran** (达拉然) — floating mage city; per glossary.
-- **Springboks** (陆行鸟) — the colorful flightless bird mounts; rendered as "springboks" (canonical Stranglethorn fauna, used here as elven mounts).
-- **Bronzebeard** (铜须) — dwarven clan; per glossary.
-- **Note**: The "treasure chest" carried into the mage tower is strongly implied to be a mana-supplying arcane crystal/gemstone — a strategic asset for the defense.

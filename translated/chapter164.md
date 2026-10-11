@@ -16,7 +16,7 @@ Calia was probably already fourteen or fifteen and had started to fill out. Even
 
 "With the king there, let's go check out the chapel on the east side of the city instead. That old man does everything at a snail's pace," Henny said.
 
-Jace nodded, his mind still full of Arthas gazing up at the archbishop. It was hard to imagine that in a little over a decade that child would personally destroy his entire kingdom, and half a continent along with it — turning all of Tirisfal and the Eastern Plaguelands from a thriving northern paradise of farmland and forest into a haunted deadland crawling with zombies, ghosts, and rotting beasts.
+Jace nodded, his mind still full of Arthas gazing up at the archbishop. It was hard to imagine that in a little over a decade that child would personally destroy his entire kingdom, and half a continent along with it — turning all of Tirisfal and the Eastweald from a thriving northern paradise of farmland and forest into a haunted deadland crawling with zombies, ghosts, and rotting beasts.
 
 Back on the street, he walked and said, "Mom, you have to come to Stormwind with me someday."
 
@@ -46,7 +46,7 @@ The old priest smiled and nodded, then noticed the lanky figure beside Henny.
 
 Jace stared wide-eyed. "I wouldn't dare steal anything from the Cathedral of Light."
 
-"So you're just bullying this old man who can barely see?"
+"So you're just bullying an old man who can barely see?"
 
 "No... I'm not a kid anymore."
 
@@ -109,19 +109,3 @@ For the first time, he wished his eyes weren't so sharp. He sat down and stared 
 Heading back to Dalaran now.
 
 Orcs, death knights, black dragons — those things were like storm clouds on the horizon, looming closer by the day, and the boat was sailing straight toward them.
-
-## Flags
-
-- **一晃而过** (chapter title): rendered as "In a Flash" — captures the sense of time slipping by quickly during his brief home visit. Not in glossary.
-- **佳莉娅·米奈希尔**: Calia Menethil (Arthas's older sister). Not in glossary.
-- **泷绿色**: rendered as "dark-green" — the color of Jaina's cloak.
-- **提瑞斯法和东维尔德**: rendered as "Tirisfal and the Eastern Plaguelands" — 东维尔德 = Eastern Plaguelands (canonical WoW zone, 东瘟疫之地). The Chinese 东维尔德 is a non-standard rendering; canonical English is Eastern Plaguelands. Not in glossary.
-- **阿隆索斯·法奥**: Alonsus Faol (glossary: Alonsus Faol, founder of the Holy Light church). Here referred to as "Archbishop."
-- **光明大教堂**: rendered as "the Cathedral of Light" (glossary: Cathedral of Light).
-- **纳克萨玛斯**: Naxxramas — canonical WoW raid. Not in glossary.
-- **天启四骑士**: rendered as "the Four Horsemen" — the Four Horsemen of Naxxramas. Not in glossary.
-- **圣骑士 / 死亡骑士**: paladin / death knight (glossary).
-- **武替** carried over from previous chapter's joke context (not present here).
-- **东威尔德** (ch.161) and **东维尔德** (ch.164): two different Chinese renderings of what appears to be the same Lordaeron eastern region; rendered consistently as Eastern Plaguelands / Eastweald. TODO: verify canonical intent.
-- **斯坦索姆** (Stratholme) referenced in ch.161; canonical.
-- **布瑞尔** (Brill): Jace's hometown area, canonical WoW town in Tirisfal. Not in glossary.

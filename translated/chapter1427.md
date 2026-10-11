@@ -1,16 +1,16 @@
 ## Chapter 1427: The Black Dragon Settling in Stormwind
 
-"Needleflame, this is Master Eden Marin, master of fire magic at the Wizard Sanctum. Master Marin, this is Needleflame — Sabellian's daughter."
+"Needleflame, this is Master Eden Malin, master of fire magic at the Wizard's Sanctum. Master Malin, this is Needleflame — Sabellian's daughter."
 
-In a quiet corner of the garden, Jace brought Marin before the little black dragon. The archmage studied the petite, dark-skinned girl carefully. She looked wary. "Needleflame..."
+In a quiet corner of the garden, Jace brought Malin before the little black dragon. The archmage studied the petite, dark-skinned girl carefully. She looked wary. "Needleflame..."
 
-It seemed Marin had heard from Sora about dragon naming conventions.
+It seemed Malin had heard from Sola about dragon naming conventions.
 
-Namely, that names with obvious meanings were generally casually given by elders to the flighty younger dragons. But for dragons who were valued — whelps fortunate enough to be well-loved, or the offspring of princes who attracted attention from birth — they received formal names that only held meaning in the ancient dragon tongue, like Onyxia or Somalliar.
+Namely, that names with obvious meanings were generally casually given by elders to the flighty younger dragons. But for dragons who were valued — whelps fortunate enough to be well-loved, or the offspring of princes who attracted attention from birth — they received formal names that only held meaning in ancient Draconic, like Onyxia or Somaelir.
 
-But from Sabellian's attitude toward Needleflame, she wasn't the neglected hatchling Sora had initially assumed. It was probably more that the black dragons' years in Draenor had been entirely unfavorable, and Sabellian had never expected any of this batch to actually survive to adulthood.
+But from Sabellian's attitude toward Needleflame, she wasn't the neglected hatchling Sola had initially assumed. It was probably more that the black dragons' years in Draenor had been entirely unfavorable, and Sabellian had never expected any of this batch to actually survive to adulthood.
 
-"Good afternoon, Lady Needleflame," Marin greeted.
+"Good afternoon, Lady Needleflame," Malin greeted.
 
 Needleflame eyed the archmage suspiciously, then said, "Good afternoon, human."
 
@@ -22,23 +22,23 @@ Jace leaned in and whispered a warning. "Either you listen to me, or you have to
 
 "Good afternoon, Master!" Needleflame said, clearly against her will.
 
-"I've heard a great deal about you from Jace Sesso, Lady Needleflame." Marin smiled. "I was actually at Auchindoun too, maintaining the portal during the demon siege. So perhaps we've already met."
+"I've heard a great deal about you from Jace Sesso, Lady Needleflame." Malin smiled. "I was actually at Auchindoun too, maintaining the portal during the demon siege. So perhaps we've already met."
 
 "I don't remember you. You human mages all look the same to me." Needleflame shot Jace a suspicious look. "What did he say about me?"
 
-"He mentioned that even after the other black dragons had left, you refused to give up fighting the demons," Marin said. "That you even charged into the demon ranks to fight those dark soldiers in close combat..."
+"He mentioned that even after the other black dragons had left, you refused to give up fighting the demons," Malin said. "That you even charged into the demon ranks to fight those dark soldiers in close combat..."
 
 "He really said that?" Needleflame asked.
 
-"Of course," Marin said. "Trust me, Lady Needleflame — I faced countless demon assaults before the Dark Portal. I know what that feels like. Fighting those terrible creatures at close range as a vanguard takes tremendous courage. Even more so when your companions are pulling back."
+"Of course," Malin said. "Trust me, Lady Needleflame — I faced countless demon assaults before the Dark Portal. I know what that feels like. Fighting those terrible creatures at close range as a vanguard takes tremendous courage. Even more so when your companions are pulling back."
 
 "I imagine Jace Sesso thought the same thing, which is why he was willing to bring you back to Azeroth. You see, there are many black dragons on this side of the Dark Portal too. But most are cunning and cruel. They treat promises and honor as nothing. Not just with other races — with their own kind as well. Your existence proves that the black dragons' nature is not what we once believed."
 
-"If you can stay and help with my research, I will work with you to change the mages' — and even the entire Alliance's — stereotype of the black dragonflight."
+"If you can stay and help with my research, I will work with you to change the mages' — and even the entire Alliance's — stereotype of the Black Dragonflight."
 
 Jace nodded vigorously in agreement. Needleflame looked dazed. She thought for a moment before asking, "So this is what a consultant does?"
 
-"In simple terms — answering some questions about your life in Draenor." Marin squinted kindly, smiling. "I don't think they'll be difficult questions or important secrets."
+"In simple terms — answering some questions about your life in Draenor." Malin squinted kindly, smiling. "I don't think they'll be difficult questions or important secrets."
 
 "If I answer these questions, will the people of Azeroth stop seeing my kind as evil, treacherous monsters?"
 
@@ -46,11 +46,11 @@ Jace nodded vigorously in agreement. Needleflame looked dazed. She thought for a
 
 "I accept," Needleflame said immediately.
 
-Marin raised his eyebrows in pleasant surprise. "That's wonderful."
+Malin raised his eyebrows in pleasant surprise. "That's wonderful."
 
 Even Jace — a transmigrator who knew the history of the Earth-Warder's fall ten thousand years ago — would have found it hard to imagine a black dragon willing to improve her species' reputation before he'd met Needleflame.
 
-"It's getting late, Lady Needleflame. Let Jace Sesso take you to rest." Marin said. "He's found an empty room for you, on the same corridor as Lady Sora's. You'll be quite close. We'll see each other often from now on."
+"It's getting late, Lady Needleflame. Let Jace Sesso take you to rest." Malin said. "He's found an empty room for you, on the same corridor as Lady Sola's. You'll be quite close. We'll see each other often from now on."
 
 "Very well, Master."
 
@@ -62,15 +62,15 @@ Needleflame had suddenly become quite polite. After the archmage left, Jace look
 
 Needleflame grabbed Jace's clothes. "You knew I liked hearing that kind of thing. You're the best at fooling people like that. Do you think I'm that easy to trick?"
 
-"Even if I did teach him what to say," Jace coughed guiltily, "Master Marin still had to be willing to say it. He's my teacher. I can't just make him recite things word for word, can I? He shared a lot of his own thoughts too."
+"Even if I did teach him what to say," Jace coughed guiltily, "Master Malin still had to be willing to say it. He's my teacher. I can't just make him recite things word for word, can I? He shared a lot of his own thoughts too."
 
 The black dragon eyed him sideways for a moment, then nodded. "You're right."
 
-"Speaking of which... would you like to give yourself a name with a less obvious meaning?" Jace asked. "It'll make it easier to live in Stormwind. 'Needleflame' sounds too strange — even for the Wizard Sanctum, where everyone comes up with aliases. You could pick something more human-sounding. Your father calls himself Baron Sabormayne. Your uncle calls himself Victor Nefarious with the orcs. How about 'Carossa'? That's the name your father gave you."
+"Speaking of which... would you like to give yourself a name with a less obvious meaning?" Jace asked. "It'll make it easier to live in Stormwind. 'Needleflame' sounds too strange — even for the Wizard's Sanctum, where everyone comes up with aliases. You could pick something more human-sounding. Your father calls himself Baron Sablemane. Your uncle calls himself Victor Nefarius with the orcs. How about 'Karosha'? That's the name your father gave you."
 
-"Absolutely not." Needleflame folded her arms. "Carossa is an orc name. I'm not using those creeps' names. Would you change your name to 'Nahegg'?"
+"Absolutely not." Needleflame folded her arms. "Karosha is an orc name. I'm not using those creeps' names. Would you change your name to 'Naigag'?"
 
-"If my current name were 'Dishwasher,' I wouldn't mind changing it to Nahegg," Jace said.
+"If my current name were 'Dishwasher,' I wouldn't mind changing it to Naigag," Jace said.
 
 "My name isn't that stupid!" Needleflame bared her teeth and swung a fist. Jace grabbed her wrist, but even he was rocked by the motion — her strength in mortal form was surprisingly enormous.
 
@@ -88,17 +88,17 @@ Nobody had ever seen that strangely-dressed little girl before. But the guy gett
 
 The hero who saved the Sons of Lothar, the court mage granted the title "Protector of Tyr" by Archbishop Faol himself — fighting a little girl in the garden, and losing?
 
-"Hey! How did you two start fighting again?" Vereesa ran over and grabbed them both. "I thought you were asking Master Marin for a room?"
+"Hey! How did you two start fighting again?" Vereesa ran over and grabbed them both. "I thought you were asking Master Malin for a room?"
 
-Jace yanked his sleeve free from Needleflame's grip and handed Vereesa the address slip Marin had given him. "Here. Where's Sora?"
+Jace yanked his sleeve free from Needleflame's grip and handed Vereesa the address slip Malin had given him. "Here. Where's Sola?"
 
-"Sora went to the Trade District. She said Needleflame's injuries haven't fully healed and she needs some herbs for treatment." Vereesa said. "Let's take her to see the room first. It's in the same building as Sora's, right?"
+"Sola went to the Trade District. She said Needleflame's injuries haven't fully healed and she needs some herbs for treatment." Vereesa said. "Let's take her to see the room first. It's in the same building as Sola's, right?"
 
 "Yeah," Jace said. "I asked for it specifically."
 
 On the way, Jace and Needleflame ignored each other completely. Vereesa wasn't sure what to say either.
 
-They reached the room Master Marin had prepared for Needleflame, right next to Sora's. It was small and simple, but it was still a room intended for a formal mage of the Wizard Sanctum — clean and decent. No problem for long-term living.
+They reached the room Master Malin had prepared for Needleflame, right next to Sola's. It was small and simple, but it was still a room intended for a full mage of the Wizard's Sanctum — clean and decent. No problem for long-term living.
 
 Besides, the little black dragon wasn't some royal highness with high standards for living conditions. Before Jace could even say anything, Needleflame snatched the key and shoved him out of the room. Vereesa had to follow quickly, and the door slammed shut behind them.
 
@@ -108,4 +108,4 @@ As they walked downstairs, Vereesa pursed her lips and asked quietly, "What did 
 
 "She's homesick," Vereesa said.
 
-Jace nodded. "Well, at least she accepted the place. Let Sora take good care of her."
+Jace nodded. "Well, at least she accepted the place. Let Sola take good care of her."

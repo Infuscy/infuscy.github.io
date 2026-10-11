@@ -8,7 +8,7 @@ Grede glanced back at Jace in the distance, gave him an extra look, and said, "I
 
 "Feels like you swapped in a pair of platform boots." Grede eyed the bags he was carrying. "What's all this stuff? You skip dinner?"
 
-"Had it, sure." Jace tossed one of the cloth bags onto the ground. "This one's full of dragon scales, plus a few claws and teeth — all from whelps. Do your dwarves back home have any use for materials like these? For making armor or weapons, that sort of thing?"
+"Had it, sure." Jace tossed one of the cloth bags onto the ground. "This one's full of dragon scales, plus a few claws and teeth — all from drakes. Do your dwarves back home have any use for materials like these? For making armor or weapons, that sort of thing?"
 
 "What?!"
 
@@ -40,7 +40,7 @@ Jace was about to crack a joke about how a skull couldn't possibly be tougher th
 
 Finished, he stared at the leather sheath at Jace's side and grinned. "What've you got there? Show me."
 
-Jace gripped the blue-ran runed hilt and drew the sword in one smooth motion, accompanied by a sudden, ringing chord. The pale arcane glow shimmered all the more brilliantly under the moonlight.
+Jace gripped the blue-runed hilt and drew the sword in one smooth motion, accompanied by a sudden, ringing chord. The pale arcane glow shimmered all the more brilliantly under the moonlight.
 
 Honestly, it was a little too brilliant. Jace was starting to worry that the blue radiance pouring off the blade would be visible from miles away.
 
@@ -50,15 +50,15 @@ But the very moment he thought it, the light drifting along the edge dimmed rapi
 
 "This sword has no enchantment." Jace swung it back and forth a couple of times. "It's just like that."
 
-"Hah." Grede snorted. "A sword that gives off arcane light on its own — what'd you think it was, the Song of the Blue Sky?"
+"Hah." Grede snorted. "A sword that gives off arcane light on its own — what'd you think it was, Azuresong?"
 
-"You know about the Song of the Blue Sky?" Jace asked.
+"You know about Azuresong?" Jace asked.
 
-"Of course." Grede said. "That elf told me about Quel'Thalas's magic sword, the Song of the Blue Sky. She said it was the kind of blade that could turn an entire garden silver-blue at night."
+"Of course." Grede said. "That elf told me about Quel'Thalas's magic sword, Azuresong. She said it was the kind of blade that could turn an entire garden silver-blue at night."
 
 "And when something crosses its edge, it makes a sound like a musical instrument—" Grede suddenly stopped. "Wait... when you pulled that sword out just now, did I hear something?"
 
-"This is the Song of the Blue Sky, Grede." Jace said. "A gift from that elf you're so convinced is trying to scheme against me."
+"This is Azuresong, Grede." Jace said. "A gift from that elf you're so convinced is trying to scheme against me."
 
 "Wh—why?" Grede set his own sword down against his leg. "Why would she give you something like that?"
 

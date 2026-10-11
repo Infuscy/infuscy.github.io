@@ -6,23 +6,23 @@ He'd figured the most terrifying being in Azshara would be easy to spot, since i
 
 …be bigger than this entire house.
 
-Everyone inside watched as the walls, the floor, the stone pillars, and the doorframe were rapidly sheathed in ice. Mofir leaped down from the heights, because the spot she'd been standing was already completely encased in frost.
+Everyone inside watched as the walls, the floor, the stone pillars, and the doorframe were rapidly sheathed in ice. Morophil leaped down from the heights, because the spot she'd been standing was already completely encased in frost.
 
 The small fire they'd been sitting around went out with a whoosh. Vereesa pointed toward Mosa and shouted. Mosa, who'd been watching the frost creeping in from the door, looked down at the warning and found that Grede's feet and her own legs and hooves had all been frozen fast.
 
 She wrenched her legs free with a heave, then pulled Grede out of the ice entirely and lifted him into the air.
 
-The dwarf, having just opened his eyes, looked around blearily and asked, "Are we back in Dun Morog?"
+The dwarf, having just opened his eyes, looked around blearily and asked, "Are we back in Dun Morogh?"
 
 "Whose magic is this?" Mosa asked, looking over.
 
 Jace swallowed. He knew this wasn't the time to worry about revealing that he knew too much. Because if they hesitated any longer, they were all going to freeze to death right here.
 
-And the one behind this wasn't some careless black knight, wasn't some chimera that had popped out of nowhere, wasn't some hatchling lurking near its mother's lair — this was a genuine…
+And the one behind this wasn't some careless Dark Rider, wasn't some chimaera that had popped out of nowhere, wasn't some drake lurking near its mother's lair — this was a genuine…
 
-"Mofir, don't reveal yourself. The one we're facing absolutely despises demons."
+"Morophil, don't reveal yourself. The one we're facing absolutely despises demons."
 
-The succubus nodded. Jace drew Azure Song without hesitation, chanted the Mage Armor spell as he charged outside, and slashed through the wildly growing crystal-like icicles, striding out into the open.
+The succubus nodded. Jace drew Azuresong without hesitation, chanted the Mage Armor spell as he charged outside, and slashed through the wildly growing crystal-like icicles, striding out into the open.
 
 He held the blazing arcane sword level with both hands and raised it high over his head, roaring, "Azuregos! We mean no—"
 
@@ -38,7 +38,7 @@ Mage Armor flared with a sudden flash of light, helping him withstand a portion 
 
 Jace had no strength left to cast another Shadowstep right away. He watched the next ice spike hurtle straight toward his face when a massive elven stone pillar suddenly, without warning, plunged down in front of him. The clash of stone and ice filled his ears, followed by a roar from Grede…
 
-The dwarf had already transformed into his metallic, silver-glinting Earthen form. Bracing his hands against the pillar, he held firm as spike after ice spike hammered into the elven column, cracking it wider and wider, chunks of stone bursting free.
+The dwarf had already transformed into his metallic, silver-glinting earthen form. Bracing his hands against the pillar, he held firm as spike after ice spike hammered into the elven column, cracking it wider and wider, chunks of stone bursting free.
 
 Almost at the same time, the lioness leaped out of the blizzard and crashed into Jace's frozen form, wrapping herself around him and rolling them both away. They tumbled several full rotations before finally leaving the range of the ice-spike barrage.
 
@@ -88,23 +88,23 @@ But no matter what kind of nature magic it was, it wasn't easy to sustain. Mosa 
 
 Sustained by Mosa's magic, Jace immediately summoned fire to melt the ice trapping him, desperately relying on the cyclone of flame around him to hold back the encroaching frost.
 
-Grede had also broken free from the ice directly. His powerful Earthen body was more than a match for the blue dragon's ice storm — he nearly charged straight into melee range to brawl with the dragon.
+Grede had also broken free from the ice directly. His powerful earthen body was more than a match for the blue dragon's ice storm — he nearly charged straight into melee range to brawl with the dragon.
 
 But the dwarf had barely taken a few steps when Azuregos, with a contemptuous swipe of a massive claw wrapped in a flurry of snow, swept toward him. Grede raised his arm to block it head-on and took the hit, but crashed to the ground. Before he could get back up, another blow landed — this one sent him flying in a complete wreck, tumbling into a thicket of rubble and brush. The string of curses was audible even through the blizzard.
 
-By now, Ursoloth on Jace's back was exuding waves of shadow energy, reminding Jace of the hostility the scythe had radiated when they'd met Dathencrus's anti-evil trap on the bridge.
+By now, Ulthalesh on Jace's back was exuding waves of shadow energy, reminding Jace of the hostility the scythe had radiated when they'd met Dar'Khan's anti-evil ward on the bridge.
 
-The blue dragon was about to swing back around with a claw in Jace's direction. Jace made his decision on the spot, grabbed the long staff wrapped in black cloth, and cast Asphyxiation on the dragon's arm.
+The blue dragon was about to swing back around with a claw in Jace's direction. Jace made his decision on the spot, grabbed the long staff wrapped in black cloth, and cast Asphyxiate on the dragon's arm.
 
 Though this incantation was far slower than the Curse of Weakness, the blue dragon failed to counter his spell.
 
-The Asphyxiation completed successfully, and the dragon's claw was wrenched backward by a chain of shadow, bound to the nearby cliff pillars and stone, the brutal swipe halted mid-air, caught halfway.
+The Asphyxiate completed successfully, and the dragon's claw was wrenched backward by a chain of shadow, bound to the nearby cliff pillars and stone, the brutal swipe halted mid-air, caught halfway.
 
 The blue dragon strained, trying to break the chain. He heaved at his arm with a violent tug, dragging a swath of boulders and earth free and shattering them, before he managed to snap a single link.
 
-"Now, Sulenna!" Jace roared.
+"Now, Sola!" Jace roared.
 
-Seizing the moment while the blue dragon was locked down by shadow magic, a shimmering, dreamlike glimmer lit up the sky. Sulenna's green form emerged from it, fighting to keep herself from being blown away in the blizzard as she flapped her wings, softly chanting in draconic.
+Seizing the moment while the blue dragon was locked down by shadow magic, a shimmering, dreamlike glimmer lit up the sky. Sola's green form emerged from it, fighting to keep herself from being blown away in the blizzard as she flapped her wings, softly chanting in Draconic.
 
 "Protector of the arcane, Azure One, I beseech you…"
 
@@ -112,31 +112,31 @@ A pale silver light enveloped the green dragon's body, Azuregos's head, and thos
 
 The blue dragon's violent struggles finally began to ease. Jace could clearly feel the tornado-like chaos of his emotions starting to settle, slowly returning to calm.
 
-Seizing the opportunity, he raised Azure Song once more and shouted, "Don't you recognize this anymore, Azuregos?!" Though the wind still nearly swallowed his roar, Jace was certain the other party had definitely heard him this time.
+Seizing the opportunity, he raised Azuresong once more and shouted, "Don't you recognize this anymore, Azuregos?!" Though the wind still nearly swallowed his roar, Jace was certain the other party had definitely heard him this time.
 
 Hearing that name, the blue dragon seemed to wake all at once and shifted his gaze over. "Malygos… yes, Malygos…"
 
 Azuregos muttered to himself. Seeing that he'd finally regained his senses, Jace finally let himself breathe again.
 
-Honestly, even when he'd raised Ursoloth earlier, he hadn't been all too confident that spell could have stopped a dragon's claw swipe.
+Honestly, even when he'd raised Ulthalesh earlier, he hadn't been all too confident that spell could have stopped a dragon's claw swipe.
 
-But the power of a spell amplified by the staff had far exceeded his imagination. After all, before he'd had Ursoloth, that shadow chain had struggled to even restrain the black hatchling Tretius the Devourer.
+But the power of a spell amplified by the staff had far exceeded his imagination. After all, before he'd had Ulthalesh, that shadow chain had struggled to even restrain the black drake Teremus the Devourer.
 
-And now, even a full-grown dragon had this much trouble breaking free. Was this the terrifying shadow power that Ursoloth brought?
+And now, even a full-grown dragon had this much trouble breaking free. Was this the terrifying shadow power that Ulthalesh brought?
 
-Just then, Jace caught sight from the corner of his eye of the head of the black-knight-cloaked staff slowly seeping out a dark purple demon blood that gave off wisps of smoke, as if it were about to catch fire.
+Just then, Jace caught sight from the corner of his eye of the head of the staff wrapped in the Dark Rider's cloak slowly seeping out a dark purple demon blood that gave off wisps of smoke, as if it were about to catch fire.
 
 He took a deep breath and did his best to calm the battle lust — or, to be more precise, the killing lust — that this dangerous scene had stirred in him. Only then did the seeping demon blood gradually stop, no longer leaking outward, and the sinister light within it dimmed.
 
-A low murmur of demonic incantations — or rather, Eredun — chimed in his ears, but even with Jace's current command of the demon tongue, he could only make out fragments here and there.
+A low murmur of demonic incantations — or rather, Eredun — chimed in his ears, but even with Jace's current command of Demonic, he could only make out fragments here and there.
 
-After all, one never stops learning — and demonic was a dark, fractured thing to begin with.
+After all, one never stops learning — and Demonic was a dark, fractured thing to begin with.
 
-"You hold a scale of Malygos," Azuregos said slowly in draconic.
+"You hold a scale of Malygos," Azuregos said slowly in Draconic.
 
-Out of politeness, Jace supposed he ought to respond in draconic, but the moment he opened his mouth, he coughed unnaturally and suppressed that extremely foolish instinct.
+Out of politeness, Jace supposed he ought to respond in Draconic, but the moment he opened his mouth, he coughed unnaturally and suppressed that extremely foolish instinct.
 
-"Honored Azuregos," Jace said in Common. "My name is Jace Sesso. I know Malygos's emissary Kalecgos, and I carry the Spellweaver's token — Azure Song, forged from his scale. I believe this has all been a misunderstanding."
+"Honored Azuregos," Jace said in Common. "My name is Jace Sesso. I know Malygos's emissary Kalecgos, and I carry the Spell-Weaver's token — Azuresong, forged from his scale. I believe this has all been a misunderstanding."
 
 "I know your name. You're the dark mage of Grim Batol?" Azuregos asked in Common.
 

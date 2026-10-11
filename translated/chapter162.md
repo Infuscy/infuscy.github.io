@@ -10,11 +10,11 @@ Jace sat up and glanced around, only to realize suddenly that he was at home, no
 
 "What do I need a priest for?" Jace asked.
 
-"To look at that burn on your arm, obviously!" Henny said. "It's a week's walk from Southshore to here! Even if you took a boat across Lake Lordamere, it'd still be four or five days total, and I know you didn't pay that burn a lick of attention the whole time. It must be a mess under those bandages by now."
+"To look at that burn on your arm, obviously!" Henny said. "It's a week's walk from Southshore to here! Even if you took a boat across Lordamere Lake, it'd still be four or five days total, and I know you didn't pay that burn a lick of attention the whole time. It must be a mess under those bandages by now."
 
 "I'm fine, really, Mom. Don't make me go see a priest..."
 
-Jace actually found it strange himself — given that he had the Black Dragon's Blood, the burn's healing rate hadn't sped up at all. Black dragons were supposed to be practically immune to fire, after all. He should've just found some random animal in the wild and drained it to heal his wounds before coming home, to avoid worrying his mother like this. But Dushan had warned him not to go out into the wild, and he understood the danger himself. He still got dizzy and headaches now and then — not as bad as when he'd first woken up in Dalaran, but if something went wrong and he collapsed outside the city walls, that'd be the end of him.
+Jace actually found it strange himself — given that he had the black dragon's blood, the burn's healing rate hadn't sped up at all. Black dragons were supposed to be practically immune to fire, after all. He should've just found some random animal in the wild and drained it to heal his wounds before coming home, to avoid worrying his mother like this. But Dushan had warned him not to go out into the wild, and he understood the danger himself. He still got dizzy and headaches now and then — not as bad as when he'd first woken up in Dalaran, but if something went wrong and he collapsed outside the city walls, that'd be the end of him.
 
 "You're just as stubborn as when you were little." His mother frowned. "The Holy Light isn't going to hurt you!"
 
@@ -95,16 +95,3 @@ As they chatted, Henny led Jace up to a main road — only to find it blocked of
 "What's going on up there?" Jace asked.
 
 "Our little prince must've gone to the cathedral for services again," Henny whispered. "He's been coming quite often lately."
-
-## Flags
-
-- **王城教堂** (chapter title): rendered as "The Royal Cathedral" — refers to the Cathedral of Light in the Lordaeron capital. Not in glossary as a chapter title.
-- **杜尚**: rendered as "Dushan" — Jace's orcish-language teacher. Glossary has 卡罗·杜尚 = Caro Dushan, orcish-language teacher at the Wizard Sanctum. Here referred to by surname only.
-- **Lake Lordamere**: 洛丹米尔湖. Glossary has 洛丹米尔湖 = Lake Lordamere.
-- **瓦里安**: rendered as "Varian" — King Varian Wrynn. Not in glossary (canonical figure).
-- **石堡**: rendered as "Stonewatch" (glossary: Stonewatch). Jace's slip — he almost reveals his connection to the king via the Stonewatch events.
-- **迪菲亚兄弟会**: rendered as "the Defias Brotherhood" — canonical WoW faction (evolved from the Stonemasons / 石工兄弟会). Not in glossary.
-- **库尔提拉斯**: Kul Tiras (glossary).
-- **阿尔萨斯·米奈希尔**: Arthas Menethil (glossary).
-- **吉安娜·普罗德摩尔**: Jaina Proudmoore — canonical, not in glossary. Mother doesn't know her given name; Jace thinks it.
-- **达拉然**: Dalaran (glossary).

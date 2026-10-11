@@ -16,11 +16,11 @@ Voss gripped his staff, barely standing in the chaos, shouting something to the 
 
 This demon was far more powerful than the one that had invaded Vaelastrasz's dreams. But it knew it had no chance of winning here. The shadow mass didn't linger in the air — it shot straight toward the exit from the library.
 
-Jace tried to chant a spell of Suffocation to stop the demon, but halfway through, the monastery's Holy Light scorched his hands and his mind like fire, burning the flow of mana through his entire body. At the same time, the shadow mass's chaotic, untraceable emotions and its lack of any real flesh made it impossible for his shadow power to land on it.
+Jace tried to chant Asphyxiate to stop the demon, but halfway through, the monastery's Holy Light scorched his hands and his mind like fire, burning the flow of mana through his entire body. At the same time, the shadow mass's chaotic, untraceable emotions and its lack of any real flesh made it impossible for his shadow power to land on it.
 
-Light. I don't expect you to save me in a crisis. But could you — at the very least — stop getting in my way?!
+*Light. I don't expect you to save me in a crisis. But could you — at the very least — stop getting in my way?!*
 
-"Go after it... Sora, Needleflame!"
+"Go after it... Sola, Needleflame!"
 
 "No good, Khadgar — our bodies can't fit through those archways..."
 
@@ -32,11 +32,11 @@ From somewhere, the sound of prayers began to gain ground. Jace noticed Voss and
 
 The corridor was now blazing with fire. Carpets, books, weeping young brothers, despair, shock, fury, and thick swarms of bloodthirsty flies — all of it filled the sacred hall in a chaotic mess. And at the center, most visible of all, was the spinning shadow, burning in the Holy Light's flames, filled with hatred and agony — crystal clear in Jace's eyes.
 
-*Sirenita, naci, cansani, neyele, sepuhtitaienus!*
+*Silennita, nashi, kaansani, nayele, shephetitayanus!*
 
 His cloak and coat had already burned to ash. His tangled beard and long hair were ablaze. Even his demon-resistant flesh and skin were reddened and blistering.
 
-But still he raised both hands, shouting the incantation for Drain Soul. Amid the golden radiance and roaring fire, beneath the sigil of the Light watching over all mortals from the vaulted ceiling, a dark blue beam of fell magic struggled like a serpent making its last stand, wrapping tight around the burning shadow.
+But still he raised both hands, shouting the incantation for Drain Soul. Amid the golden radiance and roaring fire, beneath the sigil of the Light watching over all mortals from the vaulted ceiling, a dark blue beam of fel magic struggled like a serpent making its last stand, wrapping tight around the burning shadow.
 
 The shadow jerked like a kite whose strings had suddenly been pulled taut, careening out of control and slamming straight into a tall, burning bookshelf. The cloud of shadow mist that sprayed out instantly stained the surrounding flames with the same vile purple.
 
@@ -44,7 +44,7 @@ A twin-winged demon in vile green ornate armor stepped out from within. Every st
 
 Because his entire body was already alight with the Holy Light. His spread black wings were riddled with burn holes. His eagle-like claws trembled as they clawed at the dark blue "serpent" wrapped around his chest. Gritting his bloodstained fangs, he ignored everything around him and fixed his gaze solely on the human — bare-chested, guiding dark magic, binding him so he could barely move.
 
-"Jace Sesso, congratulations... you've scored another point." The devil spoke in Demonic. "But no matter how you struggle, you cannot escape your miserable fate. And that fate was set the moment you first tried to claim Uzallus's soul. It is an ending from which countless powerful demons, mortals, and even transcendents have failed to escape over thousands of years. You are no exception."
+"Jace Sesso, congratulations... you've scored another point." The devil spoke in Demonic. "But no matter how you struggle, you cannot escape your miserable fate. And that fate was set the moment you first tried to claim Ulthalesh's soul. It is an ending from which countless powerful demons, mortals, and even transcendents have failed to escape over thousands of years. You are no exception."
 
 "Let that ending come," the warlock said in Demonic, his voice low. "I've waited for it a long time. I'm almost out of patience."
 
@@ -54,11 +54,11 @@ But his enemy wasn't faring much better. The young warlock's beard was entirely 
 
 "Jace!"
 
-Vereesa could no longer hold back. She'd already uncovered Bellonar's Bow, drawn the string, and nocked a dream arrow aimed at the demon's heart. But Grede grabbed her arm hard. "Are you out of your mind, elf? If you kill that demon now, he'll just escape back into the Twisting Nether!"
+Vereesa could no longer hold back. She'd already unslung Belanur, drawn the string, and nocked a dream arrow aimed at the demon's heart. But Grede grabbed her arm hard. "Are you out of your mind, elf? If you kill that demon now, he'll just escape back into the Twisting Nether!"
 
-"Trust Jace, Vere... trust him!" Sora also shouted.
+"Trust Jace, Vere... trust him!" Sola also shouted.
 
-"But he's in pain, Sora... he..."
+"But he's in pain, Sola... he..."
 
 Vereesa's hands trembled. Her face was streaked with tears. But in the end, she couldn't loose the arrow.
 

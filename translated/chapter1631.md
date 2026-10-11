@@ -1,6 +1,6 @@
 ## Chapter 1631: Rumors and Gossip
 
-Not long after, King Varian received word that Jace and Khadgar had arrived in the Burning Steppes and returned to Morgan's Watch accompanied by several knights.
+Not long after, King Varian received word that Jace and Khadgar had arrived in the Burning Steppes and returned to Morgan's Vigil accompanied by several knights.
 
 "Jace! Master Khadgar!"
 
@@ -22,13 +22,13 @@ Jace cleared his throat and explained, "Actually, he just doesn't want to write 
 
 "Not troubled, exactly." Khadgar shot Jace a sidelong glance. "There is a certain satisfaction in watching your own articles and books grow thicker, especially when all the troubles have already been eliminated by your magic advisor in advance."
 
-The three of them laughed together. Varian gestured for the two newcomers to enter his tent. As Jace walked, he explained to the king the near-conflict with the Silver Hand at Three Crossings, and his and Khadgar's suspicions about the death knights. The joy on the king's face gradually cooled.
+The three of them laughed together. Varian gestured for the two newcomers to enter his tent. As Jace walked, he explained to the king the near-conflict with the Silver Hand at Three Corners, and his and Khadgar's suspicions about the death knights. The joy on the king's face gradually cooled.
 
 Varian leaned on the table where the Redridge Mountains map lay and sighed, staring at the position between the Altar of Storms and Blackrock Spire. "I share some responsibility for this, Jace."
 
 "Recently, rumors about death knights have been spreading everywhere, and combined with the news you brought back from Blackrock Spire, I've gotten anxious myself. After all, since Teron Gorefiend was eliminated by you and Lady Vereesa Windrunner, and the Farstriders hunted down Angor Deathwish, I thought the death knights of Azeroth were completely extinct. But all these recent developments have me losing sleep again."
 
-"Then Lord of Hearthglen arrived with the elite of the Silver Hand, and I felt a kind of relief—finally, a solution. It never occurred to me it would send them straight to you."
+"Then the Lord of Hearthglen arrived with the elite of the Silver Hand, and I felt a kind of relief—finally, a solution. It never occurred to me it would send them straight to you."
 
 Khadgar said, "The misunderstanding has been cleared up. Fortunately, Jace Sesso didn't strike too hard. Taelan Fordring's injuries should heal before the assault on Blackrock Spire. That's a silver lining in all of this."
 
@@ -42,9 +42,9 @@ The king turned to Jace again.
 
 Khadgar finished quietly, "Your Majesty, you also realize this might be aimed at Jace Sesso."
 
-"Yes." Varian agreed. "If I were the Black Dragon Prince, I'd try something similar. The Alliance's preparations for the decisive battle at Blackrock Spire are inseparable from Jace's efforts. He himself is one of our key offensive weapons. If someone could shake the Alliance's trust in him, it would severely weaken our offensive."
+"Yes." Varian agreed. "If I were the black dragon prince, I'd try something similar. The Alliance's preparations for the decisive battle at Blackrock Spire are inseparable from Jace's efforts. He himself is one of our key offensive weapons. If someone could shake the Alliance's trust in him, it would severely weaken our offensive."
 
-"If you look at it that way, your encounter with the Silver Hand at Three Crossings was truly dangerous, Jace." Khadgar said. "If Taelan Fordring—or his father—had been seriously injured or killed in that conflict, it's hard to say what direction this hard-won coalition campaign would take. Those Silver Hand knights would have had a hard time getting the better of you and Lady Morophil, I'll give them that."
+"If you look at it that way, your encounter with the Silver Hand at Three Corners was truly dangerous, Jace." Khadgar said. "If Taelan Fordring—or his father—had been seriously injured or killed in that conflict, it's hard to say what direction this hard-won coalition campaign would take. Those Silver Hand knights would have had a hard time getting the better of you and Lady Morophil, I'll give them that."
 
 "Though a king probably shouldn't say this, it might actually be a good thing." Varian gripped the edge of the table. "Lord Tirion Fordring has already sent his apology letter. I can tell his apology for offending Jace is genuine, and he's clarified the Silver Hand's position. He also reiterated Archbishop Alonsus Faol's stance on Jace."
 
@@ -52,7 +52,7 @@ Khadgar finished quietly, "Your Majesty, you also realize this might be aimed at
 
 "That's true." Khadgar let out a slight sigh and glanced sideways. "But the prerequisite is that your dark magic is indeed being used against the black dragon, Jace. Shadow energy isn't as easy to control as Arcane. You need to be sure."
 
-"Matthias already reminded me of that." Jace said. "I probably won't be attacking from the front with the Dark Iron dwarves and the Alliance army. With the help of Master Vierlan—Master Krasus's student—I'll approach from the flank and help the main force take those tough strongpoints, to minimize any misunderstandings."
+"Mathias already reminded me of that." Jace said. "I probably won't be attacking from the front with the Dark Iron dwarves and the Alliance army. With the help of Master Vaelan—Master Krasus's student—I'll approach from the flank and help the main force take those tough strongpoints, to minimize any misunderstandings."
 
 Khadgar leaned sideways and said in a joking tone, "I nearly forgot you have a killer among your companions who can handle even Kil'jaeden's lieutenants."
 
@@ -62,22 +62,22 @@ Khadgar leaned sideways and said in a joking tone, "I nearly forgot you have a k
 
 "I understand," Jace said.
 
-After taking his leave from the king and stepping out of the tent, Jace looked at the large stack of iron boxes guarded by the Dark Iron dwarves in the distance and said to the archmage beside him, "I need to get this Elemental Earth to Stormwind City next. I'll find an alchemist to rush the Restorative Potions and prepare for the coming assault, Khadgar. If Ursula Delin successfully makes the Destruction Potion, I'll come straight to Lakeshire to let you know."
+After taking his leave from the king and stepping out of the tent, Jace looked at the large stack of iron boxes guarded by the Dark Iron dwarves in the distance and said to the archmage beside him, "I need to get this Elemental Earth to Stormwind City next. I'll find an alchemist to rush the Restorative Potions and prepare for the coming assault, Khadgar. If Ursula Deline successfully makes the Destruction Potion, I'll come straight to Lakeshire to let you know."
 
-"Then I'll wait for your news in Lakeshire." Khadgar said. "In the meantime, I'll carefully study Lord Karrlez's incantations. I've already made good progress over the past couple of nights—those two sections of the spell are quite complete, and we have the original working incantation as reference. You can rest assured."
+"Then I'll wait for your news in Lakeshire." Khadgar said. "In the meantime, I'll carefully study Lord Kallrez's incantations. I've already made good progress over the past couple of nights—those two sections of the spell are quite complete, and we have the original working incantation as reference. You can rest assured."
 
 The archmage took a deep breath and looked south. "Good news is coming from the Dark Portal. The draenei's efforts are bearing fruit. Meanwhile, Karazhan is slowly returning to normal. That's not my doing alone—without you, I couldn't have managed it."
 
-"The land from Lakeshire to south of the River Neltharion will gradually recover. Add to that the healing of the northern Redridge Mountains, the easing of tensions between the Dark Iron dwarves and their northern cousins, and the route from Dun Morogh to Lakeshire being reopened... Look, the kingdom of Stormwind is slowly climbing out of the mud. The outlook is more optimistic than just after the Orc Wars ended."
+"The land from Lakeshire to south of the Nazferiti River will gradually recover. Add to that the healing of the northern Redridge Mountains, the easing of tensions between the Dark Iron dwarves and their northern cousins, and the route from Dun Morogh to Lakeshire being reopened... Look, the Kingdom of Stormwind is slowly climbing out of the mud. The outlook is more optimistic than just after the Orc Wars ended."
 
 "King Varian trusts you, Jace. Help him and his future children hold on to these hard-won achievements."
 
 Jace nodded. Khadgar patted him on the arm and strode quickly toward his horse. Before long, Varian also emerged from the tent.
 
-The king watched the archmage's retreating figure as he left the gates of Morgan's Watch. "Actually," he said quietly, "Matthias did find something."
+The king watched the archmage's retreating figure as he left the gates of Morgan's Vigil. "Actually," he said quietly, "Mathias did find something."
 
 "What?" Jace asked.
 
-"He initially traced the rumors back to the Mage Quarter, so he focused his investigation on the mages of the Wizard Sanctum—including your teacher, Master Marin." Varian said.
+"He initially traced the rumors back to the Mage Quarter, so he focused his investigation on the mages of the Wizard's Sanctum—including your teacher, Master Malin." Varian said.
 
-"But soon, SI:7's agents realized it wasn't the Wizard Sanctum." He turned to face Jace. "It was the Kirin Tor."
+"But soon, SI:7's agents realized it wasn't the Wizard's Sanctum." He turned to face Jace. "It was the Kirin Tor."

@@ -38,7 +38,7 @@ He threw down the curved, beast-claw-like dagger. It clanged against the floor.
 
 "So that's the real reason you wanted to become a warlock?"
 
-"At first, yes. At first... I thought the warlocks at the Slaughtered Lamb could help me. But once I got inside, I realized Jagin and the others didn't want to get involved in taking lives — it'd draw too much unwanted attention. So I gave up on asking them for help..."
+"At first, yes. At first... I thought the warlocks at the Slaughtered Lamb could help me. But once I got inside, I realized Gakin and the others didn't want to get involved in taking lives — it'd draw too much unwanted attention. So I gave up on asking them for help..."
 
 Hearing this, Jace felt the demon blood on his clothes sticking to him unpleasantly. He sniffed at the stench on his shirt. "I need some new clothes. Or a cloak or something."
 
@@ -56,15 +56,15 @@ Ursula brought the water over. "But clearly they didn't do a very good job. The 
 
 "A few days ago, the imp told me there was a half-elf always lurking around here, and he might be a warlock. I got scared and didn't dare go out — just used the concealment runes my father taught me to write on the door, to keep him from detecting me and the imp with some spell. I could only pretend I wasn't home, wait for him to think I'd left and leave on his own. But he seems to have stuck around..."
 
-"I just didn't know he was a demon. If Besadim had been here it would've been a lot better, but I couldn't bring it back — it can't be seen on the streets of Stormwind... What kind of demon is this? I've never seen one."
+"I just didn't know he was a demon. If Basadim had been here it would've been a lot better, but I couldn't bring it back — it can't be seen on the streets of Stormwind... What kind of demon is this? I've never seen one."
 
 "A satyr," Jace said. "This isn't a demon that came from the Twisting Nether. It's a mortal twisted by demonic influence into a demon. Most of them were originally elves."
 
 "I've heard the satyr stories, but I never thought they were real. Maybe the Lordaeron tales about half-elves turning into devils at night aren't completely baseless after all..."
 
-Ursula stared at the crumpled corpse as she spoke. Jace scooped some water from the basin and washed his wounds. "I'm going away for a while after this. Are you sure you'll be all right? Want me to leave Molophir behind to protect you?"
+Ursula stared at the crumpled corpse as she spoke. Jace scooped some water from the basin and washed his wounds. "I'm going away for a while after this. Are you sure you'll be all right? Want me to leave Morophil behind to protect you?"
 
-"I don't want you or anyone else from the Slaughtered Lamb getting mixed up in this, Jace. I treasure you guys too much — you're my friends." Ursula said. "Anyway, this is my problem. You came to see me today and got hurt on my account — I already feel terrible... After this, I'm planning to move into the Slaughtered Lamb and lie low for a while. With Besadim and everyone else's help, you don't need to worry about me."
+"I don't want you or anyone else from the Slaughtered Lamb getting mixed up in this, Jace. I treasure you guys too much — you're my friends." Ursula said. "Anyway, this is my problem. You came to see me today and got hurt on my account — I already feel terrible... After this, I'm planning to move into the Slaughtered Lamb and lie low for a while. With Basadim and everyone else's help, you don't need to worry about me."
 
 Jace nodded. She brought over a towel. "Let me wipe you down. Is the water too cold?"
 
@@ -119,12 +119,3 @@ She whispered it, her legs already hooked around his waist. Jace felt a damp war
 "What are you talking about?"
 
 Ursula frowned, then suddenly gasped, her eyes rolling downward. A breath caught, and she couldn't help but moan, then lost herself entirely in the rhythm of the thrusts.
-
-## Flags
-
-- **萨特** (the demon): rendered as "satyr" per WoW lore — a mortal (often elf) twisted by fel corruption, distinct from Twisting Nether demons.
-- **暗影防护药水 / 强效治疗药水**: rendered as "Shadow Protection Potion" and "strong Healing Potion." Not in glossary.
-- **柏萨迪姆** (Ursula's imp): rendered as "Besadim." Not in glossary.
-- **东威尔德** (the hired killers' origin): rendered as "Eastweald" (a region in northern Lordaeron). Not in glossary.
-- **隐匿符文**: rendered as "concealment runes." Not in glossary.
-- **痛苦诅咒**: rendered as "Curse of Agony" (canonical warlock DoT spell). Not in glossary.

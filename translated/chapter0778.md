@@ -4,11 +4,11 @@
 
 Jace stuffed the gold into his bag and said, "That's not my problem. You discuss how to proceed amongst yourselves. I've told you everything I know. Good luck."
 
-"Of course," Hajik said. "Thank you truly, Mr. Sesso, for providing such important information. Theramoke… it had almost been forgotten by the hunters of Ironforge. Being able to hear news of that crocodile again is exciting for all of us. Is there anything else we can help you with?"
+"Of course," Hajik said. "Thank you truly, Mr. Sesso, for providing such important information. Terramok… it had almost been forgotten by the hunters of Ironforge. Being able to hear news of that crocolisk again is exciting for all of us. Is there anything else we can help you with?"
 
 Jace was just about to say no, when he suddenly thought of the main purpose of this trip to Ironforge. "I heard there are members of the Thorium Brotherhood in Ironforge. I'd like to meet them."
 
-"If you ask me, there's no need to deal with those ill-tempered Dark Iron. The Great Anvil has plenty of highly skilled Bronzebeard blacksmiths, Mr. Sesso," Hajik said with an awkward smile. "If you want to have a set of armor or weapons made for yourself or a friend, you can completely have your wishes fulfilled at the Great Anvil — even magical items would be no problem."
+"If you ask me, there's no need to deal with those ill-tempered Dark Iron. The Great Forge has plenty of highly skilled Bronzebeard blacksmiths, Mr. Sesso," Hajik said with an awkward smile. "If you want to have a set of armor or weapons made for yourself or a friend, you can completely have your wishes fulfilled at the Great Forge — even magical items would be no problem."
 
 "I'm here to investigate something," Jace said.
 
@@ -32,7 +32,7 @@ Hajik stared at Jace's hood and swallowed.
 
 Earlier, Grede had mentioned that the Thorium Brotherhood was under surveillance in Ironforge. Jace had thought he'd need to get in touch with Ironforge's authorities to meet them — he hadn't expected it to be this convenient.
 
-Jace really didn't want to stir up the king here again, because who knew what kind of ceremony he'd have to attend then, or how long he'd have to stand before those dwarf kings and nobles. This half-year, from Stormwind Keep, to the royal palace of Menethil, to the Farstrider Enclave, going through these repetitive commendations, banquets, and all kinds of pleasantries over and over again, he was already utterly exhausted.
+Jace really didn't want to stir up the king here again, because who knew what kind of ceremony he'd have to attend then, or how long he'd have to stand before those dwarf kings and nobles. This half-year, from Stormwind Keep, to the royal palace of Menethil, to the Farstrider Retreat, going through these repetitive commendations, banquets, and all kinds of pleasantries over and over again, he was already utterly exhausted.
 
 Going to Grim Batol had been to resolve a problem — who knew the problems would keep coming one after another.
 
@@ -84,7 +84,7 @@ What the hell?!
 
 His whole body jolted and he immediately turned and ran. The ball of fire climbed up the steps, uttering one heavy, unintelligible murmur after another as it chased after him. Jace glanced back and saw the flames waving two arm-like pillars of fire, lunging straight at him — and on those fire pillars, there were even two gleaming elemental bracers!
 
-Those were bracers used to bind elemental beings to this plane — this was actually a fire elementals summoned here!
+Those were bracers used to bind elemental beings to this plane — this was actually a fire elemental summoned here!
 
 Seeing the other party closing in, Jace felt like his clothes were about to catch fire. He immediately turned and recited an incantation at the burning monster charging at him. The shadow in his hands gathered more and more densely, even rapidly overwhelming the blinding bright flames that nearly seared his eyes!
 
@@ -100,4 +100,4 @@ The air cooled down quite a bit. The sweat was ice-cold. The reek of shadow was 
 
 Jace turned his head. A Dark Iron dwarf was at the top, his blood-red eyes wide open, aiming the black muzzle of a gun straight at him.
 
-"I just went out to buy a bread, and my Fedrei got sent back to his hometown by a single one of your moves! I only just managed to summon him — what the hell are you trying to do, warlock? I don't know you — do we have some kind of grudge?!"
+"I just went out to buy some bread, and my Fedrei got sent back to his hometown by a single one of your moves! I only just managed to summon him — what the hell are you trying to do, warlock? I don't know you — do we have some kind of grudge?!"

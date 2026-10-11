@@ -6,31 +6,31 @@ The goblin clinging to his head wailed at the top of his lungs, arms tightening 
 
 But Jace could only grip Pokodiaz's legs with one hand and claw at the green dragon's shoulder with the other, feeling that the instant his strength slipped he and the goblin would go flying off together.
 
-"Ah! Jinara! I was wrong! It's my fault, forgive me! I shouldn't have left you for Blackwater Bay, it's my fault!"
+"Ah! Jinara! I was wrong! It's my fault, forgive me! I shouldn't have left you for Blackwater Cove, it's my fault!"
 
 Pokodiaz's wailing turned into a tearful, nonsensical plea for forgiveness. The goblin tycoon who'd acted like a petty king aboard ship was now crying more wretchedly than a three-year-old who'd had his toy snatched away.
 
-But honestly Jace wasn't doing much better. Right now he was barely holding on to the Stormwind royal court mage advisor's satchel. If the one beneath him right now were Gorejett instead of Sola, and the one clinging to him were Grede Thunderfist instead of a paying tourist Pokodiaz, he'd have wanted to scream his head off too.
+But honestly Jace wasn't doing much better. Right now he was barely holding on to his dignity as Stormwind's court mage. If the one beneath him right now were Gorjet instead of Sola, and the one clinging to him were Grede Thunderfist instead of a paying tourist Pokodiaz, he'd have wanted to scream his head off too.
 
-Solamiel climbed furiously straight into the clouds. Pokodiaz screamed and kept stealing glances to either side all the while, trying to take in as much of the scenery as he could—probably reluctant to let the dragon's blood he'd paid for go to waste.
+Somaelir climbed furiously straight into the clouds. Pokodiaz screamed and kept stealing glances to either side all the while, trying to take in as much of the scenery as he could—probably reluctant to let the dragon's blood he'd paid for go to waste.
 
 Jace wanted to tell her to ease up, not be so extreme, but before he could open his mouth he clearly sensed the green dragon beneath him churning with a tangled mix of pent-up fury and cathartic release, so he swallowed his words.
 
-Just when he felt they'd reached high enough altitude that things should smooth out, the dragon beneath him suddenly banked hard into a sharp turn. The goblin above, who'd been clinging to Jace for dear life, let out an "Aiya!" and lost his grip…
+Just when he felt they'd reached high enough altitude that things should smooth out, the dragon beneath him suddenly banked hard into a sharp turn. The goblin above, who'd been clinging to Jace for dear life, let out a "Whoa!" and lost his grip…
 
 Jace shot out a hand and caught the fellow by the boot. Pokodiaz had already passed out, his head lolling as he swayed to the rhythm of the dragon's spiraling flight. Jace could only grit his teeth and haul him back, tucking him under his arm.
 
-Seemingly sensing the chaos on her back, Solamiel finally leveled out, and the power of the Emerald Dream slowly wrapped around them. The turbulent air grew warm and gentle again.
+Seemingly sensing the chaos on her back, Somaelir finally leveled out, and the power of the Emerald Dream slowly wrapped around them. The turbulent air grew warm and gentle again.
 
 After a while Pokodiaz slowly opened his eyes, glanced at the distant sea veiled in mist, and went "Mmph…" before passing out again.
 
 Jace sighed. "This fellow's money was wasted."
 
-"So can we go back?" Solamiel asked.
+"So can we go back?" Somaelir asked.
 
 "No, there's still… there's still…" the goblin mumbled, eyes fluttering open. "Bloodsail. I'm going after those Bloodsail Buccaneers. Going after them!"
 
-"Ah, I'd almost forgotten about that." Solamiel asked, "Where are they?"
+"Ah, I'd almost forgotten about that." Somaelir asked, "Where are they?"
 
 "North, north of my ship. Where are we… where are we right now?" Pokodiaz opened his eyes, wanted to look down but didn't dare, glanced back and forth, and felt his eyeballs starting to spin again.
 
@@ -38,7 +38,7 @@ Jace sighed. "This fellow's money was wasted."
 
 Mentioning that they were going to scare the Bloodsail Buccaneers perked Pokodiaz right up. He steeled himself and stole a glance downward, then pointed south and said, "Is that the Gurubashi ruins over there? Then we've flown a bit too far. Fly closer to shore, Great Green Dragon, closer to shore!"
 
-Solamiel hesitated for a moment, apparently not intending to punish the goblin further—and punish Jace along with him—so she turned smoothly.
+Somaelir hesitated for a moment, apparently not intending to punish the goblin further—and punish Jace along with him—so she turned smoothly.
 
 By now the goblin seemed to have mostly recovered from his earlier bout of vertigo. He gritted his teeth and fixed his eyes ahead, looking like he couldn't wait for the show.
 
@@ -46,45 +46,47 @@ Before long, a sailing ship appeared on the horizon, sitting not far from shore.
 
 As they drew nearer, the red-and-black sails billowed open and the hull began to move sluggishly. This made Pokodiaz even happier. He grabbed a handful of Jace's hair with one hand and waved the other in the air, yelling, "Hah! Witness the power of the dragon, you red-hat bastards!"
 
-Solamiel roared past overhead. In between, Jace could even hear faint shouts and commands from the crew. He caught someone arguing over whether the dragon was blue, yellow, or green.
+Somaelir roared past overhead. In between, Jace could even hear faint shouts and commands from the crew. He caught someone arguing over whether the dragon was blue, yellow, or green.
 
 Pokodiaz now seemed to have completely forgotten the torment he'd endured earlier, laughing and waving his arms. After the dragon climbed back into the high air, he shouted, still not satisfied, "Go back around once more, please, Great Green Dragon, please!"
 
-"The dragons of the Emerald Dream should not excessively interfere with mortals, Pokodiaz—even if they are evil pirates or cunning swindlers," Solamiel said in a low voice.
+"The dragons of the Emerald Dream should not excessively interfere with mortals, Pokodiaz—even if they are evil pirates or cunning swindlers," Somaelir said in a low voice.
 
-"You actually know my name, Great Green Dragon!" Pokodiaz was even happier now. He squeezed Jace's neck tighter and asked, "Did you have Lady Sola tell this Great Green Dragon my name, Mr. Slovaka?"
+"You actually know my name, Great Green Dragon!" Pokodiaz was even happier now. He squeezed Jace's neck tighter and asked, "Did you have Lady Sola tell this Great Green Dragon my name, Mr. Slovakia?"
 
-Solamiel glanced back at them. Jace cleared his throat and pried the goblin's arms loose a little. "Yeah, that's right."
+Somaelir glanced back at them. Jace cleared his throat and pried the goblin's arms loose a little. "Yeah, that's right."
 
 "What an honor!" the goblin exclaimed. "Gosh, I never imagined I'd get to sit on a dragon's back like today…"
 
 "On my back," Jace corrected.
 
-"No difference, truly no difference, Mr. Slovaka!" the goblin shouted excitedly. "Three cheers for the great friendship between dragon and goblin! Hooray! Hooray! Hooray!"
+"No difference, truly no difference, Mr. Slovakia!" the goblin shouted excitedly. "Three cheers for the great friendship between dragon and goblin! Hooray! Hooray! Hooray!"
 
-Amid Pokodiaz's cheers, Solamiel said nothing, and Jace had nothing to say either the whole way.
+Amid Pokodiaz's cheers, Somaelir said nothing, and Jace had nothing to say either the whole way.
 
-Returning to that quiet stretch of beach from before, the two climbed off the dragon's back, and Solamiel leapt straight into the air, disappearing into the shadows of the trees without a backward glance.
+Returning to that quiet stretch of beach from before, the two climbed off the dragon's back, and Somaelir leapt straight into the air, disappearing into the shadows of the trees without a backward glance.
 
 Jace watched her retreating figure and couldn't help but feel a twinge of unease. This part hadn't been in their script. Would Sola be unhappy that he'd gone back to Stormwind?
 
 But it wasn't really a problem either, after all—the vial of blood was with Sola. The sooner he got it back to Master Krasus to study and replicate the tablet, the better, and Jace couldn't be of much help anyway. Taking the ship back slowly would be about ten days. By the time he reached Stormwind, the new tablet might already be finished.
 
-"I say, Mr. Slovaka." Pokodiaz let out a long breath and smiled. "Brief as it was, I think that might have been the most unparalleled journey of my life. Truly unforgettable! So this is the power of a dragon—it's no comparison to griffons or Wind Riders at all…"
+"I say, Mr. Slovakia." Pokodiaz let out a long breath and smiled. "Brief as it was, I think that might have been the most unparalleled journey of my life. Truly unforgettable! So this is the power of a dragon—it's no comparison to gryphons or wind riders at all…"
 
-"You've ridden a wyvern?" Jace asked.
+"You've ridden a wind rider?" Jace asked.
 
 "That's quite a marvelous beast," the goblin nodded. "I once had the privilege of riding one under the guidance of a tauren, but it certainly can't compare to a dragon… At first I even wondered if I'd paid too steep a price, but looking at it now, it was worth every copper."
 
-"Speaking of which, I have something else here, Mr. Pokodiaz," Jace said. "A dragonkin skull."
+"Speaking of which, I have something else here, Mr. Pokodiaz," Jace said. "A drakonid skull."
 
 He held his hands apart to indicate the size. "About this big. I think even the crate it's in would fetch a pretty high price as scrap iron. Would you be interested in adding this to your collection?"
 
-"Dragonkin?" Pokodiaz asked. "You mean those more powerful, higher-standing bipedal drake-folk? The black ones?" Jace nodded. "How could I possibly get my hands on a dragonkin skull of any other color."
+"Drakonid?" Pokodiaz asked. "You mean those more powerful, higher-standing bipedal dragonkin? The black ones?"
 
-Pokodiaz shrugged. "I'm sorry, Mr. Slovaka. Forget a black dragonkin's skull—even that vial of blood and those fragments earlier have been making me quite uneasy. There've been a lot of rumors that Creel—the engineer Franmek's uncle—works for the black dragons, so I've been a little afraid that the blood and scales were stolen from the black dragons too."
+Jace nodded. "How could I possibly get my hands on a drakonid skull of any other color?"
 
-"The reason anyone in Booty Bay dares trade dragonkin scales or weapons is that the dragonkin have been at war with the Dark Iron dwarves all this time, and plenty of dragonkin goods come through from those dwarves alone. But dragonkin… as far as I know, dragonkin hold a high and special status. I'm not willing to take that kind of risk."
+Pokodiaz shrugged. "I'm sorry, Mr. Slovakia. Forget a black drakonid's skull—even that vial of blood and those fragments earlier have been making me quite uneasy. There've been a lot of rumors that Kreel—the engineer Franmecki's uncle—works for the black dragons, so I've been a little afraid that the blood and scales were stolen from the black dragons too."
+
+"The reason anyone in Booty Bay dares trade dragonkin scales or weapons is that the dragonkin have been at war with the Dark Iron dwarves all this time, and plenty of dragonkin goods come through from those dwarves alone. But drakonid… as far as I know, drakonid hold a high and special status. I'm not willing to take that kind of risk."
 
 "Fair enough," Jace said. "If even you don't dare take it, then I'm afraid no one in Booty Bay would."
 
@@ -92,7 +94,7 @@ Pokodiaz shrugged. "I'm sorry, Mr. Slovaka. Forget a black dragonkin's skull—e
 
 "I'll think about it," Jace said with a smile.
 
-Back in Booty Bay, Jace came to a stop in front of the Sailor's Home inn. He was gazing at the still-lit Reliquary in the distance, wondering how he might snag a cheap ticket back to Stormwind, when a voice suddenly called out beside him: "Mr. Slovaka?"
+Back in Booty Bay, Jace came to a stop in front of the Salty Sailor Tavern. He was gazing at the still-lit Reliquary in the distance, wondering how he might snag a cheap ticket back to Stormwind, when a voice suddenly called out beside him: "Mr. Slovakia?"
 
 Jace turned—and it was Sola, already back in her high elf form. "I thought you'd gone back to Stormwind on your own."
 
@@ -124,6 +126,6 @@ Sola nodded. "I did overlook that."
 
 Jace looked at her thoughtful expression and thought to himself that it went even further than that.
 
-He knew that deep within Zinsalo, the troll city in the Hinterlands, the Amani trolls preserved an Ancient Egg—a holy relic kept from the distant past, imbued with the power of the blood god Hakkar, and at the same time the key to summoning Hakkar's true form.
+He knew that deep within Jintha'Alor, the troll city in the Hinterlands, the Amani trolls preserved an Ancient Egg—a holy relic kept from the distant past, imbued with the power of the blood god Hakkar, and at the same time the key to summoning Hakkar's true form.
 
 Sylia, as a former Hinterlands priestess, should have some understanding of that Ancient Egg and even the blood god Hakkar herself. At the same time, she seemed to have dealings with some of the Gurubashi trolls, so she might know a few things about the situation inside the temple.

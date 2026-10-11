@@ -32,7 +32,7 @@ From a distance, Jace asked, "Do you know how to get to the lighthouse? I'd like
 
 "A mage? Lamp oil?" the man asked.
 
-"A little Light, an Arcane Intellect incantation, and folks will graciously call me a mage — but that doesn't necessarily get me into the Wizard Sanctum, and it doesn't stop me from doing business in lamp oil either." Jace smiled. "Not to mention I'm an alchemy apprentice, sir."
+"A little Light, an Arcane Intellect incantation, and folks will graciously call me a mage — but that doesn't necessarily get me into the Wizard's Sanctum, and it doesn't stop me from doing business in lamp oil either." Jace smiled. "Not to mention I'm an alchemy apprentice, sir."
 
 The man nodded, glanced back at the lighthouse's silhouette on the water, and said, "I know Light too. A fascinating incantation. I was thinking — if I were a great mage who could maintain Light continuously, this lighthouse probably wouldn't need lamp oil at all."
 
@@ -64,7 +64,7 @@ But he felt he was very close to that circle of warlocks. If he used such a crud
 
 Using a succubus to charm warlocks had always been a rather risky gamble. After all, warlocks who could summon succubi had usually lived alongside them for a long time and had built up some resistance to that sort of mental magic.
 
-This gatekeeper clearly didn't trust him and suspected he might be from the Wizard Sanctum. After all, Moonbrook and the mines were now under the Kingdom of Stormwind's control — the warlocks here would have to be several times more vigilant to keep this second hiding place intact.
+This gatekeeper clearly didn't trust him and suspected he might be from the Wizard's Sanctum. After all, Moonbrook and the mines were now under the Kingdom of Stormwind's control — the warlocks here would have to be several times more vigilant to keep this second hiding place intact.
 
 Jace returned to the village near the lighthouse. He figured the warlocks summoning demons inside the lighthouse would need to eat and drink at the very least — they couldn't possibly survive on draining magic like demons could. And Jace didn't believe they could solve their food problems by fishing around that little island either.
 
@@ -74,115 +74,86 @@ Over the first two days, Jace occasionally spotted the man guarding the dock tra
 
 A thought began to form: could the warlocks in the lighthouse be using summoning rituals to come and go? Was there another hideout on shore, dedicated to summoning the warlocks out?
 
-Jace knew that only Mo'sul's circle could perform summoning rituals with any fluency. Later, even after he'd taught the Dagger Circle warlocks the summoning ritual incantations step by step, they'd nearly had an accident attempting it.
+Jace knew that only Mor'zul's circle could perform summoning rituals with any fluency. Later, even after he'd taught the Dagger Society warlocks the summoning ritual incantations step by step, they'd nearly had an accident attempting it.
 
-If these warlocks were truly entering and leaving the lighthouse through summoning rituals, then there were likely warlocks from the Altar of Storms involved. He wondered whether the summoner Yale was part of it, or if it was someone else.
+If these warlocks were truly entering and leaving the lighthouse through summoning rituals, then there were likely warlocks from the Altar of Storms involved. He wondered whether the summoner Ely was part of it, or if it was someone else.
 
 By the third day, having kept watch without results and planning to find another way to locate the warlocks' outside contact point, Jace suddenly noticed a familiar woman's figure entering the tavern.
 
-He followed her inside for a look, and sure enough — it was Demiseat Kraus, the female warlock who'd been desperate to learn the Hand of Gul'dan from him.
+He followed her inside for a look, and sure enough — it was Demisette Cloyce, the female warlock who'd been desperate to learn the Hand of Gul'dan from him.
 
 "Ma'am."
 
-Demiseat had just come out of the tavern when Jace called to her. The warlock looked over, seeming quite familiar with the voice. When Jace lifted his hood, her eyes widened.
+Demisette had just come out of the tavern when Jace called to her. The warlock looked over, seeming quite familiar with the voice. When Jace lifted his hood, her eyes widened.
 
 "You, Ses—"
 
-"It's me." Jace cut her off. "A bit short on cash lately, Demiseet. If I recall correctly, you still owe me a bit of tuition..."
+"It's me." Jace cut her off. "A bit short on cash lately, Demisette. If I recall correctly, you still owe me a bit of tuition..."
 
-"How did you find me?" Demiseet asked.
+"How did you find me?" Demisette asked.
 
-"Someone told me you might be near the lighthouse." Jace squinted toward the distant lighthouse. Demiseet lowered her head guiltily. "Well, I... used the money for other things."
+"Someone told me you might be near the lighthouse." Jace squinted toward the distant lighthouse. Demisette lowered her head guiltily. "Well, I... used the money for other things."
 
 "Such as buying ritual materials to help that 'Guide' summon a whole horde of demons to Moonbrook," Jace said.
 
-Demiseet gritted her teeth. "You took part in Lord Kaltz's summoning too. Don't act like you're any cleaner than me, Sesso!"
+Demisette gritted her teeth. "You took part in Lord Kallrez's summoning too. Don't act like you're any cleaner than me, Sesso!"
 
 Jace came straight to the point: "Do you still want to learn the dark meteor I used to kill the pit lord?"
 
-The warlock froze. "Of course I do. Summoning demons only ever borrows demonic power — and lately, more than one warlock I know has died at the hands of demons. Not just the Wizard Sanctum's mage-hunters, either. Demons they summoned themselves. I heard you died in Kalimdor. There were rumors you'd gone seeking demons left over from the ancient war, and the Kirin Tor stopped me. I figured only knowledge left behind by a dead warlock would be more valuable..."
+The warlock froze. "Of course I do. Summoning demons only ever borrows demonic power — and lately, more than one warlock I know has died at the hands of demons. Not just the Wizard's Sanctum's mage-hunters, either. Demons they summoned themselves. I heard you died in Kalimdor. There were rumors you'd gone seeking demons left over from the ancient war and been stopped by the Kirin Tor. I figured only knowledge left behind by a dead warlock would be more valuable..."
 
 Jace asked, "Can you take me to see this Guide?"
 
-"I..." Demiseet said. "You're King Wrynn's magical advisor, Jace Sesso. I can't possibly take the king's man to the lighthouse!"
+"I..." Demisette said. "You're King Wrynn's magical advisor, Jace Sesso. I can't possibly take the king's man to the lighthouse!"
 
-"But I'm dead, aren't I?" Jace said with a smile. "That way, taking you to see the Guide won't make anyone suspect you of colluding with me. As long as you're willing to take me in, I can teach you that magic — free of charge."
+"But I'm dead, aren't I?" Jace said with a smile. "That way, taking me to see the Guide won't make anyone suspect you of colluding with me. As long as you're willing to take me in, I can teach you that magic — free of charge."
 
-Demiseet thought it over. "I know that incantation isn't as simple as learning the words. If I really take you to the lighthouse, I want you to tell me everything — hold nothing back — about that magic."
+Demisette thought it over. "I know that incantation isn't as simple as learning the words. If I really take you to the lighthouse, I want you to tell me everything — hold nothing back — about that magic."
 
 "I can agree to that. Does anyone in the lighthouse know me?" Jace asked.
 
-"How would I know who knows you?" the warlock said. "But if you mean the circle from the Altar of Storms — there's also the gnome Sparbuck. 'Short Staff' Gladys was captured in Moonbrook."
+"How would I know who knows you?" the warlock said. "But if you mean the circle from the Altar of Storms — there's also the gnome Spackle. 'Short Staff' Gladys was captured in Moonbrook."
 
 "Just that gnome?" Jace said. "Would he recognize me?"
 
-Demiseet thought for a moment. "You might not even meet him. Even if you did... he probably wouldn't imagine it was you at the lighthouse. He thinks you're dead too. But it is an uncertain factor."
+Demisette thought for a moment. "You might not even meet him. Even if you did... he probably wouldn't imagine it was you at the lighthouse. He thinks you're dead too. But it is an uncertain factor."
 
 "Nothing ventured, nothing gained," Jace said. "Take me in first."
 
-"Remember the dark meteor magic, Jace Sesso," Demiseet cautioned. "Teach me until I can truly cast it."
+"Remember the dark meteor magic, Jace Sesso," Demisette cautioned. "Teach me until I can truly cast it."
 
 "No problem," Jace nodded.
 
 Jace had guessed correctly — the lighthouse warlocks did have another hiding place outside.
 
-Following Demiseat Kraus away from the fishing village and heading north to a small farmstead nearby, Demiseet gazed toward the mill and said, "After things came apart in Moonbrook, the Guide started tightening the conditions for entry. You need a fairly deep understanding of demons to be allowed into the lighthouse."
+Following Demisette Cloyce away from the fishing village and heading north to a small farmstead nearby, Demisette gazed toward the mill and said, "After things came apart in Moonbrook, the Guide started tightening the conditions for entry. You need a fairly deep understanding of demons to be allowed into the lighthouse."
 
 "Is there a test?" Jace asked.
 
-"Yes." Demiseet led Jace to the front of the mill. "But I'm not worried you'll pass it." Jace glanced at the man standing guard in front of the mill — except he was a succubus in disguise. Not hard to tell.
+"Yes." Demisette led Jace to the front of the mill. "But I'm not worried about you passing it."
 
-"New blood, Lady Kraus," the succubus said.
+Jace glanced at the man standing guard in front of the mill — except he was an incubus in disguise. Not hard to tell.
 
-"We lost a great many people in Moonbrook," Demiseet said. "It's rare enough to find fresh blood willing to join."
+"New blood, Lady Cloyce," the incubus said.
 
-"What's your name, new blood?" the succubus asked.
+"We lost a great many people in Moonbrook," Demisette said. "It's rare enough to find fresh blood willing to join."
 
-"Jurik," Jace answered.
+"What's your name, new blood?" the incubus asked.
 
-The succubus nodded. "What brings you to our Guide?"
+"Yurk," Jace answered.
+
+The incubus nodded. "What brings you to our Guide?"
 
 "I heard you can learn more powerful demon-summoning incantations here," Jace said. "What else would there be?"
 
-"Make it simpler." A fat, black-bearded man poked his head through the door, a hatchet in hand. "Are you from the Wizard Sanctum? Did the king send you, or the Kirin Tor?"
+"Make it simpler." A fat, black-bearded man poked his head through the door, a hatchet in hand. "Are you from the Wizard's Sanctum? Did the king send you, or the Kirin Tor?"
 
-As he said it, he glanced at Demiseet, who visibly tensed. She spoke up quickly: "I've known Jurik a long time, Mister Kloven."
+As he said it, he glanced at Demisette, who visibly tensed. She spoke up quickly: "I've known Yurk a long time, Mr. Kloven."
 
 "I have no connection to any of those nobles or mages," Jace said, meeting the man's eyes. "What makes you think I'm from the Kirin Tor — did you detect a Lordaeron accent?"
 
-The man called Kloven frowned, then looked to the succubus disguised as a man. The succubus nodded. "He's not lying, master. I'm certain there's no problem."
+The man called Kloven frowned, then looked to the incubus disguised as a man. The incubus nodded. "He's not lying, master. I'm certain there's no problem."
 
 "Come in," the fat man said, putting away his hatchet and stepping inside.
 
-Jace straightened his collar, thinking: even Deathwing couldn't make sense of my bullshit — what's a succubus going to detect?
-
-## Flags
-- **灯塔** = the lighthouse — the lighthouse off the Westfall coast near Moonbrook (canonical WoW location).
-- **月溪镇** = Moonbrook (canonical Westfall town).
-- **引路人** = the Guide — the mysterious leader of the lighthouse warlock circle; a title, not a name.
-- **渔村** = the fishing village — the unnamed hamlet near the lighthouse, absent from the game's timeline.
-- **德米赛特·克劳斯** = Demiseat Kraus — female warlock, recurring character.
-- **克洛文** = Kloven — fat warlock, runs the mill contact point.
-- **尤尔克** = Jurik — Jace's alias among the warlocks.
-- **莫洛菲尔** = Morophil — Jace's succubus (huntress variant).
-- **卡尔勒兹领主** = Lord Kaltz — doomguard summoned at the Altar of Storms.
-- **风暴祭坛** = the Altar of Storms — the ritual site where Jace and others summoned Lord Kaltz.
-- **短杖格拉迪斯** = "Short Staff" Gladys — warlock captured in Moonbrook.
-- **斯巴克尔** = Sparbuck — gnome warlock at the lighthouse.
-- **莫苏尔** = Mo'sul — warlock from the Altar of Storms circle.
-- **塞索** = Sesso — Jace's surname, used by those who know him.
-- **巫师圣殿** = the Wizard Sanctum (Stormwind's mage tower).
-- **肯瑞托** = the Kirin Tor (Dalaran's mage council).
-- **卡利姆多** = Kalimdor (canonical continent).
-- **迪菲亚兄弟会** = the Defias Brotherhood (canonical).
-- **纳迦** = naga (canonical).
-- **鱼人** = murlocs (canonical).
-- **魅魔** = succubus (demon caste; rendered as "succubus" singular, "succubi" plural).
-- **灵魂链接** = soul link (warlock ability).
-- **侦测恶魔** = demon detection — Jace's ability to sense demonic presences.
-- **爱情信物** = love token — a casting material used in succubus-summoning rituals.
-- **灵魂碎片** = soul shard (warlock reagent).
-- **扭曲虚空** = the Twisting Nether (canonical demonic dimension).
-- **恶魔卫士** = eredar (demon guardian; rendered as "eredar" per glossary).
-- **邪火** = fel flame (green demonic fire).
-- **恶魔语** = Eredun (the language of the demons).
+Jace straightened his collar, thinking: even Deathwing couldn't make sense of my bullshit — what's an incubus going to detect?

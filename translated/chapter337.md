@@ -1,6 +1,6 @@
 ## Chapter 337: The Mage's Resolve
 
-"A death knight is extremely weak once they leave their body," Jace said. "They're just a ghost. Even Teron Gorefiend — though he was terrifying too, sure. But wasn't Sylvanas… Lady Sylvanas helping? Without her it couldn't have been done. You don't think I could take down a Horde leader all on my own, do you?"
+"A death knight is extremely weak once they leave their body," Jace said. "They're just a ghost. Even Teron Gorefiend — though he was terrifying too, sure. But wasn't Vereesa… Lady Vereesa helping? Without her it couldn't have been done. You don't think I could take down a Horde leader all on my own, do you?"
 
 Amy laughed. "You say she did it, she says you did it — the two of you haven't compared notes?"
 
@@ -14,9 +14,9 @@ Amy laughed. "You say she did it, she says you did it — the two of you haven't
 
 Jace picked up a wolf chop and stripped off a layer of meat to chew. "Then there's nothing I can do about it."
 
-Amy scooped up some pumpkin with her spoon. "You think I don't know? The strict Archmage Andormas is willing to let you become a full mage in two years, Jace. You'll be the first person since the war to become a full mage before the age of twenty."
+Amy scooped up some pumpkin with her spoon. "You think I don't know? The strict High Sorcerer Andromath is willing to let you become a full mage in two years, Jace. You'll be the first person since the war to become a full mage before the age of twenty."
 
-Jace shook his head. "By his account there's still an exam, Amy. You know how hard it becomes a full mage. He's just giving me an opportunity. Who knows what things will look like in two years."
+Jace shook his head. "By his account there's still an exam, Amy. You know how hard it is to become a full mage. He's just giving me an opportunity. Who knows what things will look like in two years."
 
 "You're not saying all that just to spare my feelings, are you?" Amy raised an eyebrow. "Everyone knows what's going on, Jace."
 
@@ -46,9 +46,9 @@ Hearing that, Jace didn't quite know what to say.
 
 The cold, bitter wine swirled in his mouth, and all he could think of was the murky, dark future that hadn't happened yet.
 
-The Horde's current warchief, Ner'zhul, channeling the three sacred artifacts to open a teleportation spell — the tremendous twisting force tearing the entire Draenor apart. The expeditionary force, to keep Draenor's destructive energy from reaching Azeroth, forced to destroy the Dark Portal, severing the two worlds completely…
+The Horde's current warchief, Ner'zhul, using the three artifacts to tear open his portals — the tremendous warping force ripping all of Draenor apart. The expeditionary force, to keep Draenor's destructive energy from reaching Azeroth, forced to destroy the Dark Portal, severing the two worlds completely…
 
-"Master Marin probably has some general idea of the situation on the other side of the Dark Portal. That he chose not to tell you — could it be precisely because he doesn't want you going to Nethergarde Keep?"
+"Master Malin probably has some general idea of the situation on the other side of the Dark Portal. That he chose not to tell you — could it be precisely because he doesn't want you going to Nethergarde Keep?"
 
 "His thoughts can't interfere with my decision," Amy said, her face hardening. "Don't tell me you're going to be like that old man and try to talk me into staying?"
 
@@ -60,7 +60,7 @@ Jace nodded, savoring a mouthful of wine. "At least you'll be far from that mage
 
 Amy laughed. "That guy's nothing…"
 
-"When are you planning to apply to Archmage Andormas?" Jace asked.
+"When are you planning to apply to High Sorcerer Andromath?" Jace asked.
 
 "Since the decision's made, tomorrow," Amy said. "I don't know if I'll get approved. Not every apprentice mage is allowed to go support Nethergarde Keep. In the end it might all come to nothing."
 
@@ -74,7 +74,7 @@ Amy seemed to notice that Jace didn't look too happy, and asked in a teasing ton
 
 "Since it's your wish, of course I support you going," Jace said.
 
-The mage nodded and took another sip, closed her eyes as she swallowed, and said, "Once I'm in the Swamp of Sorrows, I'll probably miss you."
+The mage nodded and took another sip, closed her eyes as she swallowed, and said, "Once I'm in the Black Morass, I'll probably miss you."
 
 Jace wiped the wine from the corner of his mouth. "I might end up at Nethergarde Keep too, Amy. Then there won't be any question of missing each other."
 
@@ -88,34 +88,8 @@ Hearing the waiter's acknowledgment, Jace went on, "Even if you hadn't said you 
 
 He took the mead that was brought over, took a sip, and raised his finger to trace circles in the air. "The Dark Portal is like a vortex. Every time I look toward that direction, I feel like that place is little by little pulling me in."
 
-Amy heard him and laughed happily, nodding without stop.
+Amy heard him and laughed happily, nodding nonstop.
 
 She stared at Jace for a while. Jace touched his face. "Am I drunk?"
 
 "No," Amy said, propping up her reddening cheeks. "I just suddenly felt, Jace — Teron Gorefiend deserved to die at the hands of someone like you."
-
-## Flags
-
-- **守望堡** → "Nethergarde Keep": canonical fort near the Dark Portal; glossary.
-- **黑暗之门** → "the Dark Portal": canonical gateway; glossary.
-- **黑沼泽** → "the Swamp of Sorrows": canonical zone (translation of 黑沼泽 as Swamp of Sorrows, the Wetlands-adjacent zone near the Dark Portal); not in glossary.
-- **安多玛斯大师** → "Archmage Andormas": senior mage of the Wizard Sanctum; glossary.
-- **耐奥祖** → "Ner'zhul": canonical orc warchief/shaman; not in glossary.
-- **三圣器** → "the three sacred artifacts": Ner'zhul's artifacts (Book of Medivh, Sunwell energies, etc.); not in glossary, rendered descriptively.
-- **德拉诺** → "Draenor": orcish homeworld; glossary.
-- **艾泽拉斯** → "Azeroth": the world; glossary.
-- **法师区** → "Mage Quarter": Stormwind district; glossary.
-- **正式法师** → "full mage": not in glossary; the rank above apprentice mage, rendered descriptively.
-- **见习法师** → "apprentice mage": not in glossary; rendered descriptively.
-- **塔隆·血魔** → "Teron Gorefiend": canonical first death knight; glossary.
-- **温蕾萨** → "Sylvanas": the Windrunner sister (canonical Sylvanas Windrunner); glossary context.
-- **食人魔** → "ogres": canonical race; glossary.
-- **豺狼人** → "gnolls": canonical race; glossary.
-- **鱼人** → "murlocs": canonical race; glossary.
-- **黑龙** → "black dragons": canonical Black Dragonflight; glossary.
-- **蜂蜜酒** → "mead": canonical drink; glossary.
-- **葡萄酒** → "wine": not in glossary; straightforward.
-- **狼排** → "wolf chop": not in glossary; descriptive rendering.
-- **南瓜** → "pumpkin": not in glossary; straightforward.
-- **烤鱼** → "grilled fish": not in glossary; straightforward.
-- **酒侍** → "waiter": tavern server; not in glossary, rendered as "waiter" (tavern context).

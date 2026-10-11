@@ -16,9 +16,9 @@ Jace had been planning to cut him down, but the moment he got closer the young m
 
 The man lifted his head, stammering. "How do you know my… and who are you?"
 
-Jace held out his hand. "I'm a mage from the Wizard Sanctum. This is my sigil — do you recognize it?"
+Jace held out his hand. "I'm a mage from the Wizard's Sanctum. This is my sigil — do you recognize it?"
 
-"What good is a mage?" Ronmeis craned his neck forward, eyes wide. "Lakesire is going to be destroyed soon… and humanity is going to be destroyed too. Everyone's done for. I don't understand how humans, fragile as we are, can even survive in this world. Dwarves, demons, warlocks, the undead! Every monster and beast wants to kill us… only the Path of Ascension, only… following my mentor… no, you can't. You'd better run, mage!"
+"What good is a mage?" Ronmeis craned his neck forward, eyes wide. "Lakeshire is going to be destroyed soon… and humanity is going to be destroyed too. Everyone's done for. I don't understand how humans, fragile as we are, can even survive in this world. Dwarves, demons, warlocks, the undead! Every monster and beast wants to kill us… only the Path of Ascension, only… following my mentor… no, you can't. You'd better run, mage!"
 
 Ronmeis spoke in a continuous stream, muttering under his breath all the while, though Jace hadn't been expecting much in the way of mental stability from him anyway.
 
@@ -101,18 +101,3 @@ Morophil nodded, stroked his forehead, and the young man collapsed on the spot.
 Jace said, "You stay here and watch him, Sazeno. Don't let any strange beasts snack on him for a midnight roast. If anything comes near, set it on fire. Morophil and I are going to find that cave he mentioned — his father might still be inside. If you run into trouble you can't handle alone, don't try to tough it out. Hide and shout my name."
 
 "Understood, master!"
-
-## Flags
-
-- **"获选者"** → "The Chosen One": chapter title. 获选者 = the Chosen / the Chosen One. The dragonkin cult's term for a recruit about to be "ascended" into a dragonkin. Rendered as "The Chosen One." Flag for glossary.
-- **罗恩梅斯** → "Ronmeis": per ch.249. Lakeshire mountaineer family name.
-- **小罗恩梅斯** → "young Ronmeis": the son (later named Cark Ronmeis in ch.259).
-- **亨伯里·罗恩梅斯** → "Henbury Ronmeis": the father. Per ch.249.
-- **晋升之路** → "Path of Ascension": the dragonkin cult's term for the process of being transformed into a dragonkin. Not in glossary. Flagged.
-- **龙人分雌性** → dragonkin females are mostly mages; few become champions or overseers due to smaller stature (compared to naga). Lore note.
-- **纳迦** → "naga": canon. In glossary.
-- **撒厄诺** → "Sazeno": Jace's imp. Per ch.52/53.
-- **萨亚德** → "Sayad": demonic term for succubus-type demon (per ch.252). Morophil uses it as a species label.
-- **驱散诅咒** → "dispel curses": the imp notes arcanists learn curse-dispelling. Not in glossary as a compound. Flagged.
-- **巫师圣殿** → "Wizard Sanctum": mage tower in Stormwind. In glossary.
-- **徽记** → "sigil": Jace's Wizard Sanctum badge/token. In glossary (徽记 = Sigil / Badge / Token).

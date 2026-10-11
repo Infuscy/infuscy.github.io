@@ -1,12 +1,12 @@
 ## Chapter 1387: The Orc's "Lie"
 
-Jace couldn't quite imagine what the Tower of Ilgara and Stonewatch looked like now.
+Jace couldn't quite imagine what the Tower of Ilgalar and Stonewatch looked like now.
 
 There were probably Violet Eye flags of Dalaran hanging everywhere. Around the mage tower, beneath the dense forest of Stonewatch, purple Dalaran travel tents had completely replaced the gnoll tribe's camps. Beneath those tents, books and artifacts for studying the Twisting Nether portal lay scattered about, with crystallized mana and mana potions everywhere.
 
-And the elite mages of the various kingdoms — including Quel'Thalas and Dalaran — possibly even including his teacher Marin, and the highest-ranked members of the Kirin Tor — would all be gathered around Khadgar beneath the tower, studying how to safely shove that doom lord into the Telogrus Rift...
+And the elite mages of the various kingdoms — including Quel'Thalas and Dalaran — possibly even including his teacher Malin, and the highest-ranked members of the Kirin Tor — would all be gathered around Khadgar beneath the tower, studying how to safely shove that doom lord into the Telogrus Rift...
 
-He could even imagine Maginor Dumas' worried expression at having a void fragment rift established within the Kingdom of Stormwind's borders. Master Andormas would be indignant that the Kirin Tor had practically taken over the entire operation. Amy would be torn between the Wizard Sanctum and the Kirin Tor, not knowing which side to take...
+He could even imagine Maginor Dumas' worried expression at having a void fragment rift established within the Kingdom of Stormwind's borders. Master Andromath would be indignant that the Kirin Tor had practically taken over the entire operation. Amy would be torn between the Wizard's Sanctum and the Kirin Tor, not knowing which side to take...
 
 Everyone had their own thoughts, but they all shared one common goal: bringing the expeditionary force back to Azeroth. Even those who weren't keen on having the Sons of Lothar return wouldn't dare slack off under these circumstances.
 
@@ -28,11 +28,11 @@ While the other side was preparing to enter the Telogrus Rift, Jace couldn't jus
 
 Not just for opening the portal, but for the Throne of Kil'jaeden.
 
-The Cult of the Damned in Auchindoun was only part of the Shadow Council. Setting aside the small remnant hiding in Azeroth and the Death Shadow Cult that had already been devastated in the collapse of the Arcatraz, this was now the Shadow Council's center.
+The Cabal in Auchindoun was only part of the Shadow Council. Setting aside the small remnant hiding in Azeroth and the Deathshadow cult that had already been devastated in the collapse of Highmaul, this was now the Shadow Council's center.
 
-And after Wapil's death, Jace had effectively become the Shadow Council's leader. So when he told Khadgar he'd taken control of the Shadow Council, it wasn't an empty boast.
+And after Vorpil's death, Jace had effectively become the Shadow Council's leader. So when he told Khadgar he'd taken control of the Shadow Council, it wasn't an empty boast.
 
-With the situation stabilized — at least with most of the warlocks and Cult members outwardly submitting to Jace's temporary rule — Jace's next step was to make the best use of whatever resources the Shadow Council had at its disposal.
+With the situation stabilized — at least with most of the warlocks and cult members outwardly submitting to Jace's temporary rule — Jace's next step was to make the best use of whatever resources the Shadow Council had at its disposal.
 
 In the past few days, the orcs had moved most of the magical artifacts discovered in the Auchenai crypts and stored in the Arcane Sanctum — including soul shards, soul jars, and various soul-related devices — into chambers near Auchindoun's central plaza, to assist in opening the portal.
 
@@ -42,29 +42,29 @@ But most were either too bulky to carry to the Throne of Kil'jaeden, or he had n
 
 Entering the last chamber, Jace looked at a collection of oddly-shaped artifacts that clearly weren't of orcish make. He couldn't sense any powerful magic from them either, so he asked the orc warlock beside him, "Where did these staves and jewelry come from?"
 
-"Arak," the orc warlock answered. "These were all things Talon Gorlock brought from Arak to Auchindoun before Murmur destroyed it, Master Negag. They're Arakkoa treasures... but they were all ruined in the explosion."
+"Arak," the orc warlock answered. "These were all things Teron'gor brought from Arak to Auchindoun before Murmur destroyed it, Master Naigag. They're arakkoa treasures... but they were all ruined in the explosion."
 
 "Ruined." Jace frowned. "If they're ruined, why move them here?"
 
-"Talon Gorlock thought they'd all been destroyed in the great explosion. But from what happened later, it wasn't that simple." The warlock explained. "When Wapil and Blackcate retook this place, they discovered that many Skettis Arakkoa had already entered, searching for the remaining treasures... Initially, Wapil thought the Arakkoa didn't know their treasures had been destroyed in the explosion. But after a series of conflicts, Wapil realized that the Arakkoa could still manipulate some of the stolen items — things we saw as completely useless — to unleash unpredictable spells."
+"Teron'gor thought they'd all been destroyed in the great explosion. But from what happened later, it wasn't that simple." The warlock explained. "When Vorpil and Blackheart retook this place, they discovered that many Skettis arakkoa had already entered, searching for the remaining treasures... Initially, Vorpil thought the arakkoa didn't know their treasures had been destroyed in the explosion. But after a series of conflicts, Vorpil realized that the arakkoa could still manipulate some of the stolen items — things we saw as completely useless — to unleash unpredictable spells."
 
-"So it's not that the treasures were destroyed. It's that Talon Gorlock never figured out how to actually use them. And afterward, the Arakkoa kept trying to infiltrate Auchindoun to steal back their 'holy relics,' until the black dragons occupied the Bone Wastes and put a stop to it."
+"So it's not that the treasures were destroyed. It's that Teron'gor never figured out how to actually use them. And afterward, the arakkoa kept trying to infiltrate Auchindoun to steal back their 'holy relics,' until the black dragons occupied the Bone Wastes and put a stop to it."
 
 "I see." Jace nodded.
 
-So that was why the Arakkoa entered Auchindoun later. Talon Gorlock had led the Horde's forces to conquer the Spires of Arak and brought the spoils he thought would be useful for shadow magic back to Auchindoun. Naturally, the Arakkoa who worshipped the shadow god Sethe weren't going to give them up.
+So that was why the arakkoa entered Auchindoun later. Teron'gor had led the Horde's forces to conquer the Spires of Arak and brought the spoils he thought would be useful for shadow magic back to Auchindoun. Naturally, the arakkoa who worshipped the shadow god Sethe weren't going to give them up.
 
-"You did well," Jace said. "You even brought these Arakkoa things. I think our new master will figure out how to use them."
+"You did well," Jace said. "You even brought these arakkoa things. I think our new master will figure out how to use them."
 
-"Of course, Master." The orc twisted a corner of his thick mouth. "You and Master Nai'hojar demanded we move as many of Auchindoun's stored treasures as possible near the portal, waiting for the new master's inspection. We naturally had to do a thorough job. All for the Legion."
+"Of course, Master." The orc twisted a corner of his thick mouth. "You and Master Naihogar demanded we move as many of Auchindoun's stored treasures as possible near the portal, waiting for the new master's inspection. We naturally had to do a thorough job. All for the Legion."
 
-Jace had been about to lose interest. Even if the Arakkoa had some attachment to their artifacts and holy relics, he couldn't learn an entire Arakkoa culture in less than two weeks and figure out how to use their ritual methods to activate these things.
+Jace had been about to lose interest. Even if the arakkoa had some attachment to their artifacts and holy relics, he couldn't learn an entire arakkoa culture in less than two weeks and figure out how to use their ritual methods to activate these things.
 
 But something in the orc warlock's last sentence struck him as off. The other party seemed to be hiding something.
 
-In truth, ever since joining the Cult, these Shadow Council warlocks had been duplicitous — saying one thing while thinking another. It had always been difficult for Jace to detect anything unusual in their words.
+In truth, ever since joining the cult, these Shadow Council warlocks had been duplicitous — saying one thing while thinking another. It had always been difficult for Jace to detect anything unusual in their words.
 
-After all, these were the most elite batch of warlocks under Gul'dan and Ner'zhul. Even if they weren't quite at Blackcate and Wapil's level, they weren't far off. Their ability to manipulate shadow and emotions far exceeded that of the wild warlocks back in Azeroth who'd scraped together whatever second-hand knowledge they could find from orcish ruins.
+After all, these were the most elite batch of warlocks under Gul'dan and Ner'zhul. Even if they weren't quite at Blackheart and Vorpil's level, they weren't far off. Their ability to manipulate shadow and emotions far exceeded that of the wild warlocks back in Azeroth who'd scraped together whatever second-hand knowledge they could find from orcish ruins.
 
 But after Ulthalesh devoured Murmur's soul, the feedback this staff provided its master had elevated Jace's perception of shadow to a new level. When he re-examined what these orcs said, subtle changes emerged.
 
@@ -74,11 +74,11 @@ Still, he needed to confirm exactly what this orc was lying about.
 
 "Auchindoun has weathered multiple threats — from the draenei, the black dragons, and the Alliance. The Legion's new master won't be harsh with you, and won't demand too many souls or offerings..." Jace said slowly. "As long as the portal goes smoothly, the Legion will reward you accordingly."
 
-"We await the master's arrival, Master Negag," the orc said firmly.
+"We await the master's arrival, Master Naigag," the orc said firmly.
 
 Jace couldn't detect any doubt in him about the demon lord's impending arrival at Auchindoun. So whatever he was hiding was something else.
 
-"Well, I see the moving work is almost done," Jace continued. "Have all the Cult's magical artifacts and treasures been moved near the portal?"
+"Well, I see the moving work is almost done," Jace continued. "Have all the cult's magical artifacts and treasures been moved near the portal?"
 
 The orc quickly raised his eyes to gauge Jace's expression, adjusted his mindset slightly, and said, "Except for things unrelated to mana, everything that can support the portal's activation has been brought out."
 
@@ -94,7 +94,7 @@ He'd told the truth this time — but the truth left plenty of room for interpre
 
 "I certainly didn't expect you to burn your own clothes and pants for the portal," Jace said with a chuckle. "You've done excellent work. Lord Magtheridon and our new master will surely be satisfied... There aren't many days left until the portal is finished. Prepare to awaken the souls."
 
-"Zog-zog," the warlock answered loyally.
+"Zug-zug," the warlock answered loyally.
 
 No more doubt needed. Because at the end, Jace had sensed the warlock's sudden release of tension — like someone who'd just barely survived a life-threatening crisis.
 
@@ -110,7 +110,7 @@ Mana.
 
 In Orcish, this word described pure magical energy, soul energy — not the magic rituals or spells themselves. It was similar to Common, even more specific in its reference than Common.
 
-So, could this thing contain no mana energy, yet still be related to magic? If so, the things the warlocks were desperately hiding from K'aresh — were they solid evidence of their betrayal of the Burning Legion, or forbidden spells that couldn't be discovered by demons?
+So, could this thing contain no mana energy, yet still be related to magic? If so, the things the warlocks were desperately hiding from Karabor — were they solid evidence of their betrayal of the Burning Legion, or forbidden spells that couldn't be discovered by demons?
 
 And there was one person whose legacy satisfied both conditions.
 

@@ -4,11 +4,11 @@
 
 "Once the puppet catches fire, the strings pulling it burn too," the wizard said quietly. "Dagran Thaurissan's grandfather and his wife led the fathers of your generation and mine to Redridge to summon the Firelord Ragnaros. They did it so he would give the Dark Iron dwarves power beyond all measure, so they could unite the Three Hammers and return to Ironforge — not to put a new, far more evil and brutal 'High King' back on their own heads."
 
-"Why else would he let Lokthos Darkbargain, a traitor who should have been executed long ago, remain under house arrest in the Dark Iron Bar? Why would he let the exiled Thorium Brotherhood keep scraping by in the northern Searing Gorge? The Ironwarden Legion's claws have reached the Stonewrought Dam, the Thandol Span, and Uldaman. Do you think the slavemasters of the Great Forge couldn't crush that outpost right under their noses? The Thorium Brotherhood may be fierce warriors, some of them former Firehandlers, but they can't stop the Ironwarden's axes and the flames of the Forge of Doom!"
+"Why else would he let Lokhtos Darkbargainer, a traitor who should have been executed long ago, remain under house arrest in the Grim Guzzler? Why would he let the exiled Thorium Brotherhood keep scraping by in the northern Searing Gorge? The Anvilrage Legion's claws have reached the Stonewrought Dam, the Thandol Span, and Uldaman. Do you think the slavemasters of the Cauldron couldn't crush that outpost right under their noses? The Thorium Brotherhood may be fierce warriors, some of them former pyromancers, but they can't stop the Anvilrage's axes and the flames of the Forge of Doom!"
 
 "Look at me, and the entire Hall of Magic. Why has he always let Shadowforge City's wizard council exist, refusing to follow the fire-imp pyromancer Shazzrah's advice to banish all wizards?"
 
-He stood up and continued, "Think about it. Why would the Thorium Brotherhood dare to forge the Sulfuron War Hammer, the symbol of rebellion against the Firelord, right on the Dark Iron Anvil at the heart of Shadowforge City? Because the ones who planned all of this — Overseer Orphist of the Thorium Brotherhood, even that stubborn Borelnate — they know it all too well! The ones who discovered those smiths and champions weren't Dagran's men, weren't the Ironwarden Legion. It was Ethrendios, son of Ragnaros, the Firelord's most loyal servant."
+He stood up and continued, "Think about it. Why would the Thorium Brotherhood dare to forge the Sulfuron Hammer, the symbol of rebellion against the Firelord, right on the Black Anvil at the heart of Shadowforge City? Because the ones who planned all of this — Overseer Oilfist of the Thorium Brotherhood, even that stubborn Burninate — they know it all too well! The ones who discovered those smiths and champions weren't Dagran's men, weren't the Anvilrage Legion. It was Incendius, son of Ragnaros, the Firelord's most loyal servant."
 
 Jace knew Kremhoud's view of Emperor Dagran Thaurissan wasn't baseless. In another timeline, after King Magni Bronzebeard's daughter Moira married Thaurissan, the princess who had once hated the Dark Iron dwarves so bitterly actually fell in love with the Dark Iron emperor, shocking all dwarves, players included.
 
@@ -18,11 +18,11 @@ At the time, many had guessed that Thaurissan had long been dissatisfied with th
 
 The agitated wizard Kremhoud finally cooled down. He sat back down and said, "The Firelord isn't stupid. We know that he and Executus have already begun to suspect Thaurissan and his family. At first the signs weren't so obvious, but in recent years, Thaurissan has finally come to accept this reality."
 
-"When you came back, did you notice those foreigners who've entered Shadowforge City in the last two years? Those people in strange clothing, with blood-red spiked eight-pointed stars tattooed on their shoulders and chests. They call themselves the Twilight's Hammer. They're Firelord worshipers too. These people originally came through the Dark Portal with Blackhand's Horde — a savage faction ruled by ogres. But the fire and lava elementals, normally extremely wary of outsiders, have given these inexplicable arrivals their absolute trust."
+"When you came back, did you notice those foreigners who've entered Shadowforge City in the last two years? Those people in strange clothing, with blood-red spiked eight-pointed stars tattooed on their shoulders and chests. They call themselves the Twilight's Hammer. They're Firelord worshippers too. These people originally came through the Dark Portal with Blackhand's Horde — a savage faction ruled by ogres. But the fire and lava elementals, normally extremely wary of outsiders, have given these inexplicable arrivals their absolute trust."
 
 "As far as I know, the leader of the Twilight's Hammer, that ogre you mentioned, worships a group of so-called 'dark masters,'" Jace said. "They believe this world's elementals are also connected to these 'dark masters.'"
 
-Kremhoud's pupils trembled. He lowered his voice and said, "That's enough, warlock... Don't slide any further into things we can never reach. You demon- and fel-worshipers never know your limits. Reckless and arrogant."
+Kremhoud's pupils trembled. He lowered his voice and said, "That's enough, warlock... Don't slide any further into things we can never reach. You demon- and fel-worshippers never know your limits. Reckless and arrogant."
 
 "Fine, fine." Jace glanced at him helplessly. "So you think the Twilight's Hammer was summoned to Shadowforge City by the Firelord to help the fire elementals watch over and control your emperor."
 
@@ -30,9 +30,9 @@ Kremhoud's pupils trembled. He lowered his voice and said, "That's enough, warlo
 
 "If the emperor of Shadowforge City also wants to escape Ragnaros's control, could he help us reach the highest point of the ceremony?" Jace asked.
 
-"The emperor is the emperor of Shadowforge City, not the emperor of Molten Core," the wizard said. "The participants in the ceremony are chosen by Executus and his most trusted subordinate, a Flamewalker leader known as the Sulfuron Herald. If you genuinely believe Dagran Thaurissan is a puppet, you shouldn't expect him to have any say in the manager's ceremonial arrangements."
+"The emperor is the emperor of Shadowforge City, not the emperor of Molten Core," the wizard said. "The participants in the ceremony are chosen by Executus and his most trusted subordinate, a Flamewaker leader known as the Sulfuron Harbinger. If you genuinely believe Dagran Thaurissan is a puppet, you shouldn't expect him to have any say in the Majordomo's ceremonial arrangements."
 
-"So we have to risk using disguise magic?" Jace sighed, taking the list from the wizard's hand. "Seems like there's no other choice. Can you help with this, Your Majesty's Court Wizard?"
+"So we have to risk using disguise magic?" Jace sighed, taking the list from the wizard's hand. "Seems like there's no other choice. Can you help with this, His Majesty's Court Wizard?"
 
 The wizard was silent for a moment. "Give me a few days to think about it."
 
@@ -42,7 +42,7 @@ The wizard was silent for a moment. "Give me a few days to think about it."
 
 "No." Jace said. "Don't any of those Twilight's Hammer cultists qualify for the ceremony?"
 
-"They certainly do. Every member can go to the highest point." Kremhoud raised both hands and drew a circle in the air. "Last year's ceremony, Manager Executus already did that. He wanted to create an atmosphere where the Twilight's Hammer people were above the citizens of Shadowforge City, even above the lords of Shadowforge City. They stand closer than the Dark Irons! So no question, it'll be the same this year."
+"They certainly do. Every member can go to the highest point." Kremhoud raised both hands and drew a circle in the air. "Last year's ceremony, Majordomo Executus already did that. He wanted to create an atmosphere where the Twilight's Hammer people were above the citizens of Shadowforge City, even above the lords of Shadowforge City. They stand closer than the Dark Irons! So no question, it'll be the same this year."
 
 "The list doesn't have them because it's from three years ago. Twilight's Hammer hadn't entered the city back then, or maybe they had but I didn't know the details. Either way, at least they didn't attend that year's ceremony."
 
@@ -52,23 +52,23 @@ The wizard was silent for a moment. "Give me a few days to think about it."
 
 So, could they disguise themselves as Twilight's Hammer members?
 
-Twilight's Hammer members came from all sorts of races. There'd be no need to worry about playing Dark Iron dwarves, especially the tricky ones like dwarf nobles. And they wouldn't have to talk to Firehandlers or other nobles and risk slipping up. Even better, as Kremhoud said, these cultists stood even closer than the dwarf nobles. Wouldn't that make things so much easier?
+Twilight's Hammer members came from all sorts of races. There'd be no need to worry about playing Dark Iron dwarves, especially the tricky ones like dwarf nobles. And they wouldn't have to talk to pyromancers or other nobles and risk slipping up. Even better, as Kremhoud said, these cultists stood even closer than the dwarf nobles. Wouldn't that make things so much easier?
 
 The biggest problem was how to blend into those few dozen people.
 
 "Do you know who their leader is?" Jace asked.
 
-"Twilight Lord Gestane." Kremhoud said. "A human female warlock."
+"Twilight Lord Gerstahn." Kremhoud said. "A human female warlock."
 
 Jace nodded. The name sounded familiar. The Twilight's Hammer leader in Blackrock Depths from the game seemed to be this interrogator who questioned prisoners in the Dark Iron jail.
 
-"Twilight Lord" — this wasn't Jace's first encounter with the title. Incendius Blaketooth in Auchindoun had clearly come to spread the Twilight faith among the Shadow Council. But this Gestane probably had something of her own too, or the Twilight cult wouldn't have sent her to Blackrock Depths to help Ragnaros keep an eye on the Dark Iron dwarves.
+"Twilight Lord" — this wasn't Jace's first encounter with the title. Blackheart the Inciter in Auchindoun had clearly come to spread the Twilight faith among the Shadow Council. But this Gerstahn probably had something of her own too, or the Twilight cult wouldn't have sent her to Blackrock Depths to help Ragnaros keep an eye on the Dark Iron dwarves.
 
 To approach from this angle, he'd have to thoroughly investigate her and the Twilight's Hammer's situation first.
 
 Jace rolled up the scroll and stood. "Thank you very much for the information, Master Kremhoud. I'll be going now."
 
-Kremhoud only nodded and didn't speak for a moment. Just as Jace reached the tower door, he quickly glanced at Molotov's back and asked, "Are you... Jace Sesso?"
+Kremhoud only nodded and didn't speak for a moment. Just as Jace reached the tower door, he quickly glanced at Morophil's back and asked, "Are you... Jace Sesso?"
 
 "If I have further questions, I'll come discuss them with you, Master Kremhoud." Jace said. "See you next time."
 

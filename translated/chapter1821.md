@@ -1,6 +1,6 @@
 ## Chapter 1821: The Figurehead Commander
 
-Fenris Island wasn't as small as it looked on the map. It reminded Jace of Caer Darrow on Lake Lordamere — a heavy, ancient castle at the center, high surrounding walls, but not everything inside was barracks or military facilities like blacksmith forges. There were also civilian settlements, especially along the road from the walls down to the harbor.
+Fenris Isle wasn't as small as it looked on the map. It reminded Jace of Caer Darrow on Darrowmere Lake — a heavy, ancient castle at the center, high surrounding walls, but not everything inside was barracks or military facilities like blacksmith forges. There were also civilian settlements, especially along the road from the walls down to the harbor.
 
 In another timeline, after Lordaeron fell to the Scourge, Sylvanas's Forsaken occupied the capital city, while the necromancer Thule, who had sworn loyalty to the Lich King, led a pack of risen gnolls to take this castle and its surrounding lands. The island became a Scourge stronghold that gave the Dark Lady a persistent headache — a dead, eerie old castle by then.
 
@@ -36,11 +36,11 @@ He stared at Jace. "Back in Hillsbrad, those vicious orcs and death knights — 
 
 "Don't think I don't know what you're really saying." Garithos smirked. "You mages always look down on those of us who fight the real battles on the front lines. Yet in the end, it's always your lot that causes the great disasters, and always us who have to clean up the mess. My father died in the Orc Wars too — all because of your teacher, Medivh."
 
-"I meant every word, Lord Garithos." Khadgar said. "I was on the front lines in Draenor myself. I never shied from danger or battle. And this man, Jace Sesso, fought the Black Dragon Prince to the death atop Blackrock Spire. Maybe not all mages are what you think."
+"I meant every word, Lord Garithos." Khadgar said. "I was on the front lines in Draenor myself. I never shied from danger or battle. And this man, Jace Sesso, fought the black dragon prince to the death atop Blackrock Spire. Maybe not all mages are what you think."
 
-"Let's hope so, Archmage Khadgar. Let's hope so." Garithos nodded, then looked at Jace. "I know about Blackrock Spire, Master Sesso. How did you defeat that Black Dragon Prince up there? With the Reaper of the Winds?"
+"Let's hope so, Archmage Khadgar. Let's hope so." Garithos nodded, then looked at Jace. "I know about Blackrock Spire, Master Sesso. How did you defeat that black dragon prince up there? With the Deadwind Harvester?"
 
-Jace laughed. "That's right. I used Uthalesh to drain every soul — living and dead — in all of Blackrock Spire with a single spell, and defeated Nefarian that way."
+Jace laughed. "That's right. I used Ulthalesh to drain every soul — living and dead — in all of Blackrock Spire with a single spell, and defeated Nefarian that way."
 
 He glanced up at the low ceiling. "If you've ever been there, you'd know that compared to Blackrock Spire, Fenris Keep is like a toy block castle."
 
@@ -54,9 +54,9 @@ This Garithos had a big mouth, sure, but when he said those things, there was no
 
 Of course, it wouldn't be hard for a dreadlord possessing him to fake all that — especially for a Nathrezim lord like Tichondrius.
 
-Since there was only one Eye of Khadgar, and the second eye Khadgar and the Kirin Tor had made using the Nathrezim soul from the monastery hadn't been battle-tested yet, they couldn't fully rely on it. Jace had given the first eye to King Varian to take back to Stormwind, just in case the dreadlords slipped south to scheme. After all, he'd already summoned Morofil here.
+Since there was only one Eye of Khadgar, and the second eye Khadgar and the Kirin Tor had made using the Nathrezim soul from the monastery hadn't been battle-tested yet, they couldn't fully rely on it. Jace had given the first eye to King Varian to take back to Stormwind, just in case the dreadlords slipped south to scheme. After all, he'd already summoned Morophil here.
 
-But when Morofil had landed invisibly on the walls, she must have already observed Garithos. If she hadn't signaled anything through their soul link, he was probably clean.
+But when Morophil had landed invisibly on the walls, she must have already observed Garithos. If she hadn't signaled anything through their Soul Link, he was probably clean.
 
 Worst case — would Tichondrius really want to possess this guy? Jace couldn't figure out how Garithos's position would help summon Burning Legion demons.
 
@@ -68,22 +68,22 @@ Better to suspect the castle's magical advisor instead. In another timeline, tha
 
 "Thank you for your hospitality, Lord Garithos." Khadgar said.
 
-Jace was about to follow them in when he felt a pull through the soul link. Morofil was calling him — looking for a chance to meet privately. He glanced at both sides of the corridor. "Lord Garithos, I might need to step out. The gryphon flight was a bit... rough on the stomach."
+Jace was about to follow them in when he felt a pull through the Soul Link. Morophil was calling him — looking for a chance to meet privately. He glanced at both sides of the corridor. "Lord Garithos, I might need to step out. The gryphon flight was a bit... rough on the stomach."
 
 "Ah, go straight down this corridor to the end. Past the iron door in the end chamber, you'll find what you need, Master Sesso. No need to be formal." Garithos said.
 
 "Much obliged."
 
-Jace hurried in the direction Garithos had pointed. When he reached the room behind the iron door and found it empty, Morofil materialized and shoved him against the wall.
+Jace hurried in the direction Garithos had pointed. When he reached the room behind the iron door and found it empty, Morophil materialized and shoved him against the wall.
 
 "What's the situation?" Jace asked.
 
-"Nathrezim magic has taken over this castle, master." Morofil's pale red cheek was practically pressed against Jace's nose as she whispered into his ear. "Every high-ranking officer in this keep — even some priests and medics — has been mind-controlled. Only that fool of a lord still thinks he rules this place."
+"Nathrezim magic has taken over this castle, master." Morophil's pale red cheek was practically pressed against Jace's nose as she whispered into his ear. "Every high-ranking officer in this keep — even some priests and medics — has been mind-controlled. Only that fool of a lord still thinks he rules this place."
 
 "But I can't blame him. Even I only sensed something wrong after landing and peering into the minds of the mortals one by one. Whoever's controlling the beings here is an incredibly powerful Nathrezim. Dark and deeply hidden. Do you think it's Tichondrius himself?"
 
 "Damnit. Do you know where he is?" Jace asked quietly.
 
-"I couldn't find him. Looking any longer would waste too much time." Morofil said. "Maybe he's not even here."
+"I couldn't find him. Looking any longer would waste too much time." Morophil said. "Maybe he's not even here."
 
 "I'll tell Khadgar right now." Jace grabbed the iron door handle. "We're leaving immediately. Notify the Kirin Tor."

@@ -58,27 +58,27 @@ Vereesa said, "I'm going too."
 
 Jace teased, "Then shouldn't you ask yourself why you were treating me so badly?"
 
-Vereesa said, "I was tracking a black dragon for two months with Instructor Kael and a few Farstrider apprentices when a bunch of Lordaeronians took us out of the blue. My Farstrider training was about to be delayed — and then the guy who killed that black dragon was right in front of me. You expect me to be nice to you and Grede?"
+Vereesa said, "I was tracking a black dragon for two months with Instructor Kael'fal and a few Farstrider apprentices when a bunch of Lordaeronians snatched our quarry out of the blue. My Farstrider training was about to be delayed — and then the guy who killed that black dragon was right in front of me. You expect me to be nice to you and Grede?"
 
 "What do you mean 'out of the blue'? That black dragon had flown all the way to Southshore — you're not allowed to fight back?" Jace said. "And you say you don't hate humans?"
 
-"I didn't know how badly Southshore had been damaged back then," Vereesa sighed. "And the me back then was like that — only caring about my own affairs, never minding anyone else. I hardly ever left Quel'Thalas, never talked to anyone outside the Quel'dorei. I learned Common only because Farstriders taking part in Lordaeron Alliance missions had to. The orcs had already been defeated and the trolls had gone into hiding — if I didn't take on missions outside Quel'Thalas, I'd have no chance to distinguish myself."
+"I didn't know how badly Southshore had been damaged back then," Vereesa sighed. "And the me back then was like that — only caring about my own affairs, never minding anyone else. I hardly ever left Quel'Thalas, never talked to anyone outside the Quel'dorei. I learned Common only because Farstriders taking part in Alliance of Lordaeron missions had to. The orcs had already been defeated and the trolls had gone into hiding — if I didn't take on missions outside Quel'Thalas, I'd have no chance to distinguish myself."
 
 "If it weren't for taking on Teron Gorefiend together with you, and meeting a human like you, I'd probably still be like that. Looking back now, I barely recognize the person I was back then. Before that, I had no idea the outside world was like this…"
 
-Jace teased, "I thought you and Kael came chasing Teron Gorefiend to save an innocent human mage apprentice like me."
+Jace teased, "I thought you and Kael'fal came chasing Teron Gorefiend to save an innocent human mage apprentice like me."
 
 "For revenge," Vereesa said. "But we did save you too, didn't we?"
 
 "That's true," Jace said.
 
-"It's just that Gorefiend was way more powerful than I imagined," Vereesa shrugged. "Without you, Instructor Kael and I would have been done for. I'll admit that."
+"It's just that Gorefiend was way more powerful than I imagined," Vereesa shrugged. "Without you, Instructor Kael'fal and I would have been done for. I'll admit that."
 
 Jace said, "You charged straight in without any idea of what your opponent was capable of." Vereesa smiled. "I just knew I had to kill him. It was that simple."
 
 What a twist of fate, Jace thought to himself.
 
-"Come back with me, Wen. I'll take you to meet them — you'll like them," he said.
+"Come back with me, Vere. I'll take you to meet them — you'll like them," he said.
 
 "I can't wait!" Vereesa let out a breath, then glanced at the sun overhead. "Ugh, it's already pretty late — shouldn't we be heading back to Thelsamar?"
 
@@ -86,7 +86,7 @@ What a twist of fate, Jace thought to himself.
 
 The two of them chatted the whole way about everything that had happened — from how Vereesa had escaped Quel'Thalas to track down that death knight in Stormwind, to everything that had happened after… By the time they got back under the tavern, Grede was still sprawled on the bed, snoring away.
 
-Morophil, sitting beside him, moved her nose slightly and slowly shook her head. "I never imagined the scent of love could cause me such pain. Who says a Sayad is a demon attracted to love tokens? Right now all I want is to flee this miserable atmosphere…"
+Morophil, sitting beside him, moved her nose slightly and slowly shook her head. "I never imagined the scent of love could cause me such pain. Who says a sayaad is a demon attracted to love tokens? Right now all I want is to flee this miserable atmosphere…"
 
 "Quit the act," Jace said, throwing his cloak onto a chair to the side. "Talk about it like it's real — publish a poetry collection, Morophil. Help me earn some royalties."
 
@@ -108,23 +108,6 @@ Vereesa said, "That's between you and him — nothing to do with me."
 
 Everyone went quiet for a moment, making sure the dwarf wasn't going to mumble anymore. The imp wore a wicked grin watching the scene. Jace slowly pried the succubus's arm from around his neck…
 
-Vereesa glared at Jace, forcing her voice low. "One Sayad is enough, Jace Sesso. If I find out there's a second…"
+Vereesa glared at Jace, forcing her voice low. "One sayaad is enough, Jace Sesso. If I find out there's a second…"
 
 "I can vouch for my master on that one, Windrunner — you won't be seeing a second," Morophil said, twirling the black dagger in her hand.
-
-## Flags
-
-- **温蕾萨** = Vereesa Windrunner.
-- **撒厄诺** = Sazeno (imp).
-- **莫洛菲尔** = Morophil (succubus).
-- **萨亚德** = Sayad/Succubus.
-- **塔隆·血魔** = Teron Gorefiend (canonical; first death knight).
-- **凯法尔** = Kael (Vereesa's Farstrider instructor; OC, tentative).
-- **无尽黑暗之刃** = Blade of Eternal Darkness (Morophil's dagger; tentative).
-- **碧空之歌** = Azure Skysong.
-- **冬幕节** = Winter Veil (dwarven holiday).
-- **奎尔多雷** = Quel'dorei.
-- **风行者** = Windrunner.
-- **生命缚誓者** = the Life-Binder (Alexstrasza).
-- Jace's travel plan: Stormwind → Lordaeron (visit parents) → Quel'Thalas → Dalaran by Winter Veil, then back to Stormwind with parents.
-- Grede is asleep for most of this chapter; his mumbling reveals he's dreaming about killing Deathwing and admiring his gold necklace.

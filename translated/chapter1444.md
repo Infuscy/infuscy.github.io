@@ -2,7 +2,7 @@
 
 As someone who'd led god-knows-how-many Karazhan raid groups in his past life, Jace knew this place from the game like the back of his hand.
 
-Having these Violet Eye spies force them to take the back door was actually a relief. Most of Karazhan's terrifying spirits lingered near the main entrance — the noble guests, the deadly servants, especially the caretaker, Moroes.
+Having these Violet Eye spies force them to take the back door was actually a relief. Most of Karazhan's terrifying spirits lingered near the main entrance — the noble guests, the deadly servants, especially the steward, Moroes.
 
 Sure, Jace had dealt with who-knew-how-many spirits of varying strength, but he didn't want to tangle with Karazhan's permanent residents inside this tower.
 
@@ -34,7 +34,7 @@ Jace thought he remembered this place. To get to Karazhan's back door, you had t
 
 "You used to live in Karazhan, but you don't remember a river here..." Jace pointed at the ruined town not far away. "You must have been in and out of this place often back then. You'd be familiar with this town. Would you forget an entire river next to it, Khadgar?"
 
-"I shouldn't." Khadgar's expression steadied. "So you think this river is a shadow illusion created by the tower? What do you think, Lady Morofil?"
+"I shouldn't." Khadgar's expression steadied. "So you think this river is a shadow illusion created by the tower? What do you think, Lady Morophil?"
 
 The succubus stayed silent, just staring at the river below. Khadgar looked back at Jace.
 
@@ -42,11 +42,11 @@ The succubus stayed silent, just staring at the river below. Khadgar looked back
 
 "You're my shadow magic advisor now, Jace Sesso." The mage said quietly. "I'll follow your lead."
 
-"Then Morofil, take us across." Jace grabbed the succubus's hand.
+"Then Morophil, take us across." Jace grabbed the succubus's hand.
 
 "Oh, so my wings are useful now, Master?" The succubus glanced sideways at the archmage.
 
-"Yes, if you would, Lady Morofil." Khadgar adjusted his hood.
+"Yes, if you would, Lady Morophil." Khadgar adjusted his hood.
 
 The demon grabbed Khadgar's belt from behind with one hand, and with Jace, leapt off the cliff. She beat her demon wings, arcing over the river through the rain, and landed steadily on the other side, setting them down.
 
@@ -58,9 +58,9 @@ After a moment, he turned back to look at where they'd come from, at the murky s
 
 Jace certainly didn't know whether the river from the game was some kind of Deadwind Pass illusion. Listening to Khadgar's description, looking at the strange trees and crumbling walls around him, even he felt a chill running down his spine.
 
-"If the tower really created that illusory river to stop us, maybe it doesn't want us to enter." Morofil said softly.
+"If the tower really created that illusory river to stop us, maybe it doesn't want us to enter." Morophil said softly.
 
-Jace and Khadgar both looked at the demon. Morofil put on an innocent smile. "I'm just guessing what it's thinking."
+Jace and Khadgar both looked at the demon. Morophil put on an innocent smile. "I'm just guessing what it's thinking."
 
 "But since we've come this far..." Khadgar shrugged. "Follow me. The back door into Karazhan is in this building. We're close."
 
@@ -122,9 +122,9 @@ The iron gate slid up. Both of them tumbled through the doorway. The succubus fo
 
 Khadgar wagged his finger. "Only I can use this password to enter. Other residents or guests of Karazhan have their own passwords, all assigned by Medivh."
 
-"That's too complicated, mage." Morofil examined the raised iron gate suspiciously. "Are you sure it's not that anyone living here just has to shout something and the tower's master hears and opens the door for them?"
+"That's too complicated, mage." Morophil examined the raised iron gate suspiciously. "Are you sure it's not that anyone living here just has to shout something and the tower's master hears and opens the door for them?"
 
-"I had the same doubt back then, Lady Morofil." The archmage pointed at the doorway. "Now it's proven to be a real magic password. Though even I can't tell how it works now."
+"I had the same doubt back then, Lady Morophil." The archmage pointed at the doorway. "Now it's proven to be a real magic password. Though even I can't tell how it works now."
 
 "And if it's the same now as it was then?" Jace asked, pulling back his hood.
 

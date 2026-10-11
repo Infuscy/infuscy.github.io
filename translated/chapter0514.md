@@ -1,8 +1,8 @@
 ## Chapter 514: Passage Tickets
 
-At night, plenty of people poured into the Sailor's Home — groups of sailors, crew from who-knew-where, even pirates, all gathering to drink and boast, tankards clinking, fists and hammers pounding the tables.
+At night, plenty of people poured into the Salty Sailor Tavern — groups of sailors, crew from who-knew-where, even pirates, all gathering to drink and boast, tankards clinking, fists and hammers pounding the tables.
 
-The noise rolled over them in waves. Jace stared at a bowl of Booty Bay specialty murloc-fin soup in front of him, at the strange bone fragments floating in it… and thought about everything they might encounter after reaching Kalimor.
+The noise rolled over them in waves. Jace stared at a bowl of Booty Bay specialty murloc-fin soup in front of him, at the strange bone fragments floating in it… and thought about everything they might encounter after reaching Kalimdor.
 
 "Right, right, right — that fellow's a troll, but he's got shit for talent! If he was really that good at axe-throwing, would he be hanging around Booty Bay?!"
 
@@ -18,11 +18,11 @@ Grede glanced over. The sudden quiet and the now-steady table jolted Jace out of
 
 "What are you thinking about, Jace?" the dwarf asked.
 
-"Tomorrow we set out for Kalimor. Aren't you giving our route some thought?" Jace asked.
+"Tomorrow we set out for Kalimdor. Aren't you giving our route some thought?" Jace asked.
 
-Grede laughed. "No need, Jace. Didn't you hear what the goblins said? A trip to Kalimor, if you're lucky, is still a month at sea. We'll have plenty of time to discuss it on the way. And even if the worst comes to worst, we don't know anything about Kalimor anyway — any plans we make now might just be a waste of time. Since we're in Booty Bay, we might as well enjoy ourselves."
+Grede laughed. "No need, Jace. Didn't you hear what the goblins said? A trip to Kalimdor, if you're lucky, is still a month at sea. We'll have plenty of time to discuss it on the way. And even if the worst comes to worst, we don't know anything about Kalimdor anyway — any plans we make now might just be a waste of time. Since we're in Booty Bay, we might as well enjoy ourselves."
 
-Though Jace couldn't say he knew nothing about Kalimor, given how far the game's content diverged from this place, he certainly couldn't claim to know it well either.
+Though Jace couldn't say he knew nothing about Kalimdor, given how far the game's content diverged from this place, he certainly couldn't claim to know it well either.
 
 So all he could do was nod and ask, "How was your axe-throwing competition?"
 
@@ -46,7 +46,7 @@ That night, Jace lay in bed tossing and turning, unable to sleep. Every so often
 
 Jace didn't want to presume that Vereesa actually had feelings for him, but from the way things looked, Vereesa did seem a little upset about the succubus.
 
-It was obvious she had no ill will toward Sazeno the demon — she'd known about his existence for a long time and hadn't thought any less of Jace as some kind of demon worshiper because of it.
+It was obvious she had no ill will toward Sazeno the demon — she'd known about his existence for a long time and hadn't thought any less of Jace as some kind of demon worshipper because of it.
 
 "This is the one you care about," Morophil said suddenly.
 
@@ -60,7 +60,7 @@ It was obvious she had no ill will toward Sazeno the demon — she'd known about
 
 Morophil drew the words out. Jace said, "I'm trying to sleep. Don't start with this crap."
 
-The next morning, the three of them brought their luggage down to the harbor. Sure enough, the goblin ship bound for Kalimor was already docked at the pier. Quite a few ogre mercenaries wearing the Trade Cartel's gear-badge were hauling cargo with all their might, and some passengers were already boarding.
+The next morning, the three of them brought their luggage down to the harbor. Sure enough, the goblin ship bound for Kalimdor was already docked at the pier. Quite a few ogre mercenaries wearing the Steamwheedle Cartel's gear-badge were hauling cargo with all their might, and some passengers were already boarding.
 
 As they got closer, Jace noticed a slightly shorter two-headed ogre in the distance arguing with the pier clerk.
 
@@ -84,9 +84,9 @@ He smiled, fixing his single eye on the goblin. "We are the same individual. Ind
 
 The ogre carefully sounded out this not-often-used Common word, then continued with some satisfaction, "So — we only take up one person's space!"
 
-The goblin laughed twice. "If we're talking space, my boss would charge you at least ten tickets, you two clubs. Our boss is already being generous!"
+The goblin laughed twice. "If we're talking space, my boss would charge you at least ten tickets, you two blockheads. Our boss is already being generous!"
 
-"How dare he call us both clubs!" the horned head suddenly roared.
+"How dare he call us both blockheads!" the horned head suddenly roared.
 
 The one-eyed head's mouth fell open in surprise, then it bellowed, "I'm going to twist this parasite right off!"
 
@@ -107,5 +107,3 @@ Vereesa turned to look back. The succubus who'd been right behind them had compl
 Invisible. And a kind of invisibility that a ranger like her couldn't detect at all.
 
 The elf let out a silent sigh.
-
-Volume 6

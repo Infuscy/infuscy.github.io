@@ -2,9 +2,9 @@
 
 "Ailumenar, Mar, Alan." Jace murmured the Thalassian blessing Vereesa had written beneath her signature.
 
-The breeze off Lake Everstill had turned warm. He sat on the railing of the great bridge, letter in hand, gazing across the water toward Stonewatch perched on the far mountain. The sky was clear — not a wisp of mist on the lake. On an overcast day, you wouldn't make out the fort's silhouette at all. Today was the day he was supposed to meet Edwin VanCleef, leader of the Stonemasons, arranged through Erland's connections.
+The breeze off Lake Everstill had turned warm. He sat on the railing of the great bridge, letter in hand, gazing across the water toward Stonewatch perched on the far mountain. The sky was clear — not a wisp of mist on the lake. On an overcast day, you wouldn't make out the fort's silhouette at all. Today was the day he was supposed to meet Edwin VanCleef, leader of the Stonemasons, arranged through Erlan's connections.
 
-A few days earlier, Jace had stopped by the Altar of Storms to confirm that Karlez was still stable and that the warlocks were still guarding him. After that he'd come to Lakeshire to wait for the meeting with VanCleef.
+A few days earlier, Jace had stopped by the Altar of Storms to confirm that Kallrez was still stable and that the warlocks were still guarding him. After that he'd come to Lakeshire to wait for the meeting with VanCleef.
 
 Jace pulled out his pocket watch and glanced at it. Not yet time.
 
@@ -12,7 +12,7 @@ A gust swept across the lake. He tightened his grip on Vereesa's reply — and o
 
 When the breeze died down, he unfolded the letter again.
 
-After learning about Shadowtongue Canyon from SI:7, he'd written to Quel'Thalas immediately, sending the letter with an elven mage from the Wizard Sanctum. He hadn't named the place outright — just told her the Kalimdor expedition was confirmed and that he'd found solid leads.
+After learning about Darkwhisper Gorge from SI:7, he'd written to Quel'Thalas immediately, sending the letter with an elven mage from the Wizard's Sanctum. He hadn't named the place outright — just told her the Kalimdor expedition was confirmed and that he'd found solid leads.
 
 The "Sorrow" was its Thalassian name. In Common, the flower had a far more blunt, well-known name: Plaguebloom.
 
@@ -34,9 +34,9 @@ The man noticed Jace's gaze as he approached. He glanced at the ring on Jace's h
 
 "Edwin VanCleef. You must be Master Jace Sesso? A pleasure to finally meet you."
 
-Jace shook his hand, feeling a grip like stone. "That's me, VanCleef. Erland briefed you on my situation?"
+Jace shook his hand, feeling a grip like stone. "That's me, VanCleef. Erlan briefed you on my situation?"
 
-"Il'gathar Tower." Edwin nodded, looking out across the lake. "One of the four mage towers in the Kingdom of Stormwind. A distinguished structure. We'd be honored to restore it."
+"The Tower of Ilgalar." Edwin nodded, looking out across the lake. "One of the four mage towers in the Kingdom of Stormwind. A distinguished structure. We'd be honored to restore it."
 
 In the game, VanCleef had always worn that red Defias mask. His face was never shown.
 
@@ -54,7 +54,7 @@ VanCleef was a blunt, no-nonsense man. Jace had expected to at least buy him a m
 
 The two rode hard toward Stonewatch. VanCleef barely said a word the whole way. He ate in the saddle. Occasionally he'd catch Jace looking at him and give a polite nod.
 
-They didn't stop at Stonewatch. They followed the forest road straight to Il'gathar Tower, arriving just before full dark.
+They didn't stop at Stonewatch. They followed the forest road straight to the Tower of Ilgalar, arriving just before full dark.
 
 Both horses were blown. Jace tied them to the hitching post below the tower, glanced up, and remembered — the two felhounds were still patrolling inside. He needed to hide them before Edwin went in.
 
@@ -82,22 +82,6 @@ It was cheaper than Nethergarde Keep — that tower had been blown through by a 
 
 His savings were under sixty gold at this point. Five of those had already gone to the dwarven craftsmen renovating the house by the canal. Another chunk had to be set aside for travel expenses to Kalimdor.
 
-He wondered if the Reliquary task Vereesa had taken came with a reward. Like last time in Dathmor — that had paid eighty gold all at once.
+He wondered if the Reliquary task Vereesa had taken came with a reward. Like last time with Dasmora — that had paid eighty gold all at once.
 
 "Let me… think about it," Jace said.
-
-## Flags
-
-- **温蕾萨·风行者** → Vereesa Windrunner (youngest Windrunner sister; glossary lists Alleria/奥蕾莉亚, but 温蕾萨 is Vereesa). Signed as Ranger-Lord (游侠领主) of Quel'Thalas.
-- **哀伤之花 / 瘟疫花** → "Sorrow" (Thalassian) / Plaguebloom (Common). Plaguebloom is a canonical WoW herb; the lore explanation around it is the author's invention.
-- **冰盖草** → Icecap (canonical WoW herb).
-- **奎尔多雷** → Quel'dorei ("Children of the Stars" — high elves' name for themselves).
-- **远行者** → Farstriders (canonical ranger organization of Quel'Thalas/Silvermoon).
-- **伊尔加拉之塔** → Il'gathar Tower (author-invented mage tower; not a canonical location).
-- **卡尔勒兹** → Karlez (demon lord held at the Altar of Storms).
-- **阿尔娜** → Arna (Jace's horse).
-- **达扎尔姆** → the Dzaar'lum (pair of demons guarding the tower).
-- **艾鲁门纳尔，玛尔，阿兰** → "Ailumenar, Mar, Alan" (Thalassian blessing; transliterated).
-- **暗语峡谷** → Shadowtongue Canyon (author-invented location).
-- **达斯莫拉** → Dathmor (prior Reliquary mission location).
-- **大师** → Master (glossary: 大师 = Master; VanCleef addresses Jace as 塞索大师).

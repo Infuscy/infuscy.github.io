@@ -1,20 +1,20 @@
 ## Chapter 1400: The Cold Fire
 
-The black figure suddenly convulsed, followed by a mad roar. Sabellian collapsed to his knees in agony. The Quel'Serrar clattered to the floor from his grip.
+The black figure suddenly convulsed, followed by a mad roar. Sabellian collapsed to his knees in agony. Azuresong clattered to the floor from his grip.
 
 "What vile magic?!"
 
 He looked up. His eyes were still blood red.
 
-"Luh'ravinkta, lu'arakip'ta!" Jace shouted the incantation again. Sabellian suddenly shrieked and spat blood. Shadow energy had already stained him black, surging mana gathering within him.
+"Luhravenkta, luarakipta!" Jace shouted the incantation again. Sabellian suddenly shrieked and spat blood. Shadow energy had already stained him black, surging mana gathering within him.
 
-Shadow energy couldn't easily harm a black dragon. But Life Tap directly sacrificed life force. After being viciously drained by Jace's Life Drain, he couldn't withstand two Life Taps anymore.
+Shadow energy couldn't easily harm a black dragon. But Life Tap directly sacrificed life force. After being viciously drained by Jace's Drain Life, he couldn't withstand two Life Taps anymore.
 
-The black dragon's eyes quickly returned to a glowing yellow flame. Jace cast Life Drain again, locking onto his forehead, draining him relentlessly as he stepped closer. Sabellian's cries of pain became wails, then weak sobs.
+The black dragon's eyes quickly returned to a glowing yellow flame. Jace cast Drain Life again, locking onto his forehead, draining him relentlessly as he stepped closer. Sabellian's cries of pain became wails, then weak sobs.
 
-Jace grabbed his black hair, picked up the Quel'Serrar, and pressed it against his throat.
+Jace grabbed his black hair, picked up Azuresong, and pressed it against his throat.
 
-Sabellian looked up. His face was smeared with filth-black blood from the shadow corruption. His handsome features were contorted with unwillingness, fury, and despair.
+Sabellian looked up. His face was smeared with filth-black blood from the shadow corruption. His handsome features were contorted with bitterness, fury, and despair.
 
 He muttered weakly, "You've destroyed every hope with your own hands, Jace Sesso. Your weakness. Your hypocrisy. Your indecision. They've ruined me. Ruined the Alliance. Ruined yourself."
 
@@ -24,13 +24,13 @@ The black dragon stared into Jace's eyes. He quickly understood what those words
 
 "You want my soul? Remember — stab the heart, warlock. Piercing the neck won't kill a dragon." He laughed bitterly, as if laughing at himself, and at everything here and now.
 
-Jace nodded. He raised the Quel'Serrar and aimed at his chest. The flames surrounding them both burned on, casting a red glow over his pale face.
+Jace nodded. He raised Azuresong and aimed at his chest. The flames surrounding them both burned on, casting a red glow over his pale face.
 
 But those flames had already lost their spirit. Lost their frenzy. Now they had even lost their heat. They were as cold as fire-colored stone. Jace felt no hostility in them, no threat. They just burned. Just burned.
 
 This cold fire was so familiar... So... Ah. This was the prophecy vision.
 
-Jorin Dead-eye. If only you were here. Why wasn't Sabellian in that dream?
+Jorin Deadeye. If only you were here. Why wasn't Sabellian in that dream?
 
 Maybe even Jace himself didn't want to see this black dragon fall before him like this.
 
@@ -42,7 +42,7 @@ Vereesa.
 
 Born in darkness, fight against darkness. Jace, don't become someone I wouldn't recognize...
 
-"I remember now." The warm glow of the Quel'Serrar's azure blade gradually faded. Jace held the flower in his palm and lowered his head. "That brat told me to protect you, Sabellian. No matter what. I can't break my word."
+"I remember now." The warm glow of Azuresong's azure blade gradually faded. Jace held the flower in his palm and lowered his head. "That brat told me to protect you, Sabellian. No matter what. I can't break my word."
 
 "What are you talking about?" Sabellian moved his lips with difficulty.
 
@@ -52,9 +52,9 @@ The Black Prince nodded, then slumped to the floor, watching dazedly as the warl
 
 "You're enjoying this, aren't you?"
 
-Jace muttered in Demonic as he raised the Quel'Serrar. With all his might, he slashed at the orb!
+Jace muttered in Demonic as he raised Azuresong. With all his might, he slashed at the orb!
 
-A piercing shriek echoed across the broken dome. But the Scepter of Sargeras seemed completely unmoved. Instead, a crack opened in the Quel'Serrar.
+A piercing shriek echoed across the broken dome. But the Scepter of Sargeras seemed completely unmoved. Instead, a crack opened in Azuresong.
 
 "Son of a bitch... you're tough."
 
@@ -62,7 +62,7 @@ Jace couldn't help cursing in his true mother tongue, staring at the Malygos-sca
 
 The second strike still didn't budge the scepter's power. But Jace couldn't help coughing. This dim orb, though far weaker than before, still radiated terrifying fel and void energy. The closer he got, the more painful it was.
 
-On the shadow-shrouded demon throne, Jace gathered his strength again and hacked down with all his might. Still no effect. But the Quel'Serrar opened an even larger crack.
+On the shadow-shrouded demon throne, Jace gathered his strength again and hacked down with all his might. Still no effect. But Azuresong opened an even larger crack.
 
 Jace laughed. He raised the magic sword, took a few heavy breaths, lifted the blade, roared, and brought it down again. His hands burned as if scorched by flame. His whole body felt like it was on fire. But he never thought about giving up.
 
@@ -78,13 +78,13 @@ But this radiance also dispelled the shadows shrouding him and the Sargeras orb.
 
 Jace had almost lost the ability to think. But whatever this was, it couldn't stop him.
 
-He rubbed his eyes and raised the Quel'Serrar again.
+He rubbed his eyes and raised Azuresong again.
 
 The light on the blade no longer felt familiar. Like blue. Like white...
 
 Jace took two more steps back, lowering his head to feel the heat at the back of his neck. He felt like he was about to die. From the scepter's torment. From the roasting of this strange flame. From...
 
-He lifted the Quel'Serrar, straightened up, and charged at the floating scepter. With the last of his strength, he smashed the orb!
+He lifted Azuresong, straightened up, and charged at the floating scepter. With the last of his strength, he smashed the orb!
 
 The orb shattered on impact. The scepter disintegrated completely. The violent magical vortex threw Jace across the room...
 
@@ -110,7 +110,7 @@ Jace summoned all his remaining strength and bellowed, "You dare take on the for
 
 Jace froze. He looked up at the face in the fire. So like his mother. Even knowing it was an illusion, he couldn't help...
 
-"I did underestimate your power and will, Jace Sesso." The voice from the flames was sacred and undeniable. The solemn Eredar tongue immediately made one think of Prophet Velen.
+"I did underestimate your power and will, Jace Sesso." The voice from the flames was sacred and undeniable. The solemn Eredun immediately made one think of Prophet Velen.
 
 "I guessed that you might choose not to take up the Scepter of Sargeras, deciding instead to destroy it with Ulthalesh. But I knew that without devouring all the souls of Auchindoun, you couldn't possibly achieve this. And then you would have broken with the expedition over the souls I myself covet. Even turned against the black dragon. Whichever path you took, you would have walked toward death. However it happened, you would have come here."
 
@@ -118,7 +118,7 @@ Jace froze. He looked up at the face in the fire. So like his mother. Even knowi
 
 "Don't even think about it." Jace lowered his eyes and shook his head. "Don't even think about it."
 
-"For what?" the voice in the flames said. "You could take your most cherished people away from Azeroth, which is doomed to be destroyed. To a place where myself and Archimonde can never find you. And we don't actually have to be your enemies. You see, in the dark void, there are countless places like Draenor. Remote lands that no one will ever touch. As long as you accept the power I promise, you could do this easily. You know Medivh's story. You know I'm telling the truth."
+"Why not?" the voice in the flames said. "You could take your most cherished people away from Azeroth, which is doomed to be destroyed. To a place where Archimonde and I can never find you. And we don't actually have to be your enemies. You see, in the dark void, there are countless places like Draenor. Remote lands that no one will ever touch. As long as you accept the power I promise, you could do this easily. You know Medivh's story. You know I'm telling the truth."
 
 "You can't destroy Azeroth," Jace said, lifting his head.
 
@@ -136,7 +136,7 @@ Jace froze. He looked up at the face in the fire. So like his mother. Even knowi
 
 "Because you're not here. You're not standing before me. You're just an apparition. You can scare Sabellian. You can scare every demon here. But you can't scare me. You're just a bluffer. Heh."
 
-"Indeed." The voice in the flames laughed coldly twice. "But I don't need to stop you. If it were anyone else, I believe my Tome of Dark Names would become the most powerful summoning focus for calling them back. Without a doubt. But you? You're a different story."
+"Indeed." The voice in the flames laughed coldly twice. "But I don't need to stop you. If it were anyone else, I believe my Book of Fel Names would become the most powerful summoning focus for calling them back. Without a doubt. But you? You're a different story."
 
 "You know very well that a summoning ritual's power is tied to what matters to the summoned. The more important something is to the summoned, the stronger the ritual. But that book isn't important to you."
 
@@ -144,4 +144,4 @@ Jace froze. He looked up at the face in the fire. So like his mother. Even knowi
 
 "Unfortunately, that is why my plan failed. But it is also why you are about to die here."
 
-"Then I'll choose to do something more meaningful with my last moments, Kil'jaeden. Instead of standing here talking shit through the Twisted Nether with you." Jace steeled himself and pushed himself up. He turned with his sword, then remembered something and looked back. He bent down and picked up Ulthalesh. Then he walked down the steps, one by one.
+"Then I'll choose to do something more meaningful with my last moments, Kil'jaeden. Instead of standing here talking shit through the Twisting Nether with you." Jace steeled himself and pushed himself up. He turned with his sword, then remembered something and looked back. He bent down and picked up Ulthalesh. Then he walked down the steps, one by one.

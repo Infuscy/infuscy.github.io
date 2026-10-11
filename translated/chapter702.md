@@ -6,11 +6,11 @@ Whether looking out from here or from the rumors he'd grown up hearing, Jace had
 
 Looking south, where several great rivers intertwined at the edge of view, there sat a modest-sized town — that should be Andorhal.
 
-Ursula had tasked Jace with finding a sayad demon in Andorhal. After leaving Quel'Thalas, he'd come here to meet with that Dark Iron dwarf.
+Ursula had tasked Jace with finding a sayaad in Andorhal. After leaving Quel'Thalas, he'd come here to meet with that Dark Iron dwarf.
 
 The dragonhawk pushed northeast all day, stopping to rest at evening on a Farstrider outpost set on a high slope deep in the forest that the high elves maintained. Jace had been dead on his feet — and just as he was about to drop off, Vereesa suddenly shook him awake again.
 
-The Twin Moons were still hanging overhead. The only comfort was a mana potion.
+The two moons were still hanging overhead. The only comfort was a mana potion.
 
 But Jace wasn't a high elf — what difference was one mana potion going to make? That said, when high elves gave a gift they were generous all right: they'd handed him a Major Mana Potion without a second thought, and after drinking it he genuinely felt a good deal more alert.
 
@@ -42,9 +42,9 @@ This was the place his father had been born and raised. Jace had actually always
 
 The in-game scenes and models were a pale, simplified shadow of the real thing seen with your own eyes. Just looking down at this magnificent harbor city from above, it was hard to imagine the way it would look after the Scourge razed it utterly, burning for years in that dreadful fire.
 
-Of course, seeing Stratholme also meant they were already very close to Quel'Thalas. The city sat at the northernmost edge of the Kingdom of Lordaeron; push on a bit further and he'd probably see Eversong Forest soon.
+Of course, seeing Stratholme also meant they were already very close to Quel'Thalas. The city sat at the northernmost edge of the Kingdom of Lordaeron; push on a bit further and he'd probably see Eversong Woods soon.
 
-In the game, the southern reaches of Eversong Forest had been thoroughly corrupted by the plague of the Scourge, turned into a gloomy stretch called the Ghostlands. But over a decade ago, although the orcs had burned it, it hadn't been severely corrupted or tainted — so Jace was still looking forward to seeing Quel'Thalas's original appearance, before the Scourge invasion.
+In the game, the southern reaches of Eversong Woods had been thoroughly corrupted by the plague of the Scourge, turned into a gloomy stretch called the Ghostlands. But over a decade ago, although the orcs had burned it, it hadn't been severely corrupted or tainted — so Jace was still looking forward to seeing Quel'Thalas's original appearance, before the Scourge invasion.
 
 The dragonhawk descended at the foot of a mountain range to the northeast of Stratholme, coming down in a high-elven foothill village.
 
@@ -56,7 +56,7 @@ The dragonhawk rider straightened up and gave a slight nod, then said in Thalass
 
 After he finished, he went off with the other knights to tend to the dragonhawks that had just landed. Vereesa came over to Jace and said, "You could take that phrase as a fine start to learning Thalassian, Jace."
 
-"Adarelasha," Jace murmured, repeating the words. "It sounds a lot like the farewell the elves used to say back at Feathermoon Stronghold."
+"Al diel shala," Jace murmured, repeating the words. "It sounds a lot like the farewell the elves used to say back at Feathermoon Stronghold."
 
 Vereesa reminded him, "Remember — don't bring that topic up once we're inside Quel'Thalas."
 
@@ -64,9 +64,9 @@ Vereesa reminded him, "Remember — don't bring that topic up once we're inside 
 
 "That'll do." Vereesa affirmed it in Thalassian as well, then switched back to Common: "Once Grede gets here, we can go in together."
 
-Jace nodded and looked up at the elven wooden houses on the heights. They reminded him of Quel'Daneth, but compared to Quel'Thalas's stronghold in the Hinterlands fighting the forest trolls, this place was far more modest.
+Jace nodded and looked up at the elven wooden houses on the heights. They reminded him of Quel'Danil, but compared to Quel'Thalas's stronghold in the Hinterlands fighting the forest trolls, this place was far more modest.
 
-Suddenly, a griffon's cry came from above — and Jace knew exactly whose voice that was! It was Gorjhet!
+Suddenly, a gryphon's cry came from above — and Jace knew exactly whose voice that was! It was Gorjet!
 
 "Grede?" Vereesa looked over too. "He's already here?!"
 
@@ -100,13 +100,13 @@ At that, Grede's look — which had been pure spectator enjoyment — froze soli
 
 "What kind of reason is that… those kings ought to be thankful my hammer can't throw that far! This is exactly why the Wildhammer didn't want much to do with the humans back in the mountains before the Dark Portal. Even before the War of the Three Hammers, back when dwarves still regarded magic as a symbol of ill omen — when Emperor Thaurissan and his followers used magic against the ice trolls lying in wait among the snowy mine-caves, helping the people of Khaz Modan escape danger — we still regarded him as a great clan leader."
 
-Here Grede coughed and said no more, since everyone knew what had happened afterward. Emperor Thaurissan and his clan's magic had soon brought the dwarves an unprecedented "ill omen" — which, if anything, had proven the whole "magic is a symbol of ill oomen" thing right after all.
+Here Grede coughed and said no more, since everyone knew what had happened afterward. Emperor Thaurissan and his clan's magic had soon brought the dwarves an unprecedented "ill omen" — which, if anything, had proven the whole "magic is a symbol of ill omen" thing right after all.
 
 After resting one night in Quel'Lithien, the next morning the elven folk had hawkstriders ready for their two long-distance guests, preparing to lead them into Quel'Thalas.
 
 Jace rode a brown-black hawkstrider. The mounts the high elves bred stood a good head taller than the ostriches he'd known in his past life, and riding one was far steadier than he'd imagined.
 
-The high elves' domesticated mounts all seemed remarkably placid — whether dragonhawks or hawkstriders, they were more comfortable to ride than griffons or horses. It made Jace suspect that this race, raised beneath the Sunwell, had worked some magical alterations on these beasts.
+The high elves' domesticated mounts all seemed remarkably placid — whether dragonhawks or hawkstriders, they were more comfortable to ride than gryphons or horses. It made Jace suspect that this race, raised beneath the Sunwell, had worked some magical alterations on these beasts.
 
 The hawkstrider column, led by two spear-wielding elven knights, set out from Quel'Lithien, following the broad road through the pine forest northward.
 
@@ -150,23 +150,10 @@ The mages bowed respectfully to Vereesa, then went over to the other riders, wat
 
 The way they looked at Jace and Grede was noticeably colder than the Farstriders back at Quel'Lithien — perhaps because they were guarding the gate of Quel'Thalas and were supposed to be stern, or perhaps this was the true attitude of the elven kingdom's inhabitants toward outsiders.
 
-Almost every mage who passed, though, stared for a good long while at the blue dragon sword at Jace's waist.
+Almost every mage who passed, though, stared for a good long while at the blue dragon sword at Jace's hip.
 
-Once this "inspection" of sorts was finished, one of the mages looked at Jace and reminded him in Common, "Summons of the Twisting Nether may not be brought north of the Aldre River within the runestones. This is the law of Quel'Thalas — I imagine the Ranger-Lord already warned you."
+Once this "inspection" of sorts was finished, one of the mages looked at Jace and reminded him in Common, "Summons of the Twisting Nether may not be brought north of the Elrendar River within the runestones. This is the law of Quel'Thalas — I imagine the Ranger Lord already warned you."
 
-As he spoke, he glanced at the pack at Jace's waist. Jace said at once, "I know."
+As he spoke, he glanced at the pack at Jace's belt. Jace said at once, "I know."
 
 "Good." The mage stepped back. "Welcome to Quel'Thalas, Jace Sesso the Dragonslayer."
-
-## Flags
-
-- Eastweald (东威尔德) established as the prosperous Lordaeron region the party flies over; rendered per convention (ch. 152, 161, 506).
-- Andorhal (安多哈尔) sighted to the south — Ursula's prior contract: find a sayad demon there, then meet a Dark Iron dwarf.
-- Stratholme (斯坦索姆) seen from the air — Jace's father's birthplace; Jace contrasts its living grandeur with his knowledge of its future destruction by the Scourge.
-- The Sunwell (太阳之井) first sensed as a physical, overwhelming arcane presence.
-- Quel'Lithien (奎尔林斯) — the high-elven foothill village and jumping-off point into Quel'Thalas. Canonical Eversong location (Quel'Lithien / Farstrider lodge).
-- Gorjhet (戈尔杰特) — Grede's griffon, arrived early; name rendered phonetically, flagged for verification.
-- The blue dragon sword (蓝龙之剑) — Azure Skysong draws stares from every gate mage.
-- Grede's defense of Jace against the Lordaeron nobles' "dark magic" slur — invokes Emperor Thaurissan (巫王索瑞森) and Wildhammer history; the irony of magic proving "ill omen" noted.
-- Quel'Thalas gate law: Twisting Nether summons forbidden north of the Aldre River (艾伦达尔河) within the runestones; Jace confirms he left the imp behind.
-- Aldre River (艾伦达尔河) — tentative rendering; flagged for canonical verification.

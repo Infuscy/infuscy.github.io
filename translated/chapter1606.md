@@ -4,7 +4,7 @@ Morning. A faint metallic scent mixed with grass clippings masked the acrid sten
 
 The elf lying beside him was breathing softly, her firm chest rising and falling. Jace snuck a sideways glance and felt his heartbeat quicken, the ache in his lower half becoming sharply distinct again.
 
-There was no way such a furtive glance could escape a Quel'Thalas ranger-lord's notice. She grabbed the warlock's wrist and placed his hand on the peak of her breast. Her slightly too-long fingernails traced along the skin of his ribs, drawing a soft laugh from her.
+There was no way such a furtive glance could escape a Quel'Thalas Ranger Lord's notice. She grabbed the warlock's wrist and placed his hand on the peak of her breast. Her slightly too-long fingernails traced along the skin of his ribs, drawing a soft laugh from her.
 
 Jace turned his head to look at Vereesa Windrunner's half-closed eyes, the tips of her long ears resting on the pillow, her silver curls tangled across the mat. For a moment, it all felt surreal.
 
@@ -28,7 +28,7 @@ Jace turned his head to look at Vereesa Windrunner's half-closed eyes, the tips 
 
 "You're thinking of Turalyon," Vereesa said. "Well, I suppose the Holy Light really can bless those of the Silver Hand..."
 
-But once was just... Jace said softly.
+"But once was just..." Jace said softly.
 
 "Once? You believe that story too, don't you." The ranger let out a wry laugh. "You have no idea how wild those two war heroes were every night in the period right after the orcs were pushed back. Back then, every time I thought about my sister — this goddess-like figure in my mind — being repeatedly... ah, damn it, I didn't mean to talk about Turalyon like that. But that's what I thought back then."
 
@@ -68,9 +68,9 @@ Jace licked his lips and immediately grabbed the ranger's hand, rolling over. Th
 
 "What?" Jace asked.
 
-"When Needleflame mentioned Sorah, you looked pretty pleased, didn't you?" Vereesa pinched his nose.
+"When Needleflame mentioned Sola, you looked pretty pleased, didn't you?" Vereesa pinched his nose.
 
-"That was pleased?" Jace said. "Wasn't I the one telling her to stop talking nonsense? Sorah is a dragon. A literal, living dragon."
+"That was pleased?" Jace said. "Wasn't I the one telling her to stop talking nonsense? Sola is a dragon. A literal, living dragon."
 
 Vereesa snorted a laugh. "That little brat Needleflame... hurry up, I can't stand it anymore."
 
@@ -78,11 +78,11 @@ Jace lowered himself, ready to move, when a cough came from a seat not far away.
 
 "Morophil!" Vereesa grabbed the headboard and glared at the iron chair over there. "Can't you just pretend you don't exist and be a good gargoyle for once?!"
 
-"But time is running short, Lady Vereesa." Morophil affected a look of boredom, shifted her sitting position, and leaned on the table. "Master still needs to set out today, through dangerous orc blockade territory to get to Morgan's Watch. In my experience, if he goes another round with you, he'll miss his meeting with Matthias Shaw's people."
+"But time is running short, Lady Vereesa." Morophil affected a look of boredom, shifted her sitting position, and leaned on the table. "Master still needs to set out today, through dangerous orc blockade territory to get to Morgan's Vigil. In my experience, if he goes another round with you, he'll miss his meeting with Mathias Shaw's people."
 
 "What the hell kind of experience is that?!" Vereesa demanded.
 
-"From watching the two of you go at it fiercely, of course." Morophil raised an eyebrow. "The SI:7 agents aren't sayads. Every extra minute they spend in orc territory is a minute of extra danger."
+"From watching the two of you go at it fiercely, of course." Morophil raised an eyebrow. "The SI:7 agents aren't sayaad. Every extra minute they spend in orc territory is a minute of extra danger."
 
 Jace fished out his pocket watch and checked the time. Morophil was right. They'd drunk too much last night and stayed up too late. When they woke up, it was nearly evening.
 
@@ -94,15 +94,17 @@ Vereesa glanced at the time too and sucked in a sharp breath.
 
 "You're sure I don't need to come with you?" the ranger asked.
 
-"Grede is injured. You need to stay here in case the orcs or the Black Dragons launch a surprise attack," Jace said. "I'm going with Vaelastrasz. Don't worry, nothing will go wrong. But I might also need to stop by the Tower of Ilgalar and Stormwind, so I could be gone longer than planned."
+"Grede is injured. You need to stay here in case the orcs or the black dragons launch a surprise attack," Jace said. "I'm going with Vaelastrasz. Don't worry, nothing will go wrong. But I might also need to stop by the Tower of Ilgalar and Stormwind, so I could be gone longer than planned."
 
-"Blackrock Spire isn't like the Molten Core — no plane-shifting chaos. And the protective rune's interference makes the soul-link a bit unreliable. So this time I should have enough space and time to prepare more of my blood for the Storm Altar..."
+"Blackrock Spire isn't like the Molten Core — no plane-shifting chaos, and no protection runes interfering with the Soul Link. So this time I should have enough space and time to prepare more of my blood for the Altar of Storms..."
 
-"And summon Lord Kazzak to Blackrock Mountain?" Sazeno poked his head out of the bag. "That greater demon," Vereesa said softly.
+"And summon Lord Kallrez to Blackrock Mountain?" Sazeno poked his head out of the bag.
+
+"That greater demon," Vereesa said softly.
 
 "Yes," Jace said. "By now the whole Alliance probably knows I got to Draenor with the help of a powerful demon. It won't surprise them if that demon shows up at Blackrock Spire."
 
-"Don't forget, last time — even with a hasty summon into the Obsidian dimension — Kazzak could still fight Onyxia head-on. Now I'm preparing in advance, refining the ritual as much as possible, with the help of the Storm Altar. And Kazzak has recovered some power from the vicinity of Karazhan and the Telogrus Rift. From every angle, he's much stronger than last time. I don't think Nefarian can handle him easily, let alone his minions."
+"Don't forget, last time — even with a hasty summon into the Obsidian dimension — Kallrez could still fight Onyxia head-on. Now I'm preparing in advance, refining the ritual as much as possible, with the help of the Altar of Storms. And Kallrez has recovered some power from the vicinity of Karazhan and the Telogrus Rift. From every angle, he's much stronger than last time. I don't think Nefarian can handle him easily, let alone his minions."
 
 "You're right, Jace," Vereesa said. "And this time, if that evil dragon tries to escape the way his sister did, I won't be stuck helpless on the other side of a dimensional rift."
 
@@ -112,7 +114,7 @@ Vereesa glanced at the time too and sucked in a sharp breath.
 
 "Did you hear that, Sazeno?" the succubus said. "After Blackrock Spire, I'm afraid I'll fall out of favor just like you."
 
-"Welcome to my club..." The imp grinned, then suddenly his green eyes went wide. "When did I fall out of favor?! You venomous banshee, full of lies and treachery!"
+"Welcome to my club..." The imp grinned, then suddenly his green eyes went wide. "When did I fall out of favor?! You venomous sayaad, full of lies and treachery!"
 
 Jace threw on his cloak and picked up Ulthalesh. "Then try to prove your worth, Sazeno. Stop thinking about running away all the time. Let's go, Morophil."
 

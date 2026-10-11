@@ -55,9 +55,9 @@ He returned to the inn and found Grede sitting alone in a corner, staring into a
 
 Jace sat down across from him and said offhandedly, "Drinking isn't good for your wounds."
 
-"Dwarves aren't built like humans," the dwarf said, half-closing his eyes. "Now, I'll have to educate you on this. Our ancestors were the ancient Earthen, and the Earthen came from underground, shaped by the earth itself. Guess what else the earth shapes? Grain. Fruit."
+"Dwarves aren't built like humans," the dwarf said, half-closing his eyes. "Now, I'll have to educate you on this. Our ancestors were the ancient earthen, and the earthen came from underground, shaped by the earth itself. Guess what else the earth shapes? Grain. Fruit."
 
-"Look at this." He lifted his mug and swirled the bubbling liquid inside. "The fermentation process is just like the primitive, sturdy Earthen evolving into us lively, wonderful dwarves. You see those bubbles? They're no different from an old dwarf's beard — not one bit. That's the proof. In other words, we and fine ale are one and the same thing. When ale slides into my stomach, it's fucking like coming home. My wounds see that ale and cry out, 'Our dear brother is here!' and smear it all over themselves. My muscles rush to grow back. This isn't ale at all — it's practically a miracle drug that can resurrect a man on the spot, the kind even the most senior alchemist in Dalaran couldn't brew. No question."
+"Look at this." He lifted his mug and swirled the bubbling liquid inside. "The fermentation process is just like the primitive, sturdy earthen evolving into us lively, wonderful dwarves. You see those bubbles? They're no different from an old dwarf's beard — not one bit. That's the proof. In other words, we and fine ale are one and the same thing. When ale slides into my stomach, it's fucking like coming home. My wounds see that ale and cry out, 'Our dear brother is here!' and smear it all over themselves. My muscles rush to grow back. This isn't ale at all — it's practically a miracle drug that can resurrect a man on the spot, the kind even the most senior alchemist in Dalaran couldn't brew. No question."
 
 "Of course, that only applies to dwarves." With that, he downed the entire mug in one gulp.
 
@@ -79,11 +79,11 @@ Grede grinned wide, took a deep sniff, and sighed.
 
 "Missing home. I want to go back to Aerie Peak," the dwarf said.
 
-Jace drew a long diagonal line on the table with his finger. The line curved past Dun Garona and stretched all the way into the northern gorge. "But to get from Southshore to the Hinterlands, you'd have to cross the Hillsbrad Foothills. It's not safe there yet — I hear there are still orcs wandering about."
+Jace drew a long diagonal line on the table with his finger. The line curved past Dun Garok and stretched all the way into the northern gorge. "But to get from Southshore to the Hinterlands, you'd have to cross the Hillsbrad Foothills. It's not safe there yet — I hear there are still orcs wandering about."
 
 The dwarf's eyes followed the line to the other side of the table. "So what? Even Orgrim Doomhammer's been thrown in a dungeon. The rest are nothing more than a band of brigands and bandits."
 
-Actually, it wasn't just that. There was also the Frostwolf clan, who had settled in the Alterac Valley — fearsome hunters who rode white-furred wargs into battle, beasts even more powerful than bulls. They weren't content to hide away in the snowy mountains; they frequently came down to the foothills of Hillsbrad to raid for supplies.
+Actually, it wasn't just that. There was also the Frostwolf clan, who had settled in Alterac Valley — fearsome hunters who rode white-furred worgs into battle, beasts even more powerful than bulls. They weren't content to hide away in the snowy mountains; they frequently came down to the foothills of Hillsbrad to raid for supplies.
 
 Not to mention another clan several times more terrifying: the Warsong clan, led by Grom Hellscream, a berserker who had made even Draenor tremble in fear.
 
@@ -93,7 +93,7 @@ Jace remembered they had wandered among the mountains, forests, and hills of Lor
 
 Which meant that for now, sailing from Stormwind's port to Southshore was still relatively safe. After all, the orcish warships were no match for the navies of Gilneas and Lordaeron, and they had vanished without a trace once the Dark Portal came under attack and their supply lines were severed.
 
-But heading north from Southshore into Silverpine Forest, or to Dun Garona north of Hillsbrad, was a completely different story.
+But heading north from Southshore into Silverpine Forest, or to Dun Garok north of Hillsbrad, was a completely different story.
 
 Thinking of this, Jace suddenly realized that everything he owned wouldn't even cover the fare from Stormwind's port to Southshore, not to mention food and supplies along the way. So why worry about all that?
 
@@ -111,7 +111,7 @@ The dwarf stared blankly for a moment, then burst out laughing, foam all over hi
 
 "S-selling my… ass?" Jace's mouth twitched.
 
-"Next time you run that guy, give me a call. Take a look at these muscles." He caressed his stone-like shoulder. "If I don't beat him into bankruptcy, I don't deserve this body, this strength, this spirit my homeland in the Hinterlands raised me with."
+"Next time you run into that guy, give me a call. Take a look at these muscles." He caressed his stone-like shoulder. "If I don't beat him into bankruptcy, I don't deserve this body, this strength, this spirit my homeland in the Hinterlands raised me with."
 
 After a few ales together with Grede, all the pain and fear from the previous night melted away. The singing woman had left the tavern at some point without anyone noticing; only the musician remained, sitting alone with his lute, playing some unknown, melodious tune to the cold hearth.
 
@@ -127,11 +127,11 @@ But if he wanted to buy a house of his own and bring his parents over from Lorda
 
 Still, the past two days had been harrowing enough. Pushing himself like this to earn money wasn't sustainable — even if he kept getting lucky and avoided death, Jace's body couldn't take it.
 
-Good thing Eden Marin had agreed to take him on as an assistant. With any luck, he'd get to live in the Mage Quarter and wouldn't have to keep paying rent.
+Good thing Eden Malin had agreed to take him on as an assistant. With any luck, he'd get to live in the Mage Quarter and wouldn't have to keep paying rent.
 
 And in the best-case scenario, maybe it'd include room and board both? Weren't the mage apprentices in Dalaran housed and fed right at the school in World of Warcraft?
 
-Right? Wrong? He realized he was already starting to forget the finer details of the game's worldview.
+Right? Wrong? He realized he was already starting to forget the finer details of the game's lore.
 
 Regardless, being an assistant should come with some income and certain perks in the Mage Quarter — at least it counted as a stable job.
 
@@ -153,11 +153,4 @@ Maybe in the future he could even find a silver-haired elf girl to date. The tho
 
 Two old men who'd been night-fishing nearby looked over at the drunk. One of them asked, "What's he saying?"
 
-The other shook his head. "No idea. Might be a Kul Tirasan — I hear they talk like that there, like they're singing."
-
-## Flags
-
-- 魔光 (the archmage's glow that drives back evil): rendered as "a glow that drove back evil" — glossary lists 魔光 = Arcane Glow, but here the context is a holy/driving-back-evil effect, not arcane; flagged for review.
-- Canonical WoW proper nouns not in glossary, rendered per standard localization: Anduin Lothar, Orgrim Doomhammer, Alterac, Menethil Harbor, Ironforge, Aerie Peak, Dun Garona (敦霍尔德 — Alterac fortress; rendering tentative, could be Durnholde), Southshore, Hillsbrad Foothills, Silverpine Forest, Gilneas, Frostwolf clan, Alterac Valley, Warsong clan, Grom Hellscream, Kul Tiras.
-- 猪肝馅饼: rendered as "liver pies" (no glossary entry).
-- 烟熏肉排: rendered as "smoked meat chops" (no glossary entry).
+The other shook his head. "No idea. Might be a Kul Tiran — I hear they talk like that there, like they're singing."

@@ -2,7 +2,7 @@
 
 The sky had gone completely dark. Walking through the pitch-black snow pine forest, the furbolg at the front was nothing but a gloomy shadow swaying ahead.
 
-They couldn't rest. The black knights were chasing them every moment. Those undead creatures had probably already drawn close to the Dark Ravine — maybe even entered it. Jace kept glancing back, his ears perked the whole time for the sound of hoofbeats.
+They couldn't rest. The Dark Riders were chasing them every moment. Those undead creatures had probably already drawn close to Darkwhisper Gorge — maybe even entered it. Jace kept glancing back, his ears perked the whole time for the sound of hoofbeats.
 
 Fortunately, the terrain in this valley was complex — pine trees everywhere, collapsed trunks, sinkholes, and so on. Horses could never gallop through here as easily as they had across Winterspring.
 
@@ -20,7 +20,7 @@ As a warlock skilled in manipulating shadow, someone who dealt with emotions all
 
 Grede choked on his own saliva. He quickly defended himself. "My eyes weren't working properly back then! So what if I didn't want to die? Is it a crime not to want to die?"
 
-"I'm a little scared," Sora said. "I don't know why."
+"I'm a little scared," Sola said. "I don't know why."
 
 "I feel like we're getting closer to something, Jace," Vereesa said. "I'm worried too."
 
@@ -30,7 +30,7 @@ Even as he said it, looking around revealed nothing — just the dark forest, sn
 
 Then, up ahead, Kenluk stopped.
 
-He lowered his head and stared at the weeds beneath his feet. In Thalassian, he said, "Here."
+He lowered his head and stared at the weeds beneath his feet. In Elvish, he said, "Here."
 
 "Here?"
 
@@ -38,7 +38,7 @@ The group caught up. The furbolg roared a few times for them to stop, then said,
 
 Vereesa stopped at the front and looked carefully at the ground by the furbolg's feet. Only then did she notice an inconspicuous crack in the earth — barely large enough for a tauren or a furbolg to squeeze through, covered over with thick snow and weeds.
 
-"The temple is underground?" Sora noticed the crack too.
+"The temple is underground?" Sola noticed the crack too.
 
 "Follow." Kenluk grabbed the edge of the crack with his thick arm and slid down. Vereesa glanced back at Jace and the others, then jumped down after him.
 
@@ -52,13 +52,13 @@ This was a fairly large crack, and there were signs that someone had worked on t
 
 "We did," Kenluk answered. "Long ago, the old furbolg discovered this place, entered it, and dug these out."
 
-Jace nodded. He looked up at the opening they'd come in through, now just a faintly glowing crack. He thought to themselves — if not for the Frostmace furbolgs, who knows how long they would have spent searching down here.
+Jace nodded. He looked up at the opening they'd come in through, now just a faintly glowing crack. He thought to himself — if not for the Frostmaul furbolgs, who knows how long they would have spent searching down here.
 
-He wondered whether the black knights would be able to find this place.
+He wondered whether the Dark Riders would be able to find this place.
 
-Of course, he hoped those undead monsters would wander the forest forever and never find the right path. But considering the black knights came from Karazhan, and their intelligence came from Karazhan's library — well, the knowledge gathered there by the tower's builder Aegwynn, her son Medivh, and even Sargeras, who had parasitized Medivh's body, collected from the Twisting Nether and God-knew-how-many planes.
+Of course, he hoped those undead monsters would wander the forest forever and never find the right path. But considering the Dark Riders came from Karazhan, and their intelligence came from Karazhan's library — well, the knowledge gathered there by the tower's builder Aegwynn, her son Medivh, and even Sargeras, who had parasitized Medivh's body, collected from the Twisting Nether and God-knew-how-many planes.
 
-What's more, both Aegwynn and Medivh had served as Guardians of the Order of Tirisfal. They must have known many secrets about the Order and the Guardians. Perhaps they didn't have the precise location of Ursalias, but they certainly knew more about the previous Guardian Skavel than Jace did.
+What's more, both Aegwynn and Medivh had served as Guardians of the Order of Tirisfal. They must have known many secrets about the Order and the Guardians. Perhaps they didn't have the precise location of Ulthalesh, but they certainly knew more about the previous Guardian Scavell than Jace did.
 
 So the situation still wasn't optimistic.
 
@@ -80,13 +80,13 @@ On the other side of the Great Sea, at the foot of Mount Hyjal, in the desolate 
 
 She was right. The style of this wall was very similar to Dalaran's architecture. So it was like finding a Disney-flavored fairy-tale cottage in a gloomy valley of the primeval forest.
 
-Sora asked Kenluk up ahead in furbolg tongue. Kenluk scraped the wall with his sharp claws and said something in furbolg language.
+Sola asked Kenluk up ahead in furbolg tongue. Kenluk scraped the wall with his sharp claws and said something in furbolg language.
 
-Sora explained, "He's certain this is the temple we're looking for. But he's never actually gone inside. Many hunters who went in came back dead. He wants us to go as fast as possible — he wants to get back to drink the Timbermaw furbolgs' medicine while he can still be saved."
+Sola explained, "He's certain this is the temple we're looking for. But he's never actually gone inside. Many hunters who went in came back dead. He wants us to go as fast as possible — he wants to get back to drink the Timbermaw furbolgs' medicine while he can still be saved."
 
 "Of course we need to go as fast as possible. We're not planning to live here," Grede said. "Not to mention there are pursuers behind us…"
 
-Jace said in Thalassian, "Kenluk, we're grateful you found this temple for us. But it's going to be extremely dangerous from here. I promised the old one to protect you, but after this we might struggle even to protect ourselves. So if you're not willing to go in, you can leave first and return to the Frostmace tribe's camp."
+Jace said in Elvish, "Kenluk, we're grateful you found this temple for us. But it's going to be extremely dangerous from here. I promised the old one to protect you, but after this we might struggle even to protect ourselves. So if you're not willing to go in, you can leave first and return to the Frostmaul tribe's camp."
 
 The furbolg glanced uncertainly at the back of the wall. "I saw you fight. I believe in you. I want to take part in saving my people. I'm going in with you."
 

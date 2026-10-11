@@ -12,7 +12,7 @@ From outside the inn, looking north, he could see straight to the bridge enterin
 
 Walking on the bridge, watching the sparkling river on both sides under the sunlight, the clean red brickwork, the glossy ceramic-smooth walls, the jade-white towers, the mysterious purple tiles... It was no wonder Dalaran was the place every mage in the kingdoms most wanted to live. No matter how many times Jace came here, it lifted his spirits.
 
-Sora, combing her golden hair by the riverside, gazed at the mist-shrouded Silverpine Forest on the distant shore. Though her expression was blank, her inner ease was obvious.
+Sola, combing her golden hair by the riverside, gazed at the mist-shrouded Silverpine Forest on the distant shore. Though her expression was blank, her inner ease was obvious.
 
 Needleflame was different. From the moment they'd landed in the southern forest, she'd been in a bad mood. No — she'd had that look since leaving Dun Morogh, it just wasn't visible in her black whelp form.
 
@@ -24,7 +24,7 @@ Needleflame was different. From the moment they'd landed in the southern forest,
 
 "I'm not interested in food!" the little black dragon said coldly.
 
-Sora glanced at her, then looked away, but said nothing.
+Sola glanced at her, then looked away, but said nothing.
 
 "Then what ARE you interested in eating?" Jace looked toward the bridge ahead. "Pastries? Ice cream? Or maybe we grab a drink?"
 
@@ -36,13 +36,13 @@ But Jace had no idea whether the Dalaran of this era, before it floated into the
 
 "If I were the king of Dalaran," Needleflame said, clenching her fists and knocking them together, "I'd put all the monsters from the Violet Hold in one room and make them fight to the death! Now THAT would be something to watch!"
 
-"Are you SURE there's no shadow corruption in your brain?" Sora looked down at her. "The Violet Hold contains threats captured by the Council of Tirisfal and the Kirin Tor over hundreds of thousands of years. Some of them are the most dangerous things in the world. Making them fight would be insane!"
+"Are you SURE there's no shadow corruption in your brain?" Sola looked down at her. "The Violet Hold contains threats captured by the Order of Tirisfal and the Kirin Tor over hundreds, even thousands of years. Some of them are the most dangerous things in the world. Making them fight would be insane!"
 
 "So you'd have to charge a lot for tickets," Jace said.
 
-Sora's eyes went wide as she whipped around to stare at Jace. Needleflame burst into laughter, doubling over. "Yeah, yeah! We should mention it to Khadgar! That would be SO much fun!"
+Sola's eyes went wide as she whipped around to stare at Jace. Needleflame burst into laughter, doubling over. "Yeah, yeah! We should mention it to Khadgar! That would be SO much fun!"
 
-"Yeah, yeah, I want to see the monsters in the Violet Hold, Jace Sesso... Come on, didn't the king of Dalaran give you a ring for access to anywhere in Dalaran? Didn't Sora say the Violet Hold held the most terrifying monsters in the world? Are the ones you mentioned that want to harm me in there?"
+"Yeah, yeah, I want to see the monsters in the Violet Hold, Jace Sesso... Come on, didn't the king of Dalaran give you a ring for access to anywhere in Dalaran? Didn't Sola say the Violet Hold held the most terrifying monsters in the world? Are the ones you mentioned that want to harm me in there?"
 
 "Uh." Jace mumbled. "Probably. Not. And that ring was for the library, not the prison, Needleflame."
 
@@ -54,21 +54,21 @@ Needleflame snorted. "Coward."
 
 "What does that have to do with being a coward?" Jace glanced guiltily in the direction of the Violet Hold.
 
-"How could that prison just let people in to 'sightsee'?" Sora said.
+"How could that prison just let people in to 'sightsee'?" Sola said.
 
 "Exactly," Jace quickly agreed.
 
 Needleflame walked ahead, looking bored. Jace sighed helplessly. "Take her around Dalaran, keep her out of trouble. I need to go find Amy first."
 
-"Fine, I'll try, Jace." Sora sighed reluctantly as Needleflame had already run across the bridge and into the streets of Dalaran.
+"Fine, I'll try, Jace." Sola sighed reluctantly as Needleflame had already run across the bridge and into the streets of Dalaran.
 
-Jace arrived at the Dalaran School of Magic. Amy wasn't living in her old place anymore. But after assisting in the Expedition rescue effort from Jace Sesso's tower, Amy Marin had gained some renown in the Kirin Tor. Many of the academy's teachers knew where she was staying.
+Jace arrived at the Dalaran School of Magic. Amy wasn't living in her old place anymore. But after assisting in the Expedition rescue effort from Jace Sesso's tower, Amy Malin had gained some renown in the Kirin Tor. Many of the academy's teachers knew where she was staying.
 
 Following their directions, Jace found a two-story building next to an ivory-colored mage tower. He spotted Amy in the garden below, carefully observing and recording something in a flower bed.
 
 "Amy! So this is where you moved!"
 
-"Jace?" Amy set her tools aside, wiping the sweat from her forehead. "I didn't think you'd actually come to Dalaran to see me. I don't know what to say. Come in, Jace. I still have some meat floss pastries from a banquet I went to a few days ago. I thought you might like them."
+"Jace?" Amy set her tools aside, wiping the sweat from her forehead. "I didn't think you'd actually come to Dalaran to see me. I don't know what to say. Come in, Jace. I still have some savory pastries from a banquet I went to a few days ago. I thought you might like them."
 
 Jace nodded and followed the mage inside, watching her bustle around making tea and setting out the paper-wrapped pastries.
 
@@ -102,7 +102,7 @@ The mage frowned, tilted her head uncertainly, looked at the side of the boots, 
 
 "Been to Karazhan?" Jace said. "These boots..."
 
-"You don't know? These are Guardian Larniriel's boots," Amy said. "She was the sixth Guardian before Medivh. Held the position about fifteen hundred years ago. Aegwynn inherited them from her teacher Scavelle and kept them hidden. They haven't been seen in the world since. So many researchers of ancient artifacts in Dalaran believe these boots are still in Karazhan. The Violet Eye has been looking for them too."
+"You don't know? These are Guardian Larniriel's boots," Amy said. "She was the sixth Guardian before Medivh. Held the position about fifteen hundred years ago. Aegwynn inherited them from her teacher Scavell and kept them hidden. They haven't been seen in the world since. So many researchers of ancient artifacts in Dalaran believe these boots are still in Karazhan. The Violet Eye has been looking for them too."
 
 "Is it that easy to recognize?" Jace asked.
 

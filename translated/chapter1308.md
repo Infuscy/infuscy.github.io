@@ -12,7 +12,7 @@ But this came at a cost. As the powerful shadow vortex in the room slightly rela
 
 Their strikes all met resistance, as if hitting something solid — but it didn't seem to diminish the dragon's power.
 
-At first, the Netherwing seemed to be pushed back by the corrupted red dragon flames Morofel was emitting, her magical momentum slightly flagging. But now she was visibly larger than when she'd first awakened...
+At first, the Netherwing seemed to be pushed back by the corrupted red dragon flames Morophil was emitting, her magical momentum slightly flagging. But now she was visibly larger than when she'd first awakened...
 
 "Our attacks aren't doing anything!" The paladin captain's voice was hoarse. "Holy Light above!"
 
@@ -24,9 +24,9 @@ The Netherwing used her ethereal body to protect the orc warlock, and the warloc
 
 Those two would eventually be void-empowered to the point of unstoppability. Slowly, even Jace felt the part of the magic he controlled slipping away.
 
-But he had to help everyone — including Morofel — hold back the shadow power in the entire hall. Under emotional manipulation, it was hard to think clearly, let alone shout warnings about what the real problem was.
+But he had to help everyone — including Morophil — hold back the shadow power in the entire hall. Under emotional manipulation, it was hard to think clearly, let alone shout warnings about what the real problem was.
 
-If he broke off the channelling now, the magical control, already on the verge of snapping, would likely go completely haywire — all of it pouring into the Netherwing's body... That was exactly what Zuluhed wanted!
+If he broke off the channeling now, the magical control, already on the verge of snapping, would likely go completely haywire — all of it pouring into the Netherwing's body... That was exactly what Zuluhed wanted!
 
 Fortunately, Jace wasn't the only one who'd noticed. From the Farstriders' eyes scanning the room, he could see the magic-sensitive elves had sensed the source of the Netherwing's growth through the vibrations of each attack.
 
@@ -46,13 +46,13 @@ Seeing the arrows disappear, Grede hesitated with his already-raised hammer.
 
 These Expedition soldiers were damn geniuses. In the chaos of battle, Jace had forgotten that to fight a Netherwing, you had to block the gates! And they'd figured it out on their own.
 
-Yes. If they didn't block these void gates, the Netherwing was nearly invincible... and the same went for Zuluhed, who shared a "soul link" with her!
+Yes. If they didn't block these void gates, the Netherwing was nearly invincible... and the same went for Zuluhed, who shared a "Soul Link" with her!
 
 He couldn't shift his focus. A moment's excitement nearly ruined his efforts to disrupt Zuluhed's spell.
 
 But Zuluhed's emotional disturbance was even worse. He'd heard the paladin's words too. He knew this would seriously impede the Netherwing's growth. It was proof the Expedition had found his Achilles' heel!
 
-"Hold on, Morofel! Jace!"
+"Hold on, Morophil! Jace!"
 
 Vereesa shouted. Including her, three Farstriders acted immediately. Each found a void rift and blocked the connection with their own bodies. The paladin soon moved to a nearby rift as well.
 
@@ -66,9 +66,9 @@ If the Netherwing found an opportunity to shift over and land a tail swipe... th
 
 But the Netherwing was fighting hard enough already. The female demon locked in combat with her had grown so powerful that even Jace was caught off guard. This dark behemoth had no spare attention for anyone else.
 
-Based on her performance back at the top of the Spires of Arak, Morofel should have slowed down considerably after prolonged combat as her mana depleted.
+Based on her performance back at the top of Highmaul, Morophil should have slowed down considerably after prolonged combat as her mana depleted.
 
-But now, after slaughtering several doomguards and demon guards at the Dragonmaw Fortress's heart, wiping out waves of orcs, blocking a powerful infernal golem in the crypt, and viciously cutting down several more Dragonmaw chieftain guards...
+But now, after slaughtering several doomguards and felguards at the heart of Dragonmaw Fortress, wiping out waves of orcs, blocking a powerful infernal golem in the crypt, and viciously cutting down several more Dragonmaw chieftain guards...
 
 After all that fighting, she was still holding her own against this Netherwing. And not by stealth — she was meeting the Netherwing head-on with her blazing Apocalypse blade, hacking at its body...
 
@@ -92,7 +92,7 @@ A dragonkin? This bastard had just completed the ascension ritual on the spot?!
 
 The terrible shadow infusion instantly freed him from all of Jace's restraints. He swung his staff and lunged at Jace. He wasn't as muscular as the dragonkin outside — actually a bit scrawny — but he was far more agile!
 
-The Netherwing was entangled with Morofel. Everyone else was struggling to endure the void gate's torment. Jace was still controlling the room's shadow power, unable to focus...
+The Netherwing was entangled with Morophil. Everyone else was struggling to endure the void gate's torment. Jace was still controlling the room's shadow power, unable to focus...
 
 No choice. He'd have to fight head-on.
 
@@ -104,24 +104,24 @@ The imp shrieked. Jace's throat was quickly seared by fel energy. He kept one ha
 
 But as always, the Netherwing absorbed most of it. The spell barely took effect. The siphoned power dispersed into a cloud of fel fire, burning away part of the Netherwing's energy — which was quickly erased by the remaining void rifts' support...
 
-"Don't think you can stop my Sagrol'kur! Don't think you can destroy the Dragonmaw clan!"
+"Don't think you can stop my Sagrol'ku! Don't think you can destroy the Dragonmaw clan!"
 
 The dragonkin shrieked, lunging forward with staff raised. Jace simply raised Ulthalesh, exposing its blood blade. But Zuluhed's confident expression made Jace sense something wrong.
 
-"I know who you are, Jace Sesso. And I know what you're holding! But the power I rely on is no ordinary thing either!" The demon-like whisper hammered at Jace's mind. Zuluhed let out a dragon-like roar of wild laughter, easily dodging the sweep, swinging his staff straight at Jace's head — only to be blocked by a dark shield.
+"I know who you are, Jace Sesso. And I know what you're holding! But the power I rely on is no ordinary thing either!" The demon-like whisper hammered at Jace's mind. Zuluhed let out a dragon-like roar of wild laughter, easily dodging the sweep, swinging his staff straight at Jace's head — only to be blocked by a Shadow Shield.
 
-"You killed Talongor! And devoured his soul?!"
+"You killed Teron'gor! And devoured his soul?!"
 
-Zuluhed shrieked, slamming against the shadow barrier like a madman. Jace seized the moment to chant a Shadowflame that engulfed the dragonkin's body. But the beast acted as if nothing had happened, dragging the clinging shadow flames as he pressed the attack with his skull staff, finally shattering the dark shield in an explosion. His tall, scaled body only flickered with a magic sheen — the impact barely fazed him!
+Zuluhed shrieked, slamming against the shadow barrier like a madman. Jace seized the moment to chant a Shadowflame that engulfed the dragonkin's body. But the beast acted as if nothing had happened, dragging the clinging Shadowflame as he pressed the attack with his skull staff, finally shattering the Shadow Shield in an explosion. His tall, scaled body only flickered with a magic sheen — the impact barely fazed him!
 
-Zuluhed seemed to sense he'd found Jace's weak point. He laughed triumphantly, pressing his attack with confidence. With an aged orc chieftain's combat skill and a dragonkin's agility and strength, Jace — still channelling the shadow domain — found it even harder to defend.
+Zuluhed seemed to sense he'd found Jace's weak point. He laughed triumphantly, pressing his attack with confidence. With an aged orc chieftain's combat skill and a dragonkin's agility and strength, Jace — still channeling the shadow domain — found it even harder to defend.
 
-And Zuluhed didn't brute-force his way in like Mog'dorg, thinking his weapon was strong enough to face Jace head-on. He knew what Jace was holding. He knew his staff couldn't survive a single exchange with Ulthalesh. So he dodged every sweep of the scythe...
+And Zuluhed didn't brute-force his way in like Mor'ghor, thinking his weapon was strong enough to face Jace head-on. He knew what Jace was holding. He knew his staff couldn't survive a single exchange with Ulthalesh. So he dodged every sweep of the scythe...
 
 It wasn't just hard for Jace to land a hit — magic was the same. The Netherwing was absorbing most of the damage for Zuluhed. Whether it was fire, shadow, or fel energy, the Netherwing's ethereal form siphoned it away.
 
 The others were absorbing shadow energy through the void gates and couldn't help. If the void channels re-established, the Netherwing's and Zuluhed's power growth would spiral out of control again!
 
-Zuluhed fought harder and harder. Jace was gradually losing ground... If he got hurt, Morofel would suffer through the soul link too. And she didn't have a void dragon's shadow body!
+Zuluhed fought harder and harder. Jace was gradually losing ground... If he got hurt, Morophil would suffer through the Soul Link too. And she didn't have a nether dragon's shadow body!
 
 He had to change tactics.

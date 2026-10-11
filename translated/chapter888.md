@@ -2,7 +2,7 @@
 
 After leaving this nameless human settlement and continuing eastward, Somaelir once again carried the group on her back as they set off.
 
-This time, the faint melancholy of leaving Kalimdor behind on the journey home, and the relief of finally being on the return trip, had been largely washed away by Northrend of the necrotic plague.
+This time, the faint melancholy of leaving Kalimdor behind on the journey home, and the relief of finally being on the return trip, had been largely washed away by the necrotic plague of Northrend.
 
 Everyone spoke much less. All of them stared at the far shore, as if this dark disaster could ride the wind into the sea and come straight after Sola.
 
@@ -28,7 +28,7 @@ The difference was that in the dream he could see the Wyrmrest Temple — that g
 
 Just then, Jace noticed Sola also gazing north from a height not far away, in the same direction. He looked at her and asked, "Do you know where we are?"
 
-"The burial grounds of my kind," Sola said. "Perhaps one day I will return here as well, to the Emerald Sanctuary and accept my final destruction."
+"The burial grounds of my kind," Sola said. "Perhaps one day I will return here as well, to the Emerald Dragonshrine, and accept my final destruction."
 
 Like with Grede, Jace often forgot that Sola was a true dragon.
 
@@ -44,7 +44,7 @@ Thinking it over, it wasn't so much of a pity after all.
 
 Seeming to sense Jace's disappointment, Sola added, "You helped the red dragons defeat Deathwing, Jace Sesso, and received the blessing of Queen Alexstrasza. By any measure, you don't fall into either of those two categories I mentioned. I think if you, Vereesa, and Grede wished to go to the Wyrmrest Temple, any dragon who knows the way would be willing to take you. I'm sorry I don't have the ability to do so."
 
-Jace said, "It's all right. I was just curious about what I've heard of the Wyrmrest Temple. For the vast majority of humans, including me, that place might as well be a myth. When you get to Stormwind, you'll have to tell my teacher, Master Marin, all about the legends of the Wyrmrest Temple you heard from Itharius."
+Jace said, "It's all right. I was just curious about what I've heard of the Wyrmrest Temple. For the vast majority of humans, including me, that place might as well be a myth. When you get to Stormwind, you'll have to tell my teacher, Master Malin, all about the legends of the Wyrmrest Temple you heard from Itharius."
 
 As the coastline gradually turned south, after several days the air grew noticeably warmer. The shores shifted from endless white to gradually revealing grasslands and forests.
 
@@ -76,33 +76,14 @@ Jace stretched, carried the fish to the shore, and said, "If you make a warlock 
 
 "Then is there anything else to eat?" Vereesa looked up with a smile, set her cloak aside, and asked as she loosened her straps.
 
-Jace caught glimpses of her midriff and the patterned undersharp beneath, and drew a sharp breath.
+Jace caught glimpses of her midriff and the patterned undershirt beneath, and drew a sharp breath.
 
 Vereesa walked over. The pale skin visible between her chemise, flushed white from the cold, made his heart race even though she was stepping on the icy riverbank stones.
 
-"Aren't you cold, Wen?" he asked.
+"Aren't you cold, Vere?" he asked.
 
 "Cold? In front of you?" Vereesa pushed Jace back against a broken slab of stone jutting from the riverbank. "Besides... I finally got a chance to be alone with you, Jace. I don't want to let it slip by."
 
 "Honestly, it's not completely alone," Jace said, glancing toward a distant branch. "Morophil is right there."
 
 "What a pity. Then let her watch." Vereesa grabbed Jace's wrist and slipped it inside her chemise, slowly closing her eyes with a soft gasp.
-
-## Flags
-- **峡湾** = the Fjord — i.e., Howling Fjord (canonical Northrend zone). Rendered as "the Fjord" since the chapter title is brief.
-- **龙骨荒野** = Dragonblight (canonical Northrend zone).
-- **龙眠神殿** = Wyrmrest Temple (canonical).
-- **伊萨里奥斯** = Itharius (canonical blue dragon).
-- **阿莱克斯塔萨** = Alexstrasza (canonical).
-- **玛里苟斯** = Malygos (canonical).
-- **诺兹多姆** = Nozdormu (canonical).
-- **耐萨里奥** = Neltharion (canonical — Deathwing's true name).
-- **伊瑟拉** = Ysera (canonical).
-- **翡翠圣地** = Emerald Sanctuary (Sola's term for the dragons' afterlife/dreams; distinct from Emerald Dream).
-- **格瑞姆巴托** = Grim Batol (canonical).
-- **魔枢** = the Nexus (Malygos's domain).
-- **嚎风峡湾** = Howling Fjord (canonical).
-- **维库巨人** = vrykul (canonical Northrend giant race).
-- **提瑞斯法林地** = Tirisfal Glades (canonical).
-- **温** = Wen (short form of Vereesa, used as a familiar/intimate address).
-- **利齿青鱼** = barbed pike (fish; descriptive rendering).

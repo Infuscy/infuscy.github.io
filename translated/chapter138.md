@@ -28,7 +28,7 @@ The "Night Baron," after all that commotion, whether from a heavier dose of seda
 
 In short, everything had gone the way the captain wanted. He'd been throwing money around like mad for the past two days — anyone who could help keep things stable on the ship, by any means, got paid, no questions asked. Looked like he'd made a healthy profit hauling the "Night Baron."
 
-Though Jace suspected this job was probably more about the Trade Cartel's reputation in the gladiator-shipping business. The captain's real backers and bosses — the Cartel's owners — wouldn't tolerate any serious slip-up. Captain Nilaz stood at the bow watching the sailors bustle about, preparing to dock, his manner noticeably more relaxed than it had been a few days ago. He probably felt he'd passed the test.
+Though Jace suspected this job was probably more about the Steamwheedle Cartel's reputation in the gladiator-shipping business. The captain's real backers and bosses — the Cartel's owners — wouldn't tolerate any serious slip-up. Captain Nilaz stood at the bow watching the sailors bustle about, preparing to dock, his manner noticeably more relaxed than it had been a few days ago. He probably felt he'd passed the test.
 
 Once the ship was steady, Jace walked out onto the pier and looked at the dense crowds on the road. That old uneasy feeling crept back.
 
@@ -42,7 +42,7 @@ Grede came up beside him. "Looks like we'll be finding another inn. I've got a f
 
 Jace pointed at the crowd outside one of the inn entrances. "Take a look at how packed that is. It's giving me the creeps. Even if we're planning to stay a few days, we should lock in a time now — book ahead if we can. Don't forget, back in Stormwind, you forgot to buy a ticket in advance, and we ended up having to take that goblin ship — and nearly got our guts torn out by a Stranglethorn panther."
 
-Grede shot back, "Oh, and you were any better? Blind as a bat, both of you."
+Grede shot back, "Oh, and you were any better? Blind as bats, the both of us."
 
 Jace sighed. "Which is why I've learned my lesson. Better early than late."
 
@@ -62,7 +62,7 @@ The moment Grede heard it, his thick ears shot straight up.
 
 The two of them looked out at the open ground behind the depot. A massive, grey-white lion-bird creature was lifting its wings, shaking its eagle head impatiently.
 
-A good number of people were leaning on the railers or hanging out of windows, watching the beast's agitated display with amused chatter. The gryphon seemed unsettled by all the staring.
+A good number of people were leaning on the railings or hanging out of windows, watching the beast's agitated display with amused chatter. The gryphon seemed unsettled by all the staring.
 
 This creature was way bigger than Jace had imagined… After all, in the game, even a dwarf riding on a gryphon's back hadn't looked all that much smaller than the bird.
 
@@ -77,10 +77,3 @@ He was nearly rooted to the spot. Goosebumps erupted all over his body.
 Under normal circumstances, he might have wondered about the mage's identity — what rank he held in the Kirin Tor, what magic he wielded, how powerful he was, how long it would take to reach his level… The mage had looked fairly young, after all.
 
 But none of that mattered now, because that gryphon was a thousand times more dazzling than anything he could've imagined!
-
-## Flags
-
-- **洛棍** (Lorder): Jace's wordplay. 法棍 = baguette; he jokes "这应该算个洛棍" = "this should count as a Lorder" (a Lordaeron baguette). Rendered as "this probably counted more as a 'Lorder.'" to preserve the coinage. Flagging as a made-up pun.
-- **蒸汽机车** (steam locomotive): not in glossary. Jace briefly wonders if Lordaeron has steam locomotives; kept as "steam locomotive."
-- Population discussion (70k–100k, 200k post-Scourge): based on game lore Jace is mentally cross-referencing; kept as his internal calculation, not asserted fact.
-- **肯瑞托紫袍** = Kirin Tor purple: Kirin Tor in glossary.

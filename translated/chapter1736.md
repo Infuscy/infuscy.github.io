@@ -6,7 +6,7 @@ They really should have rested well before facing an ancient dragon. But they we
 
 Morning came, and the rain hadn't stopped. But the elder Magatha Grimtotem hadn't broken her promise.
 
-She stood early at the village's eastern gate, wrapped in a thick, light-brown cloak made from some unknown beast hide. Her niece Natila was behind her.
+She stood early at the village's eastern gate, wrapped in a thick, light-brown cloak made from some unknown beast hide. Her niece Nathra was behind her.
 
 Beside them stood several tall tauren in ceremonial garb, their bodies covered in blood-red tattoos. Jace figured that aside from guards, two or three were probably her nephews or even sons — the decorations on their horns, the headbands, and the finely crafted pauldrons and cloaks set them apart from the ordinary attendants.
 
@@ -20,7 +20,7 @@ It made Jace and his group feel awkward about talking too. Jace could tell Grede
 
 Strictly speaking, there was no real path. They were basically picking their way through the swamp, looking for barely solid ground. After the previous night's rain, the difference between hard ground and mud had become nearly indistinguishable. They could only rely on faint hoofprints in the puddles to follow the route others had taken before.
 
-As they went deeper, the swamp occasionally revealed massive skeletons of dragonkin, even black dragons. They were all bigger than Needleflame, about the same size as Sora.
+As they went deeper, the swamp occasionally revealed massive skeletons of dragonkin, even black dragons. They were all bigger than Needleflame, about the same size as Sola.
 
 Ribs and wing bones jutted haphazardly from the hills and streams. From a distance, in the trees, they were hard to tell apart from the dead branches — especially since the bones were all caked with rotting flesh and mud.
 
@@ -28,7 +28,7 @@ When had all these dragons died?
 
 In this swamp, Jace had lost his ability to estimate time of death from the corpses. But he knew that in all of southern Kalimdor, no force could come to the Dustwallow Marsh to fight black dragons and leave them looking like this.
 
-These dead black dragons had probably been killed by Onyxia herself. Based on the rumors Mossa had told him — after the sibling rift, both sides had executed a purge of "traitors" who wanted to serve the other.
+These dead black dragons had probably been killed by Onyxia herself. Based on the rumors Mosa had told him — after the sibling rift, both sides had executed a purge of "traitors" who wanted to serve the other.
 
 But the black dragons killed by Nefarian in Blackrock Spire had at least still had their skin and flesh, just piled up carelessly to rot. Here, the black dragons were nothing but bones.
 
@@ -36,25 +36,25 @@ Onyxia must have fled back to this lair after being wounded at Blackrock Spire, 
 
 These scenes made Jace recall what Krasus had told him. Dragons like Onyxia, once seriously wounded, couldn't just be patched up with a few healing potions. They needed a long recovery period, and during that time, both nutrition and treatment had to be kept up.
 
-"What did Mossa's Grimtotem friend say to you last night?" Grede finally couldn't hold it in anymore and asked.
+"What did Mosa's Grimtotem friend say to you last night?" Grede finally couldn't hold it in anymore and asked.
 
 "She wants me to stop it." Jace looked at the fading white figure of Magatha Grimtotem on the road ahead, keeping his voice as low as possible. "Stop her from becoming a dragonkin."
 
 "I don't get it." Grede grumbled. "Don't they want more power? I figure any dragonkin could probably take a tauren in a fight."
 
-"But it means becoming our slave." Sora whispered. "Most mortals can't accept that."
+"But it means becoming our slave." Sola whispered. "Most mortals can't accept that."
 
 "She's the leader of the Grimtotem. If even she's accepted it, what good does her niece's opinion do?" Grede practically breathed the words.
 
 "I don't think Magatha herself knows the real cost of this power." Jace said.
 
-"It's not unusual for black dragons to trick mortals into becoming dragonkin to serve them." Sora said.
+"It's not unusual for black dragons to trick mortals into becoming dragonkin to serve them." Sola said.
 
 "Are we going to help her?" Vereesa asked.
 
 "The problem is we don't know how." Jace said.
 
-Sora shook her head too. She wasn't fully adult yet, and she wasn't a black dragon. Not knowing was normal.
+Sola shook her head too. She wasn't fully adult yet, and she wasn't a black dragon. Not knowing was normal.
 
 "Do you know?" Jace looked at Needleflame.
 
@@ -66,17 +66,17 @@ Sora shook her head too. She wasn't fully adult yet, and she wasn't a black drag
 
 "Whatever you say..."
 
-Jace was mid-sentence when he noticed Natila ahead, following behind the Grimtotem matriarch, glance back at them. When she caught Jace's eye, she quickly turned away.
+Jace was mid-sentence when he noticed Nathra ahead, following behind the Grimtotem matriarch, glance back at them. When she caught Jace's eye, she quickly turned away.
 
 Now that she'd gradually come to understand what Jace Sesso and his group were capable of, it seemed she was putting all her hopes on them too.
 
 But originally, Jace had only demonstrated a bit of magic and spun some tall tales to her and her aunt — just to make them believe Jace's group had a way to deal with the black dragon, so she'd willingly lead them through the fog to meet Onyxia. He'd never actually planned to help the Grimtotem with anything.
 
-"What do you think, Mossa?" Jace asked. "Should we help the Grimtotem?"
+"What do you think, Mosa?" Jace asked. "Should we help the Grimtotem?"
 
-"I don't care about Magatha Grimtotem's fate." Mossa looked at the tauren ahead. "But I think at least Natila shouldn't be turned into a dragonkin. If Magatha insists on turning the whole tribe into those purple-blooded monsters, I'll find a way to get her out. She's harsh. I know. But she's actually a very kind person."
+"I don't care about Magatha Grimtotem's fate." Mosa looked at the tauren ahead. "But I think at least Nathra shouldn't be turned into a dragonkin. If Magatha insists on turning the whole tribe into those purple-blooded monsters, I'll find a way to get her out. She's harsh. I know. But she's actually a very kind person."
 
-"I know, Mossa." Jace said.
+"I know, Mosa." Jace said.
 
 The forest on both sides of the "road" grew sparser. Gradually, there wasn't a single tree in sight — only broken stumps remaining in the ground.
 
@@ -92,14 +92,14 @@ But what appeared wasn't from the sides — it was from directly ahead. At first
 
 A dragon's skull, massive as a small hill!
 
-Grede immediately grabbed the hammer Saffron's handle behind his back, his breath catching in his throat like he was about to roar. But he quickly realized, along with everyone else... this wasn't *like* a small hill. It *was* a small hill. Paired with the pitch-black cave beneath it, it really did look like a massive dragon crouched in the marsh's heart, its abyssal maw gaping to swallow every adventurer who arrived here.
+Grede immediately grabbed the handle of Sulfuras behind his back, his breath catching in his throat like he was about to roar. But he quickly realized, along with everyone else... this wasn't *like* a small hill. It *was* a small hill. Paired with the pitch-black cave beneath it, it really did look like a massive dragon crouched in the marsh's heart, its abyssal maw gaping to swallow every adventurer who arrived here.
 
 The ground beneath their feet grew firmer and harder, until the road leading to the cave became gray stone, layered step after step — whether solidified lava or deliberately carved stairs.
 
-Magatha Grimtotem stopped before the gray stone path. Straightening herself, she looked up at the entrance high above and called out something in Tauren, finally shouting Onyxia's name.
+Magatha Grimtotem stopped before the gray stone path. Straightening herself, she looked up at the entrance high above and called out something in Taur-ahe, finally shouting Onyxia's name.
 
-Her voice echoed through the cave and fog for a moment. Then, accompanied by the scraping of armor and scales, a blurry figure appeared at the entrance. At a glance, it looked like a massive whelp.
+Her voice echoed through the cave and fog for a moment. Then, accompanied by the scraping of armor and scales, a blurry figure appeared at the entrance. At a glance, it looked like a massive drake.
 
-But after it lingered long enough for them to make out its outline, Jace realized this was a dragonkin guard as large as Vemonsathrac.
+But after it lingered long enough for them to make out its outline, Jace realized this was a dragonkin guard as large as Wyrmthalak.
 
-"The Mother permits you to enter." The dragonkin's draconic was clear and sharp.
+"The Mother permits you to enter." The dragonkin's Draconic was clear and sharp.

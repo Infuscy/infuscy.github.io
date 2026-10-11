@@ -6,7 +6,7 @@ Two unstoppable energies collided -- the roar of blazing fire and the howl of so
 
 Ragnaros murmured as he braced himself with one arm, but only glanced briefly in Jace's direction.
 
-It was clear he could not tolerate the dwarf who had shattered his hold with that fake Sulfuras continuing to live. He was determined to kill him.
+It was clear he could not tolerate the dwarf who had shattered his bracer with that fake Sulfuras continuing to live. He was determined to kill him.
 
 But Grede couldn't hold out much longer. The scattered souls and shadows throughout the space were no longer enough for Jace to raise a second Hand of Gul'dan capable of blocking the Firelord's strike.
 
@@ -20,7 +20,7 @@ With that thought, Jace took a deep breath and spoke in a low voice.
 
 "It was I who stole the prison of Thunderaan from Baron Geddon."
 
-"It was I who retrieved Neptulon's Eternal Essence."
+"It was I who retrieved Neptulon's Eternal Quintessence."
 
 "It was I who orchestrated the assassination of Executus. I who controlled the Twilight's Hammer's leader. I who convinced Dagran Thaurissan. I who destroyed your protection runes, one by one."
 
@@ -36,7 +36,7 @@ The Firelord knew everything happening in the Molten Core at this moment. He cou
 
 Boom!
 
-Another rune was shattered by the gryphon knights and dwarven mages, but Ragnaros remained utterly unmoved.
+Another bracer was shattered by the gryphon riders and dwarven mages, but Ragnaros remained utterly unmoved.
 
 "You killed Neltharion. Well done, mortal."
 
@@ -76,11 +76,9 @@ But he was alive.
 
 "Again, Ragnaros!" Jace shouted, raising Ulthalesh. Only then did he notice the imp beside him had collapsed -- the power absorbed by that last Blood Pact had blasted it unconscious.
 
-*Sora, I need a blessing... any blessing you can give. Vaelastrasz! I'm counting on you--*
+*Sola, I need a blessing... any blessing you can give. Vaelastrasz! I'm counting on you--*
 
---
-
-Sora's sharp cry was crystal clear, but he didn't know if the green dragon could hear him. However, as Sora's natural magic took hold, a frigid whirlwind swirled around him, and a shield of flame wrapped itself around him -- that must be the red dragon's magic.
+Sola's sharp cry was crystal clear, but he didn't know if the green dragon could hear him. However, as Sola's natural magic took hold, a frigid whirlwind swirled around him, and a shield of flame wrapped itself around him -- that must be the red dragon's magic.
 
 With the magical protection of two dragons as his trump card, Jace took another deep breath, activated the Talisman of Ephemeral Power, and a surge of incredibly sharp perception instantly dispelled the mental shock from that last hammer blow.
 
@@ -88,25 +86,25 @@ He watched the raised Sulfuras, lifted his staff high, and raised a second Shado
 
 Now the Mountain Kings were spent. The others definitely couldn't hold out. It was his turn -- the warlock's.
 
-"e..."
+"Ugh..."
 
 Ragnaros's second hammer fell with a thunderous crash, shattering the Shadow Shield and slamming into the red dragon's fire shield. Jace felt as though the blow had landed directly on his head. His Mage Armor shattered on the spot. Vaelastrasz's hide tore open. His vision went black, and a searing hot stream erupted from his mouth.
 
-Vaelastrasz let out a pained cry. Sora tumbled down, nearly rolling straight into the nearby lava river. Even Morophil was knocked to her knees, coughing blood nonstop. Jace knew they had given everything to protect him, but the damage mitigation chain only went so far.
+Vaelastrasz let out a pained cry. Sola tumbled down, nearly rolling straight into the nearby lava river. Even Morophil was knocked to her knees, coughing blood nonstop. Jace knew they had given everything to protect him, but the damage mitigation chain only went so far.
 
 Suddenly, Ragnaros bellowed again. Under the dispersing rainbow light, the Sulfuras he had just raised lowered once more.
 
-Under the sustained bombardment of gryphon knights and dwarven mages, Vereesa's arrow shattered the third--gone.
+Under the sustained bombardment of gryphon riders and dwarven mages, Vereesa's arrow shattered the third bracer.
 
 Ragnaros seemed not to care at all, as if he would destroy Jace no matter what. He roared and blasted out a massive shockwave, sending everyone nearby flying. Without the red dragon's protection, Vereesa -- who had been trying to rush over and pull Jace away -- was thrown outward by the blast. Morophil was helplessly flung away too. Jace rolled several times before collapsing to the ground.
 
 Ragnaros had no intention of letting him go.
 
-Sulfuras rose again. Jace thought he heard Sora calling his name from far behind him, felt the tremor through the soul link.
+Sulfuras rose again. Jace thought he heard Sola calling his name from far behind him, felt the tremor through the Soul Link.
 
 He didn't know if he could force himself to cast a Shadowstep, barely dodging the direct strike, barely surviving.
 
-Only one broken one remained.
+Only one cracked bracer remained.
 
 After the last shockwave passed, not many gryphons could still fly through the flames. The surviving dwarves on the ground were also forced to find whatever cover they could.
 
@@ -118,7 +116,7 @@ Suddenly, an unusual surge of fury erupted from the side.
 
 "Jace Sesso!"
 
-Needleflame's screech and Grede's incomprehensible roar pulled close, overwhelming even the thunderous crash of Sulfuras's descent. The Sulfuron Hammer, empowered by a flash of silver light, slammed heavily into the last vambrace of Ragnaros's descending arm!
+Needleflame's screech and Grede's incomprehensible roar pulled close, overwhelming even the thunderous crash of Sulfuras's descent. The Sulfuron Hammer, empowered by a flash of silver light, slammed heavily into the last bracer on Ragnaros's descending arm!
 
 The shattering crack nearly slammed into Jace's chest. It was broken!
 

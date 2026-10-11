@@ -16,15 +16,15 @@ Stormwind City had been directly conquered and occupied by the Horde before. Kil
 
 When Nefarian's head -- symbolizing the Horde's complete defeat -- was hung upon the walls of Stormwind City, the sweetness of vengeance naturally arrived first, spinning like a red storm. But then came the longing for the departed. Grey, bitter, astringent.
 
-These emotions grew clearer and more concrete in Jace's perception. They almost overwhelmed him, overpowering his observations of reality -- or the surface of things. The soul power he'd taken from Nefarian was far too strong. This growth in power and perception was more concrete and real than what he'd drawn from the Tome of Noxious Names.
+These emotions grew clearer and more concrete in Jace's perception. They almost overwhelmed him, overpowering his observations of reality -- or the surface of things. The soul power he'd taken from Nefarian was far too strong. This growth in power and perception was more concrete and real than what he'd drawn from the Book of Fel Names.
 
-After all, the power from the Tome of Noxious Names had been based on that grimoire and its runes. But this time was completely different. Ursales and its master had nearly fused together -- soul, flesh, and bone. Even if Jace deliberately suppressed its power, he couldn't change the fact that his strength had surged.
+After all, the power from the Book of Fel Names had been based on that grimoire and its runes. But this time was completely different. Ulthalesh and its master had nearly fused together -- soul, flesh, and bone. Even if Jace deliberately suppressed its power, he couldn't change the fact that his strength had surged.
 
 The devastating clash with Sargeras's scepter had destroyed most of its magic. But it was still the void artifact that even Kil'jaeden and Sargeras feared.
 
 At this moment, Jace felt he could easily manipulate these shadows. A desire welled up inside him, urging him to reach out and stir these emotions like ink in a pool of water.
 
-And he knew these complex, chaotic emotions wouldn't really melt into the air like uncontrollable ink. They would change according to his will, becoming part of his power -- just like when he used the ritual of the Soul's Song against Nefarian in Blackrock Spire.
+And he knew these complex, chaotic emotions wouldn't really melt into the air like uncontrollable ink. They would change according to his will, becoming part of his power -- just like when he used the Soul Well ritual against Nefarian in Blackrock Spire.
 
 Those feelings of longing could easily be dyed black, turned into increasingly scorching pain. Continue pouring mana into them, and the pain could take physical form -- a terrible curse gnawing at organs and corroding bone and muscle. The Curse of Agony. Far more powerful than the Curse of Agony ordinary warlocks could drive with demonic incantations.
 
@@ -38,19 +38,19 @@ Jace looked up at the sky. The thick grey clouds were like sick fish skin covere
 
 At this moment, this overwhelming sense of control stirred a hint of unease in his heart. He couldn't help touching the Chain of Will around his neck. This piece of truesilver was now colder than the rain itself. That meant no external force was manipulating his consciousness or spirit. It also meant there was no convenient scapegoat to blame.
 
-If he already had this kind of perception and power now, what would happen with the Soul's Song's blessing?
+If he already had this kind of perception and power now, what would happen with the Spirit's Song's blessing?
 
 He'd thought about this more than once over the past two days. Now, looking at the purple Ata'mal Crystal fragment in his hand, he couldn't help letting his mind wander even more.
 
-Prophet Velen and the other Draenei hadn't given him any hints about how to use the Soul's Song. In the previous battle at Blackrock Spire, he hadn't learned anything related to the Soul's Song from Nefarian either.
+Prophet Velen and the other draenei hadn't given him any hints about how to use the Spirit's Song. In the previous battle at Blackrock Spire, he hadn't learned anything related to the Spirit's Song from Nefarian either.
 
-It just lay quietly in his hand. If he looked at it as a purple gemstone, it might even seem a bit cheap and ordinary at this point -- like a piece of dark glass. Especially with the Tear of Neltharion sitting beside it, the Soul's Song looked even more unimpressive in comparison.
+It just lay quietly in his hand. If he looked at it as a purple gemstone, it might even seem a bit cheap and ordinary at this point -- like a piece of dark glass. Especially with Neltharion's Tear sitting beside it, the Spirit's Song looked even more unimpressive in comparison.
 
 But Jace just couldn't tear his eyes away. On one hand, it truly contained extraordinary power. On the other, Velen's prophecy and the meaning of this gift were things he couldn't quite wrap his head around.
 
 But in the end, he did nothing. He neither manipulated the shadows lingering around him nor stirred them in the slightest.
 
-He didn't try to explore the depths of the Soul's Song's power either. He just held it in his hand and looked at it.
+He didn't try to explore the depths of the Spirit's Song's power either. He just held it in his hand and looked at it.
 
 *You must control the shadow, Jace Sesso. Not let the shadow control you.*
 

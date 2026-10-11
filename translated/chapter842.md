@@ -40,7 +40,7 @@ They hadn't rested all night — not just because this was owlbeast territory, b
 
 "I don't know," Sola said. "But not many demons would dare approach Mount Hyjal anymore."
 
-"We found a demon who'd been to Mount Hyjal in Dire Maul, Miss Sola," Vereesa said. "Her name was Dathremor. She was an Ered'ruin. Have you heard of her?"
+"We found a demon who'd been to Mount Hyjal in Dire Maul, Miss Sola," Vereesa said. "Her name was Dasmora. She was an Ered'ruin. Have you heard of her?"
 
 "Ered'ruin?" Sola said, somewhat surprised. "How dare she appear near Mount Hyjal? What was she doing there?"
 
@@ -48,7 +48,7 @@ They hadn't rested all night — not just because this was owlbeast territory, b
 
 "I also appeared near Mount Hyjal," Morophil said. "I even passed right under it. Though I'll admit, if Master hadn't insisted on taking me through there, I'd rather have had my fel blood drained and been thrown back into the Twisting Nether than pass by there again. Mount Hyjal isn't a forbidden zone that demons cannot set foot in. As long as the temptation outweighs the risk, a demon could very well venture deep here."
 
-"What kind of demon do you think could have provoked these owlbeasts?" Vereesa asked. "Could it have anything to do with Dathremor?"
+"What kind of demon do you think could have provoked these owlbeasts?" Vereesa asked. "Could it have anything to do with Dasmora?"
 
 Morophil said, "I can't tell. Perhaps a powerful succubus, or Nathrezim, though that's unlikely. As for Ered'ruin, they probably wouldn't have the patience to corrupt a whole species by such an intricate method. They'd prefer to annihilate this place outright with Shadow Bolts or fel fire."
 
@@ -58,9 +58,9 @@ Hearing the name "satyr," Sola visibly frowned.
 
 Grede laughed and said, "If it's really a satyr, then there's nothing to fear. I could take five or six of those demons by myself! Have you forgotten, Jace, in Maraudon?"
 
-Vereesa and Morophil exchanged a glance. They surely still remembered that terrifying satyr lord deep in Maraudon, Vilethorn, who could practically ignore Shadow magic.
+Vereesa and Morophil exchanged a glance. They surely still remembered that terrifying satyr lord deep in Maraudon, Vyletongue, who could practically ignore Shadow magic.
 
-Even though he was dead and the power of his sigils had already been transferred to Morophil, the difficulty they'd had fighting Vilethorn back then was still fresh in Jace's memory.
+Even though he was dead and the power of his sigils had already been transferred to Morophil, the difficulty they'd had fighting Vyletongue back then was still fresh in Jace's memory.
 
 Seeing that everyone still had a lingering fear of that satyr, Grede put away his smile and continued forward.
 
@@ -70,7 +70,7 @@ Jace was just about to go reassure him when Morophil suddenly turned back and po
 
 The succubus charged swiftly through the forest on her hooves, as nimble as a blood-red deer. Behind her, everyone except Vereesa lumbered after her like a pack of starving, weak black bears and clumsy wolves.
 
-Catching up to Morophil, Jace caught his breath, clutched his still-unrecovered waist, and gritted his teeth — then saw a massive grey-white shape lying before him.
+Catching up to Morophil, Jace caught his breath, clutched his still-aching side, and gritted his teeth — then saw a massive grey-white shape lying before him.
 
 It was the corpse of an owlbeast. It seemed even larger than the one that had attacked Jace last night — or perhaps it just looked bloated from lying there dead, blanketed in snow. Its head, compared to its body, was like a tiny parrot's head stuck onto a bear. But its absolute size was still terrifying — at least far larger than an ogre's head. Not to mention the elk-like antlers atop its head, which, though shattered, could still be called "magnificent."
 
@@ -91,17 +91,3 @@ Morophil reached her hand into the hole, scooped out a lump of something — unc
 "Or maybe not severe enough. Not enough to fit in," Jace said.
 
 Everyone looked at Jace with rather complicated expressions. Then Morophil suddenly said, "I can sense the trail of the demon that infected it. Follow me."
-
-## Flags
-
-- **枭兽 = owlbeast** — canonical WoW creature (not in glossary).
-- **冬泉谷 = Winterspring** — canonical zone (not in glossary).
-- **海加尔山 = Mount Hyjal** — canonical location (not in glossary).
-- **达斯莫拉 = Dathremor** — demon in Dire Maul (not in glossary; chapter 830 used "Dathremor," chapter 771 used "Dathmor" — flagged for consistency review).
-- **埃雷杜因 = Ered'ruin** — canonical demon type (not in glossary).
-- **维利塔恩 = Vilethorn** — satyr lord in Maraudon (not in glossary; per chapter 749).
-- **玛拉顿 = Maraudon** — canonical dungeon (not in glossary).
-- **纳斯雷兹姆 = Nathrezim** — canonical dreadlord race (per glossary).
-- **萨特 = satyr** — canonical demon type (not in glossary).
-- **莫萨 = Mosa** — tauren druid companion (not in glossary).
-- **Blade of Eternal Darkness = 无尽黑暗之刃** — Morophil's dagger (not in glossary).

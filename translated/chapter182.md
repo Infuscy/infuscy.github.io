@@ -18,7 +18,7 @@ Jace glanced at the dwarf. "The Mage Quarter streets aren't normally open to the
 
 "Then what do we do?" Grede asked in a low voice. "Are the Kirin Tor going to come arrest you?"
 
-"Probably not to that point yet," Jace said. "Honestly, what I'm more worried about right now is that Orcish-language meeting last night. They might connect that command I mentioned to the whole theft."
+"Probably not to that point yet," Jace said. "Honestly, what I'm more worried about right now is that Orcish symposium last night. They might connect that command I mentioned to the whole theft."
 
 "There's a more pressing problem, which is that I told a lie at the meeting… I said I'd found that orc warlock in Deadwind Pass, and that I'd found him on my own. So you've got to say you had nothing to do with any of it. If anyone tracks you down and asks about that command, you have to say you know nothing."
 
@@ -34,7 +34,7 @@ One lie takes countless lies to cover — and that was no empty saying. He was a
 
 "Hah, you little bastard," Grede said with a triumphant laugh, pointing at Jace. "I'll keep your secret — but if we sell that letter, you're giving me a bigger cut. And you're buying me a drink."
 
-Jace said, "No idea if we'll even get the chance to sell it. But if we do, forty-six split? I take forty."
+Jace said, "No idea if we'll even get the chance to sell it. But if we do, a forty-sixty split? I take the forty."
 
 "Not bad. But the drink — that's the important part."
 
@@ -70,7 +70,7 @@ Once it was off, the herbalist looked it over a couple of times and said, "This�
 
 "We used some of our own medicine on him," Grede cut in.
 
-"That explains it," the herbalist said. "Well, I don't know much much about dwarven remedies, but it's healing nicely. I can give you some medicine and hemostatic bandages — you can go home and recover. There are no spare beds here for anyone who can still stand. Do you want to heal fast, or take it slow?"
+"That explains it," the herbalist said. "Well, I don't know much about dwarven remedies, but it's healing nicely. I can give you some medicine and hemostatic bandages — you can go home and recover. There are no spare beds here for anyone who can still stand. Do you want to heal fast, or take it slow?"
 
 "Fast," Grede said.
 
@@ -80,9 +80,9 @@ Jace nodded.
 
 When Jace heard the absurd timeline of a week, he immediately suspected the price was going to be brutal.
 
-Sure enough, the two of them paid fifteen silver for a bit of Living Root-based wound powder and a pile of enchanted bandages, and walked back out the front door.
+Sure enough, the two of them paid fifteen silver for a bit of Liferoot-based wound powder and a pile of enchanted bandages, and walked back out the front door.
 
-"This time I really bled for it. Living Root's gotten too expensive," Grede muttered. "You need to change out that gold coin. If you don't, we won't have the money to get to Durnholde."
+"This time I really bled for it. Liferoot's gotten too expensive," Grede muttered. "You need to change out that gold coin. If you don't, we won't have the money to get to Durnholde."
 
 Jace sighed. "Then let's go. There's an old dwarven saying…"
 
@@ -100,20 +100,10 @@ He glanced toward the distant snowy mountains and said, "We're right by the Alte
 
 "We are," Jace said.
 
-"Then once we reach Alterac City, could we spend a few days foraging for herbs in the mountains? Remember what the alchemy shop owner in Stormwind said? Living Root's real common in the Alterac Mountains."
+"Then once we reach Alterac City, could we spend a few days foraging for herbs in the mountains? Remember what the alchemy shop owner in Stormwind said? Liferoot's real common in the Alterac Mountains."
 
 "But we're both banged up right now — how would we even manage that?" Jace said. "And if we set out now, it'd still take at least two days to reach Alterac City. No telling what could go wrong along the way. By the time we got there, Winter Veil season would've already started. Then we still need to get to Durnholde, and from Durnholde to the Hinterlands — that's practically a whole week. And we can't forget we've got to come back…"
 
 "What could possibly go wrong? It's just crossing a snowy mountain!" Grede said, displeased.
 
 "Don't even start," Jace said. "You're going to give me a heart attack."
-
-## Flags
-
-- **逆风小径** → Deadwind Pass. Not in the glossary; canonical WoW zone (where Karazhan sits).
-- **敦霍尔德** → Durnholde. Not in the glossary; the orc internment hold in the Hinterlands.
-- **冬幕节** → Winter Veil. Not in the glossary; the WoW winter holiday.
-- **奥特兰克城** → Alterac City. Alterac Mountains is in the glossary, but the city itself is not.
-- **南艾尔文** → Southshire. Not in the glossary; counterpart to Northshire (北艾尔文) in Elwynn Forest.
-- **卡罗·杜尚** → Caro Dushan. In the glossary as "orcish-language teacher at the Wizard Sanctum." Rendered as "Master Dushan" in dialogue.
-- **活根草** → Living Root. In the glossary; kept as-is.

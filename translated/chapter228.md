@@ -18,7 +18,7 @@ Without the triple protection of the Shadow Protection Potion, Mage Armor, and h
 
 The gnoll necromancer laughed even more wildly. It guided another Shadow Bolt with its staff, but this time Jace dodged it easily.
 
-Seeing another Shadow Bolt streaking toward him, unable to dodge in time, he raised his staff and shattered it head-on. The shadow energy met Hakim's staff and was swallowed whole, vanishing into the tattered, dark-yellow wrappings.
+Seeing another Shadow Bolt streaking toward him, unable to dodge in time, he raised his staff and shattered it head-on. The shadow energy met the Staff of Teron'gor and was swallowed whole, vanishing into the tattered, dark-yellow wrappings.
 
 That shadow gem… the necromancer was taken aback, and even Jace was a little surprised — but the other immediately began casting another spell. Jace heard it clearly and found it very familiar, something like Curse of Agony.
 
@@ -28,7 +28,7 @@ Finally it's being put to proper use!
 
 Jace closed the distance in quick strides. The moment the other finished the incantation, he felt as if ants were crawling all over his body — but if the Shadow Protection Potion hadn't been working, it wouldn't have been as simple as a skin itch.
 
-Even Sulenna, who never studied seriously, had been able to torment him half to death with her Curse of Agony — let alone this undead gnoll mage!
+Even Surena, who never studied seriously, had been able to torment him half to death with her Curse of Agony — let alone this undead gnoll mage!
 
 The curse didn't slow Jace down one bit. He charged right up to the gnoll and thrust his staff forward — but the bastard ducked its head with sharp reflexes and dodged!
 
@@ -38,7 +38,9 @@ The necromancer pulled out a slender dagger and stabbed viciously at Jace's wais
 
 But Jace only flashed a wince through his mind — his reaction didn't lag one bit. As he dodged, his other hand drove his sword hard into the thing's cheek. Jace put his full strength into the thrust, nearly piercing clean through the gnoll's massive skull.
 
-The necromancer shuddered twice, clutched the sword hilt sticking out of its head, and backed up two steps. "I am eternal… I am blessed…" Jace swung the staff with both hands and brought it down with full force, smashing its skull to pieces. The necromancer's skin rapidly turned black and toppled to the ground like a heap of black dung, giving off a foul stench that stirred up unpleasant memories.
+The necromancer shuddered twice, clutched the sword hilt sticking out of its head, and backed up two steps. "I am eternal… I am blessed…"
+
+Jace swung the staff with both hands and brought it down with full force, smashing its skull to pieces. The necromancer's skin rapidly turned black and toppled to the ground like a heap of black dung, giving off a foul stench that stirred up unpleasant memories.
 
 "Come help, master! That dwarf's done for! I'm out of mana!"
 
@@ -70,7 +72,7 @@ The corpse gripped a long blade and a short blade and advanced at an angle, its 
 
 Against this kind of reanimated lunatic, Curse of Weakness and Fear were obviously useless.
 
-Liyousa!
+Liyouisa!
 
 A burst of arcane light flared between the undead and the warlock. The gnoll hesitated for a moment — and a longsword was already driven diagonally into its forehead.
 
@@ -107,15 +109,3 @@ He climbed to his feet and looked into the clearing smoke. "Grede?"
 "Where'd he get a bomb, damn it!" Grede muttered. "He absolutely cannot get away!"
 
 Jace said, "Then we chase!"
-
-## Flags
-
-- The undead gnoll necromancer speaks with intelligence and mocks Jace — far from a mindless monster, it's a genuinely dangerous caster.
-- Hakim's staff (the "Blood Demon's staff") reveals a new property: it absorbs shadow energy, shattering a Shadow Bolt on contact — both Jace and the necromancer are caught off guard.
-- Shadow Protection Potion proves critical again — the necromancer's Curse of Agony is reduced to mild itching, validating Jace's potion-brewing efforts.
-- Hogger shows unexpected shadow resistance — Curse of Weakness barely affects him, likely from a ward placed by the necromancer.
-- Grede's shield is deformed from blocking Hogger's club — the dwarf is being pushed to his physical limits.
-- Hogger fights with one arm and still smashes his own club through the ground, then calmly switches to a cleaver — his combat instincts are terrifying.
-- Hogger throws a bomb — a shocking and desperate tactic that catches both Jace and Grede off guard.
-- Mage Armor's real-world effectiveness is dramatically demonstrated: the explosion sends Jace rolling but causes almost nothing more than a bruise, far beyond game-mechanic expectations.
-- Hogger flees into the dark forest — the hunt continues.

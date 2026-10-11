@@ -1,6 +1,6 @@
 ## Chapter 146: The Hunt!
 
-Jace was starting to regret that rest break he'd taken halfway up. If he'd just toughened it up and kept going, he wouldn't have lost track of Grede.
+Jace was starting to regret that rest break he'd taken halfway up. If he'd just toughed it out and kept going, he wouldn't have lost track of Grede.
 
 But the bastard had basically lost his mind entirely — he'd been running the whole way like a startled rabbit, and the slightest delay meant falling way behind.
 
@@ -64,13 +64,13 @@ The dragon howled in agony and shuddered violently, shaking its head like mad, w
 
 Hold on…
 
-Jace burst from the wall, raised his staff high, and shouted at the dragon — "Anuniji, Durazala, Kana!"
+Jace burst from the wall, raised his staff high, and shouted at the dragon — "Anuniji, Durzala, Kana!"
 
 His voice was completely drowned out by the dragon's roars, but all that mattered was that the shadow energy coiling around them could hear.
 
 He didn't know if the Curse of Weakness had taken hold, but one of the dragon's claws suddenly loosened mid-shake, sliding down a good stretch — and that set off a chain reaction that brought down a huge section of the sentry tower's wall. The dragon couldn't hold on anymore. It crashed to the ground along with a cascade of broken bricks and rubble.
 
-Jace leaped aside to dodge the flying stone and dust. The dragon collapsed against the broken wall, thrashing for a moment, trying to get back up. A nasty gash had opened across its head, and the purple-black fel blood pouring from it stained its whole neck.
+Jace leaped aside to dodge the flying stone and dust. The dragon collapsed against the broken wall, thrashing for a moment, trying to get back up. A nasty gash had opened across its head, and the purple-black blood pouring from it stained its whole neck.
 
 "The dragon is down! Everyone with me! Kill it and save our dwarf brother! We'll mount its head in the town — defenders of Hillsbrad!"
 
@@ -132,7 +132,7 @@ Jace was out of options. He didn't know any healing spells. Was he just going to
 
 The method was this — kill the dragon fast, so Grede could get treatment as soon as possible.
 
-He flipped open his spellbook to the Life Drain entry and read through it silently once.
+He flipped open his spellbook to the Drain Life entry and read through it silently once.
 
 With Arcane Intellect active, he didn't need to go over it too many times.
 
@@ -193,15 +193,3 @@ He looked down dazedly and saw a crowd of Lordaeron soldiers rush in to hold him
 "That's a Stormwind Mage Guild ring!"
 
 "I don't care where he's from — you think I'm trying to get into the Kirin Tor? Move your ass, now!"
-
-## Flags
-
-- **卡教莫丹** → "Khaz Modan": Grede's battle cry. The glossary lists 卡多雷 = Kaldorei but not this phrase; "Khaz Modan" is the canonical dwarven homeland and standard battle cry. Flagged as a glossary addition.
-- **岌雷闷** → rendered as "a thunderstrike" (a lightning-charged hammer blow). The exact term is unclear; flagged.
-- **引箭手** → "Archers" (source almost certainly 弓手 with a typo 引). Flagged.
-- **Incantations** — "Anuniji, Durazala, Kana!" (Curse of Weakness) and "Elamun, Silondor!" (Life Drain): kept as romanized verbal components, consistent with the glossary's treatment of spell incantations (e.g., 利尤萨).
-- **南海镇** → "Southshore": canonical WoW town in Hillsbrad/Alterac. Not in the glossary's places table; flagged for addition.
-- **奥特兰克山** → "Alterac Mountains" (glossary has it).
-- **希尔斯布莱德** → "Hillsbrad": canonical region. Not in glossary places table; flagged.
-- **暴风王国法师公会** → "Stormwind Mage Guild": Jace's ring. Flagged as a glossary addition.
-- **长棍** → "long staff" (glossary: Long Staff / Pole).

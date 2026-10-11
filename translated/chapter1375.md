@@ -2,19 +2,19 @@
 
 "No... master..."
 
-Morofel looked this way, but her words grew thinner and paler, impossible to make out no matter what. At the same time, Jace found it hard to breathe, his consciousness growing dizzy...
+Morophil looked this way, but her words grew thinner and paler, impossible to make out no matter what. At the same time, Jace found it hard to breathe, his consciousness growing dizzy...
 
 Murmur was drawing on the power of the air. It was about to use all its remaining strength to destroy everything before it.
 
-Many orc warlocks scrambled to their feet, trying to chant spells and attack Murmur. But a single shriek was enough to sever their connection to shadow and fel energy entirely. Even the lucky few who managed to fire off shadow bolts found them vanishing into the sound elemental lord's body like stones dropped into the sea.
+Many orc warlocks scrambled to their feet, trying to chant spells and attack Murmur. But a single shriek was enough to sever their connection to shadow and fel energy entirely. Even the lucky few who managed to fire off Shadow Bolts found them vanishing into the sound elemental lord's body like stones dropped into the sea.
 
-Magic was useless. Arrows and bolts were even more powerless. Morofel, wielding her twin apocalypse blades, could find no purchase. Just getting close to Murmur's rumbling mass was an ordeal.
+Magic was useless. Arrows and bolts were even more powerless. Morophil, wielding her twin Apocalypse blades, could find no purchase. Just getting close to Murmur's rumbling mass was an ordeal.
 
 A dull roar from Sabellian cut through the Screaming Hall as it approached a vacuum. He raised both hands, gathering a mass of pitch-black demonic flame and hurling it straight into Murmur's body. It shot up along its rotating currents and sonics to the very top, staining the silver-white fiend a brownish-red hue.
 
 Murmur casually shook off the flames, as though they'd had no effect at all. The next instant, it swung its staff at Sabellian!
 
-The sonic blast from the staff's impact threw everything nearby backward. Morofel was knocked back who knew how many steps before she could steady herself.
+The sonic blast from the staff's impact threw everything nearby backward. Morophil was knocked back who knew how many steps before she could steady herself.
 
 Other orcs were shattered outright, reduced to heaps of gore-stained clothing spinning through the air. Then Jace was slammed into the wall, hitting it hard.
 
@@ -42,7 +42,7 @@ But Jace did it easily. He could immediately feel what emotions the creator had 
 
 Because that creator was Teron Gorefiend.
 
-Between the brilliant circular chamber, countless orcs lay dead, fleeing, screaming. The howling wind let out deafening roars. In the distance, the younger Vopiel was already dead. And he would walk to the front to complete this unfinished ritual.
+Between the brilliant circular chamber, countless orcs lay dead, fleeing, screaming. The howling wind let out deafening roars. In the distance, the younger Vorpil was already dead. And he would walk to the front to complete this unfinished ritual.
 
 Could he do it?
 
@@ -70,45 +70,45 @@ Well, that had definitely filled it up for good.
 
 Soon the hall fell silent. Murmur, having lost its soul support, had returned to its elemental domain. The two elemental stones crumbled and collapsed. Only a pitch-black staff remained, leaning askew in the circular chamber.
 
-Jace lifted his staff and walked to Sora's side. The female orc was clutching Queen Ysera's earring, sleeping peacefully.
+Jace lifted his staff and walked to Sola's side. The female orc was clutching Queen Ysera's earring, sleeping peacefully.
 
 When he tried to help her up, Jace noticed his hands. At some point, they'd turned back to a fel orc's.
 
 On the other side, Sabellian sat against a corner wall, clutching his chest. When Jace looked over, he spat out a mouthful of black blood and moved his lips with a belly full of anger. From here, Jace could still barely make out what he was mouthing: "You're welcome."
 
-Jace looked down at the female orc and called softly, "Sora?"
+Jace looked down at the female orc and called softly, "Sola?"
 
-Hearing his voice, Sora's eyes snapped open. She took a deep breath, the moonlight in her eyes fading.
+Hearing his voice, Sola's eyes snapped open. She took a deep breath, the moonlight in her eyes fading.
 
 Then the green dragon scales on her face vanished. The dragon tail beneath her cloak shrank back like a frightened snake. She looked at Jace, somewhat dazed, and asked, "Is it over?"
 
-"More or less," Jace said. "Thanks to you, Sora..."
+"More or less," Jace said. "Thanks to you, Sola..."
 
-"In the dream, you were like a ruler. And I was just a summoner." Sora rubbed her eyes and smiled. "It was strange. Seeing you as a human in the dream, but an orc in reality."
+"In the dream, you were like a ruler. And I was just a summoner." Sola rubbed her eyes and smiled. "It was strange. Seeing you as a human in the dream, but an orc in reality."
 
 "I was a human in Teron Gorefiend's dream?" Jace said in surprise.
 
-"That dream no longer belonged to Teron Gorefiend," Sora said softly.
+"That dream no longer belonged to Teron Gorefiend," Sola said softly.
 
 The doors of the Screaming Hall had opened. Cult soldiers from outside were rushing in.
 
 But by the time they hurried over, they could only stand outside the circular chamber alongside the elite soldiers already stationed there, staring blankly at what had happened inside.
 
-Vopiel — along with the other front-row warlocks — had been smashed to pieces. All that remained was a shattered, grey-haired skull and a large wad of formerly fine, now tattered robes wrapped around gore.
+Vorpil — along with the other front-row warlocks — had been smashed to pieces. All that remained was a shattered, grey-haired skull and a large wad of formerly fine, now tattered robes wrapped around gore.
 
-Even so, not a single orc dared to act. Morofel stood before them. Every cult member familiar with demons could tell what kind of power a Sayade like her might possess.
+Even so, not a single orc dared to act. Morophil stood before them. Every cult member familiar with demons could tell what kind of power a sayaad like her might possess.
 
-However, Morofel couldn't remain visible for too long. The more senior Shadow Council members might sense the extraordinary soul energy of the Tome of Damned Names.
+However, Morophil couldn't remain visible for too long. The more senior Shadow Council members might sense the extraordinary soul energy of the Book of Fel Names.
 
-Given Blakart and his followers' previous research on this demonic register, the risk was too great.
+Given Blackheart and his followers' previous research on this demonic register, the risk was too great.
 
 So Jace walked to her side, gently stroked her cheek, and instructed her in Demonic to examine the massive staff Murmur had left behind — using this as an excuse to keep her away from the warlocks' observation.
 
-He planted Ulthalesh on the ground and said, "I know many of you want this staff. Power. Souls. Shadow. We all walk this dark path. Gul'dan. Cho'gall. Ner'zhul. Teron Gorefiend. Now Vopiel..."
+He planted Ulthalesh on the ground and said, "I know many of you want this staff. Power. Souls. Shadow. We all walk this dark path. Gul'dan. Cho'gall. Ner'zhul. Teron Gorefiend. Now Vorpil..."
 
-"Vopiel was consumed by his thirst for power. He tried to murder Magtheridon's emissary and seize the treasure. I don't blame him. But it proves he — like those traitors before him — can no longer lead the Shadow Council."
+"Vorpil was consumed by his thirst for power. He tried to murder Magtheridon's emissary and seize the treasure. I don't blame him. But it proves he — like those traitors before him — can no longer lead the Shadow Council."
 
-"The coming demon master will take over Auchindoun and choose a new leader for the Shadow Council. This new leader will command Auchindoun's cult, the Death's Shadow Cult..."
+"The coming demon master will take over Auchindoun and choose a new leader for the Shadow Council. This new leader will command Auchindoun's Cabal and the Deathshadow cult..."
 
 "Perform well. Show loyalty to Lord Kil'jaeden and the Master. Any one of you has the chance to reach that position."
 

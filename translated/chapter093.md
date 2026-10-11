@@ -10,7 +10,7 @@ After confirming there were no living things inside, he walked into the village,
 
 The imp shouted a "Got it!" and darted out. In the sunlight, this little guy wasn't too conspicuous among the overgrown weeds.
 
-After saying that, Jace felt like he was here scavenging. But what else could he do right now? If he couldn't find Felweed, then he'd try his best to find something useful to trade for money back in town, buy some materials to make mana potions.
+After saying that, Jace felt like he was here scavenging. But what else could he do right now? If he couldn't find Mageroyal, then he'd try his best to find something useful to trade for money back in town, buy some materials to make mana potions.
 
 Since Ursula was willing to help him make them for free, just buying the materials shouldn't be that expensive either.
 
@@ -40,7 +40,7 @@ Anuniji, Durzala, Kana.
 
 He hadn't caught the first one, but the second time, the impression was extremely vivid.
 
-He still remembered the effect of this spell — it made his whole body weak, almost unable to stand, even doing very simple movements was quite strenuous. Was this Curse of Weakness? It didn't sound like demonic language — it sounded more like the elven tongue.
+He still remembered the effect of this spell — it made his whole body weak, almost unable to stand, even doing very simple movements was quite strenuous. Was this Curse of Weakness? It didn't sound like Demonic — it sounded more like the elven tongue.
 
 Could it be magic modified by those naga? This was Shadow magic without a doubt, after all it was possible to reduce the aftereffects with Shadow Protection Potion.
 
@@ -78,7 +78,7 @@ Jace ran over, grabbed the imp, and took the torn sack in his hand. He only hear
 
 Gnolls!
 
-He stuffed the imp into his warlock's satchel and turned to run. Before long, firelight flickered from the cave, and a gnoll came charging out, its whole body ablaze.
+He stuffed the imp into his warlock's bag and turned to run. Before long, firelight flickered from the cave, and a gnoll came charging out, its whole body ablaze.
 
 "Don't run… little thing!"
 
@@ -94,11 +94,11 @@ Although those gnolls couldn't run, they were quite persistent. They chased him 
 
 Jace opened the torn sack — it was actually a big bundle of already-dried herbs!
 
-Some unidentified herbs, and underneath were several bundles of Felweed, almost identical to that pot of plants Furbloom's wife had been growing.
+Some unidentified herbs, and underneath were several bundles of Mageroyal, almost identical to that pot of plants Furlbrow's wife had been growing.
 
 No wonder everyone said there were lots of herbs around, yet he couldn't find a single one — it turned out they'd all been scooped up by the gnolls hiding inside.
 
-But why were there clearly gnolls in this mine, yet Furbloom said he'd never seen any here?
+But why were there clearly gnolls in this mine, yet Furlbrow said he'd never seen any here?
 
 "How many gnolls are inside?" Jace asked the imp. "Did you search carefully?"
 
@@ -112,15 +112,8 @@ This torn sack did indeed have a faint smell like urine, extremely foul. After J
 
 This wasn't the gnolls' filth — it was the smell emitted by one of the herbs.
 
-He had a faint feeling that the gnolls in this cave might be secretly manufacturing something, which was why they never went out and never harassed the surrounding farms — all to avoid drawing the attention of Sentinel Hill or even Westfall Keep.
+He had a faint feeling that the gnolls in this cave might be secretly manufacturing something, which was why they never went out and never harassed the surrounding farms — all to avoid drawing the attention of Sentinel Hill or even Westbrook Garrison.
 
 Those corpses… could it mean they were testing some kind of poison? Were the gnolls at war with the murlocs, or did they have another agenda?
 
 Jace alone definitely couldn't destroy this nest. The herbs in this sack had to be identified by someone as soon as possible — find out what potions these herbs could be made into.
-
-## Flags
-
-- 阿努尼吉，杜尔扎拉，卡纳 = Anuniji, Durzala, Kana (naga Shadow incantation) — not in glossary; phonetic rendering of the spell Jace overheard.
-- 法力药水 = Mana Potion — not in glossary.
-- 术士包 = warlock's satchel (Jace's bag) — not in glossary.
-- 怀表 = pocket watch — not in glossary.

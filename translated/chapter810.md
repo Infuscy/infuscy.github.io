@@ -16,9 +16,9 @@ That said, Grede's snoring couldn't change the objective conditions. In the midd
 
 He went to the terrace, and sure enough, the wind outside was already carrying rain. The sky was dreadfully overcast. Below was total darkness — no telling ground from sky, nothing but churning chaos.
 
-Wrensa came to the terrace too, and she didn't look much better. "It's raining," Jace said.
+Vereesa came to the terrace too, and she didn't look much better. "It's raining," Jace said.
 
-"At least the wind is strong." Wrensa held her hand out beyond the terrace for a moment, then pulled it back and rubbed her fingers together. "How can a place this dry have weather like a thunderstorm?"
+"At least the wind is strong." Vereesa held her hand out beyond the terrace for a moment, then pulled it back and rubbed her fingers together. "How can a place this dry have weather like a thunderstorm?"
 
 Jace didn't know all that much about Kalimdor's geography, but he figured the Barrens and the grasslands were something like the African savanna. And Africa had its rainy season and dry season. During the rainy season, the weather was gloomy and unpredictable, with downpours that could be spectacular.
 
@@ -28,7 +28,7 @@ Of course, he couldn't just map the world of his past life onto Azeroth, which w
 
 Back in the lower cabin, most of the people who'd been sleeping were now awake — only Grede was still snoring. The whole airship was shuddering violently. Aside from the two goblins, the other passengers didn't look too good.
 
-"That's just how life is here," said the goblin wearing the Bilgewater Cartel ring. "You can never predict Kalimdor's mood. I'm sure the Trade Cartel has ways of dealing with this weather, seeing as they dare to run airships here. Otherwise I really don't know where all their money goes."
+"That's just how life is here," said the goblin wearing the Bilgewater Cartel ring. "You can never predict Kalimdor's mood. I'm sure the Steamwheedle Cartel has ways of dealing with this weather, seeing as they dare to run airships here. Otherwise I really don't know where all their money goes."
 
 "Any mages on board?!" A goblin came tumbling down from the upper deck, practically screaming. The Bilgewater goblin's expression changed. "What is it?"
 
@@ -42,11 +42,11 @@ Back in the lower cabin, most of the people who'd been sleeping were now awake �
 
 "There really isn't one?!"
 
-The goblin's shout jolted Grede upright. He mumbled, half-awake, "We're at the Rage River…"
+The goblin's shout jolted Grede upright. He mumbled, half-awake, "We're at the Southfury River…"
 
-"If there's no mage, we'll never reach the Rage River in this lifetime!" the goblin roared furiously. "One more time…"
+"If there's no mage, we'll never reach the Southfury River in this lifetime!" the goblin roared furiously. "One more time…"
 
-Wrensa looked at Jace helplessly. Jace had no choice but raise his hand. "Me!"
+Vereesa looked at Jace helplessly. Jace had no choice but to raise his hand. "Me!"
 
 Although he normally never called himself a mage, since absolutely no one else was stepping up, he was probably the only mage on this airship.
 
@@ -54,7 +54,7 @@ Although he normally never called himself a mage, since absolutely no one else w
 
 "Come with me!" The goblin waved and scrambled back up in a flash.
 
-Jace followed him. Grede and Wrensa came up to the deck too. The howling wind swallowed everything in an instant.
+Jace followed him. Grede and Vereesa came up to the deck too. The howling wind swallowed everything in an instant.
 
 The gondola's tether ropes were stretched taut. Jace gripped the railing and glanced at the rope beside his hand — it felt like it might snap at any second under the violent shuddering.
 
@@ -68,7 +68,7 @@ So he'd have to use fire magic. But in the middle of a downpour…
 
 He nodded, keeping as calm as possible, and listened for the voices of the fire elementals in the air. But between the howling gale and the airship's chaotic clatter, they were almost impossible to pick out.
 
-Maybe it would be better to use the Fireball or Scorch that Master Marin had taught him. But Fireball had a long cast time, and Scorch didn't hit hard enough to move those boulders…
+Maybe it would be better to use the Fireball or Scorch that Master Malin had taught him. But Fireball had a long cast time, and Scorch didn't hit hard enough to move those boulders…
 
 "Damn it, left! Left!" the goblin suddenly shouted. "Look left, quickly!"
 
@@ -76,21 +76,21 @@ Maybe it would be better to use the Fireball or Scorch that Master Marin had tau
 
 Jace saw a medium-sized spire of rock suddenly appear in the searchlight's beam on the lower left, with a stone pillar beneath it stretching down to a bottom he couldn't see. Time was too short for him to fumble through the unfamiliar Kalimdor tongue.
 
-He raised Song of the Azure and intoned Scorch without hesitation. A bolt of blood-red flame smashed into the base of the spire in the rain, shaking the rock violently. Hard to say how much it deflected it, but fortunately the airship seemed to have turned slightly in the wind, grazing past the side of the spire and plunging back into the darkness.
+He raised Azuresong and intoned Scorch without hesitation. A bolt of blood-red flame smashed into the base of the spire in the rain, shaking the rock violently. Hard to say how much it deflected it, but fortunately the airship seemed to have turned slightly in the wind, grazing past the side of the spire and plunging back into the darkness.
 
 There shouldn't have been a collision.
 
-The goblin in front wiped his eyes and forehead and waved back at Jace. Another goblin actually sat down on the spot. So this was the Thousand Needles… The airship hadn't even cleared the Thousand Needles yet. Damn it.
+The goblin in front wiped his eyes and forehead and waved back at Jace. Another goblin actually sat down on the spot. So this was Thousand Needles… The airship hadn't even cleared Thousand Needles yet. Damn it.
 
 The airship swept past another towering stone pillar on the left, but this time it was still reasonably far away. Using this pillar as a reference, Jace could tell the airship was climbing fast, trying to clear these stone-forest obstacles. Perhaps disrupted by the thunderstorm and the dark… the airship seemed to be flying a little low.
 
-"Why are we going over the Shimmering Flats?!" Grede couldn't help asking. "Isn't that just asking for death?!"
+"Why are we going through Thousand Needles?!" Grede couldn't help asking. "Isn't that just asking for death?!"
 
 "This is already the safest route, dwarf!" one of the goblins beside them said. "Shut up and help. Anything else you say now is useless!"
 
 Jace more or less understood why the airship had to pass through the stone forest. If they went north over the flats and over the mountains from the Shimmering Flats, they'd be charging straight into the black dragons' lair. Even if the goblins didn't know about the black dragons, they should know from the local natives that it was absolutely a cursed place. And if they detoured in a big arc, they'd have to fly over the quilboars' Razorfen.
 
-Hard to say which was worse — the magic of centaur windcallers or quilboar earth-binders. So for now, it was down to fate…
+Hard to say which was worse — the magic of centaur windcallers or quilboar geomancers. So for now, it was down to fate…
 
 But he couldn't say he hadn't been mentally prepared for this. "Right! Right!"
 
@@ -104,7 +104,7 @@ Jace immediately began casting Fireball, aiming for where the boulder connected 
 
 "Damn it!"
 
-Jace walked a few steps forward to the edge of the deck and began the incantation again. As Song of the Azure struggled to gather flames in the rain, the airship was nearly on top of the boulder. Time was running out.
+Jace walked a few steps forward to the edge of the deck and began the incantation again. As Azuresong struggled to gather flames in the rain, the airship was nearly on top of the boulder. Time was running out.
 
 Time seemed frozen. The goblins' shouts, the creaking of the airship struggling to turn, the screams of the passengers below — all of it went quiet in an instant…
 
@@ -122,16 +122,8 @@ A goblin beside them sat on the ground, eyes wide, muttering, "The *Sharkbite*�
 
 Jace ran to the front of the deck and grabbed Grede's arm, looking at the thing in his hand that still glittered with a golden glow in the darkness. Though the light had dimmed considerably, it was still more than eye-catching.
 
-Wrensa rushed over too. She'd clearly been startled by the earth elemental power Grede had just awakened.
+Vereesa rushed over too. She'd clearly been startled by the earth elemental power Grede had just awakened.
 
 "I told you… this is an invincible treasure, Jace." Grede gripped Neltharion's Pendant, keeping his voice as steady and quiet as he could. "After all, this was a gift from the Dragonqueen herself… Ha! Now *this* is its true power!"
 
 Jace slapped him hard on the shoulder. "Nothing more to say, Grede. Incredible!"
-
-## Flags
-
-- **POV consistency**: Third person throughout.
-- **Glossary adherence**: 温蕾萨·风行者 → Wrensa Windrunner; 格瑞德·雷拳 → Grede Thunderfist; 杰斯·塞索 → Jace Sesso; 莫洛菲尔 → Molophil; 鲨嘴号 → *Sharkbite*; 锈水财阀 → Bilgewater Cartel; 热砂财团 → Trade Cartel; 闪光平原 → Shimmering Flats; 千针石林 → Thousand Needles; 怒水河 → Rage River; 野猪人 → quilboars; 剃刀高地 → Razorfen; 半人马唤风者 → centaur windcallers; 野猪人地缚师 → quilboar earth-binders; 耐萨里奥的坠饰 → Neltharion's Pendant; 红龙女王 → the Dragonqueen (Alexstrasza); 碧空之歌 → Song of the Azure; 灼烧咒 → Scorch; 火球术 → Fireball; 暗影箭 → Shadow Bolt; 化身 → Avatar; 马林大师 → Master Marin; 卡利姆多语 → Kalimdor tongue; 通用语 → Common; 元素之语 → elemental tongue; 地精语 → Goblin.
-- **Tone**: Action sequences kept tight and visceral; Grede's triumphant quip preserved; Jace's player-knowledge asides (safest route calculus) maintained.
-- **Lore accuracy**: Neltharion = Deathwing's true name; pendant gifted by Alexstrasza; Thousand Needles geography; the black dragon lair detour logic; quilboar earth-binders; centaur windcallers — all preserved.
-- **Chapter title**: "Displaying True Power!" — exclamation retained from the original.

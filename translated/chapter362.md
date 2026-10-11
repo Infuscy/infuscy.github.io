@@ -4,7 +4,7 @@ When Jace returned to the inn, Grede still hadn't gotten out of bed.
 
 That wasn't surprising, though — the guy had always been a heavy sleeper. He'd gone all night without sleep, so naturally he was going to make up for it today.
 
-Jace sat at the table and pulled out the demonology dictionary his little imp had translated, continuing his studies, until around evening when Grede finally opened his eyes and sat up.
+Jace sat at the table and pulled out the Demonic dictionary his little imp had translated, continuing his studies, until around evening when Grede finally opened his eyes and sat up.
 
 "What time is it, Jace?" he asked, looking over.
 
@@ -32,19 +32,19 @@ Hearing Grede say that, Jace swallowed — just the description was making him d
 
 "It's on me!" Grede said immediately.
 
-"Let's not drink tonight, Grede," Jace said. "We need to head to the Digsite first thing tomorrow morning."
+"Let's not drink tonight, Grede," Jace said. "We need to head to Ironband's Excavation Site first thing tomorrow morning."
 
-"The Digsite?" Grede asked. "What for?"
+"Ironband's?" Grede asked. "What for?"
 
-"I asked around today — there are still Ironforge explorers there who took part in excavating that ruin. They seem to know the layout of the one in the badlands," Jace said. "We're planning on sneaking in, aren't you want to know what's inside beforehand?"
+"I asked around today — there are still Ironforge explorers there who took part in excavating that ruin. They seem to know the layout of the one in the Badlands," Jace said. "We're planning on sneaking in, don't you want to know what's inside beforehand?"
 
 "Seriously?" Grede pressed his lips together. "Then two mellow fruit wines. They're not strong at all, Jace — weaker than beer, honestly. Just think of it as juice, all right?"
 
 "Fine," Jace nodded.
 
-"Two ciders, boss!" Grede hollered. Soon the proprietress brought the drinks over.
+"Two ciders, ma'am!" Grede hollered. Soon the proprietress brought the drinks over.
 
-Jace picked up his glass and asked, "How long to get to the Digsite?"
+Jace picked up his glass and asked, "How long to get to the excavation site?"
 
 "Follow the lake. Leave in the morning and we should get there by the afternoon," Grede replied.
 
@@ -60,13 +60,13 @@ Jace gave him a sidelong look, nodded helplessly, and took another sip. "Just ma
 
 "Deal," Grede said.
 
-At that moment, the boss set down a plate of grilled boar steak on the table. The oil on the surface of the steak shimmered and danced in the fire-glow, and the juices underneath were still sizzling and bubbling.
+At that moment, the proprietress set down a plate of grilled boar steak on the table. The oil on the surface of the steak shimmered and danced in the fire-glow, and the juices underneath were still sizzling and bubbling.
 
 A sweet, boozy aroma drifted up from the meat. Jace couldn't resist dipping a finger in the sauce and licking it — a rich wave of malt fragrance hit his nostrils.
 
 He couldn't help but grab a fork and dig into the meat. The fatty chunk trembled like jelly as it came cleanly off the bone, and the moment it hit his mouth it melted… the firm meat fibers blended with the smooth, rich fat, and Jace couldn't help but close his eyes and chew carefully.
 
-The wild boar they'd caught in the Burning Steppes had been gamely to the point of disgust, but the boar here barely seemed any different from a farm-raised pig — maybe that was the effect of the dwarven beer.
+The wild boar they'd caught in the Burning Steppes had been gamy to the point of disgust, but the boar here barely seemed any different from a farm-raised pig — maybe that was the effect of the dwarven beer.
 
 Only when he chewed it thoroughly could he detect a faint porkiness, but by then it was more like an extra layer of flavor than anything unpleasant.
 
@@ -76,7 +76,7 @@ For Jace, it was hard to judge whether the cooking was "just right" — he didn'
 
 "No idea when we'll get to go back again," Grede muttered, nursing his glass.
 
-Then the boss brought over two skewers threaded on long sticks, both trailing steam — Jace was practically licking his lips just looking at them.
+Then the proprietress brought over two skewers threaded on long sticks, both trailing steam — Jace was practically licking his lips just looking at them.
 
 The bear meat chunks on the skewer weren't very abundant compared to the other ingredients, and they were tough and dense, like overcooked beef. Despite appearing well-grilled, they still carried a heavy, bloody flavor.
 
@@ -90,18 +90,12 @@ So he took a sip of fruit wine to rinse his mouth, leaned back contentedly in hi
 
 He wondered what other delicacies Loch Modan had… but just these two meals had already left him more than satisfied. Never mind the various specialty goat dairy products, breads, and desserts he hadn't even tried yet.
 
-Thinking that soon he'd have to face the Dark Iron dwarves, or even the Stone Troggs inside Uldaman, he really wasn't in the mood to savor food bite by bite.
+Thinking that soon he'd have to face the Dark Iron dwarves, or even the Stonevault troggs inside Uldaman, he really wasn't in the mood to savor food bite by bite.
 
 But he had to admit, these two good meals would help with the mounting troubles ahead.
 
-"Are there Troggs or kobolds raiding the Digsite, Grede?" Jace asked, looking across the table.
+"Are there troggs or kobolds raiding the excavation site, Grede?" Jace asked, looking across the table.
 
-"I haven't heard of any," Grede said. "But the Digsite has Ironforge soldiers protecting it too, Jace. I'm guessing it's not exactly safe either."
+"I haven't heard of any," Grede said. "But the excavation site has Ironforge soldiers protecting it too, Jace. I'm guessing it's not exactly safe either."
 
-That evening they bought some supplies, washed the mud from the swamp off their clothes, and dried them by the fire. The next morning they'd set out for the Digsite.
-
-## Flags
-
-- **Next destination: Digsite**: Survivors of Ironforge's excavation of the Badlands ruin are at the Digsite east of Loch Modan. Jace and Grede plan to leave the following morning.
-- **Marsh beast gland alternative**: The herbalist's spore-cultivation idea is on hold; the Digsite visit comes first.
-- **Imp dictionary**: Jace is continuing his demonology studies using the imp-translated demonology dictionary.
+That evening they bought some supplies, washed the mud from the swamp off their clothes, and dried them by the fire. The next morning they'd set out for the excavation site.

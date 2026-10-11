@@ -55,10 +55,3 @@ Grede, beard still caught in Jace's fist, forced the words out through clenched 
 Grede nodded hard.
 
 Jace realized he'd gotten worked up enough. He let go, sat back in his seat, and took a pull of beer. That faint ghost of alcohol cooled him down, just a little.
-
-## Flags
-
-- **蟹肉面包**: source says 蟹肉面包 (crab meat bread), but the glossary entry is 蟹肉蛋糕 = Crab Cake. Rendered as "crab cake" to match the glossary term; flagging the bread/cake discrepancy.
-- **古卡利姆多大陆** = ancient Kalimdor: not in glossary (only 阿拉索 = Arathi listed). Used "ancient Kalimdor" for the supercontinent.
-- **格瑞姆巴托** = Grim Batol: in glossary.
-- Jace's long speech cataloging Azeroth's existential threats: rendered as rhetorical escalation matching his agitated state; not a game-mechanics reference, kept as flavor.

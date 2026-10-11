@@ -40,7 +40,7 @@ She spoke no words, made no unnecessary movements. Merely glowing motes of starl
 
 At this distance, Jace could glimpse a trace of the figure's inner emotions. She no longer hid her intent. No more hesitation. Remove all obstacles. Complete her goal.
 
-The chunk of Alodi's shoulder Jace was gripping shattered. He lost his hold and was sucked into the air again. Instinctively, he triggered Shadow Step toward a piece of debris, caught hold, and steadied himself.
+The chunk of Alodi's shoulder Jace was gripping shattered. He lost his hold and was sucked into the air again. Instinctively, he triggered Shadowstep toward a piece of debris, caught hold, and steadied himself.
 
 Looking toward the portal to find the two mages, he saw a massive spread of arcane "grids" scattered across the sky — like a vast net, or the countless crystalline facets of a giant diamond.
 
@@ -58,7 +58,7 @@ The howling magical wind gradually mixed with purple dark light. The ethereal ar
 
 Shadow serpents writhed through the air, converging at Jace's will...
 
-But just as they were about to form a dark star even Nefarian couldn't withstand, a rain of arcane arrows poured down from above. Some struck the shadow serpents directly; others spun and diverted their dark energy, weakening and scattering them.
+But just as they were about to form a dark meteor even Nefarian couldn't withstand, a rain of arcane arrows poured down from above. Some struck the shadow serpents directly; others spun and diverted their dark energy, weakening and scattering them.
 
 Jace stared at the arcane energy, the dark power he'd held slipping through his fingers like sand. A silver magic silhouette burst from the missiles and smashed straight into a floating wall fragment in front of him.
 
@@ -70,11 +70,11 @@ The chains spread out, anchoring to several floating enchanted stones around him
 
 The Guardian's voice echoed all around. Jace didn't bother to respond. The demonic mouth on his staff spat out a spray of blood-magic blades that severed the chain binding his right arm. He swung his scythe to cut the left-hand restraints, then easily shattered more chains.
 
-The ghostly female mage seemed surprised he'd broken free so easily. But in that moment's opening, Ulthalesh — drenched in dark blood — was yanked forward by Blood Grip, cleanly cut two illusions in half, and dissolved them into arcane mist that vanished into the storm.
+The ghostly female mage seemed surprised he'd broken free so easily. But in that moment's opening, Ulthalesh — drenched in dark blood — was yanked forward by Gorefiend's Grasp, cleanly cut two illusions in half, and dissolved them into arcane mist that vanished into the storm.
 
-More arcane missiles rained from above — some were more illusions. Jace summoned a Dark Ward, and amid the arcane starlight, he moved like a black meteor weaving between spinning dark stones.
+More arcane missiles rained from above — some were more illusions. Jace summoned a Shadow Ward, and amid the arcane starlight, he moved like a black meteor weaving between spinning dark stones.
 
-He stabilized himself, reformed the scattered shadow serpents, chanted to release more of Ulthalesh's soul power to spawn more serpents, sending them to battle the meteor-like arcane arrows while gathering an ever-stronger Dark Star aimed at the portal growing ever closer.
+He stabilized himself, reformed the scattered shadow serpents, chanted to release more of Ulthalesh's soul power to spawn more serpents, sending them to battle the meteor-like arcane arrows while gathering an ever-stronger Dark Meteor aimed at the portal growing ever closer.
 
 "Come on, Jace!"
 
@@ -82,9 +82,9 @@ A distorted Khadgar shadow clung to a rock as it drifted by, its odd impromptu f
 
 The shadow was so fragile that shouting was enough to make it crumble. But Jace had already completed the final channeling.
 
-"Wilma." He spoke the final incantation. The Dark Star pushed through massive debris and arcane starlight, hurtling straight at the colossal portal.
+"Wilma." He spoke the final incantation. The Dark Meteor pushed through massive debris and arcane starlight, hurtling straight at the colossal portal.
 
-But as the star approached, its body began to crack and tear apart. Its shadow energy was stripped from the outside by an inconspicuous emerald object at the portal's center, bit by bit turning into soul fragments drawn into the gate — like a clump of mud dropped into a rushing stream.
+But as the meteor approached, its body began to crack and tear apart. Its shadow energy was stripped from the outside by an inconspicuous emerald object at the portal's center, bit by bit turning into soul fragments drawn into the gate — like a clump of mud dropped into a rushing stream.
 
 The last remnant of shadow energy struck the gate's frame and exploded in violet-red flames. But it didn't stop the portal from taking shape. The explosive shadow energy was also sucked into that object, becoming part of the whole ritual.
 
@@ -98,11 +98,11 @@ The massive portal, built over months by Aegwynn using the Order of Tirisfal's r
 
 Khadgar's phantom couldn't accept reality, but its voice faded quickly into the wind.
 
-Arcane missiles rained down, shattering Jace's Dark Ward. The explosion's shadow shockwave destroyed the stone beneath him and several nearby fragments.
+Arcane missiles rained down, shattering Jace's Shadow Ward. The explosion's shadow shockwave destroyed the stone beneath him and several nearby fragments.
 
 Jace lost his balance again, sucked toward the portal. Arcane missiles that had been chasing him were themselves caught by the portal's pull and shot past him even faster.
 
-Floating in the air, Jace stared at the object at the portal's center. With the Dark Star shattered, he could barely see it anymore — the emerald trace was completely buried by the blinding light.
+Floating in the air, Jace stared at the object at the portal's center. With the Dark Meteor shattered, he could barely see it anymore — the emerald trace was completely buried by the blinding light.
 
 *Devour it.*
 

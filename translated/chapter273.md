@@ -4,9 +4,9 @@ Waller clutched at Jace's clothes. Watching a scholar in his sixties break down 
 
 Jace glanced back and saw Vereesa holding a candlestick, watching him — not the knife or dagger she'd brought. She'd understood the "smash" instruction rather more literally than Jace had expected.
 
-"Stop crying, Mr. Waller. I'm not here to take anything," Jace said. "I just want some information. About the Great Graveyard."
+"Stop crying, Mr. Waller. I'm not here to take anything," Jace said. "I just want some information. About the Raven Hill Cemetery."
 
-This time, when Jace mentioned the Great Graveyard, Waller's eyes filled with something close to terror — far more than the slight change in expression the first time.
+This time, when Jace mentioned the Raven Hill Cemetery, Waller's eyes filled with something close to terror — far more than the slight change in expression the first time.
 
 Eliza snarled nearby, her free hand clawing forward, trying to attack Jace or Vereesa. Jace glanced at her and said, "I'm going to let go of you now, Mr. Waller. You promise you won't attack me?"
 
@@ -30,11 +30,11 @@ Jace watched the old man shuffle to the table and collapse onto a stool.
 
 Jace sat down across from him. "This is very likely the man we're looking for, sir."
 
-Waller looked over. "You won't arrest me just for necromantic magic, will you? You're one of the Wizard Sanctum."
+Waller looked over. "You won't arrest me just for necromantic magic, will you? You're one of the Wizard's Sanctum."
 
 "You don't really have much leverage to negotiate right now, human," Vereesa said flatly.
 
-He moved the finger resting on the table. "Indeed. I can make no guarantees on that. Go on — let me see just how involved you are."
+Jace tapped a finger on the table. "Indeed. I can make no guarantees on that. Go on — let me see just how involved you are."
 
 Waller thought for a moment, then asked, "Can you promise... that the man in black will never come looking for me again?"
 
@@ -56,7 +56,7 @@ Waller was stunned for a moment. His lips moved but he didn't know what to say. 
 
 "That night," Waller nodded. "About half a year ago — I can't remember the exact date. He came to my door and told me he needed a favor. The reward would be... getting my wife to stand up again."
 
-"He wanted me to help him find a powerful enough dead body. I took him to the Great Graveyard... He ultimately settled on a cavalry captain who'd fought the orcs in Black Marsh and died here in Duskwood Town."
+"He wanted me to help him find a powerful enough dead body. I took him to the Raven Hill Cemetery... He ultimately settled on a cavalry captain who'd fought the orcs in the Black Morass and died here in Darkshire."
 
 At that, he covered his face and sighed. "I was the one treating that cavalry captain at the time. I failed him — I couldn't heal his wounds, and I handed his body over to that dark-robed warlock. I must have been out of my mind. Because that man in black only had to chant a few incantations and my wife opened her eyes again after all that time. Even if he'd asked me to find a dead man who was myself, I'd have done it!"
 
@@ -89,14 +89,3 @@ Waller slowly raised his head and looked at Jace. "He said if I wanted to gain e
 "Ganasrash. Thank you. I know what that means," Jace nodded.
 
 He glanced back at the female zombie, now quiet. "What about your wife, Mr. Waller?"
-
-## Flags
-
-- **黑衣人** → "the man in black": the death knight. Chapter title rendered as "The Man in Black."
-- **死亡骑士** → "death knight" (in glossary).
-- **黑色沼泽** → "Black Marsh": zone in Azeroth. Not in glossary; canonical WoW zone. Flag for review.
-- **黑衣术士** → "dark-robed warlock": Waller's term for the death knight. Descriptive.
-- **迦尔纳拉什** → "Ganasrash": Orcish for the Shattered Hand clan. Not in glossary; transliterated. Jace identifies it in-text as the Shattered Hand.
-- **灵魂转移仪式** → "soul-transfer ritual": the body-swap magic. Not in glossary; descriptive.
-- **兽人** → "orcs" (in glossary).
-- Chapter title 黑衣人 → "The Man in Black."

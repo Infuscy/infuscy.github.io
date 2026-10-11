@@ -8,19 +8,19 @@ Though there was an abundance of fruits and nuts gathered from all over Khaz Mod
 
 So as soon as they heard they could tour Grim Batol after resting, the Wildhammers unanimously suggested they skip straight to the key part and forget about the "rest."
 
-But when the guide appeared, the guests from Aerie Peak immediately shifted their attention from the solidified lava and obsidian around Kardros' Anvil to him.
+But when the guide appeared, the guests from Aerie Peak immediately shifted their attention from the solidified lava and obsidian around Khardros' Anvil to him.
 
 It was a rare red dragon — female — who preferred to shapeshift into a Kaldorei form. Most dwarves had never seen a Kaldorei before, so as they followed the guide away, their conversation seemed less about their old homeland destroyed by Deathwing and more about curiosity toward this tall, dark-skinned elven figure.
 
 Jace had seen enough of Grim Batol on his previous visits, so he didn't join the tour. Besides, he hadn't eaten anything proper during the flight and was planning to grab some fruit. But it was clear Korialstrasz had other things to say.
 
-"Do you remember the news you and Somalliar brought back from Northrend, about the Nerubian kingdom?" Korialstrasz began.
+"Do you remember the news you and Somaelir brought back from Northrend, about the nerubian kingdom?" Korialstrasz began.
 
 "Any progress, Master?" Jace asked.
 
-"Since Onyxia fled Stormwind, I've been keeping an eye on Northrend," Korialstrasz said. "On one hand, I've been looking for talented mages in the Kirin Tor to send north to investigate the Nerubian kingdom's current state and the arcane anomalies. On the other, I've sent dragon scouts to Northrend to search for signs of undead activity."
+"Since Onyxia fled Stormwind, I've been keeping an eye on Northrend," Korialstrasz said. "On one hand, I've been looking for talented mages in the Kirin Tor to send north to investigate the nerubian kingdom's current state and the arcane anomalies. On the other, I've sent dragon scouts to Northrend to search for signs of undead activity."
 
-"But from the latest reports, Northrend has been eerily quiet. Forests and abandoned villages where Nerubians were once active have gone completely still."
+"But from the latest reports, Northrend has been eerily quiet. Forests and abandoned villages where nerubians were once active have gone completely still."
 
 "Red dragon offspring can survey from the air, but it's hard for them to explore deep underground in detail. A more thorough investigation is needed."
 
@@ -40,13 +40,13 @@ Korialstrasz was referring to Rhonin, Jace knew.
 
 In the game, Archmage Rhonin would later replace Antonidas as the leader of Dalaran and lead the Kirin Tor in the war against the Scourge in Northrend. He hadn't expected that here, too, Rhonin had become the Kirin Tor's point man for heading north against the Scourge.
 
-"Speaking of which, Master — a group of Eredar calling themselves 'Draenei' came through the expedition's portal," Jace said. "They're followers of the Holy Light, and they're powerful — completely different from their demonic kin. Their leader wants to go near the Black Morass to repair the damage the demons left there. I think they'll probably settle near Stonard after discussing it with King Terenas and King Varian. They might become allies against the Atal'ai fanatics and relieve some of your pressure."
+"Speaking of which, Master — a group of eredar calling themselves 'draenei' came through the expedition's portal," Jace said. "They're followers of the Holy Light, and they're powerful — completely different from their demonic kin. Their leader wants to go near the Black Morass to repair the damage the demons left there. I think they'll probably settle near Stonard after discussing it with King Terenas and King Varian. They might become allies against the Atal'ai fanatics and relieve some of your pressure."
 
-"I did hear about these holy light followers from another world." Korialstrasz thought for a moment. "Eredar... I might need to quickly shake off the impressions Dalaran's library has built of them over the centuries. In any case, I didn't know they planned to settle near the Black Morass. That's good news, Jace. I'll send one of my offspring to observe them."
+"I did hear about these followers of the Holy Light from another world." Korialstrasz thought for a moment. "Eredar... I might need to quickly shake off the impressions Dalaran's library has built of them over the centuries. In any case, I didn't know they planned to settle near the Black Morass. That's good news, Jace. I'll send one of my offspring to observe them."
 
 "As for the situation in Northrend, don't worry too much." He continued. "Now that the queen is awake, I don't need to stay and guard her at Grim Batol. I'll head to Northrend myself soon to help the Kirin Tor investigate."
 
-"I know you're a Lordaeron man, Jace. You have many acquaintances, even family, in the north. You're worried that Stratholme — which borders the North Sea — and the entire Lake Lordamere region might be affected by the anomalies in Northrend. But it's not just us and the Kirin Tor... Now that the orc war is over and the expedition has returned from the other side of the Dark Portal, the mortal forces in the entire north will be stronger than ever. Neither the Silver Hand nor Dalaran will allow that region to be threatened by the so-called 'death king' those Nerubians mentioned."
+"I know you're a Lordaeron man, Jace. You have many acquaintances, even family, in the north. You're worried that Stratholme — which borders the North Sea — and the entire Lordamere Lake region might be affected by the anomalies in Northrend. But it's not just us and the Kirin Tor... Now that the orc war is over and the expedition has returned from the other side of the Dark Portal, the mortal forces in the entire north will be stronger than ever. Neither the Silver Hand nor Dalaran will allow that region to be threatened by the so-called 'king of the dead' those nerubians mentioned."
 
 Jace nodded.
 
@@ -64,7 +64,7 @@ Kurdran and his attendants were feeding the gryphons, discussing flight routes w
 
 Vereesa was asking Queen Alexstrasza about natural magic. The queen explained with remarkable patience, and Vereesa listened intently, terrified of missing anything.
 
-In the distance, Sora was excitedly chatting with Needleflame — who hovered in midair — in the dragon tongue, waiting for departure. Grede shielded his eyes from the sun with his hand, watching them. "When I get back to Aerie Peak, I'll tell the Wildhammers all about your adventures, Jace. The bards' spittle might fly faster than gryphons. By the time I return, the girls in Goldshire will be singing your name."
+In the distance, Sola was excitedly chatting with Needleflame — who hovered in midair — in Draconic, waiting for departure. Grede shielded his eyes from the sun with his hand, watching them. "When I get back to Aerie Peak, I'll tell the Wildhammers all about your adventures, Jace. The bards' spittle might fly faster than gryphons. By the time I return, the girls in Goldshire will be singing your name."
 
 "I don't want to be turned into a song that fast — whether it's a tragic epic or a clownish comedy." Jace took a deep breath and puffed out his chest. "Anyway, when you get to that dig site, be careful. Your target is at the bottom of Blackrock Mountain. Don't let the Dark Iron dwarves get the jump on you."
 

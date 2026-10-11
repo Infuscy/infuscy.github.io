@@ -91,17 +91,3 @@ The dwarf didn't know what to say to that. He looked out toward the lake. In the
 "Let's go, quick!"
 
 But when Jace turned around, he saw — up in the woods above, towering and indistinct — a tall black silhouette standing there, looking straight at them.
-
-## Flags
-
-- **萨满祭司:** Rendered as "shaman." The Chinese 萨满祭司 is the full class title; in English WoW the class is simply "Shaman." The dwarven term 贤者 is rendered as "sage." Flag — the text treats 萨满 (shaman) and 贤者 (sage) as the same concept across races.
-- **电鱼:** Rendered as "electrofishing" (using electricity to stun/kill fish). The core revelation of the chapter.
-- **魔血:** Rendered as "demon blood" (the blood of Mannoroth that the orcs drank, corrupting them and severing their connection to the elements). Canonical lore.
-- **元素之道:** Rendered as "the Way of the Elements" (the shamanistic path the orcs abandoned).
-- **卡兹莫丹:** Rendered as "Khaz Modan" (in glossary).
-- **辛特兰:** Rendered as "the Hinterlands" (in glossary).
-- **巨魔巫医:** Rendered as "troll witch doctors."
-- **位高权重:** Rendered as "high-ranking, powerful figures."
-- **从长计议:** Rendered as "put it on hold" (idiom meaning to take a longer view / postpone).
-- **黑石兽人:** Rendered as "Blackrock orcs" (the Blackrock clan). Not in glossary.
-- **捕鱼者与鱼:** Chapter title rendered as "The Fisher and the Fish" — the orc the fisher becomes the fish (the hunted becomes aware of the hunter). The chapter ends on a cliffhanger with the orc shaman watching them.

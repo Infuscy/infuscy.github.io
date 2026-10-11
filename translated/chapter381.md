@@ -1,12 +1,12 @@
 ## Chapter 381: Moonbrook
 
-Leaving Westfall Keep, resting a night at Sentinel Hill, then pressing on toward Moonbrook — even pushing the horses hard the whole way, it still took nearly two days to reach Moonbrook.
+Leaving Westbrook Garrison, resting a night at Sentinel Hill, then pressing on toward Moonbrook — even pushing the horse hard the whole way, it still took nearly two days to reach Moonbrook.
 
-Jace had a feeling the road from Westfall Keep to Moonbrook couldn't be much shorter than the distance from Menethil Harbor to Dun Algaz. Of course, he didn't have accurate enough maps of Khaz Modan or the Kingdom of Stormwind to compare properly; it was just a gut feeling.
+Jace had a feeling the road from Westbrook Garrison to Moonbrook couldn't be much shorter than the distance from Menethil Harbor to Dun Algaz. Of course, he didn't have accurate enough maps of Khaz Modan or the Kingdom of Stormwind to compare properly; it was just a gut feeling.
 
 The reason it had dragged on so long in the Wetlands was that making your way through the great swamp had been genuinely miserable. Here, advancing along the well-built trade road was far more comfortable and far faster.
 
-Of course, they had Alna to thank for her stamina and youth. Had it been some aged nag, they wouldn't have moved nearly as fast.
+Of course, he had Arna to thank for her stamina and youth. Had it been some aged nag, he wouldn't have moved nearly as fast.
 
 When he arrived at Moonbrook in the evening, his first impression of the place wasn't great.
 
@@ -34,17 +34,17 @@ Then again, they at least had a bottom line of caution when it came to their own
 
 "What'll it be, mage?" The innkeeper was a powerfully built brute. As he spoke, his eyes lingered on Jace's ring.
 
-"I'd like to know where the town magistrate lives, sir," Jace said.
+"I'd like to know where the mayor lives, sir," Jace said.
 
-"Town magistrate?" The innkeeper laughed. "We don't have one of those yet."
+"Mayor?" The innkeeper laughed. "We don't have one of those yet."
 
-"As you can see." Jace touched his ring. "There are children in this town who intend to go to Stormwind to study the arcane. Someone here — at least, some leading figure — is applying to the Wizard Sanctum on behalf of those children for placements. I'm looking for that gentleman."
+"As you can see." Jace touched his ring. "There are children in this town who intend to go to Stormwind to study the arcane. Someone here — at least, some leading figure — is applying to the Wizard's Sanctum on behalf of those children for placements. I'm looking for that gentleman."
 
-"You mean Mister Cooper," the innkeeper nodded. "His house is on the road that comes out of the mine, not far from the town hall. You'll see it when you get there — it's on the west side of town."
+"You mean Mr. Cooper," the innkeeper nodded. "His house is on the road that comes out of the mine, not far from the town hall. You'll see it when you get there — it's on the west side of town."
 
-"Much obliged," Jace said. "Has this town truly never had a proper magistrate?"
+"Much obliged," Jace said. "Has this town truly never had a proper mayor?"
 
-"Of course it has — otherwise where would the town hall have come from?" the innkeeper said. "It's just that the previous magistrate and his family all perished in the war. This area is now administered directly by our king, and a new magistrate hasn't been elected yet. But Mister Cooper is certainly the most eager candidate."
+"Of course it has — otherwise where would the town hall have come from?" the innkeeper said. "It's just that the previous mayor and his family all perished in the war. This area is now administered directly by our king, and a new mayor hasn't been elected yet. But Mr. Cooper is certainly the most eager candidate."
 
 Jace nodded. "I'll have a liver pie, and a glass of milk — goat or cow, either's fine. And I'll be staying the night here."
 
@@ -52,9 +52,9 @@ Jace nodded. "I'll have a liver pie, and a glass of milk — goat or cow, either
 
 Jace set a silver coin on the table. "Keep the change. Find me a quiet room if you would."
 
-The innkeeper's previously cool demeanor shifted as he pocketed the silver. "Go upstairs, turn left and go all the way to the end — the room on your left. Also, folk around here don't care much for mages, so try not to stir up trouble. That's not a threat, sincere advice."
+The innkeeper's previously cool demeanor shifted as he pocketed the silver. "Go upstairs, turn left and go all the way to the end — the room on your left. Also, folk around here don't care much for mages, so try not to stir up trouble. That's not a threat — just sincere advice."
 
-"I'm just here to deliver a message," Jace nodded. "I'll leave as soon as I find this Mister Cooper tomorrow."
+"I'm just here to deliver a message," Jace nodded. "I'll leave as soon as I find this Mr. Cooper tomorrow."
 
 "Then I wish you the best of luck," the innkeeper said.
 
@@ -62,7 +62,7 @@ Of course the people here didn't care for mages. Jace found a seat and sat down,
 
 And that imp, of course.
 
-For warlocks in this area, the greatest threat was the mages of the Wizard Sanctum. Master Jemaima Duhamel was the one responsible for hunting down orc warlocks and demons still lurking within the kingdom. It had been he who'd led the investigation into that death knight at Raven Hill.
+For warlocks in this area, the greatest threat was the mages of the Wizard's Sanctum. Master Maginor Dumas was the one responsible for hunting down orc warlocks and demons still lurking within the kingdom. It had been he who'd led the investigation into that death knight at Raven Hill.
 
 Thinking of that, Jace felt he ought to have concealed his ring rather than walking in wearing it so openly. After all, in other parts of Stormwind — whether Goldshire, Duskwood, or even Raven Hill — a mage's identity could be quite useful. But it was too late now. Removing the ring under the gaze of the warlock beside him would only invite more trouble. Better to wear it openly and unflinchingly.
 
@@ -81,17 +81,3 @@ The man said, "I can't wait any longer, my wildcat."
 "Me neither," the woman murmured softly — you could hear from her voice that she couldn't keep the grin off her face.
 
 Jace bit off a large chunk of pie and chewed in silence.
-
-## Flags
-
-- **月溪镇** → "Moonbrook": canonical WoW town in Westfall.
-- **西泉要塞** → "Westfall Keep": location in Westfall.
-- **哨兵岭** → "Sentinel Hill": town in Westfall.
-- **米奈希尔港** → "Menethil Harbor": canonical port in the Wetlands.
-- **丹奥加兹** → "Dun Algaz": location in the Wetlands.
-- **卡兹莫丹** → "Khaz Modan": dwarven homeland.
-- **侦测恶魔** → "demon detection": Jace's ability to sense demons.
-- **相位变换** → "Phase Shift": imp ability (per glossary).
-- **库伯** → "Cooper": OC? Town figure in Moonbrook, not in glossary.
-- **玛吉特·仲马** → "Jemaima Duhamel": OC? Mage of the Wizard Sanctum tasked with hunting orc warlocks and demons; not in glossary. Name rendered as phonetic transliteration.
-- Chapter title "月溪镇" → "Moonbrook."

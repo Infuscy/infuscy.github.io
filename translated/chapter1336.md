@@ -34,7 +34,7 @@ Before Jace could answer, Turalyon spoke. "I think we need to consider this care
 
 "Consider what?" Sabellian asked. "This is the only chance. And wiping out those necromancers and demon warlocks in Auchindoun at the same time — isn't that exactly what you Light believers most enjoy doing?"
 
-"Sabellian is right. Almost all of Draenor's energy sources have been shattered along with the catastrophe, Marshal Turalyon," Jace said. "If we want to leave here, we have to rely on..."
+"Sabellian is right. Almost all of Draenor's energy sources have been shattered along with the catastrophe, General Turalyon," Jace said. "If we want to leave here, we have to rely on..."
 
 "Rely on souls?" a priest asked. "Master Jace Sesso, the draenei helped us a great deal when we attacked the orc-occupied Auchindoun."
 
@@ -66,11 +66,11 @@ But at least he wasn't sacrificing the living. That's what he told himself. Comp
 
 There was no doubt, though... he had walked a fair distance down this path himself.
 
-Ursaleth, leaning against the wall, let out a series of evil laughs. It was hungry. It couldn't wait to get a share of Auchindoun's soul energy.
+Ulthalesh, leaning against the wall, let out a series of evil laughs. It was hungry. It couldn't wait to get a share of Auchindoun's soul energy.
 
 *Once I drain that power, destroying the Scepter of Sargeras will be easy for me too.*
 
-*The Scepter of Sargeras isn't a weapon. It's a teleporter, forged from hundreds of Eredar warlocks and countless powerful demon lord souls. And I specialize in harvesting souls. Sargeras himself forged me, and it's fated that I will destroy the Burning Legion. Jace Sesso. Don't tell me you're hesitating now, at this very moment...*
+*The Scepter of Sargeras isn't a weapon. It's a teleporter, forged from hundreds of eredar warlocks and countless powerful demon lord souls. And I specialize in harvesting souls. Sargeras himself forged me, and it's fated that I will destroy the Burning Legion. Jace Sesso. Don't tell me you're hesitating now, at this very moment...*
 
 *Auchindoun... Auchindoun... Auchindoun...*
 
@@ -86,7 +86,7 @@ Jace couldn't help laughing. Then he looked up, staring at the symbol again. "Am
 
 "No." Vereesa lowered her head, subtly wiping the corner of her eye. "You're the kindest, bravest person I've ever met, Jace Sesso. You always have been."
 
-"Ranger-Lord."
+"Ranger Lord."
 
 A call came from the infirmary entrance. A Farstrider stood at the door. Seeing Jace, he said, "Apologies, Master Sesso, Lady Vereesa. The Farstrider search squad has returned. They've brought the draenei prophet."
 

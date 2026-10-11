@@ -8,9 +8,9 @@ Arrow trajectories were blocked by Vaelastrasz's massive wings. High above, Vere
 
 He wasn't the only one. Both young dragons and their riders burst into flames at the same time. Even several gryphon riders in the distance caught fire, losing control and crashing into the forest.
 
-Vereesa activated the Flowing Ice Crystal. Its cold healing power quickly extinguished the red dragon fire before it could fully consume her. Sora, beside her, also shook off the flames.
+Vereesa activated the Flowing Ice Crystal. Its cold healing power quickly extinguished the red dragon fire before it could fully consume her. Sola, beside her, also shook off the flames.
 
-Olastrasz's Hide did its job. Any red dragon fire that touched it was quickly absorbed, leaving only a faint glow on the leather. Beneath him, Needleflame, as a black dragon, was extremely hard to ignite. What little fire caught between her scales died out quickly.
+The Hide of Olastrasz did its job. Any red dragon fire that touched it was quickly absorbed, leaving only a faint glow on the leather. Beneath him, Needleflame, as a black dragon, was extremely hard to ignite. What little fire caught between her scales died out quickly.
 
 Free of the flames, Jace focused, trying to figure out what was going on. Nefarian had practically exhausted his mana. How could he have the strength left to mind-control Vaelastrasz?
 
@@ -18,7 +18,7 @@ But he didn't have much room to think. Vaelastrasz blasted flame across the sky.
 
 "Lord Vaelastrasz! Snap out of it!"
 
-Beyond the black smoke and spreading flames, though Sora's figure was nowhere to be seen, her voice remained steady.
+Beyond the black smoke and spreading flames, though Sola's figure was nowhere to be seen, her voice remained steady.
 
 Vaelastrasz wasn't one of the Dragonqueen's children or consorts, but he was still a powerful old dragon. How could he submit so easily, especially when his enemy was at the end of his rope, nearly defeated?
 
@@ -30,11 +30,11 @@ Because he couldn't sense any dark magic connection between the black dragon and
 
 What... was going on?
 
-"I AM... awake enough, Somniel! You haven't seen what I've seen! If you understood... words are useless. You're all on the wrong path! Every one of you!"
+"I AM... awake enough, Somaelir! You haven't seen what I've seen! If you understood... words are useless. You're all on the wrong path! Every one of you!"
 
 Vaelastrasz suddenly reared up, clawing at his chest and head. Large scales fell away. "You just don't understand."
 
-"Master Vieran! We've taken Blackrock Spire! We're about to win! Wake up!" Voices of elven knights called from the sky. Hearing them, Vaelastrasz's roar grew even more pained.
+"Master Vaelan! We've taken Blackrock Spire! We're about to win! Wake up!" Voices of elven knights called from the sky. Hearing them, Vaelastrasz's roar grew even more pained.
 
 It was at this moment that Jace sensed something strange within him — as if... two forces were wrestling. Was he resisting the black dragon's mind magic?
 
@@ -50,27 +50,29 @@ So if not for the red dragon's desperate efforts to hold back the Black Prince, 
 
 Nefarian laughed. Even if Blackrock Spire was destroyed, this delicious pain and dilemma rushing toward him was enough to cheer him up again, enough to mock freely.
 
-"What do we do, Sesso? Sister Sora? What do we do?"
+"What do we do, Sesso? Sister Sola? What do we do?"
 
 "Needleflame... we need to decide fast! Vereesa! Jace must be hurt! And Stormwind is right ahead! His parents are there!"
 
-Vereesa was silent for a moment. Sora seemed at a loss too, her voice turning tearful.
+Vereesa was silent for a moment. Sola seemed at a loss too, her voice turning tearful.
 
-"Sora! The Dream... make him sleep!" the ranger suddenly shouted. "Your sleep magic is stronger than mine!"
+"Sola! The Dream... make him sleep!" the ranger suddenly shouted. "Your sleep magic is stronger than mine!"
 
-"No... Vereesa, I can't either. He is Queen Alexstrasza's emissary and most honored guardian. I don't have enough power," Sora answered.
+"No... Vereesa, I can't either. He is Queen Alexstrasza's emissary and most honored guardian. I don't have enough power," Sola answered.
 
-"The Destruction Potion, Sora!" Jace shouted, grasping at straws.
+"The Destruction Potion, Sola!" Jace shouted, grasping at straws.
 
-"The Destruction Potion... I can try, Jace!" "Then catch this!"
+"The Destruction Potion... I can try, Jace!"
 
-He hurled the bottle of Destruction Potion hard toward the source of Sora's voice. Sora burst from the smoke and swallowed the bottle whole.
+"Then catch this!"
+
+He hurled the bottle of Destruction Potion hard toward the source of Sola's voice. Sola burst from the smoke and swallowed the bottle whole.
 
 But her attention was entirely on the potion Jace had thrown. Caught off guard, she was struck hard across the midsection by Vaelastrasz's tail. With a cry of pain, she crashed into the forest.
 
-"Sister Sora!"
+"Sister Sola!"
 
-"Vereesa! Sora!"
+"Vereesa! Sola!"
 
 Needleflame, barely dodging the red dragon's sweeping tail, wheeled in the sky and dove back. The red dragon below fixed a vicious glare on the spot where the dragon and elf had fallen. Facing the hole torn in the trees by the dragon's wide wings, he already had flame in his mouth.
 
@@ -116,9 +118,11 @@ A blurry shadow appeared in his vision. Extremely strange. He didn't even notice
 
 "I feel like you know more than I do, Jace." Vereesa turned back.
 
-"If I'm not wrong... the Hour of Twilight," Jace said. "This looks like the world the Twilight Lord Gestayn described — the world after the Old Gods' Black Empire descends again, after everything falls under the void's control."
+"If I'm not wrong... the Hour of Twilight," Jace said. "This looks like the world the Twilight Lord Gerstahn described — the world after the Old Gods' Black Empire descends again, after everything falls under the void's control."
 
-"The world Nefarian wanted to avoid?" Vereesa asked. "The world everyone wants to avoid," Jace said.
+"The world Nefarian wanted to avoid?" Vereesa asked.
+
+"The world everyone wants to avoid," Jace said.
 
 Vereesa nodded silently and continued forward. She seemed to be chasing that strange shadow too. They hadn't walked far through the winding cave when voices came from ahead, indistinct.
 

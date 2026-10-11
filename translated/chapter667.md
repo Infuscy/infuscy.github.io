@@ -8,7 +8,7 @@ Vereesa looked at Jace and smiled. Just then the dwarf waitress leaned in and sa
 
 At "handsome lad," Jace glanced at Grede in shock.
 
-"Blood sausage of Thelsamar!" Vereesa said immediately.
+"Thelsamar Blood Sausage!" Vereesa said immediately.
 
 "No problem — looks like the fame of our blood sausage has already drifted over to the beautiful magic kingdom." The waitress's face creased into a broad grin as she turned to the other two.
 
@@ -22,7 +22,7 @@ Vereesa said, "I don't want it sweet. I want the authentic Thelsamar flavor."
 
 "One bowl each!" Grede tapped the table with his finger. "And bring a big plate of bread — like you said, none of that coarse, hard black bread… and none of that squishy sweet stuff either. The best kind you've got!"
 
-"And some roast meat," Jace added. "What's a specialty roast here? Last time we had bear meat and beer pork chops. Anything you'd be interested in, Wen?"
+"And some roast meat," Jace added. "What's a specialty roast here? Last time we had bear meat and beer pork chops. Anything you'd be interested in, Vere?"
 
 "Bring that bear meat again, seriously," Grede said. "I think we absolutely have to let the elf try it."
 
@@ -30,11 +30,11 @@ Vereesa said, "I don't want it sweet. I want the authentic Thelsamar flavor."
 
 Jace nodded. "Then what about drinks?"
 
-"Thunderbrew ale from Kharanos, obviously. Last time you came I drank it with Dagot — you didn't get any," Grede said, slapping the table. "Six mugs of Thunderbrew ale to start!"
+"Thunderbrew ale from Kharanos, obviously. Last time you came I drank it with Daggett — you didn't get any," Grede said, slapping the table. "Six mugs of Thunderbrew ale to start!"
 
 The waitress said with a beaming smile, "All right, just a moment, sirs and miss!"
 
-"Dagot?" Vereesa asked, watching the waitress leave. "Who's that, one of your dwarf friends?"
+"Daggett?" Vereesa asked, watching the waitress leave. "Who's that, one of your dwarf friends?"
 
 "You could say that," Grede said. "Last time we came through here we met a Bronzebeard dwarf from the Explorers' League. He had a strange object he'd brought back from Northrend — a woman's head. That thing had his head all muddled; he was talking nothing but nonsense."
 
@@ -64,7 +64,7 @@ Jace said, "Yeah, that's the one. He said he'd already captured Krasus."
 
 Just then the waitress brought over a plate of blood sausage, glistening and dark, and said in Dwarvish, "Good appetite to you all."
 
-"Let's not talk about boring stuff like that and ruin the mood," Jace said with a smile. "Hurry up and try it, Wen."
+"Let's not talk about boring stuff like that and ruin the mood," Jace said with a smile. "Hurry up and try it, Vere."
 
 Vereesa hummed in acknowledgment, speared a slice of blood sausage, put it in her mouth — and froze.
 
@@ -78,7 +78,7 @@ She stared at Jace in front of her, then glanced at Grede beside her, chewed wit
 
 No sooner was the plate emptied than the Algaz Goat-Milk Chowder was served.
 
-Jace lifted his bowl and couldn't help taking a big gulp first. The orange-yellow chowder was thick, almost paste-like. After swallowing, a salty, roasted-milk flavor spread through him, fully satisfying the exhaustion and weariness of the journey — and filling the emptiness left after the Refined Wisdom potion had worn off… especially when he bit into the bits of smoked ham inside. The burst of meaty aroma was as satisfying as finding a priceless diamond buried in a pile of gold.
+Jace lifted his bowl and couldn't help taking a big gulp first. The orange-yellow chowder was thick, almost paste-like. After swallowing, a salty, roasted-milk flavor spread through him, fully satisfying the exhaustion and weariness of the journey — and filling the emptiness left after the Flask of Distilled Wisdom had worn off… especially when he bit into the bits of smoked ham inside. The burst of meaty aroma was as satisfying as finding a priceless diamond buried in a pile of gold.
 
 Vereesa had milk foam from the tip of her nose to her lips. Grede lifted his bowl and gulped it down. Jace stared at the sliced bread on the table and said, "Hey, hey — the bread!"
 
@@ -86,11 +86,13 @@ Vereesa had milk foam from the tip of her nose to her lips. Grede lifted his bow
 
 The three of them put down their bowls and lunged for the bread at the same time, dipping slices into the bowls and stuffing them into their mouths, then using the last slices to wipe their bowls perfectly clean…
 
-"I want another bowl," Vereesa said, holding her empty bowl. "Save room for ale, little elf!" Grede said.
+"I want another bowl," Vereesa said, holding her empty bowl.
+
+"Save room for ale, little elf!" Grede said.
 
 "I've got plenty of room," Vereesa said.
 
-"Three more bowls of chowder, then, boss!" Grede said with a loud laugh.
+"Three more bowls of chowder, then, miss!" Grede said with a loud laugh.
 
 Roast meat, ale, milk chowder… the three of them ate and drank until they were stuffed, and before they knew it, evening had come. Grede's third mug of ale was still unfinished when he suddenly slumped face-first onto the table.
 
@@ -100,7 +102,7 @@ Jace, who had just taken a swig of ale, set down his mug and glanced at him. "Ho
 
 "Right."
 
-Only then did Jace remember that he himself hadn't slept in several days either — though thanks to the potions, and having had blood drawn back in Grim Batol, he wasn't feeling all that tired at the moment.
+Only then did Jace remember that he himself hadn't slept in several days either — though thanks to the potions, and all the life he'd drained back in Grim Batol, he wasn't feeling all that tired at the moment.
 
 "Let's take him back to the room together," Vereesa said.
 
@@ -114,29 +116,12 @@ They unclasped the dwarf's cloak and tossed it aside, set down the remaining lug
 
 "Mm. I need to report this to Sylvanas as early as possible," Vereesa said.
 
-She stood up and wrapped her cloak tight. "I want to wander around a bit and see Loch Modan. Last time I came through here with the Farstriders to hunt down that death knight… remember him? Angor Deadwish — we only stopped here briefly, but it's a beautiful place."
+She stood up and wrapped her cloak tight. "I want to wander around a bit and see Loch Modan. Last time I came through here with the Farstriders to hunt down that death knight… remember him? Angor Deathwish — we only stopped here briefly, but it's a beautiful place."
 
 "Are you coming?" she asked.
 
 "Let's go." Jace stood up, pulled the imp out of his coat and set him on the ground. "Watch this room, Sazeno — you and Morophil together. Protect that gold necklace around his neck."
 
-"Got it!" The imp hopped onto the bed, then onto the stone table, and called toward the door, "Get in here, Sayad! You're not going to make me protect such a terrifying treasure all by myself, are you?"
+"Got it!" The imp hopped onto the bed, then onto the stone table, and called toward the door, "Get in here, sayaad! You're not going to make me protect such a terrifying treasure all by myself, are you?"
 
 Morophil wound her way in from the shadows beneath the lamplight and said coolly, "Have fun, my dear master."
-
-## Flags
-
-- **温蕾萨** = Vereesa Windrunner (third Windrunner sister).
-- **奥加兹** = Algaz (Algaz Pass, a location in the Wetlands/Loch Modan area).
-- **撒厄诺** = Sazeno (imp minion; short name of Sazenilaz per glossary).
-- **莫洛菲尔** = Morophil (Jace's succubus; 萨亚德 = succubus per glossary).
-- **萨亚德** = Sayad/Succubus (demon type; Morophil uses the term for herself).
-- **克拉苏斯** = Krasus (canonical dragon).
-- **克尔苏加德** = Kel'Thuzad (canonical; Council of Six member).
-- **六人议会** = Council of Six (Kirin Tor ruling body).
-- **精炼智慧合剂** = Refined Wisdom potion (tentative; a potion Jace had been relying on).
-- **无尽黑暗之刃** = Blade of Eternal Darkness (Vereesa's dagger; tentative).
-- **安高尔·死愿** = Angor Deadwish (death knight OC).
-- **达葛特** = Dagot (dwarf OC; tentative).
-- **托尔洛纳** = Tol'rona (location OC; tentative).
-- Jace confirms the mark on his arm lets Deathwing see/hear through him and torment him in dreams — a key ongoing threat.

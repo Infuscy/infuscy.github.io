@@ -22,7 +22,7 @@ Jace nodded. "Thanks, Amy."
 
 "What are you thanking me for? Isn't taking care of my little brother the least I can do?" Amy said with a smile. "Remember when I told you I was coming to Nethergarde Keep and you said you wanted to come too? I thought it'd be ages before that day came. Who knew time would fly like that."
 
-"A few days ago, during an operation against a demon air raid, a Kirin Tor master of frost magic named Amani recognized my performance. He wants to recommend me for full mage status, and he's planning to have me go to Dalaran to study under him after the war against the demons is won."
+"A few days ago, during an operation against a demon air raid, a Kirin Tor master of frost magic named Amansa recognized my performance. He wants to recommend me for full mage status, and he's planning to have me go to Dalaran to study under him after the war against the demons is won."
 
 Jace glanced at her. Man, you really love tempting fate, huh?
 
@@ -32,7 +32,7 @@ Amy grinned proudly. Jace added, "Tell me about the demons you've been running i
 
 Amy nodded. "The biggest threat Nethergarde Keep and the nearby outposts face is a kind of bat-like demon. Now, Jace, don't hear 'bat' and think of those little bats that come out at night. Each one is the size of a mountain lion, some even as big as a horse. They've got wide bat wings on their backs, and fel fire pours from their mouths and eyes."
 
-"They're a huge threat to the gryphon riders, the crossbowmen on the walls, and the mages. A few days ago I joined a rescue for some downed gryphon riders nearby and ran into a pack of those fel bats. One mage got snatched up — fortunately he reacted fast and broke free with Blink. Broke his leg, but at least he kept his life."
+"They're a huge threat to the gryphon riders, the crossbowmen on the walls, and the mages. A few days ago I joined a rescue for some downed gryphon riders nearby and ran into a pack of those felbats. One mage got snatched up — fortunately he reacted fast and broke free with Blink. Broke his leg, but at least he kept his life."
 
 "Damn," Jace said. "I don't know Blink at all!"
 
@@ -56,7 +56,7 @@ The mages immediately gathered their things, got dressed, grabbed their staves, 
 
 They'd only just learned upon arrival that a group of Stromgarde mages who'd reached the keep last night had already been sent to a southern watchtower. So Jace and the other young mages, who were uninjured and had rested well through the night, got picked to reinforce the mine's defenders.
 
-Besides these young mages, a number of Wizard Sanctum mages and battle mages were also assigned to the force. Jace spotted Amy among them — judging by her expression, she was clearly looking forward to this fight.
+Besides these young mages, a number of Wizard's Sanctum mages and battle mages were also assigned to the force. Jace spotted Amy among them — judging by her expression, she was clearly looking forward to this fight.
 
 After all, she couldn't let down that Kirin Tor frost mage's trust. If she wanted to prove her command over frost, there was no more convincing argument than a battlefield.
 

@@ -42,7 +42,9 @@ He hopped up onto a table and sat. "Got any plans for tonight? Are you going to 
 
 "Perfect. We'll find something with a real kick, drink enough to be wasted till noon, sober up, and head straight to the meeting. How's that sound?"
 
-"Sure enough." The two of them braved the rain and headed to the Azure Encounter. Despite the bad weather and the fact that it was already past nine, there were still a few people in the tavern.
+"Sounds good."
+
+The two of them braved the rain and headed to the Azure Encounter. Despite the bad weather and the fact that it was already past nine, there were still a few people in the tavern.
 
 Grede ordered two cups of lemon wine, and they found a corner to sit in.
 
@@ -66,9 +68,9 @@ Even that black dragon in Southshore — the one named Ma-something-la — Grede
 
 "Ah, and after the thirteenth?"
 
-"Once the dwarves all head back to their hometowns it won't be so hectic. Come to think of it, I never expected Dun Brahder to have so many dwarves living there — I always thought it was just a small village..."
+"Once the dwarves all head back to their hometowns it won't be so hectic. Come to think of it, I never expected Dun Baldar to have so many dwarves living there — I always thought it was just a small village..."
 
-"Maybe it's because of the soldiers massing here during the war," Jace replied absently.
+"Maybe it's because of the soldiers massing there during the war," Jace replied absently.
 
 Grede looked Jace in the eye, took a swig of wine, and swished it around his mouth. "I'm guessing your parents treated you pretty well."
 
@@ -107,22 +109,3 @@ Grede said, "Don't go quiet on me. Cheer up!"
 "You're the one who brought it up in the first place. And I rarely hear you mention your parents." Jace said. "Your dad was a raptor hunter, I know that. That's about it."
 
 "Because they're all dead. There's no new story to tell," Grede said.
-
-## Flags
-
-- **我们的父母** (chapter title): rendered as "Our Parents." Not in glossary.
-- **天蓝色相遇**: rendered as "the Azure Encounter" — a Dalaran tavern. Name not in glossary; translation tentative.
-- **丹莫罗**: Dun Morogh (glossary-adjacent: 丹莫罗 not listed, but 卡兹莫丹 = Khaz Modan; Dun Morogh is canonical WoW dwarven region). Rendered as Dun Morogh. Not in glossary.
-- **冬幕节**: Winter Veil — canonical WoW winter festival. Not in glossary.
-- **铜须 / 蛮锤**: Bronzebeard / Wildhammer (glossary).
-- **鹰巢山**: Aerie Peak (glossary).
-- **Dun Brahder** (丹巴达尔): a district/area in Dalaran where many dwarves live. Not in glossary; transliteration tentative. TODO: verify canonical name.
-- **玛什么拉**: rendered as "Ma-something-la" — Jace can't recall the black dragon's full name. The dragon is the one from Southshore (玛...拉). Not in glossary; actual name unknown/unclear. TODO: verify dragon's canonical name.
-- **柠檬酒**: rendered as "lemon wine" — a drink. Not in glossary.
-- **变戏法的**: rendered as "conjurers" — Grede's dismissive term for the mage bartenders. Not in glossary.
-- **侏儒**: gnome (canonical race). Not in glossary.
-- **精灵龙羽毛的盒子**: rendered as "that box with the faerie dragon feather inside" — a gnome-crafted contraption (magical puzzle/oddity). Not in glossary.
-- **迅猛龙猎人**: rendered as "raptor hunter" — Grede's father's trade. Not in glossary.
-- **杜尚** (Caro Dushan): Jace's teacher, referred to by surname.
-- **肯瑞托**: Kirin Tor (glossary).
-- **群岛**: rendered as "the islands" — islands off Dalaran (possibly the isles near the city). Not in glossary; reference tentative.

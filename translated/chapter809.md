@@ -24,13 +24,13 @@ The wind howled atop the airship tower, and the tail fins behind the balloon let
 
 That said, there already seemed to be some travelers aboard the airship, which meant boarding was now open.
 
-Wrensa didn't hesitate at all. She walked over and hopped across easily, as casually as stepping over a puddle. Grede, on the other hand, was hiding even farther back than Jace.
+Vereesa didn't hesitate at all. She walked over and hopped across easily, as casually as stepping over a puddle. Grede, on the other hand, was hiding even farther back than Jace.
 
 Jace looked at him. He looked back at Jace. The two stared at each other for a moment. Jace said, "If you accidentally fall, and you activate your Avatar halfway down, would that keep you from dying?"
 
 "Good idea." Grede nodded and pointed at the airship. "So you go first."
 
-"If you slip… I'll catch you, master." Molophil said soothingly at his side, then suddenly covered her mouth. "Damn it, I forgot I don't have wings anymore…"
+"If you slip… I'll catch you, master." Morophil said soothingly at his side, then suddenly covered her mouth. "Damn it, I forgot I don't have wings anymore…"
 
 With that, she stepped forward on her hooves and leaped easily across the gap to the other side — just like a young, powerful flame-colored gazelle.
 
@@ -44,7 +44,7 @@ The dwarf let out a roar and made a great leap, clearing the gradually widening 
 
 A smattering of goblin applause came from the side. Jace looked over, a question forming in his mind. "Did you all jump on like that too?"
 
-"Of course not, are you trying to die?" The goblin came to the edge and glanced down. "We definitely wait for the die down and the airship to steady before coming over."
+"Of course not, are you trying to die?" The goblin came to the edge and glanced down. "We definitely wait for the wind to die down and the airship to steady before coming over."
 
 "Then why didn't you warn us?!" Grede said unhappily.
 
@@ -64,7 +64,7 @@ At the stern of the airship was a small terrace overlooking all of Gadgetzan. Fr
 
 In the plaza was a giant iron cage like a circus tent. From that direction came waves of shouting and clamor — lively both inside and outside the cage.
 
-That should be the Thunderaan Arena. At least, a few decades from now, after Deathwing's Cataclysm and the tsunami that destroyed Steamwheedle Port, when Gadgetzan became a harbor city, it would be called the Thunderaan Arena. Right now, Jace wasn't sure.
+That should be the Thunderdrome. At least, a few decades from now, after Deathwing's Cataclysm and the tsunami that destroyed Steamwheedle Port, when Gadgetzan became a harbor city, it would be called the Thunderdrome. Right now, Jace wasn't sure.
 
 After all, for the goblins of Gadgetzan, whoever bought that arena would probably just name it whatever they pleased on a whim.
 
@@ -72,7 +72,7 @@ Still, Jace figured — Deathwing was already dead.
 
 The Great Desert of Tanaris would stay just like this. All of Kalimdor would, the Eastern Kingdoms too.
 
-Wrensa gripped the railing and leaned out to glance up at the balloon. "I never imagined I'd actually end up riding one of these things someday."
+Vereesa gripped the railing and leaned out to glance up at the balloon. "I never imagined I'd actually end up riding one of these things someday."
 
 "Me neither," Grede said, both hands tightly gripping the railing. "I still don't get how it floats in the sky, but at least it's got a few little wings."
 
@@ -82,7 +82,7 @@ With that, he glanced again at the enormous tail fins turning slowly.
 
 Jace asked, "Are you crew on this airship, sir?"
 
-"Yes, indeed." The goblin looked up at him. "Welcome aboard the *Sharkbite*. I'm Gurok, this airship's flight master. Is there anything I can help with?"
+"Yes, indeed." The goblin looked up at him. "Welcome aboard the *Sharkbite*. I'm Gulrok, this airship's flight master. Is there anything I can help with?"
 
 "Could you walk me through the flight route?" Jace asked.
 
@@ -90,17 +90,17 @@ Jace asked, "Are you crew on this airship, sir?"
 
 This was a rough map of Kalimdor. Compared to the in-game map, the continent's eastern coastline was quite detailed, with roughly the same orientations as the game's depiction — only the proportions differed. But the western part — the coasts of Desolace and Maraudon, and places like Feralas and Silithus — was extremely vague, bordering on abstract.
 
-The goblin pointed at the Shimmering Flats north of Gadgetzan. "First we cross the Shimmering Flats, then pass over the Flats, avoiding the windcaller dragon roosts to the west, and head north into the hills between the marsh and the Barrens, skirting the centaur tribes on our left as we hug the coast."
+The goblin pointed at the Shimmering Flats north of Gadgetzan. "First we cross the Shimmering Flats, then pass over the Needles, avoiding the wind serpent roosts to the west, and head north into the hills between the marsh and the Barrens, skirting the centaur tribes on our left as we hug the coast."
 
-His finger slid up a bit, reaching the edge of the eastern coastline — the northern part of Dustwallow Marsh. "Once we reach the coast, we've made it past the most dangerous part of the whole voyage. I don't know if you've been to the Flats — if you have, you know what I'm talking about… Anyway, once we hit the coast, we find this river and follow it — the longest river in all of Kalimdor, the Rage River. Around the Rage River there are only some quilboar tribes. Centaurs show up occasionally, but not many. If we drift too far east into the Eastern Barrens, the real red badlands, we might run into harpy attacks."
+His finger slid up a bit, reaching the edge of the eastern coastline — the northern part of Dustwallow Marsh. "Once we reach the coast, we've made it past the most dangerous part of the whole voyage. I don't know if you've been to the Needles — if you have, you know what I'm talking about… Anyway, once we hit the coast, we find this river and follow it — the longest river in all of Kalimdor, the Southfury River. Around the Southfury River there are only some quilboar tribes. Centaurs show up occasionally, but not many. If we drift too far east into the Eastern Barrens, the real red badlands, we might run into harpy attacks."
 
-"Follow the Rage River all the way up. When you see its source, that means we're less than a day's flight from Everlook."
+"Follow the Southfury River all the way up. When you see its source, that means we're less than a day's flight from Everlook."
 
-He pointed at the mountains north of the Rage River, where Everlook was marked. "The one thing truly worth seeing along this whole route is Ashenvale — the land where the elves live. The rest of the way it's all desert, grasslands… Though for you first-timers on an airship, it might all feel quite novel."
+He pointed at the mountains north of the Southfury River, where Everlook was marked. "The one thing truly worth seeing along this whole route is Ashenvale — the land where the elves live. The rest of the way it's all desert, grasslands… Though for you first-timers on an airship, it might all feel quite novel."
 
 Jace stared at the mountain markings his finger had traced over. That was the location of Darkwhisper Gorge.
 
-Wrensa murmured something in Thalassian in Jace's ear. Even though Jace's Thalassian was only barely enough for everyday communication, he could understand that she was telling him the Reliquary wanted her to find Eldaras, which lay on the coast just east of where the goblin had pointed.
+Vereesa murmured something in Thalassian in Jace's ear. Even though Jace's Thalassian was only barely enough for everyday communication, he could understand that she was telling him the Reliquary wanted her to find Eldarath, which lay on the coast just east of where the goblin had pointed.
 
 "Do you have any other questions about the route, folks?" The goblin looked around. "No," Jace nodded. "Thank you."
 
@@ -110,19 +110,19 @@ The goblin finished with a bow and strode out of the terrace with big steps.
 
 Grede watched the goblin's back disappear into the corridor leading inside, then turned back. "Last night, did that Noggenfogger come talk to you again?"
 
-"No. I washed up and went to sleep. Nobody came looking for me," Jace said. "Did he come to you?" Grede shook his head, then looked at Wrensa.
+"No. I washed up and went to sleep. Nobody came looking for me," Jace said. "Did he come to you?" Grede shook his head, then looked at Vereesa.
 
 The elf shook her head too. "What is it?"
 
 Grede said, "Don't you think that fellow is a little too generous for a goblin boss? I mean… most goblins are stingy and petty. Shouldn't the head of the goblins be the stingiest of the stingy? But he paid our travel fare — round trip, plus a night's lodging. All together that's more than ten gold, Jace!"
 
-"Maybe ten gold is nothing to someone like him," Wrensa said.
+"Maybe ten gold is nothing to someone like him," Vereesa said.
 
 Grede stared at her. "You, a noble lady from an elf aristocrat's family — how could you possibly understand a goblin magnate like him!"
 
-"And you, a dwarf who lives in the mountains eating with gryphons — how much do you understand?" Wrensa shot back.
+"And you, a dwarf who lives in the mountains eating with gryphons — how much do you understand?" Vereesa shot back.
 
-"All I know is that in this world, room and board cost money. Magic can't solve everything!" Grede fired back immediately. Wrensa said coldly, "I'm a Farstrider, not an archmage. I think I understand that quite well enough."
+"All I know is that in this world, room and board cost money. Magic can't solve everything!" Grede fired back immediately. Vereesa said coldly, "I'm a Farstrider, not an archmage. I think I understand that quite well enough."
 
 "We're getting off track," Jace reminded them, looking at the two of them. "That Noggenfogger… Right now we know nothing. Since he's not saying anything, we'll just act like nothing happened."
 
@@ -132,30 +132,22 @@ Grede smacked his lips. "That's a lot of money, and he made things this easy for
 
 "Makes sense." The dwarf nodded and lightly punched Jace's thigh with his fist. "After all, you're the hero of Grim Batol. I'd guess merchants and lords from all over the world want to get on your good side. Now that you mention it, that Noggenfogger did say last night he'd like to be friends with us."
 
-Wrensa said, "I remember him saying that too. But what could we possibly do for them?"
+Vereesa said, "I remember him saying that too. But what could we possibly do for them?"
 
-Jace thought for a moment, then looked out at the distant sand slopes and mountains. "Gadgetzan's facing a lot of problems right now. You heard that transport goblin earlier — sand bandits, wild beasts, ogres… And on top of that, probably sand trolls. We're mercenaries, Wen. Think about what a magnate would want with a group of mercenaries. It's just the sort of thing mercenaries do."
+Jace thought for a moment, then looked out at the distant sand slopes and mountains. "Gadgetzan's facing a lot of problems right now. You heard that transport goblin earlier — sand bandits, wild beasts, ogres… And on top of that, probably sand trolls. We're mercenaries, Vere. Think about what a magnate would want with a group of mercenaries. It's just the sort of thing mercenaries do."
 
-"Fine." Wrensa said. "I'm just not used to the role of doing things for money."
+"Fine." Vereesa said. "I'm just not used to the role of doing things for money."
 
 "You can give your share to me from now on." Jace beckoned with a finger. "I'm very used to it."
 
-Wrensa smiled at him. "I honestly didn't mind giving you my share, but hearing you say it like that — why am I suddenly so unwilling?"
+Vereesa smiled at him. "I honestly didn't mind giving you my share, but hearing you say it like that — why am I suddenly so unwilling?"
 
 "Ah, come on, don't…"
 
 Before Jace could finish, the airship suddenly shuddered. Ropes detached from somewhere and swung down into the void below.
 
-The tail fins swung, and the whole gondola began tilting to one side, forcing them to cut off their conversation and grab the railing. Creaking wood and metal came from all directions. Howling wind rushed through the corridor, whipping the railing and the cloaks of the people there. "We should go inside, master," Molophil reminded them.
+The tail fins swung, and the whole gondola began tilting to one side, forcing them to cut off their conversation and grab the railing. Creaking wood and metal came from all directions. Howling wind rushed through the corridor, whipping the railing and the cloaks of the people there. "We should go inside, master," Morophil reminded them.
 
 They braced against the cabin wall and ducked into the corridor. Before they could steady themselves, a goblin's hysterical shout came from above.
 
-"We're off, my friends! The Trade Cartel's *Sharkbite* of Gadgetzan sets sail! Once again, on a great adventure!"
-
-## Flags
-
-- **POV consistency**: Third person throughout.
-- **Glossary adherence**: 鲨嘴号 → *Sharkbite*; 古洛奇 → Gurok; 锈水财阀 → Bilgewater Cartel; 闪光平原 → Shimmering Flats; 尘泥沼泽 → Dustwallow Marsh; 大草原 → the Barrens; 怒水河 → Rage River; 灰谷 → Ashenvale; 永望镇 → Everlook; 暗语峡谷 → Darkwhisper Gorge; 神圣遗物学会 → the Reliquary; 埃达拉斯 → Eldaras; 野猪人 → quilboar; 鹰身人 → harpies; 半人马 → centaurs; 驭风者 → windcallers; 萨拉斯语 → Thalassian; 通用语 → Common; 地精语 → Goblin; 卡利姆多 → Kalimdor; 格瑞姆巴托 → Grim Batol; 远行者 → Farstrider; 死亡之翼 → Deathwing; 大灾变 → Cataclysm; 热砂港 → Steamwheedle Port; 巴拉丁湾 → Baradin Bay; 无尽之海 → Great Sea; 凄凉之地 → Desolace; 玛拉顿 → Maraudon; 菲拉斯 → Feralas; 希利苏斯 → Silithus; 东部大陆 → Eastern Kingdoms; 矿道地铁 → Deeprun Tram; 暴风城 → Stormwind; 铁炉堡 → Ironforge.
-- **Tone**: Banter preserved (Grede vs. Wrensa class ribbing, Jace's mercenary quip, the goblin's "big folk" line), platforming-game simile kept.
-- **Lore accuracy**: Deathwing dead, Cataclysm averted, Bilgewater Cartel not yet in Horde, Reliquary/Eldaras quest thread, Darkwhisper Gorge location all preserved.
-- **Chapter title**: "The *Sharkbite*" — the airship's name.
+"We're off, my friends! The Steamwheedle Cartel's *Sharkbite* of Gadgetzan sets sail! Once again, on a great adventure!"

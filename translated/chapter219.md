@@ -1,8 +1,8 @@
 ## Chapter 219: Extra Value
 
-After leaving The Slaughtered Lamb, it was still early — there weren't even many people around the Wizard Sanctum yet.
+After leaving the Slaughtered Lamb, it was still early — there weren't even many people around the Wizard's Sanctum yet.
 
-Jace carried his cloak to Larson's clothes shop. It had only been open for a little while.
+Jace carried his cloak to Larson Clothiers. It had only been open for a little while.
 
 He took a few breaths, put the scene he'd just seen in the basement out of his mind, walked in, leaned against the counter, and set his cloak on top of it. "Mr. Larson, please have a look — how much to repair this?"
 
@@ -70,7 +70,7 @@ That was about 172 to 175 centimeters — meaning Jace was about to surpass his 
 
 "Eighteen. Technically, ten days from eighteen."
 
-"You've still got some growing to do, sir. How about I pick one to fit ten inches?"
+"You've still got some growing to do, sir. How about I pick one cut for five foot ten?"
 
 "All right, thank you, Mr. Larson," Jace said. "This time I'd like something sturdier. Budget's about twenty silver, and not too long — something that won't get in the way when I move."
 
@@ -84,9 +84,9 @@ Jace considered it for a moment. "Better get one I can wear all year round."
 
 Larson went to the back. Jace glanced at his pocket watch, thinking how nice it would have been if he could have worn new clothes to registration yesterday. This old shirt he had on — would it make his future classmates' first impression of him take a nosedive?
 
-Thinking this, Jace couldn't help shaking his head. Here was a powerful caster who'd killed dragons in Lordaeron, crossed spells with Gul'dan's disciple in Dalaran, wrestled a gryphon in The Hinterlands, and bantered with the little sister of Silvermoon's Ranger-General — actually worrying about what a bunch of kids thought of him. Really beneath him.
+Thinking this, Jace couldn't help shaking his head. Here was a powerful caster who'd killed dragons in Lordaeron, crossed spells with Gul'dan's disciple in Dalaran, wrestled a gryphon in the Hinterlands, and bantered with the little sister of Silvermoon's Ranger-General — actually worrying about what a bunch of kids thought of him. Really beneath him.
 
-"Sir, take a look at this one." Larson came out, unfolding a brownish-yellow, faintly greenish old robe. "This is a robe I took in last Harvest Festival. Shorter than the last one, though not exactly a short robe. Its former owner was a Kul Tiras mage about your height. This robe is old, but it's woven from island spider silk and manaweave cloth, so the price might be a bit higher — but both the size and the features fit what you're after. The manaweave used in this robe is specially enhanced for elemental resistance, so it's hard to burn straight through. Difficult to ignite. If it gets slashed, since manaweave and spider silk aren't particularly rare materials, the repair cost isn't high either. What do you think?"
+"Sir, take a look at this one." Larson came out, unfolding a brownish-yellow, faintly greenish old robe. "This is a robe I took in last Harvest Festival. Shorter than the last one, though not exactly a short robe. Its former owner was a Kul Tiran mage about your height. This robe is old, but it's woven from island spider silk and mageweave cloth, so the price might be a bit higher — but both the size and the features fit what you're after. The mageweave used in this robe is specially enhanced for elemental resistance, so it's hard to burn straight through. Difficult to ignite. If it gets slashed, since mageweave and spider silk aren't particularly rare materials, the repair cost isn't high either. What do you think?"
 
 "The price is a bit higher — how much higher?"
 
@@ -109,15 +109,3 @@ Larson said, "This robe was made by the mage's wife. Then they got divorced. So 
 Jace nodded. Thank the Light it wasn't some bizarre reason like dying in a blast of dragon fire, or getting exiled for studying necromancy.
 
 "This one, then."
-
-## Flags
-
-- **Title**: 额外价值 — "Extra Value" (the cloak's added worth from its dragon-fire scar).
-- **Larson** (拉尔森): the Mage Quarter tailor; glossary has "Duncan" as a separate tailor from Darrowshire — Larson is a distinct character, kept as Larson.
-- **Manaweave cloth / spider silk**: canonical WoW tailoring materials; rendered as "manaweave cloth" and "spider silk."
-- **Kul Tiras** (库尔提拉斯): canonical maritime nation, per glossary.
-- **Harvest Festival** (收获节): in-universe Azeroth harvest celebration.
-- **Gul'dan** (古尔丹): canonical orc warlock; Jace's Dalaran reference.
-- **The Hinterlands** (辛特兰): canonical zone, per glossary.
-- **Silvermoon** (银月城): elven capital; "Ranger-General's little sister" = Vereesa.
-- **"Five foot eight and nine"**: 5尺8寸到9寸; converted to imperial to match chapter001's measurement style.

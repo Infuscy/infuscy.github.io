@@ -145,10 +145,3 @@ So what exactly was stopping it from attacking Grede, and instead going after th
 Jace looked toward the dark corner where the corpse lay, then over to the area lit by moonlight.
 
 The portholes. It was the portholes!
-
-## Flags
-
-- **撒厄诺 (Sazeno)** — Jace's imp minion; in glossary. Referenced but not summoned.
-- **潜行 (Stealth)** — game mechanic discussed in-world. Jace notes this world lacks the game's "Stealth" invisibility skill. Kept the gamer reference.
-- **虚弱诅咒 (Curse of Weakness)** — warlock DoT spell; not in glossary. Rendered as "Curse of Weakness" (canonical WoW warlock spell). Jace prepares it but hasn't cast yet in this chapter.
-- **马尾男 / 裸上身男 / 女人** — the three volunteer hunters are never named in the source; referred to by description throughout. Kept this approach in translation.

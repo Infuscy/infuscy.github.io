@@ -1,6 +1,6 @@
 ## Chapter 1665: Blackwing Lair
 
-"We're not far from the very top of Blackrock Spire. Fifteen years from now, Thaurissan will reclaim the Throne of Kings and rule Blackrock Mountain once more."
+"We're not far from the very top of Blackrock Spire. After fifteen years, Thaurissan will reclaim the Throne of Kings and rule Blackrock Mountain once more."
 
 Dagran Thaurissan could barely contain his excitement. The ruler of Shadowforge City, walking at the front, had become a completely different person from when Jace first met him -- a charging commander, a Dark Iron warrior.
 
@@ -10,9 +10,9 @@ It wasn't just him. All the Dark Irons were shouting excitedly at the front. Man
 
 But compared to the commanders following behind and the elite soldiers charging at the vanguard, their confidence was not as high.
 
-With the priests' Holy Light shielding them, potions sustaining them, and Sora's Dream Blessing, most of the soldiers who had been at the front line throughout had yet to exhaust their strength. Most, especially the commanders, remained firm in their resolve and sharp in their thinking.
+With the priests' Holy Light shielding them, potions sustaining them, and Sola's Dream Blessing, most of the soldiers who had been at the front line throughout had yet to exhaust their strength. Most, especially the commanders, remained firm in their resolve and sharp in their thinking.
 
-After all, roughly half the soldiers who had made it this far were members of the Sons of Lothar. Compared to their past campaign -- from Hellfire Citadel all the way to Shadowmoon Valley and the Temple of Karabor, building Alleria's Fortress and Wildhammer Keep along the way -- this assault on Blackrock Spire was nothing special.
+After all, roughly half the soldiers who had made it this far were members of the Sons of Lothar. Compared to their past campaign -- from Hellfire Citadel all the way to Shadowmoon Valley and the Temple of Karabor, building Allerian Stronghold and Wildhammer Stronghold along the way -- this assault on Blackrock Spire was nothing special.
 
 But those who had just heard Rend Blackhand's "last words" to Varian still had a knot in their stomach. Whether the black dragon had made the orc say it, or the orc meant it genuinely, it meant Nefarian was preparing something. The shadow energy saturating the entire Spire couldn't lie.
 
@@ -40,13 +40,13 @@ He spent the entire journey familiarizing himself with the long activation incan
 
 "Guard this tablet with your life, Sazeno. That's your most important task this whole Blackrock Spire trip." He stared at the imp in his bag.
 
-"As long as you don't tell Mor'fel my true name, that damned female demon, anything goes, master." The imp said miserably.
+"As long as you don't tell Morophil my true name, that damned female demon, anything goes, master." The imp said miserably.
 
 And so they climbed higher, until they reached another heavy stone door.
 
 Dagran Thaurissan walked over and touched the door. "Another magic seal like the one before. Please ask that black dragon lady to try again."
 
-Sora nodded. The little black dragon put her weapons away and stepped up through the gap the Dark Iron dwarves made for her.
+Sola nodded. The little black dragon put her weapons away and stepped up through the gap the Dark Iron dwarves made for her.
 
 This door was slightly smaller than the one leading into the upper Spire, but more ornate. The dwarf stone statues around it wore fiery crown motifs and held jeweled scepters, reminding Jace of Thaurissan's royal palace.
 
@@ -56,13 +56,13 @@ The atmosphere was tense to the breaking point. The very flow of air seemed to s
 
 Needleflame walked to the door. Just like last time, she pulled out her dagger, cut a wound, and let blood seep out. The black dragon's powerful regenerative abilities quickly sealed the wound on her hand, but the blood she'd shed was enough.
 
-Just as she raised her bloodied hand to the door and opened her mouth to breathe dragonfire, a low murmur drifted down from above -- a vague Dragon Tongue phrase that made Sora's eyes go wide with fright.
+Just as she raised her bloodied hand to the door and opened her mouth to breathe dragonfire, a low murmur drifted down from above -- a vague Draconic phrase that made Sola's eyes go wide with fright.
 
 The words were: "My noble niece."
 
 Needleflame froze. She looked up toward the top of the door. The scale-patterned arcane runes on its surface seemed to shimmer in response to that voice.
 
-"You know who I am." She spoke in Dragon Tongue.
+"You know who I am." She spoke in Draconic.
 
 "I have never seen your face, nor heard your voice before, nor seen you fly. But I have felt your blood -- pure and strong, reminding us of a magnificence long past. When dragons ruled the seas and the skies, when our father dominated the world, and all living things loved him, worshipped him... When I felt your blood, I knew. Father and brother succeeded." The voice answered.
 
@@ -74,13 +74,13 @@ The voice chuckled twice. "Look at these mortals, so eager to destroy us, my chi
 
 Something flickered in Needleflame's amber eyes. She looked down at the blood in her hand and was silent for a moment.
 
-Few among the Alliance soldiers below understood Dragon Tongue. Sora certainly did -- she might have even caught hidden meanings Jace couldn't grasp -- but she just watched Needleflame without a word.
+Few among the Alliance soldiers below understood Draconic. Sola certainly did -- she might have even caught hidden meanings Jace couldn't grasp -- but she just watched Needleflame without a word.
 
 The mages were the same, including Khadgar. Everyone waited for Needleflame's response.
 
 Not long after, Jace suddenly felt the shadow in the air tighten. A burst of cold fury shot out from it and slammed hard into his consciousness.
 
-The voice sighed again, with some disappointment. "It seems you've made your decision. Rash, foolish, self-righteous -- just like him. Well, hearing is nothing, seeing is believing... Enter my kingdom, and witness the grand future of this world for yourselves, mortals!"
+The voice sighed again, with some disappointment. "It seems you've made your decision. Rash, foolish, self-righteous -- just like him. Well, seeing is believing... Enter my kingdom, and witness the grand future of this world for yourselves, mortals!"
 
 Needleflame raised her hand and breathed fire onto her dragonblood. As the black smoke curled into the patterns of dragon scales and claws, the entire seal shattered like broken glass.
 
@@ -88,8 +88,8 @@ The voice from above suddenly turned harsh and incomprehensible, roaring and how
 
 Jace quickly stepped forward and grabbed Needleflame's hand. She clutched his hand back just as tightly, as if she wanted to draw blood.
 
-"I believe in you, Jace Sesso..." She said in Dragon Tongue.
+"I believe in you, Jace Sesso..." She said in Draconic.
 
 "I'll prove your choice was right, Needleflame." Jace replied.
 
-Needleflame was a whelp. Nefarian was a true dragon, an ancient prince. Jace knew very well how much willpower a whelp needed to defy such a dragon's command. Even Sora, who wasn't a black dragon, had already gone pale.
+Needleflame was a drake. Nefarian was a true dragon, an ancient prince. Jace knew very well how much willpower a drake needed to defy such a dragon's command. Even Sola, who wasn't a black dragon, had already gone pale.

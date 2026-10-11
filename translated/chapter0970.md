@@ -4,7 +4,7 @@ For Jace, the Demonic Empowerment spell was already quite a practiced incantatio
 
 After casting Demonic Empowerment on Gahun, causing both his physical form and his shadow power to be massively strengthened, the astonishment and shock Molus displayed couldn't have been faked.
 
-He had to admit, a female warlock like Demisette Crowlas, who'd move heaven and earth to obtain whatever she wanted... the things she could dig up were truly impressive.
+He had to admit, a female warlock like Demisette Cloyce, who'd move heaven and earth to obtain whatever she wanted... the things she could dig up were truly impressive.
 
 Considering the enormous risk she'd taken for him to obtain the Hand of Gul'dan, who knew what kind of people she'd gone up against and what price she'd paid to acquire the Demonic Empowerment spell in the first place.
 
@@ -14,13 +14,13 @@ And for Jace's part, he was also eager to go find the pyromancers of Shadowforge
 
 As a warlock who wielded demon magic, Molus Blacksear had a poor relationship with the pyromancers, so he couldn't help much on that front either. After leaving the warlock's residence, Jace would have to rely on himself next.
 
-Back in his quarters at the Black Iron Bar, Jace carefully stored the tomes he'd gotten from Molus alongside his spellbooks, then glanced at the imp sitting not far away on an iron chair. "I don't think the incantations the Dark Iron dwarves obtained from Dathmora are necessarily completely accurate. Remember what that collector in Booty Bay mentioned? Many warlocks haven't heard anything about Dathmora for decades now, and her incantations have been copied and recopied over and over."
+Back in his quarters at the Grim Guzzler, Jace carefully stored the tomes he'd gotten from Molus alongside his spellbooks, then glanced at the imp sitting not far away on an iron chair. "I don't think the incantations the Dark Iron dwarves obtained from Dasmora are necessarily completely accurate. Remember what that collector in Booty Bay mentioned? Many warlocks haven't heard anything about Dasmora for decades now, and her incantations have been copied and recopied over and over."
 
 He picked up the tome Molus had given him. "Take a look at this book. Aside from some demonic annotations, it's written almost entirely in Dwarvish — even less reliable than records in Orcish. So, Sazeno, when we get back, I need you to help me tidy up this incantation like before, see if there are any errors in it..."
 
-"Moruphil claims to be the lieutenant-general of the great Annihilan overlord Brutallus! That's enough to prove she's a genuine demon lord — at least she was, however many deaths ago... I'm telling you, master!" Sazeno pointed at the succubus looking askance at it from the side. "Shouldn't a demon lord be more familiar with demon incantations than a pitiful imp like me... let her do the work!"
+"Morophil claims to be the lieutenant of the great Annihilan overlord Brutallus! That's enough to prove she's a genuine demon lord — at least she was, however many deaths ago... I'm telling you, master!" Sazeno pointed at the succubus looking askance at it from the side. "Shouldn't a demon lord be more familiar with demon incantations than a pitiful imp like me... let her do the work!"
 
-"I'm only responsible for killing and being killed... not for memorizing incantations. The master is acknowledging your abilities," Moruphil said with a smile, looking Jace's way without a care.
+"I'm only responsible for killing and being killed... not for memorizing incantations. The master is acknowledging your abilities," Morophil said with a smile, looking Jace's way without a care.
 
 "Oof." Sazeno jumped up in frustration.
 
@@ -32,9 +32,9 @@ It pointed from the Twisting Nether circle to the Azeroth circle, then said, "Bu
 
 The imp's finger bounced back and forth between the two circles. "It looks like you're just pulling it from across the hall into the room, but actually our Gahun took a detour through the Twisting Nether. That's why warlocks need three people casting together to summon you over! And the reason a warlock can summon his own demon servant alone is because a powerful contract strengthens the connection — summoning with blood is incomparably stronger than a stranger's summoning! But even so, it still requires a massive amount of mana. So this might not be a problem with the incantation at all, master!"
 
-"Maybe you're just being lazy. You said all that just to avoid working for the master, refusing to obey the master's orders, violating the contract..." Moruphil said, propping her chin on her hand.
+"Maybe you're just being lazy. You said all that just to avoid working for the master, refusing to obey the master's orders, violating the contract..." Morophil said, propping her chin on her hand.
 
-"Shut up. You have no right to call me lazy, you meddling banshee. Don't try to pin such a serious charge on me!" the imp said with grave indignation.
+"Shut up. You have no right to call me lazy, you meddling sayaad. Don't try to pin such a serious charge on me!" the imp said with grave indignation.
 
 "All right, all right, I understand everything you're saying." Jace grabbed the imp by the ear and dragged its face toward him. "In the future I might use this incantation to summon you from far away. So to keep yourself from getting stuck in the void or torn to pieces by a low-quality summoning ritual, you're going to take this seriously."
 
@@ -42,23 +42,23 @@ Hearing this, the imp was stunned for a moment, then nodded vigorously. "I under
 
 Jace reached into his pack. "This is an incantation that absolutely cannot have errors. To motivate you to refine it properly, I'll give you this first."
 
-As he spoke, he tossed a demon healing stone to the imp.
+As he spoke, he tossed a demon healthstone to the imp.
 
 The imp hugged the demon stone and rocked it back and forth, astonished. "Master... so generous!"
 
 "Serving Jace Sesso isn't all bad," Jace said as he tightened the bandage.
 
-Moruphil glanced at the healing stone in the imp's hands, then looked at Jace. "As long as you can master the method of summoning demon servants, master, you won't have to worry about me dying by accident, will you? As long as I can reshape my body, as long as our souls haven't perished, we can reunite sooner or later."
+Morophil glanced at the healthstone in the imp's hands, then looked at Jace. "As long as you can master the method of summoning demon servants, master, you won't have to worry about me dying by accident, will you? As long as I can reshape my body, as long as our souls haven't perished, we can reunite sooner or later."
 
-Jace said, "I purely want the three of us to be able to meet up again as quickly as possible when we're in different places, Moruphil. You're not wrong, but I hope that kind of thing never happens."
+Jace said, "I purely want the three of us to be able to meet up again as quickly as possible when we're in different places, Morophil. You're not wrong, but I hope that kind of thing never happens."
 
-Moruphil's tail suddenly lashed hard from one side of her body to the other, wrapping tightly around her thigh, as she smiled and said, "The master's words make me very happy. Do you truly mean that?"
+Morophil's tail suddenly lashed hard from one side of her body to the other, wrapping tightly around her thigh, as she smiled and said, "The master's words make me very happy. Do you truly mean that?"
 
 "You can take it as sincere," Jace said, mimicking her expression with a smile.
 
-Moruphil's face darkened. The imp beside them covered its mouth and snickered — and got whipped away by the tail that had just unwound from the succubus's thigh.
+Morophil's face darkened. The imp beside them covered its mouth and snickered — and got whipped away by the tail that had just unwound from the succubus's thigh.
 
-When evening came, Jace and Sola came to the bar to eat. Given that Moruphil's severed wings were far too conspicuous, she could only stay in the room for the time being to keep out of the spotlight.
+When evening came, Jace and Sola came to the bar to eat. Given that Morophil's severed wings were far too conspicuous, she could only stay in the room for the time being to keep out of the spotlight.
 
 The bar was noisy and rowdy, full of all kinds of Dark Iron-style filthy curses. No wonder the other two clans of dwarves always spread tales that the Dark Iron dwarves of Shadowforge City were a bunch of madmen who'd fuck anything with a hole. Grede had also mentioned that these perverts, once drunk, would find any eye they could try jamming something into.
 
@@ -78,7 +78,9 @@ Jace said, "We'll find out once we track down the pyromancers and ask."
 
 "We won't know until we go look," Jace said. "I imagine even the most extremely clannish pyromancers won't sentence me to death on the spot just because I want to seek the right faith?"
 
-Just then a female dwarf waitress came over and asked in Dwarvish, "What can I get you?" Jace said, "Sliced bread — dark bread is fine. Two portions of pickled vegetables and two light ales."
+Just then a female dwarf waitress came over and asked in Dwarvish, "What can I get you?"
+
+Jace said, "Sliced bread — dark bread is fine. Two portions of pickled vegetables and two light ales."
 
 He glanced at Sola, then added, "And a portion of cheese, just one serving."
 
@@ -94,7 +96,7 @@ The waitress gave a slight nod and was about to leave when Jace called out to he
 
 Hearing Jace say this, the waitress's blood-red eyes lit up.
 
-"You can go to the Lyceum. There pyromancers preach the sacred words of the Firelord there from time to time... but I don't know if a place like that can accommodate an outsider like you."
+"You can go to the Lyceum. Pyromancers preach the sacred words of the Firelord there from time to time... but I don't know if a place like that can accommodate an outsider like you."
 
 Jace remembered the Lyceum. In the game, it was an enormous hall filled with grand pillars. Lighting the braziers between the pillars would trigger the next phase — opening the path to the palace where Emperor Thaurissan resided.
 
@@ -104,7 +106,7 @@ Jace guessed those were the courtesies reserved for adventurers invading Shadowf
 
 "Just from what you've said, I can tell it must be a truly magnificent place. No matter how grand it is, it should be able to accommodate the burning heart of a pilgrim," Jace said with a smile.
 
-"It's rare to meet a human who can recognize the power of fire so clearly, sir." The waitress's tone changed all at once. "As far as I know, early tomorrow morning there will be a sermon by a pyromancer of considerable standing — said to be a student of Dumrel, one of the Seven. You could try following the faithful to the Lyceum together. In these difficult times, we need the guidance of the Firelord Ragnaros all the more. His coming is a blessing upon us, and his blessing will save us again and again from the darkness. May the power of the Firelord and the Dark Iron Anvil illuminate your path, human."
+"It's rare to meet a human who can recognize the power of fire so clearly, sir." The waitress's tone changed all at once. "As far as I know, early tomorrow morning there will be a sermon by a pyromancer of considerable standing — said to be a student of Doom'rel, one of the Seven. You could try following the faithful to the Lyceum together. In these difficult times, we need the guidance of the Firelord Ragnaros all the more. His coming is a blessing upon us, and his blessing will save us again and again from the darkness. May the power of the Firelord and the Black Anvil illuminate your path, human."
 
 "And the same to you," Jace said in Dwarvish.
 
@@ -116,6 +118,6 @@ Jace smiled. "The Firelord really can illuminate the path — as long as that in
 
 "I think this is why the apostles of Ragnaros don't like warlocks," Jace said, leaning back in his chair with a smile. "Demons know best what all these messy forces really are — fel, shadow, fire elements..."
 
-Sola said with a helpless smile, "Then I'll come take a look the day after tomorrow too."
+Sola said with a helpless smile, "Then I'll come take a look tomorrow too."
 
 "All right," Jace said.

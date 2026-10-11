@@ -1,20 +1,20 @@
 ## Chapter 680: In the Name of a Test Flight
 
-Ilgalar Tower.
+The Tower of Ilgalar.
 
-Jace still remembered that old Redridge quest from the game: Morgas had betrayed the Wizard Sanctum and thrown himself into dark magic, allying with orcs and gnolls to brew poisons and black magic to plague the Kingdom of Stormwind. Players had to fight their way into this tower, climb to the top, and kill him and his demon servants.
+Jace still remembered that old Redridge quest from the game: Morganth had betrayed the Wizard's Sanctum and thrown himself into dark magic, allying with orcs and gnolls to brew poisons and black magic to plague the Kingdom of Stormwind. Players had to fight their way into this tower, climb to the top, and kill him and his demon servants.
 
-Although this tower was nowhere near the scale of the Wizard Sanctum's great mage tower, it was still the only mage tower on the shores of Lake Everstill — and the fact that it sat right near the military stronghold of Stonewatch spoke to its importance.
+Although this tower was nowhere near the scale of the Wizard's Sanctum's great mage tower, it was still the only mage tower on the shores of Lake Everstill — and the fact that it sat right near the military stronghold of Stonewatch spoke to its importance.
 
 But after everything it had been through during the Orc Wars, plus the endless tug-of-war between Stonewatch's soldiers and the gnolls, the tower probably wasn't in great shape these days.
 
-A few years from now, the Blackrock orcs of Blackrock Spire would invade Redridge once again and seize Stonewatch, which was how the traitor Morgas came to occupy it. From then on it became a genuine tower of shadow, riddled with all manner of dark-magic traps and inhabited by dark creatures. Demons.
+A few years from now, the Blackrock orcs of Blackrock Spire would invade Redridge once again and seize Stonewatch, which was how the traitor Morganth came to occupy it. From then on it became a genuine tower of shadow, riddled with all manner of dark-magic traps and inhabited by dark creatures. Demons.
 
 Even if this tower really would be handed over to Jace in the future, he had no idea whether he could actually manage a mage tower — surrounded by gnolls on all sides, with the threat of orcs to the north in the Burning Steppes...
 
 "Hey, Jace." Grede waved a hand in front of Jace's face. "What are you thinking about?"
 
-Jace snapped back to reality. He didn't know when the two of them had ended up back at the Pig and Whistle Inn.
+Jace snapped back to reality. He didn't know when the two of them had ended up back at the Pig and Whistle Tavern.
 
 "Did I agree to Varian Wrynn?" Jace asked.
 
@@ -38,7 +38,9 @@ Grede paused. "Can you cover it?"
 
 Jace hemmed and hawed for a moment, then said, "Right — why not have him catch some cattle or sheep in the hills along the way? We'll be passing right over Khaz Modan. Let him grab a mountain goat!"
 
-"Wouldn't causing trouble on Bronzebeard territory be a bit... inappropriate?" Grede said, scratching his beard. "Then let's have him catch a bear in Hillsbrad. Or a mountain lion," Jace said immediately.
+"Wouldn't causing trouble on Bronzebeard territory be a bit... inappropriate?" Grede said, scratching his beard.
+
+"Then let's have him catch a bear in Hillsbrad. Or a mountain lion," Jace said immediately.
 
 "What if he gets hurt?" Grede pressed. "And another thing — having him stay in the Dalaran gryphon roost, that's probably going to cost a fair bit too. You don't think the Kirin Tor is going to cover his upkeep, do you?"
 
@@ -54,7 +56,7 @@ He chuckled. Jace couldn't help but twitch the corner of his mouth upward, then 
 
 "What?" Jace pulled on his cloak. "You want to go see Gorjet?"
 
-"Not just see him." Grede said. "I'm going to ride him out for a spin. And as for where... we'll go to that Ilgalar Tower!"
+"Not just see him." Grede said. "I'm going to ride him out for a spin. And as for where... we'll go to that Tower of Ilgalar!"
 
 "That whole area's crawling with gnolls, Grede! And it's almost dark," Jace warned.
 
@@ -74,7 +76,7 @@ Grede came straight out with it. "Where's Gorjet?"
 
 The dwarf keeper led them through a low corridor, asking as they walked, "Did the two of you really... rescue a princess from Grim Batol?"
 
-"It was the Dragonqueen, Baudi!"
+"It was the Dragonqueen, Bardi!"
 
 "Why rescue a red dragon?!" the keeper asked, stunned.
 
@@ -91,12 +93,3 @@ The dwarf keeper led them through a low corridor, asking as they walked, "Did th
 "I envy you, Mr. Jace Sesso. I really hope I get to see it someday." The gryphon keeper shook his head. "As for me, I'm stuck here in Stormwind serving a prison sentence. No chance to go out. Not many humans are any good at riding gryphons. I thought training human gryphon handlers would be an easy posting, but living here is more miserable than being back at Aerie Peak. Grede, I'd rather go teach the elves in the Hinterlands how to drink."
 
 "I think, brother Bardi," Grede said, "teaching humans to ride gryphons is a good deal simpler."
-
-## Flags
-
-- **Ilgalar Tower** (伊尔加拉之塔): The mage tower near Stonewatch in Redridge, currently held by gnolls. King Varian promises it to Jace if he helps retake it. Canonical location.
-- **Gorjet** (戈尔杰特): Grede's gryphon, a large gray gryphon given to him by King Varian Wrynn. Rendering established in earlier chapters.
-- **Morgas** (莫甘斯): The mage who will eventually betray the Wizard Sanctum and occupy Ilgalar Tower. From the glossary.
-- **Baudi** (巴迪): The Stormwind gryphon keeper. Not in the glossary; rendering tentative.
-- **Grim Batol** (格瑞姆巴托): Canonical — the cursed abandoned dwarven city in the Wetlands where the Dragonqueen was imprisoned.
-- **The Pig and Whistle Inn** (猪和哨声旅店): Tavern in Old Town, Stormwind. From the glossary.

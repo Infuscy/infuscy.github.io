@@ -1,8 +1,8 @@
 ## Chapter 924: The Stone Hall
 
-The next fights began at once. Jace knew it would either be felhounds swarming a felguard or succubi tearing each other apart. Especially the succubi fights — those were eye-catching enough — but they definitely couldn't compare to a fight that would earn the Pathfinder's regard.
+The next fights began at once. Jace knew it would either be felhounds swarming a felguard or succubi tearing each other apart. Especially the succubi fights — those were eye-catching enough — but they definitely couldn't compare to a fight that would earn the Guide's regard.
 
-By now, the people around them were all casting envious or jealous glances at Jisasdes. Jace, on the other hand, used the Soul Link to signal Morophil, hiding at the periphery, that it was time to move. He needed her to find a way to follow the Pathfinder and the chosen Jisasdes and see where they intended to go for the ascension rite.
+By now, the people around them were all casting envious or jealous glances at Jisasdes. Jace, on the other hand, used the Soul Link to signal Morophil, hiding at the periphery, that it was time to move. He needed her to find a way to follow the Guide and the chosen Jisasdes and see where they intended to go for the ascension rite.
 
 Watching from here, he saw Morophil's shadow stick to the cave wall and follow them as they left through another entrance. Jace was just about to follow her shadow and slip away while the people in the cave had their attention turned back to the fight in the pit.
 
@@ -14,7 +14,7 @@ Jace nodded and backed up a few steps.
 
 This was an island you could take in with a single sweep of the eyes. Where could these people go? Nowhere except inside the lighthouse, the three or four buildings outside it, a few basement corridors, or the seaside cave.
 
-Jace came around to the other side of the cave and glanced in the direction they'd gone with Detect Demons. Only then did he realize that the entire interior of the lighthouse was filled with all sorts of demonic circles, plus demon shadows. How on earth was he supposed to make out where Morophil was in all of that?
+Jace came around to the other side of the cave and glanced in the direction they'd gone with Sense Demons. Only then did he realize that the entire interior of the lighthouse was filled with all sorts of demonic circles, plus demon shadows. How on earth was he supposed to make out where Morophil was in all of that?
 
 He'd noticed this the moment he'd arrived on the island — he really shouldn't have overlooked it.
 
@@ -22,9 +22,9 @@ The sensation through the Soul Link was growing fainter and fainter. This meant 
 
 And Kagamantus had also been blocking the path leading from here. It seemed Jace wasn't the first warlock who'd wanted to follow along to the ascension rite. He wasn't surprised. Going by how obsessed these warlocks were with earning a blessing, some might well follow on their own just for a chance to "tag along" to a blessing.
 
-Going by Jace's original guess, the Pathfinder might be living at the very top. So he returned to the lighthouse and followed the upward stairs all the way up, passing the floors where the demons and warlocks lived. When he reached the narrower section above, he was blocked by an iron gate.
+Going by Jace's original guess, the Guide might be living at the very top. So he returned to the lighthouse and followed the upward stairs all the way up, passing the floors where the demons and warlocks lived. When he reached the narrower section above, he was blocked by an iron gate.
 
-There was no scent of dragon blood here, no trace of dark magic. Jace used Detect Demons to look toward the top of the lighthouse and couldn't sense any demon shadows there, let alone any sign of Morophil.
+There was no scent of dragon blood here, no trace of dark magic. Jace used Sense Demons to look toward the top of the lighthouse and couldn't sense any demon shadows there, let alone any sign of Morophil.
 
 But then again, that was only natural. The lighthouse in Westfall was narrow at the top and wide at the bottom. It would already be a stretch to clear out a hall at the base of the lighthouse big enough for a dragonkin, a warlock, and any accompanying dragons to conduct a rite. The top was even more out of the question.
 
@@ -38,7 +38,7 @@ This didn't feel like the damage-sharing reaction of the Soul Link after taking 
 
 Damn it.
 
-Jace felt the scalp on his head go numb and he leaped down the stairs in huge strides.
+Jace's scalp prickled, and he leaped down the stairs in huge strides.
 
 But he couldn't just search the place in plain sight… No. There was no time to care about that now.
 
@@ -54,23 +54,23 @@ Jace was quite surprised that he'd been able to summon such a powerful monster. 
 
 He could only guess it was his emotions at that moment… some emotion that had influenced his communication with the Twisting Nether. And damn it, this was no time for that kind of thinking either.
 
-He said in demonic, "Sniff this, Dazarmu…"
+He said in Demonic, "Sniff this, Dazarm…"
 
-Dazarmu — probably in his umpteenth life — pressed forward and brought his tentacles close to Jace's vial, growling in a series of low "thrum thrum thrum" sounds. Jace said, "Find the place on this island where this scent is strongest. Now!"
+Dazarm — probably in his umpteenth life — pressed forward and brought his tentacles close to Jace's vial, growling in a series of low "thrum thrum thrum" sounds. Jace said, "Find the place on this island where this scent is strongest. Now!"
 
 The felhound let out a hoarse, excited keen, then turned and went bounding out of the room, his horns scraping against the narrow corridor walls the whole way. Jace grabbed his bag and immediately gave chase.
 
-The warlocks and guards along the way watched the felhound tearing through the corridor with Jace in tow, but none of them tried to stop him. After all, this was the lighthouse, not the Wizard Sanctum. This was a warlocks' gathering place. They should have been marveling at his ability to summon such a powerful demon and wanting to come learn his incantation and summoning method — not trying to catch him.
+The warlocks and guards along the way watched the felhound tearing through the corridor with Jace in tow, but none of them tried to stop him. After all, this was the lighthouse, not the Wizard's Sanctum. This was a warlocks' gathering place. They should have been marveling at his ability to summon such a powerful demon and wanting to come learn his incantation and summoning method — not trying to catch him.
 
 That's right. Watch all you want.
 
 Jace gritted his teeth, sensing that the Soul Link with Morophil seemed to be growing stronger again. He was in no mood to pay attention to where exactly the felhound was dragging him. He only knew to focus on keeping up. That was until he arrived in front of a hidden chamber, next to a metal trapdoor in the floor leading to a basement.
 
-The felhound stopped here, staring at the lock above. Jace glanced around. No one in sight. So he said in demonic, "Break it open!"
+The felhound stopped here, staring at the lock above. Jace glanced around. No one in sight. So he said in Demonic, "Break it open!"
 
-Dazarmu lashed at the door viciously with the claws of his front legs. Seeing it hadn't opened, Jace immediately chanted the Demon Empowerment incantation.
+Dazarm lashed at the door viciously with the claws of his front legs. Seeing it hadn't opened, Jace immediately chanted the Demonic Empowerment incantation.
 
-The moment the incantation completed, Dazarmu's whole body swelled up furiously, his tentacles and skin coursing with powerful shadow force. This time he let out a savage roar and smashed the iron plate clean open, charging down with it.
+The moment the incantation completed, Dazarm's whole body swelled up furiously, his tentacles and skin coursing with powerful shadow force. This time he let out a savage roar and smashed the iron plate clean open, charging down with it.
 
 "Good, good." Jace caught his breath and jumped in after him.
 
@@ -80,13 +80,13 @@ This underground passage stretched long toward who-knew-where, and even the wall
 
 Or perhaps, relying on the powerful demonic resources of felhounds and felguards, they'd been able to quickly carve out a place like this — after all, they didn't need to eat, didn't need to sleep…
 
-At the bottom of the tunnel was another stone door, this one even inscribed with dragon-language runes written in the dragonkin script. Morophil probably had no way of opening it.
+At the bottom of the tunnel was another stone door, this one even inscribed with Draconic runes in the dragonkin script. Morophil probably had no way of opening it.
 
 Just then, Jace suddenly felt a sharp pain in his abdomen…
 
 He spat up a mouthful of black blood laced with shadow. What was this? Morophil? Through the Soul Link, he could feel it — everything was right in there.
 
-Jace gripped Ursolus with both hands, took several running steps forward, and swung the staff hard at the door. The demon skull at the top of the staff spewed fresh, blood-red fel blood, sowing a scythe-blade shape through the air. As Jace swung it, the angle carved out a clean arc, tearing a breach in the stone door before him with brutal efficiency.
+Jace gripped Ulthalesh with both hands, took several running steps forward, and swung the staff hard at the door. The demon skull at the top of the staff spewed fresh, blood-red fel blood, tracing a scythe-blade shape through the air. As Jace swung it, the angle carved out a clean arc, tearing a breach in the stone door before him with brutal efficiency.
 
 Fragments flew everywhere, smashing against the walls. The stone door collapsed, and a blood-red fel light spilled out from within the stone chamber.
 
@@ -96,20 +96,24 @@ The dragonkin were channeling magic — but not at that warlock. They were direc
 
 It was Morophil. She was being forced into the corner by fire chains of several dragonkin, a colossal enchanted long spear pinning her ruthlessly to the wall, leaving her unable to move.
 
-"I overestimated… my… cough… master, he can sense…" Deep in the stone hall, a giant shadow more than four meters tall materialized.
+"I overestimated… my… cough… master, he can sense…"
 
-It was a drake — a drake clad in solid armor, a black monster with a human body and a dragon's head.
+Deep in the stone hall, a giant shadow more than four meters tall materialized.
+
+It was a drakonid — a drakonid clad in solid armor, a black monster with a human body and a dragon's head.
 
 "I was planning to personally torture and find out who her master is, but I didn't expect you to deliver yourself to my door. Did you want to earn my favor this way? I thought humans might be stupid, but I didn't expect them to be this stupid. Do you have any idea whose authority you're offending?"
 
-"Bow before the great Blackwing Emissary, Raschrel, miserable mortal," one of the dragonkin mages said. Raschrel — Jace remembered him.
+"Bow before the great Blackwing Emissary, Lashlayer, miserable mortal," one of the dragonkin mages said.
 
-In the game, he was a gatekeeper boss of Blackwing Lair. Inside, he led a group of dragonkin and orcs, helping the black dragon prince Nefarian monitor, enslave, and torture countless whelps of every color — those whelps that served as "experimental materials" for Nefarian's Chromatic whelp program.
+Lashlayer — Jace remembered him.
 
-Now that Nefarian had only just seized Blackrock Spire, he probably hadn't gathered enough whelps to give him work yet, so Raschrel had been sent here to play at being a Pathfinder… a giant blood bag who didn't know any magic himself, but possessed enough black dragon blood to feed the cultists and warlocks of the entire Kingdom of Stormwind.
+In the game, he was a gatekeeper boss of Blackwing Lair. Inside, he led a group of dragonkin and orcs, helping the black dragon prince Nefarian monitor, enslave, and torture countless whelps of every color — those whelps that served as "experimental materials" for Nefarian's chromatic whelp program.
 
-Jace channeled Blood Grasp, yanked the long spear impaling Morophil from a distance, and pulled it out, throwing it to the side. His gaze locked tightly on the group of dragons before him. Morophil, freed from the spear's pinning, released a blaze of fire that snapped the binding magic of the three dragonkin, then vanished into the shadows once more.
+Now that Nefarian had only just seized Blackrock Spire, he probably hadn't gathered enough whelps to give him work yet, so Lashlayer had been sent here to play at being a Guide… a giant blood bag who didn't know any magic himself, but possessed enough black dragon blood to feed the cultists and warlocks of the entire Kingdom of Stormwind.
 
-Jace raised Ursolus in his hands, its blood-red light fully unfurled, moaning with hunger. He glanced at the felhound at his feet, already poised for battle.
+Jace channeled Gorefiend's Grasp, yanked the long spear impaling Morophil from a distance, and pulled it out, throwing it to the side. His gaze locked tightly on the group of dragonkin before him. Morophil, freed from the spear's pinning, released a blaze of fire that snapped the binding magic of the three dragonkin, then vanished into the shadows once more.
 
-"Why don't you bow to your father-killer first?"
+Jace raised Ulthalesh in his hands, its blood-red light fully unfurled, moaning with hunger. He glanced at the felhound at his feet, already poised for battle.
+
+"Why don't you bow to your father's killer first?"

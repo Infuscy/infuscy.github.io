@@ -2,13 +2,13 @@
 
 It was hard to say which was more difficult — deciphering the contents recorded in the *Chronicle of Dark Secrets*, or understanding the Nathrezim language.
 
-Jace wasn't new to the dreadlords' tongue. Dathsmora had used their language to record clues about Usaalas, and some of the spells he'd encountered before contained obscure Nathrezim vocabulary too — like the necromantic scroll that orc death knight Angor Deathwish had left behind in the Riverpaw forest camp.
+Jace wasn't new to the dreadlords' tongue. Dasmora had used their language to record clues about Ulthalesh, and some of the spells he'd encountered before contained obscure Nathrezim vocabulary too — like the necromantic scroll that orc death knight Angor Deathwish had left behind in the Riverpaw forest camp.
 
 But this was the first time he'd actually tried to *read* the Nathrezim language, and he was already considering summoning Sazeno here to help.
 
 The reason he hadn't originally planned to bring the imp into Karazhan was because Khadgar had warned him that if Sazeno used Phase Shift in the tower, he might shift himself somewhere completely unknown.
 
-Mor'fel's shadow concealment wasn't as thorough as the imp's hiding in most places, but in Karazhan it was a definite advantage.
+Morophil's shadow concealment wasn't as thorough as the imp's hiding in most places, but in Karazhan it was a definite advantage.
 
 Still, Khadgar had said that after clearing out the shadows Aegwynn had trapped here, Karazhan's mana wasn't as chaotic anymore. So maybe he *could* summon the imp inside now?
 
@@ -34,9 +34,9 @@ After all, from the news Krasus had relayed from Northrend, the Lich King's move
 
 "Coming, coming!" Jace set down the grimoire and walked over to the mage. "Can you get the Curator to let demons into the library?"
 
-"And then what — let you copulate with a succubus in the greatest repository of knowledge in all of Azeroth?" Khadgar asked. "What strange ritual is this? The dual pleasure of forbidden knowledge and slick flesh, seeking the thrill of breaking rules under the watchful gaze of an arcane golem? Sounds like some kind of Sayad priest's evil sacrifice."
+"And then what — let you copulate with a succubus in the greatest repository of knowledge in all of Azeroth?" Khadgar asked. "What strange ritual is this? The dual pleasure of forbidden knowledge and slick flesh, seeking the thrill of breaking rules under the watchful gaze of an arcane golem? Sounds like some kind of sayaad priest's evil sacrifice."
 
-Jace coughed. "That's not it at all. I want to summon my imp in here to help me read books. 'Sayad evil sacrifice,' 'breaking rules,' 'multiple sensations of forbidden knowledge and slick flesh' — I mean, honored Archmage Khadgar, what exactly do you usually read in this library?"
+Jace coughed. "That's not it at all. I want to summon my imp in here to help me read books. 'Sayaad evil sacrifice,' 'breaking rules,' 'multiple sensations of forbidden knowledge and slick flesh' — I mean, honored Archmage Khadgar, what exactly do you usually read in this library?"
 
 "Ah, I see." Khadgar put on a serious expression. "I'll need to look into that further. First, try asking the Curator if he's willing to take you to the books you want."
 
@@ -48,7 +48,7 @@ The towering Curator still stood there silently, looking unchanged on the surfac
 
 "Hello, Mr. Jace Sesso. What can I help you with?"
 
-"Check my full access privileges in the Grand Library."
+"Check my full access privileges in the Great Library."
 
 "Stop!" Khadgar shouted at the Curator. "Suspend operation, Mr. Curator!"
 
@@ -80,13 +80,13 @@ Jace watched the arcane golem walk step by step into the side passage of the exh
 
 The Curator's smaller body led them through a corridor to a T-junction, stopping before a wall of shelves.
 
-Jace glanced at both passages, then back at where they'd come from, looking up at the shelves labeled "Dwarves, Earthen, and Creator Ruins." "Is this it? How—"
+Jace glanced at both passages, then back at where they'd come from, looking up at the shelves labeled "Dwarves, Earthen, and Ruins of the Makers." "Is this it? How—"
 
 He stopped mid-sentence, suddenly realizing the scene felt familiar. Wasn't there a secret—
 
 The golem suddenly raised its hand and chanted some kind of password. The shelf slid aside as expected, revealing a narrow, sinister passage that reeked of shadow and fel energy.
 
-The lighting inside wasn't arcane — it was bright shadowfire. Jace stepped in and saw row after row of shadowfire braziers stretching into an unseeable depth.
+The lighting inside wasn't arcane — it was bright Shadowflame. Jace stepped in and saw row after row of Shadowflame braziers stretching into an unseeable depth.
 
 "I never knew the library had a place like this." Khadgar said in surprise. "I'll have to ask the Curator later what else in this library apprentices aren't supposed to know."
 
@@ -94,7 +94,7 @@ Jace used demon detection to glance into the darkness ahead, confirmed no demons
 
 At the end, around a corner, he came to a hall lit by countless candles burning with purple-red flame.
 
-At the center of the hall was a dark ritual circle drawn with the congealed blood of something unknown. Outside the high windows, a blood-red sky was visible, as if this place was no longer in the same plane as the Grand Library.
+At the center of the hall was a dark ritual circle drawn with the congealed blood of something unknown. Outside the high windows, a blood-red sky was visible, as if this place was no longer in the same plane as the Great Library.
 
 The bookshelves stood behind the ritual circle, as if there was no concern at all that the dark magical energy might damage the pages.
 
@@ -112,15 +112,15 @@ Jace picked up a grimoire titled *Dragon Soul*, looking at its dark gold cover. 
 
 Not long after Khadgar left, a pair of burning eyes peered in from the entrance of the hall.
 
-"Anyone else here, darling?" Mor'fel asked with a smile.
+"Anyone else here, darling?" Morophil asked with a smile.
 
 "There will be in a second." Jace walked to the center of the ritual circle.
 
-"Who?" Mor'fel's smile vanished instantly. She looked past Jace at the piles of books and towering shelves, lowering her voice. "Damn it. Don't tell me it's that yellow lump."
+"Who?" Morophil's smile vanished instantly. She looked past Jace at the piles of books and towering shelves, lowering her voice. "Damn it. Don't tell me it's that yellow lump."
 
 "The very same." Jace smiled and began chanting the imp summoning spell. The irritated succubus walked over and plopped down onto a stack of books, looking away.
 
-"Hey? Where's this? What, master... what kind of place did you call me to?! Ha, Lady Mor'fel, good evening!"
+"Hey? Where's this? What, master... what kind of place did you call me to?! Ha, Lady Morophil, good evening!"
 
 "It's morning, you never-shut-up little bastard!"
 

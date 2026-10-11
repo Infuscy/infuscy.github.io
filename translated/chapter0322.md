@@ -1,12 +1,12 @@
-## Chapter 322: The Sailor's Home
+## Chapter 322: The Salty Sailor Tavern
 
-Booty Bay's layout was genuinely baffling to someone who'd just arrived. Fortunately, the town didn't seem to have much width to it — it was strung out in a crescent along Blackwater Bay — so as long as he kept walking and paid attention to the shop names on the streets above and below, he should be able to find an inn.
+Booty Bay's layout was genuinely baffling to someone who'd just arrived. Fortunately, the town didn't seem to have much width to it — it was strung out in a crescent along Blackwater Cove — so as long as he kept walking and paid attention to the shop names on the streets above and below, he should be able to find an inn.
 
-He walked all the way until evening, and finally spotted a towering building four or five stories high built up against a high cliff. He seemed to have some impression of this location. Could this be the Sailor's Home Inn from the game?
+He walked all the way until evening, and finally spotted a towering building four or five stories high built up against a high cliff. He seemed to have some impression of this location. Could this be the Salty Sailor Tavern from the game?
 
 When he got to the bottom of the building, he finally saw an old, weather-beaten sign propped up against the wall by a few goblin soldiers chatting nearby. The sign was written in several languages, and Common wasn't the most prominent among them.
 
-The Sailor's Home Inn. That was the one.
+The Salty Sailor Tavern. That was the one.
 
 The sky had already darkened. Jace headed for the small side door spilling flickering light. By now he could hear the noise coming from inside the tavern.
 
@@ -46,9 +46,9 @@ Honestly, even if this orc had some skill Jace needed, he didn't really want to 
 
 The inn's main hall was packed with people, and he could tell most of them were sailors of every description.
 
-"Every description" was literal. There were green-skinned ones, white-skinned ones, black-skinned ones, blue ones, pink ones, brown ones… The only lighting came from a fireplace far away and two fire basins hanging high from the ceiling, casting the light and shadow on every face in sharp relief. Add in the ones swaying and dancing to some unidentifiable tune, and it was impossible to tell the monsters from the devils.
+"Every description" was literal. There were green-skinned ones, white-skinned ones, black-skinned ones, blue ones, pink ones, brown ones… The only lighting came from a fireplace far away and two braziers hanging high from the ceiling, casting the light and shadow on every face in sharp relief. Add in the ones swaying and dancing to some unidentifiable tune, and the place looked like a gathering of every monster and devil under the sun.
 
-But once he'd adjusted to the lighting a bit, Jace watched a real monster and devil walk right up.
+But once he'd adjusted to the lighting a bit, Jace realized there was a genuine devil among them.
 
 A succubus was sitting there, perfectly openly, in a corner not far away.
 
@@ -62,7 +62,7 @@ It was just that the whole tavern was stuffed to the brim, and anyone trying to 
 
 He finally made it to the front counter and looked down to see a little imp rummaging around behind the counter, shouting at a goblin in a language he couldn't understand, while the goblin fired back impatiently with insults.
 
-"Got any rooms left, boss?" he asked the goblin behind the counter who looked like he was wearing the most expensive outfit.
+"Got any rooms left, innkeeper?" he asked the goblin behind the counter who looked like he was wearing the most expensive outfit.
 
 "What do you think, human? You don't look like a fresh arrival." The goblin gave him a sidelong glance. "Anyway, the rooms are all booked up early. Go find yourself a shady spot to sleep outside. It's not as dangerous as you think around here."
 
@@ -72,13 +72,13 @@ Jace nodded. "Then I'll take some food, and a dark beer."
 
 "All right." The goblin responded, hopped up, and slapped a small wooden board on the counter. "Take your time looking at the food."
 
-"Hammerhead… hammerhead shark, Blackwater Bay hammerhead shark raw slices, spicy, this one." Jace pointed at a line of crooked text.
+"Hammerhead… hammerhead shark, Blackwater Cove hammerhead shark raw slices, spicy, this one." Jace pointed at a line of crooked text.
 
 "You sure?"
 
 Even as the goblin asked, he'd already pulled the board back.
 
-Jace put the three silver listed as the price on the table. He had to admit, the prices here were absurdly expensive. But the name "Blackwater Bay spicy hammerhead shark raw slices" did seem worth three silver.
+Jace put the three silver listed as the price on the table. He had to admit, the prices here were absurdly expensive. But the name "Blackwater Cove spicy hammerhead shark raw slices" did seem worth three silver.
 
 After all, he'd never eaten hammerhead shark in either of his lives.
 
@@ -110,7 +110,7 @@ Hunger, a craving for fat and meat, and the bizarre sour-bitter-stinky flavor al
 
 Just as he was regretting not just buying some plainly steamed fish or something to fill his stomach, the soul of Morophil beside him seemed to stir restlessly.
 
-Jace couldn't help coughing twice, but his hand tightened on the sword hilt at his waist. Was something dangerous closing in?
+Jace couldn't help coughing twice, but his hand tightened on the sword hilt at his hip. Was something dangerous closing in?
 
 "Human, you like troll food?"
 

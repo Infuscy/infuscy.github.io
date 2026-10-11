@@ -2,7 +2,7 @@
 
 The ancient's strides were enormous, and it left quickly. Everyone knew it was probably pacing back and forth on patrol, and could come back at any time, so the group hurried up the terrace, keeping to the side of the ramp.
 
-After heading west a short way, Vereesa caught some kind of sound up ahead and signaled everyone to press against the wall.
+After heading east a short way, Vereesa caught some kind of sound up ahead and signaled everyone to press against the wall.
 
 Once they'd quieted down and listened carefully, it turned out to be snorting, huffing breaths.
 
@@ -42,7 +42,7 @@ That reminded Grede. "The Horde."
 
 "We're here to compete, not to sign on as mercenaries for a bounty," Jace said to the ogre. "Take us gladiators inside, Krokk."
 
-"Krokk happy serve, Krokk happy help! Long live Gorduni! Long live King Gordok!" the ogre let out a silly laugh and turned to squeeze into a crack in the stone wall smashed open by who-knows-what.
+"Krokk happy serve, Krokk happy help! Long live Gordunni! Long live King Gordok!" the ogre let out a silly laugh and turned to squeeze into a crack in the stone wall smashed open by who-knows-what.
 
 Vereesa watched the ogre effortlessly wedge himself into the crack, his filthy, fat bulk scraping against the wall and sending down a shower of dust and debris. All she could do was frown and follow him in.
 
@@ -68,7 +68,7 @@ Vereesa's smile vanished in an instant. The ogre turned his head back. "Pointy-e
 
 "Quilboar willing help King Gordok build big palace. Now only big tree left. Kill big tree!"
 
-"What kind of palace could Quilboar build?" Grede said, half laughing, half exasperated.
+"What kind of palace could quilboar build?" Grede said, half laughing, half exasperated.
 
 Listening to this ogre chatter away, he seemed eager to spill every last detail of the arena — how most of the gladiators lived in the underground tunnels, bought food from goblins, or hunted animals on the city's outskirts to fill their bellies; how the ogres had already occupied the north but still couldn't get through some magically sealed gates... But he never once mentioned the word "satyr" or "demon."
 
@@ -90,18 +90,6 @@ Grede was amused by that line — until he turned and saw a towering ogre soldie
 
 This ogre was easily over three meters tall. Even next to Mosa he looked positively gaunt by comparison. He was draped in scraps of battered armor, some of them even bearing Orcish markings — clearly refitted from orc armor. The wooden-hafted giant blade he carried was longer than Jace's entire body.
 
-Jace knew the Gorduni ogres were a clan that revered martial challenge. Their king was unquestionably the strongest fighter in the whole clan — at least considerably stronger than this guard.
+Jace knew the Gordunni ogres were a clan that revered martial challenge. Their king was unquestionably the strongest fighter in the whole clan — at least considerably stronger than this guard.
 
 Getting slapped by a man that size would be no joke.
-
-## Flags
-
-- **Krokk**: 库洛克 — the ogre guide; OC name, transliterated.
-- **Gorduni / Gordok**: 戈杜尼 / 戈多克 — the ogre clan (Gorduni) and their king (King Gordok); Gordok is canonical (Dire Maul North's ruler).
-- **War of the Horde**: 部落 — Grede reminds Jace the ogres were aligned with the Horde.
-- **Quilboar**: 野猪人 — the pig-like race allied with the ogres here.
-- **Booty Bay**: Canonical goblin port (藏宝海湾) — Jace's guess for where ogres spend their arena earnings.
-- **Dire Maul West / East / North**: 厄运西 / 厄运东 / 厄运北 — the three wings of the dungeon; Jace notes the current occupation doesn't match the game's later state.
-- **Satyrs not yet present**: Jace deduces the satyrs haven't entered Dire Maul at this point in the timeline.
-- **Orcish**: 兽人语 — the ogres speak a dialect of Orcish; Jace can follow the gist but not the details.
-- **POV**: Third person throughout.

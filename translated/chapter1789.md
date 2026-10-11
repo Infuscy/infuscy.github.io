@@ -1,6 +1,6 @@
 ## Chapter 1789: The Holy Light and the Mage
 
-The walk from Bal'irman at the mountain's base to the great monastery was still a long haul. By the time they could finally see the monastery gates, the sky was already quite dark.
+The walk from Barimand at the mountain's base to the great monastery was still a long haul. By the time they could finally see the monastery gates, the sky was already quite dark.
 
 But even in the twilight, the row of white walls stood like battlements, towering high, with the shadows of churches rising behind them like straight swords. Amid these barren northern mountains, the sense of pressure they gave off was no less than the spire of the Cathedral of Light back in Stormwind, surrounded by its clustered houses.
 
@@ -34,7 +34,7 @@ Needleflame, who was at the front of the group, jogged back and stopped the mage
 
 Jace looked up at the heights too. In the game, if you walked this far, you'd probably already have some tough Scarlet Crusade guards spotting you and charging in for a fight. Farther ahead were even more annoying Scarlet wizards, battle mages who were fierce in both melee and casting, and scarlet monks.
 
-By contrast, aside from some resting pilgrims and a few priests guiding them, there wasn't a single armed guard in sight. It didn't match the monastery's stern, almost military-fortress vibe at all — felt more like walking into a cathedral square.
+By contrast, aside from some resting pilgrims and a few priests guiding them, there wasn't a single armed guard in sight. It didn't match the monastery's stern, almost military-fortress vibe at all — felt more like walking into a Cathedral Square.
 
 But considering the other timeline, Scarlet Monastery was already one of Lordaeron's last strongholds where the army and church resisted the Scourge and the Forsaken. Being armed to the teeth made sense. Here, the Orc Wars were over, the black dragon crisis was basically resolved, and there was now an effective cure for the plague. The monastery didn't have to constantly fear a Stromgarde cavalry raid or Gilnean sneak attack like Ambermill did. They really didn't need tight security.
 
@@ -50,7 +50,7 @@ The dwarf immediately dropped the grin. "I was joking, mage-boy. Don't get sore.
 
 "Before we came, I made sure the orb's packaging was well-protected — magical isolation, feature concealment, so those priests who are sensitive to dark magic wouldn't sense anything off. I guarantee you, if I had enough time, I could smuggle this thing into the Violet Hold and nobody'd ever know I had it on me till I got out."
 
-"Is that blowing it a bit too far?" Grede muttered.
+"Ain't that layin' it on a bit thick?" Grede muttered.
 
 "But I overlooked one thing." Khadgar flat-out ignored the dwarf's doubt. "And that's that the Monastery of the Light isn't Dalaran, and those priests don't just rely on their eyes or floating magical auras to detect danger."
 
@@ -78,6 +78,6 @@ They lingered there for a moment. Pilgrims occasionally passed by, climbing the 
 
 "I don't know. Maybe it's a Nathrezim that worships the Light." Khadgar snorted. "But since we're here, there's no room for regrets. So let's go. Let's see how much fate you really have with the Holy Light."
 
-I wonder, Khadgar, after this trip, will you finally believe I summoned the Light to deliver the final blow to Sargeras' scepter?
+*I wonder, Khadgar, after this trip, will you finally believe I summoned the Light to deliver the final blow to Sargeras' scepter?*
 
 Jace thought this to himself but said nothing, just nodded and headed toward the great monastery.

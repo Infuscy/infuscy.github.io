@@ -1,24 +1,24 @@
 ## Chapter 652: Grim Batol
 
-Clad in a dark violet void robe, leaning on a staff of deep blue, the orc warlock carrying a sapphire magic sword stared from a distance at the colossal, vine-choked gate. The anvil emblem atop it was still clearly visible despite the blanket of vegetation.
+Clad in a dark violet Robe of the Void, leaning on a staff of deep blue, the orc warlock carrying a sapphire magic sword stared from a distance at the colossal, vine-choked gate. The anvil emblem atop it was still clearly visible despite the blanket of vegetation.
 
 Below the high cliff on which Grim Batol sat, earthen ramparts and wooden gates lined both sides of the road leading to the main entrance, with sharpened stakes and piles of wooden spikes heaped beneath them. Each of these barricades was manned by a varying number of orc guards.
 
 Jace simply walked out of the trees, fully intending to stride up the road straight to the gate with Morophil in tow, when a series of shouts rang out from the mountain path.
 
-Several orc guards came running, yelling at him to stop. At the same time, a patrol of red hatchlings — lizard-headed young dragons — circling overhead slowly descended, until Jace could clearly make out the heavily armored orc rider on one dragon's back.
+Several orc guards came running, yelling at him to stop. At the same time, a patrol of red drakes — lizard-headed young dragons — circling overhead slowly descended, until Jace could clearly make out the heavily armored orc rider on one dragon's back.
 
 The dragon rider bellowed something at Jace in a language he didn't know. Jace stared back at him, his heart skipping for a second. He'd rehearsed seven or eight questions they might ask — but he'd never imagined he wouldn't understand a word when the guy actually opened his mouth.
 
-Still, Jace was fairly confident in his orcish by now, and he quickly realized what was going on. "I don't speak your tribal tongue, Dragonmaw," he said, injecting irritation into his voice.
+Still, Jace was fairly confident in his Orcish by now, and he quickly realized what was going on. "I don't speak your tribal tongue, Dragonmaw," he said, injecting irritation into his voice.
 
 Hearing that, the orc's eyes widened, and he switched to the orcish Jace could understand. "Warlock, you're not of the Dragonmaw clan. Where are you from? I can't place you by your getup."
 
-Jace could tell this fellow's orcish accent was drastically different from the orcish he'd learned — very unlike any orc he'd heard speak before, including Teron Gorefiend.
+Jace could tell this fellow's Orcish accent was drastically different from the orcish he'd learned — very unlike any orc he'd heard speak before, including Teron Gorefiend.
 
 Good thing he hadn't tried disguising himself as a Dragonmaw orc. He hadn't expected the Dragonmaw to have their own peculiar dialect.
 
-Most of the orcish he'd learned probably belonged to the Blackrock clan, after all. The Blackrock had been the main orcish force that invaded Azeroth, and they were also the clan of the first Warchief, Blackhand. So it stood to reason their orcish would spread more easily and become something like the Horde's standard tongue. The fact that these Dragonmaw orcs spoke it too more or less proved the point.
+Most of the orcish he'd learned probably belonged to the Blackrock clan, after all. The Blackrock had been the main orcish force that invaded Azeroth, and they were also the clan of the first Warchief, Blackhand. So it stood to reason their Orcish would spread more easily and become something like the Horde's standard tongue. The fact that these Dragonmaw orcs spoke it too more or less proved the point.
 
 So Jace fixed the rider with an impatient, hard stare and said, "I come from Blackrock Mountain. The Warchief has sent me to visit the Dragonmaw commander. I bear a message of the utmost importance for Grim Batol."
 
@@ -34,21 +34,21 @@ Was Deathwing helping him?
 
 The moment the guards saw the glow, the young red dragon beneath the rider let out a terrified roar. The rhythm of its huge wings faltered, and the gale it whipped up nearly knocked every soldier off their feet.
 
-Faced with the hatchling's panic and fury, Jace didn't flinch in the slightest. He stood firm on the spot while his robe and the wrappings on his staff snapped wildly in the wind.
+Faced with the drake's panic and fury, Jace didn't flinch in the slightest. He stood firm on the spot while his robe and the wrappings on his staff snapped wildly in the wind.
 
 Even though this young dragon could tear him apart in an instant if it lost control, he kept his eyes locked on the red dragon's without a trace of fear. He was even a little surprised at how calm he could stay facing a beast like this.
 
-After all, he'd already killed two black hatchlings. This one wasn't any stronger — it was a lot skinnier, in fact. Not to mention compared to the existence he was about to deal with, this wasn't even an appetizer.
+After all, he'd already killed two black drakes. This one wasn't any stronger — it was a lot skinnier, in fact. Not to mention compared to the existence he was about to deal with, this wasn't even an appetizer.
 
 His only real worry right now was Vereesa and Grede, lying in ambush not far off, ready to back him up at any moment.
 
 The two of them could very well have been exposed by that blast of wind, but Jace quickly realized the dragon rider had his hands full just trying not to fall off his mount — never mind keeping an eye on the hidden corners.
 
-After the hatchling calmed down, one of the guards edged forward to glance at Jace's arm.
+After the drake calmed down, one of the guards edged forward to glance at Jace's arm.
 
 Staring at the dragon claw brand, still clearly recognizable even through the orc disguise, the soldier swallowed nervously.
 
-Jace had actually prepared a few other forms of identification — like bringing up his Shadow Council status, or showing off his Gorefiend-blood staff.
+Jace had actually prepared a few other forms of identification — like bringing up his Shadow Council status, or showing off Gorefiend's staff.
 
 If he couldn't definitively prove he came from Blackrock Spire, at least he could prove he held a high position in the Horde. That way, even if Nekros suspected his identity, he'd have no choice but to receive him out of caution.
 
@@ -62,7 +62,7 @@ At that moment the dragon rider shouted from above, "The Dragonmaw clan means no
 
 "For the Horde." The dragon rider struck his chest with one fist, then said to the other orcs nearby, "Keep a close eye on this warlock from Blackrock Spire. I'm going inside to report to the Warlord."
 
-With that, the orc urged his hatchling toward the city. He didn't fly through the main gate — he entered the mountain from above. Hopefully Grede and Vereesa would notice this opening the hatchlings used to come and in and out. It might come in handy later.
+With that, the orc urged his drake toward the city. He didn't fly through the main gate — he entered the mountain from above. Hopefully Grede and Vereesa would notice this opening the drakes used to come in and out. It might come in handy later.
 
 After he'd been inside for a while, several orc shouts echoed from the direction of the Grim Batol gate, and the orc soldiers standing before Jace cleared aside.
 
@@ -78,7 +78,7 @@ Following several orc soldiers through the gate, his vision went completely dark
 
 Before him stretched a broad, black gallery, its ceiling so high it was nearly impossible to make out. Even the braziers along the walls couldn't illuminate the highest reaches.
 
-Walking through it, one could easily sense the shadow energy thick enough to threaten a person's health. The space reeked of the foul, coppery tang of Shadow magic, mingled with a less aggressive but distinctly strong stink. If Jace had to describe it, it reminded him of the beastly musk of the "Baron of the Black Night" he'd met on the ship to Lordaeron.
+Walking through it, one could easily sense the shadow energy thick enough to threaten a person's health. The space reeked of the foul, coppery tang of Shadow magic, mingled with a less aggressive but distinctly strong stink. If Jace had to describe it, it reminded him of the beastly musk of the "Night Baron" he'd met on the ship to Lordaeron.
 
 After several turns and a downward flight of stairs, he passed through a gate that was practically another "crack," and finally reached the interior of Grim Batol.
 
@@ -110,8 +110,8 @@ Observing the city as he followed the orc soldiers forward, he crossed a stone b
 
 He couldn't sense it directly, but judging by the dark magic drifting up from within, he could reasonably infer it. One could say the shadow power of the entire city actually originated from this abyss.
 
-Reaching the street on the far side, those strange cries from before seemed to be getting closer. After walking a little further, he came upon a corner where a red hatchling was being forcibly restrained and pressed to the ground by a crowd of orcs. Even though this hatchling was no smaller than the black dragons Jace had seen before, it was skin and bones. A large portion of its scales had flaked off entirely, making it look like it had been Life Drained half to death.
+Reaching the street on the far side, those strange cries from before seemed to be getting closer. After walking a little further, he came upon a corner where a red drake was being forcibly restrained and pressed to the ground by a crowd of orcs. Even though this drake was no smaller than the black dragons Jace had seen before, it was skin and bones. A large portion of its scales had flaked off entirely, making it look as if half the life had been drained out of it.
 
-"Not all hatchlings are like this, warlock," the orc officer leading the way said, turning his head. "The Warlord says we'll soon be able to breed hatchlings as strong as before — strong enough to stand against the Alliance armies. In any case, we will never disappoint the Warchief."
+"Not all drakes are like this, warlock," the orc officer leading the way said, turning his head. "The Warlord says we'll soon be able to breed drakes as strong as before — strong enough to stand against the Alliance armies. In any case, we will never disappoint the Warchief."
 
 Jace gave a snorting laugh. "I have no doubt. The Warchief has every confidence in your cause as well."

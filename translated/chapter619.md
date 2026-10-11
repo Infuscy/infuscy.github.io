@@ -1,8 +1,8 @@
 ## Chapter 619: Everything as Usual, Yet Not Quite
 
-When Jace woke up the next day it was already nearly ten. He jolted upright, and only when he saw the grey-white tower of Stormwind's prison standing out clearly in the distance through the window did he remember — he no longer had to attend classes or go tidy up for Marin.
+When Jace woke up the next day it was already nearly ten. He jolted upright, and only when he saw the grey-white tower of Stormwind's prison standing out clearly in the distance through the window did he remember — he no longer had to attend classes or go tidy up for Malin.
 
-He ran a fingers through his haphazardly scraggly stubble and bird's-nest of curly hair, and couldn't help but recall the feeling of Windrunner holding him at the docks of Booty Bay.
+He ran his fingers through his haphazardly scraggly stubble and bird's-nest of curly hair, and couldn't help but recall the feeling of Vereesa holding him at the docks of Booty Bay.
 
 He twisted his mouth awkwardly and sucked in a breath. He rummaged through his pack for a knife or dagger of some sort, but after a long search all he turned up was the Blade of Eternal Darkness. The Shadow energy drifting faintly above it was no longer as brazenly obvious as when it had first been dragged from a demon's belly in the ruins of Eldre'Thalas.
 
@@ -86,15 +86,15 @@ The words were out, but after a moment's thought Jace decided Grede's scenario w
 
 "What's wrong, Grede? You don't seem to be in very high spirits," Jace asked.
 
-"I'm thinking about Musa," Grede said. "What if she gets caught by the centaur again?"
+"I'm thinking about Mosa," Grede said. "What if she gets caught by the centaur again?"
 
-"She once had nothing," Jace said. "The Horde, her family — all gone. She lived for revenge alone. Now she has you. That changes everything. She'll take good care of herself."
+"She once had nothing," Jace said. "Her tribe, her family — all gone. She lived for revenge alone. Now she has you. That changes everything. She'll take good care of herself."
 
 "Maybe," Grede said.
 
 Jace said, "I can tell — this time you're serious."
 
-"If you'd told me before we set out that I'd develop feelings for a tauren, I'd have smashed your skull in," Grede said, dazed. "But Musa changed everything."
+"If you'd told me before we set out that I'd develop feelings for a tauren, I'd have smashed your skull in," Grede said, dazed. "But Mosa changed everything."
 
 "Maybe I sensed it when I saw her fighting those centaur to the death — I just wasn't willing to admit I could be attracted to a cow or a lioness back then. Now I can't say for sure either."
 
@@ -102,23 +102,4 @@ Jace said, "I can tell — this time you're serious."
 
 After eating, they left the Gilded Rose. By the time Jace had gone to the Trade District market to buy some daily necessities and returned home, it was already evening.
 
-Jace casually grabbed some dry bread, stuffed a handful of cheese crumbs into a cloth bag and tossed it into his warlock's pack, and looked at the succubus who'd been smiling at him the whole time. "Come on, Morophil. Don't forget to bring Vilethorn's demon skin."
-
-## Flags
-
-- **温蕾萨** → "Windrunner": Vereesa Windrunner (canonical youngest Windrunner sister).
-- **莫洛菲尔** → "Morophil": Jace's succubus (glossary standard).
-- **莫萨** → "Musa": tauren druid/hunter companion (not in glossary; transliterated).
-- **达斯莫拉** → "Dasmora": the entity Jace siphoned vitality from in Kalimdor.
-- **无尽黑暗之刃** → "Blade of Eternal Darkness": the dagger Jace uses to shave (and later to carve runes).
-- **埃雷萨拉斯** → "Eldre'Thalas": the ancient high elf ruins (the former hold of the Shen'dralar).
-- **格瑞德** → "Grede": Jace's dwarf companion (glossary standard).
-- **蛮锤** → "Wildhammer": Grede's dwarven clan (glossary standard).
-- **镶金玫瑰** → "the Gilded Rose": inn in Stormwind (glossary standard).
-- **藏宝海湾** → "Booty Bay": port in Stranglethorn Vale (glossary standard).
-- **热砂港** → "Steamwheedle Port": goblin port (Steamwheedle Cartel, glossary standard).
-- **肯瑞托** → "Kirin Tor": mage council (glossary standard).
-- **维利塔恩** → "Vilethorn": the demon lord whose demon skin Jace brings to the Slaughtered Lamb.
-- **萨特** → "satyr": Vilethorn is a satyr demon (glossary standard).
-- **玛拉顿** → "Maraudon": the dungeon where Jace encountered Vilethorn (glossary standard).
-- Chapter title "一切如常，但也有不一样" → "Everything as Usual, Yet Not Quite."
+Jace casually grabbed some dry bread, stuffed a handful of cheese crumbs into a cloth bag and tossed it into his warlock's bag, and looked at the succubus who'd been smiling at him the whole time. "Come on, Morophil. Don't forget to bring Vyletongue's demon skin."

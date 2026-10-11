@@ -14,7 +14,7 @@ And now that he was here, he even harbored a sliver of suspicion about another l
 
 Dar'Khan was a Quel'Thalas scholar of the Twisting Nether. Not only that, but he'd also been privately researching dark magic all along, and the subjects of his research were quite forbidden. And Kel'Thuzad was a senior archmage who'd been secretly researching the death knight's fall into dark magic in Dalaran — could there be some connection between the two of them? Was that the reason Dar'Khan had appeared in Dalaran?
 
-Maybe. But more likely, he was letting Kel'Thuzad get to his head and was overthinking things. In any case, visiting Amy Marin was a must.
+Maybe. But more likely, he was letting Kel'Thuzad get to his head and was overthinking things. In any case, visiting Amy Malin was a must.
 
 "Nothing better to do right now," Jace said, glancing at his pocket watch. "Almost three o'clock. We've still got a few hours before our ship leaves for Lordaeron. Don't you want to find something to do with that time?"
 
@@ -34,7 +34,7 @@ Maybe. But more likely, he was letting Kel'Thuzad get to his head and was overth
 
 The two of them walked to a garden path beside the college. The Kirin Tor mages' dormitories were just ahead.
 
-Following the address Vereesa had gotten from an elven professor, they entered a pretty little building with purple roof tiles, and found a wooden door on the ground floor facing the garden's shaded walkway. On it Jace saw the surname Marin, plus Amy's initials in both Common and elven, as well as a symbol of the Eye of the Arcane.
+Following the address Vereesa had gotten from an elven professor, they entered a pretty little building with purple roof tiles, and found a wooden door on the ground floor facing the garden's shaded walkway. On it Jace saw the surname Malin, plus Amy's initials in both Common and elven, as well as a symbol of the Violet Eye.
 
 "This is it." Jace raised his hand. "Should we use some kind of spell or cantrip to knock?" Vereesa sighed helplessly and watched Jace obediently rap on the door several times.
 
@@ -42,13 +42,13 @@ Following the address Vereesa had gotten from an elven professor, they entered a
 
 "I'm home. Who is it?"
 
-A familiar voice came from inside, and it immediately brought back memories of his days doing chores for old Marin — it had been just like this, a wooden door with a garden outside too.
+A familiar voice came from inside, and it immediately brought back memories of his days doing chores for old Malin — it had been just like this, a wooden door with a garden outside too.
 
 He glanced sideways at the elf beside him. Vereesa was looking at him too. The difference was, this time he wasn't coming alone.
 
 "Jace Sesso and Vereesa Windrunner are here to visit, Amy." Jace called out. "Jace?"
 
-The door was flung open with a bang. Amy still looked the same, but she seemed a bit more worn out than before. She stared at Jace, clearly sizing up her height, her eyes full of surprise.
+The door was flung open with a bang. Amy still looked the same, but she seemed a bit more worn out than before. She stared at Jace, clearly sizing up his height, her eyes full of surprise.
 
 "Why are you here? You couldn't even write ahead... and Lady Vereesa Windrunner..."
 
@@ -90,7 +90,7 @@ Jace and Vereesa exchanged a glance, momentarily unsure where to begin. It seeme
 
 "Stormwind?!" Amy said, startled. "You bought a house in Stormwind?"
 
-"The Leskoval house, by the canal," Jace said, unable to hide a hint of pride. "I'm going back to Lordaeron this time to discuss moving with my parents... So, Amy — I kept my word, didn't I?"
+"The Lescovar house, by the canal," Jace said, unable to hide a hint of pride. "I'm going back to Lordaeron this time to discuss moving with my parents... So, Amy — I kept my word, didn't I?"
 
 "You really are something..." Amy looked at Vereesa and narrowed her eyes. "You didn't have Lady Vereesa Windrunner subsidize you a little, did you?"
 
@@ -105,14 +105,3 @@ Jace and Vereesa exchanged a glance, momentarily unsure where to begin. It seeme
 Jace and Vereesa gave her a rough account of the Kalimdor adventure, and Amy talked about her studies at the Kirin Tor — including those powerful senior mages. She even mentioned Kel'Thuzad.
 
 "Do you attend his classes often?" Jace asked. "I mean, Archmage Kel'Thuzad."
-
-## Flags
-
-- **Dar'Khan** (达尔坎): Dar'Khan Drathir, the Quel'Thalas magister Jace is suspicious of. Canonical traitor. From chapter 689-690.
-- **Amy Marin** (艾米·马林): Apprentice mage, daughter of Master Marin. From the glossary.
-- **Goldthorn tea** (金棘茶): Tea made from the herb Goldthorn. The herb is in the glossary; "goldthorn tea" is a natural rendering.
-- **Nethergarde Keep** (守望堡): The fortress near the Dark Portal. From the glossary.
-- **Leskoval house** (莱斯科瓦家的房子): The house Jace bought in Stormwind, by the canal. Not in the glossary; rendering tentative (OC noble family name).
-- **Sylvanas** (希尔瓦娜斯): Vereesa's eldest sister, the Ranger-General of Silvermoon. Canonical.
-- **Kel'Thuzad** (克尔苏加德): Archmage of the Kirin Tor. Canonical.
-- **Eye of the Arcane** (紫罗兰之眼): The Kirin Tor symbol on Amy's doorplate. From the glossary.

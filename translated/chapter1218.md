@@ -2,19 +2,19 @@
 
 Jace slapped Morophil's backside. "Help me find a good spot to sleep, darling."
 
-"Inciter" Blac'kat was an exceedingly clever ogre. Jace didn't know whether the fellow genuinely wanted to know where this cloak had come from, or whether he was simply suspicious that Jace might not be the real deal.
+Blackheart the Inciter was an exceedingly clever ogre. Jace didn't know whether the fellow genuinely wanted to know where this cloak had come from, or whether he was simply suspicious that Jace might not be the real deal.
 
 Considering he might have to tangle with him for a while, Jace used the Soul Link to hint to Morophil to wander around the Arcane Sanctum for now and see if she could find any leads on the captives on her own.
 
 Morophil took Jace's hand and kissed it lightly, her expression perfectly natural as she glanced off into the distance and sauntered away.
 
-Blac'kat's one-eyed head watched the succubus go, while his other head — the one with two eyes and a single horn — coughed. "Over here, over here. Come, warlock. You'll have to tell me slowly — I love hearing stories, you know! Legendary stories!"
+Blackheart's one-eyed head watched the succubus go, while his other head — the one with two eyes and a single horn — coughed. "Over here, over here. Come, warlock. You'll have to tell me slowly — I love hearing stories, you know! Legendary stories!"
 
 "What, an ogre can't get his hands on a black dragon-hide cloak for himself?" Jace asked with a smile, stepping over several Broken slaves who lay dead asleep as he walked toward the ogre.
 
-"You've got some nerve, you really do." Blac'kat's smile cooled a fraction. The one-eyed head said, "Come to think of it, none of us have seen you before. When did you join the Cult?"
+"You've got some nerve, you really do." Blackheart's smile cooled a fraction. The one-eyed head said, "Come to think of it, none of us have seen you before. When did you join the Cabal?"
 
-Jace glanced at a distant group of orcs. "So you don't dare call yourselves the Shadow Council anymore either. I quite understand. After all, I can't imagine what Targonor would think if he came back and saw this. My master was looking for an outstanding warlock cabal to help him rule all of Draenor, not..."
+Jace glanced at a distant group of orcs. "So you don't dare call yourselves the Shadow Council anymore either. I quite understand. After all, I can't imagine what Teron'gor would think if he came back and saw this. My master was looking for an outstanding warlock cabal to help him rule all of Draenor, not..."
 
 Boooom...
 
@@ -24,7 +24,7 @@ The orcs in the hall barely reacted. They seemed long accustomed to these spine-
 
 The ogre was the same. He was completely unfazed, both heads smiling at Jace as they waited for him to continue.
 
-Jace bent down, picked up a Soul Shard at random, examined the soul energy within it carefully, and said, "Not... this weak and chaotic."
+Jace bent down, picked up a soul shard at random, examined the soul energy within it carefully, and said, "Not... this weak and chaotic."
 
 "Weak and chaotic?" The ogre chuckled, his whole belly of fat jiggling. The single-horned head asked, "Are you talking about that shard, or about one of us?"
 
@@ -36,31 +36,31 @@ This ogre was even cleverer than Jace had expected. He'd been trying to pry info
 
 Since Morophil had already been let go by the ogre and had the chance to search the Arcane Sanctum for captives, Jace had no intention of risking arousing this ogre's guard any further.
 
-He set the Soul Shard down on a table beneath a purple tent nearby and said in a low voice, "Your tone displeases me, Blac'kat. Or rather, the whole atmosphere of the Arcane Sanctum displeases me. I'm already not very much looking forward to tomorrow's meeting with your Grandmaster Vorpil."
+He set the soul shard down on a table beneath a purple tent nearby and said in a low voice, "Your tone displeases me, Blackheart. Or rather, the whole atmosphere of the Arcane Sanctum displeases me. I'm already not very much looking forward to tomorrow's meeting with your Grandmaster Vorpil."
 
 "You know who I am," both heads said suddenly, in unison.
 
 "There aren't that many arrogant two-headed ogre warlocks in the Shadow Council," Jace said, staring at the single-horned head. "The last one was clever enough to betray the Shadow Council and Gul'dan — and the Legion."
 
-At the mention of Cho'gall's defection, Blac'kat's arrogance diminished noticeably. The single-horned head smiled and asked, "What is your name?"
+At the mention of Cho'gall's defection, Blackheart's arrogance diminished noticeably. The single-horned head smiled and asked, "What is your name?"
 
-"Yurok." Jace gave a slight nod. "Envoy of Lord Magtheridon."
+"Yurk." Jace gave a slight nod. "Envoy of Lord Magtheridon."
 
-"Why didn't anyone tell me you were from Hellfire Citadel? You really don't look the part." The ogre raised his hands as if in surrender. The single-horned head said, "Still, I must apologize to you, Grandmaster Yurok. But I truly wasn't joking with you or deliberately trying to displease you."
+"Why didn't anyone tell me you were from Hellfire Citadel? You really don't look the part." The ogre raised his hands as if in surrender. The single-horned head said, "Still, I must apologize to you, Grandmaster Yurk. But I truly wasn't joking with you or deliberately trying to displease you."
 
 "That's right," the one-eyed head said. "We genuinely want to know how you got your hands on this extraordinary dragon-hide cloak. It's searing, passionate — I can see bright, burning flames within it. It sets the heart racing! I treasure treasures like this, Grandmaster. Come, let's talk properly. I don't like having eavesdroppers around when we discuss treasures..."
 
-Blac'kat beckoned and turned, walking toward a spacious doorway on the other side.
+Blackheart beckoned and turned, walking toward a spacious doorway on the other side.
 
-Jace could already sense through the Soul Link that Morophil had made her way into another hall. If Jace could keep this Blac'kat occupied and buy the succubus some time to observe, that wouldn't be bad either.
+Jace could already sense through the Soul Link that Morophil had made her way into another hall. If Jace could keep this Blackheart occupied and buy the succubus some time to observe, that wouldn't be bad either.
 
 So he suppressed his own urge to look around everywhere and calmly followed the ogre.
 
-Blac'kat led Jace into a fairly tall, collapsed cavern. It looked like an actual ogre's den — covered in thick shadow runes, decorated with no small number of skulls and skeletons, most of them orc and draenei, though a few were clearly human or elf.
+Blackheart led Jace into a fairly tall, collapsed cavern. It looked like an actual ogre's den — covered in thick shadow runes, decorated with no small number of skulls and skeletons, most of them orc and draenei, though a few were clearly human or elf.
 
-Blac'kat flopped down onto an abstract, brown-black leather-covered sculpture that barely qualified as a seat. He reached into a wooden barrel beside him, pulled out a heap of entrails and limbs, and shoved a portion into each of his two mouths. A thick stench of blood immediately filled the entire room.
+Blackheart flopped down onto an abstract, brown-black leather-covered sculpture that barely qualified as a seat. He reached into a wooden barrel beside him, pulled out a heap of entrails and limbs, and shoved a portion into each of his two mouths. A thick stench of blood immediately filled the entire room.
 
-"Are you hungry, Grandmaster Yurok?" the one-eyed head mumbled, reaching over with what looked like a dark-red liver.
+"Are you hungry, Grandmaster Yurk?" the one-eyed head mumbled, reaching over with what looked like a dark-red liver.
 
 "I generally don't eat mine raw," Jace said.
 
@@ -70,13 +70,13 @@ Blac'kat flopped down onto an abstract, brown-black leather-covered sculpture th
 
 "Fair enough." The one-eyed head nodded vigorously and glanced sidelong at the single-horned head. "Fair, isn't it?"
 
-"Fair!" The single-horned head smiled in agreement, then said, "I have news of a treasure, and I can say with absolute certainty that you will be very interested, Grandmaster Yurok."
+"Fair!" The single-horned head smiled in agreement, then said, "I have news of a treasure, and I can say with absolute certainty that you will be very interested, Grandmaster Yurk."
 
 Now Jace's interest was truly piqued, though he also felt somewhat frustrated at having been played by this ogre's machinations. But what did he have to lose?
 
 He smiled. "When I was traveling in Kalimdor, I once met a black dragon who didn't know the meaning of death. He believed I was the one who'd killed his father and wanted to settle the score..."
 
-"Ha!" Blac'kat's one-eyed head laughed. "You're a bit too far off in size from the great Gruul."
+"Ha!" Blackheart's one-eyed head laughed. "You're a bit too far off in size from the great Gruul."
 
 "You think Gruul killed Deathwing?" Jace asked.
 
@@ -86,13 +86,15 @@ Jace smiled. "Although Deathwing was badly battered in his lair, he didn't die �
 
 "You're doubting a gronn — and the Gronn King, at that," the single-horned head said gravely.
 
-Jace tapped his own temple. "Don't act like I'm the first person in the world to look down on those idiots, Blac'kat."
+Jace tapped his own temple. "Don't act like I'm the first person in the world to look down on those idiots, Blackheart."
 
 Both of the ogre's heads couldn't help but chuckle, slapping their bellies in excitement. Jace snorted a laugh along with them. "Do you want to know who it was who battered Deathwing?"
 
 "Tell me." The single-horned head leaned in. "It wasn't you, was it?"
 
-"I'll tell you the truth, and you share that treasure's whereabouts with me." Jace said. "Deal." Both heads spoke as one.
+"I'll tell you the truth, and you share that treasure's whereabouts with me," Jace said.
+
+"Deal." Both heads spoke as one.
 
 "A human mage named Khadgar," Jace said.
 
@@ -102,20 +104,20 @@ As he spoke, the single-horned head stared into Jace's eyes, then seemed to catc
 
 The fellow really was sharp — sharp enough to detect emotions and even accurately analyze what lay behind them. But Jace wasn't surprised.
 
-"No, but that's not the point of the story, Blac'kat." He shook his head. "If you'd seen Deathwing's true form, you'd know his body was held together with elemental metal plating. And that human mage picked up on that with keen insight. He used a simple arcane spell to dismantle that plating, causing his body to rupture..."
+"No, but that's not the point of the story, Blackheart." He shook his head. "If you'd seen Deathwing's true form, you'd know his body was held together with elemental metal plating. And that human mage picked up on that with keen insight. He used a simple arcane spell to dismantle that plating, causing his body to rupture..."
 
-"Ah!" Blac'kat slapped the arm of his seat. "A genius! I knew those humans were clever as hell, hmph. But how do you know all this?"
+"Ah!" Blackheart slapped the arm of his seat. "A genius! I knew those humans were clever as hell, hmph. But how do you know all this?"
 
 "Alliance soldiers who had the chance to return told me themselves." Jace raised an eyebrow. "With the help of certain special methods, of course. When Khadgar and his servants encountered Deathwing, that soldier was following loyally at his side, facing Deathwing and the wrath of countless black dragons alongside him. And it was precisely because of this that Khadgar trusted him to carry important treasures and intelligence back before the Dark Portal closed."
 
-The ogre shook his single-horned head. "That is a truly marvelous story — no, a marvelous piece of intelligence. By the Dark Master, I never once truly doubted the substance of Gruul's 'Dragon-Slayer' title, hmph. It must be that Auchindoun's affairs have consumed too much of my time and energy — most vexing. But in any case, I'm satisfied, Grandmaster Yurok. We're all satisfied!"
+The ogre shook his single-horned head. "That is a truly marvelous story — no, a marvelous piece of intelligence. By the Dark Master, I never once truly doubted the substance of Gruul's 'Dragon-Slayer' title, hmph. It must be that Auchindoun's affairs have consumed too much of my time and energy — most vexing. But in any case, I'm satisfied, Grandmaster Yurk. We're all satisfied!"
 
-"Very well," Jace said, looking rather pleased with himself. "Your turn, then, Blac'kat. Don't tell me the treasure you want to discuss is the Skull of Gul'dan. As a warlock who's been to the other side of the Dark Portal, I'm fairly confident I know better than you where it might be hidden."
+"Very well," Jace said, looking rather pleased with himself. "Your turn, then, Blackheart. Don't tell me the treasure you want to discuss is the Skull of Gul'dan. As a warlock who's been to the other side of the Dark Portal, I'm fairly confident I know better than you where it might be hidden."
 
-"You're a clever orc, Grandmaster Yurok. I'll be as honest with you as I can." The single-horned head glanced outside the tent, then lowered his voice. "Have you ever heard of the 'Book of the Fel Names'?"
+"You're a clever orc, Grandmaster Yurk. I'll be as honest with you as I can." The single-horned head glanced outside the tent, then lowered his voice. "Have you ever heard of the 'Tome of Demon Names'?"
 
-Jace frowned slightly. Blac'kat had pronounced the name in halting, unfamiliar Demonic, which made Jace's mind do an extra turn.
+Jace frowned slightly. Blackheart had pronounced the name in halting, unfamiliar Demonic, which made Jace's mind do an extra turn.
 
-But it almost immediately brought to mind an item that existed in the game — one closely tied to "Inciter" Blac'kat, and whose name was very similar to this Demonic appellation.
+But it almost immediately brought to mind an item that existed in the game — one closely tied to Blackheart the Inciter, and whose name was very similar to this Demonic appellation.
 
-A demon registry? Was he talking about the Grimoire of the Fel Names?
+A demon registry? Was he talking about the Book of Fel Names?

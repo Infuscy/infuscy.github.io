@@ -1,28 +1,28 @@
 ## Chapter 1155: What a Mage Finds Appealing
 
-The golden sailboat docked at Dalaran's harbor. From a distance, catching sight of the magic city's towering purple castles and the floating white spires hanging even higher, even old Vik — a man who'd seen plenty — couldn't help standing up and walking to the bow to gaze curiously.
+The golden sailboat docked at Dalaran's harbor. From a distance, catching sight of the magic city's towering purple castles and the floating white spires hanging even higher, even old Vic — a man who'd seen plenty — couldn't help standing up and walking to the bow to gaze curiously.
 
 He'd served as a cavalryman in Durnholde when he was young, but he'd never gotten close to Dalaran. After settling in the royal city, he'd had no chance to go have a look.
 
-Though both sat on the shores of Lake Lordamere, Dalaran was barely open to outsiders, and there was a sense of distance from the mages. To most citizens of the royal city, Dalaran was no different from a mythical city.
+Though both sat on the shores of Lordamere Lake, Dalaran was barely open to outsiders, and there was a sense of distance from the mages. To most citizens of the royal city, Dalaran was no different from a mythical city.
 
 The first time Jace had woken up in a Dalaran inn, he'd felt pretty much the same way — and he could say he'd already been quite familiar with Dalaran in his past life, yet he'd still been stunned. So he could empathize with his parents' astonished expressions.
 
 Jace let his parents look around the harbor area first, then left the port with Vereesa for a path beside Dalaran's academy. He still remembered where Amy had lived before — that garden-like purple little building.
 
-He passed through the wooden fence gate and walked down the familiar tree-lined path to the building. Just as Jace raised his hand to knock, Vereesa patted his shoulder and pointed at the nameplate by the door — the name on it was no longer Amy Marin.
+He passed through the wooden fence gate and walked down the familiar tree-lined path to the building. Just as Jace raised his hand to knock, Vereesa patted his shoulder and pointed at the nameplate by the door — the name on it was no longer Amy Malin.
 
 Still, Jace knocked.
 
 "Who is it?" came an unfamiliar woman's voice from inside.
 
-"A friend of Amy Marin's," Jace said.
+"A friend of Amy Malin's," Jace said.
 
-The door opened, and the woman mage inside sized Jace up, then looked at Vereesa, and said, "Mistress Marin no longer lives here, you two."
+The door opened, and the woman mage inside sized Jace up, then looked at Vereesa, and said, "Mistress Malin no longer lives here, you two."
 
 "Do you know where she went?" Jace asked.
 
-"Mistress Marin is a lecturer now, so she's moved into the Kirin Tor academy. It's not far from here, but I don't know exactly where she lives," the woman mage said.
+"Mistress Malin is a lecturer now, so she's moved into the Kirin Tor academy. It's not far from here, but I don't know exactly where she lives," the woman mage said.
 
 "Thank you very much. We'll go look at the academy," Jace said.
 
@@ -42,7 +42,7 @@ Dalaran's academy was divided into several sections by two streets. The largest 
 
 Walking into the garden between the buildings, Jace noticed that most of the children here had clean faces, a spirited look, and smooth, full complexions — clearly all from wealthy or noble families.
 
-He still remembered the first time he'd gone to the Wizard Sanctum in Stormwind, he'd felt that the young people coming out of the Mage Quarter were all tall and slender, with fine figures — like a bunch of aliens compared to the folks on the Trade District's main streets. And the children here in Dalaran were even a cut above that.
+He still remembered the first time he'd gone to the Wizard's Sanctum in Stormwind, he'd felt that the young people coming out of the Mage Quarter were all tall and slender, with fine figures — like a bunch of aliens compared to the folks on the Trade District's main streets. And the children here in Dalaran were even a cut above that.
 
 Guided by a young mage, they found one of the lecturers' residences, but came up empty.
 
@@ -52,7 +52,7 @@ She was holding a few magic books and talking with a young student. After Jace a
 
 "Jace, what are you doing here…"
 
-"Jace Sesso?" the blonde female student immediately looked over. "Mistress Marin, this is Archmage Jace Sesso? Then the one beside him must be the Ranger-General of Quel'Thalas, Lady Vereesa Windrunner."
+"Jace Sesso?" the blonde female student immediately looked over. "Mistress Malin, this is Archmage Jace Sesso? Then the one beside him must be the Ranger Lord of Quel'Thalas, Lady Vereesa Windrunner."
 
 Honestly, Jace hadn't wanted these mages to know he'd made a round through Dalaran, but since he'd been recognized, he could only nod and say, "That's me, miss."
 
@@ -62,11 +62,11 @@ Amy smiled, and the female student introduced herself: "I'm Jaina Proudmoore. Yo
 
 "You're the princess of Kul Tiras?" Vereesa asked in surprise.
 
-"An admiral, Lady Vereesa," the female student corrected immediately.
+"The Lord Admiral's daughter, Lady Vereesa," the female student corrected immediately.
 
 "Yes… right." Vereesa also nodded. "A pleasure to meet you, Lady Jaina Proudmoore."
 
-"Likewise, miss."
+"Likewise, my lady."
 
 So this was Jaina?
 
@@ -76,7 +76,7 @@ It was probably because his impression of Jaina was still stuck on that little g
 
 Of course, even now she was only fourteen or fifteen, but perhaps children raised in great noble families had plenty of nutrition — she wasn't much shorter than Amy.
 
-Jaina Proudmoore's looks weren't the "stunning the nation" type he'd imagined. She was probably just a fairly pretty, clever girl. The cascade of soft blonde hair falling over her shoulders was rather more memorable.
+Jaina Proudmoore's looks weren't the breathtaking, kingdom-toppling kind he'd imagined. She was probably just a fairly pretty, clever girl. The cascade of soft blonde hair falling over her shoulders was rather more memorable.
 
 But then, who knew what she'd grow into in a few years — after all, she was the girl who'd make that "Golden Boy" lose his head.
 
@@ -112,7 +112,7 @@ Amy led the two to her dormitory room. She closed the door and they each sat dow
 
 Jace organized his thoughts a little, then asked point-blank: "Is it possible… to disguise a mage tower with arcane magic?"
 
-"You mean Ilgalar Tower? Are the gnoll troubles that serious?" Amy asked.
+"You mean the Tower of Ilgalar? Are the gnoll troubles that serious?" Amy asked.
 
 "It's a demon problem, Amy," Jace said.
 
@@ -126,13 +126,13 @@ Amy looked at Vereesa. "You mean your demons? You want to use arcane magic to di
 
 Amy closed her eyes and covered her forehead. "You know I can't turn you down, Jace, but this really is a bit beyond my capabilities."
 
-Jace quickly glanced at Vereesa, then asked, "Do you know about the Thalarax crystal, Amy?"
+Jace quickly glanced at Vereesa, then asked, "Do you know about the Taralfsin Crystal, Amy?"
 
 "I know it." Amy nodded with a troubled look, then seemed to realize something and her eyes widened.
 
 She lowered her voice. "I'm not going to help you steal that thing from the Violet Hold, Jace Sesso. Forget me — even if Kel'Thuzad lost his mind, he couldn't do it!"
 
-"No, no, Amy." Vereesa said quickly. "Archmage Belvar plans to install a fragment of the Thalarax crystal in Ilgalar Tower after the renovation work is complete."
+"No, no, Amy." Vereesa said quickly. "Grand Magister Belo'vir plans to install a fragment of the Taralfsin Crystal in the Tower of Ilgalar after the renovation work is complete."
 
 Amy looked stunned, as if she hadn't quite understood what Vereesa was saying.
 

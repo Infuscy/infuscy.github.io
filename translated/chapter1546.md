@@ -2,7 +2,7 @@
 
 The vial of elemental water Duke Hydraxis had given them was far more terrifying than it looked. Simply seeing it had made Roccor's presence shrink, his voice losing its steadiness.
 
-He stared at the object in Jace's hand for a long moment before speaking quietly. "I was born beneath the Sulfuron Spire, Jace Sesso. Are you expecting me to teach you how to use the Essence of Water? The one who gave it to you didn't tell you how?"
+He stared at the object in Jace's hand for a long moment before speaking quietly. "I was born beneath the Sulfuron Spire, Jace Sesso. Are you expecting me to teach you how to use the Aqual Quintessence? The one who gave it to you didn't tell you how?"
 
 "No." Jace said. "Duke Hydraxis left it with me and then departed."
 
@@ -10,11 +10,11 @@ He stared at the object in Jace's hand for a long moment before speaking quietly
 
 "That irresponsible, scatterbrained water elemental is just like that." The lava lord let out a sound like cracking stone, something like a strange laugh.
 
-"The reason Hydraxis didn't tell you is because it doesn't know how to use it against Ragnaros's flame runes either."
+"The reason Hydraxis didn't tell you is because it doesn't know how to use it against Ragnaros's fire runes either."
 
-Hydraxis was the one who gave out the Essence of Water in the game — how could it not know how to use it?
+Hydraxis was the one who gave out the Aqual Quintessence in the game — how could it not know how to use it?
 
-But thinking again — after he and Amy had gotten the Essence of Water from Hydraxis, Jace and Amy had summoned other water elementals to ask about its use. And none of those water elementals, big or small, strong or weak, had dared to say for sure how to use it to destroy the Molten Core.
+But thinking again — after he and Amy had gotten the Aqual Quintessence from Hydraxis, Jace and Amy had summoned other water elementals to ask about its use. And none of those water elementals, big or small, strong or weak, had dared to say for sure how to use it to destroy the Molten Core.
 
 Jace had thought that if the water elementals didn't know, the fire elementals — their enemy — might. So he'd planned to ask this lava lord when he saw him. He hadn't expected Roccor to be clueless either.
 
@@ -22,15 +22,15 @@ Jace had thought that if the water elementals didn't know, the fire elementals �
 
 "Neptulon the Tidehunter, hiding cowardly in the depths of the Great Sea, was once a cunning and vicious tyrant... yet now he doesn't even trust his own kind."
 
-It wasn't hard to understand. He had suffered too many betrayals — from allies, from his own offspring. The Essence of Water was originally a treasure he had created from his own body to distribute to his most trusted servants and children, to resist the Firelord's power. Yet many years ago, some of his own offspring and allies had used the Essence of Water in rituals to destroy his own power instead.
+It wasn't hard to understand. He had suffered too many betrayals — from allies, from his own offspring. The Aqual Quintessence was originally a treasure he had created from his own body to distribute to his most trusted servants and children, to resist the Firelord's power. Yet many years ago, some of his own offspring and allies had used the Aqual Quintessence in rituals to destroy his own power instead.
 
-"Hydraxis — that arrogant one — has been cooperating with various forces since we entered Azeroth from Blackrock Mountain, trying to shake the Molten Core. But I never knew he had preserved a genuine vial of Essence of Water as a trump card... He does have some skill. His standing among water elementals is higher than I thought."
+"Hydraxis — that arrogant one — has been cooperating with various forces since we entered Azeroth from Blackrock Mountain, trying to shake the Molten Core. But I never knew he had preserved a genuine vial of Aqual Quintessence as a trump card... He does have some skill. His standing among water elementals is higher than I thought."
 
-"Still, it's not that high. From what you've said, he's just like the other young water elementals — not trusted by Neptulon. He only knows that the Essence of Water is the key to defeating Ragnaros, but not the specifics of how to use it."
+"Still, it's not that high. From what you've said, he's just like the other young water elementals — not trusted by Neptulon. He only knows that the Aqual Quintessence is the key to defeating Ragnaros, but not the specifics of how to use it."
 
 "He didn't tell me any of this." Jace said.
 
-"Tell you what? That the Tidehunter can no longer command the water elementals?" Roccor let out a pleased sound of cracking stone. "Or maybe he had confidence in you. He thought you'd find a way to unleash the Essence of Water's power."
+"Tell you what? That the Tidehunter can no longer command the water elementals?" Roccor let out a pleased sound of cracking stone. "Or maybe he had confidence in you. He thought you'd find a way to unleash the Aqual Quintessence's power."
 
 "Then he overestimated me." Jace said.
 
@@ -38,21 +38,21 @@ It wasn't hard to understand. He had suffered too many betrayals — from allies
 
 "Aside from luck, most of the credit goes to Deathwing himself. And a little bit of trickery." Jace said.
 
-"That trickery was probably more complicated than using the Essence of Water." Roccor said.
+"That trickery was probably more complicated than using the Aqual Quintessence." Roccor said.
 
 Hearing that from the lava elemental made Jace sigh deeply.
 
-He'd known from the game lore of his past life that Deathwing's scale could easily shatter the Demon Soul. But his past-life gaming experience hadn't told him exactly what steps were condensed into "click on the Essence of Water." It was like Gul'dan's Hand in the game — you just dragged it to your action bar and pressed the corresponding key. Who knew it involved so many incantations, gestures, and emotional investment?
+He'd known from the game lore of his past life that Deathwing's scale could easily shatter the Demon Soul. But his past-life gaming experience hadn't told him exactly what steps were condensed into "click on the Aqual Quintessence." It was like Hand of Gul'dan in the game — you just dragged it to your action bar and pressed the corresponding key. Who knew it involved so many incantations, gestures, and emotional investment?
 
-"Could it be that the usage is too simple?" He held up the bottle and made a pouring gesture. "Like, just pour the water from this bottle directly onto the flame runes?"
+"Could it be that the usage is too simple?" He held up the bottle and made a pouring gesture. "Like, just pour the water from this bottle directly onto the fire runes?"
 
-"Possibly." Roccor said. "But after hearing what I told you about the Essence of Water's origin, are you willing to take that risk?"
+"Possibly." Roccor said. "But after hearing what I told you about the Aqual Quintessence's origin, are you willing to take that risk?"
 
-Just then, a patrol of Dark Iron dwarves and a Flameguard passed by outside the crevice. The lava lord lowered his head. "Come with me."
+Just then, a patrol of Dark Iron dwarves and a flame guard passed by outside the crevice. The lava lord lowered his head. "Come with me."
 
-The two of them naturally walked the other way. Once they were far from the sound of those Dark Iron boots, Roccor spoke as he rolled forward. "The Essence of Water isn't ordinary elemental water. It's different even from rare water essence. It's more like a fragment of the Tidehunter Neptulon's elemental soul. That's why it can destroy the Firelord's magical runes — but it can also be used against the Tidehunter himself."
+The two of them naturally walked the other way. Once they were far from the sound of those Dark Iron boots, Roccor spoke as he rolled forward. "The Aqual Quintessence isn't ordinary elemental water. It's different even from rare water essence. It's more like a fragment of the Tidehunter Neptulon's elemental soul. That's why it can destroy the Firelord's magical runes — but it can also be used against the Tidehunter himself."
 
-"I don't know what would happen if you poured it directly onto a protection rune, but I'm sure it wouldn't be what you expect. Besides, there are seven flame runes. How do you plan to extinguish all seven with that one small bottle?"
+"I don't know what would happen if you poured it directly onto a protection rune, but I'm sure it wouldn't be what you expect. Besides, there are seven fire runes. How do you plan to extinguish all seven with that one small bottle?"
 
 "Then where should I find someone who knows how to use it?" Jace asked. "Where can I find a water elemental more powerful than Duke Hydraxis? Do I have to go to the coast and ask the Tidehunter himself?"
 
@@ -62,7 +62,7 @@ So where was he supposed to find this so-called ancient water elemental?
 
 He couldn't even think of a few specific names from his past-life memories, let alone how to summon them.
 
-"Maybe we don't have to limit ourselves to ancient water elementals." Roccor said then. "I know of one being in the Molten Core who would certainly know how to use the Essence of Water to destroy the Firelord's magical runes."
+"Maybe we don't have to limit ourselves to ancient water elementals." Roccor said then. "I know of one being in the Molten Core who would certainly know how to use the Aqual Quintessence to destroy the Firelord's magical runes."
 
 "Don't tell me it's Ragnaros himself." Jace joked.
 
@@ -70,8 +70,8 @@ He couldn't even think of a few specific names from his past-life memories, let 
 
 Thunderaan the Windseeker — of course Jace knew who that was. He was famous for wielding the legendary "Thunderfury, Blessed Blade of the Windseeker," a legendary item practically every WoW player knew about.
 
-"His name sounds like a wind elemental." Jace still had to pretend it was his first time hearing the name. "Why would a wind elemental know how to use the Essence of Water, something even water elementals don't understand?"
+"His name sounds like a wind elemental." Jace still had to pretend it was his first time hearing the name. "Why would a wind elemental know how to use the Aqual Quintessence, something even water elementals don't understand?"
 
-Roccor explained, "A long, long time ago, Thunderaan was the vanguard of the Skywall against the fire. When the Sulfuron Spire's power was at its peak, Sulfuron's mortal enemies — the water elementals — didn't hesitate to join forces with their old rivals, the wind elementals, to fight us. That ancient war birthed countless ice and storm elementals. And back then, neither Roccor nor Hydraxis had even been born yet. That means Thunderaan the Windseeker not only knows how to use the Essence of Water — he may have actually used it, Jace Sesso."
+Roccor explained, "A long, long time ago, Thunderaan was the vanguard of the Skywall against the fire. When the Sulfuron Spire's power was at its peak, Sulfuron's mortal enemies — the water elementals — didn't hesitate to join forces with their old rivals, the wind elementals, to fight us. That ancient war birthed countless ice and storm elementals. And back then, neither Roccor nor Hydraxis had even been born yet. That means Thunderaan the Windseeker not only knows how to use the Aqual Quintessence — he may have actually used it, Jace Sesso."
 
-"But the problem now is that after Thunderaan was defeated by Ragnaros, most of his power was drained, and the remnants were split into two parts and entrusted to the two lieutenants who helped Ragnaros defeat him — Garr and Geddon. One, a lava lord like Roccor himself. The other, an incredibly vicious fire elemental lord. Jace knew this without Roccor having to tell him."
+But the problem now was that after Thunderaan was defeated by Ragnaros, most of his power had been drained, and the remnants split into two parts and entrusted to the two lieutenants who had helped Ragnaros defeat him — Garr and Geddon. One was a lava lord like Roccor himself; the other, an incredibly vicious fire elemental lord. Jace knew this without Roccor having to tell him.

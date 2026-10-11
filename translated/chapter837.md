@@ -1,6 +1,6 @@
 ## Chapter 837: No Ordinary Mercenaries
 
-The group relived their battle against the chimera as they crammed into the goblin tavern with no sign. The narrow little room was already packed. They squeezed into a two-person table, and the goblin boss spotted Morophil and immediately shouted, "Hey, get your succubus out of here! That stink is unbearable! You still want to eat or what?"
+The group relived their battle against the chimaera as they crammed into the goblin tavern with no sign. The narrow little room was already packed. They squeezed into a two-person table, and the goblin boss spotted Morophil and immediately shouted, "Hey, get your succubus out of here! That stink is unbearable! You still want to eat or what?"
 
 "My companion doesn't give off the scent you're familiar with, sir," Jace said.
 
@@ -10,7 +10,7 @@ The group relived their battle against the chimera as they crammed into the gobl
 
 The goblin boss was taken aback for a moment, then nodded. "Well, since you put it that way, then it's fine. Indeed it is. Please, have a seat, my lady."
 
-The tavern's other patrons, who had looked up curiously at the notice the argument, also lowered their heads one by one and went back to their own conversations after catching Morophil's gaze.
+The tavern's other patrons, who had looked up curiously at the argument, also lowered their heads one by one and went back to their own conversations after catching Morophil's gaze.
 
 Jace sat down and said quietly to the succubus who'd taken the seat next to him, "Try to use your charm magic as little as possible. It might attract the attention of the goblin guards here."
 
@@ -44,7 +44,7 @@ The waitress answered, "Mead brewed by the elves of Mount Hyjal. A recipe ten th
 
 "No problem." The waitress smiled and turned to leave.
 
-Grede stared wide-eyed. "People actually steal owlbeasts' eggs to eat — that's insane! Even the Amani trolls of Zinsara wouldn't dare do something like that!"
+Grede stared wide-eyed. "People actually steal owlbeasts' eggs to eat — that's insane! Even the Amani trolls of Jintha'Alor wouldn't dare do something like that!"
 
 "Well, that's why they're so expensive," Vereesa said, resting her chin on her hand.
 
@@ -80,7 +80,7 @@ What was even stranger were the dark green tattoos on her pale face and a silver
 
 "Hello," Jace said, looking up.
 
-"You're mercenaries? I saw you at the fur trading post earlier. To be able to handle a chimera that powerful — you're no ordinary lot," the strange elf said. "I have a rather troublesome task, and I'm afraid you're the only ones who can help me."
+"You're mercenaries? I saw you at the fur trading post earlier. To be able to handle a chimaera that powerful — you're no ordinary lot," the strange elf said. "I have a rather troublesome task, and I'm afraid you're the only ones who can help me."
 
 "We have plenty to deal with already, so we're not taking on other jobs," Vereesa said.
 
@@ -99,12 +99,3 @@ The strange elf hesitated, then said, "A tauren."
 "Mosa Woodmane?!" Grede exclaimed.
 
 "How could you possibly know her name?" the strange elf's expression changed in an instant. "We'll take the job," Jace said decisively.
-
-## Flags
-
-- **POV consistency**: Third person throughout.
-- **Glossary adherence**: 温蕾萨·风行者 → Vereesa Windrunner; 格瑞德·雷拳 → Grede Thunderfist; 杰斯·塞索 → Jace Sesso; 莫洛菲尔 → Morophil; 莫萨·木鬃 → Mosa Woodmane; 永望镇 → Everlook; 海加尔山 → Mount Hyjal; 辛萨罗 → Zinsara; 萨拉斯语 → Thalassian; 通用语 → Common.
-- **Additional names**: 西米克 → Simik (goblin tavern keeper); 银翼要塞 → Silverwing Hold (night elf outpost); 枭兽 → owlbeasts; 巨枭 → giant owl.
-- **Tone**: Jace's guarded pragmatism preserved (the "random passerby" rationalization, the quick decision to take the job); Grede's explosive reaction to Mosa's name kept raw; Morophil's subtle manipulation of the goblin bartender treated as a quiet display of power; the stranger's eerie composure and uncanny appearance built as an unsettling reveal.
-- **Lore accuracy**: Owlbeasts as Winterspring's dangerous arcane-touched beasts preserved; the high elf / night elf visual distinction (flame-like vs. moonlight arcane eyes) preserved as a key clue; Vereesa's instinct that the stranger isn't a Farstrider preserved; the stranger's green tattoos and crescent pendant as markers of her true identity (green dragon) seeded.
-- **Chapter title**: "No Ordinary Mercenaries" — natural English for 不一般的雇佣兵, echoing the stranger's opening line.

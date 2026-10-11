@@ -4,7 +4,7 @@ The two of them made their way through the crowd into the basement. The priest p
 
 The moment the light hit him, Jace felt his chest tighten violently. A flash of white blinded him. He instinctively backed up a few steps until he hit the wall, panting hard. After the glow died down, it took him a long time to come back to himself.
 
-"These are indeed the early signs of necrotic poison, sir. What's your name?"
+"These are indeed the early signs of corpse poison, sir. What's your name?"
 
 "Jace Sesso."
 
@@ -38,7 +38,7 @@ The priest chanted softly: "Merciful Light, I beseech you to release this brave 
 
 She chanted for God knows how long before she started repeating from the beginning, and Jace's pain slowly deepened.
 
-Jace of course knew that priests and paladins had the power to cure necrotic poison, so he had no doubts or resistance. But after a while, the burning in his chest felt more and more wrong — like it was being heated gradually with no end in sight.
+Jace of course knew that priests and paladins had the power to cure corpse poison, so he had no doubts or resistance. But after a while, the burning in his chest felt more and more wrong — like it was being heated gradually with no end in sight.
 
 The heat spread bit by bit through his whole body, into his limbs. He started to feel like he was being tortured and punished, tied to some chair or board and subjected to endless cruelty, and the Holy Light was the whip, the fire-tongs, the spikes.
 
@@ -80,7 +80,7 @@ After all, he'd heard similar words countless times. In his past life, from chil
 
 He thanked the priest and left the building. It had started to rain outside.
 
-The king's procession had dispersed. The nobles and guards had left the church square, and the crowds were flowing in and out again. Some people were sheltering from the rain in the archway leading into the church square, chatting as they did.
+The king's procession had dispersed. The nobles and guards had left Cathedral Square, and the crowds were flowing in and out again. Some people were sheltering from the rain in the archway leading into Cathedral Square, chatting as they did.
 
 Walking back, Jace watched the canal split before him — one branch heading toward Stormwind Keep and the Stormwind Harbor, the other rushing toward the sewers that led outside the city. For no reason, he thought of the priest's words just now.
 
@@ -96,7 +96,7 @@ But wasn't that the very first step in the life of every tragic figure in World 
 
 He'd never thought about the consequences of wielding these powers, about how to maintain himself after possessing such extraordinary energy, or how to find his way back if he really strayed somewhere unforeseen.
 
-Jace looked back at the small building beside the church square. Through the rain, its outline had grown blurred and indistinct. The female priest had just walked out the door with a group of priests. She noticed him standing there and stopped to gaze back.
+Jace looked back at the small building beside Cathedral Square. Through the rain, its outline had grown blurred and indistinct. The female priest had just walked out the door with a group of priests. She noticed him standing there and stopped to gaze back.
 
 The air had turned cool — autumn was close, it seemed. Jace pulled his worn shirt tighter around himself.
 
@@ -105,10 +105,3 @@ Thinking about corruption by power seemed too premature right now, since he coul
 But realizing the problem was waiting for him now was far better than waking up in irreversible agony after everything had already spiraled out of control.
 
 Thinking this, Jace nodded to the priest. The priest nodded back and left with her colleagues.
-
-## Flags
-
-- **Necrotic poison** (亡灵腐毒) — rendered as "necrotic poison" here (the priest's formal term), distinct from Jace's informal "corpse poison" in Ch. 31. See Ch. 31 flag on the distinction.
-- **Fel energy** (邪能) — used "fel" per standard WoW English localization; not explicitly in glossary but consistent with "fel" usage.
-- **Death magic** (死灵) — rendered as "death magic" (necromantic energy); glossary has "亡灵 = Undead" but not this specific compound.
-- **"Found favor with the Holy Light"** (圣光的垂青) — idiomatic rendering; flagging as a non-literal choice.

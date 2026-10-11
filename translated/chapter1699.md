@@ -1,14 +1,14 @@
 ## Chapter 1699: As an Alchemist, and as a Friend
 
-That evening, as they discussed the remaining warlocks scattered across the kingdoms, Sulenna and Erland drank themselves into a stupor. Galders had put away a fair amount too. Galaen was so focused on Jace's robe that she barely touched her food — everyone understood. Ursula kept pace with her detox potion, drinking and metabolizing at the same time, much to the ongoing complaints of Erland and Sulenna — until eventually the two of them complained their way into the bedroom, and the hall fell quiet.
+That evening, as they discussed the remaining warlocks scattered across the kingdoms, Surena and Erlan drank themselves into a stupor. Zardeth had put away a fair amount too. Jalane was so focused on Jace's robe that she barely touched her food — everyone understood. Ursula kept pace with her detox potion, drinking and metabolizing at the same time, much to the ongoing complaints of Erlan and Surena — until eventually the two of them complained their way into the bedroom, and the hall fell quiet.
 
-Truth be told, Jace had also drunk a lot. A lot more than he could have when he'd first joined the Dagger Circle. But he didn't feel even slightly drunk.
+Truth be told, Jace had also drunk a lot. A lot more than he could have when he'd first joined the Dagger Society. But he didn't feel even slightly drunk.
 
 Now he understood what Grede had told him outside that banquet: when even drinking can't get you drunk, you start to wonder if you're even a dwarf anymore.
 
-For Jace it was the same. When he could clearly feel the alcohol being effortlessly consumed by the far more insidious shadow energy in his veins, unable to touch his consciousness at all, he couldn't help thinking about what Erland had said earlier — about whether the thing that walked through the Slaughtered Lamb's door could still be called a real human.
+For Jace it was the same. When he could clearly feel the alcohol being effortlessly consumed by the far more insidious shadow energy in his veins, unable to touch his consciousness at all, he couldn't help thinking about what Erlan had said earlier — about whether the thing that walked through the Slaughtered Lamb's door could still be called a real human.
 
-But that question should have been settled the first time he arrived in Dalaran. By then, the blood of that young black whelp was already mixed into his veins, and even Queen Alexstrasza's blessing hadn't fully dispelled that darkness.
+But that question should have been settled the first time he arrived in Dalaran. By then, the blood of that young black drake was already mixed into his veins, and even Queen Alexstrasza's blessing hadn't fully dispelled that darkness.
 
 He'd long since stopped wondering how many original parts the ship of Sesso still had. The real question was whether the parts he could still control were enough to keep the less controllable parts in check.
 
@@ -22,7 +22,7 @@ Ursula just smiled at him without saying a word. Jace knew this woman — one of
 
 "I'm sure I do. You're not a brown bear. This place can definitely fit you."
 
-"Do you have ink? I need to write down my Soul Well casting experience for the Dagger Circle tonight. I'll have to leave for Kalimdor soon."
+"Do you have ink? I need to write down my Soul Well casting experience for the Dagger Society tonight. I'll have to leave for Kalimdor soon."
 
 "I do," Ursula said. "Six gold a bottle."
 
@@ -32,7 +32,7 @@ Ursula just smiled at him without saying a word. Jace knew this woman — one of
 
 "Wait, hold on." Jace frowned. Ursula couldn't hold back a laugh. "It's in the cabinet to your right. Help yourself."
 
-Jace waved a hand. "It's not like I'm taking it for free. I've got a Destruction Potion consumption report to write too. Want it? Don't forget — while the potion was still active, I used Dark Simulation to reflect a mind-control spell back at Prince Nefarian."
+Jace waved a hand. "It's not like I'm taking it for free. I've got a Destruction Potion consumption report to write too. Want it? Don't forget — while the potion was still active, I used Dark Simulacrum to reflect a mind-control spell back at Prince Nefarian."
 
 "So that's how you broke free from his mind control?" Ursula's eyes went wide.
 
@@ -42,7 +42,7 @@ Jace unscrewed the ink bottle cap. "Exactly."
 
 "No problem." Jace said. "After he drank your Destruction Potion, he used a single teleportation spell to move hundreds of people out of danger at once. It's a shame you didn't see it."
 
-"A Kirin Tor mage can teleport hundreds of people at once with arcane magic?!" Ursula's face went pale. "But what kind of dangerous magic could threaten that many elite Alliance soldiers? Was it the Black Dragon Prince's shadow magic?"
+"A Kirin Tor mage can teleport hundreds of people at once with arcane magic?!" Ursula's face went pale. "But what kind of dangerous magic could threaten that many elite Alliance soldiers? Was it the black dragon prince's shadow magic?"
 
 "Uh." Jace cleared his throat. "Strictly speaking... no. It was my Soul Well."
 
@@ -60,9 +60,9 @@ Jace paused his pen. "Everyone keeps saying that."
 
 "Maybe because everyone's genuinely worried about you," Ursula said.
 
-Jace looked up at her. "From what we saw at Blackrock Spire, Onyxia was badly wounded. Might even be dead or alive."
+Jace looked up at her. "From what we saw at Blackrock Spire, Onyxia was badly wounded. We don't even know if she's dead or alive."
 
-"So this trip to Kalimdor isn't as dangerous as you all think, Ursula. We just have some questions for that female dragon. Once we get answers, we might be able to foil the demons' plans more easily. Either way, Blackrock Spire has fallen, the Dark Portal is closed, and the seven kingdoms only have a few scattered orcs left to deal with — barely a threat, not much worse than gnolls."
+"So this trip to Kalimdor isn't as dangerous as you all think, Ursula. We just have some questions for that female dragon. Once we get answers, we might be able to foil the demons' plans more easily. Either way, Blackrock Spire has fallen, the Dark Portal is closed, and the Seven Kingdoms only have a few scattered orcs left to deal with — barely a threat, not much worse than gnolls."
 
 "Which means the most troublesome task ahead of me is probably that mass wedding in Quel'Thalas."
 
@@ -90,6 +90,6 @@ The alchemist's whole body seemed to relax a little at that, but she immediately
 
 "You know which horse I mean, Jace," Ursula said quietly.
 
-"If the Wizard Sanctum reports one day that the King's advisor was bitten to death by a horse, don't come crying to me," Jace said.
+"If the Wizard's Sanctum reports one day that the King's advisor was bitten to death by a horse, don't come crying to me," Jace said.
 
 "I'll toss a few coppers on that fancy tomb Wrynn sets up for you," Ursula said.

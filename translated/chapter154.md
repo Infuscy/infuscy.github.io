@@ -32,11 +32,11 @@ That left Grede absolutely fuming. Finally he said, "I'll call them whatever I w
 
 "You said there were no druids who could help," Jace said.
 
-"There are no druids," Kael'fal replied. "But the quel'dorei arcanists can mimic druidic magic and manipulate the power of Life. Since we command the Arc, we simply ask the Arc to solve everything. Do you know why the Eversong Forest and the Eastweald are separated by nothing more than a line of hills, yet feel like two entirely different worlds? The Sunwell isn't the only reason. Our arcanists and botanists have a far greater power to reshape nature than those old diehards. Curing your problem is simpler than resurrecting a dead tree, Master Dwarf."
+"There are no druids," Kael'fal replied. "But the Quel'dorei arcanists can mimic druidic magic and manipulate the power of Life. Since we command the arcane, we simply ask the arcane to solve everything. Do you know why the Eversong Woods and the Eastweald are separated by nothing more than a line of hills, yet feel like two entirely different worlds? The Sunwell isn't the only reason. Our arcanists and botanists have a far greater power to reshape nature than those old diehards. Curing your problem is simpler than resurrecting a dead tree, Master Dwarf."
 
-"If we couldn't treat these aftereffects, a good third of the veteran rangers in the Farstriders would be combat-ineffective cripples. After all, we're not dwarves — wounded like that and still able to bludgeon a dragon whelp to death."
+"If we couldn't treat these aftereffects, a good third of the veteran rangers in the Farstriders would be combat-ineffective cripples. After all, we're not dwarves — wounded like that and still able to bludgeon a drake to death."
 
-Right — botanists. How had Jace forgotten? Those blood elf botanists living in the Tempest Keep in Outland knew all sorts of Nature magic, practically indistinguishable from druidism.
+Right — botanists. How had Jace forgotten? Those blood elf botanists living in Tempest Keep in Outland knew all sorts of Nature magic, practically indistinguishable from druidism.
 
 If Kael'fal hadn't brought it up, Jace wouldn't have made the connection for quite some time.
 
@@ -46,7 +46,7 @@ He glanced at Jace, as if to say, "See? It's true! The elves really can do it!" 
 
 "To see a botanist, you'd probably have to get into Silvermoon, wouldn't you?" Jace asked.
 
-"Yes." Kael'fal shot the dwarf a look, then turned back to Jace. "That's the biggest problem. Even though these scholars are keenly interested in studying plants from outside Quel'Thalas, they have no interest in setting foot beyond the kingdom's borders. Getting them to leave the protection of the Ban'dinoriel and venture deep into the wilds outside is no easy matter."
+"Yes." Kael'fal shot the dwarf a look, then turned back to Jace. "That's the biggest problem. Even though these scholars are keenly interested in studying plants from outside Quel'Thalas, they have no interest in setting foot beyond the kingdom's borders. Getting them to leave the protection of Ban'dinoriel and venture deep into the wilds outside is no easy matter."
 
 "I'd go into your lands — I don't give a damn about smelling like elf!" Grede said at once.
 
@@ -85,19 +85,3 @@ Jace said, "A month… even if Quel'Thalas threw its gates wide open, the journe
 Grede took another biscuit. "You're right. No chance at all. Let's talk about something else."
 
 "Actually, I've got a pretty good topic." Jace licked his lips and gathered his thoughts. "Say there's a rich man who owns an extremely precious treasure in his house. He's never told anyone about it, and he can't allow anyone to know — because this treasure concerns his whole family's lives, their future, everything. Now there's a highly skilled thief who plans to break in and steal the treasure for himself. As an outsider who knows about the thief's plan in advance, how would you warn the rich man?"
-
-## Flags
-
-- 卡多雷帝国 = Kaldorei Empire (canonical; Kaldorei = "Children of the Stars," night elf self-name, glossary confirms).
-- 班蒂诺雷尔 = the Ban'dinoriel (the great ward-shield of Quel'Thalas). Not in glossary; rendered as "the Ban'dinoriel."
-- 太阳之井 = Sunwell (glossary confirms).
-- 东威尔德 = Eastweald (tentative; see Ch152 flag). Not in glossary.
-- 永歌森林 = Eversong Forest (canonical). Not in glossary.
-- 植物学家 = botanist — the blood elf arcanist-botanists of the Tempest Keep. Not in glossary; rendered as "botanist."
-- 银月城 = Silvermoon City (canonical). Not in glossary.
-- 巨魔蝠蝠 = troll bat (see Ch153 flag).
-- 蛮锤矮人 = Wildhammer dwarf (glossary confirms 蛮锤 = Wildhammer).
-- 风暴要塞 = Tempest Keep (canonical; the naaru fortress in Outland, home to blood elf botanists). Not in glossary.
-- 外域 = Outland (glossary confirms).
-- 血精灵 = blood elf (canonical; Sin'dorei). Not in glossary.
-- 老古板 = "old diehards" — Kael'fal's dismissive term for the night elf druids. Rendered idiomatically.

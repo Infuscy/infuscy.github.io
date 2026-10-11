@@ -6,7 +6,9 @@ He went in and saw Needleflame.
 
 She turned at the sound of Jace's footsteps. "Morophil says you're all about to fight Murmur together!"
 
-"Yes." Jace said. "If everything goes smoothly, Wopil will have the trap ready and waiting for me to walk into it soon enough." Morophil smiled. Needleflame glanced at her, then looked eager. "I want to jump in too."
+"Yes." Jace said. "If everything goes smoothly, Vorpil will have the trap ready and waiting for me to walk into it soon enough."
+
+Morophil smiled. Needleflame glanced at her, then looked eager. "I want to jump in too."
 
 "I knew you'd say that. But neither I nor your father would agree." Jace said.
 
@@ -16,11 +18,11 @@ She turned at the sound of Jace's footsteps. "Morophil says you're all about to 
 
 Jace said, taking the potion pouch the succubus handed him. It was already full of various potions the mages of Kirin'Var Village had prepared for him from Allerian Stronghold.
 
-Not just mana potions — there was even Nature Resistance Potion, which could block thunderstorm elemental attacks.
+Not just mana potions — there was even Nature Protection Potion, which could block thunderstorm elemental attacks.
 
 Though Murmur was an alien sound elemental, part of its power did originate from Draenor's primordial air. Kirin'Var Village had apparently already analyzed this powerful creature's abilities.
 
-The Nature Resistance Potion wouldn't make Jace immune to Murmur's sound waves, but it could relieve some pressure.
+The Nature Protection Potion wouldn't make Jace immune to Murmur's sound waves, but it could relieve some pressure.
 
 "Isn't there any 'Destruction Potion'?" Jace asked.
 
@@ -40,11 +42,13 @@ Needleflame clutched Jace's sleeve tightly for a long moment, then ground her te
 
 Jace nodded, silently hoping it would be in hand before the portal opened. Dealing with Murmur without a Destruction Potion would be harder, but not impossible. He trusted Morophil could control that old warlock now.
 
-"Get out of here before orc guards patrol nearby, Needleflame." Jace said. Needleflame nodded, said nothing more, and quietly headed for the door.
+"Get out of here before orc guards patrol nearby, Needleflame," Jace said.
+
+Needleflame nodded, said nothing more, and quietly headed for the door.
 
 Jace cast Arcane Intellect on himself, drank the language potion, and chanted the demonic incantation to awaken the array beneath his feet. The other side responded quickly.
 
-"Is Khadgar back yet, Karlrez?"
+"Is Khadgar back yet, Kallrez?"
 
 "No." The demon on the other end replied.
 
@@ -54,11 +58,11 @@ But he also trusted Khadgar wasn't so easy to shake off.
 
 "Khadgar didn't tell anyone where he was going, did he?" Jace asked.
 
-"No." The demon said. "None of the mages here know where he went, master. Not even Amy Marin."
+"No." The demon said. "None of the mages here know where he went, master. Not even Amy Malin."
 
 Jace nodded, feeling for the potion pouch at his waist. "Then tell Amy to get ready to keep recording. I'm going to transmit the rest of the ethereal spells. Oh, and ask her how my parents are doing."
 
-After a moment, the demon said, "Amy says she visits your parents whenever she has the chance, but in the last few days with Khadgar gone, she has to take over his work, so she hasn't had the opportunity to go back. Also... can you get to the point, Amy Marin?"
+After a moment, the demon said, "Amy says she visits your parents whenever she has the chance, but in the last few days with Khadgar gone, she has to take over his work, so she hasn't had the opportunity to go back. Also... can you get to the point, Amy Malin?"
 
 "Don't interrupt her." Jace snapped. "Whatever she says, you relay it!"
 
@@ -66,7 +70,7 @@ After a moment, the demon said, "Amy says she visits your parents whenever she h
 
 "Funny." Jace said. "If it weren't for my parents, for all this fragile mortal sentimentality, I'd have sent you straight back to Kil'jaeden by now. Now do your job and relay what she says!"
 
-Karlrez was silent for a moment before finally speaking. "Everything is fine. Your father and mother. But they don't want Amy to tell you about them... Worried it would distract you from your fight in Draenor."
+Kallrez was silent for a moment before finally speaking. "Everything is fine. Your father and mother. But they don't want Amy to tell you about them... Worried it would distract you from your fight in Draenor."
 
 "That wasn't so hard, was it?" Jace nodded. "Alright. Let's get to work now."
 
@@ -74,25 +78,25 @@ The most abstract parts of the ethereal scrolls were behind them. What remained 
 
 Plus, after several days of this, Jace had grown familiar with the pronunciation and rhythm of Abyssal, which also improved efficiency. He only needed one mana potion as a boost this time. Whatever was left over would be counted as supplies from Kirin'Var Village.
 
-As he read the final scroll's last words and confirmed Karlrez's repetition had no errors, he let out a long breath.
+As he read the final scroll's last words and confirmed Kallrez's repetition had no errors, he let out a long breath.
 
-All the Draenei soul shards were spent. The ground was covered in scattered ash-gray soul dust. But at least the whole scroll had been delivered.
+All the draenei soul shards were spent. The ground was covered in scattered ash-gray soul dust. But at least the whole scroll had been delivered.
 
-"Amy Marin says Antonidas has designed a portal construction plan that can adapt to the conditions on the Telogrus Rift side, as judged by the ethereals." Karlrez said. "In the meantime, Dalaran and Quel'Thalas's most skilled portal-building arcanists have been arriving in Stormwind. They're just waiting for the ethereal spells to open a path between Azeroth and that void rift."
+"Amy Malin says Antonidas has designed a portal construction plan that can adapt to the conditions on the Telogrus Rift side, as judged by the ethereals." Kallrez said. "In the meantime, Dalaran and Quel'Thalas's most skilled portal-building arcanists have been arriving in Stormwind. They're just waiting for the ethereal spells to open a path between Azeroth and that void rift."
 
 "Our portal here is about halfway done too." Jace said. "Once Khadgar brings back good news, and after we deal with Murmur, both sides will need to find the right moment to link the portals."
 
-"Amy says she's nervous." Karlrez said quietly.
+"Amy says she's nervous." Kallrez said quietly.
 
 Even though having a communication channel through a demon pact was already incredibly rare, at this moment Jace still wished he could hear Amy's real voice, not a demon's relay. He couldn't help feeling a pang of regret.
 
-Not just Amy. The wind blowing past Ilgala Tower, the rustle of leaves outside, the birdsong in the woods, the distant flow of Nethergarde's river...
+Not just Amy. The wind blowing past the Tower of Ilgalar, the rustle of leaves outside, the birdsong in the woods, the distant flow of Nethergarde's river...
 
 Staring into the dark haze of the Twisting Nether, he almost felt like the two sides were like two spacecraft spinning toward each other, about to dock.
 
 Even though both ships had their own problems, the docking had to be seamless — distance, rotation speed, all perfectly precise. A single deviation on either side would mean total destruction, lost to the stars.
 
-"We'll succeed." Jace said. "Tell Amy we'll succeed. That's it for now, Lord Karlrez. I apologize for what I said earlier."
+"We'll succeed." Jace said. "Tell Amy we'll succeed. That's it for now, Lord Kallrez. I apologize for what I said earlier."
 
 "At your service whenever you need me, master." The demon said quietly.
 
@@ -100,7 +104,7 @@ The array burned out. The searing heat of shadow energy, mixed with soul dust, f
 
 The next day, while Jace was still sound asleep in the chamber, an orc officer from the Shadow Council called his name from outside.
 
-When he came out, the orc soldier thumped his chest with a fist. "Master Wopil has changed his mind, Master Naigagg. He has accepted Priestess Sosala's request to enter the Shriekhall. But on the condition that you accompany her. He hopes you will understand, Master, because ever since Terongor's time, the Shriekhall has only been open to high-ranking Shadow Council members and the priests and warlocks involved in Murmur's enslavement."
+When he came out, the orc soldier thumped his chest with a fist. "Master Vorpil has changed his mind, Master Naigag. He has accepted Priestess Sosala's request to enter the Screaming Hall. But on the condition that you accompany her. He hopes you will understand, Master, because ever since Teron'gor's time, the Screaming Hall has only been open to high-ranking Shadow Council members and the priests and warlocks involved in Murmur's enslavement."
 
 Finally took the bait, Jace thought. A barely suppressible glee stirred in his gut, almost spilling out.
 

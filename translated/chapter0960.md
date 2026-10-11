@@ -2,19 +2,19 @@
 
 Living fire elementals were a common sight on Shadowforge City's streets. Walking along the main road toward the gate, they'd often encounter patrols of dwarf soldiers accompanied by a fire elemental.
 
-Occasionally they'd even see those fire elementals talking with the firehandlers. They were too far away to make out the conversation, but Jace was genuinely curious about what Dark Iron dwarves and elemental beings would chat about.
+Occasionally they'd even see those fire elementals talking with the pyromancers. They were too far away to make out the conversation, but Jace was genuinely curious about what Dark Iron dwarves and elemental beings would chat about.
 
 Overall, Shadowforge City wasn't as "refined" as Ironforge. Rough stone walls were everywhere, especially near the lava river. Maybe that's why the streets were covered in coal-dust-like grime and rubble.
 
-Sora studied the dwarven runes on the stone walls with curiosity. Jace, on the other hand, wondered what it felt like for a green dragon from the Emerald Dream to be in an underground dark city surrounded by corrupted fire elementals.
+Sola studied the dwarven runes on the stone walls with curiosity. Jace, on the other hand, wondered what it felt like for a green dragon from the Emerald Dream to be in an underground dark city surrounded by corrupted fire elementals.
 
 "Plenty of Dark Iron dwarves can survive on nothing but the Firelord's flames," the gnome said, shuffling along ahead in tiny steps. "But not me. I need actual food!"
 
 He spoke Common quite fluently, using sentence structures that only native speakers would handle comfortably. Jace got the feeling this gnome wasn't just a small-time thug.
 
-"Say, Dark Iron lady, you don't know how to get to the Black Iron Tavern?" the gnome asked, tilting his head.
+"Say, Dark Iron lady, you don't know how to get to the Grim Guzzler?" the gnome asked, tilting his head.
 
-"I'm not familiar with Shadowforge City," Sora said. "If it weren't for the orcs, I probably wouldn't have considered coming back here at all."
+"I'm not familiar with Shadowforge City," Sola said. "If it weren't for the orcs, I probably wouldn't have considered coming back here at all."
 
 The gnome nodded. "No matter how far you roam from home, when your homeland is in danger, you still think about coming back to contribute. Truly admirable spirit."
 
@@ -60,13 +60,13 @@ For new players, this boss was pretty tough with the war golems' help. The fight
 
 "Interesting. Using golems to fight black dragons..." Jace murmured.
 
-"Ha!" the gnome immediately said. "Don't be naive, human. The Dark Iron golem army might be useful against other dwarves, and the specially modified anti-magic golems could even handle Dalaran mages. But do you really think these golems here can stand up to Viktor Nefarius and his spawn?"
+"Ha!" the gnome immediately said. "Don't be naive, human. The Dark Iron golem army might be useful against other dwarves, and the specially modified anti-magic golems could even handle Dalaran mages. But do you really think these golems here can stand up to Victor Nefarius and his spawn?"
 
 "Shadowforge City is already on the brink of defeat. Even their Firelord is powerless against it. The loss of the grand Blackrock Spire is already a done deal. At first, our boss thought the black dragons only had an advantage because they could fly — if we could bring them to the ground, we could rely on the golems' superior strength and numbers to kill them. So our research focused on controlled weapons. But then the orcs tried to invade Shadowforge City, and guess what happened? Even in the narrow mine tunnels, the golems could barely face those terrifying dragon-headed humanoid monsters head-on, let alone real black dragons! Many gnome technicians and I believe that unless the molten giants guarding Shadowforge City's deepest levels can be deployed to the surface, the Dark Iron dwarves don't stand a chance..."
 
-"And that's why we got fired, human." The gnome tilted his head helplessly and glanced back at Sora, who was following as a Dark Iron dwarf. When her attention seemed focused on the lava river below, he leaned in and lowered his voice. "Those words inadvertently touched on their faith. The Dark Irons believe they must defend the Molten Core, not the other way around. But if you ask me, it's just that Argelmach's pride took a beating from the black dragons, and he took it out on us. If the orcs weren't besieging this place, I'd have gone back to Gnomeregan to find work long ago. Who wants to live day in and day out with a bunch of black-faced, hot-tempered lunatics who have inexplicably strong pride combined with fragile psyches?"
+"And that's why we got fired, human." The gnome tilted his head helplessly and glanced back at Sola, who was following as a Dark Iron dwarf. When her attention seemed focused on the lava river below, he leaned in and lowered his voice. "Those words inadvertently touched on their faith. The Dark Irons believe they must defend the Molten Core, not the other way around. But if you ask me, it's just that Argelmach's pride took a beating from the black dragons, and he took it out on us. If the orcs weren't besieging this place, I'd have gone back to Gnomeregan to find work long ago. Who wants to live day in and day out with a bunch of black-faced, hot-tempered lunatics who have inexplicably strong pride combined with fragile psyches?"
 
-His voice grew louder as he spoke, drawing Sora's attention from behind. She glanced over, and the gnome immediately lowered his head and coughed. "That's all in the past. Anyway, that's how it is..."
+His voice grew louder as he spoke, drawing Sola's attention from behind. She glanced over, and the gnome immediately lowered his head and coughed. "That's all in the past. Anyway, that's how it is..."
 
 "So Shadowforge City has nothing it can use against the black dragons?" Jace asked casually.
 
@@ -74,7 +74,7 @@ His voice grew louder as he spoke, drawing Sora's attention from behind. She gla
 
 "I've heard some things from outside," Jace said. "Some people say the Dark Iron dwarves in Shadowforge City have found a way to counter black dragon magic."
 
-"Listen, listen to how vague that rumor is, sir." The gnome's tone was sarcastic. "It won't even get a little more specific. A legendary sword? A magic wand that can turn decay into wonder? A spell? A grimoire? If it were even slightly more detailed, I might believe it. There are stories like this circulating all over Shadowforge City. But I'm more inclined to believe the emperor spread them to appease the people. After all, even in this situation, the Dark Iron Arena still has regular matches. I don't think these citizens need any 'appeasement.' Your succubus looks like a tough one. Interested in having her try the arena?"
+"Listen, listen to how vague that rumor is, sir." The gnome's tone was sarcastic. "It won't even get a little more specific. A legendary sword? A magic wand that works miracles? A spell? A grimoire? If it were even slightly more detailed, I might believe it. There are stories like this circulating all over Shadowforge City. But I'm more inclined to believe the emperor spread them to appease the people. After all, even in this situation, the Dark Iron Arena still has regular matches. I don't think these citizens need any 'appeasement.' Your succubus looks like a tough one. Interested in having her try the arena?"
 
 It sounded like this gnome had nothing but contempt for the rumors about black dragons in Shadowforge City, and zero interest in investigating them. When he mentioned the golem foundry and Argelmach, Jace had actually thought he might get some important information right at the entrance to Shadowforge City.
 
@@ -82,7 +82,7 @@ He felt a bit disappointed. "Not interested."
 
 "Too bad. The audience here does enjoy seeing warlocks fighting side by side with their demon lovers..." the gnome muttered.
 
-"That sounds romantic, doesn't it, master?" Morofel smiled.
+"That sounds romantic, doesn't it, master?" Morophil smiled.
 
 "It does," Jace said. "But I'm not particularly interested in drawing a lot of attention."
 
@@ -92,14 +92,14 @@ The gnome snorted. "Relax, human. Most of the so-called gladiators don't draw an
 
 "Fine, fine. It wouldn't take much of a finder's fee anyway. Some warlocks from outside do come here just to make money in the arena."
 
-The gnome clicked his tongue, noted Jace's expression wasn't great, and dropped the subject. He glanced at the succubus beside him; Morofel's face showed the same helplessness. He sighed in boredom and closed his eyes.
+The gnome clicked his tongue, noted Jace's expression wasn't great, and dropped the subject. He glanced at the succubus beside him; Morophil's face showed the same helplessness. He sighed in boredom and closed his eyes.
 
 Beyond the bridge, a grand, wide hall lay ahead, guarded by many fire elementals. They lit the dim space brightly, as if they were about to enter somewhere very important.
 
-"Hey, don't go any further!" the gnome shouted from the side. "Follow me. That's the domain of the Flame Lord Wyrmthalak ahead — he guards the Dark Iron dwarves' holy relic... the Shadowforge Anvil! Outsiders like us absolutely cannot get near it."
+"Hey, don't go any further!" the gnome shouted from the side. "Follow me. That's the domain of Lord Incendius ahead — he guards the Dark Iron dwarves' holy relic... the Black Anvil! Outsiders like us absolutely cannot get near it."
 
 Jace nodded and looked over again. The other end of the hall was shrouded in bright crimson flames, making it hard to see clearly.
 
-But he knew the Shadowforge Anvil was an anvil located in the center of Shadowforge City. It might not be as big as Ironforge's Great Forge or Grim Batol's Kadros Anvil, but its status was no lower — it was said to have inherited the Firelord's own power from the Molten Core.
+But he knew the Black Anvil was an anvil located in the center of Shadowforge City. It might not be as big as Ironforge's Great Forge or Grim Batol's Khardros Anvil, but its status was no lower — it was said to have inherited the Firelord's own power from the Molten Core.
 
-According to the game's lore, only this Shadowforge Anvil could forge the true Sulfuron War Hammer. If he wanted to get this legendary weapon for Grede, there was probably no getting around this place.
+According to the game's lore, only this Black Anvil could forge the true Sulfuron Hammer. If he wanted to get this legendary weapon for Grede, there was probably no getting around this place.

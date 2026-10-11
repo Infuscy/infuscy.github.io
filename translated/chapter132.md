@@ -4,7 +4,7 @@ The noble said all that, and Grede wasn't about to let it slide.
 
 "I'm no ordinary Wildhammer," he stressed. "That beast might've killed other warriors, but that doesn't mean it can kill me."
 
-"It killed three at once," the noble said. "I don't doubt your fighting skills, dwarf sir, but a friend of mine watched that fight. Three Sandmar brothers who'd come here from the Highlands, trying to surround it—but Night Baron seized the chance to pick them off one by one. A brutal scene. Though I have to admire your Wildhammer kin's mettle, because I happened to see those three Sandmar dwarves fight too. They once killed a pair of savage Stranglethorn white apes together—no small feat."
+"It killed three at once," the noble said. "I don't doubt your fighting skills, master dwarf, but a friend of mine watched that fight. Three Sandmar brothers who'd come here from the Highlands, trying to surround it—but Night Baron seized the chance to pick them off one by one. A brutal scene. Though I have to admire your Wildhammer kin's mettle, because I happened to see those three Sandmar dwarves fight too. They once killed a pair of savage Stranglethorn white apes together—no small feat."
 
 Grede stared at the noble. For a long time after hearing the tale, he didn't say a word.
 
@@ -66,7 +66,7 @@ Charging onto the deck might let it kill a few more innocent people and pad its 
 
 Jace noticed that quite a few people present were wearing all kinds of weapons—swords, daggers. He hadn't realized the ship carried this many things capable of killing a person.
 
-Which meant everyone had brought out their means of self-defense, ready to fight to the death at any moment. Only now did the Trade Cartel's passenger profile start to show—not a single easy mark on this whole ship.
+Which meant everyone had brought out their means of self-defense, ready to fight to the death at any moment. Only now did the Steamwheedle Cartel's passenger profile start to show—not a single easy mark on this whole ship.
 
 Everyone's eyes were deadly serious, locked onto the hatches just like the gun barrels. The panther had to know that coming up here was suicide.
 
@@ -76,7 +76,7 @@ But once daylight came, the ones on deck would be the ones on the back foot.
 
 Under the direct sun at sea, even if the temperature in late November wasn't that high, being baked that long would be unbearable. Eventually they'd have to retreat back into the panther's hunting ground, and who knew how many more would be killed or wounded.
 
-That goblin who'd been watching the cargo hold was already dead. First mate Gazick was most likely a goner too—otherwise the captain wouldn't have come out personally to take charge. That fellow hadn't shown his face at all during the first few days of the voyage. Grede had assumed he was still back at port "staring at some green-skinned girl's backside" and had missed the departure.
+That goblin who'd been watching the cargo hold was already dead. First mate Gazzik was most likely a goner too—otherwise the captain wouldn't have come out personally to take charge. That fellow hadn't shown his face at all during the first few days of the voyage. Grede had assumed he was still back at port "staring at some green-skinned girl's backside" and had missed the departure.
 
 Time ticked by. Some of the people who'd been watching the hatches or pressing themselves to the deck to listen for movement below gradually gave up their vigil. Everyone knew—the hunting party that had just gone down didn't seem to be doing well.
 
@@ -112,17 +112,17 @@ Even taking part in the rescue of an entire castle hadn't come with a cash rewar
 
 But the last few months of earning money in the Kingdom of Stormwind had taught him one thing: bounties were always proportional to the danger. Don't forget that Redridge job hunting orcs—the bounty had only been a dozen silver coins or so.
 
-And these two gold coins was roughly equivalent to killing five or six Hoggers.
+And those two gold coins were roughly equivalent to killing five or six Hoggers.
 
-Though it wasn't a straight conversion, the idea of having to handle five or six Hoggers at once made Jace's scalp tingle.
+Though it wasn't a straight conversion, the idea of having to handle five or six Hoggers at once made Jace's scalp prickle.
 
-But as the saying went, where there's a big reward, there are always brave souls—and sure enough, two people stood up to answer the call.
+But as the saying went, enough gold makes anyone brave—and sure enough, two people stood up to answer the call.
 
 Grede looked like he was about to burst too. He grabbed Jace's arm. "Wanna go down there and take a shot?"
 
 "I don't want to fight a gladiator celebrity, Grede," Jace said. "Think about it—half the people on this ship know him. Some of them might've even watched his fights. Would you get in the ring with an award-winning boxer from your own homeland?"
 
-Grede laughed. "I'm an award-winning boxer myself! Don't forget what I did to that Torben at the Pig and Whistle! This so-called Baron is famous, sure, but it's still just a beast! And if it's really that impressive, why isn't it called Night Count, Night Duke, Night King? I don't buy it... not if we have the right tools!"
+Grede laughed. "I'm an award-winning boxer myself! Don't forget what I did to that Trollbane at the Pig and Whistle! This so-called Baron is famous, sure, but it's still just a beast! And if it's really that impressive, why isn't it called Night Count, Night Duke, Night King? I don't buy it... not if we have the right tools!"
 
 "Look at the guys who just went down there," Jace said. "They were fully armed, weren't they? Why haven't they come back up yet?"
 
@@ -154,7 +154,7 @@ He glanced at that gleaming gold coin again.
 
 "Hah! Now you're talking!" The dwarf excitedly ran out and shouted, "If five of us go and split three gold coins, how's the split work?"
 
-"The ship's got plenty of silver, Aerie Peak brother." The goblin captain's tone was much calmer than before. "At the current gold coin rate, that's eighty silver each once the job's done. How's that sound? You three in—interested?"
+"The ship's got plenty of silver, my Aerie Peak friend." The goblin captain's tone was much calmer than before. "At the current gold coin rate, that's eighty silver each once the job's done. How's that sound? You three in—interested?"
 
 The three looked at each other, exchanged a few words, then nodded in agreement. None of them were the type to fight to the death for a bit more coin. They were probably all here to make some extra money and make the trip a little safer—and more hands made light work.
 
@@ -167,11 +167,3 @@ Grede took the shield. The bottom point nearly touched the ground. Clearly not t
 "Better than nothing." He took a pole as well, then turned to the crowd and called out, "Anyone else? If not, we're heading down."
 
 The others didn't object. The five-person hunting party had just been matchmade on the spot.
-
-## Flags
-
-- **托尔贝恩 (Torben)** — a dwarf Grede previously fought at the Pig and Whistle; not in glossary. Rendered as "Torben."
-- **匹配 (matchmade)** — gamer term used for forming the hunting party ("临时匹配起来了"). Kept the gamer flavor with "matchmade on the spot."
-- **鹰巢山 (Aerie Peak)** — canonical Wildhammer stronghold. The captain addresses Grede as "Aerie Peak brother." Rendered as "Aerie Peak."
-- **赏金猎人 (bounty hunters)** — Jace's read on the volunteers. Rendered as "bounty hunters."
-- **霍格 (Hogger)** — canonical gnoll NPC. Used as a benchmark for danger/value ("five or six Hoggers").

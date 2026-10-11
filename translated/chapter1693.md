@@ -8,7 +8,7 @@ Though it had only been two months since he'd last passed through here, things w
 
 "What?" Jace blinked. "Isn't it supposed to be at Nethergarde Keep?"
 
-"That statue was built by the soldiers guarding the Dark Portal to thank you. Now it's not just me -- the whole kingdom, even the Alliance of Lordaeron, wants this." Varian said. "So this is more of a notice than a request for your opinion... My initial idea is to place you and your horse right in the middle of the Trade District fountain. I'll need to discuss the specifics with Mister Edwin VanCleef further."
+"That statue was built by the soldiers guarding the Dark Portal to thank you. Now it's not just me -- the whole kingdom, even the Alliance of Lordaeron, wants this." Varian said. "So this is more of a notice than a request for your opinion... My initial idea is to place you and your horse right in the middle of the Trade District fountain. I'll need to discuss the specifics with Mr. Edwin VanCleef further."
 
 "We just fought a war, Your Majesty." Jace said quietly. "Putting up another statue there would cost a lot."
 
@@ -20,7 +20,7 @@ Hearing the king say this, Jace couldn't help starting to imagine what it would 
 
 He'd practically never gone back to see that statue at Nethergarde Keep since the Dark Portal campaign. He could even ignore its existence. But this next one -- there was no way he could pretend it didn't exist.
 
-He wondered what Mom and Dad would think when they saw it. Vic would definitely be grinning from ear to ear, while insisting on critiquing it and pointing out all the differences between the statue and the real Jace. He could almost imagine exactly what his brother would say.
+He wondered what Mom and Dad would think when they saw it. Vic would definitely be grinning from ear to ear, while insisting on critiquing it and pointing out all the differences between the statue and the real Jace. He could almost imagine exactly what the old man would say.
 
 He could barely suppress the smile tugging at his lips. But Varian was right there, so he couldn't look too pleased. That would make him look too much like a real evil warlock.
 
@@ -48,13 +48,13 @@ Jace listened to the two elves bickering back and forth, then looked over at Tur
 
 "After the wedding, let me take you, the dwarf, and the Sessos on a tour of Quel'Thalas." Vereesa said. "We'll have plenty of time this time. We can visit every corner thoroughly."
 
-"I want to see it too, Vereesa." Sora said from behind. "I've never seen the Quel'dorei kingdom in reality."
+"I want to see it too, Vereesa." Sola said from behind. "I've never seen the Quel'dorei kingdom in reality."
 
-"Of course, Sora," Vereesa said.
+"Of course, Sola," Vereesa said.
 
-"Sun King and the Prince will be delighted by your visit, Lady Somallier." Alleria nodded.
+"The Sun King and the Prince will be delighted by your visit, Lady Somaelir." Alleria nodded.
 
-"The honor is mine, Captain Alleria." Sora bowed her head slightly in return.
+"The honor is mine, Captain Alleria." Sola bowed her head slightly in return.
 
 "I'm coming too." Needleflame had somehow appeared beside them.
 
@@ -66,7 +66,7 @@ Alleria hesitated for a moment. "Sylvanas and I plan to invite many human and dw
 
 "Then I'll go to your homeland as a great human warrior." Needleflame lifted her chin. "I'm way better than those orc warriors anyway!"
 
-"Nefarian is dead. Onyxia is in hiding. And Queen Alexstrasza has recognized Needleflame's identity." Sora said. "Isn't this the perfect opportunity... to reveal her existence to the world?"
+"Nefarian is dead. Onyxia is in hiding. And Queen Alexstrasza has recognized Needleflame's identity." Sola said. "Isn't this the perfect opportunity... to reveal her existence to the world?"
 
 Alleria said, "In Quel'Thalas, there are elders two to three thousand years old -- including the Sun King himself. Their ancestors, or even their fathers, personally experienced the destruction of the Well of Eternity. They witnessed Deathwing's transformation from leader of the Dragonflight to a traitor who wanted to destroy everything. Many of their loved ones died to the terrible power of the Demon Soul. Their memories are still vivid... I don't think they'll be able to accept this overnight. But it's precisely for this reason that they were willing to accept Jace's shadow magic so quickly -- because he truly defeated Deathwing."
 
@@ -78,7 +78,7 @@ Alleria said, "In Quel'Thalas, there are elders two to three thousand years old 
 
 The black dragon flicked her reins and galloped ahead, leaving three elven women stifling laughter and one warlock standing there bewildered, wondering what he'd done to upset the little brat this time.
 
-"I just remembered something, Jace." Sora said. "On this trip to Kalimdor, is there a chance we could visit Ashenvale and meet the Kaldorei High Priestess Tyrande Whisperwind? Grede and I promised her we'd bring news to you and Vereesa."
+"I just remembered something, Jace." Sola said. "On this trip to Kalimdor, is there a chance we could visit Ashenvale and meet the Kaldorei High Priestess Tyrande Whisperwind? Grede and I promised her we'd bring news to you and Vereesa."
 
 "I remember," Jace said. "After we see Onyxia and Mosa, we'll go to Astranaar."
 

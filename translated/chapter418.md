@@ -10,13 +10,13 @@ The soldiers had guessed right: demons kept pouring out of the Dark Portal. If t
 
 That afternoon, Nethergarde was unusually quiet for once — no missions out, no soldiers rushing back and forth, and Jace hadn't heard any word of mages being deployed. But his mood hadn't relaxed in the slightest because of the calm. Then a horn sounded again.
 
-This time the horn blared without stop, as if calling everyone to assemble in the square.
+This time the horn blared without pause, as if calling everyone to assemble in the square.
 
 Jace left the tower with the other mages and came to the center of Nethergarde. Two men walked up onto the wooden platform at the back of the square. One was a Kirin Tor archmage — Jace didn't recognize him, but he was certainly one of Nethergarde's leaders. The other was a powerfully built human general: golden hair, blue armor, a white eagle-emblem cloak draped over his shoulders, both hands resting on a greatsword of silver chased with gold, its blade engraved with the runic crest of the Kingdom of Lordaeron.
 
-Jace knew this man: Alexandros Mograine, High Commander of the Knights of the Silver Hand and supreme commander of Nethergarde.
+Jace knew this man: Alexandros Mograine, Highlord of the Knights of the Silver Hand and supreme commander of Nethergarde.
 
-He'd followed Grand Marshal Anduin Lothar into the Battle of Blackrock Spire, and after Marshal Turalyon crossed the Dark Portal, he was now the Alliance commander of highest prestige and authority here.
+He'd followed Grand Marshal Anduin Lothar into the Battle of Blackrock Spire, and after General Turalyon crossed the Dark Portal, he was now the Alliance commander of highest prestige and authority here.
 
 "Comrades of the Alliance."
 
@@ -38,7 +38,7 @@ Mograine continued: "The demons' true purpose… is to scatter as many of their 
 
 These words did something to lift the gloom of the past few days and all the rumors that had come with it.
 
-Listening to General Mograine's disposition of the battles to come, the defensive focus had shifted back to Dreadmaul Hold — and perhaps before long, the demons would launch an even more terrible assault on it.
+From General Mograine's dispositions for the battles to come, it was clear the defensive focus had shifted back to Dreadmaul Hold — and perhaps before long, the demons would launch an even more terrible assault on it.
 
 But Jace still harbored doubts about what he'd said — about the message from the other side of the Dark Portal.
 
@@ -62,7 +62,7 @@ Of course, this was all just Jace's speculation. He had no idea what was really 
 
 By evening, Nethergarde's tavern was packed to the rafters. Jace and Grede couldn't squeeze in at all, so they ended up beneath the mage tower. The mage tower didn't forbid other soldiers from entering, but aside from mages, not many people were keen on coming into a place that made them uncomfortable.
 
-Grede, though, was used to it — back in Stormwind, he'd occasionally tagged along with Jace to the Blue Heron, so he didn't mind much.
+Grede, though, was used to it — back in Stormwind, he'd occasionally tagged along with Jace to the Blue Recluse, so he didn't mind much.
 
 Once seated, the dwarf took a sip of the ice water a mage had conjured and asked, "So what do you make of what that human general said?"
 
@@ -77,23 +77,3 @@ Jace didn't know how to argue. He'd been turning the same question over in his m
 Grede pursed his lips. "Sure. I just think it's a little strange."
 
 "Me too," Jace nodded.
-
-## Flags
-
-- **Nethergarde Keep** (守望堡) — the Alliance frontline base; per Ch. 400 convention.
-- **Dreadmaul Hold** (巨槌要塞) — captured Alliance fortress; per Ch. 400 convention.
-- **Altar of Storms** (风暴祭坛) — the demonic ritual site; per Ch. 123 convention.
-- **Alexandros Mograine** (亚历山德罗斯·莫格莱尼) — High Commander of the Knights of the Silver Hand and supreme commander of Nethergarde. Canonical WoW figure (note: canonical spelling is Alexandros Mograine, the Ashbringer's father).
-- **Anduin Lothar** (安度因·洛萨) — Grand Marshal of the Alliance; canonical.
-- **Turalyon** (图拉杨) — Marshal who crossed the Dark Portal; canonical, per glossary.
-- **Sons of Lothar** (洛萨之子) — the expeditionary force commanders; canonical, rendered per Ch. 1 convention.
-- **Khadgar** (卡德加) — Archmage; canonical WoW figure.
-- **Kirin Tor** (肯瑞托) — mage council; per glossary.
-- **Knights of the Silver Hand** (白银之手骑士团) — paladin order; canonical.
-- **Dark Portal** (黑暗之门) — canonical; per glossary.
-- **Draenor** (德拉诺) — orcish homeworld; per glossary.
-- **Quel'Thalas** (奎尔萨拉斯) — High Elf homeland; per glossary.
-- **The Blue Heron** (蓝色隐士) — Stormwind Mage Quarter tavern; per Ch. 116 convention.
-- **Stormwind** (暴风城) — canonical; per glossary.
-- **Orc War** (兽人战争) — canonical; per glossary.
-- **Note**: Jace's foreknowledge — that Khadgar will destroy the Dark Portal and that the expeditionary force may never return — is kept as internal monologue, per the series convention. The tension between what Mograine says and what Jace knows drives the chapter.

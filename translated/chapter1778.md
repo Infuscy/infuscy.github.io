@@ -12,7 +12,7 @@ The dwarf yanked the people grabbing him, reclaimed his "shield," tore off the w
 
 "What are you doing here, apprentice?" a Kirin Tor guard asked, walking up beside him.
 
-Jace's hands froze mid-clap. He forced a smile. "The Battle Mages are very brave. That dwarf's a tough one. I was just... clapping for them."
+Jace's hands froze mid-clap. He forced a smile. "The battle mages are very brave. That dwarf's a tough one. I was just... clapping for them."
 
 "That piece of metal can awaken the power of wind elementals!" Drenden's voice suddenly rang out from below. "There's a reason it's wrapped in all those layers of rune wrappings! Don't let that dwarf unwrap it any further!"
 
@@ -44,11 +44,11 @@ Jace didn't hesitate. He vaulted over the windowsill. Khadgar followed. Behind t
 
 The air current kept pushing upward. Jace worried that flying so brazenly high above the Violet Citadel might catch the attention of mages on the streets below.
 
-But the rain hammered their faces like gravel, the black clouds pressed so low over Lake Lordamere it felt like night had already fallen. Debris and hats filled the air everywhere. Who was going to notice a few robe-like shapes drifting through the sky?
+But the rain hammered their faces like gravel, the black clouds pressed so low over Lordamere Lake it felt like night had already fallen. Debris and hats filled the air everywhere. Who was going to notice a few robe-like shapes drifting through the sky?
 
 And even if someone did notice, by the time the Kirin Tor freed up manpower, found witnesses, gathered evidence, and investigated who was flying around in this terrible elemental storm, who knew how long that would take? By then Lordaeron itself might already be destroyed.
 
-White tiles streaked past their ears too fast to make out any patterns or decorations. From the second floor to the fifth — it was there in the blink of an eye. The archmage's simulacrum chanted a spell. The window before them flew open, then shattered from the force of the gale. The three of them tumbled inside with a shower of broken glass.
+White tiles streaked past their ears too fast to make out any patterns or decorations. From the second floor to the fifth — it was there in the blink of an eye. The archmage's mirror image chanted a spell. The window before them flew open, then shattered from the force of the gale. The three of them tumbled inside with a shower of broken glass.
 
 Vereesa landed, looked around, and once she was sure no one was there, asked, "What about the window?"
 
@@ -60,13 +60,13 @@ Before she finished speaking, they spotted a blond elven mage standing ahead, st
 
 "You've got just over three minutes. What took you so long..."
 
-"You flew too fast, Sora!" Vereesa pulled Sora into a hug.
+"You flew too fast, Sola!" Vereesa pulled Sola into a hug.
 
-Khadgar cut in. "This isn't the time for compliments. My cell is to the right. Move it. The next steps are the ones that'll trigger the wards — they have to be done within three minutes. Everyone. Otherwise my simulacrum gets caught by the barrier, and none of the spellwork that follows will be possible."
+Khadgar cut in. "This isn't the time for compliments. My cell is to the right. Move it. The next steps are the ones that'll trigger the wards — they have to be done within three minutes. Everyone. Otherwise my mirror image gets caught by the barrier, and none of the spellwork that follows will be possible."
 
 Thunderaan had clearly eased off, but the wind outside hadn't fully died yet. This was exactly the moment to strike.
 
-The three of them followed the mage's simulacrum quickly down the corridor. At a turn, Khadgar pointed left. They all turned together — then stopped together.
+The three of them followed the mage's mirror image quickly down the corridor. At a turn, Khadgar pointed left. They all turned together — then stopped together.
 
 Ahead, a Violet Guard stood with his back to them, walking toward an ornate wooden door at the end of the hall.
 
@@ -74,15 +74,15 @@ The howling wind outside must have drowned out their footsteps. But he was almos
 
 What to do?
 
-Vereesa, Khadgar, and Jace exchanged glances. Sora didn't hesitate — her lips moved silently. The guard's body went limp, about to fall. Jace Shadowstepped to his side and caught him before he could hit the floor.
+Vereesa, Khadgar, and Jace exchanged glances. Sola didn't hesitate — her lips moved silently. The guard's body went limp, about to fall. Jace Shadowstepped to his side and caught him before he could hit the floor.
 
 "You hypnotized him?" Vereesa asked.
 
-"Before he saw us," Sora said. "Three minutes, Jace. When he wakes up, he'll just think he dozed off for no reason. He won't remember anyone was here."
+"Before he saw us," Sola said. "Three minutes, Jace. When he wakes up, he'll just think he dozed off for no reason. He won't remember anyone was here."
 
 "No other choice. If we do this cleanly, when he opens his eyes everything will look the same. The prisoner inside won't have left yet. It's fine." Jace propped the guard securely against the wall, then looked at Vereesa. "Open the door now."
 
-The ranger nodded, pulled out the Mithril Key, and inserted it into the door. Arcane Runes lit up across its surface — faint, barely visible.
+The ranger nodded, pulled out the mithril key, and inserted it into the door. Arcane runes lit up across its surface — faint, barely visible.
 
 The door creaked open, revealing a pale green barrier behind it, rippling like water. The white-bearded Khadgar was pressed up against the other side of that barrier, staring out at them.
 

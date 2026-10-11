@@ -30,7 +30,7 @@ That Spider God had a really badass name too, but it slipped his mind for a mome
 
 "Sha… Shad…" He tried sounding it out.
 
-"Sha'dra," the dwarf finished. "The spider god the Amani trolls worship. You really do know your stuff."
+"Shadra," the dwarf finished. "The spider god the Amani trolls worship. You really do know your stuff."
 
 "Right, that's the one," Jace said, satisfied. "There are some troll ruins in Lordaeron too, around Hillsbrad. Doesn't strike me as strange that I'd know that."
 
@@ -152,7 +152,7 @@ Grede felt along the wall for a long time, then turned back to Jace and shook hi
 
 Now, the entire mausoleum had been searched except for the last sealed stone coffin.
 
-Jace felt his scalp tingle. The idea of prying open a stone coffin was unpleasant for anyone — especially not knowing whether the corpse inside was dead or alive.
+Jace felt his scalp prickle. The idea of prying open a stone coffin was unpleasant for anyone — especially not knowing whether the corpse inside was dead or alive.
 
 "Whatever the owner's wearing or holding, don't touch it," he emphasized.
 
@@ -172,7 +172,7 @@ A mass of blackness poured from the half-opened coffin like boiling mud. In the 
 
 Countless beetles, packed tight!
 
-A tide of beetles poured out of the mausoleum and into the water. Watching this, Grede could barely keep hold of his sword.
+A tide of beetles poured out of the coffin and into the water. Watching this, Grede could barely keep hold of his sword.
 
 But the beetles didn't seem interested in swarming them — they were just fleeing the firelight, scattering into the water.
 
@@ -195,14 +195,3 @@ It was just that the corpse before him had rotted to the absolute limit of his i
 "Why doesn't it smell much?"
 
 Grede said, pinching his nose, "All corpses affected by necromantic magic don't have the foul stench of natural decay — more of a weird, fishy smell, like this one. Being underwater probably makes it a bit lighter… Let's stop talking about this and get to work! The sooner we finish, the sooner we get out!"
-
-## Flags
-
-- **古拉巴什帝国 (Gurubashi Empire):** Not in glossary. The troll empire of Stranglethorn. Rendered as "Gurubashi Empire" per canonical WoW lore.
-- **祖尔格拉布 (Zul'Gurub):** Not in glossary. The Gurubashi capital. Rendered as "Zul'Gurub" per canonical lore.
-- **荆棘谷 (Stranglethorn Vale):** Listed in glossary as "Stranglethorn Vale." Used here.
-- **乌瑞恩王室 (House of Wrynn):** Not in glossary. The royal house of Stormwind. Rendered as "House of Wrynn" per canonical lore.
-- **圣光教会 (Church of the Holy Light):** Listed in glossary. Used "Church of the Holy Light."
-- **死灵之息 / 死灵能量 (necrotic energy):** Not in glossary. The energy undead and Grave Moss feed on. Rendered as "necrotic energy."
-- **尸毒 (rot / zombie poison):** Not in glossary. The poison from ghoul/zombie bites. Rendered contextually as "rot" (for ghoul spittle) and "poison" (for zombie bites).
-- **旧城区 (Old Town):** Listed in glossary. Used "Old Town."

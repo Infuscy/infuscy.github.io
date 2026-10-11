@@ -4,13 +4,13 @@ After a sip of ale, Grede grinned and shook his head, letting out a long breath.
 
 "I'm with you," Jace said. "We earned a bit last time, so you can afford to live it up for a few days."
 
-"What've you got planned, then? Oh — how'd that thing with the Wizard Sanctum go? The king personally put in a word for you?" Grede asked, cup in hand.
+"What've you got planned, then? Oh — how'd that thing with the Wizard's Sanctum go? The king personally put in a word for you?" Grede asked, cup in hand.
 
-Jace took a swig of his own and looked at Grede's face, all lit up with anticipation. He sighed. "What, you think the king would do that? They just sent a letter asking the Sanctum to take me on as an apprentice. I'm not official yet, but Marin's already taught me one trick to practice."
+Jace took a swig of his own and looked at Grede's face, all lit up with anticipation. He sighed. "What, you think the king would do that? They just sent a letter asking the Sanctum to take me on as an apprentice. I'm not official yet, but Malin's already taught me one trick to practice."
 
 "Yeah? What trick? Show us." Grede set his mug down and waved him over.
 
-Jace held out his left hand, focused on his fingertip, and murmured, "Liusa!"
+Jace held out his left hand, focused on his fingertip, and murmured, "Liyouisa!"
 
 A ball of arcane energy gathered above his fingertip, and a burst of bright light flared outward. A few nearby patrons glanced over with curiosity. Jace immediately snuffed it out.
 
@@ -30,13 +30,13 @@ Grede narrowed his eyes. "Tell me — d'you think I could learn some magic too?"
 
 Jace burst out laughing. "You're only, what, sixty or seventy — and you're just now thinking about learning magic?"
 
-"Didn't you say something about 'live till you're old, learn till you're old'?" the dwarf shot back. "But honestly, I really doubt I've got any talent for it. Though that's beside the point. Actually, Jace, these past trips out with you made me realize something important about myself: I'd been treating my gryphon's strength as my own."
+"Didn't you say something about never being too old to learn?" the dwarf shot back. "But honestly, I really doubt I've got any talent for it. Though that's beside the point. Actually, Jace, these past trips out with you made me realize something important about myself: I'd been treating my gryphon's strength as my own."
 
 The smile faded from Jace's face. And just like that, he seemed to understand why this dwarf — one-eyed, hands too unsteady to hold a weapon right — still looked down on everything and charged headlong without a second's hesitation at whatever enemy crossed his path.
 
-And at the same time, he understood more deeply just why Grede harbored such bitter resentment over no longer being a Gryphon Rider.
+And at the same time, he understood more deeply just why Grede harbored such bitter resentment over no longer being a gryphon rider.
 
-"I'd been a Gryphon Rider for too long," Grede said, taking a drink. "I was riding gryphons and fighting Amani trolls years before the Dark Portal even opened. By the time the Orc Wars started, I'd nearly forgotten how to fight on the ground. The gryphon had become my legs, my wings, my… everything."
+"I'd been a gryphon rider for too long," Grede said, taking a drink. "I was riding gryphons and fighting Amani trolls years before the Dark Portal even opened. By the time the Orc Wars started, I'd nearly forgotten how to fight on the ground. The gryphon had become my legs, my wings, my… everything."
 
 "What really drove it home for me was when I got on that mare you'd scrounged up from the Mage Quarter. It felt familiar — the animal under me, it was like being back in the Hinterlands. Except I couldn't control her, the same way I can't control my own body now. I… I can't explain it."
 
@@ -126,7 +126,7 @@ That evening he got home, and the little imp was still copying books without res
 
 Jace picked one up, chose a word at random, and slowly read it aloud using the Common phonetic notation written beside it: "Anak."
 
-"No, no, no," Sazeno said. "That's still Common, master. To pronounce it in Demonic, you have to use the Eredar's distinctive inflection. Follow me… A—nak!"
+"No, no, no," Sazeno said. "That's still Common, master. To pronounce it in Demonic, you have to use the eredar's distinctive inflection. Follow me… A—nak!"
 
 When Sazeno voiced the "A," it was like a string of explosions going off in its throat — almost like a harsh bark. And by "nak," it sounded like it was crunching through bone.
 
@@ -136,11 +136,11 @@ All in all, even this simple word left Jace struggling.
 
 "The fact that you can even tell it's complicated means you've got excellent Demonic talent, master!" the imp said. "You have to pronounce it precisely… you must. Remember the pronunciation rules — that's the prerequisite for unleashing a spell's full power with the Demonic tongue!"
 
-"Anak," Jace repeated, copying the imp's pronunciation. The imp clapped. "Yes, yes, that's the feeling! The Eredar can use magic to enhance their pronunciation, which in turn amplifies the strength of their spells, making their incantations more powerful than ordinary people's. But I can't do that part — I'm just a little demon, rawr."
+"Anak," Jace repeated, copying the imp's pronunciation. The imp clapped. "Yes, yes, that's the feeling! The eredar can use magic to enhance their pronunciation, which in turn amplifies the strength of their spells, making their incantations more powerful than ordinary people's. But I can't do that part — I'm just a little demon, rawr."
 
 Jace nodded and read, "Anak… means misery."
 
-So what would happen if he used this pronunciation to say "Fekht"?
+So what would happen if he used this pronunciation to say "Fekt"?
 
 He'd been about to test it on the imp right then and there, but watching its busy back, he thought about how he might scare it so badly it jumped out the window and set a few houses on fire, and that'd be more trouble than it was worth — so he let the idea go.
 
@@ -148,7 +148,7 @@ He'd been about to test it on the imp right then and there, but watching its bus
 
 "A Demonic pronunciation rule table?" the imp turned to stare at him. "You're joking, right, master?"
 
-The imp's sarcasm didn't bother Jace. English had fused together words and pronunciations from many older languages, with countless irregular sounds. And Demonic was a fusion of the primitive languages of countless bizarre demons from the Twisting Nether — the vocabulary of Eredar, Demonic's backbone language, probably didn't even make up a large share.
+The imp's sarcasm didn't bother Jace. English had fused together words and pronunciations from many older languages, with countless irregular sounds. And Demonic was a fusion of the primitive languages of countless bizarre demons from the Twisting Nether — the vocabulary of eredar, Demonic's backbone language, probably didn't even make up a large share.
 
 Every demon species had its own way of pronouncing things. If Demonic actually had pronunciation rules, you'd probably need another whole book to cover them.
 
@@ -165,13 +165,3 @@ Now that was perfect.
 Jace closed his eyes in comfort.
 
 His stomach was a bit full.
-
-## Flags
-
-- **利尤萨 (Liusa):** Trigger word for the Light spell. Not in glossary; rendered phonetically as an incantation.
-- **阿纳克 (Anak):** Demonic word meaning "misery." Not in glossary.
-- **弗艾克特 (Fekht):** Incantation for the Fear spell (恐惧术). Not in glossary; rendered phonetically.
-- **艾瑞达人 (Eredar):** Rendered as "Eredar" (canon WoW race). Not in glossary.
-- **达纳斯·托尔贝恩 (Danath Trollbane):** Rendered per glossary entry for Stromgarde; canon WoW figure. Not in glossary by name.
-- **巨湖农场 (Lakeview Farm):** Rendered per glossary. Not in glossary by this exact name but follows the pattern.
-- **撒厄诺 (Sazeno):** Rendered per glossary (imp minion, short name Sazeno).

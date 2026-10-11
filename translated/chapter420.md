@@ -1,6 +1,6 @@
 ## Chapter 420: The Worst of It
 
-Grede looked at Vereesa and cleared his throat. "I, Grede Thunderfist, have long heard of the great name of the Windrunner family. To receive your help in healing my injury — to give a dwarf who'd already lost all hope of a future the chance to take to the skies again… it is an honor beyond measure."
+Grede looked at Vereesa and cleared his throat. "I, Grede Thunderfist, have long known the Windrunner family by reputation. To receive your help in healing my injury — to give a dwarf who'd already lost all hope of a future the chance to take to the skies again… it is an honor beyond measure."
 
 Jace watched Grede recite the whole thing like he was reading from a textbook, and thought: wasn't this the same guy who'd been full of prejudice against Vereesa? And now he turns out this polite the moment they meet?
 
@@ -97,26 +97,3 @@ He watched the ranger's slender silhouette walk away, and noticed that the squar
 But from here you couldn't see either of the moons — the black clouds never lifted. If not for the torches on the walls and the braziers beside the castle, you could barely see a thing in the middle of the night here.
 
 Jace looked up and saw that, at some point, a magic gemstone glowing with arcane light had appeared atop the mage tower. Under its radiance, the fel stench that permeated the whole fortress seemed to have been driven back considerably. Maybe tonight he'd be able to sleep a little more comfortably, he thought.
-
-## Flags
-
-- **Vereesa Windrunner** (温蕾萨·风行者) — youngest Windrunner sister; canonical, per Ch. 175–176 convention.
-- **Grede Thunderfist** (格瑞德·雷拳) — Jace's dwarf friend; "Thunderfist" is the Wildhammer family name, per glossary.
-- **Aerie Peak** (鹰巢山) — Wildhammer stronghold; per glossary.
-- **Dreadmaul Hold** (巨槌要塞) — captured Alliance fortress; per Ch. 400 convention.
-- **Nethergarde Keep** (守望堡) — the Alliance frontline base; per Ch. 400 convention.
-- **Mograine** (莫格莱尼) — General Alexandros Mograine; per Ch. 418.
-- **Khadgar** (卡德加) — Archmage; canonical, per Ch. 418.
-- **Dark Portal** (黑暗之门) — canonical; per glossary.
-- **Teron Gorefiend** (塔隆·血魔) — canonical first death knight, per glossary; Jace killed him earlier in the story.
-- **Kil'jaeden** (基尔加丹) — canonical Eredar, per Ch. 400 convention.
-- **Ner'zhul** (耐奥祖) — canonical orc shaman/warchief.
-- **Deathwing** (死亡之翼) — canonical Black Dragon Aspect, per glossary.
-- **Draenor** (德拉诺) — orcish homeworld; per glossary.
-- **Farstriders** (远行者) — Quel'Thalas ranger corps; per Ch. 419.
-- **Quel'Thalas** (奎尔萨拉斯) — High Elf homeland; per glossary.
-- **Thelsamar** (塞尔萨玛) — town in Loch Modan; per Ch. 375 convention.
-- **Goldshire** (闪金镇) — town north of Stormwind; per glossary.
-- **The Twin Moons** (双月) — Azeroth's two moons (white and green); per glossary.
-- **Fel** (邪能) — canonical demonic energy; per glossary.
-- **Note**: The "gift" Vereesa gave Jace is the weapon/potion referenced throughout — here credited with saving his life repeatedly. The arcane gemstone atop the mage tower is the same strategic asset carried in the ornate chest in Ch. 419, now active and purging the fel taint from the fortress.

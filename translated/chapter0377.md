@@ -1,38 +1,38 @@
 ## Chapter 377: An Alchemy Family
 
-That evening, Jace carried the cloth-wrapped vial down to The Slaughtered Lamb's basement. Sulenna was sitting in the main room drinking. When she saw Jace, she gave a lazy greeting, squinting. "Back, Jace."
+That evening, Jace carried the cloth-wrapped vial down to the Slaughtered Lamb's basement. Surena was sitting in the main room drinking. When she saw Jace, she gave a lazy greeting, squinting. "Back, Jace."
 
-"How's Galders doing? He and that succubus getting along all right?" Jace asked.
+"How's Zardeth doing? He and that succubus getting along all right?" Jace asked.
 
-"Like a house on fire," Sulenna said with a smile. "I've only seen him once or twice these past two weeks. Cold as you please. Erland's been dying to find him, absolutely itching to summon a succubus of his own..."
+"Like a house on fire," Surena said with a smile. "I've only seen him once or twice these past two weeks. He hardly shows his face. Erlan's been dying to find him, absolutely itching to summon a succubus of his own..."
 
 "He summons a succubus and you're not jealous?" Jace asked.
 
-That only made Sulenna laugh harder. "Why on earth would I be jealous of a demon servant?"
+That only made Surena laugh harder. "Why on earth would I be jealous of a demon servant?"
 
-Jace asked, "So, did Erland manage to summon an imp?"
+Jace asked, "So, did Erlan manage to summon an imp?"
 
 "No. But Ursula did."
 
 "Really?" Jace asked. "She summoned an imp?"
 
-"Yep." Sulenna nodded. "That demon does the same kind of work — helping her sort herbs, brew potions, keep track of time. What a hard worker..."
+"Yep." Surena nodded. "That demon does the same kind of work — helping her sort herbs, brew potions, keep track of time. What a hard worker..."
 
-After saying goodbye to Sulenna, Jace walked down the passage to the alchemy lab. Before he even reached it, he could feel waves of medicinal-smelling steam drifting over.
+After saying goodbye to Surena, Jace walked down the passage to the alchemy lab. Before he even reached it, he could feel waves of medicinal-smelling steam drifting over.
 
 "Ursula." He looked at the alchemist's back, holding up the glass vial. "Take a look at what I brought you."
 
-Ursula turned around, leaning on her waist and catching her breath. "When did you get back?"
+Ursula turned around, a hand on her hip, catching her breath. "When did you get back?"
 
 "Around this afternoon," Jace said, setting the vial on the side table. "Came to find you the moment I arrived."
 
-"What is this?" Ursula leaned in curiously. "Weren't you supposed to bring me a marsh beast organ... my goodness, this isn't marsh beast spores, is it?"
+"What is this?" Ursula leaned in curiously. "Weren't you supposed to bring me a bog beast organ... my goodness, this isn't bog beast spores, is it?"
 
 "What about it?" Jace asked.
 
 "I wouldn't know how to raise it..." Ursula examined the vial. "And there's no way my little alchemy lab could grow something like this."
 
-"Then I'll have to take it to Alchemist's Needs and ask," Jace said.
+"Then I'll have to take it to Alchemy Needs and ask," Jace said.
 
 "You mean that mother-and-daughter place?"
 
@@ -66,11 +66,11 @@ Ursula said in surprise, "Jace, I honestly can't imagine what you went through o
 
 Ursula led Jace into the apothecary's room, where they saw an imp scurrying back and forth hauling herb pouches. Jace nodded. "So that's the imp you summoned?"
 
-"Ah, Sulenna ran her mouth and told you, didn't she?" Ursula said, looking a little disappointed. "What do you think of this guy?"
+"Ah, Surena ran her mouth and told you, didn't she?" Ursula said, looking a little disappointed. "What do you think of this guy?"
 
 "Does it obey?" Jace asked.
 
-Ursula said, "Very obedient, though it grumbles a little sometimes. I finally understand why Jagin was always urging me to learn to summon an imp as soon as possible. With its help, I can put more energy into studying and brewing instead of spending all that time in the storage room..."
+Ursula said, "Very obedient, though it grumbles a little sometimes. I finally understand why Gakin was always urging me to learn to summon an imp as soon as possible. With its help, I can put more energy into studying and brewing instead of spending all that time in the storage room..."
 
 "Weren't you worried the imp would burn your herbs?" Jace asked.
 
@@ -102,7 +102,7 @@ Jace had to admit, Ursula's ears were indeed a bit higher than a normal human's,
 
 "Do the others know about this?" Jace asked.
 
-"I've never told anyone," Ursula said. "Though I think Galders can probably tell, but he doesn't care, so I feel at ease here. It wasn't like that in Lordaeron — a lot of people there could tell you had elven blood from nothing more than a snippet of your trimmed fingernails. After my father died, I couldn't stand that place anymore!"
+"I've never told anyone," Ursula said. "Though I think Zardeth can probably tell, but he doesn't care, so I feel at ease here. It wasn't like that in Lordaeron — a lot of people there could tell you had elven blood from nothing more than a snippet of your trimmed fingernails. After my father died, I couldn't stand that place anymore!"
 
 "I'm a Lordaeronian too," Jace said. "But I honestly couldn't tell."
 

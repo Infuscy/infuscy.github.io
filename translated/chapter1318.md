@@ -2,7 +2,7 @@
 
 Coming out of the mage tower, it was already late.
 
-Since the Dragonmaw Fortress victory, the relentless daily workload of tending the wounded and reinforcing patrols had pushed everyone in the stronghold to their limits. No matter how much passion everyone brought to the work, the body couldn't lie.
+Since the victory at Dragonmaw Fortress, the relentless daily workload of tending the wounded and reinforcing patrols had pushed everyone in the stronghold to their limits. No matter how much passion everyone brought to the work, the body couldn't lie.
 
 Come nightfall, the whole stronghold was filled with non-stop dwarven snoring, punctuated only by the occasional wingbeats of gryphon riders on night patrol.
 
@@ -10,11 +10,11 @@ After sustaining the void array for so long, Jace was feeling the exhaustion too
 
 He'd been worried something might go wrong back in Dalaran. Fighting Kil'jaeden and the Burning Legion here while chaos reigned there would've been a nightmare.
 
-But it looked like Khadgar had handled the Kirin Tor. And conveniently pinned the situation on Jace's control of Kar'lez, giving Ilgara's Tower a legitimate "cover story."
+But it looked like Khadgar had handled the Kirin Tor. And conveniently pinned the situation on Jace's control of Kallrez, giving the Tower of Ilgalar a legitimate "cover story."
 
-Thinking about all the arguments, communications, and back-and-forth between Dalaran, Stormwind, and the Wizard Sanctum during that time... and Amy's awkward position in the middle of it all...
+Thinking about all the arguments, communications, and back-and-forth between Dalaran, Stormwind, and the Wizard's Sanctum during that time... and Amy's awkward position in the middle of it all...
 
-Even though he hadn't had to deal with those problems himself, it was enough to make his scalp tingle.
+Even though he hadn't had to deal with those problems himself, it was enough to make his scalp prickle.
 
 Thankfully, none of that existed anymore. Now he just needed to focus on Draenor.
 
@@ -40,11 +40,11 @@ Needleflame folded her wings, shrinking into the corner like an oversized, snake
 
 He touched his cheek, checking for any bleeding.
 
-"I know," Needleflame admitted. "Lord Gelorior doesn't want whelps who can't shapeshift inside the walls, disturbing the humans. But I wanted to thank you and the dream-sister in person. So I snuck in. Those gryphon riders can't sense me."
+"I know," Needleflame admitted. "Lord Gorlorio doesn't want whelps who can't shapeshift inside the walls, disturbing the humans. But I wanted to thank you and the dream-sister in person. So I snuck in. Those gryphon riders can't sense me."
 
-"They probably can't be bothered to 'sense' you." Jace smiled. "I haven't heard Marshal Turalyon give any order banning black dragons from inside the walls. We're allies now."
+"They probably can't be bothered to 'sense' you." Jace smiled. "I haven't heard General Turalyon give any order banning black dragons from inside the walls. We're allies now."
 
-The black dragon snorted out a puff of ash in displeasure. "I heard there was a void-corrupted dragon in the Dragonmaw fortress. About my age. You killed her."
+The black dragon snorted out a puff of ash in displeasure. "I heard there was a void-corrupted dragon in Dragonmaw Fortress. About my age. You killed her."
 
 "Yes," Jace said. "I had to. She was keeping your father imprisoned. She was completely the orcs' slave."
 
@@ -58,7 +58,7 @@ Needleflame's head twitched. "No," she rasped. Jace could sense she was holding 
 
 "What about the dream-sister?" The black dragon tilted her head.
 
-"She should be over near the dwarf—" Jace gestured, then remembered he hadn't seen Sora when he'd gone back for soul shards. He pointed toward the Church's infirmary instead. "Probably over there. Fly over and find her."
+"She should be over near the dwarf—" Jace gestured, then remembered he hadn't seen Sola when he'd gone back for soul shards. He pointed toward the Church's infirmary instead. "Probably over there. Fly over and find her."
 
 "You take me," the black dragon said.
 
@@ -80,11 +80,11 @@ Jace turned to leave. Seeing him go, the black dragon spread her wings and block
 
 The black dragon actually sounded a little hurt. Jace almost broke his deliberately angry expression.
 
-"Fine. I apologize, little one." Jace sighed. "Stop beating around the bush. Tell me why you want to see Sora."
+"Fine. I apologize, little one." Jace sighed. "Stop beating around the bush. Tell me why you want to see Sola."
 
-"Her name is Sora?" the black dragon asked.
+"Her name is Sola?" the black dragon asked.
 
-"Somaliel," Jace said. "That's her full name."
+"Somaelir," Jace said. "That's her full name."
 
 "What a beautiful name. Queen Ysera must love her very much, to let one so young learn to shapeshift." Needleflame lowered her head, thinking. "I want to learn how, like her, Jace Sesso. Will you ask her to teach me?"
 
@@ -98,7 +98,7 @@ Sabellian, as Deathwing's direct son, was obviously different from other dragons
 
 "Quite a dad." Jace scratched his stubble. "But I'll warn you now — I don't know how dragon stuff works. I've never been a dragon. So I can't guarantee she can 'teach' you to shapeshift, Needleflame."
 
-"Then you'll take me to see Sister Somaliel?" Needleflame's amber eyes lit up with excitement.
+"Then you'll take me to see Sister Somaelir?" Needleflame's amber eyes lit up with excitement.
 
 "One condition." Jace raised a finger.
 

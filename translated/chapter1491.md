@@ -22,49 +22,49 @@ Whatever Orguril suspected, he didn't speak. He exchanged a few low words with W
 
 "As you command, Warlord." Jace smiled, walking to the bonfire. Behind him, the watching warlocks' faces gradually tensed.
 
-"What if something goes wrong again this time?" Elrand murmured.
+"What if something goes wrong again this time?" Erlan murmured.
 
 "Same as last time. We've got experience now." Ursula said flatly.
 
-"Besides, this time we have a whole lot of... things to plug the well with." Sulenna looked at the ogres.
+"Besides, this time we have a whole lot of... things to plug the well with." Surena looked at the ogres.
 
-"Last time Galders used every method he could to minimize the Soul Well's scale, Sul." Elrand lowered his voice. "This time, look at Jace's stance. Does he look like he wants to limit this well's scale?"
+"Last time Zardeth used every method he could to minimize the Soul Well's scale, Sul." Erlan lowered his voice. "This time, look at Jace's stance. Does he look like he wants to limit this well's scale?"
 
-"He told me he'll try not to let the well get out of control." Galders said. "Look — he's not even using his staff to cast."
+"He told me he'll try not to let the well get out of control." Zardeth said. "Look — he's not even using his staff to cast."
 
-"Regardless, that's Jace Sesso's well. I don't want to be the one who has to... stop that warlock's magic." Jalain Arrow said weakly.
+"Regardless, that's Jace Sesso's well. I don't want to be the one who has to... stop that warlock's magic." Jalane Ayrole said weakly.
 
-"By the way, what's the deal with that ring of yours?" Sulenna asked curiously. "You never told me about it."
+"By the way, what's the deal with that ring of yours?" Surena asked curiously. "You never told me about it."
 
-"Now isn't the time." Jalain said. "We'll talk when we get back."
+"Now isn't the time." Jalane said. "We'll talk when we get back."
 
-Elrand watched Jace raise his hands and muttered, "Get back... we're getting back?"
+Erlan watched Jace raise his hands and muttered, "Get back... we're getting back?"
 
-"Wait, you're all prepared to die here?" Matthias looked at Elrand. "That's not what you said before we came."
+"Wait, you're all prepared to die here?" Mathias looked at Erlan. "That's not what you said before we came."
 
-"Dark magic experiments, Shaw." Sulenna said. "What did you expect?"
+"Dark magic experiments, Shaw." Surena said. "What did you expect?"
 
-"Ah, may the Light protect me." Matthias sighed. "I told King Wrynn not to worry before I left."
+"Ah, may the Light protect me." Mathias sighed. "I told King Wrynn not to worry before I left."
 
-"If something goes wrong, he won't have a chance to punish you anyway, right?" Elrand said.
+"If something goes wrong, he won't have a chance to punish you anyway, right?" Erlan said.
 
-"You people are way too good at being reassuring." Matthias muttered.
+"You people are way too good at being reassuring." Mathias muttered.
 
 Gul'dan's manuscript was nothing like Medivh's grimoire. Once you got past the language, the content was much more detailed — after all, it was written to teach the students he'd left behind in Draenor.
 
 So after familiarizing himself with the spell inside the Telogrus Rift, the actual casting in this desolate valley went smoother than expected.
 
-"Ayazi, vartavar..." Jace chanted the ancient xenos demonic tongue. The valley grew darker. Suspicion and greed descended from the darkened sky, their extreme emotions infecting the wilted, dying plants. Many ogres sensed something was wrong and looked up.
+"Ayazi, vartavar..." Jace chanted the ancient, alien Demonic tongue. The valley grew darker. Suspicion and greed descended from the darkened sky, their extreme emotions infecting the wilted, dying plants. Many ogres sensed something was wrong and looked up.
 
-The shadow didn't just infect the plants — it spread to the ogres, to the Dagger Clan warlocks, even to the SI:7 agents. The murmuring in the valley gradually stopped. The warlord's advisor Orguril's expression grew heavier by the moment.
+The shadow didn't just infect the plants — it spread to the ogres, to the Dagger Society warlocks, even to the SI:7 agents. The murmuring in the valley gradually stopped. The warlord's advisor Orguril's expression grew heavier by the moment.
 
 "Sheluti, kaokayon tuat." Jace spoke the next part of the incantation firmly. The darkness swirling through the valley slowly gathered before him with his gestures, condensing into a spinning vortex that stained the earth black.
 
-Some ogres muttered in fear. The Dagger Clan warlocks weren't much better — their faces pale, even the usually calm Galders occasionally pursed his lips as if wanting to speak but unable. Several SI:7 agents backed away. Matthias grabbed hold of a nearby tree, as if the vortex was about to suck him in.
+Some ogres muttered in fear. The Dagger Society warlocks weren't much better — their faces pale, even the usually calm Zardeth occasionally pursed his lips as if wanting to speak but unable. Several SI:7 agents backed away. Mathias grabbed hold of a nearby tree, as if the vortex was about to suck him in.
 
-Forget these mortals — even the Dagger Clan's demon servants looked grim. Last time Galders cast the spell, a Mo'arg's soul had been annihilated in the well. Who knew how many demons would have to be sacrificed if things went wrong this time?
+Forget these mortals — even the Dagger Society's demon servants looked grim. Last time Zardeth cast the spell, a Mo'arg's soul had been annihilated in the well. Who knew how many demons would have to be sacrificed if things went wrong this time?
 
-Morofil stared at the Soul Well, as if recalling something unpleasant. Sazeno clung to her neck, trembling, his teeth chattering. These demons didn't fear being killed, didn't fear dying — but any magic that touched the soul terrified them... even the most powerful demon lords were the same.
+Morophil stared at the Soul Well, as if recalling something unpleasant. Sazeno clung to her neck, trembling, his teeth chattering. These demons didn't fear being killed, didn't fear dying — but any magic that touched the soul terrified them... even the most powerful demon lords were the same.
 
 "Tayani."
 
@@ -84,13 +84,13 @@ The two-headed ogre's heads suddenly screamed in unison, simultaneously grabbing
 
 But the moment the spell finished, a shadow-claw clamped around his throat and lifted him high off the ground.
 
-"His eyes." Sulenna gripped her staff. "Turned red." Jalain stepped forward.
+"His eyes." Surena gripped her staff. "Turned red." Jalane stepped forward.
 
 Jace barely glanced at the warlock, casually tearing apart the shadow-chains binding him, spreading his arms to continue the Soul Well's next phase.
 
 "Orguril?" Warlord Zak'ur seemed to snap out of the shadow storm's chaos. He immediately shouted in Orcish, "Do as he says! Kill these humans! Something's wrong! Something's wrong! This is all wrong!"
 
-Several elite ogres roared and raised their warhammers. Higher up, more ogres echoed the warlord's command, leaping down the slopes and charging toward the warlocks. But elsewhere, more than half of the Crackfist ogres stood frozen, too terrified to move, staring at the well of condensed shadow energy at the center.
+Several elite ogres roared and raised their warhammers. Higher up, more ogres echoed the warlord's command, leaping down the slopes and charging toward the warlocks. But elsewhere, more than half of the Splinter Fist ogres stood frozen, too terrified to move, staring at the well of condensed shadow energy at the center.
 
 The warlocks and demons didn't sit idle either, casting spells in reply at the ogres brave enough to attack. But many of the soul-shard-powered spells never reached the ogres — they were sucked straight into the Soul Well.
 
@@ -100,7 +100,7 @@ It wasn't just soul magic. Many ogres who ran near the well seemed to go brain-d
 
 Jace captured every ogre's emotions as he continued chanting the ancient, twisted demonic incantation. Now even the ogres on the higher slopes began wailing in agony. A spear flew from afar and embedded itself in the dirt beside Jace, but he didn't break concentration. Soon, even the warlord was on his knees, screaming...
 
-"Should we... get further away?" Matthias said frantically.
+"Should we... get further away?" Mathias said frantically.
 
 None of the warlocks answered him, but each of them stepped backward. Their robes and cloaks flapped wildly in the dark wind; some were pulled forward again after retreating a single step.
 
@@ -110,7 +110,7 @@ Orguril, pinned by the Strangulate spell's power, could barely move, let alone r
 
 Countless ghostly blue souls spiraled slowly downward, finally swallowed by the dark vortex at the center. The vortex glowed brighter with spectral light, making the valley even more eerie.
 
-Next, according to Gul'dan, the Soul Well's power could be used by the caster to fuel other spells — Gul'dan's Hand, for instance. Any soul magic cast through the well would have incalculable power.
+Next, according to Gul'dan, the Soul Well's power could be used by the caster to fuel other spells — Hand of Gul'dan, for instance. Any soul magic cast through the well would have incalculable power.
 
 Maybe this was how he'd opened the Dark Portal.
 
@@ -118,15 +118,15 @@ Having devoured so many ogre souls, Jace could feel the well approaching the edg
 
 It wasn't time to risk the next step yet.
 
-By now, the valley held only the shrieking of shadow and souls. The SI:7 agents, and even the Dagger Clan warlocks and demons, were deathly pale, clutching at nearby trees and rocks to keep from being dragged into the well by the howling magic and soul energy.
+By now, the valley held only the shrieking of shadow and souls. The SI:7 agents, and even the Dagger Society warlocks and demons, were deathly pale, clutching at nearby trees and rocks to keep from being dragged into the well by the howling magic and soul energy.
 
-"Master..." Morofil folded her wings tightly, digging her hooves into the earth to resist the Soul Well's pull. Sazeno clung to her horns, sobbing hysterically.
+"Master..." Morophil folded her wings tightly, digging her hooves into the earth to resist the Soul Well's pull. Sazeno clung to her horns, sobbing hysterically.
 
-Jace glanced at her, then picked up Uthalesh, unwrapped the magicweave, and raised it high, drawing a circle. The Soul Well emitted an even more piercing shriek.
+Jace glanced at her, then picked up Ulthalesh, unwrapped the mageweave, and raised it high, drawing a circle. The Soul Well emitted an even more piercing shriek.
 
 The energy spun faster and faster. The demon skull's eyes glowed brighter red. Jace could hear its triumphant laughter in his mind.
 
-Before long, the Soul Well weakened. Without Jace's focused guidance, the shadow energy gradually dissipated. The countless souls began to form a new "soul-fire tornado" centered on Jace — no, on Uthalesh.
+Before long, the Soul Well weakened. Without Jace's focused guidance, the shadow energy gradually dissipated. The countless souls began to form a new "soul-fire tornado" centered on Jace — no, on Ulthalesh.
 
 But the new tornado didn't last long either. Soon, it vanished along with the oppressive shadow that had covered the entire valley, disappearing into the whistling wind without a trace. Only a hollow echo lingered, reverberating through the valley.
 
@@ -136,16 +136,16 @@ Ogre corpses were scattered everywhere, each with an empty, wooden expression. E
 
 Only then did the warlocks and agents finally catch their breath, daring to look around.
 
-"Is it over?" Matthias couldn't help asking. "Was that a success or a failure?" His voice sounded pathetically weak after the deafening roar of magical energy, but it was clear enough in the suddenly silent valley.
+"Is it over?" Mathias couldn't help asking. "Was that a success or a failure?" His voice sounded pathetically weak after the deafening roar of magical energy, but it was clear enough in the suddenly silent valley.
 
-"At least we're still alive. I think that counts as a success." Elrand called out, "Jace... you alright?"
+"At least we're still alive. I think that counts as a success." Erlan called out, "Jace... you alright?"
 
-"I'm fine." Jace leaned on his staff, catching his breath. He turned to Matthias and asked, "These ogre heads — are they worth ten silver each?"
+"I'm fine." Jace leaned on his staff, catching his breath. He turned to Mathias and asked, "These ogre heads — are they worth ten silver each?"
 
-"Damn it, Sesso. May the Light curse you!" Matthias burst out swearing.
+"Damn it, Sesso. May the Light curse you!" Mathias burst out swearing.
 
-Ursula finally relaxed, leaning against a rock behind her as she looked at Galders and Jalain. Jalain stared wide-eyed, speechless. Galders held his staff, looking back with lingering fear still in his eyes.
+Ursula finally relaxed, leaning against a rock behind her as she looked at Zardeth and Jalane. Jalane stared wide-eyed, speechless. Zardeth held his staff, looking back with lingering fear still in his eyes.
 
 As for the succubus servants, nearly all of them stared fixedly at Jace. Their emotions held not just residual fear, but something unnamable.
 
-Whatever that something was, it quickly vanished the moment Morofil's gaze swept over them.
+Whatever that something was, it quickly vanished the moment Morophil's gaze swept over them.

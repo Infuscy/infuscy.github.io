@@ -2,7 +2,7 @@
 
 "Going directly after the Scepter of Sargeras — that's a first."
 
-The image of Node Prince Haramad on the disc in the ethereal camp looked displeased. "We suspected this before, but the members of the Shadow Council all believed the Horde's former warchief had taken the thing out of Draenor. The same claim was confirmed by the ogres of Nagrand and your mages. And now the two of you come along and overturn everyone's intelligence?"
+The image of Nexus-Prince Haramad on the disc in the ethereal camp looked displeased. "We suspected this before, but the members of the Shadow Council all believed the Horde's former warchief had taken the thing out of Draenor. The same claim was confirmed by the ogres of Nagrand and your mages. And now the two of you come along and overturn everyone's intelligence?"
 
 "Someone saw traces of the Scepter of Sargeras in Shadowmoon Valley after Draenor's collapse," Sabellian said. "There were even signs of its magic having been used. There's no doubt about this."
 
@@ -18,7 +18,7 @@ The image of Node Prince Haramad on the disc in the ethereal camp looked displea
 
 "But if it's the Scepter of Sargeras, then everything makes sense." Haramad continued. "Several of our engineers had already determined that this lockdown was a form of demonic magic. After all, aside from fel energy, all other forms of communication channels have been shut down. We can't contact Consortium members outside, nor can we reach any other allies for any form of support..."
 
-"But why would the demons use the Scepter of Sargeras to lockdown this shattered world?" the Node Prince said.
+"But why would the demons use the Scepter of Sargeras to lock down this shattered world?" the Nexus-Prince said.
 
 Sabellian said nothing. Jace was silent too. Finally Haramad said, "Then let's skip this discussion."
 
@@ -26,7 +26,7 @@ His tone was noticeably more polite than when Jace had seen his image in Hellfir
 
 "We've informed you in time just how laughable your plan to build a teleportation device in Farahlon to break through the Scepter of Sargeras is," Sabellian said. "So as thanks for the manpower and resources we've saved the Consortium, I think transferring the ethereal communicator technology to us would be a reasonable expression of gratitude."
 
-"You will certainly be thanked, Baron Sabermane." Haramad's image looked toward the black dragon. "But I must stress that our plan is not laughable. Farahlon's Netherstorm possesses enough arcane energy. Once we properly collect it, twenty years from now, it will definitely break through the lockdown — even the magic imposed by the Scepter of Sargeras. This has been rigorously calculated by our engineers."
+"You will certainly be thanked, Baron Sablemane." Haramad's image looked toward the black dragon. "But I must stress that our plan is not laughable. Farahlon's Netherstorm possesses enough arcane energy. Once we properly collect it, twenty years from now, it will definitely break through the lockdown — even the magic imposed by the Scepter of Sargeras. This has been rigorously calculated by our engineers."
 
 "Then that's none of our business. Good luck." Sabellian said. "Now let's discuss the technology transfer. Start by putting away that disc you're standing on."
 
@@ -34,7 +34,7 @@ His tone was noticeably more polite than when Jace had seen his image in Hellfir
 
 "Of course there is," Haramad said. "Crawl into a Burning Legion portal and head for a demon world... If you're lucky enough, you might survive for a while under the demons' hunt."
 
-The Node Prince laughed unkindly. Though his tone was dripping with sarcasm, Jace couldn't help considering the possibility anyway.
+The Nexus-Prince laughed unkindly. Though his tone was dripping with sarcasm, Jace couldn't help considering the possibility anyway.
 
 But setting aside the fact that every Burning Legion portal was now heavily surrounded by demons and orcs — making it incredibly difficult to storm through — who knew what terrible situation awaited on the other side of the portal?
 
@@ -46,9 +46,9 @@ Sabellian glanced over, apparently confused about what Jace was trying to do.
 
 "You're actually considering this method, Jabal?" Haramad said unhappily.
 
-"If this lockdown really was created by the Scepter of Sargeras, Node Prince," Jabal said, "then I have to consider the possibility that this world could collapse again..."
+"If this lockdown really was created by the Scepter of Sargeras, Nexus-Prince," Jabal said, "then I have to consider the possibility that this world could collapse again..."
 
-"Why don't you consider something more positive," the Node Prince said coldly.
+"Why don't you consider something more positive," the Nexus-Prince said coldly.
 
 "Earlier I tried to use an enslaved demon to open a passage to the outside world, but it failed," Jace said. "So how does the Burning Legion get through the lockdown into Draenor?"
 
@@ -86,7 +86,7 @@ Jace handed the materials over. Jabal examined them while exchanging words with 
 
 "Of course we can!" Haramad said. "But what's the use? In the end, we'd still need to build a powerful teleportation device in Farahlon. That's the precondition for leaving Draenor!"
 
-"We don't need you or us to go there, Node Prince," Jace said. "Can this method be learned and used by people outside your species?"
+"We don't need you or us to go there, Nexus-Prince," Jace said. "Can this method be learned and used by people outside your species?"
 
 "Can it?" Haramad asked Jabal beside him.
 
@@ -110,4 +110,4 @@ The ethereals nearby all looked over. Jabal seemed to want to say something, but
 
 "Yes," Jace said. "What do you think?"
 
-"Absolutely insane..." Node Prince Haramad murmured. "But I like it."
+"Absolutely insane..." Nexus-Prince Haramad murmured. "But I like it."

@@ -10,7 +10,7 @@ Damn it. More of them.
 
 Worse, he could already feel his stamina flagging.
 
-"Fekhad."
+"Fekt."
 
 Jace pointed at the gnoll in front of him and cast Fear — he was quite proficient with this spell by now.
 
@@ -32,9 +32,9 @@ The result of carelessly casting Mass Fear would be: beat up his own teammates, 
 
 Thinking that, he let go of the staff.
 
-"Sathrovarr… can you hear me? If you can hear me, get out here…"
+"Sazeno… can you hear me? If you can hear me, get out here…"
 
-He whispered it, not really expecting anything — but a burst of arcane light suddenly flashed before his eyes. Sathrovarr grabbed Jace's collar and hissed, "What the hell are these things, master?!"
+He whispered it, not really expecting anything — but a burst of arcane light suddenly flashed before his eyes. Sazeno grabbed Jace's collar and hissed, "What the hell are these things, master?!"
 
 "How did you—" Jace started, startled.
 
@@ -52,7 +52,7 @@ Both the wall and the two watchtowers had already been overrun by gnolls. The wa
 
 If the gnolls took the wall completely, they could use the soldiers' own crossbows to fire down on the defenders barely holding out in the courtyard. Stonewatch would fall soon!
 
-A burst of fireball sounded behind him. Jace turned — the imp's fireball had already flown high into the sky and detonated, blooming into a cloud of gray smoke.
+The roar of a fireball sounded behind him. Jace turned — the imp's fireball had already flown high into the sky and detonated, blooming into a cloud of gray smoke.
 
 Would that do any good? Would the colonel be able to see it?
 
@@ -66,7 +66,7 @@ They'd noticed… That was no surprise. If the cavalry in the woods could spot i
 
 "Stop, stop." Jace grabbed the imp, cutting off his casting. "Save your strength. When the gnolls come up, you kill them — use every trick you've got."
 
-Sathrovarr bounced around. "Understood, master! Should I give you as much magical support as I can?"
+Sazeno bounced around. "Understood, master! Should I give you as much magical support as I can?"
 
 "Yes! Yes!" Jace said. "Blood Pact… if you've got it, put it on me. If I die, you're not living either."
 
@@ -78,11 +78,11 @@ He swung back with his sword, but the gnoll ducked its head aside. Jace kicked i
 
 Jace muttered to himself. Just like this. Just like this. As long as he kept repeating it… all night long.
 
-Another gnoll had just poked its head up on the other side when Sathrovarr chanted a short spell — and the gnoll suddenly burst into flames, shrieking as it fell off the wall. The imp cackled, and that demonic laugh was plenty unnerving in the night.
+Another gnoll had just poked its head up on the other side when Sazeno chanted a short spell — and the gnoll suddenly burst into flames, shrieking as it fell off the wall. The imp cackled, and that demonic laugh was plenty unnerving in the night.
 
-"Burn! Burn! Caw caw!"
+"Burn! Burn! Gahaha!"
 
-Immolate… Every time a gnoll was set ablaze, screaming and thrashing in agony, Sathrovarr would leap right onto its head, shouting and dancing wildly in the flames.
+Immolate… Every time a gnoll was set ablaze, screaming and thrashing in agony, Sazeno would leap right onto its head, shouting and dancing wildly in the flames.
 
 "Devour your souls! Devour the filthy souls of you lesser creatures!" The tone was hysterical.
 
@@ -96,15 +96,6 @@ This one had bounded straight up from the base of the wall, brandishing a huge s
 
 The gnoll howled and swung horizontally. Jace dove aside and barely dodged — but he felt the wind of the club grazing his ear, close enough to hurt.
 
-Jace backed up a few paces, pulled himself up against the wall. The gnoll steadied itself and turned to face him. He pointed at the imp. "Sathrovarr, burn this thing!"
+Jace backed up a few paces, pulled himself up against the wall. The gnoll steadied itself and turned to face him. He pointed at the imp. "Sazeno, burn this thing!"
 
 "Like I needed you to tell me!"
-
-## Flags
-
-- **弗艾克特 (Fekhad)**: The incantation Jace uses to trigger the Fear spell. Rendered as "Fekhad" — flag for verification of intended spelling.
-- **群体恐惧术 (Mass Fear)**: The AoE version of the warlock Fear spell. Rendered as "Mass Fear."
-- **血之契印 (Blood Pact)**: The imp's health-stealing buff. Rendered as "Blood Pact" (canonical warlock/imp ability).
-- **献祭 (Immolate)**: The warlock DoT spell the imp uses to ignite gnolls. Rendered as "Immolate."
-- **豺狼人斗士**: The larger, more savage gnoll warriors. Rendered as "savage warriors."
-- **弩箭 (crossbows)**: The fort's wall-mounted crossbows the gnolls would turn on the defenders.

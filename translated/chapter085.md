@@ -10,7 +10,7 @@ After all, he'd be throwing himself into Orcish study for the next month. If it 
 
 Used to traveling with the dwarf, sitting alone in a caravan wagon in quiet procession along the roads of Elwynn Forest felt oddly unfamiliar.
 
-He rested at Westfall Keep in the evening. Jace planned to pick up a discarded weapon from someone here. An old soldier with a rather strange tone came up and asked him right away what he wanted a weapon for. Jace stressed several times over that he just wanted something for self-defense against the occasional wild animal, and only then did the man agree to sell him one.
+He rested at Westbrook Garrison in the evening. Jace planned to pick up a discarded weapon from someone here. An old soldier with a rather strange tone came up and asked him right away what he wanted a weapon for. Jace stressed several times over that he just wanted something for self-defense against the occasional wild animal, and only then did the man agree to sell him one.
 
 Following the soldier to a more secluded tent, he saw a mountain of scrap metal piled in the corner.
 
@@ -44,17 +44,17 @@ The soldier patted his own head. "I can tell an orc's head at a glance — I kno
 
 "So you've seen orcs with your own eyes," Jace said. "You're an Orc Wars veteran, huh?"
 
-"What d'you think?" The soldier laughed. "I'm not just an Orc Wars veteran — I was among the first to enter the swamp on King Laine's orders. Not many of those first few batches ever made it back. I was one of 'em. Back then my belly was full of nothing but rage, all I wanted was revenge. So later I crossed Thandol Span and fought at Hillsbrade with the Silver Hand."
+"What d'you think?" The soldier laughed. "I'm not just an Orc Wars veteran — I was among the first to enter the swamp on King Llane's orders. Not many of those first few batches ever made it back. I was one of 'em. Back then my belly was full of nothing but rage, all I wanted was revenge. So later I crossed Baradin Bay and fought at Hillsbrad with the Silver Hand."
 
 "Then you must've held a high rank."
 
 No sooner had Jace asked than he realized he'd probably said the wrong thing. This man was here selling scrap weapons — he didn't look anything like a high-ranking officer.
 
-"No. Because at Hillsbrade I deserted," the soldier admitted frankly.
+"No. Because at Hillsbrad I deserted," the soldier admitted frankly.
 
 "But where could you run? Orcs, trolls, wolves bigger than cows — they were everywhere. So I went back. Because I'd earned merit before, and the new Stormwind's reconstruction was short on hands, so I wasn't executed. I came back to help with labor, and later got recalled to the army for logistics. I've been a soldier half my life. I don't know how to do anything else."
 
-Jace looked at the man and could hardly imagine what a warrior who'd survived being hunted by orcs in the Black Swamp must have gone through at Hillsbrade.
+Jace looked at the man and could hardly imagine what a warrior who'd survived being hunted by orcs in the Black Morass must have gone through at Hillsbrad.
 
 That battle had had death knights and red dragons too. If you hadn't truly been part of that war, no one could say for sure they'd have kept their composure and held out to the very end.
 
@@ -94,13 +94,13 @@ Jace thought about the talk of revenge and rage the veteran had mentioned. Consi
 
 If that was the case, telling the wife's family how the veteran was doing would at least give them some closure.
 
-He spent the night at the inn at Westfall Keep and set out again early the next morning.
+He spent the night at the inn at Westbrook Garrison and set out again early the next morning.
 
 He'd heard of Furlbrow Farm — it existed in the game, after all — but the abandoned village and fishing village the soldier had mentioned, he had absolutely no memory of.
 
 Westfall was big. It might be a lot larger than the Elwynn region. Last time he'd come here with Grede, just getting to Sentinel Hill had taken a day and a night, let alone Moonbrook farther south.
 
-And judging from the map, the carriage road from Westfall Keep to Sentinel Hill only covered a short stretch through the large eastern portion of Westfall.
+And judging from the map, the carriage road from Westbrook Garrison to Sentinel Hill only covered a short stretch through the large eastern portion of Westfall.
 
 There were probably plenty of little unknown settlements — places that might've been quite well-known before the Orc Wars, before the Dark Portal opened, but had faded into obscurity after the orcs swept through.
 
@@ -119,23 +119,3 @@ Someone was shouting from the house in the distance. Jace looked over and saw a 
 "Mr. Furlbrow?"
 
 "Yeah — Rendor Furlbrow! The owner of this farm!"
-
-## Flags
-
-- **西泉要塞 (Westfall Keep):** Rendered per glossary.
-- **术士包 (warlock bag):** Not in glossary; standard WoW inventory term, rendered descriptively.
-- **暗影防护药水 (Shadow Protection Potion):** Rendered per glossary (potion name).
-- **巴拉丁海湾 (Thandol Span):** The strait/bridge between Hillsbrade and the Wetlands. Not in glossary; rendered as "Thandol Span" per canon WoW location.
-- **白银之手 (the Silver Hand):** Rendered per glossary.
-- **希尔斯布莱德战役 (Battle of Hillsbrade):** Not in glossary; standard WoW battle name.
-- **黑色沼泽 (the Black Swamp):** The swamp region around the pre-Stormwind area. Not in glossary; descriptive translation.
-- **法布隆农场 (Furlbrow Farm):** Not in glossary; standard WoW location name (canon Westfall farm).
-- **瑞多尔·法布隆 (Rendor Furlbrow):** Not in glossary; rendered phonetically.
-- **收获节 (Harvest Festival):** WoW seasonal event. Not in glossary; standard term.
-- **印斯茅斯之影 (Shadow over Innsmouth):** Jace's Lovecraft reference. Not in glossary; rendered as the canonical title of the Lovecraft story.
-- **北海岸 (north coast):** Refers to the northern coastline of Westfall. Not a glossary entry; descriptive.
-- **鱼人 (murloc):** Rendered per glossary.
-- **豺狼人 (gnoll):** Rendered per glossary.
-- **库尔提拉斯 (Kul Tiras):** Not in glossary; canon WoW nation, standard name.
-- **莱恩国王 (King Laine):** Not in glossary; canon Stormwind king (Llane Wrynn), rendered per standard spelling.
-- **鱼人烤兽人肉 / 兽人脑袋:** Kept faithful to the soldier's dialogue (murlocs roasting orc meat, recognizing an orc head).

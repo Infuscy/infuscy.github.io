@@ -14,17 +14,17 @@ Maybe someone around here needed the rest of the faerie dragon's body for someth
 
 Lost in thought, Jace wandered into a street-corner square. The Winter Veil atmosphere here was even livelier than outside Dushan's front door. A white-bearded dwarf in a red robe was standing on a platform by the fountain, hands on his hips, turning somersaults.
 
-That couldn't actually be Great-father Winter, could it? The man had way too much energy.
+That couldn't actually be Greatfather Winter, could it? The man had way too much energy.
 
 A big crowd had gathered in the square. The various food carts were all decked out in holiday themes. Across the fountain, a cacophony of clanking metal mixed with some strange music. Jace walked over and found goblins running amusement devices for passing travelers.
 
-Jace took a quick look around. Nearby there was a menacing-looking automatic suit-up/suit-down machine. He lingered for a while, but not a single woman tourist gave it a try, so he moved on.
+Jace took a quick look around. Nearby there was a menacing-looking automatic dressing-and-undressing machine. He lingered for a while, but not a single woman tourist gave it a try, so he moved on.
 
 Next to it was a multi-function fully automated hairdressing device, a self-propelled motorcycle, and more. They all looked pretty beefy. Plenty of bold kids and adults were willing to give them a go. Fortunately, no blood had been spilled yet.
 
-There was one piece of equipment that nobody was touching, too — a human cannon pointed at Lake Lordamere.
+There was one piece of equipment that nobody was touching, too — a human cannon pointed at Lordamere Lake.
 
-Two silver a pop, the sign said. It'd launch you to the Dawn Isle at the lake's center. There was just one goblin salesman standing beside it, shouting about it. He claimed it came with a parachute to guarantee a safe landing.
+Two silver a pop, the sign said. It'd launch you to the Dawning Isles at the lake's center. There was just one goblin salesman standing beside it, shouting about it. He claimed it came with a parachute to guarantee a safe landing.
 
 But plenty of people only glanced over from a distance to watch the spectacle. Nobody dared step up and try it in person.
 
@@ -32,7 +32,7 @@ For one thing, they'd only guaranteed landing safety — they said nothing about
 
 Unless there was a return human cannon on Fenris Isle, two gold a ride, and if you didn't take it, you just waited around for the murlocs to finish you off.
 
-Jace was reminded of that shady couple at the Twin Colossi in Feralas — one teleported you up the mountain, the other sold overpriced parachutes.
+Jace was reminded of that shady couple at the Twin Colossals in Feralas — one teleported you up the mountain, the other sold overpriced parachutes.
 
 Either way, he was not getting swindled this time. What Jace wanted was something like a power meter — one of those carnival games where they give you a punching bag, you hit it, and it gives you a score.
 
@@ -84,7 +84,7 @@ The boy let out a choked grunt and hit the ground. He clutched his chest, coughe
 
 "Good heavens!" The nearest goblin put down his coin box and rushed over. He leaped onto the orc's back trying to work the controls, only for the mechanical arm to grab him and fling him across the street.
 
-"Unknown aggression detected. Trade Robot 800-A initiating self-defense protocols. Protecting Trade Cartel property!"
+"Unknown aggression detected. Trade Robot 800-A initiating self-defense protocols. Protecting Steamwheedle Cartel property!"
 
 With that announcement — clearly stitched together from a goblin's recorded voice — the fake orc stood up and took two steps. The base wrapped in rags turned out to be a pair of iron feet!
 
@@ -98,7 +98,7 @@ Both arms broke free of whatever had been holding them with a couple of snapping
 
 "You didn't pay me to fight a robot!" Black shouted back at the other goblins. "You lot built this thing — you deal with it!"
 
-Plenty of people in the square were looking over now. Even Great-father Winter stopped dancing.
+Plenty of people in the square were looking over now. Even Greatfather Winter stopped dancing.
 
 The boy scrambled backward helplessly, trying to get up and run, only to slip on the bricks again. This time, Jace couldn't tell if it was from fear or from the pain of the fall, but he let out a wailing cry.
 
@@ -151,22 +151,3 @@ That… was a near-perfect excuse.
 Though that excuse probably had a shelf life of a few months at most. After all, if you were still radiating shadow energy that long later with no obvious side effects, people would slowly start to get suspicious.
 
 Still, it'd be enough to cover any surprises that might come up on the Aerie Peak trip.
-
----
-
-## Flags
-
-- 暴打兽人脸 → Smack the Orc in the Face (chapter title; carnival-game name rendered in caps as a proper attraction title).
-- 冬天爷爷 → Great-father Winter (canonical WoW Winter Veil figure).
-- 洛丹米尔湖 → Lake Lordamere (canonical; the lake Dalaran sits on).
-- 黎明群岛 → Dawn Isle (tentative — canonical name for the central island group in Lake Lordamere; host to Dalaran).
-- 芬里斯 → Fenris (canonical island/fortress in Lake Lordamere).
-- 贸易机器人800-A型 → Trade Robot 800-A (goblin machine).
-- 热砂集团 → the Trade Cartel (canonical goblin faction; glossary gives Trade Cartel / Steamwheedle Cartel).
-- 菲拉斯双塔山那对奸商夫妇 → "that shady couple at the Twin Colossi in Feralas" (refers to the Feralas teleporter/parachute vendors — preserved as Jace's player knowledge).
-- 布莱克 → Black (the human bystander's name).
-- 鹰巢山 → Aerie Peak (canonical Wildhammer stronghold).
-- 蛮锤 → Wildhammer (canonical dwarven clan).
-- 黑龙血 / 暗影能量 → black dragon's blood / shadow energy (carried over from earlier chapters; not in glossary but contextually clear).
-- 计分板 → scoring board (the mechanical score display on the carnival machine).
-- 合并同类项 → "lumped together under the same heading" (Chinese math-class idiom; rendered for tone, not literally).

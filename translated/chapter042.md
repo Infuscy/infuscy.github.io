@@ -74,7 +74,7 @@ A tangled mess of fury, tension, and madness clamped down on Jace's mind.
 
 Now. It was time. It was time.
 
-— *Fergt.*
+— *Fekt.*
 
 The long pole in his hand trembled faintly.
 
@@ -126,9 +126,9 @@ Jace said nothing. Grede put a hand on Jace's shoulder. "While we rest, let me t
 
 "In the end, Bronzebeard won. My ancestors headed north and carved out another vast underground city in those mountains to rival Ironforge — the great Grim Batol."
 
-"But not many years later, the Dark Iron king who had fled to settle in Redridge — Thaurissan, who styled himself the 'Warcaster King' — used the rich ore and timber there to forge a golem army. Then he and his wife Modgud each led a legion, attacking Dun Morogh and Grim Batol at the same time, determined to wipe out the shame of defeat and conquer all dwarves once and for all."
+"But not many years later, the Dark Iron king who had fled to settle in Redridge — Thaurissan, who styled himself the 'Sorcerer-thane' — used the rich ore and timber there to forge a golem army. Then he and his wife Modgud each led a legion, attacking Dun Morogh and Grim Batol at the same time, determined to wipe out the shame of defeat and conquer all dwarves once and for all."
 
-"The one who attacked Grim Batol was Modgud. The witch besieged Grim Batol, but the siege dragged on and she couldn't take it. In a fit of rage, she used some evil artifact she'd gotten from who-knows-where to curse the entire city. Even though she died in battle, the artifact's power was far greater than Modgud herself — it was what had seduced that woman, what had seduced the once-brilliant mage-king Thaurissan. But once the truth was clear, it was all too late. The dwarves could never return to their former glory."
+"The one who attacked Grim Batol was Modgud. The witch besieged Grim Batol, but the siege dragged on and she couldn't take it. In a fit of rage, she used some evil artifact she'd gotten from who-knows-where to curse the entire city. Even though she died in battle, the artifact's power was far greater than Modgud herself — it was what had seduced that woman, what had seduced the once-brilliant Sorcerer-thane Thaurissan. But once the truth was clear, it was all too late. The dwarves could never return to their former glory."
 
 "The artifact sank into the depths of Grim Batol. No one ever saw it again, but the whole city became a fallen abyss teeming with wicked spirits and shadow curses because of it. Over a thousand dwarves died in agony. We had no choice but to leave and push further north, all the way to the Hinterlands."
 
@@ -149,11 +149,3 @@ By this point the dwarf was already slurring a little. Even though he took a swi
 Grede shook his right hand, which was still trembling faintly, and the smile on his face slowly faded.
 
 "You know I couldn't do it, Jace. Even if you became a different person — even if you turned into an orc — I still couldn't do it. But if that day really comes, I'll go far away. As far from you as it takes, until I've forgotten you completely."
-
-## Flags
-
-- **弗艾格特 (Fergt):** The incantation Jace speaks to trigger the shadow spell. Rendered phonetically. Not in glossary — needs a consistent canonical rendering if one is established later.
-- **格瑞姆巴托 (Grim Batol):** In the glossary as "Grim Batol." Grede's retelling of the War of the Three Hammers and Modgud's curse follows canon lore; kept the canonical names (Ironforge, Dun Morogh, Wildhammer, Bronzebeard, Dark Iron, Thaurissan, Modgud, Redridge, the Hinterlands).
-- **"Warcaster King":** Grede's rendering of 索瑞森's self-styled title "巫王." Canonically Thaurissan is the "Warcaster King," so used that.
-- **"my friend":** Grede says 我的老弟 — rendered as "my friend" to keep the dwarf's register natural without overdoing the dialect.
-- **Dwarvish curse:** Grede "cursed in Dwarvish" — left as a narrative beat, no translation needed.

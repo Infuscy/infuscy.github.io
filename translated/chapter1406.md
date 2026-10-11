@@ -28,7 +28,7 @@ Khadgar and Jace rode together, though it felt less like Jace returning home and
 
 "I know," Jace said. "I just want my mage tower back to normal as soon as possible."
 
-"'Normal'?" Khadgar teased. "You mean back when Chieftain Croc-Tooth's forces fought King Barathen Wrynn's legions over Elwynn and Lake Everstill?"
+"'Normal'?" Khadgar teased. "You mean back when Packleader Garfang's gnolls fought King Barathen Wrynn's legions over Elwynn and Lake Everstill?"
 
 "Jace Sesso?!"
 
@@ -38,15 +38,15 @@ Seeing the dwarf burst out of the bushes, Jace couldn't wait to dismount and mee
 
 "You went and played hero without me?!" Grede charged over and threw a punch at Jace's arm. Jace yelped, clutching his arm — that punch felt almost as bad as being hit by a full-body charge from Sabellian.
 
-"Without me, you'd charge into a demon horde?!" The dwarf grabbed Jace by the shirt and shook him. "I killed gods know how many demons at Wildhammer Keep. I flew a gryphon all the way, fighting doomguards and flaming green bats the whole time — I don't even know if I was protecting the gryphon or it was protecting me. Then at Auchindoun I had to fight infernals, and you know those things are taller than houses. I've killed more demons in the past few weeks than I've had drinks!"
+"Without me, you'd charge into a demon horde?!" The dwarf grabbed Jace by the shirt and shook him. "I killed gods know how many demons at Wildhammer Stronghold. I flew a gryphon all the way, fighting doomguards and flaming green bats the whole time — I don't even know if I was protecting the gryphon or it was protecting me. Then at Auchindoun I had to fight infernals, and you know those things are taller than houses. I've killed more demons in the past few weeks than I've had drinks!"
 
 "Probably not," Jace said.
 
-"Shut up!" Grede gritted his teeth. "If I went back to Aerie Peak right now, I could out-blow any old dwarf there, even the ones who lived through Grim Batol! And High Thane Kurdran Wildhammer is my witness — he saw the whole thing!"
+"Shut up!" Grede gritted his teeth. "If I went back to Aerie Peak right now, I could out-brag any old dwarf there, even the ones who lived through Grim Batol! And High Thane Kurdran Wildhammer is my witness — he saw the whole thing!"
 
 "But if you'd been left behind on Draenor, what would I have to brag about then, huh? I beat hundreds of demons! I helped Expedition soldiers! I helped countless Wildhammers get back to Azeroth! But I couldn't save my own brother! I couldn't save my best friend! Is that it? I'd get thrown out of Thunderfist Hall like some idiot who drank so much he forgot his own father's name, forgot his own clan name! Jace Sesso, you nearly got me cursed out by all of Aerie Peak. You nearly made me too ashamed to ever go home."
 
-"And most importantly — Mossa would be heartbroken. She'd never forgive me for leaving you behind in another world."
+"And most importantly — Mosa would be heartbroken. She'd never forgive me for leaving you behind in another world."
 
 "Anyway, I'm right, aren't I, Thane Thunderfist?" Khadgar dismounted behind them, raising an eyebrow. "I told you you'd see Jace Sesso again. Trust in his ability. No need to lose your temper like that. And no need to fly to the Throne of Kil'jaeden all by yourself. I'm very glad you took my advice—"
 
@@ -82,7 +82,7 @@ She seemed to have so much to say, but all she could do was sob, unable to form 
 
 Sylvanas looked like she wanted to come over and say something. Alleria stopped her, unwilling to interrupt the two young lovers' moment. But Sylvanas quietly convinced her sister and approached anyway.
 
-"Jace." She came close, glancing meaningfully at Khadgar behind him. "I don't have anything sentimental to say to you. But don't worry too much about the trouble all this might cause. Sylvanas and Alleria will do everything we can to help you and Vereesa. The Silvermoon Council, the Kirin Tor... none of them will get to use this opportunity to smear what you've done."
+"Jace." She came close, glancing meaningfully at Khadgar behind him. "I don't have anything sentimental to say to you. But don't worry too much about the trouble all this might cause. Alleria and I will do everything we can to help you and Vereesa. The Silvermoon Council, the Kirin Tor... none of them will get to use this opportunity to smear what you've done."
 
 "Thank you, Sylvanas. Alleria." Jace said.
 
@@ -106,7 +106,7 @@ At this, both Windrunner sisters and Turalyon turned curious looks toward Jace.
 
 "Is Ursula here?" Jace asked.
 
-"Lady Ursula Dering." Turalyon confirmed. "She and the other warlocks are inside the Telogrus Rift. A mage just went in to inform them of your return... did her summoning magic work?"
+"Lady Ursula Deline." Turalyon confirmed. "She and the other warlocks are inside the Telogrus Rift. A mage just went in to inform them of your return... did her summoning magic work?"
 
 "Yes," Jace said. "There may have been some issues with the magic that kept me from appearing in the circle, but I'm certain it was her summoning magic that let me escape that place."
 

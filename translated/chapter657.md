@@ -28,7 +28,7 @@ Jace explained, "I assumed something this clean had to be the work of a Dalaran 
 
 "You seem unhappy about my training the red dragons to aid the Horde," Nekros said.
 
-Jace gave a derisive laugh. "You don't care for reckless use of black magic, and you don't care for black dragons—I've got no quarrel with that, Warlord. But the red dragons are likewise an unsustained source of power. In a sense, they're no different from black magic and black dragons in what they offer Blackrock Spire. One day you'll run out of dragon eggs, unable to secure more aid from the red dragons. By then the Horde will have grown accustomed to the support of mighty dragons, and once the dragons are gone, we'll weaken rapidly. What good is rebuilding the Horde then…"
+Jace gave a derisive laugh. "You don't care for reckless use of black magic, and you don't care for black dragons—I've got no quarrel with that, Warlord. But the red dragons are likewise an unsustainable source of power. In a sense, they're no different from black magic and black dragons in what they offer Blackrock Spire. One day you'll run out of dragon eggs, unable to secure more aid from the red dragons. By then the Horde will have grown accustomed to the support of mighty dragons, and once the dragons are gone, we'll weaken rapidly. What good is rebuilding the Horde then…"
 
 "What I mean is, when you ordered the red dragons to attack Quel'Thalas, you should have expected that one day the elves would take their revenge when you couldn't mobilize so many dragons—even something like this… an ambush. An assassination."
 
@@ -44,21 +44,21 @@ Jace went on. "I'll report everything here to the Warchief exactly as it is. The
 
 The Dragonmaw warlord's expression grew uglier by the second. Everyone knew that terrifying fortress, built with demonic aid—even with the black dragons' help, it hadn't held out against the Alliance Expedition's assault for three days.
 
-Morfil said softly from the side, "Master, you've forgotten—Warlord Nekros has so many plump, healthy dragon eggs. Once they hatch, once they grow into whelps one by one, they'll be in time to help Grim Batol withstand the Alliance's offensive…"
+Morophil said softly from the side, "Master, you've forgotten—Warlord Nekros has so many plump, healthy dragon eggs. Once they hatch, once they grow into whelps one by one, they'll be in time to help Grim Batol withstand the Alliance's offensive…"
 
-"Shut up, demon." Nekros fixed his eyes on the succubus. "You have no place speaking here." Morfil glanced at Nekros and turned her head away in contempt.
+"Shut up, demon." Nekros fixed his eyes on the succubus. "You have no place speaking here." Morophil glanced at Nekros and turned her head away in contempt.
 
 "Be that as it may…"
 
-Jace reached out and brushed Morfil's cheek. When the succubus met her master's eyes, she smiled again, delighted.
+Jace reached out and brushed Morophil's cheek. When the succubus met her master's eyes, she smiled again, delighted.
 
-The soul link between them allowed Jace to read Morfil's expression more keenly. Through that brief exchange of glances, Morfil had already been exerting her influence without Nekros noticing. As to whether it had taken effect… from the hint of satisfaction in her expression, it probably had.
+The Soul Link between them allowed Jace to read Morophil's expression more keenly. Through that brief exchange of glances, Morophil had already been exerting her influence without Nekros noticing. As to whether it had taken effect… from the hint of satisfaction in her expression, it probably had.
 
 "I need to set out for Blackrock Spire at once. Grim Batol doesn't seem particularly keen on my staying. Still, Warlord, I sincerely hope we'll have the chance to fight side by side again someday."
 
 With that, he turned and walked toward the wooden gate down the slope.
 
-"Perhaps you've forgotten one thing—there's a reason Grim Batol has held out this long, Master Yoruk." Nekros called after him.
+"Perhaps you've forgotten one thing—there's a reason Grim Batol has held out this long, Master Yurk." Nekros called after him.
 
 Jace turned back. The Dragonmaw warlord was staring him down.
 
@@ -75,12 +75,3 @@ Nekros asked, "Are you going to believe the ravings of a mad black dragon, or yo
 "I can't give you a hundred percent guarantee," Jace said. "But if she truly is alive and still under your control, Warlord, then I will do everything I can to speak on behalf of the Dragonmaw clan."
 
 "Tomorrow morning," Nekros said. "My men and I need time to prepare for the audience."
-
-## Flags
-
-- **POV:** Third person throughout.
-- **Names/aliases:** 银月城 → Silvermoon; 奎尔萨拉斯 → Quel'Thalas; 远行者 → Farstriders (canonical ranger corps); 地狱火堡垒 → Hellfire Citadel.
-- **Magic:** 侦测魔法 → Detect Magic; the "tracking spell" Jace mimes is a ranger sympathetic-trace incantation—he can't actually cast it, which is the joke.
-- **Plot note:** Jace is deliberately stoking Nekros's paranoia about an imminent Alliance assault to maneuver himself into being taken to see Alexstrasza. The "two elven hairs" were planted by Jace from his sleeve.
-- **Soul link:** Morfil and Jace share a warlock–felguard soul link that lets him read her expressions more keenly.
-- **Tone:** Nekros is defensive and prideful; Jace stays measured and insinuating.

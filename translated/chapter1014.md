@@ -22,7 +22,7 @@ All the way onto the Tram, the jewelcrafter still couldn't settle down, and he k
 
 If that was the case, it was understandable. Demon summoning, shadow magic… for most ordinary folk who'd never had contact with such things, these were naturally terrifying elements. The fact that this jewelcrafter hadn't shown any obvious disgust and was merely worried already exceeded Jace's expectations.
 
-The other soldiers, on the other way, cracked jokes nonchalantly the whole way. Clearly, for them, getting to ride the gnomish Tram — something most people didn't even have the privilege of doing yet — on official business was thrilling enough.
+The soldiers, on the other hand, cracked jokes nonchalantly the whole way. Clearly, for them, getting to ride the gnomish Tram — something most people didn't even have the privilege of doing yet — on official business was thrilling enough.
 
 After the Tram set off, the three dwarven soldiers whooped and hollered the whole time, marveling at the power of gnomish engineering. The jewelcrafter sat in the farthest corner from Jace, hugging his box in silence, staring blankly ahead.
 
@@ -64,7 +64,7 @@ Right then, a sharp clang came from above, and the whole carriage suddenly dropp
 
 Jace stared hard at the wheels above and shouted at the top of his lungs, "Duk, Heduniluoyinmosi!"
 
-The shadow power summoned by the Asphyxiating Spell lashed out like chains and claws, yanking the carriage — which had already dropped a considerable distance — back up and binding it tightly to the rail above.
+The shadow power summoned by Asphyxiate lashed out like chains and claws, yanking the carriage — which had already dropped a considerable distance — back up and binding it tightly to the rail above.
 
 But the speeding carriage tore the spell into a vast, thin mist of shadow that scattered downward. Jace had no choice but to concentrate and reinforce the incantation, to make up for the power rapidly dissipating from the strain…
 
@@ -82,16 +82,18 @@ The still-shaken dwarves gathered around him to express their thanks repeatedly 
 
 The interesting thing was that now the jewelcrafter had finally let down his guard, it was the soldiers' turn to get scared. While they waited for the next carriage to arrive, the three of them kept quietly discussing the terrifying dark magic from a moment ago.
 
-"Archmage Sesso, are you injured?" Harnil suddenly said from beside him. "What?"
+"Archmage Sesso, are you injured?" Harnil suddenly said from beside him.
+
+"What?"
 
 Jace noticed the dwarf looking at the back of his neck. He reached up to touch it and felt a small amount of blood. But it wasn't his blood.
 
 "Ah, probably scraped something somewhere. It's nothing, Master." Jace said.
 
-Seeing the dwarf walk away reassured, he immediately picked up the wrapped bundle of Ussalus he'd set aside. The cloth around it had indeed seeped through with a little blood.
+Seeing the dwarf walk away reassured, he immediately picked up the wrapped bundle of Ulthalesh he'd set aside. The cloth around it had indeed seeped through with a little blood.
 
 While he'd been casting that spell, this staff had actually been secretly helping him.
 
 "Are you craving the souls prepared for that dark god in that temple, worried I'd die and no one would take you there?" Jace asked softly in Demonic, smiling.
 
-Ussalus gave no response at all, lying there quietly. The blood slowly seeping from it grew viscous.
+Ulthalesh gave no response at all, lying there quietly. The blood slowly seeping from it grew viscous.

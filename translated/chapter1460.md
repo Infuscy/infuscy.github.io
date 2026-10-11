@@ -4,7 +4,7 @@
 
 "What kind of student controls his teacher's library, Jace?" Khadgar turned back to the construct. "Then can you at least tell me where Lady Aegwynn is in the tower right now, Curator? I'd like to meet her. Ask her a few things."
 
-"Record unavailable." The Curator's voice grew flatter. "Lady Aegwynn left the Grand Library at an unknown time. I cannot provide her current location."
+"Record unavailable." The Curator's voice grew flatter. "Lady Aegwynn left the Great Library at an unknown time. I cannot provide her current location."
 
 "Who played Little Red in the last performance of Little Red Riding Hood and the Big Bad Wolf at the theater?" Jace asked.
 
@@ -14,7 +14,7 @@
 
 "So Aegwynn really did come to the library looking for books." Khadgar rubbed his chin, thinking. "What was she reading, I wonder..."
 
-"Can you provide the Grand Library's borrowing records for the last two months, esteemed Curator?"
+"Can you provide the Great Library's borrowing records for the last two months, esteemed Curator?"
 
 "No comment." The Curator said coldly.
 
@@ -34,11 +34,11 @@ Back in the dark corridor between the old book section and the exhibition hall, 
 
 "Test us for what?" Jace asked.
 
-"For the next Guardian of Tirisfal, obviously." Morofil answered almost immediately.
+"For the next Guardian of Tirisfal, obviously." Morophil answered almost immediately.
 
 "Guardian?!" Khadgar stared. "Don't just say whatever comes to mind, demon. We have enough trouble as it is!"
 
-"I was just joking, mage." Morofil said. "Don't get worked up."
+"I was just joking, mage." Morophil said. "Don't get worked up."
 
 "Forget I ever mentioned trials." Khadgar shook his head. "And it's not just obstacles either. What about Little Red? What was that whole bizarre play about being afraid of demons supposed to mean?"
 
@@ -76,15 +76,15 @@ Khadgar thought for a moment, then looked toward the circular hall in the old bo
 
 Jace said, "I just fought him and had to drag his wife into it. I'd be lucky if he doesn't want round two. And you want me to ask him for help? If he was willing to help, he'd have just told us what books Aegwynn asked him to find."
 
-Wait. Why not use sympathetic resonance? If Aegwynn had come back to Karazhan and asked Aran's shade to help her find specific books in the Grand Library, his shade should have left clear enough traces.
+Wait. Why not use sympathetic magic? If Aegwynn had come back to Karazhan and asked Aran's shade to help her find specific books in the Great Library, his shade should have left clear enough traces.
 
-"Use sympathetic resonance, Khadgar." Jace said.
+"Use sympathetic magic, Khadgar." Jace said.
 
-"Use sympathetic resonance to track Aegwynn?!" Khadgar inhaled sharply, as if he'd heard something earth-shattering. "The Order of Tirisfal tracked Aegwynn for how many years — how many people died trying — and you only now think of using sympathetic resonance on her?!"
+"Use sympathetic magic to track Aegwynn?!" Khadgar inhaled sharply, as if he'd heard something earth-shattering. "The Order of Tirisfal tracked Aegwynn for how many years — how many people died trying — and you only now think of using sympathetic magic on her?!"
 
 "To track Nielas Aran's traces. Strictly speaking, his shade's traces." Jace said. "We gamble that what he said about helping Aegwynn was about the task she gave him on this visit to Karazhan."
 
-"That is actually a workable idea." The mage narrowed his eyes. "Didn't know you knew about that. Aren't you an apprentice mage? Does the Wizard Sanctum teach this kind of stuff to apprentices?"
+"That is actually a workable idea." The mage narrowed his eyes. "Didn't know you knew about that. Aren't you an apprentice mage? Does the Wizard's Sanctum teach this kind of stuff to apprentices?"
 
 "Never mind where I learned it, Khadgar. I already know how to summon all kinds of demons." Jace said.
 
@@ -92,7 +92,7 @@ Wait. Why not use sympathetic resonance? If Aegwynn had come back to Karazhan an
 
 Jace certainly wasn't going to tell Khadgar that he'd read about it in a novel where Khadgar was the main character.
 
-"Using sympathetic resonance to track a mage is a serious crime in Dalaran." Khadgar looked at the nearby skeleton of a Kirin Tor wizard and lowered his voice. "But I don't think they'll be able to come inside Karazhan to collect evidence of my crime. Follow me."
+"Using sympathetic magic to track a mage is a serious crime in Dalaran." Khadgar looked at the nearby skeleton of a Kirin Tor wizard and lowered his voice. "But I don't think they'll be able to come inside Karazhan to collect evidence of my crime. Follow me."
 
 Back in the circular hall, all three of them stopped at the threshold at the same time.
 
@@ -104,7 +104,7 @@ Once they'd slipped out, Khadgar immediately cast a spell on the book and said, 
 
 For someone who claimed sympathetic tracking was forbidden by the Kirin Tor, Khadgar looked awfully excited doing it.
 
-The two of them went back to the Curator, said their greetings, and passed through the exhibition hall into the library proper. This was Karazhan's real Grand Library, not the old book section guarded by Nielas Aran.
+The two of them went back to the Curator, said their greetings, and passed through the exhibition hall into the library proper. This was Karazhan's real Great Library, not the old book section guarded by Nielas Aran.
 
 Below the steps, the square hall before them was lined with enormous bookcases in neat rows, like colorful wall tiles — they blurred together the longer you looked.
 
@@ -126,4 +126,4 @@ Jace flipped through the scrolls as he spoke, noticing many of them were by Aegw
 
 Jace didn't answer. Because at the bottom, under a heavy grimoire, was a scroll. Packed with dense, obscure demonic runes — and among them, one name he knew intimately.
 
-Usaalus.
+Ulthalesh.

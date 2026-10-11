@@ -8,7 +8,7 @@ As for whether this was Kil'jaeden's plan—the Lich King, the Plague of Undeath
 
 After all, strictly speaking, he'd been preparing for this for over twenty years.
 
-After leaving SI:7, Jace brought a crate of Elemental Earth down to the basement of the Slaughtered Lamb. The moment he stepped through the iron door, still far from the alchemy lab, he caught the fishy stench of shadow fire—even stronger than the last time he'd been here.
+After leaving SI:7, Jace brought a crate of Elemental Earth down to the basement of the Slaughtered Lamb. The moment he stepped through the iron door, still far from the alchemy lab, he caught the fishy stench of Shadowflame—even stronger than the last time he'd been here.
 
 When he reached the lab doorway, Ursula was pale-faced, directing the blaze beneath her cauldron, completely unaware of Jace's arrival.
 
@@ -26,7 +26,7 @@ Ursula examined the crate, took the key from the warlock, unlocked it, and lifte
 
 "All Elemental Earth?"
 
-"All of it," Jace said. "And this is just a small portion. Of course, I can't give you everything Dagran Thaurissan sent me—a fair amount has to go to the Wizard Sanctum's alchemy lab."
+"All of it," Jace said. "And this is just a small portion. Of course, I can't give you everything Dagran Thaurissan sent me—a fair amount has to go to the Wizard's Sanctum's alchemy lab."
 
 "My god." Ursula's lips trembled. "I've never seen this much Elemental Earth in my entire life, and of such high quality. I thought it was a bunch of Shadowforge City gunpowder at first. The Dark Iron emperor really just agreed to that?"
 
@@ -44,7 +44,7 @@ Ursula examined the crate, took the key from the warlock, unlocked it, and lifte
 
 "By the way, tell me you've been taking your medicine on time, Jace. Lady Morophil, I specifically asked you to make sure he takes it."
 
-"I reminded him whenever I could, but if he doesn't want to, there's not much I can do, Delin..." Morophil leaned against the doorframe, putting on a pitiful expression.
+"I reminded him whenever I could, but if he doesn't want to, there's not much I can do, Deline..." Morophil leaned against the doorframe, putting on a pitiful expression.
 
 "Don't slander me, demon," Jace said. "I've been taking it on schedule, rain or shine. Don't you think I've recovered a lot?"
 
@@ -56,11 +56,11 @@ The alchemist got up, dusted off her hands, and gave Jace a quick once-over out 
 
 Jace laughed and subconsciously mulled over what Ursula had just said.
 
-"During the Destruction Potion brewing process, judging from what you said, does shadow manipulation affect more than just shadow fire?"
+"During the Destruction Potion brewing process, judging from what you said, does shadow manipulation affect more than just Shadowflame?"
 
 "Of course it does." Ursula said. "But I'm not surprised. A lot of potions and elixirs place demands on the alchemist's own magical skill."
 
-"You know Master Vargus's apprentice? The one called Nabrius." Jace asked.
+"You know Master Vargoth's apprentice? The one called Naberius." Jace asked.
 
 "Of course I do." Ursula said. "He was a very important member of our Destruction Potion collaboration. I've kept records of the brewing process—many of the steps were recorded and revised by him."
 
@@ -76,7 +76,7 @@ Jace nodded. "So, did you get results?"
 
 "Take a look. What's the difference between this and the Destruction Potion you saw in Draenor?"
 
-Jace took the vial and examined it closely. The same terrifying shadow magic fluctuation, the glowing liquid. Ursula and those Dalaran pharmacists had indeed recreated the potion's original appearance.
+Jace took the vial and examined it closely. The same terrifying shadow magic fluctuation, the glowing liquid. Ursula and those Dalaran alchemists had indeed recreated the potion's original appearance.
 
 "I'll taste a bit."
 
@@ -94,9 +94,9 @@ Jace nodded. To be honest, he didn't have a clear memory of the Destruction Poti
 
 But once it went down, his hands trembled, his heart rate spiked, everything around him seemed to slow down. All kinds of magical energy surged from his chest. They were all back—Dragonmaw Fortress, the Throne of Kil'jaeden. Memories of the past vivid as a projection.
 
-The effect came fast and faded fast, probably because the first batch wasn't refined enough. Seizing the moment, Jace tried to draw Karrlez's demon blood to inscribe the "Domination Sigil" Karrlez had just taught him. But his thoughts raced at an insane speed, and in an instant, he "slammed" a blood sigil onto the ground, erupting in a burst of wild, raging fel-fire patterns in the dark basement.
+The effect came fast and faded fast, probably because the first batch wasn't refined enough. Seizing the moment, Jace tried to draw Kallrez's demon blood to inscribe the "Domination Sigil" Kallrez had just taught him. But his thoughts raced at an insane speed, and in an instant, he "slammed" a blood sigil onto the ground, erupting in a burst of wild, raging fel fire patterns in the dark basement.
 
-From the outer hall came the howling of felhounds and imps. Ursula stumbled back a few steps and pressed against the wall, shouting the felhound's name twice. But the felhound paid her no attention at all. Aside from the weird "whoosh" of burning fel-fire, the only sounds were Ursula's imp assistant shrieking...
+From the outer hall came the howling of felhounds and imps. Ursula stumbled back a few steps and pressed against the wall, shouting the felhound's name twice. But the felhound paid her no attention at all. Aside from the weird "whoosh" of burning fel fire, the only sounds were Ursula's imp assistant shrieking...
 
 "My great master's... new great master!"
 

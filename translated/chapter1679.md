@@ -16,9 +16,9 @@ So why had he replaced the End of Time vision he'd shown the red dragon with thi
 
 But Jace quickly realized the performance wasn't for them. It was for Vaelastrasz. He thought all of this was real. The whole show was staged for him.
 
-A dragon's loyalty to the Dragon Queen was practically carved into their bones. There was no changing that. Until they figured out exactly where the demon was, the two of them would have to play along with Vaelastrasz and the demon's charade. Otherwise, messing up the order of things would make Vaelastrasz put them on the wrong side of the divide.
+A dragon's loyalty to the Dragonqueen was practically carved into their bones. There was no changing that. Until they figured out exactly where the demon was, the two of them would have to play along with Vaelastrasz and the demon's charade. Otherwise, messing up the order of things would make Vaelastrasz put them on the wrong side of the divide.
 
-"Though I'm delighted to see you, I cannot ignore the chaos and darkness outside this highland." The red Dragon Queen spoke with concern. "Ancient corruption is rising again, and this world has not fully recovered from its last grievous wounds. How will we survive this trial... Vaelastrasz has brought some very dire news. Jace, Vereesa, if we are to defeat the ultimate evil that seeks to drag our entire world into endless shadow... some sacrifices will inevitably be necessary."
+"Though I'm delighted to see you, I cannot ignore the chaos and darkness outside this highland." The red Dragonqueen spoke with concern. "Ancient corruption is rising again, and this world has not fully recovered from its last grievous wounds. How will we survive this trial... Vaelastrasz has brought some very dire news. Jace, Vereesa, if we are to defeat the ultimate evil that seeks to drag our entire world into endless shadow... some sacrifices will inevitably be necessary."
 
 "The Queen speaks wisely. The threat to the Emerald Dream has shown us the terrible cost of underestimating our enemy—"
 
@@ -54,7 +54,7 @@ Vereesa nodded. Jace stepped past a few dragon eggs and called out, "I have a qu
 
 The red dragons parted. Korialstrasz looked up and said quietly, "Speak."
 
-"Tell me — are you an ugly demon?!" Vereesa shouted as she pulled a dream-magic arrow from behind Jace. The power of Bellanur blazed brilliantly in this dream, so bright it outshone even the sunlit red dragon roost!
+"Tell me — are you an ugly demon?!" Vereesa shouted as she pulled a dream-magic arrow from behind Jace. The power of Belanur blazed brilliantly in this dream, so bright it outshone even the sunlit red dragon roost!
 
 Every red dragon was startled. Even Alexstrasza reared up in shock. Vaelastrasz roared, "What are you doing, Vereesa?!"
 
@@ -62,7 +62,7 @@ But none of it could stop the released dream-light. Korialstrasz's body was pier
 
 "Well done, Jace Sesso!"
 
-The demon-tongued shout exploded with a hoarse, low laugh. A pair of bat-like demonic wings spread, blackening the entire field of vision until it was as dark as a starless night.
+The shout in Demonic exploded with a hoarse, low laugh. A pair of bat-like demonic wings spread, blackening the entire field of vision until it was as dark as a starless night.
 
 "What's happening? What is this?! Your Majesty? Master Krasus?!"
 
@@ -72,7 +72,7 @@ Jace felt like he was instantly surrounded by these flies, these carrion-feeding
 
 But no matter how he tried to cast spells or summon aid from elements, nothing worked. All the shadow energy around him seemed to have been devoured by these tiny bugs. The shadow and emotion he had stored in his consciousness were eaten clean by the blood-sucking insects crawling all over him. He couldn't cast anything!
 
-Jace pulled out Quel'Serrar. In dream or reality, Malygos's blade was always at his side. But even though the sword could easily cut through swaths of bugs with a single swing, there were too many of them, and they kept gathering.
+Jace pulled out Azuresong. In dream or reality, Malygos's blade was always at his side. But even though the sword could easily cut through swaths of bugs with a single swing, there were too many of them, and they kept gathering.
 
 "Feeling powerless? Welcome to my nightmare, Jace Sesso." The flying demon shadow boomed. "If they'd known you were this easy to manipulate, perhaps the Deceiver needn't have gone to so much trouble. He always overthinks things."
 
@@ -88,7 +88,7 @@ The swarming insects tried to resist, but the wind grew stronger and never stopp
 
 "You underestimated the dream's owner's own will to resist, demon."
 
-With the insects dispersed, shadow energy surged back. Both his visual and conscious field of vision cleared. Jace locked onto the shadow trying to flee again and activated Blood Grasp.
+With the insects dispersed, shadow energy surged back. Both his visual and conscious field of vision cleared. Jace locked onto the shadow trying to flee again and activated Gorefiend's Grasp.
 
 Blood light shot out like iron chains, yanking the high-flying shadow down. Several dream-arrows flew over and pierced the entangled shadow. Whatever was hidden inside finally couldn't bear it anymore. It stumbled and fell to the ground, revealing its true form.
 
@@ -98,22 +98,22 @@ A dreadlord. No question.
 
 The demon staggered forward a couple of steps. Its black, cloven hooves trod on the piled insect corpses. Its demonic eyes, glowing with fel-green light, locked onto Vereesa Windrunner in the distance. The magnificent emerald armor it wore was already pierced by arrows, purple demon blood flowing out.
 
-"Vita, tahodossi, milon, tahototani!"
+"Vita, tahotusqi, milon, tahototani!"
 
 Jace shouted the demon-enslaving incantation. A mark appeared on the demon's forehead. But the demon laughed twice, casually swiping the sigil away with its vulture-like claws.
 
 "Enslaving a noble Nathrezim? Creative, mortal!" the demon sneered.
 
-"Who are you?!" Jace gathered another spell of Suffocation in his hands.
+"Who are you?!" Jace gathered another Asphyxiate in his hands.
 
 "Me? I'm nobody." The dreadlord spoke in a very old, deep voice. "As you can see, I've basically completed my mission. The ending just wasn't perfect... Anyway, nothing after this concerns me. Good luck, Jace Sesso."
 
-The moment the demon finished, the powerful Suffocation spell locked tight around its upper body and wings. But the Nathrezim didn't care at all. It leaped high, shrieking, and exploded in a flash of light — flesh and demon heart bursting apart. Only its armor clattered to the ground. The Suffocation had nothing left to hold.
+The moment the demon finished, the powerful Asphyxiate locked tight around its upper body and wings. But the Nathrezim didn't care at all. It leaped high, shrieking, and exploded in a flash of light — flesh and demon heart bursting apart. Only its armor clattered to the ground. The Asphyxiate had nothing left to hold.
 
 "Trying to run?"
 
-Jace raised both hands and chanted the Soul Drain incantation. A blue light in his palms lit up the surrounding woods. A distant demonic scream was dragged back...
+Jace raised both hands and chanted the Drain Soul incantation. A blue light in his palms lit up the surrounding woods. A distant demonic scream was dragged back...
 
-"No, no... Lord Usar'ru is not in this dream!"
+"No, no... Lord Ulthalesh is not in this dream!"
 
 "Then I'll take you to meet him."

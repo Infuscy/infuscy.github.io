@@ -18,17 +18,19 @@ Jace glanced at a priest in yellow robes walking past and said, "The plains nort
 
 "You know the way — I'll follow your lead." Vereesa glanced at the pack Jace was carrying. "What did you bring?"
 
-Jace opened his large pack and took out the warlock's satchel containing Sazeno first, setting it on the ground.
+Jace opened his large pack and took out the warlock's bag containing Sazeno first, setting it on the ground.
 
 He'd turned it over at home again and again and felt he should bring the imp along, to use as a last-resort trump card. After all, an extra helper was an extra helper — whether for kindling fires or the Blood Pact, both were useful.
 
-Molorfil was out. That demon was powerful, true, but having it at his side always gave Jace the hallucination of catching some strange scent. Having it trail along behind Vereesa the whole way would give him more anxiety than he could handle.
+Morophil was out. That demon was powerful, true, but having her at his side always gave Jace the hallucination of catching some strange scent. Having her trail along behind Vereesa the whole way would give him more anxiety than he could handle.
 
 "Seven Invisibility Potions — I'd planned to make ten, but the materials didn't quite add up in the end. Three anti-magic potions for the two of us to ration. Six Shadow Protection Potions, basic grade — enough to weather one Curse of Agony or two Shadow Bolts, I'd estimate. Two Lesser Mana Potions. Two Healing Potions, for treating wounds."
 
-"One Antidote — though I don't know if it can guard against Necrotic Poison. The alchemist told me it's not very effective, so we'll keep it ready for scorpion venom instead. One Strong Healing Potion — if I'm about to die, remember to make me drink this one."
+"One Antidote — though I don't know if it can guard against corpse poison. The alchemist told me it's not very effective, so we'll keep it ready for scorpion venom instead. One Greater Healing Potion — if I'm about to die, remember to make me drink this one."
 
-"Then bandages — mageweave bandages, enchanted. I got them from the Mage Quarter. These two Lesser Elixirs of Agility are for you. Drink them if you think you should, but don't drink them randomly — I hear you get dizzy when the effect wears off. And this gray potion whose name I don't know — don't you drink it. It's absolutely vile. That one's for me." After counting everything he stood up and stretched. "All right, Lady Vereesa — tuck a few bottles into your clothes. These potions are too heavy."
+"Then bandages — mageweave bandages, enchanted. I got them from the Mage Quarter. These two Lesser Elixirs of Agility are for you. Drink them if you think you should, but don't drink them randomly — I hear you get dizzy when the effect wears off. And this gray potion whose name I don't know — don't you drink it. It's absolutely vile. That one's for me."
+
+After counting everything he stood up and stretched. "All right, Lady Vereesa — tuck a few bottles into your clothes. These potions are too heavy."
 
 Vereesa looked a little glassy-eyed by now. She counted out four Invisibility Potions, one anti-magic, three Shadow Protection, one Healing Potion, and all the Agility Elixirs, and packed them into her own bag.
 
@@ -76,7 +78,7 @@ The pitch gradually rose, little by little becoming clear, until he could start 
 
 What instrument was that? She'd brought an instrument too? Curious, Jace crept up to the tent opening and stole a look outside. In the moonlight, Vereesa sat gazing down the road that led into the dim distance, a leaf with yellowed edges held in her hand, playing an unknown melody.
 
-Its rhythm was slow and drawn out, the style much like that Song of the Highborne, yet the melody was entirely different.
+Its rhythm was slow and drawn out, the style much like that Lament of the Highborne, yet the melody was entirely different.
 
 He eyed the leaf in the elf's hand, watching the shape of her mouth and the movement of her hands, pondering how she coaxed such a lilting sound out of it.
 
@@ -89,26 +91,3 @@ Jace was struck still.
 He seemed to understand now why so many heroes would sacrifice everything they had, even their lives, to protect this world — why, even before the gates of the Legion, facing a being like Sargeras who could shake the Twisting Nether itself, they still did not flinch.
 
 This was what they were protecting — the forest before their eyes, the soldiers listening quietly in the distance, the cold night wind brushing through the branches, all of this beautiful and heartbreaking.
-
-## Flags
-
-- 东谷驿站 → Eastvale waystation (caravan stop near Eastvale Logging Camp; 东谷 = Eastvale, not in the glossary as a standalone).
-- 撒厄诺 → Sazeno (imp minion; in the glossary).
-- 术士包 → warlock's satchel (the bag that contains the bound imp; not in the glossary).
-- 血之契印 → Blood Pact (the imp's health-to-mana buff; not in the glossary — canonical WoW warlock mechanic).
-- 莫洛菲尔 → Molorfil (OC demon; not in the glossary — same demon as in chapter 286).
-- 隐形药水 → Invisibility Potion (not in the glossary; canonical WoW potion).
-- 抗魔药水 → anti-magic potion (not in the glossary; rendered descriptively, distinct from canonical Magic Resistance Potion).
-- 暗影防护药水 → Shadow Protection Potion (in the glossary).
-- 痛苦诅咒 → Curse of Agony (in the glossary).
-- 暗影箭 → Shadow Bolt (not in the glossary; canonical WoW warlock spell).
-- 次级法力药水 → Lesser Mana Potion (not in the glossary; canonical WoW potion).
-- 治疗药水 → Healing Potion (not in the glossary; canonical WoW potion).
-- 解毒药剂 → Antidote (not in the glossary).
-- 亡灵腐毒 → Necrotic Poison (in the glossary).
-- 强效治疗药剂 → Strong Healing Potion (not in the glossary; canonical WoW potion).
-- 魔纹布绷带 → mageweave bandage (not in the glossary; canonical WoW bandage).
-- 次级敏捷药剂 → Lesser Elixir of Agility (not in the glossary; canonical WoW potion).
-- 上层精灵的换歌 → Song of the Highborne (canonical WoW music track; source has the likely typo 换歌 for 挽歌).
-- 军团之门 → the gates of the Legion (not in the glossary).
-- 打水漂 → skipping stones (Jace's past-life hobby; not in the glossary).

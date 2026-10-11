@@ -6,7 +6,7 @@ Jace heard Grede and looked over. He didn't know when the young man had appeared
 
 Jace gave him a once-over. The kid claimed to be a town guard, but he wasn't carrying a weapon or wearing a uniform. Some two-bit con artist trying to shake them down for coin?
 
-"We're just passing through," Jace said. "We came from Sentinel Hill. Some of our luggage got soaked crossing the Nafeltari River, so we've got some free time to check if anything got damaged."
+"We're just passing through," Jace said. "We came from Sentinel Hill. Some of our luggage got soaked crossing the Nazferiti River, so we've got some free time to check if anything got damaged."
 
 "Yeah, yeah, that's right," Grede chimed in quickly.
 
@@ -30,7 +30,7 @@ Down the hallway, a blonde girl stared at them in shock. She looked dazedly at t
 
 Then again, in a medieval world it wasn't exactly unusual, but…
 
-"Let me go!" The boy thrashed against Grede's arm, though it did absolutely nothing. "Liz, go back! I… I can handle these guys!"
+"Let me go!" The boy thrashed against Grede's arm, though it did absolutely nothing. "Lys, go back! I… I can handle these guys!"
 
 Clearly, despite the boy's bravado, even the girl — who looked like she'd never thrown a punch in her life — could read the situation perfectly well.
 
@@ -52,25 +52,25 @@ The three of them exchanged glances. No one wanted a second round, but they stil
 
 "Morgan, right?" Jace asked. "What exactly do you do?"
 
-Morgan kept his eyes locked on Grede, apparently still on guard. After a moment he answered, "I'm actually a guard from the town of Grand'gran to the east."
+Morgan kept his eyes locked on Grede, apparently still on guard. After a moment he answered, "I'm actually a guard from the town of Grand Hamlet to the east."
 
-Jace pressed, "You're a Grand'gran guard — so what are you doing in Raven Hill?"
+Jace pressed, "You're a Grand Hamlet guard — so what are you doing in Raven Hill?"
 
-"I'm a Raven Hill local. I went to Grand'gran for Liz — that girl you just saw, my wife. Later, more and more people left Raven Hill, and the original guards didn't want to stay either. I applied to the Grand'gran guard captain to come back here, and he approved it."
+"I'm a Raven Hill local. I went to Grand Hamlet for Lys — that girl you just saw, my wife. Later, more and more people left Raven Hill, and the original guards didn't want to stay either. I applied to the Grand Hamlet guard captain to come back here, and he approved it."
 
-"Why'd all the residents leave?" Grede asked. "I heard Grand'gran's still fairly populated."
+"Why'd all the residents leave?" Grede asked. "I heard Grand Hamlet's still fairly populated."
 
-Morgan answered, "Grand'gran's all right — if it weren't for the Redridge gnolls blocking the roads lately, life would be manageable. But Raven Hill… Raven Hill…"
+Morgan answered, "Grand Hamlet's all right — if it weren't for the Redridge gnolls blocking the roads lately, life would be manageable. But Raven Hill… Raven Hill…"
 
-He pressed his lips together. "There are werewolves."
+He pressed his lips together. "There are worgen."
 
-Grede frowned. "Werewolves? What the hell are those?"
+Grede frowned. "Worgen? What the hell are those?"
 
 Morgan said, "I haven't actually seen one myself, but that's what everyone says."
 
-Jace shot Grede a look of pure disdain. The dwarf claimed to be sixty or seventy years old and he'd never even heard of werewolves.
+Jace shot Grede a look of pure disdain. The dwarf claimed to be sixty or seventy years old and he'd never even heard of worgen.
 
-"Werewolves are creatures from human folklore — half-man, half-wolf. Nasty bastards. They steal children at night," Jace explained.
+"Worgen are creatures from human folklore — half-man, half-wolf. Nasty bastards. They steal children at night," Jace explained.
 
 "What's so scary about half-man, half-wolf?" Grede said. "Dumber than a man, dumber than a wolf — isn't that just a waste of flesh?"
 
@@ -78,17 +78,17 @@ Morgan let out an anxious sigh. "You outsiders never believe us."
 
 Grede said, "You haven't even seen one and you're talking like it's gospel."
 
-"Someone got mauled by a werewolf," Morgan said. "The man's chest was torn to shreds. When they brought him back, he kept saying he'd run into a werewolf, and he died soon enough. But the next day, before they could even bury him, his body vanished. A lot of people say he was attacked by the werewolf, cursed, turned into one himself, and escaped."
+"Someone got mauled by a worgen," Morgan said. "The man's chest was torn to shreds. When they brought him back, he kept saying he'd run into a worgen, and he died soon enough. But the next day, before they could even bury him, his body vanished. A lot of people say he was attacked by the worgen, cursed, turned into one himself, and escaped."
 
 "Might've been grabbed by a ghoul and turned into one of the living dead," Grede said.
 
 "Raven Hill used to be famous for its funeral trade," Morgan said. "If someone got bitten by a ghoul and caught the rot, there's no second place in the whole Kingdom of Stormwind that'd know how to handle that mess better than Raven Hill. But that man's wound was completely different — no rot, just terrifying Shadow energy."
 
-At that, Grede's expression froze. "So let me get this straight — you still haven't actually *seen* a werewolf."
+At that, Grede's expression froze. "So let me get this straight — you still haven't actually *seen* a worgen."
 
 "No," Morgan admitted.
 
-He went on, "You two don't seem like bad people. I'm sorry about earlier — I'm just wary of all outsiders, especially at a time like this. Whatever you came here to do, remember: don't go out at night. *Don't* go out at night. People say werewolves prowl after dark. And even setting the werewolves aside, nighttime in Duskwood is a hell of a lot more dangerous than daytime."
+He went on, "You two don't seem like bad people. I'm sorry about earlier — I'm just wary of all outsiders, especially at a time like this. Whatever you came here to do, remember: don't go out at night. *Don't* go out at night. People say worgen prowl after dark. And even setting the worgen aside, nighttime in Duskwood is a hell of a lot more dangerous than daytime."
 
 "Thanks for the warning," Jace said.
 
@@ -106,21 +106,12 @@ Morgan headed upstairs. Jace looked out the door and felt the town had grown eve
 
 Jace said, "Since he said it, let's just put off the herb-gathering until tomorrow. No harm in that. There'll probably be fewer zombies and animals in the daytime too — maybe we can't tell day from night, but the difference probably matters plenty to beasts and undead."
 
-Of course werewolves existed. In the game, werewolves ran absolutely rampant all over Duskwood.
+Of course worgen existed. In the game, worgen ran absolutely rampant all over Duskwood.
 
-But Jace remembered that being a much later affair — tied to some ancient holy relic, the Moonclaw, that had been left behind here after a night elf was killed. Could it be that Duskwood's werewolves had already been around a decade and a half ago?
+But Jace remembered that being a much later affair — tied to some ancient holy relic, the Scythe of Elune, that had been left behind here after a night elf was killed. Could it be that Duskwood's worgen had already been around a decade and a half ago?
 
-Maybe, like Grede said, these people were just mistaking some other monster for a werewolf. After all, werewolf legends had always been a popular bedtime story around here.
+Maybe, like Grede said, these people were just mistaking some other monster for a worgen. After all, worgen legends had always been a popular bedtime story around here.
 
 "Well, I've been traveling all day and I'm beat. I'm going to lie down," Grede yawned. The moment he said it, Jace felt sleepy too.
 
 In the middle of the night, listening to the dwarf's earth-shaking snoring, Jace stared out the window at the silent forest and a long time passed before he finally fell asleep.
-
-## Flags
-
-- **纳菲瑞提河 (Nafeltari River):** Not in glossary. Rendered as "Nafeltari River" — transliterated from the Chinese.
-- **摩根·拉迪摩尔 (Morgan Ladimore):** Not in glossary. "Morgan" is listed (young man at Raven Hill); full surname "Ladimore" rendered phonetically.
-- **莉丝 (Liz):** Not in glossary. Short form of the girl's name; rendered as "Liz."
-- **格兰镇 (Grand'gran):** Not in glossary. The town east of Raven Hill, later known as Duskwood's main settlement. Rendered as "Grand'gran" to match the later canonical name.
-- **月神镰刀 (Moonclaw):** Not in glossary. The ancient night-elf holy relic tied to Duskwood's werewolves. Rendered as "Moonclaw" per canonical WoW lore.
-- **莎拉·拉迪摩尔 (Sarah Ladimore):** Not in glossary. Morgan's daughter in the game's lore; mentioned here as a girl Liz tends to.

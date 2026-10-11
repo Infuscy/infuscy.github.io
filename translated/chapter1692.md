@@ -1,28 +1,28 @@
 ## Chapter 1692: Becoming a Hero
 
-The Soul's Song.
+The Spirit's Song.
 
-Until the moment he took it from Varasztus and held it in his hands, Jace had never imagined he'd actually possess it one day.
+Until the moment he took it from Vaelastrasz and held it in his hands, Jace had never imagined he'd actually possess it one day.
 
-The Ata'mal Crystal... Even on Argus, only the highest-ranking Eredar rulers had ever seen such a thing with their own eyes. And today, Velen was willing to entrust it to him?
+The Ata'mal Crystal... Even on Argus, only the highest-ranking eredar rulers had ever seen such a thing with their own eyes. And today, Velen was willing to entrust it to him?
 
 Why?
 
-Jace knew perfectly well this wasn't some reward for defeating an orc chieftain or a black dragon prince. It didn't have much to do with rescuing the Draenei from Draenor either. Velen must have had a special reason for giving it to him.
+Jace knew perfectly well this wasn't some reward for defeating an orc chieftain or a black dragon prince. It didn't have much to do with rescuing the draenei from Draenor either. Velen must have had a special reason for giving it to him.
 
-Was it connected to the future omen he'd seen through the Soul's Song's power? Prison. Freedom.
+Was it connected to the future omen he'd seen through the Spirit's Song's power? Prison. Freedom.
 
-Jace couldn't figure it out. Because if he was ever going to be thrown into the Violet Hold, the Soul's Song would be confiscated along with Ursales and locked away in the Kirin Tor's vault.
+Jace couldn't figure it out. Because if he was ever going to be thrown into the Violet Hold, the Spirit's Song would be confiscated along with Ulthalesh and locked away in the Kirin Tor's vault.
 
-Even if the Kirin Tor couldn't figure out what Ursales was, the Soul's Song alone would be valuable enough for the Kirin Tor Council to pile up enough charges to keep him locked away until he died, and keep the Soul's Song for themselves.
+Even if the Kirin Tor couldn't figure out what Ulthalesh was, the Spirit's Song alone would be valuable enough for the Kirin Tor Council to pile up enough charges to keep him locked away until he died, and keep the Spirit's Song for themselves.
 
 Velen wouldn't want this thing to end up in Dalaran's vault, would he? And about this prophecy... should he tell Khadgar?
 
-"When were you planning to tell me that Prophet Velen gave you the Soul's Song, Jace Sesso?" The middle-aged mage with the white beard gripped his reins and stared at him.
+"When were you planning to tell me that Prophet Velen gave you the Spirit's Song, Jace Sesso?" The middle-aged mage with the white beard gripped his reins and stared at him.
 
 "Now," Jace said.
 
-"Well, at least that saves us some breath." Khadgar gritted his teeth and muttered. "But this is a Naaru relic. Didn't the Eredar prophet tell you why?"
+"Well, at least that saves us some breath." Khadgar gritted his teeth and muttered. "But this is a naaru relic. Didn't the eredar prophet tell you why?"
 
 "It might have something to do with Kil'jaeden," Jace said.
 
@@ -38,7 +38,7 @@ At this, the archmage's expression grew dim. "I was a bit envious just now. But 
 
 "Do you even need to ask?" Khadgar said. "And the Kirin Tor isn't afraid of going up against the Burning Legion. Its master's had his eye on us for two thousand years anyway. But you make it sound like the Kirin Tor wants to take it from you by force... That won't happen. At least not right now."
 
-"Whatever the case, I can't shake the feeling that my connection to the Violet Hold is getting stronger, Khadgar." Jace gripped the Soul's Song in his hand. "I hope you'll do your best."
+"Whatever the case, I can't shake the feeling that my connection to the Violet Hold is getting stronger, Khadgar." Jace gripped the Spirit's Song in his hand. "I hope you'll do your best."
 
 "We've discussed this before. Why bring it up again? I've already told you I'll do everything I can to help you avoid that miserable ending." Khadgar raised one hand, crossed his fingers in a simple gesture. "If you're still not convinced, I swear by the Holy Light. If I fail, lock me up in there with you."
 
@@ -46,7 +46,7 @@ At this, the archmage's expression grew dim. "I was a bit envious just now. But 
 
 "Listen to this guy." Khadgar muttered. "We should make this conversation public. Let everyone see what ingratitude looks like."
 
-"Just cooperating with an investigation, Archmage." Jace said casually. "As an important member and de facto leader of the Kirin Tor, you wouldn't want the worst criminals in the Violet Citadel to be keeping secrets from you, would you?"
+"Just cooperating with an investigation, Archmage." Jace said casually. "As an important member and de facto leader of the Kirin Tor, you wouldn't want the worst criminals in the Violet Hold to be keeping secrets from you, would you?"
 
 "Damned warlock." Khadgar chuckled. "When do you plan to leave for Kalimdor?"
 
@@ -92,11 +92,11 @@ The knights escorting the dragon head cart all puffed out their chests as they p
 
 The crowd's excitement was so overwhelming it made Jace feel dizzy. Not emotionally -- it was a real, physical sensation. In his mind, everyone's joy and excitement rippled through the air. Compared to that, the lake waves slapping against the shore and bridge pillars under the wind felt gentle, even weak.
 
-Was this the Soul's Song's influence?
+Was this the Spirit's Song's influence?
 
-No. Jace was fairly certain this was far more likely the power Nefarian and the countless drakonids, whelps, and orcs in Blackrock Spire had fed into Ursales after being devoured, now flowing back into him.
+No. Jace was fairly certain this was far more likely the power Nefarian and the countless drakonids, whelps, and orcs in Blackrock Spire had fed into Ulthalesh after being devoured, now flowing back into him.
 
-What the Soul's Song could actually do for him, he still had no practical experience with. And it wasn't surprising that the residents were this excited. Lakeshire was the closest Stormwind town to Blackrock Mountain. If the black dragons and orcs ever decided to attack humanity, Stonewatch and Lakeshire would be the first to suffer. What had happened in another timeline proved that. So of course, the residents of Lake Everstill were the happiest to see Blackrock Spire fall.
+What the Spirit's Song could actually do for him, he still had no practical experience with. And it wasn't surprising that the residents were this excited. Lakeshire was the closest Stormwind town to Blackrock Mountain. If the black dragons and orcs ever decided to attack humanity, Stonewatch and Lakeshire would be the first to suffer. What had happened in another timeline proved that. So of course, the residents of Lake Everstill were the happiest to see Blackrock Spire fall.
 
 "Master Sesso, is it true you killed that dragon?!"
 

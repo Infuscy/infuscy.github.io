@@ -20,7 +20,7 @@ From this direction, the colossus was terrifyingly massive. Maybe it wasn't as e
 
 Wherever this was, at least that shadow was the only "thing" in his entire field of vision. If he kept walking toward it, maybe he'd wake up.
 
-Jace could feel the biting cold, but wearing nothing but a single thin shirt, he couldn't manage to freeze to death or even pass off from exposure. He just shivered his way forward for what felt like an eternity, never collapsing from exhaustion.
+Jace could feel the biting cold, but wearing nothing but a single thin shirt, he couldn't manage to freeze to death or even pass out from exposure. He just shivered his way forward for what felt like an eternity, never collapsing from exhaustion.
 
 After climbing over a snow ridge, a second shadow appeared in his vision — this one much closer, perched on a cliff edge not far ahead.
 
@@ -94,7 +94,7 @@ But Jace had never seen Deathwing or his sons, let alone their mortal forms.
 
 Maybe it was the memories carried in the blood of those black dragons that had given him some impression of those ancient wyrms.
 
-"Speaking of black dragons, they didn't break into the city last night," Grede exhaled, sitting on the bed. "The mages here fought like mad — even killed a young dragon. The dragons fled around midnight, probably after failing several times to break through the mages' defenses. The situation inside the city was actually worse, but after the dragons pulled back, the mages restored order quickly once they returned. Though it was already pretty grim."
+"Speaking of black dragons, they didn't break into the city last night," Grede exhaled, sitting on the bed. "The mages here fought like mad — even killed a drake. The dragons fled around midnight, probably after failing several times to break through the mages' defenses. The situation inside the city was actually worse, but after the dragons pulled back, the mages restored order quickly once they returned. Though it was already pretty grim."
 
 Grede glanced at Jace's pocket watch and went on, "I already went by the healers' this morning. Packed with people. The ones who got hurt the most last night weren't the mages — it was the ordinary townsfolk. The death knights killed a lot of people."
 
@@ -115,14 +115,3 @@ Before this, aside from orcs, nobody had really been able to tell what this thin
 But now… the situation was a little different.
 
 Jace was worried the gem from Gorefiend on the staff would bring extra trouble. Better not to bring it into the main city at all.
-
-## Flags
-
-- **诺森德** = **Northrend** (canonical).
-- **龙眠神殿** = **Wyrmrest Temple** (canonical).
-- **龙骨荒野** = **Dragonblight** (canonical).
-- **龙父** rendered as **the Dragonfather** = Deathwing (the Black Dragon Aspect). Not in glossary under this exact term.
-- **奈法利安** = **Nefarian** (glossary).
-- Chapter title 北国梦赞 rendered as "Dream of the North" (北国 = northern land/Northrend; 梦 = dream; 赞 = eulogy/praise — a dream-paean to the north).
-- "Tom Cruise / George Clooney" pop-culture comparison preserved as in the original (Jace's modern transmigrator frame of reference).
-- 复苏药剂 rendered as **Revival Potion** (glossary has 复活药剂 = Revival Potion; 复苏药剂 treated as the same).

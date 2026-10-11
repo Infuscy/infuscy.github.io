@@ -1,20 +1,20 @@
 ## Chapter 392: The Dark Master's Legacy
 
-Friday morning, Jace set out from Stormwind with the two demons. They spent the night in Goldshire, and the next day crossed the Nafeltari River to the south bank. It was dusk by the time they arrived.
+Friday morning, Jace set out from Stormwind with the two demons. They spent the night in Goldshire, and the next day crossed the Nazferiti River to the south bank. It was dusk by the time they arrived.
 
 The dim light naturally carried a gloomy atmosphere, especially once they entered Duskwood.
 
-After crossing to the uninhabited lands south of the Nafeltari River, the imp started chattering away at Jace the whole way, telling him how it had discovered this incantation. Jace carried Gorefiend's staff on his back, and whenever the imp spoke the incantation words he'd guessed at, he always felt as though that shadow gem was responding from time to time.
+After crossing to the uninhabited lands south of the Nazferiti River, the imp started chattering away at Jace the whole way, telling him how it had discovered this incantation. Jace carried Gorefiend's staff on his back, and whenever the imp spoke the incantation words he'd guessed at, he always felt as though that shadow gem was responding from time to time.
 
 This incantation was definitely no ordinary thing.
 
 Savia, Avarus, Anthea, Minuelle, Wilma.
 
-This was definitely demonic. With Jace's current vocabulary, he could even roughly sense what this incantation was trying to express.
+This was definitely Demonic. With Jace's current vocabulary, he could even roughly sense what this incantation was trying to express.
 
-But it had to be said — the feeling when speaking it was even stranger than the demonic he'd heard before, or rather, far less strange than other demonic speech.
+But it had to be said — the feeling when speaking it was even stranger than the Demonic he'd heard before — or rather, far less strange than other Demonic speech.
 
-Perhaps this was what the imp had described — the calm, intelligent evil of Eredar speech.
+Perhaps this was what the imp had described — the calm, intelligent evil of eredar speech.
 
 Spinning... darkness... annihilation... summoning...
 

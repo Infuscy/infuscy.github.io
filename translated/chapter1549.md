@@ -10,11 +10,11 @@ And one more thing... he was currently carrying Azuresong Mageblade for self-def
 
 In the game, Azuresong Mageblade wasn't some gift from a Quel'Thalas noble — it dropped from a boss in the Molten Core: Golemagg the Incinerator.
 
-Now, walking step by step behind Gestahn down into the depths of the wide passageway, Jace kept feeling like some weird accident was going to happen, forcing him to leave Azuresong Mageblade behind here, just to keep the timeline intact.
+Now, walking step by step behind Gerstahn down into the depths of the wide passageway, Jace kept feeling like some weird accident was going to happen, forcing him to leave Azuresong Mageblade behind here, just to keep the timeline intact.
 
 At the bottom of the walkway stood two Dark Iron dwarves in heavy armor. The armor was bright silver, engraved with thick dwarven runes and the faces of Dark Iron ancestors, making the two guards look like statues.
 
-When they saw Gestahn, they bowed respectfully and let her through. No questions asked, no ID checked. Jace and Vereesa followed smoothly behind her.
+When they saw Gerstahn, they bowed respectfully and let her through. No questions asked, no ID checked. Jace and Vereesa followed smoothly behind her.
 
 Past the door behind the two dwarves, they stepped onto a scorching hot Dark Iron bridge. Below it flowed a river of molten lava.
 
@@ -24,9 +24,9 @@ The whole space had turned fiery red. Aside from the black iron bridge underfoot
 
 Jace glanced at Vereesa beside him. Her expression was still fairly calm.
 
-Before setting out, Gestahn had given each of them a flask of fire protection potion, since the depths of the Molten Core weren't somewhere mortals could casually enter. Jace gave both his potions to Vereesa — in all his years in Stormwind, aside from shadow magic, the thing he'd trained most was his fire resistance.
+Before setting out, Gerstahn had given each of them a flask of fire protection potion, since the depths of the Molten Core weren't somewhere mortals could casually enter. Jace gave both his potions to Vereesa — in all his years in Stormwind, aside from shadow magic, the thing he'd trained most was his fire resistance.
 
-But even with Gestahn's fire protection barrier, he was already struggling by the time they reached this point.
+But even with Gerstahn's fire protection barrier, he was already struggling by the time they reached this point.
 
 It wasn't just the bridge. On the other side, entering a vast cavern untouched by Dark Iron dwarves' masonry, a wave of intense heat slammed into them. The environment hadn't grown any milder just because they'd left the lava river behind.
 
@@ -46,11 +46,11 @@ But the temperature was still rising, higher and higher.
 
 Though Jace couldn't accurately judge the heat, he knew that in this place, any mortal outside of Dark Iron dwarves could not survive normally, let alone fight or cast spells.
 
-Just from walking this one path, Jace could tell Gestahn was no ordinary person. There was a reason Cho'gall had left her in Shadowforge City to lead Twilight's Hammer.
+Just from walking this one path, Jace could tell Gerstahn was no ordinary person. There was a reason Cho'gall had left her in Shadowforge City to lead Twilight's Hammer.
 
-Before joining Twilight's Hammer, she might have already been a fairly accomplished mage or warlock. From her accent, she might even have been a graduate of the Wizard Sanctum.
+Before joining Twilight's Hammer, she might have already been a fairly accomplished mage or warlock. From her accent, she might even have been a graduate of the Wizard's Sanctum.
 
-After about twenty minutes of walking, Gestahn led them into an even larger cavern.
+After about twenty minutes of walking, Gerstahn led them into an even larger cavern.
 
 This could hardly be called a "cavern" anymore. As far as the eye could see, black stone pillars stretched upward. The ceiling at the highest point was lost in the smoke and firelight.
 
@@ -58,7 +58,7 @@ At the edges of his vision, brilliant lava rivers flowed everywhere. Flames burs
 
 Vereesa stared in awe, barely managing to keep her composure. Jace understood her shock. Even for him, seeing this hellish apocalyptic fire was deeply awe-inspiring.
 
-If Roktus Darkwhisper's description of Executus's throne as simply "an underground black mountain" had been hard to imagine before, walking all the way here made Jace understand completely.
+If Lokhtos Darkbargainer's description of Executus's throne as simply "an underground black mountain" had been hard to imagine before, walking all the way here made Jace understand completely.
 
 Even if an actual mountain appeared ahead now, it wouldn't seem out of place.
 
@@ -70,9 +70,9 @@ This was a molten giant. Jace knew it was the same kind of being as Bael'Gar out
 
 But Bael'Gar looked more like a living giant, while this one seemed like a piece that had just sheared off a solidified black boulder. Just looking at it, it was hard to tell where its arms and legs were.
 
-"State your purpose, worshipers." The giant rumbled.
+"State your purpose, worshippers." The giant rumbled.
 
-"We wish to meet with Baron Geddon, great guardian of the Molten Core." Gestahn shouted in elemental. "Twilight's Hammer brings important intelligence from the outside world."
+"We wish to meet with Baron Geddon, great guardian of the Molten Core." Gerstahn shouted in Elemental. "Twilight's Hammer brings important intelligence from the outside world."
 
 The great rock was silent for a moment. Then a crack wider than the eyes opened below them — a mouth — and let out a deep, rumbling roar.
 
@@ -82,7 +82,7 @@ The elementals here truly did respect Twilight's Hammer. When Jace first heard t
 
 But after seeing that stalk-eye in the box, he understood why.
 
-They followed Gestahn further in. As Jace looked back at the molten giant, Vereesa's eyes suddenly locked onto the lava river below the bridge. Though her expression didn't change, Jace could sense a flicker of tension in her heart.
+They followed Gerstahn further in. As Jace looked back at the molten giant, Vereesa's eyes suddenly locked onto the lava river below the bridge. Though her expression didn't change, Jace could sense a flicker of tension in her heart.
 
 Following her gaze, he caught sight of a dark green "giant lizard" swimming through it. This enormous creature looked longer than a whelpling from head to tail. And its legs weren't a reptile's feet — they were arranged like a centipede's, paired along both sides of its body. Its antennae reached forward, long and thick, more like a centipede's pincers...
 
@@ -120,7 +120,7 @@ So Jace gave Vereesa a look, glancing toward the entrance of that cave. Vereesa 
 
 Baron Geddon's location was fairly deep in the Molten Core. From what Jace remembered, even after getting close to Magmadar's cave, they'd still have to go a good distance deeper.
 
-Along the way, they'd see at least two or three more flame runes and most of the Molten Core's terrain. Maybe they'd even get a distant view of Executus's high seat...
+Along the way, they'd see at least two or three more fire runes and most of the Molten Core's terrain. Maybe they'd even get a distant view of Executus's high seat...
 
 But as they crossed this great black bridge, a blazing fire suddenly appeared on the blackened ground beside the rolling lava river in the distance.
 
@@ -128,7 +128,7 @@ The fire grew brighter. An enormous flame was rushing toward them across the sco
 
 Vereesa tightened visibly. "What's that? What is that?"
 
-"He's..." Before Gestahn could finish, the rapidly approaching flame released a ring of scorching heat that collided with the stone pillars and churning lava, drowning out all sound.
+"He's..." Before Gerstahn could finish, the rapidly approaching flame released a ring of scorching heat that collided with the stone pillars and churning lava, drowning out all sound.
 
 "Baron Geddon is here! Who wants to see me?!"
 

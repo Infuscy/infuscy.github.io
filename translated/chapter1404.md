@@ -6,11 +6,11 @@ This wasn't just Jace projecting his feelings onto the scenery — it was someth
 
 He remembered that the Midsummer Fire Festival had just ended when he'd left Stormwind. Now the next summer was already near.
 
-So much had happened in these few months — from Auchindoun to Shadowmoon Valley, Nagrand, Bladespire Mountains, even the edge of Farahlon, then back to Auchindoun, and finally the peak of Hellfire Peninsula... the earth had split, the sky had changed color.
+So much had happened in these few months — from Auchindoun to Shadowmoon Valley, Nagrand, the Blade's Edge Mountains, even the edge of Farahlon, then back to Auchindoun, and finally the peak of Hellfire Peninsula... the earth had split, the sky had changed color.
 
 But right now, Mirror Lake shimmered below, flocks of white birds wheeled away from their flight path, and a few hunters looked up at the gryphon passing overhead — as though nothing at all had happened.
 
-The siege of the Dark Portal, the Expedition's great retreat, the defense of Auchindoun, the demons besieging the Black Temple at the Throne of Kil'jaeden, the desperate gamble over Sargeras's scepter — none of it seemed to have made any impression on the endless green.
+The siege of the Dark Portal, the Expedition's great retreat, the defense of Auchindoun, the demons swarming the dark temple at the Throne of Kil'jaeden, the desperate gamble over Sargeras's scepter — none of it seemed to have made any impression on the endless green.
 
 He couldn't help but think again about what Kil'jaeden had said to him. In Azeroth, people will remember you — that doesn't mean they'll want to remember you.
 
@@ -30,9 +30,9 @@ Jace's thoughts hadn't yet recovered from everything that had happened on Draeno
 
 "I'm not investigating you for the Kirin Tor, Jace." The mage twisted his head back as far as he could. "I genuinely want to know what you plan to do next. I mean after you reunite with your family and friends at Stonewatch! I was thinking maybe you could come to Dalaran, and I'll treat you to a meal or something."
 
-"Where at? The Violet Inn?" Jace asked.
+"Where at? The Violet Hold?" Jace asked.
 
-"You bastard." Khadgar laughed bitterly. "You know I've met Aegwynn. I even asked Aegwynn to help me get into Karazhan. If I threw you into the Violet Prison, you could take me down with you. We're in the same leaky boat now. Harming you does me absolutely no good."
+"You bastard." Khadgar laughed bitterly. "You know I've met Aegwynn. I even asked Aegwynn to help me get into Karazhan. If I threw you into the Violet Hold, you could take me down with you. We're in the same leaky boat now. Harming you does me absolutely no good."
 
 "Besides, do you think I *want* to be the one holding the leverage over Jace Sesso? I wish I hadn't been involved in any of this — like poor Miss Jaina Proudmoore, kept in the dark the whole time, facing Kirin Tor questioning as naively as a sewer rat that doesn't even know it's already in the Twisting Nether!"
 
@@ -42,7 +42,7 @@ Khadgar coughed awkwardly. "Don't bring that up with any Kirin Tor members eithe
 
 "Got it," Jace said. "Actually, I think Miss Proudmoore might be thinking the same thing you are."
 
-"Good point." Khadgar laughed loudly. "Don't underestimate those fourteen- or fifteen-year-old kids these days. They're much sharper than us old pumpkins born before the Dark Portal. For a clever girl like that to pretend ignorance, even Archmage Antonidas wouldn't have an easy time. And on top of that, Master Marin's good daughter is willing to take all the blame on herself, which makes things even trickier — since strictly speaking, she's also a hero who helped save the Expedition."
+"Good point." Khadgar laughed loudly. "Don't underestimate those fourteen- or fifteen-year-old kids these days. They're much sharper than us old fossils born before the Dark Portal. For a clever girl like that to pretend ignorance, even Archmage Antonidas wouldn't have an easy time. And on top of that, Master Malin's good daughter is willing to take all the blame on herself, which makes things even trickier — since strictly speaking, she's also a hero who helped save the Expedition."
 
 The archmage laughed for a while longer, seeming to enjoy the Kirin Tor's predicament of wanting to pin blame on someone but not knowing who to target.
 
@@ -54,7 +54,7 @@ Jace urged his gryphon to catch up, pulling alongside Khadgar. He took a moment 
 
 "That's over a thousand fewer?" Jace asked.
 
-"What?" Khadgar frowned, then realization dawned. "Ah, you got the numbers from Marshal Turalyon? We've never been able to get an accurate count since Draenor was torn apart by Ner'zhul. He and Ranger-Captain Alleria could only make rough estimates, and there may have been some double-counting."
+"What?" Khadgar frowned, then realization dawned. "Ah, you got the numbers from General Turalyon? We've never been able to get an accurate count since Draenor was torn apart by Ner'zhul. He and Ranger-Captain Alleria could only make rough estimates, and there may have been some double-counting."
 
 "Final count of those who returned through the portal was over four thousand. About two hundred Expedition soldiers died during the final retreat and the battle at Auchindoun, maybe more. Some of them encountered powerful magic in those conditions — getting an accurate count was nearly impossible."
 
@@ -66,7 +66,7 @@ Khadgar couldn't possibly understand what Jace was really worried about. In anot
 
 Kil'jaeden's eventual appearance proved it. He'd practically been sitting there waiting for Jace to take the bait. The only problem was the result hadn't gone his way.
 
-Killing Teron Gorefiend early had triggered a premature rift between the black dragonflight and the Horde, which ultimately led to Kil'jaeden deciding to intervene early, sparking the battle at the Dark Portal, and even bringing Sargeras's scepter back to Draenor.
+Killing Teron Gorefiend early had triggered a premature rift between the Black Dragonflight and the Horde, which ultimately led to Kil'jaeden deciding to intervene early, sparking the battle at the Dark Portal, and even bringing Sargeras's scepter back to Draenor.
 
 So now that the Expedition had been brought back to Azeroth — a cause for celebration, yes — what other changes would it bring?
 

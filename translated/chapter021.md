@@ -46,7 +46,7 @@ Jace clearly couldn't keep pace with the two of them. Seeing Grede about to eat 
 
 Jace looked at Grede struggling to get up and the elf eyeing him sideways, and a terrible idea suddenly popped into his head.
 
-He started muttering the English dialogue passages he'd memorized back in the day — "How are you" and the like — disguising it as an incantation. At the same time he mimicked the way Sulenna cast spells in the basement, weaving his hands in front of his chest.
+He started muttering the English dialogue passages he'd memorized back in the day — "How are you" and the like — disguising it as an incantation. At the same time he mimicked the way Surena cast spells in the basement, weaving his hands in front of his chest.
 
 The elf started, immediately panicked, and waved a hand in Jace's direction. His lips moved slightly, and in the next instant Jace felt something snap inside his head. A vicious ringing swallowed every thought.
 
@@ -79,14 +79,3 @@ The elf's cursing quickly dissolved into sobs. Grede waited until he was done be
 "Brother." Grede glanced over at Jace, who'd been dazed to hell by the counterspell. "Go see what goodies are in his pack."
 
 Hearing that, Jace immediately perked up.
-
-## Flags
-
-- **斯托姆加德拳徽** → "Stromgarde fist emblem": emblem on the elf's sword hilt. Stromgarde is a human kingdom (Arathi Highlands); not in glossary.
-- **法术反制** → "counterspell": Jace's own interpretation of the spell the elf hit him with. Rendered using the official WoW term.
-- **冰结魔法** → ice magic / freeze: the spell that traps Grede's legs. Not a named spell in glossary; described generically.
-- **失心疯** → "lunatics": the elf's insult for Jace and Grede.
-- **尖耳老鼠** → "pointy-eared rat": Grede's insult for the elf.
-- **长毛怪** → "long-haired freak": the elf's insult (for Grede).
-- **瞎了的狗** → "blind dog": the elf's insult (for Grede's missing eye).
-- **天杀的短命猴子** → "cursed short-lived monkey": the elf's insult for Jace (human).

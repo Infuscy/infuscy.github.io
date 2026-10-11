@@ -1,14 +1,14 @@
-## Chapter 1621: From Gul'dan to Ursula Delin
+## Chapter 1621: From Gul'dan to Ursula Deline
 
 "Sorry, master. I'm late."
 
 Morophil folded her wings and landed beside him. Sazeno poked his head out of the bag beneath a nearby tree, staring blankly at the scene. "What happened? I zoned out for a second and this is what I come back to? Weren't you two practicing magic? Why does it look like the Burning Legion invaded?"
 
-"You're not late. Everything happened too fast. We weren't prepared either." Jace patted the succubus's partially spread wing membrane. "I'm in bad shape, but I can still handle a single Doomguard. And Midnight helped."
+"You're not late. Everything happened too fast. We weren't prepared either." Jace patted the succubus's partially spread wing membrane. "I'm in bad shape, but I can still handle a single doomguard. And Midnight helped."
 
 "I knew the demonic beast we tamed couldn't be as docile as it looks..." Morophil muttered.
 
-"But that was a Doomguard, Jace." Ursula still seemed shaken. "Before this, the Dagger Society needed at least three people for a Doomguard summoning ritual. The incantation was extremely complex, the ritual was strictly regulated, and every single demon minion we had — from felhounds to succubi — had to be on standby. Otherwise we might not have been able to handle what we summoned. But just now... it just manifested into the world through that meteor."
+"But that was a doomguard, Jace." Ursula still seemed shaken. "Before this, the Dagger Society needed at least three people for a doomguard summoning ritual. The incantation was extremely complex, the ritual was strictly regulated, and every single demon minion we had — from felhounds to succubi — had to be on standby. Otherwise we might not have been able to handle what we summoned. But just now... it just manifested into the world through that meteor."
 
 "I swear I didn't chant any other incantations, or follow any other casting methods from your manual. You have to believe me. And you only used two soul shards — why did three demons appear?"
 
@@ -16,9 +16,9 @@ Morophil folded her wings and landed beside him. Sazeno poked his head out of th
 
 Ursula seemed to relax a little at that. She glanced at Jace's staff, then quickly looked away, staring again at the corpses.
 
-"I'll need to call Erland Dudemoor to dispose of these bodies. I don't expect to get much money for them this time. I just hope Maginor Dumas and Mathias Shaw's people don't find out too soon and give us trouble."
+"I'll need to call Erlan Drudgemoor to dispose of these bodies. I don't expect to get much money for them this time. I just hope Maginor Dumas and Mathias Shaw's people don't find out too soon and give us trouble."
 
-"Nobody usually comes to Crystal Lake, Ursula. I'll explain it to them." Jace said. "Right now, the important thing is — I don't think my staff was the main reason that Doomguard was summoned. Ursula, we only provided the mana. You were the one directing the ritual. You know that. The key is, what emotion were you channeling at that moment?"
+"Nobody usually comes to Crystal Lake, Ursula. I'll explain it to them." Jace said. "Right now, the important thing is — I don't think my staff was the main reason that doomguard was summoned. Ursula, we only provided the mana. You were the one directing the ritual. You know that. The key is, what emotion were you channeling at that moment?"
 
 "This was my first time trying such a terrifying spell. I was nervous just maintaining the required emotions during the incantation. Paying attention to anything else was beyond my ability." Ursula's voice strained to stay calm. "Can't you sense it, Jace? I know you're a powerful shadow manipulator. A warlock at your level can detect the slightest hesitation in someone's tone, the smallest concealment in their heart through shadow perception."
 
@@ -28,15 +28,15 @@ Ursula stared at him for a moment, then blinked. "I think it might have been jus
 
 "Then let's try again?" Jace asked. "Morophil can help sense emotional shifts too. She helped me figure this out when I first tried this spell. She wasn't here just now."
 
-"I'd be happy to help, Lady Delin." Morophil gave a slight bow.
+"I'd be happy to help, Lady Deline." Morophil gave a slight bow.
 
 "You want me to deliberately use this meteor to summon a bunch of powerful demons?" The alchemist quickly waved her hands. "I can't do that, Jace. On one hand, the shadow oil's effect has worn off. On the other, my energy is mostly spent—"
 
-"Morophil is here this time. And you've seen Midnight — it's not an ordinary horse. You don't need to worry about the demon danger." Jace added after a pause, "And if you're worried about something like what happened to Jagin happening again, you really don't need to be that tense."
+"Morophil is here this time. And you've seen Midnight — it's not an ordinary horse. You don't need to worry about the demon danger." Jace added after a pause, "And if you're worried about something like what happened to Gakin happening again, you really don't need to be that tense."
 
 "Don't push me, Jace!" The sudden outburst startled Jace, but Ursula immediately felt her own loss of control. The tension that had been straining her voice collapsed.
 
-She hugged her head and crouched down, shoulders trembling. The sight of Ursula reminded Jace of the moment in the Molten Core when he'd been at Grede's side. Only now, he was standing where Vastraz had stood.
+She hugged her head and crouched down, shoulders trembling. The sight of Ursula reminded Jace of the moment in the Molten Core when he'd been at Grede's side. Only now, he was standing where Vaelastrasz had stood.
 
 The alchemist's whole body was enveloped in subtle but wildly chaotic shadow energy. If she'd been weak right after completing the spell, she was now on the verge of losing control entirely.
 
@@ -70,7 +70,7 @@ Ursula angrily threw a stone at him. Jace caught it instinctively. She shouted i
 
 But Ursula's mood already seemed less tangled and low than before. Getting what was weighing on your heart out into the open was always good, whether or not the people around you could understand.
 
-Still, why would an emotion like inferiority summon a Doomguard? That didn't match anything Jace knew about the Ered'ruin race.
+Still, why would an emotion like inferiority summon a doomguard? That didn't match anything Jace knew about the Ered'ruin race.
 
 "Demons like the Ered'ruin feed on inferiority and cowardice, master." Morophil, as if sensing Jace's confusion through his soul, leaned close and said, "The spell you wield isn't really a proper summoning ritual. I don't think that Ered'ruin wanted to be summoned into this world. If I'm not mistaken, he was probably chasing prey and fell into a 'trap' — forced to fight you."
 

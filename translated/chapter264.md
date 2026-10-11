@@ -6,7 +6,7 @@ The moment he walked in, he felt the atmosphere in the tavern was off. A group o
 
 He casually glanced that way and was surprised to find Vereesa sitting there. Vereesa had clearly spotted him too and waved him over.
 
-"May I sit here, Miss A'selwyn?" Jace asked as he approached.
+"May I sit here, Miss Aselwen?" Jace asked as he approached.
 
 "Of course." Vereesa said. "Jace, it's been a while."
 
@@ -22,15 +22,17 @@ Jace said, "Then how is that not going well? I have something for you too. Earli
 
 The elf let out a breath. "I was afraid coming back had been a waste of time."
 
-"So why did you come back?" Jace asked. Vereesa's lips moved soundlessly for a moment. "I feel like I've hit a dead end everywhere. Wandering aimlessly through the forest didn't seem to be getting me anywhere, so I came back. And I ran out of money."
+"So why did you come back?" Jace asked.
+
+Vereesa's lips moved soundlessly for a moment. "I feel like I've hit a dead end everywhere. Wandering aimlessly through the forest didn't seem to be getting me anywhere, so I came back. And I ran out of money."
 
 Somehow, Jace wasn't surprised in the slightest.
 
 "You didn't bring money with you?"
 
-"I did bring some," Vereesa said. "But clearly not enough. I'm not very familiar with the conditions here... the wilderness is quite troublesome. Right now I don't feel like a very competent farstrider at all."
+"I did bring some," Vereesa said. "But clearly not enough. I'm not very familiar with the conditions here... the wilderness is quite troublesome. Right now I don't feel like a very competent Farstrider at all."
 
-"You haven't even graduated yet. You're just a student," Jace said. "I heard from Kafal you had the best grades in your batch."
+"You haven't even graduated yet. You're just a student," Jace said. "I heard from Kael'fal you had the best grades in your batch."
 
 "I should be the best, shouldn't I?" Vereesa asked. "I mean..."
 
@@ -56,7 +58,7 @@ At that, Vereesa leaned forward. Jace could practically hear the faint hum of ar
 
 "You found these things in the gnolls' territory? Where is that?"
 
-"You know Westfall Keep?"
+"You know Westbrook Garrison?"
 
 "Ah, I know it. That's where the Riverpaw gnoll chief is — the one on the wanted poster. When I was short on cash I thought about trying my luck there, only to find the wanted criminal who hadn't been killed for months had died just these past few days. Ugh, it's like everything's working against me."
 
@@ -80,17 +82,19 @@ Jace nodded. "Then I'll leave it to you. I'm not selling that sword for money, b
 
 "Where did you get it?"
 
-"The Great Graveyard — Raven Hill's Great Graveyard."
+"Raven Hill Cemetery — the great cemetery at Raven Hill."
 
 "Did you go alone?"
 
 "Yes."
 
-"There are a lot of ghouls there." Vereesa popped an entire pastry into her mouth and spoke while chewing. "They are, but they're not much of a threat, Jace. They're not very sharp. If you went, you'd handle them easily too."
+"There are a lot of ghouls there."
+
+Vereesa popped an entire pastry into her mouth and spoke while chewing. "There are, but they're not much of a threat, Jace. They're not very sharp. If you went, you'd handle them easily too."
 
 Jace watched Vereesa say this so casually, and recalled the scene of him and Grede being chased all over the place by a few ghouls that day. He could only manage a stiff nod.
 
-The server brought over the still-steaming poached salmon. Jace looked at the cut sections of fish and thought for a moment. "So that corpse was brought by the gnolls from the Great Graveyard to the south bank of the Nafeltari River."
+The server brought over the still-steaming poached salmon. Jace looked at the cut sections of fish and thought for a moment. "So that corpse was brought by the gnolls from the Raven Hill Cemetery to the north bank of the Nazferiti River."
 
 "You're sure it's the same death knight's corpse?"
 
@@ -103,21 +107,3 @@ Vereesa scooped a piece of fish into her mouth with a spoon, stuck out her tongu
 Jace suddenly wondered — that weapon had been carried by the succubus all the way around the Redridge Mountains. Would Vereesa be able to smell it on him?
 
 But if he washed it with Purification Potion, there was a risk of washing away the death knight's aura too. Then again, since it was a demon's weapon, having a demonic scent on it shouldn't seem strange...
-
-## Flags
-
-- **温蕾萨** — Vereesa Windrunner (the youngest Windrunner sister; not in glossary, but canonical).
-- **阿塞尔温** — A'selwyn (Vereesa's house name / formal address; rendered as "Miss A'selwyn").
-- **镶金玫瑰** — The Gilded Rose, per glossary (inn in Stormwind).
-- **塔隆·血魔** — Teron Gorefiend, per glossary (first death knight).
-- **遗物学会** — the Reliquary (Silvermoon's artifact-research organization; canonical Warcraft faction).
-- **纳菲瑞提河** — Nafeltari River / River Neltharion, per glossary (tentative name).
-- **西泉要塞** — Westfall Keep, per glossary.
-- **大墓园** — the Great Graveyard (Raven Hill's graveyard; canonical Duskwood location).
-- **乌鸦岭** — Raven Hill, per glossary.
-- **伯拉勒斯港** — Boralus Harbor (Kul Tiras; canonical).
-- **奎尔萨拉斯** — Quel'Thalas, per glossary.
-- **凯法尔** — Kafal (OC? instructor at the Wizard Sanctum; not in glossary).
-- **晨露酒** — Morning Dew wine (晨露酒).
-- Chapter title 看人真准 = "Good Eye for People" — Jace's assessment of Vereesa (or vice versa) proving accurate.
-- POV: third person. Vereesa's composed-but-exhausted ranger register preserved; her casual dismissal of ghouls contrasted with Jace's memory of the actual fight.

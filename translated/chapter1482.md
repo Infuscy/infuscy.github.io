@@ -1,10 +1,10 @@
 ## Chapter 1482: Self-Made Targets
 
-Having obtained the Draenei herbalist's research notes, Jace rushed back to Stormwind without delay.
+Having obtained the draenei herbalist's research notes, Jace rushed back to Stormwind without delay.
 
-From Nethergarde Keep to Darkshire, a journey that normally took a week or more with a caravan, Midnight managed in only three days and two nights. It wasn't anywhere near gryphon speed, of course, but considering the horse was carrying a huge stack of books and luggage, plus Morofil — weighed down more than a Wildhammer gryphon rider — it was impressive. Under those conditions, even the small gryphons at Nethergarde couldn't have flown much faster.
+From Nethergarde Keep to Darkshire, a journey that normally took a week or more with a caravan, Midnight managed in only three days and two nights. It wasn't anywhere near gryphon speed, of course, but considering the horse was carrying a huge stack of books and luggage, plus Morophil — weighed down more than a Wildhammer gryphon rider — it was impressive. Under those conditions, even the small gryphons at Nethergarde couldn't have flown much faster.
 
-The undead warhorse showed no sign of fatigue, running faster and wilder as it went. At one point its hooves even sparked with fel fire, forcing Jace to rein it in as they neared Darkshire, to avoid catching the attention of passing caravans or patrol riders and falling into another "Black Knight's trouble."
+The undead warhorse showed no sign of fatigue, running faster and wilder as it went. At one point its hooves even sparked with fel fire, forcing Jace to rein it in as they neared Darkshire, to avoid catching the attention of passing caravans or patrol riders and falling into another "Dark Rider's trouble."
 
 Before entering Darkshire, riding along the roads of Duskwood, Jace could feel the weakening of Karazhan's dark power.
 
@@ -18,7 +18,7 @@ But now, Jace could actually feel the sunlight. The once-dark and mysterious for
 
 He found it hard to describe what he felt looking at this forest now. The dense fog still looked dangerous, the whole area still steeped in deep depression and sorrow, but it was like being badly wounded by terrible shadow energy, surviving the potentially fatal paralysis and incapacitation, and then feeling the searing pain that followed... agonizing, yes, but he knew in his gut that things were gradually getting better.
 
-Once inside Darkshire, the feeling was even stronger. Jace noticed quite a few mages from the Wizard Sanctum and clergy from the Church in town, coming and going from the town hall, speaking with the local rangers and town guards. When he stepped into the inn, he overheard them saying that the Cathedral of Light had sensed the change in Duskwood's condition.
+Once inside Darkshire, the feeling was even stronger. Jace noticed quite a few mages from the Wizard's Sanctum and clergy from the Church in town, coming and going from the town hall, speaking with the local rangers and town guards. When he stepped into the inn, he overheard them saying that the Cathedral of Light had sensed the change in Duskwood's condition.
 
 "You're a mage, friend." The unfamiliar new bartender looked at Jace, who was glancing around. "Are you here asking about the 'sunrise' like the rest of them?"
 
@@ -26,17 +26,17 @@ Once inside Darkshire, the feeling was even stronger. Jace noticed quite a few m
 
 "Ah, you're from Lordaeron." The bartender filled some sparkling ale for a few travelers nearby, then moved over and asked, "What do you think about it, as a mage? Those Stormwind folks say they don't know what's happening. I can't tell if they're keeping quiet or genuinely clueless. Things suddenly got worse before, and a lot of townsfolk who'd endured ten years here decided to move to Stormwind. Then, just a few months later, it suddenly gets better than before."
 
-He absolutely couldn't tell anyone about sneaking into Karazhan with Khadgar, and taking Aegwynn into Karazhan with Khadgar was an even more forbidden topic.
+He absolutely couldn't tell anyone about sneaking into Karazhan with Khadgar, and Khadgar's earlier visit to Karazhan with Aegwynn was an even more forbidden topic.
 
-Jace didn't really mind that the people of Duskwood had no idea about their adventure in Karazhan. What bothered him more was that Nielas Aran had turned Khadgar into a kitten — or more precisely, a grand mage of the Wizard Sanctum had transformed the spiritual leader of the Kirin Tor into a helpless little cat with zero combat ability, and he couldn't exactly broadcast that to the Seven Kingdoms.
+Jace didn't really mind that the people of Duskwood had no idea about their adventure in Karazhan. What bothered him more was that Nielas Aran had turned Khadgar into a kitten — or more precisely, a grand mage of the Wizard's Sanctum had transformed the spiritual leader of the Kirin Tor into a helpless little cat with zero combat ability, and he couldn't exactly broadcast that to the Seven Kingdoms.
 
-"I heard a lot of mages from the Wizard Sanctum think Medivh and his tower caused the darkness in Duskwood," Jace said. "Maybe the magical energy just finally leaked out."
+"I heard a lot of mages from the Wizard's Sanctum think Medivh and his tower caused the darkness in Duskwood," Jace said. "Maybe the magical energy just finally leaked out."
 
 "You want me to believe that creepy tower's curse ended on its own?" the bartender snorted. "Might as well tell me there's only one moon in the sky."
 
 "Fair point." Jace smiled. "A glass of wine, please, sir."
 
-"I grew up in this town, spent half my life in this darkness, so I've got my own theories." The bartender poured him a glass from a jug. "I heard the Whispering Grove cemetery hasn't been making strange noises at night lately. The Eberlock family went in with Church priests and cleaned up the abbey there. So whether this sunlight is good or bad, at least I don't have to worry about my dead mother climbing out of her grave one day and swinging a shovel at my neck. Praise the Light. Honestly, if you ask me, this might have something to do with the Expedition."
+"I grew up in this town, spent half my life in this darkness, so I've got my own theories." The bartender poured him a glass from a jug. "I heard the Tranquil Gardens Cemetery hasn't been making strange noises at night lately. The Ebonlocke family went in with Church priests and cleaned up the abbey there. So whether this sunlight is good or bad, at least I don't have to worry about my dead mother climbing out of her grave one day and swinging a shovel at my neck. Praise the Light. Honestly, if you ask me, this might have something to do with the Expedition."
 
 "How so?" Jace grew alert and set down his glass.
 
@@ -54,7 +54,7 @@ Jace nodded slowly. The bartender watched his expression and said, "I know you m
 
 "Hasn't the king's army gone to smash their hideouts?" Jace asked.
 
-"You're from Lordaeron, so you might not know — there are countless caves the jungle trolls dug in those southern mountains over the years, plus buildings carved with masks and monster motifs." The bartender said. "In the past, elven rangers and the Wizard Sanctum organized searches... killed some ogres too, but more and more of them keep gathering from Khaz Modan and Stranglethorn, playing hide-and-seek with the Alliance in the mountains. And ogres can do magic too, mage. They just look dumb — might not be any worse at it than you."
+"You're from Lordaeron, so you might not know — there are countless caves the jungle trolls dug in those southern mountains over the years, plus buildings carved with masks and monster motifs." The bartender said. "In the past, elven rangers and the Wizard's Sanctum organized searches... killed some ogres too, but more and more of them keep gathering from Khaz Modan and Stranglethorn, playing hide-and-seek with the Alliance in the mountains. And ogres can do magic too, mage. They just look dumb — might not be any worse at it than you."
 
 "Provocation won't work either, sir." Jace rubbed the rim of his glass. "I'm heading to Stormwind. Not on the way."
 
@@ -68,4 +68,4 @@ It wasn't the ten silver bounty per head that interested him, nor was he particu
 
 No, what struck him was this: weren't these ogres — the ones who'd once followed the two-headed warlock Cho'gall in attacking Stormwind — the perfect experimental subjects for the Soul Well?
 
-Coming back from Karazhan, Jace had been planning to further experiment with Gul'dan's sinister spell alongside the Dagger Clan's warlocks. If using the Riverpaw gnolls and murlocs of Westfall as test subjects might cause problems at Moonbrook's farms and mines, and experimenting on the undead in the graveyard still had to account for the fact that they'd been people's ancestors and relatives before they went mad with bloodlust... then these brutal invaders from Draenor, who'd been hiding for so long and were now crawling out of the woodwork — this was practically the universe handing him exactly what he needed.
+Coming back from Karazhan, Jace had been planning to further experiment with Gul'dan's sinister spell alongside the Dagger Society's warlocks. If using the Riverpaw gnolls and murlocs of Westfall as test subjects might cause problems at Moonbrook's farms and mines, and experimenting on the undead in the graveyard still had to account for the fact that they'd been people's ancestors and relatives before they went mad with bloodlust... then these brutal invaders from Draenor, who'd been hiding for so long and were now crawling out of the woodwork — this was practically the universe handing him exactly what he needed.

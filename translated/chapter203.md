@@ -12,7 +12,9 @@ They followed the faint sound drifting in on the wind, pushing deeper into the t
 
 "Fine, but I've never actually seen a troll before. Being nervous about an unknown enemy is perfectly normal, isn't it?" Jace said.
 
-The dwarf said, "Compared to trolls… right now the most important thing is to watch out for spider ambushes, especially the little ones." Hearing that, Jace immediately looked down to check his arms and legs to see if any spiders had crawled on him.
+The dwarf said, "Compared to trolls… right now the most important thing is to watch out for spider ambushes, especially the little ones."
+
+Hearing that, Jace immediately looked down to check his arms and legs to see if any spiders had crawled on him.
 
 "The spiders of the Hinterlands aren't like the ones in Stormwind," Grede said, watching Jace's movements. "The smallest ones here are the size of a dog. If they ambush you, you'll know — don't worry."
 
@@ -50,7 +52,7 @@ Jace snorted. "If I hadn't used it, you wouldn't be alive to feel guilty about i
 
 "Watch our backs…" Jace reminded him.
 
-If Grede was right, this cellar should be extremely ancient. Jace felt it resembled that Atal'Hakkar Temple underwater in Black Marsh — except the images on the walls weren't snakes, but all manner of multi-legged creatures, not all of them spiders.
+If Grede was right, this cellar should be extremely ancient. Jace felt it resembled that sunken Temple of Atal'Hakkar in the Black Morass — except the images on the walls weren't snakes, but all manner of multi-legged creatures, not all of them spiders.
 
 Perhaps this had once been a small Shadra temple, built by the ancient Amani trolls, abandoned as the Amani Empire declined irresistibly, and after thousands of years buried by dust and earth — transformed from a temple into an underground crypt, its original tower top becoming a small ruined courtyard.
 
@@ -79,21 +81,3 @@ He held up the Light and swept it along the walls and the base of the walls for 
 The cocoon was wrapped tight, without a single gap — yet the person inside had somehow survived this long without suffocating.
 
 Though compared to a Wildhammer dwarf, this cocoon did seem a bit long.
-
-## Flags
-
-- **沙德拉地窖** → "The Shadra Cellar" (沙德拉 = Shadra, spider loa; 地窖 = cellar/crypt)
-- **塔隆·血魔** → Teron Gorefiend (per glossary)
-- **祖尔金** → Zul'jin (Amani troll warlord; not in glossary)
-- **阿塔哈卡地宫** → Atal'Hakkar Temple (sunken temple in Black Marsh; not in glossary)
-- **黑色沼泽** → Black Marsh (per glossary — the region where Atal'Hakkar lies)
-- **影之国** → the Shadowlands (the afterlife; not in glossary)
-- **光亮术** → Light (mage cantrip; per glossary)
-- **格瑞德** → Grede (per glossary)
-- **杰斯** → Jace (per glossary)
-- **蛮锤** → Wildhammer (per glossary)
-- **鹰巢山** → Aerie Peak (not in glossary)
-- **沙德拉** → Shadra (spider loa; not in glossary)
-- **沙德拉洛** → Shadra'Zol (not in glossary — tentative)
-- **阿曼尼** → Amani (not in glossary)
-

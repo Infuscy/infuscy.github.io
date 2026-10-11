@@ -30,7 +30,7 @@ Actually, the obstacles to learning demonic incantations irritated him even more
 
 "Master," Morophil said. "I can certainly try to learn Curse of Tongues for you, but how should I put it... you don't seem to enjoy bringing me along very often, after all. I'm not that... convenient."
 
-She tapped the demon pack beside her with her finger. Sazeno immediately poked his head out. "What are you doing, sa'ard?"
+She tapped the demon bag beside her with her finger. Sazeno immediately poked his head out. "What are you doing, sayaad?"
 
 "Let it learn," Morophil said.
 
@@ -38,7 +38,7 @@ She tapped the demon pack beside her with her finger. Sazeno immediately poked h
 
 Jace asked, "You can cast several Firebolts and channel the Blood Pact — isn't that enough mana to release a single Curse of Tongues?"
 
-"You see, those fire magics and the Blood Pact..." The imp spread his hands. "Those are the magic I'm good at. All imps know them! I've never used Curse of Tongues, and I'm not proficient at casting it. This is a strange incantation invented by the Eredar. You know the Eredar's magical characteristics, my master — they pay absolutely no attention to conserving mana..."
+"You see, those fire magics and the Blood Pact..." The imp spread his hands. "Those are the magic I'm good at. All imps know them! I've never used Curse of Tongues, and I'm not proficient at casting it. This is a strange incantation invented by the eredar. You know the eredar's magical characteristics, my master — they pay absolutely no attention to conserving mana..."
 
 Jace scratched his chin and leaned to the side with a frown.
 
@@ -46,7 +46,7 @@ If there was absolutely no way to learn Cripple, then so be it. But now it seeme
 
 Or perhaps he could see hope of learning it, but it would be hard to put to practical use in real combat. In the end, turning such a powerful control magic into something like a party trick for showing off or entertainment — that was truly frustrating.
 
-"Not entirely without a way," the imp said, jumping out of the demon pack and holding the bag of soul shards. "As long as my master finds a way to make me stronger... perhaps I'll have enough mana to cast Curse of Tongues! How about it?"
+"Not entirely without a way," the imp said, jumping out of the demon bag and holding the bag of soul shards. "As long as my master finds a way to make me stronger... perhaps I'll have enough mana to cast Curse of Tongues! How about it?"
 
 Jace asked, "I've already given you several soul shards, haven't you? Have you gotten stronger now?"
 
@@ -56,13 +56,13 @@ The imp said immediately, "Of course! I'm much more powerful now than when I fir
 
 "What the hell is that?" Jace asked, puzzled.
 
-"Some demons refine soul shards into strange stones that can restore a demon's physical strength. My former superior, the Ghost King Yarozbal of Nastoy, ate this stuff to slowly grow into such a powerful demon. You should know he started out just like us — a brood mother's son. But then he took control of the forge and refined the disobedient imps, ones like me, into soul shards. You think he was going to use these soul shards for what... Some he used as ritual materials, and the rest he refined into those fel stones, my master!"
+"Some demons refine soul shards into strange stones that can restore a demon's physical strength. My former superior, the Imp King Yarozbal of Nastoi, ate this stuff to slowly grow into such a powerful demon. You should know he started out just like us — a brood mother's son. But then he took control of the forge and refined the disobedient imps, ones like me, into soul shards. What do you think he was going to use those soul shards for... Some he used as ritual materials, and the rest he refined into those fel stones, my master!"
 
 "Healthstone?" Jace asked.
 
 "Healthstone?" The imp shook its head. "I don't know this name."
 
-The imp's description made Jace think of the Healthstone from the game — the kind of stone warlocks made from soul shards to restore health, colloquially known by players as "sugar."
+The imp's description made Jace think of the healthstone from the game — the kind of stone warlocks made from soul shards to restore health, colloquially known by players as "candy."
 
 But obviously, demons didn't call this thing a "Healthstone." This name was probably coined by human warlocks or orc warlocks.
 
@@ -70,7 +70,7 @@ But obviously, demons didn't call this thing a "Healthstone." This name was prob
 
 "It can heal demons, but I don't know if it can heal you, ha!" the imp said immediately. "How about it, my master?"
 
-"Can you refine it?" Jace asked. "Since you were a close guard of the Ghost King Yarozbal, you should know something about this technique, right?"
+"Can you refine it?" Jace asked. "Since you were a personal guard of the Imp King Yarozbal, you should know something about this technique, right?"
 
 "No." The imp shook its head. "I wasn't a worker in the forge. I have absolutely no idea how that stuff is made! Go ask that big fellow tomorrow. He's got far more imps under his command than Yarozbal did. He might know something."
 

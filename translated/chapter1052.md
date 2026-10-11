@@ -2,11 +2,11 @@
 
 Damp, cold, the stench of rot — Jace's clothes clung wetly to his skin, and it was every bit as miserable as it sounded.
 
-Vereesa Windrunner's gaunt figure felt her way along up ahead. Down here, Jace could only make out a vague silhouette in the darkness, lit by some faint light source he couldn't even tell the direction of.
+Vereesa Windrunner's slender figure felt her way along up ahead. Down here, Jace could only make out a vague silhouette in the darkness, lit by some faint light source he couldn't even tell the direction of.
 
 Grede was right behind him, and the clearest sound at the moment was the dwarf's heavy breathing.
 
-Most of the mechanisms in this passage had broken down. Vereesa had felt her way along without issuing a single warning, until they reached the end of the narrow corridor — a pitch-black doorway beyond which nothing could be seen. She braced against the edge of the wall and peered inside.
+Most of the traps in this passage had broken down. Vereesa had felt her way along without issuing a single warning, until they reached the end of the narrow corridor — a pitch-black doorway beyond which nothing could be seen. She braced against the edge of the wall and peered inside.
 
 Grede couldn't help but lean over from the side too, as if tilting his body and craning his neck could somehow improve the lighting in this godforsaken dark tunnel.
 
@@ -20,7 +20,7 @@ The rest of them all wore hesitant expressions, including Morophil.
 
 Because whether dwarf, demon, or elf, they all had far better night vision than he did, let alone a living green dragon who moved between the forests of dreams and reality.
 
-At that moment, Vereesa conjured a Light spell from her palm and hurled it straight ahead. The orb drifted slowly forward, illuminating the black plants hanging from the ceiling — things that looked like seaweed and vines all at once — then a broad pool of water, then a wide doorway, before dissolving into a cloud of arcane mist against a wall covered in savage troll-face reliefs.
+At that moment, Vereesa conjured an orb of light in her palm and hurled it straight ahead. The orb drifted slowly forward, illuminating the black plants hanging from the ceiling — things that looked like seaweed and vines all at once — then a broad pool of water, then a wide doorway, before dissolving into a cloud of arcane mist against a wall covered in savage troll-face reliefs.
 
 Jace frowned. This didn't quite match what he knew.
 
@@ -32,9 +32,9 @@ He'd thought he'd misremembered, but now it was clear: the great hall from the g
 
 The more he thought about it, the less confident he felt.
 
-Even in the game, the Temple of Atal'Hakkar was a bewildering troll palace. Jace had expected the real temple to be even more complex, but actually being inside still made his scalp tingle.
+Even in the game, the Temple of Atal'Hakkar was a bewildering troll palace. Jace had expected the real temple to be even more complex, but actually being inside still made his scalp prickle.
 
-When Vereesa first found those mechanism holes in the wall, he'd been puzzled — why would trolls place such mechanisms in their main thoroughfares? Wouldn't friendly fire be a real risk?
+When Vereesa first found those trap holes in the wall, he'd been puzzled — why would trolls place such traps in their main thoroughfares? Wouldn't friendly fire be a real risk?
 
 Only now did he realize that the passage they'd just walked through was actually a "death corridor" meant for intruders sneaking in — it was only thanks to the raging magic of Queen Ysera, or the later battles with the green dragons, or simply the passage of too much time, that the traps had failed.
 
@@ -46,25 +46,25 @@ Only now did he realize that the passage they'd just walked through was actually
 
 "Nothing," Jace said, shaking his head.
 
-"Actually, I think it's a bit strange too," Grede said, glancing at Sora beside him. "Why did we run into so many dragonkin out there, and that massive green dragon corrupted by this temple, but..."
+"Actually, I think it's a bit strange too," Grede said, glancing at Sola beside him. "Why did we run into so many dragonkin out there, and that massive green dragon corrupted by this temple, but..."
 
 "But there's nothing in here at all," Vereesa finished the dwarf's thought. "That is indeed strange. If those dragonkin were here to protect the temple, then they should have split into several defensive lines — patrols outside, guards watching the corridors inside, protectors for the pool... unless..."
 
 "Unless those green dragons weren't here to protect the temple at all," Grede said, looking at the elf. "But were trying to get into the temple to rescue their kin..."
 
-Sora, leaning against the wall, shook her head. "Impossible. I couldn't communicate with those dragonkin at all. If I hadn't seen them with my own eyes, I wouldn't have believed they were Emerald dragonkin just by sensing them, Grede. They wanted to kill anyone who approached the temple — including me... How could they possibly be trying to rescue the green dragons held captive in here? When we ran into trouble we couldn't handle, we'd think to find whatever help we could get — not hunt down every traveler or bounty hunter who might join up with us as enemies."
+Sola, leaning against the wall, shook her head. "Impossible. I couldn't communicate with those dragonkin at all. If I hadn't seen them with my own eyes, I wouldn't have believed they were green dragonkin just by sensing them, Grede. They wanted to kill anyone who approached the temple — including me... How could they possibly be trying to rescue the green dragons held captive in here? When we ran into trouble we couldn't handle, we'd look for whatever help we could get — not hunt down every traveler or bounty hunter who might have joined us."
 
 "There's another possibility," Jace said. "They think they're in a standoff with the Atal'ai trolls. They think their master — that corrupted green dragon, or other green dragons lurking nearby — has been trying to penetrate deep into the temple to rescue Eranikus, and just never had a proper plan. They simply haven't realized that their heads aren't clear, and everything they're doing is protecting the trolls' ritual. And that's probably exactly what Hakkar's corrupting magic was designed to accomplish."
 
-After hearing him out, Sora lowered her head. Jace knew she probably felt the same way.
+After hearing him out, Sola lowered her head. Jace knew she probably felt the same way.
 
 "Is it possible," Grede looked up and asked, "that we also think we're rescuing the green dragons, when actually we've lost our minds, and everything we're doing is slaughtering normal green dragons?"
 
 "Then Hakkar's magic clearly doesn't have enough kick," Vereesa said, giving him a sidelong glance. "Even a Wildhammer like you can tell something's wrong."
 
-"Don't insult me, fine, but don't drag the whole Wildhammer clan into it!" Grede glared at her.
+"Insult me all you like, but don't drag the whole Wildhammer clan into it!" Grede glared at her.
 
-"I'm still wearing Jace's pendant, Grede," Sora said. "With it, not even things from the Emerald Dream can cloud my thoughts. I think at least for now, everything's normal."
+"I'm still wearing Jace's pendant, Grede," Sola said. "With it, not even things from the Emerald Dream can cloud my thoughts. I think at least for now, everything's normal."
 
 Grede grunted. Jace pointed to the pouch at the dwarf's waist and said, "Just drink some of Sylia's brew if you have to, Grede. It'll clear your head."
 
@@ -74,7 +74,7 @@ Grede grunted. Jace pointed to the pouch at the dwarf's waist and said, "Just dr
 
 "That's true enough."
 
-Grede drank down the contents of the larger pouch first — the ghost-detection brew — and blinked painfully. Then he took a swelled of the smaller pouch's potion, and his cheeks puffed out and his eyes bulged, nearly making him vomit on the spot.
+Grede drank down the contents of the larger pouch first — the ghost-detection brew — and blinked painfully. Then he took a swig from the smaller pouch, and his cheeks puffed out and his eyes bulged, nearly making him vomit on the spot.
 
 "What the hell is this?" he said, glaring and keeping his voice low. "Is that water from the pool back there? No, it's even worse! It's like drinking a cup of forest troll shit soup!"
 
@@ -96,15 +96,15 @@ These weren't boots, nor any shoe he recognized — they were the sound of troll
 
 The shadows drew closer, their pace very slow, as if advancing with great care. Had they heard the voices of the group talking earlier and come to the main doorway to investigate?
 
-As the shadows approached, Vereesa seized her chance and flashed out, chopping her blade into one of them's neck. She pulled it back and followed up with another strike, cleanly severing its head.
+As the shadows approached, Vereesa seized her chance and flashed out, chopping her blade into the neck of one of them. She pulled it back and followed up with another strike, cleanly severing its head.
 
 At the same time, her other sword had already been hurled, piercing another one's chest with pinpoint accuracy — so fast that Jace hadn't even figured out how many of them there were.
 
 Jace stepped out too, only to see the headless tall troll steady itself and immediately lunge at Vereesa's back.
 
-Vereesa sensed something wrong behind her and turned around. Jace rushed forward and drew the Song of the Azure. The magic sword traced a blinding flash of light and sliced straight through the headless troll's midsection. The creature's "clothes" immediately burst into arcane flames. It struggled silently and dropped to its knees.
+Vereesa sensed something wrong behind her and turned around. Jace rushed forward and drew Azuresong. The magic sword traced a blinding flash of light and sliced straight through the headless troll's midsection. The creature's "clothes" immediately burst into arcane flames. It struggled silently and dropped to its knees.
 
-The ranger pulled her sword from the other troll's chest and kicked it to one side, then chopped down again, hacking off half its skull. But who would've thought — the troll raised its long arm and shoved Vereesa back several steps, then pulled off an impossibly acrobatic flip and, amidst the firelight, lunged at her again.
+The ranger pulled her sword from the other troll's chest and kicked it to one side, then chopped down again, hacking off half its skull. But against all expectation, the troll raised its long arm and shoved Vereesa back several steps, then pulled off an impossibly acrobatic flip and, amidst the firelight, lunged at her again.
 
 Grede beside them hurled a hammer blow that smashed the troll's leg to pulp. The troll crashed to the ground. Jace summoned flames to ignite the creature's "clothes," and only then did the crazed, struggling thing finally burn itself into stillness.
 
@@ -112,18 +112,20 @@ From start to finish, neither of the two trolls had made a single sound. Only wh
 
 Their bodies were wrapped in blackened cloth wrappings. There was no telling how long they'd been dead. They probably hadn't come here because they'd heard anything. Their slow pace wasn't caution — they were simply wandering aimlessly through the temple, mindless.
 
-But then, from deep in the corridor came a muffled moan, like someone howling with their mouth covered. "This many?" Grede asked, gazing down the lightless, bottomless corridor. "Do we fight our way in?"
+But then, from deep in the corridor came a muffled moan, like someone howling with their mouth covered. 
 
-Vereesa pulled out the Holy Wizard Oil and muttered, "Damn it, we already used up a good bit of this in the water."
+"This many?" Grede asked, gazing down the lightless, bottomless corridor. "Do we fight our way in?"
+
+Vereesa pulled out the Blessed Wizard Oil and muttered, "Damn it, we already used up a good bit of this in the water."
 
 Jace looked up at the ceiling, draped layer upon layer of black vines like rotting rags, and asked, "Will Queen Ysera's earring work in here? These trolls aren't green dragons either — it should be able to fool them."
 
-He glanced at Sora again. Sora said, "It might. The natural aura here is strong enough."
+He glanced at Sola again. Sola said, "It might. The natural aura here is strong enough."
 
-"Then let me try it." Vereesa held the pendant and activated its power with her magic. Jace felt something hazy descend like a theater curtain, and before long he couldn't even see the sparks from the fire they'd just put out at their feet.
+"Then let me try it." Vereesa held the earring and activated its power with her magic. Jace felt something hazy descend like a theater curtain, and before long he couldn't even see the sparks from the fire they'd just put out at their feet.
 
 "It's working," Grede said.
 
 "Then let's keep moving," Jace said.
 
-Vereesa nodded and headed forward. But even with the pendant's shroud covering them, everyone still had their weapons drawn, ready in case they were seen through.
+Vereesa nodded and headed forward. But even with the earring's shroud covering them, everyone still had their weapons drawn, ready in case they were seen through.

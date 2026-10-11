@@ -1,10 +1,10 @@
 ## Chapter 1322: The Paladin's Doubts
 
-At the meeting, the leaders of the Sons of Lothar discussed communications, supply transport, and other matters between Alleria's Keep, Honor Hold, and Wildhammer Keep. From the sound of it, since Draenor shattered, the silithid living between Terokkar Forest and Hellfire Peninsula were an even bigger threat to travel routes than demons and fel orcs.
+At the meeting, the leaders of the Sons of Lothar discussed communications, supply transport, and other matters between Allerian Stronghold, Honor Hold, and Wildhammer Stronghold. From the sound of it, since Draenor shattered, the ravagers living between Terokkar Forest and Hellfire Peninsula were an even bigger threat to travel routes than demons and fel orcs.
 
-But Jace's group didn't know much about the situation north of Alleria's Keep, so they couldn't contribute much. For the rest of the discussion, he, Vereesa, and Grede could only act as "observers."
+But Jace's group didn't know much about the situation north of Allerian Stronghold, so they couldn't contribute much. For the rest of the discussion, he, Vereesa, and Grede could only act as "observers."
 
-After the meeting, everyone at Wildhammer Keep finally got a chance to talk with the escorts Danath Trollbane had brought. The hallway erupted into a din of voices, each person desperate to know how their friends, family -- even lovers -- living in Hellfire Peninsula were doing.
+After the meeting, everyone at Wildhammer Stronghold finally got a chance to talk with the escorts Danath Trollbane had brought. The hallway erupted into a din of voices, each person desperate to know how their friends, family -- even lovers -- living in Hellfire Peninsula were doing.
 
 What surprised Jace was that although, according to Alleria, Honor Hold housed over a thousand soldiers, one of the mages who'd come with Danath seemed to know the situation of nearly every single one. No matter who asked, he could say something.
 
@@ -12,9 +12,9 @@ Jace wondered if Danath had specifically brought this gifted mage to answer the 
 
 Just as he was listening with interest as the mage described the situation at Honor Hold and the supply depot, Turalyon approached. "Jace." He gripped Jace's arm. "Let's talk outside in the corridor."
 
-Jace nodded, patted Grede, who was chatting with a gryphon rider from Honor Hold, and said, "Go find Sora or Vereesa for a drink at noon, Grede."
+Jace nodded, patted Grede, who was chatting with a gryphon rider from Honor Hold, and said, "Go find Sola or Vereesa for a drink at noon, Grede."
 
-"I've already found a new drinking buddy. Not as boring as Sora, but can hold his liquor, Jace. It's that little black kid." Grede was chattering excitedly when he noticed Turalyon beside him and remembered he'd arranged to discuss something with Jace. He nodded. "We'll do it another time, then."
+"I've already found a new drinking buddy. Not as boring as Sola, but can hold his liquor, Jace. It's that little black dragon kid." Grede was chattering excitedly when he noticed Turalyon beside him and remembered he'd arranged to discuss something with Jace. He nodded. "We'll do it another time, then."
 
 Turalyon and Jace left the noisy corridor one after another. With fewer people around now, Turalyon walked ahead and asked, "How's the communication ritual in the basement?"
 
@@ -38,9 +38,9 @@ Turalyon let go of the wall he'd been gripping, exhaling as if a weight had lift
 
 "Afterward, the more I thought about it, the more something felt off. But I couldn't put my finger on it. I sought help from the priests, but even the Holy Light couldn't dispel the shadow in my heart. Until now, if you hadn't just told me..."
 
-He paused, as if something suddenly occurred to him. He looked up, meeting Jace's eyes. "By the Holy Light, Jace. I can't imagine what you've been through this entire time."
+He paused, as if something suddenly occurred to him. He looked up, meeting Jace's eyes. "By the Light, Jace. I can't imagine what you've been through this entire time."
 
-"Vereesa, Lord Grede Thunderfist, Lady Sora Shadow -- do they know?"
+"Vereesa, Lord Grede Thunderfist, Lady Sola Shade -- do they know?"
 
 "They know." Jace managed a faint smile. "So as long as you're still willing to trust me, it's not as hard as you think."
 
@@ -54,11 +54,11 @@ Jace said, "So I need to act enthusiastic. Let Kil'jaeden think I've taken the b
 
 "I agree." Turalyon said. "Now I can rest easy."
 
-"One more thing." Jace said. "Has Sabellian mentioned that the black dragons are willing to help the Expedition transport soldiers from Honor Hold and Alleria's Keep?"
+"One more thing." Jace said. "Has Sabellian mentioned that the black dragons are willing to help the Expedition transport soldiers from Honor Hold and Allerian Stronghold?"
 
 "They're willing? He hasn't said a word to me about it," Turalyon said.
 
-"These black dragons..." Jace glanced at the doorway. "They won't offer help on their own, Turalyon. You need to find a time to talk to that Prince. Be diplomatic -- ask for their help. That's the only way they'll agree. He already made that promise to me. I think he's waiting to see how you and Kurdlan approach him."
+"These black dragons..." Jace glanced at the doorway. "They won't offer help on their own, Turalyon. You need to find a time to talk to that Prince. Be diplomatic -- ask for their help. That's the only way they'll agree. He already made that promise to me. I think he's waiting to see how you and Kurdran approach him."
 
 Turalyon smiled. "I understand. I'll go talk to him."
 
@@ -78,11 +78,11 @@ Her black hair was a tangled mess, her clothes a disaster. Jace wondered if she 
 
 "Let go." Jace pointed at her grubby little hand.
 
-Needleflame released him with obvious displeasure. Angelista's bright red sash now had a dark, greasy stain. Jace frowned, rubbed at it with his thumb, and failed to get it off. "Do you know the orcish language?"
+Needleflame released him with obvious displeasure. Angelista's bright red sash now had a dark, greasy stain. Jace frowned, rubbed at it with his thumb, and failed to get it off. "Do you know the Orcish language?"
 
 "Lok-tar!"
 
-The little black dragon had practically roared it in full draconic. Jace laughed. "What's the second phrase?"
+The little black dragon had practically roared it in full Draconic. Jace laughed. "What's the second phrase?"
 
 "That's all I know." Needleflame admitted. "But I learn languages fast. Just like I learned human speech, Jace Sesso. I just didn't bother learning orc before. By the time you're ready to leave, I might have mastered their stupid tongue."
 

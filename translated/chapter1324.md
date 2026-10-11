@@ -1,12 +1,12 @@
 ## Chapter 1324: Two Orcs
 
-Riding on Sabellian's back was nothing like riding Sora's. Sora flew with dream magic -- you could sit comfortably up there, even sleep, as long as you found a way to strap yourself to her horns.
+Riding on Sabellian's back was nothing like riding Sola's. Sola flew with dream magic -- you could sit comfortably up there, even sleep, as long as you found a way to strap yourself to her horns.
 
-Sabellian, however, was much larger than Sora but not at all like a big passenger jet with a smoother ride. Furious currents of shadow energy howled past without pause. Jace had to cling to anything he could hold, and by the end he felt he'd nearly drained all the void dragon mana he'd drawn from deep inside Dragonmaw Fortress.
+Sabellian, however, was much larger than Sola but not at all like a big passenger jet with a smoother ride. Furious currents of shadow energy howled past without pause. Jace had to cling to anything he could hold, and by the end he felt he'd nearly drained all the nether drake mana he'd drawn from deep inside Dragonmaw Fortress.
 
 No matter how much he urged Sabellian to slow down, smooth out the ride, the black dragon wouldn't listen. As if putting up with this was part of the privilege of climbing onto his back.
 
-After holding on for a while, Jace was forced to don Orastrasz's hide. When that thick cloak wrapped around him, the violent black wind on the dragon's back finally subsided.
+After holding on for a while, Jace was forced to don Olastrasz's hide. When that thick cloak wrapped around him, the violent black wind on the dragon's back finally subsided.
 
 But even the Black Dragon Prince wasn't stubborn enough to fly directly from Shadowmoon Valley north into the void that the Scepter of Sargeras had torn open, crossing a whole stretch of nothingness to reach Hellfire Peninsula. Instead, he flew northwest into Terokkar Forest first, then turned north, skirting the completely collapsed archipelago of floating islands to conserve strength.
 
@@ -46,7 +46,7 @@ As far as the eye could see: withered trees, boulders shattered by the crashing 
 
 The dim, dark sky was crisscrossed with black channels left by the Scepter of Sargeras. Gazing up at those channels, Jace couldn't help wondering how many demons were passing through them at this very moment.
 
-In this harsh wasteland, only the most cunning and resilient things survived. Unfortunately, the Draenor silithid, which the Alliance Expedition called "Stalkers," possessed both qualities in abundance.
+In this harsh wasteland, only the most cunning and resilient things survived. Unfortunately, the insectoid predators of Draenor, which the Alliance Expedition called "ravagers," possessed both qualities in abundance.
 
 As Sabellian flew over these mountains that looked like blackened tumors, crimson figures would occasionally emerge from the massive thorns and fallen black timber, shrieking at the sky as if challenging the black dragon.
 
@@ -88,16 +88,16 @@ But the Shadowflame didn't continue burning. Instead, it rapidly transformed him
 
 "Fine." Jace answered carefully.
 
-"Give yourself a name," Sabellian said. "I'll go by Nai'horgar."
+"Give yourself a name," Sabellian said. "I'll go by Naihogar."
 
-"Nai'horgar, Death of Dragons?" Jace asked.
+"Naihogar, Death of Dragons?" Jace asked.
 
 "Yes." Sabellian said. "Dragonmaw orcs love giving themselves stupid, provocative names like that. What about you?"
 
-"Then I'll be Nai'jagg," Jace said.
+"Then I'll be Naigag," Jace said.
 
 "If I'm not mistaken, that word means... Pure Black?" Sabellian asked.
 
 "Yes," Jace said.
 
-"A rather ordinary orc name." Sabellian smiled meaningfully, then switched to orcish with a heavy Dragonmaw accent. "But a good name too, Nai'jagg. Hellfire Citadel isn't far now. Let's go."
+"A rather ordinary orc name." Sabellian smiled meaningfully, then switched to Orcish with a heavy Dragonmaw accent. "But a good name too, Naigag. Hellfire Citadel isn't far now. Let's go."

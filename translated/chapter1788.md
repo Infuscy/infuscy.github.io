@@ -2,7 +2,7 @@
 
 What the locals called the Great Monastery — the Tirisfal Monastery of the Holy Light — was a very ancient temple, built even before the founding of the royal city. So old that Jace had never heard anyone mention how long it had stood on the northeastern peninsula of this region.
 
-Tirisfal was an important source of human faith. The name itself came from the fallen site of Tir, the Guardian whom humans had first worshipped. This monastery was very likely one of the first Holy Light churches in all the human kingdoms, and without question the largest.
+Tirisfal was an important source of human faith. The name itself came from the place where Tyr fell — the Keeper whom humans had first worshipped. This monastery was very likely one of the first Holy Light churches in all the human kingdoms, and without question the largest.
 
 It sat at the northernmost tip of the entire Lordaeron continent. On a map, it looked like a lighthouse on a mountaintop, overlooking the whole human world to the south. Most human cartographers liked to draw it especially large and detailed on their maps, to show proper respect.
 
@@ -16,17 +16,17 @@ For Jace, this place had another layer of extraordinary significance. In the oth
 
 He'd finally made it here, he thought.
 
-When he was a child, the journey was too far. Even though his mother had occasionally made pilgrimages here before she was pregnant with him, she'd basically given it up after he was born. Later, when he was old enough to travel here, the Orc Wars broke out. Rumor had it that orcs had snuck into the area around Lake Darrowmere and the Alterac Mountains, which made the citizens of the royal city even less willing to head toward the Great Monastery.
+When he was a child, the journey was too far. Even though his mother had occasionally made pilgrimages here before she was pregnant with him, she'd basically given it up after he was born. Later, when he was old enough to travel here, the Orc Wars broke out. Rumor had it that orcs had snuck into the area around Darrowmere Lake and the Alterac Mountains, which made the citizens of the royal city even less willing to head toward the Great Monastery.
 
 And once the Orc Wars ended, Jace set off for Stormwind. Given the magic he was studying, the rather controversial reputation he'd accumulated along the way, and the attitude of Lordaeron's upper and lower classes toward him, Jace had thought he'd never visit this place in his lifetime. But it turned out fate — or something else — was dragging him toward that peninsula after all.
 
-Traveling from Brill to the Great Monastery was a difficult, lengthy journey for pilgrims. Even though they hadn't yet left the Tirisfal region, the Kingdom of Lordaeron was vast — the distance was comparable to going from Goldshire to Moonbrook. And they had to cross Venomspider Gorge along the way. Yes, that's the actual name.
+Traveling from Brill to the Great Monastery was a difficult, lengthy journey for pilgrims. Even though they hadn't yet left the Tirisfal region, the Kingdom of Lordaeron was vast — the distance was comparable to going from Goldshire to Moonbrook. And they had to cross Venomweb Vale along the way. Yes, that's the actual name.
 
-Many people thought Venomspider Gorge got its name only after Lordaeron fell, when the Scourge and the Forsaken corrupted the forest into a land of the dead, and terrifying venom spiders took over the gorge. But in reality, the gorge had been called that for a very, very long time.
+Many people thought Venomweb Vale got its name only after Lordaeron fell, when the Scourge and the Forsaken corrupted the forest into a land of the dead, and terrifying venom spiders took over the vale. But in reality, the vale had been called that for a very, very long time.
 
-After the Forsaken and Scourge remnants took over Lordaeron, the venom spiders in the gorge just became more brazen. This was also the main reason Henni and Victor had never considered taking young Jace on a pilgrimage to the Great Monastery.
+After the Forsaken and Scourge remnants took over Lordaeron, the venom spiders in the vale just became more brazen. This was also the main reason Henny and Victor had never considered taking young Jace on a pilgrimage to the Great Monastery.
 
-Of course, for Jace Sesso and his motley crew, the venom spiders crawling through the gorge were hardly a problem. Sora and Needleflame used Vereesa's earrings to conceal themselves and flew straight over the gorge toward the high mountains. When they passed a clear lake shaped like a silver ring, the distant silhouette of Tirisfal's northern peaks came into view.
+Of course, for Jace Sesso and his motley crew, the venom spiders crawling through the vale were hardly a problem. Sola and Needleflame used Ysera's earring to conceal themselves and flew straight over the vale toward the high mountains. When they passed a clear lake shaped like a silver ring, the distant silhouette of Tirisfal's northern peaks came into view.
 
 The group stopped to rest in a small town at the foot of the mountain. The town was called Barimand. His mother had mentioned that in the ancient Tirisfal tongue, it meant "a step away" — meaning the Great Monastery was just a few steps away. For pilgrims, the goal was right ahead.
 

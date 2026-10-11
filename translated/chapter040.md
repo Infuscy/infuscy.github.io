@@ -1,12 +1,12 @@
 ## Chapter 40: A Night Walk in the Woods
 
-The warrant said the farm lay a few miles east of Goldshire. By the time they arrived, it was already evening.
+The contract said the farm lay a few miles east of Goldshire. By the time they arrived, it was already evening.
 
 The farm owner's name was Stormill. Jace didn't remember a farm by that name on any map, but since "Stormill" meant "vast lake" in Common, most people called this place Lakeview Farm.
 
 Even though there wasn't anything remotely lake-like anywhere nearby — even the closest river was seven or eight miles south.
 
-To deal with the wolves, Jace had brought that orcish rod along, because when facing beasts an inch longer meant an inch stronger. These wolves weren't wargs — probably couldn't take more than a few hits — and using an axe would've been way too unwieldy.
+To deal with the wolves, Jace had brought that orcish rod along, because when facing beasts, reach was everything. These wolves weren't worgs — probably couldn't take more than a few hits — and using an axe would've been way too unwieldy.
 
 Still, to keep anyone knowledgeable from recognizing it, he'd wrapped it tightly in cloth so the color and material underneath didn't show.
 
@@ -14,7 +14,7 @@ The dwarf was carrying a sword in one hand and had a bow slung across his back �
 
 Lakeview Farm wasn't much of a farm, despite the grand-sounding name. By the look of it, it was less impressive than the farm the two of them had snuck into back in Duskwood. Even the mill and the grain storehouse had a bit of a humble, shoestring feel.
 
-Jace sized up the farm's scale and got the illusion that he could've single-handedly put up every building and fence on the property except the house.
+Jace sized up the farm's scale and got the impression that he could've single-handedly put up every building and fence on the property except the house.
 
 "Hey — anyone here?" the dwarf bellowed at the farm.
 
@@ -62,23 +62,23 @@ She didn't say anything — just stared blankly. Jace had the feeling she might 
 
 That was probably his mother, or his wife's mother.
 
-This man was supporting two women and a child on this farm. Running into a wolf raid in the middle of the night was genuinely helpless. If his child had been carried off, of course he didn't dare chase too far.
+This man was supporting two women and a child on this farm. A wolf raid in the middle of the night would have left him genuinely helpless. If his child had been carried off, of course he didn't dare chase too far.
 
 If he went too far and the wolves circled back, his whole family could really be wiped out.
 
 In a situation like that, how could you expect a confused old woman and a young woman who'd just given birth to stand against a pack of wolves?
 
-"My name isn't Stormill," the man said quietly. "This is my wife's family farm. She's a Stormill. My name is Matt — Matt Fullere."
+"My name isn't Stormill," the man said quietly. "This is my wife's family farm. She's a Stormill. My name is Matt — Matt Forayre."
 
 He picked the pitchfork up off the ground again. "I'll take this pitchfork and go with you. We'll kill every last one of those wolves. Kill them all — revenge for my child."
 
-"We've already been paid, Mr. Fullere," Jace said, clapping him on the shoulder. "If you come along, you don't expect us to split the bounty with you too, do you? That's not happening. You stay home, keep your family safe. If we find the wolves, we'll deal with them for you."
+"We've already been paid, Mr. Forayre," Jace said, clapping him on the shoulder. "If you come along, you don't expect us to split the bounty with you too, do you? That's not happening. You stay home, keep your family safe. If we find the wolves, we'll deal with them for you."
 
 This man's mind was muddled with rage by now. Bringing him along would probably only cause more trouble — they'd have to figure out how to keep him from getting hurt on top of everything else.
 
-Fullere stood there stunned for a moment, not knowing what to say.
+Forayre stood there stunned for a moment, not knowing what to say.
 
-In the end, he said quietly, "If you find my child… or… remains, or any belongings — please bring them back for me. I'll pay you more. I don't have much on me right now — maybe two silver. I know that's nothing to mercenaries like you, but I sincerely hope — anything at all, even just his clothes… at least give my wife some kind of closure."
+In the end, he said quietly, "If you find my child… or… remains, or any belongings — please bring them back for me. I'll pay you more. I don't have much on me right now — maybe two silver. I know that's nothing to mercenaries like you, but I sincerely hope — anything at all, even just her clothes… at least give my wife some kind of closure."
 
 Jace said, "Two silver's not nothing. Whatever the outcome, you pull yourself together."
 
@@ -151,14 +151,3 @@ Jace gathered dry branches and sticks for fuel while Grede cleared the ground, s
 "Is the air too damp?"
 
 Jace had just turned around when he saw, ten to twenty meters behind Grede, in the underbrush — pairs of gleaming eyes staring right at them.
-
-## Flags
-
-- **斯托米尔 → Stormill**: Farm owner's family name (meaning "vast lake" in Common). Not in glossary — transliteration tentative, flagged for verification.
-- **巨湖农场 → Lakeview Farm**: The farm's colloquial name. The glossary lists 巨湖农场 as "Lakeview Farm (near Goldshire)" — but the text places this farm east of Goldshire in Elwynn, which conflicts with the glossary's "near Goldshire" note. Translated per glossary but flagged — possible inconsistency between the glossary entry and the actual location described here.
-- **马特·福莱尔 → Matt Fullere**: The farmer's real name. Not in glossary — transliteration tentative, flagged for verification.
-- **令状 → warrant**: Per glossary (令状 = Warrant). Used here for the bounty notice.
-- **火绒 → tinder**: Fire-starting material. Not in glossary.
-- **"两眼一抹黑" → "blind as a bat"**: Idiom meaning total inability to see / complete ignorance of the situation. Rendered idiomatically.
-- **"量力而行" → "know your limits"**: Idiom rendered by meaning.
-- **"送你去见你祖宗" → "send you to your ancestors"**: Grede's threat. Kept close to the original phrasing — it's a natural English threat too.

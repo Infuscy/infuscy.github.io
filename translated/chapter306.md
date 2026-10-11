@@ -14,7 +14,9 @@ The strange patterns on the pillars behind him, the reliefs on the walls — whe
 
 "So get some rest. I'll keep watch."
 
-"You couldn't make me sleep even if you tried." Vereesa stared straight ahead at the wall. "The moment I close my eyes I see that wraith — and you, Jace. You might not like hearing this, but while his spirit was tormenting you, you looked even more terrifying than Teron Gorefiend." Jace looked at her, unable to imagine how much terror she must have endured, sitting beside a body that had been possessed by a demonic spirit for hours — maybe ten hours or more.
+"You couldn't make me sleep even if you tried." Vereesa stared straight ahead at the wall. "The moment I close my eyes I see that wraith — and you, Jace. You might not like hearing this, but while his spirit was tormenting you, you looked even more terrifying than Teron Gorefiend."
+
+Jace looked at her, unable to imagine how much terror she must have endured, sitting beside a body that had been possessed by a demonic spirit for hours — maybe ten hours or more.
 
 If he had been in her position, he might have chosen to stab the man through with a blade, just to prevent Teron Gorefiend from taking his body — to permanently end any possibility of him rising again.
 
@@ -36,13 +38,13 @@ So he could only improvise as best he could.
 
 Truth be told, Jace had expected their initial ambush to cripple him outright. After all, in the game, stripped of his body he'd been nothing but a seemingly powerless orc spirit who had to trick people into gathering his relics from life in order to be reborn.
 
-He hadn't expected him to unleash such fel power in his rage.
+He hadn't expected him to unleash such fearsome power in his rage.
 
 "That staff." Vereesa glanced behind her. "The black one kept glowing — it didn't go out until shortly before you woke up."
 
 Jace turned to look at the staff mounted on the wall. He touched his back and realized that his own staff had been taken off at some point without him noticing.
 
-Actually, even his shirt had been changed. Come to think of it, that made sense — he'd been lying there vomiting necromantic residue for ages. His shirt must have been ruined, and leaving it stuck to his skin would have rotted the flesh.
+Actually, even his shirt had been changed. Come to think of it, that made sense — he'd been lying there vomiting up corpse-water for ages. His shirt must have been ruined, and leaving it stuck to his skin would have rotted the flesh.
 
 "You couldn't lie properly with a staff on your back," Vereesa said. "So I had to take it off you — and that's when I noticed the gem on that staff. That's the gem from Teron Gorefiend's staff, isn't it? I remember it clearly."
 
@@ -85,15 +87,3 @@ A death knight's combat strength with a body versus without were on completely d
 If Jace hadn't seen through him, the consequences would have been unthinkable.
 
 "Almost got played for a fool," Jace sighed.
-
-## Flags
-
-- **温蕾萨** rendered as **Vereesa Windrunner** — the third Windrunner sister in canon (Chinese uses 温蕾萨, not the more common 薇瑞萨; kept distinct).
-- **塔隆·血魔** = Teron Gorefiend (glossary).
-- **血魔之握** = Gorefiend's Grasp — canonical WoW ability (mass-pull). Jace's internal game-mechanic reference preserved.
-- **安度因·洛萨** = Anduin Lothar (canonical Grand Marshal of the Alliance).
-- **黑铁矮人** = Dark Iron dwarves (canonical subrace).
-- **死灵腐质** = necromantic residue (informal term for the black sludge Jace vomits; distinct from 死灵腐毒 / Necrotic Poison in the glossary).
-- **影月谷** = Shadowmoon Valley (canonical).
-- **埋尸坑** = mass grave (informal; refers to the burial pits near the Dark Portal battlefield).
-- POV: third person throughout. Original Chinese is first-person; translated per style guide.

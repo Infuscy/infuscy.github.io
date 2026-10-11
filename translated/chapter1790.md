@@ -16,7 +16,7 @@ After going up the steps, they entered a dark hall lit only by torches and brazi
 
 Just then, two priests in gray-white robes walked out from behind the pillar. Seeing their group of "pilgrims," they smiled and nodded politely. Grede cleared his throat and shut up.
 
-But neither they, nor the other priests and a paladin of the Silver Hand who'd passed by earlier, noticed the crystallized beholder eye in Khadgar's pack. Still, Jace could tell — Khadgar had never been worried about normal detection methods catching them. What concerned him most was always that inexplicable "guidance of the Light" that outsiders couldn't understand.
+But neither they, nor the other priests and a paladin of the Silver Hand who'd passed by earlier, noticed the crystallized observer eye in Khadgar's pack. Still, Jace could tell — Khadgar had never been worried about normal detection methods catching them. What concerned him most was always that inexplicable "guidance of the Light" that outsiders couldn't understand.
 
 Still, as they followed the pilgrims forward, nothing unexpected happened. No battle mages suddenly surrounded them, no Holy Light judgment came crashing down from above. They just walked through the narrow, gloomy corridors, exchanging "Light be with you" with passing priests and travelers now and then. Nothing else happened.
 
@@ -52,15 +52,15 @@ The elf lowered her voice. "They're red. Really red. Like — "
 
 "Nothing. Let's keep moving," Jace said.
 
-Vereesa watched him a bit longer, still uneasy, before turning to follow Sora and Needleflame.
+Vereesa watched him a bit longer, still uneasy, before turning to follow Sola and Needleflame.
 
-Luckily, the pain subsided quickly and didn't last long. But even at Prince Arthas Menethil's coronation, his reaction hadn't been this strong — and back then, the Light was *summoned* to descend. This time, Jace hadn't even seen any glow.
+Luckily, the pain subsided quickly and didn't last long. But even at Prince Arthas Menethil's coming-of-age ceremony, his reaction hadn't been this strong — and back then, the Light was *summoned* to descend. This time, Jace hadn't even seen any glow.
 
-He quietly pulled out the symbol of Tyr's protection and looked at it. If the Light had really sensed his intrusion just now, he hoped it would help him — find that demon hiding in this monastery — instead of targeting them.
+He quietly pulled out the Sigil of Tyr's Guardian and looked at it. If the Light had really sensed his intrusion just now, he hoped it would help him — find that demon hiding in this monastery — instead of targeting them.
 
-He didn't know if his silent prayer had been heard by the Light. Of course, he'd never really expected any result. But after tucking the symbol of protection back into his chest, at least the anxiety and worry from that sudden pain had eased. Whether it was from the Light or just natural, he couldn't say.
+He didn't know if his silent prayer had been heard by the Light. Of course, he'd never really expected any result. But after tucking the sigil back against his chest, at least the anxiety and worry from that sudden pain had eased. Whether it was from the Light or just natural, he couldn't say.
 
-He was getting closer and closer to shadow now. Maybe it was the *Book of Unholy Names*' influence, or Uzallus, or the immense power from those devoured souls, or the repeated Life Taps. Maybe all of it together.
+He was getting closer and closer to shadow now. Maybe it was the *Book of Fel Names*' influence, or Ulthalesh, or the immense power from those devoured souls, or the repeated Life Taps. Maybe all of it together.
 
 He hoped these powers would help him destroy these demons — including Tichondrius the dreadlord leader — stop Kil'jaeden's plan, and prevent the Scourge apocalypse.
 
@@ -80,7 +80,7 @@ In the game, High Priest Fairbanks was locked in a secret cell in a corner of th
 
 Of course, High Priest Fairbanks was still an advisor to King Terenas now. The Silver Hand hadn't yet become extreme due to the Scourge invasion and Lordaeron's fall, had not yet splintered into the Scarlet Crusade under demonic influence. Meeting him shouldn't be that hard.
 
-But Jace's group didn't have all night to rest. Khadgar was worried the beholder's eye might give them away at any moment, and Jace growing more uncomfortable staying in the church. They had to move tonight.
+But Jace's group didn't have all night to rest. Khadgar was worried the observer's eye might give them away at any moment, and Jace was growing more uncomfortable staying in the church. They had to move tonight.
 
 "Good evening, brother," Jace said to a priest answering pilgrims' questions. "May I ask if the esteemed High Priest Fairbanks is here?"
 

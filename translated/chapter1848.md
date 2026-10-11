@@ -6,15 +6,15 @@ Flocks of doomguards descended to block his path. But they couldn't withstand hi
 
 In his peripheral vision, he caught a doomguard landing on that tower, slipping through the broken wall. There must still be living resistance inside.
 
-His instinct was right. Solara was there. Her presence. Her soul hadn't left yet.
+His instinct was right. Sola was there. Her presence. Her soul hadn't left yet.
 
-Or maybe you're just clinging to a tower you shouldn't still care about, Jace Sesso.
+*Or maybe you're just clinging to a tower you shouldn't still care about, Jace Sesso.*
 
-Because you're a coward who only knows how to yearn for the past, to crave peace, who never dares to change anything. You always want to go back — back to the days when you'd stare out that window at this tower, letting this city's high walls protect you forever.
+*Because you're a coward who only knows how to yearn for the past, to crave peace, who never dares to change anything. You always want to go back — back to the days when you'd stare out that window at this tower, letting this city's high walls protect you forever.*
 
-But you know that's never coming back. Even if you go back to that tower.
+*But you know that's never coming back. Even if you go back to that tower.*
 
-Admit it, loser. You won't find anything there. It's just an illusion — an excuse to run from everything.
+*Admit it, loser. You won't find anything there. It's just an illusion — an excuse to run from everything.*
 
 More and more demons. They poured from alley mouths, gathered from across the street, dropped from the sky, blocking the warlock's path. The blood-red had faded, but the flames in these mad demons' eyes, the hellfire on their long blades, burned ever brighter.
 
@@ -32,51 +32,51 @@ Outside, countless demon roars grew ever more frenzied. But it didn't matter any
 
 Walking up, Jace suddenly caught sight of a weak green form slumped on the steps.
 
-"Solara!"
+"Sola!"
 
 He ran to her, catching her up. Her clothes were soaked with tears and bloodstains. Some was demon blood. Some was her own.
 
 She was still alive.
 
-Jace pulled out the Sunwell water flask, uncorked it, and poured it into Solara's mouth. It helped — a little. But not as much as he'd hoped.
+Jace pulled out the Sunwell water flask, uncorked it, and poured it into Sola's mouth. It helped — a little. But not as much as he'd hoped.
 
-The darkness drowning the city was enough to gradually corrode even the arcane energy flowing from it. The magic that had brought Solara to death's door wasn't so simple either.
+The darkness drowning the city was enough to gradually corrode even the arcane energy flowing from it. The magic that had brought Sola to death's door wasn't so simple either.
 
 Demonic curses and shrieks came from below the stairs. Outside, more and more demons were pounding the tower's walls. It wouldn't hold much longer. He had to get her back to the Undercity entrance — as fast as possible.
 
-Morofil. He'd summon Morofil, have her carry Solara away. These demons couldn't stop her.
+Morophil. He'd summon Morophil, have her carry Sola away. These demons couldn't stop her.
 
-Jace drew Veridian's Song and sliced his wrist. Black blood ran down his arm. He caught it in his hand and ignited it. But no matter how he chanted the summoning, he couldn't reach into the Twisting Nether.
+Jace drew Azuresong and sliced his wrist. Black blood ran down his arm. He caught it in his hand and ignited it. But no matter how he chanted the summoning, he couldn't reach into the Twisting Nether.
 
-In desperation, he drank a Destruction Potion. A pain like his soul being torn apart flooded his mind. But now, he could barely even feel the soul-link. He cut another wound, drew more blood, inscribed the circle, ignited it. Still nothing.
+In desperation, he drank a Destruction Potion. A pain like his soul being torn apart flooded his mind. But now, he could barely even feel the Soul Link. He cut another wound, drew more blood, inscribed the circle, ignited it. Still nothing.
 
 If a Burning Legion leader had personally descended, what summoning could succeed in his presence? What demonic command could he invoke? What power could reach past him into the Twisting Nether?
 
 "Jace..."
 
-"Solara? You're awake?"
+"Sola? You're awake?"
 
 "You're hurt, Jace. Let me..."
 
-Jace's eyes trembled. His whole body shook. He parted his lips slightly. I'm fine, Solara.
+Jace's eyes trembled. His whole body shook. He parted his lips slightly. *I'm fine, Sola.*
 
-Soon I'll take you out of here. I'll protect everyone. Get them all out. Turalyon, Sylvanas, Needle Flame, Grede, Vereesa — all of you. Everyone still alive. Everyone...
+*Soon I'll take you out of here. I'll protect everyone. Get them all out. Turalyon, Sylvanas, Needleflame, Grede, Vereesa — all of you. Everyone still alive. Everyone...*
 
-The warlord draped his dragon-leather cloak over the green dragon, then turned and climbed higher.
+The warlock draped his dragonhide cloak over the green dragon, then turned and climbed higher.
 
 The tower swayed slightly. Tremors came from outside, one after another. The warlock climbed higher and higher, expression blank, until he reached the top.
 
-The foul fel wind howled, whipping his disheveled dark brown hair and black robe. The burning royal city lay sprawled beneath him. Under rolling black smoke, demons poured over the walls like black ants. Pit lords laughed as they smashed through walls. Infernals fell like rain. Green burning giants rampaged and trampled. In the sky, nothing remained but the flapping wings of Eredar.
+The foul fel wind howled, whipping his disheveled dark brown hair and black robe. The burning royal city lay sprawled beneath him. Under rolling black smoke, demons poured over the walls like black ants. Pit lords laughed as they smashed through walls. Infernals fell like rain. Green burning giants rampaged and trampled. In the sky, nothing remained but the flapping wings of Ered'ruin.
 
-Look. Down there. Isn't it... like a well?
+*Look. Down there. Isn't it... like a well?*
 
-Jace smiled as he raised Usaalas. He squinted, rolled up his sleeve, baring his nearly bloodless arm. He extended his skeletal fingers, crawling with shadow-veins, and lowered them slowly, pointing down at the base of the tower.
+Jace smiled as he raised Ulthalesh. He squinted, rolled up his sleeve, baring his nearly bloodless arm. He extended his skeletal fingers, crawling with shadow-veins, and lowered them slowly, pointing down at the base of the tower.
 
 The fel wind died. The green fires burning through the city struggled and guttered, as if the air had been cut off. The light dimmed, the streets below growing harder and harder to make out — as if something had blocked the glow.
 
 The demons finally sensed something wrong. They tried to flee. But the surging darkness swallowed everything that moved. Cold purple-red, like waves on a dark ocean, tore through every fel-infused body. Even their screams of agony had no time to escape.
 
-As far as Tirisfal Woods, the pine trees along the shore of Lake Lordamere withered and fell. The earth grew gray and dead. The air turned dim and cold...
+As far as Tirisfal Glades, the pine trees along the shore of Lordamere Lake withered and fell. The earth grew gray and dead. The air turned dim and cold...
 
 "We need to get out of here now, Grede Thunderfist. You're an unbeaten warrior, but even you can't help these humans!"
 
@@ -98,13 +98,13 @@ The torchlight in the Undercity was growing dimmer. The people huddled here star
 
 Sylvanas stared at Turalyon. The paladin said nothing. He just held up his holy text and prayed.
 
-"The soul-link is gone," Morofil said quietly.
+"The Soul Link is gone," Morophil said quietly.
 
-"You severed it now?" Sazeno hissed in demonic. "Finally decided to betray our master?"
+"You severed it now?" Sazeno hissed in Demonic. "Finally decided to betray our master?"
 
-"I didn't sever it," Morofil said.
+"I didn't sever it," Morophil said.
 
-"I'm going back." Needle Flame wiped the corner of her eye and suddenly started back the way they'd come. Morofil grabbed her and hauled her back.
+"I'm going back." Needleflame wiped the corner of her eye and suddenly started back the way they'd come. Morophil grabbed her and hauled her back.
 
 "Master ordered you to stay here, little one..."
 

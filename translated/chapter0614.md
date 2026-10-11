@@ -10,47 +10,47 @@ The night elves ferried the three of them to the beach in a small boat, then sai
 
 They followed the coast north for roughly three days and two nights back to Steamwheedle Port, and found an inn room to rest properly that evening.
 
-Jace spent a small fortune — ten silver apiece — at the trade post buying several wide kodo-hide scrolls for his copying. He had to make sure the transcribed text would be properly preserved, not ruined by moisture or jostling along the road.
+Jace spent a small fortune — ten silver apiece — at the trading post buying several wide kodo-hide scrolls for his copying. He had to make sure the transcribed text would be properly preserved, not ruined by moisture or jostling along the road.
 
 When he returned to the room, he found Morophil sitting on the table watching him. Grede and Vereesa were already asleep in their beds, which left only the floor for him.
 
 The great ship from the eastern continent wouldn't arrive for another week or so. In the meantime, the three of them, their mission complete, enjoyed a proper beach holiday.
 
-In the daytime they lounged on the sand sunbathing alongside the goblins. In the evening they ate local desert delicacies, and occasionally splurged on expensive specialty foods shipped in from the Kalimor interior — Mulgore talbuk meat, Barrens wind serpent meat, all kinds of sweet potatoes, and the famous Talabela Island bananas, plus the Angoroshan berry sweet soup whose fragrance you could smell from outside the shop.
+In the daytime they lounged on the sand sunbathing alongside the goblins. In the evening they ate local desert delicacies, and occasionally splurged on expensive specialty foods shipped in from the Kalimdor interior — Mulgore talbuk meat, Barrens wind serpent meat, all kinds of sweet potatoes, and the famous Tel'Abim bananas, plus the Un'Goro berry sweet soup whose fragrance you could smell from outside the shop.
 
 Though the prices were steep, most of it hovered in the range of a few to a few dozen silver. For Jace and Grede, who were about to return to another continent and collect their tens or even hundreds of gold, missing the chance to enjoy exotic cuisine over such a sum simply wasn't worth it.
 
 Besides, after such a long and grueling journey, how could they not treat themselves properly?
 
-If you were willing to pay, you could even eat centaur meat — though all three of them, having had dealings with centaur, had zero interest in trying it. Jace, however, did finally figure out what that wide, dark-brown hide rug in the trade post had been made of. When he'd first seen that strange six-legged pelt he'd wondered for ages what bizarre furry mammal had six legs…
+If you were willing to pay, you could even eat centaur meat — though all three of them, having had dealings with centaur, had zero interest in trying it. Jace, however, did finally figure out what that wide, dark-brown hide rug in the trading post had been made of. When he'd first seen that strange six-legged pelt he'd wondered for ages what bizarre furry mammal had six legs…
 
-Of course, happy days always came to an end. When the great ship from the eastern continent, the *Crush the Maelstrom*, pulled into Steamwheedle Port, the three of them knew the moment to leave Kalimor had finally come.
+Of course, happy days always came to an end. When the great ship from the eastern continent, the *Crush the Maelstrom*, pulled into Steamwheedle Port, the three of them knew the moment to leave Kalimdor had finally come.
 
 After boarding the ship, looking back at that golden continent, Jace felt completely different from when he'd arrived. It was no longer an unfamiliar, unknown, danger-filled foreign land — it was an ancient place, full of passion, blood, and sweat.
 
 The experiences along the way hadn't felt like one-by-one confirmations of what he'd learned about this world from the game. They felt more like slowly shattering the stereotypes the game had stamped onto his mind.
 
-Actually, for the roughly twenty years he'd been alive, every single day had been like this — and not just Kalimor.
+Actually, for the roughly twenty years he'd been alive, every single day had been like this — and not just Kalimdor.
 
 Over a month later, the *Crush the Maelstrom* reached Booty Bay. When they stepped off the ship, the three of them looked each other up and down, then looked at the pirates, sailors, goblin merchants, travelers, and locals around them. They felt like a band of vagrants who'd just survived a shipwreck and then trekked for God knows how many days before finally reaching the civilized world.
 
-In Kalimor, practically everyone had been a wreck, so they'd thought they looked pretty normal.
+In Kalimdor, practically everyone had been a wreck, so they'd thought they looked pretty normal.
 
-They took off their dirty clothes and combat gear, gave themselves a proper wash, changed into plain clothes, and sat for a while in the Sailor's Home inn.
+They took off their dirty clothes and combat gear, gave themselves a proper wash, changed into plain clothes, and sat for a while in the Salty Sailor Tavern.
 
-Unsurprisingly, the Sailor's Home still had no rooms available. Vereesa and Grede planned to ask at the Reliquary's Booty Bay outpost. Jace went to see the goblin collector Pokodiaz, to report everything they'd found concerning Dasmora on Kalimor, and to return the Eldre'Thalas dagger to him.
+Unsurprisingly, the Salty Sailor Tavern still had no rooms available. Vereesa and Grede planned to ask at the Reliquary's Booty Bay outpost. Jace went to see the goblin collector Pokodiaz, to report everything they'd found concerning Dasmora on Kalimdor, and to return the Eldre'Thalas dagger to him.
 
 Walking along this familiar shore, stepping on the soft sand, Jace felt as though he were still back in Steamwheedle Port.
 
-But the dense green shadow of the Stranglethorn jungle in the distance reminded him at every moment that this was already the eastern continent, and Kalimor was "another world" now.
+But the dense green shadow of the Stranglethorn jungle in the distance reminded him at every moment that this was already the eastern continent, and Kalimdor was "another world" now.
 
 "Lost, are ya?" a goblin guard asked. "That's no place for you to be going, human. If you've got a temper to work off, go have a drink and find a girl in Booty Bay. Don't come here looking for trouble — you'll lose your life!"
 
-"I'm here to see Pokodiaz," Jace said. "Tell him the warlock Slovakya has brought back intelligence from Kalimor regarding Dasmora Darkeye and her Eldre'Thalas ritual dagger."
+"I'm here to see Pokodiaz," Jace said. "Tell him the warlock Slovakia has brought back intelligence from Kalimdor regarding Dasmora Darkeye and her Eldre'Thalas ritual dagger."
 
 "Hold on, hold on," the goblin said. "What Dasmora-whatsit… wait a second."
 
-"Tell him Slovakya has returned with his dagger," Jace said. "He'll see me."
+"Tell him Slovakia has returned with his dagger," Jace said. "He'll see me."
 
 "Fine."
 
@@ -58,15 +58,15 @@ The goblin turned away, half believing him, and conferred with several goblins b
 
 After what felt like ages — long enough that the sky was already growing dark — the little boat finally rowed back at a leisurely pace. A goblin merchant dressed in fine clothes jumped straight out of it, and it was Pokodiaz himself.
 
-"Hey! Warlock! Mister Slovakya — you're actually alive?!"
+"Hey! Warlock! Mr. Slovakia — you're actually alive?!"
 
 The goblin shouted as he ran through the seawater all the way up to Jace, flung his coat aside, and thrust out his hand. "Pokodiaz — you'd better remember my name. Goblin names aren't as hard to remember as you'd think."
 
-Jace shook his hand, glanced at the goblin guard who'd picked up Pokodiaz's coat, then took out the Eldre'Thalas dagger wrapped in elven cloth and said, "My companions and I found Dasmora Darkeye on Kalimor."
+Jace shook his hand, glanced at the goblin guard who'd picked up Pokodiaz's coat, then took out the Eldre'Thalas dagger wrapped in elven cloth and said, "My companions and I found Dasmora Darkeye on Kalimdor."
 
 "You found Dasmora herself?" Pokodiaz didn't even reach for the dagger. His eyes went wide. "How is that possible? I sent so many mages and they only managed to…"
 
-He broke off mid-sentence, his expression suddenly shifting. He leaned in close and said in a low voice, "But then again, you are a professional, aren't you, Mister Sesso?"
+He broke off mid-sentence, his expression suddenly shifting. He leaned in close and said in a low voice, "But then again, you are a professional, aren't you, Mr. Sesso?"
 
 Jace wasn't surprised that the man had figured out exactly who he was. A wealthy man this obsessed with dark magic had eyes and ears on both continents. Staying off his radar wouldn't be easy — and besides, Jace hadn't gone out of his way to hide his identity, he just kept a low profile in public.
 
@@ -78,10 +78,10 @@ Jace had to admit this collector knew quite a bit. Strictly speaking, there was 
 
 Jace gave Pokodiaz a rough account of the situation inside Eldre'Thalas and the satyrs in Maraudon. The goblin collector grew more and more excited as he listened, finally muttering to himself, "It seems that hidden things in that elven ancient city are far more numerous than I imagined. I should spend more money hiring people to go in and investigate. I heard the ogres are planning to attack that city — is that true?"
 
-"The Gordunni ogres have already broken through the outer defenses of that city. If they hadn't, we wouldn't have been able to slip in and gather intelligence, Mister Pokodiaz," Jace said.
+"The Gordunni ogres have already broken through the outer defenses of that city. If they hadn't, we wouldn't have been able to slip in and gather intelligence, Mr. Pokodiaz," Jace said.
 
-The goblin nodded. "We should act now — no, we should have acted long ago. Damn it, I can't wait any longer… This dagger has already served its purpose fully, Mister Sesso. Once again, it proves my eye for talent."
+The goblin nodded. "We should act now — no, we should have acted long ago. Damn it, I can't wait any longer… This dagger has already served its purpose fully, Mr. Sesso. Once again, it proves my eye for talent."
 
 Jace had been planning to casually ask him about the eredar necromancer, but the words reached his lips and, seeing Pokodiaz still riding high on excitement, he swallowed them again.
 
-Regarding the matter of the Ursolus blade, the fewer people who knew about it before he was truly powerful enough to pursue it, the better. Especially a goblin collector like this — if Pokodiaz learned he had a lead on it, that would hardly be a good thing.
+Regarding the matter of the scythe Ulthalesh, the fewer people who knew about it before he was truly powerful enough to pursue it, the better. Especially a goblin collector like this — if Pokodiaz learned he had a lead on it, that would hardly be a good thing.

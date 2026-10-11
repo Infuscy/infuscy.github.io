@@ -1,28 +1,28 @@
 ## Chapter 1661: Definitely Didn't Break Any Rules
 
-"Give Sora the Curse of Recklessness?"
+"Give Sola the Curse of Recklessness?"
 
-Morofil questioned it verbally but did not hesitate. She moved her lips, took aim at Sora — who could barely keep her eyes open, leaning on her staff — and flicked her finger. The green dragon's pale face slowly flushed. Her arms and legs began to tremble.
+Morophil questioned it verbally but did not hesitate. She moved her lips, took aim at Sola — who could barely keep her eyes open, leaning on her staff — and flicked her finger. The green dragon's pale face slowly flushed. Her arms and legs began to tremble.
 
-Sora's eyes snapped open, growing brighter and brighter with moonlight. Then her human form gave way entirely. A tail flipped out from under her robe. Scales and powerful muscle burst through her magically crafted clothing. Her golden hair became horns. Her wings unfurled behind her — and slammed hard into the ceiling!
+Sola's eyes snapped open, growing brighter and brighter with moonlight. Then her human form gave way entirely. A tail flipped out from under her robe. Scales and powerful muscle burst through her magically crafted clothing. Her golden hair became horns. Her wings unfurled behind her — and slammed hard into the ceiling!
 
-Sora's current size could barely fit in this cramped fortress chamber. But she had reverted to her true form. Whether Morofil's Curse of Recklessness was too strong, or Sora had no mental defense against Jace's manipulation — making the curse more potent than intended — her drowsiness was burned away by a surge of fury and frenzy.
+Sola's current size could barely fit in this cramped fortress chamber. But she had reverted to her true form. Whether Morophil's Curse of Recklessness was too strong, or Sola had no mental defense against Jace's manipulation — making the curse more potent than intended — her drowsiness was burned away by a surge of fury and frenzy.
 
-The normally calm and steady Sora even let out a maddened roar at the orcs and dragonkin before her. The black dragonkin actually trembled. One dragonkin guard turned to flee. The fury of a true dragon, even a juvenile one, brought overwhelming terror to even the mightiest dragon descendants.
+The normally calm and steady Sola even let out a maddened roar at the orcs and dragonkin before her. The black dragonkin actually trembled. One dragonkin guard turned to flee. The fury of a true dragon, even a juvenile one, brought overwhelming terror to even the mightiest dragon descendants.
 
 But the green dragon had not completely lost her senses. She mustered her strength and blew away the sand and dream mist with ease. The chromatic dragonkin, caught off guard by the sudden appearance of a green dragon, scrambled in confusion.
 
-They panic-cast spells, trying to blanket the green dragon in thicker sleeping mist. Sora grabbed one of them. Chromatic dragonkin had not inherited the black dragons' exceptional physical resilience from their creator Nefarian. Sora bit one's head off in a single chomp. The other dragonkin frantically cast Arcane Blasts, Frostbolts, and Fireballs, completely forgetting their original advantage.
+They panic-cast spells, trying to blanket the green dragon in thicker sleeping mist. Sola grabbed one of them. Chromatic dragonkin had not inherited the black dragons' exceptional physical resilience from their creator Nefarian. Sola bit one's head off in a single chomp. The other dragonkin frantically cast Arcane Blasts, Frostbolts, and Fireballs, completely forgetting their original advantage.
 
-But at Sora's current size, she could easily deflect spells of this magnitude with her wings. Once the sleeping mist was dealt with, the paladins and priests could use the Holy Light's blessing to dispel the lingering magical fog from each other, helping the other soldiers regain their spirit and counterattack. Without the sand and mist interference, the Farstriders could rain arrows into the enemy formation again.
+But at Sola's current size, she could easily deflect spells of this magnitude with her wings. Once the sleeping mist was dealt with, the paladins and priests could use the Holy Light's blessing to dispel the lingering magical fog from each other, helping the other soldiers regain their spirit and counterattack. Without the sand and mist interference, the Farstriders could rain arrows into the enemy formation again.
 
-The chromatic dragonkin — whether from fear or rage at having their spells dispelled — chose to focus their attacks on the cramped green dragon. It was a stupid decision. Jace could hear the orc commanders behind them cursing these precious experiments in orcish. But it did not change anything.
+The chromatic dragonkin — whether from fear or rage at having their spells dispelled — chose to focus their attacks on the cramped green dragon. It was a stupid decision. Jace could hear the orc commanders behind them cursing these precious experiments in Orcish. But it did not change anything.
 
 Jace remembered it was similar in the game. All chromatic dragons seemed to have something wrong with their minds. Even the ones considered the most "successful" experiments were the same. They had immense power and the special abilities of other dragon flights, but they acted like simple beasts. It seemed even the chromatic dragonkin were not much better.
 
-Sora disposed of three or four chromatic dragonkin and their orc guards easily with her claws and teeth, without even using acid breath or poison mist. But when she went for the next target, she charged straight into a gap between a dwarf stone pillar and the wall and got stuck. Several crossbow bolts hit her — though none could pierce her scales.
+Sola disposed of three or four chromatic dragonkin and their orc guards easily with her claws and teeth, without even using acid breath or poison mist. But when she went for the next target, she charged straight into a gap between a dwarf stone pillar and the wall and got stuck. Several crossbow bolts hit her — though none could pierce her scales.
 
-But Sora could not break free. The Curse of Recklessness had burned through its energy with her frenzy. Her claws scraped the stone, leaving scratch marks, and her head drooped. She seemed too exhausted to even transform back to escape.
+But Sola could not break free. The Curse of Recklessness had burned through its energy with her frenzy. Her claws scraped the stone, leaving scratch marks, and her head drooped. She seemed too exhausted to even transform back to escape.
 
 But the orcs were in a similar state. Jace saw the orcs still fighting at the front had lost the blood-red in their eyes. Their skin had turned back to gray-black. They were moving noticeably slower than before. The Bloodlust boost had passed. Now it was the Alliance's turn to counterattack.
 
@@ -30,13 +30,13 @@ Arcane magic was ineffective against the chromatic dragons, so the dwarves simpl
 
 Seeing Nefarian's "secret weapons" being defeated one after another, the orcs deeper in Blackrock Spire shouted again. Their tone was frantic — even tinged with fear.
 
-"Abandon the antechamber! Protect the Hall of the Blackhand!"
+"Abandon the antechamber! Protect the Hall of Blackhand!"
 
-"Hall of the Blackhand?" Danath Trollbane wiped the blood from his sword and chuckled. "If my orcish is as good as I think it is, then the Blackhand Warchief's two sons are definitely waiting for us in there."
+"Hall of Blackhand?" Danath Trollbane wiped the blood from his sword and chuckled. "If my Orcish is as good as I think it is, then Warchief Blackhand's two sons are definitely waiting for us in there."
 
 "One son, Trollbane!" Emperor Thaurissan kicked an orc to the ground and spat. "Maim is already dead at our hands. He's lost his precious chance to become a black dragon slave! You Alliance only have one orc chieftain's head left to take!"
 
-"The Hall of the Blackhand might not actually hold a Blackhand, everyone." Khadgar looked up. "If my judgment is correct, that orc's command came from higher up. If that was Rend Blackhand himself, we might still be far from him."
+"The Hall of Blackhand might not actually hold a Blackhand, everyone." Khadgar looked up. "If my judgment is correct, that orc's command came from higher up. If that was Rend Blackhand himself, we might still be far from him."
 
 "Unless Nefarian plans to help him escape, the only outcome for him is death in this tower. No matter how high he hides." Alleria said.
 
@@ -70,7 +70,7 @@ He remembered this monster. In the game, it was called "The Beast" — a servant
 
 It had been sealed inside Blackrock Spire as a heat source for the forges, driving it absolutely furious. The orcs had just broken its seal, ensuring it would fight every living thing in sight to the death.
 
-The dwarves had already seen how vicious these monsters were in Molten Core. Muradin Bronzebeard roared and charged to the front, ready to fight the core hound to the death. The Farstriders notched their arrows. Many soldiers hesitated, unsure whether to engage this lava monster in melee.
+The dwarves had already seen how vicious these monsters were in Molten Core. Muradin Bronzebeard roared and charged to the front, ready to fight the core hound to the death. The Farstriders nocked their arrows. Many soldiers hesitated, unsure whether to engage this lava monster in melee.
 
 The Mountain King leaped high, raising his axe — and swung at nothing.
 

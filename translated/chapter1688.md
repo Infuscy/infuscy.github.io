@@ -16,7 +16,7 @@ Dark Iron dwarf craftsmen had climbed to the top early, ready to dismantle the c
 
 The entire process was utterly silent, with barely even the sound of wind. Aside from the hum of arcane magic, there was only the faint rumble from deep within Blackrock Mountain.
 
-But whether it was because the Molten Core had collapsed, or because even the elements of earth and fire held respect for this human hero who had fought against the Orcs and the Burning Legion, even the mountain's rumbling sounded subdued and solemn -- not like the restless stirring of an abyss, but more like a silent prayer.
+But whether it was because the Molten Core had collapsed, or because even the elements of earth and fire held respect for this human hero who had fought against the orcs and the Burning Legion, even the mountain's rumbling sounded subdued and solemn -- not like the restless stirring of an abyss, but more like a silent prayer.
 
 This was the first time Jace had seen Anduin Lothar this close. Long before the Orc Wars, Lothar had already been a hero renowned across the Seven Kingdoms during the Gurubashi Troll Wars.
 
@@ -26,7 +26,7 @@ So even if he felt things a bit differently, he could still understand what ever
 
 In the legends, Lothar was a knight with white hair and beard, clad in the golden lion armor of the Kingdom of Stormwind, wrapped in the crimson cloak representing Arathi royal blood -- a godlike figure, as though the Holy Light itself had descended. But now, all that remained was a hunched, severely damaged, collapsed and twisted suit of armor, with scraps of cloth clinging to a gaunt skeleton.
 
-Rend Blackhand and Nefarian had never intended to discard his remains. Lothar's body hadn't severely decayed in the ten-plus years since his death, and Jace could still feel the power contained within those remains -- the will amplified by the Soul's Song, strong enough to resist Ursales. That was probably why Teron Gorefiend had been so determined to seize it from the Blackrock orcs and be reborn as the most powerful death knight in history.
+Rend Blackhand and Nefarian had never intended to discard his remains. Lothar's body hadn't severely decayed in the ten-plus years since his death, and Jace could still feel the power contained within those remains -- the will amplified by the Spirit's Song, strong enough to resist Ulthalesh. That was probably why Teron Gorefiend had been so determined to seize it from the Blackrock orcs and be reborn as the most powerful death knight in history.
 
 The mages laid Marshal Lothar on a blue blanket embroidered with the Stormwind lion crest. After they stepped back, the leaders of the Sons of Lothar couldn't help but approach.
 
@@ -58,7 +58,7 @@ Grede stared at the Sons of Lothar ahead as he spoke, then couldn't help but let
 
 "Way too much content," Jace said. "Find a bishop or one of your dwarven sages to recite it slowly. If I had to ramble on that long, I'd rather die first."
 
-Grede cursed in Dwarven. "Can't even agree to such a simple request. What can I even count on you for?"
+Grede cursed in Dwarvish. "Can't even agree to such a simple request. What can I even count on you for?"
 
 "More importantly." Jace watched Khadgar helping to arrange Lothar's clothing. "When that time comes, if I'm not dead yet, I'll probably be the most infamous warlock in the Seven Kingdoms -- not much better than Medivh. You think I'd even be allowed to attend your funeral?"
 
@@ -66,11 +66,11 @@ Grede cursed in Dwarven. "Can't even agree to such a simple request. What can I 
 
 Jace stared at him in shock. The dwarf chuckled and waved a hand. "Just kidding. Don't look so tense. But you really are worried about those disguised demons getting you thrown into the Violet Hold, aren't you?"
 
-He leaned in close to Jace's ear. "If that day really comes, I'll take Sulfuras, smash open the Violet Hold's gates, shatter those magical seals, and break you out. Trust me... it'll be a piece of cake! Then we'll get those two dragons to carry us to Kalimdor. That girl Sora's already been completely corrupted by you, and Needleflame's always been a little menace anyway. No one's gonna say no."
+He leaned in close to Jace's ear. "If that day really comes, I'll take Sulfuras, smash open the Violet Hold's gates, shatter those magical seals, and break you out. Trust me... it'll be a piece of cake! Then we'll get those two dragons to carry us to Kalimdor. That girl Sola's already been completely corrupted by you, and Needleflame's always been a little menace anyway. No one's gonna say no."
 
 Hearing this, Jace couldn't help but glance at the little black dragon perched up high. She was still solemnly imitating the paladins, paying her respects to Lothar's wrapped body.
 
-"I'm the thief who stole the Dwarven artifact Sulfuras. You're a Dalaran fugitive being fiercely protected by a crazy elven murder-"
+"I'm the thief who stole the dwarven artifact Sulfuras. You're a Dalaran fugitive being fiercely protected by a crazy elven murder-"
 
 "Wait, what? Crazy elven murderer?"
 

@@ -30,7 +30,9 @@ Katrana Prestor entered the door, handed her cloak to the maid beside her, then 
 
 Was she a young dragon in disguise? So she was so scared of him she couldn't even speak?
 
-"I wonder what I can do to help you, Lady Prestor," Jace said, shifting his gaze from the maid to the mistress. Katrana looked at the few people beside her. "I was hoping we could have a place to speak privately, Master Sesso."
+"I wonder what I can do to help you, Lady Prestor," Jace said, shifting his gaze from the maid to the mistress.
+
+Katrana looked at the few people beside her. "I was hoping we could have a place to speak privately, Master Sesso."
 
 "Then come upstairs with me," Jace said.
 
@@ -38,13 +40,13 @@ Katrana nodded and said to the soldiers behind her, "I appreciate you waiting he
 
 "Glad to be of service, my lady." The soldiers hurriedly responded.
 
-Jace watched Prestor's back, then glanced at the maid and the two soldiers. Taking advantage of the moment when no one's attention was on him, he casually glanced at his Mirror Stone Staff.
+Jace watched Prestor's back, then glanced at the maid and the two soldiers. Taking advantage of the moment when no one's attention was on him, he casually glanced at his Mirrorstone Staff.
 
 To his mild surprise, neither this Katrana Prestor nor anyone who'd come with her looked abnormal at all — there were simply no black dragon characteristics whatsoever.
 
 Of course, that couldn't completely rule out suspicion either.
 
-After all, Aessothegah's reflection in the mirrorstone was even more human than the mortal form he revealed, and Krasus could freely tidy up the flaws exposed by his soul.
+After all, Azuregos's reflection in the mirror stone was even more human than the mortal form he revealed, and Krasus could freely tidy up the flaws exposed by his soul.
 
 The Stonewatch soldiers were probably real — Jace even recognized one of them. Then what about this maid? Was she simply afraid because he was a warlock?
 
@@ -56,7 +58,9 @@ Arriving at the floor where the books were kept, Jace pointed to an old chair ne
 
 Katrana nodded, and after Jace sat down she sat down as well. Jace glanced at the empty teacup that had appeared at some point by her hand and said, "My apologies, my lady. The tea in the tower is all finished. I live here alone and don't really pay attention to these things."
 
-"That you're willing to see me is already something I'm grateful for, Master Sesso." Katrana smiled. "What?"
+"That you're willing to see me is already something I'm grateful for, Master Sesso." Katrana smiled.
+
+"What is this about?" Jace asked.
 
 "My father's matter. A black dragon disguised as him caused a great deal of chaos in the Lordaeron royal court, and at the same time brought our entire family…"
 
@@ -64,7 +68,7 @@ At this point, Katrana drew a deep breath, then closed her eyes and slowly let i
 
 She was probably just steadying her nerves, but this once Jace felt as though every hair on his body was standing on end.
 
-"The mages of the Kirin Tor told me that the black dragon used his appearance to wield dark magic to harm you, Master Sesso. I hope you won't transfer your hatred of that black dragon onto my real father, Lord Daval Prestor, and the rest of me and our other relatives."
+"The mages of the Kirin Tor told me that the black dragon used his appearance to wield dark magic to harm you, Master Sesso. I hope you won't transfer your hatred of that black dragon onto my real father, Lord Daval Prestor, or onto me and the rest of our family."
 
 "I can tell the difference," Jace said. "Those black dragonkin are using the same tricks here too."
 
@@ -80,19 +84,19 @@ Seeing that Jace seemed somewhat unmoved, Katrana leaned forward and said in a p
 
 "Anything will do — a ring, or even a scrap of clothing. I simply refuse to believe that Lord Daval Prestor vanished into thin air like that. Ever since the Grim Batol incident, I haven't heard any news related to black dragons at all, until the Moonbrook incident gave me tremendous encouragement. Of course, for the entire Stormwind kingdom it was a terrible dark calamity, but it made me see hope of finding my father once again."
 
-"In Alterac and Lordaeron, my family has already been bound up with dark magic and curses. Before coming to Stormwind, I'd prepared myself for every possible situation. I never expected that King Varian Wrynn wouldn't shut me out because of my father's ties to the black dragon — he shared a great deal about Moonbrook with me, and if it weren't for his introduction, I wouldn't even have had the courage to come to Ilgal's Tower to see you, Master Sesso."
+"In Alterac and Lordaeron, my family has already been bound up with dark magic and curses. Before coming to Stormwind, I'd prepared myself for every possible situation. I never expected that King Varian Wrynn wouldn't shut me out because of my father's ties to the black dragon — he shared a great deal about Moonbrook with me, and if it weren't for his introduction, I wouldn't even have had the courage to come to the Tower of Ilgalar to see you, Master Sesso."
 
 "You've met King Wrynn?" Jace asked.
 
-Katrana nodded, then suddenly remembered something. "Ah, I actually forgot something this important… my apologies." She pulled an exquisite letter from her waist and handed it to Jace, bearing the lion-head seal of House Wrynn.
+Katrana nodded, then suddenly remembered something. "Ah, I actually forgot something this important… my apologies." She pulled an exquisite letter from her belt and handed it to Jace, bearing the lion-head seal of House Wrynn.
 
-Jace took the letter and opened it to find Varian's own handwriting. As expected, it mentioned the importance of Lord Daval Prestor to the already-routed Kingdom of Alterac, as well as his much-disputed claim to the throne.
+Jace took the letter and opened it to find Varian's own handwriting. As expected, it mentioned the importance of Lord Daval Prestor to the already-fallen Kingdom of Alterac, as well as his much-disputed claim to the throne.
 
 It seemed that although Prestor's claim to the Alterac throne was something Deathwing had spread among the Alliance with dark magic, the aftereffects of that dark magic hadn't vanished along with Deathwing's fall.
 
 After all, the rumors had already spread — the name Prestor and Alterac were already bound together.
 
-In Varian's letter, he further hinted that if they could successfully help Katrana Prestor find her father, it might be of great help to the future relationship between the Stormwind kingdom and a restored Alterac.
+In Varian's letter, he further hinted that if they could successfully help Katrana Prestor find her father, it might be of great help to the future relationship between the Kingdom of Stormwind and a restored Alterac.
 
 Even if they couldn't find a living person, once Katrana inherited everything from her father, she would still be a force to be reckoned with in the north in the future.
 
@@ -108,13 +112,13 @@ So this was the so-called extra benefit? It seemed King Wrynn had just about sol
 
 Jace raised an eyebrow and leaned back in his chair. "Do you have any idea how much this would cost?"
 
-Katrana thought for a moment. "I haven't looked into the specifics, but I heard the renovation project for Stromgarde's Arathor Tower twenty years ago ultimately cost three hundred and thirty-eight gold. Ilgal's Tower looks to be somewhat larger than Arathor Tower — four hundred, or five hundred? It's not a small sum, but I can still afford it."
+Katrana thought for a moment. "I haven't looked into the specifics, but I heard the renovation project for Stromgarde's Arathor Tower twenty years ago ultimately cost three hundred and thirty-eight gold. The Tower of Ilgalar looks to be somewhat larger than Arathor Tower — four hundred, or five hundred? It's not a small sum, but I can still afford it."
 
 It had to be said, the impact of tossing out that sum of money was still considerable. In one stroke, it made Jace start hoping this woman really wasn't a black dragon in disguise.
 
 Was she, or wasn't she?
 
-He couldn't sense even a trace of dark magic on her, let alone any mental magic influencing him — whether looking through the mirrorstone or simply relying on his perception of dark forces, she was an out-and-out mortal through and through.
+He couldn't sense even a trace of dark magic on her, let alone any mental magic influencing him — whether looking through the mirror stone or simply relying on his perception of dark forces, she was an out-and-out mortal through and through.
 
 Jace had always imagined Onyxia as an imperious, overbearing, and supremely arrogant noblewoman who stirred up terror in Stormwind — whoever mentioned her name was touching upon some kind of taboo…
 
@@ -128,18 +132,18 @@ But the Katrana Prestor before him was more like a woman who'd exhausted herself
 
 "I'll keep that in mind, Lady Prestor." Jace stood up.
 
-By now the rain had lessened a lot and looked about to stop. The two Stonewatch soldiers escorted the mistress and maid away from Ilgal's Tower. Gazing at those insignificant shadows in the hazy forest in the distance, Jace couldn't help but frown.
+By now the rain had lessened a lot and looked about to stop. The two Stonewatch soldiers escorted the mistress and maid away from the Tower of Ilgalar. Gazing at those insignificant shadows in the hazy forest in the distance, Jace couldn't help but frown.
 
 That, on top of the four or five hundred gold gleaming in the open, plus the family's additional gratitude — anyone could hear what this single noblewoman was trying to hint at to this nominally solitary young "mage."
 
-Every move hitting right where it hurt, indeed.
+Every move aimed squarely at his weak spots, indeed.
 
-"You're not getting tempted, are you, master." Morofell came over and draped herself over Jace's shoulders. "What do I lack compared to her?" She put on a simpering voice. "Help me, Master Sesso. Just let me become the Queen of Alterac and I'll give you everything — power, wealth, even… myself! Well, except for the crown."
+"You're not getting tempted, are you, master." Morophil came over and draped herself over Jace's shoulders. "What do I lack compared to her?" She put on a simpering voice. "Help me, Master Sesso. Just let me become the Queen of Alterac and I'll give you everything — power, wealth, even… myself! Well, except for the crown."
 
-With that she burst out laughing at once. Jace glanced at her. "Do you think she's really an Alteracan?"
+With that she burst out laughing at once. Jace glanced at her. "Do you think she's really an Alteraci?"
 
 "What?" The succubus immediately reverted to her natural voice.
 
 "Or rather, is she human?" Jace asked. "You think she's a shapeshifter?"
 
-Morofell gazed into the mist in the distance — by now there was nothing to be seen there at all. "I can't sense anything, master."
+Morophil gazed into the mist in the distance — by now there was nothing to be seen there at all. "I can't sense anything, master."

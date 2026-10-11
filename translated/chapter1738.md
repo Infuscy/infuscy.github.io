@@ -4,11 +4,11 @@ Onyxia tilted her head slightly to look at Needleflame approaching from the side
 
 Jace had never seen a powerful black dragon look so feeble in mortal form. Just moments ago, in her true form, she could still move her body, but now she seemed like a complete invalid. That is to say, even transforming into a human shape had drained the last of her strength. Yet despite that, she still didn't want Jace and his group to see her true form. That face, which was meant to terrify mortals and instill fear in countless living beings, had become a weakness she was unwilling to show.
 
-"How do you see me, child?" she asked in the dragon tongue, her smile strained.
+"How do you see me, child?" she asked in Draconic, her smile strained.
 
-"You are Prince Sabellian's sister," Needleflame replied, also in the dragon tongue. "My father's sister."
+"You are Prince Sabellian's sister," Needleflame replied, also in Draconic. "My father's sister."
 
-"The same blood flows through both our bodies. I am not only your aunt, but also your sister, your closest kin, pretty child." The Black Dragon Princess tilted her head, catching her breath. "That fool Sabellian finally managed to do something useful -- he raised you."
+"The same blood flows through both our bodies. I am not only your aunt, but also your sister, your closest kin, pretty child." The black dragon princess tilted her head, catching her breath. "That fool Sabellian finally managed to do something useful -- he raised you."
 
 "He is not a fool," Needleflame said coldly.
 
@@ -40,17 +40,17 @@ But that simple motion, that exertion, nearly pulled her entire body off the mol
 
 "He betrayed me, and he betrayed her!" The black dragon shook Needleflame's arm, shouting. "And countless Blackwing -- that utter madman!"
 
-"Let her go," Jace said sharply, one hand already reaching for Ursales at his back.
+"Let her go," Jace said sharply, one hand already reaching for Ulthalesh at his back.
 
 Onyxia could no longer contain her emotions. The entire room filled with shadow energy. Just standing in it made the skin prickle, eyes burn until tears and blood vessels burst...
 
-But this surge of uncontrolled power only swelled for a moment. The dragon stared at the staff behind the warlock on the steps for a long while, then finally released her grip. She slumped back into her throne like a kite with its string cut.
+But this surge of uncontrolled power only swelled for a moment. The dragon stared at the staff behind the warlock on the steps for a long while, then finally released her grip. She slumped back into her throne like a puppet with its strings cut.
 
 Needleflame broke free from Onyxia's grasp and retreated several paces, watching the "closest kin" before her with unwavering vigilance all the while. Only when she reached the center of the steps, certain she wouldn't be grabbed again, did she relax slightly.
 
 Considering the natural psychic pressure dragons exert over whelps, and that this was Onyxia herself, Jace was actually quite surprised Needleflame had remained as composed as she had.
 
-Even Sora down below could barely speak, standing frozen with her scepter gripped tight in her hands.
+Even Sola down below could barely speak, standing frozen with her scepter gripped tight in her hands.
 
 "Even Father and Mother," Onyxia murmured, staring at the black rock beneath her feet, her voice now much calmer.
 
@@ -68,19 +68,19 @@ The black dragon seemed somewhat surprised. She raised her eyes. "You saw them. 
 
 "He didn't reveal his name," Jace said. "But we know you were well aware of Nefarian's cooperation with the demons. We know you opposed your brother because he wanted to transform all black dragons into undead to escape the Old Gods' enslavement."
 
-"Not just Blackwing, Sesso." Onyxia steadied her breathing and spoke slowly. "All living things. From the Eastern Continent to the Western Continent. Humans like you, elves, trolls... every living being. That is the demons' plan."
+"Not just Blackwing, Sesso." Onyxia steadied her breathing and spoke slowly. "All living things. From the Eastern Kingdoms to Kalimdor. Humans like you, elves, trolls... every living being. That is the demons' plan."
 
 "Yes. Being transformed into undead can indeed permanently escape those ancient, hidden enslavements. They did not deceive us on that point. But it is only jumping from one cage into another."
 
 Another cage. Was Onyxia referring to the Lich King? The Helm of Domination, capable of controlling the entire Scourge... atop Icecrown in Northrend.
 
-"I understand. This is why you have come." The dragon mother's golden eyes swept across the group. "I take it you've already felt the threat of the Nathrezim, and found yourselves helpless against their power and methods, forced to watch things slowly spiral out of control... So you had no choice but to come to the swamps and seek help from an enemy like me."
+"I understand. This is why you have come." The Broodmother's golden eyes swept across the group. "I take it you've already felt the threat of the Nathrezim, and found yourselves helpless against their power and methods, forced to watch things slowly spiral out of control... So you had no choice but to come to the swamps and seek help from an enemy like me."
 
 "If the demons succeed, every one of us will meet a miserable end." Vereesa stepped up a few stairs. "Do you think you and your offspring can remain untouched in Kalimdor, Lady Onyxia? Will you have recovered enough strength by then to protect this lair?"
 
 "Hard to say, little elf." Onyxia's voice was cold. "Who should I trust more -- you or the demons? Because I hate demons, hate that they deceived Nefarian, does that mean I should cooperate with someone who killed my father?"
 
-"This enemy helped another brother of yours preserve the black dragon population on Draenor, Princess Onyxia." Sora took a deep breath, forcing herself to call up to the throne in the dragon tongue. "And your father... you know why Jace Sesso had to find a way to defeat him. It wasn't out of personal vengeance or desire. He had to protect himself!"
+"This enemy helped another brother of yours preserve the black dragon population on Draenor, Princess Onyxia." Sola took a deep breath, forcing herself to call up to the throne in Draconic. "And your father... you know why Jace Sesso had to find a way to defeat him. It wasn't out of personal vengeance or desire. He had to protect himself!"
 
 "But those demons? They truly deceived and destroyed Prince Nefarian. They destroyed all the whelps, young dragons, and precious eggs in Blackrock Spire. You should know the difference, Princess."
 
@@ -114,11 +114,11 @@ The black dragon seemed about to say more, but ultimately lowered her voice: "Wo
 
 "Not until that crystal shard appeared before him. It was like a key that unlocked every possibility of madness. From then on, he fell completely into the dream that the Nathrezim had woven for him. All the problems that seemed unsolvable could apparently be solved by the power of that crystal."
 
-"Soulsong," Jace said.
+"Spirit's Song," Jace said.
 
-"Yes," Onyxia said. "It seems that Eredar's treasure has fallen into your hands."
+"Yes," Onyxia said. "It seems that eredar's treasure has fallen into your hands."
 
-"Who brought Soulsong to you?" Jace asked.
+"Who brought Spirit's Song to you?" Jace asked.
 
 "A demon calling himself Pithaseron. I suspect the demon you killed was likely him." Onyxia closed her eyes, recalling. Every memory seemed to bring her pain.
 
@@ -126,7 +126,7 @@ The black dragon seemed about to say more, but ultimately lowered her voice: "Wo
 
 "Tichondrius?" Grede whispered. "Is that the dreadlord's name that even Morophil wasn't confident she could beat?"
 
-"Yes," Sora said. "Him."
+"Yes," Sola said. "Him."
 
 "Did Tichondrius ever go to Blackrock Spire?" Jace asked.
 
@@ -138,7 +138,7 @@ The black dragon seemed about to say more, but ultimately lowered her voice: "Wo
 
 "He didn't guess wrong, and his methods did work -- just not as expected," Jace said. "He underestimated my power."
 
-"Then he made the same mistake I did." The Black Dragon Princess smiled, a self-deprecating expression. "It seems the Nathrezim... are not so impressive after all."
+"Then he made the same mistake I did." The black dragon princess smiled, a self-deprecating expression. "It seems the Nathrezim... are not so impressive after all."
 
 "Pithaseron, Mephistroth, Tichondrius," Vereesa counted. "So at least three dreadlords have come here without anyone noticing. How many more are hidden in the shadows?"
 
@@ -148,15 +148,15 @@ The black dragon seemed about to say more, but ultimately lowered her voice: "Wo
 
 "One of them is named Detheroc." Onyxia said. "I tricked Pithaseron into revealing a secret -- that his superior, a demon called Detheroc, is guarding an artifact on Azeroth capable of controlling undead beings."
 
-"I wanted Nefarian to believe the dreadlords' real plan was to turn everything alive into undead, then control them with an artifact. But he thought his psychic magic was strong enough to resist any controlling spell. He believed that once he built his own undead empire, he could use his superior power to dominate the Burning Legion in turn. As long as he could master Soulsong, as long as he could escape the Old Gods' control, as long as..."
+"I wanted Nefarian to believe the dreadlords' real plan was to turn everything alive into undead, then control them with an artifact. But he thought his psychic magic was strong enough to resist any controlling spell. He believed that once he built his own undead empire, he could use his superior power to dominate the Burning Legion in turn. As long as he could master Spirit's Song, as long as he could escape the Old Gods' control, as long as..."
 
 "I was certain he had completely lost his mind. I couldn't just stand by and watch him destroy the last bloodline the Blackwing had preserved over ten thousand years. More importantly, that bloodline was created by me -- they were my children. I had to... stop it all."
 
 "Then I failed, and this is my punishment. That undead, undying monster finally rid himself of me, a worthless... nuisance." She looked at the small black dragon not far away. Needleflame just frowned at the ground, unwilling to meet the princess's gaze.
 
-"Blackrock Spire was not destroyed by you, not by orcs, not by Thaurissan. It was destroyed by Nefalian. His current fate is his own doing."
+"Blackrock Spire was not destroyed by you, not by orcs, not by Thaurissan. It was destroyed by Nefarian. His current fate is his own doing."
 
-The Black Dragon Princess knew nothing of the Lich King. That made sense. To trick these black dragons into turning themselves into resurrected undead, of course they wouldn't be told that Kil'jaeden had already prepared a hidden piece on the board in Northrend -- one that could rule all undead -- just waiting for them to take the bait.
+The black dragon princess knew nothing of the Lich King. That made sense. To trick these black dragons into turning themselves into resurrected undead, of course they wouldn't be told that Kil'jaeden had already prepared a hidden piece on the board in Northrend -- one that could rule all undead -- just waiting for them to take the bait.
 
 But those demons never expected Onyxia to trick them into revealing part of this secret. They also underestimated how much this dragoness treasured her offspring.
 
@@ -170,9 +170,9 @@ With two undead dragons driving countless resurrected dead from Blackrock Mounta
 
 The Kirin Tor... Varian had mentioned this before. SI:7 had determined that the death knight rumors seemed to originate from within the Kirin Tor.
 
-But back then, Jace hadn't been able to find anything at the Wizard Sanctum. He only briefly suspected that apprentice who was transporting the soul shard -- what was his name... Nasiblius.
+But back then, Jace hadn't been able to find anything at the Wizard's Sanctum. He only briefly suspected that apprentice who was transporting the soul shard -- what was his name... Naberius.
 
-"The Council of Six?" Vereesa said sharply. "Since Kel'Thuzad was arrested, the current six members are Antonidas, Prince Kael'thas, Archmage Krasus, Drenden, Modera, and Vargus. Which of these archmages is a Nathrezim?"
+"The Council of Six?" Vereesa said sharply. "Since Kel'Thuzad was arrested, the current six members are Antonidas, Prince Kael'thas, Archmage Krasus, Drenden, Modera, and Vargoth. Which of these archmages is a Nathrezim?"
 
 "By the time he succeeded, I had likely already left Blackrock Spire long ago, Vereesa Windrunner," the black dragon said.
 
@@ -182,9 +182,9 @@ Jace looked at the black dragon and asked: "Are you saying that when you knew of
 
 "I assume so," Onyxia said. "At the very least, I know those demons were working behind the scenes... helping him win election to the Council at some future date, to further manipulate Dalaran and assist the other demons in their operations at Blackrock Spire. They wanted me and Nefarian to believe everything was under control."
 
-"Vargus," Jace said to his companions. "Khadgar gave up his candidacy. Vargus replaced Kel'Thuzad as one of the six on the Council of Six. This happened not long ago."
+"Vargoth," Jace said to his companions. "Khadgar gave up his candidacy. Vargoth replaced Kel'Thuzad as one of the six on the Council of Six. This happened not long ago."
 
-"Vargus? How many Varguses are there in Dalaran?" Grede whispered. "Isn't he the archmage who came back through the Dark Portal with us?"
+"Vargoth? How many Vargoths are there in Dalaran?" Grede whispered. "Isn't he the archmage who came back through the Dark Portal with us?"
 
 "He seems like a rather... pure scholar," Vereesa said. Then something occurred to her. "Wait. If he's a demon in disguise, Morophil has met him several times. Couldn't she tell?"
 
@@ -194,10 +194,10 @@ Jace looked at the black dragon and asked: "Are you saying that when you knew of
 
 "Maybe he was only approached by the Nathrezim after coming back through the Dark Portal." Jace scratched his lip with his fingernail. "I suspected him once, but... he helped me a lot afterward. My robe, even the Destruction Potion -- he had a hand in it. If not for his help, I might not have beaten Nefarian. Khadgar didn't want me to risk fueling the rumors by going to Lordaeron, so I didn't make another trip to Dalaran before I left. Otherwise I would have brought Morophil to confirm it."
 
-"Then we need to tell Archmage Khadgar about this as soon as possible, right?" Sora asked.
+"Then we need to tell Archmage Khadgar about this as soon as possible, right?" Sola asked.
 
 "Yes. Along with the other demon information." Jace said. "He was planning to return to the Kirin Tor to discuss with the Council how to root out the disguised demon. If there's already a Nathrezim on the Council itself..."
 
 "Then we'd be going around in circles, getting played by the demons," Grede said.
 
-"If only it were just going in circles," Vereesa said. "Have you forgotten about those black knight rumors, Thunderfist? Khadgar initially thought the Kirin Tor would back Jace on the rumor issue. But if there's a demon sitting in a high position in the Kirin Tor... can he still be so optimistic?"
+"If only it were just going in circles," Vereesa said. "Have you forgotten about those Dark Rider rumors, Thunderfist? Khadgar initially thought the Kirin Tor would back Jace on the rumor issue. But if there's a demon sitting in a high position in the Kirin Tor... can he still be so optimistic?"

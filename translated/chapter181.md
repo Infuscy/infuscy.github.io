@@ -26,7 +26,7 @@ Jace's mouth hung open. He looked down at the dwarf's insufferably cocky face an
 
 "Really?" Grede asked. "Why would she help me? Why would she help you?"
 
-"Obviously I rescued the damsel, she offered her hand in marriage to repay you, and you turned her down, then felt bad about it and decided to make it up to you," Jace said.
+"Obviously I rescued the damsel, she offered her hand in marriage to repay me, and I turned her down, so she felt bad and decided to make it up to you instead," Jace said.
 
 "Hahaha, I'm kidding, don't be mad!" Grede clapped Jace on the arm, then asked, "So when are we heading to Quel'Thalas? I don't want to wait a second longer."
 
@@ -58,7 +58,7 @@ The dwarf asked out of nowhere, "You haven't fallen for her, have you?"
 
 "What are you reading into? I haven't felt a thing," Jace said.
 
-Grede nodded in that meaningful way of his. "Lemme give you a piece of advice, lad. Those elven women put on this cold, polite, proper act — but that's just for show in human cities. Back in Quel'Thalas, they're wild, every last one of you. Watch yourself, don't get played."
+Grede nodded in that meaningful way of his. "Lemme give you a piece of advice, lad. Those elven women put on this cold, polite, proper act — but that's just for show in human cities. Back in Quel'Thalas, they're wild, every last one of them. Watch yourself, don't get played."
 
 "What would she con me for? I'm no lord or noble."
 
@@ -96,7 +96,7 @@ Maybe only a kid who'd grown up on the dirt roads of Lordaeron's capital would m
 
 He'd even dreamed, from the moment he first came into this world, about picking one from the three Windrunner sisters — or Jaina, or Calia, or maybe the black dragon princess, or the Dragonqueen herself. Why not take the whole set while he was at it?
 
-Of course, that fantasy hadn't lasted long before the cold water of reality, rushed at him the second he transmigrated, had doused it flat.
+Of course, that fantasy hadn't lasted long before the cold water of reality, dumped on him the second he transmigrated, had doused it flat.
 
 Grede watched Jace go quiet for a long stretch. "What're you thinking about? Don't tell me you're actually interested in a female troll."
 
@@ -105,13 +105,3 @@ Grede watched Jace go quiet for a long stretch. "What're you thinking about? Don
 "Ack… I was just talking. You're serious?"
 
 "You only live once, dwarf. And when it comes to trolls, I've got the height advantage over you."
-
-## Flags
-
-- **温蕾萨** → Vereesa Windrunner. Not in the glossary, but canonical: Alleria's younger sister, the Windrunner who helped Jace. Used "Vereesa" on first appearance, then "that Windrunner" to match the source's vague 那个风行者.
-- **天蓝色相遇** → "Azure Encounter." Tavern/restaurant name, not in the glossary. Rendered as a proper noun.
-- **太阳之井的水瓶** → "a vial of Sunwell water." Sunwell is in the glossary; "vial of … water" is the natural reading of 水瓶 here (not "water bottle" literally).
-- **佳莉娅** → Calia (Calia Menethil). Not in the glossary; canonical.
-- **吉安娜** → Jaina (Jaina Proudmoore). Not in the glossary; canonical.
-- **黑龙公主** → "the black dragon princess" (Onyxia). Not in the glossary.
-- **拉迪摩尔一家** → "the Ladimore family." Ladimore is in the glossary (Morgan Ladimore).

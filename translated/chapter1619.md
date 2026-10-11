@@ -4,7 +4,7 @@ The area around Crystal Lake, northeast of Goldshire, had beautiful scenery, but
 
 A long time ago — years before the gnolls started fighting humans for Elwynn Forest — the murlocs had already settled around Crystal Lake.
 
-These monsters had even once occupied the riverbanks all the way from here to the Neltharion River, blocking Stormwind's residents from traveling to Lakeshire or heading east to Grand Town. Back then, not many farmers dared to clear land and farm in this area.
+These monsters had even once occupied the riverbanks all the way from here to the Nazferiti River, blocking Stormwind's residents from traveling to Lakeshire or heading east to Grand Hamlet. Back then, not many farmers dared to clear land and farm in this area.
 
 As the Kingdom of Stormwind grew and developed, humans eventually pushed the murlocs back to Crystal Lake's shores. From that point on, the road between Goldshire and Eastvale Logging Camp was only occasionally threatened by a stray murloc attacking lone travelers — stable enough for regular passage.
 
@@ -20,15 +20,15 @@ But looking at it from another angle: after seeing Midnight — an evil horse bu
 
 Jace jumped off Midnight's back, patted its rump to signal it to move away, and looked at the alchemist who'd stopped not far off. "I thought you wouldn't want to come out and try new spells."
 
-"I never said I don't like learning." Ursula tied her horse to a nearby tree. "What I don't like is going out on mercenary work with Erland and the others — tiring and troublesome. Of course, I'm not saying Crystal Lake is much better. Nobody wants to come near this place unless they're traveling with a mage like you. Can you smell that rotting stench in the air? That's definitely the smell of human flesh. Some unlucky bastard must have delivered takeout to the murlocs."
+"I never said I don't like learning." Ursula tied her horse to a nearby tree. "What I don't like is going out on mercenary work with Erlan and the others — tiring and troublesome. Of course, I'm not saying Crystal Lake is much better. Nobody wants to come near this place unless they're traveling with a mage like you. Can you smell that rotting stench in the air? That's definitely the smell of human flesh. Some unlucky bastard must have delivered takeout to the murlocs."
 
 "I feel like murloc dwellings generally smell like this." Jace stretched. "How was the trip? Did you get familiar with the casting guide I gave you?"
 
 "You wrote it clearly enough." Ursula glanced at the scroll in her hand again. "But there are parts scratched out and revised, plus some beginner tips. Did you figure these out yourself during your own learning, or... I'm curious who you taught this to before."
 
-"Demisette Klaus," Jace said. "Do you know her?"
+"Demisette Cloyce," Jace said. "Do you know her?"
 
-"Ah, I know her. Of course I know her." Ursula's eyes flickered. "She was a sorceress with remarkable shadow talent, very skilled at summoning demons. Word was she'd been in close contact with some wandering Shadow Council members, so she had many obscure abilities. A few years back, she was quite famous among the warlocks in the south. Lady Klaus... Galders wanted to invite her to join the Slaughtered Lamb. She seemed interested too — probably because of you. But it's a shame."
+"Ah, I know her. Of course I know her." Ursula's eyes flickered. "She was a sorceress with remarkable shadow talent, very skilled at summoning demons. Word was she'd been in close contact with some wandering Shadow Council members, so she had many obscure abilities. A few years back, she was quite famous among the warlocks in the south. Lady Cloyce... Zardeth wanted to invite her to join the Slaughtered Lamb. She seemed interested too — probably because of you. But it's a shame."
 
 "A shame?" Jace asked.
 
@@ -36,7 +36,7 @@ Jace jumped off Midnight's back, patted its rump to signal it to move away, and 
 
 Jace froze. "Why? Who did it?"
 
-Ursula shook her head. "A group of warlocks killed her. Some say it was the assassins from Eastern Weald. Others say she made enemies with shadow mages from Gilneas. Some speculate she was hiding immensely powerful orc spells and refused to share them... In any case, a warlock dying by another warlock's hand is as common as a dwarf dying in a tavern. Nobody really cares. By the time the news reached me, it was already vague."
+Ursula shook her head. "A group of warlocks killed her. Some say it was the assassins from Eastweald. Others say she made enemies with shadow mages from Gilneas. Some speculate she was hiding immensely powerful orc spells and refused to share them... In any case, a warlock dying by another warlock's hand is as common as a dwarf dying in a tavern. Nobody really cares. By the time the news reached me, it was already vague."
 
 She smirked. "Why did you teach her that spell? Did she use that approach that works so well on other warlocks?"
 

@@ -32,7 +32,7 @@ From beginning to end, the one who'd erred was himself.
 
 Morophil was nothing more than the target he wanted to shift the blame onto, the excuse for all that madness last night.
 
-Even that Bloodfang boar had been his order to the succubus to capture — simply because the burns had made him uncomfortable and he needed some life energy to ease the pain.
+Even that Goretusk boar had been his order to the succubus to capture — simply because the burns had made him uncomfortable and he needed some life energy to ease the pain.
 
 The demon, half-dead from his berserk magic and barely able to walk straight, had still gotten gored by the boar — a beast driven mad by shadow torment — while capturing it alive, yet she'd still smiled and stroked the black blood overflowing from the corners of his eyes.
 
@@ -98,7 +98,7 @@ If he fled from this corruption because he couldn't resist it, that would be the
 
 Even arcane magic was maddeningly addictive. The path of a mage wasn't any easier than the road he was on now.
 
-Wherever he went, as Amy Marin had said — be prepared, understand what he was facing, and he could handle difficulties with much more ease.
+Wherever he went, as Amy Malin had said — be prepared, understand what he was facing, and he could handle difficulties with much more ease.
 
 Jace felt he was still far from his limit. His will was enough to carry on; he shouldn't give up so easily.
 
@@ -109,15 +109,3 @@ Thinking of this, he gently gripped one of the succubus's horns.
 "I'm going to sleep, Morophil. I didn't sleep a wink last night. I'm not you… as a human, I really can't hold on anymore. And I need to save enough energy for this afternoon's class. Keep an eye on that pocket watch — wake me up in two hours."
 
 "As you wish, my dear." The succubus narrowed her eyes.
-
-## Flags
-
-- **莫洛菲尔** — Rendered as "Morophil." OC succubus; name is a transliteration, not canonical. Kept consistent throughout.
-- **撒厄诺** — Sazeno, the imp minion, per glossary.
-- **萨亚德** — Rendered as "succubus" (Thalassian term for the female demon seducer class). The imp uses it as a species label.
-- **血牙野猪** — "Bloodfang boar." Fictional creature; kept literal.
-- **暗影烈焰** — Shadowflame, canonical spell/dragon-fire term, per glossary.
-- **艾瑞达语** — Eredun, the eredar/demonic language. Used the canonical term rather than the literal "Eredar" to match WoW usage.
-- **扭曲虚空** — Twisting Nether, canonical demonic dimension.
-- Chapter title 如你所愿 = "As You Wish," echoing the succubus's closing line.
-- POV: third person. Jace's self-lacerating internal monologue and the Illidan parallel kept intact. Morophil's seductive, manipulative register preserved.

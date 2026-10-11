@@ -2,21 +2,21 @@
 
 The mountains echoed with hollow, ethereal roars, indifferent to distance. Accompanied by a gale that scraped across cliff faces and icicles, snowflakes danced in disarray. Unnoticed, the storm grew stronger and stronger.
 
-This storm was clearly unnatural. Jace could tell it was definitely connected to the Frosthammer giants' howling.
+This storm was clearly unnatural. Jace could tell it was definitely connected to the Frostmaul giants' howling.
 
-Especially when Solamriel tried to gain altitude, pulling away from the chunks of ice and boulders the giants hurled, the giants' roars quickly grew angrier, and the storm intensified accordingly.
+Especially when Somaelir tried to gain altitude, pulling away from the chunks of ice and boulders the giants hurled, the giants' roars quickly grew angrier, and the storm intensified accordingly.
 
-But no matter what, Solamriel was flying with increasing difficulty.
+But no matter what, Somaelir was flying with increasing difficulty.
 
 After struggling in the storm for a while, she was finally forced to land in a snow valley to take shelter from the onslaught.
 
-Although they had spent the whole night darting through danger under the threat of the Frosthammer giants, they couldn't rest — after all, they were racing against a group of undead who didn't even know what tiredness was.
+Although they had spent the whole night darting through danger under the threat of the Frostmaul giants, they couldn't rest — after all, they were racing against a group of undead who didn't even know what tiredness was.
 
 Even those horses might be reanimated zombies.
 
 Jace looked at the map. Based on the position of Hyjal Summit, the approximate distance from Everlook to the north, and the distribution of the surrounding snowy mountains, he estimated they had arrived roughly to the north of Darkwhisper Gorge.
 
-Considering Frosthammer giants were everywhere in the mountains around them, it might be better to keep a low profile and use the cover of the snow valley before them to slip into the gorge.
+Considering Frostmaul giants were everywhere in the mountains around them, it might be better to keep a low profile and use the cover of the snow valley before them to slip into the gorge.
 
 After all, who knew what was actually inside Darkwhisper Gorge — SI:7's warning couldn't have been without cause.
 
@@ -34,13 +34,15 @@ The dense pine forest faintly visible beyond the pillar also confirmed the situa
 
 "We didn't provoke those giants," Grede muttered unhappily as he checked whether anything from the luggage had been lost or left behind. "What are they doing? Just because we passed by... they want to wipe us out? It's ridiculous. If these fellows were carnivores I'd let it slide and not argue with them, but these guys grew up eating stones, right? I've heard since I was a kid that those mountain giants all grow up eating stones. The giants here, even if they're different, probably just grow up eating ice."
 
-The green dragon reverted to her mortal form and straightened her cloak and collar. "The Frosthammer giants have been guarding these snowy mountains since before the Well of Eternity exploded, Grede. Ysondre told me not to set foot in their territory and disturb their slumber, but I've rarely heard of Frosthammer giants attacking outsiders with such fury..."
+The green dragon reverted to her mortal form and straightened her cloak and collar. "The Frostmaul giants have been guarding these snowy mountains since before the Well of Eternity exploded, Grede. Ysondre told me not to set foot in their territory and disturb their slumber, but I've rarely heard of Frostmaul giants attacking outsiders with such fury..."
 
 "Maybe it's because they're just a bunch of maddened monsters to begin with," Grede said, shouldering his pack.
 
 The group packed up their luggage and walked deeper into the snow valley. Jace said, "It might be because of me and Morophil — demons, dark power. Mount Hyjal hasn't been spared from demon attacks. The War of the Satyr, which Sola mentioned earlier. Besides, during the War of the Ancients, the war between the demons and the Kaldorei also spread to this land."
 
-"I've done my best to conceal my power, master," Morophil said innocently. "These ancient giants may have a perception beyond ordinary understanding," Jace said.
+"I've done my best to conceal my power, master," Morophil said innocently.
+
+"These ancient giants may have a perception beyond ordinary understanding," Jace said.
 
 "If that's really the case, then it does make sense," Sola said. "But it might also be because of me — after all, I couldn't resist the corruption of the Nightmare and turned into that state. These giants may be able to sense what I've been through."
 
@@ -56,13 +58,13 @@ Jace nodded. "It might sound like a joke to you green dragons, but shadow is aff
 
 Morophil said, "Shadow is certainly affected by emotions, no question — but I wouldn't presume to confirm for the master that optimistic emotions can resist the Nightmare's erosion. After all, I don't understand optimism, and I understand the Nightmare even less."
 
-"If that's the case, I just realized a problem, succubus," Grede asked as he trudged through the snow. "If optimism can fight shadow, then you're smiling all the time, acting like everything is a spectacle to you, and even when you're injured you never forget to tease our little Jace — so you're probably the most optimistic one in the whole group. As a dark creature who came here from the Twisting Nether, why haven't you annihilated yourself?"
+"If that's the case, I just realized a problem, succubus," Grede asked as he trudged through the snow. "If optimism can fight shadow, then you're smiling all the time, acting like everything is a spectacle to you, and even when you're injured you never forget to tease our Jace — so you're probably the most optimistic one in the whole group. As a dark creature who came here from the Twisting Nether, why haven't you annihilated yourself?"
 
 "I suppose it's because darkness can't be explained so simply, Grede," Sola said.
 
 "Simple — because her optimism and happiness are all fake, all an act. That's what a succubus is, dear everyone!" Sazeno poked his head out of the pack, wiping away a snowflake that had suddenly smacked his face. "She's a master at this. Don't be fooled by her!"
 
-"I still think Mr. Sazeno's explanation is more reasonable," Windrunner said with an emphatic nod.
+"I still think Mr. Sazeno's explanation is more reasonable," Vereesa said with an emphatic nod.
 
 The imp excitedly raised his hand. "Ha, exactly! The esteemed Lady Windrunner always stands on my side!"
 
@@ -84,17 +86,17 @@ The imp excitedly raised his hand. "Ha, exactly! The esteemed Lady Windrunner al
 
 Morophil mimicked the imp's tone in an affected voice, then chuckled.
 
-Sola couldn't help but smile too. Windrunner raised an eyebrow with a sigh and looked ahead. Grede, seeing Windrunner's expression, looked like he wanted to laugh but didn't dare, and could only force out a couple of coughs as he kept walking.
+Sola couldn't help but smile too. Vereesa raised an eyebrow with a sigh and looked ahead. Grede, seeing Vereesa's expression, looked like he wanted to laugh but didn't dare, and could only force out a couple of coughs as he kept walking.
 
 The storm still raged, showing no sign of abating. Everyone trudged against the howling gale and barely made it to a snow slope. Jace looked back toward Everlook. The heavy snow obscured everything in his field of vision.
 
-But there was no doubt — the Black Riders were somewhere on the road heading this way.
+But there was no doubt — the Dark Riders were somewhere on the road heading this way.
 
-Actually, the possibility that the Frosthammer giants attacked them because of the dark power on Jace actually made Jace feel a little more at ease. Since the giants would attack them, they would certainly attack the Black Riders too — and the Black Riders would have to cross those canyons and cliffs on land. They would have a much harder time dodging the giants' attacks than the green dragon.
+Actually, the possibility that the Frostmaul giants attacked them because of the dark power on Jace actually made Jace feel a little more at ease. Since the giants would attack them, they would certainly attack the Dark Riders too — and the Dark Riders would have to cross those canyons and cliffs on land. They would have a much harder time dodging the giants' attacks than the green dragon.
 
 He hoped these giants could slow them down a bit. The green dragon had taken more than a day and night to fly here — even pushing through wind and snow, the riders would need at least a week to arrive.
 
-Before reaching Frosthammer Canyon, Grede had gotten some sleep on Solamriel's back, so he looked fairly fresh right now. Windrunner didn't even feel sleepy in such a short time, and around Mount Hyjal her mana addiction didn't seem to flare up much either — she was now walking at the front of the group, full of energy.
+Before reaching Frostwhisper Gorge, Grede had gotten some sleep on Somaelir's back, so he looked fairly fresh right now. Vereesa didn't even feel sleepy in such a short time, and around Mount Hyjal her mana addiction didn't seem to flare up much either — she was now walking at the front of the group, full of energy.
 
 As for the group's newest member, a green dragon — she could even fly while asleep, even without entering the Dream. So the most awkward one was Jace. He was already a bit sleepy now, but couldn't sleep. He was starting to regret not asking the green dragon to put him to sleep right when they first took off.
 
@@ -104,14 +106,14 @@ But then again, this would save time for the group and preserve their combat str
 
 Just as he was wrestling with himself, a sudden rumbling sound came from ahead. Having just gone through a whole string of escapes through canyons and cliffs, everyone here immediately recognized what the sound was.
 
-"The Frosthammer giants are ahead of us," Windrunner said.
+"The Frostmaul giants are ahead of us," Vereesa said.
 
 "Damn it." Grede leveled his warhammer. "So we end up having to fight after all?"
 
 The words had barely left his mouth when a gust of cold wind passed and the environment quieted somewhat — and within the wind, they could actually hear intermittent, indistinct beastly growls.
 
-Jace wasn't the only one who noticed. Windrunner's expression changed. "Those are furbolg voices."
+Jace wasn't the only one who noticed. Vereesa's expression changed. "Those are furbolg voices."
 
-"Frosthammer furbolgs?" Jace asked. "Could the furbolgs be fighting the Frosthammer giants?"
+"Frostmaul furbolgs?" Jace asked. "Could the furbolgs be fighting the Frostmaul giants?"
 
 "Let's go take a look," Grede said.

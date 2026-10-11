@@ -2,21 +2,21 @@
 
 Following the trail of the Soul Link, Jace led Grede running deeper into the ruins of Grim Batol. Dragonmaw orcs were still scrambling everywhere, looking for a way out — they had no will to resist at all. Under the terrifying pressure of that reaper in the sky, flight was the only thought left in their heads.
 
-Although the black dragon's shadow power and the Dragonqueen's brilliant life force had nearly overwhelmed every other magical energy Jace could sense, he managed to focus his mind and find that one thread of something different — after all, he knew Molofier far too well.
+Although the black dragon's shadow power and the Dragonqueen's brilliant life force had nearly overwhelmed every other magical energy Jace could sense, he managed to focus his mind and find that one thread of something different — after all, he knew Morophil far too well.
 
 Leading Grede through a few corridors that had lost their ceilings, he could finally make out a shape through Sense Demons… wait, there were TWO shapes?!
 
 The two shapes wove back and forth. One was clearly at a disadvantage, while the other raged like a madman. What was that? Why was there a demon here?!
 
-"Just ahead, you hear that, Jace?" Grede pointed toward the entrance of a collapsed great hall. Squeezing under a toppled stone pillar, Jace followed and caught sight of Molofier's figure flitting through the ruins in the distance — and a black monstrosity savagely pursuing her, locked in a brawl!
+"Just ahead, you hear that, Jace?" Grede pointed toward the entrance of a collapsed great hall. Squeezing under a toppled stone pillar, Jace followed and caught sight of Morophil's figure flitting through the ruins in the distance — and a black monstrosity savagely pursuing her, locked in a brawl!
 
-Molofier kept dodging the thing's attacks with Shadowstep. Its wings gave it the edge in chasing the more agile succubus, and it struck wildly — that was Nekros's staff!
+Morophil kept dodging the thing's attacks with Shadowstep. Its wings gave it the edge in chasing the more agile succubus, and it struck wildly — that was Nekros's staff!
 
 Nekros had turned himself into a demon!
 
 The demon roared in frenzy: "You slaughtered my underlings like cattle and still thought you could enslave my will! You won't get the mercy of dying by the black dragon's hand — pay with your life right now, bitch!"
 
-Molofier seemed to have spent too much mana charming this demon into submission. She was struggling badly to evade its pursuit. Just as the demon suddenly lunged and seized Molofier's neck, about to swing its hammer, a orcish war sword came sailing in from behind and plunged straight into its flank!
+Morophil seemed to have spent too much mana charming this demon into submission. She was struggling badly to evade its pursuit. Just as the demon suddenly lunged and seized Morophil's neck, about to swing its hammer, an orcish war sword came sailing in from behind and plunged straight into its flank!
 
 "Let her go, demon — I'm not dead yet… If you want revenge for your kin, come take it out on me!"
 
@@ -26,13 +26,13 @@ The demon cursed furiously in some unknown tongue, wrenched the sword free, and 
 
 "To be precise, thirty-seven underlings. That ugly son of yours might've been among them," Vereesa said with a grin.
 
-Molofier reappeared a few meters away, raising the black blade in her hand. "You just watched the whole time, Nekros — knelt at my feet… and didn't care about them at all."
+Morophil reappeared a few meters away, raising the black blade in her hand. "You just watched the whole time, Nekros — knelt at my feet… and didn't care about them at all."
 
 "Shut up!" Nekros spread his wings and lunged toward Vereesa — only to be yanked hard by a line of blood, one of his black hooves snagging mid-air and throwing him off balance…
 
-"Yuluk… no, Jace Sesso! Ahh!"
+"Yurk… no, Jace Sesso! Ahh!"
 
-Nekros howled, trying to break free of Jace's Bloodfiend's Grasp. Grede charged while the demon's altitude dropped. A bolt of thunder plummeted from the chaotic black sky and struck his war hammer. The dwarf leaped and swung his hammer straight at the demon. The demon had no choice but to meet it with its own weapon. The two arms, wreathed in shadow and lightning, collided head-on!
+Nekros howled, trying to break free of Jace's Gorefiend's Grasp. Grede charged while the demon's altitude dropped. A bolt of thunder plummeted from the chaotic black sky and struck his war hammer. The dwarf leaped and swung his hammer straight at the demon. The demon had no choice but to meet it with its own weapon. The two arms, wreathed in shadow and lightning, collided head-on!
 
 A flash of light erupted through the pitch-black ruins! Nekros screamed and went flying sideways into a pile of rubble. His staff shattered completely, fragments scattering across the sky.
 
@@ -40,7 +40,7 @@ A flash of light erupted through the pitch-black ruins! Nekros screamed and went
 
 Vereesa was the fastest in pursuit. She vaulted lightly over a collapsed wall and chased the demon into the rubble — only for a burst of shadow to explode in her face, throwing her back several steps. Nekros burst through the dust and took to the air, steadying himself in mid-air on his demonic wings.
 
-Vereesa had probably lost her bow during that string of horrific disasters when Grim Batol was destroyed. Now she was holding an orcish weapon, and staring up at the Nekros high above, she could only fume helplessly.
+Vereesa had probably lost her bow during that string of horrific disasters when Grim Batol was destroyed. Now she was holding an orcish weapon, and staring up at Nekros high above, she could only fume helplessly.
 
 Grede gave chase again, summoning lightning to wrap his war hammer and hurling it straight at the demon above — but the demon easily dodged it with a flick of its body…
 
@@ -54,7 +54,7 @@ The demon seemed to see the predicament this group was in and let out a series o
 
 Jace was already chanting a Shadow Bolt. Sensing the gathering of shadow power, the demon hurled a mass of shadow straight at them — it didn't even bother with an incantation!
 
-Jace and Grede beside him had to dive in opposite directions. The shadow explosion sent a black shockwave rippling outward — but immediately a second Shadow Bolt came flying in! Grede couldn't dodge this one and took a solid hit. If not for that Major Shadow Protection Potion, he'd have been seriously hurt.
+Jace and Grede beside him had to dive in opposite directions. The shadow explosion sent a black shockwave rippling outward — but immediately a second Shadow Bolt came flying in! Grede couldn't dodge this one and took a solid hit. If not for that Greater Shadow Protection Potion, he'd have been seriously hurt.
 
 "Ugh… these damned warlocks!"
 
@@ -81,16 +81,3 @@ The Dragonqueen let out a furious roar from the sky. A brilliant torrent of flam
 Grede, who had still been planning to go after the demon, took one look at this and immediately bolted for the outside. Jace had no choice but to leap from the ruins and tumble into another pile of rubble. That blazing torrent incinerated the entire stretch of ruins and drove straight toward the black-mountain-like dragon — but Deathwing simply raised his wing and swept it aside, fanning the flames into a fire-cyclone that scoured in all directions.
 
 "Don't rush it… my Alex. Your turn will come soon."
-
-## Flags
-
-- **耐克鲁斯 (Nekros):** The Demon Soul-wielding Dragonmaw orc, now transformed into a demon. Transliterated as Nekros.
-- **祖鲁希德 (Zuluhed):** Dragonmaw chieftain, per glossary association.
-- **泰兰 (Tyran):** Short for **Tyranastrasz** (泰兰尼斯特拉兹), the elder red dragon and Alexstrasza's longtime mate. Canonical name Tyranastrasz.
-- **血魔之握:** Rendered as **Bloodfiend's Grasp** (warlock shadow ability).
-- **虚弱诅咒:** Rendered as **Curse of Weakness** (glossary).
-- **暗影箭:** Rendered as **Shadow Bolt** (standard warlock spell).
-- **强效暗影防护的药水:** Rendered as **Major Shadow Protection Potion**.
-- **暗影步:** Rendered as **Shadowstep** (succubus mobility).
-- **阿莱克斯:** Deathwing's familiar/pet name for Alexstrasza — "my Alex."
-- POV: third person. Grede's dialogue kept bluff and hearty; Vereesa's kept sharp and martial.

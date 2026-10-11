@@ -2,11 +2,11 @@
 
 After receiving the king's approval, Jace felt immensely encouraged.
 
-Just as Vereesa had said, even though Jace held the deed to Ilgalar Tower and controlled the mage tower's ownership, Varian was still his liege lord. This was the Kingdom of Stormwind's territory, under his dominion and protection.
+Just as Vereesa had said, even though Jace held the deed to the Tower of Ilgalar and controlled the mage tower's ownership, Varian was still his liege lord. This was the Kingdom of Stormwind's territory, under his dominion and protection.
 
 Without the king's approval, a plan like this would've felt like floating in the air — impossible to rest easy about. For something as major as exploring Draenor, they needed to secure safeguards on as many levels as possible before they could proceed with confidence.
 
-After returning to Ilgalar Tower, the forest surrounding the mage tower had grown increasingly lush and vibrant under Sola's care. She hadn't just blessed the wood inside the tower — she'd also used the life force of the surrounding forest to counter the Shadow energy that occasionally leaked out of Ilgalar Tower, completely preventing the demons' power from spreading.
+After returning to the Tower of Ilgalar, the forest surrounding the mage tower had grown increasingly lush and vibrant under Sola's care. She hadn't just blessed the wood inside the tower — she'd also used the life force of the surrounding forest to counter the Shadow energy that occasionally leaked out of the Tower of Ilgalar, completely preventing the demons' power from spreading.
 
 The green dragons really had their own methods, guardians of the Emerald Dream for tens of thousands of years. You could only blame the opponent for being too powerful.
 
@@ -18,13 +18,13 @@ Vereesa ran out from the forest and threw her arms tightly around Jace, not spea
 
 "What did King Varian say?" Grede asked eagerly.
 
-"You guessed right. He's fully supportive. I even got the feeling that when he handed Ilgalar Tower over to me, he was just waiting for me to throw myself into this plan," Jace said with a wry laugh.
+"You guessed right. He's fully supportive. I even got the feeling that when he handed the Tower of Ilgalar over to me, he was just waiting for me to throw myself into this plan," Jace said with a wry laugh.
 
 "He's not a Dark Iron dwarf!" Grede laughed.
 
 "I set out for here the moment I got your letter, Jace," Vereesa said.
 
-Jace smiled and touched Vereesa's face. "You didn't need to rush off like that, Wen. We need to test whether that teleportation coordinate can actually open a viable portal first. Once we've confirmed what's on the other side and made sure there's really no problem, that's when we contact those Broken."
+Jace smiled and touched Vereesa's face. "You didn't need to rush off like that, Vere. We need to test whether that teleportation coordinate can actually open a viable portal first. Once we've confirmed what's on the other side and made sure there's really no problem, that's when we contact those Broken."
 
 "I can't wait that long," Vereesa said, looking at Sola behind Jace. "I have to watch it open with my own eyes, or I'll lose my mind right then and there. Not even the Sunwell could save me…"
 
@@ -34,7 +34,7 @@ That night, everyone had originally planned to get a good night's sleep, but in 
 
 The moment the arcane lights in the library level came on, there was no way Jace could sleep either. He tossed and turned in bed, occasionally glancing at Vereesa by the railing, staring fixedly below without blinking.
 
-In the end, he beckoned Morophil over and had herself put him to sleep. Nervousness and anticipation were one thing, but he had to have enough energy…
+In the end, he beckoned Morophil over and had her put him to sleep. Nervousness and anticipation were one thing, but he had to have enough energy…
 
 Because no matter what, the first one through the portal would have to be him — the one most familiar with demons and Void forces.
 
@@ -108,7 +108,7 @@ Everyone fell silent, watching the dust drifting in the air. So this was Draenor
 
 Although the orcs had brought all sorts of junk over from that side, the Dark Portal had been closed for several years now… Jace reached out and touched the dust, then said, "I'll go in first. I'm more familiar with the Twisting Nether."
 
-Vereesa took a hard breath and stepped aside. Jace nodded, gripped Ursales, and stepped through.
+Vereesa took a hard breath and stepped aside. Jace nodded, gripped Ulthalesh, and stepped through.
 
 He felt the tower's energy shudder distinctly as he crossed the threshold, as if he'd stepped into a sticky river of the abyss…
 
@@ -124,11 +124,11 @@ Jace had seen the dust the felhound had tracked in and thought that once he went
 
 But this was clearly a dark room. No living things, completely silent, total darkness.
 
-Jace tried observing through Detect Demon sight — also nothing.
+Jace tried observing through Sense Demons sight — also nothing.
 
-He drew the Song of the Blue Sky and used Arcane Brilliance to illuminate the area. A badly damaged wall suddenly appeared before him.
+He drew Azuresong and used its arcane radiance to illuminate the area. A badly damaged wall suddenly appeared before him.
 
-On the wall were some damaged relief inscriptions, parts of which had flaked off. After studying them carefully, Jace realized this was likely Eredar script.
+On the wall were some damaged relief inscriptions, parts of which had flaked off. After studying them carefully, Jace realized this was likely Eredun script.
 
 One section read: *Losing direction, seek… instruction, remember…*
 

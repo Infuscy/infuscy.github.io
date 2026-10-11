@@ -44,7 +44,7 @@ Jace wasn't surprised that the Kirin Tor had been monitoring his movements in St
 
 "I came to see you today, Archmage Antonidas, about the Violet Hold matter too." Jace said. "I met with Kel'Thuzad. I imagine you already know about that."
 
-"Yes." Antonidas said. "Krasus had someone inform me immediately."
+"Yes." Antonidas said. "Kassan had someone inform me immediately."
 
 "I don't think he's acting alone," Jace said.
 
@@ -60,7 +60,7 @@ Antonidas fell silent. Jace said quietly, "Death is not the end. He wants me to 
 
 The old mage thought for a moment. "You think that's some kind of threat? That he's mastered some necromancy that would let him resurrect after death?"
 
-"Yes," Jace said. "Master Krasus mentioned that if Kel'Thuzad dies in prison... given his former position in the Kirin Tor, you'd be the one to handle his funeral arrangements."
+"Yes," Jace said. "Master Kassan mentioned that if Kel'Thuzad dies in prison... given his former position in the Kirin Tor, you'd be the one to handle his funeral arrangements."
 
 "He's not wrong," Antonidas said. "But Kel'Thuzad was my student. He's much younger than me. I may not get the chance to handle that."
 
@@ -84,12 +84,12 @@ Jace was briefly stunned. Antonidas continued, "How about this: if he truly dies
 
 "Thank you, Master." Jace said. "That would put my mind at ease."
 
-Antonidas smiled slightly. "Due to my health and other reasons, I've never had the chance to formally thank you on behalf of the Kirin Tor and Dalaran for bringing back Archmage Vargus and the many Kirin Tor members who followed the Sons of Lothar through the Dark Portal. I must apologize for that, Mr. Sesso."
+Antonidas smiled slightly. "Due to my health and other reasons, I've never had the chance to formally thank you on behalf of the Kirin Tor and Dalaran for bringing back Archmage Vargoth and the many Kirin Tor members who followed the Sons of Lothar through the Dark Portal. I must apologize for that, Mr. Sesso."
 
-"No need to apologize at all, Master." Jace said. "About Archmage Vargus... there's actually something else I'd like to ask his help with. Some demon soul fragments I brought back from Auchindoun."
+"No need to apologize at all, Master." Jace said. "About Archmage Vargoth... there's actually something else I'd like to ask his help with. Some demon soul shards I brought back from Auchindoun."
 
-Antonidas's smile faded. "Trading soul fragments within the kingdoms of Lordaeron and Dalaran is a serious violation of Kirin Tor regulations. Even demon soul fragments."
+Antonidas's smile faded. "Trading soul shards within the kingdoms of Lordaeron and Dalaran is a serious violation of Kirin Tor regulations. Even demon soul shards."
 
 "For research, Master." Jace said, entirely serious. "Not commercial."
 
-The old mage studied Jace for a long moment before saying, "Then I'll write a letter to Master Vargus."
+The old mage studied Jace for a long moment before saying, "Then I'll write a letter to Master Vargoth."

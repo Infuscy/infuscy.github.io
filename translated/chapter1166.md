@@ -1,6 +1,6 @@
 ## Chapter 1166: Sitting Down Together Again
 
-That evening, the Pig and Whistle Inn. Jace sat with Vereesa. The elf's fingers tapped nervously on the table without pause — she'd lost all the composure a Ranger-Lord ought to have.
+That evening, the Pig and Whistle Tavern. Jace sat with Vereesa. The elf's fingers tapped nervously on the table without pause — she'd lost all the composure a Ranger Lord ought to have.
 
 "You look awfully nervous," Jace asked, leaning back in his chair.
 
@@ -18,7 +18,9 @@ A dwarf with a head of black hair walked in from outside, looking around. "Where
 
 "Ha!" Grede pointed at them. His legs went drumstick-fast, his short and stocky body barreling through the crowd to deliver him to Jace's front, then he threw himself straight into Jace's arms.
 
-Jace was slammed by this hundred-plus-kilo wrecking ball. He had to brace the table behind him to keep from toppling over. "Good to see you mostly intact." Grede let go and gave Jace's shoulder a hearty slap.
+Jace was slammed by this hundred-plus-kilo wrecking ball. He had to brace the table behind him to keep from toppling over.
+
+"Good to see you mostly intact." Grede let go and gave Jace's shoulder a hearty slap.
 
 "Mostly intact?" Jace asked. "What's missing?"
 
@@ -28,17 +30,19 @@ Grede stroked his big beard. "This. You shaved your beard off and look like a ki
 
 "'Hello' in Elvish sure is a long word." The dwarf looked at the elf. "But I'll try to take its original meaning in the best light, Lady Vereesa."
 
-Vereesa couldn't help but laugh. "Make a little room — you're blocking the seat and Solia's got nowhere to sit." The dwarf looked up. Solia stood to the side, smiling at him.
+Vereesa couldn't help but laugh. "Make a little room — you're blocking the seat and Sola's got nowhere to sit."
+
+The dwarf looked up. Sola stood to the side, smiling at him.
 
 "Sorry, miss." Grede grinned and moved aside. "But you can understand how excited I am to see these two, right?"
 
-"Of course." Solia nodded and sat inside. After Grede sat down, he slapped the table and said in a low voice, "When we set out, I thought this green dragon couldn't wait to get back to her home in Ashenvale. But we hadn't been flying a few days before she started going on about how Jace was doing, what Vereesa must be thinking, what Jace would do if he were here, we should go back and ask…"
+"Of course." Sola nodded and sat inside. After Grede sat down, he slapped the table and said in a low voice, "When we set out, I thought this green dragon couldn't wait to get back to her home in Ashenvale. But we hadn't been flying a few days before she started going on about how Jace was doing, what Vereesa must be thinking, what Jace would do if he were here, we should go back and ask…"
 
-"I don't think I said it that many times." Solia cut him off immediately.
+"I don't think I said it that many times." Sola cut him off immediately.
 
 "Well, well — at least enough to make this old friend of theirs, who knows them inside and out, wear out his ears." Grede raised both hands. "Makes it seem like I'm completely useless without the two of them."
 
-"Solia understands very well how important a ranger is to an adventuring party," Vereesa emphasized.
+"Sola understands very well how important a ranger is to an adventuring party," Vereesa emphasized.
 
 "Important indeed." Grede looked around with an air of seriousness, then said, "So where's our ranger? All I know is there's an elf maniac in our party…"
 
@@ -46,13 +50,13 @@ Jace, propping his cheek to the side, shook with barely suppressed laughter. Ver
 
 "You're still laughing?"
 
-Jace forced his laugh back down, but ended up swallowing too much air and hiccuping instead. That set Grede and Solia off laughing together, and even Vereesa herself ended up laughing along.
+Jace forced his laugh back down, but ended up swallowing too much air and hiccuping instead. That set Grede and Sola off laughing together, and even Vereesa herself ended up laughing along.
 
 The cheerful laughter blended the ease of this table with the atmosphere of the whole tavern. Grede shouted happily, "Quick, come on — get a serving wench for this table with an extremely high level of racial diversity!"
 
-"Coming right away, Mister Dwarf!" a voice called back from the crowd, but there was no idea who was shouting.
+"Coming right away, Mr. Dwarf!" a voice called back from the crowd, but there was no idea who was shouting.
 
-Grede choked on his own saliva and coughed. After he sat down, he looked at Jace and said in a low voice, "I heard from Solia that you finally brought your parents over to Stormwind."
+Grede choked on his own saliva and coughed. After he sat down, he looked at Jace and said in a low voice, "I heard from Sola that you finally brought your parents over to Stormwind."
 
 "Yes," Jace nodded. "They're staying in my place."
 
@@ -66,9 +70,9 @@ Jace nodded. Vereesa said from the side, "And friends like him."
 
 Just then the serving wench arrived. Grede gave her a sidelong look. "We're not going tomorrow, are we, hmm? Then bring us a round of Ironforge pale ale. Everyone here…"
 
-"I'll pass," Vereesa said. "Didn't Solia tell you we're heading south tomorrow?"
+"I'll pass," Vereesa said. "Didn't Sola tell you we're heading south tomorrow?"
 
-"I thought you'd already joined our team and absorbed our habits!" Grede complained. "Fine — add a cup of even more boring goat milk to the boring Bronzebeard beer, tall sir."
+"I thought you'd already joined our team and absorbed our habits!" Grede complained. "Fine — add a cup of even more boring goat milk to the boring Bronzebeard beer, lass."
 
 The serving wench nodded. Grede then casually ordered some grilled ribs and roasted fruit. After she left, Vereesa leaned in eagerly and whispered, "I heard you met the leader of Mount Hyjal in Astranaar."
 
@@ -84,9 +88,9 @@ Still, he was quite curious about this moon priestess who'd ruled Mount Hyjal an
 
 "She was like a pale pink gem — a finely wrought, living statue." Grede smacked his lips. "Her hair was a blue like water, and she wore an extremely simple, plain white dress. Just standing beside her made the whole world feel less and less real."
 
-Vereesa frowned and said nothing. Solia slowly nodded. "I felt that way too."
+Vereesa frowned and said nothing. Sola slowly nodded. "I felt that way too."
 
-"But she didn't go around lifting her nose to the sky all the time like the elves on your side do," Grede added. "If she was just being very respectful toward Solia, that would be one thing. But she was courteous and friendly even to an outsider like me."
+"But she didn't go around lifting her nose to the sky all the time like the elves on your side do," Grede added. "If she was just being very respectful toward Sola, that would be one thing. But she was courteous and friendly even to an outsider like me."
 
 Hearing that, Vereesa snorted in displeasure.
 
@@ -100,16 +104,18 @@ Grede took another gulp of the wooden mug the serving wench had brought, licked 
 
 Vereesa burst out laughing. Grede blew at his beard and glared at Jace, but immediately held up a finger. "But the High Priestess did say she'd very much like to meet you in person. She knows about many of the things you've done, Jace."
 
-"We'll have a chance in the future," Jace said. "When we go visit Motha in Kalimdor again." Grede chuckled. "No need to make a special trip just to take me to see Motha."
+"We'll have a chance in the future," Jace said.
 
-"We want to see Motha too," Jace said, and Vereesa nodded.
+"When we go visit Mosa in Kalimdor again." Grede chuckled. "No need to make a special trip just to take me to see Mosa."
+
+"We want to see Mosa too," Jace said, and Vereesa nodded.
 
 "She misses you very much too, Jace." Grede drained the beer from his mug in one gulp and let out a breath. "Misses you both very much."
 
-Jace hummed an acknowledgment, realizing he probably shouldn't have brought up a topic that made Grede sad in this kind of atmosphere. He looked at Solia and asked, "Oh, right — do your kin know we're going there tomorrow?"
+Jace hummed an acknowledgment, realizing he probably shouldn't have brought up a topic that made Grede sad in this kind of atmosphere. He looked at Sola and asked, "Oh, right — do your kin know we're going there tomorrow?"
 
-"They're already waiting for us there, Jace," Solia said. "I told them in my sleep."
+"He's already waiting for us there, Jace," Sola said. "I told him in my sleep."
 
 "He?" Vereesa asked. "Who?"
 
-"Thalar." Solia looked at the elf. "He's something of an older brother of mine, and one of the Dream Wardens of the Queen. He'll be the one to help make that bow."
+"Taerar." Sola looked at the elf. "He's something of an older brother of mine, and one of the Dream Guardians of the Queen. He'll be the one to help make that bow."

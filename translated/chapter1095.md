@@ -1,14 +1,14 @@
 ## Chapter 1095: The Magister's Secret Research?
 
-Morgan found half a bottle of Vitality Potion on Veras's body — a potion that restored both life force and mana at once.
+Morgan found half a bottle of Rejuvenation Potion on Veras's body — a potion that restored both life force and mana at once.
 
-In truth, elves like Vereesa who carried healing potions on missions were very few. Most high elves preferred Vitality Potions, or even just Mana Potions. To a lot of Quel'Thalas arcanists, mana was practically the same as life force.
+In truth, elves like Vereesa who carried healing potions on missions were very few. Most high elves preferred Rejuvenation Potions, or even just Mana Potions. To a lot of Quel'Thalas arcanists, mana was practically the same as life force.
 
-Jace handed the Vitality Potion to Maela. "Drink it."
+Jace handed the Rejuvenation Potion to Maela. "Drink it."
 
 "Thank you, thank you, Master Sesso." Maela relaxed considerably.
 
-Watching her take the potion and down it in one gulp, Jace said, "Now come with us and move your colleagues' bodies out. I'm sure you don't want to watch them rot bit by bit and join the ghouls' ranks. A Great Graveyard full of undead war heroes with top-tier combat skills is bad enough. I don't feel like adding a few undead mages to the mix."
+Watching her take the potion and down it in one gulp, Jace said, "Now come with us and move your colleagues' bodies out. I'm sure you don't want to watch them rot bit by bit and join the ghouls' ranks. A Raven Hill Cemetery full of undead war heroes with top-tier combat skills is bad enough. I don't feel like adding a few undead mages to the mix."
 
 "Yes, sir." The ranger forced herself up using the headstone, saluted in Farstrider fashion, and couldn't hold back a few more coughs.
 
@@ -20,9 +20,9 @@ Dazarm IV had said its goodbyes to Jace, but its massive headless body left on A
 
 This was enough to show that Dar'Khan had some experience dealing with felhounds. His decision to cut off its head felt more like venting or making a statement.
 
-Right now, Jace glanced toward the tree line where Morfile was hiding, wanting to see if the succubus had taken any serious injuries. But Morfile seemed unwilling to respond to his command and show herself.
+Right now, Jace glanced toward the tree line where Morophil was hiding, wanting to see if the succubus had taken any serious injuries. But Morophil seemed unwilling to respond to his command and show herself.
 
-He knew that in front of a paladin — or an aspiring paladin — who'd just called upon the Holy Light, Morfile naturally had no desire to appear. Through the soul link Jace could tell her injuries weren't serious, so he didn't press it.
+He knew that in front of a paladin — or an aspiring paladin — who'd just called upon the Holy Light, Morophil naturally had no desire to appear. Through the Soul Link Jace could tell her injuries weren't serious, so he didn't press it.
 
 Still, given that they'd just fought side by side in a very real sense, and Morgan had witnessed the whole thing from a jackalope's-eye view, there was nothing left he hadn't seen — and whatever he shouldn't have seen, he'd seen it all.
 
@@ -36,7 +36,7 @@ Putting one over on this ranger, or other strangers, was one thing. Putting one 
 
 The cold rain showed no sign of letting up, but at least under the tree cover outside the graveyard, it offered some shelter.
 
-Dar'Khan's expression still carried a trace of the agony of being run through by Acherus, along with the vacant look common to most dead faces.
+Dar'Khan's expression still carried a trace of the agony of being run through by Archeus, along with the vacant look common to most dead faces.
 
 Jace recalled what he'd said to Dar'Khan back when they'd first walked out of the crypt, talking.
 
@@ -64,7 +64,7 @@ Jace scratched his head and loosened the tangle of thoughts slowly knotting toge
 
 Surrounded by the walking dead and dark forces in a place like this, he found his thinking easily led astray — especially in his current weakened state. And no amount of forcing it would get him answers now.
 
-That was when Morgan handed the Silvermoon Archmagister's Staff of the Torrent to Jace. It was silver throughout, inlaid with several mana gems of pure energy. The head was a cluster of sharp symbols woven into an arcane sigil, with an extremely powerful arcane gem embedded at the center.
+That was when Morgan handed the Silvermoon Grand Magister's Staff of the Torrent to Jace. It was silver throughout, inlaid with several mana gems of pure energy. The head was a cluster of sharp symbols woven into an arcane sigil, with an extremely powerful arcane gem embedded at the center.
 
 This close, Jace could even feel its deep connection to the Sunwell.
 
@@ -80,7 +80,7 @@ Jace could feel that he'd probably be affected by this baffling encounter for a 
 
 "It's fine," Jace said, eyeing the ranger sitting silently beside them, too frightened to speak. "These people had been watching me for a long time. Getting it over with on this occasion is actually a good thing."
 
-Back in Raven Hill, the town guards were thoroughly shocked by this elven ranger brought back from the Great Graveyard. Jace walked the chief sergeant through the whole story from start to finish. The officer and the several lieutenants listening exchanged stunned glances. No one dared say a word.
+Back in Raven Hill, the town guards were thoroughly shocked by this elven ranger brought back from the Raven Hill Cemetery. Jace walked the chief sergeant through the whole story from start to finish. The officer and the several lieutenants listening exchanged stunned glances. No one dared say a word.
 
 A Silvermoon magister, carrying Quel'Thalas's treasure staff, traveling thousands of miles into Stormwind territory to assassinate King Varian's court mage?
 
@@ -90,6 +90,6 @@ Whatever repercussions this might cause down the line, right now the priority wa
 
 Jace was fairly injured, so Morgan led a Stormwind priest and a squad of soldiers into the forest to retrieve the corpses.
 
-Raven Hill didn't have a reliable jail, so the officers discussed whether, by the next morning, they should send the ranger and the elves' bodies on to Duskwood Town first.
+Raven Hill didn't have a reliable jail, so the officers discussed whether, by the next morning, they should send the ranger and the elves' bodies on to Darkshire first.
 
-Since the soldiers had a plan, Jace volunteered to join the escort with his griffon Gorjet and head to Duskwood Town too. For one thing, the conditions here really were too poor for recovery. For another, he wasn't comfortable leaving the soldiers to escort this elf. She was a Farstrider, after all. If she found a chance to escape, she wouldn't be easy to track down again.
+Since the soldiers had a plan, Jace volunteered to join the escort with his gryphon Gorjet and head to Darkshire too. For one thing, the conditions here really were too poor for recovery. For another, he wasn't comfortable leaving the soldiers to escort this elf. She was a Farstrider, after all. If she found a chance to escape, she wouldn't be easy to track down again.

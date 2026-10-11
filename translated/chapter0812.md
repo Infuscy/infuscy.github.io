@@ -4,7 +4,7 @@ Seen from high above, Kalimdor possessed a savage beauty completely unlike Elwyn
 
 The boundless Barrens, bulging hills seated like giants, crisscrossing ravines, lone old trees standing in isolation, herds of kodo beasts wandering, the rumbling bellows of the herd leaders clearly audible even from such a great height.
 
-The gnomes were still inspecting the damage last night's thunderstorm had inflicted on the airship. But from their conversation it was clear the *Sharkbite* hadn't suffered any serious damage — at least it could keep flying to Winterspring.
+The goblins were still inspecting the damage last night's thunderstorm had inflicted on the airship. But from their conversation it was clear the *Sharkbite* hadn't suffered any serious damage — at least it could keep flying to Winterspring.
 
 "After all, this is a veteran of the Orc Wars." Those were the captain's exact words.
 
@@ -18,7 +18,7 @@ Flying into the evening, Jace caught sight at the edge of his vision of a vast, 
 
 From here, he couldn't even see Tidefury Cove or the coast of Dustwallow Marsh — the peninsula where Theramore sat in the game. Dustwallow Marsh was much larger than he remembered.
 
-After a peaceful night, the airship, after a full day's maintenance and repairs by the gnomes, no longer made the persistent clacking noise it had carried out of the storm. It flew calmly and steadily through the high skies above the Barrens.
+After a peaceful night, the airship, after a full day's maintenance and repairs by the goblins, no longer made the persistent clacking noise it had carried out of the storm. It flew calmly and steadily through the high skies above the Barrens.
 
 That evening, Jace came up on deck and looked west, seeing a large flock of tallstriders on the ground sprinting in the direction the airship was heading.
 
@@ -32,17 +32,17 @@ It was just that in the game, these tallstriders were just target numbers for qu
 
 Of course, having lived in this world for twenty years, Jace had already grown accustomed to this occasional feeling of dislocation.
 
-Besides him, a gnome was also watching that flock of tallstriders through a telescope. After a while he said, "We should angle a bit further east."
+Beside him, a goblin was also watching that flock of tallstriders through a telescope. After a while he said, "We should angle a bit further east."
 
 "Why?" Jace asked curiously.
 
-"These tallstriders are fleeing from wind serpents," the gnome explained with animated gestures. "They're the most troublesome things our airships can encounter, and this is exactly where wind serpents live. If you don't know what they are, I can tell you — they're snakes with two wings. A lot of jungle trolls worship these beasts. They can fly very high. The most troublesome thing is that while they're not all that big, the lightning they spit from their mouths is no weaker than a thunder lizard's. You know, there's always a reason trolls worship something."
+"These tallstriders are fleeing from wind serpents," the goblin explained with animated gestures. "They're the most troublesome things our airships can encounter, and this is exactly where wind serpents live. If you don't know what they are, I can tell you — they're snakes with two wings. A lot of jungle trolls worship these beasts. They can fly very high. The most troublesome thing is that while they're not all that big, the lightning they spit from their mouths is no weaker than a thunder lizard's. You know, there's always a reason trolls worship something."
 
 As he spoke, he shouted toward the distance. Before long, the airship gradually turned to one side.
 
 By evening, they had reached the skies above Dustwallow Marsh. Jace felt increasingly uneasy in his gut, so he couldn't help but seek out the navigator Gulrok and ask, "How much longer do we have to fly over the marsh?"
 
-"This is already the northern part of the marsh, sir. Not the southern dark swamps that even the quilboar fear." Gulrok waved a hand. "By midnight at the latest, or tomorrow morning at the earliest, we'll reach the coast and fly over the Rage River. No need to worry. Get a good night's sleep. You won't be able to see much scenery for a long time after this."
+"This is already the northern part of the marsh, sir. Not the southern dark swamps that even the quilboar fear." Gulrok waved a hand. "By midnight at the latest, or tomorrow morning at the earliest, we'll reach the coast and fly over the Southfury River. No need to worry. Get a good night's sleep. You won't be able to see much scenery for a long time after this."
 
 Jace nodded.
 
@@ -64,7 +64,7 @@ He quickly walked down to the stern observation deck and looked up into the sky.
 
 The afterglow of the sunset was spilling over the dark, dense marsh forest as if it couldn't illuminate anything at all. But there was nothing in the sky either.
 
-Could Sazeno have sensed the location of Onyxia's lair? He was a little fellow quite sensitive to dark magic. After eating the Healthstone, he might have become even more sensitive than before. He just hadn't realized it himself, so he felt it was far away... when it was actually close.
+Could Sazeno have sensed the location of Onyxia's lair? He was a little fellow quite sensitive to dark magic. After eating the healthstone, he might have become even more sensitive than before. He just hadn't realized it himself, so he felt it was far away... when it was actually close.
 
 "Are you sure it's closing in?" he asked.
 
@@ -88,9 +88,9 @@ The airship instantly erupted into chaos. Grede, who had been dozing, snapped hi
 
 "It's blocked by the envelope. I can't see it," Jace said, looking at the two of them. "We need to get up on deck!"
 
-With that, he mounted the stairs and returned to the deck. The gnomes who were finishing up their repair work seemed completely unaware of where the danger lay.
+With that, he mounted the stairs and returned to the deck. The goblins who were finishing up their repair work seemed completely unaware of where the danger lay.
 
-"There's something above us!" Jace shouted to all the gnomes.
+"There's something above us!" Jace shouted to all the goblins.
 
 "What." The captain walked over and said, "There are lookouts on the envelope on watch around the clock, sir. If there were anything, they would have informed us. Don't worry too much."
 
@@ -98,7 +98,7 @@ With that, he mounted the stairs and returned to the deck. The gnomes who were f
 
 "Probably just a vulture or..." The captain had barely finished speaking when something suddenly flew down from the side.
 
-It was a gnome clutching his goggles and helmet, plummeting straight down between the trees as he cried out in bewildered shrieks, vanishing without a trace. The captain froze for a moment, then said, "Everyone, prepare for combat!"
+It was a goblin clutching his goggles and helmet, plummeting straight down between the trees as he cried out in bewildered shrieks, vanishing without a trace. The captain froze for a moment, then said, "Everyone, prepare for combat!"
 
 "What enemy, sir?!"
 
@@ -118,11 +118,11 @@ Jace had been standing right at the edge. The sudden lurch made his feet slip an
 
 "Take care of yourself, Master."
 
-Morofir smiled as she yanked him back with a force that was almost startlingly unfamiliar.
+Morophil smiled as she yanked him back with a force that was almost startlingly unfamiliar.
 
 Jace looked at her, nodded, and caught his breath. He noticed Grede not far off had also grabbed the edge of the hatch, but Vereesa was already gone.
 
-"Steady, steady! Keep up your work! Our airship has been through the test of blood and fire in war. A single blast of dragonfire is nothing to the Trade Cartel's envelope protection. This isn't the first time for us, Gulrok!"
+"Steady, steady! Keep up your work! Our airship has been through the test of blood and fire in war. A single blast of dragonfire is nothing to the Steamwheedle Cartel's envelope protection. This isn't the first time for us, Gulrok!"
 
 The captain waved his hand and roared, "Anyone without a task right now, get your harpoons out. Today we'll fight this ignorant bastard to the death—"
 
@@ -130,7 +130,7 @@ The shouting was quickly drowned out by the sound of enormous wings swooping dow
 
 A dark shadow suddenly appeared from the side of the swaying airship. It growled and shrieked as it fell from a high place, frantically beating its giant wings, trying to fly up again. But the arrows dragging arcs of arcane light that kept raining down from above pierced its head, neck, and chest again and again, disrupting its rhythm and preventing it from recovering its bearing.
 
-It was a black dragon whelp — just a lot smaller than any whelp Jace had seen before. That black dragon they'd encountered in the Dark Iron ruins couldn't even get airborne under Vereesa's assault, let alone this one.
+It was a black drake — just a lot smaller than any drake Jace had seen before. That black dragon they'd encountered in the Dark Iron ruins couldn't even get airborne under Vereesa's assault, let alone this one.
 
 Sure enough, after another arrow was added, its wings could do nothing but twitch and feebly flap. It quickly fell into the forest, leaving behind only a string of furious roars.
 
@@ -138,4 +138,4 @@ Sure enough, after another arrow was added, its wings could do nothing but twitc
 
 "Come help, damn it!" Vereesa shouted from above, her voice nearly breaking. "There are more catching up!"
 
-Jace looked up at the envelope, figured out how to climb up, and said, "Sazeno, language curse — right now!"
+Jace looked up at the envelope, figured out how to climb up, and said, "Sazeno, Curse of Tongues — right now!"

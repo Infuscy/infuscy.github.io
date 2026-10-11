@@ -68,7 +68,7 @@ Veterans of the Orc Wars marched in formation across the newly rebuilt bridge fr
 
 Their destination lay a thousand miles to the southeast — the passage through which the orcs had come from another world: the Dark Portal.
 
-Grand Marshal Turalyon was gathering the army at Nethergarde Keep, preparing to cross the Dark Portal the orcs had built, strike straight at the orcish homeland of Draenor, and put a permanent end to the Horde's threat to this planet — Azeroth.
+Grand General Turalyon was gathering the army at Nethergarde Keep, preparing to cross the Dark Portal the orcs had built, strike straight at the orcish homeland of Draenor, and put a permanent end to the Horde's threat to this planet — Azeroth.
 
 Yet among the crowd seeing the army off, Jace was the only one who knew how this would end.
 
@@ -86,7 +86,7 @@ But to a dwarf like Grede, fighting to the death against an enemy that could des
 
 Gazing at the dwarf warriors who'd come from Aerie Peak, his eyes were full of envy, not worry.
 
-"If that troll bat hadn't clawed out my eye, and I could still throw a hammer true, I'd have followed Kurdran Wildhammer straight through the Dark Portal," he said regretfully in Common with a thick dwarven accent. "Then I'd be General Alleria's comrade-in-arms, and who's to say whether me or your Grand Marshal Turalyon would win the fair lady?"
+"If that troll bat hadn't clawed out my eye, and I could still throw a hammer true, I'd have followed Kurdran Wildhammer straight through the Dark Portal," he said regretfully in Common with a thick dwarven accent. "Then I'd be General Alleria's comrade-in-arms, and who's to say whether me or your Grand General Turalyon would win the fair lady?"
 
 Hearing that, the slightly annoyed looks from the citizens around them quietly faded.
 
@@ -200,13 +200,13 @@ And still a bunch of outsiders like him had fought over it.
 
 Just as he was worrying about it, he spotted a rather unusual posting on the notice board.
 
-"Seeking an assistant. Must have some knowledge of history and archaeology, and ideally some understanding of herbs. Must possess patience and other fine qualities. Work location: the Mage Quarter — Arcanist Malin."
+"Seeking an assistant. Must have some knowledge of history and archaeology, and ideally some understanding of herbs. Must possess patience and other fine qualities. Work location: the Mage Quarter — Archmage Malin."
 
-Arcanist Malin?
+Archmage Malin?
 
 Jace remembered there was a Master Malin in Stormwind's Mage Quarter. His daughter was an excellent mage too, and a decade or so later she'd even taken part in the Alliance and Horde's joint expedition to the north.
 
-If this Arcanist Malin was that Master Malin, wouldn't applying for this assistant position be a perfect chance to become a mage?
+If this Archmage Malin was that Master Malin, wouldn't applying for this assistant position be a perfect chance to become a mage?
 
 History, archaeology, herbs… Jace had never systematically studied history or archaeology, but he figured his understanding of this world's lore should be more than enough to crush most ordinary people.
 

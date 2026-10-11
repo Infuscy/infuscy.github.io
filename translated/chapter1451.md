@@ -1,12 +1,12 @@
 ## Chapter 1451: A Turn of Fortune
 
-Following Morofil's direction through the soul link, Jace hadn't been traveling long when he caught sight of a cottage roof through the dense roadside forest.
+Following Morophil's direction through the Soul Link, Jace hadn't been traveling long when he caught sight of a cottage roof through the dense roadside forest.
 
 The house sat beneath several oak trees, next to a fence with a broken lantern — exactly matching the description Khadgar, or rather, Little Red Riding Hood had given.
 
 More importantly, there was a sign out front, written in beautiful Common script: "Grandmother's House." As if they were afraid the actors might not find the place.
 
-Jace held his rifle as he scanned the surroundings. No sign of Morofil or anyone else. He stepped over the fence and approached the house, pressing his ear to the wall.
+Jace held his rifle as he scanned the surroundings. No sign of Morophil or anyone else. He stepped over the fence and approached the house, pressing his ear to the wall.
 
 No voices inside. No footsteps, or the clatter of pots and pans from everyday life. Just a rhythmic "huff huff" of heavy breathing. The breathing was extremely theatrical — neither the snoring of a sleeping person nor the panting of a beast. More like someone struggling to take deep breaths.
 
@@ -16,13 +16,13 @@ Strictly speaking, in the whole story of Little Red Riding Hood, the real grandm
 
 Thinking this, he approached the window and peered inside. In the dim interior, a single weak candle illuminated the figure of someone lying in bed under thick quilts and blankets, but their face was unclear.
 
-Jace used his demonic senses to look more carefully. The shadow under the blankets... that was Morofil. She'd already "eaten" the real grandmother. That part had gone smoothly.
+Jace used his demonic senses to look more carefully. The shadow under the blankets... that was Morophil. She'd already "eaten" the real grandmother. That part had gone smoothly.
 
 So she knew what came next? Who'd told her?
 
-Jace was about to push the door open and quickly catch Morofil up on the situation. But the moment he reached the door, humming drifted from the path outside. Little Red Riding Hood had arrived.
+Jace was about to push the door open and quickly catch Morophil up on the situation. But the moment he reached the door, humming drifted from the path outside. Little Red Riding Hood had arrived.
 
-Earlier, when he'd left Red Riding Hood, he'd sprinted to catch up with Morofil. But Red Riding Hood had arrived at grandmother's house almost at the same time? That was too fast.
+Earlier, when he'd left Red Riding Hood, he'd sprinted to catch up with Morophil. But Red Riding Hood had arrived at grandmother's house almost at the same time? That was too fast.
 
 The wind pushed aside the canopy. The moonlight grew brighter, shining on Little Red Riding Hood as she approached. Jace had to leave the door and hide in the bushes behind the house.
 
@@ -90,7 +90,7 @@ Cheers erupted from outside. Bright moonlight poured through the window, making 
 
 But the wolf-woman wasn't intimidated. She twisted her face into a grin. "Cut open my belly and find out!"
 
-Was he really supposed to cut open Morofil's belly?
+Was he really supposed to cut open Morophil's belly?
 
 Jace pulled Azuresong from his waist — no, it was a slightly longer hunting knife.
 
@@ -118,7 +118,7 @@ The four walls of the cabin fell away with a crash. Jace realized they were back
 
 The ghostly band struck up a cheerful tune. The audience erupted in applause and cheers. The nobles hugged each other joyfully, as if celebrating Little Red Riding Hood's rescue.
 
-Morofil and Khadgar had already returned to their original appearances. From both sides, they joined Jace, holding hands as they bowed to the audience. As Jace bowed, he glanced sideways. Barnes was clapping at the edge of the stage, smiling. But... a fourth person?
+Morophil and Khadgar had already returned to their original appearances. From both sides, they joined Jace, holding hands as they bowed to the audience. As Jace bowed, he glanced sideways. Barnes was clapping at the edge of the stage, smiling. But... a fourth person?
 
 Backstage, Khadgar immediately waved. "Quick. Follow me."
 
@@ -126,7 +126,7 @@ Backstage, Khadgar immediately waved. "Quick. Follow me."
 
 "Yes." Khadgar pushed open a door into a dark corridor. "Thank me later. Before the wolf-woman 'ate' me, I managed to tweak the lines a bit to hint at what comes next."
 
-"Being able to understand your hints is proof enough of my exceptional grasp of human stories." Morofil emphasized.
+"Being able to understand your hints is proof enough of my exceptional grasp of human stories." Morophil emphasized.
 
 "Undoubtedly." Khadgar nodded.
 
@@ -134,9 +134,9 @@ Jace followed the two into the dark passage. After walking a while, he said, "I 
 
 "What demons?" Khadgar turned back.
 
-"I mean the script." Jace said. "You're familiar with this theater. Have you seen Little Red Riding Hood before? Earlier, our Little Red Riding Hood said in the forest that she thought Morofil was a demon."
+"I mean the script." Jace said. "You're familiar with this theater. Have you seen Little Red Riding Hood before? Earlier, our Little Red Riding Hood said in the forest that she thought Morophil was a demon."
 
-Khadgar stopped, looking at the succubus. Morofil nodded too.
+Khadgar stopped, looking at the succubus. Morophil nodded too.
 
 "No." Khadgar shook his head. "I don't remember any discussion about demons."
 

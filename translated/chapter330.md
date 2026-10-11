@@ -40,9 +40,9 @@ After a moment, the little window slid open again, the skull mask pressed to the
 
 "That hunter wasn't much of a challenge," Jace said, holding the larger half of the mask up to the window. "But the mask is broken."
 
-Sylia suddenly wrenched the door open and unleashed a long string of trollish. Jace couldn't understand it, but he knew it wasn't anything pleasant.
+Sylia suddenly wrenched the door open and unleashed a long string of Zandali. Jace couldn't understand it, but he knew it wasn't anything pleasant.
 
-She snatched the half-mask from Jace's hand, then looked at the other half. Her hands trembled for a moment. She said something in trollish, then seemed to realize the human in front of her couldn't understand, and switched to Common: "That troll — did you kill her?"
+She snatched the half-mask from Jace's hand, then looked at the other half. Her hands trembled for a moment. She said something in Zandali, then seemed to realize the human in front of her couldn't understand, and switched to Common: "That troll — did you kill her?"
 
 "No," Jace said. "You said to kill her if she wouldn't hand it over. She handed it over. Why would I kill her?"
 
@@ -70,9 +70,9 @@ Granted, those two thick-toed feet helped trolls move nimbly through the forest'
 
 The inside of the cave was far more tidy than he'd imagined. Though it was dug out, the walls and ceiling were smooth, supported by pillars and looking quite stable.
 
-This place must have already existed before the troll arrived. She'd simply repurited it.
+This place must have already existed before the troll arrived. She'd simply repurposed it.
 
-The witch doctor kept an assortment of materials arranged neatly on several shelves — unidentified animal palms, unidentified creature scales, and a few dried animal specimens.
+The witch doctor kept an assortment of materials arranged neatly on several shelves — unidentified animal paws, unidentified creature scales, and a few dried animal specimens.
 
 And of course, several shriveled skulls with their craniums and eyeballs removed, eyelids and lips sewn shut.
 
@@ -94,26 +94,18 @@ Jace took the mushroom and pulled a gold coin from his elven cloth pouch to hand
 
 Sylia stared at the box holding the mask. "It's been destroyed. Its magic is gone. So now it's a piece of junk — meaningless beyond a little sentiment, human."
 
-"Sorry. Just curious." Jace said. "I have some other things I wanted to ask about. Regarding fel essence."
+"Sorry. Just curious." Jace said. "I have some other things I wanted to ask about. About mojo."
 
-"Hmph. Fel essence." The troll nodded. "Every knowledge-hungry guest who meets a troll they can actually have a conversation with — the first thing they all want to ask about is fel essence."
+"Hmph. Mojo." The troll nodded. "Every knowledge-hungry guest who meets a troll they can actually have a conversation with — the first thing they all want to ask about is mojo."
 
-"What exactly *is* fel essence? Troll blood, or something else?" Jace asked.
+"What exactly *is* mojo? Troll blood, or something else?" Jace asked.
 
 "That's a hard question to answer." Sylia smiled. "You should just buy a bottle and research it yourself. I don't want to discuss this with a human."
 
-"You have fel essence?"
+"You have mojo?"
 
 "Of course I do. And the highest quality kind."
 
 "How much?"
 
-"A bottle, eighty silver." Sylia held up two fingers. "This size. You won't find better fel essence in all of Booty Bay."
-
-## Flags
-
-- **Chapter title**: 巫医的住处 — "The Witch Doctor's Dwelling" (lit. "The Witch Doctor's Residence").
-- **Key terms**: 撒厄诺 = Sazeno (imp); 西尔娅 = Sylia (forest troll witch doctor OC); 魔精 = fel essence (fanfic term for a troll alchemical/voodoo substance); 洛阿 = Loa (troll gods, canon); 阿曼尼 = Amani; 妖术师 = witch doctor / hexer; 古拉巴什 = Gurubashi; 巫术面具 = voodoo mask (西尔娅's mask, revealed to be a "巫术面具" — a voodoo/shamanic mask with a spirit); 辛特兰 = the Hinterlands.
-- **Lore note**: Fel essence (魔精) is described as a magical substance extracted from beasts and trolls through voodoo rituals — the purer, the more viscous. The Amani believe it to be the blood of the Loa, which is why the Loa's children (bears, panthers, wind serpents, hawkstriders, raptors, and trolls themselves) carry it. Sylia refuses to elaborate and tells Jace to buy a bottle and research it himself.
-- **Content note**: This chapter contains explicit sexual content (Sylia propositions Jace to "replace" the broken mask; the scene is rendered faithfully but without gratuitous detail). The mask is revealed to have been a voodoo object containing a spirit — essentially a magical companion/intimate partner for Sylia.
-- **Source**: lines 20145–20201 (chapter ends at the fel essence price reveal; the explicit scene continues into 第331章).
+"A bottle, eighty silver." Sylia held up two fingers. "This size. You won't find better mojo in all of Booty Bay."

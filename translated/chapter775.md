@@ -44,7 +44,7 @@ The dwarf guard's eyes were half-hidden behind his helmet rim. Jace couldn't eve
 
 Jace more or less caught his meaning, and pronounced the word in clear, standard Common: "Inn."
 
-"Ah… inn." The dwarf repeated the Common word in an enlightened tone, then set his axe and shield down on the ground while rattling on in Dwarvish. He extended both gauntleted hands — one showing five fingers, the other showing seven.
+"Ah… inn." The dwarf repeated the Common word in an enlightened tone, then set his axe and shield down on the ground while rattling on in Dwarvish. He extended both gauntleted hands — first showing five fingers, then seven.
 
 "Seven? Or twenty-five?" Jace frowned. He had no idea what the guard was trying to convey.
 
@@ -54,7 +54,7 @@ Jace looked up — and seemed to understand all at once.
 
 Grede had told him Ironforge had many levels, but the game's stereotypical impression had always made him feel like all of Ironforge's districts were on a single floor…
 
-So was this dwarf guard saying they were on the fifth level, and the inn was on the seventh? "The Little Ring," the guard suddenly said in Common.
+So was this dwarf guard saying they were on the fifth level, and the inn was on the seventh? "Little ring," the guard suddenly said in Common.
 
 "What?" Jace looked down. The guard was pointing at the ring on his hand. "I look at little ring."
 
@@ -64,22 +64,4 @@ He wanted to inspect Jace's ring. Jace held his hand out. The guard studied it, 
 
 "Jace Sesso!" the guard repeated, then launched into a long torrent of Dwarvish that Jace couldn't understand at all, drawing the attention of dwarves nearby.
 
-Jace was deeply convinced that he'd learned a ridiculous number of languages — he even knew a bit of Eredun, a tongue that barely a handful of beings in the whole Twisting Nether could speak. And yet the languages of the Alliance's own allies — whether elvish or Dwarvish — he was next to illiterate in all of them. Wasn't that a bit much?
-
-## Flags
-
-- **铁炉堡** → Ironforge (canonical).
-- **铜须之旗** → the Bronzebeard banner (gold-and-red-crested warhammer on white).
-- **洛丹伦王旗** → the Lordaeron royal standard (white flag; Jace notes the dissonance of seeing it here).
-- **格瑞姆巴托** → Grim Batol (canonical; comparison of the two dwarven cities).
-- **蛮锤** → Wildhammer (dwarven clan; their old capital is Grim Batol).
-- **龙喉兽人** → Dragonmaw orcs (canonical; occupied Grim Batol).
-- **黑暗之门** → the Dark Portal (canonical; Jace recalls seeing Ironforge guards in the war).
-- **恶魔卫士** → felguard (Burning Legion demon infantry).
-- **战斗法师** → battle mages (Jace's role in the war).
-- **小圆环** → the Little Ring (one of Ironforge's canonical ring levels; the inn is on the seventh level).
-- **格瑞姆巴托** → Grim Batol (the guard recognizes Jace from his exploit there).
-- **埃雷杜因语** → Eredun (demonic language; Jace's running joke about knowing obscure demon tongues but not Alliance languages).
-- **精灵语 / 矮人语** → elvish / Dwarvish (Thalassian and Dwarvish; Jace's self-deprecating note about his language gaps).
-- **暴风要塞** → Stormwind Keep (canonical; royal guards).
-- **名扬三锤** (chapter 776 title, glimpsed at line 43500) → "Renowned Across the Three Hammers" (the Three Hammers = the three dwarven clans / the Council of Three Hammers).
+Jace was deeply convinced that he'd learned a ridiculous number of languages — he even knew a bit of Ered'ruin, a tongue that barely a handful of beings in the whole Twisting Nether could speak. And yet the languages of the Alliance's own allies — whether Elvish or Dwarvish — he was next to illiterate in all of them. Wasn't that a bit much?

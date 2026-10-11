@@ -52,11 +52,11 @@ The young man cut her off. "Are you talking to me? You mean I'm this 'Jace Sesso
 
 "You found Grede?"
 
-The woman who called herself "Vereesa" moved closer. The young man noticed her magical eyes glowing with pale blue arcane light. She was an elf — a quel'dorei, by the look of her.
+The woman who called herself "Vereesa" moved closer. The young man noticed her magical eyes glowing with pale blue arcane light. She was an elf — a Quel'dorei, by the look of her.
 
 It wasn't just her that felt inexplicably familiar and close. Even this place — this dark chamber filled with strange, mysterious black reliefs — felt like somewhere he'd been before.
 
-He must have been here at some point. With this seemingly unfamiliar quel'dorei woman. What was going on? Why couldn't he remember anything?
+He must have been here at some point. With this seemingly unfamiliar Quel'dorei woman. What was going on? Why couldn't he remember anything?
 
 "Yes, Grede Thunderfist." The young man pressed hard on his brow. "That dwarf fell into the sea. I drowned trying to save him too. I overestimated myself."
 
@@ -116,7 +116,7 @@ The young man looked closer. This wasn't the gray-robed oarsman from before — 
 
 "Who?" the young man asked.
 
-"Grede Thunderfist of the Hinterlands, and Vereesa Windrunner of Quel'Thalas, of course." The tauren woman said. "Take care of Windrunner — she's a fierce and kind ranger. And you're a good warlock. I know that."
+"Grede Thunderfist of the Hinterlands, and Vereesa Windrunner of Quel'Thalas, of course." The tauren woman said. "Take care of Vereesa — she's a fierce and kind ranger. And you're a good warlock. I know that."
 
 "I... alright. Thank you for the advice." The young man nodded and hurried toward the pier.
 
@@ -124,9 +124,9 @@ But as he passed the tauren, he noticed the antler hanging from her belt. Someth
 
 "What's that?" he asked, pointing at the antler.
 
-"Hmm." The tauren lowered her head. "This is Celebras's Horn. We barely escaped from Maraudon and ran into some forest keepers. Have you forgotten, Jace Sesso? Did you get poisoned by silithid venom..."
+"Hmm." The tauren lowered her head. "This is Celebras's antler. We barely escaped from Maraudon and ran into some keepers of the grove. Have you forgotten, Jace Sesso? Did you get poisoned by silithid venom..."
 
-"Celebras's Horn..." The young man squinted, thinking for a moment. Then he looked up at the tauren. "You might think I've lost my mind. That I'm talking nonsense. But I think — you shouldn't be here. Go north. Find the leader of the forest keepers. Their leader. They'll help you. But be careful of the satyr demons. They'll use old legends to trick you, lure you into nightmares."
+"Celebras's antler..." The young man squinted, thinking for a moment. Then he looked up at the tauren. "You might think I've lost my mind. That I'm talking nonsense. But I think — you shouldn't be here. Go north. Find the leader of the keepers of the grove. They'll help you. But be careful of the satyr demons. They'll use old legends to trick you, lure you into nightmares."
 
 "Satyr? Nightmare..."
 
@@ -142,13 +142,6 @@ He didn't know why he'd said that. Why those things had suddenly come to mind. H
 
 The tauren shifted into a large, powerful cat and bounded toward the mist-shrouded forest in the distance. The young man looked at the great ship, and couldn't help thinking of Vereesa Windrunner's words.
 
-...Don't listen to that boatman. Don't get on his boat.
+*...Don't listen to that boatman. Don't get on his boat.*
 
-"I'm coming right now! Wait for me, Mossa!"
-
-## Flags
-
-- **塞布雷拉斯之角** → Celebras's Horn. References the Maraudon dungeon boss Celebras the Cursed.
-- **玛拉顿** → Maraudon. Canonical WoW dungeon in Desolace.
-- **异种虫** → Silithid. Canonical insectoid race.
-- **森林看守者** → Forest keepers. General term for dryads/keepers of the grove.
+"I'm coming right now! Wait for me, Mosa!"

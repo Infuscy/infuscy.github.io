@@ -4,11 +4,11 @@ Jace stepped out of Sola's room and tried not to dwell on what she'd said.
 
 The more he thought about Alexstrasza's reasons for giving him the Chain of Will, the less it felt like a reward and more like a burden. But everything powerful came with a negative side — that was unavoidable, and he understood that well enough.
 
-He headed to the staff shop. The Mirror Stone Staff he'd commissioned from Allen Hafgan was finished, and Jace picked it up. While he was at it, he also bought a roll of mageweave cloth to wrap the staff in.
+He headed to the staff shop. The Mirrorstone Staff he'd commissioned from Allan Hafgan was finished, and Jace picked it up. While he was at it, he also bought a roll of mageweave cloth to wrap the staff in.
 
-A single roll of cloth cost twelve silver and fifty copper — more expensive than the staff itself. But the Black Knight cloak he'd been making do with was falling apart, and the disharmonious aura clinging to it was the kind of thing a sensitive person would notice. A fresh wrapping was the smarter move.
+A single roll of cloth cost twelve silver and fifty copper — more expensive than the staff itself. But the Dark Rider cloak he'd been making do with was falling apart, and the disharmonious aura clinging to it was the kind of thing a sensitive person would notice. A fresh wrapping was the smarter move.
 
-He pulled out the old cloak, tied on his mask, laced up his boots, hung the Song of the Blue Sky in its new sheath at his belt, and shouldered Ursolus, which — swaddled in mageweave — looked like a blueberry-flavored lollipop. Hand resting on the Soul Mirror Stone Staff, he straightened up and turned this way and that.
+He pulled out the old cloak, tied on his mask, laced up his boots, hung Azuresong in its new scabbard at his belt, and shouldered Ulthalesh, which — swaddled in mageweave — looked like a blueberry-flavored lollipop. Hand resting on the Soul Mirrorstone Staff, he straightened up and turned this way and that.
 
 He caught his reflection in the window. He was still dressed in the same thrown-together mess, but he looked nothing like that blue-and-green-clad adventurer idiot from before. Now he looked like a traveler with a story to tell — one who also happened to know a bit of magic.
 
@@ -28,7 +28,7 @@ The flames in Morophil's eyes lit up, and she said with a face full of glee, "I 
 
 "Yeah… sure…" Jace humored her.
 
-Originally, Jace had planned to ride Alna to Moonbrook. But when he was about to head to the Mage Quarter, it hit him — Alna had something of a reputation around the Mage Quarter and the Wizard Sanctum by now. Since the Wizard Sanctum didn't want him involved in the Moonbrook investigation, he couldn't very well ride the mare the king himself had given him there. Plenty of mages would recognize that pretty horse who'd been lingering in the stables for ages.
+Originally, Jace had planned to ride Arna to Moonbrook. But when he was about to head to the Mage Quarter, it hit him — Arna had something of a reputation around the Mage Quarter and the Wizard's Sanctum by now. Since the Wizard's Sanctum didn't want him involved in the Moonbrook investigation, he couldn't very well ride the mare the king himself had given him there. Plenty of mages would recognize that pretty horse who'd been lingering in the stables for ages.
 
 Not many people could ride gryphons around here anyway, so Jace was stuck with his old standby: hitchhiking.
 
@@ -38,9 +38,9 @@ As they passed Sentinel Hill, he noticed the place had changed enormously since 
 
 Despite the sheer number of soldiers, their expressions were distinctly unfriendly.
 
-And they were checking everyone who passed through with excruciating thoroughness, clogging up every road near Sentinel Hill. Judging by their tense attitudes, the situation was clearly not as rosy as the Wizard Sanctum had it sound.
+And they were checking everyone who passed through with excruciating thoroughness, clogging up every road near Sentinel Hill. Judging by their tense attitudes, the situation was clearly not as rosy as the Wizard's Sanctum had it sound.
 
-That was when he noticed the passengers in the cart ahead of him having a bundle of tools on their back torn apart and inspected by two soldiers. So what about the thing on his own back — Ursolus?
+That was when he noticed the passengers in the cart ahead of him having a bundle of tools on their back torn apart and inspected by two soldiers. So what about the thing on his own back — Ulthalesh?
 
 Jace hopped down and explained to the carter that he should go ahead and get in line for inspection. If things went south, no point dragging someone else into it.
 
@@ -54,9 +54,9 @@ The succubus was invisible, so she couldn't answer aloud. But through the Soul L
 
 He wondered what she had in mind. Enchantment?
 
-When he reached the checkpoint, a sentinel stepped up to him and asked, "Wizard Sanctum mage?"
+When he reached the checkpoint, a sentinel stepped up to him and asked, "Wizard's Sanctum mage?"
 
-Jace showed him his apprentice mage token. The sentinel nodded, searched his bag — didn't linger too long on the incomprehensible writing inside — and when he drew the Song of the Blue Sky, he just gave an amazed whistle and said, "Mages sure do have all the good stuff."
+Jace showed him his apprentice mage token. The sentinel nodded, searched his bag — didn't linger too long on the incomprehensible writing inside — and when he drew Azuresong, he just gave an amazed whistle and said, "Mages sure do have all the good stuff."
 
 At that moment Jace couldn't help but be thankful that most humans knew absolutely nothing about dragons. Otherwise, someone would've recognized it at a glance and he'd be done for.
 

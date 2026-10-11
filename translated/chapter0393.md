@@ -18,15 +18,15 @@ During the last incantation attempt the previous night, although he hadn't been 
 
 And this magic — it was like it had only just taken its first step. In his current state, could he actually release the whole thing?
 
-There was no way to know without trying. This time, Jace planned to find ways to optimize it further. In addition to strengthening the magic of wisdom, he also needed to reflect on the casting process from the previous night.
+There was no way to know without trying. This time, Jace planned to find ways to optimize it further. Besides leaning on intellect-boosting magic, he also needed to reflect on the casting process from the previous night.
 
-According to Marin's explanation, efficient casting... came down to nothing more than adjusting the incantation and the casting motions.
+According to Malin's explanation, efficient casting... came down to nothing more than adjusting the incantation and the casting motions.
 
-The incantation — he probably didn't have much room to adjust it anymore, given that it was the result of two demons adjusting it hand over hand.
+The incantation — he probably didn't have much room to adjust it anymore, given that it was the product of two demons' painstaking adjustments.
 
 Then the casting motions...
 
-Jace had always cast by following the recipe — when he encountered a new incantation whose motions he didn't know, he'd reference an old incantation with a similar effect and go from there.
+Jace had always cast by the book — when he encountered a new incantation whose motions he didn't know, he'd reference an old incantation with a similar effect and go from there.
 
 But this wouldn't work now. Clearly, this incantation was very different from the others.
 
@@ -40,7 +40,7 @@ Wait... Shadow Meteor. Gul'dan.
 
 He recalled a skill from the game — Hand of Gul'dan.
 
-This was a spell created by Gul'dan that could summon a shadow fire meteor from the sky to crash into the ground, blasting all enemies within a specific range with astonishing power. When Gul'dan himself cast it, the shadow meteor even carried a vicious soul within it, and after impact it immediately transformed into a demon lord in the flames.
+This was a spell created by Gul'dan that could summon a Shadowflame meteor from the sky to crash into the ground, blasting all enemies within a specific range with astonishing power. When Gul'dan himself cast it, the shadow meteor even carried a vicious soul within it, and after impact it immediately transformed into a demon lord in the flames.
 
 Jace knew there was no way he could use this magic to summon some demon lord — after all, he wasn't Gul'dan.
 
@@ -64,7 +64,7 @@ Burning...
 
 That day in Southshore, watching those burned-down houses, that girl who'd nearly been suffocated by smoke, those innocent townsfolk fleeing everywhere with flames all over them.
 
-That willful black dragon whelp. And that house that had been smashed through, the griffin with its insides spilling out, the girl fleeing in panic, the Gryphon Rider with limbs twisted from a heavy fall.
+That willful black drake. And that house that had been smashed through, the gryphon with its insides spilling out, the girl fleeing in panic, the gryphon rider with limbs twisted from a heavy fall.
 
 As his mind replayed those scenes from that time, Jace tried to steady his breathing. He still remembered watching Grede charge into the billowing black smoke with that hammer — that angry, resolute back of his.
 
@@ -106,6 +106,8 @@ This time, although Jace hadn't completely exhausted his energy, he felt he was 
 
 But clearly, this magic wasn't finished yet...
 
-Sazeno gazed at the shattered shadows in the sky. "Master needs a casting material that can converge this magic. Relying on willpower alone, it's temporarily very hard to achieve." If this really was Hand of Gul'dan, Jace had a feeling he was still missing something.
+Sazeno gazed at the shattered shadows in the sky. "Master needs a casting material that can converge this magic. Relying on willpower alone, it's temporarily very hard to achieve."
+
+If this really was Hand of Gul'dan, Jace had a feeling he was still missing something.
 
 Soul shards... Yes. In the game, Hand of Gul'dan required soul shards to cast. Soul shards were a vital material for warlocks to connect with the Twisting Nether. Perhaps with the help of soul shards, he could stabilize this void shadow power.

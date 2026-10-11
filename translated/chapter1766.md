@@ -12,7 +12,7 @@ It hadn't even been two weeks since they left Everlook. Sure, maybe some village
 
 Grede, walking ahead, kept glancing back at Jace with the same question in his eyes. He'd trimmed his beard a bit. Looked cleaner — like he'd shed twenty or thirty years. Which was honestly pretty funny.
 
-"Hold up, folks." A guard with a spear stopped them at a distance. When he spotted Vereesa and Sora nearby, he swallowed his question. "Have there been orcs around Ambermill, Lady Farstriders?"
+"Hold up, folks." A guard with a spear stopped them at a distance. When he spotted Vereesa and Sola nearby, he swallowed his question. "Have there been orcs around Ambermill, Lady Farstriders?"
 
 "I haven't received any such intelligence. We're just on routine patrol under Captain Denaya Dawnrunner's orders, sir." Vereesa said. "Escorting these travelers to Dalaran."
 
@@ -20,19 +20,19 @@ Grede, walking ahead, kept glancing back at Jace with the same question in his e
 
 Vereesa didn't answer. Her attitude was cold enough, but being warm-hearted as a Farstrider here would've been more suspicious.
 
-Grede looked at Jace, then nodded toward the guards. Jace nodded back. Grede cleared his throat. "Hey, I heard back in the Aerie that there's a plague going around Lake Lordamere... is that true? Doesn't feel like anything's wrong."
+Grede looked at Jace, then nodded toward the guards. Jace nodded back. Grede cleared his throat. "Hey, I heard back in Aerie Peak that there's a plague going around Lordamere Lake... is that true? Doesn't feel like anything's wrong."
 
 "Hate to admit it, but the rumors are true, dwarf." The guard said. "They say some mysterious figures loyal to the black dragon and demons of Blackrock Spire have been appearing in the forests and around the graveyards. Riding black horses, carrying giant blood-red scythes. Anywhere their black hooves tread, the plague follows... The soldiers who fought at Blackrock Spire caught it a lot, which proves it."
 
 "But thank the Light, the crisis is over now." He continued. "The Kirin Tor's wizards helped us guards in town identify the suspected infected and quarantine them. And in recent months, those mysterious black-cloaked figures haven't appeared anymore. They say those freaks fled to another continent with the wandering warlocks after the orcs' and black dragon's complete defeat — a place many mages call 'Kalimdor.' Ever heard of that mysterious continent?"
 
-"I've heard of it," Sora said.
+"I've heard of it," Sola said.
 
 Grede glanced at Jace. On the surface, Vereesa was still calm as still water. But the anger roiling inside her was so fierce it was almost burning Jace's consciousness.
 
 These bastards had a whole serialized drama planned out. Every step was wrapped up neatly.
 
-"Anyway, I don't believe a place like that exists." The guard shrugged and continued. "More importantly, those mages and church priests brought back a medicinal broth from the Kingdom of Stormwind that can cure demon plague. Very effective. I guess all that exploring in Stormwind's haunted southern forests finally paid off. Like the old saying goes — 'the antidote is within a hundred steps.'"
+"Anyway, I don't believe a place like that exists." The guard shrugged and continued. "More importantly, those mages and church priests brought back a medicinal broth from the Kingdom of Stormwind that can cure demon plague. Very effective. I guess all that exploring in Stormwind's haunted southern forests finally paid off. Like the old saying goes — 'where the nettle grows, the dock leaf grows beside it.'"
 
 "Medicinal broth?" Jace asked tentatively. "Is it the furbolg remedy?"
 
@@ -58,7 +58,7 @@ They thanked him and entered the gate. As soon as they were through, Vereesa cou
 
 "At least they haven't brought up the staff yet." Jace said.
 
-"They're probably working on it." The ranger turned her head. "It's just that the fishmongers and boatmen around Lake Lordamere probably can't grasp concepts like Winterspring, Kalimdor, magic seals, or the ultimate bane of the Burning Legion yet!"
+"They're probably working on it." The ranger turned her head. "It's just that the fishmongers and boatmen around Lordamere Lake probably can't grasp concepts like Winterspring, Kalimdor, magic seals, or the ultimate bane of the Burning Legion yet!"
 
 "Then Brother Dursten might know a bit more." Jace said.
 
@@ -82,13 +82,15 @@ The moment Jace stepped in, he caught a particular herbal scent. No doubt about 
 
 "I'm not really sure. I left a few months ago." Jace said. "So who came up with this recipe? I'm curious. I know a bit about herbs. Used to be an herbalist myself."
 
-"Hard to tell, sir." Brother Dursten smiled, carrying two small bundles of herbs tied with string as he came back out. "They say it was Waller from the Hamlet. He used to be a Kirin Tor geography and herbology scholar. Did a lot of research on necromantic plagues. If anyone could develop a cure like this, it would have to be him."
+"Hard to tell, sir." Brother Dursten smiled, carrying two small bundles of herbs tied with string as he came back out. "They say it was Waller from Grand Hamlet. He used to be a Kirin Tor geography and herbology scholar. Did a lot of research on necromantic plagues. If anyone could develop a cure like this, it would have to be him."
 
-"Thomas Waller?" Jace asked. "You know him?" the priest asked.
+"Thomas Waller?" Jace asked.
 
-"We've met. I used to work for him, Brother Dursten." Jace said. "He used to be in Raven Hill, not the Hamlet. That's where the big cemetery is. The worst haunted area."
+"You know him?" the priest asked.
 
-"That's him." Dursten said. "Small world, meeting someone who knows Mr. Thomas Waller. Though I've also heard some rumors that the broth was actually brought from another continent by Ranger-Lord Vereesa Windrunner of Quel'Thalas. Which would explain why the recipe is so strange."
+"We've met. I used to work for him, Brother Dursten." Jace said. "He used to be in Raven Hill, not Grand Hamlet. That's where the big cemetery is. The worst haunted area."
+
+"That's him." Dursten said. "Small world, meeting someone who knows Mr. Thomas Waller. Though I've also heard some rumors that the broth was actually brought from another continent by Ranger Lord Vereesa Windrunner of Quel'Thalas. Which would explain why the recipe is so strange."
 
 "Is that so?" Jace frowned.
 
@@ -100,7 +102,7 @@ The moment Jace stepped in, he caught a particular herbal scent. No doubt about 
 
 "The king was cured by this broth?" Jace asked in surprise.
 
-"This very recipe." Brother Dursten smiled. "Who would've thought? A strange illness that had plagued the King of Lordaeren for nearly two years, just gone like that. Light be praised. I hope these herbs never need to be used — that plague is quite nasty."
+"This very recipe." Brother Dursten smiled. "Who would've thought? A strange illness that had plagued the King of Lordaeron for nearly two years, just gone like that. Light be praised. I hope these herbs never need to be used — that plague is quite nasty."
 
 "Uh." Jace looked at the medicine bundle in his hand. "Who suggested using this recipe for His Majesty Terenas's illness?"
 

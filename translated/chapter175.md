@@ -1,6 +1,6 @@
 ## Chapter 175: Blood and Wind
 
-This was a true Curse of Agony — incomparably more terrifying than anything Sulenna had ever conjured. Jace forced himself to stand up, bracing against the wall, doing everything he could to stay conscious.
+This was a true Curse of Agony — incomparably more terrifying than anything Surena had ever conjured. Jace forced himself to stand up, bracing against the wall, doing everything he could to stay conscious.
 
 He had to endure wave after wave of shadow torment through sheer willpower and shadow resistance. The moment he lost consciousness and his will collapsed, the shadow would quickly become far more lethal than it already was.
 
@@ -22,7 +22,7 @@ He tossed the core and turned back. A rapid series of clanging metal sounds came
 
 "Now it's your turn, Quel'dorei."
 
-Gorefiend spoke as he swung the warhammer in his hand toward Kael'far. The warhammer grazed past the wall but swung wide. Kael'far leaped out of the way, dodging the strike, and used the momentum to bound up the wall in a few steps toward the rooftop.
+Gorefiend spoke as he swung the warhammer in his hand toward Kael'fal. The warhammer grazed past the wall but swung wide. Kael'fal leaped out of the way, dodging the strike, and used the momentum to bound up the wall in a few steps toward the rooftop.
 
 Gorefiend reached out toward the elf above and actually summoned a crimson shadowy claw that shot toward the rooftop!
 
@@ -34,13 +34,13 @@ Seeing the elf escape onto the rooftop, the general looked up. The lines of musc
 
 He leaped, caught the edge of the brick tiles in the middle, then used the strength of his arm to hurl himself entirely onto the rooftop. His cloak flapped and shook — he looked like a giant, dark-yellow bat.
 
-Jace couldn't just leave Kael'far behind here. He tossed his staff up onto the rooftop, backed up a few steps, eyed the wall, took a running start, and began running and kicking off it continuously, grabbing a windowsill with both hands. After climbing up, he jumped off the windowsill again and caught the crack torn open by the shadow claw to pull himself up. By comparison, it was a lot more graceless.
+Jace couldn't just leave Kael'fal behind here. He tossed his staff up onto the rooftop, backed up a few steps, eyed the wall, took a running start, and began running and kicking off it continuously, grabbing a windowsill with both hands. After climbing up, he jumped off the windowsill again and caught the crack torn open by the shadow claw to pull himself up. By comparison, it was a lot more graceless.
 
 Several buildings ahead, the two of them chased each other back and forth. Though the elf ran fast, the general was much larger, and his stride frequency wasn't much slower at all. Combined with the shadow energy radiating from his whole body that helped him run with even greater force, it looked like he was about to catch up!
 
 These two were terrifyingly fast, and Jace, who'd only been training in long-distance running in Stormwind for two years, was utterly exhausted from the chase. Especially every time he hit a gap between buildings, he had to take a running start and summon every ounce of strength to jump across.
 
-Kael'far leaped across the gap between buildings once more. Gorefiend released Gorefiend's Grasp while running. Though it didn't land a direct hit, the crimson dark energy released by the shadow claw clipped Kael'far in midair, throwing him off balance.
+Kael'fal leaped across the gap between buildings once more. Gorefiend released Gorefiend's Grasp while running. Though it didn't land a direct hit, the crimson dark energy released by the shadow claw clipped Kael'fal in midair, throwing him off balance.
 
 The elf failed to land on the rooftop of the other building, barely catching the edge.
 
@@ -48,19 +48,19 @@ He'd barely pulled himself up onto the rooftop and taken two steps before the ge
 
 The general raised the warhammer high in midair and brought it down hard as he landed. This blow was nimbly dodged by the elf and smashed into the rooftop instead. Even from several buildings away, Jace could feel the impact.
 
-After Kael'far dodged, he turned and pulled a dagger from behind him, hurling it back. It pierced the general's knee with precision!
+After Kael'fal dodged, he turned and pulled a dagger from behind him, hurling it back. It pierced the general's knee with precision!
 
 The general casually pulled the dagger out and tossed it aside, continuing to press the attack forward — as if that leg weren't his own.
 
-The general had fought through the Battle of Quel'Thalas, so he knew elves possessed Arcane Torrent, the ability to interrupt spellcasting. He therefore didn't use magic at all, only attacking wildly. Kael'far was becoming more and more overwhelmed, but the general grew fiercer with every exchange.
+The general had fought through the Battle of Quel'Thalas, so he knew elves possessed Arcane Torrent, the ability to interrupt spellcasting. He therefore didn't use magic at all, only attacking wildly. Kael'fal was becoming more and more overwhelmed, but the general grew fiercer with every exchange.
 
-Jace cleared the last gap between buildings, and he'd already begun chanting an incantation. The elf barely dodged several of the other's attacks, but the general suddenly released a shockwave of shadow energy from beneath his feet, shaking Kael'far's continuous dodging off-rhythm. The way this ball of energy exploded outward looked exactly like Shadowfury!
+Jace cleared the last gap between buildings, and he'd already begun chanting an incantation. The elf barely dodged several of the other's attacks, but the general suddenly released a shockwave of shadow energy from beneath his feet, shaking Kael'fal's continuous dodging off-rhythm. The way this ball of energy exploded outward looked exactly like Shadowfury!
 
-At the same time he released the energy, the general seized the moment and hurled the heavy hammer in his hand. This time Kael'far couldn't dodge — the sharp flanges of the hammer grazed his waist…
+At the same time he released the energy, the general seized the moment and hurled the heavy hammer in his hand. This time Kael'fal couldn't dodge — the sharp flanges of the hammer grazed his side…
 
-Kael'far roared and fell to the ground. He tried to run out and fell again. Jace frowned, but he, who was in the middle of casting, couldn't let this sudden accident distract him.
+Kael'fal roared and fell to the ground. He tried to run out and fell again. Jace frowned, but he, who was in the middle of casting, couldn't let this sudden accident distract him.
 
-The general picked up the warhammer and walked toward Kael'far step by step, when he suddenly felt his own body being pulled and drained by magic from behind. He looked back in surprise.
+The general picked up the warhammer and walked toward Kael'fal step by step, when he suddenly felt his own body being pulled and drained by magic from behind. He looked back in surprise.
 
 "You're still alive?"
 
@@ -93,17 +93,3 @@ One after another, arrows flashing with white light stabbed in, but the general 
 Seeing that shooting was no longer effective, that shadow quickly charged in front of the general. Two flashes of cold light slanted down at his head in rapid succession.
 
 The general barely parried one of the strikes with the warhammer, but was cut on the arm by the other. The general, enraged, released another burst of Shadowfury from his whole body. This blow staggered the shadow back two steps — and only then did Jace see clearly that it was Vereesa Windrunner!
-
-## Flags
-
-- **血与风** → "Blood and Wind" (血 = blood, 风 = wind; the "wind" evokes the Windrunner name and the stormy setting)
-- **痛苦诅咒** → Curse of Agony (per glossary)
-- **苏伦娜** → Sulenna (per glossary)
-- **凯法尔·明翼** → Kael'far Brightwing (high elf Farstrider ranger; not in glossary)
-- **奎尔多雷** → Quel'dorei (Thalassian: high elves / highborne; not in glossary)
-- **血魔之握** → Gorefiend's Grasp (canonical death knight ability; not in glossary)
-- **暗影之怒** → Shadowfury (warlock spell; canonical, not in glossary)
-- **奥术洪流** → Arcane Torrent (blood elf racial ability; canonical, not in glossary)
-- **温蕾萨·风行者** → Vereesa Windrunner (canonical, youngest of the three Windrunner sisters; not in glossary)
-- **页锤 / 棱锤** → page-headed warhammer / flanged warhammer (not in glossary)
-- **暗影震荡波** → shadow shockwave (descriptive; the general's ground-based shadow burst — resembles Shadowfury, rendered descriptively)

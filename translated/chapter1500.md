@@ -1,6 +1,6 @@
 ## Chapter 1500: The Violet Hold
 
-"To this day, the Violet Hold remains the largest prison in the Alliance, holding countless terrifying enemies encountered by the Council of Tirisfal and the Kirin Tor."
+"To this day, the Violet Hold remains the largest prison in the Alliance, holding countless terrifying enemies encountered by the Order of Tirisfal and the Kirin Tor."
 
 The black-clad Archmage Kassan led the way through the passage. The sunlight outside gave way to dim lamps. The air was damp and cold, carrying the scent of some purification agent and the distinctly metallic smell of arcane barriers.
 
@@ -18,11 +18,11 @@ Unlike the game, where entering the Violet Hold meant arriving directly in a spa
 
 "So that's it. I'm guessing there was a case in the past where a demon used the elevator's arcane energy to cause chaos?" Jace said.
 
-"Precisely, Mr. Sesso." Kassan replied. "But it wasn't a demon — it was a member of the Council of Tirisfal. This prison's anti-magic barriers are by no means infallible. In the two thousand-plus years since this prison was built, the Council of Tirisfal and the Kirin Tor have been constantly improving the wards."
+"Precisely, Mr. Sesso." Kassan replied. "But it wasn't a demon — it was a member of the Order of Tirisfal. This prison's anti-magic barriers are by no means infallible. In the two thousand-plus years since this prison was built, the Order of Tirisfal and the Kirin Tor have been constantly improving the wards."
 
-"This prison is over two thousand years old?" Sora asked in surprise.
+"This prison is over two thousand years old?" Sola asked in surprise.
 
-"Yes," Kassan said. "This was originally one of many prisons in the city-state of Dalaran. After the disaster of the Twisting Nether invasion, it became a dedicated anti-magic prison. Ever since the Council of Tirisfal was established, this has been our cage for all enemies related to demons and dark magic."
+"Yes," Kassan said. "This was originally one of many prisons in the city-state of Dalaran. After the disaster of the Twisting Nether invasion, it became a dedicated anti-magic prison. Ever since the Order of Tirisfal was established, this has been our cage for all enemies related to demons and dark magic."
 
 Kassan turned and gave Jace a pointed look, as if hinting at something.
 
@@ -30,9 +30,9 @@ Everyone exited the elevator into the first underground level. Passing through a
 
 Jace noticed a large, faint purple crystal floating at the top of the hall, slowly rotating. The light it gave off was oddly familiar.
 
-"Tal'ral'siv crystal."
+"Taralfsin crystal."
 
-"Yes." Kassan looked up. "This crystal stabilizes the energy balance of the entire Violet Hold, making it difficult for demons to disrupt the energy flow and weaken the seals. The state of this crystal fragment also helps us constantly monitor the arcane energy flow throughout the prison and detect potential threats in advance. Worth mentioning — it was originally part of the same massive energy crystal as the one in Ilgalar's Tower, Mr. Sesso."
+"Yes." Kassan looked up. "This crystal stabilizes the energy balance of the entire Violet Hold, making it difficult for demons to disrupt the energy flow and weaken the seals. The state of this crystal fragment also helps us constantly monitor the arcane energy flow throughout the prison and detect potential threats in advance. Worth mentioning — it was originally part of the same massive energy crystal as the one in the Tower of Ilgalar, Mr. Sesso."
 
 "I think yours is bigger, Jace Sesso," Needleflame said.
 
@@ -40,11 +40,11 @@ Jace noticed a large, faint purple crystal floating at the top of the hall, slow
 
 "Unless you put them side by side so I can compare..." Needleflame murmured.
 
-Sora glanced at Kassan ahead of them, then gently scratched the little black dragon's cheek from behind to quiet her down. But Kassan didn't seem to mind their little squabble — he just headed straight for the leftmost passage.
+Sola glanced at Kassan ahead of them, then gently scratched the little black dragon's cheek from behind to quiet her down. But Kassan didn't seem to mind their little squabble — he just headed straight for the leftmost passage.
 
 At the end of the passage, two battle mages guarding the gate chanted a spell to open the doors. Beyond them should be the area housing demon prisoners.
 
-In the long, winding corridor, violet curtains emitted arcane light that pulsed at almost identical frequencies, growing brighter and dimmer. Jace recognized the rhythm — it matched the rotation speed of the Tal'ral'siv crystal almost perfectly.
+In the long, winding corridor, violet curtains emitted arcane light that pulsed at almost identical frequencies, growing brighter and dimmer. Jace recognized the rhythm — it matched the rotation speed of the Taralfsin crystal almost perfectly.
 
 In the cell closest to the gate, a naga sea witch was imprisoned. She was completely naked but paid no attention to the people passing by, just sitting quietly and combing her hair.
 
@@ -62,17 +62,17 @@ Jace could sense that this seemed to be some kind of charm effect, but the curta
 
 Jace nodded. Kassan continued, "And this lady is no ordinary sea witch. She is Princess Shakess. Seventy years ago, she attempted to plunder a magical artifact from a Kul Tiran ship at sea and was captured by the Kirin Tor. But before she was subdued, she personally killed four Kirin Tor wizards. Her true power is far from what she appears."
 
-"Many sea witches claim allegiance to Empress Azshara. According to high elven records, Azshara was the ancient elven ruler before the Sundering of ancient Kalimdor ten thousand years ago. Therefore, many scholars believe these naga are actually descendants of the ancient elves who sank into the sea, transformed by some deep-sea curse."
+"Many sea witches claim allegiance to Queen Azshara. According to high elven records, Azshara was the ancient elven ruler before the Sundering of ancient Kalimdor ten thousand years ago. Therefore, many scholars believe these naga are actually descendants of the ancient elves who sank into the sea, transformed by some deep-sea curse."
 
 Needleflame turned to Jace. "A deep-sea curse, Jace Sesso. Do you know what magic that is?"
 
-Jace looked at Sora. "I don't know what magic it is, but I know it probably comes from..."
+Jace looked at Sola. "I don't know what magic it is, but I know it probably comes from..."
 
-"Those enemies," Sora finished.
+"Those enemies," Sola finished.
 
 "The Old Ones. Or rather, the Old Gods," Kassan said. "We don't know their exact names, but there are legends like this all over the world. From the trolls' shattered empire to the vrykul's fallen civilization, from desert to sea, from rainforest to snowy mountain, from the southernmost tip of the continent to the northernmost... These legends can be traced back to long before the Kaldorei Empire was founded, and even further. If the dwarves' Feast of Winter Veil tales about the creators, the earthen, and the keepers represent the light side of this world, then these legends are the other side — the darker, less known side."
 
-For the first time, Needleflame dropped the amusement-park attitude she'd worn since entering the Violet Citadel. Her expression turned serious, reminding Jace of how she'd looked in Auchindoun.
+For the first time, Needleflame dropped the amusement-park attitude she'd worn since entering the Violet Hold. Her expression turned serious, reminding Jace of how she'd looked in Auchindoun.
 
 "Are black dragons the same?" Needleflame asked. "Did they become evil because of these Old Ones?"
 
@@ -86,7 +86,7 @@ Hearing this, Needleflame looked at the grape-like glowing curtains deeper in th
 
 "Then let's look at demons first." Needleflame asked. "Who's the most powerful demon here?"
 
-"A Nathrezim, named Kasanathir," Kassan said. "But it's confined to a special cell, and without the Kirin Tor council's permission, no one is allowed near it."
+"A Nathrezim, named Kathra'natir," Kassan said. "But it's confined to a special cell, and without the Kirin Tor council's permission, no one is allowed near it."
 
 "Oh." Needleflame sounded disappointed.
 
@@ -100,6 +100,6 @@ Kassan looked at Jace expressionlessly for a moment before speaking. "As King Va
 
 "You said that ring doesn't work in the prison!" Needleflame muttered unhappily.
 
-"You go ahead, Jace." Sora said. "I'll look after her."
+"You go ahead, Jace." Sola said. "I'll look after her."
 
 "Lead the way, then, Master Kassan," Jace said.

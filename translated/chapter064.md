@@ -24,7 +24,7 @@ He should have grabbed something from the orc as proof — might have even earne
 
 "How much will it cost total?" Jace asked.
 
-"The Living Root and the rest of the recovery medicines needed for a lightning injury aren't cheap," the apothecary said. "Stabilizing his condition has already run up some cost. It's three silver now. The rest depends on how long he stays here."
+"The Liferoot and the rest of the recovery medicines needed for a lightning injury aren't cheap," the apothecary said. "Stabilizing his condition has already run up some cost. It's three silver now. The rest depends on how long he stays here."
 
 Jace sighed and felt around in his bag. He'd brought six silver; he had four left.
 
@@ -32,9 +32,9 @@ Grede's pack had probably been lost in the fight. When Jace had dragged him back
 
 It was probably still back by the lake, but there was no point looking for it. Odds were the murlocs had already stolen it.
 
-He handed over the three silver, then showed the apothecary his assistant's badge. "I'm with the Wizard Sanctum, sir. I came to Redridge working for a mage — my employer is Eden Marin. Take good care of this dwarf. Whatever follow-up treatment he needs, don't throw him out just because the money runs low. I'll finish my business and head back to Stormwind, and I'll bring the rest of what you need within a week. How does that sound?"
+He handed over the three silver, then showed the apothecary his assistant's badge. "I'm with the Wizard's Sanctum, sir. I came to Redridge working for a mage — my employer is Eden Malin. Take good care of this dwarf. Whatever follow-up treatment he needs, don't throw him out just because the money runs low. I'll finish my business and head back to Stormwind, and I'll bring the rest of what you need within a week. How does that sound?"
 
-"Of course I'm happy to trust someone from the Wizard Sanctum, and I'd never throw a patient out regardless," the apothecary said. "But do hurry. I have to purchase medicinal herbs myself, and without enough coin, the herb-hunters won't give me credit."
+"Of course I'm happy to trust someone from the Wizard's Sanctum, and I'd never throw a patient out regardless," the apothecary said. "But do hurry. I have to purchase medicinal herbs myself, and without enough coin, the herb-hunters won't give me credit."
 
 "Herb-hunters" — they were being that blunt about it here?
 
@@ -58,7 +58,7 @@ After checking in on Grede, he decided his body could hold up and set out for St
 
 Today was the last of the three days they'd agreed on, but at this point he wouldn't make it back to Stormwind until tomorrow noon at the earliest. He'd probably miss another morning of work.
 
-But since this was official business, Marin would probably understand. Maybe dock his pay a little, or not at all.
+But since this was official business, Malin would probably understand. Maybe dock his pay a little, or not at all.
 
 After the rain, Redridge looked impossibly clear and bright, sunlight washing over the valley. Beyond the unbroken forest, Stonewatch Keep on the far cliffs across the lake was clearly visible — looked close enough to reach out and touch.
 
@@ -118,16 +118,4 @@ Jace cinched the bag shut and gave the cord a tug.
 
 The horse trotted lightly down the main road. The sun was setting, and the walls of Stonewatch were already in sight.
 
-Jace pulled the letter out of his pack and confirmed the recipient's name: Martin Harlow, a mage apprentice of the Wizard Sanctum.
-
-## Flags
-
-- **詹洛斯** → "Gelos": not in glossary; apothecary family name in Lakeshire. Transliterated; flag for review.
-- **活根草** → "Living Root": in glossary (herb).
-- **血之契印** → "Blood Pact": carried over from Ch. 52.
-- **马丁·哈洛尔** → "Martin Harlow": not in glossary; Wizard Sanctum mage apprentice at Stonewatch. Transliterated; flag for review.
-- **Stonewatch / 石堡**: canonical WoW (Stonewatch Keep in Redridge); not in glossary as a set term. Rendered per standard localization.
-- **Stonewatch Falls** (石堡瀑布): not in glossary; descriptive rendering of the waterfall beside the keep.
-- **Eden Marin** (伊登·马林): in glossary as "Master Marin" — used here in dialogue per the glossary rule (dialogue/thought form).
-- **Fighters Guild** (战士公会): not in glossary; the guild that posted the bounty. Descriptive rendering.
-- **Twisting Nether** (扭曲虚空): in glossary.
+Jace pulled the letter out of his pack and confirmed the recipient's name: Martin Harlow, a mage apprentice of the Wizard's Sanctum.

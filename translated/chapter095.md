@@ -20,9 +20,9 @@ Ursula asked, "You mean the gnolls want to poison Sentinel Hill or Moonbrook?"
 
 Ursula used the tongs to poke through the herbs inside and shrugged. "There are many possibilities. These herbs can be made into a drug that's extremely lethal to spellcasters but does little harm to ordinary people. They can also be made into a poison to contaminate water sources. In any case, it seems like something's still missing. There's Deathweed here, a large amount of Deathweed, plus Briarthorn, quite a bit of weeds, Mageroyal… I can help you pick out all the herbs related to making Mana Potions."
 
-"Thanks." Jace handed the bag to Ursula. "Should I hand this bag over to the Wizard Sanctum so they can report it to the king?"
+"Thanks." Jace handed the bag to Ursula. "Should I hand this bag over to the Wizard's Sanctum so they can report it to the king?"
 
-"Even if you let the king know, what can that little imp do?" Ursula sighed. "The war in Redridge is intense right now. I heard from the grapevine that a gnoll warlock attacked Stonewatch with dark magic just a few days ago. Gagin was just planning to go over there and see if he could get clues to some new incantations. In any case, in this situation, where would the kingdom find the troops to send to Westfall to hunt down a group of gnoll alchemists? The troops guarding Moonbrook, Sentinel Hill, and the Westfall Keep trade route are already stretched thin."
+"Even if you let the king know, what can that little boy do?" Ursula sighed. "The war in Redridge is intense right now. I heard from the grapevine that a gnoll warlock attacked Stonewatch with dark magic just a few days ago. Gakin was just planning to go over there and see if he could get clues to some new incantations. In any case, in this situation, where would the kingdom find the troops to send to Westfall to hunt down a group of gnoll alchemists? The troops guarding Moonbrook, Sentinel Hill, and the Westbrook Garrison trade route are already stretched thin."
 
 "You know about the new gnoll leader near Westfall? Word is they've already wiped out two mercenary squads. But other than mercenaries, what does the king have? If I had to guess, he's almost lost the ability to even hire outsiders to resolve crises. Right now Hogger's bounty is only thirty silver — and that's after the raise. You think thirty silver can attract what kind of talent?"
 
@@ -36,9 +36,9 @@ After all, an orc shaman using that kind of force required constant communicatio
 
 Thinking it this way, even someone like him would give up on these thirty silver because of Hogger's strength, to say nothing of the stronger mercenaries. This bounty really was a bit low.
 
-He remembered when he was at Stonewatch, the king's secretary Ailian had told him that the national treasury was in a very tight spot — they couldn't even come up with ten gold to reward the heroes of Stonewatch. Maybe these thirty silver were handed out quite reluctantly.
+He remembered when he was at Stonewatch, the king's secretary Ellerian had told him that the national treasury was in a very tight spot — they couldn't even come up with ten gold to reward the heroes of Stonewatch. Maybe these thirty silver were handed out quite reluctantly.
 
-"Short some Silverleaf." Ursula pressed her waist. "You planning to buy from me, or buy outside?"
+"Short some Silverleaf." Ursula put a hand on her hip. "You planning to buy from me, or buy outside?"
 
 "I'll buy from you."
 
@@ -76,21 +76,10 @@ Ursula held the scale and said, "This kind of scale is an excellent Frost magic 
 
 Jace frowned. "You're not screwing me, are you?"
 
-Ursula smiled and said, "Although this thing is rare, the demand isn't big. Only those Frost magic practitioners at the Wizard Sanctum can use it, or for making poisons — yes, this thing also has some toxicity. Even if you sold it outside, it'd be hard to get a price of ten silver. I just… need it for some formula experiments I'm working on right now. You just give it to me, and I'll make you six Mana Potions. Whatever Silverleaf is lacking, I'll cover it for you. Any extra materials I'll give back to you. How about it?"
+Ursula smiled and said, "Although this thing is rare, the demand isn't big. Only those Frost magic practitioners at the Wizard's Sanctum can use it, or for making poisons — yes, this thing also has some toxicity. Even if you sold it outside, it'd be hard to get a price of ten silver. I just… need it for some formula experiments I'm working on right now. You just give it to me, and I'll make you six Mana Potions. Whatever Silverleaf is lacking, I'll cover it for you. Any extra materials I'll give back to you. How about it?"
 
 "Fine."
 
 "Come get your potions tomorrow morning, Jace."
 
-Coming out of The Slaughtered Lamb, Jace had already planned to go ask at the tailor shop in the Mage Quarter. He had so many scales — although there weren't many as large or intact as this one… even if each could only sell for one silver, that'd be thirty or forty silver! A fortune!
-
-## Flags
-
-- 丧命草 = Deathweed — not in glossary; rendered as Deathweed (matches the lethal/poisonous context).
-- 军情七处 = SI:7 (Stormwind intelligence/secret police) — not in glossary.
-- 加金 = Gagin (warlock at the Slaughtered Lamb) — not in glossary.
-- 法力药水 = Mana Potion — not in glossary.
-- 卢米尔 = Lumere (Ruth Lumere, alchemist/shop owner) — in glossary as Ruth Lumere; here referenced by surname only.
-- 艾利安 = Ailian (king's secretary) — not in glossary.
-- 厄苏拉·德林 = Ursula Deline — not in glossary.
-- 冬幕节 = Winter Veil (referenced in Ch. 96, not this chapter) — not in glossary.
+Coming out of the Slaughtered Lamb, Jace had already planned to go ask at the tailor shop in the Mage Quarter. He had so many scales — although there weren't many as large or intact as this one… even if each could only sell for one silver, that'd be thirty or forty silver! A fortune!

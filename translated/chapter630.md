@@ -14,11 +14,13 @@ The high elf mage watched him go, then approached Jace. "I apologize — when we
 
 "I've heard your name, Master." Jace nodded slightly.
 
-Krasus glanced up at the house behind Jace. "You probably think I've come to stop you from meeting your parents, like Biso Ershad — but in fact, the opposite is true."
+Krasus glanced up at the house behind Jace. "You probably think I've come to stop you from meeting your parents, like Bethor Iceshard — but in fact, the opposite is true."
 
 Jace said nothing. Krasus asked, "You've been helping Stormwind investigate the connection between the orcs and the dragons, isn't that right?"
 
-"Yes," Jace said. "I'm a student of Master Marin. I've been assisting him with this work as an assistant." Krasus said, "Then you must know where the key to solving the Dragonmaw orc problem lies."
+"Yes," Jace said. "I'm a student of Master Malin. I've been assisting him with this work as an assistant."
+
+Krasus said, "Then you must know where the key to solving the Dragonmaw orc problem lies."
 
 "Find the Dragonqueen," Jace said.
 
@@ -50,7 +52,7 @@ Krasus seemed to notice a shift in Jace's expression, but he didn't dwell on it.
 
 "You cannot tell anyone about this. It must be kept secret. Any third party besides you and me could jeopardize the entire plan — including those closest to you."
 
-Jace knew that Krasus feared Deathwing's spies might be spread across Azeroth — whether races loyal to the black dragons, or the members of the Cult of the Dragon hiding within the Alliance. In short, once an outsider learned of it, Deathwing would quickly learn of the plan.
+Jace knew that Krasus feared Deathwing's spies might be spread across Azeroth — whether races loyal to the black dragons, or the members of the Wyrmcult hiding within the Alliance. In short, once an outsider learned of it, Deathwing would quickly learn of the plan.
 
 But Jace felt that Deathwing already knew.
 
@@ -66,11 +68,11 @@ This red dragon before him seemed to still trust Kel'Thuzad quite a bit. And wha
 
 What's more, regarding Kel'Thuzad's collusion with Deathwing, Jace's suspicions were just that — suspicions. He'd never had any evidence.
 
-Putting all that aside, Kel'Thuzad recommending him was perfectly reasonable. A fellow student who'd attended the Orcish language council, with an exceptional understanding of dark magic — at least among those the Kirin Tor could find, he counted as one of the best.
+Putting all that aside, Kel'Thuzad recommending him was perfectly reasonable. A fellow student who'd attended the Orcish symposium, with an exceptional understanding of dark magic — at least among those the Kirin Tor could find, he counted as one of the best.
 
 And the biggest trouble on this Grim Batol expedition — one was orcs, the other was dark magic. For him, it was practically his specialty.
 
-Jace couldn't help but look back over the past few years. It seemed that everything he'd done since entering the Wizard Sanctum had been building toward this decision to go die today.
+Jace couldn't help but look back over the past few years. It seemed that everything he'd done since entering the Wizard's Sanctum had been building toward this decision to go die today.
 
 The mage raised his head. "I know this is a difficult choice. You need time to consider it. But we don't have much time. Every day the Dragonqueen remains in the orcs' hands, we face a graver threat. The black dragons may also reach there before us. I'll be waiting for your decision in the Mage Quarter, Mr. Sesso. Don't make me wait too long."
 
@@ -81,20 +83,3 @@ But now there seemed to be no such elf at all. Krasus hadn't mentioned an escort
 Did this member of the Kirin Tor Council of Six think he was already powerful enough — no need for a helper, no need for any assistance… At some point the mage had already left, before Jace could even say anything.
 
 Of course, he didn't know what he would've said anyway.
-
-## Flags
-
-- Chapter title 红龙 → "The Red Dragon" (not in glossary).
-- 克拉苏斯 → "Krasus" (glossary).
-- 比索·埃斯沙德 → "Biso Ershad" (not in glossary; the agent who previously tried to block Jace from seeing his parents).
-- 龙喉兽人 → "Dragonmaw orcs" (glossary: Dragonmaw clan).
-- 红龙女王 → "Dragonqueen" (glossary: the Dragonqueen = Alexstrasza).
-- 阿莱克斯塔萨 → "Alexstrasza" (glossary).
-- 罗宁 → "Rhonin" (glossary).
-- 克尔苏加德 → "Kel'Thuzad" (canonical; not in glossary).
-- 六人议会 → "Council of Six" (glossary).
-- 安东尼达斯 → "Antonidas" (glossary).
-- 卡兹莫丹 → "Khaz Modan" (glossary).
-- 格瑞姆巴托 → "Grim Batol" (glossary).
-- 拜龙教 → "Cult of the Dragon" (canonical; not in glossary).
-- 湿地 → "the Wetlands" (glossary).

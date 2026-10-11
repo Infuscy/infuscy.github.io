@@ -1,6 +1,6 @@
 ## Chapter 793: The Power of Neltharion
 
-After eating their fill, the two of them first went to the Dwarf District to borrow two practice swords, then strolled all the way outside the city. By the time they reached the deep parts of Elwynn Forest, the sun had started to take on a reddish hue.
+After eating their fill, the two of them first went to the Dwarven District to borrow two practice swords, then strolled all the way outside the city. By the time they reached the deep parts of Elwynn Forest, the sun had started to take on a reddish hue.
 
 Grede spread his cloak under a nearby tree and set his luggage on it. Jace looked at the warhammer hanging at the dwarf's hip — it was already covered in dents.
 
@@ -14,7 +14,7 @@ Jace nodded, raised his sword, and said, "Shall we begin?"
 
 After all these times practicing swordsmanship together, Grede had always been in the teacher's role, showing Jace how to wield a blade, so this time Jace took the initiative and attacked first.
 
-The practice swords they borrowed had been feeling lighter and lighter. Having grown used to the Song of Azure, Jace had also gotten accustomed to a sword's balance and rhythm. The two traded offense and defense at speed for several exchanges, when Jace suddenly pulled a tricky feint and thrust straight in. The sudden strike made Grede's eyes widen in surprise. He gave ground, found the right opening, and swept his sword to parry — metal clashed with a piercing screech.
+The practice swords they borrowed had been feeling lighter and lighter. Having grown used to Azuresong, Jace had also gotten accustomed to a sword's balance and rhythm. The two traded offense and defense at speed for several exchanges, when Jace suddenly pulled a tricky feint and thrust straight in. The sudden strike made Grede's eyes widen in surprise. He gave ground, found the right opening, and swept his sword to parry — metal clashed with a piercing screech.
 
 "Real combat will always be the best teacher," Grede said, his gaze meeting Jace's eyes past the edge of his blade. "You've grown much faster these past few years than the dwarves on Aerie Peak who train hard at swordsmanship, Jace."
 
@@ -32,7 +32,7 @@ Grede tossed his practice sword aside, reached behind him, and the warhammer by 
 
 "Then wouldn't losing be even more humiliating for you?" Jace asked.
 
-Grede snorted coldly. Jace drew the Song of Azure as well, and when that faint blue glow appeared, the dwarf's smile vanished in an instant.
+Grede snorted coldly. Jace drew Azuresong as well, and when that faint blue glow appeared, the dwarf's smile vanished in an instant.
 
 "I forgot your damn thing got fixed by the blue dragons. Then I've really got no reservations left. Any rules?"
 
@@ -44,9 +44,9 @@ Grede suddenly roared something in the Kalimdor tongue. Jace felt a sudden tight
 
 Since when could this guy summon lightning strikes?!
 
-The strike left Jace a little dazed, but already Grede's warhammer came hurtling over trailing arcs of lightning, churning up a blinding cloud of sand and gravel in its wake. This time Jace quickly raised a Dark Shield. When the lightning slammed into the barrier it flashed an eerie prismatic glow, and when the energy dissipated and burst outward, it sent the warhammer flying back.
+The strike left Jace a little dazed, but already Grede's warhammer came hurtling over trailing arcs of lightning, churning up a blinding cloud of sand and gravel in its wake. This time Jace quickly raised a Shadow Shield. When the lightning slammed into the barrier it flashed an eerie prismatic glow, and when the energy dissipated and burst outward, it sent the warhammer flying back.
 
-This first blow had been so ferocious that the Dark Shield couldn't fully absorb it. Jace clearly felt his chest throbbing with pain, his whole body numb and aching unbearably.
+This first blow had been so ferocious that the Shadow Shield couldn't fully absorb it. Jace clearly felt his chest throbbing with pain, his whole body numb and aching unbearably.
 
 When the warhammer reached the apex of its arc, a short, stocky black figure had already leaped into the air to catch it. Grede bellowed, summoned lightning mid-air, and gathered the arcs onto the warhammer again, aiming this way…
 
@@ -54,15 +54,15 @@ So the plan was to press the attack while he was paralyzed by the strike?
 
 Fear wouldn't work on a madman like Grede, and Jace wasn't about to waste time trying.
 
-"Duk, Hethuniluomoth!"
+"Duk, Heduniluoyinmosi!"
 
-Jace gripped the Song of Azure and chanted the incantation. Rays of shadow locked tightly around the dwarf's arms and neck high in the air. Empowered by the enchanted sword, these chains became even more solid, even more distinct!
+Jace gripped Azuresong and chanted the incantation. Rays of shadow locked tightly around the dwarf's arms and neck high in the air. Empowered by the enchanted sword, these chains became even more solid, even more distinct!
 
-Grede let out an "ah" and lost control, crashing to the ground. But immediately another burst of lightning erupted from his body, tearing apart the dark power binding him in the Choke, and he easily broke free of Jace's magic. But when he tried to stand back up, he paused to catch his breath.
+Grede let out an "ah" and lost control, crashing to the ground. But immediately another burst of lightning erupted from his body, tearing apart the dark power binding him in Asphyxiate, and he easily broke free of Jace's magic. But when he tried to stand back up, he paused to catch his breath.
 
 "Damn it. Curse of Weakness," Grede blinked and said. "I've never been hit by such a powerful… Curse of Weakness."
 
-"Has anyone ever cast that curse on you before?" Jace asked, even as he channeled a Shadowbolt.
+"Has anyone ever cast that curse on you before?" Jace asked, even as he channeled a Shadow Bolt.
 
 When a massive ball of dark energy had gathered between his hands, he looked at Grede and said, "Friends-and-family price, Grede — Shadow Protection Potion, ten silver a bottle. I've got plenty in my bag!"
 
@@ -72,7 +72,7 @@ With that, he pulled off his shirt and tossed it aside, then suddenly swelled in
 
 He looked like one of those statues in Ironforge whose proportions clearly didn't quite match a dwarf's, except those statues wore heavy armor, while Grede was bare from the waist up, his bulging muscles like boulders jutting from a cliff face.
 
-The Shadowbolt Jace had sent flying was crushed directly by the stone giant's outstretched hand. Grede roared and charged, swinging his fist, while Jace saw the Neltharion pendant around the dwarf's neck blaze with brilliant light.
+The Shadow Bolt Jace had sent flying was crushed directly by the stone giant's outstretched hand. Grede roared and charged, swinging his fist, while Jace saw the Neltharion pendant around the dwarf's neck blaze with brilliant light.
 
 He's not actually trying to kill me, is he?
 
@@ -112,9 +112,9 @@ Grede shouted triumphantly and charged right up to him, swinging his fist again 
 
 He cursed in Dwarvish as he tried to break free of the shadow's grip, but no sooner had he shaken off one chain around his arm than his leg was bound by another.
 
-The Choke couldn't restrain Grede's neck, so Jace tried to restrain everything he could. But Grede's strength still far exceeded Jace's imagination — magic that could easily pin down a succubus or a hellhound was something this dwarf could shatter with a single swing of his arm.
+Asphyxiate couldn't restrain Grede's neck, so Jace tried to restrain everything he could. But Grede's strength still far exceeded Jace's imagination — magic that could easily pin down a succubus or a felhound was something this dwarf could shatter with a single swing of his arm.
 
-But several consecutive shadow binds were enough to control him for a bit. Jace couldn't free himself from this inexplicable earth magic either, so he simply tossed the three Shadow Shards out of his bag onto the ground.
+But several consecutive shadow binds were enough to control him for a bit. Jace couldn't free himself from this inexplicable earth magic either, so he simply tossed the three soul shards out of his bag onto the ground.
 
 He raised his hands high and shouted, "Do you concede, Grede?"
 
@@ -122,19 +122,19 @@ He raised his hands high and shouted, "Do you concede, Grede?"
 
 Hearing the strange description from his mouth, Jace couldn't help but twitch the corner of his mouth. This guy really was treating himself as a boulder.
 
-"Savius, Avarus…"
+"Savia, Avarus…"
 
-"Hearing that incantation, Grede's expression changed in an instant. Even though his face was stiff as a stone statue, it was still clear he was a little frightened.
+Hearing that incantation, Grede's expression changed in an instant. Even though his face was stiff as a stone statue, it was still clear he was a little frightened.
 
 "You're not serious, Jace. Hold on — I'm not playing around here." He shed the stone statue's appearance in a flash, raised his stubby arms, and waved his hands. "Don't — don't chant it."
 
-The Soul Shards began to flicker. The sky had already grown dark, and streams of shadow crisscrossed in the air, on the verge of converging into serpents of black.
+The soul shards began to flicker. The sky had already grown dark, and streams of shadow crisscrossed in the air, on the verge of converging into serpents of black.
 
-Jace caught his breath. He was a little doubtful whether he even had enough mana left to cast another Gul'dan's Hand.
+Jace caught his breath. He was a little doubtful whether he even had enough mana left to cast another Hand of Gul'dan.
 
-Dealing with an opponent as terrifying as Grede was enormously draining — especially without Molophil by his side to help, without Soul Link to share the burden. Getting hit even once could be disastrous, so he'd been in a state of high mental concentration the whole time. Even though this amplified the power of his shadow magic, it also accelerated his mana consumption.
+Dealing with an opponent as terrifying as Grede was enormously draining — especially without Morophil by his side to help, without Soul Link to share the burden. Getting hit even once could be disastrous, so he'd been in a state of high mental concentration the whole time. Even though this amplified the power of his shadow magic, it also accelerated his mana consumption.
 
-"I concede, all right? No need to waste Soul Shards. Losing to a character like you is no great disgrace!" Grede stood up, dusted off his backside, and said, "Whatever you do, don't drop that meteor on me…"
+"I concede, all right? No need to waste soul shards. Losing to a character like you is no great disgrace!" Grede stood up, dusted off his backside, and said, "Whatever you do, don't drop that meteor on me…"
 
 Jace pressed his lips together and lowered his hands. The stone hands on the ground had already vanished, leaving nothing but a patch of freshly turned earth by his feet.
 
@@ -148,6 +148,6 @@ Jace pressed his lips together and lowered his hands. The stone hands on the gro
 
 Jace nodded. He understood perfectly well that the thing was anything but ordinary.
 
-Grede might not have realized it, but his Avatar form had also grown much taller than it had been during Grim Batol. For a moment Jace felt like he was fighting a Northrend Vrykul who was absurdly fat and exaggeratedly muscular.
+Grede might not have realized it, but his Avatar form had also grown much taller than it had been during Grim Batol. For a moment Jace felt like he was fighting a Northrend vrykul who was absurdly fat and exaggeratedly muscular.
 
-Of course, he'd never seen a real Vrykul in this world, but even a genuine Vrykul giant surely couldn't be that terrifying.
+Of course, he'd never seen a real vrykul in this world, but even a genuine vrykul giant surely couldn't be that terrifying.

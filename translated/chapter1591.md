@@ -4,7 +4,7 @@ Through billowing black smoke, a young black dragon carried three people. Jace s
 
 Some dwarves on the ground were running in the same direction. Others were fleeing back the way they came, probably toward Shadowforge City. At this point, Jace couldn't even tell which was which in Molten Core.
 
-From this height, through the shifting smoke and firelight, Jace could barely make out the dwarves' gear. Were they Ironfury or Doomforge soldiers? Or pyromancers rushing to "defend the throne," or soldiers who'd betrayed Thaurissan and remained fanatically loyal to Ragnaros?
+From this height, through the shifting smoke and firelight, Jace could barely make out the dwarves' gear. Were they Anvilrage or Doomforge soldiers? Or pyromancers rushing to "defend the throne," or soldiers who'd betrayed Thaurissan and remained fanatically loyal to Ragnaros?
 
 Ragnaros. Jace had thought about the possibility of facing him directly.
 
@@ -66,13 +66,13 @@ A low chuckle accompanied by golden flame blasted in from the cave mouth ahead. 
 
 Jace ducked to avoid the barrage and looked around. Needleflame wasn't badly hurt -- those fragments couldn't penetrate her dragon scales -- but getting flipped over and righting herself took some effort.
 
-"Did you hear that? He's calling the Wind Prince's name! He must be after Sora and the others! We have to stop him!" the black dragon shouted.
+"Did you hear that? He's calling the Prince of Air's name! He must be after Sola and the others! We have to stop him!" the black dragon shouted.
 
 More fire meteors fell ahead, splashing magma and debris with sharp grinding sounds. Grede tossed his now-warped helmet into the lava river.
 
 "Don't fly anymore, little black dragon. We'll go on foot from here. Protect yourself!"
 
-"Here, Jace Sesso. Don't say I'm stingy when we get out of this!" Grede tossed the horned magic stone tablet over. Jace caught it, and the dwarf gripped Sulfuron Hammer and charged ahead.
+"Here, Jace Sesso. Don't say I'm stingy when we get out of this!" Grede tossed the horned magic stone tablet over. Jace caught it, and the dwarf gripped the Sulfuron Hammer and charged ahead.
 
 Running out of the lava river and out of the cave passage, wave after wave of heat pressed down from above, making it almost impossible to lift one's head.
 
@@ -102,11 +102,11 @@ Grede's gaze followed that hand upward. His furious expression froze.
 
 He understood now. This wasn't some damn spell. This was Ragnaros. The Firelord's actual body.
 
-A low growl echoed from deep within the fire tornado. The heat carried by that sound alone was unbearable -- even Jace, who'd just entered this slope, struggled. The Olastraz-hide cloak flapped wildly in the flame blast. Every curl of hair poking out from under his hood was burned to ash and blown away.
+A low growl echoed from deep within the fire tornado. The heat carried by that sound alone was unbearable -- even Jace, who'd just entered this slope, struggled. The Olastrasz-hide cloak flapped wildly in the flame blast. Every curl of hair poking out from under his hood was burned to ash and blown away.
 
 Grede was no better off. His beard, practically enchanted by his ancestors' power, had mostly burned off too. He was pinned against a black rock, barely able to get up.
 
-Dozens of meters above, in that hand of fire tongues, a warhammer appeared, wrapped in bright lava spikes and spinning flame runes.
+Dozens of meters above, in that hand of fire tongues, a warhammer appeared, wrapped in bright lava spikes and spinning fire runes.
 
 "Sulfuras... is it?"
 

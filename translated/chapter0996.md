@@ -14,7 +14,9 @@ Hard to say whether the downpour was on their side right now, Jace thought — b
 
 Mathias glanced up at the ceiling beam with a complicated expression, then handed the key to Jace. "Then I'll take my leave, Sesso. Emotionally, I'd very much like to stay and witness everything, but reason tells me..."
 
-He glanced toward Vereesa in the distance with a smile. "I wish you every success, Lady Windrunner." Vereesa nodded. "Thank you for providing the location, Master Shaw."
+He glanced toward Vereesa in the distance with a smile. "I wish you every success, Lady Windrunner."
+
+Vereesa nodded. "Thank you for providing the location, Master Shaw."
 
 "It's nothing."
 
@@ -22,7 +24,7 @@ Mathias bowed slightly and headed down the stairs.
 
 After he closed the door, Vereesa let out a breath. "Can we win this?"
 
-"Without Krasus, I'd have serious doubts." Jace slipped Malorak's spell-breaking ring onto his finger. "But now that we've got the Kirin Tor's most powerful archmage helping us, I don't see how she could possibly beat us."
+"Without Krasus, I'd have serious doubts." Jace slipped Maloriak's spell-breaking ring onto his finger. "But now that we've got the Kirin Tor's most powerful archmage helping us, I don't see how she could possibly beat us."
 
 "I know." Vereesa looked out the window. "I don't know why, but I shouldn't be this nervous. Even at Grim Batol, I never felt this uneasy."
 
@@ -42,7 +44,7 @@ The half-open door pushed open and Sola entered first. "Good morning."
 
 Grede and Krasus followed behind her. The group exchanged greetings and embraces, like just another casual get-together of friends rather than the prelude to facing some terrifying foe.
 
-Jace set Ursula's iron box on the table. "Everyone take two Fire Protection Potions from inside. I imagine, Master Krasus, for you the time it takes to drink a potion would be better spent casting a few more powerful Fire Protection Wards, so..."
+Jace set Ursula's iron box on the table. "Everyone take two Fire Protection Potions from inside. I imagine, Master Krasus, for you the time it takes to drink a potion would be better spent casting a few more powerful Fire Wards, so..."
 
 "Indeed, I don't need these," Krasus said.
 
@@ -56,13 +58,17 @@ Sola looked at Grede as if he'd committed some tremendous offense. But Krasus si
 
 Jace said, "In a bit you'll all need to hide in the forest. Vereesa will use Queen Ysera's earring to conceal your presence. As long as you're within the dense woods, that earring's power will take effect, and it's extremely reliable."
 
-Krasus and Sola nodded. Vereesa touched her ear and nodded in confirmation. "It's still raining today — what bad luck." Grede glanced out the window.
+Krasus and Sola nodded. Vereesa touched her ear and nodded in confirmation.
+
+"It's still raining today — what bad luck." Grede glanced out the window.
 
 "Unfortunate indeed." Jace picked up the bottle containing his own blood. "I originally wanted to set up a summoning circle outside ahead of time, to call my minions over to help. Doesn't look like that's happening now. I'm wondering whether I could set it up indoors, in another room?"
 
-"What's in this bottle? I know warlocks use blood to summon demons," Krasus said. "That's right — it's my own blood," Jace said.
+"What's in this bottle? I know warlocks use blood to summon demons," Krasus said.
 
-"Best not to," Krasus warned. "Black dragons are masters of blood magic. They're extremely sensitive to ritual blood. I imagine that's why that forcibly promoted alchemist went to such great lengths to craft this ring, to hide the lethal magic on the stone tablets. Even using blood to set up a summoning spell in this forest is already very dangerous, let alone in this poorly ventilated little house. She'd easily realize there's a trap buried nearby, Jace."
+"That's right — it's my own blood," Jace said.
+
+"Best not to," Krasus warned. "Black dragons are masters of blood magic. They're extremely sensitive to ritual blood. I imagine that's why that forcibly ascended alchemist went to such great lengths to craft this ring, to hide the lethal magic on the stone tablets. Even using blood to set up a summoning spell in this forest is already very dangerous, let alone in this poorly ventilated little house. She'd easily realize there's a trap buried nearby, Jace."
 
 Jace hadn't failed to consider this — it was just that Krasus's words felt like a death sentence for the idea, which left him a bit discouraged.
 
@@ -78,7 +84,7 @@ With that, he pulled the golden elixir from his pack and handed it to Grede. "Dr
 
 Jace explained, "This is the improved version of the potion from the furbolgs. We call it Ursoc's Strength. Drinking it will give you the strength of a god, Grede. Maybe a bit of an exaggeration, but... you'll know when the time comes."
 
-"The strength of a god?" Grede held the elixir and laughed. "With Kadros's warhammer, the life gem crafted by the black dragons, the Black Dragonfather's necklace, plus this potion that sounds terrifying just hearing about it, I think I could duel that dragon one-on-one—"
+"The strength of a god?" Grede held the elixir and laughed. "With Khardros's warhammer, the Lifegiving Gem crafted by the black dragons, the Black Father's necklace, plus this potion that sounds terrifying just hearing about it, I think I could duel that dragon one-on-one—"
 
 "Still, be as careful as possible," Krasus said.
 

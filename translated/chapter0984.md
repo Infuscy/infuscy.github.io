@@ -14,33 +14,33 @@ Seeing Jace looking thoroughly bewildered, Sola said with some panic, "I was afr
 
 Jace felt like he was about to lose the ability to tell dream from reality. He even had the illusion that Sola had been right beside him while he was talking to the alchemist.
 
-He looked at his hands, flipped through his robes, and grabbed the drake-man's fingers to examine them one by one — there was no goddamn ring at all!
+He looked at his hands, flipped through his robes, and grabbed the dragonkin's fingers to examine them one by one — there was no goddamn ring at all!
 
 Of course, he'd have to be insane to think a ring from a dream would materialize in reality. This creature's blood wasn't Ysera's!
 
-"That incantation — the drake incantation — it needs a ring to use. He told me in the dream. Kim Mariels." Jace propped himself up off the iron slab bed and looked over at Morofel standing not far away. "Find a ring. Probably black, looks like iron, I can't describe it clearly. I'm guessing this isn't a jewelry shop, so there can't be many rings here. Move, move!"
+"That incantation — the dragonkin incantation — it needs a ring to use. He told me in the dream. Kim Mariels." Jace propped himself up off the iron slab bed and looked over at Morophil standing not far away. "Find a ring. Probably black, looks like iron, I can't describe it clearly. I'm guessing this isn't a jewelry shop, so there can't be many rings here. Move, move!"
 
 "Yes, master."
 
-Morofel acknowledged and immediately began rummaging around, but Sola just shook her head and said, "We've already searched everywhere we could, Jace. Aside from some rotten herbs, some potions that have been here a long time, plus these equipment and pipes, and this poor hybrid, there's nothing here."
+Morophil acknowledged and immediately began rummaging around, but Sola just shook her head and said, "We've already searched everywhere we could, Jace. Aside from some rotten herbs, some potions that have been here a long time, plus these equipment and pipes, and this poor hybrid, there's nothing here."
 
 Jace knew that too. He scratched his head, not sure if it was because he'd already gotten the ring in the dream and then suddenly woken up to find it gone — a surge of intense frustration and fury welled up in his chest.
 
 Or more likely, it was the corruption from that dark dragon dream. He took out a Shadow Protection Potion from his pack and drank it, which eased his emotions. He immediately calmed down quite a bit.
 
-"Nothing here, master." Morofel leaned against a piece of equipment not far away. "This room isn't big. It's not that hard to search."
+"Nothing here, master." Morophil leaned against a piece of equipment not far away. "This room isn't big. It's not that hard to search."
 
-"Sorry, Morofel, don't look for it anymore." Jace rubbed his eyes. "Let me sober up a little."
+"Sorry, Morophil, don't look for it anymore." Jace rubbed his eyes. "Let me sober up a little."
 
 "This fellow's name is Kim Mariels." He took a deep breath, then said, "He used to be an alchemist in Dalaran. He was tricked by the black dragons into their lair, where he helped them create a monster called a chromatic dragon, Sola. This incantation was his creation, and that ring is the key to activating it — an insurance measure he built in."
 
 "Chromatic dragon? A ring…"
 
-Sola was clearly having trouble processing this sudden flood of information. Although Jace had been quite familiar with these bizarre things in his past life — the chromatic whelps in Blackrock Spire, the dragon-beast named Chromagus, and so on — for the dragons of this world, this was clearly still fresh territory.
+Sola was clearly having trouble processing this sudden flood of information. Although Jace had been quite familiar with these bizarre things in his past life — the chromatic whelps in Blackrock Spire, the dragon-beast named Chromaggus, and so on — for the dragons of this world, this was clearly still fresh territory.
 
 "We can talk about the chromatic dragon later. Right now, the problem is, this alchemist said that after he escaped Blackrock Spire, he fled to the caves where the orc rebels were hiding — which is probably here." Jace looked around. "So where did all the orcs go?"
 
-"Fled?" Morofel asked.
+"Fled?" Morophil asked.
 
 Jace said helplessly, "Quite possibly. If they felt there was no hope of victory against the black dragons and abandoned this place and scattered, the ring was probably taken by them. Then how are we supposed to find it?"
 
@@ -52,7 +52,7 @@ Jace thought it over for a moment and said, "Quite possible. Those dwarves might
 
 "Leave him here," Jace said.
 
-The two of them changed back into their orcish appearances and left the cave with the demons. To their surprise, the moment they reached the cave entrance, they saw it was already packed with several dozen human soldiers holding crossbows and spears. Seeing this, Morofel disappeared before they'd even fully exited the cave.
+The two of them changed back into their orcish appearances and left the cave with the demons. To their surprise, the moment they reached the cave entrance, they saw it was already packed with several dozen human soldiers holding crossbows and spears. Seeing this, Morophil disappeared before they'd even fully exited the cave.
 
 "Halt, orcs!"
 
@@ -66,9 +66,9 @@ The one shouting was a rather sturdy blond brute, looked to be only about thirty
 
 "To human, of course. You want to turn into a dragon and scare them?" Jace gritted his teeth.
 
-Sola nodded and returned to her human appearance. The human soldiers before them were all a bit dazed, but the leading brute still waved his war hammer and said, "Don't be fooled. Orc warlocks know all kinds of dark magic. Don't forget how those drakes deceived us!"
+Sola nodded and returned to her human appearance. The human soldiers before them were all a bit dazed, but the leading brute still waved his war hammer and said, "Don't be fooled. Orc warlocks know all kinds of dark magic. Don't forget how those dragonkin deceived us!"
 
-The soldiers immediately tensed up again. Jace held up his Court Mage's Ring and said, "I'm Jace Sesso, this is my assistant, Lady Sola Shadowmane of the Wizard Sanctum. I'm the King's court mage consultant. Here's my proof!"
+The soldiers immediately tensed up again. Jace held up his Court Mage's Signet and said, "I'm Jace Sesso, this is my assistant, Lady Sola Shade of the Wizard's Sanctum. I'm the King's court mage consultant. Here's my proof!"
 
 "Jace Sesso?"
 

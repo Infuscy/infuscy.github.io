@@ -12,11 +12,13 @@ But he knew it wasn't the council members who bothered him, nor the atmosphere o
 
 At that, she shook her head, as if trying to fling the tangled thoughts out of her mind, and said quietly, "All right. I just want to say that whatever you decide, I'll stand by you… and Grede Thunderfist even more so."
 
-"Maybe I shouldn't interfere with your thinking," she added. "See you at dinner, Jace." Jace nodded, then noticed Sola watching from not far off.
+"Maybe I shouldn't interfere with your thinking," she added. "See you at dinner, Jace."
+
+Jace nodded, then noticed Sola watching from not far off.
 
 Vereesa waved to her. She seemed to respond a little slowly, glanced over once more, then left with the ranger.
 
-The Staff of Sargeras… do I really want to take control of it?
+The Scepter of Sargeras… do I really want to take control of it?
 
 He suddenly realized that when he considered this, it was as if the demons of the Burning Legion standing in his way had already ceased to exist.
 
@@ -26,21 +28,23 @@ Those flames weren't even his enemies — they were celebrating fervently for hi
 
 Walking through the pitch-black corridor, he could hear his heart pounding. He didn't know if it was nervousness, excitement, or…
 
-What was there to worry about? The Staff of Sargeras could send the entire Expedition back to Azeroth. It only needed a single set of coordinates — that was beyond doubt.
+What was there to worry about? The Scepter of Sargeras could send the entire Expedition back to Azeroth. It only needed a single set of coordinates — that was beyond doubt.
 
-If this magical barrier had been forged by the Staff of Sargeras itself, then undoing it would be effortless too. No question about it.
+If this magical barrier had been forged by the Scepter of Sargeras itself, then undoing it would be effortless too. No question about it.
 
 Once this staff fell into his hands, the Burning Legion in Draenor wouldn't even need to be considered a threat anymore. At that point, they'd be lucky to even have a chance to flee.
 
 Once this staff fell into his hands, Azeroth would never again need to fear that the Legion would borrow its power to launch another invasion…
 
-A perfect answer. The very only answer there was.
+A perfect answer. The one and only answer there was.
 
 Right now, just thinking about all this made Jace's skin crawl with an uncontrollable excitement that wanted to claw its way out of his throat, yet couldn't quite break free.
 
 So what exactly did he have to worry about?
 
-In the dim basement, Morophil watched coldly from the side. "You heard everything," Jace said.
+In the dim basement, Morophil watched coldly from the side.
+
+"You heard everything," Jace said.
 
 "I heard." Morophil asked, "So, what do you think?"
 
@@ -50,7 +54,7 @@ Jace didn't respond. Instead, he tossed a soul shard into the center of the ritu
 
 Activating the circle this time was much easier than last. Perhaps it was because he had digested a good deal of the Netherwing shadow he'd devoured, or perhaps… he'd simply gotten more practiced.
 
-"Kallez. Speak."
+"Kallrez. Speak."
 
 "At your service… master."
 
@@ -60,19 +64,19 @@ Activating the circle this time was much easier than last. Perhaps it was becaus
 
 "What does Archmage Khadgar say?"
 
-"Dalaran already knows about the barrier, master. Amy Marin says Archmage Khadgar is discussing with the Kirin Tor council how to break through it, but… there's no good solution at the moment. Khadgar wants to know if there are any new developments on Draenor's side. I think what he means is he wants to ask the other side — your side — if you have any ideas."
+"Dalaran already knows about the barrier, master. Amy Malin says Archmage Khadgar is discussing with the Kirin Tor council how to break through it, but… there's no good solution at the moment. Khadgar wants to know if there are any new developments on Draenor's side. I think what he means is he wants to ask the other side — your side — if you have any ideas."
 
 "This side…" Jace's lips moved, but in the end he only said, "Unfortunately, we don't have any good ideas either."
 
-"We've already allied with the black dragons, and the Burning Legion doesn't dare make any reckless moves, so overall the Expedition is still safe. The Farstriders are searching for the leader of the draenei — perhaps he'll have some different suggestions. Also… Archmage Vargus of Kirin'Var Village still can't be reached. In any case, we haven't reached a dead end yet. There are still many possibilities. Tell Archmage Khadgar not to worry too much."
+"We've already allied with the black dragons, and the Burning Legion doesn't dare make any reckless moves, so overall the Expedition is still safe. The Farstriders are searching for the leader of the draenei — perhaps he'll have some different suggestions. Also… Archmage Vargoth of Kirin'Var Village still can't be reached. In any case, we haven't reached a dead end yet. There are still many possibilities. Tell Archmage Khadgar not to worry too much."
 
-Kallez replied, "Understood, master. Also, by your command, I must relay Amy Marin's words — she, Eden Marin, and your parents are all thinking of you."
+Kallrez replied, "Understood, master. Also, by your command, I must relay Amy Malin's words — she, Eden Malin, and your parents are all thinking of you."
 
-"I know." Jace let out a breath. "I know. I have nothing else to say, Kallez. Dismissed."
+"I know." Jace let out a breath. "I know. I have nothing else to say, Kallrez. Dismissed."
 
 He swept his hand sharply, and the ritual circle burned out in a rush. Yet that draenei soul shard still held a faint glimmer — it hadn't been completely used up.
 
-"You didn't mention the Staff of Sargeras, master," Morophil said in an amused tone. "You don't trust Kallez anymore? You don't think he'd try to snatch that thing from you, do you?"
+"You didn't mention the Scepter of Sargeras, master," Morophil said in an amused tone. "You don't trust Kallrez anymore? You don't think he'd try to snatch that thing from you, do you?"
 
 Jace knew exactly what he was worried about.
 
@@ -80,11 +84,11 @@ The same desperate situation. The same exits closing one by one. The same sole s
 
 Placing that staff high above, luring me to seize it, then having its evil magic twist me into your wicked servant in an instant — at most wandering lost across the scorched plains of Shadowmoon Valley or the Hellfire Peninsula for a while?
 
-And then what? Wield the Staff of Sargeras to destroy the Expedition, lead an endless horde of demons in a full-scale assault on Azeroth, just as Gul'dan and Medivh had done?
+And then what? Wield the Scepter of Sargeras to destroy the Expedition, lead an endless horde of demons in a full-scale assault on Azeroth, just as Gul'dan and Medivh had done?
 
 Something like… what Prince Arthas Menethil hadn't done yet.
 
-Jace slowly raised his eyes, staring dully at the blackened ritual circle still giving off violet smoke. The soul of Usales at his side let out a faint, mocking sneer.
+Jace slowly raised his eyes, staring dully at the blackened ritual circle still giving off violet smoke. The soul of Ulthalesh at his side let out a faint, mocking sneer.
 
 Are you laughing at me, old demon?
 

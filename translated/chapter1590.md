@@ -4,9 +4,9 @@ Stone pillars collapsed. The cave ceiling fell in. Massive chunks of rock plunge
 
 Jace crawled out from a crevice between rocks. His whole body ached, but he hadn't lost consciousness, and none of his parts were missing.
 
-Though in that world-turning-upside-down, mountain-splitting explosion, even staying conscious hadn't done him much good. He'd been helpless -- swept away by the violent shockwave along with the entire rock crevice, unable to do anything.
+Though in that earth-shattering, mountain-splitting explosion, even staying conscious hadn't done him much good. He'd been helpless -- swept away by the violent shockwave along with the entire rock crevice, unable to do anything.
 
-Ragnaros had detonated the "Mor" rune that Gehennas guarded. He knew the intruders in Molten Core were destroying the runes one by one. After defeating Golemagg, they would either go for Magmadar's cave or Gehennas's rune. So he'd prepared to detonate it the moment it was disturbed.
+Ragnaros had detonated the "Mohn" rune that Gehennas guarded. He knew the intruders in Molten Core were destroying the runes one by one. After defeating Golemagg, they would either go for Magmadar's cave or Gehennas's rune. So he'd prepared to detonate it the moment it was disturbed.
 
 Jace watched a piece of Shadowforge City architecture, still embedded in the mountain wall, slide past him into the abyss. A few Dark Iron soldiers tried to climb out of the windows, but soon sank into the depths too.
 
@@ -16,7 +16,7 @@ If they hadn't reacted fast and run early, they'd have taken that blast head-on.
 
 But where was everyone else?
 
-A whimpering sound came from nearby. Jace raised Usarlas and split a stone pillar, using Gorefiend's Grasp to tear away the rubble beneath. Out crawled an Ironfury soldier covered in blood.
+A whimpering sound came from nearby. Jace raised Ulthalesh and split a stone pillar, using Gorefiend's Grasp to tear away the rubble beneath. Out crawled an Anvilrage soldier covered in blood.
 
 He stared with bloodshot eyes at something behind Jace, said nothing, just screamed, jumped down the steps, and ran off to who knows where.
 
@@ -26,13 +26,13 @@ The floating island beneath Jace's feet kept crumbling. He had to constantly adj
 
 Then a black shadow wreathed in purple-red light appeared above. "Come, master."
 
-Morofiel landed lightly nearby. Despite looking somewhat weakened, her black goat hooves held steady on the absurdly tilted rock face as she reached out a hand to Jace. In that moment, this pink demon didn't look like some hellish creature -- she was a burning angel.
+Morophil landed lightly nearby. Despite looking somewhat weakened, her black goat hooves held steady on the absurdly tilted rock face as she reached out a hand to Jace. In that moment, this pink demon didn't look like some hellish creature -- she was a burning angel.
 
-Jace grabbed the succubus's hand. Morofiel calmly lifted him and flew over the lava river.
+Jace grabbed the succubus's hand. Morophil calmly lifted him and flew over the lava river.
 
-"You shared the blast's impact, Morofiel. I know you flew a long way," Jace said.
+"You shared the blast's impact, Morophil. I know you flew a long way," Jace said.
 
-"Don't be so sentimental, dear." Morofiel smiled. "The wounds I take, you'll have to pay back sooner or later."
+"Don't be so sentimental, dear." Morophil smiled. "The wounds I take, you'll have to pay back sooner or later."
 
 "Let's survive first," Jace muttered.
 
@@ -40,13 +40,13 @@ Jace grabbed the succubus's hand. Morofiel calmly lifted him and flew over the l
 
 Jace heard a thumping demonic voice in his mind. It was Sazeno.
 
-He frowned, focusing on the source, then pointed at a branch of the lava river split by a giant rock. "There, Morofiel. Sazeno's over there."
+He frowned, focusing on the source, then pointed at a branch of the lava river split by a giant rock. "There, Morophil. Sazeno's over there."
 
-"It's my opinion that in this situation, finding him should be the lowest priority, master," Morofiel said.
+"It's my opinion that in this situation, finding him should be the lowest priority, master," Morophil said.
 
 "He called my name," Jace said.
 
-Morofiel nodded without comment and immediately accelerated toward where Jace pointed. When it came to tracking demons, her skill was never in doubt. Before Jace could pinpoint Sazeno's exact location, Morofiel had already spotted the imp's trail, landed precisely behind a collapsed Dark Iron dwarf statue, and yanked Sazeno out from his hiding spot.
+Morophil nodded without comment and immediately accelerated toward where Jace pointed. When it came to tracking demons, her skill was never in doubt. Before Jace could pinpoint Sazeno's exact location, Morophil had already spotted the imp's trail, landed precisely behind a collapsed Dark Iron dwarf statue, and yanked Sazeno out from his hiding spot.
 
 "You're the only one? You called me so urgently -- I thought you'd found the others!"
 
@@ -62,7 +62,7 @@ As long as he could awaken it, he could attract the attention of any nearby blac
 
 The golden necklace responded to his call. Though no earth elementals were willing to answer Jace's communication, the necklace glowed faintly on its own power. Soon, a screech came from afar. It was Needleflame!
 
-"There." Jace pointed. "Take us there, Morofiel!"
+"There." Jace pointed. "Take us there, Morophil!"
 
 "I... don't have to come along, right, master?" the imp chuckled.
 
@@ -70,9 +70,9 @@ The golden necklace responded to his call. Though no earth elementals were willi
 
 "Guess I'm coming," the imp coughed.
 
-Jace grabbed the imp and stuffed it into his bag. When Morofiel took off, he jumped and caught her hoof, rising into the air. Suddenly, an ethereal ringing came from the left, making even the floating debris and dust tremble.
+Jace grabbed the imp and stuffed it into his bag. When Morophil took off, he jumped and caught her hoof, rising into the air. Suddenly, an ethereal ringing came from the left, making even the floating debris and dust tremble.
 
-Morofiel nearly lost balance and wobbled midair. She turned to look.
+Morophil nearly lost balance and wobbled midair. She turned to look.
 
 Bright flames suddenly burst from a hole deep in the lava river, casting the whole area into shadowed contrast. A violent vortex of fire spread, sending waves of magma surging upstream.
 
@@ -84,13 +84,13 @@ The elemental whisper came from deep within Molten Core, followed by a piercing 
 
 "Jace!"
 
-Another dwarf's voice came from ahead. Jace turned immediately. It was Sora, with Grede and Vereesa on her back. Needleflame was beside them, guiding the way!
+Another dwarf's voice came from ahead. Jace turned immediately. It was Sola, with Grede and Vereesa on her back. Needleflame was beside them, guiding the way!
 
-When Jace saw the crackling Heavens-Shatterer in Grede's hand, he felt his whole body sag. He'd actually thought...
+When Jace saw the crackling Skyshatter in Grede's hand, he felt his whole body sag. He'd actually thought...
 
 "How did you lose the necklace the red dragon gave you?!" Jace shouted, throwing it over.
 
-"I had to protect this skull! And carry Sulfuron Hammer!" Grede was even angrier, catching the necklace and roaring back.
+"I had to protect this skull! And carry the Sulfuron Hammer!" Grede was even angrier, catching the necklace and roaring back.
 
 "I'm not a hydra -- I don't have that many hands to grab this and that! Do you know how heavy this cage is?! One more rune left -- Magmadar's cave, right? Quick, get this skull over there!"
 
@@ -98,23 +98,23 @@ When Jace saw the crackling Heavens-Shatterer in Grede's hand, he felt his whole
 
 A series of explosions overhead cut Grede off. A fireball the size of a house blasted through the cliff, and several stone pillars came crashing down toward them.
 
-Sora and Needleflame immediately veered in opposite directions. Sora scooped up the slower Morofiel and Jace.
+Sola and Needleflame immediately veered in opposite directions. Sola scooped up the slower Morophil and Jace.
 
-They barely dodged the direct hit of the fire meteor, but when it struck the lava riverbank, it exploded like a heavy bomb, sending out a black fireball. The shockwave flung Sora and everyone on her back tumbling.
+They barely dodged the direct hit of the fire meteor, but when it struck the lava riverbank, it exploded like a heavy bomb, sending out a black fireball. The shockwave flung Sola and everyone on her back tumbling.
 
-Amidst the Firelord's malicious laughter, Sora struggled to maintain her flight, but still crashed through a cluster of stone pillars. Everyone on her back was thrown onto a nearby gravel slope.
+Amidst the Firelord's malicious laughter, Sola struggled to maintain her flight, but still crashed through a cluster of stone pillars. Everyone on her back was thrown onto a nearby gravel slope.
 
-Jace coughed, raised Usarlas, and stood. Needleflame landed nearby. But deep in the lava river, firelight flared again. Rows of fire elementals were swimming upstream, crawling out of the molten river.
+Jace coughed, raised Ulthalesh, and stood. Needleflame landed nearby. But deep in the lava river, firelight flared again. Rows of fire elementals were swimming upstream, crawling out of the molten river.
 
-"We can't all go together. We'd never make it to Magmadar's cave alive." He looked at Vereesa and Grede, and Sora, who was picking herself up.
+"We can't all go together. We'd never make it to Magmadar's cave alive." He looked at Vereesa and Grede, and Sola, who was picking herself up.
 
-"Vereesa, guide Sora to help the Wildhammers find Magmadar's cave -- if it's still there. Destroy the last rune." Jace said. "Take the imp. Let it keep us connected."
+"Vereesa, guide Sola to help the Wildhammers find Magmadar's cave -- if it's still there. Destroy the last rune." Jace said. "Take the imp. Let it keep us connected."
 
 "Understood, master! Understood!" the imp said excitedly.
 
-"Grede, you and me, Morofiel, and Needleflame." Jace said. "We'll go meet this Firelord, buy them some time. We're the ones who can take the heat, relatively speaking."
+"Grede, you and me, Morophil, and Needleflame." Jace said. "We'll go meet this Firelord, buy them some time. We're the ones who can take the heat, relatively speaking."
 
-Morofiel stared expressionlessly toward the heart of Molten Core. Grede took a breath, hefted Sulfuron Hammer, and said, "I damn well knew it'd come to this. I knew it back in that troll temple!"
+Morophil stared expressionlessly toward the heart of Molten Core. Grede took a breath, hefted the Sulfuron Hammer, and said, "I damn well knew it'd come to this. I knew it back in that troll temple!"
 
 "From the way you talk, it sounds like you've been looking forward to it," Vereesa said with a crooked smile.
 
@@ -122,10 +122,10 @@ Morofiel stared expressionlessly toward the heart of Molten Core. Grede took a b
 
 "Fair point," Vereesa said softly.
 
-"Are you sure about this, Jace? The Firelord..." Sora asked.
+"Are you sure about this, Jace? The Firelord..." Sola asked.
 
-Jace fastened the golden Mana Igniting Cord around his robe. "Just one more flame rune. As long as you two are fast enough."
+Jace fastened the golden Mana Igniting Cord around his robe. "Just one more fire rune. As long as you two are fast enough."
 
-"I'll do everything I can, Jace." Sora nodded.
+"I'll do everything I can, Jace." Sola nodded.
 
 "What troll temple?" Needleflame asked.

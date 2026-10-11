@@ -26,9 +26,9 @@ Khadgar crossed his arms and frowned. "If I didn't know we'd be heading to the B
 
 "He's right," Jace nodded.
 
-Kallrez narrowed his already near-squinted, fel-fire eyes—looking none too pleased that these two humans were questioning his ability to dominate lesser demons.
+Kallrez narrowed his already near-squinted, fel fire eyes—looking none too pleased that these two humans were questioning his ability to dominate lesser demons.
 
-"The creator of this spell received help from high-ranking Legion commanders. So the demons forcibly dragged here are all Legion foot soldiers. If you want to forcibly control these Legion soldiers with enslavement magic, Jace Sesso, you'll have to put in several times the effort. They carry their masters' brands—they may come from Kil'jaeden, or from the Defiler Archimonde, the Destroyer Mannoroth, Tichondrius... The presence of these brands helps them resist suppression from high-ranking lords like myself. It helps the Legion's soldiers conquer powerful demon warlords and resist the mental corrosion of the Shadow realm."
+"The creator of this spell received help from high-ranking Legion commanders. So the demons forcibly dragged here are all Legion foot soldiers. If you want to forcibly control these Legion soldiers with enslavement magic, Jace Sesso, you'll have to put in several times the effort. They carry their masters' brands—they may come from Kil'jaeden, or from Archimonde the Defiler, Mannoroth the Destructor, Tichondrius... The presence of these brands helps them resist suppression from high-ranking lords like myself. It helps the Legion's soldiers conquer powerful demon warlords and resist the mental corrosion of the Void."
 
 "And you?" Khadgar asked. "As a former high-ranking member of the Burning Legion, what brand did you carry?"
 
@@ -44,9 +44,9 @@ When the brand of Sargeras was mentioned, Jace glanced toward Morophil. The succ
 
 If that were the case, Kallrez's speculation also matched what Jace had been thinking. It was precisely because Kil'jaeden was backing Gul'dan from behind that Gul'dan could summon demons directly loyal to him, without wasting mana to control them. Gul'dan only needed to pay the mana cost of summoning those powerful demons into the world.
 
-But in another timeline, Gul'dan, empowered by the Nightwell and various artifacts, commanded power on an entirely different level from Jace. He could directly use Gul'dan's Hand to summon demon lords on the level of Kallrez and have them stand on his side without breaking a sweat.
+But in another timeline, Gul'dan, empowered by the Nightwell and various artifacts, commanded power on an entirely different level from Jace. He could directly use Hand of Gul'dan to summon demon lords on the level of Kallrez and have them stand on his side without breaking a sweat.
 
-That difference in mana cost and time investment—added on one side and subtracted on the other—turned Gul'dan into an absurdly powerful opponent. The power of the Gul'dan's Hand he cast became nearly impossible to surpass.
+That difference in mana cost and time investment—added on one side and subtracted on the other—turned Gul'dan into an absurdly powerful opponent. The power of the Hand of Gul'dan he cast became nearly impossible to surpass.
 
 "So what's your solution?" Jace asked.
 
@@ -56,15 +56,15 @@ Kallrez crouched down and carved demonic runes into the ground with his sharp cl
 
 "Add this incantation to your spell. I believe you should use it to replace the 'Anteya, Mil' section. I must warn you—I have no interest in the phrases mortals use to communicate with the Twisting Nether. I can only do my best to help you based on what I've heard in the past, Jace Sesso. It might come out very differently when you cast it."
 
-"Perhaps we should find a senior Eredar expert to help," Khadgar said.
+"Perhaps we should find a senior eredar expert to help," Khadgar said.
 
 "If the brief lives of mortals bore you so much, it might be worth a try," Kallrez snorted.
 
-"If you can be enslaved, then an Eredar can too. I don't think that would be much trouble for Jace Sesso." Khadgar said. "Unless you admit the Eredar are inferior."
+"If you can be enslaved, then an eredar can too. I don't think that would be much trouble for Jace Sesso." Khadgar said. "Unless you admit the eredar are inferior."
 
 "Silence... mage!" the demon snarled.
 
-While those two bickered, Jace copied the doom lord's incantation runes into his notebook, recombining them with Gul'dan's Hand long incantation as the demon had instructed, and transcribed the whole thing again.
+While those two bickered, Jace copied the doom lord's incantation runes into his notebook, recombining them with the long incantation of Hand of Gul'dan as the demon had instructed, and transcribed the whole thing again.
 
 Then, without channeling any emotions, he calmly recited it several times. He could indeed feel the shadow energy responding to the summons in a slightly different way—but it also became more chaotic.
 
@@ -72,6 +72,6 @@ Then, without channeling any emotions, he calmly recited it several times. He co
 
 At this, Kallrez burst into laughter as if he'd heard the most ridiculous thing imaginable. The very ground trembled with the demon's laughter.
 
-"You are not the same person you once were! The Jace Sesso who first summoned me to the Storm Altar and the one standing here now are night and day! Apart from those mad Eredar and the wild legends from the Void's corners, you are the most powerful mortal warlock I have ever seen—even setting Ulthalesh aside. And you have likely never tried to unleash the full power of that ancient artifact, which is precisely your problem."
+"You are not the same person you once were! The Jace Sesso who first summoned me to the Altar of Storms and the one standing here now are night and day! Apart from those mad eredar and the wild legends from the far corners of the Nether, you are the most powerful mortal warlock I have ever seen—even setting Ulthalesh aside. And you have likely never tried to unleash the full power of that ancient artifact, which is precisely your problem."
 
 "Do you want to become a master of shadow, a lord of demons, or don't you? It's hard to tell whether the energy you spend suppressing your own ambition or your actual magical power is greater. I can hardly tell. Or perhaps that suppression of yours is itself part of the shadow power you can draw upon? After all, the bond between mortals and shadow has always been difficult to pin down, thanks to the Curse of Flesh."

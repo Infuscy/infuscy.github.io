@@ -20,7 +20,7 @@ They got off the horse at the Lakeshire stables, and Jace couldn't tear his eyes
 
 Further along the shore, a few children splashed and played in the lake while their older sisters or mothers stood on the bank shouting anxiously. An old man carrying a rod and fishing tackle walked off into the distance, probably looking for a quieter spot away from the crowd.
 
-"I need to head into town center and ask the boys at the Warriors' Guild what exactly we're here to do," Grede hitching up his trousers as he came over. "The air here's real nice, though. Staying too long in a place like Stormwind's no good for your health."
+"I need to head into town center and ask the boys at the Fighters Guild what exactly we're here to do," Grede said, hitching up his trousers as he came over. "The air here's real nice, though. Staying too long in a place like Stormwind's no good for your health."
 
 "Never mind health right now," Jace said, looking at him. "Don't tell me you came to Lakeshire without even knowing what the job was?"
 
@@ -28,7 +28,7 @@ Further along the shore, a few children splashed and played in the lake while th
 
 "Remember that time we nearly died for two silver?" Jace reminded him.
 
-"That was an accident. An accident," Grede said with a grin. "Who'd have thought a simple hauling job would run into the biggest headache in post-war Stormwind Kingdom? That giant gnoll's a prime target for Westfall Keep now. You could say we were downright heroic."
+"That was an accident. An accident," Grede said with a grin. "Who'd have thought a simple hauling job would run into the biggest headache in post-war Kingdom of Stormwind? That giant gnoll's a prime target for Westbrook Garrison now. You could say we were downright heroic."
 
 Put like that, Grede wasn't exactly wrong. Assigning jobs based on guild members' performance and combat ability, making sure everyone had a role, got some training, and wasn't constantly risking their necks — even if the guild skimmed a bit off the top, it wasn't such a bad deal.
 
@@ -58,7 +58,7 @@ Jace snapped out of it. Right — there were raptors in Stranglethorn Vale.
 
 That was raptor meat!
 
-"I'll take a plate. And a pitcher of moon-plum juice." He gritted his teeth, slapped a silver and a handful of coppers on the table, and the innkeeper swept the money over and immediately hollered for the kitchen to get the fire going.
+"I'll take a plate. And a pitcher of moonberry juice." He gritted his teeth, slapped a silver and a handful of coppers on the table, and the innkeeper swept the money over and immediately hollered for the kitchen to get the fire going.
 
 Over by the hearth on the other side of the common room, a few soldiers out of their armor were singing some song. Jace rested his chin in his hand and stared at the parcel sitting on his table, thinking about how there was a tiny demon hidden inside it — it all felt incredibly unreal.
 
@@ -120,7 +120,7 @@ Grede tossed a bone onto the plate. "Then tell me — what's wrong with this pla
 
 Jace asked, "A wanted, hiding orc — what are the odds we find him in a single day?"
 
-"There are still some leads. Besides me, nobody here has any experience fighting mages, so I'm shouldering some responsibility and ridding the people of a menace." Grede rolled his eyes at Jace. "Tell you what — let's search tomorrow. If we can't find him, day after tomorrow you head straight to Stonewatch and then back to Stormwind. I'll stay here and keep looking. If you remember your old buddy, come back and keep me company while I search. Either way I'll split the bounty with you. How's that sound? The bounty's thirteen silver total — the Warriors' Guild plus the Lakeshire magistrate reaching into his own purse. Thirteen silver. What do you say?"
+"There are still some leads. Besides me, nobody here has any experience fighting mages, so I'm shouldering some responsibility and ridding the people of a menace." Grede rolled his eyes at Jace. "Tell you what — let's search tomorrow. If we can't find him, day after tomorrow you head straight to Stonewatch and then back to Stormwind. I'll stay here and keep looking. If you remember your old buddy, come back and keep me company while I search. Either way I'll split the bounty with you. How's that sound? The bounty's thirteen silver total — the Fighters Guild plus the Lakeshire magistrate reaching into his own purse. Thirteen silver. What do you say?"
 
 Thirteen silver — Jace's heart skipped.
 
@@ -140,24 +140,10 @@ But an orc… was still an orc. Let's search and see.
 
 "It's a deal, then."
 
-Jace took a big gulp of moon-plum juice. Grede laughed and tore off another huge slab of meat. Jace saw that and refused to be outdone — he pulled off every last bit of meat still clinging to a bone.
+Jace took a big gulp of moonberry juice. Grede laughed and tore off another huge slab of meat. Jace saw that and refused to be outdone — he pulled off every last bit of meat still clinging to a bone.
 
 One of the other biggest perks of coming to Azeroth was never having to worry about calories again. Never having to worry about gaining weight. All the desserts, pastries, meat, and drinks — eat and drink whatever you wanted, whenever the chance came.
 
 For one thing, the food here was nowhere near as calorie-dense as the twenty-first century. Even when something was greasy or cloyingly sweet, to a soul that had been baptized by industrial-strength flavors it always felt like it was missing something — like the difference between diet cola and the real thing.
 
 The other thing was, poverty here genuinely helped him keep the weight off.
-
-## Flags
-
-- **石堡:** Rendered as "Stonewatch" (same as ch. 57). Glossary has 斯通沃特 = Stonewatch.
-- **战士公会:** Rendered as "Warriors' Guild." Not in glossary.
-- **士官:** Rendered as "sergeant." Grede's rank; approximate.
-- **迅猛龙肉:** Rendered as "raptor meat" (canonical WoW creature).
-- **月梅汁:** Rendered as "moon-plum juice." Not in glossary; descriptive translation. Flag for a more canonical name if one exists.
-- **格瑞姆巴托:** Rendered as "Grim Batol" (in glossary).
-- **哨兵岭:** Rendered as "Sentinel Hill" (in glossary).
-- **窝窝头:** Rendered as "cornbread bun." Approximation for the dry, coarse staple.
-- **干烧饼:** Rendered as "flatbread." Approximation.
-- **巨大豺狼人 / 西泉要塞的主要目标:** Reference to the prior gnoll incident (Hogger/Westfall Keep arc). Left as "giant gnoll" and "Westfall Keep."
-- **湖畔镇镇长 / 镇长:** Rendered as "Lakeshire magistrate" (the town authority figure). Not in glossary.

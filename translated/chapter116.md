@@ -10,7 +10,7 @@ Jace nodded, pulled out his manuscript, and began to read.
 
 In Orcish, he roughly laid out the end of the Orc Wars and the Alliance's subsequent debate over how to handle the prisoners of war. He laid out the various kingdoms' stances on the captives and the difficulties they each faced — in short, an objective, dispassionate recounting of the whole process.
 
-If this had been on Earth — an English exam, or any other language test — then in Azeroth that would correspond to a Dwarvish or Elvish exam. An essay like this would be utterly elementary, practically the equivalent of copying out a dull, dry narrative and reading it aloud in all its bland glory.
+If this had been on Earth — an English exam, or any other language test — then in Azeroth that would correspond to a Dwarvish or Thalassian exam. An essay like this would be utterly elementary, practically the equivalent of copying out a dull, dry narrative and reading it aloud in all its bland glory.
 
 But for an Orcish exam, things were entirely different. Jace had spent ten whole days just managing to compose this short article in Orcish runes, and getting each character's pronunciation right had cost him enormous effort. And when it came to Dushan, there were even runes whose readings and meanings the teacher himself couldn't quite recall, forcing him to interrupt Jace several times to look up words on the spot.
 
@@ -46,7 +46,7 @@ Dushan didn't catch two of the words and double-checked the pronunciation and me
 
 Once everything was cleared up, Dushan nodded and asked in Common, "What did you have for lunch today?"
 
-"Dry bread, an egg, and a glass of juice from the Blue Heron, Master. I don't usually eat this well, but with the final exam coming up I wanted a little extra sugar." Jace answered offhandedly in Common.
+"Dry bread, an egg, and a glass of juice from the Blue Recluse, Master. I don't usually eat this well, but with the final exam coming up I wanted a little extra sugar." Jace answered offhandedly in Common.
 
 He'd thought the exam was over, so he'd relaxed on the spot.
 
@@ -76,7 +76,7 @@ Since everyone took the exam alone in the classroom, Jace had no idea how the ot
 
 But he still felt doomed. Nervousness, plus only a month of preparation time, plus Dushan pulling tricks like this — the trip fare was definitely coming out of his own pocket this time.
 
-Chances are he'd get mocked by Marin again when he came out, never mind Grede.
+Chances are he'd get mocked by Malin again when he came out, never mind Grede.
 
 From the moment he'd arrived in Azeroth to now, almost nothing had gone smoothly for him… The one thing he felt heaven had blessed him with was that no matter how unlucky he got, he hadn't lost his life. That counted for something, at least.
 
@@ -89,10 +89,3 @@ The more he thought about it, the more pointless it all felt, until Dushan looke
 "Ah, sorry, Master Dushan." He gathered up his things, preparing to leave.
 
 "Right, Jace — you're from Lordaeron, aren't you?" Dushan asked. "Any plans to go home for Winter Veil?"
-
-## Flags
-
-- **杜尚 (Caro Dushan / Master Dushan):** Orcish-language teacher. Full name 卡罗·杜尚 established earlier (ch. ~75, ~105). Not in glossary — added here. Rendered as "Master Dushan" in address per the glossary's title conventions.
-- **联盟收容法案:** Rendered as "the Alliance Internment Act" (canonical WoW term for the post–Second War orc internment camps). Not in glossary.
-- **蓝色隐士:** Rendered as "the Blue Heron" (Stormwind tavern). Not in glossary; translation tentative — could also be "Blue Hermit." Flagged for verification.
-- **冬幕节:** Rendered as "Winter Veil" (canonical WoW winter holiday). Not in glossary.

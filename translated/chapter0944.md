@@ -14,11 +14,15 @@ Jace sized up the place and couldn't help but feel that a noble house like House
 
 "Sir."
 
-Someone called out from behind him. Jace turned and saw Katrana's maid. "Good afternoon, miss. Is Lady Katrana Prestor at home?"
+Someone called out from behind him. Jace turned and saw Katrana's maid.
+
+"Good afternoon, miss. Is Lady Katrana Prestor at home?"
 
 The moment she saw him her eyes widened, then she lowered her head. "Master Sesso, please follow me. The mistress is at home, and she's been waiting for your news all this time."
 
-"I won't go in, miss." Jace glanced around. "I prefer to talk outside. It's more convenient." The maid blinked, then nodded. "I'll go announce you at once."
+"I won't go in, miss." Jace glanced around. "I prefer to talk outside. It's more convenient."
+
+The maid blinked, then nodded. "I'll go announce you at once."
 
 She understood what Jace meant. Against the background of the news that House Prestor's daughter had parachuted into Stormwind spreading far and wide, the explosive gossip of a young court mage sharing a room alone with a beautiful, single foreign princess would probably reach Kalimdor by the next day.
 
@@ -28,15 +32,15 @@ After all, there was already a precedent — Krasus had barged carelessly into a
 
 Jace glanced at a group of well-dressed, attractive women of varying ages passing by not far off, chatting and laughing to themselves. He figured that on the grounds of possibly spreading rumors, Katrana shouldn't suspect his motive for meeting outside.
 
-After waiting outside for a while, Jace watched a dark-red figure emerge from the courtyard. Katrana had clearly made a point of dressing up before coming out. When she saw Jace she smiled at once. "Good afternoon, Master Jace Sesso. There was really no need for you to come here in person. You could have sent someone to let me know — I could have visited you again at Illgynoth Tower."
+After waiting outside for a while, Jace watched a dark-red figure emerge from the courtyard. Katrana had clearly made a point of dressing up before coming out. When she saw Jace she smiled at once. "Good afternoon, Master Jace Sesso. There was really no need for you to come here in person. You could have sent someone to let me know — I could have visited you again at the Tower of Ilgalar."
 
-"Good afternoon, Lady Prestor," Jace said. "Illgynoth Tower is about to enter renovation, as it happens. I came back to Stormwind to report to the king anyway."
+"Good afternoon, Lady Prestor," Jace said. "The Tower of Ilgalar is about to enter renovation, as it happens. I came back to Stormwind to report to the king anyway."
 
 After coming to Stormwind, Jace had finally gotten a sense of just how tall Katrana was. Boosted by the blood of the red dragon, Jace's own height had shot up to over a meter eighty, yet this woman appeared to be about the same height as him — a stark contrast to the other ladies passing through the Park.
 
 And that height didn't make Katrana seem clumsy in the slightest. Her bearing was steady and her movements light and nimble — quite like a professionally trained dancer. Pair that with a face of almost inhuman beauty, and it was no wonder that the moment she showed her face in Stormwind she'd completely reversed the impression the rumors had left on everyone.
 
-If Jace hadn't spent so long with Vereesa and Molophil, he probably wouldn't have been able to keep his composure in front of a noblewoman like this either. If this wasn't specially crafted by a black dragon, it was just too much.
+If Jace hadn't spent so long with Vereesa and Morophil, he probably wouldn't have been able to keep his composure in front of a noblewoman like this either. If this wasn't specially crafted by a black dragon, it was just too much.
 
 "I'd like to know more about the whereabouts of your father, Lord Daval Prestor, Lady Prestor," Jace said.
 
@@ -46,15 +50,15 @@ She glanced at a young man leading a horse across the street and lowered her voi
 
 "Master Krasus," Jace said.
 
-"Yes." Katrana looked at Jace. "You know about that too? But I simply couldn't find out where exactly he was taken, because Dalaran doesn't allow ordinary people to enter — especially the area near the Violet Citadel. And many mages are unwilling to have anything to do with me because of my father's affairs…
+"Yes." Katrana looked at Jace. "You know about that too? But I simply couldn't find out where exactly he was taken, because Dalaran doesn't allow ordinary people to enter — especially the area near the Violet Citadel. And many mages are unwilling to have anything to do with me because of my father's affairs…"
 
 "You suspect Lord Daval was imprisoned in the same place as Master Krasus?" Jace asked.
 
 "Master Krasus must be a very important prisoner to the black dragons," Katrana said. "I imagine he'd be kept in a secret prison beyond the reach of ordinary people. If the black dragon intended to impersonate my father, then my father must also be held in some hidden place unknown to the world — his importance certainly no less than Master Krasus's. I think it's very likely the same place. At the very least it's worth going to see, don't you think?"
 
-Jace nodded. "I've heard the name of that place from Dalaran. An ear mage there told me the black dragon called it…" He spoke in the dragon tongue: "…the Blackrock High Tower."
+Jace nodded. "I've heard the name of that place from Dalaran. A mage there told me the black dragon called it…" He spoke in Draconic: "…the Blackrock High Tower."
 
-Jace did his best to make his tone come across as a shallow mage showing off his knowledge of the dragon tongue and his considerable connections within the Kirin Tor, then directed an equally shallow gaze at the target of his showing off — this young, beautiful princess before him.
+Jace did his best to make his tone come across as a shallow mage showing off his knowledge of Draconic and his considerable connections within the Kirin Tor, then directed an equally shallow gaze at the target of his showing off — this young, beautiful princess before him.
 
 Katrana frowned. "I've never heard of that place."
 
@@ -62,7 +66,7 @@ Katrana frowned. "I've never heard of that place."
 
 "Orcs?" Katrana said in surprise.
 
-Jace had done his utmost to sense the reaction she was trying to hide, but he had to admit — she really did play it convincingly. But it was also a little too convincing, just as Molophil had said: as clean as a devout priest.
+Jace had done his utmost to sense the reaction she was trying to hide, but he had to admit — she really did play it convincingly. But it was also a little too convincing, just as Morophil had said: as clean as a devout priest.
 
 So what was the plan here? Lure him into Blackrock Spire and hand him over to Nefarian?
 

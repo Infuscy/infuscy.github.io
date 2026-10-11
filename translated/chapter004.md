@@ -14,7 +14,7 @@ Grede glanced at the workers lying around on both sides and lowered his voice. "
 
 "Can't. Can't do it." Jace waved a hand. "I can't do a damn thing today."
 
-"Westfall Keep, tomorrow. One silver and thirty copper for the round trip. You in or not? No walking — we take a wagon. You can nap on the way."
+"Westbrook Garrison, tomorrow. One silver and thirty copper for the round trip. You in or not? No walking — we take a wagon. You can nap on the way."
 
 "Escorting grain?"
 
@@ -22,19 +22,19 @@ Grede glanced at the workers lying around on both sides and lowered his voice. "
 
 "What if orcs ambush us? Throwing your life away for a single silver?"
 
-"What orcs at Westfall Keep? Let the next lot worry about that!" The dwarf climbed the steps. "Orcs come from the Redridge side. Westfall and Moonbrook have better security than we do here, lad. Plus we've got soldiers with us — this money's free money!"
+"What orcs at Westbrook Garrison? Let the next lot worry about that!" The dwarf climbed the steps. "Orcs come from the Redridge side. Westfall and Moonbrook have better security than we do here, lad. Plus we've got soldiers with us — this money's free money!"
 
 "Not bad, then."
 
 Jace let out an exhausted laugh. With this extra silver, rent was covered. Solid.
 
-At noon the next day, the two of them signed in and joined the wagon train heading to Westfall Keep.
+At noon the next day, the two of them signed in and joined the wagon train heading to Westbrook Garrison.
 
 Just like Grede had said, they ran into nothing on the way there. No wolves, no murlocs, no kobolds, no orcs — nothing. Elwynn Forest was peaceful and calm.
 
 The grain shipment, though — it should've reached the keep around three in the afternoon, but it got delayed by hours.
 
-By evening, the red sunlight filtered through the trees onto the tent tops pitched beside Westfall Keep, making the riverside camp look like rows of freshly baked pudding cakes.
+By evening, the red sunlight filtered through the trees onto the tent tops pitched beside Westbrook Garrison, making the riverside camp look like rows of freshly baked pudding cakes.
 
 The wagons finally arrived. The quartermaster had a talk with the soldiers — sounded like they'd run into some trouble over at Sentinel Hill.
 
@@ -50,13 +50,13 @@ A few rookies on their first escort duty were talking about gray wolves and wild
 
 Listening to them, he felt a chill run through him as he looked toward that forest.
 
-Before this, his mind had been completely full of that Curse of Agony he'd suffered in the basement of The Slaughtered Lamb. He hadn't even stopped to think about what the name "Westfall Keep" actually meant.
+Before this, his mind had been completely full of that Curse of Agony he'd suffered in the basement of the Slaughtered Lamb. He hadn't even stopped to think about what the name "Westbrook Garrison" actually meant.
 
 Then, from deep in the woods, came a lone howl. The quartermaster overseeing the grain transport blew his whistle, signaling everyone to prepare to move out.
 
 That howl suddenly stirred a memory from over a decade ago in Jace.
 
-Wasn't this Westfall Keep — the one overrun with gnolls?
+Wasn't this Westbrook Garrison — the one overrun with gnolls?
 
 Gnolls are humanoid creatures that live all across the Kingdom of Stormwind. A lot of young folks can't tell the difference between a gnoll and a kobold.
 
@@ -66,7 +66,7 @@ Several gnoll tribes had once united and clashed with the Kingdom of Stormwind i
 
 They'd ultimately been no match for human regulars and scattered, nearly vanishing from Elwynn Forest into the surrounding mountains and wilds. But after decades of recovery, these savage, semi-intelligent creatures had crept back, crossing rivers and bridges from every direction to infiltrate Elwynn Forest once more.
 
-Right now, Westfall Keep was still in the post-Orc Wars reconstruction period. But a decade or so from now, it would become an outpost against the Riverpaw tribe living in Westfall.
+Right now, Westbrook Garrison was still in the post-Orc Wars reconstruction period. But a decade or so from now, it would become an outpost against the Riverpaw tribe living in Westfall.
 
 Jace jogged a few steps to catch up with a Stormwind guard. "Have the grain wagons been attacked by gnolls before?"
 
@@ -110,7 +110,7 @@ Whoosh... thwump!
 
 Whoosh...
 
-"By the Holy Light... it's orc crossbow bolts! Orc attack!" Shouts erupted from the front, from the back, everywhere.
+"By the Light... it's orc crossbow bolts! Orc attack!" Shouts erupted from the front, from the back, everywhere.
 
 "Orcs?!" Grede gripped his woodcutter's axe with both hands, looking around. "Where?! I thought there were no orcs here!"
 

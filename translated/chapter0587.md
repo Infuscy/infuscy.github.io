@@ -18,9 +18,9 @@ Morophil completely ignored Jace's words. Her tone carried more hostility than b
 
 What the hell was she doing?
 
-"Molesphilissalitor!"
+"Mollesphilissaritor!"
 
-Jace's lips moved silently, speaking the name in demonic. Though the sound was barely a whisper, the impact of that dark incantation — a true name — was anything but small.
+Jace's lips moved silently, speaking the name in Demonic. Though the sound was barely a whisper, the impact of that dark incantation — a true name — was anything but small.
 
 His eyes even darkened, stained by shadow. Mosa, behind him, bristled as if every hair on her mane was standing on end. Grede looked up, eyes wide, staring at the scene, the food in his mouth frozen mid-chew.
 
@@ -32,7 +32,7 @@ Vereesa stared blankly at Jace, then at the succubus, her expression complicated
 
 Under the absolute weight of her true name, she cowered in fear, apologizing in a frantic, stumbling rush. Jace felt a pang of guilt.
 
-He thought back to earlier, when Morophil had thrown herself at Rexxar like a madwoman to block an attack for him — not even flinching when the soul link dealt her a heavy blow.
+He thought back to earlier, when Morophil had thrown herself at Rexxar like a madwoman to block an attack for him — not even flinching when the Soul Link dealt her a heavy blow.
 
 "Don't do this again, Morophil. You know I don't like things spiraling out of control," he said, keeping his voice as gentle as he could. "And you know I don't want to do this."
 
@@ -62,7 +62,7 @@ The succubus pulled herself up and ran her tongue over one of her sharp demon fa
 
 Morophil nodded and began chanting a demonic incantation. The whole dim room flickered with an eerie violet glow of shadow magic.
 
-Mosa couldn't stand it — she walked out of the building and found a collapsed pillar outside to shelter under the rain. Clearly she had no intention of standing around while this terrifying shadow magic was being cast right in front of her. Vereesa frowned too; she had no idea what this succubus was about to do.
+Mosa couldn't stand it — she walked out of the building and found a collapsed pillar outside to shelter from the rain. Clearly she had no intention of standing around while this terrifying shadow magic was being cast right in front of her. Vereesa frowned too; she had no idea what this succubus was about to do.
 
 A shifting blue-purple light flickered in Morophil's hands, and Jace felt a searing pain in his chest.
 
@@ -74,7 +74,7 @@ Pain — endless, searing pain and stabbing agony spread through his chest, from
 
 Grede marched over with his axe, but Jace held up a hand to stop him. "Don't. It's fine. I know what I'm doing."
 
-The dwarf frowned and halted. He twirled his axe, swung it once through the air, then glanced at Vereesa. Vereesa had her hand on the longblade at her waist. But in the end the two of them just shot anxious glances at each other and said nothing more.
+The dwarf frowned and halted. He twirled his axe, swung it once through the air, then glanced at Vereesa. Vereesa had her hand on the longblade at her hip. But in the end the two of them just shot anxious glances at each other and said nothing more.
 
 Even though he'd said he knew what he was doing, Jace had no idea when this would end.
 
@@ -105,13 +105,3 @@ Morophil's voice was much calmer now, back to the familiar tone he knew. When sh
 She clenched her fist, feeling her power. When she tightened it, Jace even sensed the demonic energy coursing through her was noticeably stronger than before.
 
 Had he just not been paying attention to her strength for a while? At some point, her horns had even grown a faint fork.
-
-## Flags
-
-- **Morophil's true name**: 莫勒丝菲尔萨莉托尔 → rendered phonetically as "Molesphilissalitor" (demonic true name; not in the glossary).
-- **Mana drain**: Morophil's Sayaad spell drains Jace's mana directly through shadow magic — agonizing and dangerous, but she insists she won't kill him. Establishes the physical cost of keeping a succubus fed.
-- **Soul link**: 灵魂链接 — the warlock spell linking Jace and Morophil; referenced when she took a hit meant for him from Rexxar.
-- **Sayaad**: 萨亚德 — demonic language/race term; Morophil uses it to describe the spell's origin and her own kind.
-- **Rexxar**: Canonical half-orc hero (雷克萨) — the earlier fight where Morophil shielded Jace.
-- **"the other half's still kicking"**: Jace's dry deflection of Grede's concern — classic self-deprecating humor under duress.
-- **POV**: Third person throughout.

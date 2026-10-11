@@ -12,9 +12,9 @@ The color of the flames was extremely unnatural, tinged with dark red, occasiona
 
 "The party's started, you idiots! Look over here! There's something delicious right here!"
 
-A bizarre shriek yanked every gnoll's attention over. A small burning flame zigzagged away from the grass. The nearest gnoll grabbed a crossbow from a small tent on its back and fired with a "shhh" — despite the quick reaction, the bolt still stuck in the mud far from that little ball of fire.
+A bizarre shriek yanked every gnoll's attention over. A small burning flame zigzagged away from the grass. The nearest gnoll grabbed a crossbow from a small tent behind it and fired with a "shhh" — despite the quick reaction, the bolt still stuck in the mud far from that little ball of fire.
 
-"Kill! Devil! Kill! Devil!"
+"Kill! Demon! Kill! Demon!"
 
 Several gnolls started yelling. One wielding a long blade was the first to charge out. The gnoll ran with terrifying speed, its short legs churning as if trembling. The imp panicked, howling, "Help me, you two idiots! Come save me!"
 
@@ -76,7 +76,7 @@ Grede nodded, looking at the gnoll on the ground still clutching its throat and 
 
 He glanced at the gnoll on the ground that kept moaning, its throat already run through, and thought that if he'd learned Curse of Tongues, this problem would probably be solved.
 
-Curse of Tongues was an extremely vicious curse — it could make the victim spew nothing but incomprehensible demonic, stripping them of the ability to channel magic through incantations. Applied to a gnoll, it would rob them of the ability to communicate, leaving them able to only yell incoherently.
+Curse of Tongues was an extremely vicious curse — it could make the victim spew nothing but incomprehensible Demonic, stripping them of the ability to channel magic through incantations. Applied to a gnoll, it would rob them of the ability to communicate, leaving them able to only yell incoherently.
 
 So he really needed to visit the Slaughtered Lamb more often. He had to get his hands on every spell those bastards could dig up. The few spells Jace knew right now were just too limited.
 
@@ -85,13 +85,3 @@ Jace hefted his sword. "For now, just shut these gnolls up."
 The two of them walked up the slope and stabbed each gnoll that could still move, one by one. Grede glanced around and asked, "How are we going to set up the ambush? The leaves on the trees are too sparse in winter — climbing up won't hide us."
 
 Jace pointed to a fallen tree trunk to the north. "We'll hide behind that. Since those two gnolls ran southwest, their camp is probably by the riverbank over there. If we hide to the north we should be safe — they won't be able to come around behind us."
-
-## Flags
-
-- Jace's first real gnoll-hunting ambush — a coordinated three-way assault with Grede and Sazeno against a Riverpaw camp.
-- Sazeno's combat utility confirmed: the imp's Fire spell draws aggro while Grede's lightning hammer delivers the killing blow.
-- Jace notices a dramatic increase in his physical strength — a gnoll's head cleanly severed, something that would have been impossible back on Stonewatch.
-- The gnolls speak Common (or a dialect of it) — a detail that unsettles Jace and raises questions about their intelligence.
-- Sazeno's "high latency" — the imp notices the approaching humans' blood scent before the fight but is forbidden from speaking, a running gag about imp communication delays.
-- Jace decides to kill all the gnolls rather than leave a lure, reasoning that gnolls can talk and might warn reinforcements — a tactical call that shows his growing pragmatism.
-- Foreshadowing: Jace wants to learn Curse of Tongues from the Slaughtered Lamb warlocks to prevent enemies from coordinating.

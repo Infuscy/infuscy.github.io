@@ -14,9 +14,9 @@ The two-headed ogre's horned head mumbled something irritable in Gorian. Almost 
 
 "They came on their own, wise Orguril!" The lead ogre bowed. "They said they have treasures and strange magic to offer you!"
 
-"We're making a trade. We'd like something in return too." Elrand lifted his chin and corrected him in Orcish, heavily accented with Common.
+"We're making a trade. We'd like something in return too." Erlan lifted his chin and corrected him in Orcish, heavily accented with Common.
 
-The horned head's anger vanished as it looked at Elrand, replacing fury with mocking ease.
+The horned head's anger vanished as it looked at Erlan, replacing fury with mocking ease.
 
 "Indeed. Why would I believe a bunch of warlocks and hired thugs would come to Zak'ur's fortress unasked, just to make friends?"
 
@@ -24,7 +24,7 @@ The horned head's anger vanished as it looked at Elrand, replacing fury with moc
 
 "The king's men?" The ogres in the cave gasped, grabbing wooden clubs, long-handled axes, and other weapons as they crowded to the entrance of Orguril's throne room.
 
-"Easy, everyone." Matthias Shaw gripped his sword hilt, assessing the warlock on the throne and the ogre guards pressing in behind them. He said in Orcish, "We're just here to make money, not to die. Let's not jump to conclusions."
+"Easy, everyone." Mathias Shaw gripped his sword hilt, assessing the warlock on the throne and the ogre guards pressing in behind them. He said in Orcish, "We're just here to make money, not to die. Let's not jump to conclusions."
 
 "For a little king's spy or a Lakeshire ranger, Zak'ur's fortress would indeed be a hidden place." Jace said calmly. "But for us... well, if we didn't have the ability to find you, we'd have nothing to trade with you, wise Orguril."
 
@@ -42,39 +42,39 @@ Jace could, of course, show his Court Mage ring to prove he wasn't Kirin Tor. Bu
 
 "I imagine whatever 'treasures' you used as an excuse, you've brought them along, haven't you?" The one-eyed head grinned. "Since you're Kirin Tor, why should I be patient? Kill them. Let's see what interesting things they're carrying."
 
-Jace frowned. Of course, their group of warlocks and SI:7 elites wouldn't be intimidated by a cave full of ogres. But if they killed the ones in this cavern, the ogres outside would warn the warlord. Then all of Crackfist would scatter deeper into the mountains, and the Soul Well experiment would be ruined.
+Jace frowned. Of course, their group of warlocks and SI:7 elites wouldn't be intimidated by a cave full of ogres. But if they killed the ones in this cavern, the ogres outside would warn the warlord. Then the whole Splinter Fist clan would scatter deeper into the mountains, and the Soul Well experiment would be ruined.
 
-Besides, killing Orguril wouldn't accomplish anything. There were other warlocks in Crackfist. Zak'ur could just find another advisor.
+Besides, killing Orguril wouldn't accomplish anything. There were other warlocks among the Splinter Fist. Zak'ur could just find another advisor.
 
-Just as Jace was mentally scrambling for a justification for knowing divination magic, Jalain behind him suddenly called out, "Hold on, wise Orguril."
+Just as Jace was mentally scrambling for a justification for knowing divination magic, Jalane behind him suddenly called out, "Hold on, wise Orguril."
 
-Everyone turned. Jalain Arrow held up a sapphire ring, her expression composed. "Who said only the Kirin Tor can cast divination magic? My rituals might not be able to explore the Twisting Nether or predict the future... but locating your stinking, filthy nest in these barren mountains isn't hard at all."
+Everyone turned. Jalane Ayrole held up a sapphire ring, her expression composed. "Who said only the Kirin Tor can cast divination magic? My rituals might not be able to explore the Twisting Nether or predict the future... but locating your stinking, filthy nest in these barren mountains isn't hard at all."
 
 "Hold." The horned head called out. The ogres at the entrance stumbled — some stopped, others swayed, and a few tripped over each other.
 
 "Bring the ring here." The other head told its servant.
 
-The small ogre servant nodded, shuffled awkwardly to Jalain, and opened his palm to receive the ring — which to him looked like a tiny screw nut — carefully carrying it before Orguril's two heads.
+The small ogre servant nodded, shuffled awkwardly to Jalane, and opened his palm to receive the ring — which to him looked like a tiny screw nut — carefully carrying it before Orguril's two heads.
 
 The one-eyed head studied the ring closely. "Nireesa Vados, Royal Court Mage of Alterac. Ah, mm. You're from that traitor nation the Alliance destroyed..."
 
-"Watch your tongue, two-headed freak." Jalain switched to Common with a heavy Alterac accent. "Everyone who has harmed or insulted the people of the Holy Mountain has met a bad end. Orgrim Doomhammer. The Perenholde family. The knights of Lordaeron and Stromgarde. And of course, the Stonefist ogres."
+"Watch your tongue, two-headed freak." Jalane switched to Common with a heavy Alterac accent. "Everyone who has harmed or insulted the people of the Holy Mountain has met a bad end. Orgrim Doomhammer. The Perenolde family. The knights of Lordaeron and Stromgarde. And of course, the Crushridge ogres."
 
 "We meant no insult, Lady Vados."
 
-The two-headed ogre's attitude clearly cooled. Apparently, he was convinced that Jalain could indeed cast divination magic. That ring of an Alterac royal court mage, whoever it had belonged to, was quite persuasive.
+The two-headed ogre's attitude clearly cooled. Apparently, he was convinced that Jalane could indeed cast divination magic. That ring of an Alterac royal court mage, whoever it had belonged to, was quite persuasive.
 
-Jace glanced back at Jalain. The female warlock returned a look. Jace wondered where she'd gotten that ring. Vados was indeed a powerful Alterac noble family — it would make sense that one of their wizards had been the right hand of the Perenholdes. Had Jalain stolen Nireesa Vados's identification badge when she fled ruined Alterac?
+Jace glanced back at Jalane. The female warlock returned a look. Jace wondered where she'd gotten that ring. Vados was indeed a powerful Alterac noble family — it would make sense that one of their wizards had been the right hand of the Perenoldes. Had Jalane stolen Nireesa Vados's identification badge when she fled ruined Alterac?
 
-"The Sharpbeak Tribe is regrouping under Warchief Blackhand at Blackrock Spire, gathering strength. And we can't relax here in the southern human kingdoms. We need to be ready to pin them down when Blackrock Spire marches south." Orguril rested one head on a hand against his stone throne. "So we must stay as low-key and cautious as possible until the final battle. So forgive my suspicion, humans. Lady Vados — could you demonstrate your divination magic?"
+"The Spirestone clan is regrouping under Warchief Blackhand at Blackrock Spire, gathering strength. And we can't relax here in the southern human kingdoms. We need to be ready to pin them down when Blackrock Spire marches south." Orguril rested one head on a hand against his stone throne. "So we must stay as low-key and cautious as possible until the final battle. So forgive my suspicion, humans. Lady Vados — could you demonstrate your divination magic?"
 
-"Of course." Jalain answered almost immediately. But Jace raised his hand. "Wait, wise Orguril. If you want to learn this divination spell, we can include it as one of the items in our trade. In return, the Crackfist tribe should provide equivalent spells or treasures in exchange."
+"Of course." Jalane answered almost immediately. But Jace raised his hand. "Wait, wise Orguril. If you want to learn this divination spell, we can include it as one of the items in our trade. In return, the Splinter Fist tribe should provide equivalent spells or treasures in exchange."
 
-"We know you're Cho'gall's student." Galders looked back at the other Dagger Clan members and added, "Warlocks have always coveted Cho'gall's magic. Many of us have traveled all the way to Kalimdor searching for him — they have no idea that one of Cho'gall's apprentices has been hiding in the depths of Mount Wogul all this time."
+"We know you're Cho'gall's student." Zardeth looked back at the other Dagger Society members and added, "Warlocks have always coveted Cho'gall's magic. Many of us have traveled all the way to Kalimdor searching for him — they have no idea that one of Cho'gall's apprentices has been hiding in the depths of Vul'Gol all this time."
 
 Orguril's two heads burst out laughing simultaneously. The ogre brutes behind them joined in.
 
-The horned head sneered in Common, dripping with mockery. "Who do you think you are... Even back in the Highmaul Arena, I never trusted those so-called soothsayers. And you finding this place with your magic — that's just luck. Don't think I'm desperate for your Alterac magic. If Perenholde's court mages were really that powerful, they should have foreseen what surrendering to Orgrim Doomhammer would cost. I just wanted to see a parlor trick... You think that's enough to trade for Cho'gall's powerful spells?"
+The horned head sneered in Common, dripping with mockery. "Who do you think you are... Even back in the Highmaul Coliseum, I never trusted those so-called soothsayers. And you finding this place with your magic — that's just luck. Don't think I'm desperate for your Alterac magic. If Perenolde's court mages were really that powerful, they should have foreseen what surrendering to Orgrim Doomhammer would cost. I just wanted to see a parlor trick... You think that's enough to trade for Cho'gall's powerful spells?"
 
 "And Gul'dan's spells." Jace said. "The Alliance Expedition brought back many of Gul'dan's spells from Auchindoun and Karabor. We have some of them. Interested?"
 
@@ -82,10 +82,10 @@ At the mention of Gul'dan, both heads of the ogre warlock stopped laughing. The 
 
 "How did you get them from the Expedition?" Orguril asked.
 
-"Learn to respect other people's secrets, ogre." Sulenna warned softly. "You and your warlord have been hiding in these mountains for over a decade. You should understand some basic rules of survival. At least, that's our rule of survival — and the principle this group lives by when dealing with each other."
+"Learn to respect other people's secrets, ogre." Surena warned softly. "You and your warlord have been hiding in these mountains for over a decade. You should understand some basic rules of survival. At least, that's our rule of survival — and the principle this group lives by when dealing with each other."
 
 Realizing the warlocks before him possessed Gul'dan's magic, even this ogre warlock who prided himself on having lived in Highmaul calmed down considerably. He stopped pressing.
 
-"Wise Orguril, I'm not going to play games with you." Jace turned and announced to all the ogres around him. "Tonight, I'll demonstrate the first carefully prepared spell in the center of your fortress. Any member of Crackfist interested in Gul'dan's magic is welcome to watch. Tell your warlord. Tell him this spell will completely thwart the Stormwind king's attempts to crush Crackfist!"
+"Wise Orguril, I'm not going to play games with you." Jace turned and announced to all the ogres around him. "Tonight, I'll demonstrate the first carefully prepared spell in the center of your fortress. Any Splinter Fist ogre interested in Gul'dan's magic is welcome to watch. Tell your warlord. Tell him this spell will completely thwart the Stormwind king's attempts to crush the Splinter Fist!"
 
 At the prospect of defeating Stormwind's army, the ogres cheered. The two-headed ogre, meanwhile, stared into Jace's eyes with both heads, laughing in a hoarse, wordless chuckle. Jace could see from his three eyes that his greed and curiosity for Gul'dan's powerful spells had won out. After all, Gul'dan was Cho'gall's teacher — the one who'd led him into the dark void.

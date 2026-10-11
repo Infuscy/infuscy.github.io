@@ -12,7 +12,7 @@ The orc snickered.
 
 Jace smiled. "Gold can't buy my loyalty. I work only for myself, orc. If you cooperate honestly, I might even find a way to get you out."
 
-"Mm." The orc said, "Not bad. Interesting, human. Watching you flap your beak like a crow spouting useless nonsense is entertaining. You think because I've decided to defy Blackhand, I still have any intention to go on living, you white-feathered chicken-crested fool? Hurk up your dark magic and stop wasting my time—let me see what you're made of!"
+"Mm." The orc said, "Not bad. Interesting, human. Watching you flap your beak like a crow spouting useless nonsense is entertaining. You think because I've decided to defy Blackhand, I still have any intention to go on living, you white-feathered chicken-crested fool? Bring on your dark magic and stop wasting my time—let me see what you're made of!"
 
 The orc had a point. As a Blackrock orc, walking the path of defying Blackrock Spire meant there wasn't a single place left in the entire Eastern Kingdoms where he could lay his head.
 
@@ -20,7 +20,7 @@ He'd abandoned every viable path and chosen a road to certain death—such was h
 
 Just as Sorgaden had said, this orc had a tenacious will. One could imagine his comrades were probably equally hardened characters—otherwise they wouldn't have died under a succubus's torment without revealing anything useful.
 
-But no matter what kind of person someone was, they had something they treasured. Jace was confident this orc hadn't joined the Blackrock Spire rebels purely to escape the black dragons. If that were all, he could have simply walked away like the warlock Carol had. So long as you enlisted in Blackrock Spire, there were always patrols to the Burning Plains—find an opportunity to slip away and no one would be the wiser.
+But no matter what kind of person someone was, they had something they treasured. Jace was confident this orc hadn't joined the Blackrock Spire rebels purely to escape the black dragons. If that were all, he could have simply walked away like the warlock Kagel had. So long as you enlisted in Blackrock Spire, there were always patrols to the Burning Steppes—find an opportunity to slip away and no one would be the wiser.
 
 Short of orcs being hunted down across the entire continent, and with Blackrock Spire's orcs having nowhere else for the Horde to settle after Grim Batol's fall, more orcs would probably have tried to leave.
 
@@ -46,9 +46,9 @@ In the shadows, the orc's teeth ground together with a creak. Jace was hoping to
 
 "I know nothing indeed, warlock." The orc laughed twice. "You and the Dark Iron dwarves exhausted yourselves and only caught a worthless piece of rotten meat like me—laughable. Don't get cocky. Soon you'll starve to death along with everyone else here. Your situation is no better than mine."
 
-"Yes," Jace nodded. "Not just you—the orcs in Blackrock Spire will be buried alongside us before long. You don't think the black dragons appreciate you slaves without scales or horns, do they? Those dragons don't even trust the drakonid legions that share their own blood, let alone you. They won't even let you speak their language… Think about it. If Shadowforge City falls, will those black dragons leave behind you disobedient misfits who still harbor rebellious intentions?"
+"Yes," Jace nodded. "Not just you—the orcs in Blackrock Spire will be buried alongside us before long. You don't think the black dragons appreciate you slaves without scales or horns, do they? Those dragons don't even trust the dragonkin legions that share their own blood, let alone you. They won't even let you speak their language… Think about it. If Shadowforge City falls, will those black dragons leave behind you disobedient misfits who still harbor rebellious intentions?"
 
-This time the orc said nothing. Jace continued. "From what I know, the black dragons are raising offspring atop Blackrock Spire, relying on you orcs to guard their dragon nests. Before long, more and more orcs and other mortals will become drakonid, and more and more whelps will hatch from the dragon eggs. Some can grow into young dragons. When that happens, they won't need you people anymore. I'd say ten, twenty years at most. That's the countdown to the extinction of you and your kin."
+This time the orc said nothing. Jace continued. "From what I know, the black dragons are raising offspring atop Blackrock Spire, relying on you orcs to guard their dragon nests. Before long, more and more orcs and other mortals will become dragonkin, and more and more whelps will hatch from the dragon eggs. Some will grow into drakes. When that happens, they won't need you people anymore. I'd say ten, twenty years at most. That's the countdown to the extinction of you and your kin."
 
 The word "kin"—Jace had deliberately used an intimate, traditional Orcish term: *maga'gha*, meaning important family and kin. Sure enough, the moment the word came out, the orc's nostrils flared. His anger could no longer be contained.
 
@@ -58,7 +58,7 @@ He nearly roared it. Even the people outside had heard the commotion. Jace notic
 
 This dragon was actually worried he might get hurt by a weakened orc—how…
 
-He gave the outside a look that everything was fine, then pulled the window's shutter closed and turned back, using a streak of Shadowflame to light the fire basin above the cell.
+He gave the outside a look that everything was fine, then pulled the window's shutter closed and turned back, using a streak of Shadowflame to light the brazier above the cell.
 
 Purple-red flames danced, lending the already grim cell a whorl of blood-tinged menace. Beneath that fel light, the orc's furious expression looked even more twisted.
 
@@ -106,4 +106,4 @@ He walked up to the orc, staring into his bloodshot eyes half-hidden behind damp
 
 Seeing the orc still reluctant to speak, Jace asked again, "What are you worried about? Worried I plan to destroy your stronghold? You think I'd do something that helps the black dragons? The Alliance wouldn't do it—and even the Dark Iron dwarves wouldn't."
 
-The orc lowered his gaze and thought for a long while before saying, "A place on the Burning Plains called Talc. The black dragons may not have found it yet."
+The orc lowered his gaze and thought for a long while before saying, "A place on the Burning Steppes called Slither Rock. The black dragons may not have found it yet."

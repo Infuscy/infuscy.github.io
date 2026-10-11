@@ -1,6 +1,6 @@
 ## Chapter 709: A Clear Lead
 
-Although the Sun King had announced the events at Grim Batol to all the elves present at the Farstrider Enclave, it was plain that the residents living in Silvermoon had not received the news in the first instance.
+Although the Sun King had announced the events at Grim Batol to all the elves present at the Farstrider Retreat, it was plain that the residents living in Silvermoon had not received the news in the first instance.
 
 Walking the streets, Jace could feel that these high elves understood full well that the human and dwarf granted entry into Silvermoon were no ordinary figures, and so they did their best not to cast any strange glances this way and maintain a normal demeanor — but from time to time they still looked over curiously.
 
@@ -18,11 +18,11 @@ Jace surmised that perhaps there had not been such a stark distinction between t
 
 Vereesa led the two of them in through a gate on the west side onto a narrower avenue. Looking south, there was a broad fountain plaza.
 
-She looked south and said, "That's Eaglewing Plaza. The Reliquary's headquarters is just ahead. Do you see that white pickaxe emblem, Jace? Remember it in case you ever come here on your own. I'll go in first — you two wait here a moment."
+She looked south and said, "That's Falconwing Square. The Reliquary's headquarters is just ahead. Do you see that white pickaxe emblem, Jace? Remember it in case you ever come here on your own. I'll go in first — you two wait here a moment."
 
 "All right." Jace nodded, looking at the white banner hanging beside a towering building. In his memory, the Reliquary's headquarters had been on the east side of the city… but that didn't matter in the least either.
 
-What he cared about more was Eaglewing Plaza. In the game, this was the first settlement that new blood elf characters reached after leaving the Sunstrider Isle starting area upon reaching level five. Jace had always assumed it was just a small town — he hadn't expected it to have been part of Silvermoon all along.
+What he cared about more was Falconwing Square. In the game, this was the first settlement that new blood elf characters reached after leaving the Sunstrider Isle starting area upon reaching level five. Jace had always assumed it was just a small town — he hadn't expected it to have been part of Silvermoon all along.
 
 But in the game, that whole stretch of walls had been destroyed. The ruined districts had been occupied by all manner of magical creatures, rogue constructs, and mana wretches whose minds had been devoured by fel energy — a place more dangerous than the wilds of Elwynn Forest, offering none of the sense of safety one expected inside a capital. Naturally it gave the impression of a roadside hamlet.
 
@@ -30,7 +30,7 @@ But in the game, that whole stretch of walls had been destroyed. The ruined dist
 
 "Master and student," Jace said. "Lordaeron once wanted to establish a ranger corps of its own, so Nathanos was sent to Quel'Thalas for training. His teacher was Sylvanas."
 
-Grede cleared his throat, watched an arcane golem stagger past, and then said, "A lot of elves at the banquet said there was something more going on between them. Look — Vereesa's with you now, and Captain Alleria Windrunner married Turalyon. Then the second of the three sisters… Sylvanas promoted a human to Ranger-Lord despite the pressure from the royal house and all those nobles. There must be a reason, right."
+Grede cleared his throat, watched an arcane golem stagger past, and then said, "A lot of elves at the banquet said there was something more going on between them. Look — Vereesa's with you now, and Captain Alleria Windrunner married Turalyon. Then the second of the three sisters… Sylvanas promoted a human to Ranger Lord despite the pressure from the royal house and all those nobles. There must be a reason, right."
 
 "You really do love sticking your nose into other people's business," Jace muttered.
 
@@ -40,7 +40,7 @@ Grede laughed. "What else do you talk about at a drinking table? Either I go on 
 
 "Of course. But does Andorhal have a gryphon roost?" Grede asked.
 
-Jace said, "It should — that town's no small place. If not, you can fly to the nearest roost first and settle Goret there, then I'll meet you. Say, wait for me in Stratholme."
+Jace said, "It should — that town's no small place. If not, you can fly to the nearest roost first and settle Gorjet there, then I'll meet you. Say, wait for me in Stratholme."
 
 "What are you going to do?" Grede asked.
 
@@ -66,7 +66,9 @@ Vereesa said, "Dar'Khan did consult the scroll we brought back from Eldre'Thalas
 
 "Don't let him know we looked into this…" Jace said. "It seems the traces Amy helped us find in the Dalaran library really may have been left by Dar'Khan. Otherwise, what other Quel'dorei would have any reason to look up such an obscure demon language?"
 
-"What were you two up to in Dalaran? I feel like I missed an awful lot again," Grede asked. "I'll explain later," Jace said.
+"What were you two up to in Dalaran? I feel like I missed an awful lot again," Grede asked.
+
+"I'll explain later," Jace said.
 
 Vereesa asked, "Do you think Dar'Khan will try to summon an Ered'ruin demon?"
 

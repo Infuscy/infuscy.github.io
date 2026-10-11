@@ -10,13 +10,13 @@ Vereesa had no intention of giving him the chance to show off on open ground. A 
 
 Durn spun around and hurled the stalagmite in his hand back toward the cliff where Vereesa stood. The ranger, as if she'd already anticipated his action, had leaped far away almost the instant the stone spear left his hand, vanishing into the treetops. The stone blast pounded that entire cliff face into rubble. Dust billowed.
 
-Having dealt with the ranger, the gronn eagerly raised that single eye again, locking onto the green dragon circling high above. "Dragon hunt!"
+Having dealt with the ranger, the gronn eagerly raised that single eye again, locking onto the green dragon circling high above.
 
-Durn roared as he stepped onto the cliff and strode toward the distant slope in her direction. With every step he took, more stalagmites sprouted up around the giant's feet — some fast, some slow — as though the land of Nagrand was answering the gronn's call without restraint, supplying him with weapons to hurl.
+"Dragon hunt!" Durn roared as he stepped onto the cliff and strode toward the distant slope in her direction. With every step he took, more stalagmites sprouted up around the giant's feet — some fast, some slow — as though the land of Nagrand was answering the gronn's call without restraint, supplying him with weapons to hurl.
 
 Just as Durn reached out his thick arm once more to grope for a stalagmite of the right length, Jace finally closed to a suitable distance. Speaking the Eredun incantation through a Curse of Tongues, he channeled a Curse of Exhaustion. The gronn's wrist was immediately wrapped in sinister green fel energy. He strained hard to lift his arms and throw off the magic's grip, but couldn't break free even once. He only broke into a violent coughing fit, strings of viscous spittle dripping from his mouth.
 
-Jace steadied himself on the shuddering ground, raised Ursula, focused his will, and — drawing on the dark power surging upward from the Shadowflame still burning in the gorge behind him — swiftly gathered a Shadow Bolt aimed at a weak point in the giant's thick hide. The dark energy wailed by his ear, as though it had already merged with Jace's killing intent.
+Jace steadied himself on the shuddering ground, raised Ulthalesh, focused his will, and — drawing on the dark power surging upward from the Shadowflame still burning in the gorge behind him — swiftly gathered a Shadow Bolt aimed at a weak point in the giant's thick hide. The dark energy wailed by his ear, as though it had already merged with Jace's killing intent.
 
 The Shadow Bolt streaked away on a black-violet trail, carrying a sobbing, scraping whisper of arcane force, and struck the gronn squarely under the arm. Chunks of stone-like skin burst outward along with black, viscous, tar-like blood.
 
@@ -32,7 +32,7 @@ The deep, dull regret radiating from this giant was as clear to the warlock as w
 
 But at the same time, an uncontrollable hatred burned up from the depths of his heart. He was going to make a final stand.
 
-Jace didn't think his dark shield could stop a stalagmite the size of a stout oak, let alone one conjured with the power of earth elementals — this was no ordinary lump of soil and rock. Just as he was looking for somewhere to take cover, the giant suddenly froze. The hand clutching the boulder had become stuck fast, as though glued in place.
+Jace didn't think his Shadow Shield could stop a stalagmite the size of a stout oak, let alone one conjured with the power of the earth elements — this was no ordinary lump of soil and rock. Just as he was looking for somewhere to take cover, the giant suddenly froze. The hand clutching the boulder had become stuck fast, as though glued in place.
 
 Looking closely, layer after layer of plant roots had burrowed up from the ground and wound tight around both the stone spike and the gronn's arm. The roots creaked and groaned as they tightened, and though an occasional one snapped with a twang, it was already more than enough to give the gronn lord serious trouble.
 
@@ -54,7 +54,9 @@ Morophil stepped forward to place herself in front of Jace. But in the end the g
 
 A glowing arrow buried itself in his pupil, cutting off his feeble murmur. Savage nature magic instantly churned the gronn's eyeball into a black, formless mess. The giant only managed a few low, gagging sounds before his upper and lower jaws slammed together with a boom, his mouth clamped shut tight.
 
-"Are you all right, Jace?" Vereesa walked over with light steps, brushing the dust from her clothes as she came. "I'm fine. He didn't touch me," Jace said.
+"Are you all right, Jace?" Vereesa walked over with light steps, brushing the dust from her clothes as she came.
+
+"I'm fine. He didn't touch me," Jace said.
 
 "Your summoned flames…" She raised a long eyebrow. "I really thought we'd actually drawn in a black dragon. Terrified me."
 
@@ -70,23 +72,23 @@ Finally he returned to his own original form. He walked around the gronn's enorm
 
 "Flattened is a stretch." Grede glanced sideways at the warlock, who was flicking the last of the shadow residue from his hands, then said, "But this ogre chieftain really… was tougher than I'd imagined."
 
-The green dragon landed not far away. In a haze of pink-tinged mist she shifted back into humanoid form and came to Jace's side. Though her magical image was clean and tidy, without so much of a bead of sweat, the panic in her eyes and the slight trembling of her hands couldn't be concealed — the aftershock was intense.
+The green dragon landed not far away. In a haze of pink-tinged mist she shifted back into humanoid form and came to Jace's side. Though her magical image was clean and tidy, without so much as a bead of sweat, the panic in her eyes and the slight trembling of her hands couldn't be concealed — the aftershock was intense.
 
 "That was close…"
 
 She managed a faint smile and looked at Vereesa. "Thank you, Vereesa. I very nearly got skewered by that stone spear."
 
-"Don't mention it, Sona. It was your idea that saved us," Vereesa said.
+"Don't mention it, Sola. It was your idea that saved us," Vereesa said.
 
 Jace nodded. "If this creature hadn't had such a thing about dragons, we'd never have lured him out of that cave."
 
-"Your magic helped too, Jace." Sona said, brow lowered. "That gronn was no simple fool. I believe now that he really could hunt those weaker black dragons."
+"Your magic helped too, Jace." Sola said, brow lowered. "That gronn was no simple fool. I believe now that he really could hunt those weaker black dragons."
 
 "I'd say it's not just black dragons he can hunt." Grede patted the corner of the gronn's mouth and said in a low voice. "Good thing we didn't charge in there to fight him. Think about what would've happened going toe-to-toe with him in that cramped cave — I might not necessarily have bought it, but you few with your slender arms and legs…"
 
 This time Vereesa raised no objection. After all, Durn had smashed through those cliff faces and trees as effortlessly as toppling toys and building blocks. It was hard to say what getting hit by those fists and boulders would feel like.
 
-By now, Jorin Death-eye and the Bleeding Hollow hunter had caught up. It was clear they'd had a rough time in the collapsed ravine — covered head to toe in dust and muck.
+By now, Jorin Deadeye and the Bleeding Hollow hunter had caught up. It was clear they'd had a rough time in the collapsed ravine — covered head to toe in dust and muck.
 
 "You really killed a son of Gruul…" Jorin's single eye went wide as he stared at the dead gronn before him.
 

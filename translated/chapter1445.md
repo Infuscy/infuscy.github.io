@@ -24,9 +24,9 @@ Either way, the brightness and liveliness in the distance only made their own su
 
 "They're also guests of Karazhan, Jace. Just like us." Khadgar turned back. "As long as we follow the rules and know our place, we'll leave each other alone."
 
-"Of course, the arcane golems are another story. So Lady Morofil, make sure you stay hidden."
+"Of course, the arcane golems are another story. So Lady Morophil, make sure you stay hidden."
 
-"Master already instructed me before we came, Archmage." Morofil said.
+"Master already instructed me before we came, Archmage." Morophil said.
 
 "Good." Khadgar swallowed, muttered "good" again under his breath, and headed down that corridor.
 
@@ -54,7 +54,7 @@ He suddenly remembered sitting in Darkshire next to Morgan Ladimore, agonizing o
 
 "Probably. But I don't remember them well." Jace said. "I don't like to admit it, but I know I make decisions impulsively. I don't think much about the consequences."
 
-Morofil gave a meaningful smile. Khadgar glanced at the succubus, then took a deep breath. "That's something we have in common. Maybe this Karazhan expedition is the product of that very trait."
+Morophil gave a meaningful smile. Khadgar glanced at the succubus, then took a deep breath. "That's something we have in common. Maybe this Karazhan expedition is the product of that very trait."
 
 With that, the archmage climbed the stairs and pushed open an iron door. The sight before him made him stop short, eyes wide.
 
@@ -74,7 +74,7 @@ That meant entering Karazhan was essentially entering another space. Jace was so
 
 "I..." Jace cleared his throat but didn't elaborate further.
 
-"Can you fly up there?" he asked, looking at Morofil.
+"Can you fly up there?" he asked, looking at Morophil.
 
 "I can try, Master." The succubus said.
 
@@ -94,7 +94,7 @@ Khadgar pointed upward. "It can hardly get more chaotic up there. Don't worry, I
 
 The archmage carefully climbed onto a broken wall nearby, without using any arcane magic, to get higher. Then he raised his arms high.
 
-He began to chant — it sounded like draconic, or some mix of elvish and Common. Jace listened for a moment before giving up trying to understand it.
+He began to chant — it sounded like Draconic, or some mix of Elvish and Common. Jace listened for a moment before giving up trying to understand it.
 
 Khadgar's chanting was like a sermon or a song. His voice grew rougher, deeper, mingling with the wind, thunder, and rain.
 
@@ -108,7 +108,7 @@ But that hint of pride was quickly overshadowed by a thick, dark emotion. Not fr
 
 Khadgar clearly sensed something was wrong too. But the staircase wasn't complete yet. He couldn't stop casting.
 
-Soon, sharp, piercing screams came from high on the walls. Jace had never heard anything so harsh and strange — not on Draenor, not on Azeroth. It made his roots and his mind go weak all at once.
+Soon, sharp, piercing screams came from high on the walls. Jace had never heard anything so harsh and strange — not on Draenor, not on Azeroth. It set his teeth on edge and turned his mind to water.
 
 Jace looked up at the source of the sound. A crimson thing was clinging to the wall, mouth full of spike-like teeth, its body a mass that seemed both flesh and tumor. As it crawled downward, its outstretched arms looked like tentacles or an infant's fingers.
 
@@ -116,35 +116,35 @@ The dark, chaotic shadow energy inside it made Jace feel his heart grow cold jus
 
 And there wasn't just one of these strange things on the wall. More and more monsters appeared on the outer walls — even on the staircase Khadgar was assembling. They twitched and convulsed as they swarmed toward them, shrieking even more piercingly.
 
-Flesh.
+Fleshbeasts.
 
 "Don't worry, Khadgar. Keep going with your ritual." Jace said, raising his hands.
 
 Khadgar didn't respond, continuing his chant. But the disturbed emotions had already settled back down.
 
-"Ucronie, Molgak, Tam!"
+"Yukroni, Morgak, Tam!"
 
-Jace shouted the incantation to unravel darkness, drawing on shadow energy to tear apart the nearest screeching, crawling flesh-beast. These parasitic monsters that walked out of the void and nightmares were themselves nothing but clotted shadow-flesh. Against the warlock's shadow-unraveling, they could barely resist. Soon, with one final piercing howl, they burst into foul-smelling pus and blood, scattering into the wind and rain.
+Jace shouted the incantation to unravel darkness, drawing on shadow energy to tear apart the nearest screeching, crawling fleshbeast. These parasitic monsters that walked out of the void and nightmares were themselves nothing but clotted shadow-flesh. Against the warlock's shadow-unraveling, they could barely resist. Soon, with one final piercing howl, they burst into foul-smelling pus and blood, scattering into the wind and rain.
 
-The void energy of the unraveled flesh-beast was extracted by Jace and converted back into mana, then used for the next spell. One after another, the flesh-beasts that crawled over were torn apart mid-air by Jace. But the screaming grew louder, and more and more flesh-beasts swarmed from the walls. Even behind them, through the doorway, massive ones were charging in!
+The void energy of the unraveled fleshbeast was extracted by Jace and converted back into mana, then used for the next spell. One after another, the fleshbeasts that crawled over were torn apart mid-air by Jace. But the screaming grew louder, and more and more fleshbeasts swarmed from the walls. Even behind them, through the doorway, massive ones were charging in!
 
-These monsters writhed their tentacles and slimy arms, crawling forward in a frenzy, biting and tearing as they tried to stop Jace's spellcasting and Khadgar's ritual. But Morofil stood guard as the last line of defense. No matter how many flesh-beasts approached, they were cut down with ease — the flames of the Red Dragon's fire burning the apocalypse into them, making them curl up and shriek as they burned, falling into the abyss.
+These monsters writhed their tentacles and slimy arms, crawling forward in a frenzy, biting and tearing as they tried to stop Jace's spellcasting and Khadgar's ritual. But Morophil stood guard as the last line of defense. No matter how many fleshbeasts approached, they were cut down with ease — the Apocalypse blades, wreathed in red dragonfire, left them curling up and shrieking as they burned and fell into the abyss.
 
 "Go!" Khadgar shouted.
 
 Jace looked up. The staircase had taken shape in the white mist.
 
-The archmage jumped onto the steps first. Morofil grabbed Jace and pulled him out of the flesh-beasts' encirclement, onto the stairs. The three stopped fighting the endless horde and ran upward with all their strength.
+The archmage jumped onto the steps first. Morophil grabbed Jace and pulled him out of the fleshbeasts' encirclement, onto the stairs. The three stopped fighting the endless horde and ran upward with all their strength.
 
-The flesh-beasts' screeching still echoed in their ears, but the mist grew thicker, obscuring their view of the surroundings.
+The fleshbeasts' screeching still echoed in their ears, but the mist grew thicker, obscuring their view of the surroundings.
 
-The staircase was much longer than expected. At first, the three just climbed as high as they could to escape the flesh-beasts. But gradually, even Khadgar started to feel something was wrong.
+The staircase was much longer than expected. At first, the three just climbed as high as they could to escape the fleshbeasts. But gradually, even Khadgar started to feel something was wrong.
 
 "Was it really this high when we looked up?" Jace asked.
 
-Khadgar didn't answer. They were like they were on an endless stairway in the sky, surrounded by gray nothingness, unable to see Karazhan's walls behind them or the end above them.
+Khadgar didn't answer. It was as if they were on an endless stairway in the sky, surrounded by gray nothingness, unable to see Karazhan's walls behind them or the end above them.
 
-Not long after, even the flesh-beasts' sounds faded. The monsters' assault receded like a tide, leaving an eerie silence.
+Not long after, even the fleshbeasts' sounds faded. The monsters' assault receded like a tide, leaving an eerie silence.
 
 The three had to stop and assess. Jace even tried to call on fire with elemental speech, but the elements gave no response at all.
 
@@ -152,7 +152,7 @@ Just as he was thinking Karazhan's twisted space had completely cut them off fro
 
 Wait. That couldn't be...
 
-The fire grew brighter rapidly. A hot wind pushed through the mist. Khadgar and Morofil both noticed the approaching anomaly.
+The fire grew brighter rapidly. A hot wind pushed through the mist. Khadgar and Morophil both noticed the approaching anomaly.
 
 But before anyone could ask "what is that," a sudden roar exploded through the entire space!
 

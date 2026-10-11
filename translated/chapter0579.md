@@ -26,11 +26,11 @@ Jace asked, "That competition you mentioned yesterday — when do the ogres hold
 
 "There are ones going on all the time, but they're one-on-one, or beast hunts." The half-orc spat in disgust and went on. "If you want to see the big events, you'll have to wait about a dozen days or so, roughly. I don't keep track of the exact timing."
 
-Jace nodded. Wenresa asked, "What were you talking about?"
+Jace nodded. Vereesa asked, "What were you talking about?"
 
 "The ogres inside Eldre'Thalas hold fighting tournaments," Jace explained to her. "I wanted to learn more about it."
 
-"Ogre fighting tournaments? Are they anything like the Gurubashi trolls' arena? You're not thinking of entering to earn money, are you?" Wenresa looked at him in complete disbelief. "I am absolutely not helping you fight and kill people in an arena, Jace."
+"Ogre fighting tournaments? Are they anything like the Gurubashi trolls' arena? You're not thinking of entering to earn money, are you?" Vereesa looked at him in complete disbelief. "I am absolutely not helping you fight and kill people in an arena, Jace."
 
 "Neither am I," the tauren said unhappily.
 
@@ -38,7 +38,7 @@ Jace nodded. Wenresa asked, "What were you talking about?"
 
 "Wh... what? Who's calling me?" Grede, who was beside them, opened his eyes and looked over in a daze. "Is something attacking again?"
 
-Wenresa looked at the dwarf's side, then back. Her expression visibly relaxed.
+Vereesa looked at the dwarf's side, then back. Her expression visibly relaxed.
 
 "Then why are you so interested in this tournament?" she asked.
 
@@ -48,25 +48,25 @@ Grede said in a low voice, "We're carrying bags and bundles, and weapons to boot
 
 "Then we'd have to disguise ourselves as the ones going in to fight," Jace said.
 
-Wenresa sighed. Just then the night elf sentinel captain walked over. Grede had been about to say something else, but seeing her approach step by step, he pressed his lips together again.
+Vereesa sighed. Just then the night elf sentinel captain walked over. Grede had been about to say something else, but seeing her approach step by step, he pressed his lips together again.
 
-The captain said something to the sentinels beside her. The signaled to the half-orc to stand up. Misha lifted her head lazily. Rexxar got to his feet, looked at them, and said, "Until we meet again, little ones."
+The captain said something to the sentinels beside her. They signaled to the half-orc to stand up. Misha lifted her head lazily. Rexxar got to his feet, looked at them, and said, "Until we meet again, little ones."
 
 After saying that, Rexxar snorted a laugh and followed the sentinels down another path. Grede watched the half-orc's massive back and asked, "Why did he get to leave on his own? Doesn't he have to go to your stronghold too?"
 
 "He's just a wanderer who likes to cross borders. Give him some food and chase him out, and that's that," the captain said. "But you are outsiders tainted with dark magic. Releasing you requires the general's approval."
 
-"Hmm... damn it," Grede said, knocking the back of his head against the tree behind him. "We killed a satyr called Vilethorn. The head's right there in our luggage — you'll definitely find it. I don't know if you know him or not, but those Ce—"
+"Hmm... damn it," Grede said, knocking the back of his head against the tree behind him. "We killed a satyr called Vyletongue. The head's right there in our luggage — you'll definitely find it. I don't know if you know him or not, but those Ce—"
 
 "Cenarius," Jace prompted.
 
 "Right," Grede went on. "Cenarius's children all know he existed, and they thanked us for getting rid of such a menace. Isn't that enough to prove we're on the same side as you?"
 
-"Stop wasting your breath with them, Grede," Wenresa said. "These stubborn soldiers don't recognize anything except their general and their priestesses."
+"Stop wasting your breath on them, Grede," Vereesa said. "These stubborn soldiers don't recognize anything except their general and their priestesses."
 
-The sentinel captain looked at Wenresa. "Believe me, Quel'dorei, we've seen people who claimed they would use demonic power to defeat demons for more years than you know. The trouble he caused was big enough."
+The sentinel captain looked at Vereesa. "Believe me, Quel'dorei, we've seen people who claimed they would use demonic power to defeat demons for more years than you know. The trouble he caused was big enough."
 
-After hearing that, Wenresa was suddenly at a loss for words.
+After hearing that, Vereesa was suddenly at a loss for words.
 
 She glanced at Jace with a complicated look. Jace said nothing. He knew there was nothing he could say in his own defense.
 
@@ -74,11 +74,11 @@ She glanced at Jace with a complicated look. Jace said nothing. He knew there wa
 
 Unable to contain his curiosity, Grede asked, "Who was she talking about? The one who used demonic power to defeat demons..."
 
-"Illidan Stormrage," Wenresa said in a low voice. "Legend has it he used demonic power alongside his brother to destroy the Legion's portal invading Azeroth, and in doing so also destroyed the Well of Eternity, triggering the catastrophe that split ancient Kalimdor apart."
+"Illidan Stormrage," Vereesa said in a low voice. "Legend has it he used demonic power alongside his brother to destroy the Legion's portal invading Azeroth, and in doing so also destroyed the Well of Eternity, triggering the catastrophe that split ancient Kalimdor apart."
 
 "Is that true?" Grede asked. "I mean, was the Sundering really caused by the magic of a few people?"
 
-Wenresa shrugged. "I can't tell you that either. You'd be better off asking the Kaldorei here — some of them might have lived through it ten thousand years ago and witnessed it with their own eyes."
+Vereesa shrugged. "I can't tell you that either. You'd be better off asking the Kaldorei here — some of them might have lived through it ten thousand years ago and witnessed it with their own eyes."
 
 The ranger finished speaking and stood up, falling in with the sentinels' pace.
 

@@ -6,7 +6,7 @@ The main street through town was empty in the downpour, but the Lion's Pride Inn
 
 They tied their horses across the street and jogged into the inn. The main hall was fairly quiet. Jace thought it might be empty, but when they stepped inside, there were barely any empty tables. Most people were drinking and eating quietly. A few glanced toward the door but didn't seem particularly interested in the cloaked pair.
 
-After getting used to the Black Forge, even the once-cozy Lion's Pride Inn felt somewhat deserted now. Honestly, ever since coming back from the Molten Core, everything felt cold. The weather was cold. The inn was cold. Even the people felt colder. Jace was having trouble adjusting.
+After getting used to the Grim Guzzler, even the once-cozy Lion's Pride Inn felt somewhat deserted now. Honestly, ever since coming back from the Molten Core, everything felt cold. The weather was cold. The inn was cold. Even the people felt colder. Jace was having trouble adjusting.
 
 He led Ursula to a windowless corner. A barmaid came over quickly. "Good evening, you two. Anything to eat or drink?"
 
@@ -20,7 +20,7 @@ He led Ursula to a windowless corner. A barmaid came over quickly. "Good evening
 
 "Prince's Favorite?" Jace looked up. "The Prince of Stromgarde, or the Prince of Lordaeron?"
 
-"The golden prince of Lordaeren, of course." The barmaid smiled, as if comparing the two was ridiculous. "And the pastry itself is as golden as his hair, as elegantly curled. Honestly, it's not just Goldshire — every big town in the Alliance, from Stratholme to Darrowshire, including Stormwind itself, is serving it."
+"The golden prince of Lordaeron, of course." The barmaid smiled, as if comparing the two was ridiculous. "And the pastry itself is as golden as his hair, as elegantly curled. Honestly, it's not just Goldshire — every big town in the Alliance, from Stratholme to Darrowshire, including Stormwind itself, is serving it."
 
 "What's in it exactly?" Jace asked.
 
@@ -38,7 +38,7 @@ The barmaid gestured. "Minced chicken and mushrooms cooked into a sauce, layered
 
 "Word is it's from mosquito bites in the Wetlands." Jace said. "Kirin Tor mages told me Lordaeron might be using this as an excuse to dodge responsibility for attacking Blackrock Spire. I think that guess has some merit."
 
-Ursula nodded. "He's milked enough sympathy from this. Sending the Hearthglen lord makes it so Varian can't argue. Maybe once Blackrock Spire falls, this guy will jump right out of bed and deliver a victory speech on behalf of the whole Lordaeron Alliance. Or have his good son do it. 'Golden Prince.' Such a Lordaeronian of Lordaeronians. What a pain."
+Ursula nodded. "He's milked enough sympathy from this. Sending the Hearthglen lord makes it so Varian can't argue. Maybe once Blackrock Spire falls, this guy will jump right out of bed and deliver a victory speech on behalf of the whole Alliance of Lordaeron. Or have his good son do it. 'Golden Prince.' Such a Lordaeronian of Lordaeronians. What a pain."
 
 She caught herself and looked up. "Sorry, Jace. I didn't mean to badmouth Lordaeron."
 
@@ -48,7 +48,7 @@ She caught herself and looked up. "Sorry, Jace. I didn't mean to badmouth Lordae
 
 "Speaking of which, it's not easy to get a meal and a drink with you," Jace said.
 
-"That should be my line." Ursula said. "At least Sulenna, Erland, Galain and I still come here occasionally. Though the last time was about a year and a half ago."
+"That should be my line." Ursula said. "At least Surena, Erlan, Jalane and I still come here occasionally. Though the last time was about a year and a half ago."
 
 The barmaid set down two glasses of eggnog. The alchemist took a big gulp and was silent for a while. The rain outside grew louder.
 
@@ -60,7 +60,7 @@ Ursula didn't respond. She just lowered her head and took another sip.
 
 Jace didn't try to sense what she was thinking. He just let his mind go blank and savored the sweet, creamy taste on his tongue. "Let's rest for a couple of days. No rush on the Destruction Potion. I don't think that shadow energy's effect on you can be shaken off that easily."
 
-"Simple," Ursula said flatly. "Mountainsnout plus a little Grave Moss, mixed with a shadow oil tuned to the spell's required emotion. I'll be as good as new by tomorrow, Jace Sesso. I'm not like you, toughing everything out on raw meat and bone. I have a full alchemy lab."
+"Simple," Ursula said flatly. "Mountain Silversage plus a little Grave Moss, mixed with a shadow oil tuned to the spell's required emotion. I'll be as good as new by tomorrow, Jace Sesso. I'm not like you, toughing everything out on raw meat and bone. I have a full alchemy lab."
 
 "Then I won't tell you how to do your job," Jace said.
 
@@ -90,7 +90,7 @@ As they ate and talked, Jace looked up. Ursula was already wiping her eyes.
 
 "Just... it's rare to meet a friend like you. Half-elves aren't easy to like, no matter how diluted their blood. Why are you friends with me? Because my potions are the cheapest?"
 
-"Your potions are absolutely not the cheapest, Ursula Delin."
+"Your potions are absolutely not the cheapest, Ursula Deline."
 
 "Fine. You caught me."
 
@@ -102,9 +102,9 @@ As they ate and talked, Jace looked up. Ursula was already wiping her eyes.
 
 They downed their eggnog in one gulp and set the empty glasses on the table. Ursula took a long, deep breath, then said quietly, "So, how are you planning to figure out controlling those demons?"
 
-"I'm going to ask Karrels," Jace said. "He should know something about it. I'll head back to the Tower of Ilgalar tomorrow. With Midnight, it won't take long."
+"I'm going to ask Kallrez," Jace said. "He should know something about it. I'll head back to the Tower of Ilgalar tomorrow. With Midnight, it won't take long."
 
-"I'll keep trying to feed the cauldron shadowfire. After tonight, it should go more smoothly," Ursula said.
+"I'll keep trying to feed the cauldron Shadowflame. After tonight, it should go more smoothly," Ursula said.
 
 "It will." Jace licked his fingers and stood up. The barmaid rushed over. "That'll be seven silver coins, you two."
 

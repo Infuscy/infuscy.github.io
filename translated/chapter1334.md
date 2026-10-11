@@ -2,11 +2,11 @@
 
 Once the Scepter of Sargeras was destroyed, the demons would no longer be able to use its power to pour endlessly into Draenor.
 
-With no more demons entering, the portal at Twilight Ridge already gone, Highmaul already exploded, and the Tome of Infamy in Alliance hands, the demon lords still remaining in Draenor would be useless to Kil'jaeden. His plan to use Draenor as a springboard into Azeroth would be effectively bankrupt.
+With no more demons entering, the portal at Twilight Ridge already gone, Highmaul already exploded, and the Book of Fel Names in Alliance hands, the demon lords still remaining in Draenor would be useless to Kil'jaeden. His plan to use Draenor as a springboard into Azeroth would be effectively bankrupt.
 
-Kargath Bladefist had clearly already fallen out with the Burning Legion over the loss of the Tome of Infamy. Once the Scepter of Sargeras was destroyed and the demons' access to Draenor was disrupted, once the Expedition — the common enemy of both demons and Horde — had left, the fel orc Horde would most likely grow rebellious too.
+Kargath Bladefist had clearly already fallen out with the Burning Legion over the loss of the Book of Fel Names. Once the Scepter of Sargeras was destroyed and the demons' access to Draenor was disrupted, once the Expedition — the common enemy of both demons and Horde — had left, the fel orc Horde would most likely grow rebellious too.
 
-Even if they still feared the residual authority of the Burning Legion's demons in Draenor, Dragonmaw High Warlock Nehogal would find ways to manipulate them further. After all, this was already the last remaining "Horde faction" of the Dragonmaw clan.
+Even if they still feared the residual authority of the Burning Legion's demons in Draenor, Dragonmaw High Warlock Naihogar would find ways to manipulate them further. After all, this was already the last remaining "Horde faction" of the Dragonmaw clan.
 
 Once Zuluhed was dead and word of Dragonmaw Fortress's fall reached Hellfire Citadel, Sabellian could legitimately enter Hellfire Citadel and begin implementing his plan...
 
@@ -14,13 +14,13 @@ Jace didn't even need to spell this out for him. Ten thousand years of shadow co
 
 When Sabellian looked toward Hellfire Peninsula, Jace knew this black dragon had already schemed it all out, just like his brother back in Blackrock Spire.
 
-"By the way, when we meet those ethereals, you should tell them straight out that you were disguised as Negal," Sabellian said.
+"By the way, when we meet those ethereals, you should tell them straight out that you were disguised as Naigag," Sabellian said.
 
 "Why?" Jace said. "Not worried those smugglers and profiteers will sell us out to Kargath Bladefist?"
 
 "You've already performed the role of a loyal demon dog in front of Kargath. He must have quite an opinion of you by now." Sabellian said. "Once the ethereals expose your disguise, I'll go to Hellfire Citadel and pledge my loyalty to Warchief Kargath — expressing how I was almost fooled by you, but still reaffirmed my true devotion to the Horde and the warchief. Wouldn't that make it even easier to win his trust? Think about it. A disguised fel orc desperately trying to make the Burning Legion and the Horde see eye to eye. What motive could that serve? Even a brute like Kargath would start suspecting the demons..."
 
-Jace said, "If that fel orc was a demon in disguise, it would indeed drive a wedge between Kargath and the Legion. But if he found out I was disguised by the Expedition, the effect probably wouldn't be as good. And now, Negal has disappeared. Nehogal can spin it however he wants. He could even say Negal went to Karabor to join Magtheridon, completely abandoning Kargath and his Hellfire Citadel, while you chose to stand firmly with the Horde."
+Jace said, "If that fel orc was a demon in disguise, it would indeed drive a wedge between Kargath and the Legion. But if he found out I was disguised by the Expedition, the effect probably wouldn't be as good. And now, Naigag has disappeared. Naihogar can spin it however he wants. He could even say Naigag went to Karabor to join Magtheridon, completely abandoning Kargath and his Hellfire Citadel, while you chose to stand firmly with the Horde."
 
 "Fair point." Sabellian tapped his lips with a finger.
 
@@ -44,7 +44,7 @@ Relying purely on language was too difficult. Even if he couldn't transmit physi
 
 "You're continuing to build the teleportation device?" Sabellian asked. "The twenty-year plan?"
 
-"Using the Telogrus Rift as a relay... is a rather good idea, even I have to admit that," Jabal said. "But Node Prince Haramad hasn't abandoned our original plan either. After all, we haven't verified the reliability of your communications firsthand. We have no idea what kind of support you really have on Azeroth, and we can't be certain what the portal situation will be once it's connected. We need to prepare a fallback for ourselves. Besides, the Burning Legion's main target isn't us. We only need to deal with the local hostility in Farahlon."
+"Using the Telogrus Rift as a relay... is a rather good idea, even I have to admit that," Jabal said. "But Nexus-Prince Haramad hasn't abandoned our original plan either. After all, we haven't verified the reliability of your communications firsthand. We have no idea what kind of support you really have on Azeroth, and we can't be certain what the portal situation will be once it's connected. We need to prepare a fallback for ourselves. Besides, the Burning Legion's main target isn't us. We only need to deal with the local hostility in Farahlon."
 
 "That's understandable," Sabellian said.
 
@@ -54,7 +54,7 @@ Relying purely on language was too difficult. Even if he couldn't transmit physi
 
 "When your technicians arrive at our stronghold, can they first help us establish contact with Kirin'Var Village?" Jace asked.
 
-"Feasible," Jabal said. "The Node Prince has already committed to covering the expenses for this, so it shouldn't be a problem."
+"Feasible," Jabal said. "The Nexus-Prince has already committed to covering the expenses for this, so it shouldn't be a problem."
 
 "For a smuggler and pirate chief, Haramad is surprisingly generous," Sabellian said with a smile. "It seems even for you beings without flesh, your lives are of paramount importance."
 
@@ -64,7 +64,7 @@ Jabal was silent in a very pointed way. It was clear Haramad had ordered everyon
 
 "Please," the ethereal said politely.
 
-"Have you encountered any Farstriders in Blade's Edge Mountains?" Jace asked.
+"Have you encountered any Farstriders in the Blade's Edge Mountains?" Jace asked.
 
 "No. At least not recently," Jabal replied.
 
@@ -88,7 +88,7 @@ Jace asked, "Once you become the Dragon of Draenor you want to be, what will you
 
 "Why do you care about those fellows?" the black dragon asked.
 
-"During the seizure of the Tome of Infamy, the Mag'har orcs gave us enormous help. We wouldn't be where we are today without them," Jace said. "They fought the gronn and ogres. They fought the Burning Legion's demons. I don't want to see you turn on them later if the black dragons stay."
+"During the seizure of the Book of Fel Names, the Mag'har orcs gave us enormous help. We wouldn't be where we are today without them," Jace said. "They fought the gronn and ogres. They fought the Burning Legion's demons. I don't want to see you turn on them later if the black dragons stay."
 
 "Then they'll have to learn to compete with dragons for prey," Sabellian said.
 

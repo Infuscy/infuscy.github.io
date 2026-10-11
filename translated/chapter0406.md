@@ -8,7 +8,7 @@ At least he still had the strength to carry the wounded and haul supplies the pr
 
 To make himself useful, he'd taken off his robe and was just wearing a white vest nobody else had claimed, moving things alongside a bunch of soldiers with Arathi accents.
 
-While he worked, his mind kept drifting to what the elven ranger had told him. Jace couldn't help wondering how the blue dragon Mazegosa's sword had ended up at the bottom of Blackrock Mountain…
+While he worked, his mind kept drifting to what the elven ranger had told him. Jace couldn't help wondering how the blue dragon Madrigosa's sword had ended up at the bottom of Blackrock Mountain…
 
 In the game, Azuresong was loot from the Molten Core raid dungeon beneath Blackrock Mountain. Such a beautiful magic sword seemed completely out of place among a loot table full of items tied to fire and lava.
 
@@ -16,7 +16,7 @@ Perhaps when Quel'Thalas was invaded by the Scourge, Windrunner Village was utte
 
 Or maybe the loot table was just a game mechanic, and the equipment in it was actually "rewards for killing this target"? Either way, the sword was in his hands now, so there was no way to find out what had happened to it in another timeline.
 
-Not long after, Barry Fred — the full mage Master Marin had left here to coordinate the mages' work — came over calling, "Jace Sesso… Is Jace Sesso here?"
+Not long after, Barry Fred — the full mage Master Malin had left here to coordinate the mages' work — came over calling, "Jace Sesso… Is Jace Sesso here?"
 
 "Here!"
 
@@ -24,11 +24,11 @@ Jace raised his hand in response and quickly threw his robe back on. Fred glance
 
 "Is there work, Mr. Fred?" Jace said, running a hand through his sweat-damp hair.
 
-"Not about work," Fred said. "Captain Quenton told me about you. He said you performed quite bravely. I'll report your aid to the Order of the Silver Hand to Archmaster Andormas and Master Marin truthfully — it'll certainly help your advancement to full mage!"
+"Not about work," Fred said. "Captain Quenton told me about you. He said you performed quite bravely. I'll report your aid to the Order of the Silver Hand to High Sorcerer Andromath and Master Malin truthfully — it'll certainly help your advancement to full mage!"
 
 "Thank you very much, Mr. Fred," Jace said.
 
-"There's one more thing," Fred said. "The other mages have all seen their quarters. Let me show you yours too. Of course it can't compare to the apartments at the Wizard Sanctum, but here in the Black Swamp, having anywhere to sleep at all isn't bad, right?"
+"There's one more thing," Fred said. "The other mages have all seen their quarters. Let me show you yours too. Of course it can't compare to the apartments at the Wizard's Sanctum, but here in the Black Morass, having anywhere to sleep at all isn't bad, right?"
 
 Jace followed Fred deeper into Stonard into a large orc den. Orcs liked building their structures deeper underground, carving out the lowest level like a semi-basement, so even entering from ground level meant walking down a stretch of stairs. It was pitch black — even with the braziers lit, it was hard to see clearly.
 
@@ -62,7 +62,7 @@ Jace couldn't help but laugh too. He sat down nearby, then realized the mage's e
 
 "Jace Sesso?" The mage glanced at Jace's ring. "You're that Sesso?"
 
-Jace sat down on the straw bedding beside him. "There should only be one Sesso in the Wizard Sanctum."
+Jace sat down on the straw bedding beside him. "There should only be one Sesso in the Wizard's Sanctum."
 
 The mage asked, "I heard someone say you killed that death knight, Teron Gorefiend… is that true? I figured you were some thirty-something battle mage or something, but you don't look much older than me."
 
@@ -72,7 +72,7 @@ Jace realized that the news of him killing Teron Gorefiend was starting to bear 
 
 The mage pressed on. "Tell me — how did you beat him?"
 
-Jace said, "It definitely wasn't a fair one-on-one duel that I won… you're making me sound like some archmage who could take on an orcish warchief. But in reality, I can't even cast Fireball. If I could, I'd have ridden a griffin straight to Nethergarde Keep by now."
+Jace said, "It definitely wasn't a fair one-on-one duel that I won… you're making me sound like some archmage who could take on an orcish warchief. But in reality, I can't even cast Fireball. If I could, I'd have ridden a gryphon straight to Nethergarde Keep by now."
 
 "Ah, Nethergarde Keep…" Ferby pursed his lips. "When I first got here today I was hoping to go to Nethergarde Keep too, but after a day of fighting, I'm having second thoughts."
 
@@ -96,7 +96,7 @@ In the game, after Brutallus was killed by the army that retook the Sunwell, the
 
 "It hurts," Jace frowned. "Why'd you bring it up…"
 
-Ferby laughed. "Then let's talk about something else. Jace, you must be pretty close with Lady Sylvanas Windrunner, right? You killed Teron Gorefiend together…"
+Ferby laughed. "Then let's talk about something else. Jace, you must be pretty close with Lady Vereesa Windrunner, right? You killed Teron Gorefiend together…"
 
 "Yeah." Jace, wrapped in bandages, breathed out and tilted his head back, the back of his skull pressing against the cold wall.
 
@@ -104,7 +104,7 @@ Ferby laughed. "Then let's talk about something else. Jace, you must be pretty c
 
 "Saying she's not would be a lie," Jace said after a moment's thought. "I've never seen a more beautiful elf."
 
-Ferby raised his eyebrows. "I envy you — going into a dangerous demon lair with a beautiful Quel'dorei to assassinate an enemy leader. You literally made real a scene I've imagined a million times. Though honestly, if Lady Sylvanas Windrunner really invited me to hunt down that undead monster, I might not have the guts to go."
+Ferby raised his eyebrows. "I envy you — going into a dangerous demon lair with a beautiful Quel'dorei to assassinate an enemy leader. You literally made real a scene I've imagined a million times. Though honestly, if Lady Vereesa Windrunner really invited me to hunt down that undead monster, I might not have the guts to go."
 
 "Who says that? You came to Stonard, didn't you?" Jace thought about it. "Besides, when she first asked me to come along, it wasn't to kill Teron Gorefiend…"
 
@@ -118,7 +118,7 @@ He thought of that rainy day when he and Grede had been ambushed by Hogger's gno
 
 The Legend of Jace Sesso… just thinking about it felt awkward, like his name was hard to connect with any great tale.
 
-"Oh right, Jace," Ferby said. "You said you can't cast Fireball — isn't your teacher Master Marin? He's the most powerful fire mage in the Wizard Sanctum."
+"Oh right, Jace," Ferby said. "You said you can't cast Fireball — isn't your teacher Master Malin? He's the most powerful fire mage in the Wizard's Sanctum."
 
 "The curriculum hasn't quite caught up…" Jace said helplessly.
 

@@ -1,6 +1,6 @@
 ## Chapter 429: Black Destruction!
 
-Blighted Land…
+Blasted Lands…
 
 Endless shadow — shadow from the Void, shadow from the Dark Portal — all of it drawn here as if called, converging from every direction.
 
@@ -12,7 +12,7 @@ But his reason told him: the mana was still far from enough.
 
 He needed to convert more.
 
-"Luhrawenkta, Lu'alakipta…" Jace repeated the incantation until his hands trembled, until he could hear nearly every soldier's shout and wail on the battlefield, every demon's hiss, every order being given.
+"Luhravenkta, Luarakipta…" Jace repeated the incantation until his hands trembled, until he could hear nearly every soldier's shout and wail on the battlefield, every demon's hiss, every order being given.
 
 "Come on, demons. Come on, demons. Let me see how much fight you've left, you goddamn—"
 
@@ -40,15 +40,15 @@ This far, and no further.
 
 "Savia…"
 
-Jace raised Azure Song and the Blood Demon's staff high. The glinting shadow gem and the blue dragonblade came together. He felt as if his motion was pulling at shadow power potent enough to destroy him outright.
+Jace raised Azuresong and Gorefiend's staff high. The glinting shadow gem and the blue dragonblade came together. He felt as if his motion was pulling at shadow power potent enough to destroy him outright.
 
 "Avarus…"
 
 He forced the incantation out. Many of the soldiers, rangers, and priests nearby turned to look, watching serpents of shadow slither from his body and merge with the purple phantoms roaming the sky.
 
-The sky was already obscured by wavering shadow-stars. Even the Eredar warlocks in the distance stared over in a daze.
+The sky was already obscured by wavering shadow-stars. Even the eredar warlocks in the distance stared over in a daze.
 
-"Antia, Minuerlle…"
+"Anthea, Minuelle…"
 
 Jace clenched his teeth and chanted. He had no energy left to spare on anything around him.
 
@@ -78,7 +78,7 @@ After several Life Taps, he could almost see countless souls jostling toward him
 
 "No problem… die, die, die, demon…"
 
-Countless meteors spiraled upward, converging into a shadow-star that let out an eerie, wailing howl. Several fel bats that didn't escape in time were caught in the shadow-star and vanished without a sound. Soldiers and demons on the ground alike looked up at the bizarre magic.
+Countless meteors spiraled upward, converging into a shadow-star that let out an eerie, wailing howl. Several felbats that didn't escape in time were caught in the shadow-star and vanished without a sound. Soldiers and demons on the ground alike looked up at the bizarre magic.
 
 "Jace…"
 
@@ -88,15 +88,15 @@ Vereesa turned back at that moment, stunned nearly senseless.
 
 "Die, you son of a bitch!"
 
-He swung the staff with all its might. The wrappings on the staff burned away utterly by the terrible shadow power, blazing with abyssal purple light.
+He swung the staff with all his might. The wrappings on the staff were burned away utterly by the terrible shadow power, blazing with abyssal purple light.
 
-Jace put so nearly all his strength into it that he almost toppled himself. The shadow-star, driven by his force… howled as it hurtled toward the pit lord. The demon, locked in combat with the soldiers, only noticed the strange object suddenly flying in from above.
+Jace put so much of his strength into it that he almost toppled himself. The shadow-star, driven by his force… howled as it hurtled toward the pit lord. The demon, locked in combat with the soldiers, only noticed the strange object suddenly flying in from above.
 
-Azgus's eyes slid toward it — and he couldn't help but open that abyssal maw dripping with green lava.
+Azgoth's eyes slid toward it — and he couldn't help but open that abyssal maw dripping with green lava.
 
 The soldiers beneath his feet scattered in every direction. The demon tried to raise his fel blade to block — but it was too late.
 
-The shadow-star struck his squarely on the arm. Purple demonic fire swallowed his entire body in an instant. A violent explosion billowed outward, and the streaking shadow-flame shook the earth…
+The shadow-star struck him squarely on the arm. Purple demonic fire swallowed his entire body in an instant. A violent explosion billowed outward, and the streaking shadow-flame shook the earth…
 
 Even the arcane crystal spinning atop the mage tower dimmed in that thunderous burst of shadow, struggling to reignite only after a long moment.
 
@@ -120,16 +120,6 @@ Nearly every demon on the slope had abandoned any will to fight and was fleeing 
 
 Vereesa nodded and shouted with all her might into the distance — but Jace could no longer hear her voice.
 
-Countless soldiers sprinted with all their might away from the demon. Jace felt like he was done for. The demon kept staring at him, laughing without stop. He tried to turn and run, but his legs wouldn't move…
+Countless soldiers sprinted with all their might away from the demon. Jace felt like he was done for. The demon kept staring at him, laughing without pause. He tried to turn and run, but his legs wouldn't move…
 
 A Stormwind knight came galloping from the distance, bent down, and hauled Jace's broken body up onto his horse's back. Not long after, as a flash of white light suddenly blazed forth and swallowed everything, Jace blinked — and finally couldn't hold on anymore.
-
-## Flags
-- 黑色毁灭 = "Black Destruction" (Jace's shadow-star spell).
-- 诅咒之地 = Blighted Land (zone around the Dark Portal).
-- 卢赫拉文克塔，卢阿拉基普塔 / 萨维亚 / 阿瓦鲁斯 / 安特亚，米努埃尔勒 = shadow magic incantations (transliterated; not canonical spells).
-- 生命分流 = Life Tap.
-- 碧空之歌 = Azure Song; 血魔的法杖 = Blood Demon's staff; 蓝龙魔剑 = blue dragonblade.
-- 阿兹格斯 = Azgus.
-- 温蕾萨·风行者 = Vereesa Windrunner.
-- 兹格莱尼将军 = General Zygoni; 洛瑞玛 = Lorima (OC names; transliteration tentative).

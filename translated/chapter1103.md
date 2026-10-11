@@ -1,12 +1,12 @@
 ## Chapter 1103: Waiting in Line for Treatment
 
-By the time they returned to Duskwood, it was the middle of the night. To avoid having the mages staying in Duskwood detect the magical reverberations released by Vereesa and Morophil's fight, the group had gone quite a distance away.
+By the time they returned to Darkshire, it was the middle of the night. To avoid having the mages staying in Darkshire detect the magical reverberations released by Vereesa and Morophil's fight, the group had gone quite a distance away.
 
 Morophil was a demon devoted entirely to combat and slaughter. Even when injured, she didn't show it much, and she could expend mana to repair herself quickly.
 
 Vereesa had lost the fight, so her injuries were naturally more serious than Morophil's. Once the rush of battle had faded, pain and exhaustion had crawled over her in a hurry.
 
-Jace gave her a Restorative Potion first to stabilize her condition. After getting back to Duskwood and taking Morophil to the inn, he brought her to see the priests.
+Jace gave her a Restorative Potion first to stabilize her condition. After getting back to Darkshire and taking Morophil to the inn, he brought her to see the priests.
 
 She'd been wounded by shadow, and he was still being tormented by shadow himself, not yet fully recovered. They might as well go together.
 
@@ -26,19 +26,21 @@ The elf shot Jace a look, then her head drooped at once.
 
 "Those things I said to you in the tavern this afternoon." She covered half her face and said in a low voice. "At the time I just... I felt you'd already been hurt so badly, and you still hadn't recovered after all these days, and then the Soul Link made the pain even worse, so I felt awful and couldn't keep my temper in check."
 
-"I didn't consider that Morophil could handle Velethus. Even though she got hurt and it affected you, it was still infinitely better than letting Velethus and Dar'Khan team up against you. Maybe... I was also a little jealous. Jealous that that demon got to fight by your side in that battle, when I should have been there too."
+"I didn't consider that Morophil could handle Veras. Even though she got hurt and it affected you, it was still infinitely better than letting Veras and Dar'Khan team up against you. Maybe... I was also a little jealous. Jealous that that demon got to fight by your side in that battle, when I should have been there too."
 
-Jace reached out and rubbed the base of her ear. "I know, Wen."
+Jace reached out and rubbed the base of her ear. "I know, Vere."
 
-"What's more, I'd been bottling up all that fury from those archmages with nowhere to vent it... if Belvar hadn't been there, I would've grown a dagger right out of Passarion's forehead." Vereesa muttered under her breath, pressing Jace's hand. She stole a quick glance at Jace's expression and asked, "Do I sound like a hotheaded, impulsive idiot?"
+"What's more, I'd been bottling up all that fury from those magisters with nowhere to vent it... if Belo'vir hadn't been there, I would've grown a dagger right out of Passarion's forehead." Vereesa muttered under her breath, pressing Jace's hand. She stole a quick glance at Jace's expression and asked, "Do I sound like a hotheaded, impulsive idiot?"
 
 "A little better than Grede, at any rate," Jace said.
 
-Vereesa gave an embarrassed laugh, then suddenly frowned and pressed her hand to her waist, sucking in a breath. "Is it bad?" Jace asked, lowering his head. "Let me see."
+Vereesa gave an embarrassed laugh, then suddenly frowned and pressed her hand to her side, sucking in a breath.
 
-Vereesa nodded and lifted her hand. Jace examined the sword wound at her waist.
+"Is it bad?" Jace asked, lowering his head. "Let me see."
 
-Beneath her torn outer garment, the wound had been given a simple bandaging and had healed somewhat thanks to the Restorative Potion. But with Jace's perception, he could clearly see the scorch marks and corrosion left by the powerful shadowfire beneath — it reminded him of the opponents who'd died under Morophil's blade.
+Vereesa nodded and lifted her hand. Jace examined the sword wound in her side.
+
+Beneath her torn outer garment, the wound had been given a simple bandaging and had healed somewhat thanks to the Restorative Potion. But with Jace's perception, he could clearly see the scorch marks and corrosion left by the powerful Shadowflame beneath — it reminded him of the opponents who'd died under Morophil's blade.
 
 "So what she said about having hunted countless demons in the Twisting Nether is true," Vereesa glanced at the people waiting not far behind her, then lowered her voice. "That strange power..."
 
@@ -56,13 +58,13 @@ Jace explained, "She once served a very powerful demon lord. That demon used to 
 
 Vereesa murmured, "I wonder if I could learn that trick."
 
-Jace's expression shifted. "You want to learn Shadowstep? You're a quel'dorei, and you clearly have quite impressive arcane talent, Wen. You should be looking into something more direct with fewer side effects — Blink."
+Jace's expression shifted. "You want to learn Shadowstep? You're a Quel'dorei, and you clearly have quite impressive arcane talent, Vere. You should be looking into something more direct with fewer side effects — Blink."
 
-"Who told you Blink has fewer side effects?" Vereesa said. "Even in Quel'Thalas, as far as I know... at least at the Faltherien Academy, for students who aren't planning to walk the arcane path, the teachers won't teach Transmutation school spells, let alone teleportation magic within the Transmutation school."
+"Who told you Blink has fewer side effects?" Vereesa said. "Even in Quel'Thalas, as far as I know... at least at the Falthrien Academy, for students who aren't planning to walk the arcane path, the teachers won't teach Transmutation school spells, let alone teleportation magic within the Transmutation school."
 
 "Hard to imagine," Jace said. "I thought in Quel'Thalas even long-distance running drills were done with teleportation."
 
-The ranger rolled her eyes. Jace pressed, "But you're a Windrunner — wouldn't those teachers be willing to open a back door for your family?"
+The ranger rolled her eyes. Jace pressed, "But you're a Windrunner — wouldn't those teachers be willing to bend the rules for your family?"
 
 Vereesa said glumly, "Maybe, but... I don't want to do it that way."
 
@@ -78,7 +80,7 @@ Vereesa blinked, then looked at the patients shuffling toward the door. "If I le
 
 "Don't forget you're better with a bow," Jace gave her a sidelong look. "Stop always trying to match her strong suit with your weak suit. Even if arrogance is a stereotype for elves, you don't need to carve the word 'arrogance' across your forehead just to prove you're an elf."
 
-"Yes, I'm an elf," Vereesa muttered unhappily. "I myself am almost forgetting I'm an elf." Then she switched to Thalassian: "No more complaining — this really doesn't befit the image of a noble quel'dorei." Vereesa spat out the words "noble quel'dorei" with such theatrical sarcasm that Jace couldn't help but laugh.
+"Yes, I'm an elf," Vereesa muttered unhappily. "I myself am almost forgetting I'm an elf." Then she switched to Thalassian: "No more complaining — this really doesn't befit the image of a noble Quel'dorei." Vereesa spat out the words "noble Quel'dorei" with such theatrical sarcasm that Jace couldn't help but laugh.
 
 She looked at Jace, then tried asking after a moment, "You've got something else on your mind too, Jace. It's not just the injury, is it?"
 
@@ -86,7 +88,9 @@ She looked at Jace, then tried asking after a moment, "You've got something else
 
 "Mr. Vic Sesso and Mrs. Henny Sesso don't want to come to Stormwind?" Vereesa asked.
 
-Jace was a little surprised Vereesa still remembered his parents' names — he'd already forgotten her father's name. "They don't have particularly fond memories of Lordaeron either," Jace said. "I'm just thinking about how to get them here."
+Jace was a little surprised Vereesa still remembered his parents' names — he'd already forgotten her father's name.
+
+"They don't have particularly fond memories of Lordaeron either," Jace said. "I'm just thinking about how to get them here."
 
 "Gryphon?" Vereesa asked.
 
@@ -112,4 +116,4 @@ Vereesa pointed at the small pouch hidden beneath Jace's robe. "Then write a let
 
 Jace drew a slightly guilty breath, then asked, "If I wanted a similar one, would the Grand Magister still be able to make the decision on his own? Wouldn't he go back on it once we got there?"
 
-"You said it yourself — he's a Grand Magister," Vereesa whispered. "The Sunfury family... they're just like that."
+"You said it yourself — he's a Grand Magister," Vereesa whispered. "The Salonar family... they're just like that."

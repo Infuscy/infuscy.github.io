@@ -4,9 +4,9 @@ Khadgar led Jace into a narrow, dark passageway. The whole space was filled with
 
 But under the circumstances, this kind of stench wasn't all that unpleasant. In a dark tower where space and time were both twisted, being able to smell something even remotely normal was a blessing.
 
-Both humans walked slowly. Even though the place was as quiet as if the arcane vortex, the misty staircase, and the burning dragon's explosion had never happened, to Jace and Khadgar, it was a survival — and they were completely drained.
+Both humans walked slowly. Even though the place was as quiet as if the arcane vortex, the misty staircase, and the burning dragon's explosion had never happened, Jace and Khadgar had only just survived it — and they were completely drained.
 
-Morofil, being a demon, had no concept of fatigue as long as her mana held out. But even she seemed wary, even a little tense. After all, no demon in the Twisting Nether could face the power of Sargeras and stay calm.
+Morophil, being a demon, had no concept of fatigue as long as her mana held out. But even she seemed wary, even a little tense. After all, no demon in the Twisting Nether could face the power of Sargeras and stay calm.
 
 "Are you hurt?" Khadgar turned to ask.
 
@@ -30,13 +30,13 @@ Khadgar slowly nodded. He leaned against the wall to catch his breath. "So here'
 
 "Didn't you say it yourself?" Jace explained. "You said the dragon held part of Medivh's life. You said he might be an embodiment of the tower's will, or even part of Sargeras's mana."
 
-"Also, I noticed some things myself. Remember those undead soldiers that revived from fragments of his bones? I could feel the force driving them was very similar to Morofil's — demonic energy, life force. So I figured the power driving this dragon might also be some kind of demonic fire fueled by life."
+"Also, I noticed some things myself. Remember those undead soldiers that revived from fragments of his bones? I could feel the force driving them was very similar to Morophil's — demonic energy, life force. So I figured the power driving this dragon might also be some kind of demonic fire fueled by life."
 
 Khadgar studied the succubus for a moment, as if wanting to argue, but not sure where to start.
 
 Finally he turned back. "You've been to Karazhan before."
 
-Morofil's gaze shifted from Khadgar to her master.
+Morophil's gaze shifted from Khadgar to her master.
 
 "If I'd been here before, would I still be alive to talk about it?" Jace asked.
 
@@ -114,6 +114,6 @@ Jace pulled her close. "She's with me. My... partner. Is there a problem?"
 
 "I see. No problem at all." The skull bowed its head and stepped back. "Please enter, three honored guests."
 
-Jace followed Khadgar, forcing calm and grace as they slipped into the procession of ghosts. Morofil caught up, leaning close to Jace's ear. "Say that again, dear. I'm your what?"
+Jace followed Khadgar, forcing calm and grace as they slipped into the procession of ghosts. Morophil caught up, leaning close to Jace's ear. "Say that again, dear. I'm your what?"
 
 Khadgar stroked his half-burned beard, glancing sideways at them. Jace kept his eye on the ghostly guests around them and whispered, "That's enough."

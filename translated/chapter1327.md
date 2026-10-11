@@ -1,10 +1,10 @@
 ## Chapter 1327: The Warchief
 
-After hearing from the ogres in Nagran that the ethereals had already communicated with them, seeing a real ethereal shouldn't have been that surprising to Jace. But witnessing one of these strange astral beings in person was every bit as awe-inspiring as seeing an eredar for the first time at the Dark Portal.
+After hearing from the ogres in Nagrand that the ethereals had already communicated with them, seeing a real ethereal shouldn't have been that surprising to Jace. But witnessing one of these strange astral beings in person was every bit as awe-inspiring as seeing an eredar for the first time at the Dark Portal.
 
 Back in his previous life, he'd liked to call these guys "bandage people" since at first glance they really did look like heavily wrapped trauma patients. But with a living ethereal standing not far away, Jace found it hard to connect those runecloth strips, floating by some strange magic, to the bandages wrapped around a wound.
 
-Long, long ago, the ethereals had lived on a planet called Karesh. During their war against the mighty void lord Dimensius the All-Devourer, the ethereals' souls had been infused with arcane energy, enabling them to exist without physical bodies. The runecloth strips were how they bound their own energy, preventing it from dissipating in the material plane.
+Long, long ago, the ethereals had lived on a planet called K'aresh. During their war against the mighty void lord Dimensius the All-Devourer, the ethereals' souls had been infused with arcane energy, enabling them to exist without physical bodies. The runecloth strips were how they bound their own energy, preventing it from dissipating in the material plane.
 
 On top of these strips, the ethereals still wore the outer garments they'd been accustomed to when they had flesh, preserving their past lifestyles as much as possible.
 
@@ -20,13 +20,13 @@ Jace nodded. He looked back at where the ethereal had been standing. Only a fain
 
 Guided by a Shattered Hand guard, Jace and Sabellian passed through another sewer-like passage, crossed paths with a floating Eye of Kilrogg, and were finally led into a dark, dry, narrow hall.
 
-Kargath Bladefist sat slouched on an iron throne at the hall's end, examining the Saberon's blood on his wrist. Jace felt that if the Warchief suddenly lunged at this distance and threw a punch, he might not even have time to cast a spell of suffocation.
+Kargath Bladefist sat slouched on an iron throne at the hall's end, examining the saberon's blood on his wrist. Jace felt that if the Warchief suddenly lunged at this distance and threw a punch, he might not even have time to cast Asphyxiate.
 
 Drawing his sword was out of the question. He didn't want to test his blade skills against the greatest gladiator in Horde history.
 
-But Sabellian looked perfectly calm. He glanced at Jace, then back at Kargath. "Warchief, it's an honor you'd grant us an audience. I believe what we explained to Watcher Gargom..."
+But Sabellian looked perfectly calm. He glanced at Jace, then back at Kargath. "Warchief, it's an honor you'd grant us an audience. I believe what we explained to Watchkeeper Gargolmar..."
 
-"Yes." Kargath cut him off, examining his wrist. "He's already told me everything, Nai'horgar."
+"Yes." Kargath cut him off, examining his wrist. "He's already told me everything, Naihogar."
 
 "I know what Chieftain Zuluhed is hinting at. I know what he believes can save Dragonmaw Fortress in this situation... The Scepter of Sargeras. Does he think I can help him find that accursed thing?"
 
@@ -42,15 +42,15 @@ But Sabellian looked perfectly calm. He glanced at Jace, then back at Kargath. "
 
 "Ner'zhul's failure was foreseeable, respected Warchief." Sabellian lifted his chin. "As leader of the Shadowmoon clan, he never truly entered the Shadow Council... I'm not trying to whitewash Gul'dan's betrayal. But joining the Shadow Council means truly embracing the power of demons and the void. It means possessing the strength and will to wield the Scepter of Sargeras. Ner'zhul used his authority and prestige to command Teron Gorefiend to help him find the scepter, then used trickery to steal it from Deathwing's son. But that didn't mean he could control it. By then, no one in the entire Horde could stop his mad plan."
 
-"Well said, Nai'horgar." Kargath adjusted his bracers. "But so what? Zuluhed has never been part of the Shadow Council either. As far as I know, even when he ruled the red dragons in Grim Batol, he never fully cut ties with the souls and elements that had already abandoned us. He never followed Gul'dan's wishes into the path of shadow and demons. He's more conservative than Ner'zhul, even more stubborn. So how can you convince me he can control the Scepter of Sargeras?"
+"Well said, Naihogar." Kargath adjusted his bracers. "But so what? Zuluhed has never been part of the Shadow Council either. As far as I know, even when he ruled the red dragons in Grim Batol, he never fully cut ties with the souls and elements that had already abandoned us. He never followed Gul'dan's wishes into the path of shadow and demons. He's more conservative than Ner'zhul, even more stubborn. So how can you convince me he can control the Scepter of Sargeras?"
 
-"His work in the breeding pits is the most direct evidence." Sabellian said. "Zuluhed's dark talent is simply unmatched. I witnessed firsthand how he used the Scepter of Sargeras, channeling void energy into black dragon eggs, slowly forcing that fragile whelp to grow into an unstoppable void dragon... Such exquisite magic, such precise control. It was art."
+"His work in the breeding pits is the most direct evidence." Sabellian said. "Zuluhed's dark talent is simply unmatched. I witnessed firsthand how he used the Scepter of Sargeras, channeling void energy into black dragon eggs, slowly forcing that fragile whelp to grow into an unstoppable nether drake... Such exquisite magic, such precise control. It was art."
 
 Seeing that Kargath was listening thoughtfully, the black dragon pressed on. "More importantly, my Warchief -- who else can Chieftain Zuluhed trust? Can he trust Vorpil and Blackheart of Auchindoun, and their Shadow Cabal? Or the Deathshadow Coven, scattered after the great explosion at Highmaul? The Shadow Council is not only shattered -- even with Gul'dan dead, those demon dogs' loyalty to the Horde can no longer withstand scrutiny."
 
-"Watch your words, Nai'horgar," Jace said, glancing at him.
+"Watch your words, Naihogar," Jace said, glancing at him.
 
-"You know what I mean, Nai'jagg," Sabellian said.
+"You know what I mean, Naigag," Sabellian said.
 
 Kargath watched Jace, leaning back in his throne with a smirk. "We have a loyal follower of the Burning Legion here."
 
@@ -58,15 +58,15 @@ Sabellian and Jace exchanged a look. It seemed the Warchief's loyalty to the Bur
 
 "What I mean, Warchief," Jace said, "is that if not for Magtheridon's demon legion, the Expedition and the black dragons would have attacked Dragonmaw Fortress before we even reached Hellfire Citadel. And now the Scepter of Sargeras has been taken back by the Burning Legion. To provide Hellfire Citadel with a powerful flying mount force in a short time, we must rely on the demons..."
 
-"I think you underestimate the Horde, Nai'jagg." Sabellian cut him off. "Chieftain Zuluhed is placing his hope in Warchief Kargath. He didn't send us to beg Magtheridon for help. I think that says enough about his intentions. The Book of Fel Names is now in the hands of the Sons of Lothar. Can't you see the demons' decline and hesitation? Can't you see how weak the Burning Legion is right now?"
+"I think you underestimate the Horde, Naigag." Sabellian cut him off. "Chieftain Zuluhed is placing his hope in Warchief Kargath. He didn't send us to beg Magtheridon for help. I think that says enough about his intentions. The Book of Fel Names is now in the hands of the Sons of Lothar. Can't you see the demons' decline and hesitation? Can't you see how weak the Burning Legion is right now?"
 
-"Weak... No one can defy the Deceiver, Nai'horgar." Jace stared at Sabellian.
+"Weak... No one can defy the Deceiver, Naihogar." Jace stared at Sabellian.
 
 "Is that so?" Sabellian said, with a hint of arrogance. "Then where is the Deceiver? In the sky? Underground? He can't reach Azeroth. He can't reach Draenor either. If he could appear here in person, he would have come to take charge of everything long ago."
 
 "And Gul'dan?" Jace said. "Gul'dan betrayed the Deceiver. Now his corpse is just a head being passed around. Ner'zhul tried to betray the Deceiver. The Scepter of Sargeras came back. You can imagine what happened to him."
 
-"Gul'dan was a loner who betrayed everyone." Sabellian said. "And Ner'zhul was a coward who tried to abandon everyone loyal to him! But understand the situation, my dear Master Nai'jagg. It's not us serving the Legion Lord Kil'jaeden now -- he needs the Horde!"
+"Gul'dan was a loner who betrayed everyone." Sabellian said. "And Ner'zhul was a coward who tried to abandon everyone loyal to him! But understand the situation, my dear Master Naigag. It's not us serving the Legion Lord Kil'jaeden now -- he needs the Horde!"
 
 "Whether it's Karabor or Hellfire Citadel, those demon lords have to rely on Horde soldiers -- who aren't bound by the Book of Fel Names -- for defense. Once the Scepter of Sargeras is back in Horde hands, the situation will completely reverse! The Warchief of the Horde will become the Lord of Draenor, and even the demons... even the holder of the Book of Fel Names, will bow to us!"
 
@@ -84,9 +84,9 @@ Sabellian and Jace exchanged a look. It seemed the Warchief's loyalty to the Bur
 
 "Our honor, Warchief." Sabellian and Jace said together.
 
-Once they were out in the dark corridor and sure no orcs or Eyes of Kilrogg were nearby, Sabellian said quietly, "I hope you didn't mean what you just said, Nai'jagg. You almost convinced me."
+Once they were out in the dark corridor and sure no orcs or Eyes of Kilrogg were nearby, Sabellian said quietly, "I hope you didn't mean what you just said, Naigag. You almost convinced me."
 
-Jace grinned. "Just as sincere as you, Nai'horgar."
+Jace grinned. "Just as sincere as you, Naihogar."
 
 Sabellian chuckled, stepping around filth in the corridor as they headed back toward the arena.
 
@@ -116,6 +116,6 @@ Jace glanced at him sideways. "I need to find someone."
 
 "Who?" the black dragon asked.
 
-"That Kareshi," Jace said. "We usually call them 'ethereals.'"
+"That K'areshi," Jace said. "We usually call them 'ethereals.'"
 
 "Ah..." Sabellian said. "I remember that thing. We'll meet later, then."

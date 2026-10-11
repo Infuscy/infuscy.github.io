@@ -2,45 +2,45 @@
 
 "Master Krasus, the satyrs have raised their banners of war once more. They've already begun infiltrating the Emerald Dream, and I myself have been tainted by the Nightmare's corruption."
 
-"But I can't see any trace of corruption on you at all, Sulenna. Of course, perhaps it's simply because I don't yet understand enough about the Nightmare."
+"But I can't see any trace of corruption on you at all, Sola. Of course, perhaps it's simply because I don't yet understand enough about the Nightmare."
 
-"Because my heart of corruption… has already been destroyed by him. He pulled me out of the nightmare."
+"Because the corruption in my heart… has already been destroyed by him. He pulled me out of the nightmare."
 
-"That does sound like something he would do, Sulenna. Still, does Queen Ysera know you left the Dream without permission?"
+"That does sound like something he would do, Sola. Still, does Queen Ysera know you left the Dream without permission?"
 
-"In fact, it was the will of the Queen and Isendre, Your Grace. They worried that my experience of being corrupted might bring harm to the Emerald Dream. At any rate, the green dragons are already finding it difficult to resist the spreading Nightmare on their own. I don't know why Queen Ysera doesn't wish to ask Queen Alexstrasza for help — perhaps because she feels everything is still within her control…"
+"In fact, it was the will of the Queen and Ysondre, Your Grace. They worried that my experience of being corrupted might bring harm to the Emerald Dream. At any rate, the green dragons are already finding it difficult to resist the spreading Nightmare on their own. I don't know why Queen Ysera doesn't wish to ask Queen Alexstrasza for help — perhaps because she feels everything is still within her control…"
 
-Sulenna hesitated. "If it weren't for Jace Sesso, I might not even have had the chance to meet you." The moment his name was mentioned, Jace snapped back to attention.
+Sola hesitated. "If it weren't for Jace Sesso, I might not even have had the chance to meet you." The moment his name was mentioned, Jace snapped back to attention.
 
-"I'm certain the red dragons wouldn't stand by and do nothing even without me, Sulenna," he said — though in truth, his mind had been elsewhere ever since a moment ago.
+"I'm certain the red dragons wouldn't stand by and do nothing even without me, Sola," he said — though in truth, his mind had been elsewhere ever since a moment ago.
 
-Still, Sulenna smiled.
+Still, Sola smiled.
 
 Krasus said, "No problem, you two. I'll set out for Queen Alexstrasza's side as soon as possible to report this. The disaster of the Dark Portal, and the whole chain of chaos from Deathwing's assault on Dalaran to Grim Batol, has made us lose sight of the shadows slowly spreading across the north and west."
 
 Jace nodded. Emerald Dream matters were beyond his ability to handle. He still remembered that while he was in the Dream, aside from using the shadow magic that seeped through the corruption to cast a few dark spells, he could barely help at all.
 
-Still, since Sulenna had come here in person, it was more appropriate for her to explain things to the red dragons herself. At the moment, he was actually thinking about the matter of Moonbrook.
+Still, since Sola had come here in person, it was more appropriate for her to explain things to the red dragons herself. At the moment, he was actually thinking about the matter of Moonbrook.
 
 The demon disaster in Moonbrook — something that had even shaken Dalaran — what on earth was going on?
 
 Moonbrook had always been the place in the entire Kingdom of Stormwind with the most warlocks and the most chaotic demonic influence. It had the largest market for living demonic creatures, and a bunch of warlocks who were reluctant to submit to the kingdom's oversight and taught themselves demonic sorcery in secret. That a problem would erupt there should have been the least surprising thing in the world.
 
-So this probably had nothing to do with that crowd at the Slaughtered Lamb — if they were going to cause a disaster, it would've been in Stormwind itself. Even Erland Dudemoor, who often went to Moonbrook, went there simply to trade demonic materials each time.
+So this probably had nothing to do with that crowd at the Slaughtered Lamb — if they were going to cause a disaster, it would've been in Stormwind itself. Even Erlan Drudgemoor, who often went to Moonbrook, went there simply to trade demonic materials each time.
 
-Actually, from the moment Krasus had brought this up, Jace had been worrying that this catastrophe might be connected to Karlez. Could it be that the bindings at the Storm Altar had failed?
+Actually, from the moment Krasus had brought this up, Jace had been worrying that this catastrophe might be connected to Kallrez. Could it be that the bindings at the Altar of Storms had failed?
 
-But on second thought, if Karlez had broken free, the Wizard Sanctum probably wouldn't have been able to quell the situation in such a short time.
+But on second thought, if Kallrez had broken free, the Wizard's Sanctum probably wouldn't have been able to quell the situation in such a short time.
 
-Even if it was Karlez, if the Wizard Sanctum had already subdued him — or killed him and banished him back to the Twisting Nether — the archmage who understood dark magic, Magino Dumas, should have been able to trace the demon's connections back to himself. In that case, Krasus wouldn't be speaking to him with such composure right now.
+Even if it was Kallrez, if the Wizard's Sanctum had already subdued him — or killed him and banished him back to the Twisting Nether — the archmage who understood dark magic, Maginor Dumas, should have been able to trace the demon's connections back to himself. In that case, Krasus wouldn't be speaking to him with such composure right now.
 
 Could it be the group of warlocks he'd summoned the doom lord with who'd run into trouble?
 
-They'd decided Karlez had been taken care of by him, and so they were looking for a way to find another demon lord as a replacement? That wasn't just possible — the likelihood was even quite high.
+They'd decided Kallrez had been taken care of by him, and so they were looking for a way to find another demon lord as a replacement? That wasn't just possible — the likelihood was even quite high.
 
-Jace still had a Legion communication circle scroll in his pack, specially modified by Karlez to establish contact with him. That doom lord might know something about this.
+Jace still had a Legion communication circle scroll in his pack, specially modified by Kallrez to establish contact with him. That doom lord might know something about this.
 
-So when they left Dalaran, he planned to find a place to use that circle to contact Karlez and ask about the situation. After all, flying from here to Stormwind would probably still take a few days, and if he didn't make some kind of inquiry during that time, he probably wouldn't even be able to sleep.
+So when they left Dalaran, he planned to find a place to use that circle to contact Kallrez and ask about the situation. After all, flying from here to Stormwind would probably still take a few days, and if he didn't make some kind of inquiry during that time, he probably wouldn't even be able to sleep.
 
 "Jace, take out that mirror of yours and show Master Krasus."
 
@@ -50,11 +50,11 @@ Jace took the mirror stone out of his bag. "I got this from Azuregos, Master. He
 
 "Let me have a look." Krasus took the mirror stone — barely larger than his palm — and studied his reflection in it.
 
-Jace leaned over to glance at it. The High Elf mage in the mirror had a pair of yellow, reptilian eyes. Sensing Jace approach, those eyes suddenly shifted and locked onto him, giving Jace a start.
+Jace leaned over to glance at it. The high elf mage in the mirror had a pair of yellow, reptilian eyes. Sensing Jace approach, those eyes suddenly shifted and locked onto him, giving Jace a start.
 
 "This is indeed a fine artifact," Krasus said, turning it over in his hands. "If it can't reflect Azuregos's appearance, that only means that blue dragon's magic is too powerful — I'm not the least bit surprised. But black dragonkin definitely won't escape it."
 
-As he spoke, Krasus incanted another spell. The pair of dragon eyes in the mirror faded slightly, the arcane light in the High Elf's eyes brightened a touch, and his draconic features became less distinct.
+As he spoke, Krasus incanted another spell. The pair of dragon eyes in the mirror faded slightly, the arcane light in the high elf's eyes brightened a touch, and his draconic features became less distinct.
 
 "If Deathwing's children — the black dragons allied with the orcs in Blackrock Spire, for instance — tried to disguise themselves as humans and enter Stormwind, would this stone be able to expose them?" Jace asked.
 
@@ -64,7 +64,7 @@ Krasus thought for a moment. "I can't confirm right away whether it would work. 
 
 The group decided to set out for Stormwind the next day. That night, Krasus arranged guest rooms in his residence for them.
 
-In the middle of the night, Jace came to Krasus's study, carrying the bundle wrapped in the black knight's cloak — the one containing the shattered Apocalypse.
+In the middle of the night, Jace came to Krasus's study, carrying the bundle wrapped in the Dark Rider's cloak — the one containing the shattered Apocalypse.
 
 Since he needed to return to Stormwind right away, if he didn't hand Apocalypse over to the red dragons now, he'd be stuck carrying it around for a very long time.
 
@@ -72,11 +72,13 @@ Apocalypse was a powerful demonic sword, but it was already broken — its power
 
 After all, he'd never dare store a thing like this in his rented room or the house he'd bought for his parents. The danger if it were stolen again would be too horrifying. He might as well give it to Krasus now and see if the red dragons had some way of dealing with it properly.
 
-"Master Krasus." Jace knocked on the door. "Jace, what is it?"
+"Master Krasus." Jace knocked on the door.
 
-Whoever was inside said it, and the door opened on its own, drawn by a light touch of arcane magic.
+"Jace, what is it?"
 
-Krasus was sorting through some purpose-unknown stones in a treasure box. Seeing the object in Jace's hands, he frowned. "What's that?"
+The voice came from inside, and the door opened on its own, drawn by a light touch of arcane magic.
+
+Krasus was sorting through some stones of unknown purpose in a jewel box. Seeing the object in Jace's hands, he frowned. "What's that?"
 
 "We ran into a group of undead killers in Kalimdor." Jace set the black bundle on the table. "The leader of them was wielding this weapon. My demonic servants said it's a demonic sword called Apocalypse."
 
@@ -94,9 +96,9 @@ Krasus said, "This is something you recovered. It certainly couldn't be done wit
 
 As he spoke, he unfolded the cloth bundle — and then saw the broken blade within. His expression went completely blank. "It's broken. How… how is that possible?"
 
-"Perhaps it's because those black-rodded undead couldn't bring out its full power," Jace said. For now, he had no intention of telling Krasus about Ursoloth — or about anything else, for that matter, to anyone outside their own circle.
+"Perhaps it's because those black-robed undead couldn't bring out its full power," Jace said. For now, he had no intention of telling Krasus about Ulthalesh — or about anything else, for that matter, to anyone outside their own circle.
 
-The red dragon mage glanced at the sword Azure Song at Jace's waist but said nothing.
+The red dragon mage glanced at the sword Azuresong at Jace's hip but said nothing.
 
 "Even broken, it's still extraordinarily dangerous," Jace said. "I was wondering — would the Dragonqueen possibly be able to purify the evil within this sword? So that even if it were reforged, it could never again sow the calamity it once spread?"
 

@@ -1,6 +1,6 @@
 ## Chapter 80: What's on Grede's Mind
 
-That evening, Grede proposed a meal at The Pig and Whistle to celebrate the two of them making it back alive — and the fact that Jace had "somehow" become a hero of the kingdom.
+That evening, Grede proposed a meal at the Pig and Whistle to celebrate the two of them making it back alive — and the fact that Jace had "somehow" become a hero of the kingdom.
 
 The Pig and Whistle was especially packed tonight. Someone had even set up a long table in the middle of the hall for a banquet.
 
@@ -8,11 +8,11 @@ Right then, a gnome — not a real gnome, but a human with dwarfism — was danc
 
 The surrounding guests, though seemingly squeezed to the edges, were all celebrating something of their own. The whole tavern was constantly bombarded with all kinds of chaotic racket.
 
-The two of them ordered Redridge goulash, baked golden apple, and pan-fried stonescale trout — a spread full of Redridge flavor. To drink, they went for a light ale, a specialty of the Dwarf District. Grede was making a small compromise for Jace's sake, drinking something with a lighter taste.
+The two of them ordered Redridge goulash, baked golden apple, and pan-fried stonescale trout — a spread full of Redridge flavor. To drink, they went for a light ale, a specialty of the Dwarven District. Grede was making a small compromise for Jace's sake, drinking something with a lighter taste.
 
 When ordering, Jace practically had to shout at the top of his lungs, because if he didn't, the serving girl couldn't hear a word he said. After they'd settled on everything, he even felt a little oxygen-deprived, slowly slumping down onto the table like a robot that had powered off.
 
-Grede, who knew what he was thinking, hadn't said a word the whole time, just watching the person with dwarfism dance happily on the table.
+Grede, lost in thoughts of his own, hadn't said a word the whole time, just watching the person with dwarfism dance happily on the table.
 
 That person was dressed in gnome clothing, wearing the small hat gnomes liked to wear, dancing gnome dances. Except for the ears and eyes not being as prominently protruding as a gnome's, he was practically a gnome. Seeing Grede's silence, Jace's thoughts slowly drifted to Westfall.
 
@@ -26,7 +26,7 @@ The serving girl froze for a moment. When she realized there was nothing on the 
 
 "Quick, send this apple to where it's supposed to go!" Grede bellowed.
 
-"Yes, ma'am." The serving girl flinched, picked up the baked apple, and fled.
+"Yes, sir." The serving girl flinched, picked up the baked apple, and fled.
 
 Jace said quietly, "It's just the two of us eating. There's no need to make it so formal, Grede."
 
@@ -48,7 +48,7 @@ Jace said, "Maybe that orc was a refined teacher and elder back in the Horde?"
 
 Grede let out a sudden laugh, just as the serving girl set a plate of pan-fried fish in front of him.
 
-"Then being an orc must be miserable," he said, dipping his finger in the fish broth and putting it in his mouth. "I still don't understand that force... that ferocity. I can't make sense of it. I've never fought an orc directly, but I've seen dwarven warriors who've fought orcs. Dwarves aren't afraid of orc warriors at all. Orc warriors are very strong, sure, but not to the point of... Because I was the best of those warriors! It was precisely because I was outstanding that I was chosen as a Gryphon Rider! Dwarves shouldn't be that much weaker than orcs — there's no way I shouldn't have been able to last even one exchange."
+"Then being an orc must be miserable," he said, dipping his finger in the fish broth and putting it in his mouth. "I still don't understand that force... that ferocity. I can't make sense of it. I've never fought an orc directly, but I've seen dwarven warriors who've fought orcs. Dwarves aren't afraid of orc warriors at all. Orc warriors are very strong, sure, but not to the point of... Because I was the best of those warriors! It was precisely because I was outstanding that I was chosen as a gryphon rider! Dwarves shouldn't be that much weaker than orcs — there's no way I shouldn't have been able to last even one exchange."
 
 Jace speared a piece of fish with his fork and said, "Orc shamans are like that. When he charged at us, I already saw him channeling wind elements to bolster his attack. Didn't you feel it?"
 
@@ -62,7 +62,9 @@ Jace said, "Wind elements definitely amplify their impact — otherwise why woul
 
 The dwarf chuckled, wiped his finger on his clothes, and picked up his fork.
 
-Jace speared another piece of fish and put it in his mouth. "Think about those human warriors who fought the orc armies in Black Marsh, in Stranglethorn Vale, in Elwynn, in Redridge, in Westfall. I'm certain that orc shaman was by no means a standout or particularly powerful figure in the Horde — and even so, he still managed to fight the two of us into such a miserable state. So you can imagine what price the Alliance must have paid to finally drive them back." Grede said, "Of course I know. Not to mention the Amani trolls, not to mention their..."
+Jace speared another piece of fish and put it in his mouth. "Think about those human warriors who fought the orc armies in the Black Morass, in Stranglethorn Vale, in Elwynn, in Redridge, in Westfall. I'm certain that orc shaman was by no means a standout or particularly powerful figure in the Horde — and even so, he still managed to fight the two of us into such a miserable state. So you can imagine what price the Alliance must have paid to finally drive them back."
+
+Grede said, "Of course I know. Not to mention the Amani trolls, not to mention their..."
 
 At that, the dwarf hesitated for a moment. "Let's not talk about this anymore. There's nothing more to say — it's all in the past anyway. The orcs are getting fewer. In the future, I won't recklessly drag you into the fire without first figuring out what the mission actually involves."
 
@@ -87,16 +89,3 @@ Jace gave a soft snort at his bumpkin enthusiasm. "Let's talk about ogres instea
 "Not to mention dragons," Jace said.
 
 "Not to mention dragons!" Grede nodded vigorously.
-
-## Flags
-
-- **侏儒病** → "dwarfism" (original literally "gnome disease"; the text describes a human with dwarfism performing as a gnome).
-- **赤脊山乱炖** → "Redridge goulash" (not in glossary; regional dish).
-- **烤金皮苹果** → "baked golden apple" (not in glossary).
-- **煎石鳞鲑** → "pan-fried stonescale trout" (not in glossary).
-- **淡啤酒** → "light ale" (not in glossary).
-- **黑色沼泽** → "Black Marsh" (not in glossary; could be Black Morass — the listed battlefields are human-vs-orc engagements, rendering tentative).
-- **鹰巢山** → "Aerie Peak" (Wildhammer stronghold; not in glossary).
-- **蛮锤的军团** → "the Wildhammer legions" (not in glossary).
-- **戳他的肺管子** → "get under his skin" (idiom; rendered for meaning).
-- **没见过世面** → "bumpkin enthusiasm" (rendered for tone; Jace teasing Grede's wide-eyed delight at the food).

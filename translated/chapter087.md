@@ -2,9 +2,9 @@
 
 Jace left the farm in the afternoon and continued north. After climbing over that high slope, it wasn't long before he caught sight of the sea far below the cliffs.
 
-He walked for two or three hours, the sun already sinking toward the water, before he finally spotted the fishing village Faolble had mentioned.
+He walked for two or three hours, the sun already sinking toward the water, before he finally spotted the fishing village Furlbrow had mentioned.
 
-It was even more desolate than Faolble had guessed. From here it looked completely empty — totally abandoned.
+It was even more desolate than Furlbrow had guessed. From here it looked completely empty — totally abandoned.
 
 Only the fish-drying racks and such hadn't been taken down. They just sat there, undisturbed.
 
@@ -12,7 +12,7 @@ This so-called fishing village had only four or five houses, all sturdy wooden s
 
 Looks like that old soldier's commission would have to wait. Maybe when he had a chance he could go back and ask for a more specific name or something.
 
-Faolble had said everyone here had moved to Stormwind — maybe if he went back to Stormwind and asked around, he could pick up a lead?
+Furlbrow had said everyone here had moved to Stormwind — maybe if he went back to Stormwind and asked around, he could pick up a lead?
 
 Thinking it over, Jace was already feeling less like sticking his nose into other people's business. That soldier had seemed shady to begin with, and Jace didn't particularly want to get dragged into something weird.
 
@@ -24,11 +24,11 @@ He walked into the largest house. Some of the bigger pieces of furniture were st
 
 The floor was coated in slippery algae and soggy rot. The walls were crawling with some kind of green vines he couldn't name. Even though the sun hadn't fully set yet, the inside of the house was dark as could be. Still, it was a place that could keep out the wind and rain and offer a bit of warmth, and that was something.
 
-Jace opened his warlock's robe and said, "Come on out, Sazeno."
+Jace opened his warlock's bag and said, "Come on out, Sazeno."
 
 The imp leapt out and materialized with a shout. "I thought you'd forgotten about me!"
 
-The moment this little fire-spewing demon appeared, it lit the whole house in a faint cinnamon-green glow. Jace said with some concern, "Can you dial back the flames a bit?"
+The moment this little fire-spewing demon appeared, it lit the whole house in a faint yellow-green glow. Jace said with some concern, "Can you dial back the flames a bit?"
 
 "This is the outward expression of my surging inner fire, Master!" Sazeno said. "You want me to suppress my very nature?"
 
@@ -36,9 +36,11 @@ The moment this little fire-spewing demon appeared, it lit the whole house in a 
 
 "If you burn to death, I'm free!" Jace and the imp said the exact same thing at the exact same time. Jace finished, glared at him, and said, "Say that again and I'll stomp you to death."
 
-"Hah! I'll remember that! The master's orders must not be disobeyed!" Jace went upstairs and found a spot that was still reasonably dry, shook the dust off something the size of a tablecloth, wiped down a table and chair, sat down, and pulled out a book he'd brought — a guide to Orcish pronunciation — and started memorizing.
+"Hah! I'll remember that! The master's orders must not be disobeyed!"
 
-Since Faolble had said it'd be safer to look around at night, he'd take his advice this time. The thought of suddenly being spotted by murlocs in broad daylight and having to run a half-hour marathon was enough to make him uneasy.
+Jace went upstairs and found a spot that was still reasonably dry, shook the dust off something the size of a tablecloth, wiped down a table and chair, sat down, and pulled out a book he'd brought — a guide to Orcish pronunciation — and started memorizing.
+
+Since Furlbrow had said it'd be safer to look around at night, he'd take his advice this time. The thought of suddenly being spotted by murlocs in broad daylight and having to run a half-hour marathon was enough to make him uneasy.
 
 "Does Master plan to sit here reading until nightfall?"
 
@@ -84,7 +86,7 @@ Not a murloc, was it?
 
 Jace watched for a long while. The shadow sat there without moving a muscle. Judging by its silhouette, it didn't look like a murloc — it looked like a real person, hunched over, squatting or sitting there, staring out at the ocean without moving.
 
-Didn't Faolble say nobody lived here anymore? When had that person shown up there?
+Didn't Furlbrow say nobody lived here anymore? When had that person shown up there?
 
 "Can you see that person?" Jace asked Sazeno.
 
@@ -116,13 +118,6 @@ That was when he made out the singing clearly.
 > whether calm or surging,
 > you and I can bear witness.
 > For I have already heard
-> the tidings your whispers brought. May it carry this longing far away, that you may know.
-
-## Flags
-
-- **撒厄诺** → "Sazeno" — per glossary (short name; true name Sazenilaz). Used as-is.
-- **撒厄诺's speech register** — kept theatrical, obsequious, and slightly insolent per the imp's established character (glossary notes the imp-minion relationship). Not a glossary entry but consistent with prior chapters.
-- **湖畔的萨满** → "the shaman at Lakeshire" — refers to prior-chapter events; "Lakeshire" per glossary.
-- **塔布羊** → "talbuk" — canonical Draenor fauna (the long-legged, high-horned "sheep" of Nagrand). Not in glossary; flagged.
-- **双月** → "the twin moons" — Azeroth's two moons (the White Lady and the Blue Child). Not in glossary; flagged.
-- The song/poem is rendered as verse to match the source's lyrical tone.
+> the tidings your whispers brought.
+> May it carry this longing far away,
+> that you may know.

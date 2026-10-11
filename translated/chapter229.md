@@ -1,6 +1,6 @@
 ## Chapter 229: The Dark Thicket
 
-The towering gnoll leader bolted into the trees, leaving only a swaying silhouette weaving back and far in the distance.
+The towering gnoll leader bolted into the trees, leaving only a swaying silhouette weaving back and forth in the distance.
 
 Jace and Grede, still dazed from the bomb blast, gave chase with everything they had. That bastard had escaped from bounty hunters' pursuits more times than anyone could count — this time, he would not be allowed to slip away again.
 
@@ -28,7 +28,7 @@ Hogger howled in excitement and swung the cleaver in continuous horizontal slash
 
 After several chops all missed, Hogger suddenly took a huge step forward and slashed horizontally again. Jace raised his staff and caught it head-on!
 
-Hogger let out a resentful shriek and slashed from the same angle again. Jace blocked with the staff once more — this time the impact rang out with a "clang" that numbed his entire arm. Only then did realize what Grede had been going through…
+Hogger let out a resentful shriek and slashed from the same angle again. Jace blocked with the staff once more — this time the impact rang out with a "clang" that numbed his entire arm. Only then did he realize what Grede had been going through…
 
 And this was Hogger already affected by Curse of Weakness…
 
@@ -76,7 +76,7 @@ Jace listened to the tone of Grede's words and thought it sounded awfully strang
 
 He checked again for any fatal wounds, confirmed there was no blood on his back, and seeing that his breathing was steady and even, decided he'd just passed out from exhaustion — only then did he finally set his mind at ease.
 
-After all, they couldn't shoot movies every day. Plant enough flags and eventually a few of them wouldn't come true.
+After all, this wasn't a movie. Not every death flag had to come true.
 
 Jace moved up next to Hogger's body and measured the size of his head — it was about as big as Jace's entire chest.
 
@@ -104,7 +104,7 @@ Honestly, Jace hadn't expected that coming to kill Hogger would also mean dealin
 
 So if the two of them hadn't come into this forest and taken Hogger down, what would have happened afterward?
 
-According to the game's lore, although the Riverpaw gnolls had plenty of warlocks who wielded dark magic, they didn't have necromancers — let alone any rotting corpses like the Foulweald gnolls of Tirisfal Glades.
+According to the game's lore, although the Riverpaw gnolls had plenty of warlocks who wielded dark magic, they didn't have necromancers — let alone any rotting corpses like the Rot Hide gnolls of Tirisfal Glades.
 
 What had changed all this?
 
@@ -114,7 +114,7 @@ Or… Onyxia, the black dragon princess?
 
 Given everything he had to go on, Jace could only guess blindly. There was no way to reach any reliable conclusion.
 
-Right now he was still riding an adrenaline high, so his thoughts kept scattering in every direction. He wasn't sure if it was the effect of the Shadow Protection Potion or the life vitality he'd drained keeping him in a state of constant excitement — he felt no obvious desire to sleep.
+Right now he was still riding an adrenaline high, so his thoughts kept scattering in every direction. He wasn't sure if it was the effect of the Shadow Protection Potion or the vitality he'd drained keeping him in a state of constant excitement — he felt no obvious desire to sleep.
 
 Still, he lay down and forced himself to rest as much as possible. After all, gnolls were still prowling the woods. Not only did Jace have to protect Grede, he had to stay alert for any surprise attack at any moment.
 
@@ -132,13 +132,15 @@ This smell had nothing to do with the blood and animal reek coming off Hogger's 
 
 How dare this little bastard ignore his summons? It had some nerve.
 
-He took off the warlock's pack and looked inside — the thing was actually fast asleep in there.
+He took off the warlock's bag and looked inside — the thing was actually fast asleep in there.
 
 Did demons even sleep? Had this guy been spending too much time with the two of them and gotten too into character?
 
 Still, that imp had used no small number of spells helping Grede fight Hogger just now. Even now, faint red lines were still visible on Grede's body — that had to be the Blood Pact mark.
 
-The imp's stamina was probably even weaker than Grede's, Jace knew. Two or three spells and it was running on fumes. "Wake up."
+The imp's stamina was probably even weaker than Grede's, Jace knew. Two or three spells and it was running on fumes.
+
+"Wake up."
 
 Jace patted the imp's face. The imp opened its eyes in a daze.
 
@@ -156,7 +158,7 @@ Jace patted the imp's face. The imp opened its eyes in a daze.
 
 "Understood!"
 
-He set the warlock's pack with the imp inside next to Grede, stood up, and looked in the direction the necrotic aura was drifting from. He walked some distance toward it.
+He set the warlock's bag with the imp inside next to Grede, stood up, and looked in the direction the necrotic aura was drifting from. He walked some distance toward it.
 
 Then he realized — this was exactly the direction Hogger had been running.
 
@@ -171,13 +173,3 @@ He opened his map and compared it with the direction they'd been moving. There d
 Jace didn't dare go any further. The arcane glow still shimmering on his body hadn't faded — if he went any closer, he'd definitely be spotted.
 
 Better to go back, wake Grede up, and come back to investigate together.
-
-## Flags
-
-- Hogger's death: Jace delivers the final blow with Hogger's own massive cleaver, ending the gnoll terror of Elwynn Forest for good.
-- Jace takes Hogger's hand as proof of the kill — a callback to the game's quest mechanic, adapted to the practical reality of not being able to carry a head that size.
-- Grede collapses from exhaustion after the fight — his near-death "movie dialogue" moment is a false alarm, but it underscores how close the dwarf came to his limit.
-- Jace reflects on the Stormwind guard who held off Hogger for them — a lingering emotional thread and a desire to find that man.
-- Major lore mystery introduced: a necromancer in Elwynn Forest is completely absent from the game's canon. Jace begins theorizing — death knights, the Silver Hand, or Onyxia as possible explanations.
-- A new necrotic scent leads Jace to a hidden camp in the direction Hogger fled — suggesting Hogger was running toward something, not just away.
-- Sazeno sleeps through Jace's summons — the imp's stamina is genuinely depleted from the Hogger fight, and the Blood Pact marks on Grede confirm the strain.

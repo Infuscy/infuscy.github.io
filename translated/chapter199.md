@@ -4,7 +4,7 @@ On the way back, Grede was practically a different person, frantically telling J
 
 Still, even though he'd used the war hammer to summon the power of lightning, something that belonged to someone else still had to be returned to its rightful owner.
 
-Grede and Jace crossed several stone-carved walkways to another clan's great hall. Following the location the thane had given Grede, they found the wife of the griffon rider Karden Greyfeather.
+Grede and Jace crossed several stone-carved walkways to another clan's great hall. Following the location the thane had given Grede, they found the wife of the gryphon rider Karden Greyfeather.
 
 Their conversation was completely unintelligible to Jace, but the wife wept bitterly. Jace couldn't bear delivering news like this to someone — having to tell another person that a family member was dead. He could only stand far off and stare blankly at the Hinterlands forest.
 
@@ -16,7 +16,7 @@ After a while, Grede walked over, let out a deep sigh, and said, "Finally delive
 
 "You kept your own hammer? Why didn't you bring it with you?"
 
-"I'm not a griffon rider anymore. Why would I still carry a griffon rider's war hammer?"
+"I'm not a gryphon rider anymore. Why would I still carry a gryphon rider's war hammer?"
 
 "Then right now…"
 
@@ -32,7 +32,7 @@ Once inside the room, Grede rummaged through the dusty clutter for a long while,
 
 This hammer looked less like a war hammer and more like a nail-driving hatchet — the pointed end even more exaggerated than the last one.
 
-Jace's impression had been that griffon riders' war hammers were all a standard metal block, very proper and uniform. But having come here and seen them, all kinds of war hammers came in every bizarre shape and size — the pure block shape was actually the rarest.
+Jace's impression had been that gryphon riders' war hammers were all a standard metal block, very proper and uniform. But having come here and seen them, all kinds of war hammers came in every bizarre shape and size — the pure block shape was actually the rarest.
 
 "You damned thing," Grede said, hefting the hammer. "Last time I used you to try in the exact same place and got nothing. Chances are you and I just weren't a good match, and that's why I got my leg bitten by that bat!"
 
@@ -54,7 +54,7 @@ A few moments of footsteps, and Grede walked up carrying his own hammer, mutteri
 
 "Shut up…" Grede bared a white tooth. "Then why didn't it work before, and why does it work now?"
 
-Jace mulled it over for a moment. "Maybe becoming a truly powerful griffon rider requires going through a few things first. Don't you think?"
+Jace mulled it over for a moment. "Maybe becoming a truly powerful gryphon rider requires going through a few things first. Don't you think?"
 
 "So what did I go through?"
 
@@ -64,15 +64,15 @@ Grede sat down on the ground angrily, exhaled a huge breath, and a cloud of dust
 
 "Ah…" Grede leaned against the stone stair railing, looked up at the not-too-high ceiling, and said, "I was really different from now."
 
-"Back then I… thought that one day I would definitely become the greatest griffon rider, a legend of Khaz Modan and the Hinterlands — like Khadgar Wildhammer, or a Mountain King… Even if the elemental powers didn't answer my call, I could still prove myself with my combat skills, my sharp senses, my immense strength. Maybe I overestimated myself. No — scratch the 'maybe.' I just wasn't that strong."
+"Back then I… thought that one day I would definitely become the greatest gryphon rider, a legend of Khaz Modan and the Hinterlands — like Khardros Wildhammer, or a Mountain King… Even if the elemental powers didn't answer my call, I could still prove myself with my combat skills, my sharp senses, my immense strength. Maybe I overestimated myself. No — scratch the 'maybe.' I just wasn't that strong."
 
 "Maybe the elements thought you were too much of an arrogant little shit back then, so they didn't want to answer your call?" Jace asked.
 
 "Then the elements have the temperament of a child," Grede said. "And if I do something they don't like later, they can just refuse to answer my call again on a whim?"
 
-Jace said, "Then tell me — why do those thanes, or the shamans of other races, all cultivate their temperament, learn the elements' moods, and maintain humility? Isn't that precisely because the elements have bad tempers? You can keep your patience around an owlbear and not provoke it — but when it comes to such powerful elemental forces, you're the one with no patience."
+Jace said, "Then tell me — why do those thanes, or the shamans of other races, all cultivate their temperament, learn the elements' moods, and maintain humility? Isn't that precisely because the elements have bad tempers? You can keep your patience around an owlbeast and not provoke it — but when it comes to such powerful elemental forces, you're the one with no patience."
 
-"If an owlbear is provoked, it'll really slap you across the face," Grede said.
+"If an owlbeast is provoked, it'll really slap you across the face," Grede said.
 
 "Then if you make the elements unhappy, they won't fight for you. Which price is steeper, I couldn't say," Jace said.
 
@@ -89,13 +89,3 @@ Jace said, "Then tell me — why do those thanes, or the shamans of other races,
 "What do you think? I haven't eaten a thing since this morning," Jace said helplessly. "I've been looking forward to the big feast at Aerie Peak for days now, and you didn't even want to come."
 
 "Then let's go," Grede said. "Come on, come on — eat for free, why not? It doesn't cost a copper!"
-
-## Flags
-
-- Karden Greyfeather's wife receives the hammer — an emotionally heavy scene handled at a distance by Jace.
-- Grede's personal war hammer revealed — a battered, pointed "nail-driver" he blames for his earlier failures.
-- The hammer immediately discharges massive lightning when Grede challenges it — proving the problem was never the weapon.
-- Grede's character arc deepened: his pre-injury arrogance vs. his current humility — the elements may have ignored him because of his former pride, not his injury.
-- Jace draws a parallel between elemental patience and owbear patience — a humorous but pointed observation.
-- Grede's philosophical question to Jace ("what kind of person were you?") deflected with Jace's typical evasion about his transmigration.
-- The Thunderfist great hall's lower chambers described — dusty, abandoned, suggesting Grede's long absence from home.

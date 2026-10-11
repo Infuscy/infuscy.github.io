@@ -28,13 +28,13 @@ At this point Vereesa was already running out of words. She thought for a while 
 
 Grede slapped his own face.
 
-Vereesa looked at Jace and sighed, then suddenly snapped her fingers. "It's like riding a chocobo — ah, riding a horse! You know how to ride a horse, don't you, Jace."
+Vereesa looked at Jace and sighed, then suddenly snapped her fingers. "It's like riding a hawkstrider — ah, riding a horse! You know how to ride a horse, don't you, Jace."
 
 "Isn't that a bit of a stretch? Still, let me try."
 
 Jace cupped the gem in his hands, closed his eyes, and tried to feel the mana within.
 
-He had to admit, the afternoon he'd spent with the Crystal of Flowing Ice had given him quite a feel for it. The mana it helped restore also seemed to resonate with the gem more easily.
+He had to admit, the afternoon he'd spent with the Flowing Ice Crystal had given him quite a feel for it. The mana it helped restore also seemed to resonate with the gem more easily.
 
 Riding a horse… what did riding a horse feel like?
 
@@ -68,13 +68,13 @@ Jace finally understood. He looked at Vereesa and asked, "This thing can't be on
 
 "Definitely an arcane race," Jace marveled.
 
-Vereesa smiled. "If I really had that much arcane talent, maybe Alleria would have sent me to Falarion to study magic back then."
+Vereesa smiled. "If I really had that much arcane talent, maybe Alleria would have sent me to Falthrien Academy to study magic back then."
 
 As she said this, her expression suddenly dimmed, and the smile faded with it.
 
 The three of them fell silent for a while. Just then, the barmaid came over and set down four drinks one by one. The dwarf sniffed his glass and said, "Hey, miss, what is this?"
 
-"You can call it Nethergarde Keep Bitter," the barmaid said with a smile. "The stuff for warriors facing demons and orcs certainly isn't ordinary either."
+"You can call it Nethergarde Bitter," the barmaid said with a smile. "The stuff for warriors facing demons and orcs certainly isn't ordinary either."
 
 Grede nodded. "Haven't tried it before."
 
@@ -86,7 +86,7 @@ The elf eyed Grede. "Then let's go."
 
 By now Jace glanced at the two of them, then at the drinks, then at the barmaid carrying plates of food over. He casually grabbed a piece of broken jerky from one and popped it in his mouth to test the flavor.
 
-Grede grinned sideways through his beard, staring at Vereesa. "Might as well have never seen the world."
+Grede grinned sideways through his beard, staring at Vereesa. "You've clearly never seen the world."
 
 With that, he downed a whole mug in one go, coughed, and set the empty mug down. "Drink!"
 

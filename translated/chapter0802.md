@@ -4,13 +4,13 @@ The Reliquary had booked two rooms for Jace and the others. Grede had the small 
 
 It was a remarkably spacious and refined room. In a place like Booty Bay, a room like this was truly hard to come by.
 
-Carved wooden chairs, a dark brown carpet, a wide cushioned bed, a bookshelf and wardrobe — it even reminded Jace of the quarters the instructors lived in back at the Wizard Sanctum.
+Carved wooden chairs, a dark brown carpet, a wide cushioned bed, a bookshelf and wardrobe — it even reminded Jace of the quarters the instructors lived in back at the Wizard's Sanctum.
 
 He even felt this wasn't the sort of lodging you ought to find in the middle of an adventure.
 
 Watching Jace examine every corner of the room, Vereesa smiled with a hint of satisfaction — this had certainly been her deliberate arrangement.
 
-She hung up her cloak, slipped off her outer garments one by one, and sat down beside him wearing only close-fitting Underwear inscribed with golden tree-runes. Jace drew a sharp breath at the faint trace of her abs visible at her waist — then a heavy snore tore right through the mood.
+She hung up her cloak, slipped off her outer garments one by one, and sat down beside him wearing only close-fitting underwear inscribed with golden tree-runes. Jace drew a sharp breath at the faint trace of her abs visible at her waist — then a heavy snore tore right through the mood.
 
 That bastard Grede's snoring could be heard clearly even over the noise from downstairs, even through the wall.
 
@@ -20,7 +20,7 @@ Jace set the Kalimdor language lexicon on the nightstand and looked at her. "Nev
 
 The two of them laughed together. Vereesa climbed onto the bed and leaned against Jace's side, looking at the elemental language lexicon. "If only you put a quarter of the effort you're putting into learning the elemental tongue into learning Thalassian. What, you think learning Thalassian is useless? Don't forget, a considerable number of arcane incantations are written in our language."
 
-"I'm trying, Ve," Jace said with a smile.
+"I'm trying, Vere," Jace said with a smile.
 
 "Then let me test you." Vereesa thought for a moment. "If one day you met an honorable Quel'dorei and accidentally cast shadow magic, causing a misunderstanding — and now he's furious — how would you explain yourself?"
 
@@ -38,11 +38,11 @@ Vereesa cursed with a laugh, climbed up, and sat squarely on his chest, pressing
 
 Don't let her slim figure fool you — in combat she moved as lightly as a stoat, but this press actually felt pretty heavy. Jace coughed a couple of times and looked up. Eye to eye, one high and one low, they gazed at each other for a moment, and the smile on her face slowly faded.
 
-"Right, where's Molophil?" she said. "Don't tell me she's hiding somewhere in this room. Though I can't sense her."
+"Right, where's Morophil?" she said. "Don't tell me she's hiding somewhere in this room. Though I can't sense her."
 
 "Why do you ask?" Jace glanced toward the door. "She's on the stairs outside, keeping watch for the three of us. Booty Bay isn't a safe place."
 
-Vereesa lowered her head and fell silent for a moment. "I don't know, Jace. Even though I constantly remind myself she's just a demon, not a person, that she's merely your summoned creature, I still can't completely let my guard down. After all, she's no hellhound or felbat. And… every time I use the fact that she's a demon as a reason to tell myself to stop worrying, I think back to the scenes of her saving me again and again. At Maraudon, at Dire Maul, at Grim Batol. Grim Batol… do you remember?"
+Vereesa lowered her head and fell silent for a moment. "I don't know, Jace. Even though I constantly remind myself she's just a demon, not a person, that she's merely your summoned creature, I still can't completely let my guard down. After all, she's no felhound or felbat. And… every time I use the fact that she's a demon as a reason to tell myself to stop worrying, I think back to the scenes of her saving me again and again. At Maraudon, at Dire Maul, at Grim Batol. Grim Batol… do you remember?"
 
 "Of course I remember," Jace said.
 

@@ -28,7 +28,7 @@ A longsword. Was she a warrior?!
 
 The sword-wielding battle-mage figure grew increasingly crimson as she descended the central platform step by step. The two robed figures behind her spread out to either side, matching her pace perfectly.
 
-The Observatorium's magical light and shadow made judging distance difficult. Just as Jace was estimating how close the sword-wielder was, a dark shimmer like a magic shield flickered over her body.
+The Observatory's magical light and shadow made judging distance difficult. Just as Jace was estimating how close the sword-wielder was, a dark shimmer like a magic shield flickered over her body.
 
 Wait — that shimmer was... shadow energy.
 
@@ -48,9 +48,9 @@ Even from this distance, Jace could feel Khadgar's thrill. He had just won a Pol
 
 But his excitement didn't slow Khadgar down. Knowing that controlling the mage was just to deal with the warrior first, a volley of fierce Arcane Missiles came spinning down from the telescope platform the very next second. The sword-wielder, who had just driven back Jace's and Khadgar's illusions, had to raise her weapon and form an arcane shield to weather the barrage.
 
-Arcane Missiles exploded against the shield in bursts of pale light, engulfing the senses in wave after wave of thunderous noise. But Jace could sense through his soul link that Morofil had appeared behind the third figure.
+Arcane Missiles exploded against the shield in bursts of pale light, engulfing the senses in wave after wave of thunderous noise. But Jace could sense through his Soul Link that Morophil had appeared behind the third figure.
 
-That figure seemed unwilling to tangle with Morofil. She faded into a shadow, trailing starlight as she flew a long distance away to avoid the succubus's thrust. With one mage polymorphed and one demon occupied, Khadgar had room to keep channeling his Arcane Missiles.
+That figure seemed unwilling to tangle with Morophil. She faded into a shadow, trailing starlight as she flew a long distance away to avoid the succubus's thrust. With one mage polymorphed and one demon occupied, Khadgar had room to keep channeling his Arcane Missiles.
 
 Jace emerged from Shadowstep, turned back, and pointed at the sword-wielder struggling to withstand Khadgar's Arcane Missiles as he chanted a Fear spell. The shadow-demon's roar suddenly exploded, overpowering the arcane's gentler hum.
 
@@ -60,9 +60,9 @@ But this advantage didn't last a single second. The flying rabbit reverted to it
 
 The next moment, the fear clinging to the sword-wielder also dissipated in the arcane glow. Regaining her senses, she reached out, enduring an Arcane Missile that exploded against her body, and twisted the next several missiles back toward Jace through some kind of spell!
 
-Khadgar reacted instantly, deflecting several of them, but some flew too fast for him to intercept. Jace couldn't dodge and had to raise a Dark Shield. Even with the Multi-Resistance Elixir protecting him, each impact of Khadgar's missiles against the shield rattled him from his teeth to his brain. The shield was soon nearly shattered.
+Khadgar reacted instantly, deflecting several of them, but some flew too fast for him to intercept. Jace couldn't dodge and had to raise a Shadow Shield. Even with the Multi-Resistance Elixir protecting him, each impact of Khadgar's missiles against the shield rattled him from his teeth to his brain. The shield was soon nearly shattered.
 
-At the same time, Jace focused on the figure Morofil was pursuing, because the dispelled Polymorph and Fear suppression had both come from that one.
+At the same time, Jace focused on the figure Morophil was pursuing, because the dispelled Polymorph and Fear suppression had both come from that one.
 
 She wasn't entirely a mage — she also commanded considerable shadow magic and dispelling spells. She could even use arcane energy to repair her own and her companions' spectral bodies. There was no way she was just a mage.
 
@@ -76,7 +76,7 @@ The muffled thud of a Counterspell exploded from the telescope platform, but Kha
 
 Still, the hasty retreat left Khadgar a step slow. He tried to cast Polymorph on the figure, but she was faster, casting calmly. Khadgar was suddenly turned into a fawn and nearly fell off the telescope.
 
-But even if Khadgar had won the initiative... it wouldn't have been good. The priest figure was slowing Morofil down with a series of unpredictable spells. Though she wasn't attacking Khadgar or Jace directly, she still had room to help her two companions. Even if Khadgar got there first and polymorphed that figure again, she'd just dispel it immediately.
+But even if Khadgar had won the initiative... it wouldn't have been good. The priest figure was slowing Morophil down with a series of unpredictable spells. Though she wasn't attacking Khadgar or Jace directly, she still had room to help her two companions. Even if Khadgar got there first and polymorphed that figure again, she'd just dispel it immediately.
 
 Aegwynn's fragment wasn't stronger than Khadgar, so both mages had no room to unleash larger-scale spells. They could only compete like duelists with guns — speed, spell selection. Because no matter who was even a step slow, whatever powerful magic they were preparing would be wasted.
 
@@ -84,9 +84,9 @@ And whichever side had even the slightest extra advantage, the result was overwh
 
 So Jace had to give Khadgar an edge to make up for their missing priest. He needed to help Khadgar break free. But he'd barely recovered from Khadgar's Arcane Missiles when the sword-wielder was already charging at him with another shadow shield. Without Khadgar's suppression, she was like a tiger freed from its cage.
 
-"Anuniji, durzara, kana!"
+"Anuniji, durzala, kana!"
 
-Jace cast Curse of Weakness as fast as he could before the warrior closed in. The figure's face tightened slightly. Though her pace wasn't affected, the full-force downward strike against Jace's nearly broken Dark Shield probably didn't have her full power behind it — at least it fell far short of the momentum of her first charge.
+Jace cast Curse of Weakness as fast as he could before the warrior closed in. The figure's face tightened slightly. Though her pace wasn't affected, the full-force downward strike against Jace's nearly broken Shadow Shield probably didn't have her full power behind it — at least it fell far short of the momentum of her first charge.
 
 But this sword-wielder's strength and speed were nothing like a mage hiding in an ivory tower. The Guardian's power gathered the strength of all the mages in the Order of Tirisfal, and there would very likely be incredibly powerful battle-mages among them... so this wasn't surprising.
 
@@ -98,7 +98,7 @@ The mage didn't need to interrupt Jace's casting. She just needed to silence him
 
 A few seconds of silence was indeed deadly. He had no choice but to raise Ulthalesh's blade and face the battle-mage head-on. But her martial skill was even more refined than the orc warriors he'd faced in Draenor. With a light flick, she knocked aside his staff, then moved in an almost impossible motion and ran him through the upper abdomen.
 
-Arcane energy pierced his body. A wave of weakness spread from his chest. He didn't feel much pain, but the muffled grunt from Morofil in the distance made his heart clench even more.
+Arcane energy pierced his body. A wave of weakness spread from his chest. He didn't feel much pain, but the muffled grunt from Morophil in the distance made his heart clench even more.
 
 Jace didn't hesitate in his weakness. He immediately dissolved into shadow and retreated several steps. But then several ice spikes flew in from a distance, striking his body continuously or exploding around him.
 

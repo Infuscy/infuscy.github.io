@@ -4,21 +4,21 @@ A sudden sheet of flame engulfed his entire body, filling the room with blisteri
 
 When the fire and black smoke cleared, a tall orc — its head nearly hitting the ceiling — stood before the several of them. Vereesa sighed and covered her eyes.
 
-The orc thumped its chest and said to the guard captain before it, "Well now, Vik Sesso — for all your loyal vigilance guarding the walls of Tirisfal, you still couldn't stop an orc from entering this city..."
+The orc thumped its chest and said to the guard captain before it, "Well now, Vic Sesso — for all your loyal vigilance guarding the walls of Tirisfal, you still couldn't stop an orc from entering this city..."
 
-Vik laughed. "How's the Orcish?"
+Vic laughed. "How's the Orcish?"
 
 "Golkosh!" the orc growled.
 
-The smile on Vik's face vanished in an instant. His eyes went wide with shock. Jace said. "Believe me now?"
+The smile on Vic's face vanished in an instant. His eyes went wide with shock. Jace said. "Believe me now?"
 
-Vik nodded. "Now I truly believe you, Jace."
+Vic nodded. "Now I truly believe you, Jace."
 
 Jace chanted the incantation again and returned to his original form. He took a sip of wine, set down his glass, and said, "That's how I got into Grim Batol. Every last one of those orcs was completely taken in by me, just like you were."
 
-"If I put on that cloak and chant the spell, would I turn into a female orc?" Hennie asked curiously. "Er... you'd better not..." Jace hesitated. Vik looked over in surprise too.
+"If I put on that cloak and chant the spell, would I turn into a female orc?" Henny asked curiously. "Er... you'd better not..." Jace hesitated. Vic looked over in surprise too.
 
-Hennie immediately laughed. "I'm only joking..."
+Henny immediately laughed. "I'm only joking..."
 
 The family chatted lightly about what had happened inside Grim Batol — of course, without saying much about the black dragons, especially everything that had happened before entering Grim Batol.
 
@@ -26,11 +26,11 @@ Come evening, Vereesa went to the Farstrider station in Lordaeron to report in. 
 
 "Jace?"
 
-"Come in, Mom." Jace set down his pen and turned around. Hennie stood in the doorway, looking over at him. "The Grim Batol business... it wasn't as simple as you two made it sound, was it?"
+"Come in, Mom." Jace set down his pen and turned around. Henny stood in the doorway, looking over at him. "The Grim Batol business... it wasn't as simple as you two made it sound, was it?"
 
 "Of course it wasn't that simple," Jace said with a smile, raising a hand. "Otherwise the king wouldn't have given me this ring."
 
-Hennie sat down to the side. "The king of Stormwind also knows this was no simple matter. Vik and I can both see it — you must have been through a great deal of hardship, Jace."
+Henny sat down to the side. "The king of Stormwind also knows this was no simple matter. Vic and I can both see it — you must have been through a great deal of hardship, Jace."
 
 Jace was taken aback. His nose suddenly stung.
 
@@ -40,15 +40,15 @@ He forced himself not to show any expression, not to make a single sound — wan
 
 "Mom... I missed you so much."
 
-"I missed you too," Hennie said softly. "You've grown up. Your mother is prouder of you with each passing day."
+"I missed you too," Henny said softly. "You've grown up. Your mother is prouder of you with each passing day."
 
 "But selfishly, I'd much rather you lived a good, happy life, instead of bearing all these terrible things alone, Jace."
 
-"As long as you and Vik are both well, nothing is frightening," Jace said quietly.
+"As long as you and Vic are both well, nothing is frightening," Jace said quietly.
 
 Even Deathwing himself was no exception.
 
-"We will be, Jace," Hennie said. "We're truly delighted you're back this time. Vik and I both like Vereesa very much. She's beautiful, and I can tell she's nothing like those haughty elves — kind and gentle, and yet a formidable warrior. Your father especially likes that about her. I've long since heard of the reputations of the three sisters in her family, Jace. Treasure her well..."
+"We will be, Jace," Henny said. "We're truly delighted you're back this time. Vic and I both like Vereesa very much. She's beautiful, and I can tell she's nothing like those haughty elves — kind and gentle, and yet a formidable warrior. Your father especially likes that about her. I've long since heard of the reputations of the three sisters in her family, Jace. Treasure her well..."
 
 Jace nodded.
 
@@ -62,7 +62,7 @@ Jace draped that cloak over her and pulled her close. The ranger slowly leaned a
 
 "I thought you were really going to die back then, Jace," Vereesa said, looking at the statue bearing a longsword on the headstone. "I even felt that I should have died under that pit lord's blade too, rather than holding you there, unable to do anything."
 
-"If either of you had died, then my death would have been worth nothing, Wen," Jace said. Vereesa said nothing. The two of them stared at the name "Jace Sesso" carved on the headstone in silence for a long while.
+"If either of you had died, then my death would have been worth nothing, Vere," Jace said. Vereesa said nothing. The two of them stared at the name "Jace Sesso" carved on the headstone in silence for a long while.
 
 Just then, a Brill local bundled in a thick padded jacket passed behind the two of them, heading toward the other side of the cemetery. The footsteps broke the quiet of the moment.
 
@@ -93,16 +93,3 @@ Just then, a figure in white entered the cemetery. Jace recognized him as a mess
 "That's right, it's us," Jace said.
 
 The herald bowed. "His Majesty King Terenas II sends his greetings to you both. His Majesty has already received word of the victory at Grim Batol, and sincerely hopes that the heroes of the Battle of Grim Batol might come to the royal palace. Will the two of you accept His Majesty's invitation?"
-
-## Flags
-
-- **Vaelastraszanoth** (瓦拉斯塔扎尔诺斯): The draconic incantation for the black-dragon-skin cloak (continued from chapters 687 and 693). Jace uses it to transform into an orc for his parents.
-- **Daval Prestor** (达瓦尔·普瑞斯托): The alias Deathwing used while infiltrating the Lordaeron court. Canonical.
-- **Perenolde** (匹瑞诺德): The royal house of Alterac. Canonical.
-- **Alterac** (奥特兰克): The leaderless kingdom whose inheritance Deathwing schemed to claim. From the glossary.
-- **Ner'zhul** (耐奥祖): The orc shaman/warchief who, with Teron Gorefiend, transported black dragon eggs. Canonical.
-- **The three holy artifacts** (三件圣器): The artifacts the black dragons helped seize (in canon: the Demon Soul, the Book of Medivh, and the Skull of Gul'dan). Not named explicitly here.
-- **Northrend** (诺森德): The northern continent. Canonical.
-- **King Terenas II** (泰瑞纳斯二世): King of Lordaeron. Canonical. The herald invites Jace and Vereesa to the royal palace.
-- **Jace Sesso memorial**: The headstone in Brill bears Jace's name — a memorial erected when he was believed dead (after the Nethergarde Keep incident).
-- **Pit lord** (深渊领主): Vereesa references a pit lord from a past battle (likely the Nethergarde Keep incident). Canonical demon type.

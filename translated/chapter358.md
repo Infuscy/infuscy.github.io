@@ -26,7 +26,7 @@ He glanced over instinctively. The surface, which had been reasonably clear, sud
 
 "What the—!"
 
-Jace cursed under his breath and drew the Song of the Blue Sky, slicing the strange hand in two in a single stroke. The hand, wreathed in arcane fire, tumbled back into the water with a howl. He immediately broke into a run toward the underpass of the bridge — only to feel something wet and slimy grab him from behind, reaching over from the other side of the bridge. In the blink of an eye, a mass of weeds and mud enveloped his chest and neck.
+Jace cursed under his breath and drew Azuresong, slicing the strange hand in two in a single stroke. The hand, wreathed in arcane fire, tumbled back into the water with a howl. He immediately broke into a run toward the far end of the bridge — only to feel something wet and slimy grab him from behind, reaching over from the other side of the bridge. In the blink of an eye, a mass of weeds and mud enveloped his chest and neck.
 
 He tried to turn and strike again, but his arms were already being bound fast by rapidly spreading vines!
 
@@ -38,7 +38,7 @@ He held his breath on instinct. Splash. Gurgle…
 
 The cold pool swallowed his vision. His clothes, his cloak, his pack — everything became dead weight in an instant. Every movement of his hands and legs felt tangled and sluggish, as if wrapped in layers of algae and water weeds.
 
-The Song of the Blue Sky in his hand erupted in a blaze of arcane light, illuminating the depths beneath the dark water. Jace saw it clearly: a green monster covered in strange water weeds, staring at him with two faint, dark-red eyes, suspended in the murky, debris-filled water.
+Azuresong in his hand erupted in a blaze of arcane light, illuminating the depths beneath the dark water. Jace saw it clearly: a green monster covered in strange water weeds, staring at him with two faint, dark-red eyes, suspended in the murky, debris-filled water.
 
 Jace tried to cast Fear, but the moment he opened his mouth, water rushed in.
 
@@ -48,7 +48,7 @@ Then Jace blinked. Through the faint, distorted sunlight fractured by the water'
 
 The creature's whole body shuddered. Its eyes burned redder. It let out a low, gurgling sound and tried to raise its other hand to claw at the dwarf above — but the dwarf swung again and shattered its fist.
 
-Yet even as the monster's shattered wrist burst forth with fresh greenery and algae, reforming into a new hand before their eyes!
+Yet the monster's shattered wrist burst forth with fresh greenery and algae, reforming into a new hand before their eyes!
 
 Jace seized the moment while the monster was regenerating and its strength faltered. He wrenched his arm free, pointed at the green monster's eye level, and a blood-red thread shot from his hand, cutting through the illuminated, dark-brown water and plunging into the creature's body near the eye. He wrenched back, tearing out a massive chunk of the monster's tissue and shredding it into the water.
 
@@ -74,7 +74,7 @@ He opened the pack on his back and took a look, laying out dried mushrooms and o
 
 The bottles and vials in Ursula's potion pouch were totally undamaged. Reliable gear.
 
-As Jace sorted out the things that were still reasonably dry, he said, "Definitely shouldn't have messed with that swamp beast. It's no joke."
+As Jace sorted out the things that were still reasonably dry, he said, "Definitely shouldn't have messed with that bog beast. It's no joke."
 
 "If you ask me, it shouldn't have messed with you!" Grede laughed. "That grabbing spell of yours looked like you ripped its spine clean out — I watched the whole thing fall apart with my own eyes."
 
@@ -87,10 +87,3 @@ Grede asked, "You still planning to find that organ? The one you mentioned befor
 "Might take an anatomy expert to make sense of this thing's body structure." Grede said.
 
 "Or an herbalism expert." Jace added, wringing out his shirt.
-
-## Flags
-- **POV:** Third person, Jace.
-- **Names:** 塔隆·血魔 → Teron Gorefiend (per glossary). 温蕾萨 → Vereesa Windrunner. 厄苏拉 → Ursula (per glossary).
-- **Lore terms:** 碧空之歌 → Song of the Blue Sky. 恐惧术 → Fear. 沼泽兽 → swamp beast. 奥术之火 → arcane fire. 奥术之光 → arcane light.
-- **Spell note:** Jace's "grabbing magic" (抓人的魔法) — the blood-red thread that tears out the monster's tissue — is rendered descriptively; it reads as a shadow/life-drain effect consistent with his warlock abilities.
-- **Tone note:** The underwater fight is tense and physical; Jace's relief afterward is played with his characteristic dry understatement.

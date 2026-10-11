@@ -1,6 +1,6 @@
 ## Chapter 1529: The "Missionaries" of Shadowforge City
 
-After entering Shadowforge City from the Dark Iron thoroughfare, navigating became much easier with road directions, buildings for reference, and the memory of his previous visit.
+After entering Shadowforge City from the Dark Iron Highway, navigating became much easier with road directions, buildings for reference, and the memory of his previous visit.
 
 At this point, Jace realized that his past life's impressions of Shadowforge City and the whole of Blackrock Depths were almost entirely useless. This underground capital of the Dark Iron kingdom might be the place that differed most drastically from its game counterpart.
 
@@ -8,13 +8,13 @@ Jace led the group through a passage beside a great bridge, squeezing up stairwa
 
 Grede barely dared to speak the whole way, nervously watching every Dark Iron citizen who approached them. It seemed Jace's comment before entering — that his Dwarvish sounded least like a Dark Iron's — had genuinely wounded him.
 
-Jace was rather glad he'd given that warning in the tunnel. Otherwise, with Grede's personality, dressed in dark skin and inside Shadowforge City, he'd have wanted to clash with every single Ironfury soldier.
+Jace was rather glad he'd given that warning in the tunnel. Otherwise, with Grede's personality, dressed in dark skin and inside Shadowforge City, he'd have wanted to clash with every single Anvilrage soldier.
 
 "After seeing so many Thorium Brotherhood members in Grim Batol, I thought I was used to being surrounded by Dark Irons." At an unnoticed corner on the stairway landing, Grede finally seized a chance to speak, crowding close to Jace and Vereesa. "But now that I'm here, I realize I was way too young!"
 
 "Remember, before the Dark Portal orcs came to the Hinterlands, every Wildhammer knew the Dark Irons were the most evil in the world... and Shadowforge City was a demon's nest. Which it basically is — though I'll admit it's a pretty impressive and majestic demon's nest."
 
-"This is the downside of always sending Jace on disguise and infiltration missions," Sora said quietly. "He's been spending all his time in dangerous orc territory. In my book, compared to orcs, vicious satyrs, and the Burning Legion's endless demons, Dark Iron dwarves are practically the most normal mortals you'll meet."
+"This is the downside of always sending Jace on disguise and infiltration missions," Sola said quietly. "He's been spending all his time in dangerous orc territory. In my book, compared to orcs, vicious satyrs, and the Burning Legion's endless demons, Dark Iron dwarves are practically the most normal mortals you'll meet."
 
 "Alright, alright, I admit it." Grede scratched his smooth black forehead.
 
@@ -42,7 +42,7 @@ Vereesa shot her a glare, then her eyes snapped back. Heavy footsteps sounded fr
 
 "You're saying that's a tauren? A tauren in Shadowforge City? There aren't even that many in Booty Bay!" Grede tried to keep his voice down, but his shock nearly shredded his throat.
 
-"How could there be a tauren here?" Sora was startled too.
+"How could there be a tauren here?" Sola was startled too.
 
 Only Jace showed no surprise on his face. It wasn't that he doubted Vereesa's judgment — it was that this city wasn't one hundred percent incapable of having tauren from Kalimdor. His past life memories weren't entirely useless after all.
 
@@ -58,9 +58,9 @@ Considering that the last time Jace had entered Shadowforge City as a human, man
 
 The only things that earned respect from Dark Iron dwarves here were Dark Iron nobles like Thaurissan, and the arena champions of Shadowforge City. This tauren clearly wasn't Thaurissan, nor could he be an arena champion, because non-Dark Iron pit fighters were captured slaves. Even if they won their freedom, they were expelled from Shadowforge City.
 
-So, was he a flamewarden?
+So, was he a pyromancer?
 
-There was indeed a tauren flamewarden in the game, even a minor boss in the Temple of Thaurissan. But this tauren wasn't wearing the signature fiery robe of a flamewarden, had no fire elemental traits, and carried no elemental-communing staff or similar implement. Instead, he had a battle-axe slung over each shoulder and at his hip, like a foreign mercenary.
+There was indeed a tauren pyromancer in the game, even a minor boss in the Shrine of Thaurissan. But this tauren wasn't wearing the signature fiery robe of a pyromancer, had no fire elemental traits, and carried no elemental-communing staff or similar implement. Instead, he had a battle-axe slung over each shoulder and at his hip, like a foreign mercenary.
 
 Another organization's name immediately surfaced in Jace's mind — one that, in the game, had deeply infiltrated Shadowforge City. But he couldn't make a snap judgment. This tauren wasn't wearing their signature purple robes. Was he just a mercenary, and Jace was overthinking?
 
@@ -92,7 +92,7 @@ Jace nodded. At this time, the Twilight's Hammer had just settled in Kalimdor an
 
 "That story," Jace said. "A friend from the Dagger Society told me the Twilight's Hammer clan has been developing on another continent and recently showed signs of spreading here. It seems Shadowforge City is one of their targets."
 
-Sora's brow was furrowed. Not just hers — everyone in the group had heard, to varying degrees, about the unspeakable entities behind the elemental lords, and about Cho'gall's bizarre faith that even his teacher Gul'dan found disturbing.
+Sola's brow was furrowed. Not just hers — everyone in the group had heard, to varying degrees, about the unspeakable entities behind the elemental lords, and about Cho'gall's bizarre faith that even his teacher Gul'dan found disturbing.
 
 Needleflame's expression stiffened too. She sensed the conversation sliding toward the darkest malice buried in Azeroth — the thing Jace had mentioned before.
 

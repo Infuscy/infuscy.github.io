@@ -96,7 +96,7 @@ A bizarre mix of sweat and cologne hit him in the face. The king's sweat had alr
 
 But compared to his stiff expression from before, Varian seemed to have loosened up quite a bit — after all, he'd just discovered he wasn't the biggest fool in the whole yard.
 
-He said in a low voice, "You are the hero of Stonewatch. I learned of your deeds from Colonel Todman's letter — single-handedly defending a watchtower, saving the soldiers of Stonewatch, keeping them from being attacked from all sides of the wall with stones and crossbow bolts. Without you, our casualties might have multiplied several times over, and this fortress might have fallen into gnoll hands."
+He said in a low voice, "You are the hero of Stonewatch. I learned of your deeds from Colonel Tordman's letter — single-handedly defending a watchtower, saving the soldiers of Stonewatch, keeping them from being attacked from all sides of the wall with stones and crossbow bolts. Without you, our casualties might have multiplied several times over, and this fortress might have fallen into gnoll hands."
 
 Although the king's voice was still a bit tense and stiff, it was already magnetic and compelling. After he finished speaking, Jace clearly heard him let out a breath and then say, "If you have any wish, speak it now. I will do my best to grant it."
 
@@ -104,27 +104,12 @@ Although the king's voice was still a bit tense and stiff, it was already magnet
 
 Varian said, "Those who serve the kingdom loyally must also receive tangible rewards, Mr. Jace Sesso. You are not a member of the military, so I cannot grant you honors at my discretion. You may state your request directly."
 
-"I…" Jace pretended to hesitate for a moment, then said, "I hope to become a formal apprentice at the Wizard Sanctum, Your Majesty."
+"I…" Jace pretended to hesitate for a moment, then said, "I hope to become a formal apprentice at the Wizard's Sanctum, Your Majesty."
 
 "What an ambitious young man," one of the nobles nearby murmured.
 
-"Your dedication to learning shames me," Varian Wrynn said. "It shall be as you wish. I will go to the Wizard Sanctum in person and petition the mages and elders there for your qualification to become a formal apprentice and study magic. If they are willing, I hope you will also cherish this opportunity, strive hard, and eventually become a royal mage the likes of Nielas Aran — a pillar of magic for the kingdom, making even more outstanding contributions to the kingdom and all the people of the Alliance!"
+"Your dedication to learning shames me," Varian Wrynn said. "It shall be as you wish. I will go to the Wizard's Sanctum in person and petition the mages and elders there for your qualification to become a formal apprentice and study magic. If they are willing, I hope you will also cherish this opportunity, strive hard, and eventually become a royal mage the likes of Nielas Aran — a pillar of magic for the kingdom, making even more outstanding contributions to the kingdom and all the people of the Alliance!"
 
 "I will be waiting for you at Stormwind Keep, Mr. Sesso."
 
 Somehow, Jace hadn't been thinking that far ahead, but now that Varian had said it, he suddenly felt a surge of emotion. A royal mage… it was a pie in the sky, but man, it smelled good.
-
-## Flags
-
-- **托德曼上校 → Colonel Todman**: OC officer, not in glossary. Phonetic (Tuo-de-man → Todman); tentative.
-- **伯瓦尔·弗塔根 → Bolvar Fordragon**: Canonical; not in glossary.
-- **安度因·乌瑞恩 → Anduin Wrynn**: Canonical; not in glossary.
-- **聂拉斯·埃兰 → Nielas Aran**: Canonical Stormwind mage; not in glossary.
-- **黄金王子 → Golden Prince**: Epithet for Arthas; not in glossary.
-- **国王万岁 → Long Live the King**: Chapter title.
-- Source typo handled: 标本官方小说 → treated as 某部官方小说 ("a certain official novel").
-- Source typo handled: 路他是同龄人 → treated as 和/与他是同龄人 ("was his peer").
-- 古龙水 rendered as "cologne."
-- 饼 rendered idiomatically as "pie in the sky" (promissory reward).
-- 胡渣的丰度 rendered as "how full the stubble could get."
-- 楞 rendered as "fool" (awkward/simpleton register).

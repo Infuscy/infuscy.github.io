@@ -18,15 +18,15 @@ Whoever was outside, he honestly wanted to kick them in the face. "Who is it?"
 
 "Master?"
 
-Molofier's voice?
+Morophil's voice?
 
 Jace said, "What are you knocking for at this hour?! On purpose?"
 
-"Of course not." Molofier pushed the door open with a finger, glanced at the two of them, and wore the smile of someone enjoying the show.
+"Of course not." Morophil pushed the door open with a finger, glanced at the two of them, and wore the smile of someone enjoying the show.
 
 "Hey!" Vereesa bit her lip, pulling the cloak up to her neck, caught her breath and said, "Do not come in, demon! Are you insane?!"
 
-"Not yet, at any rate." Molofier glanced at the window. "Keep your voice down. Go look outside, Master. I would hate for you to miss something."
+"Not yet, at any rate." Morophil glanced at the window. "Keep your voice down. Go look outside, Master. I would hate for you to miss something."
 
 Jace looked back outside. It was the middle of the night and snowing hard — what could possibly be out there.
 
@@ -82,9 +82,9 @@ It was probably only after the Battle of Mount Hyjal, when Archimonde's destruct
 
 But judging by what they had seen inside the Nightmare — the fog-shrouded, blood-red forest, the countless twisted monsters already corrupted — even eroding the Dream from the edges, going deep into it was already horrifying enough.
 
-"Did you tell her what happened to us in Kesselir?" Jace asked.
+"Did you tell her what happened to us in Kel'Theril?" Jace asked.
 
-"I did," Sola said. "I summoned her here specifically to tell her about what Mossa endured and witnessed regarding the satyrs' crimes. But..."
+"I did," Sola said. "I summoned her here specifically to tell her about what Mosa endured and witnessed regarding the satyrs' crimes. But..."
 
 Seeing her hesitate, Vereesa asked, "What is it?"
 
@@ -105,10 +105,3 @@ Jace cleared his throat, guilty. "What I mean is — at least you are welcome he
 "Travel expert," Vereesa finished for him. "Not wrong," Jace said.
 
 Sola nodded, but a shadow still seemed to linger in her heart.
-
-## Flags
-- **POV**: Third person throughout.
-- **Name renderings**: 伊森德雷 → Ysondre (canon corrupted green dragon/Dream Guardian); 泰拉尔 → Taerar; 莱索恩 → Lethon; 艾莫莉丝 → Emeriss (the other three canonical Dream Guardians); 诺达希尔 → Nordrassil (the World Tree); 阿克蒙德 → Archimonde (canon); 海加尔山圣战 → the Battle of Mount Hyjal.
-- **Lore notes**: The four Ysera's Dream Guardians (Ysondre/Taerar/Lethon/Emeriss) are canonical green dragons corrupted by the Nightmare. Nordrassil's warding of the Emerald Dream and its damage during Archimonde's attack on Mount Hyjal are canonical. The fanfic dates the Nightmare's rapid spread to the post-Hyjal period when Nordrassil was mortally damaged — a logical extrapolation.
-- **Continuity**: Reveals that Sola's isolation from other green dragons was caused by her own Nightmare corruption blocking communication, not because the others were hunting her — recontextualizing her earlier fearful statements. This means the Dream Guardians may still be sane, and the Nightmare's spread is less advanced than Jace feared.
-- **Tone**: Intimate scene handled with the original's directness; Vereesa's speech about the group's "strange characters" is a warm, self-deprecating welcome that ties the party together. Molofier's interruption preserves her sardonic voice.

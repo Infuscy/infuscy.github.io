@@ -34,7 +34,7 @@ He glanced at Jace and tilted his head with a smile. "Of course, Master, I'm not
 
 "Of course," Jace nodded. "So what's going on between the king and queen?"
 
-"Ah." Mathias slowly narrowed his eyes. "Isn't some friction between a young couple perfectly normal? Though I probably shouldn't say this, but women tend to feel insecure when they's carrying a child — especially when her husband is a king, and a wealthy, beautiful, nearly flawless foreign princess has suddenly dropped into his domain. I think that's only human. Though King Varian has done his best to reduce contact with the princess to set the queen's mind at ease, the queen has every right not to trust him. That doesn't mean there's an unbridgeable rift between them..."
+"Ah." Mathias slowly narrowed his eyes. "Isn't some friction between a young couple perfectly normal? Though I probably shouldn't say this, but women tend to feel insecure when they're carrying a child — especially when her husband is a king, and a wealthy, beautiful, nearly flawless foreign princess has suddenly dropped into his domain. I think that's only human. Though King Varian has done his best to reduce contact with the princess to set the queen's mind at ease, the queen has every right not to trust him. That doesn't mean there's an unbridgeable rift between them..."
 
 "I didn't come here to gossip about scandal or relationships, Mathias. I'm only concerned with my actual job." Jace drummed his fingers lightly on the armrest. "What if that Princess Prestor used a curse to get the king? Shadow magic can control minds — or it can exert influence even more discreetly... Simply planting a thought in the queen's mind out of nowhere would be dangerous enough."
 
@@ -54,7 +54,7 @@ Mathias gave a bitter laugh. "Do you know how many rumors there are about you an
 
 Mathias couldn't quite hide the anguish in his eyes, but after hearing Jace out, his brows relaxed slightly.
 
-"But the queen has stopped attending almost all public events now, including some of the less important banquets. And there aren't any particularly major palace banquets coming up..." He leaned back and sat thinking for a moment. "I know the king takes Queen Tiffin for a walk in the Park every evening. If a single look is all you need, you could head to the Park district around that time and you'd probably run straight into the queen. Would that count as the simple 'glance' you mentioned?"
+"But the queen has stopped attending almost all public events now, including some of the less important banquets. And there aren't any particularly major palace banquets coming up..." He leaned back and sat thinking for a moment. "I know the king takes Queen Tiffin for a walk in the palace garden every evening. If a single look is all you need, you could head to the garden around that time and you'd probably run straight into the queen. Would that count as the simple 'glance' you mentioned?"
 
 "That works." Jace checked his watch. "Roughly when?"
 

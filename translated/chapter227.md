@@ -14,7 +14,7 @@ Jace still remembered that sound to this day — the day he'd run into that towe
 
 Ever since then, he'd stopped wanting to think about that "Hogger the newbie killer" meme. This monster had brought far too much disaster to Elwynn Forest.
 
-The soldiers garrisoning Westfall Keep, the residents, the travelers and merchants maimed or killed, the wounded he'd seen that day in Goldshire… and especially that Stormwind guard, the one with blood streaming from inside his helmet, the one who'd held the shield against Hogger and taken everything for Jace and Grede — Jace still remembered him.
+The soldiers garrisoning Westbrook Garrison, the residents, the travelers and merchants maimed or killed, the wounded he'd seen that day in Goldshire… and especially that Stormwind guard, the one with blood streaming from inside his helmet, the one who'd held the shield against Hogger and taken everything for Jace and Grede — Jace still remembered him.
 
 What had become of him now? Dead? Paralyzed? Or was he still holding the line on Stormwind's front lines?
 
@@ -76,7 +76,7 @@ The dwarf pulled out his last Shadow Protection Potion and downed it in one go.
 
 "Sazeno," Jace said. "Cover me and Grede, just like that day on Stonewatch!"
 
-The imp poked its head out from behind Jace. He could feel it clutching the edge of the warlock's pack, nearly tearing it apart.
+The imp poked its head out from behind Jace. He could feel it clutching the edge of the warlock's bag, nearly tearing it apart.
 
 The night wind seemed to sense something, surging and howling through the trees. Grede climbed up on the log and leaped out, charging through the underbrush at a terrifying speed for a short fellow.
 
@@ -143,13 +143,3 @@ He released a single-target Fear spell from more than ten meters away, trying to
 Then the necromancer turned around. Its eyes glowed with a dull yellow necrotic light.
 
 This thing was undead!
-
-## Flags
-
-- Hogger finally appears — the legendary gnoll boss of Elwynn Forest, towering even among his own kind, surrounded by a retinue of guards.
-- A gnoll necromancer is discovered performing a ritual over a pile of corpses — necromancy in Elwynn Forest is deeply out of place and alarms Jace.
-- Jace's Mage Armor casting has improved dramatically — smooth and controlled, no more mana waste or explosions, a sign of his growing spellcasting discipline.
-- Hogger displays tactical intelligence: instead of engaging the flashy mage, he goes straight for Grede to protect the necromancer — he understands priorities.
-- A second caster — a small gnoll with a short staff — ambushes Jace with a fireball from behind, revealing the gnoll camp has multiple spellcasters.
-- The Shadow Protection Potion proves its worth: the Curse of Agony from the undead necromancer only causes mild itching instead of crippling pain.
-- The necromancer is undead itself — Fear spells have no effect on it, raising the stakes of the fight.

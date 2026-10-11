@@ -14,21 +14,21 @@ Morophil naturally had no interest in going toe-to-toe with this mountain king h
 
 Jace certainly wasn't as idle as those two. He was currently working with the imp to draw up blueprints for the modified summoning circle. He'd been at this for the past several days, and still needed to embed a shadow-binding circle around the outside of the summoning circle.
 
-This wasn't meant to restrain Kallrez like at the Storm Altar. That demon's behavior over this period had basically earned Jace's trust. The fact that there'd been no news from the Wizard Sanctum or the Kirin Tor about a powerful demon lord appearing near Duskwood or the Black Morass basically confirmed the situation.
+This wasn't meant to restrain Kallrez like at the Altar of Storms. That demon's behavior over this period had basically earned Jace's trust. The fact that there'd been no news from the Wizard's Sanctum or the Kirin Tor about a powerful demon lord appearing near Duskwood or the Black Morass basically confirmed the situation.
 
 So there was no need to use a demon-binding circle to shackle him tightly inside the tower the way they'd originally envisioned.
 
 This shadow-binding circle was to prevent the demon's power from swelling too rapidly and corrupting the entire tower into a black demon tower in short order.
 
-This circle was something Galders had gotten from somewhere — unknown origin, but remarkably effective. Galders had used it extensively in many rooms of the basement. Otherwise, given the number of demons the Dagger Society summoned, the patch of grass outside the Slaughtered Lamb tavern would've long since yellowed and rotted its way into becoming another Hellfire Peninsula.
+This circle was something Zardeth had gotten from somewhere — unknown origin, but remarkably effective. Zardeth had used it extensively in many rooms of the basement. Otherwise, given the number of demons the Dagger Society summoned, the patch of grass outside the Slaughtered Lamb tavern would've long since yellowed and rotted its way into becoming another Hellfire Peninsula.
 
 Even though Sola had agreed to come bless the timber in this tower to minimize the influence of demonic power as much as possible, Jace had to have his own means to restrict the leakage of evil energy at the source.
 
-Because from this point on, the most important thing was to ensure that the Void energy within Ilgara's Tower didn't flow into the Stonewatch Forest and corrupt the environment here.
+Because from this point on, the most important thing was to ensure that the Void energy within the Tower of Ilgalar didn't flow into the Stonewatch Forest and corrupt the environment here.
 
 And of course, this wasn't purely to protect nature or maintain the beautiful scenery around the tower.
 
-If they wanted Amy to cover up everything they were doing, if they wanted Varian Wrynn to help keep their crew's secret in the future, if they wanted their plan to go undetected by the Wizard Sanctum and the Kirin Tor — this was the most fundamental work.
+If they wanted Amy to cover up everything they were doing, if they wanted Varian Wrynn to help keep their crew's secret in the future, if they wanted their plan to go undetected by the Wizard's Sanctum and the Kirin Tor — this was the most fundamental work.
 
 Just as he was concentrating on finding anything unsuitable about the circle on the scroll, Sazeno, standing beside him, suddenly turned his head toward the window. Morophil had also crept up to Jace's side at some point.
 
@@ -36,35 +36,35 @@ Grede was still cursing below. Jace looked at the succubus. "What's happening ou
 
 "A group of elves is coming, master," Morophil said, sitting in a chair beside him. "I believe they've come looking for you."
 
-"The Magisters are here." Jace immediately set down what he was in his hands and leaned over the railing, shouting in Demonic at the two felhounds below: "Hide!"
+"The Magisters are here." Jace immediately set down what was in his hands and leaned over the railing, shouting in Demonic at the two felhounds below: "Hide!"
 
-The two Dazar'm split up and ducked into the dark rooms on either side of the library. Morophil and Sazeno both obediently turned invisible.
+The two Dazarm split up and ducked into the dark rooms on either side of the library. Morophil and Sazeno both obediently turned invisible.
 
 Jace threw on his cloak and ran all the way downstairs to the entrance. Over there, Grede had also set down his weapon, casually combed his hair and beard, put on his coat, and darted over.
 
 By this time, the elves had already approached from the deep forest.
 
-To transport this Taralfsin Crystal, the Magisters had really gone all out. Four red and green striders pulled the crystal transport wagon loaded with the magic crystal, emerging from the forest under the escort of several dragonhawk riders on foot.
+To transport this Taralfsin Crystal, the Magisters had really gone all out. Four red and green hawkstriders pulled the crystal transport wagon loaded with the magic crystal, emerging from the forest under the escort of several dragonhawk riders on foot.
 
 Five elven magisters flanked the transport wagon on both sides. The magister at the head of the group was an elf with a black hair braid. He wore a rather form-fitting crimson robe and held a golden staff — he clearly held considerable status.
 
-Jace felt he looked somewhat familiar. He seemed to have met him at the ceremony for Wynneza's promotion to ranger-lord, but couldn't recall who he was.
+Jace felt he looked somewhat familiar. He seemed to have met him at the ceremony for Vereesa's promotion to Ranger Lord, but couldn't recall who he was.
 
-"Welcome to Ilgara's Tower, friends of Quel'Thalas," Jace called out, walking forward.
+"Welcome to the Tower of Ilgalar, friends of Quel'Thalas," Jace called out, walking forward.
 
-"Master Jace Sesso, Lord Grede Thunderfist," the leading magister said with a slight bow. "I am Rommath, deputy to the Grand Magister. I come here also representing His Majesty the Sun King and Prince Kael'thas, to bring their sincere regards to you and Ilgara's Tower."
+"Master Jace Sesso, Lord Grede Thunderfist," the leading magister said with a slight bow. "I am Rommath, deputy to the Grand Magister. I come here also representing His Majesty the Sun King and Prince Kael'thas, to bring their sincere regards to you and the Tower of Ilgalar."
 
 "Good morning, Master Rommath," Grede walked over and shook his hand.
 
-Jace nodded respectfully as well. This Rommath was precisely the one who would take over the position of Grand Magister after Quel'Thalas was destroyed by the Scourge and Belvar fell defending the city, in another timeline.
+Jace nodded respectfully as well. This Rommath was precisely the one who would take over the position of Grand Magister after Quel'Thalas was destroyed by the Scourge and Belo'vir fell defending the city, in another timeline.
 
 Of course, long before he succeeded the Grand Magister, he'd already become quite famous in Dalaran and had earned the honorific of "Archmage" even among human mages.
 
-Jace hadn't expected Quel'Thalas to send such an important figure to transport the magic crystal, and he'd even claimed to represent the Sunstrider dynasty. It seemed Wynneza had been right — the Dar'Khan affair had really caused an enormous uproar in Quel'Thalas this time.
+Jace hadn't expected Quel'Thalas to send such an important figure to transport the magic crystal, and he'd even claimed to represent the Sunstrider dynasty. It seemed Vereesa had been right — the Dar'Khan affair had really caused an enormous uproar in Quel'Thalas this time.
 
 "I didn't expect you to arrive so quickly, Archmage. I'm grateful to the Grand Magister for still keeping my affairs here in mind," Jace said.
 
-"After all, this time the fault lies on our side." Rommath spoke as he looked up to survey Ilgara's Tower. "The Grand Magister is very grateful to you for recovering the Torrent Staff of the Sunwell for us. Judging by the information obtained from our subsequent interrogation of Marisia and her accomplices, it's hard to imagine what a devastating disaster it would've brought upon all of Quel'Thalas if they had continued to wield that staff. I'm afraid his target wasn't only directed at you, Master Sesso."
+"After all, this time the fault lies on our side." Rommath spoke as he looked up to survey the Tower of Ilgalar. "The Grand Magister is very grateful to you for recovering the Staff of the Torrent of the Sunwell for us. Judging by the information obtained from our subsequent interrogation of Malicia and her accomplices, it's hard to imagine what a devastating disaster it would've brought upon all of Quel'Thalas if they had continued to wield that staff. I'm afraid his target wasn't only directed at you, Master Sesso."
 
 Jace nodded. Rommath continued, "So if there is any other information regarding Dar'Khan and his secret plans, I hope you will contact the Magisters or the Farstriders as soon as possible. This is very important to us."
 

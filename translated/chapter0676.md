@@ -1,6 +1,6 @@
 ## Chapter 676: The Chain of Will
 
-Evening. The Pig and Whistle Inn.
+Evening. The Pig and Whistle Tavern.
 
 The difference between the Gilded Rose and the Pig and Whistle… was almost like the difference between what you saw as a tourist in Stormwind and what it actually felt like to live there.
 
@@ -32,11 +32,13 @@ Grede said, "Then you'd better be careful. Don't accidentally set your clothes o
 
 Grede sucked in a breath. "Damn, you actually spent that much… Did you get those clothes just to go to Quel'Thalas?"
 
-Jace said, "Trying to out-dress those elven nobles — two or three gold wouldn't make any difference, and even twenty or thirty gold probably wouldn't either. I just thought a demon-cloth robe would make me look too evil. Those elves would recognize it for sure. But my usual everyday clothes would've been too shabby. So at least I dressed up properly, to show a formal attitude."
+Jace said, "Trying to out-dress those elven nobles — two or three gold wouldn't make any difference, and even twenty or thirty gold probably wouldn't either. I just thought a felcloth robe would make me look too evil. Those elves would recognize it for sure. But my usual everyday clothes would've been too shabby. So at least I dressed up properly, to show a formal attitude."
 
 Grede took his beer mug from the barmaid. "Makes sense. Then leaving the fire stuff aside, anything else? What other benefits does the essence's blessing have?"
 
-"Still not sure. It might have improved my constitution, but I don't know how to test it yet," Jace said. "Why don't I punch you and we'll find out. Simple and direct."
+"Still not sure. It might have improved my constitution, but I don't know how to test it yet," Jace said.
+
+"Why don't I punch you and we'll find out. Simple and direct," Grede said.
 
 "Get fucked," Jace said flatly.
 
@@ -44,7 +46,7 @@ Grede chuckled, then lowered his voice. "I'll ask, then — what's it like being
 
 "What?" Jace blinked.
 
-"That was the Dragonqueen Alexstrasza, for fuck's sake!" Grede leaned across the table. "The one holding you was a terrifying monster out of myth and legend. A real red dragon. The queen of the red dragons! She was probably born when the world was created, the kind of being that makes her name on the very first page of the history books."
+"That was the Dragonqueen Alexstrasza, for fuck's sake!" Grede leaned across the table. "The one holding you was a terrifying monster out of myth and legend. A real red dragon. The queen of the red dragons! She was probably born when the world was created, the kind of being whose name is on the very first page of the history books."
 
 "So her… uh." The dwarf patted his chest and waggled his eyebrows. "Big?"
 
@@ -76,9 +78,9 @@ So it was easy to see that the elementals had zero interest in making the things
 
 "Therazane," Jace said.
 
-"Right." Grede set down his beer. "And Ragnaros, the Fire Lord the Dark Iron dwarves worship?"
+"Right." Grede set down his beer. "And Ragnaros, the Firelord the Dark Iron dwarves worship?"
 
-Jace nodded. "And the other two — the Water Lord and the Wind Lord. Legend says they ruled this world a long, long time ago."
+Jace nodded. "And the other two — the Tidehunter and the Windlord. Legend says they ruled this world a long, long time ago."
 
 "Sounds terrifying, especially after seeing that Stone Princess." Grede stared at the iron chain. "Since such terrifying monsters made this thing, have you tried what it can actually do?"
 

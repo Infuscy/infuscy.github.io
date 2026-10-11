@@ -2,7 +2,7 @@
 
 At noon, the Cathedral of Light was buzzing with people. Even though the weather was cold and overcast, with a bit of rain threatening, it didn't dampen the enthusiasm of Stormwind's citizens coming to offer their prayers to the Holy Light.
 
-Jace guessed it was because so many of Stormwind's young men had joined King Varian Wrynn's army — some had already departed for Morgan's Post, others were gathering and garrisoning at both ends of the Lake Everstill Bridge. Their wives, children, siblings, and parents naturally wanted to come to the Cathedral to pray for safe travels, just like his own father and mother.
+Jace guessed it was because so many of Stormwind's young men had joined King Varian Wrynn's army — some had already departed for Morgan's Vigil, others were gathering and garrisoning at both ends of the Lake Everstill Bridge. Their wives, children, siblings, and parents naturally wanted to come to the Cathedral to pray for safe travels, just like his own father and mother.
 
 Since bringing his parents to Stormwind, this was the first time Jace had accompanied them to church. The time he'd received Archbishop Alonsus Faol's blessing in front of the Cathedral didn't count.
 
@@ -14,25 +14,25 @@ Following the queue as it moved forward, they'd made it under the Cathedral's ea
 
 "You volunteering to come to church with me this time — I'm actually surprised, Jace."
 
-Hennie smiled, glancing up at her son. "I always said that once you grew up, you'd understand a lot of things. Getting to know the Holy Light a little wouldn't hurt."
+Henny smiled, glancing up at her son. "I always said that once you grew up, you'd understand a lot of things. Getting to know the Holy Light a little wouldn't hurt."
 
-"I've done more than 'get to know' the Holy Light." Jace held up Tyr's Hand in front of her. "Look, Mom. I'm practically a Holy Light champion now."
+"I've done more than 'get to know' the Holy Light." Jace held up the Sigil of Tyr's Guardian in front of her. "Look, Mom. I'm practically a champion of the Holy Light now."
 
-Hennie looked at the seal and lightly tapped Jace's forehead. "Don't go parading around calling yourself a 'Holy Light champion.'"
+Henny looked at the seal and lightly tapped Jace's forehead. "Don't go parading around calling yourself a 'champion of the Holy Light.'"
 
 "Caught the first time I showed it off." Jace sighed. "Alright."
 
 "Second time," he added quietly.
 
-Hennie chuckled and followed the crowd forward. They had reached the great hall of the Cathedral. Mother greeted the friar greeting parishioners at the door, and the friar gave Jace a slight nod, welcoming the Protector of Tyr, and addressed him as Master Sesso.
+Henny chuckled and followed the crowd forward. They had reached the great hall of the Cathedral. His mother greeted the friar welcoming parishioners at the door, and the friar gave Jace a slight nod, welcoming the Protector of Tyr, and addressed him as Master Sesso.
 
 She already knew Jace had been given the title of Protector by Faol, but she still seemed unsettled by the "master" address. When the friars called her son "Master," she blinked in surprise.
 
-Archbishop Faol's student, Bishop Benedictus — who managed the Church's affairs in the Stormwind Kingdom when the archbishop was away — stood not far behind, quietly discussing something with two young friars.
+Archbishop Faol's student, Bishop Benedictus — who managed the Church's affairs in the Kingdom of Stormwind when the archbishop was away — stood not far behind, quietly discussing something with two young friars.
 
 Jace told his mother he'd catch up, then slipped through the crowd of people asking the friars questions and headed toward Benedictus.
 
-"Master Jace Sesso?" Benedictus noticed the tall young man, looked up slightly, and greeted him. "Good afternoon. I thought you would have accompanied His Majesty Varian to Morgan's Post."
+"Master Jace Sesso?" Benedictus noticed the tall young man, looked up slightly, and greeted him. "Good afternoon. I thought you would have accompanied His Majesty Varian to Morgan's Vigil."
 
 "There are some matters I needed to handle back in Stormwind, including reporting to the Church about the necromancy at Blackrock Spire, Your Grace," Jace said.
 
@@ -42,7 +42,7 @@ Jace told his mother he'd catch up, then slipped through the crowd of people ask
 
 "Of course." Benedictus nodded. "Archbishop Faol takes the Northrend situation very seriously. He has dispatched Church friars to accompany the Kirin Tor and the Silver Hand to the Howling Fjord, and the harbor has been strictly checking ships from Northrend and Stratholme for years. Are you suggesting the plague at Blackrock Spire might share the same mastermind as the plague in Northrend?"
 
-"We can't rule it out." Jace glanced at the passing citizens nearby and lowered his voice. "His Majesty Varian has ordered me to prepare for the possibility of a Black Dragon necrotic plague. With the help of the Silver Hand, the Church, and the Kirin Tor mages, I believe we can handle it. But the rear — Stormwind itself — absolutely cannot let its guard down. After the Blackrock Spire campaign ends, if returning soldiers and camp followers are carrying the plague, it could spread to every kingdom, or even the entire Alliance."
+"We can't rule it out." Jace glanced at the passing citizens nearby and lowered his voice. "His Majesty Varian has ordered me to prepare for the possibility of a black dragon necrotic plague. With the help of the Silver Hand, the Church, and the Kirin Tor mages, I believe we can handle it. But the rear — Stormwind itself — absolutely cannot let its guard down. After the Blackrock Spire campaign ends, if returning soldiers and camp followers are carrying the plague, it could spread to every kingdom, or even the entire Alliance."
 
 "Your concerns are well-founded, Master Sesso," Benedictus said.
 
@@ -52,19 +52,19 @@ Jace told his mother he'd catch up, then slipped through the crowd of people ask
 
 To be honest, Jace couldn't be certain. But ever since he'd seen those strange corpses at Blackrock Spire, he couldn't shake the thought.
 
-In another timeline, the Scourge's invasion didn't start with Arthas pulling Frostmourne from its pedestal. It started with grain stores and silos across Eastern Weald. The Cult of the Damned, founded by Kel'Thuzad, secretly released plague into every region, letting it spread through grain carts until it was too late to reverse.
+In another timeline, the Scourge's invasion didn't start with Arthas pulling Frostmourne from its pedestal. It started with grain stores and silos across Eastweald. The Cult of the Damned, founded by Kel'Thuzad, secretly released plague into every region, letting it spread through grain carts until it was too late to reverse.
 
 Jace was worried the Blackrock Spire assault might replicate that timeline's scenario — just without the Cult of the Damned, using instead the veterans, warriors, and heroes taking part in the war.
 
-"Perhaps the Black Dragons or those orc warlocks intend to use the plague of undeath to force a fight to the death with the Alliance, Your Grace." He leaned close to the Bishop's ear. "His Majesty Varian cannot abandon the assault on Blackrock Spire just because of such threats — not when we have a chance to end the orc war once and for all. And we cannot let their scheme succeed."
+"Perhaps the black dragons or those orc warlocks intend to use the plague of undeath to force a fight to the death with the Alliance, Your Grace." He leaned close to the Bishop's ear. "His Majesty Varian cannot abandon the assault on Blackrock Spire just because of such threats — not when we have a chance to end the orc war once and for all. And we cannot let their scheme succeed."
 
 After hearing Jace out, Benedictus fell silent for a moment. His gaze unconsciously swept across the crowd in the Cathedral. His expression was full of worry, and there was even a trace of fear about the future in his demeanor.
 
 As a transmigrator who knew the storyline, Jace probably shouldn't have trusted Benedictus — a man who would later betray Stormwind and join the Twilight's Hammer.
 
-But Jace also knew Benedictus wasn't always a shadow worshiper. It was only after the fall of Lordaeron, after the Scourge destroyed most of the northern human kingdoms, after the Silver Hand was nearly wiped out, that he began to doubt whether the Holy Light could truly save its followers from the abyss, and step by step walked down the wrong path.
+But Jace also knew Benedictus wasn't always a shadow worshipper. It was only after the fall of Lordaeron, after the Scourge destroyed most of the northern human kingdoms, after the Silver Hand was nearly wiped out, that he began to doubt whether the Holy Light could truly save its followers from the abyss, and step by step walked down the wrong path.
 
-That meant, at least for now, he could be trusted. At least trusted to genuinely consider the welfare of ordinary people in the seven kingdoms. And the deep concern Jace could sense in his heart confirmed that.
+That meant, at least for now, he could be trusted. At least trusted to genuinely consider the welfare of ordinary people in the Seven Kingdoms. And the deep concern Jace could sense in his heart confirmed that.
 
 Archbishop Alonsus Faol was likely in Lordaeron attending to King Terenas. The rumors of the Northrend plague, amplified by the actions of the Kirin Tor, the Silver Hand, and the Church, were causing more and more worry. Faol had to stay and manage things up there. That meant the only person who could mobilize the entire Stormwind Church was Benedictus. Varian had to be able to rely on him.
 
@@ -72,7 +72,7 @@ Archbishop Alonsus Faol was likely in Lordaeron attending to King Terenas. The r
 
 "Don't mention it. Either way, we're both working to ensure this city never becomes a nest of dark magic again," Jace said.
 
-"Yes." The Bishop said quietly. "I remember, seven or eight years ago, Master Eden Marin brought you to the Cathedral. Wasn't that also because of the ghoul plague in Duskwood?"
+"Yes." The Bishop said quietly. "I remember, seven or eight years ago, Master Eden Malin brought you to the Cathedral. Wasn't that also because of the ghoul plague in Duskwood?"
 
 Jace chuckled. "No. That was because I passed out from magical exhaustion. I remember you took care of me."
 

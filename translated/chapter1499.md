@@ -4,7 +4,7 @@
 
 "If it's too much trouble, forget it," Jace said.
 
-"Technically, as the Stormwind Kingdom's court mage and King Varian's magical advisor, getting permission to visit shouldn't be that hard." Amy said. "You just need to apply to the warden, Archmage Kassan. You don't even need the council's approval. Though, in your case, I imagine Archmage Kassan would report it to the council."
+"Technically, as the Kingdom of Stormwind's court mage and King Varian's magical advisor, getting permission to visit shouldn't be that hard." Amy said. "You just need to apply to the warden, Archmage Kassan. You don't even need the council's approval. Though, in your case, I imagine Archmage Kassan would report it to the council."
 
 "That's fine." Jace joked, "As long as they don't think I'm trying to break someone out."
 
@@ -34,7 +34,7 @@ At Jace's reminder, Amy relaxed too.
 
 "Get along well?" Jace gave a wry smile. "The whole way from Stormwind, she's come up with who knows how many nicknames for me. 'Fresh meat green dragon necklace,' 'clueless idiot who can't fly even with red dragon magic,' 'scaleless, toothless little punk,' 'coward afraid of arcane,' and so on. Whatever makes her happy."
 
-"And it's not like I wanted to bring her. In a few weeks, the dwarves are forging that legendary hammer at Grim Batol — the Sulfuron Hammer. The Wildhammer high lord, King Magni's brother, and a leader of the Thorium Brotherhood will all be there. As Grede's good friend and a future helper in the assault on Blackrock Spire, she has to come along. You too, Amy. I'm here today to invite you. Will you come with us to Grim Batol?"
+"And it's not like I wanted to bring her. In a few weeks, the dwarves are forging that legendary hammer at Grim Batol — the Sulfuron Hammer. The Wildhammer High Thane, King Magni's brother, and a leader of the Thorium Brotherhood will all be there. As Grede's good friend and a future helper in the assault on Blackrock Spire, she has to come along. You too, Amy. I'm here today to invite you. Will you come with us to Grim Batol?"
 
 "Three Hammers... Oh my god. Does this mean the Three Hammers are finally going to try standing together after two hundred years?" Amy said. "Of course I want to go. But will I actually be able to?"
 
@@ -48,11 +48,11 @@ Amy pulled out a small notebook and flipped through it. "Got it. I'll definitely
 
 "One more thing, Amy." Jace watched her scribbling notes. "The Kirin Tor brought back a lot of soul shards from Auchindoun. Where are they now? Who's in charge?"
 
-"You want to take some?" Amy replied while looking at her notes. "Go straight to Archmage Vargus. He and the mages who returned from Kiran'var Village are managing everything related to demons and the void. He's been in Dalaran recently, competing for the vacant seat on the Council of Six. He used to travel a lot, but now's a good time to find him at the Violet Citadel."
+"You want to take some?" Amy replied while looking at her notes. "Go straight to Archmage Vargoth. He and the mages who returned from Kirin'Var Village are managing everything related to demons and the void. He's been in Dalaran recently, competing for the vacant seat on the Council of Six. He used to travel a lot, but now's a good time to find him at the Violet Citadel."
 
 "Do you think he'll get it?" Jace asked.
 
-"Very likely, especially since Archmage Khadgar has announced he won't compete." Amy said. "Master Ruenworth is a strong opponent, but because of the Expedition's experience, Archmage Vargus is much more popular. You brought him back from Draenor, Jace. I'm sure he'll be willing to help."
+"Very likely, especially since Archmage Khadgar has announced he won't compete." Amy said. "Master Runeweaver is a strong opponent, but because of the Expedition's experience, Archmage Vargoth is much more popular. You brought him back from Draenor, Jace. I'm sure he'll be willing to help."
 
 "I hope so," Jace said.
 
@@ -72,13 +72,13 @@ She rummaged around for quite a while before Jace couldn't help saying, "Sometim
 
 Jace placed Ursula's letter on the table. "I'm delivering a letter for a friend. I'll be out of your way in a moment."
 
-"Delin..." The mage muttered, opening the letter and glancing at it. Then she suddenly stopped him. "Are you Jace Sesso?"
+"Deline..." The mage muttered, opening the letter and glancing at it. Then she suddenly stopped him. "Are you Jace Sesso?"
 
 "Have we met?" Jace asked.
 
-"Ursula Delin is an extremely cautious woman. She would never trust just anyone to deliver this letter." Egan said. "Unless you are Jace Sesso himself."
+"Ursula Deline is an extremely cautious woman. She would never trust just anyone to deliver this letter." Egan said. "Unless you are Jace Sesso himself."
 
-"So by now, in Dalaran, everyone knows I'm close friends with the alchemist Delin?" Jace said.
+"So by now, in Dalaran, everyone knows I'm close friends with the alchemist Deline?" Jace said.
 
 "The plants in the botanical gardens haven't found out yet." The herbalist cracked a grin. "But the story of a female alchemist from Stormwind who used a summoning ritual to successfully find Jace Sesso — the mage who destroyed the Scepter of Sargeras — has spread through every street and building in Dalaran... Also, I apologize for turning you away earlier, Mr. Sesso. That's Kirin Tor policy, not my choice."
 
@@ -86,7 +86,7 @@ Jace placed Ursula's letter on the table. "I'm delivering a letter for a friend.
 
 After leaving the herbalist and stepping onto the street, Jace swallowed hard, thinking that when Vereesa arrived in Dalaran, he'd better not take her around town. If every person he met asked, "Are you that Jace Sesso who was summoned back by a female alchemist?" — how would he deal with that?
 
-At the agreed time, Jace arrived at the central square of Dalaran. Before he could spot Sora and Needleflame, a kid in a dark cloak darted through the crowd of passing mages and launched herself at him, punching him hard in the waist.
+At the agreed time, Jace arrived at the central square of Dalaran. Before he could spot Sola and Needleflame, a kid in a dark cloak darted through the crowd of passing mages and launched herself at him, punching him hard in the gut.
 
 The hit nearly knocked him back a step. He barely managed to grab the little thing. "What the hell?!"
 
@@ -101,7 +101,7 @@ He regretted it the moment he said it. But it was too late.
 "Ahem. There's something more interesting than that, Needleflame." Jace said. "Didn't you want to see the Violet Hold? Come with me. We're going to the prison."
 
 "You'll actually take me?!"
-"Sora's hand. We're leaving."
+"Take Sola's hand. We're leaving."
 
 If this were any other city, the Violet Hold would be beautiful enough to not look like a prison at all. Peering in through the entrance, there were exquisite stone pillars, gates carved with wing-like arcane runes, purple-red brickwork, silver-white walls... But situated at the eastern edge of Dalaran, surrounded by even more fantastical structures, it gave off an air of solemn grandeur.
 
@@ -113,8 +113,8 @@ Just then, a burly man stepped out. His attire was completely unlike typical Kir
 
 He had a full black beard and an utterly cold expression. If not for the Kirin Tor badge on his hand, Jace would have thought he was someone just released from the Violet Hold, not its guardian.
 
-"Archmage Jace Sesso, an honor to meet you." He spoke. "I am the warden of the Violet Citadel, Archmage Kassan."
+"Archmage Jace Sesso, an honor to meet you." He spoke. "I am the warden of the Violet Hold, Archmage Kassan."
 
-Jace suddenly remembered who he was. Wasn't this the guard who tried to stop Kael'thas from escaping after he was imprisoned in Dalaran in Warcraft 3?
+Jace suddenly remembered who he was. Wasn't this the guard who tried to stop Kael'thas from escaping after he was imprisoned in Dalaran in Warcraft III?
 
 Though he was ultimately defeated by Kael'thas, this warden was undoubtedly a formidable figure. No wonder Amy had spoken of him with such respect.

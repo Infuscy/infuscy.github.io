@@ -1,6 +1,6 @@
 ## Chapter 887: "The King of the Dead"
 
-Seeing the room full of spider webs, Jace immediately sheathed Skysong. The flames on Morophil's body dimmed at once as she edged into the shadows, doing everything she could to keep her magical fire from touching the webs — because if they caught, the whole house could go up in an instant.
+Seeing the room full of spider webs, Jace immediately sheathed Azuresong. The flames on Morophil's body dimmed at once as she edged into the shadows, doing everything she could to keep her magical fire from touching the webs — because if they caught, the whole house could go up in an instant.
 
 Grede and Vereesa took the lead, hacking through the webs with a sword and a long dagger as they pushed inside. They reached a narrow corridor, and the deeper they went, the denser the webs became. The floor began to show patches of dried slime left by something unknown.
 
@@ -106,7 +106,7 @@ Seeing the nerubian recover somewhat, Vereesa said, "I have a few questions."
 
 "Ask them, Quel'dorei," the nerubian said. In just a short while, its voice was already much clearer and stronger than before.
 
-Vereesa was clearly a little surprised that the nerubian recognized her race. She paused, then said, "You mentioned the King of the Dead. Earlier we heard the Tuskarr speak of shadows hidden in the far northern mountains. Are these the same thing? Or do they share the same source?"
+Vereesa was clearly a little surprised that the nerubian recognized her race. She paused, then said, "You mentioned the King of the Dead. Earlier we heard the tuskarr speak of shadows hidden in the far northern mountains. Are these the same thing? Or do they share the same source?"
 
 "I don't know," the nerubian shook its head. "What I know is that the King of the Dead is corrupting our kingdom with an unspeakably evil plague, raising the dead who had long rested in their tombs. Azjol-Nerub is no longer at peace. This plague grows worse by the day. Many elders have been forced to call it what it is — a war. A war between the living and the dead within the kingdom itself. I imagine the surface-dwellers have been affected as well, but this was never our intention."
 
@@ -116,7 +116,7 @@ Based on the nerubian's account, Jace knew this "King of the Dead" very likely r
 
 "A year, two years. It all came so fast, giving no time to react," the nerubian said.
 
-"Those Tuskarr also mentioned that shadow descended quickly. Even if it's not exactly the same thing, it's definitely connected," Jace said.
+"Those tuskarr also mentioned that shadow descended quickly. Even if it's not exactly the same thing, it's definitely connected," Jace said.
 
 "Then we need to get back and report this as soon as possible," Vereesa said. "If a year or two is enough to devastate this land like this, if we let it go on for a few more years, Lordaeron and Quel'Thalas could both be affected."
 
@@ -132,7 +132,7 @@ Based on the nerubian's account, Jace knew this "King of the Dead" very likely r
 
 Jace had been about to leave, but hearing the nerubian mention Azjol-Nerub's unfathomable territory, he suddenly remembered something.
 
-During the war against the Scourge, the nerubian grew increasingly unable to resist the ever-growing numbers of dead, so they dug as deep as they could, building more underground fortresses to hold back the dead.
+During the war against the Scourge, the nerubians grew increasingly unable to resist the ever-growing numbers of dead, so they dug as deep as they could, building more underground fortresses to hold back the dead.
 
 But the deeper they dug, the closer they got to the tendrils of Yogg-Saron buried beneath the continent of Northrend, eventually releasing the Old God's minions imprisoned below and re-enslaving these nerubians who had already broken free of the Old God's control.
 
@@ -140,7 +140,7 @@ Caught between the Old God's minions below and the Scourge above, Azjol-Nerub co
 
 Jace warned, "Beneath Northrend lies a darkness you cannot resist, earth-dweller. Don't think you can keep digging downward in peace... You should already know this clearly, shouldn't you?"
 
-Seeing the nerubian hesitate, Sola said, "He's right. The Kaldorei tried to plant Andassil in Northrend, but the roots of this World Tree grew too deep and touched a darkness it could not resist. In the end the entire tree was corrupted. The Kaldorei druids had to cut it down to prevent its corruption from endangering all of Azeroth..."
+Seeing the nerubian hesitate, Sola said, "He's right. The Kaldorei tried to plant Andrassil in Northrend, but the roots of this World Tree grew too deep and touched a darkness it could not resist. In the end the entire tree was corrupted. The Kaldorei druids had to cut it down to prevent its corruption from endangering all of Azeroth..."
 
 "If you intend to keep digging, the final outcome is hard to say," Jace said.
 
@@ -151,14 +151,3 @@ Jace didn't know what to say to that. When the Lich King used his undead legions
 And the scout before him didn't look like anyone of particularly high standing in Azjol-Nerub. Even warning him alone would probably have no decisive effect on the entire spider kingdom.
 
 All they could do at this point was head south as quickly as possible and alert the entire Alliance.
-
-## Flags
-- **"死灵的国王"** = "The King of the Dead" — the nerubian's term for the Lich King (Ner'zhul). Jace infers this is the origin of the title "Lich King."
-- **艾卓——尼鲁布 / 艾卓尼鲁布** = Azjol-Nerub (canonical nerubian kingdom).
-- **阿努巴拉克** = Anub'arak (canonical Crypt Lord).
-- **安达希尔** = Andassil (the failed World Tree in Northrend; phonetic — canonical name uncertain, possibly Vordrassil or a variant).
-- **尤格萨隆** = Yogg-Saron (canonical Old God).
-- **奎尔多雷** = Quel'dorei / high elf (the nerubian addresses Vereesa by her race).
-- **纳斯雷兹姆** = Nathrezim (canonical dreadlord race).
-- **卡多雷** = Kaldorei (canonical night elf self-name).
-- **通用语** = Common (the human trade language).

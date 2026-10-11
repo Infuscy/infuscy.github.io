@@ -1,4 +1,4 @@
-## Chapter 688: The Magic Inn
+## Chapter 688: The Legerdemain Lounge
 
 Coming out of the Violet Citadel, Jace felt as though he had gained some kind of liberation.
 
@@ -8,7 +8,7 @@ For some reason, Archmage Kel'Thuzad hadn't been waiting for him inside — espe
 
 Jace guessed that now that Deathwing had fallen, Kel'Thuzad had lost his biggest backer and was probably keeping a low profile.
 
-Grede was waiting for him at Dalaran's largest inn — the Magic Inn. Jace planned to head over first, then use the ring Antonidas had given him to visit the Great Library.
+Grede was waiting for him at Dalaran's largest inn — the Legerdemain Lounge. Jace planned to head over first, then use the ring Antonidas had given him to visit the Great Library.
 
 As he quickened his pace down the Violet Citadel's steps, he thought about the date of Winter Veil.
 
@@ -26,7 +26,7 @@ Except today she wasn't wearing her usual ranger's battle attire and deep-green 
 
 "I heard from the guards that you'd gone to the Violet Citadel, so I came here to find you." Vereesa brushed aside her silver hair, glanced down at her outfit, and asked, "What, you don't recognize me just because I changed clothes?"
 
-"You look beautiful, Wen."
+"You look beautiful, Vere."
 
 As he said it, Jace glanced at the several layers of unknown fabric on her shoulder that had been enchanted for a sheer effect, and immediately felt he'd been wasting his time at Larson's.
 
@@ -58,7 +58,7 @@ As he said it, Jace glanced at the several layers of unknown fabric on her shoul
 
 Vereesa couldn't help but smile. "Where's Grede?"
 
-"The Magic Inn."
+"The Legerdemain Lounge."
 
 "Then let's go find him. He must have been waiting for you for ages." Vereesa leaned against Jace, then suddenly frowned and looked down at the cloak in Jace's arms.
 
@@ -68,11 +68,13 @@ Vereesa couldn't help but smile. "Where's Grede?"
 
 "Exactly." Vereesa said. "That's just what I was about to say."
 
-Jace explained, "It's a gift from a red dragon emissary, Wen. A cloak made of black dragon skin and scales, which a red dragon then enchanted, so the magical aura is probably quite complex."
+Jace explained, "It's a gift from a red dragon emissary, Vere. A cloak made of black dragon skin and scales, which a red dragon then enchanted, so the magical aura is probably quite complex."
 
 "A red dragon emissary, in Dalaran?" Vereesa asked.
 
-"Yes," Jace said. "Vaelastrasz. He's the one relaying messages for the Dragonqueen, informing everyone about what happened at Grim Batol." Vereesa immediately asked, "Then what about Master Krasus?"
+"Yes," Jace said. "Vaelastrasz. He's the one relaying messages for the Dragonqueen, informing everyone about what happened at Grim Batol."
+
+Vereesa immediately asked, "Then what about Master Krasus?"
 
 "I don't know," Jace said. "I described the dream Deathwing told me to him. He thinks Krasus might be trapped in Blackrock Spire, so he's going to check it out."
 
@@ -82,9 +84,9 @@ As Vereesa spoke, an arcane servitor drifted slowly past — a vaguely humanoid 
 
 Could these servitors help their masters eavesdrop on the conversations of passersby?
 
-Vereesa had grown up in Quel'Thalas and often visited Silvermoon, so she should know quite a bit about these arcane aberrations. "Let's talk inside the Magic Inn," Vereesa said, and Jace nodded.
+Vereesa had grown up in Quel'Thalas and often visited Silvermoon, so she should know quite a bit about these arcane aberrations. "Let's talk inside the Legerdemain Lounge," Vereesa said, and Jace nodded.
 
-True to its name, the Magic Inn's lobby didn't look like a place for dining or lodging at all — it was more like the ground floor of the Wizard Sanctum's mage tower. Arcane candle-lamps enchanted to float and illuminate on their own drifted everywhere. Magic brooms followed close behind guests, erasing the footprints they'd just left, one by one... Against the walls, instead of food ingredients or ale barrels, there stood oak bookshelf after oak bookshelf.
+True to its name, the Legerdemain Lounge's lobby didn't look like a place for dining or lodging at all — it was more like the ground floor of the Wizard's Sanctum's mage tower. Arcane candle-lamps enchanted to float and illuminate on their own drifted everywhere. Magic brooms followed close behind guests, erasing the footprints they'd just left, one by one... Against the walls, instead of food ingredients or ale barrels, there stood oak bookshelf after oak bookshelf.
 
 Jace deliberately pulled a copy of *Alterac and the History of Frost Magic* from the shelf. Inside, it actually documented the early development of frost magic in Dalaran, rather than being a decorative book with nothing written in it.
 
@@ -92,7 +94,7 @@ Grede was sitting beside a bookshelf flipping through a book. His expression was
 
 "You actually have the mood to read a magic book?" Jace asked.
 
-Grede held the book up for Jace to see. It was entirely in elvish — Jace could barely recognize a single word. "Do you know what's written here, little elf?" he looked up and asked.
+Grede held the book up for Jace to see. It was entirely in Elvish — Jace could barely recognize a single word. "Do you know what's written here, little elf?" he looked up and asked.
 
 "Quel'Thalas banquet etiquette," Vereesa said, propping her chin on her hand.
 
@@ -120,7 +122,7 @@ But thinking of how Prince Kael'thas Sunstrider would repeatedly ally himself wi
 
 "That's true," Vereesa said. "The Sun King has already grown quite dissatisfied with him repeatedly standing on Dalaran's side."
 
-"If the red dragons' side is slow in coming back, then we'll consider approaching Prince Kael'thas. At that time, I'll be counting on you, Wen."
+"If the red dragons' side is slow in coming back, then we'll consider approaching Prince Kael'thas. At that time, I'll be counting on you, Vere."
 
 "No problem." Vereesa smiled.
 
@@ -138,11 +140,11 @@ But thinking of how Prince Kael'thas Sunstrider would repeatedly ally himself wi
 
 "From here to Aerie Peak by gryphon, probably two or three days," Grede said. "I just need to attend the banquet on the day Winter Veil starts. I won't stay long, so I'll leave on the 17th or 18th. If I fly to Lordaeron to pick you two up... I should arrive around the 20th."
 
-Vereesa cleared her throat. "My Ranger-Lord promotion ceremony is on December 23rd, Grede. If you still want to attend, you'd best fly toward Quel'Thalas immediately after finishing your wine..."
+Vereesa cleared her throat. "My Ranger Lord promotion ceremony is on December 23rd, Grede. If you still want to attend, you'd best fly toward Quel'Thalas immediately after finishing your wine..."
 
 "It's confirmed?" Grede and Jace asked simultaneously.
 
-"It's confirmed," Vereesa declared. "I won't be a Ranger-Captain of Quel'Thalas anymore — I'll be the Ranger-Lord of Quel'Thalas. That's how it is!"
+"It's confirmed," Vereesa declared. "I won't be a Ranger-Captain of Quel'Thalas anymore — I'll be the Ranger Lord of Quel'Thalas. That's how it is!"
 
 Grede shouted toward the innkeeper, "Dalaran's finest wine! One glass for everyone at this table, on the house!"
 
@@ -152,9 +154,9 @@ Vereesa smiled. "I really wish you could have seen their expressions after heari
 
 Jace smiled too. Grede cleared his throat. "There's still a person here, you two damned fools. Hurry up and drink!"
 
-The Magic Inn's cellared Dalaran red wine was undoubtedly the most renowned vintage in this magic capital. Jace actually couldn't tell any difference between it and ordinary red wine. And even if he could, the taste and feel of the wine itself had long been rendered insignificant by the joy of the three of them being together.
+The Legerdemain Lounge's cellared Dalaran red wine was undoubtedly the most renowned vintage in this magic capital. Jace actually couldn't tell any difference between it and ordinary red wine. And even if he could, the taste and feel of the wine itself had long been rendered insignificant by the joy of the three of them being together.
 
-The Magic Inn's guest rooms were far more beautiful and refined than the dormitory Jace had been assigned in the Wizard Sanctum. Jace even felt the decor here was more exquisite than Master Marin's study — aside from having fewer books.
+The Legerdemain Lounge's guest rooms were far more beautiful and refined than the dormitory Jace had been assigned in the Wizard's Sanctum. Jace even felt the decor here was more exquisite than Master Malin's study — aside from having fewer books.
 
 "If the ceremony is on the 23rd, then we might only stay in Lordaeron for a day before setting out. From the royal city to Quel'Thalas... that's a very long journey."
 
@@ -180,7 +182,7 @@ With a snap of Vereesa's fingers, a ball of blue flame suddenly flared to life o
 
 Jace tossed his jacket aside, walked to the bed, and gently pushed the elf down onto the pillows, kissing her forehead. The smile on Vereesa's face vanished all at once, and she drew a deep breath.
 
-"Every night in Quel'Thalas I think of you, Jace. I envy that Sathayde. Damn it, envy her so much I want to drive a blade through her neck."
+"Every night in Quel'Thalas I think of you, Jace. I envy that sayaad. Damn it, envy her so much I want to drive a blade through her neck."
 
 "Next time we see her," Jace said softly.
 
@@ -200,11 +202,11 @@ Jace slowly shifted downward, burying his head between Vereesa's legs. The elf s
 
 "I don't know..." Vereesa lowered her eyes and looked at him. "I can feel it. You seem a little... unhappy. Am I overthinking it?"
 
-"Magic perfume," Jace laughed. "It can't even affect my mind, Wen. A little magic like this is really..." Vereesa's face flushed red. She turned her head and buried it hard in the pillow. "I should have thought of that."
+"Magic perfume," Jace laughed. "It can't even affect my mind, Vere. A little magic like this is really..." Vereesa's face flushed red. She turned her head and buried it hard in the pillow. "I should have thought of that."
 
 Jace continued, "But the real reason is, I don't like the perfume. I like your scent. Unfortunately."
 
-"You..." Vereesa muffled a words, then suddenly sucked in another breath.
+"You..." Vereesa muffled a word, then suddenly sucked in another breath.
 
 "Ah! Mmm..."
 
@@ -217,18 +219,3 @@ Jace climbed up and kissed her lips. His lower body slowly pushed forward. The e
 "No, hotter..."
 
 Jace buried his head into her already sweat-damp shoulder, nuzzling the wet silver hair and kissing the base of her ear. The elf wrapped her arms tightly around her lover's shoulders, stifled moans escaping her throat, on the verge of no longer being able to contain her voice...
-
-## Flags
-
-- **Kel'Thuzad** (克尔苏加德): Not yet named in the Chinese text at this point, but Jace notes his absence. Canonical — later becomes a founding member of the Cult of the Damned and a lich in the Scourge. At this stage he's still a Kirin Tor archmage and, per Jace's foreknowledge, Deathwing's secret backer within Dalaran.
-- **The Magic Inn** (魔术旅馆): Dalaran's largest inn, where Grede waits. Described as more magical than functional — floating arcane lamps, self-cleaning brooms, bookshelves instead of ale barrels.
-- **Winter Veil** (冬幕节): The WoW winter festival. Jace and Grede arrived a week early (around Dec 9); Vereesa's Ranger-Lord ceremony is Dec 23.
-- **Ranger-Lord** (游侠领主): Vereesa's promotion — she's moving up from Ranger-Captain (游侠队长) of Quel'Thalas to Ranger-Lord.
-- **Aerie Peak** (鹰巢山): Grede's dwarven home in the Hinterlands. He plans to fly there for Winter Veil, then rejoin Jace and Vereesa in Lordaeron around Dec 20.
-- **Dragonhawk** (龙鹰): Vereesa confirms Jace can ride one from Dalaran to Quel'Thalas. Callback to an earlier conversation at Redridge (赤脊山) where she told him outsiders weren't allowed.
-- **Sathayde** (萨亚德): The demon Vereesa is jealous of — implied to be someone Jace has a complicated relationship with. Name rendering tentative (OC demon).
-- **Larson** (拉尔森): Mentioned briefly — Jace feels he wasted time there compared to Vereesa's enchanted gown. TODO: identify who Larson is.
-- **Teron Gorefiend** (塔隆·血魔): Canonical first death knight. Vereesa references driving a blade through his throat.
-- **Sylvanas** (希尔瓦娜斯): Vereesa's older sister, Windrunner second. Canonical.
-- **Kael'thas Sunstrider** (凯尔萨斯·逐日者): Canonical. Jace distrusts him due to future lore (his alliances with demons/Burning Legion).
-- **The Sun King** (太阳王): Anasterian Sunstrider, Kael'thas's father — displeased with Kael'thas siding with Dalaran.

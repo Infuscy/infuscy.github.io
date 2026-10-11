@@ -1,12 +1,12 @@
 ## Chapter 1711: One Step Too Late
 
-The hall was lit a pale blue by the Song of Clear Skies. Aside from the two dragons and the others picking themselves up, brushing off sand, and muttering complaints, there was nothing else.
+The hall was lit a pale blue by Azuresong. Aside from the two dragons and the others picking themselves up, brushing off sand, and muttering complaints, there was nothing else.
 
 After a moment, everyone fell silent. Jace stared into the depths of the hall, straining to hear any sign of life — traps, lingering magic, elemental guards being roused. Nothing. The quiet was unsettling.
 
 "What part of the temple do you think this is?" Grede whispered.
 
-Vereesa looked at the elemental lord's painting, now lit blue, and said, "Looks like some kind of chapel. So should we be looking for a treasure vault now? Doesn't the Wind Prince know where the vault is? Have him guide us."
+Vereesa looked at the elemental lord's painting, now lit blue, and said, "Looks like some kind of chapel. So should we be looking for a treasure vault now? Doesn't the Prince of Air know where the vault is? Have him guide us."
 
 "You're the master of this temple, Windseeker. It's your turn to help." Jace said, holding up the Brass Prison in its box.
 
@@ -34,7 +34,7 @@ Grede pointed up at where they'd fallen in. "But how did they get in? We had to 
 
 "We'd better be careful." Vereesa said.
 
-"Solara, you and Needleflame stay here and rest. If someone comes in from outside, give us a shout." Jace called up the stairs.
+"Sola, you and Needleflame stay here and rest. If someone comes in from outside, give us a shout." Jace called up the stairs.
 
 "Got it, Jace." the green dragon replied softly.
 
@@ -46,13 +46,13 @@ At that, only a sigh came from above, followed by the smell of something burning
 
 The passage was tall but narrow on both sides, giving a claustrophobic feeling like walking through a drainage ditch beside a highway. It made you wonder if this was some kind of sewer, but the beautifully carved stone tiles on the floor, though cracked, suggested it was meant for people. Either way, walking through it was extremely unpleasant.
 
-Grede led the way, carrying the enchanted small shield Turalyon had given him, a stone axe in hand, and Sulfuras wrapped on his back. Honestly, Jace thought this so-called High Thane's body was probably tougher than that shield by now. But as an old warrior and gryphon rider, carrying a shield was better than nothing — it gave him some basic sense of security.
+Grede led the way, carrying the enchanted small shield Turalyon had given him, a stone axe in hand, and Sulfuras wrapped on his back. Honestly, Jace thought this so-called High King's body was probably tougher than that shield by now. But as an old warrior and gryphon rider, carrying a shield was better than nothing — it gave him some basic sense of security.
 
-As for Vereesa following behind, she might not be the most seasoned Farstrider, but in pure combat ability, she far exceeded what her title of "Ranger-Lord" suggested. Even Alleria admitted that.
+As for Vereesa following behind, she might not be the most seasoned Farstrider, but in pure combat ability, she far exceeded what her title of "Ranger Lord" suggested. Even Alleria admitted that.
 
 So Jace thought Vereesa was being overly cautious. If whoever left those footprints was planning to ambush them, they'd probably be dead before they could even show their faces, and Jace behind them wouldn't even have time to chant or channel shadow energy.
 
-Jace was still thinking about the skirmish up on the surface. That wind elemental lord couldn't even withstand a simple thrown strike from Sulfuras. That was the first time the hammer — forged by the Thorium Brotherhood and blessed by the Fire Lord — had seen real combat, and its effect had far exceeded Jace's expectations. Its suppression of lower elemental lords was terrifying.
+Jace was still thinking about the skirmish up on the surface. That wind elemental lord couldn't even withstand a simple thrown strike from Sulfuras. That was the first time the hammer — forged by the Thorium Brotherhood and blessed by the Firelord — had seen real combat, and its effect had far exceeded Jace's expectations. Its suppression of lower elemental lords was terrifying.
 
 After a turn in the passage, the path began sloping downward. They reached the bottom without encountering any enemies or hearing any strange sounds.
 
@@ -68,7 +68,7 @@ Grede peeked in with his axe raised, then suddenly widened his eyes and waved ev
 
 "Twilight's Hammer."
 
-Jace picked up a purple pendant from one of the corpses. It was exactly the same as the Twilight cultist identity badges they'd gotten from Gorthann in Shadowforge City.
+Jace picked up a purple pendant from one of the corpses. It was exactly the same as the Twilight cultist identity badges they'd gotten from Gerstahn in Shadowforge City.
 
 The bodies were badly desiccated, but still dressed in relatively intact clothing, so in poor light they looked like they'd died recently.
 
@@ -82,9 +82,9 @@ The room wasn't very large. Bloodstained kodo leather lay tattered on the floor.
 
 "We came all this way for nothing? So what now? Do we find Twilight's Hammer's hideout and take it from them?" Grede asked.
 
-Too late after all? Jace couldn't help wondering. Had that Twilight Bishop, the one so desperate to summon Thunderaan, already taken the "Rebirth Vial" buried here?
+Too late after all? Jace couldn't help wondering. Had that Twilight Bishop, the one so desperate to summon Thunderaan, already taken the "Vessel of Rebirth" buried here?
 
-Grede cursed in Dwarven and pointed at the Kirin Tor magic box Jace was carrying. "I'd really like to know what treasure this Wind Prince is hiding that's worth all this trouble!"
+Grede cursed in Dwarvish and pointed at the Kirin Tor magic box Jace was carrying. "I'd really like to know what treasure this Prince of Air is hiding that's worth all this trouble!"
 
 "Don't jump to conclusions, Grede." Just then, Vereesa picked something small from a dead Dark Iron dwarf's body. "Look at this."
 

@@ -8,7 +8,7 @@ Hearing Ursula ask this, the playful look on Jace's face vanished in an instant.
 
 "Then I'll believe you," Ursula said, fixing him with a stare. "You don't look it, but you're far from innocent. You put on this act of being honest all day long."
 
-Jace raised an eyebrow. "Sorry, I admit it… but are you sure the people in Eastweald aren't still after you?"
+Jace raised an eyebrow. "Sorry, I admit it… but are you sure the people in the Eastweald aren't still after you?"
 
 Ursula said, "My friends in the royal city told me they've stopped cooperating. That merchant in Stratholme seems to have been frightened off too. But there's a rumor going around that I hired a paladin to go to Andorhal and kill that succubus. What's going on there? Did you spend the money to hire a member of the Silver Hand in Lordaeron?"
 
@@ -32,7 +32,7 @@ The two of them fell silent for a while. The alchemist put away her tools, close
 
 Ursula said, "Then your children would be a bunch of half-elves who aren't accepted in Quel'Thalas or here, Jace. Have you thought about that? When they go on to have wives or husbands, their descendants will be half-elves forever — neither human nor elf."
 
-Jace said, "There are also half-elves who've achieved great things. Take Archmage Alood of Dalaran, for example. Have you heard his story?"
+Jace said, "There are also half-elves who've achieved great things. Take Archmage Alodi of Dalaran, for example. Have you heard his story?"
 
 "Of course I've heard it, but what does one person prove?"
 
@@ -44,7 +44,7 @@ Jace was of course used to that kind of alchemist. So even though her tone now w
 
 "What about your future children, then?" Jace asked.
 
-"I won't have descendants," she said coldly. "I've seen what half a lifetime looks like for a half-elf, so I won't try to bring more half-elves into this world to suffer the way you are."
+"I won't have descendants," she said coldly. "I've seen what half a lifetime looks like for a half-elf, so I won't bring more half-elves into this world to suffer, the way you mean to."
 
 Jace was stunned, at a loss for words for a moment.
 
@@ -52,11 +52,11 @@ After Ursula finished, she seemed to realize something. She rested a hand on the
 
 Jace sat up, no longer lounging lazily against the back of the chair. He rested his hands on his knees and paused for a moment before speaking. "You really don't need to apologize, Ursula. I may not be a half-elf, but growing up, I've seen how some half-elves live."
 
-"Actually, I came here to talk to you about the felhound. You're the warlock here who's best at handling felhounds, after all — you spend every day with Besadim."
+"Actually, I came here to talk to you about the felhound. You're the warlock here who's best at handling felhounds, after all — you spend every day with Basadim."
 
 "I'm definitely not as good as you, Jace," Ursula said.
 
-"Don't be too modest," Jace said. "I just spoke with Galders, and now I'm telling you the same thing. I've worked things out with someone from SI:7. I'm planning to have warlocks who are skilled with felhounds help them root out the black dragons' disguises. Even though I told Galders it would be the Dagger Society cooperating with them, I think you're the most suitable. And it just so happens you've shaken off the Stratholme problem. Even if that merchant still wants to make trouble for you down the road, with SI:7's help you'll have a much easier time dealing with them, won't you?"
+"Don't be too modest," Jace said. "I just spoke with Zardeth, and now I'm telling you the same thing. I've worked things out with someone from SI:7. I'm planning to have warlocks who are skilled with felhounds help them root out the black dragons' disguises. Even though I told Zardeth it would be the Dagger Society cooperating with them, I think you're the most suitable. And it just so happens you've shaken off the Stratholme problem. Even if that merchant still wants to make trouble for you down the road, with SI:7's help you'll have a much easier time dealing with them, won't you?"
 
 "Can I really do this?" the alchemist asked hesitantly.
 
@@ -72,7 +72,7 @@ He stood up to leave, and Ursula said, "Don't take what I said earlier to heart,
 
 Ursula smiled too, watching Jace leave the alchemy lab.
 
-Walking through the passage, Jace glanced at Morofell, who had been silent the whole time. She wore that same smiling expression as always — she seemed to have noticed something, and also seemed not to have noticed anything.
+Walking through the passage, Jace glanced at Morophil, who had been silent the whole time. She wore that same smiling expression as always — she seemed to have noticed something, and also seemed not to have noticed anything.
 
 Next, it was just a matter of waiting for SI:7 to let him know the prisoners were in place, and seeing whether the felhound could identify the disguised dragonkin based on their magical signatures.
 
@@ -80,4 +80,4 @@ But Jace understood very well that even if they could identify disguised dragonk
 
 After all, even someone as powerful as Krasus couldn't see through the black dragons' disguise magic. Counting on a felhound was probably wishful thinking. To guard against the real Onyxia — or her black dragon subordinates — showing up in Stormwind, they'd need a more reliable method.
 
-Thinking of this, Jace once again thought of Marshal Reginald Windsore's slate — the one recovered by the Dark Iron dwarves — and the incantation that could force Onyxia to reveal her true form… Where on earth had that come from?
+Thinking of this, Jace once again thought of Marshal Reginald Windsor's slate — the one recovered by the Dark Iron dwarves — and the incantation that could force Onyxia to reveal her true form… Where on earth had that come from?

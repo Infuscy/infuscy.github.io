@@ -38,7 +38,7 @@ Jace didn't know what to say for a moment. He just leaned against the wall, stun
 
 "What about Grim Batol?" Jace asked.
 
-Grede said, "Grim Batol is already on the right track. You and I brought High Thane Kurdran back. We met the Dragonqueen. Now even the Anvil of Kardros is back in operation. And don't make it sound like I'm walking off to the edge of the world never to return. If you get into trouble over here, you can send word through the wind or fire elementals, and I'll come right back. Don't underestimate me -- I can hear the elementals too. And they'd be happy to do you that favor."
+Grede said, "Grim Batol is already on the right track. You and I brought High Thane Kurdran back. We met the Dragonqueen. Now even the Anvil of Khardros is back in operation. And don't make it sound like I'm walking off to the edge of the world never to return. If you get into trouble over here, you can send word through the wind or fire elementals, and I'll come right back. Don't underestimate me -- I can hear the elementals too. And they'd be happy to do you that favor."
 
 "You've really thought this through." Jace said. "So you're sure you want to stay in Kalimdor?"
 
@@ -56,13 +56,13 @@ Grede hemmed and hawed for a while, then flailed his arms. "Don't say 'sure' or 
 
 "You lost to Needleflame again?" Jace asked.
 
-"Hmph, you son of a..." The dwarf muttered. "I'm not drunk. Just a bit confused. My brain's having trouble turning. Maybe this means this bizarre, long journey is finally coming to an end. Subtitle -- 'The Legendary Adventures of Jace Sesso the Warlock and Former Gryphon Rider Grede Thunderfist.'"
+"Hmph, you son of a..." The dwarf muttered. "I'm not drunk. Just a bit confused. My brain's having trouble turning. Maybe this means this bizarre, long journey is finally coming to an end. Subtitle -- 'The Legendary Adventures of Jace Sesso the Warlock and Former gryphon rider Grede Thunderfist.'"
 
 He stared blankly at a painting on the wall for a moment. "I'm getting sleepy. I'll just crash here tonight. Tell me a story."
 
 "What story?" Jace asked.
 
-"A bedtime story. Like the one I just described." Grede said. "My dad used to tell me stories like that. Amazing ones. Like the green dragon deep in the Hinterlands forest... Dammit, I should ask Sora if she knows that dragon. I can't believe I never thought to ask all these years. Hurry up and tell me something interesting."
+"A bedtime story. Like the one I just described." Grede said. "My dad used to tell me stories like that. Amazing ones. Like the green dragon deep in the Hinterlands forest... Dammit, I should ask Sola if she knows that dragon. I can't believe I never thought to ask all these years. Hurry up and tell me something interesting."
 
 Jace thought for a moment, then sat down beside him. "Once upon a time, there was a druid."
 
@@ -92,7 +92,7 @@ Jace thought for a moment, then sat down beside him. "Once upon a time, there wa
 
 This guy was crying. Crying like a gnoll who'd come back from a hunt to find his camp set on fire by Stormwind patrolmen.
 
-Jace just let the dwarf's enormous head rest on his shoulder, until he stopped hiccuping and babbling in barely intelligible Dwarven. Until his snores drowned out the noise from the banquet hall behind them.
+Jace just let the dwarf's enormous head rest on his shoulder, until he stopped hiccuping and babbling in barely intelligible Dwarvish. Until his snores drowned out the noise from the banquet hall behind them.
 
 *Sleep well, my good son,* Jace thought to himself.
 
@@ -118,9 +118,9 @@ Jace couldn't help a bitter laugh. "Don't just stand there feeling sorry for you
 
 "Sorry, I meant someone else," Jace said.
 
-Morofel emerged from the shadows, kicked the imp aside, folded her wings, and said coldly, "Come now, Master. This is precisely what a Succubus should do -- help carry a drunkard, and ask for nothing in return."
+Morophil emerged from the shadows, kicked the imp aside, folded her wings, and said coldly, "Come now, Master. This is precisely what a succubus should do -- help carry a drunkard, and ask for nothing in return."
 
-"Losing track of a demon isn't a big deal, Morofel." Vereesa lifted one of Grede's legs. "Even the most skilled hunter misses sometimes. We Farstriders know that best."
+"Losing track of a demon isn't a big deal, Morophil." Vereesa lifted one of Grede's legs. "Even the most skilled hunter misses sometimes. We Farstriders know that best."
 
 The succubus grabbed Grede's other leg and flashed a smile with no warmth in it. "Save the act, Windrunner."
 

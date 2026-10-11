@@ -2,19 +2,19 @@
 
 Compared to the game's map — compared even to the map they'd scraped together in Gadgetzan — Winterspring was startlingly vast.
 
-And this long trudge through the snow wasn't anything like the time in Ashenvale, when you could zone out on a saber cat's back and let the hours drift by. Every single day here was brutal.
+And this long trudge through the snow wasn't anything like the time in Ashenvale, when you could zone out on a nightsaber's back and let the hours drift by. Every single day here was brutal.
 
 Using Mount Hyjal's position on the map as a reference, the three of them shuffled between snowdrifts and frozen rivers and lakes for what felt like ages. It wasn't until the third day that they finally found their way back to the main road through the forest.
 
 Through all of it, Grede had been carrying that horn around, muttering about getting a good price for it.
 
-The horn was strapped to Grede's back like a crudely forged giant scimitar. When they'd watched the chimera's head shatter and the horn break off from the sky, none of them had expected the thing to be this massive once it hit the ground.
+The horn was strapped to Grede's back like a crudely forged giant scimitar. When they'd watched the chimaera's head shatter and the horn break off from the sky, none of them had expected the thing to be this massive once it hit the ground.
 
 They'd figured they'd need to search for a while, but it wasn't long before they spotted it — the horn and several chunks of rubble sticking straight up out of the snow.
 
-After that, Grede spent the next several days marching ahead with relentless enthusiasm. If it hadn't been for the frostwind chimera horn, he definitely wouldn't have had the motivation to keep pushing everyone forward the whole way.
+After that, Grede spent the next several days marching ahead with relentless enthusiasm. If it hadn't been for the chillwind chimaera horn, he definitely wouldn't have had the motivation to keep pushing everyone forward the whole way.
 
-Jace, for his part, didn't think a chimera horn would sell for all that much. They'd barely set foot in Winterspring before running into a beast this size — if horns like this were worth a fortune, then the three of them must be spectacularly unlucky.
+Jace, for his part, didn't think a chimaera horn would sell for all that much. They'd barely set foot in Winterspring before running into a beast this size — if horns like this were worth a fortune, then the three of them must be spectacularly unlucky.
 
 After following the road for roughly two days, a passing airship suddenly appeared in the distant sky.
 
@@ -72,7 +72,7 @@ Grede lowered his voice. "That elder could somehow mistake a Lordaeronian for an
 
 The group entered the gate and looked toward the small square at the town center. From there, you could see straight down the street to the opposite wall.
 
-Everlook was a bit larger than in the game. The small square connected to several streets, and the windproof, heat-preserving rounded-arch cabins were arranged one after another like steamed buns, all covered in thick snow, as though a layer of cream had been dusted over a bamboo steamer.
+Everlook was a bit larger than in the game. The small square connected to several streets, and the windproof, heat-preserving rounded-arch cabins were arranged one after another like round loaves fresh from the oven, all covered in thick snow, as though the whole batch had been dusted with sugar.
 
 The town was certainly far smaller than Gadgetzan, but it didn't feel the least bit quiet. Residents and travelers came and went in droves, and the variety of races on display looked even more diverse than Gadgetzan's — you could get a hint of it just from that group of mercenaries preparing to set out beyond the walls.
 
@@ -82,7 +82,7 @@ Jace remembered that in the game, there were members of the Thorium Brotherhood 
 
 A goblin guard eyed their luggage and said, "Looks like you've had quite the haul, hunters. Pick up anything interesting?"
 
-"Oh, quite the haul," Grede said, looking at him. "Got anything like a trade station around here?"
+"Oh, quite the haul," Grede said, looking at him. "Got anything like a auction house around here?"
 
 "You mean like the kind in Gadgetzan? Of course not," the goblin guard said, shaking off the dwarf's hand. "You've come to the wrong place if you're looking to rob someone, you black-bearded old bastard."
 
@@ -90,19 +90,19 @@ A goblin guard eyed their luggage and said, "Looks like you've had quite the hau
 
 "With this many mercenaries and hunters around, there's got to be a place that buys their hauls? I've got something here I'd like appraised."
 
-With that, the dwarf unslung the chimera horn from his back and showed it to the goblin. The goblin guard straightened his helmet and glanced at it. "Oh, my — that's huge… The place you want is the Pelt Acquisition Station!"
+With that, the dwarf unslung the chimaera horn from his back and showed it to the goblin. The goblin guard straightened his helmet and glanced at it. "Oh, my — that's huge… The place you want is the Pelt Acquisition Station!"
 
-He pointed to a cabin up ahead with a crowd of people and goods crammed around its door. "That's your trading post for your lot. Hurry on over. That thing's worth a lot of money — I haven't seen a chimera horn that big in years!"
+He pointed to a cabin up ahead with a crowd of people and goods crammed around its door. "That's your trading post for your lot. Hurry on over. That thing's worth a lot of money — I haven't seen a chimaera horn that big in years!"
 
-"You hear that, Jace?" Grede turned back to look at the others behind him. "I told you it was a legendary chimera. How could an ordinary beast have laid a hand on us? Come on, follow me!"
+"You hear that, Jace?" Grede turned back to look at the others behind him. "I told you it was a legendary chimaera. How could an ordinary beast have laid a hand on us? Come on, follow me!"
 
 Hearing the goblin say that, Jace was a little stunned too. He exchanged a glance with Vereesa and could only follow along — after all, he was curious how much it would fetch.
 
 A good number of hunters and fur traders were sitting around the station's entrance, chatting or idling. Quite a few had brought their hounds or big cats, so growls and barks rose and fell in waves.
 
-When Grede's group first approached, only a few curious onlookers glanced over. But very quickly, more and more people noticed the chimera horn in Grede's hands, and amid the murmuring, everyone soon turned to look their way.
+When Grede's group first approached, only a few curious onlookers glanced over. But very quickly, more and more people noticed the chimaera horn in Grede's hands, and amid the murmuring, everyone soon turned to look their way.
 
-"Another chimera horn — and this big, too."
+"Another chimaera horn — and this big, too."
 
 "Is that one of Nesingwary's people?"
 
@@ -116,19 +116,19 @@ He followed along in front of Jace talking the whole time, but his eyes never le
 
 "Let me see, let me see… don't rush."
 
-A goblin behind the counter set the broken chimera horn on the table and ran his hands over it again and again, his breathing growing heavier and heavier.
+A goblin behind the counter set the broken chimaera horn on the table and ran his hands over it again and again, his breathing growing heavier and heavier.
 
-"This thing of yours is something else, you see. Look at the grain on this horn — right here, you can tell its age. This chimera must have been over a hundred years old. It was active here decades before the Trade Cartel even established Everlook. You understand what that means? There aren't many chimeras this big left in all of Winterspring!"
+"This thing of yours is something else, you see. Look at the grain on this horn — right here, you can tell its age. This chimaera must have been over a hundred years old. It was active here decades before the Steamwheedle Cartel even established Everlook. You understand what that means? There aren't many chimaeras this big left in all of Winterspring!"
 
-"You went and hunted an adult chimera?" a dwarf hunter with a rifle leaned in and asked. "Have you lost your minds?"
+"You went and hunted an adult chimaera?" a dwarf hunter with a rifle leaned in and asked. "Have you lost your minds?"
 
 "It was hunting us — we fought it off," Jace replied.
 
-"A great chimera can summon storms!" the dwarf hunter said. "Even a Shattertooth bear wouldn't survive that kind of cold, let alone you lot. How is that possible? Look at the clothes you're wearing — I'd say you'd have trouble just crossing Winterspring. Don't think flying here in an airship is the same thing as trekking through a Winterspring blizzard! I'll bet that horn was broken off in a fight."
+"A great chimaera can summon storms!" the dwarf hunter said. "Even a Shardtooth bear wouldn't survive that kind of cold, let alone you lot. How is that possible? Look at the clothes you're wearing — I'd say you'd have trouble just crossing Winterspring. Don't think flying here in an airship is the same thing as trekking through a Winterspring blizzard! I'll bet that horn was broken off in a fight."
 
-"You and Duval Cedar have been running around Winterspring all these years, and you've ever seen an adult chimera horn lying on the ground? That doesn't even sound like something a seasoned hunter would say," a nearby hunter muttered.
+"You and Daval Cedar have been running around Winterspring all these years, and you've ever seen an adult chimaera horn lying on the ground? That doesn't even sound like something a seasoned hunter would say," a nearby hunter muttered.
 
-"So you'd rather believe these rookies survived an attack from a great chimera?"
+"So you'd rather believe these rookies survived an attack from a great chimaera?"
 
 The trading post was actually a fairly large cabin, but with this many hunters and fur traders packed inside and out, the whole place felt airless, thick with the smell of frozen sweat and blood.
 
@@ -152,11 +152,11 @@ Grede glanced at him and nodded, also making sure the necklace around his neck w
 
 All in all, this place didn't feel all that friendly anymore. Grede leaned over the counter, craning his neck, and asked, "So what's the price? Name something close and I'll sell it."
 
-"You can count on at least one gold coin for this," the goblin said, placing a gold coin stamped with the head of some unknown goblin on the table, then scattering a large handful of silver coins over it. "We'll take it for an additional ten silver. How's that sound? It is a great chimera's horn, after all, but it's already broken, and it looks like there's some damage too — that might affect its effectiveness as a magic reagent or alchemy material, gentlemen."
+"You can count on at least one gold coin for this," the goblin said, placing a gold coin stamped with the head of some unknown goblin on the table, then scattering a large handful of silver coins over it. "We'll take it for an additional ten silver. How's that sound? It is a great chimaera's horn, after all, but it's already broken, and it looks like there's some damage too — that might affect its effectiveness as a magic reagent or alchemy material, gentlemen."
 
 Grede frowned and poked at the silver coins on top, clearly unsatisfied with the price. "Two gold," Jace said, gripping the horn. "Not a copper less."
 
-Laughter rippled through the chatter of hunters nearby. Jace caught it from the corner of his eye and sensed quite a few people watching them closely — were they interested in the chimera horn too?
+Laughter rippled through the chatter of hunters nearby. Jace caught it from the corner of his eye and sensed quite a few people watching them closely — were they interested in the chimaera horn too?
 
 "Add another twenty silver, how about that?" the goblin said, pulling out another handful of silver coins of miscellaneous designs and setting them on the table with a smile.
 
@@ -164,19 +164,10 @@ Laughter rippled through the chatter of hunters nearby. Jace caught it from the 
 
 Of course Jace could read what he was thinking, so he said, "We'll keep it as a souvenir. And I'm sure we could sell it for at least double in Booty Bay."
 
-"All right, all right, two gold," the goblin said, sweeping the silver aside and setting out another gold coin. "That's my final offer. It's a rare great chimera horn, after all — a bit more expensive is only fair."
+"All right, all right, two gold," the goblin said, sweeping the silver aside and setting out another gold coin. "That's my final offer. It's a rare great chimaera horn, after all — a bit more expensive is only fair."
 
 "Why couldn't you have been this straightforward from the start?" Grede said happily, clutching the gold coin in his hand. "Got any good places to eat around here?"
 
-The goblin waggled his fingers. "Go straight out the door, and when you see a broken vending robot, the cabin next to it is Simik's Tavern. Its sign got wrecked by some goat that someone dragged in, and he's fixing it now."
+The goblin waggled his fingers. "Go straight out the door, and when you see a broken vending robot, the cabin next to it is Himmik's Tavern. Its sign got wrecked by some ram that someone dragged in, and he's fixing it now."
 
 Vereesa glanced outside and finally let out a smile. Grede tossed a gold coin to Jace and said, holding the remaining gold coin in his hand, "My treat today!"
-
-## Flags
-
-- **POV consistency**: Third person throughout.
-- **Glossary adherence**: 温蕾萨·风行者 → Vereesa Windrunner (canonical — Sylvanas's sister, Silvermoon Ranger-General); 格瑞德·雷拳 → Grede Thunderfist; 杰斯·塞索 → Jace Sesso; 莫洛菲尔 → Morophil (succubus); 莫萨·木鬃 → Mosa Woodmane (tauren druid); 冬泉谷 → Winterspring; 加基森 → Gadgetzan; 海加尔山 → Mount Hyjal; 永望镇 → Everlook; 奇美拉 / 冰风奇美拉 → chimera / frostwind chimera; 木喉要塞 → Timbermaw Hold; 熊怪 → furbolgs; 瑟银兄弟会 → Thorium Brotherhood; 奈辛瓦里 → Nesingwary; 辛萨罗 → Zinsara; 藏宝海湾 → Booty Bay; 热砂财团 → the Trade Cartel; 萨拉斯语 → Thalassian; 通用语 → Common; 地精语 → Goblin.
-- **Additional names**: 西米克 → Simik (goblin tavern keeper); 杜瓦尔·雪松 → Duval Cedar (dwarf hunter); 碎齿熊 → Shattertooth bear; 山地狮 → mountain lion; 洛丹伦人 → Lordaeronian; 黑铁矮人 → Dark Iron dwarf; 半精灵 → half-elf.
-- **Tone**: Jace's dry pragmatism preserved (the "spectacularly unlucky" bit, the Booty Bay haggling); Grede's excitement over the horn and his treat-paying bravado kept hearty; the tension of the half-elf's hatred and the crowd's scrutiny treated as a genuine threat.
-- **Lore accuracy**: Everlook as the Trade Cartel's northern Winterspring outpost preserved; Nesingwary as the canonical master hunter preserved; the Thorium Brotherhood's presence in Everlook preserved; Shattertooth bears as Winterspring apex predators preserved; the great chimera's storm-summoning ability preserved.
-- **Chapter title**: "Everlook" — canonical WoW name for 永望镇.

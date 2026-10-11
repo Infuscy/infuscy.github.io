@@ -16,7 +16,7 @@ Which side was the dream?
 
 If that side was the dream, then what about now?
 
-Jace heard Vereesa's laughter in the distance, which reminded him of Kalimor. Before he knew it, he'd hugged his skeletal legs tight.
+Jace heard Vereesa's laughter in the distance, which reminded him of Kalimdor. Before he knew it, he'd hugged his skeletal legs tight.
 
 Lifespan angst, huh? You bastard.
 
@@ -60,17 +60,17 @@ Jace was silent for a moment. "No."
 
 "Then listen to me." The man turned his head back. "Krasus has concealed much from you, but I will be frank with you."
 
-"I didn't go well in Draenor. I was forced to withdraw to Azeroth. Now I must hide myself and seek other opportunities to protect and strengthen my flight, Sesso. But everyone thinks I've failed — even died — including those who once claimed to serve me and follow me."
+"Things did not go well for me on Draenor. I was forced to withdraw to Azeroth. Now I must hide myself and seek other opportunities to protect and strengthen my flight, Sesso. But everyone thinks I've failed — even died — including those who once claimed to serve me and follow me."
 
-"Yet the Dragonmaw orc leader Nek'rosh still holds certain important artifacts. One of them is mine — this artifact is the key to controlling Alexstrasza. Without it, the Dragonmaw orcs in Grim Batol cannot withstand her wrath."
+"Yet the Dragonmaw orc leader Nekros still holds certain important artifacts. One of them is mine — this artifact is the key to controlling Alexstrasza. Without it, the Dragonmaw orcs in Grim Batol cannot withstand her wrath."
 
 The Demon Soul, Jace thought. Or the Dragon Soul.
 
-Of course, this artifact that had once been hoped to destroy the Burning Legion's invasion during the War of the Ancient had almost never been used for its original purpose. By now, no one was willing to call this evil-corrupted abomination the "Dragon Soul" anymore.
+Of course, this artifact that had once been hoped to destroy the Burning Legion's invasion during the War of the Ancients had almost never been used for its original purpose. By now, no one was willing to call this evil-corrupted abomination the "Dragon Soul" anymore.
 
 At that, the man's voice suddenly dropped.
 
-"My children tell me that ever since the Dark Portal closed, Nek'rosh has believed I was dead. This artifact rightfully belongs to him, and the vast number of dragon eggs he originally promised me have all been wasted. This is unforgably foolish — an unforgivable, shameful betrayal."
+"My children tell me that ever since the Dark Portal closed, Nekros has believed I was dead. He thinks the artifact is rightfully his now, and the vast number of dragon eggs he originally promised me have all been wasted. This is unforgivably foolish — an unforgivable, shameful betrayal."
 
 "I won't have you openly oppose the red dragons or the Alliance. That wouldn't be fair to you. You only need to go deep into Khaz Modan, kill this traitor, seize the artifact, and after taking control of the Dragonmaw clan, have the orcs send out the dragon eggs Alexstrasza has laid from Grim Batol, hiding them together with that holy relic deep in the mountains to the south."
 
@@ -104,7 +104,7 @@ Could he refuse Deathwing?
 
 Jace lowered his head and saw a black dragon claw carving a smoky, blood-seeping sigil into his skin.
 
-"This magical mark allows me to hear your voice. If you encounter difficulty, I won't stand idly by — after all, the fate of my future brood rests in my hands. It's just that I can't attract too much attention right now, so I can't appear directly. I hope you understand my difficulty."
+"This magical mark allows me to hear your voice. If you encounter difficulty, I won't stand idly by — after all, the fate of my future brood rests in your hands. It's just that I can't attract too much attention right now, so I can't appear directly. I hope you understand my difficulty."
 
 "How did you find me?" Jace asked.
 

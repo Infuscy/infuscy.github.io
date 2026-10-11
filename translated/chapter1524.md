@@ -2,23 +2,23 @@
 
 Because of the Wildhammer gryphon riders' raid on the Dark Iron Excavation Site, the Dark Iron dwarves in the Searing Gorge were still on high alert after the attack.
 
-To avoid stirring up trouble on the road while they weren't yet disguised as Dark Iron dwarves — which could alert the Dark Irons and possibly get the passage into Shadowforge City sealed — the SI:7 agents suggested giving up on the Searing Gorge route. Instead, they would go through the Northshire woods to reach the vicinity of Mount Kaz, follow the Deadwater Falls upstream, and enter a still-living valley northwest of the Burning Steppes. From there, they'd approach the north side of Blackrock Mountain.
+To avoid stirring up trouble on the road while they weren't yet disguised as Dark Iron dwarves — which could alert the Dark Irons and possibly get the passage into Shadowforge City sealed — the SI:7 agents suggested giving up on the Searing Gorge route. Instead, they would go through the Northshire woods to reach the vicinity of Mount Khaz, follow the Deadwater Falls upstream, and enter a still-living valley northwest of the Burning Steppes. From there, they'd approach the north side of Blackrock Mountain.
 
-For the two young dragons, of course, flying high enough to cross the Kaz mountain range directly wasn't a problem — but it wasn't so easy for the Stormwind gryphons.
+For the two young dragons, of course, flying high enough to cross the Khaz mountain range directly wasn't a problem — but it wasn't so easy for the Stormwind gryphons.
 
-The gryphons couldn't simply dive straight toward Blackrock Mountain like Sora, shielded by the Emerald Dream's power, or Needleflame, who was perfectly happy with smoke and fire. So they needed to find a landing point that wasn't too deep into the Burning Steppes but also wasn't too far north of Blackrock Mountain — close enough that the gryphons could still make the round trip with enough health and stamina.
+The gryphons couldn't simply dive straight toward Blackrock Mountain like Sola, shielded by the Emerald Dream's power, or Needleflame, who was perfectly happy with smoke and fire. So they needed to find a landing point that wasn't too deep into the Burning Steppes but also wasn't too far north of Blackrock Mountain — close enough that the gryphons could still make the round trip with enough health and stamina.
 
-The plan was this: two SI:7 agents would depart from the gryphon roost on Stormwind's walls with two human gryphon riders, while Jace's group would take off outside the city with Sora. They'd meet up in the Northshire valley, then head north together.
+The plan was this: two SI:7 agents would depart from the gryphon roost on Stormwind's walls with two human gryphon riders, while Jace's group would take off outside the city with Sola. They'd meet up in the Northshire valley, then head north together.
 
 Jace held his luggage in one hand and the route map SI:7 had drawn for him in the other, glancing north as he compared the map's mountain contours with what he saw ahead.
 
 In the game, the Northshire valley was a semi-enclosed "newbie zone." Without a flying mount, there was no way to leave on foot except by passing south through the gate into Elwynn Forest.
 
-But in reality, the area north of Northshire was a vast forest, with rivers running through it to the sea — Jace had noticed this on his previous trips to Dalaran. The Deadwater Falls the SI:7 agent had mentioned was a cascade flowing down from Mount Kaz to the north, feeding into a river north of Northshire forest.
+But in reality, the area north of Northshire was a vast forest, with rivers running through it to the sea — Jace had noticed this on his previous trips to Dalaran. The Deadwater Falls the SI:7 agent had mentioned was a cascade flowing down from Mount Khaz to the north, feeding into a river north of Northshire forest.
 
-Just then, a faint floral-scented breeze brushed his face. Sora, crouching among the trees, let out a long breath. Jace didn't even need to look up to know Grede had just climbed onto her back.
+Just then, a faint floral-scented breeze brushed his face. Sola, crouching among the trees, let out a long breath. Jace didn't even need to look up to know Grede had just climbed onto her back.
 
-"Carrying this one really takes it out of you, Sora!" Vereesa said. "I'm sorry you have to deal with him."
+"Carrying this one really takes it out of you, Sola!" Vereesa said. "I'm sorry you have to deal with him."
 
 "I'm the key player this time, don't think about leaving me behind, little elf!" Grede said.
 
@@ -32,33 +32,33 @@ He glanced almost unconsciously toward Needleflame, who was gnawing on her own s
 
 "What are you looking at? No way!" Needleflame turned her head back and warned him in her raspy, angry voice.
 
-"I didn't ask you to carry me," Jace said, waving a finger. "But you could help Sora carry the warhammer, couldn't you? You said before it was nothing to you."
+"I didn't ask you to carry me," Jace said, waving a finger. "But you could help Sola carry the warhammer, couldn't you? You said before it was nothing to you."
 
-Needleflame tilted her head left and right, then looked askance toward Sora. "Fine. I'll be the one carrying it into Blackrock Mountain anyway."
+Needleflame tilted her head left and right, then looked askance toward Sola. "Fine. I'll be the one carrying it into Blackrock Mountain anyway."
 
-"Then it's settled, little sister!"
+"Then it's settled, lass!"
 
 Grede tossed the whole bundle over. The black dragon caught it cleanly in her mouth, then rolled her eyes at Jace in disgust.
 
-Jace sighed, climbed onto Sora's back, and leaned comfortably against the green dragon's warm scales, stretching. "Ah, being close to our Sora is much more comforting."
+Jace sighed, climbed onto Sola's back, and leaned comfortably against the green dragon's warm scales, stretching. "Ah, being close to our Sola is much more comforting."
 
-Sora raised her neck happily. Needleflame gripped the bundle holding the Sulfuron Hammer in one claw, snorted two puffs of thick smoke from her nostrils, and muttered in draconic: "Damn warlock, I'm never playing with you again!"
+Sola raised her neck happily. Needleflame gripped the bundle holding the Sulfuron Hammer in one claw, snorted two puffs of thick smoke from her nostrils, and muttered in Draconic: "Damn warlock, I'm never playing with you again!"
 
-With that, the little black dragon exploded through the canopy with a thunderous crash, forcing Sora to lift her wings and take off while still watching out for her passengers. But by then, Needleflame was already far to the northeast.
+With that, the little black dragon exploded through the canopy with a thunderous crash, forcing Sola to lift her wings and take off while still watching out for her passengers. But by then, Needleflame was already far to the northeast.
 
 Northshire Valley was a valley carved out by the hills extending into Elwynn Forest from below Redridge, isolated by the continuous hills supporting Stormwind's walls. Beyond these low slopes, another forest sprawled, and at the edge of sight lay sprawling green vineyards.
 
-As Sora climbed higher, Jace soon saw the town surrounded by those patches of vineyards — red-tiled and blue-tiled low houses packed closely together, with a towering abbey standing among the buildings and tall trees. That was Northshire. Medivh's birthplace. And in the game, the starting zone for human players.
+As Sola climbed higher, Jace soon saw the town surrounded by those patches of vineyards — red-tiled and blue-tiled low houses packed closely together, with a towering abbey standing among the buildings and tall trees. That was Northshire. Medivh's birthplace. And in the game, the starting zone for human players.
 
 Gazing at this idyllic, dreamlike scene, it was hard to imagine that during the Orc Wars, Northshire Abbey had been the headquarters of Cho'gall's Twilight's Hammer clan. It had suffered no less war and devastation than Stormwind itself. But nearly ten years had passed, and the valley had largely returned to its former peace and tranquility.
 
 Since most of the people living here were either church clergy, vineyard laborers, farmers, or others involved in the grape industry, Jace had never visited before. Getting a chance to see the place — and the true source of all those so-called "Dalaran Cellar Wines" sold in Stormwind — wasn't bad.
 
-Sora, of course, didn't fly directly over Northshire. Jace silently hoped Needleflame hadn't done that either. But the thought hadn't lingered long in his mind before he heard the wild shrieking of gryphons echoing out of the deep Northshire forest ahead...
+Sola, of course, didn't fly directly over Northshire. Jace silently hoped Needleflame hadn't done that either. But the thought hadn't lingered long in his mind before he heard the wild shrieking of gryphons echoing out of the deep Northshire forest ahead...
 
 Even though SI:7 had been told in advance that the black dragon they'd brought back from Draenor — the one locked in the Stonewatch tower — would also be coming along to Blackrock Mountain, the agents knew and the riders knew, but the gryphons definitely didn't.
 
-Sora immediately beat her wings faster and shot toward the sound. Sure enough, she soon spotted Needleflame circling above the forest with two gryphons in tow. No matter how the riders yelled, the gryphons wouldn't calm down. They were hell-bent on fighting this unmistakably evil dark-brown foe to the death.
+Sola immediately beat her wings faster and shot toward the sound. Sure enough, she soon spotted Needleflame circling above the forest with two gryphons in tow. No matter how the riders yelled, the gryphons wouldn't calm down. They were hell-bent on fighting this unmistakably evil dark-brown foe to the death.
 
 "Grede," Jace said. "You're up. Quick."
 
@@ -72,7 +72,7 @@ Strangely enough, the two gryphons that no amount of human urging could calm act
 
 "Hard to explain." Grede puffed up proudly. "Dealing with gryphons is an art. Forty years ago, when I first rode a gryphon in the Hinterlands—"
 
-Vereesa took a deep breath and turned to Sora with a helpless expression. "We need to get going, Sora. By the time he finishes making up his heroic tales, Dagran Thaurissan's Ironfury Legion will have already founded a new alliance in Lordaeren."
+Vereesa took a deep breath and turned to Sola with a helpless expression. "We need to get going, Sola. By the time he finishes making up his heroic tales, Dagran Thaurissan's Anvilrage Legion will have already founded a new alliance in Lordaeron."
 
 "Making up?!" Grede roared. "Tell me, Lady Vereesa Windrunner — was I a gryphon rider captain or wasn't I?!"
 
@@ -88,11 +88,11 @@ The two gryphons landed beside a dry riverbed. Everyone dismounted from their dr
 
 Needleflame, still gripping the Sulfuron Hammer in her claw, transformed into a heavily-armored Dark Iron dwarf. She seemed to be getting used to transforming while carrying the hammer.
 
-After Sora transformed into a Dark Iron dwarf as well, Grede came over to Jace. "Let's have a look at that robe, Jace."
+After Sola transformed into a Dark Iron dwarf as well, Grede came over to Jace. "Let's have a look at that robe, Jace."
 
-"Here." Jace opened the box Jaelen Airo had given him. Vereesa, Needleflame, and Sora all crowded around curiously. Even the two SI:7 agents couldn't help peeking over.
+"Here." Jace opened the box Jalane Ayrole had given him. Vereesa, Needleflame, and Sola all crowded around curiously. Even the two SI:7 agents couldn't help peeking over.
 
-Whatever Jaelen had done to the robe after the ritual, Jace felt it wasn't quite thorough enough. The demonic face on the robe looked like it was still struggling, still trying to crawl out of the box — even though his eyes told him nothing was happening.
+Whatever Jalane had done to the robe after the ritual, Jace felt it wasn't quite thorough enough. The demonic face on the robe looked like it was still struggling, still trying to crawl out of the box — even though his eyes told him nothing was happening.
 
 "When I looked at that volcano earlier, I thought it was scary," Grede said, lifting his head. "Now I'm starting to feel sorry for the Dark Iron dwarves."
 

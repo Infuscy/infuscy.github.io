@@ -2,7 +2,7 @@
 
 Coming out of the Violet Hold and onto the streets of Dalaran, the sun was already overhead.
 
-Crowds of people came and went. Young apprentices hurried toward the academy buildings. Wizards in wide-brimmed hats were still discussing everything that had happened at the Sky Council.
+Crowds of people came and went. Young apprentices hurried toward the academy buildings. Wizards in wide-brimmed hats were still discussing everything that had happened at the Chamber of Air.
 
 The sky was clear and bright, dotted with streaks of pure white clouds.
 
@@ -12,19 +12,19 @@ But they just hung there, almost motionless.
 
 If not Kel'Thuzad, then who?
 
-Since Kil'jaeden had gone to the trouble of using Jace's possession of Uthalesh to throw Lordaeron into chaos — just to cover up Anshlun Runeval's identity and let him take the Book of Medivh — that meant the endgame should be roughly the same as in the other timeline.
+Since Kil'jaeden had gone to the trouble of using Jace's possession of Ulthalesh to throw Lordaeron into chaos — just to cover up Ansirem Runeweaver's identity and let him take the Book of Medivh — that meant the endgame should be roughly the same as in the other timeline.
 
 A powerful summoner. A sufficient energy source.
 
-Was it Runeval? Had he already gone to find the other dreadlords to use the Book of Medivh together?
+Was it Runeweaver? Had he already gone to find the other dreadlords to use the Book of Medivh together?
 
-How could that be? If the book wasn't in the vault, it could have been missing for months. And Runeval had still been in Dalaran when the dreadlord at the monastery was exposed — at least according to other mages.
+How could that be? If the book wasn't in the vault, it could have been missing for months. And Runeweaver had still been in Dalaran when the dreadlord at the monastery was exposed — at least according to other mages.
 
 Which meant he probably hadn't participated in the summoning ritual at all.
 
 What about the energy source? Dalaran? The Sunwell?
 
-For the past six months, Banthinorel had been completely still. The Sunwell's energy hadn't changed. Dalaran's magical barrier hadn't changed either — except for the bit of turbulence their group had caused.
+For the past six months, Ban'dinoriel had been completely still. The Sunwell's energy hadn't changed. Dalaran's magical barrier hadn't changed either — except for the bit of turbulence their group had caused.
 
 "What exactly does this have to do with Kel'Thuzad?" Khadgar caught up to the warlock. "What are you thinking, Jace?"
 
@@ -32,7 +32,7 @@ Jace turned to look at the mage, and something flashed through his mind.
 
 "Do you remember, before we said goodbye at Stormwind Harbor, heading to Kalimdor to find Onyxia — those days of nonstop heavy rain?"
 
-"You mean the ley line tremors from those days." Khadgar paused, then rubbed his forehead hard. "The business with Karazhan and Uthalesh has turned the entire Dalaran into a mess. I don't even know if the mages I sent earlier are still investigating. But honestly, Jace, I don't think those ley line tremors had anything to do with opening a channel to the Twisting Nether to summon demons."
+"You mean the ley line tremors from those days." Khadgar paused, then rubbed his forehead hard. "The business with Karazhan and Ulthalesh has turned the entire Dalaran into a mess. I don't even know if the mages I sent earlier are still investigating. But honestly, Jace, I don't think those ley line tremors had anything to do with opening a channel to the Twisting Nether to summon demons."
 
 "Why are you so sure?" Jace asked.
 
@@ -40,11 +40,11 @@ Khadgar glanced at the passersby hurrying around them and lowered his voice. "Wh
 
 "And besides, how long has it been now? Almost half a year. There haven't been any more similar fluctuations since, or any strange weather patterns from them, Jace. What I'm saying is... now that we've just realized we were heading in the wrong direction, maybe we should calm down and plan our next move carefully."
 
-"The Kirin Tor is already tracking Anshlun Runeval. There are also outposts monitoring key ley line nodes across the continent, including Northrend. If the Book of Medivh really has been missing for months, and the demons still haven't made any major moves in all that time — just trying to create chaos and smear your name — doesn't that suggest they might not have found the right way to summon yet?"
+"The Kirin Tor is already tracking Ansirem Runeweaver. There are also outposts monitoring key ley line nexuses across the continent, including Northrend. If the Book of Medivh really has been missing for months, and the demons still haven't made any major moves in all that time — just trying to create chaos and smear your name — doesn't that suggest they might not have found the right way to summon yet?"
 
 "But I still want to see the results of your investigation into those ley line fluctuations." Jace said. "Even if it's just preliminary findings."
 
-"Fine." Khadgar planted his hands on his hips. "But first tell me why the first person you thought of was Kel'Thuzad. What does he have to do with the Book of Medivh, or Runeval?"
+"Fine." Khadgar planted his hands on his hips. "But first tell me why the first person you thought of was Kel'Thuzad. What does he have to do with the Book of Medivh, or Runeweaver?"
 
 Jace was silent for a moment, then said, "The Book of Medivh was stolen from Alterac by the black dragons. And Kel'Thuzad himself was involved in the theft of those three artifacts by the black dragons and death knights. I'm worried he's involved this time too."
 
@@ -62,13 +62,13 @@ Jace was silent for a moment, then said, "The Book of Medivh was stolen from Alt
 
 "You're only twenty-seven years old, Jace Sesso." Khadgar tugged at the warlock's cloak. "And yet you're already a hero who has defeated Deathwing, saved the Sons of Lothar, and conquered Blackrock Spire. Even my teacher Medivh at your age... well, in any case, anyone would wonder how you came by such power. One of the suspicions, naturally, is that — like Kel'Thuzad — you might have made some deal with orcs, the Burning Legion, necromancy, or the like."
 
-"So when the Kirin Tor and the Magisterium connected the clues about Uthalesh, it was like they'd finally found the unified solution to every suspicion."
+"So when the Kirin Tor and the Magisterium connected the clues about Ulthalesh, it was like they'd finally found the unified solution to every suspicion."
 
 "Indeed," Jace said.
 
-"Let's not talk about this in the street." Khadgar beckoned. "Come with me to Krasus Square. We'll find two gryphons to Southshore. The mages I sent to investigate the ley line fluctuations are working there. We'll go and come back quickly."
+"Let's not talk about this in the street." Khadgar beckoned. "Come with me to Krasus' Landing. We'll find two gryphons to Southshore. The mages I sent to investigate the ley line fluctuations are working there. We'll go and come back quickly."
 
-After explaining the situation to Grede and Sora back at the Violet Citadel, Jace followed Khadgar on gryphon-back toward Southshore. Crossing the mountain ranges of Alterac and the wooded hills of Hillsbrad, they arrived at Southshore by evening.
+After explaining the situation to Grede and Sola back at the Violet Citadel, Jace followed Khadgar on gryphon-back toward Southshore. Crossing the mountain ranges of Alterac and the wooded hills of Hillsbrad, they arrived at Southshore by evening.
 
 The two ate a simple meal at an inn, then went to a standalone cottage near the harbor. Though the cottage looked old and small from the outside, the Dalaran eye emblem by the door was still quite conspicuous.
 
@@ -90,7 +90,7 @@ The archmage knocked. A fairly young mage opened the door. Seeing Khadgar, he bl
 
 "Understandable." Khadgar lowered his head.
 
-Kinsburg spread a map of Azeroth on the table. Kalimdor, the Eastern Kingdoms, Northrend, and the Maelstrom were all marked. In addition, many important ley line nodes were indicated — including Mount Hyjal, Karazhan, the Sunwell, the Nexus in Northrend, Dalaran, some smaller ley line nodes, and even Il'garok Tower.
+Kinsburg spread a map of Azeroth on the table. Kalimdor, the Eastern Kingdoms, Northrend, and the Maelstrom were all marked. In addition, many important ley line nexuses were indicated — including Mount Hyjal, Karazhan, the Sunwell, the Nexus in Northrend, Dalaran, some smaller ley line nexuses, and even the Tower of Ilgalar.
 
 Furthermore, there were some evidently new markings around the island of Kul Tiras and further west on the Great Sea.
 
@@ -112,7 +112,7 @@ Jace placed his hand on one of the points. "Do you know what this place is?"
 
 Jace listened, let out a breath, and stared at the marks on the table for a while.
 
-"I think you should rest for the night first," Khadgar suggested. "How many days has it been since you last slept? The Sky Council, the Arcane Vault, and now here. The Kirin Tor has launched a full investigation. As hard as we few people try, we can't outwork hundreds or thousands of mages in a large-scale search. Lady Sora mentioned to me once that even while waiting for the portal to be completed in Auchindoun, you made sure to rest every night. She thinks you're a calm and steady person, Jace..."
+"I think you should rest for the night first," Khadgar suggested. "How many days has it been since you last slept? The Chamber of Air, the Arcane Vault, and now here. The Kirin Tor has launched a full investigation. As hard as we few people try, we can't outwork hundreds or thousands of mages in a large-scale search. Lady Sola mentioned to me once that even while waiting for the portal to be completed in Auchindoun, you made sure to rest every night. She thinks you're a calm and steady person, Jace..."
 
 "I rested well back then because I knew we'd have to fight a big battle in the end." Jace looked up. "The problem now is — I don't know what to do next, Khadgar."
 
@@ -124,4 +124,4 @@ Kinsburg walked over and opened it. An unfamiliar Farstrider ranger stood at the
 
 "See?" Khadgar said excitedly. "I told you. Well... it wasn't the Kirin Tor who found them, we have to admit that Lady Vereesa Windrunner's abilities might indeed match hundreds or thousands of mages! Even a cunning Nathrezim demon can't escape the Farstriders!"
 
-"It's not Anshlun Runeval, Master Khadgar." The ranger said. "It's his daughter. Caitlin Runeval. Her current state... you'll want to see her."
+"It's not Ansirem Runeweaver, Master Khadgar." The ranger said. "It's his daughter. Catelyn Runeweaver. Her current state... you'll want to see her."

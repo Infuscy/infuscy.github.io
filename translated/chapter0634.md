@@ -1,10 +1,10 @@
 ## Chapter 634: This Time, He Goes Alone
 
-The Pig and Whistle Inn in the evening. A group of young dwarves were piling into the tavern right now, shouting at the boss to bring more drink. They were yelling the names of several unfamiliar Ironforge brews — the kind Grede had never ordered — happily gathering around a big table in the empty corner of the hall.
+The Pig and Whistle Tavern in the evening. A group of young dwarves were piling into the tavern right now, shouting at the barkeep to bring more drink. They were yelling the names of several unfamiliar Ironforge brews — the kind Grede had never ordered — happily gathering around a big table in the empty corner of the hall.
 
 That big table was placed there specifically for people to drink and watch people fight. Countless dangerous brawls — even armed ones — had broken out on that little patch of open ground.
 
-Looking at that spot, Jace remembered the way Grede had looked dueling the young master of the Thorbain family. Deep down, he didn't really want to carry all this.
+Looking at that spot, Jace remembered the way Grede had looked dueling the young heir of the Trollbane family. Deep down, he didn't really want to carry all this.
 
 No Dragonqueen, no Krasus — just drinks he'd never tried, meat marinated in spices he'd never eaten before, from animals whose names he'd never heard.
 
@@ -64,7 +64,7 @@ Right. Vereesa.
 
 One of Jace's eyebrows twitched involuntarily.
 
-He regretted it now — he should have explained everything back in Kalimor or Booty Bay. Why did he have to wait until after buying the house?
+He regretted it now — he should have explained everything back in Kalimdor or Booty Bay. Why did he have to wait until after buying the house?
 
 Nothing but that pointless inferiority complex carried over from his past life, or some meaningless sense of ceremony — the idea that once he achieved the goal he could go back home and get married or what have you. Honestly…
 
@@ -88,7 +88,7 @@ Jace's lips moved slightly, as if answering a line from his memory.
 
 "— The main difference between you and a hero is that your particular unexpected hasn't arrived yet, Amy."
 
-Recalling this scene, Jace couldn't help but smile. He realized that the things he'd said to Amy Marin back at Nethergarde Keep — now that it was his turn, he understood it was far from that easy.
+Recalling this scene, Jace couldn't help but smile. He realized that the things he'd said to Amy Malin back at Nethergarde Keep — now that it was his turn, he understood it was far from that easy.
 
 Of course, what had landed on his head this time wasn't some ordinary unexpected — it was Deathwing. It was only natural it wasn't easy.
 

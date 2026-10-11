@@ -8,31 +8,31 @@ The red dragon prince doused what little fight she had left with a Slow spell. T
 
 "Jace Sesso, the Queen and I are deeply grateful that you rescued the children the orcs captured and brought to Draenor... but I don't understand why you brought this black dragon to Grim Batol."
 
-"It was my idea, Prince Korialstrasz. Jace didn't intend to offend the Queen." Sora lowered her head and spoke respectfully. "I know Queen Alexstrasza has always wanted to find uncorrupted black dragons... but she'd never found any in Azeroth."
+"It was my idea, Prince Korialstrasz. Jace didn't intend to offend the Queen." Sola lowered her head and spoke respectfully. "I know Queen Alexstrasza has always wanted to find uncorrupted black dragons... but she'd never found any in Azeroth."
 
 "Jace and I encountered this black dragon in Draenor. She's one of a clutch of eggs that Prince Sabellian carefully raised. She was born in Draenor, so although she inherited the black dragon bloodline, she was never touched by the corrupting shadow. Prince Sabellian treasured these precious children dearly. Jace went to great lengths to convince him to let her return here."
 
-"Everything Sora said is true, Master Krasus," Jace said. "Sabellian himself feels fortunate to have escaped Deathwing's influence, to have escaped Azeroth. He's been trying to completely break free of the corruption in Draenor. This little dragon is one of his proudest achievements."
+"Everything Sola said is true, Master Krasus," Jace said. "Sabellian himself feels fortunate to have escaped Deathwing's influence, to have escaped Azeroth. He's been trying to completely break free of the corruption in Draenor. This little dragon is one of his proudest achievements."
 
 "But that guy still ended up ditching you and running off, didn't he?" Grede muttered. "Would you stop sticking up for him all the time?"
 
-"Things have two sides, Grede," Vereesa said. "If what Jace says is true, it makes sense that he fled to protect his children. We all know the black dragons in Draenor can't survive without him — Gruul and his sons have been hunting down the survivors in Blade's Edge Mountains. Think about what Deathwing and Nefarian did to those eggs and whelps. Isn't being able to cherish one's own children a distinction in itself?"
+"Things have two sides, Grede," Vereesa said. "If what Jace says is true, it makes sense that he fled to protect his children. We all know the black dragons in Draenor can't survive without him — Gruul and his sons have been hunting down the survivors in the Blade's Edge Mountains. Think about what Deathwing and Nefarian did to those eggs and whelps. Isn't being able to cherish one's own children a distinction in itself?"
 
-"You're not wrong, Lady Vereesa Windrunner," Korialstrasz said. "This is why the red dragonflight doesn't want to exterminate Princess Onyxia down to the last whelp — she retains at least some semblance of normal rationality, unlike her father and brother. But Prince Sabellian was always Deathwing's most loyal and vicious follower. It's hard to believe — without seeing it myself — that he'd change his temperament the moment he passed through the Dark Portal."
+"You're not wrong, Lady Vereesa Windrunner," Korialstrasz said. "This is why the Red Dragonflight doesn't want to exterminate Princess Onyxia down to the last whelp — she retains at least some semblance of normal rationality, unlike her father and brother. But Prince Sabellian was always Deathwing's most loyal and vicious follower. It's hard to believe — without seeing it myself — that he'd change his temperament the moment he passed through the Dark Portal."
 
-Needleflame couldn't even open her mouth under the crushing Slow spell, but Jace could feel the fury building in her chest. If she could speak right now, she'd probably be hurling every draconic curse word the black dragons had ever invented right at the red dragon prince's face.
+Needleflame couldn't even open her mouth under the crushing Slow spell, but Jace could feel the fury building in her chest. If she could speak right now, she'd probably be hurling every Draconic curse word the black dragons had ever invented right at the red dragon prince's face.
 
 "He didn't change his temperament that much, Master," Jace said. "It's just that when Deathwing was gravely wounded, he abandoned Sabellian and all the kin left in Draenor without a second thought and returned to Azeroth. That woke him up. Without his father's control and the dark influence, he naturally made the choice best suited for survival."
 
-"I see." The red dragon lowered his head, looking at the little creature. Speaking in the dragon tongue, he said, "I think there has indeed been a serious misunderstanding here. On behalf of these two children, I apologize to you."
+"I see." The red dragon lowered his head, looking at the little creature. Speaking in Draconic, he said, "I think there has indeed been a serious misunderstanding here. On behalf of these two children, I apologize to you."
 
-"Her name is Needleflame," Jace said in the dragon tongue.
+"Her name is Needleflame," Jace said in Draconic.
 
 "Needleflame." The red dragon prince gave a grateful nod. Needleflame seemed to let some of her anger go. "I will release you now, and then take you to meet Queen Alexstrasza. I think she will be very pleased to see you." Korialstrasz continued, "I hope you can control your temper during this time, and try not to destroy the forest we've worked so hard to restore, or further compound Deathwing's crimes. If you agree, blink your eyes."
 
 Needleflame moved her eyes. The red dragon raised his hand, and she immediately broke free and stretched. The two red whelps watched her warily again, looking ready for her to blow her top at any moment.
 
-"Then take me there," Needleflame said in the dragon tongue.
+"Then take me there," Needleflame said in Draconic.
 
 Korialstrasz lifted his head in surprise. "How old are you, Needleflame?"
 
@@ -42,7 +42,7 @@ The red whelps' eyes went wide with shock at the number. The prince tilted his h
 
 "Then come with me."
 
-Sora carried Jace and the others as they flew toward Grim Batol alongside the gryphon riders. This time, Needleflame didn't cause any trouble — she flew obediently beside Sora.
+Sola carried Jace and the others as they flew toward Grim Batol alongside the gryphon riders. This time, Needleflame didn't cause any trouble — she flew obediently beside Sola.
 
 The closer they got to the fortress of Grim Batol, the more Jace could feel her anxiety mounting. But it wasn't directed at the increasingly curious red dragons around them. It was at that thing... that thing lying far in the distance, now blocked by forest and mountains, yet still enough to shake every black dragon who approached, even every living creature, to the deepest core of their fear.
 
@@ -66,13 +66,13 @@ The two Wildhammer gryphons landed and immediately sat respectfully to the side.
 
 "Your Majesty." Jace and Vereesa greeted her in unison, bowing slightly. Grede raised his hand and called out, "Great to see you looking well, Your Majesty! And you seem even more spirited than last time!"
 
-"Thanks to your concern, Grede, my recovery has been quite smooth." The queen narrowed her eyes with a gentle smile. "I apologize, Jace, Vereesa. I was still asleep when you visited last time, so I couldn't welcome you in person."
+"Thank you for your concern, Grede. My recovery has been quite smooth." The queen narrowed her eyes with a gentle smile. "I apologize, Jace, Vereesa. I was still asleep when you visited last time, so I couldn't welcome you in person."
 
-"Your Majesty." Sora bowed her head deeply. "It is an immense honor to hear your voice."
+"Your Majesty." Sola bowed her head deeply. "It is an immense honor to hear your voice."
 
-"Somalliar..." Alexstrasza lowered her head affectionately, gently touching her horn to Sora's. "Ysera has been thinking of you."
+"Somaelir..." Alexstrasza lowered her head affectionately, gently touching her horn to Sola's. "Ysera has been thinking of you."
 
-"Thank you, Your Majesty..." Sora was so flustered she nearly buried her head under her wing, completely forgetting why she had come to see the red dragon queen in the first place.
+"Thank you, Your Majesty..." Sola was so flustered she nearly buried her head under her wing, completely forgetting why she had come to see the red dragon queen in the first place.
 
 The little black dragon wasn't faring much better. No matter how fierce she'd acted before, no matter how she'd steeled herself to display her resilience, her heart was now crushed under the weight of the queen's presence.
 
@@ -80,4 +80,4 @@ Still, she stiffened her neck — looking less like a warrior defying a mighty f
 
 Then Alexstrasza noticed the little one. She observed her quietly for a long moment, and the warmth of life across the mountain range seemed to rise with her surging emotions.
 
-Jace was about to say something — to explain the situation since Sora had gone completely speechless — but he quickly realized there was no need. The queen could see far more clearly than he could.
+Jace was about to say something — to explain the situation since Sola had gone completely speechless — but he quickly realized there was no need. The queen could see far more clearly than he could.

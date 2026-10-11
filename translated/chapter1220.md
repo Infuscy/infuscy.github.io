@@ -1,8 +1,8 @@
 ## Chapter 1220: An Unexpected Complication
 
-The panting and moaning between the pillars of the Arcane Sanctum gradually died down. At some point, Blac'kat's snoring had replaced his laughter.
+The panting and moaning between the pillars of the Arcane Sanctum gradually died down. At some point, Blackheart's snoring had replaced his laughter.
 
-The whole hall was empty of anyone still standing aside from a few succubi and the tall guard demons on patrol.
+The whole hall was empty of anyone still standing aside from a few succubi and the tall felguards on patrol.
 
 Every so often, a dull or sharp noise echoed from the depths of Auchindoun. In the intervals between those sounds, you could occasionally hear distorted shouting and cursing drifting through God knew how many walls and tunnels from the corridors outside the Arcane Sanctum...
 
@@ -22,21 +22,21 @@ She pressed a finger to Jace's lips and continued, "Then you'd become suspect nu
 
 Jace nodded and followed Morophil as she led him from a corner of the Arcane Sanctum into a tunnel.
 
-A patrol with wargs had just returned from outside and was coming from up ahead, speaking in Orcish with such a thick accent that Jace could barely understand half of it — cursing one moment, laughing the next. When they saw Jace approaching, they immediately straightened up, thumped their chests in salute, and shouted, "The Legion will reign!"
+A patrol with worgs had just returned from outside and was coming from up ahead, speaking in Orcish with such a thick accent that Jace could barely understand half of it — cursing one moment, laughing the next. When they saw Jace approaching, they immediately straightened up, thumped their chests in salute, and shouted, "The Legion will reign!"
 
-Once they had passed, the narrow corridor became quiet all at a sudden.
+Once they had passed, the narrow corridor became quiet all of a sudden.
 
-Seizing the opportunity, Jace asked, "You said it's bad. How bad, exactly."
+Seizing the opportunity, Jace asked, "You said it's bad. How bad, exactly?"
 
 "There aren't many living prisoners in there," Morophil said. "The only living Expedition soldiers I saw were two of them, both human. And I'd guess they're not the ones that priest friend of ours mentioned going into Auchindoun together. They wouldn't last a month."
 
-Jace thought of those Soul Shards and nodded. "I can imagine — especially considering why they took captives in the first place... What about that draenei? Dead too?"
+Jace thought of those soul shards and nodded. "I can imagine — especially considering why they took captives in the first place... What about that draenei? Dead too?"
 
 "That draenei is still alive," Morophil said. "Although... he might as well be dead."
 
 "What do you mean?" Jace asked.
 
-"The Eredar are a wellspring of power in their own right, my master," Morophil explained. "I'm guessing that simply killing them, discarding the flesh and harvesting the soul, would be too great a waste."
+"The eredar are a wellspring of power in their own right, my master," Morophil explained. "I'm guessing that simply killing them, discarding the flesh and harvesting the soul, would be too great a waste."
 
 "Right," Jace said. "I don't know if that makes him lucky or unlucky."
 
@@ -46,11 +46,13 @@ Reaching the end of the tunnel, they came to a doorway. Beyond it was a gallery 
 
 "I see it," Jace said.
 
-By that door sat an orc in a dark brown cloak, working on his leather boots against the wall. Not far off, two wargs crouched and stared at him — probably a kennelmaster who'd be getting up to make his rounds again soon.
+By that door sat an orc in a dark brown cloak, working on his leather boots against the wall. Not far off, two worgs crouched and stared at him — probably a kennelmaster who'd be getting up to make his rounds again soon.
 
-Aside from the kennelmaster, four Cult soldiers with longswords and a warlock with an imp stood near the doorway.
+Aside from the kennelmaster, four Cabal soldiers with longswords and a warlock with an imp stood near the doorway.
 
-Jace observed for a while. The kennelmaster took his two wargs and wandered off into the distance. That left only these guards watching the place. "You remember the way, Sazeno?" Jace asked, scratching the imp's head through his pack.
+Jace observed for a while. The kennelmaster took his two worgs and wandered off into the distance. That left only these guards watching the place.
+
+"You remember the way, Sazeno?" Jace asked, scratching the imp's head through his pack.
 
 "I remember... I remember." Sazeno hopped out of the pack. "Should I go find them?"
 
@@ -58,7 +60,9 @@ Jace observed for a while. The kennelmaster took his two wargs and wandered off 
 
 "Yes, my master!" The little imp thumped his chest in imitation of an orc, then darted into another plane in a flash of dark light. Even with demon-detecting magic, the trace of his departure was barely visible.
 
-After the imp vanished, Morophil slipped her hand sneakily inside Jace's cloak. "I imagine we still have time..." Jace grabbed her hand and threw it out. "Are you out of your mind?"
+After the imp vanished, Morophil slipped her hand sneakily inside Jace's cloak. "I imagine we still have time..."
+
+Jace grabbed her hand and pulled it out. "Are you out of your mind?"
 
 "It'd be drawing attention to our allies either way..." Morophil flicked her tail. "Isn't the more attention the better?"
 
@@ -66,7 +70,7 @@ After the imp vanished, Morophil slipped her hand sneakily inside Jace's cloak. 
 
 "With Vereesa Windrunner's skill, I don't think we need to worry too much — and Grede's prepared plenty of Invisibility Potions." Morophil grinned and fell in behind Jace. "By the way, my master — weren't you going to tell me about what you discussed with that ogre?"
 
-"Hmm." Jace asked, "Have you heard of the Book of the Fel Names, or the Grimoire of the Fel Names?"
+"Hmm." Jace asked, "Have you heard of the Tome of Demon Names, or the Book of Fel Names?"
 
 "What's that?" Morophil asked.
 
@@ -82,7 +86,7 @@ Here she raised a finger. "For instance — do you think Kil'jaeden would just h
 
 Jace said nothing. He didn't believe this book recorded every demon's true name either. Because if it truly did, the Shadow Council wouldn't have worshipped the Burning Legion even more fanatically after obtaining it.
 
-Still, there was no doubt that this grimoire genuinely held extraordinary power. Varedis the Felborne had gone from an overlooked blood elf demon hunter to Illidan's most prized lieutenant in the blink of an eye, striking terror into the heart of all Outland — that alone was proof enough.
+Still, there was no doubt that this grimoire genuinely held extraordinary power. Varedis Felsoul had gone from an overlooked blood elf demon hunter to Illidan's most prized lieutenant in the blink of an eye, striking terror into the heart of all Outland — that alone was proof enough.
 
 "The ogre said a demon lord guarding one of the Legion's portals holds this registry," Jace said. "I'm quite curious what that thing actually is."
 
@@ -90,7 +94,7 @@ Still, there was no doubt that this grimoire genuinely held extraordinary power.
 
 "What?" Jace asked.
 
-"I'm guessing Kil'jaeden doesn't trust Magtheridon," Morophil said. "So he must have dispatched a trusted Eredar lieutenant to come here alongside Magtheridon and keep watch on him, to make it harder for him to simply declare independence. And for an Eredar to have the means to stand against a demon commandant and his army, he'd need..."
+"I'm guessing Kil'jaeden doesn't trust Magtheridon," Morophil said. "So he must have dispatched a trusted eredar lieutenant to come here alongside Magtheridon and keep watch on him, to make it harder for him to simply declare independence. And for an eredar to have the means to stand against a demon commandant and his army, he'd need..."
 
 "An artifact that records the true names of these demons," Jace said.
 
@@ -102,12 +106,14 @@ Twenty years from now, Magtheridon would be defeated and imprisoned. His demons 
 
 And even then, the Shadow Council still held the Illidari in contempt... Perhaps it was because they held a codex capable of countering these demons?
 
-But because the Grimoire of the Fel Names couldn't be used against the entire Burning Legion, after Blac'kat figured that out, he'd given up any thought of using it to make a stand against the Legion.
+But because the Book of Fel Names couldn't be used against the entire Burning Legion, after Blackheart figured that out, he'd given up any thought of using it to make a stand against the Legion.
 
-"So the one keeping this artifact is most likely an Eredar, not an Ereduin," Jace said.
+"So the one keeping this artifact is most likely an eredar, not an Ered'ruin," Jace said.
 
-"Most likely — after all, Kil'jaeden trusts his own kind more." Morophil narrowed her eyes. "But that's only relati—" Here the succubus suddenly changed color, her words stopping dead mid-sentence.
+"Most likely — after all, Kil'jaeden trusts his own kind more." Morophil narrowed her eyes. "But that's only relati—" Here the succubus suddenly went pale, her words stopping dead mid-sentence.
 
-The entire corridor had gone deathly quiet — you could hear almost nothing. "What is it?" Jace asked.
+The entire corridor had gone deathly quiet — you could hear almost nothing.
 
-In the air deep within the gallery, a huge, swollen, dark-blue flesh sphere drifted slowly out of the shadows. A floating eye.
+"What is it?" Jace asked.
+
+In the air deep within the gallery, a huge, swollen, dark-blue flesh sphere drifted slowly out of the shadows. An observer.

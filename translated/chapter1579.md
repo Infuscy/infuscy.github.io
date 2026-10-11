@@ -2,17 +2,17 @@
 
 Black ash drifted down from above, shrouding the view. Landslides and falling rocks still fell from the high cliffs. The earlier explosion had blown open half a mountain. Jace's ears were ringing badly, he felt dizzy... he couldn't help but spit out a mouthful of blood.
 
-He checked his potion pouch and downed a Healing Potion to stabilize himself. Fortunately, when Executus had detonated the Sulfuron Herald, Jace had been near the edge of the summit -- still a fair distance away. The injuries weren't too serious. He didn't need to break out the life-saving Strong Healing Potion just yet.
+He checked his potion pouch and downed a Healing Potion to stabilize himself. Fortunately, when Executus had detonated the Sulfuron Harbinger, Jace had been near the edge of the summit -- still a fair distance away. The injuries weren't too serious. He didn't need to break out the life-saving Greater Healing Potion just yet.
 
-Grede had been closest to the Herald when it blew. But judging by how he'd caught up to Executus and beaten the hell out of him afterward, his wounds probably weren't fatal either.
+Grede had been closest to the Harbinger when it blew. But judging by how he'd caught up to Executus and beaten the hell out of him afterward, his wounds probably weren't fatal either.
 
-The Elemental shouting from the lava lake was muffled beneath the roar of the sliding mountain. Jace was sure it was a fire-owl's voice. Maybe Shazzrah, maybe one of the other fire-owl lords.
+The Elemental shouting from the lava lake was muffled beneath the roar of the sliding mountain. Jace was sure it was a Flamewaker's voice. Maybe Shazzrah, maybe one of the other Flamewaker lords.
 
 But the voice was so cold -- as though Executus's death had been inevitable, and whoever gave the order was just going through the motions after the fact.
 
-Anyway, it wasn't over. He had to regroup with the others and destroy the Flame Runes. The rune the Sulfuron Herald had been guarding seemed to have gone out when the ritual was disrupted. That left six.
+Anyway, it wasn't over. He had to regroup with the others and destroy the Flame Runes. The rune the Sulfuron Harbinger had been guarding seemed to have gone out when the ritual was disrupted. That left six.
 
-Even though the Herald's unexpected appearance had turned their planned ambush into a chaotic brawl, and everyone was hurt to varying degrees, taking out one rune in the process meant the beating hadn't been for nothing.
+Even though the Harbinger's unexpected appearance had turned their planned ambush into a chaotic brawl, and everyone was hurt to varying degrees, taking out one rune in the process meant the beating hadn't been for nothing.
 
 A Dark Iron dwarf jumped out from somewhere nearby, muttering as he ran: "Executus is dead... Executus is dead..."
 
@@ -26,9 +26,9 @@ In the panicked whispers, shouts, and roars, Jace still couldn't follow Dwarvish
 
 Rounding a collapsed pillar, a large crowd of Dark Iron dwarves had gathered ahead. Most of them were frozen-faced from the disaster-like chaos they'd just experienced, all of them staring with bloodshot eyes. But clearly, what was happening ahead mattered more to them than their own lives.
 
-Executus's corpse lay across a lava river. Jace quickly realized it wasn't a lava river at all -- it was the "blood" flowing from the bodies of several enormous fire-owls.
+Executus's corpse lay across a lava river. Jace quickly realized it wasn't a lava river at all -- it was the "blood" flowing from the bodies of several enormous Flamewakers.
 
-Grede stood atop Executus's corpse. The fire-owl master's unbroken "tentacles" still twitched and struggled, like an arthropod whose head had just been stomped, but everyone knew the bug was dead.
+Grede stood atop Executus's corpse. The Flamewaker master's unbroken "tentacles" still twitched and struggled, like an arthropod whose head had just been stomped, but everyone knew the bug was dead.
 
 Apparently noticing Jace nearby, Grede raised the Sulfuron Hammer and shouted: "I hope you see this as my strength, not the hammer's, warlock!"
 
@@ -36,15 +36,15 @@ With so many Dark Iron dwarves watching, the remark seemed a bit out of place. T
 
 But Jace really didn't feel like arguing with Grede about details right now. After all, what mattered more than actually killing the Majordomo of Molten Core?
 
-Actually, Grede wasn't even entirely right. Until the hammer had shattered the fire-owl master's arm, Executus hadn't believed it was the true Sulfuron's power.
+Actually, Grede wasn't even entirely right. Until the hammer had shattered the Flamewaker master's arm, Executus hadn't believed it was the true Sulfuron's power.
 
 Once he realized it, he'd immediately tried to flee by any means necessary -- even sacrificing his own lieutenant to buy time.
 
 It wasn't so much that he was scared by the group of powerful invaders, but that he, like the Dark Iron dwarves, had his faith shaken by an inexplicably appearing Sulfuron Hammer.
 
-So did the hammer really have that kind of power? When Grede was fighting the Sulfuron Herald, though the Herald was beaten half to death in just a few exchanges, he hadn't seemed ready to give up.
+So did the hammer really have that kind of power? When Grede was fighting the Sulfuron Harbinger, though the Harbinger was beaten half to death in just a few exchanges, he hadn't seemed ready to give up.
 
-But don't forget, this wasn't the Sulfuron Hammer's complete form. The true Sulfuras -- what the Herald had first gasped at -- was still in the hands of the Firelord, Ragnaros himself.
+But don't forget, this wasn't the Sulfuron Hammer's complete form. The true Sulfuras -- what the Harbinger had first gasped at -- was still in the hands of the Firelord, Ragnaros himself.
 
 For the hammer in Grede's hands to reach that level, it would need to be baptized by the Firelord himself.
 
@@ -52,9 +52,9 @@ Unfortunately, they had to do everything they could to stop the Firelord from be
 
 "Time's short."
 
-Dagran Thaurissan's voice came from behind. The dwarf, holding a Dark Iron scepter that looked like both flame and claw, climbed onto a fire-owl guard's corpse and announced to every Dark Iron present: "The true Sulfuron Hammer has appeared, and it has proven its power through the death of the fire-owl leader!"
+Dagran Thaurissan's voice came from behind. The dwarf, holding a Dark Iron scepter that looked like both flame and claw, climbed onto a Flamewaker guard's corpse and announced to every Dark Iron present: "The true Sulfuron Hammer has appeared, and it has proven its power through the death of the fire lizards' leader!"
 
-"Fire-owl? What are you saying, Your Majesty?!" someone shouted from somewhere, as if Thaurissan's word choice was some kind of blasphemy.
+"Fire lizards? What are you saying, Your Majesty?!" someone shouted from somewhere, as if Thaurissan's word choice was some kind of blasphemy.
 
 "Haven't you figured it out yet, you idiot?" a Dark Iron mage roared angrily in that direction. "The so-called divine messengers we've worshipped all this time were just cowards. A dwarf can be crowned Firelord too! As a Dark Iron, do you really want to be ruled by these stupid elementals for another two hundred years? We should be the ones enslaving them!"
 
@@ -64,7 +64,7 @@ Dagran Thaurissan's voice came from behind. The dwarf, holding a Dark Iron scept
 
 "Long live Thaurissan! Long live Shadowforge City! Long live Thaurissan!"
 
-A few Ironwarden soldiers started the chant. The rest of the Dark Irons joined in, louder and louder. Watching this, the tension on Thaurissan's face gradually subsided to calm.
+A few Anvilrage soldiers started the chant. The rest of the Dark Irons joined in, louder and louder. Watching this, the tension on Thaurissan's face gradually subsided to calm.
 
 "Without a doubt, Molten Core is in chaos. Order must be restored as quickly as possible. Lieutenant Tosfrol, do as I told you."
 
@@ -92,7 +92,7 @@ As the Dark Irons responded, Jace turned. Grede had already jumped off Executus'
 
 Needleflame muttered. She'd already shifted back into her human girl form, holding a dwarven axe and staring toward the distant firelight.
 
-"Where's Sora?" Jace asked.
+"Where's Sola?" Jace asked.
 
 "She's not with you?" Vereesa said. "How did you survive the explosion?"
 
@@ -100,7 +100,7 @@ Needleflame muttered. She'd already shifted back into her human girl form, holdi
 
 Then it hit him. The moment Executus broke the ritual, the first thing he'd done was "disappear" the green dragon who'd been healing the whole group.
 
-"We need to find Sora first." Jace said. "Executus teleported her out of the fight with his magic."
+"We need to find Sola first." Jace said. "Executus teleported her out of the fight with his magic."
 
 Grede blinked. "She's not still in Blackrock Mountain, is she?"
 
@@ -110,7 +110,7 @@ Executus shouldn't have enough power to reach beyond Molten Core. From what Jace
 
 "She's definitely still nearby. At least inside Molten Core." Jace said. "You know nature magic, Vereesa. If she's in trouble, she'll use it to fight back. You should be able to track her."
 
-Vereesa nodded. Not far away, Thaurissan frowned. "Didn't you hear that fire-owl lord? They're planning to have the Firelord appoint a new Majordomo! Without a Majordomo, summoning Ragnaros here won't be easy. But this isn't the time to be wasting!"
+Vereesa nodded. Not far away, Thaurissan frowned. "Didn't you hear that Flamewaker lord? They're planning to have the Firelord appoint a new Majordomo! Without a Majordomo, summoning Ragnaros here won't be easy. But this isn't the time to be wasting!"
 
 "Wasting time? Do you think I care about you short, black little dwarves who should've died long ago, Dagran Thaurissan?" Jace stared him down. "If the price of helping you is losing that green dragon, I'd rather let Ragnaros in and take all of Blackrock Mountain down with him! And save the Alliance a massive headache to boot! So shut your mouth now!"
 

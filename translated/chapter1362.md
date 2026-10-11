@@ -1,6 +1,6 @@
 ## Chapter 1362: Kirin Tor's Gambit
 
-With the Draenei soul shards Needleflame had stolen, plus the ones he hadn't used last time, Jace now had fourteen total.
+With the draenei soul shards Needleflame had stolen, plus the ones he hadn't used last time, Jace now had fourteen total.
 
 Add in some smaller, weaker soul shards, and based on the ethereals' earlier estimates of mana consumption, best-case scenario the existing soul shards might be enough to transmit all their spells to Azeroth.
 
@@ -14,7 +14,7 @@ So even though their skin had turned green, they hadn't gotten much benefit from
 
 But when it came to dealing with lazy orcs, the Shadow Council had a tradition inherited straight from the clan days: beating.
 
-Right now, a few officers and warlocks were wandering around the portal construction site looking for peons sleeping on the job. The crack of whips and cries of pain rose and fell. Most of the orcs on lookout duty up high had their attention focused on the central area too, staying alert for any Broken causing trouble, especially Draenei.
+Right now, a few officers and warlocks were wandering around the portal construction site looking for peons sleeping on the job. The crack of whips and cries of pain rose and fell. Most of the orcs on lookout duty up high had their attention focused on the central area too, staying alert for any Broken causing trouble, especially draenei.
 
 And that gave Jace an opportunity to slip away. He dodged a few patrolling orcs' line of sight, climbed to a high spot, and made his way toward the hidden room he and Morophil had set up earlier, while letting Sazeno phase-shift behind him to keep watch.
 
@@ -38,7 +38,7 @@ Jace caught it. Aside from the succubus's cloying scent, the bundle still carrie
 
 "She came by?"
 
-"Right when the Shadow Council attacked Auchenai." Morophil said. "She slipped in during the chaos and left this. It's the Abyssal language potion Archmage Vargoth specially brewed for you."
+"Right when the Shadow Council attacked the Auchenai." Morophil said. "She slipped in during the chaos and left this. It's the Abyssal language potion Archmage Vargoth specially brewed for you."
 
 "Looks like the mages from Kirin'Var Village have reached Allerian Stronghold." Jace said as he untied the bundle. "That's good news. Did she say anything else?"
 
@@ -52,7 +52,9 @@ Jace caught it. Aside from the succubus's cloying scent, the bundle still carrie
 
 "She didn't mention the black dragons." Morophil rested her head on her hand, thinking. "Since there wasn't any fighting and the Burning Legion didn't notice... I think we're fine."
 
-"Anything else?" Jace said. "Can you just tell me everything at once?" Morophil reluctantly moved her lips, then said, "Fine... She misses you."
+"Anything else?" Jace said. "Can you just tell me everything at once?"
+
+Morophil reluctantly moved her lips, then said, "Fine... She misses you."
 
 Jace puffed out his chest and took a deep breath. He smiled. "I miss her too."
 
@@ -60,7 +62,9 @@ Morophil shifted her body, deliberately pushing her full hip curve upward, lifti
 
 "Aren't we meeting right now?"
 
-Jace glanced at her swishing tail and said quietly, while opening the bundle to pull out the potion pouch inside. "But I feel like our souls are separated by the whole Twisting Nether..." The succubus sighed mournfully.
+Jace glanced at her swishing tail and said quietly, while opening the bundle to pull out the potion pouch inside.
+
+"But I feel like our souls are separated by the whole Twisting Nether..." The succubus sighed mournfully.
 
 "Then your soul should be pretty close to Kil'jaeden himself." Jace muttered as he pulled a scroll from the bundle.
 
@@ -68,7 +72,7 @@ Jace glanced at her swishing tail and said quietly, while opening the bundle to 
 
 "The spell for Arcane Intellect." Morophil said with a hint of sarcasm. "Vereesa told me to pass along that Archmage Vargoth says you have to cast Arcane Intellect on yourself before drinking the potion, and this scroll has the Arcane Intellect spell and the casting instructions."
 
-"Vargoth looks down on me?" Jace tossed the scroll aside. "He knows I studied at the Wizard Sanctum for two or three years."
+"Vargoth looks down on me?" Jace tossed the scroll aside. "He knows I studied at the Wizard's Sanctum for two or three years."
 
 Morophil tilted her head ambiguously and watched as Jace pulled a rather exquisite crystal bottle with yellow threading from the potion pouch, holding half a bottle of pale green liquid.
 
@@ -78,9 +82,11 @@ Considering Jace was using this to improve spellcasting efficiency and pursue li
 
 That should be plenty of time to carefully transfer the ethereals' techniques and have them verified. Vargoth had probably left a redundant dose on purpose.
 
-Since just initiating the communication ritual would consume a great deal of soul energy, and once started Jace couldn't cast any other spells, and since Khadgar and the Kirin Tor had guaranteed they'd be waiting around Ilgala Tower at all times for his message, Jace decided to drink the potion first, then start the ritual.
+Since just initiating the communication ritual would consume a great deal of soul energy, and once started Jace couldn't cast any other spells, and since Khadgar and the Kirin Tor had guaranteed they'd be waiting around the Tower of Ilgalar at all times for his message, Jace decided to drink the potion first, then start the ritual.
 
-"Arcane Intellect first, right?" Jace asked. "Yes." Morophil nodded.
+"Arcane Intellect first, right?" Jace asked.
+
+"Yes." Morophil nodded.
 
 Jace grunted, raised his finger in front of himself, glanced at the scroll on the ground, then finally bent down, picked it up, and unrolled it.
 
@@ -88,7 +94,7 @@ The corner of Morophil's mouth twitched slightly before she pressed it back down
 
 After learning Arcane Intellect, he felt like he'd never been this nervous about a simple spell before.
 
-After all, the entire Expedition in Draenor, the black dragons, and the Draenei were all mobilizing right now. The orcs down below were busy with their own plans. And the prerequisite for all of this to work was successfully transmitting the contents of the scroll in his hand to the other side. It was hard not to feel the pressure.
+After all, the entire Expedition in Draenor, the black dragons, and the draenei were all mobilizing right now. The orcs down below were busy with their own plans. And the prerequisite for all of this to work was successfully transmitting the contents of the scroll in his hand to the other side. It was hard not to feel the pressure.
 
 He pulled out the stopper and drank the potion. It had a cool taste. Jace couldn't identify any medicinal ingredients, but he didn't feel any different either.
 
@@ -108,7 +114,7 @@ Well, that was the only way to comfort himself for now.
 
 Once the potion took effect, Jace neatly arranged the soul shards in the freshly re-drawn fel blood array, stepped into the center, and began chanting in Demonic.
 
-"Karlrez."
+"Kallrez."
 
 "My master..."
 
@@ -118,4 +124,4 @@ Once the potion took effect, Jace neatly arranged the soul shards in the freshly
 
 "Kirin Tor mages and your warlock friends forcibly stuffed it into a magic-suppression cage and transported it from Stormwind to this tower. Now it's bound on the floor above me! It's fighting me for leylines while tearing at my mind! This ugly, shapeless shadow aberration—I'll devour it whole sooner or later to make up for my losses..."
 
-"Looks like you're all ready." Jace smiled, cracked his eyes open to glance at the burning Draenei soul shards, then said, "Tell Khadgar the orcs are already building the portal for us. Now it depends on how the transmission goes."
+"Looks like you're all ready." Jace smiled, cracked his eyes open to glance at the burning draenei soul shards, then said, "Tell Khadgar the orcs are already building the portal for us. Now it depends on how the transmission goes."

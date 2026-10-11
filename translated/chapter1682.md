@@ -8,7 +8,7 @@ Blackrock Spire had fallen. The Orc Wars, which had dragged on for over a decade
 
 From the fall of Stormwind to the siege of Ironforge. From the Hillsbrad Foothills to the walls of the royal capital. The betrayal of Alterac, the enslavement of the red dragons, the victory and tragedy of the Burning Steppes.
 
-The death knights and the three artifacts. The fateful moment at Grim Batol. The Blackflight of Stormwind. The glorious expedition of the Sons of Lothar. The apocalypse of Karabor, the desperate breakthrough at Auchindoun. The choice at Kil'jaeden's Throne. The final battle atop Blackrock Spire.
+The death knights and the three artifacts. The fateful moment at Grim Batol. The Black Dragonflight of Stormwind. The glorious expedition of the Sons of Lothar. The apocalypse of Karabor, the desperate breakthrough at Auchindoun. The choice at the Throne of Kil'jaeden. The final battle atop Blackrock Spire.
 
 Even the most senior mages in Dalaran, the most battle-hardened veterans of Stormwind and Lordaeron, even elves like Alleria who had lived for centuries — thinking of everything this continent had endured since the Dark Portal opened, it was hard not to be moved.
 
@@ -30,7 +30,7 @@ A familiar shout came from up ahead. It was Grede, riding toward them on a gryph
 
 "Damn bastard. Don't think you can say whatever you want just because you beat a black dragon with dark magic!" Grede bellowed. "And my epic battle with the fire god Ragnaros cannot be erased. I genuinely defeated him through skill!"
 
-"You seem to worship that Fire Lord more than the Dark Iron dwarves do, Grede." Vereesa sighed. "We all know what an elemental lord is. There's no need to boost him just to brag about yourself."
+"You seem to worship that Firelord more than the Dark Iron dwarves do, Grede." Vereesa sighed. "We all know what an elemental lord is. There's no need to boost him just to brag about yourself."
 
 "Slander! Who worships someone they've beaten?" Grede scoffed.
 
@@ -38,49 +38,49 @@ A familiar shout came from up ahead. It was Grede, riding toward them on a gryph
 
 "I have plenty of time to recover, Vaelastrasz." The dwarf looked up at the red dragon, whose body was the size of a goblin airship. "Where's the enemy I still need to deal with, eh? Even the master of Blackrock Spire is finished!"
 
-"That's right." Riding on Sora's back, Vereesa couldn't help spreading her arms and taking a deep breath of the Burning Steppes' smoke-tinged air. "Even this corrupted wasteland doesn't smell so evil anymore."
+"That's right." Riding on Sola's back, Vereesa couldn't help spreading her arms and taking a deep breath of the Burning Steppes' smoke-tinged air. "Even this corrupted wasteland doesn't smell so evil anymore."
 
-She looked over. "You can live safely in Stormwind now, Needlefang. Those ill-intentioned kin of yours won't be making trouble for you anytime soon!"
+She looked over. "You can live safely in Stormwind now, Needleflame. Those ill-intentioned kin of yours won't be making trouble for you anytime soon!"
 
-Needlefang didn't reply. She just flew forward, seeming a little distracted. Sora tilted her head to look at her, a hint of a smile in her eyes. Even in dragon form it wasn't obvious, but to friends who knew her well, it was clear enough.
+Needleflame didn't reply. She just flew forward, seeming a little distracted. Sola tilted her head to look at her, a hint of a smile in her eyes. Even in dragon form it wasn't obvious, but to friends who knew her well, it was clear enough.
 
-Vereesa noticed it too. Soon she understood why Sora was smiling. When they left the valley where Nefarian had died, Needlefang had naturally lowered herself for Jace to climb onto her back — and Jace had just as naturally climbed on. Neither of them had even exchanged any special words.
+Vereesa noticed it too. Soon she understood why Sola was smiling. When they left the valley where Nefarian had died, Needleflame had naturally lowered herself for Jace to climb onto her back — and Jace had just as naturally climbed on. Neither of them had even exchanged any special words.
 
 Soon, Grede caught on too. His expression shifted from confusion to surprise.
 
 Jace felt something was off too. Back in Molten Core, this little one had acted like she'd never let anything on her back for the rest of her life.
 
-Of course, no one said anything. Until Needlefang seemed to realize Vereesa had been talking to her, and turned her head. "Uh, actually, I'd still rather go see Kalimdor. Staying in Stormwind all the time is way too stuffy!"
+Of course, no one said anything. Until Needleflame seemed to realize Vereesa had been talking to her, and turned her head. "Uh, actually, I'd still rather go see Kalimdor. Staying in Stormwind all the time is way too stuffy!"
 
 "Aren't you afraid to meet your aunt?" Vereesa asked.
 
-"I'm... not afraid." Needlefang said quietly. "I have a lot of questions for her too."
+"I'm... not afraid." Needleflame said quietly. "I have a lot of questions for her too."
 
 "Did I hear that right?" Grede blinked. "You want to go to Kalimdor, to Onyxia's lair, and then... ask a lot of questions?"
 
-"Onyxia was gravely wounded in Stormwind, and then Nefarian hurt her too. She's probably still alive, but not far from death." Vaelastrasz said. "As an ancient dragon older and stronger than I am, she can't recover in just a few years, Thundermar Lord. I think even if she's ready to fight to the death, she won't have much threat left. If she wants to save her remaining unborn offspring, she'd better be smart and choose to cooperate."
+"Onyxia was gravely wounded in Stormwind, and then Nefarian hurt her too. She's probably still alive, but not far from death." Vaelastrasz said. "As an ancient dragon older and stronger than I am, she can't recover in just a few years, Lord Thunderfist. I think even if she's ready to fight to the death, she won't have much threat left. If she wants to save her remaining unborn offspring, she'd better be smart and choose to cooperate."
 
 "That actually makes sense," Grede said.
 
 "You in, Grede?" Jace asked.
 
-"Of course." The dwarf said. "That Wind Prince's head promised me payment that hasn't arrived yet. How could I miss it? Besides, staying next to a green dragon saves a lot on healing potions. Even if there's nothing else, just saving that money is worth it."
+"Of course." The dwarf said. "That Prince of Air's head promised me payment that hasn't arrived yet. How could I miss it? Besides, staying next to a green dragon saves a lot on healing potions. Even if there's nothing else, just saving that money is worth it."
 
 "How is it your payment? I should get a share at least," the elf said.
 
-"What's a rich bitch getting involved for?" The dwarf shot back.
+"What's a moneybags like you butting in for?" The dwarf shot back.
 
 "What about me?" Jace asked.
 
-"What about me?" Sora asked.
+"What about me?" Sola asked.
 
-"What about me?" Needlefang piped up too.
+"What about me?" Needleflame piped up too.
 
 "Eh? Nobody fights over that little warlock's payment, but with my payment there's all kinds of weirdos wanting a cut?!" Grede yelled in annoyance.
 
 Vaelastrasz couldn't help but snort with laughter. The red dragon's throaty sound rolled across the sky like thunder, drowning out the squabbling mortals beside him.
 
-Blackrock Spire grew closer. After Usar'ru devoured Nefarian's soul, Jace felt his perception of shadow return somewhat to what it was before he'd torn up the *Book of Unholy Names*.
+Blackrock Spire grew closer. After Ulthalesh devoured Nefarian's soul, Jace felt his perception of shadow return somewhat to what it was before he'd torn up the *Book of Fel Names*.
 
 The tower leaning against Blackrock Mountain — the wandering remnant souls, the floating dark energy — their collective movement traced an incredibly detailed map in his consciousness. Every passage, every hall — he could sense it all.
 
@@ -96,11 +96,11 @@ After all, to stop Nefarian from raising every corpse into an undead army to kee
 
 Mathias Shaw had specifically warned him to keep a low profile during the attack on Blackrock Spire, and especially not to use the dark magic he'd cast in the valley.
 
-But this time, it was like everything had been set up. The soul-drain enhanced by Usar'ru could barely contend with Lothar's will, twisted by the Soul Song. He'd had to raise the Soul Well with Usar'ru to finally destroy Nefarian's carefully prepared greater resurrection ritual.
+But this time, it was like everything had been set up. The soul-drain enhanced by Ulthalesh could barely contend with Lothar's will, twisted by the Spirit's Song. He'd had to raise the Soul Well with Ulthalesh to finally destroy Nefarian's carefully prepared greater resurrection ritual.
 
 Wait — a thought suddenly crossed his mind. Could Mathias Shaw be a dreadlord in disguise? Or at least have been influenced?
 
-But Morofil had met with Mathias several times during this period and hadn't noticed anything unusual. Besides, would Kil'jaeden expect Mathias to simply convince him with a few words to abandon thousands of Alliance soldiers in the tower... just for his own reputation?
+But Morophil had met with Mathias several times during this period and hadn't noticed anything unusual. Besides, would Kil'jaeden expect Mathias to simply convince him with a few words to abandon thousands of Alliance soldiers in the tower... just for his own reputation?
 
 Slowly, he realized he might be overthinking this.
 

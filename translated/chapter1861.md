@@ -4,7 +4,7 @@
 
 "Why are you suddenly curious about that?" Khadgar watched Jace walk over. "He was standing right in front of us a moment ago, but this is basically a question for prehistoric archaeology. I do know she wasn't the last Dragonqueen — that's hardly a secret among Dalaran's black dragon scholars."
 
-Jace knew that Sabellian's mother was not Sinthania. He was Nefarian and Onyxia's half-brother, sharing the same father but a different mother. Sabellian had mentioned it himself.
+Jace knew that Sabellian's mother was not Sintharia. He was Nefarian and Onyxia's half-brother, sharing the same father but a different mother. Sabellian had mentioned it himself.
 
 Khadgar continued. "There's plenty of evidence that, aside from the final Black Dragonqueen, all of Deathwing's previous mates died horribly during mating. Sabellian's birth mother may have been one of them. Of course, I must stress — that's just rumor."
 
@@ -38,7 +38,7 @@ But all of that happened thousands of years ago. Hope you can move on soon, Sabe
 
 "Fine, fine. When did I become the 'Defiler-Slayer' anyway?" Jace waved his hand dismissively.
 
-"I think it suits you, Jace." Sora said.
+"I think it suits you, Jace." Sola said.
 
 "You've agreed with him several times already today, green dragon." Grede nodded. "Your sudden change of attitude surprises me more than Jace Sesso coming back from the dead right in front of me."
 
@@ -56,49 +56,49 @@ Jace shot the dwarf a sideways look, then noticed the little black dragon nearby
 
 "You made that up!" Needleflame shot back, diving at the ranger. Vereesa fought back without mercy. The two grabbed each other's hands and wrestled fiercely. Needleflame's nose was practically twisted up to her forehead with frustration. But at least she seemed less bothered about Sabellian's attitude toward her now.
 
-"We've never all gathered together like this before. Especially with Khadgar." Sora looked at the giant cat druid picking beans from a plate. "And Mosa's come east too."
+"We've never all gathered together like this before. Especially with Khadgar." Sola looked at the giant cat druid picking beans from a plate. "And Mosa's come east too."
 
 "All thanks to the Archdruid's help." Mosa swallowed a mouthful of beans and nodded.
 
 "Hold on." Khadgar said immediately. "I thought that temporary group had already disbanded. At the very least, this is a completely different situation. Don't count me in, thank you very much."
 
-"Mainly... there's still one person missing, Sora." Jace said.
+"Mainly... there's still one person missing, Sola." Jace said.
 
-"Uh..." Sora seemed to remember something all at once.
+"Uh..." Sola seemed to remember something all at once.
 
 "More precisely, one demon. Right?" Grede added.
 
-Vereesa and Needleflame stopped grappling and looked over. "Teacher Morophil?" Needleflame asked. "Why hasn't she shown up at all?"
+Vereesa and Needleflame stopped grappling and looked over. "Mistress Morophil?" Needleflame asked. "Why hasn't she shown up at all?"
 
-"She died at Uthalesh's hands." Jace said. "But in the end, she helped me finish off Uthalesh's attempt to survive inside my soul. Right there inside that staff."
+"She died at Ulthalesh's hands." Jace said. "But in the end, she helped me finish off Ulthalesh's attempt to survive inside my soul. Right there inside that staff."
 
 "You mean that demonic soul that appeared at the end?" Vereesa asked.
 
 "I saw it too." Grede said.
 
-Sora and Mosa exchanged glances and nodded in confirmation. So everyone had been brought to that soul-palace.
+Sola and Mosa exchanged glances and nodded in confirmation. So everyone had been brought to that soul-palace.
 
 "I didn't see it..." Needleflame said.
 
 "Because you weren't taken to that place." Vereesa said.
 
-"Then why did Uthalesh kill her, Jace Sesso? Weren't you already taken by the Defiler by then —"
+"Then why did Ulthalesh kill her, Jace Sesso? Weren't you already taken by the Defiler by then —"
 
 "That just proves I'm better than all of you." Needleflame said, but then she seemed to realize something was off.
 
-"I understand now." Khadgar said. "No wonder when I found Uthalesh, I felt like a demon had gotten there before me. I assumed it was some demon-warlock trying to claim the staff, one of the Defiler's underlings. I never expected it to be Lady Morophil. But by then, the dark power of the soul-well Jace had set up had not fully faded. There was no way she could have broken Uthalesh under those conditions. Actually, even without the dark power, she couldn't have done it. And she must have known that better than I did. Absolutely mad."
+"I understand now." Khadgar said. "No wonder when I found Ulthalesh, I felt like a demon had gotten there before me. I assumed it was some demon-warlock trying to claim the staff, one of the Defiler's underlings. I never expected it to be Lady Morophil. But by then, the dark power of the Soul Well Jace had set up had not fully faded. There was no way she could have broken Ulthalesh under those conditions. Actually, even without the dark power, she couldn't have done it. And she must have known that better than I did. Absolutely mad."
 
-"I don't get it." The mage frowned. "You died. Your soul left your body. Uthalesh took you. That means the contracts you made with your demon servants were automatically dissolved. She should have escaped as fast as she could. Why would she come looking for you?"
+"I don't get it." The mage frowned. "You died. Your soul left your body. Ulthalesh took you. That means the contracts you made with your demon servants were automatically dissolved. She should have escaped as fast as she could. Why would she come looking for you?"
 
-"Maybe she wanted to take Uthalesh for herself." Grede said. "The Defiler Archimonde died before he could become the staff's master. So she could have become the next cursed master of that staff... but then she helped us. In that chaotic hellhole."
+"Maybe she wanted to take Ulthalesh for herself." Grede said. "The Defiler Archimonde died before he could become the staff's master. So she could have become the next cursed master of that staff... but then she helped us. In that chaotic hellhole."
 
-"Ah. I overlooked one thing." Khadgar folded his arms, musing. "Shivarra have never been calm demons. Especially when it comes to, ah, their own masters. Otherwise Dalaran wouldn't have been in such chaos two thousand years ago."
+"Ah. I overlooked one thing." Khadgar folded his arms, musing. "Sayaad have never been calm demons. Especially when it comes to, ah, their own masters. Otherwise Dalaran wouldn't have been in such chaos two thousand years ago."
 
-He caught the look Vereesa was giving him and quickly coughed. "Of course, I'm not implying anything, Ranger-Captain Vereesa Windrunner. I'm merely citing someone else's views. *The Self-Sacrificer in the Abyss*, Volume II, Section XI, author Castor Weatherrain. I believe other grimoires hold similar opinions."
+He caught the look Vereesa was giving him and quickly coughed. "Of course, I'm not implying anything, Ranger Lord Vereesa Windrunner. I'm merely citing someone else's views. *The Self-Sacrificer in the Abyss*, Volume II, Section XI, author Castor Weatherrain. I believe other grimoires hold similar opinions."
 
 Vereesa did not acknowledge the mage at all. She asked Jace directly, "Can you summon her back with a ritual? We have unfinished business."
 
-The mage looked at the dwarf, then at Sora and Mosa. Everyone was either drinking or hurriedly eating beans, looking down. Only the black dragon, catching the mage's gaze, muttered, "What are you looking at me for?"
+The mage looked at the dwarf, then at Sola and Mosa. Everyone was either drinking or hurriedly eating beans, looking down. Only the black dragon, catching the mage's gaze, muttered, "What are you looking at me for?"
 
 "I don't know, Vereesa." Jace said. "I don't know if the old summoning spells still work. I don't even know if I can still summon Sazeno. He might have already fled back to the Twisting Nether. And reshaping flesh from a dead demon's soul takes time. She's a very powerful demon, so it'll take longer. But I can try..."
 

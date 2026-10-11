@@ -14,7 +14,7 @@ He gave her a final once-over. "They look great, Amy. Really suit you. I can alr
 
 "I'm sure they still looked better on Guardian Larniriel in the paintings." Amy muttered, a hint of disappointment in her voice.
 
-"What? Paintings?" Jace rested his chin on his hand. "Have you been to the Wizard Sanctum to see my portrait? It looks nothing like me. Larniriel was a former Guardian — the highest-ranked mage in Dalaran in her day. Imagine how hard the painter worked to beautify her."
+"What? Paintings?" Jace rested his chin on his hand. "Have you been to the Wizard's Sanctum to see my portrait? It looks nothing like me. Larniriel was a former Guardian — the highest-ranked mage in Dalaran in her day. Imagine how hard the painter worked to beautify her."
 
 "Don't try to comfort me. That portrait doesn't look anything like you at all," the mage said.
 
@@ -54,7 +54,7 @@ And indeed, as a de facto princess of a nation, Dalaran's rising star, and the f
 
 "Well, it was Arthas Menethil," Amy said quietly. "Can you expect a teenage noble girl who grew up on legends and knight stories to stay completely rational when faced with a boy so handsome he practically glows? Especially when that prince had just become a member of the Silver Hand — the embodiment of righteousness! Not to mention they'd grown up together since they were about ten... Honestly, I think the fact that she walked away furious is already pretty remarkable."
 
-"But like you said, Jace, her understanding of you is also limited to legends and stories. She doesn't know you like I do. If too many conflicting opinions enter her world — especially ones that are very persuasive to her — she'll naturally start to doubt. But that doesn't necessarily mean she'll become hostile toward you. I can sense that her doubt includes a certain... frustration that the whole world seems ready to punish you for crimes you haven't committed. Actually, I think if she becomes one of Dalaran's leaders in the future, she might push for a re-examination of void magic and demonic research. After all, it used to be an important subject for the Council of Tirisfal."
+"But like you said, Jace, her understanding of you is also limited to legends and stories. She doesn't know you like I do. If too many conflicting opinions enter her world — especially ones that are very persuasive to her — she'll naturally start to doubt. But that doesn't necessarily mean she'll become hostile toward you. I can sense that her doubt includes a certain... frustration that the whole world seems ready to punish you for crimes you haven't committed. Actually, I think if she becomes one of Dalaran's leaders in the future, she might push for a re-examination of void magic and demonic research. After all, it used to be an important subject for the Order of Tirisfal."
 
 "I don't hold it against her. It's normal for her to be suspicious of shadow magic," Jace said. "I'm more worried about what the Lordaeron prince thinks of me. He's going to be the leader of the Alliance one day. King Terenas at least managed to hold back the nobles when they tried to burn me at the stake verbally in court. Now his son can't even keep his opinion to himself while canoodling with his sweetheart."
 

@@ -32,15 +32,15 @@ After saying this, he suddenly paused. "Huh. Did I just accidentally reveal some
 
 "I can already do short-range teleportation using shadow." Jace said. "What's the difference?"
 
-"That must be the Shadowstep the Sayade taught you." The black dragon dissolved into shadow, his form vanishing, then reappeared behind Jace.
+"That must be the Shadowstep the sayaad taught you." The black dragon dissolved into shadow, his form vanishing, then reappeared behind Jace.
 
 "This shadow magic essentially lets shadow carry you a distance. If your opponent knows the trick better than you, they might catch you mid-transit."
 
 "Yes." Jace nodded.
 
-He clearly remembered using Shadowstep to avoid the crossfire of those elven rangers and mages back in the necropolis at Raven Hill, only to have Verlees Deepshadow grab him out of the shadow step mid-journey.
+He clearly remembered using Shadowstep to avoid the crossfire of those elven rangers and mages back in the necropolis at Raven Hill, only to have Veras Darkshadow grab him out of the shadow step mid-journey.
 
-If Verlees could do it, so could Morofel — and so could banshees far weaker than her.
+If Veras could do it, so could Morophil — and so could succubi far weaker than her.
 
 "So fire's different?" he asked.
 
@@ -84,17 +84,17 @@ Up close, Jace noticed most of them even carried weapons. Not far off, an orc wa
 
 Just as Jace was wondering if they could still perform the spells they'd known in life, a sudden "whoosh" of evil flame burst from the side. A ball of fel-green fire spun toward the two of them.
 
-Sabellian raised a hand, dispersing it with a blast of hot sand. He watched the orc warlock skeleton topple, burned by the very fel fire it had channeled, and asked casually, "How do you guide your shadow bolts toward a target?"
+Sabellian raised a hand, dispersing it with a blast of hot sand. He watched the orc warlock skeleton topple, burned by the very fel fire it had channeled, and asked casually, "How do you guide your Shadow Bolts toward a target?"
 
-"Emotion. My emotions — and the target's emotions — both guide the shadow bolt's trajectory." Jace answered.
+"Emotion. My emotions — and the target's emotions — both guide the Shadow Bolt's trajectory." Jace answered.
 
-"Exactly." Sabellian said. "That's why I said Shadow Bolt Volley isn't difficult. Try to feel what each undead in front of you is emitting. Hatred. Resentment. Even the fanaticism, irascibility, impulsiveness, and anger transmitted by the demonic fel energy they're channeling — all of it can be your target. You're a shadow-hand as good as I am, Jace Sesso. Follow your instincts."
+"Exactly." Sabellian said. "That's why I said Shadow Bolt Volley isn't difficult. Try to feel what each undead in front of you is emitting. Hatred. Resentment. Even the fanaticism, irascibility, impulsiveness, and anger transmitted by the demonic fel energy they're channeling — all of it can be your target. You're as good a hand with shadow as I am, Jace Sesso. Follow your instincts."
 
-Jace nodded. He strapped Ulthalesh back onto his back, placed his hands before his chest, and chanted the shadow bolt incantation.
+Jace nodded. He strapped Ulthalesh back onto his back, placed his hands before his chest, and chanted the Shadow Bolt incantation.
 
 "Ula-singa."
 
-Even though he was intimately familiar with shadow bolt, he still chanted the incantation carefully while cultivating a depressive emotion from the depths of his heart. He thought about every setback in finding a way out for the expedition, about the looks in the priests' eyes when he'd proposed burning all of Auchindoun's souls in the fortress hall. Denial...
+Even though he was intimately familiar with Shadow Bolt, he still chanted the incantation carefully while cultivating a depressive emotion from the depths of his heart. He thought about every setback in finding a way out for the expedition, about the looks in the priests' eyes when he'd proposed burning all of Auchindoun's souls in the fortress hall. Denial...
 
 The shadow energy gathering in his hands swelled, deepening from dark violet to an inky black shot through with strange magical light. The orc disguise tore apart like a shack demolished by a tornado... Eventually, even the amused look on Sabellian's face froze, and he had to step back a few paces.
 
@@ -102,11 +102,11 @@ The shadow energy gathering in his hands swelled, deepening from dark violet to 
 
 An orc skeleton shrieked from the slope, raising a blade still faintly enchanted with shadow magic, stepping step by step toward the core of the shadow vortex above. Jace watched its twisted skull, feeling the hatred and resentment that had carried over from its life — and behind it, the countless orcs' lingering emotional shadows.
 
-"Bista-ent."
+"Bistanta."
 
 Jace moved his lips, barely aware if he'd actually spoken the second half of the incantation. The shadow energy in his chest released instantly, like countless twisted monstrous worms pouring from an animal carcass flipped open in summer... Frenziedly, they lunged at everything on the entire slope that was still moving.
 
-No explosions. No splattering bones or limbs. No screaming or struggling from the skeletal soldiers. Countless weaving, writhing shadow bolts quickly vanished into the black night and gray sand, accompanied by a series of eerie ringing sounds.
+No explosions. No splattering bones or limbs. No screaming or struggling from the skeletal soldiers. Countless weaving, writhing Shadow Bolts quickly vanished into the black night and gray sand, accompanied by a series of eerie ringing sounds.
 
 Before long, there wasn't a single skeleton left standing as far as the eye could see.
 

@@ -2,7 +2,7 @@
 
 The two of them chatted about the Dark Portal campaign, recalling the difficulties they'd faced back then and looking at the present. The gap between them was already so wide it didn't feel like it had happened to the same people.
 
-The rain let up a bit. After a stretch of silence, Vereesa asked, "Suppose the Farstriders really do get me promoted... would you attend my promotion ceremony, Jace? That might be the most important ceremony of a Farstrider's life, after all. A Ranger-Lord is second only to the Ranger-General, and the Ranger-General isn't a position you can earn through strength or military merit."
+The rain let up a bit. After a stretch of silence, Vereesa asked, "Suppose the Farstriders really do get me promoted... would you attend my promotion ceremony, Jace? That might be the most important ceremony of a Farstrider's life, after all. A Ranger Lord is second only to the Ranger-General, and the Ranger-General isn't a position you can earn through strength or military merit."
 
 "Of course I'll be there," Jace said without hesitation.
 
@@ -10,7 +10,7 @@ At that, Vereesa's eyes flickered. She lowered her head. "I almost forgot — yo
 
 Let alone Vereesa — Jace himself had nearly forgotten his awkward situation on the other continent.
 
-Traveling across Kalimor these past two or three months, he'd almost completely forgotten what Bizo Eschard had said in the cathedral back in the royal city.
+Traveling across Kalimdor these past two or three months, he'd almost completely forgotten what Bethor Iceshard had said in the cathedral back in the royal city.
 
 If the Reliquary really could come up with more than a hundred gold as a reward this time, Jace could actually buy a house outright when he got back — and in the Trade District, no less.
 
@@ -62,17 +62,17 @@ Going by what Shandris Feathermoon had said, Jace had felt they'd need to travel
 
 "But this clearly isn't any hill country. We're still deep in the jungle," Grede said.
 
-"Exactly," Vereesa said. "The hives have spread even more recklessly than those Kaldorei sentries detected..."
+"Exactly," Vereesa said. "The hives have spread even more recklessly than those Kaldorei sentinels detected..."
 
 Grede said, "Those old bastards who live for thousands of years — who knows the last time any of them came out to survey the direction the hives were spreading."
 
-"Mark this location down, Vereesa," Jace said, watching the limb sway again. "We're not going any deeper. We'll look around the periphery and then go find the Kaldorei sentries to report in."
+"Mark this location down, Vereesa," Jace said, watching the limb sway again. "We're not going any deeper. We'll look around the periphery and then go find the Kaldorei sentinels to report in."
 
 "The trees tell me... something foreign is approaching," Mosa warned.
 
 The moment she finished, Grede and Jace looked around and still hadn't seen anything — when suddenly a giant bug the size of a calf burst out of the undergrowth. It had four thick, powerful legs, its armored abdomen arched high from behind, and a pincer-like maw slanting toward the group as it lunged!
 
-Jace's reaction was almost instinctive. He turned and thrust his hand out, just as Das'mora had done to him that day... "Duk, Heduniluoyinmosi!"
+Jace's reaction was almost instinctive. He turned and thrust his hand out, just as Dasmora had done to him that day... "Duk, Heduniluoyinmosi!"
 
 Shadow power, following Jace's whispered incantation, seized the silithid and halted its rapid advance, wrenching its head to a grotesque angle as it crashed to the ground... But in the blink of an eye, an arrow wreathed in arcane energy pierced straight through the weak gap in its armor with a whiz. The giant bug let out a shriek, its burning body lurching into the bushes on the other side.
 

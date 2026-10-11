@@ -6,7 +6,7 @@ For demons like Kazzak, they could casually fire off Shadow Bolt Volley after vo
 
 Sabellian probably thought mastering Shadow Bolt Volley was no big deal, but to a transmigrator like Jace, it carried a completely different significance.
 
-Still, Shadow Bolt Volley was ultimately just splitting a single shadow bolt into countless spreading projectiles. It worked great against the fragile undead swarming around here, but against a large group of powerful demons — especially ones at the level of Doomguard — it would probably still fall a bit short.
+Still, Shadow Bolt Volley was ultimately just splitting a single Shadow Bolt into countless spreading projectiles. It worked great against the fragile undead swarming around here, but against a large group of powerful demons — especially ones at the level of doomguard — it would probably still fall a bit short.
 
 Sabellian walked down the slope, carefully stepping around the orc corpses Jace had struck down, and made his way to the top of an embankment on the opposite side.
 
@@ -22,7 +22,7 @@ But as it burned on, even Jace began to wonder whether they'd been summoned to b
 
 Wait, no.
 
-Even Jace — who had Red Dragon blood, wore enchanted robes, and a Red Dragonhide cloak — started finding the heat unbearable. The powerful elemental fire blazed hotter and hotter, quickly turning him into a fireball with no sign of diminishing...
+Even Jace — who had red dragon blood, wore enchanted robes, and a red dragonhide cloak — started finding the heat unbearable. The powerful elemental fire blazed hotter and hotter, quickly turning him into a fireball with no sign of diminishing...
 
 Jace Shadowstepped away, shaking off the flames. Even after emerging from the shadows, he was still smoking.
 
@@ -76,7 +76,7 @@ Having said that, the black dragon seemed to feel he'd already said too much and
 
 But Jace already knew this anyway — after all, he'd run Blackwing Lair countless times in his previous life.
 
-Nefarian could force mages to polymorph their teammates into sheep, make warlocks summon uncontrollable Infernals, turn priests' healing spells into agonizing curses. Jace was sure he could do far more than that — he used this ability to toy with his opponents.
+Nefarian could force mages to polymorph their teammates into sheep, make warlocks summon uncontrollable infernals, turn priests' healing spells into agonizing curses. Jace was sure he could do far more than that — he used this ability to toy with his opponents.
 
 "So, can you do it too?" Jace asked curiously.
 

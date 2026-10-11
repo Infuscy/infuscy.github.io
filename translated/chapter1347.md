@@ -14,7 +14,7 @@ Jace studied him a moment, then looked up at the dark hall's vaulted ceiling. "T
 
 "If permitted, I'd like to use your magical ritual to contact the master again — to confirm our safe arrival at Auchindoun and seek further instructions."
 
-Sabellian raised his eyebrows in surprise when he heard Jace wanted to talk directly to Magtheridon. Needleflame and Sora also shot nervous glances his way. Jace could only give them a subtle calming look during the pause.
+Sabellian raised his eyebrows in surprise when he heard Jace wanted to talk directly to Magtheridon. Needleflame and Sola also shot nervous glances his way. Jace could only give them a subtle calming look during the pause.
 
 "I certainly can't stop the Lord of Draenor's emissaries from speaking with him directly." Vorpil bowed slightly, then said, "But Blackheart claims only he can perform this ritual. No one else can learn it in a short time, masters. So if you wish to summon Master Magtheridon's voice, you'll have to wait until Blackheart finishes his sermon and ask him to help personally."
 
@@ -34,15 +34,15 @@ Out in the dark passage outside the hall, once the cult guard had left, the fel 
 
 "No wonder." Sabellian let out a contemptuous laugh. "Using the Dragonmaw's revealing spell to screen outsiders entering Auchindoun — that's not the kind of idea Magtheridon, that purebred Annihilan pig, would come up with."
 
-"But how do we confirm?" Sora asked. "If Blackheart really can contact Karabor, we'd be exposed."
+"But how do we confirm?" Sola asked. "If Blackheart really can contact Karabor, we'd be exposed."
 
 "That's possible," Jace said.
 
 Sabellian said, "No problem. I have an idea that'll make Magtheridon not care at all whether we're really his emissaries."
 
-"What?" Sora said. "This isn't the time to be cryptic, Prince Sabellian."
+"What?" Sola said. "This isn't the time to be cryptic, Prince Sabellian."
 
-"You've taken all the fun out of it, Lady Somaliel," the Black Dragon Prince said sourly.
+"You've taken all the fun out of it, Lady Somaelir," the Black Dragon Prince said sourly.
 
 "Let him share when the time comes," Jace said, pulling Sazeno out of his bag. "Listen — when Blackheart talks to Magtheridon, I'm guessing he'll use soul shards to power the array. Even if he's faking it, he has to sell the act. There are orc warlocks everywhere here — sloppy acting would be caught immediately."
 
@@ -52,7 +52,7 @@ Sabellian said, "No problem. I have an idea that'll make Magtheridon not care at
 
 Blackheart's sermon went on for a long time, his voice rising and falling with Murmur's low rumbling. Only when a deafening, indistinct roar came from the lecture hall did Jace realize the sermon was probably over.
 
-The two-headed ogre's footsteps approached from the distance. Many orcs and Broken followed humbly behind, asking all kinds of questions. Instigator Blackheart's one-eyed head answered patiently, while the horned head strode forward haughtily, until they'd shaken off the cult members and stood before the fel orcs.
+The two-headed ogre's footsteps approached from the distance. Many orcs and Broken followed humbly behind, asking all kinds of questions. Blackheart the Inciter's one-eyed head answered patiently, while the horned head strode forward haughtily, until they'd shaken off the cult members and stood before the fel orcs.
 
 The one-eyed head was covered in all kinds of magical runes. When Jace had seen this ogre last time, there hadn't seemed to be this many runes. But he couldn't tell what they did.
 
@@ -60,7 +60,7 @@ The one-eyed head spoke. "Hmm. You must be Masters Naihogar and Naigag. And thes
 
 "But Master Magtheridon promised me a legion of Bonechewer orcs." The fierce-looking horned head continued. "Yet in the end, only a handful of you arrived."
 
-"What the Lord of Karabor promises will be far more powerful than an entire legion of orcs, Instigator," Sabellian said. "When the time comes, the mission the Legion entrusts to you will go far beyond clearing Auchindoun and destroying Allerian Stronghold."
+"What the Lord of Karabor promises will be far more powerful than an entire legion of orcs, Inciter," Sabellian said. "When the time comes, the mission the Legion entrusts to you will go far beyond clearing Auchindoun and destroying Allerian Stronghold."
 
 "Now take us to speak with Master Magtheridon. We can't wait to tell him about the Alliance Expedition's movements we saw along the way."
 
@@ -78,13 +78,13 @@ But at the name, Blackheart stopped in his tracks. He turned around, both heads 
 
 Blackheart led the four fel orcs to the end of a long, narrow passage. In a dim hall there, several orc acolytes were arranging an array under guard's watch.
 
-Seeing Blackheart arrive, one acolyte said in Demonic, "The array can be activated again, Instigator."
+Seeing Blackheart arrive, one acolyte said in Demonic, "The array can be activated again, Inciter."
 
 "I was about to use it. Stand back," one of Blackheart's heads muttered. The other head turned to Jace and the others. "It'll be ready shortly, emissaries."
 
 Sabellian and Jace nodded. The massive ogre stepped into the center of the array, adjusted his purple-red robe, and raised both hands to begin channeling what looked to be a fairly powerful spell.
 
-His eyes began to burn with purple flame, his mouth muttering. Jace could recognize some Demonic incantation syllables but couldn't identify the spell. It was very different from the ritual he used to communicate with Kalerez.
+His eyes began to burn with purple flame, his mouth muttering. Jace could recognize some Demonic incantation syllables but couldn't identify the spell. It was very different from the ritual he used to communicate with Kallrez.
 
 Acolytes kept bringing soul shards to their positions on the array. The soul shards began to burn. Similar to Jace's communication array, but different. More cult orcs were bringing in more soul shards from outside.
 
@@ -92,19 +92,19 @@ The imp had already gone invisible earlier per Jace's instructions, following th
 
 But as he carefully observed the ogre's surrounding Void energy flow, it did feel like there was actual transmission and response, just like a real communication ritual. Could a fake be this convincing? Or was there really someone on the other end...
 
-"Great Lord of Karabor! Lord of Draenor! Pit Lord Magtheridon!" The fierce horned head was practically roaring. "Your emissaries have arrived at Auchindorn. They request your voice!"
+"Great Lord of Karabor! Lord of Draenor! Pit Lord Magtheridon!" The fierce horned head was practically roaring. "Your emissaries have arrived at Auchindoun. They request your voice!"
 
 "Master Magtheridon!" Sabellian stepped forward immediately. "We bring reliable intelligence on Jace Sesso."
 
 All three of the ogre's eyes were blazing wildly. The horned head, which was speaking, actually had weaker flame. That head muttered something, then said in Demonic, "Lord Magtheridon says to speak plainly."
 
-Jace studied the ogre for a moment, then said, "According to intelligence we've obtained, Jace Sesso has stolen two of the five control cubes used to imprison Black Dragon Prince Sabellian, Lord Magtheridon. My guess is that warlock is trying to replicate those control cubes and use them to set a demon trap — to bind a Legion lord! We are currently investigating the whereabouts of these cubes..."
+Jace studied the ogre for a moment, then said, "According to intelligence we've obtained, Jace Sesso has stolen two of the five Manticron Cubes used to imprison Black Dragon Prince Sabellian, Lord Magtheridon. My guess is that warlock is trying to replicate those cubes and use them to set a demon trap — to bind a Legion lord! We are currently investigating the whereabouts of these cubes..."
 
-The circumstances of Sabellian's imprisonment had been a secret known only to Chief Zuluhed, Warlord Moghorn, Magtheridon, and Sabellian himself. Blackheart shouldn't have had any way to know.
+The circumstances of Sabellian's imprisonment had been a secret known only to Chieftain Zuluhed, Warlord Mor'ghor, Magtheridon, and Sabellian himself. Blackheart shouldn't have had any way to know.
 
 Jace was using this deliberately exposed mistake to test whether the other end of Blackheart's array was really Magtheridon himself. If it was, Magtheridon would correct the error.
 
-Blackheart's horned head muttered to itself. After a moment, it suddenly roared: "Lord Magtheridon says you are hopeless fools! There are only three control cubes imprisoning the Black Dragon Prince, not five! The others are stored in the Black Temple and were never stolen! He is deeply disappointed in your stupidity!"
+Blackheart's horned head muttered to itself. After a moment, it suddenly roared: "Lord Magtheridon says you are hopeless fools! There are only three Manticron Cubes imprisoning the Black Dragon Prince, not five! The others are stored in the Black Temple and were never stolen! He is deeply disappointed in your stupidity!"
 
 "But we will complete the task Karabor has given us!" Sabellian immediately shouted. "Master Magtheridon!"
 
@@ -126,7 +126,7 @@ Just then, the imp poked his head out of the bag. "Let me say something, master.
 
 "What about it?" Jace asked. "What do you think?"
 
-"I studied many Burning Legion summoning and communication arrays under the Dreadlord. I've seen arrays like that before. It's not a one-way array. It's a two-way array... Meaning, to set up this kind of demon array, you need another one on the other end too." The imp said. "That's completely different from the array you use to talk to Lord Kalerez! That one is based on a soul contract."
+"I studied many Burning Legion summoning and communication arrays under the dreadlord. I've seen arrays like that before. It's not a one-way array. It's a two-way array... Meaning, to set up this kind of demon array, you need another one on the other end too." The imp said. "That's completely different from the array you use to talk to Lord Kallrez! That one is based on a soul contract."
 
 "But Blackheart couldn't have had a chance to build an array terminus in Karabor," Sabellian said.
 
@@ -134,15 +134,15 @@ Just then, the imp poked his head out of the bag. "Let me say something, master.
 
 "It's not somewhere else in Auchindoun. It's right there on the ogre's other head — the face covered in runes! Some of those runes form the other end of the array, master!" the imp said. "That fellow is actually talking to himself — one head talking to the other with soul speech!"
 
-"You're saying that ogre has two souls?" Sora asked.
+"You're saying that ogre has two souls?" Sola asked.
 
 "Medivh also had two souls. There's nothing strange about that," Sabellian said. "But are you sure, imp? Are you certain you saw the runes on his face clearly?"
 
 The imp said confidently, "I wasn't here for it... But if that head never opened its mouth the whole time, that proves it! Because if it opened its mouth, it would give itself away. You or Vorpil — any experienced warlock — would see through the soul energy flow and expose his trick!"
 
-"That head really didn't speak through the whole ritual," Sora said. "I remember clearly."
+"That head really didn't speak through the whole ritual," Sola said. "I remember clearly."
 
-"Then how did he know about the three control cubes binding me?" Sabellian asked. "Besides Magtheridon, no one still alive knows."
+"Then how did he know about the three Manticron Cubes binding me?" Sabellian asked. "Besides Magtheridon, no one still alive knows."
 
 Jace thought calmly for a moment. "That depends on how he knew about Zuluhed's revealing spell."
 

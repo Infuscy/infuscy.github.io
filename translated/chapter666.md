@@ -1,14 +1,14 @@
-## Chapter 666: Signs at Banthor Mountain
+## Chapter 666: Signs at Batol Mountains
 
 The young dragon seemed not to have remembered the location of that watchtower. When it suddenly came into view, the dragon startled and abruptly climbed higher to clear the tower's line of sight, nearly shaking the riders off its back.
 
 Then Jace remembered: in the eyes of the entire Alliance, the red dragon was still a mount of the Dragonmaw orcs.
 
-Sure enough, before long they heard the shouts of griffin riders behind them. Grede flew into a cursing rage after hearing the crack of lightning on a war hammer, but the young dragon quickly gained altitude and finally shook off the pursuit of those griffin riders just before it froze everyone to death.
+Sure enough, before long they heard the shouts of gryphon riders behind them. Grede flew into a cursing rage after hearing the crack of lightning on a war hammer, but the young dragon quickly gained altitude and finally shook off the pursuit of those gryphon riders just before it froze everyone to death.
 
-Although he felt somewhat sick about it, it was hard to blame those griffin riders — after all, the Orc Wars had only been over for a few years, and Khaz Modan had been one of the regions hit hardest by the Horde's frontal assault. It wasn't until the flight smoothed out that Grede remembered even he himself, not long ago, had been gnashing his teeth at the sight of red dragons.
+Although he felt somewhat sick about it, it was hard to blame those gryphon riders — after all, the Orc Wars had only been over for a few years, and Khaz Modan had been one of the regions hit hardest by the Horde's frontal assault. It wasn't until the flight smoothed out that Grede remembered even he himself, not long ago, had been gnashing his teeth at the sight of red dragons.
 
-So when they were still about a mile or two from Thelsamar, the young dragon quietly descended into a stand of pine trees. He couldn't get any closer — any nearer and he'd easily be spotted by the hill wardens around Thelsamar, and then getting away wouldn't be so easy.
+So when they were still about a mile or two from Thelsamar, the young dragon quietly descended into a stand of pine trees. He couldn't get any closer — any nearer and he'd easily be spotted by the mountaineers around Thelsamar, and then getting away wouldn't be so easy.
 
 After seeing off the young dragon, the few of them stood in the pine grove, looking back at the cooking smoke near the distant lakeshore.
 
@@ -24,7 +24,7 @@ By now it was nearly evening. The dwarf-built round-topped stone houses were all
 
 Jace said, "I can't even remember how many orcs I killed."
 
-"Don't even mention it," Grede turned his head to look at him. "Vereesa can say she pierced the necks and eyeballs of those orcs with arrows — though it doesn't sound as heroic as an axe or a hammer, it's not far off. But you, my little Jace…"
+"Don't even mention it," Grede turned his head to look at him. "Vereesa can say she pierced the necks and eyeballs of those orcs with arrows — though it doesn't sound as heroic as an axe or a hammer, it's not far off. But you, Jace, lad…"
 
 "Used terrible magic to drain the orcs until they looked like goblins," Vereesa added, raising her eyebrows.
 
@@ -44,7 +44,7 @@ The three of them chatted about the events in Grim Batol as they walked into The
 
 This dwarf glanced at the table the elf kept looking toward, then noticed Jace and said, "Mage, are you with her?"
 
-"Yes," Jace said, sitting over and leaning in. "Something did go wrong at Grim Batol — seems like the red dragons they were raising lost control. We were planning to go investigate, but it was too dangerous. Looks like a disaster caused by the Dragonmaw orcs' dark magic — there was simply no way to get close. So we're planning to go around telling everyone to stay away from Banthor Mountain on the east side of the Wetlands for now."
+"Yes," Jace said, sitting over and leaning in. "Something did go wrong at Grim Batol — seems like the red dragons they were raising lost control. We were planning to go investigate, but it was too dangerous. Looks like a disaster caused by the Dragonmaw orcs' dark magic — there was simply no way to get close. So we're planning to go around telling everyone to stay away from the Batol Mountains on the east side of the Wetlands for now."
 
 "So that's what happened," the dwarf patron said, frowning. "How terrifying. Grim Batol was already a cursed place. When the orcs went there, I knew they were asking for trouble! Well, I really thought a second Dark Portal was coming. Does that mean we don't have to worry about orcs anymore?"
 
@@ -71,11 +71,3 @@ Grede leaned over and said, "Have you forgotten how this guy talked to those orc
 "Now that you mention it…" Vereesa nodded.
 
 "So where did I talk nonsense?" Jace said. "What I just said — which part was wrong?"
-
-## Flags
-
-- **温蕾萨** rendered as **Vereesa** (Vereesa Windrunner, the third Windrunner sister; glossary lists 温蕾萨 only in passing).
-- **塞尔萨玛** = Thelsamar (town in Loch Modan; glossary lists 洛克莫丹 = Loch Modan but not the town itself).
-- **巴托山** = Banthor Mountain (tentative; a peak on the east side of the Wetlands near Grim Batol).
-- **碧空之歌** (the sword) = "Azure Skysong" (tentative rendering; canonical WoW item name unconfirmed).
-- Jace's cover story to the dwarf is a deliberate half-truth — he mentions the red dragons losing control and Dragonmaw dark magic, but omits Deathwing and the black dragons entirely.

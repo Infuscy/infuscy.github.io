@@ -26,19 +26,19 @@ The downpour crashed over the entire oasis like a collapsing curtain of water. T
 
 "That's only natural," Grede said, patting his chest. "I'm just that irresistible…"
 
-Just then, Wenresa and Musa came running back, holding their cloaks over their heads. The elf's hair hadn't been tied up yet — it hung completely loose. Jace watched her pull back her hood and sit down beside them, and couldn't help stealing a second glance.
+Just then, Vereesa and Mosa came running back, holding their cloaks over their heads. The elf's hair hadn't been tied up yet — it hung completely loose. Jace watched her pull back her hood and sit down beside them, and couldn't help stealing a second glance.
 
 Then the whole tauren squeezed in. Jace and Grede were immediately shoved to the edges. Grede nearly got pushed into the rain and muttered under his breath, "Damn it, we built this shelter a little too small."
 
-"Where's the demon?" Wenresa asked.
+"Where's the demon?" Vereesa asked.
 
 "She's out keeping watch for us," Jace said.
 
-Wenresa nodded. "I was just talking with Musa. She's willing to help us search for Dath'Morosa Darkeye."
+Vereesa nodded. "I was just talking with Mosa. She's willing to help us search for Dasmora Darkeye."
 
 "Really?" Jace said. "I never expected she'd lead us all the way to Desolace."
 
-Wenresa said, "She's been wandering this whole continent anyway, dealing with the things that threaten the tauren tribes. If there's a chance to hunt down an even more evil target, of course she'd want to join. And she brought an important piece of information — at least, I think it's important."
+Vereesa said, "She's been wandering this whole continent anyway, dealing with the things that threaten the tauren tribes. If there's a chance to hunt down an even more evil target, of course she'd want to join. And she brought an important piece of information — at least, I think it's important."
 
 "What?"
 
@@ -52,31 +52,31 @@ As they'd been talking, the rain had stopped at some point — without any sign 
 
 Water still dripped from the surrounding leaves, making it sound as if the rain were still falling, but sunlight was already streaming in.
 
-Musa stood up, said something to Wenresa, then turned and walked toward the depths of the oasis. Grede asked, "Where's she going?"
+Mosa stood up, said something to Vereesa, then turned and walked toward the depths of the oasis. Grede asked, "Where's she going?"
 
-"She's going to find some fruit to eat," Wenresa said. "Probably tired of thunder lizard meat."
+"She's going to find some fruit to eat," Vereesa said. "Probably tired of thunder lizard meat."
 
 "Me too! I'm going!" Grede stood up, dusted the dirt off his backside, and charged after her.
 
-Wenresa watched the dwarf's retreating direction, opened her mouth as if to say something, then closed it. She looked back at Jace. After a long pause, she said, "Those two can't understand a word the other is saying. What are we supposed to do?"
+Vereesa watched the dwarf's retreating direction, opened her mouth as if to say something, then closed it. She looked back at Jace. After a long pause, she said, "Those two can't understand a word the other is saying. What are we supposed to do?"
 
 Jace took a bite of a charred chunk of thunder lizard jerky and said, "Maybe by the time we get back, the tauren will have learned Dwarvish."
 
-"Even better. The way those two talk to each other is getting more and more… off. I don't want to keep translating," Wenresa sighed.
+"Even better. The way those two talk to each other is getting more and more… off. I don't want to keep translating," Vereesa sighed.
 
-"Does Grede have a thing for Musa too?" she asked suddenly.
+"Does Grede have a thing for Mosa too?" she asked suddenly.
 
 "I don't know," Jace said. "Grede's always been into women who can fight — fierce warrior women and all that. Remember that female mercenary we met on the ship to Lordaeron? He seemed a little interested in her. Oh, and he had a thing for your sister too…"
 
 The words were out of Jace's mouth before he could stop them — and only then did he realize this really wasn't the right time to bring that up.
 
-"Vereesa, you mean?" Wenresa said, her voice calm. "Back then, you and Grede were in Stormwind. You must have seen Vereesa and the troops she led."
+"Alleria, you mean?" Vereesa said, her voice calm. "Back then, you and Grede were in Stormwind. You must have seen Alleria and the troops she led."
 
 "Right. We saw her leave Stormwind."
 
 Jace regretted opening his mouth. The journey through Kalimdor over the past few days had made him feel like he was starting to forget everything that had happened on the other continent.
 
-"Sylvanas has been hearing a lot of news," Wenresa continued. "Some say Draenor has been destroyed. That the entire expeditionary force died on the other side of the Dark Portal — even the magisters are saying so. That's why Stormwind is planning to build a 'Valley of Heroes' and erect statues to honor the sacrifice of the Sons of Lothar. But Sylvanas never believed they were all dead."
+"Sylvanas has been hearing a lot of news," Vereesa continued. "Some say Draenor has been destroyed. That the entire expeditionary force died on the other side of the Dark Portal — even the magisters are saying so. That's why Stormwind is planning to build a 'Valley of Heroes' and erect statues to honor the sacrifice of the Sons of Lothar. But Sylvanas never believed they were all dead."
 
 "And you?" Jace asked.
 
@@ -86,7 +86,7 @@ She smiled and went on, "But you're still here, even though everyone says you're
 
 Jace nodded.
 
-"Somehow, I get the feeling you believe the Sons of Lothar are still alive too," Wenresa said.
+"Somehow, I get the feeling you believe the Sons of Lothar are still alive too," Vereesa said.
 
 "Of course I do," Jace said.
 
@@ -94,6 +94,6 @@ Of course he did. It wasn't a matter of belief — he knew.
 
 Draenor hadn't been completely destroyed, and the members of the Sons of Lothar… every single one whose statue stood in front of the Valley of Heroes had survived the catastrophe.
 
-"Then I'll take that as you not just trying to comfort me, Jace," Wenresa said with a smile. "But since you and I and Sylvanas are more or less of the same mind, there's something I want to tell you. Other than you, I don't know who else I could even bring it up with."
+"Then I'll take that as you not just trying to comfort me, Jace," Vereesa said with a smile. "But since you and I and Sylvanas are more or less of the same mind, there's something I want to tell you. Other than you, I don't know who else I could even bring it up with."
 
 "What is it?" Jace asked.

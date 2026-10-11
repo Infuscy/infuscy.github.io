@@ -4,7 +4,7 @@ The Smolderweb nest should have been the most terrifying place in all of Blackro
 
 Coming out of that stinking dark den, however, meant they had to be on high alert again.
 
-Wargs snarled and snapped at each other from above. The Horde's beast handlers had probably already readied these vicious creatures for a final showdown with the Alliance. In the abyss below, more and more Bloodaxe soldiers in crimson armor were assembling.
+Worgs snarled and snapped at each other from above. The Horde's beast handlers had probably already readied these vicious creatures for a final showdown with the Alliance. In the abyss below, more and more Bloodaxe soldiers in crimson armor were assembling.
 
 "The demons are about to breach the southeast wall! Get your troops up there, Balorag! Warchief Blackhand saw through those Shadow Council wastes a long time ago. They only screw things up. When the Horde's survival is on the line, they're useless. Now it's the Bloodaxe Legion's turn to clean up their mess!"
 
@@ -22,7 +22,7 @@ From atop a tall dwarf statue, looking down past several barracks and narrow str
 
 Behind the banner, past a burning brazier, was a doorway that had not fully collapsed. A dragonkin guard was walking out. Even from this distance, Jace could feel the shadow energy leaking from within — it was very different from the rest of the area. Neither trolls nor ogres, nor the orc soldiers moving back and forth, came anywhere near that place.
 
-"In there." Vaelastrasz pointed at the banner and whispered. "Vim'salak and his warlock servants are inside. We go in fast, kill the dragonkin, slaughter General Vim'salak, and the entire lower Spire will fall into chaos. Once we take out Overlord Omokk and make the Spirestone ogres abandon the fight and flee Blackrock Spire, the remaining orcs and trolls — without Blackwing's help — will never hold against your vanguard. They've already taken heavy losses at the gate."
+"In there." Vaelastrasz pointed at the banner and whispered. "Wyrmthalak and his warlock servants are inside. We go in fast, kill the dragonkin, slaughter Overlord Wyrmthalak, and the entire lower Spire will fall into chaos. Once we take out Highlord Omokk and make the Spirestone ogres abandon the fight and flee Blackrock Spire, the remaining orcs and trolls — without Blackwing's help — will never hold against your vanguard. They've already taken heavy losses at the gate."
 
 "I'm ready." Needleflame gripped the hilt of her dagger at her waist. The Sulfuron-forged sheath, made by Dark Iron dwarves, was already radiating a faint molten glow.
 
@@ -46,23 +46,23 @@ Was this the power of the corrupted egg laid by Sinestra, Deathwing's queen? No 
 
 "That energy is too strong. Are you sure you can break it by force, Jace?" Vereesa asked.
 
-Jace checked his potion pouch. "If I use a Potion of Destruction, I should be able to manage."
+Jace checked his potion pouch. "If I use a Destruction Potion, I should be able to manage."
 
-"Are you sure you want to use a Potion of Destruction? We haven't even seen a real black dragon yet." Vereesa whispered. "Damn it. One problem after another."
+"Are you sure you want to use a Destruction Potion? We haven't even seen a real black dragon yet." Vereesa whispered. "Damn it. One problem after another."
 
-Vaelastrasz scratched his brow. "Vim'salak must have set up the barrier to guard against assassins and thieves like us."
+Vaelastrasz scratched his brow. "Wyrmthalak must have set up the barrier to guard against assassins and thieves like us."
 
 "Did you mention to anyone in this tower that you were planning to bring people in?" Jace asked. "Did they get tipped off?"
 
-Vaelastrasz lowered his voice. "You killed the Spirelord's father and wounded his sister, Jace Sesso. It's not just the black dragons who know about you. Warlocks, shadow users, and dragon cultists across the whole continent know about you. They all know you have an incredibly powerful Sayaad demon helping you, and that demon specializes in invisibility and infiltration."
+Vaelastrasz lowered his voice. "You killed the Spirelord's father and wounded his sister, Jace Sesso. It's not just the black dragons who know about you. Warlocks, shadow users, and dragon cultists across the whole continent know about you. They all know you have an incredibly powerful sayaad demon helping you, and that demon specializes in invisibility and infiltration."
 
-"Now that Leshrael the Watcher is dead, and the stronger dragonkin haven't matured yet, no one besides Nefarian himself can guard against a Sayaad's infiltration. If I were him, I'd set up a thick magical barrier like this too, in front of my most precious treasure, making sure it stays active rather than being destroyed at the worst possible moment."
+"Now that Lashlayer the Watcher is dead, and the stronger dragonkin haven't matured yet, no one besides Nefarian himself can guard against a sayaad's infiltration. If I were him, I'd set up a thick magical barrier like this too, in front of my most precious treasure, making sure it stays active rather than being destroyed at the worst possible moment."
 
 "I'm not trying to doubt you. I just want to know what they know, so we can find a way..." Jace said.
 
 "Don't forget we have a black dragon here, everyone. A genuine black dragon!" The imp whispered. "Dragonkin obey their masters. Just have her go down and order them to open the door!"
 
-"No." Vaelastrasz said. "If she were a black dragon from the Spire, that would be fine. But Needleflame doesn't have a trace of shadow essence. The difference is too obvious. Even I can sense it immediately, let alone a commander like Vim'salak."
+"No." Vaelastrasz said. "If she were a black dragon from the Spire, that would be fine. But Needleflame doesn't have a trace of shadow essence. The difference is too obvious. Even I can sense it immediately, let alone a commander like Wyrmthalak."
 
 "Then can we add some shadow essence?" Vereesa looked at Jace. "Do you have any shadow artifact on you? Perhaps Needleflame could wear it to fool them."
 
@@ -94,15 +94,15 @@ Another boom echoed from above, shaking the entire Spire. This time it did not s
 
 "Fine, fine. I'll do it." Needleflame took the bottle. "What do I say?"
 
-"Just like when you commanded the dragonkin back in Blade's Edge Mountains. No different," the red dragon said.
+"Just like when you commanded the dragonkin back in the Blade's Edge Mountains. No different," the red dragon said.
 
 "I've... never done that." Needleflame mumbled. This black dragon... Vaelastrasz sighed softly.
 
-"Just command them like you threatened those orcs back in Auchindoun," Jace said. "Tell them you have important news for Vim'salak directly — something about the demon summoner outside. The key is not to make them suspicious. Put on that confidence befitting the Blackwing Prince's daughter. And we're doing this for speed, Needleflame. If they don't fall for it, I still have two Potions of Destruction to back us up."
+"Just command them like you threatened those orcs back in Auchindoun," Jace said. "Tell them you have important news for Wyrmthalak directly — something about the demon summoner outside. The key is not to make them suspicious. Put on that confidence befitting the Blackwing Prince's daughter. And we're doing this for speed, Needleflame. If they don't fall for it, I still have two Destruction Potions to back us up."
 
 "Your plan, then." Needleflame pulled the cork out.
 
-The imp laughed. "That Sayaad is going to be so jealous, little black dragon!"
+The imp laughed. "That sayaad is going to be so jealous, little black dragon!"
 
 The black dragon shot it a side-eye, downed the blood, and sucked in a sharp breath. "Didn't taste as bad as I thought, Jace Sesso."
 

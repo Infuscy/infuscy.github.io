@@ -4,7 +4,7 @@
 
 The goblin looked up at Grede over his spectacles. Vereesa said with a trace of impatience, "There's an Arcane Intellect enchantment on this. Take a proper look, or fetch someone who knows how to appraise magical items."
 
-The goblin glared at her. "And who are you? Let me tell you, elf, not everyone who comes from Quel'Thalas is an enchanment master. Don't try to bluff me!"
+The goblin glared at her. "And who are you? Let me tell you, elf, not everyone who comes from Quel'Thalas is an enchantment master. Don't try to bluff me!"
 
 Vereesa pulled the silver ring off her finger and slapped it on the counter. "Take a good look at what this is, you green rat!"
 
@@ -20,11 +20,11 @@ Hearing "Lady Windrunner," quite a few of the humans nearby looked over. Noticin
 
 These people saw the unknown object wrapped in black cloth on Jace's back and guiltily lowered their heads, avoiding eye contact.
 
-Relying on Vereesa's knowledge of enchantments and cursed items, the several weapons, plus the broken black knight blades and the bloodied old bracers, gauntlets, and the like, had managed to sell for twenty-three gold — Jace was a little surprised.
+Relying on Vereesa's knowledge of enchantments and cursed items, the several weapons, plus the broken Dark Rider blades and the bloodied old bracers, gauntlets, and the like, had managed to sell for twenty-three gold — Jace was a little surprised.
 
 As for that Arathi royal cloak, the goblin was willing to pay fifteen gold to acquire it. Jace wanted to bring it back to Stormwind or even Dalaran to see if any collectors would be willing to pay for it — he felt the goblin probably didn't value these antiques highly, especially the antiques of a human kingdom.
 
-But neither Grede nor Vereesa particularly agreed, after all this cloak was indeed the largest item among the spoils. Heading to Eldaras next, they might encounter naga — there was no town like Everlook there to store things. Carrying this big thing around would definitely slow them down.
+But neither Grede nor Vereesa particularly agreed, after all this cloak was indeed the largest item among the spoils. Heading to Eldarath next, they might encounter naga — there was no town like Everlook there to store things. Carrying this big thing around would definitely slow them down.
 
 So after the few of them discussed it and haggled a bit with the goblin, they sold it for eighteen gold in the end.
 
@@ -32,7 +32,7 @@ As for the vial of poison, Vereesa planned to keep it for herself. Morophil disd
 
 As for Sola's scales — before she'd decided to join the group, Jace hadn't thought much of it. Now that Sola had become a member of the party, selling her scales felt weird, so he had Vereesa keep them for now.
 
-In any case, by the end, including the potions and so on, these miscellaneous items that Grede called "filthy goods" had sold for a total of forty-four gold. This already exceeded Jace's expectations — he absolutely hadn't expected to rake in this much money from those black knights.
+In any case, by the end, including the potions and so on, these miscellaneous items that Grede called "filthy goods" had sold for a total of forty-four gold. This already exceeded Jace's expectations — he absolutely hadn't expected to rake in this much money from those Dark Riders.
 
 This way, he was one step closer to renovating his mage tower.
 
@@ -50,7 +50,7 @@ Bringing the money back to the inn that evening, Jace spread the gold coins on t
 
 The tauren touched Grede's hair. "I don't need money, my Thunderfist. You need to live well in Stormwind — I know everything costs gold there."
 
-"You can live well on silver too," Grede said, holding the tauren's large hand. "Use the gold to buy some fun things from the goblins — bombs and such, something useful against centaurs. I insist you take it."
+"You can live well on silver too," Grede said, holding the tauren's large hand. "Use the gold to buy some fun things from the goblins — bombs and such, something useful against centaur. I insist you take it."
 
 The tauren sighed. "All right."
 
@@ -66,7 +66,7 @@ Jace said, "Let's keep it for now, Sola. Vereesa's right. We'll figure it out wh
 
 "Flying us everywhere," Vereesa said with a smile. Sola nodded and didn't refuse the money either.
 
-"You keep my share, Jace," Vereesa said. "Consider it me funding your renovation of Ilgathar Tower. It's useful to me too."
+"You keep my share, Jace," Vereesa said. "Consider it me funding your renovation of the Tower of Ilgalar. It's useful to me too."
 
 "Then I won't stand on ceremony." Jace smiled and swept half of it to his side, then split the remaining twenty-two gold into two piles and pushed them toward Mosa and Sola, then divided up the remaining silver evenly.
 
@@ -74,7 +74,7 @@ Jace said, "Let's keep it for now, Sola. Vereesa's right. We'll figure it out wh
 
 "No. I didn't get a room," Sola shook her head.
 
-Grede rested his chin on his hand. "Tomorrow we're heading to Timbermaw Hold to report back to the furbolgs, then south toward the Rage River. You need to rest well — not like last time where you stood outside all night. Anyone else here can sleep poorly, but not you."
+Grede rested his chin on his hand. "Tomorrow we're heading to Timbermaw Hold to report back to the furbolgs, then south toward the Southfury River. You need to rest well — not like last time where you stood outside all night. Anyone else here can sleep poorly, but not you."
 
 "Fine," Sola said.
 
@@ -97,13 +97,3 @@ Everyone at the table was stunned. Jace asked, "You're willing to room with demo
 "Me too, me too!" the imp jumped about.
 
 "Then... that's settled, then," Jace said.
-
-## Flags
-
-- **POV:** Third person, Jace.
-- **Key names:** 温蕾萨 = Vereesa Windrunner; 索拉 = Sola (green dragon); 格瑞德 = Grede; 莫萨 = Mosa (tauren druid); 莫洛菲尔 = Morophil (succubus); 撒厄诺 = Sazeno (imp, called "Mr. Sazeno" by Sola for the first time).
-- **Places:** 永望镇 = Everlook; 木喉要塞 = Timbermaw Hold; 暴风城 = Stormwind; 达拉然 = Dalaran; 卡利姆多 = Kalimdor.
-- **Items:** 风行者家族的徽记 = Windrunner family insignia (Vereesa's ring); 颅骨之戒 = Skull Ring (sells for 30 silver — goblin initially offers 8); 阿拉希王家披风 = Arathi royal cloak (sells for 18 gold after haggling); 暗影之油 = Shadow Oil; 毒药瓶 = vial of poison (kept by Vereesa); 索拉的鳞片 = Sola's scales (kept by Vereesa).
-- **Lore:** Total loot from black knights = 44 gold. Jace plans to use funds to renovate Ilgathar Tower (his mage tower). Sola chooses to room with the demons to learn about them — she acknowledges demons are encroaching on the Nightmare. Grede insists Mosa take gold for centaur-fighting supplies (bombs).
-- **Character note:** The party's composition and dynamic captured — tauren, green dragon, high elf, dwarf, succubus, imp. "Filthy goods" is Grede's label for the loot. Ilgathar Tower = 伊尔加拉之塔 (Jace's renovation project).
-- **Language note:** 颅骨之戒 rendered as "Skull Ring"; 伊尔加拉之塔 = Ilgathar Tower (tentative transliteration).

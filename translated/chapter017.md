@@ -1,6 +1,6 @@
-## Chapter 17: The Great Graveyard
+## Chapter 17: The Raven Hill Cemetery
 
-The Great Graveyard of Raven Hill lay just north of town, an overgrown abandoned road running straight to the cemetery's shut iron gate.
+The Raven Hill Cemetery lay just north of town, an overgrown abandoned road running straight to the cemetery's shut iron gate.
 
 The metalwork on the gate and railings was quite elaborate and beautiful — this place must have been bustling once. Jace could even picture what it had looked like before the Karazhan Cataclysm.
 
@@ -14,17 +14,17 @@ On the farthest hill sat a small cottage — probably where the graveyard keeper
 
 Judging by how run-down that place looked, no one had set foot inside it in a very long time.
 
-In the game, this was the final target of a quest chain — a skeleton warrior named Moradin who could cast Holy Light spells, and he was no joke.
+In the game, this was the final target of a quest chain — a skeleton warrior named Mor'Ladim who could cast Holy Light spells, and he was no joke.
 
-Back in the early versions, the players leveling here were low-level twinks in their twenties. Moradin patrolled as a level 35 elite, and it was all too easy for some low-level quest-runner to accidentally pull his aggro.
+Back in the early versions, the players leveling here were lowbies in their twenties. Mor'Ladim patrolled as a level 35 elite, and it was all too easy for some low-level quest-runner to accidentally pull his aggro.
 
 Once he was aggro'd, he'd charge into the crowd and cut down players two at a time with every swing, leaving corpses scattered everywhere in no time.
 
-Moradin actually had a deeply tragic backstory too. He'd been a valiant paladin who fought in the Scourge invasion a decade and more from now. When the war ended and he returned home, he found his wife and two children already dead, and his youngest daughter nowhere to be found.
+Mor'Ladim actually had a deeply tragic backstory too. He'd been a valiant paladin who fought in the Scourge invasion a decade and more from now. When the war ended and he returned home, he found his wife and two children already dead, and his youngest daughter nowhere to be found.
 
 After searching everywhere in vain, he went mad at his wife's graveside and killed several well-meaning Night Watchmen who'd tried to comfort him. When he came to his senses, he took his own life in remorse and despair, becoming a vengeful revenant with no one left to avenge, wandering the land and making the already-terrifying Raven Hill even more horrifying.
 
-What Jace didn't know was that his daughter, Sarah Ladimore, had already left Raven Hill for Grand'gran — later known as Duskwood — and joined Duskwood's self-defense militia, the Night Watch. The two of them never did meet again.
+What he never learned was that his daughter, Sarah Ladimore, had already left Raven Hill for Grand Hamlet — later known as Darkshire — and joined Darkshire's self-defense militia, the Night Watch. The two of them never did meet again.
 
 Thinking about this story, Jace suddenly felt something was off.
 
@@ -40,7 +40,7 @@ Thinking about this story, Jace suddenly felt something was off.
 
 "Close enough." Grede had zero interest in this topic. He wandered off toward a puddle in the distance, leaving Jace alone staring at the lonely old cottage in the cemetery.
 
-Yes — that boy his own age was the future Moradin.
+Yes — that boy his own age was the future Mor'Ladim.
 
 Jace's memory of the fearsome undead warrior was of a man who already had three children, all long dead, whose wife had turned into a headstone ages ago, whose only remaining daughter had grown into a graceful young woman.
 
@@ -181,13 +181,3 @@ The dwarf took a deep breath, stood up, and glanced outside the railing. He look
 Jace hefted the bag. "Feels lighter than the bag itself."
 
 "About what I expected."
-
-## Flags
-
-- **守夜人 (Night Watch):** Not in glossary. Duskwood's self-defense militia in the game. Rendered as "Night Watch" per canonical WoW lore.
-- **邪恶之爪 (Evil Claw):** Listed in glossary as "Evil Claw." Kept as-is.
-- **辛特兰 (the Hinterlands):** Listed in glossary. Used "the Hinterlands."
-- **辛特兰的蜘蛛之神 (Spider God of the Hinterlands):** The quest chain Jace references is the "Spider God" quest in the Hinterlands. Not in glossary.
-- **沙德拉 (Sha'dra):** Not in glossary. The Spider God worshipped by the Amani trolls. Rendered as "Sha'dra" per canonical WoW lore.
-- **阿曼尼巨魔 (Amani trolls):** Not in glossary. Rendered as "Amani trolls" per canonical lore.
-- **希尔斯布莱德 (Hillsbrad):** Not in glossary. Rendered as "Hillsbrad" per canonical WoW lore.

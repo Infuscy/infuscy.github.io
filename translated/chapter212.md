@@ -8,9 +8,9 @@ During the crossing, the thought crossed Jace's mind more than once: he hoped so
 
 Of course, a second later he always decided that was probably for the best.
 
-This was a Kul Tiras merchant vessel. It didn't stop at Menethil Harbor either, and it was considerably faster than that goblin ship — exactly what Jace had arranged when he'd asked Instructor Dushan to help him book a berth.
+This was a Kul Tiran merchant vessel. It didn't stop at Menethil Harbor either, and it was considerably faster than that goblin ship — exactly what Jace had arranged when he'd asked Master Dushan to help him book a berth.
 
-The only downside was that Grede and Jace were among the very few passengers on board. Eighty percent of the people on the ship were Kul Tiras sailors, and their Common was ridiculously hard to understand. The two of them simply gave up trying to communicate.
+The only downside was that Grede and Jace were among the very few passengers on board. Eighty percent of the people on the ship were Kul Tiran sailors, and their Common was ridiculously hard to understand. The two of them simply gave up trying to communicate.
 
 As if the journey wasn't miserable enough already, it became even more oppressive. Within a few days, the faint homesickness of leaving home had been completely melted away by the torment of the ship.
 
@@ -96,11 +96,11 @@ As long as Deathwing or Kel'Thuzad helped him get the Eye of Dalaran, he'd immed
 
 "Of course not!" the imp said with a grin. "Ah, so that fat dwarf isn't completely useless after all! But Master, why did you call me out here?"
 
-"To get back to work, obviously," Jace said. "Now I've got money to buy paper and ink. Your job is to write down everything you've memorized for me — help me master the demon tongue!"
+"To get back to work, obviously," Jace said. "Now I've got money to buy paper and ink. Your job is to write down everything you've memorized for me — help me master Demonic!"
 
 "Got it…" the imp asked with a long face, "Starting work right now?"
 
-"Tomorrow," Jace said. "Tomorrow I'll come back from the Wizard Sanctum and bring you all the tools you'll need. Then you can get started. You've got to be serious and persistent — meticulous! The day I use the demon tongue to master powerful magic, you'll benefit too. Your treatment will definitely be better than it is now."
+"Tomorrow," Jace said. "Tomorrow I'll come back from the Wizard's Sanctum and bring you all the tools you'll need. Then you can get started. You've got to be serious and persistent — meticulous! The day I use Demonic to master powerful magic, you'll benefit too. Your treatment will definitely be better than it is now."
 
 "What treatme—"
 
@@ -115,20 +115,3 @@ As long as Deathwing or Kel'Thuzad helped him get the Eye of Dalaran, he'd immed
 "Stop. Don't start talking about freedom again, I'm going to sleep." Jace turned his head to the side. "You want to stay out, stay out. Just don't leave the room, hide if anyone comes near, and don't wake me up."
 
 "Understood, Master!"
-
-## Flags
-
-- **Title:** 假期结束 — "End of Vacation" (the trip home from the Lordaeron continent).
-- **米奈希尔港:** Menethil Harbor (glossary).
-- **杜尚老师:** Instructor Dushan — Caro Dushan (glossary: Orcish-language teacher at the Wizard Sanctum).
-- **暴风城港口:** the port of Stormwind.
-- **光明大教堂:** Cathedral of Light (glossary).
-- **圣光:** Holy Light (glossary). Jace's irreverent dockside shout and Grede's mockery of his selective faith kept in character.
-- **牧师:** priest — Grede's abandoned career path.
-- **撒厄诺:** Sazeno (glossary: the imp minion, short name).
-- **火小鬼:** fire imp — Sazeno.
-- **恶魔语:** the demon tongue — the demonic/fel language Sazeno is teaching Jace.
-- **塔隆·血魔 / 死亡之翼 / 克尔苏加德 / 耐奥祖 / 达拉然之眼:** Teron Gorefiend / Deathwing / Kel'Thuzad / Ner'zhul / the Eye of Dalaran — all canonical. Note: 达拉然之眼 is rendered as "Eye of Dalaran" (the artifact Deathwing and Kel'Thuzad seek); flagged for lore verification — canonical artifact name may differ.
-- **黑暗之门:** the Dark Portal (glossary).
-- **巫师圣殿:** Wizard Sanctum (glossary).
-- **Past-life reference:** the bathroom-light burn memory is Jace's isekai-life callback, kept intact.

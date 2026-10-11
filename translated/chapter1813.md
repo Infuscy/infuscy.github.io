@@ -26,13 +26,13 @@ Morophil placed her crimson finger on the wooden table beside her. Her expressio
 
 *Ahem.* Khadgar coughed into his hand. "Can you tell what kind of demon left these traces, Lady Morophil?"
 
-"Not yet." The Sayaad shook her head. "Follow me, you two. The residual clues... are fading by the moment."
+"Not yet." The sayaad shook her head. "Follow me, you two. The residual clues... are fading by the moment."
 
 Jace and Khadgar nodded and immediately followed the succubus into the northern forest. After a while, even the patchy stone path had disappeared, let alone any trace of fel energy or any magical power at all.
 
 The thick layer of rotting vegetation beneath dappled shadows, the occasional warning calls of wild animals echoing from a distance — this place felt less and less like a secret Guardian hideout or a terrifying demon-corrupted site by the minute.
 
-"Are you sure?" Khadgar panted as he ran. "I'm not questioning the ability of a banshee hunter..."
+"Are you sure?" Khadgar panted as he ran. "I'm not questioning the ability of a sayaad huntress..."
 
 "Then convince my master to give me more mana, mage." Morophil glanced back with a smile.
 
@@ -40,7 +40,7 @@ The thick layer of rotting vegetation beneath dappled shadows, the occasional wa
 
 "Simply existing... is a great consumption, darling. Especially for someone like me..."
 
-She stopped mid-sentence. The Sayaad suddenly fell silent, as if something had seized her by the throat. She fixed her gaze on the distance.
+She stopped mid-sentence. The sayaad suddenly fell silent, as if something had seized her by the throat. She fixed her gaze on the distance.
 
 "I sense more than one powerful demon. There's a Nathrezim. And... an old face."
 
@@ -48,11 +48,11 @@ She stopped mid-sentence. The Sayaad suddenly fell silent, as if something had s
 
 Before Jace could finish the question, Morophil spread her wings and leaped forward. The two mortals behind her had neither wings nor hooves. The distance between them stretched wide in an instant. They scrambled to keep up, clumsy as a pair of bears rolling through the underbrush.
 
-The three of them crashed through a stand of trees and leaped down a rocky ledge. The Sayaad stopped in front a stone wall overgrown with shrubs, scanning it back and forth.
+The three of them crashed through a stand of trees and leaped down a rocky ledge. The sayaad stopped in front of a stone wall overgrown with shrubs, scanning it back and forth.
 
-"Here. Strange. An Arcane veil, or... perhaps you should summon another Felhound, Master. Try to uncover what's hidden here..."
+"Here. Strange. An Arcane veil, or... perhaps you should summon another felhound, Master. Try to uncover what's hidden here..."
 
-"No need." Khadgar caught up, speaking quietly. "I think... I might know what this is about. A Felhound wouldn't be able to find the target anyway."
+"No need." Khadgar caught up, speaking quietly. "I think... I might know what this is about. A felhound wouldn't be able to find the target anyway."
 
 The archmage closed his eyes, steadying himself as he raised one arm and chanted a spell. A faint breeze stirred through the rocky cliffs as the magic resonated. But when he finished, nothing around them had changed.
 
@@ -86,19 +86,19 @@ It was clear that this had once been a corridor with Dalaran-style architecture,
 
 But he couldn't be bothered to dig into Khadgar's ambiguous connections with the Order, Aegwynn, and Medivh anymore. Just like Khadgar tactfully didn't pry into the source of Jace's "divination magic."
 
-"Watch out for lurking Nathrezim, Master." Morophil raised her short blade, which glowed faintly with fiery light — the Duskblade. "Though generally speaking, these self-important deceivers don't expose their presence so readily. But since one has, he won't leave this crypt alive today."
+"Watch out for lurking Nathrezim, Master." Morophil raised her short blade, which glowed faintly with fiery light — the Blade of Eternal Darkness. "Though generally speaking, these self-important deceivers don't expose their presence so readily. But since one has, he won't leave this crypt alive today."
 
 The smell of Arcane metal grew stronger as they walked. Finally, the three of them entered a wide, dark chamber. Broken walls everywhere, collapsed stone pillars. Khadgar tossed the mage light in an arc around the room, and a pile of shattered demon armor in the corner immediately caught everyone's attention.
 
 "Well. An ordinary Nathrezim wouldn't expose themselves so recklessly." Morophil looked at a fel-corrupted sword twisted into a spiral shape on the ground. "Someone got here before us."
 
-The demon's large armor was pure gold, inlaid with ice-blue magical gems that had all burst into fragments. The Sayaad picked up a piece of pauldron. "This is the one who created the plague in Blackrock Spire, Master. I'll never forget the shadow power he left behind. Such a pity."
+The demon's large armor was pure gold, inlaid with ice-blue magical gems that had all burst into fragments. The sayaad picked up a piece of pauldron. "This is the one who created the plague in Blackrock Spire, Master. I'll never forget the shadow power he left behind. Such a pity."
 
 "Who killed him?" Jace asked.
 
 "Undoubtedly an Arcane mage with incredibly precise and meticulous spellcasting." Khadgar touched the scorch marks on the nearby wall. "Who else could it be?"
 
-"Someone who could simply and cleanly intercept and kill a powerful Nathrezim... they're certainly no weaker than the two of us, Jace. Remember, at the Cathedral of Light, if the Holy Light hadn't helped, we might not have stopped that other dreadlord from escaping."
+"Someone who could simply and cleanly intercept and kill a powerful Nathrezim... they're certainly no weaker than the two of us, Jace. Remember, at the Great Monastery, if the Holy Light hadn't helped, we might not have stopped that other dreadlord from escaping."
 
 "I agree." Jace looked at the branching passage leading deeper. "But there's another demonic presence here."
 
@@ -120,4 +120,4 @@ The figure lifted her head. The moment those eyes, flickering with an unnatural 
 
 "Like the ones on the observatory platform," Khadgar said. "The shades."
 
-"Khadgar. Sesso. Morophilos." The figure murmured, her faint voice seeming to echo from somewhere beyond the room. "You finally found this place... but you're still too late."
+"Khadgar. Sesso. Morophil." The figure murmured, her faint voice seeming to echo from somewhere beyond the room. "You finally found this place... but you're still too late."

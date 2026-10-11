@@ -4,7 +4,7 @@ Back at the Slaughtered Lamb late at night, Ursula's alchemy lab was at its most
 
 "You stay up this late every night and can't wake up in the morning." Jace looked at the alchemist's thin back. "Ever considered sleeping earlier?"
 
-"I stay up partly out of habit, but mostly..." Ursula looked up. "Many potions — like the Nightmare Potion I'm brewing now — work significantly better when made at night than during the day. It must be the influence of Talendra roses. The shift between day and night isn't just about brightness, as many people think. It affects many things most people don't notice. You've been to Kalimdor. You should know the ancient forest elves call themselves 'Kaldorei' — children of the stars. Legend says they are blessed by the night and are stronger after dark than during the day."
+"I stay up partly out of habit, but mostly..." Ursula looked up. "Many potions — like the Nightmare Potion I'm brewing now — work significantly better when made at night than during the day. It must be the influence of Talandra's Rose. The shift between day and night isn't just about brightness, as many people think. It affects many things most people don't notice. You've been to Kalimdor. You should know the ancient forest elves call themselves 'Kaldorei' — children of the stars. Legend says they are blessed by the night and are stronger after dark than during the day."
 
 She examined her own palm. "Maybe the elf blood in my veins comes from those ancient forest elves. It gives me sharper focus at night, which lets me brew higher-quality potions."
 
@@ -22,7 +22,7 @@ Jace thought for a moment. "Partially. But it might also be related to a relic I
 
 "No." Jace said. "The nightmare that relic creates traps everyone affected together in the same space. More like... a nightmare realm. I nearly lost my life in there."
 
-"I can't imagine what you experienced in that nightmare." Ursula said quietly. "So it sounds like severe shadow corrosion caused you to lose control over your command of shadow energy? The Twilight's Hammer... is this connected to those wind stones Galders mentioned before?"
+"I can't imagine what you experienced in that nightmare." Ursula said quietly. "So it sounds like severe shadow corrosion caused you to lose control over your command of shadow energy? The Twilight's Hammer... is this connected to those wind stones Zardeth mentioned before?"
 
 "Yes," Jace said.
 
@@ -48,7 +48,7 @@ Jace thought for a moment. "Partially. But it might also be related to a relic I
 
 "What psychology?" Ursula looked up. "As a shadow alchemist, I've never liked the Church friars' approach. I handle things simply and roughly — I target the shadow in your mind directly."
 
-She held a quill and flipped through yellowed pages, muttering, "First, a strong sleep potion using Dreamleaf and Golden Sansam as the main ingredients. That potion induces completely dreamless sleep and will help me use other potions to adjust you further. Then a little Arathi old moss eater spider venom powder and Northrend Icethorn. That gives us... hmm, this should be enough to restore a certain level of calm."
+She held a quill and flipped through yellowed pages, muttering, "First, a strong sleep potion using Dreamfoil and Golden Sansam as the main ingredients. That potion induces completely dreamless sleep and will help me use other potions to adjust you further. Then a little Arathi old moss eater spider venom powder and Northrend Icethorn. That gives us... hmm, this should be enough to restore a certain level of calm."
 
 "Just having you listen to me talk about this already makes me feel halfway better, Ursula. Today I didn't even know how to tell Mom and Dad. Say their son is essentially a black ticking time bomb? And just this morning I was telling Bishop Benedictus not to let Stormwind turn into a den of dark magic. And here I am..."
 
@@ -56,17 +56,17 @@ She held a quill and flipped through yellowed pages, muttering, "First, a strong
 
 "How much?" Jace asked.
 
-"We can bundle it with the Restorative Potions." Ursula said. "Whatever the bear mongooses cure for the plague of undeath turns out to be, based on your description, it sounds more like a post-onset treatment — probably better for prevention and controlling the plague's spread. But it's limited against other necromantic and shadow magic. For the vanguard fighting on the front lines, the Restorative Potion is more suitable. Remember how Restorative Potions helped you fend off Teron Gorefiend's Death Shadow curse for almost a month?"
+"We can bundle it with the Restorative Potions." Ursula said. "Whatever the furbolgs' cure for the plague of undeath turns out to be, based on your description, it sounds more like a post-onset treatment — probably better for prevention and controlling the plague's spread. But it's limited against other necromantic and shadow magic. For the vanguard fighting on the front lines, the Restorative Potion is more suitable. Remember how Restorative Potions helped you fend off Teron Gorefiend's Shadow of Death curse for almost a month?"
 
-"If the Black Dragon really is in league with the remnants of the death knights, or if the orcs have cooked up some new death knights, then the Restorative Potion is our most powerful weapon against them."
+"If the black dragon really is in league with the remnants of the death knights, or if the orcs have cooked up some new death knights, then the Restorative Potion is our most powerful weapon against them."
 
 "But as always, the already expensive Elemental Earth is nowhere near sufficient supply. The apothecaries and doctors in Northrend desperately need the same material for plague prevention potions, Restorative Potions, and cold-resistant enchanted clothing. I only have two bottles left. Unless you have a way to get Elemental Earth."
 
-"See? I'm not price gouging. Miss Arkhana's Arcane Star Alchemy Lab also needs to sustain itself. You can't expect me to bankrupt my family business healing you, only to end up having to call in a favor with Erland Dudemoor and join the Stonemasons building watchtowers in the Burning Steppes."
+"See? I'm not price gouging. Miss Arkhana's Arcane Star Alchemy Lab also needs to sustain itself. You can't expect me to bankrupt my family business healing you, only to end up having to call in a favor with Erlan Drudgemoor and join the Stonemasons building watchtowers in the Burning Steppes."
 
 "I know, I know, I know..." Jace sighed. "Suddenly I feel like my mood isn't so bad anymore."
 
-"The Restorative Potion is still necessary." Ursula said. "Don't forget your opponents are powerful orc priests, forest troll hunters, and ogre magi. Not to mention the Black Dragons who excel at shadow and necromantic magic. The Restorative Potion will do more for you in that situation than you can imagine."
+"The Restorative Potion is still necessary." Ursula said. "Don't forget your opponents are powerful orc priests, forest troll hunters, and ogre magi. Not to mention the black dragons who excel at shadow and necromantic magic. The Restorative Potion will do more for you in that situation than you can imagine."
 
 "If the Alliance had been able to get enough Elemental Earth from Ironforge during the Battle of Hillsbrad Foothills, the Silver Hand's fight against the death knights might not have been so brutal. Of course, the main problem in Hillsbrad was those red dragons. But that's a different story."
 

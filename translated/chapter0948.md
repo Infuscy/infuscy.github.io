@@ -22,13 +22,13 @@ Even so, Jace could tell that the structure here bore some resemblance to the on
 
 But once you entered the branch corridors, things became very different.
 
-Just as the jailer had said, the passages and cells here had undergone no small number of renovations. In some of the old cells, the cross-sections of the iron bars hadn't even been removed — they stood there like bamboo shoots along the side of the passage, simply bent over in a crude fix.
+Just as the jailer had said, the passages and cells here had undergone no small number of renovations. In some of the old cells, the cross-sections of the iron bars hadn't even been removed — they stood there like stumps along the side of the passage, simply bent over in a crude fix.
 
 So once you entered the branch corridors, the prison's passages became extremely complicated. The jailer, however, walked them with practiced ease, without a hint of hesitation.
 
 Most of the cells they passed were empty, standing open, and there weren't many guards. Jace asked curiously, "Where are the warlocks captured at the Lighthouse held?"
 
-"They're not down here. They're in the dungeon across the canal, sir," the jailer answered. "That one is guarded by the Wizard Sanctum and guards sent by the king — it's not under our jurisdiction. Thank God for that. I haven't got what it takes to guard a bunch of hardcases who wield dark magic and can summon demons. You think these iron bars could stop them from casting on me, Master? Never mind the bars — even with a whole canal between us, it worries me."
+"They're not down here. They're in the dungeon across the canal, sir," the jailer answered. "That one is guarded by the Wizard's Sanctum and guards sent by the king — it's not under our jurisdiction. Thank the Light for that. I haven't got what it takes to guard a bunch of hardcases who wield dark magic and can summon demons. You think these iron bars could stop them from casting on me, Master? Never mind the bars — even with a whole canal between us, it worries me."
 
 Jace nodded, and was listening to the jailer recount the scene of how the warlocks had been brought in and assigned cells when a violent shout suddenly rang out from a nearby cell.
 
@@ -44,7 +44,7 @@ Locked behind the bars was a Dark Iron dwarf — filthy, matted hair, grimy brai
 
 "He's a monster who summons demons, sir," the Dark Iron dwarf said, pointing at Jace and staring at the jailer in Common. "Arrest him now. He can summon succubi, and God knows how many times he's fornicated with them. This fellow is a cunning, cowardly demon-worshipper, but incomparably evil — compared to him I could be a bishop! I swear to the Firelord… no, I swear to your Holy Light, not a word of a lie!"
 
-"You've got it backwards, you black dwarf," the jailer said, shaking his lantern. "This master is the king's counselor, specially tasked with dealing with your sort… You know how many cultists and the demons they summoned he wiped out at the Lighthouse? You picked the wrong target to slander…
+"You've got it backwards, you black dwarf," the jailer said, shaking his lantern. "This master is the king's counselor, specially tasked with dealing with your sort… You know how many cultists and the demons they summoned he wiped out at the Lighthouse? You picked the wrong target to slander…"
 
 "What? The king's counselor?"
 
@@ -64,13 +64,13 @@ Though the Dark Iron dwarf was cursing wildly and furiously, as a mortal who cou
 
 This only made him more certain of the strangeness of Katrana Prestor.
 
-"Ah, damn it." The jailer called toward a distance. "Someone come help me shut this guy up — he's asking for another beating again."
+"Ah, damn it." The jailer called into the distance. "Someone come help me shut this guy up — he's asking for another beating again."
 
 "I'd be happy to oblige."
 
 Sola said this and pointed a finger into the cell. The Dark Iron dwarf, whose furious features had been twisted together, suddenly went slack. His eyes crossed and he slumped down behind the iron bars, snoring, drool running from the corner of his mouth into his beard.
 
-"Really a simple and effective sleep spell, mage," the jailer said admiringly. "Our people ought to learn it — it'd save a lot of effort. The ones locked up here are all male dwarves, Captain told me you came to see the female dwarves and orcs, right?"
+"Really a simple and effective sleep spell, mage," the jailer said admiringly. "Our people ought to learn it — it'd save a lot of effort. The ones locked up here are all male dwarves. The captain told me you came to see the female dwarves and orcs, right?"
 
 "Yes," Sola said.
 
@@ -78,7 +78,7 @@ The jailer said, "Then keep following me. The female dwarves are just ahead. Don
 
 Come to think of it, Jace had never seen a female Dark Iron dwarf since coming to this world.
 
-Arriving at this corridor, he saw a female dwarf sitting motionless in the depths of the dark cell, staring outward — only her blood-red eyes visible, sweeping over the outside — and immediately thought of the legend of the wicked witch Modgud that circulated throughout the Stormwind Kingdom and Dun Morogh.
+Arriving at this corridor, he saw a female dwarf sitting motionless in the depths of the dark cell, staring outward — only her blood-red eyes visible, sweeping over the outside — and immediately thought of the legend of the wicked witch Modgud that circulated throughout the Kingdom of Stormwind and Dun Morogh.
 
 Although for the Wildhammer and Bronzebeard dwarves, the females seemed more approachable than the males, with the Dark Iron dwarves it was the opposite — the females were eerily unsettling.
 
@@ -98,11 +98,13 @@ Strangely, facing the orcs they were about to see, this jailer wasn't as nervous
 
 Jace looked inside curiously. He saw a shadow sitting inside, about the size of a tall human male. She had dark-blue long hair, lowered her head to stare at the ground, and breathed feebly, her shoulders heaving.
 
-"She doesn't look in good shape, Jace," Sola said. "Sick?" Jace asked.
+"She doesn't look in good shape, Jace," Sola said.
+
+"Sick?" Jace asked.
 
 "I don't know. At least not any illness I'm familiar with," Sola replied.
 
-Jace immediately remembered — this was the so-called "orcish lethargy." He'd learned about it when he studied the orcish language, from the research report Antonidas had published to the entire Alliance.
+Jace immediately remembered — this was the so-called "orcish lethargy." He'd learned about it when he studied the Orcish language, from the research report Antonidas had published to the entire Alliance.
 
 In fact, it was a kind of "withdrawal reaction" that came over the entire orcish Horde after the power of the demon blood faded. Every orc who'd drunk demon blood suffered the same affliction.
 
@@ -118,7 +120,9 @@ The two of them waited in the living room for a while, and a female Dark Iron dw
 
 The dragonflight seemed quite particular about hair color — for a green dragon, managing a head of dark black hair was already pretty good; producing red was genuinely difficult.
 
-Still, holding up the stone on his staff and shining it over, aside from the red of the eyes being a bit faint, there was almost nothing wrong. "What do you think, Grede?" he looked to the side.
+Still, holding up the stone on his staff and shining it over, aside from the red of the eyes being a bit faint, there was almost nothing wrong.
+
+"What do you think, Grede?" He looked to the side.
 
 "You want me to say this is a Wildhammer woman — she definitely wouldn't pass," Grede said, squinting. "Standing there without a single one of the fine qualities our women possess, like enthusiasm, cheerfulness, and all that… But if you say she's a Dark Iron dwarf, then there's probably no problem. Those fellows look at people with that exact expression, like they want to dig your heart out with their eyelashes."
 

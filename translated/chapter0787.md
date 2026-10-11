@@ -20,7 +20,7 @@ He thought it was because his Flame Shock had offended the elementals earlier, a
 
 That day, he heard Ruige passing by outside, so he called out, "Ruige, I can't sense the presence of fire elementals. It's been a week since I 'offended' them. Isn't that a bit abnormal?"
 
-Ruige said from outside, "Some fire-tenders, or other sages who try to maintain contact with elementals — after they accidentally offend the elementals, the elementals never answer their calls again. The fact that fire still favors you now is a good thing, although I don't know why. Hot-tempered fire is often unwilling to accommodate an ordinary mortal so indulgently."
+Ruige said from outside, "Some pyromancers, or other sages who try to maintain contact with elementals — after they accidentally offend the elementals, the elementals never answer their calls again. The fact that fire still favors you now is a good thing, although I don't know why. Hot-tempered fire is often unwilling to accommodate an ordinary mortal so indulgently."
 
 After saying that, he came to the door and peered in at Jace. "Of course, you're definitely not an ordinary mortal either."
 
@@ -64,7 +64,7 @@ He took out paper and pen again and began recording. After writing it all down, 
 
 After repeating it several times, he realized — it was the name of the Dragonqueen Alexstrasza! Putting the Dragonqueen's name in, the final result came out roughly like this.
 
-"One blessed by Alexstrasza's blood may be granted a chance." Was the fire elementals willing to give him a chance?
+"One blessed by Alexstrasza's blood may be granted a chance." Were the fire elementals willing to give him a chance?
 
 Jace repeated the phrase. Not long after, the elementals began reciting another sentence in a low voice. After another painstaking round of translation, Jace could roughly understand the meaning of this sentence.
 
@@ -118,9 +118,9 @@ The thrill of unleashing fire to wanton destruction was too easy to get drunk on
 
 But communicating with elementals wasn't just about listening to sounds. It was something that consumed an enormous amount of energy. After the series of conversations with the elementals just now, plus the two attempts to summon the elementals to help him, he already felt a severe drain on his energy.
 
-You couldn't become fat in one bite. Jace still needed to continue learning Dwarvish while mastering the elemental tongue to communicate with elementals better. The communication efficiency of wasting half an hour to an hour just to say two sentences, like he'd just done, was really too poor — and too draining on the spirit.
+Rome wasn't built in a day. Jace still needed to continue learning Dwarvish while mastering the elemental tongue to communicate with elementals better. The communication efficiency of wasting half an hour to an hour just to say two sentences, like he'd just done, was really too poor — and too draining on the spirit.
 
-This was when he truly understood why Marin had told him to find a shaman. Summoning fire to help him, with the arcane power he wasn't particularly close to standing in the middle, really was a huge waste of efficiency.
+This was when he truly understood why Malin had told him to find a shaman. Summoning fire to help him, with the arcane power he wasn't particularly close to standing in the middle, really was a huge waste of efficiency.
 
 It was already very late. Time to get some rest. When he returned to the room where he slept, Ruige was standing by the next door, watching him.
 

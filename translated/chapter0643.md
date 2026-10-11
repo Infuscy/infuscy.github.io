@@ -1,6 +1,6 @@
 ## Chapter 643: The End of an Unknown Journey
 
-He remembered how the orcish-language study group had been cut short. When the mage had barged in to report that a black dragon was attacking the city, Kel'Thuzad had hurriedly told everyone to stay put and left the hall for who knew where.
+He remembered how the Orcish symposium had been cut short. When the mage had barged in to report that a black dragon was attacking the city, Kel'Thuzad had hurriedly told everyone to stay put and left the hall for who knew where.
 
 Jace had assumed he was going to help organize the defenses. But looking back now, it was very likely he'd gone to carry out the mission the black dragon had given him.
 
@@ -8,7 +8,7 @@ After that, Teron Gorefiend's physical body had died in Dalaran and his soul had
 
 Kel'Thuzad had helped Deathwing obtain the Eye of Dalaran, which naturally made it easier to earn Deathwing's trust. From then on they'd kept cooperating — and even after Deathwing's return, he'd leaked more Kirin Tor intelligence to him. That, at least, was just barely plausible.
 
-He still remembered that dwarf griffin that had been scorched by black dragonfire and crashed into Southshore…
+He still remembered that dwarf gryphon that had been scorched by black dragonfire and crashed into Southshore…
 
 Grede had picked up his war hammer, ready to fight that black dragon to the death.
 
@@ -32,7 +32,7 @@ By the normal progression, shouldn't it have all built to every Dragon Aspect ga
 
 But now — no way to shatter the Demon Soul in sight, Krasus's fate uncertain, and whether the other Aspects would even show up an open question.
 
-And he couldn't back out. All he could do was grit his head and keep pushing east toward Grim Batol. It was as though the only way to survive was to submit to Deathwing.
+And he couldn't back out. All he could do was grit his teeth and keep pushing east toward Grim Batol. It was as though the only way to survive was to submit to Deathwing.
 
 Was this all part of Deathwing's calculations too?
 
@@ -42,7 +42,7 @@ A sea breeze swept past. Jace felt a chill across his forehead and the back of h
 
 Right now, he was already regretting not having spilled everything to Krasus right then and there, at the door of that house he'd just bought — not having told him straight out that Kel'Thuzad was a scumbag, that he was in cahoots with Deathwing and plotting to ruin Azeroth.
 
-Getting thrown into the Violet Prison as a shadow-corrupted lunatic making wild accusations, then getting casually killed by Kel'Thuzad in some magical dungeon on a trumped-up charge — that probably would've been a better deal than the situation he was in now.
+Getting thrown into the Violet Hold as a shadow-corrupted lunatic making wild accusations, then getting casually killed by Kel'Thuzad in some magical dungeon on a trumped-up charge — that probably would've been a better deal than the situation he was in now.
 
 As things stood, with this black sigil controlling him, he was nothing but a puppet who could do nothing but overthink. What this Grim Batol trip would ultimately turn into, he had no idea at all.
 
@@ -66,7 +66,7 @@ The demon raised one corner of her mouth. "And the Legion's minions are necessar
 
 "Aren't they?" A hint of challenge crept into the ranger's tone. "The Legion picks the finest warriors from the Twisting Nether. You're just the strays they passed over."
 
-The smile on Morophil's face stiffened bit by bit. She gripped the dagger in one hand and said, "We ought to find a time to test that, ranger — let you see that the Sha'tharet aren't just the cheap trash you ran into at the Dark Portal."
+The smile on Morophil's face stiffened bit by bit. She gripped the dagger in one hand and said, "We ought to find a time to test that, ranger — let you see that the sayaad aren't just the cheap trash you ran into at the Dark Portal."
 
 Jace had been lying in bed thinking about something else when he suddenly realized the conversation was heading somewhere it shouldn't. He turned his head and said, "Don't go picking fights over nothing, Morophil."
 

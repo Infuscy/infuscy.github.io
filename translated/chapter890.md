@@ -1,6 +1,6 @@
-## Chapter 90: Unusual News
+## Chapter 890: Unusual News
 
-Somaelir carried Grede and Jace, flying westward high above the pine forests and fields of Wilder. As they passed villages and watchtowers, she would lower her head and stare for a long time.
+Somaelir carried Grede and Jace, flying westward high above the pine forests and fields of the Eastweald. As they passed villages and watchtowers, she would lower her head and stare for a long time.
 
 She probably hadn't seen many human structures and was full of curiosity, but Jace still reminded her to fly as high as possible. The soldiers of Lordaeron had fought through the Orc Wars, battled red dragons, and been harassed by black dragons ever since the war's end — seeing a dragon would not put them in a good mood. Best not to draw the sentinels' attention if possible.
 
@@ -8,7 +8,7 @@ But Jace's warning seemed to have come a little late. As the green dragon climbe
 
 Of course, although Somaelir was a young dragon, she was among the more mature of her kind, and her flight speed was beyond that of an ordinary young dragon. And as a green dragon, traveling with the power of the Dream, she was not only faster than other dragon kinds but also harder to detect.
 
-She pushed forward through the clouds. Even a gryphon rider couldn't have kept up, so the group crossed the Wilder region safely. Before long, Lake Lordamere came into view.
+She pushed forward through the clouds. Even a gryphon rider couldn't have kept up, so the group crossed the Eastweald safely. Before long, Lordamere Lake came into view.
 
 Somaelir flapped her wings, using the power of the Dream to fight against the cold wind sweeping down from the Alterac Mountains. She angled toward the lake, rounded a peak, and suddenly a purple-walled castle sitting on the southern shore revealed itself.
 
@@ -20,7 +20,7 @@ Somaelir flapped her wings, using the power of the Dream to fight against the co
 
 "Will I be attacked?" Somaelir froze. Honestly, even Jace was feeling a little uneasy saying it.
 
-From here, they could see the Krasus's Landing platform in the distance. The gryphon and dragonhawk riders there were all staring over restlessly, low uneasy cries rising and falling — apparently frightened by the green dragon's approach.
+From here, they could see the Krasus' Landing platform in the distance. The gryphon and dragonhawk riders there were all staring over restlessly, low uneasy cries rising and falling — apparently frightened by the green dragon's approach.
 
 The gryphons that had been about to land circled far away instead, eyeing the situation.
 
@@ -54,7 +54,9 @@ He said something to a young red-haired Quel'dorei mage beside him, then glanced
 
 "What's wrong with her?" Jace asked.
 
-"You rode a real dragon and dove straight into Dalaran..." Krasus said quietly. "I was worried she might speak my true name. Also, I know that Ysondre's sister can take human form — I had to warn her not to display her abilities in full view of everyone. That mage will take her somewhere appropriate. We can leave first." He pointed toward a corridor over there and led the two of them that way. "Do you know who she is?" Jace asked.
+"You rode a real dragon and dove straight into Dalaran..." Krasus said quietly. "I was worried she might speak my true name. Also, I know that Ysondre's sister can take mortal form — I had to warn her not to display her abilities in full view of everyone. That mage will take her somewhere appropriate. We can leave first." He pointed toward a corridor over there and led the two of them that way.
+
+"Do you know who she is?" Jace asked.
 
 Krasus said, "I saw Somaelir when she first hatched from her egg."
 
@@ -64,13 +66,15 @@ Grede said, "We met a blue dragon in Azshara. He seemed quite old too, but he'd 
 
 "You could say he didn't, more or less..." Grede said with a smile.
 
-Krasus said, "When was the last time I saw him? It must have been three or four hundred years ago. I was on a mission for the Queen in Kalimdor. He decided I was trying to steal a sacred relic of Empress Azshara, so he turned me into a moose and tied me to an old pine tree he'd enchanted with powerful magic. If his mind hadn't been unstable — if he'd come to his senses later and remembered me — heaven knows how long I would have been stuck there."
+Krasus said, "When was the last time I saw him? It must have been three or four hundred years ago. I was on a mission for the Queen in Kalimdor. He decided I was trying to steal a sacred relic of Queen Azshara, so he turned me into a moose and tied me to an old pine tree he'd enchanted with powerful magic. If his mind hadn't been unstable — if he'd come to his senses later and remembered me — heaven knows how long I would have been stuck there."
 
 Jace barely held back his laughter, then asked curiously, "What sacred relic?"
 
 "Something he imagined entirely," Krasus said. "Azuregos barely interacts with the outside world. Even among blue dragons, basically only those closest to him and most familiar with him can approach him, so it's normal for him not to know many things."
 
-"Then why not teach him a lesson and knock some sense into him?" Grede asked. Krasus admitted frankly, "I'm not confident I could beat him."
+"Then why not teach him a lesson and knock some sense into him?" Grede asked.
+
+Krasus admitted frankly, "I'm not confident I could beat him."
 
 The red dragon mage led the two through Dalaran's streets to a beautiful red house. Inside, down a corridor laid with an exquisitely patterned blue carpet, they reached a small dining room decorated in classic Dalaran style.
 
@@ -78,17 +82,19 @@ Cream-white walls, portraits of unfamiliar mages hanging upon them. Before them,
 
 From the plump, glistening fruits of every color, a giant roasted chicken, some unknown stew giving off a rich milky fragrance, and seafood, to the delicate pastries on the plates — the whole room was filled with the aroma of roasted meat and wine.
 
-Before long, everything was laid out, and it felt like the whole table could've fed five people. "This wasn't made by magic, was it?" Grede asked.
+Before long, everything was laid out, and it felt like the whole table could've fed five people.
+
+"This wasn't made by magic, was it?" Grede asked.
 
 "Of course not," Krasus said with a smile.
 
 Hearing the mage say that, Grede immediately reached out and pulled off a leg of the roast chicken and started eating.
 
-Just then Sola walked in from outside. She greeted Krasus respectfully in Drakkic, and the mage invited her to sit. The two exchanged a few words in Drakkic. By Jace's Drakkic level, he could roughly tell they were exchanging polite pleasantries, but the finer details were beyond him.
+Just then Sola walked in from outside. She greeted Krasus respectfully in Draconic, and the mage invited her to sit. The two exchanged a few words in Draconic. With his own limited Draconic, Jace could roughly tell they were exchanging polite pleasantries, but the finer details were beyond him.
 
-Grede bit off a piece of meat, looked at Sola, and asked curiously, "That blue dragon said none of the red dragons can take human form as a hatchling. Is that true, Master Krasus?"
+Grede bit off a piece of meat, looked at Sola, and asked curiously, "That blue dragon said none of the red drakes can take mortal form. Is that true, Master Krasus?"
 
-"As I said, he's never taken an interest in the outside world, and he also likes to talk nonsense." Krasus pointed toward the corridor outside. "The mage who just brought Somaelir in is a hatchling. The Queen sent him to Dalaran to assist me."
+"As I said, he's never taken an interest in the outside world, and he also likes to talk nonsense." Krasus pointed toward the corridor outside. "The mage who just brought Somaelir in is a drake. The Queen sent him to Dalaran to assist me."
 
 Just then, he seemed to notice that Jace had been hesitating, not eating or speaking. "What's wrong, Jace?"
 
@@ -118,50 +124,22 @@ After all, in another timeline, Kel'Thuzad was exposed for necromantic research 
 
 If he were exiled here too, then wouldn't it be as if they'd done nothing at all?
 
-"There's something very important, Master Krasus," Jace said. "We returned from Kalimdor by following Northrend's coastline. In Northrend, we heard news that the underground spider kingdom of Azjol-Nerub has been struck by a necrotic plague. Both they and the Tuskarr believe there is a shadow hiding behind it — or rather, a king of the dead — behind all this. I think it's time to raise the alarm, because clearly Azjol-Nerub is already unable to fight this plague. More and more resurrected nerubians are joining this 'king of the dead.' I'm afraid that given time, the plague could affect the entire continent of Lordaeron."
+"There's something very important, Master Krasus," Jace said. "We returned from Kalimdor by following Northrend's coastline. In Northrend, we heard news that the underground spider kingdom of Azjol-Nerub has been struck by a necrotic plague. Both they and the tuskarr believe there is a shadow hiding behind it — or rather, a king of the dead — behind all this. I think it's time to raise the alarm, because clearly Azjol-Nerub is already unable to fight this plague. More and more resurrected nerubians are joining this 'king of the dead.' I'm afraid that given time, the plague could affect the entire continent of Lordaeron."
 
 Krasus said, "There are such rumors in Stratholme as well. Some who came to Lordaeron from Northrend have mentioned similar things. But the spider kingdom... has the situation really become that dire? Can't those insect-folk skilled in dark magic resist this force?"
 
 "We even met a nerubian who wanted to beg us for help, Master," Grede said, looking up. "Think about it — an insect, wanting to beg people like us for help."
 
-Sola also nodded. "I saw it with my own eyes, Prince Korialstrasz. What's more, across the whole of Northrend's southern shore, the animals of the forests and snow mountains are busy fleeing their original habitats as best they can. It's unsettling."
+Sola also nodded. "I saw it with my own eyes, Prince Korialstrasz. What's more, across the whole of Northrend's southern shore, the animals of the forests and snowy mountains are busy fleeing their original habitats as best they can. It's unsettling."
 
 Krasus thought for a moment. "I'll inform Archmage Antonidas of this. This is indeed unusual. Oh, right, Jace — I must tell you, recently it's not only the north that's had problems. The Kingdom of Stormwind has run into trouble too."
 
 "What kind of trouble?" Jace and Grede asked almost in unison.
 
-"The mines of Moonbrook," Krasus said. "A terrible demonic catastrophe occurred there. Based on the report the Wizard Sanctum sent to Dalaran, it appears some demon worshippers attempted to summon a powerful demon. Though the Wizard Sanctum stated in the report that they've brought the situation under control and Moonbrook has largely returned to normal, there is sufficient evidence that demons are appearing everywhere across Westfall — not just Moonbrook. So, does this have anything to do with you, Jace?"
+"The mines of Moonbrook," Krasus said. "A terrible demonic catastrophe occurred there. Based on the report the Wizard's Sanctum sent to Dalaran, it appears some demon worshippers attempted to summon a powerful demon. Though the Wizard's Sanctum stated in the report that they've brought the situation under control and Moonbrook has largely returned to normal, there is sufficient evidence that demons are appearing everywhere across Westfall — not just Moonbrook. So, does this have anything to do with you, Jace?"
 
 Jace glanced at Grede beside him, then said, "Though I know nothing about this... I really can't clear myself of suspicion, Master Krasus. And I am King Wrynn's dark magic advisor. I really should return to Stormwind as soon as possible."
 
-"Not staying in Dalaran a few more days?" Grede asked. "I'm afraid not," Jace said.
+"Not staying in Dalaran a few more days?" Grede asked.
 
-## Flags
-- **不寻常的消息** = Unusual News.
-- **威尔德** = Wilder (region of Lordaeron; not in glossary, phonetic).
-- **奥特兰克群山** = Alterac Mountains (canonical).
-- **洛丹米尔湖** = Lake Lordamere (canonical).
-- **克拉苏斯平台** = Krasus's Landing (canonical Dalaran platform).
-- **克拉苏斯** = Krasus (canonical red dragon).
-- **艾索雷葛斯** = Azuregos (canonical blue dragon).
-- **伊森德雷** = Ysondre (canonical green dragon; "Ysondre's sister" refers to Somaelir).
-- **考雷斯特拉兹** = Korialstrasz (canonical red dragon, Krasus's mate — Sola addresses Krasus by this name, likely an author slip or deliberate familiarity; rendered as-is).
-- **紫罗兰监狱** = Violet Hold (canonical Dalaran prison).
-- **克尔苏加德** = Kel'Thuzad (canonical).
-- **瓦拉斯塔兹** = Vaelastrasz (canonical red dragon).
-- **耐克鲁斯** = Nekros (Dragonmaw warlord; not in glossary, phonetic).
-- **六人委员会** = Council of Six (canonical Kirin Tor ruling body).
-- **月溪镇** = Moonbrook (canonical).
-- **西部荒野** = Westfall (canonical).
-- **巫师圣殿** = Wizard Sanctum (canonical).
-- **暴风王国** = Kingdom of Stormwind (canonical).
-- **达拉然之眼** = Eye of the Arcane (canonical Kirin Tor artifact).
-- **阿曼尼巨魔** = Amani trolls (canonical).
-- **黑暗之门** = Dark Portal (canonical).
-- **格瑞姆巴托** = Grim Batol (canonical).
-- **龙喉督军** = Dragonmaw Warlord (title).
-- **斯坦索姆** = Stratholme (canonical).
-- **艾卓——尼鲁布** = Azjol-Nerub (canonical).
-- **海象人** = Tuskarr (canonical Northrend race).
-- **格瑞德·雷拳** = Grede Thunderfist (full name).
-- **格瑞姆巴托的领袖** = the leader of Grim Batol (Nekros).
+"I'm afraid not," Jace said.

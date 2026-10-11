@@ -2,45 +2,45 @@
 
 The snow in Dalaran never seemed to stop falling, as if it refused to let anyone wake from that nightmare.
 
-Amy Marin had just walked out of a meeting hall. She looked out at the snow-covered garden, then toward the corridor beyond, momentarily lost in thought.
+Amy Malin had just walked out of a meeting hall. She looked out at the snow-covered garden, then toward the corridor beyond, momentarily lost in thought.
 
-"Lady Marin!"
+"Lady Malin!"
 
 Jaina Proudmoore waved from the other corridor. She glanced at the crowd filing out of the meeting hall, then walked over. "So? How is he? I mean, Master Jace Sesso..."
 
 Amy shook her head. "No word yet."
 
-"I heard from my father." Jaina looked toward the street beyond the garden. "He stopped the Defiler Archimonde in the Lordaeron capital. But..."
+"I heard from my father." Jaina looked toward the street beyond the garden. "He stopped Archimonde the Defiler in the Lordaeron capital. But..."
 
 "The Kirin Tor is still searching for him, Jaina." Amy interrupted quietly, her voice steady. "We can't make any judgments until we find enough evidence. As far as I know, the situation in that city is worse than we imagined. We don't have the conditions to thoroughly search the area yet."
 
-Jaina hummed in acknowledgment, then hesitated. "Actually, yesterday, before that demon lord froze the entire Lake Lordamere with ice magic, I met Master Sesso. He..."
+Jaina hummed in acknowledgment, then hesitated. "Actually, yesterday, before that demon lord froze the entire Lordamere Lake with ice magic, I met Master Sesso. He..."
 
 Amy's eyes flickered. "What?"
 
 "He looked terrible." Jaina said. "Like he'd been badly wounded -- hurt by demonic energy. And... I don't know how to describe it. I've never seen wounds like that. Lady Sola was with him. She was very worried too."
 
-Amy was silent for a moment, not answering her student's words. Then Jaina noticed an archmage in pale blue robes approaching and immediately lowered her head. "Master Marin."
+Amy was silent for a moment, not answering her student's words. Then Jaina noticed an archmage in pale blue robes approaching and immediately lowered her head. "Master Malin."
 
-"...I won't disturb you further, Lady Marin."
+"...I won't disturb you further, Lady Malin."
 
 After Jaina left, Amy turned to see her father. She could no longer force herself to stay calm.
 
-She burst into tears in old Marin's arms, no longer caring about the passing mage colleagues, or the students and juniors in the garden.
+She burst into tears in old Malin's arms, no longer caring about the passing mage colleagues, or the students and juniors in the garden.
 
 "He'll show up. If he's alive, he'll find a way to come back to Vereesa, to Lord Grede Thunderfist, to Mr. and Mrs. Sesso. He wouldn't just disappear without a word, leaving all of us here searching for him with no leads. Unless... Father, I can't accept this. What can I do to find him?"
 
-"I won't pretend to know Master Sesso better than you do, Amy." Old Marin held his daughter close, speaking softly. "But I think... maybe it's time we let him rest."
+"I won't pretend to know Master Sesso better than you do, Amy." Old Malin held his daughter close, speaking softly. "But I think... maybe it's time we let him rest."
 
-"Whether he chose to leave, or... I feel that perhaps this isn't a bad thing. When I first saw him at the Wizard Sanctum, I knew he was no ordinary young man. He was kind. He took responsibility. He was undeniably brave. But at the same time, he carried things in his heart that he couldn't share with others... And whatever those burdens were, they weren't a treasure to him. They were an unbearably heavy weight."
+"Whether he chose to leave, or... I feel that perhaps this isn't a bad thing. When I first saw him at the Wizard's Sanctum, I knew he was no ordinary young man. He was kind. He took responsibility. He was undeniably brave. But at the same time, he carried things in his heart that he couldn't share with others... And whatever those burdens were, they weren't a treasure to him. They were an unbearably heavy weight."
 
 "But it's not fair." Amy's voice was muffled. "He just wanted... to live in peace with his family."
 
-"Now that we've finally won, everyone who fought at Lake Lordamere -- humans, Quel'dorei, even the foreigners from another continent, the dragons -- all of them were helped by him or saved by him. Everyone knows he's a hero. Everyone hoped he'd get what he wanted. And now he's gone? That's not fair. I refuse to believe it ends like this."
+"Now that we've finally won, everyone who fought at Lordamere Lake -- humans, Quel'dorei, even the foreigners from another continent, the dragons -- all of them were helped by him or saved by him. Everyone knows he's a hero. Everyone hoped he'd get what he wanted. And now he's gone? That's not fair. I refuse to believe it ends like this."
 
 "I promised him I'd find a way to make everyone here believe he was a real hero. But I didn't do anything. Until the very end, he was still facing the suspicion of the entire world, or even... Did he have to sacrifice everything just to get what he wanted? That's not fair at all!"
 
-Old Marin tried to say something, but in the end, he couldn't find the words. He just let his daughter cry in his arms.
+Old Malin tried to say something, but in the end, he couldn't find the words. He just let his daughter cry in his arms.
 
 ---
 

@@ -22,7 +22,7 @@ For some reason, Jace didn't seem surprised at all. In fact, hearing the weapon'
 
 "Do you have proof, black dragon?" a Quel'Thalas magister asked.
 
-Sabellian chuckled, glancing at the mages in the corner. "How could a wretch like Zuluhed use our dragon eggs to cultivate such a powerful individual? That shadow dragon was not my child, nor his — she was a twisted creation spawned by the Scepter of Sargeras! Zuluhed called her Sagrol'ku in draconic, as if she had Sargeras's own blessing... what an unprecedented joke!"
+Sabellian chuckled, glancing at the mages in the corner. "How could a wretch like Zuluhed use our dragon eggs to cultivate such a powerful individual? That shadow dragon was not my child, nor his — she was a twisted creation spawned by the Scepter of Sargeras! Zuluhed called her Sagrol'ku in Draconic, as if she had Sargeras's own blessing... what an unprecedented joke!"
 
 Vereesa thought for a moment. "The Scepter of Sargeras was in the Dragonmaw chieftain's hands? No..."
 
@@ -30,7 +30,7 @@ Vereesa thought for a moment. "The Scepter of Sargeras was in the Dragonmaw chie
 
 "And when Zuluhed got the scepter, he had his own agenda. He wanted to use that demonic artifact and my power to create a new breed of dragon. He saw hope in those void-corrupted eggs."
 
-"When Magtheridon found out, he took the scepter back. But he was intrigued by the experiment, so he didn't punish Zuluhed. Instead, he confined him to the Dragonmaw Fortress and put Warlord Mor'ghor in charge of monitoring the experiments. To that end, Magtheridon fed Mor'ghor his own blood, turning him into a deformed monster."
+"When Magtheridon found out, he took the scepter back. But he was intrigued by the experiment, so he didn't punish Zuluhed. Instead, he confined him to Dragonmaw Fortress and put Warlord Mor'ghor in charge of monitoring the experiments. To that end, Magtheridon fed Mor'ghor his own blood, turning him into a deformed monster."
 
 "But clearly," Sabellian said, glancing at Jace, "not deformed enough."
 
@@ -58,7 +58,7 @@ Turalyon stared at the black dragon for a long moment. The hall buzzed with quie
 
 "Yes. Master Khadgar greatly admires Master Sesso's control over shadow magic."
 
-"I saw with my own eyes how he destroyed that void dragon in the cavern, everyone. I guarantee it..."
+"I saw with my own eyes how he destroyed that nether dragon in the cavern, everyone. I guarantee it..."
 
 "This is fate giving us a chance! We have no other options! Master Khadgar's library still contains his research on the Scepter of Sargeras — studies passed down from the ancient Order of Tirisfal centuries ago, combined with Karazhan's research and Khadgar's own observations... That's leagues beyond Ner'zhul, who grabbed the scepter and started swinging!"
 
@@ -66,9 +66,9 @@ The mages excitedly argued among themselves. Driven by the twin desires to destr
 
 "What do you think, Jace?" Turalyon asked.
 
-Every eye in the hall turned to him. Grede's eyes were wide, fixed on his face. Jace glanced at Vereesa. The ranger-lord's gaze seemed to waver, avoiding his.
+Every eye in the hall turned to him. Grede's eyes were wide, fixed on his face. Jace glanced at Vereesa. The Ranger Lord's gaze seemed to waver, avoiding his.
 
-Sora kept her head down. Fear radiated from her, barely contained. She didn't even dare look his way.
+Sola kept her head down. Fear radiated from her, barely contained. She didn't even dare look his way.
 
 From the moment they'd entered Draenor, she'd been terrified of the scepter's power. Especially after entering Terokkar Forest and seeing the landscape that looked alive on the surface but was secretly dying. Jace wasn't surprised she didn't want to accept this.
 

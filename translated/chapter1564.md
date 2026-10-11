@@ -1,6 +1,6 @@
 ## Chapter 1564: Who Needs Fair Play?
 
-Watching the three sages slowly walk toward the center, Jace touched his arm. Though he had restored some of his flesh by devouring the stripped shadow energy, it was hardly a natural recovery. The spots where the female sage Hightrail had burned him with the Holy Light still itched like crazy and ached dully.
+Watching the three sages slowly walk toward the center, Jace touched his arm. Though he had restored some of his flesh by devouring the stripped shadow energy, it was hardly a natural recovery. The spots where the female sage Hate'rel had burned him with the Holy Light still itched like crazy and ached dully.
 
 And he suspected that female sage had actually landed a hit with her axe — it was just that, being a spectral weapon, the damage wasn't as obvious as a real one.
 
@@ -8,11 +8,11 @@ Anyway, right now his body felt pretty damn weak, but he had to face three peopl
 
 Or rather... the most extreme state.
 
-He'd just used a Life Tap to interrupt two priests' Shadow- Light conversion, and for him, Life Tap was meant to sacrifice life in exchange for massive energy and shadow intensity.
+He'd just used a Life Tap to interrupt two priests' Shadow-Light conversion, and for him, Life Tap was meant to sacrifice life in exchange for massive energy and shadow intensity.
 
-Which meant that, at least in terms of casting capacity, he was in better shape now than at any point since entering the Summoners' Hall.
+Which meant that, at least in terms of casting capacity, he was in better shape now than at any point since entering the Summoners' Tomb.
 
-"Now then, outsider, you will face the three of us. Sithrell, Thaurrel, and Angreil."
+"Now then, outsider, you will face the three of us. Seeth'rel, Dope'rel, and Anger'rel."
 
 The central sage with the shield pointed at the two sages beside him, introducing himself. But before he could finish, his soul-shadow suddenly reflected the dark arcane glow flaring up from the warlock's direction!
 
@@ -46,15 +46,15 @@ He chanted the incantation at maximum speed, and with the emotions he'd been sup
 
 Three Shadow Bolts shot toward the three sages like demon heads trailing dark tendrils. The first bolt struck the warrior-sage's shield as he charged forward, having just recovered from the Shadowfury. Though the warrior-soul was knocked back several steps, stumbling against a pillar, and his shield's shadow dimmed considerably, his soul-form remained intact.
 
-This volley of Shadow Bolts came almost immediately after the Shadowfury. The mage-sage Sithrell still managed to turn himself into a flash-frozen ice sculpture before the shadowy orb hit him. The Shadow Bolt blasted layers of ice off the sculpture, but ultimately couldn't touch his soul.
+This volley of Shadow Bolts came almost immediately after the Shadowfury. The mage-sage Seeth'rel still managed to turn himself into a flash-frozen ice sculpture before the shadowy orb hit him. The Shadow Bolt blasted layers of ice off the sculpture, but ultimately couldn't touch his soul.
 
 A Dark Iron frost mage. Jace wasn't exactly surprised.
 
 After all, two hundred years ago, before they reached the Redridge Mountains, the Dark Iron dwarves had lived deep in the snowy peaks of Dun Morogh inside Ironforge.
 
-The third sage — the assassin Thaurrel — erupted in shadow. Jace recognized the move: Cloak of Shadows. He'd seen Teron Gorefiend and Verlesh Darkshadow use it to deflect his magic before.
+The third sage — the assassin Dope'rel — erupted in shadow. Jace recognized the move: Cloak of Shadows. He'd seen Teron Gorefiend and Veras Darkshadow use it to deflect his magic before.
 
-But having been burned twice by Cloak of Shadows, even after losing the soul-power the Book of Evil Names had given him upon returning from Draenor, his perception of shadow magic had already risen to a new level.
+But having been burned twice by Cloak of Shadows, even after losing the soul-power the Book of Fel Names had given him upon returning from Draenor, his perception of shadow magic had already risen to a new level.
 
 The assassin might have used Cloak of Shadows to absorb his Shadow Bolt and then vanished into the shadows entirely. If his opponent had been an arcane mage or a shaman, he might have gotten away with it.
 
@@ -64,7 +64,7 @@ Jace's perception keenly caught the shadow skulking in the darkness. He grabbed 
 
 The assassin realized he couldn't escape. He emerged from the shadows, raised his blades to block — but it was a desperate resistance.
 
-He managed to parry one small Shadow Bolt with his spectral weapon, but the rest bypassed his guard and struck his body. Soon he was blasted into oblivion, and Thaurrel's black coffin glowed with blue light — the assassin had been defeated before he even got close to Jace.
+He managed to parry one small Shadow Bolt with his spectral weapon, but the rest bypassed his guard and struck his body. Soon he was blasted into oblivion, and Dope'rel's black coffin glowed with blue light — the assassin had been defeated before he even got close to Jace.
 
 Jace didn't let up. He'd only succeeded through surprise. Taking down one didn't mean the remaining two would be easy.
 
@@ -82,29 +82,29 @@ Shit.
 
 Jace's heart sank. It felt like he'd been hit by a steam locomotive. His mind went blank as he tumbled over the lid of a black coffin and crashed into the iron railing.
 
-Angreil had clearly shaken off that Fear scream. And Jace, fooled by the thrill of having suppressed the mage with Counterspell, had let his guard down — forgetting a warrior's strong resistance to Fear spells.
+Anger'rel had clearly shaken off that Fear scream. And Jace, fooled by the thrill of having suppressed the mage with Counterspell, had let his guard down — forgetting a warrior's strong resistance to Fear spells.
 
-Hot lava roasted him from beyond the railing. That shield bash from Angreil had been so powerful it even scattered the shadow control he'd bought with Life Tap.
+Hot lava roasted him from beyond the railing. That shield bash from Anger'rel had been so powerful it even scattered the shadow control he'd bought with Life Tap.
 
 Jace spat blood, grabbed the coffin beside him to stand up, and tried to get away from the lava that was about to set his clothes on fire.
 
-But Angreil didn't give him a moment's respite. He charged again with his shield raised. Jace gritted his teeth and triggered Shadowstep to retreat a short distance. Angreil's shield slammed into the iron railing, the spiritual impact bending the metal bars. Jace had no idea if he could still get up after taking a hit like that clean.
+But Anger'rel didn't give him a moment's respite. He charged again with his shield raised. Jace gritted his teeth and triggered Shadowstep to retreat a short distance. Anger'rel's shield slammed into the iron railing, the spiritual impact bending the metal bars. Jace had no idea if he could still get up after taking a hit like that clean.
 
-Seeing Jace back on his feet and ready to chant, Angreil also raised his shield, back against the railing wall, watching him while shouting the mage-sage Sithrell's name, trying to wake him from the crippling Fear.
+Seeing Jace back on his feet and ready to chant, Anger'rel also raised his shield, back against the railing wall, watching him while shouting the mage-sage Seeth'rel's name, trying to wake him from the crippling Fear.
 
 Jace was running on fumes at this point. His first Shadow Bolt volley had only knocked the warrior back; it hadn't even broken through his shield to damage his soul. Even if he gathered another volley, the odds weren't good.
 
-Then he noticed the lava flowing like a waterfall behind Angreil.
+Then he noticed the lava flowing like a waterfall behind Anger'rel.
 
 At the border of Ragnaros's domain, it was hard for him to efficiently summon free fire elementals, and even harder to cast Shadowflame.
 
 But wasn't the fire already here?
 
-Jace drove his shadow energy with his will. Angreil taunted by banging his soul-warhammer against his shield. His goal wasn't to overwhelm Jace in one go — he wanted to stall the warlock so the mage could snap out of it and fight together.
+Jace drove his shadow energy with his will. Anger'rel taunted by banging his soul-warhammer against his shield. His goal wasn't to overwhelm Jace in one go — he wanted to stall the warlock so the mage could snap out of it and fight together.
 
-What Angreil didn't expect was that Jace's magic wasn't aimed at him at all — it was aimed at the lava behind him. The slow-crawling, boiling waterfall visibly darkened as purple shadow energy infused it.
+What Anger'rel didn't expect was that Jace's magic wasn't aimed at him at all — it was aimed at the lava behind him. The slow-crawling, boiling waterfall visibly darkened as purple shadow energy infused it.
 
-By the time Angreil realized something was wrong, it was too late. The blackened, corrupted lava suddenly exploded into a cloud of blood-red mist. With a piercing roar, it blasted his entire soul backward. Shadowflame set even his soul ablaze. He burned in midair for a moment, trailing a bloody streak, before dispersing entirely. The warrior's black coffin glowed blue.
+By the time Anger'rel realized something was wrong, it was too late. The blackened, corrupted lava suddenly exploded into a cloud of blood-red mist. With a piercing roar, it blasted his entire soul backward. Shadowflame set even his soul ablaze. He burned in midair for a moment, trailing a bloody streak, before dispersing entirely. The warrior's black coffin glowed blue.
 
 Seeing this, the mage stopped resisting. He raised his right fist in a Dark Iron salute to Jace, then walked back to his coffin.
 

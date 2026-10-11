@@ -2,17 +2,17 @@
 
 Quite a few people had died in the Twilight's Hammer embassy. But since the place was fairly isolated from the rest of Shadowforge City, the chaos that happened there didn't cause much of a stir.
 
-Gestahn had promptly explained the incident to Thaurissan's returning personal guards, blaming it on an unpredictable magical item related to shadow magic going haywire.
+Gerstahn had promptly explained the incident to Thaurissan's returning personal guards, blaming it on an unpredictable magical item related to shadow magic going haywire.
 
 After the guard captain realized the incident had nothing to do with their temporary absence, he couldn't be bothered to argue with these outsiders anymore.
 
-Jace and Vereesa didn't waste time at the embassy with the cultists and dwarven guards. The two of them took Needleflame and left the embassy along with the other Twilight's Hammer thugs and dwarven soldiers carrying bodies, crossed through the Magus Hall toward the Fireguard barracks, and secretly brought Needleflame downstairs to the Dark Iron Tavern along the way.
+Jace and Vereesa didn't waste time at the embassy with the cultists and dwarven guards. The two of them took Needleflame and left the embassy along with the other Twilight's Hammer thugs and dwarven soldiers carrying bodies, crossed through the Hall of Magic toward the Anvilrage barracks, and secretly brought Needleflame downstairs to the Grim Guzzler along the way.
 
-The embassy had Gestahn's protection, which was probably the safest place for them — outsiders who had shed their Dark Iron disguises — at the moment. But Jace didn't want to leave the unconscious Needleflame anywhere near that "gem," even though it had withered into a dry, shriveled, ugly thing that couldn't stir at all anymore.
+The embassy had Gerstahn's protection, which was probably the safest place for them — outsiders who had shed their Dark Iron disguises — at the moment. But Jace didn't want to leave the unconscious Needleflame anywhere near that "gem," even though it had withered into a dry, shriveled, ugly thing that couldn't stir at all anymore.
 
-Sora was pacing anxiously at the stairwell entrance. When she saw Needleflame in the ranger's arms, her whole body tensed up with fear. It was only after she took Needleflame from Vereesa and laid her down on the stairs to examine her condition that she relaxed a little.
+Sola was pacing anxiously at the stairwell entrance. When she saw Needleflame in the ranger's arms, her whole body tensed up with fear. It was only after she took Needleflame from Vereesa and laid her down on the stairs to examine her condition that she relaxed a little.
 
-They carried Needleflame back to the room and put her on the bed. Sora asked quietly, "What happened, Jace? Morophil said earlier that you all were in danger, but when I asked what was going on, she wouldn't tell me."
+They carried Needleflame back to the room and put her on the bed. Sola asked quietly, "What happened, Jace? Morophil said earlier that you all were in danger, but when I asked what was going on, she wouldn't tell me."
 
 Jace wanted to speak, but didn't know where to start.
 
@@ -36,9 +36,9 @@ So he could only lock onto his goal — find Needleflame.
 
 "But you destroyed the whole dream, Vereesa." Jace said. "How did you do it?"
 
-"Queen Ysera told me that the master of any dream is the foundation of all light and shadow, chaos and order." Vereesa said. "She thinks that she and the dream's guardians have been walking the wrong path for too long. For a long time she thought the dream was protected by the green dragonflight using blessed power, but the long centuries of guardianship made them forget that the dream was also protecting and guiding the green dragons... So the key to fighting nightmares is to find the real protector and guide — the dreamer."
+"Queen Ysera told me that the master of any dream is the foundation of all light and shadow, chaos and order." Vereesa said. "She thinks that she and the dream's guardians have been walking the wrong path for too long. For a long time she thought the dream was protected by the Green Dragonflight using blessed power, but the long centuries of guardianship made them forget that the dream was also protecting and guiding the green dragons... So the key to fighting nightmares is to find the real protector and guide — the dreamer."
 
-"The mistakes her father made, the threat of nightmares, and other crises made her realize this." Sora said quietly. "I shouldn't criticize my queen, I know, but like many Kaldorei druids think — the Emerald Dream survived and recovered after the Sundering... and that made her lose herself in an illusory sense of peace."
+"The mistakes her father made, the threat of nightmares, and other crises made her realize this." Sola said quietly. "I shouldn't criticize my queen, I know, but like many Kaldorei druids think — the Emerald Dream survived and recovered after the Sundering... and that made her lose herself in an illusory sense of peace."
 
 "But Needleflame was already controlled by the nightmare." Jace said.
 
@@ -52,15 +52,15 @@ She was calling his name. She was apologizing. She still remembered what Jace ha
 
 Jace touched his neck, remembering that Needleflame had put the chain around her own neck before entering the embassy.
 
-"I was in the middle of talking to Gestahn when Morophil's expression suddenly changed." Sora said. "I've rarely seen her that anxious. Even in the face of the most terrifying danger, whether in the Spires of Arak or the Shriekshall of Auchindoun... I knew she could feel through her soul that something was wrong with her master, so I knew you two might be in trouble."
+"I was in the middle of talking to Gerstahn when Morophil's expression suddenly changed." Sola said. "I've rarely seen her that anxious. Even in the face of the most terrifying danger, whether in Highmaul or the Screaming Hall of Auchindoun... I knew she could feel through her soul that something was wrong with her master, so I knew you two might be in trouble."
 
 "But soon the Twilight Lord was acting strange too. The cultist guards she'd brought with her were very sensitive — they immediately thought we were up to something. Grede almost got into a fight with them."
 
-"Then the Twilight Lord recovered. She cut off the deal and took those dozen or so soldiers back to the embassy. Only then did I find out that Morophil had successfully charmed her. The reason Gestahn suddenly went strange was because her mind protection had failed. But at the time I had no idea you two were going through all that in the embassy."
+"Then the Twilight Lord recovered. She cut off the deal and took those dozen or so soldiers back to the embassy. Only then did I find out that Morophil had successfully charmed her. The reason Gerstahn suddenly went strange was because her mind protection had failed. But at the time I had no idea you two were going through all that in the embassy."
 
-"I should have come with you, Sora." Vereesa shook her head. "If I had to do it over again, I have no idea if I could have... in that dream..."
+"I should have come with you, Sola." Vereesa shook her head. "If I had to do it over again, I have no idea if I could have... in that dream..."
 
-"But you did." Sora said. "Don't think that just because I'm Ysera's offspring I could have done any better. Often, the person in the thick of it can't see clearly... and don't forget, you rescued me from nightmares too."
+"But you did." Sola said. "Don't think that just because I'm Ysera's offspring I could have done any better. Often, the person in the thick of it can't see clearly... and don't forget, you rescued me from nightmares too."
 
 "You're stronger than you think, Vereesa." Jace looked at her.
 
@@ -72,11 +72,11 @@ Weariness written all over her face, Vereesa managed a rare smile. But Jace coul
 
 "Where's Grede?" Jace asked.
 
-"He went to the embassy with Morophil." Sora said. "Morophil said she needed to make sure her charm spell was stable. I told Grede to go with the imp and follow her — a demon moving around Shadowforge City alone would look suspicious."
+"He went to the embassy with Morophil." Sola said. "Morophil said she needed to make sure her charm spell was stable. I told Grede to go with the imp and follow her — a demon moving around Shadowforge City alone would look suspicious."
 
 "Sounds like you're already pretty familiar with this city." Jace said.
 
-"It's not my first time here." Sora said. "So, Jace — did we succeed?"
+"It's not my first time here." Sola said. "So, Jace — did we succeed?"
 
 "Yeah." Jace said.
 
@@ -90,13 +90,13 @@ Actually, Jace knew that an Old God's perception transcended region and dimensio
 
 But because of the Titans' seal, their influence on the outside world was extremely limited for now.
 
-Otherwise, as servants and followers of the same Old God, the black dragonflight wouldn't be fighting to the death with Ragnaros's forces in Blackrock Spire and the Molten Core, and Cho'gall's will wouldn't need a Twilight's Hammer emissary to cross the Great Sea in person to reach Shadowforge City.
+Otherwise, as servants and followers of the same Old God, the Black Dragonflight wouldn't be fighting to the death with Ragnaros's forces in Blackrock Spire and the Molten Core, and Cho'gall's will wouldn't need a Twilight's Hammer emissary to cross the Great Sea in person to reach Shadowforge City.
 
 But that didn't mean Jace and his group could relax their guard. He'd almost paid a huge price for underestimating the enemy just now.
 
 Fortunately, the ruler of Twilight's Hammer in Shadowforge City was now on their side. Maybe they could get some information about that from her.
 
-Just as Jace was thinking about this, the room fell quiet. Sora and Vereesa had been discussing how to keep a low profile for the next couple of days, but now they fell silent too.
+Just as Jace was thinking about this, the room fell quiet. Sola and Vereesa had been discussing how to keep a low profile for the next couple of days, but now they fell silent too.
 
 A pair of arms wrapped around his waist from behind. He turned his head to see Needleflame had woken up at some point. She was holding on, her face pressed tightly against the small of his back.
 

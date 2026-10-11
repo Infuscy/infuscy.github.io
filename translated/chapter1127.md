@@ -1,10 +1,10 @@
 ## Chapter 1127: The Plaza of the Saint
 
-Although Stratholme was the place where Jace's father, Vik Sesso, had grown up, Jace had never actually set foot in the city.
+Although Stratholme was the place where Jace's father, Vic Sesso, had grown up, Jace had never actually set foot in the city.
 
-Stratholme was one of humanity's oldest cities. Nearly three thousand years ago, the human tribes of Arathi had come to the northernmost reaches of the Eastern Weald, defeated the Amani trolls here, and built Stratholme atop the ruins of a decayed ancient troll city.
+Stratholme was one of humanity's oldest cities. Nearly three thousand years ago, the human tribes of Arathi had come to the northernmost reaches of the Eastweald, defeated the Amani trolls here, and built Stratholme atop the ruins of a decayed ancient troll city.
 
-Though today there was no trace left of the trolls from three thousand years ago, looking up at the part of Stratholme on the northern hillside, one could still see the towers of that unfamiliar style from over two thousand years ago, from the era of the ancient Arathi Empire.
+Though today there was no trace left of the trolls from three thousand years ago, looking up at the part of Stratholme on the northern hillside, one could still see the towers of that unfamiliar style from over two thousand years ago, from the era of the ancient Arathorian Empire.
 
 Stratholme's harbor was quite beautiful and grand, paved with floor tiles everywhere — though a good portion of them had been trodden into disrepair.
 
@@ -14,23 +14,23 @@ Church personnel in white robes or light yellow outer cloaks could be seen all o
 
 They weren't the Silver Hand — they were genuine church personnel, though Jace also saw the silver hand emblem representing the Order of the Silver Hand among those banners.
 
-Since its founding era, Stratholme — indeed, the whole Eastern Weald — had carried a thick religious atmosphere. This could be said to be the primary birthplace of humanity's Holy Light faith.
+Since its founding era, Stratholme — indeed, the whole Eastweald — had carried a thick religious atmosphere. This could be said to be the primary birthplace of humanity's Holy Light faith.
 
-Starting from the Arathi-Troll wars, Holy Light temples and shrines of all sizes had appeared throughout the Eastern Weald to the Alterac Mountains, and after the war came to a temporary close, they had rapidly spread to the Arathi Highlands and Tirisfal, replacing local animist beliefs and the "giant" worship derived from memories of the Guardians and the vrykul forebears.
+Starting from the Arathi-Troll wars, Holy Light temples and shrines of all sizes had appeared throughout the Eastweald to the Alterac Mountains, and after the war came to a temporary close, they had rapidly spread to the Arathi Highlands and Tirisfal, replacing local animist beliefs and the "giant" worship derived from memories of the Keepers and the vrykul forebears.
 
 To this day, the Holy Light faith remained an important part of Stratholme. And it was as if the Holy Light truly favored this place in particular — the holy water in Stratholme's churches just had a stronger killing power against evil than holy water from elsewhere.
 
 Even alchemists, most of whom didn't have much regard for the Holy Light faith and only cared about results, when considering potions to deal with undead or demons, were inclined to mix Stratholme holy water into their formulas.
 
-It was just that powerful holy water, numerous church personnel, monasteries and chapels everywhere, and even the city's largest church — the Crusader Cathedral on Crusader Square — none of them would be able to stop the Cult of the Damned from spreading the necrotic plague through the whole city ten years from now.
+It was just that powerful holy water, numerous church personnel, monasteries and chapels everywhere, and even the city's largest church — the Crusader Cathedral on Crusaders' Square — none of them would be able to stop the Cult of the Damned from spreading the necrotic plague through the whole city ten years from now.
 
 Somewhat ironically, even after the Kingdom of Lordaeron was destroyed by the Scourge, and Stratholme, already gasping for life after a massacre, was put to the torch by Arthas — even after the raging fire burned for years and the entire city had become a hell of blood and death — the holy water preserved in supply crates, originally meant to resist the undead invasion, was still shockingly powerful. Taking it out and splashing it would still be more than enough to blast apart those slavering ghouls and mindless zombies.
 
 Logically speaking, for a warlock who dabbled in shadow and demons, Stratholme, with its dense atmosphere of Holy Light faith, was probably the last place he ought to choose. But Stratholme was also the great metropolis closest to Quel'Thalas. Right now at the harbor, Jace could already see several elves who weren't even bothering to hide their identities under hoods, just standing not far off discussing something. And the workers and citizens passing by paid them no mind at all.
 
-So for Marysia and Dath'remar, as high elves, it wasn't unusual to hide in this city by taking advantage of how familiar the city was with elves. If they'd chosen Stormwind and hadn't hidden in the Mage Quarter's elven residences or the Quel'Thalas embassy, probably within a few days even the kids running around the Trade District and along the canal would have tracked down their whereabouts clear as day.
+So for Malicia and Dar'Khan, as high elves, it wasn't unusual to hide in this city by taking advantage of how familiar the city was with elves. If they'd chosen Stormwind and hadn't hidden in the Mage Quarter's elven residences or the Quel'Thalas embassy, probably within a few days even the kids running around the Trade District and along the canal would have tracked down their whereabouts clear as day.
 
-Sylvanas looked down the streets inside and pointed at the shops and storefaces across from the harbor plaza. "Before we split up to investigate, let's agree on a meeting place."
+Vereesa looked down the streets inside and pointed at the shops and storefronts across from the harbor plaza. "Before we split up to investigate, let's agree on a meeting place."
 
 "I'd suggest the Laurel Inn." Aeridania looked at Jace. "The Laurel Inn is one of the larger inns in Stratholme. It's closer to the harbor district than the other inns and a bit more welcoming to the Quel'dorei."
 
@@ -40,7 +40,7 @@ Sylvanas looked down the streets inside and pointed at the shops and storefaces 
 
 Passing through the gate from the harbor into the city, they came to a fairly broad promenade. On both sides were many different trading houses, plus some sailors' inns that looked, from the outside, chaotic and of questionable hygiene.
 
-After entering this street, one could tell that Stratholme appeared more aged than Stormwind — and of course, this was also because Stormwind had only just gone through its reconstruction. If traveling, a Farstrider like Sylvanas might have been willing to put up for the night in one of these shabby roadside establishments, but for a magister like Aeridania, it was simply out of the question.
+After entering this street, one could tell that Stratholme appeared more aged than Stormwind — and of course, this was also because Stormwind had only just gone through its reconstruction. If traveling, a Farstrider like Vereesa might have been willing to put up for the night in one of these shabby roadside establishments, but for a magister like Aeridania, it was simply out of the question.
 
 Though Jace was very familiar with Stratholme in the game, to be honest, the city in the game — that city of death that had been thoroughly occupied by the Scourge after years of burning — was just too vastly different from here.
 
@@ -60,23 +60,23 @@ Jace didn't even need the magister to point — he'd spotted the inn the first m
 
 Unknown plants were planted on the window sills of the three floors. Vines crawling out clung to half a roof beam and climbed up onto the inn's signboard, giving the whole place a touch of natural "forest" decoration.
 
-After examining the inn up and down, then turning to look at the market in the plaza — with its stalls spread everywhere selling everything from fish and shellflowers to birds and fruit — Jace somewhat regretted not having found an opportunity to make a dedicated trip to Stratholme for tourism.
+After examining the inn up and down, then turning to look at the market in the plaza — with its stalls spread everywhere selling everything from fish and shellfish to birds and fruit — Jace somewhat regretted not having found an opportunity to make a dedicated trip to Stratholme for tourism.
 
 Coming to a city like this under these circumstances — to investigate a shadow researcher who'd tried to assassinate him — really lacked the mood for sightseeing and enjoyment.
 
-If he could have come to this inn in front of him with Grede, Shalnir, Morofir, and Sazeno — those two somewhat ill-omened demons — ordered up a few of the local signature dishes, paired them with a fine vintage unique to the Eastern Weald, forgotten the monsters, forgotten the adventures, ignored the future, and eliminated everything but happiness…
+If he could have come to this inn in front of him with Grede, Sola, Morophil, and Sazeno — those two somewhat ill-omened demons — ordered up a few of the local signature dishes, paired them with a fine vintage unique to the Eastweald, forgotten the monsters, forgotten the adventures, ignored the future, and eliminated everything but happiness…
 
 Standing in this position looking out over the plaza, Jace noticed the broad city gate leading south into the southern district, with its stream of citizens and carriages going in and out. He suddenly remembered what this place was.
 
-Massacre Square.
+Slaughter Square.
 
-Of course, it definitely wasn't called "Massacre Square" now. That name had been given by the knights of the Argent Dawn — the successors of the Silver Hand who continued to fight the undead tooth and nail after Lordaeron's destruction.
+Of course, it definitely wasn't called "Slaughter Square" now. That name had been given by the knights of the Argent Dawn — the successors of the Silver Hand who continued to fight the undead tooth and nail after Lordaeron's destruction.
 
-Baron Rivendare, the death knight loyal to the Lich King, lived in the dread plague tower built by the Scourge — the Abattoir — commanding the undead army of the whole of Stratholme, ceaselessly sowing plague and fear across the Eastern Weald.
+Baron Rivendare, the death knight loyal to the Lich King, lived in the dread plague tower built by the Scourge — the Slaughterhouse — commanding the undead army of the whole of Stratholme, ceaselessly sowing plague and fear across the Eastweald.
 
-The location of the Abattoir was exactly where that sacred statue stood. By then, what roamed here were no longer priestly groups, cavalry, citizens, and small merchants, but abominations — bloated giants with foul pus and yellowing blood oozing from their mouths and stitching — and skeleton soldiers clad in reeking armor, wielding poisonous swords and battle axes.
+The location of the Slaughterhouse was exactly where that sacred statue stood. By then, what roamed here were no longer priestly groups, cavalry, citizens, and small merchants, but abominations — bloated giants with foul pus and yellowing blood oozing from their mouths and stitching — and skeleton soldiers clad in reeking armor, wielding poisonous swords and battle axes.
 
-"Jace, what are you looking at?" Sylvanas looked over, then asked in a low voice, "Is something suspicious? You don't look quite right."
+"Jace, what are you looking at?" Vereesa looked over, then asked in a low voice, "Is something suspicious? You don't look quite right."
 
 Jace blinked. The midday sunlight filled the plaza once more, dispelling the blood-colored gloom. Romping children, mothers sitting beneath the statue chatting, a cart driver cursing out an old horse — everything returned to normal all at once.
 
@@ -86,6 +86,6 @@ The Laurel Inn was quite quiet. Most of the guests holding glass cups by the win
 
 A waiter at the inn was a quite beautiful half-elf man. Seeing Jace's party appear, he immediately hurried over and bowed respectfully, greeting them in Thalassian, then said, "Welcome to the Laurel Inn, sir and ladies. Is there anything I can help you with?"
 
-"Two rooms." Sylvanas held up her thumb and index finger. "Away from the street. Quiet ones."
+"Two rooms." Vereesa held up her thumb and index finger. "Away from the street. Quiet ones."
 
 "No problem, ma'am." The half-elf attendant nodded. "Please follow me."

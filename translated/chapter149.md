@@ -2,7 +2,7 @@
 
 Dushan grabbed his robe off the rack and bolted out the door. Jace sat on the stairs in a daze for a while, murmuring to himself: "Dragon-slayer…"
 
-Even though Jace knew that was his best brother, it would've been a lie to say he felt no sting of disappointment at all.
+Even though Jace knew that was his best friend, it would've been a lie to say he felt no sting of disappointment at all.
 
 But he couldn't tell anyone — not a soul — what he'd actually done to that dragon. Letting everyone believe Grede had dealt the critical blow was, if anything, a way to hide the truth and protect himself.
 
@@ -16,7 +16,7 @@ He went back upstairs to his room. Recalling the scene of that standoff with the
 
 Fooling himself until he actually believed it, in other words.
 
-Meaning he hadn't cast any Life Drain at all, and all of that had just been a nightmare brought on by losing consciousness after being hit by the dragon's dark magic, warped by shadow energy?
+Meaning he hadn't cast any Drain Life at all, and all of that had just been a nightmare brought on by losing consciousness after being hit by the dragon's dark magic, warped by shadow energy?
 
 How could he confirm what had actually happened back then? If only Sazeno were still around — he definitely would have witnessed the whole thing.
 
@@ -42,7 +42,7 @@ The imp hopped up and straightened his backbone. "Ask away, master!"
 
 "When we were dealing with that black dragon, did you sense what was happening outside? Let me be direct — did you feel me cast?"
 
-"Of course I felt it," Sazeno said with certainty. "You killed the black dragon with Life Drain. Granted, it was already getting the absolute hell beaten out of it, or you'd be dead for sure… You're not going to get angry at me for telling the truth, are you?"
+"Of course I felt it," Sazeno said with certainty. "You killed the black dragon with Drain Life. Granted, it was already getting the absolute hell beaten out of it, or you'd be dead for sure… You're not going to get angry at me for telling the truth, are you?"
 
 "No."
 
@@ -66,15 +66,15 @@ That black dragon had flown to Southshore and didn't seem to be trying to destro
 
 And the black dragons of Azeroth weren't solitary wild beasts whose life's ambitions amounted to eating people, eating animals, looting treasure, and growing as large as possible.
 
-The ancient black dragons of Azeroth — Deathwing and his first brood — ruled the Blackwing Legion. Whether adult dragons, young dragons, whelps, or hatchlings, all of them answered to those ancient leaders' commands.
+The ancient black dragons of Azeroth — Deathwing and his first brood — ruled the Blackwing Legion. Whether adult dragons, young dragons, drakes, or whelps, all of them answered to those ancient leaders' commands.
 
-A whelp who'd dared attack an important stronghold like Southshore at the risk of its life, and even ended up losing that life, absolutely couldn't have been acting randomly or lashing out in a private grudge.
+A drake who'd dared attack an important stronghold like Southshore at the risk of its life, and even ended up losing that life, absolutely couldn't have been acting randomly or lashing out in a private grudge.
 
 And on top of that, Dushan had just mentioned that Southshore wasn't the only place hit by black dragon attacks.
 
 What on earth were they trying to do?
 
-Why were these whelps running around causing chaos everywhere? Was it to scatter Dalaran's forces — a "lure the tiger from the mountains" play — and then concentrate their strength for a surprise assault on Dalaran?
+Why were these drakes running around causing chaos everywhere? Was it to scatter Dalaran's forces — a classic diversion — and then concentrate their strength for a surprise assault on Dalaran?
 
 No. Impossible.
 
@@ -82,7 +82,7 @@ Deathwing really would attack Dalaran later on, but that was to stage an elabora
 
 And that fake death was a pretty shoddy performance, too — the red dragon mage Krasus had noticed something was off.
 
-If you were going to stage a magnificent fake death, what was the point of all this preliminary fuss, these operations that wasted your own lives? You should wait for Dalaran's defenses to be at their tightest and charge straight in, making everyone believe that the death of the Dragonfather of the black flight was an achievement that the entire magical kingdom had poured its desperate efforts into accomplishing.
+If you were going to stage a magnificent fake death, what was the point of all this preliminary fuss, these operations that wasted your own lives? You should wait for Dalaran's defenses to be at their tightest and charge straight in, making everyone believe that the death of the Dragonfather of the Black Dragonflight was an achievement that the entire magical kingdom had poured its desperate efforts into accomplishing.
 
 Wait. A chill sweat broke out on the back of Jace's neck.
 
@@ -92,19 +92,19 @@ This time he spotted something he'd completely missed the first time he'd transl
 
 The verb Teron Gorefiend used for "collect the three artifacts" in the command wasn't past tense — it was future tense.
 
-What this letter actually meant to convey was that the three artifacts were about to be gathered. He wanted his subordinate — a suspected death knight named Anggor — to hurry through the Dark Portal to the Horde to welcome the new warchief's ascension.
+What this letter actually meant to convey was that the three artifacts were about to be gathered. He wanted his subordinate — a suspected death knight named Angor — to hurry through the Dark Portal to the Horde to welcome the new warchief's ascension.
 
 The key word was "about to" — not "already gathered"!
 
 So which artifact hadn't been obtained yet?
 
-The raid on Alterac had already concluded. This was the exchange Teron Gorefiend had promised to the House of Perenolde in return for Medivh's Book. He must already have Medivh's Book in his grasp by now.
+The raid on Alterac had already concluded. This was the exchange Teron Gorefiend had promised to the House of Perenolde in return for the Book of Medivh. He must already have the Book of Medivh in his grasp by now.
 
 The command stated that Gul'dan was dead and that the Horde had elected a new leader, Ner'zhul.
 
-After the Horde's defeat, Gul'dan had traveled to the fabled Tomb of Sargeras, attempting to devour the evil power left behind on Azeroth by the Dark Titan — only to unleash the countless demons buried within and be consumed by them in return. The Blacktooth Grin orcs who'd followed Gul'dan had fled back across the sea, bringing news of Gul'dan's death and word that the Staff of Sargeras had resurfaced. Only then did Ner'zhul decide to send Teron Gorefiend and the death knights to the Tomb of Sargeras, aiming to seize the staff from the demons.
+After the Horde's defeat, Gul'dan had traveled to the fabled Tomb of Sargeras, attempting to devour the evil power left behind on Azeroth by the Dark Titan — only to unleash the countless demons buried within and be consumed by them in return. The Black Tooth Grin orcs who'd followed Gul'dan had fled back across the sea, bringing news of Gul'dan's death and word that the Scepter of Sargeras had resurfaced. Only then did Ner'zhul decide to send Teron Gorefiend and the death knights to the Tomb of Sargeras, aiming to seize the scepter from the demons.
 
-So the question was — had the Staff of Sargeras been obtained at this point?
+So the question was — had the Scepter of Sargeras been obtained at this point?
 
 Once the tense shifted, everything became uncertain.
 
@@ -152,7 +152,7 @@ Jace glanced at Grede's eye patch. "As long as it heals completely, that's what 
 
 "There's only one Sesso family in Lordaeron, though there are a few more in Brill," Jace said. "But thanks for the thought, anyway, Dragon-slayer!"
 
-"If killing a whelp counts as a dragon-slayer," Grede said, "then being a dragon-slayer isn't much to brag about. Three whelps have been killed in the last two days alone — though south of the Alterac Mountains, ours was the only one. All in all, it feels like they've churned out no fewer than a dozen dragon-slayers. You definitely count as one too, Jace. They just happened to be cutting the dragon's head off to celebrate while you was still unconscious. No one's denying your contribution just because you weren't there."
+"If killing a drake counts as a dragon-slayer," Grede said, "then being a dragon-slayer isn't much to brag about. Three drakes have been killed in the last two days alone — though south of the Alterac Mountains, ours was the only one. All in all, it feels like they've churned out no fewer than a dozen dragon-slayers. You definitely count as one too, Jace. They just happened to be cutting the dragon's head off to celebrate while you were still unconscious. No one's denying your contribution just because you weren't there."
 
 "What contribution did I make?" Jace asked.
 
@@ -162,7 +162,7 @@ Grede glanced downstairs, then fixed Jace with a sidelong stare and lowered his 
 
 "What do you mean, 'more or less'?" Grede leaned in close. "I watched that dragon go limp under your magic, its scales losing color all over. You think I've never seen that kind of magic before? Don't forget, I'm a veteran of the Orc Wars. I've heard of those orc warlocks who use a horrifying magic that drains their enemies' lives. I'm guessing I'm not wrong."
 
-"I was just desperate to save you," Jace said. "You didn't go and tell those South Shore soldiers directly, did you?"
+"I was just desperate to save you," Jace said. "You didn't go and tell those Southshore soldiers directly, did you?"
 
 "What, do I look stupid?" Grede said. "I told them I saw you use arcane magic to draw that black dragon's attention, which gave the soldiers the chance to spear it to death. As for what kind of arcane magic — well, I'm just a dumb, reckless Wildhammer dwarf, wouldn't know a thing about that, now would I? If you don't want your cover blown, you'd better learn a similar-sounding spell fast. I heard there's some kind of Slow spell or something… Oh, right — just tell them you blinded its eyes with Light."
 
@@ -179,32 +179,3 @@ Grede slapped the railing with a "hey, hey." "So, evil warlock — how about we 
 Jace had been about to say his arm burns hadn't healed yet, but then he thought, ah, screw it.
 
 "Let me leave a note for Master first, then we'll go."
-
-## Flags
-
-- **奥驱浮游炮** → "arcane turrets": Jace's joking image of Dalaran's anti-demon defenses. Flagged; not a canonical term, kept humorous.
-- **两干年前** → "two thousand years" (干 is a typo for 千). Flagged.
-- **撒厄诺 / 撒扎厄尼拉兹** → "Sazeno" (glossary; short name used).
-- **塔隆·血魔** → "Teron Gorefiend" (glossary).
-- **奥特兰克山谷** → "Alterac Valley" (canonical). Flagged for glossary.
-- **黑翼军团** → "Blackwing Legion": Deathwing's dragon forces. Flagged (distinct from the canonical "Blackwing Lair" raid; this refers to the broader flight's military).
-- **麦迪文之书** → "Medivh's Book" (canonical artifact). Flagged.
-- **古尔丹** → "Gul'dan" (glossary).
-- **耐奥祖** → "Ner'zhul" (canonical warchief). Flagged for glossary.
-- **萨格拉斯之墓** → "Tomb of Sargeras" (canonical). Flagged.
-- **萨格拉斯权杖** → "Staff of Sargeras" (canonical artifact). Flagged.
-- **黑齿狞笑氏族** → "Blacktooth Grin" (canonical orc clan). Flagged.
-- **匹瑞诺德王室** → "House of Perenolde" (canonical Alterac royal house). Flagged.
-- **安高尔** → "Anggor": the suspected death knight. Not a confirmed canonical figure; tentative. Flagged as TODO-verify.
-- **肯瑞托宝库** → "the Kirin Tor's vault." Flagged.
-- **达拉然之眼** → "Eye of Dalaran": canonical artifact kept in Dalaran's vault (distinct from the glossary's 奥术之眼 = Eye of the Arcane). Flagged with this distinction.
-- **克拉苏斯** → "Krasus" (glossary).
-- **死亡之翼** → "Deathwing" (glossary).
-- **减速术** → "Slow": the mage spell Grede vaguely references (canonical "Slow" / Slow Fall area; the CC spell is "Slow"). Flagged.
-- **光亮术** → "Light": mage cantrip (glossary).
-- **兽人战争** → "Orc Wars" (glossary).
-- **亲爱的塞索先生** → "dear Mr. Sesso": Grede's teasing address, rendered with an exaggerated Lordaeron accent.
-- **史塞索** → source appears slightly garbled (在史塞索以外); interpreted as "your father's a Sesso" (surname). Flagged as a possible source typo.
-- **布瑞尔** → "Brill": the Lordaeron town (glossary mentions the Brill accent). Flagged for places table.
-- **塞索** → "Sesso" (Jace's surname, glossary).
-- **达拉然之眼 tense discussion** — the "Eye of Dalaran" vs "Eye of the Arcane" distinction is noted in the glossary (奥术之眼 = Eye of the Arcane). The artifact here is the Eye of Dalaran; flagged to avoid conflation.

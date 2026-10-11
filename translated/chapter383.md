@@ -2,7 +2,7 @@
 
 The next day, Jace set out as the sky began to redden, arriving at the alley. He focused his senses and swept the surroundings, making sure no demons lay in wait to ambush him.
 
-Coming to a place like this at this hour was undoubtedly dangerous. But if he wanted to deal with a circle of warlocks — especially someone like Mosh'aru, a demonologist who couldn't show his face in the light of day — taking risks was unavoidable.
+Coming to a place like this at this hour was undoubtedly dangerous. But if he wanted to deal with a circle of warlocks — especially someone like Mor'zul, a demonologist who couldn't show his face in the light of day — taking risks was unavoidable.
 
 All he could do was be as careful as possible.
 
@@ -16,9 +16,9 @@ He had no desire to cause a bloodbath in Moonbrook, but he gripped his dagger ti
 
 The sky had grown late. It wasn't fully dark yet, but the streets on both sides had dimmed past the point of seeing clearly.
 
-The crooked shadows of the lopsided houses reminded Jace of the time he'd chased that male succubus into the filthiest, most wretched heap of garbage in Old Town.
+The crooked shadows of the lopsided houses reminded Jace of the time he'd chased that incubus into the filthiest, most wretched heap of garbage in Old Town.
 
-That unidentifiable animal carcass, in the darkening dusk, had looked as though it might rise up and bite him at any moment. He was about to leave — clearly, the other side had asked him to come in the afternoon but, for whatever reason, hadn't shown.
+That unidentifiable animal carcass, in the darkening dusk, had looked as though it might rise up and bite him at any moment. He was about to leave — clearly, the other side had asked him to come at dusk but, for whatever reason, hadn't shown.
 
 Probably the "demonologist" the woman had in mind had decided this meeting wasn't appropriate and had changed his mind at the last minute, standing Jace up. Or perhaps there was some other, less friendly intent at play.
 
@@ -44,11 +44,11 @@ Despite the name, it bore absolutely no resemblance to a dog. It looked more lik
 
 The demon didn't attack immediately. It was sizing Jace up — gauging his strength, perhaps, or going through some pre-assault ritual.
 
-Felhounds were demon servants bred by the pit lords, meant to help those bloated, mighty lords track down sources of arcane energy across the universe to savor their near-insatiable hunger.
+Felhounds were demon servants bred by the pit lords, meant to help those bloated, mighty lords track down sources of arcane energy across the universe to sate their near-insatiable hunger.
 
 As such, this breed of demon was extraordinarily adept at tracking and hunting spellcasters. If it decided on an assault, and Jace tried to fight it with spells, he'd be asking for trouble.
 
-And it wasn't just casters like Jace — even Eredar warlocks feared their spell-countering abilities.
+And it wasn't just casters like Jace — even eredar warlocks feared their spell-countering abilities.
 
 For the warlocks here to keep a creature like this in town to deal with any mages who might come investigating — it was a perfect fit.
 
@@ -64,7 +64,7 @@ He called out to the surroundings, but no one answered.
 
 Still no response.
 
-Jace watched the felhound, watching the tentacles raised high and swaying on its back. Suddenly, he reached out and, with his Fel Grasp, tore several of them clean off. The felhound, caught completely off guard, let out a shriek and was yanked half a meter toward Jace.
+Jace watched the felhound, watching the tentacles raised high and swaying on its back. Suddenly, he reached out and, with his Gorefiend's Grasp, tore several of them clean off. The felhound, caught completely off guard, let out a shriek and was yanked half a meter toward Jace.
 
 Its four thick legs scrambled to right itself, and it charged straight at Jace, maw gaping wide to tear at him. Jace sidestepped easily. The hound fired one last tentacle at him, which he caught by hand.
 
@@ -90,7 +90,7 @@ He wore a threadbare white shirt and loose linen gray trousers that did nothing 
 
 Up close, Jace noticed his sunken cheeks, protruding cheekbones, and a face and mouth covered in unkempt stubble.
 
-The man swept aside the long hair covering one eye and fixed Jace with a hard stare. "Call me Mosh'aru. I daresay you won't find a single person in all of Moonbrook — nay, in all the Kingdom of Stormwind — more qualified than I to call myself a demonologist."
+The man swept aside the long hair covering one eye and fixed Jace with a hard stare. "Call me Mor'zul. I daresay you won't find a single person in all of Moonbrook — nay, in all the Kingdom of Stormwind — more qualified than I to call myself a demonologist."
 
 Jace said, "So that felhound from a moment ago — you summoned it."
 
@@ -104,19 +104,8 @@ Jace very much wanted to ask what the most powerful creature he could summon was
 
 "Since you know this path, you should know everything comes at a price. I can teach you to summon demons, but you'll need to give something in return."
 
-Hearing the word "path," Jace couldn't help but think of Jagin and his obsession with the path of the dark arts. These two really were cut from the same cloth.
+Hearing the word "path," Jace couldn't help but think of Gakin and his obsession with the path of the dark arts. These two really were cut from the same cloth.
 
-"Of course, I never intended to take anything from you for free, Mosh'aru," Jace said. "It's just that the spell from earlier — I'm afraid I can't offer that in exchange."
+"Of course, I never intended to take anything from you for free, Mor'zul," Jace said. "It's just that the spell from earlier — I'm afraid I can't offer that in exchange."
 
-"I understand," Mosh'aru said. "But I'm certain you have something that could help me. And right now, I'm in desperate need of a capable collaborator."
-
-## Flags
-
-- **莫苏尔** → "Mosh'aru": OC? Demonologist in Moonbrook; not in glossary. Name rendered as phonetic transliteration.
-- **恐惧术** → "Fear": canonical warlock spell (per glossary).
-- **血魔之握** → "Fel Grasp": Jace's shadow ability; not in glossary. Rendered as "Fel Grasp" for consistency with Chapters 366 and 370.
-- **基尔林姆** → "Kirinm": OC? Name given to Mosh'aru's felhound; not in glossary. Rendered as phonetic transliteration.
-- **艾瑞达** → "Eredar": canonical demonic race (per glossary).
-- **深渊领主** → "pit lords": canonical demon type (pit lord/annihilan).
-- **地狱猎犬** → "felhound": canonical demon (per glossary).
-- Chapter title "恶魔研究者" → "The Demonologist."
+"I understand," Mor'zul said. "But I'm certain you have something that could help me. And right now, I'm in desperate need of a capable collaborator."

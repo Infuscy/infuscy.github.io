@@ -20,7 +20,7 @@ Even as he said it, Jace wasn't entirely sure he could actually stand.
 
 With the imp's Blood Pact and Morophil's soul sharing, plus the Shadow Shield he had poured everything into, the first blow hadn't felt too unbearable.
 
-But the second one was different. Morophil was clearly struggling. His mana was failing him. Sora and Vaelastrzasz had cast under extreme pressure... that strike nearly killed him.
+But the second one was different. Morophil was clearly struggling. His mana was failing him. Sola and Vaelastrasz had cast under extreme pressure... that strike nearly killed him.
 
 Let alone the explosion that followed. Even though Vereesa had run as fast as she could, it hadn't been fast enough.
 
@@ -28,9 +28,9 @@ Let alone the explosion that followed. Even though Vereesa had run as fast as sh
 
 "I don't know, Jace. But we need to find them quickly. This place won't hold much longer."
 
-The elf spoke as she pulled the last flask of Powerful Healing Potion from Jace's pocket, uncorked it, and brought it to his lips.
+The elf spoke as she pulled the last flask of Greater Healing Potion from Jace's pocket, uncorked it, and brought it to his lips.
 
-The bloody taste in his mouth, mixed with the charred stench of being surrounded by lava -- the moment Jace caught the faint scent of Living Root, it felt like the most healing fragrance in the world. Irresistible.
+The bloody taste in his mouth, mixed with the charred stench of being surrounded by lava -- the moment Jace caught the faint scent of Liferoot, it felt like the most healing fragrance in the world. Irresistible.
 
 He instinctively leaned in, but Vereesa lifted the flask. He grabbed the ranger's wrist and pushed the stopper back in.
 
@@ -38,7 +38,7 @@ He instinctively leaned in, but Vereesa lifted the flask. He grabbed the ranger'
 
 "Not yet," Jace said. "Any smaller vials left?"
 
-"All drunk," Vereesa said. "Back in Magmadar's cave, that firelord hit me with a Curse of Agony. I had to use healing potions and your Flowing Ice Crystal to tough it out. Sora spent most of her mana dispelling shadow magic on the Wildhammers. I could handle my own problems, so of course I didn't want to trouble her."
+"All drunk," Vereesa said. "Back in Magmadar's cave, that flamewaker lord hit me with a Curse of Agony. I had to use healing potions and your Flowing Ice Crystal to tough it out. Sola spent most of her mana dispelling shadow magic on the Wildhammers. I could handle my own problems, so of course I didn't want to trouble her."
 
 She sighed, her voice worried. "I don't get it. Why are you still being frugal at a time like this?"
 
@@ -46,7 +46,7 @@ Jace didn't know how to answer. There was a nagging unease in his heart he could
 
 Panicked shouts, curses, and crying poured into his ears from all around. A tangled mess of chaotic emotions injected themselves into his mind. This strange, heightened perception was hard to get used to.
 
-These sensations had to do with the Talisman of Ephemeral Power he had snatched from Grede earlier. That firelord's terrifying artifact was clearly not as "ephemeral" as it had been in the game. Even now it was still exerting its influence, expanding his perception of all magical energy.
+These sensations had to do with the Talisman of Ephemeral Power he had snatched from Grede earlier. That flamewaker lord's terrifying artifact was clearly not as "ephemeral" as it had been in the game. Even now it was still exerting its influence, expanding his perception of all magical energy.
 
 If the talisman had helped him raise a solid enough Shadow Shield earlier, weakening Ragnaros's second blow, now it had become a mental torment instead.
 
@@ -54,7 +54,7 @@ More importantly, the talisman's power let him vividly remember the moment that 
 
 "Are you two both here?"
 
-Sora appeared at the other end of the crevice. Despite being incredibly weak, she had shifted into human form -- staying in her massive dragon form in this chaos underground would only invite more trouble.
+Sola appeared at the other end of the crevice. Despite being incredibly weak, she had shifted into human form -- staying in her massive dragon form in this chaos underground would only invite more trouble.
 
 The green dragon clutched the rock beside her as she stumbled closer. She coughed once and spoke.
 
@@ -62,21 +62,21 @@ The green dragon clutched the rock beside her as she stumbled closer. She coughe
 
 "Did you see Grede and Needleflame?" Jace asked.
 
-Sora looked at the two of them, then at the rock behind them, and paused.
+Sola looked at the two of them, then at the rock behind them, and paused.
 
 "I thought they were with you."
 
-Jace gripped the Powerful Healing Potion.
+Jace gripped the Greater Healing Potion.
 
 "We need to find them."
 
-Sora nodded. The three of them crawled out of the crevice. Outside lay the charred corpse of a Dark Iron soldier. Across the lava river, a gryphon -- fully engulfed in flames -- was struggling and running away.
+Sola nodded. The three of them crawled out of the crevice. Outside lay the charred corpse of a Dark Iron soldier. Across the lava river, a gryphon -- fully engulfed in flames -- was struggling and running away.
 
-Jace no longer recognized the terrain. The final explosion had destroyed the space through which he had entered this world from the Firelands, and even the lava channels outside had changed again.
+Jace no longer recognized the terrain. The final explosion had destroyed the space through which Ragnaros had entered this world from the Firelands, and even the lava channels outside had changed again.
 
-"If Needleflame and Grede are together and run into trouble they can't escape, Needleflame will find a way to cry out for help -- let me or Lord Vaelastrzasz hear her," Sora said. "I haven't heard her voice yet, so she must still be looking for us."
+"If Needleflame and Grede are together and run into trouble they can't escape, Needleflame will find a way to cry out for help -- let me or Lord Vaelastrasz hear her," Sola said. "I haven't heard her voice yet, so she must still be looking for us."
 
-No sooner had Sora finished speaking than Needleflame's shout came from behind them.
+No sooner had Sola finished speaking than Needleflame's shout came from behind them.
 
 Morophil appeared with Needleflame. While Morophil looked significantly weaker in terms of mana, as a demon, having her legs cut off would be one thing -- a simple reduction in mana wouldn't seriously impair her mobility.
 
@@ -84,9 +84,9 @@ But Needleflame could barely hold her humanoid form together. Scales were shatte
 
 If it weren't for the danger of navigating through this place in drake form -- dodging fire meteors everywhere, squeezing through tunnels and crevices -- she would definitely have preferred to move in her natural shape.
 
-"If Teacher Morophil hadn't noticed me, I would never have found you..." Needleflame gasped, looking at the group. "Thunderfist isn't with you?"
+"If Mistress Morophil hadn't noticed me, I would never have found you..." Needleflame gasped, looking at the group. "Thunderfist isn't with you?"
 
-"Didn't you take him to shatter Ragnaros's blow?" Jace asked.
+"Didn't you carry him up to shatter Ragnaros's last bracer?" Jace asked.
 
 "Yes, but..." Needleflame said. "At the end, to intercept that hammer faster, he jumped off me and his kick sent me slamming into the ground so hard I nearly broke my neck. That damn bastard... I know he was trying to save you, so I won't hold it against him!"
 
@@ -102,22 +102,22 @@ The rumbling of shifting rock and collisions quickly drowned out her voice. The 
 
 "We have to go find him," Jace said.
 
-Vereesa, Sora, and Needleflame all nodded, their faces grim.
+Vereesa, Sola, and Needleflame all nodded, their faces grim.
 
 Jace knew something felt wrong to everyone. Grede Thunderfist had always been the most durable of the group. When everyone else was at their worst, he was usually the first one to jump up and haul everyone out.
 
-"Let's split up," Jace said. "You too, Morophil. We can communicate through the soul link. Sazeno, you go with Vereesa. Sora and Needleflame -- if you find anything, shout, so we can reach each other right away."
+"Let's split up," Jace said. "You too, Morophil. We can communicate through the Soul Link. Sazeno, you go with Vereesa. Sola and Needleflame -- if you find anything, shout, so we can reach each other right away."
 
-"Stand closer, everyone," Sora said.
+"Stand closer, everyone," Sola said.
 
-The group moved in closer. Sora took a deep breath and chanted a blessing in Draconic. A refreshing cool wind wrapped around them all. Jace instantly felt the thick, clotted agony from the blast ease considerably. Vereesa's complexion improved too.
+The group moved in closer. Sola took a deep breath and chanted a blessing in Draconic. A refreshing cool wind wrapped around them all. Jace instantly felt the thick, clotted agony from the blast ease considerably. Vereesa's complexion improved too.
 
-"Sorry, I've almost exhausted my mana. This is all I can do," Sora said quietly.
+"Sorry, I've almost exhausted my mana. This is all I can do," Sola said quietly.
 
-"That's more than enough, Sora," Vereesa said.
+"That's more than enough, Sola," Vereesa said.
 
 "And... what if we can't find him?" Needleflame asked quietly.
 
 "Then we keep looking."
 
-Jace, Vereesa, and Sora spoke almost in unison.
+Jace, Vereesa, and Sola spoke almost in unison.

@@ -54,7 +54,7 @@ Jace's mind searched back and forth through loot tables. Of course, no matter ho
 
 After all, that Order had existed in name only for many years now. With Medivh's betrayal, the few remaining mages who could still call themselves members of the Order of Tirisfal had been murdered one after another. By the time the game's timeline began, the organization had practically vanished into thin air.
 
-"This is the Frostflow Crystal," Avaris said. "You may have heard of the Dragon Hunt War, eight hundred years ago, when the Guardian Aegwynn defeated the demon lord who attempted to invade Northrend…"
+"This is the Flowing Ice Crystal," Avaris said. "You may have heard of the Dragon Hunt War, eight hundred years ago, when the Guardian Aegwynn defeated the demon lord who attempted to invade Northrend…"
 
 "This is a part of the magic ornament she wore at the time."
 
@@ -90,7 +90,7 @@ Jace nodded, took the amulet out of the box, and held it in his hand. He could i
 
 Jace said, "This is truly a very precious treasure, Master. I hope you'll convey my gratitude to the Kirin Tor for their kindness. And thank you for bringing it all this way."
 
-"You're too kind," the mage said. "Now that the item has been delivered, I still need to head to the Giant Hammer Fortress next, so I won't keep you from your rest. I hope you recover soon, Mr. Sesso."
+"You're too kind," the mage said. "Now that the item has been delivered, I still need to head to Dreadmaul Hold next, so I won't keep you from your rest. I hope you recover soon, Mr. Sesso."
 
 "Thank you…" Jace and Amy nodded. The mage gave a light bow and hurried back downstairs, leaving the two of them standing there in a daze, staring at the object.
 

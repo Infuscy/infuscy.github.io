@@ -2,7 +2,7 @@
 
 With the relentless harassment and coordination from the Dark Iron dwarves and Jace's allies on the inside, the Alliance offensive outside was making rapid progress.
 
-After the Blackhand clan's last stronghold in the Burning Steppes -- an outpost held by Smolderthorn trolls -- was easily taken by Stromgarde's soldiers, the allied army's advance had reached the foot of Blackrock Spire.
+After the Blackrock clan's last stronghold in the Burning Steppes -- an outpost held by Smolderthorn trolls -- was easily taken by Stromgarde's soldiers, the allied army's advance had reached the foot of Blackrock Spire.
 
 But over the next few days, Turalyon and Alleria led their respective forces in searching every captured location. Not just Horde outposts, but also abandoned Dark Iron dwarf mines and bunkers. None of them yielded any trace of Anduin Lothar's body.
 
@@ -18,7 +18,7 @@ The elite knights' bodies that had been picked out also suggested, from the side
 
 In the distance, Danath Trollbane -- the leader of Stromgarde's red-cloaked knights, clad in silver armor with a longsword in hand -- stared solemnly at the black tower flickering with distant sparks of fire.
 
-Not far away, Turalyon sat astride a sturdy white horse, wearing the same expression. Every member of the Sons of Lothar knew that once they entered Blackrock Spire, orc battle axes, troll poison spears, ogre warhammers, and even the black dragon's fel flames would not be the most terrifying thing they faced.
+Not far away, Turalyon sat astride a sturdy white horse, wearing the same expression. Every member of the Sons of Lothar knew that once they entered Blackrock Spire, orc battle axes, troll poison spears, ogre warhammers, and even the black dragons' shadowflame would not be the most terrifying thing they faced.
 
 They would eventually have to confront their resurrected countrymen. And the name none of them wanted to mention right now.
 
@@ -28,7 +28,7 @@ Marshal Lothar's significance to the Sons of Lothar and the entire Alliance was 
 
 He was more concerned about how Blackrock Spire connected to the Scourge, or the Burning Legion. The necromantic plague, the Nathrezim, Ner'zhul, the Kirin Tor... He had too many names and questions buried in his mind that he couldn't share with anyone.
 
-"Don't brood too much, Master. Your inner turmoil is making your mana taste bitter." Morofil descended from the sky, hovering before Midnight with her wings beating. Her size was far too large for a succubus, and each wingbeat kicked up clouds of dust, startling nearby warhorses into panicked neighing. The cavalry behind her had to steer around her.
+"Don't brood too much, Master. Your inner turmoil is making your mana taste bitter." Morophil descended from the sky, hovering before Midnight with her wings beating. Her size was far too large for a succubus, and each wingbeat kicked up clouds of dust, startling nearby warhorses into panicked neighing. The cavalry behind her had to steer around her.
 
 But she seemed completely unconcerned as she brought her face close to Jace's. "Whether this is the Nathrezim's handiwork or Kil'jaeden's scheme, you still have to deal with that black dragon. Keep your goal in mind... just like on Draenor."
 
@@ -40,7 +40,7 @@ But she seemed completely unconcerned as she brought her face close to Jace's. "
 
 "Use your soul and wait for my good news."
 
-Morofil took off abruptly. Jace's gaze followed her as she rose. Dark clouds rolled in the sky, lightning flashing within them and casting twisted shadows. It had been a long time since the clouds had been this thick, not since the Molten Core was destroyed.
+Morophil took off abruptly. Jace's gaze followed her as she rose. Dark clouds rolled in the sky, lightning flashing within them and casting twisted shadows. It had been a long time since the clouds had been this thick, not since the Molten Core was destroyed.
 
 But these black clouds brought no cold wind or freezing rain. The air remained scorching hot. On the slope behind him, the gryphons shifted their claws restlessly, as if the ground would burn them if they stayed too long.
 
@@ -48,7 +48,7 @@ The destruction of the protection runes had severed the connection between the F
 
 Quel'Thalas's Farstriders and hawkstrider cavalry stood out in this gray, chaotic landscape like a string of bright crimson and emerald pearls -- pristine and beautiful.
 
-Stromgarde's forces, led by the two Trollbane royals, had dyed another mountainside red. Their banner was like another flame competing with Blackrock Mountain's evil fel fire. At their head, the golden shield Prince Galen Trollbane carried bore a fist emblem visible from a great distance.
+Stromgarde's forces, led by the two Trollbane royals, had dyed another mountainside red. Their banner was like another flame competing with Blackrock Mountain's baleful fire. At their head, the golden shield Prince Galen Trollbane carried bore a fist emblem visible from a great distance.
 
 Lord Tirion Fordring, passing before Jace with the Hearthglen and Silver Hand forces, lowered his head in greeting. Jace smiled and returned the gesture. The Silver Hand's troops advanced behind him, like a gleaming silver lance thrusting straight into the chaos ahead.
 
@@ -90,13 +90,13 @@ Blue and white banners fluttered in the howling, scorching wind as they passed b
 
 At the foot of Blackrock Mountain, the orcs had already destroyed the bridge leading to the mountain's gate. They intended to fight to the death inside the tower against the Alliance forces.
 
-But the Alliance was far from helpless. Khadgar had already led the Kirin Tor and Wizard Sanctum mages to the very front of the formation. They were ready to use arcane magic to swiftly rebuild the bridge so the besieging army could cross.
+But the Alliance was far from helpless. Khadgar had already led the Kirin Tor and Wizard's Sanctum mages to the very front of the formation. They were ready to use arcane magic to swiftly rebuild the bridge so the besieging army could cross.
 
 If Khadgar could build a staircase in the turbulent magical storm of Karazhan, maintain a floating island and its watchtower against the tearing force of the Scepter of Sargeras, then rebuilding a Dark Iron bridge with a team of mages was well within his capabilities. The entire allied force had full confidence in the Kirin Tor.
 
 But the orcs weren't about to sit idly by while the mages rebuilt the bridge. Above the gate, the black tower's windows -- lit as if on fire -- were crowded with figures. They were ready to do everything in their power to disrupt the bridge builders. Even at this distance, Jace could feel the fury and bloodlust radiating from inside.
 
-And Jace, along with the Wizard Sanctum mages and countless gryphon riders from Ironforge, Stormwind, and Aerie Peak, would use every means available to prevent the orcs from interfering with the bridge's restoration. Until the allied soldiers breached the gates of Blackrock Mountain and charged into Blackrock Spire together with the Shadowforge City soldiers of the Ironcast Crypt.
+And Jace, along with the Wizard's Sanctum mages and countless gryphon riders from Ironforge, Stormwind, and Aerie Peak, would use every means available to prevent the orcs from interfering with the bridge's restoration. Until the allied soldiers breached the gates of Blackrock Mountain and charged into Blackrock Spire together with the Shadowforge City soldiers at Forgewright's Tomb.
 
 Just then, the orcs' war horns drifted down from the tower, like the mournful howl of some evil beast from the abyss.
 

@@ -2,21 +2,21 @@
 
 Jace didn't dare go back to the Slaughtered Lamb. He'd already pissed off their leader — showing up again would be asking for trouble.
 
-Every afternoon he spent in the library teaching himself orcish. He'd also spent five silver having a smith in the Dwarf District forge a sword with roughly the same weight as that Stromgarde straight sword, so he could practice proper swordsmanship with Grede — the training effect would be that much better.
+Every afternoon he spent in the library teaching himself Orcish. He'd also spent five silver having a smith in the Dwarven District forge a sword with roughly the same weight as that Stromgarde straight sword, so he could practice proper swordsmanship with Grede — the training effect would be that much better.
 
 The weather had turned cold fast. In Azeroth, the calendars used by humans and dwarves were similar to Earth's Gregorian calendar — the year was still divided into twelve months — except that each race's language used different names for the different months.
 
 Dwarves, for instance, called April the month of Sulen, while Lordaeron and the Kingdom of Stormwind had their own differences. It was hard to keep straight. Perhaps for that very reason, as dealings between nations and races grew deeper, the habit of just using numbers had become more and more common.
 
-The first day of October was a Tuesday — Jace's very first orcish class.
+The first day of October was a Tuesday — Jace's very first Orcish class.
 
-That afternoon, following the address Marin had given him, he searched all over the Wizard Sanctum for the room. Even though he'd arrived half an hour early, by the time he found the classroom he was already a bit late.
+That afternoon, following the address Malin had given him, he searched all over the Wizard's Sanctum for the room. Even though he'd arrived half an hour early, by the time he found the classroom he was already a bit late.
 
 Once he stepped inside, the teacher didn't seem to be there yet. A group of students sat in a ring inside the not-very-large classroom and turned to look at him in unison.
 
 What surprised Jace was that there were about twenty people here, and none of them seemed younger than him. Plenty were middle-aged, and there was even an old couple who looked like they were in their seventies, their hair completely white.
 
-"Jace Sesso, right?" A middle-aged man waved him over. "I'm Caro Dushan. I imagine Master Marin has told you about me."
+"Jace Sesso, right?" A middle-aged man waved him over. "I'm Caro Dushan. I imagine Master Malin has told you about me."
 
 "Ah… Master Dushan." Jace nodded slightly. He hadn't expected the teacher to be sitting in a circle with the students. Add in the fact that the ages ranged from young to old, and there was no way to tell which one might be the teacher.
 
@@ -30,17 +30,17 @@ The others all smiled and nodded graciously. Jace was extremely uncomfortable in
 
 Actually, during the whole time Dushan was explaining the class rules, Jace had been studying the faces and clothing of the people around him. Before coming, he'd been a little worried he might run into members of the Slaughtered Lamb's underground warlock crew here, so he'd been on tenterhooks.
 
-After all, if Marin was right, this was already the only orcish class in the entire Wizard Sanctum. If those warlocks mistook their incantations for orcish, they'd find a way to squeeze in for sure.
+After all, if Malin was right, this was already the only Orcish class in the entire Wizard's Sanctum. If those warlocks mistook their incantations for Orcish, they'd find a way to squeeze in for sure.
 
 But thankfully, no one here looked familiar, and no one was giving him strange looks. There shouldn't be anyone he knew.
 
-Most importantly, Gajin wasn't here.
+Most importantly, Gakin wasn't here.
 
 However, the moment Dushan said — every orcish book, every letter was extremely valuable — Jace felt his attention yanked straight to his lips.
 
 How valuable, exactly?
 
-How much could a tattered book with nine-tenths of its pages burned away sell for? How much could a text written in incomprehensible orcish and some unknown language sell for? How much could a command letter handwritten by Teron Gorefiend himself sell for?
+How much could a tattered book with nine-tenths of its pages burned away sell for? How much could a text written in incomprehensible Orcish and some unknown language sell for? How much could a command letter handwritten by Teron Gorefiend himself sell for?
 
 That burned book and the bilingual text — Jace definitely couldn't sell those.
 
@@ -50,7 +50,7 @@ If he found a wealthy person interested in collecting orc-related artifacts, how
 
 Booty Bay… Booty Bay…
 
-Thinking of the staff merchant Allen Hafgan's story about a single staff selling for two hundred and forty gold, Jace felt his head starting to heat up.
+Thinking of the staff merchant Allan Hafgan's story about a single staff selling for two hundred and forty gold, Jace felt his head starting to heat up.
 
 This letter had been written by the highest of the high, the elite of the elite among the orcish leadership. It wasn't just valuable as a collector's item — it even held a certain military value.
 
@@ -64,7 +64,7 @@ In the very first class, in this strange classroom where everyone sat in a ring,
 
 "Please take a look at this rune. What do you think it means?"
 
-Dushan handed a sheet of paper with orcish writing on it to Jace.
+Dushan handed a sheet of paper with Orcish writing on it to Jace.
 
 Jace looked left, looked right, recalling the orcish runes he'd been reading about in the library these past two days. It seemed like there were similarities, but he couldn't connect the dots.
 
@@ -74,7 +74,7 @@ After all, he'd only been learning for three or four days. The intensity was hig
 
 Jace had the faintest, most distant impression of the pronunciation "Mak'gora," but he couldn't recall the specific meaning. But when Dushan said it was a very important ceremony, something popped into his head — an honor duel.
 
-Because the only orcish ceremony he knew was one where, in contesting a position as the Horde's chieftain, you initiated a fight to the death.
+Because the only orcish ceremony he knew was one where, in contesting the position of Warchief, you initiated a fight to the death.
 
 "Honor duel." Jace tapped the paper. "I know this one."
 
@@ -106,23 +106,12 @@ Another man said, "When the orcs attacked Westfall, some of the farms didn't suf
 
 "Slavery, plain and simple — the practice of a backward civilization." An older female classmate said slowly. "Orcs need to eat and drink too. They need slaves to provide them with food."
 
-"We're not a cultural or political discussion class." Dushan stopped the debate, which was about to spiral all the way to the moon and into dangerous territory. "As for orcish values and social concepts, we'll leave those to the historians, sociologists, and ethnologists to discuss. We need to keep our focus on linguistic study."
+"We're not a cultural or political discussion class." Dushan stopped the debate, which was about to spiral all the way to the moon and into dangerous territory. "As for Orcish values and social concepts, we'll leave those to the historians, sociologists, and ethnologists to discuss. We need to keep our focus on linguistic study."
 
 More than a teacher, Dushan was like a moderator, keeping the discussion from straying too far from the language itself at all times. After all, in the current Alliance, how to treat orcs was a rather dangerous topic.
 
-The next few students shared their materials, and Jace actually picked up quite a bit — orcish grammar he hadn't noticed in the library, plus some vocabulary usage habits.
+The next few students shared their materials, and Jace actually picked up quite a bit — Orcish grammar he hadn't noticed in the library, plus some vocabulary usage habits.
 
 When class ended, Dushan handed Jace a thick stack of paper and said, "This is a summary we put together over the past little while. You can use it as remedial study material. Once you've more or less finished reading it, give it back — we only made two copies, and copying orcish runes really is extraordinarily difficult."
 
-Jace couldn't have agreed more. A stack this thick would take forever to copy, and it would definitely help his orcish improve by leaps and bounds.
-
-## Flags
-
-- **卡罗·杜尚** → "Caro Dushan": not in glossary; OC orcish instructor.
-- **玛克戈拉** → "Mak'gora": not in glossary; canonical WoW orcish tradition (honor duel / fight to the death). Rendered with the established romanization.
-- **斯托姆加德直剑** → "Stromgarde straight sword": not in glossary as a set phrase; "Stromgarde" is canonical (Stromgarde Keep). Rendered descriptively.
-- **苏伦月** → "the month of Sulen": not in glossary; dwarven name for April, tentative romanization.
-- **格里高利历** → "Gregorian calendar": not in glossary; used to convey the Earth calendar reference for the reader.
-- **加金** → "Gajin": not in glossary; the Slaughtered Lamb warlock leader (first name used here). Tentative romanization.
-- **"兽人同情者"** → "orc sympathizer": not in glossary; rendered as the natural English equivalent of the political-insult tone in the debate.
-- **萨尔** → "Thrall": not in glossary; canonical WoW Warchief. Referenced obliquely ("the young Warchief Thrall") — kept the name since it's the standard romanization, but flagged as a lore name not in the glossary.
+Jace couldn't have agreed more. A stack this thick would take forever to copy, and it would definitely help his Orcish improve by leaps and bounds.

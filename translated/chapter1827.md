@@ -4,13 +4,13 @@ Amid the magical currents, Jace let the force carry him toward the portal. The g
 
 Whether it was the demon souls injected into it, or the corruption Aegwynn had brought from Karazhan, or his own warped vision — he had no time to find out.
 
-When he reached the top of the gate frame, the magic there was so strong that even Shadow Step couldn't adjust his direction. He finally had to seize the chance to drive Ulthalesh like an ice pick into the seamless runic stonework to hold himself in place.
+When he reached the top of the gate frame, the magic there was so strong that even Shadowstep couldn't adjust his direction. He finally had to seize the chance to drive Ulthalesh like an ice pick into the seamless runic stonework to hold himself in place.
 
 As the soul-scythe struck with a heavy thud, easily piercing the portal's surface, the whole space trembled. The swirling magic wind faltered briefly before returning to its original force.
 
 In that momentary weakness, Jace spotted the Eye of Sargeras floating at the gate's center.
 
-Behind the dark titan's artifact stood its creator and sustainer — a figure almost invisible against the magical storm. Aegwynn. As Jace watched her, she watched him back through the fel-green demonic gem.
+Behind the Dark Titan's artifact stood its creator and sustainer — a figure almost invisible against the magical storm. Aegwynn. As Jace watched her, she watched him back through the fel-green demonic gem.
 
 One hand raised, channeling the planar mana storm to converge around the Eye of Sargeras. The other hand held a blood-red grimoire.
 
@@ -40,7 +40,7 @@ Jace steadied himself, focusing his entire attention on the Eye of Sargeras.
 
 "Why won't you trust me, Lady Aegwynn?" Jace raised his hand, aiming at the fel gem. "Right now, you choose to fight against the prophecy you saw. And I choose to fight against the one I saw..."
 
-*Eramon, Siliondor.*
+*Elamun, Silondor.*
 
 Between Jace's lips, the life-draining incantation emerged. Amid the maddening roar of the Legion Gate, his words seemed to merge with the colossal magic and screaming wind — low as a true demon of the Twisting Nether.
 

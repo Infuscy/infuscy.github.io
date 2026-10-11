@@ -52,7 +52,7 @@ The child's voice had gone quiet. But it hit him now: the baby was only a few mo
 
 Grede was shouting his name from outside. Jace called back and kept pushing deeper.
 
-The further in he went, the stronger the stench of rot and the musky reeling of wolves. His stomach was already churning.
+The further in he went, the stronger the stench of rot and the musky reek of wolves. His stomach was already churning.
 
 He forced himself to keep going, groping around in the dark. He felt what seemed to be the carcasses of small dead animals — not prey that had been killed and brought back, more like dead wolf pups.
 
@@ -62,7 +62,7 @@ Why would wolf pups die in their own den?
 
 Following the faint, intermittent breathing deeper in, his hand finally landed on something wet and cloth-like.
 
-Jace's scalp went numb. The only thing that could be wet in a place like this was — what, if not blood?
+Jace's skin crawled. The only thing that could be wet in a place like this was — what, if not blood?
 
 He rubbed his fingers together. No sticky pull, like blood.
 
@@ -126,24 +126,14 @@ Spotting the man sprinting toward them from a distance, Jace — in his half-con
 
 "The baby, the baby…" The man clutched at the girl's clothes and mumbled incoherently, then wiped away his tears with a trembling hand and looked back toward the dark forest. "You're hurt. Are there wolves chasing you? Should you…"
 
-"No wolves. They're all dead. In the forest to the south, not far — a short walk and you'll be there," Grede said with a laugh, mumbling as he went. "The ones still alive probably won't dare come back. Their grandmother's dead!"
+"No wolves. They're all dead. In the forest to the south, not far — a short walk and you'll be there," Grede said with a laugh, mumbling as he went. "The ones still alive probably won't dare come back. Their old pack mother's dead!"
 
 Seemingly drawn by the voices, the woman poked her head out too. When she saw her child being carried back in the man's arms, her legs nearly gave out beneath her.
 
 The girl opened her eyes as if she had no idea what had been happening, looking at her parents — and the couple couldn't string a coherent sentence together anymore, just held on and cried.
 
-Jace sat down on the skirt wall along the house's outer found and realized he couldn't make out what the couple was saying anymore. All he wanted to do was sleep.
+Jace sat down on the low wall along the house's foundation and realized he couldn't make out what the couple was saying anymore. All he wanted to do was sleep.
 
 He glanced over. Grede was already passed out on the ground at his feet, snoring away.
 
 Watching the dwarf sleep so soundly, Jace couldn't hold out any longer either. He tilted his head and lost consciousness.
-
-## Flags
-
-- **巨湖农场 (Lakeview Farm):** Glossary has this as "Lakeview Farm." The child they're searching for belongs to this farm's family.
-- **福莱尔 (Forayre):** Family name of the farm couple (Matt and Emily Forayre). Rendered as "Forayre" — not in glossary, flagged for confirmation. The baby girl is "little Forayre" (小福莱尔).
-- **小福莱尔 / 女孩:** The baby is referred to as 小福莱尔 and later 小萝丝 (little Rose). The girl's name appears to be Rose Forayre.
-- **尸毒 (corpse poison):** Glossary lists 尸毒 as "Corpse Poison" (Jace's informal term) and 亡灵腐毒 as "Necrotic Poison." Used "corpse poison" here to match Jace's informal register.
-- **乌鸦岭 (Raven Hill):** Glossary has this as "Raven Hill." Grede references the people there cooking their meat.
-- **"their grandmother's dead":** Grede's colorful way of saying the pack's matriarch/lead wolf is dead. Kept the humor.
-- **"skirt wall":** 墙裙 — the low wall running along the base of the house exterior. Rendered as "skirt wall" (a low perimeter wall).

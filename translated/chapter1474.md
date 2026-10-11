@@ -2,7 +2,7 @@
 
 Dark Simulacrum. Jace had never seen that name in this world. Before this, he'd never heard demons or black dragons refer to the ability to mimic or even distort others' spells as "Dark Simulacrum."
 
-Because it was a skill name from the game in his *previous* world. The same magic didn't necessarily have the same name here — like Doomhammer... that was just the name of a fel volcano in Shadowmoon Valley around here; no one had formally used it to name that dark meteor spell.
+Because it was a skill name from the game in his *previous* world. The same magic didn't necessarily have the same name here — like Hand of Gul'dan... that was just the name of a fel volcano in Shadowmoon Valley here; no one had formally used it to name that dark meteor spell.
 
 So seeing the information he'd been thinking about constantly — but had never encountered in this life — appear in his hands, Jace felt like he'd transmigrated all over again.
 
@@ -16,7 +16,7 @@ But between the lines, Jace could feel that Medivh didn't seem to think much of 
 
 For Medivh, imitating a mortal's magic naturally had no "power" to speak of. But for Jace, it was still an advantage he couldn't overlook.
 
-The spell would catch enemies off guard. Even though Jace knew in advance that black dragons had this kind of trick, he'd still been caught by it at the top of the Seat of Kil'jaeden.
+The spell would catch enemies off guard. Even though Jace knew in advance that black dragons had this kind of trick, he'd still been caught by it at the top of the Throne of Kil'jaeden.
 
 More importantly, he remembered that Sabellian had copied his spell while continuing to attack with fire... In a way, that was almost like fighting two opponents at once.
 
@@ -30,13 +30,13 @@ Sazeno came to Jace's feet. Jace nodded, pulled a soul shard from his pocket, an
 
 "Use it to replenish your energy and help me organize the Nathrezim language in the *Chronicle of Dark Secrets*." Jace said. "Like I just said."
 
-"Ha ya — I thought master had forgotten!" The imp's brow drooped. Nearby, Mor'fel leaned against a stack of books, propping her cheek on her hand with a cold smile.
+"Ha ya — I thought master had forgotten!" The imp's brow drooped. Nearby, Morophil leaned against a stack of books, propping her cheek on her hand with a cold smile.
 
 The imp immediately pointed at her. "What about her?!"
 
-"You too, Mor'fel." Jace pointed at the *Chronicle*. "You know the Nathrezim so well."
+"You too, Morophil." Jace pointed at the *Chronicle*. "You know the Nathrezim so well."
 
-"Uh? Hah!" Mor'fel stood up and sighed. "I'm a succubus."
+"Uh? Hah!" Morophil stood up and sighed. "I'm a succubus."
 
 Jace watched her move to the other side with the imp, then turned his gaze to the spot behind her where the strange bookshelf had appeared — visible only in shadow vision but now gone.
 
@@ -66,9 +66,9 @@ It wasn't hard to deduce: to get these books, he needed to adjust his emotions a
 
 His excitement had already proven unable to "manifest" any of these books. So he quickly shifted to another emotion, letting intense fear swallow the anger. The emotions that had found *Dark Simulacrum* weren't pure — they were all intense — so this time he chose an equally intense approach.
 
-But the gloom and chill of fear only extinguished the shadowfire, making the shelf rapidly fade. Still, Jace wasn't discouraged. He could feel that by continuously adjusting — like turning the dial of a combination safe — he could keep probing...
+But the gloom and chill of fear only extinguished the Shadowflame, making the shelf rapidly fade. Still, Jace wasn't discouraged. He could feel that by continuously adjusting — like turning the dial of a combination safe — he could keep probing...
 
-So he let anger burn again, making the shelf reappear, then tried to recall that day on Loch Modan Lake — the starry sky, Vereesa...
+So he let anger burn again, making the shelf reappear, then tried to recall that day on Loch Modan — the starry sky, Vereesa...
 
 *THUMP!*
 
@@ -76,9 +76,9 @@ Suddenly, all the candles in the room went out at once. Darkness swallowed every
 
 What happened?
 
-"Huh?" Sazeno looked up in surprise. Mor'fel stared warily at the piles of candles. Jace released all his shadow and grabbed Usaalas, which was resting on the physical bookshelf beside him.
+"Huh?" Sazeno looked up in surprise. Morophil stared warily at the piles of candles. Jace released all his shadow and grabbed Ulthalesh, which was resting on the physical bookshelf beside him.
 
-Within seconds, the candles lit up again. But they no longer burned with shadowfire — just ordinary flame.
+Within seconds, the candles lit up again. But they no longer burned with Shadowflame — just ordinary flame.
 
 The entire room quickly shed its former strange void-like atmosphere. Even the ritual circle on the floor looked less sinister. The room felt almost warm.
 
@@ -103,7 +103,7 @@ After singing, the gnome band continued playing as they circled the ritual hall 
 
 "What... what was that?" Sazeno asked.
 
-"If you don't start behaving right." Mor'fel glanced sideways at her master, softly singing along to the gnomes' melody. "Our master will—"
+"If you don't start behaving right." Morophil glanced sideways at her master, softly singing along to the gnomes' melody. "Our master will—"
 
 "I've got it." Jace swallowed hard, looked up at the ceiling, and whispered, "Sorry, Master Medivh."
 

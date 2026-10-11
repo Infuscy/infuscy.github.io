@@ -2,7 +2,7 @@
 
 "Famous?" Jace asked.
 
-"Those hunters bagged a legendary crocodile god… You're a human, so you probably haven't heard of that crocodile's name." The dwarf laughed loudly. "Even Nesingwary's hunting party publicly praised their guild for bravery and tenacity… I reckon from now on nobody will dare question their skills."
+"Those hunters bagged a legendary crocolisk god… You're a human, so you probably haven't heard of that crocolisk's name." The dwarf laughed loudly. "Even Nesingwary's hunting party publicly praised their guild for bravery and tenacity… I reckon from now on nobody will dare question their skills."
 
 "They really did it?" Jace asked.
 
@@ -10,7 +10,7 @@
 
 "Thank you, sir." Jace nodded and immediately walked quickly in the direction he'd pointed.
 
-He didn't care about any crocodile god or the hunters' guild's reputation. The most important thing was that ten gold coins were right there waiting for him.
+He didn't care about any crocolisk god or the hunters' guild's reputation. The most important thing was that ten gold coins were right there waiting for him.
 
 Following the soldier's directions through the corridor and turning right onto the street, Jace walked while looking at the signs on either side. The things on both sides of the street indeed became more and more familiar, and soon he found the emblem of the arrow-through-the-chest deer.
 
@@ -26,29 +26,29 @@ Although he appeared extremely enthusiastic on the surface, there wasn't much jo
 
 "That's me, that's me. You even remember my name — wonderful." Hajik pointed excitedly at a wall inside the hall. "Take a quick look!"
 
-Following the direction he pointed, Jace immediately saw that enormous gray crocodile claw hanging by the door.
+Following the direction he pointed, Jace immediately saw that enormous gray crocolisk claw hanging by the door.
 
-This crocodile claw… if no one had told him, Jace would have thought it was a dragon's claw, and not a whelp's either — definitely an adult dragon's. Although it had been made into a specimen, it was shorter and stubbier than a dragon's claw. The firelight from the brazier reflected off its full, lustrous scales so that they practically gleamed.
+This crocolisk claw… if no one had told him, Jace would have thought it was a dragon's claw, and not a whelp's either — definitely an adult dragon's. Although it had been made into a specimen, it was shorter and stubbier than a dragon's claw. The firelight from the brazier reflected off its full, lustrous scales so that they practically gleamed.
 
 It was truly hard to imagine how these dwarves had managed to kill this monster in the waterways of Maraudon. It seemed their ambition to compete with Nesingwary's hunting party wasn't without the backing of real strength.
 
 "If that monster's head could fit into this hall at all, we never would have sold it to the Explorers' League!" Hajik said with a laugh, while shouting deeper inside: "Torf, bring out the Thunderbrew ale that Lei's sent. Our distinguished guest is here!"
 
-"Aye!" came a dwarf's response from inside. Jace sat down on a stone bench to one side with a smile. "Congratulations. I'm also glad I chose your guild — other guilds probably wouldn't have had the strength to deal with such a terrifying beast. But there's no need for the ale. Just give me my share of the money. You promised that once you bagged the crocodile god Rotgrip, you would make up the remaining ten gold coins."
+"Aye!" came a dwarf's response from inside. Jace sat down on a stone bench to one side with a smile. "Congratulations. I'm also glad I chose your guild — other guilds probably wouldn't have had the strength to deal with such a terrifying beast. But there's no need for the ale. Just give me my share of the money. You promised that once you bagged the crocolisk god Rotgrip, you would make up the remaining ten gold coins."
 
 Hajik smiled, then coughed to clear his throat. At that moment, two dwarves from the inner room came out carrying ale kegs. Jace noticed that neither of their expressions looked like a warm welcome.
 
-"This journey wasn't as smooth as you imagined, Mister Sesso," Hajik said, looking at Jace. "We found another hunters' guild to cooperate with, and we lost a few people too. Salban — you remember him? He was also here the time you came. He stayed behind in that cave forever."
+"This journey wasn't as smooth as you imagined, Mr. Sesso," Hajik said, looking at Jace. "We found another hunters' guild to cooperate with, and we lost a few people too. Salban — you remember him? He was also here the time you came. He stayed behind in that cave forever."
 
 "I'm sorry to hear that," Jace nodded. "I already warned you — that cave is extremely dangerous. You must be as careful as possible and not provoke things you shouldn't provoke."
 
-"You don't think a warning like that has any practical meaning, do you, Mister Sesso." Hajik exchanged a glance with the two dwarves already seated beside him. Just then, another hunter came out from the inner room, and the hall suddenly felt a little crowded.
+"You don't think a warning like that has any practical meaning, do you, Mr. Sesso." Hajik exchanged a glance with the two dwarves already seated beside him. Just then, another hunter came out from the inner room, and the hall suddenly felt a little crowded.
 
 "That cave was filled with gnashing plants and maddened beasts — it was simply a vicious trap brimming with ancient hatred." Hajik spread his arms and drew a half-circle in the air. "I never want to recall every single second I spent in there for the rest of my life. Can you imagine what that felt like?"
 
-"I would have thought that as a hunter and an adventurer, you'd be a little more professional," Jace said, leaning against the stone wall behind him. "But these things are no longer my concern. Just give me my ten gold coins and I'll leave, sir. You'd better not ruin my good impression of Ironforge and the Bronzebeard."
+"I would have thought that as a hunter and an adventurer, you'd be a little more professional," Jace said, leaning against the stone wall behind him. "But these things are no longer my concern. Just give me my ten gold coins and I'll leave, sir. You'd better not ruin my good impression of Ironforge and the Bronzebeards."
 
-"Sorry." The last trace of warmth on Hajik's face vanished completely, and he said icitly: "The information you provided simply wasn't comprehensive or detailed enough… Salban was cursing your name with his dying breath, Mister Sesso. I can't accept paying you the full amount."
+"Sorry." The last trace of warmth on Hajik's face vanished completely, and he said icily: "The information you provided simply wasn't comprehensive or detailed enough… Salban was cursing your name with his dying breath, Mr. Sesso. I can't accept paying you the full amount."
 
 "I remember you should be very clear about who I am," Jace said, completely dropping his polite facade as well.
 
@@ -66,15 +66,15 @@ He raised his eyes, and the braziers throughout the room suddenly shifted to a v
 
 The dwarves were startled by the sudden change. Before they could react, the three dwarves beside them suddenly burst into hysterical wailing, shouting and rushing out the door to bolt into the street. One of them even left a trail of wet spots from his seat to the door.
 
-The entire room was filled with an unsettling shadow stench. Hajik was so frightened he didn't dare breathe, rooted to the spot. Jace stood up and rummaged through the pile of gold coins on the rack beside him — there were only nine. He looked around, then his gaze landed on a pair of crocodile-skin boots under the rack that were clearly not dwarven-sized.
+The entire room was filled with an unsettling shadow stench. Hajik was so frightened he didn't dare breathe, rooted to the spot. Jace stood up and rummaged through the pile of gold coins on the rack beside him — there were only nine. He looked around, then his gaze landed on a pair of crocolisk-skin boots under the rack that were clearly not dwarven-sized.
 
-These crocodile-skin boots had a grayish-white base with green scale decorations, looking quite exquisite and certainly not cheap.
+These crocolisk-skin boots had a grayish-white base with green scale decorations, looking quite exquisite and certainly not cheap.
 
-Based on the limited enchanting knowledge he'd learned at the Wizard Sanctum, boots of this kind should be able to bear a considerable amount of enchantment power. Jace pinched the boots and lifted them — they were even quite light.
+Based on the limited enchanting knowledge he'd learned at the Wizard's Sanctum, boots of this kind should be able to bear a considerable amount of enchantment power. Jace pinched the boots and lifted them — they were even quite light.
 
 "Very beautiful, Master Hajik." He looked at the dwarf sitting at the table, too frightened to move. "Are these made from Rotgrip's hide?"
 
-Hajik stiffly nodded. Under the violet-red glow, he looked like a drowned corpse. "But these were custom-ordered by an important client from Quel'Thalas, Mister Sesso…"
+Hajik stiffly nodded. Under the violet-red glow, he looked like a drowned corpse. "But these were custom-ordered by an important client from Quel'Thalas, Mr. Sesso…"
 
 "Rotgrip's size should be enough to make a second pair of boots." Jace tucked the boots under his arm. "Thank you for the guild's generosity. And give my regards to Master Salban for me — congratulations on his resurrection."
 
@@ -82,17 +82,17 @@ Hajik swallowed and slowly nodded. He no longer had the courage to ask this sini
 
 Coming outside the guild house, a few of the dwarves who'd been terrified into breakdowns by the Fear spell had already collapsed on the ground, while others were still crouching by the railing, sobbing softly. A crowd of dwarves had already gathered around them.
 
-The guards who'd come to investigate briefly introduced themselves and explained their purpose at the hunters' guild, then began dispersing the onlookers.
+Jace briefly introduced himself to the guards who'd come to investigate and explained his business at the hunters' guild, and they began dispersing the onlookers.
 
 Although he'd gotten the money in the end and suffered no losses, Jace felt no joy whatsoever.
 
-He truly couldn't understand why these hunters, having already found the legendary "crocodile god" Rotgrip, successfully hunted it, returned to Ironforge, made money, and built a reputation — with more money sure to follow on the strength of that reputation — would still haggle over these ten gold coins with an outsider like him.
+He truly couldn't understand why these hunters, having already found the legendary "crocolisk god" Rotgrip, successfully hunted it, returned to Ironforge, made money, and built a reputation — with more money sure to follow on the strength of that reputation — would still haggle over these ten gold coins with an outsider like him.
 
 They weren't unaware of who he was, but whether it was this dwarf Hajik or the other members of the hunters' guild, their attitudes were completely different from the last time he'd come. It was as if they'd been replaced by a whole new batch of people.
 
 In any case, he hadn't wanted things to turn out like this. He'd just gained quite a bit of goodwill toward the Bronzebeard dwarves, and then he'd run into this kind of problem.
 
-It just went to say that no matter where you went, there were all sorts of different people.
+It just went to show that no matter where you went, there were all sorts of different people.
 
 It wasn't night yet. Jace went to a general store, bought a cloth bag, packed the boots, and continued deeper into Ironforge, to the very bottom level, to find the Thorium Brotherhood's quarters.
 
@@ -108,7 +108,9 @@ After entering and passing through the front hall into the stairs, the passage b
 
 Jace nodded and descended the stairs. The fire guard parted to make way for him. Before long, he could hear faint panting from inside.
 
-That succubus was actually still alive — and hadn't been discovered? Jace was quite surprised. "Ruige!"
+That succubus was actually still alive — and hadn't been discovered? Jace was quite surprised.
+
+"Ruige!"
 
 He called out, and immediately a string of curses in a Dark Iron dwarven accent that Jace couldn't quite understand came from inside. "I'm not coming until the day after tomorrow, Drotheim, you wait a bit…"
 
@@ -126,13 +128,13 @@ He took the book, and a black ring immediately fell out of the book's spine. Rui
 
 "Aah!" Ruige was so frightened he immediately threw the ring on the ground. "This… this is a Watcher's Ring! Who did you get this from?!"
 
-"A Watcher?" Jace picked up the Dark Iron ring. "This was given to me by Rokktus in Shadowforge City. I still need to return it to him."
+"A Watcher?" Jace picked up the Dark Iron ring. "This was given to me by Lokhtos in Shadowforge City. I still need to return it to him."
 
-"You went to Shadowforge City," Ruige asked in shock. "And you even found Master Rokktus?!"
+"You went to Shadowforge City," Ruige asked in shock. "And you even found Master Lokhtos?!"
 
 "It was only thanks to this book of yours that I was able to earn his trust, Master Ruige. I have to say, what you taught me back then has been a tremendous help to me this time around," Jace said with a smile.
 
-"Then did you put in a good word for me in front of Master Rokktus?" Ruige asked eagerly. "Like praising my fire elemental skills, or something? Did he mention anything about me…"
+"Then did you put in a good word for me in front of Master Lokhtos?" Ruige asked eagerly. "Like praising my fire elemental skills, or something? Did he mention anything about me…"
 
 "Let me think… ah, he said you talk a little too much," Jace said.
 

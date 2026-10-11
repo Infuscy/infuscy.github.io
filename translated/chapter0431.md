@@ -2,13 +2,15 @@
 
 Jace said, "Teron Gorefiend's spirit tried to take over my body, but it didn't succeed. But some of his memories lingered in my head, and I've been practicing in private. I learned some dark magic."
 
-"I'm not surprised. But why didn't you go to the Wizard Sanctum for help at the time?" Marin asked.
+"I'm not surprised. But why didn't you go to the Wizard's Sanctum for help at the time?" Malin asked.
 
-As soon as he'd asked, the old mage shook his head. "It nearly dragged you into enormous trouble just from using a little shadow power against me. Of course you wouldn't have wanted to explain." He paused, then added gently, "How is Amy? Was she hurt?"
+As soon as he'd asked, the old mage shook his head. "It nearly dragged you into enormous trouble just from using a little shadow power against me. Of course you wouldn't have wanted to explain."
 
-"She only suffered some superficial injuries at the time," Marin said. Then he paused. "I'm truly grateful to you, Jace."
+Jace paused, then asked, "How is Amy? Was she hurt?"
 
-Hearing Marin's words, Jace felt as if he'd been pulled right back onto that battlefield.
+"She only suffered some superficial injuries at the time," Malin said. Then he paused. "I'm truly grateful to you, Jace."
+
+Hearing Malin's words, Jace felt as if he'd been pulled right back onto that battlefield.
 
 Though three weeks had already passed in the outside world, to him it felt like something that had happened before he'd even opened his eyes.
 
@@ -22,29 +24,29 @@ Jace took a breath, trying to calm himself as much as possible, then asked the q
 
 "Is Grede Thunderfist still alive?"
 
-"He's very much alive," Marin said, rising to his feet. "Though he's been taking part in operations to mop up the remaining demons, so he might not be back here right away."
+"He's very much alive," Malin said, rising to his feet. "Though he's been taking part in operations to mop up the remaining demons, so he might not be back here right away."
 
 Hearing that Grede still had the energy to go out and fight, Jace set his mind at ease.
 
-"Rest well — I'll let you know when he's back," Marin said.
+"Rest well — I'll let you know when he's back," Malin said.
 
 Jace nodded. "Then... do I still have a chance of leaving Nethergarde Keep?"
 
-"Of course, once you've recovered," Marin said.
+"Of course, once you've recovered," Malin said.
 
 "I'm not being kept here?" Jace asked in surprise.
 
-"Not exactly," Marin said. "Once you're ready to live under a different identity, once you've healed enough to ensure you won't be snatched up by some gnoll or the like the moment you step outside, you can leave Nethergarde Keep."
+"Not exactly," Malin said. "Once you're ready to live under a different identity, once you've healed enough to ensure you won't be snatched up by some gnoll or the like the moment you step outside, you can leave Nethergarde Keep."
 
 Jace nodded. Right now, all he wanted was to make a trip back to Lordaeron.
 
-"Amy wants to see you. Would you like to see her now?" Marin asked.
+"Amy wants to see you. Would you like to see her now?" Malin asked.
 
 Jace gritted his teeth and sat up, catching his breath. "Of course I would, Master."
 
-Marin got up to the door, said something to someone outside, then nodded. Amy walked in and saw Jace. She opened her mouth to speak, but tears spilled out first.
+Malin went to the door, said something to someone outside, then nodded. Amy walked in and saw Jace. She opened her mouth to speak, but tears spilled out first.
 
-She rushed over and hugged Jace, crying without restraint. Old Marin quietly pulled the door shut.
+She rushed over and hugged Jace, crying without restraint. Old Malin quietly pulled the door shut.
 
 Amy cried for a long enough time to make Jace's own nose sting a little.
 
@@ -88,11 +90,13 @@ Hearing that, Jace couldn't help but laugh.
 
 The smile on Jace's face faded bit by bit.
 
-"Did many people die?" Amy asked. "Those behind the walls were alright. The tower survived the blast because of the crystal's protection. But a lot of people on the battlefield really didn't make it out."
+"Did many people die?" Jace asked.
 
-Jace's eyes trembled involuntarily. Amy said, "No one blames you, Jace. And Lady Vereesa Windrunner told everyone it was you who told them to run. Without your warning, the number of people who died in that final explosion would have been far greater than it was now — after all, aside from a few Kirin Tor demon experts, no one knew what he actually was."
+"Those behind the walls were all right," Amy said. "The tower survived the blast because of the crystal's protection. But a lot of people on the battlefield really didn't make it out."
 
-"Sigh... am I getting a bit hoarse..."
+Jace's eyes trembled involuntarily. Amy said, "No one blames you, Jace. And Lady Vereesa Windrunner told everyone it was you who told them to run. Without your warning, the number of people who died in that final explosion would have been far greater than it was — after all, aside from a few Kirin Tor demon experts, no one knew what he actually was."
+
+"Ah... I'm getting a bit hoarse..."
 
 "No," Jace said. "I want to know what happened, Amy. Thank you for telling me."
 

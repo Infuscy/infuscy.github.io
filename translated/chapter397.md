@@ -12,7 +12,7 @@ The Midsummer Fire Festival started on June 21st and lasted two weeks. The festi
 
 Many races believed that fire could dispel ancient evil. Long ago, they would even select a Flame Keeper to preside over a grand sacred flame ritual to bless the peace of the coming year.
 
-Of course, the Flame Keeper, like Old Winterfather during the Feast of Winter Veil, had become part of the celebration, no longer carrying the strong religious significance of hundreds of years ago.
+Of course, the Flame Keeper, like Greatfather Winter during the Feast of Winter Veil, had become part of the celebration, no longer carrying the strong religious significance of hundreds of years ago.
 
 Even though the Fire Festival hadn't officially started, the festive atmosphere was already present.
 
@@ -22,7 +22,7 @@ For the moment, the entire Park had become much livelier because of this impromp
 
 Jace had to admit he quite envied this guy's fire mastery. This flame was definitely no sleight-of-hand trick by some street magician. Jace had noticed that although the mage was performing on the stone path, the weeds growing in the cracks beneath his feet had already been scorched yellow by the flames coming off him.
 
-This guy was probably channeling an Immolate spell onto himself while using a powerful fire barrier to protect himself. Jace could only guess simply like that. In any case, given his own skill at manipulating fire magic, he couldn't figure out at all how this guy did it.
+This guy was probably channeling an immolation spell onto himself while using a powerful fire barrier to protect himself. That was the simplest guess Jace could make. In any case, given his own skill at manipulating fire magic, he couldn't figure out at all how this guy did it.
 
 There were many novice mages in the crowd, even full mages. It was clear everyone was amazed.
 
@@ -38,7 +38,7 @@ Demons in the Mage Quarter?
 
 He hadn't brought Morophil or Sazeno here, and when they were seriously hiding, they wouldn't give off this smell.
 
-Jace looked around, focusing his mind and using his Detect Demon ability to scan back and forth. Had someone else from the Slaughtered Lamb brought an imp they'd summoned here?
+Jace looked around, focusing his mind and using his Sense Demons ability to scan back and forth. Had someone else from the Slaughtered Lamb brought an imp they'd summoned here?
 
 But there were no demons around. He couldn't see any suspicious shadow.
 
@@ -56,15 +56,15 @@ At this moment, an older mage in the crowd shouted an incantation. A small blizz
 
 Although this ball of fel fire had flared up for an instant before being swallowed and extinguished by the blizzard, it still startled everyone present. What was going on?!
 
-The older mage helped the injured, soaking wet fire mage to his feet. It seemed that because the rescue had been timely and the fire barrier hadn't been completely destroyed, there didn't appear to be any particularly serious burns. The fire mage just said quietly, "Master Zonma… I don't know why…"
+The older mage helped the injured, soaking wet fire mage to his feet. It seemed that because the rescue had been timely and the fire barrier hadn't been completely destroyed, there didn't appear to be any particularly serious burns. The fire mage just said quietly, "Master Dumas… I don't know why…"
 
-"Make way for the injured!" Magino Zonma looked at the crowd and said. "The Wizard Sanctum will immediately investigate this matter."
+"Make way for the injured!" Maginor Dumas looked at the crowd and said. "The Wizard's Sanctum will immediately investigate this matter."
 
 Why had fel fire appeared? And such pure green fel fire. Jace had only occasionally seen it on top of imps' heads, and even the flames they ignited with fel energy weren't much greener than ordinary flames — they still looked like normal fire.
 
 Jace hadn't noticed any demons nearby, but there really was something off in the air.
 
-The crowd dispersed under the urging of the battle-mage guards. He came to Marin's study and knocked. Marin wasn't there.
+The crowd dispersed under the urging of the battle-mage guards. He came to Malin's study and knocked. Malin wasn't there.
 
 Looking back in the direction he'd come from, he felt this probably had nothing to do with the warlocks in the Slaughtered Lamb. After all, the chances of them producing such a ball of pure fel fire weren't high.
 
@@ -88,15 +88,4 @@ He pushed open the door and went home. Sazeno was actually crouching on the wind
 
 Morophil shook her head. "I can't sense any demon's trail. This fel fire aura is too dispersed. It seems to be everywhere, yet too thin to be the deliberate act of any specific demon."
 
-"In any case, the Wizard Sanctum is already investigating. I'll ask around in the Mage Quarter tomorrow," Jace said.
-
-## Flags
-
-- **仲夏火焰节**: Midsummer Fire Festival (canonical WoW seasonal event, June 21 – July 4).
-- **火焰守护者 / 冬天爷爷**: Flame Keeper / Old Winterfather — the festival figureheads, treated as secular celebration figures now.
-- **玛吉诺·仲马**: Magino Zonma — senior mage who takes charge of the scene.
-- **魔火 / 邪能绿火**: fel fire / green fel fire — the fel-corrupted flame that erupts from the dancer, distinct from ordinary fire.
-- **侦测恶魔**: Detect Demon — Jace's passive demon-detection ability.
-- **撒厄诺**: Sazeno, Jace's imp minion.
-- **莫洛菲尔**: Morophil, Jace's succubus minion.
-- **硫磺臭味 = demon scent**: Jace's shadow-trained senses pick up the fel/sulfur taint before anyone else can — a detail that sets him apart from the other mages.
+"In any case, the Wizard's Sanctum is already investigating. I'll ask around in the Mage Quarter tomorrow," Jace said.

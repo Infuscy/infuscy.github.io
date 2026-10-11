@@ -26,9 +26,9 @@ He dove into the passenger cabin and saw Grede slamming his shield into the pant
 
 But the panther only whimpered and ducked its whole body, slamming hard into the cabin wall. Grede hastily jumped off its back and hit the ground. If he hadn't jumped, he would have been crushed flat.
 
-"Look over here!" The woman leveled her club at the panther. The panther's eyes snapped to her. It snarled and lunged. The woman tried to thrust her club forward, but the panther swatted it aside with one paw. Its other paw swung in a rapid succession of blows that caught her square in the waist... The woman cried out and toppled onto her side. Through gritted teeth she raised her club to fend off the panther's biting. The panther gnawed wildly, about to snap the club in half—when it suddenly noticed Jace, who'd just come charging in.
+"Look over here!" The woman leveled her club at the panther. The panther's eyes snapped to her. It snarled and lunged. The woman tried to thrust her club forward, but the panther swatted it aside with one paw. Its other paw swung in a rapid succession of blows that caught her square in the side... The woman cried out and toppled onto her side. Through gritted teeth she raised her club to fend off the panther's biting. The panther gnawed wildly, about to snap the club in half—when it suddenly noticed Jace, who'd just come charging in.
 
-Jace fixed his gaze on the panther's strange yellow eyes. Calling it a panther was one thing, but this thing was built like a full-grown Siberian tiger. Not only was it solid muscle, it was noticeably more agile—darting back and forth as nimbly as a civet. Its owner must have spent a fortune feeding and training it.
+Jace fixed his gaze on the panther's strange yellow eyes. Calling it a panther was one thing, but this thing was built like a full-grown Siberian tiger. Not only was it solid muscle, it was noticeably more agile—darting back and forth as nimbly as a housecat. Its owner must have spent a fortune feeding and training it.
 
 Jace was just about to speak the Curse of Weakness when the panther released the woman and shifted its position, swiping a jar off a nearby crate with blinding speed.
 
@@ -40,7 +40,7 @@ The panther locked onto Jace and was about to pounce when Grede suddenly leaped 
 
 Jace nimbly rolled to the side. The shirtless man was a beat too slow and got slammed hard against the wall by the dwarf, sliding down with a thud.
 
-Jace pulled himself up from the wet, slippery floor and looked back. Grede's shield had several deep claw marks gouged into it, the edges already cracked and split. That fall had been no joke. The dwarf lay on the ground, clutching his waist and groaning.
+Jace pulled himself up from the wet, slippery floor and looked back. Grede's shield had several deep claw marks gouged into it, the edges already cracked and split. That fall had been no joke. The dwarf lay on the ground, clutching his back and groaning.
 
 The shirtless man was holding his head, mumbling something—he'd been hit hard too.
 
@@ -50,13 +50,15 @@ But in reality, you couldn't wipe and respawn and try again. There was no Feign 
 
 That dark shadow was coughing violently, head hanging low. It shook its head and looked up, two terrifying will-o'-the-wisp eyes locking onto Jace.
 
-Then it's a duel, then. A flash of lightning lit up the entire cabin, and Jace got a clear look at its full coat. The monster's muscles were twisted together like bundles of rebar. A pair of fangs jutted out like a saber-toothed tiger, long and razor-sharp. Layer upon layer of scars covered its body, so thick that its black fur wasn't even pure anymore.
+A duel, then.
+
+A flash of lightning lit up the entire cabin, and Jace got a clear look at its full coat. The monster's muscles were twisted together like bundles of rebar. A pair of fangs jutted out like a saber-toothed tiger, long and razor-sharp. Layer upon layer of scars covered its body, so thick that its black fur wasn't even pure anymore.
 
 It launched like a cannonball!
 
 Jace didn't flinch in the slightest. He shouted his spell and raised his staff, pointing straight at the charging panther.
 
-"Alinizhitudur zala, kana!"
+"Anuniji, Durzala, Kana!"
 
 The panther roared at the top of its lungs but didn't slow down in the slightest—it crashed straight in!
 
@@ -92,9 +94,9 @@ The panther let out a feeble growl—but that final cry trailed off into a whimp
 
 "This net won't hold him forever," Grede panted out in bursts. "Think about it—that cage, he broke the lock! He's got no strength now, but later... who knows. I'm going up to call for help! You two keep watch here! Jace, you alright?"
 
-Jace shook his head. Grede nodded and ran up. Only then did he remember he'd just taken a swipe himself.
+Jace shook his head. Grede nodded and ran up. Only then did Jace remember he'd just taken a swipe himself.
 
-He immediately felt around where he'd been hit—his waist, his chest, his legs. No blood, no wounds. Just someone else's blood smeared on him. No injuries, no pain.
+He immediately felt around where he'd been hit—his side, his chest, his legs. No blood, no wounds. Just someone else's blood smeared on him. No injuries, no pain.
 
 Probably because the panther had already been hit by the Curse of Weakness, so even that wild swipe didn't have much force behind it.
 
@@ -102,15 +104,4 @@ Or more likely, because of that cloak.
 
 He pulled the cloak around and looked at the outside. Two white claw marks stood out. So this cloak had blocked the blow for him!
 
-Larsen really hadn't lied to him. This cloak was damn tough. Even a monster like a Smokefire dragon—even a dragon sailcloth wouldn't be torn open by a casual panther swipe.
-
-## Flags
-
-- **虚弱诅咒 (Curse of Weakness)** — warlock spell; not in glossary. Rendered as "Curse of Weakness" (canonical WoW warlock DoT). Cast successfully this chapter.
-- **"阿励尼吉杜ur扎拉，卡纳" / "Alinizhitudur zala, kana!"** — the verbal component (incantation) Jace speaks to cast the spell. Kept as a phonetic rendering of the made-up incantation; not in glossary.
-- **拉尔森 (Larsen)** — the cloak maker who sold Jace the sturdy cloak; not in glossary. Rendered as "Larsen."
-- **熏火龙 (Smokefire dragon)** — a creature referenced as a benchmark for the cloak's durability; not in glossary. Rendered as "Smokefire dragon."
-- **龙帆 (dragon sailcloth)** — the material the cloak is made from; not in glossary. Rendered as "dragon sailcloth."
-- **东北虎 (Siberian tiger)** — Jace's comparison for the panther's size. Rendered as "Siberian tiger."
-- **灵猫 (civet)** — Jace's comparison for the panther's agility. Rendered as "civet."
-- **拔河 (tug-of-war)** — Grede dragging the panther by its tail. Rendered as "tug-of-war."
+Larson really hadn't lied to him. This cloak was damn tough. It was cut from the sail of a sootfire drake, after all—a casual panther swipe wasn't going to tear it open.

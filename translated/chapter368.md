@@ -18,7 +18,7 @@ After the two dwarves left, Daggett led the two of them along the stone wall, co
 
 "Hold on, hold on," Grede whispered. "Are you sure your description is precise enough? Don't leave anything out — we'll basically be running in blind."
 
-"I've described it as detailed as I can," Daggett said. "I remember it very clearly. Once we're through, find that stone pillar first. Beside the pillar there's a crumbling section of wall — very easy to spot. We'll regroup inside that crumbled wall. Once the Invisibility Potion wears off, we'll figure out the next move."
+"I've described it in as much detail as I can," Daggett said. "I remember it very clearly. Once we're through, find that stone pillar first. Beside the pillar there's a crumbling section of wall — very easy to spot. We'll regroup inside that crumbled wall. Once the Invisibility Potion wears off, we'll figure out the next move."
 
 "If we don't want to get caught, our only option is to fight our way out," Daggett said. "I'm confident the two of you could punch straight through a crowd of laborers. But if even one Dark Iron dwarf makes it back to the fortress, then this whole trip will be for nothing — we'll have to abandon it and leave."
 
@@ -30,7 +30,7 @@ Jace nodded. "Then let's do it."
 
 The three of them took turns slowly poking their heads out to scout the terrain. When Jace looked, he found it was similar to the game: two enormous cyan-blue stone doors slightly ajar, with a long staircase leading straight down.
 
-The Dark Iron dwarves had built some camps at the bottom of the stairs and on the high terraces beside it, and below there were quite a few sandwork emplacements and firearms — all meant to deal with the troggs that came charging out.
+The Dark Iron dwarves had built some camps at the bottom of the stairs and on the high terraces beside it, and below there were quite a few sandbag emplacements and firearms — all meant to deal with the troggs that came charging out.
 
 From what they could see, there were only four dwarves guarding the camp. Most of the Dark Iron dwarves must have gone out to haul things in.
 
@@ -58,7 +58,7 @@ Before long, Grede also squeezed in low.
 
 Daggett answered, "From what I can see, it doesn't look like it. Which means they haven't dealt with the trogg problem either. The Orc Wars didn't just hit us."
 
-Jace stole a glance outside, looking at the towering walls. "We're already inside this temple, Grede. Tell me — can you feel the difference between here and the Iron Ring excavation site... or any other ruins you've visited before."
+Jace stole a glance outside, looking at the towering walls. "We're already inside this temple, Grede. Tell me — can you feel the difference between here and Ironband's Excavation Site... or any other ruins you've visited before."
 
 Grede leaned out and touched the stone pillar in front of him. "I... I think I can feel something different. I can't quite describe it."
 
@@ -74,18 +74,10 @@ Daggett nodded, glanced outside, and looked toward the corridor around the corne
 
 Listening to Daggett, Jace felt a flicker of familiarity. He had the sense that this Uldaman's layout was somewhat similar to the game's — a great hall surrounded by several corridors.
 
-With that, Daggett had already drawn the short blade at his waist. "From here on, we'll be dealing with those troggs."
+With that, Daggett had already drawn the short blade at his belt. "From here on, we'll be dealing with those troggs."
 
 Jace handed the Bronzebeard dwarf a Nature Protection Potion. "Better safe than sorry."
 
 Daggett glanced at the potion. "The mages of Stormwind truly are well-read. The trogg elementalists have none of the humility and kindness of the Wildhammer sages — the elemental power they summon is as savage and crude as they are."
 
 "Now it's time to let them see what real savagery and crudeness look like, Daggett." Grede gripped his hammer. "I'll take point."
-
-## Flags
-
-- **Chapter title**: 遗迹之门 — "The Gate of the Ruins" (lit. "Gate of the Relics/Ruins").
-- **Key terms**: 奥达曼 = Uldaman (canon), 黑铁矮人 = Dark Iron dwarves (canon), 穴居人 / 石腭怪 = troggs (canon), 蛮锤贤者 = Wildhammer sages (fanfic reference to Wildhammer shamanic tradition), 自然防护药水 = Nature Protection Potion (canon), 隐形药水 = Invisibility Potion (canon), 碧空之歌 = Skysong (Jace's sword).
-- **Characters**: 达葛特 = Daggett (OC Bronzebeard dwarf), 格瑞德 = Grede (canon per glossary).
-- **Lore note**: The "cyan stone walls" (青色石墙) mark the boundary of the Titan-constructed portion of Uldaman. Daggett's mention of losing a companion to the troggs establishes the stakes of the deeper ruins.
-- **Tone note**: The stealth sequence is rendered with a tense, procedural rhythm. Grede's skepticism about Daggett's directions keeps the banter alive even under pressure.

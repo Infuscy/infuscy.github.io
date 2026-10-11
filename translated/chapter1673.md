@@ -1,6 +1,6 @@
 ## Chapter 1673: Power of the Chromatic (Part 2)
 
-"Desecrate our holy relics, occupy our fortress, slaughter our people, and now make this ugly monster live in my palace? Victor Nefarius -- I haven't truly avenged us until I rape Deathwing's wife and mount your old dragon mother!"
+"Desecrate our holy relics, occupy our fortress, slaughter our people, and now make this ugly monster live in my palace? Victor Nefarius -- by your father's black heart and the old dragon hag who whelped you, I'll have our vengeance!"
 
 Dagran Thaurissan shrieked as he leaped from above. He had transformed into a fire elemental, both hands gripping the Royal Scepter of Shadowforge City, which had also ignited. He dragged a trail of fire as he crashed down onto Chromaggus's back.
 
@@ -12,7 +12,7 @@ The combined assault from paladins and dwarves seemed to enrage the monster. Chr
 
 The nearby dwarves -- Dark Iron, Bronzebeard, and Wildhammer alike -- couldn't resist the sleeping magic. Human commanders and soldiers stumbled back, their steps growing heavier. But a shadow had already fallen over Chromaggus's head.
 
-Sora, having prepared for the chromatic dragon's tricks, hadn't been caught by the mist. She puffed out her pink-purple cheeks and blew a hard gust, dispersing all the mist. Then she let out a shriek, and the dwarves' eyes snapped open.
+Sola, having prepared for the chromatic dragon's tricks, hadn't been caught by the mist. She puffed out her pink-purple cheeks and blew a hard gust, dispersing all the mist. Then she let out a shriek, and the dwarves' eyes snapped open.
 
 "I was just asleep..."
 
@@ -24,19 +24,19 @@ Sora, having prepared for the chromatic dragon's tricks, hadn't been caught by t
 
 "Kill him!"
 
-Seeing the green dragon easily dispel the sleeping mist, one of Chromaggus's heads roared in fury. It spat a fireball at her but she dodged easily. Meanwhile, the dwarves, charging fearlessly, kept battering his legs until they buckled, leaving him unable to deal with Sora.
+Seeing the green dragon easily dispel the sleeping mist, one of Chromaggus's heads roared in fury. It spat a fireball at her but she dodged easily. Meanwhile, the dwarves, charging fearlessly, kept battering his legs until they buckled, leaving him unable to deal with Sola.
 
-Whelps up above began circling Sora, but Sora was much larger than them, and Needleflame wasn't to be trifled with. One whelp dove at Sora and was headbutted mid-flight, crashing heavily into the wall. The rangers shifted their aim upward, covering Sora and Needleflame as the two whelps fought.
+Drakes up above began circling Sola, but Sola was much larger than them, and Needleflame wasn't to be trifled with. One drake dove at Sola and was headbutted mid-flight, crashing heavily into the wall. The rangers shifted their aim upward, covering Sola and Needleflame as the two of them fought.
 
-Every whelp that fell was immediately surrounded and stabbed to death by soldiers. Unable to dent Chromaggus's defenses, they took out their frustration on the much weaker whelps. Jace had thought Nefarian was using the orcs, trolls, ogres, and even dragonkin as cannon fodder to slow the allied army's advance, wave after wave. But he hadn't expected even the fully grown whelps to be disposable pawns.
+Every drake that fell was immediately surrounded and stabbed to death by soldiers. Unable to dent Chromaggus's defenses, they took out their frustration on the much weaker drakes. Jace had thought Nefarian was using the orcs, trolls, ogres, and even dragonkin as cannon fodder to slow the allied army's advance, wave after wave. But he hadn't expected even the fully grown drakes to be disposable pawns.
 
-But if he'd mutilated his own sister, what were a few whelps in comparison?
+But if he'd mutilated his own sister, what were a few drakes in comparison?
 
 This whole fight for Blackrock Spire felt less like Nefarian was trying to stop them and more like he was using the allied army to gradually wipe out his own forces. From the Horde to the Blackwing...
 
 Had this guy genuinely lost his mind? Blackrock Spire had become a mountain of corpses and a sea of blood, most of it belonging to those who had once served him.
 
-The allied soldiers had tried to move bodies out of the lower levels, not wanting corpses to create necrotic hazards or block the way. But now -- from dragonkin to whelps to orcs to the black dragon remains that needed urgent purification...
+The allied soldiers had tried to move bodies out of the lower levels, not wanting corpses to create necrotic hazards or block the way. But now -- from dragonkin to drakes to orcs to the black dragon remains that needed urgent purification...
 
 There simply weren't enough hands to handle the bodies. The priests could at most evacuate the fallen allied soldiers from the front line. Their remaining energy had to go to treating the wounded.
 
@@ -58,11 +58,11 @@ Walls and floor tiles were inexplicably crushed and shattered, as if battered by
 
 Jace realized it wasn't that the monster was too fast. It was that everyone else was too slow.
 
-"He's manipulating time!" Sora shouted. "He's using the power of the Hourglass Guardians! Do something, quickly!"
+"He's manipulating time!" Sola shouted. "He's using the power of the Keepers of Time! Do something, quickly!"
 
 Bronze dragon? So this was real time magic?
 
-Jace had had that thought, but if Sora hadn't said it with such certainty, he wouldn't have dared believe it.
+Jace had had that thought, but if Sola hadn't said it with such certainty, he wouldn't have dared believe it.
 
 But how the hell were they supposed to stop it?
 
@@ -88,7 +88,7 @@ The arcane glow in Khadgar's hands had turned bright gold, illuminating large st
 
 The rangers and mages immediately loosed arrows and spells. The soldiers sprinted forward. Jace saw that when the arcane-empowered arrows touched the chromatic dragon's scales, they couldn't change color fast enough to resist. Even the adaptive resistance scales' transformation speed had been slowed by Khadgar's time magic!
 
-Vereesa realized it first. She drew and loosed several Dream Arrows in rapid succession, piercing the head Chromaggus had been using for time magic. The dragon's movements started speeding up again. Khadgar finally collapsed, sitting down hard. Chromaggus returned to normal speed, but that head had been completely shot dead by Vereesa, hanging limp against his chest.
+Vereesa realized it first. She drew and loosed several dream arrows in rapid succession, piercing the head Chromaggus had been using for time magic. The dragon's movements started speeding up again. Khadgar finally collapsed, sitting down hard. Chromaggus returned to normal speed, but that head had been completely shot dead by Vereesa, hanging limp against his chest.
 
 Chromaggus stumbled back several steps until his rear hit the wall. For the first time, Jace tasted real fear in the mad monster's roar. He was finished.
 

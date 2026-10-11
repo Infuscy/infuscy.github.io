@@ -1,12 +1,12 @@
 ## Chapter 1568: Team Culture Is...
 
-Back at the terrace in front of the Black Forge, Vereesa spotted him from afar and hurried over. She wove through a rowdy group of Dark Iron dwarves, but wearing the purple cloak of the Twilight's Hammer, she couldn't afford to look too excited toward a fellow cultist. An elf was already attention-grabbing enough. Her inner worry was hard to suppress, though, and all these conflicting emotions churned into a chaotic mess that was hard to read clearly.
+Back at the terrace in front of the Grim Guzzler, Vereesa spotted him from afar and hurried over. She wove through a rowdy group of Dark Iron dwarves, but wearing the purple cloak of the Twilight's Hammer, she couldn't afford to look too excited toward a fellow cultist. An elf was already attention-grabbing enough. Her inner worry was hard to suppress, though, and all these conflicting emotions churned into a chaotic mess that was hard to read clearly.
 
-"Mr. Slovakia." She took Jace's hand but ultimately didn't embrace him like a long-lost lover in front of the passing Dark Iron dwarves and Flamewielders. She just gave a relatively polite handshake.
+"Mr. Slovakia." She took Jace's hand but ultimately didn't embrace him like a long-lost lover in front of the passing Dark Iron dwarves and pyromancers. She just gave a relatively polite handshake.
 
-Jace looked into her blue arcane eyes, saw that familiar face, and finally felt some release from the oppressive chaos of the Summoners' Hall.
+Jace looked into her blue arcane eyes, saw that familiar face, and finally felt some release from the oppressive chaos of the Summoners' Tomb.
 
-Dumrel's Fear was nowhere near the intensity of Deathwing's nightmares. Jace really didn't want to glimpse illusions related to this elf mid-fight during a fast-paced duel.
+Doom'rel's Fear was nowhere near the intensity of Deathwing's nightmares. Jace really didn't want to glimpse illusions related to this elf mid-fight during a fast-paced duel.
 
 "Is everyone okay?" Jace asked.
 
@@ -20,7 +20,7 @@ Dumrel's Fear was nowhere near the intensity of Deathwing's nightmares. Jace rea
 
 Vereesa rolled her eyes. "Worried about the most evil mage hiding in Shadowforge City? Ha."
 
-Jace smiled and walked quickly through the terrace into the tavern, then to the residential area, where he found Solara and Grede looking his way from the corridor.
+Jace smiled and walked quickly through the terrace into the tavern, then to the residential area, where he found Sola and Grede looking his way from the corridor.
 
 Behind them, Needleflame spotted the warlock at the entrance and immediately pounced, wrapping her arms around Jace's ribs and slamming her entire head against his chest with a dull thud.
 
@@ -36,15 +36,15 @@ Jace glanced over her shoulder to make sure no Dark Iron dwarves were nearby, th
 
 "Exactly." Jace said.
 
-"It's not just today. It's always been like this for our group, Needleflame." Vereesa said from the side. "No matter how many times that gryphon rider nearly got us all killed because his brain can't wrap around a corner, we don't hold a grudge."
+"It's not just today. It's always been like this for our group, Needleflame." Vereesa said from the side. "No matter how many times that gryphon rider nearly got us all killed because he's too thick-skulled to think twice, we don't hold a grudge."
 
 "Just like no matter how many times this ranger thinks she can get us out of danger and instead gets us surrounded in a pit with arrows and spears pointed at us, we don't blame her." Grede snorted.
 
-"And no matter how many times..." Solara said softly, "the trouble I've stirred up has gotten everyone tormented by nightmares and illusions, no one has ever abandoned me. They've always found a way to help me out of that nightmare's damage."
+"And no matter how many times..." Sola said softly, "the trouble I've stirred up has gotten everyone tormented by nightmares and illusions, no one has ever abandoned me. They've always found a way to help me out of that nightmare's damage."
 
-"Don't say that, Solara." Vereesa looked at the green dragon.
+"Don't say that, Sola." Vereesa looked at the green dragon.
 
-"So, in short." Grede raised a finger. "Kid, if you want to run with us, you've got to... lose face!"
+"So, in short." Grede raised a finger. "Kid, if you want to run with us, you've got to... have no shame!"
 
 Needleflame finally burst out laughing. Jace ruffled her black hair. "You're an incredibly capable warrior, Needleflame. And we're going to need your strength soon. Now's not the time for self-blame."
 
@@ -58,21 +58,21 @@ Needleflame finally burst out laughing. Jace ruffled her black hair. "You're an 
 
 "Remember to save the biggest one for me..." Grede punched his palm. "So, uh, what did Thaurissan say?"
 
-Jace said, "He agreed that once Executus is defeated, he'll take control of the soldiers he commands in Shadowforge City — including the Iron Legion — to restrain the Flamewielders and Ragnaros's other loyal servants, buying us time to destroy the fire runes."
+Jace said, "He agreed that once Executus is defeated, he'll take control of the soldiers he commands in Shadowforge City — including the Anvilrage Legion — to restrain the pyromancers and Ragnaros's other loyal servants, buying us time to destroy the fire runes."
 
 "So the Thaurissan family isn't as crazy as the stories from Aerie Peak say." Grede said.
 
-"His ancestors aren't the same as him." Jace said. "But when he talked about his position, he said he's willing to help the Alliance — not join it. Which means even if we cut the connection between the Fire Plane and Blackrock Mountain for him and help him retake Blackrock Spire, he still might not reconcile with the other two dwarf clans. But all of this depends on our plan going smoothly. If we fail to kill the Majordomo, he'll help the fire elementals hunt us down. So we need to be prepared to face the entire Shadowforge City if we have to."
+"His ancestors aren't the same as him." Jace said. "But when he talked about his position, he said he's willing to help the Alliance — not join it. Which means even if we cut the connection between the Firelands and Blackrock Mountain for him and help him retake Blackrock Spire, he still might not reconcile with the other two dwarf clans. But all of this depends on our plan going smoothly. If we fail to kill the Majordomo, he'll help the fire elementals hunt us down. So we need to be prepared to face the entire Shadowforge City if we have to."
 
 "Somehow that actually makes me feel better." Grede said. "If he hadn't said that, I'd have thought this emperor was some Bronzebeard in disguise."
 
-Vereesa said, "According to the books I've read about Shadowforge City, the earliest Dark Iron tribe were skilled smiths, but their skin wasn't as dark as it is today. When they were in Ironforge, they liked studying magic, but they weren't as irritable and volatile as they are now. I think Ragnaros's blessing changed them into what they are. Once they're truly free from the flames' control, things might gradually improve."
+Vereesa said, "According to the books I've read about Shadowforge City, the earliest Dark Iron clan were skilled smiths, but their skin wasn't as dark as it is today. When they were in Ironforge, they liked studying magic, but they weren't as irritable and volatile as they are now. I think Ragnaros's blessing changed them into what they are. Once they're truly free from the flames' control, things might gradually improve."
 
 "Only a fool would believe what elf books say about dwarves." Grede said. "I don't buy that these black dwarves here would drop their bad habits just because they shake off their chains. Even if you dumped them in the ice and snow of Northrend, the ground under their feet would melt into a puddle!"
 
-"Being a dwarf doesn't mean you know your cousins." Vereesa said. "The author of that book — Magister Lothoros Starpiercer — has been to Shadowforge City more times than I can count. And if I'm not mistaken, this is your first time here."
+"Being a dwarf doesn't mean you know your cousins." Vereesa said. "The author of that book — Magister Lothos Riftwaker — has been to Shadowforge City more times than I can count. And if I'm not mistaken, this is your first time here."
 
-Jace didn't really remember the name Lothoros, but the surname Starpiercer rang a bell. The author of the book Vereesa mentioned seemed to be that blood elf mage who stood at the bottom of Blackrock Mountain in the game, asking players to explore Molten Core — the one who could then teleport players inside.
+Jace didn't really remember the name Lothos, but the surname Riftwaker rang a bell. The author of the book Vereesa mentioned seemed to be that blood elf mage who stood at the bottom of Blackrock Mountain in the game, asking players to explore Molten Core — the one who could then teleport players inside.
 
 But just as she finished speaking, Vereesa's face stiffened, as if she'd suddenly remembered something. She looked at Jace.
 
@@ -82,7 +82,7 @@ But just as she finished speaking, Vereesa's face stiffened, as if she'd suddenl
 
 "I knew it!" Grede let out a triumphant laugh. "That's why this elf talks as much nonsense as his teacher!"
 
-From what Dagran Thaurissan had said, Dar'Khan Drathir was indeed quite familiar with Shadowforge City. He'd even studied shadow magic with Witch Doctor Modgud, Thaurissan the Witch King's wife. So his student's research on Dark Iron dwarves was quite convincing.
+From what Dagran Thaurissan had said, Dar'Khan Drathir was indeed quite familiar with Shadowforge City. He'd even studied shadow magic with the sorceress Modgud, Thaurissan the Sorcerer-thane's wife. So his student's research on Dark Iron dwarves was quite convincing.
 
 But in this argument, while Grede's point sounded like deliberate belligerence, it wasn't entirely without merit.
 
@@ -96,4 +96,4 @@ As long as they could deal with the biggest threats in Blackrock Mountain — th
 
 Grede and Vereesa were still going back and forth about whether the effects of magic lingered on flesh and personality after it was gone. Morophil appeared at the stairwell and motioned for everyone to quiet down. Before long, a group of drunk Dark Iron dwarves muttered unintelligibly past the floor and continued upstairs.
 
-After they'd passed, the elf and dwarf lost interest in arguing. Jace looked at the group. "We've got two weeks until the rune ceremony. Next, we need to talk to Ruk'tus Darkcontract."
+After they'd passed, the elf and dwarf lost interest in arguing. Jace looked at the group. "We've got two weeks until the rune ceremony. Next, we need to talk to Lokhtos Darkbargainer."

@@ -1,6 +1,6 @@
 ## Chapter 1044: Atal'ai Hexcraft
 
-After arriving at Booty Bay, Grede and Vereesa took Sola to the Sailor's Home inn to rest, while Jace went straight to Sylia's place.
+After arriving at Booty Bay, Grede and Vereesa took Sola to the Salty Sailor Tavern to rest, while Jace went straight to Sylia's place.
 
 He knocked on the door and after a long while the witch doctor peered out through the little peephole. Jace met her yellow eye and asked, "How's the potion coming?"
 
@@ -12,7 +12,7 @@ He knocked on the door and after a long while the witch doctor peered out throug
 
 "Vereesa Windrunner is still here, Sylia," Jace said, looking at the troll. "Unless you want the residents of Booty Bay to wake up tomorrow morning and see both our heads hanging over by the outer harbor."
 
-Sylia rubbed her thick fingers across her neck, coughed twice, and said, "I should thank you for not bringing that girl to my place. I remember when she was born, all of Zinsalo was talking about the Windrunner family's new member, hoohoo. Though she herself turned out to be less threatening than I'd imagined. And the whole world has changed its face now, after all."
+Sylia rubbed her thick fingers across her neck, coughed twice, and said, "I should thank you for not bringing that girl to my place. I remember when she was born, all of Jintha'Alor was talking about the Windrunner family's new member, hoohoo. Though she herself turned out to be less threatening than I'd imagined. And the whole world has changed its face now, after all."
 
 The witch doctor walked back into her house and brought out two large waterskins, along with several smaller pouches.
 
@@ -20,13 +20,15 @@ The witch doctor walked back into her house and brought out two large waterskins
 
 "What do you mean?" Jace asked. "Those Atal'ai have successfully summoned Hakkar? When?"
 
-"I can't say for certain," the troll said in a low voice. "I mean — what if? After all, they've already captured so many green dragons. Dragon blood is so powerful; what if it suits the Blood God's tastes perfectly…"
+"I can't say for certain," the troll said in a low voice. "I mean — what if? After all, they've already captured so many green dragons. Dragon blood is so powerful; what if it suits the blood god's tastes perfectly…"
 
 She looked at Jace's slightly dazed expression and grinned even wider.
 
 Jace shot her a cold look. "If Hakkar truly descended, would those Atal'ai still be content to stay in their temple playing with the dead? They'd definitely seize the moment and counterattack the Gurubashi. But I clearly haven't heard any news coming out of Zul'Gurub."
 
-"That's natural. I'm just considering every possible scenario for my client," Sylia said with a shrug. "How can I be sure this medicine will work?" Jace asked.
+"That's natural. I'm just considering every possible scenario for my client," Sylia said with a shrug.
+
+"How can I be sure this medicine will work?" Jace asked.
 
 "We can test it on the spot," Sylia said. "I can't chant incantations as easily as an Atal'ai priest with enough power and will, but I should be able to cast it through a few special casting materials. It might just require a small fee — say… two gold."
 
@@ -44,13 +46,13 @@ Jace pulled out two gold coins and handed them to her. "Then it's settled."
 
 Jace took off the Chain of Will around his neck and casually handed it to Morophil, who had appeared out of nowhere. "I have confidence in her."
 
-Sylia was startled by the suddenly appearing succubus and swore something in trollish. Her whole body shuddered and she stumbled back several steps before steadying herself. She stared at Morophil for a long while before saying, "Damn it, next time at least warn me that there's a demon hiding near me."
+Sylia was startled by the suddenly appearing succubus and swore something in Zandali. Her whole body shuddered and she stumbled back several steps before steadying herself. She stared at Morophil for a long while before saying, "Damn it, next time at least warn me that there's a demon hiding near me."
 
 "My apologies, Ms. Sylia," Morophil said, holding the iron chain and leaning to one side. "I thought we were old acquaintances."
 
 "Don't you dare move around, demon. I don't want your stench tainting my things." The troll witch doctor swallowed, pocketed the gold, and turned back inside.
 
-A while later, Sylia came out carrying a basket. She placed a coarse cloth doll on a stone platform, put on a wooden mask, and dipped her fingers in fel essence and thick, vile blood in turn, writing out some incantation runes around the doll.
+A while later, Sylia came out carrying a basket. She placed a coarse cloth doll on a stone platform, put on a wooden mask, and dipped her fingers in mojo and thick, vile blood in turn, writing out some incantation runes around the doll.
 
 Jace of course couldn't read a word of the troll script, but he looked on out of curiosity. He hadn't been watching long before the coarse cloth doll seemed to move, and along with it all the scattered casting materials and strange statues in the room seemed to come alive.
 

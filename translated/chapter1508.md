@@ -20,17 +20,17 @@ Vereesa emerged from the purple curtains beneath the golden phoenix banner, wave
 
 "Yes." Vereesa said. "But you know that place is less of a castle and more of the Durnholde arena these days."
 
-"What I'm interested in is the arena." Jace held up a finger. "You remember that star gladiator? The one named 'Slave.'"
+"What I'm interested in is the arena." Jace held up a finger. "You remember that star gladiator? The one named 'Thrall.'"
 
 "I know." Vereesa leaned against the railing. "Last time his team defeated three Amani captives being held in Durnholde. He got injured, but considering how vicious and treacherous those trolls are, it was an impressive showing."
 
 "Last time? When?" Jace asked.
 
-"A few months ago." Vereesa said. "Blackmoore held a tournament to celebrate the Expeditionary Force's return and invited the leaders of the Sons of Lothar. I know Alleria declined the invitation, but Khadgar went. Didn't he mention it when he went to Karazhan with you?"
+"A few months ago." Vereesa said. "Blackmoore held a tournament to celebrate the Expedition's return and invited the leaders of the Sons of Lothar. I know Alleria declined the invitation, but Khadgar went. Didn't he mention it when he went to Karazhan with you?"
 
-"He did mention the Gurubashi Arena a few times." Jace said. "So was that slave badly hurt?"
+"He did mention the Gurubashi Arena a few times." Jace said. "So was Thrall badly hurt?"
 
-"Yes. For the sake of the show, Blackmoore unusually pitted three elite forest trolls against the slave and his companions. They weren't given proper weapons, but the trolls were still deadly enough." Vereesa lowered her voice. "Since that tournament, 'Slave' hasn't fought once. He's supposedly recovering, waiting for a comeback. But a lot of the old arena regulars think he probably died of his injuries."
+"Yes. For the sake of the show, Blackmoore unusually pitted three elite forest trolls against Thrall and his companions. They weren't given proper weapons, but the trolls were still deadly enough." Vereesa lowered her voice. "Since that tournament, 'Thrall' hasn't fought once. He's supposedly recovering, waiting for a comeback. But a lot of the old arena regulars think he probably died of his injuries."
 
 "The Farstriders don't have anything more concrete?" Jace asked. "Is he dead, or is he still recovering?"
 
@@ -38,15 +38,15 @@ Vereesa quickly glanced around and lowered her voice further. "Why are you so in
 
 "Not necessarily." Jace asked, "What, am I being too obvious?"
 
-"Very obvious." Vereesa said. "Coming all the way to elven territory this early, asking so directly. But questions about that 'slave' are indeed sensitive — they involve a lot of Lordaeronian nobles' interests, especially Blackmoore's own. The Farstriders do have some intelligence, but you have to promise... not to tell anyone."
+"Very obvious." Vereesa said. "Coming all the way to elven territory this early, asking so directly. But questions about that 'Thrall' are indeed sensitive — they involve a lot of Lordaeronian nobles' interests, especially Blackmoore's own. The Farstriders do have some intelligence, but you have to promise... not to tell anyone."
 
 "I promise." Jace said.
 
-Vereesa smiled, took a deep breath, and said, "That 'slave' has probably escaped. But no one knows where he went."
+Vereesa smiled, took a deep breath, and said, "That 'Thrall' has probably escaped. But no one knows where he went."
 
 Jace nodded. This basically confirmed that the orc in the Alterac valley was Thrall.
 
-The ranger-lord continued, "Blackmoore once asked Alleria for help — he wanted the Farstriders to track the orc down. Under our agreement with King Terenas II, it was a reasonable request. So even knowing he was just Blackmoore's 'entertainment,' his 'money-maker,' we had to make some moves."
+The Ranger Lord continued, "Blackmoore once asked Alleria for help — he wanted the Farstriders to track the orc down. Under our agreement with King Terenas II, it was a reasonable request. So even knowing he was just Blackmoore's 'entertainment,' his 'money-maker,' we had to make some moves."
 
 "The Farstriders tracked the gladiator for a while but couldn't catch him. All signs suggest he found the Warsong clan. It's very likely Grommash Hellscream — who was active in Silverpine Forest — rescued him."
 
@@ -56,11 +56,11 @@ So after getting injured in that tournament, Thrall had escaped Durnholde, been 
 
 He'd probably already learned something about his father and realized he might be a member of the Frostwolf clan. So with his terrible Orcish, he'd rushed into the Alterac Mountains — only to struggle for two or three months in the snowy valleys with no survival experience, relying on nothing but the body he'd built in the arena and youthful grit.
 
-If Sorah hadn't asked Jace to take her hunting for Alterac rams... if that old ram's brave resistance hadn't made Sorah let the herd go, forcing them deeper to find more food... if Needlefang hadn't developed a keen sense for wandering orcs around Auchindoun...
+If Sola hadn't asked Jace to take her hunting for Alterac rams... if that old ram's brave resistance hadn't made Sola let the herd go, forcing them deeper to find more food... if Needleflame hadn't developed a keen sense for wandering orcs around Auchindoun...
 
-If any one of those links had gone differently, Durotan's son might have died in those mountains for no reason. And to think — Thrall had been injured at a tournament celebrating the Expeditionary Force's return. That just made everything harder to swallow.
+If any one of those links had gone differently, Durotan's son might have died in those mountains for no reason. And to think — Thrall had been injured at a tournament celebrating the Expedition's return. That just made everything harder to swallow.
 
-"A lot of people think Blackmoore sees that orc as his own son. His political enemies even use it to attack him as an 'orc sympathizer.' That's clearly unfair to the arena master." Vereesa said. "As far as I know, if 'Slave' lost a match — even if he just underperformed — like those forest trolls, he'd get a beating."
+"A lot of people think Blackmoore sees that orc as his own son. His political enemies even use it to attack him as an 'orc sympathizer.' That's clearly unfair to the arena master." Vereesa said. "As far as I know, if 'Thrall' lost a match — even if he just underperformed — like those forest trolls, he'd get a beating."
 
 "Hard to imagine he was badly hurt, then punished, and still had the strength to escape the castle under Blackmoore's nose." Jace said.
 
@@ -76,13 +76,13 @@ But in another timeline, when Thrall returned to Durnholde and led the orcs in b
 
 "Did she talk?" Jace asked.
 
-"Talk? She insisted she not only didn't help the orc escape — the orc had threatened to kill her and her family if she breathed a word." She sighed. "A clever and strong girl, isn't she? Maybe that 'slave' really does have some extraordinary charm, to make a human girl cover for him like that... Wait a minute, Jace. Is this the dead Frostwolf chieftain's only son we talked about during our visit to the Frostwolf camp last time?"
+"Talk? She insisted she not only didn't help the orc escape — the orc had threatened to kill her and her family if she breathed a word." She sighed. "A clever and strong girl, isn't she? Maybe that 'Thrall' really does have some extraordinary charm, to make a human girl cover for him like that... Wait a minute, Jace. Is this the dead Frostwolf chieftain's only son we talked about during our visit to the Frostwolf camp last time?"
 
 "Very likely." Jace said. "And I think he might be close to finding his kinsmen in the mountains."
 
 The ranger frowned for a moment. "So this is important. That dead Frostwolf chieftain had a lot of prestige among the wandering orcs."
 
-"Is there any way the Farstriders could protect that Miss Tari first? Don't let Blackmoore kill her?" Jace said. "Under the guise of continuing to question her about 'Slave's' escape."
+"Is there any way the Farstriders could protect that Miss Tari first? Don't let Blackmoore kill her?" Jace said. "Under the guise of continuing to question her about 'Thrall's' escape."
 
 "Probably doable. But do you think she's really that important to the orc prince?" Vereesa asked.
 

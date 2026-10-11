@@ -4,7 +4,7 @@ At noon Jace got home, and the little imp was still copying away tirelessly. The
 
 Jace sat on the edge of the bed and watched the little demon scribble at furious speed, the ink level dropping visibly. This ink was so expensive… how long would it take to copy an entire book?
 
-Think of the sheer mountain of books in the Wizard Sanctum's library — they couldn't all have been written by magic, could they?
+Think of the sheer mountain of books in the Wizard's Sanctum's library — they couldn't all have been written by magic, could they?
 
 Just the thought of having to buy ink gave him a headache.
 
@@ -12,7 +12,7 @@ His sword had broken, too. Five silver would've been better spent on a bottle of
 
 Right — he should have claimed a sword back at Stonewatch. No idea if they'd have given him one, but they probably would have. Too late now.
 
-He had to secure that Orcish exchange spot. Otherwise the trip to Dalaran would cost him out of pocket too, and Winter Veil travel would only get pricier — dwarves, humans, everyone heading home for the holidays. If the Wizard Sanctum wasn't covering it, the ship tickets would cost way more than they did now. How much would he have to spend?
+He had to secure that Orcish symposium spot. Otherwise the trip to Dalaran would cost him out of pocket too, and Winter Veil travel would only get pricier — dwarves, humans, everyone heading home for the holidays. If the Wizard's Sanctum wasn't covering it, the ship tickets would cost way more than they did now. How much would he have to spend?
 
 Jace let out a deep sigh.
 
@@ -28,7 +28,7 @@ Realizing his current vocabulary was nowhere near enough to decipher the text, a
 
 "Sazeno — come take a look at what this says."
 
-The imp leaned over and glanced at it. "Luhrakunkta, Luarakupta… This is an incantation, master. A very evil incantation."
+The imp leaned over and glanced at it. "Luhravenkta, Luarakipta… This is an incantation, master. A very evil incantation."
 
 Jace's eyelid twitched. He remembered exactly how this little creature described shadow and fel — not as dark magic or dark power, but as a shortcut on the broad road to success, an absolutely magnificent force.
 
@@ -52,15 +52,15 @@ What did "damaging vitality" and "damaging life" actually mean?
 
 It was a form of self-mutilation — after all, even the imp said this spell was evil enough that not even demons were willing to use it.
 
-"Luhrakunkta, Luarakupta…"
+"Luhravenkta, Luarakipta…"
 
-Jace had been about to follow along and familiarize himself with the incantation when he forced himself to stop mid-chant. He remembered the time he'd casually recited an incantation at Marin's and ended up starting a fire.
+Jace had been about to follow along and familiarize himself with the incantation when he forced himself to stop mid-chant. He remembered the time he'd casually recited an incantation at Malin's and ended up starting a fire.
 
-Then again, most spells wouldn't activate that easily — like Marin had said, there were many casting conditions to fulfill.
+Then again, most spells wouldn't activate that easily — like Malin had said, there were many casting conditions to fulfill.
 
 But dark magic had always played by its own rules. For all he knew, those dark things were lurking all around him, just waiting for him to speak the words — maybe they wouldn't even wait for him to finish before eagerly rushing out on their own.
 
-Ever since hearing Marin's "energy consciousness theory," Jace had felt like he was being watched by a mountain of shadow energy at all times.
+Ever since hearing Malin's "energy consciousness theory," Jace had felt like he was being watched by a mountain of shadow energy at all times.
 
 He took stock of his body's sensations and the air around him, and only relaxed once he'd confirmed that reciting it hadn't stirred the slightest ripple of shadow energy.
 
@@ -70,7 +70,7 @@ He took stock of his body's sensations and the air around him, and only relaxed 
 
 "Why?" Jace said. "Do you know something about it?"
 
-"The more this magic is used, the more even demons get shadowed." The imp touched its own face. "Their skin turns black, the fel fire in their eyes dims little by little, turning deep red, and eventually they step into the shadow domain and be consumed by the Void. There are many spells like this one, and this is the easiest to learn. Demons are the least susceptible beings to shadow energy, you know — our flesh is fel, our power is surging chaotic fel-fire, our food is undisturbed arcane — all these forces are enough to repel shadow's irreversible influence. But if your own will invites shadow in, then it enters, becomes a part of your body, and asking it to leave again is hard!"
+"The more this magic is used, the more even demons get shadowed." The imp touched its own face. "Their skin turns black, the fel fire in their eyes dims little by little, turning deep red, and eventually they step into the shadow domain and are consumed by the Void. There are many spells like this one, and this is the easiest to learn. Demons are the least susceptible beings to shadow energy, you know — our flesh is fel, our power is surging chaotic fel fire, our food is undisturbed arcane — all these forces are enough to repel shadow's irreversible influence. But if your own will invites shadow in, then it enters, becomes a part of your body, and asking it to leave again is hard!"
 
 For some reason, Jace suddenly remembered the warlocks back when he used to play — the ones who, for the sake of mana sustain, refused to sit down and eat, and instead Life Tapped frantically on the move, eventually drawing the furious combined rage of the healers and the raid leader.
 
@@ -91,15 +91,3 @@ Especially given Jace's experience using it — a single elite warrior could res
 In other words, his Fear was far from powerful enough. Since the incantation itself wasn't the problem, maybe it was the pronunciation — exactly like what Sazeno had said last time about Demonic pronunciation.
 
 If he could train his Fear to the point where it could scare a hatchling dragon into lying on the ground and not daring to move, then spending a trump card like Life Tap to power it would be worth the price.
-
-## Flags
-
-- **生命分流 (Life Tap):** Warlock spell (HP-to-mana conversion). Not in glossary; standard WoW spell name.
-- **血转蓝:** Jace's informal rendering of Life Tap; translated as "Life Tap" in his internal monologue.
-- **卢赫拉文克塔 / 卢阿拉基普塔 (Luhrakunkta / Luarakupta):** The Life Tap incantation in Demonic/Orcish. Not in glossary; rendered phonetically.
-- **暗影魔 (Shadowfiend):** WoW warlock summon/creature. Not in glossary; standard WoW term.
-- **恐惧术 (Fear):** Warlock spell. Not in glossary; standard WoW spell name.
-- **暗影议会 (Shadow Council):** Rendered per glossary.
-- **兽人术士 (orc warlock):** Rendered per glossary class/race terms.
-- **邪能 (fel) / 邪火 (fel-fire):** Standard WoW fel energy terminology. Not in glossary; rendered per standard usage.
-- **能量意识说 ("energy consciousness theory"):** Marin's in-world theory about sentient magical energy. Not in glossary; descriptive translation.

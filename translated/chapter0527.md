@@ -1,6 +1,6 @@
 ## Chapter 527: Nature Magic
 
-Musa Woolbraid was badly injured. Even with the healing potion, she still limped when she walked.
+Mosa Woodmane was badly injured. Even with the healing potion, she still limped when she walked.
 
 She led the three of them to a hidden little cave, her eyes warily fixed on the two demons following Jace the whole time, and she never said a word to Jace.
 
@@ -14,7 +14,7 @@ Grede was talking a lot less now. He sat down next to Jace and asked in a low vo
 
 "She can't possibly like me," Grede whispered. "I'm a dwarf, she's a cow. That's way too far a stretch, isn't it?"
 
-"How the hell would I know what tauren think," Jace said, clearing his throat and stealing a glance at Musa. "Why don't you go ask her yourself?"
+"How the hell would I know what tauren think," Jace said, clearing his throat and stealing a glance at Mosa. "Why don't you go ask her yourself?"
 
 "That'd have to go through the elf translating? I'm not having her say stuff like that," Grede grumbled. "Makes it sound like I actually care!"
 
@@ -26,7 +26,7 @@ Grede immediately glared. "Look, look — look at that, Jace Sesso. Damn it. The
 
 Grede nodded as if a light had gone on. "That makes sense."
 
-"Besides," Jace said, "liking you is better than hating you, isn't it? I feel like this tauren wants to smash me to death any second — at least she's not thinking about doing that to you. And we're only in Kalimor for this one trip. When we go back, nobody'll know anybody. By then she'll have forgotten about you. And aren't you some kind of romance expert? Why are you acting like a lovesick teenager, all anxious and insecure."
+"Besides," Jace said, "liking you is better than hating you, isn't it? I feel like this tauren wants to smash me to death any second — at least she's not thinking about doing that to you. And we're only in Kalimdor for this one trip. When we go back, nobody'll know anybody. By then she'll have forgotten about you. And aren't you some kind of romance expert? Why are you acting like a lovesick teenager, all anxious and insecure."
 
 "If a jungle troll or an ogre liked you, let's see how calm you'd be!" Grede pressed close and said through gritted teeth.
 
@@ -46,15 +46,15 @@ Grede eyed the succubus cozying up to Jace, grimaced in discomfort, then looked 
 
 "Hey, Vereesa — haven't you talked about how we go on from here?" the dwarf asked.
 
-"Oh, right," Vereesa snapped back to attention. "She was telling me just now — if we want to get to the northern plains, she knows a little path that climbs out of the Stone Pillar Valley while avoiding the areas the centaurs control. About three or four days' walk. But she also warned me that there might be some quilboar patrolling up there."
+"Oh, right," Vereesa snapped back to attention. "She was telling me just now — if we want to get to the northern plains, she knows a little path that climbs out of the Needles while avoiding the areas the centaur control. About three or four days' walk. But she also warned me that there might be some quilboar patrolling up there."
 
-"Azgoth," Jace said. "That's the quilboars' home. If we want to get to the north, we have to go through there."
+"Agama'gor," Jace said. "That's the quilboar's home. If we want to get to the north, we have to go through there."
 
-Hearing what Jace said, the tauren looked over and nodded, repeating, "Azgoth."
+Hearing what Jace said, the tauren looked over and nodded, repeating, "Agama'gor."
 
 Well, at least they were talking now.
 
-Just then, Musa stood up and said a few things to Vereesa. Jace asked, "What's she doing?"
+Just then, Mosa stood up and said a few things to Vereesa. Jace asked, "What's she doing?"
 
 "She's going to cast a spell," Vereesa said.
 
@@ -70,7 +70,7 @@ This wasn't Jace's imagination. Sazeno next to him had noticed it too, pointing 
 
 "Life magic," Morophil said evenly.
 
-As the leaves gradually regained their vitality, the tauren's mane grew visibly glossy and smooth, and her skin filled out. When she finished casting and opened her eyes again, the whole person looked much more spirited than before.
+As the leaves gradually regained their vitality, the tauren's mane grew visibly glossy and smooth, and her skin filled out. When she finished casting and opened her eyes again, she looked much more spirited than before.
 
 She tentatively touched the wound under her ribs where the spear had pierced — and it had basically healed by now, with only some dried blood clinging to the mane.
 
@@ -84,11 +84,11 @@ The tauren looked at Grede and asked something in Thalassian. Vereesa said, "She
 
 Grede quickly waved his hands. "No, not at all. How could I be hurt by those crude beasts?!"
 
-But before Vereesa could say anything, Musa raised her hand and cast again. Jace stepped aside and watched the wind of nature wrap around the dwarf.
+But before Vereesa could say anything, Mosa raised her hand and cast again. Jace stepped aside and watched the wind of nature wrap around the dwarf.
 
 "Really no need to heal me," Grede said, standing up and leaning against the wall. After the nature magic swept over him, he took a deep breath, looked around with wide eyes, and said, "That… that feels amazing. I feel like I'm not tired anymore!"
 
-Seeing Grede's delighted expression, Musa nodded in satisfaction, then sat down on the ground all at once. When a two-meter-tall monster like that sat down, the whole little cave seemed to shake.
+Seeing Grede's delighted expression, Mosa nodded in satisfaction, then sat down on the ground all at once. When a two-meter-tall monster like that sat down, the whole little cave seemed to shake.
 
 That's when Jace suddenly noticed a trickle of blood coming from Grede's nose.
 

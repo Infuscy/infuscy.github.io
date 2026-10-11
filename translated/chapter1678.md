@@ -24,7 +24,7 @@ But the red dragon paid them no attention at all. It was as if he was deliberate
 
 Vereesa shot Jace a surprised look, but she didn't hesitate or doubt. She simply nodded and led Jace out of the chamber before it caved in completely, back into the narrow tunnel.
 
-The passage was a bit more stable, but the violent shaking continued. The two hurried forward, faster and faster, neither knowing what the deathly still "Twilight Hour" outside had turned into now. Whatever it was, they needed to reach open ground first.
+The passage was a bit more stable, but the violent shaking continued. The two hurried forward, faster and faster, neither knowing what the deathly still "Hour of Twilight" outside had turned into now. Whatever it was, they needed to reach open ground first.
 
 After a few steps, the tunnel walls seemed to stop crumbling and cracking. Vereesa asked, "Do you know what that was, Jace?"
 
@@ -40,9 +40,9 @@ A demon. A demon that could slip into dreams and control others' minds. A demon 
 
 Jace said it as all the suspicion and doubt along the way settled into solid certainty at that moment.
 
-In another timeline, Kael'thas Sunstrider, after failing at the Tempest Keep, chose to fully align himself with the Burning Legion. After returning from Outland, he planned to use the Sunwell's power to summon the Deceiver, Kil'jaeden, directly into Quel'Thalas.
+In another timeline, Kael'thas Sunstrider, after failing at Tempest Keep, chose to fully align himself with the Burning Legion. After returning from Outland, he planned to use the Sunwell's power to summon the Deceiver, Kil'jaeden, directly into Quel'Thalas.
 
-To stop his mad plan, the Spell-Weaver sent two young blue dragon emissaries, Kalecgos and Madigos, to help the Shattered Sun offensive push into the Sunwell Plateau, already occupied by the demon legions under Brutallus's command.
+To stop his mad plan, the Spell-Weaver sent two young blue dragon emissaries, Kalecgos and Madrigosa, to help the Shattered Sun Offensive push into the Sunwell Plateau, already occupied by the demon legions under Brutallus's command.
 
 But Kalecgos had barely arrived before he fell into a Nathrezim's trap. The Corruptor, Sathrovarr, had slipped directly into his consciousness, enslaved his mind, and turned him into a gatekeeper for the Sunwell Plateau. Unless someone entered Kalecgos's mind and destroyed Sathrovarr, Kalecgos could never wake up.
 
@@ -50,7 +50,7 @@ Jace figured this was more or less the same situation. Maybe for a dreadlord, di
 
 To control them and achieve maximum destruction, they had to enter the dreams and manipulate their consciousness directly.
 
-But which dreadlord was this? Was it Kruzath, the dreadlord who controlled the Soul Song in another timeline? Or the Corruptor Sathrovarr himself?
+But which dreadlord was this? Was it Culuthas, the dreadlord who controlled the Spirit's Song in another timeline? Or the Corruptor Sathrovarr himself?
 
 None of that mattered right now. What mattered was finding that demon. After all, stuck in this chaotic world, the two of them had enough trouble just surviving.
 
@@ -70,27 +70,27 @@ Vereesa jumped nimbly over a cracked crevice. "Kil'jaeden definitely knows that 
 
 "Very likely." Jace paused. "Right now I don't even know whether I hope he knows or not."
 
-Vereesa sighed. "When Kadzan portaled us out back there, Jace — the whole of Blackrock Spire was crawling with reanimated corpses. Even Karrelz's felhound legion couldn't handle it all at once. I don't know if you could really stop Nefarian's spell, but for a moment I almost lost hope... Was that the dreadlord's scheme?"
+Vereesa sighed. "When Khadgar portaled us out back there, Jace — the whole of Blackrock Spire was crawling with reanimated corpses. Even Kallrez's felhound legion couldn't handle it all at once. I don't know if you could really stop Nefarian's spell, but for a moment I almost lost hope... Was that the dreadlord's scheme?"
 
-"Even Marshal Anduin Lothar — Kadzan said the marshal's will had been twisted by Nefarian to defend the tormented souls of Blackrock Spire, and even his magic couldn't break through. Was that also what the demon taught Nefarian? The plan to trap us all inside Blackrock Spire?"
+"Even Marshal Anduin Lothar — Khadgar said the marshal's will had been twisted by Nefarian to defend the tormented souls of Blackrock Spire, and even his magic couldn't break through. Was that also what the demon taught Nefarian? The plan to trap us all inside Blackrock Spire?"
 
 "But he never expected your magic could break everything." The ranger looked back at Jace. "You defeated Nefarian, Jace."
 
-"With some help from the Potion of Destruction," Jace said.
+"With some help from the Destruction Potion," Jace said.
 
-"He had the Atama Crystal too." Vereesa dodged a falling piece of rubble. "Seems like the Soul Song was the centerpiece of his whole plan."
+"He had the Ata'mal Crystal too." Vereesa dodged a falling piece of rubble. "Seems like the Spirit's Song was the centerpiece of his whole plan."
 
-"When Nefarian was cursing your name in despair, everyone racing to the top of Blackrock Spire heard it. Turalyon, King Varian, Kadzan... Alleria even cried, because she knew you'd won — but she hadn't dared to be that optimistic before. None of us expected he'd come straight for you, and you'd have to face him alone..."
+"When Nefarian was cursing your name in despair, everyone racing to the top of Blackrock Spire heard it. Turalyon, King Varian, Khadgar... Alleria even cried, because she knew you'd won — but she hadn't dared to be that optimistic before. None of us expected he'd come straight for you, and you'd have to face him alone..."
 
 As she finished, the whole tunnel shook again. The two had to stop talking and steady themselves. Jace looked up. "Why does this dream feel so... real?"
 
-"You can thank Ursula Delrin for that," the ranger said. "In a way, she helped you defeat Nefarian, helped Sora cast that sleeping spell deep enough to trap Vaelastrasz so he couldn't escape... Wait. The exit's up ahead."
+"You can thank Ursula Deline for that," the ranger said. "In a way, she helped you defeat Nefarian, helped Sola cast that sleeping spell deep enough to trap Vaelastrasz so he couldn't escape... Wait. The exit's up ahead."
 
 "Why does getting out feel so long?" Jace squinted at the faint light ahead.
 
 "Maybe... things have changed. We need to be careful." Vereesa lowered her voice.
 
-Jace sensed a shadow flickering ahead again, but much fuzzier than before. He knew it was the Demon Detection Sight at work, but in the dream, the shadow was chaotic and indistinct, as if it had spread across a huge area.
+Jace sensed a shadow flickering ahead again, but much fuzzier than before. He knew it was his Sense Demons at work, but in the dream, the shadow was chaotic and indistinct, as if it had spread across a huge area.
 
 Still — didn't that at least mean the demon was waiting for them up there?
 

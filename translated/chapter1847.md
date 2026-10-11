@@ -12,7 +12,7 @@ Turalyon looked back at him. Jace knew the paladin could feel it too — that un
 
 A dragon's roar tore through the oppressive silence from the south. It was Ysera's cry. Soon, answering roars from the dragonflight echoed across the entire city sky. Even the weeds sprouting between the brick cracks — withered by the pervading fel energy — seemed to surge upward as if encouraged by the Dream Queen.
 
-Not many beings in this world could push a Dragonqueen to this level of fury. Jace knew exactly whose arrival had provoked her. He could guess what was happening in the south.
+Not many beings in this world could push a Dragon Aspect to this level of fury. Jace knew exactly whose arrival had provoked her. He could guess what was happening in the south.
 
 "Hurry! Get everyone inside!" Arthas shouted to the knights beside him. "Don't waste the time these dragons are buying us. We'll hold the pursuing demons here. Once you're in, don't stop... Don't go into the western sewer — that's where the demons landed. Head straight for the eastern side. If we're lucky, there's a passage there that can get several thousand people out in an hour, into Tirisfal Glades. Maybe we can catch up with the people heading east toward the monastery. May the Light protect them... and us."
 
@@ -30,37 +30,37 @@ Soon, fel ash rained down like a storm. It burned and corroded any skin it touch
 
 Though the buildings blocked his view of what was happening in the south, the blessings and healing the green dragons had granted were rapidly fading. Everyone's will teetered on the brink of collapse.
 
-A hoarse but familiar dragon's cry came from overhead. Jace looked up to see Needle Flame descending nearby, carrying several wounded knights and rangers. At this point, the sight of a genuine black dragon barely drew a reaction from Lordaeron's soldiers or even the civilians.
+A hoarse but familiar dragon's cry came from overhead. Jace looked up to see Needleflame descending nearby, carrying several wounded knights and rangers. At this point, the sight of a genuine black dragon barely drew a reaction from Lordaeron's soldiers or even the civilians.
 
-After setting them down, Needle Flame turned and spotted Jace. "Vereesa told me to find you..."
+After setting them down, Needleflame turned and spotted Jace. "Vereesa told me to find you..."
 
-"Get into the Undercity with everyone else, Needle Flame. Take human form!" Jace pointed at the ramp leading down.
+"Get into the Undercity with everyone else, Needleflame. Take human form!" Jace pointed at the ramp leading down.
 
-"I can still fight!" Needle Flame spread her wings, sweeping away a cloud of fel-volcanic ash, and stalked forward angrily. "I'm not badly hurt. I can save more people..."
+"I can still fight!" Needleflame spread her wings, sweeping away a cloud of fel-volcanic ash, and stalked forward angrily. "I'm not badly hurt. I can save more people..."
 
-"That's enough, Needle Flame." Jace grabbed one of her horns. "Get out of here. The green dragon queen is buying time for our retreat — not so we can fight a decisive battle with the Burning Legion here. We still need to find Grede later. We'll need your help!"
+"That's enough, Needleflame." Jace grabbed one of her horns. "Get out of here. The green dragon queen is buying time for our retreat — not so we can fight a decisive battle with the Burning Legion here. We still need to find Grede later. We'll need your help!"
 
 "I know. I know..."
 
-The black dragon spat out a plume of black smoke in frustration, then shifted into human form in the dust. She was about to descend the steps when Jace grabbed her again. "Where's Solara?"
+The black dragon spat out a plume of black smoke in frustration, then shifted into human form in the dust. She was about to descend the steps when Jace grabbed her again. "Where's Sola?"
 
-Needle Flame froze. "I saw her helping the other green dragons evacuate Silver Hand soldiers trapped on the western wall, Jace Sesso. I can go find her now."
+Needleflame froze. "I saw her helping the other green dragons evacuate Silver Hand soldiers trapped on the western wall, Jace Sesso. I can go find her now."
 
 "Get inside!" Jace pointed forcefully at the crowd streaming down the ramp. "Do as I say!"
 
-"But what about Solara?" Needle Flame shouted. "She hasn't come back yet!"
+"But what about Sola?" Needleflame shouted. "She hasn't come back yet!"
 
-"Do you doubt her magic, Needle Flame? She's faster than you. Stronger than you. Listen to me — don't make her worry about you on top of everything else. Now get in there!"
+"Do you doubt her magic, Needleflame? She's faster than you. Stronger than you. Listen to me — don't make her worry about you on top of everything else. Now get in there!"
 
-Needle Flame ground her teeth in fury, but finally said, "Then you'd better hurry."
+Needleflame ground her teeth in fury, but finally said, "Then you'd better hurry."
 
-"I'll wait for Vereesa and Solara, then go in right behind you," Jace said.
+"I'll wait for Vereesa and Sola, then go in right behind you," Jace said.
 
 She nodded, glanced one more time at the sky, and turned to follow the crowd.
 
 But even as he said it, Jace stared up at the sky, listening to the green and red dragons' cries, his mind a blank.
 
-He couldn't let Needle Flame go back out there.
+He couldn't let Needleflame go back out there.
 
 Then a sudden surge of void-fury exploded from the south. Jace felt his consciousness tear apart with the rage. Thousands of souls screamed in unison, unleashing the hatred and fury they'd held when they were killed.
 
@@ -74,7 +74,7 @@ A group of Quel'Thalas elves arrived from the northern streets. Sylvanas and Tur
 
 "Jace... are they all inside?"
 
-"Solara and Morofil are still out there," Jace said. "Morofil I can summon back. Solara?"
+"Sola and Morophil are still out there," Jace said. "Morophil I can summon back. Sola?"
 
 "I tried to reach her through dream magic. Told her we were retreating here." Vereesa said. "I said we'd be at the Dalaran Embassy. Maybe she hasn't gotten the message yet."
 
@@ -120,7 +120,7 @@ Several Quel'dorei lay around her. Some still breathed weakly. Others were alrea
 
 Jace shouted behind him. The Lordaeron prince clutched his warhammer, struggling to rise at Jace's call. But the golden light in his hand had vanished without a trace. He looked like he might collapse at any second.
 
-Sylvanas was the first to reach them, kneeling beside Jace and Vereesa. She grabbed her sister's shoulder and pulled a flask from her belt — a brilliant golden Sunwell water. In this blood-red sky, only that flask held any color.
+Sylvanas was the first to reach them, kneeling beside Jace and Vereesa. She grabbed her sister's shoulder and pulled a flask from her belt — brilliant golden Sunwell water. In this blood-red sky, only that flask held any color.
 
 "Don't feed her that here. The shadow energy will corrode the arcane power quickly." Jace grabbed the Ranger-General's wrist. "Take her below. Feed it to her there. The deeper, the better. Away from this shadow!"
 
@@ -128,11 +128,11 @@ Sylvanas nodded, holding her sister close. She pushed the flask toward Jace. "Yo
 
 "Thank you. Thank you." Jace took the flask, helping another still-breathing Quel'dorei nearby. Turalyon and another paladin arrived from the ramp to help rescue people too. A dull impact came from above — the Dalaran Embassy's tall tower. Jace blinked and looked up. A green dragon had just crashed into the tower's outer wall, falling onto the roof.
 
-Blood-red dust and rubble swallowed everything. But in that instant, Jace saw the whelp's face. The eyes that should have held moonlight had gone pale. The emerald scales had lost all luster.
+Blood-red dust and rubble swallowed everything. But in that instant, Jace saw the drake's face. The eyes that should have held moonlight had gone pale. The emerald scales had lost all luster.
 
 He was dead.
 
-Not just this whelp. All across the blood-red city sky, the whelps that had been fighting demons were falling like rain. Some were already dead. Others were barely alive, struggling as they fell. Alleys behind him, the other side of the canal, the end of the street ahead, the direction of the church — thud, thud, thud...
+Not just this drake. All across the blood-red city sky, the drakes that had been fighting demons were falling like rain. Some were already dead. Others were barely alive, struggling as they fell. Alleys behind him, the other side of the canal, the end of the street ahead, the direction of the church — thud, thud, thud...
 
 "Jace!"
 
@@ -142,12 +142,12 @@ Turalyon was supporting a Farstrider at the edge of the ramp, shouting, "Come on
 
 Sylvanas was shouting too. But the voice was no longer clear.
 
-I've already abandoned the dwarf. Do I abandon Solara too?
+*I've already abandoned the dwarf. Do I abandon Sola too?*
 
-And then who else will you leave behind, Jace Sesso? What have you even been fighting for?
+*And then who else will you leave behind, Jace Sesso? What have you even been fighting for?*
 
-What are you fighting for, Jace Sesso? What are you living for?
+*What are you fighting for, Jace Sesso? What are you living for?*
 
-Never abandon me again, Jace. Never again...
+*Never abandon me again, Jace. Never again...*
 
-I won't...
+*I won't...*

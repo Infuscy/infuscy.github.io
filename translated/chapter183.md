@@ -40,11 +40,11 @@ He wore a blue mage's robe with a gold-threaded sash and a long cloak, golden ha
 
 In both dress and bearing, he looked far more like a pure Quel'Thalas-schooled mage than a Kirin Tor elven member.
 
-"Hello. I am Remi Stargazer, of the Relics Society. Is Mr. Jace Sesso here?"
+"Hello. I am Remi Stargazer, of the Reliquary. Is Mr. Jace Sesso here?"
 
 "I'm Jace Sesso."
 
-Jace turned it over in his mind, wondering what the Relics Society could possibly want with him.
+Jace turned it over in his mind, wondering what the Reliquary could possibly want with him.
 
 It wasn't that the staff had been discovered, was it?
 
@@ -64,19 +64,19 @@ After saying goodbye to Dushan, the two of them went to the Azure Encounter. Rem
 
 Remi's Common was near-perfect. Forget Jace's Brill-farmstead accent — even the Menethil royal house probably didn't speak it that well.
 
-"You may have heard of the Relics Society."
+"You may have heard of the Reliquary."
 
 "I have," Jace said.
 
-Remi nodded. "You might think the Relics Society is an organization loyal to Quel'Thalas, or even to the Sunstrider royal house. On the surface, that's true enough. But our actual purpose isn't to serve anyone in particular — it's to seek out the various holy relics, artifacts, and even weapons left over from ages past, to unravel their secrets and knowledge, in order to achieve our ultimate goal: helping the Quel'dorei break free of their dependence on magic, once and for all. You may have heard of the affliction that's plagued our people for tens of thousands of years. Some call it magical addiction."
+Remi nodded. "You might think the Reliquary is an organization loyal to Quel'Thalas, or even to the Sunstrider royal house. On the surface, that's true enough. But our actual purpose isn't to serve anyone in particular — it's to seek out the various holy relics, artifacts, and even weapons left over from ages past, to unravel their secrets and knowledge, in order to achieve our ultimate goal: helping the Quel'dorei break free of their dependence on magic, once and for all. You may have heard of the affliction that's plagued our people for tens of thousands of years. Some call it magical addiction."
 
 "I've heard of it too," Jace nodded.
 
 Remi Stargazer spoke with such rigid formality that, even though all manner of pastries and dishes had been laid out and Jace was starving, he still felt a little awkward digging in. In the end he just lifted his cup and sipped some juice.
 
-Remi went on: "I'm giving you this brief introduction because I don't want you to be wary of me, or even hostile. We may not be the same race, but I would never do anything to harm the alliance between elves and humans. I'm here on the introduction of the host of the Quel'Thalas embassy in Dalaran, Aethas Sunreaper, who recounted to me what happened at last night's Orcish-language discussion meeting."
+Remi went on: "I'm giving you this brief introduction because I don't want you to be wary of me, or even hostile. We may not be the same race, but I would never do anything to harm the alliance between elves and humans. I'm here on the introduction of the host of the Quel'Thalas embassy in Dalaran, Aethas Sunreaver, who recounted to me what happened at last night's Orcish symposium."
 
-The Relics Society. The Orcish-language discussion meeting. Aethas Sunreaper.
+The Reliquary. The Orcish symposium. Aethas Sunreaver.
 
 Even though this Remi had talked a lot without getting to the point, Jace had already more or less guessed what he was after.
 
@@ -90,7 +90,7 @@ This guy's laying it on this thick — he's not about to hit me with some sugar-
 
 Still, thinking that didn't stop Jace from feeling rather pleased. The sugar coating had, in fact, punched right through his armor.
 
-He glanced at the food on the table, swallowed, and said, "But it's just a letter. Everything written on it has already been fully translated by the masters at the meeting. With Master Aethas and his students' memories, they probably have it memorized down to the last word by now. I don't quite understand — isn't the Relics Society supposed to be an organization that searches for magical holy relics? Are you planning to use those few scraps of text to find all the remaining relics?"
+He glanced at the food on the table, swallowed, and said, "But it's just a letter. Everything written on it has already been fully translated by the masters at the meeting. With Master Aethas and his students' memories, they probably have it memorized down to the last word by now. I don't quite understand — isn't the Reliquary supposed to be an organization that searches for magical holy relics? Are you planning to use those few scraps of text to find all the remaining relics?"
 
 "The remaining one relic," Remi corrected.
 
@@ -102,13 +102,13 @@ He popped a piece of cured fruit into his mouth and said, "Haven't you heard tha
 
 Jace thought, this guy really does have something going on… I wonder if he can "sympathize" out whatever other problems I've got going on?
 
-Remi didn't say anything further on that front. He continued: "Senior examiners of the Relics Society can read hidden information in a mage's letter that a linguist could never uncover — including, but not limited to, their mana, their mental state, their physical condition, their emotions… And from those clues, we can gather a tremendous amount of extra information, turning something that might have been worth very little into a priceless treasure."
+Remi didn't say anything further on that front. He continued: "Senior examiners of the Reliquary can read hidden information in a mage's letter that a linguist could never uncover — including, but not limited to, their mana, their mental state, their physical condition, their emotions… And from those clues, we can gather a tremendous amount of extra information, turning something that might have been worth very little into a priceless treasure."
 
 "I see," Jace nodded.
 
 "If you're amenable, name your price, Mr. Sesso," Remi Stargazer said, shifting gears so fast it caught Jace off guard. All that circling around, and now he was this direct?
 
-Jace's mental price point was, of course, four gold — that was the judgment he'd made back in Stormwind. But since this Relics Society was clearly well-funded, he ought to squeeze them for a little more.
+Jace's mental price point was, of course, four gold — that was the judgment he'd made back in Stormwind. But since this Reliquary was clearly well-funded, he ought to squeeze them for a little more.
 
 "I've never done this kind of business before, Master," Jace said. "You make the offer!"
 
@@ -133,14 +133,3 @@ He set a pouch on the table and added two more gold coins to it from his own poc
 Jace watched Remi walk out of the tavern, felt the coin pouch on the table, then touched the wound on his shoulder and hissed — confirming all of this was real.
 
 Then he looked at the gnome busboy wiping down tables up front and said, "Excuse me, sir, could you wrap up these pastries to go… thank you."
-
-## Flags
-
-- **雷米·观星** → Remi Stargazer. Not in the glossary; OC elven mage. 观星 rendered as "Stargazer."
-- **遗物学会** → the Relics Society. Not in the glossary; a Quel'Thalas organization in the source.
-- **艾萨斯·夺日者** → Aethas Sunreaper. Not in the glossary; canonical Kirin Tor elf.
-- **交感** → sympathy. Not in the glossary; the magic-sensing ability described in-text. Rendered as "sympathy" to match the sympathetic-magic resonance concept.
-- **魔法回响** → magical resonance. Not in the glossary; the in-world term for residual mana traces on objects.
-- **奎尔多雷** → Quel'dorei. Not in the glossary; the Thalassian term for the high elves (distinct from Sin'dorei).
-- **魔瘾** → magical addiction. Not in the glossary; the Quel'dorei's arcane dependency.
-- **达拉然之眼** → Eye of Dalaran. Distinct from the glossary's 奥术之眼 (Eye of the Arcane). The source explicitly calls it the legendary relic of the Order of Tirisfal, so I kept it separate.

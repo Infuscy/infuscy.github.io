@@ -2,13 +2,13 @@
 
 "Why?" Jace asked.
 
-"That means its wielder has already learned to control its power, my dear master." She glanced at Windrunner beside her. "What you mentioned earlier — that when this death blade first appeared in the world it destroyed a village — I imagine that village was destroyed in endless madness, self-mutilation, and mutual slaughter."
+"That means its wielder has already learned to control its power, my dear master." She glanced at Vereesa beside her. "What you mentioned earlier — that when this death blade first appeared in the world it destroyed a village — I imagine that village was destroyed in endless madness, self-mutilation, and mutual slaughter."
 
-Windrunner nodded slightly. "At least that's what the books say... I think it was several decades ago, before the Dark Portal was even opened."
+Vereesa nodded slightly. "At least that's what the books say... I think it was several decades ago, before the Dark Portal was even opened."
 
 "That more or less corroborates what I've heard, doesn't it?" Morophil said to Jace with a smile. "When some fool incapable of wielding it gets hold of this sword, the power it releases runs completely out of control, driving everyone nearby insane and turning them into vessels for the Nathrezim to spread plague and death — which, of course, is one of the original purposes the Nathrezim created it for, Quel'dorei. But when a true warrior or spellcaster capable of controlling its power emerges, they often appear in the role of a savior — say, a hero attempting to save a village, or a mage seeking to destroy the sword — and then it quickly drives this unfortunate new master to bring even greater, uncontrollable chaos upon the world."
 
-As she spoke, she fixed her gaze intently on Windrunner, as if the ranger were especially suited to being that village-saving hero.
+As she spoke, she fixed her gaze intently on Vereesa, as if the ranger were especially suited to being that village-saving hero.
 
 Actually, Morophil's description couldn't help but remind Jace of an even more famous sword — Frostmourne, the demon blade that had lured the Lordaeron prince Arthas Menethil into the tundra, urged him to draw the weapon, slaughter his companions and subordinates, and fall to become a death knight... it sounded like it shared a similar power with the Apocalypse.
 
@@ -18,107 +18,107 @@ Of course, Frostmourne was still unknown in Azeroth at this point. The Apocalyps
 
 "Sargeras... hah! That's debatable, but the power of this sword is definitely no exaggeration!" the imp said unhappily.
 
-Sola said, "That group of dark riders has a clear objective. They had no intention of destroying anyone or anything along the way — at least they didn't do anything to Everlook, did they? According to what you said, succubus, they should have... caused some trouble by now."
+Sola said, "That group of Dark Riders has a clear objective. They had no intention of destroying anyone or anything along the way — at least they didn't do anything to Everlook, did they? According to what you said, succubus, they should have... caused some trouble by now."
 
-"Probably because of Medivh," Jace said. "Those dark riders follow Medivh's orders to collect artifacts in secret. When Medivh gave his orders, he certainly didn't want them drawing too much attention and bringing the Order of Tirisfal down on their trail."
+"Probably because of Medivh," Jace said. "Those Dark Riders follow Medivh's orders to collect artifacts in secret. When Medivh gave his orders, he certainly didn't want them drawing too much attention and bringing the Order of Tirisfal down on their trail."
 
-"Then we really should set out immediately," Grede said in a low voice. "If those people get their hands on Ursulus first, who in this world could deal with them then?"
+"Then we really should set out immediately," Grede said in a low voice. "If those people get their hands on Ulthalesh first, who in this world could deal with them then?"
 
-Hearing this, Jace shot Grede a glance. Actually, in the game, after the Black Riders obtained these artifacts, they hid them away in Karazhan, and that was the end of it.
+Hearing this, Jace shot Grede a glance. Actually, in the game, after the Dark Riders obtained these artifacts, they hid them away in Karazhan, and that was the end of it.
 
-Because Medivh was already dead, and before he died he hadn't told these Black Riders what to do with these treasures after obtaining them. The Black Riders had strictly followed orders — except when players later came to seize these artifacts, they fought back with these weapons; they never did anything else with them.
+Because Medivh was already dead, and before he died he hadn't told these Dark Riders what to do with these treasures after obtaining them. The Dark Riders had strictly followed orders — except when players later came to seize these artifacts, they fought back with these weapons; they never did anything else with them.
 
-But the problem now was how these dark riders had gotten here.
+But the problem now was how these Dark Riders had gotten here.
 
-Windrunner had said before that Dar'Khan Drathir had already made contact with the Violet Eye. His objective was clearly Karazhan — he wanted to use the knowledge within Karazhan to decipher the scroll Jace had obtained from Dasmora.
+Vereesa had said before that Dar'Khan Drathir had already made contact with the Violet Eye. His objective was clearly Karazhan — he wanted to use the knowledge within Karazhan to decipher the scroll Jace had obtained from Dasmora.
 
-The Black Riders had lost the trail in Eldre'Thalas, which meant the original lead that would have led them to Ursulus had already been cut off by Jace.
+The Dark Riders had lost the trail in Eldre'Thalas, which meant the original lead that would have led them to Ulthalesh had already been cut off by Jace.
 
 So the greatest possibility for them to have tracked it here was that Dar'Khan had found a way to contact them and cooperate with them.
 
-The Black Riders working with others to seek artifacts was not without precedent — after all, in the game, the master of Ilgalar Tower, the dark mage Morgas, had once hired Black Riders to help him find the Scythe of Elune left behind by the night elf druids in Duskwood.
+The Dark Riders working with others to seek artifacts was not without precedent — after all, in the game, the master of the Tower of Ilgalar, the dark mage Morganth, had once hired Dark Riders to help him find the Scythe of Elune left behind by the night elf druids in Duskwood.
 
-If these Black Riders had really been drawn here by Dar'Khan, he would never let the Black Riders simply walk away with this demon artifact. He would certainly find a way to seize it, or trick them out of it.
+If these Dark Riders had really been drawn here by Dar'Khan, he would never let the Dark Riders simply walk away with this demon artifact. He would certainly find a way to seize it, or trick them out of it.
 
-If Ursulus fell into Dar'Khan's hands, everything would be thrown into chaos.
+If Ulthalesh fell into Dar'Khan's hands, everything would be thrown into chaos.
 
-Jace looked at Windrunner's furrowed brow. He knew that letting this traitor take Ursulus back was absolutely unacceptable. "You're right, Grede. Then we leave right now. They're riding horses heading south — certainly not as fast as we can fly." He said. Everyone nodded and began packing, when Jace caught sight of Musa. There was still a trace of weakness in her eyes.
+Jace looked at Vereesa's furrowed brow. He knew that letting this traitor take Ulthalesh back was absolutely unacceptable. "You're right, Grede. Then we leave right now. They're riding horses heading south — certainly not as fast as we can fly." He said. Everyone nodded and began packing, when Jace caught sight of Mosa. There was still a trace of weakness in her eyes.
 
-"Musa, you stay here."
+"Mosa, you stay here."
 
 "Why?" the tauren nearly roared in Common.
 
 "Grede, I mean no offense." She stood up, her horns nearly poking a hole through the ceiling.
 
-Grede looked at the tauren, then at Jace, and sighed. "Jace is right, Musa. Stay here. It's not that we don't want to bring you — but what you need most right now is rest."
+Grede looked at the tauren, then at Jace, and sighed. "Jace is right, Mosa. Stay here. It's not that we don't want to bring you — but what you need most right now is rest."
 
-"You think I'll get hurt. You think I'll hold you back." Musa said firmly. "I've learned many nature magics and the power of nature from the Archdruid's son. I'm much stronger than I was a year ago!"
+"You think I'll get hurt. You think I'll hold you back." Mosa said firmly. "I've learned many nature magics and the power of nature from the Cenarius's son. I'm much stronger than I was a year ago!"
 
 She took a step forward. Although the step was heavy and powerful, making everyone and all the furniture and decorations in the room shake with the motion, she quickly steadied herself on the table by the window, breathing heavily.
 
-After barely managing to stand firm, half the fight had already gone out of Musa. She hung her head weakly, and in an almost pleading tone said, "You've saved me again and again. Let me help you too, Jace, Windrunner..."
+After barely managing to stand firm, half the fight had already gone out of Mosa. She hung her head weakly, and in an almost pleading tone said, "You've saved me again and again. Let me help you too, Jace, Vereesa..."
 
-"You've already saved our lives, Musa. Without you, we'd have died in the Eldre'Thalas crypts long ago," Windrunner said.
+"You've already saved our lives, Mosa. Without you, we'd have died in the Eldre'Thalas crypts long ago," Vereesa said.
 
 "Yeah." Jace said, "And if something happens to you in this weakened state, how are you supposed to return to the tauren tribe and teach nature magic? Besides, Grede wouldn't be able to focus on dealing with our opponents either."
 
-"I can't focus either, Musa." Windrunner hugged the tauren. "Rest well in Everlook. We'll leave you some money — don't stint on it, take good care of yourself. If we run into trouble... we'll have Sola come back for you."
+"I can't focus either, Mosa." Vereesa hugged the tauren. "Rest well in Everlook. We'll leave you some money — don't stint on it, take good care of yourself. If we run into trouble... we'll have Sola come back for you."
 
-Sola nodded. "I'll look after everyone for you, Musa. Don't worry."
+Sola nodded. "I'll look after everyone for you, Mosa. Don't worry."
 
-Musa slowly stroked Windrunner's silver hair with her big hand, and finally nodded. "Come back safely, everyone."
+Mosa slowly stroked Vereesa's silver hair with her big hand, and finally nodded. "Come back safely, everyone."
 
 Leaving Everlook and heading into the forest, Sola cast off her mortal restraints and spread her wings, returning to her true form. She stretched her long neck with effort.
 
 Jace felt she seemed even greener than before, the color of her scales much brighter.
 
-Windrunner nimbly leaped onto her tail, stepped all the way up to her back along the way, steadied herself with a sway, and Solamriel narrowed her eyes and shook her head happily. "I like the feeling of a ranger's footsteps on my body, Windrunner. It feels wonderful."
+Vereesa nimbly leaped onto her tail, stepped all the way up to her back along the way, steadied herself with a sway, and Somaelir narrowed her eyes and shook her head happily. "I like the feeling of a ranger's footsteps on my body, Vereesa. It feels wonderful."
 
 "You're not the only one who likes it," Jace raised an eyebrow. "Who else?" the green dragon asked blankly.
 
-"Don't listen to his crap, Sola," Grede came over and clumsily climbed up the green dragon's hind leg. "If only Musa weren't here... Honestly, the reason you wanted Musa to stay behind wasn't for her sake at all — you just wanted to flirt with Windrunner and make the rest of us miserable."
+"Don't listen to his crap, Sola," Grede came over and clumsily climbed up the green dragon's hind leg. "If only Mosa weren't here... Honestly, the reason you wanted Mosa to stay behind wasn't for her sake at all — you just wanted to flirt with Vereesa and make the rest of us miserable."
 
 "What about me flirting with my master... why doesn't that make you miserable, dwarf?" Morophil appeared on the green dragon's back, asking.
 
 "Who's... flirting with whom." Jace stared at her wide-eyed, gritting his teeth. "Sigh."
 
-Morophil sighed dramatically. Windrunner shot a quick glance at Jace, then looked into the distance as if nothing had happened. Once Grede was settled, he said, "See? I'm not the miserable one here, demon."
+Morophil sighed dramatically. Vereesa shot a quick glance at Jace, then looked into the distance as if nothing had happened. Once Grede was settled, he said, "See? I'm not the miserable one here, demon."
 
-"Shut up," Windrunner said coldly.
+"Shut up," Vereesa said coldly.
 
 "Uh, hmm." Grede nodded vigorously.
 
-Morophil smiled in triumph. The green dragon asked blankly again, "So, who else likes Windrunner stepping on them?" Jace sighed. "You're really killing the mood with that question, Sola. We'd better get going."
+Morophil smiled in triumph. The green dragon asked blankly again, "So, who else likes Vereesa stepping on them?" Jace sighed. "You're really killing the mood with that question, Sola. We'd better get going."
 
-"It's truly baffling — facing undead warriors wielding the Apocalypse, and you all look like you're out for a stroll in a garden," Windrunner said, resting her chin on her hand.
+"It's truly baffling — facing undead warriors wielding the Apocalypse, and you all look like you're out for a stroll in a garden," Vereesa said, resting her chin on her hand.
 
 "What else are we supposed to do? Happy or miserable, we die either way," Grede said.
 
-Actually, Jace could tell Grede's mood was clearly much better than before — especially after Musa didn't come along, he wasn't disappointed at all, but rather much more relaxed. As long as Musa was fine and nothing went wrong, that was all that mattered to him.
+Actually, Jace could tell Grede's mood was clearly much better than before — especially after Mosa didn't come along, he wasn't disappointed at all, but rather much more relaxed. As long as Mosa was fine and nothing went wrong, that was all that mattered to him.
 
-"That's true," Windrunner said. "And on the optimistic side, the Holy Wizard Oil we couldn't use at Kessell before might actually come in handy this time."
+"That's true," Vereesa said. "And on the optimistic side, the Blessed Wizard Oil we couldn't use at Kel'Theril before might actually come in handy this time."
 
 "Hah." Grede clapped his hands. "Then it really wasn't prepared for nothing."
 
-Jace said, "I still hope we don't get into a direct confrontation with that Black Rider carrying the Apocalypse. None of us knows what that thing is truly capable of. Hopefully by the time we find Ursulus, they're still on the road."
+Jace said, "I still hope we don't get into a direct confrontation with that Dark Rider carrying the Apocalypse. None of us knows what that thing is truly capable of. Hopefully by the time we find Ulthalesh, they're still on the road."
 
 "Right, did you remember to take the furbolgs' medicine jar out of the bank, Jace?" Grede asked.
 
-"Of course," Jace said. "The rest of our luggage is all together too — how could we forget? Besides, this is one of our advantages. Hopefully we can get enough leads from those furbolgs... We got delayed a few days on the road looking for Musa. I hope they won't hold it against us."
+"Of course," Jace said. "The rest of our luggage is all together too — how could we forget? Besides, this is one of our advantages. Hopefully we can get enough leads from those furbolgs... We got delayed a few days on the road looking for Mosa. I hope they won't hold it against us."
 
-"Don't worry, Jace," Windrunner said. "Don't forget, the furbolg messengers sent by the apothecary before basically all died on the road. At least we can deliver the things — that's already incomparably better."
+"Don't worry, Jace," Vereesa said. "Don't forget, the furbolg messengers sent by the apothecary before basically all died on the road. At least we can deliver the things — that's already incomparably better."
 
-"I hope those undead won't bully the furbolgs," Solamriel said.
+"I hope those undead won't bully the furbolgs," Somaelir said.
 
 Hearing the green dragon's words, everyone fell silent for a while.
 
-According to what the Timbermaw furbolgs had said, the furbolgs near Frosthammer were being ravaged by the undead plague. If they saw this group of Black Riders, they certainly wouldn't have a friendly attitude — they might very well treat them as the culprits behind the undead plague and attack them head-on.
+According to what the Timbermaw furbolgs had said, the furbolgs near Frostmaul were being ravaged by the undead plague. If they saw this group of Dark Riders, they certainly wouldn't have a friendly attitude — they might very well treat them as the culprits behind the undead plague and attack them head-on.
 
 At that time, these merciless undead would certainly slaughter all the furbolgs.
 
-Everlook sat in the middle of Winterspring. To the north was a silent snowy mountain range; to the south, Frosthammer was a steep range of mountains and cliffs extending down from Mount Hyjal.
+Everlook sat in the middle of Winterspring. To the north was a silent snowy mountain range; to the south, Frostmaul was a steep range of mountains and cliffs extending down from Mount Hyjal.
 
-The closer to Frosthammer, the colder the climate became. Here, even Solamriel's magic was barely holding up against the bitter wind. Beneath layers of driving snow, cracked canyons cut through the towering ice peaks, and from time to time came terrible howling sounds from the mountains.
+The closer to Frostmaul, the colder the climate became. Here, even Somaelir's magic was barely holding up against the bitter wind. Beneath layers of driving snow, cracked canyons cut through the towering ice peaks, and from time to time came terrible howling sounds from the mountains.
 
 No matter how Jace listened, it didn't sound like the wind to him.
 
@@ -126,11 +126,11 @@ The whole south was steeped in ill omen. SI:7's investigation had been quite rig
 
 Perhaps it was precisely because evil had always been thick here that no one was willing to approach, making it a hiding sanctuary for demon stragglers after the Battle of Mount Hyjal and the Burning Legion's defeat.
 
-Just then, a sudden, violent roar erupted from a cliff face they had just passed. Even Solamriel's flight rhythm was thrown off. She flapped her wings a few times to steady herself. Jace looked back in that direction.
+Just then, a sudden, violent roar erupted from a cliff face they had just passed. Even Somaelir's flight rhythm was thrown off. She flapped her wings a few times to steady herself. Jace looked back in that direction.
 
 A sheet of ice cliff actually shook. A massive chunk of ice detached from the rock face and raised into the empty air like an arm... "A giant..." Jace said in a daze.
 
-"Frosthammer giant," Solamriel said. "I need to fly as high as possible... Everyone, hold on tight."
+"Frostmaul giant," Somaelir said. "I need to fly as high as possible... Everyone, hold on tight."
 
 "What's there to fear if they can't fly?" Grede asked.
 

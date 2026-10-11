@@ -36,7 +36,7 @@ Kurdran Wildhammer slid down from above, high-fived Turalyon, then gripped Danat
 
 "The conjurer just clocked out, High Thane Kurdran!"
 
-Khadgar caught up from behind. Kurdran pointed at the mountain king behind him, Muradin Bronzebeard. "Ask him. I'm not bragging — back in Molten Core, I thought I'd never see you lot again. All thanks to this dark wizard beside you!"
+Khadgar caught up from behind. Kurdran pointed at the Mountain King behind him, Muradin Bronzebeard. "Ask him. I'm not bragging — back in Molten Core, I thought I'd never see you lot again. All thanks to this dark wizard beside you!"
 
 "He's not bragging, Master Khadgar," Muradin said, his golden beard swaying. "That shadow magic meteor of his stopped Ragnaros the Firelord's hammer dead in its tracks. No joke."
 
@@ -46,7 +46,7 @@ Khadgar caught up from behind. Kurdran pointed at the mountain king behind him, 
 
 "Jace!" Vereesa leaped down from a stone pillar, landing perfectly on a dwarf statue's boot, then jumped again and threw her arms around the warlock's neck.
 
-"I smelled a fierce shadowfire. I knew it was you — you only use magic of that level in the most dangerous situations. I was worried. Seeing you safe..."
+"I smelled a fierce Shadowflame. I knew it was you — you only use magic of that level in the most dangerous situations. I was worried. Seeing you safe..."
 
 "I'm fine, just spent. A few mana potions and I'll be right as rain," Jace said. Vereesa relaxed, though she still frowned as if shaken. Jace asked, "Where's Grede?"
 
@@ -54,15 +54,17 @@ Khadgar caught up from behind. Kurdran pointed at the mountain king behind him, 
 
 "As long as he's okay." Jace felt a little relieved.
 
-"Master Vieran said he might need a few months to recover. That's fine — he'll definitely be back in shape by the time we head to Kalimdor..."
+"Master Vaelan said he might need a few months to recover. That's fine — he'll definitely be back in shape by the time we head to Kalimdor..."
 
-"My little moon!" Alleria jumped down from above. Vereesa spun around at the shout, beaming, and the two sisters embraced and spun around several times.
+"Little Moon!" Alleria jumped down from above. Vereesa spun around at the shout, beaming, and the two sisters embraced and spun around several times.
 
 "You've grown taller. The power of love truly is more mysterious than the deepest alchemy."
 
 "Don't start with that, sister!"
 
-"Alleria!" "Kurdran!"
+"Alleria!"
+
+"Kurdran!"
 
 "Well, we're all together again! And right beneath Blackrock Spire."
 
@@ -76,13 +78,13 @@ The Sons of Lothar gathered. Up above, the black dragon swirled into a coil of b
 
 "Tell me that when you've lived a thousand years, Sesso!" Needleflame grumbled quietly.
 
-"I've lived a thousand years and I still don't think it's fast, Jace." Sora walked over as well. "I'm really glad to see you safe. For some reason, I couldn't shake the worry while you were away. Even though I knew you were just going back to Stormwind, not some dangerous place..."
+"I've lived a thousand years and I still don't think it's fast, Jace." Sola walked over as well. "I'm really glad to see you safe. For some reason, I couldn't shake the worry while you were away. Even though I knew you were just going back to Stormwind, not some dangerous place..."
 
 It had actually been pretty rough, Jace thought. But he just nodded. The things he had seen and felt on that journey were not easily summed up.
 
 "King Varian!" Khadgar turned to the approaching king. "The bridge has been fully rebuilt. Supplies will be following shortly. I've arranged for my Kirin Tor colleagues to guard the bridge in case the Horde tries to cut off our retreat."
 
-"Thank the Dalaran for your help, Master Khadgar. You've worked hard," Varian said.
+"My thanks to Dalaran for its help, Master Khadgar. You've worked hard," Varian said.
 
 "It is our duty, Your Majesty," said Khadgar.
 

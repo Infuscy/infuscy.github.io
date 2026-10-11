@@ -1,4 +1,4 @@
-## Chapter 294: The Oriole Behind
+## Chapter 294: The Hunters Hunted
 
 The Shattered Hand clan were the first to break free from ogre slavery. Under the ogres' abuse and torture, they'd grown bloodthirsty and half-mad. The warriors who'd risen up against the ogres were, even by orcish standards, a pack of psychopaths.
 
@@ -44,7 +44,7 @@ The elf turned back, seeming to sense something off as well, her expression tigh
 
 Almost simultaneously, the two of them dove into a nearby thicket. Barely ten seconds later, a great whoosh of wind swept down from up the mountain, and Jace felt his heart slam against his ribs.
 
-He raised his head and looked ahead. A black dragon whelp skimmed low over the mountainside, streaking into the distance — hard on the trail of the orcs.
+He raised his head and looked ahead. A black drake skimmed low over the mountainside, streaking into the distance — hard on the trail of the orcs.
 
 Had they been spotted?
 
@@ -74,7 +74,7 @@ Suddenly, a dragon's roar echoed from a valley on the other side, followed by a 
 
 Even though the echoes had gone hollow and ethereal by the time they reached here, Jace knew those sounds all too well.
 
-That whelp was attacking — spewing lava and flame. The target was very likely that same group of orcs.
+That drake was attacking — spewing lava and flame. The target was very likely that same group of orcs.
 
 After all, they'd been following for this long and hadn't seen a single other living thing… what other possibility was there?
 
@@ -101,20 +101,3 @@ Vereesa's pace up ahead had slowed. She'd already drawn an arrow and nocked it �
 Jace pulled out the black staff and gripped it tight, bracing against a black wall.
 
 Since they'd been marked, this was the moment to fight for their lives.
-
-## Flags
-
-- **碎手氏族 (Shattered Hand clan):** Canonical orc clan. The chapter opens with an extended lore exposition on the clan's origins — the first orcs to break free from ogre slavery, their tradition of ritual self-mutilation (shattering and amputating their left hands), and their bloodthirsty culture.
-- **黄雀在后 (The Oriole Behind):** Chapter title — a reference to the Chinese idiom "螳螂捕蝉，黄雀在后" (the mantis stalks the cicada, unaware of the oriole behind). Here: Jace and Vereesa were following the orcs, unaware that a black dragon was hunting the orcs — and them.
-- **死亡骑士 (Death Knight):** The ultimate goal of Jace and Vereesa's journey — finding a death knight. Canonical WoW class.
-- **黑龙 (Black Dragon):** The black dragonflight whelp that attacks. Canonically allied with the Blackrock orcs and Dragonmaw clan, but not all orcs — Jace notes the lore distinction.
-- **抗魔药剂 (Anti-magic Potion):** A potion that grants magic resistance. Rendered as "anti-magic potion."
-- **隐形药水 (Invisibility Potion):** Rendered as "invisibility potion" per glossary.
-- **法力药水 (Mana Potion):** Standard WoW consumable. Rendered as "mana potion."
-- **黑杖 (Black Staff):** Jace's weapon — rendered descriptively as "black staff."
-- **术士包 (Warlock's Bag):** Jace's warlock satchel, where the imp resides.
-- **部落 (Horde):** Canonical faction. Jace references the Warsong clan and Frostwolf clan as orc clans the black dragons ignored.
-- **战歌氏族 (Warsong clan):** Canonical orc clan. Rendered as "Warsong clan."
-- **霜狼氏族 (Frostwolf clan):** Canonical orc clan. Rendered as "Frostwolf clan."
-- **黑石氏族 (Blackrock clan):** Canonical orc clan allied with the black dragons. Rendered as "Blackrock clan."
-- **龙喉氏族 (Dragonmaw clan):** Canonical orc clan. Rendered as "Dragonmaw clan" per glossary.

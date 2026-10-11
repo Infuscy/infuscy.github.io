@@ -2,11 +2,11 @@
 
 The sky had darkened. Beneath a blood-red night, all of Stormwind glowed with an ominous light.
 
-Solamyer flapped her wings and climbed straight upward, clearing the rooftops over the city walls. Then, from a window high up in Stormwind Keep, a rather inconspicuous jet of flame suddenly burst out.
+Somaelir flapped her wings and climbed straight upward, clearing the rooftops over the city walls. Then, from a window high up in Stormwind Keep, a rather inconspicuous jet of flame suddenly burst out.
 
 Damn it. It seemed it had already started.
 
-Solamyer saw it clearly too. She flew harder, wrapping herself in a dreamlike, soothing force as she dove straight for the main gate of Stormwind Keep. Grede and Vereesa were silent. After seeing that barely conspicuous flame, they all knew what they were about to face.
+Somaelir saw it clearly too. She flew harder, wrapping herself in a dreamlike, soothing force as she dove straight for the main gate of Stormwind Keep. Grede and Vereesa were silent. After seeing that barely conspicuous flame, they all knew what they were about to face.
 
 Landing in front of Stormwind Keep, the palace guards at the gate roared, "Daring to show your power before Stormwind Keep — dragon?!"
 
@@ -20,9 +20,9 @@ The guards raised their swords toward the group above. Jace realized at once tha
 
 "Put them to sleep, Sola," Jace said. "No time for this."
 
-Solamyer murmured and immediately exhaled a large cloud of pale pink mist toward the palace gate. The soldiers who'd been shouting "For the Alliance! For Stormwind!" toppled one after another like scrap metal.
+Somaelir murmured and immediately exhaled a large cloud of pale pink mist toward the palace gate. The soldiers who'd been shouting "For the Alliance! For Stormwind!" toppled one after another like scrap metal.
 
-With the obstacles before the palace cleared, the group leaped off the dragon's back. Solamyer also took humanoid form and followed them through the palace gates — only to find even more palace guards blocking the way ahead.
+With the obstacles before the palace cleared, the group leaped off the dragon's back. Somaelir also took humanoid form and followed them through the palace gates — only to find even more palace guards blocking the way ahead.
 
 "Surrender, dark mage," one guard officer shouted. "The king has ordered that you be arrested for the crimes of attempting to murder the queen, harming the prince, and treason. It's all over."
 
@@ -32,7 +32,7 @@ The guards raised their spears and swords at the group before them. Jace had nev
 
 Gazing at them, Jace remembered that night at the lighthouse — countless enslaved dragon cultists staring at him, almost identical to the shadow-soaked atmosphere here.
 
-Yes, he understood now. The reason killing those dragonkin hadn't woken the others wasn't because the spell had some special effect beyond his expectations — it was because the one controlling those dragon cultists had never been Rashonel to begin with. It was the queen... or rather, Onyxia herself!
+Yes, he understood now. The reason killing those dragonkin hadn't woken the others wasn't because the spell had some special effect beyond his expectations — it was because the one controlling those dragon cultists had never been Lashlayer to begin with. It was the queen... or rather, Onyxia herself!
 
 No wonder the queen's pregnancy had come a few years earlier than Anduin Wrynn's birth on the other timeline. Damn it — because there was no boy in there at all!
 
@@ -70,7 +70,7 @@ Varian Wrynn shouted and raised his sword high, then suddenly froze.
 
 Sola nodded, visibly relieved as she took her position beside the demon.
 
-Ever since they'd started flying toward Stormwind Keep, Jace had sensed that she was at the breaking point of tension. Sure enough, when truly facing Onyxia, the suppression on a whelp like her was still far too great.
+Ever since they'd started flying toward Stormwind Keep, Jace had sensed that she was at the breaking point of tension. Sure enough, when truly facing Onyxia, the suppression on a young dragon like her was still far too great.
 
 "Krasus, I say, Krasus..."
 
@@ -80,7 +80,7 @@ Grede muttered the name and charged toward the direction where the throne room w
 
 "Korialstrasz, wasn't dealing with Alexstrasza enough for you, hmm?!"
 
-An even clearer roar in the dragon tongue snarled from within the palace, followed by a chaotic burst of laughter that made the entire hall tremble. Vereesa's previously resolute expression flickered.
+An even clearer roar in Draconic snarled from within the palace, followed by a chaotic burst of laughter that made the entire hall tremble. Vereesa's previously resolute expression flickered.
 
 A nearby lion statue toppled and shattered, sending shards of stone flying. The group steadied themselves and continued forward. Then another fierce jet of flame surged from deep within the palace — but what reassured everyone was that this was a blaze of intensely passionate life-fire. Krasus was still fighting!
 
@@ -90,19 +90,21 @@ When the group reached the front of the throne room, a woman wreathed in flames 
 
 Queen Tiffin's golden hair was already burning like flames. She said with a sorrowful expression, "I've never held against you everything you've done. You think to us... how beautiful, how great a word 'father' is? It's a pity you've thrown away every chance I've given you, time and again, responding to my goodwill with vicious, petty tricks. Truly..."
 
-Jace raised Ursaal and immediately fired a Shadow Bolt straight at her. Almost simultaneously, Grede hurled his warhammer, dragging arcs of lightning energy that lit up the entire throne room, making the nearby Shadow Bolt look like a slender black arrow... and an even sharper arcane bolt overtook them all, shooting straight at her — but everything was swallowed by yet another burst of flame.
+Jace raised Ulthalesh and immediately fired a Shadow Bolt straight at her. Almost simultaneously, Grede hurled his warhammer, dragging arcs of lightning energy that lit up the entire throne room, making the nearby Shadow Bolt look like a slender black arrow... and an even sharper arcane bolt overtook them all, shooting straight at her — but everything was swallowed by yet another burst of flame.
 
 The violently exploding flames blew the throne to pieces, and the mass of shadow scattered with it. Krasus coughed and stood up. His robe and staff were already completely shattered, and even his blind eye was shedding tears of blood.
 
 Just now, this she-dragon had actually used the unhealed wound left by Deathwing to suppress Krasus!
 
-The red dragon hadn't given up. He suddenly raised his voice and chanted a dragon-tongue incantation at the flames that had destroyed the throne. A burning golden chain suddenly bound that mass of fire, accompanied by a dragon's roar that nearly brought down the entire hall.
+The red dragon hadn't given up. He suddenly raised his voice and chanted a Draconic incantation at the flames that had destroyed the throne. A burning golden chain suddenly bound that mass of fire, accompanied by a dragon's roar that nearly brought down the entire hall.
 
 "She's torn open a rift between planes. Don't let her escape, everyone!"
 
 Krasus was practically shouting himself hoarse. His upper body was already completely bare, countless scars glowing with lava-like light. And at the end of the burning chain he gripped, within a faintly visible seam of flame, a dragon tail was thrashing wildly.
 
-"Charge through this door?" Vereesa asked. "What more is there to say?!"
+"Charge through this door?" Vereesa asked.
+
+"What more is there to say?!"
 
 Grede roared and charged into the throne room, rushing straight at that portal of flame — only to be blasted back out by a burst of fire, rolling across the floor several times.
 

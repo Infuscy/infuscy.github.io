@@ -6,7 +6,7 @@ Up on the dais, the acolytes had finished drawing the array. Soul shards were ar
 
 Nearby, at the foot of the steps, Master Vorpil stood with a solemn expression, watching the ogre Blackheart. Hard to tell whether he feared Magtheridon's reaction or worried the situation might spiral out of control.
 
-Jace and Sora were crowded at the front by a group of cult members. Sabellian, standing near Vorpil, seemed to want an opportunity to confer with the other two but couldn't find one.
+Jace and Sola were crowded at the front by a group of cult members. Sabellian, standing near Vorpil, seemed to want an opportunity to confer with the other two but couldn't find one.
 
 Blackheart shifted his massive, bloated body to the center of the array. Raising both hands, his one-eyed head narrowed its eyes, while the horned head muttered a brief incantation. He was probably testing the soul shards' power. The array's demon blood flickered once and dimmed. Many cult members turned to watch the dais.
 
@@ -24,9 +24,9 @@ The Black Dragon Prince kept saying they might as well fight their way out and k
 
 So the task fell naturally to the least conspicuous of the three — the female orc warlock.
 
-Jace looked at Sora, who was a head shorter and a frame thinner than him as a fel orc. He gave her a subtle signal.
+Jace looked at Sola, who was a head shorter and a frame thinner than him as a fel orc. He gave her a subtle signal.
 
-On the dais, Blackheart had begun formally casting the communication array. Void flame burned in the three eyes of his two heads. Sora watched the scene, shot a quick look back at Jace, but he could feel her emotions churning — he couldn't tell if she'd understood or not.
+On the dais, Blackheart had begun formally casting the communication array. Void flame burned in the three eyes of his two heads. Sola watched the scene, shot a quick look back at Jace, but he could feel her emotions churning — he couldn't tell if she'd understood or not.
 
 Sabellian kept glancing their way too, trying to see if they had a plan. The look in his eyes said "if you don't act, I will." Seeing his impatience, even Jace felt a knot in his stomach.
 
@@ -56,9 +56,9 @@ Blackheart's horned head suddenly roared. Vorpil couldn't wait any longer. He st
 
 He got halfway through the sentence when Blackheart suddenly frowned. The entire array shuddered. The purple flames on the lines and runes began flickering wildly, out of control.
 
-The ogre's one-eyed head made choking sounds, "Urk... urk..." His whole body wobbled as if unsteady. Vorpil frowned, watching the ogre, not sure what to do. All the orcs in the Arcane Sanctum began murmuring. No one knew what was happening.
+The ogre's one-eyed head made choking sounds, "Urgh... urk..." His whole body wobbled as if unsteady. Vorpil frowned, watching the ogre, not sure what to do. All the orcs in the Arcane Sanctum began murmuring. No one knew what was happening.
 
-"Urk..."
+"Urgh..."
 
 The ogre's horned head let out a deep sigh, then slumped, a thick strand of drool running down onto its belly...
 
@@ -68,7 +68,7 @@ At the same moment, the other head roared as if struck by some stimulus. Soul en
 
 Then Sabellian's gaze shifted toward Jace's companion.
 
-Sora was calmly watching the ogre's wobbling, undignified display.
+Sola was calmly watching the ogre's wobbling, undignified display.
 
 Yes. This wasn't any vile curse, let alone shadow magic. It was just a simple hypnotic spell — so weak it had only put one head to sleep.
 
@@ -82,7 +82,7 @@ The head's murmuring was as if it had been afflicted by a shadow curse. Jace cou
 
 In fact, it went beyond "couldn't understand." Just hearing it was intensely uncomfortable. As it muttered, the eye in that head rolled wildly upward, purple veins spreading across the white...
 
-"Instigator!" an orc warlock shouted, as if trying to wake him.
+"Inciter!" an orc warlock shouted, as if trying to wake him.
 
 "He's like those ogres! Like the Pale! That's the language of those monsters hiding in the dark!" another orc called out in warning. "This is a complete deception!"
 
@@ -90,9 +90,9 @@ An orc warlock yelled, "He was never connected to Master Magtheridon! The soul e
 
 "Damn ogre! I understand now! The distorted flow of soul energy explains everything!" another orc warlock shouted.
 
-A few warlocks quickly came to their senses, but most of the cult warriors seemed not to understand what was happening. Some even reached for their weapons, ready to attack the warlocks questioning the Instigator!
+A few warlocks quickly came to their senses, but most of the cult warriors seemed not to understand what was happening. Some even reached for their weapons, ready to attack the warlocks questioning the Inciter!
 
-"The Instigator is utterly loyal to the Twisting Void!"
+"The Inciter is utterly loyal to the Twisting Nether!"
 
 "Glory to the Legion! Loyal to the Legion!"
 
@@ -104,7 +104,7 @@ Soon, deformed lumps sprouted from his shoulders and chest, skin splitting open 
 
 Old Gods...
 
-Sora clearly hadn't expected this either. Trembling with fear, she backed away. Jace grabbed her arm to keep her from falling.
+Sola clearly hadn't expected this either. Trembling with fear, she backed away. Jace grabbed her arm to keep her from falling.
 
 Suddenly, a surge of blood-red flames completely engulfed the ogre!
 
@@ -112,10 +112,10 @@ Sabellian roared, raising both arms. The flames under his direction quickly enve
 
 Jace stared into the flames until the figure inside rapidly shriveled. The fire subsided. Sabellian let out a cold breath. The Arcane Sanctum finally fell silent.
 
-Behind him, Sora stood rigid, her eyes wide, fixed on Jace. Every muscle was taut. It took a long moment before she finally blinked.
+Behind him, Sola stood rigid, her eyes wide, fixed on Jace. Every muscle was taut. It took a long moment before she finally blinked.
 
 "It's over. Don't worry."
 
-"I — I didn't..." Sora seemed to suddenly realize something, looking behind herself. Jace said quickly, "Nothing went wrong. You didn't change at all."
+"I — I didn't..." Sola seemed to suddenly realize something, looking behind herself. Jace said quickly, "Nothing went wrong. You didn't change at all."
 
-Only then did Sora nod in relief. On the dais, only a pile of bone ash remained.
+Only then did Sola nod in relief. On the dais, only a pile of bone ash remained.

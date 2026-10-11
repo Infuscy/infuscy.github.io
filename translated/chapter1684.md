@@ -1,6 +1,6 @@
 ## Chapter 1684: Plague in the Tower
 
-In Holdmar City, at the very bottom of Blackrock Spire, priests and young acolytes hurried back and forth. Panicked, tense shouts came from every direction — a complete contrast to the relaxed, celebratory atmosphere of the upper spire just after victory. News that necrotic plague was spreading through Blackrock Spire had already traveled from below.
+In Hordemar City, at the very bottom of Blackrock Spire, priests and young acolytes hurried back and forth. Panicked, tense shouts came from every direction — a complete contrast to the relaxed, celebratory atmosphere of the upper spire just after victory. News that necrotic plague was spreading through Blackrock Spire had already traveled from below.
 
 A priest led Varian, Jace, and the others to a dark iron room that the Bloodaxe orcs had converted into a soldier's rest area. He stopped the group and said to Varian, "Your Majesty, this is where we're quarantining the soldiers we've found infected with the necrotic plague."
 
@@ -14,19 +14,19 @@ A priest led Varian, Jace, and the others to a dark iron room that the Bloodaxe 
 
 "It doesn't look like the problem is under control." Varian glanced at the increasingly urgent calls in the distance.
 
-"It really isn't, Your Majesty." The priest said. "We haven't found the source yet. Highlords Grayson Shadowbreaker and Tirion Fordring have led several paladins in sweeping all the corpse piles in Holdmar City, destroying all the flame skeletons reanimated by the black dragon's magic. And as you can see, we've gathered and quarantined every infected person we've found. All medical personnel in contact with them must carry restorative potions — and they're senior priests who fought in the Hillsbrad campaign. Still, new patients keep appearing."
+"It really isn't, Your Majesty." The priest said. "We haven't found the source yet. Highlords Grayson Shadowbreaker and Tirion Fordring have led several paladins in sweeping all the corpse piles in Hordemar City, destroying all the flame skeletons reanimated by the black dragon's magic. And as you can see, we've gathered and quarantined every infected person we've found. All medical personnel in contact with them must carry restorative potions — and they're senior priests who fought in the Hillsbrad campaign. Still, new patients keep appearing."
 
 "Based on what we encountered in the valley outside Northshire, this is probably demon magic," Jace said.
 
 "Nathrezim." Vaelastrasz said. "A type of demon skilled at creating chaos with corpses. We suspect Nefarian's necromantic scheme at Blackrock Spire was devised with Nathrezim help. They clearly didn't want us to enjoy this hard-won victory. Even in failure, they wanted to leave as much trouble as possible."
 
-"You're talking about Nathrezim, Viera Master?" A Kirin Tor mage frowned. "Those demons have come to Azeroth again."
+"You're talking about Nathrezim, Master Vaelan?" A Kirin Tor mage frowned. "Those demons have come to Azeroth again."
 
 "We didn't even really encounter them in Draenor," Kurdran said.
 
 "There were some." Alleria said. "But... only rumors. Those demons almost never reveal themselves."
 
-The group discussed the Nathrezim and their foul magic. While thinking through countermeasures with the priests, Jace suddenly felt a dull ache in his chest. It was like all his shadow energy had clenched tight. The sword wound the death-dragon's soul had barely healed seemed to pull at the same spot.
+The group discussed the Nathrezim and their foul magic. While thinking through countermeasures with the priests, Jace suddenly felt a dull ache in his chest. It was like all his shadow energy had clenched tight. The sword wound that the death-dragon's soul had barely healed seemed to pull at the same spot.
 
 This was his body's shadow energy instinctively resisting an external invasion — like suddenly being hit by a dark magic curse.
 
@@ -62,7 +62,7 @@ But Jace could tell — the necrotic curse from the bug's bite wasn't strong. Fo
 
 Varian said, "Could we do an orderly, controlled retreat and find somewhere else for quarantine and treatment?"
 
-"Your Majesty." Jace said. "The danger isn't just infection at the gate. From the camps outside to Morgan's Watch, to Lakeshire — everywhere has workers, priests, and supply escorts who came from the north and the coast."
+"Your Majesty." Jace said. "The danger isn't just infection at the gate. From the camps outside to Morgan's Vigil, to Lakeshire — everywhere has workers, priests, and supply escorts who came from the north and the coast."
 
 "If we retreat, those thousands of people here will inevitably spread the plague to Stormwind, even the entire Seven Kingdoms. If we stay in Blackrock Spire, we can at least control movement across the Blackrock Mountain bridge. Gryphons are also easier to manage than horses."
 
@@ -74,11 +74,11 @@ Vereesa said, "As far as I know, the Kirin Tor is already following the recipe w
 
 "What elixir can fight necrotic plague brought by demons and death knights?" Alleria asked.
 
-"It's developed by the Winterfall furbolgs," Vereesa replied. "They—"
+"It's developed by the Frostmaul furbolgs," Vereesa replied. "They—"
 
-She hesitated. Jace knew why — mentioning it risked dragging in the necrotic plague Usar'ru had created in the remote Frostwhisper Valley.
+She hesitated. Jace knew why — mentioning it risked dragging in the necrotic plague Ulthalesh had created in the remote Frostwhisper Gorge.
 
-Vereesa organized her words and continued, "The ancient species used that recipe to treat epidemic diseases left behind by demons since the War of the Ancients. The furbolgs living in Frostwhisper Valley relied on these potions from their allies outside to hold their home against the ravages of necrotic power for decades without being wiped out."
+Vereesa organized her words and continued, "That ancient race used the recipe to treat epidemic diseases left behind by demons since the War of the Ancients. The furbolgs living in Frostwhisper Gorge relied on these potions from their allies outside to hold their home against the ravages of necrotic power for decades without being wiped out."
 
 "That potion is reliable, but it takes several days or even weeks to take effect..." the Kirin Tor mage said. "We planned to use it for the soldiers and priests clearing orc corpse pits outside. Most of the soldiers in the tower are using restorative potions."
 
@@ -94,10 +94,10 @@ Obviously, even though an adult red dragon could patiently burn through the enti
 
 The dwarves looked at each other while keeping an eye out for approaching insects. The Farstriders frowned. The priests and paladins had no ideas. The Kirin Tor mages muttered quietly among themselves.
 
-"Maybe we should wait for Master Kadzan to return to the tower..."
+"Maybe we should wait for Master Khadgar to return to the tower..."
 
-"What ideas would Master Kadzan have?"
+"What ideas would Master Khadgar have?"
 
 "Who knows, but I think—"
 
-"I can try, everyone." Sora spoke up quietly. "I can try to control all the insects in the tower. But I'll need a lot of support."
+"I can try, everyone." Sola spoke up quietly. "I can try to control all the insects in the tower. But I'll need a lot of support."

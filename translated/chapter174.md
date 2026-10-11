@@ -8,7 +8,7 @@ Then he noticed a robed guard standing at the corner of the road on the right.
 
 His back was to Jace — he seemed to be guarding that intersection. Had a death knight appeared here too?
 
-"Sir!" Jace shouted as he walked over. "If I want to get to Horn Tree Alley, is this the right way?"
+"Sir!" Jace shouted as he walked over. "If I want to get to Hornwood Lane, is this the right way?"
 
 The guard turned around upon hearing the voice. When he saw Jace, he just stood there stunned, saying nothing.
 
@@ -18,7 +18,7 @@ Halfway through, something felt off.
 
 Compared to the robed guards he'd encountered in the main district earlier, this one was far too calm.
 
-An arcane flare streaked across the sky, illuminating the street, and now he could see clearly: where the guard's battle-robe should have borne the eye of the Violet Citadel, there was now an enormously exaggerated, bloodied gash, as if clawed open by some kind of monster.
+An arcane flare streaked across the sky, illuminating the street, and now he could see clearly: where the guard's battle-robe should have borne the Violet Eye, there was now an enormously exaggerated, bloodied gash, as if clawed open by some kind of monster.
 
 The guard began to move his feet toward Jace, gripping the guard's sword in both hands, walking faster and faster. The intestines and flesh hanging out of that huge gash shook with his footsteps, and it didn't hinder his movements in the slightest!
 
@@ -28,7 +28,7 @@ He jabbed the butt of his staff into the man's skull with force, putting an end 
 
 Was this… a resurrected guard?
 
-Jace continued forward. As he walked, he heard another murmuring whisper, but this time it clearly.
+Jace continued forward. As he walked, he heard another murmuring whisper, but this time he heard it clearly.
 
 "Truly… a perfect vessel."
 
@@ -48,9 +48,9 @@ Jace looked around and saw, on the roof of a building, a walking corpse staring 
 
 The walking corpse was its eyes?
 
-Was this guy out of his mind? Not going to steal the Eye of the Arcane, but coveting his body here?
+Was this guy out of his mind? Not going to steal the Eye of Dalaran, but coveting his body here?
 
-But what if it wasn't the one stealing the Eye of the Arcane?
+But what if it wasn't the one stealing the Eye of Dalaran?
 
 In another timeline's Dalaran, there were no Farstrider rangers stationed there when Teron Gorefiend paid his visit.
 
@@ -88,23 +88,25 @@ The wall at his side exploded without warning, and a spray of rubble struck Jace
 
 Before Jace could even climb to his feet, he felt himself grabbed by a powerful, monstrous hand, lifted straight out of the pile of rubble and dust, and hoisted into the air!
 
-"My property you have stolen, my soldiers you have killed — the sheer audacity…" As the dust gradually cleared, Teron Gorefiend's true form was revealed. He was draped in a yellowish-brown cloak, and beneath it, a suit of red armor was exposed by the streaks of arcane light flashing across the sky — a layer of metal severely corroded by shadow, like the carapace of some monstrous insect.
+"My property you have stolen, my soldiers you have killed — the sheer audacity…"
+
+As the dust gradually cleared, Teron Gorefiend's true form was revealed. He was draped in a yellowish-brown cloak, and beneath it, a suit of red armor was exposed by the streaks of arcane light flashing across the sky — a layer of metal severely corroded by shadow, like the carapace of some monstrous insect.
 
 Though his soul occupied a human body, this body had been severely warped by his dark energies.
 
-This monster was a rough estimate of at least two-point-three to two-point-four meters tall, his body so powerfully built it made one's hair stand on end.
+At a rough estimate, this monster stood at least two point three or two point four meters tall, his body so powerfully built it made one's hair stand on end.
 
 Lit by an arcane lamp shrouded in dust and rain from the side, Jace could make out half of his blackened face.
 
 The sickly dark skin was covered in wrinkles, broken teeth exposed from ruined lips, a jaw that was practically skin and bones — he looked like an old woman on the verge of suffocating to death.
 
-In his other hand he held an exaggerated page-headed warhammer, the hammer's flanges burning with a purple-red ghostly fire around a round gem at its center, like a swaying demonic eye.
+In his other hand he held an oversized flanged warhammer, the hammer's flanges burning with a purple-red ghostly fire around a round gem at its center, like a swaying demonic eye.
 
 "A truly perfect vessel. What a pity to kill you just like that," Gorefiend said with a smile.
 
 Jace grabbed the hand gripping his neck, feeling himself being strangled. And in this situation, forget speaking an incantation — he couldn't even get a word out!
 
-"Sess!"
+"Sesso!"
 
 A shout from somewhere — Jace even thought he was hallucinating.
 
@@ -118,7 +120,7 @@ Jace heard the shout. Amidst the chaos, he grabbed his staff and ran into the ru
 
 "Teron Gorefiend… damn you, so it is you!"
 
-Jace recognized the voice — it was Kael'far Brightwing!
+Jace recognized the voice — it was Kael'fal Brightwing!
 
 He was the one who saved him?
 
@@ -127,17 +129,3 @@ He was the one who saved him?
 The moment those words ended, Jace, who was running away, suddenly felt a massive surge of shadow energy rush at him from behind, seizing his heart like an eagle's talon!
 
 His heart instantly began beating as if seized by a spasm. A burning pain spread from his chest, and after a few steps Jace collapsed in agony into a pile of dust.
-
-## Flags
-
-- **完美的躯壳** → "The Perfect Vessel" (躯壳 = vessel/body/shell; Gorefiend wants to possess Jace's body as a soul-vessel)
-- **凯法尔·明翼** → Kael'far Brightwing (high elf Farstrider ranger; not in glossary — 明翼 = "Brightwing," OC or obscure canonical)
-- **奎尔多雷** → Quel'dorei (Thalassian: high elves / highborne; not in glossary)
-- **达拉然之眼** → Eye of the Arcane (per glossary)
-- **角树巷** → Horn Tree Alley (location in Dalaran; not in glossary)
-- **格瑞德** → Grede (per glossary)
-- **苏伦娜** → Sulenna (per glossary)
-- **页锤** → page-headed warhammer (a warhammer with flange/page heads; not in glossary)
-- **血魔之握** → Gorefiend's Grasp (canonical death knight ability; not in glossary — see Ch. 175)
-- **暗影之怒** → Shadowfury (warlock spell; canonical, not in glossary — see Ch. 175)
-- **奥术洪流** → Arcane Torrent (blood elf racial ability; canonical, not in glossary — see Ch. 175)

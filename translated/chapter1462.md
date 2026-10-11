@@ -4,7 +4,7 @@ Except for Scavell, none of the members of the Order of Tirisfal knew what Ultha
 
 But the terrible disaster in Deadwind Pass a thousand years ago — the story of a monstrous demonic warlock wielding a soul-reaping weapon who nearly destroyed the world — had been widely told for a long time. In those days, Scavell had counted the killing of that great demon and the destruction of its weapon as his greatest achievement as Guardian.
 
-Clearly, Aegwynn — his successor — wasn't the only one who knew the staff had never truly been destroyed. The rumor that the Deadwind Reaper still existed had spread for centuries among wild warlocks, necromantic researchers, and even the descendants of Sargeras's followers and apprentices. Many had tried to find it, and it had long been a thorn in the Order of Tirisfal's side.
+Clearly, Aegwynn — his successor — wasn't the only one who knew the staff had never truly been destroyed. The rumor that the Deadwind Harvester still existed had spread for centuries among wild warlocks, necromantic researchers, and even the descendants of Sargeras's followers and apprentices. Many had tried to find it, and it had long been a thorn in the Order of Tirisfal's side.
 
 If Aegwynn had determined that Ulthalesh was in Jace's hands, then as the former Guardian, she would very likely use extreme methods to eliminate this threat.
 
@@ -20,13 +20,13 @@ Through Karazhan? Then the timing and place didn't match up.
 
 When Aegwynn and Khadgar first came to Karazhan, searching for the coordinates of the Telogrus Rift, Kil'jaeden should have still been behind the scenes, calculating and pondering exactly how many souls Jace would need to drain before he could use Ulthalesh to sever the Scepter of Sargeras.
 
-According to his estimation, if Jace was willing to pay any price to gather enough souls, he would very likely end up at odds with the Expeditionary Force, the Black Dragonflight, and even Kil'jaeden's own servants — to the point where he could never reach the Scepter of Sargeras, or would be twisted into a soul-devourer driven by desire.
+According to his estimation, if Jace was willing to pay any price to gather enough souls, he would very likely end up at odds with the Expedition, the Black Dragonflight, and even Kil'jaeden's own servants — to the point where he could never reach the Scepter of Sargeras, or would be twisted into a soul-devourer driven by desire.
 
 If Jace proceeded cautiously every step of the way, then he would ultimately be unable to completely destroy the Scepter of Sargeras. Which was what actually happened... and then Jace, or Sabellian, would inevitably have to pick up the scepter themselves to try to salvage everything, falling right into Kil'jaeden's trap.
 
 While scheming all of this, had Kil'jaeden also found a way to wait for Aegwynn in Karazhan and tell her about Ulthalesh?
 
-Judging by the Burning Legion's reaction on Draenor, the Dealer seemed to have only realized the existence of the Telogrus portal in the final days — by which time Khadgar and Aegwynn had already left Karazhan.
+Judging by the Burning Legion's reaction on Draenor, the Deceiver seemed to have only realized the existence of the Telogrus portal in the final days — by which time Khadgar and Aegwynn had already left Karazhan.
 
 Not to mention that Khadgar had been by her side the whole time. If Kil'jaeden had tried to send Aegwynn a message, Khadgar would likely have noticed.
 
@@ -42,7 +42,7 @@ After saying this, he quickly added, "Of course, I'm not saying that by comparis
 
 So it seemed that if Kil'jaeden had made Aegwynn aware of this, it must have happened at some point after the Expedition returned to Azeroth — after Aegwynn had seen Jace but before she returned to Karazhan to search for evidence.
 
-But after returning from Azeroth, even Khadgar hadn't seen Aegwynn. He'd only met her for that one disjointed encounter. Who knew what she'd been doing the rest of the time?
+But after returning to Azeroth, even Khadgar hadn't seen Aegwynn. He'd only met her for that one disjointed encounter. Who knew what she'd been doing the rest of the time?
 
 "I need to see Aegwynn again, Khadgar," Jace said.
 
@@ -64,7 +64,7 @@ Before Khadgar could finish, Jace added, "Whether she's still in this tower or n
 
 Khadgar was right. That was the second question. Why hadn't Aegwynn simply come and dealt with him?
 
-If Little Red Riding Hood was Aegwynn in disguise, why hadn't she just said everything clearly — like she did outside the Pig and Whistle — instead of putting on this elaborate performance? And why use magic to dress up Morofil's demonic eye to look like Kil'jaeden?
+If Little Red Riding Hood was Aegwynn in disguise, why hadn't she just said everything clearly — like she did outside the Pig and Whistle — instead of putting on this elaborate performance? And why use magic to dress up Morophil's demonic eye to look like Kil'jaeden?
 
 Karazhan was indeed a strange and mysterious place. But was it really this chaotic? After mulling it over for a while, Jace ventured, "Do me a favor, Khadgar."
 
@@ -74,7 +74,7 @@ Karazhan was indeed a strange and mysterious place. But was it really this chaot
 
 The mage looked up and tossed the book aside.
 
-"Jace Sesso of Brill! The Blood Demon Hunter, the Annihilator of the Pit Lord, the Hero Who Defeated the Black Dragon Princess, the Destroyer of Deathwing, the Benefactor of the Sons of Lothar, the Savior of the Alliance Expedition, the Blade That Shattered the Scepter of Sargeras, the Enemy of Kil'jaeden the Deceiver, the Protector of Tyr, the Lord of Ilgalaratha, the Good Husband of Lady Vereesa Windrunner... future husband!"
+"Jace Sesso of Brill! The Slayer of Gorefiend, the Annihilator of the Pit Lord, the Hero Who Defeated the Black Dragon Princess, the Destroyer of Deathwing, the Benefactor of the Sons of Lothar, the Savior of the Alliance Expedition, the Blade That Shattered the Scepter of Sargeras, the Enemy of Kil'jaeden the Deceiver, the Protector of Tyr, the Lord of Ilgalar, the Good Husband of Lady Vereesa Windrunner... future husband!"
 
 He blew out his beard and spat out this entire string of titles in one breath, widening his eyes and puffing out his chest for a moment before pointing at his own heart. "If you want me dead, you don't need to go through all this trouble! Just take your sword and give it to me right here. That'd be a lot cleaner!"
 

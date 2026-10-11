@@ -1,4 +1,4 @@
-## Chapter 128: The Great Baradin Conqueror
+## Chapter 128: The *Great Baradin Conqueror*
 
 The day of departure had finally arrived.
 
@@ -10,9 +10,9 @@ Dawn was coming later and later. At five in the morning, the sky was still the c
 
 But once he reached the docks, everything was a different story.
 
-Even though it was barely dawn, the Stormwind harbor was already packed. No wonder the Alliance would need to expand the port when they launched the northern campaign later on.
+Even though it was barely dawn, Stormwind Harbor was already packed. No wonder the Alliance would need to expand the port when they launched the northern campaign later on.
 
-Then again, probably also because the Winter Veil was approaching. Even someone like Jace, who rarely had business at the harbor, was squeezing into the port crowd at a time like this, wasn't he?
+Then again, probably also because Winter Veil was approaching. Even someone like Jace, who rarely had business at the harbor, was squeezing into the port crowd at a time like this, wasn't he?
 
 Unlike the uniform Stormwind accents on the usual streets, the harbor was full of humans speaking in accents from everywhere — Lordaeronian ones dominated, but there were Kul Tiran ones too.
 
@@ -22,7 +22,7 @@ Even so, he rarely saw Kul Tirans. This time he spotted several Kul Tiran soldie
 
 Out beyond the harbor, several large ships were circling — the docks were nearly full and they couldn't come in. The dockmasters seemed to be urging the sailors to set sail quickly and make room for the ships behind them.
 
-Jace threaded through the crowd, craning his neck for a glimpse of the so-called "Great Baradin Conqueror." If Grede was to be believed, this was a fairly large ship — it should stand out.
+Jace threaded through the crowd, craning his neck for a glimpse of the so-called "*Great Baradin Conqueror*." If Grede was to be believed, this was a fairly large ship — it should stand out.
 
 He was looking far ahead and ignoring his immediate surroundings when he tripped over something slippery and nearly went sprawling. He looked down — seemed he'd just stepped on and killed a fish. Somewhere a middle-aged man was cursing up a storm, but the crowd quickly blocked Jace's view, and there was no telling where the voice had come from.
 
@@ -77,16 +77,3 @@ Grede frowned. "Thunderfist. Grede Thunderfist."
 The two of them followed the crew carrying the big crate up the gangplank. Jace saw the goblin's smiling face turn dark again in an instant as he went back to berating the workers. He looked at Grede, who was walking with his head down, and asked, "Even I've heard of House Thunderfist of Aerie Peak. If you hadn't brought it up on this trip, I never would have heard you mention it."
 
 "Nothing worth mentioning," Grede said, scanning the deck. "No matter how famous your family name is, it stops ringing when there are hundreds of your kin scattered across the world — especially when you're the most useless one in that whole bewildering crowd of cousins."
-
-## Flags
-
-- **伟大的巴拉丁征服者号 = the *Great Baradin Conqueror***: Ship name. 巴拉丁 = Baradin (Baradin Bay is in the glossary); 征服者 = Conqueror.
-- **雷拳 = Thunderfist**: Dwarven family name. Rendering tentative — could also be rendered as Thunderfist or another "Thunder-" compound.
-- **加齐克 = Gazzik**: Goblin first mate's name. Rendering tentative.
-- **热砂财团 = the Trade Cartel**: Goblin commercial faction. 热砂 is associated with the Steamwheedle Cartel in lore; rendered as the generic Trade Cartel.
-- **暮冬镇 = Wintervale**: Town name at the other end of the route. Rendering tentative; not a canonical WoW location to my knowledge.
-- **冬幕节 = Winter Veil**: WoW holiday, not in the glossary.
-- **狮子王旗 = the lion king's banner**: The royal standard of the House of Wrynn (Stormwind).
-- **蛮锤战衣 = Wildhammer battle-garb**: Grede's Wildhammer clan outfit.
-- **鹰巢山 = Aerie Peak**: Canonical Wildhammer location, not in the glossary.
-- **库尔提拉斯士兵徽记 = golden anchor insignia**: Kul Tiras military emblem.

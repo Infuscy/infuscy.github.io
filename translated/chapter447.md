@@ -1,6 +1,6 @@
 ## Chapter 447: Where Three Kingdoms Meet
 
-The caravan left Cinderstone Village and headed north, skirting the mist-shrouded Cinderstone Lake. By evening, Jace could see an enormous dark shadow up ahead.
+The caravan left Emberstone Village and headed north, skirting the mist-shrouded Emberstone Lake. By evening, Jace could see an enormous dark shadow up ahead.
 
 The shadow was oppressively vast. Jace couldn't remember what this place had looked like when he'd passed through three years ago.
 
@@ -16,17 +16,17 @@ But beyond this wall still lay vast stretches of Gilnean territory — not only 
 
 Still, to be frank, that territory had already reached deep into the Lordaeron mainland — that is, Silverpine Forest. And this wall happened to sit at the narrowest point separating the Lordaeron mainland from the Gilnean peninsula. Choosing to build the wall here was far more economical than wrapping a wall around Gilneas's entire border.
 
-The wall was still unfinished. Scaffolding rose everywhere, along with freight wagons hauling materials, enormous blocks of stone, and workers bustling back and forth… Camp after camp after camp of tents, and even completed wooden houses and stone cottages, had turned this wall-building encampment into yet another small town — not a bit smaller than Cinderstone.
+The wall was still unfinished. Scaffolding rose everywhere, along with freight wagons hauling materials, enormous blocks of stone, and workers bustling back and forth… Camp after camp after camp of tents, and even completed wooden houses and stone cottages, had turned this wall-building encampment into yet another small town — not a bit smaller than Emberstone.
 
 After resting for the night at the foot of the wall, they set out again the next morning. Leaving the Greymane Wall behind, they continued northeast, cutting across a great marsh and following the Pyrewood River upstream toward Gilneas Bay. By afternoon, skirting a forest, they finally caught sight of Ambermill on the riverbank in the distance.
 
-Like Cinderstone, Ambermill had originally grown up on the back of resources — though not minerals, but timber.
+Like Emberstone, Ambermill had originally grown up on the back of resources — though not minerals, but timber.
 
 Because this place sat on Gilneas's border, with the powerful Kingdom of Lordaeron to the north, Gilneas had built a fair number of watchtowers and walls around this lumber town, hoping it could shoulder some of the duties of a fortress and support Shadowfang Castle to the west.
 
 In reality, the town was influenced far more by Dalaran than by Lordaeron. Many Dalaran mages who wished to study the herbs and magic of Silverpine Forest lived here. On the road leading into Ambermill, Jace could see plenty of mages in purple robes coming and going — on horseback or on foot.
 
-Of course, for a place so overrun with Dalaran mages bearing staves, the watchtower at the entrance still flew Gilneas's black-anchor banner, not the Eye of Violet. Many Lordaeronians assumed Ambermill was a Dalaran town — and even Jace, if he hadn't idly flipped through books on the shelves at Master Marin's place and looked up the borders and history of each kingdom, wouldn't have known this was a Gilnean border town.
+Of course, for a place so overrun with Dalaran mages bearing staves, the watchtower at the entrance still flew Gilneas's black-anchor banner, not the Violet Eye. Many Lordaeronians assumed Ambermill was a Dalaran town — and even Jace, if he hadn't idly flipped through books on the shelves at Master Malin's place and looked up the borders and history of each kingdom, wouldn't have known this was a Gilnean border town.
 
 Perhaps because Dalaran had never, in two thousand years of city-building, maintained any proper army, nor ever shown the desire or taken the action to invade other countries or annex territory, Gilneas didn't much care about Dalaran's influence.
 
@@ -34,7 +34,7 @@ Not to mention that wealthy mages had boosted the town's economy, developing wha
 
 So the kings of Gilneas, generation after generation, had turned a blind eye — after all, this place paid taxes to Gilneas.
 
-Though in the game, after the Scourge invasion, when the Kingdom of Lordaeron fell and Dalaran was personally destroyed by the defiler Archimonde, and all of Silverpine Forest rapidly rotted beneath the spread of the plague, King Genn had decisively sealed the Greymane Wall, shutting out the Scourge's influence — which also meant abandoning this town.
+Though in the game, after the Scourge invasion, when the Kingdom of Lordaeron fell and Dalaran was personally destroyed by Archimonde the Defiler, and all of Silverpine Forest rapidly rotted beneath the spread of the plague, King Genn had decisively sealed the Greymane Wall, shutting out the Scourge's influence — which also meant abandoning this town.
 
 And so, after the Scourge invasion subsided, the Kirin Tor had smoothly taken over the place, turning it into the front line against the Forsaken undead who occupied the ruins of Lordaeron. Of course, by then Ambermill would no longer be the lively place it was today.
 
@@ -54,7 +54,7 @@ Jace wandered back and forth near the tower at the town center and even asked a 
 
 Jace said nothing, just nodded and left the alchemy shop.
 
-That Ouldric had seemed quite familiar with Ursula. Later, Jace glanced back at the unassuming shopfront with Detect Demon and didn't find any demons.
+That Ouldric had seemed quite familiar with Ursula. Later, Jace glanced back at the unassuming shopfront with Sense Demons and didn't find any demons.
 
 Still, he had a feeling this place wasn't quite so simple. Maybe he should ask Ursula about it when he had the chance.
 
@@ -79,11 +79,3 @@ After eating his fill, Jace went to his room that evening. Morophil was leaning 
 "Our happy days are numbered," Morophil said mournfully, pressing herself against Jace with anticipation. "I burned through so much power that night, and I still haven't recovered, master. I urgently need your help."
 
 Jace pushed her away. "Forget it. Did you know Dalaran was once invaded by a succubus of your kind? So bringing you into this town full of mages is already dangerous enough. This isn't a ship or Southshore — don't you dare act up when we're surrounded by mages from now on."
-
-## Flags
-
-- **POV:** Third person (Jace Sesso).
-- **Setting:** The road north past Cinderstone Lake; the Greymane Wall; Ambermill in Silverpine Forest.
-- **Characters:** Jace Sesso, Morophil (succubus), Sazeno (imp), Ouldric (alchemist), Ursula (off-page, via letter).
-- **Key lore:** The Greymane Wall under construction; Shadowfang Castle (later Shadowfang Keep); Pyrewood River; Ambermill as a Dalaran-influenced Gilnean border town; foreshadowing of King Genn sealing the wall after the Scourge invasion and the Kirin Tor taking over Ambermill.
-- **Chapter title:** 三国交界 — "Where Three Kingdoms Meet" (Gilneas, Lordaeron, Dalaran).

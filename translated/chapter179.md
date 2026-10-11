@@ -58,7 +58,7 @@ Grede glanced at the large cluster of elven men and women and frowned. "You go. 
 
 Jace nodded and crossed the street. Vereesa noticed someone approaching from far off and looked up with raised eyebrows.
 
-It was obvious she really hadn't slept a wink. The brisk, sharp-edged look he'd seen in the tavern the night before had completely vanished.
+It was obvious she really hadn't slept a wink. The brisk, sharp-edged look she'd had the night before had completely vanished.
 
 "Miss Vereesa."
 
@@ -88,11 +88,11 @@ Vereesa gave an embarrassed laugh, then asked, "By the way, is your friend all r
 
 With that, Jace pulled out the blade he'd been carrying.
 
-Vereesa noticed the wound on Jace's shoulder and volunteered to help him take off his shirt, taking it off his hands and returning it, then sliding the blade back into the empty sheath at her waist.
+Vereesa noticed the wound on Jace's shoulder and stepped in to unwrap the shirt for him, handing it back before sliding the blade into the empty sheath at her waist.
 
 "I hope it was of some help."
 
-"It helped a lot," Jace said, watching her with his eyes on the blade. "How is Kaelfal?"
+"It helped a lot," Jace said, his eyes on the blade. "How is Kael'fal?"
 
 "His injuries are severe. He's still inside being treated."
 
@@ -112,15 +112,15 @@ Vereesa said, "The Farstriders were only supposed to be responsible for the emba
 
 "So being able to defeat Teron Gorefiend… means a great deal to me, Mr. Sesso. We didn't manage to kill him outright, but we taught him a lesson he won't forget. I believe that one day, he will pay the price for every crime he's committed."
 
-Jace could more or less guess who she meant by "kin." It was her youngest brother, Lelas Windrunner.
+Jace could more or less guess who she meant by "kin." It was her youngest brother, Lirath Windrunner.
 
-When the orcs invaded Quel'Thalas, Lelas — who had only just begun his ranger training — was killed resisting the invaders. That event was what steeled Alleria's resolve to cross the Dark Portal.
+When the orcs invaded Quel'Thalas, Lirath — who had only just begun his ranger training — was killed resisting the invaders. That event was what steeled Alleria's resolve to cross the Dark Portal.
 
 And what Vereesa had said also partly confirmed Jace's earlier suspicion.
 
-In other words, Gorefiend had actually been playing the role of drawing the Farstriders' attention last night. Someone else had been the one to steal the Eye of the Arcane.
+In other words, Gorefiend had actually been playing the role of drawing the Farstriders' attention last night. Someone else had been the one to steal the Eye of Dalaran.
 
-Vereesa took a deep breath, then smiled. "Also, you don't need to worry too much about Professor Kaelfal. I gave him some of the Well's water — he should recover quickly, and he'll need to get back to tending the other wounded as soon as possible."
+Vereesa took a deep breath, then smiled. "Also, you don't need to worry too much about Instructor Kael'fal. I gave him some of the Well's water — he should recover quickly, and he'll need to get back to tending the other wounded as soon as possible."
 
 "Ah, the Sunwell," Jace said with a nod.
 
@@ -133,14 +133,3 @@ Hold on…
 "Wait," Jace asked. "What I drank last night…"
 
 Vereesa's long silver eyebrows twitched. "That would be the one."
-
-## Flags
-
-- **温蕾萨·风行者** = **Vereesa Windrunner** (see Chapter 176 flag).
-- **远行者** = **Farstriders** (canonical — the elven ranger corps of Quel'Thalas; common WoW term).
-- **莱拉斯·风行者** rendered as **Lelas Windrunner** (Vereesa's youngest brother, killed during the orc invasion of Quel'Thalas). Not in glossary; transliteration tentative. (Canonical spelling may differ — flagged for verification.)
-- **太阳之井** = **Sunwell** (glossary); **太阳之井的井水** rendered as "water from the Sunwell" / "the Well's water."
-- Chapter title 就是你想的那瓶 rendered as "The One You're Thinking Of" (colloquial — "it's exactly the bottle you think it is").
-- **紫衣卫士** rendered as **purple-robed guards** (Kirin Tor guards). Not in glossary as a formal term.
-- Jace's "excavator" line — modern transmigrator humor, preserved.
-- The bards/bragging exchange with Grede — dwarven love of glory preserved per speech profile.

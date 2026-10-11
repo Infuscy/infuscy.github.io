@@ -4,7 +4,7 @@
 
 Jace swore under his breath in his native language, then turned and felt around for any weapon dropped by the gnolls or soldiers — all he came up with was the cleaver that small gnoll had been carrying.
 
-But the blade was far too short, useless for blocking or thrusting. The gnoll's weapon appeared to a human-forged battle axe with a head bigger than his own skull; if that came swinging at him, wouldn't he be cleaved in two on the spot?
+But the blade was far too short, useless for blocking or thrusting. The gnoll's weapon appeared to be a human-forged battle axe with a head bigger than his own skull; if that came swinging at him, wouldn't he be cleaved in two on the spot?
 
 "Grede! Get over here, damn it!" Jace shouted. A rustle of movement behind him — he couldn't tell if it was Grede or someone else, but they were already at his side.
 
@@ -66,39 +66,39 @@ Jace looked up the road. Through the torrential rain, a man in purple robes was 
 
 Was that Gandalf… or… Archmage Antonidas?
 
-When the mage drew closer, Jace finally made out his features. It was Marin!
+When the mage drew closer, Jace finally made out his features. It was Malin!
 
 He shouted an incantation. The crystal head of his staff at the tip steadily blazed with arcane light as he chanted, illuminating the road and the woods on both sides.
 
 The gnolls still fighting were caught in the light. When they looked to the center and saw their chieftain had turned into a sheep crouching by the roadside chewing grass, panic spread through their ranks. No small number of them covered their eyes and retreated into the forest.
 
-Marin called out, "Polymorph won't hold for long, Mr. Sesso! Minutes — maybe even seconds… The gnolls have a strong resistance to my offensive magic. Once the spell wears off, I won't be able to handle him either."
+Malin called out, "Polymorph won't hold for long, Mr. Sesso! Minutes — maybe even seconds… The gnolls have a strong resistance to my offensive magic. Once the spell wears off, I won't be able to handle him either."
 
 "Then we need to get out of here fast. There might be more gnolls headed this way." As Jace said it, he suddenly remembered the guard who'd been knocked down by the gnoll chieftain. He pulled off the man's helmet — he was still breathing.
 
-"Master Marin, take him!"
+"Master Malin, take him!"
 
-At Jace's shout, Marin dismounted and took one look at the guard's bloodied face. He gestured east with a wave. "Get him across the horse's back. Head east, quickly — you'll run into a sentry post soon. I'll come around from that direction."
+At Jace's shout, Malin dismounted and took one look at the guard's bloodied face. He gestured east with a wave. "Get him across the horse's back. Head east, quickly — you'll run into a sentry post soon. I'll come around from that direction."
 
 "Grede! We need to move!" Jace shouted at the still-dazed dwarf, calling to the men and the guards who could still move. Together they stripped the wounded soldier of his armor and got him onto the horse.
 
-Those who could still walk followed Marin's glowing magic light with the wounded. With their chieftain turned into a sheep, the gnolls had no will to pursue. The group marched briskly for ten minutes until they saw the torches of a sentry post, and only then did they slow down.
+Those who could still walk followed Malin's glowing magic light with the wounded. With their chieftain turned into a sheep, the gnolls had no will to pursue. The group marched briskly for ten minutes until they saw the torches of a sentry post, and only then did they slow down.
 
 The militiamen who could no longer walk collapsed against the railing. Jace threw his head back and took a deep breath, and only then felt like he could finally breathe again.
 
 Rain drummed against his forehead, slowly bringing him back to his senses.
 
-The sentries who'd come from the post took hold of Marin's white horse and called for help carrying and tending the wounded. Marin, having a spare moment, looked over at them and said to Jace, "I need to help these lads. You'd best leave quickly too — there are still wolves in these woods."
+The sentries who'd come from the post took hold of Malin's white horse and called for help carrying and tending the wounded. Malin, having a spare moment, looked over at them and said to Jace, "I need to help these lads. You'd best leave quickly too — there are still wolves in these woods."
 
 "How did you know we were in danger?"
 
-"I didn't," Marin said. "I was actually looking for you. I asked the labor-recruiting guards for your name. One of the workers said you'd headed to Westfall. I thought you'd gone to Moonbrook looking for work, so I was planning to ride out and talk you out of it. I didn't want to miss out on a helper like you. I just didn't expect a gnoll attack — as it turned out, it worked out perfectly to lend you a hand. What a coincidence."
+"I didn't," Malin said. "I was actually looking for you. I asked the labor-recruiting guards for your name. One of the workers said you'd headed to Westfall. I thought you'd gone to Moonbrook looking for work, so I was planning to ride out and talk you out of it. I didn't want to miss out on a helper like you. I just didn't expect a gnoll attack — as it turned out, it worked out perfectly to lend you a hand. What a coincidence."
 
 "I don't know how to thank you, Master. So… you're hiring me?"
 
-Marin nodded. "Come find me in the Mage Quarter once you've recovered to discuss compensation. Same place as before, Mr. Sesso. And regarding the red dragons — I'd still prefer you didn't hold anything back."
+Malin nodded. "Come find me in the Mage Quarter once you've recovered to discuss compensation. Same place as before, Mr. Sesso. And regarding the red dragons — I'd still prefer you didn't hold anything back."
 
-"Understood." Jace hadn't expected Marin to see that he was still hiding something. But when it came to the Demon Soul, he had no intention of spilling everything so soon. He'd need to come up with a reasonable explanation first.
+"Understood." Jace hadn't expected Malin to see that he was still hiding something. But when it came to the Demon Soul, he had no intention of spilling everything so soon. He'd need to come up with a reasonable explanation first.
 
 The mage gradually faded into the rain. The dwarf lay sprawled on the ground and said quietly, "I can't grip my axe anymore, Jace."
 

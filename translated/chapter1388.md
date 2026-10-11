@@ -1,12 +1,12 @@
-## Chapter 88: Everyone Has Their Own Schemes
+## Chapter 1388: Everyone Has Their Own Schemes
 
-Following the directions of a Cult guard captain, Jace found his way to a chamber deep in the corridor. Sabellian was lounging inside, with a powerfully-built female orc warrior asleep in his arms.
+Following the directions of a cult guard captain, Jace found his way to a chamber deep in the corridor. Sabellian was lounging inside, with a powerfully-built female orc warrior asleep in his arms.
 
 "Perfect timing. Take her away." Sabellian set aside the bowl of foul-smelling bloody liquid he'd been drinking from, licked his lips, looked up at Jace, and snorted a laugh. "It's you. How'd you find me here?"
 
 "You really don't waste a single second, do you?" Jace leaned against the doorframe.
 
-Sabellian picked up the orc and tossed her aside, stood up, snapped his fingers to cover his body in flames that coalesced into a finely crafted demon-blood robe, and let out a long sigh. "There aren't many days left, Negag."
+Sabellian picked up the orc and tossed her aside, stood up, snapped his fingers to cover his body in flames that coalesced into a finely crafted demon-blood robe, and let out a long sigh. "There aren't many days left, Naigag."
 
 "For me, sure. But you've still got plenty of opportunity," Jace said.
 
@@ -16,11 +16,11 @@ Jace glanced at the empty dark corridor and couldn't resist a jab. "So is your b
 
 "Ah, him. Hmm, I doubt it." Sabellian adjusted his teeth, hesitated for a moment, then said in a mocking tone, "After all, nobody can figure out what weird things that guy likes. Not even his sister."
 
-"And don't hint at Blackrock Spire again." When they reached an empty corner, the black dragon prince turned around. "In any case, I don't know how my brother twists magic, and I don't recommend you waste the remaining days trying to figure out something nobody except him has really mastered. Focus on the portal and the scepter, Negag."
+"And don't hint at Blackrock Spire again." When they reached an empty corner, the black dragon prince turned around. "In any case, I don't know how my brother twists magic, and I don't recommend you waste the remaining days trying to figure out something nobody except him has really mastered. Focus on the portal and the scepter, Naigag."
 
-"What I came to talk about this time has nothing to do with your family." Jace checked once more for anyone nearby — and checked that there were no emotional fluctuations in the shadows either. "Did you know there are warlocks hiding things in this palace? It might be something Wapil left behind, or maybe..."
+"What I came to talk about this time has nothing to do with your family." Jace checked once more for anyone nearby — and checked that there were no emotional fluctuations in the shadows either. "Did you know there are warlocks hiding things in this palace? It might be something Vorpil left behind, or maybe..."
 
-A flicker passed through Sabellian's eyes, and he tested in a low voice, "Something Ner'zhul, Gul'dan, or Killrogg Deadeye left for the Shadow Council?"
+A flicker passed through Sabellian's eyes, and he tested in a low voice, "Something Ner'zhul, Gul'dan, or Kilrogg Deadeye left for the Shadow Council?"
 
 "Looks like you knew too." Jace said. "Why didn't you tell me?"
 
@@ -28,15 +28,15 @@ Sabellian shook his head. "I was just about to. And right now, I don't have many
 
 "Your 'intelligence network' didn't come through?" Jace asked.
 
-Sabellian replied, "Those warlocks may outwardly rule the Cult, but they're very closed off among themselves. I haven't managed to bed any warlocks high enough to be in the Shriekhall. After all, those types can summon much more impressive Succubi. What do you think?"
+Sabellian replied, "Those warlocks may outwardly rule the cult, but they're very closed off among themselves. I haven't managed to bed any warlocks high enough to be in the Screaming Hall. After all, those types can summon much more impressive succubi. What do you think?"
 
-"You're admitting you're inferior to a Succubus?" Jace asked with a smile.
+"You're admitting you're inferior to a succubus?" Jace asked with a smile.
 
 Sabellian licked his sharp fangs and snorted. "Being able to feel superior just because you hang out with demons — even by Shadow Council standards, that's saying something."
 
 Jace's face cooled. He scanned the area and asked, "Then how did you find out?"
 
-"It was our little Carosha." The black dragon answered. "She noticed a few warlocks seemed to be hiding some sensitive stuff, then told me. How did you catch on?"
+"It was our little Karosha." The black dragon answered. "She noticed a few warlocks seemed to be hiding some sensitive stuff, then told me. How did you catch on?"
 
 "Just now, I sensed a warlock hiding information from me. He exposed himself trying to mask his emotions," Jace said.
 
@@ -46,9 +46,9 @@ Jace's face cooled. He scanned the area and asked, "Then how did you find out?"
 
 "Fair enough. Give me that warlock's name," Sabellian said.
 
-"I don't know his name." Jace said. "The one managing the storeroom with the Arakkoa artifacts."
+"I don't know his name." Jace said. "The one managing the storeroom with the arakkoa artifacts."
 
-"Ah." The black dragon nodded. "Ormagak. I know that warlock. He keeps a low profile, doesn't say much at gatherings. I remember every warlock who keeps their head down. I'll have little Carosha keep an eye on him."
+"Ah." The black dragon nodded. "Ormagak. I know that warlock. He keeps a low profile, doesn't say much at gatherings. I remember every warlock who keeps their head down. I'll have little Karosha keep an eye on him."
 
 "You're sending your daughter into danger?" Jace said quietly. "We're dealing with the last batch of Shadow Council warlocks. Are you sure?"
 
@@ -84,15 +84,15 @@ Sabellian raised an eyebrow. "Leave this messy business to me. You focus on the 
 
 "So how are you planning to get it?" Jace asked. "If we start a fight before the portal's finished... aren't you worried it'll cause chaos and delay things? The big plan has to take priority."
 
-"I already have a few suspects, Negag." Sabellian's tone was casual. "With this Ormagak fellow added to the list, I think little Carosha and I can narrow it down to a very small range."
+"I already have a few suspects, Naigag." Sabellian's tone was casual. "With this Ormagak fellow added to the list, I think little Karosha and I can narrow it down to a very small range."
 
-"Pretty soon, you'll see that this little group of warlocks who aren't all that loyal to the Legion will start having internal conflict — because it seems like someone wants to keep for themselves the thing they were all supposed to protect together. Then someone dies, someone goes mad, someone wants to seek shelter with the K'aresh envoys to avoid being killed. By the time you get your hands on the goods, you might not even know what happened."
+"Pretty soon, you'll see that this little group of warlocks who aren't all that loyal to the Legion will start having internal conflict — because it seems like someone wants to keep for themselves the thing they were all supposed to protect together. Then someone dies, someone goes mad, someone wants to seek shelter with the Karabor envoys to avoid being killed. By the time you get your hands on the goods, you might not even know what happened."
 
 "Now, do you still think this deal is unfair?"
 
 Jace let out a deep breath. "Good luck, then."
 
-As he was about to leave, Sabellian called out again. "And while you're at it, go ask Lady Sosara for help."
+As he was about to leave, Sabellian called out again. "And while you're at it, go ask Lady Sosala for help."
 
 "While I'm at it?" Jace asked.
 

@@ -22,7 +22,9 @@ The dense sound of spiders scuttling across the ground grew closer and closer. G
 
 "Sazeno! Out!"
 
-"Here! Here! This humble self finally sees the light of day again!" Hearing that voice, Grede, who'd been frantic with worry, went rigid.
+"Here! Here! Your humble servant finally sees the light of day again!"
+
+Hearing that voice, Grede, who'd been frantic with worry, went rigid.
 
 "Who's talking?"
 
@@ -46,7 +48,7 @@ The imp snapped his fingers. A ball of flame instantly incinerated all the spide
 
 Grede slammed down onto the ground, immediately raised his lightning hammer, and smashed it hard in the imp's direction. Lightning exploded outward, blowing out all the surrounding flames in one go. A massive serpentine current swept toward Sazeno's position — only to see the imp vanish with a mocking laugh in a flash of light. The blinding white light and shockwave from the discharged energy slammed both Jace and Grede into the wall.
 
-Jace hit the wall, rolled, and only slid to the ground after a full rotation. Smoke and dust from the fire and lightning explosion billowed everywhere. He pounded his chest and couched painfully several times.
+Jace hit the wall, rolled, and only slid to the ground after a full rotation. Smoke and dust from the fire and lightning explosion billowed everywhere. He pounded his chest and coughed painfully several times.
 
 "Stop fighting! Go… go… hurry! There are still spiders!"
 
@@ -58,7 +60,7 @@ It wasn't hard to understand — if he were this nest of spiders, hearing a ligh
 
 Grede muttered as he stood up, flames still dancing on his body. The imp popped up again not far behind him.
 
-The demon hopped about as it shrieked: "Come at me, you foul-mouthed idiot — see if I don't toy you to death."
+The demon hopped about as it shrieked: "Come at me, you foul-mouthed idiot — see if I don't run you ragged."
 
 Grede whipped around, snatched up the hammer from the ground, and hurled it in one fluid motion. The hammer spun through the air — and hit nothing, *clang*, smashing into the wall and dropping to the ground. The imp was already gone.
 
@@ -88,11 +90,11 @@ He picked up the cloak, shook off the dust, and looked at Jace, then at the bag,
 
 Grede pointed at him, then dropped his hand and sighed. "You goddamn… you always find some new trick to pull on me. That was a demon, right? I shouldn't expect anything else from you warlocks, but when the hell did you get that thing?"
 
-"Before we went to Redridge Mountains," Jace said.
+"Before we went to the Redridge Mountains," Jace said.
 
 "That long ago?" Grede said. "I was completely in the dark all these months?! It's been by your side the whole time, hiding in that bag, and I never knew?"
 
-"Pretty much. That time in Redridge Mountains…" Jace said. "He saved me from that orc — which indirectly saved you too. And up at Stonewatch, without his help, I definitely would've been chopped to death by gnolls."
+"Pretty much. That time in the Redridge Mountains…" Jace said. "He saved me from that orc — which indirectly saved you too. And up at Stonewatch, without his help, I definitely would've been chopped to death by gnolls."
 
 Grede pinched the back of his neck with a pained expression. "I actually traveled with a demon all this time. My gods."
 
@@ -112,7 +114,7 @@ Jace said, "Haven't found any problems so far."
 
 "Ah… that's a good point." Grede said. "But we can't take much — it's getting late, and our bags aren't big enough to hold much anyway."
 
-"Let's at least take some clean bits — not too much dust and dead bugs." Jace said. "Can we make it to Quel'Danis before dark?"
+"Let's at least take some clean bits — not too much dust and dead bugs." Jace said. "Can we make it to Quel'Danil before dark?"
 
 "Should be doable." Grede nodded and started sorting through the things in his bag.
 
@@ -121,18 +123,3 @@ Jace said, "Haven't found any problems so far."
 "A bit late for that realization, isn't it?" Jace said.
 
 "You demon lord…" Grede gripped his dagger and gritted his teeth. "Hurry up and get that spider silk!"
-
-## Flags
-
-- **该来的是要来的** → "What's Coming Will Come" (该来的 = what should come / what's destined; 是要来的 = will come; a resigned "inevitable" idiom — Grede's grudging acceptance of the demon reveal)
-- **撒厄诺** → Sazeno (imp minion; per glossary)
-- **格瑞德** → Grede (per glossary)
-- **杰斯·塞索** → Jace Sesso (per glossary)
-- **光亮术** → Light (mage cantrip; per glossary)
-- **赤脊山** → Redridge Mountains (per glossary)
-- **石堡** → Stonewatch (per glossary)
-- **奎尔丹尼** → Quel'Danis (high elf settlement; not in glossary — tentative)
-- **南海镇** → Southshore (per glossary)
-- **蛮锤** → Wildhammer (per glossary)
-- **影之国** → the Shadowlands (the afterlife; not in glossary)
-

@@ -1,16 +1,16 @@
 ## Chapter 1562: The Seven Sages
 
-Under the blazing lava light, Jace raised a hand to shield his eyes as he walked into the Tomb of the Summoners.
+Under the blazing lava light, Jace raised a hand to shield his eyes as he walked into the Summoners' Tomb.
 
-The "Summoners" were the Dark Iron sages who had summoned Ragnaros the Fire Lord two hundred years ago. They were the seven most powerful leaders of the Dark Iron tribe at the time — and every one of them had died in the summoning ritual. Their students and descendants, under the Fire Lord's "blessing," propped up the entire kingdom. To honor them, these later elites buried them here — the so-called "Tomb of the Seven Sages."
+The "Summoners" were the Dark Iron sages who had summoned Ragnaros the Firelord two hundred years ago. They were the seven most powerful leaders of the Dark Iron clan at the time — and every one of them had died in the summoning ritual. Their students and descendants, under the Firelord's "blessing," propped up the entire kingdom. To honor them, these later elites buried them here — the so-called "Tomb of the Seven Sages."
 
 In the game, players had to challenge the seven spirits here and emerge victorious to earn the right to venture deeper into Shadowforge City.
 
 So he was facing a similar situation — taking on the seven greatest Dark Iron sages in history?
 
-This wasn't far from the Hall of Lecturing. When Jace first came to Shadowforge City with Sora to investigate how to break Onyxia's disguise, he'd seen the fork leading to the Tomb of the Seven Sages at the Hall of Lecturing's entrance.
+This wasn't far from the Lyceum. When Jace first came to Shadowforge City with Sola to investigate how to break Onyxia's disguise, he'd seen the fork leading to the Summoners' Tomb at the Lyceum's entrance.
 
-But while the Hall of Lecturing was where the Flamekeepers preached, Jace noticed that none of the dwarves who'd come with Dagran Thaurissan to witness his "proving" were Flamekeepers.
+But while the Lyceum was where the pyromancers preached, Jace noticed that none of the dwarves who'd come with Dagran Thaurissan to witness his "proving" were pyromancers.
 
 Jace had assumed that as a Dark Iron "ancient tradition," the whole thing would be very formal — maybe even a public spectacle for all of Shadowforge City.
 
@@ -18,15 +18,15 @@ When the hood came off, he'd braced himself for being thrown into the Ring of La
 
 But while quite a few people were watching from around the edges, aside from Thaurissan and a few nobles in heavy ceremonial armor and two Dark Iron mages Jace didn't recognize, they were mostly Thaurissan's personal guards.
 
-Not only were the Flamekeepers absent, but Twilight Lord Gestae — as the victim of his "black dragon spy" act — hadn't been invited either. Nor were there any elementals — not Isendius and the fire elementals, not Rukuar and his molten elementals.
+Not only were the pyromancers absent, but Twilight Lord Gerstahn — as the victim of his "black dragon spy" act — hadn't been invited either. Nor were there any elementals — not Incendius and the fire elementals, not Roccor and his molten elementals.
 
 So this was a "secret execution"? No wonder it was so rushed.
 
-One of Thaurissan's guards removed Jace's shackles, and Jace immediately felt Morofel sneaking close to the Tomb of the Seven Sages. He used the soul-link to stop her from getting nearer.
+One of Thaurissan's guards removed Jace's shackles, and Jace immediately felt Morophil sneaking close to the Summoners' Tomb. He used the Soul Link to stop her from getting nearer.
 
 He glanced back at Dagran Thaurissan. The emperor didn't look like he was out for blood. Probably not at the point of a complete confrontation yet.
 
-But he didn't have Ussaleth or Eversong with him. No potions, no soul shards to summon demons. Even the Angelista's Sash — gifted by Varian Wrynn to enhance his spell power — had been temporarily lent to Needle Flame to avoid revealing how close he was to Stormwind's nobility.
+But he didn't have Ulthalesh or Azuresong with him. No potions, no soul shards to summon demons. Even the Angelista's Sash — gifted by Varian Wrynn to enhance his spell power — had been temporarily lent to Needleflame to avoid revealing how close he was to Stormwind's nobility.
 
 This Twilight's Hammer robe and accessories had been useful for hiding his identity and nothing else in combat. And now they couldn't even hide his identity anymore.
 
@@ -44,7 +44,7 @@ How the hell am I supposed to know if I'm innocent, sincere, honest, or carrying
 
 And "never taken an innocent citizen's life" — did that count outsiders?
 
-He didn't actually say that. He swallowed, then walked step by step into the depths of the Tomb of the Summoners.
+He didn't actually say that. He swallowed, then walked step by step into the depths of the Summoners' Tomb.
 
 "Thaurissan descendant. It has been long since you last visited us."
 
@@ -54,7 +54,7 @@ A deep voice from the far end spoke in dwarven that was hard to parse. Fortunate
 
 The emperor's voice echoed through the hall. When it faded, after a moment, a faint dwarven spirit materialized before the central black coffin at the highest point.
 
-Jace rarely saw ghosts in Azeroth without drinking Ghost Detection Potion — not even the troll spirits at the Temple of Atal'Hakkar, which were filled with endless hatred and suffering. But this dwarven spirit simply appeared.
+Jace rarely saw ghosts in Azeroth without drinking Elixir of Detect Undead — not even the troll spirits at the Temple of Atal'Hakkar, which were filled with endless hatred and suffering. But this dwarven spirit simply appeared.
 
 Not only was his silhouette clear — the runes on his dark red robe, the flame patterns on his mantle, the skull decoration on his belt, the dark magic stone on his metal staff were all visible.
 
@@ -78,7 +78,7 @@ So it was one-on-one?
 
 "I understand well, sage," Jace said.
 
-"Prove it to Grulrel, outsider."
+"Prove it to Gloom'rel, outsider."
 
 The Dark Iron dwarf raised his sword. The words had barely left his mouth when his whole form flushed red. A surge of raw fury flooded his spirit.
 
@@ -90,11 +90,11 @@ The Dark Iron dwarf launched forward like a dark cannonball, slamming straight i
 
 Jace felt a dizzying shock. The sword-throw's force far exceeded his expectations. The shield was nearly shattered in a single blow.
 
-With no time to hesitate against this ancient sage's spirit, Jace immediately cast Bloodfang Grasp to snatch the greatsword — but grasped nothing. The spiritual blade's residual energy had already dissipated after striking the shield, and Grulrel already held another war-sword, the shadow shield pierced, swinging at the warlock!
+With no time to hesitate against this ancient sage's spirit, Jace immediately cast Gorefiend's Grasp to snatch the greatsword — but grasped nothing. The spiritual blade's residual energy had already dissipated after striking the shield, and Gloom'rel already held another war-sword, the shadow shield pierced, swinging at the warlock!
 
 The dwarf drove the blade into the warlock's form — but the human dissolved into shadow, evading the blow.
 
-Thick shadow energy shrouded the hall like fog. Grulrel spun around, blood-red eyes searching the mist. His expression hardened as black chains bound his hands and feet. The mist in the hall was yanked violently by some strange force, coalescing at a single point. Jace emerged behind him, a blood-red soul gradually taking shape between his palms.
+Thick shadow energy shrouded the hall like fog. Gloom'rel spun around, blood-red eyes searching the mist. His expression hardened as black chains bound his hands and feet. The mist in the hall was yanked violently by some strange force, coalescing at a single point. Jace emerged behind him, a blood-red soul gradually taking shape between his palms.
 
 As the soul in Jace's hands grew redder and darker, the dwarven spirit's form shrank noticeably.
 
@@ -104,11 +104,11 @@ Finally, the dwarven spirit had no strength left even for a second charge. He le
 
 Murmurs spread among the guards and mages watching at the entrance. Dagran Thaurissan ignored a dwarven noble whispering beside him, keeping his lips pressed tight as he stared at Jace — the ease he'd had when shoving him in was gone.
 
-Then a bell-like chime, deep and seemingly not of this plane, came from the formerly empty black coffin. A faint blue light appeared beneath it. Before long, Grulrel's spirit re-emerged before his coffin.
+Then a bell-like chime, deep and seemingly not of this plane, came from the formerly empty black coffin. A faint blue light appeared beneath it. Before long, Gloom'rel's spirit re-emerged before his coffin.
 
 Jace could sense that his soul was bound to the coffin by some powerful magic — not something that could be casually destroyed. Not that he'd intended to wipe out a Dark Iron ancestor by draining his soul anyway.
 
-"Rage makes you strong, Lord Grulrel, but it also makes you too pure for my tastes."
+"Rage makes you strong, Lord Gloom'rel, but it also makes you too pure for my tastes."
 
 "Your words ring true, warlock." The fighter's spirit said. "You do possess strength to match your courage."
 

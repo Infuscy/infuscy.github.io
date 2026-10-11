@@ -1,6 +1,6 @@
 ## Chapter 818: Bremmugo
 
-The Dustwallow Marsh, which reeked of blood and filth from night into the following morning, seemed much calmer than before. The beasts that had been lurking in the shadows to watch them the night the airship crashed were nowhere to be seen around here anymore.
+Dustwallow Marsh, which had reeked of blood and filth from night into the following morning, seemed much calmer than before. The beasts that had been lurking in the shadows to watch them the night the airship crashed were nowhere to be seen around here anymore.
 
 Jace knew this meant something far more terrifying was prowling about.
 
@@ -54,7 +54,7 @@ Almost at the same time, the arrow from Vereesa's bow shot forth, piercing the c
 
 Jace and Grede charged over at full speed, hoping to help, but there wasn't much the two of them could do at a moment like this—the distance was simply too far. Morophil was faster. Just as the dragonkin sank into the shadows, she seized the creature's neck at even greater speed and dragged it back out of the darkness, a dagger plunging through the back of its head.
 
-But just as Vereesa slightly lowered her bow, the scout who had already fallen suddenly lifted her upper body and shouted toward the heights: "Bremm..."
+But just as Vereesa slightly lowered her bow, the mage who had already fallen suddenly lifted her upper body and shouted toward the heights: "Bremm..."
 
 Although she didn't finish before another arrow pierced through her mouth, the cry had already echoed through the marsh. When the group reached her side, the mage's body slowly curled up, her lips still mumbling: "...Bremmugo."
 
@@ -76,17 +76,17 @@ Sazeno popped up from who knows where, grabbing Jace by the collar. "There's a d
 
 "Feel the punishment of Bremmugo, and pay the price for all the crimes you have committed!"
 
-Vereesa flashed out from the side, immediately drawing her bow toward the source of the voice. But the whelp quickly flew far away behind the cover of the dense tree canopy, and they soon lost track of its shadow.
+Vereesa flashed out from the side, immediately drawing her bow toward the source of the voice. But the drake quickly flew far away behind the cover of the dense tree canopy, and they soon lost track of its shadow.
 
 She cursed under her breath in Thalassian, lowered her bow, and said, "It's hard to get a clear shot in here!"
 
-In the distance came the whelp's peals of laughter, as if it had heard her voice.
+In the distance came the drake's peals of laughter, as if it had heard her voice.
 
 "This time you won't escape. You won't escape again, laughable mortals!"
 
 Jace knew this creature was planning to attack while buying time, waiting for all the dragonkin to surround them.
 
-He gripped the Song of the Blue Sky at his waist, but the brilliant light it released when it exerted its power would undoubtedly make it even easier for them to expose their position.
+He gripped Azuresong at his waist, but the brilliant light it released when it exerted its power would undoubtedly make it even easier for them to expose their position.
 
 But Vereesa suddenly looked at Grede and said, "When it comes around, transform and throw me up into the air."
 
@@ -98,13 +98,13 @@ But Vereesa suddenly looked at Grede and said, "When it comes around, transform 
 
 Perhaps drawn by the pendant's light, the sound of massive wings churning the wind came from the sky once more. Vereesa locked onto the direction of the voice and pointed at Grede. "Now!"
 
-Grede nodded, grabbed Vereesa by the back of her leg, and hurled her high into the air. Jace watched the elf turn a somersault in the sky, draw an arrow, and loose a bolt glowing with arcane light. The radiance pierced through the layers of tree canopy and directly struck a shadow that was suddenly swooping in, accompanied by a savage roar. The whelp, wreathed in chaotic flames and black smoke, crashed into the forest, uprooting and snapping tree after tree.
+Grede nodded, grabbed Vereesa by the back of her leg, and hurled her high into the air. Jace watched the elf turn a somersault in the sky, draw an arrow, and loose a bolt glowing with arcane light. The radiance pierced through the layers of tree canopy and directly struck a shadow that was suddenly swooping in, accompanied by a savage roar. The drake, wreathed in chaotic flames and black smoke, crashed into the forest, uprooting and snapping tree after tree.
 
 "Hah! Damn, little elf, you're something else!"
 
-Grede laughed and charged over at full speed. The whelp lifted its head and spat a mouthful of blood, only to see this stone-sprite monster barreling toward it. Startled, it frantically flapped its wings to take off again. Jace rushed up and quickly cast a choking curse, seizing its serpentine neck.
+Grede laughed and charged over at full speed. The drake lifted its head and spat a mouthful of blood, only to see this stone monster barreling toward it. Startled, it frantically flapped its wings to take off again. Jace rushed up and quickly cast Asphyxiate, seizing its serpentine neck.
 
-The whelp was choked by the throat and couldn't muster the strength to fly. Jace immediately followed up with a Curse of Weakness, and this time it collapsed on the ground completely, struggling for a long time before it broke free of the shadow's grip. By the time it tried to take off again, Grede had already reached its side!
+The drake was choked by the throat and couldn't muster the strength to fly. Jace immediately followed up with a Curse of Weakness, and this time it collapsed on the ground completely, struggling for a long time before it broke free of the shadow's grip. By the time it tried to take off again, Grede had already reached its side!
 
 "Get away, dwarf!"
 
@@ -112,7 +112,7 @@ The whelp was choked by the throat and couldn't muster the strength to fly. Jace
 
 Grede cut off Bremmugo's muttering with a shout, leaped up, and swung his axe in a full arc, cleaving its head clean off its serpentine neck, leaving a neat, bright red stump.
 
-The whelp's roar came to an abrupt halt. Its head convulsed and tumbled to the side. Its body went wild on the ground, smashing through several small trees before rolling over into the mud nearby. Fire and dragon blood splattered everywhere.
+The drake's roar came to an abrupt halt. Its head convulsed and tumbled to the side. Its body went wild on the ground, smashing through several small trees before rolling over into the mud nearby. Fire and dragon blood splattered everywhere.
 
 Vereesa dropped down from a nearby tree, looked at the scene, and turned her head. Her silhouette trembled slightly in the blood-red light behind her.
 

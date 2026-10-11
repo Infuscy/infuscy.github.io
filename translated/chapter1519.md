@@ -1,14 +1,14 @@
 ## Chapter 1519: Doing What King Varian Should Do
 
-If Jace was being honest, riding a noticeably scrawny whelp like Needleflame for a long-distance trip was not a pleasant experience. She had no experience carrying passengers. The spikes all over the black dragon's back meant Jace didn't dare make any unnecessary moves the entire way. Not to mention she didn't have Solara's dream magic to shield them from Dun Morogh's biting cold, or the scorching wind that still rolled across the sky west of Blackrock Mountain even far from the peak.
+If Jace was being honest, riding a noticeably scrawny whelp like Needleflame for a long-distance trip was not a pleasant experience. She had no experience carrying passengers. The spikes all over the black dragon's back meant Jace didn't dare make any unnecessary moves the entire way. Not to mention she didn't have Sola's dream magic to shield them from Dun Morogh's biting cold, or the scorching wind that still rolled across the sky west of Blackrock Mountain even far from the peak.
 
 On the bright side, a route Jace had already memorized -- from Menethil Harbor to Stormwind -- somehow felt brand new this time, with a novelty he'd never experienced before.
 
-On Solara's back, Vereesa and the others were chatting and laughing about something. But Jace and Needleflame, flying off to the side and behind, traveled in silence. One was nervous as hell, the other couldn't get comfortable no matter how she sat.
+On Sola's back, Vereesa and the others were chatting and laughing about something. But Jace and Needleflame, flying off to the side and behind, traveled in silence. One was nervous as hell, the other couldn't get comfortable no matter how she sat.
 
 Still, over the course of this journey from Dalaran to Grim Batol, Jace felt he'd come to a new understanding of this black dragon.
 
-For all her fussiness along the way -- one unreasonable demand after another -- she hadn't acted willful or bratty at either the Violet Prison or the gathering at the Cadros Anvil with the Three Hammers' leaders present, the way she did when it was just him and Solara.
+For all her fussiness along the way -- one unreasonable demand after another -- she hadn't acted willful or bratty at either the Violet Hold or the gathering at the Khardros Anvil with the Three Hammers' leaders present, the way she did when it was just him and Sola.
 
 She was probably only about four years old now, but like her appearance and power, her personality and understanding of the world were completely at odds with that age.
 
@@ -24,7 +24,7 @@ Now that Deathwing was dead, before a new Black Aspect inherited his power, Need
 
 Jace felt he was already starting to see traces of Wrathion in her. But he still hoped Needleflame wouldn't follow the same path as Wrathion -- seeking her lineage and fighting for the throne.
 
-Fortunately, from what Needleflame had shown, aside from occasionally using her parentage to verbally put down Solara and the rest of them as "pitiful mortals," she didn't seem interested in those things.
+Fortunately, from what Needleflame had shown, aside from occasionally using her parentage to verbally put down Sola and the rest of them as "pitiful mortals," she didn't seem interested in those things.
 
 Birds of a feather flock together. Maybe that was why Needleflame fit in so well with their group. A lord who didn't want to be a lord. A ranger lord who didn't know how to be a ranger lord. A Dreamguard candidate who didn't dare go back to defend the Dream. An advisor who didn't know how to give advice...
 
@@ -34,11 +34,11 @@ Birds of a feather flock together. Maybe that was why Needleflame fit in so well
 
 He handed his circlet and blue cloak to a nearby attendant, pushed open the side chamber door ahead of the guards, strode in, took a sip of the tea set out on the table, and asked, "How was it?"
 
-"Everything went smoothly." Jace nodded. "The warhammer is forged. Ironforge will send Lord Muradin Bronzebeard to Blackrock Mountain. High Lord Kurdran of Aerie Peak and his gryphon riders will also be going."
+"Everything went smoothly." Jace nodded. "The warhammer is forged. Ironforge will send Lord Muradin Bronzebeard to Blackrock Mountain. High Thane Kurdran of Aerie Peak and his gryphon riders will also be going."
 
 "Kurdran Wildhammer... and the other Sons of Lothar." Varian said quietly. "I hope this battle, nearly ten years overdue, can honor the spirit of Marshal Lothar."
 
-"Next, we need to take this warhammer into Shadowforge City and find Roccor the Dark Cleft, the leader of the Thorium Brotherhood." Jace said. "Hopefully he can help us find a way to show this hammer to the Dark Iron dwarves."
+"Next, we need to take this warhammer into Shadowforge City and find Lokhtos Darkbargainer, the leader of the Thorium Brotherhood." Jace said. "Hopefully he can help us find a way to show this hammer to the Dark Iron dwarves."
 
 Varian gestured to a nearby chair. "Earlier, Wildhammer gryphon riders rescued an SI:7 agent from the Dark Iron Excavation Site. He'd been working as a slave miner gathering intelligence there. But because the Bronzebeard spy handling contact was discovered and executed by the Dark Irons, he was trapped inside."
 
@@ -46,7 +46,7 @@ Varian gestured to a nearby chair. "Earlier, Wildhammer gryphon riders rescued a
 
 "I'll discuss it with Mathias." Jace sat down. "Before we set out, do you want to see the warhammer?"
 
-"I know almost nothing about smithing or dwarf history, Jace. Showing it to me would be pointless." Varian said. "You've just come back from veteran smiths of the Dark Irons, historians of Ironforge, and elderly leaders of Aerie Peak. Their authority is immeasurably greater than mine. The important thing is, SI:7 has revealed that there are spies bought by the Ironrage Legion within these very walls. Many people in Shadowforge City already know the Alliance is planning another attack on Blackrock Mountain. So before you show this hammer to the Dark Irons, it's best not to let it appear in Stormwind."
+"I know almost nothing about smithing or dwarf history, Jace. Showing it to me would be pointless." Varian said. "You've just come back from veteran smiths of the Dark Irons, historians of Ironforge, and elderly leaders of Aerie Peak. Their authority is immeasurably greater than mine. The important thing is, SI:7 has revealed that there are spies bought by the Anvilrage Legion within these very walls. Many people in Shadowforge City already know the Alliance is planning another attack on Blackrock Mountain. So before you show this hammer to the Dark Irons, it's best not to let it appear in Stormwind."
 
 "I understand." Jace coughed lightly behind his hand. "Last time, in the valley of southern Elwynn..."
 
@@ -58,7 +58,7 @@ Varian was getting a bit worked up. He took a deep breath to steady himself. "Th
 
 "Are you sure, Varian?" Jace asked.
 
-"That's all you have to say?" The king looked up. "I thought you'd throw every terrifying account of black dragons and orc warlocks in the entire Wizard Sanctum library in my face, like Mathias Shaw did. Honestly, that day I almost thought he was my magical advisor instead."
+"That's all you have to say?" The king looked up. "I thought you'd throw every terrifying account of black dragons and orc warlocks in the entire Wizard's Sanctum library in my face, like Mathias Shaw did. Honestly, that day I almost thought he was my magical advisor instead."
 
 "I only know that if you don't do this yourself -- if you don't personally avenge Marshal Anduin Lothar -- you'll spend the rest of your life regretting it." Jace said.
 

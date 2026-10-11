@@ -1,6 +1,6 @@
 ## Chapter 864: A Familiar Name
 
-"What the hell is it, Sora!"
+"What the hell is it, Sola!"
 
 Seeing God-knows-what closing in, Grede couldn't hold back either.
 
@@ -10,7 +10,7 @@ Jace called on the fire elementals and released a mass of tangible flames that b
 
 "Don't move, Grede, I'll help you!"
 
-Sora chanted a spell as she spoke. The dwarf, who could barely walk steady from discomfort, was quickly surrounded by a force of nature, and the disease infecting him was purged along with it.
+Sola chanted a spell as she spoke. The dwarf, who could barely walk steady from discomfort, was quickly surrounded by a force of nature, and the disease infecting him was purged along with it.
 
 Jace watched the pustules shrink, blacken, and rot away. The skin regained its color, and new pustules stopped forming.
 
@@ -22,7 +22,7 @@ The snow pine shook, showering down a flurry of snow. The demonic shadow vanishe
 
 "I fucking saw nothing at all…" Grede started, then clutched his stomach and coughed violently a few times before vomiting.
 
-"It is indeed it, but it should have been a companion of the druids," Sora said guiltily. "I don't know what you call it. I only know what the green dragons call it."
+"It is indeed it, but it should have been a companion of the druids," Sola said guiltily. "I don't know what you call it. I only know what the green dragons call it."
 
 Actually, Jace felt he'd more or less gotten a look at the creature.
 
@@ -32,9 +32,9 @@ But if it was a companion of the druids, then he could more or less make the cal
 
 "I… think so too," Vereesa said.
 
-"A faerie dragon this big?!" Grede asked, then felt something was off and turned to Sora. "How big can faerie dragons get?"
+"A faerie dragon this big?!" Grede asked, then felt something was off and turned to Sola. "How big can faerie dragons get?"
 
-Sora answered while staying alert to their surroundings. "If it's a creature with a pair of tendrils on its head and butterfly-like wings, then yes. They can grow very large, but the largest ones prefer to hide in the Emerald Dream. They rarely appear in — well, the real world."
+Sola answered while staying alert to their surroundings. "If it's a creature with a pair of tendrils on its head and butterfly-like wings, then yes. They can grow very large, but the largest ones prefer to hide in the Emerald Dream. They rarely appear in — well, the real world."
 
 Jace still remembered the faerie dragon he'd encountered by the pond in Feralas — about the size of a dog, to say nothing of the pen he'd given Amy… A creature whose two head-tendrils could be made into a quill pen — how big could it be?
 
@@ -42,15 +42,15 @@ Jace still remembered the faerie dragon he'd encountered by the pond in Feralas 
 
 "I don't know, Jace. They're all very friendly creatures, unless we've trespassed on something it wants to protect."
 
-"What's it protecting, Ursalias?!" Vereesa demanded angrily.
+"What's it protecting, Ulthalesh?!" Vereesa demanded angrily.
 
-No sooner had the words left her mouth than an ethereal cry came from the sky… "Ur—salias! Ursalias!"
+No sooner had the words left her mouth than an ethereal cry came from the sky… "Ur—salias! Ulthalesh!"
 
-Was it calling out the name of Ursalias? Jace could barely believe what he was hearing.
+Was it calling out the name of Ulthalesh? Jace could barely believe what he was hearing.
 
 And the voice was exactly like a child's wail, accompanied by bursts of painful sobbing, as if lodging some kind of accusation.
 
-Hearing that cry, Vereesa also froze and looked up. Then the air around them suddenly rippled like waves in water. An indistinct something spun down from the heights toward her. Jace immediately shouted, "Look out, Wyn!"
+Hearing that cry, Vereesa also froze and looked up. Then the air around them suddenly rippled like waves in water. An indistinct something spun down from the heights toward her. Jace immediately shouted, "Look out, Vere!"
 
 The faerie dragon suddenly appeared from a twisted fold in space and spat a cloud of yellow fog at the ranger!
 
@@ -60,13 +60,13 @@ It all happened too fast. Jace had just tried to call on his flames, and Vereesa
 
 "Mana Burn…"
 
-Molofel murmured, emerging from the shadows. She hurled the Blade of Eternal Darkness in her hand, striking the faerie dragon square between the eyes. This stopped it from attempting a second spell.
+Morophil murmured, emerging from the shadows. She hurled the Blade of Eternal Darkness in her hand, striking the faerie dragon square between the eyes. This stopped it from attempting a second spell.
 
-At the same time, Sora guided the magic with both hands. Several writhing roots burst from the snowy ground and bound the faerie dragon tightly in mid-air.
+At the same time, Sola guided the magic with both hands. Several writhing roots burst from the snowy ground and bound the faerie dragon tightly in mid-air.
 
-Struck in the head, the faerie dragon lacked the strength to resist. It fell to the ground, thrashing and snapping a few roots. But before it could take flight again, Jace's shadowfire ball had already been hurled over, blowing apart its wings and torso.
+Struck in the head, the faerie dragon lacked the strength to resist. It fell to the ground, thrashing and snapping a few roots. But before it could take flight again, Jace's ball of Shadowflame had already been hurled over, blowing apart its wings and torso.
 
-"Wyn! Are you all right?!" Jace shouted.
+"Vere! Are you all right?!" Jace shouted.
 
 Vereesa coughed as she stood up, shaking her head vigorously. But it was clear the burn had caused her excruciating pain.
 
@@ -78,7 +78,7 @@ In that instant, the group finally got a clear look at its appearance. The faeri
 
 Its gem-purple eyes, which should have been crystal clear, had become clouded and murky. Its scales, skin, and claws all reeked of decay — and this was definitely not the result of Jace's shadowflame.
 
-Watching it stand there trembling, Sora's face was full of shock. She clearly hadn't expected a companion of the green dragons, a denizen of the Emerald Dream, to have become an undead creature.
+Watching it stand there trembling, Sola's face was full of shock. She clearly hadn't expected a companion of the green dragons, a denizen of the Emerald Dream, to have become an undead creature.
 
 Then Grede charged over and smashed his hammer across the faerie dragon's mouth, knocking it flat again. Just as he was about to bring the hammer down and crush its skull completely, the faerie dragon spoke.
 
@@ -96,19 +96,21 @@ This was necromantic power. Jace could feel it clearly — just like the warm wi
 
 That's right — this faerie dragon had already died long ago. It was an undead creature now. Perhaps it had been transformed into this zombie faerie dragon by that long-named necromantic plague the furbolgs had mentioned.
 
-He handed the Everfrost Crystal to Vereesa. "Hold onto this, Wyn."
+He handed the Flowing Ice Crystal to Vereesa. "Hold onto this, Vere."
 
-Vereesa took a deep breath, took the artifact, and clutched it in her hand. Her complexion only then improved slightly. Perhaps it was because of Ursalias.
+Vereesa took a deep breath, took the artifact, and clutched it in her hand. Her complexion only then improved slightly. Perhaps it was because of Ulthalesh.
 
-"Didn't any of you care about what it just said?" Grede asked, still frozen in place, his hand raised halfway. "It said… 'Die, die, Viltaan.'" Sora asked, "What does that mean to you?"
+"Didn't any of you care about what it just said?" Grede asked, still frozen in place, his hand raised halfway. "It said… 'Die, die, Vyletongue.'"
 
-"What? Viltaan?" Jace asked in surprise. "You're sure it said that name?"
+Sola asked, "What does that mean to you?"
+
+"What? Vyletongue?" Jace asked in surprise. "You're sure it said that name?"
 
 Now that she mentioned it, he recalled the words he'd heard from the faerie dragon and realized it was probably because he'd heard this name that it had felt familiar.
 
-Sora said, "I'm sure. Faerie dragons don't say much. Their specialty is calling out names, so this is almost certainly a name. But who is Viltaan, Grede?"
+Sola said, "I'm sure. Faerie dragons don't say much. Their specialty is calling out names, so this is almost certainly a name. But who is Vyletongue, Grede?"
 
-"A satyr," Molofel said. "A powerful satyr lord. We encountered him in Maraudon. He was trying to transform the creatures in that cave with shadow and fel."
+"A satyr," Morophil said. "A powerful satyr lord. We encountered him in Maraudon. He was trying to transform the creatures in that cave with shadow and fel."
 
 "I almost died at his hands," Vereesa said.
 
@@ -116,7 +118,7 @@ Sora said, "I'm sure. Faerie dragons don't say much. Their specialty is calling 
 
 "Why would that bastard's name show up here?" Grede asked with a frown.
 
-"Because of me?" Molofel asked. "The runes on my body drew upon the residual power in Viltaan's demonhide. Perhaps it mistook me for that demon."
+"Because of me?" Morophil asked. "The runes on my body drew upon the residual power in Vyletongue's demonhide. Perhaps it mistook me for that demon."
 
 "Now that you mention it… that's quite possible," Grede sighed, bracing himself on his shield. "But that doesn't solve another problem. How would this faerie dragon know the satyr lord of Maraudon?"
 
@@ -124,22 +126,22 @@ Right then, a series of howling sounds came from the forest in the distance, dra
 
 "We should leave! Keep moving!" the furbolg said, pointing his spear to the southeast. "More than one."
 
-Sora looked at the furbolg. "He's right. We should get out of here. Faerie dragons always appear in groups, even the adults. There are likely other hostile resurrected faerie dragons heading this way."
+Sola looked at the furbolg. "He's right. We should get out of here. Faerie dragons always appear in groups, even the adults. There are likely other hostile resurrected faerie dragons heading this way."
 
 "Then let's find a safe place to talk it over first," Jace said.
 
 The group left the place where the faerie dragon had died. By now the sky had darkened too.
 
-As they walked, Vereesa said, "The only thing I can think of that connects Viltaan and that faerie dragon just now is Das Mora."
+As they walked, Vereesa said, "The only thing I can think of that connects Vyletongue and that faerie dragon just now is Dasmora."
 
-She clutched the Everfrost Crystal and looked over. "Tell me, Jace — could it be that Viltaan tried to summon Das Mora in Maraudon, and that's connected to this journey of hers searching for Ursalias? Maybe they came together, which is how the faerie dragon here came to remember Viltaan's name. Viltaan probably wreaked havoc in this valley along with other satyrs, which is why it wanted him dead."
+She clutched the Flowing Ice Crystal and looked over. "Tell me, Jace — could it be that Vyletongue tried to summon Dasmora in Maraudon, and that's connected to this journey of hers searching for Ulthalesh? Maybe they came together, which is how the faerie dragon here came to remember Vyletongue's name. Vyletongue probably wreaked havoc in this valley along with other satyrs, which is why it wanted him dead."
 
-Jace nodded. "Not only that — when the faerie dragon appeared earlier, it called out the name of Ursalias. I heard it clearly."
+Jace nodded. "Not only that — when the faerie dragon appeared earlier, it called out the name of Ulthalesh. I heard it clearly."
 
 "I heard it too," Vereesa said.
 
-"But I can't sense any trace of demons here, at least not recently, master," Molofel said.
+"But I can't sense any trace of demons here, at least not recently, master," Morophil said.
 
-"Maybe we really should have brought Mosa," Grede said. "She fought Viltaan and those satyrs, and she knows those forest guardians. She's familiar with faerie dragons, right? Sora said faerie dragons are companions of druids, creatures that live in the Dream. She might know more."
+"Maybe we really should have brought Mosa," Grede said. "She fought Vyletongue and those satyrs, and she knows those keepers of the grove. She's familiar with faerie dragons, right? Sola said faerie dragons are companions of druids, creatures that live in the Dream. She might know more."
 
 "Her physical condition isn't suited for combat, Grede. We can figure this out ourselves," Jace said. "Let's keep going. Maybe once we see that temple, everything will become clear."

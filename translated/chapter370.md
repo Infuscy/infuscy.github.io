@@ -20,7 +20,7 @@ Silence inside for a moment. Before long, a set of footsteps approached, and a t
 
 That set the cave abuzz. Several troggs chattered and shrieked. Grede charged straight in, swinging his hammer and sending a trogg beside the cave flying. Jace followed behind him, raising his staff and knocking a trogg charging headlong at him to the ground. He watched as a tattered-cloth-wearing trogg raised a short club and began muttering something at him.
 
-Jace shouted an Immolate incantation straight at him. A detonation burst before his eyes. The trogg shaman howled and stumbled back several steps but didn't take much damage.
+Jace shouted a Scorch incantation straight at him. A detonation burst before his eyes. The trogg shaman howled and stumbled back several steps but didn't take much damage.
 
 He watched as a strange little totem, lashed together from bone and wood, was wreathed in a blaze of fire and shadow, then turned to powder and vanished into a cloud of smoke.
 
@@ -28,7 +28,7 @@ What the hell was that... a Grounding Totem?
 
 In the game, a Grounding Totem was a very fragile little thing that could absorb a single spell attack. Jace hadn't expected to run into one of these in front of a trogg shaman!
 
-Jace tried to use Immolate to attack again, but the shaman had already ducked into an earthen trench.
+Jace tried to use Scorch to attack again, but the shaman had already ducked into an earthen trench.
 
 "There's a shaman, Grede!"
 
@@ -52,15 +52,15 @@ The trogg howled as it sent a bolt of lightning crashing toward Grede. The light
 
 The two of them on this side recovered quickly after drinking the potion. Seizing the opening, the shaman pulled a bone club from behind its back and drove it into the wall, still muttering incantations — another totem!
 
-Jace had no idea what kind of totem it was, but the first order of business was to destroy it. He used Fel Grasp to grab the club and yank it over, snapping it in midair.
+Jace had no idea what kind of totem it was, but the first order of business was to destroy it. He used Gorefiend's Grasp to grab the club and yank it over, snapping it in midair.
 
-The shaman, seeing its totum destroyed, immediately intanted a spell. Jace had planned to finish it with Immolate and blow its skull apart, but instead the whole earthen trench began to shake. Jace felt the ground give way beneath his foot — one of his legs sank straight into a crack that had split open in the earth!
+The shaman, seeing its totem destroyed, immediately incanted a spell. Jace had planned to finish it with Scorch and blow its skull apart, but instead the whole earthen trench began to shake. Jace felt the ground give way beneath his foot — one of his legs sank straight into a crack that had split open in the earth!
 
-"Careful!" Daggett grabbed him with one hand and clutched a rock with the other. Jace braced himself against the nearby earth, pointed at the shaman, and finished his Immolate incantation. A burst of blackened flame shattered half its body, finally stopping the shaking of the ground.
+"Careful!" Daggett grabbed him with one hand and clutched a rock with the other. Jace braced himself against the nearby earth, pointed at the shaman, and finished his Scorch incantation. A burst of blackened flame shattered half its body, finally stopping the shaking of the ground.
 
 "Grede!"
 
-Jace pulled his foot out of the sinkhole and walked over to Grede's side. Grede coughed, sat up, and brushed the sand off his body. "This bastard can actually summon a Lightning Shield to protect itself! How does he know how everything..."
+Jace pulled his foot out of the sinkhole and walked over to Grede's side. Grede coughed, sat up, and brushed the sand off his body. "This bastard can actually summon a Lightning Shield to protect itself! How does he know how to do everything..."
 
 "Did you drink the Nature Protection Potion?" Jace asked.
 
@@ -101,12 +101,3 @@ Daggett nodded. "Right, you're right. My goal's been accomplished now, Grede —
 Grede stared at Jace and tilted his eyes toward Daggett.
 
 Jace knew Grede was feeling that something was off too.
-
-## Flags
-
-- **Chapter title**: 石上怪异 — "An Anomaly on the Stone" (lit. "A Strange Mark on the Stone"; refers to the carved-stone necklace).
-- **Key terms**: 灼烧咒 = Immolate (canon warlock spell), 血魔之握 = Fel Grasp (fanfic OC spell), 自然防护药水 = Nature Protection Potion (canon), 治疗药水 = Healing Potion (canon), 根基图腾 = Grounding Totem (canon shaman totem that absorbs a spell), 雷电盾 = Lightning Shield (canon shaman spell), 图腾 = totem (canon).
-- **Characters**: 达葛特 = Daggett (OC Bronzebeard dwarf), 格瑞德 = Grede (canon per glossary).
-- **Lore note**: The necklace is revealed to be carved with the face of a woman the troggs' giant informants called a goddess named Sara. Jace recognizes this as a phantom created by the Old God Yogg-Saron, imprisoned in Ulduar in the far north. The reference is to the in-game Yogg-Saron raid encounter, where Yogg-Saron appears as a seemingly benevolent maiden named Sara to deceive players; "Sara" is also the name associated with the Yogg-Saron achievement progression. The stone is likely forged from ore condensed from Yogg-Saron's black blood that pervades Northrend.
-- **Game mechanic note**: Jace explicitly references the Grounding Totem mechanic from the game ("absorbs a single spell attack") and his own hundreds of repeats of Yogg-Saron's first phase for achievement progress — kept as an in-universe gamer reference in his internal monologue.
-- **Tone note**: The trogg shaman fight is rendered as a chaotic, close-quarters brawl in a narrow trench. The reveal of the necklace and Daggett's unsettling attachment to it shifts the tone toward quiet dread; Jace's growing wariness is kept understated but clear.

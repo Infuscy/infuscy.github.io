@@ -1,10 +1,10 @@
-## Chapter 270: Duskwood Town
+## Chapter 270: Darkshire
 
 The caravan pressed on for a while, leaving behind the spot where the ogre ambush had taken place, and arrived at a crossroads waystation in the afternoon.
 
-After the Duskwood Town guards were briefed on what had happened, they dispatched several fully armed patrol riders to speed toward the scene.
+After the Darkshire guards were briefed on what had happened, they dispatched several fully armed patrol riders to speed toward the scene.
 
-Jace looked at these well-equipped soldiers and found it impossible to connect them with the Duskwood Town of the future — the one protected by nothing more than the Night Watch.
+Jace looked at these well-equipped soldiers and found it impossible to connect them with the Darkshire of the future — the one protected by nothing more than the Night Watch.
 
 The caravan planned to rest up here properly and arrange to send the wounded away, so the two of them took a tent as well.
 
@@ -20,7 +20,7 @@ Vereesa said, "If you ask me, perhaps your magic reminded them of Gul'dan's disc
 
 "Don't the Quel'dorei armies use shadow magic either?" Jace asked.
 
-"I've heard of it, but I've never seen it with my own eyes," Vereesa explained. "To protect the Sunwell, Silvermoon and Quel'Danas strictly forbid the practice of shadow magic. Still, the Sun King hoped their research could help counter the forest trolls' sorcery, so shadow studies are permitted south of the Elandar River, away from the runestones. Professor Kefal would know more about it."
+"I've heard of it, but I've never seen it with my own eyes," Vereesa explained. "To protect the Sunwell, Silvermoon and Quel'Danas strictly forbid the practice of shadow magic. Still, the Sun King hoped their research could help counter the forest trolls' sorcery, so shadow studies are permitted south of the Elrendar River, away from the runestones. Instructor Kael'fal would know more about it."
 
 "He seems quite familiar with warlocks," Jace said. "I suspect he might actually know Quel'dorei shadow warlocks."
 
@@ -94,9 +94,9 @@ A patter of raindrops began drumming on the tent above.
 
 Lying on the blanket, Jace felt he was more or less trying to dodge the topic of the Dark Portal.
 
-The road from Raven Hill to Duskwood Town was absurdly long. It wasn't until the evening of the second day that the caravan finally reached the town's entrance.
+The road from Raven Hill to Darkshire was absurdly long. It wasn't until the evening of the second day that the caravan finally reached the town's entrance.
 
-Jace half-rose and looked toward the town's entrance at the head of the caravan, and at a single glance he could take in the bustling Duskwood Town — it really was a remarkably large settlement.
+Jace half-rose and looked toward the town's entrance at the head of the caravan, and at a single glance he could take in the bustling Darkshire — it really was a remarkably large settlement.
 
 Through this town, he could see just how prosperous southern Elwynn had been before the Karazhan Cataclysm, and get a sense of why humans had kept expanding south until they encroached on troll territory and sparked war.
 
@@ -116,19 +116,10 @@ Jace said, "A Quel'dorei comes out for a romp, has their fun with a few men and 
 
 "They are absolutely not that kind of relationship," Vereesa stressed. "Though I wouldn't say I approve of them either, I can assure you that Alleria is not one to trifle with feelings."
 
-Jace said, "I believe it too. So isn't a elf who's serious with a human shocking enough on its own?"
+Jace said, "I believe it too. So isn't an elf who's serious with a human shocking enough on its own?"
 
 Vereesa paused. "So this is how you all see us?"
 
 Jace said, "I don't see it that way, but I don't represent humanity — just as you don't represent elves."
 
 Vereesa looked as if she'd been rendered speechless. Jace said, "Come on, let's go in and eat. We still need to ask around at the town center later — it's getting late, and I'm hoping we can find this Mr. Waller today."
-
-## Flags
-
-- At the waystation, Jace and Vereesa shelter from the rain and discuss why the ogres fled. Vereesa theorizes they feared him as one of Gul'dan's warlocks.
-- Vereesa explains Quel'dorei shadow-magic policy: banned near the Sunwell, permitted south of the Elandar River for troll-research purposes. She suspects Professor Kefal knows Quel'dorei shadow warlocks.
-- Jace asks Vereesa to teach him her dispel ability; she explains it's an innate Quel'dorei trait (Arcane Torrent-style), not a teachable spell.
-- Jace admits shadow influences his thinking; Vereesa says he seems more normal than many arcanists who never touch shadow. He reassures her he'd get by without her sponsorship — the trip has already paid for itself.
-- They discuss the half-elves in Duskwood Town. Vereesa is troubled by the double standard: Turalyon and Alleria are scandalized, yet abandoned half-elf children are everywhere. Jace deflects the Dark Portal topic — a subject he's actively avoiding.
-- The caravan reaches Duskwood Town on the evening of the second day — a large, prosperous settlement that hints at what southern Elwynn once was before the Karazhan Cataclysm.

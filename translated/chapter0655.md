@@ -6,27 +6,27 @@ When Nekros had agreed to let Jace tour the fortress, he'd thought the Warlord w
 
 He didn't give a damn about how many orcs Grim Batol had or whether they could hold off the Alliance, so the tour that followed was long and dull — an endless parade of dwarven statues, houses and walls, chasms in every direction, and ruins…
 
-When they reached the lowest level, Nakrosh led him into a hall no smaller than the Iron Anvil.
+When they reached the lowest level, Nek'rosh led him into a hall no smaller than the Khardros Anvil.
 
 The moment he stepped inside, a wave of fervent energy hit him in the face. The dazzling red glow before his eyes was so intense that for a moment he couldn't make out what was happening at all.
 
 "This is the Hatching Hall."
 
-Nakrosh pointed below — to an entire vast chamber filled with red dragon eggs.
+Nek'rosh pointed below — to an entire vast chamber filled with red dragon eggs.
 
 These eggs contained an extremely fierce life force, fierce enough to make Morophil standing beside him uncomfortable.
 
-Every egg was plump and beautiful, its rough shell covered in dark red spikes and crimson mana crystals. If this Warlord were given a few years, he might really be able to raise another powerful red dragon legion.
+Every egg was plump and beautiful, its rough shell covered in dark red spikes and crimson mana crystals. If this Warlord were given a few years, he might really be able to raise another powerful Red Dragonflight.
 
 This must be where the dragon eggs were that Deathwing had been so eager for him to get his hands on.
 
 But more than the eggs, Jace was far more interested in the heavy door on the far side of the hall. "Where does that door lead?"
 
-"That door will not open without my Father's permission," the young Nakrosh said. "And it has nothing to do with our tour. You can see how magnificent these eggs are, warlock. They are the future of Grim Batol and the entire Horde."
+"That door will not open without my Father's permission," the young Nek'rosh said. "And it has nothing to do with our tour. You can see how magnificent these eggs are, warlock. They are the future of Grim Batol and the entire Horde."
 
 "Truly. Breathtaking," Jace agreed, already all but certain the Dragonqueen was behind that door.
 
-So Nekros wasn't even willing to let him catch a glimpse of the Dragonqueen? Or maybe he didn't dare let his own son see the Dragonqueen — worried that without the Demon Soul as leverage, Nakrosh might suddenly drop dead in that room.
+So Nekros wasn't even willing to let him catch a glimpse of the Dragonqueen? Or maybe he didn't dare let his own son see the Dragonqueen — worried that without the Demon Soul as leverage, Nek'rosh might suddenly drop dead in that room.
 
 In the evening, the Dragonmaw clan arranged a fairly tidy room for Jace to rest in. Sitting in that little house, Jace was furious.
 
@@ -64,7 +64,7 @@ Morophil said, "If his mana is drained to the point of exhaustion, or his spirit
 
 Jace frowned. So how was he supposed to make him hesitate?
 
-He didn't want to ask the Warlord directly to see the Dragonqueent — that would be too deliberate, too obviously suspicious. He had to handle it more naturally.
+He didn't want to ask the Warlord directly to see the Dragonqueen — that would be too deliberate, too obviously suspicious. He had to handle it more naturally.
 
 He needed to make Nekros feel that only by letting this Blackrock envoy witness the mighty Dragonqueen with his own eyes — rather than these ragged mongrels running around Grim Batol — and letting him represent Blackrock Spire in witnessing Grim Batol's true strength, would Warchief Rend reconsider the black dragon alliance.
 

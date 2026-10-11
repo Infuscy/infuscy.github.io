@@ -18,7 +18,9 @@ Jace looked in the direction the dragon had disappeared, now blocked by the pine
 
 "Are you crazy? Isn't that where the dragon we just saw was heading?"
 
-"But there are guards there. And mages. Think about it — what if there are other dragons, or Horde soldiers right behind it, maybe even almost here already? Wouldn't the two of us just be waiting to die? During the war, those dragons traveled in packs, didn't they?" Yes, that's right, in packs... Grede took a few breaths. "You're right. We should hurry. If that dragon is a vanguard for orc cavalry, we're screwed."
+"But there are guards there. And mages. Think about it — what if there are other dragons, or Horde soldiers right behind it, maybe even almost here already? Wouldn't the two of us just be waiting to die? During the war, those dragons traveled in packs, didn't they?"
+
+Yes, that's right, in packs... Grede took a few breaths. "You're right. We should hurry. If that dragon is a vanguard for orc cavalry, we're screwed."
 
 The two of them got up and headed east, keeping to the treeline.
 
@@ -28,7 +30,7 @@ Once a fight started, they'd be no match at all. No matter what, they needed to 
 
 Could the threat that Dalaran mage mentioned earlier have been a dragon sighting?
 
-When Teron Gorefiend led the death knights and orc dragon-riders to attack the Alterac Valley, they'd ridden red dragons, not black ones.
+When Teron Gorefiend led the death knights and orc dragon-riders to attack Alterac Valley, they'd ridden black dragons, not red ones.
 
 And the mage had also mentioned signs of shadow attacks in Ambermill. Could these black dragons still be lingering in the area after the Alterac campaign?
 
@@ -102,18 +104,10 @@ He turned back to see the inn's second floor already ablaze.
 
 Wails and sobs everywhere outside. The smoke-filled sky turned a clear morning into something out of the apocalypse.
 
-The little girl's parents were nowhere to be seen, looking around in a daze. Jace looked at the limping wounded up and down the street and the soldiers, workers, and farmhands hauling water everywhere. Had Southshore ever suffered a disaster like this?
+The little girl looked around in a daze; her parents were nowhere to be seen. Jace looked at the limping wounded up and down the street and the soldiers, workers, and farmhands hauling water everywhere. Had Southshore ever suffered a disaster like this?
 
 By now, he wasn't so sure he still remembered any of the history.
 
 A piercing shriek from the distance snapped him from his thoughts. The people who'd just started relaxing all snapped their eyes wide open again.
 
 "It's back! It's back!"
-
-## Flags
-
-- **南海镇** → Southshore (canonical WoW name; not in glossary — flagged in Ch. 141 as well).
-- **旅店** → inn. The lodging they're staying at in Southshore; no proper name given in-text.
-- **防火的斗篷** → fire-resistant cloak. Jace's cloak; no specific item name given.
-- Source uses 座下的马 for the knight's horse; rendered as "his horse" to avoid the clunky "mount" register here.
-- **炊烟** → cooking smoke. Distinguishing it from the black smoke of the attack.

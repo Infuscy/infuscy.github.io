@@ -8,9 +8,9 @@ Jace glanced over at the priests chatting with visitors, confirmed that Morgan w
 
 Of course, this wasn't caused by Hakkar's avatar or anything in the temple. Last night that succubus had taken advantage of the fact that she'd saved him several times in the temple via Soul Link, and frantically drained his mana — to the point that by the end she'd drained him nearly to the point of passing out, and he'd had to kick her hard in the shoulder to shove her off.
 
-Although he hadn't kicked with full force, Molophil hadn't been angry at all, nor sustained any damage. Jace, on the other hand, had his foot scratched by the succubus's spikes — or maybe he'd kicked one of her horns; who could remember that clearly.
+Although he hadn't kicked with full force, Morophil hadn't been angry at all, nor sustained any damage. Jace, on the other hand, had his foot scratched by the succubus's spikes — or maybe he'd kicked one of her horns; who could remember that clearly.
 
-Seeing her master injured, she'd actually tried to grab Jace's foot and lick the blood. Jace had only restrained her desires by locking her limbs with a Suffocation spell. The powerful mana replenishment made the scorching life-flames blazing from her eyes nearly set the ceiling on fire.
+Seeing her master injured, she'd actually tried to grab Jace's foot and lick the blood. Jace had only restrained her desires by locking her limbs with Asphyxiate. The powerful mana replenishment made the scorching life-flames blazing from her eyes nearly set the ceiling on fire.
 
 And Jace, looking at her state, even felt a bit drained himself, his head foggy and muddled, still somewhat fatigued even now.
 
@@ -18,9 +18,9 @@ Fortunately, today he didn't need mana to deal with any trouble, so as long as h
 
 "Master Sesso, welcome to the Cathedral of Light."
 
-A young priest had walked over from who-knows-where. Jace noticed that after he finished speaking, his nostrils flared, as if he'd caught some strange smell. It couldn't be Molophil's scent, right?
+A young priest had walked over from who-knows-where. Jace noticed that after he finished speaking, his nostrils flared, as if he'd caught some strange smell. It couldn't be Morophil's scent, right?
 
-Although Molophil was normally quite good at concealing her presence, last night in that situation she'd inevitably stopped caring about such things.
+Although Morophil was normally quite good at concealing her presence, last night in that situation she'd inevitably stopped caring about such things.
 
 But Jace knew this, and since he was coming to the Cathedral of Light this morning, he'd given himself a very thorough cleansing and purification, not hesitating to use the purification potion that Ursula had given him before.
 
@@ -68,23 +68,23 @@ Still, the priests here seemed to sense something off but couldn't identify exac
 
 "All right, I'm not about to get into a faith debate with you." Jace raised his hands. "I came to talk to you about that sword."
 
-At the mention of Achaeus, Morgan's eyes lit up. "Did you handle the Booty Bay matter?"
+At the mention of Archeus, Morgan's eyes lit up. "Did you handle the Booty Bay matter?"
 
 Jace said, "Yes, I just got back to Stormwind yesterday. I'm going to rest for the next couple of days — after that I've got nothing going on. In a few days, next week, we should be able to head out. How about you?"
 
 "I can leave anytime," Morgan said. "Really, thank you, Jace."
 
-"No need to thank me. Next Monday, then." Jace said. "I don't know if anyone's still living in Raven Hill right now. I was thinking — should we fly by griffon and make Raven Hill our first stop?"
+"No need to thank me. Next Monday, then." Jace said. "I don't know if anyone's still living in Raven Hill right now. I was thinking — should we fly by gryphon and make Raven Hill our first stop?"
 
-"Can you even rent a griffon from the wall?" Morgan said, then seemed to think of something after a moment. "Ah, I forgot — you're a Court Mage."
+"Can you even rent a gryphon from the wall?" Morgan said, then seemed to think of something after a moment. "Ah, I forgot — you're a Court Mage."
 
-Jace smiled slightly. "I'm the king's advisor, but I don't need to rent a griffon either. A friend of mine has a griffon stabled there. Morgan, we'll ride his griffon over."
+Jace smiled slightly. "I'm the king's advisor, but I don't need to rent a gryphon either. A friend of mine has a gryphon stabled there. Morgan, we'll ride his gryphon over."
 
-"You can ride a griffon?!" Morgan's eyes widened. "Give me a real show, then."
+"You can ride a gryphon?!" Morgan's eyes widened.
 
-Saying this, Jace's tone carried a hint of showing off.
+"I'll give you a real show, then." As he said it, Jace's tone carried a hint of showing off.
 
-"Truth be told, I've never ridden a griffon," Morgan said eagerly.
+"Truth be told, I've never ridden a gryphon," Morgan said eagerly.
 
 "Still, I don't know what condition Raven Hill is in now. When the demon incident happened in Moonbrook, most of the people there decided to move away. But recently I've heard some rumors about Raven Hill — that some people moved back after the incident died down."
 
@@ -94,19 +94,19 @@ Saying this, Jace's tone carried a hint of showing off.
 
 Jace said, "If it were me, I'd have grabbed my family and run the moment that forest started acting strange, let alone live there that long."
 
-"Not everyone is willing to make a change. To them, an unfamiliar Stormwind might be more dangerous than undead creatures that rarely leave the graveyard." Morgan finished, thought for a moment, then said, "Still, I heard before that there were patrol cavalry who'd been to Raven Hill on griffons, so there might still be a place for griffons to rest there."
+"Not everyone is willing to make a change. To them, an unfamiliar Stormwind might be more dangerous than undead creatures that rarely leave the graveyard." Morgan finished, thought for a moment, then said, "Still, I heard before that there were patrol cavalry who'd been to Raven Hill on gryphons, so there might still be a place for gryphons to rest there."
 
 "I'll go ask at the wall," Jace said.
 
 "All right," Morgan said.
 
-At noon, Jace went to The Pig and Whistle Inn and had another meal with Grede, Suola, and Vereesa. This time they just ate a bit of food simply, drank a little, and chatted about the king and queen's situation.
+At noon, Jace went to the Pig and Whistle Tavern and had another meal with Grede, Sola, and Vereesa. This time they just ate a bit of food simply, drank a little, and chatted about the king and queen's situation.
 
-Because Vereesa was heading back to Quel'Thalas that afternoon, this wasn't a celebration banquet — it was a farewell meal. After eating, the group came up onto the wall, where a griffon keeper was hauling saddlery. Jace flagged him down.
+Because Vereesa was heading back to Quel'Thalas that afternoon, this wasn't a celebration banquet — it was a farewell meal. After eating, the group came up onto the wall, where a gryphon keeper was hauling saddlery. Jace flagged him down.
 
-"I'd like to know, sir — is there a place to land griffons at Raven Hill?"
+"I'd like to know, sir — is there a place to land gryphons at Raven Hill?"
 
-"Yes." The griffon keeper craned his neck over with difficulty, looked at Jace, and said, "By Lord Bolvar's orders, an outpost was established there to watch the big graveyard and the road from Moonbrook to Darkshire. So there's a rather crude griffon roost, but it's only for tending the messengers' griffons — no capacity for long-term stays, not even for one or two."
+"Yes." The gryphon keeper craned his neck over with difficulty, looked at Jace, and said, "By Lord Bolvar's orders, an outpost was established there to watch the big graveyard and the road from Moonbrook to Darkshire. So there's a rather crude gryphon roost, but it's only for tending the messengers' gryphons — no capacity for long-term stays, not even for one or two."
 
 "Much obliged," Jace said.
 
@@ -120,31 +120,31 @@ Because Vereesa was heading back to Quel'Thalas that afternoon, this wasn't a ce
 
 "Ah..." Vereesa nodded slowly.
 
-"Alterac Great Griffon — let me tell you, young lady, you've never seen the flying speed of a white griffon like that," Grede grumbled as he came up beside Jace. "And you haven't seen how a real griffon rider brings out his partner's potential. I really should race you sometime — you on your wings, me on my Goret... and for fairness—"
+"Alterac Great Gryphon — let me tell you, young lady, you've never seen the flying speed of a white gryphon like that," Grede grumbled as he came up beside Jace. "And you haven't seen how a real gryphon rider brings out his partner's potential. I really should race you sometime — you on your wings, me on my Gorjet... and for fairness—"
 
-"You'd also have to carry a person on your back," Suola said. "Makes sense — let Jace ride on me, then race you and your Mr. Goret."
+"I'd also have to carry a person on my back," Sola said. "Makes sense — let Jace ride on me, then race you and your Mr. Gorjet."
 
 Suddenly being called out, Jace blinked. "What's that got to do with me?"
 
 "He won't do." Grede squeezed Jace's waist hard. "He's too light."
 
-Jace winced in pain and shuffled aside to dodge Grede's stone-like hand. Vereesa, arms folded, said, "Goret is indeed a strong griffon, but you don't actually believe he can outfly Suola, do you, Grede."
+Jace winced in pain and shuffled aside to dodge Grede's stone-like hand. Vereesa, arms folded, said, "Gorjet is indeed a strong gryphon, but you don't actually believe he can outfly Sola, do you, Grede?"
 
 "Don't forget he once carried you from Quel'Thalas to the Wetlands, chasing down this idiot who was sneaking off to kill himself." Grede pointed at Jace and stared at the ranger. "Don't side with outsiders, little elf!"
 
-Jace was about to say something when Vereesa cut him off: "You're the one who should remember, Thunderfist — if you're going to find Musa in Kalimdor, you'll be relying on Suola to carry you."
+Jace was about to say something when Vereesa cut him off: "You're the one who should remember, Thunderfist — if you're going to find Mosa in Kalimdor, you'll be relying on Sola to carry you."
 
-"Uh." Grede seemed to remember this for the first time, glancing at Suola awkwardly. "Right — Goret can't fly across the Great Sea."
+"Uh." Grede seemed to remember this for the first time, glancing at Sola awkwardly. "Right — Gorjet can't fly across the Great Sea."
 
-Suola said nothing, just smiled at Grede.
+Sola said nothing, just smiled at Grede.
 
 "Right." Vereesa looked at the green dragon and the dwarf. "When are you two planning to leave?"
 
 "Get some food together and head out," Grede said. "Day or two."
 
-"Remember to bring Musa a gift," Vereesa said. "And give her my regards."
+"Remember to bring Mosa a gift," Vereesa said. "And give her my regards."
 
-"Of course," Grede said. Suola also acknowledged.
+"Of course," Grede said. Sola also acknowledged.
 
 "Well, the dragonhawks are waiting for me — I won't keep you all standing here in the cold wind," Vereesa said.
 

@@ -4,7 +4,7 @@ The next morning, Jace tried getting up and putting on the silk jacket from the 
 
 The Kirin Tor guard in the corridor looked like he wanted to say something but held back. Jace said, "I'm not leaving Nethergarde Keep. I just… want to find a friend."
 
-The guard nodded and stepped aside. "Go all the way down this stairs and you'll be outside."
+The guard nodded and stepped aside. "Go all the way down these stairs and you'll be outside."
 
 "Thank you, sir."
 
@@ -18,11 +18,11 @@ The thick clouds in the sky had cleared away. The Blasted Lands stretched endles
 
 Right… at that distance it shouldn't have been visible in the first place. What Jace had always been able to see was that curtain of green, not the gate's frame.
 
-Marin hadn't said where Grede could usually be found, but Jace automatically headed in the direction of the tavern. In the middle of the square, a group of craftsmen had set up scaffolding and were carving something. Jace glanced at the stone block in the middle and couldn't make out what it was supposed to be.
+Malin hadn't said where Grede could usually be found, but Jace automatically headed in the direction of the tavern. In the middle of the square, a group of craftsmen had set up scaffolding and were carving something. Jace glanced at the stone block in the middle and couldn't make out what it was supposed to be.
 
 Coming to the entrance of the tavern, Jace tried taking a deep breath and then walked in. The main hall was completely empty. Not a single person inside.
 
-He remembered the last time he'd been here — packed so tight you couldn't get in or out, couldn't even buy a drink. Now it all vacant at once. He even felt a little hollow inside.
+He remembered the last time he'd been here — packed so tight you couldn't get in or out, couldn't even buy a drink. Now it had all emptied out at once. He even felt a little hollow inside.
 
 He knew this should be a good thing. Who'd want a place like Nethergarde Keep to need to be packed with people?
 
@@ -40,13 +40,13 @@ Jace nodded. The man stood up. "Want something to eat? We don't have much left, 
 
 After drinking a sip of milk, Jace realized he didn't have a single copper on him.
 
-"Boss… I didn't bring any money. Could I…"
+"Sir… I didn't bring any money. Could I…"
 
-"This is Nethergarde Keep, young man," the boss said with a laugh. "This food was always meant for you lot. If you don't eat it, it'll just sit on the shelf. Especially the milk — if you don't drink it, it goes to waste. Look how thin you are. You should be eating more."
+"This is Nethergarde Keep, young man," the barkeep said with a laugh. "This food was always meant for you lot. If you don't eat it, it'll just sit on the shelf. Especially the milk — if you don't drink it, it goes to waste. Look how thin you are. You should be eating more."
 
 "Thank you." Jace nodded.
 
-"We should be thanking you, sir," the boss said. "Fighting the monsters that crawled out of the Dark Portal — I can't even imagine it. Just seeing those corpses gives me nightmares."
+"We should be thanking you, sir," the barkeep said. "Fighting the monsters that crawled out of the Dark Portal — I can't even imagine it. Just seeing those corpses gives me nightmares."
 
 "Let me know if you need anything else, sir."
 

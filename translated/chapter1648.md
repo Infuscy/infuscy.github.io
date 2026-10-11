@@ -10,7 +10,7 @@ Though called a spire, Blackrock Spire was far more than a watchtower. It was es
 
 It was a full military citadel. Otherwise, Blackhand could never have held thousands of orcs and ogres here to face off against the Dark Iron clans of Shadowforge City for so long.
 
-Outside, Kar'lez led the demons in pounding Blackrock Spire's outer walls. The sounds that reached the inside were reduced to dull rumbles and demonic shrieks that seemed to come from miles away.
+Outside, Kallrez led the demons in pounding Blackrock Spire's outer walls. The sounds that reached the inside were reduced to dull rumbles and demonic shrieks that seemed to come from miles away.
 
 The Alliance commanders knew the demon could not breach the outer walls quickly on his own. Nor could he and his demon pack establish a channel big enough for a thousand elite vanguard to charge through and open the battle.
 
@@ -24,9 +24,9 @@ Dragging things out here too long meant more than just shadow corrosion from dar
 
 "The orc warlocks rewrote it a decade ago, mage," Thaurissan said. "But we have a simpler and more professional way to dismantle Blackrock Spire's defenses. And we've been preparing for a while."
 
-On the slope leading to the Burning Steppes, Iron Fury soldiers squeezed aside to make way. More and more soldiers began chanting a dwarven battle cry in unison.
+On the slope leading to the Burning Steppes, Anvilrage soldiers squeezed aside to make way. More and more soldiers began chanting a dwarven battle cry in unison.
 
-Jace's dwarven was good enough to catch that it had something to do with dragons.
+Jace's Dwarvish was good enough to catch that it had something to do with dragons.
 
 "Behold, the Dragon Breath Cannon!" Thaurissan announced. "Siege variant!"
 
@@ -38,15 +38,17 @@ It was a bit theatrical — the Farstriders on the high ground had pretty much l
 
 "Aim!"
 
-The Iron Fury general shouted as the cannon's barrel slowly adjusted.
+The Anvilrage general shouted as the cannon's barrel slowly adjusted.
 
-"May we fire, Your Majesty?" "Fire!"
+"May we fire, Your Majesty?"
+
+"Fire!"
 
 The Dark Iron emperor bellowed. Jace did not see any dwarf running up with a torch. He was wondering how the cannon was supposed to fire when a fire elemental came wobbling up from behind at full speed and dove straight into the red dragon's rear!
 
 The whole "red dragon" body flared bright red. Then its massive mouth let out a strange roar and belched a blinding fireball. The fireball slammed into Blackrock Spire's gate with a blast that shook the whole mountain. The Farstriders grabbed onto chains and boulders for balance. The Spire's iron door buckled, and the magic runes on it flickered weakly.
 
-Curses in orcish and ogre shouts began echoing from inside. Dagran Thaurissan yelled excitedly, "Again! Again! We've got plenty of fire elementals!"
+Curses in Orcish and ogre shouts began echoing from inside. Dagran Thaurissan yelled excitedly, "Again! Again! We've got plenty of fire elementals!"
 
 Jace and his companions did not have time to watch the Dragon Breath Cannon peel away Blackrock Spire's front defenses layer by layer. He had no intention of joining the frontal assault — the terrain inside was too tight.
 
@@ -54,9 +56,9 @@ In open ground, a well-placed Hand of Gul'dan that caught the Horde and their de
 
 Even without the news from Lordaeron, he planned to heed Mathias Shaw's advice: avoid making a flashy display in front of the entire Alliance army. Especially not now.
 
-While the Alliance was breaking into Blackrock Mountain and securing the Ironcast Crypt, Morofil seemed to have contacted Vaelastrasz. Jace could feel the succubus's response through the soul link. He wondered if Vaelastrasz had a more hidden way into Blackrock Spire.
+While the Alliance was breaking into Blackrock Mountain and securing Forgewright's Tomb, Morophil seemed to have contacted Vaelastrasz. Jace could feel the succubus's response through the Soul Link. He wondered if Vaelastrasz had a more hidden way into Blackrock Spire.
 
-As a green dragon, Sora would be more useful supporting the main battlefield than following Jace's group through the side passages. So Jace took Vereesa and Needleflame — both better at infiltration and ambush — and followed Morofil's soul trace to meet Vaelastrasz.
+As a green dragon, Sola would be more useful supporting the main battlefield than following Jace's group through the side passages. So Jace took Vereesa and Needleflame — both better at infiltration and ambush — and followed Morophil's soul trace to meet Vaelastrasz.
 
 Passing a balcony corridor, he glanced back through a window at the gathering Alliance and Shadowforge City forces below. It looked familiar.
 
@@ -64,13 +66,13 @@ He looked at the passage to his left, which led into Blackrock Spire but was blo
 
 This seemed to be the entrance to Blackrock Spire from the game. And just like in the game, without the right lockpicking method, that narrow passage was impassable.
 
-The Farstriders had checked other routes too. Either blocked by collapsed stone or sealed by early-dropped magic doors.
+The Farstriders had checked other routes too. Either blocked by collapsed stone or sealed by magic doors dropped in advance.
 
 For some reason, Blackrock Spire was heavily fortified even against Shadowforge City inside the mountain. Combined with Thaurissan's claim that their Dragon Breath Cannon was "professional" at breaching the Spire's gates, it was easy to guess that the Dark Iron dwarves and the Spire had fought more than a few civil wars before.
 
-But if Morofil could find Vaelastrasz, that meant the defenses were not airtight.
+But if Morophil could find Vaelastrasz, that meant the defenses were not airtight.
 
-Kar'lez's felhounds led the way ahead, guiding them past several passages the demons had already destroyed. After rounding a corner, they came to a sudden chasm.
+Kallrez's felhounds led the way ahead, guiding them past several passages the demons had already destroyed. After rounding a corner, they came to a sudden chasm.
 
 The corridor had been completely torn apart by seismic activity. Below was a river of lava, nothing but a golden-red thread in the black abyss. This break was likely caused by the collapse of Molten Core — just like the cracks visible on the Spire's exterior.
 

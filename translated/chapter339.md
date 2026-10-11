@@ -4,7 +4,7 @@
 
 Jace knew that compared to the dangers lying deep within Uldaman, merely the Dark Iron dwarves excavating outside barely counted as anything.
 
-After all, even if it was a lot smaller in scale, it was still a genuine titan temple ruin, and the ancient guardians hiding in its deepest chambers, sealed away behind layers of stone doors, were no empty name.
+After all, even if it was a lot smaller in scale, it was still a genuine titan temple ruin, and the ancient guardians hiding in its deepest chambers, sealed away behind layers of stone doors, were not to be taken lightly.
 
 Perhaps they'd grown weak from being sealed for tens of thousands of years, their original power lost — Jace didn't know what state they were in now.
 
@@ -24,11 +24,11 @@ Hearing this, Jace asked in surprise, "Don't tell me you never even considered m
 
 "Still better than dying in there," Jace said.
 
-"Die?" Grede said. "When I was in the Wetlands I faced down a two-crocodile pincer attack without flinching. A few dark-skinned dwarves… how many legs can they have between them, twelve?"
+"Die?" Grede said. "When I was in the Wetlands I faced down a two-crocolisk pincer attack without flinching. A few dark-skinned dwarves… how many legs can they have between them, twelve?"
 
-"Can crocodiles shoot you in the head?" Jace asked.
+"Can crocolisks shoot you in the head?" Jace asked.
 
-"You think I can't blow theirs out?" Grede patted his waist, then glanced at the empty hook on his belt. "I'm not carrying it, but you know what I mean."
+"You think I can't blow theirs out?" Grede patted his hip, then glanced at the empty hook on his belt. "I'm not carrying it, but you know what I mean."
 
 "Does your hammer fly faster than a bullet?" Jace asked.
 
@@ -36,7 +36,7 @@ Grede leaned back in his chair, looking this way, and sighed. "Then what am I su
 
 "I've still got some invisibility potions," Jace said. "Used them in the Burning Steppes. Aside from not being able to see a thing, they worked pretty well."
 
-Grede sighed and spread his hands. "I know about that invisibility-potion stuff. The Dark Iron dwarves might not have found me otherwise — but after drinking it I'd stumble around blind for a few minutes and probably walk straight into their arms. That'd be better than me just walking in on my own."
+Grede sighed and spread his hands. "I know about that invisibility-potion stuff. The Dark Iron dwarves might not have found me otherwise — but after drinking it I'd stumble around blind for a few minutes and probably walk straight into their arms. How is that any better than me just walking in on my own?"
 
 "That's why you need coordination," Jace said. "I'll help you get past the Dark Iron dwarves and into that excavation site. If we find the ruins, you go in and do your thing, I'll keep watch outside. But I'm warning you — the temple ruins might be more dangerous than the outside."
 
@@ -52,7 +52,7 @@ Grede laughed. "Then I'll owe you one. Next time you need help, just call on me 
 
 "That works too," Jace said. "And once you've truly mastered that divine power, that's even more reliable. I come out ahead!"
 
-"Of course," Grede shook his fist, then seemed to remember something and sighed. "It's just — not a single dwarf has succeeded all these years, and I'm a Bronzebeard dwarf… I really don't know how likely I am to make it to the end."
+"Of course," Grede shook his fist, then seemed to remember something and sighed. "It's just — not a single dwarf has succeeded all these years, and I'm not even a Bronzebeard dwarf… I really don't know how likely I am to make it to the end."
 
 "You won't know until you try," Jace said. "Also — no matter what good things you find inside, they're all mine. Deal?"
 
@@ -100,34 +100,10 @@ Jace said, "Then let's go practice outside tonight. How about it?"
 
 "No problem. And it's been a long time since you've practiced swords, hasn't it?" Grede asked. "Getting rusty? I can see you're about to forget your swordplay teacher. Before we practice your new trick, we're testing blades first."
 
-"Weren't the one who ran off to Ironforge yourself?" Jace said. "But speaking of swords — I've got a pretty special one right now. Perfect for a test."
+"Weren't you the one who ran off to Ironforge?" Jace said. "But speaking of swords — I've got a pretty special one right now. Perfect for a test."
 
 "What sword? How special?" the dwarf asked.
 
 Jace smiled mysteriously. "Too many people here — can't show you."
 
 "Putting on airs," Grede muttered, scratching the corner of his mouth. "Get some food in me first — I haven't eaten lunch yet!"
-
-## Flags
-
-- **奥达曼** → "Uldaman": canonical titan temple/dungeon; not in glossary.
-- **黑铁矮人** → "Dark Iron dwarves": canonical dwarven clan; glossary (Dark Iron).
-- **铜须矮人** → "Bronzebeard dwarves": canonical dwarven clan; glossary (Bronzebeard).
-- **泰坦神殿遗迹** → "titan temple ruin": not in glossary; descriptive rendering of the titan creation-temple ruins.
-- **湿地** → "the Wetlands": canonical swampy region; glossary.
-- **燃烧平原** → "the Burning Steppes": canonical zone; not in glossary.
-- **隐形药水** → "invisibility potions": not in glossary; rendered descriptively (distinct from 隐身药水 in glossary).
-- **法师护甲** → "Mage Armor": canonical mage spell; glossary.
-- **食人魔** → "ogres": canonical race; glossary.
-- **龙** → "dragons": canonical race; glossary.
-- **格瑞德** → "Grede": dwarf companion; glossary.
-- **天神下凡 / 化身之力** → "Avatar" / "the power of the Incarnation": the dwarven ancestral power; not in glossary, rendered descriptively.
-- **铁炉堡** → "Ironforge": dwarven capital; canonical.
-- **面包** → "bread": not in glossary; straightforward.
-- **锤子** → "hammer": Grede's weapon; not in glossary, straightforward.
-- **枪 / 火枪** → "rifle": firearm; not in glossary, rendered descriptively (dwarven firearms in WoW context).
-- **子弹** → "bullet": not in glossary; straightforward.
-- **剑** → "sword": not in glossary; straightforward.
-- **戏法** → "trick": Jace's self-deprecating term for his new spell; not in glossary.
-- **元素** → "the elements": shamanistic elemental forces; not in glossary.
-- **闪电** → "lightning": not in glossary; straightforward.

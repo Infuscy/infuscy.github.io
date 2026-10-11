@@ -1,16 +1,16 @@
 ## Chapter 1028: An Unlikely Line of Communication
 
-That morning, the griffons in the wall-side griffon nests suddenly grew restless.
+That morning, the gryphons in the wall-side gryphon nests suddenly grew restless.
 
 A beautiful purple-blue dragonhawk landed near the wall, led by another dragonhawk rider. Many citizens who had never seen a dragonhawk couldn't help but stop and watch, and a chorus of gasps rang out on the bridge of the Valley of Heroes.
 
 This dragonhawk was Vereesa's mount, brought by a dragonhawk rider to take her home. Going to Quel'Thalas and back within two weeks—that simply couldn't be done by ship.
 
-Vereesa was a true Ranger-Lord now. When she'd come to Stormwind, even King Varian had held a banquet specially to welcome her. Frankly speaking, Jace still hadn't fully adjusted to her change of status.
+Vereesa was a true Ranger Lord now. When she'd come to Stormwind, even King Varian had held a banquet specially to welcome her. Frankly speaking, Jace still hadn't fully adjusted to her change of status.
 
 Though she probably hadn't fully adjusted either—the minor commotion this enormous dragonhawk caused in Stormwind clearly made Vereesa feel a little guilty.
 
-She looked up at the knight in golden armor above and said, "Find a place for them to rest, Captain Liothalas. Don't keep circling in midair. I still have a few things to discuss with Jace—it'll be a little while yet."
+She looked up at the knight in golden armor above and said, "Find a place for them to rest, Captain Leotheras. Don't keep circling in midair. I still have a few things to discuss with Jace—it'll be a little while yet."
 
 "At once, Lady Vereesa Windrunner." The dragonhawk rider bowed his head, then led the purple-blue dragonhawk toward the shadows beneath the Valley of Heroes. The citizens watching on the bridge even let out waves of sighs, as if disappointed at not being able to see such a beautiful magical creature any longer.
 
@@ -30,15 +30,15 @@ After the dwarf and the green dragon left, Vereesa watched their retreating figu
 
 "Hah, there are still plenty of people to this day who don't believe green dragons exist," Jace said, glancing down toward the Valley of Heroes. "By the way, that knight just now, his name was…"
 
-"Liothalas," Vereesa said. "A member of the Sunfury."
+"Leotheras," Vereesa said. "A member of the Sunfury."
 
 Mentioning the Sunfury, the ranger rolled her eyes a little in exasperation—she'd never much cared for those sun-obsessed nobles.
 
-But Jace wasn't concerned about that. That dragonhawk rider was "the Blinded" Liothalas—he'd thought he'd misheard.
+But Jace wasn't concerned about that. That dragonhawk rider was Leotheras the Blind—he'd thought he'd misheard.
 
 That familiar yet "strange" name immediately dredged up memories of his past life.
 
-After the Scourge destroyed Quel'Thalas, Liothalas had joined Kael'thas Sunstrider's army of vengeance. Seeking a magical source to replace the Sunwell, he'd followed Kael'thas to Outland to pledge loyalty to Illidan.
+After the Scourge destroyed Quel'Thalas, Leotheras had joined Kael'thas Sunstrider's army of vengeance. Seeking a magical source to replace the Sunwell, he'd followed Kael'thas to Outland to pledge loyalty to Illidan.
 
 Thanks to his formidable strength and loyalty to the Illidari, he became one of the first blood elf demon hunters to undergo training. But his demonic transformation couldn't be called a success—though he gained tremendous power and became the strongest of that group of five, he also went completely mad, turning into a "mad dog" chained to guard the gates of the Serpentshrine.
 
@@ -46,13 +46,15 @@ At this moment he was still a guardian knight, and hadn't yet gouged out his own
 
 Seeing Jace's thoughtful expression, Vereesa said, "Oh right, Jace. After I leave, remember to tell Sola not to worry too much about my bow."
 
-"She's no fool, Wen," Jace said. "Don't worry."
+"She's no fool, Vere," Jace said. "Don't worry."
 
 Vereesa pursed her lips. "I just don't want to put any more pressure on her. Even though she's older than Sylvanas, she still looks like a little girl in every way."
 
 "I'll tell her," Jace said.
 
-"Well then." The Ranger-Lord leaned in and lightly kissed Jace's lips. "Be careful at Blackrock Mountain, Jace. Don't get hurt." Jace licked his lips. "You too."
+"Well then." The Ranger Lord leaned in and lightly kissed Jace's lips. "Be careful at Blackrock Mountain, Jace. Don't get hurt."
+
+Jace licked his lips. "You too."
 
 Vereesa smiled shyly, then looked toward the statue of Alleria Windrunner over there.
 
@@ -64,7 +66,7 @@ Because of that, he was actually looking forward to the upcoming trip to the Tem
 
 After saying goodbye to Sola and Grede waiting below the wall, Jace headed straight for the Cathedral of Light to find Krasus. Passing through the Trade District, he suddenly caught sight of a familiar figure walking out of Piste's Rare Goods shop by the roadside.
 
-"Amy? Amy Marin!"
+"Amy? Amy Malin!"
 
 The figure over there heard his shout and looked over, immediately breaking into a surprised smile. "Jace!"
 
@@ -72,7 +74,9 @@ It really was Amy. Jace had thought he'd misread things. Amy came over excitedly
 
 "A year is a long time too," Jace said with a smile. "Ever since you left for Dalaran, Amy, I have to say, Stormwind hasn't smelled right to me."
 
-Amy laughed even happier. She pointed at the sign for The Gilded Rose across the square. "Come on, I'm buying you a meal." Jace nodded, glanced at the package in Amy's hand, and asked, "Is this something you bought for your teacher?"
+Amy laughed even happier. She pointed at the sign for the Gilded Rose across the square. "Come on, I'm buying you a meal."
+
+Jace nodded, glanced at the package in Amy's hand, and asked, "Is this something you bought for your teacher?"
 
 Amy raised an eyebrow. "Let him wait—it's not urgent. What are you planning to do?"
 
@@ -84,23 +88,23 @@ Of course, considering Amy was already a member of the Kirin Tor, and Krasus had
 
 Amy nodded. "Then let's go."
 
-Arriving at The Gilded Rose, Amy went to the counter and fluently ordered all kinds of pastries and dishes. Jace watched her from the side—she seemed much more confident than she had in Dalaran.
+Arriving at the Gilded Rose, Amy went to the counter and fluently ordered all kinds of pastries and dishes. Jace watched her from the side—she seemed much more confident than she had in Dalaran.
 
 Not only that, though she wasn't wearing Kirin Tor robes, she barely concealed her powerful connection to the ley lines at all. If Jace had run into a mage like this in some underground palace or deep in a forest, he never would have taken her lightly.
 
-"I remember you love roasted meat, Jace." She glanced over and said to the owner, "A plate of mountain dog meat, Moonbrook style if possible. Haven't had it in ages."
+"I remember you love roasted meat, Jace." She glanced over and said to the owner, "A plate of coyote steak, Moonbrook style if possible. Haven't had it in ages."
 
 The two found a corner to sit in. Amy smiled and glanced at a few nearby customers, then said, "I'm the exact same, Jace. Ever since coming back to Stormwind, if I don't see you, the city feels like it's still under reconstruction. It looks strange no matter which way I turn."
 
 Jace rubbed his head in embarrassment. "So what brings you back this time…"
 
-"Of course it's about the black dragon matter," Amy said, her smile fading. "But I didn't come as a Kirin Tor investigator. I came back to see my father, to see with my own eyes. I heard the Wizard Sanctum couldn't help much this time. In a way, I'm even a little relieved. To fight a dragon—a black dragon—if there was a chance, he definitely wouldn't let it pass. And that's exactly how it is—he's been regretting all this time that he couldn't get into that planar rift and face Onyxia himself."
+"Of course it's about the black dragon matter," Amy said, her smile fading. "But I didn't come as a Kirin Tor investigator. I came back to see my father, to see with my own eyes. I heard the Wizard's Sanctum couldn't help much this time. In a way, I'm even a little relieved. To fight a dragon—a black dragon—if there was a chance, he definitely wouldn't let it pass. And that's exactly how it is—he's been regretting all this time that he couldn't get into that planar rift and face Onyxia himself."
 
 "The teacher might really have a way to get in," Jace said.
 
 "What kind of plane was it exactly, Jace?" Amy asked.
 
-"A lava plane controlled by black dragons. The situation's complicated," Jace said after some thought. "It was originally a temporary portal that Onyxia propped open to escape, and it collapsed as her power weakened. I can't explain it clearly either, Amy—you know how my studies at the Wizard Sanctum went."
+"A lava plane controlled by black dragons. The situation's complicated," Jace said after some thought. "It was originally a temporary portal that Onyxia propped open to escape, and it collapsed as her power weakened. I can't explain it clearly either, Amy—you know how my studies at the Wizard's Sanctum went."
 
 "Lava plane?" Amy thought for a moment, then said, "I really only studied about planes of pure elemental existence like water and fire. A space coexisting with both earth and fire… never mind, I won't comment any further. Leave it for the Kirin Tor experts in fire and planar research to investigate. By the way, has anyone from the Kirin Tor come looking for you these days?"
 
@@ -114,7 +118,7 @@ As Amy poured the wine she said, "Not going to tell me what happened inside that
 
 Jace took his glass and told Amy what had happened inside.
 
-Of course, he still couldn't bring himself to mention Karlez, so he exaggerated Grede a bit to cover for the pit lord's role.
+Of course, he still couldn't bring himself to mention Kallrez, so he exaggerated Grede a bit to cover for the doom lord's role.
 
 Hearing him out, Amy was slightly taken aback. "That spell, then?"
 
@@ -128,7 +132,7 @@ Jace said, "The situation was urgent, and I didn't cast my spell perfectly eithe
 
 "I didn't get a chance to talk with him in depth either," Jace said, cutting a piece of bread and stuffing it into his mouth as he chewed. "He seemed to have gone off to track down the escaped black dragon."
 
-"Master Krasus is like that—not too concerned with other people's views and opinions," Amy said, lowering her head. "Good thing he's not my advisor. I've heard several of his students haven't seen him in years. There's a saying circulating in Dalaran: the greatest cultivation of being Krasus's student is the process of finding him. This exam item alone is enough to train a traveling mage on par with the Quel'Thalas Seekers."
+"Master Krasus is like that—not too concerned with other people's views and opinions," Amy said, lowering her head. "Good thing he's not my advisor. I've heard several of his students haven't seen him in years. There's a saying circulating in Dalaran: the hardest lesson Krasus sets his students is finding him. This exam item alone is enough to train a traveling mage on par with the Quel'Thalas Seekers."
 
 Jace couldn't help but laugh. "So how are your studies? I heard powerful frost mages can summon blizzards in summer?"
 
@@ -154,14 +158,14 @@ Jace said, "Your father was the one who sent me to find someone to learn it. He 
 
 "…communicating with fire. That's amazing, Amy. Really amazing. You scared me."
 
-"Thank you for the compliment," Amy said with a soft smile. "As a frost mage who came out of the Wizard Sanctum, I certainly can't limit myself to the School of Evocation. Don't forget, the great water elementalist Nielas Aran was from Stormwind, Jace."
+"Thank you for the compliment," Amy said with a soft smile. "As a frost mage who came out of the Wizard's Sanctum, I certainly can't limit myself to the School of Evocation. Don't forget, the great water elementalist Nielas Aran was from Stormwind, Jace."
 
 Water elemental, water elemental…
 
-Jace kept feeling like there was something extremely important in his mind related to water elements, but he couldn't recall it all of a sudden.
+Jace kept feeling like there was something extremely important in his mind related to water elementals, but he couldn't recall it all of a sudden.
 
-"Of course, summoning a water elemental is by no means an easy thing," Amy explained in a low voice. "Water may be everywhere, but not all water is willing to cooperate with mages. Especially in the sea—many elements are violent and enraged, one might even say… corrupted and dark. Those willing to answer the call of arcane power are an absolute minority among water elements."
+"Of course, summoning a water elemental is by no means an easy thing," Amy explained in a low voice. "Water may be everywhere, but not all water is willing to cooperate with mages. Especially in the sea—many elementals are violent and enraged, one might even say… corrupted and dark. Those willing to answer the call of arcane power are an absolute minority among water elementals."
 
-This suddenly helped Jace recall something. He cleared his throat and asked, "Then have you heard the name Hydaxis?"
+This suddenly helped Jace recall something. He cleared his throat and asked, "Then have you heard the name Hydraxis?"
 
-The moment Jace said "Hydaxis," he clearly felt the wine in Amy's glass slosh again on its own, as if… it had twitched.
+The moment Jace said "Hydraxis," he clearly felt the wine in Amy's glass slosh again on its own, as if… it had twitched.

@@ -1,14 +1,14 @@
 ## Chapter 1225: The Role of Gorefiend
 
-The draenei and the rescued Alliance soldiers were hiding in a heavily concealed underground draenei storehouse. When they sensed Jace and the others approaching, Noboru and Livius came out to wave at them — otherwise it would've been truly hard to find the place.
+The draenei and the rescued Alliance soldiers were hiding in a heavily concealed underground draenei storehouse. When they sensed Jace and the others approaching, Noboru and Levixus came out to wave at them — otherwise it would've been truly hard to find the place.
 
-"I'm sorry, Sesso," Livius said. "I made an unfavorable judgment of you before, and now... I won't doubt anything anymore. You risked being captured by those orcs to go in and search for news of my father, and I treated you like some demon worshipper. I'm deeply ashamed of those offensive thoughts."
+"I'm sorry, Sesso," Levixus said. "I made an unfavorable judgment of you before, and now... I won't doubt anything anymore. You risked being captured by those orcs to go in and search for news of my father, and I treated you like some demon worshipper. I'm deeply ashamed of those offensive thoughts."
 
 "I made a very poor judgment of you too, because of those Auchenai priests who attacked us," Jace said with a slight smile. "And I'm already quite used to this business of 'preconceived bias.' No need to apologize. How are the people who came out doing?"
 
-"Miss Solia put them all to sleep. They're resting peacefully," Livius sighed. "They look much better, at least, than when they first escaped that demon's lair."
+"Miss Sola put them all to sleep. They're resting peacefully," Levixus sighed. "They look much better, at least, than when they first escaped that demon's lair."
 
-Lirath led Jace through a small door into the inner room. The three rescued people were all sleeping inside.
+Levixus led Jace through a small door into the inner room. The three rescued people were all sleeping inside.
 
 Two Alliance soldiers lay beside a few tattered silver cloaks, wrapped in orc-hide cloaks the Broken had brought from Azeroth, warming themselves against the gentle draenei crystals placed to one side.
 
@@ -18,17 +18,17 @@ This was nothing like the expeditionary force Jace had seen when he'd first arri
 
 Jace wasn't sure whether this was the difference between the game and reality, or whether it had something to do with him.
 
-Livius's father, the scholar Nitlin, was a slightly shorter draenei — though of course that was relative to Livius himself. Even sitting slumped against the wall in deep sleep, Jace could tell he stood at least two meters tall. He was a full head taller than Jace, at any rate.
+Levixus's father, the scholar Nitrin, was a slightly shorter draenei — though of course that was relative to Levixus himself. Even sitting slumped against the wall in deep sleep, Jace could tell he stood at least two meters tall. He was a full head taller than Jace, at any rate.
 
-What surprised Jace was that Nitlin — aside from his lighter hair color and being even thinner than Livius right now — really did look, at a careless glance, like a silver-blue-skinned jungle troll... yet purely from appearances he actually seemed younger than Livius.
+What surprised Jace was that Nitrin — aside from his lighter hair color and being even thinner than Levixus right now — really did look, at a careless glance, like a silver-blue-skinned jungle troll... yet purely from appearances he actually seemed younger than Levixus.
 
 The draenei were a near-immortal race. The father-child bond among them probably differed greatly from humans' as well — after living together long enough, they likely seemed more like brothers.
 
-Livius, as an Auchenai priest and a warrior, had probably endured far more chaos and hardship than his father Nitlin, a scholar. It was no wonder he looked older.
+Levixus, as an Auchenai priest and a warrior, had probably endured far more chaos and hardship than his father Nitrin, a scholar. It was no wonder he looked older.
 
-Ever since coming through the portal from Ilgara Tower, Jace and his party hadn't even had a chance to sleep. Since this basement was a relatively safe and secure spot, Jace and Grede took the opportunity to grab some rest.
+Ever since coming through the portal from the Tower of Ilgalar, Jace and his party hadn't even had a chance to sleep. Since this basement was a relatively safe and secure spot, Jace and Grede took the opportunity to grab some rest.
 
-Solia especially — leaving Auchindoun would probably depend on her to carry them across the Bone Wastes, flattened by Murmur. Without a guide and without enough supplies, they'd likely lose their way completely.
+Sola especially — leaving Auchindoun would probably depend on her to carry them across the Bone Wastes, flattened by Murmur. Without a guide and without enough supplies, they'd likely lose their way completely.
 
 Jace didn't know how long he'd been asleep when he opened his eyes the next day. They were all in another room, eating and talking.
 
@@ -58,27 +58,27 @@ No matter how wretched they looked now, they were unquestionably the saviors and
 
 "If only Captain Alleria could meet Lady Vereesa Windrunner..."
 
-The corporal had barely gotten the words out when the First Sergeant cut him off sharply. "It's Lord Ranger Vereesa, Corporal. Don't you recognize a Ranger-General's mantle?"
+The corporal had barely gotten the words out when the First Sergeant cut him off sharply. "It's Ranger Lord Vereesa, Corporal. Don't you recognize a Ranger Lord's mantle?"
 
-"Yes, sir." The corporal corrected himself in a fluster. "What I meant was, if the captain met her younger sister, Lord Ranger Vereesa Windrunner, she'd be thrilled out of her mind..."
+"Yes, sir." The corporal corrected himself in a fluster. "What I meant was, if the captain met her younger sister, Ranger Lord Vereesa Windrunner, she'd be thrilled out of her mind..."
 
 Vereesa certainly would be too, Jace thought to himself. Actually, so would he.
 
-"Where are the other expeditionary leaders?" he asked immediately. "Archmage Khadgar, Marshal Turalyon..."
+"Where are the other expeditionary leaders?" he asked immediately. "Archmage Khadgar, General Turalyon..."
 
-"As far as I know, Archmage Khadgar and Marshal Turalyon are in Shadowmoon Valley holding off the demons of the Burning Legion, Master," the First Sergeant said. "The demons have seized a draenei temple... After the great catastrophe, they've been using it to summon more and more demons with draenei souls."
+"As far as I know, Archmage Khadgar and General Turalyon are in Shadowmoon Valley holding off the demons of the Burning Legion, Master," the First Sergeant said. "The demons have seized a draenei temple... After the great catastrophe, they've been using it to summon more and more demons with draenei souls."
 
-"Ever since Gul'dan summoned the Black Star to descend on Karabor, that temple has ceased to be a holy place." The scholar Nitlin appeared in the doorway.
+"Ever since Gul'dan summoned the Dark Star to descend on Karabor, that temple has ceased to be a holy place." The scholar Nitrin appeared in the doorway.
 
-"I am Nitlin, a scholar from Telaar." The draenei bowed deeply. "Thank you for your help, Mr. Jace Sesso. Livius and I will be grateful to you and your companions for saving our lives forever."
+"I am Nitrin, a scholar from Telaar." The draenei bowed deeply. "Thank you for your help, Mr. Jace Sesso. Levixus and I will be grateful to you and your companions for saving our lives forever."
 
-"Though the process was a little twisty..." Jace nodded as well. "If not for Livius, we wouldn't have found members of the expeditionary force so quickly."
+"Though the road there had a few twists..." Jace nodded as well. "If not for Levixus, we wouldn't have found members of the expeditionary force so quickly."
 
-"The expeditionary force is in a bad way," Nitlin said. "After recovering from the destruction of Draenor, the demons seized the Temple of Karabor at once and have been using it as a base to try to attack this direction. The first assault half a year ago destroyed several watchtowers around the Wildhammer fortress, nearly reaching the walls. With more and more demons, the next one will certainly come even more fiercely..."
+"The expeditionary force is in a bad way," Nitrin said. "After recovering from the destruction of Draenor, the demons seized the Temple of Karabor at once and have been using it as a base to try to attack this direction. The first assault half a year ago destroyed several watchtowers around the Wildhammer Stronghold, nearly reaching the walls. With more and more demons, the next one will certainly come even more fiercely..."
 
-"Wildhammer fortress?" Grede leaned in. "You mean you have a fortress actually called Wildhammer?"
+"Wildhammer Stronghold?" Grede leaned in. "You mean you have a stronghold actually called Wildhammer?"
 
-"Yes, Lord Grede," First Sergeant Barnard said. "From here heading east, about three to four days' flight by gryphon, you can reach the Wildhammer fortress."
+"Yes, Lord Grede," First Sergeant Barnard said. "From here heading east, about three to four days' flight by gryphon, you can reach the Wildhammer Stronghold."
 
 "Lord Kurdran Wildhammer must be there," Grede said.
 
@@ -88,7 +88,7 @@ Grede laughed. "I knew it, Jace. Draenor couldn't possibly outlast Kurdran Wildh
 
 "The expeditionary leaders all survived the explosion of Draenor..." Jace said.
 
-"Thanks to Archmage Khadgar," the First Sergeant said. "He believed the dark ritual the orc warchief was performing in that temple would transmit through the Dark Portal to Azeroth, so he decided to destroy the Dark Portal... Gryphon Riders carried him and the mages to the Hellfire Peninsula, where the Dark Portal stood, while Marshal Turalyon and Captain Alleria's forces drew the attention of the demon army near the Dark Portal to buy time for Archmage Khadgar..."
+"Thanks to Archmage Khadgar," the First Sergeant said. "He believed the dark ritual the orc warchief was performing in that temple would transmit through the Dark Portal to Azeroth, so he decided to destroy the Dark Portal... Gryphon Riders carried him and the mages to the Hellfire Peninsula, where the Dark Portal stood, while General Turalyon and Captain Alleria's forces drew the attention of the demon army near the Dark Portal to buy time for Archmage Khadgar..."
 
 Yes. The problem was right there.
 
@@ -98,11 +98,11 @@ In the other timeline, when the Dark Portal was closed, the situation hadn't bee
 
 The corporal said, "Right before the Horde began that terrifying destruction ritual, Master. I imagine those demons came here to stop the warchief's plan."
 
-"No." The First Sergeant said. "The demons didn't come to stop the Horde's or ours, Corporal. They came to attack the black dragons."
+"No," the First Sergeant said. "The demons didn't come to stop the Horde or us, Corporal. They came to attack the black dragons."
 
 "What?" Grede asked. "You're saying the demons came to attack the black dragons?"
 
-"Yes, Lord Grede," the First Sergeant said. "Once I heard some mages from Farlane mention it — the master of the demons believed the Dragon King intended to enslave the orcs and all of Draenor... It wasn't until Deathwing was forced to abandon the plan and leave here that the demons won their victory and turned their attention to us and the Dark Portal."
+"Yes, Lord Grede," the First Sergeant said. "Once I heard some mages from Farahlon mention it — the master of the demons believed the Dragon Aspect intended to enslave the orcs and all of Draenor... It wasn't until Deathwing was forced to abandon the plan and leave here that the demons won their victory and turned their attention to us and the Dark Portal."
 
 Jace thought to himself: could it be that Deathwing had crossed the Dark Portal from Dalaran with the stolen artifacts and dragon eggs straight into Outland, and immediately turned on the Burning Legion and the Horde?
 

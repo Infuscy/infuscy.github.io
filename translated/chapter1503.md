@@ -18,53 +18,53 @@ Still, linking Kel'Thuzad with Southshore and Helcular like this made it hard fo
 
 On the other hand, since Antonidas was willing to let him attend Kel'Thuzad's funeral and witness the handling of his ashes, if anything seemed off, he could try adding another layer of "insurance." A lich's transformation required bones. If the bones were dealt with properly, no amount of outside help would matter.
 
-After bidding farewell to the master of Dalaran, Jace went to find Archmage Vargus with Antonidas's letter in hand. Vargus lived in the Violet Citadel too, so a servant led Jace to his room.
+After bidding farewell to the master of Dalaran, Jace went to find Archmage Vargoth with Antonidas's letter in hand. Vargoth lived in the Violet Citadel too, so a servant led Jace to his room.
 
-The servant knocked twice and called out "Master Vargus." The door opened almost immediately. "Something you need, Mr. Wendel?" Vargus asked politely.
+The servant knocked twice and called out "Master Vargoth." The door opened almost immediately. "Something you need, Mr. Wendel?" Vargoth asked politely.
 
-"Tell Master Vargus that Jace Sesso would like to see him." Jace looked at "Vargus" and smiled slightly.
+"Tell Master Vargoth that Jace Sesso would like to see him." Jace looked at "Vargoth" and smiled slightly.
 
-"Vargus" glanced sideways toward the sound, and his eyes went wide — wider and wider — until he finally twisted into a chaotic bundle of colorful ribbons that burst into the air like confetti, leaving behind only a brilliant shower of arcane sparks.
+"Vargoth" glanced sideways toward the sound, and his eyes went wide — wider and wider — until he finally twisted into a chaotic bundle of colorful ribbons that burst into the air like confetti, leaving behind only a brilliant shower of arcane sparks.
 
 "One moment, please!"
 
-The real Vargus's voice came from inside. A moment later, a much more disheveled-looking blond mage appeared at the door, straightening his purple shirt. He squinted at the servant. "Don't tell Archmage Antonidas about this, Mr. Wendel."
+The real Vargoth's voice came from inside. A moment later, a much more disheveled-looking blond mage appeared at the door, straightening his purple shirt. He squinted at the servant. "Don't tell Archmage Antonidas about this, Mr. Wendel."
 
-"Of course not, Master Vargus." The servant nodded. "Then I'll take my leave."
+"Of course not, Master Vargoth." The servant nodded. "Then I'll take my leave."
 
-"Thank you for the escort." Jace gave a slight nod. After the servant left, he looked at Vargus. "Master, I feel like I'm more familiar with your illusion than with the real you."
+"Thank you for the escort." Jace gave a slight nod. After the servant left, he looked at Vargoth. "Master, I feel like I'm more familiar with your illusion than with the real you."
 
-"My apologies. In Draenor it was a matter of necessity, but here in this castle it was rude of me." Vargus coughed, his words coming out so fast it seemed even he was choking on them. "I didn't expect you to come straight to Dalaran, Mr. Sesso. I thought after we left Draenor, you'd wash your hands of us Kirin Tor types for good. Not that I'm not glad to see you — please, come in."
+"My apologies. In Draenor it was a matter of necessity, but here in this castle it was rude of me." Vargoth coughed, his words coming out so fast it seemed even he was choking on them. "I didn't expect you to come straight to Dalaran, Mr. Sesso. I thought after we left Draenor, you'd wash your hands of us Kirin Tor types for good. Not that I'm not glad to see you — please, come in."
 
-Jace thanked him and followed Vargus inside, observing as the mage tidied a few things on his bookshelf. He got the impression this guy's personality was nothing like his illusion.
+Jace thanked him and followed Vargoth inside, observing as the mage tidied a few things on his bookshelf. He got the impression this guy's personality was nothing like his illusion.
 
 "Actually, I came to Dalaran because I need your help with something, Master."
 
-"Whatever I can do." Vargus set two empty cups on the table. "I hear from the youngest Egan girl that your voidflower cultivation isn't going so well. The alchemists I know are skilled at brewing magical potions, but they don't know much about herbology — Draenor herbology, specifically — so I'm afraid I can't help there."
+"Whatever I can do." Vargoth set two empty cups on the table. "I hear from the youngest Egan girl that your Netherbloom cultivation isn't going so well. The alchemists I know are skilled at brewing magical potions, but they don't know much about herbology — Draenor herbology, specifically — so I'm afraid I can't help there."
 
-"It's not about herbology. It's about those soul fragments from Auchindoun." As he spoke, Jace noticed the cup in front of him was already filled with strong coffee — and it smelled exactly like the brew Matthias Shaw had made before. So that rumor about coffee with a name like an incantation being popular in Dalaran was true.
+"It's not about herbology. It's about those soul shards from Auchindoun." As he spoke, Jace noticed the cup in front of him was already filled with strong coffee — and it smelled exactly like the brew Mathias Shaw had made before. So that rumor about coffee with a name like an incantation being popular in Dalaran was true.
 
-"Thank you." He took a small sip. "I know a lot of them are demon soul fragments. I'd like to borrow some of them—"
+"Thank you." He took a small sip. "I know a lot of them are demon soul shards. I'd like to borrow some of them—"
 
-"Take some of them," Vargus said.
+"Take some of them," Vargoth said.
 
 Jace blinked. "I'll try to compensate you."
 
-"No need." Vargus smiled. "I know how dangerous it was to infiltrate Auchindoun as a fel orc and deal with those high-ranking Shadow Council warlocks, Mr. Sesso."
+"No need." Vargoth smiled. "I know how dangerous it was to infiltrate Auchindoun as a fel orc and deal with those high-ranking Shadow Council warlocks, Mr. Sesso."
 
-Jace wasn't quite used to Vargus's warmth. He suddenly felt the letter might have been a bit unnecessary.
+Jace wasn't quite used to Vargoth's warmth. He suddenly felt the letter might have been a bit unnecessary.
 
-Still, he took it out. "This is Archmage Antonidas's letter — about the demon soul fragments."
+Still, he took it out. "This is Archmage Antonidas's letter — about the demon soul shards."
 
-"Ah." Vargus raised an eyebrow. "It really wasn't necessary, Mr. Sesso. You could have come straight to me."
+"Ah." Vargoth raised an eyebrow. "It really wasn't necessary, Mr. Sesso. You could have come straight to me."
 
 "Hold onto the letter, Master." Jace said.
 
-"Fine, if you insist." Vargus carefully put the letter away. "So, what do you need the soul fragments for?"
+"Fine, if you insist." Vargoth carefully put the letter away. "So, what do you need the soul shards for?"
 
 "Definitely not for summoning demons or casting soul magic." Jace said immediately. "I'm going to use them to make a robe that resists demonic power."
 
-"I'm glad to hear those demon souls are going somewhere more legitimate than the Twisting Nether." Vargus said. "But I'm not trying to pry into your secrets, Mr. Sesso. I just want to know roughly how many soul fragments you need."
+"I'm glad to hear those demon souls are going somewhere more legitimate than the Twisting Nether." Vargoth said. "But I'm not trying to pry into your secrets, Mr. Sesso. I just want to know roughly how many soul shards you need."
 
 "Seventy or so," Jace said.
 
@@ -76,19 +76,19 @@ Still, he took it out. "This is Archmage Antonidas's letter — about the demon 
 
 "Not at all. Twenty days is fine. Thank you."
 
-"It's me who should be thanking you." Vargus said. "If you'd ever spent even a day in Farahlon after Draenor was destroyed, you'd understand... I believe every resident of Kirin'Var Village feels the same way."
+"It's me who should be thanking you." Vargoth said. "If you'd ever spent even a day in Farahlon after Draenor was destroyed, you'd understand... I believe every resident of Kirin'Var Village feels the same way."
 
 Hearing this, Jace almost regretted not setting foot in Farahlon himself to see that part of the world the game had never shown.
 
 But there was a gap between games and reality. If even the Kirin Tor wizards found it so unbearable, life there was probably even harsher than Shadowmoon Valley.
 
-After saying goodbye to Vargus, Jace walked down the corridor, feeling that the Kirin Tor's attitude toward him had shifted noticeably since this visit to Dalaran.
+After saying goodbye to Vargoth, Jace walked down the corridor, feeling that the Kirin Tor's attitude toward him had shifted noticeably since this visit to Dalaran.
 
-Of course, part of the reason was that Kirin Tor mages had been a major part of the Expeditionary Force. But Jace was sure Khadgar's influence couldn't be ignored either.
+Of course, part of the reason was that Kirin Tor mages had been a major part of the Expedition. But Jace was sure Khadgar's influence couldn't be ignored either.
 
 Thinking about it, Jace even felt a little embarrassed about swiping those boots from him... though Khadgar had said the shoes were women's, so who was he to complain?
 
-Walking along, Jace mentally tallied what he'd come to Dalaran to do. Bringing Needlefang out for fun — half done. Delivering Amy's gift — done. Sending Ursula's letter — done. Scrounging demon soul fragments — taken care of.
+Walking along, Jace mentally tallied what he'd come to Dalaran to do. Bringing Needleflame out for fun — half done. Delivering Amy's gift — done. Sending Ursula's letter — done. Scrounging demon soul shards — taken care of.
 
 Now what...
 
@@ -102,7 +102,7 @@ The figure turned around. Those eyes, which still sparkled with arcane starlight
 
 Vereesa wiped her eyes and hurried over. Jace pulled her into his arms and took a deep breath, smelling the familiar sungrass scent in her hair. All the worry and frustration seemed to wash away.
 
-"I feel like I've been away from you for so long." The elf buried her head in Jace's neck, her voice soft. "Now I understand why Sorah can never keep track of how old she is. In dreams, you lose track of time and space. In the beginning, in that forest, I just felt so helpless... especially without you there."
+"I feel like I've been away from you for so long." The elf buried her head in Jace's neck, her voice soft. "Now I understand why Sola can never keep track of how old she is. In dreams, you lose track of time and space. In the beginning, in that forest, I just felt so helpless... especially without you there."
 
 "Believe me, Vereesa, I went through something similar." Jace whispered. "Take a guess where I've been these past few months."
 
@@ -112,9 +112,9 @@ Vereesa wiped her eyes and hurried over. Jace pulled her into his arms and took 
 
 "Same here." The elf wiped the corner of her eye, smiled, turned around, and took a few steps to the castle entrance. She spun around, backlit by the sun, and spread her arms. "First, take a look. Do you notice anything different about me, Jace?"
 
-Vereesa was wearing a pale yellow Quel'Thalas runecloth shirt, gray leather traveling pants, and still had on those white crocodile-skin boots tinged with green. The outfit was even simpler than what she'd worn when she went into the Emerald Dream — quite the contrast with the Kirin Tor wizards walking in and out in their elaborate robes.
+Vereesa was wearing a pale yellow Quel'Thalas runecloth shirt, gray leather traveling pants, and still had on those white crocolisk-skin boots tinged with green. The outfit was even simpler than what she'd worn when she went into the Emerald Dream — quite the contrast with the Kirin Tor wizards walking in and out in their elaborate robes.
 
-According to Sorah, Vereesa had met the demigod Aviana. Even if she'd shown up wearing a cloak of harpy feathers, Jace wouldn't have been surprised.
+According to Sola, Vereesa had met the demigod Aviana. Even if she'd shown up wearing a cloak of harpy feathers, Jace wouldn't have been surprised.
 
 But maybe it was the simple clothes that made it clear — she seemed taller and more powerfully built than before she'd entered the Emerald Dream.
 

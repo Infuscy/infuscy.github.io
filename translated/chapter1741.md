@@ -1,6 +1,6 @@
 ## Chapter 1741: Return to the Nest
 
-Chromie held the highest status among the bronze dragonflight aside from the Aspect Nozdormu himself, and was the most adept at time travel. When Onyxia mentioned that the soft armor blocked attacks through something other than ordinary magical protection, and considering its connection to Chromie... Jace guessed almost immediately that it might involve time distortion or spatial manipulation.
+Chromie held the highest status among the Bronze Dragonflight aside from the Aspect Nozdormu himself, and was the most adept at time travel. When Onyxia mentioned that the soft armor blocked attacks through something other than ordinary magical protection, and considering its connection to Chromie... Jace guessed almost immediately that it might involve time distortion or spatial manipulation.
 
 He racked his brain trying to remember Onyxia's loot table from the game, but couldn't recall any gear connected to bronze dragons.
 
@@ -12,15 +12,15 @@ As they left the vault and returned to the throne room, Onyxia naturally positio
 
 Grede and the others were still marvelling at the bronze dragon reactive armor and didn't notice her movement. But Jace saw it clearly.
 
-No matter how much this dragon had stirred up trouble in Stormwind, no matter how infamous she was among outsiders, when it came to her offspring and the future of the black dragonflight, she was infinitely close to a mortal mother, unashamed to show she would give everything for the next generation.
+No matter how much this dragon had stirred up trouble in Stormwind, no matter how infamous she was among outsiders, when it came to her offspring and the future of the Black Dragonflight, she was infinitely close to a mortal mother, unashamed to show she would give everything for the next generation.
 
 This was of course also why Jace was willing to trust the information she'd given. For Onyxia, as long as she could trick this group into leaving her lair and going elsewhere, her brother's secrets, Burning Legion intelligence, even her vault's treasures -- none of it mattered at all.
 
 "I'm curious, Lady Onyxia," Jace said. "Why are you willing to trust the Grimtotem outside to protect your lair?"
 
-Hearing Jace's words, the black iron dwarf beside Grede glanced over casually. She knew Jace was finally bringing up Magatha.
+Hearing Jace's words, the Dark Iron dwarf beside Grede glanced over casually. She knew Jace was finally bringing up Magatha.
 
-"No need to dance around it, Jace Sesso," Onyxia said. "You killed Lashrael at that lighthouse and figured out how he controlled those warlocks. You've known for a long time what I intend to do with those Grimtotem."
+"No need to dance around it, Jace Sesso," Onyxia said. "You killed Lashlayer at that lighthouse and figured out how he controlled those warlocks. You've known for a long time what I intend to do with those Grimtotem."
 
 "Does Magatha Grimtotem know you plan to turn her into a dragonkin?" Jace asked.
 
@@ -32,9 +32,9 @@ Hearing Jace's words, the black iron dwarf beside Grede glanced over casually. S
 
 "So don't concern yourself with things that aren't your business. Focus on what matters most. I cannot promise you anything regarding the Grimtotem. We can help each other, exchange favors -- but that doesn't make us friends."
 
-"I don't want to say I agree with the black dragon, but I do feel the same way, Jace. You know exactly what those Grimtotem are like, don't you?" Grede muttered. But Jace knew he was really saying it to Mossa beside him.
+"I don't want to say I agree with the black dragon, but I do feel the same way, Jace. You know exactly what those Grimtotem are like, don't you?" Grede muttered. But Jace knew he was really saying it to Mosa beside him.
 
-"But I can tell you this," Onyxia said. "I have never lacked for worshippers. Most volunteered for the elevation ceremony, from one continent to another. But I did lack a group that would pledge loyalty while remaining rather self-righteous, proud of their tribal identity."
+"But I can tell you this," Onyxia said. "I have never lacked for worshippers. Most volunteered for the ascension ritual, from one continent to another. But I did lack a group that would pledge loyalty while remaining rather self-righteous, proud of their tribal identity."
 
 "In this dangerous age, followers like that can help conceal the lair, making the low-intelligence creatures around here gradually lose interest in me and the dragonkin. In a few decades, a few centuries... they'll give up on this place entirely. The Grimtotem fit this role perfectly. We were a good match."
 
@@ -48,7 +48,7 @@ Especially not that you're this weak now, Jace thought.
 
 "Of course," he replied.
 
-Mossa looked up at the heights with a complicated expression. She was probably already thinking about how to get Natira out of the swamps.
+Mosa looked up at the heights with a complicated expression. She was probably already thinking about how to get Nathra out of the swamps.
 
 Onyxia nodded, slowly walking toward her throne while closing her eyes. As her golden dragon eyes shut, the entire cavern seemed to dim.
 
@@ -58,7 +58,7 @@ Onyxia nodded, slowly walking toward her throne while closing her eyes. As her g
 
 "Hard to say who owes a thrashing, elf," Grede said through gritted teeth.
 
-Sora was practically biting her lip, impatient to leave. She kept tugging at Vereesa's hand, then Jace's cloak.
+Sola was practically biting her lip, impatient to leave. She kept tugging at Vereesa's hand, then Jace's cloak.
 
 Jace knew perfectly well how tense this green dragon had been in the cave. The fact that she'd dared talk back to Onyxia earlier was already pushing past the limits of what a young dragon could endure. A few years ago, when she was still timid, she'd probably be sitting on the floor shivering by now.
 
@@ -96,11 +96,11 @@ Onyxia let out a sharp laugh. "Your father? You mean Sabellian?"
 
 Needleflame's brow furrowed as if she was about to explode. But facing this elder, the young dragon's innate deference kept her from mustering much anger. She just stood there, wretchedly conflicted.
 
-Watching her tangled expression, the Black Dragon Princess's smile slowly faded.
+Watching her tangled expression, the black dragon princess's smile slowly faded.
 
 "You look like me, little one. Has Nefarian never told you? When I was young, I was the spitting image of you."
 
-Needleflame stood frozen, as if hit by a paralysis spell. Sora swallowed quietly too, as if sensing something.
+Needleflame stood frozen, as if hit by a paralysis spell. Sola swallowed quietly too, as if sensing something.
 
 "What is your name?" Onyxia asked.
 

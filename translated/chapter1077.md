@@ -6,19 +6,19 @@ Outside, a light drizzle was still falling — you could hear the rain hitting t
 
 It wasn't until morning, looking out at the clothes that hadn't fully dried yet, that Jace finally felt like he'd shaken free of the shadow of that temple.
 
-Next up was heading to Booty Bay to deliver the Hakkar spawn's skull.
+Next up was heading to Booty Bay to deliver the Son of Hakkar's skull.
 
 The journey back from Stonard to the Cape of Stranglethorn was much easier than the trip there. All the way, Grede and Vereesa enthusiastically discussed everything that had happened in that temple — the strange troll rituals, the totems, and especially the god avatar and the Atal'ai priests.
 
-In the end, even Morfil, who couldn't be bothered to say anything most of the time, was egged on by Grede to join in and share her thoughts on that divine magic.
+In the end, even Morophil, who couldn't be bothered to say anything most of the time, was egged on by Grede to join in and share her thoughts on that divine magic.
 
-Throughout all of this, Jace kept a close eye on her, signaling her to keep her mouth shut about the entire process of how she'd shattered Hakkar's immortal body. Morfil, knowing which way the wind blew, skillfully kept the conversation from drifting in that direction.
+Throughout all of this, Jace kept a close eye on her, signaling her to keep her mouth shut about the entire process of how she'd shattered Hakkar's immortal body. Morophil, knowing which way the wind blew, skillfully kept the conversation from drifting in that direction.
 
 When they arrived near the Cape of Stranglethorn it was a slightly overcast morning, and the yellowish light made this stretch of jungle almost feel like they were back near Stonard.
 
 A caravan of goblin traders was heading to Booty Bay under the protection of Blackwater pirate mercenaries, so Jace's group followed them into town.
 
-At the fork in the road outside the port, Grede pointed to the other side of the crescent bend and said, "I'll go check the Sailor's Home and see if there's a room free, but I'm not optimistic. If there's only one room or two, we'll be cramming in."
+At the fork in the road outside the port, Grede pointed to the other side of the crescent bend and said, "I'll go check the Salty Sailor Tavern and see if there's a room free, but I'm not optimistic. If there's only one room or two, we'll be cramming in."
 
 "I've got no problem with that," Jace said. "After living in that stone cave on the temple's outer wall, you could stable me in a barn now and I wouldn't care."
 
@@ -32,7 +32,7 @@ As he said it, he looked at Vereesa. Vereesa asked, "What are you looking at me 
 
 "I'll go with you, Jace," Sola said. "I have to admit, the advice she gave me… was important. I have to thank her."
 
-"What's there to thank those dog-headed old witches for?" Grede said, incredulous. "I don't believe she could've given any normal advice."
+"What's there to thank those mangy old witches for?" Grede said, incredulous. "I don't believe she could've given any normal advice."
 
 Sola said, "Even though she said a lot of harsh things, no matter what her purpose was, in the end she didn't want me to end up the same way as my kin."
 
@@ -56,7 +56,7 @@ Jace nodded and followed her inside.
 
 "Your clientele really is wide-ranging," Jace said. "What can a troll do for a gnome?"
 
-"I shouldn't reveal client information as a rule." Sylia chuckled. "But she's not exactly shy about her troubles, since she came here in the Alliance's name. I remember you work for the Wizard Sanctum too, don't you? And you've got some connection to one of the Alliance's leaders, that young Stormwind king."
+"I shouldn't reveal client information as a rule." Sylia chuckled. "But she's not exactly shy about her troubles, since she came here in the Alliance's name. I remember you work for the Wizard's Sanctum too, don't you? And you've got some connection to one of the Alliance's leaders, that young Stormwind king."
 
 "Yes," Jace said.
 
@@ -64,23 +64,25 @@ Jace nodded and followed her inside.
 
 "Dragonmaw orcs?" Jace asked.
 
-"No." The troll said, "You know the kind of monster the dwarves call 'troggs'?"
+"No." The troll said, "You know the kind of monster the dwarves call 'stone-jaws'?"
 
-"Stonejaw?" Jace said.
+"Troggs?" Jace said.
 
 "Ah, yes, that's the Common term for it." Sylia leaned back in her chair. "For a long time those were creatures that existed only in legend — whether for gnomes, Dun Morogh trolls, or dwarves. Don't you think the appearance of this kind of monster more or less means some kind of ill omen? I'm a witch doctor, and I used to count as a priest — I've always had a good nose for these things. But those gnomes don't take it seriously. They value physical evidence and don't believe in 'prophecies.'"
 
 "Whatever the case, the residents of Gnomeregan have their own fate." The troll scratched the root of her braid with her long, muscular arm and sighed. "Tell me about the Atal'Hakkar business, Jace. What, did you run into some new trouble?"
 
-Jace placed the bundle containing the Hakkar spawn's skull on the table. "Check the goods." The witch doctor glanced at Sola beside her, then asked, "You've already been there?"
+Jace placed the bundle containing the Son of Hakkar's skull on the table. "Check the goods."
+
+The witch doctor glanced at Sola beside her, then asked, "You've already been there?"
 
 Jace nodded. There was still disbelief in Sylia's eyes, as if any green dragon that entered would be corrupted by Hakkar's magic and blood.
 
 "Without your potion and warning, Lady Sylia, we absolutely could not have survived that temple so easily," Sola said. "So I came this time to express my thanks as well."
 
-"It's my honor to be of service to a dragon of the Emerald."
+"It's my honor to be of service to a dragon of the Emerald Dream."
 
-The troll smiled and leaned her head closer to the bundle, twitching her nose, then looked at the two of them with suspicion before opening it. When the blue-scented head with broken feathers on its crown and soaked in dried blood was revealed, she gasped in shock.
+The troll smiled and leaned her head closer to the bundle, twitching her nose, then looked at the two of them with suspicion before opening it. When the blue-scaled head with broken feathers on its crown and soaked in dried blood was revealed, she gasped in shock.
 
 "That… that's impossible."
 
@@ -88,19 +90,21 @@ The troll smiled and leaned her head closer to the bundle, twitching her nose, t
 
 Sylia hesitated, then examined it more closely before saying, "This isn't…"
 
-"Something wrong?" Jace frowned and flipped the head over. Sylia quickly said, "Stop, don't touch it."
+"Something wrong?" Jace frowned and flipped the head over.
+
+Sylia quickly said, "Stop, don't touch it."
 
 "Can you just say what you mean, Sylia?" Jace asked.
 
-"This is a Bloodguard — the blood in its body is closest to the Soulflayer's purity, so it can even be used to commune with the Blood God himself!" Sylia said. "Where did you find this Bloodguard?"
+"This is a Bloodkeeper — the blood in its body is closest to the Soulflayer's purity, so it can even be used to commune with the blood god himself!" Sylia said. "Where did you find this Bloodkeeper?"
 
-"I didn't find it — it found me," Jace said. "We entered that temple, and Gamalan probably figured the Atal'ai alone couldn't handle us, so he forcibly awakened Hakkar's avatar. A whole bunch of these wind serpents just flew out at us."
+"I didn't find it — it found me," Jace said. "We entered that temple, and Jammal'an probably figured the Atal'ai alone couldn't handle us, so he forcibly awakened Hakkar's avatar. A whole bunch of these wind serpents just flew out at us."
 
 "What did you say?" Sylia asked. "You're not mistaken, right?"
 
 "I'm not mistaken," Jace said. "What, can't this head be used?"
 
-"No, no, of course it can be used," Sylia said. "A Bloodguard is also a Hakkar spawn, just an extremely powerful kind… but you survived Hakkar's avatar and killed a Bloodguard? This, how…"
+"No, no, of course it can be used," Sylia said. "A Bloodkeeper is also a Son of Hakkar, just an extremely powerful kind… but you survived Hakkar's avatar and killed a Bloodkeeper? This, how…"
 
 Jace said, "If I hadn't been worried about the corruption of Hakkar's avatar spreading outside the temple and causing too much havoc, I'd have brought you a bone to look at."
 
@@ -108,7 +112,7 @@ Jace said, "If I hadn't been worried about the corruption of Hakkar's avatar spr
 
 "You directly… destroyed the Soulflayer's avatar?!" Sylia's voice was hoarse and trembling.
 
-"Yes." Jace nodded. "I didn't expect Gamalan to actually do it before we went in either."
+"Yes." Jace nodded. "I didn't expect Jammal'an to actually do it before we went in either."
 
 "Impossible." Sylia shook her head. "The Soulflayer — even his avatar is immortal and unkillable!"
 
@@ -122,7 +126,9 @@ Sylia stared at the two people in front of her, and after a long while couldn't 
 
 "You don't understand what this means!" Sylia jumped to her feet all at once, excited. "Hakkar can never return to this world — at least I definitely won't live to see it! Ha! I don't know how you did it, but I should tell this news, tell… umm…"
 
-At this point, she felt she shouldn't say any more. She calmed down for a moment, then tightened the bundle back up. "So what do you plan to do with this head?" Jace asked.
+At this point, she felt she shouldn't say any more. She calmed down for a moment, then tightened the bundle back up.
+
+"So what do you plan to do with this head?" Jace asked.
 
 "A kind of magic — a type of Amani sorcery, by your way of speaking." Sylia cradled the head. "Since the avatar has already been destroyed, we don't need to rush — we can take our time and experiment patiently."
 
@@ -130,4 +136,4 @@ At this point, she felt she shouldn't say any more. She calmed down for a moment
 
 "In the Gurubashi…" Sylia lowered her voice. "There's a group of troll witch doctors dedicated to thoroughly crushing the Atal'ai's delusions and finding a way to permanently end the possibility of Hakkar's return. We certainly couldn't enter the Temple of Atal'Hakkar and destroy Hakkar's avatar directly like you did, but there's another way — to destroy… maybe I shouldn't be telling you this, Jace Sesso. But since you really did it, I actually should introduce you to that group of priests. There'll be a chance for that later. There'll be a chance — the Gurubashi and countless kin will thank you for everything you've done, and I'll get my name remembered for it too, even if I'm an Amani from the Hinterlands."
 
-"Now I even want to go back to the Hinterlands and tell the whole Vilebranch, all the way up to Zinsaro…" She couldn't help but laugh. "I want to see the looks on those idiots' and lunatics' faces, then watch them skin me, cut off my head, throw me in a pot, and curse our names, laughing the whole time… Of course, hmm, I'm not done living yet, so it's just a thought."
+"Now I even want to go back to the Hinterlands and tell the whole Vilebranch, all the way up to Jintha'Alor…" She couldn't help but laugh. "I want to see the looks on those idiots' and lunatics' faces, then watch them skin me, cut off my head, throw me in a pot, and curse our names, laughing the whole time… Of course, hmm, I'm not done living yet, so it's just a thought."

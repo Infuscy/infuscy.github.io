@@ -52,15 +52,15 @@ Of course, not every flawed child could be identified at birth. Those who grew u
 
 That hadn't fundamentally changed even after Thrall the liberator founded the new Horde. Laborers were still the most marginalized and discriminated-against group in Orgrimmar and all of Durotar.
 
-When Jace was studying Orcish and orc culture at the Wizard Sanctum, the cruel treatment of laborers in the Horde was used as proof of the orcs' evil nature in Alliance propaganda. Back then, he'd focused on the language itself. He hadn't spent much thought on why orcs were so fond of slavery — even Thrall, a freed slave himself, hadn't abolished it completely.
+When Jace was studying Orcish and orc culture at the Wizard's Sanctum, the cruel treatment of laborers in the Horde was used as proof of the orcs' evil nature in Alliance propaganda. Back then, he'd focused on the language itself. He hadn't spent much thought on why orcs were so fond of slavery — even Thrall, a freed slave himself, hadn't abolished it completely.
 
 But after coming to Draenor and seeing the ogres of all sizes, then witnessing the crowds of laborers — shorter and frailer than normal orcs — he'd started to realize something. The orcs' choices might be hard to judge by human standards — or the standards of his past life's world.
 
-Orcs had evolved from ogres. The orcs' ancestors were the "deformed" among the ogres. And the ogres had shared a similar fate — their own ancestors were the one-eyed ogoron, a kind of giant between gronn and ogres. The ogoron had themselves "degenerated" from the gronn.
+Orcs had evolved from ogres. The orcs' ancestors were the "deformed" among the ogres. And the ogres had shared a similar fate — their own ancestors were the one-eyed ogron, a kind of giant between gronn and ogres. The ogron had themselves "degenerated" from the gronn.
 
-Even today, many ogres still bore traces of gronn and ogoron features — thick, rough stone-like skin, stalactite-like horns on their backs and heads. These ogres who retained gronn-like traits were regarded by their kin as gronn-avatars, honored as "lords."
+Even today, many ogres still bore traces of gronn and ogron features — thick, rough stone-like skin, stalactite-like horns on their backs and heads. These ogres who retained gronn-like traits were regarded by their kin as gronn-avatars, honored as "lords."
 
-And the gornn's own ancestors were the now-extinct magnaron — far more powerful than themselves. This evolutionary chain could be traced back hundreds of thousands of years, to a primordial age when mountain-sized giants fought the terrifying flora that ruled Draenor.
+And the gronn's own ancestors were the now-extinct magnaron — far more powerful than themselves. This evolutionary chain could be traced back hundreds of thousands of years, to a primordial age when mountain-sized giants fought the terrifying flora that ruled Draenor.
 
 Many orc scholars knew this history. The shamans could hear these stories from the elements and the ancestors' spirits. So they might be concerned about one question: would orcs continue to "degenerate"?
 
@@ -68,11 +68,11 @@ Jace guessed that these obviously weaker laborers were seen by many Horde rulers
 
 Of course, it was more likely that orcs simply had this kind of culture and temperament.
 
-The laborers working below for the cult weren't just orcs. There were also broken ones, and even draenei.
+The laborers working below for the cult weren't just orcs. There were also Broken, and even draenei.
 
-These draenei weren't Patriarch Maladaar's followers. They were survivors of Auchindoun's destruction, dragged out from every corner of the ruins.
+These draenei weren't Exarch Maladaar's followers. They were survivors of Auchindoun's destruction, dragged out from every corner of the ruins.
 
-Even now, many draenei still hid in the nooks and crannies of the ruins. They didn't trust the fallen Patriarch Maladaar, but they couldn't abandon this place either — not when venturing into the Bone Wastes meant risking being eaten by black dragons.
+Even now, many draenei still hid in the nooks and crannies of the ruins. They didn't trust the fallen Exarch Maladaar, but they couldn't abandon this place either — not when venturing into the Bone Wastes meant risking being eaten by black dragons.
 
 Besides, even if they left the Bone Wastes, what then? Everyone who'd left Auchindoun had never been seen again. They always said they'd reach Shattrath and rebuild that city. But not one had returned with news from Shattrath.
 
@@ -80,19 +80,19 @@ Now that the power balance in Auchindoun had tipped toward the cult, these draen
 
 A group of laborers and soldiers were dragging a bound, towering draenei out of a passage. The gray-blue-skinned giant was emaciated past recognition, his hooves scraping against the dusty stone floor — like an old ox being dragged to slaughter.
 
-His torn purple robes still bore the faint remains of a Shatar vindicator's insignia. He'd rather die than work on the Legion's portal like his kin had.
+His torn purple robes still bore the faint remains of a Sha'tar vindicator's insignia. He'd rather die than work on the Legion's portal like his kin had.
 
 Despite his thin, ragged state, the orcs were still being thrown off balance by the former vindicator's resistance.
 
 One officer roared and drew his sword, leveling it at the draenei's heart. The draenei's arcane-infused eyes locked onto the blade at the same time — almost as if he hoped the sword would pierce his chest soon and end his long, painful, miserable fate.
 
-"Stop." Jace called out in Orcish, halting the officer's move. "Didn't Master Wophil remind you not to casually slaughter these draenei, honored Deathsworn? Get some poison, or find a warlock to knock him out and drag him to a cell. Don't waste the portal's fuel."
+"Stop." Jace called out in Orcish, halting the officer's move. "Didn't Master Vorpil remind you not to casually slaughter these draenei, honored Deathsworn? Get some poison, or find a warlock to knock him out and drag him to a cell. Don't waste the portal's fuel."
 
 The orc officer stared at Jace, breathing hard. Finally, he grunted an acknowledgment and rehung his sword, shouting for a warlock to come help.
 
 The draenei had clearly understood Jace's Orcish. His previously resigned expression twisted into uncontrollable fury.
 
-"You devil! Gul'dan's fine apprentice — ha! You'll end up just like that little coward! The Naaru will curse you. The Light will punish you. Your soul will writhe in fel fire... until the end of time. Wait—"
+"You devil! Gul'dan's fine apprentice — ha! You'll end up just like that little coward! The naaru will curse you. The Light will punish you. Your soul will writhe in fel fire... until the end of time. Wait—"
 
 Before he could finish, a flash of violet shadow-light. A warlock who'd just walked over finished his incantation, and the draenei crumpled — as if struck on the back of the head — shaking the floor with his fall.
 

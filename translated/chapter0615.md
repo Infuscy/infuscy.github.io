@@ -1,6 +1,6 @@
 ## Chapter 615: Farewell at Booty Bay
 
-The Sailor's Home Inn was as lively as ever that night. When Jace got back, he spotted Grede waving at him from a corner across the room. He tried to squeeze through the crowd to get over, but the moment he started pushing his way in, the people around him glanced over — with a distinct hint of disgust.
+The Salty Sailor Tavern was as lively as ever that night. When Jace got back, he spotted Grede waving at him from a corner across the room. He tried to squeeze through the crowd to get over, but the moment he started pushing his way in, the people around him glanced over — with a distinct hint of disgust.
 
 Had they sensed the fel energy on him?
 
@@ -20,7 +20,7 @@ Or maybe it was just that he'd gone too long at sea without bathing or washing h
 
 "Gellei Lightchaser?" Jace said. "That's a woman? I thought the examiner here in Booty Bay was a man."
 
-"That's her clansman," Vereesa said. "I need to take everything back to Quel'Thalas and report to the Reliquary's headquarters in person. She can't even tell us how much the Reliquary will ultimately pay us. All she can do is contact a Dragonhawk Rider immediately to get me back to Quel'Thalas."
+"That's her clansman," Vereesa said. "I need to take everything back to Quel'Thalas and report to the Reliquary's headquarters in person. She can't even tell us how much the Reliquary will ultimately pay us. All she can do is contact a dragonhawk rider immediately to get me back to Quel'Thalas."
 
 Hearing that, Jace looked up. "So that means you're not coming back to Stormwind with us?"
 
@@ -30,11 +30,11 @@ Hearing that, Jace looked up. "So that means you're not coming back to Stormwind
 
 "Same here," Jace said.
 
-"As do I," Molphis put on a sorrowful expression.
+"As do I," Morophil put on a sorrowful expression.
 
 "Don't ruin the mood, demon," Vereesa said coldly.
 
-Molphis smiled. "You'd better watch your little life from now on, Quel'dorei. Don't let some troll skin you alive — I won't be around to protect you."
+Morophil smiled. "You'd better watch your little life from now on, Quel'dorei. Don't let some troll skin you alive — I won't be around to protect you."
 
 "I don't need you to worry about me at all."
 
@@ -62,11 +62,11 @@ Grede's eyes went wider and wider as he listened. "You're planning to go by your
 
 "Who's Ulthalesh?" Grede asked. "Did I miss something?"
 
-"Molphis mentioned it — it's a demonic artifact that can harvest souls," Vereesa said.
+"Morophil mentioned it — it's a demonic artifact that can harvest souls," Vereesa said.
 
-Molphis said, "Master, didn't you say that thing might not be on Azeroth?"
+Morophil said, "Master, didn't you say that thing might not be on Azeroth?"
 
-Jace glanced around to make sure no one was paying attention to them, then said quietly, "I don't know either, but I have a feeling. Think about it — I think the satyr summoned Dath'mora for this very reason, and those black-robed men might have been after it too. Grede, those guys are probably Medivh's treasure hunters. What could be worth Medivh's undead servants crossing Kalimdor to break into Eldre'Thalas? At this point, you still think my guess has no basis at all?"
+Jace glanced around to make sure no one was paying attention to them, then said quietly, "I don't know either, but I have a feeling. Think about it — I think the satyr summoned Dasmora for this very reason, and those black-robed men might have been after it too. Grede, those guys are probably Medivh's treasure hunters. What could be worth Medivh's undead servants crossing Kalimdor to break into Eldre'Thalas? At this point, you still think my guess has no basis at all?"
 
 "Anyway, I won't be able to rest until I get to the bottom of this. So I'm planning to summon a doomguard I can control, and then figure out whether Ulthalesh is or isn't on Azeroth."
 
@@ -76,7 +76,7 @@ Jace glanced around to make sure no one was paying attention to them, then said 
 
 "Including you?" Vereesa asked.
 
-"Including me, of course," Jace said. "So many powerful demons and warlocks have been destroyed by that thing — what makes me think I'd be any better?" He wasn't lying to the two of them. The danger posed to Ulthalesh really was beyond what an ordinary person could imagine.
+"Including me, of course," Jace said. "So many powerful demons and warlocks have been destroyed by that thing — what makes me think I'd be any better?" He wasn't lying to the two of them. The danger posed by Ulthalesh really was beyond what an ordinary person could imagine.
 
 Honestly, even now, Jace was still hesitating over whether he should dig into any of this at all. If Vereesa hadn't suddenly asked, he probably never would have brought it up with them — he'd have just pretended none of it happened.
 
@@ -94,7 +94,7 @@ Grede, who'd been drawn in by the Ulthalesh story, immediately shifted his atten
 
 "I know," Vereesa said.
 
-The next morning, before the merchant ship bound for Stormwind, Molphis and Sazeno had already boarded early and found a place to hide.
+The next morning, before the merchant ship bound for Stormwind, Morophil and Sazeno had already boarded early and found a place to hide.
 
 Vereesa said, "After I get the bounty from the Reliquary, I'll have someone send the package by teleportation. Same address as last time, right?"
 
@@ -116,7 +116,7 @@ Vereesa smiled. "Then that's that."
 
 She pulled her hands back slightly, rose up on her toes a little, and Jace walked over and hugged her. Vereesa buried her head in Jace's shoulder and wrapped her arms tight around his waist.
 
-"We're going, Wen."
+"We're going, Vere."
 
 "Take care, Jace," the ranger murmured into his shoulder.
 
@@ -130,7 +130,7 @@ Grede leaned on the ship's railing waiting for Jace to come over. When he got th
 
 Jace asked it leaning back against the railing. He tilted his head back slightly and glanced down at an angle, but from this position he couldn't see where the ranger was standing below.
 
-Grede said, "Have a good sniff of yourself. You smell like a dead salted fish. I don't get it — we've all gone about as long without a bath, so why do you have to smell so uniquely awful? If it were me, I'd rather get stomped to death by the Earth-Wardener than hug you."
+Grede said, "Have a good sniff of yourself. You smell like a dead salted fish. I don't get it — we've all gone about as long without a bath, so why do you have to smell so uniquely awful? If it were me, I'd rather get stomped to death by the Earth-Warder than hug you."
 
 "You smell like a pile of shit. You're just used to your own stink," Jace said.
 

@@ -34,7 +34,7 @@ Could it be that because he had drunk the power of the Sunwell vial, tracing the
 
 So was it some manner of coincidence?
 
-Let's suppose Dar'Khan wanted to look into the Ered'ruin language. What was he planning? Did he want to summon a doomguard too? No — summoning a doomguard didn't require understanding their language. You only needed to speak the incantation in demonic. For all he knew, the low-tier doomguards of today probably couldn't even speak their own ancient tongue clearly anymore.
+Let's suppose Dar'Khan wanted to look into the Ered'ruin language. What was he planning? Did he want to summon a doomguard too? No — summoning a doomguard didn't require understanding their language. You only needed to speak the incantation in Demonic. For all he knew, the low-tier doomguards of today probably couldn't even speak their own ancient tongue clearly anymore.
 
 "Had you come to this spot before and read this book?" Amy asked.
 
@@ -48,15 +48,15 @@ Hearing that, Amy looked doubtful too. She thought for a moment. "What did you c
 
 Could Dar'Khan have come here for the exact same reason? Could he have gotten hold of that scroll too?
 
-That magical scroll recovered from Dath'mor, which very likely recorded the trail of Ursolus and its previous master… Its original should be in the Reliquary's possession by now. As a magister of considerable stature in Quel'Thalas, Dar'Khan shouldn't have had much difficulty using his connections to access the Reliquary and view that scroll.
+That magical scroll recovered from Dasmora, which very likely recorded the trail of Ulthalesh and its previous master… Its original should be in the Reliquary's possession by now. As a magister of considerable stature in Quel'Thalas, Dar'Khan shouldn't have had much difficulty using his connections to access the Reliquary and view that scroll.
 
 Let alone the fact that he was a scholar with a keen interest in dark magic, demons, and even necrotic forces… There might well be someone in the Reliquary who would curry favor by presenting all of that material to him.
 
 If he learned that the indecipherable portions of the scroll were in the Ered'ruin language, then coming to Dalaran to look up the relevant material would be perfectly reasonable.
 
-Was he searching for Ursolus?
+Was he searching for Ulthalesh?
 
-Even if he had no such intention originally, after seeing Dath'mor's scroll, he would certainly have ideas.
+Even if he had no such intention originally, after seeing Dasmora's scroll, he would certainly have ideas.
 
 After all, this was an ancient demonic artifact capable of reaping souls and brimming with unimaginably vast dark power. Once it was in his hands, let alone a senior magister… Dar'Khan probably wouldn't even care about the position of senior magister of Quel'Thalas by then.
 
@@ -76,7 +76,7 @@ If these traces had also been left by Dar'Khan, it might suggest he really did i
 
 Still, if they wanted to know more clearly and pin down Dar'Khan's intentions, they would have to go to Quel'Thalas and make inquiries.
 
-Relying on the fact that he and Vereesa had once done work for the Reliquary, plus Vereesa's current standing as a Ranger-Lord and her connection as the sister of the Silvermoon Ranger-General, someone inside should be willing to reveal a little information about who had consulted those files.
+Relying on the fact that he and Vereesa had once done work for the Reliquary, plus Vereesa's current standing as a Ranger Lord and her connection as the sister of the Silvermoon Ranger-General, someone inside should be willing to reveal a little information about who had consulted those files.
 
 Let's hope so.
 
@@ -102,4 +102,4 @@ Jace said, "Dar'Khan may truly have nothing to do with Kel'Thuzad. At the very l
 
 Vereesa asked, "So this lead is a dead end too?"
 
-Jace said, "But I noticed something else. Dar'Khan may be searching for Ursolus — that demonic weapon. Remember? We need to get to the bottom of this when we go to Quel'Thalas."
+Jace said, "But I noticed something else. Dar'Khan may be searching for Ulthalesh — that demonic weapon. Remember? We need to get to the bottom of this when we go to Quel'Thalas."

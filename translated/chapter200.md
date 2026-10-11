@@ -4,25 +4,25 @@ Returning to the Thunderfist great hall, the feast had already started at some p
 
 These fellows didn't bother with the niceties of appetizers at all. There was a whole group of dwarves who drank the moment the wine arrived, drinking until they forgot that wine could still be drunk — and only then, driven by the instinct of hunger, did they finally think to grab a bite to eat.
 
-Though Jace had heard that the Wildhammer dwarves' fondness for drink was somewhat better than that of the Bronzebeard and Dark Iron clans, judging by the display these Thunderfists were putting on, he could only imagine what the Midwinter Festival in Ironforge must be like.
+Though Jace had heard that the Wildhammer dwarves' fondness for drink was somewhat better than that of the Bronzebeard and Dark Iron clans, judging by the display these Thunderfists were putting on, he could only imagine what Winter Veil in Ironforge must be like.
 
-After all, the Wildhammer dwarves' enthusiasm for the Midwinter Festival had long since faded from the fervor and formality of the pre-War of the Three Hammers era. Rather than worship and commemorate their distant, intangible ancestors and bloodline, they preferred to take the opportunity to eat their fill and build up their strength to deal with the dangers of the year ahead.
+After all, the Wildhammer dwarves' enthusiasm for Winter Veil had long since faded from the fervor and formality of the pre-War of the Three Hammers era. Rather than worship and commemorate their distant, intangible ancestors and bloodline, they preferred to take the opportunity to eat their fill and build up their strength to deal with the dangers of the year ahead.
 
 As Jace and Grede walked through the great hall, they were accompanied by a group of dwarves carrying a platter of roasted meat on their heads. As they walked, they sang in unison. The platter they carried — its surface glistening with oil, adorned with various roasted fruits — was a monstrous thing… with three pairs of legs!
 
-It was a giant crocodile, perhaps a marsh crocodile caught south of Thandol Span. The dwarves had roasted it until it looked like a tuskboar. If not for the long snout, the rows of fangs, and the six legs characteristic of Azerothian crocodiles, Jace would have had a hard time telling what the hell it was. Following behind it was something that made Jace's jaw drop.
+It was a giant crocolisk, perhaps a marsh crocolisk caught south of Thandol Span. The dwarves had roasted it until it looked like a tuskboar. If not for the long snout, the rows of fangs, and the six legs characteristic of Azeroth's crocolisks, Jace would have had a hard time telling what the hell it was. Following behind it was something that made Jace's jaw drop.
 
-A group of dwarves was wobbling forward carrying a rack, and hanging from the rack was a lobster even fatter and thicker than that crocodile!
+A group of dwarves was wobbling forward carrying a rack, and hanging from the rack was a lobster even fatter and thicker than that crocolisk!
 
 The lobster looked as though it wasn't fully cooked yet, giving off a fishy seaweed stench. Transparent blood oozed from it the whole way. Several dwarves trailed behind, constantly scooping up the mucus-like blood with their fingers and sucking it into their mouths, licking their lips and grinning.
 
 Only when they got closer did Jace make out its carapace and segmented twin claws and realize this wasn't a simple lobster — it was a murloc.
 
-Wait — no. A murloc had two arms and a fish-like head. This was a crustacean-man. A mur'gul.
+Wait — no. A murloc had two arms and a fish-like head. This was a crustacean-man. A makrura.
 
 The Hinterlands was by the sea, even though the sea lay far to the east and very close to troll territory, and trolls often roamed the area. But that didn't mean the Wildhammer dwarves had never dared approach that region.
 
-Had this mur'gul been caught over there?
+Had this makrura been caught over there?
 
 After those two monstrosities, the sausages thicker than Jace's head, the roasted dire wolves with fangs longer than swords, the black bread bigger than a dwarf covered in a crispy, crackled crust and giving off a sharp, sour smell, sprinkled with dried fruit — none of these could surprise Jace anymore.
 
@@ -48,7 +48,9 @@ Inside the feast hall, though food was still being brought in endlessly, much of
 
 Jace edged closer to a long table and asked in a low voice, "Grede… are we late?"
 
-"This is actually good. Coming in partway through doesn't draw too much attention," Grede said. At the table, two dwarves were embracing and singing. Their embrace didn't look anything like friends — it was more like they were in the middle of a wrestling match or sumo bout, each trying to throw the other to the ground.
+"This is actually good. Coming in partway through doesn't draw too much attention," Grede said.
+
+At the table, two dwarves were embracing and singing. Their embrace didn't look anything like friends — it was more like they were in the middle of a wrestling match or sumo bout, each trying to throw the other to the ground.
 
 While wrestling, they also couldn't sing too far off-key. The moment someone forgot the lyrics and stumbled, they'd be met with a barrage of mocking jeers from every direction.
 
@@ -58,7 +60,7 @@ Grede bit into some kind of animal's eye from a soup basin not far away. Juice e
 
 "When are you planning to learn some Dwarvish, Jace?"
 
-"I only signed up for the Draconic class. Dwarvish…" Jace scratched his head. "I haven't had any contact with it at all. I can't even remember if the Wizard Sanctum offers Dwarvish courses. The university probably does."
+"I only signed up for the Draconic class. Dwarvish…" Jace scratched his head. "I haven't had any contact with it at all. I can't even remember if the Wizard's Sanctum offers Dwarvish courses. The university probably does."
 
 "Draconic," Grede nodded. "Right — dragons have their own language too. I almost forgot."
 
@@ -73,14 +75,3 @@ Jace nodded as if he half-understood, then turned to look at plate after plate o
 Not complaining that the food tasted bad… that was going to be a bit difficult.
 
 In any case, just shut up and eat.
-
-## Flags
-
-- Aerie Peak feast culture vividly depicted — Wildhammer dwarves prioritize eating and drinking over ceremony, a contrast to Bronzebeard/Dark Iron traditions.
-- Exotic foods on display: giant six-legged crocodile, mur'gul (龙虾人), dire wolf, massive sourdough-style black bread.
-- Grede demonstrates knowledge of Ragnaros and the War of the Three Hammers — Dark Iron history is common knowledge among dwarves.
-- Wildhammer attitude toward the Midwinter Festival: pragmatic rather than ceremonial — eat to survive the year ahead.
-- Jace's integration into the feast — Grede's "qualified feast guest" speech is both humorous and warm.
-- Jace is taking Draconic lessons at the Wizard Sanctum — a detail about his ongoing education.
-- Mur'gul (龙虾人) distinguished from murlocs — Jace's initial misidentification corrected internally.
-- The "no complaints" rule of Aerie Peak feasts established as cultural law.

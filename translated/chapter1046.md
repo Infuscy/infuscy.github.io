@@ -2,7 +2,7 @@
 
 As they followed the captain forward, Jace observed the interior of Stonard — every patrolling soldier, every sentry standing watch in a tower, and the scholars or priests hurrying past.
 
-By now the place was mostly humans — mostly from the Kingdom of Stormwind and Lordaeron. Occasionally there were some who looked like they were from Stromgarde, and he could see a few dwarf smiths discussing something not far off. But from start to finish, Jace only saw two High Elves. They looked like two Farstriders, and when they saw Vereesa they saluted respectfully and announced their names, extending greetings and respect to Jace and Grede as well. There was no way they could be Itharius.
+By now the place was mostly humans — mostly from the Kingdom of Stormwind and Lordaeron. Occasionally there were some who looked like they were from Stromgarde, and he could see a few dwarf smiths discussing something not far off. But from start to finish, Jace only saw two high elves. They looked like two Farstriders, and when they saw Vereesa they saluted respectfully and announced their names, extending greetings and respect to Jace and Grede as well. There was no way they could be Itharius.
 
 Grede seemed to notice Jace's odd mood. He said in a low voice, "You've been acting strange ever since we entered the marsh, Jace. What are you looking for?"
 
@@ -34,9 +34,11 @@ Sola looked surprised. "Then what about you?"
 
 "I do," Sola said.
 
-She took the Chain of Will from Jace and put it around his neck. Jace watched the chain take on a faint reddish glow, and Sola slowly closed her eyes and took a long, deep breath. When she exhaled, her expression looked much better.
+She took the Chain of Will from Jace and put it around her neck. Jace watched the chain take on a faint reddish glow, and Sola slowly closed her eyes and took a long, deep breath. When she exhaled, her expression looked much better.
 
-Jace smiled. "Get a good night's sleep, Sola. We'll set out first thing in the morning after we eat." Sola smiled and nodded, heading to her own den, but one hand kept gripping the chain tightly and wouldn't let go.
+Jace smiled. "Get a good night's sleep, Sola. We'll set out first thing in the morning after we eat."
+
+Sola smiled and nodded, heading to her own den, but one hand kept gripping the chain tightly and wouldn't let go.
 
 "I'm off to bed, Jace!" Grede called from over there.
 
@@ -58,7 +60,9 @@ Vereesa moved closer and gently kneaded Jace's brow. "Don't worry too much."
 
 Jace kissed Vereesa's lips, feeling that cold, strong hand of hers already slipping inside his clothes. "I want you, Jace. I want your taste."
 
-"I want you too, Wen," Jace said in a low voice. "Is Morophil here?"
+"I want you too, Vere," Jace said in a low voice.
+
+"Is Morophil here?"
 
 "Over with Sola," Jace said.
 
@@ -78,7 +82,7 @@ Sweat and fluids quickly turned cold. Jace whispered, "What is it?"
 
 The next morning, with a Stonard cook taking special care of them, the four of them ate a hearty breakfast before setting out toward the east.
 
-With the Chain of Will, Solamiel was clearly much more emotionally stable. As she flew, that familiar natural power surrounded them once more, washing away the cold, dark atmosphere of the whole marsh.
+With the Chain of Will, Somaelir was clearly much more emotionally stable. As she flew, that familiar natural power surrounded them once more, washing away the cold, dark atmosphere of the whole marsh.
 
 "How do you feel, Sola?" Jace asked.
 
@@ -86,7 +90,7 @@ With the Chain of Will, Solamiel was clearly much more emotionally stable. As sh
 
 "It's not just a gift from the Dragonqueen, you know, Sola," Grede reminded her. "This is a treasure forged by the elemental lords hundreds of thousands of years ago!"
 
-"He knows that, Grede," Jace said, rolling his eyes.
+"She knows that, Grede," Jace said, rolling his eyes.
 
 "Wait." Vereesa looked down at the forest canopy passing beneath them. "Do you hear that?"
 
@@ -96,25 +100,25 @@ With the Chain of Will, Solamiel was clearly much more emotionally stable. As sh
 
 A series of wailing, crying sounds suddenly came from the gloomy forest, and now even Jace could hear them.
 
-Before long, a rather small, pale-yellow flying creature darted out of the swaying trees. Solamiel glanced that way and her whole body shuddered.
+Before long, a rather small, pale-yellow flying creature darted out of the swaying trees. Somaelir glanced that way and her whole body shuddered.
 
 "Whelp…"
 
-Soon, more and more similar creatures flew out of the forest — not only behind them but ahead as well. Even though Solamiel had sped up, they were still blocked by countless whelps coming head-on.
+Soon, more and more similar creatures flew out of the forest — not only behind them but ahead as well. Even though Somaelir had sped up, they were still blocked by countless whelps coming head-on.
 
-These whelps weren't the freshly hatched kind. Many were the size of calves. Though they were pitifully small compared to Solamiel, a dozen or twenty of them swarming together was still plenty terrifying.
+These whelps weren't the freshly hatched kind. Many were the size of calves. Though they were pitifully small compared to Somaelir, a dozen or twenty of them swarming together was still plenty terrifying.
 
 They spat venom frantically in their direction, drenching the sky around the group as if a rain of poison were falling.
 
-Solamiel had just used a burst of breath to send a few blocking whelps tumbling into the forest when two more dove at them from above. Vereesa straightened up and chanted an incantation while firing three arrows wreathed in arcane light. Guided by the magic, they accurately pierced the two little creatures, clearing an opening for the green dragon to fly straight through.
+Somaelir had just used a burst of breath to send a few blocking whelps tumbling into the forest when two more dove at them from above. Vereesa straightened up and chanted an incantation while firing three arrows wreathed in arcane light. Guided by the magic, they accurately pierced the two little creatures, clearing an opening for the green dragon to fly straight through.
 
-One of the struck whelps crashed into Solamiel's back as she flew past, then fell into the forest below. That was when Jace got a clear look at these whelps' appearance.
+One of the struck whelps crashed into Somaelir's back as she flew past, then fell into the forest below. That was when Jace got a clear look at these whelps' appearance.
 
 The scales across their bodies had fallen off by nearly half, sickly and diseased. Their eyes were clouded and unclear, like they had severe cataracts. The remaining scales didn't look healthy green either — they were the murky yellow of sewage, with only faint flecks of green left that let you identify what kind they'd originally been.
 
 "They're nowhere near as fast as you, Sola!" Vereesa said. "We can shake them!"
 
-Solamiel responded with a beat of her wings and quickened her pace, but the shadows of the whelps behind them hadn't completely faded before a hazy giant shape appeared in the mist, growing clearer and clearer by the moment.
+Somaelir responded with a beat of her wings and quickened her pace, but the shadows of the whelps behind them hadn't completely faded before a hazy giant shape appeared in the mist, growing clearer and clearer by the moment.
 
 "Mmm? A continuous dream… how strange."
 
@@ -122,7 +126,7 @@ The voice of an aged old woman drifted over from the distance. Jace knew this vo
 
 But he remembered that the last time they'd encountered this corrupted dragon here, she'd only had one wing. How could she possibly fly?
 
-When the giant creature's appearance became clearer, Jace found that the corrupted monster's remaining wing wasn't flapping either — it was just hanging off to one side like a unsupported piece of tattered cloth. She looked even more rotten than she had a few years ago.
+When the giant creature's appearance became clearer, Jace found that the corrupted monster's remaining wing wasn't flapping either — it was just hanging off to one side like an unsupported piece of tattered cloth. She looked even more rotten than she had a few years ago.
 
 What was keeping her aloft were several flaps of festering flesh and skin spread open on her back, propelling her forward like a bloated fly.
 
@@ -130,7 +134,7 @@ What was keeping her aloft were several flaps of festering flesh and skin spread
 
 Sola's voice was already trembling.
 
-Jace drew Azurewrath. "Sola, she's no longer the kin you once knew."
+Jace drew Azuresong. "Sola, she's no longer the kin you once knew."
 
 "I understand, Jace. I understand," the green dragon said.
 

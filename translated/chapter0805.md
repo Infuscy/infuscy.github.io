@@ -14,15 +14,15 @@ Grede said, "It's a farewell blessing. Think about how stupid it would be to say
 
 "No wonder. I've heard of that book. An old fossil," Grede said.
 
-"It's more than enough for learning Kalimdor tongues," Jace said.
+"It's more than enough for learning the Kalimdor tongue," Jace said.
 
 "Oh, right." Grede said, "I'd like to take a look at that Kalimdor-language book of yours too, Jace. Since you want me to help you learn Dwarvish, how about lending me that book to have a look?"
 
 He turned to gaze out at the sea and went on: "I'd like to try talking to the elements the way those sages do — really talking to them, not just using them to call down lightning. Storms, the sea..."
 
-Just then a gnome sailor hurried past, looked at the two of them, and said, "I strongly advise you to go back to your cabins. The storm could pick up again at any moment, gentlemen."
+Just then a goblin sailor hurried past, looked at the two of them, and said, "I strongly advise you to go back to your cabins. The storm could pick up again at any moment, gentlemen."
 
-"We will. Thank you." Jace nodded. After the gnome sailor ran to the end of the corridor, he went on, "Haven't you heard the sailors mention the whispers in the sea?"
+"We will. Thank you." Jace nodded. After the goblin sailor ran to the end of the corridor, he went on, "Haven't you heard the sailors mention the whispers in the sea?"
 
 Grede coughed. "Talking to the sky alone is fine, isn't it? I don't reckon I've got much to do with the sea anyway."
 
@@ -38,11 +38,11 @@ His elemental language had improved a lot compared to when he was in Ironforge. 
 
 With that thought, he closed his eyes and felt the rhythm of fire in the air. Compared to Ironforge, the voice of fire elementals here was so thin it barely counted — more like a faint, almost imperceptible trace. But when he called to the fire in the elemental tongue to gather at his fingertip, a bit of warmth still coalesced, forming a glow of flame.
 
-The fire vanished in a blink, quickly extinguishing in the mist, but Grede still widened his eyes in surprise. Then he said a long string of things in Dwarvish related to fire elementals and summoning, even mentioning Zin-Sarow at one point.
+The fire vanished in a blink, quickly extinguishing in the mist, but Grede still widened his eyes in surprise. Then he said a long string of things in Dwarvish related to fire elementals and summoning, even mentioning Jintha'Alor at one point.
 
 Jace said, "Just speak Common."
 
-Grede sighed helplessly and said, "I'm just impressed, Jace. That power you wield when calling elementals — it reminds me of the troll priests of Zin'Sarow."
+Grede sighed helplessly and said, "I'm just impressed, Jace. That power you wield when calling elementals — it reminds me of the troll priests of Jintha'Alor."
 
 "Try finding a better comparison."
 
@@ -62,9 +62,9 @@ At that moment, he tried to carefully listen to the elemental voices in the air.
 
 "Can you hear the elements talking to you here, Grede? Didn't you say you once studied with the sages of Aerie Peak on how to communicate with elementals?"
 
-"I could, occasionally, the last few days, but I don't know what they were trying to tell me," Grede said. "That's why I wanted to borrow your elemental tongue from you. But the sages said it's fine even if you can't understand the elements' words. As long as you revere the elements, they can feel your good intentions. Sometimes knowing too much is actually no good."
+"I could, occasionally, the last few days, but I don't know what they were trying to tell me," Grede said. "That's why I wanted to borrow your elemental-tongue book from you. But the sages said it's fine even if you can't understand the elements' words. As long as you revere the elements, they can feel your good intentions. Sometimes knowing too much is actually no good."
 
-"I'm going to go get something to eat, Jace. You head back early too. Didn't that gnome say the storm hasn't fully passed? Don't fall into the sea. And if you do fall in, at least yell loud enough, or I won't know where you ended up." The dwarf patted Jace on the lower back and said in Dwarvish, "Also, hope you sleep well tonight. You look like you haven't had enough rest."
+"I'm going to go get something to eat, Jace. You head back early too. Didn't that goblin say the storm hasn't fully passed? Don't fall into the sea. And if you do fall in, at least yell loud enough, or I won't know where you ended up." The dwarf patted Jace on the lower back and said in Dwarvish, "Also, hope you sleep well tonight. You look like you haven't had enough rest."
 
 Jace smiled and said in Dwarvish, "You too."
 

@@ -4,7 +4,7 @@
 
 Jace barked at him.
 
-He flipped through Jagin's casting-condition notes once more, double-checking the gestures, because he was certain he hadn't mispronounced the incantation.
+He flipped through Gakin's casting-condition notes once more, double-checking the gestures, because he was certain he hadn't mispronounced the incantation.
 
 The sheep had worked itself into such a state that its movements and sounds had warped — as if something even more terrifying than death was chasing it. The sudden, grotesque distortion of something so ordinary threw even Jace, who'd seen all manner of horrible creatures, off balance.
 
@@ -16,9 +16,9 @@ With that in mind, he silently recited the incantation and stepped in front of t
 
 The sheep stared at him, its eyes already trembling nonstop. The moment Jace raised his hand, the spooked animal thrashed for its life again. Jace felt like the rope tying it up was about to snap.
 
-"Elamon, Silendor..." This time his voice was much lower, but his focus was sharper.
+"Elamun, Silondor..." This time his voice was much lower, but his focus was sharper.
 
-Concentration... like Marin had said, you have to maintain your concentration. The moment he finished chanting, he suddenly felt a surge of heat flow out of his heart, gradually filling his whole body. He faintly sensed an unfamiliar, tactile connection forming between himself and the animal — but he couldn't make out its true nature.
+Concentration... like Malin had said, you have to maintain your concentration. The moment he finished chanting, he suddenly felt a surge of heat flow out of his heart, gradually filling his whole body. He faintly sensed an unfamiliar, tactile connection forming between himself and the animal — but he couldn't make out its true nature.
 
 Which meant Jace could feel that Drain Life had taken effect — but there was no green tether of energy like in the game to show it.
 
@@ -36,11 +36,11 @@ Was that... the color of life? Or... fel?
 
 No, this spell was shadow magic. Those pale yellow and pale green things must have been life force — vitality drawn out of the sheep by the shadow.
 
-The sheep had lost all its earlier fight. It had just been shorn, and its new wool hadn't grown back in yet — but just as Jagin had said, even the remaining short fibers withered and fell out. The skin on its body shriveled and turned gray, drained of color.
+The sheep had lost all its earlier fight. It had just been shorn, and its new wool hadn't grown back in yet — but just as Gakin had said, even the remaining short fibers withered and fell out. The skin on its body shriveled and turned gray, drained of color.
 
 Jace went over to examine the sheep and found it could no longer stand on its own. It was so skinny it didn't look like a sheep at all — more like a scrawny stray dog rummaging through a garbage heap.
 
-Its life vitality... had been drained away by him?
+Its vitality... had been drained away by him?
 
 Jace stared at his flushed, red hands, feeling unbearably hot all over, his forehead buzzing, his ears ringing in waves.
 
@@ -76,7 +76,7 @@ That life energy had healed the wounds on his body, and then overflowed past wha
 
 But in reality, despite losing all that blood, Jace hadn't felt much real pain or weakness.
 
-What surprised him most was that he'd managed to drain such potent life energy in such a short time — far more than the Dark Iron dwarves Jagin had described.
+What surprised him most was that he'd managed to drain such potent life energy in such a short time — far more than the Dark Iron dwarf Gakin had described.
 
 Was it because the incantation was more accurate? Or was there something else going on? Jace sat on the stone, quietly feeling the changes within himself. After all, every time he'd used shadow magic before, he'd experienced severe emotional loss of control — getting more manic, more excited, more bloodthirsty...
 
@@ -93,13 +93,3 @@ But he'd gotten excellent results from a single cast. He wanted to head straight
 He needed to find a doctor or a priest to get himself checked out. After all, he'd just vomited blood — that wasn't something to ignore.
 
 As for that sheep... there were plenty of sheep wandering around Elwynn Forest without it. He might as well set it free — compensation for having endured his lethal incantation.
-
-## Flags
-
-- **活力崩裂** → "Vitality Rupture": chapter title; not in glossary. (崩裂 = rupture/bursting apart.)
-- **生命吸取** → "Drain Life": continued from Ch. 107.
-- **厄拉芒，西利昂多尔** → "Elamon, Silendor": incantation; continued.
-- **撒厄诺** → "Sazeno": imp; per glossary.
-- **活力 / 生命之力 / 生命能量** → "vitality" / "life force" / "life energy": rendered contextually as in Ch. 107.
-- **纳斯雷兹姆** → "Nathrezim": dreadlords; canonical, not in glossary.
-- The pale-yellow/pale-green light effect of the spell is original worldbuilding, not in glossary.

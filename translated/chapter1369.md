@@ -36,7 +36,7 @@ Leaving the demon ritual chamber, Jace avoided the fel orcs guarding the portal 
 
 He habitually rubbed his temples, as if that could relieve the headache from the intense communication ritual.
 
-The Arcane Intellect had worn off. As Master Marin had once told him, the noticeable dulling of his thoughts and the weakening of his perception made him wonder which state was the real him.
+The Arcane Intellect had worn off. As Master Malin had once told him, the noticeable dulling of his thoughts and the weakening of his perception made him wonder which state was the real him.
 
 Sabellian was waiting at a corner of the corridor ahead. Seeing Jace's expression, he asked, "Every time you go chat with Khadgar, you come back with a different mood. Let's hope this one's good."
 
@@ -62,66 +62,66 @@ Sabellian's expression grew serious. He thought for a moment. "Why not ask that 
 
 "The little one under Queen Ysera's special protection." Jace corrected. "But... thanks for the suggestion."
 
-"Don't mention it. I need to go find Wopil. See you." Sabellian said, summoning a cloud of dark, searing dust that engulfed Jace.
+"Don't mention it. I need to go find Vorpil. See you." Sabellian said, summoning a cloud of dark, searing dust that engulfed Jace.
 
-Back at their resting spot in the Arcane Sanctum, Sora was curled up in the room sleeping.
+Back at their resting spot in the Arcane Sanctum, Sola was curled up in the room sleeping.
 
 Her sleeping posture was close to a normal humanoid's. Considering green dragons were all sleepers, it wasn't easy for her to change the sleeping habits she'd grown up with.
 
-Jace patted her shoulder and gently woke her. Sora's eyes shot open at the sight of Jace, the blue moonlight within flowing for a moment before returning to the red of a fel orc.
+Jace patted her shoulder and gently woke her. Sola's eyes shot open at the sight of Jace, the blue moonlight within flowing for a moment before returning to the red of a fel orc.
 
 "What's wrong?" She looked around warily.
 
 "I need your help." Jace sat down beside her. "Can you hypnotize me and enter my dream? Like you did with that half-dragon alchemist last time."
 
-"Of course..." Sora said. "But what do you want to do?"
+"Of course..." Sola said. "But what do you want to do?"
 
 "I want to find Teron Gorefiend's memories." Jace said.
 
-"You mean his soul's memories? But didn't they disappear years ago?" Sora asked.
+"You mean his soul's memories? But didn't they disappear years ago?" Sola asked.
 
 "It seems seeing Murmur triggered something. Some echoes flashed up again." Jace said.
 
-"Lie down, then." Sora said. "Let me look."
+"Lie down, then." Sola said. "Let me look."
 
-Jace obediently lay on the ground. Sora gently breathed out a puff of pink mist that settled over him. He couldn't help asking, "Do you think I could resist your sleep mist with a powerful warlock's willpower?"
+Jace obediently lay on the ground. Sola gently breathed out a puff of pink mist that settled over him. He couldn't help asking, "Do you think I could resist your sleep mist with a powerful warlock's willpower?"
 
 But a nearby orc warlock glanced at Jace, frowned, and seemed to say something — Jace couldn't hear clearly.
 
-Because the entire magnificent Eredar-style hall had already been swallowed by silver-white storms and shrieks. The piercing noise was nearly splitting everyone's skulls. Nearby, several weak-willed orcs had already fallen to their knees, blood streaming from their eyes and ears.
+Because the entire magnificent eredar-style hall had already been swallowed by silver-white storms and shrieks. The piercing noise was nearly splitting everyone's skulls. Nearby, several weak-willed orcs had already fallen to their knees, blood streaming from their eyes and ears.
 
 Before long, Jace felt like he couldn't hold out either.
 
 He couldn't feel the shadow connection, couldn't sense any spells or magic. He looked around frantically. In his peripheral vision, a familiar figure in the distance was shouting something in his direction, but he still couldn't hear.
 
-It was Wopil. A much younger Wopil.
+It was Vorpil. A much younger Vorpil.
 
 His hair was still brown-black. He looked in his prime. But the scars on his face and his eyes — clouded from shadow torture like cataracts — were unmistakable.
 
-Jace took a couple steps toward him. He wanted to find Wopil and demand the spell to control Murmur... But as soon as he moved half a step, someone grabbed his hand tightly from behind.
+Jace took a couple steps toward him. He wanted to find Vorpil and demand the spell to control Murmur... But as soon as he moved half a step, someone grabbed his hand tightly from behind.
 
 "Don't." A green-skinned female orc stared at him. "Come back. Don't go any further."
 
-The voice was so clear it drowned out all other muffled sounds... Jace sat bolt upright, gasping for air, about to speak. Sora immediately covered his mouth and gestured with her eyes toward the outside.
+The voice was so clear it drowned out all other muffled sounds... Jace sat bolt upright, gasping for air, about to speak. Sola immediately covered his mouth and gestured with her eyes toward the outside.
 
 He checked his pocket watch. It was already morning. Some vague sounds of orc soldiers talking came from outside.
 
 "Did you pull me out?" Jace asked.
 
-"Of course." Sora propped open Jace's eyelid with one hand and examined his fel orc's swollen eyes. "That was a very dangerous dream. Don't fall too deep into it, or the price you pay might far outweigh what you gain."
+"Of course." Sola propped open Jace's eyelid with one hand and examined his fel orc's swollen eyes. "That was a very dangerous dream. Don't fall too deep into it, or the price you pay might far outweigh what you gain."
 
 "Fine, I'll listen to you. It's not like we don't have a backup plan." Jace sighed. "Looks like we're still relying on Morophil to sneak in and use mental magic to solve this."
 
 "Strange, though. If seeing Murmur could stir up Gorefiend's memories, why didn't the same thing happen when I saw Deathwing in Grim Batol? Deathwing's pressure and terror should be much stronger than Murmur's, right?"
 
-"But don't forget." Sora said quietly. "When he attacked Auchindoun, he was still a living orc. When he saw Deathwing, he was already a walking corpse. His memories and emotions as a living being would be far more vivid than after death."
+"But don't forget." Sola said quietly. "When he attacked Auchindoun, he was still a living orc. When he saw Deathwing, he was already a walking corpse. His memories and emotions as a living being would be far more vivid than after death."
 
 "Makes sense." Jace said.
 
-"Next time you enter the Shriekhall, you might remember more." Sora said. "I'm not just saying that to comfort you. It's very possible, especially now that you're aware of it."
+"Next time you enter the Screaming Hall, you might remember more." Sola said. "I'm not just saying that to comfort you. It's very possible, especially now that you're aware of it."
 
 "But the next time I go in will be the showdown." Jace said. "Hopefully it appears 'in time.'"
 
-Sora smiled. "Let me help you get some real sleep. You didn't rest at all tonight."
+Sola smiled. "Let me help you get some real sleep. You didn't rest at all tonight."
 
 "Thanks." Jace nodded.

@@ -4,7 +4,7 @@ In truth, saying he hoped these Broken would gain protection was one thing, but 
 
 After all, they came from the other side of the Dark Portal and had once lived alongside orcs. Not to mention that these Broken, corrupted by evil energy, could be described as bizarre and frightening compared to draenei. Even Grede couldn't adjust to them all at once, let alone ordinary Alliance soldiers.
 
-The draenei wouldn't truly come into contact with the Alliance until after the Dark Portal was reopened. Kael'thas Sunstrider's Sunfury legion had followed Illidan to Outland, launched a surprise attack on the draenei fleet, and the draenei leader, the Prophet Velen, had been forced to pilot one of the ships, the Exodar, taking a portion of the draenei and leave Outland, eventually crash-landing on Azeroth.
+The draenei wouldn't truly come into contact with the Alliance until after the Dark Portal was reopened. Kael'thas Sunstrider's Sunfury legion had followed Illidan to Outland, launched a surprise attack on the draenei fleet, and the draenei leader, the Prophet Velen, had been forced to pilot one of the ships, the Exodar, and leave Outland with a portion of the draenei, eventually crash-landing on Azeroth.
 
 Jace also didn't know whether getting the Broken to make contact with the Alliance first would be a good thing or a bad thing. Since they had to stay and guard their leader and those draenei crystals, and had their own ways of taking care of themselves, it was probably best to mind his own business.
 
@@ -12,17 +12,17 @@ On the way back from the Swamp of Sorrows to the valley east of Karazhan, Grede 
 
 "Did I hear that wrong?" he asked, staring at Jace. "Back in that hut, didn't that Broken say something like 'may the Holy Light bless you'?"
 
-"No," Wynneza said. "He felt the Holy Light might have forsaken their kind."
+"No," Vereesa said. "He felt the Holy Light might have forsaken their kind."
 
 "Close enough," Grede said. "So you're telling me the Holy Light exists on Draenor too? They worship the same thing we do?"
 
 "Haven't you heard the saying?" Jace said. "Where there is light, there is shadow. Since the orc warlocks have just as many people studying shadow power as we do, it's no surprise there's the Holy Light over there too."
 
-Wynneza nodded in agreement. Grede went on, "If the people in those churches knew there were people over there who worshipped the Holy Light too, they'd be beside themselves with excitement..."
+Vereesa nodded in agreement. Grede went on, "If the people in those churches knew there were people over there who worshipped the Holy Light too, they'd be beside themselves with excitement..."
 
-He looked at Wynneza and said, "Your brother-in-law, Turalyon — he'd definitely encounter draenei who believe in the Holy Light, right?"
+He looked at Vereesa and said, "Your brother-in-law, Turalyon — he'd definitely encounter draenei who believe in the Holy Light, right?"
 
-"I can't bring myself to think about what might be happening over there right now, Grede," Wynneza said quietly. "So don't ask me."
+"I can't bring myself to think about what might be happening over there right now, Grede," Vereesa said quietly. "So don't ask me."
 
 Jace thought: if those priests of the Church of the Holy Light who worshipped the Holy Light as a "supreme deity" learned that there existed in this world a pure, tangible being of the Holy Light — something that floated in the sky like a pile of assembled tangram pieces and emitted pleasant, tinkling sounds — it would be hard to say whether they'd be overjoyed or have a mental breakdown.
 
@@ -32,9 +32,9 @@ Just as Sola was flying back and forth over the forest looking for traces of the
 
 No one else had seen it very clearly except for Jace. But Jace was certain that was Kallrez's power. As the actual master of this demon lord, he knew this well.
 
-Somel flew toward the valley in the direction Jace pointed. By the time they were nearly there, they could already hear bursts of demonic laughter from the forest burning with fel fire.
+Somaelir flew toward the valley in the direction Jace pointed. By the time they were nearly there, they could already hear bursts of demonic laughter from the forest burning with fel fire.
 
-At that moment, a sudden fan of shadow bolts — like a peacock spreading its tail — erupted from the forest and shot high into the sky, eventually drowning in the dark, heavy heavens.
+At that moment, a sudden fan of Shadow Bolts — like a peacock spreading its tail — erupted from the forest and shot high into the sky, eventually drowning in the dark, heavy heavens.
 
 That was unquestionably Kallrez's magic.
 
@@ -54,9 +54,9 @@ Jace looked at the dead ogre corpses and said, "You violated my orders?"
 
 "Don't be nervous. My subordinates had to eliminate these ill-intentioned traitors as quickly as possible. Otherwise, these stupid wastes would have an even harder time going out to help me find magical items carrying shadow energy... and besides, they're important cover for my hiding here. I have to keep them alive."
 
-As he spoke, an ogre in the distance who had been tormented by Kallrez's crippling spell to the point of near-madness was hacked in the head by another orc warrior with an axe. The thick emotions of confusion, fear, and regret were immediately stripped away by a dark force.
+As he spoke, an ogre in the distance who had been tormented by Kallrez's crippling spell to the point of near-madness was hacked in the head by another ogre warrior with an axe. The thick emotions of confusion, fear, and regret were immediately stripped away by a dark force.
 
-Then they were devoured into the ereduin demon's body standing before them like a snack, vanishing without a trace.
+Then they were devoured into the Ered'ruin demon's body standing before them like a snack, vanishing without a trace.
 
 The ogres loyal to Kallrez, emboldened by his power, roared and charged deep into the forest, pursuing the "Headwind clan" members fleeing in panic. Howls and curses rose and fell above the entire forest.
 
@@ -72,19 +72,19 @@ The moment he found an opening, he'd immediately and quite senselessly begun his
 
 "Of course it helps." Jace held the pouch in his hand and took out the draenei crystal fragment from within. "Look at this. Some eredar say they created this location coordinate, but the information recorded within has been tainted by dark magic. Can you try to salvage the records inside? They mentioned that a complete Draenor teleportation coordinate could help."
 
-"Won't the fel power on this demon further damage this fragment?" Wynneza asked.
+"Won't the fel power on this demon further damage this fragment?" Vereesa asked.
 
 "I am a master of the Void, elf," Kallrez said. "You should trust my control over my own dark energy."
 
-Considering that teleportation magic was an extremely difficult branch of magic even within the Kirin Tor, Jace of course trusted the ereduins' level of understanding of the Twisting Nether.
+Considering that teleportation magic was an extremely difficult branch of magic even within the Kirin Tor, Jace of course trusted the Ered'ruin's level of understanding of the Twisting Nether.
 
-After Wynneza nodded, Jace held the fragment up high. This time, Kallrez didn't use shadow power to pull it before him. Instead, he slowly lowered his head to examine it closely.
+After Vereesa nodded, Jace held the fragment up high. This time, Kallrez didn't use shadow power to pull it before him. Instead, he slowly lowered his head to examine it closely.
 
 "Hmm, I cannot repair this." The great demon tilted his head slightly, then straightened up and said, "My ability to manipulate the arcane isn't refined enough for this. I must admit that. If I tried to forcibly modify what's inside, as she said, it might further damage the records within."
 
 "Looks like we really will have to go to the Kirin Tor," Jace sighed, hands on his hips.
 
-"It seems we'll have to tell Amy about this," Wynneza said.
+"It seems we'll have to tell Amy about this," Vereesa said.
 
 Jace looked at the elf and didn't say anything for the moment. Grede said, "We might as well just use that coordinate, Jace. So what if we might charge straight into a crowd of demons? I've fought demons at the Dark Portal before!"
 
@@ -96,7 +96,7 @@ Actually, Jace knew that if they really teleported into some orc or demon fortre
 
 What Jace worried about most was — what if the coordinate of this orc warlock pointed to an area that had been completely destroyed by the Draenor explosion?
 
-For instance, the already-vanished Faralon Plains, the Arakkoa Peaks, Frostfire Ridge missing more than half of itself — the probability of this wasn't small at all. Wouldn't that just send them straight into the Twisting Nether?
+For instance, the already-vanished Farahlon Plains, the Spires of Arak, Frostfire Ridge missing more than half of itself — the probability of this wasn't small at all. Wouldn't that just send them straight into the Twisting Nether?
 
 Who knew when or for what purpose this orc had sent this coordinate to Azeroth?
 

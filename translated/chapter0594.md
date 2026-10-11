@@ -26,7 +26,7 @@ Vereesa looked at Jace. "You want me to go ask, then?"
 
 The others all nodded.
 
-A little reluctantly, Vereesa stepped forward and greeted the gate in ancient elvish, then said something else. But after several minutes the gate still hadn't budged.
+A little reluctantly, Vereesa stepped forward and greeted the gate in ancient Elvish, then said something else. But after several minutes the gate still hadn't budged.
 
 Grede glanced at Jace and muttered, "Pity our mage is a half-trained amateur. Otherwise we could try dispelling the magic on this gate..."
 
@@ -52,7 +52,7 @@ Just as the group was about to go in, a shout suddenly came from inside.
 
 "Tena! Ishnu! Dros'thelasri!"
 
-It was clearly elvish — Jace could tell even without understanding a word.
+It was clearly Elvish — Jace could tell even without understanding a word.
 
 The voice carried a trace of intense joy. After a flurry of footsteps, a figure appeared in the passageway behind the gate. But on seeing Jace's group outside, they suddenly came to a halt.
 
@@ -64,7 +64,7 @@ Her gaze jumped back and forth between the group, finally settling on Vereesa.
 
 Hearing that term, Vereesa's expression grew complicated. She knew it meant Highborne here, not a resident of Quel'Thalas.
 
-She said something in elvish. The woman before her clearly couldn't quite believe it, and only replied after a long pause. The rest of them simply stood and watched the two elves talk.
+She said something in Elvish. The woman before her clearly couldn't quite believe it, and only replied after a long pause. The rest of them simply stood and watched the two elves talk.
 
 The unfamiliar elf's expression grew more and more despondent. After the conversation wound down, Vereesa turned to Jace beside her and said, "The ogres' assault broke the magical defense array here. She and several other companions were defending this place, but once the defenses were broken, things inside spun out of control. Some of their companions went inside to repair the magical array and never made contact again. Later, demons tried to come out from within, so they had no choice but to magically seal the inner door and wait here for reinforcements. She must have mistaken us for the reinforcements who'd finally arrived."
 
@@ -90,7 +90,7 @@ Jace said, "Who's going to enforce that? If anyone still could, this elf wouldn'
 
 "You planning to rescue her?" Grede asked.
 
-"She might be able to help us find Dathmora," Jace said. "Did you not hear what she said? The demon prison is right inside there, Grede. What if the demon that warlock summoned is in there?"
+"She might be able to help us find Dasmora," Jace said. "Did you not hear what she said? The demon prison is right inside there, Grede. What if the demon that warlock summoned is in there?"
 
 "Fine," Grede said.
 
@@ -114,7 +114,7 @@ In the middle of the hall was a shallow pool. The moment Jace saw the pool, it j
 
 Even the damaged steps along the edges and the stones that had smashed into the pool and lay exposed on the ceiling above were in remarkably similar positions.
 
-That water elementals had been provoked into manifesting because the satyrs' arrival had tried to enslave all the elemental power in Eldre'Thalas. Now the pool was perfectly calm, without a ripple — which confirmed that the satyrs had never entered this city.
+That water elemental had been provoked into manifesting because the satyrs, on their arrival, had tried to enslave all the elemental power in Eldre'Thalas. Now the pool was perfectly calm, without a ripple — which confirmed that the satyrs had never entered this city.
 
 A male elf sat by the pool, apparently dead. His body showed no signs of life at all.
 
@@ -127,15 +127,3 @@ As for the passageway to the right... its door was sealed shut, and a fairly com
 The ranger had been fixated on that door ever since she'd come in. Jace asked, "Is it in there?"
 
 "Yes," Vereesa said. "The magical trail is already very strong, Jace."
-
-## Flags
-
-- **Dathmora**: 达斯莫拉 — the warlock they're tracking (short for Dathmora Darkeye).
-- **Tortheldrin**: Canonical prince of Eldre'Thalas (托塞德林) — Vereesa explains he sealed the demons as a backup energy source.
-- **Shen'dralar**: Canonical Highborne faction (辛德拉) — the group controlling the plants behind another gate.
-- **Valendris Swiftblade**: 瓦琳德丝·迅刃 — a Quel'dorei mage who taught Vereesa; Grede is stunned Vereesa knows about her.
-- **Water-elemental boss**: Jace's memory of soloing the game boss by the pool — the calm pool confirms no satyrs have entered.
-- **Ancient elvish**: 古代精灵语 — Vereesa uses it to communicate with the Kaldorei woman.
-- **Sense Demons**: 侦测恶魔 — Jace's sweep finds nothing; the inner seal is blocking demonic energy.
-- **Quel'dorei vs. Highborne**: the Kaldorei calls Vereesa "Quel'dorei" (奎尔多雷), which here means Highborne (上层精灵) — a distinction Vereesa is sensitive to.
-- **POV**: Third person throughout.

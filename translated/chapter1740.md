@@ -12,7 +12,7 @@ Sensing the black dragon's reaction, he immediately dropped his curiosity and tu
 
 Jace guessed that direction led to the incubation chamber. If he'd taken one more step that way, the hard-won trust between them would have shattered on the spot.
 
-"I never expected the legendary Princess Onyxia to be so reasonable," Mossa said quietly as they walked. "Honestly, I was prepared for a fight."
+"I never expected the legendary Princess Onyxia to be so reasonable," Mosa said quietly as they walked. "Honestly, I was prepared for a fight."
 
 "When an excellent tauren hunter is badly wounded, even a gazelle can make them calm down," Jace said. "We both got what we came for. She's at the end of her rope, and we're stuck too. No point making things harder for each other."
 
@@ -38,11 +38,11 @@ Grede finally got excited. He ran right up and jumped into the scattered coins. 
 
 "So do these coins and gems count as 'one' each, or the whole lot as 'one'?" Grede asked.
 
-"Did Sora hypnotize you before we came in? Dreaming bigger than in the Emerald Dream." Vereesa rolled her eyes at him. "Now you have a chance to pick anything from the most powerful black dragon's treasure vault in the world, and you're thinking about coins?"
+"Did Sola hypnotize you before we came in? Dreaming bigger than in the Emerald Dream." Vereesa rolled her eyes at him. "Now you have a chance to pick anything from the most powerful black dragon's treasure vault in the world, and you're thinking about coins?"
 
 "You say that every time!" The dwarf slapped his thigh. "Every time you say pick the most valuable thing. But did we ever actually sell any of the stuff we got our hands on for gold?"
 
-"That's because *you* never wanted to sell." Jace pointed at the dwarf's waist. "If you'd sold that stone axe from Uldaman to Ironforge long ago, you could've bought a house in the Dwarf District by now."
+"That's because *you* never wanted to sell." Jace pointed at the dwarf's waist. "If you'd sold that stone axe from Uldaman to Ironforge long ago, you could've bought a house in the Dwarven District by now."
 
 "That axe has several notches in it. How much could it even sell for? Whatever. This time I'm definitely finding something I can cash in." Grede grumbled as he pried open a chest lid and pulled out a broadsword with shadow enchantment. "What's this?"
 
@@ -54,7 +54,7 @@ Vereesa examined an enchanted gem on the ground, then looked over at Grede. "I'm
 
 Grede laughed dryly. "No need. Since we all agreed to sit down and talk, why spoil the atmosphere? Besides, she looked so weak -- what if I scared her to death showing it off?"
 
-Jace could guess why Grede didn't like flaunting that warhammer in front of others. He loved Sulfuras, yes, but that hammer represented the position of High Thane. He just... still wasn't comfortable with that title, even if he didn't have to bear any of its responsibilities.
+Jace could guess why Grede didn't like flaunting that warhammer in front of others. He loved Sulfuras, yes, but that hammer represented the position of High King. He just... still wasn't comfortable with that title, even if he didn't have to bear any of its responsibilities.
 
 "If you're looking for something valuable..." Onyxia's voice came from behind. Jace didn't know when she'd slowly followed them in.
 
@@ -66,9 +66,9 @@ Jace looked down and noticed the box. He opened it to reveal a golden leather ve
 
 He looked at Vereesa. She shook her head too. Neither of them could identify the enchantment.
 
-"What is this?" Sora asked, frowning. "I feel like..."
+"What is this?" Sola asked, frowning. "I feel like..."
 
-"Your feeling is quite correct, Somnalir." The black dragon smiled knowingly. "This garment is made from the scales of a bronze dragon."
+"Your feeling is quite correct, Somaelir." The black dragon smiled knowingly. "This garment is made from the scales of a bronze dragon."
 
 Jace was taken aback. So the magic on it was bronze dragon power? He'd never properly met a bronze dragon in his life, and now he was seeing one's relic.
 
@@ -90,11 +90,11 @@ Jace knew the black dragon was referencing Medivh, whose heart was run through b
 
 And considering this armor was made from bronze dragon scales... it was hard not to think too much about it.
 
-"Did you personally kill this bronze dragon, Princess?" Sora couldn't help asking.
+"Did you personally kill this bronze dragon, Princess?" Sola couldn't help asking.
 
 "What do you take me for, little girl?" Onyxia said in a mildly reproachful tone. "This is a treasure the dear little Chromie lost to me in a bet. No dragon blood was ever spilled for it. You needn't mourn some victim who never existed."
 
-"You mean Lady Chronormu?" Sora asked in surprise.
+"You mean Lady Chronormu?" Sola asked in surprise.
 
 "Who's Chronormu?" Grede asked.
 

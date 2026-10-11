@@ -1,6 +1,6 @@
 ## Chapter 851: Sleep and Entering the Dream
 
-The snow over Kesselir was falling harder, and the group sat in silence. After the chaos of the nightmare, it was hard to say whether their exhaustion was physical or mental — but regardless, even though they had just woken from the dream, they were still so badly in need of sleep they could have dropped off on the spot.
+The snow over Kel'Theril was falling harder, and the group sat in silence. After the chaos of the nightmare, it was hard to say whether their exhaustion was physical or mental — but regardless, even though they had just woken from the dream, they were still so badly in need of sleep they could have dropped off on the spot.
 
 The reason none of them wanted to close their eyes, Jace suspected, was the same for all of them: they were afraid of falling back into the dream.
 
@@ -20,7 +20,7 @@ When Vereesa saw Sola speak up, she could not help asking too: "Maybe to you all
 
 Sola nodded. "I thought I had escaped the Nightmare. But really, I was only pretending I had left."
 
-She looked at Vereesa. "I have to apologize to you. I deceived you, Lady Vereesa Windrunner. Back at the owlbeast cave, I told you Queen Ysera's pendant did not work — but the truth was I was too afraid to set foot in the Dream's plane again. I was scared—"
+She looked at Vereesa. "I have to apologize to you. I deceived you, Lady Vereesa Windrunner. Back at the owlbeast cave, I told you Queen Ysera's earring did not work — but the truth was I was too afraid to set foot in the Dream's plane again. I was scared—"
 
 "Of turning into that monster?" Grede asked.
 
@@ -28,7 +28,7 @@ She looked at Vereesa. "I have to apologize to you. I deceived you, Lady Vereesa
 
 Jace said, "There is one thing I do not quite get. I remember you saying mortals cannot enter the Emerald Dream."
 
-He said it while nibbling on some sweet dried cheese from his pack. The moment Grede heard him, he cut in: "What do you mean? Did not we just go in?"
+He said it while nibbling on some sweet dried cheese from his pack. The moment Grede heard him, he cut in: "What do you mean? Didn't we just go in?"
 
 "There are two ways to enter the Dream: through sleep, and by truly walking within it," Sola tried to explain. "The way you just touched the Nightmare was no different from any other mortal — you were dreaming."
 
@@ -60,13 +60,13 @@ After a moment, Sola said, "All I can say is that the Nightmare would have turne
 
 Everyone fell silent for a while. Whatever the answer, it probably was not good.
 
-"I have another question," Jace said. "When we entered Kesselir, I felt my connection with Molofier being interfered with by something. Was that the Dream's power at work?"
+"I have another question," Jace said. "When we entered Kel'Theril, I felt my connection with Morophil being interfered with by something. Was that the Dream's power at work?"
 
-Sola looked at Molofier and tried to explain: "Demons are the same as you — they could never enter the Emerald Dream on their own. Compared to mortals, they are not even... they were never part of Azeroth to begin with. They do not dream. The satyr demons were all Kaldorei once, transformed. They only managed to enter because they mastered a special method — especially after so many druids betrayed us and threw in their lot with them."
+Sola looked at Morophil and tried to explain: "Demons are the same as you — they could never enter the Emerald Dream on their own. Compared to mortals, they are not even... they were never part of Azeroth to begin with. They do not dream. The satyr demons were all Kaldorei once, transformed. They only managed to enter because they mastered a special method — especially after so many druids betrayed us and threw in their lot with them."
 
-Jace said, "My point is not whether we can enter the Dream, Sola. It is that the link between me and Molofier was being interfered with by something. I think it was the Dream's influence, because there is no other explanation. After all, I did not see any demon-interfering magic circles or artifacts in Kesselir."
+Jace said, "My point is not whether we can enter the Dream, Sola. It is that the link between me and Morophil was being interfered with by something. I think it was the Dream's influence, because there is no other explanation. After all, I did not see any demon-interfering magic circles or artifacts in Kel'Theril."
 
-"That blocked feeling I had with my demon minions inside the dream — it was like an intensified version of the interference I felt the moment we entered Kesselir. But the key thing is, when we first entered Kesselir, we had not been hypnotized by that dream jade yet! Which means the Dream power in Kesselir did not come from the stone Vereesa is holding."
+"That blocked feeling I had with my demon minions inside the dream — it was like an intensified version of the interference I felt the moment we entered Kel'Theril. But the key thing is, when we first entered Kel'Theril, we had not been hypnotized by that dream jade yet! Which means the Dream power in Kel'Theril did not come from the stone Vereesa is holding."
 
 After hearing Jace, Sola thought it over, and the other two unconsciously stopped what they were doing.
 
@@ -82,7 +82,7 @@ He tapped his temple lightly as he thought. Vereesa caught his arm and rubbed it
 
 Jace looked at her and smiled. "Do not worry too much about me. I am fine now. I just feel like... we are missing something, Vere."
 
-"Actually, there are things I do not understand either," Vereesa nodded, looking at Sola. "For instance — can ghosts even dream? I mean, those horrible flesh monsters in the Nightmare... they all seemed to be the spirits of Kesselir transformed. Even now I can still hear their cries in my head, and even though they looked like that... they all still seemed loyal to Azshara, loyal to the ancient Kaldorei Empire. They still thought of themselves as Kaldorei nobles."
+"Actually, there are things I do not understand either," Vereesa nodded, looking at Sola. "For instance — can ghosts even dream? I mean, those horrible flesh monsters in the Nightmare... they all seemed to be the spirits of Kel'Theril transformed. Even now I can still hear their cries in my head, and even though they looked like that... they all still seemed loyal to Azshara, loyal to the ancient Kaldorei Empire. They still thought of themselves as Kaldorei nobles."
 
 Yes, yes — Jace felt like Vereesa's words had jogged something loose. Not far off, Sola's lips moved, but she found she could not explain every detail of what had just happened either.
 
@@ -104,19 +104,12 @@ The others gathered around too. Sola closed her eyes and sensed the altar's powe
 
 Sola turned around, excited. "So the druids I sensed back then were not satyrs at all — and besides, those satyrs were already killed inside the Dream by you, Grede Thunderfist! That means there are still other druids nearby. Gods, I never imagined this altar was being powered by real druids..."
 
-"Mossa?!" the dwarf nearly jumped out of his skin, then froze. "Wait — where are these druids?"
+"Mosa?!" the dwarf nearly jumped out of his skin, then froze. "Wait — where are these druids?"
 
-The empty hall was bare in every direction. Were they supposed to search all of Kesselir?
+The empty hall was bare in every direction. Were they supposed to search all of Kel'Theril?
 
-Even exhausted as he was, Jace could feel the spirits of Kesselir still wandering outside — the unnatural cold that exceeded even the rest of Winterspring said as much.
+Even exhausted as he was, Jace could feel the spirits of Kel'Theril still wandering outside — the unnatural cold that exceeded even the rest of Winterspring said as much.
 
 The green dragon placed her hands on the altar again. Jace tried to sense the altar's residual power too, but Sola kept her eyes closed and said, "Stay back... Jace, your energy will interfere with my senses."
 
 Jace nodded and stepped aside. After a moment, Sola opened her eyes again. "Below us."
-
-## Flags
-- **POV**: Third person throughout (original Chinese is first person; "我" → "Jace"/"he").
-- **Name renderings**: 索拉/索麦莉尔 → Sola / Solamiel (short/full form of the green dragon's name); 凯斯利尔 → Kesselir (OC ruined night elf city in Winterspring); 莫洛菲尔 → Molofier (Jace's succubus); 温蕾萨 → Vereesa (shortened to "Vere" in Jace's intimate dialogue, matching the original's single-character nickname 温).
-- **Lore notes**: References the four corrupted green dragons (Ysondre, Taerar, Lethon, Emeriss) and Ysondre's canonical temporary recovery from Nightmare corruption. Cenarius, Ysera, and the Dream Gate mechanics follow established Warcraft lore.
-- **Deliberate omission**: Jace cuts himself off before revealing the Chain of Will (意志之链) to Sola — preserved from the original.
-- **Untranslated nuance**: "鹿人" (deer-man) is Grede's imprecise word for Cenarius/half-deer demigods; rendered as "deer-man" to keep his blunt voice.

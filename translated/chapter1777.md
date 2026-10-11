@@ -2,11 +2,11 @@
 
 "One second, two seconds—time truly shows no mercy," Khadgar murmured.
 
-Jace glanced at the deepest steps of the Violet Citadel's main hall, then looked out toward the rain-shrouded streets beyond the gate. "I hope Sora gets here in time."
+Jace glanced at the deepest steps of the Violet Citadel's main hall, then looked out toward the rain-shrouded streets beyond the gate. "I hope Sola gets here in time."
 
-"The barrier's already dropped. She shouldn't be detected slipping through the dome, but are you sure those earrings of yours can keep her hidden from all of Dalaran?" Khadgar asked quietly.
+"The barrier's already dropped. She shouldn't be detected slipping through the dome, but are you sure that earring of yours can keep her hidden from all of Dalaran?" Khadgar asked quietly.
 
-"No problem," said Jace. "Aside from ghosts skulking around in the Emerald Dream and your teacher's own mother, no one's seen through that pendant yet."
+"No problem," said Jace. "Aside from ghosts skulking around in the Emerald Dream and your teacher's own mother, no one's seen through that earring yet."
 
 "Her... right."
 
@@ -44,7 +44,7 @@ Jace stumbled back several steps, instinctively trying to get clear, but the dwa
 
 Suddenly, bands of bright yellow Arcane energy coiled around Grede's limbs—especially the wrist of his raised fist—holding him fast. Grede let out a roar and snapped the bindings, but more Arcane energies wove in to stop him from bringing that fist down on the helpless apprentice below...
 
-"Enough!" Modera raised her staff and declared, "In the name of the Wildhammer clan and the Kirin Tor fighting side by side through countless battles against the Orcs, and in the name of High Thane Kurdran Wildhammer, leader of the Sons of Lothar—we will not detain you today, dwarf. But you will be expelled from Dalaran. Go cool your head somewhere else and have your treasure appraised there."
+"Enough!" Modera raised her staff and declared, "In the name of the Wildhammer clan and the Kirin Tor fighting side by side through countless battles against the orcs, and in the name of High Thane Kurdran Wildhammer, leader of the Sons of Lothar—we will not detain you today, dwarf. But you will be expelled from Dalaran. Go cool your head somewhere else and have your treasure appraised there."
 
 "Almost there, almost there..." Jace muttered under his breath.
 
@@ -74,7 +74,7 @@ Jace and Khadgar nodded and hurried after the ranger into the corridor. Jace gri
 
 "Don't mention it," said Jace.
 
-The archmage's duplicate let out a relieved breath. But as they rounded a corner and looked up, the smiles vanished.
+The archmage's mirror image let out a relieved breath. But as they rounded a corner and looked up, the smiles vanished.
 
 On the stairs leading to the third floor stood two violet-robed guards. Another guard was ascending at the landing above, and he stopped dead when three figures suddenly materialized below him.
 
@@ -88,13 +88,13 @@ Three pairs of eyes met three pairs of eyes. Air and time alike seemed to freeze
 
 "...Fine. I'll come back in the afternoon."
 
-Jace, Vereesa, and Khadgar retreated to the second floor. Jace asked the mage's duplicate what was going on—why the lockdown...
+Jace, Vereesa, and Khadgar retreated to the second floor. Jace asked the mage's mirror image what was going on—why the lockdown...
 
 "Someone's worried about people slipping into the vault or the Citadel while the barrier's down?" Khadgar ran a hand through his hair. "Damn. In other words, it's meant to stop people exactly like us. Looks like after that Kel'Thuzad business, they upgraded more than just the Citadel's alert protocols."
 
 "Can't we pull some magical trick while we're at it?" Jace whispered. "The barrier's out of commission anyway—it shouldn't be as sensitive to magical fluctuations right now."
 
-"The problem isn't the barrier, Jace—it's me! This duplicate of mine barely scrapes by on Arcane power. Maybe not even as much as you," said Khadgar.
+"The problem isn't the barrier, Jace—it's me! This mirror image of mine barely scrapes by on Arcane power. Maybe not even as much as you," said Khadgar.
 
 "What... what..." Jace sighed and glanced at his watch. "What do we do?"
 
@@ -104,13 +104,13 @@ Jace, Vereesa, and Khadgar retreated to the second floor. Jace asked the mage's 
 
 "Right." The elf took a breath. "I can manage, more or less. But you two..."
 
-"I didn't bring that dragonhide cloak. Can't fly up." Jace shrugged helplessly. "But if I'd worn it, I'd have been caught ages ago. When is Sora going to show up..."
+"I didn't bring that dragonhide cloak. Can't fly up." Jace shrugged helplessly. "But if I'd worn it, I'd have been caught ages ago. When is Sola going to show up..."
 
 "She's going to the fifth floor invisible, Jace. Don't forget—nobody can see her, and neither can we." Vereesa said. "Don't count on her. We're running out of time. If she makes it into position on her own, that'll be enough."
 
 "The problem now is that we can't get into position either... Don't you have that flight spell?" Khadgar looked at the ranger. "The one you learned from the Emerald Dream—I remember it well. You could take us up."
 
-"That... that's not really a 'flight spell,'" said Vereesa. "I can summon wings to glide a bit or gain some altitude—like to that roof over there with the envoys. But the fifth floor of this tower is way too high. I can't fly that high, let alone carrying the two of you!"
+"That... that's not really a 'flight spell,'" said Vereesa. "I can summon wings to glide a bit or gain some altitude—like up to that embassy roof over there. But the fifth floor of this tower is way too high. I can't fly that high, let alone carrying the two of you!"
 
 "What if we had a strong enough updraft?" asked Jace.
 
@@ -122,4 +122,4 @@ Khadgar looked blankly at Jace.
 
 "This isn't about whether he'll be angry—it's about whether we'll still be alive!" said Jace. "Wait for me by the window. I'm going back to find that dwarf."
 
-With that, the warlock took off, dashing toward the corridor that led to the second-floor balcony of the hall, leaving the mage's duplicate staring after him in bewilderment.
+With that, the warlock took off, dashing toward the corridor that led to the second-floor balcony of the hall, leaving the mage's mirror image staring after him in bewilderment.

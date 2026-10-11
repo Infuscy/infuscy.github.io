@@ -2,7 +2,7 @@
 
 Back at the Stormwind City harbor, Jace had still felt his outfit might be a little too eye-catching.
 
-Plenty of people wore cloaks when they traveled. Plenty wore masks. Quite a few carried staffs, walking sticks, or long poles. No shortage of folks with swords at their waists.
+Plenty of people wore cloaks when they traveled. Plenty wore masks. Quite a few carried staffs, walking sticks, or long poles. No shortage of folks with swords at their hips.
 
 But someone who had all of those at once? You might not find more than a handful among hundreds of people. Still, it turned out that all the way until the ship set sail, only a single goblin sailor had noticed something slightly off about him.
 
@@ -40,9 +40,11 @@ Though every time he passed a doorway — especially those of the strange, eccen
 
 Every shop sign was written in several languages. It took some real effort to pick out the Common among them.
 
-Here, Common wasn't the most widely used "common tongue." Every now and then he'd hear someone ask a question in Common and get an answer in Dwarvish — a chaotic mess of communication.
+Here, Common wasn't the most widely used "Common tongue." Every now and then he'd hear someone ask a question in Common and get an answer in Dwarvish — a chaotic mess of communication.
 
-Without a doubt, anyone who'd lived here long enough probably spoke several languages, including even the Zandalari tongue used by trolls. Jace walked along, craning his neck, looking for something that could be called an inn. Since he'd come here, he should probably find a place to sleep first. The time had already reached the afternoon and the sunlight was getting dim. If he got lost a little longer it'd be evening, and any further delay would definitely cut into his rest.
+Without a doubt, anyone who'd lived here long enough probably spoke several languages, including even Zandali, the tongue of the trolls.
+
+Jace walked along, craning his neck, looking for something that could be called an inn. Since he'd come here, he should probably find a place to sleep first. The time had already reached the afternoon and the sunlight was getting dim. If he got lost a little longer it'd be evening, and any further delay would definitely cut into his rest.
 
 And after… he didn't even know how many days of travel — probably around ten — Jace was genuinely feeling rather drained.
 
@@ -70,10 +72,10 @@ No matter how vicious they looked, no matter how many knives, swords, or blades 
 
 Seeing this creature, Jace's first realization was that the game had genuinely made the tauren too weak for the sake of balance. He felt that even after draining the power of two black dragons, he'd have no way of going toe-to-toe with this guy.
 
-Jace had a feeling that if this fellow lost his charge and rushed at those fishing boats in the harbor, he'd smash clean through them.
+Jace had a feeling that if this fellow lost his temper and charged at those fishing boats in the harbor, he'd smash clean through them.
 
 "Nice hat, human."
 
-A deep, heavy sound came from above his head, along with a thick wave of cow-dung stench. After saying that, the tauren walked off toward the dock without a backward glance, a thick hemp-rope-like tail swishing back and forth behind him, driving off the swarm of flies trailing him.
+A deep, heavy voice came from above his head, along with a thick wave of cow-dung stench. After saying that, the tauren walked off toward the dock without a backward glance, a thick hemp-rope-like tail swishing back and forth behind him, driving off the swarm of flies trailing him.
 
 Jace stood there alone in a daze, replaying the tauren's Common — which carried only the faintest trace of an accent.

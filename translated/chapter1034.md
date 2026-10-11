@@ -2,23 +2,25 @@
 
 By the time they returned to Blackrock Mountain, everything was completely different from the first time they'd come here.
 
-The orcs sleeping beneath Blackrock Mountain had been more or less wiped out. There were no more pots and pans scattered everywhere, no moreubiquitous hide tents and trash. Orc patrol soldiers marched in formation across the bridge, each squad accompanied by a few orc warlocks and felhounds. Beyond that, virtually every orc entering or leaving the main gate on their own was subject to inspection.
+The orcs sleeping beneath Blackrock Mountain had been more or less wiped out. There were no more pots and pans scattered everywhere, no more ubiquitous hide tents and trash. Orc patrol soldiers marched in formation across the bridge, each squad accompanied by a few orc warlocks and felhounds. Beyond that, virtually every orc entering or leaving the main gate on their own was subject to inspection.
 
 Passing near those felhounds, Jace couldn't help but feel his heart tighten. Was this because of Onyxia's failure in Stormwind?
 
 Could Nefarian be worried that, having defeated Onyxia, Stormwind would immediately send troops against Blackrock Spire? Was he forced to put the entire Blackrock Mountain clan on high alert? If so, he was vastly overestimating Stormwind's military strength and the Alliance's cohesion.
 
-Or had he learned that someone had infiltrated Blackrock Spire disguised as an orc? Was he tightening the patrols specifically to ferret himself or Sola out?
+Or had he learned that someone had infiltrated Blackrock Spire disguised as an orc? Was he tightening the patrols specifically to ferret him or Sola out?
 
 Of course, Jace had no idea what Nefarian was actually thinking. All he knew was that getting into Shadowforge City this time was probably going to be no simple matter.
 
-Jace swept his gaze across the open ground in front of the Blackrock gate, where quite a few orc soldiers stood, using Detect Demon to make sure there were no invisible succubi or other stealthy demons about. Then he reminded Morophil, who was lying in ambush nearby, through the Soul Link to be ready for a fight at any moment.
+Jace swept his gaze across the open ground in front of the Blackrock gate, where quite a few orc soldiers stood, using Sense Demons to make sure there were no invisible succubi or other stealthy demons about. Then he reminded Morophil, who was lying in ambush nearby, through the Soul Link to be ready for a fight at any moment.
 
 "Hey, Sola," he said softly to the female orc standing beside him, staring at the gate guards. "If things go south later, the moment I give the word you shift back to your true form and fly away with everything you've got, understand? I'll climb onto your back as quickly as I can."
 
-He looked up, observing the young dragons circling overhead from time to time, and said, "At your speed, I'm confident the black dragons here can't catch you."
+He looked up, observing the drakes circling overhead from time to time, and said, "At your speed, I'm confident the black dragons here can't catch you."
 
-Sola nodded. Jace glanced at her. "Relax a little." Of course, that was easy enough to say, but he couldn't relax either, not really.
+Sola nodded. Jace glanced at her. "Relax a little."
+
+Of course, that was easy enough to say, but he couldn't relax either, not really.
 
 The two of them followed a group of Shattered Hand soldiers up to the gate. The lead officer, clad in a suit of heavy armor, underwent inspection, said something to the guards, and led the soldiers behind him in.
 
@@ -60,25 +62,25 @@ The officer looked at the scroll and shook his head. "Sorry, Vul'gol — you're 
 
 "No," the officer shook his head.
 
-"Then no one may question my loyalty to the Horde," Jace said with a trace of anger. "I've been forced to wander the wilderness. In the Black Swamp to the south I encountered Alliance mercenary hunters. On the shores of Lakeshire in Redridge I was hunted by militia. It was only through tremendous hardship that I broke through and made it here… At the very least, give me a chance to see the Warchief in person, so I can give up with a clear conscience."
+"Then no one may question my loyalty to the Horde," Jace said with a trace of anger. "I've been forced to wander the wilderness. In the Black Morass to the south I encountered Alliance mercenary hunters. On the shores of Lakeshire in Redridge I was hunted by militia. It was only through tremendous hardship that I broke through and made it here… At the very least, give me a chance to see the Warchief in person, so I can give up with a clear conscience."
 
 "Well…"
 
 The orc officer was clearly hesitant, because Jace looked like a shadow caster of considerable power, and he probably didn't dare drive the person away on his own.
 
-After thinking for a moment, he said, "Master Vul'gol, I will assign several soldiers to escort you to Blackrock Spire to see Commander Vaelan, and let him make the decision."
+After thinking for a moment, he said, "Master Vul'gol, I will assign several soldiers to escort you to Blackrock Spire to see Overlord Wyrmthalak, and let him make the decision."
 
 "Fine." Jace nodded, sizing up the several soldiers the officer was pointing to with his hand.
 
 They all looked like ordinary Blackrock orcs. He was already plotting to find an early opportunity to take them all out, then slip away to Shadowforge City.
 
-Vaelan was the dragonkin commander and watcher of the lower levels of Blackrock Spire — a powerful high-ranking dragonkin in his own right. Considering that the Blackwing Watcher Rendan could easily see through Morophil's disguise, who knew whether Vaelan might see through his transformation as well. He didn't want to risk having his spell broken deep inside Blackrock Spire — that would be no different from the mind-controlled Katrana Prestor succeeding by proxy, wouldn't it?
+Wyrmthalak was the dragonkin commander and watcher of the lower levels of Blackrock Spire — a powerful high-ranking dragonkin in his own right. Considering that the Blackwing overseer Lashlayer could easily see through Morophil's disguise, who knew whether Wyrmthalak might see through his transformation as well. He didn't want to risk having his spell broken deep inside Blackrock Spire — that would be no different from the mind-controlled Katrana Prestor succeeding by proxy, wouldn't it?
 
 Jace glanced at a felhound trailing alongside an orc warlock not far away. This was absolutely not the time for Morophil to employ her Charm.
 
 Just as he'd figured out how to deal with these several orcs, a Shattered Hand orc in a dark brown robe suddenly walked over from the side.
 
-"Sergeant Major Ogmog, let me take him to see Commander Vaelan. The commander will certainly grant him an audience with Warchief Rend. Because I've heard of him — Vul'gol Heartrender. He's of the Shadowmoon clan, used to serve under Gul'dan, but he was also one of the first clear-headed orcs to realize Gul'dan's treacherous intentions."
+"Sergeant Major Ogmog, let me take him to see Overlord Wyrmthalak. The commander will certainly grant him an audience with Warchief Rend. Because I've heard of him — Vul'gol Heartrender. He's of the Shadowmoon clan, used to serve under Gul'dan, but he was also one of the first clear-headed orcs to realize Gul'dan's treacherous intentions."
 
 Jace stared at him for a moment. Who was this guy? How did he know the background he'd made up on the spot in Grim Batol?
 
@@ -122,9 +124,9 @@ He let go and looked at his palm, which had been cut several times by the dagger
 
 "She… a green dragon?!" Vaelastrasz asked, stunned. "Who is she?"
 
-"My name is Solamiel, Lord Vaelastrasz," Sola said, relaxing slightly as well.
+"My name is Somaelir, Lord Vaelastrasz," Sola said, relaxing slightly as well.
 
-"Lady Solamiel, all right, my apologies… I truly didn't consider that a guardian of the forest would take on the appearance of an orc." Vaelastrasz wiped his dagger and tucked it back into his belt. "If it weren't for Prince Korialstrasz's orders, I'd far rather attend to those annoying whelps than put on this appearance again."
+"Lady Somaelir, all right, my apologies… I truly didn't consider that a guardian of the forest would take on the appearance of an orc." Vaelastrasz wiped his dagger and tucked it back into his belt. "If it weren't for Prince Korialstrasz's orders, I'd far rather attend to those annoying whelps than put on this appearance again."
 
 "Why did you come here?" he asked.
 

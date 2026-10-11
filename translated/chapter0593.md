@@ -2,7 +2,7 @@
 
 That night, Jace's group approached the entrance to the East district side door the guards had mentioned. An ogre sat in the passageway, looking dead on his feet — but every time he started to doze off he jolted back awake, stubbornly refusing to fall asleep.
 
-Clearly, the Gorduni ogres in Eldre'Thalas were stretched thin right now. If the elves inside didn't have troubles of their own worse than the ogres, leaving them no strength to counterattack, there's no way this handful of ogres could have seized such a huge swath of the city this fast, let alone hold an arena right under everyone's noses.
+Clearly, the Gordunni ogres in Eldre'Thalas were stretched thin right now. If the elves inside didn't have troubles of their own worse than the ogres, leaving them no strength to counterattack, there's no way this handful of ogres could have seized such a huge swath of the city this fast, let alone hold an arena right under everyone's noses.
 
 They waited there for a while. The ogre still wouldn't fall asleep. Mosa simply stood up and said, "I'll go."
 
@@ -16,7 +16,7 @@ Through the long, dark corridor, they emerged onto a platform. Just past the edg
 
 Jace still remembered this place. In the game there was an imp here — talk to it and it would immediately start running... Chase it down and kill it, and you'd get the Eldre'Thalas key.
 
-Of course, there was no imp here. Just like Morophil had said, once they'd entered, the demonic presence was even thinner than it had been back in the plaza. Which meant the demonic energy Jace had sensed on the plaza earlier had been coming from the power source deep in the city: the voidhound Immol'thar.
+Of course, there was no imp here. Just like Morophil had said, once they'd entered, the demonic presence was even thinner than it had been back in the plaza. Which meant the demonic energy Jace had sensed on the plaza earlier had been coming from the power source deep in the city: the void terror Immol'thar.
 
 Reaching the edge of the platform and looking down, the bottom was a deep, secluded garden. The canopies of towering trees of every variety reached all the way to the highest point. Between the bases of the great trees grew flowers of every species and plants that couldn't be identified at a glance.
 
@@ -89,13 +89,3 @@ Grede understood immediately — it meant there was danger on the road too.
 Even though Jace couldn't see far down the road, he knew exactly what Mosa meant by danger. Even in the game, this garden had treants charging back and forth that could lunge at you at any moment, and this was the real thing.
 
 On the main road, if you found the pattern or got lucky you could make it through — but that was built on the experience of pulling aggro and dying over and over again when you first arrived. Here, they had no room for trial and error. Dead was dead.
-
-## Flags
-
-- **Immol'thar**: Canonical void demon (伊莫塔尔) — the sealed power source deep in Eldre'Thalas; Jace deduces the demonic energy on the plaza came from it.
-- **Wandering ancients**: 漫步古树 — the mobile war ancients in the garden; three are visible, motionless for now.
-- **Kirin Tor**: Canonical mage council (肯瑞托) — Jace's dry joke about them celebrating his death.
-- **Dire Maul East garden**: the area corresponds to the game's East wing (厄运东); Jace notes the treant danger even on the main road.
-- **Mosa's cat form**: the tauren druid shifts into a great cat to scout — her hunter expertise keeps the group safe.
-- **Morophil's tail**: catches Jace when he nearly falls — a small character beat showing her attentiveness to her master.
-- **POV**: Third person throughout.

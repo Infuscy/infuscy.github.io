@@ -12,7 +12,7 @@ The gnome gave his wand a little wave without even turning around to look at the
 
 This was getting more and more like Harry Potter by the minute. Jace couldn't resist sneaking a glance out the door. He confirmed the bricks were still red and the walls still cream-colored — otherwise he'd think he'd transmigrated straight into Diagon Alley.
 
-The gnome flipped open the lid with a smug, disdainful grin. Jace was increasingly convinced that those grand opening lines had been a dig at the Wizard Sanctum.
+The gnome flipped open the lid with a smug, disdainful grin. Jace was increasingly convinced that those grand opening lines had been a dig at the Wizard's Sanctum.
 
 Fine. Today he was going to find out exactly what this so-called phoenix feather was.
 
@@ -36,7 +36,7 @@ Jace narrowed his eyes at the gnome. The gnome looked thoroughly pleased with hi
 
 "So where'd this phoenix fly in from?"
 
-"I knew you didn't know anything." The gnome said, "One of the Kirin Tor's Council of Six — Prince Kael'thas Sunstrider of Quel'Thalas — keeps a true phoenix as his companion. Haven't you ever seen the Quel'dorei banner?"
+"I knew you didn't know anything." The gnome said, "One of the Kirin Tor's Council of Six — Prince Kael'thas Sunstrider of Quel'Thalas — keeps a true phoenix as his companion. Haven't you ever seen the banner of Quel'Thalas?"
 
 "That's a fire phoenix, and this feather clearly isn't golden," Jace said.
 
@@ -44,7 +44,7 @@ Jace narrowed his eyes at the gnome. The gnome looked thoroughly pleased with hi
 
 Jace laughed. "Go on, admit it, or I'll report you to the high elves for trading on Prince Kael'thas's good name! A phoenix is an elemental being — you think you can just pluck a feather off an elemental?"
 
-"Elemental being…" The gnome muttered the words to himself, leaned back in his chair, and said, "The lad from the Wizard Sanctum knows a thing or two, doesn't he?"
+"Elemental being…" The gnome muttered the words to himself, leaned back in his chair, and said, "The lad from the Wizard's Sanctum knows a thing or two, doesn't he?"
 
 He glanced toward the door, then lowered his voice. "Fine. Call it a trade name."
 
@@ -72,7 +72,7 @@ Jace had the feeling using this quill to write would be more about looking impre
 
 It'd probably look pretty grand for some king or general to sign their name with, though.
 
-That ruled out birds, or harpy-like bird-creatures. A griffin or a wind serpent, maybe — and probably not the flight feathers.
+That ruled out birds, or harpy-like bird-creatures. A gryphon or a wind serpent, maybe — and probably not the flight feathers.
 
 Could it be a hippogryph?
 
@@ -86,9 +86,9 @@ This was harder than he'd expected.
 
 Watching Jace sink into thought, the gnome sneered. "Stop pretending. If you can't afford it, hurry up and go. You're costing me business."
 
-Did chimera have feathers? Jace was trying to remember whether the chimera of Kalimdor had feathers at all.
+Did chimaera have feathers? Jace was trying to remember whether the chimaera of Kalimdor had feathers at all.
 
-Even if they did, they wouldn't be this vividly colored. There were the blue-and-white ice chimera that lived on snowy mountains, and the ones on Stonetalon that were roughly the color of wild boar — and they were mostly covered in down, anyway.
+Even if they did, they wouldn't be this vividly colored. There were the blue-and-white ice chimaera that lived on snowy mountains, and the ones on Stonetalon that were roughly the color of wild boar — and they were mostly covered in down, anyway.
 
 By now Jace had mentally run through every flying creature in Azeroth, and every flightless creature with feathers for that matter, and nothing fit the bill.
 
@@ -108,28 +108,10 @@ The gnome swore loudly, waving his wand. The box slammed shut and rocketed back 
 
 "Did someone hire you to come here and scam me, huh?!"
 
-Jace couldn't help laughing at the sight. He walked to the door. "Wait for the Sunstride royal guard to come knocking on your shop door."
+Jace couldn't help laughing at the sight. He walked to the door. "Wait for the Sunstrider royal guard to come knocking on your shop door."
 
 "Hey! Hold on."
 
 The moment he stepped over the threshold, the gnome called out behind him. Jace turned. The box came flying into his hands.
 
 "Take it and get out! Don't come back!"
-
----
-
-## Flags
-
-- 商品名 → Trade Name (chapter title). The gnome is essentially admitting "phoenix feather" is a marketing label.
-- 哈利波特 / 对角巷 → Harry Potter / Diagon Alley (Jace compares the gnome shop to Ollivanders — naturalized).
-- 六人议会 → Council of Six (canonical Kirin Tor body).
-- 凯尔萨斯·逐日者 → Kael'thas Sunstrider (canonical).
-- 奎尔多雷 → Quel'dorei (the high elves' name for themselves; distinct from Kaldorei/night elves and Sin'dorei/blood elves).
-- 枭兽 → wildkin (canonical WoW beast).
-- 奇美拉 → chimera (canonical);冰风奇美拉 = ice chimera.
-- 角鹰象 → hippogryph (canonical).
-- 精灵龙 → faerie dragon (canonical WoW creature); 触角 rendered as "antennae" (their head tentacles).
-- 游戏运营商曾经根据其形象出过一个幻化时装 → "the game's operators had once used its likeness for a transmog set" (preserves Jace's player-lore POV).
-- "贸易机器人800-A型" appears in ch158, not here — carry-over note.
-- 肯瑞托 → Kirin Tor (canonical).
-- 奎尔萨拉斯的王子 → Prince of Quel'Thalas (Kael'thas).

@@ -38,11 +38,11 @@ The flame snorted a laugh. "The way you say it, it sounds like some grand favor,
 
 Jace said offhandedly, "If it means that little to you, then never mind. You can stay in that binding circle. Sounds like you're still not someone I can trust."
 
-"I'm not someone you can trust?" the doom lord's voice was practically a roar. "I've told you my most important secrets, you feathered little freak — hurry up and find a way to get me out of this godforsaken place!"
+"I'm not someone you can trust?" the doom lord's voice was practically a roar. "I've told you my most important secrets, you fledgling little freak — hurry up and find a way to get me out of this godforsaken place!"
 
 Hearing the circle's flame rage like that, Morophil couldn't help but laugh.
 
-"Getting you out of there isn't simple." Jace shot the succubus a sidelong glance, then continued addressing the demon in the flame. "For a feathered little freak like me to pull that off, I'd need your full cooperation."
+"Getting you out of there isn't simple." Jace shot the succubus a sidelong glance, then continued addressing the demon in the flame. "For a fledgling little freak like me to pull that off, I'd need your full cooperation."
 
 "Tell me what to do," the demon grumbled. "Tell me how to break free of this binding circle!"
 
@@ -80,13 +80,13 @@ At that moment, Morophil looked toward the circle and said, "The flame is gettin
 
 Morophil acknowledged the order and, together with Sazeno, helped Jace dismantle and bury the circle. Sazeno grinned. "We should let that self-important bastard see master's new toy!"
 
-"Toy?" Morophil shot him a look. "That's Ursolus, forged by the Dark Titan's own hands, you reckless little bastard."
+"Toy?" Morophil shot him a look. "That's Ulthalesh, forged by the Dark Titan's own hands, you reckless little bastard."
 
 "Though I am looking forward to seeing the look on his face," Morophil said, turning to Jace, her gaze suddenly growing soft and alluring.
 
 "After all, his attitude toward master just now was far too arrogant. He needs to learn what a real doom lord looks like."
 
-"I'm afraid he'll think I'm lying to him through a circle," Jace said with a smile. "Wait until he sees this staff with his own eyes — and then let him know he was the one who helped me find Ursolus. That way he won't dream of going back to Kil'jaeden."
+"I'm afraid he'll think I'm lying to him through a circle," Jace said with a smile. "Wait until he sees this staff with his own eyes — and then let him know he was the one who helped me find Ulthalesh. That way he won't dream of going back to Kil'jaeden."
 
 From start to finish, Jace, his two demon servants, and Kallrez had all been speaking in Demonic. Behind them, the green dragon and the dwarf watched, both feeling a chill run down their spines.
 
@@ -97,13 +97,3 @@ Jace nodded and looked at the green dragon. "Sorry to ask this of you, Sola — 
 "But I don't know where Stormwind is," Sola said.
 
 "Don't worry. Just fly along the coast. When we reach Stormwind, you'll know it right away," the dwarf said, pointing toward the southern coastline.
-
-## Flags
-
-- **卡尔勒兹 = Kallrez** — doom lord (Eredun). OC; not in glossary. Rendered as Kallrez per ch.737, 739, 740, 747 (alternate Karlez in ch.771–772).
-- **风暴祭坛 = the Altar of Storms** — demonic ritual site; per ch.123, 408, 418 convention. Not in glossary.
-- **莫洛菲尔 = Morophil** — Jace's succubus. OC; not in glossary. Alternate spellings Molofier (ch.851), Molophil (ch.351).
-- **撒厄诺 = Sazeno** — per glossary (imp minion).
-- **基尔加丹 = Kil'jaeden** — canonical eredar lord. Not in glossary.
-- **纳斯雷兹姆 = Nathrezim** — per glossary (dreadlord race).
-- **深渊领主阿兹格斯 = the pit lord Azgoth** — Azgoth rendered per ch.496. Not in glossary.

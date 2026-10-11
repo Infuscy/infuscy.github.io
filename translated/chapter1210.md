@@ -6,11 +6,11 @@ This year the festival was coming a few days earlier than usual. Jace hadn't ask
 
 Decorations on shop windows and doors, people on the street starting to choose brightly colored clothing, young men and women who could perform the "Dance of the Flame" trying out moves and sharing tips — much like how it always was around this time of year.
 
-The Fire Festival was one of the most important holidays of the year. Unlike Garden Festival or Winter Veil, which were more regional, every human kingdom from north to south — even the dwarves and elves, noble and common alike — celebrated this holiday.
+The Fire Festival was one of the most important holidays of the year. Unlike Noblegarden or Winter Veil, which were more regional, every human kingdom from north to south — even the dwarves and elves, noble and common alike — celebrated this holiday.
 
 But Jace would probably miss it this year. He didn't feel too bad about it, though. He'd never had a particularly good impression of this holiday anyway.
 
-Beside the Wizard Sanctum, an apprentice mage in a red wizard hat was showing off fancy fire tricks to a young female apprentice. Watching this scene, Jace was reminded of a Fire Festival from a few years ago… the day when a sky of fel fire, coming from the other side of the Dark Portal, had engulfed all of Stormwind.
+Beside the Wizard's Sanctum, an apprentice mage in a red wizard hat was showing off fancy fire tricks to a young female apprentice. Watching this scene, Jace was reminded of a Fire Festival from a few years ago… the day when a sky of fel fire, coming from the other side of the Dark Portal, had engulfed all of Stormwind.
 
 When the news from Nethergarde Keep arrived, countless young mages and Stormwind soldiers had rushed south. Jace had been among them. After that, his life had seemed to suddenly veer in a direction he couldn't quite keep a firm grip on.
 
@@ -30,11 +30,11 @@ Jace came to the counter and knocked on the table. The dark-faced bartender who'
 
 "Is she downstairs too?" Jace asked.
 
-"She went to Sulenna's to pick up some things. She'll be back in a bit," Tharle nodded. "Besides, I can't quite remember the names of all those potions. You can ask her directly when she gets back."
+"She went to Surena's to pick up some things. She'll be back in a bit," Jarel nodded. "Besides, I can't quite remember the names of all those potions. You can ask her directly when she gets back."
 
-"Fine," Jace said. "I might be going on a long trip, Tharle. So go ahead and cancel my rented room for me."
+"Fine," Jace said. "I might be going on a long trip, Jarel. So go ahead and cancel my rented room for me."
 
-"Don't worry about it," Tharle closed his ledger and pressed his hand on it. "You're sure you've packed everything? Don't leave anything behind that has anything to do with our people here."
+"Don't worry about it," Jarel closed his ledger and pressed his hand on it. "You're sure you've packed everything? Don't leave anything behind that has anything to do with our people here."
 
 "Mm," Jace acknowledged. "Sorry to trouble you."
 
@@ -74,9 +74,11 @@ Jace looked up, gazing at the Voidlord before him.
 
 Come to think of it, summoning him into this world seemed to have few uses besides helping the Dagger Society train in Shadow magic, crafting Void-related magical items, providing some knowledge about the Twisting Nether, and helping him interpret Dar'Khan's records.
 
-And even interpreting Dar'Khan's records had only amounted to translating the contents on the page. How to actually use them — Galders and the others were still completely in the dark.
+And even interpreting Dar'Khan's records had only amounted to translating the contents on the page. How to actually use them — Zardeth and the others were still completely in the dark.
 
-Of course, it was possible that the Dagger Society's understanding of the Void Walker wasn't thorough enough. This would require further development. Just then, the sound of a lock being undone came from outside the passage. Jace left the room. Ursula had just walked into the hall.
+Of course, it was possible that the Dagger Society's understanding of the Voidlord wasn't thorough enough. This would require further development.
+
+Just then, the sound of a lock being undone came from outside the passage. Jace left the room. Ursula had just walked into the hall.
 
 Seeing Jace appear before her, she set down the things she was carrying, took a deep breath, and let it out. "You're about to set out, aren't you?"
 
@@ -86,9 +88,9 @@ Seeing Jace appear before her, she set down the things she was carrying, took a 
 
 Coming to the alchemy lab, Ursula handed Jace the bag of potions. Jace set the coin purse on the table. Ursula didn't even count it — just took it and stuffed it in a box.
 
-"Where's Galders?" Jace asked.
+"Where's Zardeth?" Jace asked.
 
-"He and Erland went to Booty Bay," Ursula said. "Looking for a way to decipher those scrolls you brought back from Stratholme."
+"He and Erlan went to Booty Bay," Ursula said. "Looking for a way to decipher those scrolls you brought back from Stratholme."
 
 "Hold on," Jace said. "They're not showing the contents to outsiders, are they?"
 
@@ -100,13 +102,13 @@ Coming to the alchemy lab, Ursula handed Jace the bag of potions. Jace set the c
 
 Jace hesitated, unsure how to explain. Ursula raised both hands. "Sorry. I asked something I shouldn't have again."
 
-She took a cloth-wrapped package down from her bookshelf. "But about those scrolls — Galders left a set here for me. He said if I couldn't figure them out, I should give them to you. This is a copy transcribed by Lady Sola with Lord Gaothoros's help. It's written in the 'Abyssal tongue' recorded with Eredun pronunciation. Some of it Gaothoros translated the meaning into Eredun in the margins, but most of it is incantations or used in some ritual — it doesn't have much concrete meaning… anyway, it's quite a headache."
+She took a cloth-wrapped package down from her bookshelf. "But about those scrolls — Zardeth left a set here for me. He said if I couldn't figure them out, I should give them to you. This is a copy transcribed by Lady Senlora with Lord Gaothoros's help. It's written in the 'Abyssal tongue' recorded with Eredun pronunciation. Some of it Gaothoros translated the meaning into Eredun in the margins, but most of it is incantations or used in some ritual — it doesn't have much concrete meaning… anyway, it's quite a headache."
 
-Jace nodded and took the package. After thinking for a moment, he said, "This time it really is far, and I don't know roughly when I'll be back. If the Dagger Society runs into any problems, or if you run into any trouble, go to Ilgalar Tower and find a Kirin Tor mage named Amy Marin."
+Jace nodded and took the package. After thinking for a moment, he said, "This time it really is far, and I don't know roughly when I'll be back. If the Dagger Society runs into any problems, or if you run into any trouble, go to the Tower of Ilgalar and find a Kirin Tor mage named Amy Malin."
 
-Jace handed Ursula his Wizard Sanctum apprentice ring. "Show this to her when you go. She'll trust you. Tell her whatever's happened to you or the Dagger Society. She'll find a way to notify me."
+Jace handed Ursula his Wizard's Sanctum apprentice ring. "Show this to her when you go. She'll trust you. Tell her whatever's happened to you or the Dagger Society. She'll find a way to notify me."
 
-"Amy Marin." The alchemist took the ring and nodded. "I'll remember that name."
+"Amy Malin." The alchemist took the ring and nodded. "I'll remember that name."
 
 "Wherever you're going, whatever you're doing, be careful, Jace. Have you heard of Gul'dan's skull? A lot of orcs say the Warchief used his skull as a focus to reopen the Dark Portal, which had already lost its power…"
 

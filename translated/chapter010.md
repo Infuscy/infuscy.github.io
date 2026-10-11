@@ -4,7 +4,7 @@ Although during his two years in Stormwind, every time he looked toward the west
 
 At the entrance, a mage in a short robe wore a wide-brimmed wizard's hat to shield from the sun, yet had a longsword hanging at his hip.
 
-This man was checking the badges of everyone coming and going — presumably a mage guard of the Wizard Sanctum, a so-called battle mage.
+This man was checking the badges of everyone coming and going — presumably a mage guard of the Wizard's Sanctum, a so-called battle mage.
 
 It was said that in the early stages of the war, many veteran mages had been killed because they lacked combat experience against orcish warlocks, severely weakening the forces fighting the Horde's spellcasters.
 
@@ -20,7 +20,7 @@ Looking out, all that filled his vision now were the purple tiles of the Mage Qu
 
 On the walkways that spread like cracks in a white wall, crowds of workers, merchants, and wagons hauling goods and building materials flowed between the new city and the old, the traffic stretching all the way to the roads beyond the walls.
 
-Looking further out, past the walls lay the endless Elwynn plain, the River Neltharion cutting across it, the forest stretching all the way to the distant mountains — the Redridge range.
+Looking further out, past the walls lay the endless Elwynn plain, the Nazferiti River cutting across it, the forest stretching all the way to the distant mountains — the Redridge range.
 
 Eastvale, which had once taken half a day to reach on foot, now seemed close enough to touch.
 
@@ -30,7 +30,7 @@ When he was in Lordaeron, Jace hadn't felt this as strongly, because the game ha
 
 But here, the collision between reality and illusion was overpoweringly intense.
 
-Stepping through the doorway, he entered the upper section of the Wizard Sanctum — where the library was located.
+Stepping through the doorway, he entered the upper section of the Wizard's Sanctum — where the library was located.
 
 Following the directions of a library warden, Jace walked down two flights of the library's spiraling staircase to the alchemy-related section.
 
@@ -91,15 +91,15 @@ That left only one ideal gathering site — Duskwood.
 
 The moment Jace thought of Duskwood, the back of his neck crawled.
 
-This was back when he'd first arrived in Stormwind. Once, he'd gone with some men to a small dock on a tributary of the River Neltharion to help move cargo. They'd worked until evening, and he'd seen someone standing on the far bank, in Duskwood.
+This was back when he'd first arrived in Stormwind. Once, he'd gone with some men to a small dock on a tributary of the Nazferiti River to help move cargo. They'd worked until evening, and he'd seen someone standing on the far bank, in Duskwood.
 
 That person stood there for about an hour straight. By the time they were preparing to head back to Stormwind, the figure still hadn't left. And the whole time, it hadn't moved at all — only occasionally swaying a little to keep its balance.
 
-When he came back, he asked some guards who regularly patrolled near the River Neltharion. They said it was a zombie that had wandered down from Southshire along the river — and they were already used to seeing them.
+When he came back, he asked some guards who regularly patrolled near the Nazferiti River. They said it was a zombie that had wandered down from South Elwynn along the river — and they were already used to seeing them.
 
-A few years ago, a massive explosion in the direction of Stranglethorn had a terrible impact on the southern part of Elwynn Forest. Enormous shadow energy had swallowed up vast stretches of woodland, enveloping two towns — Grandshire and Raven Hill — in darkness, and even affecting a stretch of Westfall.
+A few years ago, a massive explosion in the direction of Stranglethorn had a terrible impact on the southern part of Elwynn Forest. Enormous shadow energy had swallowed up vast stretches of woodland, enveloping two towns — Grand Hamlet and Raven Hill — in darkness, and even affecting a stretch of Westfall.
 
-Many people in Stormwind still spoke of the incident. Those who had fled from Grandshire and Raven Hill to Stormwind tended to stay silent. In any case, the event had cast a shadow over all the residents of the Elwynn region.
+Many people in Stormwind still spoke of the incident. Those who had fled from Grand Hamlet and Raven Hill to Stormwind tended to stay silent. In any case, the event had cast a shadow over all the residents of the Elwynn region.
 
 Some believed it was dark energy blowing in from Draenor, the orcs' homeland, through the Dark Portal. This guess had some basis — after all, relative to Stormwind, the direction of Stranglethorn was roughly the direction of the Dark Portal, and the timing coincided with the orcs' massive invasion.
 
@@ -113,11 +113,11 @@ After several heroes — Lothar, the mage Khadgar, and the orcish assassin Garon
 
 And this was also the main plot of the Warcraft movie.
 
-Since then, Southshire, which had once been as sunny and warm as Northshire, had become a dreadful land covered in evil brambles and black, twisted trees. Only two human towns could offer meager protection to the civilians living within.
+Since then, South Elwynn, which had once been as sunny and warm as Northshire, had become a dreadful land covered in evil brambles and black, twisted trees. Only two human towns could offer meager protection to the civilians living within.
 
-And now, many people in Stormwind had taken to calling that region Duskwood, and Grandshire Darkshire.
+And now, many people in Stormwind had taken to calling that region Duskwood, and Grand Hamlet Darkshire.
 
-Near Raven Hill there was a large cemetery — the largest graveyard in the entire Kingdom of Stormwind, where many unnamed soldiers and nobles who had fallen in the Gnoll Wars and the Troll Wars were buried.
+Near Raven Hill there was a large cemetery — the largest graveyard in the entire Kingdom of Stormwind, where many unnamed soldiers and nobles who had fallen in the Gnoll War and the Troll Wars were buried.
 
 If he could get in there, he'd definitely be able to find Grave Moss. But the problem was — how to get in alive and get out alive.
 
@@ -129,11 +129,11 @@ Thinking of this, Jace even felt it might be better to just go straight to the S
 
 The important difference was that the consequences of tanking warlock magic were impossible to avoid and hard to estimate, whereas on an outing, some risks could at least be mitigated.
 
-He recorded the general travel plan and the relevant materials on the borrowed scroll with a griffin quill, feeling he needed to ask Grede's opinion — after all, he was the professional survival expert from the Hinterlands.
+He recorded the general travel plan and the relevant materials on the borrowed scroll with a gryphon quill, feeling he needed to ask Grede's opinion — after all, he was the professional survival expert from the Hinterlands.
 
-But first he'd go to "Alchemist's Needs" and ask the Mage Quarter's herbalist whether they bought herbs and at what rates. He'd work out a proper price before talking to Grede — that way, at least there'd be a tangible benefit on the table, and the dwarf would be more enthusiastic.
+But first he'd go to "Alchemy Needs" and ask the Mage Quarter's herbalist whether they bought herbs and at what rates. He'd work out a proper price before talking to Grede — that way, at least there'd be a tangible benefit on the table, and the dwarf would be more enthusiastic.
 
-The alchemy shop "Alchemist's Needs" was very close to the Wizard Sanctum. Many people thought it was just an alchemy lab, but for most mages, it was a small shop that combined herb trading, identification, grinding, efficacy research, and a range of other work.
+The alchemy shop "Alchemy Needs" was very close to the Wizard's Sanctum. Many people thought it was just an alchemy lab, but for most mages, it was a small shop that combined herb trading, identification, grinding, efficacy research, and a range of other work.
 
 Most veteran mages had their own alchemy laboratories, or at least a small pharmacy, and their apprentices used their mentors' alchemy rooms. So the alchemy shop, which had been intended as a public lab from the start, had its main purpose overlooked — instead, its herb-related business grew busier and busier.
 
@@ -149,19 +149,19 @@ The moment he walked into the alchemy shop he was hit by a thick wave of herbal-
 
 "Does Elwynn have Kingsblood?"
 
-"If you count Southshire, yes — but very little, and hard to spot. Besides, herbalists don't go there anymore. They call it Duskwood — anyone who goes there is asking for trouble. Because of this, Grave Moss has been out of supply."
+"If you count South Elwynn, yes — but very little, and hard to spot. Besides, herbalists don't go there anymore. They call it Duskwood — anyone who goes there is asking for trouble. Because of this, Grave Moss has been out of supply."
 
 "If I could gather Grave Moss, what would you pay?"
 
 "Seven silver a pound — how's that? And other rarer herbs, like Wild Steelbloom, Liferoot… we can negotiate on those too."
 
-After thanking her, Jace walked out of "Alchemist's Needs" and found himself torn.
+After thanking her, Jace walked out of "Alchemy Needs" and found himself torn.
 
 Sell the Grave Moss, or use it to make Shadow Protection Potion?
 
 Find a way to learn magic, or make some money to live?
 
-Standing at the foot of the Wizard Sanctum's tower, watching the mages come and go, Jace gradually felt that it'd be better to quickly master something that could save his life — or even deal damage. A signature move, so to speak.
+Standing at the foot of the Wizard's Sanctum's tower, watching the mages come and go, Jace gradually felt that it'd be better to quickly master something that could save his life — or even deal damage. A signature move, so to speak.
 
 After all, if he had greater strength, the safety of his outings would be higher too. In the future, he might be able to gather rarer herbs, or other scarce things.
 
@@ -174,22 +174,3 @@ He gave a bitter laugh. He hadn't expected his appetite to grow this big.
 He was already thinking this much before he even knew how difficult gathering Grave Moss would be. Judging from the seven silver price, it was definitely no easy task.
 
 But if he didn't try, he'd never know.
-
-## Flags
-
-- 纳菲瑞提河: rendered as "River Neltharion" (river in Elwynn; not in glossary — rendering tentative, could be a different transliteration).
-- 格兰镇: rendered as "Grandshire" (town in southern Elwynn; not in glossary — distinct from Goldshire/闪金镇).
-- 黑暗镇 / 夜色镇: rendered as "Darkshire" (the renamed Grandshire in Duskwood; not in glossary).
-- 南艾尔文: rendered as "Southshire" (southern Elwynn; not in glossary).
-- 巨魔战争: rendered as "Troll Wars" (not in glossary).
-- 豺狼人战争: rendered as "Gnoll Wars" (not in glossary).
-- 劳雷尔·哈该: rendered as "Laurel Hagar" (not in glossary — surname rendering tentative; 哈该 could be Hagar/Haggai).
-- 《劳雷尔的暗影防护技巧》: rendered as "*Laurel's Shadow Protection Techniques*" (book title; not in glossary).
-- 《劳雷尔的次级暗影防护药剂》: rendered as "*Laurel's Lesser Shadow Protection Potion*" (potion name; not in glossary).
-- 炼金士之需: rendered as "Alchemist's Needs" (alchemy shop name; not in glossary).
-- 活根草: rendered as "Liferoot" (WoW herb; not in glossary).
-- 战斗法师: rendered as "battle mages" (not in glossary; distinct from 战斗法师 = Battle Mage in glossary — here used as a mass noun for the school).
-- 魔兽电影: rendered as "the Warcraft movie" (the 2016 film).
-- 搜索引擎: rendered as "search engines" (Jace's internal comparison to modern internet).
-- 铅瓶: rendered as "lead bottle" (potion storage; not in glossary).
-- 魔法水晶瓶: rendered as "magic crystal bottle" (potion storage; not in glossary).

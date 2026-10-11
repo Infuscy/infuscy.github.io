@@ -1,12 +1,12 @@
 ## Chapter 635: Routine Preparations
 
-The next day, Jace arrived at the Slaughtered Lamb and spotted Tharle. "Is Ursula around?"
+The next day, Jace arrived at the Slaughtered Lamb and spotted Jarel. "Is Ursula around?"
 
-Tharle chuckled. "In a hurry, are we?"
+Jarel chuckled. "In a hurry, are we?"
 
 "Drop it," Jace said, lowering his voice and glancing back at the patrons. "I've got important business. Is she back?" The last time he'd come by, Ursula hadn't been in the basement either. Jace figured she'd probably gone off to that fancy alchemy lab of hers.
 
-Tharle's smile faded. "She is. Got back the day before yesterday."
+Jarel's smile faded. "She is. Got back the day before yesterday."
 
 Jace didn't waste any more words with him and headed straight for the hidden door.
 
@@ -16,25 +16,25 @@ The familiar smell of simmering potions had drifted up through the entire baseme
 
 She came over to Jace and said, "Two weeks, like I promised — not a day over. You thought I was stalling you?"
 
-Jace took the flask and watched the bubbles leaping inside, agitated by the potent magic. Almost to himself, he murmured, "Refined Wisdom Elixir."
+Jace took the flask and watched the bubbles leaping inside, agitated by the potent magic. Almost to himself, he murmured, "Flask of Distilled Wisdom."
 
 "How do you even know about that?" Ursula's expression shifted. "You little bastard — you've ruined my whole dramatic reveal, my carefully paced introduction."
 
 "I'm a mage, Ursula," Jace said. "But I'll admit, this flask still caught me off guard."
 
-"It'll give you a massive boost of mana, let you go toe to toe with Andormas for a short while, Jace," Ursula said.
+"It'll give you a massive boost of mana, let you go toe to toe with Andromath for a short while, Jace," Ursula said.
 
-In the game, a Refined Wisdom Elixir provided an enormous increase to maximum mana — it was one of the rarest potions out there.
+In the game, a Flask of Distilled Wisdom provided an enormous increase to maximum mana — it was one of the rarest potions out there.
 
 Jace understood that here, mana capacity was far more than just fuel for casting spells. It also represented a person's stamina, amplified magical effects, sharpened the mind…
 
-Even so, being able to "go toe to toe with Andormas" was nowhere near enough — not in Jace's mind, anyway.
+Even so, being able to "go toe to toe with Andromath" was nowhere near enough — not in Jace's mind, anyway.
 
 Of course, he wasn't about to rely on a single flask to trade blows with Deathwing either. As long as it could help him out inside Grim Batol, at the critical moment… that would be enough.
 
 "I'll need some other potions too, Ursula. I'm heading out again."
 
-Ursula let out a small sigh. "You really are a busy man. I thought after you got back from Kalimor those mages would've let you rest for a while."
+Ursula let out a small sigh. "You really are a busy man. I thought after you got back from Kalimdor those mages would've let you rest for a while."
 
 "It's not the same bunch sending me out this time, but I can't refuse either one," Jace said.
 
@@ -74,7 +74,7 @@ Unlike the black dragons, the red dragons' power was pure, blazing flame — not
 
 Then again, Shadow Protection Potions would still come in handy against warlocks. This time it was just Jace and his two demons — no Grede or Vereesa to help draw the enemy's attention. All the damage would land on him. Plus there was the succubus to think about.
 
-He could only hope that Vilethorn's shadow protection charm was strong enough to let Morophil absorb as much as possible for him. That way he'd have an easier time dealing with the Dragonmaw warlocks too.
+He could only hope that Vyletongue's shadow protection charm was strong enough to let Morophil absorb as much as possible for him. That way he'd have an easier time dealing with the Dragonmaw warlocks too.
 
 Of course, the best outcome was to avoid fighting altogether. Rely on evasion, on charm, on deception… and not fight. After all, if he went deep into Grim Batol and picked a battle he couldn't wrap up quickly, what awaited him could be the entire city mobilizing to hunt him down. At that point, forget about finding the Dragonqueen — even getting out would be a problem.
 
@@ -82,7 +82,7 @@ Of course, the best outcome was to avoid fighting altogether. Rely on evasion, o
 
 He thought it over — he probably wouldn't need too many Healing Potions this trip.
 
-So many orcs, so many living blood packs packed into a fortress. If they dared surround him, he'd show them what it meant to feed off the battlefield.
+So many orcs, so many walking health potions packed into a fortress. If they dared surround him, he'd show them what it meant to feed off the battlefield.
 
 "By the way, is that Restorative Potion still here with you?"
 
@@ -98,8 +98,8 @@ At the sound of gold clinking inside, Ursula's throat bobbed. She opened the pur
 
 "Good," Jace said. "I'll come find you the day after tomorrow. Thanks."
 
-Leaving the Slaughtered Lamb, Jace ran into Jaylene, who'd just arrived.
+Leaving the Slaughtered Lamb, Jace ran into Jalane, who'd just arrived.
 
 "Jace?" She quickly glanced at the collar of his robe. "Does this need mending here?"
 
-Jace felt the crack in his collar and thought it over. "Hold off for now. Thanks for remembering, Jaylene." An orc warlock who'd been active in Azeroth for years, still wearing such a neat and proper robe — would that even look right? Krasus was right. If he wanted the orcs to believe his disguise, he had to get every single detail right.
+Jace felt the crack in his collar and thought it over. "Hold off for now. Thanks for remembering, Jalane." An orc warlock who'd been active in Azeroth for years, still wearing such a neat and proper robe — would that even look right? Krasus was right. If he wanted the orcs to believe his disguise, he had to get every single detail right.

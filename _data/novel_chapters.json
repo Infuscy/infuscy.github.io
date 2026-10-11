@@ -81,7 +81,7 @@
   },
   {
     "num": 17,
-    "title": "The Great Graveyard",
+    "title": "The Raven Hill Cemetery",
     "file": "chapter017.html"
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "num": 30,
-    "title": "Necrotic Poison",
+    "title": "Corpse Poison",
     "file": "chapter030.html"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "num": 34,
-    "title": "Marin's Investigator",
+    "title": "Malin's Investigator",
     "file": "chapter034.html"
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "num": 37,
-    "title": "The Wizard Sanctum and the Werewolf Investigation",
+    "title": "The Wizard's Sanctum and the Worgen Investigation",
     "file": "chapter037.html"
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "num": 54,
-    "title": "A Stormwind Imp at Work",
+    "title": "A Stormwind imp at Work",
     "file": "chapter054.html"
   },
   {
@@ -381,12 +381,12 @@
   },
   {
     "num": 77,
-    "title": "Light (Part One)",
+    "title": "Light (Part 1)",
     "file": "chapter077.html"
   },
   {
     "num": 78,
-    "title": "Light (Part Two)",
+    "title": "Light (Part 2)",
     "file": "chapter078.html"
   },
   {
@@ -426,7 +426,7 @@
   },
   {
     "num": 86,
-    "title": "Faolble's Farm",
+    "title": "Furlbrow's Farm",
     "file": "chapter086.html"
   },
   {
@@ -491,7 +491,7 @@
   },
   {
     "num": 99,
-    "title": "Andormas's Office",
+    "title": "Andromath's Office",
     "file": "chapter099.html"
   },
   {
@@ -606,7 +606,7 @@
   },
   {
     "num": 122,
-    "title": "Mana and Ley-Line Nodes",
+    "title": "Mana and Ley Line Nexuses",
     "file": "chapter122.html"
   },
   {
@@ -636,12 +636,12 @@
   },
   {
     "num": 128,
-    "title": "The Great Baradin Conqueror",
+    "title": "The *Great Baradin Conqueror*",
     "file": "chapter128.html"
   },
   {
     "num": 129,
-    "title": "The Kul Tiras Ship",
+    "title": "The Kul Tiran Ship",
     "file": "chapter129.html"
   },
   {
@@ -851,12 +851,12 @@
   },
   {
     "num": 171,
-    "title": "The Three Relics (Part One)",
+    "title": "The Three Relics (Part 1)",
     "file": "chapter171.html"
   },
   {
     "num": 172,
-    "title": "The Three Relics (Part Two)",
+    "title": "The Three Relics (Part 2)",
     "file": "chapter172.html"
   },
   {
@@ -881,7 +881,7 @@
   },
   {
     "num": 177,
-    "title": "Two Headless Flies",
+    "title": "Two Headless Chickens",
     "file": "chapter177.html"
   },
   {
@@ -1001,7 +1001,7 @@
   },
   {
     "num": 201,
-    "title": "Griffin Drool",
+    "title": "Gryphon Drool",
     "file": "chapter201.html"
   },
   {
@@ -1031,12 +1031,12 @@
   },
   {
     "num": 207,
-    "title": "The Residents of Quel'Daniel",
+    "title": "The Residents of Quel'Danil",
     "file": "chapter207.html"
   },
   {
     "num": 208,
-    "title": "Jace's Good Brother",
+    "title": "A True Brother",
     "file": "chapter208.html"
   },
   {
@@ -1111,7 +1111,7 @@
   },
   {
     "num": 223,
-    "title": "Tearing Down Another's Wall",
+    "title": "Robbing Peter to Pay Paul",
     "file": "chapter223.html"
   },
   {
@@ -1146,7 +1146,7 @@
   },
   {
     "num": 230,
-    "title": "The Fel Ground",
+    "title": "The Cursed Ground",
     "file": "chapter230.html"
   },
   {
@@ -1226,7 +1226,7 @@
   },
   {
     "num": 246,
-    "title": "Moon Plum Cake",
+    "title": "Moonberry Cake",
     "file": "chapter246.html"
   },
   {
@@ -1346,7 +1346,7 @@
   },
   {
     "num": 270,
-    "title": "Duskwood Town",
+    "title": "Darkshire",
     "file": "chapter270.html"
   },
   {
@@ -1411,7 +1411,7 @@
   },
   {
     "num": 283,
-    "title": "Jagin's Wish",
+    "title": "Gakin's Wish",
     "file": "chapter0283.html"
   },
   {
@@ -1451,7 +1451,7 @@
   },
   {
     "num": 291,
-    "title": "Gryphons — Is There a Chance?",
+    "title": "Dragonhawks — Is There a Chance?",
     "file": "chapter291.html"
   },
   {
@@ -1466,7 +1466,7 @@
   },
   {
     "num": 294,
-    "title": "The Oriole Behind",
+    "title": "The Hunters Hunted",
     "file": "chapter294.html"
   },
   {
@@ -1511,7 +1511,7 @@
   },
   {
     "num": 303,
-    "title": "Shadow of the Blood Demon",
+    "title": "Gorefiend's Shadow",
     "file": "chapter303.html"
   },
   {
@@ -1576,7 +1576,7 @@
   },
   {
     "num": 316,
-    "title": "Preparing for a New Adventure (Part Two)",
+    "title": "Preparing for a New Adventure (Part 2)",
     "file": "chapter316.html"
   },
   {
@@ -1606,7 +1606,7 @@
   },
   {
     "num": 322,
-    "title": "The Sailor's Home",
+    "title": "The Salty Sailor Tavern",
     "file": "chapter0322.html"
   },
   {
@@ -1616,7 +1616,7 @@
   },
   {
     "num": 324,
-    "title": "The Trade House",
+    "title": "The Auction House",
     "file": "chapter0324.html"
   },
   {
@@ -1716,7 +1716,7 @@
   },
   {
     "num": 344,
-    "title": "Alna in the Rain",
+    "title": "Arna in the Rain",
     "file": "chapter0344.html"
   },
   {
@@ -1746,7 +1746,7 @@
   },
   {
     "num": 350,
-    "title": "The Succubus's First Day of Work",
+    "title": "The succubus's First Day of Work",
     "file": "chapter350.html"
   },
   {
@@ -1841,7 +1841,7 @@
   },
   {
     "num": 369,
-    "title": "The Troggs",
+    "title": "The troggs",
     "file": "chapter369.html"
   },
   {
@@ -1936,7 +1936,7 @@
   },
   {
     "num": 388,
-    "title": "Mosh'aru's Past",
+    "title": "Mor'zul's Past",
     "file": "chapter388.html"
   },
   {
@@ -2016,7 +2016,7 @@
   },
   {
     "num": 404,
-    "title": "Demon Dog-Tamer",
+    "title": "The Demon Houndmaster",
     "file": "chapter404.html"
   },
   {
@@ -2336,7 +2336,7 @@
   },
   {
     "num": 468,
-    "title": "Necrotic Essence",
+    "title": "Essence of Undeath",
     "file": "chapter0468.html"
   },
   {
@@ -2431,7 +2431,7 @@
   },
   {
     "num": 487,
-    "title": "Depths of the Dark Marsh",
+    "title": "Depths of the Black Morass",
     "file": "chapter487.html"
   },
   {
@@ -2481,7 +2481,7 @@
   },
   {
     "num": 497,
-    "title": "Necrotic Essence Collector, Model 5",
+    "title": "Undeath Essence Collector, Model 5",
     "file": "chapter0497.html"
   },
   {
@@ -2541,7 +2541,7 @@
   },
   {
     "num": 509,
-    "title": "The Void Robe",
+    "title": "The Robe of the Void",
     "file": "chapter509.html"
   },
   {
@@ -2666,7 +2666,7 @@
   },
   {
     "num": 534,
-    "title": "The Sweetwater Oasis",
+    "title": "The Lushwater Oasis",
     "file": "chapter0534.html"
   },
   {
@@ -2686,7 +2686,7 @@
   },
   {
     "num": 538,
-    "title": "Sun Rock Reach",
+    "title": "Sun Rock Retreat",
     "file": "chapter538.html"
   },
   {
@@ -2756,12 +2756,12 @@
   },
   {
     "num": 552,
-    "title": "Dangerous Life Force",
+    "title": "Dangerous life force",
     "file": "chapter552.html"
   },
   {
     "num": 553,
-    "title": "Vile'tharn",
+    "title": "Vyletongue",
     "file": "chapter553.html"
   },
   {
@@ -2786,7 +2786,7 @@
   },
   {
     "num": 558,
-    "title": "The Demon Statue",
+    "title": "The Demonic Figurine",
     "file": "chapter558.html"
   },
   {
@@ -2806,7 +2806,7 @@
   },
   {
     "num": 562,
-    "title": "Earth-Song Falls",
+    "title": "Earth Song Falls",
     "file": "chapter562.html"
   },
   {
@@ -2881,7 +2881,7 @@
   },
   {
     "num": 577,
-    "title": "The Mantis Stalking the Cicada",
+    "title": "The Stalker Stalked",
     "file": "chapter0577.html"
   },
   {
@@ -3101,7 +3101,7 @@
   },
   {
     "num": 621,
-    "title": "Vilethorn's Shadow Sigils",
+    "title": "Vyletongue's Shadow Sigils",
     "file": "chapter0621.html"
   },
   {
@@ -3326,7 +3326,7 @@
   },
   {
     "num": 666,
-    "title": "Signs at Banthor Mountain",
+    "title": "Signs at Batol Mountains",
     "file": "chapter666.html"
   },
   {
@@ -3401,7 +3401,7 @@
   },
   {
     "num": 681,
-    "title": "Ilgalar Tower",
+    "title": "The Tower of Ilgalar",
     "file": "chapter0681.html"
   },
   {
@@ -3436,7 +3436,7 @@
   },
   {
     "num": 688,
-    "title": "The Magic Inn",
+    "title": "The Legerdemain Lounge",
     "file": "chapter688.html"
   },
   {
@@ -3546,7 +3546,7 @@
   },
   {
     "num": 710,
-    "title": "Parting at Quel'Lin",
+    "title": "Parting at Quel'Lithien",
     "file": "chapter0710.html"
   },
   {
@@ -3566,7 +3566,7 @@
   },
   {
     "num": 714,
-    "title": "Marin's Suspicions",
+    "title": "Malin's Suspicions",
     "file": "chapter0714.html"
   },
   {
@@ -3611,12 +3611,12 @@
   },
   {
     "num": 723,
-    "title": "The Storm Altar",
+    "title": "The Altar of Storms",
     "file": "chapter723.html"
   },
   {
     "num": 724,
-    "title": "Dath'morar's Master",
+    "title": "Dasmora's Master",
     "file": "chapter724.html"
   },
   {
@@ -3646,12 +3646,12 @@
   },
   {
     "num": 730,
-    "title": "A Clue, or an Command?",
+    "title": "A Clue, or a Command?",
     "file": "chapter0730.html"
   },
   {
     "num": 731,
-    "title": "The Warlocks' Hidden Hideout",
+    "title": "The Warlocks' Hideout",
     "file": "chapter0731.html"
   },
   {
@@ -3701,7 +3701,7 @@
   },
   {
     "num": 741,
-    "title": "Kartzel's Confidence",
+    "title": "Kallrez's Confidence",
     "file": "chapter0741.html"
   },
   {
@@ -3776,7 +3776,7 @@
   },
   {
     "num": 756,
-    "title": "Galders' Trust",
+    "title": "Zardeth's Trust",
     "file": "chapter0756.html"
   },
   {
@@ -3786,7 +3786,7 @@
   },
   {
     "num": 758,
-    "title": "Fighting Poison with Poison",
+    "title": "Fighting Fire with Fire",
     "file": "chapter0758.html"
   },
   {
@@ -3881,7 +3881,7 @@
   },
   {
     "num": 777,
-    "title": "A Lead on the Legendary Crocodile",
+    "title": "A Lead on the Legendary Crocolisk",
     "file": "chapter0777.html"
   },
   {
@@ -4131,7 +4131,7 @@
   },
   {
     "num": 827,
-    "title": "Silverwing Garrison",
+    "title": "Silverwing Hold",
     "file": "chapter827.html"
   },
   {
@@ -4151,7 +4151,7 @@
   },
   {
     "num": 831,
-    "title": "The Timbermaw Homestead",
+    "title": "Timbermaw Hold",
     "file": "chapter831.html"
   },
   {
@@ -4231,7 +4231,7 @@
   },
   {
     "num": 847,
-    "title": "The Ice Lake of Kaithrill",
+    "title": "The Ice Lake of Kel'Theril",
     "file": "chapter847.html"
   },
   {
@@ -4296,7 +4296,7 @@
   },
   {
     "num": 860,
-    "title": "The Frosthammer Furbolgs",
+    "title": "The Frostmaul Furbolgs",
     "file": "chapter0860.html"
   },
   {
@@ -4306,7 +4306,7 @@
   },
   {
     "num": 862,
-    "title": "The Frostmace Tribe's Plight",
+    "title": "The Frostmaul Tribe's Plight",
     "file": "chapter0862.html"
   },
   {
@@ -4331,7 +4331,7 @@
   },
   {
     "num": 867,
-    "title": "The Black Knights",
+    "title": "The Dark Riders",
     "file": "chapter0867.html"
   },
   {
@@ -4386,7 +4386,7 @@
   },
   {
     "num": 878,
-    "title": "The Chill of Eldallas",
+    "title": "The Chill of Eldarath",
     "file": "chapter0878.html"
   },
   {
@@ -4571,7 +4571,7 @@
   },
   {
     "num": 915,
-    "title": "The Properties of Ursolus",
+    "title": "The Properties of Ulthalesh",
     "file": "chapter0915.html"
   },
   {
@@ -4596,7 +4596,7 @@
   },
   {
     "num": 920,
-    "title": "The Island",
+    "title": "The Island (Part 1)",
     "file": "chapter920.html"
   },
   {
@@ -4641,7 +4641,7 @@
   },
   {
     "num": 929,
-    "title": "The Wizard Sanctum's Token of Appreciation",
+    "title": "The Wizard's Sanctum's Token of Appreciation",
     "file": "chapter0929.html"
   },
   {
@@ -4766,7 +4766,7 @@
   },
   {
     "num": 954,
-    "title": "Run, Hirt!",
+    "title": "Run, Het!",
     "file": "chapter0954.html"
   },
   {
@@ -4801,7 +4801,7 @@
   },
   {
     "num": 961,
-    "title": "The Black Iron Bar",
+    "title": "The Grim Guzzler",
     "file": "chapter961.html"
   },
   {
@@ -4881,7 +4881,7 @@
   },
   {
     "num": 977,
-    "title": "The Fire-Tenders' Vault",
+    "title": "The Pyromancers' Vault",
     "file": "chapter0977.html"
   },
   {
@@ -5051,7 +5051,7 @@
   },
   {
     "num": 1011,
-    "title": "Only One Dark Iron Anvil",
+    "title": "Only One Black Anvil",
     "file": "chapter1011.html"
   },
   {
@@ -5096,7 +5096,7 @@
   },
   {
     "num": 1020,
-    "title": "Pucidiaz's Worth",
+    "title": "Pokodiaz's Worth",
     "file": "chapter1020.html"
   },
   {
@@ -5156,7 +5156,7 @@
   },
   {
     "num": 1032,
-    "title": "Matthias Shaw's Order",
+    "title": "Mathias Shaw's Order",
     "file": "chapter1032.html"
   },
   {
@@ -5196,7 +5196,7 @@
   },
   {
     "num": 1040,
-    "title": "Arkesius",
+    "title": "Archeus",
     "file": "chapter1040.html"
   },
   {
@@ -5261,7 +5261,7 @@
   },
   {
     "num": 1053,
-    "title": "The Mask Hall",
+    "title": "The Hall of Masks",
     "file": "chapter1053.html"
   },
   {
@@ -5316,7 +5316,7 @@
   },
   {
     "num": 1064,
-    "title": "Soul Snatcher",
+    "title": "The Soulflayer",
     "file": "chapter1064.html"
   },
   {
@@ -5326,7 +5326,7 @@
   },
   {
     "num": 1066,
-    "title": "The Essence Pool",
+    "title": "The Essence Font",
     "file": "chapter1066.html"
   },
   {
@@ -5386,7 +5386,7 @@
   },
   {
     "num": 1078,
-    "title": "Pulling the Fire from Under the Pot",
+    "title": "Striking at the Root",
     "file": "chapter1078.html"
   },
   {
@@ -5486,7 +5486,7 @@
   },
   {
     "num": 1098,
-    "title": "The Duskwood Meeting",
+    "title": "The Darkshire Meeting",
     "file": "chapter1098.html"
   },
   {
@@ -5501,7 +5501,7 @@
   },
   {
     "num": 1101,
-    "title": "Bound to Be Released (Part 1)",
+    "title": "Bound to Be Unleashed (Part 1)",
     "file": "chapter1101.html"
   },
   {
@@ -5541,7 +5541,7 @@
   },
   {
     "num": 1109,
-    "title": "Sailing for the Eldarath River",
+    "title": "Sailing for the Elrendar River",
     "file": "chapter1109.html"
   },
   {
@@ -5561,7 +5561,7 @@
   },
   {
     "num": 1113,
-    "title": "The Sunstar Tower",
+    "title": "Dawnstar Spire",
     "file": "chapter1113.html"
   },
   {
@@ -5886,7 +5886,7 @@
   },
   {
     "num": 1178,
-    "title": "The Festival of the Garden Draws Near",
+    "title": "Noblegarden Draws Near",
     "file": "chapter1178.html"
   },
   {
@@ -5921,7 +5921,7 @@
   },
   {
     "num": 1185,
-    "title": "Thorium Watch",
+    "title": "Thorium Point",
     "file": "chapter1185.html"
   },
   {
@@ -5931,7 +5931,7 @@
   },
   {
     "num": 1187,
-    "title": "The Kadros Anvil",
+    "title": "The Khardros Anvil",
     "file": "chapter1187.html"
   },
   {
@@ -6016,7 +6016,7 @@
   },
   {
     "num": 1204,
-    "title": "The House of Wryn's Psychological Baggage",
+    "title": "The House of Wrynn's Psychological Baggage",
     "file": "chapter1204.html"
   },
   {
@@ -6111,7 +6111,7 @@
   },
   {
     "num": 1223,
-    "title": "An Ambassador's Got to Have a Mission",
+    "title": "An Envoy's Got to Have a Mission",
     "file": "chapter1223.html"
   },
   {
@@ -6156,7 +6156,7 @@
   },
   {
     "num": 1232,
-    "title": "Alleria's Fortress",
+    "title": "Allerian Stronghold",
     "file": "chapter1232.html"
   },
   {
@@ -6181,12 +6181,12 @@
   },
   {
     "num": 1237,
-    "title": "Not Only Old, But Young",
+    "title": "Not Only Old, But Young (Part 1)",
     "file": "chapter1237.html"
   },
   {
     "num": 1238,
-    "title": "Not Only Old, But Young (II)",
+    "title": "Not Only Old, But Young (Part 2)",
     "file": "chapter1238.html"
   },
   {
@@ -6226,7 +6226,7 @@
   },
   {
     "num": 1246,
-    "title": "The Slums",
+    "title": "The Lower City",
     "file": "chapter1246.html"
   },
   {
@@ -6271,7 +6271,7 @@
   },
   {
     "num": 1255,
-    "title": "Death-eye",
+    "title": "Deadeye",
     "file": "chapter1255.html"
   },
   {
@@ -6311,7 +6311,7 @@
   },
   {
     "num": 1263,
-    "title": "The Old High Arak City",
+    "title": "The Old Gorian City",
     "file": "chapter1263.html"
   },
   {
@@ -6331,7 +6331,7 @@
   },
   {
     "num": 1267,
-    "title": "The Spellbreaker's Hall",
+    "title": "The Chamber of Nullification",
     "file": "chapter1267.html"
   },
   {
@@ -6541,7 +6541,7 @@
   },
   {
     "num": 1309,
-    "title": "Consume Destruction",
+    "title": "Devour and Destroy",
     "file": "chapter1309.html"
   },
   {
@@ -6566,7 +6566,7 @@
   },
   {
     "num": 1314,
-    "title": "The Black Prince's Gift",
+    "title": "The Black Dragon Prince's Gift",
     "file": "chapter1314.html"
   },
   {
@@ -6626,7 +6626,7 @@
   },
   {
     "num": 1326,
-    "title": "The War-Bringer's Ring",
+    "title": "The Warbringer's Ring",
     "file": "chapter1326.html"
   },
   {
@@ -6821,12 +6821,12 @@
   },
   {
     "num": 1365,
-    "title": "The Shriekhall",
+    "title": "The Screaming Hall (Part 1)",
     "file": "chapter1365.html"
   },
   {
     "num": 1366,
-    "title": "The Shriekhall (Part 2)",
+    "title": "The Screaming Hall (Part 2)",
     "file": "chapter1366.html"
   },
   {
@@ -6846,7 +6846,7 @@
   },
   {
     "num": 1370,
-    "title": "Because Naigagg Must Die",
+    "title": "Because Naigag Must Die",
     "file": "chapter1370.html"
   },
   {
@@ -6856,7 +6856,7 @@
   },
   {
     "num": 1372,
-    "title": "Sorsala's Reason",
+    "title": "Sosala's Reason",
     "file": "chapter1372.html"
   },
   {
@@ -6866,7 +6866,7 @@
   },
   {
     "num": 1374,
-    "title": "Vopiel's Incantation",
+    "title": "Vorpil's Incantation",
     "file": "chapter1374.html"
   },
   {
@@ -6981,7 +6981,7 @@
   },
   {
     "num": 1397,
-    "title": "The Guardian of the Black Temple",
+    "title": "The Guardian of the Dark Temple",
     "file": "chapter1397.html"
   },
   {
@@ -7156,7 +7156,7 @@
   },
   {
     "num": 1432,
-    "title": "Coming of Age (Part 2)",
+    "title": "The Coming of Age Ceremony (Part 2)",
     "file": "chapter1432.html"
   },
   {
@@ -7336,7 +7336,7 @@
   },
   {
     "num": 1468,
-    "title": "The Ritual in the Observatorium",
+    "title": "The Ritual in the Observatory",
     "file": "chapter1468.html"
   },
   {
@@ -7441,7 +7441,7 @@
   },
   {
     "num": 1489,
-    "title": "The Crackfists of Mount Wogul",
+    "title": "The Splinter Fists of Vul'Gol",
     "file": "chapter1489.html"
   },
   {
@@ -7676,7 +7676,7 @@
   },
   {
     "num": 1536,
-    "title": "Gestane's Secret Means",
+    "title": "Gerstahn's Secret Means",
     "file": "chapter1536.html"
   },
   {
@@ -7931,12 +7931,12 @@
   },
   {
     "num": 1587,
-    "title": "True Flame King?",
+    "title": "True Firelord?",
     "file": "chapter1587.html"
   },
   {
     "num": 1588,
-    "title": "True Flame King!",
+    "title": "True Firelord!",
     "file": "chapter1588.html"
   },
   {
@@ -8041,7 +8041,7 @@
   },
   {
     "num": 1609,
-    "title": "Morgan's Watch",
+    "title": "Morgan's Vigil",
     "file": "chapter1609.html"
   },
   {
@@ -8101,7 +8101,7 @@
   },
   {
     "num": 1621,
-    "title": "From Gul'dan to Ursula Delin",
+    "title": "From Gul'dan to Ursula Deline",
     "file": "chapter1621.html"
   },
   {
@@ -8111,12 +8111,12 @@
   },
   {
     "num": 1623,
-    "title": "The Northern Paladin (Revised)",
+    "title": "The Northern Paladin",
     "file": "chapter1623.html"
   },
   {
     "num": 1624,
-    "title": "Shadow of the Knight (Revised)",
+    "title": "Shadow of the Knight",
     "file": "chapter1624.html"
   },
   {
@@ -8131,7 +8131,7 @@
   },
   {
     "num": 1627,
-    "title": "What an Eredar Does Best",
+    "title": "What the Ered'ruin Do Best",
     "file": "chapter1627.html"
   },
   {
@@ -8181,7 +8181,7 @@
   },
   {
     "num": 1637,
-    "title": "Reunited at the Storm Altar",
+    "title": "Reunited at the Altar of Storms",
     "file": "chapter1637.html"
   },
   {
@@ -8431,7 +8431,7 @@
   },
   {
     "num": 1687,
-    "title": "Tear of Neltharion",
+    "title": "Neltharion's Tear",
     "file": "chapter1687.html"
   },
   {
@@ -8451,7 +8451,7 @@
   },
   {
     "num": 1691,
-    "title": "How Can You Lose Without Gaining",
+    "title": "Nothing Gained Without Letting Go",
     "file": "chapter1691.html"
   },
   {
@@ -8571,7 +8571,7 @@
   },
   {
     "num": 1715,
-    "title": "Mardi's Grand Straightaway",
+    "title": "Maldy's Grand Straightaway",
     "file": "chapter1715.html"
   },
   {
@@ -8611,7 +8611,7 @@
   },
   {
     "num": 1723,
-    "title": "Who Dares Hurt Sister Sora?!",
+    "title": "Who Dares Hurt Sister Sola?!",
     "file": "chapter1723.html"
   },
   {
@@ -8626,7 +8626,7 @@
   },
   {
     "num": 1726,
-    "title": "Owathanka",
+    "title": "Owatanka",
     "file": "chapter1726.html"
   },
   {
@@ -8671,7 +8671,7 @@
   },
   {
     "num": 1735,
-    "title": "Natila's Request",
+    "title": "Nathra's Request",
     "file": "chapter1735.html"
   },
   {
@@ -9001,7 +9001,7 @@
   },
   {
     "num": 1801,
-    "title": "The Sky Council",
+    "title": "The Chamber of Air",
     "file": "chapter1801.html"
   },
   {

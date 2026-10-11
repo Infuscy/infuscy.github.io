@@ -1,6 +1,6 @@
 ## Chapter 526: Plain-Spoken
 
-The group walked a little farther north. Vereesa looked at Jace with a somewhat complicated expression and said, "I know that during the War of the Ancients, the tauren and the kaldorei were allies for a long time. They fought the demons and their summoners together back then, so…"
+The group walked a little farther north. Vereesa looked at Jace with a somewhat complicated expression and said, "I know that during the War of the Ancients, the tauren and the Kaldorei were allies for a long time. They fought the demons and their summoners together back then, so…"
 
 "I know," Jace said. "I'm not complaining. After the attitude we got from that tauren we ran into earlier, I had a pretty good idea what to expect from the rest. I'm just surprised we ran into a druid."
 
@@ -8,7 +8,7 @@ The group walked a little farther north. Vereesa looked at Jace with a somewhat 
 
 "Hey, you feel that? That fellow's following us," Grede said in a low voice.
 
-Vereesa let out a soft sigh. "I feel it too. He definitely knows that if he leaves us, the centaurs will find him again and kill him."
+Vereesa let out a soft sigh. "I feel it too. He definitely knows that if he leaves us, the centaur will find him again and kill him."
 
 Jace glanced back at the path between the stone pillars. He couldn't see any sign of the tauren.
 
@@ -22,9 +22,9 @@ Vereesa took the healing potion and went back. Before long, the elf's voice came
 
 Jace and Grede ran back at once. The tauren was lying there with his head lolling to the side, his eyes rolled back, his consciousness probably already blurred.
 
-Vereesa was trying to hold him up, but this two-meter-long bastard was damn heavy — especially that enormous, outrageously large bull head.
+Vereesa was trying to hold him up, but this two-meter-tall bastard was damn heavy — especially that enormous, outrageously large bull head.
 
-Jace moved in to take the potion from Vereesa, but the flinched back as if sensing something, clearly afraid. Grede said, "Don't get any closer. Don't scare the poor bastard. I'll do it."
+Jace moved in to take the potion from Vereesa, but the tauren flinched back as if sensing something, clearly afraid. Grede said, "Don't get any closer. Don't scare the poor bastard. I'll do it."
 
 Jace nodded helplessly and watched the dwarf take the healing potion from the elf and feed it to the tauren.
 
@@ -48,13 +48,13 @@ Hearing those words, Vereesa's eyes widened in surprise.
 
 "What?" Jace asked, looking between the tauren and the elf. "Did you understand what that tauren said?"
 
-Vereesa looked at Jace. "He's blessing us."
+Vereesa looked at Jace. "She's blessing us."
 
 "Why didn't you say you speak the tauren language?" Grede asked.
 
-The elf immediately explained, "I don't speak their language. That was Thalassian! Wait, no, that's not Thalassian either… I know — it's the language of the kaldorei around here. It's probably expressing gratitude too."
+The elf immediately explained, "I don't speak their language. That was Thalassian! Wait, no, that's not Thalassian either… I know — it's the language of the Kaldorei around here. It's probably expressing gratitude too."
 
-"He? You said 'he'?" Jace asked. "Are you sure this tauren is a she?"
+"She? You said 'she'?" Jace asked. "Are you sure this tauren is a she?"
 
 Vereesa said, "Because one of the blessing words in that phrase is feminine. If she didn't understand that usage, she wouldn't have deliberately said it that way."
 
@@ -62,7 +62,7 @@ Vereesa said, "Because one of the blessing words in that phrase is feminine. If 
 
 "Ask her where she's from," Jace said.
 
-Vereesa managed a halting exchange with the tauren, then said, "She says she's from a tauren tribe called the Woolbraid. She's the last one left. Most of her kin either went missing in the war or died at the hands of her enemies. I'm guessing the enemies she mentioned are probably the centaurs."
+Vereesa managed a halting exchange with the tauren, then said, "She says she's from a tauren tribe called the Woodmane. She's the last one left. Most of her kin either went missing in the war or died at the hands of her enemies. I'm guessing the enemies she mentioned are probably the centaur."
 
 "Maybe other tauren," Grede said.
 
@@ -72,17 +72,17 @@ Grede asked again, "So is it fair to say that if we hadn't saved her, this tribe
 
 "I think so," Vereesa said.
 
-"Musa," the tauren said, pointing to herself.
+"Mosa," the tauren said, pointing to herself.
 
 "That's her name?" Jace asked.
 
-"Musa?" Grede called out. The tauren looked at him and nodded.
+"Mosa?" Grede called out. The tauren looked at him and nodded.
 
 "Ask her about the druid thing again," Jace reminded her.
 
-Vereesa exchanged a few more words with the tauren named Musa Woolbraid, then recounted to Jace and Grede, "She says she's not a druid. She's a hunter. She just learned a little druid magic from her grandmother in the family many years ago. Her grandmother died a long time ago, so she didn't learn much. But if she hadn't been able to turn into a big cat to survive, she'd probably have been killed along with everyone else in her tribe."
+Vereesa exchanged a few more words with the tauren named Mosa Woodmane, then recounted to Jace and Grede, "She says she's not a druid. She's a hunter. She just learned a little druid magic from her grandmother many years ago. Her grandmother died a long time ago, so she didn't learn much. But if she hadn't been able to turn into a big cat to survive, she'd probably have been killed along with everyone else in her tribe."
 
-Jace nodded. He guessed that the tauren's druidic ways had probably been gradually lost during the war with the centaurs, then later rebuilt together with the night elves.
+Jace nodded. He guessed that the tauren's druidic ways had probably been gradually lost during the war with the centaur, then later rebuilt together with the night elves.
 
 If that was the case, they might have saved one of the very last members of the tauren race who still knew druid magic.
 

@@ -12,13 +12,15 @@ As he passed the rows of pews that had been pressed into service as makeshift be
 
 "He nearly destroyed Dalaran!"
 
-"Did you see that shadow last night? She was ten times bigger than any whelp I've ever seen!"
+"Did you see that shadow last night? She was ten times bigger than any drake I've ever seen!"
 
 "Deathwing… thank the Light he's dead!"
 
 Yeah. Thank the Light he's dead. At this moment, Jace couldn't agree more.
 
-But from what the soldiers were saying, it sounded like Onyxia had actually revealed herself above Stormwind the previous night. After the Obsidian Realm collapsed, he and Grede had fallen from the sky — she'd probably seized the opportunity and escaped the same way. Not far off, Jace noticed a mage in a reddish-brown robe kneeling with his back to the room.
+But from what the soldiers were saying, it sounded like Onyxia had actually revealed herself above Stormwind the previous night. After the Obsidian Realm collapsed, he and Grede had fallen from the sky — she'd probably seized the opportunity and escaped the same way.
+
+Not far off, Jace noticed a mage in a reddish-brown robe kneeling with his back to the room.
 
 He pinched a flame of life from his hand and seared it across the corrosive shadow-flame burn on a soldier's abdomen. The fire licked and licked, the soldier gritting his teeth through the pain for a while — and then the corrosive wound visibly began to fade.
 
@@ -28,7 +30,7 @@ He pinched a flame of life from his hand and seared it across the corrosive shad
 
 Hearing Jace's name, the burned soldier and several nearby priests all looked over.
 
-Krasus said a few words to the soldier, then stood and walked over. "Onyxia has been badly wounded, Jace. Unless she patches her wounds with Truegold as recklessly as Deathwing did, it'll take her many, many years to recover."
+Krasus said a few words to the soldier, then stood and walked over. "Onyxia has been badly wounded, Jace. Unless she patches her wounds with adamantium as recklessly as Deathwing did, it'll take her many, many years to recover."
 
 "And you, Master?" Jace asked.
 
@@ -38,7 +40,7 @@ Jace said, "When we were in Shadowforge City, an orc prisoner told me that Onyxi
 
 Krasus said, "Onyxia didn't flee back to Blackrock Spire. She headed west, out over the sea. I imagine she understands what kind of creature Nefarian is far better than we do."
 
-Jace said, "Last time I traveled to Kalimdor, I encountered some black dragons and dragonkin who claimed they were protecting the Dragonqueen's brood. Onyxia might have headed in that direction."
+Jace said, "Last time I traveled to Kalimdor, I encountered some black dragons and dragonkin who claimed they were protecting their broodmother's young. Onyxia might have headed in that direction."
 
 "Let's hope so." Krasus nodded. "If that she-dragon still remembers to care for her own children, at least it means she hasn't gone as mad as her father and brother."
 
@@ -62,7 +64,7 @@ Looking at the man's build, his solid muscles, and that kind, friendly smile —
 
 "Uh, bad luck," Jace said. "But what are you doing in Stormwind?"
 
-"There's hardly anyone left in Raven Hill," Morgan said. "That demon business in Moonbrook a few months ago… it scared off all the remaining residents for good. Those demons only had to cross a river and walk a short distance to reach the great cemetery. They all left, and there was no one left for me to protect. After that, I brought them back to Glen, but things weren't much better there either. People were causing trouble, and I heard some strange strangers had come to town. I couldn't rest easy with them there either. So I figured I might as well move straight to Stormwind."
+"There's hardly anyone left in Raven Hill," Morgan said. "That demon business in Moonbrook a few months ago… it scared off all the remaining residents for good. Those demons only had to cross a river and walk a short distance to reach the great cemetery. They all left, and there was no one left for me to protect. After that, I brought them back to Grand Hamlet, but things weren't much better there either. People were causing trouble, and I heard some strange strangers had come to town. I couldn't rest easy with them there either. So I figured I might as well move straight to Stormwind."
 
 Strange strangers — wouldn't happen to be that Dagger Society crowd, would it? Jace looked him over but didn't find any Silver Hand insignia. "Did you join the Silver Hand?"
 
@@ -74,7 +76,9 @@ After all, in another timeline, it was because he'd gone north to join the Silve
 
 But now that he'd moved into Stormwind, maybe things would turn out differently.
 
-"I'm genuinely happy for you moving to Stormwind, Morgan," Jace said. "I hope you, Liss, and Sarah are happy here." Morgan said in surprise, "You even remember their names, Jace. Thank you… By the way, what brings you here?"
+"I'm genuinely happy for you moving to Stormwind, Morgan," Jace said. "I hope you, Lys, and Sarah are happy here."
+
+Morgan said in surprise, "You even remember their names, Jace. Thank you… By the way, what brings you here?"
 
 "Ah," Jace said. "I'm looking for His Majesty."
 
@@ -90,7 +94,9 @@ A plainclothes guard stood at the door. When he saw Jace, his eyes widened in su
 
 "It's all right, sir," Jace said. "How is His Majesty?"
 
-"The King didn't sleep all night, but I don't think he suffered any injuries," the guard said. "But…" Jace knew what he was going to say. The Queen.
+"The King didn't sleep all night, but I don't think he suffered any injuries," the guard said. "But…"
+
+Jace knew what he was going to say. The Queen.
 
 "I know. Can I see the King?"
 
@@ -122,7 +128,7 @@ Jace sighed softly and said, "Right now, the important thing — have there been
 
 "Your Majesty…"
 
-"Believe me, I wasn't completely oblivious to the signs, Jace." The King looked up, clutching his chest, and said quietly, "I was deceived, it's true, but I'm not a piece of scrap iron with no feelings or awareness at all. After all, I lived side by side with Tiffin. There are very few people in this world who know her better than I do. But she was pregnant, and those rumors were floating all over the outside — how was I supposed to raise suspicions? She'd either be evasive, or feign illness to avoid people, or deliberately use cruel words to wound my goodwill — she was practically molding me around her finger!"
+"Believe me, I wasn't completely oblivious to the signs, Jace." The King looked up, clutching his chest, and said quietly, "I was deceived, it's true, but I'm not a piece of scrap iron with no feelings or awareness at all. After all, I lived side by side with Tiffin. There are very few people in this world who know her better than I do. But she was pregnant, and those rumors were floating all over the outside — how was I supposed to raise suspicions? She'd either be evasive, or feign illness to avoid people, or deliberately use cruel words to wound my goodwill — she was practically twisting me around her finger!"
 
 Hearing that, Jace suddenly felt something was off. Lived side by side?
 
@@ -130,7 +136,9 @@ Hearing that, Jace suddenly felt something was off. Lived side by side?
 
 "The thought of it makes me sick, Jace." Varian took another deep breath, then said, "Thank goodness she kept finding all sorts of reasons not to let me touch her. Otherwise I'd rather take this knife and slit my throat inch by inch than keep those memories."
 
-"I understand…" Jace said. "But I still want to ask — are you certain she's stayed in the palace the whole time?" Seizing on the implication in Jace's words, the King looked up again, his emotions settling somewhat.
+"I understand…" Jace said. "But I still want to ask — are you certain she's stayed in the palace the whole time?"
+
+Seizing on the implication in Jace's words, the King looked up again, his emotions settling somewhat.
 
 "Well, I can be certain. She was pregnant — could I let her leave? Especially with those demon rumors floating around everywhere, and with you and Mathias constantly worried about dragonkin in the city."
 

@@ -4,7 +4,7 @@ The Sulfuron warhammer had been forged. Ironforge and Aerie Peak had given their
 
 So next came the equally critical step: dealing with the Firelord's runes.
 
-The Flamekeeper Yuldah in Shadowforge City's Thaurissan Temple had once revealed that the Flamewalkers -- the fire lizard lords the Grand Smith had mentioned -- guarded the Firelord's protection runes, just like in the game.
+The Pyromancer Yulda in Shadowforge City's Thaurissan Temple had once revealed that the Flamewakers -- the fire lizard lords the Master Smith had mentioned -- guarded the Firelord's protection runes, just like in the game.
 
 In the game, they protected the Firelord's domain in the physical plane of Blackrock Mountain. Jace still wasn't sure what exactly the protection runes did here.
 
@@ -14,13 +14,13 @@ Early the next morning, while Grede and most of the dwarves were still sound asl
 
 The Red Dragonqueen told them there was a lake southeast of Grim Batol called Loch Valar, or Lake Valar, a suitable place to summon powerful water elementals.
 
-Following the streams near Grim Batol downstream until they reached the winding, wide Valar River, then going upstream against the river's flow toward the Forbidden Sea, about half a day's walk would bring them to the lake.
+Following the streams near Grim Batol downstream until they reached the winding, wide Valar River, then going upstream against the river's flow toward the Forbidding Sea, about half a day's walk would bring them to the lake.
 
 Lake Valar wasn't far from Grim Batol. On a clear morning, from a nearby watchtower that had survived Deathwing's dragonfire, you could even see the lake glinting in the valley. That gave Jace the illusion they'd arrive soon.
 
-So he and Amy didn't trouble Solara, and didn't force the gryphons, who'd just arrived from Ironforge and Aerie Peak carrying the heavy dwarf lords only days ago, to fly again in their exhausted state. The result? They set out early in the morning, circled around a mountain, and by the time they reached the lake, it was nearly evening.
+So he and Amy didn't trouble Sola, and didn't force the gryphons, who'd just arrived from Ironforge and Aerie Peak carrying the heavy dwarf lords only days ago, to fly again in their exhausted state. The result? They set out early in the morning, circled around a mountain, and by the time they reached the lake, it was nearly evening.
 
-The Bato Mountains were not a peaceful place. Fierce, savage gnolls lived here. Since the red dragons had healed the lands around Grim Batol, which the orcs had ravaged, in recent years, some gnolls had moved back from the Wetlands, Loch Modan, and even the Badlands further south to set up camps nearby. So although this trip felt like a leisure hiking trip, they always had to stay alert and avoid falling into gnoll hunting traps.
+The Batol Mountains were not a peaceful place. Fierce, savage gnolls lived here. Since the red dragons had healed the lands around Grim Batol, which the orcs had ravaged, in recent years, some gnolls had moved back from the Wetlands, Loch Modan, and even the Badlands further south to set up camps nearby. So although this trip felt like a leisure hiking trip, they always had to stay alert and avoid falling into gnoll hunting traps.
 
 As they walked, Amy gazed at the island in the middle of the distant lake. "We've known each other for about six or seven years now, but I feel like I've never gone on a trip like this with you. I don't mean just traveling -- I mean 'adventuring' in strange, dangerous places. Though I know even back then, gnolls weren't that scary for you. You and Grede even hunted down the chieftain of the Riverpaw tribe."
 
@@ -34,7 +34,7 @@ As they walked, Amy gazed at the island in the middle of the distant lake. "We'v
 
 Amy smiled too. She lifted her staff, which was set with a blue crystal, walked to the shore, bent down, and touched the lake water. "Right here."
 
-"I read in a book on elemental summoning at the Wizard Sanctum that many water elementals claim their liege Hydraxis is a 'Tide Duke.'" Jace said. "Are you sure you can make him appear in this lake?"
+"I read in a book on elemental summoning at the Wizard's Sanctum that many water elementals claim their liege Hydraxis is a 'Tide Duke.'" Jace said. "Are you sure you can make him appear in this lake?"
 
 "You're not wrong." Amy took two scrolls and a sea-blue crystal from her bag. "The water elementals did tell me that to make the Tide Duke appear using this token and the password incantation, it's best to be on the coast of the Great Sea -- that is, the other side."
 
@@ -66,11 +66,11 @@ Amy stepped back warily. She was a talented frost mage, but even she couldn't co
 
 Without realizing it, the sea-blue crystal had vanished.
 
-The sky grew darker. Jace instinctively picked up Ursales, which was lying nearby, and began mentally reviewing the summoning incantation for Felhounds.
+The sky grew darker. Jace instinctively picked up Ulthalesh, which was lying nearby, and began mentally reviewing the summoning incantation for felhounds.
 
 Suddenly, the lake water in front of them erupted. Bubbles the size of a house surged up from below, then burst, spraying water everywhere. The wind whipped the spray wildly, and when it hit their faces, it stung -- more like ice crystals than water.
 
-Jace noticed that late September in the Bato Mountains should have been cool but with lingering summer warmth. Yet now the air was bitingly cold.
+Jace noticed that late September in the Batol Mountains should have been cool but with lingering summer warmth. Yet now the air was bitingly cold.
 
 "Who summons Hydraxis? I feel this ancient magic is familiar."
 
@@ -80,15 +80,15 @@ Just resisting the wind and rain had exhausted Amy. Whether the summoning ritual
 
 But Jace wasn't much better off. Amid the chaotic elemental forces, he could only look up and barely give a response in elemental speech.
 
-"It's me, Duke Hydraxis! I'm Jace Sesso! I asked Amy Marin to help summon you to the foot of Bato Mountain!"
+"It's me, Duke Hydraxis! I'm Jace Sesso! I asked Amy Malin to help summon you to the foot of the Batol Mountains!"
 
 Amid the roaring tornado, a voice barely recognizable as Common formed again.
 
-"Jace Sesso... the Deathwing ender. I know you. I've heard your name. My servants... gave you the token. Mm... yes."
+"Jace Sesso... the ender of Deathwing. I know you. I've heard your name. My servants... gave you the token. Mm... yes."
 
 "The Sulfuron warhammer has been forged. Next we'll find a way into Shadowforge City. Now it's time for you to help, as agreed!" Jace shouted at the top of his lungs. It felt like fighting a tornado bare-handed.
 
-"Sulfuras, you've already... Mm... the agreement. Blackrock Mountain is the domain of Ragnaros the Firelord. Even I cannot enter... But... accept this thing, human. Mor, Kro, Mes, Seth, Kres, Sere, Blaze... Ragnaros relies on them to remain in Azeroth. They sustain..."
+"Sulfuras, you've already... Mm... the agreement. Blackrock Mountain is the domain of Ragnaros the Firelord. Even I cannot enter... But... accept this thing, human. Mohn, Koro, Mazj, Zeth, Kress, Theri, Blaz... Ragnaros relies on them to remain in Azeroth. They sustain..."
 
 With that, a strikingly tangible arm formed from the spiraling water tornado and reached into the water not far from where Jace and Amy stood. Waves surged toward them. The two turned and ran, sprinting a decent distance before they finally dodged the water's impact.
 
@@ -98,7 +98,7 @@ When they looked back, the tornado had dissipated. The lake had calmed considera
 
 Where the mage pointed, a crystal bottle glowing with a deep blue light lay on the pebbles of the shore. She wouldn't have noticed it if she hadn't pointed.
 
-Jace walked over and picked up the bottle. Was this the Essence of Water? The key item for extinguishing the runes in the game.
+Jace walked over and picked up the bottle. Was this the Aqual Quintessence? The key item for extinguishing the runes in the game.
 
 He silently repeated the seven names Hydraxis had shouted out. They all had a very fire-elemental pronunciation style. Those must be the seven Firelord runes.
 

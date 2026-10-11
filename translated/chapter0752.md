@@ -4,7 +4,7 @@ Leaving the palace, Jace felt unsettled.
 
 The king's worries were certainly not without cause — they were, in fact, extremely well-founded.
 
-Although in the game, Onyxia disguised as Katrana Prestor hadn't appeared in Stormwind yet, and there was no news of her so far. Jace had only heard that members and relatives of the Prestor family were now trying to find out where the "real" Duke Daval Prestor had gone.
+In the game's story, Onyxia disguised as Katrana Prestor hadn't appeared in Stormwind yet, and there was no news of her so far. Jace had only heard that members and relatives of the Prestor family were now trying to find out where the "real" Duke Daval Prestor had gone.
 
 But that didn't mean there weren't other black dragons hiding in Stormwind.
 
@@ -12,11 +12,11 @@ Moreover, as the only one among the court mages who used dark magic, finding a w
 
 The problem was, he had absolutely no way to see through the disguises of black dragons.
 
-Never mind black dragon disguises — even Vaelastrasz disguised as the red mage Vielan, he couldn't see the dragon's true form at all.
+Never mind black dragon disguises — even Vaelastrasz disguised as the red mage Vaelan, he couldn't see the dragon's true form at all.
 
 And Krasus, who made no effort to conceal his immense power, Jace remembered that when he'd seen him by the canal, he'd only felt that this was a grand mage brimming with abundant, fervent power. If he hadn't known the plot in advance, he wouldn't have been able to connect that tall Quel'dorei with a dragon either.
 
-Jace remembered the Alliance quest line in the game that was very famous for the Princess of the Black Dragonflight. One stage involved infiltrating the Dark Iron dwarves' underground capital, Shadowforge City, to obtain a spell recorded that could expose dragon disguises.
+Jace remembered the famous Alliance quest line in the game about the princess of the Black Dragonflight. One stage involved infiltrating the Dark Iron dwarves' underground capital, Shadowforge City, to obtain a recorded spell that could expose dragon disguises.
 
 If there were a way to obtain that spell, the work of exposing hidden black dragons would become convincing.
 
@@ -24,7 +24,7 @@ But getting into Shadowforge City here… wasn't as simple as in the game. He'd 
 
 No matter how he planned it, he'd be dealing with SI:7 next, and Jace felt that dealing with these people was what he was worst at.
 
-After leaving the palace at noon, Jace habitually headed to the Pig and Whistle Inn in Old Town. There weren't many people around at this hour, so he could comfortably pick a suitable, inconspicuous spot… wait.
+After leaving the palace at noon, Jace habitually headed to the Pig and Whistle Tavern in Old Town. There weren't many people around at this hour, so he could comfortably pick a suitable, inconspicuous spot… wait.
 
 "Grede."
 
@@ -42,7 +42,7 @@ A voice answered from somewhere. Jace glanced over but couldn't see anyone. "Nor
 
 "It's not coming out of your pocket," Grede said, propping his mug. "And now that you've bought a house, what else is that extra money for? Grizzly bear meat isn't going to cost you fifty gold."
 
-"Ylgalag, Grede!" Jace sighed. "The condition of that tower is, holy shit… I don't know how to describe it. Maybe you should go see it for yourself."
+"Ilgalar, Grede!" Jace sighed. "The condition of that tower is, holy shit… I don't know how to describe it. Maybe you should go see it for yourself."
 
 "Ah, right, well then eating some grizzly bear meat is exactly the right thing to give you plenty of energy to throw yourself into your next job," Grede said, snapping his fingers and calling, "Ale!"
 
@@ -68,7 +68,9 @@ Just then the barmaid was heading over. Jace watched a huge slab of meat placed 
 
 "Back then I didn't care at all about what there was to eat," Jace said, staring at the blood streaks in the meat. "But remember that bear meat steak in Thelsamar? That smell… will this method really work?"
 
-"Are you going to eat it or not?" Grede asked. "Eat."
+"Are you going to eat it or not?" Grede asked.
+
+"I'll eat."
 
 Jace was starving anyway. He grabbed a piece and stuffed it into his mouth, feeling like he'd slid an entire giant meatworm into his mouth in one go.
 
@@ -78,16 +80,18 @@ Suddenly, the assignments waiting for him, all kinds of troubles… the places w
 
 "I'll have some more bread," Jace said, washing his mouth out with the last few sips of ale from the dwarf's mug across from him, licking his teeth and gums. "One more thing, Grede. Also very important. I think I might need to make another trip to Kalimdor."
 
-Grede smiled and said, "You're not going there just to give me an excuse to go back and see Mosha, are you?"
+Grede smiled and said, "You're not going there just to give me an excuse to go back and see Mosa, are you?"
 
 "Go back? You really do treat Kalimdor as home," Jace shot him a look. "But if you really think that, there's nothing I can do about it. The main thing is…"
 
 He glanced around to make sure no one was nearby, then continued, "Remember that scythe from before? It seems like there's a lead now, though it still needs further confirmation. I need to get this matter cleared up during this period."
 
-"I understand. If we really are going back to Kalimdor, be sure to call me," Grede said. "Of course," Jace said.
+"I understand. If we really are going back to Kalimdor, be sure to call me," Grede said.
+
+"Of course," Jace said.
 
 "What about the little elf? Are you planning to ask her to come too?" Grede asked.
 
-Jace said, "She's a proper Ranger-Lord now. I don't know if she can get away. Back at Stonewatch, I wrote her a letter, and there's still no reply. I don't know if there's a problem with Stonewatch's communication efficiency."
+Jace said, "She's a proper Ranger Lord now. I don't know if she can get away. Back at Stonewatch, I wrote her a letter, and there's still no reply. I don't know if there's a problem with Stonewatch's communication efficiency."
 
 "Whether she can get away for Kalimdor, I don't know," Grede said. "But she at least has time to come to Stormwind. Why don't you just go to the Mage Quarter and find her to 'hear the reply'?"

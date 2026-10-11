@@ -1,12 +1,12 @@
 ## Chapter 1566: The Abandoned Hall
 
-After the seven sages' souls vanished, two stone doors slowly creaked open at the far high end of the Summoners' Hall. Thaurissan walked through, then turned and beckoned to Jace, who'd been lingering at the entrance. Jace followed.
+After the seven sages' souls vanished, two stone doors slowly creaked open at the far high end of the Summoners' Tomb. Thaurissan walked through, then turned and beckoned to Jace, who'd been lingering at the entrance. Jace followed.
 
 It was a deep passage lit only by braziers, with no guards or anyone else around. The nobles and mages hadn't followed, so it was just the emperor and Jace climbing higher.
 
-The adrenaline from the continuous battles was only now beginning to cool. The wounds from shadow corrosion, Holy Light burns, and spectral lacerations pulsed with every heartbeat. Jace had thought this path would lead to the Lecture Hall like in the game, but after countless steps — and a stream of discomfort threatening to exhaust his patience — they suddenly arrived at a strange, empty hall.
+The adrenaline from the continuous battles was only now beginning to cool. The wounds from shadow corrosion, Holy Light burns, and spectral lacerations pulsed with every heartbeat. Jace had thought this path would lead to the Lyceum like in the game, but after countless steps — and a stream of discomfort threatening to exhaust his patience — they suddenly arrived at a strange, empty hall.
 
-This definitely wasn't the Lecture Hall. It was far less grand, slightly dilapidated, as though no one had been here in ages.
+This definitely wasn't the Lyceum. It was far less grand, slightly dilapidated, as though no one had been here in ages.
 
 At the far end of the hall was a terrace. Walking to its edge, you could see the magnificent black abyss outside and the lava flowing at the very bottom.
 
@@ -16,7 +16,7 @@ At the far end of the hall was a terrace. Walking to its edge, you could see the
 
 "Did many people pass all four rounds of trial?" Jace asked.
 
-"A few." Thaurissan said. "But their trials were different from yours. They only had to pick three of the six sages besides Master Dumrel."
+"A few." Thaurissan said. "But their trials were different from yours. They only had to pick three of the six sages besides Master Doom'rel."
 
 "Then why did I have to face all of them?" Jace asked.
 
@@ -40,9 +40,9 @@ Thaurissan looked up. "When you send your most trusted warriors to the Firelord,
 
 "You're telling me all this because it means you're willing to believe I'm not a black dragon." Jace said.
 
-"You were right about one thing before. The couple's rings left by Empress Zoe can only track red dragon blood. I can't be sure they can track black dragons." Thaurissan admitted. "That's why I sent people everywhere looking for ways to see through a black dragon's disguise."
+"You were right about one thing before. The pair of rings left by Empress Zoe can only track red dragon blood. I can't be sure they can track black dragons." Thaurissan admitted. "That's why I sent people everywhere looking for ways to see through a black dragon's disguise."
 
-"Shadowforge City hasn't provoked the red dragons in years. In fact, we share a powerful common enemy right now — Victor Nefarian. I couldn't understand why a red dragon would disguise themselves as Twilight's Hammer to infiltrate my palace. So I suspected you might actually be a black dragon, and maybe the rings could identify other dragon blood too."
+"Shadowforge City hasn't provoked the red dragons in years. In fact, we share a powerful common enemy right now — Victor Nefarius. I couldn't understand why a red dragon would disguise themselves as Twilight's Hammer to infiltrate my palace. So I suspected you might actually be a black dragon, and maybe the rings could identify other dragon blood too."
 
 "But if you really are that young mage, then everything makes sense. Add in the demonic spells you used fighting the sages... the rumors say you and Thunderfist defeated Nefarian's sister Onyxia face to face. Now we believe it."
 
@@ -50,7 +50,7 @@ The Dark Iron emperor leaned against the wall, staring at the lava below in sile
 
 "The Sulfuron Hammer is in Shadowforge City." Jace said.
 
-"No, no, no." Thaurissan's dark brows knitted together. "Never mind how you made it — there's no way you can get it past all those flames and soldiers. Unless I talk to Forgewright about it."
+"No, no, no." Thaurissan's dark brows knitted together. "Never mind how you made it — there's no way you can get it past all those flames and soldiers. Unless I talk to Angerforge about it."
 
 "I am His Majesty King Varian's Black Magic Advisor." Jace said. "I have my ways of smuggling things in. We plan to let that hammer unleash its true power during the rune-reinforcement ceremony."
 
@@ -64,7 +64,7 @@ Thaurissan shook his head. "You're not qualified to attend that ceremony, Jace S
 
 Another rumble came from deep underground. Dagran Thaurissan stared at Jace for a long moment. "What if we help and you still fail? You can blink out of a ring of fire with teleportation or a demonic ritual in a second, but what about me and my country? My people? Is that what the Wildhammers and Bronzebeards want to see?"
 
-He lowered his voice. "You forged the Sulfuron Hammer. You even found a way to destroy Executus's runes. I admire your courage and ability. When the moment comes, I will act to assist you. I can even help you deal with those mad Flamewielders, deal with that ancient temple named after my family."
+He lowered his voice. "You forged the Sulfuron Hammer. You even found a way to destroy Executus's runes. I admire your courage and ability. When the moment comes, I will act to assist you. I can even help you deal with those mad pyromancers, deal with that ancient temple named after my family."
 
 "Once victory is achieved, I will help the Alliance attack the black dragons' Blackrock Spire on King Varian Wrynn's terms. If Magni Bronzebeard is willing to express his gratitude to me in person, I can even withdraw my forces from Khaz Modan for the sake of this friendship and stop raiding the trade routes from Menethil Harbor, the Thandol Span, to Thelsamar."
 

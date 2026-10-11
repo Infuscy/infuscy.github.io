@@ -24,7 +24,7 @@ Jace glanced up at him. "First you treat me to grilled meat, then you ask about 
 
 Watching the serving girl bring over a plate of bone-in lion chops, Grede licked his lips and said, "As for asking about your leg — of course it's not purely out of concern. I want to resume our lessons as soon as possible."
 
-"I've already ordered a sword," Jace said. "Made to match yours. I had the smith in the Dwarf District do it. Swing by and pick it up when you've got time."
+"I've already ordered a sword," Jace said. "Made to match yours. I had the smith in the Dwarven District do it. Swing by and pick it up when you've got time."
 
 "Eager, aren't you. I thought once you learned some…" He glanced at a nearby customer and lowered his voice. "That magic of yours, you'd completely lose interest in learning the sword."
 
@@ -36,7 +36,7 @@ Jace watched Grede happily tearing through meat, mouthful after mouthful, and to
 
 As things stood, only shadow magic had opened its arms to him. Only this path was passable.
 
-Whether it was the resources the Wizard Sanctum provided, or the warlock relics he'd stumbled across by chance in Duskwood — these were conveniences that the other possible paths had yet to offer, by a long shot.
+Whether it was the resources the Wizard's Sanctum provided, or the warlock relics he'd stumbled across by chance in Duskwood — these were conveniences that the other possible paths had yet to offer, by a long shot.
 
 The Holy Light had rejected him. The Arcane had rejected him. Necromantic magic… he was even less likely to consider that. He'd come to Stormwind specifically to escape the Scourge — was he going to end up becoming the Scourge himself?
 
@@ -60,45 +60,45 @@ He'd heard this voice somewhere before, but the person was deliberately keeping 
 
 Jace nodded and, following his captor's directions, walked into a small alley next to the wine shop. The person behind him finally spoke in a normal voice: "Remember me?"
 
-It was Gajin's voice.
+It was Gakin's voice.
 
 Jace had known this guy would find a way to get back at him. He'd been on his guard for days — he'd just let his guard down a little tonight after having a meal with Grede, and the guy had seized his chance.
 
-"I remember. Gajin. We met in Old Town."
+"I remember. Gakin. We met in Old Town."
 
 "Good that you remember. Tell me — why didn't my Fear work on you? And where did you learn it?"
 
 "Your incantation wasn't clear," Jace said.
 
-"Impossible," Gajin said. "I learned it from a Dark Iron dwarf. Since you're a warlock too, you should know there's no one in this world who understands shadow magic better than the Dark Iron clan. Come clean — you definitely used some kind of…"
+"Impossible," Gakin said. "I learned it from a Dark Iron dwarf. Since you're a warlock too, you should know there's no one in this world who understands shadow magic better than the Dark Iron clan. Come clean — you definitely used some kind of…"
 
-Jace suddenly drove his elbow hard into Gajin's face. While the man winced and recoiled, Jace grabbed the right hand holding the dagger.
+Jace suddenly drove his elbow hard into Gakin's face. While the man winced and recoiled, Jace grabbed the right hand holding the dagger.
 
-Gajin couldn't match his strength. After Jace seized his hand and wrenched it hard, he let go of the dagger with a clatter on the pavement.
+Gakin couldn't match his strength. After Jace seized his hand and wrenched it hard, he let go of the dagger with a clatter on the pavement.
 
-With the dagger out of the picture, Jace had nothing left to worry about. He landed a straight punch across Gajin's cheek. The man staggered back a few steps and leaned against the wall, looking over, licking his teeth and touching his nose. There was already some blood.
+With the dagger out of the picture, Jace had nothing left to worry about. He landed a straight punch across Gakin's cheek. The man staggered back a few steps and leaned against the wall, looking over, licking his teeth and touching his nose. There was already some blood.
 
 He glanced at the dagger. Jace stepped on it with one foot. "So what are you going to do now? Recite a spell?"
 
-"I know at this distance there's absolutely no way I can successfully cast any magic," Gajin said.
+"I know at this distance there's absolutely no way I can successfully cast any magic," Gakin said.
 
-"Glad you know." Jace smiled. "You and Sulenna Kayldon still owe me two silver from last time. But considering how things turned out, I won't hold it against you."
+"Glad you know." Jace smiled. "You and Surena Caledon still owe me two silver from last time. But considering how things turned out, I won't hold it against you."
 
-"I don't care about those two silver, young man," Gajin said. "I'm just curious why my Fear didn't work on you."
+"I don't care about those two silver, young man," Gakin said. "I'm just curious why my Fear didn't work on you."
 
-"It did work," Jace said. "But not everyone freaks out, Gajin. Some people can stand right where they are and keep their wits even after being hit by a Fear more powerful than yours, instead of immediately panicking and running."
+"It did work," Jace said. "But not everyone freaks out, Gakin. Some people can stand right where they are and keep their wits even after being hit by a Fear more powerful than yours, instead of immediately panicking and running."
 
 Of course, he wasn't talking about himself — he'd gotten through it with a Shadow Protection Potion.
 
 He was talking about Grede. Grede had taken his Fear head-on, just like those wolves had, and that was the version empowered by that strange staff. Yet he'd recovered on his own in not very long at all.
 
-But Gajin's words had also cleared up one of Jace's lingering questions — why reproducing a spell he'd heard from the mouth of a third-rate warlock like this had produced an immediate effect.
+But Gakin's words had also cleared up one of Jace's lingering questions — why reproducing a spell he'd heard from the mouth of a third-rate warlock like this had produced an immediate effect.
 
 So it wasn't some third-hand spell he'd picked up through hearsay. It was a real spell, learned from a dwarf who'd actually studied dark magic.
 
 This warlock leader did have something to his name after all. Maybe the whole organization wasn't as simple as he'd first imagined.
 
-"I understand." Gajin thought for a moment before speaking. "The dwarf told me Fear doesn't work to its full effect on everyone. But before this, it worked well on beasts, and it worked fine on a beggar too. I didn't expect a young man to shrug it off."
+"I understand." Gakin thought for a moment before speaking. "The dwarf told me Fear doesn't work to its full effect on everyone. But before this, it worked well on beasts, and it worked fine on a beggar too. I didn't expect a young man to shrug it off."
 
 "Well then, consider this dagger compensation for threatening me — and it covers that two-silver debt while you're at it." Jace tucked the rather handsome-looking knife into his belt. "Next time you try to jump me, I won't be this polite."
 
@@ -110,47 +110,36 @@ Now he understood even more deeply why Grede had him practicing the sword. Befor
 
 At this stage, close-combat technique and physical fitness were incredibly important in actual fights. Magic could only play a supporting role.
 
-Just as he was about to leave, Gajin suddenly asked, "Right — your name is Jace, if I remember correctly."
+Just as he was about to leave, Gakin suddenly asked, "Right — your name is Jace, if I remember correctly."
 
 "What are you after? Going to report me to the Church?" Jace turned his head. "I know what your whole crew is about. We report each other and see who ends up worse."
 
-"Of course not. Nobody wants it to come to mutual destruction." Grede brushed the dust off his clothes and stood up. "But you make a good point. We're in the same boat now."
+"Of course not. Nobody wants it to come to mutual destruction." Gakin brushed the dust off his clothes and stood up. "But you make a good point. We're in the same boat now."
 
 Jace knew what he meant.
 
 "You want me to join you?"
 
-Gajin nodded. "Not just that. Right now we… are lacking fighters like you. We only have one Erland Dedemore, but although he's part of our crew, he has no patience for studying magic. He's one of the Stonemasons. He came to the Slaughtered Lamb by accident, and I'm sure he didn't come to study magic either. All he does here is throw his weight around, using his strength to threaten me and the other members. I hope to have someone who can keep him in check, and these days there are too few people willing to pursue the dark arts — and among them, even fewer young people with both courage and strength. I don't want to let a talented potential member like you slip away."
+Gakin nodded. "Not just that. Right now we… are lacking fighters like you. We only have one Erlan Drudgemoor, but although he's part of our crew, he has no patience for studying magic. He's one of the Stonemasons. He came to the Slaughtered Lamb by accident, and I'm sure he didn't come to study magic either. All he does here is throw his weight around, using his strength to threaten me and the other members. I hope to have someone who can keep him in check, and these days there are too few people willing to pursue the dark arts — and among them, even fewer young people with both courage and strength. I don't want to let a talented potential member like you slip away."
 
-Erland Dedemore — that was the young bruiser who'd been carrying on with Sulenna the first time Jace walked into the Slaughtered Lamb.
+Erlan Drudgemoor — that was the young bruiser who'd been carrying on with Surena the first time Jace walked into the Slaughtered Lamb.
 
-Back then Jace still hadn't figured out what was going on, and he'd been afraid of getting killed by accident from shadow magic. And Erland was built like a bear — there was no way he could've fought back.
+Back then Jace still hadn't figured out what was going on, and he'd been afraid of getting killed by accident from shadow magic. And Erlan was built like a bear — there was no way he could've fought back.
 
-But no matter how strong he was… he was still just a mortal. Since Jace had already set foot on this path, he shouldn't be afraid of this man. Gajin's knowledge, on the other hand, was far more important to him.
+But no matter how strong he was… he was still just a mortal. Since Jace had already set foot on this path, he shouldn't be afraid of this man. Gakin's knowledge, on the other hand, was far more important to him.
 
 Jace asked. "So you don't hold a grudge about the night I hit you with Fear?"
 
-"On the path of pursuing the dark arts, there are sacrifices and setbacks far greater than that," Gajin said. "But a sacrifice can never be without value. I think the reward this time around is meeting you."
+"On the path of pursuing the dark arts, there are sacrifices and setbacks far greater than that," Gakin said. "But a sacrifice can never be without value. I think the reward this time around is meeting you."
 
 Jace thought it over. "I have conditions too."
 
-"Of course," Gajin said. "We're not wealthy, but we do have some money. If you're willing to join us…"
+"Of course," Gakin said. "We're not wealthy, but we do have some money. If you're willing to join us…"
 
 "Money is a must, but it's secondary," Jace said. "After I join, the first thing you do is teach me a spell that's actually worth something."
 
-"Now that's the spirit. That meat-headed fool Erland would never make a demand like that in his life. And this — this is exactly why we founded this organization, Jace." Gajin said excitedly. "Rest assured, on your very first day I'll teach you a spell that's absolutely worth your while. You'll be satisfied."
+"Now that's the spirit. That meat-headed fool Erlan would never make a demand like that in his life. And this — this is exactly why we founded this organization, Jace." Gakin said excitedly. "Rest assured, on your very first day I'll teach you a spell that's absolutely worth your while. You'll be satisfied."
 
 "Also, I'm not your student," Jace added.
 
-"Of course. We're partners. Colleagues. Friends." Grede said with a smile.
-
-## Flags
-
-- **苏伦娜·凯尔东** → "Sulenna Kayldon": "Sulenna" is in the glossary; the surname 凯尔东 is not. Tentative romanization "Kayldon."
-- **埃尔兰·杜德摩尔** → "Erland Dedemore": not in glossary; OC warlock/Stonemason member. Tentative romanization. (Note: distinct from the glossary's "Erland [OC?]" the smooth warlock — different surname, different person; flagged.)
-- **加金** → "Gajin": not in glossary; Slaughtered Lamb warlock leader. Tentative romanization (used again here).
-- **恐惧术** → "Fear": canonical WoW warlock spell; not in glossary. Rendered as the standard English spell name.
-- **"黑铁部族"** → "Dark Iron clan": the glossary has 黑铁 = Dark Iron (dwarven clan); "部族" rendered as "clan" for natural dwarven register.
-- **"杰斯小弟"** → rendered as "Jace, lad" / kept the patronizing "小弟" tone; chose to render Erland's line as addressing him with familiar condescension without EyeDialect.
-- **石工兄弟会** → "the Stonemasons": in glossary as the Stonemasons.
-- **"摆拳"** → "straight punch": a 摆拳 is technically a hook/swing, but in context Jace closes and lands a clean blow; rendered as "straight punch" for a natural close-combat read. (Could also be "hook" — flagged for reviewer preference.)
+"Of course. We're partners. Colleagues. Friends." Gakin said with a smile.

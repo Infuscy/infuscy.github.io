@@ -6,9 +6,9 @@ By comparison, even the storms over Baradin Bay seemed gentle and warm. Taking a
 
 Even a year ago, for Jace, traveling to Sentinel Hill had been an ordeal — requiring planning, arranging a wagon, packing rations... Even the miners and travelers at Sentinel Hill had all looked menacing and ill-intentioned.
 
-Now he rode Alna at an easy pace down the main road through the middle of Elwynn Forest, feeling her steady, reassuring hoofbeats, listening to the birds singing in the forest.
+Now he rode Arna at an easy pace down the main road through the middle of Elwynn Forest, feeling her steady, reassuring hoofbeats, listening to the birds singing in the forest.
 
-As long as a couple of Hogger didn't jump out of the roadside again, nothing could rattle him now.
+As long as a couple of Hoggers didn't jump out of the roadside again, nothing could rattle him now.
 
 Two wagons slowly approached from the distance. The leader of the caravan rode up to Jace, shouting over the clatter of wheels on cobblestones: "Mage, is the road ahead to town still safe?"
 
@@ -36,13 +36,13 @@ A few people sitting in the back of one of the wagons started chatting.
 
 The voices faded as the caravan moved off, but that last curse was especially loud, startling a small flock of birds from the roadside trees.
 
-Jace arrived at the Westfall Keep relay station that afternoon, buying some peaches and corn kernels from the merchants resting there to feed Alna.
+Jace arrived at the Westbrook Garrison relay station that afternoon, buying some peaches and corn kernels from the merchants resting there to feed Arna.
 
 While feeding the horse, looking out at the open ground beyond the watchtower, Jace noticed that the garrison here had been reduced significantly. Now that the Riverpaw gnoll threat had eased considerably, the kingdom's biggest problem must lie north of Redridge.
 
 Since the King already knew that black dragons had infiltrated the Redridge area and were likely in league with the Blackrock orcs — or even the Dragonmaw orcs — then defending the canyon that led from the Burning Steppes into Redridge was the top priority.
 
-Jace gazed into the shadows of the trees by the river and thought of how, a decade or so later in the game, Stonewatch had been retaken by the Blackrock tribe with the help of black dragons, and the roads around Lakeshire were being directly threatened by black dragon whelps and Blackrock vanguard orcs. Neither commerce nor travel was really possible anymore.
+Jace gazed into the shadows of the trees by the river and thought of how, a decade or so later in the game, Stonewatch had been retaken by the Blackrock clan with the help of black dragons, and the roads around Lakeshire were being directly threatened by black dragon whelps and Blackrock vanguard orcs. Neither commerce nor travel was really possible anymore.
 
 The gnolls had also made a comeback as the security situation around Lakeshire grew worse and worse. Redridge had become several times more dangerous than it was now.
 
@@ -50,13 +50,13 @@ The gnolls had also made a comeback as the security situation around Lakeshire g
 
 A man's voice came from behind him.
 
-Jace turned to see a somewhat portly, very sturdy-looking man watching him. He wore the chainmail vest of a Westfall Keep guard, holding a nasal helmet in his arms, his hair likely damp from wearing a helmet too long.
+Jace turned to see a somewhat portly, very sturdy-looking man watching him. He wore the chainmail vest of a Westbrook Garrison guard, holding a nasal helmet in his arms, his hair likely damp from wearing a helmet too long.
 
 Still, this face looked familiar to Jace — he just couldn't place who it was.
 
 "It really is you. Finally ran into you again," the man said with a nod.
 
-"Have we met?" he asked.
+"Have we met?" Jace asked.
 
 "You probably don't remember me," the man said. "We met before, when the army was still stationed here, down in the camp below."
 
@@ -70,7 +70,7 @@ Jace said helplessly, "I'm sorry, Mr. Chambers. I never did find out where your 
 
 Egmont tapped his temple. "I've realized there's something wrong with my head, mage. Realized it not long after meeting you. They were right — I ran into a naga monster. That snake woman used some dark magic to mess with my mind."
 
-"Later I went to Stormwind and stayed near the Cathedral square for two or three months. The priests cured me of that problem where I kept dreaming about that naga. I'm fine now. The Westfall Keep sheriff was willing to let me stay and guard this keep. I'm doing all right."
+"Later I went to Stormwind and stayed near the Cathedral Square for two or three months. The priests cured me of that problem where I kept dreaming about that naga. I'm fine now. The Westbrook Garrison sheriff was willing to let me stay and guard this keep. I'm doing all right."
 
 "That's wonderful," Jace said with a nod.
 
@@ -84,7 +84,7 @@ Jace rolled up his robe's sleeve and showed him the bead string. "This one?"
 
 "That's it... that's really it. You actually killed her." Egmont was stunned for a moment. "I understand now — it must have been her dying that freed me from her control. So you actually saved me. What can I do to repay you..."
 
-"Just take care of yourself, Mr. Chambers," Jace said. "Next time you run into a naga, be careful and don't be fooled so easily. Because if you get controlled by charm magic again, the Wizard Sanctum is going to send me to deal with it again. You know what I mean, right? I don't want to deal with another naga sea witch — the last one nearly cost me my life."
+"Just take care of yourself, Mr. Chambers," Jace said. "Next time you run into a naga, be careful and don't be fooled so easily. Because if you get controlled by charm magic again, the Wizard's Sanctum is going to send me to deal with it again. You know what I mean, right? I don't want to deal with another naga sea witch — the last one nearly cost me my life."
 
 "It won't happen again, I promise... I've come to deeply realize how much trouble I've caused here," Egmont nodded. "Given the crimes I've committed, I should be thrown in the Stormwind jail. I don't know what happened to all the people I deceived. I hope they just thought I was a harmless lunatic..."
 

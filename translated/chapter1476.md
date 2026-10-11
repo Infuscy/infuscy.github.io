@@ -2,9 +2,9 @@
 
 "Perfect timing, Jace."
 
-When Jace entered the Grand Library, Khadgar was sitting at a desk, eating something from a plate. He sucked his fingers and said, "Come here, try this fish. But more importantly... the spices used in this meat. Absolutely extraordinary. I found a way into the kitchen. The pantry there hasn't been destroyed yet, so Medivh's magic lingering in Karazhan isn't all bad!"
+When Jace entered the Great Library, Khadgar was sitting at a desk, eating something from a plate. He sucked his fingers and said, "Come here, try this fish. But more importantly... the spices used in this meat. Absolutely extraordinary. I found a way into the kitchen. The pantry there hasn't been destroyed yet, so Medivh's magic lingering in Karazhan isn't all bad!"
 
-"Medivh lets you eat in the Grand Library?" Jace asked.
+"Medivh lets you eat in the Great Library?" Jace asked.
 
 Khadgar shot him a displeased sideways glance. "Since when did you get so proper? I've spent a week or two of work cleaning up the mess he and his mother left here. I think I'm entitled to a little enjoyment. Besides, he's not here watching."
 
@@ -34,11 +34,11 @@ Having seen so many mirror images in Karazhan, it would be a lie to say he didn'
 
 "What did you try to simulate?" Khadgar asked.
 
-"Medivh mentioned that observing and understanding the enemy's spell was crucial, so I picked shadow magic." Jace said. "I tried to simulate Mor'fel's Shadowstep. It failed. It was my first attempt, but I had trouble grasping the feeling Medivh described in the book."
+"Medivh mentioned that observing and understanding the enemy's spell was crucial, so I picked shadow magic." Jace said. "I tried to simulate Morophil's Shadowstep. It failed. It was my first attempt, but I had trouble grasping the feeling Medivh described in the book."
 
-"Hmm." Khadgar said slowly. "Shadowstep is one of the abilities Sayad demons excel at most. Those creatures are masters at using shadow energy to accomplish all kinds of unimaginable things — cloaking themselves with shadow, cloaking incoming spells with shadow. Remember the Starry Hall? How Mor'fel used shadow energy to block all that 'priest's' attacks?"
+"Hmm." Khadgar said slowly. "Shadowstep is one of the abilities sayaad demons excel at most. Those creatures are masters at using shadow energy to accomplish all kinds of unimaginable things — cloaking themselves with shadow, cloaking incoming spells with shadow. Remember the Observatory? How Morophil used shadow energy to block all that 'priest's' attacks?"
 
-"You mean my understanding of Shadowstep is different from a Sayad demon's." Jace said. "That caused the deviation."
+"You mean my understanding of Shadowstep is different from a sayaad demon's." Jace said. "That caused the deviation."
 
 "Yes." Khadgar said. "Although I don't have any particular talent for manipulating shadow, or emotions for that matter, based on my understanding of this kind of magic, that might be the problem. And Medivh... you know the other soul inside him was manipulating part of his consciousness. At that time, he was a fusion of demon and human, taking the strengths of both sides in understanding demon magic and shadow magic. Naturally, he found it as easy as eating and drinking."
 
@@ -48,23 +48,23 @@ Having seen so many mirror images in Karazhan, it would be a lie to say he didn'
 
 "Does that mean if I want to use this spell to simulate arcane magic in the future, it'll be incredibly difficult?" Jace asked.
 
-"But you have arcane spells you've mastered well." Khadgar said. "Arcane Intelligence. Mage Armor. See, Arcane Intelligence is basic, but it's still a highly malleable enchantment spell. And Mage Armor is a relatively high-level protection spell, since it involves multiple elements. So I'm guessing you're mostly bad at summoning and transmutation spells. That's not uncommon among novice mages or apprentices in Dalaran."
+"But you have arcane spells you've mastered well." Khadgar said. "Arcane Intellect. Mage Armor. See, Arcane Intellect is basic, but it's still a highly malleable enchantment spell. And Mage Armor is a relatively high-level protection spell, since it involves multiple elements. So I'm guessing you're mostly bad at summoning and transmutation spells. That's not uncommon among novice mages or apprentices in Dalaran."
 
-"Actually, I'm not particularly good at Arcane Intelligence either." Jace said. "Even now, I'm easily disoriented by the difference between myself with Arcane Intelligence and myself without it."
+"Actually, I'm not particularly good at Arcane Intellect either." Jace said. "Even now, I'm easily disoriented by the difference between myself with Arcane Intellect and myself without it."
 
-"That's perfectly normal. Even old mages like Antonidas have similar issues." Khadgar stood up. "In fact, many mages have ultimately died from the madness caused by Arcane Intelligence — though mostly from privately modifying the spell. Wisdom, knowledge — these are dangerous words, no less so than shadow or fel... Let's try Mage Armor."
+"That's perfectly normal. Even old mages like Antonidas have similar issues." Khadgar stood up. "In fact, many mages have ultimately died from the madness caused by Arcane Intellect — though mostly from privately modifying the spell. Wisdom, knowledge — these are dangerous words, no less so than shadow or fel... Let's try Mage Armor."
 
 "You want me to try simulating Mage Armor?" Jace asked.
 
 "We're free anyway. The Curator's rebooting." Khadgar handed *Dark Simulacrum* back to Jace. "Let's find a corridor without books to try? I'm very curious about this spell too."
 
-"But don't aim Usaalas at me," the mage warned.
+"But don't aim Ulthalesh at me," the mage warned.
 
 "I know." Jace said.
 
-The two left the library hall and entered a pitch-black corridor nearby. Khadgar raised his hand, lighting the chandelier with arcane magic. "Which version of Mage Armor did Master Marin teach you? Sylva's Spinning Armor? Modae's Spiritual Armor? Or Tyneborus's Dark Ward?"
+The two left the library hall and entered a pitch-black corridor nearby. Khadgar raised his hand, lighting the chandelier with arcane magic. "Which version of Mage Armor did Master Malin teach you? Sylva's Spinning Armor? Morae's Spiritual Armor? Or Tenebrous's Warding Against Evil?"
 
-"I learned Master Tyneborus's Dark Ward, but mostly the basic Mage Armor." Jace answered.
+"I learned Master Tenebrous's Warding Against Evil, but mostly the basic Mage Armor." Jace answered.
 
 "Basic Mage Armor then." Khadgar positioned himself about ten meters away and raised one hand. "Ready?"
 
@@ -72,7 +72,7 @@ Jace set down the grimoire. "Ready."
 
 Shadow energy gathered around him. Khadgar began chanting loudly at the same time. The mage's casting was deliberately slow and careful — Jace knew it was to let him see clearly.
 
-This time, it was very different from the attempt to capture Mor'fel's Shadowstep. It felt like reading a passage he'd already memorized.
+This time, it was very different from the attempt to capture Morophil's Shadowstep. It felt like reading a passage he'd already memorized.
 
 At the same time, Jace channeled his observation and perception into the shadow, letting it "spontaneously" imitate the way Medivh had described.
 
@@ -82,7 +82,7 @@ The arcane energy he'd summoned didn't form protective arcane elements around hi
 
 Khadgar reacted instantly. Layers of frost enveloped him from head to toe as flash-freeze attempted to protect him. But the shadow energy still penetrated his body in advance. His face twisted in agony before the ice fully encased him.
 
-"Ukh'roni, Mor'gak, Tam!"
+"Yukroni, Morgak, Tam!"
 
 Jace shouted the words to the Shadow Cleansing spell, forcibly tearing the layers of shadow energy apart and pulling them away. Only when the shadow was completely separated from the Ice Barrier did the mage finally release the freeze, catching his breath with his hands on his knees.
 

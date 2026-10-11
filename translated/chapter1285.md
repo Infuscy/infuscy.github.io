@@ -38,11 +38,11 @@ The stone room carried the scent of Sunstrider Isle incense stirred with the sme
 
 Jace raised an eyebrow. "So the noble ladies of Silvermoon all eat with their hands at the dinner table too, tearing right in…"
 
-Vereesa bit down on her teeth and hurled Angelysta's dark-red sash at him. This enchanted sash, with its metal clasps, was thrown by the ranger as casually as a flail, packed with killing force. Jace reached out and caught it, but the momentum staggered him a step — if it had hit his face, it would've been a bloody mess.
+Vereesa bit down on her teeth and hurled Angelista's dark-red sash at him. This enchanted sash, with its metal clasps, was thrown by the ranger as casually as a flail, packed with killing force. Jace reached out and caught it, but the momentum staggered him a step — if it had hit his face, it would've been a bloody mess.
 
 The two of them joked and bickered for a bit, and the heat from their exertion slowly cooled.
 
-Shadowmoon Valley might be a scorched hell brimming with fel fire, but that didn't mean every corner was that sweltering. Wildhammer Keep still turned cold at night.
+Shadowmoon Valley might be a scorched hell brimming with fel fire, but that didn't mean every corner was that sweltering. Wildhammer Stronghold still turned cold at night.
 
 Vereesa grabbed a thin blanket and wrapped it around herself. "Once Khadgar returns to Dalaran, everything we've done will be exposed to the Alliance — from secretly opening the portal, to that demon."
 
@@ -54,15 +54,15 @@ Vereesa grabbed a thin blanket and wrapped it around herself. "Once Khadgar retu
 
 Vereesa gave the warlock a look. "As long as we can get all the Expedition soldiers back, they'll surely speak up for us, and those Kirin Tor folks won't dare say anything. But it's the Dark Portal thing I was thinking about just now… Even after you made such a sacrifice, saving God knows how many soldiers' lives at Nethergarde Keep, they still had to treat you like that."
 
-"We didn't come here for them," Jace said. "You came for your sister. I wanted to get the Expedition back… even if we can't directly deal with the black dragons in Blackrock Spire, at least we can keep them and the Blackrock orcs from making any moves on Stormwind. As for the rest — let them say whatever they want. If they really want to find an excuse to throw me into the Violet Hold, then they can come takeIlgalath Tower first. Let's see which Kirin Tor bastard's willing to take that job."
+"We didn't come here for them," Jace said. "You came for your sister. I wanted to get the Expedition back… even if we can't directly deal with the black dragons in Blackrock Spire, at least we can keep them and the Blackrock orcs from making any moves on Stormwind. As for the rest — let them say whatever they want. If they really want to find an excuse to throw me into the Violet Hold, then they can come take the Tower of Ilgalar first. Let's see which Kirin Tor bastard's willing to take that job."
 
 Then, as if he'd just remembered something, he raised a finger and added, "Of course, on the condition that you and your sisters persuade Kael'thas not to make a move."
 
-Vereesa burst out laughing, her tone rather confident. "I'm quite curious too — with me there, whether any Dalaran mages who dare trespass on your territory would actually survive crossing through the Gnoll Forest."
+Vereesa burst out laughing, her tone rather confident. "I'm quite curious too — with me there, whether any Dalaran mages who dare trespass on your territory would actually survive crossing through the gnoll forest."
 
 Grede loved to mock Vereesa for being nothing more than a super arrow launcher, not a real ranger. But hearing Vereesa talk like that, Jace took a sip of wine, savored the faintly sweet, not-quite-sweet taste in his mouth, and briefly imagined himself facing her lethal threat in the dark, vast forest — when an icy chill immediately crept up the back of his neck, and the wine in his mouth suddenly seemed a touch too bitter.
 
-"Thanks, Wen," he said.
+"Thanks, Vere," he said.
 
 Vereesa brushed the damp silver hair from beside her ear and said softly, "For what? Whether it's me, or any one of us, in that situation we'd stand firmly on your side, Jace."
 
@@ -82,44 +82,44 @@ Suddenly, a shadowy demonic figure lunged at him from his field of vision with a
 
 "Yukroni…"
 
-Jace aimed at the flickering shadowy figure and chanted the Eredar shadow-disassembling incantation that the imp had summarized from the Abyssal language — this was a perfect chance to practice.
+Jace aimed at the flickering shadowy figure and chanted the eredar shadow-disassembling incantation that the imp had summarized from the Abyssal language — this was a perfect chance to practice.
 
 The incantation went smoothly. Jace felt as though he'd truly grabbed hold of the dark cloak woven from malice and venom. When the incantation completed, the demon's invisibility shattered instantly. The shadow that had been lunging at him rapidly materialized, revealing a tall, half-naked demoness wreathed in burning violet-red fel patterns.
 
-Morphel's figure had already grown more proportionate than it had been right after she'd swallowed the Tome of Fel Names's power. She stepped forward on black hooves, striking the stone floor, and vanished in a swirl of shadow — then reappeared right behind Jace, reaching for his neck with lightning speed.
+Morophil's figure had already grown more proportionate than it had been right after she'd swallowed the Book of Fel Names's power. She stepped forward on black hooves, striking the stone floor, and vanished in a swirl of shadow — then reappeared right behind Jace, reaching for his neck with lightning speed.
 
-Jace's nerves were already wound tight, so his reaction was lightning-fast himself. He turned, grabbed Morphel's wrists with both hands, and used the lingering shadow force to block her brute strength — only to find himself wrapped up in the succubus's other arm.
+Jace's nerves were already wound tight, so his reaction was lightning-fast himself. He turned, grabbed Morophil's wrists with both hands, and used the lingering shadow force to block her brute strength — only to find himself wrapped up in the succubus's other arm.
 
 Just when he thought there was no escape, a furious shout came from behind. "Eyes here, demon!"
 
-Jace turned his head. Morphel lifted her head at the same time. Vereesa was already standing in the doorway, a gold Quel'Thalas enchanted scimitar in hand, aimed right at them.
+Jace turned his head. Morophil lifted her head at the same time. Vereesa was already standing in the doorway, a gold Quel'Thalas enchanted scimitar in hand, aimed right at them.
 
-But when she got a clear look at the demon grappling with Jace, she froze. Her other hand clutched the blanket around her and asked, "It's you, Morphel?"
+But when she got a clear look at the demon grappling with Jace, she froze. Her other hand clutched the blanket around her and asked, "It's you, Morophil?"
 
 "It's me." The demon lowered her head slightly, swaying her crimson tail. "From a Silvermoon noble's perspective, Lady Vereesa — how do I look right now?"
 
-Vereesa was clearly quite wary of Morphel's current height and demonic power, a complicated tangle of vigilance and faint jealousy rolling through her.
+Vereesa was clearly quite wary of Morophil's current height and demonic power, a complicated tangle of vigilance and faint jealousy rolling through her.
 
-Even though she'd already known from Jace that the demon had grown much stronger after absorbing the Tome of Fel Names's power, Morphel's current hellish demoness appearance still caught her quite off guard.
+Even though she'd already known from Jace that the demon had grown much stronger after absorbing the Book of Fel Names's power, Morophil's current hellish demoness appearance still caught her quite off guard.
 
 Especially now that she was taller than Vereesa. Don't forget — when the two had first met, it was Vereesa who'd been a full head taller.
 
 But in the end, the ranger steadied herself and leaned against the doorframe. "I'll admit, you're beautiful — at least, by sayaad standards. Considering your master's taste, that's hardly surprising."
 
-"Thank you for the compliment, my lady. The honor is mine," Morphel said softly.
+"Thank you for the compliment, my lady. The honor is mine," Morophil said softly.
 
 "Don't rush to feel honored." The ranger pointed her blade at Jace beside her. "So what is this? Not satisfied with your position as a demon minion anymore?"
 
-"She's always like this," Jace explained. "It's just a sort of… greeting joke between us, Wen."
+"She's always like this," Jace explained. "It's just a sort of… greeting joke between us, Vere."
 
 "Hmph, a greeting joke," Vereesa said, displeased. She moved back into the room and yanked the iron door shut with a bang. Jace stared at the cold iron door, swallowed, then turned back to the demon. "You recovered fast."
 
-"Not nearly fast enough, dear." Morphel nuzzled Jace's cheek lightly, then buried her face in his neck and murmured, "Mm… the scent of the Quel'dorei — so sweet and satisfied. That tells me she enjoyed herself thoroughly just now. So… isn't it my turn next?"
+"Not nearly fast enough, dear." Morophil nuzzled Jace's cheek lightly, then buried her face in his neck and murmured, "Mm… the scent of the Quel'dorei — so sweet and satisfied. That tells me she enjoyed herself thoroughly just now. So… isn't it my turn next?"
 
 "Hold on, damn it." Jace grabbed one of her curved horns and said, "You only absorbed that grimoire this morning and you're already short on power?"
 
 "Just like you said — I need more power to recover. For example, your radiant flame energy. You don't want me to be completely consumed by evil soul shadows and degenerate back into an out-of-control wandering demon, do you? After all, the Burning Legion's threat is right at our doorstep."
 
-As she spoke, Morphel licked her tongue and let her purple-red flaming gaze drift downward along Jace's body.
+As she spoke, Morophil licked her lips and let her purple-red flaming gaze drift downward along Jace's body.
 
 "Use your power to completely enslave the savagery within me and finish this soul ritual, my Master…"

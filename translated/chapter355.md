@@ -36,23 +36,23 @@ When Jace was a child, this place wasn't called Menethil Harbor yet. It was just
 
 During the Orc Wars, the Horde's army had invaded and used it as a temporary port for their push north. When the Alliance forces counterattacked, they'd seized it, torn down the orcish facilities, and rebuilt it as a military harbor.
 
-Even years later, Jace could still see lumber and canvas left over from the demolition of crude orcish structures piled at the base of the walls. It reminded him of the glimpse he'd gotten of the Shattered Hand orc hideout in Teron Gorefiend's dream.
+Even years later, Jace could still see lumber and canvas left over from the demolition of crude orcish structures piled at the base of the walls. It reminded him of the glimpse he'd gotten of the Shattered Hand orc hideout in Teron Gorefiend's memories.
 
 Jace focused his mind and swept the area with Sense Demons. Not a single shadow in sight.
 
-In the end, he'd decided not to bring any of his demon minions to Menethil Harbor — not even the imp. It could keep Molophil company.
+In the end, he'd decided not to bring any of his demon minions to Menethil Harbor — not even the imp. It could keep Morophil company.
 
-He was heading into a Titan ruin, after all. The Pantheon had built those temples to protect Azeroth from demons and Void creatures. Who knew what sort of terrifying consequences dragging a demon inside might bring? Completing Grede's trial came first.
+He was heading into a titan ruin, after all. The Pantheon had built those temples to protect Azeroth from demons and Void creatures. Who knew what sort of terrifying consequences dragging a demon inside might bring? Completing Grede's trial came first.
 
 Even though a section of the wall was still unfinished, the inns and taverns here were already built rather handsomely. The moment they stepped off the ship, Grede made a beeline for the inn like he owned the place.
 
 In Jace's memory, the inn at Menethil Harbor was quite a famous spot in the game. After all, it would later become a vital transit hub linking the north and south and two continents. But try as he might, he couldn't recall the inn's name. Then he saw the temporary sign hanging by the entrance, written in both Dwarvish and Common, and it immediately tugged loose a memory from long ago.
 
-The Deepwater Inn.
+The Deepwater Tavern.
 
 Ah… so that was the name.
 
-Back at level 60 playing Alliance, he'd had his Hearthstone bound to this inn. That way, whether he was taking a griffin south to Searing Gorge to prepare for Blackrock Spire or sailing to the black dragon's lair in Kalimdor, it was all convenient.
+Back at level 60 playing Alliance, he'd had his Hearthstone bound to this inn. That way, whether he was taking a gryphon south to Searing Gorge to prepare for Blackrock Spire or sailing to the black dragon's lair in Kalimdor, it was all convenient.
 
 Following Grede inside, Jace was greeted by the relaxed beat of drums. He glanced toward the sound and saw a crowd of dwarves packed together with Lordaeron soldiers in white vests. The dwarves were drumming on the tables, as if setting the rhythm for the humans with flutes and the other dwarves with stringed instruments.
 
@@ -93,11 +93,3 @@ Grede said, "This place used to be called Deepwater Village before the orcs came
 At this he lowered his voice to a whisper. "But none of it is a patch on the glory of Thelsamar. I'm telling you, Jace Sesso — the moment you set foot in Thelsamar, you'll realize the first twenty years of your life were a complete waste."
 
 "I haven't even lived twenty years yet," Jace said. "But the way you talk about it, I'm really looking forward to getting to Thelsamar soon."
-
-## Flags
-- **POV:** Third person, Jace.
-- **Names:** 格瑞德 → Grede (per glossary). 莫洛菲尔 → Molophil (Jace's succubus; not in glossary). 塔隆·血魔 → Teron Gorefiend (per glossary).
-- **Places:** 暴风港口 → Stormwind Harbor. 米奈希尔港 → Menethil Harbor (per glossary). 巴拉丁湾 → Baradin Bay (per glossary). 藏宝海湾 → Booty Bay (per glossary). 深水旅店 → the Deepwater Inn. 深水村 → Deepwater Village. 深水湾之歌 → Song of Deepwater Bay. 南海镇 → Southshore. 守望堡 → Nethergarde Keep (per glossary). 灼热峡谷 → Searing Gorge. 黑石塔 → Blackrock Spire (per glossary). 卡利姆多 → Kalimdor. 塞尔萨玛 → Thelsamar (dwarf town in Loch Modan; not in glossary).
-- **Lore terms:** 侦测恶魔 → Sense Demons. 泰坦 → Titan. 万神殿 → the Pantheon. 恶魔 → demon. 虚空生物 → Void creatures. 碎手兽人 → Shattered Hand orcs. 血魔之握 → Gorefiend's Grasp (location in Teron Gorefiend's dream; tentative). 兽人战争 → the Orc Wars (per glossary). 炉石 → Hearthstone. 狮鹫 → griffin. 黑龙巢穴 → black dragon's lair.
-- **Tone note:** Jace's internal voice stays dry and self-aware; the Song of Deepwater Bay beat is played for quiet, wistful recognition rather than drama.
-- **Translation choice:** 深水旅店 / 深水村 / 深水湾之歌 rendered as "the Deepwater Inn" / "Deepwater Village" / "Song of Deepwater Bay" (consistent with chapter361's flag set). The "Song of Deepwater Bay" is the iconic WoW Deepwater Inn tavern music, here given an in-world origin as a local village tune.

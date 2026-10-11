@@ -22,7 +22,7 @@ Those few minutes of agony felt like years. It was only when he saw the rainwate
 
 If a death knight showed up, would Grede charge in and fight him to the death?
 
-For a salary of ten silver a day, that seemed excessive…
+For a salary of ten silver, that seemed excessive…
 
 But did Grede care about money? Wasn't that guy the type to throw his life on the line the moment he saw someone being bullied?
 
@@ -30,9 +30,9 @@ The more Jace thought about it, the less he knew whether he really understood hi
 
 The more he considered it, the more he couldn't sit still in this hall. He had to find Grede before the death knights entered Dalaran, to keep this guy from getting into trouble. If he was going to leave, it had to be now.
 
-"Master Dushan, where's Horn Tree Alley?"
+"Master Dushan, where's Hornwood Lane?"
 
-"What do you want to go to Horn Tree Alley for? Stay here and wait for news from the Kirin Tor!" Dushan was trembling as he spoke — clearly already frightened into a panic by the situation.
+"What do you want to go to Hornwood Lane for? Stay here and wait for news from the Kirin Tor!" Dushan was trembling as he spoke — clearly already frightened into a panic by the situation.
 
 "Tell me, Master Dushan!" Jace asked urgently once more.
 
@@ -42,7 +42,7 @@ Dushan hesitated a moment, then said, "It's… it's on that road of ours, just a
 
 Jace ran down the steps, charged out the conference hall door under the watchful eyes of several scholars, grabbed his staff, and came outside. The rain was already pouring down hard, torrents flowing through the streets like little streams.
 
-Squads of Kirin Tor spellguard with purple shields were marching down the streets heading south. These were the men who should be going to the Violet Citadel to protect the Eye of the Arcane — not getting drawn to the southeast to fight the black dragons!
+Squads of Kirin Tor spellguard with purple shields were marching down the streets heading south. These were the men who should be going to the Violet Citadel to protect the Eye of Dalaran — not getting drawn to the southeast to fight the black dragons!
 
 But looking toward the southeastern sky, the horizon had already burned red, and distorted, terrifying shrieks rolled in unceasingly.
 
@@ -68,7 +68,7 @@ He muttered to himself as he ran along the road from the city center, diverging 
 
 Jace passed by these mages and guards. Above the sky, the peak of the Violet Citadel occasionally flashed with lightning-like radiance. After each flash, the light rapidly rolled outward toward the southern city gate. Every time its flash illuminated the sky, Jace could make out vague shadows passing through the clouds.
 
-Was this the power of the Eye of the Arcane?
+Was this the power of the Eye of Dalaran?
 
 At the very least, it was still there — the death knights hadn't made their move yet.
 
@@ -102,7 +102,7 @@ He was holding a black short blade or a long dagger. This probably wasn't Teron 
 
 The death knights crafted by Gul'dan were far from being as skilled at warfare as the later Scourge death knights — they were merely necromancer souls occupying the bodies of human warriors, so they didn't always seek out heavy, powerful weapons.
 
-The death knights must have infiltrated Dalaran before the black dragon assault began. Once the black dragons launched their attack, they appeared inside Dalaran to draw the attention of anyone still in the city and assist him in stealing the Eye of the Arcane…
+The death knights must have infiltrated Dalaran before the black dragon assault began. Once the black dragons launched their attack, they appeared inside Dalaran to draw the attention of anyone still in the city and assist him in stealing the Eye of Dalaran…
 
 Jace cursed under his breath. Realizing this now was genuinely too late.
 
@@ -118,9 +118,9 @@ Having settled on that, Jace continued running south. The exit wasn't far now.
 
 A dark shadow suddenly flashed out, blocking the exit right in front of him. Jace watched as that sickly, blackened, rigid human face slowly curled the corners of its mouth, its eyes glowing with a nauseating necromantic light staring at himself like a cat's eyes in the dark.
 
-"Fulk't!"
+"Fekt!"
 
-Both of them spoke the same incantation at the exact same moment. Jace instantly dropped to one knee, feeling a fierce fear seize his heart. A burst of agony stabbed through his chest, and in that single moment he thought of his teachers, thought of Grede, thought of Hennie and Vik, and even scenes buried deepest in his imagination — visions of them dying in agony — surfaced like river-bottom mud being churned up to the surface…
+Both of them spoke the same incantation at the exact same moment. Jace instantly dropped to one knee, feeling a fierce fear seize his heart. A burst of agony stabbed through his chest, and in that single moment he thought of his teachers, thought of Grede, thought of Henny and Vic, and even scenes buried deepest in his imagination — visions of them dying in agony — surfaced like river-bottom mud being churned up to the surface…
 
 Jace roared and punched the wall — bang! The sharp pain in his knuckles snapped him back to his senses at once!
 
@@ -165,16 +165,3 @@ Was this some kind of whisper?
 Was it Teron Gorefiend's voice?
 
 Jace looked at the long staff in his hand, thinking of how that death knight had muttered "my lord" — had the general heard his call?
-
-## Flags
-
-- **不死者** → "The Deathless" (literally "one who does not die"; refers to a death knight; could also be rendered "The Undead," but "Deathless" distinguishes the individual from generic undead)
-- **角树巷** → Horn Tree Alley (location in Dalaran; not in glossary)
-- **格瑞德** → Grede (per glossary)
-- **弗艾克特** → Fulk't (the verbal component/incantation for the Warlock spell Fear; rendered phonetically, not in glossary — canonical Fear incantation not standardized in English WoW)
-- **维克** → Vik (Jace's father; not in glossary)
-- **达拉然之眼** → Eye of the Arcane (per glossary)
-- **紫罗兰城堡** → Violet Citadel (canonical seat of the Kirin Tor in Dalaran; not in glossary)
-- **肯瑞托魔法卫士** → Kirin Tor spellguard (not in glossary; "spellguard" = canonical Kirin Tor military)
-- **虚弱诅咒** → Curse of Weakness (per glossary)
-- **恐惧术** → Fear (per glossary)

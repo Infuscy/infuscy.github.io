@@ -30,7 +30,7 @@ Jace took a bite out of a roasted flatbread and listened to them, feeling a touc
 
 After the Alliance Expedition had taken the Dark Portal, more and more orcs who hadn't managed to flee back through it had scattered across the various kingdoms of the eastern continent.
 
-With the Kingdom of Alterac effectively destroyed, and the powerful Kingdom of Lordaeron and the Stromgarde Kingdom looming on either side — with no Dark Iron dwarves, Blackrock Mountain tribe, or other truly dangerous factions in the area — the Alterac Mountains had become a convenient hiding spot. Many orcs had chosen to take refuge here, and some had even joined the Frostwolf clan directly.
+With the Kingdom of Alterac effectively destroyed, and the powerful Kingdom of Lordaeron and the Kingdom of Stromgarde looming on either side — with no Dark Iron dwarves, Blackrock clan, or other truly dangerous factions in the area — the Alterac Mountains had become a convenient hiding spot. Many orcs had chosen to take refuge here, and some had even joined the Frostwolf clan directly.
 
 If they wanted more abundant food, they'd inevitably have to leave the mountains for these pine forests, to raid or hunt…
 
@@ -60,13 +60,13 @@ He'd always believed the internment camps were a joke, and Nethergarde Keep an e
 
 Before long, handsome black brick houses began to appear along the roadside.
 
-The wagons arrived at a broad intersection lined on both sides with tall, narrow two- and three-story buildings standing like black bamboo shoots. A wider building flew the black-anchor banner of the Kingdom of Gilneas.
+The wagons arrived at a broad intersection lined on both sides with tall, narrow two- and three-story buildings standing like black spikes. A wider building flew the black-anchor banner of the Kingdom of Gilneas.
 
-The caravan stopped. The lead driver called out, "We're at Cinderstone Village! Rest up for the night, we move out tomorrow… Be at this square before eight o'clock. Don't be late!"
+The caravan stopped. The lead driver called out, "We're at Emberstone Village! Rest up for the night, we move out tomorrow… Be at this square before eight o'clock. Don't be late!"
 
 The caravan's guards and hands answered in unison. Jace hopped down to the ground and immediately felt how damp everything was.
 
-Cinderstone Village was a mining village too. From here you could see the road leading to the mine, but the mine and its tunnels were invisible — the thick night fog obscured everything, with only a few faint, scattered lights visible.
+Emberstone Village was a mining village too. From here you could see the road leading to the mine, but the mine and its tunnels were invisible — the thick night fog obscured everything, with only a few faint, scattered lights visible.
 
 The place was nowhere near as large as Moonbrook, probably about the size of Raven Hill, but livelier than Raven Hill — which made sense.
 
@@ -80,7 +80,7 @@ Jace followed a few of the caravan riders into the village inn the moment he arr
 
 "How can you say that about something that hasn't happened? Have you ever served in the army? Fought naga? Naga might be too much for you — have you fought murlocs? Hah…"
 
-"Fine, then let's talk about what has happened… Three years ago, if not for the Lordaeron and Arathi armies holding back the orcish horde in Hillsbraddock, think of the disaster that would've befallen Quel'Thalas. Can you fight better than those elves? Is King Genn's wall a match for the elven magical barriers?"
+"Fine, then let's talk about what has happened… Three years ago, if not for the Lordaeron and Arathi armies holding back the orcish horde in Hillsbrad, think of the disaster that would've befallen Quel'Thalas. Can you fight better than those elves? Is King Genn's wall a match for the elven magical barriers?"
 
 "Magical barriers? What are you going on about? Gilneas doesn't have mages? Don't we have our own magic? Wait — I'm realizing you're not just talking big, you're a thorough goddamn traitor. Not only do you think we're inferior to the Lordaeronians, you think we're beneath those preening elves too… What you're lacking isn't education, it's a lesson!"
 
@@ -88,18 +88,10 @@ Jace followed a few of the caravan riders into the village inn the moment he arr
 
 "Go to hell…"
 
-The men suddenly threw themselves at each other. Tables and chairs crashed, cups flew — and Jace had just taken a room and was holding a drink when it started. He slowly turned his head at the sound behind him and watched quietly as a large group of people grappled and tore at each other, trying to physically persuade one another. All the while, he ordered a plate of smoked meat strips from the boss.
+The men suddenly threw themselves at each other. Tables and chairs crashed, cups flew — and Jace had just taken a room and was holding a drink when it started. He slowly turned his head at the sound behind him and watched quietly as a large group of people grappled and tore at each other, trying to physically persuade one another. All the while, he ordered a plate of smoked meat strips from the innkeeper.
 
 The innkeeper calmly set the plate in front of Jace and didn't even try to intervene — he just sighed. Clearly, he was used to it.
 
 Now Jace understood why that Gilnean on the wagon hadn't wanted to keep talking.
 
 Here on the Gilnean peninsula, discussing politics was genuinely a dangerous affair.
-
-## Flags
-
-- **POV:** Third person (Jace Sesso).
-- **Setting:** The road from Stormwind to Silverpine Forest; Cinderstone Village on the Gilnean peninsula.
-- **Characters:** Jace Sesso, unnamed Gilnean passenger, unnamed caravan travelers, Cinderstone Village innkeeper.
-- **Key lore:** Orc internment camps; Nethergarde Keep; King Genn Greymane's opposition to the Alliance's internment policy; Alterac's collapse as a haven for scattered orcs; the Gilnean peninsula's worsening fog.
-- **Chapter title:** 危险的话题 — "A Dangerous Topic" (politics on the Gilnean peninsula).

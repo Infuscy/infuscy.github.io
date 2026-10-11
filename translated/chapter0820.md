@@ -2,11 +2,11 @@
 
 With the protection of the Dream, the dragonkin were completely unable to track their presence, and fleeing became much easier.
 
-They climbed a hill, and as they walked along a bare earthen slope, a whelp suddenly swept across the sky on patrol.
+They climbed a hill, and as they walked along a bare earthen slope, a drake suddenly swept across the sky on patrol.
 
-But right around then, Jace felt the dreamlike haze around them gradually weaken, and things became much clearer. That whelp even lowered its eyes and glanced their way, making Vereesa tense and reach back for her bow.
+But right around then, Jace felt the dreamlike haze around them gradually weaken, and things became much clearer. That drake even lowered its eyes and glanced their way, making Vereesa tense and reach back for her bow.
 
-But the whelp quickly pulled away, circling back toward the southern skies above the forest. This allowed the group to cross the slope without incident and make their way into a forest in a valley.
+But the drake quickly pulled away, circling back toward the southern skies above the forest. This allowed the group to cross the slope without incident and make their way into a forest in a valley.
 
 By now the dreamlike atmosphere around them had strengthened again, and Jace breathed a sigh of relief.
 
@@ -16,7 +16,7 @@ Still, even deep into the night, there were still signs of dragonkin nearby. Tho
 
 Grede spoke as he warily watched the dragonkin shadows. Jace caught sight of the necklace around his neck—the Earth necklace—which still held a faint trace of golden light.
 
-"When you fought that whelp Bremmugo earlier, you activated your transformation. The power of that necklace hasn't faded yet," he reminded him.
+"When you fought that drake Bremmugo earlier, you activated your transformation. The power of that necklace hasn't faded yet," he reminded him.
 
 Grede lowered his head. "Ah, damn it, you're right."
 
@@ -44,7 +44,7 @@ But ever since they'd hidden in this mountain hollow deep in the forest, the pen
 
 "Vere, have you noticed that the emerald pendant's power seems a little unstable?"
 
-"On the slope, I felt it too." The elf nodded. "It was as if it didn't have enough power to keep going. I almost thought that whelp was going to spot us."
+"On the slope, I felt it too." The elf nodded. "It was as if it didn't have enough power to keep going. I almost thought that drake was going to spot us."
 
 "On the slope..." Jace muttered her words, when Vereesa suddenly seemed to remember something. "I know. Earlier, when the Dragonqueen handed it to me, she told me it could help her 'vanish into the forest.' Could it be that once we leave the forest, it loses its source of power? After all, she put it that specifically."
 
@@ -58,7 +58,7 @@ Grede patted the round shield he was cradling. "Good thing you didn't test it. I
 
 "Onyxia," Vereesa said.
 
-Now that the dwarf mentioned it, Jace suddenly remembered too. This seemed to be the Dragonkin Shield dropped by General Drakkisath, the final boss of Upper Blackrock Spire—a towering figure wearing no armor at all, wielding a dark greatsword and carrying a massive Blackrock Spire banner on his back.
+Now that the dwarf mentioned it, Jace suddenly remembered too. This seemed to be the Draconian Deflector dropped by General Drakkisath, the final boss of Upper Blackrock Spire—a towering figure wearing no armor at all, wielding a dark greatsword and carrying a massive Blackrock Spire banner on his back.
 
 But in the game, only Drakkisath himself dropped this shield, not—as was the case here—one you could snatch from every dragonkin carrying this type of shield.
 
@@ -106,7 +106,7 @@ Then an extremely terrifying thought bubbled up from the bottom of his heart, co
 
 Grede glanced back and whispered, "Aren't you calling a bit loud? Aren't you afraid the dragonkin will come after us?"
 
-"The dragonkin have all gone back." The woman had heard his whisper clearly. She continued, "The question now is: what is a Lordaeronian, a Wildhammer dwarf, and a Quel'dorei doing in Kalimdor?"
+"The dragonkin have all gone back." The woman had heard his whisper clearly. She continued, "The question now is: what are a Lordaeronian, a Wildhammer dwarf, and a Quel'dorei doing in Kalimdor?"
 
 Her voice was slightly weak, but already clear enough to hear.
 

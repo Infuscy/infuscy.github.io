@@ -18,13 +18,13 @@ Jace's heart was pounding. He wasn't sure if he'd be able to make out the void e
 
 "This is still an operation we've been planning for a long time. Don't you think I want to see it succeed?" Sabellian said.
 
-Needle stood not far away, her eyes fixed on the portal without a word. Her fear and apprehension were completely unconcealed. She probably wasn't ready to cross to the other side yet.
+Needleflame stood not far away, her eyes fixed on the portal without a word. Her fear and apprehension were completely unconcealed. She probably wasn't ready to cross to the other side yet.
 
-Sora was about the same. As the most easily flustered of the four, her mind was already a tangled mess.
+Sola was about the same. As the most easily flustered of the four, her mind was already a tangled mess.
 
 The Black Prince took a deep breath and swept his gaze across the entire Auchindoun plaza. The orcs had gathered there, most half-kneeling or even prostrate, muttering incantations under their breath. In the rain, the whole scene was unbearably grim and oppressive.
 
-These cultist soldiers had been pent up in this place for over a decade. Blaykhart was dead. Warlord was dead. Murmur had disappeared. Even their sworn enemy, Maladaar, had fallen.
+These cultist soldiers had been pent up in this place for over a decade. Blackheart was dead. Vorpil was dead. Murmur had disappeared. Even their sworn enemy, Maladaar, had fallen.
 
 One notable warlock after another had died. Some had fled, even defected.
 
@@ -36,7 +36,7 @@ Because this whole plan was so fragile.
 
 Any single link failing could cost the expedition a horrific, unbearable price. But even so, everyone supported him.
 
-From here to the other side. To Prophet Velen and his draenei. To the ethereals of the Consortium. Because everyone knew this was the only solution anyone could think of — even Node Prince Haramad, who'd never admit he was out of ideas.
+From here to the other side. To Prophet Velen and his draenei. To the ethereals of the Consortium. Because everyone knew this was the only solution anyone could think of — even Nexus-Prince Haramad, who'd never admit he was out of ideas.
 
 The other options — fighting to the end, hiding and stalling — were just nice words. As long as the Scepter of Sargeras still existed and the Burning Legion kept pouring into Draenor, those were just desperate ways to die.
 
@@ -46,9 +46,9 @@ Another clap of thunder rolled. Sabellian clapped him on the shoulder and pointe
 
 Between the outlines of some nameless white planet, a pale pink passage was spinning, spinning, slowly forming into a spiral.
 
-Sora and Needle both looked over at the same time. Jace said quietly, "It's time."
+Sola and Needleflame both looked over at the same time. Jace said quietly, "It's time."
 
-"Remember to protect the portal, Ney'ho'gal."
+"Remember to protect the portal, Naihogar."
 
 "Go in peace," the black dragon said.
 
@@ -100,13 +100,13 @@ With the continuous grinding of iron chains, a massive figure emerged from withi
 
 He was seven or eight meters tall. The enormous wings behind him had already exceeded what the portal could bear. His ugly — almost comical — head was topped with two huge, tawny horns like a buffalo's. His two grotesquely small eyes burned with fel-green light, staring blankly at everything before him.
 
-Sabellian, from a distance, looked at Jace with some doubt, his staff already raised slightly. On the other side, Needle was starting to lose her composure too.
+Sabellian, from a distance, looked at Jace with some doubt, his staff already raised slightly. On the other side, Needleflame was starting to lose her composure too.
 
-"Bow to Lord Car'lez, insignificant mortals."
+"Bow to Lord Kallrez, insignificant mortals."
 
 The demon grinned wickedly after speaking. His metal armor clanked and clattered with a piercing sound. The last time Jace had heard the guy's voice so clearly felt like a lifetime ago.
 
-The orcs began shouting, chanting titles like "Lord Car'lez" and "Doom Lord." The warlocks were so excited they dropped their staves and knelt on the ground. But the demon didn't respond to their worship. Instead, he looked down at the dark-skinned orc warlock staring back at him.
+The orcs began shouting, chanting titles like "Lord Kallrez" and "Doom Lord." The warlocks were so excited they dropped their staves and knelt on the ground. But the demon didn't respond to their worship. Instead, he looked down at the dark-skinned orc warlock staring back at him.
 
 "So, shall we begin, Jace Sesso?"
 
@@ -114,6 +114,6 @@ The orcs looked up in confusion. The warlocks went wide-eyed with shock. In the 
 
 Figures gradually grew clear within the portal. Pale blue robes. Shields shimmering with arcane light emerged from the ripples.
 
-"You threw off my schedule a little, Car'lez." Jace raised his hand helplessly. The powerful shadow magic gathering around him tore through his disguise bit by bit, revealing his true appearance beneath the dark orc guise. The tall, sturdy young human now stood beneath the doom lord's black hooves.
+"You threw off my schedule a little, Kallrez." Jace raised his hand helplessly. The powerful shadow magic gathering around him tore through his disguise bit by bit, revealing his true appearance beneath the dark orc guise. The tall, sturdy young human now stood beneath the doom lord's black hooves.
 
 "But... let's begin."

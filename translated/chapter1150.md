@@ -6,7 +6,7 @@ Orc men and women were bustling about, working together to load an impossibly st
 
 Everything in the Alterac Mountains was enormous, whether snow beasts or wild animals. Even the kobolds hiding in caves were a head taller than their relatives down in Elwynn Forest.
 
-Buried in this snow mountain were treasures no outsider could truly perceive. Only things favored by the snow mountain could truly live here.
+Buried in this snowy mountain were treasures no outsider could truly perceive. Only things favored by the snowy mountain could truly live here.
 
 Drek'Thar, sitting not far off, gazed at all this. Unlike those laughing, noisy Frostwolf orcs, his emotions remained serious and heavy, unable to relax.
 
@@ -60,9 +60,9 @@ Jace had no idea what kind of spice these Frostwolf orcs had smeared on the goat
 
 Was this a spice brought from Draenor? Jace was a little curious, but he estimated it wouldn't be long before he could explore the answer himself.
 
-The coordinates for traveling to Draenor were already in hand. Once he returned to Elwyn, he could begin preparing to resummon Karlez. The moment the repairs on Ilgala Tower were complete, that would be the moment they opened the portal to Draenor.
+The coordinates for traveling to Draenor were already in hand. Once he returned to Elwynn, he could begin preparing to resummon Kallrez. The moment the repairs on the Tower of Ilgalar were complete, that would be the moment they opened the portal to Draenor.
 
-At that moment, Bazuen came over and sat down beside Jace. He stared at the crystal in Vereesa's hand and said in the orcish tongue, "You're looking for those Alliance soldiers trapped on the other side of the Dark Portal."
+At that moment, Bazuen came over and sat down beside Jace. He stared at the crystal in Vereesa's hand and said in the Orcish tongue, "You're looking for those Alliance soldiers trapped on the other side of the Dark Portal."
 
 "You know about the Alliance Expedition?" Jace asked.
 
@@ -72,21 +72,21 @@ Jace nodded. "Do you want to go back to Draenor?"
 
 The shaman answered, "All orcs want to go back to Draenor, without exception, Jace Sesso. We were all deceived by the demons' lies. Even the cruel madmen in Blackrock Spire know this deeply, not to mention the Bleeding Hollow wandering in the forests, the Dragonmaw hiding in the swamps. As for the orcs locked up in the prison beneath the Alterac Mountains, it goes even more without saying."
 
-"But I know that what they truly want to return to is the Draenor of the past. I mean the one before it was corrupted by demonic power, not the scorched earth that Guldan and his 'master' tortured."
+"But I know that what they truly want to return to is the Draenor of the past. I mean the one before it was corrupted by demonic power, not the scorched earth that Gul'dan and his 'master' tortured."
 
 "Before coming to Alterac Valley, I always thought the Frostwolf orcs' skin had kept its original appearance." He looked at Jace. "You might not know — before we drank the blood of the demon lords, our skin was all brownish-yellow, just like the color of Redridge. The Frostwolf chief Durotan refused the demon blood. The last time I saw him on Draenor, his skin was still dark brown. But Drek'Thar told me that by the time he died, his skin was already green like ours."
 
 "It was the scorched earth standing at the Dark Portal that turned him and the entire Frostwolf clan into that. In the past we called that place Tanaan Jungle, but not a single tree is left in that jungle. For orcs trying to escape the power of demons, not drinking the demon blood doesn't mean the power of demons won't find you. As long as you stand on the land of Draenor, you'll be corrupted together with that land, just like those withered, blackened trees, the curled-up shrubs — no one can escape."
 
-Bazuen's words had actually reminded Jace of something. In the game, walking through the shattered Outland that had been thoroughly corrupted by demonic power was actually no different from walking through Elwynn Forest or the Winterspring snow mountains, after all — that place was a game.
+Bazuen's words had actually reminded Jace of something. In the game, walking through the shattered Outland that had been thoroughly corrupted by demonic power was actually no different from walking through Elwynn Forest or the snowy mountains of Winterspring, after all — that place was a game.
 
 But in reality, the situation on Draenor might be far worse than he'd imagined.
 
-"I can feel it, Jace Sesso — the snow mountain and the flames here are both willing to communicate with you, to listen to you," Bazuen said.
+"I can feel it, Jace Sesso — the snowy mountain and the flames here are both willing to communicate with you, to listen to you," Bazuen said.
 
-Jace smiled slightly. "The flames, maybe. But the snow mountain's voices, without exception, are all telling me to get out."
+Jace smiled slightly. "The flames, maybe. But the snowy mountain's voices, without exception, are all telling me to get out."
 
-"Even anger is a form of communication. At least it means they haven't given up on you." Bazuen pulled out a section of carved stone covered in many orcish runes from his bosom. "If you really intend to go over there, at least take this little totem with you."
+"Even anger is a form of communication. At least it means they haven't given up on you." Bazuen pulled out a section of carved stone covered in many orcish runes from inside his furs. "If you really intend to go over there, at least take this little totem with you."
 
 "What does this do?" Jace asked.
 

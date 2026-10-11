@@ -2,7 +2,7 @@
 
 Heading south along the coast, a week later the ship had gradually pulled away from the mainland. When they woke that morning and looked east or north, there was no land to be seen anywhere. A small boat that looked fit only for river travel drifted all alone on the boundless ocean, and Jace found the unsteadiness beneath his feet a little unnerving.
 
-"Why doesn't this ship stick to the shore? Wouldn't that be both closer and safer?" Grede asked curiously. He pulled out the map he'd brought from the eastern continent and handed it to Jace, pointing at the southern Kalimoran coastline. "We could just follow the coast the whole way, no problem, right?"
+"Why doesn't this ship stick to the shore? Wouldn't that be both closer and safer?" Grede asked curiously. He pulled out the map he'd brought from the eastern continent and handed it to Jace, pointing at the southern Kalimdorian coastline. "We could just follow the coast the whole way, no problem, right?"
 
 Jace glanced at the Silithus desert on the map. It was almost entirely unlabeled, as though someone had just scribbled in a blank patch to fill the space.
 
@@ -18,7 +18,7 @@ Although this colossal insectoid hive was sealed by the magic of the Scarab Wall
 
 "Grede's reluctant to part with Mosa, so it makes sense he'd be attached to this continent. But what about you, Jace?" Vereesa asked.
 
-"Kalimor is dangerous, but these few months of traveling here have felt genuinely happy," Jace said honestly. "Back on the other continent, I'll have to face a whole set of problems again. Maybe some part of me wants to keep running away."
+"Kalimdor is dangerous, but these few months of traveling here have felt genuinely happy," Jace said honestly. "Back on the other continent, I'll have to face a whole set of problems again. Maybe some part of me wants to keep running away."
 
 Vereesa leaned against the wooden cabin wall and studied Jace for a moment, then said, "I understand that."
 
@@ -28,11 +28,11 @@ Vereesa leaned against the wooden cabin wall and studied Jace for a moment, then
 
 "Ah… ha, sorry," Grede said. "I was just asking."
 
-"You two — there's no point hiding anything from you." Vereesa adjusted the hood of her cloak. "It's probably Alleria, I don't know. Maybe what Sylvanas said to me before I left was right. I just wanted to find an excuse to come out here and take my mind off things. 'Ranger-Lord' was just a pretext, I don't know."
+"You two — there's no point hiding anything from you." Vereesa adjusted the hood of her cloak. "It's probably Alleria, I don't know. Maybe what Sylvanas said to me before I left was right. I just wanted to find an excuse to come out here and take my mind off things. 'Ranger Lord' was just a pretext, I don't know."
 
-Grede said, "Why can't it be both? On one hand, clear your head a little; on the other, see if you can earn yourself a Ranger-Lord title and show your second sister what you're made of."
+Grede said, "Why can't it be both? On one hand, clear your head a little; on the other, see if you can earn yourself a Ranger Lord title and show your second sister what you're made of."
 
-He pointed at Jace and said, "Look at him. I came out here to make money, and then I came traveling with Jace, and I wanted to see this continent for myself. I have to say, it's far more interesting than I imagined. I certainly wouldn't ignore the important goal of taking little Jace out sightseeing just because I came here to make money. Those two things don't conflict at all."
+He pointed at Jace and said, "Look at him. I came out here to make money, and then I came traveling with Jace, and I wanted to see this continent for myself. I have to say, it's far more interesting than I imagined. I certainly wouldn't ignore the important goal of taking young Jace out sightseeing just because I came here to make money. Those two things don't conflict at all."
 
 "You're not wrong, Grede," Vereesa said. "Maybe it's my deliberate avoidance of the first reason that's made it stand out all the more."
 
@@ -54,7 +54,7 @@ Grede glanced with a smile at the spot where Morophil was hiding and said, "They
 
 "Oh right, Jace, I need to remind you," Vereesa said. "Those scrolls and records related to Dasmora and the satyrs — whether they're Burning Legion orders or whatever incantations — I need to bring them all back to Quel'Thalas. That's part of the agreement. So you'd better use the time on the way back to copy every last thing down as a backup."
 
-Just then a wail came from the warlock's pack. Jace realized it hadn't been tied shut, so he cinched the straps tight and glanced outside the cabin to make sure the night elves hadn't heard the imp's shrieking.
+Just then a wail came from the warlock's bag. Jace realized it hadn't been tied shut, so he cinched the straps tight and glanced outside the cabin to make sure the night elves hadn't heard the imp's shrieking.
 
 "Not a single page can stay?" Jace asked.
 
@@ -62,7 +62,7 @@ Vereesa said, "They didn't mention anything about Dasmora herself, so you can ke
 
 The rest of it Jace didn't care much about. After all, copying down summoning incantations and ritual circles made no practical difference from keeping the originals — he wasn't some goblin collector.
 
-He was just a little worried that once he handed over the scroll recording the eredar necromancer, the Reliquary would set out to track down the Ursolus blade — and they'd find it before he did…
+He was just a little worried that once he handed over the scroll recording the eredar necromancer, the Reliquary would set out to track down the scythe Ulthalesh — and they'd find it before he did…
 
 Damn it. The moment the thought crossed his mind, Jace realized he actually did have the urge to go after that artifact.
 

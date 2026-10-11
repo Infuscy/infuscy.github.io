@@ -1,10 +1,10 @@
 ## Chapter 1768: Phantom Memories
 
-Dalaran, floating on Lake Lordamere, still looked like a fairy-tale castle from here. But like many fairy-tale castles, it also hid devils disguised as good people.
+Dalaran, floating on Lordamere Lake, still looked like a fairy-tale castle from here. But like many fairy-tale castles, it also hid devils disguised as good people.
 
 Jace handed his horse off to the local stable and looked around at the rows of cramped houses south of the bridge and the bustling crowds. He figured that right now, to most citizens of Dalaran and Lordaeron, *he* was probably the devil disguised as a good person.
 
-"Did you hide everything properly?" Vereesa asked. "Everything related to the demon... the Demon Soul."
+"Did you hide everything properly?" Vereesa asked. "Everything related to demons... to demon souls."
 
 "I think when you said 'you all,' you could've just used the singular," Grede said, glancing at Jace.
 
@@ -26,9 +26,9 @@ As they neared the bridgehead, the Dalaran arcane guards keeping watch at the ci
 
 "I remember," Vereesa said. "Leave it to me."
 
-"Apologies, but the inner city is currently closed to unrelated parties." The purple-robed guard strode up and sized up Vereesa and Sora. "Even for members of the Farstriders — I believe the Farstriders' mission in Dalaran concluded quite some time ago, ladies."
+"Apologies, but the inner city is currently closed to unrelated parties." The purple-robed guard strode up and sized up Vereesa and Sola. "Even for members of the Farstriders — I believe the Farstriders' mission in Dalaran concluded quite some time ago, ladies."
 
-Vereesa produced the Windrunner family crest and handed it to the guard. "I am Elenar Dawnstrider. This is Samira Shadowglen. We are here in Dalaran on an important mission under orders from Lady Sylvanas Windrunner. These humans and the dwarf are important 'evidence' — they were ambushed by orcs in the Eastern Wildlands. There may still be traces of orc warlock magic on them. I need to bring them to the Quel'Thalas embassy for examination by a Magister before the traces fade. You should be well aware that Quel'Thalas also does not permit 'unrelated parties' entry."
+Vereesa produced the Windrunner family crest and handed it to the guard. "I am Elenar Dawnstrider. This is Samira Shadowglen. We are here in Dalaran on an important mission under orders from Lady Sylvanas Windrunner. These humans and the dwarf are important 'evidence' — they were ambushed by orcs in the eastern wilds. There may still be traces of orc warlock magic on them. I need to bring them to the Quel'Thalas embassy for examination by a Magister before the traces fade. You should be well aware that Quel'Thalas also does not permit 'unrelated parties' entry."
 
 Vereesa's tone was as frigid as ever, making even the guard a little uneasy. After checking the Windrunner crest, he took a deep breath and looked at Jace and the others. Finally, he said, "The crest checks out, Lady Dawnstrider. I don't want to delay the Farstriders' pursuit of Horde remnants either. But please remove your mask for identification."
 
@@ -88,17 +88,17 @@ Jace looked out the window at the distant spires of the Violet Citadel. "I'm not
 
 "So what do we do? Who can we ask?" Grede downed half his glass in one gulp. "Isn't there any other mage we can trust?"
 
-"Lady Amy Marin?" Sora suggested softly.
+"Lady Amy Malin?" Sola suggested softly.
 
 "Wouldn't she be implicated too?" Vereesa asked.
 
-Right. Amy Marin.
+Right. Amy Malin.
 
 Jace rubbed his temples. If Khadgar was getting dragged into this, how could Amy possibly have escaped?
 
 She'd been deeply involved in the Draenor expedition, after all. Though at least she wasn't part of the Karazhan business — her connection to the demon and plague issues probably ran more distant.
 
-"Either way, we can't go to Amy," Jace said. "If the Kirin Tor went so far as to investigate Fort Ilgaral, then even if she hasn't been arrested, she's definitely under surveillance. If we go to her, we'd be walking into a trap and dragging her down with us. Even if the Kirin Tor had no reason to suspect her before, they'd have no choice after that."
+"Either way, we can't go to Amy," Jace said. "If the Kirin Tor went so far as to investigate the Tower of Ilgalar, then even if she hasn't been arrested, she's definitely under surveillance. If we go to her, we'd be walking into a trap and dragging her down with us. Even if the Kirin Tor had no reason to suspect her before, they'd have no choice after that."
 
 "You're right. Damn it," Grede muttered.
 
@@ -122,7 +122,7 @@ Grede and Needleflame nodded. Vereesa cleared her throat. "We should head to the
 
 "What a ridiculous parlor trick," Grede grumbled. "Stupid ap —"
 
-The arcane anomaly mumbled again. Vereesa and Sora clearly had no patience for these Dalaran-specific oddities. But Needleflame noticed that Jace, sitting across the table, had gone still, staring at the construct.
+The arcane anomaly mumbled again. Vereesa and Sola clearly had no patience for these Dalaran-specific oddities. But Needleflame noticed that Jace, sitting across the table, had gone still, staring at the construct.
 
 "What's wrong, Sesso?" she asked.
 
@@ -130,4 +130,4 @@ The arcane anomaly mumbled again. Vereesa and Sora clearly had no patience for t
 
 He tentatively whispered in Thalassian: "Stupid apprentice."
 
-The arcane construct suddenly switched to a slurred demonic tongue. "You took your sweet time getting here. Follow me, keep your head down, kid."
+The arcane construct suddenly switched to a slurred Demonic tongue. "You took your sweet time getting here. Follow me, keep your head down, kid."

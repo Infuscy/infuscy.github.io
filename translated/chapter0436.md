@@ -1,6 +1,6 @@
 ## Chapter 436: The Artifact's Effect
 
-Jace honestly didn't have much of an impression of the Crystal of Flowing Ice.
+Jace honestly didn't have much of an impression of the Flowing Ice Crystal.
 
 He seemed to remember it being one of the treasures the Dragonqueen rewarded to players after they stopped the blue dragon king's ambition to destroy the world.
 

@@ -2,7 +2,7 @@
 
 If he hesitated now, it would be too late!
 
-Jace pointed at the spot where the arcane flash had been and immediately began to incant — "Feark—"
+Jace pointed at the spot where the arcane flash had been and immediately began to incant — "Fek—"
 
 He'd barely gotten the word out before he felt something in his mind snap taut, as if a thread had broken. His mouth felt wrenched shut by something, and every muscle in his body seized up along with the shadow energy he'd just gathered, plunging him into a violent, wrenching pain!
 
@@ -34,7 +34,7 @@ If he waited for the naga to leave and jumped out down there, the moment he made
 
 Which meant his only chance was to wait in this house.
 
-Jace drew the battered blade he'd bought at the Westfall camp from behind his back, kicked off his shoes, and pressed himself against the wall, listening to every sound, waiting for the naga to enter the building.
+Jace drew the battered blade he'd bought at the Westbrook camp from behind his back, kicked off his shoes, and pressed himself against the wall, listening to every sound, waiting for the naga to enter the building.
 
 The surroundings gradually grew quiet — quiet enough that he could hear his own breathing.
 
@@ -111,19 +111,3 @@ The whole second floor reeked of blood and dead fish. Had that serpent-woman bee
 Even if she was dead, Jace wasn't going out there. He was going to sit right here and wait for that serpent-woman to bleed out… he absolutely would not be the one to make the first move.
 
 But the moment he'd made up his mind, he suddenly heard a low murmuring from somewhere in another room. She was chanting again.
-
-## Flags
-
-- **棍子** → "staff" — rendered as in ch.88.
-- **西泉营地** → "the Westfall camp" — refers to Westfall Keep area; flagged (not in glossary as a camp).
-- **破刀** → "battered blade" — Jace's cheap weapon; flagged.
-- **格瑞德** → "Grede" — per glossary. His advice rendered in bluff, hearty register consistent with his speech profile.
-- **困室** (chapter title) → "The Trapped Room" — Jace cornered in the house; flagged as a title choice.
-- **咯吱声** → "creak" (of timber); flagged.
-- **嚓嚓声** → "scraping sound"; flagged.
-- **沙沙声** → "rustling" (of scales); flagged.
-- **蛇人 / 女纳迦 / 蛇人** → "serpent-woman" / "naga" / "serpent-woman" — varied the rendering for flow while keeping "naga" as the primary term.
-- **温血畜生** → "warm-blooded vermin" — naga's insult in Common; flagged.
-- **恐怖谷** → "uncanny valley" — Jace's modern psychological reference; kept as deliberate anachronism consistent with transmigrator voice.
-- **故技重施** → "pull the same trick again" — idiom rendered for meaning/tone.
-- **多一事不如少一事** (ch.88 carryover in spirit) — not present here; no action.

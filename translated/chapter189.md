@@ -82,7 +82,9 @@ Looking at the priest, he asked a question he'd always been curious about.
 
 "Is the Light's power very effective against these undead?"
 
-"Of course," the priest said. "Warriors who believe in the Light are almost all driven by a righteous hatred, and the Light naturally answers their call — searing the flesh of these undead, purging the corruption that drives them." Jace swallowed and said, "So let's say an undead with free will appeared. What if he revered the Light — say, he was a devoted Church priest in life, and after death he didn't betray his faith. Would the Light descend upon him again?"
+"Of course," the priest said. "Warriors who believe in the Light are almost all driven by a righteous hatred, and the Light naturally answers their call — searing the flesh of these undead, purging the corruption that drives them."
+
+Jace swallowed and said, "So let's say an undead with free will appeared. What if he revered the Light — say, he was a devoted Church priest in life, and after death he didn't betray his faith. Would the Light descend upon him again?"
 
 "If he truly holds to it, why wouldn't it?" the priest countered.
 
@@ -111,9 +113,3 @@ Jace still didn't dare claim he understood the Light. He could only speculate ab
 Either way, he could breathe a little easier.
 
 At least from now on, even if a priest tried to heal his injuries with the Light, he didn't need to worry about getting incinerated to ashes or anything like that.
-
-## Flags
-
-- **"Oh, that just made it worse":** Jace's internal reaction to "as long as your heart believes in the Light." Not a glossary term — kept the dry, self-aware Jace voice.
-- **"what he was made of":** Jace's idiom for testing his own nature. Not in glossary.
-- **"guy is something else":** Jace's reaction to the priest's tough-minded theology. Kept colloquial register.

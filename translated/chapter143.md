@@ -16,13 +16,13 @@ A series of explosions sounded in the distance, then more shouting. Soldiers' fu
 
 The girl nodded. Jace finished and followed Grede out of the alley. He watched the giant shape bank in midair and fly to the other side of the town hall. The wind from its wings nearly snuffed out the nearby flames, blowing so hard that Jace and Grede could barely keep their feet.
 
-What kind of dragon was this... an adult? A hatchling?
+What kind of dragon was this... an adult? A drake?
 
 Jace had no frame of reference for what real dragons looked like in Azeroth. Given that gryphons looked more like mythical creatures than their game counterparts, dragons probably weren't that cartoony either.
 
-Going purely off his vague game impressions, the silhouette he'd seen looked like a hatchling.
+Going purely off his vague game impressions, the silhouette he'd seen looked like a drake.
 
-But how could a hatchling cause this much destruction? If it was a hatchling... shouldn't it be one of a pack of mobs?
+But how could a drake cause this much destruction? If it was a drake... shouldn't it be one of a pack of mobs?
 
 He realized he wasn't making the mistake of applying game logic to the real world for the first time. He had to correct that thinking fast and not jump to comparisons.
 
@@ -56,7 +56,7 @@ A gryphon rider!
 
 Grede roared something in Dwarvish. The rider in the sky seemed to hear him and laughed back in similar words. The voice suddenly grew near, then faded as the gryphon sped away — chasing after the dragon's shadow!
 
-Grede was so excited he practically about to explode. He wanted to find a rocket on the spot and launch himself into the sky to join the fight. But Jace felt his gut tighten.
+Grede was so excited he was practically about to explode. He wanted to find a rocket on the spot and launch himself into the sky to join the fight. But Jace felt his gut tighten.
 
 Could a gryphon rider beat that dragon?
 
@@ -161,14 +161,3 @@ All because of that damn dragon that had shown up out of nowhere.
 So saying, Grede turned to leave.
 
 "I'm coming with you!"
-
-## Flags
-
-- **狮鹫骑士** → gryphon rider. Standard WoW term; not in glossary as a compound. Flagged.
-- **矮人语** → Dwarvish. Standard rendering.
-- **战吼buff** → Battle Shout buff. Kept the gamer tone (Battle Shout is the warrior spell); Jace's internal metaphor.
-- **回马枪** → "feinting." The dragon's fake-out maneuver; rendered for meaning/tone.
-- **辛特兰** → The Hinterlands (glossary).
-- **狮鹫** → gryphon. The mount is described as dark-green; no proper name given.
-- **矮人符文的战锤** → war hammer inscribed with dwarven runes. No proper item name given; the weapon's lightning effect suggests it's enchanted.
-- **我的弟兄** → "my brothers." Grede means his fellow Wildhammer dwarves/gryphon riders.

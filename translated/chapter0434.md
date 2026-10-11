@@ -1,6 +1,6 @@
 ## Chapter 434: A New Name
 
-After bidding farewell to Marin, Jace leaned on his staff and headed out the door.
+After bidding farewell to Malin, Jace leaned on his staff and headed out the door.
 
 The night was later now. Though it was probably already August — the hottest time of year back in Stormwind — the Blasted Lands was swept by chilling winds.
 
@@ -78,7 +78,7 @@ Jace's expression slowly shifted from curiosity to speechlessness.
 
 "Khadgar," Grede answered readily.
 
-"Ah… damn it, so that's a Bronzebeard accent," he said, suddenly catching on. "The point is, there are already too many dwarves and humans in this world named Kaedgar, Kaeldgael, Khadgar, and Khardhag. What's the harm in sharing a name…"
+"Ah… damn it, so that's a Bronzebeard accent," he said, suddenly catching on. "The point is, there are already too many dwarves and humans in this world named Khadgar, Kaeldgael, Kadgar, and Khardhag. What's the harm in sharing a name…"
 
 "No!" Jace said. "Think of another one!"
 

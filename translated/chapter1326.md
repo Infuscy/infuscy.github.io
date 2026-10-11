@@ -1,4 +1,4 @@
-## Chapter 1326: The War-Bringer's Ring
+## Chapter 1326: The Warbringer's Ring
 
 Hellfire Citadel was far larger than Jace remembered, both before and after its destruction. At least the wall tops looked familiar.
 
@@ -6,11 +6,11 @@ Passing through a gate heavily guarded by fel orc sentries, they entered the cit
 
 Many low-ranking fel orc infantry and laborers lived here. Some laborers seemed to differ very little from green-skinned orcs apart from their red skin. How much Magtheridon's blood you could drink clearly depended on your status in the Horde.
 
-Beyond the fel orcs reeking of demon stench, what surprised Jace most were the wargs.
+Beyond the fel orcs reeking of demon stench, what surprised Jace most were the worgs.
 
-These wargs had drunk neither Mannoroth's blood nor Magtheridon's. They still looked the way they had before the demons descended on Draenor. They might have grown more vicious and bloodthirsty from the fel and shadow influence, but their loyalty to their masters -- whether green or red -- remained unchanged.
+These worgs had drunk neither Mannoroth's blood nor Magtheridon's. They still looked the way they had before the demons descended on Draenor. They might have grown more vicious and bloodthirsty from the fel and shadow influence, but their loyalty to their masters -- whether green or red -- remained unchanged.
 
-As they neared the wargs, Jace worried the beasts might sniff out something wrong with their disguise. But Sabellian walked right up and started teasing the vicious animals in orcish, completely unconcerned. Despite his casual manner, not a single warg dared make a sound. None would even meet his eyes.
+As they neared the worgs, Jace worried the beasts might sniff out something wrong with their disguise. But Sabellian walked right up and started teasing the vicious animals in Orcish, completely unconcerned. Despite his casual manner, not a single worg dared make a sound. None would even meet his eyes.
 
 As they climbed higher along the wall, Jace looked out over the distant sections and the fortress proper. In a single glance, he could see hundreds, maybe thousands, of fel orcs hauling things, training for combat, eating, and resting.
 
@@ -20,21 +20,21 @@ Even Sabellian's expression turned slightly serious at this point. He probably h
 
 It wasn't that surprising, really. To gather his forces, Kargath had even gone to Garadar to recruit the Mag'har orcs. Even though he'd been rebuffed, it showed just how determined he was to rebuild the Horde.
 
-If the Burning Legion launched a full assault and Kargath chose to remain loyal to Kil'jaeden, then with the demon army's help, Honor Hold would be under terrifying pressure, and even Alleria's Keep would struggle to provide support.
+If the Burning Legion launched a full assault and Kargath chose to remain loyal to Kil'jaeden, then with the demon army's help, Honor Hold would be under terrifying pressure, and even Allerian Stronghold would struggle to provide support.
 
-"Why didn't you fly here on your red dragons, Nai'horgar and Nai'jagg?" Gargom asked as they walked.
+"Why didn't you fly here on your red dragons, Naihogar and Naigag?" Gargolmar asked as they walked.
 
-"You might not know the situation in the south, Watcher Gargom." Jace said. "That would be an easy way to attract the Alliance and the black dragons. Red dragons are too conspicuous. If they could actually fly this far, Chieftain Zuluhed would have sent two Skybreakers to deliver the message, not two warlocks."
+"You might not know the situation in the south, Watchkeeper Gargolmar." Jace said. "That would be an easy way to attract the Alliance and the black dragons. Red dragons are too conspicuous. If they could actually fly this far, Chieftain Zuluhed would have sent two Skybreakers to deliver the message, not two warlocks."
 
-Gargom cocked his head. "I've heard some powerful red dragons can fly against the pull of the shattered void -- beyond any magical beast I've ever seen."
+Gargolmar cocked his head. "I've heard some powerful red dragons can fly against the pull of the shattered void -- beyond any magical beast I've ever seen."
 
 "I have to correct that. Only black dragons can do that." Sabellian said, keeping pace beside him. "Red dragons are too weak. That's why Zuluhed is cultivating a new dragon breed from Deathwing's eggs. He believes this dragon kind, matured by void energy, will have the power to soar through the Twisting Nether. May his plan succeed!"
 
-"So you do have your own red dragon mounts, just kept at Dragonmaw Fortress," Gargom said.
+"So you do have your own red dragon mounts, just kept at Dragonmaw Fortress," Gargolmar said.
 
 "Of course." Sabellian said with considerable pride. "The one I ride is called Thunderfist. His temper is as volatile as his name suggests."
 
-"An interesting name. And yours, Nai'jagg?" Gargom asked the other warlock.
+"An interesting name. And yours, Naigag?" Gargolmar asked the other warlock.
 
 "Fire Opal." Jace answered without hesitation. "Her heart is as brave and passionate as her name."
 
@@ -42,17 +42,17 @@ Gargom cocked his head. "I've heard some powerful red dragons can fly against th
 
 Sabellian only caught on to this after a moment. His stare toward Jace froze. Jace stared right back.
 
-Just then, a fel orc messenger ran out of a passageway, pounded his chest with a fist before Gargom, and said, "The Warchief is in the arena, Watcher. It may be some time before he can respond."
+Just then, a fel orc messenger ran out of a passageway, pounded his chest with a fist before Gargolmar, and said, "The Warchief is in the arena, Watchkeeper. It may be some time before he can respond."
 
-"Take me to the Warchief." Gargom turned back. "Wait here for now."
+"Take me to the Warchief." Gargolmar turned back. "Wait here for now."
 
-"No problem, Watcher Gargom." Sabellian replied.
+"No problem, Watchkeeper Gargolmar." Sabellian replied.
 
-The black dragon scanned the surrounding fel orcs. Satisfied that they were either training or feeding wargs -- none paying attention -- he looked at Jace. "Sincere. Kind to your kind. And you keep your word. How can one person show such completely different faces to a father and his daughter, my dear Nai'jagg?"
+The black dragon scanned the surrounding fel orcs. Satisfied that they were either training or feeding worgs -- none paying attention -- he looked at Jace. "Sincere. Kind to your kind. And you keep your word. How can one person show such completely different faces to a father and his daughter, my dear Naigag?"
 
 Jace's voice was cold. "What, hard for you to imagine? You, a shape-shifter who was a hundred feet long yesterday and looks like this today?"
 
-Sabellian's shoulders shook with laughter. "Alright, alright. Truce. Warchief Kargath Bladefist, whom we're about to meet, isn't stupid like Gargom, whose brain was rattled by draenei crystal hammers. He's good at reading people."
+Sabellian's shoulders shook with laughter. "Alright, alright. Truce. Warchief Kargath Bladefist, whom we're about to meet, isn't stupid like Gargolmar, whose brain was rattled by draenei crystal hammers. He's good at reading people."
 
 "Agreed." Jace said casually, tugging at his cloak.
 
@@ -78,7 +78,7 @@ Jace immediately noticed a one-eyed orc warlock sitting across from them, watchi
 
 Jace still remembered this place. When he saw the two-headed ogre sitting up high, roaring with laughter, he confirmed his judgment.
 
-"Welcome to the War-Bringer's Ring, emissaries of the Dragonmaw!" The two-headed ogre banged on the steel rail in front of him.
+"Welcome to the Warbringer's Ring, emissaries of the Dragonmaw!" The two-headed ogre banged on the steel rail in front of him.
 
 "Look upon our Warchief!"
 
@@ -90,17 +90,17 @@ The golden-furred beast across from him dragged a furry tail and held a bloody b
 
 He wasn't a demon, nor an ogre, nor any creature Jace had ever seen. When he slowly circled around until he was facing this direction, Jace realized with surprise that this thing had a face like a big cat.
 
-A Saberon?
+A saberon?
 
-Jace hadn't expected to meet this supposedly extinct race in present-day Draenor. But this was indeed a living, breathing Saberon.
+Jace hadn't expected to meet this supposedly extinct race in present-day Draenor. But this was indeed a living, breathing saberon.
 
-Before Jace could get a good look, the Saberon lunged silently. His movements seemed incredibly powerful, but Kargath easily deflected the axe with his wrist.
+Before Jace could get a good look, the saberon lunged silently. His movements seemed incredibly powerful, but Kargath easily deflected the axe with his wrist.
 
-Almost simultaneously, the orc Warchief's other wrist smashed into the Saberon's face. The fight was over in an instant. The Saberon lay unconscious in a pool of blood gushing from his nose and mouth.
+Almost simultaneously, the orc Warchief's other wrist smashed into the saberon's face. The fight was over in an instant. The saberon lay unconscious in a pool of blood gushing from his nose and mouth.
 
-The War-Bringer's Ring erupted in frenzied cheers. But Kargath only raised his hand slightly, looking at his defeated opponent and murmuring something to the orcs dragging him away.
+The Warbringer's Ring erupted in frenzied cheers. But Kargath only raised his hand slightly, looking at his defeated opponent and murmuring something to the orcs dragging him away.
 
-"A great warrior, isn't he, Nai'jagg?" Sabellian said quietly.
+"A great warrior, isn't he, Naigag?" Sabellian said quietly.
 
 Jace nodded. Then he noticed something strange among the crowd of cheering orcs and ogres diagonally across from them -- a rather odd figure standing silently, painfully conspicuous.
 

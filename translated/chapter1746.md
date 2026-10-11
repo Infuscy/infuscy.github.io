@@ -28,7 +28,7 @@ And frankly, Jace couldn't even explain how he knew the legendary "Betrayer" was
 
 Vereesa glared at the dwarf and muttered something, then called out: "I mean, the Kaldorei hate black dragons. If Needleflame just flies in like this, won't there be problems?"
 
-"Since we're here to visit Priestess Tyrande Whisperwind, I think honesty is better, Vereesa." Mossa's voice was too muffled by the wind to hear clearly. "I can accept a kind young black dragon. The ancient Kaldorei, who've lived millennia or even tens of millennia, should be even more open-minded..."
+"Since we're here to visit Priestess Tyrande Whisperwind, I think honesty is better, Vereesa." Mosa's voice was too muffled by the wind to hear clearly. "I can accept a kind young black dragon. The ancient Kaldorei, who've lived millennia or even tens of millennia, should be even more open-minded..."
 
 "The fact is, old folks tend to be more conservative," Grede said.
 
@@ -48,7 +48,7 @@ Vereesa glared at the dwarf and muttered something, then called out: "I mean, th
 
 This was the first time Jace's group had entered Ashenvale from the Barrens side.
 
-The first time they came to Kalimdor, they never made it to the north. The second time, after escaping the quilboar pursuit at the northern end of the Rushing River, they'd fallen into a night elf encirclement.
+The first time they came to Kalimdor, they never made it to the north. The second time, after escaping the quilboar pursuit at the northern end of the Southfury River, they'd fallen into a night elf encirclement.
 
 Back then, entering Ashenvale's dark forest, with starlight-like arcane energy scattered everywhere, had left a deep impression on Jace.
 
@@ -56,7 +56,7 @@ But this time, there was none of that dreamlike feeling of stepping from a barre
 
 The terrain grew rougher beneath them, with more trees, but withered grass, bare slopes, and dead trees were still everywhere. It wasn't like in the game where passing an orc watchtower meant plunging into a completely different world.
 
-Probably because in the game, the trees here had all been logged by the orcs to build Orgrimmar and Warsong Hold. The night elves, pushed past endurance, had to defend the forest's edge at the front lumber camp, creating that stark contrast.
+Probably because in the game, the trees here had all been logged by the orcs to build Orgrimmar and the Warsong Lumber Camp. The night elves, pushed past endurance, had to defend the forest's edge at the front lumber camp, creating that stark contrast.
 
 In the game, the Kaldorei hadn't joined the fight against the Burning Legion because the Alliance asked for help... By then, the Alliance had already crumbled in name due to the Scourge invasion.
 
@@ -82,7 +82,7 @@ It was the call of hippogryphs. Jace knew it'd be easier to let the night elves 
 
 "Why do Ysera's daughters fly in the waking world?" the Kaldorei called out.
 
-The green dragon ahead turned her head and replied: "I am Somnalir. Several years ago, Priestess Tyrande Whisperwind requested that the dwarf Grede Thunderfist bring Jace Sesso and Vereesa Windrunner to Ashenvale. And now we have come."
+The green dragon ahead turned her head and replied: "I am Somaelir. Several years ago, Priestess Tyrande Whisperwind requested that the dwarf Grede Thunderfist bring Jace Sesso and Vereesa Windrunner to Ashenvale. And now we have come."
 
 "Sesso..."
 
@@ -100,12 +100,12 @@ These beings could hardly be called "mortal" anymore. A young dragon wasn't enou
 
 "Unbelievable," a night elf rider said in Common. "I never imagined anyone could tame a young black dragon as a mount, Archmage Jace Sesso. Priestess Tyrande Whisperwind has indeed been awaiting you at Astranaar..."
 
-Before he could finish his sentence, Vereesa, Grede, Sora, and Mossa almost simultaneously snapped their heads toward Jace, their expressions filled with horror. Jace felt a cold shiver run down his spine.
+Before he could finish his sentence, Vereesa, Grede, Sola, and Mosa almost simultaneously snapped their heads toward Jace, their expressions filled with horror. Jace felt a cold shiver run down his spine.
 
 Oh no.
 
 Needleflame let out a piercing shriek and started thrashing wildly. Jace barely managed to grab tight onto her neck and hold on -- otherwise he'd have been flung off instantly.
 
-"Who's the mount?! Who's the mount?!" The black dragon screamed in the dragon tongue, eyes squeezed shut. The surrounding hippogryphs flapped wildly in chaos -- some dove, some climbed, some flew away. The air was in complete pandemonium.
+"Who's the mount?! Who's the mount?!" The black dragon screamed in Draconic, eyes squeezed shut. The surrounding hippogryphs flapped wildly in chaos -- some dove, some climbed, some flew away. The air was in complete pandemonium.
 
 "No one is worthy of riding on your back, noble Lady Phydygonia! I only asked because I have no wings and walking takes too long..."

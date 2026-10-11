@@ -10,9 +10,9 @@ The Nathrezim seemed to be exploiting exactly that. He didn't need to show himse
 
 But Jace had no intention of chasing through those crumbling corridors.
 
-"Ayazi. Valtavar. Sheluti..."
+"Ayazi. Val'tavar. Sheluti..."
 
-The warlock drew on the shadow energy saturating the place, lifting Uthalesh slightly. Blood-red magic tore through the tattered robe already corroded by the darkness filling the room. Chaotic shadows swirled in from all sides, gathering around him, making the center darker than the edges.
+The warlock drew on the shadow energy saturating the place, lifting Ulthalesh slightly. Blood-red magic tore through the tattered robe already corroded by the darkness filling the room. Chaotic shadows swirled in from all sides, gathering around him, making the center darker than the edges.
 
 The darkness grew thicker, quieter, slowly becoming a deep well like the blackest depths of the ocean.
 
@@ -20,9 +20,9 @@ The darkness grew thicker, quieter, slowly becoming a deep well like the blackes
 
 Beyond the incantation, Jace seemed to speak with another voice to the space around him. "Let me show you the difference between that orc Gul'dan's magic and mine..."
 
-"Kayazi. Sheluti. Palavat..."
+"Kayazi. Sheluti. Paravat..."
 
-The incantation wasn't finished, but pale purple fel-fire was already churning within the thick, blood-dark well of shadow.
+The incantation wasn't finished, but pale purple fel fire was already churning within the thick, blood-dark well of shadow.
 
 The eerie purple light rippled outward, illuminating the shadow-smothered walls. The extinguished arcane candles were all replaced by soul-fire, reflecting in the warlock's eyes like ghost-flame.
 
@@ -30,15 +30,15 @@ The eerie purple light rippled outward, illuminating the shadow-smothered walls.
 
 With the shrieking of void energy, the demon's laughter cut off sharply.
 
-Anguished howls — as if from multiple voices at once — erupted from every direction in the next instant. The pervasive darkness weakened, then visibly collapsed under the suction of the central soul-well.
+Anguished howls — as if from multiple voices at once — erupted from every direction in the next instant. The pervasive darkness weakened, then visibly collapsed under the suction of the central Soul Well.
 
-He couldn't escape the soul-well's grasp.
+He couldn't escape the Soul Well's grasp.
 
-Through his blood-magic sight, Jace saw the scattered shadow-fragments writhing, converging faster than his eye could follow, bouncing from place to place. But he knew — wherever the demon went, his ultimate destination was right in front of Jace, to stop him from completing the soul-well. And at this speed, the demon wouldn't make it in time.
+Through his blood-magic sight, Jace saw the scattered shadow-fragments writhing, converging faster than his eye could follow, bouncing from place to place. But he knew — wherever the demon went, his ultimate destination was right in front of Jace, to stop him from completing the Soul Well. And at this speed, the demon wouldn't make it in time.
 
 Threads of shadow from every direction wove together like a spider's web. A massive form — like a fallen bird blotting out the night sky — took shape rapidly.
 
-A claw wreathed in emerald fel-fire slammed down from above — only to sink weakly into a murky black membrane shimmering with an unsettling kaleidoscope of magical light. It couldn't push through no matter how hard it tried.
+A claw wreathed in emerald fel fire slammed down from above — only to sink weakly into a murky black membrane shimmering with an unsettling kaleidoscope of magical light. It couldn't push through no matter how hard it tried.
 
 The next moment, the black membrane exploded, blasting away the darkness that had concealed the shadowy figure. The chamber walls shattered and crumbled. The ceiling collapsed, revealing magical runes beneath — which quickly caught fire and burned to ash.
 
@@ -46,9 +46,9 @@ The whole palace shuddered, tilting further, growing more unstable by the second
 
 Tichondrius revealed his true form. The ancient dreadlord wore black-and-gold battle armor — worn, battered, but still intricate and ornate. His shoulder guards curved up like scimitars. Each intact plate was shaped like a blade that could slit a paladin's throat with ease.
 
-The skin between the armor's gaps was corpse-pale. A pair of goat-like horns and grotesquely oversized claws all blazed with fel-fire. His skeletal eye sockets held eerie, flickering ghost-eyes that seemed ready to leap out.
+The skin between the armor's gaps was corpse-pale. A pair of goat-like horns and grotesquely oversized claws all blazed with fel fire. His skeletal eye sockets held eerie, flickering ghost-eyes that seemed ready to leap out.
 
-His pale bat-wings, stained with fel energy and shadow, were enormous — nearly spanning half the chamber. He swept the collapsing remnants of the soul-well into his wings, then spun and hurled them out as a volley of shadow-bolts.
+His pale bat-wings, stained with fel energy and shadow, were enormous — nearly spanning half the chamber. He swept the collapsing remnants of the Soul Well into his wings, then spun and hurled them out as a volley of shadow-bolts.
 
 Massive as he was, laden with more corrupt ornaments than even the dragons, his movements were as swift as a Kaldorei warrior's. The explosion of the shadow-shield brought little pain to this ancient demon from the depths of the Twisting Nether.
 
@@ -58,7 +58,7 @@ The futility of struggle. The despair of approaching doom. The death of a world 
 
 The shadow-corruption couldn't shake him completely — but he'd tasted too much of it already.
 
-The dreadlord hadn't expected his shadow-volley to destroy Uthalesh's master. Seizing the moment, he raised both claws, beginning to channel a more powerful shadow spell, his eyes fixed on the center of the hall where a twisting vortex of darkness had formed.
+The dreadlord hadn't expected his shadow-volley to destroy Ulthalesh's master. Seizing the moment, he raised both claws, beginning to channel a more powerful shadow spell, his eyes fixed on the center of the hall where a twisting vortex of darkness had formed.
 
 Suddenly, massive shadow-claws seized him by the throat and wrists, disrupting his channeling.
 
@@ -84,7 +84,7 @@ The Nathrezim lord muttered in Demonic, but his Blood Boil only grew crueler. Ja
 
 This was nothing like simple flame-burn. Every drop of blood seemed to have its own will — going mad, raging, even self-destructing under the demon's guidance. Jace had no idea what magic was achieving this.
 
-"Luhrakvinkta..."
+"Luhravenkta..."
 
 The shadows filling the chamber were suddenly wrenched into the warlock's chest by an invisible hand. His face, pale a moment ago, flushed deep with life, then turned dark violet.
 
@@ -92,9 +92,9 @@ The heart that had nearly burned to a boil suddenly cooled. The deafening static
 
 This Life Tap converted the traitorous blood — enslaved by the dreadlord — directly into shadow power, letting it flow alongside his remaining healthy blood. The ancient demon seemed to grasp at nothing. But before he could make his next move or intensify the Blood Boil, a dark sigil appeared on his pale, cracked forehead.
 
-"Vita. Tahotoshki. Miron. Tahototani..."
+"Vita. Tahotusqi. Milon. Tahototani..."
 
-Jace raised Uthalesh and shouted the Enslave Demon incantation. Tichondrius coughed out a laugh and seized the sigil with a fel-fire-wreathed claw.
+Jace raised Ulthalesh and shouted the Enslave Demon incantation. Tichondrius coughed out a laugh and seized the sigil with a fel fire-wreathed claw.
 
 But the next moment, he wasn't laughing. Because he found he couldn't tear the enslavement brand off.
 
@@ -102,7 +102,7 @@ Not just because the Life Tap had channeled so much shadow power that Jace's man
 
 *— Obey the true Lord of Nathreza, Tichondrius. You have forgotten your former master. You betrayed me to join Sargeras's Legion, calling yourself King of the Nathrezim. It's time to set things right.*
 
-"You are no Lord of Nathreza! Not since Sargeras imprisoned you on Mardum! Uthalesh, you are nothing but a pitiful thing that doesn't know itself — admit it!"
+"You are no Lord of Nathreza! Not since Sargeras imprisoned you on Mardum! Ulthalesh, you are nothing but a pitiful thing that doesn't know itself — admit it!"
 
 The ancient demon's voice grew more distorted, more hoarse, as if countless different voices were speaking different phrases at once, yet somehow still being understood as a whole.
 
@@ -114,7 +114,7 @@ Roaring, the dreadlord laughed wildly as he thrashed, then launched himself into
 
 His entire body exploded into a cloud of black miasma. The rotting armor clattered down, rolling along the tilted floor. Jace's enslavement spell shattered with it.
 
-Uthalesh laughed coldly. Tichondrius had destroyed himself — Jace had expected as much. He immediately cast Drain Soul, reaching out to grasp the demon's spirit as it fled through the shattered shadow-flesh — only to feel another, far more powerful force wrenching it from the other side.
+Ulthalesh laughed coldly. Tichondrius had destroyed himself — Jace had expected as much. He immediately cast Drain Soul, reaching out to grasp the demon's spirit as it fled through the shattered shadow-flesh — only to feel another, far more powerful force wrenching it from the other side.
 
 If he'd only felt the vibration of this arcane power, Jace might not have been able to identify it. But once it started pulling against him, the energy became unmistakable. It was the same strange force that had tumbled him through that narrow pipe during Khadgar's teleportation spell.
 

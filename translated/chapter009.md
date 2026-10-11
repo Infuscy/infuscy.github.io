@@ -2,13 +2,13 @@
 
 Stepping out the door, Jace watched the morning foot traffic ebb and flow and realized that the people in the Mage Quarter all seemed to share a similar aesthetic — or at least follow a particular trend: blue or purple robes or short jackets, light-colored trousers, and so on. Even those who dressed differently didn't stray too far from the formula.
 
-And Jace's threadbare linen shirt stood out like a sore thumb among the people coming and going from the Wizard Sanctum.
+And Jace's threadbare linen shirt stood out like a sore thumb among the people coming and going from the Wizard's Sanctum.
 
 If he was going to make a life in the Mage Quarter, he might as well go buy some new clothes. Being mistaken for a thief inside would be no good.
 
 Near the entrance to the Mage Quarter, right at the base of the city wall, there was a tailor shop. An old oak tree by the door had nearly grown into the stone wall, its canopy blocking the windows on the second floor and obscuring part of the shop's sign.
 
-But it was still legible: "Duncan's — Tailoring & Ready-Made."
+But it was still legible: "Duncan's Textiles."
 
 Jace had been here once before when he was job-hunting. Sure enough, the moment he walked in, the red-haired owner frowned.
 
@@ -68,7 +68,7 @@ Inside the box lay a thin outer garment, black with a hint of pale purple. It wa
 
 "Dead Man's Shirt." The owner lowered his voice and said conspiratorially, "The original maker of this garment was a mage of great renown in Stormwind — but he was secretly practicing necromancy. To keep the necrotic energy from harming himself, he magically stitched this piece, which naturally possesses shadow resistance."
 
-Here he raised his tone slightly: "The famous Royal Court Mage Nielas Aran's distinguished disciple, Alfred Veblen, was its previous owner. To counter the fire magic of orcish warlocks, he personally enchanted this garment with fire resistance — making it a perfect match for your requirements."
+Here he raised his tone slightly: "The famous Court Conjurer Nielas Aran's distinguished disciple, Alfred Veblen, was its previous owner. To counter the fire magic of orcish warlocks, he personally enchanted this garment with fire resistance — making it a perfect match for your requirements."
 
 By this point, the owner was narrating like a bard singing a ballad: "It's just that Master Veblen fell in the decisive battle in the Hillsbrad Foothills. His grandson sold this garment to us. It's said the damage to the hem of the robe was caused by the flames of a red dragon, so we converted it from a robe into a short jacket."
 
@@ -101,16 +101,3 @@ Leaving the tailor shop, the sunlight was a bit blinding.
 Seeing a garment that cost seven gold, Jace found it a little hard to accept — and a lot sobering.
 
 Since he was tight on money right now, he'd better forget about things like changing clothes. Better to stay grounded and get the potions sorted first.
-
-## Flags
-
-- 邓肯: rendered as "Duncan" (glossary has Duncan as the tailor in the Mage Quarter; shop name "Duncan's").
-- 死者短衣: rendered as "Dead Man's Shirt" (unique item name; not in glossary — tentative, could also be "Corpse Shirt" or "Shroud of the Dead").
-- 聂拉斯·埃兰: rendered as "Nielas Aran" (canonical WoW character, Medivh's father; not in glossary).
-- 阿尔弗雷德·凡勃伦: rendered as "Alfred Veblen" (OC; not in glossary — surname rendering tentative).
-- 王家御前法师: rendered as "Royal Court Mage" (not in glossary).
-- 丝绸: rendered as "silk" (material; not in glossary).
-- 暴风狮徽: rendered as "golden lion sigil" (glossary has 暴风狮徽盾牌 = Stormwind lion-emblem shields; here used for the emblem alone).
-- 金狮子: rendered as "golden lion" (Stormwind heraldry reference).
-- 金属恶龙张开血盆大口: rendered as "a metal dragon baring its fangs" (Jace's sarcastic mental image for pauldrons).
-- 山岭巨人: rendered as "mountain giant" (WoW creature; not in glossary).

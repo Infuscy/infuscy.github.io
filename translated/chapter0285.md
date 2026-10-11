@@ -2,31 +2,31 @@
 
 After everyone had left, only Jace and Ursula remained in the basement. Today was Saturday — no classes all day. Jace didn't really want to go back home and face Morophil either. He wasn't the only one with psychological scars from last night.
 
-"I thought you didn't care much about Jagin," Ursula said, holding her wine cup.
+"I thought you didn't care much about Gakin," Ursula said, holding her wine cup.
 
 Jace glanced at her. He honestly couldn't tell if he was sad right now or feeling something else entirely.
 
 But a person he'd known was dead, so he just nodded. "He taught me a lot!"
 
-Ursula nodded. "Jagin always wanted to teach me incantations too, even though it was just a waste of time. At first I felt it was a shame I couldn't learn any magic. Now that I think about it, not touching something this dangerous isn't the worst outcome."
+Ursula nodded. "Gakin always wanted to teach me incantations too, even though it was just a waste of time. At first I felt it was a shame I couldn't learn any magic. Now that I think about it, not touching something this dangerous isn't the worst outcome."
 
-Jace said, "The Shadow is genuinely dangerous. It can influence a person's emotions, making them impulsive, irritable, suspicious… the more you use it, the stronger these negative emotions become. As a caster, I think we should find ways to resist that infectiousness. Jagin clearly mistook those Shadow-induced influences for his own thoughts."
+Jace said, "The Shadow is genuinely dangerous. It can influence a person's emotions, making them impulsive, irritable, suspicious… the more you use it, the stronger these negative emotions become. As a caster, I think we should find ways to resist that infectiousness. Gakin clearly mistook those Shadow-induced influences for his own thoughts."
 
 "Is that your own conclusion?" Ursula asked.
 
-"Didn't Galders say something about it?" Jace said. "I always thought you didn't want to learn magic because you couldn't be bothered. Now it seems you actually tried?"
+"Didn't Zardeth say something about it?" Jace said. "I always thought you didn't want to learn magic because you couldn't be bothered. Now it seems you actually tried?"
 
-"Of course I tried," Ursula said. "Maybe I'm the exact opposite of you. You seem to have an exceptionally strong talent, but as for me… Galders once told me that the Shadow refuses no one, but that line just doesn't work on me."
+"Of course I tried," Ursula said. "Maybe I'm the exact opposite of you. You seem to have an exceptionally strong talent, but as for me… Zardeth once told me that the Shadow refuses no one, but that line just doesn't work on me."
 
-Jace said, "Try casting Curse of Weakness on me. The one Jagin brought up during the meeting last time."
+Jace said, "Try casting Curse of Weakness on me. The one Gakin brought up during the meeting last time."
 
-"On me?"
+"On you?"
 
 "It's not like it'll do any harm."
 
 "All right…"
 
-Ursula nodded, sat up straight, and intoned, "Anun'jii, Dur'zala, Kana…"
+Ursula nodded, sat up straight, and intoned, "Anuniji, Durzala, Kana…"
 
 She pronounced it quite standardly and skillfully, but Jace genuinely couldn't sense any movement of shadow magic.
 
@@ -52,7 +52,7 @@ Jace asked, "You have been practicing seriously, right? Otherwise you wouldn't k
 
 "I don't know," Jace said. "No harm in trying."
 
-The two of them went into the alchemy lab. The alchemist buried herself in the cabinets rummaging around, finally pulling out a reddish potion from the very back. "This one's perfect. If I don't get rid of it soon it'll expire and go to waste. I honestly forgot why I made this in the first place. Probably something Jagin wanted."
+The two of them went into the alchemy lab. The alchemist buried herself in the cabinets rummaging around, finally pulling out a reddish potion from the very back. "This one's perfect. If I don't get rid of it soon it'll expire and go to waste. I honestly forgot why I made this in the first place. Probably something Gakin wanted."
 
 She looked at Jace. "I drink it now?"
 
@@ -62,7 +62,7 @@ After a while, she couldn't help laughing. "Damn it, there's nothing to get angr
 
 "You're very annoying," Jace said flatly.
 
-"What?" Ursula looked like she'd been suddenly slapped. She asked unhily, "Why would you say that out of nowhere?"
+"What?" Ursula looked like she'd been suddenly slapped. She asked unhappily, "Why would you say that out of nowhere?"
 
 "I felt like it."
 
@@ -70,7 +70,7 @@ After a while, she couldn't help laughing. "Damn it, there's nothing to get angr
 
 "Right now," Jace said. "Curse of Weakness!"
 
-Ursula caught on immediately. She raised her hand and, using the casting stance she'd described to Jagin earlier, spoke the Curse of Weakness incantation at Jace.
+Ursula caught on immediately. She raised her hand and, using the casting stance she'd described to Gakin earlier, spoke the Curse of Weakness incantation at Jace.
 
 Jace suddenly felt a faint dizziness, like a blood-sugar drop. He didn't feel his legs go weak or anything, but he could already feel the shadow energy taking effect — faint, but clear enough.
 
@@ -82,7 +82,7 @@ He looked over. Ursula was still in a state of confusion.
 
 "I did it? But I didn't see anything at all… Although I did feel like something was off, wasn't that just a placebo effect?"
 
-Jace said, "All right, do you know any other incantations? Something with a more obvious effect. Like… Curse of Agony, for instance. Sulenna knows that one."
+Jace said, "All right, do you know any other incantations? Something with a more obvious effect. Like… Curse of Agony, for instance. Surena knows that one."
 
 "I'm not about to cast Curse of Agony on you, Jace." Ursula leaned against the cabinet beside her. "Maybe next time. I feel a bit tired."
 
@@ -100,9 +100,9 @@ She hesitated for a moment, then asked, "Do you really find me that annoying?"
 
 "Fine." Ursula gave an awkward laugh, then asked, "You're going to sleep here?"
 
-Jace glanced at the doorway. "If I'm in your way I can go out to the hall. It's just that in the main room I don't feel comfortable. No sense of security. I'm always worried Erland's going to slit my throat."
+Jace glanced at the doorway. "If I'm in your way I can go out to the hall. It's just that in the main room I don't feel comfortable. No sense of security. I'm always worried Erlan's going to slit my throat."
 
-"Of course not. Go ahead and sleep." Ursula busied herself tidying up bottles and jars as she spoke. "Actually, Erland doesn't dislike you that much. He just thought you were getting too close to Jagin."
+"Of course not. Go ahead and sleep." Ursula busied herself tidying up bottles and jars as she spoke. "Actually, Erlan doesn't dislike you that much. He just thought you were getting too close to Gakin."
 
 "Well. We're distant now."
 

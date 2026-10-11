@@ -1,12 +1,12 @@
 ## Chapter 1004: Next Steps at the Tavern
 
-The following evening, the Pig and Whistle Inn.
+The following evening, the Pig and Whistle Tavern.
 
 After a day's rest, the waves of debilitating dizziness and nausea from the previous day had mostly subsided. Vereesa had also changed into a new outfit and dolled herself up properly — the moment she appeared in the inn, she immediately drew the attention of every customer in the hall.
 
 Grede still had some bruising on his face. Sola complained that healing his injuries had been far more difficult than healing an ordinary person's, but judging by Grede's spirits, these remaining injuries didn't seem to be affecting him much.
 
-A few young men who looked like Wizard Sanctum apprentices were passionately debating the dark magic that had been cast on the palace guards that very night. From what they were saying, Maginor Dumas had led a group of apprentice and full mages into the streets of Stormwind that night and subdued quite a number of guards who had been bewitched by Onyxia, preventing them from causing even greater chaos in the city.
+A few young men who looked like Wizard's Sanctum apprentices were passionately debating the dark magic that had been cast on the palace guards that very night. From what they were saying, Maginor Dumas had led a group of apprentice and full mages into the streets of Stormwind that night and subdued quite a number of guards who had been bewitched by Onyxia, preventing them from causing even greater chaos in the city.
 
 If Jace hadn't heard them describe how similar those soldiers were to the bewitched King and guards inside the palace, he really wouldn't have believed that Onyxia had managed to take control of nearly half the city's guards in such a short time.
 
@@ -18,7 +18,7 @@ Grede laughed heartily. Vereesa and Sola excitedly raised their glasses and clin
 
 "Prince Korialstrasz probably wouldn't enjoy this kind of rowdiness," Sola said.
 
-"Hmph." Grede said. "He'd better not show up here. That stiff old fool would only ruin our fun. After this meal, I'll bring him something to eat. As for those two, Miss Mophile and Mr. Sazeno… uh… and…"
+"Hmph." Grede said. "He'd better not show up here. That stiff old fool would only ruin our fun. After this meal, I'll bring him something to eat. As for those two, Miss Morophil and Mr. Sazeno… uh… and…"
 
 At that, the dwarf coughed. Vereesa looked at him. "And who else?"
 
@@ -38,23 +38,23 @@ Jace took a drink of his ale and fixed the dwarf with a look. "So just how many 
 
 "Even I don't know how an imp managed to summon him, but he did." Jace set his glass down. "He's the one I feel has the power to take us to…"
 
-"Draenor" was already on the tip of his tongue, but Jace glanced over at the few apprentices not far away who were still arguing red-faced, gave Vereesa a meaningful look, and continued: "the demon who can take us to that place, Wen. After experiencing the battle inside that plane, I'm even more certain of that."
+"Draenor" was already on the tip of his tongue, but Jace glanced over at the few apprentices not far away who were still arguing red-faced, gave Vereesa a meaningful look, and continued: "the demon who can take us to that place, Vere. After experiencing the battle inside that plane, I'm even more certain of that."
 
 "What do you mean?" Grede asked.
 
 Vereesa and Sola also looked over with curiosity.
 
-"No ordinary mortal could enter that rift, let alone escape on their own when that planar gap collapsed," Jace said. "Even Onyxia, wounded as she was, couldn't make a clean escape. But that demon — I can tell you his name: Karlez — he managed to nearly perfectly avoid the damage from the planar collapse even after being beaten to within an inch of his life by the black dragon. At least that's how it felt on a spiritual level. As a master, I can basically sense what state they're in."
+"No ordinary mortal could enter that rift, let alone escape on their own when that planar gap collapsed," Jace said. "Even Onyxia, wounded as she was, couldn't make a clean escape. But that demon — I can tell you his name: Kallrez — he managed to nearly perfectly avoid the damage from the planar collapse even after being beaten to within an inch of his life by the black dragon. At least that's how it felt on a spiritual level. As a master, I can basically sense what state they're in."
 
 "But you and Grede escaped too," Vereesa said.
 
-"That was because of the Dragonqueen's necklace, Wen. I forgot to tell you." Grede said. "Jace, sometimes I really admire your dirty tricks — in that situation, you still came up with the idea of getting an earth elemental to help us leave…"
+"That was because of the Dragonqueen's necklace, Vere. I forgot to tell you." Grede said. "Jace, sometimes I really admire your dirty tricks — in that situation, you still came up with the idea of getting an earth elemental to help us leave…"
 
-"Because there was no other choice. We could only try our luck. And using the Black Dragon King's treasure to break the Black Dragon Princess's magic — I think that's perfectly in line with common sense." Jace leaned back in his chair and let out a breath. "Besides, we finally found the stone tablets, finally lured Katrana Prestor into that little cottage only to come up empty-handed, and it rained the entire day — I figured after a whole day of bad luck, our luck had to turn sometime."
+"Because there was no other choice. We could only try our luck. And using the Black Dragon Aspect's treasure to break the Black Dragon Princess's magic — I think that's perfectly in line with common sense." Jace leaned back in his chair and let out a breath. "Besides, we finally found the stone tablets, finally lured Katrana Prestor into that little cottage only to come up empty-handed, and it rained the entire day — I figured after a whole day of bad luck, our luck had to turn sometime."
 
 "Can't argue with that," Grede said.
 
-"I'd like a necklace personally gifted by Queen Alexstrasza too," Sola said, glancing at the small length of black will-chain peeking out from Jace's neck. "You all have yours."
+"I'd like a necklace personally gifted by Queen Alexstrasza too," Sola said, glancing at the small length of the black Chain of Will peeking out from Jace's neck. "You all have yours."
 
 "You joined too late, madam." Grede snorted with a laugh.
 
@@ -64,9 +64,9 @@ He took a swig of his ale, then added, "And trolls."
 
 Sola smiled. Beside her, Vereesa slowly let out a sigh. "After everything we've been through, I really have my doubts about whether I should keep trying… with that plan. Maybe Sylvanas and I are being too selfish — we shouldn't risk all of Azeroth for our family's affairs."
 
-"Trust in my abilities, Wen," Jace said. "I am one hundred percent incapable of opening a second Dark Portal to endanger Azeroth."
+"Trust in my abilities, Vere," Jace said. "I am one hundred percent incapable of opening a second Dark Portal to endanger Azeroth."
 
-The group burst into laughter again. Then Jace said, "But I think that whether or not we find the Queen, the King is planning to attack Blackrock Spire. Which means we might have to postpone our own plan. After all, Ilgalar Tower is Stormwind's most critical stronghold against orcish attacks — the assistant to Stonewatch. And if you want a demon to open a stable portal, it's basically impossible without the continuous power supply of that ley line node."
+The group burst into laughter again. Then Jace said, "But I think that whether or not we find the Queen, the King is planning to attack Blackrock Spire. Which means we might have to postpone our own plan. After all, the Tower of Ilgalar is Stormwind's most critical stronghold against orcish attacks, right alongside Stonewatch. And if you want a demon to open a stable portal, it's basically impossible without the continuous power supply of that ley line nexus."
 
 "Are you sure about that?" Grede asked. "I don't believe this kingdom has the strength to muster an assault on Blackrock Spire. It would be difficult even in four or five years."
 
@@ -88,22 +88,24 @@ Listening to them discuss all this, Jace fell silent for a while. At this point,
 
 If the Sons of Lothar could return, they would absolutely have the strength to attack Blackrock Spire.
 
-But that would mean reopening the Dark Portal, because relying solely on Ilgalar Tower and the doomlord's power, it would be impossible to transport the entire expedition — tens of thousands of them — back all at once.
+But that would mean reopening the Dark Portal, because relying solely on the Tower of Ilgalar and the doom lord's power, it would be impossible to transport the entire expedition — tens of thousands of them — back all at once.
 
-Jace realized he was thinking further and further ahead, more and more outlandishly. He pinched the bridge of his nose to bring himself back to reality. After all, he hadn't even brought Karlez back yet. No mana, poor state, and his blood needed to be prepared all over again.
+Jace realized he was thinking further and further ahead, more and more outlandishly. He pinched the bridge of his nose to bring himself back to reality. After all, he hadn't even brought Kallrez back yet. No mana, poor state, and his blood needed to be prepared all over again.
 
-Thinking of this, Jace reached over and touched Ursolus lying beside him, hoping this staff could help him out a little in this regard.
+Thinking of this, Jace reached over and touched Ulthalesh lying beside him, hoping this staff could help him out a little in this regard.
 
-Summoning demons involved communication with the Twisting Nether, which of course also required channeling shadow power. Ursolus wasn't a specialized artifact for empowering demon magic, but it could still help a little from the side.
+Summoning demons involved communication with the Twisting Nether, which of course also required channeling shadow power. Ulthalesh wasn't a specialized artifact for empowering demon magic, but it could still help a little from the side.
 
-This wasn't Jace's wild imagination — when summoning a felhunter while holding it, it really had been noticeably easier than before.
+This wasn't Jace's wild imagination — when summoning a felhound while holding it, it really had been noticeably easier than before.
 
-But the moment he touched Ursolus, Jace sensed that something was off. It didn't seem to respond to him, its master, the way it used to.
+But the moment he touched Ulthalesh, Jace sensed that something was off. It didn't seem to respond to him, its master, the way it used to.
 
-In the past, when he held it in his hand, that indescribable sense of connection was definitely there. But now, Ursolus was deliberately rejecting him, as if stiff and silent as an ordinary demon bone.
+In the past, when he held it in his hand, that indescribable sense of connection was definitely there. But now, Ulthalesh was deliberately rejecting him, as if stiff and silent as an ordinary demon bone.
 
-Could the Hand of Gul'dan inside the Obsidian Realm have exhausted its power? That couldn't be — this was Ursolus, after all…
+Could the Hand of Gul'dan inside the Obsidian Realm have exhausted its power? That couldn't be — this was Ulthalesh, after all…
 
-Jace frowned skeptically, when he suddenly heard an ancient demonic tongue murmur — the voice of the staff. Only he at the table could hear it; the others were happily listening to Grede continue to dramatically recount the Battle of the Obsidian Realm.
+Jace frowned skeptically, when he suddenly heard an ancient Demonic tongue murmur — the voice of the staff. Only he at the table could hear it; the others were happily listening to Grede continue to dramatically recount the Battle of the Obsidian Realm.
 
-Jace calmed his mind and listened carefully. The second time, he heard it clearly. "Soul… debt."
+Jace calmed his mind and listened carefully. The second time, he heard it clearly.
+
+"Soul… debt."

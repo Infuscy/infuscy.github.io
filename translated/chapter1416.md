@@ -20,7 +20,7 @@ Grede raised his fist and shouted too. "Long live friendship! Long live dwarves 
 
 "Should I not be here, Jace Sesso?"
 
-Needleflame rode beside Jace. She'd already changed back into her girl form, though at least with Sora's help, she'd managed to make her clothes somewhat neat and clean.
+Needleflame rode beside Jace. She'd already changed back into her girl form, though at least with Sola's help, she'd managed to make her clothes somewhat neat and clean.
 
 She'd never learned to ride, but the warhorse beneath her was the most well-behaved in the entire procession. It knew exactly what was sitting on its back.
 
@@ -58,17 +58,17 @@ Grede, who'd been waving to the cheering crowd, turned around and shouted, "Don'
 
 "My face has always been this black!" Needleflame yelled.
 
-Sora, walking beside them, couldn't help but laugh. Even in her green hood, her pure elven form was quite eye-catching in the crowd.
+Sola, walking beside them, couldn't help but laugh. Even in her green hood, her pure elven form was quite eye-catching in the crowd.
 
-"Did you see that blonde beautiful sorceress? I heard she's a green dragon."
+"Did you see that beautiful blonde sorceress? I heard she's a green dragon."
 
 "Is that real or not?"
 
-"Hey! Lady Sora Shadow! Are you really a dragon?"
+"Hey! Lady Sola Shade! Are you really a dragon?"
 
-Sora hadn't expected that a simple laugh would draw so much attention. She looked helplessly toward Jace.
+Sola hadn't expected that a simple laugh would draw so much attention. She looked helplessly toward Jace.
 
-Jace was busy scanning the crowd for his parents. When he saw Sora's look, he subtly made a "shush" gesture — though he knew full well that with hundreds or thousands of eyes on him, no small movement could escape notice.
+Jace was busy scanning the crowd for his parents. When he saw Sola's look, he subtly made a "shush" gesture — though he knew full well that with hundreds or thousands of eyes on him, no small movement could escape notice.
 
 "Jace Sesso! That's Jace Sesso!" "He's not some old man!"
 
@@ -78,7 +78,7 @@ Behind them, Khadgar rubbed his freshly shaved chin, clearly displeased. He lean
 
 "Why?" Turalyon asked.
 
-Khadgar squinted at Jence ahead. "Look at that. All the attention's on that kid."
+Khadgar squinted at Jace ahead. "Look at that. All the attention's on that kid."
 
 "Haven't you had enough attention, Master Khadgar?" Danath Trollbane teased.
 
@@ -106,7 +106,7 @@ Jace followed her gaze and saw a group of mages in purple robes gathered nearby,
 
 "Amy?"
 
-Jace jumped off his horse too and jogged over. Vereesa hugged Amy, then they both embraced tightly.
+Jace jumped off his horse too and jogged over. Vereesa hugged Amy, then Jace embraced her tightly too.
 
 Amy wiped her eyes. "I almost thought I'd miss your ceremony, Jace. The portal at Stonewatch was unstable because of the ley line connection to Telogrus, so the Kirin Tor suspended it. I had to ride a gryphon back. But I made it in time to see you."
 

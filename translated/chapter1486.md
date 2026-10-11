@@ -24,11 +24,11 @@ Whether this was the result of the potions or Ursula's own understanding of shad
 
 Ursula barely moved her lips, muttering an incantation too quiet to hear. But Jace, through his familiarity with mana flow and the emotional fluctuations every caster gave off, identified it as a Corruption spell. Warlocks casting it were indeed much clearer to read than demons.
 
-As shadow flowed, even before Ursula finished her chant, Jace was almost certain the shadow in his mind could successfully mimic it. He wasn't surprised — after all, he'd successfully mimicked Morofil's Shadowstep in Deadwind Pass, and while his imitation of Khadgar's Mage Armor wasn't a complete success, he'd gotten a feel for it.
+As shadow flowed, even before Ursula finished her chant, Jace was almost certain the shadow in his mind could successfully mimic it. He wasn't surprised — after all, he'd successfully mimicked Morophil's Shadowstep in Deadwind Pass, and while his imitation of Khadgar's Mage Armor wasn't a complete success, he'd gotten a feel for it.
 
 So he didn't stop at simply mimicking the warlock's spell. As the shadow in his mind finished taking shape alongside the original, he simultaneously muttered a Curse of Weakness using his own will.
 
-When he'd tried the simulacrum in Deadwind Pass, he'd attempted to cast alongside the mimicry, but Morofil was too fast — he hadn't been able to pull it off. This time...
+When he'd tried the simulacrum in Deadwind Pass, he'd attempted to cast alongside the mimicry, but Morophil was too fast — he hadn't been able to pull it off. This time...
 
 Ursula seemed to notice the shadowy violet-red seeping into Jace's eyes. Her expression shifted slightly, but her concentration wasn't disturbed.
 
@@ -44,7 +44,7 @@ Even though Jace had tried to conserve power for the experiment, perhaps his foc
 
 The shadow energy, neutralized by the shadow protection potion's effects, filled the room with a dark, acrid smell. Jace watched Ursula take a few deep breaths, her color improving, before asking, "You OK?"
 
-"I'm fine. Just... surprised." Ursula set down the empty bottle and looked at Morofil for a moment, then turned back to Jace. "Two spells at once, Jace?"
+"I'm fine. Just... surprised." Ursula set down the empty bottle and looked at Morophil for a moment, then turned back to Jace. "Two spells at once, Jace?"
 
 "How did you do that? It felt like I was being attacked by two warlocks. A Corruption and a Curse of Weakness, right? Or am I hallucinating from the shadow damage? Or maybe I'm just out of practice — one shadow hit and my legs give out?"
 
@@ -72,17 +72,17 @@ Even Medivh hadn't managed it — so who could?
 
 But from reading *Dark Simulacrum*, Jace gathered that Medivh hadn't formulated an incantation for it because he simply had no interest in spreading magic to the world at large — not because he lacked the ability. The notes were written more for his own amusement than for anyone else's. The book was full of rambling self-indulgent tangents.
 
-Thinking about it, Jace couldn't help feeling... if he kept digging down this path, maybe one day he really could place a book in the Wizard Sanctum or Dalaran's great library titled *Jace Sesso's Dark Simulacrum — Special Thanks to the Guardian Medivh and the Black Dragon Prince Sabellian*, before getting himself thrown into Violet Prison.
+Thinking about it, Jace couldn't help feeling... if he kept digging down this path, maybe one day he really could place a book in the Wizard's Sanctum or Dalaran's great library titled *Jace Sesso's Dark Simulacrum — Special Thanks to the Guardian Medivh and the Black Dragon Prince Sabellian*, before getting himself thrown into the Violet Hold.
 
 "We'll see," Jace said. "At least let me fully master this book first."
 
 "I'll wait for that day, Jace." Ursula leaned against the small table, chin in hand. "Don't think I'm just waiting to reap the rewards. I'm not planning to learn anything from that grimoire — it looks way too sinister. I don't need to stumble blindly down some dark art path. You're a lucky, talented kid. If it were me, I'd probably die at some step along the way."
 
-"You might be waiting a while then." Jace smiled. "Tonight, I still want to try something else with Dark Simulacrum. I'll need your Mr. Besadim to help."
+"You might be waiting a while then." Jace smiled. "Tonight, I still want to try something else with Dark Simulacrum. I'll need your Mr. Basadim to help."
 
-"God, Mr. Besadim. That name brings back memories. That hellhound is ancient history, Jace." Ursula stood up. "The last one, Kil'rugun, just got eaten by Galders's Soul Well. My current hellhound is called Hurim."
+"God, Mr. Basadim. That name brings back memories. That felhound is ancient history, Jace." Ursula stood up. "The last one, Kil'rugun, just got eaten by Zardeth's Soul Well. My current felhound is called Hurim."
 
-"You give every hellhound a special name?" Jace asked.
+"You give every felhound a special name?" Jace asked.
 
 Ursula patted the Annihilan naming book beside her. "Of course. Don't you?"
 
@@ -90,7 +90,7 @@ Ursula patted the Annihilan naming book beside her. "Of course. Don't you?"
 
 "Have a felhound counterspell you?" Ursula shook her head. "No, Jace. That's way too dangerous for a caster. And if it devours your spell energy, it could get overexcited and lose control from all that power."
 
-"I'll make sure everything stays under control, alchemist." Morofil leaned against the wall, arms crossed, and smiled. "Don't worry."
+"I'll make sure everything stays under control, alchemist." Morophil leaned against the wall, arms crossed, and smiled. "Don't worry."
 
 "Fine." The alchemist was still hesitant, but she said to the felhound in the corner, in Demonic: "Hurim. Get ready to deal with the warlock in front of you. Block his casting as much as possible."
 
@@ -98,15 +98,15 @@ The felhound understood the command and let out a rumbling series of growls, lik
 
 "What's that?" Ursula couldn't help asking, seeing the even stranger blood-red demonic tome.
 
-"Shh." Morofil pressed a finger to her lips. Ursula nodded and fell silent.
+"Shh." Morophil pressed a finger to her lips. Ursula nodded and fell silent.
 
 Jace reviewed the sequence of spells he'd already planned in his mind, then focused his attention back on the felhound before him, once again gathering darkness within.
 
-The felhound seemed to sense something was off, but struggled to judge whether this constituted spellcasting. As it hesitated, Jace suddenly chanted a Suffocation spell, attempting to lock the felhound in place. But a felhound this close would never give a warlock that opening — even Jace Sesso!
+The felhound seemed to sense something was off, but struggled to judge whether this constituted spellcasting. As it hesitated, Jace suddenly chanted Asphyxiate, attempting to lock the felhound in place. But a felhound this close would never give a warlock that opening — even Jace Sesso!
 
 Jace felt Hurim's tendrils spreading out like suddenly grown shadow-thorns, and his own perception of shadow recoiled as if stung by those thorns. It wasn't a physical phenomenon — it was the strange illusion of having his mana successfully blocked by the felhound. For a moment, forget mana — Jace felt like his very consciousness was being devoured by the magic-hunter...
 
-But though the Suffocation was blocked, the darkness inside him calmly completed the simulation! In the chaos, Jace felt his mana uncontrollably bite back at the felhound's dark consciousness.
+But though the Asphyxiate was blocked, the darkness inside him calmly completed the simulation! In the chaos, Jace felt his mana uncontrollably bite back at the felhound's dark consciousness.
 
 Hurim yelped and scrambled backward, and this wasn't just in his mind — it was happening in reality.
 
@@ -116,12 +116,12 @@ The felhound slammed into the wall, trembling. Its normally blood-red demonic sk
 
 "How is this possible?" Sazeno grabbed his horns in terror. "Master, you can actually... what kind of magic is this?!"
 
-"The magic-hunter has been locked out of magic." Morofil's tone was grave. "This is what a felhound looks like when it's cut off from magic, alchemist. My master just mimicked its own spell-lock."
+"The magic-hunter has been locked out of magic." Morophil's tone was grave. "This is what a felhound looks like when it's cut off from magic, alchemist. My master just mimicked its own spell-lock."
 
 Yes. This time Jace was certain of his success.
 
-Last time he'd tried to mimic Morofil's Seduction, he couldn't tell if it had actually worked. Morofil kept saying, "Your charm has me burning up," but Jace couldn't believe a word she said.
+Last time he'd tried to mimic Morophil's Seduction, he couldn't tell if it had actually worked. Morophil kept saying, "Your charm has me burning up," but Jace couldn't believe a word she said.
 
-But this time... no one else in the room was casting. The felhound had clearly lost its mana — it had been "counterspelled." And his own Suffocation had failed because it was countered. The only possibility was that the darkness inside him had autonomously mimicked the felhound's spell-lock and counterspelled the felhound.
+But this time... no one else in the room was casting. The felhound had clearly lost its mana — it had been "counterspelled." And his own Asphyxiate had failed because it was countered. The only possibility was that the darkness inside him had autonomously mimicked the felhound's spell-lock and counterspelled the felhound.
 
-Hard to say where Jace would end up if he kept studying and practicing this magic. He couldn't help wondering — if he were to face Darkhan and his three companions again at Raven Hill cemetery right now, how would it turn out?
+Hard to say where Jace would end up if he kept studying and practicing this magic. He couldn't help wondering — if he were to face Dar'Khan and his three companions again at Raven Hill cemetery right now, how would it turn out?

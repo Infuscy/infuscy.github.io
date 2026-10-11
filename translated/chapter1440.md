@@ -8,7 +8,7 @@ Jace poked his head in from the doorway. Ursula didn't even have the energy to n
 
 "What is it?" Jace asked. "One of my potions?"
 
-"No, yours are already packed." Ursula pointed with her chin at a leather satchel behind her. "Multi-Resistance Elixir, Elixir of Supreme Wisdom — both made with Black Lotus."
+"No, yours are already packed." Ursula pointed with her chin at a leather satchel behind her. "Multi-Resistance Elixir, Flask of Distilled Wisdom — both made with Black Lotus."
 
 She held out her hand. "Plus some protective potions and mana potions I threw in as a bonus. That'll be thirteen gold coins. You're in luck — finding someone to pick Black Lotus hasn't been as hard lately."
 
@@ -42,7 +42,7 @@ Ursula gave a satisfied shrug. "Remember not to drink both elixirs at the same t
 
 Jace nodded. So elixirs overwrote each other in this world too. Annoying.
 
-"One more thing, Jace." Ursula flipped through her notebook. "The Voidbloom sample we brought back from Draenor didn't keep well. The Kirin Tor alchemists didn't expect it to decay so fast coming back here, especially since it had been preserved properly for a while on the other side."
+"One more thing, Jace." Ursula flipped through her notebook. "The Netherbloom sample we brought back from Draenor didn't keep well. The Kirin Tor alchemists didn't expect it to decay so fast coming back here, especially since it had been preserved properly for a while on the other side."
 
 "More than 'decay,' I'd say it got 'purified' by Azeroth's environment," Jace said.
 
@@ -50,9 +50,9 @@ Jace nodded. So elixirs overwrote each other in this world too. Annoying.
 
 "So the Destruction Potion is dead in the water?" Jace asked.
 
-"Not necessarily." Ursula flipped a few more pages. "One of the Expedition's alchemists told me that Voidbloom might be a native Draenor plant that got transformed by the Void. But the Kirin Tor mage who was researching the project died in a place called Farahlon, and his records were lost."
+"Not necessarily." Ursula flipped a few more pages. "One of the Expedition's alchemists told me that Netherbloom might be a native Draenor plant that got transformed by the Void. But the Kirin Tor mage who was researching the project died in a place called Farahlon, and his records were lost."
 
-She looked up, squinting. "I remember you're on pretty good terms with those Eredar leaders. I saw him... talking to you that day. Could you ask those Eredar if any of them have studied Voidbloom? See if they can help us simulate Draenor's environment using Telogrus's void storms and transform some real Voidbloom."
+She looked up, squinting. "I remember you're on pretty good terms with those eredar leaders. I saw him... talking to you that day. Could you ask those eredar if any of them have studied Netherbloom? See if they can help us simulate Draenor's environment using Telogrus's void storms and transform some real Netherbloom."
 
 "Give me back the money, and I'll ask." Jace held out his hand.
 
@@ -70,52 +70,52 @@ With a bag of potions, Jace headed back toward the Mage Quarter, thinking about 
 
 If the Soul Well recorded in that manuscript really worked like it did in the game, then no amount of caution was too much.
 
-But every time he started thinking about soul-draining, Usselus in his hand would stir, whispering in his mind. Even though it had exhausted its energy on the Scepter of Sargeras, it could still muster the strength to call out now.
+But every time he started thinking about soul-draining, Ulthalesh in his hand would stir, whispering in his mind. Even though it had exhausted its energy on the Scepter of Sargeras, it could still muster the strength to call out now.
 
 Passing through the Park, he saw a golden-haired woman in green sitting on a stone bench, reading a book. A young girl in a thin gray-brown coat was sound asleep, sprawled across her lap.
 
-Was that Sorah?
+Was that Sola?
 
-The Sorah he'd always seen as a girl who hadn't quite grown up now somehow looked motherly. Did all female dragons switch into "nanny mode" the moment they saw a youngster of their kind? Like the "Nest Guardians" among the whelps.
+The Sola he'd always seen as a girl who hadn't quite grown up now somehow looked motherly. Did all female dragons switch into "nanny mode" the moment they saw a youngster of their kind? Like the "Nest Guardians" among the whelps.
 
-When Jace looked over curiously, Sorah noticed him.
+When Jace looked over curiously, Sola noticed him.
 
 She waved, careful not to wake the black dragon on her lap, glancing down at her one more time.
 
 Jace walked over. "Lady Emeriss came to see you the other day. How was it?"
 
-"She was very concerned about me, and she brought the Queen's blessing." Sorah said softly. "Lady Emeriss has always been the Dream Guardian I admired most. When I was young, I wanted to be just like her. But she's also the Dream Guardian who leaves the Dream the least. So I was surprised Queen Ysera sent her here."
+"She was very concerned about me, and she brought the Queen's blessing." Sola said softly. "Lady Emeriss has always been the Dream Guardian I admired most. When I was young, I wanted to be just like her. But she's also the Dream Guardian who leaves the Dream the least. So I was surprised Queen Ysera sent her here."
 
 "We're back from Draenor now." Jace said. "Even if Lordaeron and the other kingdoms don't offer support, I don't believe Blackrock Spire can stand against the Sons of Lothar, the mages of Dalaran, and the armies of Stromgarde and Stormwind combined. After all this is over, will you go back to the Emerald Dream and become a Dream Guardian? Like Lady Emeriss?"
 
-Sorah looked at Jace with a complicated expression. She thought for a moment, then looked down. "I can't say. Maybe as a member of the Emerald Dragonflight, I shouldn't be attached to a city built of stone and arcane. But somehow..."
+Sola looked at Jace with a complicated expression. She thought for a moment, then looked down. "I can't say. Maybe as a member of the Green Dragonflight, I shouldn't be attached to a city built of stone and arcane. But somehow..."
 
 "If I said I wanted to stay in Stormwind, would you allow it, Jace?"
 
 "Who am I to allow or not allow?" Jace sat down beside her. "Unless Varian doesn't want you here and tries to kick you out... I'm pretty sure none of us want you to leave. Especially that little one."
 
-Sorah smiled and nodded. "You're right. I have another mission now — to watch her grow up. Not just to prove to all dragonkind that a black dragon can grow pure in Azeroth, but also to let Needlefang see that her choice was worthwhile."
+Sola smiled and nodded. "You're right. I have another mission now — to watch her grow up. Not just to prove to all dragonkind that a black dragon can grow pure in Azeroth, but also to let Needleflame see that her choice was worthwhile."
 
-She noticed the satchel of potions Jace was carrying. "Are those potions from Lady Ursula Delan? Are you going somewhere, Jace?"
+She noticed the satchel of potions Jace was carrying. "Are those potions from Lady Ursula Deline? Are you going somewhere, Jace?"
 
 "Yeah, Archmage Khadgar and I are heading south." Jace said quietly. "He wants me to keep it as quiet as possible."
 
-"Mm." Sorah acknowledged. Then Needlefang's head shot up. "Where? Jace Sesso, is there going to be a fight?"
+"Mm." Sola acknowledged. Then Needleflame's head shot up. "Where? Jace Sesso, is there going to be a fight?"
 
 "How did she wake up all of a sudden?" Jace asked.
 
-"I didn't put her to sleep," Sorah said innocently.
+"I didn't put her to sleep," Sola said innocently.
 
-"Are you trying to sneak out and find someone to fight again?" Needlefang grabbed Jace's sleeve. "Take me! Kalimdor! Thunder lizards! Snakes! Tauren! Centaurs! Big desert! Big prairie!"
+"Are you trying to sneak out and find someone to fight again?" Needleflame grabbed Jace's sleeve. "Take me! Kalimdor! Thunder lizards! Snakes! Tauren! Centaurs! Big desert! Big prairie!"
 
 The little black dragon seemed to have yelled out everything she'd learned about the other continent. Jace pried her greasy, grubby claws off his sleeve, glanced at the passing mages nearby, and lowered his voice. "We're not going to Kalimdor. No fights to be had. Stay here and train your combat skills properly. Get ready for Shadowforge City!"
 
-"I understand," Needlefang said in a low voice.
+"I understand," Needleflame said in a low voice.
 
-"Don't cause trouble for your sister Sorah, or I'll be coming back to teach you a lesson." Jace said.
+"Don't cause trouble for your sister Sola, or I'll be coming back to teach you a lesson." Jace said.
 
-"But I still want to go out with you," Needlefang said.
+"But I still want to go out with you," Needleflame said.
 
 "Next time." Jace ruffled the black dragon's messy hair. "Really can't this time."
 
-Sorah watched the two of them bickering back and forth, unable to suppress a smile.
+Sola watched the two of them bickering back and forth, unable to suppress a smile.

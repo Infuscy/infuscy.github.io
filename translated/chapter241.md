@@ -14,7 +14,7 @@ Just as his gaze darted to the side, he felt a pair of arms wrap around his ribs
 
 Jace was about to throw another elbow, but the succubus behind him whispered, "Don't hit me, darling. I don't want your soul. I just want you to… love me. Is that so hard?"
 
-That humble, pleading hit Jace harder than any blow — it kept his elbow from coming down at all.
+That humble pleading hit Jace harder than any blow — it kept his elbow from coming down at all.
 
 Since coming into this world, not a single girl had ever spoken to him like that.
 
@@ -34,7 +34,7 @@ The succubus came around in front of him and looked at Jace. "Then what kind of 
 
 "I am Morophil of the City of Boundless Desire," the succubus said. "If you'd like to give me a name, I don't mind. I wouldn't mind having one more."
 
-So that's what "boundless" meant. An imp wouldn't possibly know a demonic word it didn't recognize, which meant whoever wrote that note had left a word out? But it really was some unknown corner of the Twisting Nether.
+So that's what "boundless" meant. An imp wouldn't possibly know a Demonic word it didn't recognize, which meant whoever wrote that note had left a word out? But it really was some unknown corner of the Twisting Nether.
 
 "I mean your true name," Jace said.
 
@@ -72,7 +72,9 @@ As she spoke, Jace felt a small hand suddenly undo his belt. He shoved Morophil 
 
 "I'm not in that much of a hurry to die," Jace said firmly. "Tell me your true name. Now."
 
-At that, Morophil smiled and lowered her head. "Ah, so you thought being with me would kill you? You're quite cute." The question left Jace's mouth dry, his heart hammering as if it was about to burst out of his chest.
+At that, Morophil smiled and lowered her head. "Ah, so you thought being with me would kill you? You're quite cute."
+
+The question left Jace's mouth dry, his heart hammering as if it was about to burst out of his chest.
 
 In that moment, he could no longer see the monster before him as just some demon from the Twisting Nether. Just a few exchanges and he felt his defenses about to collapse.
 
@@ -121,12 +123,3 @@ Morophil braced her hands on his shoulders and crawled up bit by bit to his ear,
 When she spoke her true name, Jace felt her voice resonate like an ethereal chime from the void itself, searing itself deep into his mind.
 
 Amid the reverberation of that true name, the demon gently bit his earlobe with her fangs, licked her lips, and said, almost as an exhale, "Ah… the master's taste. I feel like I came out ahead."
-
-## Flags
-
-- **True name rendering:** 莫勒丝菲尔萨莉托尔 → "Mollesphilissaritor" (continuous demonic name; no canonical spelling).
-- **Morophil's title:** 无边欲念之城的莫洛菲尔 → "Morophil of the City of Boundless Desire" (glossary: 莫洛菲尔 = Morophil).
-- **Phase Shift:** 相位变换 → Phase Shift (glossary).
-- **Arcane-infused eyes:** 奥能魔眼 → "arcane-infused eyes" (succubus eye description).
-- **Banishment slip:** 反召唤咒的那个纸条 → "the slip of paper with the banishment incantation."
-- **Tone note:** Kept the erotic scene in the original's literary register — euphemistic where the Chinese is euphemistic, direct where it is direct. Jace's internal voice stays self-deprecating and panicked throughout.

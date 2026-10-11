@@ -2,19 +2,23 @@
 
 "Prince Sabellian?"
 
-"Baron Sabellian — what are you doing here?" "He's..."
+"Baron Sablemane — what are you doing here?"
 
-"The leader of the black dragons in Draenor, Deathwing's own son, Nefarian and Onyxia's half-brother. But don't worry, Mossa Woodmane — he's here to help us."
+"He's..."
 
-"Uh, isn't he supposed to be in Draenor? Or has the demons' sealing magic already weakened..." "F-father..."
+"The leader of the black dragons in Draenor, Deathwing's own son, Nefarian and Onyxia's half-brother. But don't worry, Mosa Woodmane — he's here to help us."
+
+"Uh, isn't he supposed to be in Draenor? Or has the demons' sealing magic already weakened..."
+
+"F-father..."
 
 "Don't call me father."
 
 The black dragon prince eyed his daughter sidelong. "Seeing you now, having practically forgotten your identity and pride, slowly sinking to the same level as these people — it pains me more than hearing news of your death."
 
-"Address me as 'Your Highness,'" he commanded in the dragon tongue.
+"Address me as 'Your Highness,'" he commanded in Draconic.
 
-"I'm sorry, Your Highness," Needlefire said, bowing her head obediently.
+"I'm sorry, Your Highness," Needleflame said, bowing her head obediently.
 
 "What?!" Grede practically jumped in front of him, roaring. "You, this clown prince who leads a hundred vagabonds playing house with a bunch of orc refugees and demon deserters in a crumbled-to-dust pit — what right do you have to talk about 'levels'? We haven't even settled the score with you about Jace Sesso facing Kil'jaeden on his throne alone!"
 
@@ -28,11 +32,11 @@ Grede's beard and hair looked like they were about to fly off his face in fury, 
 
 "What role a practitioner of shadow magic and necromancy could play in resurrecting the dark mage Jace Sesso, hmm?" Sabellian stared at the dwarf. "In this world, I suspect anyone besides you, Grede Thunderfist, could grasp the connection immediately."
 
-"You just promised, Archmage Khadgar," Sora said, also worried. "This resurrection ritual won't bring Jace back as a ghoul. I don't understand..."
+"You just promised, Archmage Khadgar," Sola said, also worried. "This resurrection ritual won't bring Jace back as a ghoul. I don't understand..."
 
 "I get it now." Grede looked at the mage. "Not a zombie, not a ghoul — but he didn't say anything about not becoming a death knight. Throw in a live black dragon and an old ally of Teron Gorefiend's, and now I've connected all the dots."
 
-"I'm not familiar with necromancy," Mossa said. "But an elder I know once told me that even if a resurrected undead retains fragments of their former memories, those precious memories and emotions would be twisted beyond recognition. Archmage Khadgar, in body or in spirit, it could no longer be called the same person."
+"I'm not familiar with necromancy," Mosa said. "But an elder I know once told me that even if a resurrected undead retains fragments of their former memories, those precious memories and emotions would be twisted beyond recognition. Archmage Khadgar, in body or in spirit, it could no longer be called the same person."
 
 Vereesa frowned deeply, silent on the sidelines. The look she gave the black dragon prince was far from trusting, but on the other hand, she seemed to have steeled herself for something terrible.
 
@@ -42,9 +46,9 @@ Khadgar looked at their complicated expressions and hesitated a moment before sp
 
 "But necromantic knowledge was still necessary in the process, because when it comes to bringing back the dead, finding the soul is essential." Khadgar looked at Ulthalesh in his hands. "And my knowledge of necromancy isn't enough to wrestle a soul away from this staff — even shattered and nearly broken as it is."
 
-At that, Sabellian smiled with mild satisfaction. Grede, Sora, and Mossa seemed somewhat convinced.
+At that, Sabellian smiled with mild satisfaction. Grede, Sola, and Mosa seemed somewhat convinced.
 
-As for Needlefire — she looked like she still had words bottled up inside, but after meeting her father's gaze, she couldn't bring herself to speak.
+As for Needleflame — she looked like she still had words bottled up inside, but after meeting her father's gaze, she couldn't bring herself to speak.
 
 "Trust me, all of you," the mage continued. "If I possessed the full power of a Guardian and could complete the whole process on my own, I would never have spent so much time finding him, finding all of you, while risking Jace Sesso being consumed by Ulthalesh — his soul is strong enough to restore the staff to its original state, even making it far more powerful than before you found it. By then, it would truly be too late."
 
@@ -74,13 +78,13 @@ Looking at the strange object, Vereesa asked: "Is this the most secret, most cen
 
 With that, Khadgar raised Atiesh in his hand and pointed it at the small altar. He began reciting another long incantation. As he chanted, the altar began to glow, clean arcane energy surging and flowing through it like real water.
 
-"The Guardian Crucible. What you see before you is the implement the Guardians of Tirisfal used to focus their power and inherit their responsibility. Of course, ever since Lady Aegwynn took office, this thing had lost its original purpose. Today, it finally sees the light again, to help me complete this ritual that only a Guardian can perform. Hopefully."
+"The Forge of the Guardian. What you see before you is the implement the Guardians of Tirisfal used to focus their power and inherit their responsibility. Of course, ever since Lady Aegwynn took office, this thing had lost its original purpose. Today, it finally sees the light again, to help me complete this ritual that only a Guardian can perform. Hopefully."
 
-As the others stared in astonishment, Khadgar walked up to the "Crucible" and murmured as if to himself: "You must have witnessed everything that happened on Lake Lordamere too. You know better than anyone who truly deserves the title of 'Guardian' of Azeroth. Please help me complete this ritual — help me bring him back."
+As the others stared in astonishment, Khadgar walked up to the "Forge" and murmured as if to himself: "You must have witnessed everything that happened on Lordamere Lake too. You know better than anyone who truly deserves the title of 'Guardian' of Azeroth. Please help me complete this ritual — help me bring him back."
 
-"So what do we need to do?" Sora asked.
+"So what do we need to do?" Sola asked.
 
-Sabellian stared at the Guardian Crucible. "Next, I'll perform a soul ritual that temporarily separates your souls from your bodies. All you need to do is drink the Soul Purification Potion Khadgar has prepared for you, and then sit at the corresponding positions in the magic circle I've drawn and wait."
+Sabellian stared at the Forge of the Guardian. "Next, I'll perform a soul ritual that temporarily separates your souls from your bodies. All you need to do is drink the Soul Purification Potion Khadgar has prepared for you, and then sit at the corresponding positions in the magic circle I've drawn and wait."
 
 "Got it. Send our souls into Ulthalesh, beat the hell out of whatever demon's hiding in there, and rescue poor little Jace. Simple enough." Grede nodded. "I've never fought with my soul before, but I've been in a dream... close enough, right?"
 
@@ -94,21 +98,23 @@ Sabellian stared at the Guardian Crucible. "Next, I'll perform a soul ritual tha
 
 Hearing this, Sabellian couldn't help saying: "This might be the softest necromantic ritual I've ever participated in, and I've been alive a long time."
 
-"Prince Sabellian..." Sora sighed helplessly.
+"Prince Sabellian..." Sola sighed helplessly.
 
 "Alright, alright, little one." The black dragon looked at her. "What can I say — this is your style. Yours and Jace Sesso's. I'm getting used to it by now."
 
 "I can't say I can replace Vic Sesso," Grede said. "But send me in there, black dragon. I'll find a way to make that bastard remember he's got parents."
 
-"Same here," Vereesa said. "I'm ready too," Mossa said.
+"Same here," Vereesa said.
 
-"Are you sure you want to go with them, Needlefire?" Sabellian asked.
+"I'm ready too," Mosa said.
 
-"I'm sure, Your Highness." Needlefire nodded firmly.
+"Are you sure you want to go with them, Needleflame?" Sabellian asked.
+
+"I'm sure, Your Highness." Needleflame nodded firmly.
 
 Grede looked at the black dragon prince, who was squinting with obvious displeasure. "It's not that I don't want to trust you, dragon. But can you tell me — why are you willing to help us? Help Jace?"
 
-The black dragon was silent for a moment, then looked over. "At the summit of Kil'jaeden's Throne, he... spared me, Grede Thunderfist. Consider this compensation. I don't like being in anyone's debt."
+The black dragon was silent for a moment, then looked over. "At the summit of the Throne of Kil'jaeden, he... spared me, Grede Thunderfist. Consider this compensation. I don't like being in anyone's debt."
 
 "I urged him to devour all of Auchindoun — the ancient draenei spirits there would have been enough for Ulthalesh to shatter the Scepter of Sargeras with ease. Look at what's become of Lordaeron now... But he refused. He believed he could do it without the souls of the draenei."
 
@@ -116,21 +122,8 @@ The hall fell quiet. None of them knew what had truly happened atop that demonic
 
 "In the end, he failed. That proves my concerns were justified." Sabellian continued. "Even though the Scepter of Sargeras was on the verge of collapse, just like Ulthalesh now — failure was still failure. To stop the Burning Legion from using its power any further, the only options were to take it away in time, or find a strong enough soul to finish the scepter for good."
 
-"That's where we disagreed... He defeated me. Pressed the Spellweaver's blade against my eyes. I thought he'd choose the latter — use my soul to finish the job. I was prepared to accept that outcome. But he didn't. He let me live."
+"That's where we disagreed... He defeated me. Pressed the Spell-Weaver's blade against my eyes. I thought he'd choose the latter — use my soul to finish the job. I was prepared to accept that outcome. But he didn't. He let me live."
 
 The black dragon looked up. "Look at it from another angle — Ulthalesh is still here. Even if the Burning Legion threw everything they had at it, every scheme and ounce of energy, they still fell just short. That's not so different from your 'soft' style, when you get down to it."
 
 "And in Draenor, Jace Sesso at least won once. Maybe this time, it'll be your turn to claim total victory."
-
-## Flags
-
-- **萨博迈恩男爵** → Baron Sabellian. Alternate title for Sabellian.
-- **辛特兰金龟** → Hinterlands Golden Scarabs. Grede's retort about what his tribe ate.
-- **守护者熔炉** → Guardian Crucible. Tirisfal artifact in Dalaran.
-- **灵魂净化药水** → Soul Purification Potion.
-- **织法者的宝剑** → the Spellweaver's blade. Krasus/Korialstrasz's sword.
-- **基尔加丹王座** → Kil'jaeden's Throne. Location in Draenor/Outland.
-- **瓦格斯** → Archmage Vargoth. Kirin Tor member.
-- **德雷登** → Drenden. Canonical Council of Six member.
-- **茉德拉** → Modera. Canonical Council of Six member.
-- **维克·塞索** → Vic Sesso. Jace's father.

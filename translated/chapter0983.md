@@ -6,7 +6,7 @@
 
 "Hold on." Jace held up a hand. "I'm not the least bit experienced with dream-walking, especially entering a…" He glanced at the creature. "Well, is there any faster way? Have you ever guided someone into a dream before?"
 
-Sola stared at Jace for a moment, hesitating, then said, "I once sent a scythe-owl's consciousness into a raptor druid's dream to help him master the trick of shapeshifting…"
+Sola stared at Jace for a moment, hesitating, then said, "I once sent an owl's consciousness into the dream of a druid of the talon to help him master the trick of shapeshifting…"
 
 "An owl, right." Jace coughed. "They've got souls, I've got a soul — shouldn't be much difference. Any pointers?"
 
@@ -16,11 +16,15 @@ Sola stared at Jace for a moment, hesitating, then said, "I once sent a scythe-o
 
 Sola nodded gravely, shed her orcish appearance, and returned to the familiar look of the golden-haired elven woman from before — probably easier to cast spells in a form she was comfortable with.
 
-She drew a delicate, polished emerald scale from her emerald-green robe. "Sit down next to him, Jace." Jace acknowledged and leaned against the support frame beneath the iron slab bed, taking a deep breath to steady himself.
+She drew a delicate, polished emerald scale from her emerald-green robe. "Sit down next to him, Jace."
+
+Jace acknowledged and leaned against the support frame beneath the iron slab bed, taking a deep breath to steady himself.
 
 "Once you're in the dream, try not to disrupt anything at first. Go along with the rhythm of things in the dream," Sola said, holding her scale.
 
-"I understand," Jace said. "Like how you shouldn't forcibly wake a sleepwalker." Sola smiled slightly. "Something like that."
+"I understand," Jace said. "Like how you shouldn't forcibly wake a sleepwalker."
+
+Sola smiled slightly. "Something like that."
 
 That smile put Jace a little more at ease. If she'd kept wearing that tense expression from earlier, he honestly wouldn't have trusted this young dragon to pull off such complicated magic.
 
@@ -28,7 +32,9 @@ That smile put Jace a little more at ease. If she'd kept wearing that tense expr
 
 "Consider me ready," Jace said.
 
-Sola pressed her lips together, placed her hand gently on Jace's forehead. His eyes grew heavy, though he didn't feel drowsy. "Has it started?" he couldn't help but ask.
+Sola pressed her lips together, placed her hand gently on Jace's forehead. His eyes grew heavy, though he didn't feel drowsy.
+
+"Has it started?" he couldn't help but ask.
 
 "Started what?" asked a man nearby.
 
@@ -54,7 +60,7 @@ Jace guessed it was the black dragon blood in this man's body that made his drea
 
 But for Jace at this point, it was hardly a threat anymore.
 
-Relying on his experience helping Ursula and Marin brew potions, Jace barely managed to meet the alchemist's requirements and helped him complete the experiment.
+Relying on his experience helping Ursula and Malin brew potions, Jace barely managed to meet the alchemist's requirements and helped him complete the experiment.
 
 During the process, he stole a glance at the notebook hanging from the table drawer. The signature on it read: "Kim Mariels." Clearly, in the dream, Jace was this Mr. Kim Mariels's assistant or apprentice, a fellow named Strick.
 
@@ -84,9 +90,11 @@ For some reason, the sky that had seemed clear just moments ago now looked as th
 
 Mariels let out a deep sigh and rubbed his eyes. "I shouldn't have done this. I shouldn't have… run from reality."
 
-He looked over and asked, "Who are you? How did you find me? Is this the witchcraft of the Burning Thorn trolls? Did Nefarian send you?"
+He looked over and asked, "Who are you? How did you find me? Is this the witchcraft of the Smolderthorn trolls? Did Nefarian send you?"
 
-From his tone, Jace could sense an extraordinarily intense hostility toward Nefarian. "I'm from Stormwind, Mariels," Jace said.
+From his tone, Jace could sense an extraordinarily intense hostility toward Nefarian.
+
+"I'm from Stormwind, Mariels," Jace said.
 
 "Stormwind." Mariels frowned. "I don't understand."
 
@@ -94,7 +102,7 @@ From his tone, Jace could sense an extraordinarily intense hostility toward Nefa
 
 "Of course I know," Mariels said. "But she hasn't come to Blackrock Spire since Deathwing died."
 
-Jace asked, "Now I have in my hands a stone tablet inscribed with a drake incantation. It's said this incantation can break the magic of black dragons. Do you have any insight on that?"
+Jace asked, "Now I have in my hands a stone tablet inscribed with a dragonkin incantation. It's said this incantation can break the magic of black dragons. Do you have any insight on that?"
 
 When Jace said this, Mariels's eyes practically bulged.
 
@@ -118,9 +126,9 @@ As he said this, his voice gradually grew hoarse, increasingly like some kind of
 
 Mariels froze, his legs buckled, and he collapsed against the base of the cream-colored wall, sitting on the wet floor. The mages passing by on the roadside paid no mind to this alchemist who'd lost control, turning a blind eye to everything happening here.
 
-The sky had turned a thick, pitch black. The scorching stench of the Burning Plains and Blackrock Spire had unknowingly replaced the smell of baking bread and flowers on Dalaran's streets.
+The sky had turned a thick, pitch black. The scorching stench of the Burning Steppes and Blackrock Spire had unknowingly replaced the smell of baking bread and flowers on Dalaran's streets.
 
-"They wanted me to create a new kind of dragon, mage." Mariels stared up at Jace. "Nefarian wanted me to cultivate a new kind of dragon egg — a dragon that possessed the power of all dragonkind, including the power of dreams. No matter how you entered my dreams… that kind of dragon could do it too! They called this dragon Chromagus, the Ender of All Things. Once such a dragon was born, the other dragons would no longer have any reason to exist."
+"They wanted me to create a new kind of dragon, mage." Mariels stared up at Jace. "Nefarian wanted me to cultivate a new kind of dragon egg — a dragon that possessed the power of all dragonkind, including the power of dreams. No matter how you entered my dreams… that kind of dragon could do it too! They called this dragon Chromaggus, the Ender of All Things. Once such a dragon was born, the other dragons would no longer have any reason to exist."
 
 "Chromatic dragons," Jace said.
 
@@ -148,13 +156,13 @@ Jace tried to ignore all this. He was getting anxious, but his tone didn't dare 
 
 "What else is needed?" Jace asked.
 
-Mariels said, "Although my incantation uses drake script, it's been encrypted with blood magic to evade the powerful senses of dragons — otherwise they would have crushed me with their bare hands long ago. Only by wearing a ring I specially forged can you successfully activate its power. If it weren't for this cursed body of mine, I probably couldn't have done any of this at all. Ha — thank you, Lord Nefarian!"
+Mariels said, "Although my incantation uses dragonkin script, it's been encrypted with blood magic to evade the powerful senses of dragons — otherwise they would have crushed me with their bare hands long ago. Only by wearing a ring I specially forged can you successfully activate its power. If it weren't for this cursed body of mine, I probably couldn't have done any of this at all. Ha — thank you, Lord Nefarian!"
 
 He laughed, then lowered his voice and said, "When Deathwing was searching for a lair on the other side of the Dark Portal, I finally gained a tiny bit of limited freedom. I used this opportunity to begin my plan, cooperating with the orcs willing to resist black dragon rule… because only mortals not controlled by black dragon blood could use this ring to activate the incantation. Mage, I could do absolutely nothing in front of Nefarian.
 
 "It's all that blood and those rituals causing trouble!"
 
-At that, the alchemist sighed again. "Those orcs were brave, truly, but their luck wasn't good. The drakes didn't detect my incantation, but they accidentally discovered the orcs' rebellion plot. The incantation was with them, so before Nefarian returned, I had to flee Blackrock Spire and hide in their caves. But that incantation was lost during the orcs' evacuation process."
+At that, the alchemist sighed again. "Those orcs were brave, truly, but their luck wasn't good. The dragonkin didn't detect my incantation, but they accidentally discovered the orcs' rebellion plot. The incantation was with them, so before Nefarian returned, I had to flee Blackrock Spire and hide in their caves. But that incantation was lost during the orcs' evacuation process."
 
 "But that ring — the ring is still here. Take it. Go kill the black dragons!"
 

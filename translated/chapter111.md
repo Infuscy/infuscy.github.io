@@ -4,11 +4,11 @@ The afternoon had turned quite cold, and the streets were deserted.
 
 Jace emerged from the basement. After spending hours huddled around the bonfire, the sudden blast of cold air hit him the moment he stepped outside, and he quickly threw his cloak on and wrapped it tight around himself.
 
-He parted ways with Ursula and Erland as they came out together, and Jace made a point of studying Erland's expression — checking whether the man was still dwelling on what had happened that night.
+He parted ways with Ursula and Erlan as they came out together, and Jace made a point of studying Erlan's expression — checking whether the man was still dwelling on what had happened that night.
 
 On the surface there still seemed to be some distance between them, but whether that counted as holding a grudge, Jace couldn't really say.
 
-After the experience of getting cornered in an alley by Jagin out of nowhere last time, he wasn't willing to jump to conclusions about anyone anymore.
+After the experience of getting cornered in an alley by Gakin out of nowhere last time, he wasn't willing to jump to conclusions about anyone anymore.
 
 He wandered home, and as he passed along the canal he thought how nice it would be if there were something like headphones here so he could listen to music.
 
@@ -34,7 +34,7 @@ Hearing the voice, the shadow whipped its head around.
 
 "There was a get-together this afternoon." Jace explained as he sat down beside Grede. "What brings you here?"
 
-Grede asked, "Haven't we gone almost a week without seeing each other? Seems like we haven't gotten together once since we split up after coming back from Redridge. I've been cooped up at home these past couple of days, haven't gone to the Fighters' Guild either — I feel like my arms and legs are going soft!"
+Grede asked, "Haven't we gone almost a week without seeing each other? Seems like we haven't gotten together once since we split up after coming back from Redridge. I've been cooped up at home these past couple of days, haven't gone to the Fighters Guild either — I feel like my arms and legs are going soft!"
 
 "Don't tell me you found another job?!" Jace felt his neck tighten.
 
@@ -58,7 +58,9 @@ Grede understood what Jace was getting at, gave a dry cough, and said, "Fine. Th
 
 Jace said, "You don't even know them, and the first thing you say is you want to become a priest — of course they're not willing. And honestly, setting all that aside, do you actually believe in the Holy Light?"
 
-"So what counts as believing in the Holy Light?" Grede shot back. That one stumped Jace. What did count as having faith in the Holy Light?
+"So what counts as believing in the Holy Light?" Grede shot back.
+
+That one stumped Jace. What did count as having faith in the Holy Light?
 
 "Don't you know a lot about the Church of the Holy Light? Last time you told me something about the Church making torches with holy power for the Raven Hill cemetery — I'd never even heard of the Church of the Holy Light making torches for tombs."
 
@@ -80,18 +82,10 @@ Jace also knew that before the Scourge invasion, joining the Order of the Silver
 
 Every member of the Silver Hand was either a valorous priest, a devout warrior, or a noble knight.
 
-It wasn't until the outbreak of the Scourge War that the Silver Hand began recruiting ordinary soldiers and knights on a large scale, bringing them into the Church to become paladins to fight the undead legion that was about to sweep across all of Lordaeron in the name of the Holy Light — that's when the Alliance saw the huge explosion in paladin numbers.
+It wasn't until the outbreak of the Third War that the Silver Hand began recruiting ordinary soldiers and knights on a large scale, bringing them into the Church to become paladins to fight the undead legion that was about to sweep across all of Lordaeron in the name of the Holy Light — that's when the Alliance saw the huge explosion in paladin numbers.
 
 Back then, converting a warrior who'd never felt anything from the Holy Light wasn't actually hard.
 
-Facing mountains of skeletons and zombies, in a moment of death-like despair, a true paladin would stand between you and absolute horror, blade and warhammer blazing with golden light, shouting "For the Holy Light!" as a single mighty blow swept away countless evils — no matter how much you'd disliked the Holy Light before, you'd believe then.
+Facing mountains of skeletons and zombies, in a moment of death-like despair, a true paladin would stand between you and absolute horror, blade and warhammer blazing with golden light, shouting "For the Light!" as a single mighty blow swept away countless evils — no matter how much you'd disliked the Holy Light before, you'd believe then.
 
 A fighter like Grede, if he'd tried to join the Silver Hand during the Scourge invasion, almost certainly wouldn't have been turned away. Right now, though? A lot harder.
-
-## Flags
-
-- Chapter title 信仰之路出师不利 → "The Path of Faith Off to a Bad Start" (出师不利 = off to a bad start; not in glossary).
-- 白银之手骑士团 → "Order of the Silver Hand" (canonical; glossary has 白银之手 = Silver Hand).
-- 蛮锤矮人 → "Wildhammer dwarves" (glossary: 蛮锤 = Wildhammer).
-- 天灾入侵 / 天灾战争 → "Scourge invasion" / "Scourge War" (not in glossary; standard WoW lore rendering).
-- 战士公会 → "Fighters' Guild" (not in glossary).

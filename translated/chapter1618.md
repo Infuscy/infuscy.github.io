@@ -10,7 +10,7 @@ Before Jace left Shadowforge City, he'd heard that many miners were already bein
 
 And not just for Ursula — all the vanguard soldiers heading for Blackrock Spire, regardless of which nation or faction they were from, should be supplied with Restorative Potions if possible. This was no time to be pinching coppers.
 
-For Jace or Kirin Tor mages, Restorative Potions might not be that important — they wouldn't be charging into the front lines against orcs and Black Dragons like the Silver Hand would, and thus wouldn't be the first to face curse magic and large-scale necromantic spells either.
+For Jace or Kirin Tor mages, Restorative Potions might not be that important — they wouldn't be charging into the front lines against orcs and black dragons like the Silver Hand would, and thus wouldn't be the first to face curse magic and large-scale necromantic spells either.
 
 In the letter, Jace went to great lengths stressing how crucial Restorative Potions were for the coming war. He knew talking about protecting soldiers' lives was pointless with greedy, life-devaluing scum like Dark Iron dwarves, so he focused all his leverage on Blackrock Spire.
 
@@ -20,7 +20,7 @@ Yes. Slap a big accusation on them. Stretch the responsibility to the level of h
 
 After finishing the letter and sealing it with his court mage insignia, Jace went to the gryphon roost near Stormwind early the next morning.
 
-"Sir! You there, Bronzebeard sir! I have a letter that needs to be delivered to His Majesty Varian Wrynn at Morgan's Post. Express delivery."
+"Sir! You there, Bronzebeard sir! I have a letter that needs to be delivered to His Majesty Varian Wrynn at Morgan's Vigil. Express delivery."
 
 A blonde dwarf walked over, glanced at Jace's letter, and before Jace could introduce himself, jumped in shock. He looked up, pointing at the wax seal. "Your master is Court Mage Jace Sesso?"
 
@@ -34,13 +34,13 @@ A blonde dwarf walked over, glanced at Jace's letter, and before Jace could intr
 
 "You..."
 
-The dwarf's voice trembled as he spoke, and finally tears started flowing. "All because of you meddling mages, finding the Sulfuron Hammer, finding the hero who could beat the Fire Lord Ragnaros. Damn it."
+The dwarf's voice trembled as he spoke, and finally tears started flowing. "All because of you meddling mages, finding the Sulfuron Hammer, finding the hero who could beat the Firelord Ragnaros. Damn it."
 
 "He's not even a Bronzebeard. What now? Ironforge... you warlock... Three Hammers..." The dwarf let go and slumped to the ground. "Before I die, I actually get to see the Three Hammers come back together."
 
-He suddenly looked up and said in Dwarven, "My mother's beard, are you really Jace Sesso? Tell me this is real!"
+He suddenly looked up and said in Dwarvish, "My mother's beard, are you really Jace Sesso? Tell me this is real!"
 
-"Do you want me to be honest, sir?" Jace replied in Dwarven. "I don't think the Dark Irons will stay at peace with the Bronzebeards and Wildhammers after they retake Blackrock Spire."
+"Do you want me to be honest, sir?" Jace replied in Dwarvish. "I don't think the Dark Irons will stay at peace with the Bronzebeards and Wildhammers after they retake Blackrock Spire."
 
 "Stay at peace?" The dwarf said. "I don't know. In the past, the Dark Irons despised us, hated us, attacked us. I had a brother who lost a hand to Dark Iron soldiers in Loch Modan. I don't know what the Wildhammers think, but a lot of people in Ironforge believe that one day, dwarves will stand together again. I know King Magni believes it. Maybe Princess Moira doesn't, but now she's in Shadowforge City! But still, for most people, this is just a distant dream — like a twenty-year-old kid shouting every day that he's going to be a Mountain King. Everyone knows there's nothing wrong with him wanting that, but at the same time they hope he'd drink a little less and do something practical..."
 
@@ -48,7 +48,7 @@ He suddenly looked up and said in Dwarven, "My mother's beard, are you really Ja
 
 "And I'm one of those dwarves who hates you, Master Jace Sesso. I'm one of them."
 
-Jace's Dwarven wasn't good enough to easily catch every rambling word of a toothless old fellow, but by the end, he broadly understood what the dwarf was trying to say.
+Jace's Dwarvish wasn't good enough to easily catch every rambling word of a toothless old fellow, but by the end, he broadly understood what the dwarf was trying to say.
 
 Before Jace could respond, the dwarf stood up, wiped his tears and snot on his sleeve, blinked hard, and looked properly at the letter's contents.
 
@@ -56,7 +56,7 @@ Before Jace could respond, the dwarf stood up, wiped his tears and snot on his s
 
 "Well then, thank you, sir," Jace said.
 
-The dwarf waved a hand, shouted something in Dwarven, and a pale yellow gryphon flew up from a lower roost, landing on the edge of the wall. Before Jace could explain who the letter was ultimately meant for, the dwarf was already being dragged off by the gryphon into the heights.
+The dwarf waved a hand, shouted something in Dwarvish, and a pale yellow gryphon flew up from a lower roost, landing on the edge of the wall. Before Jace could explain who the letter was ultimately meant for, the dwarf was already being dragged off by the gryphon into the heights.
 
 Returning to the Slaughtered Lamb at noon, the whole basement was thick with the smell of shadow. Jace didn't need to guess — Ursula must have woken up and was trying to light fires with shadowflame.
 
@@ -70,15 +70,15 @@ He went into the alchemy lab and found she'd already covered all the bottles and
 
 "So you brew Nightmare Potion to generate emotions?!" Jace was startled.
 
-"What else would I do it for?" Ursula said, hands on her hips. "You've taken care of those assassins from Eastern Weald who were out to kill me. What's left to scare me these days?"
+"What else would I do it for?" Ursula said, hands on her hips. "You've taken care of those assassins from Eastweald who were out to kill me. What's left to scare me these days?"
 
-"Black Dragons' wings blotting out the sun. The Burning Legion returning to Stormwind one day. The Old Gods' tentacles already touching the shore. Ancient fallen keepers going mad and destroying the whole continent..." Jace said. "Things like that."
+"Black dragons' wings blotting out the sun. The Burning Legion returning to Stormwind one day. The Old Gods' tentacles already touching the shore. Ancient fallen keepers going mad and destroying the whole continent..." Jace said. "Things like that."
 
 "Not very convincing," Ursula said flatly.
 
 "Fine." Jace said. "So what scares you in the nightmare?"
 
-"I'm not planning to discuss that with you." Ursula smiled faintly, pointing at the cauldron. "Today I'm starting to brew Destruction Potion. I need to boil Nightmare Weed with shadowfire. Since you're back, I won't waste the effort, Jace."
+"I'm not planning to discuss that with you." Ursula smiled faintly, pointing at the cauldron. "Today I'm starting to brew Destruction Potion. I need to boil Nightmare Vine with Shadowflame. Since you're back, I won't waste the effort, Jace."
 
 Jace watched as Ursula snapped her fingers. The firewood beneath the cauldron roared to life with black-red demonic flame, casting the entire room in the color of blood.
 
@@ -90,7 +90,7 @@ As the alchemist spoke, Jace found himself recalling how he'd first realized the
 
 "What spell?"
 
-"Do you remember that Shadow Meteor at Nethergarde Keep?"
+"Do you remember that Dark Meteor at Nethergarde Keep?"
 
 "Ah... that one."
 

@@ -12,7 +12,7 @@ This wasn't a dream. She was really back... or rather, the dream had ended — f
 
 "All night long all that came out of our mouths was meaningless nonsense," Jace said.
 
-"It wasn't entirely meaningless." Vereesa walked back and sat on the edge of the bed, gently kissing the warlock's forehead. "Amy told me. She said you were probably with Archmage Vargus, so I came."
+"It wasn't entirely meaningless." Vereesa walked back and sat on the edge of the bed, gently kissing the warlock's forehead. "Amy told me. She said you were probably with Archmage Vargoth, so I came."
 
 "You went to Amy first?" Jace asked.
 
@@ -48,7 +48,7 @@ This wasn't a dream. She was really back... or rather, the dream had ended — f
 
 *Elune, eternal light. She tends to the children of the stars, and we look up to her. Her beauty and her grace, bright as a clear night, clear as a lake.*
 
-Vereesa sang the ancient highborne ballad. Jace's command of Thalassian only let him catch the gist, but not understanding every word only let him sink deeper into the song itself.
+Vereesa sang the ancient Highborne ballad. Jace's command of Thalassian only let him catch the gist, but not understanding every word only let him sink deeper into the song itself.
 
 Quel'Thalas's haughty bearing made it hard to get close, and Stormwind's gray walls and blue tiles didn't quite fit this ten-thousand-year-old melody. But the moonlit purple eaves of Dalaran outside the window were the perfect backdrop for the mood.
 
@@ -104,7 +104,7 @@ Vereesa said, "They know everything we've done, from Grim Batol to the Temple of
 
 "You definitely came back with more power, Vereesa." Jace glanced at the curve of her chest half-hidden by her thin shirt and nodded seriously.
 
-"You mean just now?" Vereesa grinned, quite pleased with herself. "I think that's more a result of exercising during my travels. As for what I actually learned... we'll see when I meet Mor'phil."
+"You mean just now?" Vereesa grinned, quite pleased with herself. "I think that's more a result of exercising during my travels. As for what I actually learned... we'll see when I meet Morophil."
 
 Jace slapped his forehead. "You're still thinking about fighting her?"
 

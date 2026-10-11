@@ -20,11 +20,11 @@ The Vereesa of another timeline was still a rookie who'd just completed her Fars
 
 She'd missed the Orc Wars, missed the Alliance's counterattack. The reason she'd escorted Rhonin was precisely to prove her abilities on this mission — to prove she was a true Windrunner, not some useless noble scion who only knew how to hide in Silvermoon when war and hardship came.
 
-But on this side, she was already about to be promoted to Ranger-Lord. She had nothing left to prove.
+But on this side, she was already about to be promoted to Ranger Lord. She had nothing left to prove.
 
-Vereesa Windrunner — Ender of Gorefiend, the Scourge of the Burning Legion at Nethergarde Keep. Not to mention she'd just completed the Holy Reliquary's arduous mission. If she pulled off another extraordinary feat, even Sylvanas's position as Ranger-General wouldn't be secure.
+Vereesa Windrunner — Ender of Gorefiend, the Scourge of the Burning Legion at Nethergarde Keep. Not to mention she'd just completed the Reliquary's arduous mission. If she pulled off another extraordinary feat, even Sylvanas's position as Ranger-General wouldn't be secure.
 
-Even granting that — was a Ranger-Lord the kind of role that should be doing this kind of dirty work? The Farstriders and the Quel'Thalas royal house would never send a Ranger-Lord on some escort mission.
+Even granting that — was a Ranger Lord the kind of role that should be doing this kind of dirty work? The Farstriders and the Quel'Thalas royal house would never send a Ranger Lord on some escort mission.
 
 Not only that — Krasus had specifically instructed Jace not to leak this matter to anyone, even those closest to him.
 
@@ -98,7 +98,7 @@ This was him. Jace Sesso. Without a doubt.
 
 "Did you catch any, Jace?" Vereesa asked softly in his ear. "The children in the garden over there are still waiting for you to grill fish for them."
 
-Jace rubbed his eyes, glanced at the golden silk cage in his left hand — empty. He craned his neck with difficulty and looked toward the faintly visible wooden garden wall in the distance.
+Jace rubbed his eyes, glanced at the golden-wire fish trap in his left hand — empty. He craned his neck with difficulty and looked toward the faintly visible wooden garden wall in the distance.
 
 "No. Not yet."
 
@@ -129,18 +129,3 @@ Golden forests, a profound sky the color of egg white.
 Beneath wispy floating clouds, dense canopies of orange and red, and among the shade, faintly visible spires of blue and gold, beautiful feathery eaves.
 
 Quel'Thalas.
-
-## Flags
-
-- Chapter title 奎尔萨拉斯 → "Quel'Thalas" (glossary).
-- 弗斯塔德·蛮锤 → "Falstad Wildhammer" (canonical; not in glossary).
-- 游侠队长 → "Ranger-Captain" (not in glossary; canonical rank).
-- 游侠领主 → "Ranger-Lord" (not in glossary — see ch629).
-- 游侠将军 → "Ranger-General" (glossary).
-- 远行者 → "Farstriders" (canonical; not in glossary).
-- 银月城 → "Silvermoon" (canonical; not in glossary).
-- 守望堡 → "Nethergarde Keep" (glossary).
-- 血魔 → "Gorefiend" (glossary: Teron Gorefiend).
-- 温蕾萨·风行者 → "Vereesa Windrunner" (not in glossary — see ch628).
-- 希尔瓦娜斯 → "Sylvanas" (Sylvanas Windrunner; not in glossary).
-- 阿尔兹海默症 → "Dementia" (not in glossary; Jace's self-deprecating guess).

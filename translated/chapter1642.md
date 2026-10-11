@@ -14,11 +14,13 @@ Plague and blight still threatened to spread. To keep the disease from being car
 
 "Imagine if these corpses were taken back to Blackrock Spire -- how much necromantic power they'd give those black dragons." Alleria said. "For every burial pit like this we find and destroy before we breach the Spire, the necromantic curses our soldiers face will be that much weaker, and the paladins and priests will have an easier time of it."
 
-Khadgar said, "Hard to say whether these bodies were meant to produce a necromantic plague or to create powerful death knights. I'm starting to worry about what dark plan the black dragon is brewing, Alleria. If you'd seen that reanimated whelp, you'd know what I mean."
+Khadgar said, "Hard to say whether these bodies were meant to produce a necromantic plague or to create powerful death knights. I'm starting to worry about what dark plan the black dragon is brewing, Alleria. If you'd seen that reanimated drake, you'd know what I mean."
 
-"I saw that enormous corpse, Khadgar. Thank the Light it was a darker denizen of the Twisting Nether that faced it, not our soldiers." Alleria said. "It reminds me of the rumors Sylvanas told me about from Northrend. The magisters found that some corrupted insectoid necromancers were trying to reanimate the ancient bones buried there -- magnataur, even dragons... They probably wanted to use those undead colossi to assault the Vrykul and troll fortresses."
+"I saw that enormous corpse, Khadgar. Thank the Light it was a darker denizen of the Twisting Nether that faced it, not our soldiers." Alleria said. "It reminds me of the rumors Sylvanas told me about from Northrend. The magisters found that some corrupted insectoid necromancers were trying to reanimate the ancient bones buried there -- magnataur, even dragons... They probably wanted to use those undead colossi to assault the vrykul and troll fortresses."
 
-"What do you think, Jace?" The ranger asked. "Very possible." Jace nodded.
+"What do you think, Jace?" The ranger asked.
+
+"Very possible." Jace nodded.
 
 "Captain Alleria! Come look at this body -- it might be a Quel'Thalas magister or Farstrider. This piece looks like your armor." Galen Trollbane called out.
 
@@ -30,7 +32,7 @@ After the ranger left, Khadgar looked over at Jace. "Do you really think the sit
 
 "After returning from Draenor, I looked at some undead samples brought back from Northrend in Dalaran." Khadgar said. "The undead there are much purer -- quite different from here. You should know it's not just necromantic energy that can raise the dead. Even arcane power can achieve a similar effect in another form. Shadow is even closer to it."
 
-Jace understood that perfectly well. Fel and arcane could both "resurrect" the dead -- it was hardly different from stitching body parts together and pumping energy in to make them move. Like the arcane golems that walked the streets of Silvermoon City, or the Infernals that fell from the sky. But the orc soul...
+Jace understood that perfectly well. Fel and arcane could both "resurrect" the dead -- it was hardly different from stitching body parts together and pumping energy in to make them move. Like the arcane golems that walked the streets of Silvermoon City, or the infernals that fell from the sky. But the orc soul...
 
 "You're still hung up on what that soul said." Khadgar said. Jace didn't answer, but he didn't deny it either.
 
@@ -40,7 +42,7 @@ Jace understood that perfectly well. Fel and arcane could both "resurrect" the d
 
 "You think someone twisted the soul's will, trying to send you a message." Khadgar said. "Kil'jaeden? Or some necromancer serving him or the black dragon?"
 
-Kil'jaeden... Neither Morofil nor Kallez had connected that soul's voice to any Burning Legion commander. If Kil'jaeden really was plotting some secret trap around him, he wouldn't expose himself like this now. He surely knew Jace was watching for his next move.
+Kil'jaeden... Neither Morophil nor Kallrez had connected that soul's voice to any Burning Legion commander. If Kil'jaeden really was plotting some secret trap around him, he wouldn't expose himself like this now. He surely knew Jace was watching for his next move.
 
 If not him... then someone who could change a dead soul's will so easily. An orc tongue full of jealousy, hatred, and pain.
 
@@ -74,7 +76,7 @@ A grating screech of metal. The figure fell and rolled into the burning pit. As 
 
 "The corruption spreads faster than we thought, Your Highness." The paladin sheathed his sword and reported to Trollbane. "We should leave this place quickly. It's best not to transport the Alliance knights' bodies back to Stormwind or anywhere else. This place should be burned clean -- no trace left behind."
 
-"I agree with his assessment, Prince Galen." Khadgar said. "The assault on Blackrock Spire hasn't even begun yet. The Alliance doesn't have the manpower or the time to properly handle these remains. I don't think these spirits would want to see the people of the seven kingdoms risk necromantic infection for the sake of their honor. Burn this place."
+"I agree with his assessment, Prince Galen." Khadgar said. "The assault on Blackrock Spire hasn't even begun yet. The Alliance doesn't have the manpower or the time to properly handle these remains. I don't think these spirits would want to see the people of the Seven Kingdoms risk necromantic infection for the sake of their honor. Burn this place."
 
 Galen Trollbane stared at the burning pit, his expression heavy. He was clearly hesitating.
 

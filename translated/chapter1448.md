@@ -10,21 +10,21 @@ And the men were no less impressive than their companions — gems on their hats
 
 By comparison, Jace's red dragon hide cloak, crafted by Deathwing himself with magic, looked like a dirty cowhide smeared with some blood. Khadgar didn't look like an archmage at all — he resembled an old apprentice being dragged to a fancy event by his teacher.
 
-Morofil, on the other hand, seemed far more suited to this colorful crowd. There were indeed some demonic servants attending to the ghosts, so her presence didn't stand out too much.
+Morophil, on the other hand, seemed far more suited to this colorful crowd. There were indeed some demonic servants attending to the ghosts, so her presence didn't stand out too much.
 
 Though the other demons occasionally glanced her way with slightly puzzled looks, even betraying faint, barely perceptible fear.
 
-But neither Jace nor Khadgar intended to mingle with these ghostly nobles from who-knew-which century. They just wanted to pass through. So Morofil didn't give the other succubi any real cause for alarm.
+But neither Jace nor Khadgar intended to mingle with these ghostly nobles from who-knew-which century. They just wanted to pass through. So Morophil didn't give the other succubi any real cause for alarm.
 
-It was clear Khadgar felt uncomfortable here too. He led Jace and Morofil quickly through the colonnade, heading straight for the backstage area on the side of the grand theater. He gave perfunctory responses to the ghosts who greeted them along the way, until eventually he stopped acknowledging anyone at all.
+It was clear Khadgar felt uncomfortable here too. He led Jace and Morophil quickly through the colonnade, heading straight for the backstage area on the side of the grand theater. He gave perfunctory responses to the ghosts who greeted them along the way, until eventually he stopped acknowledging anyone at all.
 
 "There's a passage behind the grand theater's backstage that leads to the exhibition hall." Khadgar said quietly. "The show hasn't started yet. We should be able to slip into backstage easily. Stay close to me. Don't talk to anyone, don't make eye contact... The longer we stay here, the more likely we'll slip up."
 
-"I thought we might actually get to watch a performance." Morofil said, looking disappointed.
+"I thought we might actually get to watch a performance." Morophil said, looking disappointed.
 
 "Stratholme's grand theater is no worse than this, milady." Khadgar glanced back. "Maybe your master can take you there sometime."
 
-"Really?" Morofil swished her tail and sidled up to Jace. "Will you take me, master?"
+"Really?" Morophil swished her tail and sidled up to Jace. "Will you take me, master?"
 
 "Let's survive this place first." Jace said quietly.
 
@@ -46,7 +46,7 @@ Khadgar leaned on the door, looking up as he listened, a frustrated anger simmer
 
 Khadgar tilted his head and whispered to Jace behind him. "Step back."
 
-Jace nodded and moved back with Morofil. Khadgar raised his staff, aimed it at the wooden door, and decisively began to chant. But after a flash of arcane light... he was hurled backward by an invisible force, flying past the two behind him and smashing hard into the wall before hitting the ground.
+Jace nodded and moved back with Morophil. Khadgar raised his staff, aimed it at the wooden door, and decisively began to chant. But after a flash of arcane light... he was hurled backward by an invisible force, flying past the two behind him and smashing hard into the wall before hitting the ground.
 
 "But as you know, not every love has a happy ending. Sometimes, love is as dangerous as thorns."
 
@@ -68,15 +68,15 @@ A ghostly chill drifted from above. Something seemed to be coming their way.
 
 The three turned and ran back at the same time. They headed for the passage under the stage, only to find themselves passing straight through a ghostly guard who was rushing in.
 
-The ghost guard turned, opening his mouth wide to make some sound. Morofil raised a finger and drew a circle in front of his face. The guard hesitated, frowned, and Morofil quickly pushed Jace and Khadgar out the door.
+The ghost guard turned, opening his mouth wide to make some sound. Morophil raised a finger and drew a circle in front of his face. The guard hesitated, frowned, and Morophil quickly pushed Jace and Khadgar out the door.
 
-Several more ghosts were hurrying down the stairs toward them, led by a skull-headed servant. But Jace, Khadgar, and Morofil had already blended in among the ghostly nobles standing by the audience seats.
+Several more ghosts were hurrying down the stairs toward them, led by a skull-headed servant. But Jace, Khadgar, and Morophil had already blended in among the ghostly nobles standing by the audience seats.
 
-The ghost guard that Morofil had confused emerged hesitantly from the door and met with the skull servant, exchanging some words. But clearly, neither had figured out what was happening, and neither looked in their direction.
+The ghost guard that Morophil had confused emerged hesitantly from the door and met with the skull servant, exchanging some words. But clearly, neither had figured out what was happening, and neither looked in their direction.
 
-"I never knew a Succubus could charm the undead." Khadgar said quietly.
+"I never knew a succubus could charm the undead." Khadgar said quietly.
 
-"That's because you hadn't met Lady Morofil yet." Morofil said proudly. "If you want to hunt and kill a Nathrezim skilled at corpse manipulation, you have to learn to do the impossible."
+"That's because you hadn't met Lady Morophil yet." Morophil said proudly. "If you want to hunt and kill a Nathrezim skilled at corpse manipulation, you have to learn to do the impossible."
 
 "Makes sense." Khadgar replied.
 
@@ -92,13 +92,13 @@ Several ghost guards gathered around the area Jace and the others had just escap
 
 Jace resignedly leaned against a nearby pillar. After a while, the guards seemed to find nothing and moved on to other areas. Khadgar breathed a slight sigh of relief.
 
-Beside him, Morofil looked sympathetically at the stage, letting out a long sigh. She clutched Jace's hand tightly, her voice sorrowful. "Why does it have to be this way? Why does this kind of... love have to exist? I don't dare to hope that every love will have a happy ending. This world has no shortage of regrets. But... why, master?"
+Beside him, Morophil looked sympathetically at the stage, letting out a long sigh. She clutched Jace's hand tightly, her voice sorrowful. "Why does it have to be this way? Why does this kind of... love have to exist? I don't dare to hope that every love will have a happy ending. This world has no shortage of regrets. But... why, master?"
 
 "Probably because there's always some kind of 'demon' tormenting innocent men and women." Jace said.
 
-"Not all men and women are innocent." Morofil stared hard at Jace's eyes.
+"Not all men and women are innocent." Morophil stared hard at Jace's eyes.
 
-Jace swallowed nervously. Khadgar teased, "Looks like this show will end quickly, at least for Morofil."
+Jace swallowed nervously. Khadgar teased, "Looks like this show will end quickly, at least for Morophil."
 
 "Ah, what a wonderful performance. What a cruel world!"
 
@@ -110,7 +110,7 @@ More excited cheers from the audience. The blond man clapped along. Khadgar star
 
 "It's not over?"
 
-"What's next?" Morofil craned her neck forward in anticipation.
+"What's next?" Morophil craned her neck forward in anticipation.
 
 "The next act is a very special performance." The blond announcer struggled to contain his excitement, his eyes sweeping across the entire grand theater.
 
@@ -120,7 +120,7 @@ Gasps rippled through the audience. A spotlight from somewhere began to move acr
 
 "Guess what, Jace?" Khadgar said through clenched teeth.
 
-"Could it be?" Morofil's demonic eyes flared with surprise.
+"Could it be?" Morophil's demonic eyes flared with surprise.
 
 "No way." Jace sighed.
 

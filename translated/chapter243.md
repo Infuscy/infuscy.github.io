@@ -10,13 +10,13 @@ Jace jolted back to his senses, remembering that he was in the middle of an Orci
 
 Dushan nodded. "It's the first week of the new term. A lot of the younger students have the same problem. Try translating this word for me."
 
-Jace looked at the Orcish rune Dushan had written. "Gromm. Giant."
+Jace looked at the Orcish rune Dushan had written. "Grom. Giant."
 
 "Good." Dushan's tone was flat. "I suppose Mr. Sesso didn't neglect his studies even over the break."
 
 Jace breathed a quiet sigh of relief and stole a glance at the other students, making sure no one was giving him strange looks.
 
-Only after class today had he learned that quite a few people here knew he'd been right there on the street during the death knight attack on Dalaran. He was basically a celebrity in the Wizard Sanctum now.
+Only after class today had he learned that quite a few people here knew he'd been right there on the street during the death knight attack on Dalaran. He was basically a celebrity in the Wizard's Sanctum now.
 
 After causing that much trouble, it'd be stranger if he weren't famous, honestly.
 
@@ -28,7 +28,7 @@ Just thinking about having to face that succubus again tonight gave him a feelin
 
 The one feeling he could name was the one downstairs.
 
-Reciting how, for that moment last night, Morophil had driven him half to death — like that little lamb, at someone's mercy, utterly powerless to fight back…
+Recalling how, for that moment last night, Morophil had driven him half to death — like that little lamb, at someone's mercy, utterly powerless to fight back…
 
 "Mr. Jace Sesso!"
 
@@ -60,7 +60,7 @@ Watching the professor leave, Jace had a pretty good idea what was going on.
 
 That damn succubus had definitely drained his mana last night, and he still hadn't recovered much of it. She'd probably sucked him dry right down to the bottom.
 
-After class, Jace went straight to the Alchemist's Need and bought two mana potions. He was still planning to go outside the city tonight to reproduce that shadow fire he'd managed to conjure at Marin's place — he couldn't let a succubus derail his plans.
+After class, Jace went straight to Alchemy Needs and bought two mana potions. He was still planning to go outside the city tonight to reproduce that Shadowflame he'd managed to conjure at Malin's place — he couldn't let a succubus derail his plans.
 
 Wait — how about using her as a target?
 
@@ -140,21 +140,8 @@ The succubus stared at Jace in disbelief. "You actually need its help? You have 
 
 "You see those papers?" Jace pointed at the stacks upon stacks of paper under the table.
 
-"Uh." Morophil hesitated. "I see them. You use those papers to study demonic?"
+"Uh." Morophil hesitated. "I see them. You use those papers to study Demonic?"
 
 "Those are all translations the imp copied out for me. There are still some it hasn't finished copying. You kill it, and you can do the work instead. I saw you're quite fond of creative writing, aren't you?"
 
 The succubus immediately tucked the imp gently back into the bag and carefully pulled the drawstring tight. "Master, let's talk about going out instead, shall we?"
-
-## Flags
-
-- **Caro Dushan:** 卡罗·杜尚 → Caro Dushan (glossary: Orcish-language teacher at the Wizard Sanctum).
-- **Orcish word:** 格罗姆 = "Gromm" (Gromm Hellscream root; Jace translates it as "giant" — approximate).
-- **Draconic character:** 雷伊索托 → "Reithosotho" (Kirin Tor Draconic; life/restoration element).
-- **Marin's place:** 马林 → Marin (Master Marin / Arcanist Malin, glossary).
-- **Alchemist's Need:** 炼金术士之需 → "the Alchemist's Need" (shop name).
-- **Sazeno:** 撒厄诺 → Sazeno (glossary: imp minion, short name; true name Sazenilaz).
-- **Imp's insult:** 嘲 — the imp calls Morophil a "嘲" (likely a slur; rendered as "bitch" in the imp's panicked voice).
-- **Phase Shift:** 相位变换 → Phase Shift (glossary).
-- **Mana drain:** Morophil admits she needs mana to survive in the material plane — she drained Jace's mana to sustain herself, leaving him unable to cast.
-- **Tone:** Jace's internal voice stays dry and exasperated; Morophil is playful and possessive; the imp (Sazeno) is cowardly and sycophantic when caught.

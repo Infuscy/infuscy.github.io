@@ -28,11 +28,11 @@ Jace said quickly, "Ah — probably all those horror stories the patrolmen told 
 
 Grede's expression shifted. "Is that so? Well if that's really the case… it's not a bad idea, actually."
 
-"Forget it." Jace rummaged in his pack. "I brought an extra outer layer too. If we have to go deep into the cemetery, we'll definitely want to change once we're out. The Raven Hill cemetery's been heavily contaminated with corpse toxin — some people who rushed in came back with aftereffects, probably from wearing their filthy clothes too long."
+"Forget it." Jace rummaged in his pack. "I brought an extra outer layer too. If we have to go deep into the cemetery, we'll definitely want to change once we're out. The Raven Hill cemetery's been heavily contaminated with corpse poison — some people who rushed in came back with aftereffects, probably from wearing their filthy clothes too long."
 
 "That from the patrolmen too?"
 
-"Some of it from immigrants from Raven Hill and Gelande." Jace hitched up his pack. "If we're all packed, let's go. Any later and I don't know if we'll make it to Westfall Keep before nightfall."
+"Some of it from immigrants from Raven Hill and Grand Hamlet." Jace hitched up his pack. "If we're all packed, let's go. Any later and I don't know if we'll make it to Westbrook Garrison before nightfall."
 
 Stormwind had expanded its city limits, and the massive wave of new housing had already absorbed tens of thousands of new residents — yet there were still plenty of refugees pitching tents inside and outside the Valley of Heroes.
 
@@ -48,9 +48,9 @@ Jace walked to the city gate and watched the children sitting at their tent entr
 
 Now he had a roof over his head — barely. But what the future held, nobody could say.
 
-The two of them spent ten coppers to catch a ride with a wine caravan to the relay station near Westfall Keep. After resting for the night, they set out early the next morning on a wagon heading for Sentinel Hill.
+The two of them spent ten coppers to catch a ride with a wine caravan to the relay station near Westbrook Garrison. After resting for the night, they set out early the next morning on a wagon heading for Sentinel Hill.
 
-Westfall at this time of year was anything but a "fall." The Common name for it was closer to "the big flat land to the west."
+Westfall at this time of year was nothing like the barren wasteland he remembered from the game. The Common name for it meant something closer to "the big flat land to the west."
 
 With Harvest Festival approaching, the endless fields stretched out before them — golden summer wheat swaying in the breeze, the tree lines dividing the farmland a vivid, contrasting green in the distance.
 
@@ -82,7 +82,7 @@ The small chapel by the lumberyard had suffered badly in the war. Right now a cr
 
 Jace could tell this brand-new town was short on hands — help-wanted notices were everywhere. Miners, construction workers, farmhands — the pay wasn't much different from Stormwind's at all.
 
-No wonder Eden Marin had worried about him coming out here to find work. If a person got used to life here or in Moonbrook, they might genuinely not want to go back to Stormwind.
+No wonder Eden Malin had worried about him coming out here to find work. If a person got used to life here or in Moonbrook, they might genuinely not want to go back to Stormwind.
 
 "You see that slaughterhouse?" Grede pointed to a small building around the corner, barely ten meters away. "Tomorrow we can head over and buy some bone scraps for bait, so we won't be forced to dig up dead folk."
 
@@ -90,7 +90,7 @@ No wonder Eden Marin had worried about him coming out here to find work. If a pe
 
 Jace didn't have any real hunting experience. He was just shooting his mouth off based on what he knew from the game.
 
-Grede said, "The Bloodfang Boars around here are famously vicious. Even the gnolls don't count on hunting them for a stable meat supply. You know why moonbrook liver pie's so expensive? Because only Bloodfang Boar liver makes it taste that way… Hunting Bloodfang Boars takes a professional boar hunter."
+Grede said, "The Goretusks around here are famously vicious. Even the gnolls don't count on hunting them for a stable meat supply. You know why Moonbrook liver pie's so expensive? Because only Goretusk liver makes it taste that way… Hunting Goretusks takes a professional boar hunter."
 
 Jace asked, "You're from the Hinterlands — how come you know so much about southern boars?"
 
@@ -144,7 +144,7 @@ The black-bearded man gave a contemptuous snort. "You can't trust a mercenary's 
 
 Jace slowly raised his tankard, taking a small sip to hide his face. It looked like a nasty brawl was unavoidable.
 
-"By the Holy Light!" The man in the white shirt stood up, appealing to the crowd. "For the sake of our common faith, everyone calm down. My friend here had a run-in with some miners before, but it was a group of dwarven miners who provoked him — he wasn't referring to you…"
+"By the Light!" The man in the white shirt stood up, appealing to the crowd. "For the sake of our common faith, everyone calm down. My friend here had a run-in with some miners before, but it was a group of dwarven miners who provoked him — he wasn't referring to you…"
 
 Grede, hearing this, choked on his ale in quick succession and whipped around to glare at the man. Only then did the nearby customers realize that the stocky, broad fellow sitting here was actually a tall dwarf!
 
@@ -152,7 +152,7 @@ Jace whispered to Grede, "Haven't the Aerie Peak dwarves found a mine yet? He's 
 
 Grede turned back, wearing an expression that said *you've got a point there*.
 
-"We've seen the giant gnoll leader," Jace raised his voice toward the mercenaries. "Over by Westfall Keep. If you follow the riverbank, I'm sure you'll find a trail."
+"We've seen the giant gnoll leader," Jace raised his voice toward the mercenaries. "Over by Westbrook Garrison. If you follow the riverbank, I'm sure you'll find a trail."
 
 "Don't take this the wrong way, lad," the black-bearded man glanced over, "but I don't believe someone like you could see a gnoll like that and live to tell about it."
 
@@ -177,16 +177,3 @@ Northrend? So these three were from the northern continent off the Northern Sea 
 The tense atmosphere in the tavern gradually eased. The black-bearded man's group of three seemed to sense the hostility in the inn. After a few whispered exchanges, they left together.
 
 After all, if they slept here, there was no telling who might creep into their room in the middle of the night and crack their skulls open. Miners who'd lived here half their lives had plenty of ways to make a man die without a trace.
-
-## Flags
-
-- **Chapter numbering:** Output chapter012.md = source 第13章. Same off-by-one as noted in chapter010 flags.
-- **Bloodfang Boar (血牙野猪):** Not in glossary. Rendered as "Bloodfang Boar" — a Westfall boar species. "Bloodfang" follows WoW naming conventions.
-- **"moonbrook liver pie" (猪肝馅饼):** The text says 月溪镇的猪肝馅饼 (Moonbrook's liver pie). Rendered as "moonbrook liver pie" lowercase to match the flow; the fame of Moonbrook's liver pie is the reason given for Bloodfang Boar liver's value.
-- **"pull a fast one" (空手套白狼):** Idiom meaning "get something for nothing" / bait-and-switch. Rendered idiomatically.
-- **"young Wrynn" (小乌瑞恩):** Refers to the boy king Varian Wrynn. Rendered as "young Wrynn" — the mercenaries are speculating about the king's honesty.
-- **Cliff (克里夫):** The black-bearded mercenary's name, revealed by the white-shirted man. Not in glossary.
-- **"testicles twenty times normal size" (卵子比你大至少二十倍):** Grede's crude insult. The Chinese literally says "his balls/eggs are at least twenty times bigger than yours" — rendered as "his balls are at least twenty times the size of yours" for natural vulgar tone matching Grede's voice.
-- **"Gelande" (格兰镇):** See chapter010 flags — same transliteration issue.
-- **"Nefiri River" (纳菲瑞提河):** See chapter010 flags.
-- **"Northrend" (诺森德):** Canon WoW continent. Used directly.

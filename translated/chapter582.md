@@ -6,7 +6,7 @@
 
 Vereesa nodded.
 
-"Dathmora was most likely one of the Shen'dralar. According to our investigations, she had lived in Eldre'Thalas since at least the era of the War of the Ancients. But she fled the city afterward, because everyone within Eldre'Thalas had been tainted by demonic energy... They had summoned a terrible void demon to replace the Well of Eternity and sate their hunger for magic. So we could not allow those who escaped to roam freely across Kalimdor, making trouble at will — we had to monitor their movements."
+"Dasmora was most likely one of the Shen'dralar. According to our investigations, she had lived in Eldre'Thalas since at least the era of the War of the Ancients. But she fled the city afterward, because everyone within Eldre'Thalas had been tainted by demonic energy... They had summoned a terrible void demon to replace the Well of Eternity and sate their hunger for magic. So we could not allow those who escaped to roam freely across Kalimdor, making trouble at will — we had to monitor their movements."
 
 "So where is she now?" Grede asked.
 
@@ -18,19 +18,19 @@ Hearing this, the group couldn't help but feel a flicker of disappointment. They
 
 "Impossible," Vereesa said. "If she were on the other side, the Reliquary would have dug her up long ago. She couldn't leave behind the barest trace of magic — no way, Grede."
 
-"We found some clues among the satyr in Maraudon, General Shandris," Jace said. "Those satyr intended to summon a demon into Maraudon, one likely tied closely to Dathmora, to achieve some purpose. The demon should be a doomguard — or, an Ered'ruin."
+"We found some clues among the satyr in Maraudon, General Shandris," Jace said. "Those satyr intended to summon a demon into Maraudon, one likely tied closely to Dasmora, to achieve some purpose. The demon should be a doomguard — or, an Ered'ruin."
 
 "I know that kind of demon," Shandris nodded.
 
-"We suspect that demon may be Dathmora's minion, imprisoned in the dungeons of Eldre'Thalas," Vereesa added.
+"We suspect that demon may be Dasmora's minion, imprisoned in the dungeons of Eldre'Thalas," Vereesa added.
 
-"So it would seem these satyr also want to find Dathmora?" Shandris asked.
+"So it would seem these satyr also want to find Dasmora?" Shandris asked.
 
 "We haven't yet figured out their exact plan," Jace said.
 
 "What do you make of the satyr's purpose, General?" Vereesa asked.
 
-"The satyr have long been collecting magical relics left behind by Kaldorei nobles," Shandris said. "They want to amass enough power to summon mightier demons into this world. If I had to guess, Dathmora must know a great many relevant secrets — the locations of artifacts, and so on — after all, she may be one of the Shen'dralar... Remember what I said earlier? The Shen'dralar were the keepers of Eldre'Thalas's imperial repository."
+"The satyr have long been collecting magical relics left behind by Kaldorei nobles," Shandris said. "They want to amass enough power to summon mightier demons into this world. If I had to guess, Dasmora must know a great many relevant secrets — the locations of artifacts, and so on — after all, she may be one of the Shen'dralar... Remember what I said earlier? The Shen'dralar were the keepers of Eldre'Thalas's imperial repository."
 
 "Does that repository still exist?" Jace asked.
 
@@ -67,15 +67,3 @@ The night elves' dwellings, food, weapons, and tools — all of it gave Jace the
 "More meat, more meat!" Grede spotted the clam meat before Jace and reached over. "Let me try some of that, Jace — here, have some of mine too..."
 
 The two of them went to work on the few varieties of meat on the table. Vereesa hesitated at first, but seeing the meat about to run out and Mosa close to polishing off all the vegetables, she too joined the feasting. The group soon swept the table completely clean.
-
-## Flags
-
-- **Shen'dralar**: Canonical WoW name for 辛德拉. The glossary does not list this term, but it is firmly established lore — the Highborne faction residing in Dire Maul / Eldre'Thalas.
-- **Highborne**: Canonical translation for 上层精灵 (the ancient night elf nobility). The text itself makes this etymological link explicit.
-- **Ered'ruin**: Canonical demon classification for 埃雷杜因 (doomguard). Used here as the satyr's target summon.
-- **Reliquary**: Canonical name for 遗物学会 — the blood elf archaeological organization, counterpart to the Explorers' League.
-- **"By the Light"**: Grede's exclamation — kept as a natural dwarven oath; he is not a Light-wielder, just using it as a generic swear.
-- **"Jace Sesso"**: Grede uses the full name here in his excitement, consistent with his familiar, rough-edged register.
-- **"girl"**: Grede calls Vereesa "小姑娘" — rendered as "girl" in his bluff dwarven manner, not meant condescendingly.
-- **Giant clam / raw**: The text emphasizes the raw clam meat has no fishy taste — a small detail highlighting night elf food preparation.
-- **POV**: Third person throughout.

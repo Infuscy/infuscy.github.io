@@ -4,7 +4,7 @@ The inn at Alterac had plenty of patrons, but nobody was in much of the mood for
 
 Ever since they'd come in, there had been an intermittent *slap-slap-slap* from upstairs. Jace hadn't paid it any mind at first, until Grede clapped him on the shoulder and pointed upward. Jace glanced up and caught a pair of thick, pale thighs draped over the stairs — with someone behind them, going at it hard.
 
-But aside from the two of them, nobody else seemed interested in what was happening on the stairs. Probably because up in the snow mountains, everyone cut some slack for any means of keeping warm.
+But aside from the two of them, nobody else seemed interested in what was happening on the stairs. Probably because up in the snowy mountains, everyone cut some slack for any means of keeping warm.
 
 Jace walked up to the counter and ordered two large mugs of ale — one pale ale, one rye — then brought them back to the table. He slid the rye over to Grede. "Here."
 
@@ -56,7 +56,7 @@ Jace looked at the cramped little room and said, "We need to take fire precautio
 
 "Good."
 
-Jace caught himself slipping into Master Marin's tone out of habit. He spread out his notes on the Mage Armor casting process across the table in front of him, cast Arcane Intellect, took a deep breath, and drank about half a mana potion.
+Jace caught himself slipping into Master Malin's tone out of habit. He spread out his notes on the Mage Armor casting process across the table in front of him, cast Arcane Intellect, took a deep breath, and drank about half a mana potion.
 
 Grede sat bolt upright on the bed like a temple monk, eyes locked on Jace's every move.
 
@@ -64,17 +64,17 @@ Grede sat bolt upright on the bed like a temple monk, eyes locked on Jace's ever
 
 "I haven't started yet."
 
-Jace shot him a look, then stood in the middle of the room and mimicked Master Marin's opening gesture. A sharp pain lanced through his shoulder. He frowned — something told him this wasn't going to go smoothly.
+Jace shot him a look, then stood in the middle of the room and mimicked Master Malin's opening gesture. A sharp pain lanced through his shoulder. He frowned — something told him this wasn't going to go smoothly.
 
 But the moment that thought surfaced, he forced it back down. Because every time he'd believed he could do it, the spell had turned out surprisingly well; and every time he'd started worrying, the result had always been worse than what he'd worried about.
 
-"Lokpotorie…"
+"Lokpotoria…"
 
 Jace slowly closed his eyes. With Grede helping out this time, he planned to focus every scrap of his attention on the casting and let everything else fall away.
 
 Last time had been his first attempt — he'd been distracted by curiosity at all the phenomena that arose when arcane energy manipulated the elements. Now he had no reason to be curious. Other than completing the cast, he didn't need to think about anything else.
 
-"Ingrukoo…"
+"Inguluku…"
 
 Jace continued his gestures, concentrating on feeling the arcane energy swirling around him while fluently reciting the incantation from memory. But soon he began to hear Grede softly going "Ow… aah… ouch… hey-ya!"
 
@@ -84,7 +84,7 @@ Jace didn't dare open his eyes. That kind of noise was already starting to disru
 
 This time, he had to finish it!
 
-"…Itaxii, bediinkatu, nazha-zoon!"
+"…Itakxi, Bedyinkatu, Nazazunsa!"
 
 Jace snapped his eyes open. In that instant, all the arcane energy — along with the various elements it had swept in — converged at once like a burst of prismatic light slamming into his body.
 
@@ -116,7 +116,7 @@ Natural energy, maybe. Perhaps Jace's lack of finesse during the cast had caused
 
 "Then… next time we'll find somewhere more spacious."
 
-Jace hadn't yet mastered the technique Master Marin had described — dialing back the intensity to produce a weaker version of Mage Armor. He just wanted to complete a full cast while he was at his best. As for whether he could scale the spell down to make Mage Armor more practical for real combat, he could work on optimizing that later in his Protection studies…
+Jace hadn't yet mastered the technique Master Malin had described — dialing back the intensity to produce a weaker version of Mage Armor. He just wanted to complete a full cast while he was at his best. As for whether he could scale the spell down to make Mage Armor more practical for real combat, he could work on optimizing that later in his Abjuration studies…
 
 He just hadn't expected it to go this well!
 
@@ -135,14 +135,3 @@ Mana growth probably had some kind of diminishing-returns effect, so even if the
 Whatever the case… that flask of water had indeed given him — a human with a rather short mana bar — a remarkably noticeable boost. The last time, he'd started feeling fatigued halfway through casting Mage Armor. Now that he'd finished the whole thing, he felt like he might just have enough left to try it again!
 
 But he knew, rationally, that he couldn't manage another full cast. Still, this already thrilled him beyond words.
-
-## Flags
-
-- 法师护甲 → Mage Armor (glossary confirms).
-- 奥术智慧 → Arcane Intellect (glossary confirms).
-- 太阳井之水 / 太阳之井 → Sunwell water / Sunwell (glossary confirms Sunwell).
-- 永恒之井 → Well of Eternity (canonical WoW term; not in glossary but standard lore).
-- 奎尔多雷 → Quel'dorei (Thalassian term for the high elves/Silvermoon elves; not in glossary).
-- 辛艾萨莉 → Zin-Azshari (glossary confirms).
-- 蓝条 → mana bar (gamer term; Jace's internal shorthand for mana pool).
-- 法力药水 → mana potion (standard WoW term; not in glossary).

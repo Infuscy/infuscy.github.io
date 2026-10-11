@@ -1,14 +1,14 @@
 ## Chapter 1321: Searching for the Scepter
 
-"Grand Marshal Turalyon, High Lord Kurdran, Captain Alleria, General Danath..."
+"Grand General Turalyon, High Thane Kurdran, Captain Alleria, General Danath..."
 
-Grede looked at the assembled leaders in the keep's great hall, muttering quietly to Sora beside him, "Feels like the Valley of Heroes, doesn't it, green one? The kings and nobles back home probably never imagined that not a single one of these greatest names would die to the orcs' vile magic."
+Grede looked at the assembled leaders in the keep's great hall, muttering quietly to Sola beside him, "Feels like the Valley of Heroes, doesn't it, green one? The kings and nobles back home probably never imagined that not a single one of these greatest names would die to the orcs' vile magic."
 
 "Hard to say if that's a pity or lucky. Archmage Khadgar went back early, so there's one missing." The dwarf glanced at Jace and mumbled, "Look at General Danath Trollbane. When he was as young as you, I'd met him. Now he looks as old as King Terenas II."
 
 "I've always wanted a proper fight with him -- the greatest warrior in the human world. Before, my eye wasn't good. Now, it's hard to say who'd win!"
 
-Jace remembered the day he and Grede were preparing to head for Raven Hill looking for Grave Moss. Grede had fought Danath's cousin at the Pig and Whistle Inn.
+Jace remembered the day he and Grede were preparing to head for Raven Hill looking for Grave Moss. Grede had fought Danath's cousin at the Pig and Whistle Tavern.
 
 That fight had gotten Grede a pretty decent sword that came in handy during their Raven Hill adventure... Those felt like yesterday.
 
@@ -20,7 +20,7 @@ This aging man was widely acknowledged as the greatest warrior in the entire All
 
 A leader with such seniority, overwhelming martial prowess, and command presence could easily be stubborn. When Jace first heard his name, he'd worried Danath might look down on him, even despise him, for his pragmatic kind of magic. But when Danath entered, he greeted Jace quite courteously. There was some wariness in his manner, but he didn't show it. That was far better than Jace had expected.
 
-Though Jace wasn't the only one worried about that. As Danath entered the meeting hall, Alleria nearby was listening to Vereesa recount what had happened at Wildhammer Keep over the past couple of days, but her eyes kept darting this way, as if afraid Danath might clash with Jace.
+Though Jace wasn't the only one worried about that. As Danath entered the meeting hall, Alleria nearby was listening to Vereesa recount what had happened at Wildhammer Stronghold over the past couple of days, but her eyes kept darting this way, as if afraid Danath might clash with Jace.
 
 It seemed that before arriving here, Alleria had already explained everything Jace's group had done to Danath, getting ahead of the problem.
 
@@ -32,7 +32,7 @@ But when Sabellian strode into the meeting hall, the relaxation on Danath's face
 
 "It's been a long time, General Danath," Sabellian said with a smile.
 
-"I hope this time you're truly cooperating with the Sons of Lothar, Baron Sabellian," Danath Trollbane said coldly.
+"I hope this time you're truly cooperating with the Sons of Lothar, Baron Sablemane," Danath Trollbane said coldly.
 
 "The last time I entered Honor Hold, it was on my father's orders. This time, I'm here for the survival of my kind. Entirely different." Sabellian said. "Besides, this time I've brought top-secret intelligence about the Scepter of Sargeras. The Burning Legion certainly doesn't want you to figure out how their sealing barrier works. Isn't that part of my good faith?"
 
@@ -48,21 +48,23 @@ At Turalyon's words, Danath nodded. Sabellian didn't press further either.
 
 "Tell us about Honor Hold's situation, General," Turalyon said.
 
-Danath nodded. "Honor Hold is relatively stable for now. Before the magical accident you mentioned -- the demonic lockdown -- the fel orcs from Hellfire Citadel to the north made a few small probing attacks. They tried to feint at Honor Hold twice while circling around to strike Fort Vanguard in the south, but I saw through it both times."
+Danath nodded. "Honor Hold is relatively stable for now. Before the magical accident you mentioned -- the demonic lockdown -- the fel orcs from Hellfire Citadel to the north made a few small probing attacks. They tried to feint at Honor Hold twice while circling around to strike the Expedition Armory in the south, but I saw through it both times."
 
-"Fort Vanguard is our supply depot in Hellfire Peninsula," Kurdran said. "That place can't fall."
+"The Expedition Armory is our supply depot in Hellfire Peninsula," Kurdran said. "That place can't fall."
 
 "I know, Kurdran," Danath said. "Those death knights from Hellfire Citadel can't fool me with their tricks. Plague, curses -- I saw plenty of that back in Lordaeron. And I've been burned before... I won't make the same mistake again."
 
-The "Fort Vanguard" they mentioned was probably the expedition's supply depot that in the game lay south of Hellfire Peninsula's southern mountain range, already in ruins by the time players arrived. By then, only a group of Expedition ghosts haunted the place -- all disasters the death knights had created.
+The "Expedition Armory" they mentioned was probably the expedition's supply depot that in the game lay south of Hellfire Peninsula's southern mountain range, already in ruins by the time players arrived. By then, only a group of Expedition ghosts haunted the place -- all disasters the death knights had created.
 
 Hearing this, Jace sighed quietly. In the end, it seemed Danath hadn't managed to "see through every death knight trick" as he'd claimed. The Fel Horde had succeeded.
 
 "Glad to hear Honor Hold is mostly okay. Any news that isn't bad news is precious right now." Turalyon looked toward Jace. "Have you contacted Khadgar these past two days, Jace?"
 
-"I have." Jace said. "Archmage Khadgar is discussing ways to break through the barrier with the Kirin Tor. They've established a teleportation point connecting to Dalaran near the Stone Tower by Illgar's Tower to facilitate communication. I've told him about the Scepter of Sargeras. He also supports us and the mages in searching for the scepter's location."
+"I have." Jace said. "Archmage Khadgar is discussing ways to break through the barrier with the Kirin Tor. They've established a teleportation point connecting to Dalaran at Stonewatch Keep near the Tower of Ilgalar to facilitate communication. I've told him about the Scepter of Sargeras. He also supports us and the mages in searching for the scepter's location."
 
-The leaders in the hall murmured among themselves. Hearing that Khadgar was involved put everyone much more at ease. "Then our next task is clear," Alleria said.
+The leaders in the hall murmured among themselves. Hearing that Khadgar was involved put everyone much more at ease.
+
+"Then our next task is clear," Alleria said.
 
 Turalyon nodded, looking toward Danath. "During the demonic lockdown, did the mages at Honor Hold detect any unusual magical activity from Hellfire Citadel?"
 
@@ -76,7 +78,7 @@ Sabellian said, "I also can't connect this barrier's power to Karabor. But I can
 
 "We could try getting information directly from the orcs," Vereesa said. "Use magic to disguise ourselves as fel orcs and infiltrate Karabor or Hellfire Citadel. Since Magtheridon could entrust the Scepter of Sargeras to a chieftain like Zuluhed, I imagine its current location isn't much of a secret among them."
 
-"That's a feasible plan, Ranger-Lord," a Farstrider nearby said.
+"That's a feasible plan, Ranger Lord," a Farstrider nearby said.
 
 Hearing Vereesa's suggestion, Jace felt a surge of eagerness -- and then remembered that Vaelastrasz's gift, the black dragon cloak, had been destroyed at Dragonmaw Fortress.
 
@@ -92,8 +94,8 @@ After all, with more and more orcs drinking Magtheridon's blood, green-skinned o
 
 "I almost forgot about you lot." Kurdran looked at the group. "If these creatures can turn into humans and fool us, they're probably experts at fooling orcs too!"
 
-Sabellian glanced sideways at the dwarf. "But only three or four of us have mastered shapeshifting. You'll still need more people for this mission. They need to know the orcish language and understand orcs well enough."
+Sabellian glanced sideways at the dwarf. "But only three or four of us have mastered shapeshifting. You'll still need more people for this mission. They need to know the Orcish language and understand orcs well enough."
 
-"I can carry out this mission, Marshal," Jace said.
+"I can carry out this mission, General," Jace said.
 
 "Not so fast, Jace." Turalyon raised a hand. "I need to talk to you first."

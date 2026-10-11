@@ -6,17 +6,17 @@ Compared to the cramped, castle-like passageways of Stormwind Keep, the Lordaero
 
 Vereesa, who had been eyeing everything in the Old Craftsmen's Quarter with open curiosity earlier, didn't seem particularly impressed now that they had entered the palace. Compared to the ramparts and the royal finery, she appeared far more interested in one thing: exactly who sat upon the Lordaeron throne.
 
-"Jace Sesso, Court Arcane Advisor of the Kingdom of Stormwind, and Lady Vereesa Windrunner, Ranger-Lord of Quel'Thalas, have arrived at the palace..."
+"Jace Sesso, Court Arcane Advisor of the Kingdom of Stormwind, and Lady Vereesa Windrunner, Ranger Lord of Quel'Thalas, have arrived at the palace..."
 
-The long, rolling announcement, delivered in an ancient Tirisfalian cadence, echoed through the corridors and off the walls. Jace leaned toward the high elf beside him and murmured, "The promotion ceremony hasn't even happened yet... and they already know you're a Ranger-Lord?"
+The long, rolling announcement, delivered in an ancient Tirisfalian cadence, echoed through the corridors and off the walls. Jace leaned toward the high elf beside him and murmured, "The promotion ceremony hasn't even happened yet... and they already know you're a Ranger Lord?"
 
-Vereesa whispered back, "I'm already a Ranger-Lord. The Farstriders, the Sunstrider royal house, the Silvermoon Council — they've all acknowledged it. In truth it was more or less decided before Grim Batol, it's just — you know how those old bastards who've lived for centuries handle things... Anyway, the ceremony can happen whenever. That depends on me, or rather — on you."
+Vereesa whispered back, "I'm already a Ranger Lord. The Farstriders, the Sunstrider royal house, the Silvermoon Council — they've all acknowledged it. In truth it was more or less decided before Grim Batol, it's just — you know how those old bastards who've lived for centuries handle things... Anyway, the ceremony can happen whenever. That depends on me, or rather — on you."
 
 "All right, I get it," Jace muttered as they walked.
 
 The tall knight in silver armor and white cloak led the way up front, one hand resting on his longsword, metal boots clanging against the flagstones. Jace heard the announcement echo down the corridor again and again, and the title "Court Arcane Advisor" made him feel more and more like a fraud.
 
-By his current abilities, he could probably just barely pass the Wizard Sanctum's apprentice mage exam. A proper licensed mage? Not even close — he was a hundred thousand miles away.
+By his current abilities, he could probably just barely pass the Wizard's Sanctum's apprentice mage exam. A proper licensed mage? Not even close — he was miles off.
 
 Sure, as an advisor on dark magic within Stormwind's walls, he probably qualified.
 
@@ -54,15 +54,15 @@ Of course, in the eyes of the Alliance's rulers and nobles, Arthas Menethil was 
 
 Then Terenas II murmured, "Lady Vereesa Windrunner, welcome to Lordaeron. Jace Sesso... perhaps I should not treat you as a Lordaeron guest. You grew up in Brill and the capital — you are a child of Tirisfal."
 
-"I have heard of the terrible disaster at Grim Batol, Your Majesty. The flames of the black dragons and red dragons destroyed that place, and your bravery spared us from having to send our young heroes to shed their blood in dragonfire... upon those ancient dwarven walls. I am grateful. The whole Alliance is grateful."
+"I have heard of the terrible disaster at Grim Batol. The flames of the black dragons and red dragons destroyed that place, and your bravery spared us from having to send our young heroes to shed their blood in dragonfire... upon those ancient dwarven walls. I am grateful. The whole Alliance is grateful."
 
 Getting those words out seemed to have drained half the king's remaining strength. He had to lean on the throne and catch his breath.
 
-"As Farstriders, serving the Alliance is my duty, Your Majesty," Vereesa said with a slight bow of her head.
+"As a Farstrider, serving the Alliance is my duty, Your Majesty," Vereesa said with a slight bow of her head.
 
-"The Wizard Sanctum has been investigating Grim Batol's connection to the dragons for a long time, Your Majesty," Jace said. "Finishing that work was something of a mission for me."
+"The Wizard's Sanctum has been investigating Grim Batol's connection to the dragons for a long time, Your Majesty," Jace said. "Finishing that work was something of a mission for me."
 
-"The Wizard Sanctum?" said a court mage in white robes beside them. "Had you chosen to stay in Lordaeron and study at Lordaeron's academy of magic, rather than leave for the orc-ravaged Kingdom of Stormwind, perhaps you wouldn't have had to take so many detours. Your magical talent would have found a more proper outlet."
+"The Wizard's Sanctum?" said a court mage in white robes beside them. "Had you chosen to stay in Lordaeron and study at Lordaeron's academy of magic, rather than leave for the orc-ravaged Kingdom of Stormwind, perhaps you wouldn't have had to take so many detours. Your magical talent would have found a more proper outlet."
 
 Hearing that, Jace was taken aback. Vereesa frowned. A nobleman on one of the upper terraces — probably a member of the royal council — said, "Your Majesty knows what happened at Nethergarde Keep, Mr. Sesso. Though many, myself included, feared the consequences of that incident, His Majesty does not believe it makes you a danger to the kingdom. On the contrary, he is willing to give you a chance to redeem yourself. And the crisis at Grim Batol only proves that you are indeed a noble and good warrior — one who simply lost his way. I wish to offer my apology for the rash judgments I once made against you."
 

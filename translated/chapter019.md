@@ -10,7 +10,7 @@ Now it was Grede's turn to want to puke. He bolted to the wall and started heavi
 
 "7 silver a pound, Grede," Jace said, pressing his lips together. Then he went back to scraping.
 
-"7 silver?!" Grede roared, then thought again and caught himself. "Fuck you — I thought you weren't selling the Grave Moss?! What good's 7 gold, even?!"
+"7 silver?!" Grede roared, then thought again and caught himself. "Fuck you — I thought you weren't selling the Grave Moss?! What good's 7 silver, even?!"
 
 He cursed, but wiped his mouth, walked back to the coffin, pushed the lid open a bit more, and started scraping.
 
@@ -133,11 +133,3 @@ Grede couldn't help but laugh. Jace looked at him and laughed too.
 After they'd laughed for a while, Jace asked, "What time is it?"
 
 Grede's smile slowly faded. He said coldly, "If I could afford a pocket watch, would I be risking my life here with you?"
-
-## Flags
-
-- **《行尸走肉》(The Walking Dead):** Not in glossary. The TV show Jace references. Rendered as *The Walking Dead*.
-- **蛮锤 (Wildhammer):** Listed in glossary as the dwarven clan. Used "Wildhammer."
-- **乌瑞恩小子 (that Wrynn kid):** Not in glossary. Grede's dismissive reference to the young King Wrynn. Rendered as "that Wrynn kid."
-- **王室卫队 (Royal Guard):** Not in glossary. Stormwind's royal guard. Rendered as "Royal Guard."
-- **蛮锤中最英勇的战士 (bravest warrior among the Wildhammer):** Grede's compliment. Not a glossary term; rendered per Wildhammer clan lore.

@@ -2,21 +2,21 @@
 
 Compared to Sulfuras, the warhammer in the dwarf's hand looked like a just-extinguished ember -- otherwise nearly identical.
 
-Sulfuras, Hand of Ragnaros, was raised high. Its head -- a molten spike the size of a small house -- was pointed directly at where Sora and Vereesa had gone with the Windseeker's Bindings. Toward Magmadar's cave!
+Sulfuras, Hand of Ragnaros, was raised high. Its head -- a molten spike the size of a small house -- was pointed directly at where Sola and Vereesa had gone with the Bindings of the Windseeker. Toward Magmadar's cave!
 
-Under the crushing pressure of that terrible flame shockwave, Grede still managed to summon his ancestral aspect, swelling into a majestic silver golem.
+Under the crushing pressure of that terrible flame shockwave, Grede still managed to take on his Avatar form, swelling into a majestic silver golem.
 
-He raised Sulfuron Hammer high, his inhuman, rocky voice bellowing: "Your real enemy is here, Firelord!"
+He raised the Sulfuron Hammer high, his inhuman, rocky voice bellowing: "Your real enemy is here, Firelord!"
 
 With that, Grede charged straight at the howling flaming body of the Firelord, marching forward against the wind. And under this terrible oppressive heat, Jace could barely even stand.
 
 Whether because of proximity to the heart of Molten Core or because of Grede's influence, the Sulfuron Hammer he held aloft began to glow with a bright flame before the firestorm.
 
-As he ran, Grede hurled the Heavens-Shatterer at Sulfuras. In the bright heart of the flame, that flashing white speck seemed so faint, yet it spun and struck Sulfuras's side, making the whole warhammer shudder.
+As he ran, Grede hurled Skyshatter at Sulfuras. In the bright heart of the flame, that flashing white speck seemed so faint, yet it spun and struck Sulfuras's side, making the whole warhammer shudder.
 
 The fiery tornado blazed even brighter. Between the lotus-like waves of flame blooming at the heights, a pair of eyes appeared, spewing jets of burning flame.
 
-"Who brings a mockery of a replica to challenge Ragnaros... You wish to taste the flame of Sulfuron? Then you shall have your fill... worm!"
+"Who brings a mockery of a replica to challenge Ragnaros... You wish to taste the flames of Sulfuron? Then you shall have your fill... insect!"
 
 The Firelord roared. His spiraling arm, dragging molten debris, twisted around. Sulfuras, gripped in that tongue-of-flame claw, smashed sideways through countless black rocks jutting into the air, then swung down, splitting the smoke and crashing toward the charging Thunderfist!
 
@@ -30,9 +30,9 @@ But he hadn't planned on defeating this ancient elemental anyway. They just need
 
 Vicious fire elementals sprayed out from Sulfuras's impact, several heading straight for Jace, others flying further. These fire elementals could survive near Ragnaros without any elemental bracers at all, and they were far more powerful than the ones Golemagg had commanded.
 
-Under the full suppression of the fire power over both magic and flesh, Jace could barely lift a hand against these flames. Luckily, Morofiel was still there.
+Under the full suppression of the fire power over both magic and flesh, Jace could barely lift a hand against these flames. Luckily, Morophil was still there.
 
-"Child of Khaz'goroth, Firelord! I'm no damn worm!"
+"Child of Khaz'goroth, Firelord! I'm no damn insect!"
 
 Grede's roar came from somewhere in the flame's thunder. It was hard to imagine how he'd survived that hammer blow. Even if he hadn't taken it head-on, just surviving the explosion at close range seemed nearly impossible.
 
@@ -50,25 +50,25 @@ He saw a few dwarves poking their heads out from the edges. Some were already en
 
 Though it was still immeasurably hotter than near the lava lake, at least Jace could lift his head now, could feel the thick shadow magic here.
 
-"Hold off the fire elementals for me, Morofiel."
+"Hold off the fire elementals for me, Morophil."
 
 "Yes, master."
 
-Jace chanted, entering Shadow Form. He stepped onto a rock, raised Usarlas high, and adjusted his emotions. Anger. Rage. Destruction. He tried to resonate with the malice and darkness churning inside Ragnaros the Firelord.
+Jace chanted, entering Shadowform. He stepped onto a rock, raised Ulthalesh high, and adjusted his emotions. Anger. Rage. Destruction. He tried to resonate with the malice and darkness churning inside Ragnaros the Firelord.
 
 This was insane. But it could actually be influenced -- a terrifying power beyond imagination. His thick rage didn't even require Jace to draw on memories of past pain. It could trigger images in his mind on its own.
 
-Flames swept in waves. He was back in that watchtower in Southshore, back among the ruins outside Thaurissan's city.
+Flames swept in waves. He was back in that watchtower in Southshore, back among the Ruins of Thaurissan.
 
-A faint purple-red tint seemed to seep into the surging firestorm before him. Jace kept waving his staff, driving shadow deeper into the Firelord's flames. His eyes nearly turned into black starlight. His whole body in Shadow Form burned with faint purple fire.
+A faint purple-red tint seemed to seep into the surging firestorm before him. Jace kept waving his staff, driving shadow deeper into the Firelord's flames. His eyes nearly turned into black starlight. His whole body in Shadowform burned with faint purple fire.
 
-When Sulfuras aimed at Grede and struck again, the blow was noticeably weaker than before. Though still carrying the force of ten thousand thunderbolts, something was clearly holding it back.
+When Sulfuras aimed at Grede and struck again, the blow was noticeably weaker than before. Though it still fell with crushing, thunderous force, something was clearly holding it back.
 
 The shockwave from the hammer's impact on the ground couldn't shake Jace, who'd long since steadied himself. But the silver figure struck nearby had clearly lost much of its strength.
 
 Grede. He probably couldn't take another blow.
 
-Jace clenched his jaw, keeping Usarlas raised as he fought for control of the rage. But with a roar from the Firelord, those captured emotions suddenly slipped from Jace's control, exploding into pure flame bursting from Molten Core's heart!
+Jace clenched his jaw, keeping Ulthalesh raised as he fought for control of the rage. But with a roar from the Firelord, those captured emotions suddenly slipped from Jace's control, exploding into pure flame bursting from Molten Core's heart!
 
 Even the fire elementals who followed the Old Gods might generate shadow energy through their emotions -- but they weren't flesh and blood. They were living flame!
 
@@ -94,7 +94,7 @@ The last rune had been destroyed.
 
 It had to be. Having witnessed six runes being destroyed, Jace was familiar with the feeling.
 
-Molten Core was collapsing. All seven protection runes had been destroyed! They'd done it. Vereesa, Sora...
+Molten Core was collapsing. All seven protection runes had been destroyed! They'd done it. Vereesa, Sola...
 
 From behind and to the side, the cheers of dwarves rang out everywhere, even drowning out the roar of Ragnaros's flames in the air.
 
@@ -110,7 +110,7 @@ He raised his other hand, gazing at Dagran Thaurissan, locked in his grip, barel
 
 "Before everything you know existed -- dwarves, humans, elves... even the dragons, even the oldest, most mysterious ruins -- I already ruled this world."
 
-"The ones who should leave this world are you. Pathetic dregs. And I will continue to rule, as I have ruled for hundreds of thousands of years, as the suffering slaves far more powerful than you knew in the flames -- rule forever."
+"The ones who should leave this world are you. Pathetic dregs. And I will go on ruling, as I have ruled for hundreds of thousands of years -- as slaves far mightier than you came to know amid the flames of their suffering. I will rule forever."
 
 The hardest rocks at the heights suddenly shattered into floating debris. These fragments gathered together around Ragnaros's spinning flaming body, melting, colliding, fusing, coalescing around the Firelord's arms with a deafening crash.
 
@@ -122,4 +122,4 @@ At the same time, the Firelord's body grew more solid. Layer upon layer of flame
 
 "I created Molten Core's protection runes. What made you think destroying them would banish me from my domain?"
 
-"Enough, pathetic worms. Now let fire cleanse everything!"
+"Enough, pathetic insects. By fire be purged!"

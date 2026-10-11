@@ -1,10 +1,10 @@
-## Chapter 1623: The Northern Paladin (Revised)
+## Chapter 1623: The Northern Paladin
 
-After picking up a set of purification potions specially formulated by Ursula to alleviate wounds and Shadow corruption, Jace set out from Stormwind and headed back to Irgalar's Tower, intent on studying the "advanced version" of Gul'dan's Hand that the two of them had accidentally stumbled upon.
+After picking up a set of purification potions specially formulated by Ursula to alleviate wounds and Shadow corruption, Jace set out from Stormwind and headed back to the Tower of Ilgalar, intent on studying the "advanced version" of Hand of Gul'dan that the two of them had accidentally stumbled upon.
 
-Whether it was a player using Gul'dan's Hand to summon demons, or Gul'dan himself using the spell to summon them, every demon that came through obeyed the caster's commands. If the Gul'dan who had emerged from the Warlord of Draenor's peaceful timeline was loyal to the Burning Legion, and so the demons he summoned naturally served him, then the imps summoned by players made no sense under that framework.
+Whether it was a player using Hand of Gul'dan to summon demons, or Gul'dan himself using the spell to summon them, every demon that came through obeyed the caster's commands. If the Gul'dan who had come out of the parallel timeline of Warlords of Draenor was loyal to the Burning Legion, and so the demons he summoned naturally served him, then the imps summoned by players made no sense under that framework.
 
-There might of course be gameplay reasons involved. Jace knew full well that things probably wouldn't map one-to-one here, but if he could use Gul'dan's Hand to summon one or even several Doomguard-level demons to fight for his side, then when they assaulted Blackrock Spire, those swarms of orc soldiers would meet another group of allies. He really wanted to make headway on this spell before the Alliance army marched on Blackrock Spire.
+There might of course be gameplay reasons involved. Jace knew full well that things probably wouldn't map one-to-one here, but if he could use Hand of Gul'dan to summon one or even several doomguard-level demons to fight for his side, then when they assaulted Blackrock Spire, those swarms of orc soldiers would meet another group of allies. He really wanted to make headway on this spell before the Alliance army marched on Blackrock Spire.
 
 Midnight galloped like a black shadow through the sparse trees of Elwynn Forest. To avoid running into Stormwind's night patrols, Jace deliberately kept south of the main road. At least this horse wouldn't stumble or trip over rough terrain like an ordinary warhorse—it could only go slightly slower.
 
@@ -20,7 +20,7 @@ But just as he was nearing the Redridge mountain pass, Jace felt something... of
 
 "It's probably not arcane magic," Jace said.
 
-In fact, it wasn't arcane magic at all, nor the scent of beasts, nor undead creeping over from Duskwood across the River Neltharion. It was something else...
+In fact, it wasn't arcane magic at all, nor the scent of beasts, nor undead creeping over from Duskwood across the Nazferiti River. It was something else...
 
 The rustling of leaves overhead was drowned out by the sudden roar of wings. Midnight snorted sharply beneath him.
 
@@ -54,23 +54,7 @@ But then several more gryphon riders descended from above. Now even the Apocalyp
 
 Among the newcomers were several priests with staves and another paladin with a spear. All of them, like the first two riders, sat on armored gryphons draped in Lordaeron-crested tabards, wearing the silver war-plate of the Silver Hand.
 
-Jace stroked Midnight's black mane, a chill of afterthought running through him. If this time Arna had been with him and been mistaken for a death knight right alongside him... that single clash had nearly killed the Hinterlands gryphon. Not even an Arathi warhorse could have survived that.
-
-The young paladin in front of him had his long-handled warhammer completely destroyed. The arm that had held it was covered in blood. He was breathing heavily, glaring at Jace, his dark-gold hair and stubbly face making him look about the same age as Jace and Varian.
-
-This was Taelan Fordring. Tirion Fordring's son. Jace had heard the others call his name clearly just now.
-
-Between their tabards and crests, the news he'd heard from Lordaeron before, their appearances, and the way they'd reacted when Jace named Tirion Fordring—he was one hundred percent certain now.
-
-In another timeline, after Lordaeron was destroyed by the Scourge, Taelan Fordring of the Silver Hand had joined the Scarlet Crusade and become one of its supreme leaders. But unlike the other Crusade members who grew increasingly fanatical through hatred and demonic manipulation, Taelan Fordring remembered his father's words and held onto his last shred of reason. By then, however, the Scarlet Crusade—secretly led by the dreadlord Balnazzar—could no longer tolerate any doubt or hesitation. He hadn't met a good end.
-
-If this young man was Taelan Fordring, then the sturdy middle-aged man with light-golden shoulder-length hair behind him was the elder Fordring—the Lord of Hearthglen.
-
-Tirion Fordring wore ornate dark-golden heavy plate armor beneath a thick blue cloak, carrying a long-handled gold-veined silver hammer. The charge of being an "orc sympathizer" had not diminished his authority as a leader of the Silver Hand. He was also a formidable paladin—Jace could feel the horse beneath him, Midnight, unusually alert, muscles tensed. After all, this horse was the real deal as far as undead went.
-
-But Stormwind had no news of the Fordrings having arrived at the harbor. They just suddenly appeared—
-
-—Arna had been with him, mistaken for a death knight right alongside him. That single clash had nearly killed the Hinterlands gryphon. Not even an Arathi warhorse could have survived that.
+Jace stroked Midnight's black mane, a belated chill of fear running through him. If this time Arna had been with him and been mistaken for a death knight right alongside him... that single clash had nearly killed the Hinterlands gryphon. Not even an Arathi warhorse could have survived that.
 
 The young paladin in front of him had his long-handled warhammer completely destroyed. The arm that had held it was covered in blood. He was breathing heavily, glaring at Jace, his dark-gold hair and stubbly face making him look about the same age as Jace and Varian.
 
@@ -88,7 +72,7 @@ But Stormwind had no news of the Fordrings having arrived at the harbor. They'd 
 
 "If I'm not lost, this is Elwynn, not Hearthglen, Lord Tirion Fordring." He pointed his blood-stained staff at the wincing Taelan Fordring behind him. "So I think we'd all better calm down and figure out what the hell is going on before this gets out of hand."
 
-"The Silver Hand is hunting death knights along the River Neltharion in the name of King Varian Wrynn," the young knight called out. "If you are truly Jace Sesso, then as His Majesty's advisor, you would know nothing of this?"
+"The Silver Hand is hunting death knights along the Nazferiti River in the name of King Varian Wrynn," the young knight called out. "If you are truly Jace Sesso, then as His Majesty's advisor, you would know nothing of this?"
 
 "In King Varian's name? Is this related to the necromantic plague at Blackrock Spire?" Jace asked.
 
@@ -96,19 +80,19 @@ The paladins didn't answer. Jace wasn't surprised—they weren't sure what to ma
 
 "Stand down, Taelan." Tirion Fordring approached. "I apologize for his impulsiveness, Master Jace Sesso. But according to what King Varian has informed us, a fallen knight wielding dark magic has indeed appeared in this area. We had to be prepared."
 
-"We met briefly at the Cathedral of Light before. Though your appearance is not far from what I remember, I cannot be one hundred percent certain. What I can be certain of is this—we all witnessed Archbishop Alonsus Faol personally bestow Tyr's Steadfast Seal upon you in the cathedral square. Please show it to us."
+"We met briefly at the Cathedral of Light before. Though your appearance is not far from what I remember, I cannot be one hundred percent certain. What I can be certain of is this—we all witnessed Archbishop Alonsus Faol personally bestow the Sigil of Tyr's Guardian upon you in Cathedral Square. Please show it to us."
 
-Jace nodded and reached over his shoulder to grab the Seal pinned to his cloak.
+Jace nodded and reached over his shoulder to grab the Sigil pinned to his cloak.
 
 He grabbed nothing.
 
 Damn it.
 
-He'd deliberately worn an old, dark-gray linen cloak to avoid looking too flashy—not his ornate red dragonscale cloak with the Seal on it. Since he was planning to return to Stormwind anyway, the Seal was in a package with his other valuables, left behind in Ursula's alchemy lab.
+He'd deliberately worn an old, dark-gray linen cloak to avoid looking too flashy—not his ornate red dragonscale cloak with the Sigil on it. Since he was planning to return to Stormwind anyway, the Sigil was in a package with his other valuables, left behind in Ursula's alchemy lab.
 
 Show off when you shouldn't, and your mother scolds you. Then when you actually need the thing, you don't have it on you. Jace frowned. Was his relationship with the Holy Light always this tangled?
 
-"That Seal is a critical item for me. I don't carry it while traveling." He took off the Lordaeron Knight's Ring from his finger. "But this ring—bestowed by King Terenas II himself and placed in my hand by Prince Arthas—should be proof enough of who I am, shouldn't it?"
+"That Sigil is a critical item for me. I don't carry it while traveling." He took off the Lordaeron Knight's Ring from his finger. "But this ring—bestowed by King Terenas II himself and placed in my hand by Prince Arthas—should be proof enough of who I am, shouldn't it?"
 
 Jace had expected this to dispel the Lordaeronians' hostility. Instead, the Light-worshippers' expressions grew even more serious.
 

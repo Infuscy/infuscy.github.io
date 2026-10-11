@@ -16,7 +16,7 @@ Right as he was turning the problem over in his mind, he suddenly felt his hair 
 
 He turned his head. The imp was frantically pointing at the top of the slope. Jace whispered, "Phase Shift!"
 
-The imp immediately shrank into the warlock pack. Jace lay down flat against the slope. Just then the dwarf let out a snore, and Jace quickly grabbed his foot and shook it.
+The imp immediately shrank into the warlock's bag. Jace lay down flat against the slope. Just then the dwarf let out a snore, and Jace quickly grabbed his foot and shook it.
 
 When Grede woke and saw Jace's expression, he tensed up immediately and drew his neck in, crawling over to Jace's side.
 
@@ -91,15 +91,3 @@ Still grinning, his expression suddenly changed. He pointed past Jace. "Hey, hey
 He felt like he could even understand what the gnolls were saying — something about food and evening. Did gnolls speak Common among themselves? Or some dialect of Common?
 
 "It's up to you, demon," Grede said gleefully.
-
-## Flags
-
-- **Title**: 送死鬼 — "Cannon Fodder" — Grede's gleeful suggestion that Sazeno be sent in as bait, expendable and alone.
-- **Mage Armor dilemma**: Jace can't cast Mage Armor because its glow would give them away — a clever nod to game mechanics (visible buffs) clashing with real-world stealth needs. No right-clicking buff icons here.
-- **Phase Shift** (相位变换): the imp uses its Phase Shift ability to hide, per glossary.
-- **Hogger** (霍格): the target gnoll chieftain; not present at this camp.
-- **Riverpaw tribe** (河爪部族): the sheriff's intelligence puts forty to fifty gnolls on this side of the river — a serious force.
-- **Human-style camp**: the gnoll camp appears to be seized human infrastructure, suggesting the gnolls are more organized than expected.
-- **Gnoll language**: Jace thinks he can understand the gnolls' exchanges — food, evening — raising the unsettling question of whether gnolls speak Common or a dialect of it (picked up again in chapter 226).
-- **Sazeno as bait**: the plan — the imp lights the campfire, draws attention, then flees while Jace and Grede ambush. A morally casual use of the imp that even Grede feels briefly guilty about.
-- **"Jump off a bridge"**: an inside joke between Jace and Grede — Jace promises he won't push the dwarf into a suicide mission.

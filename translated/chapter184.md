@@ -26,7 +26,7 @@ So should he run? Were these Kirin Tor mages sent by Kel'Thuzad to finish the jo
 
 Running was pointless. No matter how fast Jace was, he couldn't outrun Dalaran, and these Kirin Tor mages would definitely catch him.
 
-At this point, no matter what they were here for, all he could do was stiffen his neck and walk straight at them.
+At this point, no matter what they were here for, all he could do was grit his teeth and walk straight at them.
 
 Still, the fact that none of them had immediately rushed over and tackled him to the ground was a good sign.
 
@@ -96,18 +96,10 @@ The two mages exchanged a glance. Halister asked again, "So, could you tell us w
 
 "How can you be so sure it was Teron Gorefiend?" Halister asked skeptically.
 
-Jace said angrily, "Then who else? No one else could have had that kind of power — he was a demon! If it weren't for those elven rangers, I'd be dead already. Deader than a death knight. You wouldn't be having this conversation with me at all, Respected Master Wayne Halister."
+Jace said angrily, "Then who else? No one else could have had that kind of power — he was a demon! If it weren't for those elven rangers, I'd be dead already. Deader than a death knight. You wouldn't be having this conversation with me at all, esteemed Master Wayne Halister."
 
 "Last night was an unforgettable disaster for every resident of Dalaran," Halister said, then pivoted. "Your friend is a Wildhammer dwarf, isn't he?"
 
 "A Stormwind mage apprentice and a Wildhammer dwarf… wait." He turned to the female mage beside him. "The mage apprentice's name was…"
 
 "Sesso," the female mage prompted. "It should be this gentleman."
-
-## Flags
-
-- **韦恩·哈利斯特** → Wayne Halister. Not in the glossary; OC Kirin Tor Security Division mage.
-- **防卫处** → Security Division. Not in the glossary; the Kirin Tor's investigative/security arm.
-- **六人议会** → Council of Six. In the glossary (as 六人委员会); used the glossary's "Council of Six."
-- **克尔苏加德** → Kel'Thuzad. Not in the glossary; canonical.
-- **兽人语会议** → "Orcish-language meeting/discussion meeting." Not a glossary term; rendered descriptively.

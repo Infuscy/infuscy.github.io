@@ -4,11 +4,11 @@ Crossing the Great Sea on dragonback didn't go as smoothly as Jace had imagined.
 
 Not that he hadn't done it before. But last time, the planned route was easier — from Azshara to Northrend, then to Dalaran. The whole way, aside from crossing two wide straits, they'd mostly hugged the coast and could land to rest whenever they needed.
 
-This time, Sora had improved tremendously in both strength and experience — it wasn't just Grede who thought so; she felt it too. And since the starting point was further south, the distance to Tanaris was shorter than the Azshara-to-Lordaeron route, with more stable sea conditions to boot. That was why the goblins were willing to run a shipping line between Booty Bay and Steamwheedle Port. So Sora decided to fly the whole way without a break. Total time: about a week.
+This time, Sola had improved tremendously in both strength and experience — it wasn't just Grede who thought so; she felt it too. And since the starting point was further south, the distance to Tanaris was shorter than the Azshara-to-Lordaeron route, with more stable sea conditions to boot. That was why the goblins were willing to run a shipping line between Booty Bay and Steamwheedle Port. So Sola decided to fly the whole way without a break. Total time: about a week.
 
-But let's not forget — that was Sora. Jace was riding Needleflame.
+But let's not forget — that was Sola. Jace was riding Needleflame.
 
-Over the dark sea at night, both sky and ocean were pitch black. Vereesa lit a small wand with a Light spell and held it up, not to illuminate the path ahead, but to help Needleflame and Jace keep track of their position relative to Sora.
+Over the dark sea at night, both sky and ocean were pitch black. Vereesa lit a small wand with a Light spell and held it up, not to illuminate the path ahead, but to help Needleflame and Jace keep track of their position relative to Sola.
 
 Grede and Vereesa were bickering about something in the distance, their voices swallowed by the waves and wind, leaving only vague sounds that might have been speech.
 
@@ -16,7 +16,7 @@ But Jace had no energy to watch the light or care about their conversation. Need
 
 He'd been tossed around on the black dragon's back for hours, battered by winds that came from above, then below, then above again. His body wasn't tired yet, but his spirit was numb.
 
-Even if Sora wasn't a big, comfortable wide-body airliner like a fully grown adult dragon, she was at least a smooth, stable mid-range plane — able to use her immense natural power to shield her passengers from external forces.
+Even if Sola wasn't a big, comfortable wide-body airliner like a fully grown adult dragon, she was at least a smooth, stable mid-range plane — able to use her immense natural power to shield her passengers from external forces.
 
 Needleflame, on the other hand, was a roaring black-brown muscle car. Beautiful and aggressive, with two gleaming yellow headlights that would make ninety-nine percent of the world's beasts piss themselves on sight.
 
@@ -24,7 +24,7 @@ But she had no windshield. The only thing vaguely resembling a windbreak was her
 
 He had to cling to Needleflame's neck for dear life, burying his head as low as possible, getting regularly scraped by her sharp scales and whacked in the eyebrow by her rock-hard horns.
 
-But he couldn't complain or critique her flying technique. If Needleflame got mad and dumped him in the sea, Sora would have to waste energy fishing him out, and then she'd have to carry him and all his bags for the rest of the trip — which would be even harder.
+But he couldn't complain or critique her flying technique. If Needleflame got mad and dumped him in the sea, Sola would have to waste energy fishing him out, and then she'd have to carry him and all his bags for the rest of the trip — which would be even harder.
 
 So he just endured it. It wasn't like it was a two-month journey...
 
@@ -38,33 +38,33 @@ An island in this position? They were in the south-central Great Sea. Given thei
 
 And it definitely wasn't Pandaria. Forget that Pandaria was shrouded in mist — even the pandaren explorers who'd been searching for it for years couldn't find it. How would they just stumble onto it by flying in a straight line?
 
-The Alcaz Island near Dustwallow Marsh off Kalimdor was unlikely too. Sora and Needleflame couldn't have made it that fast under this load. And if they were close enough to see Alcaz, they'd be able to see the Kalimdor coastline — Vereesa wouldn't miss that.
+Alcaz Island near Dustwallow Marsh off Kalimdor was unlikely too. Sola and Needleflame couldn't have made it that fast under this load. And if they were close enough to see Alcaz, they'd be able to see the Kalimdor coastline — Vereesa wouldn't miss that.
 
 As they got closer, all of Jace's worries gradually dissolved.
 
 It was a lone island, small enough to see from one side to the other. But small as it was, it was a place to rest. And at its center was a forested valley with a peak that reminded Jace of the classic research park island from the Jurassic Park movies. Maybe the two dragons could catch something tastier than sea fish.
 
-Sora decided to circle the island once to scope things out before choosing a landing spot. Come to think of it, none of them had been camping since returning from Draenor. Needleflame had been with their little group for a year or two now, but the things that had happened in that time had been so explosive it felt like much longer.
+Sola decided to circle the island once to scope things out before choosing a landing spot. Come to think of it, none of them had been camping since returning from Draenor. Needleflame had been with their little group for a year or two now, but the things that had happened in that time had been so explosive it felt like much longer.
 
 Needleflame had been through endless ups and downs too. It seemed like ever since she'd joined them, it had been one trial after another with no room to breathe — so much so that the day it rained and she fished off the Stormwind canal was burned into the little black dragon's memory. She still brought it up now and then, even though she hadn't seemed all that happy about it even then.
 
-Jace was daydreaming about maybe having a little camping party on the island tonight to relax. Then he saw Sora fly low over a patch of trees — and Vereesa rose from her back, raising Belanore. The dreamlike rainbow light radiating from the bowstring was visible even in the blinding sunlight.
+Jace was daydreaming about maybe having a little camping party on the island tonight to relax. Then he saw Sola fly low over a patch of trees — and Vereesa rose from her back, raising Belanur. The dreamlike rainbow light radiating from the bowstring was visible even in the blinding sunlight.
 
 "What's going on?" he shouted.
 
 "Trolls!" Vereesa called back. "I saw Gurubashi jungle troll structures, Jace. There might be trolls living on this island. We'd better—"
 
-"Don't worry, Vereesa!" Sora called out. "The trolls here disappeared long ago. Those structures are just ruins left by the trolls who used to live here."
+"Don't worry, Vereesa!" Sola called out. "The trolls here disappeared long ago. Those structures are just ruins left by the trolls who used to live here."
 
-Vereesa hesitated, not lowering her bow. "Are you sure, Sora? How do you know?"
+Vereesa hesitated, not lowering her bow. "Are you sure, Sola? How do you know?"
 
 "The forest told me, Vereesa. Don't worry — the trees wouldn't deceive me," the green dragon replied.
 
 The ranger relaxed a little. Grede's shout came from behind: "Wait, no fighting?"
 
-"Your injuries only just healed. Take it easy, Grede." Vereesa ducked back down and called out, "It's not that I don't trust Sora, but seeing those troll loa reliefs kills any mood I had for relaxing sightseeing. Is there anything else hostile here?"
+"Your injuries only just healed. Take it easy, Grede." Vereesa ducked back down and called out, "It's not that I don't trust Sola, but seeing those troll loa reliefs kills any mood I had for relaxing sightseeing. Is there anything else hostile here?"
 
-"Nothing. This island is uninhabited. Only small wild animals live here," Sora said. "No need to worry, Vereesa."
+"Nothing. This island is uninhabited. Only small wild animals live here," Sola said. "No need to worry, Vereesa."
 
 "Why aren't there any big animals?" Needleflame called over. "I was hoping to see one of those 'thunder lizards' Jace Sesso keeps scaring me with!"
 
@@ -74,7 +74,7 @@ The ranger relaxed a little. Grede's shout came from behind: "Wait, no fighting?
 
 "North it is."
 
-Sora tilted her wings and turned. The two dragons soon crossed the lush, forested hillside and arrived at another beach. But a foul stench hit them immediately — the lower they flew, the more pungent it got. It wasn't related to shadow or fel, just pure rot, but it was still sickening.
+Sola tilted her wings and turned. The two dragons soon crossed the lush, forested hillside and arrived at another beach. But a foul stench hit them immediately — the lower they flew, the more pungent it got. It wasn't related to shadow or fel, just pure rot, but it was still sickening.
 
 When they landed at the forest's edge near the beach, the source of the smell became clear.
 

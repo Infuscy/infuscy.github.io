@@ -24,27 +24,27 @@ Varian drew his sword. Galen Trollbane even edged forward a little, standing bes
 
 Alleria glanced at Vereesa behind her. She, Nathanos, and the Farstriders had long been on edge.
 
-Turalyon glanced down at Jace, weighed his warhammer, and exchanged a nod with the lord of Hearthglen beside him. The holy light sigils on both paladins' armor glowed faintly. Taelan Fordring watched the shimmering light, his eyes full of admiration and longing.
+Turalyon glanced down at Jace, weighed his warhammer, and exchanged a nod with the lord of Hearthglen beside him. The Holy Light sigils on both paladins' armor glowed faintly. Taelan Fordring watched the shimmering light, his eyes full of admiration and longing.
 
-The braziers lit one after another, rising with Grede's steps as he neared the dark gate. Beside Jace, Sora took a deep breath, seeming nervous.
+The braziers lit one after another, rising with Grede's steps as he neared the dark gate. Beside Jace, Sola took a deep breath, seeming nervous.
 
-"What's wrong, Sora?" Jace asked.
+"What's wrong, Sola?" Jace asked.
 
-"Prince Nefarian..." Sora sighed softly. "Never mind me, Jace. Every time I think about fighting my elders, I can't stay calm."
+"Prince Nefarian..." Sola sighed softly. "Never mind me, Jace. Every time I think about fighting my elders, I can't stay calm."
 
-If even Sora felt this way, Vaelastrasz, standing not far away, could hardly be described as calm either. He had been maneuvering against Nefarian's children and servants in Blackrock Spire for years.
+If even Sola felt this way, Vaelastrasz, standing not far away, could hardly be described as calm either. He had been maneuvering against Nefarian's children and servants in Blackrock Spire for years.
 
-And Needleflame was already hiding beside Sora, taking deep breaths to steady her nerves. Dealing with the dragonkin servants in the lower Spire was one thing. Facing her own uncle was entirely different.
+And Needleflame was already hiding beside Sola, taking deep breaths to steady her nerves. Dealing with the dragonkin servants in the lower Spire was one thing. Facing her own uncle was entirely different.
 
-"You're also a female dragon, Sora," Jace whispered. "From your perspective, why do you think Onyxia would turn against her brother?"
+"You're also a female dragon, Sola," Jace whispered. "From your perspective, why do you think Onyxia would turn against her brother?"
 
-"There's basically only one reason that would make a broodmother of her standing turn against blood kin, Jace." Sora murmured. "Something involving offspring."
+"There's basically only one reason that would make a broodmother of her standing turn against blood kin, Jace." Sola murmured. "Something involving offspring."
 
 "But Onyxia sent her own eggs to Blackrock Spire for Nefarian to experiment on, to create new dragon breeds. Countless whelps died, countless eggs were broken in the process." Jace said quietly. "She didn't betray him over that. She kept cooperating. I don't think..."
 
-Sora was silent for a moment, then shook her head. "I don't know."
+Sola was silent for a moment, then shook her head. "I don't know."
 
-Jace had meant to make small talk and relax Sora. But Sora had answered seriously from her perspective, which only set Jace's mind racing.
+Jace had meant to make small talk and relax Sola. But Sola had answered seriously from her perspective, which only set Jace's mind racing.
 
 By now, Grede had reached the door. All the braziers on the steps were lit. He held Onyxia's blood high. Purple-red dragon scale and claw patterns shimmered across the door's surface. Everyone present held their breath.
 
@@ -58,7 +58,7 @@ A faint "clacking" sound came from behind the door, like some monster or demon s
 
 "It's not that we have no way at all," Khadgar answered loudly. But his tone lacked the confidence it had held before he and the mages witnessed how this seal had repelled Onyxia's blood.
 
-"Can you feel it?" Vaelastrasz said. "The shadow energy in this seal feels just like the egg below. Maybe it's also powered by the Ata'mal Crystal fragment the Eredar mentioned."
+"Can you feel it?" Vaelastrasz said. "The shadow energy in this seal feels just like the egg below. Maybe it's also powered by the Ata'mal Crystal fragment the eredar mentioned."
 
 "Another piece of good news," the archmage said dryly.
 
@@ -72,13 +72,13 @@ Needleflame's faint voice came from behind. Everyone turned to look at the small
 
 "That's not surprising," Khadgar said. "Your father is Nefarian's brother."
 
-Needleflame continued. "After Father was tricked into imprisonment, Lord Gelloril took over guarding the brood. He..."
+Needleflame continued. "After Father was tricked into imprisonment, Lord Gorlorio took over guarding the brood. He..."
 
-"Gelloril?" Vaelastrasz frowned. "That windbag is still alive?"
+"Gorlorio?" Vaelastrasz frowned. "That windbag is still alive?"
 
 "He helped us a great deal in leaving Draenor," Jace said. "Without him, the black dragons would never have cooperated with the Expedition from the start."
 
-"That's not the point, Vieran." Khadgar stared at Needleflame. "How did he...?"
+"That's not the point, Vaelan." Khadgar stared at Needleflame. "How did he...?"
 
 "He told us how to break the seal." Needleflame said. "He said he couldn't do it himself. Only father and the clutch of whelps born at the same time as us could."
 
@@ -96,7 +96,7 @@ The dwarves fell silent. The young black dragon glanced back at Jace and quicken
 
 Needleflame pulled out her molten dagger, muttered something, and cut a gash in her wrist. Every brazier suddenly flared to life again, startling everyone on the steps.
 
-She did not flinch. She sheathed the dagger, cupped the flowing red blood, lifted it, and spat a bright flame tinged with black smoke. When the flame struck the heavenly gate, the dragon scale and claw runes flared up, then hissed and dimmed from the center outward like magma plunging into seawater.
+She did not flinch. She sheathed the dagger, cupped the flowing red blood, lifted it, and spat a bright flame tinged with black smoke. When the flame struck the great gate, the dragon scale and claw runes flared up, then hissed and dimmed from the center outward like magma plunging into seawater.
 
 The great door groaned, then slowly swung open. Several heavily armored dragonkin inside turned around in shock.
 

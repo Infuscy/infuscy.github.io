@@ -16,7 +16,7 @@ Though Brewfest was supposed to last more than one day anyway, and it looked lik
 
 "The fire-haired, red-eyed, coal-faced monkey from Blackrock Mountain is ready! And the Quel'Thalas witch standing beside him has her dart already pinched tight!"
 
-"Watch and watch, you mouthy Bronzebeards... once I've beaten this demon-worshiper's sweetheart, I'll stuff every last one of you back into your ancestor Khaz'goroth's ass!"
+"Watch and watch, you mouthy Bronzebeards... once I've beaten this demon-worshipper's sweetheart, I'll stuff every last one of you back into your ancestor Khaz'goroth's ass!"
 
 "Huh? What's that got to do with me?"
 
@@ -60,7 +60,7 @@ Jace listened to the gaggle of dwarves arguing and noticed Grede, standing nearb
 
 "Because in the creation myth, the dwarven ancestor -- Khaz'goroth, the maker of Khaz Modan and all dwarves -- stood forty-three feet tall. Every dwarf hopes to reach that height one day." Queen Alexstrasza answered.
 
-Forty-three feet was barely over thirteen meters. And Khaz'goroth the Shaper was a genuine Titan. His original body was probably larger than most planets in the dark void. Of course, the dwarves didn't know that yet. To them, the prototype of Grandfather Winter was just a really, really big dwarf.
+Forty-three feet was barely over thirteen meters. And Khaz'goroth the Shaper was a genuine Titan. His original body was probably larger than most planets in the dark void. Of course, the dwarves didn't know that yet. To them, the prototype of Greatfather Winter was just a really, really big dwarf.
 
 "For a giant who created Khaz Modan, forty-three feet seems a bit short, doesn't it?" Jace turned to ask.
 
@@ -70,7 +70,7 @@ The Dragonqueen was currently presenting herself as a kindly Bronzebeard dwarf w
 
 As hard as she tried to keep her appearance simple and low-key, and to suppress her power so as not to make the dwarves nervous or afraid, her outfit still drew attention -- not to mention the swarm of butterflies fluttering around her.
 
-Alexstrasza said this as she lifted the clay jug one of the Bronzebeards had brought, took a small sip, and frowned slightly. "Vereesa described it accurately. Stormhammer tastes like the blood of Shadra'lo zealots boiling from witchcraft."
+Alexstrasza said this as she lifted the clay jug one of the Bronzebeards had brought, took a small sip, and frowned slightly. "Vereesa described it accurately. Stormhammer tastes like the blood of Shadra'Alor zealots boiling from witchcraft."
 
 "She... said that?" Jace asked.
 
@@ -84,34 +84,34 @@ Jace laughed and drained his mug. Out of the corner of his eye, he noticed the q
 
 She was clearly still concerned about his identity as "Chain of Will bearer." Jace just didn't know how well he was doing in the Red Dragonqueen's eyes.
 
-"The warriors of the Three Hammers are bravely besieging Lady Vereesa Windrunner -- the first terrible enemy they've faced together since their civil war two hundred years ago." Brann Bronzebeard declaimed like a chanter as he walked over, with Grand Smith Burnite and High Lord Kurdran Wildhammer at his side.
+"The warriors of the Three Hammers are bravely besieging Lady Vereesa Windrunner -- the first terrible enemy they've faced together since their civil war two hundred years ago." Brann Bronzebeard declaimed like a chanter as he walked over, with Master Smith Burninate and High Thane Kurdran Wildhammer at his side.
 
 "That's definitely an enemy worth facing together, Brann." Kurdran leaned in beside the Bronzebeard as they walked. "A pity you weren't at the final siege of Auchindoun to witness the young Windrunner's power. Under her magic arrows, those ten-foot-tall demon soldiers fell like wheat."
 
-"Wheat? That's exaggerating, High Lord. No more than thirty, at most." Grede quickly put in. "I made a point of counting carefully."
+"Wheat? That's exaggerating, High Thane. No more than thirty, at most." Grede quickly put in. "I made a point of counting carefully."
 
-"And how many did you defeat, Thunderfist Lord?" Brann asked.
+"And how many did you defeat, Lord Thunderfist?" Brann asked.
 
 "Uh," Grede said, "that's... hard to count."
 
 "Ha!" Kurdran laughed loudly and clapped Grede on the shoulder. "Then let's talk about helping the Dark Irons liberate Shadowforge City. That's simpler."
 
-"It's hard to say if it'll be that simple, Lord of Aerie Peak." The Grand Smith's face grew serious as he stepped forward and bowed deeply to Alexstrasza. "Good evening, Your Majesty, the Queen."
+"It's hard to say if it'll be that simple, Lord of Aerie Peak." The Master Smith's face grew serious as he stepped forward and bowed deeply to Alexstrasza. "Good evening, Your Majesty, the Queen."
 
 "Good evening, Your Majesty, the Queen." Brann, Kurdran, and Grede also bowed in unison.
 
 The queen nodded. Kurdran looked up and asked, "We've forged the Sulfuron warhammer. Can't we just find a way to send it in and show it to the people in Shadowforge City? What's so hard about that?"
 
-"Whether it's the Sulfuron prophecy or the ancestors' visions, eventually it has to land in reality." Grand Smith Burnite said. "Not every Dark Iron dwarf believes the Sulfuron warhammer can match the Firelord's power. We have to find a way to prove it to them."
+"Whether it's the Sulfuron prophecy or the ancestors' visions, eventually it has to land in reality." Master Smith Burninate said. "Not every Dark Iron dwarf believes the Sulfuron warhammer can match the Firelord's power. We have to find a way to prove it to them."
 
 "So we're stuck in a loop?" Brann looked around. "To get the Dark Irons to rebel against the Firelord and cooperate with the dwarven allied forces outside to overthrow its rule, we first have to prove we're capable of overthrowing the Firelord? If we could prove that, why would we need the Dark Irons' help?"
 
-"We don't need to defeat the Firelord himself, High Prince." Burnite said. "The Flamewalkers -- those snake-men are the Molten Core's 'representatives' in the mortal world. They coil in the depths of Shadowforge City, enslaving the Flamekeepers and pulling the strings behind Darkforge Emperor Dagran Thaurissan's power. If we can take out even one of them, it would shake the authority of the Flamekeepers."
+"We don't need to defeat the Firelord himself, Prince Brann." Burninate said. "The Flamewakers -- those snake-men are the Molten Core's 'representatives' in the mortal world. They coil in the depths of Shadowforge City, enslaving the pyromancers and pulling the strings behind the Dark Iron emperor Dagran Thaurissan's power. If we can take out even one of them, it would shake the authority of the pyromancers."
 
 "That doesn't sound hard either." Kurdran raised both hands and pointed at a gray Hinterlands gryphon nearby, preening its feathers. "It's like taming that thing -- you just have to get on and ride it."
 
-"Lord Kurdran, Sentinel Supervisor Orphest and I have been away from Shadowforge City for too long." Burnite said. "So exactly what to do needs to be discussed with Master Roccor the Dark Cleft in Shadowforge City."
+"Lord Kurdran, Overseer Oilfist and I have been away from Shadowforge City for too long." Burninate said. "So exactly what to do needs to be discussed with Master Lokhtos Darkbargainer in Shadowforge City."
 
-"Regarding how to enter Shadowforge City..." the Red Dragonqueen spoke up. "Vaelastrasz has prepared magical items for transforming into Dark Iron dwarves. He'll be waiting for you at the foot of Blackrock Mountain, Grede. But how to get that Sulfuron warhammer in past the Ironrage guards..."
+"Regarding how to enter Shadowforge City..." the Red Dragonqueen spoke up. "Vaelastrasz has prepared magical items for transforming into Dark Iron dwarves. He'll be waiting for you at the foot of Blackrock Mountain, Grede. But how to get that Sulfuron warhammer in past the Anvilrage guards..."
 
 "We'll figure that out ourselves, Your Majesty." Jace said.

@@ -1,20 +1,20 @@
 ## Chapter 853: Return to Everlook
 
-Solamiel carried Jace and the others — including Mossa and the two still-sleeping druids — away from Kesselir.
+Somaelir carried Jace and the others — including Mosa and the two still-sleeping druids — away from Kel'Theril.
 
 They were close to a Winterspring furbolg camp, so they entrusted the two druids to the furbolgs' care before setting off for Everlook.
 
-Mossa said she had never ridden on the back of an actual dragon before, and she had been quite excited climbing onto the green dragon at first. But it was not long before she fell fast asleep.
+Mosa said she had never ridden on the back of an actual dragon before, and she had been quite excited climbing onto the green dragon at first. But it was not long before she fell fast asleep.
 
-Not because of Solamiel's magic — she was simply too exhausted, the kind of exhaustion no healing potion or mana potion could fix.
+Not because of Somaelir's magic — she was simply too exhausted, the kind of exhaustion no healing potion or mana potion could fix.
 
-The weeks of torment at the satyrs' hands, forced to hold the dream rift open, even compelled to help the spirits seep into the Emerald Dream — it had kept Mossa in a state of constant overexertion.
+The weeks of torment at the satyrs' hands, forced to hold the dream rift open, even compelled to help the spirits seep into the Emerald Dream — it had kept Mosa in a state of constant overexertion.
 
-By the standards of the Wizard Sanctum, the fact that Mossa had not dropped dead or gone mad from spiritual collapse was already a miracle. In truth, the rest of them were not in much better shape either — the mental taint the Nightmare had inflicted on each of them was severe.
+By the standards of the Wizard's Sanctum, the fact that Mosa had not dropped dead or gone mad from spiritual collapse was already a miracle. In truth, the rest of them were not in much better shape either — the mental taint the Nightmare had inflicted on each of them was severe.
 
-When they had just beaten those satyrs and helped Sola destroy her corrupted self... they had at least been running on the thrill of victory and their wariness of the spirits inside Kesselir, not to mention the search for Mossa. Now, with the tension finally released, they were all about to collapse.
+When they had just beaten those satyrs and helped Sola destroy her corrupted self... they had at least been running on the thrill of victory and their wariness of the spirits inside Kel'Theril, not to mention the search for Mosa. Now, with the tension finally released, they were all about to collapse.
 
-Much as he dreaded falling back into the Nightmare, Jace still did not know when he had fallen asleep — until he dimly felt something sharp prod him twice. He jolted awake, swiping his hands around wildly, grabbing at nothing. When he opened his eyes, he found Solamiel's head right in front of him.
+Much as he dreaded falling back into the Nightmare, Jace still did not know when he had fallen asleep — until he dimly felt something sharp prod him twice. He jolted awake, swiping his hands around wildly, grabbing at nothing. When he opened his eyes, he found Somaelir's head right in front of him.
 
 Jace glanced at the golden horns atop her head and immediately understood what she had used to wake him.
 
@@ -26,7 +26,7 @@ Jace shook Vereesa's shoulder where she was slumped across his legs. The ranger 
 
 Grede hauled himself out of the snow, cursing ready on his tongue. The green dragon gave him one look and Grede froze mid-sentence, then grew more and more dazed. He rubbed his eyes and mumbled groggily, "Do not hypnotize me... you... what are you... I just woke up!"
 
-"Keep your voice down. I do not want them to spot me," Solamiel said, gazing outward. "I flew in close this time, to cut down the walking, Grede."
+"Keep your voice down. I do not want them to spot me," Somaelir said, gazing outward. "I flew in close this time, to cut down the walking, Grede."
 
 "What difference would it make if they did?" Grede said, displeased.
 
@@ -34,7 +34,7 @@ Grede hauled himself out of the snow, cursing ready on his tongue. The green dra
 
 "Rubbish." Grede picked up a stick and swung it a couple of times. "Think about what you looked like inside that Nightmare — one mouthful and the whole of Everlook would be finished, probably not a whole person or a scrap of unbroken skin left behind. Let alone those hunters... Actually, I have always wondered — you are that powerful, so why are you such a coward?"
 
-He turned back and saw the silver light in Solamiel's eyes dim considerably. She lowered her head and said nothing. The ranger glared at the dwarf from the dragon's back, and even Mossa, freshly woken, did not look too pleased.
+He turned back and saw the silver light in Somaelir's eyes dim considerably. She lowered her head and said nothing. The ranger glared at the dwarf from the dragon's back, and even Mosa, freshly woken, did not look too pleased.
 
 "Do not bring up what happened in there, Grede," Jace said quietly.
 
@@ -42,17 +42,17 @@ He turned back and saw the silver light in Solamiel's eyes dim considerably. She
 
 "His brain has never worked right, Sola. Pay him no mind." Vereesa tossed a dried fruit slice into her mouth, cinched her pack shut, and hopped lightly off the dragon's back. "Who is this blue dragon matriarch you mentioned?"
 
-Solamiel said, "Her name is Haleh. She guards the blue dragon lair in the mountains to the southwest — she is one of the Spell-Weaver's mates."
+Somaelir said, "Her name is Haleh. She guards the blue dragon lair in the mountains to the southwest — she is one of the Spell-Weaver's mates."
 
-"There really are blue dragons in Winterspring?" Grede leaned over to Jace. "Your Skysong was forged from the Spell-Weaver's scale... right? Mates — so that means this is her husband's scale? We could go to her for help, what do you think? She would do it for her husband's sake..."
+"There really are blue dragons in Winterspring?" Grede leaned over to Jace. "Your Azuresong was forged from the Spell-Weaver's scale... right? Mates — so that means this is her husband's scale? We could go to her for help, what do you think? She would do it for her husband's sake..."
 
-Jace had actually considered seeking help from the blue dragons of Winterspring, but the goal of this entire Kalimdor expedition was to find Ursulus. Would the blue dragons really be willing to help him hunt down a thing like that?
+Jace had actually considered seeking help from the blue dragons of Winterspring, but the goal of this entire Kalimdor expedition was to find Ulthalesh. Would the blue dragons really be willing to help him hunt down a thing like that?
 
 After all, the blue dragons stationed in Winterspring existed to protect the Highborne magical relics left near Mount Hyjal from being discovered — and drawn out to wreak havoc — by later comers, especially adventurers, travelers, and sellswords. His identity and the purpose of his journey practically stepped on every single one of their landmines.
 
 If the blue dragons learned what he was about, they would not just refuse to help — they would try to stop him. This was not the Battle of Grim Batol; they would kill him outright.
 
-By now Solamiel had crouched down gently, helping Mossa ease herself off the dragon's back bit by bit, then shifted into her elven form in a swirl of snow. She pulled her hood tight, glanced back to make sure her tail was not showing, and came over to Jace and Vereesa.
+By now Somaelir had crouched down gently, helping Mosa ease herself off the dragon's back bit by bit, then shifted into her elven form in a swirl of snow. She pulled her hood tight, glanced back to make sure her tail was not showing, and came over to Jace and Vereesa.
 
 "From what I know of Matriarch Haleh... her relationship with the Spell-Weaver is not a good one, and she is said to have a very peculiar temper. Though she lives right at the foot of Hyjal, my kind have never had contact with her."
 
@@ -64,33 +64,35 @@ When Jace said that, Sola looked startled at first, then laughed. "I have never 
 
 By now the sky was just beginning to lighten. They reached Everlook's main gate, where no small number of hunters and sellswords were still camped, mustering as if ready to march at any moment — much like the scene the last time they had come through Everlook.
 
-This time, though, what drew attention was not their gear. It was Mossa Mothmane — the towering tauren drawing stares and whispers as she passed among the sellswords. Tauren were a rare sight in Everlook, after all.
+This time, though, what drew attention was not their gear. It was Mosa Woodmane — the towering tauren drawing stares and whispers as she passed among the sellswords. Tauren were a rare sight in Everlook, after all.
 
 Jace watched the suspicion, surprise, and curiosity play across the hunters' and sellswords' faces. He remembered how wary he had been the last time they came to Everlook; after a journey through the Nightmare, seeing humans, dwarves, goblins, and the like again felt... a good deal more welcoming.
 
-It had been snowing for the past two days. Foot traffic on Everlook's streets had thinned. The group arrived at Simik's tavern, and Mossa had to duck hard to squeeze through the door.
+It had been snowing for the past two days. Foot traffic on Everlook's streets had thinned. The group arrived at Himmik's tavern, and Mosa had to duck hard to squeeze through the door.
 
 The tauren lifted her head and promptly blocked the entire doorway. The interior of the tavern suddenly went much darker, and the sound of wind and snow cut off in an instant.
 
-The goblin proprietor took one look at Mossa, then at the demon beside her, his mouth flew open to start cursing — then jammed halfway. His lips trembled and he clamped his mouth shut again. "Welcome, welcome! Honored patrons, gracing my establishment once more — and brought a... a rare one! A tauren from the plains, how uncommon! Do not break my... break them if you like, heh heh! Please, sit, please sit!"
+The goblin proprietor took one look at Mosa, then at the demon beside her, his mouth flew open to start cursing — then jammed halfway. His lips trembled and he clamped his mouth shut again. "Welcome, welcome! Honored patrons, gracing my establishment once more — and brought a... a rare one! A tauren from the plains, how uncommon! Do not break my... break them if you like, heh heh! Please, sit, please sit!"
 
-Jace glanced at Molofier, who was staring fixedly at the goblin, and murmured, "You are not going to break his brain, are you?"
+Jace glanced at Morophil, who was staring fixedly at the goblin, and murmured, "You are not going to break his brain, are you?"
 
-"If you think discriminating against guests is normal, Master, then yes, it will break," Molofier said with a smile.
+"If you think discriminating against guests is normal, Master, then yes, it will break," Morophil said with a smile.
 
 "I think discriminating against demons is perfectly normal," Grede said, sitting down.
 
-Vereesa nodded from across the table. Mossa nodded too. Sola looked at the two of them, seemed about to nod as well, but in the end just awkwardly drew a breath and said nothing.
+Vereesa nodded from across the table. Mosa nodded too. Sola looked at the two of them, seemed about to nod as well, but in the end just awkwardly drew a breath and said nothing.
 
-Molofier looked at Jace. Jace hesitated, fingers drumming on the table, and said nothing. The succubus immediately frowned.
+Morophil looked at Jace. Jace hesitated, fingers drumming on the table, and said nothing. The succubus immediately frowned.
 
 From behind the counter the goblin proprietor suddenly bellowed, "What in the hell's name is going on?! No — what is happening! Why are you just sitting down?! What is with that tauren?!"
 
 "Stop messing with him, or I will—" Jace pointed.
 
-"His brain really will break if I keep going, my kind and benevolent Master," Molofier said with the gleeful look of someone enjoying the show. Jace sighed, held up a troll gold coin stamped with a wind serpent, and called out, "Sir!"
+"His brain really will break if I keep going, my kind and benevolent Master," Morophil said with the gleeful look of someone enjoying the show.
 
-The goblin shut his mouth mid-rant and came scurrying over. "What can I get for you, honored mage sir? Anything you can find in Winterspring that is fit to go in your mouth, Simik's got it — venison from the ground, chimera meat from the sky, bear meat from the caves... plus a signature grain porridge made from grain traded off the Winterspring tribe. Ever heard of Darkwood brew? It is a fruit wine brewed by the furbolgs at the foot of Hyjal who call themselves the Darkwood — you can only get it by trading them something they want, an extremely precious commodity! We have it here too, imagine that, folks! I know tauren and elves go crazy for the stuff — and you, beautiful demon lady, ought to try it too. I bet the food in the Twisting Nether is not half that interesting — at least fruit cannot grow there!"
+Jace sighed, held up a troll gold coin stamped with a wind serpent, and called out, "Sir!"
+
+The goblin shut his mouth mid-rant and came scurrying over. "What can I get for you, honored mage sir? Anything you can find in Winterspring that is fit to go in your mouth, Himmik's got it — venison from the ground, chimaera meat from the sky, bear meat from the caves... plus a signature grain porridge made from grain traded off the Winterfall tribe. Ever heard of Darkwood brew? It is a fruit wine brewed by the furbolgs at the foot of Hyjal who call themselves the Darkwood — you can only get it by trading them something they want, an extremely precious commodity! We have it here too, imagine that, folks! I know tauren and elves go crazy for the stuff — and you, beautiful demon lady, ought to try it too. I bet the food in the Twisting Nether is not half that interesting — at least fruit cannot grow there!"
 
 "Then give us the best you have. There are six of us..." Jace said.
 
@@ -108,7 +110,7 @@ The green dragon's scale felt just like holding a thin slice of jade — and Jac
 
 This was a scale that had been tainted by the Nightmare, though no trace of it showed on the surface.
 
-The Sola before him now gave off almost nothing dark or off. She still had the habit of doding people's gazes and was still not good at expressing herself, but compared to the first time they had met in the tavern, she felt like a different person.
+The Sola before him now gave off almost nothing dark or off. She still had the habit of dodging people's gazes and was still not good at expressing herself, but compared to the first time they had met in the tavern, she felt like a different person.
 
 Even this scale seemed as if it no longer belonged to her at all. Just like she had said... the Nightmare was finally over.
 
@@ -120,15 +122,10 @@ Even this scale seemed as if it no longer belonged to her at all. Just like she 
 
 Sola nodded firmly. "I hope so. It would make me feel much better."
 
-"Why do you look like you are not happy, Mossa?" Grede asked.
+"Why do you look like you are not happy, Mosa?" Grede asked.
 
-"My Common is not good yet, Grede," Mossa mumbled in a deep voice. "You talk. I can understand." Jace asked, "Is it about the Staff of Elune?"
+"My Common is not good yet, Grede," Mosa mumbled in a deep voice. "You talk. I can understand."
 
-Mossa looked at Jace, then slowly nodded after a moment.
+Jace asked, "Is it about the Staff of Elune?"
 
-## Flags
-- **POV**: Third person throughout.
-- **Name renderings**: 永望镇 → Everlook (canon Winterspring town); 西米克的酒馆 → Simik's tavern (goblin proprietor Simik); 哈尔琳 → Haleh (canon blue dragon matriarch, Malygos's mate who guards Mazthoril in Winterspring); 织法者 → the Spell-Weaver (Malygos); 碧空之歌 → Skysong (Jace's sword, forged from Malygos's scale); 黑木酒 → Darkwood wine (brewed by the Darkwood furbolgs, canon Winterspring tribe); 奇美拉 → chimera; 乌萨勒斯 → Ursulus (the evil artifact Jace seeks); 月神法杖 → Staff of Elune.
-- **Lore notes**: Haleh is the canonical blue dragon matriarch in Winterspring (Mazthoril). The Spell-Weaver = Malygos. Skysong being forged from Malygos's scale is the fanfic's premise. The "Twisting Nether" (扭曲虚空) is the demonic dimension. Darkwood furbolgs are a canon Winterspring faction.
-- **Character voice**: Grede's blunt "coward" jab and subsequent apology; the goblin's manic salesmanship when he sees gold; Molofier's deadpan menace toward the goblin.
-- **Key detail**: Sola gives Jace a Nightmare-tainted green dragon scale as payment — he senses shadow energy from it despite its pristine surface. The wind-serpent-stamped troll gold coin is the currency Jace uses.
+Mosa looked at Jace, then slowly nodded after a moment.

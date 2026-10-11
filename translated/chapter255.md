@@ -16,13 +16,13 @@ That was the Burning Steppes. Those thin red lines were cracks in the earth, tor
 
 The woods below the hillside at night were like writhing corpses — and corpses that had died in the most agonizing fashion, their withered arm-like branches stretching desperately toward the sky, as if trying to seize just a little more sunlight before death. If you only came across the occasional dead tree like that, it would be one thing. But when every tree in sight was one of these half-dead things, it was hard not to feel a chill crawl up your spine.
 
-"Elemental creatures that lost control because of the parasites, master," Morofil materialized beside him and said softly. "In the Twisting Nether, it's treated like an infectious disease."
+"Elemental creatures that lost control because of the parasites, master," Morophil materialized beside him and said softly. "In the Twisting Nether, it's treated like an infectious disease."
 
-Jace knew that what Morofil called "parasites" were the Old Gods — the dark seeds the Void had sown across the entire universe, corrupting every place they could reach.
+Jace knew that what Morophil called "parasites" were the Old Gods — the dark seeds the Void had sown across the entire universe, corrupting every place they could reach.
 
 "Are there many worlds like that?" Jace asked. "Where elemental creatures attack other life without control?"
 
-"Many," Morofil said. "Though it's not always because of the Shadow's influence, master. The elements themselves are inherently unstable."
+"Many," Morophil said. "Though it's not always because of the Shadow's influence, master. The elements themselves are inherently unstable."
 
 "Azeroth is a world beyond saving!" The imp poked its head in front of Jace. "This world's doom doesn't depend on the mortals clinging to life on its surface… the Void and the Burning Legion will slaughter each other here eventually. All living things will march toward destruction through endless torment! The entire Twisting Nether has foreseen this! Master — you ought to know it too!"
 
@@ -44,15 +44,15 @@ Jace pointed in the direction of the shadowy trace and asked.
 
 "Seems… no." The imp draped itself over Jace's neck.
 
-"What about you, Morofil?"
+"What about you, Morophil?"
 
 The succubus looked over. "I'm better at tracking demons than tracking living people, master. Though I hate to admit it…"
 
 Jace figured it was about two or three miles away. His judgment might be off in the dark, but not by much.
 
-"Follow me, Morofil."
+"Follow me, Morophil."
 
-He said it and leaped off the cliff rock, sliding down the hillside as he advanced. The succubus's movements were far more nimbly than his, hopping lightly from rock to rock.
+He said it and leaped off the cliff rock, sliding down the hillside as he advanced. The succubus's movements were far more nimble than his, hopping lightly from rock to rock.
 
 They hadn't gone long before the dead trees grew thicker around them. Jace felt they must be close to the place he'd seen, so he slowed his pace. Then the imp suddenly grabbed his collar and whispered, "Master, I can sense it — there's shadow power… right ahead…"
 
@@ -86,53 +86,53 @@ The last time he'd seen shadow power burst out so brazenly was the Shadowfury Te
 
 Reaching the entrance to the hollow, Jace tried to poke his head out and look toward the direction of that shadow, but he couldn't see anything inside the hollow — the shadow light wasn't flickering at this moment.
 
-"Go take a look, Morofil. You run faster than the imp."
+"Go take a look, Morophil. You run faster than the imp."
 
 "All right!"
 
-Jace nearly mouthed the command, but Morofil heard him clearly all the same. She turned invisible and slipped toward the depths of the hollow.
+Jace nearly mouthed the command, but Morophil heard him clearly all the same. She turned invisible and slipped toward the depths of the hollow.
 
 "Master… I hear it. Do you hear it? There's a human voice," the imp whispered.
 
 The wind groaning through the branches in the hollow made it impossible for Jace to hear anything clearly. But he admitted there seemed to be a faint, intermittent moan in the wind — it was just that in this pitch-black, eerie, unsettling environment, he'd kept feeling the wind ought to sound a bit stranger too, and had overlooked the abnormality hidden within it.
 
-He listened carefully to the now-you-see-it-now-you-don't sound. It sounded like moaning, and also like cursing. Was that Roenmes?
+He listened carefully to the now-you-see-it-now-you-don't sound. It sounded like moaning, and also like cursing. Was that Ronmeis?
 
 Was it two people, or just one of them?
 
-Then Morofil materialized beside him. She said softly, "A mixed dragon-creature… master. That's a hybrid monster brimming with shadow power."
+Then Morophil materialized beside him. She said softly, "A mixed dragonkin… master. That's a hybrid monster brimming with shadow power."
 
 "Dragon-creature?"
 
 Jace was a little surprised at first, but then calmed down.
 
-A dragon-creature's strength could run high or low. The most powerful commanders were even more formidable than an adult dragon, while the weakest scouts might not be much better than an accomplished human fighter.
+A dragonkin's strength could run high or low. The most powerful commanders were even more formidable than an adult dragon, while the weakest scouts might not be much better than an accomplished human fighter.
 
-But dragon-creatures had one very obvious trait: these mutated mortals who'd barely gotten a drop of dragon blood couldn't wait to show off their power.
+But dragonkin had one very obvious trait: these mutated mortals who'd barely gotten a drop of dragon blood couldn't wait to show off their power.
 
-To flaunt their status and standing in the dragonflight, dragon-creatures decked themselves out in all sorts of mismatched armor and ornaments, or carried a massive dragon banner to proclaim their rank as a commander.
+To flaunt their status and standing in the dragonflight, dragonkin decked themselves out in all sorts of mismatched armor and ornaments, or carried a massive dragon banner to proclaim their rank as a commander.
 
 So as a rule, the more lavish the dress and the more exaggerated the decorations, the stronger they were and the higher their standing — and vice versa for the shabbier ones.
 
 "Did you see what it's wearing?"
 
-"That monster is wearing a red cloak, master," Morofil said. "It has a lizard-like body, but it's very small. It's using mind control to torture a human tied to a tree."
+"That monster is wearing a red cloak, master," Morophil said. "It has a lizard-like body, but it's very small. It's using mind control to torture a human tied to a tree."
 
-A red robe. A dragon-creature fire-mage — its strength probably wasn't all that great.
+A red robe. A dragonkin fire-mage — its strength probably wasn't all that great.
 
 Jace thought for a moment. His whole body was wreathed in fire resistance right now, and he had the Soul Link besides. Why should he be afraid of a fire-mage?
 
 "You're sure there's only the one of them in this hollow?"
 
-"Just this one," Morofil said.
+"Just this one," Morophil said.
 
-"Are there any other dragon-creatures around, Sazeno?"
+"Are there any other dragonkin around, Sazeno?"
 
-The imp whispered, "I don't think so… even this one's shadow power is so weak it's barely detectable. If there were other living things around, they definitely wouldn't be this kind of dragon-creature, master…"
+The imp whispered, "I don't think so… even this one's shadow power is so weak it's barely detectable. If there were other living things around, they definitely wouldn't be this kind of dragonkin, master…"
 
 "So going up this mountain alone really is dangerous." He licked his lips. "Today I'll use him as a warm-up. We're getting that person out."
 
-"Stalk close to that dragon-creature, Morofil. Don't let it notice you… dragon-creatures can be quite sensitive to magic."
+"Stalk close to that dragonkin, Morophil. Don't let it notice you… dragonkin can be quite sensitive to magic."
 
 "Once I draw its attention, you rush in immediately and hit it with everything you've got. We need to take it down as fast as possible, in case it has some way of alerting its companions."
 
@@ -144,20 +144,8 @@ The imp whispered, "I don't think so… even this one's shadow power is so weak 
 
 Watching the succubus turn invisible and creep forward, Jace had a feeling.
 
-This dragon-creature mage might be an investigator or scout like himself — dispatched by a black dragon, perhaps Nefarian, to come here and investigate, explore, and gather intelligence, laying the groundwork for the Blackwing Legion's future occupation of Blackrock Mountain and the Burning Steppes.
+This dragonkin mage might be an investigator or scout like himself — dispatched by a black dragon, perhaps Nefarian, to come here and investigate, explore, and gather intelligence, laying the groundwork for the Blackwing Legion's future occupation of Blackrock Mountain and the Burning Steppes.
 
 So why had he taken that human captive?
 
 Was it because of the dragon scale?
-
-## Flags
-
-- Jace ventures into the dead woodland on the north side of Redridge at night with both demons. The landscape is desolate — a fire-scarred wasteland created by the Blackrock Mountain explosion and Ragnaros's emergence.
-- Lore: the north side of Redridge was devastated by the Blackrock explosion; the region took 50-60 years to recover its pre-War of the Three Hammers prosperity. The Burning Steppes' red-glowing lava fissures are visible in the distance.
-- Sazeno detects faint shadow power ahead in a hollow. Morofil scouts and reports: a single red-cloaked dragon-creature (混种龙人) using mind control on a bound human.
-- Dragon-creature lore: Jace recalls that their power scales with the lavishness of their armor/decorations — the more decked-out, the stronger. This one wears only a red cloak and is small, suggesting low rank (a fire-mage scout).
-- Jace speculates this dragon-creature may be a Blackwing Legion scout (sent by Nefarian) preparing the way for the Horde's future operations in Blackrock Mountain — and that it may have captured the human because of the dragon scale.
-- Jace plans to ambush the dragon-creature: he'll draw its attention while Morofil (invisible) closes in for a fast kill, preventing it from signaling allies.
-- The captive's identity is unconfirmed but implied to be Roenmes or his son. Moaning/cries heard in the wind.
-- Morofil notes she's better at tracking demons than living people — a limitation she's unhappy about.
-- Sazeno compares the shadow power to the dragon they encountered in Lordaeron (much stronger) — this one is faint and weak.

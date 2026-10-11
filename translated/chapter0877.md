@@ -1,14 +1,14 @@
 ## Chapter 877: Azshara
 
-After leaving the herb room, Sulenna translated the furbolg writing on the deer-hide scroll for Jace. The convoluted production process and the absurdly strict crafting conditions were impossible for Jace to remember just by listening — never mind the ingredients themselves.
+After leaving the herb room, Sola translated the furbolg writing on the deer-hide scroll for Jace. The convoluted production process and the absurdly strict crafting conditions were impossible for Jace to remember just by listening — never mind the ingredients themselves.
 
-Black Lotus and that grass fed on demon blood were clearly the two main ingredients. On top of those, the recipe seemed to include a bunch of supplementary flavoring agents. Some kind of spice found only at the foot of Mount Hyjal that didn't even have a Common name, for instance — and nightdragon herb.
+Black Lotus and that grass fed on demon blood were clearly the two main ingredients. On top of those, the recipe seemed to include a bunch of supplementary flavoring agents. Some kind of spice found only at the foot of Mount Hyjal that didn't even have a Common name, for instance — and Night Dragon's Breath.
 
-In the game, nightdragon herbs were all over Felwood Forest, most of them corrupted by fel energy. Purifying them with night elf salve granted a buff that restored both health and mana over time.
+In the game, Night Dragon's Breath plants were all over Felwood, most of them corrupted by fel energy. Purifying them with night elf salve granted a buff that restored both health and mana over time.
 
-But in the game, nightdragon herb wasn't an ingredient in any alchemy recipe.
+But in the game, Night Dragon's Breath wasn't an ingredient in any alchemy recipe.
 
-Given that nightdragon herb also showed up in the Timbermaw furbolgs' jarred potion for treating the undead plague brought by Ursoloth, the furbolgs had probably just been adding this magical herb — one they could easily find at the foot of Mount Hyjal — into every health-boosting concoction they made, to strengthen the effect.
+Given that Night Dragon's Breath also showed up in the Timbermaw furbolgs' jarred potion for treating the undead plague brought by Ulthalesh, the furbolgs had probably just been adding this magical herb — one they could easily find at the foot of Mount Hyjal — into every health-boosting concoction they made, to strengthen the effect.
 
 Concoctions that required Black Lotus were extremely precious even in the game.
 
@@ -36,19 +36,19 @@ Jace's group didn't linger with the furbolgs for long. After obtaining the recip
 
 The reason he'd wanted the plague-cure recipe was that the Eastern Kingdoms lacked medicine capable of treating the undead plague — most of it relied on priests to dispel it, and aside from the highest-ranking bishops, most priests couldn't guarantee they could purge the disease either.
 
-The furbolgs had shown zero reluctance to share the plague-cure potion recipe, but after Sulenna's translation Jace realized the recipe also included nightdragon herb.
+The furbolgs had shown zero reluctance to share the plague-cure potion recipe, but after Sola's translation Jace realized the recipe also included Night Dragon's Breath.
 
-Given that nightdragon herb itself had some healing properties, he wasn't sure whether the recipe would still work without Felwood Forest's signature herb.
+Given that Night Dragon's Breath itself had some healing properties, he wasn't sure whether the recipe would still work without Felwood's signature herb.
 
 From here, they circled east around the magnificent Mount Hyjal and headed southeast. By the time the shadow of the colossal Nordrassil was nearly out of sight, the blessing the Well of Eternity had bestowed on the surrounding forest had visibly faded too.
 
 The towering, magnificent giant trees of Winterspring or Ashenvale grew increasingly scarce. The dense, lush primeval forest shifted from deep green to withered yellow. Rough, twisted stones jutted out from between the trees. The air wasn't as cold as northern Ashenvale or Winterspring, but it carried an added gloom and dampness.
 
-Even the sky seemed to grow higher and deeper — a dark blue with few clouds. The sound of Grede and Sulenna chatting seemed to dry up, too; even sitting right beside them, Jace could barely make out what they were saying.
+Even the sky seemed to grow higher and deeper — a dark blue with few clouds. The sound of Grede and Sola chatting seemed to dry up, too; even sitting right beside them, Jace could barely make out what they were saying.
 
-"Say, Sulenna, what blessing did you give those furbolgs?" Grede asked, lying on his arm. "Let me guess — 'may you have sweet dreams tonight'?"
+"Say, Sola, what blessing did you give those furbolgs?" Grede asked, lying on his arm. "Let me guess — 'may you have sweet dreams tonight'?"
 
-"Pretty much." Sulenna answered in her raspy voice. "I gave them the blessing of dreams… This kind of blessing helps druids maintain a calm state of mind, keeps them from being startled awake out of the Emerald Dream, and that tranquility also helps with recovery from illness and the healing of wounds. I hope their hunters who were injured on the hunt will appreciate it. I think my blessing should last a few weeks."
+"Pretty much." Sola answered in her raspy voice. "I gave them the blessing of dreams… This kind of blessing helps druids maintain a calm state of mind, keeps them from being startled awake out of the Emerald Dream, and that tranquility also helps with recovery from illness and the healing of wounds. I hope their hunters who were injured on the hunt will appreciate it. I think my blessing should last a few weeks."
 
 "Why don't you bless us like that, then?" the dwarf asked curiously.
 
@@ -56,15 +56,15 @@ Even the sky seemed to grow higher and deeper — a dark blue with few clouds. T
 
 "Sure is, sure is!" Grede patted the horn on the dragon's back. "I was just curious what kind of magic that counted as."
 
-"The power of dreams," Sulenna said. "Although Queen Ysera and Isendre don't want me going back into the Dream, at least they haven't severed my connection to it."
+"The power of dreams," Sola said. "Although Queen Ysera and Ysondre don't want me going back into the Dream, at least they haven't severed my connection to it."
 
 "They've always cared about you," Jace said.
 
-"Let's hope so." Sulenna turned her head and glanced at Jace with her pale-blue eyes.
+"Let's hope so." Sola turned her head and glanced at Jace with her pale-blue eyes.
 
-"What's that thing you're looking for called again, little elf?" Grede glanced over. "Eldallas?"
+"What's that thing you're looking for called again, little elf?" Grede glanced over. "Eldarath?"
 
-"Eldallas is the name of where we're going, Grede," Vereesa said, eyes on the scroll. "The Reliquary wants me to find something called Voldanaral — strictly speaking, the Quel'dorei Voldanaral. But you should know that in the ancient Kaldorei language, Quel'dorei didn't refer to us. It specifically meant the nobles, set apart from the common Kaldorei. So this should be something used in the royal court."
+"Eldarath is the name of where we're going, Grede," Vereesa said, eyes on the scroll. "The Reliquary wants me to find something called Voldanaral — strictly speaking, the Quel'dorei Voldanaral. But you should know that in the ancient Kaldorei language, Quel'dorei didn't refer to us. It specifically meant the nobles, set apart from the common Kaldorei. So this should be something used in the royal court."
 
 "Voldanaral," Jace said. "That word means nothing to me."
 
@@ -76,7 +76,7 @@ Even the sky seemed to grow higher and deeper — a dark blue with few clouds. T
 
 "Voldanaral… a shattered thing," Jace said. "That reminds me of something — Vordrassil, the Broken Crown."
 
-"You actually know about Vordrassil?" Sulenna said. "That corrupted World Tree in Northrend that was destroyed by Fandral Staghelm and his men — it still holds its original form in the Emerald Dream… though no one remembers its original name anymore — Andassil."
+"You actually know about Vordrassil?" Sola said. "That corrupted World Tree in Northrend that was destroyed by Fandral Staghelm and his men — it still holds its original form in the Emerald Dream… though no one remembers its original name anymore — Andrassil."
 
 "Indeed, that's one of the theories within the Reliquary — the etymological connection between this 'Vol-da' and 'Vor-drassil.'" Vereesa smiled and glanced at Jace. "You really do have a gift for languages, Jace. As for the latter part, 'dalar' — maybe it means soul, maybe truth, maybe… I don't know."
 
@@ -86,9 +86,9 @@ Even the sky seemed to grow higher and deeper — a dark blue with few clouds. T
 
 Following the direction of her finger, they could see, beneath the gloomy sky, between the forest and the cliffs, a stretch of ancient bluish stone walls spanning the far edge of their vision.
 
-"Is that the so-called Eldallas?" Grede asked.
+"Is that the so-called Eldarath?" Grede asked.
 
-"I don't know," Vereesa said. "Sulenna, can we fly over that way and take a look?"
+"I don't know," Vereesa said. "Sola, can we fly over that way and take a look?"
 
 "All right."
 
@@ -96,11 +96,11 @@ The green dragon responded softly, flapped her wings, and gently adjusted her co
 
 Jace gazed down at the cliffs below — the remnants of ancient elven ruins and stone roads, the endless withered-yellow forest, and the muddy riverbanks along the river that narrowed and widened.
 
-He thought to himself that without Sulenna's help, they probably would have been stuck in this savage region for at least two months. And they still might not have found what the Reliquary was looking for.
+He thought to himself that without Sola's help, they probably would have been stuck in this savage region for at least two months. And they still might not have found what the Reliquary was looking for.
 
-"Thank you, Sulenna," he said.
+"Thank you, Sola," he said.
 
-"Don't say that, Jace," Sulenna said. "Look further out, everyone. Take in the scenery here. It has a different kind of beauty, doesn't it?"
+"Don't say that, Jace," Sola said. "Look further out, everyone. Take in the scenery here. It has a different kind of beauty, doesn't it?"
 
 Jace nodded. He'd always loved this place in the game — bleak, desolate, lonely… but it did carry a mysterious, somber charm all its own.
 

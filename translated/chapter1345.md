@@ -2,11 +2,11 @@
 
 Auchindoun was exactly as it had been when Jace and the others left months ago — still that same desolate, broken look, unchanged in any way. The plaza was filled with black rib-like metal frames. The once magnificent Hall of the Sanctum had been reduced to an open-air, gray-white wasteland by a terrible explosion. The ground was cracked, bricks and stones turned outward, collapsed pillars and walls everywhere. No matter how many years of cold wind blew through, it always kicked up clouds of ash like bone dust.
 
-Jace looked at the center of the plaza. In the game, this was where the meeting summoning stone for dungeon runs was located. Of course, there was no summoning stone here. But Jace was already considering using this spot for the portal.
+Jace looked at the center of the plaza. In the game, this was where the meeting stone for dungeon runs was located. Of course, there was no meeting stone here. But Jace was already considering using this spot for the portal.
 
-Spacious, stable, nothing in the way. If they destroyed the lingering Draenei priests who defiled the dead in Auchindoun, they wouldn't have to worry about interference with the portal's construction. And if the portal's power caused the earth to shake, they wouldn't need to fear the passage collapsing and blocking their way.
+Spacious, stable, nothing in the way. If they destroyed the lingering draenei priests who defiled the dead in Auchindoun, they wouldn't have to worry about interference with the portal's construction. And if the portal's power caused the earth to shake, they wouldn't need to fear the passage collapsing and blocking their way.
 
-"Hard to believe it's only been months since we were here, Jace," Sora whispered. "It feels like centuries..."
+"Hard to believe it's only been months since we were here, Jace," Sola whispered. "It feels like centuries..."
 
 "I feel the same way," Jace said quietly.
 
@@ -16,9 +16,9 @@ Spacious, stable, nothing in the way. If they destroyed the lingering Draenei pr
 
 Sure enough, at some point, several dark figures had appeared across the plaza, near the direction of the Arcane Sanctum, under the shadow of Auchindoun's high walls. And not just them — figures of several orcs also stood on the broken upper levels.
 
-"The Shadow Council didn't have this many guards stationed here last time," Sora said quietly.
+"The Shadow Council didn't have this many guards stationed here last time," Sola said quietly.
 
-"That works in our favor," Jace said as he walked, keeping his voice low. "The Shadow Council might be gaining ground against the Draenei necromancers in this area. That makes it easier for them to decide to wipe out Archbishop Maladaar's forces."
+"That works in our favor," Jace said as he walked, keeping his voice low. "The Shadow Council might be gaining ground against the draenei necromancers in this area. That makes it easier for them to decide to wipe out Exarch Maladaar's forces."
 
 A cowled cultist orc standing on a high ledge shouted, "Glory to the Legion! You were lucky to escape those rangers' hunt."
 
@@ -30,17 +30,17 @@ Sabellian leaned on his strange black staff, watching his young daughter. Even t
 
 Whether it was the lingering draconic authority in Needleflame's roar or the fake identities that carried some weight, the cult members before them fell silent for a moment.
 
-Then, from the deep shadows behind them, an orc stepped out on the high ledge. "The Instigator has ordered that all Horde members wishing to enter the Arcane Sanctum must submit to examination by revealing scrolls."
+Then, from the deep shadows behind them, an orc stepped out on the high ledge. "The Inciter has ordered that all Horde members wishing to enter the Arcane Sanctum must submit to examination by revealing scrolls."
 
 Revealing scrolls? When did they start using that?
 
-Sabellian's blood-red orcish eyes flicked toward Jace. Sora couldn't help casting a questioning look his way too. Jace knew what they were thinking — they must have thought his impersonation of Yulruk, the Hellfire Citadel ambassador, had been exposed, and that was why Auchindoun was on such high alert.
+Sabellian's blood-red orcish eyes flicked toward Jace. Sola couldn't help casting a questioning look his way too. Jace knew what they were thinking — they must have thought his impersonation of Yurk, the Hellfire Citadel envoy, had been exposed, and that was why Auchindoun was on such high alert.
 
 But Sabellian lowered his palm slightly under his cloak, signaling that it was fine.
 
 Jace didn't think so either. After all, breaking Onyxia's disguise required a high-ranking Dalaran alchemist's painstakingly crafted runestone, and the materials required chromatic dragon blood — something that didn't even exist on Draenor.
 
-"Instigator Blackheart really intends to treat Master Magtheridon's emissaries this way?" Jace asked loudly.
+"Blackheart the Inciter really intends to treat Master Magtheridon's emissaries this way?" Jace asked loudly.
 
 "As a matter of fact," the warlock said, "this is Master Magtheridon's command!"
 
@@ -60,19 +60,19 @@ Jace studied the scroll. It did carry considerable shadow magic, though he could
 
 "Not that I doubt Master Vorpil's power, but I can't believe it can dispel a fully grown black dragon's shape-shifting. Has it ever worked?"
 
-"Not yet," the cult warlock said. "But this is a shadow spell left by Deathwing for Chief Zuluhed. Didn't you know it existed?"
+"Not yet," the cult warlock said. "But this is a shadow spell left by Deathwing for Chieftain Zuluhed. Didn't you know it existed?"
 
-Though Sabellian's face showed no change in expression, the mention of Deathwing's name visibly unsettled him. Sora couldn't help shooting the Black Dragon Prince a glare — though she knew it wasn't really his fault.
+Though Sabellian's face showed no change in expression, the mention of Deathwing's name visibly unsettled him. Sola couldn't help shooting the Black Dragon Prince a glare — though she knew it wasn't really his fault.
 
-"Preventing black dragon infiltration into Dragonmaw fortress wasn't our responsibility," Jace said. "So we know very little about the spells Deathwing left behind. The void dragons who underwent the ascension ritual are more familiar with those. Besides, we thought that after Dragonmaw fortress fell to the Alliance, these things would have been plundered by the Alliance long ago. We didn't expect them to end up in Auchindoun."
+"Preventing black dragon infiltration into Dragonmaw Fortress wasn't our responsibility," Jace said. "So we know very little about the spells Deathwing left behind. The Netherwing dragonkin who underwent the ascension ritual are more familiar with those. Besides, we thought that after Dragonmaw Fortress fell to the Alliance, these things would have been plundered by the Alliance long ago. We didn't expect them to end up in Auchindoun."
 
-"The Instigator has always known how to gather treasures the Legion has forgotten," the cult warlock said. "He's always been good at that."
+"The Inciter has always known how to gather treasures the Legion has forgotten," the cult warlock said. "He's always been good at that."
 
-The warlock began chanting the long, difficult incantation. Even Needleflame grew uneasy. Sora furrowed her brow slightly.
+The warlock began chanting the long, difficult incantation. Even Needleflame grew uneasy. Sola furrowed her brow slightly.
 
 Sabellian appeared unmoved, his eyes fixed on the orc as he cast. But Jace could clearly feel dark magical fluctuations gathering around him.
 
-Damn, this was the real deal. While Vorpil's magic might not shake this Black Dragon Prince's transformation spell, it was a different story for Needleflame and Sora — let alone Jace's own transformation, which was extremely susceptible to magical disruption.
+Damn, this was the real deal. While Vorpil's magic might not shake this Black Dragon Prince's transformation spell, it was a different story for Needleflame and Sola — let alone Jace's own transformation, which was extremely susceptible to magical disruption.
 
 Jace pulled his hood down and simultaneously seized the emotion within this shadow magic that was trying to disrupt his transformed state. There was a distinct, soaring arrogance and destructive urge... He adjusted his own emotions, trying to drag the magic in another direction, to weaken or even nullify it...
 
@@ -90,9 +90,9 @@ With that push, Jace felt his muscles unnaturally regrow, bulking up his robe an
 
 "Get lost!" Needleflame shouted, shoving the warlock aside. The warlock nodded sheepishly and waved for them to pass, signaling those inside.
 
-Sabellian tugged his cloak with distaste and strode toward a doorway beneath a broken wall. Sora and Jace hurried to keep up. Under the watchful eyes of the warlock and other orc guards, they filed into the dark passage.
+Sabellian tugged his cloak with distaste and strode toward a doorway beneath a broken wall. Sola and Jace hurried to keep up. Under the watchful eyes of the warlock and other orc guards, they filed into the dark passage.
 
-"Thank you, Jace. That spell could have been trouble without you handling it." Sora leaned close and whispered. "I almost thought this mission was going to go wrong at the doorstep."
+"Thank you, Jace. That spell could have been trouble without you handling it." Sola leaned close and whispered. "I almost thought this mission was going to go wrong at the doorstep."
 
 "I had to do it," Jace said, letting out a small breath of relief.
 

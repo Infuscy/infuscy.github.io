@@ -22,7 +22,7 @@ Jace studied this elf who called herself Reyhidian. She was noticeably taller th
 
 Reyhidian laughed, as if she didn't believe that for a second. "Take me out and everything will become clear," she said.
 
-Grede looked at her. "Hold on a moment — do you know Das'mora?"
+Grede looked at her. "Hold on a moment — do you know Dasmora?"
 
 Reyhidian raised her eyes and fixed the dwarf with a stare for a moment. "What do you want with her?"
 
@@ -52,13 +52,13 @@ Maybe this elf simply didn't know about the ogres.
 
 Jace had a feeling this one was one of the prisoners — and the most powerful one at that. Which brought him back to that battle royale Grede had mentioned...
 
-But why did Detect Demons show nothing at all when he looked at her? Could she be a warlock imprisoned here? Was she Das'mora?
+But why did Sense Demons show nothing at all when he looked at her? Could she be a warlock imprisoned here? Was she Dasmora?
 
 After Reyhidian finished speaking, she set off toward the half-open stone door, each step looking like it cost her considerably, though she still fought to maintain her elegance.
 
 Jace exchanged glances with Grede, Vereesa, and Mosa. He knew they all felt the same thing — this elf was not as simple as she appeared.
 
-Back in the broad hall they'd been in before, Jace said, "Lady Reyhidian, once we get you out, we'd like you to help us find Das'mora."
+Back in the broad hall they'd been in before, Jace said, "Lady Reyhidian, once we get you out, we'd like you to help us find Dasmora."
 
 Reyhidian leaned against a pillar to catch her breath. The flickering light of the shadow braziers cast her silhouette in shifting shades, making her as statuesque as the sculptures on Eldre'Thalas's outer walls.
 
@@ -80,7 +80,7 @@ Reyhidian stared at Jace expressionlessly. After a moment, her lips trembled int
 
 With that, she turned and walked step by step toward the entrance of the passage. She had left Eldre'Thalas — that much was beyond doubt. A Highborne warlock who had left Eldre'Thalas, locked away at the very bottom of a demon prison...
 
-Jace looked at Vereesa and said quietly, "Check for magical traces, Wen."
+Jace looked at Vereesa and said quietly, "Check for magical traces, Vere."
 
 The ranger nodded, raised her right hand, and murmured an incantation. Reyhidian heard it and turned back to look at her, her expression seeming to shift.
 
@@ -88,11 +88,11 @@ The ranger nodded, raised her right hand, and murmured an incantation. Reyhidian
 
 The Reliquary's incantation for confirming magical traces — the ranger had recited it so many times these past few months that Jace felt like he was about to learn it himself. After she finished, Vereesa slowly opened her eyes and fixed her gaze on the Highborne before her.
 
-"You are Das'mora," she said.
+"You are Dasmora," she said.
 
 "What?" Reyhidian let out a dry laugh, as if this were some sort of absurd joke.
 
-"Oh, I see — you're looking for magical traces, aren't you? Fine. I killed Das'mora's minions, those abominations. My body, my very being is soaked in their demon blood. How could I not be tainted by her magical traces?"
+"Oh, I see — you're looking for magical traces, aren't you? Fine. I killed Dasmora's minions, those abominations. My body, my very being is soaked in their demon blood. How could I not be tainted by her magical traces?"
 
 "You need to stay here, Lady," Jace said. "Until I confirm your identity with the wardens guarding this prison."
 
@@ -104,7 +104,7 @@ Reyhidian turned and rapidly spoke an incantation. Just from the power in the sp
 
 Reyhidian straightened the collar of her rune-inscribed robe and looked at the arrow Vereesa already had nocked. "Fast. But not fast enough."
 
-She raised an eyebrow and smiled, heading toward the passage — only to see a dark shadow shift out from behind a pillar ahead. It was Dazhalmu!
+She raised an eyebrow and smiled, heading toward the passage — only to see a dark shadow shift out from behind a pillar ahead. It was Dazarm!
 
 The felhound let out a snarl and lunged. Reyhidian hastily loosed a volley of Arcane Missiles, but the felhound swallowed them in one bite...
 
@@ -114,7 +114,7 @@ The felhound shook free of Reyhidian and pounced again from the side. The weaken
 
 "Beast! Abomination!"
 
-Reyhidian's voice completely lost control as she howled in rage — and Jace realized with a shock that she was screaming in demonic tongue.
+Reyhidian's voice completely lost control as she howled in rage — and Jace realized with a shock that she was screaming in Demonic.
 
 The felhound bit hard into Reyhidian's face, tearing away a strip of skin. Jace watched, stunned, as beneath that strip of skin was exposed a bestial eye burning with fel energy.
 
@@ -122,6 +122,6 @@ The felhound bit hard into Reyhidian's face, tearing away a strip of skin. Jace 
 
 Her body rapidly swelled to three or four meters tall. Demon claws tore through the outer disguise entirely. Her muscular pair of wings spread into the air. Thick, curved horns thrust from her head. A pair of black hooves stepped forward and cracked the floor with a boom.
 
-An Eredun covered in complex fel tattoos. A demon of the Burning Legion.
+An Ered'ruin covered in complex fel tattoos. A demon of the Burning Legion.
 
-Those satyrs hadn't been trying to summon Das'mora's servants. They'd been trying to summon Das'mora herself.
+Those satyrs hadn't been trying to summon Dasmora's servants. They'd been trying to summon Dasmora herself.

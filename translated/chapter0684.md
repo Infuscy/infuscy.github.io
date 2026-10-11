@@ -2,13 +2,13 @@
 
 Time crept into December, and the cold grew fiercer by the day.
 
-Jace stood on the city wall in the mountain-lion-pelts cloak that had survived a little over a year, waiting for Grede. Today they would set out for Dalaran. Ever since he'd left his room, he'd kept reaching around to his back, his waist, his heart fluttering with anxiety every time.
+Jace stood on the city wall in the mountain-lion-pelt cloak that had survived a little over a year, waiting for Grede. Today they would set out for Dalaran. Ever since he'd left his room, he'd kept reaching around to his back, his waist, his heart fluttering with anxiety every time.
 
-Because now he had no staff, and no Song of the Blue Sky either. All he carried on his person was the purple demon bag, and the Blade of Eternal Darkness hung from his waist in a random dagger sheath.
+Because now he had no staff, and no Azuresong either. All he carried on his person was the purple demon bag, and the Blade of Eternal Darkness hung from his belt in a random dagger sheath.
 
 In the past, every time he went out the door he'd check to make sure he'd brought these crucial life-saving tools with him, so now that they were suddenly all gone, he couldn't settle his nerves.
 
-Aside from the imp, the demon bag held Galders's incantations that Sazeno had organized, plus the death knight report he'd only half-finished. Both of these needed to be completed on the Lordaeron continent... although he had a feeling he'd very likely push both of these most important tasks clean out of his mind along the way. But he'd try his best to remember, and do what he could.
+Aside from the imp, the demon bag held Zardeth's incantations that Sazeno had organized, plus the death knight report he'd only half-finished. Both of these needed to be completed on the Lordaeron continent... although he had a feeling he'd very likely push both of these most important tasks clean out of his mind along the way. But he'd try his best to remember, and do what he could.
 
 The thought of going home and seeing his parents warmed his heart. But the thought that he might run into Kel'Thuzad in Dalaran chilled it right back down again.
 
@@ -44,7 +44,7 @@ Once Jace was seated firmly, Gorjet plunged off the wall at Grede's command, sho
 
 The gryphon spun several times before stabilizing. When he looked down again, Stormwind lay spread out flat beneath them.
 
-It was the first time Jace had ever beheld Stormwind from this angle — a great... gray-whiteskirt-edged flatbread, covered all over in sesame-speckles. As they swept past the Cathedral of Light, the spire felt close enough to scrape his pants off.
+It was the first time Jace had ever beheld Stormwind from this angle — a great gray-white flatbread with a frilled edge, speckled all over with sesame. As they swept past the Cathedral of Light, the spire felt close enough to scrape his pants off.
 
 The patrolling gryphon riders shouted over, clearly unhappy with Grede's sudden maneuver. But before Grede could even say anything, Gorjet let out an unprovoked, shrieking cry that sent the other gryphons wobbling and fleeing into the distance, accompanied by the gryphon riders' curses.
 
@@ -60,9 +60,9 @@ Jace lowered his head and stared at that gate for a long time. Grede, seemingly 
 
 Not far off, several gryphon riders had noticed their presence and were slowly moving closer to escort them. Gorjet barked in displeasure, trying to scare off those golden gryphons, but the riders kept a safe distance and refused to leave.
 
-"We shouldn't have gotten this close to Ironforge," Grede muttered. "These annoying... Gorjet, don't pay them any mind. Let's move further away — over to that snow mountain."
+"We shouldn't have gotten this close to Ironforge," Grede muttered. "These annoying... Gorjet, don't pay them any mind. Let's move further away — over to that snowy mountain."
 
-Grede pointed at a high plateau on a distant snow mountain. The gryphon beneath them immediately accelerated and flew toward it. Soon the golden gryphons behind them shrank to dots one by one, until they couldn't be seen at all.
+Grede pointed at a high plateau on a distant snowy mountain. The gryphon beneath them immediately accelerated and flew toward it. Soon the golden gryphons behind them shrank to dots one by one, until they couldn't be seen at all.
 
 They landed near a pine forest at the foot of the snowfields. The two hopped off the gryphon. Grede rubbed his hands together and said, "Let's rest here a bit. Let our gray brother go out and have some fun, stretch his legs — after all, we've been flying a long while."
 
@@ -70,7 +70,9 @@ He shouted a few words in Dwarvish toward the forested slope. The gryphon excite
 
 Jace brushed the snow off himself, pulled his hood tight, and smiled. "Didn't you say you weren't going to let him run wild on Bronzebeard territory?"
 
-"What's this counted as running wild?" Grede said. "Besides, he's from Alterac. He likes places like this, Jace." Jace asked, "If the mountain goats here die, will the Bronzebeard dwarves be upset?"
+"How does this count as running wild?" Grede said. "Besides, he's from Alterac. He likes places like this, Jace."
+
+Jace asked, "If the mountain goats here die, will the Bronzebeard dwarves be upset?"
 
 "What mountain goats?" Grede looked around, then said, "I don't see any mountain goats. We'll just eat our own bread. Don't tell me you're craving Bronzebeard mountain goat? I've got to say, Jace, you're a greedy bastard."
 
@@ -80,17 +82,17 @@ When they passed Southshore, Jace and Grede had plotted the whole way, planning 
 
 This night they didn't rest, and flew straight over the Alterac Mountains. When morning came and they beheld those brilliant purple spires wreathed in clouds below — like something out of a fairy-tale castle — Gorjet was still full of energy, beating his wings hard as he bore down on them.
 
-Soon, two purple-robed mages wielding glowing staffs rode up on two small gryphons, shouting at them: "Land at Krasus Square! Go any further and you'll crash into the Violet Citadel!"
+Soon, two purple-robed mages wielding glowing staffs rode up on two small gryphons, shouting at them: "Land at Krasus' Landing! Go any further and you'll crash into the Violet Citadel!"
 
-Krasus Square?
+Krasus' Landing?
 
-Jace knew that in the game, Dalaran had a special place for players to land their flying mounts called Krasus Landing — but that was something that only appeared after Dalaran was destroyed and rebuilt into a floating city. Could there be a platform with a similar function here too? He didn't remember a place like this from his last visit.
+Jace knew that in the game, Dalaran had a special place for players to land their flying mounts called Krasus' Landing — but that was something that only appeared after Dalaran was destroyed and rebuilt into a floating city. Could there be a platform with a similar function here too? He didn't remember a place like this from his last visit.
 
 Guided by the two mages, they turned and flew toward the east side of Dalaran. Sure enough, behind a section of wall not far from the Violet Citadel, they spotted a white square enclosed by low purple walls.
 
-So this was Krasus Square? It looked much larger than in the game... Quite a few gryphons were taking off and landing here at the moment, and there were also a number of high elven dragonhawks circling at lower altitude. Grede finally landed beside a gryphon roost. When the other gryphons saw Gorjet approaching, they all grew restless.
+So this was Krasus' Landing? It looked much larger than in the game... Quite a few gryphons were taking off and landing here at the moment, and there were also a number of high elven dragonhawks circling at lower altitude. Grede finally landed beside a gryphon roost. When the other gryphons saw Gorjet approaching, they all grew restless.
 
-"This one's too big." The purple-robed Dalaran gryphon keeper hurried over, shouting up at Grede on the gryphon's back. "I need to find a special place for him to rest, dwarf sir. You'll have to come with him — I'm not confident I could command this beast without his master here."
+"This one's too big." The purple-robed Dalaran gryphon keeper hurried over, shouting up at Grede on the gryphon's back. "I need to find a special place for him to rest, master dwarf. You'll have to come with him — I'm not confident I could command this beast without his master here."
 
 Grede turned his head and said something, but the cries of the gryphons, the beating of wings, and the wind all blurred together into a cacophony. There was no way to make out what the person right next to you was saying.
 
@@ -102,7 +104,7 @@ Grede turned his head and said something, but the cries of the gryphons, the bea
 
 "Right," Grede shouted back. "I'm Grede Thunderfist, from Aerie Peak!"
 
-"Of Grede of Clan Thunderfist... very well."
+"Grede of Clan Thunderfist... very well."
 
 The keeper muttered as he wrote it down. The two of them dismounted the gryphon. He glanced at Jace's hand and saw that ring. "Are you a court mage of King Varian Wrynn? I received no notice of a royal mage's visit..."
 
@@ -111,18 +113,3 @@ Jace said, "I'm a member of the Stormwind court mage's office, but I'm only goin
 "Of course," Jace said. "This is my ring."
 
 "Archmage Antonidas said to inform him when you arrived." The keeper handed what he was holding to a young mage apprentice beside him, then said, "Wait here a moment, Archmage Sesso. I'll have someone go to the Violet Citadel at once."
-
-## Flags
-
-- **Song of the Blue Sky** (碧空之歌): The magical sword Jace no longer carries. Named weapon; rendering established in earlier chapters (also appears as "Song of the Azure Sky").
-- **Blade of Eternal Darkness** (无尽黑暗之刃): The dagger Jace now carries. Named weapon; rendering established in earlier chapters.
-- **Sazeno** (撒厄诺): The imp who organizes the incantations. From the glossary (Sazeno/Sazenilaz). Note: in chapter 683 the imp addresses Morophil as "Sathayde" (萨亚德), and chapter 688 confirms Sathayde is the demon Vereesa envies — i.e., Morophil (the succubus). So Sathayde appears to be another name for Morophil, not the imp. Flagged for name reconciliation.
-- **Dun Morogh** (丹莫罗): The dwarven region through which Ironforge's gate passes. Canonical.
-- **Ironforge** (铁炉堡): The dwarven capital, built into the mountains. Canonical.
-- **Grede Thunderfist** (格瑞德·雷拳): Grede's full name and clan. From the glossary (Thunderfist = 雷拳).
-- **Alterac Mountains** (奥特兰克山脉): Mountain range between Hillsbrad and Dalaran. From the glossary.
-- **Southshore** (南海镇): Coastal town south of the Alterac Mountains. Canonical.
-- **Krasus Square** (克拉苏斯广场): The gryphon-landing plaza in Dalaran, near the Violet Citadel. Named for Krasus (克拉苏斯). Not in the glossary; canonical-adjacent.
-- **Violet Citadel** (紫罗兰城堡): The seat of the Kirin Tor in Dalaran. Canonical.
-- **Dragonhawk** (龙鹰): High elven flying mount. Canonical.
-- **Archmage** (大法师): The Dalaran keeper addresses Jace as "Archmage Sesso" — a courtesy title, reflecting his court-mage status.

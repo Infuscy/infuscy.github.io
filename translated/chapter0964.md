@@ -8,13 +8,13 @@ Though Jace was sitting fairly close to the front, from here he was just about b
 
 Quite a few dwarves along the front edge had simply crowded up against the stone railing to watch the action in the arena, though some had already started arguing over spots. Jace hadn't come here to watch the fighting, so he had no intention of joining in and stirring up trouble.
 
-Ever since arriving at the Black Iron Arena over an hour ago, he'd been scanning the spectators for anyone carrying powerful shadow energy.
+Ever since arriving at the Dark Iron arena over an hour ago, he'd been scanning the spectators for anyone carrying powerful shadow energy.
 
 But searching this way in Shadowforge City was several degrees harder than searching in Stormwind or the surrounding towns. Under the rule of the Firelord Ragnaros, Shadowforge City was entirely a city woven from shadow and flame. The Dark Iron dwarves steeped in it for generations were the same — even their dark skin and glowing red eyes were the product of this curse.
 
 Of course, there were no shortage of humans and gnomes among the spectators, but the Dark Iron dwarves held an absolute majority, enough to muddy everything beyond recognition.
 
-"Begin already, Honored Adjudicator!"
+"Begin already, High Justice!"
 
 A dwarf upstairs shouted impatiently, but the white-bearded dwarf below paid him no mind.
 
@@ -24,11 +24,11 @@ The words had barely faded when the sound of metal scraping and clashing rose fr
 
 "Balreto Shadowsteel."
 
-"Griston, you'll scream and die in the flames — you and all of Shadowforge City, you'll come to no good..." the Dark Iron convict gritted his teeth. "The black dragons' fire will consume everything. I've seen it in the shadow and flame. Deathwing will come to Azeroth once more, and I'll welcome him on a road of glory paved with your blood and entrails..."
+"Grimstone, you'll scream and die in the flames — you and all of Shadowforge City, you'll come to no good..." the Dark Iron convict gritted his teeth. "The black dragons' fire will consume everything. I've seen it in the shadow and flame. Deathwing will come to Azeroth once more, and I'll welcome him on a road of glory paved with your blood and entrails..."
 
-"Silence, Balreto!" the Adjudicator's roar cut off his tirade. "Your noble family name is shamed by your betrayal. Your warrior bloodline has been stained by your folly and filthy words... I hereby sentence you, Balreto Shadowsteel, to death for the crimes of treason, murder, rape, and blasphemy. As a former citizen of Shadowforge City, you well know the punishment that awaits you — so offer yourself to the heretic god you've turned to, right here."
+"Silence, Balreto!" the High Justice's roar cut off his tirade. "Your noble family name is shamed by your betrayal. Your warrior bloodline has been stained by your folly and filthy words... I hereby sentence you, Balreto Shadowsteel, to death for the crimes of treason, murder, rape, and blasphemy. As a former citizen of Shadowforge City, you well know the punishment that awaits you — so offer yourself to the heretic god you've turned to, right here."
 
-The Dark Iron convict let out a cold laugh. The Adjudicator declared at full volume, "The Firelord will purify all things!"
+The Dark Iron convict let out a cold laugh. The High Justice declared at full volume, "The Firelord will purify all things!"
 
 "For the Firelord!"
 
@@ -36,67 +36,69 @@ The Dark Iron convict let out a cold laugh. The Adjudicator declared at full vol
 
 "He's gone mad."
 
-Amid the spectators' jeers, the two soldiers withdrew from the circular arena, leaving only the convict and the Adjudicator in the center. Then the iron gates around the arena burst open almost simultaneously, and from outside came several discordant cries — the calls of some unidentifiable strange beasts.
+Amid the spectators' jeers, the two soldiers withdrew from the circular arena, leaving only the convict and the High Justice in the center. Then the iron gates around the arena burst open almost simultaneously, and from outside came several discordant cries — the calls of some unidentifiable strange beasts.
 
 Sola leaned close to Jace and whispered, "I thought it would be prize fights for money. I didn't expect we'd be watching an execution."
 
 "This arena is called the Ring of Law for a reason," Jace said. "Quite a few people mentioned folks fighting in the arena here to earn money. I expect we came at the wrong time, or... let's wait a little longer."
 
-Sola nodded. Right then Jace saw red, six-legged lizards poking their heads out of the iron gates all around. Their backs were covered in enormous scales layered one atop another, and between the scales and on top of their heads grew clusters of obyst-like growths. Basilisks — probably a Blackrock Mountain subspecies, quite a different look from the basilisks Jace had seen in Tanaris, and a full size larger.
+Sola nodded. Right then Jace saw red, six-legged lizards poking their heads out of the iron gates all around. Their backs were covered in enormous scales layered one atop another, and between the scales and on top of their heads grew clusters of crystal-like growths. Basilisks — probably a Blackrock Mountain subspecies, quite a different look from the basilisks Jace had seen in Tanaris, and a full size larger.
 
 The convict Balreto picked up the battle axe at his feet. He clearly wasn't planning to sit still and wait for death — he intended to fight to the very end.
 
-And what about that Adjudicator standing across from him?
+And what about that High Justice standing across from him?
 
-Jace still remembered this Adjudicator Griston. In the game, he was the one who sentenced the player to death, then let wave after wave of monsters charge out of the iron gates to swarm the player's party.
+Jace still remembered this High Justice Grimstone. In the game, he was the one who sentenced the player to death, then let wave after wave of monsters charge out of the iron gates to swarm the player's party.
 
-But he remembered Griston leaving after pronouncing the sentence. Why was he still standing there so openly...?
+But he remembered Grimstone leaving after pronouncing the sentence. Why was he still standing there so openly...?
 
-Jace was still considering this when the Adjudicator suddenly raised his hands. After chanting something, he was suddenly wreathed in a violent blaze of fire. When the flames dissipated, he had vanished.
+Jace was still considering this when the High Justice suddenly raised his hands. After chanting something, he was suddenly wreathed in a violent blaze of fire. When the flames dissipated, he had vanished.
 
-At the same moment a burst of flame shot up from the opposite gallery, and the Adjudicator stepped out of it, then looked down below. What...?
+At the same moment a burst of flame shot up from the opposite gallery, and the High Justice stepped out of it, then looked down below. What...?
 
 Jace's eyes widened. Was that a teleportation spell?
 
-If it was a teleport, teleporting this short distance was nothing remarkable. At the Wizard Sanctum, nearly every formal mage — and even some apprentice mages — could manage it, since the distance was only marginally farther than a Blink.
+If it was a teleport, teleporting this short distance was nothing remarkable. At the Wizard's Sanctum, nearly every full mage — and even some apprentice mages — could manage it, since the distance was only marginally farther than a Blink.
 
 But Jace hadn't sensed the slightest involvement of the Arcane at all. Had he accomplished this teleport purely with the help of fire elements? Was this an "elemental teleportation spell"?
 
-Master Marin had always been unwilling to teach Jace any teleportation magic at all, including Blink, because he felt that for someone without exceptional talent, switching schools was an dangerously risky field.
+Master Malin had always been unwilling to teach Jace any teleportation magic at all, including Blink, because he felt that for someone without exceptional talent, switching schools was a dangerously risky business.
 
 After all, high-level magic related to transmutation, time distortion, and spatial transformation meant that a single mistake wouldn't just cost a few lives — it could lead to a terrible disaster beyond anyone's imagination.
 
 But manipulating fire elements?
 
-Marin had said long ago that Jace had considerable talent for manipulating fire. Add to that the Dragonqueen's blessing, which gave him even greater fire affinity, and that he'd now established a sufficiently close connection with fire elements — couldn't he learn this fire teleportation spell?
+Malin had said long ago that Jace had considerable talent for manipulating fire. Add to that the Dragonqueen's blessing, which gave him even greater fire affinity, and that he'd now established a sufficiently close connection with fire elements — couldn't he learn this fire teleportation spell?
 
-"Did you see that spell he just cast?" Jace asked Sola and Moruphil beside him.
+"Did you see that spell he just cast?" Jace asked Sola and Morophil beside him.
 
-"I saw it," Sola whispered. "Though that Adjudicator claims worshipping the black dragon is heresy... using the power of the elemental planes to cross between realms is exactly the sort of thing the ancient black dragons love to show off."
+"I saw it," Sola whispered. "Though that High Justice claims worshipping the black dragon is heresy... using the power of the elemental planes to cross between realms is exactly the sort of thing the ancient black dragons love to show off."
 
-"Are you sure that was drawing on the power of the elemental planes, and not an arcane spell just 'decorated' with fire elements?" Moruphil said. "I know many demons love doing that. They use shadow portals in the Twisting Nether to travel between worlds, but they like to summon fel fire to ignite the portal at the same time, making it look like they teleported using fel flames... It's all just to flaunt their demonic blood and make themselves look more impressive. There's no practical effect at all, and it often backfires."
+"Are you sure that was drawing on the power of the elemental planes, and not an arcane spell just 'decorated' with fire elements?" Morophil said. "I know many demons love doing that. They use shadow portals in the Twisting Nether to travel between worlds, but they like to summon fel fire to ignite the portal at the same time, making it look like they teleported using fel flames... It's all just to flaunt their demonic blood and make themselves look more impressive. There's no practical effect at all, and it often backfires."
 
-Hearing Moruphil say that, Sola hesitated too. "So you mean this dwarf used fire elements to mask the fact that it was a teleport? That would make sense — after all, everyone here worships the Firelord Ragnaros. It wouldn't be out of the question for them to make a ritualistic gesture out of faith."
+Hearing Morophil say that, Sola hesitated too. "So you mean this dwarf used fire elements to mask the fact that it was a teleport? That would make sense — after all, everyone here worships the Firelord Ragnaros. It wouldn't be out of the question for them to make a ritualistic gesture out of faith."
 
-"But I didn't sense any arcane energy involved," Jace said. Moruphil tilted her head. "Master, I'm not trying to say..."
+"But I didn't sense any arcane energy involved," Jace said.
 
-"At least I spent some time at the Wizard Sanctum, and I've seen Blink more than once," Jace said.
+Morophil tilted her head. "Master, I'm not trying to say..."
 
-"I agree with the master," Sazeno said from Moruphil's shoulder. "I didn't sense any arcane energy involved in that teleport either. There are quite a few dwarf mages on this gallery, but that Adjudicator dwarf is definitely not one of them. He's a pyromancer, master."
+"At least I spent some time at the Wizard's Sanctum, and I've seen Blink more than once," Jace said.
 
-Imps had always had high sensitivity to the Arcane and to mages. Once Sazeno said that, Moruphil had nothing more to argue — she just gave it a light roll of her eyes.
+"I agree with the master," Sazeno said from Morophil's shoulder. "I didn't sense any arcane energy involved in that teleport either. There are quite a few dwarf mages on this gallery, but that High Justice dwarf is definitely not one of them. He's a pyromancer, master."
 
-And its words gave Jace a measure of confidence. Just as Ruig of the Thorium Brotherhood had mentioned, the pyromancers of Shadowforge City truly did possess some rather absurd methods of manipulating fire.
+Imps had always had high sensitivity to the Arcane and to mages. Once Sazeno said that, Morophil had nothing more to argue — she just gave it a light roll of her eyes.
+
+And its words gave Jace a measure of confidence. Just as Ruige of the Thorium Brotherhood had mentioned, the pyromancers of Shadowforge City truly did possess some rather absurd methods of manipulating fire.
 
 If the imp hadn't misread it, and this really was a teleportation spell connected to the elemental planes rather than a simple fire-decorated teleport, then didn't that mean he had an even better chance of mastering it himself?
 
 Thinking this, his fingers couldn't help but drum on the armrest of his seat, and his mind grew more and more agitated, itching to learn and master this incantation right then and there.
 
-But seeing Adjudicator Griston's full head of white beard, he felt somewhat discouraged.
+But seeing High Justice Grimstone's full head of white beard, he felt somewhat discouraged.
 
 The Dark Iron dwarves had received the Firelord's blessing — their fire affinity was beyond question. You could tell just from the fact that most of the mages in Shadowforge City were fire mages.
 
-And a dwarf's lifespan normally exceeded a hundred and fifty years; those past two hundred weren't rare either. Judging by this Adjudicator's aged appearance, he was probably at least two hundred, possibly nearing three hundred. Thinking that far, Jace even felt the fellow's accent and cadence were a bit like Sola's — he might well be an old-timer from the War of the Three Hammers.
+And a dwarf's lifespan normally exceeded a hundred and fifty years; those past two hundred weren't rare either. Judging by this High Justice's aged appearance, he was probably at least two hundred, possibly nearing three hundred. Thinking that far, Jace even felt the fellow's accent and cadence were a bit like Sola's — he might well be an old-timer from the War of the Three Hammers.
 
 And for a pyromancer like that, teleporting even this short distance required chanting elemental speech for that long before he could pull it off. If someone like Jace tried to learn it, who knew how long it would take to achieve even a modest grasp?
 
@@ -110,17 +112,17 @@ When his attention returned to the arena below, the ground was already covered i
 
 "A few basilisks against a Shadowsteel warrior?"
 
-"This is an insult to all of Shadowforge City. Let him face the true judgment of Ragnaros, Adjudicator!"
+"This is an insult to all of Shadowforge City. Let him face the true judgment of Ragnaros, High Justice!"
 
-By now even Adjudicator Griston couldn't ignore the crowd's fury. He raised his hands for quiet and said, "All citizens familiar with the Ring of Law know this is only the first round of trials. Children of Thaurissan, I ask you to remain calm! For the battles to come will be even more spectacular. The ancient laws of the Dark Iron will be carried out!"
+By now even High Justice Grimstone couldn't ignore the crowd's fury. He raised his hands for quiet and said, "All citizens familiar with the Ring of Law know this is only the first round of trials. Children of Thaurissan, I ask you to remain calm! For the battles to come will be even more spectacular. The ancient laws of the Dark Iron will be carried out!"
 
 He looked down into the arena and bellowed, "Open the gates!"
 
-"The true Lord of Flames will see me through every trial, Griston!" the prisoner Balreto roared at the top of his lungs.
+"The true Lord of Flames will see me through every trial, Grimstone!" the prisoner Balreto roared at the top of his lungs.
 
 Though he'd slaughtered seven basilisks and was covered head to toe in gleaming black blood, with several claw marks across his face, he was standing atop the basilisk corpses as if it had cost him barely any effort at all, swaggering for all to see.
 
-The iron gates opened again — but only this time there was just one tunnel, and from within came the shrieking of beasts.
+The iron gates opened again — but this time only a single tunnel, and from within came the shrieking of beasts.
 
 Two enormous dark-blue raptors came shoving and jostling their way out of it, their claws scraping across the stone floor and walls in a series of unpleasant noises.
 
@@ -146,14 +148,14 @@ Even Grede himself, if he went down there, probably wouldn't be much stronger wi
 
 The dwarf wiped the raptor blood from his face, licked it off his fingers, and raised both hands, shouting at full volume, "Glory to Lord Victor Nefarius!"
 
-That single shout silenced more than half the jeering in the spectators' gallery. The robed pyromancer looked toward Griston — Griston's expression remained calm.
+That single shout silenced more than half the jeering in the spectators' gallery. The robed pyromancer looked toward Grimstone — Grimstone's expression remained calm.
 
 "Begin the third round," he said.
 
 The arena had grown considerably quieter. The sound of the iron gates opening now stood out sharply.
 
-Moruphil suddenly let out a cold laugh. Jace glanced at her. "What is it?"
+Morophil suddenly let out a cold laugh. Jace glanced at her. "What is it?"
 
-Before Moruphil could answer, Griston said, "Witness the darkest of Shadowforge City, Balreto. Let us welcome the Warbringer who personally beheaded a whelp during the Battle of Dracodar... Samalelas!"
+Before Morophil could answer, Grimstone said, "Witness the darkest of Shadowforge City, Balreto. Let us welcome the Warbringer who personally beheaded a drake during the Battle of Draco'dar... Samalelas!"
 
-That name — was it in demonic?
+That name — was it in Demonic?

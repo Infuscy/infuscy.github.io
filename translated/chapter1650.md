@@ -2,27 +2,27 @@
 
 Vaelastrasz led Jace, Vereesa, and Needleflame to the end of the passage. It was a tower that had collapsed who knew how many years ago — or rather, a stairwell. It might have already been like this before the Dark Portal even opened.
 
-Morofil was waiting by a broken window nearby. When Vereesa saw her, she said, "Glad to see you're all right, Morofil."
+Morophil was waiting by a broken window nearby. When Vereesa saw her, she said, "Glad to see you're all right, Morophil."
 
 The succubus offered a polite smile. Even without deliberately sensing Vereesa's emotions, Jace could tell how hollow that greeting was.
 
-"Fill Khadgar in on our situation, Morofil," Jace said. "You need to be our liaison with the Alliance attacking the main gate. Tell them our plan — the whelps and young dragons, the shadow egg. And most importantly, find Grede among the Dark Iron dwarves. Have him bring the dragon blood pendant to Varian."
+"Fill Khadgar in on our situation, Morophil," Jace said. "You need to be our liaison with the Alliance attacking the main gate. Tell them our plan — the whelps and young dragons, the shadow egg. And most importantly, find Grede among the Dark Iron dwarves. Have him bring the dragon blood pendant to Varian."
 
-"I am certainly capable of that task. But I feel I could do far more than play messenger, Master." Morofil glanced at the ranger. "Or do you two need some private time after your reunion?"
+"I am certainly capable of that task. But I feel I could do far more than play messenger, Master." Morophil glanced at the ranger. "Or do you two need some private time after your reunion?"
 
-"Honestly, I don't think your presence would affect their alone time at all, Sayaad!" Sazeno jeered.
+"Honestly, I don't think your presence would affect their alone time at all, sayaad!" Sazeno jeered.
 
-"Then why not send him?" Morofil pointed at the imp.
+"Then why not send him?" Morophil pointed at the imp.
 
 "Simple — I can't fly!" The imp said smugly. "Look at all those chasms between here and there. One look down and I'd feel my homeland beckoning!"
 
-"That's true." Vereesa put on a sweet smile. "You're the only one who can do this, Morofil. Invisibility, stealth, and best of all, you come with your own wings."
+"That's true." Vereesa put on a sweet smile. "You're the only one who can do this, Morophil. Invisibility, stealth, and best of all, you come with your own wings."
 
-"With everyone showering me with such unexpected praise, I can hardly refuse..." Morofil said. "As you wish, darling."
+"With everyone showering me with such unexpected praise, I can hardly refuse..." Morophil said. "As you wish, darling."
 
 The demon blew Jace a kiss, then dissolved into a mist and vanished behind them. Vereesa rolled her eyes and quickened her pace.
 
-Vaelastrasz cleared his throat and muttered to Jace, "This sort of thing isn't easy even for Queen Alexstrasza, especially when you know that Sayaad demons and Quel'dorei are both more prone to jealousy than we are."
+Vaelastrasz cleared his throat and muttered to Jace, "This sort of thing isn't easy even for Queen Alexstrasza, especially when you know that sayaad demons and Quel'dorei are both more prone to jealousy than we are."
 
 Jace studied the aged stonework of the spiral stairs and muttered back, "Maybe things would be easier if I were six hundred feet long."
 
@@ -68,11 +68,11 @@ Soon, Jace noticed where they had come from. Several troll hunters hurried acros
 
 Once they were gone, Vereesa let out a breath. Vaelastrasz pointed in Needleflame's direction, and they all moved off that way quickly.
 
-"Troll halitosis," the red dragon said as they walked. "That's what gave us away, Lady Vereesa."
+"Troll halitosis," the red dragon said as they walked. "That's what you dusted us with, Lady Vereesa."
 
 "That's right." Vereesa nodded with some pride. Jace tugged at his collar and said nothing, just kept walking.
 
-Needleflame, at the front, had frozen. She was staring at something in the dark ahead, mixing draconic and Common in a way that made neither language coherent.
+Needleflame, at the front, had frozen. She was staring at something in the dark ahead, mixing Draconic and Common in a way that made neither language coherent.
 
 Jace followed her gaze. Between the dark walls and ruined rubble, there were white, web-like things everywhere. The indistinct orc and ogre shouts from further away seemed to mix with some scratching sound that made the skin crawl.
 
@@ -82,7 +82,7 @@ Back in Shadowforge City, Jace had heard Dark Iron dwarves lament more than once
 
 "Do we have to go through here?" Needleflame asked.
 
-"It's the most direct route to where Vim'salak guards the shadow egg," Vaelastrasz said. "Neither orcs nor trolls want to set foot here. There's no safer or easier passage."
+"It's the most direct route to where Wyrmthalak guards the shadow egg," Vaelastrasz said. "Neither orcs nor trolls want to set foot here. There's no safer or easier passage."
 
 "But there must be a reason the orcs and trolls don't come here, right?" Vereesa asked.
 
@@ -96,11 +96,11 @@ Jace was a little uneasy, but the red dragon was a master of life. No reason to 
 
 And so the red dragon led them over the rubble into a dark space formed by a collapsed wall propped up against the mountainside. Everywhere was the stench of rot. Fresh webs, old webs, dusty webs — layer upon layer, thicker and thicker. The scratching of insect legs on stone grew more frequent from all directions.
 
-Everyone knew that countless hunters could be lurking in the darkness, ready to strike. But they could not see a single trace of them. The masters of this place had chosen to avoid the intruders. They were giving Vaelastrasz face.
+Everyone knew that countless hunters could be lurking in the darkness, ready to strike. But they could not see a single trace of them. The masters of this place had chosen to avoid the intruders. They were extending Vaelastrasz a courtesy.
 
 Still, it was enough to make Needleflame's eyes dart around wildly. Even her little black face had gone pale.
 
-"So even a Blackwing dragon is afraid of something?" The red dragon chuckled. His attitude was not at all befitting someone addressing a junior a thousand years his junior. They really seized every chance to mock black dragons, even the little ones.
+"So even a Blackwing dragon is afraid of something?" The red dragon chuckled. His attitude was not at all befitting someone speaking to a youngster a thousand years his junior. They really seized every chance to mock black dragons, even the little ones.
 
 "Well, back in Draenor..."
 

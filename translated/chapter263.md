@@ -2,21 +2,23 @@
 
 Humans and Dark Iron dwarves hadn't reached the point of mortal enmity, but relations were generally cold to hostile. If someone found out he was hiding Dark Iron dwarf belongings, it wouldn't look good.
 
-Arriving at the Slaughtered Lamb, Jagin was sitting at a table rifling through something. He'd grown quite a bit of beard lately and looked a decade older.
+Arriving at the Slaughtered Lamb, Gakin was sitting at a table rifling through something. He'd grown quite a bit of beard lately and looked a decade older.
 
 The table was piled with all sorts of books, and even some strange objects Jace had never seen before — branches, bird claws, and so on. Probably ritual implements and casting materials scavenged from who-knows-where.
 
-These things were sorted and arranged neatly, and Jagin seemed to be picking something out from among them.
+These things were sorted and arranged neatly, and Gakin seemed to be picking something out from among them.
 
-Hearing footsteps, he glanced up, and the moment he saw Jace he said, "Jace Sesso... sorry I haven't come looking for you since you got back. I've known you this long and I don't even know where you live. You should give your address to Tharle Mor — otherwise if something comes up in the circle, we've got no way to reach you."
+Hearing footsteps, he glanced up, and the moment he saw Jace he said, "Jace Sesso... sorry I haven't come looking for you since you got back. I've known you this long and I don't even know where you live. You should give your address to Jarel Moor — otherwise if something comes up in the circle, we've got no way to reach you."
 
 "All right, I'll stop by and tell him on my way out," Jace said.
 
-Jagin said, "Galders told me he taught you that spell. Did you try it when you got back? I've been obsessed with this thing lately... I'm sure it's something special."
+Gakin said, "Zardeth told me he taught you that spell. Did you try it when you got back? I've been obsessed with this thing lately... I'm sure it's something special."
 
 "I've made some progress," Jace said. "I'll give Ursula the things first, then come talk to you."
 
-"Excellent... I knew it, I knew it," Jagin said. "I'll wait for you here." Jace planned to tell him about the spell part, but hold back on the matter of sacrificing souls for the time being — he'd bring it up later.
+"Excellent... I knew it, I knew it," Gakin said. "I'll wait for you here."
+
+Jace planned to tell him about the spell part, but hold back on the matter of sacrificing souls for the time being — he'd bring it up later.
 
 If he laid everything out too clearly and had this much success in such a short time, it might draw suspicion.
 
@@ -28,7 +30,7 @@ Jace coughed from the doorway. She looked up, and the moment she saw Jace's face
 
 Jace held out the box. "Dark Iron dwarf bullets, Ursula. You'll have to figure out how to dismantle them and extract the gunpowder yourself — I won't waste my time on that."
 
-"Real Dark Iron dwarf bullets?" Ursula opened the box in surprise, picked up a loose bullet and sniffed it. "I can't be sure... but it does have a slightly different smell from the bullets in the Dwarf District. You're certain what you picked up was Dark Iron dwarf supplies?"
+"Real Dark Iron dwarf bullets?" Ursula opened the box in surprise, picked up a loose bullet and sniffed it. "I can't be sure... but it does have a slightly different smell from the bullets in the Dwarven District. You're certain what you picked up was Dark Iron dwarf supplies?"
 
 "I didn't pick them up." Jace raised an eyebrow. "I took them off a living, breathing Dark Iron dwarf."
 
@@ -40,7 +42,7 @@ Jace held out the box. "Dark Iron dwarf bullets, Ursula. You'll have to figure o
 
 "Huh?" Jace caught up to her. "We're talking about the reward now? I thought you were going to give me free potions for life?"
 
-"Sigh." Ursula set the box on the counter and sighed. "I just didn't expect you to produce results so soon. I thought it'd drag on for months. You're not expecting me to give you free potions for the rest of your life, are you? One day if you ask me for an Elixir of Intellect or a Giant Elixir, should I just hand it out for free too? Go bankrupt over a box of bullets..."
+"Sigh." Ursula set the box on the counter and sighed. "I just didn't expect you to produce results so soon. I thought it'd drag on for months. You're not expecting me to give you free potions for the rest of your life, are you? One day if you ask me for an Elixir of Intellect or an Elixir of Giants, should I just hand it out for free too? Go bankrupt over a box of bullets..."
 
 "Of course not," Jace said. "All right, that is a bit unrealistic. Really, I just want to grab a mana potion or two from you when I need them."
 
@@ -96,69 +98,56 @@ Ursula looked him up and down. "Got a date?"
 
 "Rub it on thick. If you've dunked yourself in a corpse's bath, just stab yourself and save everyone the trouble..."
 
-"Understood." Jace returned to the main hall, and Jagin practically stood up the moment he heard footsteps.
+"Understood."
 
-"Galders and I have been stepping up our research too, Jace. We've been discussing trying some new casting materials to see if we can get some variation, so we're eager for every bit of new progress right now."
+Jace returned to the main hall, and Gakin practically stood up the moment he heard footsteps.
+
+"Zardeth and I have been stepping up our research too, Jace. We've been discussing trying some new casting materials to see if we can get some variation, so we're eager for every bit of new progress right now."
 
 "I feel like there's still some distance to go before a successful cast, but I've found that the spell itself seems to have some problems," Jace said.
 
-"Come inside and talk." Jagin led Jace to his room, pulled out a bound booklet, turned to a page with the spell, and handed it to Jace. "Where do you think the problem is?"
+"Come inside and talk." Gakin led Jace to his room, pulled out a bound booklet, turned to a page with the spell, and handed it to Jace. "Where do you think the problem is?"
 
-"I've made several attempts, and I also read a few books on demonic languages in the Wizard Sanctum's library." Jace pointed to the first half of the spell's text. "This sentence appears to be a common preamble — it's stating that the following sentence is a spell, but the sentence itself isn't part of the incantation."
+"I've made several attempts, and I also read a few books on demonic languages in the Wizard's Sanctum's library." Jace pointed to the first half of the spell's text. "This sentence appears to be a common preamble — it's stating that the following sentence is a spell, but the sentence itself isn't part of the incantation."
 
-"Damn it." Jagin said, "I found absolutely nothing about this in the university library. Those mages really do keep us ordinary people on a tight leash."
+"Damn it." Gakin said, "I found absolutely nothing about this in the university library. Those mages really do keep us ordinary people on a tight leash."
 
 "Probably because magic isn't as hard to master as most people imagine," Jace said.
 
-"Exactly right." Jagin said, "Those mages deliberately raise the bar just to maintain their inflated status. Tell me — is there a day when we could build a warlock's tower in Stormwind just like the Wizard Sanctum?"
+"Exactly right." Gakin said, "Those mages deliberately raise the bar just to maintain their inflated status. Tell me — is there a day when we could build a warlock's tower in Stormwind just like the Wizard's Sanctum?"
 
 "Maybe," Jace said. "After we find a way to control the Shadow, the Alliance will surely be quick to accept us members with new power."
 
-"Control the Shadow?" Jagin shook his head with a bitter laugh. "You can't control the Shadow, Jace."
+"Control the Shadow?" Gakin shook his head with a bitter laugh. "You can't control the Shadow, Jace."
 
 With that kind of thinking, a warlock's tower was a pipe dream too, Jace thought to himself.
 
-Jagin looked at the rest of the spell's text. "Then what about the lines after? Since this impossibly long incantation has problems in one place, I imagine other parts aren't quite right either. I've always felt that way, especially these last two lines..."
+Gakin looked at the rest of the spell's text. "Then what about the lines after? Since this impossibly long incantation has problems in one place, I imagine other parts aren't quite right either. I've always felt that way, especially these last two lines..."
 
 "I'm not as certain as I was about the first line," Jace said, "but the last line probably isn't part of the incantation either, because when I try to cast using only the middle section... the feeling of channeling mana is stronger."
 
-"Want to try it here?" Jagin asked.
+"Want to try it here?" Gakin asked.
 
 "Try it?" Jace said. "I haven't succeeded either."
 
 "I haven't even seen you attempt this spell, Jace. Maybe your casting process will give me some inspiration."
 
-Jace nodded and followed Jagin to the practice room.
+Jace nodded and followed Gakin to the practice room.
 
 The circle on the ground seemed to have changed again, but at least it wasn't a sacrifice circle — otherwise if he stood in the middle and chanted, he might just send himself off.
 
-He glanced at Jagin, walked into the circle, and began to chant.
+He glanced at Gakin, walked into the circle, and began to chant.
 
-During the incantation, he felt something similar to when he summoned Morophil at home — that taste of connection to the Void — and Jagin's expression changed too. Of course, without the lamb, without the sacrifice of a soul, he felt his casting was always lacking something. And because he wasn't holding that shadow staff, the mana intensity fell far short as well.
+During the incantation, he felt something similar to when he summoned Morophil at home — that taste of connection to the Void — and Gakin's expression changed too. Of course, without the lamb, without the sacrifice of a soul, he felt his casting was always lacking something. And because he wasn't holding that shadow staff, the mana intensity fell far short as well.
 
 When he finished casting, he instinctively glanced behind him to make sure he hadn't somehow summoned a succubus out of nowhere.
 
-He caught his breath, putting on an appearance of having overexerted himself, and Jagin helped him into a wooden chair nearby.
+He caught his breath, putting on an appearance of having overexerted himself, and Gakin helped him into a wooden chair nearby.
 
 "That's about how it goes," Jace said with a swallow.
 
-Jagin said, "It's grueling, isn't it? But I can feel it, Jace... your path is definitely the right one. I'll put the spell revisions into mine and Galders's log. Damn it, I feel like the two of us have been wasting too much time — without you we'd just be headless flies buzzing around in the dark."
+Gakin said, "It's grueling, isn't it? But I can feel it, Jace... your path is definitely the right one. I'll put the spell revisions into mine and Zardeth's log. Damn it, I feel like the two of us have been wasting too much time — without you we'd just be running around like headless chickens in the dark."
 
-"Without the two of you I never would have gotten this spell in the first place, Jagin. Good luck with your testing — I'm looking forward to the final results too," Jace said.
+"Without the two of you I never would have gotten this spell in the first place, Gakin. Good luck with your testing — I'm looking forward to the final results too," Jace said.
 
-"I'll be the first to let you know once we have results." Jagin gripped the paper with the spell tightly.
-
-## Flags
-
-- **已宰的羔羊** — The Slaughtered Lamb, per glossary (secret warlock tavern).
-- **加金** — Jagin / Gajin, per glossary (warlock).
-- **加尔德斯** — Galders, per glossary (warlock).
-- **厄苏拉** — Ursula, per glossary (alchemist/warlock at the Slaughtered Lamb).
-- **净化药剂** — Purification Potion (净化药剂). Ursula's anti-odor potion.
-- **沸血花** — Bloodboil Flower (沸血花). Poisonous plant from northern Lordaeron; not in glossary.
-- **札雷·莫尔** — Tharle Mor, per glossary (bartender gatekeeper).
-- **法力药水** — mana potion.
-- **智慧合剂** — Elixir of Intellect (智慧合剂).
-- **巨人合剂** — Giant Elixir (巨人合剂).
-- Chapter title 咒语的进展 = "Progress on the Spell" — Jace and Jagin's work refining the succubus-summoning incantation.
-- POV: third person. Jagin's obsessive, slightly manic scholar register preserved; Ursula's dry, no-nonsense tone kept.
+"I'll be the first to let you know once we have results." Gakin gripped the paper with the spell tightly.

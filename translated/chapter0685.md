@@ -1,8 +1,8 @@
 ## Chapter 685: The Violet Citadel
 
-Last time he'd stayed in Dalaran for a while, but the closest Jace had come to the Violet Citadel was the Orcish-language conference hall.
+Last time he'd stayed in Dalaran for a while, but the closest Jace had come to the Violet Citadel was the Orcish symposium hall.
 
-This time, standing before the statue fountain in the small square in front of the citadel, Jace glanced at that hall again, thinking of how Kafal Mingwing had stood guard there last time, and Kel'Thuzad had been waiting for him inside.
+This time, standing before the statue fountain in the small square in front of the citadel, Jace glanced at that hall again, thinking of how Kael'fal Brightwing had stood guard there last time, and Kel'Thuzad had been waiting for him inside.
 
 He wondered whether Kel'Thuzad was in the Violet Citadel at this moment.
 
@@ -20,7 +20,7 @@ Even just the arcane-patterned tablecloth spread across it made Jace feel like i
 
 A floating magic lamp lit the whole room with a somewhat dreamlike glow. Jace felt a study like this ought to be a bit brighter, but perhaps the Kirin Tor mages just loved that mysterious atmosphere.
 
-He eyed the room, thinking he could use it as a reference for the layout of things — to prepare the study in his future mage tower. Just then, the mage leading him said, "The court mage of the Stormwind Kingdom, Jace Sesso, has arrived, Archmage Antonidas."
+He eyed the room, thinking he could use it as a reference for the layout of things — to prepare the study in his future mage tower. Just then, the mage leading him said, "The court mage of the Kingdom of Stormwind, Jace Sesso, has arrived, Archmage Antonidas."
 
 The moment he spoke, the coat rack behind the desk actually moved.
 
@@ -38,7 +38,7 @@ Last time he'd come to Dalaran, Jace never would have dreamed he'd get to meet t
 
 "Yes, Archmage Antonidas."
 
-After Jace sat down, Antonidas straightened his blue robe and slowly sat. "Master Biso Eshad — do you still remember him?"
+After Jace sat down, Antonidas straightened his blue robe and slowly sat. "Master Bethor Iceshard — do you still remember him?"
 
 "I remember, Master," Jace said.
 
@@ -64,27 +64,10 @@ From that point on, he'd hidden in the deepest corners of the world, waiting for
 
 By then, countless forces loyal to the Old Gods — including the remnants of the Black Dragonflight, the Twilight's Hammer cultists, the elementals, even the insectoid aqir, the mad Old God cultists — had all seized the chance to emerge into the sunlight and wreak havoc everywhere, nearly bringing about the end of the world.
 
-Deathwing dying in the Barthor Mountains meant none of that would come to pass.
+Deathwing dying in the Batol Mountains meant none of that would come to pass.
 
 Antonidas said, "Compared to the other dragonflights, the Black Dragonflight has always been the most evil and savage — and Deathwing is the source of all that evil and savagery. I know you were here in Dalaran when the black dragons raided it, fighting alongside the Farstriders against the death knight, so you should understand: when the Horde invaded Azeroth, the black dragons firmly stood at the side of those otherworldly enemies, as though their hatred of this world could bridge every prejudice and distance."
 
 "So it's only natural that the Dragonqueen would want me to restore your name — that was what the Kirin Tor promised from the very beginning. And I intend to invite you to come to Dalaran to study arcane magic. Would you be interested?"
 
 "Forgive me, Master," Jace said. "King Varian hopes I can give him more counsel on shadow magic in Stormwind. Though I've always longed to come to Dalaran to study... let me think it over."
-
-## Flags
-
-- **The Violet Citadel** (紫罗兰城堡): The seat of the Kirin Tor in Dalaran. Canonical.
-- **Antonidas** (安东尼达斯): Archmage and leader of the Kirin Tor. From the glossary. Canonical.
-- **Kel'Thuzad** (克尔苏加德): The archmage Jace suspects is still in the citadel. Canonical — later a founding member of the Cult of the Damned and a lich in the Scourge.
-- **Kafal Mingwing** (凯法尔·明翼): The Farstrider who guarded the Orcish conference hall on Jace's last visit. Not in the glossary; rendering established in earlier chapters.
-- **Biso Eshad** (比索·埃斯沙德): The mage Antonidas sent (on a prior occasion). Not in the glossary; rendering tentative.
-- **Jaina Proudmoore** (吉安娜·普罗德摩尔): Antonidas's student. Canonical.
-- **Arthas** (阿尔萨斯): Canonical — by the time of the Scourge invasion he is a death knight who slays Antonidas.
-- **The Demon Soul** (恶魔之魂): The artifact that enslaved the dragons' power. From the glossary.
-- **The Barthor Mountains** (巴托山脉): Where Deathwing falls in this altered timeline. Not in the glossary; rendering tentative (possibly a variant of a canonical range).
-- **Old Gods** (上古之神): The ancient dark entities (N'Zoth, etc.). Canonical.
-- **Twilight's Hammer** (暮光教徒): The cult serving the Old Gods. Canonical.
-- **Aqir** (虫族): The ancient insectoid race serving the Old Gods. Canonical.
-- **Skybreaker's Song / staff**: Not directly referenced; Jace's lack of his former weapons is the subtext of his unease earlier in the chapter arc.
-- **Kirin Tor Council of Six** (肯瑞托六人委员会): The ruling body of the Kirin Tor. From the glossary.

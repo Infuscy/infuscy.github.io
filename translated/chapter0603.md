@@ -4,7 +4,7 @@ Jace had never quite been able to figure out the satyrs' allegiances and leaning
 
 Yet the Old Gods and the Burning Legion were fundamentally opposed factions. Although most satyrs, including the Satyr King Xavius, had always claimed that their cooperation with the Old Gods was all for the sake of one day bringing the Dark Titan back to Azeroth, their zeal and loyalty toward the Old Gods sometimes made one wonder whether they even remembered their original mission anymore.
 
-At that moment, Jace remembered what Shandris Feathermoon had said. Das'mora definitely knew the locations of no small number of ancient magical artifacts. Those satyrs had gone to such lengths to enslave Das'mora — perhaps it was to pry out of her the clues to where those treasures were.
+At that moment, Jace remembered what Shandris Feathermoon had said. Dasmora definitely knew the locations of no small number of ancient magical artifacts. Those satyrs had gone to such lengths to enslave Dasmora — perhaps it was to pry out of her the clues to where those treasures were.
 
 So could there be other leads in this prison?
 
@@ -38,37 +38,37 @@ After spreading them all out on the ground, one of them had a ritual circle draw
 
 "I couldn't say," Morophil said. "If this really were a circle for communicating with a demon like Archimonde or Kil'jaeden, I'd expect it to be far larger in scale. And it would need a powerful relic connected to them to serve as a bridge, or at least an artifact brimming with mana. If it's this dagger... no, this dagger is definitely not meant for that."
 
-Listening to Morophil's guesses, Jace thought of Musol, who lived in Moonbrook right now.
+Listening to Morophil's guesses, Jace thought of Mor'zul, who lived in Moonbrook right now.
 
-If his knowledge had come from Das'mora — that is, Reyhidian, who'd just been killed — then how had he been in contact with Das'mora? How had they connected?
+If his knowledge had come from Dasmora — that is, Reyhidian, who'd just been killed — then how had he been in contact with Dasmora? How had they connected?
 
-Jace refused to believe Musol had the ability to track down Das'mora's traces and seek her out on his own to learn demonic magic. It had to be that Das'mora had consciously scoured the world for warlocks to help her, or left behind book after book to pass on to demon worshippers across the world, letting them help her accomplish some goal.
+Jace refused to believe Mor'zul had the ability to track down Dasmora's traces and seek her out on his own to learn demonic magic. It had to be that Dasmora had consciously scoured the world for warlocks to help her, or left behind book after book to pass on to demon worshippers across the world, letting them help her accomplish some goal.
 
-So the demon Musol was trying to summon... if it really was a named, powerful demon lord, then who exactly was it?
+So the demon Mor'zul was trying to summon... if it really was a named, powerful demon lord, then who exactly was it?
 
-What did it have to do with Das'mora, or Reyhidian?
+What did it have to do with Dasmora, or Reyhidian?
 
-What could Musol gain from this? And once that demon was summoned to Azeroth, what could Reyhidian accomplish?
+What could Mor'zul gain from this? And once that demon was summoned to Azeroth, what could Reyhidian accomplish?
 
 A string of questions surfaced in his mind, but Jace couldn't answer a single one.
 
-He realized that even though he'd killed Das'mora, he'd still have to go back and find Musol to get further answers.
+He realized that even though he'd killed Dasmora, he'd still have to go back and find Mor'zul to get further answers.
 
-Vereesa asked, "What about the other scrolls? This is all completely illegible to me. Is it demonic script?"
+Vereesa asked, "What about the other scrolls? This is all completely illegible to me. Is it Demonic script?"
 
-Jace picked up one of the scrolls and looked at it. "Yeah, these are all demonic script, but..."
+Jace picked up one of the scrolls and looked at it. "Yeah, these are all Demonic script, but..."
 
 He flipped it back and forth and found that although these scrolls had been meticulously prepared by the demon, even enchanted with arcane magic so they wouldn't be damaged by Shadow magic or other factors, the writing on them was extremely sloppy, with almost no complete sentences — just one keyword after another.
 
 Compared to the densely written text of the satyrs in Maraudon, this was a complete waste of the scrolls themselves and the enchantment magic. It felt like scribbling a draft on antique parchment, or using it as scratch paper for working out math problems.
 
-But with Jace's understanding of demonic script, looking closely he quickly spotted a problem.
+But with Jace's understanding of Demonic script, looking closely he quickly spotted a problem.
 
 The words and short phrases on the scrolls all seemed connected to each other. It gave Jace the feeling of the quick notes he used to jot down in class.
 
 Were these recorded orders? Orders from the Burning Legion?
 
-Powerful demons used magic to write text very quickly — they weren't like Sazeno, with no mana to speak of, relying purely on a pen and their hands to write. If Reyhordan had written the orders like this, it was probably because the communication channel was very unstable.
+Powerful demons used magic to write text very quickly — they weren't like Sazeno, with no mana to speak of, relying purely on a pen and their hands to write. If Reyhidian had written the orders like this, it was probably because the communication channel was very unstable.
 
 "Help me look through these scrolls, Morophil," Jace said. "My eyes hurt from trying to read them..."
 
@@ -76,11 +76,13 @@ Powerful demons used magic to write text very quickly — they weren't like Saze
 
 The succubus bent down and began going through them one by one. Before long, she picked one up and said, "This one's mostly insults and reprimands, master."
 
-"No wonder I couldn't really read this one," Jace said. "Keep it anyway — might come in handy running into some other demon someday." Morophil gave him a strange look, then took out the next one and said, "This one contains orders for making contact with a Legion emissary."
+"No wonder I couldn't really read this one," Jace said. "Keep it anyway — might come in handy running into some other demon someday."
+
+Morophil gave him a strange look, then took out the next one and said, "This one contains orders for making contact with a Legion emissary."
 
 "Legion emissary?" Vereesa asked. "There are still Burning Legion emissaries on Azeroth?"
 
-Morophil said, "A lot of the text here is in Eredun, not just Eredar. I can't really make it out."
+Morophil said, "A lot of the text here is in Ered'ruin, not just Eredun. I can't really make it out."
 
 "Should we have Sazeno take a look?" Jace asked.
 
@@ -94,4 +96,4 @@ The succubus picked up the last one and said, "This one mentions a necromancer."
 
 Jace and Vereesa voiced their question at the same time, then looked at each other.
 
-"A rogue necromancer," Morophil added. "The rest is also written in Eredun. I can't quite make out what it's trying to say — perhaps it wants the recipient to find this necromancer, or to hunt them..."
+"A rogue necromancer," Morophil added. "The rest is also written in Ered'ruin. I can't quite make out what it's trying to say — perhaps it wants the recipient to find this necromancer, or to hunt them..."

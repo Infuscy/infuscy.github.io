@@ -14,19 +14,19 @@ Jace climbed his way up to the fifth level, crossed through Ironforge's streets,
 
 Winter Veil was almost upon them, and it was Ironforge's most important holiday. So the higher he went from the lowest level, the more Winter Veil decorations he saw.
 
-Streamers and snowflake patterns hung everywhere he looked. Dwarven carts carrying freshly cut Scots pines trundled through the streets, and quite a few shops had already put up their own decorated little trees by the door.
+Streamers and snowflake patterns hung everywhere he looked. Dwarven carts carrying freshly cut pines trundled through the streets, and quite a few shops had already put up their own decorated little trees by the door.
 
 But staring at all these holiday motifs so closely tied to cold and snow while his body sweltered with heat created a strangely jarring disconnect.
 
 Listening to the hammering echoing from the Great Forge ahead, Jace recalled what Ruige had said yesterday.
 
-Although Grede had flatly rejected Roktus Darktreat's proposal, Jace had to admit that, like Vereesa, he felt the dwarf would eventually say yes.
+Although Grede had flatly rejected Lokhtos Darkbargainer's proposal, Jace had to admit that, like Vereesa, he felt the dwarf would eventually say yes.
 
 Right now he was unwilling, of course. For one thing, the idea of going up against the Firelord really did sound too far-fetched. For another, Grede hadn't read the spoilers — of course he'd find it hard to believe some smith could replicate the Firelord's warhammer from the material plane. Even a Thorium Brotherhood smith would struggle to swallow that.
 
 If he truly believed someone could forge the Sulfuron Hammer, Jace could practically picture the guy practically vibrating with temptation, gritting his teeth and itching to make a move — all for that legendary weapon, for the chance to redeem the Dark Iron dwarves' name, for the title of the greatest Mountain King in history.
 
-But just as Ruige had said, forging a weapon to use against Ragnaros right under the Firelord's nose was genuinely dangerous. Maybe that was exactly why the Firelord kept such a tight grip on the Dark Anvil.
+But just as Ruige had said, forging a weapon to use against Ragnaros right under the Firelord's nose was genuinely dangerous. Maybe that was exactly why the Firelord kept such a tight grip on the Black Anvil.
 
 Lost in thought as he walked, Jace emerged from the passage, and the world opened up before him — a blazing scene and a wall of heat that snapped his train of thought right in half.
 
@@ -36,13 +36,13 @@ Dwarves bustled about the bridge at the very center of this magnificent hall. Ev
 
 In the middle of the bridge sat Ironforge's great anvil — the "Bronzebeard Anvil," as Ruige called it.
 
-Before the Dark Anvil came into being, Ironforge's great anvil had unquestionably been the pinnacle of the entire dwarven smithing world. But in the end, it was a work the dwarves had forged by their own strength alone, without the tempering power of Ragnaros.
+Before the Black Anvil came into being, Ironforge's great anvil had unquestionably been the pinnacle of the entire dwarven smithing world. But in the end, it was a work the dwarves had forged by their own strength alone, without the tempering power of Ragnaros.
 
 In any case, the Bronzebeards and the Dark Irons each had their own anvil. But what about Aerie Peak?
 
-Before leaving Khaz Modan, the Wildhammer dwarves had been passionate about smithing too — otherwise they wouldn't have forged the "Kadros Anvil" at the heart of Grim Batol.
+Before leaving Khaz Modan, the Wildhammer dwarves had been passionate about smithing too — otherwise they wouldn't have forged the "Khardros Anvil" at the heart of Grim Batol.
 
-With the fall of Grim Batol, the Kadros Anvil had gradually faded into obscurity.
+With the fall of Grim Batol, the Khardros Anvil had gradually faded into obscurity.
 
 Gazing down at the molten iron churning below the bridge like lava, Jace swallowed unconsciously and imagined, entirely against his will, what would happen if he accidentally fell in.
 
@@ -52,7 +52,7 @@ Wait.
 
 Jace froze. A ridiculous question surfaced in his mind. Could Deathwing's fury compare to the Firelord's descent?
 
-Although the surface of the Batol mountain range and Grim Batol had mostly been restored by the red dragons over the past year, the depths of Grim Batol still ran with Deathwing's destructive lava, and the Kadros Anvil lay buried within it.
+Although the surface of the Batol mountain range and Grim Batol had mostly been restored by the red dragons over the past year, the depths of Grim Batol still ran with Deathwing's destructive lava, and the Khardros Anvil lay buried within it.
 
 Thinking this, he found himself seized by an impulse to go in and see what had become of that anvil. More importantly, whether it could be used to forge the Sulfuron Hammer.
 
@@ -60,7 +60,7 @@ Thinking this, he found himself seized by an impulse to go in and see what had b
 
 Jace felt something bump against his stomach. He looked down to find a guard in heavy marble-colored armor, bearing a shield emblazoned with a red hammer insignia, hand outstretched, standing right in front of him.
 
-The guard warned him in fluent Common, "The King's Seat lies ahead. Go no further."
+The guard warned him in fluent Common, "The High Seat lies ahead. Go no further."
 
 Jace looked up and observed the throne room. The gate, carved with dwarven runes, was larger than most doors in Ironforge, but it still didn't quite match the concept of a "palace."
 
@@ -82,7 +82,9 @@ The dwarven palace also seemed less solemn than Lordaeron's, or even Stormwind's
 
 This king wore heavy dark armor even when not facing battle, and the crown atop his head looked thick enough to have been carved from stone, pressing heavily down on his golden-red braids.
 
-Looking at him, Jace's first impression was: this guy was probably the most miserable dwarf in all of Ironforge. Just then, the king noticed the human who had just entered the throne room and raised his head slightly to look over.
+Looking at him, Jace's first impression was: this guy was probably the most miserable dwarf in all of Ironforge.
+
+Just then, the king noticed the human who had just entered the throne room and raised his head slightly to look over.
 
 "The envoy from Stormwind has arrived, Your Majesty," the guard said with a bow.
 

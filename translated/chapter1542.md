@@ -1,6 +1,6 @@
 ## Chapter 1542: Nest of Corruption
 
-While the Flameguard was walking to the other side, Jace climbed straight up onto the platform and rushed through the temple door. The sight inside reminded him of the prison cell in the dream Deathwing had woven for him, where he'd watched Krasus being tortured... Blackrock Spire's architecture, the ancient building style of the Dark Iron dwarves.
+While the flame guard was walking to the other side, Jace climbed straight up onto the platform and rushed through the temple door. The sight inside reminded him of the prison cell in the dream Deathwing had woven for him, where he'd watched Krasus being tortured... Blackrock Spire's architecture, the ancient building style of the Dark Iron dwarves.
 
 He followed the trace of that wrong-feeling shadow fluctuation through the corridor with his mind, though it was hard to put into words what chaotic emotion the shadow was radiating.
 
@@ -28,7 +28,7 @@ Violet light suddenly filled his vision. A small figure was curled up before a b
 
 No... wait. That wasn't a cat's eye gem. It was a yellow eyeball.
 
-Jace silently incanted the spell for Dark Ward, simultaneously drawing Ursales and tearing off its wrappings to reveal the cruel blood-red scythe. Ursales' roar thundered through his mind as he strode forward, raising the scythe high. But the eyeball suddenly twisted toward him, staring straight into his eyes!
+Jace silently incanted the spell for Shadow Ward, simultaneously drawing Ulthalesh and tearing off its wrappings to reveal the cruel blood-red scythe. Ulthalesh's roar thundered through his mind as he strode forward, raising the scythe high. But the eyeball suddenly twisted toward him, staring straight into his eyes!
 
 "Jace—"
 
@@ -72,7 +72,7 @@ Huge, bulging shapes had surrounded him without him noticing. Jace knew what the
 
 Dragon eggs. Black dragon eggs.
 
-A colossal shadow swept across the sky, blotting out everything, followed by a scorched, fel-like stench. The smell was so sharp that for a moment Jace felt like he'd plunged straight into the Shadowmoon Valley.
+A colossal shadow swept across the sky, blotting out everything, followed by a scorched, fel-like stench. The smell was so sharp that for a moment Jace felt like he'd plunged straight into Shadowmoon Valley.
 
 "What have you done?" A tall figure beside him looked up, following the great shadow with his eyes, and spoke in a low voice. "I trusted you so much."
 
@@ -146,10 +146,10 @@ The eyeball protruding from the box on the table had withered. The stalk had dri
 
 Jace cracked a smile. "How long was I out? We need to get out of here fast."
 
-Before he'd finished speaking, hurried footsteps sounded at the door. Vereesa had barely raised her bow when the faint glow of dream magic outlined a familiar woman's figure — it was Gestahn herself.
+Before he'd finished speaking, hurried footsteps sounded at the door. Vereesa had barely raised her bow when the faint glow of dream magic outlined a familiar woman's figure — it was Gerstahn herself.
 
 "The mistress sent me to check on the situation here. She said matters must be extremely urgent..." The Twilight Lord glanced at the fallen Twilight's Hammer cultists on the floor. "Don't worry about this place, you two. We'll quickly take in some new members to cover these losses within a reasonable range."
 
 Jace finally relaxed, slumping slowly against the table. "The Firelord and his servants don't need to know what happened here."
 
-"Of course, master." Gestahn bowed her head respectfully.
+"Of course, master." Gerstahn bowed her head respectfully.

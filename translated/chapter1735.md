@@ -1,12 +1,12 @@
-## Chapter 1735: Natila's Request
+## Chapter 1735: Nathra's Request
 
 "She's going to become a dragonkin."
 
-Inside the hut, Needleflame spoke so quietly only someone leaning close could barely hear. "Back in Draenor, Father only shared that kind of greeting and password with his closest helpers and subordinates. Like Chieftain Zuluhed of the Dragonmaw and his overseer Mogholl. Even the orcs who knew black dragons best couldn't pronounce it that precisely — only the tall drakonid. So she's probably really drunk the black dragon's blood."
+Inside the hut, Needleflame spoke so quietly only someone leaning close could barely hear. "Back in Draenor, Father only shared that kind of greeting and password with his closest helpers and subordinates. Like Chieftain Zuluhed of the Dragonmaw and his warlord Mor'ghor. Even the orcs who knew black dragons best couldn't pronounce it that precisely — only the tall drakonid. So she's probably really drunk the black dragon's blood."
 
-"That's none of our business." Jace checked the potions in his bag. "She's one of the most respected elders among the tauren. But if she gets in our way — sorry, Mossa, but don't expect us to feel bad about messing up your centaur war plans."
+"That's none of our business." Jace checked the potions in his bag. "She's one of the most respected elders among the tauren. But if she gets in our way — sorry, Mosa, but don't expect us to feel bad about messing up your centaur war plans."
 
-"If she's dead set on siding with the black dragons, it's hard to say who'll be a bigger threat to the plains, the swamps, and the coast — the Grimtotem or the centaurs, Jace." Mossa said quietly. "When I entered this village, the evil aura I felt was far worse than what I sensed passing through Grimtotem villages before. They've changed. Become more... extreme. So are we really going into her lair tomorrow to fight to the death?"
+"If she's dead set on siding with the black dragons, it's hard to say who'll be a bigger threat to the plains, the swamps, and the coast — the Grimtotem or the centaur, Jace." Mosa said quietly. "When I entered this village, the evil aura I felt was far worse than what I sensed passing through Grimtotem villages before. They've changed. Become more... extreme. So are we really going into her lair tomorrow to fight to the death?"
 
 "Don't worry." Grede said. "Little Jace and I have fought her before. Back in the obsidian realm she created. Granted, we had an absurdly powerful red dragon mage holding her by the tail at the time."
 
@@ -14,7 +14,7 @@ Inside the hut, Needleflame spoke so quietly only someone leaning close could ba
 
 "Uh, hey. You're not scared, are you?" The dwarf looked up.
 
-"Not a chance. Everyone thinks I'm a druid, but I've always seen myself as a plains hunter." Mossa said. "For a hunter, dragon hunting is the greatest adventure... Back in the old days, people called killing a thunder lizard or a giant plains raptor 'dragon hunting.' But that wasn't the real thing. Now? This is."
+"Not a chance. Everyone thinks I'm a druid, but I've always seen myself as a plains hunter." Mosa said. "For a hunter, dragon hunting is the greatest adventure... Back in the old days, people called killing a thunder lizard or a giant plains raptor 'dragon hunting.' But that wasn't the real thing. Now? This is."
 
 "That's the spirit." Grede snapped his fingers and looked at Jace. "What I'm more worried about is how many whelps or dragonkin are in that lair. Are we going to have to face a whole army when we walk in? Like Blackrock Spire without the orcs?"
 
@@ -24,7 +24,7 @@ That was the logic of it. But in the game, that lair did have several absurdly p
 
 For Jace and his crew, whelps weren't exactly tough opponents. But if a few dozen or a hundred of them came at once, it wouldn't be easy to get out clean.
 
-And with Onyxia there, even Sora and Needleflame wouldn't be able to control them.
+And with Onyxia there, even Sola and Needleflame wouldn't be able to control them.
 
 "If it really comes to a fight, I'll find a way to block the entrance and stop the dragonkin from reinforcing." Jace said. "So we need to keep a low profile on the way in. Don't provoke the dragonkin or the whelps when we enter. Try to get a one-on-one audience with Onyxia herself in her main hall."
 
@@ -38,23 +38,23 @@ Grede stared at Jace for a moment. "Entrance, passageway, black dragon hall... f
 
 "Well, we'll play it by ear. Can't be too rigid." Grede nodded.
 
-"I still hope... if we can talk things out, let's not fight." Sora said quietly. "I don't think Onyxia and Nefarian are the same kind of black dragon, Grede."
+"I still hope... if we can talk things out, let's not fight." Sola said quietly. "I don't think Onyxia and Nefarian are the same kind of black dragon, Grede."
 
-"I've always thought so, Sora." Jace said. "But we have to plan for the worst. Especially when it comes to our lives."
+"I've always thought so, Sola." Jace said. "But we have to plan for the worst. Especially when it comes to our lives."
 
 Needleflame glanced around at the other four people, then looked down to check her weapons. She seemed to have a tangled mess in her mind about tomorrow.
 
-Jace looked at the dark iron dwarf-Mossa. "But tomorrow, whether we meet dragonkin or Onyxia herself, don't rush to attack, Mossa. Keep your transformation up."
+Jace looked at the Dark Iron dwarf Mosa. "But tomorrow, whether we meet dragonkin or Onyxia herself, don't rush to attack, Mosa. Keep your transformation up."
 
-"I'll remember, Jace." Mossa replied.
+"I'll remember, Jace." Mosa replied.
 
 "What about the Gadgetzan goblins?" Grede said. "The black dragon's hiding in the fog. Without that young Grimtotem, we couldn't even find this village, let alone the lair. If we stumble in and out like this, how do we report back to Noggenfogger?"
 
 "You're still worried about those little green folk?" Needleflame asked. "They outran a real black dragon. What more do they want?"
 
-"Money, little one!" Grede glared at her. "You and Sora, neither of you care about money. I don't blame you. But I need gold. I want payment. You can't expect me and Mossa to show up at Jace Sesso and the Windrunners' wedding looking like two refugees who just crawled out of an Amani dungeon, can you?"
+"Money, little one!" Grede glared at her. "You and Sola, neither of you care about money. I don't blame you. But I need gold. I want payment. You can't expect me and Mosa to show up at Jace Sesso and the Windrunners' wedding looking like two refugees who just crawled out of an Amani dungeon, can you?"
 
-"If Onyxia's willing to talk, maybe we can negotiate with her." Sora suggested.
+"If Onyxia's willing to talk, maybe we can negotiate with her." Sola suggested.
 
 "Negotiate with her about giving us the exact coordinates of her lair so a bunch of colonists can blow her and her whole family sky high?!" Jace stared wide-eyed at the green dragon.
 
@@ -66,7 +66,7 @@ At the hut's entrance, Vereesa lifted the door curtain and peered in. "That taur
 
 "No. The young one." Vereesa said.
 
-Jace looked around at the few people sitting by the fire, then stepped out. Natila Grimtotem stood nearby, watching him.
+Jace looked around at the few people sitting by the fire, then stepped out. Nathra Grimtotem stood nearby, watching him.
 
 "You felt it too." The tauren said.
 
@@ -74,15 +74,15 @@ Jace looked around at the few people sitting by the fire, then stepped out. Nati
 
 "You mean your aunt." Jace said.
 
-"Yes." Natila said. "She carries a strange smell on her. She told us it was the smell of power — the reward of cooperating with the Nestmother. Boundless power. She'll grow stronger and stronger. Eventually the centaurs won't stand a chance against the Grimtotem. And one day, this power will help the Grimtotem rise again. I think she's already—"
+"Yes." Nathra said. "She carries a strange smell on her. She told us it was the smell of power — the reward of cooperating with the Broodmother. Boundless power. She'll grow stronger and stronger. Eventually the centaur won't stand a chance against the Grimtotem. And one day, this power will help the Grimtotem rise again. I think she's already—"
 
 "So you had no idea what she decided." Jace said. "None of you knew what she chose."
 
-"You do?" Natila asked.
+"You do?" Nathra asked.
 
 "Have you ever seen a dragonkin?" Jace asked.
 
-Natila nodded. "They're like centaurs, but... lizards. Or dragons, taking the other half. We used to run into them in the swamps. Not so much anymore. They all serve the black dragon... Wait. You're saying—"
+Nathra nodded. "They're like centaur, but... lizards. Or dragons, taking the other half. We used to run into them in the swamps. Not so much anymore. They all serve the black dragon... Wait. You're saying—"
 
 "You guessed right." Jace said. "That's where dragonkin come from. Your aunt has powerful magic. Maybe the black dragon princess will make her a high-ranking draconic elementalist. But whatever she becomes, she won't be a tauren anymore."
 
@@ -90,7 +90,7 @@ The Grimtotem's lips trembled. Her voice came out low and rough. "She can't... s
 
 "Sounds like she and your people were both tricked by the black dragon." Vereesa said.
 
-Natila's face crumpled. Even through a tauren's rigid features, the barely contained rage was unmistakable.
+Nathra's face crumpled. Even through a tauren's rigid features, the barely contained rage was unmistakable.
 
 She stared at the ranger, then looked toward Magatha's large hut. She watched the firelight there through the rain for a while, cautious. But in the end, she lowered her head and clenched one fist.
 
@@ -102,12 +102,12 @@ The tauren's eyes dropped as she thought for a long moment. "You must have a way
 
 "Not right now." Jace said.
 
-"Help her." Natila said urgently. "The Grimtotem can't be led by a dragonkin. For the sake of me bringing you here... for Mossa's sake..."
+"Help her." Nathra said urgently. "The Grimtotem can't be led by a dragonkin. For the sake of me bringing you here... for Mosa's sake..."
 
-She really wasn't an ordinary Grimtotem, Jace thought. No wonder she'd become friends with Mossa.
+She really wasn't an ordinary Grimtotem, Jace thought. No wonder she'd become friends with Mosa.
 
 "I can't promise anything, madam." Jace said.
 
-"But if we really do get to see the Nestmother tomorrow..." He looked at the sky, then corrected himself. "I mean, if we see her later, I'll try asking her."
+"But if we really do get to see the Broodmother tomorrow..." He looked at the sky, then corrected himself. "I mean, if we see her later, I'll try asking her."
 
-"Ask... ask her?" Natila was stunned.
+"Ask... ask her?" Nathra was stunned.

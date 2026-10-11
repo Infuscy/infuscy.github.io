@@ -6,25 +6,25 @@ The atmosphere was grim and silent. The town itself wasn't small — dozens of h
 
 Despite having lived in Lordaeron as a citizen for fifteen years, Jace had never once visited this town he was intimately familiar with from his past life. Partly because it really was out of the way — far from the capital city, deep in the embrace of rolling hills and dense forests. But more importantly, because of its name: Deathknell.
 
-Like The Sepulcher in Silverpine Forest, this was a town famous for its funerary trade. Probably because this place was closer than any other town in the kingdom to the ancient sacred site of Tirisfal — the legendary Fall of Tyr.
+Like the Sepulcher in Silverpine Forest, this was a town famous for its funerary trade. Probably because this place was closer than any other town in the kingdom to the ancient sacred site of Tirisfal — the legendary Tyr's Fall.
 
 Maybe that was also why the Dark Lady Sylvanas would later choose this place as the Forsaken's main "recruiting ground." With cemeteries everywhere and conspicuous tomb chambers carved into the mountainside... if every corpse here were raised, they could probably field an army large enough to fight Lordaeron's military to a standstill.
 
 They passed through the town and continued up the mountain. The road grew worse the further they went, eventually becoming patchy and broken. Hard to tell whether this road had been built by Lordaeron, or by the native Tirisfal tribes who lived here before the capital was founded, or... by the Quel'dorei who had followed Dath'Remar Sunstrider himself and settled here even earlier.
 
-The deepest part of these mountains held a forest that almost no one entered except the most zealous worshipers of Tyr and scholars of ancient giant languages. It was called the Whispering Forest. That name hadn't been given by humans — it came from the Highborne refugees who had crossed the sea seven thousand years ago. They had abandoned this place and continued east to the territory of the Amani Empire, which later became Quel'Thalas, partly because they couldn't bear the "whispers" whose source they could never trace.
+The deepest part of these mountains held a forest that almost no one entered except the most zealous worshippers of Tyr and scholars of ancient giant languages. It was called the Whispering Forest. That name hadn't been given by humans — it came from the Highborne refugees who had crossed the sea seven thousand years ago. They had abandoned this place and continued east to the territory of the Amani Empire, which later became Quel'Thalas, partly because they couldn't bear the "whispers" whose source they could never trace.
 
 Jace knew those whispers were actually the work of a powerful servant of the Old Gods — "the Corruptor" Zakajz. Long before the Sundering, Tyr had killed him here, burying his body deep beneath the earth, where it continued to corrupt this land and forest.
 
 Did Aegwynn choose to hide here because of this history? He hoped not.
 
-But according to the map, the source of the Arias River's tributaries — the high peak before them — was even farther from the Whispering Forest than it was from Brill. Deathknell's proximity was only relative. To actually set foot in the so-called "Fall of Tyr" from here would still require a solid, arduous trek across rivers, valleys, and cliffs — nothing like the wagon-friendly road between Deathknell and Brill.
+But according to the map, the source of the Arias River's tributaries — the high peak before them — was even farther from the Whispering Forest than it was from Brill. Deathknell's proximity was only relative. To actually set foot in the so-called "Tyr's Fall" from here would still require a solid, arduous trek across rivers, valleys, and cliffs — nothing like the wagon-friendly road between Deathknell and Brill.
 
 The Tirisfal Mountains were far larger and more complex than the game or even Jace's imagination had suggested.
 
-"Wait here." Khadgar turned back to look at Grede, Vereesa, and Sora. "If things go smoothly, we'll be back in a few hours."
+"Wait here." Khadgar turned back to look at Grede, Vereesa, and Sola. "If things go smoothly, we'll be back in a few hours."
 
-"And if they don't?" Sora asked. "How will we know you two need help?"
+"And if they don't?" Sola asked. "How will we know you two need help?"
 
 "I reckon there'll be a terrifying Arcane flash or a shadow explosion up on that mountain," Grede said. "Just hold out till she flies us up, lads."
 
@@ -40,15 +40,15 @@ Their footsteps sounded painfully loud now, whether they were stepping softly in
 
 "There's something I've been wanting to ask you." Jace followed behind Khadgar. "Why does Aegwynn agree to see you? Why doesn't she just kill you as another agent of the Kirin Tor or the Order of Tirisfal?"
 
-"Probably because she knows I'm different from the rest of the Kirin Tor." Khadgar walked and spoke quietly. "Or maybe — why did you trust me enough to tell me about Ursales? Could be the same reason."
+"Probably because she knows I'm different from the rest of the Kirin Tor." Khadgar walked and spoke quietly. "Or maybe — why did you trust me enough to tell me about Ulthalesh? Could be the same reason."
 
-"So if she does decide to kill me, how will you guarantee she won't kill you too?" Jace patted Ursales in his hand. "I'm the evil warlock coming to visit her with this staff. You're the one who betrayed her trust by leaking her hiding spot to an outsider. And you're not me — you're not Ursales' owner. Killing you wouldn't have any messy consequences."
+"So if she does decide to kill me, how will you guarantee she won't kill you too?" Jace patted Ulthalesh in his hand. "I'm the evil warlock coming to visit her with this staff. You're the one who betrayed her trust by leaking her hiding spot to an outsider. And you're not me — you're not Ulthalesh's owner. Killing you wouldn't have any messy consequences."
 
 "Ha. You think I'm so naive I came completely unprepared?" Khadgar pulled a spell scroll made from some unknown creature's hide from his pocket. "Greater Rapid Transposition scroll. It'll get me out faster than I can unroll it, Jace Sesso. If things really spiral beyond our control... I'll go back to Dalaran for reinforcements. If I'm lucky enough that you're close by, maybe it'll take you out too."
 
 "Will you unroll it faster than Lady Aegwynn can cast Counterspell?" Jace asked dryly.
 
-"When you swung Ursales at the Scepter of Sargeras, were you really sure you could cut through it?" Khadgar asked.
+"When you swung Ulthalesh at the Scepter of Sargeras, were you really sure you could cut through it?" Khadgar asked.
 
 "No," Jace said.
 
@@ -130,4 +130,4 @@ Jace looked around the cabin. "Do you feel it?"
 
 "Who?" the mage asked.
 
-Jace drew Quel'Serrar and gripped the blade with his left hand. "Help me draw a summoning circle."
+Jace drew Azuresong and gripped the blade with his left hand. "Help me draw a summoning circle."

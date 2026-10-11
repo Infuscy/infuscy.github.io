@@ -1,26 +1,26 @@
 ## Chapter 1385: "Dreaming" of Azeroth
 
-After the gathering ended, the four K'aresh envoys gathered in a corner of the lecture hall. Once the surrounding orcs had moved far enough away, Sora couldn't help saying, "For a moment there I thought communication had broken down between you two. Nai'hojar actually questioned Negag like that."
+After the gathering ended, the four Karabor envoys gathered in a corner of the lecture hall. Once the surrounding orcs had moved far enough away, Sola couldn't help saying, "For a moment there I thought communication had broken down between you two. Naihogar actually questioned Naigag like that."
 
 "Doubting whether visions are real or fake wouldn't have been enough to convince those warlocks." Sabellian glanced at Jace. "I figured since he sounded so resolute and composed, he must have already thought of a sufficiently persuasive argument. So I decided to push him forward a bit, nudge him into bringing it out. Standing on the opposing side makes it look less deliberate."
 
-Jace nodded. He certainly wasn't going to admit that he'd only come up with those excuses and justifications on the way to the gathering — or even improvised some on the spot. If he'd taken any longer, Nai'hojar might genuinely have stumped him.
+Jace nodded. He certainly wasn't going to admit that he'd only come up with those excuses and justifications on the way to the gathering — or even improvised some on the spot. If he'd taken any longer, Naihogar might genuinely have stumped him.
 
-"But it's not enough for just us to convince them here," Sora said. "We need to notify the expeditionary force too. They need to know about these so-called soul omens."
+"But it's not enough for just us to convince them here," Sola said. "We need to notify the expeditionary force too. They need to know about these so-called soul omens."
 
 "I know." Jace tugged at Needleflame's hood. "That's where you come in."
 
 "I understand." Needleflame answered obediently, glancing at her father.
 
-Sora frowned. "But what exactly is that soul divination? I get the impression even the orc warlocks here don't fully understand it."
+Sola frowned. "But what exactly is that soul divination? I get the impression even the orc warlocks here don't fully understand it."
 
 "If they understood it, they wouldn't place so much importance on the Auchenai priests' books." Sabellian said. "And it's best they don't understand. As long as they haven't fully trusted those Broken diviners, we have room to maneuver."
 
-"Prophet Velen will be leaving Draenor with the expeditionary force." Jace looked at the green dragon. "The Auchenai who escaped from Auchindoun aren't very welcome among the Aldor priests in Shattrath — remember what we saw in Shattrath city? So many Auchenai have gone to Velen instead. Once we're back in Azeroth, we'll have plenty of opportunities to ask the Auchenai directly what this whole thing is about."
+"Prophet Velen will be leaving Draenor with the expeditionary force." Jace looked at the green dragon. "The Auchenai who escaped from Auchindoun aren't very welcome among the Aldor priests in Shattrath — remember what we saw in Shattrath City? So many Auchenai have gone to Velen instead. Once we're back in Azeroth, we'll have plenty of opportunities to ask the Auchenai directly what this whole thing is about."
 
 "I'm worried the souls in Auchindoun might reveal our identities to the diviners here through this kind of divination," Sabellian said.
 
-Jace replied, "After the Auchenai crypts were breached, the souls of Auchindoun have been freed from that high priest's torture ritual. They hate the orcs and the traitorous Broken with a burning passion. Don't forget — even the Auchenai priests of Maladaar, the original guardians of Auchindoun, had to be compelled with special necromantic enslavement spells to force them to reveal information. And the Shadow Council orcs' progress in necromantic research... has been thrown into chaos by Wapil's death. What can those few Broken diviners really do?"
+Jace replied, "After the Auchenai crypts were breached, the souls of Auchindoun have been freed from that Exarch's torture ritual. They hate the orcs and the traitorous Broken with a burning passion. Don't forget — even the Auchenai priests of Maladaar, the original guardians of Auchindoun, had to be compelled with special necromantic enslavement spells to force them to reveal information. And the Shadow Council orcs' progress in necromantic research... has been thrown into chaos by Vorpil's death. What can those few Broken diviners really do?"
 
 "Do you want me to make them disappear?" Needleflame asked.
 
@@ -28,13 +28,13 @@ Jace replied, "After the Auchenai crypts were breached, the souls of Auchindoun 
 
 He looked up at the black vaulted ceiling of the hall. "If they insist on trusting souls, let's see who has more souls on their side."
 
-Now that even the lingering soul-shade of Auchenai High Priest Maladaar stood with Jace, those diviners had no advantage when it came to discussing what happened in Auchindoun.
+Now that even the lingering soul-shade of Auchenai Exarch Maladaar stood with Jace, those diviners had no advantage when it came to discussing what happened in Auchindoun.
 
-Sabellian and Sora each left. Needleflame was about to go too, but she seemed hesitant. Jace noticed the young black dragon was lingering and tried asking, "Something else?"
+Sabellian and Sola each left. Needleflame was about to go too, but she seemed hesitant. Jace noticed the young black dragon was lingering and tried asking, "Something else?"
 
-Needleflame looked at Jace, then moved closer and said quietly, "I don't think all the orcs were convinced, Negag. Some still have doubts, and they still have the drive to investigate further... I'm worried they'll find their own way to inform the Burning Legion about the situation here."
+Needleflame looked at Jace, then moved closer and said quietly, "I don't think all the orcs were convinced, Naigag. Some still have doubts, and they still have the drive to investigate further... I'm worried they'll find their own way to inform the Burning Legion about the situation here."
 
-"I know, I know." Jace said. "But there isn't much time left before the portal is completed. That's the real reason most of the high-ranking Shadow Council and Cult members have chosen not to dwell on this. Everyone can afford to wait."
+"I know, I know." Jace said. "But there isn't much time left before the portal is completed. That's the real reason most of the high-ranking Shadow Council and cult members have chosen not to dwell on this. Everyone can afford to wait."
 
 "So, the few high-ranking Shadow Council members who don't trust us are also waiting for the Legion's portal to open — or rather, waiting for us to fail. If the summoning fails, they'll have grounds to purge us from the Shadow Council and take real control of Auchindoun. If it succeeds, everybody wins. Either way, they'll never imagine what's actually waiting on the other side of that portal..."
 
@@ -54,7 +54,7 @@ Needleflame nodded. Some of the worry seemed to ease from her, but the shadow on
 
 "Then can you tell me about the beautiful side? Don't just scare me with terrifying enemies." Needleflame said quietly. "That elf told me about lots of good food. But besides food... are there spiders as big as houses? Clefthooves as tall as mountains?"
 
-"There are lizards that can unleash lightning." Jace said. "When you get there, you can try dueling with the old Thunder Lizards and see who's tougher."
+"There are lizards that can unleash lightning." Jace said. "When you get there, you can try dueling with the old thunder lizards and see who's tougher."
 
 "Lizards that unleash lightning — shaman lizards?" the young black dragon asked.
 
@@ -66,7 +66,7 @@ But that surge of enthusiasm faded quickly too. After a moment she said, "But th
 
 "That's right," Jace said.
 
-Needleflame ran her tongue over her long, sharp fangs and said quietly, "Sounds like I won't be short of opponents in Azeroth, even without going after Thunder Lizards."
+Needleflame ran her tongue over her long, sharp fangs and said quietly, "Sounds like I won't be short of opponents in Azeroth, even without going after thunder lizards."
 
 The young black dragon's words carried a sharp wit. If the opponent hadn't been an Old God, Jace might actually have felt reassured by her vigilance and alertness.
 
@@ -74,15 +74,15 @@ But in this situation, it only made him more worried.
 
 Because the more one believed they were prepared to face the Old Gods, the more likely they were to fall completely. Countless powerful beings throughout history had proven this through their own bitter experiences — including the previous owners of the Chain of Will he wore.
 
-Though bringing Needleflame to Azeroth had originally been Sora's idea and Queen Alexstrasza's wish, nothing to do with him.
+Though bringing Needleflame to Azeroth had originally been Sola's idea and Queen Alexstrasza's wish, nothing to do with him.
 
 But as he'd grown familiar with the young black dragon, worked alongside her in Auchindoun for so long, he couldn't help seeing her as part of the team — as a close friend, even a daughter figure. He couldn't stop himself from worrying about the dangers she might face.
 
-"Let's not discuss this here, Master Negag." The black dragon's tone reverted to the hoarse, low growl of a Dragonmaw fel orc. "I'll leave as soon as possible... So, what are your plans now?"
+"Let's not discuss this here, Master Naigag." The black dragon's tone reverted to the hoarse, low growl of a Dragonmaw fel orc. "I'll leave as soon as possible... So, what are your plans now?"
 
-"I'll check on the situation on the other side tonight." Jace said. "Remember to ask the alchemists or mages about that annihilation potion."
+"I'll check on the situation on the other side tonight." Jace said. "Remember to ask the alchemists or mages about that Destruction Potion."
 
-"I remember." The orc guard Carosha nodded, then turned and left the corridor.
+"I remember." The orc guard Karosha nodded, then turned and left the corridor.
 
 Watching the kid's quickly retreating figure, a thought crossed Jace's mind — he wondered when he'd have children of his own.
 

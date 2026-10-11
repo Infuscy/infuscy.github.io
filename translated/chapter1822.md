@@ -1,8 +1,8 @@
 ## Chapter 1822: No Time for the Normal Way
 
-This wasn't the first time Morofil had detected Nathrezim magic. Back in Blackrock Spire, if she hadn't warned him, Jace wouldn't have been alert to the demons' interference so early.
+This wasn't the first time Morophil had detected Nathrezim magic. Back in Blackrock Spire, if she hadn't warned him, Jace wouldn't have been alert to the demons' interference so early.
 
-Mephistroth — the dreadlord who had caused chaos in Blackrock Spire — had died at Aegwynn's shadow atop the Tirisfal Mountains. He was unquestionably a high-ranking Nathrezim lord. If Morofil thought the demonic power here was even more hidden than what they'd faced in Blackrock Spire, who could be more powerful than Mephistroth?
+Mephistroth — the dreadlord who had caused chaos in Blackrock Spire — had died at the hands of Aegwynn's shade atop the Tirisfal Mountains. He was unquestionably a high-ranking Nathrezim lord. If Morophil thought the demonic power here was even more hidden than what they'd faced in Blackrock Spire, who could be more powerful than Mephistroth?
 
 *Tichondrius*, Jace thought. The long-hidden Lord of Nathreza had finally shown a trace worth suspecting.
 
@@ -14,19 +14,19 @@ Look at Ansirem Runeweaver — one of Dalaran's most beloved archmages, right up
 
 The real question was, why had the dreadlord only controlled part of the castle?
 
-Maybe he didn't have enough power to take over the entire island — just the key positions. Like Morofil said, the priests, the high-ranking officers.
+Maybe he didn't have enough power to take over the entire island — just the key positions. Like Morophil said, the priests, the high-ranking officers.
 
 But if his power was limited, the obvious target would be Marshal Garithos himself. He wasn't a powerful Kirin Tor mage, not a dragon in disguise like Krasus. Controlling one man would be far more economical and discreet than controlling all those officers.
 
 Jace hurried back through the corridor toward the hall where Khadgar and Garithos were. He nodded politely at the guards standing watch and patrolling along the way, but in his mind, it felt like every single person had become a Nathrezim.
 
-Still, it suddenly struck him — Garithos, as commander of Fenris Keep and a lord of Eastweald, was a major noble of Lordaeron. That was why he'd later become the interim leader of the Lordaeron Alliance during the Scourge invasion.
+Still, it suddenly struck him — Garithos, as commander of Fenris Keep and a lord of Eastweald, was a major noble of Lordaeron. That was why he'd later become the interim leader of the Alliance of Lordaeron during the Scourge invasion.
 
-Which meant he must have been at the hearing earlier. Otherwise, he wouldn't have known Jace was suspected of holding Uthalesh, or joked about the Reaper of the Winds.
+Which meant he must have been at the hearing earlier. Otherwise, he wouldn't have known Jace was suspected of holding Ulthalesh, or joked about the Deadwind Harvester.
 
-Right. Garithos was a big noble, the guardian of Lake Lordamere. He'd travel regularly to Dalaran, Eastweald, the capital city. If Jace himself were Tichondrius, he wouldn't risk using mind magic on him — too likely to be caught by Jace or Morofil.
+Right. Garithos was a big noble, the guardian of Lordamere Lake. He'd travel regularly to Dalaran, Eastweald, the capital city. If Jace himself were Tichondrius, he wouldn't risk using mind magic on him — too likely to be caught by Jace or Morophil.
 
-But Jace couldn't think of what controlling Garithos would even accomplish. What was the point of controlling his subordinates? If Morofil really did come to Fenris Keep, wouldn't the whole scheme fall apart?
+But Jace couldn't think of what controlling Garithos would even accomplish. What was the point of controlling his subordinates? If Morophil really did come to Fenris Keep, wouldn't the whole scheme fall apart?
 
 Was Tichondrius's goal just to control Fenris Keep?
 
@@ -36,7 +36,7 @@ Jace couldn't help glancing at the old floor tiles beneath his feet, then pushed
 
 "Ah, of course." Khadgar picked up the cue. "No need to trouble you with entertaining us..."
 
-"If you're still upset about the joke earlier, there's no need, Master Sesso." Garithos smiled apologetically. "I admit I have concerns about dark magic. But if it's for the Lordaeron Alliance, for the safety of the kingdom's people... I suppose extreme measures can be warranted at times."
+"If you're still upset about the joke earlier, there's no need, Master Sesso." Garithos smiled apologetically. "I admit I have concerns about dark magic. But if it's for the Alliance of Lordaeron, for the safety of the kingdom's people... I suppose extreme measures can be warranted at times."
 
 "I said some things that weren't appropriate earlier. I apologize. And Archmage Thule should arrive before nightfall. You two could rest here overnight, then head to Brill tomorrow to continue the investigation. I've already told my steward to make arrangements."
 
@@ -48,7 +48,7 @@ Khadgar glanced at Jace. He didn't know what was going on yet, but he knew Jace 
 
 The two followed the commander back up the spiraling stairs. As they climbed, Jace said, "Lord Garithos, I have a question. Do you know the Lord of Fenris in Gilneas? I'm curious how his family name relates to this island."
 
-"That's a history question. You'd do better asking Archmage Khadgar." Garithos snorted. "I'm from Weald, Master Sesso. I haven't lived here many years."
+"That's a history question. You'd do better asking Archmage Khadgar." Garithos snorted. "I'm from the Eastweald, Master Sesso. I haven't lived here many years."
 
 "There is a connection." Khadgar said. "The Fenris family is very old. Their ancestors landed on this island long ago and founded a village here, naming it Fenris. Over two thousand years of constant struggle, inheritance, and division, the Fenris family lost the island and later moved to the Gilnean Peninsula. So yes, there is a connection."
 
@@ -66,13 +66,13 @@ Because that meant the Fenris family had built their fortress on this island at 
 
 Khadgar glanced at Jace. Jace could only nod.
 
-Back in the hall, once Garithos had left, Jace checked the corridor outside, shut the door, and said, "Forget diplomatic protocol and arcane regulations. Teleport us both back to Dalaran right now, Khadgar. Morofil just told me the castle is Nathrezim-controlled. We need to get back and tell the Kirin Tor to sweep Fenris Keep. I'm even starting to suspect..."
+Back in the hall, once Garithos had left, Jace checked the corridor outside, shut the door, and said, "Forget diplomatic protocol and arcane regulations. Teleport us both back to Dalaran right now, Khadgar. Morophil just told me the castle is Nathrezim-controlled. We need to get back and tell the Kirin Tor to sweep Fenris Keep. I'm even starting to suspect..."
 
 "That this is where the secret sanctuary is." Khadgar finished grimly.
 
 "Maybe the summoning hasn't started yet. There's still time." Jace said.
 
-Khadgar grunted. "Stand closer. You have no idea how much power it takes to send you and that damned staff across Lake Lordamere."
+Khadgar grunted. "Stand closer. You have no idea how much power it takes to send you and that damned staff across Lordamere Lake."
 
 "Sorry, Khadgar." Jace said helplessly.
 
@@ -90,7 +90,7 @@ The decorative style on the walls, the floor pattern, the magical runes, the pal
 
 And there was no one here. If this was the Violet Citadel, he'd be surrounded by battle mages by now. Setting that aside... where was Khadgar?
 
-The soul link was still there, but he couldn't make out the direction. Morofil felt nearby, yet also everywhere at once. What the hell was this place?
+The Soul Link was still there, but he couldn't make out the direction. Morophil felt nearby, yet also everywhere at once. What the hell was this place?
 
 "Khadgar?"
 
@@ -98,6 +98,6 @@ He called out softly. No response.
 
 Rounding a corner, he saw someone in a dark-blue robe with black trim slumped against the wall. Jace rushed over and pushed back the hood. It was a dead gnome.
 
-He remembered that face. At least, he remembered that outfit. At Anduin Lothar's funeral in Stormwind, this gnome had stood beside Solara, Acridfire, and Vaelastrasz.
+He remembered that face. At least, he remembered that outfit. At Anduin Lothar's funeral in Stormwind, this gnome had stood beside Sola, Needleflame, and Vaelastrasz.
 
 A blue dragon. The blue dragon who had come to Stormwind that day to investigate the ley line anomalies.

@@ -14,9 +14,9 @@ On the towering shoulder of the clefthoof bull, the green dragon pulled her head
 
 "If I hadn't acted as bait to draw its attention, you probably wouldn't have had the chance to loose that arrow," Jace said calmly, lying back on his arm against a rock.
 
-"If I hadn't loosed that arrow, you wouldn't be the bait — you'd be the snack," Vereesa said, glaring. "Snack?"
+"If I hadn't loosed that arrow, you wouldn't be the bait — you'd be the snack," Vereesa said, glaring.
 
-The green dragon pulled her head back out and looked this way, her movement scattering another large flock of kaliri. Jace looked at the clefthoof's back and felt the gathering birds were growing more numerous.
+"Snack?" The green dragon pulled her head back out and looked this way, her movement scattering another large flock of kaliri. Jace looked at the clefthoof's back and felt the gathering birds were growing more numerous.
 
 That roar of hers hadn't scared off many at all — it had actually drawn more birds in. By now, even some grey-winged, slightly leaner Bone Wastes vultures had flown in from beyond the mountains, wanting a piece of the action.
 
@@ -28,31 +28,35 @@ By now, the ranger and the dwarf, still arguing over who'd contributed more to t
 
 "We should leave here," Jace murmured, staring at the scars on the clefthoof's back. "God knows what this clefthoof bull might attract."
 
-"Wait till I wrap up this roasted meat," Grede said, sitting up. "Sola!" Vereesa called. "We're getting ready to move out!"
+"Wait till I wrap up this roasted meat," Grede said, sitting up.
+
+"Sola!" Vereesa called. "We're getting ready to move out!"
 
 Hearing the voice, the green dragon not only didn't pull her head out — she bit down and tore at the flesh even more eagerly. After all, who knew when she'd get to feast like this again?
 
 The group packed up their things and quickly left the clefthoof bull's corpse. Once they'd reached higher ground and looked back, the flocks of kaliri and other scavenger birds of every color converging from the sky were already a spectacular sight.
 
-Even after flying far away, they could still see birds heading there in flocks. And not just birds — after one night, even some wargs had picked up the scent and found their way here, all joining in for this rare feast.
+Even after flying far away, they could still see birds heading there in flocks. And not just birds — after one night, even some worgs had picked up the scent and found their way here, all joining in for this rare feast.
 
 "Looks like we did a good deed," Grede said, looking at the beasts converging from sky and earth toward the same direction. "The animals here will live a few more months thanks to this."
 
-*I* did a good deed," Vereesa corrected.
+"*I* did a good deed," Vereesa corrected.
 
-"Damn it, Vereesa, your birth must have been an absolute nightmare for your two sisters," Grede grumbled impatiently. "Hundreds of peace and quiet, shattered for no reason. And this torment might go on for another few centuries or even millennia — just the thought of it makes me want to report to Khaz Modan ahead of schedule…"
+"Damn it, Vereesa, your birth must have been an absolute nightmare for your two sisters," Grede grumbled impatiently. "Hundreds of years of peace and quiet, shattered for no reason. And this torment might go on for another few centuries or even millennia — just the thought of it makes me want to go join my ancestors ahead of schedule…"
 
 "Don't talk," Vereesa said suddenly.
 
-"What?" Jace looked back. The green dragon, beating her wings hard, also tilted her head to glance over. "Look." Vereesa pointed at a wilderness in the distance. "Those wargs…"
+"What?" Jace looked back. The green dragon, beating her wings hard, also tilted her head to glance over.
+
+"Look." Vereesa pointed at a wilderness in the distance. "Those worgs…"
 
 "Uh." Grede swallowed. "What about them?"
 
-"Those wargs are being ridden," Vereesa said. "Fly higher and farther, Sola. Fly far away — don't let them notice you're a dragon."
+"Those worgs are being ridden," Vereesa said. "Fly higher and farther, Sola. Fly far away — don't let them notice you're a dragon."
 
 "You can see that from this distance?" Grede asked, astonished.
 
-Jace also looked at Vereesa in surprise, because when he looked over he could only see what seemed to be something moving on the distant wilderness. Let alone whether they were a few wargs, he wasn't even sure those things were anything other than one of the countless tumbling rocks, and the so-called movement was just the shifting of light and shadow on the grass and stones in broad daylight.
+Jace also looked at Vereesa in surprise, because when he looked over he could only see what seemed to be something moving on the distant wilderness. Let alone whether they were a few worgs, he wasn't even sure those things were anything other than one of the countless tumbling rocks, and the so-called movement was just the shifting of light and shadow on the grass and stones in broad daylight.
 
 "Fly far? But if those are orcish riders, shouldn't we follow them?" Grede asked. "Following them would definitely lead us to an orc village."
 
@@ -62,21 +66,25 @@ Jace also looked at Vereesa in surprise, because when he looked over he could on
 
 "Your lead, Vereesa." The green dragon shifted course slightly and turned to fly southwest.
 
-This was indeed the direction the wargs had come from. Still, Jace stared at the map in Vereesa's hands and felt that after flying from Shattrath City, they should have headed northwest to reach Garadar. Flying south now was taking them farther and farther off course, wasn't it?
+This was indeed the direction the worgs had come from. Still, Jace stared at the map in Vereesa's hands and felt that after flying from Shattrath City, they should have headed northwest to reach Garadar. Flying south now was taking them farther and farther off course, wasn't it?
 
 Considering that conditions here on Draenor differed somewhat from what he'd known in his past life, he didn't raise an objection. If, as they flew, they spotted Oshu'gun in the distance, they could always adjust course and head north again.
 
 After half a day's flight, as the sky was beginning to darken, the group prepared to pick a place to rest. There was a glint of light on the horizon — the way arcane glow from the void shimmered on the surface of water.
 
-"We've found a river. Those wargs probably drank here before heading to the clefthoof," Vereesa said, looking at the map. "Only I'm not sure which river this is on here… I think we may have already flown beyond the range this map depicts in detail."
+"We've found a river. Those worgs probably drank here before heading to the clefthoof," Vereesa said, looking at the map. "Only I'm not sure which river this is on here… I think we may have already flown beyond the range this map depicts in detail."
 
 "Well then here's the question." Grede looked at Jace and Vereesa. "Do we go upstream or downstream?"
 
-"Upstream," Jace said with certainty. "Why?" Grede asked.
+"Upstream," Jace said with certainty.
 
-It certainly wasn't because Jace knew Garadar was built in Nagrand's higher elevations, not far from the Elemental Throne at the highest point.
+"Why?" Grede asked.
 
-"When you were at Aerie Peak, did even the Wildhammer lord have to listen to the sages' counsel?" he asked. "Ah, yes," Grede said.
+It certainly wasn't because Jace knew Garadar was built in Nagrand's higher elevations, not far from the Throne of the Elements at the highest point.
+
+"When you were at Aerie Peak, did even the Wildhammer lord have to listen to the sages' counsel?" he asked.
+
+"Ah, yes," Grede said.
 
 "Now is the time to listen to a sage's counsel." Jace narrowed his eyes slightly. "I am, without question, the person in this entire group most skilled at communicating with the elements — the sage."
 
@@ -112,7 +120,7 @@ By now Jace had finished transforming. He patted out a flame at his waist, then 
 
 "Good," Jace said. "If I run into trouble inside, I'll find a way to let Morophil know. She'll stay here with you. Will that earring work effectively here?"
 
-"It will, Jace." Sola touched the emerald gem in her palm. "The life-force of Nagrand is abundant. Relying on the support of this unfamiliar natural energy, Vereesa's pendant is more than enough to help us slip into the realm of the Dream."
+"It will, Jace." Sola touched the emerald gem in her palm. "The life-force of Nagrand is abundant. Relying on the support of this unfamiliar natural energy, Vereesa's earring is more than enough to help us slip into the realm of the Dream."
 
 "Then if the orcs tie me up, remember to use that to rescue me," Jace said. "Try not to harm these orcs. After all, I'm appearing as an orc tainted by fel blood — even if they're hostile toward me, it's understandable."
 
@@ -124,4 +132,4 @@ For a moment he'd almost thought Grede was a transmigrator too.
 
 Of course, Jace knew the "Horde warchief" the dwarf meant was Orgrim Doomhammer, and the "old grandmother" business was just a classic Wildhammer joke about a village of old, weak, sick, and disabled folk.
 
-But if this village really was Garadar, there did indeed live an old grandmother respected by many orcs. Only she wasn't Orgrim's — she was the grandmother of Thrall, the warchief who would found the new Horde in less than ten years' time: Durotan's mother, mate of the old Frostwolf chieftain Galard — Greatmother Geyah.
+But if this village really was Garadar, there did indeed live an old grandmother respected by many orcs. Only she wasn't Orgrim's — she was the grandmother of Thrall, the warchief who would found the new Horde in less than ten years' time: Durotan's mother, mate of the old Frostwolf chieftain Garad — Greatmother Geyah.

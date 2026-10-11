@@ -4,35 +4,35 @@ When Jace opened the window the next morning, the whole view of the world was a 
 
 Snow was falling hard outside, blanketing all of Everlook in a fresh layer like a white quilt. Quite a few people were standing in their doorways gazing out at the heavy snow. Some young children were running around in it, chasing each other, their laughter drifting in and out of hearing.
 
-On the table, a cloth was spread out with a loaf of bread on it — probably bought for him by Windrunner. He didn't remember having such a fresh-baked loaf in his luggage. It was even sprinkled with bits of smoked ham, exactly the flavor he liked.
+On the table, a cloth was spread out with a loaf of bread on it — probably bought for him by Vereesa. He didn't remember having such a fresh-baked loaf in his luggage. It was even sprinkled with bits of smoked ham, exactly the flavor he liked.
 
-Jace got dressed, wrapped himself in his cloak, and headed out into the hallway, munching as he went. Windrunner was in the distance talking to Musa about something. Grede was busy in front of a large snowman, looking nearly finished.
+Jace got dressed, wrapped himself in his cloak, and headed out into the hallway, munching as he went. Vereesa was in the distance talking to Mosa about something. Grede was busy in front of a large snowman, looking nearly finished.
 
-Jace walked up beside Grede. "How's Musa doing?"
+Jace walked up beside Grede. "How's Mosa doing?"
 
 Grede patted the snowman's head, packing the snow firm, and shook his head. "Not great. She's not as okay as she looks, Jace. Those demons used wicked magic to drain her mana and control her dreams. That elven temple's teleportation array — it was originally powered by draining other people's mana to operate. You remember, don't you? The satyrs were in control of that crystal shard…"
 
-"The Simarlon Crystal," Jace said.
+"The Crystal of Zin-Malor," Jace said.
 
-"You can remember some twisty elven name like that after hearing it just once?" Grede bored a hole in the snowman's face with his finger as he spoke. "That crystal's shards can drain mana. Musa and those two elf druids were tortured horribly by them."
+"You can remember some twisty elven name like that after hearing it just once?" Grede bored a hole in the snowman's face with his finger as he spoke. "That crystal's shards can drain mana. Mosa and those two elf druids were tortured horribly by them."
 
 "So she needs proper rest to recover," Jace said.
 
 "You trying to rush her to get back on the road?" Grede asked.
 
-"Of course not," Jace said. "There's no rush. Ursulus can wait there eight hundred years — a few more days or weeks won't matter."
+"Of course not," Jace said. "There's no rush. Ulthalesh can wait there eight hundred years — a few more days or weeks won't matter."
 
 "A few weeks," Grede muttered, jamming a thick stick into the hole on the snowman's head as a nose. "I don't know. I'm afraid it's not that optimistic."
 
 Jace nodded. "You said before that you wanted to stay in Kalimdor this time — was that genuine?"
 
-"Why would I say it if it wasn't genuine?" Grede said, straightening out the pile of broken pine twigs in his hands. "But I get the feeling Musa isn't all that enthusiastic about my decision."
+"Why would I say it if it wasn't genuine?" Grede said, straightening out the pile of broken pine twigs in his hands. "But I get the feeling Mosa isn't all that enthusiastic about my decision."
 
-"Musa is a tough, headstrong fighter, Grede," Jace said. "She's single-minded about saving her tribe. This time searching for the Moon Goddess's treasure, I've seen just how much resolve she has to achieve that goal. But now it's clear this road isn't going anywhere,
+"Mosa is a tough, headstrong fighter, Grede," Jace said. "She's single-minded about saving her tribe. This time searching for the Moon Goddess's treasure, I've seen just how much resolve she has to achieve that goal. But now it's clear this road isn't going anywhere,
 
 "and she only got rescued because of the four of us… Don't forget, this is the second time we've saved her. Put yourself in her shoes — if you were her, at this point, would you accept your lover abandoning everything on the other side — friends, family, homeland — to stay here and keep helping you pursue her goal?"
 
-"I wouldn't mind, personally. It's not like I've got anything going on over there. I'm not a Ranger-Lord managing a bunch of little rangers," Grede said, sticking pine twigs one by one onto the snowman's head. "And I'm used to wandering. Kalimdor is just 'another place' to me."
+"I wouldn't mind, personally. It's not like I've got anything going on over there. I'm not a Ranger Lord managing a bunch of little rangers," Grede said, sticking pine twigs one by one onto the snowman's head. "And I'm used to wandering. Kalimdor is just 'another place' to me."
 
 "She definitely won't feel good about it. She'll feel like she owes you too much," Jace said.
 
@@ -40,7 +40,7 @@ Jace nodded. "You said before that you wanted to stay in Kalimdor this time — 
 
 Jace blinked. "Why?"
 
-"Hurry up." Grede slapped him on the waist.
+"Hurry up." Grede slapped him on the hip.
 
 Jace sighed and flicked his fingers. A burst of dark red flame erupted from the top of the snowman's head. The blood-red color lit up the whole snowman in an instant, making it look vicious and sinister.
 
@@ -74,7 +74,7 @@ He'd barely finished when he took a hard smack to the side of the face. For a se
 
 He lay on the ground fumbling for a long while before he got his bearings. From far off he only vaguely heard: "Dare to have a snowball fight with me? You really have no idea where we're from! For Khaz Modan!"
 
-Jace stood up furiously, packing snow, but the dwarf was nowhere to be found in the vast white. "Aren't you doing this for Khaz Modan?!"
+Jace stood up furiously, packing snow, but the dwarf was nowhere to be found in the vast white. "Since when do you fight for Khaz Modan?!"
 
 Just then, a big head suddenly popped out of the snow to his front-left, and a snowball came flying. Jace was stunned — a sneak attack?!
 
@@ -90,73 +90,73 @@ The dwarf's shouts grew fainter and fainter. Just then, Jace felt something was 
 
 "No… no, come on… I'm sorry," he murmured.
 
-A snowball bigger than his entire upper body came crashing down on him all at once. The impact nearly sent him to the heavens. It felt like getting swallowed by an avalanche in an instant, engulfed in endless white. He struggled to climb out, and all he could hear was Musa going "heh-heh-heh" with her goofy laugh.
+A snowball bigger than his entire upper body came crashing down on him all at once. The impact nearly sent him to the heavens. It felt like getting swallowed by an avalanche in an instant, engulfed in endless white. He struggled to climb out, and all he could hear was Mosa going "heh-heh-heh" with her goofy laugh.
 
-He finally crawled out and bolted a few yards, but Musa easily caught up with big strides.
+He finally crawled out and bolted a few yards, but Mosa easily caught up with big strides.
 
 She was already holding another giant basin of snow. Jace immediately yelled, "Help! Somebod—"
 
 "I'm coming to save you, master!"
 
-A tiny clump of snow bounced off Musa's shoulder. Musa turned and hoofed up a huge spray of snow, burying Sazeno entirely. A shriek came from below: "I'm done! Done again! I'm done, I'm done…"
+A tiny clump of snow bounced off Mosa's shoulder. Mosa turned and hoofed up a huge spray of snow, burying Sazeno entirely. A shriek came from below: "I'm done! Done again! I'm done, I'm done…"
 
 "Useless…"
 
-Jace glanced over — Morophil and Grede were locked in a fierce snow war. Musa's hands were raised high, when suddenly a fast-moving snowball slammed into her wrist. The tauren grunted in pain, and the giant basin of snow cracked and shed a big chunk.
+Jace glanced over — Morophil and Grede were locked in a fierce snow war. Mosa's hands were raised high, when suddenly a fast-moving snowball slammed into her wrist. The tauren grunted in pain, and the giant basin of snow cracked and shed a big chunk.
 
-"Saved your life again, Jace," a dark figure in the distance called out, laughing as it hid back in the snow. "Come catch me, Musa…"
+"Saved your life again, Jace," a dark figure in the distance called out, laughing as it hid back in the snow. "Come catch me, Mosa…"
 
-Musa clenched what was left of the snow in her hands into a solid ice-ball and hurled it hard at that shadow. The figure yelped and fell, and Musa flashed a satisfied smile.
+Mosa clenched what was left of the snow in her hands into a solid ice-ball and hurled it hard at that shadow. The figure yelped and fell, and Mosa flashed a satisfied smile.
 
 "This tauren's too strong — let's take her on together!" Jace shouted.
 
-Before he'd even finished, the moment Jace looked up he got buried under another massive heap of snow. When he climbed back out, Musa had indeed become the focus of a group assault.
+Before he'd even finished, the moment Jace looked up he got buried under another massive heap of snow. When he climbed back out, Mosa had indeed become the focus of a group assault.
 
 By now, quite a few goblins, travelers, and even hunters had joined in. Amid the heavy snow, a motley crowd of all heights and sizes, dressed in all manner of clothes, from every corner of the world, were all tangled up together.
 
 Amid the flying snowballs, Jace even spotted a small Frostbolt trying to sneak into the mix, moving at an unusually high speed — then from a distance came a shout: "No spells, Strom!"
 
-Jace was watching the spectacle when Windrunner suddenly pounced on him from behind, pinning him down laughing, and scooped up a huge handful of snow to shove down his collar. Jace felt a chill on his back. He tried to struggle free, but he couldn't easily throw off Quel'Thalas's most badass ranger. He finally squirmed aside and tried to turn and fight back — when, from the corner of his eye, he caught a lone figure standing off in the distance.
+Jace was watching the spectacle when Vereesa suddenly pounced on him from behind, pinning him down laughing, and scooped up a huge handful of snow to shove down his collar. Jace felt a chill on his back. He tried to struggle free, but he couldn't easily throw off Quel'Thalas's most badass ranger. He finally squirmed aside and tried to turn and fight back — when, from the corner of his eye, he caught a lone figure standing off in the distance.
 
-Windrunner saw where Jace's gaze had gone, caught her breath, and withdrew her smile, looking that way too.
+Vereesa saw where Jace's gaze had gone, caught her breath, and withdrew her smile, looking that way too.
 
 Over there, Sola was standing by herself, head lowered, lost in thought. Compared to the laughter and revelry in Everlook's plaza, she seemed terribly cold and lonely.
 
 "Go hit her," Jace said softly.
 
-"Is that a good idea?" Windrunner said, a little hesitant. "She is a dragon, after all. She might think…"
+"Is that a good idea?" Vereesa said, a little hesitant. "She is a dragon, after all. She might think…"
 
 "She's a dragon, so what? It's not like we've never fought one," Jace said.
 
 "Is that the same thing?"
 
-Windrunner gave Jace a light push as she spoke, but she was still holding a small snowball. "Bigger," Jace reminded her.
+Vereesa gave Jace a light push as she spoke, but she was still holding a small snowball. "Bigger," Jace reminded her.
 
-Windrunner reluctantly packed another layer of snow onto the ball, snuck up, and hurled it hard.
+Vereesa reluctantly packed another layer of snow onto the ball, snuck up, and hurled it hard.
 
 Sola had been standing there daydreaming. The hit to her head made her clutch it and look over, still a bit at a loss.
 
 Watching this, Jace really couldn't reconcile her with the vicious dragon from his dream that had swept away an entire forest with one breath of corrosive flame.
 
-"Uh… sorry," Windrunner gave an awkward laugh.
+"Uh… sorry," Vereesa gave an awkward laugh.
 
 "Sorry, Sola," Jace said apologetically too. "But… aren't you going to come play?"
 
-Sola didn't respond. Jace and Windrunner exchanged a glance and quietly backed off. Windrunner bumped him with her shoulder. "Aren't you just bullying her?"
+Sola didn't respond. Jace and Vereesa exchanged a glance and quietly backed off. Vereesa bumped him with her shoulder. "Aren't you just bullying her?"
 
 "Me? Bully a green dragon?" Jace poked her in the ribs. "Besides, you're the one who threw the snowball."
 
-"Fuck you, you scoundrel," Windrunner muttered.
+"Fuck you, you scoundrel," Vereesa muttered.
 
-Windrunner had barely turned her head when a snowball came flying and smacked into her hood.
+Vereesa had barely turned her head when a snowball came flying and smacked into her hood.
 
 She shook the snow off her head. Jace looked over — Sola was crouching in the snow, staring intently their way, seriously scooping up snow and packing a snowball.
 
 "Get her!"
 
-Windrunner grinned and nodded, immediately crouching to scoop snow too.
+Vereesa grinned and nodded, immediately crouching to scoop snow too.
 
-Soon the three of them were locked in battle, chasing each other and diving into the snow. Even Sola, who rarely smiled, was laughing happily. "Little Jace, are you cheating? Are you using that sword to summon ice magic?"
+Soon the three of them were locked in battle, chasing each other and diving into the snow. Even Sola, who rarely smiled, was laughing happily. "Jace, lad, are you cheating? Are you using that sword to summon ice magic?"
 
 "Don't slander me. Can you even see clearly at your height?"
 
@@ -166,7 +166,7 @@ Soon the three of them were locked in battle, chasing each other and diving into
 
 "Oh my Light!"
 
-"so cold! Agh!"
+"So cold! Agh!"
 
 "Hey, Sola — your tail… your tail's sticking out…"
 
@@ -176,20 +176,20 @@ Jace tripped over a pit in the middle of the road and fell. As he sat up and loo
 
 Figures swayed back and forth in the snow. The tauren and an ogre mercenary's silhouettes were the most prominent — they were also the main targets of everyone's attack. The ogre's delighted laughter came through the snow particularly clearly, mixed with his bellowing. That guy seemed like he'd never get tired, tirelessly fighting back every passerby who attacked him.
 
-But Musa was clearly already hitting her physical limit. Every so often she'd have to stop and catch her breath, and the rest would tacitly stop chasing her and give anyone some time to rest.
+But Mosa was clearly already hitting her physical limit. Every so often she'd have to stop and catch her breath, and the rest would tacitly stop chasing her and give her some time to rest.
 
-Anyone could see she was in really bad shape. Never mind that she'd already spent several months training at the Archdruid's son's place — even back when they'd first met her in the Shimmering Flats, there's no way she would've been worn out from playing for just this long.
+Anyone could see she was in really bad shape. Never mind that she'd already spent several months training at the Cenarius's son's place — even back when they'd first met her in the Shimmering Flats, there's no way she would've been worn out from playing for just this long.
 
-Now Musa seemed to have caught her breath again. She raised her head toward where Grede was in the distance, scooped up another huge chunk of snow from the ground, and prepared to go find some poor sucker for a sneak attack.
+Now Mosa seemed to have caught her breath again. She raised her head toward where Grede was in the distance, scooped up another huge chunk of snow from the ground, and prepared to go find some poor sucker for a sneak attack.
 
-Jace licked his lips, ready to play the lurking predator — but after Musa walked away, several other figures were revealed in the distance.
+Jace licked his lips, ready to play the lurking predator — but after Mosa walked away, several other figures were revealed in the distance.
 
 Right now the street was full of people having snowball fights and chasing each other, running back and forth, falling down… which made those few motionless figures stand out starkly.
 
-They were all dressed in dark clothes — grey, dark brown, even black — wearing dark cloaks, with sharp weapons at their waists or on their backs.
+They were all dressed in dark clothes — grey, dark brown, even black — wearing dark cloaks, with sharp weapons at their hips or on their backs.
 
 Jace felt like he'd seen a group of people like this somewhere else before. Where… right. The arena of Eldre'Thalas.
 
-Black Riders.
+Dark Riders.
 
 These guys were undead, Medivh's treasure hunters. They'd tracked them down.

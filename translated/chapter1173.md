@@ -2,7 +2,7 @@
 
 "I'll take point."
 
-Grede eyed the faint purple glow, raised a hand, and moved past Wynneza to the front of the group. There were more purple draenei crystals ahead — all different sizes, some thin sheets, some fragments — but most had lost their power, lying scattered on the ground.
+Grede eyed the faint purple glow, raised a hand, and moved past Vereesa to the front of the group. There were more purple draenei crystals ahead — all different sizes, some thin sheets, some fragments — but most had lost their power, lying scattered on the ground.
 
 The group carefully made their way past them, weapons at the ready, until they reached the interior, where a small hut crudely piled together from mud and stone came into view.
 
@@ -24,7 +24,9 @@ Jace examined the crossbows. They were quite different from the crossbows of any
 
 "You don't actually think these crossbows can hurt us, do you?" Grede said. "I don't like being pointed at with crossbows. Put your weapons down, or there's no room for negotiation."
 
-Wynneza raised her bow. "Feel free to try loosing a shot. Trust me — you'll die miserably before you can even tell whether you hit." Jace glanced toward where Morophil was and urged her through the soul link not to act rashly.
+Vereesa raised her bow. "Feel free to try loosing a shot. Trust me — you'll die miserably before you can even tell whether you hit."
+
+Jace glanced toward where Morophil was and urged her through the Soul Link not to act rashly.
 
 He tugged his cloak to cover his chest. These crossbow bolts definitely couldn't pierce dragonhide. Still, hard as it was to believe, he felt he'd already guessed what these creatures were.
 
@@ -38,15 +40,17 @@ Jace could feel that these creatures' words appeared calm on the surface, but un
 
 "State your purpose," the leader of the strange figures said.
 
-"Put the crossbows down first," Wynneza snapped.
+"Put the crossbows down first," Vereesa snapped.
 
 The strange figures looked at each other. Grede said, "I'll count to three. When I reach one, we all lower our weapons together."
 
 The leader of the strange figures nodded. As the dwarf shouted his count, the two opposing groups finally lowered their weapons.
 
-"We mean no harm," Jace said, slinging his staff behind his back. He glanced at the weapons hanging all over Wynneza and Grede and added, "Of course, we came prepared to encounter enemies. You live here — you should know exactly how many ill-intentioned people are hiding in this forest."
+"We mean no harm," Jace said, slinging his staff behind his back. He glanced at the weapons hanging all over Vereesa and Grede and added, "Of course, we came prepared to encounter enemies. You live here — you should know exactly how many ill-intentioned people are hiding in this forest."
 
-"Yes," the strange figure said. "Orcs, demons, gnoll, trolls, beasts corrupted by fel energy, and..." As he spoke, he pushed back his hood, revealing a face that was extremely unsettling to look at.
+"Yes," the strange figure said. "Orcs, demons, gnolls, trolls, beasts corrupted by fel energy, and..."
+
+As he spoke, he pushed back his hood, revealing a face that was extremely unsettling to look at.
 
 His face was like that of a robot that hadn't specifically tried to imitate a human face, or some kind of arcane golem — there was no clearly visible nose. The entire face was like an incredibly rough wooden mask, with only two small eyes glowing with fel light set across it, and a lower jaw that looked like it might fall off at any moment attached at the very bottom.
 
@@ -60,23 +64,23 @@ The Broken loathed their own faces and forms, and were unwilling to admit that t
 
 When Jace had seen the appearance of this pitiable race in the game, he hadn't thought much of it. But when he actually encountered one face-to-face in the real world, he truly felt the impact of this irreversible withering and degeneration. Perhaps it was their words and emotions that added a sense of reality to the feeling.
 
-Grede, Wynneza, and Sola were all struck dumb when they saw the true faces of these creatures. After all, the inhabitants of Azeroth had by now seen the beast-like, cruel and violent Lost Ones, and they'd seen eredar sorcerers who were practically indistinguishable in appearance from draenei — but they had never seen an actual Broken.
+Grede, Vereesa, and Sola were all struck dumb when they saw the true faces of these creatures. After all, the inhabitants of Azeroth had by now seen the beast-like, cruel and violent Lost Ones, and they'd seen eredar sorcerers who were practically indistinguishable in appearance from draenei — but they had never seen an actual Broken.
 
 "What are you?" Grede couldn't help asking.
 
 "We, like the Horde, come from the other side of that gate," the leader of the Broken replied.
 
-"Your Common..." Wynneza looked at Jace in surprise, hesitating to continue.
+"Your Common..." Vereesa looked at Jace in surprise, hesitating to continue.
 
 Her instincts were good. These otherworldly beings who lived as recluses in the mountains and forests and had never had contact with humans or elves spoke Common better than she did.
 
-"We've realized we may never be able to return to the other side of the gate," the Broken said. Then, looking at Wynneza and Sola, he switched to Thalassian and said, "So we've studied your languages carefully."
+"We've realized we may never be able to return to the other side of the gate," the Broken said. Then, looking at Vereesa and Sola, he switched to Thalassian and said, "So we've studied your languages carefully."
 
 He looked at Grede again and spoke in Dwarvish: "And yours as well."
 
 Although this fellow carried a hollow tone in every language that sounded particularly similar to a demon's voice, and his accent wasn't quite right, Jace found it hard to pick out flaws in his pronunciation and grammar.
 
-This simple bit of communication alone defused most of the tension between Wynneza and Grede.
+This simple bit of communication alone defused most of the tension between Vereesa and Grede.
 
 Everyone had come here expecting to deal with a reclusive demon or a maddened Lost One. Discovering that the other party was calm, possessed sufficient intelligence, and seemed very easy to communicate with naturally dissolved a good deal of the hostility.
 
@@ -100,17 +104,17 @@ Grede was about to say something else, but realizing it would be better to let J
 
 This Broken's voice was a bit higher. Jace looked over and noticed that the speaker seemed a bit smaller than the other Broken, with wider eyes.
 
-"Don't use that kind of language to describe them, Lady Druiní," the leader of the Broken warned in Eredar.
+"Don't use that kind of language to describe them, Lady Druiní," the leader of the Broken warned in Eredun.
 
 A female Broken? Jace didn't remember ever seeing a female Broken in the game, so he was quite surprised.
 
-After saying this, the leader looked back at Jace and said, "I am Noburu, the keeper of this dwelling. Though I don't know if I can help you, speak your piece and let us hear it."
+After saying this, the leader looked back at Jace and said, "I am Noboru, the keeper of this dwelling. Though I don't know if I can help you, speak your piece and let us hear it."
 
 "Jace," Jace said. "From Stormwind."
 
-The one who called himself Noburu nodded, and Jace continued, "Then I'll get straight to the point. We came here looking for a Draenor teleportation coordinate."
+The one who called himself Noboru nodded, and Jace continued, "Then I'll get straight to the point. We came here looking for a Draenor teleportation coordinate."
 
-The moment Jace said this, Noburu's eyes widened slightly. Another Broken suddenly swore in Eredar and raised his crossbow at Jace again — but before the crossbow in his hands could be fully raised, a whip-like branch swept it flying into the forest.
+The moment Jace said this, Noboru's eyes widened slightly. Another Broken suddenly swore in Eredun and raised his crossbow at Jace again — but before the crossbow in his hands could be fully raised, a whip-like branch swept it flying into the forest.
 
 The Broken were thrown into disarray. They raised their crossbows and other weapons, ready to fight back, but the surrounding trees seemed to go mad all at once — roots burst from the ground and branches lashed wildly, knocking them down one by one, binding them and disarming them.
 

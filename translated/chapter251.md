@@ -16,7 +16,7 @@ After class that morning, Jace and Grede headed to the Pig and Whistle and found
 
 "One pale ale, half a sweetbread, a Winter Veil roast, and a bowl of mushroom soup — black mushroom soup."
 
-"I'll have a dark one. As much for the meat, a plate of blood sausage will do — hopefully they can manage a proper Thandol Span flavor," the dwarf said.
+"I'll have a dark one. As for the meat, a plate of blood sausage will do — hopefully they can manage a proper Thandol Span flavor," the dwarf said.
 
 "Right away." The bartender nodded and left. Grede pulled a purse from his coat and set it on the table. "This is the money from selling those orc coins, Jace. You take your share first."
 
@@ -38,11 +38,11 @@ He wasn't wearing that green robe — just the wool jacket he usually wore when 
 
 Jace touched his face guiltily. "What's off?"
 
-Grede wagged a finger. "It's not something on your face. It's you, as a whole. You've changed in the last couple of days. I'm just being honest about the keen perception I possess as a veteran amateur beast hunter of the Hinterlands, a former griffin rider, and a novice sage."
+Grede wagged a finger. "It's not something on your face. It's you, as a whole. You've changed in the last couple of days. I'm just being honest about the keen perception I possess as a veteran amateur beast hunter of the Hinterlands, a former gryphon rider, and a novice sage."
 
 "Do any of those random titles actually count as official?" Jace cut in.
 
-"That doesn't affect my intuition," Grede said. "Anyway — nothing's happened to these past couple of days? You really won't say anything? You couldn't make it to Redridge today even if you got up and left right now, so we might as well talk about it."
+"That doesn't affect my intuition," Grede said. "Anyway — nothing's happened to you these past couple of days? You really won't say anything? You couldn't make it to Redridge today even if you got up and left right now, so we might as well talk about it."
 
 "So what exactly has changed?" Jace asked, testing the waters.
 
@@ -114,17 +114,6 @@ A few days ago, listening to Grede boast over a meal, he'd thought the title of 
 
 "I support you," Jace said. "Hope you'll have found your direction by the time you come back. If there's anything I can help with, just say the word."
 
-"Good brother," Grede said.
+"That's a true friend," Grede said.
 
 The two clinked mugs. Jace glanced sideways at the tavern door and felt that leaving here had just become a great deal harder.
-
-## Flags
-
-- Jace and Grede share a farewell meal at the Pig and Whistle before departing in different directions — Jace to Redridge, Grede to Ironforge.
-- Grede announces his intention to seek the "Path of the Avatar" (天神下凡 / Descent of the Gods) in Ironforge — a grueling dwarven warrior tradition tied to their titan-forged bloodline.
-- Grede explains the Mountain King title: currently honorary, but with real requirements — constant battle and self-tempering to live up to the ancestors' standards as defender of Khaz Modan.
-- Grede's motivation: beating Hogger wasn't a real achievement (the gnoll pack made it hard, not Hogger alone), and he saw his own limits in the Elwynn forest. He needs to get stronger.
-- Grede references the planned "track" (railway) between Stormwind and Ironforge — Jace is surprised the in-game Deeprun Tram might actually be built in this era.
-- Grede's self-estimated timeline: one to three months; he'll pass through Menethil Harbor on the way to Ironforge.
-- Jace's secret: he's been spending all his time with a succubus (Morofil) and has learned to ignite shadow energy with fire — a new, powerful spell he's itching to test. Grede misreads his shadiness as "positive confidence."
-- Jace is traveling to Redridge to find a ranger named Roenmes about a dragon scale — not to Stonewatch this time.

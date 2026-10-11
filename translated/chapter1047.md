@@ -1,24 +1,24 @@
 ## Chapter 1047: A Menace That Must Not Be Left Behind
 
-The corrupted green dragon flew closer and closer. Jace could even see the festering flesh and exposed dark-purple veins beneath her membraned wings. She looked even more decayed than when he and that mercenary Obryk had encountered her before.
+The corrupted green dragon flew closer and closer. Jace could even see the festering flesh and exposed dark-purple veins beneath her membraned wings. She looked even more decayed than when he and that mercenary Obrik had encountered her before.
 
 She craned her neck, which was withered to the point of looking like a water-rotted log, her blank, pus-white eyes staring wide open. Rotting flesh exposed bone and oozing, dark-yellow ichor from unidentified organs — or perhaps tumors — all shuddering constantly against the flaps of skin spread open on her back like a blood eagle.
 
-Her form seemed to have shrunk a little, but she had still been an adult green dragon once, several times Solamiel's size. And the dark power radiating from her was even more complex and darker than before.
+Her form seemed to have shrunk a little, but she had still been an adult green dragon once, several times Somaelir's size. And the dark power radiating from her was even more complex and darker than before.
 
 Though it was shadow power all the same, Jace could clearly feel that the energy she radiated was something like a bottomless abyss — extremely difficult for him to get a grip on, let alone control. It reminded him of… the Nightmare.
 
-More whelps flew up from below trying to block their path. The moment Solamiel had to deal with these whelps she'd inevitably slow down, so Vereesa nocked another arrow — but Jace stopped her. "There are too many whelps, Wen. Let me handle them."
+More whelps flew up from below trying to block their path. The moment Somaelir had to deal with these whelps she'd inevitably slow down, so Vereesa nocked another arrow — but Jace stopped her. "There are too many whelps, Vere. Let me handle them."
 
-"Shaped targets like these are hard to hit with evocation magic, Jace," Vereesa said, raising her bow.
+"Small, darting targets like these are hard to hit with evocation magic, Jace," Vereesa said, raising her bow.
 
 "Then I won't use Shadow Bolts."
 
-Jace spoke as he braced himself against a horn on Sola's back and raised his sword. He picked out a smaller whelp that was flying close by, busy pooling venom in its mouth, and casually spoke a Curse of Weakness at it. The little creature immediately seemed unable to fly, its movements laborious, and was quickly left far behind by Solamiel's speed.
+Jace spoke as he braced himself against a horn on Sola's back and raised his sword. He picked out a smaller whelp that was flying close by, busy pooling venom in its mouth, and casually spoke a Curse of Weakness at it. The little creature immediately seemed unable to fly, its movements laborious, and was quickly left far behind by Somaelir's speed.
 
 Vereesa nodded, pressed low, and strode a few steps forward with her bow until she'd easily reached the green dragon's midsection, ready to deal with the corrupted dragon drawing nearer and nearer.
 
-Even though Solamiel was constantly dodging the whelps' pursuit and her body was shaking violently, the ranger's footing remained as steady as if she'd been fitted with a gyroscope.
+Even though Somaelir was constantly dodging the whelps' pursuit and her body was shaking violently, the ranger's footing remained as steady as if she'd been fitted with a gyroscope.
 
 She fired two arrows in quick succession at the dragon closing in. One struck a patch of skin beneath its eye accurately; the other pierced its shoulder. But the dragon showed no reaction at all, only "regurgitating" venom from its belly into its mouth in gulps.
 
@@ -26,7 +26,7 @@ There was no question — this monstrous dragon had no sensation left. Dealing d
 
 Vereesa nocked another arrow. This time she spoke an incantation again, coiling arcane energy around the arrowhead, while Grede also seized the moment and raised his warhammer, shouting out words of the elements.
 
-The dark sky was split by a bolt of lightning that struck the warhammer, illuminating Solamiel's back. Even the vicious, savage expressions of the whelps circling and trying to catch up were lit up with stark clarity.
+The dark sky was split by a bolt of lightning that struck the warhammer, illuminating Somaelir's back. Even the vicious, savage expressions of the whelps circling and trying to catch up were lit up with stark clarity.
 
 But just as the dwarf swung his arm, the corrupted dragon let out a "waaah" and spewed a massive cloud of black-green poison that spread rapidly, blotting out their vision.
 
@@ -40,13 +40,13 @@ Vereesa kept her bow raised and cursed under her breath at the poison cloud that
 
 "I'm a goddamn dwarf!" Grede roared, his warhammer flashing with lightning again. But the corrupted dragon had used the cover of the poison cloud to vanish without a trace.
 
-Jace saw that Solamiel had no chance of escaping before the fog dispersed, so he stopped wasting time drinking potions himself and turned to the demon beside him. "Morophil, hold me up!"
+Jace saw that Somaelir had no chance of escaping before the fog dispersed, so he stopped wasting time drinking potions himself and turned to the demon beside him. "Morophil, hold me up!"
 
 Morophil, relying on her supernatural balance, stood far more steadily on the green dragon's back than Jace. She braced him so he could raise both arms and speak the words of the elements. After summoning two balls of flame, he raised his arm and swung again and again, sending two continuous sheets of fire to splash against the poison fog.
 
-Flame met venomous spray… the moment they collided, black smoke billowed in every direction. The rapid spread of the poison fog was finally contained, buying Solamiel at least a little time and space to fly clear.
+Flame met venomous spray… the moment they collided, black smoke billowed in every direction. The rapid spread of the poison fog was finally contained, buying Somaelir at least a little time and space to fly clear.
 
-Solamiel tilted her body slightly, preparing to dodge to one side — but then a shadow trailing faint arcs of lightning suddenly emerged from between the black smoke and poison fog, off to the side.
+Somaelir tilted her body slightly, preparing to dodge to one side — but then a shadow trailing faint arcs of lightning suddenly emerged from between the black smoke and poison fog, off to the side.
 
 "Over there, over there!" Grede pointed at the glimmer of light. "She's there!"
 
@@ -54,9 +54,9 @@ Vereesa immediately took aim at that hazy glimmer of lightning and softly spoke 
 
 Inside its gaping maw, between the torn scraps of skin and mucous membrane, another thick mass of venom was already overflowing.
 
-This strike was far closer than it appeared, and extremely sudden. Even Grede let out a startled "Whoa!" The giant mouth seemed to pluck everyone right off Solamiel's back in one bite.
+This strike was far closer than it appeared, and extremely sudden. Even Grede let out a startled "Whoa!" The giant mouth seemed to pluck everyone right off Somaelir's back in one bite.
 
-Solamiel was so frightened she veered away immediately, but the violent motion nearly shook Grede and Jace right off the dragon's back. Only Vereesa, incantation complete, steadily fired an arrow trailing arcane light straight into the corrupted dragon's mouth.
+Somaelir was so frightened she veered away immediately, but the violent motion nearly shook Grede and Jace right off the dragon's back. Only Vereesa, incantation complete, steadily fired an arrow trailing arcane light straight into the corrupted dragon's mouth.
 
 The arcane radiance instantly lit up the inside of the dragon's maw to a deathly white. After it dimmed, the arrow punched out through the back of its head, trailing an increasingly faint gleam of light before vanishing into the dark forest.
 
@@ -90,19 +90,19 @@ The words had barely left her mouth when Jace suddenly felt a surge of intense m
 
 He'd shouted too late. Before the words were out, several vines shot out from the dark-yellow, blackened canopy and wrapped tightly around the green dragon's body.
 
-Solamiel tried to take off but was utterly powerless to resist. The struggling dragon's body immediately flung Jace away. He instantly used Shadowstep to try to flash back, but failed to reach the dragon's back. All he saw clearly was the green dragon reaching a helpless claw toward him before being dragged into the forest. He himself landed in the forest after the shadow power faded.
+Somaelir tried to take off but was utterly powerless to resist. The struggling dragon's body immediately flung Jace away. He instantly used Shadowstep to try to flash back, but failed to reach the dragon's back. All he saw clearly was the green dragon reaching a helpless claw toward him before being dragged into the forest. He himself landed in the forest after the shadow power faded.
 
 After being scraped by a large swath of branches and rotten leaves, Jace suddenly felt something grab his leg and swing him in a circle in midair before dangling him from a branch.
 
-He opened his eyes and pointed Azurewrath in every direction, then saw Morophil crouching on a branch beside him. "You're welcome, master."
+He opened his eyes and pointed Azuresong in every direction, then saw Morophil crouching on a branch beside him. "You're welcome, master."
 
 Jace nodded, caught his breath, checked himself over to confirm he didn't have any serious injuries, and dropped down from the tree.
 
-A series of muffled roars came from the forest. Jace could tell it was Solamiel's voice. But before he'd taken many steps in that direction, he was blocked by a patch of dark-green, brown-stemmed mushrooms that looked as if they'd broken out in corpse-spot blisters.
+A series of muffled roars came from the forest. Jace could tell it was Somaelir's voice. But before he'd taken many steps in that direction, he was blocked by a patch of dark-green, brown-stemmed mushrooms that looked as if they'd broken out in corpse-spot blisters.
 
-He quickly recognized these mushrooms, which he'd never seen anywhere else in the marsh. The last time he'd come here with Obryk's band of mercenaries, he'd nearly been blown to death by these things deep in the marsh. These were the creatures summoned by that monstrous dragon.
+He quickly recognized these mushrooms, which he'd never seen anywhere else in the marsh. The last time he'd come here with Obrik's band of mercenaries, he'd nearly been blown to death by these things deep in the marsh. These were the creatures summoned by that monstrous dragon.
 
-It was also because of this that Jace had judged she must be the Dreamwarden Emeriss herself, who specialized in summoning explosive poison mushrooms, or at least someone closely connected to her. Perhaps something like the relationship between Sola and Ysondre.
+It was also because of this that Jace had judged she must be the Dream Guardian Emeriss herself, who specialized in summoning explosive poison mushrooms, or at least someone closely connected to her. Perhaps something like the relationship between Sola and Ysondre.
 
 He raised both hands and called up fire, burning all the mushrooms blocking his path to ashes. The scorched mushrooms let out screams eerily similar to human cries, making him frown involuntarily.
 
@@ -110,7 +110,7 @@ He'd just broken through the obstruction of a vast mushroom patch and stepped in
 
 Jace drank a Mana Potion and was about to keep burning when a rapid string of "bup-bup-bup" explosions and roars came from ahead without the slightest warning.
 
-Then a green shadow rolled out of the mushroom forest, carrying a massive cloud of poison fog, and collapsed right in Jace's front, splashing up a huge wave of mud that nearly knocked him flying too.
+Then a green shadow rolled out of the mushroom forest, carrying a massive cloud of poison fog, and collapsed right in front of Jace, splashing up a huge wave of mud that nearly knocked him flying too.
 
 "Sola?"
 
@@ -120,11 +120,11 @@ The green dragon hoarsely roared and reached out a claw to grab Jace, her wings 
 
 "Let go of me, Sola!"
 
-Jace shouted and ran forward, slicing through the cloth bindings on Ursolus with one swing and raising the scythe.
+Jace shouted and ran forward, slicing through the cloth bindings on Ulthalesh with one swing and raising the scythe.
 
 Behind him, Sola weakly lowered her claw. Jace could see she was covered in wounds and cracks, and she vomited up a pool of yellow fluid — clearly she'd already taken a beating from that corrupted green dragon.
 
-The corrupted dragon suddenly smashed through a tree trunk, tearing through the fog, and swung a claw that was nothing but white bone at Jace with savage force. Jace gritted his teeth in hatred. He didn't even bother raising a Shadow Shield. He met it head-on, swinging Ursolus, its crimson blade extended, and cleanly hacked the entire claw off in one stroke.
+The corrupted dragon suddenly smashed through a tree trunk, tearing through the fog, and swung a claw that was nothing but white bone at Jace with savage force. Jace gritted his teeth in hatred. He didn't even bother raising a Shadow Shield. He met it head-on, swinging Ulthalesh, its crimson blade extended, and cleanly hacked the entire claw off in one stroke.
 
 The severed claw flew apart and immediately crumbled into a mass of bone fragments and rotting flesh. The corrupted dragon let out a piercing howl, losing its balance and lurching to one side — seemingly completely unprepared for what had just happened.
 

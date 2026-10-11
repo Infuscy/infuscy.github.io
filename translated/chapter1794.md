@@ -1,10 +1,10 @@
 ## Chapter 1794: Danger Breeds Opportunity
 
-Without leaving the warm, cozy room, Jace knew that outside the great abbey, things had already gone completely haywire.
+Without leaving the warm, cozy room, Jace knew that outside the Great Monastery, things had already gone completely haywire.
 
-The Black Wizard, the legendary evil Death Knight — for reasons nobody understood — had suddenly appeared from Kalimdor inside the abbey. With him came the Quel'Thalas and Aerie Peak nobles who'd been aiding his crimes all along, a mysterious green dragon, the taint of Deathwing that had fled back from Draenor... even Khadgar himself — one of the Kirin Tor leaders who'd just broken his way out of the Violet Hold.
+The dark warlock, the legendary evil death knight — for reasons nobody understood — had suddenly appeared from Kalimdor inside the monastery. With him came the Quel'Thalas and Aerie Peak nobles who'd been aiding his crimes all along, a mysterious green dragon, the spawn of Deathwing that had fled back from Draenor... even Khadgar himself — one of the Kirin Tor leaders who'd just broken his way out of the Violet Citadel.
 
-If that was the real Khadgar, then who the hell was still sitting in the Violet Hold right now? And why was he so relentlessly helping Jace Sesso, the notoriously infamous warlock, even at the cost of pissing off the Kirin Tor and every nation on the Lordaeron continent?
+If that was the real Khadgar, then who the hell was still sitting in the Violet Citadel right now? And why was he so relentlessly helping Jace Sesso, the notoriously infamous warlock, even at the cost of pissing off the Kirin Tor and every nation on the Lordaeron continent?
 
 Was it because a Nathrezim had possessed High Priest Isillien's body? Was the Church — no, the entire kingdom — being deceived by a bunch of demons? So the rumors from Blackrock Spire were true after all — demons really were walking among them.
 
@@ -12,13 +12,13 @@ And all this news was about to spread by gryphon to the capital, to Dalaran, to 
 
 "Don't overthink it, Master Sesso," the priest said quietly. "You know better than most that negative, uncontrolled emotions only slow down recovery."
 
-"I think I'm recovering pretty well, Father Montor," Jace said, looking at the dark-skinned priest. "And that's not just the potions doing the work. I didn't expect the abbey to have healers as skilled as you."
+"I think I'm recovering pretty well, Father Montor," Jace said, looking at the dark-skinned priest. "And that's not just the potions doing the work. I didn't expect the monastery to have healers as skilled as you."
 
-"Treating Holy Light burns?" Father Montor said. "The Holy Light isn't always merciful and loving. It often shows its wrathful, harsh side. The residents of this abbey know that better than most."
+"Treating Holy Light burns?" Father Montor said. "The Holy Light isn't always merciful and loving. It often shows its wrathful, harsh side. The residents of this monastery know that better than most."
 
 "I've felt that firsthand," Jace said.
 
-"I may not be qualified to judge what happened in the library," the priest said. "But I believe the Holy Light's burns weren't meant to stop you from defeating that fiend, Master Sesso. Don't forget — on the other hand, the Light also prevented the demon from escaping, and helped you make it pay for its schemes and sins. Every priest here — Bishop Fairbanks, the high priests, and myself — we all witnessed the Holy Light's choice. I hope that you won't lose faith in the Holy Light because of this."
+"I may not be qualified to judge what happened in the library," the priest said. "But I believe the Holy Light's burns weren't meant to stop you from defeating that fiend, Master Sesso. Don't forget — on the other hand, the Light also prevented the demon from escaping, and helped you make it pay for its schemes and sins. Every priest here — High Priest Fairbanks, the high priests, and myself — we all witnessed the Holy Light's choice. I hope that you won't lose faith in the Holy Light because of this."
 
 "I've always felt I had some connection to the Holy Light," Jace said.
 
@@ -30,11 +30,11 @@ Father Montor smiled, nodded, and pointed to the cloth bag on the side table. "I
 
 "The Light bless you."
 
-After the priest left the room, Vereesa pushed the door open and came in first, with Khadgar, Grede, Sora, and Needleflame following close behind.
+After the priest left the room, Vereesa pushed the door open and came in first, with Khadgar, Grede, Sola, and Needleflame following close behind.
 
 "Jace, they didn't really use the Holy Light to treat you, did they?" the ranger couldn't help asking.
 
-"You might not believe this, Ranger-General Windrunner," Khadgar said. "The Church would never admit it, but those people might understand shadow better than you do — and they definitely know better how to treat Holy Light burns on someone who wields shadow."
+"You might not believe this, Ranger Lord Windrunner," Khadgar said. "The Church would never admit it, but those people might understand shadow better than you do — and they definitely know better how to treat Holy Light burns on someone who wields shadow."
 
 The mage picked up one of the ointment boxes, opened it, and sniffed. "Wild Steelbloom, Swiftthistle, and a pinch of expensive Elemental Air. Exactly what I expected — these Church folks know their stuff."
 
@@ -42,19 +42,19 @@ The mage picked up one of the ointment boxes, opened it, and sniffed. "Wild Stee
 
 "Shut up, dwarf! I know he's fine too!" Needleflame snapped, plopping down next to Jace and sneaking a glance at the burn marks on his hands.
 
-"Just curious," Grede muttered, also eyeing the burns on Jace's neck. "What'd that demon say to ye before it died, Jace? Maybe I oughta learn some demonic language when I've got time."
+"Just curious," Grede muttered, also eyeing the burns on Jace's neck. "What'd that demon say to ye before it died, Jace? Maybe I oughta learn some Demonic language when I've got time."
 
-Jace glanced at the door. Sora shook her head. "The Church people are all out in the hallway, Jace. You don't need to worry."
+Jace glanced at the door. Sola shook her head. "The Church people are all out in the hallway, Jace. You don't need to worry."
 
-Only then did Jace speak. "He was convinced... that I'll be devoured by Urtales one day, just like all its previous owners. Khadgar must have caught that too."
+Only then did Jace speak. "He was convinced... that I'll be devoured by Ulthalesh one day, just like all its previous owners. Khadgar must have caught that too."
 
 "I did hear it," Khadgar said.
 
 "Then didn't everyone in the Church understand it too?" Vereesa looked up. "I know plenty of high priests who specialize in exorcism — they know demonic languages."
 
-"I don't think we need to worry about that, Ranger-General," Khadgar said. "After all, it was a Nathrezim who said it. Every soldier who fought at Blackrock Spire — including the Sons of Lothar — knows those demons will say anything to pin all the blame on Jace."
+"I don't think we need to worry about that, Ranger Lord," Khadgar said. "After all, it was a Nathrezim who said it. Every soldier who fought at Blackrock Spire — including the Sons of Lothar — knows those demons will say anything to pin all the blame on Jace."
 
-"If believing a demon disguised as a good person is just naivete, then believing what a real demon says is pure stupidity. Especially trusting the words of a demon known for schemes and plots, to doubt a hero who saved the abbey. I don't think we need to worry about it. As long as your conscience is clear..."
+"If believing a demon disguised as a good person is just naivete, then believing what a real demon says is pure stupidity. Especially trusting the words of a demon known for schemes and plots, to doubt a hero who saved the monastery. I don't think we need to worry about it. As long as your conscience is clear..."
 
 "Clear conscience?" Jace looked up.
 
@@ -76,13 +76,13 @@ Kil'jaeden's voice still echoed in his ears. Jace couldn't seem to shake that sc
 
 "Yeah, I admit it," Jace said.
 
-"Archmage Krasus is in Northrend searching for traces of demon summoning, and he'd already found some results before I was locked up in the Violet Hold," Khadgar said. "Also, I've had some contact with the Knife Club and SI:7. They're following leads the Kirin Tor provided on Nathrezim summoning rituals to track down any demonic summoning activity."
+"Archmage Krasus is in Northrend searching for traces of demon summoning, and he'd already found some results before I was locked up in the Violet Citadel," Khadgar said. "Also, I've had some contact with the Dagger Society and SI:7. They're following leads the Kirin Tor provided on Nathrezim summoning rituals to track down any demonic summoning activity."
 
-"Gathering enough spell components for a summoning as powerful as this, under such widespread scrutiny, is no easy feat. You and a group of exceptionally talented criminals with a gift for demonology once summoned Lord Kallez at the Storm Altar. You know better than anyone — finding another group like that to secretly pull off the same ritual won't be so easy now."
+"Gathering enough spell components for a summoning as powerful as this, under such widespread scrutiny, is no easy feat. You and a group of exceptionally talented criminals with a gift for demonology once summoned Lord Kallrez at the Altar of Storms. You know better than anyone — finding another group like that to secretly pull off the same ritual won't be so easy now."
 
 "Right," Jace said.
 
-"For now," Khadgar continued, "we've found two of the pieces Kil'jaeden placed here. According to the Black Dragon Princess, there are three left. We can confirm one is in the Kirin Tor. And we've already proven what this Illidan's Eye can do."
+"For now," Khadgar continued, "we've found two of the pieces Kil'jaeden placed here. According to the black dragon princess, there are three left. We can confirm one is in the Kirin Tor. And we've already proven what this Illidan's Eye can do."
 
 "Khadgar's Eye," the dwarf corrected.
 
@@ -90,13 +90,13 @@ Kil'jaeden's voice still echoed in his ears. Jace couldn't seem to shake that sc
 
 "That means we've regained some of the initiative," Vereesa added. "We can hunt them in return now."
 
-"Exactly, Ranger-General." Khadgar turned back. "A plan that requires five Nathrezim working together — losing two will seriously mess up their coordination. Once we root out the one in the Kirin Tor and prove to everyone that demonic deception is real and has already had deep-reaching effects, then Jace and I should be able to clear our names. Honestly, I think once the news from the abbey spreads outside, the situation will start to turn around."
+"Exactly, Ranger Lord." Khadgar turned back. "A plan that requires five Nathrezim working together — losing two will seriously mess up their coordination. Once we root out the one in the Kirin Tor and prove to everyone that demonic deception is real and has already had deep-reaching effects, then Jace and I should be able to clear our names. Honestly, I think once the news from the monastery spreads outside, the situation will start to turn around."
 
-"I hope so," Sora said quietly. "But if that happens, news that we're back will spread too. We won't be able to operate in the shadows anymore."
+"I hope so," Sola said quietly. "But if that happens, news that we're back will spread too. We won't be able to operate in the shadows anymore."
 
-"That's true, Lady Green Dragon." Khadgar scratched his chin. "And... Jace will definitely face a Kirin Tor investigation over Urtales. There's no avoiding it."
+"That's true, Lady Green Dragon." Khadgar scratched his chin. "And... Jace will definitely face a Kirin Tor investigation over Ulthalesh. There's no avoiding it."
 
-"Remember, Jace — I know I've said this a million times, and it's annoying, but I have to remind you again. They have no real evidence. Don't you dare suddenly grow a conscience and confess. As long as you don't admit it, there's always room to maneuver. I truly don't believe those old, rigid fools can figure out how to prove this damn thing is the real Urtales."
+"Remember, Jace — I know I've said this a million times, and it's annoying, but I have to remind you again. They have no real evidence. Don't you dare suddenly grow a conscience and confess. As long as you don't admit it, there's always room to maneuver. I truly don't believe those old, rigid fools can figure out how to prove this damn thing is the real Ulthalesh."
 
 "I'll definitely keep that in mind, Khadgar," Jace said. "But I think this might actually be a rare opportunity."
 

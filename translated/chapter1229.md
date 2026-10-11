@@ -1,6 +1,6 @@
 ## Chapter 1229: Who Is Jace Sesso
 
-The golden-haired ranger leaped off the void ray and rushed toward Vereesa. Vereesa could no longer hold back her emotions and threw herself into the ranger's arms. The two hugged each other tightly, and tears spilled from the golden elf's eyes, glimmering faintly in the misty light of Terokkar Forest at night.
+The golden-haired ranger leaped off the nether ray and rushed toward Vereesa. Vereesa could no longer hold back her emotions and threw herself into the ranger's arms. The two hugged each other tightly, and tears spilled from the golden elf's eyes, glimmering faintly in the misty light of Terokkar Forest at night.
 
 "This isn't a dream..." she murmured in Thalassian.
 
@@ -54,7 +54,9 @@ Jace looked at the Farstrider knight beside him. "Yes. Through a demon under my 
 
 Alleria drew a sharp breath. She looked at her younger sister. "Don't tell me you're only finding out about this now, Vereesa Windrunner."
 
-"No, I..." Vereesa hesitated. Alleria looked at her. "Who is he? Jace Sesso... that name sounds somewhat familiar. What is he, a demon summoner? And you're willing to trust that he brought you to this demon-infested place to find us?"
+"No, I..." Vereesa hesitated.
+
+Alleria looked at her. "Who is he? Jace Sesso... that name sounds somewhat familiar. What is he, a demon summoner? And you're willing to trust that he brought you to this demon-infested place to find us?"
 
 As she said this, the ranger captain's hand was already reaching for her quiver. Vereesa immediately grabbed her hand. "He's my fiancé, sister!"
 
@@ -62,7 +64,7 @@ Jace had already gripped his staff tight, ready to catch an arrow with magic —
 
 Fiancé...
 
-Of course that was what he thought too. And at the ceremony where Vereesa became Ranger-General, he'd felt all of Quel'Thalas probably saw it that way too.
+Of course that was what he thought too. And at the ceremony where Vereesa became a Ranger Lord, he'd felt all of Quel'Thalas probably saw it that way too.
 
 But the Alleria Windrunner before him was, after all, the true matriarch both Sylvanas and Vereesa recognized. And hearing the word come from Vereesa's own lips made it feel very different.
 
@@ -84,7 +86,7 @@ The dark blue forest was utterly silent, even the fog seeming to have frozen. Al
 
 Alleria looked at her younger sister in surprise, her eyes flickering. She lowered her head and thought for a moment. "Yes... I remember. Both Turalyon and I heard about it, right before the catastrophe happened. But I hadn't had time to remember that name before this whole world became completely different. It was Jace Sesso..."
 
-"And if not for him, maybe I and Sylvanas would have accepted your departure like the other Quel'dorei."
+"And if not for him, maybe Sylvanas and I would have accepted your departure like the other Quel'dorei."
 
 "Accepted reality!"
 

@@ -1,6 +1,6 @@
 ## Chapter 1742: Leaving the Nest
 
-"And the dragon mother?"
+"And the Broodmother?"
 
 In front of the cave that looked like a dragon's throat, Magatha Grimtotem watched the group emerge. She checked the dragonkin guards behind them, making sure they weren't about to stick a blade in anyone's back, then said: "She didn't eat you all?"
 
@@ -10,9 +10,9 @@ In front of the cave that looked like a dragon's throat, Magatha Grimtotem watch
 
 "Never intended to harm." Grede chuckled quietly, glancing at the various weapons slung across everyone's backs.
 
-"She would spare the black dragon's servants? She would forget past grudges and choose to let you go?" Magatha nearly roared, her voice echoing through the hills. Even Natira beside her looked frightened.
+"She would spare the black dragon's servants? She would forget past grudges and choose to let you go?" Magatha nearly roared, her voice echoing through the hills. Even Nathra beside her looked frightened.
 
-"Compared to settling old scores, the dragon mother and we have more important matters to attend to," Vereesa said.
+"Compared to settling old scores, the Broodmother and we have more important matters to attend to," Vereesa said.
 
 Magatha stood frozen and expressionless for a long moment. "I don't understand."
 
@@ -24,23 +24,23 @@ On the way back to Blackhoof Village, Magatha said nothing. There was nothing mo
 
 Jace's group had shown no hostility, and Onyxia herself hadn't complained. As a nominal collaborator -- really just a "gatekeeper" -- what opinion could she offer?
 
-Besides, she knew full well the Grimtotem couldn't do anything to this group. Since the dragon mother and the dragonkin had ordered them to see these people safely out of the swamps, she had no choice but to comply.
+Besides, she knew full well the Grimtotem couldn't do anything to this group. Since the Broodmother and the dragonkin had ordered them to see these people safely out of the swamps, she had no choice but to comply.
 
 It was already evening when they reached Blackhoof Village, with a light rain falling. Everyone ducked into the huts. One of Magatha's sons said he'd guide them out of the swamps at daybreak.
 
-When Magatha's son left, Mossa looked out worriedly. "How am I supposed to tell Natira about her mother..."
+When Magatha's son left, Mosa looked out worriedly. "How am I supposed to tell Nathra about her aunt..."
 
-"Her mother has already drunk dragon's blood," Sora said. "Onyxia said she doesn't want to turn the tauren into dragonkin. But a black dragon like her would make sure those tauren were one hundred percent obedient."
+"Her aunt has already drunk dragon's blood," Sola said. "Onyxia said she doesn't want to turn the tauren into dragonkin. But a black dragon like her would make sure those tauren were one hundred percent obedient."
 
 "In her palace, you all saw it -- this Magatha isn't exactly compliant. I suspect Onyxia at least plans to use dragon blood to bend her will... some kind of mind control."
 
 "If she still had the power she had when she was entrenched in Stormwind, would she need to bother with such roundabout methods? One spell and the whole village would obey without question," Vereesa said.
 
-"Absolutely," Sora said. "But it's precisely because of her weakness... that she needs these tauren's protection."
+"Absolutely," Sola said. "But it's precisely because of her weakness... that she needs these tauren's protection."
 
-"So in the end, even if these Grimtotem aren't turned into dragonkin, they'll still become the black dragon's thralls." Mossa stood up and walked to the door, speaking softly. "I have to tell Natira about this. At least let her decide for herself -- does she want to follow her 'all-knowing' aunt into corruption in these swamps, or leave here... come with us to Mulgore, and reclaim the old lands with Chief Cairne."
+"So in the end, even if these Grimtotem aren't turned into dragonkin, they'll still become the black dragon's thralls." Mosa stood up and walked to the door, speaking softly. "I have to tell Nathra about this. At least let her decide for herself -- does she want to follow her 'all-knowing' aunt into corruption in these swamps, or leave here... come with us to Mulgore, and reclaim the old lands with Chief Cairne."
 
-With that, the black-iron-dwarf-shaped tauren disappeared into the curtain of rain outside. Grede started to follow, but Vereesa called him back: "Don't go making things worse, fake dwarf. Do you think if you show up in front of her and Natira, they can still have a normal discussion about internal tauren affairs?"
+With that, the Dark Iron-dwarf-shaped tauren disappeared into the curtain of rain outside. Grede started to follow, but Vereesa called him back: "Don't go making things worse, fake dwarf. Do you think if you show up in front of her and Nathra, they can still have a normal discussion about internal tauren affairs?"
 
 The Wildhammer dwarf sighed and sat down in the corner. "You've got a point."
 
@@ -52,13 +52,13 @@ The Wildhammer dwarf sighed and sat down in the corner. "You've got a point."
 
 "Invincible?" Jace said. "Didn't you hear the black dragon? This thing only protects against blade slashes and thrusts, all kinds of weapon attacks. It's far from invincible."
 
-"So magic could destroy it?" Sora asked curiously. "Should we test it?"
+"So magic could destroy it?" Sola asked curiously. "Should we test it?"
 
-"Test what?" Jace said. "Do you think something like this would sell for? If we actually wreck it with some spell, who's going to pay for that?"
+"Test what?" Jace said. "Do you know what something like this would sell for? If we actually wreck it with some spell, who's going to pay for that?"
 
 "If it could be destroyed by just any spell, would it even be worth anything?" Grede asked.
 
-"How much something is worth doesn't depend on how short its shortcomings are, but on how long its strengths are," Jace said. "The fact that it can block any weapon strike already gives it enormous value. And if we don't tell anyone... who would know whether it blocks magic? Even we don't know."
+"A thing's worth isn't set by its weak points but by what it does best," Jace said. "The fact that it can block any weapon strike already gives it enormous value. And if we don't tell anyone... who would know whether it blocks magic? Even we don't know."
 
 "That's true too," Grede laughed.
 
@@ -68,7 +68,7 @@ The Wildhammer dwarf sighed and sat down in the corner. "You've got a point."
 
 Needleflame snapped her head up, glancing sideways at him, struggling to suppress a smile. "What are you calling me for?"
 
-"I finally get to use my own name properly." Jace grinned. "What are you doing, not saying a word the whole way?"
+"I finally get to use your proper name." Jace grinned. "What are you doing, not saying a word the whole way?"
 
 "I'm not interested in tauren. I'm not interested in bronze dragons. Why should I talk?"
 
@@ -84,13 +84,13 @@ In the pitch-dark village at the heart of the gloomy swamps, faint cheerful laug
 
 "And you still call her Needleflame? From now on it's her proper name." Vereesa said with mock solemnity, as if reciting a chant: "Phydygonia. Sounds like the kind of name an ancient black dragon in a story would use."
 
-"A bit of a mouthful. It's Dragon-tongue, after all." Grede looked at the black dragon. "Do you know what it means?"
+"A bit of a mouthful. It's Draconic, after all." Grede looked at the black dragon. "Do you know what it means?"
 
 "I don't know," Needleflame said quietly.
 
 "Green dragon, do you know?" The dwarf turned to look.
 
-"I don't know either." Sora shook her head. "Lady Onyxia knows many ancient draconic words, especially black dragon ones... many that I couldn't possibly know. But since she took this ceremony seriously... this was a very formal ceremony, so the name she chose must have extraordinary meaning."
+"I don't know either." Sola shook her head. "Lady Onyxia knows many ancient Draconic words, especially black dragon ones... many that I couldn't possibly know. But since she took this ceremony seriously... this was a very formal ceremony, so the name she chose must have extraordinary meaning."
 
 "At least she's not illiterate like Sabellian!" Jace laughed.
 
@@ -100,13 +100,13 @@ In the pitch-dark village at the heart of the gloomy swamps, faint cheerful laug
 
 Everyone burst into laughter again, leaving the black dragon in the middle fuming, not knowing who to protest to.
 
-Sora smiled. "Prince Sabellian never liked Princess Onyxia, but I think if he knew what happened in that underground palace today, he'd be happy for her too."
+Sola smiled. "Prince Sabellian never liked Princess Onyxia, but I think if he knew what happened in that underground palace today, he'd be happy for her too."
 
 "Actually, Sabellian doesn't hate Onyxia that much either. Back on Draenor, I could sense it. She is his sister, after all." Jace looked back at the black dragon. "What do you think, little Princess Phydygonia?"
 
 "You all better stop calling me that." Needleflame looked away. "Just call me Needleflame."
 
-"Why?" Sora and Vereesa asked in unison. The dwarf turned his head with the same confused expression.
+"Why?" Sola and Vereesa asked in unison. The dwarf turned his head with the same confused expression.
 
 "Ah, I know why." Jace raised a finger. "Dragons don't like it when others speak Draconic."
 

@@ -1,10 +1,10 @@
 ## Chapter 402: Phantom of the Marsh
 
-Black Swamp, living up to its name — this was a genuine dark quagmire. The dense canopy high above blotted out the sky; the dark green ground, covered in all manner of plants, was split by winding channels. No — not channels, but rivulets of mud and shallow streams full of filth.
+The Black Morass lived up to its name — this was a genuine dark quagmire. The dense canopy high above blotted out the sky; the dark green ground, covered in all manner of plants, was split by winding channels. No — not channels, but rivulets of mud and shallow streams full of filth.
 
 This horrifying swamp, already choked with muck, had been poisoned for eight years by the fel energy pouring from the Dark Portal to the south. What lurked in its dark waters now was anyone's guess.
 
-But at the moment, at least Jace didn't need to worry about swamp beasts or forest predators.
+But at the moment, at least Jace didn't need to worry about bog beasts or forest predators.
 
 Because this party numbered over a dozen, ten of whom were fully armed soldiers — veterans who had come here with the Expedition. Every one of them wore heavy armor, carried shields and longswords, and moved through the swamp like they owned the place.
 
@@ -78,13 +78,4 @@ After this succubus died violently, the other demon shadows immediately stopped 
 
 "I think they've left," Jace said.
 
-The female elf walked up to the front and said: "We should pick up the pace, human. These female demons may go alert their companions — if that happens, we'll be the ones caught in a passive position."
-
-## Flags
-
-- 黑色沼泽 = Black Swamp (continued from ch 401; descriptive, not a canonical zone name).
-- 远行者 = Farstriders (Quel'Thalas ranger organization).
-- 奥蕾莉亚·风行者 = Alleria Windrunner; 洛萨之子 = Sons of Lothar.
-- 萨亚德 = succubi (female demons of the Burning Legion).
-- 昆顿 = Quenton (squad captain, Lordaeron native).
-- 多利尔 = Doril (male Farstrider).
+The female elf walked up to the front and said: "We should pick up the pace, human. These female demons may go alert their companions — if that happens, we'll be the ones on the back foot."

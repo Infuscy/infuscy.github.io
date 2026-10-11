@@ -1,10 +1,10 @@
 ## Chapter 1718: Freewind Post
 
-The next morning, the group set out from Gadgetzan, heading north. This time they didn't take the regular airship route, and they didn't have to cross the Shimmering Flats on foot heading west either. With Sora and Needleflame, they could fly directly north over the mountains bordering the Tanaris Desert, cutting straight into Thousand Needles much faster. There was a reason the airships didn't come this way, though — this was the territory of the sand trolls, home to the city of Zul'Farrak.
+The next morning, the group set out from Gadgetzan, heading north. This time they didn't take the regular airship route, and they didn't have to cross the Shimmering Flats on foot heading west either. With Sola and Needleflame, they could fly directly north over the mountains bordering the Tanaris Desert, cutting straight into Thousand Needles much faster. There was a reason the airships didn't come this way, though — this was the territory of the sand trolls, home to the city of Zul'Farrak.
 
 The sand trolls controlled vast stretches of desert and valley here. Like their kin across the sea, the Gurubashi jungle trolls, they'd grown increasingly insular over the past few centuries. As long as the goblins of Gadgetzan had no designs on their territory and city, the trolls weren't looking for a fight either. That was how they maintained relative peace across the desert. But an airship flying overhead? That would cross a line.
 
-Not that the residents of Zul'Farrak would recklessly attack two whelps diving through the air, but Jace and the others didn't want to go looking for trouble either.
+Not that the residents of Zul'Farrak would recklessly attack two young dragons flying overhead, but Jace and the others didn't want to go looking for trouble either.
 
 After all, no one knew what kind of dark magic and hexes these ancient residents, hidden deep in the desert for who knows how many millennia, had hoarded. So instead of taking the most direct shortcut, they opted to pass through unclaimed territory. Flying meant they could take a slight detour without wasting much time.
 
@@ -16,31 +16,31 @@ Ten years ago, or even a dozen, he had never considered exploring or sightseeing
 
 But now it was different. He and his companions had plenty of ways to sneak in and plenty of reasons to make the trolls think twice before starting a fight. Still, taking that kind of risk just to have a look around wasn't really necessary.
 
-Maybe later, if things with Dalaran went south over black magic or Uthalesh and they couldn't stay on the Eastern Continent anymore, they could just take off on an unrestrained journey. Then they'd visit not just Zul'Gurub or Zul'Farrak, but the ice trolls' Zul'Drak in Northrend, the Amani capital Zul'Aman east of Quel'Thalas, even the legendary Zandalar — they could probably make a circuit of it all.
+Maybe later, if things with Dalaran went south over black magic or Ulthalesh and they couldn't stay on the Eastern Kingdoms anymore, they could just take off on an unrestrained journey. Then they'd visit not just Zul'Gurub or Zul'Farrak, but the ice trolls' Zul'Drak in Northrend, the Amani capital Zul'Aman east of Quel'Thalas, even the legendary Zandalar — they could probably make a circuit of it all.
 
 Thinking about it, Jace almost found himself looking forward to burning those bridges.
 
 Zul'Farrak soon disappeared behind the mountains, and these wild fantasies were blown clean away by the wind that hit them as they plunged into Thousand Needles.
 
-Thunderaan had certainly picked a great spot. Countless wild wind elementals rampaged through these stone spires, as if fanatically welcoming his return. Though it was hard to say they all obeyed the Skywall's commands — at least, Jace couldn't feel any of that from their howling.
+Thunderaan had certainly picked a great spot. Countless wild wind elementals rampaged through these stone spires, as if fanatically welcoming his return. Though it was hard to say they all obeyed Skywall's commands — at least, Jace couldn't feel any of that from their howling.
 
 But maybe that was exactly why Thunderaan had chosen this place, rather than somewhere closer to Uldum and the Throne of the Four Winds.
 
-The highest point in Thousand Needles was Freewind Post. According to Thunderaan's wishes, summoning him with the Vial of Rebirth would work best there — a Horde outpost in another timeline.
+The highest point in Thousand Needles was Freewind Post. According to Thunderaan's wishes, summoning him with the Vessel of Rebirth would work best there — a Horde outpost in another timeline.
 
-Jace didn't know whether Freewind Post existed at this point. But judging by how Mossa had never suggested stopping at any nearby tauren settlement when they rescued her before, even if Freewind Post did exist, it probably wasn't in friendly tauren hands. More likely, it was controlled by the Grimtotem — the tauren who'd slaughtered Mossa's Wood clan.
+Jace didn't know whether Freewind Post existed at this point. But judging by how Mosa had never suggested stopping at any nearby tauren settlement when they rescued her before, even if Freewind Post did exist, it probably wasn't in friendly tauren hands. More likely, it was controlled by the Grimtotem — the tauren who'd slaughtered Mosa's Woodmane tribe.
 
-The green dragon flew ahead with the elf and dwarf; the warlock and the black whelp followed behind. The deep valleys of Thousand Needles were shrouded in wind and dust, looking like a hazy, dark-yellow sea of clouds, with only the towering stone pillars jutting out abruptly between them. But that also made it easier to search for a suitable summoning spot from the air.
+The green dragon flew ahead with the elf and dwarf; the warlock and the black drake followed behind. The deep valleys of Thousand Needles were shrouded in wind and dust, looking like a hazy, dark-yellow sea of clouds, with only the towering stone pillars jutting out abruptly between them. But that also made it easier to search for a suitable summoning spot from the air.
 
-The two dragons split up to search the stone forest. Before the sky was fully dark, Sora seemed to have found something and excitedly called out to Needleflame from a distance.
+The two dragons split up to search the stone forest. Before the sky was fully dark, Sola seemed to have found something and excitedly called out to Needleflame from a distance.
 
-Needleflame had been searching fruitlessly on her side, and upon hearing Sora's sharp call, immediately flew toward her with Jace.
+Needleflame had been searching fruitlessly on her side, and upon hearing Sola's sharp call, immediately flew toward her with Jace.
 
-Before Jace could even make out Sora's silhouette through the wind and sand, he noticed a massive stone pillar ahead, rising higher than all the others around it. The top was big enough to count as a small plateau. At least, Jace remembered that the last time he'd been in Thousand Needles, he hadn't seen any pillar thicker than this one anywhere across the canyon.
+Before Jace could even make out Sola's silhouette through the wind and sand, he noticed a massive stone pillar ahead, rising higher than all the others around it. The top was big enough to count as a small plateau. At least, Jace remembered that the last time he'd been in Thousand Needles, he hadn't seen any pillar thicker than this one anywhere across the canyon.
 
-As they drew closer, Sora, on the other side of the pillar, didn't land directly on the flat top. Instead, she circled around.
+As they drew closer, Sola, on the other side of the pillar, didn't land directly on the flat top. Instead, she circled around.
 
-The darkness made it hard for Jace to see clearly at first, but as he flew closer, he understood why Sora was hesitating.
+The darkness made it hard for Jace to see clearly at first, but as he flew closer, he understood why Sola was hesitating.
 
 There was a village on top. Most of the buildings were hide-covered tents, anchored to the ground by massive totem poles painted with savage patterns and secured with ropes. Even the walls were put together the same way. It looked a lot like Sun Rock Retreat in Stonetalon Mountains, and similar to the tauren villages he'd seen in-game.
 
@@ -54,11 +54,11 @@ The green dragon circled back, and together with the black dragon, they flew a b
 
 "I don't know," Vereesa said. "Even if there is, I'm not sure they've spotted us."
 
-Sora stared at the dark peak-top village. "I don't feel any life forms there, everyone."
+Sola stared at the dark peak-top village. "I don't feel any life forms there, everyone."
 
 "I don't sense any emotions in there either!" Jace shouted. "If someone was lying in ambush, there'd at least be some tension or wariness toward a powerful enemy. But I feel nothing. It's empty!"
 
-"If Jace says so, I reckon there's nobody there," Grede called out. "Sora might not sense the dead, but even if folks are dead — whether they turn into spirits or zombies — they can't escape that warlock's perception!"
+"If Jace says so, I reckon there's nobody there," Grede called out. "Sola might not sense the dead, but even if folks are dead — whether they turn into spirits or zombies — they can't escape that warlock's perception!"
 
 "Let's go down and check," Vereesa said.
 
@@ -74,9 +74,9 @@ When they regrouped at the central fire pit, which had very little leftover fire
 
 "Must've moved," Grede said, pointing at a tall tauren dwelling behind him. "If it was centaur, harpies, or hostile tribes that killed them all, how would all the cheap stuff be gone too? They packed up and left for somewhere else."
 
-"We can ask Mossa about it when we see her," Vereesa said.
+"We can ask Mosa about it when we see her," Vereesa said.
 
-"We should've asked those tauren we ran into back in Gadgetzan before we left," Sora said.
+"We should've asked those tauren we ran into back in Gadgetzan before we left," Sola said.
 
 "Forget it," Grede said. "The tauren in Gadgetzan are either weirdos who left their tribes or Grimtotem lackeys. Better not to ask at all!"
 
@@ -88,10 +88,10 @@ When they regrouped at the central fire pit, which had very little leftover fire
 
 "Ha!" The dwarf raised an eyebrow.
 
-"These tauren who moved out were probably Grimtotem members too," Vereesa said, touching a totem pole supporting a hide wall and examining the wind-worn patterns. "A lot of these runes were written with beast blood. Mossa said only the Grimtotem and a few servant tribes under them have that habit."
+"These tauren who moved out were probably Grimtotem members too," Vereesa said, touching a totem pole supporting a hide wall and examining the wind-worn patterns. "A lot of these runes were written with beast blood. Mosa said only the Grimtotem and a few servant tribes under them have that habit."
 
-"Then this is the perfect place to revive the Wind Prince!" Grede said. "Those Grimtotem killed Mossa's kin anyway. If the Wind Prince blows all their houses away, that's just a bonus!"
+"Then this is the perfect place to revive the Prince of Air!" Grede said. "Those Grimtotem killed Mosa's kin anyway. If the Prince of Air blows all their houses away, that's just a bonus!"
 
-"I agree!" Vereesa and Sora said in unison.
+"I agree!" Vereesa and Sola said in unison.
 
-Jace set down his pack containing the Caged Soul. "Then let's get to it."
+Jace set down his pack containing the Brass Prison. "Then let's get to it."

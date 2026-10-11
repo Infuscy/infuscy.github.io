@@ -16,9 +16,9 @@ The place they were standing seemed safe enough. After that desperate sprint, th
 
 Vereesa gave him a guilty look. "I've never seen a real one. Why are there so many of them here?"
 
-"Who knows." Grede looked at Jace. "Why not ask someone out of the Wizard Sanctum?"
+"Who knows." Grede looked at Jace. "Why not ask someone out of the Wizard's Sanctum?"
 
-Jace shook his head too. "I don't know either. If I had to guess, I'd say too many orcs, humans, and dwarves died on this battlefield. The tormented souls and the necrotic energy on the corpses slowly poisoned these ponds, reanimating the animal and human remains inside — even the remains of swamp beasts — into what they are now."
+Jace shook his head too. "I don't know either. If I had to guess, I'd say too many orcs, humans, and dwarves died on this battlefield. The tormented souls and the necrotic energy on the corpses slowly poisoned these ponds, reanimating the animal and human remains inside — even the remains of bog beasts — into what they are now."
 
 "Or…" He looked at Grede. "Maybe it was that witch who destroyed Grim Batol. Her artifact did this to the place."
 
@@ -34,7 +34,7 @@ The dwarf pointed toward the silhouettes of a few lone old trees in the distance
 
 The others agreed. They followed Grede toward the trees, dragging their heavy steps. Jace dropped onto the muddy ground and leaned against a tree. He didn't want to move another inch tonight.
 
-He tossed aside the hooked shortsword he'd carried out of the great swamp, pulled a chunk of dwarven cheese from the little food pouch at his waist, and bit off a piece. It was damn salty, but even that one small bite satisfied something deep inside him.
+He tossed aside the hooked shortsword he'd carried out of the great swamp, pulled a chunk of dwarven cheese from the little food pouch at his belt, and bit off a piece. It was damn salty, but even that one small bite satisfied something deep inside him.
 
 Grede picked up the broadsword. "Orc work. I know Blackhand's shield-guards love carrying this kind of blade."
 
@@ -70,11 +70,11 @@ Actually, Jace wasn't too worried about this part.
 
 The black dragon must have already started cooperating with the Blackrock orcs — he'd known that for a while now.
 
-Last time he and Vereesa had gone to the Blasted Lands, they'd run into the black dragon hunting down the Shattered Hand clan on the way, and dragonkin patrolling the ruins of Thaurissan — that was the best evidence. If the black dragon hadn't allied with the Blackrock clan, there'd have been no reason for him to specifically hunt orcs of one particular clan.
+Last time he and Vereesa had gone to the Blasted Lands, they'd run into the black dragon hunting down the Shattered Hand clan on the way, and dragonkin patrolling the Ruins of Thaurissan — that was the best evidence. If the black dragon hadn't allied with the Blackrock clan, there'd have been no reason for him to specifically hunt orcs of one particular clan.
 
 And then there was that dragon-mage who'd tried to recruit Twilight's Hammer cultists near Lakeshire. If they hadn't been coordinating with the Blackrock orcs, they couldn't have moved around the Burning Steppes so freely.
 
-Jace's knowledge of Blackrock Tower's interior was probably deeper than that of your average Blackrock orc. He'd gone through Blackrock Depths and Blackrock Spire more times than he could count, memorized every quest detail and every twist of the terrain, and had smashed his way through the Lair of the Black Broodgod only God knew how many times.
+Jace's knowledge of Blackrock Spire's interior was probably deeper than that of your average Blackrock orc. He'd gone through Blackrock Depths and Blackrock Spire more times than he could count, memorized every quest detail and every twist of the terrain, and had smashed his way through Blackwing Lair only God knew how many times.
 
 Not to mention — right now he was coming to Grim Batol on Deathwing's orders. That put him way above some lackey or slave of Prince Nefarian. Even Rend Blackhand himself wouldn't have been more legit than him.
 

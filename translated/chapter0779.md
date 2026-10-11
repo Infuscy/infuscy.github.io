@@ -2,11 +2,11 @@
 
 "Misunderstanding!" Jace raised his hands. "Don't shoot — I mean no harm, I'm here to—"
 
-"Misunderstanding?!" the Dark Iron dwarf roared, cutting him off, waving the gun in his hand. "You killed your pet and then tell me it's just a misunderstanding — so can I blow your head off and say it was just a joke?!"
+"Misunderstanding?!" the Dark Iron dwarf roared, cutting him off, waving the gun in his hand. "You killed my pet and then tell me it's just a misunderstanding — so can I blow your head off and say it was just a joke?!"
 
 Jace watched the dwarf, who, as he yelled, had his finger twitch on the trigger. Jace's palm tightened, and a red line suddenly yanked the long gun in the dwarf's hands!
 
-A gunshot cracked. The bullet bounced back and forth through the narrow corridor, setting off a string of harsh noise. Jace frowned and gripped the gun — the barrel had already been wrenched out of shape by a powerful Bloodgrasp.
+A gunshot cracked. The bullet bounced back and forth through the narrow corridor, setting off a string of harsh noise. Jace frowned and gripped the gun — the barrel had already been wrenched out of shape by a powerful Gorefiend's Grasp.
 
 This was even harder to explain now.
 
@@ -26,7 +26,7 @@ The Dark Iron dwarf was clearly startled by Jace's formidable fire resistance. H
 
 "Jace Sesso," Jace said. "I'm from Stormwind…"
 
-Hearing his name, the Dark Iron dwarf froze for a moment. "Jace Sesso — am I thinking of the right person? You killed Deathwing? I don't believe it… with those two bits of yours, you could fight the most terrifying father of all black dragons in this world? Either the red dragons have gone mad, or I have!"
+Hearing his name, the Dark Iron dwarf froze for a moment. "Jace Sesso — am I thinking of the right person? You killed Deathwing? I don't believe it… with what little you've got, you could fight the most terrifying father of all black dragons in this world? Either the red dragons have gone mad, or I have!"
 
 Jace gripped his wrist and said, "Because strictly speaking I didn't kill him, I just… damn it, it's really hard to explain. Put the dagger away first, sir!"
 
@@ -60,11 +60,11 @@ Hearing Jace praise the Dark Iron clan's connection to fire, the dwarf raised hi
 
 "Not magic, exactly," Jace said. "But the techniques for communicating with fire elementals." The dwarf frowned. "You want to learn our forging techniques?"
 
-Jace shook his head. Ruige glared and said, "Then you want to become a Flamebender?!"
+Jace shook his head. Ruige glared and said, "Then you want to become a pyromancer?!"
 
-"Flamebender?"
+"Pyromancer?"
 
-"Flamebenders are in Shadowforge City — a group that's… hard to explain to you. In short, they're those who don't intend to put fire to use in the smithing trade. But you're not a Dark Iron dwarf. Being a Flamebender isn't something you can just become if you want to. First of all, communicating with elementals is a talent! We have to see whether you have that kind of talent!" The dwarf grumbled, picked up his firearm wrenched out of shape by magic, looked it over, and continued, "And first, let's resolve the matter at hand."
+"Pyromancers are in Shadowforge City — a group that's… hard to explain to you. In short, they're those who don't intend to put fire to use in the smithing trade. But you're not a Dark Iron dwarf. Being a pyromancer isn't something you can just become if you want to. First of all, communicating with elementals is a talent! We have to see whether you have that kind of talent!" The dwarf grumbled, picked up his firearm wrenched out of shape by magic, looked it over, and continued, "And first, let's resolve the matter at hand."
 
 "Whether you're Sesso, or Turalyon, or some other famous figure, you have to compensate me for killing my minion. I went through all that trouble to summon that fire elemental servant here — the rune tablets, the energy spent… it's all worth a fortune, not to mention I only just taught him to say a few words of Common. I memorized that whole long speech, and you destroyed it all! Whatever you're planning to find the Thorium Brotherhood for, it won't happen without compensating me for my losses!"
 

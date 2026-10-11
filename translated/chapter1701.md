@@ -2,17 +2,17 @@
 
 Stormwind Harbor. Dark clouds loomed overhead, pressing down as if about to fall. It wasn't raining, but the air was damp and cold, with gusts of chill wind rolling in off the sea.
 
-Even so, the docks were bustling. The shipping routes from Southshore and Menethil Harbor to Stormwind hadn't cooled off just because the Thandol Span-to-Lakeshire trade route was back on the table alongside renewed peace talks with the Burning Steppes. If anything, the complete end of the orc wars had made things busier than ever.
+Even so, the docks were bustling. The shipping routes from Southshore and Menethil Harbor to Stormwind hadn't cooled off just because the Thandol Span-to-Lakeshire trade route was back on the table alongside renewed peace talks with the Burning Steppes. If anything, the complete end of the Orc Wars had made things busier than ever.
 
 More and more dwarves were working the docks, and even goblins from Booty Bay were showing up in greater numbers. The cacophony of noise mixed with the splash of waves against the pier, dulling some of the gloom the heavy weather brought.
 
 Stormwind business was finally wrapped up, and the time had come to head for Kalimdor. Aside from a small hiccup while collecting Midnight's "blood," things had gone smoothly. Preparations were thorough.
 
-Midnight was a ghost horse that had died and been "corrupted" by Medivh's magic. On the surface he seemed alive, but he was really a dried-up corpse. Even a Doomguard's blade couldn't draw blood from him — the cuts you'd make and the cracks in the skin under his wrappings were a toss-up for which was scarier to look at.
+Midnight was a ghost horse that had died and been "corrupted" by Medivh's magic. On the surface he seemed alive, but he was really a dried-up corpse. Even a doomguard's blade couldn't draw blood from him — the cuts you'd make and the cracks in the skin under his wrappings were a toss-up for which was scarier to look at.
 
 In the end, Jace managed to extract a tiny amount of something more like "demon-blood fluid" and bottled it for Ursula. He'd expected her to be disappointed, but she seemed to have anticipated it, so he didn't press. When he asked what she needed the "blood" for, she wouldn't say.
 
-That was just Ursula's way. If she was working on something that excited her, she wouldn't talk about it until she had results — unless she needed Jace's help to finish it. Anyway, the monk couldn't run away from the temple. The Slaughtered Lamb's alchemy lab wasn't going to grow legs and walk off. With Sora and Needleflame carrying them to Kalimdor, the trip wouldn't drag on too long. He'd find out when he got back.
+That was just Ursula's way. If she was working on something that excited her, she wouldn't talk about it until she had results — unless she needed Jace's help to finish it. Anyway, she could go wherever she liked, but her lab couldn't. The Slaughtered Lamb's alchemy lab wasn't going to grow legs and walk off. With Sola and Needleflame carrying them to Kalimdor, the trip wouldn't drag on too long. He'd find out when he got back.
 
 "You sure you want to leave in this weather?" Khadgar stood with his hands on his hips, scanning the distant sky.
 
@@ -24,15 +24,15 @@ That was just Ursula's way. If she was working on something that excited her, sh
 
 Vaelastrasz said nothing, just turned his head and sighed.
 
-"Do you think the recent weather anomalies have anything to do with the lobstermen migrating from Kalimdor?" Jace asked.
+"Do you think the recent weather anomalies have anything to do with the makrura migrating from Kalimdor?" Jace asked.
 
 "Maybe the ones migrating from the Hinterlands," Khadgar said.
 
-"Those lobstermen are a different species from the Dry-Claw lobstermen in the Veiled Sea off the Hinterlands."
+"Those makrura are a different species from the Drysnap makrura in the Forbidding Sea off the Hinterlands."
 
-"Gray-brown shell, spotted pincers, medium build." Khadgar squinted. "Doesn't match. But they don't look like Kalimdor's Filth-Shell variety either — black or dark gray, dark green shell, clearly asymmetrical pincers... Most of the lobstermen appearing on Stormwind's northern coast recently are ice-blue, with a few bright purple ones."
+"Gray-brown shell, spotted pincers, medium build." Khadgar squinted. "Doesn't match. But they don't look like Kalimdor's Slimeshell variety either — black or dark gray, dark green shell, clearly asymmetrical pincers... Most of the makrura appearing on Stormwind's northern coast recently are ice-blue, with a few bright purple ones."
 
-"Sounds more like the Acolan lobstermen from Kalimdor's northern coast," Vaelastrasz said.
+"Sounds more like the Arkkoran makrura from Kalimdor's northern coast," Vaelastrasz said.
 
 "Why are we having a geography and biology lesson?" Khadgar asked. "I doubt weather anomalies around King's Bay can affect Kalimdor."
 
@@ -46,7 +46,7 @@ When the box opened, wind howled. The waves below churned even harder, and spray
 
 "Is this weather normal elemental disturbance, or is something else behind it, Prince Thunderaan?" Jace asked in Elemental.
 
-He was actually worried the storm might be connected to the Old God N'Zozoth beneath the sea. But with Khadgar and Vaelastrasz standing right there, staring at that black water, he couldn't bring himself to utter that name.
+He was actually worried the storm might be connected to the Old God N'Zoth beneath the sea. But with Khadgar and Vaelastrasz standing right there, staring at that black water, he couldn't bring himself to utter that name.
 
 "This is no ordinary elemental disturbance, Jace Sesso." Thunderaan's voice was so deep it almost merged with the wind — understandably, since he was one with it. "The children of the wind tell me this is caused by a disruption in the ley lines."
 
@@ -62,43 +62,43 @@ He was actually worried the storm might be connected to the Old God N'Zozoth ben
 
 "What are you folks chatting about so eagerly?" Grede walked over from a distance to the little awning, loaded down with bags and bundles.
 
-"What in the... are you planning to do?" Nearby, Sora was startled by the sight of the dwarf and his pile of luggage. "Is this the entire gift of Aerie Peak to Mosa Woodmane?"
+"What in the... are you planning to do?" Nearby, Sola was startled by the sight of the dwarf and his pile of luggage. "Is this the entire gift of Aerie Peak to Mosa Woodmane?"
 
 "Uh." Grede set his things down and gave them a quick check. "Not exactly."
 
-"Thanks for the effort, Sora. I guess you can't really call yourself a young dragon anymore!"
+"Thanks for the effort, Sola. I guess you can't really call yourself a young dragon anymore!"
 
-"Whether I'm grown or not isn't for you to decide, dwarf." Sora glared at him.
+"Whether I'm grown or not isn't for you to decide, dwarf." Sola glared at him.
 
 "Let's just say it's to make Mosa Woodmane happy," Vereesa said.
 
-"What else would it be for?" Sora said grumpily.
+"What else would it be for?" Sola said grumpily.
 
-Grede gave a sheepish chuckle. Not that the luggage amounted to much for Sora's current size — the real problem was that Grede and his Sulfuras warhammer alone were already enough strain on Sora. Adding more stuff was just asking for trouble.
+Grede gave a sheepish chuckle. Not that the luggage amounted to much for Sola's current size — the real problem was that Grede and his Sulfuras warhammer alone were already enough strain on Sola. Adding more stuff was just asking for trouble.
 
-Thank goodness they had Needleflame now. Otherwise asking Sora to carry this whole group plus luggage across the Great Sea... forget whether she could manage it, at least Jace wouldn't feel right asking.
+Thank goodness they had Needleflame now. Otherwise asking Sola to carry this whole group plus luggage across the Great Sea... forget whether she could manage it, at least Jace wouldn't feel right asking.
 
-Grede watched Needleflame splashing through the waves on the jetty, then looked at Vereesa and Sora, sidled up to Jace, and whispered, "That demon came too, right?"
+Grede watched Needleflame splashing through the waves on the jetty, then looked at Vereesa and Sola, sidled up to Jace, and whispered, "That demon came too, right?"
 
 "She's staying to protect my parents. We're not hunting demons this time, and her power would be wasted." Jace said.
 
 "Having her in Stormwind means the Kirin Tor can worry less about a lot of things while investigating the Nathrezim," Khadgar said.
 
-"The Dagger Circle will also investigate the Nathrezim quietly, Khadgar." Jace said. "Don't tell the other Kirin Tor members — we don't know who the Nathrezim might be hiding among. But if the Dagger Circle's investigation conflicts with the Kirin Tor's, I hope you can give them some leeway."
+"The Dagger Society will also investigate the Nathrezim quietly, Khadgar." Jace said. "Don't tell the other Kirin Tor members — we don't know who the Nathrezim might be hiding among. But if the Dagger Society's investigation conflicts with the Kirin Tor's, I hope you can give them some leeway."
 
 "You don't have to tell me." The archmage nodded.
 
-Sora snuck a glance at Vereesa, looking almost amused. Vereesa stared serenely at the sea, utterly indifferent, as if she hadn't heard a thing.
+Sola snuck a glance at Vereesa, looking almost amused. Vereesa stared serenely at the sea, utterly indifferent, as if she hadn't heard a thing.
 
 "Looks like we're all here. Let's go." Jace said.
 
 "Excellent." Grede clapped his hands.
 
-The moment their gazes shifted, Sora had vanished. Shouts of surprise rang out from the distant docks as a green dragon glowing with moonlight touched down on the pier.
+The moment their gazes shifted, Sola had vanished. Shouts of surprise rang out from the distant docks as a green dragon glowing with moonlight touched down on the pier.
 
 Soldiers on moored warships and guards at the harbor shouted excitedly, "Lady Green Dragon!" It was no secret anymore that Stormwind had a green dragon guardian. News that the Blackrock Spire plague had been cleansed by green dragon magic had spread through every street and alley. These days, the green dragon's reputation surpassed even the red's.
 
-Grede eagerly scrambled up onto Sora's back with his many bags — riding a dragon in front of so many Stormwind neighbors and fellow dwarves was quite the flex. But the moment he climbed on, Sora's whole body seemed to sag, making Vereesa hesitate to jump on after him.
+Grede eagerly scrambled up onto Sola's back with his many bags — riding a dragon in front of so many Stormwind neighbors and fellow dwarves was quite the flex. But the moment he climbed on, Sola's whole body seemed to sag, making Vereesa hesitate to jump on after him.
 
 "Are you planning to move to Kalimdor, Grede?" she couldn't help asking.
 
@@ -110,7 +110,7 @@ Jace was still looking around when the excited chatter about the green dragon su
 
 He felt a heavy pressure crash down behind him, then something like iron hooks hoisted him clean off the ground. If his cloak and robe hadn't been sturdy enough, he'd have been torn to shreds.
 
-The dock shrank beneath him. Sora scrambled to take off. In the roaring wind, all he could hear was Vaelastrasz's panicked shouting.
+The dock shrank beneath him. Sola scrambled to take off. In the roaring wind, all he could hear was Vaelastrasz's panicked shouting.
 
 "It's all right, citizens of Stormwind! That's actually just a slightly darker-colored green dragon — you can't tell clearly in this overcast weather. I'm a mage from Dalaran. You can trust me!"
 

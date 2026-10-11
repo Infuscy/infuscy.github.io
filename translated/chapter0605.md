@@ -1,6 +1,6 @@
 ## Chapter 605: That's Settled
 
-After wrapping up Das'mora's demon heart, the group left the magically sealed underground palace and returned to the hall where the pool was.
+After wrapping up Dasmora's demon heart, the group left the magically sealed underground palace and returned to the hall where the pool was.
 
 Mosa was lying on a mat of woven vines, sleeping peacefully. Grede put a finger to his lips as the three of them walked back in. Jace nodded and carefully sat down on a broken stone pillar, leaning against the wall behind him to rest.
 
@@ -12,7 +12,7 @@ Vereesa sniffed the demon blood on her hands and clothes and frowned. She glance
 
 "This water hasn't been contaminated yet," Grede said in a low voice. "We still need to live on this water for a while. If you wash your hands in there, that's it — all ruined."
 
-Jace nodded. "We need to wait for Mosa to recover and then get us out of here. Don't forget the garden outside, Wen." Vereesa understood immediately and pulled her hand back. "Sorry."
+Jace nodded. "We need to wait for Mosa to recover and then get us out of here. Don't forget the garden outside, Vere." Vereesa understood immediately and pulled her hand back. "Sorry."
 
 Jace stared at the pool for a while. Actually, even setting aside the drinking water issue, if the demon blood contaminated this place, the water elemental that had just saved the tauren's life would probably jump out and pick a fight with them right about then.
 
@@ -22,7 +22,7 @@ Jace shook his head. "No idea what this mage survived on while hiding here."
 
 "Can't these elves survive on mana alone?" Grede looked at Vereesa. "Why can't you?"
 
-"There's no Sunwell here," Vereesa said. "The arcane mana in this place makes me uncomfortable. Isn't its source that Void demon Immol'tar? Just thinking about it makes my skin crawl."
+"There's no Sunwell here," Vereesa said. "The arcane mana in this place makes me uncomfortable. Isn't its source that Void demon Immol'thar? Just thinking about it makes my skin crawl."
 
 "There should still be something on the level above," Jace said, looking at the passage entrance across the way. "I'll take a look up there later. Don't get your hopes up though."
 
@@ -38,7 +38,7 @@ Morophil said, "Just a suggestion."
 
 "Disgusting," Vereesa muttered under her breath.
 
-"You haven't seen what's truly disgusting about a succubus, Quel'dorei!" Sazeno chirped from the side. "Back in the pack," Jace glared at him. "You won't be getting a single Soul Shard before we're back in Stormwind."
+"You haven't seen what's truly disgusting about a succubus, Quel'dorei!" Sazeno chirped from the side. "Back in the pack," Jace glared at him. "You won't be getting a single soul shard before we're back in Stormwind."
 
 The imp's face went cold. "No, no, master, that's not what I meant, I meant the one in the basement..."
 
@@ -56,11 +56,11 @@ Mosa coughed and shook her head. Grede only then noticed she was awake. "Mosa? H
 
 "Don't push Mosa too hard, Grede," Vereesa said. "We're not in any rush. Even if there's nothing on the upper level, there's still a garden outside. I refuse to believe there's nothing edible in there — there ought to be bugs and small creatures living in it at least."
 
-"Vereesa's right," Jace said. "And I can use these next few days to properly sort through all the materials we've found with these two demons. The past few days it's been all rushing around, dealing with one surprise after another — those sentries, that half-orc... the surprises just keep coming, with no time to rest at all."
+"Vereesa's right," Jace said. "And I can use these next few days to properly sort through all the materials we've found with these two demons. The past few days it's been all rushing around, dealing with one surprise after another — those sentinels, that half-orc... the surprises just keep coming, with no time to rest at all."
 
 "What about after?" Grede asked. "Once we're out, what do we do next? Head back to Gadgetzan the same way? Go around that huge stretch of road again?"
 
-"Damn it," Jace rubbed his face hard. "I completely forgot about the centaurs in Thousand Needles."
+"Damn it," Jace rubbed his face hard. "I completely forgot about the centaur in Thousand Needles."
 
 He glanced at Mosa, who'd been silent the whole time. She probably didn't have a good solution either, or was just too weak to want to think about it.
 
@@ -68,7 +68,7 @@ He glanced at Mosa, who'd been silent the whole time. She probably didn't have a
 
 "How would they help us? Help us attack the centaur tribes?" Grede asked.
 
-"Hippogryphs," Vereesa said. "Remember those blue bird-headed monsters the sentries at Feathermoon Stronghold were keeping? Beasts that looked a bit like gryphons — those are their mounts. If they can carry a Kaldorei, they can definitely carry us."
+"Hippogryphs," Vereesa said. "Remember those blue bird-headed monsters the sentinels at Feathermoon Stronghold were keeping? Beasts that looked a bit like gryphons — those are their mounts. If they can carry a Kaldorei, they can definitely carry us."
 
 "But they can't carry Mosa," Grede said.
 
@@ -78,9 +78,9 @@ He glanced at Mosa, who'd been silent the whole time. She probably didn't have a
 
 "Uh," Jace looked at the tauren. "Yes? What about it, Mosa? Why bring that up all of a sudden."
 
-"I can't leave Kalimor. I can't leave my people," Mosa said, thinking as she spoke. "I need to protect my people... until we find a new place to settle."
+"I can't leave Kalimdor. I can't leave my people," Mosa said, thinking as she spoke. "I need to protect my people... until we find a new place to settle."
 
-"Traveling with you has been a joy. Killing demons, making Kalimor cleaner — that makes me happy. Traveling with you, I've learned so much I never knew. Outsiders can be kind — even a demon helped me. I never knew that before. I was surprised."
+"Traveling with you has been a joy. Killing demons, making Kalimdor cleaner — that makes me happy. Traveling with you, I've learned so much I never knew. Outsiders can be kind — even a demon helped me. I never knew that before. I was surprised."
 
 Mosa wiped her eyes. "But I need to stay. I don't want to leave you. I don't want to leave you, Grede Thunderfist of Aerie Peak. But I have to stay."
 
@@ -146,7 +146,7 @@ Jace said nothing. The two of them stared at each other for a while. Grede gritt
 
 Jace was taken aback. "Hey — didn't you say you were fine?"
 
-Grede stood up, supporting his waist and baring his teeth. "You damn demon worshipper..."
+Grede stood up, clutching his side and baring his teeth. "You damn demon worshipper..."
 
 "All right, stop dodging the question," Jace said.
 

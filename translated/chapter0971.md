@@ -10,7 +10,9 @@ His Dwarvish came out halting and broken, and the guard across from him grew eve
 
 Jace grabbed his collar and confirmed it hadn't been torn, then gave the guard a helpless glance.
 
-The doors of the Lyceum were right before his eyes. Dark Iron dwarves passed quietly through them, and several of them were clearly unhappy about the two men's argument. "Please go in, miss," the guard said to Sola. "But whether he's your friend or not, rules are rules."
+The doors of the Lyceum were right before his eyes. Dark Iron dwarves passed quietly through them, and several of them were clearly unhappy about the two men's argument.
+
+"Please go in, miss," the guard said to Sola. "But whether he's your friend or not, rules are rules."
 
 Sola opened her mouth but hesitated. She looked at Jace uncertainly, but farther off a fire elemental guard was slowly moving this way, as if curious about what was happening here.
 
@@ -24,9 +26,9 @@ There was no shortage of other races in Shadowforge City — gnomes, goblins, hu
 
 So he hadn't pressed the point. Shadowforge City was an extremely conservative place. He'd heard that if the Alliance hadn't once attacked the orcs occupying Blackrock Spire, the attitude here toward outside human soldiers, mercenaries, and wanderers before the Dark Portal would have been far worse.
 
-Back in the outer corridor, the passage higher up on the other side led to another temple — the Tomb of the Seven.
+Back in the outer corridor, the passage higher up on the other side led to another temple — the Summoners' Tomb, resting place of the Seven.
 
-The so-called Seven Sages were, in truth, the dwarven sages who had accompanied the Sorcerer-Thane Thaurissan in summoning the Firelord Ragnaros to this sacred ground. Aside from Thaurissan himself, all the other sages had died in the summoning ritual.
+The so-called Seven Sages were, in truth, the dwarven sages who had accompanied the Sorcerer-thane Thaurissan in summoning the Firelord Ragnaros to this sacred ground. Aside from Thaurissan himself, all the other sages had died in the summoning ritual.
 
 Though it had triggered a chain of catastrophic disasters — Blackrock Mountain heaving upward, the city of Thaurissan destroyed... the surviving multitudes of Dark Iron dwarves still regarded the descent of Ragnaros as a great blessing, and so they had built a magnificent sacred tomb for the summoners.
 
@@ -38,29 +40,31 @@ The two walked out of the corridor onto the outer street. Sola said, "I found a 
 
 "What?" Jace asked.
 
-"That incantation was obtained from orcish traitors in Blackrock Spire," Sola said. "And... it seems to be written in draconic."
+"That incantation was obtained from orcish traitors in Blackrock Spire," Sola said. "And... it seems to be written in Draconic."
 
 "Draconic?"
 
 Hearing Sola say this, Jace felt he had some recollection of it.
 
-In the game, someone had mentioned that the incantation was written in draconic — if he remembered right, it was Marshal Reginald Windsor himself who'd said it. It had been so long he couldn't recall the details clearly.
+In the game, someone had mentioned that the incantation was written in Draconic — if he remembered right, it was Marshal Reginald Windsor himself who'd said it. It had been so long he couldn't recall the details clearly.
 
-Because it was in draconic, the Dark Iron dwarves had needed all sides to pool their efforts to decipher that strange record, to figure out exactly how to release the magic inscribed in the incantation.
+Because it was in Draconic, the Dark Iron dwarves had needed all sides to pool their efforts to decipher that strange record, to figure out exactly how to release the magic inscribed in the incantation.
 
 But after actually coming to Shadowforge City, Jace felt something didn't quite add up.
 
 The dwarf mages of Shadowforge City were extremely powerful. Though they worshipped fire, they didn't completely reject frost, shadow, or any other force they could bring to bear — there was even an incredibly formidable frost mage among the Seven.
 
-At the Wizard Sanctum, draconic was a required course, because many arcane spells were written in draconic. This was closely tied to the Spellweaver Malygos and his blue dragon progeny. If the Dark Iron dwarves truly didn't understand draconic at all, how could they have mastered so many different kinds of magic?
+At the Wizard's Sanctum, Draconic was a required course, because many arcane spells were written in Draconic. This was closely tied to the Spell-Weaver Malygos and his blue dragon progeny. If the Dark Iron dwarves truly didn't understand Draconic at all, how could they have mastered so many different kinds of magic?
 
-If they knew draconic, how could they have spent over a decade deciphering it without results?
+If they knew Draconic, how could they have spent over a decade deciphering it without results?
 
 What puzzled him even more was that in the end, Windsor seemed to have had some remarkably easy method that cracked the incantation wide open in one go, and had even released it smoothly right in front of Onyxia.
 
 Thinking this far, Jace scratched his head.
 
-Though there were all sorts of suspicious points, it was clear the incantation truly existed, and Sola had found confirmation. "Did they mention anything at all related to the content of that incantation?" Jace asked.
+Though there were all sorts of suspicious points, it was clear the incantation truly existed, and Sola had found confirmation.
+
+"Did they mention anything at all related to the content of that incantation?" Jace asked.
 
 Sola said, "I wasn't able to get in touch with the higher-ranking pyromancers. They live in the deeper palaces of the Lyceum, and the pyromancers on the outside didn't seem to know much either."
 
@@ -74,40 +78,42 @@ Jace looked helplessly down the fire-lit black street. "He was driven out of her
 
 But with Sola asking, something occurred to him.
 
-Ruig had told him that many of the smiths in the Thorium Brotherhood were pyromancers. Though they didn't worship Ragnaros, they'd learned the skill of manipulating fire from the pyromancers of Shadowforge City. This helped them control the forging temperatures and craft even more perfect weapons.
+Ruige had told him that many of the smiths in the Thorium Brotherhood were pyromancers. Though they didn't worship Ragnaros, they'd learned the skill of manipulating fire from the pyromancers of Shadowforge City. This helped them control the forging temperatures and craft even more perfect weapons.
 
 If, within the Thorium Brotherhood, skill at manipulating fire was positively correlated with skill at forging, then was it reasonable to infer that the highest-ranking master smith in the Thorium Brotherhood was most likely also a very powerful pyromancer?
 
-That was when he thought of an NPC from the game — Roktus Darkcontract, who spent all his time sitting in the Black Iron Bar.
+That was when he thought of an NPC from the game — Lokhtos Darkbargainer, who spent all his time sitting in the Grim Guzzler.
 
 This Dark Iron dwarf was clearly a figure of high standing in the Thorium Brotherhood. Not only did he hold a series of top-tier forging recipes, including the Sulfuron Hammer, but he could also help players raise their reputation to the highest level...
 
-But with the Thorium Brotherhood practically split from Shadowforge City, why would a high-ranking member of the Thorium Brotherhood be staying in the Black Iron Bar?
+But with the Thorium Brotherhood practically split from Shadowforge City, why would a high-ranking member of the Thorium Brotherhood be staying in the Grim Guzzler?
 
-In any case, this was a possible breakthrough point. "What are you thinking of?" Sola asked.
+In any case, this was a possible breakthrough point.
+
+"What are you thinking of?" Sola asked.
 
 "Back to the bar," Jace said. "I'm going to find someone."
 
-In the game, Roktus Darkcontract always sat in an inconspicuous corner of the bar, trading with the players who ventured this deep. After returning to the bar, it was still afternoon — the bar was rather quiet, so he could take in the whole hall at a glance.
+In the game, Lokhtos Darkbargainer always sat in an inconspicuous corner of the bar, trading with the players who ventured this deep. After returning to the bar, it was still afternoon — the bar was rather quiet, so he could take in the whole hall at a glance.
 
 Jace looked back and forth, even going downstairs to glance at the staircase leading to the lodging area, but all Dark Iron dwarves looked the same to him. How was he supposed to pick out an old smith from this crowd?
 
-Right then, Namara walked out from behind the bar looking dejected, carrying a rag and muttering in demonic, "What plane's demon has to wipe tables every day?"
+Right then, Nagmara walked out from behind the bar looking dejected, carrying a rag and muttering in Demonic, "What plane's demon has to wipe tables every day?"
 
-"Miss Namara." Jace raised his hand and called out.
+"Mistress Nagmara." Jace raised his hand and called out.
 
-Namara looked over. Seeing Jace approach, she sighed unhappily. "I'm not going to help you, Master Slovakia. It's no use saying anything now."
+Nagmara looked over. Seeing Jace approach, she sighed unhappily. "I'm not going to help you, Master Slovakia. It's no use saying anything now."
 
 "I'm not planning to ask you to introduce me to a warlock," Jace said with a smile. "Earlier my servant broke a short blade in the arena. I'm planning to reforge one. I wonder if there's any smith in Shadowforge City willing to help an outsider forge a weapon? I know many skilled smiths aren't too fond of us outsiders."
 
 As he finished, Jace pinched a soul shard and placed it on her chest.
 
-"Ah... as long as it has nothing to do with warlocks." Namara quickly tucked the shard away, glanced at an imp over by the bar that was cleaning tables, and said, "There's one right here in the bar. As far as I know, that fellow's been living in the basement over there since before the warlock who summoned me was born. Many people know he's a remarkably skilled smith, but he only earns his wine money by mending clothes and weapons for the bar's customers. He doesn't much care what race his clients are."
+"Ah... as long as it has nothing to do with warlocks." Nagmara quickly tucked the shard away, glanced at an imp over by the bar that was cleaning tables, and said, "There's one right here in the bar. As far as I know, that fellow's been living in the basement over there since before the warlock who summoned me was born. Many people know he's a remarkably skilled smith, but he only earns his wine money by mending clothes and weapons for the bar's customers. He doesn't much care what race his clients are."
 
 "Is that so?" Jace asked. "What's his name?"
 
-"Mr. Idbroden," Namara said, pointing to a corner on the other side. "You can go ask in the hall over there. He lives inside."
+"Mr. Edblocken," Nagmara said, pointing to a corner on the other side. "You can go ask in the hall over there. He lives inside."
 
 "Thank you," Jace said, looking that way.
 
-In Dwarvish, Idbroden meant "dark contract."
+In Dwarvish, Edblocken meant "dark contract."

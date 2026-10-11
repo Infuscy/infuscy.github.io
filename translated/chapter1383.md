@@ -6,7 +6,7 @@ And when Deathwing decided to abandon Draenor entirely and return to Azeroth, he
 
 That was one of the major reasons he harbored hatred for his father — Deathwing never took him seriously.
 
-And judging by the fact that Deathwing entrusted his most ambitious plan — the creation of a new dragonflight, the Chromatic Dragons — to Nefarian, he clearly saw Nefarian as "the most useful one."
+And judging by the fact that Deathwing entrusted his most ambitious plan — the creation of a new dragonflight, the chromatic dragons — to Nefarian, he clearly saw Nefarian as "the most useful one."
 
 Sabellian had never been willing to admit he was inferior to anyone. Not to the recently vanquished Murmur, not even to Gruul or Magtheridon — even though he couldn't take either of those "Lords of Outland" in a one-on-one fight.
 
@@ -38,7 +38,7 @@ In the end, even Jace started to wonder if the flash of the black dragon prince'
 
 But even if the black dragon wouldn't talk, Jace could still piece together a few clues from what little his words had revealed.
 
-In the game, Nefalian's ability didn't have a clearly named casting bar like "Shadow Bolt Volley" or "Banish." He would just pick a target and force their spells to go haywire, or make them use abilities they wouldn't normally use — hence why players jokingly called it "being called out."
+In the game, Nefarian's ability didn't have a clearly named casting bar like "Shadow Bolt Volley" or "Banish." He would just pick a target and force their spells to go haywire, or make them use abilities they wouldn't normally use — hence why players jokingly called it "being called out."
 
 Jace had initially thought Nefarian achieved this through powerful mental magic similar to his sister Onyxia's, manipulating the players directly. Making players get owned by their own signature abilities was just his twisted sense of humor.
 
@@ -66,11 +66,11 @@ Jace watched the orc laborers hauling stone below the terrace, already planning 
 
 He was so focused that he didn't notice an orc warlock approaching until the warlock was right beside him.
 
-"Master Negag."
+"Master Naigag."
 
 "Hm?" Jace adjusted his breathing and turned to look, switching the Common he'd been mentally rehearsing to Orcish. "What is it?"
 
-"Important intelligence..." The warlock pulled back his hood. "The Broken diviners have discovered that the expeditionary force is secretly evacuating to Alleria's Fortress. They're being very careful — even the eyes we planted in Terokkar Forest didn't notice."
+"Important intelligence..." The warlock pulled back his hood. "The Broken diviners have discovered that the expeditionary force is secretly evacuating to Allerian Stronghold. They're being very careful — even the eyes we planted in Terokkar Forest didn't notice."
 
 "Broken diviners?" Jace asked. "Can they be trusted?"
 
@@ -80,15 +80,15 @@ He was so focused that he didn't notice an orc warlock approaching until the war
 
 "The information from Auchindoun's spirits is indeed vague and hard to interpret — very unreliable, I agree." The orc lowered his head. "But the omens those diviners gave through souls aren't that simple. The texts we recovered from the Auchenai temple might contain records of something similar."
 
-"The most important thing is that several Broken soul-diviners all said they saw similar omens. They're the ones in the Shriekhall who were most loyal to Master Wapil and spent a long time helping bind Murmur. Though they're slaves, they do have real ability."
+"The most important thing is that several Broken soul-diviners all said they saw similar omens. They're the ones in the Screaming Hall who were most loyal to Master Vorpil and spent a long time helping bind Murmur. Though they're slaves, they do have real ability."
 
 Jace cursed silently. They'd killed Murmur, and now the most capable ones had nothing better to do than cause trouble.
 
 The orc warlock continued, "Not just from Wildhammer Stronghold to here — there are even some coming from the direction of the Dark Portal. A very large number — maybe hundreds or even thousands! Even if it's some kind of illusion, it's worth being cautious about."
 
-"What does Nai'hojar say?" Jace asked. "Hasn't he been in charge of reconnaissance in the area?"
+"What does Naihogar say?" Jace asked. "Hasn't he been in charge of reconnaissance in the area?"
 
-"It was Master Nai'hojar who sent me to find you, Master Negag," the orc said in a hoarse, low voice.
+"It was Master Naihogar who sent me to find you, Master Naigag," the orc said in a hoarse, low voice.
 
 "But we can't notify the Legion or Hellfire Citadel right now," Jace said. "There are black dragons and gryphon riders watching the sky, and Alliance forces blocking the ground. Even if we killed a demon and let its soul carry the news back to the Twisting Nether, it might take months or even years for its spirit to catch the attention of the Legion's lords — more likely it would never be noticed at all!"
 

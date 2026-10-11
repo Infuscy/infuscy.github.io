@@ -2,15 +2,15 @@
 
 Compared to a regular linen or wool cloak, this leather cloak was a bit heavier. After pacing back and forth in front of his place a couple of times, Jace could really feel the heft of the monster hide.
 
-But to an outside observer, it didn't have that rough look typical of animal-skin garments. At a glance, it was hard to distinguish from a normal cloth outer garment — the fire drake's back-sail was far smoother than he'd imagined.
+But to an outside observer, it didn't have that rough look typical of animal-skin garments. At a glance, it was hard to distinguish from a normal cloth outer garment — the sootfire drake's back-sail was far smoother than he'd imagined.
 
 Where the cloak attached to the hood, and at the shoulders, the construction seemed especially sturdy — apparently sewn from the creature's outer shell.
 
-Smoldering fire drakes weren't true dragons. They were giant fire lizards that lived in scorching regions, even around molten lava.
+Sootfire drakes weren't true dragons. They were giant fire lizards that lived in scorching regions, even around molten lava.
 
-When Larsson had first told him the cloak was made from a fire drake's hide, Jace had figured it would reek of blood and guts. Instead, it carried a faint, pleasant scent of smoke — clearly it had been carefully treated.
+When Larson had first told him the cloak was made from a sootfire drake's hide, Jace had figured it would reek of blood and guts. Instead, it carried a faint, pleasant scent of smoke — clearly it had been carefully treated.
 
-Well, something worth three gold had to be worth every copper. Jace pinched his waist and suddenly felt like a man of real stature.
+Well, something worth three gold had to be worth every copper. Jace put his hands on his hips and suddenly felt like a man of real stature.
 
 Jace stood on the street for a while, puffing out his chest and watching the passersby, hoping some discerning soul would recognize what he was wearing and be impressed.
 
@@ -22,9 +22,9 @@ But that wasn't necessarily a bad thing. If everyone could tell how valuable thi
 
 Thinking that, Jace pulled the cloak a bit tighter.
 
-Come to think of it, Larsson had said this cloak had fire resistance and could boost the power of fire magic. Was that even true?
+Come to think of it, Larson had said this cloak had fire resistance and could boost the power of fire magic. Was that even true?
 
-Jace didn't know any fire-related magic at the moment, but his master Marin was a specialist in fire elemental magic, and a warlock's offensive spells were inseparable from fire. This cloak could genuinely help his future development.
+Jace didn't know any fire-related magic at the moment, but his master Malin was a specialist in fire elemental magic, and a warlock's offensive spells were inseparable from fire. This cloak could genuinely help his future development.
 
 Though Varian Wrynn had probably chosen this cloak because of the burn on his hand.
 
@@ -50,7 +50,7 @@ If he was completely healthy and unharmed, would the life energy make him even h
 
 Of course, Sazeno knew nothing about any of this, because he was a demon and had no idea how the Nathrezim's terrifying magic worked. Everything was waiting for him to figure it out.
 
-So that afternoon, Jace set out with the imp, a pack containing two mana potions, the Staff of Torgol, a meal's worth of rations, Jagin's notes on the incantation, and the summary and modifications he and the imp had worked out together.
+So that afternoon, Jace set out with the imp, a pack containing two mana potions, the Staff of Teron'gor, a meal's worth of rations, Gakin's notes on the incantation, and the summary and modifications he and the imp had worked out together.
 
 But once he got into Elwynn Forest, he realized a serious problem.
 
@@ -92,11 +92,11 @@ This tree — wasn't it alive too? Didn't life force flow through its trunk?
 
 What would happen if he cast Drain Life on it?
 
-Jace decided he'd better not go down that road. If an ordinary tree made a perfect test subject, Jagin and the rest would probably be holding their gatherings in the forest.
+Jace decided he'd better not go down that road. If an ordinary tree made a perfect test subject, Gakin and the rest would probably be holding their gatherings in the forest.
 
 Since he'd already bought the sheep, he might as well put it to use.
 
-"Elamon, Silendor!"
+"Elamun, Silondor!"
 
 Jace spoke the incantation, finger pointed at the sheep. He felt a powerful tugging sensation clench at his heart — and what was tugging him was the shadow power that had gathered at the call. But the spell didn't produce the expected effect. That sudden sensation just... ended.
 
@@ -105,14 +105,3 @@ But the sheep had already been terrified.
 It thrashed and convulsed, gnawing at the rope trying to escape, letting out a wretched cry that didn't sound like a sheep at all — more like a woman gone mad.
 
 "Shadow power! Shadow power!" the imp shouted excitedly, treating the whole thing like a spectacle.
-
-## Flags
-
-- **生命吸取** → "Drain Life": the spell Jace is testing. Canonical WoW warlock spell is "Drain Life"; the text uses 生命吸取/生命偷取 interchangeably.
-- **厄拉芒，西利昂多尔** → "Elamon, Silendor": the verbal component of the Drain Life incantation; transliterated, not in glossary.
-- **塔隆戈尔的长棍** → "Staff of Torgol": Jace's staff; not in glossary. (Not to be confused with any canonical staff — name transliterated.)
-- **撒厄诺** → "Sazeno": the imp; per glossary.
-- **纳斯雷兹姆** → "Nathrezim": dreadlords; canonical race name, not in glossary.
-- **活力** → "vitality" / life force / life energy: the text uses 活力, 生命之力, 生命能量 somewhat interchangeably for the same concept; rendered contextually.
-- **杜尚大师** → "Master Dushan": Orcish instructor; not in glossary.
-- **生命吸取咒语** → "Drain Life incantation": the text distinguishes the incantation (verbal component) from the spell concept.

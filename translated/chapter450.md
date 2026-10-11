@@ -1,6 +1,6 @@
 ## Chapter 450: Pumpkin and Meat Sauce
 
-The next morning, Jace arrived at the gates of the capital, entering the city alongside the merchant caravans, wagons, and streams of people. He made his way with practiced ease to the Old Craftsmen's District.
+The next morning, Jace arrived at the gates of the capital, entering the city alongside the merchant caravans, wagons, and streams of people. He made his way with practiced ease to the Old Craftsmen's Quarter.
 
 The closer he got to home, the harder his heart pounded, and the more at a loss he felt.
 
@@ -22,7 +22,7 @@ The frail Henny clung to Jace and wouldn't let go, crying without words for a lo
 
 "I almost lost my life…"
 
-"At the beginning, when Vick and I heard you… had died at the Dark Portal, do you know what Vick said?"
+"At the beginning, when Vic and I heard you… had died at the Dark Portal, do you know what Vic said?"
 
 Jace shook his head.
 
@@ -48,7 +48,7 @@ Henny murmured, "He invaded our land. He should be the one paying the price. Why
 
 "I haven't bought a house in Stormwind yet. But don't worry, Mom — I've already saved half the money."
 
-"Half?! What reward, or pension?"
+"Half?! From what — a reward, or a pension?"
 
 "Shouldn't the pension be for you? Oh right — did King Terenas II give you any money?"
 
@@ -68,7 +68,7 @@ Jace didn't know what role he'd played in all of this.
 
 In the afternoon, he went with his mother to the market to buy some meat and cheese. Back home, he helped her make pumpkin and meat-sauce soup. Henny had always remembered this was one of Jace's favorite things to eat.
 
-In the kitchen, as she stirred the pot, she asked, "Sylvanas Windrunner — what's her relation to that Lady Alleria in the expedition, Jace?"
+In the kitchen, as she stirred the pot, she asked, "Vereesa Windrunner — what's her relation to that Lady Alleria in the expedition, Jace?"
 
 Jace blinked. "How do you know about her?"
 
@@ -90,29 +90,29 @@ Jace sighed and dropped the garlic into the boiling pot. "Please don't add to my
 
 "I'm joking with you," Henny said.
 
-Just then, the door banged open. Vick walked in. "I'm home, Henny. The smell in this house is wonderful — pumpkin and meat-sauce soup? You must be missing Jace Sesso?"
+Just then, the door banged open. Vic walked in. "I'm home, Henny. The smell in this house is wonderful — pumpkin and meat-sauce soup? You must be missing Jace Sesso?"
 
 He looked further inside and saw Jace standing in the doorway.
 
-"Hah!" Vick laughed. "I knew it! I knew it!"
+"Hah!" Vic laughed. "I knew it! I knew it!"
 
 He ran over, grabbed Jace's arm, and shook it hard. "Not quite the hero I imagined — you're thinner, Jace — but still solid."
 
-"Look at that old king's gift of a sword," he said eagerly, drawing the longsword at his waist with its blue hilt and golden guard. The blade was engraved with a scepter and the character-emblem representing Lordaeron.
+"Look at that old king's gift of a sword," he said eagerly, drawing the longsword at his waist with its blue hilt and golden guard. The blade was engraved with a scepter and the stylized letter that stood for Lordaeron.
 
 Jace could tell at a glance that this emblem differed slightly from the flag of the Kingdom of Lordaeron. This was the crest of the House of Menethil.
 
-"Jace, you're truly amazing," Vick said, hand on Jace's shoulder. "I don't know how I raised you — I feel like I probably never taught you much, growing up. But you've grown into someone this remarkable, beyond anything I could have imagined."
+"Jace, you're truly amazing," Vic said, hand on Jace's shoulder. "I don't know how I raised you — I feel like I probably never taught you much, growing up. But you've grown into someone this remarkable, beyond anything I could have imagined."
 
 "Dad," Jace said. "You taught me to hunt, how to avoid wild beasts… remember? That's what I can think of right off the bat."
 
-"But I never taught you how to fight demons," Vick said.
+"But I never taught you how to fight demons," Vic said.
 
 By now, Henny set the meat soup on the table, then brought over the plate of sliced bread. She smiled. "Eat while you talk, gentlemen!"
 
 "My apologies, Henny."
 
-Vick sat down and ladled the meat-sauce soup over Jace's plate, then over Henny's. He broke off a piece of pumpkin onto his own bread.
+Vic sat down and ladled the meat-sauce soup over Jace's plate, then over Henny's. He broke off a piece of pumpkin onto his own bread.
 
 "I've missed you, Jace. When the news of your accident came from the south, at first I had a hard time accepting it was really you."
 
@@ -120,17 +120,17 @@ Vick sat down and ladled the meat-sauce soup over Jace's plate, then over Henny'
 
 "Why bring up something so unhappy during the meal," Henny said sternly.
 
-"My apologies, dear. I'm not blaming Jace for anything," Vick said to Henny, then turned back to Jace. "Do you think I'm complaining about your decision, Jace Sesso? Do you think I believe you shouldn't have stepped forward and faced those terrible demons, even at the cost of… your own life?"
+"My apologies, dear. I'm not blaming Jace for anything," Vic said to Henny, then turned back to Jace. "Do you think I'm complaining about your decision, Jace Sesso? Do you think I believe you shouldn't have stepped forward and faced those terrible demons, even at the cost of… your own life?"
 
-Henny lowered her head and said nothing, quietly picking at the meat filling on her plate, as though she already knew what Vick was going to say.
+Henny lowered her head and said nothing, quietly picking at the meat filling on her plate, as though she already knew what Vic was going to say.
 
-"When I was young," Vick said, dipping his bread in the pumpkin soup and putting it in his mouth, "about your age, maybe a little older, I was often on missions in the area between Durnholde and the Hinterlands."
+"When I was young," Vic said, dipping his bread in the pumpkin soup and putting it in his mouth, "about your age, maybe a little older, I was often on missions in the area between Durnholde and the Hinterlands."
 
-"Once we ran into trolls. Of course, though Arathi had defeated the trolls, the trolls had never actually left the highlands and the Hinterlands — they even came to Hillsbraddock now and then to cause trouble. I probably never mentioned it to you."
+"Once we ran into trolls. Of course, though Arathi had defeated the trolls, the trolls had never actually left the highlands and the Hinterlands — they even came to Hillsbrad now and then to cause trouble. I probably never mentioned it to you."
 
 "I know," Jace nodded.
 
-"Right, you're a mage now, you'd know," Vick continued. "At the time, the three of us were traveling together. The man in front's horse suddenly took an arrow clean through its head and flipped to the ground, squealing like a wild boar. That was the first time I'd ever encountered trolls. When that horse went down, I didn't even know what had happened."
+"Right, you're a mage now, you'd know," Vic continued. "At the time, the three of us were traveling together. The man in front's horse suddenly took an arrow clean through its head and flipped to the ground, squealing like a wild boar. That was the first time I'd ever encountered trolls. When that horse went down, I didn't even know what had happened."
 
 "The other man shouted that there were trolls and told me to turn and flee. I panicked… I was afraid. I made a decision. And then I watched, helpless, as the trolls laughed and cut off his head, waving it at me in triumph, Jace. But all I could do was shout at my horse to run faster. That was it."
 
@@ -140,12 +140,4 @@ Henny lowered her head and said nothing, quietly picking at the meat filling on 
 
 "This may not be what a father ought to say to his son, but I supported your decision one hundred percent — as long as you understood what you were protecting. As long as you understood… I know you understand. I know you understand everything, because you've been that kind of child since you were small."
 
-Vick spoke, then cleared his throat. He picked up a piece of meat, tilted his head back, and dropped it into his mouth.
-
-## Flags
-
-- **POV:** Third person (Jace Sesso).
-- **Setting:** The Lordaeron capital — the city gates, the Old Craftsmen's District, the Sesso family home.
-- **Characters:** Jace Sesso, Henny (mother), Vick (father), Sylvanas Windrunner (off-page, via earlier epitaph).
-- **Key lore:** Jace's official death and the political complications of his survival; King Terenas II's gift of a sword to Vick (bearing the House of Menethil crest); the Greymane Wall and Gilneas's likely secession from the Alliance; improved human-elf relations after Nethergarde Keep; Vick's story of encountering trolls near Durnholde and the Hinterlands; the red-clad cavalrymen bearing the fist-banner (foreshadowing).
-- **Chapter title:** 南瓜和肉酱 — "Pumpkin and Meat Sauce" (the soup Henny makes for Jace).
+Vic spoke, then cleared his throat. He picked up a piece of meat, tilted his head back, and dropped it into his mouth.

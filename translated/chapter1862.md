@@ -1,6 +1,6 @@
 ## Chapter 1862: Parting, Reunion
 
-Rainy night. Dalaran. Sunset Square.
+Rainy night. Dalaran. The Eventide.
 
 An elven ranger in simple green civilian clothes, a wizard in a dark gray long cloak, and a mage in a brown hooded cloak carrying a cloth-wrapped straight wooden staff arrived at the square. Across from them, between the stone columns, priests were gathered. The holy-light runes on their robes flickered faintly through the curtain of rain. They were praying quietly for the wounded resting nearby, their chanting audible from a great distance.
 
@@ -36,11 +36,11 @@ The mage sighed and did not continue.
 
 "Exactly." Khadgar was not surprised that Jace had figured it out. "You noticed some clues too, didn't you? In Kalimdor."
 
-Jace neither confirmed nor denied it. Khadgar continued. "Aegwynn believed that after I killed our master in Karazhan, Sargeras's soul was driven back to the Twisting Nether. That meant she could use the last of her Guardian power to perform the resurrection spell — to bring her son back. Her real son, not the Burning Legion's master who had possessed him. But when she learned Uthalesh had surfaced, she put the plan on hold."
+Jace neither confirmed nor denied it. Khadgar continued. "Aegwynn believed that after I killed my master in Karazhan, Sargeras's soul was driven back to the Twisting Nether. That meant she could use the last of her Guardian power to perform the resurrection spell — to bring her son back. Her real son, not the Burning Legion's master who had possessed him. But when she learned Ulthalesh had surfaced, she put the plan on hold."
 
 "You believed her judgment? About Sargeras's soul, I mean." Jace said.
 
-"Regardless, the method she recorded really can bring a person back to this world." Khadgar spread his hands toward Jace. "She believed the Death Grip would destroy Uthalesh. It didn't fully succeed in the end, but I can guarantee you, Jace — if Uthalesh hadn't been wielded by you, the result would have been much 'smoother.'"
+"Regardless, the method she recorded really can bring a person back to this world." Khadgar spread his hands toward Jace. "She believed the Finger of Death would destroy Ulthalesh. It didn't fully succeed in the end, but I can guarantee you, Jace — if Ulthalesh hadn't been wielded by you, the result would have been much 'smoother.'"
 
 "So why wouldn't I trust her judgment on this? Maybe the Guardian Medivh's soul is still wandering somewhere. His mother had already touched his soul when she reached that conclusion. Maybe she was just one step away. I..."
 
@@ -50,7 +50,7 @@ Jace neither confirmed nor denied it. Khadgar continued. "Aegwynn believed that 
 
 He frowned and stepped closer, lowering his voice to barely a whisper. "The key is — I really did see him that night, Jace. You know that. It's why I didn't want to keep it from you."
 
-"I haven't decided anything yet. Haven't even settled on any idea. Everything we've discussed tonight must stay confidential. You can't tell anyone — not High Lord Grede Thunderfist, not Ranger-Captain Vereesa Windrunner, not Lady Sommariel or Lady Fidegnia, not the tauren druid from Mulgore, Mosa Woodmane... anyone. Or any demon. Anything."
+"I haven't decided anything yet. Haven't even settled on any idea. Everything we've discussed tonight must stay confidential. You can't tell anyone — not High King Grede Thunderfist, not Ranger Lord Vereesa Windrunner, not Lady Somaelir or Lady Phydygonia, not the tauren druid from Mulgore, Mosa Woodmane... anyone. Or any demon. Anything."
 
 "I'll keep it secret." Jace said.
 
@@ -70,17 +70,17 @@ Khadgar seemed to catch on. He nodded slowly.
 
 "What kind of chant is that... 'Khadgar, Archmage, time has come, come to the page.'" Jace recited it in Thalassian. "Can you feel that?"
 
-"It won't work yet. But it will within three months." Khadgar snapped his fingers confidently. "Also — practice your Thalassian with the Ranger-Captain a bit more. It'll improve your odds. Honestly, I've never heard anyone make the elven language sound like Demonic."
+"It won't work yet. But it will within three months." Khadgar snapped his fingers confidently. "Also — practice your Thalassian with the Ranger Lord a bit more. It'll improve your odds. Honestly, I've never heard anyone make the elven language sound like Demonic."
 
 "Got it, got it." Jace waved his hand.
 
-"Jace Sesso." Khadgar smiled, rubbing his clean-shaven chin, eyes narrowing. "You're a remarkable fellow. Knowing you has been my honor. From Draenor back to here, from Karazhan to Blackrock Mountain, Violet Citadel, the Great Cathedral, and then to this square today... this entire story has been an irreplaceable treasure to me. Looking back now, I can't believe I was actually debating whether to bring you back just a few days ago."
+"Jace Sesso." Khadgar smiled, rubbing his clean-shaven chin, eyes narrowing. "You're a remarkable fellow. Knowing you has been my honor. From Draenor back to here, from Karazhan to Blackrock Mountain, the Violet Citadel, the Great Monastery, and then to this square today... this entire story has been an irreplaceable treasure to me. Looking back now, I can't believe I was actually debating whether to bring you back just a few days ago."
 
 "Same to you, mage." Jace looked at the Atiesh in Khadgar's hand. "And I think from today on, you are unquestionably the new Guardian of Tirisfal."
 
-"What kind of dark curse is that?" Khadgar shook his head with a laugh. "The Tirisfal Council is already a shell of its former self. The age of Guardians is over, Jace. If the Dark Portal nineteen years ago didn't make everyone see that, then today they've seen it clearly enough."
+"What kind of dark curse is that?" Khadgar shook his head with a laugh. "The Order of Tirisfal is already a shell of its former self. The age of Guardians is over, Jace. If the Dark Portal nineteen years ago didn't make everyone see that, then today they've seen it clearly enough."
 
-"But that doesn't mean this world has no one to protect it. Look — from Mount Hyjal to Quel'Danas, from Lake Lordamere to Khaz Modan, to the countless mortals of Elwynn who have stood together. Even the Burning Legion cannot break this unprecedented alliance again."
+"But that doesn't mean this world has no one to protect it. Look — from Mount Hyjal to Quel'Danas, from Lordamere Lake to Khaz Modan, to the countless mortals of Elwynn who have stood together. Even the Burning Legion cannot break this unprecedented alliance again."
 
 "And whether you want to admit it or not, Sesso — without you, none of this would have happened."
 
@@ -92,11 +92,11 @@ His form dissolved into a scattering of arcane feathers.
 
 Jace blinked as if snapping back to reality, staring at the fading silhouette.
 
-"Well then. Farewell, Jace. Take care of Mr. and Mrs. Sesso, Ranger-Captain Vereesa Windrunner, and yourself — especially yourself..."
+"Well then. Farewell, Jace. Take care of Mr. and Mrs. Sesso, Ranger Lord Vereesa Windrunner, and yourself — especially yourself..."
 
 By the time nearby mages noticed the arcane disturbance and looked over, there was not a trace of residual magic left in the air.
 
-Thank you, Khadgar, Jace thought.
+*Thank you, Khadgar,* Jace thought.
 
 "Jace, over here! I found it!" Vereesa called from a distance.
 
@@ -160,7 +160,7 @@ Thinking of that, he almost felt nervous. His heart thumped wildly, so loud it f
 
 Over a decade ago, when he was about to leave for Southshore, his father and mother had stood in the distance, watching his carriage drive away. It felt like he was only now finally coming home.
 
-Thank you, Prophet.
+*Thank you, Prophet.*
 
 "Madame Sesso? Are you home?"
 
@@ -178,15 +178,15 @@ The rain stopped. Beneath the witness of the White Lady and the Blue Child, moth
 
 He had dreamed of this day a thousand times. But he had never truly dared to hope he would reach it.
 
-Thank you, Master Marin, Sister Amy, Ursula.
+*Thank you, Master Malin, Sister Amy, Ursula.*
 
-And of course, Vereesa, Grede, Sora, Needleflame, Mosa, and Morophil.
+*And of course, Vereesa, Grede, Sola, Needleflame, Mosa, and Morophil.*
 
-Plus Sazeno — you little thing. Don't think you can escape my grasp.
+*Plus Sazeno — you little thing. Don't think you can escape my grasp.*
 
-Thank you, Azeroth.
+*Thank you, Azeroth.*
 
-And the beautiful troll ladies.
+*And the beautiful troll ladies.*
 
 ---
 
@@ -206,7 +206,7 @@ My initial reason for putting fingers to keyboard was, besides hoping for some p
 
 But even back then, I had already set the ending that doesn't quite match the opening's tone — leaving home to reuniting, walking into darkness to "gaining freedom," and then blowing up with Archimonde.
 
-I remember not long after I started, a reader asked me who my favorite Warcraft character was. Yes — it's Archimonde. I wrapped a five-million-character dumpling just for that one dip of vinegar.
+I remember not long after I started, a reader asked me who my favorite Warcraft character was. Yes — it's Archimonde. I baked a five-million-character cake just for that one cherry on top.
 
 Looking back now that it's finished, I'm happy I earned my keep, and I went through a bizarre, wonderful long journey with a few protagonists. Seeing so many readers love this book, I'm honored too — just like Jace, I managed to accomplish my original goal.
 

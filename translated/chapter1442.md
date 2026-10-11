@@ -1,8 +1,8 @@
 ## Chapter 1442: The Dark Tower Draws Closer
 
-"Stay away from the window, Morofil." Jace said as he checked his luggage and potion pouch. "Even if the folks in Darkshire have a higher tolerance for monsters and ghouls than anywhere else in the world, a demon lord wreathed in flame spreading his wings by the inn window to say goodnight might be pushing it a bit."
+"Stay away from the window, Morophil." Jace said as he checked his luggage and potion pouch. "Even if the folks in Darkshire have a higher tolerance for monsters and ghouls than anywhere else in the world, a demon lord wreathed in flame spreading her wings by the inn window to say goodnight might be pushing it a bit."
 
-He looked up and smiled. Morofil tilted her head, turned around, pulled the curtain shut, and said grumpily, "I thought after we came back from Draenor, you'd already revealed your identity and everything you have to everyone. As one of your 'possessions,' I'd be able to travel openly with you, dear."
+He looked up and smiled. Morophil tilted her head, turned around, pulled the curtain shut, and said grumpily, "I thought after we came back from Draenor, you'd already revealed your identity and everything you have to everyone. As one of your 'possessions,' I'd be able to travel openly with you, dear."
 
 "Still, it's progress compared to when you didn't dare bring me out at all."
 
@@ -12,7 +12,7 @@ The succubus padded over to Jace on nearly silent feet. "Do you know how happy I
 
 "Don't push it, demon." Jace pointed a finger at her, then picked up the food pack to organize it.
 
-Morofil circled around in front of Jace, folding her wings. "So you're saying I have to defeat her again to truly win your heart."
+Morophil circled around in front of Jace, folding her wings. "So you're saying I have to defeat her again to truly win your heart."
 
 "You hadn't been dwelling on this for a long time." Jace frowned. "Why'd you start again after Draenor?"
 
@@ -20,15 +20,15 @@ The demon leaned against the table, deliberately arching her crimson rear and fl
 
 "Prove you can avoid the arcane golems of Karazhan first, then we'll talk about other things." Jace tied up his bundle, hands on his hips as he surveyed all the luggage. "Don't forget, when those arcane golems were built, Medivh was possessed by Sargeras."
 
-"A tower that once housed Sargeras's soul. Quite a challenge." Morofil placed her hand on her stomach.
+"A tower that once housed Sargeras's soul. Quite a challenge." Morophil placed her hand on her stomach.
 
-"I need to save up enough mana for it." Jace and Morofil said almost in unison. Jace shot her a look, and Morofil laughed lightly, bending over. Jace wagged his finger. "No, no. We're heading to Deadwind Pass tomorrow. I have to save my mana."
+"I need to save up enough mana for it." Jace and Morophil said almost in unison. Jace shot her a look, and Morophil laughed lightly, bending over. Jace wagged his finger. "No, no. We're heading to Deadwind Pass tomorrow. I have to save my mana."
 
 He pushed a mana potion toward the succubus. "Have this to tide you over."
 
-"Ugh." Morofil stared at the mana potion, making a retching face, then grumpily rounded the table to lean against Jace's shoulder. "The archmage said today that we have to walk to Karazhan on foot to avoid any possible magical disruption and conserve mana."
+"Ugh." Morophil stared at the mana potion, making a retching face, then grumpily rounded the table to lean against Jace's shoulder. "The archmage said today that we have to walk to Karazhan on foot to avoid any possible magical disruption and conserve mana."
 
-"So that means at least two or three days of walking to reach that tower. You're not telling me you can't recover your mana in that time, are you? Or do you really need full mana to deal with a few lonely ghosts, wolves, and zombies? You're Tyr's Guardian now, my master. That sacred name is etched into your soul. Use your Holy Light to burn my body... ah, just thinking about it makes me want to climax."
+"So that means at least two or three days of walking to reach that tower. You're not telling me you can't recover your mana in that time, are you? Or do you really need full mana to deal with a few lonely ghosts, wolves, and zombies? You're the Protector of Tyr now, my master. That sacred name is etched into your soul. Use your Holy Light to burn my body... ah, just thinking about it makes me want to climax."
 
 "Don't talk that nonsense." Jace let out a deep breath. The demon, as if receiving a signal, spread her wings and wrapped herself around Jace, turning into a burning shadow that pounced onto the bed.
 
@@ -56,15 +56,15 @@ The archmage turned back. "And you're at the same moment I was then — you've j
 
 "You've been here before." Khadgar said as they walked.
 
-Jace's heart jolted. Did the Kirin Tor know he'd hidden an doom lord here before? Or had his trip with Grede to collect necrotic essence here for the goblins been exposed?
+Jace's heart jolted. Did the Kirin Tor know he'd hidden a doom lord here before? Or had his trip with Grede to collect Essence of Undeath here for the goblins been exposed?
 
-Then he remembered. Right — back when he'd gone with his orcish teacher Dushan to Dalaran for the orcish language conference, he'd fabricated that he'd found Dar'Khan Drathir's letters here in Deadwind Pass.
+Then he remembered. Right — back when he'd gone with his Orcish teacher, Master Dushan, to Dalaran for the Orcish symposium, he'd fabricated that he'd found Dar'Khan Drathir's letters here in Deadwind Pass.
 
 "I've been here. Just never went this deep." Jace said.
 
 "Karazhan's dark energy has revived many corpses — both the recently dead and those from years past." Khadgar said. "The closer you get to Karazhan, the more powerful the reanimated dead might be. Dar'Khan Drathir, the one you defeated, was said to have connections with a group of undead mercenaries here. He was searching for that evil staff — Ulthalesh."
 
-Jace's fingers unconsciously rubbed the tightly wrapped demon bone, nodding. At the same time, he felt through the soul link that the invisible Morofil behind him had tensed up too.
+Jace's fingers unconsciously rubbed the tightly wrapped demon bone, nodding. At the same time, he felt through the Soul Link that the invisible Morophil behind him had tensed up too.
 
 "Recently, the Kirin Tor has detected signs of necrotic plague in Northrend." Khadgar continued. "Master Krasus gathered a group of elite mages in the Council and headed north. You should know Archmage Rhonin's name. He rescued a blue dragon trapped in a cave by nerubians using web-like strands. But the nerubians surrounding that blue dragon had all been transformed into undead by evil magic."
 

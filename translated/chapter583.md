@@ -48,7 +48,7 @@ Just as Jace had suspected.
 
 "In Quel'Thalas this is not a topic that can be discussed," Vereesa said. "The addiction. Many Quel'dorei refuse to acknowledge its existence, but that is nothing more than self-comfort. Everyone knows that once the Sunwell's energy is exhausted or it is destroyed, for us it would be the end of the world."
 
-"Before the Horde broke through our defenses, the vast majority of young Quel'dorei had never contemplated that possibility. The Ban'Thallow was impregnable, Silvermoon would never fall — after all, the Amani Empire had not shaken any of this for thousands of years. But the orcs... I don't know, Jace..."
+"Before the Horde broke through our defenses, the vast majority of young Quel'dorei had never contemplated that possibility. Ban'dinoriel was impregnable, Silvermoon would never fall — after all, the Amani Empire had not shaken any of this for thousands of years. But the orcs... I don't know, Jace..."
 
 Jace swept his gaze across the dark, oppressive forest and the grim towers looming in the night. "Even the Well of Eternity could not last forever, Vereesa."
 
@@ -70,7 +70,7 @@ The elf asked through a suppressed laugh, "And will you charge for it?"
 
 Vereesa finally let out a laugh and gave Jace a gentle shove. Jace smiled too, but his smile faded soon after.
 
-He didn't know how the ranger imagined that moment, but right now his mind was filled with hideous skeletal warriors, armies of zombies, black knights astride death chargers, wailing ghouls covering the hills, abominations swinging blood-stained war-axes, plague mushrooms sprouting through corrupted forests...
+He didn't know how the ranger imagined that moment, but right now his mind was filled with hideous skeletal warriors, armies of zombies, Dark Riders astride death chargers, wailing ghouls covering the hills, abominations swinging blood-stained war-axes, plague mushrooms sprouting through corrupted forests...
 
 And amid the massive undead host, a gray-haired prince holding a runeblade stared at him expressionless.
 
@@ -78,7 +78,7 @@ A decade or so from now, the Scourge would erupt, Lordaeron would fall, and King
 
 The entire kingdom would swiftly perish at the hands of this patricidal prince. After converting Lordaeron's subjects en masse into the undead Scourge, he would immediately march north to storm the Kingdom of Quel'Thalas.
 
-He would kill Vereesa's sister, Ranger-General Sylvanas, and in a final indignity transform her into a banshee to enslave. After breaching the walls of Silvermoon, he would ruthlessly slay Sunstrider King Anasterian in single combat.
+He would kill Vereesa's sister, Ranger-General Sylvanas, and in a final indignity transform her into a banshee to enslave. After breaching the walls of Silvermoon, he would ruthlessly slay King Anasterian Sunstrider in single combat.
 
 In the end, he would destroy the Sunwell and with it all hope of Quel'Thalas.
 
@@ -96,21 +96,6 @@ But now, at this very moment, looking at Vereesa leaning on the railing beside h
 
 Jace nodded and stepped inside. Vereesa suddenly spoke again. "By the way — how do you think I did today, facing that sentinel general?"
 
-"A qualified ranger captain."
+"Every inch a ranger-captain."
 
 Jace gave a thumbs-up, turned, and flopped straight onto the bed. Vereesa smiled and pressed her lips together softly.
-
-## Flags
-
-- **Rexxar**: Canonical WoW hero (雷克萨). Half-orc, son of an orc and an ogre — the text explains his mixed heritage.
-- **The Ban'Thallow**: Canonical name for 班蒂诺雷尔 — the magical barrier protecting Quel'Thalas. Not in the glossary; rendered per established lore.
-- **Amani Empire**: Canonical ancient troll empire (阿曼尼帝国) that besieged Quel'Thalas for millennia.
-- **Sunwell**: Canonical 太阳之井 — the source of high elf magical power.
-- **Ranger Lord / Ranger-General**: Canonical high elf military ranks (游侠领主 / 游侠将军).
-- **The Scourge sequence**: Jace's internal vision of the Third War — Arthas, Frostmourne, Terenas's murder, Sylvanas's death and raising, Anasterian's death, the Sunwell's destruction. All canonical Warcraft III plot points. Kept the gamer-lore tone.
-- **"death chargers"**: 死亡战马 — the mounts of the Scourge's death knights.
-- **"abominations"**: 憎恶巨人 — canonical WoW undead construct.
-- **"runeblade"**: 寒冰利剑 — Frostmourne described by its visual quality rather than named directly in the Chinese.
-- **"I have to stop all this"**: Jace's resolve, set off with em-dash as internal monologue.
-- **"Miss Quel'dorei"**: Jace's teasing address — light, warm, consistent with his banter register.
-- **POV**: Third person throughout.

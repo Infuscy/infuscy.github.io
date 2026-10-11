@@ -18,7 +18,7 @@ Before long, when Jace turned his head again, he couldn't even see the forest be
 
 But after walking a while longer, even these last traces were gone.
 
-At some point, a solitary star of light appeared ahead, guiding the column forward. Only when they drew near did they realize this arcane starlight sat atop a night elf wooden gate shaped like a torii, cradled by a crescent-shaped wooden ornament.
+At some point, a solitary star of light appeared ahead, guiding the column forward. Only when they drew near did they realize this arcane starlight sat atop a tall night elf wooden archway, cradled by a crescent-shaped wooden ornament.
 
 Behind this wooden gate was an old pier, where a small purple wooden sailboat was moored. Several guards stood quietly, gazing this way without moving a muscle.
 
@@ -28,11 +28,11 @@ Staring at this place, a powerful sense of loneliness seized Jace by the chest. 
 
 Time and space both became meaningless on this vast sea. The thick fog swallowed everything here.
 
-After boarding the ship, even Musa had gone quiet, let alone Grede. Wenresa kept sizing up those night elves and the impossibly simple single-masted sailboat, her face full of astonishment.
+After boarding the ship, even Mosa had gone quiet, let alone Grede. Vereesa kept sizing up those night elves and the impossibly simple single-masted sailboat, her face full of astonishment.
 
 In Silvermoon City, even in Dalaran, everything related to the high elves went to extravagant lengths. To many high elves, the living conditions of their distant relatives here probably looked no different from a bunch of savages...
 
-But even Jace could sense an ancient, heavy aura from the night elves' clothing, their weapons, and this boat. As their kin, Wenresa must have felt it far more strongly than Jace did.
+But even Jace could sense an ancient, heavy aura from the night elves' clothing, their weapons, and this boat. As their kin, Vereesa must have felt it far more strongly than Jace did.
 
 They had been sailing the seas for decidedly less than a day. Even with the sea fog blocking his vision, he could roughly judge the time by the light and dark of the sky. But this one day felt possibly harder to endure than sailing from Stormwind to Menethil Harbor.
 
@@ -50,21 +50,21 @@ Jace and the others waited here for a while. The whole of Feathermoon Stronghold
 
 "Have you noticed, Jace?" Grede did his best to keep his voice low, trying not to break the strange quiet.
 
-"It seems all the soldiers here. Look at those wearing armor, carrying those strange weapons, patrolling with bows on their backs — they're all female elves."
+"All the soldiers here — look at those wearing armor, carrying those strange weapons, patrolling with bows on their backs — they're all female elves."
 
-After saying that, he glanced at the Wenresa beside him and asked, "Or am I just mixing up men and women again? I couldn't tell your genders apart very well the first time I saw high elves either."
+After saying that, he glanced at Vereesa beside him and asked, "Or am I just mixing up men and women again? I couldn't tell your genders apart very well the first time I saw high elves either."
 
-Wenresa took a deep breath and said, "The Kaldorei sentinels are composed entirely of women."
+Vereesa took a deep breath and said, "The Kaldorei sentinels are composed entirely of women."
 
 "What about the men?" Grede said. "I haven't seen a single male since I got here."
 
-Wenresa didn't answer this topic anymore. She seemed a little tense, staring — just like Jace — at the largest, most prominent building in the center, the seat of General Shandris Feathermoon.
+Vereesa didn't answer this topic anymore. She seemed a little tense, staring — just like Jace — at the largest, most prominent building in the center, the seat of General Shandris Feathermoon.
 
-"If Sylvanas knew I'd been captured and brought here, meeting the leader of the Kaldorei looking like this, she'd curse me to death. Damn it," she muttered under her tongue.
+"If Sylvanas knew I'd been captured and brought here, meeting the leader of the Kaldorei looking like this, she'd curse me to death. Damn it," she muttered under her breath.
 
 "Then just don't tell her," Jace said. "Anyway, no one besides us knows it happened. And the elves here aren't going to leave Kalimdor specifically to report this meeting to your sister."
 
-"Then you two keep your mouths shut too," Wenresa said, looking at him and the dwarf.
+"Then you two keep your mouths shut too," Vereesa said, looking at him and the dwarf.
 
 "Of course we won't say anything!" Grede said.
 
@@ -72,7 +72,7 @@ Wenresa didn't answer this topic anymore. She seemed a little tense, staring —
 
 "All right, all right, I promise, I promise..."
 
-"Musa? Never mind..."
+"Mosa? Never mind..."
 
 Just then, a female elf in a long gray-purple robe appeared in the doorway of the wooden house. Several of them immediately fell silent.
 
@@ -82,12 +82,12 @@ A tall male night elf escorted her, his hair purple, his skin pitch-black as nig
 
 When Grede saw the male elf, his eyes widened and he muttered under his breath, "How is he that tall?"
 
-That's right — night elf males were much taller and more powerfully built than high elves. Their stature might not even fall far short of Musa's.
+That's right — night elf males were much taller and more powerfully built than high elves. Their stature might not even fall far short of Mosa's.
 
 He and the sentinel captain who had brought Jace and the others to Feathermoon Stronghold accompanied the deep-blue-haired female elf, slowly approaching Jace and the group.
 
-The female elf sized up the people here. Her gaze lingered on Jace for a moment, and she frowned slightly, then looked at the Celebras's antler in her hand.
+The female elf sized up the people here. Her gaze lingered on Jace for a moment, and she frowned slightly, then looked at Celebras's antler in her hand.
 
 Jace felt as though she had detected the shadow power on him. He had never harbored any illusion that his dark magic could escape her eyes. Still, she didn't say anything more about it.
 
-"I am Shandris Feathermoon, commander of the sentinels stationed here by order of High Priestess Tyrande Whisperwind." The female elf raised her head and said in remarkably fluent Common. "This is indeed the antler of the guardian Celebras. I have known both him and his father for a very long time. I am very sorry we brought you here in this manner. Untie them now, Kalanvina."
+"I am Shandris Feathermoon, commander of the sentinels stationed here by order of High Priestess Tyrande Whisperwind." The female elf raised her head and said in remarkably fluent Common. "This is indeed the antler of Keeper Celebras. I have known both him and his father for a very long time. I am very sorry we brought you here in this manner. Untie them now, Kalanvina."

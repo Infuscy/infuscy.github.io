@@ -21,23 +21,23 @@ Khadgar heard a familiar voice among the calls. He reined in sharply — his hor
 
 "Like you said, the end of the world is almost here, Khadgar. I understand, I understand..." Detris Vadras sighed. "Come inside first."
 
-Just then, the sound of young dragons echoed from the dark sky. The archmage knew that sound all too well — nearly twenty years ago, Dalaran had heard something similar. The red dragonflight, driven by orcs, had descended on Hillsbrad, spreading fear and despair.
+Just then, the sound of young dragons echoed from the dark sky. The archmage knew that sound all too well — nearly twenty years ago, Dalaran had heard something similar. The Red Dragonflight, driven by orcs, had descended on Hillsbrad, spreading fear and despair.
 
 But this time, the red dragons were on his side. He knew the reds, their queen included, had been severely wounded by the endless disasters and torments. They still hadn't recovered — the more powerful the dragon, the harder the fall, and the harder the healing.
 
-But in this crisis, Azeroth... everyone, no matter their circumstances, needed to come to Lake Lordamere and do their part. The reds understood that better than he did.
+But in this crisis, Azeroth... everyone, no matter their circumstances, needed to come to Lordamere Lake and do their part. The reds understood that better than he did.
 
-Following the alchemist inside, the man turned and said, "Prismatic Miracle Elixir — the recipe your Sons of Lothar brought back from Draenor. I still have a few bottles, Archmage Khadgar."
+Following the alchemist inside, the man turned and said, "Flask of Chromatic Wonder — the recipe your Sons of Lothar brought back from Draenor. I still have a few bottles, Archmage Khadgar."
 
-He handed Khadgar a square bottle filled with a strange, bright purple liquid, then said, "As for the Destruction Potion — you know that since Blackrock Spire, Dalaran has been living under the shadow of plague and demonic infiltration. Considering the dangers from the Twisting Nether, we never successfully cultivated the Void Blossoms needed for Destruction Potion. We've made some progress recently, but this portal..."
+He handed Khadgar a square bottle filled with a strange, bright purple liquid, then said, "As for the Destruction Potion — you know that since Blackrock Spire, Dalaran has been living under the shadow of plague and demonic infiltration. Considering the dangers from the Twisting Nether, we never successfully cultivated the Netherbloom needed for Destruction Potion. We've made some progress recently, but this portal..."
 
 "So you don't have it." Khadgar said.
 
 The alchemist started to speak, but Khadgar cut him off. "I know Destruction Potion is extremely dangerous. You don't need to remind me, Detris..."
 
-"No." The alchemist said. "I was going to say that Lady Ursula Delin of Stormwind is in Southshore. She was supposed to come to Dalaran for a conference on Destruction Potion, but the Fenris Isle incident stranded her there. Maybe she has samples..."
+"No." The alchemist said. "I was going to say that Lady Ursula Deline of Stormwind is in Southshore. She was supposed to come to Dalaran for a conference on Destruction Potion, but the Fenris Isle incident stranded her there. Maybe she has samples..."
 
-"Ursula Delin?" Khadgar shoved his Archmage's Ring into the alchemist's hand. "Find the fastest gryph— no, find a dragonhawk rider. Bring her to Dalaran, Detris. Show them my ring. Tell the elves it's a personal favor."
+"Ursula Deline?" Khadgar shoved his Archmage's Ring into the alchemist's hand. "Find the fastest gryph— no, find a dragonhawk rider. Bring her to Dalaran, Detris. Show them my ring. Tell the elves it's a personal favor."
 
 "Alright. I'll go right away." The alchemist took the ring and asked, "But what exactly are you planning, Khadgar?"
 
@@ -49,7 +49,7 @@ Antonidas was in the castle. He knew it. The Archmage of Dalaran was the city's 
 
 Leaving his horse at the citadel's stables, Khadgar climbed quickly to the high terrace, where Antonidas was speaking with several Kirin Tor members, including Drenden.
 
-From this height, looking toward the center of Lake Lordamere, even through the heavy rain and mist, the strange ring of arcane light was still visible.
+From this height, looking toward the center of Lordamere Lake, even through the heavy rain and mist, the strange ring of arcane light was still visible.
 
 "Archmage Antonidas!"
 
@@ -75,11 +75,11 @@ Antonidas nodded. Khadgar continued, "I'm guessing you've already noticed — th
 
 "Sure? What's there to be sure of?" Khadgar stepped forward, looking at the assembled mages. "I know it's worth a try. If you don't have the confidence, Master Drenden, then I'll do it. Or anyone else who does. But we have to try!"
 
-Seeing the mages lost in thought, he pressed urgently, "We can't delay any longer. We don't have time to wait for all our allies to get here. The blue dragonflight hasn't been heard from. The reds only just arrived. The Kaldorei might still be at sea..."
+Seeing the mages lost in thought, he pressed urgently, "We can't delay any longer. We don't have time to wait for all our allies to get here. The Blue Dragonflight hasn't been heard from. The reds only just arrived. The Kaldorei might still be at sea..."
 
-"By the time everyone's ready for a final assault, it'll be too late. This portal is almost complete. Don't let the time Jace Sesso and I fought so hard to buy slip through our fingers, Master. He paid a terrible price for it. I was the lucky one. So I suggest we recall Modera and Vargos now. Call an emergency meeting..."
+"By the time everyone's ready for a final assault, it'll be too late. This portal is almost complete. Don't let the time Jace Sesso and I fought so hard to buy slip through our fingers, Master. He paid a terrible price for it. I was the lucky one. So I suggest we recall Modera and Vargoth now. Call an emergency meeting..."
 
-"There's no condition for an emergency meeting anymore. Come with me." Antonidas looked at Drenden beside him. "Master Drenden and I, along with the staff's guardian, Archmage Angela Dosantus, can open the vault for you."
+"There's no condition for an emergency meeting anymore. Come with me." Antonidas looked at Drenden beside him. "Master Drenden and I, along with the staff's guardian, Archmage Angela Dosantos, can open the vault for you."
 
 "Because I know that even if everyone disagreed, you'd find a way to take it yourself — and you've got plenty of tricks to pull that off, especially now, with Dalaran at its most vulnerable. I only hope that when this is over, Khadgar, you'll take responsibility for the unforeseen consequences of your decision. Don't make me regret this."
 
@@ -97,7 +97,7 @@ Because Atiesh... was the only solution he could think of. Use the Guardian's po
 
 He wasn't a Guardian himself. Holding Atiesh felt a little fraudulent. But Aegwynn was also at the end of her rope now. That evened things out. Sort of.
 
-Antonidas, Drenden, and Dosantus chanted in unison, unlocking the Guardian's vault within Dalaran's treasury.
+Antonidas, Drenden, and Dosantos chanted in unison, unlocking the Guardian's vault within Dalaran's treasury.
 
 The white Violet Eye relief on the heavy stone door opened its lid as the gate swung wide, revealing the hall lit by arcane magic. Atiesh sat on a pedestal in the center, kept here in isolation.
 

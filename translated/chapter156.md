@@ -4,7 +4,7 @@ By the time Jace woke up, it was already dark outside.
 
 He glanced at his pocket watch — barely past seven in the evening. The north really did get dark earlier than the south.
 
-Seeing the crack across the watch face reminded him: he'd promised Amy Marin he'd bring her back some kind of souvenir. He might as well head out and see what was available. The trip was short on time as it was, and he had better things to do than lie around the house.
+Seeing the crack across the watch face reminded him: he'd promised Amy Malin he'd bring her back some kind of souvenir. He might as well head out and see what was available. The trip was short on time as it was, and he had better things to do than lie around the house.
 
 Even if he didn't end up buying anything, at least he'd get a sense of what his options were.
 
@@ -28,7 +28,7 @@ Jace eyed the thing. He had a feeling eating it would unleash some unknowable ca
 
 "Dalaran has Winter Veil celebrations too?"
 
-Jace was genuinely surprised. The people of the Stormwind Kingdom had picked up Winter Veil early on, what with their frequent contact with Khaz Modan and the large dwarven population already living in the city. But on the Lordaeron mainland — at least beyond Aerie Peak — the concept hadn't fully taken hold yet. The Wildhammer were a lot more insular than the Bronzebeard; they weren't keen on sharing their traditions with the world beyond the Hinterlands.
+Jace was genuinely surprised. The people of the Kingdom of Stormwind had picked up Winter Veil early on, what with their frequent contact with Khaz Modan and the large dwarven population already living in the city. But on the Lordaeron mainland — at least beyond Aerie Peak — the concept hadn't fully taken hold yet. The Wildhammer were a lot more insular than the Bronzebeard; they weren't keen on sharing their traditions with the world beyond the Hinterlands.
 
 Of course, the cooperation between dwarves and humans during the Orc Wars had rapidly deepened that cultural exchange. But in the Lordaeron capital, at least, they still didn't have celebrations on Stormwind's scale.
 
@@ -62,7 +62,7 @@ This cart was making a killing. Jace couldn't be bothered to figure out how they
 
 The weather was on the cool side, not exactly ideal for frozen treats. But the cold also meant the cone melted slowly. Jace licked at his ice cream as he walked, glancing at the little shops along the street.
 
-There were plenty of places selling trinkets that could double as gifts, including toy shops that didn't even exist in Stormwind — the whole street had a sort of DisneyLand vibe.
+There were plenty of places selling trinkets that could double as gifts, including toy shops that didn't even exist in Stormwind — the whole street had a sort of Disneyland vibe.
 
 But Amy was pushing thirty. If he showed up with a children's toy, wasn't that just mocking her intelligence?
 
@@ -74,17 +74,17 @@ Unless he could get his hands on something from the Dalaran library, a book prob
 
 A wand or a staff?
 
-The Marin family seemed pretty well-off. Any wand Jace could afford, Amy would probably turn her nose up at.
+The Malin family seemed pretty well-off. Any wand Jace could afford, Amy would probably turn her nose up at.
 
 In the end, it always came back to money. When Amy had casually mentioned bringing back a souvenir, it had sounded simple enough. But now that he was actually here in Dalaran, looking left and right, he hadn't the faintest idea what to get.
 
 Just as he was standing there in a daze, he spotted a stationery and inscription shop on the corner up ahead.
 
-Maybe a quill would do? Something like a griffin quill — a rarity in the Stormwind Kingdom — wouldn't be too expensive here, and it'd make a decent gift.
+Maybe a quill would do? Something like a gryphon quill — a rarity in the Kingdom of Stormwind — wouldn't be too expensive here, and it'd make a decent gift.
 
 With that in mind, Jace walked straight in. The smell of ink and paper enveloped him at once.
 
-"Hello, mage of Stormwind, welcome. We don't get many visitors from the Wizard Sanctum."
+"Hello, mage of Stormwind, welcome. We don't get many visitors from the Wizard's Sanctum."
 
 The shop was empty. The shopkeeper was a gnome — a proper gnome, not a human with some kind of condition.
 
@@ -108,7 +108,7 @@ The gnome was sitting in a chair that was taller than he was, facing the counter
 
 Jace stared at the gnome for two seconds. "Right. I'd like to see your quills, please."
 
-"We've got your standard turkey-feather quills, of course. Also duck, eagle, iron owl feather, vulture, tallstrider, griffin, clefthoof, wind serpent…"
+"We've got your standard turkey-feather quills, of course. Also duck, eagle, iron owl feather, vulture, tallstrider, gryphon, clefthoof, wind serpent…"
 
 Jace listened as the gnome rattled them off like a restaurant menu. He hadn't realized there were so many kinds of feathers you could make a quill from.
 
@@ -117,20 +117,3 @@ If these people could somehow get across the Great Sea to Kalimdor to source mat
 "And finally — phoenix feather. Which would you like to see?"
 
 Wait. Phoenix feather?
-
----
-
-## Flags
-
-- 杜尚 rendered as Dushan (Caro Dushan per glossary; "Master" used as address per Master Marin convention).
-- 冬幕节 → Winter Veil (canonical WoW holiday).
-- 凤凰羽 → Phoenix Feather (chapter title).
-- 书具雕文店 → "stationery and inscription shop" (雕文 = inscription/glyph; combined with 書具 = books/stationery).
-- 抄写纸 → scribing paper.
-- 卡教莫丹 → Khaz Modan (text typo in source, corrected).
-- 杰兽 → clefthoof (canonical WoW beast).
-- 陆行鸟 → tallstrider (canonical WoW fauna).
-- 风蛇 → wind serpent (canonical).
-- "迪某尼乐园" → DisneyLand (the Chinese text self-censors the name; rendered naturally).
-- 精灵 / 上层精灵 not present here but noted for consistency.
-- 凤凰 (phoenix): no canonical WoW phoenix exists as a feather-dropping creature; Jace's skepticism is lore-accurate and preserved.

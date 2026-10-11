@@ -30,7 +30,9 @@ Sola said, "I know that fellow. The one who taught you how to communicate with t
 
 Ah, right — that ancient Kalimdor dictionary. He should return it before Winter Veil, when the Thorium Brotherhood people came to his place for their year-end review.
 
-It was less than two months until Winter Veil. Going to Shadowforge City shouldn't take that long, right? It should still be in time. Seeing Jace suddenly freeze like that, Sola asked curiously, "Did you think of something?"
+It was less than two months until Winter Veil. Going to Shadowforge City shouldn't take that long, right? It should still be in time.
+
+Seeing Jace suddenly freeze like that, Sola asked curiously, "Did you think of something?"
 
 "Nothing." Jace rubbed his nose guiltily. "Go on."
 
@@ -44,13 +46,13 @@ Perhaps it had some special connection to Reginald Windsor, who had uncovered it
 
 But since Ruige had helped corroborate that Shadowforge City was indeed searching for a way to counter the black dragons — and that there had been some progress — and the memories of his past life lined up with the reality here, Jace couldn't ignore this lead.
 
-"I'm not the only one who's mentioned this to me, Sola. So no what happens, I have to go take a look," Jace explained. "I don't have a Dark Iron dwarf I can trust, and that Thorium Brotherhood fellow fled Shadowforge City — he definitely wouldn't be willing to go back in there and take risks for me again. Right now, besides me, there probably isn't anyone more suited to infiltrating Shadowforge City and asking about the spell."
+"He's not the only one who's mentioned this to me, Sola. So no matter what happens, I have to go take a look," Jace explained. "I don't have a Dark Iron dwarf I can trust, and that Thorium Brotherhood fellow fled Shadowforge City — he definitely wouldn't be willing to go back in there and take risks for me again. Right now, besides me, there probably isn't anyone more suited to infiltrating Shadowforge City and asking about the spell."
 
 "You're not worried the Dark Iron dwarves inside will casually expose your disguise?" Jace asked with a smile.
 
 Sola frowned. "All right, this legendary spell really does make me uneasy. Exposing my true face among a crowd of corrupted fire worshippers — it's hard to imagine what the outcome would be."
 
-Jace said, "If we really find this spell in Shadowforge City, I won't let anyone speak it in front of you. What's more, we have an ally — Molophil is right there. It would only take a thought from her to make the other party hesitate over whether to keep speaking."
+Jace said, "If we really find this spell in Shadowforge City, I won't let anyone speak it in front of you. What's more, we have an ally — Morophil is right there. It would only take a thought from her to make the other party hesitate over whether to keep speaking."
 
 Sola stole a glance to her side. "Mm," she said, though she was looking the wrong way.
 
@@ -64,15 +66,15 @@ An SI:7 collaborator — or "liaison," rather — living in such a high-profile 
 
 But then again, it was hard to say. Some spies and agents liked appearing high-profile at all kinds of social occasions, even holding high office — that way they attracted less suspicion.
 
-House Morgan. Jace hadn't heard this surname in Stormwind, but in the game he did know a possibly related location — Morgan's Sentinel in the Burning Steppes.
+House Morgan. Jace hadn't heard this surname in Stormwind, but in the game he did know a possibly related location — Morgan's Vigil in the Burning Steppes.
 
-Morgan's Sentinel was the foremost outpost where the Stormwind Kingdom faced off against Blackrock Spire. It looked like an abandoned village that had later been used by SI:7 and the Stormwind army as a fairly concealed reconnaissance base.
+Morgan's Vigil was the foremost outpost where the Kingdom of Stormwind faced off against Blackrock Spire. It looked like an abandoned village that had later been used by SI:7 and the Stormwind army as a fairly concealed reconnaissance base.
 
 At that moment, a middle-aged man practicing archery in the courtyard caught sight of a shadow on this side through the iron fence. He looked over and called out, "Are you lost, sir?"
 
 "I don't think so," Jace said. "I'm looking for someone."
 
-The man came closer, sizing Jace up through the fence — especially glancing at his fingers — then said, "Adrian Morgan. A mage. And you're looking for?"
+The man came closer, sizing Jace up through the fence — especially glancing at his fingers — then said, "Adrian Morgan. A mage, I see. And you're looking for…?"
 
 "I heard there's a Morgan living here," Jace said. "I was sent by the king's people."
 

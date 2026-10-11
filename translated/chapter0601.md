@@ -22,17 +22,17 @@ Grede held her arm and called out to her. Vereesa shouted her name too, wiping t
 
 Jace came over and took one look. Mosa's chest, belly, and neck had been blown open by arcane energy in several deep wounds. Though the burns from the arcane energy had already charred them black, bright red blood still seeped out without stop. But Jace could tell — the blood had already been tainted by Shadow.
 
-Jace took out the Rimecrystal, only to find its energy nearly spent, unable to activate anymore. He didn't remember triggering its power...
+Jace took out the Flowing Ice Crystal, only to find its energy nearly spent, unable to activate anymore. He didn't remember triggering its power...
 
 Wait. That golden light.
 
-When he'd been on the verge of being drained to death by the demon, the Rimecrystal had saved his life. Not only had it restored the life energy that had been drained from him, it had also interrupted the demon's casting.
+When he'd been on the verge of being drained to death by the demon, the Flowing Ice Crystal had saved his life. Not only had it restored the life energy that had been drained from him, it had also interrupted the demon's casting.
 
-"Treatment potion," he said, looking at the two beside him. Grede shook his head. Vereesa said nothing either.
+"Healing potion," he said, looking at the two beside him. Grede shook his head. Vereesa said nothing either.
 
 "Get her out of this prison," Grede said. "There's Shadow power everywhere. If we stay here, she'll be corroded to death by it!"
 
-Everyone agreed. The moment they'd broken through the seal and entered this space, they'd gotten a taste of the place's dark mana. The color of Mosa's blood was proof that the weakened her was enduring the corrosion of the dark energy floating in the air.
+Everyone agreed. The moment they'd broken through the seal and entered this space, they'd gotten a taste of the place's dark mana. The color of Mosa's blood was proof that, weakened as she was, she was succumbing to the corrosion of the dark energy floating in the air.
 
 The group lifted Mosa together and retraced their steps. All the way, Mosa was swallowing something — blood, or something else... Jace didn't want to think about it.
 
@@ -68,9 +68,9 @@ Grede's lips trembled. He stood up and roared, "What the fuck! Why can't the pla
 
 "Cenarius, Zaetar, Celebras, Remulos?!"
 
-He raised the Horn of Remulos, clenched tight in the tauren's hand, and bellowed, "Where are you?! Where the hell are you?!"
+He raised Celebras's antler, clenched tight in the tauren's hand, and bellowed, "Where are you?! Where the hell are you?!"
 
-Vereesa leaned against the wall and looked out through the door at the swaying trees in the darkness of the night. Not a single leaf answered the dwarf's shouting. "Anyone. Please. Anyone who can save him."
+Vereesa leaned against the wall and looked out through the door at the swaying trees in the darkness of the night. Not a single leaf answered the dwarf's shouting. "Anyone. Please. Anyone who can save her."
 
 Grede ran to the entrance and roared toward the gate outside, "Whoever you are! Come here! Save this woman, damn it! Life! Elf! Elemental! Arcane!"
 
@@ -90,7 +90,7 @@ A water elemental?!
 
 Jace stared at the water elemental, stunned. Was this the water elemental boss that haunted this hall in the game? Why had it come out now?
 
-He picked up the staff at his feet. Vereesa warily reached for her waist as well. But the water elemental didn't attack them.
+He picked up the staff at his feet. Vereesa warily reached for her belt as well. But the water elemental didn't attack them.
 
 It slowly walked toward Grede.
 
@@ -106,9 +106,9 @@ Grede, not caring that he was drenched through and through, stared blankly at it
 
 Mosa kept coughing up water. Grede asked, flustered and anxious, "Mosa, Mosa? Can you hear me?" Jace noticed that the wounds beneath the tattered fabric of her robes had turned white under the soaking — clearly healing at a remarkable speed!
 
-The tauren's arm moved, propping up the cold ground. Vereesa also ran over in surprise, hugging her arm. The powerful female giant let out a sob and, with three thick fingers, stroked Grede's face.
+The tauren's arm moved, propping up the cold ground. Vereesa also ran over in surprise, hugging her arm. The powerful tauren let out a sob and, with three thick fingers, stroked Grede's face.
 
-She turned her head to look over, touched the sheath at her waist — Azuresong, its sheath already split by the arcane blasts — and said, "Jace Sesso. I killed it. The magic tower."
+She turned her head to look over, touched the sheath at her hip — Azuresong, its sheath already split by the arcane blasts — and said, "Jace Sesso. I killed it. The magic tower."
 
 Jace nodded. "You did, Mosa Woodmane. You saved all of us."
 

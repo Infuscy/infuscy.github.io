@@ -10,7 +10,9 @@ The female mage lay in the snow, her blood staining the white around her. A shar
 
 Khadgar watched her closely, not daring to relax for even a second.
 
-His hands trembled violently, as if he still couldn't believe he'd just defeated someone. "Was I... wrong?" she asked in a low voice.
+His hands trembled violently, as if he still couldn't believe he'd just defeated someone.
+
+"Was I... wrong?" she asked in a low voice.
 
 "There's no point talking about that now. It's dawn."
 
@@ -32,9 +34,9 @@ If his earlier perceptions and judgments weren't too far off the mark, he needed
 
 A tawny-brown raven flew over the other side of the mountains. She watched the snowy peaks, knowing that layer upon layer of golden light would soon bathe the land, driving away the shadows shrouding the frozen lake.
 
-Moss Thistlemane didn't know what that mountain was called, but she knew what lay below it -- Lake Lordamere. A name countless humans had cried out countless times in these past few days.
+Mosa Woodmane didn't know what that mountain was called, but she knew what lay below it -- Lordamere Lake. A name countless humans had cried out countless times in these past few days.
 
-That night, under the Defiler Archimonde's enslaved ice magic, demons had poured through the Legion's portal in the middle of Lake Lordamere, bent on trampling this already battered land, stripping away the world's last vestiges of magic, and turning the mortal realm into a complete fel-dead wasteland.
+That night, under Archimonde the Defiler's enslaved ice magic, demons had poured through the Legion's portal in the middle of Lordamere Lake, bent on trampling this already battered land, stripping away the world's last vestiges of magic, and turning the mortal realm into a complete fel-dead wasteland.
 
 But now, the portal's fel-light had dimmed. The demon legions on the ice, who had been repelling the allied counterattack, had lost their night-long evil frenzy.
 
@@ -50,7 +52,7 @@ The farther north she flew, the closer to the human capital, the colder the air 
 
 The forest below grew more desolate. The earth itself turned dry and gray. Lush trees were reduced to black branches. The scent of life grew thinner and thinner.
 
-Moss, who had grown up in Kalimdor, had never seen such a barren wasteland. Yet at the same time, she felt a strange familiarity in the despair and loneliness that saturated the air -- as if she'd encountered it somewhere before. Or rather, *in someone* before.
+Mosa, who had grown up in Kalimdor, had never seen such a barren wasteland. Yet at the same time, she felt a strange familiarity in the despair and loneliness that saturated the air -- as if she'd encountered it somewhere before. Or rather, *in someone* before.
 
 And the source of that presence was at the edge of her sight -- a gray city reduced to ash, burned to nothing.
 
@@ -58,35 +60,35 @@ The shadow wreathed in gray mist at the center of those ruins -- just looking at
 
 Then a warm energy crept into her heart, pulling her back from that drowning pain. The raven looked toward its source. Amid the almost endless gray hills, a patch of fresh green fields and low trees stood out, surrounded by tall, black dead trees.
 
-Moss immediately wheeled around and flew straight there, descending through the corrupted trees. Several Kaldorei druids and a group of emerald whelps were already gathered there.
+Mosa immediately wheeled around and flew straight there, descending through the corrupted trees. Several Kaldorei druids and a group of emerald drakes were already gathered there.
 
 Among them was the archdruid who had led her and the other druids through the Dream Gate to reach the Legion's portal and reinforce the Lordaeron alliance -- Malfurion Stormrage.
 
 "Archdruid."
 
-Moss hesitated as she surveyed the woodland. The thick grove and hills before her resembled a woman sleeping among the slopes, but the form was unclear. For a moment she thought she was still trapped in the strange visions the shadow energy had shown her.
+Mosa hesitated as she surveyed the woodland. The thick grove and hills before her resembled a woman sleeping among the slopes, but the form was unclear. For a moment she thought she was still trapped in the strange visions the shadow energy had shown her.
 
 "The Dream Queen..."
 
-"Queen Ysera's spirit has returned to the Emerald Dream, Moss Thistlemane." The archdruid gazed at the lush, garden-like mound. "Though the human leaders in that capital succeeded in stopping the Defiler's mad attempt to drain the souls of the entire city... Ysera, still recovering from the Nightmare, could not withstand his power."
+"Queen Ysera's spirit has returned to the Emerald Dream, Mosa Woodmane." The archdruid gazed at the lush, garden-like mound. "Though the human leaders in that capital succeeded in stopping the Defiler's mad attempt to drain the souls of the entire city... Ysera, still recovering from the Nightmare, could not withstand his power."
 
-"Returned... to the Dream." Moss murmured.
+"Returned... to the Dream." Mosa murmured.
 
 "Now is not the time for grief," the archdruid said. "Though the portal, deprived of the Defiler's support, has collapsed, tens of thousands of demons have already set foot in this wounded world. They won't just lie down and die."
 
-Moss suddenly looked up as if something had occurred to her. "Sommariel? Archdruid... I mean, is she here?"
+Mosa suddenly looked up as if something had occurred to her. "Somaelir? Archdruid... I mean, is she here?"
 
 Malfurion Stormrage turned to her. "She was in that city when Jace Sesso defeated the Defiler."
 
-Jace Sesso... defeated... the Defiler?
+*Jace Sesso... defeated... the Defiler?*
 
-Moss stood frozen. She couldn't help recalling that familiar presence, that strange power that had stained the sky and earth red. The possibility had crossed her mind, but she hadn't dared to dwell on it -- not until the archdruid, the leader of the Kaldorei, spoke it aloud.
+Mosa stood frozen. She couldn't help recalling that familiar presence, that strange power that had stained the sky and earth red. The possibility had crossed her mind, but she hadn't dared to dwell on it -- not until the archdruid, the leader of the Kaldorei, spoke it aloud.
 
 "Please... permit me, honored Archdruid." She stammered, then steadied her breathing and lowered her head. "Please allow me to go into that city to find them."
 
-"That place has been consumed by darkness, Moss Thistlemane. Until the land beneath is healed, even souls cannot escape its torment." Malfurion said. "We all wish to enter quickly, to find Jace Sesso and any possible survivors. But recklessness will only bring more needless death."
+"That place has been consumed by darkness, Mosa Woodmane. Until the land beneath is healed, even souls cannot escape its torment." Malfurion said. "We all wish to enter quickly, to find Jace Sesso and any possible survivors. But recklessness will only bring more needless death."
 
-Moss shook her head. "Then they would be..."
+Mosa shook her head. "Then they would be..."
 
 ---
 
@@ -94,7 +96,7 @@ Outside the royal city, gray-white ash and soul fragments drifted among the blac
 
 The Silver Hand, the Church, and Lordaeron's last defenders led thousands of surviving refugees out from the Undercity and here, shielded by the Light's blessing.
 
-Though the hellhounds that had been prowling through the Undercity had vanished like dispelled magic, and though they'd yet to encounter a single demon standing after leaving the city, they never looked back, never stopped. The darkness that had nearly torn apart every living soul had almost dragged everyone into the abyss -- compared to that, even the demons hadn't seemed so terrifying.
+Though the felhounds that had been prowling through the Undercity had vanished like dispelled magic, and though they'd yet to encounter a single demon standing after leaving the city, they never looked back, never stopped. The darkness that had nearly torn apart every living soul had almost dragged everyone into the abyss -- compared to that, even the demons hadn't seemed so terrifying.
 
 The paladins' Holy Light had protected them from being drowned on the spot while they were still in the Undercity. But Turalyon knew the darkness hadn't failed to swallow them all only because of the Light's protection. It was also because its caster was not the Defiler, but...
 
@@ -102,7 +104,7 @@ Of course, it wasn't just the Silver Hand and the Church members. Everyone knew 
 
 "Look! The royal city..."
 
-Someone mustered the courage to look back. It was morning now. The fog and dust had thinned somewhat. But when they looked behind them, the magnificent walls that had once stood on the northern shore of Lake Lordamere had simply vanished. The entire city had been reduced to rubble.
+Someone mustered the courage to look back. It was morning now. The fog and dust had thinned somewhat. But when they looked behind them, the magnificent walls that had once stood on the northern shore of Lordamere Lake had simply vanished. The entire city had been reduced to rubble.
 
 "The Defiler is going to destroy the world! Tirisfal is doomed! We're all doomed!"
 

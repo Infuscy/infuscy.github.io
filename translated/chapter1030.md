@@ -14,7 +14,7 @@ Amy nodded. "So if the Alliance defeats Blackrock Spire and the black dragons, t
 
 "Sorry," Jace said with an embarrassed laugh.
 
-Amy sighed. "A lot of people in Dalaran occasionally make fun of my Stormwind accent, so I rarely leave the Kirin Tor academies and libraries to go outside. The saddest thing about coming back to Stormwind is that you all treat me as a northerner again. Reminds me of when you first arrived at the Wizard Sanctum—including me and my father, plenty of people still thought you were from the north and treated you like a foreigner."
+Amy sighed. "A lot of people in Dalaran occasionally make fun of my Stormwind accent, so I rarely leave the Kirin Tor academies and libraries to go outside. The saddest thing about coming back to Stormwind is that you all treat me as a northerner again. Reminds me of when you first arrived at the Wizard's Sanctum—including me and my father, plenty of people still thought you were from the north and treated you like a foreigner."
 
 "There's no helping it, Amy. You just get used to it little by little," Jace said.
 
@@ -28,7 +28,7 @@ Especially remembering how, at the Dark Portal, Amy had calmly used all sorts of
 
 …she must have been far more confident and powerful than she was back then.
 
-But for now, there was absolutely no way to let the Kirin Tor know about Ulthalesh and the Doomlord, and Amy didn't even know he'd been working with a succubus all along.
+But for now, there was absolutely no way to let the Kirin Tor know about Ulthalesh and the doom lord, and Amy didn't even know he'd been working with a succubus all along.
 
 Thinking about how he now couldn't place Amy in the position of a loved one, but instead treated her like a Kirin Tor agent, Jace felt a chill in his heart.
 
@@ -40,7 +40,11 @@ Jace said, "When things slow down in a bit, I'll go to Lordaeron to bring my par
 
 Amy's expression relaxed quite a bit. She smiled. "Hearing that, leaving Elwynn doesn't feel so hard anymore, Jace. I'll cook a good meal and wait for you."
 
-"Now you mention it, I want to jump straight to summer," Jace said. "Then I'll head off," Amy said. "You still need to go to the Cathedral. Hurry." Jace nodded. "Well then, see you next time."
+"Now you mention it, I want to jump straight to summer," Jace said.
+
+"Then I'll head off," Amy said. "You still need to go to the Cathedral. Hurry."
+
+Jace nodded. "Well then, see you next time."
 
 He glanced at the female mage's departing back, steadied his breathing, and headed north.
 
@@ -48,7 +52,9 @@ Arriving at the Cathedral, it wasn't dark yet. By now the Cathedral wasn't as cr
 
 Entering the main hall, Jace saw Krasus using his middle-aged balding-man guise, explaining patient care to the wife of an injured soldier.
 
-Jace waited off to the side for their conversation to end. Krasus seemed to notice the extra person looking over from here. "Krasus." The red dragon mage waved. "I've been waiting for you. How's the recovery?"
+Jace waited off to the side for their conversation to end. Krasus seemed to notice the extra person looking over from here.
+
+"Jace." The red dragon mage waved. "I've been waiting for you. How's the recovery?"
 
 "Almost there, thanks to the Dragonqueen's blessing," Jace said.
 
@@ -68,11 +74,11 @@ Jace could barely tell any difference. Krasus must have replicated it one-to-one
 
 Jace nodded. "If you need any medicines or the like… Master, I can try to help."
 
-"It's not that I don't trust the skill of mortal alchemists, Jace," Krasus said with a smile. "I'm not a whelp. Ordinary medicines simply have no effect on me. But then again, that's a good thing in its own way, isn't it? Or would you rather see Onyxia, who'd already been beaten to the brink of death, recover perfectly just from drinking a potion brewed from Living Root and Kingsblood?"
+"It's not that I don't trust the skill of mortal alchemists, Jace," Krasus said with a smile. "I'm not a whelp. Ordinary medicines simply have no effect on me. But then again, that's a good thing in its own way, isn't it? Or would you rather see Onyxia, who'd already been beaten to the brink of death, recover perfectly just from drinking a potion brewed from Liferoot and Kingsblood?"
 
 "Of course I wouldn't," Jace said, unable to help but laugh.
 
-"Speaking of Onyxia." Krasus's smile faded. "I've already arranged for two sufficiently cautious adult red dragons to head to that swamp in Kalimor you mentioned before. I've ordered them not to engage any black dragons or dragonkin—just monitor the movements of the black dragon lair. After the Orc Wars and Grim Batol, there's no way we can launch a war against Nefarian and Blackrock Spire right now—especially after the fall of Prince Tyranastrasz… otherwise things wouldn't be this difficult."
+"Speaking of Onyxia." Krasus's smile faded. "I've already arranged for two sufficiently cautious adult red dragons to head to that swamp in Kalimdor you mentioned before. I've ordered them not to engage any black dragons or dragonkin—just monitor the movements of the black dragon lair. After the Orc Wars and Grim Batol, there's no way we can launch a war against Nefarian and Blackrock Spire right now—especially after the fall of Prince Tyranastrasz… otherwise things wouldn't be this difficult."
 
 "I understand, Master Krasus," Jace said. "You helping treat the wounded of Stormwind is already a great help. I'm sure His Majesty the King must be very grateful."
 
@@ -80,7 +86,7 @@ Jace nodded. "If you need any medicines or the like… Master, I can try to help
 
 The archmage said a brief farewell to a nearby priest, then left the Cathedral with Jace, heading toward a house to the side of the square. Walking across the square, Jace asked, "Why aren't you staying with Grede anymore?"
 
-"Well, the Dwarf District is still quite a ways from here. A priest helped me find new lodgings, and I didn't want to keep disturbing Grede Thunderfist's rest," Krasus said.
+"Well, the Dwarven District is still quite a ways from here. A priest helped me find new lodgings, and I didn't want to keep disturbing Grede Thunderfist's rest," Krasus said.
 
 "He misses you quite a bit," Jace said.
 
@@ -92,7 +98,7 @@ The archmage's new lodging was a fairly spacious room, tucked in an inconspicuou
 
 "Good," Jace said. He lifted the tablet and began to chant.
 
-The enchanted metal plate was indeed more stable than Malorak's tablet before. Jace clearly felt the power of the Blood of the Chromatic Dragon awakened by the runes, then blocked by another sequence of runes and laid to rest.
+The enchanted metal plate was indeed more stable than Maloriak's tablet before. Jace clearly felt the power of the Blood of the Chromatic Dragon awakened by the runes, then blocked by another sequence of runes and laid to rest.
 
 With no black dragons nearby and no black dragon magic either, the spell naturally did not activate—but the overall feel of casting it was indeed not much different from his previous experience facing Lady Katrana Prestor.
 
@@ -104,7 +110,7 @@ With no black dragons nearby and no black dragon magic either, the spell natural
 
 "Those goblins can do things for money that exceed your and my imagination," Jace said. "And now that Deathwing is dead, I imagine the goblin technicians in Blackrock Spire might get a bit bolder—whereas the goblin merchants in Booty Bay all talk about black dragons like they're terrified out of their wits."
 
-"Truly unimaginable boldness," Krasus said, looking over. "Jace, there are goblins trying to infiltrate Grim Batol to get close to Deathwing's corpse. This is what the whelts I sent to Kalimor told me. Some mercenaries, hired by goblins, broke into Grim Batol without authorization. Of course, they were burned by the whelts patrolling nearby before they could get close. But I think even if they could get near Deathwing, they'd be corrupted by the dark power still clinging to that corpse into a pile of raving rotten meat."
+"Truly unimaginable boldness," Krasus said, looking over. "Jace, there are goblins trying to infiltrate Grim Batol to get close to Deathwing's corpse. This is what the drakes I sent to Kalimdor told me. Some mercenaries, hired by goblins, broke into Grim Batol without authorization. Of course, they were burned by the drakes patrolling nearby before they could get close. But I think even if they could get near Deathwing, they'd be corrupted by the dark power still clinging to that corpse into a pile of raving rotten meat."
 
 "What do they want?" Jace asked. "Something from Deathwing? Scales? Teeth?"
 

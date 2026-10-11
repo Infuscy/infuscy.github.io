@@ -1,4 +1,4 @@
-## Chapter 291: Gryphons — Is There a Chance?
+## Chapter 291: Dragonhawks — Is There a Chance?
 
 The next afternoon, Jace and Vereesa arrived at Lakeshire with a merchant caravan. Gazing up at the town on the hill from afar, Jace noticed the elf's eyes never left it.
 
@@ -10,15 +10,15 @@ The moment they climbed down from the wagon, she dashed to the edge of the bridg
 
 Jace hitched his pack higher on his shoulder. "So how'd you end up in Stormwind?"
 
-Vereesa glanced back at him. "A gryphon carried me to Menethil Harbor. Then I took a ship over."
+Vereesa glanced back at him. "A dragonhawk carried me to Menethil Harbor. Then I took a ship over."
 
-"Gryphons let outsiders ride them?" Jace asked.
+"Dragonhawks let outsiders ride them?" Jace asked.
 
 "Of course not." Vereesa said it like it was the most obvious thing in the world, already walking toward the far end of the bridge.
 
-The two of them walked into the Redridge tavern and found a corner table. Jace pressed on, unwilling to let it go: "There's really not even a sliver of a chance? I mean riding a gryphon."
+The two of them walked into the Redridge tavern and found a corner table. Jace pressed on, unwilling to let it go: "There's really not even a sliver of a chance? I mean riding a dragonhawk."
 
-"At least, the gryphons of Quel'Thalas have never let an outsider ride them," Vereesa said.
+"At least, the dragonhawks of Quel'Thalas have never let an outsider ride them," Vereesa said.
 
 "Nathanos Marris?" Jace said.
 
@@ -28,7 +28,7 @@ At the name, Vereesa stiffened. "You know about him too?"
 
 "Yes." Vereesa nodded, lowering her voice. "Well, you'd have to ask Sylvanas about that. I don't know exactly what he ever got up to in Quel'Thalas, and I don't care to."
 
-Just then a barmaid came up to the table, and she added offhandedly, "It's not just Quel'Thalas that keeps gryphons, you know. Forest trolls do too."
+Just then a barmaid came up to the table, and she added offhandedly, "It's not just Quel'Thalas that keeps dragonhawks, you know. Forest trolls do too."
 
 Jace shot Vereesa a look, then turned to the barmaid. "Roasted raptor meat — with roasted apples, please. Plus a steamed pumpkin, an omelette, some sweet biscuits… let me think… smoked meat strips, dried black mushrooms, three portions of dried bread chunks, and a big block of cold cheese."
 
@@ -36,13 +36,13 @@ The barmaid hesitated, glancing from the elf back to Jace. "Isn't that a bit too
 
 "We'll be taking some with us," Jace said. "Two glasses of milk too."
 
-The moment the barmaid left, Jace leaned in with a mock-terrified expression. "So you want me to go find a gryphon from the Amani? You might as well shoot me right here and now — at least that'd save on traveling expenses."
+The moment the barmaid left, Jace leaned in with a mock-terrified expression. "So you want me to go find a dragonhawk from the Amani? You might as well shoot me right here and now — at least that'd save on traveling expenses."
 
-Vereesa lowered her head with a soft laugh. "Of course not. I just mean elves aren't the only ones who can tame gryphons. You could try finding a wild one yourself. Gryphons don't only nest on Quel'Danas — there are some in southern Quel'Thalas too, including places the Amani trolls don't control. I'm sure some Stratholme folk have seen gryphons too. They're quite intelligent — if they sense no hostility, they won't attack on sight."
+Vereesa lowered her head with a soft laugh. "Of course not. I just mean elves aren't the only ones who can tame dragonhawks. You could try finding a wild one yourself. Dragonhawks don't only nest on Quel'Danas — there are some in southern Quel'Thalas too, including places the Amani trolls don't control. I'm sure some Stratholme folk have seen dragonhawks too. They're quite intelligent — if they sense no hostility, they won't attack on sight."
 
-"So could you teach me to tame a gryphon?" Jace asked.
+"So could you teach me to tame a dragonhawk?" Jace asked.
 
-"I can barely ride one myself," Vereesa said. "Even my trip from Quel'Thalas here was a gryphon rider who carried me over."
+"I can barely ride one myself," Vereesa said. "Even my trip from Quel'Thalas here was a dragonhawk rider who carried me over."
 
 Jace raked his fingers through his hair in disappointment. "Guess there's no hope then. What about tallstriders?"
 
@@ -54,7 +54,7 @@ At that, Vereesa shot him a sideways glance. "Is this some kind of species-colle
 
 "Honestly…" Jace lowered his head and thought for a moment, just as the milk arrived. He took a gulp of the cold milk — which carried a faint whiff of cow dung — and struggled to recall that whole ordeal with the dark gryphon in the Hinterlands. He thought and thought, couldn't figure out how to describe it, and in the end, every word that surfaced was what Grede had said on the wagon that day, verbatim.
 
-"I can't ride a gryphon, so I was half-unconscious the whole time. Everything I saw was a blur. That gryphon nearly shook my intestines out of me. You should get to know Grede Thunderfist — he was the one who took me up there. He's a gryphon rider. Didn't Kalfas tell you about him?"
+"I can't ride a gryphon, so I was half-unconscious the whole time. Everything I saw was a blur. That gryphon nearly shook my intestines out of me. You should get to know Grede Thunderfist — he was the one who took me up there. He's a gryphon rider. Didn't Kael'fal tell you about him?"
 
 "Oh, right — he's a gryphon rider of the Wildhammer clan." Vereesa nodded. "I'd nearly forgotten. I'm looking forward to meeting him. When I was little, I heard lots of stories about Quel'Thalas rangers working with the Wildhammer to fight the trolls."
 
@@ -68,7 +68,7 @@ The Lakeshire inn had always had a considerable crowd, and all sorts at that. Ev
 
 There was even a half-elf sitting right behind Jace with a Goldshire accent. If Jace hadn't glanced back while waiting for the barmaid to serve, he'd have assumed some farmer's addle-brained son was prattling away behind him.
 
-But Jace wasn't interested in half-breeds, nor in adventurers from the south or north — he was after the dragon-worshippers Master Marin had mentioned.
+But Jace wasn't interested in half-breeds, nor in adventurers from the south or north — he was after the dragon-worshippers Master Malin had mentioned.
 
 Having already encountered that father and son pair whose minds were controlled by a black dragon, Jace figured that with his sensitivity to shadow magic, he ought to be able to sense anyone in the crowd who was under mental influence.
 
@@ -76,7 +76,7 @@ Yet, by the time night had fully fallen, Jace hadn't sensed anything amiss. He h
 
 Just as he watched a dwarf and a human arguing heatedly about something in the distance, Vereesa said, "You've been distracted all evening tonight."
 
-Jace glanced over at the grilled channel catfish on her tray — picked completely clean, nothing but the bones left — then back at her. He figured there was no point hiding it, and told her about his previous encounter with the dragonkin here, along with what Master Marin had told him about the dragon-worshippers.
+Jace glanced over at the grilled channel catfish on her tray — picked completely clean, nothing but the bones left — then back at her. He figured there was no point hiding it, and told her about his previous encounter with the dragonkin here, along with what Master Malin had told him about the dragon-worshippers.
 
 After hearing it all, Vereesa fell silent for a moment. "Is there a chance we might run into a dragon?"
 
@@ -95,18 +95,3 @@ But even as he said it, he remembered that scale the mountaineer had picked up.
 "You're right," Jace said. "And that's on me too — only now, already here, did I start thinking about the possibility of running into a dragon."
 
 "It's a lot better to think about it now than when we actually run into one, Jace. Besides, I think we've prepared well enough," Vereesa said.
-
-## Flags
-
-- **温蕾萨 (Vereesa):** Rendered as "Vereesa" — this is Vereesa Windrunner, the youngest of the three Windrunner sisters (not Sylvanas). In the original Chinese, 温蕾萨 = Vereesa.
-- **席尔瓦娜斯 (Sylvanas):** The name Vereesa drops when deflecting the Nathanos Marris question — this is her older sister Sylvanas Windrunner (席尔瓦娜斯 = Sylvanas, the Chinese transliteration of Sylvanas).
-- **龙鹰 (Gryphon):** "Gryphon" per glossary. The original Chinese uses 龙鹰 and 狮鹫 interchangeably for gryphon; both rendered as "gryphon" here.
-- **纳萨诺斯·玛瑞斯 (Nathanos Marris):** Canonical-adjacent name (Nathanos Marris in WoW lore, ranger of Quel'Thalas). Rendered as "Nathanos Marris."
-- **祖阿易 (Amani):** Refers to the Amani forest troll empire. Rendered as "Amani" per lore convention rather than transliterated.
-- **奎尔丹纳斯 (Quel'Danas):** Canonical. Rendered as "Quel'Danas" (the island/region of Quel'Thalas).
-- **格瑞德·雷拳 (Grede Thunderfist):** Per glossary: Grede, family name Thunderfist (雷拳 = Thunderfist).
-- **凯法尔 (Kalfas):** Name not in glossary. Rendered phonetically as "Kalfas"; flagged for confirmation.
-- **拜龙教徒 (Dragon-worshippers):** The cultists Master Marin warned about — followers who worship dragons (specifically the black dragonflight).
-- **石堡 (Stonewatch):** The Redridge border fort. Rendered as "Stonewatch" per glossary.
-- **刺须鲶鱼 (Channel Catfish):** WoW fish/cooking ingredient. Rendered as "channel catfish."
-- **"the mountaineer had picked up":** Refers to a previous encounter where a Stonewatch mountaineer found a dragon scale — foreshadowing the dragon threat.

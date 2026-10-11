@@ -12,7 +12,7 @@ Though Vereesa had said the night before that she didn't need sleep, she was slu
 
 Jace looked at her and recalled the thoughts their conversation had stirred the night before, realizing that his mindset was already very different from what it had been.
 
-He still remembered in Dalaran, when the realization struck him that Deathwing and Teron Gorefiend were about to descend, his first instinct had been to say what needed saying, step aside, and let the tall folk handle the danger.
+He still remembered in Dalaran, when the realization struck him that Deathwing and Teron Gorefiend were about to descend, his first instinct had been to say what needed saying, step aside, and leave the danger to people far bigger than he was.
 
 Even earlier, the first time he'd gone to Duskwood with Grede, facing Morgan Ladimore, he had weighed every word carefully before speaking.
 
@@ -32,9 +32,9 @@ Jace could give everything to protect Vereesa and Grede before him, to protect h
 
 He certainly had this or that notion in his mind, and he did indeed have a foreseeable future in his head, but to rely on these plus a surge of passion was still nowhere near enough.
 
-His fingers tapped back and forth on the railing. Jace glanced back at the Skysong sword and the Blood Magic Staff lying on the table nearby.
+His fingers tapped back and forth on the railing. Jace glanced back at Azuresong and Gorefiend's staff lying on the table nearby.
 
-He knew that no matter what he intended for the future, right now he needed to keep his feet on the ground and build his strength step by step. Only then would be change be possible.
+He knew that no matter what he intended for the future, right now he needed to keep his feet on the ground and build his strength step by step. Only then would change be possible.
 
 And this way, even if everything ultimately had to come to pass, at least he would be able to do something — to stand by Vereesa's side and face it together, like he had told her, rather than stand by helplessly doing nothing, or hide in a corner of the world and let time slip by.
 
@@ -50,7 +50,7 @@ Jace turned and saw Shandris Feathermoon approaching alone.
 
 "Please." Vereesa nodded.
 
-"Could we keep Vilethane's head?" the general asked. "The satyr have been a blight upon the Kaldorei and all of Kalimdor for many years, friends. Confirming the death of a satyr leader would mean a great deal to us and to the rest of the Kaldorei. If his head were sent to Astranaar, it would greatly boost the morale of the Sentinel Corps while striking fear into the hearts of the satyr lurking in the shadows. That would matter greatly to us right now."
+"Could we keep Vyletongue's head?" the general asked. "The satyr have been a blight upon the Kaldorei and all of Kalimdor for many years, friends. Confirming the death of a satyr leader would mean a great deal to us and to the rest of the Kaldorei. If his head were sent to Astranaar, it would greatly boost the morale of the Sentinel Corps while striking fear into the hearts of the satyr lurking in the shadows. That would matter greatly to us right now."
 
 "We are mercenaries, General Shandris Feathermoon," Jace emphasized.
 
@@ -64,9 +64,9 @@ The night elf guard introduced it: "Long ago, many elite warriors who fought in 
 
 A silithid-carapace suit of armor? Jace couldn't immediately recall whether such a piece existed in the game.
 
-The sentinel general said, "You helped the sentinels hunt down a satyr leader, and you also helped Celebras reestablish contact with the lost guardian Zaetar, who had been missing for years. This gift is the Kaldorei's thanks."
+The sentinel general said, "You helped the sentinels hunt down a satyr leader, and you also helped Celebras reestablish contact with the lost keeper Zaetar, who had been missing for years. This gift is the Kaldorei's thanks."
 
-Seeing that the group seemed hesitant, she added, "You may consider whether to leave Vilethane's head. If you have other uses for it, I can understand. The Sentinel Corps does not insist."
+Seeing that the group seemed hesitant, she added, "You may consider whether to leave Vyletongue's head. If you have other uses for it, I can understand. The Sentinel Corps does not insist."
 
 "If you wish to leave Feathermoon Stronghold, come find me at any time, guests."
 
@@ -84,25 +84,10 @@ With that, she gave the group a slight bow and left with her guard. Grede kept h
 
 He rubbed the tattered hem of his clothes. "All right, probably one more time forgetting and it really will be ruined."
 
-Jace asked, "What do other Mountain Kings do with their armor when they summon their avatar?"
+Jace asked, "What do other Mountain Kings do with their armor when they awaken their Avatar?"
 
 "Why do you think families like Anvilmar have heirloom enchanted armor and helmets? Of course they're made to adapt to their enlarged forms!" Grede scratched his neck. "I certainly can't afford a craftsman to make something like that, so I can only wear very loose clothes, or remember to strip before I grow."
 
-With that, Jace recalled that indeed every time a dwarf transformed to fight, he was half-naked.
+With that, Jace recalled that indeed every time the dwarf transformed to fight, he was half-naked.
 
 "This enchanted armor can adapt to a shapeshifter's form," came a night elf woman's voice from nearby.
-
-## Flags
-
-- **Vilethane**: 维利塔恩 — the satyr leader whose head the group carries. Not in the glossary; transliterated. (Canonical Maraudon boss is "Theradras" for the earth elemental; the satyr boss in Maraudon is not a named canonical NPC, so this appears to be an OC or fanfic-specific satyr lord.)
-- **Astranaar**: Canonical night elf town in Ashenvale (阿斯特兰纳).
-- **War of the Shifting Sands**: Canonical name for 流沙之战 — the war against the Qiraji a thousand years prior.
-- **Silithid**: Canonical name for 异种虫 / 其拉虫人 — the insectoid race of Silithus and Ahn'Qiraj.
-- **Skysong / Blood Magic Staff**: 碧空之歌 and 血魔法杖 — Jace's weapons. Skysong is a canonical WoW sword; Blood Magic Staff is rendered descriptively.
-- **Dalaran / Deathwing / Teron Gorefiend**: Canonical references to Jace's past experiences (卡拉赞/达拉然 events from earlier chapters).
-- **Duskwood / Morgan Ladimore**: Canonical location and character (暮色森林 / 摩根·拉迪摩尔) — earlier in the story.
-- **Mountain King**: Canonical dwarven title (山丘之王) — the dwarf warrior tradition Grede aspires to.
-- **Anvilmar**: Canonical ancient dwarven royal line (安威玛尔) — source of the oldest dwarven heirlooms.
-- **"mum and dad"**: Jace's internal reference to his parents — kept casual and modern, consistent with his transmigrator voice.
-- **"tall folk"**: Jace's wry term for those who should handle the danger — his old "let someone else deal with it" mindset.
-- **POV**: Third person throughout.

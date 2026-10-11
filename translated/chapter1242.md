@@ -8,7 +8,7 @@ Sola's room was already empty, and the snoring from Grede's side had gone quiet 
 
 On the wall, a few warriors in bright-colored armor seemed to notice Jace's appearance and looked over. Just as he was wondering whether those men were paladins who'd come to arrest him, a Wildhammer warrior walked over and saluted.
 
-"Master Sesso, Marshal Turalyon and everyone are waiting for you in the great hall. Lord Kurdran says we're holding a banquet tonight to welcome you to Shadowmoon Valley!"
+"Master Sesso, General Turalyon and everyone are waiting for you in the great hall. Lord Kurdran says we're holding a banquet tonight to welcome you to Shadowmoon Valley!"
 
 The dwarf pointed toward the largest of the fortress gates, the one set into the mountainside. "The Wildhammer brothers have prepared a feast and fine ale for you, Lady Vereesa, Lady Sola, and Lord Grede. You won't want to miss it."
 
@@ -62,7 +62,7 @@ So, upon hearing that Vereesa and Grede had already "said a great deal," he almo
 
 "Turalyon!" Kurdran Wildhammer shouted unhappily from his seat up high. "I can hear the heroes of Grim Batol's stomachs growling from right here! Is there anything more important right now than eating? Or do you want every brother in this great hall to stand around waiting for you Lordaeronians to slowly stumble through every last one of your ridiculous court formalities?"
 
-Khadgar gave Turalyon a helpless look, and before the two could even react, the Wildhammer host bellowed at the top of his lungs: "The Great Lord of the fortress now declares the banquet open! Everyone, eat!"
+Khadgar gave Turalyon a helpless look, and before the two could even react, the Wildhammer host bellowed at the top of his lungs: "The High Thane of this fortress now declares the banquet open! Everyone, eat!"
 
 "For the Alliance!"
 
@@ -86,7 +86,7 @@ After licking the thick juice inside clean, he thought for a moment and said, "I
 
 Sola shook her head, and at some point Khadgar had come up beside them and said softly, "It's a species of mushroom that grows along the Zangarmarsh coast."
 
-"Mushroom?" Jace blinked, and looked back and forth curiously. He'd always thought the mushrooms in the Zangarmarsh were bigger than buildings. A mushroom this small… never mind that it didn't look like one, the taste was so strange it was genuinely hard to recognize.
+"Mushroom?" Jace blinked, and looked back and forth curiously. He'd always thought the mushrooms in Zangarmarsh were bigger than buildings. A mushroom this small… never mind that it didn't look like one, the taste was so strange it was genuinely hard to recognize.
 
 "I heard from Vereesa that you caught quite a bit of grief from King Terenas II and his nobles," Khadgar said.
 

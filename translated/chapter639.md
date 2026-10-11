@@ -2,9 +2,9 @@
 
 The sailing ship did not have an easy time on the sea. Battling miserable weather, it took a full fortnight to reach its destination, and by the time it docked at Menethil Harbor it was already late October.
 
-The cold came on fast, and Khaz Modan was naturally chillier than the Kingdom of Stormwind to begin with. Wrapped in his heavy void robes, Jace still felt the cold wind starting to cut right through.
+The cold came on fast, and Khaz Modan was naturally chillier than the Kingdom of Stormwind to begin with. Wrapped in his heavy Robe of the Void, Jace still felt the cold wind starting to cut right through.
 
-This journey reminded him of the first time he'd traveled alone to Booty Bay… carrying the deathly shadow left behind by Teron Gorefiend, not knowing when he might suddenly drop dead and turn into a vengeful spirit.
+This journey reminded him of the first time he'd traveled alone to Booty Bay… carrying the Shadow of Death left behind by Teron Gorefiend, not knowing when he might suddenly drop dead and turn into a vengeful spirit.
 
 Especially since this time he'd also brought a restorative potion along — all the ingredients present and accounted for.
 
@@ -24,7 +24,7 @@ And after that, just as Krasus had said — Menethil Harbor, the whole of the We
 
 It wasn't like last time, where if he died he could always just become a vengeful spirit, at worst drag a few unlucky souls down with him, and in the end either dissipate into nothing or get cleansed by some priest or paladin. The most impact it would have on the world would be one more ghost story out of Booty Bay.
 
-By now the sky had darkened a little. Jace walked toward the Deepwater Inn half-distractedly when a sudden flapping of wings beside him snapped him right back to full alertness.
+By now the sky had darkened a little. Jace walked toward the Deepwater Tavern half-distractedly when a sudden flapping of wings beside him snapped him right back to full alertness.
 
 A massive grey gryphon was crouched right beside the gryphon nests not far from the inn — right on the path from the dock to the inn. At that moment it was raising its broad wing high, stretching it upward, then shaking it a moment later.
 
@@ -40,7 +40,7 @@ This forced Jace to take a step back. He was on his way to Grim Batol to save th
 
 The gryphon, seeing that it had startled Jace, let out a couple of guilty-sounding heavy breaths and drew its neck back in, flattening its feathers as if to show it meant no threat.
 
-Morophil, behind him, showed no sign of going on alert — which told her she didn't consider the beast a threat either, confirming Jace's judgment.
+Morophil, behind him, showed no sign of going on alert — which told him she didn't consider the beast a threat either, confirming Jace's judgment.
 
 Could this big fellow actually recognize him?
 
@@ -50,13 +50,13 @@ Though it felt inexplicably familiar, Jace genuinely couldn't remember where he'
 
 A Wildhammer dwarf in a red jacket pointed at Jace. "Keep back! If you want to get to the inn, go around the other way — don't come past here! Our big friend here can easily hurt someone even when he's being friendly, especially humans like you with no experience!"
 
-Jace nodded and made his way to the inn entrance from the side. Before going in, he glanced back at the gryphon — and found it still staring at him. He turned and entered the Deepwater Inn, rounding the corner of the entryway, and a wave of dwarven laughter and shouting hit him in the face.
+Jace nodded and made his way to the inn entrance from the side. Before going in, he glanced back at the gryphon — and found it still staring at him. He turned and entered the Deepwater Tavern, rounding the corner of the entryway, and a wave of dwarven laughter and shouting hit him in the face.
 
 He leaned on his staff and stood in the doorway for a moment. Inside was already packed to the gills at this hour — not an empty seat in sight. Chances were he wouldn't even get a room tonight and would have to find some sheltered spot outside to sleep.
 
 Then Jace felt Morophil lightly tap his shoulder. Had she lost her mind?!
 
-Dwarves were everywhere out here, patrols of guards outside, and from where he stood he could even see a couple of mages behind the counter — if demonic aura was detected here, he'd probably be… right on the spot, no question.
+Dwarves were everywhere out here, patrols of guards outside, and from where he stood he could even see a couple of mages behind the counter — if demonic aura was detected here, he'd probably be cut down right on the spot, no question.
 
 Wait.
 
@@ -93,29 +93,3 @@ Jace looked at the two of them in front of him, swallowed the saliva and blood i
 "Just playing the lone hero, is all." Grede grinned. "Damn it, lad — learned to take on private jobs and hide it from your own best friend?"
 
 "Don't know, don't care," Vereesa said coldly. "All I know is that whatever you're going off to do, you're not dying alone."
-
-## Flags
-
-- **不知道，不关心** → "Don't Know, Don't Care": chapter title. Vereesa's line — a blunt "I don't know and I don't care [the details]."
-- **米奈希尔港** → "Menethil Harbor": canon port in the Wetlands.
-- **深水旅店** → "Deepwater Inn": the inn at Menethil Harbor. Not in glossary; rendered descriptively. Flag for canonical name verification.
-- **奥特兰克狮鹫** → "Alterac gryphon": the rare giant breed from the Alterac Mountains.
-- **辛特兰狮鹫** → "Hinterlands gryphons": the smaller yellow gryphons of the Hinterlands.
-- **蛮锤** → "Wildhammer": dwarven clan.
-- **守望堡** → "Nethergarde Keep": canon fort near the Dark Portal.
-- **恶魔卫士** → "felguards": the powerful demonic guard unit.
-- **温蕾萨** → "Windrunner": Vereesa Windrunner.
-- **格瑞德** → "Grede": dwarf companion.
-- **莫洛菲尔** → "Morophil": Jace's succubus.
-- **奎尔萨拉斯** → "Quel'Thalas": High Elf homeland.
-- **卡兹莫丹** → "Khaz Modan": dwarven homeland.
-- **暴风王国** → "Kingdom of Stormwind": the human kingdom.
-- **藏宝海湾** → "Booty Bay": canon port in Stranglethorn.
-- **塔隆·血魔** → "Teron Gorefiend": canon, first death knight.
-- **红龙女王** → "the Dragonqueen": Alexstrasza.
-- **阿莱克斯塔萨** → "Alexstrasza": the Life-Binder.
-- **格瑞姆巴托** → "Grim Batol": canon.
-- **克拉苏斯** → "Krasus": canon dragon.
-- **湿地** → "the Wetlands": the swampy region east of Loch Modan.
-- **滋补药剂** → "restorative potion": canon potion.
-- **暴风城** → "Stormwind City": capital of the Alliance.

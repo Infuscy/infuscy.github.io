@@ -2,19 +2,19 @@
 
 Five people stood in front of Gadgetzan's north gate. Aside from the blonde elf in the green robe, everyone else was covered in sand and grime.
 
-Of course, Needleflame's grime was by choice. But the other three were a different story. Jace, Grede, and Vereesa stared at the wrench-and-gear emblem hanging above the gate — the Steamwheedle Cartel's totem. After their ordeal in the desert, even heroes who'd saved the world couldn't be in a good mood, especially knowing the people who'd taken the Rebirth Vial might be living right here in Gadgetzan. Their expressions weren't great.
+Of course, Needleflame's grime was by choice. But the other three were a different story. Jace, Grede, and Vereesa stared at the wrench-and-gear emblem hanging above the gate — the Steamwheedle Cartel's totem. After their ordeal in the desert, even heroes who'd saved the world couldn't be in a good mood, especially knowing the people who'd taken the Vessel of Rebirth might be living right here in Gadgetzan. Their expressions weren't great.
 
 Seeing this group, even the Steamwheedle guards patrolling the gate looked nervous. The goblin leaders of the incoming kodo caravan cautiously signaled their riders to move aside. Nobody wanted to mess with these oddly dressed, clearly hostile-looking characters.
 
-"What if it was Noggenfogger's mercenaries?" Grede scratched his cheek with a nail. "What if he's the one who took the Wind Prince's treasure and doesn't want to give it back, or won't even admit he has it?"
+"What if it was Noggenfogger's mercenaries?" Grede scratched his cheek with a nail. "What if he's the one who took the Prince of Air's treasure and doesn't want to give it back, or won't even admit he has it?"
 
 "Even so, goblins are all about money in the end. If the price is right, he'll sell." Vereesa said.
 
 "The right price?" the dwarf looked at her. "When did you bring that much gold from Quel'Thalas without me knowing? Or do you think a few magic gems you've got on you can buy a treasure powerful enough to resurrect a wind elemental lord?"
 
-"You—" Vereesa looked at him. "Don't forget, he needs us too. He wants to take over the Bay of Storms and build a new harbor, keep developing that marsh. Only we can tell him about the black dragon situation... Surely a chunk of land and resources that size is worth an elemental power bottle? What else could that bottle even do besides resurrect a wind elemental lord?"
+"You—" Vereesa looked at him. "Don't forget, he needs us too. He wants to take over Tidefury Cove and build a new harbor, keep developing that marsh. Only we can tell him about the black dragon situation... Surely a chunk of land and resources that size is worth an elemental power bottle? What else could that bottle even do besides resurrect a wind elemental lord?"
 
-"If it can resurrect a wind elemental lord, then that thing must contain a powerful enough elemental core." Solara said. "Even without resurrecting an elemental lord, it could be sold as a mana source to plenty of people — like fallen shamans who want to enslave elements, or the Twilight's Hammer cult leaders."
+"If it can resurrect a wind elemental lord, then that thing must contain a powerful enough elemental core." Sola said. "Even without resurrecting an elemental lord, it could be sold as a mana source to plenty of people — like fallen shamans who want to enslave elements, or the Twilight's Hammer cult leaders."
 
 "So even a Steamwheedle moneybags like Marin Noggenfogger is in Twilight's Hammer?" Grede asked.
 
@@ -56,27 +56,27 @@ Jace narrowed his eyes. He could sense Noggenfogger trying to hide something, bu
 
 Crossing Gadgetzan's main street, Noggenfogger led the five of them to a small hut on a street corner. Pushing aside the sand-blocking door curtain, their eyes adjusted to the dim light and immediately saw fine guns hanging on the wall.
 
-"Hey, Brezzlik Buckshot! Your daytime business doesn't look great. I've brought you some work."
+"Hey, Blizrik Buckshot! Your daytime business doesn't look great. I've brought you some work."
 
 "Dammit, Noggenfogger, do you think just because you got yourself elected mayor of Gadgetzan, you can order everyone around like a king?"
 
-"Oh, not at all, dear Brezzlik. By the way, where's your daughter today?"
+"Oh, not at all, dear Blizrik. By the way, where's your daughter today?"
 
 "ENOUGH!" Grede roared, cutting through the nonsense. "Get to the point!"
 
-The pudgy Noggenfogger and the leather-clad gun shop owner both jumped. Noggenfogger quickly forced a smile. "Right away, Your High Thane, right to the point."
+The pudgy Noggenfogger and the leather-clad gun shop owner both jumped. Noggenfogger quickly forced a smile. "Right away, Your Majesty the High King, right to the point."
 
-"High Thane?! Huh!" Buckshot squawked in a sharp voice. Noggenfogger immediately shoved the bullet into his hand. "I'll explain later. Tell me where this bullet came from."
+"High King?! Huh!" Buckshot squawked in a sharp voice. Noggenfogger immediately shoved the bullet into his hand. "I'll explain later. Tell me where this bullet came from."
 
-"One-third-inch caliber high-speed mithril round. Thorium Brotherhood custom order, top quality, costs a fortune. Even most wizards' arcane shields can't stop it." Brezzlik Buckshot clicked his tongue. "I don't sell this stuff, little mayor. I don't have the connections with those Dark Iron dwarves. You'd be better off asking His 'High Thane' here, or go ask Winterfall Village."
+"One-third-inch caliber high-speed mithril round. Thorium Brotherhood custom order, top quality, costs a fortune. Even most wizards' arcane shields can't stop it." Blizrik Buckshot clicked his tongue. "I don't sell this stuff, little mayor. I don't have the connections with those Dark Iron dwarves. You'd be better off asking His 'High King' here, or go ask in Everlook."
 
 "Do you know anyone in Gadgetzan who uses this kind of bullet, Mr. Buckshot?" Jace asked.
 
-The gun shop owner looked Jace over, hesitated, then glanced at Noggenfogger. Noggenfogger immediately said, "Speak freely, Brezzlik. I promise no one will hear about today's conversation. This is the magical advisor to King Wrynn of Stormwind. He's the one who killed a black dragon single-handedly from the Razorshark's balloon. With a wizard like him on your side, even the quilboar chief of Razorfen wouldn't dare mess with you."
+The gun shop owner looked Jace over, hesitated, then glanced at Noggenfogger. Noggenfogger immediately said, "Speak freely, Blizrik. I promise no one will hear about today's conversation. This is the magical advisor to King Wrynn of Stormwind. He's the one who killed a black dragon single-handedly from the Razorshark's balloon. With a wizard like him on your side, even the quilboar chief of Razorfen wouldn't dare mess with you."
 
-"Oh my god. Alright, alright. Pleased to meet you, wizard sir, and your friends." Buckshot leaned against a nearby cabinet. "I know Mr. Puzik recruited an expedition team a while back, outfitted with the best gear and weapons. He wanted to buy a batch of these wizard-killing bullets from me, but I couldn't help him. Later I heard he got some, so I stopped paying attention."
+"Oh my god. Alright, alright. Pleased to meet you, wizard sir, and your friends." Buckshot leaned against a nearby cabinet. "I know Mr. Pozzik recruited an expedition team a while back, outfitted with the best gear and weapons. He wanted to buy a batch of these wizard-killing bullets from me, but I couldn't help him. Later I heard he got some, so I stopped paying attention."
 
-"Puzik?!" Noggenfogger yelped. "What'd he want them for? Rebellion? Dissatisfied with the election results — no need to go that far!"
+"Pozzik?!" Noggenfogger yelped. "What'd he want them for? Rebellion? Dissatisfied with the election results — no need to go that far!"
 
 "No, no. It has something to do with that new racing car he's building." Buckshot said. "He lost a race to Fezzik Copperscrape, son of the Everlook bank manager. He's been wanting to build a super racing car. He was missing a, a..."
 

@@ -46,11 +46,11 @@ The dwarf muttered and glanced south, only to realize the marsh's forest was alr
 
 "Head west from here and you'll enter a canyon. Follow it north and you'll reach a quiet stretch of coast before dawn, Master Dwarf." The woman pointed north. "It's wide and flat, and nothing hostile lives there. But don't go any farther east, or wander about this forest — you'll lose your way fast and get surrounded by quilboar. And if by some miracle you make it through to the eastern shore, what's waiting for you there will be even more crazed murlocs."
 
-As the woman spoke, Grede covered his face and sighed — probably upset that there'd be nowhere decent to stay for a while. Wenresa, meanwhile, curiously peered toward the forest to the east.
+As the woman spoke, Grede covered his face and sighed — probably upset that there'd be nowhere decent to stay for a while. Vereesa, meanwhile, curiously peered toward the forest to the east.
 
 Jace noticed that even this small motion from the elf had put the woman on alert — she'd swept her gaze over her, almost imperceptibly. She was definitely not here out of kindness. She was here to stop the three of them from going any farther.
 
-"Thank you for the warning, miss." Wenresa relaxed her guarded tone. "We just shook off a pack of dragon-kin. We really don't want any more trouble."
+"Thank you for the warning, miss." Vereesa relaxed her guarded tone. "We just shook off a pack of dragonkin. We really don't want any more trouble."
 
 "Now that we have a clear route, we'd best leave soon." Jace looked at the other two. "Very well. Safe travels."
 
@@ -60,33 +60,33 @@ Aegwynn's late husband, Nielas Aran, had been a member of the court mages. She w
 
 Jace turned his head away. He knew that since the woman was willing to let them go, he shouldn't stir up any more trouble. After they entered the canyon to the west, Grede was so tired he could barely walk straight.
 
-If not for the woman's warning about quilboar in the area, he probably would have collapsed right there on the roadside and refused to get up. Wenresa stayed silent the whole while. Jace could tell she'd also sensed something was off about that woman.
+If not for the woman's warning about quilboar in the area, he probably would have collapsed right there on the roadside and refused to get up. Vereesa stayed silent the whole while. Jace could tell she'd also sensed something was off about that woman.
 
 After walking for two or three hours, just as the woman had said, the salty tang of sea breeze was already drifting up ahead. Jace guessed they'd finally reached the Barrens' coast.
 
-The moment Grede caught the scent of the sea, he dropped to the ground with a thud and started snoring. Jace and Wenresa knew there was no waking him up like that, so they had no choice but to drag him to a soft patch of ground shielded by low brush along the road.
+The moment Grede caught the scent of the sea, he dropped to the ground with a thud and started snoring. Jace and Vereesa knew there was no waking him up like that, so they had no choice but to drag him to a soft patch of ground shielded by low brush along the road.
 
 Honestly, Jace was so exhausted he was about to lose it. If quilboar really did surround them, so be it — he'd fight.
 
 He'd just leaned against the brush roots and closed his eyes to rest for a bit when sleep refused completely. The image of that woman was seared into his mind.
 
-By now, Jace couldn't even be sure she was Aegwynn at all. "You also think something's off about that woman, Jace?" Wenresa asked. "Yeah." Jace nodded.
+By now, Jace couldn't even be sure she was Aegwynn at all. "You also think something's off about that woman, Jace?" Vereesa asked. "Yeah." Jace nodded.
 
 "Sazeno." He called the imp out. "Can you sense that mage's power?"
 
 "Of course I can." Sazeno said. "But I don't think there's anything special about her power, Master. Did you sense something different? You definitely know something, don't you?"
 
-Just then Molofier, who'd been covering their rear, caught up. She stepped out of the shadows and said, "No quilboar are following us, Master."
+Just then Morophil, who'd been covering their rear, caught up. She stepped out of the shadows and said, "No quilboar are following us, Master."
 
-"Remember those quilboar we ran into on the stone pillars' cliffs last time, Jace?" Wenresa looked over. "I don't know much about quilboar, but from what I've seen, they mostly live around the hills out on the grasslands. They dig caves into those hills, pitch tents, build their own cities. That woman saying quilboar would be hiding in the forest sounds more like gnoll behavior."
+"Remember those quilboar we ran into on the cliffs of Thousand Needles last time, Jace?" Vereesa looked over. "I don't know much about quilboar, but from what I've seen, they mostly live around the hills out on the grasslands. They dig caves into those hills, pitch tents, build their own cities. That woman saying quilboar would be hiding in the forest sounds more like gnoll behavior."
 
-"More like she made up an excuse to chase us off than actually wanted to help." Jace said. "That's exactly the feeling." Wenresa nodded.
+"More like she made up an excuse to chase us off than actually wanted to help." Jace said. "That's exactly the feeling." Vereesa nodded.
 
-"Molofier, did that female mage detect you?" Jace asked.
+"Morophil, did that female mage detect you?" Jace asked.
 
-"She never looked at me once. In my experience, she shouldn't have spotted me. Why, Master — do you think someone of her ability could see through my invisibility? That's a bit too insulting." Molofier smiled.
+"She never looked at me once. In my experience, she shouldn't have spotted me. Why, Master — do you think someone of her ability could see through my invisibility? That's a bit too insulting." Morophil smiled.
 
-Jace glanced at the succubus. It was rare for Molofier to say anything particularly arrogant — but the woman across from them was Aegwynn. Or was she? Was he reading too much into this?
+Jace glanced at the succubus. It was rare for Morophil to say anything particularly arrogant — but the woman across from them was Aegwynn. Or was she? Was he reading too much into this?
 
 Aegwynn wasn't the only mysterious recluse in Dustwallow Marsh. There was also an alchemist named Tabetha. No one knew how she'd come to Dustwallow Marsh, and no one knew her past.
 
@@ -126,7 +126,7 @@ Ah… right. This box was a magic box that shielded mana. He wondered — when t
 
 Either way, Aegwynn had certainly recognized his identity as a Stormwind court mage. She might already know exactly who he was.
 
-After all, something as big as the Grim Batol incident — half a years' time had passed, she might have heard about it. Whether that counted as good news or bad, he couldn't tell.
+After all, something as big as the Grim Batol incident — half a year's time had passed, she might have heard about it. Whether that counted as good news or bad, he couldn't tell.
 
 The next evening, the group walked out of the canyon. Towering hills and the flat grasslands between them filled their vision. Sunlight scattered off the distant sea's surface in a glare that was almost harsh. All three of their moods lifted at once.
 
@@ -140,50 +140,12 @@ It wasn't as smooth or fast as traveling by zeppelin, but at least they no longe
 
 That evening, the group made camp beside a massive boulder by the sea. Jace and Grede took a stroll along the beach, keeping an eye out for anything edible they might pick up — shellfish and the like.
 
-"Jace, you think we'll run into Mosa?" Grede asked, staring at the land across the water that had already faded beyond recognition. "I have no idea where the tauren around here live," Jace said.
+"Jace, you think we'll run into Mosa?" Grede asked, staring at the land across the water that had already faded beyond recognition.
+
+"I have no idea where the tauren around here live," Jace said.
 
 "Should we go look? We're already here." Grede said. "Follow the river north, and if we don't find them, so be it. Those tauren have to drink fresh water, don't they? Seems like besides this river, everything around here is sea!"
 
 Jace nodded. Honestly, he was quite keen to see Mosa again too, to find out what kind of druid she'd become.
 
 Especially considering the things he'd told her the last time they'd parted.
-
-## Flags
-
-- **艾格文 (Aegwynn):** Listed in glossary. Used "Aegwynn."
-- **提瑞斯法议会 (Order of Tirisfal):** Listed in glossary. Used "Order of Tirisfal."
-- **麦迪文 (Medivh):** Listed in glossary. Used "Medivh."
-- **萨格拉斯 (Sargeras):** Listed in glossary. Used "Sargeras."
-- **守护者 (Guardian):** Listed in glossary. Used "Guardian."
-- **联盟 (Alliance):** Listed in glossary. Used "Alliance."
-- **兽人战争 (Orc Wars):** Listed in glossary. Used "Orc Wars."
-- **达拉然 (Dalaran):** Listed in glossary. Used "Dalaran."
-- **尘泥沼泽 (Dustwallow Marsh):** Not in glossary. Canonical WoW zone. Rendered as "Dustwallow Marsh."
-- **塔贝萨 (Tabetha):** Not in glossary. Canonical WoW NPC (Tabetha of Dustwallow Marsh). Rendered as "Tabetha."
-- **吉安娜·普罗德摩尔 (Jaina Proudmoore):** Not in glossary. Canonical. Rendered as "Jaina Proudmoore."
-- **塞拉摩 (Theramore):** Not in glossary. Canonical. Rendered as "Theramore."
-- **宫廷法师 (court mage):** Not in glossary. Rendered as "court mage."
-- **聂拉斯·埃兰 (Nielas Aran):** Not in glossary. Canonical (Aegwynn's husband). Rendered as "Nielas Aran."
-- **卡拉赞 (Karazhan):** Listed in glossary. Used "Karazhan."
-- **流冰之晶 (Flowing Ice Crystal):** Not in glossary. Rendered as "Flowing Ice Crystal."
-- **肯瑞托 (Kirin Tor):** Listed in glossary. Used "Kirin Tor."
-- **格瑞姆巴托 (Grim Batol):** Listed in glossary. Used "Grim Batol."
-- **暴风城 (Stormwind):** Listed in glossary. Used "Stormwind."
-- **怒水河 (Southfury River):** Not in glossary. Canonical WoW river (Southfury River, through the Barrens). Rendered as "Southfury River."
-- **杜隆塔尔 (Durotar):** Not in glossary. Canonical. Rendered as "Durotar."
-- **萨尔 (Thrall):** Not in glossary. Canonical Warchief. Rendered as "Thrall."
-- **杜隆坦 (Durotan):** Not in glossary. Canonical (Thrall's father). Rendered as "Durotan."
-- **东贫瘠之地 (Eastern Barrens):** Not in glossary. Goblins' name for the region. Rendered as "Eastern Barrens."
-- **野猪人 (quilboar):** Not in glossary. Canonical WoW race. Rendered as "quilboar."
-- **鹰身人 (harpy):** Not in glossary. Canonical WoW race. Rendered as "harpy."
-- **鱼人 (murloc):** Not in glossary. Canonical WoW race. Rendered as "murlocs."
-- **豺狼人 (gnoll):** Listed in glossary. Used "gnoll."
-- **龙人 (dragon-kin):** Not in glossary. Rendered as "dragon-kin."
-- **石林 (stone pillars):** Not in glossary. Terrain feature in Dustwallow. Rendered as "stone pillars."
-- **莫萨 (Mosa):** Not in glossary (only "莫萨" listed, no surname). Rendered as "Mosa."
-- **牛头人 (tauren):** Not in glossary. Canonical WoW race. Rendered as "tauren."
-- **德鲁伊 (druid):** Not in glossary. Rendered as "druid."
-- **温蕾萨 (Wenresa):** Not in glossary. High elf ranger companion. Rendered phonetically as "Wenresa."
-- **莫洛菲尔 (Molofier):** Not in glossary. Jace's succubus. Rendered phonetically as "Molofier."
-- **撒厄诺 (Sazeno):** Listed in glossary. Used "Sazeno."
-- **部落 (Horde):** Listed in glossary. Used "Horde."

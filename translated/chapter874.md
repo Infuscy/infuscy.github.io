@@ -4,9 +4,9 @@ Everlook was snowing heavily in the morning. Jace and the others trudged through
 
 When a group of cloaked mercenaries carrying all sorts of weapons and looking rather down-at-heel suddenly appeared in the inn, everyone in the main hall glanced over, eyeing them warily, terrified of doing something wrong and provoking them.
 
-"Five bowls of hot Winter Springs stew — any meat is fine, just no furbolg! And a round of ale — any brew works, just no wine from Mount Hyjal — deliver it to that tauren's room, boss!"
+"Five bowls of hot Winterspring stew — any meat is fine, just no furbolg! And a round of ale — any brew works, just no wine from Mount Hyjal — deliver it to that tauren's room, innkeeper!"
 
-After Grede bellowed this whole string of demands, the boss behind the counter acknowledged him, and only then did the inn's customers relax slightly, each turning back to their own meals.
+After Grede bellowed this whole string of demands, the innkeeper behind the counter acknowledged him, and only then did the inn's customers relax slightly, each turning back to their own meals.
 
 They hurried up the stairs. Grede ran the fastest — he couldn't wait any longer to see Mosa again.
 
@@ -22,7 +22,7 @@ Grede first grabbed her paws and neck, then blinked. "Mosa?"
 
 The lioness panted, muttering in an extremely hoarse and awkward beast-voice, then let out a small cough-like sound. Grede laughed heartily, flipped her over, and hugged her tightly.
 
-The lioness quickly reverted to a tauren's form right under everyone's gaze — horns sprouting from her head, limbs elongating, fangs turning into hard hooves and thick fingers. In the end, it was Grede who ended up lying in Mosa's arms, sitting against the hallway corner.
+The lioness quickly reverted to a tauren's form right under everyone's gaze — horns sprouting from her head, limbs elongating, claws turning into hard hooves and thick fingers. In the end, it was Grede who ended up lying in Mosa's arms, sitting against the hallway corner.
 
 "Mosa!"
 
@@ -44,19 +44,19 @@ Her laugh was so thick it was practically indistinguishable from an actual cow's
 
 Judging by her reaction, and considering these two were staying in adjacent rooms, it was probably going to be a sleepless night. "You two can sort out your own affairs... just don't share the details with us," Jace said.
 
-Back in the room, Jace recounted to Mosa the whole journey — heading to the Frosthammer, entering the snow valley, finding Scavel's vault, and then discovering the vault's connection to the Emerald Dream.
+Back in the room, Jace recounted to Mosa the whole journey — heading to the Frostmaul, entering the snow valley, finding Scavell's vault, and then discovering the vault's connection to the Emerald Dream.
 
-When Mosa heard that Scavel had used magic to link the vault to a fragment of the Dream, then hidden Ursolus within the Dream, she said in shock, "I can't imagine that a few hundred years ago, a human mage could use the Arcane to manipulate dreams."
+When Mosa heard that Scavell had used magic to link the vault to a fragment of the Dream, then hidden Ulthalesh within the Dream, she said in shock, "I can't imagine that a few hundred years ago, a human mage could use the arcane to manipulate dreams."
 
-"The power of the Tirisfal Guardians always exceeds mortal imagination, Mosa." Sola shook her head. "Which is precisely why they will eventually bring tremendous trauma upon this world."
+"The power of the Guardians of Tirisfal always exceeds mortal imagination, Mosa." Sola shook her head. "Which is precisely why they will eventually bring tremendous trauma upon this world."
 
-Mosa looked at the broken blade of Apocalypse on the table, swallowed, then lifted the black cloth to steal a glance at Ursolus before covering it back up. "This is not something I should touch."
+Mosa looked at the broken blade of Apocalypse on the table, swallowed, then lifted the black cloth to steal a glance at Ulthalesh before covering it back up. "This is not something I should touch."
 
 Not just her — everyone else, as they gazed at the demon bone, still seemingly caked with blood visible beneath the black cloth, wore expressions of discomfort.
 
 "Now I can understand why Medivh, Kil'jaeden, and Dar'Khan Drathir were all so obsessed with finding this thing," Vereesa said.
 
-"Stop wasting time on those evil objects, everyone." Grede set his large and small bags on the ground and squatted down. "Let's take a good look at what treasures Medivh's great treasure hunters had. I basically took everything intact and halfway decent off those few men. Hopefully the value of these things is enough to get the Aerie Peak smiths to reforge a Gryphon Rider's warhammer for me!"
+"Stop wasting time on those evil objects, everyone." Grede set his large and small bags on the ground and squatted down. "Let's take a good look at what treasures Medivh's great treasure hunters had. I basically took everything intact and halfway decent off those few men. Hopefully the value of these things is enough to get the Aerie Peak smiths to reforge a gryphon rider's warhammer for me!"
 
 "I want to see too, I want to see, hehe." Sazeno grinned and ran over to the cloth bag, staring curiously at the fastening as he spoke.
 
@@ -70,9 +70,9 @@ Mosa swept her eyes across the weapons, then looked at the dwarf and the others 
 
 "I don't believe that," Sola said flatly.
 
-"You'd best be as powerful as you think, little green dragon sister. That way I can rest easier in future battles." Grede said this as he set the sword on the table.
+"You'd best be as powerful as you think, little green dragon lass. That way I can rest easier in future battles." Grede said this as he set the sword on the table.
 
-Vereesa stroked the blade. "This isn't a later enchantment — this sword carries its own curse, Grede. Don't forget, these black knights all came out of Karazhan. These weapons were likely all forged by Medivh, or by the smiths hired within Medivh's tower."
+Vereesa stroked the blade. "This isn't a later enchantment — this sword carries its own curse, Grede. Don't forget, these Dark Riders all came out of Karazhan. These weapons were likely all forged by Medivh, or by the smiths hired within Medivh's tower."
 
 "So this sword could sell for quite a bit?" Grede pinched the bent blade. "Damn it, I should've pulled my strikes a little..."
 
@@ -88,13 +88,13 @@ Here he was, trying to figure out where Grede could get a decent weapon, and Gre
 
 The dwarf set the hammer on the table. Vereesa glanced at it. "This one does indeed carry the same curse as that sword just now."
 
-"See." Grede picked up a broken short sword, sighed, and set it aside. "I get the feeling all these things combined won't sell for too much. Based on my experience looking at weapons in the Dwarf District, ten gold at most."
+"See." Grede picked up a broken short sword, sighed, and set it aside. "I get the feeling all these things combined won't sell for too much. Based on my experience looking at weapons in the Dwarven District, ten gold at most."
 
 "Ten gold isn't bad, Grede," Jace said.
 
 "It is, but compared to the risk we took... and the number of people splitting it." The dwarf smacked his lips and looked at the several people standing around. "We risked our lives and went toe-to-toe with the most terrifying weapon from the Twisting Nether, and each person only gets a gold or two? I'm having a hard time accepting that."
 
-"Don't forget Ursolus and Apocalypse, Grede," Vereesa said.
+"Don't forget Ulthalesh and Apocalypse, Grede," Vereesa said.
 
 Grede gave a complicated glance at the thing wrapped in torn cloth on the table, swallowed, and nodded. "And there are other things in here too," Jace reminded him.
 
@@ -108,7 +108,7 @@ Jace looked it back and forth. The cloak bore some whitish marks. They looked fa
 
 "Human nobility — I've had some contact with them." Vereesa raised an eyebrow.
 
-"So one of those black knights was a member of the Stromgarde royal house?" Grede asked. "I haven't heard of any of them going missing... except Danath Trollbane, of course. He couldn't exactly have run all the way back from the other side of the Dark Portal to Karazhan, could he?"
+"So one of those Dark Riders was a member of the Stromgarde royal house?" Grede asked. "I haven't heard of any of them going missing... except Danath Trollbane, of course. He couldn't exactly have run all the way back from the other side of the Dark Portal to Karazhan, could he?"
 
 "Could be an Arathi noble who died long ago." Vereesa lifted a corner of the cloak and looked at it. "Or perhaps these fellows simply found King Trollbane's royal tomb and looted this thing from within. Look at how worn it is..."
 
@@ -140,21 +140,21 @@ Grede sighed and picked up another bottle. "Then this one's probably about the s
 
 Once the dwarf said this, Jace remembered that in the game, there seemed to be members of the Thorium Brotherhood in Everlook. But they'd come and gone from Everlook several times now and hadn't run into any Dark Iron dwarves, nor heard of anyone from the Thorium Brotherhood being here.
 
-Grede's strength at this point probably looked down on the weapons those black knights had used anyway. If he could find the Thorium Brotherhood to help, they should be able to forge something of excellent quality.
+Grede's strength at this point probably looked down on the weapons those Dark Riders had used anyway. If he could find the Thorium Brotherhood to help, they should be able to forge something of excellent quality.
 
 The finest weapon the Thorium Brotherhood could forge was, of course, the legendary warhammer circulating in Blackrock Mountain — Sulfuras, Hand of Ragnaros.
 
 In the game, to obtain this warhammer, one needed to raise reputation with the Thorium Brotherhood to earn the schematic for the warhammer's prototype, the Sulfuron Hammer. After completing the Sulfuron Hammer, one then had to defeat the Firelord in the Molten Core raid dungeon to claim the Firelord's treasure — the Eye of Sulfuras — and fuse it with the Sulfuron Hammer to acquire this weapon.
 
-Jace knew that obtaining this weapon here definitely wouldn't be as straightforward as kill, drop, forge, fuse. Perhaps when he went to Blackrock Mountain to seek out the fire-controllers to learn further flame manipulation, he should inquire about this warhammer while he was at it.
+Jace knew that obtaining this weapon here definitely wouldn't be as straightforward as kill, drop, forge, fuse. Perhaps when he went to Blackrock Mountain to seek out the pyromancers to learn further flame manipulation, he should inquire about this warhammer while he was at it.
 
 Even without the Eye of Sulfuras, just the Sulfuron Hammer forged by the Dark Iron dwarves should be a considerably powerful treasure.
 
-Jace asked, "Grede, do you still have anything you can make do with? Next we still have to go search for Eldaras. Who knows what kind of devils are lurking in those ruins."
+Jace asked, "Grede, do you still have anything you can make do with? Next we still have to go search for Eldarath. Who knows what kind of devils are lurking in those ruins."
 
-Grede said, "I still have an axe, remember? The 'Bonebreaker' I won in Booty Bay. I originally thought I could sell it for a good price out here, but it turned out I was forced to use it myself."
+Grede said, "I still have an axe, remember? The 'Ribsplitter' I won in Booty Bay. I originally thought I could sell it for a good price out here, but it turned out I was forced to use it myself."
 
-Jace said, "When we get back to the East, I can ask the Thorium Brotherhood if they can help forge a good weapon for you."
+Jace said, "When we get back to the Eastern Kingdoms, I can ask the Thorium Brotherhood if they can help forge a good weapon for you."
 
 "Thorium Brotherhood — are you serious?" Grede's eyes seemed to light up all at once.
 
@@ -166,14 +166,4 @@ Jace said, "When we get back to the East, I can ask the Thorium Brotherhood if t
 
 He looked at Mosa, probably remembering his promise to stay here, and immediately felt guilty about his slip of the tongue wanting to leave Kalimdor.
 
-Mosa smiled gently. "Although I don't know much about Gryphon Riders, I'd imagine a Gryphon Rider without a warhammer probably wouldn't be of much help to our tribe either. Grede, go back with Jace Sesso. I'll pray to the Earth Mother... for your safety..."
-
-## Flags
-
-- **POV:** Third person, Jace.
-- **Key names:** 莫萨 = Mosa (tauren druid, Grede's partner); 温蕾萨 = Vereesa Windrunner; 索拉 = Sola (green dragon); 格瑞德 = Grede; 撒厄诺 = Sazeno (imp); 莫洛菲尔 = Morophil (succubus).
-- **Places:** 永望镇 = Everlook; 霜槌 = Frosthammer; 埃达拉斯 = Eldaras; 藏宝海湾 = Booty Bay; 矮人区 = Dwarf District; 卡拉赞 = Karazhan; 黑石山 = Blackrock Mountain; 熔火之心 = Molten Core.
-- **Items:** 天启 = Apocalypse (broken blade); 乌萨勒斯 = Ursolus; 断骨者 = Bonebreaker (Grede's axe from Booty Bay); 暗影之油 = Shadow Oil; 斯托姆加德王室的披风 = Stromgarde royal house cloak; 萨弗拉斯，炎魔拉格纳罗斯之手 = Sulfuras, Hand of Ragnaros; 萨弗隆战锤 = Sulfuron Hammer; 萨弗拉斯之眼 = Eye of Sulfuras.
-- **Lore:** Black knights came from Karazhan; their weapons may have been forged by Medivh or his tower's smiths. Jace references Thorium Brotherhood, Sulfuras, Molten Core raid, and the game's acquisition process — then notes reality won't be that simple. Stromgarde cloak suggests a black knight was (or robbed) an Arathi noble. Danath Trollbane referenced (canonical — Alliance Expedition commander at Nethergarde).
-- **Game mechanics:** Jace's internal monologue about reputation grinding, raid drops, and schematics — kept in gamer tone per style guide.
-- **Language note:** 冬泉炖肉 = Winter Springs stew; 狮鹫骑士战锤 = Gryphon Rider's warhammer.
+Mosa smiled gently. "Although I don't know much about gryphon riders, I'd imagine a gryphon rider without a warhammer probably wouldn't be of much help to our tribe either. Grede, go back with Jace Sesso. I'll pray to the Earth Mother... for your safety..."

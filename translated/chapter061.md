@@ -165,12 +165,3 @@ Then he noticed the veins and skin of his arms traced with faint crimson lines �
 The orc, clearly taken aback by this absurd lightning resistance, hesitated for a moment — and then a shriek from the distance yanked both their attention toward it.
 
 "Master, thank me for saving your life! This is the power of the Blood Pact!"
-
-## Flags
-
-- **撒厄诺** → "Sazeno": carried over from Ch. 52 (imp's short name).
-- **血之契印** → "Blood Pact": carried over from Ch. 52 (canon WoW imp spell).
-- **恐惧术** → "Fear": carried over from Ch. 36/49/55 (canon WoW warlock spell).
-- **斯托姆加德剑** → "Stromgarde sword": carried over from Ch. 12/13/48.
-- **Lake Everstill** (止水湖): not in glossary; canonical WoW lake in Redridge. Descriptive rendering.
-- **Lakeshire** (湖畔镇): in glossary but used here as the primary reference for the town.

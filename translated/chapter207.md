@@ -1,14 +1,14 @@
-## Chapter 207: The Residents of Quel'Daniel
+## Chapter 207: The Residents of Quel'Danil
 
-The hawkstrider was gazing out toward the northern dense forest. Every now and then, some animal's cry from within would make its whole body shudder with a ripple of feathers, and it would try to climb higher, straining to stretch its already rather short neck, as if it wanted to investigate.
+The dragonhawk was gazing out toward the northern dense forest. Every now and then, some animal's cry from within would make its whole body shudder with a ripple of feathers, and it would try to climb higher, straining to stretch its already rather short neck, as if it wanted to investigate.
 
 But every time it made a move, an elven guard beside it would shake his lance, signaling it to stay quiet. Sometimes the giant bird would even try to peck at the soldier's lance, angrily letting out a string of *whoosh-whoosh* sounds.
 
-This was a creature unique to Quel'Thalas. Jace had read an account of it in one of Master Marin's bestiaries back in the study.
+This was a creature unique to Quel'Thalas. Jace had read an account of it in one of Master Malin's bestiaries back in the study.
 
 Some guessed they were hybrid monsters born of dragons disguised as elves, hidden away in Quel'Thalas, mating with giant eagles. Others said they were predatory birds native to Quel'Thalas, transformed into magical creatures by the Sunwell's energy radiation.
 
-In any case, here Jace could feel far more viscerally than in the game exactly why this beast was called a "hawkstrider." In appearance, in movement, in sheer size — it truly did look like a hybrid of the two.
+In any case, here Jace could feel far more viscerally than in the game exactly why this beast was called a "dragonhawk." In appearance, in movement, in sheer size — it truly did look like a hybrid of the two.
 
 The appearance of two outsiders had clearly drawn the attention of some of the elves on the street. Two elves who'd been idly playing a bagpipe, along with their audience, stopped to look this way.
 
@@ -16,11 +16,11 @@ As Jace watched the elven woman head toward the hall, he heard a female elf whis
 
 After stepping inside the hall, he said, somewhat annoyed, "The elves here don't seem to have many who can fight. There aren't many guards either. I wonder how they'd defend this place if the trolls really broke through the forest and attacked."
 
-"That's only how they appear on the surface," Grede said under his breath. "Let me tell you a little story about Quel'Daniel. You want to hear it?"
+"That's only how they appear on the surface," Grede said under his breath. "Let me tell you a little story about Quel'Danil. You want to hear it?"
 
 "Go on."
 
-"I remember when I was still young, an elven woman commander from Quel'Daniel was captured by trolls. They flayed her alive and hung her on a stone pillar over in those troll ruins to the east, trying to terrorize this place. After the elves of Quel'Daniel brought her down, they hung up a particularly beautiful, flower-carved elven cloth bag up there — stuffed full of fresh and shriveled troll dick."
+"I remember when I was still young, an elven woman commander from Quel'Danil was captured by trolls. They flayed her alive and hung her on a stone pillar over in those troll ruins to the east, trying to terrorize this place. After the elves of Quel'Danil brought her down, they hung up a particularly beautiful, flower-carved elven cloth bag up there — stuffed full of fresh and shriveled troll dick."
 
 "Troll… how do you know that so clearly?" Jace asked.
 
@@ -38,11 +38,11 @@ He was very tall — half a head taller than a guard standing beside him — and
 
 "Grede Thunderfist, sir, and Jace Sesso, sir." The elf turned around, waving a hand signaling the guards to withdraw first.
 
-"I am Vinaryal of the Sunseeker Sanctuary. Lady Sylvanas Windrunner must have told you about me?" He glanced at the dwarf. "She told me to wait here for you during Winter Veil. I've already waited many days — I can't wait out the entire holiday."
+"I am Vinaryal of the Sunseeker Sanctuary. Lady Vereesa Windrunner must have told you about me?" He glanced at the dwarf. "She told me to wait here for you during Winter Veil. I've already waited many days — I can't wait out the entire holiday."
 
 "Truly sorry about that," Jace said. "Because from Dalaran to here, most of the way we traveled on foot… Only the stretch from Alterac to Durnholde did we have horses, so it took a very long time."
 
-"Lady Sylvanas should have found two hawkstrider riders to bring you. But Dalaran… never mind." Vinaryal shook his head. "If you'd arrived two days later, I would have had to return to Silvermoon City."
+"Lady Vereesa should have found two dragonhawk riders to bring you. But Dalaran… never mind." Vinaryal shook his head. "If you'd arrived two days later, I would have had to return to Silvermoon City."
 
 "So then, Master Elf — what should we do?" Grede asked eagerly.
 
@@ -78,23 +78,6 @@ Grede nodded, hopped onto the rock slab, and lay down flat, his hands pressed ti
 
 Jace instinctively took a few steps back and sat on a bluish rock a short distance away, watching the situation.
 
-"If we were in Eversong Forest, everything would be much simpler."
+"If we were in Eversong Woods, everything would be much simpler."
 
 Vinaryal muttered what sounded like a soliloquy, raising both hands flat in front of his chest. Jace suddenly felt a cool wind rush past his ear. He didn't know if it was a coincidence, or if it really had something to do with the elf's gestures.
-
-## Flags
-
-- 龙鹰 → hawkstrider (canonical Quel'Thalas beast; not in glossary).
-- 太阳之井 → Sunwell (glossary confirms).
-- 奎尔萨拉斯 → Quel'Thalas (glossary confirms).
-- 温蕾萨·风行者 → Sylvanas Windrunner (glossary confirms 温蕾萨 as Sylvanas).
-- 维纳莱尔·寻日者 → Vinaryal Sunseeker (botanist of the Sunseeker Sanctuary; not in glossary).
-- 寻日者圣殿 → Sunseeker Sanctuary (elven botanical order; not in glossary).
-- 冬幕节 → Winter Veil (canonical WoW holiday; not in glossary).
-- 达拉然 → Dalaran (glossary confirms).
-- 奥特兰克 → Alterac (glossary confirms Alterac Mountains).
-- 敦霍尔德 → Durnholde (canonical keep in Hillsbrad; not in glossary).
-- 银月城 → Silvermoon City (canonical elven capital; not in glossary).
-- 铜须 → Bronzebeard (glossary confirms dwarven clan).
-- 永歌森林 → Eversong Forest (canonical region of Quel'Thalas; not in glossary).
-- 雷拳 → Thunderfist (glossary confirms as Grede's family name).

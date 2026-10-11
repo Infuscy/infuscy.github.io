@@ -2,7 +2,7 @@
 
 No… wait.
 
-Jace felt his scalp tingle. He broke into a run toward the path the pit lord was barreling down. On that vast battlefield, not a single demon, not a single person paid any mind to why an apprentice mage had started running sideways.
+Jace felt his scalp prickle. He broke into a run toward the path the pit lord was barreling down. On that vast battlefield, not a single demon, not a single person paid any mind to why an apprentice mage had started running sideways.
 
 Beneath the demons charging forward, a paladin's golden light was suddenly snuffed out as the pit lord's foot came down on him. Another knight drove his screaming, madly neighing warhorse in a death charge at the demon lord — and was swallowed in an instant by the fel fire that burned in the pit lord's wake.
 
@@ -22,7 +22,7 @@ The demon looked in the direction the strange force had come from, puzzled — a
 
 Jace stared at the rumbling colossus before him, feeling the blood in his chest surging without end. He coughed, choking on a mouthful of black blood, and forced himself to swallow back what hadn't come out.
 
-He'd cast Blood Demon's Grasp — that single tug had instantly burned through every last scrap of energy he had left, and churned the blood inside him into chaos.
+He'd cast Gorefiend's Grasp — that single tug had instantly burned through every last scrap of energy he had left, and churned the blood inside him into chaos.
 
 The pit lord had noticed him. It was hard to read any expression on that hideous face, but Jace knew he'd been provoked.
 
@@ -54,9 +54,9 @@ He tried to stomp it — but the dwarf dodged easily, then hacked an axe into th
 
 It raised its massive arm, gathering a wave of fel flame, and as its right hand lifted, a shockwave of fel fire erupted from beneath it and exploded outward in every direction!
 
-Jace was blasted by the shockwave, thrown to the ground and sent rolling among a field of spent Infernal rubble. The crushing impact and dizziness nearly wiped out what little consciousness he had left.
+Jace was blasted by the shockwave, thrown to the ground and sent rolling among a field of spent infernal rubble. The crushing impact and dizziness nearly wiped out what little consciousness he had left.
 
-Using Blood Demon's Grasp to tug at that weapon… that was genuinely the dumbest thing he could've done.
+Using Gorefiend's Grasp to tug at that weapon… that was genuinely the dumbest thing he could've done.
 
 "Grede…"
 
@@ -64,13 +64,13 @@ He struggled to push himself up. The pit lord was frenziedly slashing at everyon
 
 But the battle line up ahead had been torn open.
 
-Demons surged forward, shoving through the soldiers' attempts to hold them back. A Felguard with a poleaxe was chopping down at him. Jace gripped Azure Song at his waist — and realized he didn't even have the strength to draw the blade.
+Demons surged forward, shoving through the soldiers' attempts to hold them back. A Felguard with a poleaxe was chopping down at him. Jace gripped Azuresong at his hip — and realized he didn't even have the strength to draw the blade.
 
-Just when he thought he was about to be cleaved in two, a flash of arcane light suddenly tore open the Felguard's chest before his eyes. An arrow wreathed in arcane energy drove deep into the ground, and the Felguard dropped to its knees in front of him and collapsed, trembling.
+Just when he thought he was about to be cleaved in two, a flash of arcane light suddenly tore open the felguard's chest before his eyes. An arrow wreathed in arcane energy drove deep into the ground, and the felguard dropped to its knees in front of him and collapsed, trembling.
 
 Vereesa Windrunner's figure was already in front of him, standing guard. She drew two long knives and lopped the head off a Mo'arg soldier that had lunged at them with a single stroke.
 
-She shouted something in completely unintelligible Thalassian to the Farstriders and elves in the distance, nimbly dodged a vertical slash from another Felguard, and at the same time drove her sword straight through the Felguard's helmet, plunged the other blade into his chest, stepped off his thigh, and in the same motion hacked through another Felguard's neck.
+She shouted something in completely unintelligible Thalassian to the Farstriders and elves in the distance, nimbly dodged a vertical slash from another felguard, and at the same time drove her sword straight through the felguard's helmet, plunged the other blade into his chest, stepped off his thigh, and in the same motion hacked through another felguard's neck.
 
 In the span of that short while, she must have slaughtered countless enemies. In his peripheral vision, her swaying figure was like a spinning blade storm, sweeping in every demon that tried to rush at Jace — leaving only a blur of limp limbs and severed heads tumbling out.
 
@@ -80,7 +80,7 @@ Jace watched the demon's longblade nearly catch the dwarf several times — but 
 
 "I won't let you die, Jace." Vereesa drove her blade into a demon's chest even as she murmured the words, her voice barely more than panting, not really speech.
 
-"Jace Sesso!" the stone statue in the distance bellowed in a rough, muffled voice. "This is what I call a real battle — a true battle for the blood! Are you watching?! Are you watching?! Are you dead?!"
+"Jace Sesso!" the stone statue in the distance bellowed in a rough, muffled voice. "This is what I call a real battle — a battle worthy of the blood! Are you watching?! Are you watching?! Are you dead?!"
 
 "I'm watching, you… I'm not dead yet."
 
@@ -92,13 +92,4 @@ He'd never been a smart man. He'd always been the type to act on impulse, a hoth
 
 Maybe a world like this wasn't meant for fools like him?
 
-"Luhrawenkta, Lu'alakipta…"
-
-## Flags
-- 最后的勉强 = "The Last Effort" (Jace's final-ditch Blood Demon's Grasp cast).
-- 血魔之握 = Blood Demon's Grasp (warlock spell).
-- 温蕾萨·风行者 = Vereesa Windrunner.
-- 格瑞德·雷拳 = Grede Thunderfist.
-- 碧空之歌 = Azure Song.
-- 萨拉斯语 = Thalassian.
-- 卢赫拉文克塔，卢阿拉基普塔 = shadow magic incantation (transliterated; not a known canonical spell).
+"Luhravenkta, Luarakipta…"

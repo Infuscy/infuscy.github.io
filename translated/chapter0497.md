@@ -1,10 +1,10 @@
-## Chapter 497: Necrotic Essence Collector, Model 5
+## Chapter 497: Undeath Essence Collector, Model 5
 
 After parting with Grede, Jace spent that evening writing to Vereesa, asking how much she knew about the Reliquary's desire to contact a Farstrider for a mission to Kalimdor, and whether she had any potential candidates in mind.
 
 This time he took care to phrase everything with considerable politeness, so that any elf who happened to see the letter wouldn't be overly sensitive about such correspondence.
 
-The next morning, after entrusting the letter to an elf mage of the Wizard Sanctum for delivery to Quel'Thalas, he returned home to start examining that necrotic-essence-collecting device.
+The next morning, after entrusting the letter to an elf mage of the Wizard's Sanctum for delivery to Quel'Thalas, he returned home to start examining that undeath-essence-collecting device.
 
 He'd gotten this so-called device back from Bacchus Mithershield almost a month ago now, but Jace had never actually sat down to read the instruction manual.
 
@@ -14,9 +14,9 @@ When he finally opened the gift-box-like packaging and got a look at what was in
 
 Of course, it probably also had to do with the thing's rather user-unfriendly shape.
 
-It was a small contraption weighing four or five jin, fitted with a red protective casing, housing a series of strange-looking metal components that appeared to rotate.
+It was a small contraption weighing four or five pounds, fitted with a red protective casing, housing a series of strange-looking metal components that appeared to rotate.
 
-Relying on his perception as an apprentice mage of the Wizard Sanctum, he could sense there was a magical mechanism inside — probably a small arcane core.
+Relying on his perception as an apprentice mage of the Wizard's Sanctum, he could sense there was a magical mechanism inside — probably a small arcane core.
 
 But from the outside, the whole thing bore a passing resemblance to an old-fashioned meat grinder, the hand-cranked kind, or maybe a small fire hydrant.
 
@@ -30,23 +30,23 @@ Jace felt like there were characters in here he half-recognized. He stared at it
 
 Damn it… why not write that on top.
 
-He flipped it over and saw the title, written in Common letters styled like Goblin runes: "Necrotic Essence Collector, Model 5 — improved from the Soul Collector 200 by Trade Cartel engineer Dinkie Stibolt, perfectly integrated with the powerful essence-extraction apparatus of Everlook's Hilbert Fizzbert into a single comprehensive unit. Compared to the Model 4, reliability has reached unprecedented heights…"
+He flipped it over and saw the title, written in Common letters styled like Goblin runes: "Undeath Essence Collector, Model 5 — improved from the Soul Collector 200 by Steamwheedle Cartel engineer Dinkie Stibolt, perfectly integrated with the powerful essence-extraction apparatus of Everlook's Hilbert Fizzbert into a single comprehensive unit. Compared to the Model 4, reliability has reached unprecedented heights…"
 
 Skipping the not only long-winded and grammatically awkward but also somewhat show-offy Goblin phrasing, Jace jumped straight down to the operating instructions.
 
 After reading for a while, he understood that the hand-cranked handle was indeed not superfluous. The damn thing actually needed to be cranked continuously to gradually draw in nearby souls for so-called "extraction." This method of operation reminded Jace of those rat poisons you shove straight into a rat's mouth — how wonderfully convenient of you.
 
-Given the usual goblin-product aesthetic, he'd half-expected something you strapped to your back and aimed at souls like a flamethrower, blasting them straight into necrotic-essence slurry — the ultimate anti-undead-monster treasure.
+Given the usual goblin-product aesthetic, he'd half-expected something you strapped to your back and aimed at souls like a flamethrower, blasting them straight into undeath-essence slurry — the ultimate anti-undead-monster treasure.
 
-Continuing to read, the instructions below said: "Place the empty necrotic essence vial at the machine's end." Beside it was a note with the Goblin word for "end."
+Continuing to read, the instructions below said: "Place the empty Essence of Undeath vial at the machine's end." Beside it was a note with the Goblin word for "end."
 
 Jace searched the machine and found a narrow tubular outlet with the word END printed on it in large letters — really hard to miss.
 
 Looked like it really was pretty much the same principle as grinding meat and stuffing sausages.
 
-By now Jace noticed a pair of glasses with purple-tinted lenses hanging below the outlet, with a slip of paper attached reading in Common: "Ghost Glasses, lent to Ghost Hunter Jack Slovak for temporary use. Four gold, twenty-two silver if damaged. Use constitutes agreement."
+By now Jace noticed a pair of glasses with purple-tinted lenses hanging below the outlet, with a slip of paper attached reading in Common: "Spectral Goggles, lent to Ghost Hunter Jack Slovakia for temporary use. Four gold, twenty-two silver if damaged. Use constitutes agreement."
 
-Ghost glasses?
+Spectral goggles?
 
 Jace picked them up and tried them on. The moment he did, his vision was completely flooded with shadow — he couldn't make out a thing clearly, couldn't even see the two demons right in front of him.
 
@@ -84,7 +84,7 @@ He grabbed the handle and heaved, grinding his teeth as he forced it around two 
 
 Jace grabbed Sazeno and stuffed him straight into the demon bag, cinching it shut. All that came out was a yelp, then nothing.
 
-He hoisted the jin-or-so-heavy device onto his back. "Morophil, watch the house for me. I'm going out for a while."
+He hoisted the device, a few pounds' weight, onto his back. "Morophil, watch the house for me. I'm going out for a while."
 
 "How long until you return, master?" Morophil asked.
 
@@ -101,16 +101,3 @@ Jace nodded, picked up his tool case and bundle, slung his staff across his back
 These days, going out with Sazeno in tow, he no longer felt much sense of crisis or psychological pressure about it.
 
 At first he'd worried the imp might be detected, afraid his Phase Shift wasn't hiding him thoroughly enough… but by now Jace had realized that even with his own demon-detecting abilities, spotting Sazeno wasn't easy. For the mages and priests around here, it would be even harder — especially since he was now quite confident in his demon-detection skills.
-
-## Flags
-
-- **死灵精华采集器5型** = Necrotic Essence Collector, Model 5 (goblin device for extracting necrotic essence from souls).
-- **巴克斯·米瑟谢尔德** = Bacchus Mithershield (goblin alchemist OC; per established project rendering).
-- **丁奇·斯迪波尔** = Dinkie Stibolt (Trade Cartel engineer OC — name tentative).
-- **希教尔·菲兹伯特** = Hilbert Fizzbert (Everlook OC — name tentative).
-- **撒厄诺** = Sazeno (Jace's imp); **莫洛菲尔** = Morophil (succubus).
-- **鲁莽诅咒** = Curse of Recklessness (warlock spell).
-- **幽灵猎手杰克·斯洛伐克** = Ghost Hunter Jack Slovak (the prior borrower; note ties Jace's alias "Jack Slovak" to the ghost-hunting trade).
-- **逆风小径** = Deadwind Pass; **黑色沼泽** = the Black Morass; **暴风城监狱塔** = the Stormwind Stockade.
-- **相位变换** = Phase Shift (imp ability); **侦测恶魔** = Detect Demons.
-- POV: third person throughout.

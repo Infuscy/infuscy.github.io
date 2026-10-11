@@ -4,7 +4,7 @@ Between the garden-like walls of Grim Batol, the red dragon queen Alexstrasza ga
 
 Around them, the entire company — Jace's group, the Wildhammer dwarves, and the red dragons — all watched in silence.
 
-Needleflame held herself as straight as possible, as if she represented not just herself but the entire black wing. She seemed less like a child brought here and more like an envoy sent by Prince Sabellian, the ruler of Draenor, to stand before the queen.
+Needleflame held herself as straight as possible, as if she represented not just herself but the entire black dragonflight. She seemed less like a child brought here and more like an envoy sent by Prince Sabellian, the ruler of Draenor, to stand before the queen.
 
 Unlike the formidable black dragons, Alexstrasza was not skilled — or rather, did not try — to hide the burning emotions within her. They simply didn't show much on the surface.
 
@@ -20,7 +20,7 @@ Her tone was remarkably serious, even rigid. It reminded Jace of how she'd been 
 
 Except back then, she'd looked like a fel beast, her Common coming out haltingly through a mouth full of jagged teeth, which took about thirty or forty percent off the gravity of it.
 
-"My father commanded me to return to Blade's Edge Mountains. But I chose to stay with the expedition, to honor my agreement with Jace Sesso and Somalliar, and to cross through the Auchindoun portal to come before you."
+"My father commanded me to return to the Blade's Edge Mountains. But I chose to stay with the expedition, to honor my agreement with Jace Sesso and Somaelir, and to cross through the Auchindoun portal to come before you."
 
 When Needleflame finished, Jace could feel that, except for the red dragon queen, most of the red dragons present were agitated.
 
@@ -40,9 +40,9 @@ Ten thousand years of betrayal. Ten thousand years of conflict and slaughter. Ap
 
 After the queen's words, Needleflame bowed her head in thought for a long time.
 
-Jace knew that Sabellian had told her some things — his perspective on the past ten thousand years and beyond. Sora had also shared some versions of events from the other dragonflights.
+Jace knew that Sabellian had told her some things — his perspective on the past ten thousand years and beyond. Sola had also shared some versions of events from the other dragonflights.
 
-Sora watched her thinking for so long, as if she wanted to speak for her, but in the end, she said nothing.
+Sola watched her thinking for so long, as if she wanted to speak for her, but in the end, she said nothing.
 
 After another moment, Needleflame finally answered, "I think... I've heard some things. But I can hardly claim to understand, Your Majesty."
 
@@ -56,13 +56,13 @@ When the queen said this, the red dragons around her understood her intent.
 
 Deathwing's offspring were either still carrying out their father's evil plans, or had hidden themselves in remote corners of the world — even in other worlds.
 
-But this one — a legitimate descendant of Deathwing who had suddenly appeared, carefully raised by him and his eldest son, superior in both power and talent to the whelps used as cannon fodder and experiments by the Blackwing — was even more precious. She had not yet been touched by dark power, still retaining the black dragons' original appearance... This was something Alexstrasza hadn't heard of since the black dragonflight's betrayal.
+But this one — a legitimate descendant of Deathwing who had suddenly appeared, carefully raised by him and his eldest son, superior in both power and talent to the whelps used as cannon fodder and experiments by the Blackwing — was even more precious. She had not yet been touched by dark power, still retaining the black dragons' original appearance... This was something Alexstrasza hadn't heard of since the Black Dragonflight's betrayal.
 
-Alexstrasza surely wanted to protect this sole sprout. Perhaps once she grew up, she could become a new Earth-Warder, nurturing a new generation of the black wing.
+Alexstrasza surely wanted to protect this sole sprout. Perhaps once she grew up, she could become a new Earth-Warder, nurturing a new generation of the black dragonflight.
 
 But could she truly bear all of that?
 
-From the moment he'd encountered this little wretch trapped by the giant spider mother in Terokkar, Jace had known that what the red dragon queen and Sora wanted was exactly this — a young dragon with the potential to become a new black dragon king.
+From the moment he'd encountered this little wretch trapped by the giant spider mother in Terokkar, Jace had known that what the red dragon queen and Sola wanted was exactly this — a young dragon with the potential to become a new black dragon king.
 
 But Jace had always seen this little dragon as a girl from an extremely troubled family. And given that background, she had still managed to retain a surprising number of precious, positive qualities. That certainly had to do with the powerful black dragon bloodline, but it couldn't be separated from her innate character either.
 
@@ -84,7 +84,7 @@ The red dragons all stirred again, wanting to whisper among themselves but afrai
 
 Jace was stunned too. Had the little thing been serious in Auchindoun? Was she really planning to stick with them?
 
-"You said, Jace Sesso." Needleflame suddenly turned around and fixed her burning yellow eyes on Jace. "You said that once we returned to Azeroth, you and Sister Sora would help me live here. That's the only reason I agreed to come with you — because I trusted her. Because I trusted you."
+"You said, Jace Sesso." Needleflame suddenly turned around and fixed her burning yellow eyes on Jace. "You said that once we returned to Azeroth, you and Sister Sola would help me live here. That's the only reason I agreed to come with you — because I trusted her. Because I trusted you."
 
 Jace guiltily glanced up at the red dragon queen's expression and felt that, in the eyes of the red dragons, he must look like a man caught red-handed in child abduction.
 
@@ -100,7 +100,7 @@ Jace guiltily glanced up at the red dragon queen's expression and felt that, in 
 
 "Then you must keep your word." Alexstrasza said. "You should not... betray her trust."
 
-Jace hadn't expected the red dragon queen to let her leave and come with him. Sora looked up, visibly moved — clearly, she too had grown attached to the little one.
+Jace hadn't expected the red dragon queen to let her leave and come with him. Sola looked up, visibly moved — clearly, she too had grown attached to the little one.
 
 Jace wasn't the only one surprised. Korialstrasz clearly didn't understand why the queen was taking this risk either.
 
@@ -108,9 +108,9 @@ Jace wasn't the only one surprised. Korialstrasz clearly didn't understand why t
 
 Jace let out a quiet sigh and smiled at the little black dragon. "I thought you'd like it here, Needleflame. You hate Stormwind so much."
 
-"I do hate Stormwind, Jace Sesso." Needleflame snorted a puff of black soot at him from her nostrils, coating his face, then lifted her chin to look at the green dragon beside her. "Take me to see more places, Sister Sora. I believe Azeroth has more to offer than just Stormwind!"
+"I do hate Stormwind, Jace Sesso." Needleflame snorted a puff of black soot at him from her nostrils, coating his face, then lifted her chin to look at the green dragon beside her. "Take me to see more places, Sister Sola. I believe Azeroth has more to offer than just Stormwind!"
 
-"I will, Needleflame." Sora said, leaning in a little closer to the small black dragon.
+"I will, Needleflame." Sola said, leaning in a little closer to the small black dragon.
 
 Jace brushed the ash from his hair and watched a green dragon and a black dragon nestling together before the red dragon queen. Even by Azeroth's standards, this was fantastical enough.
 
@@ -122,6 +122,6 @@ Just then, he felt a vague echo of a voice deep in his heart.
 
 *— I love this child, Jace Sesso. From the first moment I saw her... from the moment I felt her arrive at Grim Batol and spew her first glob of molten slag, I knew she was special. So even if she never lives up to the dragon leaders' expectations of her, if she can grow up peacefully — free from interference — as Neltharion's descendant, I will be satisfied.*
 
-At that moment, the dwarves, the elves, and the red dragons — including the prince — were all watching Sora and Needleflame. Only Alexstrasza fixed her fiery eyes on Jace.
+At that moment, the dwarves, the elves, and the red dragons — including the prince — were all watching Sola and Needleflame. Only Alexstrasza fixed her fiery eyes on Jace.
 
 *I understand, Your Majesty,* Jace thought.

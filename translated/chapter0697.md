@@ -46,13 +46,13 @@ Wasn't that Kalecgos, the blue dragon?
 
 Jace stole a careful look at the hair hidden beneath the hood and saw it was an unnaturally deep blue.
 
-Kalecgos might not have been the most powerful among the dragons, but he was certainly a brave and trustworthy mage. Which was precisely why, after Malygos completely lost his mind and tried to destroy the world and was finally slain by the allied forces, Kalecgos inherited the Aspect's power and became the new Guardian of Magic.
+Kalecgos might not have been the most powerful among the dragons, but he was certainly a brave and trustworthy mage. Which was precisely why, after Malygos completely lost his mind and tried to destroy the world and was finally slain by the allied forces, Kalecgos inherited the Aspect's power and became the new Aspect of Magic.
 
-As he spoke, Kalec unfastened from his waist a longsword wrapped in an elegant blue scabbard and slowly drew it free. When Jace saw the sapphire set into the pommel and crossguard, he recognized it at once — it was that very…
+As he spoke, Kalec unfastened from his belt a longsword wrapped in an elegant blue scabbard and slowly drew it free. When Jace saw the sapphire set into the pommel and crossguard, he recognized it at once — it was that very…
 
-"Song of the Blue?" Vereesa exclaimed. "It's been repaired?"
+"Azuresong?" Vereesa exclaimed. "It's been repaired?"
 
-"My master restored it," Kalec said. "He was most wroth at Song of the Blue's destruction. He gave us a proper dressing-down over it, and reproached Quel'Thalas for leaving this sword in the hands of a mortal who tried to… stab that thing with it."
+"My master restored it," Kalec said. "He was most wroth at Azuresong's destruction. He gave us a proper dressing-down over it, and reproached Quel'Thalas for leaving this sword in the hands of a mortal who tried to… stab that thing with it."
 
 Jace recalled it — using a dragon-forged weapon to stab the dragons' bane had probably been a bit too stupid. But at the time, he truly hadn't had any other choice.
 
@@ -62,7 +62,7 @@ Jace recalled it — using a dragon-forged weapon to stab the dragons' bane had 
 
 "After all, he personally reforged this sword, and he all but forced me to hurry up and be rid of it. I took that to mean he wanted me to return it to you. And so I have come."
 
-So saying, Kalec drew Song of the Blue fully free, and Jace realized the blade was no longer anything like it had been before.
+So saying, Kalec drew Azuresong fully free, and Jace realized the blade was no longer anything like it had been before.
 
 It was still silver, but it no longer seemed to be pure metal — the edges were even slightly transparent. Jace could hardly tell whether this was a trick of the material's refraction, the work of magic, or some combination of both.
 
@@ -70,7 +70,7 @@ Kalec seemed to read Jace's doubts. He lightly touched the blade with his finger
 
 "The Spell-Weaver's scale?" Jace asked in surprise.
 
-"Correct. Song of the Blue is no ordinary enchanted sword, and the manner of its destruction was no ordinary matter. There was no other good way to reforge it. My master used his own scales to replace the original blade and bound the entire sword together with magic to achieve what is, on the whole, a passable result."
+"Correct. Azuresong is no ordinary enchanted sword, and the manner of its destruction was no ordinary matter. There was no other good way to reforge it. My master used his own scales to replace the original blade and bound the entire sword together with magic to achieve what is, on the whole, a passable result."
 
 "Passable?" Vereesa said. "I think it's far more powerful than before."
 
@@ -100,13 +100,13 @@ He turned and left. Vereesa watched him go, murmuring, "His brothers and sisters
 
 Though he was answering Vereesa's question, Jace's thoughts were on Northrend.
 
-Had the blue dragons not noticed Ner'zhul's spirit-ice falling into Northrend? Perhaps they simply hadn't detected it — otherwise the Lich King could never have developed in secret in Northrend for so many years until the situation became unmanageable.
+Had the blue dragons not noticed the ice that imprisoned Ner'zhul's spirit falling into Northrend? Perhaps they simply hadn't detected it — otherwise the Lich King could never have developed in secret in Northrend for so many years until the situation became unmanageable.
 
 Perhaps penetrating deep into the frozen mountains of northern Northrend was an extraordinarily difficult undertaking. The blue dragons were weak in numbers at present, and the Spell-Weaver's mind was not entirely sound. Rashly investigating the Lich King's existence might bring even more terrible consequences.
 
 After all, the Scourge's great aerial power — the frost wyrms — drew their primary source from the corpses of blue dragons.
 
-Vereesa held Song of the Blue upright before her, listening to the faint, musical hum it gave off. "I thought this sword might never be as beautiful as it once was. I never expected it to be even more beautiful than before."
+Vereesa held Azuresong upright before her, listening to the faint, musical hum it gave off. "I thought this sword might never be as beautiful as it once was. I never expected it to be even more beautiful than before."
 
 "I'll take good care of it," Jace said.
 

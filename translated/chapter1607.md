@@ -2,37 +2,37 @@
 
 This was the first time Jace had returned to the vicinity of the Dark Iron gate since bringing Grede and the others into Shadowforge City.
 
-Compared to the lecture hall near the Molten Core, the palace, and the Hall of Magic, the Dark Iron gate, the massive walls nearby, and the Ironrage barracks had suffered less damage. People still filled the streets — miners, laborers hauling stone, merchants, and groups of Ironrage soldiers coming and going. But the red-clad Flamekeepers, once a common sight, were gone.
+Compared to the Lyceum near the Molten Core, the palace, and the Hall of Magic, the Dark Iron gate, the massive walls nearby, and the Anvilrage barracks had suffered less damage. People still filled the streets — miners, laborers hauling stone, merchants, and groups of Anvilrage soldiers coming and going. But the red-clad pyromancers, once a common sight, were gone.
 
-Jace had heard that some Flamekeepers had chosen to betray the Fire Lord in time, joining Thaurissan's faction to escape death. But even for the survivors, the entire organization of Flamekeepers — built on the Temple of Thaurissan and devoted to Ragnaros — had been completely destroyed.
+Jace had heard that some pyromancers had chosen to betray the Firelord in time, joining Thaurissan's faction to escape death. But even for the survivors, the entire organization of pyromancers — built on the Shrine of Thaurissan and devoted to Ragnaros — had been completely destroyed.
 
 Another enormous change was that the Dark Iron gate was nowhere near as hot or as bright as it had been during his last visit. Jace could even feel gusts of chill air blowing in from the mines outside.
 
-Belgar was dead — the molten giant who had guarded the Dark Iron gate for who knows how many years, struck down by the Bronzebeard and Wildhammer dwarves charging through, on a bridgehead not far behind the gate. All that remained was rubble too messy to clean up. The larger chunks had already been carted off by construction workers to repair damaged buildings.
+Bael'Gar was dead — the molten giant who had guarded the Dark Iron gate for who knows how many years, struck down by the Bronzebeard and Wildhammer dwarves charging through, on a bridgehead not far behind the gate. All that remained was rubble too messy to clean up. The larger chunks had already been carted off by construction workers to repair damaged buildings.
 
-The Flamewarders that once ruled the streets of Shadowforge City had vanished with them. Now, patrolling near the city gate alongside the Ironrage soldiers was a group of dwarves in tawny-red armor — the Anvilrage Guard.
+The pyromancers that once ruled the streets of Shadowforge City had vanished with them. Now, patrolling near the city gate alongside the Anvilrage soldiers was a group of dwarves in tawny-red armor — the Doomforge Guard.
 
-Some members of the Anvilrage or Ironrage saluted Jace as he passed, calling out his name in respect. Some Shadowforge citizens who knew what had really happened in the Molten Core waved from a distance, good-naturedly teasing the burns Ragnaros had left on Jace that hadn't yet healed.
+Some members of the Doomforge or Anvilrage saluted Jace as he passed, calling out his name in respect. Some Shadowforge citizens who knew what had really happened in the Molten Core waved from a distance, good-naturedly teasing the burns Ragnaros had left on Jace that hadn't yet healed.
 
 But not everyone was friendly. Not everyone understood the struggle that had shaken all of Blackrock Mountain not long ago.
 
-Jace could sense that some Shadowforge citizens in the streets showed little joy at having just thrown off their chains. Their expressions were nothing like the tidal wave of enthusiasm Jace had felt on the bridge at the Anvil of the Dark Iron.
+Jace could sense that some Shadowforge citizens in the streets showed little joy at having just thrown off their chains. Their expressions were nothing like the tidal wave of enthusiasm Jace had felt on the bridge at the Black Anvil.
 
 Some of them had lost family and friends in the fighting. Maybe their homes had been destroyed, leaving them homeless.
 
-But a considerable number had probably lived stable lives under Ragnaros's reign of terror. Even with the Blackrock orcs blockading them and the threat of Black Dragons looming, they knew that as long as the Molten Core and Ragnaros's fiery legions lurked in Shadowforge City's depths, the armies of Blackrock Spire wouldn't dare breach their city.
+But a considerable number had probably lived stable lives under Ragnaros's reign of terror. Even with the Blackrock orcs blockading them and the threat of black dragons looming, they knew that as long as the Molten Core and Ragnaros's fiery legions lurked in Shadowforge City's depths, the armies of Blackrock Spire wouldn't dare breach their city.
 
 Now Ragnaros was gone. The flames they'd known for over a century were destroyed. Everything was uncertain. In a way, Jace could understand their tension.
 
-Thaurissan surely understood this palpable mood hanging over the city. That was why reclaiming Blackrock Spire from the Black Dragons and orcs as soon as possible — restoring the Dark Iron dwarves' complete territory, easing everyone's fears, and bringing hope to Blackrock Mountain's future — had become all the more critical.
+Thaurissan surely understood this palpable mood hanging over the city. That was why reclaiming Blackrock Spire from the black dragons and orcs as soon as possible — restoring the Dark Iron dwarves' complete territory, easing everyone's fears, and bringing hope to Blackrock Mountain's future — had become all the more critical.
 
 Leaving Shadowforge City and entering the mine tunnels, Vaelastrasz was waiting for him at the entrance of an abandoned mining pit they'd agreed upon.
 
-"Good afternoon, Sesso." The red dragon glanced at Morophil beside him. "You and your demon servant are a little late. I hope you've saved some energy to climb out of Blackrock Mountain with me. I should warn you, the Chamber of the Ironforge looks a bit different from when you last saw it."
+"Good afternoon, Sesso." The red dragon glanced at Morophil beside him. "You and your demon servant are a little late. I hope you've saved some energy to climb out of Blackrock Mountain with me. I should warn you, the Molten Span looks a bit different from when you last saw it."
 
 "Is the path to Blackrock Spire damaged?" Jace asked.
 
-"No, not that," Vaelastrasz said. "But don't send the main force through the front of Blackrock Spire. The Blackrock orcs have set up heavy defenses there. Forcing a breach would be costly. Blackrock Spire itself has been damaged many times over the decades — from the orcs, to the Black Dragons, to Anduin Lothar's Alliance army, which was about ten years ago. There are already multiple breaches. You can attack from the slopes of Blackrock Mountain, or enter the lower reaches of Blackrock Spire through fissures in the earth."
+"No, not that," Vaelastrasz said. "But don't send the main force through the front of Blackrock Spire. The Blackrock orcs have set up heavy defenses there. Forcing a breach would be costly. Blackrock Spire itself has been damaged many times over the decades — from the orcs, to the black dragons, to Anduin Lothar's Alliance army, which was about ten years ago. There are already multiple breaches. You can attack from the slopes of Blackrock Mountain, or enter the lower reaches of Blackrock Spire through fissures in the earth."
 
 "I'm drawing up a rough terrain map of the lower Spire after the Molten Core explosion. I'll share it with the Alliance commanders to help you besiege the place from multiple directions."
 
@@ -54,7 +54,7 @@ Even though Nefarian's circumstances and the timing of the Alliance assault on B
 
 "Honestly, I don't know anything specific either, but..."
 
-Jace didn't know how to tell Vaelastrasz about something that hadn't happened yet. Finally, all he could say was, "Regardless, be careful, Vaelastrasz. If you ever feel like the Black Dragon Prince is starting to suspect something, don't hesitate — leave Blackrock Spire immediately and rendezvous with us. Don't take risks tangling with that bastard."
+Jace didn't know how to tell Vaelastrasz about something that hadn't happened yet. Finally, all he could say was, "Regardless, be careful, Vaelastrasz. If you ever feel like the black dragon prince is starting to suspect something, don't hesitate — leave Blackrock Spire immediately and rendezvous with us. Don't take risks tangling with that bastard."
 
 Vaelastrasz looked at him for a moment. "If a young red dragon said that to me, I'd think he was underestimating my abilities. But coming from you... I'll remember it, Sesso. I know a lot of warlocks can sense strange things in the shadows. Prince Nefarian is a powerful shadow manipulator, and so are you. So I'll trust your instincts."
 
@@ -68,9 +68,9 @@ Vaelastrasz looked at him for a moment. "If a young red dragon said that to me, 
 
 "You're an old dragon — I mean, compared to those whelps," Jace said. "So I figured you might be knowledgeable about these things."
 
-"The Wizard Sanctum didn't deny you advancement to full mage, did it? And now you're running to me for help with a dragonfolk research report, hoping to score extra credit?" Vaelastrasz asked.
+"The Wizard's Sanctum didn't deny you advancement to full mage, did it? And now you're running to me for help with a dragonfolk research report, hoping to score extra credit?" Vaelastrasz asked.
 
-"You know more than I thought." Jace said. "But you're underestimating me. Master Andormas agreed I could advance to full mage ages ago. I just never got around to going through the process."
+"You know more than I thought." Jace said. "But you're underestimating me. Master Andromath agreed I could advance to full mage ages ago. I just never got around to going through the process."
 
 "The process?" Vaelastrasz smirked. "From what I know, there have been many cases of dragons associating with mortals. But most of them involve Ysera's children and the Kaldorei, or the Spell-Weaver's offspring and the Quel'dorei. Others... even if they happened, probably didn't get recorded, you know, because of the lifespan difference. But there are exceptions. Rumor has it that Aegwynn and Lord Arcanagos had a relationship beyond friendship. But it's just rumor."
 
@@ -102,9 +102,9 @@ The bodies looked like they'd been burned, but not completely. They still wore a
 
 "Yes." Vaelastrasz nodded. "Someone's tampered with them using necromancy."
 
-"Is it the Black Dragon's necromancy? Nefarian?" Jace asked.
+"Is it the black dragon's necromancy? Nefarian?" Jace asked.
 
-"It's Black Dragon magic, but not necessarily done by a Black Dragon," Vaelastrasz explained. "Many high-ranking Blackrock clan warlocks have learned shadow magic and basic necromancy from Nefarian. Hard to say who did it."
+"It's black dragon magic, but not necessarily done by a black dragon," Vaelastrasz explained. "Many high-ranking Blackrock clan warlocks have learned shadow magic and basic necromancy from Nefarian. Hard to say who did it."
 
 "It's possible the Black Dragonflight has caught wind of the Alliance's movements and plans to use a necrotic plague to hinder our advance."
 

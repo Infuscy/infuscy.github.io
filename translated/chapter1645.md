@@ -4,7 +4,7 @@
 
 "Stop those demons! Don't let them disrupt the Kirin Tor's spellcasting!" "Right flank! Right flank!"
 
-Shouts in Thalassian, Common, and Dwarven exploded around them. The gryphons that had been wheeling through the sky, dodging breath attacks and hunting whelps, banked hard and dove toward the canyon.
+Shouts in Thalassian, Common, and Dwarvish exploded around them. The gryphons that had been wheeling through the sky, dodging breath attacks and hunting whelps, banked hard and dove toward the canyon.
 
 More and more shadows gathered beneath the dark tower. The scraping of felhound claws on volcanic rock had grown too dense to ignore. The first felhound had already lunged onto the mages' high slope.
 
@@ -44,13 +44,13 @@ A massive shadow fell over the battlefield. Several gryphons instinctively veere
 
 A booming voice came from within the mist. The felhounds running loose seemed to lose their wits instantly — they did not know who to attack or where to run. Even many felguards hesitated, looking up and muttering something. Several demons were run through in that moment of distraction by the pressing Alliance soldiers and fell screeching.
 
-Kar'lez's massive hooves slammed down onto a hilltop. The impact was so strong that even Midnight, a hundred meters away, faltered a step before steadying itself. The demon lord's hand ignited with fel fire, and the countless demons before him roared along with the flame in his grasp.
+Kallrez's massive hooves slammed down onto a hilltop. The impact was so strong that even Midnight, a hundred meters away, faltered a step before steadying itself. The demon lord's hand ignited with fel fire, and the countless demons before him roared along with the flame in his grasp.
 
-The sound made Kar'lez laugh. He had not even unleashed a devastating spell yet. Before their eyes, many felhounds turned around and began tearing into their own kind. Some even attacked the felguards. In an instant, the situation had completely reversed. Even Sazeno, clinging to Jace's belt, trembled in fear.
+The sound made Kallrez laugh. He had not even unleashed a devastating spell yet. Before their eyes, many felhounds turned around and began tearing into their own kind. Some even attacked the felguards. In an instant, the situation had completely reversed. Even Sazeno, clinging to Jace's belt, trembled in fear.
 
 But the demon lord's pressure did not only affect demons. Some Alliance soldiers could not bear it either. When they saw the giant silhouette on the heights, with its terrifying eyes and massive wings, their blood ran cold. Still, the demon's arrival had broken the stalemate. Most of them took a deep breath, got their bearings, and plunged back into the fight.
 
-This was exactly what Jace had expected. Kar'lez was a walking domination rune — no, he was far more powerful than any domination rune Jace possessed. As long as he was here, the demons the orc warlocks had hastily summoned could not be sure who to obey.
+This was exactly what Jace had expected. Kallrez was a walking Domination Sigil — no, he was far more powerful than any Domination Sigil Jace could draw. As long as he was here, the demons the orc warlocks had hastily summoned could not be sure who to obey.
 
 But Jace's preparations were not finished. He had been holding Ulthalesh high and chanting for some time. Countless souls from felhounds, felguards, and other Mo'arg demons were streaming into Ulthalesh without pause. Around Midnight, the air was filled with the screeching of demon souls. Even Alleria, up ahead, turned her head uneasily at the sound.
 
@@ -58,15 +58,15 @@ Beneath the black sky, shadow serpents had been slithering unnoticed for a long 
 
 His chant continued. But Midnight felt its master's intent and lifted its forelegs, galloping toward Blackrock Spire's cliff face.
 
-"Hope you don't waste those delicious souls, Jace Sesso!" Kar'lez laughed in Demonic, watching the rider below trail green fire.
+"Hope you don't waste those delicious souls, Jace Sesso!" Kallrez laughed in Demonic, watching the rider below trail green fire.
 
 The demon lord should have joined the fight against the felguards himself. But instead of crushing them personally, he seemed to prefer watching demons submit to him tear each other apart in defiance.
 
 Jace could not afford to think about that now. His attention was fixed on the shadow serpents coiling overhead, his mouth reciting the revised incantation earnestly. He had been at it for a while and had no time for other commands.
 
-This was the first time he was using Khadgar's revised spell in actual combat — and at this scale. Kar'lez's appearance had indirectly helped him gather more and stronger demon souls. That was enough.
+This was the first time he was using Khadgar's revised spell in actual combat — and at this scale. Kallrez's appearance had indirectly helped him gather more and stronger demon souls. That was enough.
 
-The strange serpents in the sky gathered thicker and thicker, finally coalescing under the pull of a dominant shadow force, their mana igniting like lit gunpowder. Even Kar'lez noticed the cloud-like dark energy gathering, and his grinning mouth slowly fell.
+The strange serpents in the sky gathered thicker and thicker, finally coalescing under the pull of a dominant shadow force, their mana igniting like lit gunpowder. Even Kallrez noticed the cloud-like dark energy gathering, and his grinning mouth slowly fell.
 
 Without anyone quite noticing, a howling dark meteor was already flying toward the windows and cracks in Blackrock Spire. Soldiers and demons alike looked up at the sound, only then aware of the dark thing's presence.
 
@@ -80,18 +80,18 @@ A group of doomguards appeared out of nowhere, laughing maniacally as they drove
 
 Other windows fell into chaos too. Defenders had no choice but to pull back toward the breach to block this inexplicable demon war band from entering. With that, no more whelps could fly out, and no more summoned felhounds emerged.
 
-Galen Trollbane gripped his sword and stared at the scene, shocked into not blinking. Alleria, who had been notching an arrow to shoot, slowly lowered her bowstring, her eyes trembling slightly with the flicker of shadowy fel flames.
+Galen Trollbane gripped his sword and stared at the scene, shocked into not blinking. Alleria, who had been nocking an arrow to shoot, slowly lowered her bowstring, her eyes trembling slightly with the flicker of shadowy fel flames.
 
 "Well done, Jace Sesso! Great minds think alike!" Khadgar hollered from above, laughing despite maintaining his spell.
 
 Jace looked up at him and managed a dry laugh. Then he took a deep breath, tugged the reins, and glanced back at Varian Wrynn, who had just cut down a felhound. The look on the king's face was something like "I knew you were crazy, but I didn't know you were this crazy."
 
-The king's surprise did not last long, because the soldiers further off were already roaring with excitement. The gryphon riders overhead were shouting "Victory!" in Dwarven without restraint.
+The king's surprise did not last long, because the soldiers further off were already roaring with excitement. The gryphon riders overhead were shouting "Victory!" in Dwarvish without restraint.
 
-"What a rush, great Master!" Sazeno laughed, watching a gryphon streak past overhead. "Let these mortals see what's what! Too bad Morofil didn't get to see it!"
+"What a rush, great Master!" Sazeno laughed, watching a gryphon streak past overhead. "Let these mortals see what's what! Too bad Morophil didn't get to see it!"
 
 "Who says she didn't?" Jace chuckled.
 
-"Huh? I bet the mana trail through the soul link was disgustingly ugly..." The imp spat a few times.
+"Huh? I bet the mana trail through the Soul Link was disgustingly ugly..." The imp spat a few times.
 
-The ogres at the gate had gone quiet. The Silver Hand knights had cut down the last of the stupid brutes and were pushing through the doorway. At the same time, a series of explosions echoed from deep within Blackrock Mountain. Dagran Thaurissan's soldiers must have launched their attack on the Spire's defenders from the Ironforge Crypt.
+The ogres at the gate had gone quiet. The Silver Hand knights had cut down the last of the stupid brutes and were pushing through the doorway. At the same time, a series of explosions echoed from deep within Blackrock Mountain. Dagran Thaurissan's soldiers must have launched their attack on the Spire's defenders from Forgewright's Tomb.

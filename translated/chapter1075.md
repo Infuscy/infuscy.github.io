@@ -1,30 +1,32 @@
 ## Chapter 1075: The Sleepless Sleeper
 
-Jace leaned over and asked, "What, can't the Guardian of the Dream sleep either?"
+Jace leaned over and asked, "What, can't the Dream Guardian sleep either?"
 
-Morfil laughed at that, but Sola didn't. Her expression only grew more complicated. "Sorry, I didn't mean to interrupt you two."
+Morophil laughed at that, but Sola didn't. Her expression only grew more complicated. "Sorry, I didn't mean to interrupt you two."
 
-"Perfect timing — we'd just about finished our chat, Lady Green Dragon," Morfil said. "You go back and keep an eye on them, Morfil," Jace said.
+"Perfect timing — we'd just about finished our chat, Lady Green Dragon," Morophil said.
 
-Morfil nodded lightly, acknowledged Sola with a nod, and walked back to the stone shelter entrance.
+"You go back and keep an eye on them, Morophil," Jace said.
 
-Sola watched her leave. Jace asked, "Did my voice talking with Morfil wake you?"
+Morophil nodded lightly, acknowledged Sola with a nod, and walked back to the stone shelter entrance.
 
-"No." Sola waved a hand. "I couldn't hear anything from inside. I just hadn't been sleeping much at all, and when I saw you and Morfil weren't there, I came out to see if something was going on."
+Sola watched her leave. Jace asked, "Did my voice talking with Morophil wake you?"
+
+"No." Sola waved a hand. "I couldn't hear anything from inside. I just hadn't been sleeping much at all, and when I saw you and Morophil weren't there, I came out to see if something was going on."
 
 "Sorry, Sola," Jace said. "I was just joking around a minute ago."
 
-Have to say, Sola's pair of glittering snake eyes on that high-elven face in the rainy night did look a bit unsettling. She looked over here, hesitated a moment, then said, "I have been thinking about the Guardian of the Dream business, Jace."
+It had to be said, Sola's pair of glittering snake eyes on that high-elven face in the rainy night did look a bit unsettling. She looked over here, hesitated a moment, then said, "I have been thinking about the Dream Guardian business, Jace."
 
-She glanced at the iron chain around Jace's neck. "I think I deceived Prince Eranikus. He can't see the Will-Chain, can't sense it, and he credited the power that helped me resist Hakkar's mental corruption to me instead. When he returns to the Emerald Dream and regains his flesh under the Dream's power, he'll tell Queen Ysera about it — and at that point I'll have essentially deceived the entire green dragonflight. But I can't tell them about the Will-Chain either."
+She glanced at the iron chain around Jace's neck. "I think I deceived Prince Eranikus. He can't see the Chain of Will, can't sense it, and he credited the power that helped me resist Hakkar's mental corruption to me instead. When he returns to the Emerald Dream and regains his flesh under the Dream's power, he'll tell Queen Ysera about it — and at that point I'll have essentially deceived the entire Green Dragonflight. But I can't tell them about the Chain of Will either."
 
-"The Will-Chain has indeed helped you a lot." Jace nodded. "But to say you've made no progress, that you'd have no resistance at all without the Will-Chain — that's underestimating yourself."
+"The Chain of Will has indeed helped you a lot." Jace nodded. "But to say you've made no progress, that you'd have no resistance at all without the Chain of Will — that's underestimating yourself."
 
-He looked into Sola's eyes. "When Eranikus was corrupted, you didn't blindly follow his orders, the way those juvenile dragons he forced to feed on Hakkar's avatar did. The Will-Chain played no part in that process at all — that wasn't mental domination magic, that was something in your blood. In a way, resisting the thing flowing in your own blood… is harder than resisting mental magic. It requires a clearer mind, a stronger will."
+He looked into Sola's eyes. "When Eranikus was corrupted, you didn't blindly follow his orders, the way those drakes he forced to feed on Hakkar's avatar did. The Chain of Will played no part in that process at all — that wasn't mental domination magic, that was something in your blood. In a way, resisting the thing flowing in your own blood… is harder than resisting mental magic. It requires a clearer mind, a stronger will."
 
 "I don't know…" Sola said softly.
 
-"At least the magic that entered the Emerald Vault says more about the situation." Jace said. "If you don't believe a demon warlock like me, then the seal Eranikus himself created while sane — the one that blocks corrupted green dragons from the vault — should at least be more credible, right? You weren't wearing the Will-Chain then. You're not the same as you were before, Sola. You just lack confidence."
+"At least the magic that let you into the Emerald Vault speaks for itself." Jace said. "If you don't believe a demon warlock like me, then the seal Eranikus himself created while sane — the one that blocks corrupted green dragons from the vault — should at least be more credible, right? You weren't wearing the Chain of Will then. You're not the same as you were before, Sola. You just lack confidence."
 
 Sola crouched against the nearby wall and nodded. "I've always remembered what you told me, Jace — about emotions. Let go of the burden, and do whatever makes you happy and relaxed. As long as you do that, sooner or later you'll break free of the Nightmare's corruption…"
 
@@ -46,21 +48,21 @@ Sola gave a small laugh. "But since I've recovered, yet I'm not planning to retu
 
 "Uh, the bow?" Sola looked up, then after a moment remembered what she'd agreed to earlier.
 
-"Lady Onyxia's tendon… hmm, I know. Once I deliver the gem to Moonglade with Grede, I'll ask the guardians there about it."
+"Lady Onyxia's sinew… hmm, I know. Once I deliver the gem to Moonglade with Grede, I'll ask the guardians there about it."
 
 Jace nodded. "I'll be waiting for your good news."
 
-"Do you think I could become a Guardian of the Dream?" Sola asked.
+"Do you think I could become a Dream Guardian?" Sola asked.
 
-Jace said quickly, "Don't ask me — I'm not a green dragon, I don't know anything about Guardians of the Dream…"
+Jace said quickly, "Don't ask me — I'm not a green dragon, I don't know anything about Dream Guardians…"
 
-The so-called Guardians of the Dream — or Queen Ysera's protectors — were most famously the four watchers of the Dream Gates, including Sola's "adoptive mother" and sister, Yseramong other powerful adult green dragons.
+The so-called Dream Guardians — or Queen Ysera's protectors — were most famously the four watchers of the Dream Gates, including Sola's "adoptive mother" and sister, Ysondre, among other powerful adult green dragons.
 
 Not a single one of those four green dragons had escaped falling in the subsequent spread of Dream corruption, becoming the vanguard of the Nightmare's spread into Azeroth. Even after being killed, purified, and saved, they fell once again as the Nightmare deepened further, until they sank into a point of no return.
 
 Given all this mess, naturally Jace had no desire to set Sola on this path that hadn't even happened yet — but if this really was Sola's wish, he couldn't very well say anything.
 
-"It's the dream of every juvenile dragon — to become one of Queen Ysera's personal guard, to accompany her in the golden temple, as beautiful and flourishing as eternal divine emissaries." Sola said softly. "But somehow, ever since I met all of you, I've increasingly felt that this dream is so pale… even when it's right in front of me, it feels as unreachable and empty as something beyond my touch."
+"It's the dream of every young dragon — to become one of Queen Ysera's personal guard, to accompany her in the golden temple, as beautiful and flourishing as eternal divine emissaries." Sola said softly. "But somehow, ever since I met all of you, I've increasingly felt that this dream is so pale… even when it's right in front of me, it feels as unreachable and empty as something beyond my touch."
 
 The rain outside the stone ledge beat against the cold outer walls of the Temple of Atal'Hakkar. The green dragon's voice was impossibly clear and ethereal, yet it cut through the curtain of rain so easily it felt almost unreal.
 
@@ -70,4 +72,4 @@ The rain outside the stone ledge beat against the cold outer walls of the Temple
 
 "Of course, I can set out anytime — it just depends on when those two wake up." Sola said this as she stood and straightened her dress.
 
-Don't know how, but the hair and green clothes that had been soaked by the water earlier were now as dry as if they'd never touched water at all — that's the convenience of magic-made things.
+Somehow, the hair and green clothes that had been soaked by the water earlier were now as dry as if they'd never touched water at all — that's the convenience of magic-made things.

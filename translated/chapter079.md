@@ -14,7 +14,7 @@ But now he was a seventeen-year-old youth. No matter who he used to be, this bod
 
 Sometimes he even felt that his thoughts and desires were being influenced in return by this body.
 
-Not to mention that Ursula Delyn, surrounded by steam, with her damp skin looking more like a teenage girl's, plus her slim but slightly muscular figure, standing there with her hand on her hip so completely unguarded...
+Not to mention that Ursula Deline, surrounded by steam, with her damp skin looking more like a teenage girl's, plus her slim but slightly muscular figure, standing there with her hand on her hip so completely unguarded...
 
 After all, this wasn't a cyber world where you could find all sorts of strange resources at the click of a button. Still, Jace tried his best not to dwell on such things — he was here for help, and if she noticed his gaze and took him for some creep, that would be disastrous.
 
@@ -32,9 +32,9 @@ Jace gave an awkward laugh. "But I really haven't brewed any potions to speak of
 
 Watching this alchemist who could rattle off mana potion recipes from memory, Jace suddenly thought of a question.
 
-"By the way, Ms. Ursula Delyn — is there a potion that can cure bat venom?" Jace asked.
+"By the way, Ms. Ursula Deline — is there a potion that can cure bat venom?" Jace asked.
 
-"Bat venom?" Ursula scooped up a bit of potion with her spoon, tasted it lightly, turned the heat down a little, sat in the chair beside her, and looked over. "What bat? The poison mist bats of Southshire?"
+"Bat venom?" Ursula scooped up a bit of potion with her spoon, tasted it lightly, turned the heat down a little, sat in the chair beside her, and looked over. "What bat? The poison mist bats of South Elwynn?"
 
 Jace said, "The riding bats of the Amani forest trolls, from the Hinterlands. Do you know anything about that venom?"
 
@@ -56,7 +56,7 @@ But Ursula's words did give him a bit of hope — maybe Grede's disability reall
 
 "Looks like that needs more long-term planning. Let's get back to the mana potions."
 
-Ursula nodded. "I have two fairly standard recipes here. One is the Minor Mana Potion commonly used by beginning mages; the other is the Lesser Mana Potion commonly used by more advanced, skilled mages. Which one were you after? As warlocks, we don't cast as frequently as those conjurers at the Wizard Sanctum, so I'd say the minor potion is a fine choice — because the stranglekelp needed for the lesser potion grows in the sea, and for ordinary people it's genuinely hard to harvest, and the price isn't cheap either."
+Ursula nodded. "I have two fairly standard recipes here. One is the Minor Mana Potion commonly used by beginning mages; the other is the Lesser Mana Potion commonly used by more advanced, skilled mages. Which one were you after? As warlocks, we don't cast as frequently as those conjurers at the Wizard's Sanctum, so I'd say the minor potion is a fine choice — because the stranglekelp needed for the lesser potion grows in the sea, and for ordinary people it's genuinely hard to harvest, and the price isn't cheap either."
 
 Jace said, "Let's start with the minor one then."
 
@@ -74,19 +74,19 @@ Jace was about to leave when Ursula called out to him. "Oh, right, Jace — if y
 
 Jace asked, "What news?"
 
-Ursula explained, "The patrols at Westfall Keep found murlocs on the northern coast who have mastered dark magic — they can manipulate Shadow... attacking passersby, including soldiers. I suspect those murlocs most likely learned their magic from orc warlocks. Perhaps they have books recording incantations, and have grasped the techniques of casting — or at the very least, they've heard incantations from orcs."
+Ursula explained, "The patrols at Westbrook Garrison found murlocs on the northern coast who have mastered dark magic — they can manipulate Shadow... attacking passersby, including soldiers. I suspect those murlocs most likely learned their magic from orc warlocks. Perhaps they have books recording incantations, and have grasped the techniques of casting — or at the very least, they've heard incantations from orcs."
 
 "I originally wanted to go see what these murlocs can actually do — it might enrich our grimoire of incantations. But as you know, I still have plenty of potions to brew, and I haven't had the chance. Could you go scout out the situation? If it turns out to be some new spell, maybe you can find a few willing companions to go together and see how they learned it."
 
 "I could. But — a grimoire of incantations?" Jace asked. "We have something like that?"
 
-"Of course," Ursula said. "Our circle is a circle that values sharing — anyone can consult the grimoire. But most of what's in it is ineffective incantations — a lot of guesswork, hearsay, or things recorded by ear in a muddled fashion. It's kept by Galdus. Don't expect to find anything good in it on your own. Gagin sometimes calls us all together just to test whether the incantations in it actually work, including when you first..."
+"Of course," Ursula said. "Our circle is a circle that values sharing — anyone can consult the grimoire. But most of what's in it is ineffective incantations — a lot of guesswork, hearsay, or things recorded by ear in a muddled fashion. It's kept by Zardeth. Don't expect to find anything good in it on your own. Gakin sometimes calls us all together just to test whether the incantations in it actually work, including when you first..."
 
-After hearing Marin's explanation of casting techniques, Jace realized just how dangerous these inaccurate incantations and casting methods were — and the appeal of these muddled, secondhand collections had faded considerably.
+After hearing Malin's explanation of casting techniques, Jace realized just how dangerous these inaccurate incantations and casting methods were — and the appeal of these muddled, secondhand collections had faded considerably.
 
-Ursula said, "Whatever you find, you must come show it to me first when you get back. Westfall Keep doesn't want the local inhabitants knowing that murlocs have learned this kind of magic — after all, the news that murlocs have learned orc magic is pretty alarming. I only managed to learn of it through heavy secrecy."
+Ursula said, "Whatever you find, you must come show it to me first when you get back. Westbrook Garrison doesn't want the local inhabitants knowing that murlocs have learned this kind of magic — after all, the news that murlocs have learned orc magic is pretty alarming. I only managed to learn of it through heavy secrecy."
 
-Jace asked, "So confident that the murlocs must have some kind of spellbook or the like? Can murlocs even read Orcish?"
+Jace asked, "You're that confident the murlocs must have some kind of spellbook or the like? Can murlocs even read Orcish?"
 
 Ursula said, "You're underestimating murloc intelligence, Jace. Even without a grimoire of incantations taken from orcs, they must have their own method of record-keeping. Oh, and don't go alone — you need at least one person watching your back. Individual murlocs may be weak, but they know their own weaknesses and never act alone."
 
@@ -94,7 +94,7 @@ Ursula said, "You're underestimating murloc intelligence, Jace. Even without a g
 
 But besides Grede, did he have any other friends who could help? Find another warlock?
 
-In this basement, there wasn't a single person Jace was willing to partner with — Gagin, Galdus... He would never entrust his safety to any of these people.
+In this basement, there wasn't a single person Jace was willing to partner with — Gakin, Zardeth... He would never entrust his safety to any of these people.
 
 Then again — wasn't Sazeno a partner?
 
@@ -103,16 +103,3 @@ If he really brought someone other than a warlock along, that would mean Sazeno 
 But Sazeno's loyalty and abilities far surpassed any helper he could find in a few Stormwind taverns.
 
 And no squabbling over loot, no arguments, no friction...
-
-## Flags
-
-- **荆棘草** → rendered as "briarthorn" here, but see note: the source dialogue lists 荆棘草 as one of the three essential materials, while the written recipe uses 石南草 (Briarthorn per glossary). The two Chinese terms appear to refer to the same herb; I've rendered both as "briarthorn" and flagged the ambiguity.
-- **蕹草纸** → "sheet of parchment" (not in glossary; 蕹草 is an unusual term, possibly a fantasy herb-paper).
-- **初级法力药水 / 次级药水** → "Minor Mana Potion / Lesser Mana Potion" (not in glossary; WoW-consistent tier naming).
-- **荆棘藻** → "stranglekelp" (WoW herb; not in glossary).
-- **詹戈洛德矿坑** → "Jangolode Mine" (WoW reference in Westfall; not in glossary).
-- **西泉** → "Westfall Keep" (abbreviation of 西泉要塞; not in glossary).
-- **咒语集** → "grimoire of incantations" (not in glossary; the warlocks' shared spell collection).
-- **南艾尔文** → "Southshire" (area south of Stormwind; not in glossary).
-- **毒雾蝠** → "poison mist bats" (not in glossary).
-- **变戏法的** → "conjurers" (Ursula's derisive term for Wizard Sanctum mages; not in glossary).

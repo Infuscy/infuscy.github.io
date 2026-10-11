@@ -24,9 +24,9 @@ His skin was green, but his blood was red. Not demon blood.
 
 The orc muttered something in contempt, then let out a cold laugh — and Jace somehow knew exactly what he meant.
 
-Because buried in that sentence was one orcish word Jace understood: "little thing."
+Because buried in that sentence was one Orcish word Jace understood: "little thing."
 
-That's right… orcish. Jace did know a little orcish. How had he not thought of it in the middle of that brawl?
+That's right… Orcish. Jace did know a little Orcish. How had he not thought of it in the middle of that brawl?
 
 Think. What could he say to stop this orc?
 
@@ -64,7 +64,7 @@ His brain churned like stirred paste for a long moment — and then an idea hit 
 
 "Frostwolf."
 
-He shouted it in orcish. The clan names were the kind of thing that showed up in orcish dictionaries.
+He shouted it in Orcish. The clan names were the kind of thing that showed up in Orcish dictionaries.
 
 Hearing his own language out of nowhere, the orc frowned in confusion.
 
@@ -76,9 +76,9 @@ Jace didn't understand a word, but he knew the idea was working.
 
 He'd shouted "Frostwolf" because among the orc clans that had come through the Dark Portal, the Frostwolf clan was apparently the only one still following the shamanic path. Every other clan's shamans had joined Gul'dan's shadow.
 
-Jace pointed to his own chest and said in halting orcish, "Know. Frostwolf."
+Jace pointed to his own chest and said in halting Orcish, "Know. Frostwolf."
 
-The viciousness in the orc's expression faded somewhat. He lowered his head, thought for a moment, and said something else in orcish. Jace still had no idea what it meant.
+The viciousness in the orc's expression faded somewhat. He lowered his head, thought for a moment, and said something else in Orcish. Jace still had no idea what it meant.
 
 "Know. Frostwolf. Alive," Jace tried, stringing together the limited vocabulary he had. The orc's expression finally changed.
 
@@ -108,23 +108,8 @@ Drek'Thar was the leader who'd led the Frostwolf clan to survive in the snowy mo
 
 Dropping that name might make him trust what Jace was saying.
 
-But after hearing the name, the orc stiffly repeated the pronunciation, simply mimicking the English rendering with a blank look on his face. He clearly had no idea what it meant. Maybe Drek'Thar's name in orcish sounded nothing like the English or Chinese versions, so he couldn't make the connection.
+But after hearing the name, the orc stiffly repeated the pronunciation, simply mimicking the English rendering with a blank look on his face. He clearly had no idea what it meant. Maybe Drek'Thar's name in Orcish sounded nothing like the English or Chinese versions, so he couldn't make the connection.
 
 But the orc no longer wanted to kill him. Jace knew he'd found the key. This was probably a Frostwolf orc who couldn't find his people — or if not a Frostwolf, then a wanderer searching for others who'd returned to the shamanic path.
 
 One more name… think of another name, fast. The orc could lose patience any second.
-
-## Flags
-
-- **撒厄诺** → "Sazeno": carried over from Ch. 52.
-- **血之契印** → "Blood Pact": carried over from Ch. 52.
-- **恐惧术** → "Fear": carried over from Ch. 36/49/55.
-- **献祭** → "Immolate": canon WoW warlock/imp spell; not in glossary.
-- **霜狼** → "Frostwolf": carried over from Ch. 6 (canonical WoW clan).
-- **德雷克塔尔** → "Drek'Thar": canonical WoW Frostwolf leader; not in glossary.
-- **奥特兰克** → "Alterac": carried over from Ch. 6.
-- **古尔丹** → "Gul'dan": in glossary.
-- **暗影议会** → "Shadow Council": in glossary.
-- **Dark Portal** (黑暗之门): in glossary.
-- **Common** (通用语): the in-world trade language; rendered as "Common" per standard WoW usage.
-- **orcish** (兽人语): the orc language; lowercase per standard WoW usage.

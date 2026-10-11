@@ -8,9 +8,9 @@ There was already a scattering of sawdust and glass on the floor. Some crates mi
 
 A few other passengers had made their way down here too, apparently drawn by the sudden commotion earlier.
 
-"Where's Gazick?" Grede asked.
+"Where's Gazzik?" Grede asked.
 
-"Who's Gazick?" someone across from them asked.
+"Who's Gazzik?" someone across from them asked.
 
 "The ship's first mate," another passenger answered, then asked, "Why? Was he just here?"
 
@@ -72,7 +72,7 @@ After a while longer, the blood on the ground grew thicker. They were getting cl
 
 Near the bottom of the hull, the lantern finally illuminated the source of all that blood. A goblin lay there, his body torn so badly it was impossible to make out what he'd originally looked like.
 
-"Is that Gazick?" Jace asked.
+"Is that Gazzik?" Jace asked.
 
 "I don't think so," Grede said. "The clothes are different. This is the cargo keeper."
 
@@ -88,13 +88,13 @@ Grede swept the lantern back and forth and spotted a strange iron cage not far o
 
 "Seems like it." By now a few goblin sailors had arrived. When they saw the broken cage, they wore expressions like they'd just bitten into something foul.
 
-"Where's Gazick? Where's your first mate?" Jace asked.
+"Where's Gazzik? Where's your first mate?" Jace asked.
 
 "What are you yelling for? We're looking too!" a goblin sailor shouted.
 
 Just then, a goblin in a black outer robe with a shoulder cape arrived. He glanced at the corpse nearby, looked at the blood on the floor, and sighed. "Quick, everyone up on deck!"
 
-"Yes, Captain Nilazu!"
+"Yes, Captain Nilaz!"
 
 So this was the legendary captain?
 
@@ -122,7 +122,7 @@ Was there a circus on board? The Darkmoon Faire?
 
 Jace scanned the passengers around him. There didn't seem to be anyone resembling the Darkmoon Faire's motley collection of every race under the sun. Mostly humans, with a handful of dwarves and gnomes.
 
-"Listen up, everyone." The captain suddenly called out. "You're all paying passengers on this ship, so no matter what, the Trade Cartel will guarantee your safety. Right now we've got a small problem in the cargo hold. Rest assured, we'll deal with it properly before we let you back to your cabins. Everyone bear with the rain for a bit—you can enjoy the beauty of the ocean storm. Not every ship can take in a sight like this so calmly. Consider yourselves lucky!"
+"Listen up, everyone." The captain suddenly called out. "You're all paying passengers on this ship, so no matter what, the Steamwheedle Cartel will guarantee your safety. Right now we've got a small problem in the cargo hold. Rest assured, we'll deal with it properly before we let you back to your cabins. Everyone bear with the rain for a bit—you can enjoy the beauty of the ocean storm. Not every ship can take in a sight like this so calmly. Consider yourselves lucky!"
 
 "We just want to know what the problem is!" a male passenger demanded angrily.
 
@@ -158,7 +158,7 @@ The noble glanced at Grede. "Wildhammer clan?"
 
 "Indeed. You've got a good eye." Grede's tone climbed with pride.
 
-Rain spattered off the brim of the noble's hat. He blinked and said, "Do you know Night Baron's record at the Cape of Stranglethorn? Your fellow clansman—a Wildhammer gladiator. It killed three."
+Rain spattered off the brim of the noble's hat. He blinked and said, "Do you know Night Baron's record at the Cape of Stranglethorn? Your fellow clansmen—Wildhammer gladiators. It killed three of them."
 
 The gladiators at the Cape of Stranglethorn—this noble could only be referring to one place: the Gurubashi Arena.
 
@@ -166,15 +166,6 @@ The Gurubashi Arena was the only place in Stranglethorn Vale open to outsiders. 
 
 Gradually, more and more businesses sprang up around the Gurubashi Arena. Related industries popped up everywhere, including a number of smaller arenas.
 
-Most importantly, gladiators began appearing like bamboo shoots after a spring rain, and their ultimate goal was to stand on the podium of the great Gurubashi Arena at the Cape of Stranglethorn and claim fame and fortune.
+Most importantly, gladiators began springing up like mushrooms after rain, and their ultimate goal was to stand on the podium of the great Gurubashi Arena at the Cape of Stranglethorn and claim fame and fortune.
 
 "If that really is Night Baron," the noble said, "think about what that panther could do on this ship. In the enclosed hold, packed with cargo, crates, walls, rooms... that thing is a killing machine even on open ground. And don't forget—back in Stranglethorn Vale, it made its name on stealth and ambush!"
-
-## Flags
-
-- **加齐克 (Gazick)** — goblin first mate of the ship; not in glossary. Rendered as "Gazick."
-- **尼拉祖船长 (Captain Nilazu)** — goblin captain; not in glossary. Rendered as "Captain Nilazu."
-- **热砂集团 / 热砂财团** — rendered as "Trade Cartel" (canonical WoW term for the goblin trade consortium; 热砂 = Steamwheedle). Flagged for consistency across chapters.
-- **黑夜男爵 (Night Baron)** — the black panther's name/title. Rendered as "Night Baron" (proper name, capitalized).
-- **桑德玛尔兄弟 (Sandmar brothers)** — three Wildhammer dwarves from the Highlands; not in glossary. Rendered as "Sandmar brothers."
-- **蛮锤角斗士 (Wildhammer gladiator)** — the noble's reference to the dwarves Night Baron killed. Kept as "Wildhammer gladiator."

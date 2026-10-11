@@ -2,17 +2,17 @@
 
 With only a week left until Brewfest, Amy finally managed to free herself from Kirin Tor and Dalaran Academy obligations. Jace's group set off immediately, heading southeast toward Grim Batol.
 
-The journey was a long one, and besides Jace and Mor'phil, Sorah also had to carry Amy and Vereesa. So they needed an early start, stopping in Southshore and Menethil Harbor along the way before finally reaching the Bastion Range.
+The journey was a long one, and besides Jace and Morophil, Sola also had to carry Amy and Vereesa. So they needed an early start, stopping in Southshore and Menethil Harbor along the way before finally reaching the Batol Mountains.
 
-Aside from resting, leaving time for Sorah to "refuel" en route was essential. They'd left Dalaran early in the morning, and just past noon they arrived at Southshore. To avoid panicking the local farmers, they followed Vereesa's guidance to stay clear of watchtowers and patrol routes, finally landing in a forest northeast of town.
+Aside from resting, leaving time for Sola to "refuel" en route was essential. They'd left Dalaran early in the morning, and just past noon they arrived at Southshore. To avoid panicking the local farmers, they followed Vereesa's guidance to stay clear of watchtowers and patrol routes, finally landing in a forest northeast of town.
 
 But in the end, a squad of Lordaeron scout cavalry still spotted the two young dragons flying overhead. By the time the riders chased into the forest, Jace's party had already entered town.
 
 Southshore was lively in September, especially with Brewfest approaching — lots of Stormpike dwarves had gathered here, planning to celebrate with their Bronzebeard kin who weren't heading back to Ironforge.
 
-Needlefang was practically drooling at the sight of dwarves in the street drinking from tankards and mugs. She insisted on joining them, and Sorah had to drag her straight into the inn.
+Needleflame was practically drooling at the sight of dwarves in the street drinking from tankards and mugs. She insisted on joining them, and Sola had to drag her straight into the inn.
 
-Amy watched the little black dragon kicking up a fuss in Sorah's grip and edged closer to Jace. "Has she always been like this, or did she change after meeting you?"
+Amy watched the little black dragon kicking up a fuss in Sola's grip and edged closer to Jace. "Has she always been like this, or did she change after meeting you?"
 
 "Always been like this." Jace said. "Ever since we rescued her from a spider the size of a chapel."
 
@@ -32,7 +32,7 @@ Jace grumbled internally as he crossed the street toward the ale shop.
 
 There were plenty of dwarves inside. A grey-haired dwarf who seemed to be the owner was arguing with a group of tall red-haired dwarves painted with blue, red, and yellow tribal markings. Having spent so much time with Grede, Jace recognized them immediately as Wildhammer dwarves from Aerie Peak.
 
-Jace waited, planning to ask once things cooled down a bit. He remembered Grede had promised Needlefang a lot of drinks. He wondered what the Stormpike dwarves of Alterac had that was special — maybe some kind of thunder ale.
+Jace waited, planning to ask once things cooled down a bit. He remembered Grede had promised Needleflame a lot of drinks. He wondered what the Stormpike dwarves of Alterac had that was special — maybe some kind of thunder ale.
 
 Then he heard footsteps at the door and turned to see a mage walk in.
 
@@ -100,44 +100,44 @@ Lordaeron. Kel'Thuzad. Thrall. Jaina. Arthas... Karazhan. Aegwynn. Medivh. Kil'j
 
 Jace wished he was just being paranoid, but the footsteps of that age were getting closer and closer.
 
-Back at the inn, Jace pushed through the noisy crowd and set a bag of thunder ale on the table. Needlefang's excited shouts sounded muffled and distant as he couldn't stop thinking about all this mess.
+Back at the inn, Jace pushed through the noisy crowd and set a bag of thunder ale on the table. Needleflame's excited shouts sounded muffled and distant as he couldn't stop thinking about all this mess.
 
-The green dragon beside him shook her head helplessly. Vereesa looked at her. "You seem tired, Sorah?"
+The green dragon beside him shook her head helplessly. Vereesa looked at her. "You seem tired, Sola?"
 
-"It's nothing." Sorah smiled.
+"It's nothing." Sola smiled.
 
 "I can feel the dream magic powering your flight is a bit strained." Vereesa said quietly. "Is it because you're carrying too many people?"
 
 "Uh... is it because of me? I could take a gryphon to Grim Batol." Amy looked guiltily around the table.
 
-"You're much lighter than Grede Thunderfist, Lady Marin." Sorah said.
+"You're much lighter than Grede Thunderfist, Lady Malin." Sola said.
 
-Jace could tell that carrying this group was even more draining for Sorah than when she'd carried Grede. But it wasn't about weight — rather, both he and Vereesa, as well as the hidden Mor'phil, had grown significantly in magic, so the dream magic was being stretched thin.
+Jace could tell that carrying this group was even more draining for Sola than when she'd carried Grede. But it wasn't about weight — rather, both he and Vereesa, as well as the hidden Morophil, had grown significantly in magic, so the dream magic was being stretched thin.
 
-"Sorah, let Needlefang carry Mor'phil," he said.
+"Sola, let Needleflame carry Morophil," he said.
 
-"What?!" Needlefang slammed her hand on the table, gritting her teeth. "Say that again, Jace Sesso."
+"What?!" Needleflame slammed her hand on the table, gritting her teeth. "Say that again, Jace Sesso."
 
-Even Sorah was startled and waved her hands. "Really, it's fine. Don't make her—"
+Even Sola was startled and waved her hands. "Really, it's fine. Don't make her—"
 
-"Help share Sorah's load." Jace said. "You said before you wouldn't carry mortals. You never said you wouldn't carry demons. Mor'phil's practically your teacher. What's wrong with carrying her?"
+"Help share Sola's load." Jace said. "You said before you wouldn't carry mortals. You never said you wouldn't carry demons. Morophil's practically your teacher. What's wrong with carrying her?"
 
-"Demons are even worse!" Needlefang turned away angrily.
+"Demons are even worse!" Needleflame turned away angrily.
 
-"Then at least carry the luggage, Miss Needlefang?" Vereesa asked.
+"Then at least carry the luggage, Miss Needleflame?" Vereesa asked.
 
-"I'm not carrying your stupid bags." Needlefang snorted.
+"I'm not carrying your stupid bags." Needleflame snorted.
 
-Jace sighed and looked toward the door, wondering if he should rent a gryphon. Then Needlefang stole a glance at Sorah, tilted her head toward Jace, and said, "If you've got the guts not to be scared of falling into the sea, you can get on my back."
+Jace sighed and looked toward the door, wondering if he should rent a gryphon. Then Needleflame stole a glance at Sola, tilted her head toward Jace, and said, "If you've got the guts not to be scared of falling into the sea, you can get on my back."
 
 "Huh? You'll let me ride you?" Jace was startled by the offer. The others at the table looked equally shocked.
 
-"Less talk." Needlefang took a gulp of ale and said calmly, "I'm asking if you dare."
+"Less talk." Needleflame took a gulp of ale and said calmly, "I'm asking if you dare."
 
 "Well... what's there to be afraid of?" Jace said. "I've ridden your dad's back before."
 
-"Don't mention that! Don't you dare! Damn warlock, I'm going to regret this!" Needlefang squeezed her eyes shut and growled.
+"Don't mention that! Don't you dare! Damn warlock, I'm going to regret this!" Needleflame squeezed her eyes shut and growled.
 
 "Sorry, sorry..." Jace hurriedly tried to soothe her.
 
-Amy, Vereesa, and Sorah exchanged glances, suppressing smiles, and said nothing.
+Amy, Vereesa, and Sola exchanged glances, suppressing smiles, and said nothing.

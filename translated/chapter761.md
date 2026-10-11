@@ -2,7 +2,7 @@
 
 The Thorium Brotherhood — of course Jace knew about the Thorium Brotherhood!
 
-The most high-level blacksmithing recipes of the level-60 era, even the forging of the orange weapons, were all tied to the Thorium Brotherhood. No crafting-skip player could get around these Dark Iron dwarves.
+The most high-level blacksmithing recipes of the level-60 era, even the forging of the legendary weapons, were all tied to the Thorium Brotherhood. No player leveling a crafting profession could get around these Dark Iron dwarves.
 
 Still, they weren't much of a power — just a small band of Dark Iron defectors. So despite their masterful craftsmanship and wealth of unique knowledge and techniques, they were chronically short-handed and still needed outside mercenaries to help them source materials and solve problems.
 
@@ -28,11 +28,11 @@ The dwarf took a swig of ale, bit into a blood sausage, and muttered under his b
 
 "Yeah," Jace nodded.
 
-The next day, Jace planned to head to Goldshire to find Erland Faolble about renovating the mage tower. Before that, of course, he needed to go to Andormas first to pick up the deed and other documents for Darrowshire Tower.
+The next day, Jace planned to head to Goldshire to find Erlan Drudgemoor about renovating the mage tower. Before that, of course, he needed to go to Andromath first to pick up the deed and other documents for the Tower of Ilgalar.
 
-When he arrived at the door, the Wizard Sanctum's mage tower guards didn't even check his ring before letting him through. Walking among the mages in their blue and white robes already felt a bit like a graduate returning to visit his old school — even though his highest title was apprentice mage, not even close to a full-fledged mage.
+When he arrived at the door, the Wizard's Sanctum's mage tower guards didn't even check his ring before letting him through. Walking among the mages in their blue and white robes already felt a bit like a graduate returning to visit his old school — even though his highest title was apprentice mage, not even close to a full-fledged mage.
 
-Still, he wouldn't have minded having a proper mage's sigil. Of course, at this point he was too embarrassed to go ask Andormas for one.
+Still, he wouldn't have minded having a proper mage's sigil. Of course, at this point he was too embarrassed to go ask Andromath for one.
 
 He spent the walk observing the Sanctum's interior décor and style, wondering if he could use it as a reference for his own little tower.
 
@@ -58,23 +58,16 @@ Then he saw the name rendered in archaic Common script beneath the painting — 
 
 Jace glanced down the corridor. No one passing by seemed to be looking this way. Everyone who came here was on business, hurrying past with no attention to spare for anyone else. Jace lowered his head and walked quickly toward the main hall.
 
-In the main hall, Andormas didn't seem to be in. His assistant was tidying the desk.
+In the main hall, Andromath didn't seem to be in. His assistant was tidying the desk.
 
-"Sir," Jace said, approaching. "When will Master Andormas be available?"
+"Sir," Jace said, approaching. "When will Master Andromath be available?"
 
-The assistant looked up and said, "Master Sesso… you're here at last. Master Andormas instructed me that when you arrived, I was to help you complete the signing for Darrowshire Tower. He's away on business in Dalaran. Is that what you've come for?"
+The assistant looked up and said, "Master Sesso… you're here at last. Master Andromath instructed me that when you arrived, I was to help you complete the signing for the Tower of Ilgalar. He's away on business in Dalaran. Is that what you've come for?"
 
 Off to Dalaran — probably to help the Kirin Tor deal with Kel'Thuzad.
 
 Jace nodded. The assistant hauled an old leather case out from under the shelf, spoke a spell to undo the seal on it, and carefully drew out a thick scroll, spreading it across the desk.
 
-Jace looked at the dense list of clauses, the wax seals of House Wrynn and the Wizard Sanctum hanging from it. He took the assistant's pen and signed his name at the very bottom.
+Jace looked at the dense list of clauses, the wax seals of House Wrynn and the Wizard's Sanctum hanging from it. He took the assistant's pen and signed his name at the very bottom.
 
-"Just the imprint of your Court Mage sigil left to affix, Master," the assistant said with a smile. "Darrowshire Tower is yours now."
-
-## Flags
-
-- **Thorium Brotherhood introduced**: Grede names the Thorium Brotherhood (瑟银兄弟会) as a faction of Dark Iron defectors from Shadowforge City who broke away from Emperor Thaurissan. Jace recognizes them from the game as the level-60 blacksmithing reputation faction tied to orange-weapon recipes.
-- **Darrowshire Tower deed signed**: Jace officially signs the deed to Darrowshire Tower (伊尔加拉之塔) at the Wizard Sanctum, completing the transfer. Andormas is away in Dalaran (likely dealing with Kel'Thuzad).
-- **Portrait reveal**: A new portrait has been hung in the Wizard Sanctum's spiral gallery — Jace's own, rendered in archaic Common as "Jace Sesso," wearing a bright purple robe he doesn't recognize.
-- **Erland Faolble setup**: Jace plans to visit Goldshire to discuss mage tower renovations with Erland Faolble (埃尔兰·杜德摩尔).
+"Just the imprint of your Court Mage sigil left to affix, Master," the assistant said with a smile. "The Tower of Ilgalar is yours now."

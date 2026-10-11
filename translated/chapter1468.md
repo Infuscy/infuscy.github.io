@@ -1,4 +1,4 @@
-## Chapter 1468: The Ritual in the Observatorium
+## Chapter 1468: The Ritual in the Observatory
 
 The magic circle beneath the telescope was incredibly complex. Its runes were a combination of what was called "giant language" — the language left by the Titans — along with ancient Highborne script. With Jace's level of knowledge, deciphering it would be extremely difficult.
 
@@ -12,7 +12,7 @@ Maybe he could take advantage of Khadgar's uncertainty to gently nudge him towar
 
 Khadgar looked over, somewhat surprised. "Why would you think it's necromancy?"
 
-"I didn't identify it visually, of course," Jace said. "I just thought... there are ghosts everywhere along the way, and undead skeletal guards. The whole Karazhan and Deadwind Pass is a necropolis full of reanimated corpses. That's what you told me, isn't it?"
+"I didn't identify it visually, of course," Jace said. "I just thought... there are ghosts everywhere along the way, and undead skeletal guards. All of Karazhan and Deadwind Pass is a necropolis full of reanimated corpses. That's what you told me, isn't it?"
 
 "But this isn't necromancy, Jace." Khadgar pointed at the star charts above and the telescope overhead. "Lady Aegwynn chose to perform this magical ritual here for a reason. This is a large-scale divination."
 
@@ -42,11 +42,11 @@ Jace understood immediately what Khadgar was getting at. He remembered what the 
 
 "I understand, Khadgar," Jace said.
 
-Khadgar hesitated for a moment, then asked, "Can you tell me how you got this, Jace? Forgive my curiosity, but... this is Ulthalesh. The Deadwind Reaper."
+Khadgar hesitated for a moment, then asked, "Can you tell me how you got this, Jace? Forgive my curiosity, but... this is Ulthalesh. The Deadwind Harvester."
 
-"Guardian Scavell hid it in a furbolg village in Winterspring, trying to conceal its existence through the Dreamscape." Jace said. "If not for that journey when I met Sora... even knowing clues that most people don't, from demons, I probably couldn't have retrieved it."
+"Guardian Scavell hid it in a furbolg village in Winterspring, trying to conceal its existence through the Emerald Dream." Jace said. "If not for that journey when I met Sola... even knowing clues that most people don't, from demons, I probably couldn't have retrieved it."
 
-"The Dreamscape. I see." Khadgar nodded.
+"The Emerald Dream. I see." Khadgar nodded.
 
 "A few decades ago, demons sent by Kil'jaeden to find the staff managed to break its dream barrier. Its mana contaminated the valley, exposing its location." Jace said.
 
@@ -58,19 +58,19 @@ Khadgar hesitated for a moment, then asked, "Can you tell me how you got this, J
 
 "I learned about it from the belongings of a reanimated Kirin Tor mage near Karazhan." Jace explained. "He seemed to have died for that information — about a group of Karazhan treasure hunters searching for the world's ultimate treasures. Ulthalesh was one of them."
 
-"The Black Knights," Khadgar said.
+"The Dark Riders," Khadgar said.
 
-"Yes. That's them." Jace said. "At first, I didn't connect the information to myself. But later, when I took a bounty from the Reliquary and went to Kalimdor hunting the demon lord Dath'mora, I discovered that the mission the Burning Legion had given her... was to search for clues about Ulthalesh. She seemed to have made some progress, but I had no way to decipher those clues at the time, so I didn't learn the details."
+"Yes. That's them." Jace said. "At first, I didn't connect the information to myself. But later, when I took a bounty from the Reliquary and went to Kalimdor hunting the demon lord Dasmora, I discovered that the mission the Burning Legion had given her... was to search for clues about Ulthalesh. She seemed to have made some progress, but I had no way to decipher those clues at the time, so I didn't learn the details."
 
 "When I came back from Kalimdor, I handed the original clues over to the Reliquary for more pay. That money helped me buy that standalone house by the canal south of Cathedral Square."
 
-"But soon, I discovered that Magister Dalk'Dril of the Dragonflayer had gotten his hands on those scrolls through his connections at the Reliquary, and had even contacted the Black Knights through the Violet Eye to decode them. More importantly, I felt like he'd already set his sights on me."
+"But soon, I discovered that Magister Dar'Khan Drathir had gotten his hands on those scrolls through his connections at the Reliquary, and had even contacted the Dark Riders through the Violet Eye to decode them. More importantly, I felt like he'd already set his sights on me."
 
-"You were worried that if Magister Dalk'Dril actually got Ulthalesh, he'd come after you," Khadgar said slowly, nodding. "If it were me, I probably wouldn't have worried at all. After all, so many warlocks and demon worshipers had searched for centuries without finding it... But considering the Black Knights were under Medivh's — or Sargeras's — command, and that demon lord's clues... it's hard to say."
+"You were worried that if Magister Dar'Khan actually got Ulthalesh, he'd come after you," Khadgar said slowly, nodding. "If it were me, I probably wouldn't have worried at all. After all, so many warlocks and demon worshippers had searched for centuries without finding it... But considering the Dark Riders were under Medivh's — or Sargeras's — command, and that demon lord's clues... it's hard to say."
 
-"That was part of it." Jace leaned on his staff. "But another reason might be that after Grim Batol, my mindset had changed. I couldn't let Ulthalesh fall into the hands of the Black Knights or their associates. More importantly, I couldn't let clues I'd found help them get it. And incidentally, I wanted to see whether those demonic clues were real or fake."
+"That was part of it." Jace leaned on his staff. "But another reason might be that after Grim Batol, my mindset had changed. I couldn't let Ulthalesh fall into the hands of the Dark Riders or their associates. More importantly, I couldn't let clues I'd found help them get it. And incidentally, I wanted to see whether those demonic clues were real or fake."
 
-"I can understand that feeling." Khadgar said. "Like coming to Karazhan this time. Lothar and I defeated Medivh — a heroic deed — but I could never accept that the people of Elwynn continued to suffer because of it. If one day Magister Dalk'Dril actually got his hands on this staff, and used it to harm Quel'Thalas and beyond — like that demonic necromancer who destroyed this valley — it's hard to imagine how you'd feel."
+"I can understand that feeling." Khadgar said. "Like coming to Karazhan this time. Lothar and I defeated Medivh — a heroic deed — but I could never accept that the people of Elwynn continued to suffer because of it. If one day Magister Dar'Khan actually got his hands on this staff, and used it to harm Quel'Thalas and beyond — like that demonic necromancer who destroyed this valley — it's hard to imagine how you'd feel."
 
 "From Draenor to Azeroth, I think I can judge what kind of person you are, Jace Sesso." The archmage continued. "You've restrained Ulthalesh's power from start to finish, never succumbing to its temptations. I believe that with Guardian Scavell's barrier already compromised, you are the most suitable person to watch over this staff."
 
@@ -104,11 +104,11 @@ After Khadgar's analysis of the tower's mana, Jace pieced together a likely scen
 
 At some point after the Expedition returned, Aegwynn learned through unknown channels that he was wielding Ulthalesh. But she didn't believe it at first. She wanted to confirm it with Jace.
 
-Their meeting outside the Pig and Whistle didn't completely ease her mind, so she decided to see the future for herself. She came to Karazhan, hoping to divine Ulthalesh's future through the Observatorium.
+Their meeting outside the Pig and Whistle didn't completely ease her mind, so she decided to see the future for herself. She came to Karazhan, hoping to divine Ulthalesh's future through the Observatory.
 
 And what she saw threw her into conflict.
 
-In the end, she made her decision, but the other choices didn't disappear with it. So she used Karazhan to seal these figures inside the tower, freeing herself from their influence... until Jace, Khadgar, and Morofil walked blindly into this forbidden ground, already in chaos from Aegwynn's spells.
+In the end, she made her decision, but the other choices didn't disappear with it. So she used Karazhan to seal these figures inside the tower, freeing herself from their influence... until Jace, Khadgar, and Morophil walked blindly into this forbidden ground, already in chaos from Aegwynn's spells.
 
 To prove that his reconstruction of events was accurate, Jace would need to either find Aegwynn's information source or figure out what exactly she'd seen in that ritual.
 

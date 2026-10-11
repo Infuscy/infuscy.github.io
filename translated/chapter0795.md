@@ -1,16 +1,16 @@
 ## Chapter 795: Possible Trouble
 
-Even though there shouldn't be any normal mortals in this world who restored their strength or healed their wounds by eating Healing Stones, Jace always felt that since the game had it as a mechanic, there must be some basis for it.
+Even though there shouldn't be any normal mortals in this world who restored their strength or healed their wounds by eating healthstones, Jace always felt that since the game had it as a mechanic, there must be some basis for it.
 
 But even so, gazing at this little stone brimming with plump fel energy, he didn't dare just swallow it raw to see how it worked.
 
-After all, the deviation between game mechanics and this world was simply too vast. Take these Healing Stones, for example — in the game, there was a cap on how many Healing Stones each person could carry, but here there was obviously no limit. If the bag was big enough and the Soul Shards plentiful enough, it looked like you could carry as many as you wanted.
+After all, the deviation between game mechanics and this world was simply too vast. Take these healthstones, for example — in the game, there was a cap on how many healthstones each person could carry, but here there was obviously no limit. If the bag was big enough and the soul shards plentiful enough, it looked like you could carry as many as you wanted.
 
 Just treat it as a backup measure, then. Even if it was ineffective on mortals, at least it would still work on demons.
 
-"Master, did Lord Kanrethad make so many Healing Stones as a gift for you, but you're too embarrassed to say so outright, hmm?"
+"Master, did Lord Kallrez make so many healthstones as a gift for you, but you're too embarrassed to say so outright, hmm?"
 
-On the road back to Stormwind, riding a horse through Elwynn Forest, the imp couldn't help but poke his head out of the bag, staring at the little pouch Jace used to hold the Healing Stones. "Give me one to try first, Master. I'll work even harder for you — very, very hard!"
+On the road back to Stormwind, riding a horse through Elwynn Forest, the imp couldn't help but poke his head out of the bag, staring at the little pouch Jace used to hold the healthstones. "Give me one to try first, Master. I'll work even harder for you — very, very hard!"
 
 "How's your practice with Curse of Tongues going?" Jace asked.
 
@@ -18,13 +18,13 @@ On the road back to Stormwind, riding a horse through Elwynn Forest, the imp cou
 
 "I think you need to find a way to train up your mana," Jace said.
 
-"I'll find a way, I'll find a way! A Healing Stone is one way — it strengthens my power, and strengthens my mana too, I'm sure of it, Master!"
+"I'll find a way, I'll find a way! A Healthstone is one way — it strengthens my power, and strengthens my mana too, I'm sure of it, Master!"
 
 The imp spoke with a grinning mouth, his tongue darting out from time to time — he looked like he could barely contain himself.
 
-Jace took out a Healing Stone and handed it to him, half-believing. Sazeno swallowed it whole, let out a satisfied "ahh," then slipped back into the bag without another sound.
+Jace took out a healthstone and handed it to him, half-believing. Sazeno swallowed it whole, let out a satisfied "ahh," then slipped back into the bag without another sound.
 
-Returning to Stormwind with the contact circle corrected by Kanrethad and Sazeno, along with the Healing Stones, had taken about a week. If it hadn't been for Arna pushing on tirelessly the whole way without ever throwing a tantrum from exhaustion, Jace might have been delayed even longer.
+Returning to Stormwind with the contact circle corrected by Kallrez and Sazeno, along with the healthstones, had taken about a week. If it hadn't been for Arna pushing on tirelessly the whole way without ever throwing a tantrum from exhaustion, Jace might have been delayed even longer.
 
 But if he hadn't gone over every possible precaution with the mage tower and the Altar of Storms, he wouldn't have been able to set out for Kalimdor with peace of mind. After all, he was a mild obsessive-compulsive who always felt he hadn't locked the door whenever he went out. If he hadn't made the trip to hand things over before leaving, he probably would've started worrying the moment he left Stormwind's harbor.
 
@@ -72,25 +72,25 @@ Vereesa said in a low voice, "The Violet Eye — isn't that the organization in 
 
 The moment Vereesa said it, Jace's first reaction was to dismiss the possibility in his mind. Medivh's treasure hunters were controlled by Medivh's magic — how could they possibly collude with outsiders?
 
-But the moment his mind turned to it, he suddenly remembered another artifact's scythe story — the Moonreaper.
+But the moment his mind turned to it, he suddenly remembered another artifact's scythe story — the Scythe of Elune.
 
-In the game, the Moonreaper was a balance druid artifact. It had originally been a staff forged by the night elves thousands of years ago to fight demons, using the power of nature and the moon. It had been missing for a very long time.
+In the game, the Scythe of Elune was a balance druid artifact. It had originally been a staff forged by the night elves thousands of years ago to fight demons, using the power of nature and the moon. It had been missing for a very long time.
 
 More than a decade later, after the Battle of Mount Hyjal had wound down, in order to fight the rotting demons polluting the forests, the night elf druids had rediscovered the scythe. But after going through a period of chaos, the scythe had ultimately ended up within the borders of the Kingdom of Stormwind.
 
 Its connection to the worgen and the Emerald Dream had ultimately led to the real "worgen" scourge in Duskwood — not just a legend to scare children.
 
-Morgas — the mage Jace had encountered previously at Stonewatch — had, in the game, conducted very deep research into shadow and worgen. He had also sought to find this Moonreaper, and had even contacted Medivh's treasure hunters at Karazhan, wanting to cooperate with them.
+Morganth — the mage Jace had encountered previously at Stonewatch — had, in the game, conducted very deep research into shadow and worgen. He had also sought to find this scythe, and had even contacted Medivh's treasure hunters at Karazhan, wanting to cooperate with them.
 
-This detail made Jace worry that the black knights might cooperate with outsiders to search for Ursales. If Vereesa hadn't brought it up, he might never have made the connection.
+This detail made Jace worry that the Dark Riders might cooperate with outsiders to search for Ulthalesh. If Vereesa hadn't brought it up, he might never have made the connection.
 
-He nodded and said softly, "Quite possibly. And I'm also worried that Dar'Khan Drathir might use his Violet Eye connections to go to the tower looking for clues related to that thing — for example, finding Eredun language records and translating what's on that Dasmora report scroll from the Reliquary."
+He nodded and said softly, "Quite possibly. And I'm also worried that Dar'Khan Drathir might use his Violet Eye connections to go to the tower looking for clues related to that thing — for example, finding Ered'ruin language records and translating what's on that Dasmora report scroll from the Reliquary."
 
 Grede glanced around to make sure nobody nearby was paying attention, then asked in a low voice, "Would that kind of thing be in that black tower?"
 
 Vereesa rubbed her forehead. "Never underestimate the knowledge Medivh collected, Grede. We have to assume he knows everything — from Azeroth to Draenor to the Twisting Nether. He probably really does know everything."
 
-"Really? Then does he know what terrible artifact is hidden beneath Grim Batol? What witch Moira used to corrupt our homeland?" Grede asked.
+"Really? Then does he know what terrible artifact is hidden beneath Grim Batol? What the witch Modgud used to corrupt our homeland?" Grede asked.
 
 "When I can get into Karazhan someday, I'll remember to look it up for you," Jace said.
 
@@ -106,7 +106,7 @@ Jace was about to speak when Grede cut in and asked, "What's the bounty?"
 
 "You actually forgot that." Grede slapped his head. "Then am I going for nothing?"
 
-"Aren't you going to see your Mosha? I've heard that name so much these past two days I'm sick of it!" Vereesa said, displeased. "Of course, I have nothing against her personally."
+"Aren't you going to see your Mosa? I've heard that name so much these past two days I'm sick of it!" Vereesa said, displeased. "Of course, I have nothing against her personally."
 
 "Then we can't go back empty-handed either," Grede said.
 
@@ -116,9 +116,9 @@ Vereesa looked at the disappointed expressions of the two men in front of her an
 
 "Ready to set out anytime," Grede said. "I don't really have much to prepare anyway — just pack my bags."
 
-Vereesa said, "I brought some Sacred Wizard Oil. Remember, Jace? Based on the description in that Dasmora evidence, we might be dealing with spirits and ghosts on this trip, so I brought extra bottles. And as it happens, if those black knights try to stick their noses into our business… then let them taste the power of this oil."
+Vereesa said, "I brought some Blessed Wizard Oil. Remember, Jace? Based on the description in that Dasmora evidence, we might be dealing with spirits and ghosts on this trip, so I brought extra bottles. And as it happens, if those Dark Riders try to stick their noses into our business… then let them taste the power of this oil."
 
-Vereesa had thought it through well. Ursales was a soul-binding weapon, and its previous master had been a necromancer as well. The weapon likely carried some necromantic power. And the clues from Dasmora had also mentioned that it was a place where spirits wailed, so bringing something to counter the undead was very necessary.
+Vereesa had thought it through well. Ulthalesh was a soul-binding weapon, and its previous master had been a necromancer as well. The weapon likely carried some necromantic power. And the clues from Dasmora had also mentioned that it was a place where spirits wailed, so bringing something to counter the undead was very necessary.
 
 "Do we need those Spectral Goggles?" Grede said, patting Jace on the shoulder.
 

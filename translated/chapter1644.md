@@ -14,7 +14,9 @@ Orcs, trolls, and ogres hid behind walls carved from the mountain itself, barely
 
 "Weakest moment?" Sazeno muttered quietly.
 
-"The moment the mages hold the bridge and the soldiers cross," Jace said in a low voice. "Kirin Tor!"
+"The moment the mages hold the bridge and the soldiers cross," Jace said in a low voice.
+
+"Kirin Tor!"
 
 A shout from the front line drowned out Jace's words. Amid the growing rumbles from Blackrock Mountain, he could not tell whether it was Khadgar's command.
 
@@ -28,11 +30,11 @@ Before long, boulders of all sizes began to rise from the cliff base and the sur
 
 The crash of stone against stone drowned out the volcano's eruptions, drowned out the wind's howl, drowned out the cries of the Horde defenders inside Blackrock Spire. But it did not drown out the excited cheers of the Alliance soldiers.
 
-Knights of the Silver Hand gathered at the bridgehead, raising the silver Tyr's Hand and Lordaeron's white banners. Close behind, Stromgarde soldiers lifted their round shields toward the dark tower above.
+Knights of the Silver Hand gathered at the bridgehead, raising the silver hand of Tyr and Lordaeron's white banners. Close behind, Stromgarde soldiers lifted their round shields toward the dark tower above.
 
 A piercing arcane ring exploded again. Varian Wrynn, at the front, wheeled his horse, turning among the blue shields and white armor of Stormwind and Lordaeron, raising his sword high.
 
-"The time to end the Orc War is here! Heroes of every kingdom — every one of you has seen with your own eyes what the orcs and the black dragon have done to our homes and families. Every one of you has lived through it. Words are not enough! Now is the reckoning. Our blade of vengeance and our roar of fury will be etched into history! Follow me into Blackrock Spire! For the Alliance!"
+"The time to end the Orc Wars is here! Heroes of every kingdom — every one of you has seen with your own eyes what the orcs and the black dragon have done to our homes and families. Every one of you has lived through it. Words are not enough! Now is the reckoning. Our blade of vengeance and our roar of fury will be etched into history! Follow me into Blackrock Spire! For the Alliance!"
 
 Galen Trollbane raised his finely crafted Arathi sword and shouted until his voice almost broke. "For the Alliance!"
 
@@ -78,7 +80,7 @@ The whelps' hoarse cries filled the canyon and the broken bridge in an instant. 
 
 The Silver Hand knights and soldiers could not break through the ogres' blockade, and the flying whelps intercepted them from above. Meanwhile, the Kirin Tor mages were fully occupied channeling the spell to hold the bridge and could hardly spare a hand to deal with these frenzied little monsters. Chaos erupted in every direction.
 
-Fortunately, the Farstriders had prepared for this. Volleys of arcane arrows flew upward like inverted raindrops. On the Silver Hand's side, the Wizard Sanctum's mages launched strings of Arcane Missiles to help the soldiers on the bridge shake off the whelps' harassment. With the timely arrival of gryphon riders sweeping across the bridge, lightning tearing through the whelps' encirclement, the formation was finally stabilized.
+Fortunately, the Farstriders had prepared for this. Volleys of arcane arrows flew upward like inverted raindrops. On the Silver Hand's side, the Wizard's Sanctum's mages launched strings of Arcane Missiles to help the soldiers on the bridge shake off the whelps' harassment. With the timely arrival of gryphon riders sweeping across the bridge, lightning tearing through the whelps' encirclement, the formation was finally stabilized.
 
 Jace urged Midnight forward. A blue whelp with an arcane arrow through its chest fell at his feet. He glanced down and noticed — this one was blue.
 
@@ -108,4 +110,4 @@ Blackhand had finally abandoned his prejudice against the Shadow Council, lettin
 
 Lucky for them, the Alliance was doing the same.
 
-Jace raised Ulthalesh and muttered in Demonic: "Your turn, Lord Kar'lez."
+Jace raised Ulthalesh and muttered in Demonic: "Your turn, Lord Kallrez."

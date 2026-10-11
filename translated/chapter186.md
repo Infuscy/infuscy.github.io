@@ -14,7 +14,7 @@ Jace had only just asked when he realized he'd just picked two words from Common
 
 No one in this world who spoke Common had given that spell a name yet, so naturally the imp had no idea what he was talking about.
 
-"Ruhelawen…" Jace said. "That spell — remember? The one you pulled from that broken fragment. You said it was extremely evil."
+"Luhraven…" Jace said. "That spell — remember? The one you pulled from that broken fragment. You said it was extremely evil."
 
 The moment he so much as started saying the incantation, the shadow energy in the air seemed to surge forward in anticipation.
 
@@ -48,13 +48,13 @@ Jace asked again, "So I've been shadow-ified a little?"
 
 "Humans come in all kinds. I don't represent anything," Jace said. "I just don't want to become a different person. I don't know if you understand that."
 
-"I don't." Sazeno stopped his fidgeting and stood in place. "Even if you're shadow-ified, aren't you still yourself? The Eredar were remade into Man'ari by the master of the Burning Legion, yet not a single creature in the Twisting Nether would say the Deceiver isn't the Kil'jaeden he was before."
+"I don't." Sazeno stopped his fidgeting and stood in place. "Even if you're shadow-ified, aren't you still yourself? The eredar were remade into Man'ari by the master of the Burning Legion, yet not a single creature in the Twisting Nether would say the Deceiver isn't the Kil'jaeden he was before."
 
-Man'ari meant "twisted thing" in the Eredar tongue. The Eredar had originally used this near-curse of a word to describe demons, but after they accepted the Dark Titan's gift, they took to calling themselves by that very word — like a spiteful, mocking jab at their former selves.
+Man'ari meant "twisted thing" in Eredun. The eredar had originally used this near-curse of a word to describe demons, but after they accepted the Dark Titan's gift, they took to calling themselves by that very word — like a spiteful, mocking jab at their former selves.
 
-"But," Jace said, "Kil'jaeden no longer follows his original ideals. He was once one of the Eredar's leaders, pursuing wisdom and probing the secrets of the universe. But after he accepted the Burning Legion's power, he became a different person overnight."
+"But," Jace said, "Kil'jaeden no longer follows his original ideals. He was once one of the eredar's leaders, pursuing wisdom and probing the secrets of the universe. But after he accepted the Burning Legion's power, he became a different person overnight."
 
-"Maybe because he'd already uncovered the wisdom and secrets he wanted, master," the imp said. "Even setting aside the Eredar sorcerers, I know that in a human's brief life, there are changes beyond counting — changes even greater than the ones Kil'jaeden underwent before and after meeting his master! And the triggers that bring about those human changes… are far smaller than the power his master bestowed! But can you say they're not the same person anymore?"
+"Maybe because he'd already uncovered the wisdom and secrets he wanted, master," the imp said. "Even setting aside the eredar sorcerers, I know that in a human's brief life, there are changes beyond counting — changes even greater than the ones Kil'jaeden underwent before and after meeting his master! And the triggers that bring about those human changes… are far smaller than the power his master bestowed! But can you say they're not the same person anymore?"
 
 "But those are changes on a spiritual level," Jace said.
 
@@ -72,7 +72,7 @@ Jace used his mouth and hands to cinch the bag shut, then carefully moved to the
 
 The imp shouldn't be lying to him — he'd never told an outright lie before.
 
-Jace thought about never using that spell again. But… if not for that spell, he, Windreaver, and Kafal would all be dead. So what did that make this?
+Jace thought about never using that spell again. But… if not for that spell, he, Vereesa, and Kael'fal would all be dead. So what did that make this?
 
 Turning these messy thoughts over in his mind, he couldn't fall asleep until well past midnight. His mood had hit rock bottom.
 
@@ -81,13 +81,3 @@ How to cheer himself up?
 Might as well take a look at those gold coins.
 
 He opened the bag. The gleaming big-foreheaded Terenas IIs shone brighter than one another. Now he was even less likely to sleep.
-
-## Flags
-
-- **"Ruhelawen" (卢赫拉文):** the incantation component Jace uses to jog Sazeno's memory. Not in glossary — rendered as a proper-name incantation.
-- **"Vitality Sacrifice" (活力牺牲):** Sazeno's preferred name for the spell Jace calls Life Tap. Not in glossary; Life Tap is the canonical term, but Sazeno's in-world name is a deliberate contrast.
-- **"shadow-ified" / "shadow-ification" (暗影化):** not in glossary. Coined to match the Chinese 暗影化; the "-ified" construction mirrors Sazeno's casual demon-speech.
-- **"re-fleshed" (血肉化):** Jace's improvised translation of the reverse process. Not in glossary.
-- **"Man'ari" (曼阿瑞):** Eredar term meaning "twisted thing." Not in glossary. Kept as a proper noun with in-text explanation.
-- **Windreaver (温蕾萨):** not in glossary. Rendered as a surname-style name.
-- **Kafal (凯法尔):** not in glossary. Name as given.

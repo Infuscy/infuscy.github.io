@@ -8,7 +8,7 @@ The familiar young man appeared at the entrance. He gestured toward the hall and
 
 "Mathias." Jace nodded politely and followed him into the room.
 
-Mathias Shur fiddled around in a side room for a moment, then hauled out a clay jar and set it on the table. "I'm glad you didn't treat the agreement you proposed that day as mere politeness. As it happens, I have some wine that was sent up from the north not long ago — would you like to try it?"
+Mathias Shaw fiddled around in a side room for a moment, then hauled out a clay jar and set it on the table. "I'm glad you didn't treat the agreement you proposed that day as mere politeness. As it happens, I have some wine that was sent up from the north not long ago — would you like to try it?"
 
 "I'm not much of a connoisseur," Jace said.
 
@@ -26,7 +26,7 @@ Mathias nodded with a hint of admiration, took a sip, and said, "Sometimes I rea
 
 Jace set down his glass. "I'm guessing you didn't ask me here to talk about this, Mathias."
 
-The young man glanced toward the door. "Of course we're here to talk about the hottest topic of late. That Alterac princess's arrival has set off a wave of interest in the history of the Kingdom of Alterac within the city walls. Before this, I'd wager the vast majority of Stormwind's citizens couldn't even pronounce the word 'Alterac' smoothly."
+The young man glanced toward the door. "Of course we're here to talk about the hottest topic of late. That Alteraci princess's arrival has set off a wave of interest in the history of the Kingdom of Alterac within the city walls. Before this, I'd wager the vast majority of Stormwind's citizens couldn't even pronounce the word 'Alterac' smoothly."
 
 Jace shook his head. "These days, every single person I meet starts by lecturing me about Alterac, Katrana, Prestor — I'm getting a headache from it."
 
@@ -42,7 +42,7 @@ Mathias laughed. "I knew it, Sesso. I knew it. You're the only one who sees it t
 
 Jace laughed along, then asked, "Have there been any new dragonkin appearing in Stormwind lately?"
 
-Mathias replied, "No. Redridge, Goldshire, Moonbrook — these past two weeks, no new dragonkin have been encountered. I've re-established contact with Erland, as well as Ursula Dring and Sulenna Keldom, two ladies skilled at commanding demon minions, but truly nothing came of it... Do you think that woman is a dragonkin as well?"
+Mathias replied, "No. Redridge, Goldshire, Moonbrook — these past two weeks, no new dragonkin have been encountered. I've re-established contact with Erlan, as well as Ursula Deline and Surena Caledon, two ladies skilled at commanding demon minions, but truly nothing came of it... Do you think that woman is a dragonkin as well?"
 
 "Dragonkin? If she's a dragonkin, disguising herself to this degree wouldn't be simple," Jace said.
 
@@ -68,7 +68,7 @@ She wasn't as aggressive, lacked the typical upper-noble overbearingness, and re
 
 Jace said, "I hope the king made these arrangements with vigilance in his heart. I'm just worried that SI:7's surveillance might put that princess on guard."
 
-Mathias snorted coldly. "She'd best be on guard. Otherwise, let her think everyone in the Kingdom of Stormwind is like that Leskowa family — the moment they see some 'heir to the throne,' they fawn all over him like dogs. But don't you worry — for now, aside from myself, no second person within SI:7 knows of our suspicions. The protective measures the king ordered me to take are all within normal bounds."
+Mathias snorted coldly. "She'd best be on guard. Otherwise, let her think everyone in the Kingdom of Stormwind is like that Lescovar family — the moment they see some 'heir to the throne,' they fawn all over him like dogs. But don't you worry — for now, aside from myself, no second person within SI:7 knows of our suspicions. The protective measures the king ordered me to take are all within normal bounds."
 
 Jace nodded. "That puts me at ease, then. Soon I'll be leaving the city to conduct an investigation. Suspicion is one thing, but the investigation has to happen regardless."
 
@@ -88,7 +88,7 @@ Jace said, "I'd like to know the distribution of orcs and Dark Iron dwarves on t
 
 "Much appreciated." Jace nodded. "Oh, and there's one more small favor I'd like to ask. I'd like to visit those Dark Iron dwarf prisoners in the jail — and the orc prisoners. I don't suppose you have a way to arrange that?"
 
-Mathias gave Jace a slightly odd look, then said, "Seeing the Dark Iron dwarf prisoners isn't difficult, but... orcs? I'm not entirely sure Stormwind has any orc prisoners, because the previous ones were all transferred to Lordaeron. The orcish-language scholars at the university even protested the matter, so it left quite an impression on me."
+Mathias gave Jace a slightly odd look, then said, "Seeing the Dark Iron dwarf prisoners isn't difficult, but... orcs? I'm not entirely sure Stormwind has any orc prisoners, because the previous ones were all transferred to Lordaeron. The Orcish-language scholars at the university even protested the matter, so it left quite an impression on me."
 
 "I heard from outside that some Blackrock orc stragglers have been captured recently," Jace said.
 
@@ -96,27 +96,8 @@ Mathias gave Jace a slightly odd look, then said, "Seeing the Dark Iron dwarf pr
 
 Jace explained, "I have a mage friend who's writing a paper on the conflict between dwarves and orcs, but she's never even seen a real orc..."
 
-Mathias burst out laughing. "So that's the caliber of the mages in your Wizard Sanctum?"
+Mathias burst out laughing. "So that's the caliber of the mages in your Wizard's Sanctum?"
 
 Jace took a sip of wine. "She's an apprentice mage. What more do you expect? And this is just to get through her language teacher's exam, not to write a report for the king. No need to take it so seriously."
 
 "I know, I know..." Mathias waved a hand. "No problem, Master Sesso. This is a trifling matter."
-
-## Flags
-- **国王的默契** = The King's Tacit Understanding (the unspoken alignment of suspicion between Jace, SI:7, and King Wrynn toward Katrana).
-- **马迪亚斯·肖尔** = Mathias Shur (canonical — leader of SI:7).
-- **奥特兰克** = Alterac (canonical kingdom).
-- **卡特拉娜** = Katrana (short form of Katrana Prestor).
-- **普瑞斯托** = Prestor (Onyxia's assumed noble house).
-- **龙人** = dragonkin (dragon-humanoid servants of the Dragonflights).
-- **埃尔兰** = Erland (OC warlock; works with the hidden warlocks under the Slaughtered Lamb).
-- **厄苏拉·德林** = Ursula Dring (OC; not in glossary — variant of Ursula, alchemist/warlock).
-- **苏伦娜·凯尔东** = Sulenna Keldom (OC; not in glossary — variant of Sulenna, warlock).
-- **暗炉城** = Shadowforge City (canonical Dark Iron city).
-- **莱斯科瓦** = Leskowa (Stormwind noble family; not in glossary).
-- **摩根家族** = the Morgan family (OC; Adrian Morgan, SI:7 collaborator in Lakeshire).
-- **燃烧平原** = the Burning Steppes (canonical zone).
-- **黑铁矮人** = Dark Iron dwarves (canonical dwarven clan).
-- **黑石兽人** = Blackrock orcs (canonical orc clan).
-- **暗炉城** = Shadowforge City (canonical).
-- **兽人语学者** = orcish-language scholars (at the university in Lordaeron).

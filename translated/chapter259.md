@@ -14,7 +14,7 @@ Henbury said, "I felt like I saw a demon. I thought he was going to hurt my son,
 
 "The demon you saw was me." Jace held up his injured arm. "And this is your handiwork, Mr. Ronmeis. I'm no philanthropist. If you're not planning to compensate me properly, I'll have a nice long chat with the Lakeshire sheriff about this when we get back."
 
-At that, Henbury quickly said, "Mister Mage, I truly didn't know what I was doing. That woman cursed me, and that's why my brain was in such a fog. I'm truly sorry. I'll definitely compensate you."
+At that, Henbury quickly said, "Mr. Mage, I truly didn't know what I was doing. That woman cursed me, and that's why my brain was in such a fog. I'm truly sorry. I'll definitely compensate you."
 
 "So what exactly happened?" Jace asked, examining the wound on his arm as he spoke.
 
@@ -66,27 +66,29 @@ The two embraced tightly. The son broke down crying, and the father's face was a
 
 Old Ronmeis kept looking back at Jace and saying thank you over and over. Jace watched the two of them, thinking about what Henbury had said about his experience in Redridge. Who was the person who had lured him here?
 
-If it wasn't the Twilight's Hammer, could it be the Dragon Cult?
+If it wasn't the Twilight's Hammer, could it be the Wyrmcult?
 
-In the game, the Dragon Cult was a bizarre organization on shattered Draenor made up of orcs, humans, and draenei.
+In the game, the Wyrmcult was a bizarre organization on shattered Draenor made up of orcs, humans, and draenei.
 
 They seemed to help the black dragons incubate and raise their young in the Blade's Edge Mountains. In return, the black dragons would find ways to bestow their "blessings" upon them — that is, turn them into dragonkin.
 
-By the time players reached the Blade's Edge Mountains, the Dragon Cult had strangely gathered a large number of human followers. By all rights, at that point in time, the only Alliance presence that had entered the Blade's Edge Mountains was the night elves.
+By the time players reached the Blade's Edge Mountains, the Wyrmcult had strangely gathered a large number of human followers. By all rights, at that point in time, the only Alliance presence that had entered the Blade's Edge Mountains was the night elves.
 
-Yet the Dragon Cultists entrenched in the Blade's Edge Mountains had almost no night elves among them — they were mainly composed of orcs and humans. Where had they gotten so many humans…
+Yet the Wyrmcultists entrenched in the Blade's Edge Mountains had almost no night elves among them — they were mainly composed of orcs and humans. Where had they gotten so many humans…
 
-Jace speculated that the Dragon Cult might have existed ever since Azeroth. They had entered Draenor alongside the black dragons, tasked with helping the dragons smuggle dragon eggs through the Dark Portal under cover of darkness.
+Jace speculated that the Wyrmcult might have existed back on Azeroth all along. They had entered Draenor alongside the black dragons, tasked with helping the dragons smuggle dragon eggs through the Dark Portal under cover of darkness.
 
 After settling in the mountains of Draenor, they became the black dragons' helpers in incubating dragon eggs.
 
-Wasn't this father and son's encounter exactly the way the local dragonkin recruited Dragon Cult believers?
+Wasn't this father and son's encounter exactly the way the local dragonkin recruited Wyrmcult believers?
 
 Luring them to a certain place by some means, then taking control of their minds?
 
 If this son hadn't slipped away in time and run into Jace, both of them would probably have been brainwashed into black dragon-worshipping cultists.
 
-If they'd been sent back to Lakeshire — or even Stormwind — who knew how much trouble they'd cause. After the two had sobered up a bit, Jace led them to the dragonkin's corpse lying on the ground.
+If they'd been sent back to Lakeshire — or even Stormwind — who knew how much trouble they'd cause.
+
+After the two had sobered up a bit, Jace led them to the dragonkin's corpse lying on the ground.
 
 "Take a look. Can you make anything out?" Jace asked.
 
@@ -98,7 +100,7 @@ Hearing Jace's words, young Ronmeis stared at the dragonkin for a long time with
 
 Jace walked up to the corpse and carefully searched its clothing and accessories.
 
-Aside from some braciers forged by persons unknown, a dark red cloak too tattered for a human to wear, and some body coverings that didn't come close to fitting human proportions, there was nothing else.
+Aside from some bracers forged by persons unknown, a dark red cloak too tattered for a human to wear, and some body coverings that didn't come close to fitting human proportions, there was nothing else.
 
 "The dragon scale isn't on her." Jace turned and asked old Ronmeis. "Are you sure she took it?"
 
@@ -119,27 +121,3 @@ Jace took it, stepped on the dragonkin's neck, and — in front of the father an
 "I have one…" Young Ronmeis stared at Jace, then held out a cloth pouch. "I'm truly grateful you saved my father's life, mage. And mine, of course."
 
 Jace took the pouch, handed the dagger back, and smiled. "Save the thanks. Now then — let's settle the medical bill for my wound, shall we, gentlemen?"
-
-## Flags
-
-- **证据** → "Evidence": chapter title. 证据 = evidence. Rendered as "Evidence."
-- **卡尔克** → "Cark": young Ronmeis's first name. Not in glossary. Rendered as "Cark" (transliteration tentative). Flagged.
-- **亨伯里·罗恩梅斯** → "Henbury Ronmeis": the father. Per ch.249.
-- **罗恩梅斯** → "Ronmeis": family name. Per ch.249.
-- **暮光之锤** → "Twilight's Hammer": canon Old God-worshipping cult founded by Cho'gall. Not in glossary. Flagged.
-- **拜龙教派** → "Dragon Cult": the cult that serves the black dragons, helping incubate dragon eggs in exchange for being turned into dragonkin. Not in glossary. Flagged.
-- **刀锋山** → "Blade's Edge Mountains": canon. Not in glossary. Flagged.
-- **德莱尼** → "draenei": canon. Not in glossary. Flagged.
-- **黑暗之门** → "Dark Portal": canon. In glossary.
-- **德拉诺** → "Draenor": canon. In glossary.
-- **兽人** → "orcs": in glossary.
-- **古加尔** → "Cho'gall": canon ogre warlock. In glossary.
-- **古尔丹** → "Gul'dan": canon orc warlock. In glossary.
-- **上古之神** → "Old Gods": canon. Not in glossary. Flagged.
-- **龙人** → "dragonkin": per ch.148/210/237/291/292/293.
-- **龙鳞** → "dragon scale": the black dragon scale that lured the Ronmeis father and son. Not in glossary as a compound. Flagged.
-- **治安官** → "sheriff": Lakeshire's lawman. Not in glossary. Flagged.
-- **圣光在上** → "Light above": the son's invocation of the Holy Light. Not in glossary. Flagged.
-- **寻宝团** → "treasure-hunting group": the front used to lure victims to the dragonkin.
-- **世界毁灭之前得到拯救** → "salvation before the world was destroyed": the dragonkin cult's recruitment pitch.
-- **晋升** → "ascend": the process of being transformed into a dragonkin (linked to 获选者 / Chosen One in ch.257).

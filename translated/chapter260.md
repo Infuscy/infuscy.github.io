@@ -8,13 +8,13 @@ After resting a bit and eating some of the ranger's dried meat, Jace set out on 
 
 Although it was already the middle of the night, Jace didn't feel drowsy in the slightest.
 
-He didn't find it strange either. After a big session of Life Drain, it was always like this — a buzzing, wired sort of exhilaration, like he'd shot up a stimulant. His brain hummed nonstop, his ears throbbed with his pulse, and he felt like he had boundless energy.
+He didn't find it strange either. After a big session of Drain Life, it was always like this — a buzzing, wired sort of exhilaration, like he'd shot up a stimulant. His brain hummed nonstop, his ears throbbed with his pulse, and he felt like he had boundless energy.
 
 It was just that the business of finding Dark Iron gunpowder — when he'd agreed to help Ursula, he hadn't felt anything was off about it. But now that he was here, he had a feeling it wouldn't go so smoothly.
 
 This place was simply too far from Blackrock Mountain. Would Dark Iron dwarves really come all the way out here to set up camp and settle down?
 
-After all, ever since the days of the War of the Three Hammers, when Blackrock Mountain had still been part of Redridge, this had been human territory. The Dark Iron dwarves, in order to deal with their cousins, had never provoked the Stormwind Kingdom too much — lest they end up caught between enemies on two fronts. So did he really need to help Ursula get gunpowder by pushing further and further north, all the way into the war zone between the Dark Iron dwarves and the Blackrock orcs?
+After all, ever since the days of the War of the Three Hammers, when Blackrock Mountain had still been part of Redridge, this had been human territory. The Dark Iron dwarves, in order to deal with their cousins, had never provoked the Kingdom of Stormwind too much — lest they end up caught between enemies on two fronts. So did he really need to help Ursula get gunpowder by pushing further and further north, all the way into the war zone between the Dark Iron dwarves and the Blackrock orcs?
 
 Thinking of this, Jace took a more philosophical view of his chances on this trip.
 
@@ -58,7 +58,7 @@ The crack was extremely well hidden. There were no footprints or paths outside �
 
 He wondered if the dwarven camp up on the mountain had been set up for the sake of this cave.
 
-Jace poked his head in for a look and couldn't see a thing. Moonlight only reached the entrance.
+Jace poked his head in for a look and couldn't see a thing. Daylight only reached the entrance.
 
 He cast Light, but the succubus grabbed his wrist. "Master, let me go first? I can probably see more clearly in there than you."
 
@@ -93,24 +93,3 @@ Could it be some other kind of insect?
 Jace couldn't tell whether this was a Dark Iron dwarven ruin or the remains of some other dwarven clan's dwelling.
 
 He lowered his head and searched the ground for a while. In the shallow soil at a corner, borrowing the light from the succubus's eyes, he found several indistinct large footprints.
-
-## Flags
-
-- **遗迹** → "Ruins": chapter title. 遗迹 = ruins/relics/remains. Rendered as "Ruins."
-- **灵魂链接** → "Soul Link": warlock spell that shunts damage to minions. Jace notes the wound is far less severe than it should be because the Link absorbs more than 20%. Not in glossary. Flagged.
-- **厄苏拉** → "Ursula": OC? Alchemist/warlock at the Slaughtered Lamb. In glossary.
-- **黑铁矮人** → "Dark Iron dwarves": in glossary (黑铁 = Dark Iron).
-- **黑石山** → "Blackrock Mountain": canon. In glossary.
-- **三锤之战** → "War of the Three Hammers": canon dwarven civil war. Not in glossary. Flagged.
-- **燃烧平原** → "Burning Steppes": canon. Not in glossary. Flagged.
-- **铜须** → "Bronzebeard": dwarven clan. In glossary.
-- **暗炉城** → "Shadowforge City": canon. In glossary.
-- **止水湖** → "Lake Everstill": canon. In glossary.
-- **石堡** → "Stonewatch": canon (Stonewatch Keep). In glossary.
-- **鹰巢山** → "Aerie Peak": canon (Wildhammer dwarven stronghold). Not in glossary. Flagged.
-- **火蜥蜴** → "fire lizards": not in glossary. Flagged.
-- **黑铁矮人的火药** → "Dark Iron gunpowder": the mission objective Jace promised Ursula.
-- **撒厄诺** → "Sazeno": Jace's imp. Per ch.52/53.
-- **莫洛菲尔** → "Morophil": Jace's succubus. Per ch.241.
-- **矮人居住点** → "dwarven dwelling": the underground ruin Jace discovers — a former dwarven settlement, possibly Dark Iron or another clan.
-- **大脚印** → "large footprints": found in the ruin, suggesting recent dwarven presence.

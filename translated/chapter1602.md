@@ -4,7 +4,7 @@
 
 Jace had barely stepped onto the stairs when Needleflame's voice came from above.
 
-"What took you so long? Sora and I have been waiting forever!"
+"What took you so long? Sola and I have been waiting forever!"
 
 "What's the rush?" Jace looked up.
 
@@ -12,27 +12,27 @@ Needleflame was already running back down the hallway.
 
 "Loot time, obviously! The one we've all been waiting for! Come on, come on!"
 
-The two of them quickened their pace and caught up, entering Jace's room. Sora and Morophil were already seated. Needleflame plopped down beside them.
+The two of them quickened their pace and caught up, entering Jace's room. Sola and Morophil were already seated. Needleflame plopped down beside them.
 
-"It's all here, master. The treasures we looted from Shazzrah. I have to say, Lord Gehennas really saved us a lot of effort in gathering loot. Those fire elementals have so many good things!"
+"It's all here, master. The treasures we looted from Shazzrah. I have to say, Lord Gehennas really saved us a lot of effort in gathering loot. Those flamewakers have so many good things!"
 
-"Is it really okay to split the spoils without Grede Thunderfist here?" Sora looked up.
+"Is it really okay to split the spoils without Grede Thunderfist here?" Sola looked up.
 
 "That guy has the Hand of Justice. He has Sulfuras. He's the hero of the Three Hammers. What more does he want?" Jace snorted, sitting down on the iron bed frame. "We'll split ours. Let him rest in the palace."
 
-"Fair point." Sora suppressed a smile.
+"Fair point." Sola suppressed a smile.
 
 "Excellent!" Needleflame licked her lips and picked up a short blade wrapped in mageweave cloth. "That guy's greed is a bottomless pit. He looks like a Wildhammer, but inside he's no different from those raving treasure-and-gold-obsessed Dark Irons!"
 
 Vereesa nodded in agreement.
 
-"Even though you're the youngest among us, Needleflame, your understanding of that Thunderfist is the most accurate. I'm willing to bet that even if he already has two warhammers, he'd still want an axe, just so he can cosplay Muradin Bronzebeard."
+"Even though you're the youngest among us, Needleflame, your understanding of that Thunderfist is the most accurate. I'm willing to bet that even if he already has two warhammers, he'd still want an axe, just so he can play at being Muradin Bronzebeard."
 
-"And I heard Dagran Thaurissan plans to gift him an Anvilmare-era helmet," Sora added. "To thank him for his contribution against the Firelord."
+"And I heard Dagran Thaurissan plans to gift him an Anvilmar-era helmet," Sola added. "To thank him for his contribution against the Firelord."
 
 "Well, isn't that generous of him." Jace chuckled. "What helmet?"
 
-"Apparently called the Lionheart Helm," Sora said. "A very beautiful golden war-helm."
+"Apparently called the Lionheart Helm," Sola said. "A very beautiful golden war-helm."
 
 "Then we definitely shouldn't let him share the loot." Jace waved. "Let's start. First item."
 
@@ -40,9 +40,9 @@ Vereesa nodded in agreement.
 
 Needleflame unwrapped the mageweave, touching the flame runes on it.
 
-"This doesn't look like something fire elementals use."
+"This doesn't look like something flamewakers use."
 
-It looked like the Finkle's Lava Dredger or maybe the Razor of... no, wait. Jace thought it looked like the Cleaver of... Actually, this might be the "Core Hound Tooth" or another weapon from Garr. Jace had forgotten the exact stats, but he had some memory of its appearance.
+Jace thought it looked like the Brutality Blade, or maybe some other weapon Garr used to drop. Jace had forgotten the exact stats, but he had some memory of its appearance.
 
 "Probably left behind by some adventurer who broke into the Molten Core before," he said, crossing his arms. "Those unlucky bastards the Hydraxian Waterlords tricked into Shadowforge City."
 
@@ -50,31 +50,31 @@ It looked like the Finkle's Lava Dredger or maybe the Razor of... no, wait. Jace
 
 "I agree," Jace said.
 
-"I agree too. I'm not very good with this type of weapon," Sora said.
+"I agree too. I'm not very good with this type of weapon," Sola said.
 
 "You're all the best." Needleflame hugged both blades happily.
 
-"Next." Jace pulled out the mageweave-wrapped, incredibly heavy Demonflame Belt and placed it on the table. "A fire elemental's belt. It boosts spell power. And what's special is it can resize itself to fit the wearer. I guess they enchanted it this way because fire elemental priests and lords come in such wildly different sizes."
+"Next." Jace pulled out the mageweave-wrapped, incredibly heavy Mana Igniting Cord and placed it on the table. "A flamewaker's belt. It boosts spell power. And what's special is it can resize itself to fit the wearer. I guess they enchanted it this way because flamewaker priests and lords come in such wildly different sizes."
 
 He coughed. "As the only spellcaster in the group--"
 
-"Is that right?" Vereesa raised an eyebrow. "What about Sora?"
+"Is that right?" Vereesa raised an eyebrow. "What about Sola?"
 
-"Hmm." Sora considered. "I prefer using shapeshifting magic to adorn myself, Vereesa. If Jace wants it, give it to him."
+"Hmm." Sola considered. "I prefer using shapeshifting magic to adorn myself, Vereesa. If Jace wants it, give it to him."
 
 "Fine." Vereesa shrugged.
 
 "Much appreciated." Jace sighed with feeling. "What a harmonious team we are."
 
-"Next up -- the fire elemental's magic stone tablet!" Needleflame announced.
+"Next up -- the flamewaker's magic stone tablet!" Needleflame announced.
 
 "I prefer to call it the Talisman of Ephemeral Power," Jace said. "It grants incredibly deep energy amplification for a short time. When I say short time, I mean about ten minutes or more, actually."
 
-"Perfect for amplifying my Dream Magic," Sora said.
+"Perfect for amplifying my dream magic," Sola said.
 
-"Exactly what I was thinking," the ranger said. "You need it more than I do, Sora. If you'd had a talisman this powerful to boost your mana back in the Molten Core, I doubt Lucifron's shadow magic would have lasted long against your purification."
+"Exactly what I was thinking," the ranger said. "You need it more than I do, Sola. If you'd had a talisman this powerful to boost your mana back in the Molten Core, I doubt Lucifron's shadow magic would have lasted long against your purification."
 
-Even though Jace had tried to throw this thing away earlier, now he found himself a little reluctant to part with it. But he'd already taken the Demonflame Belt. How could he ask for another one? He had to hand the tablet to Sora.
+Even though Jace had tried to throw this thing away earlier, now he found himself a little reluctant to part with it. But he'd already taken the Mana Igniting Cord. How could he ask for another one? He had to hand the tablet to Sola.
 
 "Thank you, everyone. I'll take good care of it." The green dragon beamed.
 
@@ -88,7 +88,7 @@ Even though Jace had tried to throw this thing away earlier, now he found himsel
 
 "Activate it," Jace said.
 
-The imp strained so hard his flames wobbled back and forth. Finally, with a yelp, he dropped the tablet. He hadn't managed to activate the Talisman of Ephemeral Power at all. Frankly, this thing was heavy to carry. For a three-to-four-meter-tall fire elemental priest, it was a necklace. On a human, it was the size of a belt pouch. Strapped to an imp, it was just ridiculous.
+The imp strained so hard his flames wobbled back and forth. Finally, with a yelp, he dropped the tablet. He hadn't managed to activate the Talisman of Ephemeral Power at all. Frankly, this thing was heavy to carry. For a three-to-four-meter-tall flamewaker priest, it was a necklace. On a human, it was the size of a belt pouch. Strapped to an imp, it was just ridiculous.
 
 "I think that settles it," Jace said.
 
@@ -96,9 +96,9 @@ The imp strained so hard his flames wobbled back and forth. Finally, with a yelp
 
 "Next up is..." Needleflame tried to look casual as she pulled another mageweave-wrapped weapon from under the table -- this one enchanted with frost.
 
-Jace didn't even need to unwrap it. He knew it was the "Fury of Ragnaros" dagger the fire elemental assassin had tried to kill Grede with.
+Jace didn't even need to unwrap it. He knew it was Perdition's Blade, the dagger the flamewaker assassin had tried to kill Grede with.
 
-Sure enough, the moment the mageweave opened, the fire-crystal-like three-pronged blade revealed itself. The guard and handle were as delicately crafted as a fire elemental lord's scales. It was practically something born from the Firelands.
+Sure enough, the moment the mageweave opened, the fire-crystal-like three-pronged blade revealed itself. The guard and handle were as delicately crafted as a flamewaker lord's scales. It was practically something born from the Firelands.
 
 Vereesa, Needleflame, and Morophil all looked at each other. Vereesa spoke first.
 
@@ -108,7 +108,7 @@ Vereesa, Needleflame, and Morophil all looked at each other. Vereesa spoke first
 
 "You have the Apocalypse twin blades. I don't need to tell you how powerful that demonic weapon is, forged by a red dragon," Vereesa said.
 
-"You have Dragon's Call, the blade of the Green Dragon Aspect, Eranikus himself," Morophil countered. "We're about even in that regard."
+"You have Dragon's Call, the blade of Ysera's consort, Eranikus himself," Morophil countered. "We're about even in that regard."
 
 "It seems we'll need to settle the ownership of this molten blade through some special method." Vereesa's tone was calm. "But I haven't fully recovered yet. We can settle it some other time."
 
@@ -126,7 +126,7 @@ Vereesa shot him a cold glare and was about to retort when Needleflame suddenly 
 
 "That's just how our team works," Jace said.
 
-"Since when?" Sora muttered quietly.
+"Since when?" Sola muttered quietly.
 
 "I don't care! I didn't know this time! We'll talk about it next time!" Needleflame slapped the two weapons in her arms onto the table. "I wouldn't have taken those two swords if I'd known! No wonder you were so nice to me earlier -- you were just waiting for this last one! You planned this! Aghhh!"
 
@@ -164,7 +164,7 @@ She was back before long, carrying a large black dice cup in both hands. It was 
 
 "Damn... fifty-two."
 
-"You're out, Sister Vereesa." Needleflame wiggled her hips happily. "Black wings are the rulers of molten power--"
+"You're out, Sister Vereesa." Needleflame wiggled her hips happily. "Blackwings are the rulers of molten power--"
 
 "Eighty-five." Morophil lifted the cup. "Clearly, demons are the rulers of dice."
 
@@ -184,11 +184,11 @@ The black dragon, who had been frowning a moment ago, suddenly beamed like a fla
 
 "Don't touch my waist with those grubby little hands. You were stealing roast meat from those Dark Iron dwarves just now. Your fingers are covered in either your own saliva or grease!" Morophil said in disgust.
 
-"I know, I know!" Needleflame happily clutched the Fury of Ragnaros.
+"I know, I know!" Needleflame happily clutched Perdition's Blade.
 
 Watching her grab the blade directly without flinching, Jace felt the weapon really did belong with Needleflame.
 
-As Needleflame happily carried her new weapon back to the room she shared with Sora, Jace crept closer to Morophil.
+As Needleflame happily carried her new weapon back to the room she shared with Sola, Jace crept closer to Morophil.
 
 "Did you actually cheat?"
 

@@ -20,7 +20,7 @@ Maybe he was one of those shadows too, the young man thought. Maybe those people
 
 The air was cold, carrying a damp chill that made him want to pull his coat tighter. But there was no wind to block.
 
-Maybe I don't belong here.
+*Maybe I don't belong here.*
 
 Then he noticed someone walking toward him from the other side.
 
@@ -124,9 +124,13 @@ The stranger's tone turned serious: "Don't let the things in this sea deceive yo
 
 "Stay, master."
 
-"Master? What does that mean?" The young man frowned. "Jace? Jace Sesso, is that you?"
+"Master? What does that mean?" The young man frowned.
 
-"You... help!" Jace Sesso... Who's Jace Sesso?
+"Jace? Jace Sesso, is that you?"
+
+"You... help!"
+
+*Jace Sesso... Who's Jace Sesso?*
 
 It didn't matter anymore.
 

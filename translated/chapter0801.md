@@ -4,11 +4,11 @@
 
 Grede pointed at the pouch's surface, barely able to get the words out. "Look at this hide quality, this grain… What an absolute bastard. That witch doctor killed a dwarf to make a skin pouch. Those goblins ought to throw her into the sea for the sharks to eat! I'm going to kill her!"
 
-"Grede." Vereesa gave a warning. The dwarf glanced around. Quite a few people in the Sailor's Home inn had noticed the commotion at their table. Several goblin guards, hearing mentions of goblins being thrown into the sea for sharks and the like, were all casting wary glances this way.
+"Grede." Vereesa gave a warning. The dwarf glanced around. Quite a few people in the Salty Sailor Tavern had noticed the commotion at their table. Several goblin guards, hearing mentions of goblins being thrown into the sea for sharks and the like, were all casting wary glances this way.
 
 Grede realized he was being stared at by so many people and felt a little awkward too.
 
-"Calm down, dwarf," Molophil said. "This hide is so dark — look. Are you sure it's the skin of a Wildhammer dwarf like you?"
+"Calm down, dwarf," Morophil said. "This hide is so dark — look. Are you sure it's the skin of a Wildhammer dwarf like you?"
 
 Jace had his doubts too. Forget it looking like Wildhammer dwarf skin — that witch doctor didn't have the combat ability. Could she really kill a dwarf and flay him in Booty Bay, a trading port that valued its neutral status so highly?
 
@@ -20,7 +20,7 @@ Even if she could actually do it, she wouldn't sell it for just a few silver.
 
 "She sold me this bag for four silver, Grede," Jace said. "Considering this is dwarf skin… the price isn't expensive. I think there must be someone selling large quantities of Dark Iron dwarf hides here, driving the price down to this level."
 
-"It's the Burningthorn trolls selling them, mage." A tall man at the next table tilted his head and said in a low voice. "Those trolls serve the Horde in Blackrock Spire. They collect the corpses of the Shadowforge City dwarves and flay them to sell the hides here. That's why there's so much dwarf hide of this color around."
+"It's the Smolderthorn trolls selling them, mage." A tall man at the next table tilted his head and said in a low voice. "Those trolls serve the Horde in Blackrock Spire. They collect the corpses of the Shadowforge City dwarves and flay them to sell the hides here. That's why there's so much dwarf hide of this color around."
 
 Jace nodded at the man, but he wasn't too happy about someone butting into the conversation uninvited.
 
@@ -46,9 +46,9 @@ So this troll potion didn't just let you see ghosts — you could hear them too?
 
 Perceiving carefully, he could indeed feel the necrotic aura on the man. It was just that his attention had been on his companions a moment ago, and he hadn't expected a dead man to be squatting right next to them, so he hadn't observed carefully.
 
-He hadn't expected a ghost to be wandering around the Sailor's Home inn.
+He hadn't expected a ghost to be wandering around the Salty Sailor Tavern.
 
-He stood up and squeezed into the crowd, quickly disappearing from sight. Jace watched him vanish, then looked back at the two people staring at him. "We can spend one more day fooling around in Booty Bay tomorrow. The potion works."
+The ghost stood up and squeezed into the crowd, quickly disappearing from sight. Jace watched him vanish, then looked back at the two people staring at him. "We can spend one more day fooling around in Booty Bay tomorrow. The potion works."
 
 "There was a ghost right next to us just now?" Vereesa rubbed her neck vigorously. "No wonder I felt something was off."
 
@@ -70,15 +70,15 @@ Watching the shifting crowd, the grumbling and cursing all the way until it quie
 
 "When? I didn't know about it," Vereesa said.
 
-Jace said, "Remember that time I wrote to you asking how to break a curse like Death's Shadow?"
+Jace said, "Remember that time I wrote to you asking how to break a curse like Shadow of Death?"
 
 "What letter?" Vereesa asked.
 
 Jace suddenly remembered — back then, that letter hadn't even been delivered in the end, because the Dark Portal disaster had drawn away too many elven mages to Nethergarde Keep.
 
-Vereesa said, "I know Death's Shadow. That's one of Teron Gorefiend's vicious spells — it kills a person and turns them into a terrifying ghost to slaughter their friends and companions."
+Vereesa said, "I know Shadow of Death. That's one of Teron Gorefiend's vicious spells — it kills a person and turns them into a terrifying ghost to slaughter their friends and companions."
 
-Then she suddenly looked up. "You were hit by Death's Shadow? No… that's…"
+Then she suddenly looked up. "You were hit by Shadow of Death? No… that's…"
 
 Jace rubbed his face. "More or less. When we were in Thaurissan, near the end Gorefiend seemed to have left me with that little gift. It was only many days after I returned to Stormwind that I realized this curse with the help of the cathedral."
 
@@ -92,7 +92,7 @@ Jace said, "To be precise, it was the goblin alchemist who had the method. I jus
 
 "Why didn't you ever mention this to me?" Vereesa asked.
 
-Jace stole a glance at Molophil. The succubus was looking innocently toward the bar as if she hadn't heard a thing.
+Jace stole a glance at Morophil. The succubus was looking innocently toward the bar as if she hadn't heard a thing.
 
 "Later when we met again, it was already at the Dark Portal. Nothing but demons — no chance to talk about it."
 
@@ -104,12 +104,12 @@ Stop dwelling on this topic, Lady Vereesa Windrunner, he muttered to himself.
 
 "Thinking back on that time, I was still feeling smug about killing Teron Gorefiend, while you were here enduring the agony of that curse — I can barely imagine what was going through your mind back then." The elf spoke softly, her voice nearly drowned out by the tavern's clamor.
 
-"At least you gave me this." Jace touched the sapphire on the sword grip. "I'm sure the thrill from the Song of Azure delayed the curse's onset by at least a few months."
+"At least you gave me this." Jace touched the sapphire on the sword grip. "I'm sure the thrill from Azuresong delayed the curse's onset by at least a few months."
 
 "I hope so," Vereesa said. "At least that makes me feel a little less guilty."
 
 "Now, you've not only proven yourself worthy of owning this sword… Jace, the truth is, it's now desperately trying to prove itself worthy of you. I can feel it."
 
-Jace had actually been worried the ranger would bring up that troll witch doctor again and ask even more questions, but now that she'd brought this up, he couldn't help but recall the time he'd first gotten the Song of Azure.
+Jace had actually been worried the ranger would bring up that troll witch doctor again and ask even more questions, but now that she'd brought this up, he couldn't help but recall the time he'd first gotten Azuresong.
 
 Back then, he'd still doubted whether he could even hold on to the sword at all, let alone whether he was worthy of it.

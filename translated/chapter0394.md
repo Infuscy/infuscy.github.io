@@ -1,6 +1,6 @@
 ## Chapter 394: Extracting a Soul
 
-Jace opened the small pouch of soul shards Mosul had given him, only to find that there were only two soul shards still glowing inside.
+Jace opened the small pouch of soul shards Mor'zul had given him, only to find that there were only two soul shards still glowing inside.
 
 Moreover, both of these soul shards had been infused with arcane energy, specifically for summoning felhounds. Jace didn't know if using this kind of soul shard to cast magic would produce other unpredictable results.
 
@@ -10,7 +10,7 @@ He looked at the imp. "Sazeno, how are souls forged into these soul shards?"
 
 "That's the same as not saying anything," Jace sighed.
 
-In the game, to collect a soul shard, you had to use a soul-draining spell. If the target died during the draining process, its soul would be collected by the warlock.
+In the game, to collect a soul shard, you had to use Drain Soul. If the target died during the draining process, its soul would be collected by the warlock.
 
 Jace didn't have the slightest clue about this kind of magic right now. He looked at the succubus again. "Do you know, Morophil?"
 
@@ -18,7 +18,7 @@ Jace didn't have the slightest clue about this kind of magic right now. He looke
 
 "You actually know this magic?" Jace asked.
 
-"Don't forget what I used to do, master," Morophil tilted her head. "To the Eredar Witch Kings and the lords of the abyss, what use is a demon's corpse? The Twisting Nether is full of palaces built from demon remains... Of course it's the soul that matters most. A reaper who can't harvest souls is barely worthy of the name."
+"Don't forget what I used to do, master," Morophil tilted her head. "To the eredar warlock-kings and the pit lords, what use is a demon's corpse? The Twisting Nether is full of palaces built from demon remains... Of course it's the soul that matters most. A reaper who can't harvest souls is barely worthy of the name."
 
 "Why didn't you say so earlier?" Jace looked around. The quiet forest was empty. Right now, he was actually hoping some giant dire wolf would come ambush him.
 
@@ -38,9 +38,11 @@ Jace continued forward. The more old trees he encountered draped in these white 
 
 He found a spider web, took a running start, and threw himself onto it, thrashing around.
 
-"I'm done for! Save me! Help! I don't want to die!" Suddenly a burst of fire burned away the spider web around him. The web rapidly lost the strength to support Jace under the flames, and he splat into the mud.
+"I'm done for! Save me! Help! I don't want to die!"
 
-After climbing back up, he turned to look at the imp behind him, hands on its waist, looking immensely pleased with itself.
+Suddenly a burst of fire burned away the spider web around him. The web rapidly lost the strength to support Jace under the flames, and he splatted into the mud.
+
+After climbing back up, he turned to look at the imp behind him, hands on its hips, looking immensely pleased with itself.
 
 "How's that? I saved the stupid master's life again!"
 
@@ -58,13 +60,13 @@ He wandered around this suspected spider nest forest, then walked to another are
 
 "Ow, I'm done for! Damn spider! I'm a goner... I don't want to die! Help!"
 
-Those shouts from earlier had fooled the imp. A spider's intelligence shouldn't be higher than the imp's, right? Thinking back to Sazeno's brainless operation from before, and then thinking about the size of Azerothian spiders, he actually hesitated a bit.
+Those shouts from earlier had fooled the imp. A spider's intelligence shouldn't be higher than the imp's, right? Thinking back to Sazeno's brainless stunt from before, and then thinking about the size of Azerothian spiders, he actually hesitated a bit.
 
 After thrashing for a while, he didn't sense any movement from the surrounding spiders. He suddenly remembered that animals seemed to have the ability to sense fear. Was it that he seemed too calm? He should show fear or exhaustion, let the spider sense it? He thrashed a bit more, until he'd worked up a sweat, then looked at the treetops, looked at the dark shadows in the distance, and recalled a few things that scared him a bit — especially that naga he'd encountered in the fishing village that day... He inhaled, then exhaled.
 
 Not long after, there seemed to be movement up in the tree.
 
-Several thin, needle-like black limbs carefully probed down along the web. Jace looked at those few red eyes arranged in a cluster, buried in the shadows, corrupted by shadow, and felt his scalp tingle.
+Several thin, needle-like black limbs carefully probed down along the web. Jace looked at those few red eyes arranged in a cluster, buried in the shadows, corrupted by shadow, and felt his scalp prickle.
 
 "Strike!"
 
@@ -78,14 +80,14 @@ Morophil chased after it and grabbed the dying spider. She opened her mouth clos
 
 She picked up her black sword, came back, and took a pale purple soul shard from her mouth, holding it out to Jace. "It's not as bright as the infused souls in your pouch — it might not attract a felhound. But I think it'll do."
 
-"Good enough, Morophil," Jace took the shard. "I couldn't ask for more. Before this, I thought I'd only get to attempt twice this trip... I'd still have to go back and buy more shards from Erland Dudmoor."
+"Good enough, Morophil," Jace took the shard. "I couldn't ask for more. Before this, I thought I'd only get to attempt twice this trip... I'd still have to go back and buy more shards from Erlan Drudgemoor."
 
 "Speaking of which, could you teach me this magic?"
 
 Morophil said helplessly, "I'm sorry, master, but this isn't some simple incantation... it's not something I can just teach you and have you learn it."
 
-If this wasn't a learnable kind of magic, then how did Mosul get these shards? If he bought them, then the seller should at least know how to make soul shards.
+If this wasn't a learnable kind of magic, then how did Mor'zul get these shards? If he bought them, then the seller should at least know how to make soul shards.
 
-Even in the game, there were many ways to condense souls into soul shards. Morophil's method clearly wasn't like the soul-draining spell from the game.
+Even in the game, there were many ways to condense souls into soul shards. Morophil's method clearly wasn't like the Drain Soul spell from the game.
 
 In any case, there had to be a way that humans could master.

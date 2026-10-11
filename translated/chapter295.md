@@ -1,6 +1,6 @@
 ## Chapter 295: Embers Among the Ruins
 
-The moment the dragon had swept over their heads, everything went quiet — a terrible silence. But the wind from the beating of vast wings could still hear in the distance, circling.
+The moment the dragon had swept over their heads, everything went quiet — a terrible silence. But the wind from the beating of vast wings could still be heard in the distance, circling.
 
 Jace used the opening to cast Arcane Intellect, then continued chanting the Mage Armor incantation.
 
@@ -40,11 +40,11 @@ Just as he scanned the heights, a thunderous crash erupted from behind the walls
 
 The dragon was behind him!
 
-Jace leaped to one side. A shadow surged up from behind. The wind from the creature's wings sent his cloak and robe flapping wildly. Jace felt that alone the wind nearly knocked him off his feet — a moment slower and the whelp would have crushed him outright.
+Jace leaped to one side. A shadow surged up from behind. The wind from the creature's wings sent his cloak and robe flapping wildly. Jace felt that the wind alone nearly knocked him off his feet — a moment slower and the drake would have crushed him outright.
 
 The ground shook with each footfall. The black dragon charged back into the street, wings flaring, as if trying to take off again.
 
-Jace charged out over the still-burning flames, pointed at the black dragon's back, and roared at the top of his lungs: "K'BIIMOFLOSAAS!"
+Jace charged out over the still-burning flames, pointed at the black dragon's back, and roared at the top of his lungs: "KIBIMOFULOSAS!"
 
 He wasn't even sure he'd pronounced it correctly — but just as the dragon's body lurched upward, its shoulder erupted in a burst of crimson flame, like blood suddenly spraying forth.
 
@@ -58,7 +58,7 @@ He dove into a nearby wall and scrambled several more steps in. A chunk of magma
 
 Jace coughed himself upright, his whole body so weak he could barely summon strength. He coughed and spat a little blood — he couldn't tell if it was internal bleeding or if a tooth had been shaken loose.
 
-After a blast like that, the Mage Armor shimmering across his robes had begun glowing like a cluster of arcane crystals — far brighter than before. According to the spellbook's description, this was the result of absorbing an excess of magical damage. In other words, on its current form, the spell was close to breaking apart.
+After a blast like that, the Mage Armor shimmering across his robes had begun glowing like a cluster of arcane crystals — far brighter than before. According to the spellbook's description, this was the result of absorbing an excess of magical damage. In other words, in its current state, the spell was close to breaking apart.
 
 Mage Armor wasn't a spell shield or a barrier, but that didn't mean it could endure unlimited punishment without failing.
 
@@ -86,11 +86,11 @@ Before Jace could respond, the moment the creature landed it unleashed a horizon
 
 By now the black dragon had reared up. One swipe of its foreclaw shattered a wall of stone in front of it. From within the shattered wall flashed a silver shadow — the elf had used the force of the black dragon's own strike to leap nimbly, seizing its arm and landing squarely on its lower neck!
 
-The black dragon snarled in fury, raising its wings again, trying to whip up a gale and take off. Jace once again unleashed his shadow-corroded Immolate. The blast tore through the dragon's wing membrane — this time when it tried to flap, it only managed half a beat before howling in pain and dropping its wing. It turned its head back toward Jace, seething.
+The black dragon snarled in fury, raising its wings again, trying to whip up a gale and take off. Jace once again unleashed his shadow-corroded Scorch. The blast tore through the dragon's wing membrane — this time when it tried to flap, it only managed half a beat before howling in pain and dropping its wing. It turned its head back toward Jace, seething.
 
 Before it could spew fire in his direction, Vereesa braced herself, drew a blade, and slashed a long gash through the scales and skin on its neck. The scrape of steel against dragonhide rang out shrill and clear. The black dragon threw its head back in a howl. The flames in its mouth turned into a cloud of churning black smoke. The beast began whipping its serpent-like neck back and forth in a frenzy, trying to shake Vereesa off. The elf nimbly leaped onto its back. Before she could steady herself, the creature immediately whipped its head around, trying to reach around and bite her from behind!
 
-Jace struck the black dragon in the face with another Immolate. Crimson flame erupted at its mouth, blowing out a spray of purple-red blood. The dragon tilted its head, panting — dazed, as if stunned.
+Jace struck the black dragon in the face with another Scorch. Crimson flame erupted at its mouth, blowing out a spray of purple-red blood. The dragon tilted its head, panting — dazed, as if stunned.
 
 Jace leveled his staff and, without hesitation, began draining the black dragon's life force. The dragon felt the tearing of the magic and howled in agony. Its head finally couldn't keep pace with Vereesa's movements.
 
@@ -104,7 +104,7 @@ The beast roared and shrieked violently — half cough, half gloating cackle. It
 
 Jace continued to drain the black dragon's life force without relent. The injuries he'd sustained from the fireball were gradually mending, his vitality surging back.
 
-But this black dragon, even as he drained with all its might, only grew sluggish in its movements — its temper, if anything, only more savage. It shrieked madly as it pursued Vereesa, attacking without pause. The creature had gone berserk, snapping and swiping. Though Vereesa dodged every strike, it was driving her further and further back. The black dragon charged after her into the dust, and soon Jace's magic couldn't reach it anymore.
+But this black dragon, even as he drained with all his might, only grew sluggish in its movements — its temper, if anything, only more savage. It shrieked madly as it pursued Vereesa, attacking without pause. The creature had gone berserk, snapping and swiping. Though Vereesa dodged every strike, it was driving her further and further back. The black dragon charged after her into the dust, and soon Jace's magic couldn't reach it anymore.
 
 The black dragon roared, heaving up chunks of ruined wall after chunk of ruined wall. Vereesa could barely avoid the brunt of its fury — but it was clear she'd nearly been caught several times over.
 
@@ -120,7 +120,7 @@ The black dragon drew its whole body back a great distance, then swung its long 
 
 If that had hit him, it probably would have pulped him on the spot.
 
-For a whelp, this seemed to cost it no effort at all. It raised its tail and struck again. Jace staggered back a few steps and barely dodged. Even the rubble kicked up by the impact struck him hard enough on the forehead to nearly knock him senseless.
+For a drake, this seemed to cost it no effort at all. It raised its tail and struck again. Jace staggered back a few steps and barely dodged. Even the rubble kicked up by the impact struck him hard enough on the forehead to nearly knock him senseless.
 
 At last, the young dragon drew a step back and swept its tail horizontally. Jace ducked low and dodged — and heard the imp shrieking from somewhere: "You idiot, look out! You're done for!"
 
@@ -148,7 +148,7 @@ Jace used one of the breathing openings to glance back. The black dragon shoved 
 
 Suddenly, a shining arrow shot into its mouth from the side. The black dragon lurched and swayed. Before it could look to its side, another arrow pierced straight into its eye.
 
-Vereesa stood anchored steadily on a distant wall, calmly drawing and aiming. The black dragon opened its mouth to gather another ball of flame — but the Farstrider didn't dodge or flinch. An arrow flew true from its mouth straight down the black dragon's throat. This one made the black dragon heave in a bout of vomiting, a great mass of glowing, molten lava spilling from its mouth.
+Vereesa stood anchored steadily on a distant wall, calmly drawing and aiming. The black dragon opened its mouth to gather another ball of flame — but the Farstrider didn't dodge or flinch. An arrow flew true, into its mouth and straight down the black dragon's throat. This one made the black dragon heave in a bout of vomiting, a great mass of glowing, molten lava spilling from its mouth.
 
 The black dragon finally sensed something was wrong. It whipped its head and shrieked, backing several steps to one side, using its wings to shield its body from further arrows.
 
@@ -162,11 +162,11 @@ By now, Jace had sprinted to the area nearby. He caught sight of what looked lik
 
 Alright, I know you did your best…
 
-He leaped onto a broken wall, getting as high as he could. Before he could steady himself, he hit the black dragon — still struggling to gain altitude — with an Immolate.
+He leaped onto a broken wall, getting as high as he could. Before he could steady himself, he hit the black dragon — still struggling to gain altitude — with a Scorch.
 
 Crimson flames erupted at the base of the dragon's tail. Shattered scales and purple blood rained down like a storm.
 
-The black dragon let out a few short, sharp roars and dropped a great deal in height. Jace shouted the Immolate incantation again. This time the burst of blood-light exploded from the black dragon's chest. The beast beat its wings a few more times — and finally couldn't hold on. Deprived of strength, it plummeted, crashing into a distant stretch of broken walls.
+The black dragon let out a few short, sharp roars and dropped a great deal in height. Jace shouted the Scorch incantation again. This time the burst of blood-light exploded from the black dragon's chest. The beast beat its wings a few more times — and finally couldn't hold on. Deprived of strength, it plummeted, crashing into a distant stretch of broken walls.
 
 Vereesa had already rushed over. Jace leaped off the wall and followed. When the two of them drew near, a cloud of black-red smoke rose up from ahead…
 
@@ -175,23 +175,3 @@ This was different from all the flames before!
 And Jace knew it all too well.
 
 "Vereesa! Don't go over there! Run! Run now!"
-
-## Flags
-
-- **废墟燃烬 (Embers Among the Ruins):** Chapter title — refers to the climactic battle against the black dragon whelp in the ruins of the ancient Dark Iron city.
-- **虚弱诅咒 (Curse of Weakness):** Canonical warlock spell. Rendered as "Curse of Weakness" per glossary.
-- **奥术智慧 (Arcane Intellect):** Canonical mage buff spell. Rendered as "Arcane Intellect."
-- **法师护甲 (Mage Armor):** Canonical mage spell. Rendered as "Mage Armor."
-- **灼烧咒 (Immolate):** Canonical warlock spell. Jace's "shadow-corroded Immolate" — his fel/shadow-enhanced variant of Immolate. Rendered as "Immolate."
-- **吸取活力 (Life Drain / Drain Life):** Canonical warlock spell — Jace's life-draining magic. Rendered as "draining the black dragon's life force."
-- **撒厄诺 (Sazeno):** Jace's imp minion. Per glossary: short name Sazeno, true name Sazenilaz.
-- **基比莫弗洛萨斯 (K'BIIMOFLOSAAS):** The Orcish shout Jace yells at the dragon — rendered in the source as capitalized garbled Orcish. Left as shouted phonetic; flagged: this appears to be the author's made-up Orcish insult, not canonical. Not in glossary.
-- **暗影烈焰 (Shadowflame):** Canonical black dragon ability — the black-red smoke/flames Jace recognizes and warns Vereesa about. The chapter ends on the cliffhanger of the black dragon unleashing its true Shadowflame breath.
-- **血之契印 (Blood Pact):** Warlock ability — the imp's protective ward. Rendered as "Blood Pact ward."
-- **相位变换 (Phase Shift):** The imp's ability to phase out of visibility. Referenced when the imp hides.
-- **远行者 (Farstriders):** Vereesa's ranger organization in Quel'Thalas. Rendered as "Farstrider."
-- **奥术光芒的箭矢 (Arcane-light arrows):** Vereesa's enchanted arrows — the blue lines Jace sees striking the dragon. The "arcane" coating she prepared earlier in Chapter 293.
-- **索瑞森城 (Thandol Span / the Dark Iron city):** The ruins where the battle takes place — remnants of the ancient Dark Iron dwarf city destroyed in the Blackrock Mountain explosion.
-- **"Black Monster":** Jace's Orcish taunt — rendered in English in the translation since the point is that the dragon understands Orcish. The Orcish word is not given in the source; Jace roars "黑怪物" (black monster) in Chinese but the implication is he's shouting in Orcish. Flagged as a translation choice.
-- **"Wretched whelp":** The black dragon's retort — the first time it speaks, in Orcish (or Common). The dragon is intelligent enough to understand and respond.
-- **战争锤 (War Hammer):** Not a weapon — describes the black dragon's tail sweeping like a war hammer. Descriptive.

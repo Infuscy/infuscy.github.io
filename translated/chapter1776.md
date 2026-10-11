@@ -1,24 +1,24 @@
 ## Chapter 1776: The Door-Breaker
 
-"What happened? Did the Demon Plague start spreading again? I thought Stormwind Kingdom's wonder drug had it under control..."
+"What happened? Did the demon plague start spreading again? I thought the Kingdom of Stormwind's wonder drug had it under control..."
 
 "Have you taken it?"
 
 "Not yet. Does that stuff actually prevent it?"
 
-"It's not the Plague. Has nothing to do with demons. Haven't you heard? More Black Dragons have been showing up. Same as last time — started in Alterac, then Southshore..."
+"It's not the plague. Has nothing to do with demons. Haven't you heard? More black dragons have been showing up. Same as last time — started in Alterac, then Southshore..."
 
 "Southshore got hit again? Why is it always that place?"
 
-"Because it's a shipping hub. Because these Black Dragons don't want us keeping supply lines open to Ironforge and Stormwind. It means a bigger crisis is coming, you clueless idiots."
+"Because it's a shipping hub. Because these black dragons don't want us keeping supply lines open to Ironforge and Stormwind. It means a bigger crisis is coming, you clueless idiots."
 
 "What's that got to do with demons?"
 
-"Blackrock Spire already fell. The Black Dragons' schemes were exposed. Their leader's dead, his head mounted in the Valley of Heroes. What's left of them can't brew up anything serious. Just a bunch of stragglers flailing around before they die."
+"Blackrock Spire already fell. The black dragons' schemes were exposed. Their leader's dead, his head mounted in the Valley of Heroes. What's left of them can't brew up anything serious. Just a bunch of stragglers flailing around before they die."
 
-"Then why is Archmage Antonidas getting ready to raise the barrier again? If it's just one or two brainless whelps stirring trouble, why would he..."
+"Then why is Archmage Antonidas getting ready to raise the barrier again? If it's just one or two brainless drakes stirring trouble, why would he..."
 
-"The barrier's always been up. Do you ever actually pay attention in class? Antonidas is reinforcing it as a precaution. These Black Dragons might be tougher than we think."
+"The barrier's always been up. Do you ever actually pay attention in class? Antonidas is reinforcing it as a precaution. These black dragons might be tougher than we think."
 
 Khadgar, Jace, and Vereesa pushed through the crowd one after another. The whole staircase leading up to the Violet Citadel's main gate was thick with a restless, jittery energy — so thick you felt you could brush your fingers through it and come away with a tingle.
 
@@ -28,15 +28,15 @@ Khadgar, Jace, and Vereesa pushed through the crowd one after another. The whole
 
 "Quiet, please!" A woman's voice rang out from the top of the steps. "Everyone, please remain calm... The situation is under control. You may still enter and exit the Violet Citadel freely for business or study with the archmages, but you must maintain order!"
 
-A silver-haired female mage appeared at the top of the staircase, holding a metal staff crackling with Arcane Enchantment. The moment she showed herself, the crowd on the steps and across the square settled noticeably.
+A silver-haired female mage appeared at the top of the staircase, holding a metal staff crackling with arcane enchantment. The moment she showed herself, the crowd on the steps and across the square settled noticeably.
 
 "Lady Modera," Vereesa whispered.
 
-"The students flushed her out," Khadgar said, frowning. "We're too close. She might see through my mimic — blast it, she's nearly as good at illusions as Vargus himself..."
+"The students flushed her out," Khadgar said, frowning. "We're too close. She might see through my mirror image — blast it, she's nearly as good at illusions as Vargoth himself..."
 
 "Relax," Jace said. "Don't forget we've got the 'Door-Breaker' for exactly this situation."
 
-Khadgar turned, gripping the marble handrail. "Right, the hammer. Where is it? Why hasn't it..."
+Khadgar turned, gripping the marble handrail. "Right, our door-breaker. Where is he? Why hasn't he..."
 
 "Move!"
 
@@ -72,7 +72,7 @@ One of the Violet Guards suddenly flew up from the crowd and landed in a heap at
 
 "Don't touch me! Don't touch me treasure! Want me to tear your fancy castle down? Call Antonidas... bring him to me!"
 
-Any ordinary dwarf mercenary would have been frog-marched out by the Kirin Tor castle guards. But they weren't dealing with any ordinary dwarf. They were dealing with a Mountain King. Grede didn't even need Sulfuras or his ancestral aspect — the "shield" in his hand alone was enough to handle these blokes.
+Any ordinary dwarf mercenary would have been frog-marched out by the Kirin Tor castle guards. But they weren't dealing with any ordinary dwarf. They were dealing with a Mountain King. Grede didn't even need Sulfuras or his Avatar form — the "shield" in his hand alone was enough to handle these blokes.
 
 Of course, the castle guards weren't looking to draw blood either. They just wanted to force him down the stairs with their staves. The watching mages filled the air with laughter, shouts, and noise. High above, Archmage Modera glanced up at the top of the Violet Citadel, her expression souring by the second.
 
@@ -80,15 +80,15 @@ Jace, Vereesa, and Khadgar used the chaos to inch toward the edge of the highest
 
 They were watching Modera's attention when a roar erupted from the bottom of the steps, followed by a blinding flash of white lightning. A chain of thunderclaps rattled their eardrums — for a moment it was impossible to tell whether it came from below or from the stormclouds above.
 
-The Kirin Tor magic guards who'd been trying to corner Grede stumbled back. A few even grabbed for their swords. Grede hoisted the Wind-Kissed Blade, its leather wrapping half-torn away, and bellowed: "Now open yer dog eyes and take a look at what I've brought!"
+The Kirin Tor magic guards who'd been trying to corner Grede stumbled back. A few even grabbed for their swords. Grede hoisted the Wind-Kissed Blade, its leather wrapping half-torn away, and bellowed: "Now open yer blasted eyes and take a look at what I've brought!"
 
 "From Ironforge to Aerie Peak, not a soul could tell me what this is! Ye think I wanted to come to Dalaran and deal with you blind lot? Get Antonidas out here! If he can answer me — tell me what sort of treasure this is... I'll, I'll..."
 
-The mages and apprentices of every rank on the stairs were all transfixed by the glimpse of that blade. Of course they were. This was the greataxe of Prince Thunderaan the Windlord — possibly the most flamboyant elemental lord who ever lived.
+The mages and apprentices of every rank on the stairs were all transfixed by the glimpse of that blade. Of course they were. This was the greatsword of Prince Thunderaan the Windseeker — possibly the most flamboyant elemental lord who ever lived.
 
 Thunder rumbled overhead. That one they could place now. And then a few drops of rain began to fall — no question about it, the Wind-Kissed Blade was stirring up the already grim weather.
 
-"Mister Homir Deepstone!"
+"Mr. Homir Deepstone!"
 
 Another figure emerged from the castle doors, threading through the mages to the top of the steps. A golden-haired man who looked about forty, but the brilliant violet robe he wore was finer than anything on mages twice his age.
 
@@ -96,7 +96,7 @@ Another figure emerged from the castle doors, threading through the mages to the
 
 "Archmage Drenden..." Modera stepped aside.
 
-"Archmage Antonidas is handling urgent business," the golden-haired mage announced. "Please secure your treasure for now, Master Deepstone, and follow me into the castle hall. I am Archmage Drenden, member of the Council of Six, curator of the Arcane Vault, and Dalaran's foremost Magical Item Appraiser. I may well be able to help you."
+"Archmage Antonidas is handling urgent business," the golden-haired mage announced. "Please secure your treasure for now, Master Deepstone, and follow me into the castle hall. I am Archmage Drenden, member of the Council of Six, curator of the Arcane Vault, and Dalaran's foremost appraiser of magical items. I may well be able to help you."
 
 Grede still wore a confused look on the surface, but Jace could feel the glee and pride humming beneath it.
 
@@ -116,4 +116,4 @@ If not for the change in pressure, he might have gotten so used to it he'd stopp
 
 "Right. Where'd she go?"
 
-"She just went that way. Jace said to the mages near Drenden."
+"She just went that way." Jace nodded toward the mages near Drenden.

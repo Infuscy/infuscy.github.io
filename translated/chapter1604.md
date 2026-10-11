@@ -1,22 +1,22 @@
 ## Chapter 1604: Historically Accurate
 
-Both sides of the Anvil of the Dark Iron bridge were already packed with Dark Iron dwarves. Every window on the black cliff faces on both sides blazed with light, crowded with heads — a lively, raucous spectacle.
+Both sides of the Black Anvil bridge were already packed with Dark Iron dwarves. Every window on the black cliff faces on both sides blazed with light, crowded with heads — a lively, raucous spectacle.
 
 Jace looked around from the center of the bridge, feeling like half of Shadowforge City... no, maybe more than half of the Dark Iron citizens had gathered here, including the Bronzebeard and Wildhammer soldiers stationed in Shadowforge City.
 
 The bridge itself was full of people; if not for the hastily strung chains, someone would definitely have been pushed into the lava river by now.
 
-If this were the Valley of Heroes, Jace might have worried about the bridge collapsing under the weight of too many people. But here, having seen the sheer thickness of the Anvil of the Dark Iron bridge and how solidly it connected to the mountain, he had no concerns about its load-bearing capacity at all.
+If this were the Valley of Heroes, Jace might have worried about the bridge collapsing under the weight of too many people. But here, having seen the sheer thickness of the Black Anvil bridge and how solidly it connected to the mountain, he had no concerns about its load-bearing capacity at all.
 
-After all, the collapse of the Molten Core beneath it hadn't managed to seriously damage this city. And the Anvil of the Dark Iron, as the Dark Iron dwarves' holiest site, was probably the sturdiest, most reliable place in the entire city. The skill of Franclorn Forgewright, the city's designer, wasn't something outsiders could casually question.
+After all, the collapse of the Molten Core beneath it hadn't managed to seriously damage this city. And the Black Anvil, as the Dark Iron dwarves' holiest site, was probably the sturdiest, most reliable place in the entire city. The skill of Franclorn Forgewright, the city's designer, wasn't something outsiders could casually question.
 
 Muradin and Kurdran, along with their respective dwarven champions, had already gathered on the circular platform at the center of the bridge. Grede, as a Wildhammer noble, naturally stood with Kurdran. Jace and Vereesa, as representatives of Stormwind and Quel'Thalas, stood nearby.
 
-Dagran Thaurissan had already arrived before the Anvil of the Dark Iron. Countless dwarves from near and far were chanting his name and family name in unison.
+Dagran Thaurissan had already arrived before the Black Anvil. Countless dwarves from near and far were chanting his name and family name in unison.
 
-A golden horned war-helm sat on a metal stand beside him. If Sorah's information was correct, that should be the Lion's Heart Helm of High King Anvilmar.
+A golden horned war-helm sat on a metal stand beside him. If Sola's information was correct, that should be the Lionheart Helm of High King Anvilmar.
 
-Jace could roughly guess Thaurissan's intention in giving this helm to Thunderfist. The Lion's Heart Helm undoubtedly carried a portion of the High King's prestige. Thaurissan probably felt that simply letting Grede keep Sulfuras — which everyone already acknowledged belonged to him anyway — might not be enough to make him give up the High King position. So he added a helm with attached fame to sweeten the deal on his side.
+Jace could roughly guess Thaurissan's intention in giving this helm to Thunderfist. The Lionheart Helm undoubtedly carried a portion of the High King's prestige. Thaurissan probably felt that simply letting Grede keep Sulfuras — which everyone already acknowledged belonged to him anyway — might not be enough to make him give up the High King position. So he added a helm with attached fame to sweeten the deal on his side.
 
 Little did he know that the mercenary Grede Thunderfist only wanted to take the warhammer and run — to get to Kalimdor as fast as possible, find Thunderaan the Windseeker and claim his "reward," then reunite with Mosa and live a carefree life. He didn't want to have anything to do with this High King nonsense.
 
@@ -42,7 +42,7 @@ Compared to Moira, Vereesa's attitude struck Jace as rather cold.
 
 He shot her a sideways glance. She'd just been talking about racial equality in the tavern, saying she'd recognized her own Quel'dorei sense of superiority... and now here she was, giving the cold shoulder to a Bronzebeard dwarf.
 
-But the Ironforge princess seemed accustomed to Windrunner's indifference. Showing no displeasure, she immediately turned to Jace.
+But the Ironforge princess seemed accustomed to Vereesa's indifference. Showing no displeasure, she immediately turned to Jace.
 
 "Master Jace Sesso," Moira said. "This isn't our first meeting. Do you remember? Last time, in Ironforge..."
 
@@ -52,25 +52,25 @@ But the Ironforge princess seemed accustomed to Windrunner's indifference. Showi
 
 "It was my honor," Jace said.
 
-After greeting Jace and Vereesa, Moira headed toward the Wildhammer contingent. She called out from a distance: "Lord Grede Thunderfist, the Fearless Fire-Extinguisher, Lord of Sulfuras! I heard in Ironforge about that earth-shaking battle in the Molten Core. The legend of how you, Wizard Jace Sesso, Ranger-Lord Vereesa Windrunner, and the dragons broke the Dark Iron dwarves' shackles has spread to every corner of Khaz Modan."
+After greeting Jace and Vereesa, Moira headed toward the Wildhammer contingent. She called out from a distance: "Lord Grede Thunderfist, the Fearless Fire-Extinguisher, Lord of Sulfuras! I heard in Ironforge about that earth-shaking battle in the Molten Core. The legend of how you, Wizard Jace Sesso, Ranger Lord Vereesa Windrunner, and the dragons broke the Dark Iron dwarves' shackles has spread to every corner of Khaz Modan."
 
 "And the demons, dammit," Sazeno muttered from Jace's pocket, displeased.
 
-Grede thanked Moira for her kind words, but his eyes kept lingering on the Bronzebeard princess. Vereesa muttered unhappily, "That guy has completely forgotten about Mosa Manetop, hasn't he!"
+Grede thanked Moira for her kind words, but his eyes kept lingering on the Bronzebeard princess. Vereesa muttered unhappily, "That guy has completely forgotten about Mosa Woodmane, hasn't he!"
 
 "Thanks for the reminder," Jace snickered quietly. "Once we get to Kalimdor, I'll have to tell Mosa how he was acting just now."
 
 Vereesa shot him a look. "You've got some nerve saying that, Jace Sesso."
 
-The smile froze on Jace's face. He glanced back at Morophil, who was standing on a higher ledge with Sorah and Needleflame, watching him with a crooked smile. He cleared his throat guiltily.
+The smile froze on Jace's face. He glanced back at Morophil, who was standing on a higher ledge with Sola and Needleflame, watching him with a crooked smile. He cleared his throat guiltily.
 
 Moira Bronzebeard spoke at length with the Wildhammers, but amid the noise on the bridge, Jace couldn't make out much of their dwarven conversation. He guessed it was probably King Magni's greetings and thanks to Thunderfist.
 
-Once she finished with the Wildhammers, she returned to the front, where Emperor Dagran Thaurissan stood before the Anvil of the Dark Iron. This time, Jace could hear clearly.
+Once she finished with the Wildhammers, she returned to the front, where Emperor Dagran Thaurissan stood before the Black Anvil. This time, Jace could hear clearly.
 
 "What an honor, Princess Moira Bronzebeard of Dun Morogh," Dagran Thaurissan proclaimed loudly. "I never imagined Magni would send his most precious daughter to Blackrock Mountain. And I never expected you to accept your father's request and come before me."
 
-"I admit that I had serious doubts about the Dark Iron clan's determination to resist the Fire Lord's enslavement, Your Majesty Dagran Thaurissan," the Bronzebeard princess said, bowing. "But what happened in the Molten Core has proven your courage and strength. Here and now, I apologize for my past prejudice and reckless judgment of you and your people."
+"I admit that I had serious doubts about the Dark Iron clan's determination to resist the Firelord's enslavement, Your Majesty Dagran Thaurissan," the Bronzebeard princess said, bowing. "But what happened in the Molten Core has proven your courage and strength. Here and now, I apologize for my past prejudice and reckless judgment of you and your people."
 
 "From what I'd heard, Magni's daughter was stubborn beyond belief and spoiled rotten," Thaurissan said. "Meeting you today, either everything I heard was baseless rumor, or there's an imposter standing before me. But I trust Lord Muradin Bronzebeard knows his own niece, so this is enough to conclude that my intelligence was flawed."
 

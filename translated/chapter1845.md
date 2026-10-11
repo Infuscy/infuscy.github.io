@@ -12,7 +12,7 @@
 
 "Which ones are dragons, and which are demons?"
 
-"Stay in line! Don't crowd! The demons can't break Lordaeron's defenses. They'll be trapped at Lake Lordamere and freeze to death on the ice. Dawn is almost here. Reinforcements from Stromgarde and Stratholme are on their way. The Holy Light will sweep the shadows from our hearts again..."
+"Stay in line! Don't crowd! The demons can't break Lordaeron's defenses. They'll be trapped at Lordamere Lake and freeze to death on the ice. Dawn is almost here. Reinforcements from Stromgarde and Stratholme are on their way. The Holy Light will sweep the shadows from our hearts again..."
 
 The priests called out, but the people jostling to get out still made the grand city gate a bottleneck. Wagons loaded with wounded clogged the way. Wailing, cursing, urging, barking dogs. A five- or six-year-old child sat atop a lion statue on the gatepost, bawling.
 
@@ -36,15 +36,15 @@ And now, this so-called demon incarnate stood at the very front, placing himself
 
 The mere touch of his magic sent demon shadows plummeting from the sky. Those fallen fiends — killing machines that most believed knew neither fear nor retreat — panicked under his spell, scattering in terror, not daring to cross the city to pursue the fleeing masses to the north.
 
-Holy Light, perhaps I have been gravely mistaken. But I choose to trust that this man from Brill, not yet thirty, is no demon's emissary.
+*Holy Light, perhaps I have been gravely mistaken. But I choose to trust that this man from Brill, not yet thirty, is no demon's emissary.*
 
-At the Fire Festival in Dalaran, I looked into his eyes. Here, I have witnessed his deeds. If all this still leads me to a false judgment, then strike me down.
+*At the Fire Festival in Dalaran, I looked into his eyes. Here, I have witnessed his deeds. If all this still leads me to a false judgment, then strike me down.*
 
 "How many still need to evacuate?" the Lightbringer asked a paladin behind him.
 
 "A little less than a third — maybe a quarter. If His Highness can hold on for another hour or two..."
 
-The paladin hesitated. Uther immediately said, "Send three gryphon riders — avoid the areas where demons and dragons are fighting — to the south wall. Tell Prince Arthas, Marshal Turalyon, and Archmage Sesso to prepare for evacuation. The citizens here need adequate protection to escape the flying demons' pursuit eastward..."
+The paladin hesitated. Uther immediately said, "Send three gryphon riders — avoid the areas where demons and dragons are fighting — to the south wall. Tell Prince Arthas, General Turalyon, and Archmage Sesso to prepare for evacuation. The citizens here need adequate protection to escape the flying demons' pursuit eastward..."
 
 Before Uther finished, a deafening impact split the sky. Not thunder, not a demon's roar. A tear of green light ripped open the black canopy — like a bleeding demon maw vomiting a burning green fireball, trailing rolling black smoke as it plummeted onto the palace district, erupting in a fel-green fireball.
 
@@ -60,13 +60,15 @@ In the darkened city, where torchlight had visibly dimmed, giant after giant ros
 
 "Run! Run!"
 
-"Infernal! It's an infernal! Infernal!" "Look up! Another one!"
+"Infernal! It's an infernal! Infernal!"
+
+"Look up! Another one!"
 
 A roaring whoosh came from above. Uther looked up and saw a fel comet angling down, smashing directly into the wall beside the gate. A cascade of stone blocks collapsed, opening a breach. The great bell atop the gate clanged and groaned.
 
 An infernal the size of a small monastery straightened up from the rubble. Beside it, the ladder on the wall and the white banner of the Kingdom of Lordaeron ignited and burned to ash.
 
-It seemed to know who was leading the defense. It bellowed, spraying fel-fire from its maw-like stone fissure, and charged straight at Uther. It kicked aside the small houses and stone steps in its path, raising its flame-wreathed stone fist, ready to pulverize this fragile mortal.
+It seemed to know who was leading the defense. It bellowed, spraying fel fire from its maw-like stone fissure, and charged straight at Uther. It kicked aside the small houses and stone steps in its path, raising its flame-wreathed stone fist, ready to pulverize this fragile mortal.
 
 The crowd at the gate dissolved into chaos — weeping, fleeing in every direction. Not even the Holy Light could hold them now. No matter how the priests and paladins shouted, order was gone. Wagons overturned. Luggage abandoned. Countless people were trampled. Only one figure stood firm, staring down the flame demon — Uther himself.
 
@@ -86,15 +88,15 @@ But the fel comets kept falling — more and more of them. The entire city was n
 
 They had to get as many people out as possible. Unlike Dalaran or Nethergarde Keep, this city had no powerful magical barrier to stop the Burning Legion's infernal rain. Any evacuation route could be blocked by an infernal at any moment. Smashing one or two giants wouldn't turn the tide.
 
-Is it you, Defiler?
+*Is it you, Defiler?*
 
-Are you eager to send this infernal rain, trying to stop the evacuation? Are you watching all this from afar?
+*Are you eager to send this infernal rain, trying to stop the evacuation? Are you watching all this from afar?*
 
-You want to devour these souls. Devour as many as you can. You're starving for these pure mortal souls — just like every lowly demon in the Twisting Nether.
+*You want to devour these souls. Devour as many as you can. You're starving for these pure mortal souls — just like every lowly demon in the Twisting Nether.*
 
 "Archmage Sesso! The Lightbringer Uther wants you all to retreat as planned. The north gate evacuation will be over soon."
 
-Jace turned his head on the tower, watching the gryphon rider approach from behind the city. The Ranger-Lord on the ground below had heard the rider's message too — she looked up, seeking her husband's opinion.
+Jace turned his head on the tower, watching the gryphon rider approach from behind the city. The Ranger Lord on the ground below had heard the rider's message too — she looked up, seeking her husband's opinion.
 
 Soon, horns sounded from Arthas and Turalyon's direction...
 

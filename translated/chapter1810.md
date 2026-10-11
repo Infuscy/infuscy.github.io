@@ -2,15 +2,15 @@
 
 "Jace? Jace?"
 
-"I'm awake, Sora."
+"I'm awake, Sola."
 
-Caitlyn Runeweaver was still slumped over, unconscious. Jace forced his eyes open and glanced at the bright window, as if the familiar faces around him weren't proof enough that he'd left that dream behind.
+Catelyn Runeweaver was still slumped over, unconscious. Jace forced his eyes open and glanced at the bright window, as if the familiar faces around him weren't proof enough that he'd left that dream behind.
 
 "Did you find anything?" Khadgar asked.
 
 "No." Jace looked at the archmage's daughter. "Complete silence. No people. No events."
 
-"Nothing at all?" Sora asked. "Could you see the mountains, forests, rivers in the dream? Or... buildings made by humans? I don't know, but at least those landmarks..."
+"Nothing at all?" Sola asked. "Could you see the mountains, forests, rivers in the dream? Or... buildings made by humans? I don't know, but at least those landmarks..."
 
 "Yes," Jace said. "I was in a town in the dream. It looked like Brill. The forests were still there. The farmland too."
 
@@ -30,21 +30,21 @@ The warlock and the mage stepped out to a corner beside the inn. Khadgar turned 
 
 "It's hard to explain quickly." Jace said. "I think that rain is the residual magic. I've seen it somewhere before — in Stormwind, outside the Pig and Whistle. There was a heavy rain that day. Someone was waiting for me outside the inn. She asked me a question... how I destroyed the Scepter of Sargeras. After she left, the rain stopped. That strange rain even drew the attention of some Kirin Tor mages who came to investigate."
 
-"Wait. You suspect Lady Aegwynn?" Khadgar frowned. "You think Lady Aegwynn erased our Runeweaver's memories? You think SHE wants to use Medivh's Book? You think she's working with Kil'jaeden?"
+"Wait. You suspect Lady Aegwynn?" Khadgar frowned. "You think Lady Aegwynn erased our Runeweaver's memories? You think SHE wants to use the Book of Medivh? You think she's working with Kil'jaeden?"
 
 "She's a Guardian — well, former Guardian. Why would she do this? Or do you think those laughable Nathrezim have the power to control her will?"
 
-"You might as well suspect me. I know you've suspected me plenty of times before. Or do you think I'm not worthy of being Kil'jaeden's messenger, opening a second Dark Portal with Medivh's Book?"
+"You might as well suspect me. I know you've suspected me plenty of times before. Or do you think I'm not worthy of being Kil'jaeden's messenger, opening a second Dark Portal with the Book of Medivh?"
 
 "Don't tell me you've never suspected me." Jace stared at Khadgar. "Don't tell me you've never — not even for a second — suspected her."
 
 Khadgar shook his head helplessly. Jace stepped closer.
 
-"You know who created the Sargeras Vault, Khadgar. You know that centuries ago, Aegwynn couldn't destroy Sargeras' avatar, so she built a secret vault to seal away the Dark Titan's avatar and all the indestructible fel artifacts he brought with him."
+"You know who created the Tomb of Sargeras, Khadgar. You know that centuries ago, Aegwynn couldn't destroy Sargeras' avatar, so she built a secret vault to seal away the Dark Titan's avatar and all the indestructible fel artifacts he brought with him."
 
-"That's why Gul'dan was tricked by Medivh into going there. You know all of this. And you also know that last ley line surge was different from all the others. You were just lying to yourself back in Southshore, not wanting to connect this crisis to Aegwynn — or to your dead mentor. I could sense every archmage's emotions at that Sky Council meeting. And I could sense yours too..."
+"That's why Gul'dan was tricked by Medivh into going there. You know all of this. And you also know that last ley line surge was different from all the others. You were just lying to yourself back in Southshore, not wanting to connect this crisis to Aegwynn — or to your dead mentor. I could sense every archmage's emotions at that Chamber of Air meeting. And I could sense yours too..."
 
-"Grasping at shadows." There was real anger in Khadgar's voice now. "Even if the ley line surge really did come from the Sargeras Vault, plenty of other people could have caused it."
+"You're chasing shadows." There was real anger in Khadgar's voice now. "Even if the ley line surge really did come from the Tomb of Sargeras, plenty of other people could have caused it."
 
 "The naga have been investigating that ancient temple. And Gul'dan's successors in Azeroth — the remnants of the Shadow Council, orc apprentices, human warlocks — have never stopped following in his footsteps. People have always wanted to sail there and finish what Gul'dan started. Are you telling me you've never had that thought?"
 
@@ -52,7 +52,7 @@ Khadgar shook his head helplessly. Jace stepped closer.
 
 "She went to Karazhan with me to save YOU. And everyone from the Alliance Expedition who needed to return to Azeroth." Khadgar sighed. "She wanted to atone for her son's sins, Sesso. Don't forget that."
 
-"But she didn't know about Ursales back then," Jace said.
+"But she didn't know about Ulthalesh back then," Jace said.
 
 "She found out later." Khadgar raised two fingers like he was about to cast Arcane Missiles. "So what? If she wanted to deal with you, she could have picked a quiet moment and taken you out. You wouldn't be alive today!"
 
@@ -70,17 +70,17 @@ Then something clicked.
 
 Suddenly, the clues in front of him and the memories in his head lashed together like two ropes tightening around his throat.
 
-"Because she knows killing me wouldn't work," Jace said quietly. "Kill me, and Ursales is still here. Just like how Scavell defeated Sathael in their duel. She might not have her teacher's iron will — she might become the next owner."
+"Because she knows killing me wouldn't work," Jace said quietly. "Kill me, and Ulthalesh is still here. Just like how Scavell defeated Sataiel in their duel. She might not have her teacher's iron will — she might become the next owner."
 
 Khadgar froze.
 
-"She wants to destroy Ursales directly." Jace looked up.
+"She wants to destroy Ulthalesh directly." Jace looked up.
 
-The mage let out a dry laugh. "Impossible. Her teacher tried for so long and never found a way to destroy Ursales."
+The mage let out a dry laugh. "Impossible. Her teacher tried for so long and never found a way to destroy Ulthalesh."
 
 "Remember those books Aegwynn went through in the great library of Karazhan?" Jace asked. "What methods were there for destroying demonic artifacts?"
 
-"Light magic — but it didn't work on the Scepter of Sargeras. The Focusing Iris — she wasn't confident about that, probably because the energy was too dispersed. Ursales... well, you tried that yourself." Khadgar coughed. "Archimonde the Defiler's 'Finger of Death,' or..."
+"Light magic — but it didn't work on the Scepter of Sargeras. The Focusing Iris — she wasn't confident about that, probably because the energy was too dispersed. Ulthalesh... well, you tried that yourself." Khadgar coughed. "Archimonde the Defiler's 'Finger of Death,' or..."
 
 *Don't kid yourself. Not even Archimonde's Finger of Death could do it. You have no idea what we are.*
 
@@ -88,7 +88,7 @@ The mage let out a dry laugh. "Impossible. Her teacher tried for so long and nev
 
 *Heh. You've never truly become my... master. Because you've never given up... refusing.*
 
-"You know—" Jace pushed these chaotic thoughts aside, took a deep breath to steady himself, interrupting Khadgar's recollection of those records. "Do you know that Medivh's Book contains a ritual for summoning the Defiler himself?"
+"You know—" Jace pushed these chaotic thoughts aside, took a deep breath to steady himself, interrupting Khadgar's recollection of those records. "Do you know that the Book of Medivh contains a ritual for summoning the Defiler himself?"
 
 "What?" Khadgar said. "You never even touched that book, Jace. And I HAVE actually read it. Aside from the immense void power it contains, most of its contents are completely—"
 
@@ -96,7 +96,7 @@ The mage let out a dry laugh. "Impossible. Her teacher tried for so long and nev
 
 "Mostly incomprehensible," Khadgar corrected. Then he asked, "How do you know that?"
 
-"What if I told you I've seen it?" Jace said. "What if I told you I've seen someone use Medivh's Book to summon Archimonde?"
+"What if I told you I've seen it?" Jace said. "What if I told you I've seen someone use the Book of Medivh to summon Archimonde?"
 
 Jace expected Khadgar to laugh, or dismiss it out of hand.
 

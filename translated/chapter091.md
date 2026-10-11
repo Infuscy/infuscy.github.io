@@ -4,13 +4,13 @@ The naga scales didn't have the same overpowering stink as real fish scales — 
 
 Naga weren't creatures that had always lived on the ocean floor. Their ancestors, like the elves of Quel'Thalas, had been nobles of the ancient Kaldorei Empire — and their standing had been considerably higher than that of the Sunstrider forebears of Silvermoon's royal house.
 
-They were the most loyal followers of Empress Azshara of the ancient Kaldorei Empire. During the cataclysm, these guards and courtiers had surrounded Azshara and never retreated, holding until the very last moment when the capital Zin-Azshari collapsed, sinking to the bottom of the sea along with the greater part of the city.
+They were the most loyal followers of Queen Azshara of the ancient Kaldorei Empire. During the cataclysm, these guards and courtiers had surrounded Azshara and never retreated, holding until the very last moment when the capital Zin-Azshari collapsed, sinking to the bottom of the sea along with the greater part of the city.
 
-For revenge, and to rebuild the empire, the empress had made a pact with the ancient Old God N'Zoth, transforming into the Old God's dark servant. Her followers, like her, were reborn — and thus the naga race came into being.
+For revenge, and to rebuild the empire, the queen had made a pact with the ancient Old God N'Zoth, transforming into the Old God's dark servant. Her followers, like her, were reborn — and thus the naga race came into being.
 
 That said, the vast majority of naga today were no longer the Highborne who had followed Azshara ten thousand years ago, but rather newly hatched from the spawning nests of the naga's undersea empire.
 
-These later-born naga held a status far beneath that of the original nobles who had gone into the sea with the empress. Whether in life or death, they were given little regard — not much different from a bunch of driven, enslaved water monsters.
+These later-born naga held a status far beneath that of the original nobles who had gone into the sea with the queen. Whether in life or death, they were given little regard — not much different from a bunch of driven, enslaved water monsters.
 
 But their blood unquestionably traced back to those original Highborne, carrying their magical talent and intellect, so you could still sense quite a few elven traits in them. Jace opened the bag and sniffed that distinctive scent on the naga scales again.
 
@@ -22,7 +22,7 @@ These legends were always about men meeting female mermaids — there was never 
 
 Because mermaids didn't actually exist at all. Those people had all encountered naga, and male naga had heads as terrifying as crocodiles or lizards — probably not very appealing to women on shore either.
 
-After all, from the moment of their creation, male naga had existed as war machines for the empress or other high-ranking sea witches.
+After all, from the moment of their creation, male naga had existed as war machines for the queen or other high-ranking sea witches.
 
 And the reason sailors were drawn to mermaids was most likely because they were bewitched by this distinctive scent.
 
@@ -44,7 +44,7 @@ Right now, the only bottle of Shadow Protection Potion he'd brought was already 
 
 What's more, murlocs had all kinds of mages too — elemental shaman, shadow mages, water mages, and so on. None of them were particularly powerful, but they had endless tricks.
 
-Honestly, after getting zapped by that orc shaman last time, Jace had developed something of a psychological shadow about it. Without preparation, he wasn't going to take risks. Just surviving this naga had already been hard enough.
+Honestly, after getting zapped by that orc shaman last time, Jace had become more than a little gun-shy. Without preparation, he wasn't going to take risks. Just surviving this naga had already been hard enough.
 
 If Ursula asked when he got back, he could only say he hadn't found anything and nearly got killed by murlocs. Or just hand over a naga scale and call it a day — ask her whether naga scales were worth anything. An alchemist might be quite interested in those scales.
 
@@ -72,19 +72,19 @@ But without that house, he might have died miserably.
 
 Those corridors, those narrow passages and rooms had helped him win against that several-meter-long female monster.
 
-After he'd finished gathering the naga's scales and claws — those four lizard-like claws — Jace headed back the way he'd come toward Furbloom Farm, away from that burning house. Along the way, he was stalked by several wild boars for hours, taking turns on him.
+After he'd finished gathering the naga's scales and claws — those four lizard-like claws — Jace headed back the way he'd come toward Furlbrow Farm, away from that burning house. Along the way, he was stalked by several wild boars for hours, taking turns on him.
 
 He didn't know if they'd caught the scent of the naga scales or had some other plan.
 
 Though they were just animals, Jace only had a stick and a rusty knife — and that knife had gotten a notch in it when he'd hacked at the naga's tail or neck.
 
-He believed the bones of a Bloodtusk boar were probably sturdier than that naga sorceress's. If any boar was dead set on coming at him for a fight, staying uninjured would genuinely be difficult.
+He believed the bones of a Goretusk boar were probably sturdier than that naga sorceress's. If any boar was dead set on coming at him for a fight, staying uninjured would genuinely be difficult.
 
 But thankfully, in the end no boar actually charged. Those few hours passed without incident.
 
-Rendor Furbloom had told him that heading west toward the mine there were a few empty farms. Jace planned to go check them out and find an empty farm to spend the rest of the night.
+Rendor Furlbrow had told him that heading west toward the mine there were a few empty farms. Jace planned to go check them out and find an empty farm to spend the rest of the night.
 
-He'd considered going back to Furbloom's place, but after being chased by boars for a while, he'd walked farther and farther. He also didn't want to lead the boars to someone else's house — although Furbloom said he had a gun or something, Jace still had his doubts about his fighting ability.
+He'd considered going back to Furlbrow's place, but after being chased by boars for a while, he'd walked farther and farther. He also didn't want to lead the boars to someone else's house — although Furlbrow said he had a gun or something, Jace still had his doubts about his fighting ability.
 
 So he spent two extra hours walking farther west, and only stopped when he saw another abandoned farm in the distance and the boars gave up their pursuit.
 
@@ -110,7 +110,7 @@ Though he wasn't quite sure what the contract specifically referred to — like 
 
 So this demon was even a bit grateful to him?
 
-Jace turned it over in his mind for a while, remembering what Galdes had said — imps also had their own tempers and personalities, likes and dislikes, so you shouldn't casually swap out your summoned creature, or unpredictable things would happen.
+Jace turned it over in his mind for a while, remembering what Zardeth had said — imps also had their own tempers and personalities, likes and dislikes, so you shouldn't casually swap out your summoned creature, or unpredictable things would happen.
 
 Jace could roughly understand: these summoned demons might create chaos by twisting their master's orders. So far Sazeno hadn't done that — perhaps, just as he said, he was only a low-ranking demon and didn't have the conditions or ability.
 
@@ -125,16 +125,3 @@ Just like that naga from earlier in the night — if he hadn't had him shift pha
 Judging from Sazeno's reaction to the naga's Banish, Banish in the real world definitely wasn't just a hard CC for several dozen seconds. It probably meant a true "banishment" — sending a summoned creature back to where it came from.
 
 For a demon, that was the Twisting Nether, which for a demon on Azeroth was no different from being dead. And before dying, he could only save himself on his master's order? Jace felt himself about to start pitying a demon, so he simply lay down on the ground and fell fast asleep.
-
-## Flags
-
-- 卡多雷 = Kaldorei (ancient night elf empire) — not in glossary.
-- 艾萨拉 = Azshara (ancient Kaldorei empress) — not in glossary.
-- 辛艾萨莉 = Zin-Azshari (ancient Kaldorei capital) — not in glossary.
-- 恩佐斯 = N'Zoth (Old God) — not in glossary.
-- 加尔德斯 = Galdes (warlock who advised Jace about imps) — not in glossary.
-- 相位变换 = Phase Shift (imp stealth ability) — not in glossary.
-- 放逐术 = Banish (warlock/demon spell) — not in glossary.
-- 扼杀咒语 = the strangling incantation (imp-kill command) — not in glossary.
-- 瑞多尔·法布隆 = Rendor Furbloom (Westfall farmer) — not in glossary.
-- 血牙野猪 = Bloodtusk boar — not in glossary.

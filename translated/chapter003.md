@@ -2,15 +2,15 @@
 
 The Slaughtered Lamb — wasn't that the place with a bunch of reclusive warlock trainers hiding out inside?
 
-Jace sat in the shade of a nearby tree and watched for a while. The tavern had its share of regular customers coming and going, but it was clearly a lot quieter than the other place near the Wizard Sanctum.
+Jace sat in the shade of a nearby tree and watched for a while. The tavern had its share of regular customers coming and going, but it was clearly a lot quieter than the other place near the Wizard's Sanctum.
 
 In human society at this time, the Church and the Kirin Tor banned the study of anything demon-related.
 
-Although policies had loosened up a bit after the Orc Wars — from Dalaran to the Wizard Sanctum, the top mages and researchers had started doing small-scale demon research to prepare for another orcish invasion — ordinary people's acceptance of warlocks was nowhere near as high as in the game.
+Although policies had loosened up a bit after the Orc Wars — from Dalaran to the Wizard's Sanctum, the top mages and researchers had started doing small-scale demon research to prepare for another orcish invasion — ordinary people's acceptance of warlocks was nowhere near as high as in the game.
 
 But then, the secret warlock circle hidden in this tavern wouldn't be exposed for over a decade, which told you just how careful and covert they were.
 
-So, if the Wizard Sanctum route didn't pan out, could he find work with these warlocks instead?
+So, if the Wizard's Sanctum route didn't pan out, could he find work with these warlocks instead?
 
 The Slaughtered Lamb looked pretty much the same as it would a decade and a half from now — an unremarkable storefront, worn-down interior.
 
@@ -22,7 +22,7 @@ The quiet tavern had only one bartender on duty — a black man with a mustache 
 
 Even with just the one guy, he didn't seem particularly busy.
 
-In the corner, a few male customers who weren't interacting with each other were drinking alone. Most of them were simply dressed, sturdy build — looked like manual laborers not much different from me.
+In the corner, a few male customers who weren't interacting with each other were drinking alone. Most of them were simply dressed, sturdy build — looked like manual laborers not much different from him.
 
 For a business operating in the Mage Quarter, not a single customer was a mage or an apprentice. This place had probably been set up from the start for the workers who helped rebuild the Mage Quarter.
 
@@ -64,7 +64,7 @@ The black man turned and headed for the hidden door. Jace followed, stealing a g
 
 What was hidden inside the Slaughtered Lamb... honestly couldn't even be called a cellar.
 
-Because it was basically an underground city!
+Because it was basically a dungeon!
 
 Nothing like the scale in the game. After passing through a narrow passage stacked with wooden crates and through an iron gate, you arrived at a place that looked like a row of dark cells.
 
@@ -82,13 +82,13 @@ The black man pronounced "very" with such a bizarre accent that it actually brok
 
 The sound of knuckles striking metal clanged through the entire underground. Jace looked toward the pitch-black depths of the corridor and felt like countless pairs of eyes were staring back at him from wherever the echoes came.
 
-"Erland, you still in there?" the black man called through the door.
+"Erlan, you still in there?" the black man called through the door.
 
-"Can't you wait a bit, Tharle?" the man inside said between heavy breaths.
+"Can't you wait a bit, Jarel?" the man inside said between heavy breaths.
 
-"Sulenna in there too?" The black man frowned. "I found you a helper. Solid lad."
+"Surena in there too?" The black man frowned. "I found you a helper. Solid lad."
 
-"Get lost, Tharle!" came a woman's voice cursing from inside.
+"Get lost, Jarel!" came a woman's voice cursing from inside.
 
 Not long after, a shirtless, powerfully built man pulled the door open a crack, one hand still hitched on his waistband. A thick wave of sweat rolled out through the gap.
 
@@ -96,27 +96,27 @@ Not long after, a shirtless, powerfully built man pulled the door open a crack, 
 
 "Jace."
 
-"I'm Erland. Nice to meet you, Jace." The man named Erland held out his hand. Jace gave it a glance and didn't take it. Erland seemed to realize something was off, pulled his hand back, and wiped it on his pants.
+"I'm Erlan. Nice to meet you, Jace." The man named Erlan held out his hand. Jace gave it a glance and didn't take it. Erlan seemed to realize something was off, pulled his hand back, and wiped it on his pants.
 
 "We'll be right out, just a moment — take our guest to the practice room." With that, he slammed the door shut.
 
-"It's the middle of the day, you bastards," the black man muttered under his breath. He glanced at Jace. "Right, I'm Tharle. Tharle Mor."
+"It's the middle of the day, you bastards," the black man muttered under his breath. He glanced at Jace. "Right, I'm Jarel. Jarel Moor."
 
 Jace nodded. He had absolutely no idea what he was getting into. But judging by how things had gone so far, he probably wasn't in any mortal danger.
 
 The Slaughtered Lamb didn't have that murderous aura it would have in the years to come. Maybe at this point in time, the dark magic practitioners hiding here weren't as powerful as they'd later become — just a bunch of novices teaching themselves by referencing the orc warlocks' power.
 
-Tharle said, "I've got to watch the shop, Jace. You head on over yourself — go down that way to the end, the biggest room, the one with lots of barrels."
+Jarel said, "I've got to watch the shop, Jace. You head on over yourself — go down that way to the end, the biggest room, the one with lots of barrels."
 
 "Remember to pick up your pay at the bar when you leave."
 
 "Paid by the day. How much per job?"
 
-Tharle held up two fingers and waggled them. "Two silver."
+Jarel held up two fingers and waggled them. "Two silver."
 
 Two silver?!
 
-After Tharle left, Jace followed his directions to the so-called practice room. There weren't any training weapons lying around — no wooden swords or anything. Aside from the barrels that may or may not have had alcohol in them, the place was completely empty.
+After Jarel left, Jace followed his directions to the so-called practice room. There weren't any training weapons lying around — no wooden swords or anything. Aside from the barrels that may or may not have had alcohol in them, the place was completely empty.
 
 Then a faint whiff of something foul and rotten seeped into his nostrils. It was a completely different smell from rotting wood or fermenting fruit, but it wasn't quite right to call it stinking either — it just made him feel deeply uneasy.
 
@@ -136,31 +136,31 @@ Why did a single session pay two silver? What exactly was this job?
 
 Jace's mind instantly cycled through a few hundred messed-up possibilities. The more he thought about it, the more he felt like he should get out of there — but two silver... this was two silver!
 
-Then Erland walked in, and Jace's frantically spinning brain suddenly shut off.
+Then Erlan walked in, and Jace's frantically spinning brain suddenly shut off.
 
-Behind him followed a black woman — probably the Sulenna Tharle had mentioned. Both of them were around twenty, not much older than Jace.
+Behind him followed a black woman — probably the Surena Jarel had mentioned. Both of them were around twenty, not much older than Jace.
 
-Jace had a vague impression of Sulenna, but he couldn't for the life of him figure out who she actually was. Definitely not anyone good, anyway. She was even darker-skinned than Tharle and wore a dark gray robe that was nearly impossible to make out in the dim room — just her two eyes floating around.
+Jace had a vague impression of Surena, but he couldn't for the life of him figure out who she actually was. Definitely not anyone good, anyway. She was even darker-skinned than Jarel and wore a dark gray robe that was nearly impossible to make out in the dim room — just her two eyes floating around.
 
-Erland, on the other hand, was frighteningly pale, like he hadn't left the house in months.
+Erlan, on the other hand, was frighteningly pale, like he hadn't left the house in months.
 
-Erland seemed to pick up on Jace's unease. He smiled and said, "Don't be scared, Jace, lad. We're just running a simple little test, conducted by Ms. Sulenna here. She always knows when to stop."
+Erlan seemed to pick up on Jace's unease. He smiled and said, "Don't be scared, Jace, lad. We're just running a simple little test, conducted by Ms. Surena here. She always knows when to stop."
 
-"You ready?" Sulenna asked coldly.
+"You ready?" Surena asked coldly.
 
 "Who's getting ready — you or me?" Jace asked. "If it's me, what am I supposed to do to prepare?"
 
-Before he'd even finished the sentence, Erland had walked over and tied Jace to the wooden pillar.
+Before he'd even finished the sentence, Erlan had walked over and tied Jace to the wooden pillar.
 
-Erland's strength was insane — definitely not normal.
+Erlan's strength was insane — definitely not normal.
 
 He had to be a veteran, or some kind of trained fighter, or maybe one of those workaholics from the Stonemasons. Jace didn't have the slightest chance of resisting before he was bound up tight.
 
 "Hold on, wait a second." Jace forced down his panic. "What are you doing?"
 
-"All right, we can begin." Erland stepped aside, smiling at Sulenna.
+"All right, we can begin." Erlan stepped aside, smiling at Surena.
 
-Sulenna slowly closed her yellowish eyes, and just like that she vanished completely into the darkness.
+Surena slowly closed her yellowish eyes, and just like that she vanished completely into the darkness.
 
 She muttered something in a language he couldn't understand. Suddenly, a pale violet light flickered to life between her slender black fingers, and the whole room was bathed in an eerie purple glow.
 
@@ -178,17 +178,17 @@ Jace felt a searing, intense pain start crawling from the tips of his limbs towa
 
 The pain quickly turned into a throbbing, dull ache that swelled without pause wherever it had passed. The pain was so intense he couldn't even speak — just dizziness and a sudden surge of nausea!
 
-Erland leaned in close and whispered, "Look at his veins... it's taking effect, Sulenna!"
+Erlan leaned in close and whispered, "Look at his veins... it's taking effect, Surena!"
 
 Jace forced his eyes open and glanced at his hand — it was covered in dense purple lines.
 
 "You trying to kill me?!"
 
-"You're not dying. We're not murderers." Erland blinked. "This is just a Curse of Agony... the whole point of this spell is to cause pain, not kill."
+"You're not dying. We're not murderers." Erlan blinked. "This is just a Curse of Agony... the whole point of this spell is to cause pain, not kill."
 
-"Not bad, Sulenna. I can tell your curse power has reached a whole new level — both the activation speed and the effect are better than last time... not to mention this Jace lad here is a seriously strong fellow. I almost couldn't hold him down — way better than that beggar last time."
+"Not bad, Surena. I can tell your curse power has reached a whole new level — both the activation speed and the effect are better than last time... not to mention this Jace lad here is a seriously strong fellow. I almost couldn't hold him down — way better than that beggar last time."
 
-Erland's voice grew clearer and clearer, and the pain blurred and eased bit by bit. Jace felt his whole body growing colder, drenched in sweat.
+Erlan's voice grew clearer and clearer, and the pain blurred and eased bit by bit. Jace felt his whole body growing colder, drenched in sweat.
 
 His chest was soaked for some reason — turned out it was all stomach acid he'd just thrown up. He hadn't eaten a thing today.
 
@@ -196,15 +196,15 @@ His sweat and his vomit were both full of that unsettling rotten smell. Jace und
 
 He'd been called here to be a training dummy for them to practice their DPS on — and he clearly wasn't the first.
 
-Erland quickly untied Jace, brought him a chair, and told him to sit and rest for a bit, then turned to discuss something with Sulenna.
+Erlan quickly untied Jace, brought him a chair, and told him to sit and rest for a bit, then turned to discuss something with Surena.
 
 What they were talking about, Jace no longer had the energy to follow. His mind was a complete mess now. He just wanted to lie down on that chair and sleep.
 
 Best to sleep right through it and forget everything that had just happened.
 
-But he couldn't sleep. He had to leave this place of trouble, grab the money, and go.
+But he couldn't sleep. He had to get out of this den of trouble, grab the money, and go.
 
-Stumbling and dazed, he found himself on the grass outside the Wizard Sanctum, clutching three silver coins in his hand. No idea why it was three.
+Stumbling and dazed, he found himself on the grass outside the Wizard's Sanctum, clutching three silver coins in his hand. No idea why it was three.
 
 He looked up at the sky. The sun was directly overhead, roasting everything on the ground. A biscuit fragrance drifted from the garden, and Jace's stomach growled.
 
@@ -225,20 +225,3 @@ Thinking this, he'd already arrived at the Trade District. In the evening there 
 "Where've you been, Jace Sesso?"
 
 Jace narrowed his eyes while chewing on his bread. It was Grede.
-
----
-
-## Flagged terms & decisions (not in glossary)
-
-- **Chapter title: 找宰的羔羊** → "The Lamb to the Slaughter." Pun on the tavern name The Slaughtered Lamb (已宰的羔羊); Jace is the lamb walking to his own slaughter. Rendered with the English idiom rather than literal "lamb looking for slaughter."
-- **埃尔兰 (Erland)** — not in the character-names table, but mentioned in the speech profiles (smooth, reassuring, slightly menacing). Added to names table?
-- **札雷·莫尔 (Tharle Mor)** — not in the character-names table; speech profiles mention "Tharle (the bartender)" as gatekeepy/tere. Surname "Mor" not covered. Added to names table?
-- **痛苦诅咒** → "Curse of Agony." Official WoW warlock spell; not in the magic table. Flagging for glossary addition.
-- **燃烧军团** → "Burning Legion." Major WoW faction term; not in the glossary at all. Should be added to factions.
-- **移物术** → "telekinesis." Generic spell name; not in magic table.
-- **光亮术** → "light." Generic spell name; not in magic table.
-- **石工兄弟会** → "Stonemasons." Appears in chapter001 but not in the factions table. The Chinese term isn't glossary-listed.
-- **矮人酒** → "dwarven stout." Drink name; not in items table (麦芽/malt, 蜜酒/mead, 黑葡萄酒/dark wine likewise).
-- **日结** → "paid by the day / daily wage." Not a glossary term; rendered naturally.
-- **介绍人** → "referrer / sponsor." Not a glossary term; rendered as "someone with a sponsor" / "nonexistent referrer."
-- **dps** → kept as "DPS" (game-mechanic gamer shorthand); Jace's internal voice treats it as an English acronym as in the source.

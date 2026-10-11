@@ -22,7 +22,7 @@ Though for the Dark Irons at this point it was much the same, the hatred and con
 
 Jace had assumed that nearly every dwarf civilian and soldier he'd meet in Ironforge would hate orcs to the bone, and that the nobles shouldn't be much different either. He hadn't expected the reality to diverge so far from his assumptions.
 
-Of course, Jace couldn't say they were entirely wrong either, since Ironforge hadn't yet experienced the black dragon disaster firsthand — much like the people of Stormwind today, who had never suffered an invasion by Dark Iron dwarves. Aside from the displaced members of the Ladimore family, most people's impression of the Dark Irons was merely "cunning and treacherous," a far cry from the death-or-deadly hatred reserved for orcs.
+Of course, Jace couldn't say they were entirely wrong either, since Ironforge hadn't yet experienced the black dragon disaster firsthand — much like the people of Stormwind today, who had never suffered an invasion by Dark Iron dwarves. Aside from the displaced members of the Ladimore family, most people's impression of the Dark Irons was merely "cunning and treacherous," a far cry from the undying hatred reserved for orcs.
 
 Perhaps sensing that arguing further was pointless, or perhaps noticing Jace standing in the middle looking a bit awkward, King Magni bellowed at the red-faced nobles to stop and dismissed that morning's gathering.
 
@@ -44,7 +44,7 @@ Just when he thought this trip to Ironforge was pretty much over, Magni suddenly
 
 "…I extend a sincere invitation for you to stay and attend the Winter Veil banquet in a week's time. To us, you are far more than just Stormwind's envoy — you are a living hero."
 
-He glanced toward the door and said, "Dun Morogh has long been plagued by Frost Trolls. Just the day before yesterday, more than a dozen residents and soldiers were killed in Karanos. And you may have heard — Moira's mother died at the hands of the Frost Trolls. If you had arrived a little earlier, a hero like you coming through Ironforge's gates, she never would have treated you that way."
+He glanced toward the door and said, "Dun Morogh has long been plagued by frost trolls. Just the day before yesterday, more than a dozen residents and soldiers were killed in Kharanos. And you may have heard — Moira's mother died at the hands of the frost trolls. If you had arrived a little earlier, a hero like you coming through Ironforge's gates, she never would have treated you that way."
 
 "I would truly love to attend Ironforge's Winter Veil banquet, Your Majesty," Jace said. "But Onyxia's whereabouts are still unknown, and there's no telling whether Blackrock Spire might make further moves. As King Varian's dark magic advisor, I must return to Stormwind as soon as possible and stand ready. Not to mention that Queen Tiffin's whereabouts are still unknown…"
 
@@ -52,7 +52,7 @@ King Magni nodded and said, "I understand. A real pity."
 
 "If there's nothing else, Your Majesty, then I'll take my leave," Jace said.
 
-"I do have one more question." King Magni said, "So then — you are not only a researcher of dark magic, but a wielder of it, a dark mage… Are these rumors true."
+"I do have one more question." King Magni said, "So then — you are not only a researcher of dark magic, but a wielder of it, a dark mage… Are these rumors true?"
 
 "They are true." Jace nodded. "I haven't hidden this from King Varian either. I apologize for the unease caused by my use of shadow magic last night. Those hunters had already threatened my life, and I was forced to resort to extreme measures."
 
@@ -82,7 +82,11 @@ Jace nodded. He'd noticed that every dwarf who'd lived through the War of the Th
 
 Jace nodded. "At the start it could be called a fight. By now, I think I've gradually grown accustomed to resisting it, Your Majesty."
 
-King Magni's mood visibly fell. He knew this was no way to save an entire people. "Might I offer my own understanding of the Dark Iron clan's current situation, Your Majesty?" Jace asked. "Please." Magni said.
+King Magni's mood visibly fell. He knew this was no way to save an entire people.
+
+"Might I offer my own understanding of the Dark Iron clan's current situation, Your Majesty?" Jace asked.
+
+"Please," Magni said.
 
 Jace said, "Even with skin turned pitch-black and eyes turned blood-red… many Dark Iron dwarves are still far more reasonable and friendly than their kin. I've met quite a few such Dark Irons — mainly Thorium Brotherhood members, plus some wanderers living abroad. And they all share one thing in common, Your Majesty: they've rejected their faith in the Firelord Ragnaros."
 
@@ -92,9 +96,9 @@ Jace said, "Perhaps once that Firelord is driven back to where he came from, Sha
 
 "That sounds simple enough." Magni let out a sound somewhere between a laugh and a cough. "Enter Blackrock Mountain, kill Ragnaros, free the Dark Iron clan… Still, this is ultimately a matter within the dwarven people."
 
-Jace had been on the verge of telling Magni Bronzebeard about Roktus, the Thorium Brotherhood, and the Sulfuron Hammer, but recalling how Roktus had refused to mention the Sulfuron Hammer at all when he couldn't yet trust him, he swallowed the words on his lips.
+Jace had been on the verge of telling Magni Bronzebeard about Lokhtos, the Thorium Brotherhood, and the Sulfuron Hammer, but recalling how Lokhtos had refused to mention the Sulfuron Hammer at all when he couldn't yet trust him, he swallowed the words on his lips.
 
-Once he'd confirmed that the Kadros Anvil deep within Grim Batol truly possessed enough strength and toughness to rival the Dark Anvil, suitable for forging the legendary Sulfuron Hammer — once he'd verified it with Roktus, Ruige, and the other Thorium Brotherhood members — then it wouldn't be too late to tell the dwarves of Ironforge.
+Once he'd confirmed that the Khardros Anvil deep within Grim Batol truly possessed enough strength and toughness to rival the Black Anvil, suitable for forging the legendary Sulfuron Hammer — once he'd verified it with Lokhtos, Ruige, and the other Thorium Brotherhood members — then it wouldn't be too late to tell the dwarves of Ironforge.
 
 And even if Grede still refused to take up the Sulfuron Hammer and shoulder the responsibility a Mountain King ought to carry, then letting this genuine Mountain King before him do it would be a tremendous thing for the dwarven people as a whole.
 
@@ -102,7 +106,7 @@ If the Sulfuron Hammer could truly help the Dark Iron rebels and the Bronzebeard
 
 Thinking this, Jace simply nodded and bowed slightly.
 
-"You've taken up too much of my time, Jace Sesso." King Magni said. "Still, there is one last thing."
+"I've taken up too much of your time, Jace Sesso," King Magni said. "Still, there is one last thing."
 
 "Yes, Your Majesty." Jace said.
 
@@ -124,4 +128,4 @@ Jace said, "There is indeed black dragon blood left behind in Stormwind, Your Ma
 
 "Truly, thank you, Your Majesty." Jace nodded, though it immediately dawned on him that this thing seemed like it was made for a warrior like Grede?
 
-No. He already had Rasharel's Life Gem. If this talisman really could be made, he couldn't let Grede have this one too.
+No. He already had Lashlayer's Lifegiving Gem. If this talisman really could be made, he couldn't let Grede have this one too.

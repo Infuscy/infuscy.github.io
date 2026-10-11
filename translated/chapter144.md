@@ -20,7 +20,7 @@ But in this situation, a long pitchfork was probably a lot more useful than a sw
 
 Once they entered the woods, waves of heat rolled over them. They hadn't even seen the dragon's shadow yet and already felt its power.
 
-Jace really couldn't imagine a single hatchling possessing this kind of terrifying force.
+Jace really couldn't imagine a single drake possessing this kind of terrifying force.
 
 Sparks danced between the trees. Quite a few leaves had caught fire. Some soldiers dropped into low-lying areas to dodge the waves of heat, then scrambled up and charged forward again once the blast passed.
 
@@ -76,7 +76,7 @@ He flipped open his little spellbook and cast Arcane Intellect on himself with p
 
 He hoped that with this staff's enhancement, at least one of Curse of Weakness or Fear would take effect.
 
-He remembered in the ship's hold, when he'd used the staff-enhanced Curse of Weakness on the "Baron of Night," and that black panther had still been able to claw him.
+He remembered in the ship's hold, when he'd used the staff-enhanced Curse of Weakness on the "Night Baron," and that black panther had still been able to claw him.
 
 So when facing a real dragon like this, he had serious doubts about whether his magic would work at all.
 
@@ -87,19 +87,3 @@ By now the fire had died down, and the soldiers' shouts were rising again.
 Jace stuffed the spellbook into his bag, silently recited the incantations he'd just memorized, and stepped out from behind the tree. He followed two Lordaeron soldiers pushing forward, advancing.
 
 The trees grew sparser. The dragon hunt was close at hand.
-
-## Flags
-
-- **农叉** → farming pitchforks. Militia weapon; generic.
-- **石堡** → Stonewatch (glossary).
-- **奥术智慧** → Arcane Intellect (glossary).
-- **虚弱诅咒** → Curse of Weakness (glossary).
-- **恐惧术** → Fear (glossary).
-- **法力药水** → mana potion. Generic term; not in glossary as a compound (glossary has potion types like Shadow Protection Potion). Flagged.
-- **暗影烈焰** → Shadowflame (glossary).
-- **黑夜男爵** → "Baron of Night." A creature Jace fought previously on the ship; not in glossary. Flagged.
-- **布瑞尔** → Brill. Jace's hometown in Lordaeron; canonical WoW location, not in glossary. Flagged.
-- **王城** → "the capital" (Lordaeron's capital). Contextual.
-- **邪能** → fel energy (glossary).
-- **法术咒语的小册子** → little spellbook. Jace's personal spell reference; no proper name.
-- **奥术飞弹** → Arcane Missiles (glossary). Appears at the very end of this chapter's action but rendered in Ch. 145.

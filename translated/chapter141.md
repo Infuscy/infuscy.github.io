@@ -10,7 +10,7 @@ The next morning, before the sun had even risen, the two of them left Southshore
 
 But Grede was plenty excited. Maybe it had been too long since he'd come out to get some practice — he was actually looking forward to his next fight.
 
-Jace kept thinking about Faolble's warnings: that murlocs would charge at you from a mile away in broad daylight and fight you to the death.
+Jace kept thinking about Furlbrow's warnings: that murlocs would charge at you from a mile away in broad daylight and fight you to the death.
 
 He figured that if things really went south this time, he wouldn't hold back on any shadow magic — especially now that Grede didn't seem quite so disgusted by it anymore.
 
@@ -30,7 +30,7 @@ After all, his crappy little room barely had space for something that big — on
 
 Come to think of it, maybe he should just give the coat to his father.
 
-Before they'd left the capital, his father had already stopped taking outside guard shifts much because of his age.
+Before he'd left the capital, his father had already stopped taking outside guard shifts much because of his age.
 
 But the old man still liked to take walks along the walls, and a thick coat would make that a lot more comfortable in winter. Especially if he could brag that his son had killed the wolf himself in the Kingdom of Stormwind — that'd be a hell of a flex.
 
@@ -72,7 +72,7 @@ Jace slid off the boulder too and unslung his staff from his back, ready for any
 
 He figured that if a whole pack of murlocs showed up, he'd immediately hit them with a staff-enhanced Fear spell to scare them all off, then grab Grede and look for a chance to flee.
 
-Thinking that, he pulled a mana potion out of his warlock's satchel and tucked it into the binding at his chest.
+Thinking that, he pulled a mana potion out of his warlock's bag and tucked it into the binding at his chest.
 
 But before he could cinch the satchel shut again, the imp suddenly popped its head out. "Master... I sense it. A bad presence."
 
@@ -126,11 +126,11 @@ Another swing, and a hut came down completely. Shells and dead fish scattered ev
 
 Jace held his nose and took a step back, then looked around again, then out at the sea. Definitely nothing there.
 
-"Let's go look for the wine crates instead. Head back toward Southshore a bit and search carefully. Maybe there really aren't any murlocs here, and the boss was right after all."
+"Let's go look for the wine crates instead. Head back toward Southshore a bit and search carefully. Maybe there really aren't any murlocs here, and the barkeep was right after all."
 
 Grede spat in frustration, jammed his axe into the sand, and gripped the haft as he stared out at the sea.
 
-"I'd had it all figured out — thought we'd make some extra money. Turns out there really aren't any murlocs. Those merchants really won't part with a single drop of blood, will they?"
+"I'd had it all figured out — thought we'd make some extra money. Turns out there really aren't any murlocs. Those merchants really won't part with a single copper, will they?"
 
 Just then, Jace caught a shadow flickering across the sky from the corner of his eye. He looked up — a bird, it seemed, flying over the pine woods toward Southshore.
 
@@ -151,13 +151,3 @@ Grede tilted his head to look, and his expression went from dismissive to frozen
 "What?!"
 
 "A dragon! That's a dragon!"
-
-## Flags
-
-- **南海镇** → Southshore. Canonical WoW name for the town south of Lordaeron near Hillsbrad; not in the glossary. Flagged for addition.
-- **法布隆** → Faolble (Rendal Faolble, the Westfall farmer per glossary). Used the short form as the text does.
-- **王城** → "the capital" (Lordaeron's capital). Contextual rendering, not a proper-name decision.
-- **暴风王国** → Kingdom of Stormwind. Contextual.
-- **刷完了怪 / 虚空刷新** → "cleared out the mobs / respawn out of thin air." Kept the gamer tone per style guide.
-- **眼你拼命** — source appears to have a typo for 跟你拼命; translated as "fight you to the death."
-- **扈窿** — source appears to be a typo for 窟窿 (holes); translated as "holes."

@@ -1,4 +1,4 @@
-## Chapter 54: A Stormwind Imp at Work
+## Chapter 54: A Stormwind imp at Work
 
 The next morning, Jace woke up and sat on the bed. The room was empty — nothing there at all.
 
@@ -44,13 +44,13 @@ Jace felt his brain go blank for a second. "This is an eredar staff?"
 
 Transformed? More like corrupted, probably...
 
-Sazeno touched the surface of the staff and shook its head. "Those eredar sorcerers love giving the artifacts they create to their slaves and servants as gifts, to display their might. The master wouldn't happen to be a servant of the eredar, would I then be the servant of a servant of the eredar? How impressive."
+Sazeno touched the surface of the staff and shook its head. "Those eredar sorcerers love giving the artifacts they create to their slaves and servants as gifts, to display their might. The master wouldn't happen to be a servant of the eredar? Would I then be the servant of a servant of the eredar? How impressive."
 
 Jace was stunned for a moment, but Sazeno's words had actually reminded him of a possible origin for this staff.
 
 Gul'dan had originally received guidance from Kil'jaeden, Sargeras's right hand and leader of the eredar, transforming him from an outcast abandoned by his people onto the path of shadow. Afterward, he'd founded the Shadow Council.
 
-This staff was very likely one of the many demonic artifacts he'd obtained from the eredar demons among the Burning Legion after his cooperation with them began. To win the loyalty of Targon, he'd then passed this staff on to him.
+This staff was very likely one of the many demonic artifacts he'd obtained from the eredar demons among the Burning Legion after his cooperation with them began. To win the loyalty of Teron'gor, he'd then passed this staff on to him.
 
 "You know quite a lot, Sazeno." Jace nodded in satisfaction. "Don't slack off at home today either — help me with something."
 
@@ -60,13 +60,13 @@ Jace said, "Here — take a look at this book."
 
 He pulled that thick bilingual book out of the wardrobe and stuffed it into the imp's hands. "What languages are in here?"
 
-Sazeno took it, flipped through a few pages, and said, "There's demonic, there's lordly... and there's a kind of runic language I don't understand."
+Sazeno took it, flipped through a few pages, and said, "There's Demonic, there's the tongue of the lords... and there's a kind of runic language I don't understand."
 
-"That's orcish," Jace said.
+"That's Orcish," Jace said.
 
 So this was exactly the kind of so-called bilingual dictionary — specially made for orc warlocks to study incantations.
 
-"Here's what I want you to do. Take all the demonic in here, translate it into Common, write out the correspondences and pronunciations, and copy them onto these papers." Jace hauled out a stack of cheap rough paper he'd been using as toilet paper and a notebook.
+"Here's what I want you to do. Take all the Demonic in here, translate it into Common, write out the correspondences and pronunciations, and copy them onto these papers." Jace hauled out a stack of cheap rough paper he'd been using as toilet paper and a notebook.
 
 It was only when he set the papers in front of him that he realized the ink and pens he'd prepared for copying out the Shadow Council's orders were nowhere near enough for a job this size.
 
@@ -84,13 +84,13 @@ There were plenty of places in the city that sold paper and ink. The cheapest wa
 
 Following the canal all the way forward, past the tower of the Stormwind Stockade, the academy building came into view. Jace took out ten silver — after getting a sword commissioned from the blacksmith and buying a set of clothes these past two days, this was basically half of what remained of his life savings.
 
-Early in the morning, the Academy of Magic and Scientific Research was already packed with people. It was the second-largest library in Stormwind, but compared to the library in the Wizard Sanctum, this one was geared more toward ordinary folk and university students.
+Early in the morning, the Academy of Magic and Scientific Research was already packed with people. It was the second-largest library in Stormwind, but compared to the library in the Wizard's Sanctum, this one was geared more toward ordinary folk and university students.
 
 "I'd like to buy some ink," Jace said, running up to the librarian's counter. "And some paper too."
 
 The librarian pulled out a bottle of ink, then hauled out a large bag of paper and began counting them out one by one for Jace.
 
-"Ordinary-quality paper, one silver eighteen copper for a dozen twelve sheets. Ink, five silver a bottle."
+"Ordinary-quality paper, one silver eighteen copper for a dozen sheets. Ink, five silver a bottle."
 
 He counted halfway and glanced at Jace. "How much do you want?"
 
@@ -98,9 +98,9 @@ Jace was still processing this absurd price. He'd literally crawled his way out 
 
 But this money couldn't be skimped on.
 
-If it were just a small amount of paper and ink, he could probably ask his boss Marin for some. But if the quantity got too large, it would inevitably draw suspicion.
+If it were just a small amount of paper and ink, he could probably ask his boss Malin for some. But if the quantity got too large, it would inevitably draw suspicion.
 
-He wasn't even an apprentice anymore. Even if he were taking an orcish language course, there'd be no reason to consume this much paper and ink.
+He wasn't even an apprentice. Even if he were taking an Orcish language course, there'd be no reason to consume this much paper and ink.
 
 "I'll... take one bottle of ink for now. And three dozen paper."
 
@@ -128,15 +128,4 @@ Jace figured, in that case, the souls of the gnolls in Elwynn Forest would proba
 
 "Wait a little while. There might be a chance."
 
-The imp let out a sharp cackle. "Aiya, the master is truly too good to me."
-
-## Flags
-
-- **魔法与科学研究院** → "Academy of Magic and Scientific Research": not in glossary; Stormwind institution, name rendered descriptively.
-- **影金** → "shadowgold" and **天界金** → "celestial gold": not in glossary; demonic materials described by the imp. "影金" literally "shadow gold"; "天界金" literally "celestial/heavenly gold." Flag for standardization.
-- **阿古斯** → "Argus": canon (eredar homeworld).
-- **塔隆戈尔** → "Targon": not in glossary; figure linked to Gul'dan's transfer of the staff. Transliterated; flag for review (may be an OC or obscure lore figure).
-- **暴风城监狱** → "Stormwind Stockade": canon WoW dungeon/prison in the Mage Quarter.
-- **兽人语** → "orcish": canon WoW language.
-- **深渊领主的语言** → "lordly": the imp's vague term for the language of the lords (likely "Abyssal" or demonic lord dialect); rendered as the imp's imprecise phrasing. Flag — may refer to a specific demonic language.
-- Chapter title "暴风城小鬼打工实录" → "A Stormwind Imp at Work."
+The imp let out a sharp cackle. "Oh my, the master is truly too good to me."

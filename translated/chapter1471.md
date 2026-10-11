@@ -2,9 +2,9 @@
 
 Leaving the theater and returning to the spiral staircase, Jace and Khadgar headed upward while searching for the disabled arcane constructs on each floor.
 
-Unlike before, when they'd actively come to attack them, the constructs outside the library had all stopped moving. Khadgar used his own magical crystals to charge them one by one, activating them. Those that couldn't be activated, he recorded the issues and damage, planning to report to the Curator back in the Grand Library.
+Unlike before, when they'd actively come to attack them, the constructs outside the library had all stopped moving. Khadgar used his own magical crystals to charge them one by one, activating them. Those that couldn't be activated, he recorded the issues and damage, planning to report to the Curator back in the Great Library.
 
-The last two constructs were on the top floor of Karazhan. Unlike what Jace remembered — going from the Chess Room directly to the top — they took the central spiral staircase all the way up, the same way they'd gone to the library and the Observatorium. The other door in the Chess Room was sealed.
+The last two constructs were on the top floor of Karazhan. Unlike what Jace remembered — going from the Chess Room directly to the top — they took the central spiral staircase all the way up, the same way they'd gone to the library and the Observatory. The other door in the Chess Room was sealed.
 
 When Khadgar said they needed to go to the tower top for the constructs, he didn't mention the Chess Room passage. He just assumed they'd take the spiral stairs.
 
@@ -20,7 +20,7 @@ Besides these familiar insignia, there were also some patterns Jace didn't recog
 
 According to Khadgar, these were the emblems used by Lord Anduin Lothar's ancestors when they ruled Stormwind — the ones who'd led a group of people from the north to settle here and establish the Kingdom of Stormwind.
 
-Jace didn't know about that. From the books he'd read in the Wizard Sanctum's library, he'd seen at least seven or eight members of the Wrynn family who'd ruled Stormwind. He'd always assumed the Wrynns had been ruling here since Stormwind was founded twelve hundred years ago.
+Jace didn't know about that. From the books he'd read in the Wizard's Sanctum's library, he'd seen at least seven or eight members of the Wrynn family who'd ruled Stormwind. He'd always assumed the Wrynns had been ruling here since Stormwind was founded twelve hundred years ago.
 
 It seemed Karazhan had been built much earlier than he'd thought.
 
@@ -28,7 +28,7 @@ Two dormant arcane constructs stood in the chamber. Khadgar approached them with
 
 The door vibrated occasionally, thumping. There was quite a wind outside.
 
-Following the game's path, opening this door would lead directly to Karazhan's final boss — the Eredar lord Prince Malchezaar, who'd come through the Twisting Nether.
+Following the game's path, opening this door would lead directly to Karazhan's final boss — the eredar lord Prince Malchezaar, who'd come through the Twisting Nether.
 
 In the game, the vast area outside that door didn't feel like a tower top at all. More like a fragment connecting Karazhan to the Twisting Nether.
 
@@ -40,7 +40,7 @@ Jace walked to the door and found the chain wrapped around it was simply looped 
 
 Jace pushed the door open and stepped forward — only to find his foot stepping into empty air as he plunged into a storm. Below his feet was a pitch-black bottomless abyss. The trees of Deadwind Pass below were like a sea of black claws reaching up, eager to tear him from the tower...
 
-He immediately grabbed the door and swung himself back inside. Morofil caught him and pulled him into the tower in time. Khadgar chanted a spell, slamming the door shut. The chamber fell deathly quiet.
+He immediately grabbed the door and swung himself back inside. Morophil caught him and pulled him into the tower in time. Khadgar chanted a spell, slamming the door shut. The chamber fell deathly quiet.
 
 "Are you out of your mind?!" the mage demanded.
 
@@ -50,7 +50,7 @@ He immediately grabbed the door and swung himself back inside. Morofil caught hi
 
 Jace shook the rainwater off his cloak. "I heard Karazhan's tower top could connect to the Twisting Nether."
 
-"Who told you that? Those fellows in the Wizard Sanctum?" Khadgar snapped his fingers, blowing all the water off Jace. Jace's soaking wet hair instantly puffed up like wool.
+"Who told you that? Those fellows in the Wizard's Sanctum?" Khadgar snapped his fingers, blowing all the water off Jace. Jace's soaking wet hair instantly puffed up like wool.
 
 "Something like that." Jace grabbed at his hair. "But if there's no passage to some strange place here, then what's this door for? There's nothing outside."
 
@@ -62,11 +62,11 @@ Khadgar had a point. Jace thought so too. But he wouldn't have been comfortable 
 
 "I see," Jace said.
 
-Morofil pointed outside. "So right now, it looks like that tower was destroyed by the theater figure. She didn't want us to reach the library directly. Her goal was to get us to the theater, so she could tell us about the 'demon summoning.'"
+Morophil pointed outside. "So right now, it looks like that tower was destroyed by the theater figure. She didn't want us to reach the library directly. Her goal was to get us to the theater, so she could tell us about the 'demon summoning.'"
 
 "So I should have just turned around when I was told, instead of stubbornly fighting her magic to rebuild that ladder..." Khadgar said. "My pride nearly got us all killed."
 
-After activating the constructs and returning to the Grand Library, Khadgar went to the exhibition hall to find the Curator and begin further calibration and repair work. Jace stayed in the library.
+After activating the constructs and returning to the Great Library, Khadgar went to the exhibition hall to find the Curator and begin further calibration and repair work. Jace stayed in the library.
 
 He found a Nathrezim ancient language dictionary in the library's linguistics section and opened the Chronicle of Dark Secrets alongside it, preparing to decipher its contents. But just getting through the first page took considerable effort.
 
@@ -98,7 +98,7 @@ In the exhibition hall, the Curator was standing obediently with its back agains
 
 "Ready, Jace."
 
-Jace acknowledged, looked up, and said, "Esteemed Curator, is there a section in the Grand Library of Karazhan that records the most obscure shadow magic on Azeroth — particularly related to black dragons? I believe Archmage Medivh or Lady Aegwynn must have conducted similar research."
+Jace acknowledged, looked up, and said, "Esteemed Curator, is there a section in the Great Library of Karazhan that records the most obscure shadow magic on Azeroth — particularly related to black dragons? I believe Archmage Medivh or Lady Aegwynn must have conducted similar research."
 
 "It exists," the Curator replied.
 
@@ -112,7 +112,7 @@ Jace froze. Khadgar panicked.
 
 "You're joking, right, Curator?" Jace asked.
 
-"You joked first, Mister Jace Sesso," the Curator said. "This area is not accessible to visitors of any clearance level."
+"You joked first, Mr. Jace Sesso," the Curator said. "This area is not accessible to visitors of any clearance level."
 
 "Just like this tower — old, boring jokes." Jace said. "What if I hadn't asked if you were joking?"
 

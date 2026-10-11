@@ -28,7 +28,7 @@ The building was much farther away than it looked. By the time they'd sprinted o
 
 "What red cloak?" Sola asked. "I didn't see it."
 
-"You were probably busy in the infirmary then," Grede said. "That knight squad that ran into the Bonereaver patrol..."
+"You were probably busy in the infirmary then," Grede said. "That knight squad that ran into the Bonechewer patrol..."
 
 "It was a cloak the black dragon gave me. Made me look more like a fel orc officer, better for infiltrating Hellfire Citadel," Jace said, looking at Sola.
 
@@ -46,11 +46,11 @@ Sola frowned at Grede, signaling him to drop it. Vereesa sighed in mild annoyanc
 
 "Enough, Grede," the ranger said. "Jace only made a suggestion. He's just trying to bring everyone home."
 
-"I know." The dwarf let out a long sigh and slapped his hand on his knee. "You said it by the River Neltharion, Jace. If you ever really fell and became a mad wizard like Mord'gul, I was supposed to kill you."
+"I know." The dwarf let out a long sigh and slapped his hand on his knee. "You said it by the Nazferiti River, Jace. If you ever really fell and became a mad wizard like Morganth, I was supposed to kill you."
 
 "Even back then I knew I couldn't do it. Even less now. Truth is, I don't even know how close you are to that line."
 
-"But I do know that if you did it, it wouldn't just affect you alone. The Expedition would split immediately over your decision — the Quel'Thalas elven mages are already imagining how many souls they'd need to feed into an Auchindoun portal, and the Kirin Tor people look like they're ready to compromise too. Marshal Turalyon's been frowning every day because he knows your dilemma, he knows the whole thing..."
+"But I do know that if you did it, it wouldn't just affect you alone. The Expedition would split immediately over your decision — the Quel'Thalas elven mages are already imagining how many souls they'd need to feed into an Auchindoun portal, and the Kirin Tor people look like they're ready to compromise too. General Turalyon's been frowning every day because he knows your dilemma, he knows the whole thing..."
 
 Now even Vereesa was quiet. Sola bowed her head too. Jace knew Grede was telling the truth.
 
@@ -72,7 +72,7 @@ Caught off guard by Grede's question, the green dragon flustered. Jace said, "So
 
 "No. I've never been disappointed." Sola said quietly. "I just didn't think you should have to bear all this alone, Jace."
 
-"Soul link!" Sazeno suddenly shrieked. "Whatever my master suffers, this she-demon takes half. That's the wonderful magic of the Eredar!"
+"Soul link!" Sazeno suddenly shrieked. "Whatever my master suffers, this she-demon takes half. That's the wonderful magic of the eredar!"
 
 "Pity it doesn't cover such intense affection." From the shadows deeper in the ruins, Morophil's voice came faintly.
 
@@ -88,7 +88,7 @@ The rain over the Bone Wastes went on for a long time without stopping. But no o
 
 "Truthfully? I'm not sure either," Jace said.
 
-Sazeno clung to the strap of the bag at Jace's waist with both hands. "The Eredar understand the Twisting Nether. They understand teleportation magic. Even in death, as long as they haven't gone mad, they should know what they're talking about, my master."
+Sazeno clung to the strap of the bag at Jace's waist with both hands. "The eredar understand the Twisting Nether. They understand teleportation magic. Even in death, as long as they haven't gone mad, they should know what they're talking about, my master."
 
 "And how much sanity do you think they have left, Mr. Sazeno?" Sola asked. The imp opened its mouth, but ultimately couldn't answer.
 
@@ -96,9 +96,9 @@ Sazeno clung to the strap of the bag at Jace's waist with both hands. "The Ereda
 
 Jace nodded. He understood what those spirits had meant by specifically warning him not to follow Gul'dan or Teron Gorefiend's old path...
 
-Draining souls. The method he and Ursaleth were best at — turning souls into personal power.
+Draining souls. The method he and Ulthalesh were best at — turning souls into personal power.
 
-So once he fulfilled his pact with that former Primate of Auchindoun, the spirits in the holy tomb would use their own method to activate the portal?
+So once he fulfilled his pact with that former Exarch of Auchindoun, the spirits in the holy tomb would use their own method to activate the portal?
 
 It felt unreliable to Jace, but he was willing to make this gamble. Just as Sabellian was willing to gamble on him being able to destroy the Scepter of Sargeras for a sliver of hope that his clan could survive.
 
@@ -116,7 +116,7 @@ Still, it did let Jace breathe a little easier. He had never personally manipula
 
 "So in the end, you still need to ask that black dragon prince for help," Grede said. "Get him to turn you into a fel orc again?"
 
-"He's the only one who can do it now," Jace said. "I'll try to infiltrate the Shadow Council, help the orcs deal with the Primate Maladaar. With us and the black dragons helping, the Shadow Council shouldn't have too much trouble defeating those fallen Auchenai priests. Then once they've built the portal and expended their strength, while they're waiting for that demon lord to arrive, I'll take the chance to kill Vorpil and fulfill the condition they want me to meet."
+"He's the only one who can do it now," Jace said. "I'll try to infiltrate the Shadow Council, help the orcs deal with Exarch Maladaar. With us and the black dragons helping, the Shadow Council shouldn't have too much trouble defeating those fallen Auchenai priests. Then once they've built the portal and expended their strength, while they're waiting for that demon lord to arrive, I'll take the chance to kill Vorpil and fulfill the condition they want me to meet."
 
 "Don't take Prince Sabellian's advice lightly, Jace." Sola looked at him with concern. "That day in the stronghold hall..."
 
@@ -134,7 +134,7 @@ This summoned sound elemental lord was still bound by the Shadow Council's magic
 
 Jace didn't believe it would destroy all of Draenor, but a portal couldn't tolerate any deviation. To stabilize the passage from Telogrus to Auchindoun, they had to consider this potential trouble.
 
-On the way back to Wildhammer Stronghold, no one said much more. The stipulations of the spectral Primate hadn't brought much joy at finding a way out.
+On the way back to Wildhammer Stronghold, no one said much more. The stipulations of the spectral Exarch hadn't brought much joy at finding a way out.
 
 At this moment, as he calmed down and reconsidered the entire portal process, the thrill of solving a perfect equation was completely gone.
 

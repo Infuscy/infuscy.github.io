@@ -1,8 +1,8 @@
 ## Chapter 1142: Departing Strahnbrad
 
-Leaving the red pine forest behind and flying over the Andorhal valley, the Alterac Mountains at the far edge of the horizon grew sharper and sharper. The wyverns touched down at Strahnbrad, the town at the foot of the mountains, because the Farstriders had a post there that could help look after the beasts.
+Leaving the red pine forest behind and flying over the Andorhal valley, the Alterac Mountains at the far edge of the horizon grew sharper and sharper. The dragonhawk touched down at Strahnbrad, the town at the foot of the mountains, because the Farstriders had a post there that could help look after the beast.
 
-Strahnbrad had once been the largest and most prosperous town in the Kingdom of Alterac apart from the capital, Alterac City. After the capital was destroyed by the allied multinational forces, many refugees fled north to the shores of Lake Lordamere and Tirisfal Glades, or settled here.
+Strahnbrad had once been the largest and most prosperous town in the Kingdom of Alterac apart from the capital, Alterac City. After the capital was destroyed by the allied multinational forces, many refugees fled north to the shores of Lordamere Lake and Tirisfal Glades, or settled here.
 
 The valley where the town sat was a shortcut for the people of Andorhal heading south to Durnholde, or further east to the Arathi Highlands. Thanks to its convenient roads and the influx of many Alterac refugees, Strahnbrad had shot up to become the liveliest town in the whole region in just a few years.
 
@@ -12,13 +12,13 @@ From the woodland cabin the Farstrider rangers had rented outside town, looking 
 
 The people coming and going — whether townsfolk or travelers passing through — all wore expressions that could hardly be called positive or optimistic.
 
-Vereesa was talking with a ranger; she was the leader of the Farstrider force in Strahnbrad at the moment. "Leader" was a generous term — she was in charge of exactly three rangers, including herself, responsible for gathering intelligence on rogued orcs at the foot of the Alterac Mountains.
+Vereesa was talking with a ranger; she was the leader of the Farstrider force in Strahnbrad at the moment. "Leader" was a generous term — she was in charge of exactly three rangers, including herself, responsible for gathering intelligence on rogue orcs at the foot of the Alterac Mountains.
 
 And right now the other two rangers were both out on missions; she was the only one watching what looked like a hunting cabin. This whole trip to the Alterac Mountains tracking down the Frostwolf orcs — Vereesa hadn't been sure the whole way whether they'd actually find anything.
 
-After all, in Eastweald, the Silver Hand paladins and the Farstriders had cooperated for years and still hadn't caught the leaders of more than a handful of rogued orc clans. Whether she, a single ranger, plus Jace, a warlock, could find the base of an orc clan was anyone's guess.
+After all, in the Eastweald, the Silver Hand paladins and the Farstriders had cooperated for years and still hadn't caught the leaders of more than a handful of rogue orc clans. Whether she, a single ranger, plus Jace, a warlock, could find the base of an orc clan was anyone's guess.
 
-Let alone this wasn't the forests and great plains of Eastweald — it was the most mysterious and treacherous great snow mountain on the whole continent of Lordaeron. Still, Jace had been turning something over in his mind.
+Let alone this wasn't the forests and great plains of Eastweald — it was the most mysterious and treacherous great snowy mountain on the whole continent of Lordaeron. Still, Jace had been turning something over in his mind.
 
 In the game, the battleground "Alterac Valley" pitted the Alliance's Stormpike dwarves, based out of the town of Dun Baldar, against the Frostwolf clan to the south, fighting for control of the entire valley.
 
@@ -40,15 +40,17 @@ He pointed at the area. "Is there nothing here?"
 
 Kreya explained, "It's a frozen lake, Mr. Sesso. The humans of Alterac call it Iceblood Valley. The environment inside is extremely harsh — uninhabitable. It's a no-man's-land."
 
-"Iceblood Valley. A frightening name." Vereesa thought for a moment. "Orcs are much larger than us humans, with thicker skin and sturdier bodies. Could they survive in a harsher environment than we could?"
+"Iceblood Valley. A frightening name." Vereesa thought for a moment. "Orcs are much larger than humans or us, with thicker skin and sturdier bodies. Could they survive in a harsher environment than we could?"
 
-She looked at Jace. "If I were an orc, I'd consider hiding in a place where the enemy simply refused to come." Jace nodded. The fact that Vereesa had figured this out on her own meant he didn't even need to come up with a reason to lead her there.
+She looked at Jace. "If I were an orc, I'd consider hiding in a place where the enemy simply refused to come."
 
-Because on the Alterac Valley battlefield, the Frostwolf army's frontmost defensive structure was called the Iceblood Watchtower — probably an orc outpost that would later be established near this frozen lake.
+Jace nodded. The fact that Vereesa had figured this out on her own meant he didn't even need to come up with a reason to lead her there.
+
+Because on the Alterac Valley battlefield, the Frostwolf army's frontmost defensive structure was called the Iceblood Tower — probably an orc outpost that would later be established near this frozen lake.
 
 "It's not impossible," Kreya said. "But we can't provide any further intelligence, Lady Vereesa. Right now, both the Arathi-controlled territories and the Lordaeron-occupied areas of the Kingdom of Alterac are focused on stabilizing the situation and restoring production."
 
-She pointed at the towering snow peaks behind the town. "Because there have been very few orc attacks or injuries in this mountain range — at most sightings and encounters. Compared to Dalremar up north, it's far more peaceful. So the rulers of the nearby towns have little inclination to spend manpower and resources organizing armies and hunters to enter these harsh areas. These unoccupied places are almost entirely unexplored."
+She pointed at the towering snow peaks behind the town. "Because there have been very few orc attacks or injuries in this mountain range — at most sightings and encounters. Compared to Darrowmere up north, it's far more peaceful. So the rulers of the nearby towns have little inclination to spend manpower and resources organizing armies and hunters to enter these harsh areas. These unoccupied places are almost entirely unexplored."
 
 "I see," Vereesa said. "Could we borrow this map?"
 
@@ -58,7 +60,7 @@ She pointed at the towering snow peaks behind the town. "Because there have been
 
 "Very well, Lady Vereesa. A safe journey to you," Kreya said.
 
-Rubbing shoulders with orcs was obviously something they couldn't let the Farstriders tag along for, otherwise Tirion Fordring wouldn't have gotten captured first — Jace himself might have been dragged to Stratholme for a public trial, and running into Lord Dathrohan a few days later would have been awkward.
+Rubbing shoulders with orcs was obviously something they couldn't let the Farstriders tag along for, otherwise, long before Tirion Fordring was ever arrested, Jace himself might be dragged to Stratholme for a public trial — and running into Lord Dathrohan again so soon would be awkward.
 
 The streets of Strahnbrad were packed. Refugees, travelers, and soldiers from all across the continent of Lordaeron had gathered here, shouting and cursing in waves.
 
@@ -66,7 +68,7 @@ Many refugees in ragged clothes stood on both sides of the street watching the p
 
 The two of them walked all the way into an inn on the town's central square. Even after they'd gone inside, a group of people sitting on the wooden railing by the fountain in the middle of the square kept staring at them without blinking.
 
-There were quite a few people in the inn. Two groups were in the middle of arguments, and the whole place was thick with a fierce anger, a sense of grievance, and unwillingness — it made Jace feel uneasy.
+There were quite a few people in the inn. Two groups were in the middle of arguments, and the whole place was thick with a fierce anger, a sense of grievance, and bitterness — it made Jace feel uneasy.
 
 He and Vereesa picked a spot far from the arguments and sat down to eat something, though even there they could still hear what they were fighting about.
 
@@ -84,7 +86,7 @@ The terrain grew higher and higher, the snow on the road thicker and thicker. Pu
 
 That night, Jace and Vereesa rested in an Alterac Kingdom watchtower that had been destroyed during the Orc Wars, managing to start a small fire in a slightly cleaner wind-sheltered room.
 
-The wind outside howled like the low growl of a beast. The cold drafts that gusted in from time to time made the already-struggling fire shudder and flicker, making an whooshing sound.
+The wind outside howled like the low growl of a beast. The cold drafts that gusted in from time to time made the already-struggling fire shudder and flicker, making a whooshing sound.
 
 Jace finished checking the luggage and looked up to survey their surroundings. The upper half of the tower had been torn clean off, and what remained had been thoroughly scorched. Blackened rubble was scattered everywhere.
 
@@ -94,7 +96,7 @@ There was no question — this watchtower had been destroyed by the orcs' red dr
 
 "I don't know." Vereesa studied the map by firelight. "At our previous pace, if the map is drawn accurately, we should reach Dun Baldar by nightfall tomorrow. But the road's getting harder, and there seems to be a canyon in between that we know nothing about."
 
-She sighed. "Right now I almost wish some orcs would suddenly pop out and ambush this tower, so we wouldn't have to keep searching blindly through these snow mountains…"
+She sighed. "Right now I almost wish some orcs would suddenly pop out and ambush this tower, so we wouldn't have to keep searching blindly through these snowy mountains…"
 
 Before she'd finished speaking, amid the pauses in the shrieking cold wind outside, there suddenly came a rustling sound — like boots or feet rubbing against snow.
 
@@ -102,9 +104,9 @@ Vereesa glanced warily toward the outside. Jace shot a look at the fire. It was 
 
 After a long stretch with no second round of sounds, Jace whispered, "What was that?"
 
-"Last night in Strahnbrad I heard some people say there are a lot of mountain bandits in the snow mountains made up of Alterac people, who specialize in robbing Lordaeron travelers." Vereesa looked at Jace. "I wonder if they rob people from Stormwind too?"
+"Last night in Strahnbrad I heard some people say there are a lot of mountain bandits in the snowy mountains made up of Alterac people, who specialize in robbing Lordaeron travelers." Vereesa looked at Jace. "I wonder if they rob people from Stormwind too?"
 
-"I am a Lordaeron person," Jace said, eyes wide.
+"I am Lordaeronian," Jace said, eyes wide.
 
 "Ah. Right." Vereesa shrugged, the corner of her mouth twisting into a wicked little smile.
 
@@ -142,8 +144,8 @@ Jace raised Ulthalesh and began chanting incantations. Before long, the tower's 
 
 Several ogres that had just charged up were all frightened by the sight, hesitating and backing away.
 
-"Dazarum IV," Jace finished the naming in ered'un, then said in the Eredar tongue, "Hunt down the wizard hiding in the back."
+"Dazarm IV," Jace finished the naming, then said in Eredun, "Hunt down the wizard hiding in the back."
 
-The felhunter had barely touched down before it let out a low growl toward a snow-covered thicket in the distance. A loud shout came from inside.
+The felhound had barely touched down before it let out a low growl toward a snow-covered thicket in the distance. A loud shout came from inside.
 
 "Don't let that wolf-demon come over here!" a deep voice roared from within. "I was wrong! Mighty demon lord, I was wrong! I surrender!"

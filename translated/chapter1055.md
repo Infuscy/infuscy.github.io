@@ -12,31 +12,31 @@ In the game, the Temple of Atal'Hakkar had many levels, but overall it could be 
 
 Honestly, Jace was more worried that his understanding of the game might actually mislead their route. After all, upon entering they'd already passed through an abandoned trap-filled tunnel he'd never known existed. Who knew what problems they'd run into having come this deep?
 
-"Sora," he turned slightly to approach the green dragon beside him. "Can you sense the presence of your kin? Their scent, or... the smell of dragon blood. If the Atal'ai priestesses are using the green dragons as sacrifices to summon the Soulflayer, I imagine the scent of dragon blood would be quite strong."
+"Sola," he turned slightly to approach the green dragon beside him. "Can you sense the presence of your kin? Their scent, or... the smell of dragon blood. If the Atal'ai priestesses are using the green dragons as sacrifices to summon the Soulflayer, I imagine the scent of dragon blood would be quite strong."
 
-Sora shook her head. "I can't sense anything at all. It's as if there are no green dragons in this temple — no sound of them, much less their scent."
+Sola shook her head. "I can't sense anything at all. It's as if there are no green dragons in this temple — no sound of them, much less their scent."
 
-"Could it be because you were cut off from outside your dream, which is why you can't sense your kin?" Grede ventured.
+"Could it be that you've been cut off from the Dream in here, and that's why you can't sense your kin?" Grede ventured.
 
-"No," Sora said. "I can still speak to Yserondre from outside, I can still..." As she spoke, she suddenly paused, looking up as if she'd noticed something.
+"No," Sola said. "I can still speak to Ysondre from outside, I can still..." As she spoke, she suddenly paused, looking up as if she'd noticed something.
 
 "I can hear it."
 
 "Hear what?" Jace asked.
 
-"A voice in the dream. It must be my kin calling for help," Sora said.
+"A voice in the dream. It must be my kin calling for help," Sola said.
 
 "Are you sure it's your companions calling for help, and not some strange magic or sorcery trying to lure you?" Grede asked.
 
-"I..." Sora looked at him. "I can't make out what they're saying, but it is the voice of a green dragon."
+"I..." Sola looked at him. "I can't make out what they're saying, but it is the voice of a green dragon."
 
 "In any case, that counts as a lead, doesn't it?" Vereesa said, keeping her voice low. "She's wearing the Chain of Will around her neck, Grede!"
 
 "Even if something is trying to lure the green dragon lady, I don't think it's necessarily a bad thing," Morophil said with a smile.
 
-"I think so too." Jace hefted Ulthalesh. "Then let's go see whether it's friend or foe. Sora, can you sense where that voice is coming from?"
+"I think so too." Jace hefted Ulthalesh. "Then let's go see whether it's friend or foe. Sola, can you sense where that voice is coming from?"
 
-"Yes," Sora said, pointing into the mist on the other side. "It's in there."
+"Yes," Sola said, pointing into the mist on the other side. "It's in there."
 
 "Then let's go," Jace said.
 
@@ -48,15 +48,15 @@ Vereesa observed restlessly, looking up whenever a troll spoke, trying to find t
 
 It wasn't just her. Jace also felt something was strange. Logically, entering the deepest part of the temple, they should have seen more trolls.
 
-He'd actually prepared himself to bloody his blades against who knew how many trolls, but now it was as if his enthusiasm had slammed into a wall.
+He'd actually prepared himself to bloody his blades against who knew how many trolls, but now it felt like winding up for a punch and hitting nothing but air.
 
 Of course, in the game, there was also a region deep in the Temple of Atal'Hakkar with not a single troll, because that place was...
 
-Sora suddenly stopped. Even Vereesa, caught off guard, nearly crashed right into her.
+Sola suddenly stopped. Even Vereesa, caught off guard, nearly crashed right into her.
 
 She looked up, seeming to listen carefully to something, but the others couldn't hear whatever she could. After a moment, Grede couldn't help but ask, "What did you hear?"
 
-"Father is calling me," Sora said in a low voice.
+"Father is calling me," Sola said in a low voice.
 
 "Father?" Vereesa was taken aback.
 
@@ -66,25 +66,25 @@ The moment the name was spoken, the surrounding mist seemed to shudder, slowly c
 
 Grede gripped his war hammer warily and watched the things in the mist. Jace also tightened his hold on Ulthalesh. The sound of the staff's deep hunger for souls grew clearer, even drowning out the murmurs of the trolls above.
 
-"I understand," Sora said softly. "Father has told me everything."
+"I understand," Sola said softly. "Father has told me everything."
 
 "What?" Vereesa looked over.
 
-"The Atal'ai are almost successful," Sora said, looking at Vereesa. "They've nearly succeeded in summoning the Soulflayer. Countless souls, countless sacrifices and blood... Queen Ysera's magic hasn't hindered their progress at all. It's only made them more insane — until Father came here."
+"The Atal'ai are almost successful," Sola said, looking at Vereesa. "They've nearly succeeded in summoning the Soulflayer. Countless souls, countless sacrifices and blood... Queen Ysera's magic hasn't hindered their progress at all. It's only made them more insane — until Father came here."
 
 "He used a powerful seal to stop the Soulflayer's descent... Before long, he'll be able to completely destroy the ritual here and gain his freedom. He needs my help."
 
-"Wait, Sora," Jace asked. "How does he want you to help?"
+"Wait, Sola," Jace asked. "How does he want you to help?"
 
-Sora shook her head. "I don't know. I have to get closer. His presence is very faint, it's like... it's like..."
+Sola shook her head. "I don't know. I have to get closer. His presence is very faint, it's like... it's like..."
 
 "Like a shadow," Jace said.
 
-"A shadow," Sora repeated, dazed for a moment, then tried to walk forward. Vereesa, closest to her, grabbed her by the arm. "What are you doing, Sora?"
+"A shadow," Sola repeated, dazed for a moment, then tried to walk forward. Vereesa, closest to her, grabbed her by the arm. "What are you doing, Sola?"
 
-"I must help Father gain his freedom and stop the Soulflayer's descent!" Sora asked Vereesa urgently. "Isn't that why we came here, Vereesa? The green dragons haven't lost their minds. They haven't become sacrifices!"
+"I must help Father gain his freedom and stop the Soulflayer's descent!" Sola asked Vereesa urgently. "Isn't that why we came here, Vereesa? The green dragons haven't lost their minds. They haven't become sacrifices!"
 
-"Snap out of it, Sora!" Vereesa gripped her shoulders. "We need to figure out what's actually going on first..."
+"Snap out of it, Sola!" Vereesa gripped her shoulders. "We need to figure out what's actually going on first..."
 
 "Release her!"
 
@@ -92,33 +92,35 @@ A roar in Draconic echoed from somewhere in the temple, and immediately the whis
 
 "Release my daughter, you cultists driven by the Soulflayer... Emerald blood flows in her veins. She knows better than anyone whose orders she should obey. No mortal can control her will!"
 
-"What noise is that?!" Grede's eyes widened. "What's he saying, Sora?" Vereesa asked.
+"What noise is that?!" Grede's eyes widened.
 
-"You know what to do, Samelia. You know... Listen to Prince Eranikus's words. Listen to your Father's words..." The hoarse Draconic echoed everywhere in the mist. Sora immediately shook off Vereesa's hand and tried to walk deeper inside.
+"What's he saying, Sola?" Vereesa asked.
 
-"Sora," Jace asked. "Don't you trust us anymore?"
+"You know what to do, Somaelir. You know... Listen to Prince Eranikus's words. Listen to your Father's words..." The hoarse Draconic echoed everywhere in the mist. Sola immediately shook off Vereesa's hand and tried to walk deeper inside.
 
-Sora stopped in her tracks. By now the temple was already filled with the shouts of trolls from every direction, and the sound of enormous serpent scales rubbing together from who knew where. Clearly the sudden agitation of the great dragon had caught the Atal'ai quite off guard as well.
+"Sola," Jace asked. "Don't you trust us anymore?"
 
-"You know very well what's happening here, Sora," Jace continued. "Those dragonkin no longer obey the green dragons. The Atal'ai trolls here are protected by those dragonkin and have no fear of any intruders... This temple is operating like clockwork, and you saw it all with your eyes. I think before much longer, the Soulflayer will return by borrowing the power of the green dragons. And once you go, you'll be helping them add the final bricks to this ritual."
+Sola stopped in her tracks. By now the temple was already filled with the shouts of trolls from every direction, and the sound of enormous serpent scales rubbing together from who knew where. Clearly the sudden agitation of the great dragon had caught the Atal'ai quite off guard as well.
 
-Sora turned back to look at Jace and said in a low voice, "But I must... heed my Father's call. I must... I must..."
+"You know very well what's happening here, Sola," Jace continued. "Those dragonkin no longer obey the green dragons. The Atal'ai trolls here are protected by those dragonkin and have no fear of any intruders... This temple is operating like clockwork, and you saw it all with your eyes. I think before much longer, the Soulflayer will return by borrowing the power of the green dragons. And once you go, you'll be helping them put the finishing touches on this ritual."
 
-"His mind isn't working anymore, Sora!" Grede cursed. "Has yours gone fuzzy too?!"
+Sola turned back to look at Jace and said in a low voice, "But I must... heed my Father's call. I must... I must..."
+
+"His mind isn't working anymore, Sola!" Grede cursed. "Has yours gone fuzzy too?!"
 
 At that moment, Jace noticed the Chain of Will around her neck wasn't glowing red at all — it wasn't working, because nothing was trying to influence her with mental magic.
 
-She was a whelp. An Emerald whelp.
+She was a young dragon. A young green dragon.
 
-Obeying the commands of elders was instinct woven into a whelp's very blood — so much so that it could override the self, abandoning thought and reason.
+Obeying the commands of elders was instinct woven into a young dragon's very blood — so much so that it could override the self, abandoning thought and reason.
 
-And Eranikus, consort of the Dreamer Queen, was himself the highest-ranking, most authoritative elder in the entire Emerald dragonflight aside from Ysera herself.
+And Eranikus, consort of the Dreamer Queen, was himself the highest-ranking, most authoritative elder in the entire Green Dragonflight aside from Ysera herself.
 
-"Don't be deluded by the Soulflayer's illusion, Samelia!" the Emerald dragon's voice echoed through the great hall.
+"Don't be deluded by the Soulflayer's illusion, Somaelir!" the green dragon's voice echoed through the great hall.
 
-"We all the way from Winterspring to get here," Jace stepped forward and stared at her. "This isn't a dream, Sora. You're a guardian of the dream. You know that perfectly well."
+"We came all the way from Winterspring to get here." Jace stepped forward and stared at her. "This isn't a dream, Sola. You're a guardian of the dream. You know that perfectly well."
 
-"I... remember. I know it all." Sora lowered her head, tears already seeping from her eyes.
+"I... remember. I know it all." Sola lowered her head, tears already seeping from her eyes.
 
 She clenched her teeth and spoke in Draconic: "My father... Prince Eranikus. I will obey your command and stop the summoning of the Soulflayer. Therefore I must save you. We will find a way to save you... Please grant the blessing of the Lord of Dreams, dear father..."
 
@@ -126,17 +128,17 @@ She clenched her teeth and spoke in Draconic: "My father... Prince Eranikus. I w
 
 "Come back first. Don't stand in the mist... green dragon lady!" Sazeno shouted anxiously, then added in a small voice, "At least give my master's treasure back first..."
 
-"This was our agreement from the start. Come back over here first, Sora!" Vereesa shouted.
+"This was our agreement from the start. Come back over here first, Sola!" Vereesa shouted.
 
-Sora nodded and returned from the mist. Immediately, a trace of disappointment, sorrow, and low anger seeped into the air.
+Sola nodded and returned from the mist. Immediately, a trace of disappointment, sorrow, and low anger seeped into the air.
 
-"Samelia..." Eranikus's voice crashed against the tall green walls like surging black waves. "You asked for my blessing, so I grant you... cold death!"
+"Somaelir..." Eranikus's voice crashed against the tall green walls like surging black waves. "You asked for my blessing, so I grant you... cold death!"
 
 "Kill! Kill! Kill! Children of the Dream, purify this traitor!"
 
-"Doesn't sound like anything pleasant, damn it," Grede glanced at Sora beside him. "Though I'm glad you're willing to stand on our side, but does this mean..."
+"Doesn't sound like anything pleasant, damn it," Grede glanced at Sola beside him. "I'm glad you're willing to stand on our side, but does this mean..."
 
-"It means we've angered an ancient dragon, and the entire green dragonflight that obeys his commands without question," Vereesa said in a low voice, drawing an arrow and nocking it. "Stand behind us, Sora. You don't need to personally harm your own kin."
+"It means we've angered an ancient dragon, and the entire Green Dragonflight that obeys his commands without question," Vereesa said in a low voice, drawing an arrow and nocking it. "Stand behind us, Sola. You don't need to personally harm your own kin."
 
 "Kill..."
 
@@ -150,9 +152,9 @@ The temple grew noisier and noisier. There were even squads of Atal'ai soldiers 
 
 At that moment, a hoarse troll's voice came from somewhere, shouting in a language Jace couldn't understand at all, the sound echoing throughout the temple.
 
-"What's he saying, Sora?" Jace asked.
+"What's he saying, Sola?" Jace asked.
 
-"He's ordering the sacrifices to be secured," Sora said in a low voice. "I imagine they mean..." Before she could finish, Sora seemed to hear something else in the shouting at the moment.
+"He's ordering the sacrifices to be secured," Sola said in a low voice. "I imagine they mean..." Before she could finish, Sola seemed to hear something else in the shouting at the moment.
 
 "They know we're in here, Jace."
 
@@ -168,6 +170,6 @@ The leader of the Atal'ai priestesses, the Prophet Jammal'an... was unquestionab
 
 "That way," Vereesa pointed into the mist in the distance.
 
-"Then we go straight to him," Jace finished, looking at Sora. "Are you sure you're on our side, Sora? Next we might actually run into green dragon resistance, because I suspect the green dragons here probably aren't taking orders from Eranikus, but from the trolls, or..."
+"Then we go straight to him," Jace finished, looking at Sola. "Are you sure you're on our side, Sola? Next we might actually run into green dragon resistance, because I suspect the green dragons here probably aren't taking orders from Eranikus, but from the trolls, or..."
 
-"I'm sure," Sora said firmly.
+"I'm sure," Sola said firmly.

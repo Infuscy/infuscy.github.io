@@ -18,7 +18,7 @@ The dwarf split the thigh bone with one blow, then continued, "I still prefer th
 
 "Occasional danger is part of the fun of forest hunting, lad." Grede grinned.
 
-"I could try to cleanse the contamination and disease from this raptor with natural magic," Sora said, swallowing.
+"I could try to cleanse the contamination and disease from this raptor with natural magic," Sola said, swallowing.
 
 "No!" Grede held up a hand. "Don't make tonight's feast impure with your nature magic, green dragon."
 
@@ -40,7 +40,7 @@ Jace cleared his throat softly. "Didn't you say you didn't want magic tainting y
 
 "Breath isn't magic." The dwarf shot the warlock a dirty look. "Molten Core barbecue. The Dark Iron dwarves love that stuff. Smells awful, tastes amazing. If there's a chance to eat it, the Wildhammer love it too. Since when is delicious food not food just because bad people like it?"
 
-Jace sighed and crossed his arms. Grede's blatant double standards weren't exactly new, especially when it came to Sora.
+Jace sighed and crossed his arms. Grede's blatant double standards weren't exactly new, especially when it came to Sola.
 
 Anyway, Grede was doing the cooking. Jace could just sit here and wait to eat.
 
@@ -56,42 +56,42 @@ It was exactly what Jace had suspected. Honestly, in either this life or his pas
 
 "Think about it — what would the Three Hammers' nobles say if they knew you were using Sulfuras for this?"
 
-"Think about what they'd say if they knew you were talking to the new High Thane like that." Grede snorted and flung a slab of raptor meat onto Sulfuras. Sizzling smoke exploded everywhere.
+"Think about what they'd say if they knew you were talking to the new High King like that." Grede snorted and flung a slab of raptor meat onto Sulfuras. Sizzling smoke exploded everywhere.
 
 "Oi!" The meat went white, then black in an instant. Grede was quick — he hooked it off with his axe blade and lifted it up. Half was charred.
 
-"Gotta adjust a bit more. Maybe put a stone slab on top." Grede tore off a piece that looked edible, stuffed it in his mouth, and chewed vigorously. "Not bad, not bad. We're getting somewhere, you two! Tonight you're gonna eat top-quality molten barbecue! When we get to Kalimdor, I'm making Mosa try this technique I learned in Shadowforge City. Not disrespecting the tauren, but — remember that time at Sun Rock? Those tauren have no idea what good food is. I'm telling you, there's no way meat cooked with Ragnaros the Fire Lord's power can taste bad!"
+"Gotta adjust a bit more. Maybe put a stone slab on top." Grede tore off a piece that looked edible, stuffed it in his mouth, and chewed vigorously. "Not bad, not bad. We're getting somewhere, you two! Tonight you're gonna eat top-quality molten barbecue! When we get to Kalimdor, I'm making Mosa try this technique I learned in Shadowforge City. Not disrespecting the tauren, but — remember that time at Sun Rock Retreat? Those tauren have no idea what good food is. I'm telling you, there's no way meat cooked with Ragnaros the Firelord's power can taste bad!"
 
-"I imagine Mosa will be very happy in the future," Sora said.
+"I imagine Mosa will be very happy in the future," Sola said.
 
-"Ha!" Grede rinsed a stone slab with seawater and glanced up at Sora. "You suddenly not picking a fight with me feels weird. Don't be jealous — when you grow up, some other dragon will treat you just as well. Don't worry."
+"Ha!" Grede rinsed a stone slab with seawater and glanced up at Sola. "You suddenly not picking a fight with me feels weird. Don't be jealous — when you grow up, some other dragon will treat you just as well. Don't worry."
 
-Sora was silent for a moment, just staring at the Sulfuras warhammer glowing like red-hot wrought iron, watching the fierce flames that occasionally burst from it.
+Sola was silent for a moment, just staring at the Sulfuras warhammer glowing like red-hot wrought iron, watching the fierce flames that occasionally burst from it.
 
 "That sounds very distant... and I don't know if I'll ever have a mate. Strictly speaking, in the Emerald Dream, only the Queen has true mates. The other females mostly just help lay eggs or tend to whelps."
 
 "So when your queen dies, and the next one dies, eventually it'll be..." Grede glanced at the raptor meat sizzling on the stone slab, speaking casually.
 
-"That's outrageous, Thunderfist!" Sora shouted in fury. "Have you lost your mind?!"
+"That's outrageous, Thunderfist!" Sola shouted in fury. "Have you lost your mind?!"
 
 "Sorry, sorry!" Grede quickly apologized. "I just meant everyone gets old and dies eventually."
 
-"The Dragon Aspects are immortal." Sora's tone was dead serious. "Since the dragonflights were born, the Aspects who lead the flights have never been replaced."
+"The Dragon Aspects are immortal." Sola's tone was dead serious. "Since the dragonflights were born, the Aspects who lead the flights have never been replaced."
 
 "Is that so?" Grede asked. "Then does Deathwing count as an Aspect?"
 
-Sora froze, stammered for a moment without answering, then looked at Needleflame calling in the distance. She lowered her head. "Yes. He was an Aspect."
+Sola froze, stammered for a moment without answering, then looked at Needleflame calling in the distance. She lowered her head. "Yes. He was an Aspect."
 
 "He's dead." Grede flipped the grilled meat. "Deader than this piece of meat."
 
-"One day a black dragon will succeed him. I've heard of a ritual related to succession," Sora said.
+"One day a black dragon will succeed him. I've heard of a ritual related to succession," Sola said.
 
 "So you do know something." Grede shrugged. "So I wasn't wrong after all."
 
-"But I don't have any intention. I've never thought about becoming the Dream Queen." Sora said. "I just want to stay with all of you."
+"But I don't have any intention. I've never thought about becoming the Dream Queen." Sola said. "I just want to stay with all of you."
 
 Grede chuckled. "None of us are going to outlive you by much. Well, Vereesa Windrunner might last another one or two thousand years — if she's lucky. Me, a hundred or two at most. As for this Sesso fellow, Queen Alexstrasza never gave him any guarantees. Needleflame is a completely different story."
 
-"Don't say any more," Sora said quietly.
+"Don't say any more," Sola said quietly.
 
 Jace couldn't help sneaking a glance at her. Grede realized something was off too and quickly cleared his throat. "Alright, alright, enough of that. Come try this piece — see how it turned out!"

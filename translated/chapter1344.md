@@ -12,7 +12,7 @@ Now transformed into a fel orc, Sabellian held his walking staff and stepped ove
 
 "Aegwynn didn't have the power to destroy the Scepter of Sargeras. She tried many methods. But she also mentioned some very plausible conjectures. The one she was most optimistic about was using Ulthalesh — the Dark Titan's soul reaper. I admit she was far more powerful than me. Even my father feared her. So I choose to believe her."
 
-"You told Prince Sabellian about the staff, Jace?" Sora asked from behind.
+"You told Prince Sabellian about the staff, Jace?" Sola asked from behind.
 
 She had transformed into the shape of a Bonechewer orc. Holding a long staff, she followed behind the three fel orcs ahead, looking like a dark red vulture.
 
@@ -30,27 +30,27 @@ Sabellian explained. "Her teacher, the Guardian before her — Scavell — took 
 
 "Didn't you know this?" The Black Dragon Prince looked over. "Don't tell me you found that hiding place purely by luck and cracked Scavell's secret seal."
 
-"Of course it wasn't luck. But I don't need to explain it to you." Sora spoke seriously in a hoarse orcish voice. "I only know that if it were you, Prince Sabellian, even if that secret vault were placed right in front of you, you wouldn't find a way to hold it in your hands."
+"Of course it wasn't luck. But I don't need to explain it to you." Sola spoke seriously in a hoarse orcish voice. "I only know that if it were you, Prince Sabellian, even if that secret vault were placed right in front of you, you wouldn't find a way to hold it in your hands."
 
-"Ha!" Sabellian shot a quick glance at Sora. "I never thought you could have such deep trust in a mortal, Lady Somaliel. I'm quite curious how the two of you met. Why did Queen Ysera let you leave? As far as I know, the green dragons who leave the Emerald Dream either lack the ability to return, or... were cast out."
+"Ha!" Sabellian shot a quick glance at Sola. "I never thought you could have such deep trust in a mortal, Lady Somaelir. I'm quite curious how the two of you met. Why did Queen Ysera let you leave? As far as I know, the green dragons who leave the Emerald Dream either lack the ability to return, or... were cast out."
 
-Sora was struck speechless by the question. She could only fall silent.
+Sola was struck speechless by the question. She could only fall silent.
 
 "Queen Ysera let her leave the Emerald Dream to protect her, Sabellian," Jace said. "As someone who once served the darkness buried deep beneath Azeroth, you should know very well what's happening in the Emerald Dream."
 
-Hearing this, the slightly mocking expression on Sabellian's face faded considerably. He looked at Jace, then at Sora. "You were entangled by the Nightmare."
+Hearing this, the slightly mocking expression on Sabellian's face faded considerably. He looked at Jace, then at Sola. "You were entangled by the Nightmare."
 
-"More than entangled," Sora said. "I — "
+"More than entangled," Sola said. "I — "
 
 "That's impossible," the Dragon Prince said seriously.
 
-"I was corrupted. Jace and the others saved me, Prince Sabellian." Sora said. "And I believe that if Jace hadn't kept guiding me away from the shadow's influence, I wouldn't have made it this far. Queen Ysera knows too. She's very grateful for Jace's help."
+"I was corrupted. Jace and the others saved me, Prince Sabellian." Sola said. "And I believe that if Jace hadn't kept guiding me away from the shadow's influence, I wouldn't have made it this far. Queen Ysera knows too. She's very grateful for Jace's help."
 
 Needleflame, up ahead, kept turning her head to watch the three fel orcs conversing behind her. Only when Sabellian glanced at her did she obediently turn back.
 
 "You don't seem to be lying," Sabellian said. "And that at least makes some things make sense."
 
-He looked at Ulthalesh, which Jace was using as a walking stick. "Somaliel, you said earlier that even if the secret vault were placed in front of me, I couldn't take hold of this staff. There's some truth to that. But maybe not because I have no way to take it. It's because I know that none of Ulthalesh's previous owners met a good end. Their souls were all devoured by the staff itself..."
+He looked at Ulthalesh, which Jace was using as a walking stick. "Somaelir, you said earlier that even if the secret vault were placed in front of me, I couldn't take hold of this staff. There's some truth to that. But maybe not because I have no way to take it. It's because I know that none of Ulthalesh's previous owners met a good end. Their souls were all devoured by the staff itself..."
 
 "Your close friend here is undoubtedly a master of shadow control. I'd even say he's a mortal my father thought highly of." When Deathwing was mentioned, Needleflame couldn't help turning to look at Jace again — just a quick glance, though.
 
@@ -64,21 +64,21 @@ The Black Dragon Prince continued. "So I'm not surprised he could pull you free 
 
 "It's my honor, Jace Sesso," Sabellian said.
 
-After this exchange, Jace could clearly see that the prince's attitude toward Sora had shifted. Now that he knew she was a green dragon who had broken free from the Emerald Nightmare, the earlier dismissiveness — even a hint of contempt — was gone from his gaze, replaced by something closer to respect.
+After this exchange, Jace could clearly see that the prince's attitude toward Sola had shifted. Now that he knew she was a green dragon who had broken free from the Emerald Nightmare, the earlier dismissiveness — even a hint of contempt — was gone from his gaze, replaced by something closer to respect.
 
 Jace sensed a note of recognition in it too. After all, he and his kin were staying on Draenor for the same reason.
 
-As the forest grew sparser and the Bone Wastes drew nearer, Sora couldn't help asking, "Shouldn't we prepare our story for entering the Shadow Council now, Jace?"
+As the forest grew sparser and the Bone Wastes drew nearer, Sola couldn't help asking, "Shouldn't we prepare our story for entering the Shadow Council now, Jace?"
 
 "Isn't that a bit premature?" Sabellian said. "Walking from here to Auchindoun will probably take several days."
 
-"We might run into Shadow Council orc patrols," Sora said. "Isn't that why we chose to walk instead of fly?"
+"We might run into Shadow Council orc patrols," Sola said. "Isn't that why we chose to walk instead of fly?"
 
 "Fair point." Sabellian said. "But I think even seeing them, there's still time to think of something. What do you think, Jace Sesso? We're a group of warlock emissaries from Hellfire Citadel..."
 
 "I think Karabor is better," Jace said.
 
-"Ah, so there is a disagreement after all." Sabellian glanced at Sora, then looked at Jace. "I think Vorpil should know that Kargath Bladefist has always been unhappy with the demons' control. They're familiar with each other. Kargath used to serve the Shadow Council. Back then, he was probably the only non-caster member of the Council."
+"Ah, so there is a disagreement after all." Sabellian glanced at Sola, then looked at Jace. "I think Vorpil should know that Kargath Bladefist has always been unhappy with the demons' control. They're familiar with each other. Kargath used to serve the Shadow Council. Back then, he was probably the only non-caster member of the Council."
 
 "Not every orc hates their current fate like Kargath does," Jace said. "And besides, we're here to trick them into building a portal to summon a demon lord. If it's on Kargath's orders, that's actually less convincing."
 
@@ -86,9 +86,9 @@ As the forest grew sparser and the Bone Wastes drew nearer, Sora couldn't help a
 
 "Speaking of which, crafting a background and persona for one's role is truly one of the most captivating parts of the disguise process," Sabellian couldn't help remarking.
 
-"Then why is it that everywhere you go, you're still Baron Sabermayne, Prince Sabellian?" Sora asked.
+"Then why is it that everywhere you go, you're still Baron Sablemane, Prince Sabellian?" Sola asked.
 
-"It's not that everywhere I go, I'm Baron Sabermayne, Lady Somaliel. It's that I only let you see Baron Sabermayne." The Black Dragon Prince showed a sly smile as he looked at Jace and Sora. "Right now, for instance, I'm Naihogar, high-ranking Dragonmaw warlock. Who knows when I might turn into Lord Erlanden, Prince Isiden of Alterac's dear friend?"
+"It's not that everywhere I go, I'm Baron Sablemane, Lady Somaelir. It's that I only let you see Baron Sablemane." The Black Dragon Prince showed a sly smile as he looked at Jace and Sola. "Right now, for instance, I'm Naihogar, high-ranking Dragonmaw warlock. Who knows when I might turn into Lord Erlanden, Prince Aliden of Alterac's dear friend?"
 
 The moment he finished speaking, an arrow suddenly hissed out of the forest. Sabellian reached up and caught it smoothly.
 
@@ -96,4 +96,4 @@ The elven arrow burned up in a flash of fire. The black dragon brushed the ash o
 
 "It means we should talk less and walk more," Jace said.
 
-The black dragon raised his thick black eyebrows noncommittally. Behind him, Sora couldn't help letting out a quiet laugh.
+The black dragon raised his thick black eyebrows noncommittally. Behind him, Sola couldn't help letting out a quiet laugh.

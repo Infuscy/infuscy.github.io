@@ -14,13 +14,13 @@ However, things didn't seem to be as bad as he'd imagined. The wind hummed as it
 
 ...an ordinary underground crypt.
 
-Molophil followed some distance behind the two of them, watching for any ghouls or other walking corpses that might be quietly tailing them, covering their retreat. Although Jace very much doubted whether there existed such a thing as a "quiet" ghoul anywhere in this world.
+Morophil followed some distance behind the two of them, watching for any ghouls or other walking corpses that might be quietly tailing them, covering their retreat. Although Jace very much doubted whether there existed such a thing as a "quiet" ghoul anywhere in this world.
 
 Once the atmosphere seemed a bit safer, Jace still couldn't help but ask, "Who was that fellow just now... you really have no clue?"
 
 Morgan found the hammer that had smashed into his shield, lifted it by the dirty cloth, and looked at it. "Is this a blacksmith's hammer?"
 
-"I noticed that too," Jace said, sitting to the side. "So is it possible that your grandfather commissioned someone to forge 'Achaeus' but didn't pay them?"
+"I noticed that too," Jace said, sitting to the side. "So is it possible that your grandfather commissioned someone to forge 'Archeus' but didn't pay them?"
 
 Morgan turned to look at Jace. The expression on his face was... hard to describe — a somewhat awkward feeling bottled up inside. "I..."
 
@@ -48,23 +48,23 @@ The one calling out was draped in a gorgeous blue-and-red long cloak, the gold-t
 
 "It's 'Magister,'" the elven woman beside him corrected, wearing a long robe of gold background with blood-colored patterns.
 
-"No need to quibble over that — we're old friends, Ressaticis," Dar'Khan said. "And Mr. Sesso here is the Court Mage advisor to His Majesty King Varian Wrynn of the High Kingdom — there's no need to fuss over titles."
+"No need to quibble over that — we're old friends, Ressathia," Dar'Khan said. "And Mr. Sesso here is the Court Mage advisor to His Majesty King Varian Wrynn of Stormwind — there's no need to fuss over titles."
 
-Ressaticis? Jace had some impression of the name. She looked like an arcanist, but in an instant he couldn't recall much else, because...
+Ressathia? Jace had some impression of the name. She looked like an arcanist, but in an instant he couldn't recall much else, because...
 
-Dar'Khan Drathir had come after him after all — and at a time when Grede, Vereesa, and Suola were all nowhere around.
+Dar'Khan Drathir had come after him after all — and at a time when Grede, Vereesa, and Sola were all nowhere around.
 
-At the same time, he had Stormwind's protection no longer, and beside him was only an obscure brother...
+At the same time, he no longer had Stormwind's protection, and beside him was only an obscure lay brother...
 
 He must have deliberately chosen this opportunity. How long had he been waiting for a chance like this?
 
-Jace observed the two people beside him. Besides the mage Ressaticis, the other was clearly a Farstrider — there was no doubt from her attire and bearing, even though the other party wore a hood and Jace couldn't make out her face.
+Jace observed the two people beside the Magister. Besides the mage Ressathia, the other was clearly a Farstrider — there was no doubt from her attire and bearing, even though the other party wore a hood and Jace couldn't make out her face.
 
 However, although three people were standing before him, the other side didn't only number three.
 
-There was another person lurking in the shadows. Jace didn't know where. The reason he could sense it was because Molophil had detected it, and was using the power of Soul Link to hint at it to him.
+There was another person lurking in the shadows. Jace didn't know where. The reason he could sense it was because Morophil had detected it, and was using the power of Soul Link to hint at it to him.
 
-It's just that the information Soul Link could convey was also extremely limited. Jace could understand that Molophil was hinting to him that there were other people, but he didn't know what kind of existence the other party specifically was, nor whether Molophil had found that person.
+It's just that the information Soul Link could convey was also extremely limited. Jace could understand that Morophil was hinting to him that there were other people, but he didn't know what exactly that other person was, nor whether Morophil had found that person.
 
 "Actually, it hasn't been that long," Dar'Khan said at this point. "It might indeed be a while for you humans. I hope you haven't forgotten what I mentioned the last time we met."
 
@@ -72,9 +72,9 @@ Morgan still didn't know what was going on. He looked at Jace as if wanting to a
 
 "I really don't remember," Jace replied.
 
-"You seem to carry a very strong air of rejection, Mr. Sesso."
+"You seem rather hostile, Mr. Sesso."
 
-So saying, Dar'Khan leaned forward against a grave marker. The curtain of rain falling on him was like leaving a halo-like outline. Jace made out his reddish-brown long hair, and the exquisite long staff of silver and crystal-blue intertwined, seemingly made of metal, held in his hand.
+So saying, Dar'Khan leaned forward against a grave marker. The rain falling on him traced a halo-like outline. Jace made out his reddish-brown long hair, and the exquisite long staff of silver and crystal-blue intertwined, seemingly made of metal, held in his hand.
 
 He raised his voice a little. "I just want to consult you on a few questions. Once I've asked them I'll leave — no need to be so tense."
 
@@ -92,11 +92,11 @@ So you chose to meet in this deserted graveyard of the dead, in the middle of a 
 
 Jace wasn't surprised that they'd been able to follow him all the way here without him noticing — after all, Dar'Khan was also a Magister of considerable standing among Quel'Thalas's mages, not to mention they had a Farstrider among them. What truly made him uncomfortable was that, actually, he should have caught on to some clues before this.
 
-There were many elves in Stormwind who'd come to celebrate Stormwind casting off the shadow of the black dragon and the Dar'Khan group had definitely slipped in among them.
+There were many elves in Stormwind who'd come to celebrate Stormwind casting off the shadow of the black dragon, and Dar'Khan's group had definitely slipped in among them.
 
 Under normal circumstances, Jace might have sensed something amiss and been on guard against the possibility that Dar'Khan had sent spies to follow him and so on...
 
-But having just come back from the Temple of Atal'Hakkar, with his mind on purifying Illanicus, Hakkar's avatar, Grede and Suola going to Kalimdor, and the Dark Portal in the future... and because of the celebratory atmosphere throughout the kingdom from top to bottom, he'd let his guard down.
+But having just come back from the Temple of Atal'Hakkar, with his mind on purifying Eranikus, Hakkar's avatar, Grede and Sola going to Kalimdor, and the Dark Portal in the future... and because of the celebratory atmosphere throughout the kingdom from top to bottom, he'd let his guard down.
 
 At this point, Morgan had also more or less sensed that the atmosphere was off. The information being passed between these people seemed even darker and more shadowy than this big graveyard itself — cold to the bone.
 
@@ -108,8 +108,8 @@ Morgan didn't seem afraid of trouble at all — but this wasn't what Jace wanted
 
 Dar'Khan was definitely going to ask about Ulthalesh. He clearly wanted this priest standing there to witness the entire process of him "exposing" Jace.
 
-If things reached a point where they couldn't be taken back, this probationary Church brother who couldn't even handle a few ghouls could be casually taken out by these high elves before him at any time. Then he and Molophil would be facing multiple opponents — how could they still look out for him?
+If things reached a point where they couldn't be taken back, this probationary Church brother who couldn't even handle a few ghouls could be casually taken out by these high elves before him at any time. Then he and Morophil would be facing multiple opponents — how could they still look out for him?
 
-What's more, even if they completely ignored him, he and Molophil weren't necessarily a match for these people.
+What's more, even if they completely ignored him, he and Morophil weren't necessarily a match for these people.
 
 "Then what questions do you have? Ask away," Jace said loudly. "I'll answer as best I can."

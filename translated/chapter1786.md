@@ -16,7 +16,7 @@ But the two of them weren't sure yet: if the observer's body died during the cra
 
 Khadgar wasn't entirely certain either. After all, this strange artifact wasn't recorded in any of the books in the Kirin Tor or in Karazhan.
 
-Considering that if they devoured the demon's soul and the eye shriveled and died prematurely, all their effort would be wasted — and they didn't have an endless supply of frenzied demon blood and soul shards to burn — they decided to play it safe and keep the observer alive for now.
+Considering that if they devoured the demon's soul and the eye shriveled and died prematurely, all their effort would be wasted — and they didn't have an endless supply of maddened beast blood and soul shards to burn — they decided to play it safe and keep the observer alive for now.
 
 "I'll oblige you." Khadgar turned and pointed a finger at the observer. A brief flash of arcane light illuminated the corner, and the observer started shrieking like mad.
 
@@ -26,13 +26,13 @@ Considering that if they devoured the demon's soul and the eye shriveled and die
 
 *Click... click, click-click!*
 
-Amid the frantic chattering of the observer's teeth, Jace placed the soul shard of the dreadlord Pitacerron in his palm.
+Amid the frantic chattering of the observer's teeth, Jace placed the soul shard of the dreadlord Pithaseron in his palm.
 
 This high-ranking demon's soul shard looked like an entirely different kind of gem compared to ordinary soul shards — deep and mysterious.
 
 Just looking at it made Jace think, again and again, about the place Illidan had mentioned in his cage — Nathreza, the magical treasury of the darkest and most obscure knowledge in the dark void, the homeland of the Nathrezim.
 
-For a brief moment, he really believed he might one day visit that place, meet more powerful dreadlord lords, and master everything that had existed in this long river of time, from the birth of the void to the present day.
+For a brief moment, he really believed he might one day visit that place, meet more powerful dreadlords, and master everything that had existed in this long river of time, from the birth of the void to the present day.
 
 Perhaps among that knowledge were emotions and thoughts that neither mortals nor gods could describe — things so difficult to even conceive of from the bottom of one's heart — that would allow his shadow magic to bloom to a level he couldn't even imagine today.
 
@@ -42,7 +42,7 @@ Even the mage couldn't help stepping back. Jace chanted Gul'dan's soul-guiding i
 
 The bright purple eye was suddenly stained black by a cloud-like color. The observer's host body, as if sensing something wrong, began struggling again.
 
-As Jace continued guiding, the eye grew darker and darker. It seemed to be assimilating the dreadlord's soul, and the soul was bursting with fel-fire, burning the eye itself.
+As Jace continued guiding, the eye grew darker and darker. It seemed to be assimilating the dreadlord's soul, and the soul was bursting with fel fire, burning the eye itself.
 
 "The eye can't withstand this Nathrezim's soul, Jace," Khadgar said. "When do you want me to start crystallizing?"
 
@@ -60,17 +60,17 @@ He raised a hand, then weakly lowered it. He shifted his feet awkwardly and mutt
 
 Even though Khadgar admitted Jace was better than him at manipulating souls and shadow magic, at least one thing he said was right — the dreadlord's soul really was too powerful for the observer's eye, or rather, the eye itself was too fragile.
 
-But Jace quickly freed his other hand to guide a Soul Drain spell, drawing out part of the Nathrezim's soul energy from the darkness flooding the eye, reducing the soul-fire the eye was suddenly subjected to, making the enchantment process smoother.
+But Jace quickly freed his other hand to guide a Drain Soul spell, drawing out part of the Nathrezim's soul energy from the darkness flooding the eye, reducing the soul-fire the eye was suddenly subjected to, making the enchantment process smoother.
 
 The warlock guided the enchantment with one hand while controlling the intensity of the soul drain and injection with the other. Khadgar, watching anxiously from the side, had sweat on his face — from nervousness or amazement, it was hard to tell.
 
-The mage just stared at Jace's two hands waving through the air in different — no, completely unsynchronized — sets of gestures, his mouth slightly open, saying something rigid. But Jace, focused on guiding the soul enchantment, didn't have even a shred of spare attention to listen.
+The mage just stared at Jace's two hands waving through the air in different — no, completely unsynchronized — sets of gestures, his mouth slightly open, mumbling something stiffly. But Jace, focused on guiding the soul enchantment, didn't have even a shred of spare attention to listen.
 
 When the last wisp of soul was injected and the eye had burned nearly to the point of withering, Jace lowered his hands and looked at the mage. "What are you standing around for?"
 
 "You said you knew how to crystallize a demon's organ, Khadgar. Now's your chance to show it!"
 
-The Kirin Tor archmage snapped out of his daze, immediately raised both hands, and chanted a high incantation. In an instant, seven or eight colorful beams of arcane energy converged from his fingertips into a thicker beam that shot straight at the eye — which was now burning with pale-white fel-fire.
+The Kirin Tor archmage snapped out of his daze, immediately raised both hands, and chanted a high incantation. In an instant, seven or eight colorful beams of arcane energy converged from his fingertips into a thicker beam that shot straight at the eye — which was now burning with pale-white fel fire.
 
 The observer's mouth hung open, unable to make a sound. The hum of arcane energy echoed through the basement, hammering against their eardrums. The light grew too bright to look at...
 
@@ -82,7 +82,7 @@ The observer was now speaking Common. The warlock and mage both turned their eye
 
 It switched back to Demonic: "I have nothing to do with the Burning Legion. I'd never provoke the Nathrezim. Let my soul return to the Twisting Nether. I was too arrogant before. I had no idea what power you possess, warlock... Release my soul to the Twisting Nether. I can grow a new main eye. We can sign a soul contract. Let me be your loyal servant — a capable servant. Serving such a great master would be my honor..."
 
-Jace picked up Usaleth from the corner of the wall and walked over to the babbling demon. He swept the staff past the observer's remaining small eyes. "I noticed you took a look at it."
+Jace picked up Ulthalesh from the corner of the wall and walked over to the babbling demon. He swept the staff past the observer's remaining small eyes. "I noticed you took a look at it."
 
 "I didn't. Not before, not now, because I can't see anything at all." The observer twitched its broken limbs, speaking in Demonic. "The mage's blindness spell hasn't worn off!"
 
@@ -90,7 +90,7 @@ Jace picked up Usaleth from the corner of the wall and walked over to the babbli
 
 Jace raised his staff and chanted a spell. The observer's flesh suddenly shuddered, and the arcane energy binding it began to snap. A pale purple soul-energy trembled as it was drawn out of the observer's body, and the observer began to scream in agony.
 
-"Anak... Kelai! Do you think your fate will be any better than mine, young Master of Usaleth? Do you think you've already seized a power that even Sargeras fears? You're walking the same path of fighting the Burning Legion as your predecessors, and you'll end up just as they did — scattered, scattered to..."
+"Anak... Kelai! Do you think your fate will be any better than mine, young Master of Ulthalesh? Do you think you've already seized a power that even Sargeras fears? You're walking the same path of fighting the Burning Legion as your predecessors, and you'll end up just as they did — scattered, scattered to..."
 
 The observer's voice grew increasingly distorted until it finally faded completely, leaving only a basement so quiet it was unsettling, and the howl of the wind outside.
 

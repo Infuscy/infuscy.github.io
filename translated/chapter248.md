@@ -4,9 +4,9 @@ That afternoon, Jace picked up his warlock's bag and headed for the Mage Quarter
 
 Why? Wasn't it perfectly normal to bring his imp to the Slaughtered Lamb for frequent academic exchanges?
 
-Jace didn't go straight to class — the Protection school's lectures started quite late anyway. He went straight to the Slaughtered Lamb, exchanged a greeting with Tharle, and made a beeline for the alchemy lab.
+Jace didn't go straight to class — the Abjuration lectures started quite late anyway. He went straight to the Slaughtered Lamb, exchanged a greeting with Jarel, and made a beeline for the alchemy lab.
 
-That afternoon, Erland and Sulenna had somehow found another unlucky bastard and were using him for practice in a room deep in the corridor. Strange yelps rang out from time to time, making the whole basement feel like a torture chamber.
+That afternoon, Erlan and Surena had somehow found another unlucky bastard and were using him for practice in a room deep in the corridor. Strange yelps rang out from time to time, making the whole basement feel like a torture chamber.
 
 Ursula was still brewing medicine on the other side, so Jace headed straight for her area.
 
@@ -28,9 +28,9 @@ Ursula gave him a flat look. "Fine, I suppose. Who told you to be so cute?"
 
 Jace asked, "Do you have a safe room here?"
 
-"Safe?" Ursula stared at him for a moment. "What are you planning? How safe do you need it? If that Andormas of yours is determined to break in, nowhere is safe."
+"Safe?" Ursula stared at him for a moment. "What are you planning? How safe do you need it? If that Andromath of yours is determined to break in, nowhere is safe."
 
-"It's not that bad… I'm planning to summon my imp and ask it some things," Jace said. "Sulenna and the others have taken the room over there, and I don't want to be too close to the door, so I wanted to borrow a room here."
+"It's not that bad… I'm planning to summon my imp and ask it some things," Jace said. "Surena and the others have taken the room over there, and I don't want to be too close to the door, so I wanted to borrow a room here."
 
 Ursula said, "Go to the back apothecary room. Don't let the imp set my herbs on fire, or I'll kill you with this ladle."
 
@@ -50,7 +50,7 @@ The imp said helplessly, "It's really hard to hear clearly, master. When the voi
 
 Jace glanced at his pocket watch. "Let's keep this short — I still have to go to class later. Do you trust that succubus?"
 
-"Trust a Saya'de?!" the imp exclaimed. "Have I lost my mind?"
+"Trust a sayaad?!" the imp exclaimed. "Have I lost my mind?"
 
 "Isn't knowing her true name enough?" Jace asked.
 
@@ -58,7 +58,7 @@ Jace glanced at his pocket watch. "Let's keep this short — I still have to go 
 
 "Didn't you tell me your true name too?" Jace asked.
 
-The imp coughed twice. "I… you clearly forced it out of me… But Saya'de don't think straight. You can't measure them by a normal demon's way of thinking. Tsk!"
+The imp coughed twice. "I… you clearly forced it out of me… But sayaad don't think straight. You can't measure them by a normal demon's way of thinking. Tsk!"
 
 "Don't you demons serve your masters without telling them your true names?" Jace asked.
 
@@ -70,7 +70,7 @@ Whether it was the Outland quests or the dreadlord Razelikh quest in the Blasted
 
 You could weaken them, control them, and even eliminate them in cases of vast power disparity. That's why demons feared their true names being exposed.
 
-Illidan Stormrage's blood elf demon hunter disciple, Varedis VileSoul, had relied on forging a soul connection with the Demonicon — an artifact recording countless demon true names — to dominate Outland, a world overrun by demons.
+Illidan Stormrage's blood elf demon hunter disciple, Varedis Felsoul, had relied on forging a soul connection with the Book of Fel Names — an artifact recording countless demon true names — to dominate Outland, a world overrun by demons.
 
 Based on this, Jace had concluded that he couldn't trust a demon without knowing its true name.
 
@@ -84,7 +84,7 @@ Jace thought for a moment. "Right — why can I hear you clearly when I call you
 
 "Because of the contract bond between us, master!" the imp said.
 
-"Then if I call your name?" Jace asked.
+"Then what if you call my name?" Jace asked.
 
 "What's the master's name?"
 
@@ -122,32 +122,14 @@ Jace said, "Alright. If you catch that succubus lying to me, or deliberately hid
 
 "Absolutely serious!" The imp patted its chest. "Are you bringing me to class today, master?"
 
-"Are you kidding? If I bring you into the Wizard Sanctum, the battle mage at the door would chop my head off. Get in."
+"Are you kidding? If I bring you into the Wizard's Sanctum, the battle mage at the door would chop my head off. Get in."
 
 As Jace said this, he packed the imp away, went outside, and unbuttoned a few shirt buttons under his coat. "It's so hot in here!"
 
 "You know why I wear so little even in winter?" Ursula glanced at his chest. "And you had to go and talk to a little fire-breathing imp… Where is the imp? Did you kill it?"
 
-"What else? You think I'm going to move in with it?" Jace set the warlock's bag on the counter. "Big sis, watch this bag for me. It has the spell Galders tested on me earlier — I don't dare bring it into the Wizard Sanctum. I'll be back in two or three hours to pick it up."
+"What else? You think I'm going to move in with it?" Jace set the warlock's bag on the counter. "Big sis, watch this bag for me. It has the spell Zardeth tested on me earlier — I don't dare bring it into the Wizard's Sanctum. I'll be back in two or three hours to pick it up."
 
 "Nothing dangerous in here, I hope?" Ursula patted the bag. "Just paper? I'm worried the moisture will get it wet — can it go in the cabinet?"
 
 "There are also a few quills," Jace said as he walked. "You can put it in the cabinet. Thanks so much!"
-
-## Flags
-
-- **已宰的羔羊** — The Slaughtered Lamb, per glossary (secret warlock tavern).
-- **札雷·莫尔** — Tharle Mor, the bartender gatekeeper, per glossary.
-- **埃尔文** — Erland, per glossary (smooth, slightly menacing warlock).
-- **苏伦娜** — Sulenna, per glossary (cold, blunt warlock).
-- **厄苏拉** — Ursula, per glossary (alchemist/warlock at the Slaughtered Lamb).
-- **安多玛斯** — Andormas, per glossary (senior mage of the Wizard Sanctum).
-- **加尔德斯** — Galders, per glossary (warlock).
-- **撒厄诺** — Sazeno, imp minion, per glossary.
-- **萨亚德** — Rendered as "succubus" (species label used by the imp).
-- **相位变换** — Phase Shift, the imp's ability, per glossary.
-- **肯瑞托** — Kirin Tor, canonical mage council.
-- **伊利丹·怒风** — Illidan Stormrage, canonical.
-- **瓦雷迪斯·邪魂** — Varedis VileSoul. OC? Blood elf demon hunter; name transliterated. The Demonicon (《恶魔名册》) referenced as the artifact of true names.
-- Chapter title 迷你警报器 = "The Little Alarm" — refers to Jace's scheme of using Sazeno's name-calling as a hidden warning system against Morophil.
-- POV: third person. Jace's gamer knowledge of true names and the Demonicon kept as internal lore-dumping. Ursula's dry, no-nonsense register preserved.

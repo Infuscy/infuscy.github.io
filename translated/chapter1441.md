@@ -1,8 +1,8 @@
 ## Chapter 1441: Entering the Void Requires a Flying Helper
 
-That day, Jace was at Stonewatch, negotiating with the soldiers about buying some shelf-stable rations — dried goods, cured meat, salted fish — to bring back to Ilgara's Tower.
+That day, Jace was at Stonewatch, negotiating with the soldiers about buying some shelf-stable rations — dried goods, cured meat, salted fish — to bring back to the Tower of Ilgalar.
 
-The quartermaster at Stonewatch flatly refused to take Jace's money, insisting that both the king and the commander of Stonewatch had made it clear that the residents of Ilgara's Tower were to be fed and housed for free. But Jace still felt a bit awkward about it, especially since he'd parked so many demons and even a rift into the Twisting Nether near this fort.
+The quartermaster at Stonewatch flatly refused to take Jace's money, insisting that both the king and the commander of Stonewatch had made it clear that the residents of the Tower of Ilgalar were to be fed and housed for free. But Jace still felt a bit awkward about it, especially since he'd parked so many demons and even a rift into the Twisting Nether near this fort.
 
 While he was still arguing about it, he heard the sound of gryphon wings beating in the air from afar.
 
@@ -18,7 +18,7 @@ The two of them left the training ground and entered the keep. In the corridor, 
 
 "So did you convince them?" Jace stopped. "What's the Kirin Tor planning to do about me?"
 
-Khadgar glanced at a passing soldier outside the corridor and lowered his voice. "I thought destroying the Tome of Infamy would be enough of a concession to make the Kirin Tor drop their guard against you. But maybe it's the inertia of the last two thousand years from the Order of Tirisfal, maybe it's the Dark Portal giving them some kind of trauma — either way, not every Kirin Tor member chose to trust you because of that."
+Khadgar glanced at a passing soldier outside the corridor and lowered his voice. "I thought destroying the Book of Fel Names would be enough of a concession to make the Kirin Tor drop their guard against you. But maybe it's the inertia of the last two thousand years from the Order of Tirisfal, maybe it's the Dark Portal giving them some kind of trauma — either way, not every Kirin Tor member chose to trust you because of that."
 
 "You wouldn't believe it — in the end, what really got them to drop the matter was the Church of the Holy Light. Archbishop Alonsus Faol. His admiration for you destroying that book, cutting ties with its evil soul energy, far exceeded anything the Council felt."
 
@@ -58,7 +58,7 @@ Khadgar opened his hands to show his silver staff. "Not yet. For one thing, I kn
 
 "I'm not commenting on your decision." Jace said. "This is Kirin Tor business, after all."
 
-"It's not exactly a secret anymore." Khadgar sighed. "It wasn't just me and Lothair involved in that operation. There were plenty of Alliance elites. I didn't bring that staff back alone."
+"It's not exactly a secret anymore." Khadgar sighed. "It wasn't just me and Lothar involved in that operation. There were plenty of Alliance elites. I didn't bring that staff back alone."
 
 "Either way, we need to see what's inside Karazhan first. Maybe we'll find a way to end the staff's curse too. The Kirin Tor once held onto an archmage's artifact — it was originally an arcane focus, but it was tainted with powerful necromantic energy. In the end, we found a surviving descendant of that archmage and used his blood to break the curse... Though I doubt solving Atiesh's problem will be quite so cliched."
 
@@ -68,9 +68,9 @@ Jace looked down the corridor, then asked, "Can I bring my demonic servant to Ka
 
 Khadgar frowned and thought for a moment. "I don't know how the Curator and those arcane golems would react to a physical demon. In fact, it's precisely because those guardians are sensitive to demons that the void intruders crossing into the tower from other dimensions haven't been able to contaminate the library."
 
-"At least Morofel can turn invisible," Jace said.
+"At least Morophil can turn invisible," Jace said.
 
-"Lady Morofel, yes." Khadgar nodded. "The space inside Karazhan is already extremely distorted. That means magical teleportation could be very chaotic. With demons on top of that... having a winged helper who's good at hunting demons would certainly make it easier to reach the library. What I'm worried about is that Lady Morofel's invisibility can't fool my senses, which means it definitely can't fool those golems' detection either."
+"Lady Morophil, yes." Khadgar nodded. "The space inside Karazhan is already extremely distorted. That means magical teleportation could be very chaotic. With demons on top of that... having a winged helper who's good at hunting demons would certainly make it easier to reach the library. What I'm worried about is that Lady Morophil's invisibility can't fool my senses, which means it definitely can't fool those golems' detection either."
 
 Jace didn't say anything. He just glanced to the side.
 

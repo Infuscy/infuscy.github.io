@@ -8,15 +8,15 @@ Dragon corpses lay everywhere. Orc corpses. The stench of burning, the breath of
 
 Deathwing's corpse had dimmed, a black hill on the horizon, faintly glowing with a dark red fire. Jace only looked at it for a while before he felt a growing pain from his eyes to his chest and had to look away.
 
-Not far off, a dragonkin limped toward the distance. Jace watched the direction it was heading — toward the remains of the red dragon lord Tyranastrazz.
+Not far off, a dragonkin limped toward the distance. Jace watched the direction it was heading — toward the remains of the red dragon lord Tyranastrasz.
 
-That gigantic ancient dragon was now only half a body lying in a stretch of ruins. He was one of the eldest of all dragons — among the dragonflights, probably only the Spell-Weaver Malygos was older than him. He was also the Dragonqueena's companion of the longest years.
+That gigantic ancient dragon was now only half a body lying in a stretch of ruins. He was one of the eldest of all dragons — among the dragonflights, probably only the Spell-Weaver Malygos was older than him. He was also the Dragonqueen's companion of the longest years.
 
 Had it not been for the Dragonqueen's capture, which had imprisoned him in Grim Batol to be tormented by the Demon Soul all this time, he wouldn't have been killed so easily.
 
-Following that dragonkin's footsteps to Tyranastrazz's head, up close Jace felt it was almost bigger than the house he'd bought not long ago — so stunning it stole the breath from his lungs.
+Following that dragonkin's footsteps to Tyranastrasz's head, up close Jace felt it was almost bigger than the house he'd bought not long ago — so stunning it stole the breath from his lungs.
 
-Circling around the great skull to the other side, a high elven woman in red was squatting before Tyranastrazz's now-closed eyes. Beneath her had spread a patch of land covered in bright green grass, golden and red flowers. Mixed with Tyranastrazz's dragon's blood, it nourished a vast stretch of the surrounding area back to what it had been before the shadow and lava tainted it — even more vibrant with life…
+Circling around the great skull to the other side, a high elven woman in red was squatting before Tyranastrasz's now-closed eyes. Beneath her had spread a patch of land covered in bright green grass, golden and red flowers. Mixed with Tyranastrasz's dragon's blood, it nourished a vast stretch of the surrounding area back to what it had been before the shadow and lava tainted it — even more vibrant with life…
 
 Jace's group stopped at the edge of this green patch as they approached. He extended his shoeless, badly burned foot toward the green ground, a little hesitant to set it down directly.
 
@@ -24,7 +24,7 @@ Jace's group stopped at the edge of this green patch as they approached. He exte
 
 The few of them exchanged glances and walked in. Jace watched the wounds on his feet rapidly heal, the skin restoring to clean and bright. Grede found the cracks on his arms and body from the earth elementals' blows quickly closing too…
 
-The imp shrank back into Jace's clothes, too scared to show his head. Molofier stood outside, never daring to set her hoof inside. The woman in red raised her head and glanced at her. "You won't be harmed here, Succubus."
+The imp shrank back into Jace's clothes, too scared to show his head. Morophil stood outside, never daring to set her hoof inside. The woman in red raised her head and glanced at her. "You won't be harmed here, succubus."
 
 The succubus stepped in hesitantly. Strangely, as a genuine Twisting Nether demon, she truly wasn't repelled by this radiant green ground.
 
@@ -60,13 +60,15 @@ Vereesa's eyes widened. "So he's a dragon. No wonder I felt like he'd lived even
 
 "He isn't dead." Alexstrasza raised her head. "I can still feel his presence."
 
-Jace was stunned. Could what he'd seen been an illusion woven by Deathwing?
+Jace was stunned. Could what he'd seen have been an illusion woven by Deathwing?
 
 No, that wasn't right. In Deathwing's dreams, Krasus hadn't died either. So was he still trapped somewhere?
 
 Jace didn't want to think about these things anymore. Deathwing was dead. Nothing could hold him anymore. Perhaps he'd already returned to the Kirin Tor, only unaware of everything that had happened here.
 
-"It must have taken a promise from Korialstrasz to get you all to come here?" Alexstrasza asked. Jace said, "He promised to help restore my name."
+"It must have taken a promise from Korialstrasz to get you all to come here?" Alexstrasza asked.
+
+Jace said, "He promised to help restore my name."
 
 "As a spellcaster who embraced the shadows, you must have endured a great deal. This is something you rightfully deserve." The Dragonqueen nodded. "And the rest? I will help him honor his promise."
 
@@ -80,11 +82,11 @@ There was also that orb — he suddenly remembered, then patted his chest. Damn,
 
 "I came with them," Grede said.
 
-"I… didn't have a choice," Molofier said.
+"I… didn't have a choice," Morophil said.
 
 The imp clung tightly to Jace's robe, trembling inside, not daring to say a word.
 
-The Dragonqueena lowered her head. "I'm sorry. My own mistake, yet you risked your lives for it without asking anything in return. But please don't blame him — he has nothing left to promise, either."
+The Dragonqueen lowered her head. "I'm sorry. My own mistake, yet you risked your lives for it without asking anything in return. But please don't blame him — he has nothing left to promise, either."
 
 "Here's what we'll do." She took a golden gemstone necklace from her own neck and, looking at the dwarf, said: "This is a pendant Neltharion… Deathwing… gave me before he betrayed us."
 
@@ -114,19 +116,6 @@ Jace held back from looking too greedy… but Alexstrasza seemed to see right th
 
 Vereesa looked over as well. Jace was, of course, instantly hooked with curiosity.
 
-Before long, a whelp descended from the sky. In its mouth it carried something small and black, indistinct, slowly coming to the Dragonqueena's side. The queen reached out and took the object.
+Before long, a drake descended from the sky. In its mouth it carried something small and black, indistinct, slowly coming to the Dragonqueen's side. The queen reached out and took the object.
 
 Though it looked like nothing more than an ordinary metal chain, up close Jace recognized it at once. This was that… chain of the Demon Soul.
-
-## Flags
-
-- **克拉苏斯 / 考雷斯特拉兹:** Canonical dragon — mortal name **Krasus**, true draconic name **Korialstrasz**. Alexstrasza's mate. (Glossary lists Krasus.)
-- **伊瑟拉:** Canonical — **Ysera**, the Dreamer, Aspect of the Emerald Dream, Alexstrasza's sister.
-- **耐萨里奥:** Deathwing's original draconic name — **Neltharion**, the Earth-Warder.
-- **泰兰尼斯特拉兹:** Canonical — **Tyranastrazz**, eldest red dragon and Alexstrasza's longtime mate.
-- **玛里苟斯:** Canonical — **Malygos**, the Spell-Weaver, Aspect of Magic.
-- **雷拳:** Grede's dwarven family name — **Thunderfist** (glossary).
-- **萨亚德:** Alexstrasza addresses Molofier by the demonological term for **Succubus** (a familiar address, not hostile).
-- **奎尔多雷:** Rendered as **Quel'dorei** (high elves / "children of noble lineage").
-- **源质锁链:** Rendered as the **chain of the Demon Soul** (the elementium-like chain that bound the Demon Soul). Its true nature revealed in Ch. 665.
-- POV: third person. Alexstrasza's dialogue kept gentle, regal, and warm.

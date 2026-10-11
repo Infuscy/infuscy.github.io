@@ -2,7 +2,7 @@
 
 If they had not destroyed that evil broodmother's egg, Jace would never have guessed the Horde had hidden so many whelps in Blackrock Spire's lower levels.
 
-When they emerged from Vim'salak's chamber, enraged whelps were flying everywhere. These little creatures posed no real threat to a young dragon like Needleflame, but they were not something an ordinary Blackrock orc could handle easily. The dim tower was filled with sharp whelp screeches, orcish counter-roars, and panicked shouts.
+When they emerged from Wyrmthalak's chamber, enraged whelps were flying everywhere. These little creatures posed no real threat to a young dragon like Needleflame, but they were not something an ordinary Blackrock orc could handle easily. The dim tower was filled with sharp whelp screeches, orcish counter-roars, and panicked shouts.
 
 Some whelps desperately bit at the mortals who tried to enslave them. Others seized any chance to escape, flying around looking for cracks or windows to flee Blackrock Mountain.
 
@@ -20,25 +20,25 @@ Jace was not done. He infused the firestorm with Shadowflame. The flames shifted
 
 Jace knew why. Many ogres, even forest trolls, must have mistaken this fire for a black dragon's breath from somewhere above. Being slaughtered by their own masters who dwelled on high was far more damaging to morale. And that was exactly what Jace had intended.
 
-Before long, an ogre in black chainmail armor, carrying a black spiked mace, stumbled out of the tower in panic. He looked around frantically, shouting in orcish, apparently calling for his subordinates and allies to help. But the shadowfire had cornered him. No one could cross Jace's flames to help him.
+Before long, an ogre in black chainmail armor, carrying a black spiked mace, stumbled out of the tower in panic. He looked around frantically, shouting in Orcish, apparently calling for his subordinates and allies to help. But the Shadowflame had cornered him. No one could cross Jace's flames to help him.
 
-"That's King Omokk," Vaelastrasz pointed at the ogre.
+"That's Highlord Omokk," Vaelastrasz pointed at the ogre.
 
 "I see him." Vereesa nodded from above and drew her bow to full. A faint streak of colored light disappeared into the flickering violet-red glow. The ogre grunted, clutched his chest, leaned against the wall for a breath, then his legs gave out, and he tumbled off the stone platform into the abyss.
 
-"King Omokk is dead! King Omokk is dead!"
+"Highlord Omokk is dead! Highlord Omokk is dead!"
 
-Cries came from the bridge across the way. An ogre was hanging from a windowsill with both hands, having witnessed the ogre king's fall. Thick black smoke from the shadowfire billowed out of the window behind him. He could probably hold on for a while, even climb back, but climbing back would only mean death.
+Cries came from the bridge across the way. An ogre was hanging from a windowsill with both hands, having witnessed the ogre king's fall. Thick black smoke from the Shadowflame billowed out of the window behind him. He could probably hold on for a while, even climb back, but climbing back would only mean death.
 
 Vereesa raised her bow to end his suffering. Jace raised his hand. "Wait."
 
-"King Omokk is dead! Oh my god! King Omokk is dead!"
+"Highlord Omokk is dead! Oh my god! Highlord Omokk is dead!"
 
 The ogre kept screaming, surrounded by purple-tinged smoke. He had no attention to spare for the figures on the roof.
 
-"What?! King Omokk is dead?!"
+"What?! Highlord Omokk is dead?!"
 
-Some ogre in the distance shouted. Word spread quickly. Throughout the tower, the streets, everywhere, ogres were yelling "King Omokk is dead!"
+Some ogre in the distance shouted. Word spread quickly. Throughout the tower, the streets, everywhere, ogres were yelling "Highlord Omokk is dead!"
 
 For ogres, a king's death was a major event. It meant either finding the powerful warrior who killed the king and making him the new king, or holding a tournament to elect a new king and decide the clan's next move.
 
@@ -74,7 +74,7 @@ Far off, the ogre tower was burning itself out. Paladins walked through the blac
 
 "And Princess Onyxia?" Needleflame asked quietly. "She and Prince Nefarian always got along well, didn't they? Why did they suddenly become enemies?"
 
-"Honestly, I'm surprised too." Vaelastrasz said. "Those two have always been partners in crime, serving Deathwing. It's true there hasn't been word of Onyxia in Blackrock Spire for a long time. But I never heard Nefarian order his dragonkin to attack Onyxia and her servants, or even her blood-related sisters. This might even mean their sister, Princess Nyxiandra, has been shut out of Blackrock Spire as well."
+"Honestly, I'm surprised too." Vaelastrasz said. "Those two have always been partners in crime, serving Deathwing. It's true there hasn't been word of Onyxia in Blackrock Spire for a long time. But I never heard Nefarian order his dragonkin to attack Onyxia and her servants, or even her blood-related sisters. This might even mean their sister, Princess Nyxondra, has been shut out of Blackrock Spire as well."
 
 "Whatever the reason," Vereesa said, "it at least means our real enemy is down to just one. Victor Nefarius. His mother and his sisters have all abandoned him."
 

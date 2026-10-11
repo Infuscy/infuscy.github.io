@@ -2,33 +2,33 @@
 
 Opening his eyes, Jace was met by the slightly harsh sunlight streaming through the gap in the curtains. He raised an arm to shield his eyes and saw the succubus in a cloak sitting by the window.
 
-Morfil lifted her hood. "Good morning, master."
+Morophil lifted her hood. "Good morning, master."
 
 "Morning," Jace muttered, looking around. This room wasn't his rented place.
 
 Only then did he remember he'd had a bit too much to drink last night, gotten tipsy, and couldn't be bothered to walk home — so he'd just booked a room at the inn and crashed. Though he clearly remembered Vereesa staying at the same place as him, and at night they'd…
 
-Even though he'd had plenty to drink, he remembered last night's wildness pretty clearly — and the somewhat displeased look on Morfil's face beside him served as all the proof he needed.
+Even though he'd had plenty to drink, he remembered last night's wildness pretty clearly — and the somewhat displeased look on Morophil's face beside him served as all the proof he needed.
 
 "Where'd she go?" Jace asked.
 
-"Before dawn even broke, she headed over to the Warrior's Guild." Sazeno, sitting on the windowsill, turned his head. "That was hours ago now, master."
+"Before dawn even broke, she headed over to the Fighters Guild." Sazeno, sitting on the windowsill, turned his head. "That was hours ago now, master."
 
 Jace scratched his head. "We finally dealt with that huge mess and got a break, and the moment we're back in the city she's off training again?"
 
-Morfil rested her chin on her hand, her tone helpless. "Maybe that's why when the Soulflayer's avatar swung its tail over, some elves could dodge it easily, while some humans hopped and scrambled around like turkeys for half a day before getting swept into a wall and knocked half to death."
+Morophil rested her chin on her hand, her tone helpless. "Maybe that's why when the Soulflayer's avatar swung its tail over, some elves could dodge it easily, while some humans hopped and scrambled around like turkeys for half a day before getting swept into a wall and knocked half to death."
 
 "She's an elf — she's born able to do it," Jace said matter-of-factly. "I'm a regular human. Being slow and clumsy isn't my fault."
 
-"I don't think a regular human could take a sweeping blow from that skeleton avatar," Morfil raised her eyes and asked softly, "so what exactly do you have that they don't?"
+"I don't think a regular human could take a sweeping blow from that skeleton avatar," Morophil raised her eyes and asked softly, "so what exactly do you have that they don't?"
 
-Sazeno grinned wickedly, and Jace finally understood what this female demon was getting at with all her roundabout hints. "Tonight," he narrowed his eyes.
+Sazeno grinned wickedly, and Jace finally understood what this female demon was getting at with all her roundabout hints. "Tonight," he said, narrowing his eyes.
 
 "Then tonight." The burning demon eyes flared bright in an instant. "Otherwise I feel like I'm already too weak to sustain my existence on this plane…"
 
-"Don't say that — I'd miss you, dear Morfil," Jace said.
+"Don't say that — I'd miss you, dear Morophil," Jace said.
 
-"Don't cover up your feelings when you're joking, or I'll take it seriously, master." Morfil said this as she lowered her head, showing a hint of a shy smile.
+"Don't cover up your feelings when you're joking, or I'll take it seriously, master." Morophil said this as she lowered her head, showing a hint of a shy smile.
 
 "Then take it seriously." Jace muttered this as he stood up and quickly got dressed. "I'm going to see the king. Take the little imp and head home yourself."
 
@@ -36,7 +36,7 @@ The succubus immediately dropped the shy expression and asked provocatively, "Th
 
 "No problem." Jace fastened his buttons. "As long as you're not worried about getting blasted by the exorcism spells of seven or eight high priests so badly you can't find your way back to the Twisting Nether."
 
-The expression on Morfil's face froze for a moment, then shifted to a "do whatever you want" look.
+The expression on Morophil's face froze for a moment, then shifted to a "do whatever you want" look.
 
 Jace hadn't expected that she was now incomparably stronger than when she'd first been summoned, and yet still had a bone-deep fear of the Cathedral of Light's priests.
 
@@ -48,7 +48,7 @@ He should probably go to the Cathedral in the next couple days and set up a time
 
 At this point, the great cemetery of Raven Hill held no terror for him anymore.
 
-Actually, way back when he'd gone to Duskwood with Vereesa to track down the death knight, he'd already stopped caring much about those ghouls and zombies — and now wielding Uthales, all the ill omens there were about as harmless as bunnies in comparison.
+Actually, way back when he'd gone to Duskwood with Vereesa to track down the death knight, he'd already stopped caring much about those ghouls and zombies — and now wielding Ulthalesh, all the ill omens there were about as harmless as bunnies in comparison.
 
 The only problem was that if he went with Morgan, he definitely couldn't throw around too many menacing shadow spells — that would be far too disrespectful to the priest. But for those ghouls, simply using fire magic would be more than enough.
 
@@ -66,13 +66,13 @@ Not only that, this had also spread quickly through the army and all through Sto
 
 Amid their fear of the black dragon's terrifying power of control, the people had also gained a lot of trust in Jace, a previously controversial mysterious figure — something Jace himself hadn't anticipated before. Grede had only mentioned this to him during dinner last night, and he hadn't even considered what other consequences that decision might have.
 
-Actually, after the Lighthouse incident, he himself had been doubting the effort to "bring warlocks into the sunlight" — could only hope these things would all turn out for the best in the end.
+Actually, after the Lighthouse incident, he himself had been doubting the effort to "bring warlocks into the sunlight" — he could only hope these things would all turn out for the best in the end.
 
 Following the sloping path upward, turning toward the garden, from quite a distance Jace could already hear the hearty shouts and the clash of blades from inside. He recognized that voice as Varian Wrynn's — his mood was clearly leagues better than before.
 
 In the garden, Varian was sparring with a young knight. This king with long black-brown hair was shirtless, launching ferocious attacks like a fierce lion. By Jace's limited understanding of swordplay, it was clear the knight wasn't going easy on him just because he was facing the king — he simply couldn't hold up and could only retreat step by step.
 
-Last time he'd sparred with Varian, the guy definitely hadn't been holding back who-knew-how-much water, and had even put on a show complimenting Jace's strength.
+Last time he'd sparred with Varian, the man had clearly been going easy on him by who knew how much, and had even put on a show of complimenting Jace's strength.
 
 Sensing someone appearing at the garden entrance, the king called a halt to the bout and looked over. Seeing it was Jace, he immediately said something to the knight beside him, handed his sword to the attending guard, and smiled as he walked over.
 
@@ -82,9 +82,11 @@ Sensing someone appearing at the garden entrance, the king called a halt to the 
 
 Varian smiled. "Arthas sent a letter recently. The gist of it is that he's been practicing swordsmanship hard all these years and wants to find a chance to have another bout with me. I can't believe he still remembers the sword training back in Lordaeron from a few years ago — he was only ten then and hadn't had much training. In a while I'll be heading to Lordaeron to meet with King Terenas and the other Alliance leaders about the Blackrock Spire problem. Compared to meeting with those kings and lords, I find myself actually more nervous about meeting with him."
 
-The king looked at Jace. "Tell me — should I beat him, or… lose once?" Jace smiled. "Your Majesty is very confident."
+The king looked at Jace. "Tell me — should I beat him, or… lose once?"
 
-Varian gave an embarrassed laugh, then said, "I heard Muradin Bronzebeard has been serving as his swordsmanship teacher. Though Lord Muradin is a swordsmanship master renowned throughout the Alliance, he's still a dwarf — there'll be some issues teaching a human. Most importantly, Arthas is a few years younger than you. Maybe in twenty years he'll beat me easily, but at least at this age, the gap of these few years will be very obvious."
+Jace smiled. "Your Majesty is very confident."
+
+Varian gave an embarrassed laugh, then said, "I heard Muradin Bronzebeard has been serving as his swordsmanship teacher. Though Lord Muradin is a swordsmanship master renowned throughout the Alliance, he's still a dwarf — there'll be some issues teaching a human. Most importantly, Arthas is a few years younger than me. Maybe in twenty years he'll beat me easily, but at least at this age, the gap of these few years will be very obvious."
 
 "Then beat him with everything you've got," Jace said. "I think Prince Arthas cares more about whether you see him as a child who hasn't grown up, than about losing to you itself."
 

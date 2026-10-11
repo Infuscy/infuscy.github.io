@@ -1,6 +1,6 @@
 ## Chapter 1859: Return
 
-Recite after me, Jace Sesso.
+*Recite after me, Jace Sesso.*
 
 *Somendimon, somatiru, ropsidar...*
 
@@ -24,7 +24,7 @@ More importantly, right now he did not know what to do anyway.
 
 The countless souls that had surrounded him moments ago had already departed for where they needed to go — the legendary Grey Realm, or the Shadowlands, or the Emerald Dream, or the Twisting Nether.
 
-Struck by Uthalesh's Death Grip after losing the power to hold them, the demon lord's attempt to reap and absorb his final master had forced him to set those souls aside temporarily. Though they were trapped here, many had retained some or nearly all of their consciousness.
+Struck by Ulthalesh's Death Grip after losing the power to hold them, the demon lord's attempt to reap and absorb his final master had forced him to set those souls aside temporarily. Though they were trapped here, many had retained some or nearly all of their consciousness.
 
 And those who stayed — especially the mindless ones who tried to devour other souls in the chaos — were gradually drowned in the flood of arcane power as the new master replaced the old. They were consumed entirely, without exception.
 
@@ -48,25 +48,25 @@ The world before him was completely dark now. Jace could sense that he was in a 
 
 This corridor — or perhaps the entire building — was shrouded in powerful magical energy, blocking most of the outside magical signatures, especially dark magic. So the shadow and demonic energies here were seeping from within.
 
-This place was the Guardian's Sanctum. He remembered coming here with Khadgar before, searching for clues about Aegwynn. This ancient hall, built over a thousand years, had a different architectural style than the rest of Dalaran — it reminded him more of the Tirisfal Vault on the hill behind Deathknell.
+This place was the Hall of the Guardian. He remembered coming here with Khadgar before, searching for clues about Aegwynn. This ancient hall, built over a thousand years, had a different architectural style than the rest of Dalaran — it reminded him more of the Tirisfal Vault on the hill behind Deathknell.
 
 But why had he ended up here?
 
-Considering the drifting shadow and demonic energies, was this place also a soul-cage of one of Uthalesh's victims? A victim with countless connections to the Guardian's Sanctum?
+Considering the drifting shadow and demonic energies, was this place also a soul-cage of one of Ulthalesh's victims? A victim with countless connections to the Hall of the Guardian?
 
-Like that ocean, the Thaurissan Ruins, the Feralas coast, Ilgalar's Tower, and the Twilight Embassy in Shadowforge City.
+Like that ocean, the Thaurissan Ruins, the Feralas coast, the Tower of Ilgalar, and the Twilight Embassy in Shadowforge City.
 
-Just then, Jace noticed a coat rack not far ahead, hung with cloaks and robes — some belonging to Quel'Thalas nobles, some to Ironforge dwarves, a large brown hooded cloak, and one that was his: Olastrasz's Hide.
+Just then, Jace noticed a coat rack not far ahead, hung with cloaks and robes — some belonging to Quel'Thalas nobles, some to Ironforge dwarves, a large brown hooded cloak, and one that was his: the Hide of Olastrasz.
 
 Jace took the dragon-hide cloak off the rack and draped it over himself. Visions of the Tower of Menethil, the burning doom of Lordaeron's capital, flashed before his eyes again.
 
 Why was this thing here? And why did it feel so... real?
 
-"What the hell is going on, Khadgar?" The voice, tinged with anger, came from around the corner ahead. "You said you could do it. Now Uthalesh is destroyed, the souls are gone — so where is Jace Sesso? Tell me, where is Jace Sesso?!"
+"What the hell is going on, Khadgar?" The voice, tinged with anger, came from around the corner ahead. "You said you could do it. Now Ulthalesh is destroyed, the souls are gone — so where is Jace Sesso? Tell me, where is Jace Sesso?!"
 
 The voice was so piercing, so sharp — completely different from the sounds he had perceived until now. It felt like it was hammering against his eardrums, even sending a dull ache through his jaw. He could not even identify who was speaking.
 
-"We know very little about this resurrection ritual, Ranger-Captain, but I can confirm that the ritual has been completed successfully. Every step, every detail — all finished cleanly..."
+"We know very little about this resurrection ritual, Ranger Lord, but I can confirm that the ritual has been completed successfully. Every step, every detail — all finished cleanly..."
 
 "A resurrection ritual finishes. The subject disappears. But it's a success?"
 
@@ -80,7 +80,7 @@ The voice was so piercing, so sharp — completely different from the sounds he 
 
 "I've already started to forget what happened inside. Like a terrible nightmare..."
 
-"Your souls very nearly got assimilated and devoured by the owner of those bones, just like Jace Sesso. To come out intact and reclaim your flesh is a mercy, Sommariel. Don't ask for too much."
+"Your souls very nearly got assimilated and devoured by the owner of those bones, just like Jace Sesso. To come out intact and reclaim your flesh is a mercy, Somaelir. Don't ask for too much."
 
 "No — I'm saying, I really do see him."
 
@@ -92,7 +92,7 @@ They were all gathered around a gray, fountain-like sculpture. The runic circle 
 
 "Resurrection ritual," Jace said, looking at Khadgar. "What does that mean?"
 
-"Jace?" Sora said, dazed. "You... you..."
+"Jace?" Sola said, dazed. "You... you..."
 
 Vereesa walked quickly toward him in silence, biting her lip as if using every ounce of strength to keep her emotions in check.
 
@@ -112,13 +112,13 @@ The dwarf ran up to Jace, staring hard into the eyes of this man who had suddenl
 
 Jace took the bottle. But he did not care in the slightest what was in it.
 
-He was dead. No question. His soul had been taken, just like every record about Uthalesh said it would be.
+He was dead. No question. His soul had been taken, just like every record about Ulthalesh said it would be.
 
 It was supposed to end there. From the moment he had climbed that tower and faced the Defiler, he had not allowed himself even a shred of expectation for what might come after. Let alone hope.
 
 But now?
 
-Time was still turning. Air was still flowing. This was Dalaran, the Guardian's Sanctum. Vereesa's nervous breathing. Grede's bloodshot eyes. Sora covering her mouth, not daring to make a sound. The scent of scorched ash from Needleflame's clumsy transformation spell wafting through the room. Mosa's fingers rustling against her staff...
+Time was still turning. Air was still flowing. This was Dalaran, the Hall of the Guardian. Vereesa's nervous breathing. Grede's bloodshot eyes. Sola covering her mouth, not daring to make a sound. The scent of scorched ash from Needleflame's clumsy transformation spell wafting through the room. Mosa's fingers rustling against her staff...
 
 And behind them, the black dragon prince staring curiously at that small gray statue, and the archmage watching his every move with a grave expression.
 
@@ -134,7 +134,7 @@ Needleflame dodged around Sabellian and shoved the dwarf aside, slamming into Ja
 
 The pain, the suffocation — they were so real that they felt almost foreign. But he was back.
 
-His nose stung. Vereesa's lips trembled as she threw herself over him and Needleflame. Sora watched from a few steps away, her legs shaking so badly she could barely move, moonlight-bright tears streaming down her cheeks.
+His nose stung. Vereesa's lips trembled as she threw herself over him and Needleflame. Sola watched from a few steps away, her legs shaking so badly she could barely move, moonlight-bright tears streaming down her cheeks.
 
 Grede stared at Jace and the others sprawled on the steps for a long moment, as if he finally understood what had happened.
 
@@ -148,7 +148,7 @@ But even as he said it, he had to lower his head and blink rapidly.
 
 "It really did work. Remarkable." Sabellian said. "I'm curious what this method was originally meant to resurrect, Khadgar. It looks like everything was nearly ready — just needed a suitable conductor."
 
-Khadgar coughed a few times, as if pulled back to reality. "I know the Tirisfal Council has been disbanded and the Kirin Tor has taken heavy losses, but some things still cannot be shared with outsiders. I'm sorry I can't satisfy your curiosity, Prince Sabellian."
+Khadgar coughed a few times, as if pulled back to reality. "I know the Order of Tirisfal has been disbanded and the Kirin Tor has taken heavy losses, but some things still cannot be shared with outsiders. I'm sorry I can't satisfy your curiosity, Prince Sabellian."
 
 The black dragon did not seem particularly bothered. The mage's peripheral vision caught Jace looking at him — and he seemed to feel fine. Jace was indeed staring at him.
 

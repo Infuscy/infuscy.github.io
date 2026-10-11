@@ -2,7 +2,7 @@
 
 Nethergarde Keep was enormous. After all, this castle was also part of the Alliance's reconstruction plan — many nations, including the elves and the dwarves, had contributed funds to build this "last bastion" meant to "defend Azeroth and guard the Dark Portal."
 
-Walking up the vast slope, Jace could already feel his own insignificance. Nethergarde Keep's walls stood like a grey cliff face high above, and atop the walls rose a towering mage's tower. The Kirin Tor banner flew from it, the Eye of the Arcane on the banner gazing southward like a true watchman overseeing this land.
+Walking up the vast slope, Jace could already feel his own insignificance. Nethergarde Keep's walls stood like a grey cliff face high above, and atop the walls rose a towering mage's tower. The Kirin Tor banner flew from it, the Violet Eye on the banner gazing southward like a true watchman overseeing this land.
 
 Jace really couldn't fathom how such a terrifyingly massive fortress had been thrown together in the span of two or three years.
 
@@ -32,9 +32,9 @@ The place was the size of a genuine small city — a small city wrapped in impos
 
 Jace could hear the distant shouts of soldiers drilling. He didn't know where those soldiers were training — perhaps there was a training ground behind the walls too. Which meant Nethergarde Keep was even bigger than it appeared.
 
-Looking up, he could see gryphon nests lined along the walls, with quite a few griffins dozing inside them.
+Looking up, he could see gryphon nests lined along the walls, with quite a few gryphons dozing inside them.
 
-It was the first time Jace had seen so many griffins at once. He stared hard at the dwarves, trying to pick Grede out from among them.
+It was the first time Jace had seen so many gryphons at once. He stared hard at the dwarves, trying to pick Grede out from among them.
 
 Of course that was impossible. Those dwarves wore goggles and big cloaks; all that showed was either hair or beards. Even if they were lined up right in front of him, he probably couldn't have told them apart.
 
@@ -44,11 +44,11 @@ Not to mention, Grede probably hadn't found his unit yet — he might be in the 
 
 A young full mage raised his emerald staff and called out.
 
-Jace gathered his pack and followed the mage along with a few faces he'd found familiar back at the Wizard Sanctum. The direction they were heading was, naturally, that beautiful mage's tower.
+Jace gathered his pack and followed the mage along with a few faces he'd found familiar back at the Wizard's Sanctum. The direction they were heading was, naturally, that beautiful mage's tower.
 
 A good number of mages were already standing on the open ground at the tower's base, waiting. Jace spotted the woman standing at the very front right away.
 
-"Amy! Amy Marin!"
+"Amy! Amy Malin!"
 
 Jace called out as he approached. Amy whipped her head toward him and her eyes went wide.
 
@@ -66,7 +66,7 @@ But seeing the state Jace was in, looking him up and down, her initially delight
 
 Amy said, "When the demons first appeared a week ago we ran into quite a bit of trouble. I fought the demons alongside the Kirin Tor mages a few times, but I wasn't hurt. The fighters here have taken good care of us."
 
-"But my father took part in the operation to break the siege of the Giant Hammer Fortress the day before yesterday…"
+"But my father took part in the operation to break the siege of Dreadmaul Hold the day before yesterday…"
 
 "Is he hurt?" Jace couldn't help but ask directly.
 

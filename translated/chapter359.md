@@ -8,7 +8,7 @@ But whatever. At least they were wearable.
 
 By the evening of the fourth day, they finally spotted a brick road that had been laid down who-knew-how-long-ago.
 
-Jace looked over at the dwarf. "You said there were crocodiles in this part of the swamp, right?"
+Jace looked over at the dwarf. "You said there were crocolisks in this part of the swamp, right?"
 
 "Right." Grede said. "But that was because I'd run out of the food I'd brought from the harbor and went looking for fish — that's when one ambushed me. This time we've got plenty to eat, and we'll keep our distance from that stretch of swamp. Should be fine."
 
@@ -40,7 +40,7 @@ Jace let out a sharp "Hmph!" The raptor's head snapped up toward him, and only t
 
 The raptor took a step back at the sound, glanced at Grede beside it, dropped the pack, and bolted up the slope without a backward glance.
 
-After dealing with the likes of that swamp beast, even a raptor looked downright wholesome.
+After dealing with the likes of that bog beast, even a raptor looked downright wholesome.
 
 By noon of the sixth day, they crested a high slope and finally saw the mountain pass that their road led straight to.
 
@@ -52,13 +52,13 @@ The Dun Algaz mountain tunnel was far grander in scale than in the game. It wasn
 
 Inside the tunnel, the Bronzebeard dwarves had put up signs in Common to help travelers pass through safely instead of getting lost in the maze.
 
-But Jace also noticed some orcish phrases carved into the walls — mostly things like "victory or death" and "blood and thunder."
+But Jace also noticed some Orcish phrases carved into the walls — mostly things like "victory or death" and "blood and thunder."
 
 Just getting through Dun Algaz took the entire afternoon, and the whole way was an uphill climb. No wonder that even after the orcs had largely retreated to the Dark Portal, a small orc squad had still held this place and refused to withdraw.
 
 It was practically a fortress built to be impregnable. Hard to imagine what it had cost the Bronzebeard dwarves to take it back.
 
-Even harder to imagine how, when the Dragonmaw orcs recaptured it in the future, how many lives would be piled up in that dark, enclosed tunnel. The endless upward walk was enough to make a person dizzy and blind. Every time they emerged from the tunnel and glanced toward the Wetlands from halfway up the mountain, the whole swamp seemed to have grown even mistier.
+Even harder to imagine how many lives would be piled up in that dark, enclosed tunnel when the Dragonmaw orcs recaptured it in the future. The endless upward walk was enough to make a person dizzy and blind. Every time they emerged from the tunnel and glanced toward the Wetlands from halfway up the mountain, the whole swamp seemed to have grown even mistier.
 
 When they finally came out the Loch Modan side of Dun Algaz, Jace was met with a completely different scene — nothing like the Wetlands.
 
@@ -72,21 +72,21 @@ Traveling along the stone road the dwarves had built was easy and reassuring. Th
 
 All along the way, Jace kept looking off to the east. Grede asked curiously, "Why do you keep staring that way? Looking for something?"
 
-"Loch Lake!" Jace said. "I want to see where Loch Lake is."
+"The Loch!" Jace said. "I want to see where the Loch is."
 
-"We're still a long way from Loch Lake, Jace." Grede said. "Keep heading south — you probably won't see the surface of Loch Lake until we're close to Thelsamar. Don't waste your energy."
+"We're still a long way from the Loch, Jace." Grede said. "Keep heading south — you probably won't see the surface of the Loch until we're close to Thelsamar. Don't waste your energy."
 
-Before entering Dun Algaz, Jace had been hoping to catch a glimpse of the legendary Great Dam — but he didn't see it, either.
+Before entering Dun Algaz, Jace had been hoping to catch a glimpse of the legendary Stonewrought Dam — but he didn't see it, either.
 
-That massive stone dam, considered one of the wonders of Azeroth, stood like a tall wall across one side of the Khaz Mountains. Its very existence was what had created the Wetlands' climate and the enormous Loch Lake.
+That massive stone dam, considered one of the wonders of Azeroth, stood like a tall wall across one side of the Khaz Mountains. Its very existence was what had created the Wetlands' climate and the enormous Loch.
 
-Before the Great Dam was built, most of the Wetlands had been underwater, and Loch Lake had been far less vast.
+Before the Stonewrought Dam was built, most of the Wetlands had been underwater, and the Loch had been far less vast.
 
-"Next time, lad." Grede said, watching Jace's reluctant expression. "Going to see the Great Dam would probably cost another full day of travel there and back. And more importantly, there might be kobold villages over there. It's a whole thing."
+"Next time, lad." Grede said, watching Jace's reluctant expression. "Going to see the Stonewrought Dam would probably cost another full day of travel there and back. And more importantly, there might be kobold villages over there. It's a whole thing."
 
 "How far is it to Thelsamar from here?" Jace asked.
 
-"Not far." Grede said. "How about we skip rest tonight? If we push through the night, we should reach Loch Modan by tomorrow morning. Then we can get a proper sleep and plan the next leg of the journey south."
+"Not far." Grede said. "How about we skip rest tonight? If we push through the night, we should reach Thelsamar by tomorrow morning. Then we can get a proper sleep and plan the next leg of the journey south."
 
 "Since you've been here before, I'll follow your lead." Jace said.
 
@@ -98,10 +98,4 @@ Just as he was admiring the snow-capped peaks of Dun Morogh to the west, gleamin
 
 This abandoned, damaged catapult was a Horde weapon. Red orcish runes representing the Horde were still carved into it — runes Jace was all too familiar with.
 
-Jace was instantly reminded of the broken siege engines he'd seen by Loch Lake in the game, the scattered timber and debris. Back then, he'd paid those remnants of war no mind at all.
-
-## Flags
-- **POV:** Third person, Jace.
-- **Places:** 丹奥加兹 → Dun Algaz (source typo 丹奥加教 corrected throughout), 艾尔文森林 → Elwynn Forest, 希尔斯布莱德 → Hillsbrad, 辛特兰 → the Hinterlands, 卡兹山脉 → Khaz Mountains, 洛克湖 → Loch Lake, 塞尔萨玛 → Thelsamar, 湖畔镇 → Lakeshire, 丹莫罗 → Dun Morogh, 铁炉堡 → Ironforge, 黑暗之门 → Dark Portal.
-- **Lore terms:** 河爪酋长 → Riverpaw chieftain, 龙喉兽人 → Dragonmaw orcs, 铜须矮人 → Bronzebeard dwarves, 巨石水坝 → Great Dam, 部落 → the Horde, 狗头人 → kobolds, 豺狼人 → gnolls, 迅猛龙 → raptor, 投石车 → catapult.
-- **Tone note:** The raptor beat is a moment of levity after the swamp-beast fight; Jace's nostalgia at the end (recognizing the Horde catapult from the game) is played quietly.
+Jace was instantly reminded of the broken siege engines he'd seen by the Loch in the game, the scattered timber and debris. Back then, he'd paid those remnants of war no mind at all.

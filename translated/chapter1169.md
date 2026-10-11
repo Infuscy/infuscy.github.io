@@ -4,15 +4,15 @@ After flying into Deadwind Pass, Somaelir dropped her altitude a bit. After all,
 
 Occasionally some suspicious light source would be seen casting shadows of distant scenery, trees, mountains, or the broken walls and ruins of villages and towns. There was no telling where the magical light was seeping through from.
 
-Doom Lord Kalez could fly straight in and observe the entire valley with his demonic sight. Somaelir could manage some perception relying on draconic vision. But for gryphon or other flying beasts that didn't possess much magical power, Deadwind Pass was pretty much an absolute forbidden zone.
+Doom Lord Kallrez could fly straight in and observe the entire valley with his demonic sight. Somaelir could manage some perception relying on draconic vision. But for gryphons or other flying beasts that didn't possess much magical power, Deadwind Pass was pretty much an absolute forbidden zone.
 
-Somalir flew southward along the forest canopy for a distance, moving away from the road that ran from Duskwood to Stonard, plunging fully into the deep darkness of Deadwind Pass.
+Somaelir flew southward along the forest canopy for a distance, moving away from the road that ran from Duskwood to Stonard, plunging fully into the deep darkness of Deadwind Pass.
 
-Jace lay on her neck, observing the ahead, searching for a place where shadow power was quite stable — a suitable location he could use to commune with the Twisting Nether.
+Jace lay on her neck, observing the way ahead, searching for a place where shadow power was quite stable — a suitable location he could use to commune with the Twisting Nether.
 
 Of course, shadow was a chaotic force. Although it wasn't as violent and frenzied as fel energy, trying to find relatively "stable" shadow was still a rather difficult endeavor.
 
-But as long as they were near Karazhan, all types of shadow energy could be found. Ahead, in a silent, hollow stretch of forest, the free-floating dark energy was much calmer than the shadow that permeated those abandoned towns and villages they'd passed through earlier. Probably because of the emotions spread by the agonizing souls who'd perished in Medivh's death.
+But as long as they were near Karazhan, all types of shadow energy could be found. Ahead, in a silent, hollow stretch of forest, the free-floating dark energy was much calmer than the shadow that permeated those abandoned towns and villages they'd passed through earlier. Probably because of the emotions spread by the souls who'd perished in agony when Medivh died.
 
 Not only Jace could sense these terrifying emotions. The others, although they couldn't analyze these emotions as specifically as he could, were still affected by their negative influence.
 
@@ -44,11 +44,13 @@ He patted the green dragon's neck. "Let's land, Somaelir. Flying up here we'll j
 
 "It's not like that," Jace said. "Our friend here has a somewhat special relationship with the ogres."
 
-"Strictly speaking, Lord Kalez is also the High King of the ogres here!" Sazeno poked his head out of Jace's pack and said. "Maybe those ogres will even willingly offer up some souls to contribute to the summoning ritual!"
+"Strictly speaking, Lord Kallrez is also the High King of the ogres here!" Sazeno poked his head out of Jace's pack and said. "Maybe those ogres will even willingly offer up some souls to contribute to the summoning ritual!"
 
-"Ogre king?" Grede was taken aback. Vereesa also loosened her bowstring in confusion. "It's complicated — I'll explain when there's time," Jace said. "For now let's just go down."
+"Ogre king?" Grede was taken aback. Vereesa also loosened her bowstring in confusion.
 
-Somalir landed in a sparse stretch of forest. A massive magical beast coming down naturally couldn't be too stealthy. Soon Jace could hear footsteps coming from all directions in the forest.
+"It's complicated — I'll explain when there's time," Jace said. "For now let's just go down."
+
+Somaelir landed in a sparse stretch of forest. A massive magical beast coming down naturally couldn't be too stealthy. Soon Jace could hear footsteps coming from all directions in the forest.
 
 Grede jumped down from the dragon's back, raising the warhammer in his hand. "So do we fight or not?"
 
@@ -86,7 +88,7 @@ The several people beside the green dragon looked at each other. None of them ex
 
 "You claim you can bring back the High King?" an angry roar came from the forest. Jace saw a bare-chested ogre carrying a spear that was quite short by his standards walk out of the forest.
 
-Compared to those abandoned Stone Fists in the Alterac Mountains, this ogre was truly solid and powerfully built.
+Compared to those abandoned Boulderfists in the Alterac Mountains, this ogre was truly solid and powerfully built.
 
 "No one could make contact with the High King — not even when the magician Nagiva was alive. You think you can do it?"
 

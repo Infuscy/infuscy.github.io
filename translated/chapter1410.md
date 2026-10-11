@@ -1,6 +1,6 @@
 ## Chapter 1410: Could Anyone Else Have Succeeded
 
-Over the next few days, Jace rested at the Tower of Ilgalar at night and received treatment from Solara at Stonewatch during the day, trying to recover enough mana to summon the two demons he'd left behind on Draenor.
+Over the next few days, Jace rested at the Tower of Ilgalar at night and received treatment from Sola at Stonewatch during the day, trying to recover enough mana to summon the two demons he'd left behind on Draenor.
 
 Around midday, he felt he was about ready and headed back to the mage tower early. Grede happened to need to find a Wildhammer near the tower as well, so they walked together.
 
@@ -12,7 +12,7 @@ The Expedition soldiers came from diverse backgrounds. More than half were from 
 
 Although Alterac's king had betrayed the Alliance, many Alteraci didn't agree with his decision. They felt guilty toward the other Alliance members because of it, and hoped the great campaign into Draenor would redeem their homeland's name.
 
-As a result, those passionate Alteraci veterans had become the most battle-hardened group in the Expedition. It was also why Baron Sabermayne had been able to insinuate himself into the Sons of Lothar by virtue of his Alteraci noble status.
+As a result, those passionate Alteraci veterans had become the most battle-hardened group in the Expedition. It was also why Baron Sablemane had been able to insinuate himself into the Sons of Lothar by virtue of his Alteraci noble status.
 
 Beyond the northern continent and the elves, the Kingdom of Stormwind also had a large number of soldiers. Most of them were veterans who had fled to Hillsbrad together after the fall of Stormwind, then followed Marshal Lothar south. After seeing their homeland's suffering, they'd joined the Sons of Lothar in anger and crossed the Dark Portal.
 
@@ -20,7 +20,7 @@ Jace knew Varian wanted not only to keep the several hundred soldiers from the K
 
 After all, the Kingdom of Alterac had fallen, carrying the infamous stain of recent betrayal in the north. Lordaeron and Stromgarde held centuries of accumulated prejudice against them.
 
-Besides, Jace had already made it clear to the Sons of Lothar leaders that this rescue mission had Varian's backing. This had greatly boosted the young king's reputation among the Expedition soldiers. Quite a few northerners who had lost their homes and families in the orc wars were willing to stay in the south.
+Besides, Jace had already made it clear to the Sons of Lothar leaders that this rescue mission had Varian's backing. This had greatly boosted the young king's reputation among the Expedition soldiers. Quite a few northerners who had lost their homes and families in the Orc Wars were willing to stay in the south.
 
 More importantly, the orcs of Blackrock Spire were still entrenched north of Redridge. The Sons of Lothar could never allow themselves to defeat Ner'zhul's Horde, only to turn around and find a new Blackhand had set up a new Horde on their doorstep.
 
@@ -46,7 +46,7 @@ Grede said, "Don't forget what the Expedition calls themselves — the Sons of L
 
 "Help those bastards?" Grede shot Jace an annoyed look, then grumbled for a moment before saying, "Fine. Khadgar did mention that if the Bronzebeards and us could reach a settlement with the Dark Irons — even if it's just a grudging temporary alliance against a common enemy — it would make it easier to convince the other Alliance members to move on Blackrock Spire."
 
-"I heard from Solara that after the ceremony in Stormwind, you're taking that little one, Needlefang, to see the Dragonqueen. Take me along too. I want to see Grim Batol again. See that anvil Kadros left behind. And see what those Thorium Brotherhood guys have been cooking up."
+"I heard from Sola that after the ceremony in Stormwind, you're taking that little one, Needleflame, to see the Dragonqueen. Take me along too. I want to see Grim Batol again. See that anvil Khardros left behind. And see what those Thorium Brotherhood guys have been cooking up."
 
 "No problem," Jace said. "I've always remembered."
 
@@ -56,9 +56,9 @@ Grede said, "Don't forget what the Expedition calls themselves — the Sons of L
 
 "Then I'm not going in with you." Grede took off running toward the camp in the distance.
 
-The Telogrus Rift was constantly battered by terrible void winds, not to mention the fel corruption Karelz had inflicted to build a legion portal there.
+The Telogrus Rift was constantly battered by terrible void winds, not to mention the fel corruption Kallrez had inflicted to build a legion portal there.
 
-After the Expedition closed the portal, nobody wanted to stay here anymore — except for the Kirin Tor mages studying fel and void, and the Daggerfall warlocks.
+After the Expedition closed the portal, nobody wanted to stay here anymore — except for the Kirin Tor mages studying fel and void, and the Dagger Society warlocks.
 
 But the easily tapped void and demonic energy also made this place an ideal location for summoning magic.
 
@@ -66,13 +66,13 @@ This was Jace's first time experiencing just how powerful Kil'jaeden's blockade 
 
 In front of the summoning circle were piles of soul shards the Kirin Tor had scavenged from Auchindoun. Among them were plenty of powerful draenei soul shards.
 
-Ursula stood nearby, watching Jace prepare the summoning circle, occasionally glancing at the soul shards. With the Dark Portal closed, soul shards were getting scarce. The Daggerfall members who'd been desperately scrounging for soul shards had probably never seen this many in their whole lives.
+Ursula stood nearby, watching Jace prepare the summoning circle, occasionally glancing at the soul shards. With the Dark Portal closed, soul shards were getting scarce. The Dagger Society members who'd been desperately scrounging for soul shards had probably never seen this many in their whole lives.
 
 After completing the circle, Jace opened a vial of blood, lit the spilled blood on fire, and began chanting. The soul shards arranged before him caught fire one by one.
 
 Ursula watched the ritual intently, a hint of surprise in her eyes. She looked like she wanted to say something, but held back.
 
-Jace could clearly feel the difficulty of the summoning. The same emptiness he'd felt when communicating with Karelz in the Twisting Nether washed over him again. This seemed to be the effect of Kil'jaeden's barrier — distorting all magic not related to the Burning Legion's demons, throwing everything into chaos. Even the Legion's own magic couldn't escape this influence. This might be the reason for those whirling void channels in Draenor's sky.
+Jace could clearly feel the difficulty of the summoning. The same emptiness he'd felt when communicating with Kallrez in the Twisting Nether washed over him again. This seemed to be the effect of Kil'jaeden's barrier — distorting all magic not related to the Burning Legion's demons, throwing everything into chaos. Even the Legion's own magic couldn't escape this influence. This might be the reason for those whirling void channels in Draenor's sky.
 
 Still, he quickly managed to grasp the contract bond between himself and Sazeno, completing the ritual.
 
@@ -86,9 +86,9 @@ Jace held up another large vial of blood and examined it. "I'm afraid being my d
 
 "What? Is that in the contract?!" Sazeno shrieked. "Does it say that too?!"
 
-But Jace had no mood to joke with the imp right now. If summoning such a little thing had taken this much effort, how hard would it be to summon Morlofil?
+But Jace had no mood to joke with the imp right now. If summoning such a little thing had taken this much effort, how hard would it be to summon Morophil?
 
-He downed a potion of strong mana. The imp, looking miserable, helped move soul shards and light the blood on fire. Jace chanted the spell to summon Morlofil.
+He downed a strong mana potion. The imp, looking miserable, helped move soul shards and light the blood on fire. Jace chanted the spell to summon Morophil.
 
 Sure enough — the moment he touched the contract blood's power and tried to pull on that connection against Kil'jaeden's barrier, it felt like fighting a giant fish weighing hundreds of pounds for control of a fishing rod.
 
@@ -96,12 +96,12 @@ Jace didn't push further. He ended the ritual in time before the backlash could 
 
 "My current mana isn't nearly enough. Not even these soul shards and the void energy of the Telogrus Rift are sufficient." Jace turned to Ursula beside him. "How did you do it? Summoning me."
 
-"I had Archmage Khadgar and Galders helping me, Jace. And most importantly, that ring." Ursula said. "But summoning one's own demon servant is different from summoning a warlock. I admit there are some similarities — like the succubus's casting materials, for example. But an outsider can't strengthen the bond between you and your demon servant."
+"I had Archmage Khadgar and Zardeth helping me, Jace. And most importantly, that ring." Ursula said. "But summoning one's own demon servant is different from summoning a warlock. I admit there are some similarities — like the succubus's casting materials, for example. But an outsider can't strengthen the bond between you and your demon servant."
 
-"Just give up, master..." The imp said. "You're working too hard. I'm sure Lady Morlofil wouldn't want to see you suffer like this!"
+"Just give up, master..." The imp said. "You're working too hard. I'm sure Lady Morophil wouldn't want to see you suffer like this!"
 
 "Shh." Jace shot the imp a glare, then looked at the novice mage's ring on his finger.
 
-And then he remembered what Kil'jaeden had said to him at the top of that dark temple. The demon register might not have been able to summon him back. But anyone else might have breached his barrier.
+And then he remembered what Kil'jaeden had said to him at the top of that dark temple. The demon registry might not have been able to summon him back. But anyone else might have breached his barrier.
 
 "I'm going to find Khadgar. He should be the one to return that book to me."

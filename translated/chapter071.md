@@ -28,7 +28,7 @@ He knew why he felt this way, because so much was still up in the air, so much h
 
 The power that had finally killed those gnolls last night — had it been stirred by the darkness inside him? Was the imp actually right?
 
-Thinking back, every time he'd erupted with that overwhelming Shadow power — whether it was against Gajin in the street, or the wolves in the forest, or last night — there had always been an intense emotion paving the way.
+Thinking back, every time he'd erupted with that overwhelming Shadow power — whether it was against Gakin in the street, or the wolves in the forest, or last night — there had always been an intense emotion paving the way.
 
 Could it be that these emotions were the very source of the outrageous Shadow power he'd been unleashing?
 
@@ -40,7 +40,7 @@ So what had his emotion been last night?
 
 Hatred? Madness? Or… something else? Or was it the staff?
 
-The staff that Sazeno had called an Eredar staff — the Staff of Talon — was lying beside the table, giving off no evil aura whatsoever. It looked like it had no magic in it at all, as ordinary as a black wooden rod.
+The staff that Sazeno had called an eredar staff — the Staff of Teron'gor — was lying beside the table, giving off no evil aura whatsoever. It looked like it had no magic in it at all, as ordinary as a black wooden rod.
 
 Jace had carried it on his back all last night, but he hadn't really used it in the fighting. When he'd lost control of his emotions at the end, he had no idea whether this stick had played any part.
 
@@ -62,11 +62,11 @@ As he was thinking this, the urge to piss crept up on him.
 
 He rolled out of bed, only to realize there was no chamber pot in the room.
 
-He hobbled to the door and pushed it open, and saw Morgas hurrying down the corridor toward him.
+He hobbled to the door and pushed it open, and saw Morganth hurrying down the corridor toward him.
 
 "Mr. Jace Sesso, how are you feeling? I was just coming to find you."
 
-"I'm fine, Master Morgas. It's really just my hands that are badly hurt. Everything else is all right."
+"I'm fine, Master Morganth. It's really just my hands that are badly hurt. Everything else is all right."
 
 "Good. I have a few questions for you."
 
@@ -88,39 +88,26 @@ Jace's heart rate spiked. He stopped what he was doing and said, "You want to kn
 
 "I don't know either, Master," Jace said. "I was fighting the gnolls with that sword when suddenly it burst into flames. The fire singed my hair. I hadn't held it long before the sword burned right through."
 
-"The magic that ignited that sword was dark magic." Morgas coughed twice. "Are you aware of that?"
+"The magic that ignited that sword was dark magic." Morganth coughed twice. "Are you aware of that?"
 
 Jace said, "I heard the soldiers talking. They said it was a dark curse from the gnolls that burned up the sword."
 
-Morgas nodded slowly, then asked, "Did you hear… or see, before the sword caught fire, any strange sounds — whispers, for instance — or any gnolls performing strange gestures?"
+Morganth nodded slowly, then asked, "Did you hear… or see, before the sword caught fire, any strange sounds — whispers, for instance — or any gnolls performing strange gestures?"
 
-Oh, so you're playing the same game. This Morgas was doing the exact same thing as him.
+Oh, so you're playing the same game. This Morganth was doing the exact same thing as him.
 
-Morgas was also looking for that gnoll, trying to learn the dark magic they'd somehow gotten their hands on. Birds of a feather, it turned out.
+Morganth was also looking for that gnoll, trying to learn the dark magic they'd somehow gotten their hands on. Birds of a feather, it turned out.
 
 He finally breathed a sigh of relief. The other party hadn't noticed that he was actually a warlock himself.
 
-The imp-summoning skills of those people at the Slaughtered Lamb had made Jace overestimate the level of dark magic researchers in the Wizard Sanctum. But if even a Shadow practitioner of Morgas's caliber had been expelled from the Wizard Sanctum, then if he were discovered, his fate wouldn't be much better.
+The imp-summoning skills of those people at the Slaughtered Lamb had made Jace overestimate the level of dark magic researchers in the Wizard's Sanctum. But if even a Shadow practitioner of Morganth's caliber had been expelled from the Wizard's Sanctum, then if he were discovered, his fate wouldn't be much better.
 
-After all, he wasn't just a simple dark magic practitioner anymore. If he summoned an imp now, he could probably be classified as a "demon worshipper." Gajin had really and truly tied him to those Slaughtered Lamb people, lock, stock, and barrel.
+After all, he wasn't just a simple dark magic practitioner anymore. If he summoned an imp now, he could probably be classified as a "demon worshipper." Gakin had really and truly tied him to those Slaughtered Lamb people, lock, stock, and barrel.
 
-"Sorry, Master Morgas. At the time I was focused entirely on the enemy in front of me, because I almost died. I didn't have the leisure to hear anything else. You know how chaotic last night was."
+"Sorry, Master Morganth. At the time I was focused entirely on the enemy in front of me, because I almost died. I didn't have the leisure to hear anything else. You know how chaotic last night was."
 
-"I see," Morgas said. "The Darkhide tribe has ties to the orcs who once occupied this place. They learned corrupt spells from orc warlocks — an enormous threat. If we could find out what they've learned, we could find ways to counter it. I heard about your fighting last night. Rest well. Burns from Shadowflame are very hard to recover from. And when you meet the king, don't look too much of a mess."
+"I see," Morganth said. "The Shadowhide tribe has ties to the orcs who once occupied this place. They learned corrupt spells from orc warlocks — an enormous threat. If we could find out what they've learned, we could find ways to counter it. I heard about your fighting last night. Rest well. Burns from Shadowflame are very hard to recover from. And when you meet the king, don't look too much of a mess."
 
-With that, Morgas turned to leave. His last sentence caught Jace off guard, and he immediately asked, "Wait — Master Morgas — the king? I'm meeting the king? Where?"
+With that, Morganth turned to leave. His last sentence caught Jace off guard, and he immediately asked, "Wait — Master Morganth — the king? I'm meeting the king? Where?"
 
-Morgas explained, "My apprentice has already received a reply. King Varian will be arriving at Stonewatch soon. He's learned of the gnoll attack on Stonewatch and plans to come in person to visit the wounded soldiers and officers — and that includes you. Put on a good showing. Who knows — this misfortune might turn out to be a blessing in disguise."
-
-## Flags
-
-- **撒厄诺 → Sazeno**: Imp name, OC, not in glossary. Phonetic transliteration (Sa-e-nuo); tentative.
-- **莫甘斯 → Morgas**: Wizard Sanctum mage, OC, not in glossary. Rendered as "Morgas" (Mo-gan-si); tentative.
-- **加金 → Gajin**: Warlock at the Slaughtered Lamb, OC, not in glossary. Phonetic transliteration; tentative.
-- **塔隆之杖 → Staff of Talon**: OC item, not in glossary. 塔隆 rendered as "Talon"; Sazeno identifies it as an Eredar staff.
-- **艾瑞达 → Eredar**: Canonical Warcraft race; not in glossary.
-- **暗皮部落 → Darkhide tribe**: Gnoll tribe, OC, not in glossary. Literal rendering of 暗皮 (dark hide).
-- **堕落法咒 → corrupt spells**: Not in glossary; rendered as "corrupt spells" (could also be "fel spells").
-- **黑暗掌控 → Mastery of Darkness**: Chapter title. 掌控 = mastery/command/control.
-- Source typo handled: 标本官方小说 in ch73 context (某部) — not in this chapter.
-- 邪火 rendered as "fel fire" (fel-typed flame).
+Morganth explained, "My apprentice has already received a reply. King Varian will be arriving at Stonewatch soon. He's learned of the gnoll attack on Stonewatch and plans to come in person to visit the wounded soldiers and officers — and that includes you. Put on a good showing. Who knows — this misfortune might turn out to be a blessing in disguise."

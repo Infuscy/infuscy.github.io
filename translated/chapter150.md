@@ -20,7 +20,7 @@ So when a Wildhammer dwarf came barreling in, it was practically like a miniatur
 
 Grede led Jace to the bar counter, pointed knowingly at the menu, then turned back and asked, "So when are you planning to head to the capital to see your parents, Jace?"
 
-"Let's wait and see how today goes. I want to observe how my body's holding up," Jace answered. "Master told me the exchange is scheduled for the eleventh. If I'm sure I'm fine and want to leave, I'd better set out early tomorrow morning and be back before the exchange. You're not coming with me — stay in Dalaran and rest up."
+"Let's wait and see how today goes. I want to observe how my body's holding up," Jace answered. "Master told me the symposium is scheduled for the eleventh. If I'm sure I'm fine and want to leave, I'd better set out early tomorrow morning and be back before the symposium. You're not coming with me — stay in Dalaran and rest up."
 
 Saying that, Jace suddenly thought of the Eye of Dalaran, and a shadow passed through his mind.
 
@@ -58,7 +58,7 @@ Jace knew what the dwarf was thinking of. He was thinking of the same thing.
 
 "I couldn't make it out," Grede shook his head. "Even Master Dushan couldn't make it out, and he's studied so many languages. Maybe just delirium from the dragon attack — shadow-induced nonsense."
 
-Jace thought to himself, please don't tell me I was talking in Chinese in my sleep. Though speaking Chinese was still better than babbling in demon-tongue or something.
+Jace thought to himself, please don't tell me I was talking in Chinese in my sleep. Though speaking Chinese was still better than babbling in Demonic or something.
 
 Just then the bartender brought over two glasses. Jace rarely got to drink out of glass. The liquid inside was a pale pink — it looked for all the world like food coloring. A little suspicious.
 
@@ -95,22 +95,3 @@ No — strictly speaking, he did "know" one elf.
 The elf smiled and asked, "You two are still alive?"
 
 The moment he heard that voice, Jace was certain. This was that guy from Duskwood!
-
-## Flags
-
-- **天蓝色相遇** → "the Azure Encounter": the tavern name. Flagged as a glossary addition (proper noun).
-- **王城** → "the capital": Jace's shorthand for the Lordaeron capital where his parents live. Flagged.
-- **鹰巢山** → "Aerie Peak": canonical Wildhammer dwarven stronghold. Flagged for glossary.
-- **紫罗兰城堡** → "the Violet Citadel": the Kirin Tor's seat of power in Dalaran. Flagged.
-- **达拉然宝库** → "Dalaran's vault": where the Eye of Dalaran is kept. Flagged.
-- **奥特兰克山谷** → "Alterac Valley" (flagged, see ch.149).
-- **蛮锤** → "Wildhammer" (glossary).
-- **提瑞斯法** → "Tirisfal" (glossary: Order of Tirisfal; here the region). Flagged for places table.
-- **奎尔萨拉斯** → "Quel'Thalas" (glossary).
-- **暮色森林** → "Duskwood" (glossary).
-- **艾尔文森林** → "Elwynn Forest" (glossary).
-- **精灵** → "elf" (glossary: High Elf; here generic).
-- **杜尚老师** → "Master Dushan" (Caro Dushan, glossary).
-- **达拉然之眼** → "Eye of Dalaran" (flagged, see ch.149 — distinct from Eye of the Arcane).
-- **The elf at the end** — an unnamed elf previously encountered in Duskwood (暮色森林). Identity not yet revealed; flagged as a recurring character to track.
-- **"You two are still alive?"** — confirms the elf knows Jace and Grede from a prior encounter; his knowing they survived implies shared danger. Flagged for continuity.

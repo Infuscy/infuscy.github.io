@@ -6,9 +6,9 @@ With that, VanCleef headed downstairs. Jace watched him walk all the way to the 
 
 "Yes," Jace said. "I'm hoping the power of the Taralfsin Crystal can stabilize its connection to the ley lines. What do you think — using illusion magic to conceal this tower, plus that demon in the middle? That demon is the most critical part."
 
-"Until I see that demon, I can't give you a hundred percent guarantee of what I can achieve," Amy said, looking at the booklet in her hands. "But before coming, I did quite a bit of research on both doom lords and Ilgara's Tower itself. Let's just say I'm still confident."
+"Until I see that demon, I can't give you a hundred percent guarantee of what I can achieve," Amy said, looking at the booklet in her hands. "But before coming, I did quite a bit of research on both doom lords and the Tower of Ilgalar itself. Let's just say I'm still confident."
 
-As she spoke, Amy surveyed the tower's condition while carefully writing notes with a pen held between her fingers — a "quill" made from the antennae of an emerald whelping.
+As she spoke, Amy surveyed the tower's condition while carefully writing notes with a pen held between her fingers — a "quill" made from the antenna of a faerie dragon.
 
 "Is this the pen you gave me?" Jace asked, surprised.
 
@@ -16,9 +16,9 @@ Amy looked at the pen in her hand and smiled. "The very one, Jace. Honestly, at 
 
 "Amy, have you ever thought about why I wanted a doom lord stuffed into this tower?" Jace asked.
 
-The smile on the female mage's face slowly faded. She nodded. "The ereduin are the demons in the Burning Legion most skilled in Void magic. When it comes to controlling spatial magic, even most eredar can't compare to them. And the way they help the Burning Legion project troops is by relying on a powerful mana source… you want to use that demon to achieve long-distance teleportation, don't you."
+The smile on the female mage's face slowly faded. She nodded. "The Ered'ruin are the demons in the Burning Legion most skilled in Void magic. When it comes to controlling spatial magic, even most eredar can't compare to them. And the way they help the Burning Legion project troops is by relying on a powerful mana source… you want to use that demon to achieve long-distance teleportation, don't you."
 
-Jace said nothing, nor did it deny it. She closed her eyes. "Are you trying to get to Quel'Thalas quickly, or Kalimdor?"
+Jace said nothing, nor did he deny it. Amy closed her eyes. "Are you trying to get to Quel'Thalas quickly, or Kalimdor?"
 
 "If it were for Quel'Thalas, I wouldn't advise it — even forming a landing point for Void magic within the Kingdom of Lordaeron would easily attract the Kirin Tor's attention, let alone within the protective range of Ban'dinoriel."
 
@@ -32,17 +32,17 @@ Jace said nothing, nor did it deny it. She closed her eyes. "Are you trying to g
 
 "Clearly I couldn't build a Dark Portal like that with my own strength, Amy," Jace said. "We just want to use that doom lord's power to fling ourselves to Draenor."
 
-"You?" Amy said. "Who else? Does Wynneza know about this? Wait… is she the mastermind behind this?"
+"You?" Amy said. "Who else? Does Vereesa know about this? Wait… is she the mastermind behind this?"
 
 "You could say that, in a sense," Jace said. "And she's been hoping you'd help us."
 
 "We're going to Draenor to retrieve the Sons of Lothar, Amy — not like Medivh, who only listened to demons' temptations to bring the orcs here in the first place. What's more, given the scale of energy in this mage tower, it couldn't possibly support an invasion of that magnitude."
 
-Amy raised her eyes to the ceiling of Ilgara's Tower, then slowly nodded. She rubbed her eyes, sighed, and said nothing.
+Amy raised her eyes to the ceiling of the Tower of Ilgalar, then slowly nodded. She rubbed her eyes, sighed, and said nothing.
 
 "Are you going to stop us, Amy?" Jace asked.
 
-"I am a member of the Kirin Tor, but first and foremost I'm a son of Elwynn, Jace," Amy said. "I may not miss her the way Wynneza misses her sister, but I want the Sons of Lothar to come home just as much. But in Dalaran, this is… fundamentally a matter that cannot be brought up. Some time ago, a few mages proposed to the Kirin Tor Council that they could use the teleportation coordinates brought back from Draenor to go back and search for surviving members of the Expedition. But now, most of those mages have either kept their mouths tightly shut or been expelled from the Kirin Tor. That's how seriously Archmage Antonidas takes this matter."
+"I am a member of the Kirin Tor, but first and foremost I'm a daughter of Elwynn, Jace," Amy said. "I may not miss her the way Vereesa misses her sister, but I want the Sons of Lothar to come home just as much. But in Dalaran, this is… fundamentally a matter that cannot be brought up. Some time ago, a few mages proposed to the Kirin Tor Council that they could use the teleportation coordinates brought back from Draenor to go back and search for surviving members of the Expedition. But now, most of those mages have either kept their mouths tightly shut or been expelled from the Kirin Tor. That's how seriously Archmage Antonidas takes this matter."
 
 Amy closed her eyes and agonized for a while before asking, "If I refuse to help, aren't you afraid I'll leak this to the Kirin Tor, Jace?"
 

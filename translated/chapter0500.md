@@ -12,7 +12,7 @@ The two of them skirted along the edge of a completely fallow field toward the t
 
 "Look over there." The dwarf pointed across the riverbank. Jace squinted and finally made out a tall, swaying grey figure inching slowly forward.
 
-It was an ogre — a gaunt, two-headed ogre, dragging a long staff behind it. Behind it trailed a few low, shuffling shadows. Jace used Detect Demons and saw they were a pack of felhounds.
+It was an ogre — a gaunt, two-headed ogre, dragging a long staff behind it. Behind it trailed a few low, shuffling shadows. Jace used Sense Demons and saw they were a pack of felhounds.
 
 Looked like a fair number of ogres who'd fled the Dark Portal had settled here. Before long, a sturdier ogre emerged from behind the felhounds, hauling a crude warsword and wearing scraps of battered armor.
 
@@ -40,7 +40,7 @@ The two of them hurried over. As they reached the edge of the field, Jace watche
 
 Grede set the machine down. The arcane core in the middle of it had already started to glow.
 
-Did that mean this soul could yield necrotic essence?
+Did that mean this soul could yield Essence of Undeath?
 
 "It's going after you, Grede!" Jace said, clutching a bottle of holy water. "Watch out!"
 
@@ -74,17 +74,17 @@ But looking at the dense block of Goblin-language instructions next to the compa
 
 "Then we're definitely out of luck," Jace said helplessly.
 
-That's when he thought of the Flowingfrost Crystal.
+That's when he thought of the Flowing Ice Crystal.
 
-It was arcane, and both it and this machine needed recharging… could the Flowingfrost Crystal restore this thing's power?
+It was arcane, and both it and this machine needed recharging… could the Flowing Ice Crystal restore this thing's power?
 
-He took the Flowingfrost Crystal out of its case and brought it near the machine — and sure enough, the core brightened slightly.
+He took the Flowing Ice Crystal out of its case and brought it near the machine — and sure enough, the core brightened slightly.
 
 "It works, it works!" Sazeno laughed. "This little bastard actually works!"
 
-Jace handed the Flowingfrost Crystal to Grede. "Carry this, Grede. Keep it in the same bag as the machine so it recharges continuously. Don't want to run into a powerful soul and find out we're out of juice."
+Jace handed the Flowing Ice Crystal to Grede. "Carry this, Grede. Keep it in the same bag as the machine so it recharges continuously. Don't want to run into a powerful soul and find out we're out of juice."
 
-Grede nodded and packed everything away, then asked, "What if we didn't had this crystal and the machine ran out of power? What then?"
+Grede nodded and packed everything away, then asked, "What if we hadn't had this crystal and the machine ran out of power? What then?"
 
 "How the fuck should I know," Jace said. "When we get back, I'm going to have a serious talk with that goblin."
 

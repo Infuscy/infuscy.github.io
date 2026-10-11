@@ -10,13 +10,13 @@ Vereesa looked back at the crowd. "In a few days, when we tell the whole Allianc
 
 "Let me remind you all once more." Khadgar held up a finger, lowering his voice. "Don't mention anything about resurrection, soul rituals, or anything like that. Not even to your closest friends. Just say we managed to find him. Unless you want to bring Jace endless trouble."
 
-"Got it." "Remember clearly." The group acknowledged one after another.
+"Got it." "We'll remember." The group acknowledged one after another.
 
 The only one not holding a cup was Mosa, who had transformed back into her great cat form. A tauren was still a bit too visually overwhelming for these northerners who had seen too many long-horned, shaggy, giant-hoofed demons over the past few days.
 
 She rested her cat head on the table and asked quietly, "Actually, I'm curious — what's the occasion today?"
 
-Khadgar swallowed his mouthful of beer. "I just asked around. The Alliance army has defeated Mannoroth, the Pit Lord. Retaking Silverlaine Castle is pretty much a done deal."
+Khadgar swallowed his mouthful of beer. "I just asked around. The Alliance army has defeated Mannoroth, the pit lord. Retaking Silverlaine Keep is pretty much a done deal."
 
 "Who killed Mannoroth?" Jace asked.
 
@@ -32,7 +32,7 @@ Tyrande Whisperwind and Malfurion Stormrage had come to the Eastern Kingdoms, un
 
 Everything was different now.
 
-Jace instinctively touched his chest for his pocket watch to check the time, then realized that after his resurrection, he had been given a set of military-issue clothes and trousers meant for Lordaeron soldiers. Other than the Olastrasz's Hide draped over him for warmth, nothing he had carried at the top of the royal city was left.
+Jace instinctively touched his chest for his pocket watch to check the time, then realized that after his resurrection, he had been given a set of military-issue clothes and trousers meant for Lordaeron soldiers. Other than the Hide of Olastrasz draped over him for warmth, nothing he had carried at the top of the royal city was left.
 
 "What's wrong, Jace?" Vereesa asked quietly.
 
@@ -44,15 +44,15 @@ Jace instinctively touched his chest for his pocket watch to check the time, the
 
 "Whoever killed him, it wasn't you, dwarf!" Needleflame stuck out her tongue smugly.
 
-"You little —" Grede gritted his teeth and reached for her hair. Needleflame ducked behind Sora with a *whoosh*. The dwarf glared at her, huffed a few times, then waved his hand and let it go.
+"You little —" Grede gritted his teeth and reached for her hair. Needleflame ducked behind Sola with a *whoosh*. The dwarf glared at her, huffed a few times, then waved his hand and let it go.
 
-Everyone around the table burst out laughing. Sora sighed fondly and pulled the black dragon close, patting her little gray face. "Ten days, Jace. Not that long."
+Everyone around the table burst out laughing. Sola sighed fondly and pulled the black dragon close, patting her little gray face. "Ten days, Jace. Not that long."
 
 "It feels like it's been... years." Jace stared at the cup before him.
 
 But thinking back on everything that had happened in between, he realized it really had been just a moment.
 
-"Ten days was long enough for Uthalesh to nearly erase your will." Khadgar said quietly. "From what they told me after returning, it was worse inside than I'd expected. We almost couldn't bring you back. If Uthalesh had become what it was meant to be, everything would've returned to square one — except half of Lordaeron would've been destroyed by demons..."
+"Ten days was long enough for Ulthalesh to nearly erase your will." Khadgar said quietly. "From what they told me after returning, it was worse inside than I'd expected. We almost couldn't bring you back. If Ulthalesh had become what it was meant to be, everything would've returned to square one — except half of Lordaeron would've been destroyed by demons..."
 
 "Where's Aegwynn?" Vereesa asked. "Why hasn't she shown herself?"
 
@@ -64,23 +64,23 @@ Jace glanced at Khadgar beside him. The archmage just drank in silence, offering
 
 "Where did you go after the bomb, Grede?" Jace turned and asked.
 
-"A group of orcs saved me." Grede grabbed some dried fruit and shoved it in his mouth, mumbling as he chewed. "The blast wave from that damned bomb threw me way, way out. Gorgeit found me, but she was hurt too — could only carry me through the forest, couldn't fly at all. Then I ran into a group of friendly orcs. Funny, right?"
+"A group of orcs saved me." Grede grabbed some dried fruit and shoved it in his mouth, mumbling as he chewed. "The blast wave from that damned bomb threw me way, way out. Gorjet found me, but he was hurt too — could only carry me through the forest, couldn't fly at all. Then I ran into a group of friendly orcs. Funny, right?"
 
 "Mmph. A group of friendly orcs in Lordaeron's forest. That sentence alone would've gotten me hanged in the capital three times over — once for questioning the patrol's efficiency, once for orc sympathizing, and once for collusion with the enemy." The dwarf held up three fingers. "Lucky for me, the capital died before I did. So it's just a story with a boring ending. You should tell yours instead, Jace — what really happened that night?"
 
 Everyone at the table looked at him with curiosity, waiting for Jace to speak.
 
-Jace glanced toward Sora. She noticed his gaze and seemed to flinch away instinctively.
+Jace glanced toward Sola. She noticed his gaze and seemed to flinch away instinctively.
 
-"By then, everyone had already retreated to the undercity. But Sora was still trapped on that tower. I thought I had to bring her back. I just didn't expect Archimonde to already be at the walls."
+"By then, everyone had already retreated to the Undercity. But Sola was still trapped on that tower. I thought I had to bring her back. I just didn't expect Archimonde to already be at the walls."
 
 "At them?" Grede raised a hand above his head. "That wall wasn't even as tall as him!"
 
-"I was following the Queen Ysera's orders, evacuating the humans in the city." Sora said, her head low. "But that one spell... Even though I wasn't hit like my sisters were, I still couldn't withstand the force radiating from it. As I was falling, I caught hold of the tower wall and fell inside. There were flying demons everywhere outside, so I planned to take human form, use the tower for cover, and escape. But two or three demons found me and chased me in. I managed to drive them back, but I didn't have the strength to go any further. I'm sorry."
+"I was following Queen Ysera's orders, evacuating the humans in the city." Sola said, her head low. "But that one spell... Even though I wasn't hit like my sisters were, I still couldn't withstand the force radiating from it. As I was falling, I caught hold of the tower wall and fell inside. There were flying demons everywhere outside, so I planned to take human form, use the tower for cover, and escape. But two or three demons found me and chased me in. I managed to drive them back, but I didn't have the strength to go any further. I'm sorry."
 
-"It's not your fault, Sora." Jace said. "Even if I'd known the Defiler was waiting for me in there, I would've come for you."
+"It's not your fault, Sola." Jace said. "Even if I'd known the Defiler was waiting for me in there, I would've come for you."
 
-Sora's eyes widened slightly. Jace added, "Of course, in that case, I might've been a bit calmer. Maybe thought about tactics a little. Instead of just charging into the tower without thinking like I did that day."
+Sola's eyes widened slightly. Jace added, "Of course, in that case, I might've been a bit calmer. Maybe thought about tactics a little. Instead of just charging into the tower without thinking like I did that day."
 
 "So you're telling me you ran straight into a pile of demons without a second thought." Grede said.
 
@@ -112,7 +112,7 @@ The red-robed noble by the broken wall spoke. The yellow eyes glinting in the sh
 
 "You've taken good care of Needleflame." Sabellian said. "I'm grateful."
 
-"She goes by Fidegnia now." Jace reminded him.
+"She goes by Phydygonia now." Jace reminded him.
 
 "Mm?" The black dragon frowned. "Who gave her that name?"
 

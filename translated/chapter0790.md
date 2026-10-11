@@ -1,12 +1,12 @@
 ## Chapter 790: Worth Protecting
 
-By midday the Blue Heron had grown more and more crowded. Mages pressed shoulder to shoulder, friends chatting warmly, strangers greeting one another, and Jace could even detect a faint whiff of arcane energy mingling with the smell of sweet milk-bread drifting through the hall.
+By midday the Blue Recluse had grown more and more crowded. Mages pressed shoulder to shoulder, friends chatting warmly, strangers greeting one another, and Jace could even detect a faint whiff of arcane energy mingling with the smell of sweet milk-bread drifting through the hall.
 
-At this point, bringing up the Kirin Tor again — chatting about Karazhan and Ursales — would've been inappropriate, and Amy had realized that too.
+At this point, bringing up the Kirin Tor again — chatting about Karazhan and Ulthalesh — would've been inappropriate, and Amy had realized that too.
 
 After discussing Dar'Khan Drathir, Amy watched a handful of men and women who'd just come in, then fell quiet for a long moment before asking, "So what are your plans next, Jace?"
 
-"Ilgalar Tower, obviously," Jace said.
+"The Tower of Ilgalar, obviously," Jace said.
 
 "Ah, right — I just brought it up, and I've already forgotten." Amy gave an embarrassed smile. "I visited that tower when I was little, before the orcs had entered that jungle. Under the tower's watch, the area around Stonewatch was even calmer than most of Elwynn Forest. No gnolls or hostile monsters dared come anywhere near it."
 
@@ -14,23 +14,23 @@ After discussing Dar'Khan Drathir, Amy watched a handful of men and women who'd 
 
 "I'll do my best to make that place as peaceful again as it once was, Amy," Jace said.
 
-"I don't doubt that for a second," Amy said. "But the ley lines across the kingdom seem to have been affected by that disaster at Karazhan. Getting that tower to serve as the guardian of the whole Stonewatch waterfall forest again won't be easy."
+"I don't doubt that for a second," Amy said. "But the ley lines across the kingdom seem to have been affected by that disaster at Karazhan. Getting that tower to serve as the guardian of the whole forest around Stonewatch Falls again won't be easy."
 
 "I've got my own methods," Jace said with a slight smile.
 
-The young woman raised an eyebrow, studying him. "I'm quite curious to see what methods the most powerful dark mage in the kingdom can come up with to reactivate Ilgalar Tower."
+The young woman raised an eyebrow, studying him. "I'm quite curious to see what methods the most powerful dark mage in the kingdom can come up with to reactivate the Tower of Ilgalar."
 
 Hearing that, Jace nearly thought Amy had guessed what he was about to do — or at least knew something.
 
-Before leaving for Kalimdor, he had to put Kanrethad and the tower affairs in order, brief the Stonewatch soldiers, and tell them how to cooperate with the hellhounds protecting the mage tower.
+Before leaving for Kalimdor, he had to put Kallrez and the tower affairs in order, brief the Stonewatch soldiers, and tell them how to cooperate with the felhounds protecting the mage tower.
 
-At the same time, he needed to talk with Kanrethad about things to watch for during his long absence.
+At the same time, he needed to talk with Kallrez about things to watch for during his long absence.
 
-Jace had actually been considering a way to maintain long-term contact with Kanrethad — partly to monitor the dreadlord's situation, and partly to let Kanrethad alert him as quickly as possible if anything went wrong at the Altar of Storms, like surveillance from the Dark Iron dwarves, or orcs suddenly getting a wild hair and trying to take the altar back.
+Jace had actually been considering a way to maintain long-term contact with Kallrez — partly to monitor the doom lord's situation, and partly to let Kallrez alert him as quickly as possible if anything went wrong at the Altar of Storms, like surveillance from the Dark Iron dwarves, or orcs suddenly getting a wild hair and trying to take the altar back.
 
-Dasmora's contact circle might come in handy. Jace could try using that circle to ask Kanrethad for a method.
+Dasmora's contact circle might come in handy. Jace could try using that circle to ask Kallrez for a method.
 
-Since Dasmora could use that circle to communicate with the lords of the Twisting Nether, contacting a greater demon in Kalimdor from the Eastern Kingdoms ought to be simpler by comparison.
+Since Dasmora could use that circle to communicate with the lords of the Twisting Nether, contacting a greater demon in the Eastern Kingdoms from Kalimdor ought to be simpler by comparison.
 
 Amy carved off a piece of pastry with her spoon, staring at the jam coating it. "After the Dark Portal, more and more young people are showing their talent earlier and drawing attention. Have you heard of Jaina Proudmoore?"
 
@@ -54,13 +54,13 @@ Her voice grew lower and lower, her words hazier and hazier, and it reminded Jac
 
 "You saved my life," Amy said. "Paid such an enormous price, threw everything aside to face that demon lord — and all you rescued was a mediocre mage who falls apart at the slightest thing and drifts around not knowing what to do. Aren't you disappointed?"
 
-"Uh." Jace paused for a moment. "I did that because I didn't want you to die. What you do after surviving — I never thought about it. Whether you end up on the Council of Six someday, or come back to teach at the Wizard Sanctum, or open an ice cream stand on the streets of Dalaran, or get sick of magic and decide to do something else entirely — buy a farm and raise pigs, whatever — so long as you keep yourself safe, that's enough."
+"Uh." Jace paused for a moment. "I did that because I didn't want you to die. What you do after surviving — I never thought about it. Whether you end up on the Council of Six someday, or come back to teach at the Wizard's Sanctum, or open an ice cream stand on the streets of Dalaran, or get sick of magic and decide to do something else entirely — buy a farm and raise pigs, whatever — so long as you keep yourself safe, that's enough."
 
 The young woman stared at him for a long time. Jace smiled and said, "I feel like you don't recognize me at all, Amy. What sort of person do you have me pictured as? I'm not your father or your teacher. Or did your time in Dalaran slowly twist the image of me in your head… I think that's quite possible."
 
 Amy said, somewhat awkwardly, "All right, maybe it really is like you said. I'm sorry, Jace. We finally get a chance to eat together again, and it turned into me dumping all these negative emotions on you once more."
 
-Jace let out a soft sigh. "Once all this is over, once this chaos ends, I should visit you in Dalaran more often and keep an eye on your mental state, Amy Marin. Right now it sounds like you haven't made any real friends in that magic city either."
+Jace let out a soft sigh. "Once all this is over, once this chaos ends, I should visit you in Dalaran more often and keep an eye on your mental state, Amy Malin. Right now it sounds like you haven't made any real friends in that magic city either."
 
 "As long as Vereesa doesn't mind," Amy said with a smile.
 
@@ -76,7 +76,7 @@ Jace let out a soft sigh. "Once all this is over, once this chaos ends, I should
 
 The young mage said nothing. Jace continued, "It was that day at Nethergarde Keep, the things we said to each other outside the alchemy lab." Amy was startled at first, then smiled faintly — she must have remembered too.
 
-"You saved my life too, Amy, though you might have no idea," Jace said. "You're the person I care about most. You and Master Marin are my family here. When you feel pain and sadness in the Kirin Tor, I worry about you too. So whatever's on your mind, you can tell me."
+"You saved my life too, Amy, though you might have no idea," Jace said. "You're the person I care about most. You and Master Malin are my family here. When you feel pain and sadness in the Kirin Tor, I worry about you too. So whatever's on your mind, you can tell me."
 
 "Thank you, Jace." Amy nodded and rubbed her eyes.
 
@@ -92,7 +92,7 @@ The young mage said nothing. Jace continued, "It was that day at Nethergarde Kee
 
 After lunch that afternoon, Jace glanced at his pocket watch and saw it was already past three. Without realizing it, he'd spent all this time talking with Amy. He watched that faint violet figure at the far end of the Park among the coming-and-going crowds, and Amy glanced back this way too.
 
-At the moment it reminded him of when he'd first met Marin, those days in the Mage Quarter.
+At the moment it reminded him of when he'd first met Malin, those days in the Mage Quarter.
 
 Back then he hadn't known a single soul here, and every time he saw Amy it felt like the first day of school, spotting his older sister come to pick him up at dismissal.
 
@@ -104,11 +104,11 @@ It was that simple.
 
 Thinking this, he actually felt quite calm, but the sword at his hip felt searing hot, stirred.
 
-The Song of Azure in its scabbard actually gave off a faint ghostly light — just barely visible even through the sheath, though it was hard for anyone else to notice under the midday sun.
+Azuresong in its scabbard actually gave off a faint ghostly light — just barely visible even through the sheath, though it was hard for anyone else to notice under the midday sun.
 
 I want to kill your creator. Are you unhappy about that?
 
-He thought it, but the Song of Azure showed no displeasure or resistance whatsoever.
+He thought it, but Azuresong showed no displeasure or resistance whatsoever.
 
 Jace knew it would always believe in him and stand at his side, exactly as it had ever since Vereesa placed it in his hands.
 

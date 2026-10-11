@@ -10,7 +10,7 @@ Ruige looked at the scars on Jace's body and said, "You're not quite what I pict
 
 The dwarf shrugged. "Yesterday was just a bit of trial — getting flame to help enchant your weapon isn't hard, after all. Fire elementals are always looking for something to burn. Today we'll do something harder: calling on fire elementals to protect you."
 
-Marin had mentioned something similar. Using the arcane to manipulate fire elementals to destroy enemies was easy — like the Scorch spell, or Fireball. But getting flame to form a protective barrier wasn't so simple.
+Malin had mentioned something similar. Using the arcane to manipulate fire elementals to destroy enemies was easy — like the Scorch spell, or Fireball. But getting flame to form a protective barrier wasn't so simple.
 
 "So what should I say?" Jace asked.
 
@@ -24,7 +24,7 @@ Jace nodded, looked toward the glow of the fire through the crack in the window,
 
 He felt the area around him grow warmer bit by bit. When he opened his eyes, rings of fire had coiled around him.
 
-It reminded him of the fire barrier Marin had cast, of course. It wasn't nearly as brilliant. It was even a little… thick.
+It reminded him of the fire barrier Malin had cast, of course. It wasn't nearly as brilliant. It was even a little… thick.
 
 "The fire elementals granted your wish right away!" Ruige said, astonished. "I don't understand. Did you secretly make some kind of offering to the Firelord? Do you know other Dark Iron dwarves?"
 
@@ -46,7 +46,7 @@ The dwarf said, "I'm just curious. If you don't tell me, it's not as if I lose a
 
 Ruige warned, "I'll tell you again — that's not an incantation. Strictly speaking, it's a kind of prayer, a wish. If you treat it as an incantation… it will seriously hold back your communication with fire elementals. And it's my fault — I shouldn't have used an incantation as an analogy earlier. That was a teaching mistake on my part."
 
-"Here's what I can do. I can tell you the prayers that I or other fire-tenders use to call on flame to protect ourselves. But at this point, it's clear there's no benefit in it for me. You already found the trick of talking to flame last night. I'd rather you seek their help on your own. You still don't know the Kalimdor language. You can say what you want to say, and I'll translate it into the elemental tongue. Then you try repeating it."
+"Here's what I can do. I can tell you the prayers that I or other pyromancers use to call on flame to protect ourselves. But at this point, it's clear there's no benefit in it for me. You already found the trick of talking to flame last night. I'd rather you seek their help on your own. You still don't know the Kalimdor language. You can say what you want to say, and I'll translate it into the elemental tongue. Then you try repeating it."
 
 Jace pointed at the golem. "Translate this for me: 'Flame, destroy this Dark Iron golem.'"
 
@@ -62,7 +62,7 @@ Ruige caught his breath. "The feeling of being rejected by flame is really unple
 
 Jace nodded. Using the prayer Ruige had modified — the one with honorifics — he called on the fire elementals. When he raised his hand and pointed at the golem, he felt the eager, surging heat of the flame. A fierce fire gathered from the air and exploded on the golem along the line of his pointing. The whole golem shuddered.
 
-Although the power wasn't as strong as what Ruige had called up, Ruige still nodded with satisfaction. "Not bad, not bad! That's it. You really are good fire-tender material, Sesso. And Ironforge really is a great place to learn to be a fire-tender! Now, try it without the honorifics. You need to get used to the feeling when the elementals don't answer your call sometimes. When that happens, remember to rely on yourself."
+Although the power wasn't as strong as what Ruige had called up, Ruige still nodded with satisfaction. "Not bad, not bad! That's it. You really are good pyromancer material, Sesso. And Ironforge really is a great place to learn to be a pyromancer! Now, try it without the honorifics. You need to get used to the feeling when the elementals don't answer your call sometimes. When that happens, remember to rely on yourself."
 
 "Flame, help me destroy that golem."
 
@@ -82,7 +82,7 @@ This Flame Shock was far more powerful than any Jace had managed before. But Jac
 
 "The elementals are angry, Sesso." The dwarf leaned against the window and looked outside. "Your rude behavior offended the elementals!" Jace said innocently, "I just wanted to try… and I was following your instructions."
 
-"I didn't think the elementals would respond to you at all!" Ruige sighed. "But it's no big deal. You can try to beg the elementals for forgiveness. I'm sure it's only temporary. After all, elementals only disappoint you if they have expectations of you. A complete fool doesn't even have the capital to offend elementals!"
+"I didn't think the elementals would respond to you at all!" Ruige sighed. "But it's no big deal. You can try to beg the elementals for forgiveness. I'm sure it's only temporary. After all, elementals only disappoint you if they have expectations of you. A complete fool isn't even worth the elementals' anger!"
 
 "So what should I do?" Jace asked.
 

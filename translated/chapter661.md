@@ -16,7 +16,7 @@ He was pinned between several massive boulders, unable to move. Sazeno was crouc
 
 Fine, fine. The Demon Soul?
 
-Jace groped around him frantically. He remembered that after Alexstrasza was freed, Molofier had handed the disc back to him. But right now he couldn't move at all, let alone reach into his robe's pockets.
+Jace groped around him frantically. He remembered that after Alexstrasza was freed, Morophil had handed the disc back to him. But right now he couldn't move at all, let alone reach into his robe's pockets.
 
 Jace asked, "How long was I out?"
 
@@ -34,7 +34,7 @@ What he needed to do now was find a way to destroy the Demon Soul and return the
 
 That was the original plan, wasn't it?
 
-I wonder if any of Deathwing's scales had fallen to the ground? With that many red dragons attacking him — some of them adults, plus the Dragonqueen herself — surely at least one of them had landed a hit, taken a swipe, and knocked something loose?!
+Had any of Deathwing's scales fallen to the ground? With that many red dragons attacking him — some of them adults, plus the Dragonqueen herself — surely at least one of them had landed a hit, taken a swipe, and knocked something loose?!
 
 Thinking that, Jace suddenly felt a surge of motivation. He gritted his teeth and forced his arms free, shifted his legs — though nothing seemed to be broken, he was still crushed tight.
 
@@ -66,7 +66,7 @@ Jace immediately patted himself down, then found the disc…
 
 Grede nodded and said, "I don't get what this thing's got to do with that black dragon, but you're rarely wrong. Speak — do we smash it, or…"
 
-"We need to find a scale that fell from the black dragon," Jace said. "Only a scale from Deathwing can cut through it." Thinking of the cracked Azurewrath, he swallowed hard.
+"We need to find a scale that fell from the black dragon," Jace said. "Only a scale from Deathwing can cut through it." Thinking of the cracked Azuresong, he swallowed hard.
 
 "Right, there are a bunch of dragon scales over there, Jace — right over there, let's go!" Grede pointed behind them. "I just came from that way, isn't that right, demon?!"
 
@@ -90,7 +90,7 @@ The imp in his robe shrieked, "Not me! I don't wanna die! Getting the hell out o
 
 "Shut the hell up — when those red dragons are done for, we're all dead! You think you can escape Deathwing's grasp?" Grede cursed as he jumped down a step.
 
-The imp wailed, "Oh mama, why did I pick a master like this…" Jace slammed a hand against his chest, making the little guy yelp.
+The imp wailed, "Oh, woe is me, why did I pick a master like this…" Jace slammed a hand against his chest, making the little guy yelp.
 
 Watching Grede's back as he walked ahead, Jace felt his nose sting. But this wasn't the time to get emotional.
 
@@ -108,7 +108,7 @@ Jace took the black scale in his hand and quickly realized it wasn't a black dra
 
 "Got it."
 
-The two kept searching. Then a bubble suddenly rolled up from the lava behind them, and a blob of living magma, hot as a slime, surged out with a rumbling flow of molten rock and lunged toward them. Then more and more crawled out of the lava rivers elsewhere. Grede cursed, hefted his war hammer, called down lightning, and smashed the nearest one — blasting the living magma to pieces.
+The two kept searching. Then a bubble suddenly rolled up from the lava behind them, and a blob of living magma, shapeless as a slime, surged out with a rumbling flow of molten rock and lunged toward them. Then more and more crawled out of the lava rivers elsewhere. Grede cursed, hefted his war hammer, called down lightning, and smashed the nearest one — blasting the living magma to pieces.
 
 But more and more of them were closing in, and they spat burning flames, nearly splashing onto Jace and Grede again and again. They had to move elsewhere to keep searching for a usable dragon scale.
 
@@ -122,22 +122,8 @@ Even though the heat here was enough to make a man pass out from heatstroke, Jac
 
 Then he suddenly felt a sharp, itching pain in his abdomen. What was this? Wait — Soul Link?
 
-Molofier was alive? And injured? What was she fighting? Could Nekros have broken free of Molofier's charm amid the destruction of Grim Batol? That warlock…
+Morophil was alive? And injured? What was she fighting? Could Nekros have broken free of Morophil's charm amid the destruction of Grim Batol? That warlock…
 
 "They seem to be in danger, Grede. We need to help them — these scales… I don't think we're getting anywhere."
 
 "Then let's go!" Grede replied. Jace glanced up at the sky — the shadow that blotted out the heavens had seized the red silhouette, like a dark cloud swallowing a dimming sun.
-
-## Flags
-
-- **Chapter boundary note:** The user's brief said "line 37546 = 第661章," but line 37546 is actually 第662章. The real 第661章 starts at line 37478. Translated from the correct boundary.
-- **莫洛菲尔 (Molofier):** OC succubus, not in glossary. Transliterated as Molofier (mo-lo-fei-er).
-- **温蕾萨 (Vereesa):** Rendered as Vereesa Windrunner (third Windrunner sister). The Chinese uses 温蕾萨 rather than the more common 维蕾萨, but the Windrunner surname + ranger context confirms the character.
-- **撒厄诺 (Sazeno):** Imp minion, per glossary.
-- **碧空之歌:** Canonical WoW sword = **Azurewrath**.
-- **侦测恶魔:** Rendered as **Sense Demons** (warlock spell).
-- **化身:** Rendered as **Avatar form** (Grede's Wildhammer shaman power-up).
-- **活化熔岩:** Rendered as **living magma** (animated magma creatures).
-- **灵魂链接:** Rendered as **Soul Link** (warlock spell).
-- **耐克鲁斯 (Nekros):** The Demon Soul-wielding Dragonmaw orc. Transliterated as Nekros.
-- POV: third person throughout. Jace's inner monologue kept casual and self-deprecating.

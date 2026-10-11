@@ -2,19 +2,19 @@
 
 There was probably nothing in the entire Twisting Nether better at tracking arcane sources than a felhound. Not even high elves, not even eredar.
 
-Dazharm VI darted left and right between the shelves without hesitation, moving on four clawed legs. Jace had to sprint to keep up.
+Dazarm VI darted left and right between the shelves without hesitation, moving on four clawed legs. Jace had to sprint to keep up.
 
-The labyrinth of shelves had already been mapped in Dazharm VI's mind. Before long, it led the two of them bursting through a doorway into a wide circular hall.
+The labyrinth of shelves had already been mapped in Dazarm VI's mind. Before long, it led the two of them bursting through a doorway into a wide circular hall.
 
 It resembled Dalaran's cylindrical main library, but even more spectacular. Countless books were arranged in neat rings that made your eyes blur just looking at them.
 
-This seemed to be the same skyhall from the game where Aran's shade appeared. But different — the ceiling was pitch black, no sign of a roof.
+This seemed to be the same hall from the game where the Shade of Aran appeared. But different — the ceiling was pitch black, no sign of a roof.
 
 Jace slowly lowered his gaze, over the astral patterns circling the floor. In a corner on the other side of the hall, sure enough, there sat a spectral mage in blue-purple robes.
 
 He was surrounded by a mess of scattered books. Even as a shade, you could see his disheveled white hair and beard. Right now the old mage was frantically rummaging through books on the floor, occasionally twitching impatiently at the creaking sounds of shelves shifting outside.
 
-This was Nielas Aran. Jace had seen his portrait in the Wizard Sanctum. The old mage's features were nearly identical to the painting, just much older.
+This was Nielas Aran. Jace had seen his portrait in the Wizard's Sanctum. The old mage's features were nearly identical to the painting, just much older.
 
 He was a strikingly handsome man. Even this old, even in a rough mental state, his charm was hard to miss. Jace was sure that whatever the nature of the relationship between Aegwynn and this man, he hadn't been chosen as her husband at random.
 
@@ -22,7 +22,7 @@ He was a strikingly handsome man. Even this old, even in a rough mental state, h
 
 "I hope you weren't drawn here by the commotion over there. There's been some small trouble... same as before. But it's no real threat. And that hound — don't take my shouting too seriously. I won't really mourn it. After all, out with the old, in with the new..."
 
-The old mage's shade kept muttering to himself. Morofil watched their surroundings, occasionally glancing up into the depths of the ceiling. Dazharm VI took a step forward as if to attack, but Jace quietly called it off.
+The old mage's shade kept muttering to himself. Morophil watched their surroundings, occasionally glancing up into the depths of the ceiling. Dazarm VI took a step forward as if to attack, but Jace quietly called it off.
 
 Khadgar wasn't here. Jace looked back at the entrance to the hall. Outside had become a vague darkness lit only by faint blue arcane glow — shelves, bricks, pillars, objects on the floor, all blurred beyond recognition.
 
@@ -42,7 +42,7 @@ The shade suddenly trembled and turned toward him.
 
 "I can hear it in your accent. A Brill man." Aran pushed himself up from his knees. "You're not a Kirin Tor spy."
 
-"I'm a member of the Wizard Sanctum." Jace extended his hand. "And a court mage to the King of Stormwind."
+"I'm a member of the Wizard's Sanctum." Jace extended his hand. "And a court mage to the King of Stormwind."
 
 "I've never seen you before." Aran squinted at the rings on the warlock's hand from a distance. "You look very young. Not much older than my son. What qualifies you to be part of the royal mage corps? The nerve to break into Karazhan and ask me that question?"
 
@@ -56,7 +56,7 @@ Jace continued, "We came to Karazhan to reactivate the tower's security measures
 
 "Reactivate security measures?" The mage's voice suddenly turned sharp. "Are you saying the tower has lost control? That it's been harming the nearby residents? Nonsense! My wife and son have kept this place perfectly managed for decades — centuries! And the tower was built to suppress the dark power beneath it. It will continue to fulfill its duty, as long as I still live..."
 
-"He's just like the ghosts, master. He knows nothing of what happened later," Morofil quietly reminded.
+"He's just like the ghosts, master. He knows nothing of what happened later," Morophil quietly reminded.
 
 Jace had a different view. The old mage's shade was indeed confused and lagging in his awareness of the outside world. But he did seem to know something about what had been happening in this tower recently.
 
@@ -68,7 +68,7 @@ He took two steps forward. "Take your corrupt servants and get out of this tower
 
 "I need to find Master Khadgar first," Jace said.
 
-"Master? You mean that Violet Eye spy..." The archmage laughed softly. "Since when does the Wizard Sanctum grovel to the Kirin Tor?!"
+"Master? You mean that Violet Eye spy..." The archmage laughed softly. "Since when does the Wizard's Sanctum grovel to the Kirin Tor?!"
 
 "He will stay here to be punished, like countless of his predecessors. I trust the Kirin Tor can bear this loss — otherwise, they wouldn't keep sending people to trespass on my son's domain. As for you."
 
@@ -76,7 +76,7 @@ He lowered his eyes slightly, confirming Jace had no intention of leaving. Then 
 
 "I'm not here to fight you, Master." Jace said. "If you could believe we came to—"
 
-"Enough. Spare me your self-righteous speeches." Nielas Aran rolled his neck, looking at Dazharm VI. "Many demons, many rogue warlocks have tried to use felhounds to chase down our counter-mages. I've encountered them many times myself, young man. But not one of those felhounds could fly."
+"Enough. Spare me your self-righteous speeches." Nielas Aran rolled his neck, looking at Dazarm VI. "Many demons, many rogue warlocks have tried to use felhounds to chase down our counter-mages. I've encountered them many times myself, young man. But not one of those felhounds could fly."
 
 "I wonder. Can yours?"
 
@@ -90,10 +90,10 @@ Suddenly he grew light on his feet. His whole body went flying upward. The felho
 
 No — they were falling. The library had been flipped upside down! Or... had they actually been standing on the ceiling this whole time?!
 
-Jace watched the astral patterns shrink rapidly beneath him. He shadow-stepped sideways, but arcane currents dragged him back to the center. Morofil beat her wings with all her strength, reaching for him — only to be slowed by arcane slow spells wrapping around her, unable to get close.
+Jace watched the astral patterns shrink rapidly beneath him. He shadow-stepped sideways, but arcane currents dragged him back to the center. Morophil beat her wings with all her strength, reaching for him — only to be slowed by arcane slow spells wrapping around her, unable to get close.
 
 At the same time, arcane anomalies began emerging from gaps between the shelves. The roar of arcane power rose like a tide. Countless tomes, torn loose by the inversion of gravity, flapped their covers as they flew into the center, swarming like a flock of carrion birds.
 
-The archmage's laughter echoed from below. Jace gripped his cloak tight and roared, "Lord Olastraz! I don't have thirty seconds!"
+The archmage's laughter echoed from below. Jace gripped his cloak tight and roared, "Lord Olastrasz! I don't have thirty seconds!"
 
 As he shouted, the cloak fluttering in the wind grew redder and redder, until it burst into flame.

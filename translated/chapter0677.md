@@ -6,27 +6,27 @@ Back at the rental house that night, Jace changed his clothes and looked over to
 
 "Go ahead, Master." Sazeno was the first to poke his head out from under the bed and scramble nimbly onto the table. "I'll tell you everything I know!"
 
-"How do you subdue a Voidwalker?" Jace asked.
+"How do you subdue a voidwalker?" Jace asked.
 
 "Voidwalker," the imp said. "Master can just use the Enslave Demon spell to forcibly control it!"
 
 "I mean binding one with a contract, like you two," Jace said.
 
-"You need to defeat it with Shadow magic, Master," Morophil said. "Powerful Shadow magic can disrupt a Voidwalker's existence, making it submit to the summoner's power. Soon it will be drawn to the summoner's dark side and become its servant… obeying its orders."
+"You need to defeat it with Shadow magic, Master," Morophil said. "Powerful Shadow magic can disrupt a voidwalker's existence, making it submit to the summoner's power. Soon it will be drawn to the summoner's dark side and become its servant… obeying its orders."
 
 "That shouldn't be hard for Master," the imp said. Simple-sounding enough, but how about in practice?
 
-At the very least, this shouldn't have been an easy target for his Dagger Society colleagues — otherwise they wouldn't have kept that Voidwalker sealed inside for so long.
+At the very least, this shouldn't have been an easy target for his Dagger Society colleagues — otherwise they wouldn't have kept that voidwalker sealed inside for so long.
 
 Jace had a feeling the Chain of Will's power probably needed a stronger target to properly test. A Felguard, for example. But that would probably have to wait until after he came back from Quel'Thalas.
 
-By next year, once everything had settled, he planned to set out for Moonbrook again, see Mosh'aru, and have a talk with him about that greater demon — find out what exactly he was trying to summon.
+By next year, once everything had settled, he planned to set out for Moonbrook again, see Mor'zul, and have a talk with him about that greater demon — find out what exactly he was trying to summon.
 
 And then there was the doomguard. If he wanted to get to the bottom of the Ulthalesh leads, mastering the Ered'ruin language was a must.
 
-From the whispers drifting around Stormwind to the latest news passed around the basement of the Slaughtered Lamb, Jace had the feeling Mosh'aru still hadn't achieved his goal. It had been dragging on for over a year now. Mosh'aru should have been even more anxious than before, and Jace himself had far stronger chips to bargain with than back then — it'd be easier to take control of the situation.
+From the whispers drifting around Stormwind to the latest news passed around the basement of the Slaughtered Lamb, Jace had the feeling Mor'zul still hadn't achieved his goal. It had been dragging on for over a year now. Mor'zul should have been even more anxious than before, and Jace himself had far stronger chips to bargain with than back then — it'd be easier to take control of the situation.
 
-Compared to summoning a Felguard, a brute of a soldier, summoning an Ered'ruin — a terrifying Shadow manipulator — was several times more dangerous. Lost in thought, Morophil had already crawled onto the bed and was gently draping herself across Jace's chest.
+Compared to summoning a felguard, a brute of a soldier, summoning an Ered'ruin — a terrifying Shadow manipulator — was several times more dangerous. Lost in thought, Morophil had already crawled onto the bed and was gently draping herself across Jace's chest.
 
 Yes, at least he still had Morophil's help…
 
@@ -108,12 +108,14 @@ He tried to feel the nature radiating from the surrounding Shadow — chaotic, d
 
 This groping, combined with the chanting in Demonic, was burning through his mana badly, but he felt he was getting close to the critical point of harmonizing with it — and he didn't want to give up…
 
-Suddenly Jace felt a darkness suddenly seize his body — but it vanished in an instant, leaving only a tremor.
+Suddenly Jace felt a darkness seize his body — but it vanished in an instant, leaving only a tremor.
 
 The already-ethereal Shadow billowed out a wave of black mist in the wake of that tremor, and the flame of the candle before him was snuffed out in one blow.
 
 "I knew Master could do it," Morophil said.
 
-"Still a long way from truly doing it!" Sazeno said. "Getting into Shadow is one thing — moving within Shadow is another!" Morophil was silent a moment, then said, "That's true."
+"Still a long way from truly doing it!" Sazeno said. "Getting into Shadow is one thing — moving within Shadow is another!"
+
+Morophil was silent a moment, then said, "That's true."
 
 Jace took a few deep breaths to steady himself. "Let's not try anymore tonight. I need a good night's sleep, and I'll practice more later."

@@ -2,11 +2,11 @@
 
 Tirion Fordring was coming too?
 
-In another timeline, he would become the leader of the fortress that would counterattack the Lich King — the leader of Icecrown Citadel. He didn't have Ashbringer yet, but as one of the founders of the Silver Hand, he was absolutely a paladin of formidable skill.
+In another timeline, he would become the leader of the crusade that struck back at the Lich King — the man who led the assault on Icecrown Citadel. He didn't have Ashbringer yet, but as one of the founders of the Silver Hand, he was absolutely a paladin of formidable skill.
 
-The last time Jace had heard news of him was during the search for Dar'Khan's accomplices in Eastern Weald. Back then, most people still sympathized with the lord of Hearthglen, who'd been ambushed by orcs. Now Jace was back from Draenor, and Tirion had already been labeled an orc sympathizer because of his connection to them.
+The last time Jace had heard news of him was during the search for Dar'Khan's accomplices in the Eastweald. Back then, most people still sympathized with the lord of Hearthglen, who'd been ambushed by orcs. Now Jace was back from Draenor, and Tirion had already been labeled an orc sympathizer because of his connection to them.
 
-In another timeline, Tirion Fordring was eventually stripped of his title and expelled from the Silver Hand for attacking Alliance soldiers while protecting his orc friend. But here, King Terenas had clearly given him a chance to restore his honor by killing orcs. And as the leader of the Lordaeron Alliance, sending a lord of such high standing to the final battle of the Orc Wars showed enough sincerity. Varian had no reason to complain. It was making the best use of available resources.
+In another timeline, Tirion Fordring was eventually stripped of his title and expelled from the Silver Hand for attacking Alliance soldiers while protecting his orc friend. But here, King Terenas had clearly given him a chance to restore his honor by killing orcs. And as the leader of the Alliance of Lordaeron, sending a lord of such high standing to the final battle of the Orc Wars showed enough sincerity. Varian had no reason to complain. It was making the best use of available resources.
 
 But now, even though the Alliance internally wasn't exactly enthusiastic about besieging Blackrock Spire to permanently end the Orc Wars, they'd still assembled a lineup that was impressive enough: the lord of Hearthglen, Turalyon and Alleria, Ranger Nathanos Marris, Khadgar of the Kirin Tor, the two Trollbanes, and the leaders of the Wildhammer and Bronzebeard clans — Muradin and Kurdran.
 
@@ -16,11 +16,11 @@ Of course, you couldn't ignore that this time the enemy wasn't just the orcish H
 
 Nefarian couldn't be unaware of the Alliance's movements. The shrinking orc presence on the Burning Steppes made that clear. And as Deathwing's son, he couldn't be ignorant of what Medivh's student meant. He couldn't be unaware of the fighting power of the Sons of Lothar. With the Molten Core destroyed, he must understand what it meant for the Three Hammers to unite. Let alone Jace and his crew.
 
-"So I just don't understand, Your Majesty — why is that Black Dragon still daring to stay in that tower, unruffled?" Prince Galen Trollbane, whose build was even slightly larger than Jace's, was pacing back and forth inside the tent. Compared to when Jace had first met him at the Pig and Whistle Inn eight years ago, the prince looked much more mature. His full auburn beard, deep-set eyes, and prominent brow ridge all indicated he'd fully inherited the robust bloodline of the ancient Arathi Highlands from two thousand years ago.
+"So I just don't understand, Your Majesty — why is that black dragon still daring to stay in that tower, unruffled?" Prince Galen Trollbane, whose build was even slightly larger than Jace's, was pacing back and forth inside the tent. Compared to when Jace had first met him at the Pig and Whistle Tavern eight years ago, the prince looked much more mature. His full auburn beard, deep-set eyes, and prominent brow ridge all indicated he'd fully inherited the robust bloodline of the ancient Arathi Highlands from two thousand years ago.
 
 "Perhaps he's already flown away... leaving the orcs behind to stall us and buy time for evacuating the dragon eggs."
 
-"I don't think so. I've been investigating the situation around Blackrock Mountain recently. A large-scale retreat like that would have leaked word or at least left traces." Vaelastrasz took out the orc limb wrapped in enchanted cloth and placed it on the table. "Jace Sesso and I discovered something unusual in Blackrock Mountain, ladies and gentlemen. It may be related to why the Black Dragon still has the nerve to hold Blackrock Spire."
+"I don't think so. I've been investigating the situation around Blackrock Mountain recently. A large-scale retreat like that would have leaked word or at least left traces." Vaelastrasz took out the orc limb wrapped in enchanted cloth and placed it on the table. "Jace Sesso and I discovered something unusual in Blackrock Mountain, ladies and gentlemen. It may be related to why the black dragon still has the nerve to hold Blackrock Spire."
 
 "Necromancy," a nearby priest muttered.
 
@@ -28,13 +28,13 @@ Nefarian couldn't be unaware of the Alliance's movements. The shrinking orc pres
 
 "The necromantic plague in southern Elwynn has been receding, Prince Galen," Varian said. "And I don't think the plague there could affect the area north of Lake Everstill."
 
-"Then it's death knights," Prince Galen said, looking at the red dragon. "The Black Dragon Aspect once coordinated with death knights to raid the kingdoms of Alterac and Dalaran, stealing artifacts. I know about that. And Teron Gorefiend has visited Blackrock Spire before, meeting with Blackhand's two sons... asking for their help in stealing the three artifacts. I believe there must be some vile exchange between them, and this dead orc's hand is proof of that."
+"Then it's death knights," Prince Galen said, looking at the red dragon. "The black dragon Aspect once coordinated with death knights to raid the kingdoms of Alterac and Dalaran, stealing artifacts. I know about that. And Teron Gorefiend has visited Blackrock Spire before, meeting with Blackhand's two sons... asking for their help in stealing the three artifacts. I believe there must be some vile exchange between them, and this dead orc's hand is proof of that."
 
-"I can only say that possibility can't be ruled out," Vaelastrasz said. "If Nefarian truly intends to release a necromantic plague, it could bring a terrible disaster upon the besieging troops. Considering how enclosed Blackrock Mountain is inside, and with the Fire Lord Ragnaros's flames gone, without the burning heat to suppress it, necromancy will only become more rampant."
+"I can only say that possibility can't be ruled out," Vaelastrasz said. "If Nefarian truly intends to release a necromantic plague, it could bring a terrible disaster upon the besieging troops. Considering how enclosed Blackrock Mountain is inside, and with the Firelord Ragnaros's flames gone, without the burning heat to suppress it, necromancy will only become more rampant."
 
-"Thank you for the warning, Master Vieran." Varian stared grimly at the severed hand — half-burned, half-rotted. "When Lord Tirion Fordring arrives in Redridge, I trust the knights of the Silver Hand will have ways of dealing with necromancy."
+"Thank you for the warning, Master Vaelan." Varian stared grimly at the severed hand — half-burned, half-rotted. "When Lord Tirion Fordring arrives in Redridge, I trust the knights of the Silver Hand will have ways of dealing with necromancy."
 
-"Rest assured, Your Majesty," Prince Galen said. "Stromgarde's soldiers have encountered Gul'dan's forces many times in the Hillsbrad Foothills, the Hinterlands, and around Lake Lordamere. Our experience fighting death knights may even surpass that of the Silver Hand and the Kirin Tor. The gryphon riders of Aerie Peak have fought alongside us — they know this well."
+"Rest assured, Your Majesty," Prince Galen said. "Stromgarde's soldiers have encountered Gul'dan's forces many times in the Hillsbrad Foothills, the Hinterlands, and around Lordamere Lake. Our experience fighting death knights may even surpass that of the Silver Hand and the Kirin Tor. The gryphon riders of Aerie Peak have fought alongside us — they know this well."
 
 "I will tell my soon-to-arrive brother and the priests about this severed hand and the necromancy. The crimson knights, bathed in the Holy Light, will not fear these vile necromantic spells." The prince patted the Stromgarde fist emblem on the chest of a guard knight behind him. "The Black Dragonflight is on its last legs. The Arathi will deliver the killing blow."
 
@@ -46,9 +46,9 @@ After the brief meeting, Prince Galen left the tent with his knight escort. Vari
 
 "I can see Prince Galen Trollbane's eagerness to prove his ability," Vaelastrasz said. "But I believe it's wise to proceed cautiously until we understand these strange necromantic traces, Your Majesty."
 
-"I trust General Danath shares your view, Master Vieran. He'll remind Prince Galen," Varian said.
+"I trust General Danath shares your view, Master Vaelan. He'll remind Prince Galen," Varian said.
 
-The red dragon said, "I'll return to Blackrock Spire immediately to monitor the Black Dragon's movements and investigate the necromancy leads. I'll contact this watch post or Shadowforge City as soon as I find anything."
+The red dragon said, "I'll return to Blackrock Spire immediately to monitor the black dragon's movements and investigate the necromancy leads. I'll contact this watch post or Shadowforge City as soon as I find anything."
 
 "Thank you, Master," Varian said.
 
@@ -58,7 +58,7 @@ The red dragon said, "I'll return to Blackrock Spire immediately to monitor the 
 
 "I need to get to the Tower of Ilgalar as well," Jace said.
 
-"It's already late, Jace," Varian said. "We're a bit short on gryphons right now. The ones still in the roost have been flying for days without rest. If you leave immediately, you'd have to go by horse. And you look tired from the journey with Master Vieran. You could rest here tonight and leave by gryphon in the morning — much faster than going by horse now."
+"It's already late, Jace," Varian said. "We're a bit short on gryphons right now. The ones still in the roost have been flying for days without rest. If you leave immediately, you'd have to go by horse. And you look tired from the journey with Master Vaelan. You could rest here tonight and leave by gryphon in the morning — much faster than going by horse now."
 
 "Fair enough," Jace said.
 
@@ -66,7 +66,7 @@ Considering that Jace had two demons with him, plus a collection of dark magical
 
 He was supposed to rest, but sleeping was difficult. His mind kept going back to those strange orc corpses.
 
-"Are you certain those corpses have nothing to do with Eredar or Nathrezim?"
+"Are you certain those corpses have nothing to do with eredar or Nathrezim?"
 
 "Like I said, master," Morophil said. "Considering that Gul'dan was also Kil'jaeden's student, and the Nathrezim might have been involved in Gul'dan's death knight project... it's hard to say for sure. I can only say the signs aren't clear enough."
 

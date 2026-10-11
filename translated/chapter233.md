@@ -10,7 +10,7 @@ Jace asked, "You just want to know where Vereesa's staying, don't you?"
 
 "You think I'm interested in some white-haired little girl?" Grede said. "Come on, drop off your things and let's go."
 
-Jace shook his head. "Forget it. I'm not bringing those papers into the Mage Quarter. One slip-up and we're both finished. I was on tenterhooks enough back at Westfall Keep at midday."
+Jace shook his head. "Forget it. I'm not bringing those papers into the Mage Quarter. One slip-up and we're both finished. I was on tenterhooks enough back at Westbrook Garrison at midday."
 
 "So what's your plan?" the dwarf said.
 
@@ -20,7 +20,7 @@ Jace shook his head. "Forget it. I'm not bringing those papers into the Mage Qua
 
 Jace immediately pulled out all the papers and spread them in front of the dwarf. "Make a copy? You think I can copy a set of these in one night? These densely packed runes?! If I had that kind of skill I'd go apply at the Stormwind Library directly, instead of risking my life out here in the wind and rain for copper?"
 
-Grede looked over the papers again. "Fine... tomorrow noon I'll wait for you by the Wizard Sanctum."
+Grede looked over the papers again. "Fine... tomorrow noon I'll wait for you by the Wizard's Sanctum."
 
 "What about those coins, the orcish currency?" Jace eyed Grede's bag.
 
@@ -50,21 +50,21 @@ To keep the blade from slashing through the pack or whatever, he and Grede had c
 
 "What is this thing?" Jace asked.
 
-"A Thorzrezim stiletto," the imp said. "Easy to tell even from here — just look at the shape, that's the weapon profile of those black fiends. It's like a ritual stiletto — the crossguard is shaped like two fang-bat fangs!"
+"A Tothrezim stiletto," the imp said. "Easy to tell even from here — just look at the shape, that's the weapon profile of those black fiends. It's like a ritual stiletto — the crossguard is shaped like two fang-bat fangs!"
 
-"I know what Nathrezim are. What the hell are Thorzrezim?" Jace asked.
+"I know what Nathrezim are. What the hell are Tothrezim?" Jace asked.
 
-The imp said, "Ah, they're the Nathrezim's loyal servants... the messengers they send to every corner of the Twisting Nether to deliver orders and carry out commands... I've seen these black devils streaking across the sky on Nastoi! They're far more savage and violent than their masters. Their wings aren't like fleshy wings — they're more like two giant meat hooks, covered in magical runes of the Nathrezim tongue. Every one of them carries a razor-sharp stiletto or a fearsome razor! The creatures are like the bastard offspring of an ugly Nathrezim raping the ghost-king Yarozbal! Haha!"
+The imp said, "Ah, they're the Nathrezim's loyal servants... the messengers they send to every corner of the Twisting Nether to deliver orders and carry out commands... I've seen these black devils streaking across the sky on Nastoi! They're far more savage and violent than their masters. Their wings aren't like fleshy wings — they're more like two giant meat hooks, covered in magical runes of the Nathrezim tongue. Every one of them carries a razor-sharp stiletto or a fearsome razor! The creatures are like the bastard offspring of an ugly Nathrezim raping the Imp King Yarozbal! Haha!"
 
-That description made Jace a little uncomfortable. He held up the sword. "Why are there no Thorzrezim on Azeroth?"
+That description made Jace a little uncomfortable. He held up the sword. "Why are there no Tothrezim on Azeroth?"
 
-The imp grinned. "There aren't! They're nowhere near as powerful as their masters — perhaps they don't dare show themselves outside the demons' domain, afraid of exposing their master's trail... Forget it, I'm just talking out of my hat — I wouldn't presume to guess their master's thoughts, heheh! But since they were willing to hand a weapon like this to a death knight, it means the orcs' ghosts have already taken over the Thorzrezim's duties, as far as they're concerned..."
+The imp grinned. "There aren't! They're nowhere near as powerful as their masters — perhaps they don't dare show themselves outside the demons' domain, afraid of exposing their master's trail... Forget it, I'm just talking out of my hat — I wouldn't presume to guess their master's thoughts, heheh! But since they were willing to hand a weapon like this to a death knight, it means the orcs' ghosts have already taken over the Tothrezim's duties, as far as they're concerned..."
 
 "So is this sword... sturdy?"
 
 Jace swung it around a bit. Even though the imp had described the weapon as something like a dagger, it was actually longer than any dagger he'd ever seen — even longer than the long dagger that death knight in Dalaran had carried.
 
-Probably because the so-called Thorzrezim were much larger than humans, so what they carried as a ritual dagger was about the size of a shortsword in human hands.
+Probably because the so-called Tothrezim were much larger than humans, so what they carried as a ritual dagger was about the size of a shortsword in human hands.
 
 "Sturdy?" The imp laughed twice. "Master, are you questioning the weapon-crafting demons' manufacturing standards?"
 
@@ -92,7 +92,7 @@ He stood at the door for a while, then thought about having to deal with Grede's
 
 So what to do now?
 
-Ersula's potions had all been used up. Jace planned to head back to the Slaughtered Lamb and ask her if she could spare some more.
+Ursula's potions had all been used up. Jace planned to head back to the Slaughtered Lamb and ask her if she could spare some more.
 
 It wasn't until he was nearly to the hall that he felt this might not be appropriate.
 
@@ -102,13 +102,13 @@ Honestly, if not for the money looted from those bandits and the cash from fenci
 
 But they'd known that going in. If they hadn't counted on finding some extra profit hunting Hogger, the two of them would never have set out in the first place.
 
-In the dim hall lit by only the faintest glow, Erland and Sulenna sat in a corner drinking.
+In the dim hall lit by only the faintest glow, Erlan and Surena sat in a corner drinking.
 
-"Jace Sesso, welcome back." Erland waved him over. "Ersula told us you'd come back — at first I thought the fumes had cooked her brain."
+"Jace Sesso, welcome back." Erlan waved him over. "Ursula told us you'd come back — at first I thought the fumes had cooked her brain."
 
-"I came looking for Ersula a few days ago. You two weren't around," Jace said, thinking: this guy really doesn't hold a grudge. One fight and he's already forgotten.
+"I came looking for Ursula a few days ago. You two weren't around," Jace said, thinking: this guy really doesn't hold a grudge. One fight and he's already forgotten.
 
-"Jace, I actually missed you a little these past couple weeks — welcome back," Sulenna said with a smile.
+"Jace, I actually missed you a little these past couple weeks — welcome back," Surena said with a smile.
 
 "Thanks!"
 
@@ -116,28 +116,8 @@ Jace could tell the two of them were probably already drunk.
 
 Just then, someone emerged from another passage.
 
-It was "Blackclaw Galders." He was wearing a thick outer robe as if about to head out. He raised an eyebrow when he saw Jace.
+It was Zardeth of the Black Claw. He was wearing a thick outer robe as if about to head out. He raised an eyebrow when he saw Jace.
 
-Before he could speak, Sulenna called from over there, "You're not going to let Jace try that strange incantation, Galders? I remember you and Jagin talking about it."
+Before he could speak, Surena called from over there, "You're not going to let Jace try that strange incantation, Zardeth? I remember you and Gakin talking about it."
 
-"Of course we're going to try it. Jace, you interested?" Galders took his robe back off and hung it up.
-
-## Flags
-
-- **新玩意** → "Something New": chapter title. Covers Jace's return to Stormwind, the Thorzrezim stiletto, and the set-up for the mysterious incantation. Flag if a more specific title is preferred.
-- **托斯雷兹姆** → "Thorzrezim": not in glossary; a demon race described as the Nathrezim's messengers/servants in the Twisting Nether. Tentative romanization. Flag for review/standardization.
-- **纳斯托伊** → "Nastoi": not in glossary; a place (world/realm) the imp claims to have seen Thorzrezim flying. Tentative romanization. Flag for review.
-- **鬼王亚罗兹巴尔** → "the ghost-king Yarozbal": not in glossary; a demon name the imp invokes in a crude joke. Tentative romanization. Flag for review.
-- **纳斯雷兹姆** → "Nathrezim": canonical dreadlord race, in glossary.
-- **扭曲虚空** → "Twisting Nether": canonical demonic dimension, in glossary.
-- **古拉巴什金币** → "Gurubashi gold coin": canonical Zul'Gurub currency, referenced in passing; Gurubashi in glossary.
-- **厄苏拉** → "Ersula": alchemist/warlock at the Slaughtered Lamb, in glossary (also rendered Ursula).
-- **埃尔兰** → "Erland": warlock, in glossary.
-- **苏伦娜** → "Sulenna": warlock, in glossary.
-- **加尔德斯** → "Galders": warlock "Blackclaw," in glossary.
-- **加金** → "Jagin": warlock, in glossary.
-- **已宰的羔羊** → "the Slaughtered Lamb": secret warlock tavern, in glossary.
-- **温蕾萨** → "Vereesa Windrunner": not in glossary; youngest Windrunner sister (canonical).
-- **阿塞尔温·金刺** → "Aselwen Goldthorn": not in glossary; elven ranger staying at Jace's apartment, OC, tentative romanization.
-- **"黑爪加尔德斯"** → "Blackclaw Galders": Galders's nickname, in glossary.
-- **箭眼** → "arrow-hole": the hole in Jace's robe from a previous encounter.
+"Of course we're going to try it. Jace, you interested?" Zardeth took his robe back off and hung it up.

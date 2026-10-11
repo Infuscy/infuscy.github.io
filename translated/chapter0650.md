@@ -1,8 +1,8 @@
 ## Chapter 650: The Narrowing Path
 
-Heading south from Tol'ronar, Jace had left the forest behind and entered an utterly unfamiliar mountain hollow by the time the trees ran out.
+Heading south from Tol'rona, Jace had left the forest behind and entered an utterly unfamiliar mountain hollow by the time the trees ran out.
 
-Grede had been right. Just gazing out at these layered peaks — the so-called Bator range — Jace could feel the shadow power still clinging to the mountains. There was no question: the place ahead where the darkness hung thickest had to be Grim Batol. Probably only orcs who'd drunk demon blood could have lived in a place like this for so many years.
+Grede had been right. Just gazing out at these layered peaks — the so-called Batol range — Jace could feel the shadow power still clinging to the mountains. There was no question: the place ahead where the darkness hung thickest had to be Grim Batol. Probably only orcs who'd drunk demon blood could have lived in a place like this for so many years.
 
 Ever since dreaming of Krasus's prison, Jace had been turning over what to do next.
 
@@ -22,7 +22,7 @@ She was right there at Grim Batol, closest to the scene. If she could rally the 
 
 After that, it'd be a race to see who flew fastest. Jace guessed the Spell-Weaver, Malygos, would arrive first — after all, as the most powerful arcane manipulator in the world, he probably didn't even need to physically fly.
 
-If the Bronze Dragon Aspect, Nozdormu, was willing, he'd likely show up fast too — maybe even faster than the Blue Dragon King, though Jace didn't know if he could actually travel through time.
+If the bronze Aspect, Nozdormu, was willing, he'd likely show up fast too — maybe even faster than the blue Aspect, though Jace didn't know if he could actually travel through time.
 
 As for the Dreamer, Ysera… Jace had no idea what kind of power she'd bring to the fight, but however long it took her to arrive, as long as three Aspects with their restored power stood together, even if they couldn't kill Deathwing outright, they should at least be able to drive him back.
 
@@ -36,7 +36,7 @@ Even grievously wounded as he was, Deathwing remained the most powerful of all t
 
 Jace would be living with a black dragon's vendetta from here on out, but at least he'd survive this crisis. Anything else could wait — assuming he was still alive to worry about it.
 
-If he was really going with this plan, two major problems stood in front of him. The first: would the Blue Dragon and the Bronze Dragon even come?
+If he was really going with this plan, two major problems stood in front of him. The first: would the blue Aspect and the bronze Aspect even come?
 
 Even with their Aspect power restored, given the state those two were in, Jace couldn't be sure they'd show up here immediately.
 
@@ -60,7 +60,7 @@ The specific details were fuzzy, but Jace had the impression that in the novels,
 
 The funny thing was, Jace didn't know whether this brand Deathwing had placed on him could destroy the Demon Soul either. He could only try. And this situation counted as desperate enough, didn't it?
 
-This world couldn't keep throwing nothing but obstacles in his path without a single positive coincidence, could he think. He remembered the gnome in Stormwind who'd fixed his pocket watch for him.
+This world couldn't keep throwing nothing but obstacles in his path without a single lucky coincidence, could it? he thought. He remembered the gnome in Stormwind who'd fixed his pocket watch for him.
 
 — Trust your own choice, Mr. Sesso. Was he a bronze dragon?
 

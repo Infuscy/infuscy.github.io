@@ -12,7 +12,7 @@ Morophil, on the other hand, showed no reaction at all. She walked all the way f
 
 This was a lava cave. The deep pit inside had a light source — black dragonkin loved hiding in places like this.
 
-Jace bit his steel and was about to walk straight in, but the exaggerated temperature inside stung his eyes shut. The lava cave was simply too hot. Jace couldn't even begin to gauge the temperature inside, since anything above forty or fifty degrees was already beyond his frame of reference.
+Jace gritted his teeth and was about to walk straight in, but the exaggerated temperature inside stung his eyes shut. The lava cave was simply too hot. Jace couldn't even begin to gauge the temperature inside, since anything above forty or fifty degrees was already beyond his frame of reference.
 
 All in all, he simply couldn't last a second in there. Had the Ronmeis father and son really come in here before? It was absurd…
 
@@ -94,7 +94,7 @@ When he made out Jace in front of him, he actually scrambled away in terror, cra
 
 The man heard the name, turned back, and asked in a choked voice, "My son? Who the hell are you?"
 
-"I'm a mage from the Wizard Sanctum." Jace held up his arm. "Do you see clearly what I am now? I came from Stormwind to rescue you."
+"I'm a mage from the Wizard's Sanctum." Jace held up his arm. "Do you see clearly what I am now? I came from Stormwind to rescue you."
 
 "I, I…" Henbury stopped in his tracks, rubbed his eyes vigorously, and said, "I felt like there was a demon in there… damn it…"
 
@@ -111,18 +111,3 @@ He pointed in the direction of the ravine. "You see it? At the bottom of that sl
 "Dragonkin?" Henbury asked anxiously. "What's a dragonkin… how did it catch my son? I have to save him, mage. You have to help me."
 
 Jace grabbed him by the collar and shook him hard. "Get a hold of yourself, damn it. I've already saved him. He's waiting for you down there right now."
-
-## Flags
-
-- **精神扰乱** → "Mental Disruption": chapter title. 精神 = mental/mind; 扰乱 = disruption/disturbance. Rendered as "Mental Disruption." Flag for glossary.
-- **熔岩洞** → "lava cave": not in glossary. The black dragonkin's hiding place. Flagged.
-- **光亮术** → "Light": mage cantrip. In glossary (光亮术 = Light).
-- **灵魂链接** → "Soul Link": implied — Morophil absorbs part of the damage Jace should have taken (the dagger wound becomes two shallow cuts instead of a puncture). Warlock spell. Not in glossary. Flagged.
-- **亨伯里·罗恩梅斯** → "Henbury Ronmeis": the father. Per ch.249.
-- **诅咒** → "curse": the shadow curse placed on Henbury by the dragonkin mage, causing him to see Jace as a demon and attack.
-- **巫师圣殿** → "Wizard Sanctum": in glossary.
-- **暴风城** → "Stormwind": short for Stormwind City. In glossary.
-- **龙人** → "dragonkin": per ch.148/210/237/291/292/293. In glossary as established usage.
-- **萨亚德** → "Sayad": demonic term for succubus-type demon (per ch.252).
-- **莫洛菲尔** → "Morophil": Jace's succubus. Per ch.241.
-- **奥术光亮** → "arcane light": Jace's Light spell illumination.

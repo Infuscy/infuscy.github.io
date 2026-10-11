@@ -2,7 +2,7 @@
 
 Flame affinity and being familiar with fire elementals were two different things.
 
-Jace only came to understand this after arriving in Ironforge, getting to know this Thorium Brotherhood fire-tender, and slowly learning the elemental tongue and how to converse with elementals.
+Jace only came to understand this after arriving in Ironforge, getting to know this Thorium Brotherhood pyromancer, and slowly learning the elemental tongue and how to converse with elementals.
 
 The Dragonqueen's blessing had granted Jace a remarkably powerful flame affinity. But that didn't mean he could quickly achieve mutual understanding with fire elementals and communicate without barriers.
 
@@ -14,7 +14,7 @@ If that was the case, he might as well just use the arcane to manipulate flame. 
 
 By comparison, the power of elementals was far too unreliable. No wonder Dalaran had no interest in the shamanistic path. Still, a simple attempt or two wasn't enough to prove anything.
 
-After all, the most powerful shamans could shake the seas, move mountains, summon the Firelord Ragnaros, or elemental lords as terrifying as Thunderaan, Prince of the Wind.
+After all, the most powerful shamans could shake the seas, move mountains, summon the Firelord Ragnaros, or elemental lords as terrifying as Thunderaan, Prince of Air.
 
 Giving up just because he'd cast a Flame Shock and summoned something like a fire barrier would be way too impatient.
 
@@ -22,7 +22,7 @@ Besides, for Jace, the arcane path was genuinely hard to walk.
 
 The next noon, Jace and Ruige went to a tavern outside. It was a tavern on the lowest level of Ironforge. Like the general character of this level, it was a bit dirty, cramped, and shabby — nothing at all like the cozy little taverns up in the inn district.
 
-And the dwarf customers sitting here mostly had stern expressions. Some could even been described as unfriendly.
+And the dwarf customers sitting here mostly had stern expressions. Some could even be described as unfriendly.
 
 During the time he'd been staying with this Dark Iron dwarf, Jace had almost forgotten about the man's skin color and hair color. But the moment they walked into the tavern, the Bronzebeards over there almost all glanced over in unison.
 
@@ -42,7 +42,7 @@ As he spoke, the Dark Iron dwarf caught sight of a dwarven woman appearing behin
 
 "And I'll take two black breads and a bowl of meat soup. Any meat is fine," he added to the barmaid. "I've heard Ironforge has a famous dish called haggis."
 
-"Haggis," Ruige said. "It's just sheep offal stewed with oats, with whatever spices are on hand. Nothing special. What's special about sheep guts? Dun Morogh isn't short on goats."
+"Haggis," Ruige said. "It's just sheep offal stewed with oats, with whatever spices are on hand. Nothing special. What's special about sheep guts? Dun Morogh isn't short on rams."
 
 "You think we can't understand Common?" a dwarf nearby asked sharply.
 
@@ -50,7 +50,7 @@ As he spoke, the Dark Iron dwarf caught sight of a dwarven woman appearing behin
 
 "The only reason you're allowed to set foot in Dun Morogh is because Magni Bronzebeard showed you special lenience!" a Bronzebeard dwarf reminded him.
 
-All at once, Jace hadn't even figured out what had happened. He'd originally thought the Bronzebeard dwarves were angry because Ruige had implied the dwarves of Ironforge were goats or something. Then he realized — it was because a Dark Iron dwarf had mentioned Dun Morogh.
+All at once, Jace hadn't even figured out what had happened. He'd originally thought the Bronzebeard dwarves were angry because Ruige had implied the dwarves of Ironforge were rams or something. Then he realized — it was because a Dark Iron dwarf had mentioned Dun Morogh.
 
 Then another dwarf said in Dwarvish, "Behave yourself, black chestnut!"
 
@@ -62,7 +62,7 @@ Two other dwarves off to the side were discussing something in low voices. Jace 
 
 The awkward atmosphere seemed hard to endure, but time passed quickly enough. The barmaid soon brought the ale and food.
 
-Ruige dipped his bread in the meat soup and ate. Since a single comment about goats had caused so much unpleasantness, Jace wasn't interested in sampling Ironforge's "haggis" either. He just ordered a portion of wild boar jerky and black bread and had a simple meal.
+Ruige dipped his bread in the meat soup and ate. Since a single comment about rams had caused so much unpleasantness, Jace wasn't interested in sampling Ironforge's "haggis" either. He just ordered a portion of wild boar jerky and black bread and had a simple meal.
 
 Ironforge's food was a bit on the sweet side and saltier than Stormwind's. After eating, his mouth always felt uncomfortable.
 

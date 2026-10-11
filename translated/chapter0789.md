@@ -1,26 +1,26 @@
 ## Chapter 789: Movements on the Other Side
 
-The next day, Jace went to the Dwarf District planning to find Grede for a meal and chat about Ironforge — only to find the guy wasn't home.
+The next day, Jace went to the Dwarven District planning to find Grede for a meal and chat about Ironforge — only to find the guy wasn't home.
 
-So he went to his own house by the canal and chatted with the dwarves handling the renovations. He learned that the big gryphon Gorkjet had apparently bullied some other gryphons again yesterday, and Grede had gone over by the walls to deal with it this morning.
+So he went to his own house by the canal and chatted with the dwarves handling the renovations. He learned that the big gryphon Gorjet had apparently bullied some other gryphons again yesterday, and Grede had gone over by the walls to deal with it this morning.
 
 Since he was busy, Jace didn't want to bother him.
 
-He'd look for him tomorrow. Today, he'd head to The Slaughtered Lamb and see how those people's summoning ritual circle practice was coming along.
+He'd look for him tomorrow. Today, he'd head to the Slaughtered Lamb and see how those people's summoning ritual circle practice was coming along.
 
-Jace had been memorizing the incantation for the Dominance summoning circle this whole time, and although that incantation was already quite long, he'd more or less memorized it.
+Jace had been memorizing the incantation for leading the summoning circle this whole time, and although that incantation was already quite long, he'd more or less memorized it.
 
-But he hadn't had a chance to actually draw a circle that large and complex for a real attempt. Without a circle, without a summoning target, and without two assistants at his side, there was no way to test whether he was capable of dominating a summoning circle.
+But he hadn't had a chance to actually draw a circle that large and complex for a real attempt. Without a circle, without a summoning target, and without two assistants at his side, there was no way to test whether he was capable of leading a summoning circle.
 
-As he passed the Wizard Sanctum's mage tower, he suddenly heard a familiar voice call out from behind him. "Jace… is that you?"
+As he passed the Wizard's Sanctum's mage tower, he suddenly heard a familiar voice call out from behind him. "Jace… is that you?"
 
 He turned around. It was Amy!
 
-She was wearing a light purple robe. Although there was no glaring Eye of the Arcane on it, the pendant hanging from her neck and the Kirin Tor ring on her finger were more than enough to identify her as one of the Kirin Tor.
+She was wearing a light purple robe. Although there was no glaring Violet Eye on it, the pendant hanging from her neck and the Kirin Tor ring on her finger were more than enough to identify her as one of the Kirin Tor.
 
 She looked even thinner than when they'd last met in Dalaran — especially with her hair pinned up from behind, fully exposing a neck that was thin to the point of looking unhealthy. She seemed much more frail.
 
-She'd completely shed the student air she'd had back at the Wizard Sanctum when she was an apprentice mage. She'd become a true mage.
+She'd completely shed the student air she'd had back at the Wizard's Sanctum when she was an apprentice mage. She'd become a true mage.
 
 "Amy…" Jace said in surprise. "What are you doing back?"
 
@@ -30,15 +30,15 @@ Amy smiled politely. "I felt it'd been a long time since I was last here. And I'
 
 "Not yet." Amy glanced at her pocket watch. "It's only eleven, isn't it? I'm still deciding what to have."
 
-Jace pointed toward the entrance of a tavern shaded by trees in the distance. "Then let's go grab a bite at the Blue Heron together? My treat."
+Jace pointed toward the entrance of a tavern shaded by trees in the distance. "Then let's go grab a bite at the Blue Recluse together? My treat."
 
-Amy raised an eyebrow. "I should be the one treating. I heard from my father that you're probably going to be spending a fortune on the Tower of Irigal."
+Amy raised an eyebrow. "I should be the one treating. I heard from my father that you're probably going to be spending a fortune on the Tower of Ilgalar."
 
 "I knew it — those old mages got together and planned to screw me over," Jace said with a theatrical sigh.
 
 "So I want to give you a tiny bit of compensation from him." Amy pinched her thumb and index finger together and smiled. "Come with me, Jace. It's been ages since we last had a meal together."
 
-Amy walked ahead, Jace followed, and they climbed the steps into the Blue Heron.
+Amy walked ahead, Jace followed, and they climbed the steps into the Blue Recluse.
 
 It wasn't lunchtime yet, but the place was already packed with young mages chatting animatedly over teacups or coffee cups.
 
@@ -66,7 +66,7 @@ The two of them each ordered a cup of floral tea, picked up some food, and carri
 
 Amy glanced at the top of Jace's head, then at the mages nearby, and said, "You really have gotten a lot taller, Jace. When we met in Dalaran, the contrast wasn't this striking. I envy you boys — still able to shoot up another big spurt when you're almost twenty. I haven't grown a single inch since I graduated from apprenticeship, and that was over ten years ago."
 
-"My growth isn't natural," Jace said honestly, taking a sip of the scalding hot tea. "It might be some side effect of the Life Drain drawing out black dragon's blood."
+"My growth isn't natural," Jace said honestly, taking a sip of the scalding hot tea. "It might be some side effect of the Drain Life drawing out black dragon's blood."
 
 "Feels like you can finally face that side of yourself that you've been hiding all this time," Amy said. "Earlier, I looked into a lot of historical records about shadow practitioners in Dalaran, and I found a rather interesting viewpoint. Some investigators in the Order of Tirisfal believed that the primary reason these so-called dark mages fell was often their own fear of their own power. Years of avoidance and concealment slowly shaped them into extreme personalities, which in turn accelerated the corruption of shadow magic. Shadow magic must be a form of power that's extremely susceptible to emotional influence — an utterly irrational force… very different from the arcane."
 
@@ -74,7 +74,7 @@ Amy glanced at the top of Jace's head, then at the mages nearby, and said, "You 
 
 Amy said with some surprise, "I heard that mages within the Order of Tirisfal proposed this idea many years ago, but the materials that studied shadow magic in such fine detail have all been sealed away by the Kirin Tor… Ah, damn it, should we talk about something more interesting? I feel like I've gotten too used to pondering these things."
 
-Jace watched the waiter bring over a sauce-red moon-plum cake and a croissant dusted with some kind of crushed nuts. "How is that not interesting, Amy? But I am curious — what interesting news has Dalaran had lately?"
+Jace watched the waiter bring over a sauce-red moonberry cake and a croissant dusted with some kind of crushed nuts. "How is that not interesting, Amy? But I am curious — what interesting news has Dalaran had lately?"
 
 "You mean, besides you, Vereesa Windrunner, and Grede Thunderfist defeating Deathwing at Grim Batol and rescuing the Dragonqueen?" Amy asked with a smile.
 
@@ -114,7 +114,7 @@ Hearing that, Amy raised her eyebrows slightly. "So that guarantee… that assur
 
 "Same here," Jace said.
 
-"Oh, right — there's one more thing I think you might find interesting," Amy said. "That magister from Quel'Thalas, Dar'Khan Drathis. Earlier, Lady Vereesa Windrunner came to me, hoping I could help keep an eye on his movements within the Kirin Tor. I agreed, though at first I thought I probably wouldn't be much help. But recently, I actually did learn something related to him. He's been making contact with members of the Violet Eye."
+"Oh, right — there's one more thing I think you might find interesting," Amy said. "That magister from Quel'Thalas, Dar'Khan Drathir. Earlier, Lady Vereesa Windrunner came to me, hoping I could help keep an eye on his movements within the Kirin Tor. I agreed, though at first I thought I probably wouldn't be much help. But recently, I actually did learn something related to him. He's been making contact with members of the Violet Eye."
 
 She touched her ring. "Not this symbol — an organization. It's called the Violet Eye."
 
@@ -122,15 +122,15 @@ At that, Amy looked around to make sure no one was paying attention to their con
 
 At that, Jace's mind turned over slightly, and he felt his heart hammer hard.
 
-After all, in another timeline, it was the treasure hunters of Karazhan who found Ursulas and brought her back to Karazhan.
+After all, in another timeline, it was the treasure hunters of Karazhan who found Ulthalesh and brought it back to Karazhan.
 
-If those treasure hunters had found Das'mora's left-behind orders in Eldre'Thalas, then they must later have found a way to decipher the Eredun language and learned the clues written on it.
+If those treasure hunters had found Dasmora's left-behind orders in Eldre'Thalas, then they must later have found a way to decipher the Ered'ruin language and learned the clues written on it.
 
-And the method for deciphering the Eredun language might very well be in Karazhan!
+And the method for deciphering the Ered'ruin language might very well be in Karazhan!
 
 After all, these treasure hunters had acted on Medivh's orders to search for treasures across the world. They would naturally have found it easier to acquire knowledge and seek methods in Medivh's tower. And the most mysterious, most profound grand library holding the most knowledge in the world was in Karazhan!
 
-Was Dar'Khan Drathis seeking the Violet Eye to gain a chance to enter Karazhan?
+Was Dar'Khan Drathir seeking the Violet Eye to gain a chance to enter Karazhan?
 
 "Jace?" Amy asked curiously. "What's wrong?"
 
@@ -140,4 +140,4 @@ Was Dar'Khan Drathis seeking the Violet Eye to gain a chance to enter Karazhan?
 
 Jace swallowed. His plan to head to Kalimdor couldn't be put off any longer. He needed to get in touch with Vereesa right away.
 
-He hoped Karazhan's twisted magic would just swallow Dar'han whole — that way, several foreseeable problems could be resolved without him lifting a finger. But he also knew he couldn't entrust his fate to the most unreliable, most unstable dark tower in the world.
+He hoped Karazhan's twisted magic would just swallow Dar'Khan whole — that way, several foreseeable problems could be resolved without him lifting a finger. But he also knew he couldn't entrust his fate to the most unreliable, most unstable dark tower in the world.

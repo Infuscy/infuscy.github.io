@@ -2,11 +2,11 @@
 
 "Great citizens of Shadowforge City, brave warriors, honorable councilors, and distinguished guests from Ironforge, Grim Batol, Stormwind, and Silvermoon..."
 
-As Dagran Thaurissan's voice rang out, the Anvil of the Dark Iron fell silent.
+As Dagran Thaurissan's voice rang out, the Black Anvil fell silent.
 
 "The War of the Three Hammers has carried on for far too long in practice. We have paid too heavy a price for conflicts that have dragged on since a thousand years ago."
 
-"Khaz Modan was once our home, and our race was among the finest in this world. But our endless infighting has not only driven us to decline — it has also allowed the orcs, the Black Dragons, the elementals, and the cultists and traitors who worship them to find their opportunity to strike."
+"Khaz Modan was once our home, and our race was among the finest in this world. But our endless infighting has not only driven us to decline — it has also allowed the orcs, the black dragons, the elementals, and the cultists and traitors who worship them to find their opportunity to strike."
 
 "If not for the gryphon riders of Aerie Peak, if not for the shield-bearing warriors of Dun Morogh..." At this, dwarves on both sides nodded in unison.
 
@@ -14,33 +14,33 @@ As Dagran Thaurissan's voice rang out, the Anvil of the Dark Iron fell silent.
 
 The dwarves' gazes fell upon the two outsiders, who stood noticeably taller than everyone else. Jace and Vereesa nodded in acknowledgement.
 
-"We have even received aid from the dragons — which is proof enough that Ragnaros and his lackey Executus's reign of terror had caused too much destruction. The age of these rampageous elementals should have ended long ago."
+"We have even received aid from the dragons — which is proof enough that Ragnaros and his lackey Executus's reign of terror had caused too much destruction. The age of these rampaging elementals should have ended long ago."
 
-"And the one who delivered the final blow to that evil Fire Lord, utterly destroying his 'grand plan'..."
+"And the one who delivered the final blow to that evil Firelord, utterly destroying his 'grand plan'..."
 
-The Dark Iron Emperor turned to face the Wildhammers and continued: "The bearer of Sulfuras, the Fearless Fire-Extinguisher, the Dragonslayer, Lord of Gryphon Riders, Grimdelfier of the Thunderfist clan!"
+The Dark Iron Emperor turned to face the Wildhammers and continued: "The bearer of Sulfuras, the Fearless Fire-Extinguisher, the Dragonslayer, Lord of gryphon riders, Grimdelfier of the Thunderfist clan!"
 
 "That's not even his full name," Vereesa whispered.
 
 "Look at his face. Even with just that much, he's about to die of embarrassment," Jace said.
 
-Grede walked with stiff steps before the Emperor. Thaurissan had already picked up the Lion's Heart Helm. "In the name of the Dark Iron..." Thaurissan said in a low voice, then looked at Kurdran Wildhammer not far away.
+Grede walked with stiff steps before the Emperor. Thaurissan had already picked up the Lionheart Helm. "In the name of the Dark Iron..." Thaurissan said in a low voice, then looked at Kurdran Wildhammer not far away.
 
 "In the name of the Wildhammer," Kurdran picked up.
 
 "In the name of the Bronzebeard," Muradin called out loudly.
 
-"We bestow upon you the Lion's Heart Helm of High King Anvilmar, Lord Grimdelfier of the Thunderfist clan." Thaurissan carefully placed the golden helm onto Grede's head. "From this day forward, you are a hero of the Three Hammers."
+"We bestow upon you the Lionheart Helm of High King Anvilmar, Lord Grimdelfier of the Thunderfist clan." Thaurissan carefully placed the golden helm onto Grede's head. "From this day forward, you are a hero of the Three Hammers."
 
 "Your story shall echo through Dun Morogh, Grim Batol, your homeland, and here as well, Thunderfist!" Muradin shouted.
 
 "Your father would be proud of you, Grede!" Kurdran bellowed.
 
-With the helm on, Grede's expression was unreadable. He just bowed his head silently. Jace knew that, like himself, Grede had never been comfortable with this kind of occasion. And he still hadn't fully recovered — just standing there, using the frame that held the Lion's Heart Helm for support, counted as a victory.
+With the helm on, Grede's expression was unreadable. He just bowed his head silently. Jace knew that, like himself, Grede had never been comfortable with this kind of occasion. And he still hadn't fully recovered — just standing there, using the frame that held the Lionheart Helm for support, counted as a victory.
 
-But what more needed to be said? He had executed Ragnaros. His name echoed through every corner of Shadowforge City. Even Vereesa was moved, dabbing at the corners of her eyes.
+But what more needed to be said? He had brought down Ragnaros. His name echoed through every corner of Shadowforge City. Even Vereesa was moved, dabbing at the corners of her eyes.
 
-High up, Sorah wore a rare look of relief. Needleflame clapped happily along with the dwarves.
+High up, Sola wore a rare look of relief. Needleflame clapped happily along with the dwarves.
 
 Jace discreetly gave Grede a thumbs up. He didn't expect Grede to see it through the gaps in that helm, but Grede still puffed out his chest, took a deep breath, and nodded in his direction.
 
@@ -54,9 +54,9 @@ He looked nothing like an old man in his sixties, nothing like a warrior who'd j
 
 "Long live Thaurissan!" "Long live Blackrock Mountain!"
 
-The road to the palace had suffered considerable damage, especially in the lecture hall area. Thaurissan decided to move the feast to the Ironrage barracks instead.
+The road to the palace had suffered considerable damage, especially around the Lyceum. Thaurissan decided to move the feast to the Anvilrage barracks instead.
 
-The Ironrage barracks had an enormous rest area split across two levels, where soldiers and officers could drink and rest.
+The Anvilrage barracks had an enormous rest area split across two levels, where soldiers and officers could drink and rest.
 
 When dwarves started drinking, they didn't much care about their surroundings, especially in Shadowforge City, where it was pitch black everywhere anyway — the difference between places wasn't that great. After a few tankards of strong liquor, even the royal palace of Menethil looked about as good as the outhouse at Aerie Peak.
 
@@ -70,7 +70,7 @@ Especially Princess Moira, who sat not far below. From the initial stiffness at 
 
 The two of them seemed to be discussing some amusing joke or anecdote with the other dwarven lords around them, periodically provoking gales of laughter and thunderous table-pounding.
 
-Kurdlan was laughing heartily, tears streaming from his eyes. But Muradin Bronzebeard, seated across from them, was also laughing — though not as freely. His expression was far more complicated.
+Kurdran was laughing heartily, tears streaming from his eyes. But Muradin Bronzebeard, seated across from them, was also laughing — though not as freely. His expression was far more complicated.
 
 "Try to sniff the air," Morophil said softly from beside Jace. "It's not just the joy of victory that fills this hall."
 
@@ -80,7 +80,7 @@ Kurdlan was laughing heartily, tears streaming from his eyes. But Muradin Bronze
 
 "You mean... the Bronzebeard princess and the Dark Iron Emperor?" the ranger said. "Dammit, don't go making wild guesses. If word of this got out..."
 
-"I'm a sayad, dear Vereesa," Morophil said, putting on a wounded expression. "I could smell your affection for master before even he realized it himself."
+"I'm a sayaad, dear Vereesa," Morophil said, putting on a wounded expression. "I could smell your affection for master before even he realized it himself."
 
 "How did we circle back to me again?" Jace complained.
 
@@ -94,15 +94,15 @@ The elf stole a glance at the warlock, barely suppressing the smile at the corne
 
 "Uh." Vereesa shook her head. "I've really never seen that."
 
-"Gray dwarves, Sister Sorah?" Needleflame asked.
+"Gray dwarves, Sister Sola?" Needleflame asked.
 
-"I'm not sure either," Sorah shook her head. "But the Dark Iron look the way they do mainly because of Ragnaros's curse. Long ago, when they lived in Ironforge, they didn't look so different from other dwarves. Now that Ragnaros has been defeated, the curse will gradually weaken."
+"I'm not sure either," Sola shook her head. "But the Dark Iron look the way they do mainly because of Ragnaros's curse. Long ago, when they lived in Ironforge, they didn't look so different from other dwarves. Now that Ragnaros has been defeated, the curse will gradually weaken."
 
 "So my guess is, if Princess Moira and Emperor Thaurissan were to unite, their offspring would most likely resemble Bronzebeards more closely. There might be some residual fire curse — reddish eyes or pale gray skin instead of deep gray. You could compare it to... half-elves who've lived in human society for a long time. More human, but with some detectable elven traits."
 
 "Like the offspring of Jace Sesso and Lady Vereesa?" Needleflame asked.
 
-"That would depend on whether they choose to settle in Quel'Thalas or Stormwind," Sorah said.
+"That would depend on whether they choose to settle in Quel'Thalas or Stormwind," Sola said.
 
 "A bit early to discuss that," Jace said immediately.
 
@@ -116,21 +116,21 @@ Jace spat out his mouthful of beer. The arcane flames in Vereesa's eyes seemed f
 
 Morophil suddenly perked up. Sazeno tugged at the succubus's wing from the side, eyes wide as he looked between the people at the table — he looked like he was muttering "here we go, here we go!" in excitement.
 
-Just as Jace was about to scold Needleflame for speaking nonsense, Sorah answered matter-of-factly, seemingly unbothered: "That's a difficult question. I haven't heard of any past precedents... but I think it probably wouldn't work?"
+Just as Jace was about to scold Needleflame for speaking nonsense, Sola answered matter-of-factly, seemingly unbothered: "That's a difficult question. I haven't heard of any past precedents... but I think it probably wouldn't work?"
 
 "It definitely wouldn't work!" Jace said immediately.
 
-"Because strictly speaking, I'm still in the whelp stage like you, without the qualifications to produce offspring," Sorah said.
+"Because strictly speaking, I'm still in the whelp stage like you, without the qualifications to produce offspring," Sola said.
 
 "Uh? Pro... produce?" Jace blinked.
 
 "No no no no..." Vereesa hadn't recovered from the shock, weakly resisting. But Needleflame was unperturbed. "What about Queen Alexstrasza?"
 
-"That would, hmm." Sorah thought for a moment. "If it were Queen Alexstrasza..."
+"That would, hmm." Sola thought for a moment. "If it were Queen Alexstrasza..."
 
 "Alright alright, enough, stop right there!" Jace stood up and reached out to block the two dragons. "Have some consideration for us poor mortals with our narrow, closed-minded perspectives! Both of you — at least use a different example!"
 
-Needleflame looked at Jace blankly. Sorah quietly reminded her, "Mortals have difficulty accepting multiple partners, Needleflame."
+Needleflame looked at Jace blankly. Sola quietly reminded her, "Mortals have difficulty accepting multiple partners, Needleflame."
 
 Morophil bit her lip in silence, looking like she was about to burst.
 
@@ -146,4 +146,4 @@ Morophil bit her lip in silence, looking like she was about to burst.
 
 Vereesa opened her mouth but nothing came out. Jace was at a loss for words. He suddenly realized this conversation had been dragged by the black dragon in a direction so absurd he couldn't even track it anymore.
 
-**(End of Volume)**
+(End of Volume)

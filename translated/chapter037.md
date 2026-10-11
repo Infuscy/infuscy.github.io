@@ -1,4 +1,4 @@
-## Chapter 37: The Wizard Sanctum and the Werewolf Investigation
+## Chapter 37: The Wizard's Sanctum and the Worgen Investigation
 
 The night was pitch black. Jace walked through total shadow, the ground wet and squelching underfoot like fresh rain, or the muck of a swamp.
 
@@ -36,9 +36,9 @@ But bathing in this river was genuinely more satisfying than hauling water in a 
 
 And Stormwind's guards seemed to have made their peace with it long ago. Even when they caught someone they just gave them a kick — he'd never actually seen anyone get hauled away. And they'd gone from showing up every two or three days at the start to maybe once every week or two.
 
-When he arrived at Marin's residence, the mage wasn't there yet. Jace quickly swept the room, then took Marin's quill and a paper scroll, intending to write down last night's spell.
+When he arrived at Malin's residence, the mage wasn't there yet. Jace quickly swept the room, then took Malin's quill and a paper scroll, intending to write down last night's spell.
 
-When he'd gotten home last night, his mind had been a muddled fog, and he'd been too tired to remember the work he was supposed to do. Fortunately, he'd slept, had a nightmare, and still remembered what Gain had said last night.
+When he'd gotten home last night, his mind had been a muddled fog, and he'd been too tired to remember the work he was supposed to do. Fortunately, he'd slept, had a nightmare, and still remembered what Gakin had said last night.
 
 Fekt.
 
@@ -46,21 +46,21 @@ Jace planned to use the Latin alphabet to roughly record the pronunciation of th
 
 As he wrote, he silently repeated it a couple of times.
 
-This spell was something Gain had heard from who-knows-where. Jace's guess was that it couldn't be accurate.
+This spell was something Gakin had heard from who-knows-where. Jace's guess was that it couldn't be accurate.
 
-Because these warlocks had no proper channel for learning dark incantations — which were deformations based on demonic tongue and other Void languages — the sounds they produced could never unleash a spell's full power.
+Because these warlocks had no proper channel for learning dark incantations — which were deformations based on the Demonic tongue and other Void languages — the sounds they produced could never unleash a spell's full power.
 
-Thinking back to last night, Gain's casting on him had probably been limited in effect, possibly because of the Shadow Protection Potion, and he'd managed to use the spell to fight back against Gain.
+Thinking back to last night, Gakin's casting on him had probably been limited in effect, possibly because of the Shadow Protection Potion, and he'd managed to use the spell to fight back against Gakin.
 
 But he hadn't made any casting gesture, and he'd had no mana to spend — so how had he managed to cast it?
 
 No knowing when he might be able to reproduce the spell.
 
-He was still turning this over in his mind when Marin walked up behind him.
+He was still turning this over in his mind when Malin walked up behind him.
 
 Jace jumped and turned around. "Master, I didn't even hear the door."
 
-"Because you didn't close it." Marin pointed at the slip of paper under Jace's hand. "What script is this?"
+"Because you didn't close it." Malin pointed at the slip of paper under Jace's hand. "What script is this?"
 
 "This is…" Jace glanced at what he'd written, hemmed and uhhed for a moment, then said, "Well… Latin."
 
@@ -68,63 +68,63 @@ Jace jumped and turned around. "Master, I didn't even hear the door."
 
 "A playmate of mine from childhood invented a code. His name was Latin."
 
-"How interesting." Marin asked again, "And what does this word mean?"
+"How interesting." Malin asked again, "And what does this word mean?"
 
 "That's the thing — I don't know," Jace said. "Last night I dreamed my friends were shouting this word, and no matter how much I thought about it, I couldn't remember what it meant. I was resting here a bit earlier and it popped into my head again, so I thought writing it down might help — and then you walked in."
 
-"How is it pronounced?" Marin asked, feeling the teapot.
+"How is it pronounced?" Malin asked, feeling the teapot.
 
 "Fak," Jace said, enunciating with immaculate precision.
 
-Marin nodded. "I'm afraid I can't help you there, Mr. Sesso. Though I think this Latin fellow had real potential to become a mage."
+Malin nodded. "I'm afraid I can't help you there, Mr. Sesso. Though I think this Latin fellow had real potential to become a mage."
 
-"He's dead," Jace said with a sigh. "He disappeared in Silverpine Forest later on. Probably killed by orcs, or taken by werewolves. Still hurts to think about."
+"He's dead," Jace said with a sigh. "He disappeared in Silverpine Forest later on. Probably killed by orcs, or taken by worgen. Still hurts to think about."
 
-"What a shame," Marin said. "That means we'll never know what 'Fak' means."
+"What a shame," Malin said. "That means we'll never know what 'Fak' means."
 
 Jace held back a laugh and covered it with a couple of coughs, one hand on his forehead.
 
-But speaking of werewolves — the werewolves that Morgan Ladimore and all the folks at Raven Hill feared — neither he nor Grede had seen a trace of them during those two days of adventure.
+But speaking of worgen — the worgen that Morgan Ladimore and all the folks at Raven Hill feared — neither he nor Grede had seen a trace of them during those two days of adventure.
 
 Not that giant silver wolf, surely?
 
-Impossible. The townsfolk at Raven Hill who'd lived through the orc invasion couldn't possibly not know what a werewolf looked like.
+Impossible. The townsfolk at Raven Hill who'd lived through the orc invasion couldn't possibly not know what a worgen looked like.
 
 If he went out at night, maybe he'd have a chance to spot one.
 
 Curiosity clawed at Jace, but he wasn't so far gone as to go courting death just to satisfy it. And Grede would never agree anyway.
 
-"By the way, Master Marin — did you know there are werewolves in Duskwood?"
+"By the way, Master Malin — did you know there are worgen in Duskwood?"
 
-Marin dropped a lump of sugar into his teacup. "You mean the south Elwynn region, yes? I've heard a lot of people are calling it Duskwood now. I wonder what the natives think of that nickname. You're referring to the Raven Hill werewolf legends, correct?"
+Malin dropped a lump of sugar into his teacup. "You mean the South Elwynn region, yes? I've heard a lot of people are calling it Duskwood now. I wonder what the natives think of that nickname. You're referring to the Raven Hill worgen legends, correct?"
 
 Jace asked, surprised, "You know about that too?"
 
-"Of course," Marin said. "The Wizard Sanctum may be independent of Dalaran and the Kirin Tor, but we still carry on the ancient spirit of the Order of Tirisfal — protecting humanity from otherworldly threats, studying any signs of influence from foreign invaders on Azeroth, and so on. These past few years we've taken in many immigrants from those two towns, and they've brought up the Raven Hill werewolf legends too. Quite a few of them have strongly urged the Wizard Sanctum to send someone to investigate."
+"Of course," Malin said. "The Wizard's Sanctum may be independent of Dalaran and the Kirin Tor, but we still carry on the ancient spirit of the Order of Tirisfal — protecting humanity from otherworldly threats, studying any signs of influence from foreign invaders on Azeroth, and so on. These past few years we've taken in many immigrants from those two towns, and they've brought up the Raven Hill worgen legends too. Quite a few of them have strongly urged the Wizard's Sanctum to send someone to investigate."
 
 "And?"
 
-"Nothing came of it," Marin said. "We sent out three separate teams of mages and apprentice mages, including some of the most talented among our students — their gifts rivaled the new generation emerging from Dalaran after the war. Even so, they found nothing in the end, aside only some raised dead. We suspect someone was using that dark energy to study necromantic magic, secretly stirring up the graveyards at Raven Hill and Darkshire. But on that front too, we came up empty."
+"Nothing came of it," Malin said. "We sent out three separate teams of mages and apprentice mages, including some of the most talented among our students — their gifts rivaled the new generation emerging from Dalaran after the war. Even so, they found nothing in the end, aside from some raised dead. We suspect someone was using that dark energy to study necromantic magic, secretly stirring up the graveyards at Raven Hill and Darkshire. But on that front too, we came up empty."
 
 "Did they search at night?" Jace asked.
 
-Marin nodded. "Yes. Archmage Antonidas even stressed the nighttime appearances the refugees mentioned. But the same — even at night, no so-called werewolf showed itself."
+Malin nodded. "Yes. Master Andromath even stressed the nighttime appearances the refugees mentioned. But the same — even at night, no so-called worgen showed itself."
 
-Jace felt this was starting to get murky. "If there are no werewolves, why would townsfolk who've never seen a werewolf connect the wounds on the victims to werewolves? Why not orcs? If there are traces of shadow energy… an orc warlock could manage that too, couldn't they?"
+Jace felt this was starting to get murky. "If there are no worgen, why would townsfolk who've never seen a worgen connect the wounds on the victims to worgen? Why not orcs? If there are traces of shadow energy… an orc warlock could manage that too, couldn't they?"
 
 The old mage tossed a few copper coins onto the table by Jace's hand. Jace picked one up.
 
-"Does that mean someone was hired to spread panic and rumors between Raven Hill and Granville, trying to drive the people of these two regions out early, to serve some ulterior motive?" Jace said.
+"Does that mean someone was hired to spread panic and rumors between Raven Hill and Grand Hamlet, trying to drive the people of these two regions out early, to serve some ulterior motive?" Jace said.
 
-Marin said, "No. Go to the Blue Hermit and buy me a small crab cake, and I'll tell you our theories."
+Malin said, "No. Go to the Blue Recluse and buy me a small crab cake, and I'll tell you our theories."
 
 Jace helplessly gathered up all the coppers, stuffed them in his pocket, and headed out.
 
-The Blue Hermit was quite lively in the morning. A big crowd of apprentice mages and mages had gathered there, eating and drinking and chatting like college students who'd rushed to the dining hall between classes.
+The Blue Recluse was quite lively in the morning. A big crowd of apprentice mages and mages had gathered there, eating and drinking and chatting like college students who'd rushed to the dining hall between classes.
 
 Jace spent two coppers on a cup of black coffee — cheap and eye-opening. He knocked back two mouthfuls and swept away the mental fog left by last night's nightmare.
 
-In Stormwind, tea cost God-knew-how-many times more than coffee. Eden Marin's tea, Goldthorn, was itself a medicinal herb — pricey.
+In Stormwind, tea cost God-knew-how-many times more than coffee. Eden Malin's tea, Goldthorn, was itself a medicinal herb — pricey.
 
 Though coffee could perk you up, it had no real value in terms of magical medicine, and for a lot of laborers, drinking coffee wasn't as stimulating as just drinking alcohol. So coffee's consumers were mostly students, clerks, and ordinary folk without much coin.
 
@@ -160,7 +160,7 @@ Jace asked skeptically, "Don't tell me you can't handle it on your own?"
 
 The dwarf laughed. "If I can't handle a job alone, what difference would bringing you make?"
 
-"Bold words, Gryphon Rider." Jace poured a bit of the dwarf's milk into his own coffee. "I'll head back to my boss — he's still waiting for me to bring him a snack."
+"Bold words, gryphon rider." Jace poured a bit of the dwarf's milk into his own coffee. "I'll head back to my boss — he's still waiting for me to bring him a snack."
 
 "Hey, wait…" The dwarf stopped him. "Fine, truth time. This one's wolves. Might be more than one. Without backup it'd really be rough. Besides, in Duskwood, I'd have died several times over without you. I was just joking before, don't take it to heart… I don't have any other helpers I can trust."
 
@@ -199,14 +199,3 @@ Jace asked, "So when are you going?"
 "Isn't that a bit soon?"
 
 "Jace, if we wait another day and that family gets harassed by wolves again, what then?"
-
-## Flags
-
-- **安多玛斯大师 → Archmage Antonidas**: Senior mage of the Wizard Sanctum referenced by Marin. Not in the glossary — transliteration tentative, flagged for verification against canonical WoW NPC names.
-- **蓝色隐士 → the Blue Hermit**: Tavern in the Mage Quarter. Not in the glossary — translation tentative (could also be "the Blue Recluse"), flagged for verification.
-- **格兰镇 → Granville**: Settlement in Duskwood mentioned alongside Raven Hill and Darkshire. Not in the glossary — transliteration tentative, flagged for verification.
-- **战士公会 → the Fighters Guild**: Stormwind's fighter organization. Not in the glossary.
-- **新兵 → Initiate**: Grede's rank in the Fighters Guild. Not in the glossary — translation tentative (could be "Recruit" or "Novice" depending on the guild's rank naming).
-- **"法克" → "Fak"**: See Chapter 36 flag — the comedic near-homophone of an English swear, preserved as "Fak."
-- **蟹肉蛋糕 → crab cake**: Food item sold at the Blue Hermit. Not in the glossary.
-- **戈斯鲁姆 → Gathroom? Gotsrum?**: Name of a gryphon keeper mentioned by Grede (戈斯鲁姆). Not in glossary — transliteration highly tentative, flagged for verification.

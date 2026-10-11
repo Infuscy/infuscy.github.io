@@ -6,11 +6,11 @@ The Dragonmaw orcs' relationship with Blackrock Spire wasn't all that good. Jace
 
 And right now Blackrock Spire was cozying up to the black dragons — that was probably one of the factors. But where was the Demon Soul?
 
-Jace tried not to let his gaze linger deliberately on the pouches at Nekros's waist. He had a feeling the Demon Soul might be in one of those bags.
+Jace tried not to let his gaze linger deliberately on the pouches at Nekros's belt. He had a feeling the Demon Soul might be in one of those bags.
 
 The pouches were all about the same size, each one slightly smaller than an orc's fist, and every single one was a low-quality cloth or leather bag — brown or blackish-gray. They looked no different from the tattered bags a beggar might carry. If one of these held the Demon Soul, the treatment was a little too shabby.
 
-And Jace couldn't sense even a trace of power related to a so-called "artifact." He remembered the arcane magic that had surged out when he drew Skysong, the nourishing power that had washed over him when the Flowing Ice Crystal appeared before his eyes. If the Demon Soul was a fearsome thing capable of capturing and slaying the Dragon Aspects, in a room this small it should leak at least some hint of its power.
+And Jace couldn't sense even a trace of power related to a so-called "artifact." He remembered the arcane magic that had surged out when he drew Azuresong, the nourishing power that had washed over him when the Flowing Ice Crystal appeared before his eyes. If the Demon Soul was a fearsome thing capable of capturing and slaying the Dragon Aspects, in a room this small it should leak at least some hint of its power.
 
 But Jace had already learned from Nekros the lesson that you can't judge by appearances, so he wasn't going to make any more assumptions about the Demon Soul.
 
@@ -24,13 +24,13 @@ Jace said, "The Warchief wanted me to tell you that the union of Blackrock and t
 
 "Were?" Nekros practically spat the word.
 
-"Perhaps they still are, but I can't see it," Jace said. "The Dragonmaw's hatchlings are weak and scarce. They can't secure Blackrock Spire's position on the Burning Steppes. Your dragon riders can barely get into Blackrock Mountain, and they have a hard time fighting the Dark Iron dwarves' firearms on the Burning Steppes. If you don't accept the black dragons' offer of alliance, Blackrock Spire will soon collapse under the Alliance's covert sabotage and the Dark Iron dwarves' assaults."
+"Perhaps they still are, but I can't see it," Jace said. "The Dragonmaw's drakes are weak and scarce. They can't secure Blackrock Spire's position on the Burning Steppes. Your dragon riders can barely get into Blackrock Mountain, and they have a hard time fighting the Dark Iron dwarves' firearms on the Burning Steppes. If you don't accept the black dragons' offer of alliance, Blackrock Spire will soon collapse under the Alliance's covert sabotage and the Dark Iron dwarves' assaults."
 
 "The black dragons can not only provide powerful martial aid, they can give orcs a further strengthening to replace the fading demon blood. My brand is the perfect proof." Jace rolled up his sleeve and showed Nekros the black dragon brand. The scar flared with a flash of light, sending a brief, searing pain through him. His rigid orc face came to his rescue at that moment, keeping his agony from showing.
 
 Seeing the scar's glow, Nekros shut his eyes, as if unwilling to look directly at the brand's flames.
 
-After Jace rolled his sleeve back down, he glanced at Morophil, who stood to the side smiling and staring fixedly at him, and said, "You're a powerful warlock, brand or no brand, Yuruk. I have no doubt about that. The black dragons will end up enslaving Blackrock Spire. If I don't extract myself quickly, I'll fall with all of you into a bottomless abyss with no way back. The black dragons are far more powerful than you imagine, and you have no leverage to restrain them in return. Blackrock Spire will become a black dragon nest, and by then you'll be nothing but a pack of miserable slaves rather than allies. The Dragonmaw clan is the clan that trains and commands dragons — not the other way around—"
+After Jace rolled his sleeve back down, Nekros glanced at Morophil, who stood to the side smiling and staring fixedly at him, and said, "You're a powerful warlock, brand or no brand, Yurk. I have no doubt about that. The black dragons will end up enslaving Blackrock Spire. If I don't extract myself quickly, I'll fall with all of you into a bottomless abyss with no way back. The black dragons are far more powerful than you imagine, and you have no leverage to restrain them in return. Blackrock Spire will become a black dragon nest, and by then you'll be nothing but a pack of miserable slaves rather than allies. The Dragonmaw clan is the clan that trains and commands dragons — not the other way around—"
 
 "You want to betray Blackrock Spire," Jace said.
 
@@ -50,7 +50,7 @@ But he hadn't come here to make excuses for Blackrock Spire or to preach orcish 
 
 "That's right," Jace said. "But when Gorefiend finally tried to ally with the Shattered Hand and other traitors to threaten Blackrock Spire, the black dragons decisively chose to stand on the Warchief's side. If that doesn't count as a loyal ally, I don't know what does."
 
-Jace gripped the Shadow gem atop the staff. "To prove their sincerity, the black dragons delivered this staff, recovered from the ruins of Thaurissan, to Blackrock Spire. The Warchief bestowed it upon me to reward my exceptional service."
+Jace gripped the Shadow gem atop the staff. "To prove their sincerity, the black dragons delivered this staff, recovered from the Ruins of Thaurissan, to Blackrock Spire. The Warchief bestowed it upon me to reward my exceptional service."
 
 "Look at the facts, Nekros. Without the black dragons' help, we couldn't have wiped out the Dark Iron dwarf forces one by one while holding off Shattered Hand assassins infiltrating the Burning Steppes. Blackrock Spire might have fallen by now. Once Blackrock Spire falls, Grim Batol won't be a foothold anymore — it'll become an isolated little island… The benefits of allying with the black dragons are obvious, and you can barely even protect yourselves."
 
@@ -62,9 +62,9 @@ Nekros was unexpectedly stubborn. Still, Jace felt his attitude had shifted at l
 
 Nekros said proudly, "Strong and healthy hatchlings are constantly being hatched. We can mature them into battle-ready riding dragons within two years. The Alliance won't stand a chance against a powerful dragon cavalry. And our ranks are still growing. Orcs fleeing from Lordaeron and the Blasted Lands are joining the Dragonmaw in wave after wave."
 
-Recalling the scene he'd glimpsed on the street earlier, Jace said, "I don't think the Dragonmaw's hatchlings are strong and healthy, Nekros. They're tormented, weak as hell, and furious at your men. I seriously doubt their loyalty and combat ability."
+Recalling the scene he'd glimpsed on the street earlier, Jace said, "I don't think the Dragonmaw's drakes are strong and healthy, Nekros. They're tormented, weak as hell, and furious at your men. I seriously doubt their loyalty and combat ability."
 
-Nekros said, "Today's hatchlings were born at the Horde's most difficult hour. You know full well that the hatchlings born from the eggs back then were extremely weak and didn't receive proper care. But the hatchlings being born now are nothing like that. Give the Warchief enough time and patience, and the red dragon legion will grow strong quickly, ready to support Blackrock Spire at any time. When that day comes, he'll realize he never needed to grovel to those scheming black dragons."
+Nekros said, "Today's drakes were born at the Horde's most difficult hour. You know full well that the hatchlings born from the eggs back then were extremely weak and didn't receive proper care. But the hatchlings being born now are nothing like that. Give the Warchief enough time and patience, and the Red Dragonflight will grow strong quickly, ready to support Blackrock Spire at any time. When that day comes, he'll realize he never needed to grovel to those scheming black dragons."
 
 "Watch your words, Nekros," Jace said. "The Warchief doesn't grovel to anyone."
 
@@ -76,6 +76,6 @@ Nekros gave a cold laugh. "Perhaps Blackrock Spire has been harried to death by 
 
 "We know about the Dark Portal, of course. But regarding Grim Batol…" Jace glanced toward the door behind him. "I'd like to learn more about this city's strength and supplies — especially the dragon eggs you mentioned. I'd like to see exactly what gives you so much confidence. That way, even if I return to Blackrock Spire, I'll have something to report."
 
-"A reasonable request." Nekros pointed to a young orc warrior beside him. "As you can see, I can no longer move about easily. But I can have my son Nakrosh personally show you around Grim Batol."
+"A reasonable request." Nekros pointed to a young orc warrior beside him. "As you can see, I can no longer move about easily. But I can have my son Nek'rosh personally show you around Grim Batol."
 
 "At once, Father." The young Warlord's son stepped forward two steps. "Come, warlock."

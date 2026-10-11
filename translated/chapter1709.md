@@ -6,29 +6,29 @@ Grede shouted, but in the intensifying sandstorm, Jace could barely tell which d
 
 "Careful, everyone. We might be surrounded by elementals!"
 
-Jace drew the Song of Clear Skies as he shouted. Vereesa raised Belanore, the colored light on her bowstring flickering unsteadily in the furious storm as if the dream energy was disturbed by the gale. Solara pulled her cloak tight and drove her staff into the ground to keep from being blown away.
+Jace drew Azuresong as he shouted. Vereesa raised Belanur, the colored light on her bowstring flickering unsteadily in the furious storm as if the dream energy was disturbed by the gale. Sola pulled her cloak tight and drove her staff into the ground to keep from being blown away.
 
 "What elementals?"
 
-Needleflame had just drawn her Blade of Destruction, its searing lava-light burning fiercely through the dust for a moment, when Jace suddenly felt the storm shift direction, tearing violently toward Needleflame. He tried to shout a warning, but before he could, the little black dragon yelped, her figure vanished, and her voice flew off somewhere into the distance.
+Needleflame had just drawn Perdition's Blade, its searing lava-light burning fiercely through the dust for a moment, when Jace suddenly felt the storm shift direction, tearing violently toward Needleflame. He tried to shout a warning, but before he could, the little black dragon yelped, her figure vanished, and her voice flew off somewhere into the distance.
 
 "Needleflame!"
 
-Solara called out, her footing shifting as she nearly got blown sideways. Jace tried to move toward her and Grede, but a thick wall of wind and sand blocked his path.
+Sola called out, her footing shifting as she nearly got blown sideways. Jace tried to move toward her and Grede, but a thick wall of wind and sand blocked his path.
 
-When that wall hit him, stones and gravel slammed into his body. Even through the Hide of Orastraz, it felt like being shot by a Dark Iron dwarf's fragmentation rifle — knocking him back several steps.
+When that wall hit him, stones and gravel slammed into his body. Even through the Hide of Olastrasz, it felt like being shot by a Dark Iron dwarf's fragmentation rifle — knocking him back several steps.
 
 When he focused forward again, he couldn't even see the others.
 
 Thunderaan's voice was completely suppressed here. Jace could feel him trying to speak, but whatever sound he made was diluted by the howling gale. The cold emanating from him was weaker than ever.
 
-Jace drove the Song of Clear Skies into a stone wall beside him, anchoring himself against the raging sandstorm. The storm was trying to split them apart, lose them in the chaos, using sand to block vision while elemental power dispelled all magical auras — from arcane to life.
+Jace drove Azuresong into a stone wall beside him, anchoring himself against the raging sandstorm. The storm was trying to split them apart, lose them in the chaos, using sand to block vision while elemental power dispelled all magical auras — from arcane to life.
 
 And the strategy was working. Vereesa could barely stand in this gale, let alone cast spells, shoot arrows, or find her bearings.
 
 The storm had hit so suddenly that Grede hadn't even had time to unwrap Sulfuras before he tumbled down a dune.
 
-Solara and Needleflame were still in mortal form. Without Grede's weight to anchor them, they couldn't move at all. Shifting back to dragon form would be worse — their wings would catch the wind and make it even harder to stay grounded, let alone fly. Better to stay humanoid and huddle against a wall.
+Sola and Needleflame were still in mortal form. Without Grede's weight to anchor them, they couldn't move at all. Shifting back to dragon form would be worse — their wings would catch the wind and make it even harder to stay grounded, let alone fly. Better to stay humanoid and huddle against a wall.
 
 But whatever elemental was controlling this sandstorm had overlooked one thing: an energy that even gale-force winds couldn't dispel. The raw fury radiating from the elements themselves.
 
@@ -48,7 +48,7 @@ But just as Jace shifted his gaze to locate the others, a chaotic whirlwind char
 
 But after Nefarian's shadow lightning, this thunder released by clashing winds was nothing to Jace.
 
-He grabbed the Hide of Orastraz and threw it up, blocking the lightning strike without even using a shadow shield. The whirlwind in front of him let out a hoarse roar. Jace chanted, summoning flame to wrap around it, disrupting its elemental power, then infused shadow to corrupt the whirlwind directly, turning it into a spinning ball of shadowflame. The elemental bindings snapped on the spot, the wind-body dissolved, and it fell to the ground.
+He grabbed the Hide of Olastrasz and threw it up, blocking the lightning strike without even using a shadow shield. The whirlwind in front of him let out a hoarse roar. Jace chanted, summoning flame to wrap around it, disrupting its elemental power, then infused shadow to corrupt the whirlwind directly, turning it into a spinning ball of shadowflame. The elemental bindings snapped on the spot, the wind-body dissolved, and it fell to the ground.
 
 Just a wind elemental guard. Its interference hadn't even broken Jace's hold on the shadow energy. As the storm weakened, Grede and Vereesa easily defeated the few elemental guards attacking them. More importantly, the master of these smaller elementals was still out there.
 
@@ -94,4 +94,6 @@ Jace dropped shadowform and asked Thunderaan, "Who's Sarsalun?"
 
 "Point is," Jace said, "our deal didn't include defeating a wind elemental lord in the desert. You'd better have a decent thank-you ready."
 
-"If I cannot be reborn, there can be no thank-you." Thunderaan said in elemental. "Get over here and help, Jace Sesso! Needleflame is buried under a collapsed tower! She just landed and doesn't have the mana to shift back to dragon form!" Grede's shout came from the distance.
+"If I cannot be reborn, there can be no thank-you." Thunderaan said in Elemental.
+
+"Get over here and help, Jace Sesso! Needleflame is buried under a collapsed tower! She just landed and doesn't have the mana to shift back to dragon form!" Grede's shout came from the distance.

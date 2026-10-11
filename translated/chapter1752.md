@@ -1,8 +1,8 @@
 ## Chapter 1752: Waiting for Word
 
-After the Emerald Dream was purified by the two Dragonqueens, Alexstrasza and Ysera, all the Night Elf druids trapped in the Nightmare returned to normal. Many druids woke and returned to the waking world to handle affairs they'd missed while asleep, which meant Astranaar now had many more male Night Elf faces about.
+After the Emerald Dream was purified by the two Dragonqueens, Alexstrasza and Ysera, all the night elf druids trapped in the Nightmare returned to normal. Many druids woke and returned to the waking world to handle affairs they'd missed while asleep, which meant Astranaar now had many more male night elf faces about.
 
-This was also why even the most exclusionary, conservative Night Elves bore no hostility toward Jace and his party. If feats like going to Draenor to rescue the Alliance Expedition or destroying the black dragons of Grim Batol and Blackrock Spire didn't matter to many Night Elves, saving the Emerald Dream was something every resident of Ashenvale cared about personally.
+This was also why even the most exclusionary, conservative night elves bore no hostility toward Jace and his party. If feats like going to Draenor to rescue the Alliance Expedition or destroying the black dragons of Grim Batol and Blackrock Spire didn't matter to many night elves, saving the Emerald Dream was something every resident of Ashenvale cared about personally.
 
 Because of this, contacting Archdruid Malfurion Stormrage wasn't that difficult. A druid just needed to find the nearest cave, enter a restful state, communicate the matter to Malfurion in the Dream, and then relay his response back. No need to cross all of Mount Hyjal to Moonglade — even riding a hippogryph round trip would take three or four days.
 
@@ -24,15 +24,15 @@ Vereesa gazed at the calm lake, blue as crystal. "Legend says that when Illidan 
 
 "Alright. I agree with that too." Vereesa sighed.
 
-"Don't forget we at least have Lady Morofell," Grede muttered. "No need to go begging that demon worshiper."
+"Don't forget we at least have Lady Morophil," Grede muttered. "No need to go begging that demon worshipper."
 
-He glanced at Jace and added, "I mean the real demon worshiper."
+He glanced at Jace and added, "I mean the real demon worshipper."
 
-"But Morofell can't come with us to Dalaran," Jace said. "Or she could go to Dalaran and help Khadgar find the Nathrezim. But we need someone who can also see through a Nathrezim's disguise to stay in Stormwind — whether watching Stormwind Keep, the Wizard Sanctum, or keeping an eye on my parents."
+"But Morophil can't come with us to Dalaran," Jace said. "Or she could go to Dalaran and help Khadgar find the Nathrezim. But we need someone who can also see through a Nathrezim's disguise to stay in Stormwind — whether watching Stormwind Keep, the Wizard's Sanctum, or keeping an eye on my parents."
 
-"And didn't you hear what Onyxia said, Grede?" Vereesa added. "Those demons have already disguised themselves as members of the Council of Six. How are we supposed to let Morofell meet with them?"
+"And didn't you hear what Onyxia said, Grede?" Vereesa added. "Those demons have already disguised themselves as members of the Council of Six. How are we supposed to let Morophil meet with them?"
 
-"Back in Blackrock Spire, we knew the demons were avoiding Morofell. In Dalaran, they'd have even more reason not to meet her. And in a place full of magical traps, do you really want a Sayaad demon sneaking around invisibly? If anything goes wrong, Jace would walk right into their trap. So we can't rely on her alone to find all the demons. Besides, besides..."
+"Back in Blackrock Spire, we knew the demons were avoiding Morophil. In Dalaran, they'd have even more reason not to meet her. And in a place full of magical traps, do you really want a sayaad demon sneaking around invisibly? If anything goes wrong, Jace would walk right into their trap. So we can't rely on her alone to find all the demons. Besides, besides..."
 
 "Besides, her tracking ability isn't entirely reliable either." Grede waved a hand. "No need to be polite, little elf. I'll say it for you. Even she isn't confident she can find that Tich... Tich..."
 
@@ -40,25 +40,25 @@ He glanced at Jace and added, "I mean the real demon worshiper."
 
 "What a damn name." The dwarf spat. "I haven't even got 'Nathrezim' straight yet."
 
-"One more thing." Vereesa said. "If we're going to Mount Hyjal from here, with sentinels guarding the whole way, how is Jace supposed to contact Archmage Khadagin? He won't have a chance to perform a demonic ritual."
+"One more thing." Vereesa said. "If we're going to Mount Hyjal from here, with sentinels guarding the whole way, how is Jace supposed to contact Archmage Khadgar? He won't have a chance to perform a demonic ritual."
 
-"Don't try to perform any demonic rituals near Mount Hyjal, Jace..." Mossa shook his heavy head. "Not only would it anger the sentinels and even the Wardens, but the demonic energy of the ritual circle would also be severely weakened by the sacred mountain. It wouldn't work as well as your last attempt."
+"Don't try to perform any demonic rituals near Mount Hyjal, Jace..." Mosa shook her heavy head. "Not only would it anger the sentinels and even the Wardens, but the demonic energy of the ritual circle would also be severely weakened by the sacred mountain. It wouldn't work as well as your last attempt."
 
-"I can feel that, Mossa," Jace said. "But it's fine. Khadgar knows he can get my attention by calling my name through Sazeno. Sazeno is with Morofell now, and he knows Morofell is in Stormwind. If he needs to find me, he will."
+"I can feel that, Mosa," Jace said. "But it's fine. Khadgar knows he can get my attention by calling my name through Sazeno. Sazeno is with Morophil now, and he knows Morophil is in Stormwind. If he needs to find me, he will."
 
 "So the only reason you haven't heard from that little imp yet is that Khadgar hasn't gone to your Twisting Nether fragment?" Grede asked.
 
-"Don't rush, Jace. It's only been a few days." Vereesa said. "Unless it's urgent, Khadgar won't risk using teleportation to get to the Tower of Igalgar and draw the Kirin Tor's attention. Even hurrying by gryphon would take several days, let alone the time for the message to reach him."
+"Don't rush, Jace. It's only been a few days." Vereesa said. "Unless it's urgent, Khadgar won't risk using teleportation to get to the Tower of Ilgalar and draw the Kirin Tor's attention. Even hurrying by gryphon would take several days, let alone the time for the message to reach him."
 
 "True." Grede nodded. "Doesn't mean the demons have already taken him out."
 
-Everyone stared at the dwarf. He gave a dry laugh. "What're you looking at me for? Someone has to say the hard truths you won't say... honestly." He took a sip of his herbal tea. "So which is faster — notifying those jailers, or notifying the druids in the Emerald Dream? Why not have Sora fall asleep and tell the demon's brother in the Dream?"
+Everyone stared at the dwarf. He gave a dry laugh. "What're you looking at me for? Someone has to say the hard truths you won't say... honestly." He took a sip of his herbal tea. "So which is faster — notifying those jailers, or notifying the druids in the Emerald Dream? Why not have Sola fall asleep and tell the demon's brother in the Dream?"
 
-"I brought it up with Priestess Tyrande," Sora said. "But she didn't want me to do it for them."
+"I brought it up with Priestess Tyrande," Sola said. "But she didn't want me to do it for them."
 
 "Because you're a child of Ysera." Vereesa said. "How could these Kaldorei ask you to enter and exit the Emerald Dream just to deliver a message?"
 
-"Why couldn't they..." Sora asked.
+"Why couldn't they..." Sola asked.
 
 "Never mind. It's hard to explain." The ranger waved it off.
 
@@ -70,12 +70,14 @@ Jace gestured vaguely. "You take dough, put filling in it, pinch it closed, and 
 
 "I read books." Jace propped his chin on his hand.
 
-"Gave up on beautiful succubus summoning and switched to elf cookbooks?" The dwarf grinned. "Did you forget I'm sitting right here?" Vereesa said coldly.
+"Gave up on beautiful succubus summoning and switched to elf cookbooks?" The dwarf grinned.
+
+"Did you forget I'm sitting right here?" Vereesa said coldly.
 
 Grede coughed, choking back his smile. He exchanged a quick glance with Jace and shut up.
 
 "By the way, where's Needleflame?" Jace asked.
 
-"She went to play with the hippogryphs," Mossa said. "She was fussing about wanting to see them when the banquet ended last night. She went first thing this morning. Didn't any of you notice?"
+"She went to play with the hippogryphs," Mosa said. "She was fussing about wanting to see them when the banquet ended last night. She went first thing this morning. Didn't any of you notice?"
 
 "Honored guests." A young sentinel hurried to the steps before the pavilion, speaking in slightly stiff Common. "The Archdruid has agreed to take you to the prison. The High Priestess says she knows your time is short, so you may depart whenever you're ready."

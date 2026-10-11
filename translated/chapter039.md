@@ -6,11 +6,11 @@ Carriages to and from Goldshire ran all hours of the day, so the two of them hit
 
 On one side, dappled light filtering through the Elwynn Forest canopy; little deer peeking out from the thicket; birds of every color flitting back and forth among the branches; the rhythmic clatter of hooves and wheels.
 
-For the moment he'd forgotten all about orcs, werewolves, Death Knights, and the Shadow Council's orders, watching the gates of Stormwind grow farther and farther away until they vanished among the treetops and shafts of light, and let his mind go blank.
+For the moment he'd forgotten all about orcs, worgen, death knights, and the Shadow Council's orders, watching the gates of Stormwind grow farther and farther away until they vanished among the treetops and shafts of light, and let his mind go blank.
 
 Lying back in the jostling rear seat, drinking someone else's goat's milk that had a bit of a gamey smell to it, Jace honestly felt like it'd be fine if the rest of his life went on just like this.
 
-"The other day I took a look at the Mage Quarter's horses — every last one of them a beauty," he asked the Grede beside him, one leg hitched up. "How much would it cost to keep a horse here?"
+"The other day I took a look at the Mage Quarter's horses — every last one of them a beauty," he asked Grede beside him, one leg hitched up. "How much would it cost to keep a horse here?"
 
 Grede opened his eyes and looked at the sky. "I don't know horses, never rode one — you're asking the wrong guy. But I know if you want to keep a horse, you've got to distinguish. A regular pack horse and a warhorse aren't even in the same class, let alone those famous steeds only rich folk can ride."
 
@@ -99,16 +99,3 @@ Jace gave a dry laugh along with him.
 "You hate elves this much, so why are you always so keen on getting a look at the Windrunners?" Jace teased.
 
 The dwarf said, "Female elves and male elves aren't the same species! And a female elf in bed and a female elf out of bed are two different species! You're in the Mage Quarter — at least learn some species classification from those mages, lad. Live long enough and you'll understand. Don't be so rigid!"
-
-## Flags
-
-- **戈斯鲁姆 → Gotsrum**: Name of a gryphon keeper mentioned by Grede. Not in the glossary — transliteration highly tentative, flagged for verification against canonical WoW NPC names.
-- **奎尔多雷 → Quel'dorei**: Thalassian term meaning "the noble born" / "Highborne." Canonical. Not in glossary.
-- **永恒之井 → the Well of Eternity**: Canonical WoW location/concept. Not in glossary.
-- **冬幕节 → Winter Veil**: Dwarven holiday (canonical WoW winter event). Not in glossary.
-- **鹰巢山 → Aerie Peak**: Wildhammer dwarven stronghold. Canonical. Not in glossary.
-- **蛮锤 → Wildhammer**: Per glossary (dwarven clan).
-- **狮鹫 → gryphon**: Canonical creature. Not in glossary.
-- **"吱喳乱叫的智者" → "chattering sages"**: Grede's metaphor for gryphons. Rendered idiomatically.
-- **"一分钱一分货" → "You get what you pay for"**: Idiom rendered by meaning.
-- **"长了个鸟头的猪" → "a pig with a bird's head"**: Grede's insult for a fat, flightless gryphon. Kept literal — it's a dwarf metaphor.

@@ -2,7 +2,7 @@
 
 "Judging by the shape of this cocoon, this doesn't look like one of your kin, Grede," Jace said in a low voice.
 
-"I noticed. Damn it." Grede scratched his brow, thought for a moment, then said, "Then this elf is going to cost at least fifty silver. We'll drag him to Quel'Danis and let those folks pay the ransom."
+"I noticed. Damn it." Grede scratched his brow, thought for a moment, then said, "Then this elf is going to cost at least fifty silver. We'll drag him to Quel'Danil and let those folks pay the ransom."
 
 "Isn't fifty silver too little? Those elves are loaded." Jace said. "We should squeeze them for at least two gold or something."
 
@@ -44,7 +44,7 @@ Grede nodded and used his knife to cut away a few more layers of silk, revealing
 
 Grede glared at him. "You really do need to find yourself a wife, Jace. Holding it in this long will twist your mind — I think you're already past the boundaries of what I can understand."
 
-Jace said helplessly, "Are you out of your mind? Cut it open and see if there's any coin or valuables on him… even if I actually did want to bed a female troll, I wouldn't get worked up over a corpse! And even putting that aside — at the very least not now, and not here."
+Jace said helplessly, "Are you out of your mind? Cut it open and see if there's any coin or valuables on her… even if I actually did want to bed a female troll, I wouldn't get worked up over a corpse! And even putting that aside — at the very least not now, and not here."
 
 "Ah… right, right." Grede nodded as if struck by a revelation, and moved to keep cutting the silk.
 
@@ -95,17 +95,3 @@ The flash of lightning, accompanied by a *crack*, instantly pierced through the 
 The two of them climbed up over a carpet of dead spiders. Grede ran faster; Jace, holding his staff and the Light with focused concentration, was a bit slower. As he ran he kept watching the spiders behind him, ready to use the mass Fear enchantment on his staff as a last resort — but then, as he ran, he heard a sharp "Ah!"
 
 Jace had just turned his head and hadn't even processed what was happening when he suddenly felt himself crash into something soft and yielding. His feet left the ground against his will. The Light went out instantly. He struggled, but it was no use… damn it, it was a spider web trap…
-
-## Flags
-
-- **这是救了个什么？** → "What Did We Just Save?" (这 = this, 救 = save/rescue, 个什么 = what kind of thing)
-- **光亮术** → Light (mage cantrip; per glossary)
-- **恐惧术** → Fear (warlock spell; per glossary)
-- **撒厄诺** → Sazeno (imp minion; per glossary)
-- **格瑞德** → Grede (per glossary)
-- **杰斯** → Jace (per glossary)
-- **奎尔丹尼** → Quel'Danis (high elf settlement; not in glossary — tentative)
-- **蛮锤** → Wildhammer (per glossary)
-- **辛特兰** → the Hinterlands (per glossary)
-- **巨魔** → troll (per glossary)
-

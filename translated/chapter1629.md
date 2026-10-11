@@ -12,7 +12,7 @@ Khadgar listened to the demon's words. He seemed to want to say something but he
 
 "Hey. I'm still standing here, you know." Khadgar raised a hand. "Want me to step out for a bit?"
 
-"Foolish mage." The demon lord suddenly swiveled his head toward the mage. "If Jace Sesso had not seized the Book of Dark Names, drunk the Destruction Potion, devoured the power of the Netherwing, and extracted the soul-force of the alien elemental lord, he would never have been able to defeat the Black Prince alone, let alone cut through the Scepter of Sargeras atop Kil'jaeden's Throne! You and the so-called Children of Lothar would have been trapped on Draenor forever, until that pitiful, fragile world collapsed entirely!"
+"Foolish mage." The demon lord suddenly swiveled his head toward the mage. "If Jace Sesso had not seized the Book of Fel Names, drunk the Destruction Potion, devoured the power of the Netherwing, and extracted the soul-force of the alien elemental lord, he would never have been able to defeat the Black Prince alone, let alone cut through the Scepter of Sargeras atop the Throne of Kil'jaeden! You and the so-called Sons of Lothar would have been trapped on Draenor forever, until that pitiful, fragile world collapsed entirely!"
 
 Khadgar took a deep breath. For once, he remained silent, offering no rebuttal.
 
@@ -24,9 +24,9 @@ Khadgar took a deep breath. For once, he remained silent, offering no rebuttal.
 
 "You are my master," Morophil replied softly. Sazeno nodded too. "You're the master..."
 
-On another floating island in the distance, Gaoth'seros lowered his two "eyes" like void stars. Two Felhunters peered timidly from the edge of another island in their direction, letting out pale howls.
+On another floating island in the distance, Gaothoros lowered his two "eyes" like void stars. Two felhounds peered timidly from the edge of another island in their direction, letting out pale howls.
 
-"Yes. I am the master." Jace's voice was calm. "And you are all my assistants, my servants, my shadow magic advisors. So don't speak to me in that tone. If I truly am the most powerful mortal warlock you've ever seen—more powerful than even many Eredar—then doesn't that mean my choices are the right ones? At the very least, the most correct ones so far?"
+"Yes. I am the master." Jace's voice was calm. "And you are all my assistants, my servants, my shadow magic advisors. So don't speak to me in that tone. If I truly am the most powerful mortal warlock you've ever seen—more powerful than even many eredar—then doesn't that mean my choices are the right ones? At the very least, the most correct ones so far?"
 
 "Ah, damn it. Why am I even wasting breath on this nonsense?" He pressed a hand to his forehead and continued. "So. Is there a more direct way for me to control the wild demons I summon with this spell, without you present? If there is, say so. If there isn't, let's wrap this meeting up now and I'll find someone else to work with. No more of the extra talk."
 
@@ -40,9 +40,9 @@ Khadgar stood nearby, watching his friend. His expression was complicated, but h
 
 "Lesser demons fear the pressure of greater demons. This pressure is not an abstraction—which is why the Legion's brands can partially counter it," Kallrez said.
 
-"In the Kirin Tor, we call this power a demon's 'dark aura,' or 'dominance aura.' Some Eredar possess it too," Khadgar said.
+"In the Kirin Tor, we call this power a demon's 'dark aura,' or 'dominance aura.' Some eredar possess it too," Khadgar said.
 
-"Many Eredar can only mimic it through fel-tattoos, using them to more easily enslave demons to their service," Kallrez said.
+"Many eredar can only mimic it through fel-tattoos, using them to more easily enslave demons to their service," Kallrez said.
 
 "Lucky for me, my master is very good at that." Morophil turned around, showing off the tattoos on her body. "See? He inked these himself. They're perfect. And they're even stronger now than when they were fresh on me."
 
@@ -68,7 +68,7 @@ Besides, who knew how long these summoned demons would last against Nefarian's B
 
 The doom lord bent down, cut a gash in his palm with his claw, and smeared burning fel-blood across the ground, deftly carving out several runes that hissed with green flame.
 
-Jace had already grown accustomed to the pressure of standing before a demon as massive as Kallrez. But when those runes were complete, he recalled the night he'd first summoned this demon to the Storm Altar. The pressure of a high-ranking demon was real.
+Jace had already grown accustomed to the pressure of standing before a demon as massive as Kallrez. But when those runes were complete, he recalled the night he'd first summoned this demon to the Altar of Storms. The pressure of a high-ranking demon was real.
 
 When the demon finished, Jace dipped Ulthalesh in the fel-blood and quickly copied Kallrez's runes on the ground. With this additional layer of runework, even Morophil, standing not far away, showed an uncomfortable look on her face.
 
@@ -78,17 +78,17 @@ Jace conjured a handful of Shadowflame and burned the fel-blood off Ulthalesh. "
 
 After transcribing the rune patterns onto a scroll of parchment, Jace and Khadgar left the Telogrus Rift.
 
-To test whether his dark aura runes would actually work, he needed to get far away from Kallrez's plane of existence. Preferably leaving Morophil behind too—a banshee was hardly an ordinary demon, and Jace had seen more than enough of her "pressure" on those other succubi.
+To test whether his dark aura runes would actually work, he needed to get far away from Kallrez's plane of existence. Preferably leaving Morophil behind too—a sayaad huntress was hardly an ordinary demon, and Jace had seen more than enough of her "pressure" on those other succubi.
 
-He and Khadgar pushed deeper into the primeval forest to the east until they came across an abandoned camp that had once belonged to a gnoll tribe. Jace picked out a dilapidated hut that might have once housed a gnoll chieftain, or perhaps an orc, and decided to use it as the target for Gul'dan's Hand.
+He and Khadgar pushed deeper into the primeval forest to the east until they came across an abandoned camp that had once belonged to a gnoll tribe. Jace picked out a dilapidated hut that might have once housed a gnoll chieftain, or perhaps an orc, and decided to use it as the target for Hand of Gul'dan.
 
 He copied the runes from the scroll using Kallrez's blood from a vial, inscribing the dark aura rune. It was almost like being back in the Telogrus Rift. Standing there without the doom lord present and yet still feeling the demon's oppressive presence was a strange experience.
 
-He recited the recombined Gul'dan's Hand incantation. It felt somewhat off, but he managed to gather streams of strangely shimmering mana-serpents through his familiarity with and control over shadow energy, coalescing them into a black meteor strong enough.
+He recited the recombined Hand of Gul'dan incantation. It felt somewhat off, but he managed to gather streams of strangely shimmering mana-serpents through his familiarity with and control over shadow energy, coalescing them into a black meteor strong enough.
 
 The meteor fell, instantly obliterating the largest ruined hut. It sent a spray of wreckage flying. A low figure rose from the burning blaze. As the smoke cleared, a one-armed Mo'arg demon was revealed.
 
-He looked like an unarmored demonic guard, but his body bore no fel-tattoos linked to the Burning Legion. He carried a crude long-handled war-axe and stared this way with a twisted snarl.
+He looked like an unarmored felguard, but his body bore no fel-tattoos linked to the Burning Legion. He carried a crude long-handled war-axe and stared this way with a twisted snarl.
 
 "A wild demon. Kallrez's incantation worked," Khadgar said.
 

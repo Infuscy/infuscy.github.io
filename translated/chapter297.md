@@ -42,7 +42,7 @@ Jace wiped it with the back of his hand — blood.
 
 "...Also," Jace said, wiping the blood that had already gone tacky at the corner of his eye.
 
-Jace thought back to facing that whelp earlier. Beyond the anxiety, the adrenaline, the desperate resistance, and the feeling of being completely out of his depth — how many other emotions had there been?
+Jace thought back to facing that drake earlier. Beyond the anxiety, the adrenaline, the desperate resistance, and the feeling of being completely out of his depth — how many other emotions had there been?
 
 Worry that Vereesa might get hurt. Fear that he might just drop dead at any moment...
 
@@ -110,27 +110,6 @@ As he drew closer, the coppery stench of Shadow still hung in the air.
 
 Jace conjured a Light and looked around. His energy would not hold much longer, so he just got a rough idea of where scales had fallen during the fight, dismissed the spell, and walked over to pick up the more-or-less intact ones from the ground, one by one, and stow them in his bag.
 
-Marin had said black dragon scales were quite valuable. But the one Ronemeth had picked up — judging by the size the mountaineer had gestured — was clearly bigger than anything from this whelp. The ones on the ground here were mostly the size of poplar leaves.
+Malin had said black dragon scales were quite valuable. But the one Ronmeis had picked up — judging by the size the mountaineer had gestured — was clearly bigger than anything from this drake. The ones on the ground here were mostly the size of poplar leaves.
 
 Still, gather as many as you can — they would fetch something.
-
-## Flags
-
-- **黑石氏族:** "Blackrock clan" — not in glossary (glossary has 黑石塔 = Blackrock Spire). Flag for confirmation.
-- **碎手氏族:** "Shattered Hand clan" — not in glossary. Flag for confirmation.
-- **黑手:** "Blackhand" — canonical former orc warchief. Flag for confirmation.
-- **雷德:** "Rend" — Rend Blackhand, Blackrock chieftain and son of Blackhand. Flag for confirmation.
-- **卡加斯·刃拳:** "Kargath Bladefist" — canonical Shattered Hand chieftain. Flag for confirmation.
-- **龙喉 / 血环:** "Dragonmaw" / "Bleeding Hollow" — orc clans. Dragonmaw in glossary (龙喉氏族 = Dragonmaw clan); Bleeding Hollow not in glossary. Flag Bleeding Hollow for confirmation.
-- **耐奥祖:** "Ner'zhul" — canonical orc shaman / Horde leader beyond the Dark Portal. Not in glossary. Flag for confirmation.
-- **古尔丹:** "Gul'dan" (in glossary).
-- **萨格拉斯之墓:** "Tomb of Sargeras" — not in glossary. Flag for confirmation.
-- **塔隆·血魔:** "Teron Gorefiend" (in glossary).
-- **安高尔·死亡之愿:** "Angor Deathwish" — death knight name; not in glossary. Flag for confirmation.
-- **卡兹莫丹:** "Khaz Modan" (in glossary).
-- **荒芜之地:** "the Badlands" — not in glossary. Flag for confirmation.
-- **蛮锤 / 格瑞姆巴托:** "Wildhammer" / "Grim Batol" (both in glossary).
-- **光亮术:** "Light" (glossary: 光亮术 = Light).
-- **罗恩梅斯:** "Ronemeth" — name of the mountaineer who found a dragon scale; not in glossary. Flag for confirmation.
-- **马林:** "Marin" (Master Marin, in glossary).
-- **抗魔药剂:** rendered as "anti-magic potion" in the previous chapter's arc (not present this chapter, but see ch294); not in glossary.

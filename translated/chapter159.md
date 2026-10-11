@@ -14,17 +14,17 @@ And when it was still dark in the morning, it felt like there were more boats th
 
 Of course, this so-called harbor was really just a lakeside dock. The boats mostly ran to the kingdom's capital.
 
-There were also ships bound for the Sunwell Port in Quel'Thalas, but the golden elven vessels were moored far off to one side. It wasn't hard to guess that only elves were allowed aboard.
+There were also ships bound for the Sunsail Anchorage in Quel'Thalas, but the golden elven vessels were moored far off to one side. It wasn't hard to guess that only elves were allowed aboard.
 
 Standing on the pier were two Quel'Thalas soldiers holding long shields and silver blades, white cloaks draped over their shoulders, their gazes fixed on the pedestrians here.
 
 The trip to the Lordaeron capital's harbor only cost two or three silver, and there were plenty of options — fast and slow alike. Jace picked the next departing ship and chose the fastest one he could. The water route alone would eat up the whole day, and if he didn't leave now, the slower boats would spend the night at Fenris village in the middle of the lake and set out again the next day. That'd be way too much time wasted.
 
-All in all, Lake Lordamere was absurdly huge.
+All in all, Lordamere Lake was absurdly huge.
 
 It made him think about last night's human cannon, and that was a terrifying thought.
 
-The little boat glided across Lake Lordamere. The calm surface was enough to lift your spirits. The other passengers were all reading or playing cards, and it was all Jace could do not to drift off alongside them.
+The little boat glided across Lordamere Lake. The calm surface was enough to lift your spirits. The other passengers were all reading or playing cards, and it was all Jace could do not to drift off alongside them.
 
 But he was about to be home. How could he possibly sleep?
 
@@ -32,7 +32,7 @@ He gazed at the hazy pine forests along the shore, the shadowy red eaves, the di
 
 Even the Lordamere madfish that kept swimming alongside the boat, waiting to see if anyone would toss down food — or throw themselves in — were exactly the same.
 
-Out above the islands at the lake's center, a massive fortress faced the Violet Citadel of Dalaran across the water. That was the Lordaeron Kingdom's greatest military stronghold: Fenris Hold.
+Out above the islands at the lake's center, a massive fortress faced the Violet Citadel of Dalaran across the water. That was the Kingdom of Lordaeron's greatest military stronghold: Fenris Keep.
 
 As the boat passed beneath the fortress's walls, the Lordaeron quartered-sword banners rippled in the lake breeze.
 
@@ -40,15 +40,15 @@ At this point in time, the emblem on that flag was still black or blue, not red.
 
 Beneath the banner, soldiers in nasal helms watched the passing boats, raising a hand in salute from time to time. The helmsmen doffed their caps in return.
 
-These colossal walls had once been the nightmare of every child raised in Tirisfal. Standing on the high walls of the capital and looking this way, the fortress's ramparts loomed like a black specter swallowing half of Lake Lordamere — especially in autumn and winter.
+These colossal walls had once been the nightmare of every child raised in Tirisfal. Standing on the high walls of the capital and looking this way, the fortress's ramparts loomed like a black specter swallowing half of Lordamere Lake — especially in autumn and winter.
 
-At night, his parents would say: if you're not good, the werewolves from that fort will come running to your house and eat you.
+At night, his parents would say: if you're not good, the worgen from that fort will come running to your house and eat you.
 
-Back then, Jace had gotten so sick of hearing it that he'd shot back: those werewolves would have to swim dozens of miles. By the time they crawled ashore they'd be exhausted, and then they'd get beaten to a pulp.
+Back then, Jace had gotten so sick of hearing it that he'd shot back: those worgen would have to swim dozens of miles. By the time they crawled ashore they'd be exhausted, and then they'd get beaten to a pulp.
 
 Thinking about those days, he couldn't help but smile.
 
-Once they'd sailed past Fenris Hold, it wasn't long before the capital's walls stretched out for miles ahead.
+Once they'd sailed past Fenris Keep, it wasn't long before the capital's walls stretched out for miles ahead.
 
 This centuries-old wall stood on a cliff above the water, solitary with nothing but the sky behind it. The closer you got, the more it seemed like it might come crashing down on you at any moment. No matter how many times you saw it, you couldn't help but catch your breath.
 
@@ -100,7 +100,7 @@ The guard grabbed Jace's hand. "This is a mage's ring. You a mage now? No wonder
 
 Jace's father picked up his helmet from where he'd been sitting, called over to the other guards, "My son's back! I'm heading out early! Tell young Falticks for me."
 
-"Captain Vick's son is back?"
+"Captain Vic's son is back?"
 
 "How'd he get so tall?"
 
@@ -110,31 +110,8 @@ Jace's father picked up his helmet from where he'd been sitting, called over to 
 
 Jace stood behind his father and watched him chat up the guards old and new, change out of his uniform, and casually swipe a piece of smoked dried meat on his way over.
 
-"Here, eat this. Hennie'll have something good waiting for you when we get back."
+"Here, eat this. Henny'll have something good waiting for you when we get back."
 
 "Are there sausages?"
 
 "Sausages too!"
-
----
-
-## Flags
-
-- 洛丹米尔 → Lordamere (chapter title; the lake = Lake Lordamere, canonical).
-- 达拉然港口 → Dalaran harbor (Dalaran sits on Lake Lordamere's southern shore).
-- 阳帆港 → Sunwell Port (the port of Quel'Thalas/Lordaeron coast; tentative rendering — canonical name for the Thalassian port city is not "Sunwell Port" strictly, but context implies the elven port bound for Quel'Thalas).
-- 奎尔萨拉斯士兵 → Quel'Thalas soldiers (elven forces).
-- 芬里斯堡 → Fenris Hold (canonical fortress in Lake Lordamere).
-- 洛丹伦四剑旗 → Lordaeron quartered-sword banner (the kingdom's flag; described with its pre-Scourge colors).
-- 提瑞斯法 → Tirisfal (canonical region/forest).
-- 旧工匠区 → Old Craftsmen's Quarter (Lordaeron capital district; distinct from Stormwind's Old Town).
-- 维克 → Vick (Jace's father; surname 塞索 = Sesso).
-- 亨妮 → Hennie (Jace's mother).
-- 法提斯 → Falticks (a fellow guard; OC, tentative).
-- 金皮苹果 → golden apple (a Lordaeron orchard fruit).
-- 蛛丝袍子 → spider-silk robes (Jace's clothing).
-- 老家的比南方天黑早 → "The north really did get dark earlier than the south" (geographical note — Lordaeron vs. Stormwind/Dalaran).
-- 冬幕节 → Winter Veil (again in ch156 context; consistent).
-- 鹰巢山 → Aerie Peak (Wildhammer stronghold).
-- 蛮锤 → Wildhammer (dwarven clan).
-- 辛特兰 → The Hinterlands (canonical).

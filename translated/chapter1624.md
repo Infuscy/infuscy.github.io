@@ -1,28 +1,28 @@
-## Chapter 1624: Shadow of the Knight (Revised)
+## Chapter 1624: Shadow of the Knight
 
-"Keep an eye on your magical beast. The griffons here are wary of it. We're not far from Lakeshire, but there's still a stretch to go, and it'd be best if we and our mounts all get along during this trip," Tirion said.
+"Keep an eye on your magical beast. The gryphons here are wary of it. We're not far from Lakeshire, but there's still a stretch to go, and it'd be best if we and our mounts all get along during this trip," Tirion said.
 
-"Then keep those griffons' beaks and your warhammers away from me and my companion, my lord," Jace said. "Otherwise it'll be hard to explain to King Varian what really happened."
+"Then keep those gryphons' beaks and your warhammers away from me and my companion, my lord," Jace said. "Otherwise it'll be hard to explain to King Varian what really happened."
 
 Taelan Fordring was clearly still bristling, glancing at Jace, but he lowered his head again from the searing pain in his arm. A priest had already bandaged him up.
 
 "Fair enough." The Paladin Lord nodded in Jace's direction.
 
-"Please don't converse further with this Death Knight, Lord Tirion Fordring," one knight warned. "Don't forget what trouble that orc brought you."
+"Please don't converse further with this death knight, Lord Tirion Fordring," one knight warned. "Don't forget what trouble that orc brought you."
 
-Tirion swayed gently on his walking griffon's back, saying nothing in reply.
+Tirion swayed gently on his walking gryphon's back, saying nothing in reply.
 
-On the road, a group of griffons were proceeding on foot — a rare sight. Two of them had been injured in the earlier fight and couldn't fly. Combined with Jace's horse, the paladins had decided to walk back to town.
+On the road, a group of gryphons were proceeding on foot — a rare sight. Two of them had been injured in the earlier fight and couldn't fly. Combined with Jace's horse, the paladins had decided to walk back to town.
 
-"King Varian said these Death Knights were spreading plague under the Black Dragon's orders," a priest said. "Should we really be bringing him back to Lakeshire like this?"
+"King Varian said these death knights were spreading plague under the black dragon's orders," a priest said. "Should we really be bringing him back to Lakeshire like this?"
 
-"Archmage Khadgar should have arrived at the Lake Everstill camp by now," the Paladin Lord said, urging his griffon forward with a dwarven call. "He'll sort everything out."
+"Archmage Khadgar should have arrived at the Lake Everstill camp by now," the Paladin Lord said, urging his gryphon forward with a dwarven call. "He'll sort everything out."
 
 Jace called ahead. "The commander of the Silver Hand came south. Why not visit the Cathedral of Light to meet the bishops and Stormwind's citizens?"
 
-Tirion turned back. "I came to the Kingdom of Stormwind to root out evil. I'd rather start hunting for traces of Death Knights immediately than waste time on ceremonies and formalities. Besides, I'm still a man under sentence. I don't deserve the welcome of a people who've suffered so much from orc invasion."
+Tirion turned back. "I came to the Kingdom of Stormwind to root out evil. I'd rather start hunting for traces of death knights immediately than waste time on ceremonies and formalities. Besides, I'm still a man under sentence. I don't deserve the welcome of a people who've suffered so much from orc invasion."
 
-As a follower of the Holy Light carrying the sin of being an orc sympathizer, Tirion Fordring's choice wasn't surprising. But what intrigued Jace more was why a knight from Lordaeron was so eager to hunt Death Knights.
+As a follower of the Holy Light carrying the sin of being an orc sympathizer, Tirion Fordring's choice wasn't surprising. But what intrigued Jace more was why a knight from Lordaeron was so eager to hunt death knights.
 
 Combined with the necrotic plague inside Blackrock Spire, the more he thought about it, the more wrong it felt.
 
@@ -32,7 +32,7 @@ It was Khadgar. That meant rescue. Just as old Fordring had said — Khadgar wou
 
 What Jace hadn't expected, though, was that Khadgar didn't seem especially thrilled to see him either. Particularly when his gaze landed on Midnight beneath Jace.
 
-"Jace Sesso. It's you." The archmage strode over quickly. "I finally found you. Where the hell have you been? I searched from Ilgalar's Tower to your parents' house. I even made a trip to Shadowforge City. Wasted no small amount of mana!"
+"Jace Sesso. It's you." The archmage strode over quickly. "I finally found you. Where the hell have you been? I searched from the Tower of Ilgalar to your parents' house. I even made a trip to Shadowforge City. Wasted no small amount of mana!"
 
 "Something about the plague, Khadgar," Jace said. "I've been running back and forth the past few days."
 
@@ -52,15 +52,15 @@ What Jace hadn't expected, though, was that Khadgar didn't seem especially thril
 
 The other clergy and paladins added their apologies as well. Finally Tirion said, "I will report this immediately to King Varian and the Silver Hand, along with a formal apology. To have injured the hero who saved the Sons of Lothar on the eve of our joint assault on Blackrock Spire... this truly was a grave misunderstanding."
 
-Khadgar looked at them. "I thought you were escorting Jace Sesso here. Turns out you dragged him here as a Death Knight? What a mess."
+Khadgar looked at them. "I thought you were escorting Jace Sesso here. Turns out you dragged him here as a death knight? What a mess."
 
-"We can discuss apologies later, everyone," Jace said. "So what intel do I not know about regarding the Death Knights and the necrotic plague, Khadgar? And what does Midnight have to do with it?"
+"We can discuss apologies later, everyone," Jace said. "So what intel do I not know about regarding the death knights and the necrotic plague, Khadgar? And what does Midnight have to do with it?"
 
 The archmage glanced around, then pointed to one of the tents in the camp. "Let's talk inside."
 
 Jace, Khadgar, and the Fordrings entered the tent. Khadgar immediately cast a spell to seal the entrance, looked at the three people before him as if he wanted to say something but hesitated, then finally said, "You should tell him, Lord Fordring."
 
-The Paladin Lord nodded. "A few days ago, when we first arrived at the harbor, the priests of the Cathedral of Light informed me that Death Knights might be active inside Blackrock Spire. More importantly, those Death Knights were spreading plague, just like the legends from Tirisfal and the Eastern Weald. So we immediately flew to Morgan's Watch on griffons to meet King Varian."
+The Paladin Lord nodded. "A few days ago, when we first arrived at the harbor, the priests of the Cathedral of Light informed me that death knights might be active inside Blackrock Spire. More importantly, those death knights were spreading plague, just like the legends from Tirisfal and the Eastweald. So we immediately flew to Morgan's Vigil on gryphons to meet King Varian."
 
 "The Silver Hand didn't believe the rumors at first," Taelan Fordring said. "Since the Orc Wars, those kinds of stories have never stopped, and there was never solid evidence of plague spreading."
 
@@ -70,9 +70,9 @@ The Paladin Lord nodded. "A few days ago, when we first arrived at the harbor, t
 
 "Could you tell me more about these rumors?" Jace asked.
 
-Taelan nodded. "In recent months, the north has seen legends of Black Knights wielding blood-red blades, riding black horses with evil green eyes. Like Teron Gorefiend and those fallen knights who attacked Hillsbrad Foothills ten years ago, Master Sesso. Many commoners and even priests believe the king's illness is linked to these Black Knights."
+Taelan nodded. "In recent months, the north has seen legends of Dark Riders wielding blood-red scythes, riding black horses with evil green eyes. Like Teron Gorefiend and those fallen knights who attacked Hillsbrad Foothills ten years ago, Master Sesso. Many commoners and even priests believe the king's illness is linked to these Dark Riders."
 
-Black Knights wielding blood-red scythes, riding black horses? Jace felt his heart pound at the description.
+Dark Riders wielding blood-red scythes, riding black horses? Jace felt his heart pound at the description.
 
 He glanced at the staff resting nearby, still seeping blood. Was the implication not obvious enough?
 
@@ -84,7 +84,7 @@ He glanced at the staff resting nearby, still seeping blood. Was the implication
 
 A sleepless night, unhealed injuries, the suspicion of the journey, and this sudden ominous news — Jace felt exhaustion creeping through his entire body.
 
-"What do those Black Knights look like?" he couldn't help asking. "I mean, their faces."
+"What do those Dark Riders look like?" he couldn't help asking. "I mean, their faces."
 
 "So far, no one has seen their true faces," Tirion answered. "But someone witnessed a knight passing nearby wearing a silver Lordaeron Knight's Ring on his hand."
 
@@ -94,6 +94,6 @@ Now Jace understood why showing his own ring had only made the Silver Hand more 
 
 "More or less," Khadgar admitted.
 
-Jace could guess the unspoken half of that sentence. By now, plenty of people in Lordaeron had probably begun conflating the legendary Black Knights with Jace Sesso.
+Jace could guess the unspoken half of that sentence. By now, plenty of people in Lordaeron had probably begun conflating the legendary Dark Riders with Jace Sesso.
 
 At that thought, he couldn't help pressing hard on his brow.

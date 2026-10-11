@@ -2,7 +2,7 @@
 
 Going up the spiral staircase, they passed several wide but incredibly dark library halls that looked like they'd been abandoned for who knows how many years. Though they didn't encounter any more ghosts, wandering rogue arcane constructs, or reanimated skeletons, Jace felt the atmosphere growing stranger and stranger.
 
-It was like that feeling when they'd first entered Karazhan and those flesh beasts had suddenly faded away... this quiet didn't mean real quiet. It meant there was an even more terrible danger lurking ahead. And this wasn't just intuition — the magical traces were far too clear.
+It was like that feeling when they'd first entered Karazhan and those fleshbeasts had suddenly faded away... this quiet didn't mean real quiet. It meant there was an even more terrible danger lurking ahead. And this wasn't just intuition — the magical traces were far too clear.
 
 Khadgar navigated the twisting stairs and passages by distinguishing the intensity of these traces, until they both stopped at the top of a downward stairway.
 
@@ -10,29 +10,29 @@ Below was a rather beautiful door, decorated with star charts similar to those o
 
 The colorful stars and orbits stood out against the pale white door, mysterious and exquisite. If Jace hadn't sensed that something might be waiting behind it, he would have stopped to admire it properly.
 
-"The Observatorium," Khadgar said. "A place I've heard about countless times but never actually been to."
+"The Observatory," Khadgar said. "A place I've heard about countless times but never actually been to."
 
-Jace nodded. So this was the Observatorium.
+Jace nodded. So this was the Observatory.
 
-In the game, the upper levels of Karazhan were far more fantastical than this — floating stairs and bridges everywhere, making you feel like you'd truly entered a star-faring mage's castle, with the Observatorium at the very end.
+In the game, the upper levels of Karazhan were far more fantastical than this — floating stairs and bridges everywhere, making you feel like you'd truly entered a star-faring mage's castle, with the Observatory at the very end.
 
 Here, it was a bit more enclosed, so Jace hadn't immediately realized he'd reached this place.
 
 Still, along the way, looking down from the central railing at the library and exhibition hall below — seeing those floating, ghostly arcane lights everywhere — was impressive enough.
 
-In another timeline, the inhabitant of the Observatorium wasn't an astrologer or a star scholar. It was a Void Darkfiend. The same kind of terrifying void creature that Jace had defeated in the Dragonmaw Fortress, the one that Zuluhed had "raised."
+In another timeline, the inhabitant of the Observatory wasn't an astrologer or a star scholar. It was Netherspite — the same kind of terrifying nether dragon that Jace had defeated in Dragonmaw Fortress, the one that Zuluhed had "raised."
 
-What about this timeline? Would there also be a Void Darkfiend?
+What about this timeline? Would Netherspite be here too?
 
 "Is this the end of the sympathetic trace, Khadgar?" Jace asked.
 
-Khadgar looked back at the corridor, the hall, and the ceiling behind them, then looked toward the door ahead. "All I can say is it converges here. I don't know what the Observatorium looks like inside. Maybe we'll find other doors once we go in."
+Khadgar looked back at the corridor, the hall, and the ceiling behind them, then looked toward the door ahead. "All I can say is it converges here. I don't know what the Observatory looks like inside. Maybe we'll find other doors once we go in."
 
 Jace pulled a vial from his pocket. Khadgar glanced at it. "What's that?"
 
 "Multi-Resistance Elixir," Jace said.
 
-"Given to you by Lady Ursula Delin?" Khadgar took it, uncorked it, and sniffed. "Wait... what are you planning? Are you already prepared for conflict? What misunderstanding do you have with Lady Aegwynn?"
+"Given to you by Lady Ursula Deline?" Khadgar took it, uncorked it, and sniffed. "Wait... what are you planning? Are you already prepared for conflict? What misunderstanding do you have with Lady Aegwynn?"
 
 "You'd better not know, Khadgar. At least not yet. I'll tell you when the time is right," Jace said. "But rest assured, I'll do everything I can to avoid things going that far. I just think... if it really does come to that, I'd like to die with some dignity."
 
@@ -40,7 +40,7 @@ Khadgar stared at Jace for a moment, then pulled out a vial of his own. The liqu
 
 "What's that?" Jace asked.
 
-"Prismatic Miracle Elixir," Khadgar said. "An improved multi-resistance potion brewed by alchemists in Kirin'Var Village using Draenor herbs."
+"Flask of Chromatic Wonder," Khadgar said. "An improved multi-resistance potion brewed by alchemists in Kirin'Var Village using Draenor herbs."
 
 "I don't understand," Jace said. "Are you planning to side with me against Aegwynn? You don't have to get into conflict with her."
 
@@ -50,15 +50,15 @@ Khadgar stared at Jace for a moment, then pulled out a vial of his own. The liqu
 
 He turned to the succubus. "What about you? Ah, I almost forgot. Demons always side with their master, don't they?"
 
-"I side with Jace Sesso," Morofil said with a smile.
+"I side with Jace Sesso," Morophil said with a smile.
 
 Khadgar nodded and downed the elixir. "He is your master, after all."
 
-Jace drank his Multi-Resistance Elixir, glancing at Morofil. The bitter, spicy bite of the Mountain Silversage quickly masked whatever he'd been thinking.
+Jace drank his Multi-Resistance Elixir, glancing at Morophil. The bitter, spicy bite of the Mountain Silversage quickly masked whatever he'd been thinking.
 
 As his body's adaptability to ambient magical energy rapidly increased, even his sense of taste dulled.
 
-Morofil watched them both and said, "If we die here today, when I return to the Twisting Nether, I'll tell the demons a story... about two adventurers who tried to defeat Medivh's mother with two potions."
+Morophil watched them both and said, "If we die here today, when I return to the Twisting Nether, I'll tell the demons a story... about two adventurers who tried to defeat Medivh's mother with two potions."
 
 "You don't think Aegwynn would let your soul leave this tower?" Jace asked.
 
@@ -74,7 +74,7 @@ They walked to the door. Khadgar quipped, "Look, another door to open."
 
 Jace nodded, staring at the pattern on the door, hoping that his series of guesses were just his own paranoid imagination — negative judgments influenced by Karazhan's shadow energy.
 
-Khadgar pushed open the door. Moonlight-like glow spilled out, illuminating the passage. They stepped inside together. Jace noticed that this place looked very similar to the Observatorium from the game.
+Khadgar pushed open the door. Moonlight-like glow spilled out, illuminating the passage. They stepped inside together. Jace noticed that this place looked very similar to the Observatory from the game.
 
 It was a circular hall far wider than the throne rooms of even Stormwind Keep or the Lordaeron royal palace. The dome could rotate open and shut, looking like real celestial phenomena. Amid the flowing arcane and shadow energy, it was impossible to tell which were magical lights and which were painted patterns.
 
@@ -84,7 +84,7 @@ At the other end of the hall, between the windowpanes of floor-to-ceiling window
 
 Of course, the most eye-catching feature was the astronomical telescope hanging from chains in the center. It stood out not just for its absurd size, overshadowing everything else in the hall, but for its magical energy.
 
-Judging by the scattered books, damaged bookshelves, and overturned tables and chairs, the Observatorium — unlike the library — hadn't been maintained in a long time. Yet the residual arcane energy within that telescope still carried a suffocating pressure.
+Judging by the scattered books, damaged bookshelves, and overturned tables and chairs, the Observatory — unlike the library — hadn't been maintained in a long time. Yet the residual arcane energy within that telescope still carried a suffocating pressure.
 
 Then Jace noticed three blurry figures beneath the telescope, looking back in their direction. The blur wasn't from the brilliant, chaotic, strange lights interfering with his vision — it was because the three figures themselves were somewhat ethereal.
 
@@ -104,7 +104,7 @@ Jace remembered that face. Outside the Pig and Whistle, in the heavy rain, acros
 
 "Mirror images," Jace said.
 
-"No, it's not that simple." The mage studied the astronomical telescope, then examined the Observatorium's dome before speaking hesitantly, "I... can't explain it."
+"No, it's not that simple." The mage studied the astronomical telescope, then examined the Observatory's dome before speaking hesitantly, "I... can't explain it."
 
 "And here I thought we'd be stuck in this cage watching the entire continent be swallowed by darkness." A rather arrogant female voice echoed through the hall, indistinguishable from the Aegwynn Jace had heard before.
 
@@ -124,7 +124,7 @@ She knows, Jace thought. She really does know.
 
 He felt like a stone had fallen from his heart — and crushed him dead on the way down.
 
-"I... I'm what?" The mage looked at Jace and Morofil with a bewildered expression. Seeing his reaction, the three figures also seemed to sense something was off.
+"I... I'm what?" The mage looked at Jace and Morophil with a bewildered expression. Seeing his reaction, the three figures also seemed to sense something was off.
 
 "Hm? You really didn't know?"
 
@@ -142,7 +142,7 @@ One of the voices said, "Think about what you did to Medivh, Khadgar. If the Kir
 
 Khadgar glanced at the thing in Jace's hand, his eyes slowly widening, as if he finally understood what had really been going on.
 
-"By the Holy Light, how is this possible?! This thing hasn't appeared in over a thousand years! How can this be the Deadwind Reaper? Isn't there some misunderstanding here, Lady Aegwynn? None of us have ever seen..."
+"By the Light, how is this possible?! This thing hasn't appeared in over a thousand years! How can this be the Deadwind Harvester? Isn't there some misunderstanding here, Lady Aegwynn? None of us have ever seen..."
 
 "Don't rush. Even if this really is that legendary demonic staff, things don't have to go that far, Lady Aegwynn. Jace can hand the staff over to the Kirin Tor — like the Skull of Gul'dan and all other forbidden demonic artifacts — to be kept in Dalaran's vault. I'm sure Jace would be willing to—"
 
@@ -150,7 +150,7 @@ Khadgar glanced at the thing in Jace's hand, his eyes slowly widening, as if he 
 
 "To eliminate this danger, we must follow my teacher's example and help its master find release. Then, before it can claim a second soul, seal it again. And this time, we will do it better than anyone — even Scavell himself — ensuring no accidents occur."
 
-"But we already have a perfect keeper!" Khadgar quickly cut in. "You saw the ceremony at the Cathedral. The Holy Light's own representative among the kingdoms, Archbishop Faol himself bestowed the Mark of Fortitude on Jace. It's on his shoulder right now. He's also a friend of Alexstrasza the Dragonqueen herself, and even the Spell-Weaver was willing to give him gifts. Lady Aegwynn... you... you all should understand what this means!"
+"But we already have a perfect keeper!" Khadgar quickly cut in. "You saw the ceremony at the Cathedral. The Holy Light's own representative among the kingdoms, Archbishop Faol himself bestowed the Sigil of Tyr's Guardian on Jace. It's on his shoulder right now. He's also a friend of Alexstrasza the Dragonqueen herself, and even the Spell-Weaver was willing to give him gifts. Lady Aegwynn... you... you all should understand what this means!"
 
 "Do they know what our hero is carrying?" The voice echoing through the hall asked.
 

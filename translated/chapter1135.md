@@ -20,23 +20,23 @@ The ranger dodged this lightning-fast strike, avoiding the exploding rubble, the
 
 The Obsidian Destroyer snapped open its fanged mouth with a "bang," seemingly trying to bite the elf's head clean off — but the green light in its eyes flashed and it whipped its head around, just in time to see Dazarm IV already climbing onto its body and furiously draining its magic.
 
-The black stone statue whirled around in fury and swung its scepter, shattering the felhunter into a pool of black blood that splashed in every direction. But Vereesa used that opening to wrench free from its stiff grip.
+The black stone statue whirled around in fury and swung its scepter, shattering the felhound into a pool of black blood that splashed in every direction. But Vereesa used that opening to wrench free from its stiff grip.
 
-The statue seemed to realize who the felhunter's master was. Its green eyes locked onto Jace and it began to turn its body. Jace knew — it was going to charge him.
+The statue seemed to realize who the felhound's master was. Its green eyes locked onto Jace and it began to turn its body. Jace knew — it was going to charge him.
 
-Before the Obsidian could launch, Jace urgently chanted the Dark Shield incantation. By the time he finished, the monster was already in front of him!
+Before the Obsidian could launch, Jace urgently chanted the Shadow Shield incantation. By the time he finished, the monster was already in front of him!
 
-It swung its scepter at a speed that made Jace's scalp tingle, its movement practically a spasm. The first blow crashed down heavily on the shield. The shield didn't shatter immediately — but the second strike was already slamming into it with another "BOOM."
+It swung its scepter at a speed that made Jace's scalp prickle, its movement practically a spasm. The first blow crashed down heavily on the shield. The shield didn't shatter immediately — but the second strike was already slamming into it with another "BOOM."
 
-Jace pulled out Ursulas. The red sickle blade had already torn free of its wrappings. He gritted his teeth, ready to swing the scythe at the Obsidian's chest — but the thought had barely formed before the third strike shattered the Dark Shield!
+Jace pulled out Ulthalesh. The red scythe blade had already torn free of its wrappings. He gritted his teeth, ready to swing the scythe at the Obsidian's chest — but the thought had barely formed before the third strike shattered the Shadow Shield!
 
-Those three hits came so fast they were a blur. Aradnia and Vereesa hadn't even had time to react!
+Those three hits came so fast they were a blur. Aeridania and Vereesa hadn't even had time to react!
 
 And even if they had, it wouldn't have done much good. This statue didn't fear magic at all, and Vereesa's arrows could barely scar its obsidian surface.
 
-When the shattered Dark Shield exploded, it rippled outward across the statue's body like waves, tearing up a huge swath of stone tiles from the floor and blasting them away — but the statue itself was completely unfazed...
+When the shattered Shadow Shield exploded, it rippled outward across the statue's body like waves, tearing up a huge swath of stone tiles from the floor and blasting them away — but the statue itself was completely unfazed...
 
-Not only that, the Dark Shield's power hadn't hurt it at all. It actually seemed to make the green light in its eyes burn brighter.
+Not only that, the Shadow Shield's power hadn't hurt it at all. It actually seemed to make the green light in its eyes burn brighter.
 
 Before Jace could swing the scythe, the statue's scepter was already rising for a fourth time. A thought flashed through his mind — there was absolutely no way he could land a hit before this thing did.
 
@@ -52,12 +52,12 @@ That blow gave Jace a chance to escape. He urgently dissolved into Shadowstep ag
 
 Vereesa seemed to have found a rhythm for dealing with the statue. The creature, clearly treating Vereesa's continuous assaults as the greater threat, began chasing her and swinging its scepter wildly — but Vereesa could barely dodge, let alone find an opening to counterattack, because the thing's movements were just flat-out absurdly fast.
 
-At this rate, this monster was going to pound all three of them into paste sooner or later. It could afford to miss a thousand times; Jace and his companions only needed to be caught once. Aradnia made a decisive call and launched an Arcane Barrage that spun into the statue's chest, interrupting its pace and halting its charge.
+At this rate, this monster was going to pound all three of them into paste sooner or later. It could afford to miss a thousand times; Jace and his companions only needed to be caught once. Aeridania made a decisive call and launched an Arcane Barrage that spun into the statue's chest, interrupting its pace and halting its charge.
 
 Jace cast Mana Burn once more. Another thunderous boom, and the shadowy blue fire that followed completely replaced the eerie green glow in the statue's eyes. The Obsidian Destroyer could hold out no longer and collapsed entirely, turning into a heap of scorched rubble amid the burning blue flames — all except the arm still holding the scepter aloft.
 
 Soon, the runes flickering on the scepter dimmed and died in the Shadowflame, turning into a blackened stone. Only after confirming the thing wasn't going to twitch again did Jace hesitantly lower his staff.
 
-"I thought we were going to die here," Aradnia said, dazed.
+"I thought we were going to die here," Aeridania said, dazed.
 
 Vereesa loosened her bowstring and slowly let out a breath, then her legs gave out and she sat down hard on the floor. "This thing is enough to give me nightmares for days, Jace..."

@@ -2,11 +2,11 @@
 
 Following the elf's directions, the two headed south. Crossing the main road, not far off was a farm.
 
-Jace remembered that among the many abandoned farms south of the Duskwood road, one was occupied by werewolves. So before approaching, he'd been keeping a sharp watch on their surroundings.
+Jace remembered that among the many abandoned farms south of the Duskwood road, one was occupied by worgen. So before approaching, he'd been keeping a sharp watch on their surroundings.
 
-Although they'd been going for a full day and night without catching a single glimpse of a werewolf, both of them had started to have their doubts about what Morgan had said. But better safe than sorry — if they didn't care at all and actually ran into one, they'd be the ones holding the short end of the stick.
+Although they'd been going for a full day and night without catching a single glimpse of a worgen, both of them had started to have their doubts about what Morgan had said. But better safe than sorry — if they didn't care at all and actually ran into one, they'd be the ones holding the short end of the stick.
 
-After all, Grede didn't even know what a werewolf was. Once a fight started, he'd definitely be at a disadvantage.
+After all, Grede didn't even know what a worgen was. Once a fight started, he'd definitely be at a disadvantage.
 
 The two of them hid behind a dark old oak trunk that looked like it was about to die, peering toward the farm. Grede pointed at the windmill standing alone across from the barn. "Is that the one he meant? The windmill?"
 
@@ -22,9 +22,9 @@ The peaceful graveyard had suddenly turned into an undead zombie stronghold the 
 
 The dwarf clearly understood what Jace meant. He stared at Jace's eyes for a moment, then silently slid into the ditch on the right — a sunken depression lower than the flat ground.
 
-Feeling their way along the edge of the farm fence toward the windmill, the sky was darker than before. It looked like it was about to black out.
+Feeling their way along the edge of the farm fence toward the windmill, the sky was darker than before. It looked like night was about to fall.
 
-"After we're done with this farm, we're heading back no matter what, Grede." Jace said. "The people in Raven Hill have been living here all these years. Werewolf or not, whatever they said at least proves the danger at night is real."
+"After we're done with this farm, we're heading back no matter what, Grede." Jace said. "The people in Raven Hill have been living here all these years. Worgen or not, whatever they said at least proves the danger at night is real."
 
 "Maybe, but we've come this far — going back empty-handed would be pathetic," the dwarf said, displeased. "If we can't find anything, we'll at least find one more. We're so close to the main road, it's way safer than when we were hunting for kingsblood."
 
@@ -86,7 +86,7 @@ The moment it turned its head, Grede — whether from decisiveness or from frigh
 
 The beast leaped out, smashing through the wall and a pile of broken farming tools on the ground. Its fur, even in the faint light leaking in from outside, still gleamed with a terrifying silver sheen.
 
-Jace brushed the dust and wood chips from his body and pressed against the wall, gripping his axe and staring at the monster. This wasn't a werewolf — it was a giant wolf, almost as tall as his shoulder. Nothing like those wild dog-like forest wolves up north.
+Jace brushed the dust and wood chips from his body and pressed against the wall, gripping his axe and staring at the monster. This wasn't a worgen — it was a giant wolf, almost as tall as his shoulder. Nothing like those wild dog-like forest wolves up north.
 
 The giant wolf's charge split the two of them onto opposite sides. Grede scrambled to his feet and raised his sword, then lunged and drove it into the beast's flank — so deep his arm disappeared into the fur.
 
@@ -105,10 +105,3 @@ Jace looked at him. He was drenched in blood from head to toe, completely red.
 "You hurt?"
 
 "Huh? Ah?" Grede looked down, saw the blood on his body and flinched. He patted himself all over. "No, not my blood."
-
-## Flags
-
-- **有狼** → "Wolves": Grede mouths the warning. He claims to smell them; Jace is skeptical.
-- **狗腰** → "a dog's waist": Jace's reasoning for targeting the wolf's waist (common saying that a dog's midsection is its weakest point).
-- **北边那些野狗似的森林狼** → "those wild dog-like forest wolves up north": Jace comparing the giant wolf to the ordinary forest wolves of Northshire/Elwynn.
-- **巨狼** → "giant wolf" / "giant wolf" / "monstrous wolf": the enormous silver wolf, later identified as a warg. Varied wording for readability.

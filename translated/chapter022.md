@@ -10,7 +10,7 @@ It was the height of summer. Even if Duskwood was cooler than elsewhere, the ice
 
 Grede broke free of the magic soon enough. He hitched up his sword, pulled the short blade from the ground, picked up his small shield and strapped it to his arm, then swaggered over to the elf.
 
-The elf looked up at the dwarf with a vacant stare. "Cut off your head and mount it above your pathetic dirt fireplace as a decoration. Maybe that'll earn you some standing in your Bronzebeard hole in Loch Modan."
+The elf looked up at the dwarf with a vacant stare. "Cut off my head and mount it above your pathetic dirt fireplace as a decoration. Maybe that'll earn you some standing in your Bronzebeard hole in Loch Modan."
 
 "I'm a Wildhammer dwarf, pretty boy." Grede couldn't help but snicker at the sight of him as he knelt down to cut herbs. "Though I'll give it to you — your description of the Bronzebeards is spot on. That deserves a compliment."
 
@@ -100,18 +100,8 @@ The elf said, "Go on. After I rest a bit and recover my strength, I can pry this
 
 "Oh, right." the elf said. "There's a pink potion in the bag. Leave that one for me."
 
-"Pink?" Grede looked at Jace, who pulled out the vial. "Is this a revival potion?"
+"Pink?" Grede looked at Jace, who pulled out the vial. "Is this a Rejuvenation Potion?"
 
 The elf said, "That's right. You don't want your Quel'Thalas ally limping along and getting torn apart by wolves, do you?"
 
 "Allies? Bah!" Grede spat, and the elf laughed.
-
-## Flags
-
-- **猫眼石** → "cat's eye": gemstone on the elf's necklace. Not in glossary.
-- **复苏药剂** → "revival potion": the pink potion the elf asks to keep. Not in glossary; rendered descriptively.
-- **粉红色的药水** → "pink potion": same item as above, color descriptor.
-- **树莓味** → "raspberry-flavored": describing the cheese in the elf's travel bag.
-- **冰激凌** → "ice cream": Jace's comparison for the raspberry cheese flavor (modern transmigrator reference).
-- **旅行袋** → "travel bag": the elf's satchel/pack.
-- **锦囊** → "ornate pouch": the small decorative pouch holding the necklace box.

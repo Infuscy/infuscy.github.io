@@ -10,9 +10,9 @@ The moment they returned to camp, the Major spread the news of meeting Jace Sess
 
 By dinnertime that night, quite a few soldiers had brought their waterskins and thin porridge to "toast" Jace, asking him to tell the story of Grim Batol in detail so they could go back and brag to their wives and children.
 
-Jace was of course happy to share the story with them — minus details like the Demon Soul, or Deathwing invading his dreams and trying to tempt him into serving the Blackwing flight with the promise of eternal life.
+Jace was of course happy to share the story with them — minus details like the Demon Soul, or Deathwing invading his dreams and trying to tempt him into serving the Blackwing Legion with the promise of eternal life.
 
-For one thing, he quite enjoyed being treated as a hero by these brave soldiers fighting on the front lines. For another, this could also let the soldiers help spread the word that he was running all over the Burning Plains investigating, going all out to search for Lord Daval Prestor.
+For one thing, he quite enjoyed being treated as a hero by these brave soldiers fighting on the front lines. For another, this could also let the soldiers help spread the word that he was running all over the Burning Steppes investigating, going all out to search for Lord Daval Prestor.
 
 Since the soldiers' enthusiasm was running high, Jace did his best to get the details across as clearly as possible, aside from the parts he couldn't talk about — including the adventures in the Wetlands, the terrifying oozes, the Dragonmaw clan of Grim Batol, and a warlock who didn't want to be a warlock but ended up turning himself into a shadow demon.
 
@@ -24,23 +24,23 @@ At this hour, Windsor was inspecting his sword and dagger. His war hammer sat to
 
 Hearing footsteps behind him, he turned his head and said, "Ah, Archmage Sesso. I'd really like to have a bout with that dwarf warrior you mentioned — I mean it. You should know His Majesty is an excellent fighter. I'm not bragging, but His Majesty has been my defeated opponent more times than once. What do you think — do you reckon I have a chance against Lord Grede Thunderfist?"
 
-"Hard to say." Jace smiled. "There's no way to know without a fight, Major Windsor. But if he knew there was a hero from the Orc Wars who'd fought across the land under Marshal General Turalyon interested in having a bout with him, he'd be thrilled too."
+"Hard to say." Jace smiled. "There's no way to know without a fight, Major Windsor. But if he knew there was a hero from the Orc Wars who'd fought across the land under General Turalyon interested in having a bout with him, he'd be thrilled too."
 
 "Now you've got me looking forward to it." Windsor rubbed his fingers together. "Speaking of His Majesty Varian — did you know about the Queen being pregnant? It's been a long time since I returned to Stormwind, and I've heard some rumors but couldn't be sure."
 
 "It's true. The King told me himself. He looked extremely happy," Jace said.
 
-Windsor tugged at his shirt collar and let out a long breath, gazing up high. "That's some rare good news to hear in this godforsaken place. I hope that fellow becomes more of a real king after he becomes a father! He mentioned to me before that if he had a child, he'd name them after an ancestor. What do you think it'll be? Llane? Baratheon Wrynn? If it's a girl, perhaps Bellaarae."
+Windsor tugged at his shirt collar and let out a long breath, gazing up high. "That's some rare good news to hear in this godforsaken place. I hope that fellow becomes more of a real king after he becomes a father! He mentioned to me before that if he had a child, he'd name them after an ancestor. What do you think it'll be? Llane? Barathen Wrynn? If it's a girl, perhaps Bellaarae."
 
 "I can't guess that. Who knows what idea His Majesty will have?" Jace said this, but in his heart he thought: Anduin Wrynn, of course.
 
 Perhaps before the war, Varian would have wanted to name his child after his own ancestor. But after the Orc Wars passed and Stormwind went through all this, things were completely different.
 
-Anduin Lassitude had already become the greatest hero in the Alliance, and his pivotal battle beneath Blackrock Spire had thoroughly destroyed the Horde's attempt to rise again — and more crucially, saved Stormwind.
+Anduin Lothar had already become the greatest hero in the Alliance, and his pivotal battle beneath Blackrock Spire had thoroughly destroyed the Horde's attempt to rise again — and more crucially, saved Stormwind.
 
 But Jace could still sense that Windsor bringing this up seemed like he was deliberately showing off his close relationship with the King to a court magic consultant. So he had to put some effort into steering the topic back to business.
 
-"It's good news, no doubt, but His Majesty Varian still has plenty of troubles to deal with right now, Major. There's the Moonbrook situation up ahead, and now Katrana Prestor…" Jace glanced at the dark silver object on the other man's hand that was hard to make out at night and said, "You know, these past few days I've been investigating the matter of the black dragons in the plains north of Redridge, and at the same time learned of a rather unusual clue — the warlocks of the Blackrock Spire rebels have found a way to break drake-men's shapeshifting, even black dragons' shapeshifting, and they've hidden that secret inside a ring. When I saw your ring during the day today, I had some suspicions, because the craftsmanship isn't refined — it doesn't look like something made by a professional jeweler. It might have a special purpose. Plus, you mentioned it was taken from an orc officer, and you've never been able to figure out its actual use…"
+"It's good news, no doubt, but His Majesty Varian still has plenty of troubles to deal with right now, Major. There's the Moonbrook situation up ahead, and now Katrana Prestor…" Jace glanced at the dark silver object on the other man's hand that was hard to make out at night and said, "You know, these past few days I've been investigating the matter of the black dragons in the plains north of Redridge, and at the same time learned of a rather unusual clue — the warlocks of the Blackrock Spire rebels have found a way to break dragonkin's shapeshifting, even black dragons' shapeshifting, and they've hidden that secret inside a ring. When I saw your ring during the day today, I had some suspicions, because the craftsmanship isn't refined — it doesn't look like something made by a professional jeweler. It might have a special purpose. Plus, you mentioned it was taken from an orc officer, and you've never been able to figure out its actual use…"
 
 "Break shapeshifting?" The moment he heard Jace had business to discuss, Windsor immediately put away his joking demeanor from earlier.
 
@@ -48,9 +48,9 @@ He held the ring in his palm and examined it carefully, then asked: "But if this
 
 Jace said, "So I can't be certain either. But I truly don't have the ability to find the secret ring they mentioned. My partner, Lady Sola, and I wasted far too much time and energy, and on more than one occasion we nearly got ourselves killed by dragons… Look, our clues led us eventually to this area too. I don't think that's a coincidence."
 
-He observed the Major's expression and continued: "I'm considering taking it to Dalaran and having the archmages of the Kirin Tor confirm its purpose. You must have heard about the black dragon chaos that happened in Dalaran a few years ago — an important treasure was lost as of it. Since that lesson, Dalaran's research on black dragons has progressed extremely fast."
+He observed the Major's expression and continued: "I'm considering taking it to Dalaran and having the archmages of the Kirin Tor confirm its purpose. You must have heard about the black dragon chaos that happened in Dalaran a few years ago — an important treasure was lost because of it. Since that lesson, Dalaran's research on black dragons has progressed extremely fast."
 
-Jace had originally intended to mention the Wizard Sanctum, but remembering how Windsor had sounded disappointed with the Wizard Sanctum in his words yesterday, he was afraid Andormas's name wouldn't carry enough weight, so he switched it up on the spot and brought out the Kirin Tor instead.
+Jace had originally intended to mention the Wizard's Sanctum, but remembering how Windsor had sounded disappointed with the Wizard's Sanctum in his words yesterday, he was afraid Andromath's name wouldn't carry enough weight, so he switched it up on the spot and brought out the Kirin Tor instead.
 
 Sure enough, the moment Jace mentioned the Kirin Tor, Windsor's expression changed immediately. "Do you know people in the Kirin Tor, Archmage Sesso?" he asked.
 
@@ -60,9 +60,9 @@ Jace directly took out the Kirin Tor Ring of Trust that Antonidas had given him 
 
 He handed the ring to Jace. "I'll entrust this thing to you. Then I won't have to worry every day about orc spies suddenly showing up and stealing it. Those orcs rely on dark magic and shadow power to hide their forms, Archmage. Sometimes I worry they're following our ranks at every moment, waiting for an opportunity."
 
-Jace stole a guilty glance at Morofel, who was standing in the shadows not far behind Windsor, and nodded. "Fortunately the Shattered Hand clan didn't join the Horde of Blackrock Spire, otherwise this kind of thing might really happen at any time."
+Jace stole a guilty glance at Morophil, who was standing in the shadows not far behind Windsor, and nodded. "Fortunately the Shattered Hand clan didn't join the Horde of Blackrock Spire, otherwise this kind of thing might really happen at any time."
 
-After sharing with Windsor the distribution of orc strongholds he and Sola had observed on the Burning Plains, the distribution of orc cavalry on Thaurissan's Road, and the estimated number of orc soldiers around Blackrock Spire, he returned to the tent where he was resting.
+After sharing with Windsor the distribution of orc strongholds he and Sola had observed on the Burning Steppes, the distribution of orc cavalry on the Thaurissan Highway, and the estimated number of orc soldiers around Blackrock Spire, he returned to the tent where he was resting.
 
 "I got the ring," Jace said to Sola, who was sitting to the side. "The stone tablets, plus the ring — so according to what the alchemist in the cave said in the dream, we should now meet the conditions for casting this incantation."
 
@@ -76,11 +76,11 @@ If it was truly as Maloriak said, and this incantation relied on the power of th
 
 That was indeed how it worked in the game. Aside from the time Windsor used it when exposing Onyxia, these stone tablets were never seen again — whether it was the subsequent battles against Nefarian or other black dragons, they never made another appearance.
 
-Of course, it was also possible that these stone tablets simply weren't as powerful as Maloriak or the other orc tablets had envisioned — able to strike "like a dagger stabbed into the heart." After all, that half-dragon alchemist himself had certainly never tested it.
+Of course, it was also possible that these stone tablets simply weren't as powerful as Maloriak or the orc rebels had envisioned — able to strike "like a dagger stabbed into the heart." After all, that half-dragon alchemist himself had certainly never tested it.
 
 "We really need to find a senior mage who's knowledgeable about dragons to examine this thing before we return to Stormwind," Jace said. "That alchemist was raving mad even in the dream. I can't guarantee he didn't leave anything out."
 
-"His mental state really was extremely unstable," Sola thought for a moment, then said. "So who are you planning to find? Master Marin?"
+"His mental state really was extremely unstable," Sola thought for a moment, then said. "So who are you planning to find? Master Malin?"
 
 "Are you kidding? If I'm finding him, why wouldn't I find you?" Jace said, picking up the ring.
 

@@ -2,31 +2,31 @@
 
 Whatever Kel'Thuzad's intentions, the Kirin Tor made no further moves during this period and sent no further notices.
 
-After that, Jace attended his classes and rested as normal, and neither Andormas nor his master Marin brought up anything about the Kirin Tor.
+After that, Jace attended his classes and rested as normal, and neither Andromath nor his master Malin brought up anything about the Kirin Tor.
 
 Though he gradually set his mind at ease, he still couldn't rule Kel'Thuzad out of all this.
 
 After all, the fact that Teron Gorefiend knew his name was just too bizarre. Other than Kel'Thuzad, who else had both the means and the motive to tip off a death knight about his name?
 
-Maybe it really was some kind of reminder — now that everything had settled, Kel'Thuzad wanted Jace to know he still had influence over the Wizard Sanctum, telling him not to get any wild ideas, not to make trouble, to just keep his head down and get on with things.
+Maybe it really was some kind of reminder — now that everything had settled, Kel'Thuzad wanted Jace to know he still had influence over the Wizard's Sanctum, telling him not to get any wild ideas, not to make trouble, to just keep his head down and get on with things.
 
-But compared to Kel'Thuzad's murky suspicions from across Baradin Bay, Jace was actually more concerned about Gajin's situation.
+But compared to Kel'Thuzad's murky suspicions from across Baradin Bay, Jace was actually more concerned about Gakin's situation.
 
-He didn't know how Erland had disposed of that succubus's corpse, but word was that during the orc invasion of Stormwind he'd spent years hiding in the forest with a band of refugees. Chances were they'd grown accustomed to the demons that orc warlocks summoned and had their own ways of dealing with them.
+He didn't know how Erlan had disposed of that succubus's corpse, but word was that during the orc invasion of Stormwind he'd spent years hiding in the forest with a band of refugees. Chances were they'd grown accustomed to the demons that orc warlocks summoned and had their own ways of dealing with them.
 
-That day, after class, Jace had just stepped out of the Wizard Sanctum when he spotted Vereesa sitting in the garden looking his way. When she saw him she waved.
+That day, after class, Jace had just stepped out of the Wizard's Sanctum when he spotted Vereesa sitting in the garden looking his way. When she saw him she waved.
 
 Jace walked quickly into the garden and asked, "How did it go? You're not hurt or anything, right? Everything go smoothly?"
 
-"Almost, but no," Vereesa said. "As for results, I gathered some things that I think should be fadeleaf... both the smell and the appearance match. I left them at the apartment."
+"Almost, but no," Vereesa said. "As for results, I gathered some things that I think should be Fadeleaf... both the smell and the appearance match. I left them at the apartment."
 
 "You work fast. Not even two weeks, wasn't it? How was Stranglethorn Vale?" Jace asked.
 
-Vereesa pinched the tip of her ear and said, "An unknown thorny plant ruined my cloak. Otherwise it was fine — no particular trouble. There really are a lot of crocodiles in the swamps, but they were all quite reasonable."
+Vereesa pinched the tip of her ear and said, "An unknown thorny plant ruined my cloak. Otherwise it was fine — no particular trouble. There really are a lot of crocolisks in the swamps, but they were all quite reasonable."
 
-Jace nodded, then suddenly felt something was off. "Wait — quite reasonable? Crocodiles?"
+Jace nodded, then suddenly felt something was off. "Wait — quite reasonable? Crocolisks?"
 
-"Farstriders learn to communicate with animals," Vereesa said. "Panthers, deer, and so on. Crocodiles too, of course."
+"Farstriders learn to communicate with animals," Vereesa said. "Panthers, deer, and so on. Crocolisks too, of course."
 
 She looked at Jace's bewildered expression. "I thought it was incredible the first time I heard about it too. Of course, you can't have a conversation like with a person, but you can signal that you mean no harm, warn them that if it came to a fight they definitely wouldn't win — simple signals like that."
 
@@ -38,7 +38,7 @@ Seeming to notice Jace's reaction, Vereesa said quickly, "Sorry — I haven't ha
 
 Jace said, "If you ever stopped by my apartment, you'd know this is nothing."
 
-Vereesa smiled. "Right — I don't even know where you live. I can only ever find you at the Wizard Sanctum."
+Vereesa smiled. "Right — I don't even know where you live. I can only ever find you at the Wizard's Sanctum."
 
 "By the canal," Jace said. "I'll tell you once I have a proper, permanent place. The current one I could be moved out of any time."
 
@@ -107,14 +107,3 @@ If he didn't start eating more meat, in a few years he'd stop growing altogether
 Those words yanked Jace out of his ruminations about his parents' heights.
 
 "Right... fine. That'll do."
-
-## Flags
-
-- 温蕾萨·风行者 → Vereesa Windrunner (canonical; not in the glossary — the third Windrunner sister).
-- 枯叶草 → fadeleaf (WoW herb; not in the glossary).
-- 远行者 → farstriders (Quel'Thalas ranger term; not in the glossary, but used in chapter 26+ translations).
-- 拉尔森家 → Larson's shop (tailor shop in the Mage Quarter; 拉尔森 = Larson, not in the glossary).
-- 其体需求 → specific requirements (source has the typo 其体 for 具体).
-- 深褪色 → dark brown (source has the likely typo 深褪色 for 深褐色).
-- 亚麻衬衣 → linen shirt (not in the glossary).
-- Height rendered in centimeters (173–75 cm) to preserve Jace's modern-Chinese-transmigrator internal voice; flag for conversion preference.

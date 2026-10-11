@@ -10,7 +10,7 @@ How could shadow obey an incantation designed to manipulate the arcane?
 
 Unless the shadow energy wasn't obeying the incantation at all — unless it was acting on its own, of its own volition.
 
-It reminded him of that night at Stonewatch, when the shadow fire had suddenly burned hotter and hotter until it destroyed the whole sword.
+It reminded him of that night at Stonewatch, when the Shadowflame had suddenly burned hotter and hotter until it destroyed the whole sword.
 
 If this was true — to use the game's terminology — then this wasn't a spell at all. It was an "ability."
 
@@ -22,9 +22,9 @@ Still, agitation, excitement pushed to the extreme — extreme emotion was fuel 
 
 It seemed that every time the shadow erupted with shocking power beyond his expectations, it came alongside the most extreme of emotions… whether fighting the black dragon, or battling Teron Gorefiend for his life.
 
-Even that night when he'd used Fear to fight off Jagin's Fear.
+Even that night when he'd used Fear to fight off Gakin's Fear.
 
-Was it connected to the black dragon vitality he'd absorbed? Or was it, as Galders had put it, that he was just "naturally" like this? Or maybe both.
+Was it connected to the black dragon vitality he'd absorbed? Or was it, as Zardeth had put it, that he was just "naturally" like this? Or maybe both.
 
 Because now that he'd calmed down, he knew that Scorch hadn't been a successful cast at all. Even by his standards of arcane manipulation, managing to produce fire on the first try was progress, sure.
 
@@ -54,7 +54,7 @@ Jace poured out the water, scrubbed the kettle half clean, put it back, and repl
 
 After brewing the tea, he sniffed it carefully. Confirming there was nothing off about the smell, he carried the pot out.
 
-While Marin drank his tea, Jace stood beside him watching his skin, his eyes, and the rest of him carefully. Seeing nothing abnormal, he finally breathed easier.
+While Malin drank his tea, Jace stood beside him watching his skin, his eyes, and the rest of him carefully. Seeing nothing abnormal, he finally breathed easier.
 
 That lapse in attention earlier had really been dangerous.
 
@@ -62,7 +62,7 @@ After looking after the old mage and getting permission to leave the study, Jace
 
 By then, Grede was already waiting for him by the garden.
 
-The two of them headed to the Blue Heron. Jace found a quiet corner to sit in. Grede glanced around to make sure no one was nearby, then leaned in close. "What'd that elf girl say?"
+The two of them headed to the Blue Recluse. Jace found a quiet corner to sit in. Grede glanced around to make sure no one was nearby, then leaned in close. "What'd that elf girl say?"
 
 "I didn't see her."
 
@@ -90,7 +90,7 @@ Jace looked at him. "I'm heading east in a couple of days."
 
 "Need any help?"
 
-"I'm just going to check something for the boss. I'll be back in two days. Just giving you a heads-up so you don't come looking for me and wonder where I've gone."
+"I'm just going to check something for my master. I'll be back in two days. Just giving you a heads-up so you don't come looking for me and wonder where I've gone."
 
 "Watch yourself on the road, then."
 
@@ -114,7 +114,7 @@ The dwarf turned it over in his mind for a moment. "Is that death knight actuall
 
 Just then the barmaid set two mugs on the table. The dwarf watched her leave, then glanced sideways at Jace. "Shadow? Then how come nobody's come to arrest you?"
 
-"I told them a black dragon injured me, so I've got shadow energy in me, and there are people who can vouch for me," Jace said, taking a swig. "As long as Vereesa is willing to write me a letter of guarantee, and the Magical Defense Division in Dalaran doesn't lose their minds and come after me on purpose, and Teacher Caro Dushan doesn't suddenly develop amnesia, I should get through this safely."
+"I told them a black dragon injured me, so I've got shadow energy in me, and there are people who can vouch for me," Jace said, taking a swig. "As long as Vereesa is willing to write me a letter of guarantee, and the Magical Defense Division in Dalaran doesn't lose their minds and come after me on purpose, and Master Caro Dushan doesn't suddenly develop amnesia, I should get through this safely."
 
 "I can vouch for you too, Jace." Grede thumped his chest. "Does a former gryphon rider's guarantee carry any weight?"
 
@@ -156,7 +156,7 @@ Thinking it through, the matter suddenly didn't feel so light anymore.
 
 "Alright, actually, vouching for me does carry some risk. If she's unwilling, I can't really blame her."
 
-"What kind of bullshit risk?" Grede suddenly flared up. "You fought your heart out for Menethil Harbor. You protected those soldiers at Stonewatch. And — and… you've done so much for these kingdoms, and those damn mages still think there's something wrong with you learning dark magic? I don't get it — if someone can kill with the Holy Light, why isn't someone allowed to save lives with shadow? What kind of logic is that?!"
+"What kind of bullshit risk?" Grede suddenly flared up. "You fought your heart out for Southshore. You protected those soldiers at Stonewatch. And — and… you've done so much for these kingdoms, and those damn mages still think there's something wrong with you learning dark magic? I don't get it — if someone can kill with the Holy Light, why isn't someone allowed to save lives with shadow? What kind of logic is that?!"
 
 Jace looked at the agitated dwarf and sighed. "It's because they haven't traveled with me for the past few months like you have, Grede. Remember how you reacted when you first found out I used dark magic?"
 
@@ -167,16 +167,3 @@ When Grede heard that, he froze, then slowly nodded.
 "Changing a whole group of people's minds… doesn't sound like something a mortal could pull off," Grede said with a bitter laugh, raising his mug.
 
 "But I'll still help you, Sesso — as long as you keep doing what you're doing."
-
-## Flags
-
-- **茶与蜂蜜酒:** Chapter title rendered as "Tea and Mead." Not in glossary.
-- **蓝色隐士:** Rendered as "the Blue Heron" per glossary (Stormwind tavern).
-- **蜂蜜酒:** Rendered as "mead" per glossary.
-- **东谷:** Rendered as "Eastvale" (glossary: 东谷伐木场 / Eastvale Logging Camp). Jace is vague about the destination; "Eastvale" is the nearest named location.
-- **湖畔镇:** Rendered as "Lakeshire" per glossary.
-- **温蕾萨·风行者:** Rendered as **Vereesa Windrunner** (canonical).
-- **夜色镇:** Rendered as "Duskwood" — the Chinese 夜色镇 refers to the town of Duskwood (the settlement within Duskwood zone). Rendered as "Duskwood" for clarity; flag for verification of the exact in-world toponym.
-- **乌鸦岭:** Rendered as "Raven Hill" per glossary.
-- **山丘之王:** Rendered as "Mountain King" — the dwarven title (e.g., Modan Bronzebeard is canonically a Mountain King). Not in glossary.
-- **吃干抹净 / 薅:** A pair of Chinese slang expressions for milking/someone dry. Rendered idiomatically ("clean someone out" / "squeeze her dry").

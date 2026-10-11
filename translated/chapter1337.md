@@ -14,7 +14,7 @@ Jace smiled a little sheepishly. "You didn't go meet the Farstriders."
 
 The stables at Wildhammer Stronghold had acquired several elekks. Every dwarf Jace passed was discussing the draenei who had arrived at the stronghold hall not long ago.
 
-Though Wildhammer Stronghold didn't have as many draenei seeking refuge as Alleria's Stronghold, the soldiers here had still seen plenty of them. They shouldn't have been that surprised by a draenei's appearance. But they were all talking about the prophet's looks — tall, stern, and some rather strange descriptions.
+Though Wildhammer Stronghold didn't have as many draenei seeking refuge as Allerian Stronghold, the soldiers here had still seen plenty of them. They shouldn't have been that surprised by a draenei's appearance. But they were all talking about the prophet's looks — tall, stern, and some rather strange descriptions.
 
 Jace found it hard to focus on the dwarves' chatter. In the back of his mind, he kept feeling that Velen's arrival at Wildhammer Stronghold at this exact moment was almost... scripted.
 
@@ -40,9 +40,9 @@ Even the priest who had opposed him so firmly, even the female priest who'd left
 
 Four draenei stood beside Turalyon. Their height and skin color were impossible to miss, even in the dim firelight. Jace could see them clearly as soon as he entered.
 
-The elderly draenei in the middle was the tallest. Jace felt he might be even taller than Livius — practically a giant.
+The elderly draenei in the middle was the tallest. Jace felt he might be even taller than Levixus — practically a giant.
 
-Now Jace understood why every soldier in Wildhammer Stronghold was muttering about his appearance. This old man looked more like a fearsome Eredar lord than a typical draenei. Even Bartas seemed almost normal by comparison.
+Now Jace understood why every soldier in Wildhammer Stronghold was muttering about his appearance. This old man looked more like a fearsome eredar lord than a typical draenei. Even Batas seemed almost normal by comparison.
 
 Yet despite this, he inspired no hostility or wariness.
 
@@ -58,9 +58,9 @@ But the light emanating from Velen made him blink slightly, reminding him of tho
 
 Jace was a bit startled. "How do you know my name?"
 
-"Marshal Turalyon told me, of course." Velen smiled. The cracked skin on his face looked like purple bark, especially when he smiled.
+"General Turalyon told me, of course." Velen smiled. The cracked skin on his face looked like purple bark, especially when he smiled.
 
-Jace relaxed slightly. For a moment he'd thought Velen had foreseen even his name and appearance. After seeing Yorin Deathgaze's abilities, Jace wasn't about to let his guard down around this kind of foresight.
+Jace relaxed slightly. For a moment he'd thought Velen had foreseen even his name and appearance. After seeing Jorin Deadeye's abilities, Jace wasn't about to let his guard down around this kind of foresight.
 
 "I'm Jace Sesso," Jace said. "An honor to meet you, Prophet."
 
@@ -106,7 +106,7 @@ He knew his Eredun had a distinctly demonic flavor, but since Velen had initiate
 
 "Timing?"
 
-"Kil'jaeden had cast an inescapable net. Even the Naaru stopped answering our calls." The aged draenei prophet looked down at Jace. "At that time, I could see no future, receive no guidance. So I could only gather whatever survivors I could find and keep them as far from the war as possible, using illusions and magic to evade demon pursuit. In the hardest moments, I thought the end had come — that our long wandering would finally end here. Until..."
+"Kil'jaeden had cast an inescapable net. Even the naaru stopped answering our calls." The aged draenei prophet looked down at Jace. "At that time, I could see no future, receive no guidance. So I could only gather whatever survivors I could find and keep them as far from the war as possible, using illusions and magic to evade demon pursuit. In the hardest moments, I thought the end had come — that our long wandering would finally end here. Until..."
 
 "You found a way out of here?" Jace looked up.
 
@@ -116,7 +116,7 @@ He knew his Eredun had a distinctly demonic flavor, but since Velen had initiate
 
 "But you don't agree with that plan." Velen said. "You know what taking up the Scepter of Sargeras means."
 
-Jace looked at him in surprise. "Did Marshal Turalyon tell you that too?"
+Jace looked at him in surprise. "Did General Turalyon tell you that too?"
 
 Velen said nothing, as if Jace hadn't finished speaking.
 
@@ -148,4 +148,4 @@ Jace was completely stunned. This draenei had ridden here on an elekk, led by th
 
 From near the Zangar Sea, north of Shattrath City, the journey would take at least ten days. If he'd started from Blade's Edge, probably close to a month. But wasn't he describing what happened just this morning?
 
-"A dear friend once told me that perhaps we too could try to listen for voices from that world, like the wise ones of the tribal clans. Especially in the darkest of times." Velen said. "Go to the Tomb of Light, Jace Sesso. Ask those spirits yourself. Seek your answer."
+"A dear friend once told me that perhaps we too could try to listen for voices from that world, like the wise ones of the tribal clans. Especially in the darkest of times." Velen said. "Go to the Tomb of Lights, Jace Sesso. Ask those spirits yourself. Seek your answer."

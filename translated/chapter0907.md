@@ -4,7 +4,7 @@ Following the alchemist, Jace went down the corridor to another narrow room, sta
 
 "These are all things we haven't had time to sort out yet, Jace. Help me move these aside," Ursula waved him over.
 
-Jace nodded and helped her shift the crates away, pulling out a small box from beneath. Inside were quite a few letter-like materials, along with two opaque dark vials pressing down on them.
+Jace nodded and helped her shift the crates away, pulling out a small box from beneath. Inside were quite a few papers that looked like letters, along with two opaque dark vials pressing down on them.
 
 "Take a look." Ursula picked up one of the vials and held it to the lamp light — it wasn't very transparent either. "I have no idea what's inside. It's not ink, and it's not any potion I'm familiar with. It smells a bit fishy. I have a guess, but I'm afraid it might mislead you, so you look first."
 
@@ -18,7 +18,7 @@ Jace pulled out the stopper and gave it a sniff. A long, extremely painful memor
 
 "Black dragon's blood," Jace said.
 
-"So it really is black dragon blood." Ursula frowned. "None of us dared be sure, but given Lakeshire… you know about the black dragon-worshiping cult too. Could this boxer have managed to summon a doomguard because of the black dragon's blood?"
+"So it really is black dragon blood." Ursula frowned. "None of us dared be sure, but given Lakeshire… you know about the black dragon-worshiping cult too. Could this boxer have managed to summon a felguard because of the black dragon's blood?"
 
 "How would it be used?" Jace said. "My master told me that if an ordinary person drank black dragon blood directly, it would either kill or cripple them."
 
@@ -26,35 +26,37 @@ Jace pulled out the stopper and gave it a sniff. A long, extremely painful memor
 
 Jace shook his head. He didn't jump to a conclusion either — instead he flipped through the papers pressed under the vials.
 
-Some of these were spell components needed to summon a doomguard, including tools for drawing the circle. There was sheep's blood marked on it, along with pigments, so the black dragon's blood probably wasn't used to draw the circle either.
+Some of these were spell components needed to summon a felguard, including tools for drawing the circle. There was sheep's blood marked on it, along with pigments, so the black dragon's blood probably wasn't used to draw the circle either.
 
 He flipped further, and the next few pages were actually scrawled with Common-letter characters that Jace couldn't make heads or tails of.
 
-But going off his previous experience translating demonic script and orcish, he could tell these were phonetic transcriptions of some other language. In other words, there might be incantations or the like in some other language, and this boxer probably didn't need to understand what these incantations meant — he just had to read them aloud like this.
+But going off his previous experience translating Demonic script and Orcish, he could tell these were phonetic transcriptions of some other language. In other words, there might be incantations or the like in some other language, and this boxer probably didn't need to understand what these incantations meant — he just had to read them aloud like this.
 
-Jace tried reading through this language, then searched through what he knew in the demonic tongue and orcish, but nothing quite fit.
+Jace tried reading through this language, then searched through what he knew in Demonic and Orcish, but nothing quite fit.
 
-Still, he glanced at the vial beside him and thought — could this be dragon language? The language of black dragons?
+Still, he glanced at the vial beside him and thought — could this be Draconic? The language of the black dragons?
 
-Thinking this, he looked through it again and read along. Even with his limited dragon-language skills, he managed to pick out two or three words he thought he could understand.
+Thinking this, he looked through it again and read along. Even with his limited Draconic, he managed to pick out two or three words he thought he could understand.
 
-Of course, he couldn't be sure either — it just seemed more like dragon tongue than the demonic orcish tongues, judging by how the syllables rolled off the tongue.
+Of course, he couldn't be sure either — it just seemed more like Draconic than Demonic or Orcish, judging by how the syllables rolled off the tongue.
 
-His dragon-language level wasn't high to begin with. Trying to piece together the full meaning from phonetic Common-letter transcriptions was basically a fantasy. And handing these things over to a dragon-language teacher in the Wizard Sanctum wasn't really an option either — after all, this was connected to a demon summoner. If there was something sensitive in there, wouldn't that be asking for trouble for no reason?
+His Draconic wasn't good to begin with. Trying to piece together the full meaning from phonetic Common-letter transcriptions was basically a fantasy. And handing these things over to a Draconic teacher in the Wizard's Sanctum wasn't really an option either — after all, this was connected to a demon summoner. If there was something sensitive in there, wouldn't that be asking for trouble for no reason?
 
 Wait a moment — didn't he have a real, genuine dragon right here? Why not bring these things for Sola to take a look?
 
 "Can I take these?" Jace asked.
 
-"Yes — Galders said he wanted you to take them and see if there's anything useful," Ursula nodded. "Where is he?" Jace asked.
+"Yes — Zardeth said he wanted you to take them and see if there's anything useful," Ursula nodded.
+
+"Where is he?" Jace asked.
 
 "Not sure exactly. Probably also because of the Moonbrook business — he's been run off his feet with those troubles lately," Ursula said.
 
 "So what exactly happened in Moonbrook?" Jace asked.
 
-Ursula briefly brought Jace up to speed on what the Dagger Society knew, but from the summoning accident to the demon leak to the warlocks being captured, it all seemed more or less the same as what SI:7 and Marin had described.
+Ursula briefly brought Jace up to speed on what the Dagger Society knew, but from the summoning accident to the demons getting loose to the warlocks being captured, it all seemed more or less the same as what SI:7 and Malin had described.
 
-Ursula could also tell Jace probably already knew most of it, so in the end she just said, "We heard it all from elsewhere too. Most of the warlocks involved have been caught by the Wizard Sanctum people by now… Are you planning to go to Moonbrook to investigate this yourself?"
+Ursula could also tell Jace probably already knew most of it, so in the end she just said, "We heard it all from elsewhere too. Most of the warlocks involved have been caught by the Wizard's Sanctum people by now… Are you planning to go to Moonbrook to investigate this yourself?"
 
 Jace said, "I have to go, Ursula. I need to make sure this business won't cause any follow-up trouble. The rest is secondary — I was originally planning to bring my parents to Stormwind after coming back from Kalimdor, but then all these things happened. How could I feel at ease bringing them here?"
 
@@ -74,7 +76,7 @@ Back in the little alchemy lab, Jace pointed to the herbs fed on demon's blood m
 
 "The bear god the furbolgs worship is called Ursoc. I think they just linked the powerful effect this potion provides to the bear god," Jace said.
 
-Ursula shook her head. "That's not necessarily so, Jace. These ancient recipes sometimes have every single word and term influencing the potency. They might have misunderstood the cause, but it brought them the result they wanted. After all, this is the summary of thousands of years of experience — it can't be dismissed entirely. Still, I'll try brewing this potion first and see. Black Lotus… damn it, at a time like this they still want me to bleed money to procure Black Lotus — it's going to cost me three lives."
+Ursula shook her head. "That's not necessarily so, Jace. These ancient recipes sometimes have every single word and term influencing the potency. They might have misunderstood the cause, but it brought them the result they wanted. After all, this is the summary of thousands of years of experience — it can't be dismissed entirely. Still, I'll try brewing this potion first and see. Black Lotus… damn it, at a time like this they still want me to bleed money to procure Black Lotus — it's going to cost me an arm and a leg."
 
 "What about payment?" Jace rested his arm on the table beside him.
 
@@ -84,7 +86,7 @@ Ursula shook her head. "That's not necessarily so, Jace. These ancient recipes s
 
 Jace pursed his lips, clearly dissatisfied. Ursula immediately frowned, angry. "You know how expensive Black Lotus is, you little brat!"
 
-"Sorry, sorry — then it's a deal." Jace straightened up, straightened his shirt, and lifted his cloak. "I'm heading back to the tavern to get the robe for Kayleyn. Hope the brewing goes well."
+"Sorry, sorry — then it's a deal." Jace straightened up, straightened his shirt, and lifted his cloak. "I'm heading back to the tavern to get the robe for Jalane. Hope the brewing goes well."
 
 Ursula couldn't help but laugh again. "All right, go. When you come back I'll prepare something to eat for you, Jace."
 

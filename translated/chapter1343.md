@@ -4,17 +4,17 @@ The ethereals got along better with the gnome engineers at Wildhammer Stronghold
 
 They were planning to jointly design equipment that would keep the communicators running stably within the stronghold, using mana crystals made by Kirin Tor mages to power the communicators instead of mana lattices. Wildhammer Stronghold had no way to manufacture mana lattices.
 
-Ethereals were adept at using local mana sources on every planet to power their own devices. The mana lattice itself wasn't even their own technology — it was a mana storage method the Draenei had learned from the ancient Naaru ships.
+Ethereals were adept at using local mana sources on every planet to power their own devices. The mana lattice itself wasn't even their own technology — it was a mana storage method the draenei had learned from the ancient naaru ships.
 
 Since the ethereals had managed to connect mana lattices to their own equipment in such a short time, making them work with magic crystals created by the Expedition's mages probably wouldn't be difficult either.
 
-Later on, Kael'thas Sunstrider would seize the Naaru fleet and Tempest Keep, allowing his Sunfury Army to master this technology as well. They'd build several Mana Forges on the shattered remains of Farahlon to manufacture and transport these mana lattices.
+Later on, Kael'thas Sunstrider would seize the naaru fleet and Tempest Keep, allowing his Sunfury Army to master this technology as well. They'd build several manaforges on the shattered remains of Farahlon to manufacture and transport these mana lattices.
 
 That very process would turn what was still a broken landscape retaining a fair amount of forest and wilderness into a hideous purple wasteland.
 
-But for now, Tempest Keep hadn't arrived on Draenor. The only Naaru ship on this world was Oshu'gun, which had been abandoned long ago. The Legion's barrier also made it impossible for Illidan, Kael'thas, and Lady Vashj's forces to easily teleport here in the future.
+But for now, Tempest Keep hadn't arrived on Draenor. The only naaru ship on this world was Oshu'gun, which had been abandoned long ago. The Legion's barrier also made it impossible for Illidan, Kael'thas, and Lady Vashj's forces to easily teleport here in the future.
 
-Once the Scepter of Sargeras was destroyed, if Sabellian had the skill to survive by exploiting the contradictions between the fel orcs and the Burning Legion, even use the fel orcs to defeat Gruul in the future battle for Blade's Edge Mountains and become the new "Lord of Outland," then perhaps Farahlon's life could maintain its current state — rather than barely surviving inside ecosystem domes built by the Consortium, like in another timeline.
+Once the Scepter of Sargeras was destroyed, if Sabellian had the skill to survive by exploiting the contradictions between the fel orcs and the Burning Legion, even use the fel orcs to defeat Gruul in the future battle for the Blade's Edge Mountains and become the new "Lord of Outland," then perhaps Farahlon's life could maintain its current state — rather than barely surviving inside eco-domes built by the Consortium, like in another timeline.
 
 Jace had always wanted to set foot on that mysterious magical land and see what it looked like before it was completely burned. When he first arrived on Draenor, he'd thought Farahlon had already become the Netherstorm from the game. But under the technician Jabal's demonstration, the sight of that cliffside dense forest had stirred a regret from his past life — a regret for this unknown land he'd never gotten to explore.
 
@@ -22,21 +22,21 @@ But that was just his own selfish desire. Once the Expedition returned to Azerot
 
 "Our mana bridge is still in the verification phase right now," the ethereal technician explained to everyone in the stronghold's hall. "Theoretically, it can connect different floating islands, all the way to linking Blade's Edge Mountains and Farahlon. But full accessibility will take several more years."
 
-"Arcane teleportation hasn't been viable since the Scepter of Sargeras tore Draenor apart, let alone now," the image of Archmage Vargos said.
+"Arcane teleportation hasn't been viable since the Scepter of Sargeras tore Draenor apart, let alone now," the image of Archmage Vargoth said.
 
-"Our gryphon riders can't break through the shadow storms in the Void like black dragons can..." High Lord Kurdran said, looking at Turalyon in a low voice.
+"Our gryphon riders can't break through the shadow storms in the Void like black dragons can..." High Thane Kurdran said, looking at Turalyon in a low voice.
 
-"Alright, alright." Sabellian raised both hands impatiently. "I understand what you're all saying. I already promised Marshal Turalyon this. We just need a timeline now."
+"Alright, alright." Sabellian raised both hands impatiently. "I understand what you're all saying. I already promised General Turalyon this. We just need a timeline now."
 
 "You should have started moving the moment you and Jace entered Auchindoun," Turalyon said. "While you're communicating with the Shadow Council's orcs about how to deal with the Auchenai necromancers, we need to transport the mages from Kirin'Var Village to Allerian Stronghold. That way they can assist Jace in using his demonic ritual to transmit the ethereal spells at any time."
 
-"That would also let us support any changes in Auchindoun at a moment's notice," the image of Archmage Vargos added.
+"That would also let us support any changes in Auchindoun at a moment's notice," the image of Archmage Vargoth added.
 
-"Yes," Alleria said. "Jace and Lady Sora's safety is paramount."
+"Yes," Alleria said. "Jace and Lady Sola's safety is paramount."
 
 "Truly heartbreaking," Sabellian muttered.
 
-"I don't think the Expedition needs to worry about your safety, Baron Sabermayne," Alleria said coldly.
+"I don't think the Expedition needs to worry about your safety, Baron Sablemane," Alleria said coldly.
 
 "That much is true." Sabellian flashed a quick smile. "I can guarantee that the hundred or so survivors from Kirin'Var Village can be smuggled into Terokkar Forest discreetly. But transferring Honor Hold's two thousand-plus people will take considerable time and create no small amount of noise. There's no way to hide it from Hellfire Citadel."
 
@@ -44,7 +44,7 @@ But that was just his own selfish desire. Once the Expedition returned to Azerot
 
 "How discreet the whole process can be depends on General Danath Trollbane's skill," Alleria said. "He's a battle-hardened veteran. He led an elite mercenary company fighting the forest trolls of Arathi for decades before the Orc Wars. I believe he can do it."
 
-"The fel horde might not go all out to stop the Expedition from evacuating Honor Hold," Jace said. "We met Kargath Bladefist before. It seems like he'd rather we leave sooner so he can seize the Scepter of Sargeras and oppose the Burning Legion."
+"The Fel Horde might not go all out to stop the Expedition from evacuating Honor Hold," Jace said. "We met Kargath Bladefist before. It seems like he'd rather we leave sooner so he can seize the Scepter of Sargeras and oppose the Burning Legion."
 
 "I can vouch for that," the Black Dragon Prince said. "If your acting hadn't been so convincing, Jace Sesso, you might have actually made him afraid of the Deceiver. His resolve to fight the Burning Legion might have been even stronger."
 
@@ -56,11 +56,11 @@ But that was just his own selfish desire. Once the Expedition returned to Azerot
 
 Kurdran looked up at the ceiling beams of the stronghold. "We've been fighting here for years... repelling wave after wave of orc and demon assaults. To be honest, I've grown quite attached to this fortress, everyone. Saying goodbye like this — I'll miss it."
 
-"I'll stay and fight alongside you in this fortress until the last moment, buying time for our warriors to retreat, High Lord," Grede said.
+"I'll stay and fight alongside you in this fortress until the last moment, buying time for our warriors to retreat, High Thane," Grede said.
 
 "I know." Kurdran patted Grede's shoulder. "The Thunderfist family has always been among the bravest and noblest warriors of the Wildhammer — from Ironforge to Grim Batol to Aerie Peak, and now in Shadowmoon Valley!"
 
-The image of Archmage Vargos flickered. "Then all our hopes rest on that portal. As long as the operation in Auchindoun goes smoothly. As long as those souls don't break their oath..."
+The image of Archmage Vargoth flickered. "Then all our hopes rest on that portal. As long as the operation in Auchindoun goes smoothly. As long as those souls don't break their oath..."
 
 Everyone's eyes turned to Jace. He nodded.
 
@@ -74,11 +74,11 @@ Truth be told, it wasn't just Sabellian who thought that way. If those hateful s
 
 "I think the Farstriders can help too," Vereesa said. "To make it easier for the Shadow Council in Auchindoun to believe Jace and the others, we can pretend to be chasing this group of disguised orcs. Make them believe these orcs had to fight hard to break through the Alliance's lines and reach Auchindoun."
 
-"That makes sense," Alleria said. "I'll handle it. When the time comes, take a few of your best Farstriders and try to attack the Auchenai priests' hidden crypts in the Bone Wastes. Let the Shadow Council's spies feel like the Alliance wants to start a conflict with Archbishop Maladaar. Give the Shadow Council a 'golden opportunity' to unify Auchindoun."
+"That makes sense," Alleria said. "I'll handle it. When the time comes, take a few of your best Farstriders and try to attack the Auchenai priests' hidden crypts in the Bone Wastes. Let the Shadow Council's spies feel like the Alliance wants to start a conflict with Exarch Maladaar. Give the Shadow Council a 'golden opportunity' to unify Auchindoun."
 
 "What if he doesn't take the bait?" Vereesa asked.
 
-"You worry too much, Ranger-Lord." Sabellian let out two cold laughs. "Your little lover will make him take the bait. Don't worry. Just think about how persuasive the sweet talk he gives you is — you won't have any doubts after that."
+"You worry too much, Ranger Lord." Sabellian let out two cold laughs. "Your little lover will make him take the bait. Don't worry. Just think about how persuasive the sweet talk he gives you is — you won't have any doubts after that."
 
 Vereesa looked down uncomfortably and didn't respond. Grede couldn't help but burst out laughing. But no one else in the hall made a sound, so the dwarf coughed a couple of times and shut his mouth.
 

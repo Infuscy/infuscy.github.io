@@ -1,6 +1,6 @@
 ## Chapter 1780: One More We Forgot
 
-Using the emerald pendant's power, the group slipped past the guards heading upstairs and raced down to the second floor. They followed some hurriedly descending wizards through the Kirin Tor guards stationed at the stairwell, pulling their hoods low to avoid being recognized as the three young-looking mages who'd been stopped at the stairs earlier.
+Using the power of Ysera's earring, the group slipped past the guards heading upstairs and raced down to the second floor. They followed some hurriedly descending wizards through the Kirin Tor guards stationed at the stairwell, pulling their hoods low to avoid being recognized as the three young-looking mages who'd been stopped at the stairs earlier.
 
 "Here." Taking advantage of a moment with no one around, Khadgar handed the transparent, magic-stone key back to Vereesa. "Remember, back in the original pocket."
 
@@ -22,7 +22,7 @@ No time to wonder where Grede had gone. Lucky for them, Archmage Drenden was sti
 
 "Archmage Drenden!"
 
-"Ah, you're the one... the apprentice that Hormal caught." Drenden turned around with a polite smile.
+"Ah, you're the one... the apprentice that Homir caught." Drenden turned around with a polite smile.
 
 "Yes, that's me, Archmage." Jace rubbed his hands together. "I came to properly thank you. I've already explained the situation to my teacher and fulfilled my end of the agreement. If not for you and Archmage Modera, only the Holy Light knows if I'd have made it to the second floor alive."
 
@@ -36,7 +36,7 @@ Jace glanced through the gate at Vereesa, and at Khadgar nearby who'd somehow co
 
 Jace nodded politely, turned, and walked briskly out the gate. He checked his watch. He was already a few seconds past the deadline.
 
-He ran down the steps to join Khadgar, Vereesa, and Sora, and looked at the crowds moving back and forth across the street. The castle square was packed with mages — some had come to see what the commotion was about, others wanted to ask about the sudden storm that had swept through Dalaran. Assistants and apprentices were hurrying off in every direction to report to their posts.
+He ran down the steps to join Khadgar, Vereesa, and Sola, and looked at the crowds moving back and forth across the street. The castle square was packed with mages — some had come to see what the commotion was about, others wanted to ask about the sudden storm that had swept through Dalaran. Assistants and apprentices were hurrying off in every direction to report to their posts.
 
 The Violet Citadel's outer wall had taken some damage. It'd need simple repairs soon enough.
 
@@ -48,15 +48,15 @@ Antonidas's ritual was complete. Jace didn't need Khadgar to tell him.
 
 "The barrier-resistance conversion ritual isn't a gnomish machine. You don't set it and get to-the-second, or even to-the-millisecond, precision." Khadgar said. "This is Archmage Antonidas guiding the mana with his own two hands. A little fast or slow is perfectly normal."
 
-"Maybe the Wind Prince's storm interfered with his casting. Maybe his age is catching up with him these last two years. If you ask me, I'd rather say time just chose to be on our side."
+"Maybe the Prince of Air's storm interfered with his casting. Maybe his age is catching up with him these last two years. If you ask me, I'd rather say time just chose to be on our side."
 
-"So... we made it?" Sora asked.
+"So... we made it?" Sola asked.
 
 "That's right, Lady Green Dragon." Khadgar could barely contain his excitement, his voice low. "It's hard to say whether this Violet Citadel escape went smoother or worse than expected... but either way, we've pulled it off. Now all we need to do is complete that demonologist's Nathrezim detection plan before your life energy burns down to the critical threshold. I'm optimistic about that plan."
 
-Hearing that, Jace finally relaxed. Khadgar and his clone were definitely not compromised.
+Hearing that, Jace finally relaxed. Khadgar and his mirror image were definitely not compromised.
 
-Khadgar was exactly what his clone had said he was — sitting in a luxury suite, listening to them talk.
+Khadgar was exactly what his mirror image had said he was — sitting in a luxury suite, listening to them talk.
 
 In a way, the Violet Citadel's tight magical barrier and life-force monitoring system had actually helped clear things up. A dreadlord-possessed wizard could never have stayed in that room for so long without being exposed.
 
@@ -68,7 +68,7 @@ He looked at Jace. "Don't tell me we don't have time to waste because we need to
 
 "Absolutely." Vereesa snapped her fingers.
 
-"I did pretty well, didn't I, Jace?" Sora asked.
+"I did pretty well, didn't I, Jace?" Sola asked.
 
 "Way more than 'pretty well.' Honestly, I was the weak link. I almost lost the balance a couple of times." Jace said.
 
@@ -82,9 +82,9 @@ He looked at Jace. "Don't tell me we don't have time to waste because we need to
 
 "Oh no." Vereesa said. "Did that guy get thrown into the Violet Hold?"
 
-"You might be misunderstanding the Violet Hold, Ranger-Lord." Khadgar lowered his voice. "That place is for catching people like me and Sesso. Disobedient mages, unruly demons. People who go in generally don't come back out. A dwarf from the Aerie wouldn't get locked up just for having a bad temper. They probably took him to the security office to cool down and answer some questions."
+"You might be misunderstanding the Violet Hold, Ranger Lord." Khadgar lowered his voice. "That place is for catching people like me and Sesso. Disobedient mages, unruly demons. People who go in generally don't come back out. A dwarf from Aerie Peak wouldn't get locked up just for having a bad temper. They probably took him to the security office to cool down and answer some questions."
 
-"Would they recognize him?" Sora asked. "Does anyone at Dalaran's security office... know him?"
+"Would they recognize him?" Sola asked. "Does anyone at Dalaran's security office... know him?"
 
 "Thunderfist was dressed up like that. Even if you three saw him in person, you probably wouldn't dare to identify him right away." Khadgar shook his head. "Don't worry too much. Truth serums don't work very well on dwarves to begin with, let alone a Mountain King who's inherited his ancestral power. As long as he sticks to his story..."
 
@@ -92,7 +92,7 @@ Khadgar stopped mid-sentence. He ducked his head slightly, feigning a casual gla
 
 Vereesa seemed to notice something too. She edged aside and pulled her hat brim lower.
 
-Sora, standing across from them, noticed something was off. She glanced uncertainly at Jace. Jace turned his head and snuck a peek in the direction Khadgar had been looking.
+Sola, standing across from them, noticed something was off. She glanced uncertainly at Jace. Jace turned his head and snuck a peek in the direction Khadgar had been looking.
 
 A group of high elves were heading their way from another street.
 
@@ -108,7 +108,7 @@ The dwarf king walked up to Kael'thas looking annoyed and said something. Kael't
 
 "Kurdran's here too?" Khadgar asked. "When did he get to Dalaran? Are the Wildhammers finally considering arcane magic now that I've been locked up for a few weeks?"
 
-Vereesa looked in that direction. "Alleria mentioned earlier that after Blackrock Spire, the Aerie intended to discuss joint operations with Quel'Thalas against the Zul'Gurub trolls... High Thane Kurdran might be here for that."
+Vereesa looked in that direction. "Alleria mentioned earlier that after Blackrock Spire, Aerie Peak intended to discuss joint operations with Quel'Thalas against the Zul'Gurub trolls... High Thane Kurdran might be here for that."
 
 "Couldn't they discuss that any other time? The trolls have been living there for thousands of years." Khadgar was starting to lose his cool. "They're heading toward the security office. If the Kirin Tor calls him in to identify Thunderfist, won't he recognize him on sight?"
 
@@ -116,6 +116,6 @@ Vereesa looked in that direction. "Alleria mentioned earlier that after Blackroc
 
 Khadgar looked at Jace and raised an eyebrow. "True... true..."
 
-Sora looked between them, confused. Vereesa ventured, "You're... thinking of asking him to bail Grede out? Wouldn't that expose us?"
+Sola looked between them, confused. Vereesa ventured, "You're... thinking of asking him to bail Grede out? Wouldn't that expose us?"
 
-"If there's anyone we can still trust right now, Ranger-Lord, Kurdran Wildhammer is one of them." Khadgar said. "Don't worry. Let's go find him."
+"If there's anyone we can still trust right now, Ranger Lord, Kurdran Wildhammer is one of them." Khadgar said. "Don't worry. Let's go find him."

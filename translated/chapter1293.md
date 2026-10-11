@@ -34,7 +34,7 @@ The other timeline's Turalyon had been blessed by the naaru, gaining near-infini
 
 Turalyon's eyebrow twitched slightly. He took a deep breath, shook off the barely perceptible shadow on his face, and managed a smile. "I don't doubt that, Jace. But I can still offer you some advice."
 
-"The scouts from Alleria's Keep often spot young dragons hunting giant insects in the forest near the Skettis peaks when they patrol. You could try making contact with those hunters first, instead of meeting directly with Teribus, the black dragon leader near Auchindoun. Test their attitude first. What do you think?"
+"The scouts from Allerian Stronghold often spot young dragons hunting giant insects in the forest near the Skettis peaks when they patrol. You could try making contact with those hunters first, instead of meeting directly with Teribus, the black dragon leader near Auchindoun. Test their attitude first. What do you think?"
 
 "That's a good idea," Jace said. "I'll do exactly that. As soon as Grede Thunderfist returns to the stronghold, I'll set out."
 
@@ -86,39 +86,39 @@ Morophil didn't reply. She just tilted her head slightly. For her, Jace knew, th
 
 Jace looked at Vereesa and nodded, then stepped into the center of the circle and began his incantation.
 
-Using the power of the draenei soul shards, he groped through the endless void for Karlrez's demon soul. After calming himself, building the bridge of communication was not only not easier — it actually felt harder than before.
+Using the power of the draenei soul shards, he groped through the endless void for Kallrez's demon soul. After calming himself, building the bridge of communication was not only not easier — it actually felt harder than before.
 
 That terrifying "Legion web" made Jace feel like a sea beast thrashing in a net, struggling, slowly suffocating...
 
-Then suddenly, the other side seemed to respond. The doom lord grabbed Jace's consciousness with what felt like a demonic claw, yanking him all the way toward the Tower of Il'gara. Jace felt like he could almost see Karlrez's blazing fel eyes staring down at him.
+Then suddenly, the other side seemed to respond. The doom lord grabbed Jace's consciousness with what felt like a demonic claw, yanking him all the way toward the Tower of Ilgalar. Jace felt like he could almost see Kallrez's blazing fel eyes staring down at him.
 
-"Karlrez... is Khadgar with you?" He forced out the words in Demonic.
+"Kallrez... is Khadgar with you?" He forced out the words in Demonic.
 
-"He has... left here, to Stormwind... Amy Marin, gryphon, report... your news..."
+"He has... left here, to Stormwind... Amy Malin, gryphon, report... your news..."
 
 Jace grunted an acknowledgment. "Can you tell what happened to Draenor? With your experience working for the Burning Legion, what kind of magic is this?"
 
-"Very... demonic power. I suspect... only eredar could complete such magic," Karlrez said.
+"Very... demonic power. I suspect... only eredar could complete such magic," Kallrez said.
 
 "So you also think it's Kil'jaeden," Jace said.
 
-"Kil'jaeden?" Karlrez hesitated, his voice going fuzzy.
+"Kil'jaeden?" Kallrez hesitated, his voice going fuzzy.
 
 "What do you think?" Jace asked.
 
-"Kil'jaeden could complete... magic like this. Perhaps." Karlrez's voice was so low it was barely audible. "But he is... in the depths of the Twisting Nether. He is on... Argus. Unless he personally descended to Draenor, it would be impossible from... so far away..."
+"Kil'jaeden could complete... magic like this. Perhaps." Kallrez's voice was so low it was barely audible. "But he is... in the depths of the Twisting Nether. He is on... Argus. Unless he personally descended to Draenor, it would be impossible from... so far away..."
 
 "Draenor is just a pitiful, broken little rock. Even if it once possessed strange magic, now it is... completely spent. It could never... sustain Kil'jaeden's... presence."
 
 "Then besides him, who else could complete spatial magic on this scale?" Jace asked.
 
-"I... don't know," Karlrez answered.
+"I... don't know," Kallrez answered.
 
-Jace was momentarily at a loss for words. The Book of Demon Names being stolen, the Burning Legion's demons pulling back, the barrier falling just days after Khadgar returned... It all pointed to the Burning Legion orchestrating everything. Otherwise, it was too much of a coincidence.
+Jace was momentarily at a loss for words. The Book of Fel Names being stolen, the Burning Legion's demons pulling back, the barrier falling just days after Khadgar returned... It all pointed to the Burning Legion orchestrating everything. Otherwise, it was too much of a coincidence.
 
 But if Kil'jaeden hadn't done this himself, how had the Burning Legion managed it?
 
-"Be careful... of Kil'jaeden, Jace Sesso," Karlrez said. "If you fail, if he destroys you completely, I too will be destroyed with you. I was sent to find Ussales, the Devourer of Dark Souls, and now it is in your hands. I will not come out well..."
+"Be careful... of Kil'jaeden, Jace Sesso," Kallrez said. "If you fail, if he destroys you completely, I too will be destroyed with you. I was sent to find Ulthalesh, the Devourer of Dark Souls, and now it is in your hands. I will not come out well..."
 
 The link between their souls suddenly broke. Jace's consciousness felt like it had been shoved underwater. He struggled for a moment before surfacing back to reality.
 
@@ -126,13 +126,13 @@ He looked down at the soul shards, now turned to dust, and the completely blacke
 
 "From the perspective of a demon who knows the Burning Legion very well," he asked, "is it possible that Kil'jaeden is watching us somehow, all the time?"
 
-"Hard to say." Morophil's demon eye flickered. "Hard to do that without me noticing."
+"Hard to say." Morophil's demon eyes flickered. "Hard to do that without me noticing."
 
 "If he really had that ability, he wouldn't have sent Magtheridon to have a few Shadow Council orcs sneak an Eye of Kilrogg near the dwarf stronghold," Vereesa said. "For a Legion commander whose name makes the entire Twisting Nether tremble, that's a pretty crude tactic. Almost laughable."
 
 Jace let out a laugh. "Fair point."
 
-"So, what did Karlrez say?" Vereesa asked.
+"So, what did Kallrez say?" Vereesa asked.
 
 "He doesn't think this barrier was personally done by Kil'jaeden," Jace said. "Honestly, I've had that feeling too."
 

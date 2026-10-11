@@ -14,11 +14,11 @@ Jace immediately ran through several variations of "Durotan," and this time the 
 
 "Durotan… Durotan!"
 
-Fortunately the simple name was close enough across orcish, English, and Chinese. Jace pressed the advantage: "Durotan's son. Alive!"
+Fortunately the simple name was close enough across Orcish, English, and Chinese. Jace pressed the advantage: "Durotan's son. Alive!"
 
 "Durotan's son." The orc froze, then said quietly after a moment, "Drek'Thar. I understand Drek'Thar."
 
-So the orc just hadn't realized it was a name. In his orcish pronunciation of Drek'Thar, the stress fell heavily on "Thar," emphasized strongly, while the first part "Drek" was spoken lightly and quickly, almost like a simple prefix. Jace had stressed it exactly the opposite way, so of course the other hadn't caught on. For all Jace knew, his pronunciation of "Drek'Thar" meant something else entirely in orcish.
+So the orc just hadn't realized it was a name. In his Orcish pronunciation of Drek'Thar, the stress fell heavily on "Thar," emphasized strongly, while the first part "Drek" was spoken lightly and quickly, almost like a simple prefix. Jace had stressed it exactly the opposite way, so of course the other hadn't caught on. For all Jace knew, his pronunciation of "Drek'Thar" meant something else entirely in Orcish.
 
 At least it probably wasn't a swear.
 
@@ -38,19 +38,19 @@ The orc dragged his wounded body closer, studied the crude map Jace had drawn, a
 
 They were close enough now that Jace could clearly smell the demonic sulfur stench on the orc — the rain hadn't washed it off in the slightest. That was the smell of an orc who'd drunk the demon blood.
 
-Then the orc looked up and pointed at Jace's staff. "Targon."
+Then the orc looked up and pointed at Jace's staff. "Teron'gor."
 
 Just as Jace had guessed — every orc knew this staff belonged to Teron Gorefiend.
 
-He tossed the staff aside, then bent down and picked it back up, saying in orcish, "Forest."
+He tossed the staff aside, then bent down and picked it back up, saying in Orcish, "Forest."
 
 Then he pointed toward the distant southeast, in the direction of Elwynn. The orc nodded as if he understood, then looked over at the imp, who'd just sat up and was coughing nonstop.
 
 "Not trust. Warlock. Demon."
 
-"Not trust" was in Common, while "warlock" and "demon" were in orcish. Jace understood all of it, for once.
+"Not trust" was in Common, while "warlock" and "demon" were in Orcish. Jace understood all of it, for once.
 
-Jace pointed to the bulging veins on the orc's arm. "Demon. Alive," he said in orcish.
+Jace pointed to the bulging veins on the orc's arm. "Demon. Alive," he said in Orcish.
 
 Then he pointed to his own chest. "Warlock. Alive."
 
@@ -129,18 +129,3 @@ Several militiamen ran over and helped carry the dwarf. Jace suddenly remembered
 He found that the clasp on his bag had been undone at some point, the cord swinging back and forth. So the imp still remembered the order to disappear whenever others were around. Good.
 
 Jace sat down with a sigh of relief. Several militiamen helped him up. He watched them carry Grede away, his heart clenching. He didn't know if that had been a Lightning Bolt or a Chain Lightning. Either way, he had no idea how powerful it was. He knew nothing about shaman magic. He didn't know if Grede could pull through.
-
-## Flags
-
-- **萨尔** → "Thrall": canonical WoW (future Warchief); not in glossary.
-- **古伊尔** → "Go'el": Thrall's birth name in orcish; canonical; not in glossary.
-- **杜隆坦** → "Durotan": canonical WoW (Thrall's father, Frostwolf chieftain); not in glossary.
-- **德雷克塔尔** → "Drek'Thar": carried over from Ch. 62.
-- **敦霍尔德** → "Durnholde": carried over from Ch. 6/55 (canonical Alterac fortress).
-- **塔隆戈尔** → "Targon": carried over from Ch. 54; here the orc uses it to refer to Teron Gorefiend (the staff's owner). Targon appears to be the orcish rendering of the name.
-- **基尔加丹** → "Kil'jaeden": canonical WoW (demon lord); not in glossary.
-- **德拉诺** → "Draenor": in glossary.
-- **卡兹莫丹** → "Khaz Modan": in glossary.
-- **闪电箭 / 闪电链** → "Lightning Bolt / Chain Lightning": canon WoW shaman spells; not in glossary.
-- **Eastern Kingdoms** (东部大陆): canonical WoW continent name; not in glossary.
-- **Burning Legion** (燃烧军团): in glossary.

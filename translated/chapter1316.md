@@ -2,11 +2,11 @@
 
 In the early morning, Jace climbed the wall and gazed northwest.
 
-After the Dragonmaw Fortress victory a few days ago, Kurdran Wildhammer had sent gryphon riders to Alleria's Fortress and Honor Hold, informing the remaining two leaders of the Sons of Lothar about recent events — especially that the Scepter of Sargeras was still in Draenor.
+After the victory at Dragonmaw Fortress a few days ago, Kurdran Wildhammer had sent gryphon riders to Allerian Stronghold and Honor Hold, informing the remaining two leaders of the Sons of Lothar about recent events — especially that the Scepter of Sargeras was still in Draenor.
 
 Lady Alleria should know by now, maybe even be on her way. General Danath at Honor Hold would take a while longer.
 
-Aside from replies from the two leaders, there were also the Farstriders who'd gone north to find Prophet Velen and Archmage Vargos.
+Aside from replies from the two leaders, there were also the Farstriders who'd gone north to find Prophet Velen and Archmage Vargoth.
 
 Since Shattrath City fell, even many draenei didn't know Velen's whereabouts. He was hiding from orc and demon pursuit, keeping his identity secret. Finding him was difficult by nature.
 
@@ -16,7 +16,7 @@ Surely the most rational choice was to seek out the Alliance Expedition? At the 
 
 The thought Jace couldn't shake was that Velen might foresee something Jace didn't. Something about the expedition, or the Burning Legion. That was why he'd decided to stay hidden.
 
-Especially after talking with Morofil last night, Jace was increasingly convinced Velen had also seen through Kil'jaeden's scheme, and believed the expedition would be exploited by the Deceiver just like the orcs. So he intended to stay hidden, trying to carve out a chance for the draenei to survive the coming "apocalypse."
+Especially after talking with Morophil last night, Jace was increasingly convinced Velen had also seen through Kil'jaeden's scheme, and believed the expedition would be exploited by the Deceiver just like the orcs. So he intended to stay hidden, trying to carve out a chance for the draenei to survive the coming "apocalypse."
 
 Maybe he should find Velen and his followers himself and explain the situation. If it came to a final showdown with the Burning Legion, the leader who'd guided his people for tens of thousands of years since Argus would be a crucial ally.
 
@@ -34,15 +34,15 @@ Noticing his look, she sighed. "You can still tell, can't you."
 
 "We're all flesh and blood, Vereesa." Jace pulled the elf into his arms, speaking softly. "Remember the Dark Portal? My own shadow magic nearly killed me. I was out for weeks..."
 
-"And I can guarantee you, the shadow damage I took then was nothing compared to a shadow channel powering a void dragon's mana. Zuluhed was drawing from the Scepter of Sargeras. You rested a few days and you're already up and running."
+"And I can guarantee you, the shadow damage I took then was nothing compared to a shadow channel powering a nether dragon's mana. Zuluhed was drawing from the Scepter of Sargeras. You rested a few days and you're already up and running."
 
 "Flesh and blood." Vereesa clicked her tongue. "I'll admit, in that Dragonmaw cavern, that shadow channel had me bent double. But I'm not blind. You think I didn't see you standing in front of that dragon, taking her breath with your own body?"
 
-"I drank the Annihilation Draught." Jace shrugged. "Master Khadgar used one of those to create a floating island. I barely survived. It's really not a big deal."
+"I drank the Destruction Potion." Jace shrugged. "Master Khadgar used one of those to create a floating island. I barely survived. It's really not a big deal."
 
 "Mm. That does make me feel a little better." Vereesa said.
 
-They walked along the wall. The ranger lowered her voice. "Come to think of it, Morofil is getting scarily impressive."
+They walked along the wall. The ranger lowered her voice. "Come to think of it, Morophil is getting scarily impressive."
 
 Jace swallowed. "What do you mean?"
 
@@ -62,7 +62,7 @@ Jace cleared his throat. "She just drew power from the demon tome. That was Kil'
 
 "What about your sister?" Jace suggested.
 
-"She's... busy." Vereesa sighed. "Even if we make it back to Azeroth, same thing. And we'll probably be living in Draenor for good. Not that I'm complaining. But if we're here, my sister will spend every moment on the expedition. Or on Marshal Turalyon..."
+"She's... busy." Vereesa sighed. "Even if we make it back to Azeroth, same thing. And we'll probably be living in Draenor for good. Not that I'm complaining. But if we're here, my sister will spend every moment on the expedition. Or on General Turalyon..."
 
 "Master Khadgar left a lot of magical texts in the tower. Most survived." Jace pointed at the mage tower with its missing section. "You've got way more talent for the arcane than I do. Ever thought about going that route?"
 
@@ -70,9 +70,9 @@ Jace cleared his throat. "She just drew power from the demon tome. That was Kil'
 
 "But for me, Vereesa Windrunner — 'You're different from them. Your studies are meant to prepare you for the Farstriders, just like your two excellent sisters.'" Vereesa mimicked an older elf's voice in Thalassian, her tone mocking. "'In other words, you're a complete idiot when it comes to the arcane. Face reality, little one.'"
 
-"Maybe you really are a born ranger. Being a magister would've been a waste," Jace said. "Your teacher Kelfar once said you were the best among those apprentices — even the teachers couldn't match you. And you can talk to animals."
+"Maybe you really are a born ranger. Being a magister would've been a waste," Jace said. "Your teacher Kael'fal once said you were the best among those apprentices — even the teachers couldn't match you. And you can talk to animals."
 
-"Every senior Farstrider can talk to animals," Vereesa said. "And some can even talk to plants, like Sora. I can too. Just not as fluently."
+"Every senior Farstrider can talk to animals," Vereesa said. "And some can even talk to plants, like Sola. I can too. Just not as fluently."
 
 "Can Alleria and Sylvanas?" Jace asked.
 
@@ -98,19 +98,19 @@ Jace cleared his throat. "She just drew power from the demon tome. That was Kil'
 
 "For calculation purposes." Jace said. "So, how many Farstriders are at your level? I mean with talking to beasts, talking to plants..."
 
-Vereesa shot him a look, thinking. "Counting the two of them... Captain Halduron Brightwing, Lord Lor'themar Theron, Captain Vyn'ras, Teacher Kelfar..."
+Vereesa shot him a look, thinking. "Counting the two of them... Captain Halduron Brightwing, Lord Lor'themar Theron, Captain Vyn'ras, Instructor Kael'fal..."
 
 "Which of them is younger than you? Which is under a hundred?" Jace asked.
 
 "Don't interrupt..." Vereesa murmured, but her voice trailed off as she counted. "...None."
 
-Jace continued. "When you got Belanur, you barely had to learn the nature magic incantation that Thaelar taught you. You just got it. Grede couldn't learn it no matter how hard he tried, and he really wanted to. And then there's the earring Alexstrasza gave you, Vereesa... Have you ever wondered why the Red Dragonqueen chose that for you?"
+Jace continued. "When you got Belanur, you barely had to learn the nature magic incantation that Taerar taught you. You just got it. Grede couldn't learn it no matter how hard he tried, and he really wanted to. And then there's the earring Alexstrasza gave you, Vereesa... Have you ever wondered why the Red Dragonqueen chose that for you?"
 
 Vereesa let out a long breath. "I haven't really thought about it. Do you think I have talent in nature magic? But I've always used those tricks to lure animals in for roasting..."
 
-"Sora eats them raw," Jace said. "Our 'Guardian of the Wild.' If you'd ever seen that, you wouldn't worry about what you've done to nature."
+"Sola eats them raw," Jace said. "Our 'Guardian of the Wild.' If you'd ever seen that, you wouldn't worry about what you've done to nature."
 
-Vereesa stifled a laugh. "Then I'll go ask Sora."
+Vereesa stifled a laugh. "Then I'll go ask Sola."
 
 "Good. Good luck, Vereesa."
 

@@ -1,6 +1,6 @@
 ## Chapter 272: The Only Companion
 
-"Master Thomas Waller, I'm an apprentice mage from Stormwind. I've come looking for herbs. I heard you're the finest alchemist and herbalist in Duskwood Town, so I was hoping I could ask you a few questions about herbalism."
+"Master Thomas Waller, I'm an apprentice mage from Stormwind. I've come looking for herbs. I heard you're the finest alchemist and herbalist in Darkshire, so I was hoping I could ask you a few questions about herbalism."
 
 After a long pause, the cabin door slowly opened a crack.
 
@@ -22,7 +22,7 @@ At that, Vereesa shot Jace a sidelong glance.
 
 Waller glanced back into the house. "Let me look through my notes, young man."
 
-He gave Jace's book a final once-over. "Come in. Don't touch anything."
+He gave Jace a final once-over. "Come in. Don't touch anything."
 
 Jace nodded and stepped inside. He swept his eyes over the room's furnishings — it felt like an ordinary scholar's dwelling.
 
@@ -32,7 +32,7 @@ Waller went to his bookshelf, searching through it constantly, and finally pulle
 
 "I don't plan to go out gathering herbs anymore, but these secret herb spots I've collected — I can't bear to let them be forgotten. That'd be too much of a waste."
 
-"Let me tell you — south of the main road between Glenton and Raven Hill, if you keep heading south you'll reach the hills that were once occupied by trolls. There are vast stretches of Gurubashi Empire ruins there, burying many ancient jungle trolls. And the land there is as if bewitched by the trolls — Grave Moss always grows there. But the troll corpses aren't affected by dark power..."
+"Let me tell you — south of the main road between Grand Hamlet and Raven Hill, if you keep heading south you'll reach the hills that were once occupied by trolls. There are vast stretches of Gurubashi Empire ruins there, burying many ancient jungle trolls. And the land there is as if bewitched by the trolls — Grave Moss always grows there. But the troll corpses aren't affected by dark power..."
 
 "There's a place like that?" Jace asked. "Won't the trolls come back? Aren't there traps or something?"
 
@@ -50,11 +50,11 @@ He put the map back, glanced at Jace, and coughed twice. "Sir, you'd better leav
 
 Jace had barely been sitting for a few minutes — Waller's sudden dismissal caught him off guard.
 
-He certainly wasn't leaving yet. "Mr. Waller, do you know what's been going on at Raven Hill lately? You seem to know a lot about the Great Graveyard. Would the Grave Moss from the Great Graveyard be different in quality from the Grave Moss at the place you described? The more dangerous the place, the better the herb quality, right?"
+He certainly wasn't leaving yet. "Mr. Waller, do you know what's been going on at Raven Hill lately? You seem to know a lot about the Raven Hill Cemetery. Would the Grave Moss from the Raven Hill Cemetery be different in quality from the Grave Moss at the place you described? The more dangerous the place, the better the herb quality, right?"
 
 Waller's expression had already turned unpleasant.
 
-"You really should leave, young man. What I know about the Great Graveyard is just hearsay..."
+"You really should leave, young man. What I know about the Raven Hill Cemetery is just hearsay..."
 
 "Tom... are you calling me?"
 
@@ -70,7 +70,7 @@ Vereesa glanced at Jace, mouthing the word — Zombie.
 
 Jace nodded.
 
-His wife was already dead. Perhaps that was why he'd moved out of Duskwood Town.
+His wife was already dead. Perhaps that was why he'd moved out of Darkshire.
 
 "Tom... are you calling me?"
 
@@ -109,15 +109,3 @@ Waller shouted, "Go to where the dead belong, you fraud! Shadow curse you!"
 "Two! One!"
 
 "No! No! No!" Waller burst into tears. "Don't... no... whatever you want, just don't touch her... I have nothing but her!"
-
-## Flags
-
-- **活尸** → "zombie": the reanimated corpse. Not in glossary; could also be "walking corpse" or "revenant." Flag for review/standardization.
-- **墓地苔** → "Grave Moss" (in glossary).
-- **皇血草** → "Kingsblood" (in glossary).
-- **银叶草** → "Silverleaf" (in glossary).
-- **跌打草** → "Wild Steelbloom" (in glossary).
-- **古拉巴什帝国** → "Gurubashi Empire" (in glossary).
-- **乌鸦岭** → "Raven Hill" (in glossary).
-- **大墓园** → "the Great Graveyard" (same as ch. 271).
-- Chapter title 唯一的陪伴 → "The Only Companion."

@@ -2,7 +2,7 @@
 
 "Welcome to Shadowforge City," the torchbearer said. "Go through this gate and keep walking straight. When you reach the end, turn left. And remember — don't go right, or you might end up in the barracks."
 
-He looked at Sora. "I don't know if you've been to this sector before, ma'am, but if you take the wrong road, you'll definitely end up in jail. By the time you get out, we might have already retaken Blackrock Spire! For these two outsiders, trespassing into the barracks is an undeniable capital offense. Same for the demon. No one would be able to save you."
+He looked at Sola. "I don't know if you've been to this sector before, ma'am, but if you take the wrong road, you'll definitely end up in jail. By the time you get out, we might have already retaken Blackrock Spire! For these two outsiders, trespassing into the barracks is an undeniable capital offense. Same for the demon. No one would be able to save you."
 
 A Dark Iron dwarf guard stood at the entrance. He wore heavy plate armor, leaned against the wall, and crouched beside him was a red beast. When it saw the patrol bringing Jace and his companions over, it immediately straightened up, tugging at its leash.
 
@@ -18,23 +18,23 @@ In Shadowforge City, these creatures were everywhere. They'd even befriended the
 
 "Didn't expect anyone still trying to get into the city at a time like this," the armored guard said, walking over. "Submit to inspection, outsiders. I don't care how you broke through the orc defenses..."
 
-Sora exchanged a glance with Jace, apparently worried about this bloodhound's perceptiveness. Jace looked at Morofel beside him, wondering what she could do.
+Sola exchanged a glance with Jace, apparently worried about this bloodhound's perceptiveness. Jace looked at Morophil beside him, wondering what she could do.
 
-But the guard was staring intently at Morofel, apparently wary of the demon pulling anything. Succubi weren't rare in Shadowforge City; the soldiers here were clearly more familiar with them.
+But the guard was staring intently at Morophil, apparently wary of the demon pulling anything. Succubi weren't rare in Shadowforge City; the soldiers here were clearly more familiar with them.
 
-Jace wasn't actually worried about Sora being discovered. This bloodhound, however mysterious and eerie, was ultimately just another strange beast common in Shadowforge City. If it could casually figure out a dragon's disguise that even the Scrying Stone couldn't penetrate, he might as well toss his staff into the lava river.
+Jace wasn't actually worried about Sola being discovered. This bloodhound, however mysterious and eerie, was ultimately just another strange beast common in Shadowforge City. If it could casually figure out a dragon's disguise that even the mirror stone couldn't penetrate, he might as well toss his staff into the lava river.
 
-But to his surprise, the bloodhound didn't pay any attention to Sora or Morofel at all. It walked straight around behind Jace and sniffed at Ulthalesh.
+But to his surprise, the bloodhound didn't pay any attention to Sola or Morophil at all. It walked straight around behind Jace and sniffed at Ulthalesh.
 
-The moment it took a tentative sniff, though, it recoiled as if shocked. Cowering, it went over to Morofel's leg, gave her a casual sniff, made a few whimpering sounds, and returned to the dwarf guard.
+The moment it took a tentative sniff, though, it recoiled as if shocked. Cowering, it went over to Morophil's leg, gave her a casual sniff, made a few whimpering sounds, and returned to the dwarf guard.
 
-"This stupid beast..." The dwarf guard grabbed the bloodhound by the neck ring and yanked it back. The patrolman with the torch said, "He's fine, Captain Stuhl. He killed a black dragon. And not just any black dragon."
+"This stupid beast..." The dwarf guard grabbed the bloodhound by the collar and yanked it back. The patrolman with the torch said, "He's fine, Captain Stuhl. He killed a black dragon. And not just any black dragon."
 
 The patrolman tugged at Jace's cloak. "Take a look at this. Do you think those black dragons and their groveling alien beasts would tolerate this human?"
 
 The dwarf guard nodded at Jace and said, "I can see what that is, warlock. You must have quite a story. Take your demon lady and go inside. There aren't many outsiders in Shadowforge City right now... so you'll stand out. Watch your words and actions carefully. I don't care what you did before, but don't stir up trouble in Shadowforge City! I hope the lady has already taught you our rules!"
 
-"I've already told him," Sora said.
+"I've already told him," Sola said.
 
 "That's right. I'll follow the law, sir," Jace replied, then glanced at the bloodhound. When it met his eyes, it whimpered in fear again.
 
@@ -54,9 +54,9 @@ Looking up, a flag hung from the dark great wall ahead bore the emblem of a burn
 
 Turning to look at the end of the walkway, the city lights like flames brought back his memory. If he walked to the end and looked right, he should be able to see the main entrance to Shadowforge City.
 
-He looked to the right, and sure enough, something like an iron gate blocked the road. Many armored soldiers and red-robed firehandlers were guarding the area.
+He looked to the right, and sure enough, something like an iron gate blocked the road. Many armored soldiers and red-robed pyromancers were guarding the area.
 
-"We should go left," Sora said. "Those must be the Dark Iron army — later on, I think that's the road to the barracks the earlier man mentioned."
+"We should go left," Sola said. "Those must be the Dark Iron army — later on, I think that's the road to the barracks the earlier man mentioned."
 
 "Right." Jace nodded. "Let's go."
 
@@ -64,11 +64,11 @@ Jace wasn't the only human on this road. For a moment, he could even see a rathe
 
 They headed left, following a few hurrying dwarf citizens around a corner. Before they'd even made the turn, heavy rumbling sounds came from the other side — like some enormous monster snoring, or the unstable eruption of lava within the mountain.
 
-Jace looked toward the intersection. A massive lava giant stood there, looking their way. The light illuminating the street wasn't from city lamps or fire basins — it was the glow of the magma flowing through this creature's body!
+Jace looked toward the intersection. A massive molten giant stood there, looking their way. The light illuminating the street wasn't from city lamps or braziers — it was the glow of the magma flowing through this creature's body!
 
-Jace remembered this guy. He was Bellag — the guardian of Shadowforge City's gates.
+Jace remembered this guy. He was Bael'Gar — the guardian of Shadowforge City's gates.
 
-Bellag stood there with his head tilted, completely still, as if dozing. But every time he moved an arm or adjusted his head, the sound carried through the entire street, drawing the attention of many Dark Iron dwarves.
+Bael'Gar stood there with his head tilted, completely still, as if dozing. But every time he moved an arm or adjusted his head, the sound carried through the entire street, drawing the attention of many Dark Iron dwarves.
 
 "Pretty impressive, isn't it, human?"
 
@@ -80,12 +80,12 @@ Seeing that Jace had noticed him, the gnome immediately hopped down and ran over
 
 "I'm not trying to scam you... or, you know, you could give me something to eat." The gnome grinned. "A piece of bread? Some dried mushrooms? Surely you didn't travel all the way to Blackrock Mountain with nothing..."
 
-"First, take us to the Black Iron Tavern." Jace pulled out a small wrapped piece of scorpion meat. "Here."
+"First, take us to the Grim Guzzler." Jace pulled out a small wrapped piece of scorpion meat. "Here."
 
-The gnome took it, sniffed it, and said, "Ah, fine. Bug meat... but it's better than nothing! Black Iron Tavern, right? I'll take you there."
+The gnome took it, sniffed it, and said, "Ah, fine. Bug meat... but it's better than nothing! Grim Guzzler, right? I'll take you there."
 
-Jace and Sora exchanged glances, then looked at the massive black gate in the distance down the street. Several living fire elementals were stationed there, watching everyone who passed.
+Jace and Sola exchanged glances, then looked at the massive black gate in the distance down the street. Several living fire elementals were stationed there, watching everyone who passed.
 
-Combined with the enormous lava giant behind them, it was hard to say whether this city was a city of dwarves, or a city of fire.
+Combined with the enormous molten giant behind them, it was hard to say whether this city was a city of dwarves, or a city of fire.
 
 Just like in the tunnels outside, though Jace could summon fire's help here, he couldn't get any elemental whispers. Fire was everywhere, but silent as the dead.

@@ -8,13 +8,13 @@ Jace could feel that warmth — the magical breath of the Sunwell. Before long, 
 
 "Stop, green dragon... You may not come any closer. We do not wish to harm you, but ahead is the border of Quel'Thalas." The voices of the high elf dragonhawk riders rang out from afar.
 
-"Soldiers!" Vereesa called out. "I am Ranger-Lord Vereesa Windrunner. With me are Jace Sesso and Grede Thunderfist!"
+"Soldiers!" Vereesa called out. "I am Ranger Lord Vereesa Windrunner. With me are Jace Sesso and Grede Thunderfist!"
 
 "Lady Vereesa..."
 
-"Ranger-Lord, forgive us for not recognizing you. We will guide your mount to Quel'Dalar Outpost."
+"Ranger Lord, forgive us for not recognizing you. We will guide your mount to Quel'Lithien Lodge."
 
-Before the dragonrider finished speaking, Vereesa cut him off. "Friend, her name is Somaelir. She is not our mount."
+Before the dragonhawk rider finished speaking, Vereesa cut him off. "Friend, her name is Somaelir. She is not our mount."
 
 "Yes, my lady. Welcome to Quel'Thalas as well, Lady Somaelir," the dragonhawk rider called.
 
@@ -22,7 +22,7 @@ Before the dragonrider finished speaking, Vereesa cut him off. "Friend, her name
 
 The dragonhawk riders seemed a little surprised that this green dragon could speak. They said something to each other and adjusted their mounts' direction, falling into formation to fly alongside the green dragon. Still, their gazes flicked over from time to time, as if they'd never seen a green dragon before.
 
-Quel'Dalar Outpost — Jace had never heard of this place, in the game or here.
+Quel'Lithien Lodge — Jace had never heard of this place, in the game or here.
 
 But in Quel'Thalas, outposts and villages like Quel'Lithien and Quel'Danil were extremely numerous. Some were for trade and contact with humans, others were watchposts for monitoring troll movements.
 
@@ -56,11 +56,11 @@ Vereesa glanced toward the green dragon sitting over there. Somaelir was bending
 
 "I more or less understand," Jace said.
 
-"There's one more thing. Ever since we left Frosthammer, it's been on my mind." Vereesa looked up, glancing at the staff wrapped in the black knight's cloak on Jace's back. "In Master Skarvell's vault, Morophil still stepped in without hesitation to help me hold off those black knights. If she hadn't helped, I might have had a very hard time dealing with three black knights attacking at once... let alone those frenzied ghosts."
+"There's one more thing. Ever since we left Frostmaul, it's been on my mind." Vereesa looked up, glancing at the staff wrapped in the Dark Rider's cloak on Jace's back. "In Master Scavell's vault, Morophil still stepped in without hesitation to help me hold off those Dark Riders. If she hadn't helped, I might have had a very hard time dealing with three Dark Riders attacking at once... let alone those frenzied ghosts."
 
 "And you remember what she said — she told you to go save Grede, then blocked those ghosts' harassment for you. So tell me: when you were in Booty Bay, did you ever actually give up the order for her to protect me? I mean... I'm grateful that demon was willing to help me, but..."
 
-She lowered her head, seeming not sure how to continue. Jace said, "I'm certain I already told her in Booty Bay that there was no need to save you. But she's a demon, not a machine. If she hadn't helped you and you'd been defeated by the black knights, then Grede might have had to fight four or five on his own, or I would have suddenly faced the black knight leader Eredin and two or three of his subordinates all at once. In that situation, no one... could have held out, Wen. Morophil definitely understood that too, so in helping her she was also helping me, wasn't she?"
+She lowered her head, seeming not sure how to continue. Jace said, "I'm certain I already told her in Booty Bay that there was no need to save you. But she's a demon, not a machine. If she hadn't helped you and you'd been defeated by the Dark Riders, then Grede might have had to fight four or five on his own, or I would have suddenly faced the Dark Rider leader Ariden and two or three of his subordinates all at once. In that situation, no one... could have held out, Vere. Morophil definitely understood that too, so in helping you she was also helping me, wasn't she?"
 
 Vereesa thought it over and finally nodded. "Maybe I'm paying too much attention to that demon."
 
@@ -72,23 +72,8 @@ Vereesa blushed and said softly, "That time wasn't satisfying enough. I always f
 
 Returning to Somaelir's side, Grede was holding a piece of elven shortbread and looked at Jace. "After we leave Dalaran, are you still going to the Lordaeron capital?"
 
-"If possible, I do want to see my parents. But I need to find Krasus first," Jace said. Grede licked his fingers and asked, "Are you really not going to warn that old king?"
+"If possible, I do want to see my parents. But I need to find Krasus first," Jace said.
+
+Grede licked his fingers and asked, "Are you really not going to warn that old king?"
 
 "Me? An evil warlock... I don't think he'd listen to a word I say. I won't waste my time. If you'd come with me and Vereesa to the palace last time, you'd know." Jace shook his head with a wry smile. "He'd trust Antonidas's advice far more than mine, and Antonidas would listen to the opinions of the Kirin Tor Council members."
-
-## Flags
-- **跨过北海** = Crossing the Northern Sea — the sea between Northrend and Lordaeron.
-- **奎尔达尔哨岗** = Quel'Dalar Outpost (elven outpost; not in glossary, phonetic).
-- **奎尔林斯** = Quel'Lithien (elven settlement; not in glossary).
-- **奎尔丹尼** = Quel'Danil (elven outpost; not in glossary).
-- **远行者** = Farstriders (canonical ranger order of Quel'Thalas).
-- **霜槌** = Frosthammer (location; not in glossary, phonetic).
-- **斯卡维尔大师** = Master Skarvell (mage; not in glossary, phonetic).
-- **埃瑞丁** = Eredin (black knight leader; not in glossary, phonetic — note: shares a name with a Witcher character but is a distinct WoW-context figure here).
-- **萨拉斯语** = Thalassian (canonical elven language).
-- **游侠领主** = Ranger-Lord (Vereesa's title).
-- **龙鹰骑士** = dragonhawk riders (canonical high elf mounted troops).
-- **格瑞德·雷拳** = Grede Thunderfist (full name used by the dragonhawk rider).
-- **达拉然** = Dalaran (canonical).
-- **安东尼达斯** = Antonidas (canonical).
-- **肯瑞托议会** = Kirin Tor Council (canonical).

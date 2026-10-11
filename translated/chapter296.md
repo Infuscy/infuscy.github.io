@@ -42,7 +42,7 @@ Jace shook off the elf and ran toward the dragon with his staff in hand. He thou
 
 His consciousness was fading fast, his mind crumbling. Only a raw instinct to survive kept him moving forward.
 
-Mustering the last of his strength, he pushed through the burning Shadowflame until he reached the rubble from before. There, amid the black dragonfire, the whelp lay on its back, belly up like a playing-dead snake, its eyes round and staring, powerless.
+Mustering the last of his strength, he pushed through the burning Shadowflame until he reached the rubble from before. There, amid the black dragonfire, the drake lay on its back, belly up like a playing-dead snake, its eyes round and staring, powerless.
 
 "Human... interesting..."
 
@@ -82,7 +82,7 @@ Jace checked his bag — it was full of broken glass and the sharp smell of poti
 
 "You really... scared the hell out of me, Jace."
 
-She swallowed, stepped forward, and studied the whelp again. "We killed it..." she murmured.
+She swallowed, stepped forward, and studied the drake again. "We killed it..." she murmured.
 
 As she said it, the elf's figure swayed, as if she had lost her balance. Jace felt something was off. "Vereesa, what's wrong?"
 
@@ -106,9 +106,9 @@ Jace tossed the potion bottle aside. "Forget it. If you learned it, what would y
 
 Vereesa laughed, then winced in pain.
 
-Jace rummaged through the ranger's bag for netherweave bandages when a head poked out from behind the wall the elf was leaning on. The imp — it was still alive. Unbelievable.
+Jace rummaged through the ranger's bag for mageweave bandages when a head poked out from behind the wall the elf was leaning on. The imp — it was still alive. Unbelievable.
 
-He glanced at the coughing Vereesa, then at the imp, then flicked his eyes toward the warlock bag beside him.
+He glanced at the coughing Vereesa, then at the imp, then flicked his eyes toward the warlock's bag beside him.
 
 The imp Phase Shifted out of sight. Vereesa lifted her head, seeming to sense something, but the pain had clearly stolen most of her attention.
 
@@ -134,7 +134,7 @@ He brushed the Shadowflame ash off his cloak. By now the shadow had mostly faded
 
 "It's my fault. I should not have rushed over like that."
 
-"My fault? Because you ran fast?" Jace shook his head. "If I could run as fast as you, I would not have gotten singed. It is not your fault. Who would have thought that bastard would go that crazy at the end? Anyway, we survived — that's what matters."
+"Your fault? Because you ran fast?" Jace shook his head. "If I could run as fast as you, I would not have gotten singed. It is not your fault. Who would have thought that bastard would go that crazy at the end? Anyway, we survived — that's what matters."
 
 Vereesa glanced his way and gave a small "mm."
 
@@ -152,7 +152,7 @@ The ranger said nothing, but it was clear she was not ready to let it go.
 
 Vereesa gave a reluctant nod, then peered through a crack in the wall. "What is this place?"
 
-"An old dwarven city, probably," Jace said. "Might be near the ruins of Thaurissan. Once you've recovered a bit, we'll move further off. I'm worried dragonkin might come this way to investigate."
+"An old dwarven city, probably," Jace said. "Might be near the Ruins of Thaurissan. Once you've recovered a bit, we'll move further off. I'm worried dragonkin might come this way to investigate."
 
 "Alright," the elf said.
 
@@ -171,20 +171,3 @@ After a moment, she said quietly, "Honestly, I just wanted to kill it."
 "But next time things get that dangerous—"
 
 "Definitely remember to drink up," Vereesa finished.
-
-## Flags
-
-- **温蕾萨 (Vereesa):** Vereesa Windrunner, the youngest of the three Windrunner sisters. Rendered as "Vereesa."
-- **暗影烈焰:** "Shadowflame" (in glossary).
-- **暗影防护药水:** "Shadow Protection Potion" (in glossary).
-- **强效治疗药水:** "Greater Healing Potion" — not in glossary. Flag for confirmation.
-- **治疗药水:** "Healing Potion" — not in glossary. Flag for confirmation.
-- **魔纹布绷带:** "netherweave bandage" — not in glossary. Flag for confirmation.
-- **相位变换:** "Phase Shift" (in glossary).
-- **索瑞森城:** "Thaurissan" — the ruined Dark Iron city near Blackrock Mountain. Not in glossary. Flag for confirmation.
-- **龙人:** "dragonkin" — not in glossary. Flag for confirmation.
-- **幼龙:** "whelp" (young dragon) — not in glossary. Flag for confirmation.
-- **吸取活力:** rendered as "drain life force" / "drain its life"; glossary has 生命吸取/抽血咒 = Life Drain/Blood Drain. Flag for preferred rendering.
-- **奥妮克希亚:** "Onyxia" — canonical black dragon princess. Flag for confirmation.
-- **瓦里安:** "Varian" — King Varian Wrynn of Stormwind. Not in glossary. Flag for confirmation.
-- **黑杖 / 火焰杖:** "black staff" / "fire staff" — Jace's two staves; not in glossary. Flag for confirmation.

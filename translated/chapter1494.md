@@ -1,6 +1,6 @@
 ## Chapter 1494: Something's Off About Mom and Dad's House
 
-After the warlocks and the SI:7 agents returned north of the Nafeltari River, they split off in Goldshire. After all, a group of strange travelers riding black horses and carrying staves charging straight through Stormwind's gates would've been a bit too dramatic.
+After the warlocks and the SI:7 agents returned north of the Nazferiti River, they split off in Goldshire. After all, a group of strange travelers riding black horses and carrying staves charging straight through Stormwind's gates would've been a bit too dramatic.
 
 But even entering Goldshire like this felt like the Nazgul storming into Bree in a night rain. If you saw a group like that on the street after dark, you'd be sure you weren't going to live to see the next sunrise.
 
@@ -14,7 +14,7 @@ But in the time since the Expedition had returned to Azeroth, Stormwind's citize
 
 They picked a corner. The barmaid brought two jugs of the dark wine Ursula had ordered on the way in. Ursula took a sip, swishing it around in her mouth, and waited until the barmaid was well away before taking a thick envelope from her pocket and placing it on the table.
 
-"Take this to Dalaran for me. Give it to Lady Dorothy Egan — a herbalist who looks a bit older than me. She's been tracking the progress of the voidweed. She's helped me a lot in trying to grow Draenor herbs in Azeroth, Jace."
+"Take this to Dalaran for me. Give it to Lady Dorothy Egan — a herbalist who looks a bit older than me. She's been tracking the progress of the Netherbloom. She's helped me a lot in trying to grow Draenor herbs in Azeroth, Jace."
 
 "Can't even sit down before you rope me into running errands, huh?" Jace said, tucking the letter into his coat.
 
@@ -24,7 +24,7 @@ Jace poured himself some wine. "Yeah, yeah, I know."
 
 The smile didn't stay on Ursula's face long. She let out a long breath. "But don't get too optimistic, Jace. From my preliminary research on that draenei's study notes... I don't think we'll achieve results anytime soon. King Varian is actively preparing to attack Blackrock Spire, and even in the best-case scenario, the Destruction Potion won't be ready in time to help."
 
-"Don't forget — at first you all thought the voidweed couldn't even be cultivated," Jace said. "Now you're seeing hope, aren't you?"
+"Don't forget — at first you all thought Netherbloom couldn't even be cultivated," Jace said. "Now you're seeing hope, aren't you?"
 
 "But if it can't be used for the assault on Blackrock Spire, what's the Destruction Potion for?" Ursula asked quietly. "After Grim Batol was destroyed, Blackrock Spire is the last orc stronghold on this side of the Dark Portal. I'm worried that once the orcs are completely defeated, the Alliance and the Kirin Tor will start thinking of us warlocks as the next 'orcs.'"
 
@@ -42,17 +42,17 @@ Ursula let out a mocking little laugh. "Anyway, once the Blackrock Spire busines
 
 "Go home and sleep," Jace said without hesitation.
 
-"Excuse me?" Ursula raised an eyebrow. "The most infamous 'dark wizard' in the Stormwind Kingdom's ultimate goal is to go home and sleep?"
+"Excuse me?" Ursula raised an eyebrow. "The most infamous 'dark wizard' in the Kingdom of Stormwind's ultimate goal is to go home and sleep?"
 
-Jace patted the coin purse Shaw had given him. "I've made my money. My parents have moved to Stormwind. The renovations on Ilgalar's Tower are done. If I can't cast everything aside and lie comfortably at the top of the tower, gazing at the beautiful views of the Stonewood Forest while I sleep like a log, what was the point of all this?"
+Jace patted the coin purse Shaw had given him. "I've made my money. My parents have moved to Stormwind. The renovations on the Tower of Ilgalar are done. If I can't cast everything aside and lie comfortably at the top of the tower, gazing at the beautiful views of the Stonewood Forest while I sleep like a log, what was the point of all this?"
 
 Ursula nodded without saying anything, just sipping her wine and watching the young man ramble with a faint smile.
 
 In the afternoon, they parted ways at the gate leading into the Mage Quarter. Jace walked north along the canal toward his parents' house.
 
-From a distance, he could see that the riverside standalone house had much more life in it than before his parents had moved in. It had genuinely become a pretty little villa. With the Cathedral of Light as a backdrop across the river and the sparkling canal as a setting, the house looked almost as good as those little buildings in the Park District.
+From a distance, he could see that the riverside standalone house had much more life in it than before his parents had moved in. It had genuinely become a pretty little villa. With the Cathedral of Light as a backdrop across the river and the sparkling canal as a setting, the house looked almost as good as those little buildings in the Park.
 
-As Jace approached, he saw Henny grooming Alna's coat in the stable. She turned at the sound of his footsteps and immediately smiled, waving.
+As Jace approached, he saw Henny grooming Arna's coat in the stable. She turned at the sound of his footsteps and immediately smiled, waving.
 
 "Jace! You're here!"
 
@@ -62,7 +62,7 @@ As Jace approached, he saw Henny grooming Alna's coat in the stable. She turned 
 
 "I've only been gone a few days!" Jace said urgently. "What happened?"
 
-"Murlocs," Henny said. "Vic went with a few guys from the Warrior's Guild and some Goldshire guards to Crystal Lake, looking for two missing patrolmen. They ran into a murloc ambush..."
+"Murlocs," Henny said. "Vic went with a few guys from the Fighters Guild and some Goldshire guards to Crystal Lake, looking for two missing patrolmen. They ran into a murloc ambush..."
 
 Before Henny could finish, Jace turned and rushed through the door. There was Vic, sitting at the table covered in bandages, raising a glass of red wine to his lips.
 
@@ -70,7 +70,7 @@ Jace snatched the jug away. "What the hell? You're injured and you're drinking?"
 
 "What do you know." Vic's eyes widened as he craned his barely movable neck. "Red wine is good for you. That's what the priests and apothecaries say. It helps my wounds heal."
 
-"The priests and apothecaries in Lordaeren said that, huh?" Jace downed the wine in one gulp and set the empty jug on the table. "They wouldn't say that, would they, or else all those vineyards in Hillsbrad would go out of business."
+"The priests and apothecaries in Lordaeron said that, huh?" Jace downed the wine in one gulp and set the empty jug on the table. "They wouldn't say that, would they, or else all those vineyards in Hillsbrad would go out of business."
 
 "How does it taste?" Vic asked.
 
@@ -86,11 +86,11 @@ Henny walked in and chuckled. "Just let him drink. Hard to say whether the drink
 
 Jace was almost amused by this guy. But seeing his father in such good spirits, he figured he was fine. He breathed a sigh of relief. And from what his mother said, the injury had only happened a few days ago. The fact that he'd recovered enough to walk around and drink wine in that short time meant it probably wasn't that serious.
 
-He could tell his father still harbored a bit of resentment about leaving Lordaeren for Stormwind. But he seemed more energetic here, even younger-looking, than he had in Tirisfal.
+He could tell his father still harbored a bit of resentment about leaving Lordaeron for Stormwind. But he seemed more energetic here, even younger-looking, than he had in Tirisfal.
 
 Jace knew why. Vic Sesso had always been a scrapper as a kid, and joining the Durnholde cavalry had been his lifelong dream. But then he got married and took a position as a guard captain in the capital. Better pay, less danger — but it was like he'd lost something. He'd become a bit listless.
 
-Now, in Stormwind, without the constraints of a position, following the Warrior's Guild into the Elwynn Forest to hunt — it was like his life had gone back to the way it used to be.
+Now, in Stormwind, without the constraints of a position, following the Fighters Guild into Elwynn Forest to hunt — it was like his life had gone back to the way it used to be.
 
 For an old knight who'd tangled with Amani hunters and naga witches, a bunch of murlocs, kobolds, or even gnolls was hardly a lethal threat. Maybe Jace should trust his father's own "career" the same way his parents had trusted him when he'd first left for Stormwind.
 
@@ -114,10 +114,10 @@ The flower looked so ethereal, like the shadow of a dancer in a golden dress exi
 
 Seeing the flower, he also realized that the "life" he'd sensed from outside the house wasn't just from his parents. This thing was contributing to it too.
 
-"A gift from Lady Sora." Henny smiled. "She said this flower is called Tynax. It's very good for our health."
+"A gift from Lady Sola." Henny smiled. "She said this flower is called Tynax. It's very good for our health."
 
 Jace stared at his mother, unable to help swallowing.
 
-This was clearly a flower from the Emerald Dream, nurtured here by Sora's life energy.
+This was clearly a flower from the Emerald Dream, nurtured here by Sola's life energy.
 
-He was grateful that Sora was looking after his parents, but bringing something like this to Stormwind was... a bit much, wasn't it?
+He was grateful that Sola was looking after his parents, but bringing something like this to Stormwind was... a bit much, wasn't it?

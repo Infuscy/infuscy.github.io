@@ -18,9 +18,9 @@ After no small amount of effort and directions from passersby, they finally foun
 
 This was the one thing the place still had in common with the game version — the sand. It was on the streets, on the buildings, on the people around them… sand, everywhere.
 
-Wynne stood off to one side looking perfectly unbothered. Jace glanced at her. "No sand in your boots?"
+Vereesa stood off to one side looking perfectly unbothered. Jace glanced at her. "No sand in your boots?"
 
-"When you enter a desert, shouldn't you tie off your boots?" the elf said, lowering her head. "When we went hunting the Shattered Hand clan and that death knight, Instructor Kefar told us as much. You two went through that wasteland too — you'd think you'd have picked up a thing or two."
+"When you enter a desert, shouldn't you tie off your boots?" the elf said, lowering her head. "When we went hunting the Shattered Hand clan and that death knight, Instructor Kael'fal told us as much. You two went through that wasteland too — you'd think you'd have picked up a thing or two."
 
 Grede and Jace exchanged a glance. Neither replied. They just kept quietly pouring sand from their boots.
 
@@ -70,7 +70,7 @@ Seeing Jace's expression, the goblin's face slowly cooled. "I'm just telling you
 
 The goblin pocketed the coins, raised an eyebrow, and gave a little nod, his tone softening at once. "Go on, then. I've got nothing better to do anyway."
 
-Jace asked, "Have you ever heard the name Dasmora Dark-Eye?"
+Jace asked, "Have you ever heard the name Dasmora Darkeye?"
 
 "Uh…" The goblin squinted, thinking. "No… not really. What kind of name is that?"
 
@@ -87,25 +87,3 @@ Jace felt he couldn't rely solely on game knowledge to plan the route anymore. B
 But even the goblins… they only really knew the area around Gadgetzan. Any farther — whether to Feralas, the Barrens, or even Stonetalon — they didn't seem to know much more than he did.
 
 One step at a time, then.
-
-## Flags
-
-- **Gadgetzan** (加基森): the goblin city in Tanaris, rendered per glossary.
-- **Steamwheedle Port** (热砂港): the port settlement adjoining Gadgetzan (canonical WoW location).
-- **Booty Bay** (藏宝海湾): goblin port in Stranglethorn.
-- **Shimmering Flats** (闪光平原): the salt flats north of Gadgetzan.
-- **Thousand Needles** (千针石林): the flooded canyon region (here still a dry stone forest, pre-Cataclysm).
-- **Maraudon** (玛拉顿): the dungeon in Desolace; Jace's destination.
-- **Feralas** (菲拉斯): jungle region west of Thousand Needles.
-- **Agama'gor** (阿迦玛戈): the highland gorge north of Thousand Needles.
-- **quilboar** (野猪人): the pig-like humanoid race.
-- **centaur** (半人马): the half-human, half-horse race; 半人马酋长 = centaur khan / chieftain.
-- **Stonetalon Mountains** (石爪山): mountain range north of the Barrens.
-- **Desolace** (凄凉之地): the blasted region where Maraudon sits.
-- **tauren** (牛头人): the bovine race; 敌意的牛头人部落 = hostile tauren tribes.
-- **basilisk** (石化蜥蜴): the petrifying reptile ("turn you to crystal").
-- **the Reliquary** (神圣遗物学会): the archaeological organization Jace copied the map from.
-- **Marin Noggenfogger** (马林·诺格弗格): goblin alchemist of Gadgetzan.
-- **Dasmora Dark-Eye** (达斯莫拉·暗眼): the name Jace is asking about.
-- **Shattered Hand clan** (碎手氏族): orc clan; 死亡骑士 = death knight.
-- **Instructor Kefar** (凯法尔老师): Wynne's instructor.

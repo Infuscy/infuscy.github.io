@@ -2,13 +2,13 @@
 
 The rain came down hard, veiling the whole garden in a haze of water.
 
-The tower amid the downpour stood like a gaunt gronn giant, the faintly glowing arcane energy at its peak like a single half-open eye staring down at the lone warlock below.
+The tower amid the downpour stood like a gaunt gronn, the faintly glowing arcane energy at its peak like a single half-open eye staring down at the lone warlock below.
 
 By now there wasn't a soul in the Mage Quarter — the rain was simply too heavy. That was perfectly normal.
 
 Jace stood there for a long while, watching the rainwater streaming through the brickwork beside the garden merge into a rivulet. So it's just me, then?
 
-The stone wall before him felt cold and wrong beneath his fingers, unfamiliar. Only the door in front of him gave him any measure of ease: this was Marin's study.
+The stone wall before him felt cold and wrong beneath his fingers, unfamiliar. Only the door in front of him gave him any measure of ease: this was Malin's study.
 
 "Master?" he called, knocking.
 
@@ -18,7 +18,7 @@ No answer from within. He pushed the door open, slipped inside, and pulled it sh
 
 None of the metallic tang of burning arcane energy. No old-book smell. Just a faint, unpleasant fishiness — and the shapeless blot of shadow sitting behind the desk.
 
-The only light came from the high window, pale and wan, rain hissing against it in layered ripples. That wasn't Marin.
+The only light came from the high window, pale and wan, rain hissing against it in layered ripples. That wasn't Malin.
 
 "You wanted to find me," Jace said.
 
@@ -32,7 +32,7 @@ Having spent so long around Morophil, Jace was long accustomed to having his tho
 
 Of course, this time he was facing Deathwing himself, not a succubus who indulged his every whim. It was only natural he'd feel rattled. Jace ran his hand along the bookshelf, tracing the spines one by one, trying to steady his nerves.
 
-Then he spotted that book — *The Troll's Romance*. Marin had casually incinerated it right in front of him when teaching him the Scorch incantation.
+Then he spotted that book — *A Troll's Romance*. Malin had casually incinerated it right in front of him when teaching him the Scorch incantation.
 
 The black dragon hadn't lied. He really had come into Jace's dream…
 
@@ -58,13 +58,13 @@ Letting his thoughts spiral this far was driving him mad, but he couldn't lose c
 
 "That is exactly what I wanted to hear," the man said.
 
-The heart Jace had been holding in suspense eased a fraction. Just then, a question surfaced — one he'd been meaning to ask for the past couple of days but hadn't known who to ask.
+The knot in Jace's chest eased a fraction. Just then, a question surfaced — one he'd been meaning to ask for the past couple of days but hadn't known who to ask.
 
 "I do have a question for you."
 
 "Go ahead."
 
-"That orc warlock — Nek'roz — the artifact he carries. I want to know how to use it."
+"That orc warlock — Nekros — the artifact he carries. I want to know how to use it."
 
 "This is not the time." The man stood, casually pulled a book from the shelf, and flipped it open. "The method of using it cannot be recorded on paper like so much other knowledge, nor can it be taught by word of mouth… even the most gifted caster must hold it in their own hands and feel its power for themselves. When you take it from that orc, I will guide you. I will teach you how to use it to make my self-righteous brothers and sisters grovel at your feet."
 
@@ -90,7 +90,7 @@ Deathwing genuinely seemed displeased. Jace did his best to maintain his composu
 
 He couldn't withstand Deathwing's wrath. But he had to ask.
 
-As a warlock who had fought dragonkin, as a mage who had studied dragonkin lore at the Wizard Sanctum, as someone who had personally killed a dragonkin — he couldn't possibly be unaware that dragons could elevate mortals into dragonkin.
+As a warlock who had fought dragonkin, as a mage who had studied dragonkin lore at the Wizard's Sanctum, as someone who had personally killed a dragonkin — he couldn't possibly be unaware that dragons could elevate mortals into dragonkin.
 
 Dragonkin, blessed by dragon's blood, also lived far longer than ordinary mortals. Immortality could take that form — but Jace couldn't accept that form, and Deathwing surely knew it well enough.
 
@@ -108,24 +108,8 @@ The shadow fell silent for a long while, then let out a low, amused snort. "That
 
 Jace nodded, turned, and pushed the study door open to leave. He didn't know why he performed such a meaningless action in his own dream, but he did it out of habit.
 
-Outside, the sky had already cleared. The sunlight was a little harsh, as if the rain had never fallen. Hurried students cut across the garden path toward the entrance of the Wizard Sanctum.
+Outside, the sky had already cleared. The sunlight was a little harsh, as if the rain had never fallen. Hurried students cut across the garden path toward the entrance of the Wizard's Sanctum.
 
 Wait.
 
 No. This wasn't a dream anymore.
-
-## Flags
-
-- **物是人非** → "The World Has Moved On": chapter title. Chinese idiom — the place remains but the people have changed. Rendered for tone, not literal.
-- **戈隆** → "gronn": the giant ogre-like race; here used simile-wise for the tower's silhouette.
-- **灼烧咒** → "Scorch incantation": the fire spell Master Marin taught Jace. Not in glossary; rendered descriptively. Flag for canonical spell-name verification.
-- **巨魔的爱情** → *The Troll's Romance*: a book title, rendered in italics.
-- **死亡之翼** → "Deathwing": canon (black dragon aspect, Neltharion).
-- **耐克鲁斯** → "Nek'roz": the Dragonmaw orc warlock who wields the Demon Soul. Not in glossary; transliterated. Flag for canonical name verification.
-- **恶魔之魂** → "the Demon Soul": the ancient artifact that enslaved the Dragonqueen's power.
-- **龙人** → "dragonkin": mortals elevated and blessed by dragon's blood; the form of "immortality" Jace rejects.
-- **莫洛菲尔** → "Morophil": Jace's succubus.
-- **马林** → "Marin": Master Marin, Jace's teacher at the Wizard Sanctum.
-- **巫师圣殿** → "Wizard Sanctum": canon mage tower in Stormwind.
-- **萨亚德** → "succubus": the demonic classification for Morophil (used generically in the text).
-- **主人** → "master": Jace's address to Deathwing within the dream.

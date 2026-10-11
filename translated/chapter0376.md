@@ -6,7 +6,7 @@ By the time they returned to Stormwind, it was nearly June, and the weather was 
 
 Jace and Grede found a small inn run by a gnome near the harbor, sat down, and ordered two grilled fish and two mugs of small beer with hardly any alcohol in it.
 
-Jace looked at the scrawny little fish the boss had brought over — the kind that looked like it had never had a full meal in its life — then glanced at the gnome proprietor and thought: is everything smaller at a gnome-run establishment?
+Jace looked at the scrawny little fish the owner had brought over — the kind that looked like it had never had a full meal in its life — then glanced at the gnome proprietor and thought: is everything smaller at a gnome-run establishment?
 
 "I never want to set foot on a ship again, Grede," he sighed with feeling. "First a trip to Booty Bay, and before I'd even recovered from that, off on another boat with you to Khaz Modan."
 
@@ -22,7 +22,7 @@ Jace shook his head. "Forget it. I'll keep it as a souvenir of this whole advent
 
 "Besides, maintenance on a cheap house is a fortune all on its own. You can't imagine what it costs to renovate and repair those old places... Even with a new house, you can't just blow all your savings at once. The ongoing costs add up no matter where you are, even in Goldshire. You don't want them arriving here only to start going into debt on your account, do you?"
 
-Hearing Grede say that, Jace thought about his parents having lived half their lives in the old craftsman district of the capital city, on those muddy roads. Bringing them to Stormwind only to stick them in a similar environment — an even smaller room — really did feel wrong.
+Hearing Grede say that, Jace thought about his parents having lived half their lives in the Old Craftsmen's Quarter of the capital, on those muddy roads. Bringing them to Stormwind only to stick them in a similar environment — an even smaller room — really did feel wrong.
 
 "You've been in Stormwind less than three years, and we've only really been making money for less than a year," Grede went on. "In a few more months, go back and show your parents the gold you've earned, then buy a nice new place near the Trade District — wouldn't that be better? I used to have a neighbor, a merchant from Ironforge, who bought a small house on the canal by the Trade District for seventy gold, big enough for him, his wife, and their son. Two years ago, when we first arrived in Stormwind, seventy gold seemed completely out of reach. But now, the two of us aren't far off at all."
 
@@ -32,7 +32,7 @@ Jace nodded. "You've got a point."
 
 Jace had actually been meaning to go ask about housing. Before, he'd had too little money, and later he'd been too busy running around earning and spending, and he'd completely forgotten about going to look.
 
-After splitting up with Grede and heading home, Jace pushed open the door to find Morophil flipping through the demonic language vocabulary materials the imp had translated.
+After splitting up with Grede and heading home, Jace pushed open the door to find Morophil flipping through the Demonic language vocabulary materials the imp had translated.
 
 When she saw Jace, her eyes widened. "Master... you're finally back!"
 
@@ -62,13 +62,13 @@ She laughed. The imp finally crawled out from under the bed with a long face. "M
 
 "We can't make heads or tails of the rest either, master," the imp said helplessly. "I don't know if what you heard was too obscure, or if your notes are too vague..."
 
-"Then write down every other word of demonic you can think of that might be related, and see if you can piece together something coherent. That includes you too, Morophil — you're doing this as well!"
+"Then write down every other word of Demonic you can think of that might be related, and see if you can piece together something coherent. That includes you too, Morophil — you're doing this as well!"
 
 Morophil's claw pointed at her own nose. "Then promise me — for every day I spend sorting through this language, every night I get to..."
 
 Jace said, "So if you don't figure it out for a few decades, that's it then? How about this — until you actually produce something, don't touch me."
 
-The succubus tilted her head. "Ah well. Who calls you my master, if not pitiful me..."
+The succubus tilted her head. "Ah well. That's what I get for having you as my master, poor me..."
 
 "I'm the most pitiful one here! I don't get anything!" the imp shouted.
 

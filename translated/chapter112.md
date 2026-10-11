@@ -2,19 +2,21 @@
 
 "To say something a little harsh," Jace said, glancing around to make sure there were no passersby, "even if you don't really believe in the Holy Light all that much, you could still try calling on the Holy Light's power for your own use. What's the harm in trying? It costs nothing."
 
-Grede sighed and said, "If that worked, would I need to go begging the Church? I'm thinking about going back to Aerie Peak to find a mystic and apprentice under them."
+Grede sighed and said, "If that worked, would I need to go begging the Church? I'm thinking about going back to Aerie Peak to find a thane and apprentice under him."
 
 Jace couldn't help glancing sideways at him. "You want to become a shaman?"
 
-Grede muttered, "Shaman, shaman — it even sounds like troll talk. I mean learning from those mystics how to communicate with heaven and earth, how to summon wind and thunder. Actually I thought about it before the war even ended, but I just didn't have the talent."
+Grede muttered, "Shaman, shaman — it even sounds like troll talk. I mean learning from those thanes how to communicate with heaven and earth, how to summon wind and thunder. Actually I thought about it before the war even ended, but I just didn't have the talent."
 
-He scooped up a stone and tossed it into the water. "That was right when I'd just gotten hurt, before they'd persuaded me to leave the order, but I'd already more or less seen how it was going to go. I tried what the mystics said, reaching out to the spirits, but I couldn't hear any voice of nature or words of the water. That feeling of frustration, you know what I mean. Plus I was still holding onto a sliver of hope that I might recover, so I didn't keep at it. After it was completely over, I never thought about becoming a mystic again — I just left the Hinterlands…"
+He scooped up a stone and tossed it into the water. "That was right when I'd just gotten hurt, before they'd persuaded me to leave the order, but I'd already more or less seen how it was going to go. I tried what the thanes said, reaching out to the spirits, but I couldn't hear any voice of nature or words of the water. That feeling of frustration, you know what I mean. Plus I was still holding onto a sliver of hope that I might recover, so I didn't keep at it. After it was completely over, I never thought about becoming a thane again — I just left the Hinterlands…"
 
 Here, Grede's words came to an abrupt halt.
 
 Jace noticed Grede sniffing constantly, his nose twitching, glancing at the river one moment, the road the next, and finally at Jace himself.
 
-"Hold on, why do I smell burnt sootfire drake?" Jace asked, surprised. "You can actually smell that?"
+"Hold on, why do I smell burnt sootfire drake?"
+
+Jace asked, surprised, "You can actually smell that?"
 
 As he said it, he pulled his hood up to his face.
 
@@ -44,7 +46,7 @@ Jace tilted his head back — finally, someone to show off to.
 
 Grede laughed and said, "Did you think it was Cunning's hide? Sell for three gold… Have you heard of Cunning? A giant sootfire drake that lived for over a hundred years, hunted by the dwarves of Ironforge. They say even real dragons feared its power. Its giant sail and scales and hide were made into over a dozen sets of clothes and armor, and each set could sell for a good dozen or even several dozen gold!"
 
-"What a coincidence," Jace said. "That's exactly the same name as the sootfire drake that Larsson the tailor mentioned. You don't think it's the same beast, do you?"
+"What a coincidence," Jace said. "That's exactly the same name as the sootfire drake that Larson the tailor mentioned. You don't think it's the same beast, do you?"
 
 "Huh?" Grede said. "Let me have another look."
 
@@ -58,7 +60,7 @@ Grede waved his hands quickly. "Stop, stop, just keep it to yourself. I don't ne
 
 "Why do you always talk like that?" Jace shoved him, and Grede's foot slipped and he nearly fell into the canal.
 
-"The Holy Light Church won't take me, and I've got no talent for being a mystic. What am I supposed to do? Go learn tricks at the Wizard Sanctum?" Grede gestured with his hands as he laughed a couple of times. Jace couldn't even tell if he was mocking him or laughing at himself.
+"The Church of the Holy Light won't take me, and I've got no talent for being a mystic. What am I supposed to do? Go learn tricks at the Wizard's Sanctum?" Grede gestured with his hands as he laughed a couple of times. Jace couldn't even tell if he was mocking him or laughing at himself.
 
 "So now you understand why I'm learning all that magic?" Jace asked.
 
@@ -83,14 +85,3 @@ He said, "Maybe once we get to Dalaran, you could try the Church in Southshore o
 "Sure," Jace stood up and dusted off his pants. "I've been pretty cooped up these days too. Practicing swords will get me moving and clear my head."
 
 Grede said, "Good thing I got a couple of practice wooden swords from the dwarves the other day. We can go wild with them."
-
-## Flags
-
-- Chapter title 同病相怜 → "Misery Loves Company" (idiom; not in glossary).
-- 熏火龙 → "sootfire drake" (not in glossary; Khaz Modan deep-dwelling beast, distinguished from true dragons in-text. 帆 = dorsal sail, rendered as "sail"). Tentative — flag for glossary addition.
-- 狡诈 → "Cunning" (proper name of a specific sootfire drake; not in glossary). Tentative.
-- 贤者 → "mystic" (Wildhammer nature-scholars; Jace uses "shaman" but Grede rejects the troll-associated term, so "mystic" for 贤者 to keep the distinction). Not in glossary.
-- 弗斯塔德族长 → "Chief Falstad" (Falstad Wildhammer, canonical Wildhammer chief; not in glossary).
-- 拉尔森 → "Larsson" (clothing-shop owner; not in glossary).
-- 铜须矮人 → "Bronzebeard dwarves" (glossary: 铜须 = Bronzebeard).
-- 铁炉堡 → "Ironforge" (canonical; not in glossary).

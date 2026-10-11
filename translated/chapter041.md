@@ -48,7 +48,7 @@ And with that, the dwarf was already crashing into the treeline.
 
 Jace found the wolf he'd stabbed with the dagger, half-dead and gasping, pulled the knife free, and re-lashed it as he ran.
 
-Only then did he realize what Grede had meant by "food" — the place where the Sturmil family's child might be.
+Only then did he realize what Grede had meant by "food" — the place where the Stormill family's child might be.
 
 Jace sprinted after Grede's figure, but how were two sets of legs supposed to match a pack of forest wolves? They lost the trail in no time.
 
@@ -72,7 +72,7 @@ Grede walked up to Jace's side, sized up the pack, and snorted. "See now why I h
 
 Jace said wearily, "Could you at least not act like you saw this coming? We got played, that's what happened."
 
-Grede didn't argue. "Well, if we want to solve that farm's problem, this pack had to be dealt with sooner or later. Now I know why the locals haven't taken that warrant for so long — it's a pain in the ass. But now it's simple. We kill them!"
+Grede didn't argue. "Well, if we want to solve that farm's problem, this pack had to be dealt with sooner or later. Now I know why the locals haven't taken that contract for so long — it's a pain in the ass. But now it's simple. We kill them!"
 
 This time they weren't facing seven or eight small wolves. This was a big pack — well over ten, quite likely, and several full-grown adults had joined in.
 
@@ -83,10 +83,3 @@ Compared to the pups from before, this pack had a completely different air about
 Grede was far more tense than before too, taking steady, deep breaths. This was going to be one hell of a fight.
 
 Jace raised his makeshift spear. The back of his head burned.
-
-## Flags
-
-- **斯托米尔 (Sturmil):** Family name not in glossary. Rendered phonetically as "Sturmil"; flagged for confirmation.
-- **弗艾格特:** The shadow-magic incantation Jace shouts. Rendered phonetically as "Fergt" (see Chapter 42). Not in glossary — flagging as a made-up spell-word that may need a consistent rendering across chapters.
-- **令状:** Rendered as "warrant" per glossary (令状 = Warrant). The "locals haven't taken that warrant" refers to the farm's bounty posting.
-- **"the man had mentioned":** Refers to the farmer (Matt) who gave them the job; kept vague as in the source.

@@ -12,7 +12,7 @@ He'd been debating whether to sell the bead bracelet on his wrist, but now it lo
 
 Might as well keep the bracelet as a souvenir.
 
-In the passenger cabin, the shirtless man was holding court, bracing to the people he knew while swigging rum.
+In the passenger cabin, the shirtless man was holding court, bragging to the people he knew while swigging rum.
 
 "That black panther… let me tell you, it was a star of the Gurubashi Arena for a reason! Every swipe wanted to tear the cabin walls apart — go look down there now, it's covered in claw marks and dents. I was worried the thing was going to claw a hole clean through the hull… No wonder I had such a rough go of it, but we won out in the end! Hah!"
 
@@ -83,14 +83,3 @@ Grede chuckled a few times, then slowly his expression faded.
 "I still want to bring up the arena thing, Jace. Not that I want you to fight in the arena or anything — but you said you'd hold me back…"
 
 He shook his head. "I've got this feeling. I might not be able to beat you anymore."
-
-## Flags
-
-- **"裸上身男"** (shirtless man): not in glossary. Descriptive coinage for the boastful hunter; rendered literally.
-- **"马尾男"** (ponytail man): not in glossary. Descriptive coinage for the injured hunter; rendered literally.
-- **"黑夜男爵"** (Night Baron): not in glossary. A prisoner being transported on the ship; rendered as "the 'Night Baron'" to preserve the epithet feel.
-- **古拉巴什竞技场** = Gurubashi Arena: glossary has Zul'Gurub / Gurubashi Empire but not the arena itself; used "Gurubashi Arena" as the canonical Booty Bay gladiatorial venue.
-- **达纳斯·托尔贝恩** = Danath Trollbane: not in glossary. Canonical Alliance commander (Hero of Nethergarde). Used canonical spelling.
-- **尼拉祖船长** = Captain Nilaz: not in glossary (only "加齐克" = Gazzik the goblin first mate is listed).
-- **后庭保准撑不住三个小时**: vulgar joke about Shadowforge City and sexual violence. Rendered with "backside" to keep the crudeness without being gratuitous.
-- **暗炉城** = Shadowforge City: in glossary.

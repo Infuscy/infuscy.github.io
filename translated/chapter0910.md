@@ -1,12 +1,12 @@
 ## Chapter 910: The Most Suitable Keeper
 
-Following the note written by Archmage Marin, Jace brought Sola to an old building covered in climbing vines deep in a back alley of the Mage Quarter. Pushing open the worn door panel revealed a narrow stair hall. Sola's room was the first door on the left down the corridor.
+Following the note written by Archmage Malin, Jace brought Sola to an old building covered in climbing vines deep in a back alley of the Mage Quarter. Pushing open the worn door panel revealed a narrow stair hall. Sola's room was the first door on the left down the corridor.
 
-Using the key Marin gave him to open the door, inside was actually a place that felt like an ordinary residence — two rooms plus a small living room. Not large, but exquisitely furnished, with a bit of a Dalaran feel to it.
+Using the key Malin gave him to open the door, inside was actually a place that felt like an ordinary residence — two rooms plus a small living room. Not large, but exquisitely furnished, with a bit of a Dalaran feel to it.
 
 At any rate, it didn't look like a studio apartment or a student dorm that could house two or three people.
 
-Jace suspected this might have been some archmage's residence once, and after it sat vacant, no suitable candidate had come along to live it in under Marin's management, so it just stayed empty.
+Jace suspected this might have been some archmage's residence once, and after it sat vacant, no suitable candidate had come along to live in it under Malin's management, so it just stayed empty.
 
 As for apprentices or apprentice mages like himself, they probably weren't supposed to live in a place like this either — it would create too big a gap with the other students. He breathed in and caught a faint damp, woody fragrance in the room.
 
@@ -14,15 +14,17 @@ As for apprentices or apprentice mages like himself, they probably weren't suppo
 
 "Thank you, Jace," Sola said.
 
-"It's nothing," Jace said. "You're our doctor, and you're away from home in an unfamiliar place. If you run into any trouble and can't find me or Grede right away, you can go to that archmage, Marin. I'm not sure how his class schedule is arranged this term, but he's usually in that study around eight or nine in the morning."
+"It's nothing," Jace said. "You're our doctor, and you're away from home in an unfamiliar place. If you run into any trouble and can't find me or Grede right away, you can go to that archmage, Malin. I'm not sure how his class schedule is arranged this term, but he's usually in that study around eight or nine in the morning."
 
 "I understand," Sola said. "But I still don't understand why he would help us. Ysondre told me that unless it's absolutely necessary, I must not reveal my true identity to outsiders, especially mortals. Because most mortals think dragons are evil and would hurt us. I'd originally thought that if I told him what I am, he'd be even less willing to help."
 
-Jace laughed. "Master Marin is a mage who studies dragons, but he's probably never actually had a conversation with a real dragon. So your existence is of immense importance to him — naturally he's willing to help you. He'll definitely let you stay as long as you like, and he'll take good care of you. My master attaches the utmost importance to his own research. Let alone me reminding him not to tell anyone else — even if it's just so the related articles and records can only be written by himself, he'd never breathe a word of having found a dragon he can actually communicate with. He might even turn around and pressure me not to tell anyone else."
+Jace laughed. "Master Malin is a mage who studies dragons, but he's probably never actually had a conversation with a real dragon. So your existence is of immense importance to him — naturally he's willing to help you. He'll definitely let you stay as long as you like, and he'll take good care of you. My master attaches the utmost importance to his own research. Let alone me reminding him not to tell anyone else — even if it's just so the related articles and records can only be written by himself, he'd never breathe a word of having found a dragon he can actually communicate with. He might even turn around and pressure me not to tell anyone else."
 
 Sola glanced out the window. "Then should I tell him as much as I know? I'm worried the Queen would be unhappy."
 
-"You definitely can't tell him everything," Jace said at once. "Then what should I do?" Sola asked hesitantly.
+"You definitely can't tell him everything," Jace said at once.
+
+"Then what should I do?" Sola asked hesitantly.
 
 Jace closed the door, leaned against the wall beside him, and thought for a moment. "Here's what you do — treat him like a druid. Toward the night elf druids, you wouldn't dump all the secrets of the green dragons and the Emerald Dream on them either, would you? Especially those druid 'apprentices' who just entered the Dream. In any case, hold something back — on the grounds of not angering Queen Ysera."
 
@@ -38,31 +40,33 @@ As he said it, he took out the small box he'd gotten from Ursula and set it on t
 
 Sola frowned. "Why are you showing me this?"
 
-"The reason is in these things below," Jace spread the crumpled papers out on the table. "These look like dragon-tongue pronunciations recorded in Common letters, don't they? Can you read what all this means."
+"The reason is in these things below," Jace spread the crumpled papers out on the table. "These look like Draconic pronunciations recorded in Common letters, don't they? Can you read what all this means."
 
-Sola acknowledged him, picked up the top sheet, and began reading. She read the Common-letter pronunciations aloud, her voice gradually deepening and hoarsely shifting into a slow chant in Drakkic.
+Sola acknowledged him, picked up the top sheet, and began reading. She read the Common-letter pronunciations aloud, her voice gradually deepening and hoarsely shifting into a slow chant in Draconic.
 
 But not long after, she stopped speaking and just read silently.
 
-"This is a drakonid's pronunciation. I shouldn't be reading it aloud like this," she put the sheet down. "But I can tell — this is a method for drinking black dragon's blood, including a series of techniques to resist shadow and fire damage, plus an incantation that probably only a black dragon could make sense of. Still, I don't think there's anything particularly special about it."
+"This is a dragonkin's pronunciation. I shouldn't be reading it aloud like this," she put the sheet down. "But I can tell — this is a method for drinking black dragon's blood, including a series of techniques to resist shadow and fire damage, plus an incantation that probably only a black dragon could make sense of. Still, I don't think there's anything particularly special about it."
 
 That said, she looked over the other sheets, flipping through several of them, her expression growing puzzled. "This is the process of an ascension ritual. It's not written in much detail, but you can tell."
 
-Jace had more or less guessed it too. Mortals drinking dragon blood and receiving a "blessing" — only a drakonid ascension ritual would contain this kind of content.
+Jace had more or less guessed it too. Mortals drinking dragon blood and receiving a "blessing" — only a dragonkin ascension ritual would contain this kind of content.
 
-"So the black dragons want to turn these humans into drakonid?" he asked. "You know about ascension rituals?" Sola asked.
+"So the black dragons want to turn these humans into dragonkin?" he asked.
 
-"I did sit through two years of classes at the Wizard Sanctum and spent plenty of time in the library. Don't underestimate mortals too much, Sola," Jace said. "But I remember that for a mortal to become a drakonid, doesn't it require a real dragon to participate?"
+"You know about ascension rituals?" Sola asked.
 
-"Not just a real dragon — a full dragon. I certainly can't," Sola said. "But judging from what's recorded on these papers, the ones participating in this so-called ascension ritual are all drakonid. There are no real black dragons involved at all, yet the process is more or less the same as an ordinary ascension ritual…"
+"I did sit through two years of classes at the Wizard's Sanctum and spent plenty of time in the library. Don't underestimate mortals too much, Sola," Jace said. "But I remember that for a mortal to become a dragonkin, doesn't it require a real dragon to participate?"
 
-"So what would happen if drakonid presided over the ascension?" Jace asked.
+"Not just a real dragon — a fully grown one. I certainly can't," Sola said. "But judging from what's recorded on these papers, the ones participating in this so-called ascension ritual are all dragonkin. There are no real black dragons involved at all, yet the process is more or less the same as an ordinary ascension ritual…"
 
-"I… I don't know." Sola shook her head. "I only know that the cost of a failed ascension ritual is gruesome. Deformities that are neither drakonid nor dragon are very likely to appear — both mentally and physically severely diminished, turning into feeble, muddled monstrosities. That's why the conditions we set for selecting candidates to become drakonid are extremely strict, and our attitude toward the ascension ritual is very serious. There's no way we'd let drakonid preside over it themselves."
+"So what would happen if dragonkin presided over the ascension?" Jace asked.
 
-That said, she thought for a moment and added, "However, even if drakonid preside, it would still grant the ascension candidate a short-term power boost. Though he wouldn't truly become a drakonid, and would often suffer mental derangement or physical deterioration into disability after a few years, or even die."
+"I… I don't know." Sola shook her head. "I only know that the cost of a failed ascension ritual is gruesome. Deformities that are neither dragonkin nor dragon are very likely to appear — both mentally and physically severely diminished, turning into feeble, muddled monstrosities. That's why the conditions we set for selecting candidates to become dragonkin are extremely strict, and our attitude toward the ascension ritual is very serious. There's no way we'd let dragonkin preside over it themselves."
 
-"But the power bestowed by the black drakonid could allow a person who hasn't received much shadow magic training at all to summon a powerful demon," Jace murmured.
+That said, she thought for a moment and added, "However, even if dragonkin preside, it would still grant the ascension candidate a short-term power boost. Though he wouldn't truly become a dragonkin, and would often suffer mental derangement or physical deterioration into disability after a few years, or even die."
+
+"But the power bestowed by the black dragonkin could allow a person who hasn't received much shadow magic training at all to summon a powerful demon," Jace murmured.
 
 "It's not impossible," Sola said. "The shadow power of black dragons is connected to the Twisting Nether. If their own magic is strengthened with their blood, it would naturally enhance the power to summon demons from the Nether at the same time."
 
@@ -70,33 +74,35 @@ That said, she thought for a moment and added, "However, even if drakonid presid
 
 "Do you need my help, Jace?" Sola asked.
 
-Jace said, "From here to Moonbrook, it's farms and watchtowers the whole way. Flying there would be too conspicuous — by then, every hidden drakonid in the Kingdom of Stormwind would know a green dragon had come here. If I get my hands on any clues and need to deal with an enemy I can't handle, I'll definitely come back and call you and Grede for help first."
+Jace said, "From here to Moonbrook, it's farms and watchtowers the whole way. Flying there would be too conspicuous — by then, every hidden dragonkin in the Kingdom of Stormwind would know a green dragon had come here. If I get my hands on any clues and need to deal with an enemy I can't handle, I'll definitely come back and call you and Grede for help first."
 
-Sola glanced at the staff wrapped in cloth on Jace's back and slowly nodded. Said that he was worried Sola would be spotted by too many people — in reality, Jace was worried about her disguise.
+Sola glanced at the staff wrapped in cloth on Jace's back and slowly nodded. He'd said he was worried Sola would be spotted by too many people — in reality, Jace was worried about her disguise.
 
 It had to be said that Sola's disguise was far less reliable than a full-grown dragon's. Though as long as there were no flaws showing, no mortal had detected anything amiss so far, it seemed every dragon they'd encountered so far could tell her shapeshifting skills weren't quite there yet.
 
-If Moonbrook really had drakonid lying in wait, Sola might draw even more attention than he would, not to mention how out of place a girl with Sola's shy, withdrawn demeanor would be in a place like Moonbrook, full of miners, farmhands, criminals, and warlocks.
+If Moonbrook really had dragonkin lying in wait, Sola might draw even more attention than he would, not to mention how out of place a girl with Sola's shy, withdrawn demeanor would be in a place like Moonbrook, full of miners, farmhands, criminals, and warlocks.
 
-After all, tracking demons and warlocks he had Morophil and Sazeno. Tracking disguised drakonid he had Dazarim… or the fifth one? He couldn't remember how many lifetimes ago. Should be fine.
+After all, tracking demons and warlocks he had Morophil and Sazeno. Tracking disguised dragonkin he had Dazarm… was it the Fifth by now? He couldn't remember which generation he was up to. Should be fine.
 
-Sola smiled. "The longer I know you, the harder it becomes for me to connect you with the legends — the dark mage who saved Grim Batol, the mortal who faced Deathwing in battle. If I hadn't witnessed with my own eyes you fighting my nightmare in the corroded Dream, if I hadn't seen you duel that black knight, I would never have believed you were the Jace Sesso of those tales. Not to mention that you're now the master of the Staff of Ursolus."
+Sola smiled. "The longer I know you, the harder it becomes for me to connect you with the legends — the dark mage who saved Grim Batol, the mortal who faced Deathwing in battle. If I hadn't witnessed with my own eyes you fighting my nightmare in the corroded Dream, if I hadn't seen you duel that Dark Rider, I would never have believed you were the Jace Sesso of those tales. Not to mention that you're now the master of the Staff of Ulthalesh."
 
 "After coming here, I heard you used magic at the Dark Portal to kill the demon lord Azgoth. Grede told me you felled that demon with a single strike using a terrifying dark magic… I can't imagine you, standing right here, wielding such dreadful shadow power."
 
 "You've heard too many stories about humans like Aegwynn," Jace said.
 
-"I didn't know whether I should bring this up in front of Vereesa and Grede before," Sola said. "But in the secret vault of Guardian Scaravar, when I entered the Dream, I could feel the Dream fragments infected by Ursolus's dark power for decades, even centuries, tormenting my spirit and my will like the corpse of a soul. Every tree, every blade of grass and flower — things that should have been harmonious and joyful in the Emerald Dream — had become clawing, gnashing fiends radiating the stench of undeath and the hatred, resentment, confusion, and despair of shadow, all trying to drag me into the same dark abyss."
+"I didn't know whether I should bring this up in front of Vereesa and Grede before," Sola said. "But in the secret vault of Guardian Scavell, when I entered the Dream, I could feel the Dream fragments infected by Ulthalesh's dark power for decades, even centuries, tormenting my spirit and my will like the corpse of a soul. Every tree, every blade of grass and flower — things that should have been harmonious and joyful in the Emerald Dream — had become clawing, gnashing fiends radiating the stench of undeath and the hatred, resentment, confusion, and despair of shadow, all trying to drag me into the same dark abyss."
 
-"And the Chain of Will, this searing thing, burned against my skin while also helping me resist the full, terrifying power this staff could unleash. If not for it, I think I would have become a spirit thrall of Ursolus, like those spirit dragons — enslaved in soul, guarding that vault with my own flesh for eternity, until killed by another batch of explorers who came looking for the staff."
+"And the Chain of Will, this searing thing, burned against my skin while also helping me resist the full, terrifying power this staff could unleash. If not for it, I think I would have become a spirit thrall of Ulthalesh, like those spirit dragons — enslaved in soul, guarding that vault with my own flesh for eternity, until killed by another batch of explorers who came looking for the staff."
 
-Her tone was very calm, completely at odds with the content of her words, as if she were recounting someone else's story. "It was easy to foresee the situation inside, Sola. Otherwise I wouldn't have given you the Chain of Will," Jace said.
+Her tone was very calm, completely at odds with the content of her words, as if she were recounting someone else's story.
 
-"You know what I was thinking, wearing that chain and struggling against those madnesses?" the green dragon lowered her eyes. "I felt as though I could control everything — that even a divine artifact forged by Sargeras couldn't harm me. If I wore this chain, I might even… I might be able to help Queen Ysera cleanse all corruption from the nightmares, even its source. At that point, there'd be nothing left to fear in this world."
+"It was easy to foresee the situation inside, Sola. Otherwise I wouldn't have given you the Chain of Will," Jace said.
+
+"You know what I was thinking, wearing that chain and struggling against those madnesses?" the green dragon lowered her eyes. "I felt as though I could control everything — that even an artifact forged by Sargeras couldn't harm me. If I wore this chain, I might even… I might be able to help Queen Ysera cleanse all corruption from the nightmares, even its source. At that point, there'd be nothing left to fear in this world."
 
 Jace hadn't expected this little dragon to have thought all that inside, and he was slightly taken aback.
 
-Sola continued, "I know the story of the Chain of Will, the elemental lords who forged it, and how Deathwing bound it to the Demon Soul to enslave the other Dragon Aspects. Many dragons have heard it. The fate of Queen Alexstrasza is what we've feared most for the very long time."
+Sola continued, "I know the story of the Chain of Will, the elemental lords who forged it, and how Deathwing bound it to the Demon Soul to enslave the other Dragon Aspects. Many dragons have heard it. The fate of Queen Alexstrasza is what we've feared most for a very long time."
 
 "The immense power of the Chain of Will plunged its previous owners into bottomless arrogance. Once, this was nothing but a terrifying story to me, but after truly wearing it, I came to realize the weight of that story. This is why they failed — the Chain of Will couldn't help them fight the Old Gods, because they were devoured by something the chain itself brought. You are the exact opposite of them. You don't have their desires or ambitions. You just want to… I don't know what you want."
 

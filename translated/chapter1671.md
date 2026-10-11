@@ -8,9 +8,9 @@ But this place no longer matched the Blackwing Lair Jace remembered from his pas
 
 That throne room had probably been where the overall commander of Blackrock Spire, or Dagran Thaurissan, received soldiers. It was also where Nefarian later poured Shadowflame into Vaelastrasz, fully corrupting him with shadow. In that room, players had to fight and kill the corrupted Vaelastrasz.
 
-But the entrance to that hall in the game was a moderately wide gate. It was fine for a huge dragonkin like Razorgore, but could that many whelps fly through?
+But the entrance to that hall in the game was a moderately wide gate. It was fine for a huge dragonkin like Razorgore, but could that many drakes fly through?
 
-Jace had wondered about this when he saw the whelps retreating from the fight. Sure enough, when they reached the end of the hall, he found the walls and the gate had collapsed, revealing a massive hole. It wasn't just big enough for whelps -- Vaelastrasz could probably squeeze through too.
+Jace had wondered about this when he saw the drakes retreating from the fight. Sure enough, when they reached the end of the hall, he found the walls and the gate had collapsed, revealing a massive hole. It wasn't just big enough for drakes -- Vaelastrasz could probably squeeze through too.
 
 The throne room was still there, but half-covered in semi-solidified lava that had flowed down. The temperature was so high it was unbearable for mortals, like being back in Shadowforge City before the Molten Core's destruction.
 
@@ -30,7 +30,7 @@ Was this... the Blackwing Descent?
 
 Blackwing Lair wasn't the very top of Blackrock Spire. The Blackwing Descent was actually the highest part. In the game, both the Dark Iron dwarves and the Blackwing forces had been conquered by the Alliance and Horde, leaving no one with the strength to occupy Blackrock Spire. This place had been left abandoned.
 
-It wasn't until Deathwing brought the Cataclysm that a resurrected Nefarian reclaimed the place. He'd regained control of some hidden servants, picked up parts of his old research, and even turned his dead sister Onyxia into an experimental subject -- fully cooperating with his father's plan, becoming even more evil and insane than during the Blackwing Lair era.
+It wasn't until Deathwing brought the Cataclysm that a resurrected Nefarian reclaimed the place. He'd regained control of some hidden servants, picked up parts of his old research, and even turned his dead sister Onyxia into an experimental subject -- fully cooperating with his father's plan, becoming even more evil and insane than during Blackwing Lair era.
 
 Jace had no doubt the designers wanted to reskin old content and make everyone kill it again, but this part of Blackrock Spire was indeed real.
 
@@ -38,7 +38,7 @@ He looked up at the circular hall. It reminded him of the oppressive depths of t
 
 Ulthalesh murmured hungrily. The endless craving was nearly driving Jace past patience. He knew why the staff was so excited. They were getting closer to the peak of Blackrock Spire, where all the souls were gathering. Jace had no doubt this was what he'd been waiting for the whole journey.
 
-Four or five black whelps circled at the edge between shadow and light. Their exact numbers and sizes were hard to determine. They flew around something bound in chains. That thing was...
+Four or five black drakes circled at the edge between shadow and light. Their exact numbers and sizes were hard to determine. They flew around something bound in chains. That thing was...
 
 "Lord Anduin Lothar!"
 
@@ -58,7 +58,7 @@ The allied soldiers boiled with rage. In an instant, their fury twisted together
 
 Khadgar quickly pushed to the front of the allied formation, high on the steps. He raised his staff at the chained figure and chanted. A bolt of arcane energy shot toward it. He was trying to use arcane power to snatch Lord Lothar's body from this distance. But halfway there, the arcane energy was swallowed by a swirling vortex of shadow. Only a spine-tingling shriek echoed back.
 
-"Ghosts... endless ghosts." Sora said, looking up. "He's being guarded by countless spirits!"
+"Ghosts... endless ghosts." Sola said, looking up. "He's being guarded by countless spirits!"
 
 "Yes. And they're the dead of all Blackrock Mountain..." Khadgar said in dismay. He looked down at Jace. "Sesso."
 
@@ -74,13 +74,13 @@ Ulthalesh felt it too. It howled furiously in Jace's mind, as if insulted. Jace 
 
 "It's hard to imagine that my father fell to someone like you."
 
-"Who gave you Atal'ai crystal shards, black dragon?!" Khadgar shouted.
+"Who gave you Ata'mal crystal shards, black dragon?!" Khadgar shouted.
 
 "A true guide. Someone I shouldn't have doubted." Nefarian laughed coldly. "The guests have all arrived. It's about time. Chromaggus, my child. Let's begin this new era together."
 
 Four eyes opened in the shadow above. Two thick purple dragon heads slowly extended into the firelight.
 
-A two-headed monster, larger even than a full-grown dragon, climbed down the high wall with its clawed limbs and chains, gradually revealing its entire body. A hideous purple horror, covered in broad scales, with dragon-horn-like spines covering its shoulders, head, and back -- looking like the peaks of Bladespire Mountains.
+A two-headed monster, larger even than a full-grown dragon, climbed down the high wall with its clawed limbs and chains, gradually revealing its entire body. A hideous purple horror, covered in broad scales, with dragon-horn-like spines covering its shoulders, head, and back -- looking like the peaks of the Blade's Edge Mountains.
 
 Chromaggus. He was leaner than the monster in the game. Longer. More like an overly thick crocodile than a giant dragon-dog...
 

@@ -52,7 +52,7 @@ Grede didn't press the attack. He pulled back, his expression completely unchang
 
 Jace took two steps back, thinking about how to break through the other man's guard, but the dwarf's confident — even faintly contemptuous — gaze kept him from concentrating on any tactic.
 
-To be honest, the life-or-death struggle with that naga had given him a lot more confidence in close combat. He hadn't felt much fear even facing a thug like Erland.
+To be honest, the life-or-death struggle with that naga had given him a lot more confidence in close combat. He hadn't felt much fear even facing a thug like Erlan.
 
 But all the confidence he'd built up over these past weeks had been cut down quite a bit by Grede's gaze just now.
 
@@ -70,11 +70,11 @@ He told himself this as he adjusted the tip of his sword, preparing for the next
 
 Jace closed in step by step. When he was just about in striking distance, his muscles tensed again for a thrust. This time he'd leave Grede nothing to deflect, force him into a clumsy retreat, and then press the attack into the dwarf's arm…
 
-But then, without warning, Grede let out a fierce shout. Jace's rhythm was instantly shattered — his thrust wasn't hard enough or fast enough, and even his footwork fell apart. Grede easily sidestepped the messy thrust and kicked Jace in the waist, sending him sprawling.
+But then, without warning, Grede let out a fierce shout. Jace's rhythm was instantly shattered — his thrust wasn't hard enough or fast enough, and even his footwork fell apart. Grede easily sidestepped the messy thrust and kicked Jace in the side, sending him sprawling.
 
 Grede laughed. "Get up. Again."
 
-Jace spat out the dirt and grass from his mouth, stretched his waist, and stood back up, looking at Grede once more.
+Jace spat out the dirt and grass from his mouth, stretched his back, and stood back up, looking at Grede once more.
 
 So that was some kind of Demoralizing Shout, huh?
 
@@ -88,9 +88,9 @@ Jace spread his left palm wide and suddenly released a burst of light. But in th
 
 His vision went completely white. He could only guess at where Grede was and swing his sword down hard — and sliced right through empty air.
 
-The Light faded. Jace felt a strange force slam into his back and send him flying forward, tumbling across the dirt for a distance.
+The glow faded. Jace felt a strange force slam into his back and send him flying forward, tumbling across the dirt for a distance.
 
-Before he could even get up, his waist and backside started hurting.
+Before he could even get up, his back and backside started hurting.
 
 "Were you trying to use those little tricks on me, huh?" Grede said with a smile. "But honestly, you've improved quite a bit, Jace. We only started training a month ago, maybe a month and a half at most. I'd say you're already better than the vast majority of sword-swinging folks I've seen in Stormwind. Your attacks are genuinely threatening — I have to take them seriously, can't relax the way I did at the beginning."
 
@@ -109,12 +109,3 @@ Jace patted the dry grass off himself, thinking about that naga he'd killed on t
 Come to think of it, Grede had probably killed way more powerful monsters than that little naga. If he'd been on that beach, the creature probably wouldn't have finished casting her first Curse of Weakness before he smashed her brains in.
 
 He still had a long, long way to go in sword training.
-
-## Flags
-
-- Chapter title 要学的还很多 → "Still a Long Way to Go" (not in glossary).
-- 挫志怒吼 → "Demoralizing Shout" (Jace's guess at the shout Grede used; not in glossary. WoW has both "Demoralizing Shout" warrior ability and "Demoralizing Roar" druid — flagged for confirmation of intended reference).
-- 利尤萨 → "Liyouisa" (glossary: the Light spell's verbal component/incantation).
-- 小女妖 → rendered as "that little naga" (the Chinese uses 女妖/banshee here, but the referent is clearly the naga from Westfall; translated by referent to avoid confusion). Flag for review — possible author slip.
-- 虚弱诅咒 → "Curse of Weakness" (not in glossary; standard WoW warlock spell).
-- 阿曼尼 → "Amani" (Amani troll empire; not in glossary).

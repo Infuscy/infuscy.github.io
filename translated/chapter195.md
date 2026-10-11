@@ -4,7 +4,7 @@ The vast primeval forest at the foot of Aerie Peak was untouched by foot traffic
 
 But Grede looked perfectly confident, striding forward with firm steps, stepping over giant tree roots and trudging over uneven hillocks carpeted with muck-like layers of rotted leaves.
 
-Jace barely kept pace with the dwarf ahead of him, and could only feel that his leg injury had healed quite a bit.
+Jace barely kept pace with the dwarf ahead of him, and could only conclude that Grede's leg had healed quite a bit.
 
 His shoulder, though, had also felt much better these past two days. Following the Dalaran apothecary's instructions for applying medicine and changing bandages, the wound had healed so fast it almost felt unnatural — like he'd been on some kind of steroid.
 
@@ -34,7 +34,7 @@ Jace even suspected he'd gone a whole night without sleep and was hallucinating,
 
 But Grede looked up too, eyes wide as saucers — which proved Jace wasn't the only one seeing this.
 
-The dwarf didn't reach for his hammer. He just clutched that round shield, his body frozen in an awkward stance, his hind legs already trembling from the uncomfortable position. Seeing how he was behaving, Jace also rooted himself to the ground and tried his absolute best not to move.
+The dwarf didn't reach for his hammer. He just clutched that round shield, his body frozen in an awkward stance, his legs already trembling from the uncomfortable position. Seeing how he was behaving, Jace also rooted himself to the ground and tried his absolute best not to move.
 
 The monster took another step forward and finally revealed its whole body from behind the cliff's edge.
 
@@ -50,7 +50,7 @@ And it was enormous!
 
 The wildkin glanced down at the mound Grede was standing on, seemed a little afraid to jump straight down, so it picked its way around to a distant slope and made its way down the gentler incline. Along the way it even stumbled once, like a clumsy wild bear.
 
-Its two feet might have looked like eagle talons, but they were so thick and massive that at a glance they more like a lion's — except covered not in fur but in layer after layer of scaly brown hide.
+Its two feet might have looked like eagle talons, but they were so thick and massive that at a glance they looked more like a lion's — except covered not in fur but in layer after layer of scaly brown hide.
 
 Once it had come down, it shuffled step by step over toward Jace. Grede kept his eyes locked on Jace, shaking his head nonstop — a silent warning not to make any move.
 
@@ -100,22 +100,6 @@ Grede caught Jace's meaning at once and grinned. "A wildkin's a lot better at te
 
 "Don't bring that up. Anyway, that scared the hell out of me just now," Jace said. "It's not often I see an animal that big standing right in front of my face."
 
-Grede said, "That one's a big one even for a wildkin. In Dwarvish we call them owl-bears — because even though the thing looks like a bird, its whole body is like a giant bear. Come on, let's move. If there aren't any trolls around… we just need to reach the foot of Aerie Peak fast and we won't have to worry."
+Grede said, "That one's a big one even for a wildkin. In Dwarvish we call them owlbeasts — because even though the thing looks like a bird, its whole body is like a giant bear. Come on, let's move. If there aren't any trolls around… we just need to reach the foot of Aerie Peak fast and we won't have to worry."
 
 After an encounter with a creature that size, the sleepiness had been scared clean out of both of them, and the road ahead didn't feel quite so endless anymore.
-
-## Flags
-
-- 枭兽 → wildkin (canonical WoW creature; the owl-bear/wildkin. Not in glossary. Grede's Dwarvish term "猫头鹰熊" rendered as "owl-bear.")
-- 枭兽羽毛笔 → wildkin-feather quills (not in glossary).
-- 达拉然 → Dalaran (glossary confirms).
-- 辛特兰 → the Hinterlands (glossary confirms).
-- 希尔斯布莱德 → Hillsbrad (canonical WoW; not in glossary).
-- 鹰巢山 → Aerie Peak (canonical WoW; not in glossary).
-- 奥特兰克 → Alterac (canonical WoW; not in glossary).
-- 巨魔 → trolls (glossary confirms).
-- 矮人语 → Dwarvish (not in glossary; the dwarven language).
-- 猫头鹰熊 → owl-bear (Grede's Dwarvish term for wildkin; not in glossary).
-- 法杖 → staff (glossary confirms 法杖/长杖 = Staff/Rod).
-- 奎尔丹尼 → Quel'Dani (carried over from ch. 194; tentative).
-- 格瑞德's "闷杀" → "ambushed and caved in" (colloquial for a surprise attack that crushes/kills).

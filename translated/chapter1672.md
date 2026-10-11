@@ -6,7 +6,7 @@ Needleflame seemed frightened by Grede's words. Grede stared at her. "Why would 
 
 Forget Needleflame -- even Jace was startled. If that really was Onyxia's wing, did that mean...?
 
-Jace was reluctant to admit the faint sympathy for Onyxia stirring in his chest. She was undoubtedly Deathwing and Nefarian's most ruthless accomplice, a mother who would stop at nothing to ensure the black dragonflight's survival. But imagining her being brutally dismembered by her own brother -- and worse, having part of her body grafted onto this twisted monster -- still sent a chill down his spine.
+Jace was reluctant to admit the faint sympathy for Onyxia stirring in his chest. She was undoubtedly Deathwing and Nefarian's most ruthless accomplice, a mother who would stop at nothing to ensure the Black Dragonflight's survival. But imagining her being brutally dismembered by her own brother -- and worse, having part of her body grafted onto this twisted monster -- still sent a chill down his spine.
 
 From the look on Grede's face, he felt the same. Grede had been thoroughly beaten by Onyxia once. He couldn't have an ounce of goodwill toward the black dragon princess. But thinking about her fate now, there was no schadenfreude in his expression.
 
@@ -22,7 +22,7 @@ Muradin Bronzebeard faced the descending beast, wound up his arm, and hurled his
 
 The white flash from their collision lit up most of the circular hall for an instant. The Mountain King below squinted against the glare.
 
-Most soldiers and commanders scrambled up or down the stairs, or dove through doorways. But the narrow ramps were too crowded. Not everyone made it. The monster slammed into the floor like an iron bomb, sitting the dwarf lord right under its bulk.
+Most soldiers and commanders scrambled up or down the stairs, or dove through doorways. But the narrow ramps were too crowded. Not everyone made it. The monster slammed into the floor like an iron bomb, pinning the dwarf lord right under its bulk.
 
 The beast's feet and horned heads smashed several large craters into the Dark Iron-built walls inscribed with massive flame runes, cracking them open. The thunder of shattering stone and tumbling debris nearly drowned out the soldiers' shouts and Chromaggus's roars.
 
@@ -56,7 +56,7 @@ Alleria's Thalassian command rang from above. The rangers had already taken high
 
 That was Onyxia's original dragon wing. Her might was second only to her father's among ancient dragons. How could her wing membrane fear a few ranger arrows?
 
-Only Vereesa's Dream Arrows could pierce the membrane and reach Chromaggus's body. But when her arrows -- strong enough to shake Ragnaros's hammer -- hit the chromatic dragon's scales, they were swallowed by a flash of light. Not deflected, not blocked -- swallowed, teleported to another world. Even Vereesa froze for a moment.
+Only Vereesa's dream arrows could pierce the membrane and reach Chromaggus's body. But when her arrows -- strong enough to shake Ragnaros's hammer -- hit the chromatic dragon's scales, they were swallowed by a flash of light. Not deflected, not blocked -- swallowed, teleported to another world. Even Vereesa froze for a moment.
 
 But the Farstriders' arrow harassment forced him to keep his shield-like wing raised, giving old Fordring a chance to break free from the pressure and dodge aside.
 
@@ -70,7 +70,7 @@ After all, Deathwing's original goal in creating chromatic dragons was to conten
 
 It wasn't just the Farstriders' arrows or the soldiers' weapons. Even the mages' magic was useless. Everyone quickly realized Vereesa's arrows weren't the only thing being nullified. When fireballs hit the scales, the purple scales turned red and absorbed them. Arcane Missiles, Arcane Blasts, and Frostbolts -- the scales turned ice-blue to resist.
 
-This chromatic monster, wielding the power of all five dragonflights, was virtually immune to all magical attacks. The Kirin Tor mages, who had faced dragonkin swarms without flinching, were now cursing in frustration. It seemed the paladins, soldiers, and dwarven warriors had a better chance. Vereesa had switched to the Farstriders' arrows, but with Belanore's magic enhancing them, she could at least pierce his scales and drive arrows into flesh.
+This chromatic monster, wielding the power of all five dragonflights, was virtually immune to all magical attacks. The Kirin Tor mages, who had faced dragonkin swarms without flinching, were now cursing in frustration. It seemed the paladins, soldiers, and dwarven warriors had a better chance. Vereesa had switched to the Farstriders' arrows, but with Belanur's magic enhancing them, she could at least pierce his scales and drive arrows into flesh.
 
 Worse, many mages were hit by some kind of spell reflection. If struck, they'd not only be painfully interrupted mid-cast, losing their connection to the ley lines amid an arcane ring, but their bodies would burst into white arcane flames, forcing them to scramble on the ground to put out the fire. That was probably the blue dragon's trick too. Even Khadgar was struggling. He was busy dispelling the magical torment afflicting his colleagues while shouting with other mages about how to break Chromaggus's arcane defenses.
 
@@ -78,7 +78,7 @@ Through it all, the soldiers kept charging the monster wave after wave, heedless
 
 Jace hated to think it, but Lord Lothar's body, hanging in chains high above, had driven these elite veterans and Sons of Lothar past reason. And the shadow in Blackrock Spire was further inflaming their emotions. That was exactly what Nefarian wanted.
 
-If he used a devastating shadow spell like Gul'dan's Grasp on Chromaggus now... the consequences would be unthinkable. And the chromatic dragon's magic resistance, comparable to a felhound's, meant one blow might not even kill it. Hard to say whether that would help the allied army or make Nefarian happier.
+If he used a devastating shadow spell like Hand of Gul'dan on Chromaggus now... the consequences would be unthinkable. And the chromatic dragon's magic resistance, comparable to a felhound's, meant one blow might not even kill it. Hard to say whether that would help the allied army or make Nefarian happier.
 
 And Jace had no doubt that if he hit the two-headed dragon with shadow magic, its scales would turn brownish-black -- after all, this monster was infused with more black dragon power than any other.
 

@@ -2,7 +2,7 @@
 
 After leaving the spider-infested woodland and walking back for several hours, night had fallen again. He'd spent most of the day searching the forest, and by evening he was still a bit worn out.
 
-Still, Jace felt he was just about ready this time. One pure soul shard — and if that wasn't enough, he could always find another unlucky bastard in the forest with Mortipher.
+Still, Jace felt he was just about ready this time. One pure soul shard — and if that wasn't enough, he could always find another unlucky bastard in the forest with Morophil.
 
 Next step: rest up properly, then try one more time.
 
@@ -18,7 +18,7 @@ After all, he'd been dredging up these memories far too many times over the past
 
 When he finally felt it was about right, he began chanting the incantation once more.
 
-"Savius…" This incantation was already extremely familiar to him — he could recite it almost subconsciously, which allowed him to keep stewing in the emotion, keep savoring the feelings in those memories, all while closing his eyes and sensing the shadow magic gathering at the call of the spell, slowly rising into the air. And then came the moment to offer up the soul shard.
+"Savia…" This incantation was already extremely familiar to him — he could recite it almost subconsciously, which allowed him to keep stewing in the emotion, keep savoring the feelings in those memories, all while closing his eyes and sensing the shadow magic gathering at the call of the spell, slowly rising into the air. And then came the moment to offer up the soul shard.
 
 "Avarus…" he continued chanting, raising the soul shard high. Shadow serpents began to manifest, swirling far around wherever the staff pointed. Smooth. Couldn't have gone smoother.
 
@@ -26,7 +26,7 @@ And the mana expenditure was clearly still within what Jace could handle. He cou
 
 But he wasn't going to think about mana anymore. He was going to focus everything on completing this incantation. Plenty of people and demons had told him he had considerable talent for shadow, but this time, even he felt it slipping beyond his control.
 
-"Anteus…"
+"Anthea…"
 
 Jace kept chanting and gently swept the staff. Teron Gorefiend's gem flickered with light, and the shadow serpents began gathering toward where it pointed, tangling together in the middle. This was the most critical stage — it was where he'd failed last time.
 
@@ -52,7 +52,7 @@ Or his energy had run out…
 
 Jace didn't dwell on it. He'd finally gotten the shadow to take form — he couldn't afford to lose focus now.
 
-The soul shard in his hand had already shattered completely, reduced to powerless powder. He drew Azuresong without hesitation and pointed it skyward. Arcane light instantly blazed from the staff, the gem at its crown, illuminating the whole forest!
+The soul shard in his hand had already shattered completely, reduced to powerless powder. He drew Azuresong without hesitation and pointed it skyward. Arcane light instantly blazed from the gem at the staff's crown, illuminating the whole forest!
 
 Then he laid Azuresong across the staff, and the shadow mass that had been disintegrating in the sky suddenly erupted in a ball of black fire, roaring and rolling as it blasted jagged shards of shadow in every direction. Where they struck the ground, they set off bursts of flame.
 
@@ -80,15 +80,15 @@ That tree had basically been half-killed by the shadow shockwave too. The moment
 
 After that, he drank a Mana Potion to restore a bit of energy, so he'd at least have enough mana to stay conscious, sense magical energy, and keep his wits about him.
 
-"Master, those shadow flames were summoned from the Twisting Nether," the imp said. "So scary! It must have been an Eredar who came up with something this terrifying!"
+"Master, those shadow flames were summoned from the Twisting Nether," the imp said. "So scary! It must have been an eredar who came up with something this terrifying!"
 
-"That means the shadow energy in the worlds beyond the Twisting Nether can no longer satisfy their appetite for destruction," Mortipher said. "After the Eredar joined the Burning Legion, they lost interest in pretty much everything that wasn't plunder and violence."
+"That means the shadow energy in the worlds beyond the Twisting Nether can no longer satisfy their appetite for destruction," Morophil said. "After the eredar joined the Burning Legion, they lost interest in pretty much everything that wasn't plunder and violence."
 
-This was indeed the Hand of Gul'dan — though the two demons were certain this incantation bore the fingerprints of the Eredar. Perhaps Gul'dan had only completed this spell under the guidance of the Deceiver himself, Kil'jaeden.
+This was indeed the Hand of Gul'dan — though the two demons were certain this incantation bore the fingerprints of the eredar. Perhaps Gul'dan had only completed this spell under the guidance of the Deceiver himself, Kil'jaeden.
 
 Then again, Gul'dan had his own reasons not to care about mana costs.
 
-He had once seized the power of nearly all of Draenor, held the souls of thousands of Draenei captives hostage, and squandered nearly endless dark power with reckless abandon — far more confidently than any ordinary Eredar warlock.
+He had once seized the power of nearly all of Draenor, held the souls of thousands of draenei captives hostage, and squandered nearly endless dark power with reckless abandon — far more confidently than any ordinary eredar warlock.
 
 But in the aftermath of the explosion, no new demon had been born.
 

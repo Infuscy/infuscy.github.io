@@ -1,4 +1,4 @@
-## Chapter 404: Demon Dog-Tamer
+## Chapter 404: The Demon Houndmaster
 
 Following the sounds and the glow of magic, the two of them headed toward the forest where the fierce battle was underway. They could see a dark shadow ahead, wielding some kind of weapon and swinging it relentlessly.
 
@@ -6,13 +6,13 @@ Nearby, a soldier was grappling with a felhound bare-handed. The elf casually pu
 
 In the forest before them, soldiers were coordinating to fight the swarming felhounds and imps. The elf immediately joined them.
 
-Jace pressed forward, blasting a felhound that had been hacked out of two legs and was dragging itself along the ground with a Scorch spell. He brought his staff down hard on the back of a felhound that was trying to ambush another soldier from behind. But his eyes were fixed on that burly dark shadow all the while.
+Jace pressed forward, blasting a felhound that had lost two legs to a blade and was dragging itself along the ground with a Scorch spell. He brought his staff down hard on the back of a felhound that was trying to ambush another soldier from behind. But his eyes were fixed on that burly dark shadow all the while.
 
 Crossing a stream, he glanced at a human corpse lying face-down in the water, its helmet caved in, staining a wide stretch of the stream red with blood. A demonic growl hit him head-on — the dark shadow revealed its true form.
 
-It was an enormous, dark-blue-skinned monster, standing nearly three meters tall. Its eyes were two clumps of wildfire belching thick smoke. A half-helmet was chained into the flesh of its head to hold it in place. Its body was covered in bizarre armor of interlocking chains and plates. In one hand it gripped a long-handled hammer; in the other, an iron chain like a whip. It swung them relentlessly at an enemy in front of him — someone so short they were hidden behind the slope.
+It was an enormous, dark-blue-skinned monster, standing nearly three meters tall. Its eyes were two clumps of wildfire belching thick smoke. A half-helmet was chained into the flesh of its head to hold it in place. Its body was covered in bizarre armor of interlocking chains and plates. In one hand it gripped a long-handled hammer; in the other, an iron chain like a whip. It swung them relentlessly at an enemy in front of it — someone so short they were hidden behind the slope.
 
-Jace scrambled up the low slope and looked out. Two soldiers had already fallen not far ahead. One appeared to be dead; the other was dragging its wounded body toward a tree. Felhounds patrolled frantically all around.
+Jace scrambled up the low slope and looked out. Two soldiers had already fallen not far ahead. One appeared to be dead; the other was dragging his wounded body toward a tree. Felhounds patrolled frantically all around.
 
 The soldiers were too busy dealing with the smaller creatures to handle this towering Mo'arg. The only one standing before the Mo'arg demon was a single figure — Captain Quenton in his blue shirt.
 
@@ -40,13 +40,13 @@ A harsh metallic clang. The demon staggered a few steps but steadied itself. It 
 
 It swept the flaming hammer in a horizontal arc at the paladin closing in. Jace spoke the Scorch incantation again, blasting a gap in its armor — but a beat too late. The paladin couldn't dodge in time and was swept off his feet, dropping to one knee.
 
-The demon slapped out the flames burning across its body and raised its hammer, bearing down on the paladin. Its fire resistance was simply too high — the pure flame magic Jace had been using was utterly insufficient. If not for Azure Song, the demon probably wouldn't even have noticed.
+The demon slapped out the flames burning across its body and raised its hammer, bearing down on the paladin. Its fire resistance was simply too high — the pure flame magic Jace had been using was utterly insufficient. If not for Azuresong, the demon probably wouldn't even have noticed.
 
 But to unleash true shadowflame…
 
-Yet the paladin was clearly at a disadvantage. If he died, the soldiers still fighting the packs of felhounds around them would never be able to handle this enormous monster! Jace drew his sword and charged without hesitation. The demon was hammering away at the knight rolling back and forth on the ground. After a few blows, it noticed its movements were slowing. It raised its hammer, aimed at the direction the paladin was dodging, and prepared to deliver a killing blow — when it suddenly felt something strange at its waist.
+Yet the paladin was clearly at a disadvantage. If he died, the soldiers still fighting the packs of felhounds around them would never be able to handle this enormous monster! Jace drew his sword and charged without hesitation. The demon was hammering away at the knight rolling back and forth on the ground. After a few blows, it noticed its movements were slowing. It raised its hammer, aimed at the direction the paladin was dodging, and prepared to deliver a killing blow — when it suddenly felt something strange at its back.
 
-It turned to see a mage behind him, having already driven a glowing blue enchanted blade deep into its lower back. The sword was wrenched back out, bringing with it a spray of sizzling green blood.
+It turned to see a mage behind it, having already driven a glowing blue enchanted blade deep into its lower back. The sword was wrenched back out, bringing with it a spray of sizzling green blood.
 
 The rapid, rhythmic screech of the blade grating against the demon's bones sounded almost like deliberate mockery of its clumsiness.
 
@@ -60,15 +60,15 @@ Goddamn it…
 
 Jace fought even harder to reach the shore. Through the blurred underwater darkness, he could only swim toward the direction where the golden light flickered. But within seconds, the felhounds were already on his tail!
 
-He swung his sword with force and severed a reaching tentacle. Even though Azure Song was razor-sharp and wreathed in arcane fire, cutting those tentacles underwater took considerably more effort.
+He swung his sword with force and severed a reaching tentacle. Even though Azuresong was razor-sharp and wreathed in arcane fire, cutting those tentacles underwater took considerably more effort.
 
-He kicked the head of a felhound charging at him. Then he felt a sharp pain at his waist — the tentacles of the felhound behind him had already pierced his skin. Its gaping maw lunged for his neck. Jace drove his blade into the side of its head at an angle. He wrenched it free, and the felhound immediately writhed in agony beneath the water.
+He kicked the head of a felhound charging at him. Then he felt a sharp pain in his side — the tentacles of the felhound behind him had already pierced his skin. Its gaping maw lunged for his neck. Jace drove his blade into the side of its head at an angle. He wrenched it free, and the felhound immediately writhed in agony beneath the water.
 
 He couldn't spare the time to find its heart and finish it off — he was about to run out of air!
 
 Yet just when he thought he'd broken free of the felhound's pursuit and neared the surface, he saw a burning chain suddenly whip into the water. Wreathed in fel fire that still glowed even underwater, it slithered toward him like a living serpent!
 
-Jace had no choice but to clutch his staff and hold his breath underwater, casting Shield of Shadows. The moment the chain wrapped around him, a blast of energy snuffed out its flames. It trembled and flung to one side, as if robbed of its forward momentum. He swung his sword with all his might and struck it. The gleaming Azure Song sheared it clean in two. The bright-purple arcane fire at the severed cross-section still glittered with star-like sparks even underwater.
+Jace had no choice but to clutch his staff and hold his breath underwater, casting his Shadow Shield. The moment the chain wrapped around him, a blast of energy snuffed out its flames. It trembled and flung to one side, as if robbed of its forward momentum. He swung his sword with all his might and struck it. The gleaming Azuresong sheared it clean in two. The bright-purple arcane fire at the severed cross-section still glittered with star-like sparks even underwater.
 
 Casting spell after spell while forcing his body to maneuver, on top of holding his breath to his absolute limit, made him lose focus — he forgot he was still underwater and involuntarily gulped a breath. Filthy pool water rushed into his nostrils and mouth, nearly drowning him on the spot.
 
@@ -78,15 +78,15 @@ But in that very moment, the demon strode up to meet him and swung its hammer do
 
 Jace hissed and threw himself to the side, darting several steps out of range and causing the demon to hit nothing but air. The demon raised its chain-whip — only to find it was now a foot shorter. In that moment of hesitation, an enraged roar sounded from behind. The paladin had already caught up with his hammer. Another blow, this time squarely on the demon's ribs!
 
-This hammer burst erupted with a flash of golden light that blew apart the fel chains around the demon's torso. Pieces of armor clattered away in a chain. The whole demon was blasted off its feet and slammed to the ground. It was just bracing the earth to push itself up when an arrow wreathed in arcane energy tore through the air and struck its arm. The demon collapsed again, letting out a mad howl as the ground shook.
+The blow erupted in a flash of golden light that blew apart the fel chains around the demon's torso. Pieces of armor clattered away in a chain. The whole demon was blasted off its feet and slammed to the ground. It was just bracing the earth to push itself up when an arrow wreathed in arcane energy tore through the air and struck its arm. The demon collapsed again, letting out a mad howl as the ground shook.
 
 It laughed wildly and tried to stand, growling with its head low: "What does defeating me mean? Your world is already doomed—"
 
 The paladin swung his hammer and smashed it into the demon's face, silencing the mad laughter. The demon's whole body shuddered and it fell back to the ground. The laughter turned into a series of breaths of unknown meaning.
 
-The paladin raised his hammer again, murmuring a prayer he couldn't quite make out. The war hammer glowed with even more dazzling light. He brought it down again, this time squarely on the demon's chest. This time, the demon's body finally went limp. It didn't move again.
+The paladin raised his hammer again, murmuring a prayer Jace couldn't quite make out. The war hammer glowed with even more dazzling light. He brought it down again, this time squarely on the demon's chest. This time, the demon's body finally went limp. It didn't move again.
 
-Jace looked at his clothes — only a few holes burned through the fabric, and his skin was unharmed. That modified warding-mage-armor spell had been remarkably effective. On top of that, he himself wasn't particularly vulnerable to fire, and he'd dodged quickly enough, so he hadn't been badly hurt by the demon's fel fire. This demon was probably a handler — a minor leader who kept a pack of fel hunters, imps, or other lesser demons under its command.
+Jace looked at his clothes — only a few holes burned through the fabric, and his skin was unharmed. That modified warding-mage-armor spell had been remarkably effective. On top of that, he himself wasn't particularly vulnerable to fire, and he'd dodged quickly enough, so he hadn't been badly hurt by the demon's fel fire. This demon was probably a houndmaster — a minor leader who kept a pack of felhounds, imps, or other lesser demons under its command.
 
 "The soldiers who escaped back said a pack of felhounds ambushed the convoy — this thing was most likely the mastermind," Quenton said, walking up to Jace and catching his breath. He smiled. "Light above, you're one hell of a mage… braver than a lot of vanguard fighters I've seen. Why didn't you use some kind of ice magic or something to attack that demon from a distance?"
 
@@ -103,13 +103,3 @@ Jace watched his back. Truth be told, he'd been worried the paladin might have n
 But it was clear that this brawny man was less a devout believer and more a fighter who liked to clean up trash in the Light's name by the most direct means possible. He probably wouldn't pay much attention to what kind of magic the people around him were using.
 
 Thinking this, he let out a small breath of relief.
-
-## Flags
-
-- 碧空之歌 = Azure Song.
-- 莫尔葛 = Mo'arg.
-- 地狱犬 = felhounds; 地狱猎犬 = fel hunters.
-- 虚弱咒 = Curse of Weakness (Jace uses it to weaken the demon — a warlock spell, which he keeps hidden from the paladin).
-- 昆顿 revealed as a paladin of the Order of the Silver Hand (白银之手骑士团).
-- 圣骑士 = paladin; 白银之手 = Silver Hand.
-- 驯犬者 rendered as "handler" — the demon's role as a commander of felhounds and imps.

@@ -1,4 +1,4 @@
-## Chapter 201: Griffin Drool
+## Chapter 201: Gryphon Drool
 
 Jace was starving. He scanned the table, ready to grab whatever looked edible and stuff it down — surely there was something from that roast they'd brought earlier… wolf meat, boar, even bread, anything would do.
 
@@ -16,7 +16,9 @@ Jace had no idea what was wrong with him — he wondered if the poor bastard was
 
 Aerie Peak was enormous. After the Orc Wars, it wouldn't be strange for people to be living up there — probably an emissary from one of the human kingdoms or something.
 
-"Don't listen to his rambling!" Grede cut in from the side. "He doesn't even know what he's saying. Stop dithering, eat, eat — if you don't hurry there won't be anything left…" Jace nodded and was just reaching for the food when a hand like a chunk of stone clamped down on his arm.
+"Don't listen to his rambling!" Grede cut in from the side. "He doesn't even know what he's saying. Stop dithering, eat, eat — if you don't hurry there won't be anything left…"
+
+Jace nodded and was just reaching for the food when a hand like a chunk of stone clamped down on his arm.
 
 He turned to find a dwarf glaring at him with pure venom.
 
@@ -40,7 +42,7 @@ Jace looked down at Grede, who'd poked his head close — the dwarf seemed a lit
 
 What were these Wildhammer drinking, that they got wasted this fast? He glanced at the cups on the table. At some point, a full cup and a half-full cup had appeared right in front of him.
 
-The dwarf in front of him flicked Jace right on the forehead — a proper *thwack* — nearly sending Jace to his grave on the spot. Then he unleashed another torrent of Dwarvish. Grede burped and translated: "He's asking if you've been stealing the griffins' rations."
+The dwarf in front of him flicked Jace right on the forehead — a proper *thwack* — nearly sending Jace to his grave on the spot. Then he unleashed another torrent of Dwarvish. Grede burped and translated: "He's asking if you've been stealing the gryphons' rations."
 
 "How am I supposed to answer that?"
 
@@ -58,13 +60,13 @@ He'd been a little worried the stuff might be too strong, but the inexplicable d
 
 Holy hell — it nearly knocked Jace flat. What *was* this stuff?
 
-Grede watched Jace's miserable face and burst out laughing. He slumped against Jace's leg, pointing at the cup. "Griffin drool…"
+Grede watched Jace's miserable face and burst out laughing. He slumped against Jace's leg, pointing at the cup. "Gryphon drool…"
 
 Hearing those words, Jace swore, leaped to his feet, and shoved Grede to the ground. He bolted all the way to the railing outside the hall and dry-heaved over the hundred-meter cliff — but nothing came up!
 
-"No… no!" Grede shouted. "I mean griffins love this stuff too! They drool when they see it!"
+"No… no!" Grede shouted. "I mean gryphons love this stuff too! They drool when they see it!"
 
-"Bullshit!" Jace yelled. "You think a griffin can still fly after drinking this?!"
+"Bullshit!" Jace yelled. "You think a gryphon can still fly after drinking this?!"
 
 Grede chuckled. "Caught me!"
 
@@ -72,7 +74,7 @@ Jace was completely done. He dry-heaved again.
 
 Still, thinking back on the taste of that cup — it hadn't had the rank stench of animal saliva at all. It really had been an intensely aromatic liquor.
 
-A terrifying thought surfaced: could this be griffin mouth-brew?
+A terrifying thought surfaced: could this be gryphon mouth-brew?
 
 His gaze swept across the Wildhammer city clinging to the cliffside. In the middle of the night, the torchlight all blurred into double visions — and that was from a single sip.
 
@@ -144,22 +146,4 @@ Ha! Hey!
 
 Ha! Hey!
 
-But Hinterlands — this is the nest of griffins and wanderers! We carve mountains, we dig caves, we've got no manners! We eat meat, we drink liquor, we've got tempers! Don't ask why we're speaking Chinese — ask yourself, your imagination's just too good!
-
-## Flags
-
-- **狮鹫的口水** → "Griffin Drool" (狮鹫 = griffin, 口水 = saliva/drool; the chapter's running joke — the liquor is nicknamed "Griffin Drool" / "Griffin's Tears")
-- **狮鹫之泪** → "Griffin's Tears" (Wildhammer local specialty liquor; not in glossary — 之泪 = "tears of")
-- **蛮锤** → Wildhammer (dwarven clan; per glossary)
-- **鹰巢山** → Aerie Peak (Wildhammer stronghold in the Hinterlands; not in glossary)
-- **格瑞德** → Grede (per glossary)
-- **杰斯·塞索** → Jace Sesso (per glossary)
-- **兽人语** → Orcish (per glossary)
-- **矮人语** → Dwarvish (per glossary)
-- **通用语** → Common (per glossary)
-- **辛特兰** → the Hinterlands (per glossary)
-- **卡兹莫丹** → Khaz Modan (per glossary)
-- **脑瓜崩** → forehead flick (a flick to the forehead; not in glossary)
-- **口嚼酒** → mouth-brew / cauim (alcohol fermented by chewing; not in glossary — Jace's horrified guess at the liquor's production method)
-- **辛特兰祝酒歌** → Hinterlands drinking song (parody of a Chinese folk-drinking-song format; the final stanza breaks the fourth wall with a meta-joke about the characters "speaking Chinese")
-
+But Hinterlands — this is the nest of gryphons and wanderers! We carve mountains, we dig caves, we've got no manners! We eat meat, we drink liquor, we've got tempers! Don't ask why we're speaking Chinese — ask yourself, your imagination's just too good!

@@ -42,7 +42,7 @@ Jace gave him a strange look, wondering why he didn't even ask a single question
 
 Hearing that, Jace paused, then said, "Thank you."
 
-According to Marin, he'd spent a long time here with the Quel'Thalas botanists while receiving treatment, so it was quite possible that quite a few of the elves here recognized him.
+According to Malin, he'd spent a long time here with the Quel'Thalas botanists while receiving treatment, so it was quite possible that quite a few of the elves here recognized him.
 
 Jace followed the guard's directions toward the small building. The whole Quel'Thalas compound was full of elves, which made him feel a bit uncomfortable. But the elves didn't seem to mind a human walking around here at all.
 
@@ -54,7 +54,7 @@ Hearing the door, the elf turned around and saw Jace, her long eyebrows rising i
 
 "At least I could make it here," Jace said. He glanced at the potion bottle Vereesa was holding. "What is this?"
 
-"A potion brewed from blackmouth oil and thorn algae. It sobers you up," Vereesa said. "I shouldn't have drunk like that last night, but that dwarf was far too cocky. Though, to be fair, he did have the capital to be cocky."
+"A potion brewed from Blackmouth Oil and Stranglekelp. It sobers you up," Vereesa said. "I shouldn't have drunk like that last night, but that dwarf was far too cocky. Though, to be fair, he'd earned the right to be cocky."
 
 Jace said, "Honestly, he was about at his limit too. If you'd held on a little longer, he probably would've been done for."
 

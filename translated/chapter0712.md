@@ -1,6 +1,6 @@
 ## Chapter 712: The Shapeshifting Demon
 
-As he squeezed through the crowd, Jace carefully tucked the sword at his waist further under his cloak.
+As he squeezed through the crowd, Jace carefully tucked the sword at his hip further under his cloak.
 
 That morning he'd still been in Quel'Thalas, bathing in the radiance of the Sunwell, walking through spotless forests along neat and pretty stone paths lit by arcane lamps. By evening he'd stepped into this dark, damp cellar of a place where even the light from candles and braziers couldn't cut through properly — like crossing from one dream into another.
 
@@ -24,11 +24,11 @@ Jace said it offhandedly, but inwardly he was a little pleased. He hadn't expect
 
 "Goldshire." The waitress thought for a moment. "Judging by the name, it's the kind of place that raises rich men, sir."
 
-The waitress headed to the kitchen. Jace swept the whole tavern with Detect Demon and suddenly noticed a shadow in the far corner of the room. A demon?
+The waitress headed to the kitchen. Jace swept the whole tavern with Sense Demons and suddenly noticed a shadow in the far corner of the room. A demon?
 
 The shadow's power was quite dim, but it wasn't an imp — an imp hiding with Phase Shift produced a much fainter trace than this. This was most likely a succubus lying low.
 
-He pulled back the Detect Demon vision and looked over again… and the shadow turned out to be a human girl. Black-haired, quite beautiful, even carrying herself with something of an elf's allure.
+He pulled back the Sense Demons vision and looked over again… and the shadow turned out to be a human girl. Black-haired, quite beautiful, even carrying herself with something of an elf's allure.
 
 She sat there smiling at a dwarf beside her, feeding little nuts from a plate into the dwarf's mouth while he chatted with a couple of tall fellows on his other side, laughing as he ate the nuts the girl fed him. He looked perfectly content.
 
@@ -42,13 +42,13 @@ Just then the waitress brought over a plate of boiled bean soup. Jace picked it 
 
 Making sure no one was watching, he took a single bean and dropped it into his pack. He felt Sazeno's unsettling demon-skin fingers brush his own as the imp snatched the bean inside.
 
-"I want a Soul Shard, master! What good is a bean?" the imp whispered.
+"I want a soul shard, master! What good is a bean?" the imp whispered.
 
-"Can Shivarra shapeshift?" Jace asked in Demonic.
+"Can sayaad shapeshift?" Jace asked in Demonic.
 
-"By all rights, yes," the imp said, taking a bite of the bean and answering in Demonic as well. "Why didn't Morfiel tell you?" Jace asked.
+"By all rights, yes," the imp said, taking a bite of the bean and answering in Demonic as well. "Why didn't Morophil tell you?" Jace asked.
 
-The imp said quietly, "Because that idiot can't. She's a special Shivarra — and I mean specially stupid. Besides hunting demons and messing with minds, she's not much good at anything else. If we had one who was good at shapeshifting, master, you wouldn't have to pine day and night for Lady Vereesa Windrunner."
+The imp said quietly, "Because that idiot can't. She's a special sayaad — and I mean specially stupid. Besides hunting demons and messing with minds, she's not much good at anything else. If we had one who was good at shapeshifting, master, you wouldn't have to pine day and night for Lady Vereesa Windrunner."
 
 "Quit the nonsense," Jace whispered, eyes locked on the dwarf and the girl. "I suspect there's a demon in this tavern right now disguised as a human. How do I confirm she's a demon and not an actual person?"
 
@@ -56,13 +56,13 @@ The imp said quietly, "Because that idiot can't. She's a special Shivarra — an
 
 Jace looked at the human girl. If she really was a demon, the transformation was flawless.
 
-But considering that satyr he'd run into at Ursula's — after turning into a half-elf, you couldn't tell him apart from the real thing without Detect Demon.
+But considering that satyr he'd run into at Ursula's — after turning into a half-elf, you couldn't tell him apart from the real thing without Sense Demons.
 
-Then again, Shivarra had their own distinctive traits. Things satyrs didn't have.
+Then again, sayaad had their own distinctive traits. Things satyrs didn't have.
 
 Jace gulped down the whole bowl of bean soup, set the empty plate on the counter, and nearly choked on the dense mass of beans.
 
-After he'd chewed and swallowed the last of it, he pushed through the crowd toward the dwarf and the young woman. As he drew closer to their table, cutting through the smell of ale and rotting wood, he caught a scent he was acutely sensitive to — the "fragrance" of a Shivarra.
+After he'd chewed and swallowed the last of it, he pushed through the crowd toward the dwarf and the young woman. As he drew closer to their table, cutting through the smell of ale and rotting wood, he caught a scent he was acutely sensitive to — the "fragrance" of a sayaad.
 
 At that point, he was almost certain.
 
@@ -78,9 +78,9 @@ Just then the "girl" sitting there seemed to sense Jace approaching. She whisper
 
 The young woman stared at Jace and smiled. Jace smiled back — and then her expression froze.
 
-Jace knew that feeling. When you cast your magic at a target that simply wouldn't budge, it was like throwing a flailing punch straight at a stone wall with your bare, soft fist. What the succubus was feeling right now must be close to what he'd experienced trying to Counterspell a spell from Master Marin. No wonder she'd been scared stiff.
+Jace knew that feeling. When you cast your magic at a target that simply wouldn't budge, it was like throwing a flailing punch straight at a stone wall with your bare, soft fist. What the succubus was feeling right now must be close to what he'd experienced trying to Counterspell a spell from Master Malin. No wonder she'd been scared stiff.
 
-Still, Jace had to admire the succaudus's audacity — bold enough to wield demonic power right in the middle of a crowd. But the strength of the spell really was nowhere near Morfiel's.
+Still, Jace had to admire the succubus's audacity — bold enough to wield demonic power right in the middle of a crowd. But the strength of the spell really was nowhere near Morophil's.
 
 Do you have any idea who you're dealing with, demon?
 
@@ -90,7 +90,7 @@ The young woman started and reached for the table knife, but Jace — moving fas
 
 Jace simply flipped the table toward them. In an instant, the entire hall was aware of the commotion.
 
-After dealing with orcs, whelps, demons, and all manner of messy creatures, handling ordinary folk like these almost felt like bullying.
+After dealing with orcs, drakes, demons, and all manner of messy creatures, handling ordinary folk like these almost felt like bullying.
 
 Not only were they younger than him, but judging by the look of them, their usual exercise and bare-knuckle brawling experience probably didn't measure up to his own years of manual labor scraping by in Stormwind, not to mention… the dragon blood.
 
@@ -104,7 +104,7 @@ She gasped, her voice taking on a weeping tone. There was still the taint of Sha
 
 Jace seized her arm, raised the table knife, and said, "You're not dying for good anyway — you're just getting booted back to the Twisting Nether. No need to be so dramatic."
 
-The woman's tear-streaked face suddenly went blank. One of his hands shot toward Jace's face at a speed barely within human capability.
+The woman's tear-streaked face suddenly went blank. One of her hands shot toward Jace's face at a speed barely within human capability.
 
 Jace jerked his head back and dodged the claw. The woman used the moment of looseness to try to wrench free of Jace's grip, but Jace caught her by the ankle and yanked backward, sending her crashing to the ground with a thud.
 
@@ -124,7 +124,7 @@ A patron who had shoved the table aside lunged at Jace now but was casually knoc
 
 He scrambled and rolled away from the Shadow energy. As the mist dispersed, the woman's true form was revealed — solid muscular build, a handsome face twisted in pain, and between his legs, that certain…
 
-Goddamn it, it was actually a male succubus!
+Goddamn it, it was actually an incubus!
 
 With the demon's death, every enthrallment effect dissipated instantly. The tavern erupted into chaos — crying and screaming, countless people yelling "There's a demon!" and "Run!" as they fled in every direction, some rushing upstairs, some squeezing toward the door…
 
@@ -132,11 +132,11 @@ Jace grabbed hold of the dwarf, who was trying to escape. The dwarf turned back,
 
 He didn't seem to be lying, and appeared to have just woken from the enthrallment spell. Jace let go and shoved him aside. The dwarf immediately scrambled to his feet, knocked aside a few tables, and bolted out the door.
 
-Jace pulled from his coat the bottle of purification potion that Ursula had given him and poured it over the succubus's corpse, then tossed the bottle aside and left the tavern as well.
+Jace pulled from his coat the bottle of purification potion that Ursula had given him and poured it over the demon's corpse, then tossed the bottle aside and left the tavern as well.
 
 Out on the street, Jace was a little confused — why had that dwarf taken him for a paladin?
 
-He wasn't carrying any weapon made for battle. Even if he'd brought the Song of the Blue Sky, he hadn't drawn it — it stayed hidden under his cloak. He wasn't wearing anything associated with the Silver Hand or the Church, and forget about summoning the Holy Light — a Shadow creature like him calling down the Light from the heavens would be like zapping himself.
+He wasn't carrying any weapon made for battle. Even if he'd brought Azuresong, he hadn't drawn it — it stayed hidden under his cloak. He wasn't wearing anything associated with the Silver Hand or the Church, and forget about summoning the Holy Light — a Shadow creature like him calling down the Light from the heavens would be like zapping himself.
 
 Then he saw his own reflection in a puddle by the road, and he understood.
 
@@ -152,13 +152,13 @@ In the distance came the sound of soldiers' boots squelching through muddy groun
 
 He returned to the eastern side of Andorhal. The demon incident that had erupted on the west side didn't seem to have reached this district yet.
 
-He went back to the small inn, grabbed his clothes and pack without hesitation, and headed toward the bridge. Though there were far fewer people on the street in the middle of the night, a mounted patrolman galloping through the break in the silence.
+He went back to the small inn, grabbed his clothes and pack without hesitation, and headed toward the bridge. Though there were far fewer people on the street in the middle of the night, a mounted patrolman galloped through, breaking the silence.
 
 He crossed the bridge and entered the deep pine forest. From Andorhal he could hear the clear ringing of bells in the night — but by then he was already far away.
 
 He hadn't meant to leave the Kingdom of Lordaeron with this much trouble on his way out. He'd been hoping to handle things more discreetly.
 
-But perhaps this was for the best. The Kirin Tor would certainly take notice of the demon's corpse soon enough, and the Eastern Plaguelands would tighten its guard against warlocks and demon summoning even further — which would make it harder for Dar'Khan to summon a doomguard.
+But perhaps this was for the best. The Kirin Tor would certainly take notice of the demon's corpse soon enough, and the Eastweald would tighten its guard against warlocks and demon summoning even further — which would make it harder for Dar'Khan to summon a doomguard.
 
 At the same time, it fulfilled Ursula's commission. When the Dark Iron warlock felt that the demon he'd contracted with had been killed and rushed here, he'd see the purification potion on the corpse and understand everything.
 
@@ -166,7 +166,7 @@ And if he bothered to ask the tavernkeeper or the waitress who had killed that d
 
 He pushed through the forest, and by the time dawn broke, a broad lake suddenly opened up before him.
 
-On a large island far out on the lake stood a stretch of grey wall, and behind the wall, a fortress that reminded Jace of Fenris Keep on Lake Lordamere.
+On a large island far out on the lake stood a stretch of grey wall, and behind the wall, a fortress that reminded Jace of Fenris Keep on Lordamere Lake.
 
 That was Caer Darrow. In the days to come, it would be known to every survivor of the Kingdom of Lordaeron, and to the people of Khaz Modan and the Kingdom of Stormwind, by a far more fearsome name — the Scholomance of the Scourge.
 

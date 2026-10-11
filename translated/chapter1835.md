@@ -14,11 +14,11 @@ The dark figure coughed a couple of times, touched the wound on his belly, and s
 
 When he looked up, the lightning flashing through the clouds lit up his features — fangs protruding past his lips, skin the color of stone and dark, near-black green.
 
-He raised the wicked blade and let out a relaxed chuckle. It was hard to tell, between him and the fallen legion vanguard in the horned helmet, which was the real demon.
+He raised the wicked blade and let out a relaxed chuckle. It was hard to tell, between him and the fallen Legion vanguard in the horned helmet, which was the real demon.
 
 The orc's laugh stopped short. He sensed he wasn't the only one in the forest besides the dead demon.
 
-Sure enough, a group of Lordaeron soldiers in chainmail, armed with crossbows, round shields, and swords, emerged from the trees and surrounded him. Among them was a human noble in a silver hand tabard, carrying a warhammer.
+Sure enough, a group of Lordaeron soldiers in chainmail, armed with crossbows, round shields, and swords, emerged from the trees and surrounded him. Among them was a human noble in a Silver Hand tabard, carrying a warhammer.
 
 The human had black hair and a stern expression. The orc looked around warily at the group and said, in fairly fluent Common, "Are you planning to avenge the demon?"
 
@@ -34,7 +34,7 @@ The paladin's brow furrowed. Then he raised his hand and shouted, "Lower your cr
 
 Just then, several shadows swept through the canopy overhead. The orc and the surrounding soldiers looked up to see a squad of gryphon riders passing overhead, disappearing into the distance.
 
-"We're about to reach the shores of Lake Lordamere, High Thane Grede Thunderfist. Let me repeat—"
+"We're about to reach the shores of Lordamere Lake, High King Grede Thunderfist. Let me repeat—"
 
 High above, beneath the thick clouds, a magister riding a gryphon clutched at his fluttering ornate pauldrons and shouted, "—the precautions for dropping the arcane bombs!"
 
@@ -44,19 +44,19 @@ High above, beneath the thick clouds, a magister riding a gryphon clutched at hi
 
 "I thought our target was the portal itself!" Grede bellowed.
 
-"We left in too much of a hurry. You still don't understand the Kirin Tor's intentions, High Thane!" The elven magister yelled. "Right now we're support. The arcane bombs are meant to put pressure on the portal, coordinating with the Kirin Tor!"
+"We left in too much of a hurry. You still don't understand the Kirin Tor's intentions, High King!" The elven magister yelled. "Right now we're support. The arcane bombs are meant to put pressure on the portal, coordinating with the Kirin Tor!"
 
-"They're fully prepared to use the ley line network on Lake Lordamere to counter-bite the portal!"
+"They're fully prepared to use the ley line network on Lordamere Lake to strike back at the portal!"
 
-"This time they've brought out Atiesh — the Guardian's staff. Khadgar himself will be wielding it in the ritual. Let's hope it makes a difference this time. The portal's power grows more complete every day, and correspondingly, magical energy across all of Lordaeren is weakening. Once it reaches its peak, even Quel'Thalas, thousands of miles away, could be affected."
+"This time they've brought out Atiesh — the Guardian's staff. Khadgar himself will be wielding it in the ritual. Let's hope it makes a difference this time. The portal's power grows more complete every day, and correspondingly, magical energy across all of Lordaeron is weakening. Once it reaches its peak, even Quel'Thalas, thousands of miles away, could be affected."
 
 "Wait — did you just say the name Khadgar?" Grede shouted. "Or is the wind and thunder messing with my ears?"
 
-"You heard right, High Thane!" A gryphon rider nearby roared. "He said Archmage Khadgar!"
+"You heard right, High King!" A gryphon rider nearby roared. "He said Archmage Khadgar!"
 
 "What about Jace Sesso?" Grede whipped his head toward the magister and bellowed, "Did Jace Sesso make it back to Dalaran?!"
 
-"I don't know, High Thane." The magister shouted. "The messenger knights didn't mention Master Sesso's whereabouts."
+"I don't know, High King." The magister shouted. "The messenger knights didn't mention Master Sesso's whereabouts."
 
 "Damn it!" Grede gritted his teeth, then looked at the gryphon rider beside him. "Jace Sesso's fine, right? He's always been lucky — way luckier than Khadgar! And if things got really hairy, he'd drain that mage dry with dark magic before saving his own hide. If Khadgar's alive, that means..."
 
@@ -66,7 +66,7 @@ A sudden explosion of fire on the distant lake drew everyone's attention. A wars
 
 Grede recognized those ships. They were Kul Tiran warships that had been docked at Dalaran. Along with several large Lordaeron warships, they'd survived the terrifying shockwave when the portal first appeared and had joined the fight immediately. They'd been holding the line ever since.
 
-The flames grew brighter, illuminating the silhouettes of nearby ships. Above the firelight, winged demon shadows darted through the glow — probably the ones who attacked the ships. A group of doomguards or fear guards.
+The flames grew brighter, illuminating the silhouettes of nearby ships. Above the firelight, winged demon shadows darted through the glow — probably the ones who attacked the ships. A group of doomguards or terrorguards.
 
 The gryphon riders cursed loudly. But they weren't the only ones who'd noticed the warships' distress. Soon, larger shadows emerged from higher clouds, flying toward the scene.
 
@@ -74,9 +74,9 @@ Those dragons swooped down wreathed in flame. Some circled above the warships; o
 
 If you didn't know what was happening, you might think the Kul Tirans were fighting off fire-breathing dragons... just like over a decade ago.
 
-Back then, the red dragonflight and the Kul Tiran navy had clashed on Baradin Bay to the south. Orcs and humans had been slaughtering each other on the Hillsbrad foothills. The Church and the Kirin Tor had viewed warlocks who dabbled in demon magic as the greatest potential threat after the war.
+Back then, the Red Dragonflight and the Kul Tiran navy had clashed on Baradin Bay to the south. Orcs and humans had been slaughtering each other on the Hillsbrad foothills. The Church and the Kirin Tor had viewed warlocks who dabbled in demon magic as the greatest potential threat after the war.
 
-And today, all those former enemies and rivals were forced to stand together — because that terrifying portal had landed in the heart of the Lordaeron Alliance.
+And today, all those former enemies and rivals were forced to stand together — because that terrifying portal had landed in the heart of the Alliance of Lordaeron.
 
 "Those dragons will support them, lads!" He roared. "Stay focused! Keep your eyes on our job! Once that portal's gone, every last demon goes back to the Twisting Nether! For Khaz Modan! For Grim Batol!"
 
@@ -90,7 +90,7 @@ He turned his gaze back toward the center of the lake, to that indistinct ring o
 
 Maybe not knowing where Jace Sesso was — whether he was alive or dead — was actually a good thing, the dwarf mused silently.
 
-Heading for the Legion portal to carry out the bombing run in coordination with the Kirin Tor was undoubtedly the most important task right now. Top priority. It affected the lives of tens of thousands along Lake Lordamere and across the entire continent.
+Heading for the Legion portal to carry out the bombing run in coordination with the Kirin Tor was undoubtedly the most important task right now. Top priority. It affected the lives of tens of thousands along Lordamere Lake and across the entire continent.
 
 But if he knew where Jace Sesso was, and if that bastard were at death's door... Grede honestly wasn't sure what he'd decide.
 

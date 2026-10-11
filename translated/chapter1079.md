@@ -10,7 +10,7 @@ After all, ever since meeting Sylia, she'd been carrying the worst possible expe
 
 Most importantly, not only had the whole group made it out of that temple alive, but aside from Jace, none of them had suffered any serious injuries. After leaving the temple, with a bit of healing from green dragon magic, Jace had visibly recovered quite a bit too.
 
-Sola herself had also proven in front of the seal of Eranikus's vault that she'd at least freed herself physically from the Nightmare's entanglements — she could finally set a stone down in her heart.
+Sola herself had also proven in front of the seal of Eranikus's vault that she'd at least freed herself physically from the Nightmare's entanglements — a weight was finally off her mind.
 
 Stormwind seemed a fair bit livelier than when Jace's group had left. The streets of the Trade District were buzzing with noise.
 
@@ -22,7 +22,7 @@ Still, this Atal'Hakkar trip of theirs had also been a few weeks long. It's just
 
 Of course, a big crowd could never be a bad thing. When the group arrived at the small plaza in the center of the Trade District, Grede looked at the coming-and-going crowds around them, plus a group of cavalry riding past on horseback, and said, "Really lively. Let's have dinner at the Pig and Whistle tonight — a proper celebration. Everyone's got to be there."
 
-"We just had a dinner gathering at the Sailor's Home a few days ago, remember? And you ate plenty," Vereesa said.
+"We just had a dinner gathering at the Salty Sailor Tavern a few days ago, remember? And you ate plenty," Vereesa said.
 
 "Don't remind me." Grede glared. "I got into a fight with a bunch of pirates in that place. Booty Bay… nothing but scoundrels, swindlers, and mercenaries who only care about money and don't give a damn about people — what's there to celebrate in a place like that? And the food wasn't to my taste either. Didn't feel a bit like coming home — completely unsatisfying! We're doing the Pig and Whistle, no question."
 
@@ -38,35 +38,37 @@ When the air went completely still, the faintest trace of noisy voices drifting 
 
 Even though his injuries had left him somewhat drowsy at the moment, the sun was already not far from setting. If they were having dinner tonight, he didn't have time to take a nap first — he had to set out right now for the Pig and Whistle on the other side of the city. After all, even running, it took the better part of an hour to cross all of Stormwind.
 
-Just as he'd changed clothes and arrived at the door, Morfil said with a wounded air, "Not planning to bring me along? Don't know when I'll get another chance to eat out and stroll around Stormwind with you, darling."
+Just as he'd changed clothes and arrived at the door, Morophil said with a wounded air, "Not planning to bring me along? Don't know when I'll get another chance to eat out and stroll around Stormwind with you, darling."
 
-Jace just chuckled at her — every time he went out, Morfil would habitually say something nauseating like this, and of course he was used to it.
+Jace just chuckled at her — every time he went out, Morophil would habitually say something nauseating like this, and of course he was used to it.
 
 But this time, just as he grabbed the door handle, he actually hesitated.
 
-Deep in the temple, Morfil had helped him take the Hakkar spawn's venom spray, Hakkar's avatar's tail-sweep… the painful look on that demon's face as she leaned against the wall after sharing the damage was still burned clearly into his memory.
+Deep in the temple, Morophil had helped him take the Son of Hakkar's venom spray, Hakkar's avatar's tail-sweep… the painful look on that demon's face as she leaned against the wall after sharing the damage was still burned clearly into his memory.
 
 "Come with me," he turned back and said.
 
-Even Morfil raised her head in surprise this time. "Are you serious?"
+Even Morophil raised her head in surprise this time. "Are you serious?"
 
 "Dead serious." Jace beckoned. "Quick, or it'll be dark."
 
 "Forget it." The succubus chuckled. "I don't want to lurk invisible behind you watching you eat all the time — at least I already ate with you all at Booty Bay, didn't I?"
 
-"Put on my other cloak — the hood's wide enough to cover your horns." Jace pointed to the bundle under the table. "There are lots of hooded elves in the city right now, and most mages and priests generally don't patronize the Pig and Whistle Inn — you'll be fine."
+"Put on my other cloak — the hood's wide enough to cover your horns." Jace pointed to the bundle under the table. "There are lots of hooded elves in the city right now, and most mages and priests generally don't patronize the Pig and Whistle Tavern — you'll be fine."
 
 "If you say so."
 
-Morfil wrapped herself in the cloak with lightning speed and pulled the hood down to cover the wicked curled horns on her head, revealing only the lower half of her face.
+Morophil wrapped herself in the cloak with lightning speed and pulled the hood down to cover the wicked curled horns on her head, revealing only the lower half of her face.
 
-Have to say, at her current height, she really did look like an over-red-skinned High Elf — as long as she didn't fully reveal those flame-glowing tattoos on her neck.
+It had to be said, at her current height, she really did look like an over-red-skinned high elf — as long as she didn't fully reveal those flame-glowing tattoos on her neck.
 
-Thank the weird stars this succubus had lost her wings, or pulling this off really wouldn't have been possible.
+Thank the stars this succubus had lost her wings, or pulling this off really wouldn't have been possible.
 
-"Before we reach Old Town — especially crossing the Trade District — you'd better stay invisible for me," Jace reminded her. "Understood, master." Morfil grabbed her hood and sank into the shadows in an instant.
+"Before we reach Old Town — especially crossing the Trade District — you'd better stay invisible for me," Jace reminded her.
 
-Jace picked up the demon bag containing Sazeno, his gaze following Morfil's shadow slipping out of the room to the outside, and locked the door.
+"Understood, master." Morophil grabbed her hood and sank into the shadows in an instant.
+
+Jace picked up the demon bag containing Sazeno, his gaze following Morophil's shadow slipping out of the room to the outside, and locked the door.
 
 The Pig and Whistle at night was, unsurprisingly, extremely lively. By the time Jace arrived, it was already completely dark, and the place had become packed — people pressed shoulder to shoulder, every step feeling like it might land on someone's boot.
 
@@ -76,7 +78,7 @@ After squeezing his way over to them, Grede cleared his throat. "I thought you'd
 
 "This round trip's been plenty exhausting," Jace said. "Otherwise how could I be late?" He looked around, then said, "We'll need to add a chair."
 
-"Huh?" Grede was a little confused, but still pulled out a chair he'd been using as a footrest from under the table. The moment he set it down, Morfil materialized from the crowd and sat squarely in it.
+"Huh?" Grede was a little confused, but still pulled out a chair he'd been using as a footrest from under the table. The moment he set it down, Morophil materialized from the crowd and sat squarely in it.
 
 Grede jumped. Sola and Vereesa also changed expressions at once, carefully observing the coming-and-going crowd around them, and only relaxed a little after confirming no one had been attracted by this suddenly-appearing cloaked otherworldly creature.
 
@@ -84,7 +86,7 @@ Grede jumped. Sola and Vereesa also changed expressions at once, carefully obser
 
 "Of course I brought it." Jace patted the bag. "But it's a bit shy."
 
-"Looks like we're not exactly welcome…" Morfil said softly.
+"Looks like we're not exactly welcome…" Morophil said softly.
 
 "Shh." Grede stared at the demon. "Nobody's being unwelcoming to you, but you'd best keep your mouth shut."
 
@@ -104,18 +106,18 @@ The succubus raised her eyebrows, nodded, and made a motion of sealing her lips 
 
 "What, what?" Jace was taken aback.
 
-Morfil leaned in. "Are you sure about that? The warlocks in Moonbrook and the Lighthouse have already been arrested by the Wizard Sanctum's mages. What you're saying would mean…"
+Morophil leaned in. "Are you sure about that? The warlocks in Moonbrook and the Lighthouse have already been arrested by the Wizard's Sanctum's mages. What you're saying would mean…"
 
 As she spoke, the succubus looked over here. Jace knew she meant the Slaughtered Lamb.
 
 "Really?" Grede scratched his beard. "But that's what they're all saying."
 
-"Don't worry, Jace — this is just the public story," Vereesa said. "The actual situation is that a group of nobles cooperated with Onyxia and Katrana Prestor to kidnap the queen, and this involved dark magic… so at once it's hard to determine whether the nobles betrayed the kingdom of their own accord or were under mental control. The temporary public line is that the warlocks at the Lighthouse were behind it. This is what I heard from the Quel'Thalas ambassadors."
+"Don't worry, Jace — this is just the public story," Vereesa said. "The actual situation is that a group of nobles cooperated with Onyxia and Katrana Prestor to kidnap the queen, and this involved dark magic… so for the moment it's hard to determine whether the nobles betrayed the kingdom of their own accord or were under mental control. The temporary public line is that the warlocks at the Lighthouse were behind it. This is what I heard from the Quel'Thalas ambassadors."
 
 Hearing Vereesa say this, Jace relaxed a little for the moment. "Then I'll go ask the king tomorrow."
 
-"The king's looking for you too, Jace." Vereesa leaned over. "Word is he's planning to hold a banquet celebrating the queen's safe return after you get back — though there are already quite a few spontaneous celebration activities in the city. Right now everyone thinks you went off tracking the black dragon's trail."
+"The king's looking for you too, Jace." Vereesa leaned over. "Word is he's planning to hold a banquet celebrating the queen's safe return after you get back — though there are already quite a few spontaneous celebrations in the city. Right now everyone thinks you went off tracking the black dragon's trail."
 
-"Actually went to help me out. Sorry," Sola said softly.
+"When actually you went to help me. Sorry," Sola said softly.
 
-"Don't worry about it, Sola," Jace said. "Facts prove the trouble on your side was no small matter either."
+"Don't worry about it, Sola," Jace said. "As it turned out, the trouble on your side was no small matter either."

@@ -24,7 +24,7 @@ The group nodded and chanted together: "Three, two, one — push!"
 
 Everyone threw their weight into it. The stone gate surged open with a boom, dust showering down. Jace closed his eyes, gritted his teeth, and pushed forward a few steps, finally forcing open a gap wide enough for one person to pass through.
 
-Grede immediately drew his warhammer and aimed it at the gap. Jace also took a step back and gripped the sword hilt at his waist. They waited a moment at the doorway, then peered inside. There was nothing but a long, deep tunnel, lit by arcane light of unknown origin — bright for a stretch, then dark, stretching all the way to a bend they couldn't see.
+Grede immediately drew his warhammer and aimed it at the gap. Jace also took a step back and gripped the sword hilt at his hip. They waited a moment at the doorway, then peered inside. There was nothing but a long, deep tunnel, lit by arcane light of unknown origin — bright for a stretch, then dark, stretching all the way to a bend they couldn't see.
 
 Jace caught a thick, pungent demon stench almost immediately. He tried sweeping the area with Sense Demons — at least there were no demons in the corridor right in front of them.
 
@@ -70,23 +70,23 @@ By now Jace had finished chanting. A massive felhound crawled out of the shadowy
 
 Before the felhound had fully materialized from the void, Jace had already finished naming it in the Annihilan tongue. So the hound obediently came to Jace's side the moment it landed, showing no aggression. The three tentacles sprouting from its head sniffed and probed everyone present.
 
-"Dazarmu," Jace let out a breath. "Our new friend."
+"Dazarm," Jace let out a breath. "Our new friend."
 
 When the felhound sniffed its way to Mosa, her eyes went wide and she said something in the tauren tongue that sounded like pure, meaningless cursing, shoving the felhound hard away from her.
 
-Jace said in demonic, "Keep away from the tall one."
+Jace said in Demonic, "Keep away from the tall one."
 
 The felhound let out a low growl in response and immediately ran over to Grede's side.
 
 "I remember the last felhound had a pretty similar name. So is it the same one?" Grede said, dodging the demon hound as it approached.
 
-"No, just the same name. Naming things is hard, Grede — especially in a demonic language," Jace explained.
+"No, just the same name. Naming things is hard, Grede — especially in a Demonic language," Jace explained.
 
 Even though he knew the felhound was Jace's minion — and considerably more obedient than the succubus — Vereesa still couldn't fully relax watching this demon.
 
 No matter how powerful a mage you were, it was hard to keep your composure around a felhound, let alone these children nurtured on arcane energy.
 
-To deal with any demon spellcasters they might encounter, Jace carefully cast a Protection from Evil and a Mage Armor. The brilliant glow dimmed as the incantation completed, and then he cast an Arcane Intellect on both himself and Mosa.
+To deal with any demon spellcasters they might encounter, Jace carefully cast Tenebrous's Warding Against Evil, his modified Mage Armor. The brilliant glow dimmed as the incantation completed, and then he cast an Arcane Intellect on both himself and Mosa.
 
 "I need an Arcane Intellect too, mage Jace," Vereesa said.
 
@@ -96,7 +96,7 @@ Even if its effect couldn't match a mana potion brewed by Ursula, at least it wa
 
 The corridor was deep and long. Jace wasn't sure if it was because they were being especially cautious, but it felt a lot longer than the passage in the game.
 
-The corridor curved and climbed higher as they went. Braziers along the sides burned with shadowfire, and after a while the dark fumes they gave off made everyone in the passage feel rather uncomfortable.
+The corridor curved and climbed higher as they went. Braziers along the sides burned with Shadowflame, and after a while the dark fumes they gave off made everyone in the passage feel rather uncomfortable.
 
 Rounding a bend, Jace caught a scraping, scuffling sound from a side passage.
 
@@ -122,7 +122,7 @@ Jace went over and saw him pointing at something dark on the ground ahead, like 
 
 The group took a look. Only when they got close did they realize it was the dried-out, hardened, curled-up corpse of a succubus.
 
-The felhound Dazarmu paid the corpse not the slightest attention, not even showing the least desire to go sniff it. It seemed thoroughly impatient at being led into this corridor, only wanting to press on in the direction they'd originally been heading — because the magical energy was stronger over there, more attractive to a felhound.
+The felhound Dazarm paid the corpse not the slightest attention, not even showing the least desire to go sniff it. It seemed thoroughly impatient at being led into this corridor, only wanting to press on in the direction they'd originally been heading — because the magical energy was stronger over there, more attractive to a felhound.
 
 "This sayaad has been completely drained. Not a trace of mana left," Morophil said.
 
@@ -143,16 +143,3 @@ Jace carefully examined this side and found that the demon's corpse had no wound
 The moment Jace said it, the succubus noticed it too.
 
 "So this was drained by another demon, using magic," she said.
-
-## Flags
-
-- **Dazarmu**: 达扎尔姆 — the name Jace gives the summoned felhound (Annihilan tongue); Grede notes it's the same name as a previous one.
-- **Annihilan tongue**: 安尼赫兰语 — the demonic language Jace uses to name the felhound at summoning.
-- **Protection from Evil / Mage Armor / Arcane Intellect**: Canonical mage spells (防护邪恶 / 法师护甲 / 奥术智慧) — Jace buffs the group before advancing.
-- **Kingsblood broth**: 皇血草熬汤 — a mana-restoring brew the tauren prepared; Jace compares it to Ursula's potions (厄苏拉 = Ursula, the alchemist).
-- **Karazhan**: Canonical location (卡拉赞) — Grede and Jace previously scouted its outskirts for loot.
-- **Dark Portal**: Canonical gateway (黑暗之门) — referenced as the time marker for when Vereesa was stationed on the Amani border.
-- **Sayaad**: 萨亚德 — the drained succubus corpse; Morophil notes it was magically drained, not killed by felhound tentacles (no puncture wounds).
-- **Demon heart**: 魔心 — Vereesa's arrow pierces the felhound's heart; a felhound's mana drain would leave puncture wounds, which the sayaad corpse lacks.
-- **Reliquary**: 遗物学会 — Vereesa notes their interest in Karazhan.
-- **POV**: Third person throughout.

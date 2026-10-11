@@ -18,7 +18,7 @@ At that moment, Grede shielded his eyes from the sun and muttered, "Is that Tol 
 
 "Tol Barad?" Jace blinked.
 
-Tol Barad was an ancient fortress island. A thousand years ago, humans had built strongholds and walls on that island — back during the days of the Arathi Empire.
+Tol Barad was an ancient fortress island. A thousand years ago, humans had built strongholds and walls on that island — back during the days of the Arathorian Empire.
 
 But Jace remembered the game's map. Tol Barad's position seemed to be off the Gilneas peninsula. If you were flying from Southshore toward Menethil, you should be heading in the exact opposite direction. Why had they run straight into it?
 
@@ -32,11 +32,11 @@ Seeing that Jace seemed a bit lost, the dwarf immediately said, "You don't even 
 
 "Still, Sola, you should fly a bit more to the west. You've drifted off course a little," he reminded her. "If you keep going like this, you'll end up in Dun Modr, not Menethil Harbor."
 
-"Got it, Grede. Will there be human soldiers on that island who might want to attack me?" Solamiel asked.
+"Got it, Grede. Will there be human soldiers on that island who might want to attack me?" Somaelir asked.
 
 "The Arathi abandoned this place long ago," Grede said. "There shouldn't be any orcs left either — most of the orcs here fled to Grim Batol. I think by now it's just a deserted, uninhabited island. Even if there are people up there, there won't be any proper army — at least not one that could take on a young dragon like you."
 
-"All right." Solamiel adjusted her course slightly, and the island shifted from head-on to slowly drifting past on the left side of their vision.
+"All right." Somaelir adjusted her course slightly, and the island shifted from head-on to slowly drifting past on the left side of their vision.
 
 As they swept past the island at close range, Jace could make out the black walls with collapsed gaps, the vast fields of damaged and abandoned siege engines, and the faint outlines of tattered red banners — all of them Horde war flags, too hastily abandoned to be cleared away.
 
@@ -46,23 +46,23 @@ Grede was right. As a fortress, this island could provide mutual support with th
 
 If the island had been where it was in the game — further west, past Gilneas — it wouldn't have served this strategic purpose at all.
 
-As Solamiel flew past the island and Jace looked back at its far side, he saw a blurry green banner standing atop the walls. There were even figures moving back and forth along the battlements.
+As Somaelir flew past the island and Jace looked back at its far side, he saw a blurry green banner standing atop the walls. There were even figures moving back and forth along the battlements.
 
 Grede clearly saw it too. He nodded. "Kul Tiras."
 
-"It's not far from Kul Tiras," Jace said, unsurprised. "If the Arathi abandoned this island, the Kul Tirasians would definitely come take a look."
+"It's not far from Kul Tiras," Jace said, unsurprised. "If the Arathi abandoned this island, the Kul Tirans would definitely come take a look."
 
-In fact, in the game, this island was already occupied by the Kul Tirasians. They'd built a massive prison on it called Baradin Prison, used to hold insane prisoners — the kind of enormous demons that the Violet Hold couldn't contain.
+In fact, in the game, this island was already occupied by the Kul Tirans. They'd built a massive prison on it called Baradin Prison, used to hold insane prisoners — the kind of enormous demons that the Violet Hold couldn't contain.
 
 Thinking along those lines, Jace suddenly found himself thinking of Kallrez.
 
-If Baradin Prison had already been built by now, and the Wizard Sanctum had discovered Kallrez but couldn't kill him, they'd probably have no choice but to contain him, contact the Kirin Tor, and have him shipped off to Baradin Prison. After all, the Violet Hold was probably better suited to normal-sized magical criminals like Kel'Thuzad.
+If Baradin Prison had already been built by now, and the Wizard's Sanctum had discovered Kallrez but couldn't kill him, they'd probably have no choice but to contain him, contact the Kirin Tor, and have him shipped off to Baradin Prison. After all, the Violet Hold was probably better suited to normal-sized magical criminals like Kel'Thuzad.
 
-After leaving Tol Barad, it wasn't long before the sea cliffs of Dun Morogh came into view — the distant snowy mountains, the pine forests, the stone keeps the dwarves built up high. This meant Solamiel was flying in the right direction.
+After leaving Tol Barad, it wasn't long before the sea cliffs of Dun Morogh came into view — the distant snowy mountains, the pine forests, the stone keeps the dwarves built up high. This meant Somaelir was flying in the right direction.
 
 About three days later, the terrain grew flatter and flatter. The green dragon swooped down into a familiar bay — this must be King's Bay. On the horizon, a blurry expanse of gray-white walls, houses, and towers was already faintly visible.
 
-Solamiel kept staring straight ahead without turning her head, as if she'd been stunned into a trance.
+Somaelir kept staring straight ahead without turning her head, as if she'd been stunned into a trance.
 
 The closer they flew, the nearer they got. Any closer and they'd start drawing the attention of the sailing ships — even the harbor guards.
 
@@ -72,36 +72,28 @@ The closer they flew, the nearer they got. Any closer and they'd start drawing t
 
 "It's not often you meet a dwarf who enjoys being magically put to sleep," Jace said casually.
 
-"If it by a good friend's magic, it's fine. Still a hell of a lot better than some weirdo who likes being put to sleep by demons," Grede shot back sidelong.
+"If it's a good friend's magic, it's fine. Still a hell of a lot better than some weirdo who likes being put to sleep by demons," Grede shot back sidelong.
 
 Jace guiltily scratched his head. Morophil smiled beside him.
 
 Still, hearing the dwarf say that, Jace was suddenly reminded of the green dragon's lodging problem. "Have you thought about where you're going to stay, Sola?"
 
-"I don't know," Solamiel said. "Can't I just stay with you two?"
+"I don't know," Somaelir said. "Can't I just stay with you two?"
 
 "We two don't live together, and our places are too small," Jace said. "How about staying at the house I bought for now?"
 
-"I remember you two telling me — that's the house you prepared for your parents, Jace," Solamiel said. "Actually, I could just live in a cave."
+"I remember you two telling me — that's the house you prepared for your parents, Jace," Somaelir said. "Actually, I could just live in a cave."
 
 "Let's not go that far…" Jace said.
 
-"That's not the only problem. The issue is we don't even know what condition the renovations are in yet," Grede said. "We haven't gone to check." Jace thought for a moment and said to the dwarf, "Could you help her find a place in the Dwarf District for now? It'd probably be hard to find anywhere else."
+"That's not the only problem. The issue is we don't even know what condition the renovations are in yet," Grede said. "We haven't gone to check."
 
-"You want me to rent a place in the Dwarf District for an elf-looking outsider?!" Grede scratched his head, then remembered something. "Oh, right — Sola can turn into a human now. That makes things a lot easier! Hey, Sola, why don't you just turn into a dwarf? Pick up an Ironforge accent while you're at it — maybe you can fool those dumb Bronzebeards into giving you a discount as a fellow countryman."
+Jace thought for a moment and said to the dwarf, "Could you help her find a place in the Dwarven District for now? It'd probably be hard to find anywhere else."
 
-Grede burst out laughing. The green dragon quietly said, "I don't want to be a dwarf." The dwarf's laughter caught in his throat. He asked unhappily, "Why not?"
+"You want me to rent a place in the Dwarven District for an elf-looking outsider?!" Grede scratched his head, then remembered something. "Oh, right — Sola can turn into a human now. That makes things a lot easier! Hey, Sola, why don't you just turn into a dwarf? Pick up an Ironforge accent while you're at it — maybe you can fool those dumb Bronzebeards into giving you a discount as a fellow countryman."
 
-The green dragon just clammed up and said nothing. Jace fought hard not to laugh. Grede snorted loudly. "I knew it — anyone who likes turning into those pointy-eared freaks definitely has something wrong with their taste!
+Grede burst out laughing. The green dragon quietly said, "I don't want to be a dwarf."
 
-## Flags
+The dwarf's laughter caught in his throat. He asked unhappily, "Why not?"
 
-- **托尔巴拉德 = Tol Barad** — ancient fortress island. Canonical; not in glossary.
-- **丹莫德 = Dun Modr** — dwarven city. Canonical; not in glossary.
-- **萨多尔大桥 = Thandol Span** — canonical bridge. Not in glossary.
-- **库尔提拉斯 = Kul Tiras** — per glossary.
-- **巴拉丁监狱 = Baradin Prison** — Kul Tiras prison on Tol Barad. Not in glossary (glossary has 巴拉丁湾 = Baradin Bay).
-- **丹莫罗 = Dun Morogh** — dwarven homeland. Canonical; not in glossary.
-- **格瑞姆巴托 = Grim Batol** — per glossary.
-- **库德兰·蛮锤 = Kurdran Wildhammer** — canonical Wildhammer dwarf leader. Not in glossary.
-- **暴风城 = Stormwind City** — per glossary."
+The green dragon just clammed up and said nothing. Jace fought hard not to laugh. Grede snorted loudly. "I knew it — anyone who likes turning into those pointy-eared freaks definitely has something wrong with their taste!"

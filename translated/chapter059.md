@@ -2,11 +2,11 @@
 
 That afternoon Jace went fishing with Grede and a few local middle-aged men. They didn't catch much, but at least they got to properly enjoy the beauty of Lake Everstill and heard plenty of interesting myths and legends.
 
-Like the Lake Everstill sea monster, the mermaids of the lakeshore, and so on.
+Like the Lake Everstill lake monster, the mermaids of the lakeshore, and so on.
 
 The locals told these as legends, but Jace knew these things were probably real.
 
-The so-called Lake Everstill sea monster — the locals described it as a gigantic strange fish. Every time it appeared, rain would pour down and storms would sweep across the lake. Even the orcs were terrified of it.
+The so-called Lake Everstill lake monster — the locals described it as a gigantic strange fish. Every time it appeared, rain would pour down and storms would sweep across the lake. Even the orcs were terrified of it.
 
 Jace knew it was actually a plesiosaur living at the bottom of the lake — at least in the game. He gazed out at the lake stretching almost past the point of sight, that deep, unknowable mystery making it hard to imagine what the lake monster really looked like.
 
@@ -64,28 +64,8 @@ Jace gave him a flat look. "I brought three Shadow Protection Potions. The effec
 
 "Originally it was for the gnolls."
 
-Jace remembered there were quite a number of gnoll spellcasters in Redridge — a gnoll tribe called Darkhide that had a whole pack of warlocks. He just hadn't expected to use the potions on an orc before even running into them.
+Jace remembered there were quite a number of gnoll spellcasters in Redridge — a gnoll tribe called Shadowhide that had a whole pack of warlocks. He just hadn't expected to use the potions on an orc before even running into them.
 
 "Same difference," Grede said. "Excellent. That puts my mind at ease. Mages are easy to deal with, warlocks we've got a counter for — tomorrow'll be a walk in the park. Let these Lakeshire greenhorns see what we're made of!"
 
 Jace, for his part, had no idea what kind of "ability" their duo had that was worth showing off to an orc.
-
-## Flags
-
-- **赤脊山的传说:** Chapter title rendered as "The Legend of Redridge."
-- **蛇颈龙:** Rendered as "plesiosaur." Jace's in-world identification of the lake monster. Flag — not a canonical WoW creature name; this is Jace's interpretation.
-- **纳迦水妖:** Rendered as "naga." 水妖 = water sprite/demon; combined term treated as naga.
-- **鱼人:** Rendered as "murlocs" (canonical).
-- **过渡智慧生物:** Rendered as "transitional intelligent creatures" (the speculative origin of murlocs).
-- **艾尔文平原:** Rendered as "Elwynn plain." Glossary has 艾尔文森林 = Elwynn Forest.
-- **赤脊山脉:** Rendered as "Redridge range" / "Redridge Mountains."
-- **止水湖谷地:** Rendered as "Lake Everstill valley."
-- **河鲜爱好者:** Rendered as "freshwater seafood enthusiast." The orc's fishing habit.
-- **钓佬:** Rendered as "amateur anglers." Colloquial Chinese for fishing enthusiasts.
-- **民团 / 民兵:** Rendered as "militia."
-- **兽人斥候:** Rendered as "orc scouts."
-- **腐蚀术:** Rendered as "Corruption" (warlock DoT spell). Flag — used generically here for a hypothetical water-poisoning magic.
-- **暗影防护药剂:** Rendered as "Shadow Protection Potion" (in glossary).
-- **暗皮:** Rendered as "Darkhide" (gnoll tribe name). Not in glossary. Flag for canonical spelling if one exists.
-- **奎尔萨拉斯的王子 / 老不死的东西:** Rendered as "the Prince of Quel'Thalas — that old undying bastard." Refers to Kael'thas Sunstrider.
-- **菜鸟:** Rendered as "greenhorns."

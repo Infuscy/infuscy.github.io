@@ -26,7 +26,7 @@ The moment he entered the room, he saw the naga, her back to him, suddenly turn 
 
 She'd already picked up a rusty harpoon from god knew where, aimed right at Jace as he walked through the door. The black smoke rising from the flames all around her made her look like a lava demon straight out of hell!
 
-— FEARKEKT!
+— FEKT!
 
 Jace's incantation was flawlessly precise and fast. The naga's throwing motion was already underway, so she had no chance to react with a Counterspell. Her calm expression shattered in an instant.
 
@@ -124,20 +124,4 @@ Might as well take some scales.
 
 Right — naga scales. Could they be used in alchemy?
 
-"Sazenor," Jace said. "Time to earn your keep."
-
-## Flags
-
-- **烈火与冰冷之血** (chapter title) → "Fire and Icy Blood" — flagged as a title choice.
-- **撒历诺** → This is the same imp, Sazeno — the source uses a variant transcription (撒历诺 vs. the standard 撒厄诺). Rendered as "Sazeno" per glossary; flagged as a source inconsistency in the Chinese.
-- **鱼叉** → "harpoon" — the naga's improvised weapon; flagged.
-- **熔岩火魔** → "lava demon" — Jace's simile; flagged.
-- **弗艾克特** → "Fearkekt" — the Fear spell incantation (variant of the ch.88 "弗艾克"). Rendered as a spell incantation; flagged as a constructed spell phrase.
-- **咔咔呀呀** → "kacha-kacha" — onomatopoeia for the naga's broken vocalizations; flagged.
-- **纳迪** → appears to be a typo in the source for 纳迦 (naga); rendered as "naga" and flagged as a likely source error.
-- **珠串 / 珍珠串 / 珠宝** → "bead string" / "pearl bead string" — the naga's only possession; flagged.
-- **鳞** → "scales" — Jace considers harvesting naga scales for alchemy; flagged.
-- **撒厄诺's speech** — kept theatrical and cowardly-then-brave per the imp's established character.
-- **格瑞德** → "Grede" — per glossary; Jace imagines his reaction in Grede's bluff register.
-- **灌了铅** → "filled with lead" — idiom rendered naturally ("legs like lead").
-- **魔光** → "arcane glow" — per glossary (魔光 = Arcane Glow). Used as-is.
+"Sazeno," Jace said. "Time to earn your keep."

@@ -24,7 +24,7 @@ Grede's hand was already on the war hammer at his belt. Jace gripped his staff. 
 
 "Master?" Jace called softly.
 
-"The Flow of Ice Crystal… it's real — it's the real Flow of Ice Crystal!"
+"The Flowing Ice Crystal… it's real — it's the real Flowing Ice Crystal!"
 
 The stranger suddenly shrieked, his voice hoarse and strange. A few black, misshapen birds took flight at the startled outburst, lending this godforsaken dead wood the faintest whiff of life.
 
@@ -32,11 +32,11 @@ The mage tottered forward a few steps, and now Jace could see clearly that, whil
 
 "Undead!" Jace had barely shouted the word when a mass of white frost already swirled around the mage's body.
 
-It was Frost Armor — and on a completely different level from the one Obryck had used against the orcs earlier. The frost gathering around him even shimmered with a cold light. The glare obscured the undead mage's form, and suddenly a frigid bolt of ice came screaming out of it. Jace was already prepared. A film of dark shadow energy, its surface shimmering with iridescent light, snapped open and took the ice bolt head-on…
+It was Frost Armor — and on a completely different level from the one Obrik had used against the orcs earlier. The frost gathering around him even shimmered with a cold light. The glare obscured the undead mage's form, and suddenly a frigid bolt of ice came screaming out of it. Jace was already prepared. A film of dark shadow energy, its surface shimmering with iridescent light, snapped open and took the ice bolt head-on…
 
 As the ice bolt struck the shield, a ring of black ripples spread outward, blasting the weeds on the ground to splinters.
 
-At the same same instant, Grede's war hammer erupted with lightning. The flash of it even drove back the black ripples spreading from Jace's shield.
+At the same instant, Grede's war hammer erupted with lightning. The flash of it even drove back the black ripples spreading from Jace's shield.
 
 The mage saw this and immediately tried to fall back, but the dwarf was faster. The electrified hammer dragged a trail of light across the dark earth and smashed straight into the mage's protective magic.
 
@@ -80,9 +80,9 @@ A razor-sharp Ice Lance screamed from yet another direction, straight at Grede's
 
 Grede slapped the snow off his helmet. "Goddamn thing."
 
-The two of them stood back to back, staring into the pitch-black forest. Jace said, "This bastard probably knows Mirror Magic."
+The two of them stood back to back, staring into the pitch-black forest. Jace said, "This bastard probably knows Mirror Image."
 
-"Mirror Magic?" Grede asked.
+"Mirror Image?" Grede asked.
 
 "It creates a copy of yourself to fool the enemy… like that Frostbolt you just smashed." Jace scanned the forest in every direction. "I should've brought Morophil."
 
@@ -92,29 +92,10 @@ The two of them stood back to back, staring into the pitch-black forest. Jace sa
 
 "But you said you'd give me one…" the imp wailed.
 
-"It's an emergency," Jace said. "Quick. He's after the Flow of Ice Crystal. He can't beat us head-on, but there's no way he's letting us go easily. He's in the dark, we're in the open — if we keep tangling like this, he'll find his opening sooner or later. He's an undead monster. He doesn't get tired!"
+"It's an emergency," Jace said. "Quick. He's after the Flowing Ice Crystal. He can't beat us head-on, but there's no way he's letting us go easily. He's in the dark, we're in the open — if we keep tangling like this, he'll find his opening sooner or later. He's an undead monster. He doesn't get tired!"
 
 "Protect me in a bit, Grede. Don't let him interrupt my casting…"
 
-Grede turned back and said, "You're not about to… You don't even even know where that mage is. Even if you called down a meteor, could you hit anything?"
+Grede turned back and said, "You're not about to… You don't even know where that mage is. Even if you called down a meteor, could you hit anything?"
 
-"What do you think I'm doing?!" Jace immediately spoke an incantation, reinforcing his Shadow Shield once more. He looked at Grede and said, "Stay a little further away from me. Don't let the shadow energy touch you. I'm summoning a doomhound."
-
-## Flags
-
-- 跟踪者 = "The Stalker" — the undead mage trailing Jace and Grede through the Duskwood-like forest of the Narrow Pass.
-- 镜像魔法 = Mirror Magic — the mage's ability to create illusory duplicates; Jace recognizes the tactic from game knowledge.
-- 紫罗兰之眼 = the Violet Eye — the Kirin Tor's Karazhan investigation corps; the bald mage's robe bears their sigil.
-- 寒冰护体 = Frost Armor; 寒冰箭 = Frostbolt; 冰枪 = Ice Lance — the undead mage's frost spells.
-- 灼烧咒 = Scorch (Jace's counter-spell, rendered as "灼烧咒" in the Chinese).
-- 虚弱诅咒 = Curse of Weakness — Jace's DoT curse, applied but barely slowing the undead.
-- 莫洛菲尔 = Morophil — Jace's demon, left behind; he regrets not bringing it.
-- 撒厄诺 = Sazeno — the imp minion.
-- 安尼赫兰语 = Eredun (the demonic language) — referenced in the next chapter's summoning ritual.
-- 地狱犬 = Doomhound / Hellhound — Jace's solution to the mirror-image problem; hellhounds can detect the real body.
-- 闪现术 = Blink — the undead mage's escape tool.
-- 暗影之盾 = Shadow Shield — Jace's defensive spell.
-- 暗影箭 = Shadow Bolt — Jace's offensive shadow spell.
-- 变形术 = Polymorph — the mage turns Grede into a sheep (black sheep, specifically).
-- 肯瑞托 = Kirin Tor — the mage's original affiliation, implied by the Violet Eye sigil.
-- 流冰之晶 = the Flow of Ice Crystal — the artifact the undead mage is drawn to.
+"What do you think I'm doing?!" Jace immediately spoke an incantation, reinforcing his Shadow Shield once more. He looked at Grede and said, "Stay a little further away from me. Don't let the shadow energy touch you. I'm summoning a felhound."

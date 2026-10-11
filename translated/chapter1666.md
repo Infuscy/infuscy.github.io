@@ -4,7 +4,7 @@ The stone door was pushed open by a group of Dark Iron dwarves and Dagran Thauri
 
 A broad staircase stretched upward. A thick, cloying stench of blood hit them. The paladins and dwarves took point. Muradin Bronzebeard climbed to the top and looked out over the staircase, his brows knitting together.
 
-Jace reached the top as well. Before them sprawled a vast hall, comparable to the lecture hall in Shadowforge City -- but without any thick stone pillars for support. Only a few around the edges held up the high stone walls, and even those were mostly cracked, looking ready to collapse at any moment.
+Jace reached the top as well. Before them sprawled a vast hall, comparable to the Lyceum in Shadowforge City -- but without any thick stone pillars for support. Only a few around the edges held up the high stone walls, and even those were mostly cracked, looking ready to collapse at any moment.
 
 It was hard to imagine why the Dark Irons, who stood a head shorter than humans, had built a hall spacious enough for the storm giants of Northrend to walk through and live in comfortably.
 
@@ -12,9 +12,9 @@ If it fit storm giants, it fit dragons. In the deeper shadows, Jace could dimly 
 
 There were arms and claws, wings and ribs, skulls. Some pieces seemed like they could form several complete skeletons, but none seemed to match up properly.
 
-Among these bones hung whelp after whelp of black dragons. At first glance, he counted six or seven -- and that was just what he could see. More lurked in the darkness. They stared at the allied soldiers at the entrance with amber eyes, like bats roused by torchlight in a cave. Saliva dripped from above.
+Among these bones hung black drake after black drake. At first glance, he counted six or seven -- and that was just what he could see. More lurked in the darkness. They stared at the allied soldiers at the entrance with amber eyes, like bats roused by torchlight in a cave. Saliva dripped from above.
 
-At the far end of the hall, a crowd of towering black dragonkin gathered, holding dark red halberds and spears. They stared back like a wall of flesh covered in black-and-red scales. Like the whelps above, they were utterly silent, as if they didn't exist.
+At the far end of the hall, a crowd of towering black dragonkin gathered, holding dark red halberds and spears. They stared back like a wall of flesh covered in black-and-red scales. Like the drakes above, they were utterly silent, as if they didn't exist.
 
 During the assault on the upper Spire, every dragonkin -- even the weaker servants -- had led the orc ranks. Each had been accompanied by several guards.
 
@@ -40,7 +40,7 @@ They were being enraged. Enraged by those words. Since entering Blackrock Spire,
 
 Jace grit his teeth. Dark spiraling runes bloomed beneath his feet. He concentrated, trying to regain control of the shadow. But the soldiers' emotions and the emotions from deep within the Spire seemed to be in perfect sync, feeding each other like stepping on each other's toes to climb higher.
 
-He burned a tremendous amount of energy just to stabilize the situation. He could feel it was nearly as difficult as communicating with Kalrez through the arcane array across Kil'jaeden's magical blockade.
+He burned a tremendous amount of energy just to stabilize the situation. He could feel it was nearly as difficult as communicating with Kallrez through the arcane array across Kil'jaeden's magical blockade.
 
 Just as he thought he had the shadow in the hall under control, the voice from the depths spoke again.
 
@@ -56,7 +56,7 @@ Just as he thought he had the shadow in the hall under control, the voice from t
 
 Jace understood. Everything Nefarian had said were words Turalyon had once spoken to the Expedition -- possibly to the veterans who had campaigned against the Horde years ago. And that last line... it was easy to guess that was Lothar's voice, Lothar's tone.
 
-How did a black dragon who hadn't directly participated in the orc wars know these details? How did he know the conversations and tone between Lothar and his student Turalyon?
+How did a black dragon who hadn't directly participated in the Orc Wars know these details? How did he know the conversations and tone between Lothar and his student Turalyon?
 
 "Light above, give the order, King Varian!" Turalyon said through clenched teeth.
 
@@ -68,15 +68,15 @@ The Alliance soldiers roared in response, raising their blades. Jace felt his co
 
 Tirion Fordring gripped a holy tome and shouted to the Light for power. His gaze swept across the allied front line, and the Holy Light rose in response. It didn't come from above, but from beneath nearly every elite soldier, rising to gather above their heads at its brightest -- each one looking like a silver hand forged from light.
 
-At the same time, Sora raised her staff of dominion and chanted Dragon Tongue that Jace couldn't understand at all. Despite the maddening heat, the blazing Light, and the shadow-choked hall, a cool wind still found its way in. The sound of beasts roaring followed. Jace noticed that the soldiers nearby had faint claw-marks appearing on their foreheads -- a wild blessing that could deflect some magic and enhance strength and spirit.
+At the same time, Sola raised her Staff of Dominance and chanted in a Draconic Jace couldn't understand at all. Despite the maddening heat, the blazing Light, and the shadow-choked hall, a cool wind still found its way in. The sound of beasts roaring followed. Jace noticed that the soldiers nearby had faint claw-marks appearing on their foreheads -- a wild blessing that could deflect some magic and enhance strength and spirit.
 
-Sora had cast it on several of them before, but he hadn't expected her to bless over a thousand soldiers at once. Not long ago, she'd barely been able to give a simple nature blessing to the bear-men in one small village.
+Sola had cast it on several of them before, but he hadn't expected her to bless over a thousand soldiers at once. Not long ago, she'd barely been able to give a simple nature blessing to the furbolgs in one small village.
 
-"The time for revenge for the Iron Tomb and Drak'Tharon has come, Shadowforge City!" Dagran Thaurissan's scepter blazed with searing fire. The Dark Iron dwarves charged out with rapid steps, shouting at the top of their lungs. Despite being a head shorter, they were faster than the paladins beside them.
+"The time for revenge for Forgewright's Tomb and Draco'dar has come, Shadowforge City!" Dagran Thaurissan's scepter blazed with searing fire. The Dark Iron dwarves charged out with rapid steps, shouting at the top of their lungs. Despite being a head shorter, they were faster than the paladins beside them.
 
 Jace stood rooted, struggling to maintain his suppression of the violently churning shadow throughout the hall. Soldiers in red robes, blue cloaks, and silver armor streamed past him on both sides.
 
-He felt like he was no longer fighting against the Soul Song, but wrestling against the entire world -- these soldiers included.
+He felt like he was no longer fighting against the Spirit's Song, but wrestling against the entire world -- these soldiers included.
 
 "He's provoking us, Khadgar!" He shouted, feeling like even the energy to force out those words was almost gone.
 
@@ -92,4 +92,4 @@ A torrent of arcane projectiles rained from higher up, fired from Khadgar's hand
 
 The entire hall was drowned in piercing arcane thunder. The dragonkin's roars, the soldiers' battle cries -- all became indistinct. Until a piercing shriek came from deep within the hall.
 
-The shadows high above finally began to stir. Wide dragon wings unfurled among the hanging bones. One after another, they dropped into the darkness beyond what the fire basins, swaying in the arcane wind, could illuminate...
+The shadows high above finally began to stir. Wide dragon wings unfurled among the hanging bones. One after another, they dropped into the darkness beyond what the braziers, guttering in the arcane wind, could illuminate...

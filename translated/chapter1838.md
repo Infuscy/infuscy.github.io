@@ -24,13 +24,13 @@ Truth be told, Jace wasn't exactly calm himself, even though he'd been mentally 
 
 And what about Aegwynn?
 
-Weren't you planning to summon the Defiler, enslave this demon lord, and blast me with your finger of death to finish me off?
+*Weren't you planning to summon the Defiler, enslave this demon lord, and blast me with his Finger of Death to finish me off?*
 
-Now's the perfect opportunity, isn't it, Guardian? Why haven't you acted? What are you waiting for...
+*Now's the perfect opportunity, isn't it, Guardian? Why haven't you acted? What are you waiting for...*
 
 The swirling snow obscured his vision, and the distant forest blurred into indistinct shapes.
 
-The arcane shockwave from that sudden, overwhelming ice spell seemed to only now be fully registering, beginning to more profoundly affect the climate around all of Lake Lordamere.
+The arcane shockwave from that sudden, overwhelming ice spell seemed to only now be fully registering, beginning to more profoundly affect the climate around all of Lordamere Lake.
 
 The lake had frozen solid. Jace could guess why Archimonde had done it -- the portal had brought him through, and now more demons would follow, pouring into this world through that same portal and his summoning magic.
 
@@ -46,11 +46,11 @@ Sazeno cowered in the pack, trembling, not daring to make a sound, as if he stil
 
 In the final moment before that demon appeared, Jace felt the shockwave of another arcane bomb detonating -- was that the Wildhammer knights' last attempt? *Grede Thunderfist, you old bastard, did you join the final charge?*
 
-*Morofil Wind, where are you?*
+*Vereesa Windrunner, where are you?*
 
 *Needleflame, are you okay?*
 
-The vast sky was a cloudless gray -- not a gryphon knight, not a red dragon, not even the demons that had been flying everywhere. A single Frost Nova had seemingly scoured the entire Lake Lordamere region clean.
+The vast sky was a cloudless gray -- not a gryphon rider, not a red dragon, not even the demons that had been flying everywhere. A single Frost Nova had seemingly scoured the entire Lordamere Lake region clean.
 
 But it wasn't true quiet. He could feel it.
 
@@ -84,7 +84,7 @@ Sola used a nature spell to heal the mage's nearly frostbitten hands. He stammer
 
 "Jace? Is that you?"
 
-Jace turned toward the voice and saw Ursula Delin dodging through the bustling crowd, hurrying across the street, nearly slipping on the packed snow.
+Jace turned toward the voice and saw Ursula Deline dodging through the bustling crowd, hurrying across the street, nearly slipping on the packed snow.
 
 "Ursula?"
 
@@ -102,7 +102,7 @@ Jace turned toward the voice and saw Ursula Delin dodging through the bustling c
 
 "Oh, Jace." The alchemist called out to the warlock just as he was about to leave.
 
-"Before he left, Khadgar told me to give this to you." She pulled out the potion of destruction.
+"Before he left, Khadgar told me to give this to you." She pulled out the Destruction Potion.
 
 Jace took the potion. "He doesn't need it?"
 

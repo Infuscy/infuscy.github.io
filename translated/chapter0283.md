@@ -1,12 +1,12 @@
-## Chapter 283: Jagin's Wish
+## Chapter 283: Gakin's Wish
 
-The male succubus was genuinely gorgeous — gorgeous enough that looking at him threw Jace a little off balance. Though the most awkward part, really, was that thing dangling naked between his legs, swaying as he moved, weirdly shaped to the point of being impossible to ignore.
+The incubus was genuinely gorgeous — gorgeous enough that looking at him threw Jace a little off balance. Though the most awkward part, really, was that thing dangling naked between his legs, swaying as he moved, weirdly shaped to the point of being impossible to ignore.
 
 The demon spat out a mouthful of purple blood and looked at Jace. "The huntress who doesn't serve mortals — she'll betray you sooner or later. Let me go, and I'll serve you, human. Together we'll kill her and rid you of that future threat!"
 
 "Serve me? I think you're overestimating the diversity of my sexual orientation a little," Jace said.
 
-The smile on the male succubus's face vanished. "What method did you use to resist mental magic?"
+The smile on the incubus's face vanished. "What method did you use to resist mental magic?"
 
 "No idea. Maybe you're just too weak," Jace said.
 
@@ -14,17 +14,17 @@ Morophil laughed and said in a low voice, "Master, kill him. I really can't stan
 
 "I still have questions to ask," Jace said.
 
-The male succubus looked up at Morophil then and said something in Demonic in a low voice, smiling.
+The incubus looked up at Morophil then and said something in Demonic in a low voice, smiling.
 
-When Morophil finished listening, she cleanly sliced off the thing with her sword. The male succubus's once-beautiful face suddenly twisted out of shape. His eyes went blank in an instant. He coughed and swore a few things.
+When Morophil finished listening, she cleanly sliced off the thing with her sword. The incubus's once-beautiful face suddenly twisted out of shape. His eyes went blank in an instant. He coughed and swore a few things.
 
-"And now?" she asked with a laugh, switching to Common. The male succubus growled hoarsely, his claws digging into the dirt on the ground, eyes squeezed shut in pain, even forgetting how to breathe.
+"And now?" she asked with a laugh, switching to Common. The incubus growled hoarsely, his claws digging into the dirt on the ground, eyes squeezed shut in pain, even forgetting how to breathe.
 
 That one strike from Morophil had undoubtedly wounded two people. Jace witnessed the whole thing and felt a chill run through his own lower half.
 
-"Why did you kill Jagin?" Jace asked.
+"Why did you kill Gakin?" Jace asked.
 
-The male succubus gasped for a long while before lifting his head. "You mean my previous master?"
+The incubus gasped for a long while before lifting his head. "You mean my previous master?"
 
 "I don't even know his name… Maybe I don't even count as a servant. More like a guest who showed up halfway through the party."
 
@@ -32,11 +32,11 @@ He drew a deep breath. "Clearly, he got wrong what he actually wanted."
 
 "He wanted?" Jace said. "Didn't you seduce him and get him killed?"
 
-"Mortals always like to make us responsible for their own ideas." The male succubus gave a soft laugh. "Why would we interfere with his decisions? Was he planning to kill us and send us back? No. So what benefit was there in killing him? Just for soul shards you can find anywhere in the Twisting Nether?"
+"Mortals always like to make us responsible for their own ideas." The incubus gave a soft laugh. "Why would we interfere with his decisions? Was he planning to kill us and send us back? No. So what benefit was there in killing him? Just for soul shards you can find anywhere in the Twisting Nether?"
 
 "Sajeda and I both wanted to satisfy his desires as much as possible. After all, who'd want to leave Azeroth? Well, at least I kept a bit of cool-headedness. That senseless bitch Sajeda even thought she could bring him back to his senses, so she refused to leave with me — but I'd caught on from the start, so I wasn't surprised in the least. I suppose you've already killed her? She deserved it anyway…"
 
-Could it really have been Jagin's choice?
+Could it really have been Gakin's choice?
 
 Jace felt he still didn't know this colleague nearly well enough.
 
@@ -48,13 +48,13 @@ It was only deep into the night that more and more neglected pains, more and mor
 
 That panic, like ice water, had extinguished his shadow fervor and pulled him slowly back to normal.
 
-And Jagin?
+And Gakin?
 
 Maybe that fervor was exactly what he'd been chasing. The feeling of being fully embraced by the Shadow.
 
 Of course, Jace would never know the truth now.
 
-The male succubus eyed the staff in Jace's hand. "I sensed your power earlier, warlock. You took this black staff from an Eredar, didn't you?"
+The incubus eyed the staff in Jace's hand. "I sensed your power earlier, warlock. You took this black staff from an eredar, didn't you?"
 
 He raised his eyes weakly and looked at the succubus gripping his horns. "Is that why you're willing to serve him? But in the eyes of a shadow manipulator like him, you're nothing more than an expendable pawn that can be discarded at any moment. You really think you'll get some kind of return?"
 
@@ -62,11 +62,11 @@ He raised his eyes weakly and looked at the succubus gripping his horns. "Is tha
 
 "No — it's a shadow-magic fluctuation. Truly impressively stupid."
 
-As she spoke, she yanked hard on the male succubus's horn. The latter let out a resentful growl and swore a few things in Demonic.
+As she spoke, she yanked hard on the incubus's horn. The latter let out a resentful growl and swore a few things in Demonic.
 
 "Send him back to the Twisting Nether," Jace said.
 
-Morophil drove her sword into the succubus's chest, then slashed upward with force, splitting his muscular torso straight down the middle.
+Morophil drove her sword into the incubus's chest, then slashed upward with force, splitting his muscular torso straight down the middle.
 
 The demon convulsed and collapsed to the ground. The torn demon-heart leaped out of his body, pulsing. His body mumbled a few things and curled up, like a worm that had just been stomped flat on one side.
 
@@ -74,9 +74,11 @@ The demon convulsed and collapsed to the ground. The torn demon-heart leaped out
 
 "I could help you move this demon back to that young mage's apartment," Morophil suggested. "That way when he wakes up tomorrow morning, he'll have a perfectly reasonable explanation for his mysteriously exposed body and all those stains in the middle of the night."
 
-"He's got a reasonable explanation now," Jace said. "Namely that he had an incredibly terrifying wet dream in the middle of the night. All right, stop making trouble for me." Morophil smiled.
+"He's got a reasonable explanation now," Jace said. "Namely that he had an incredibly terrifying wet dream in the middle of the night. All right, stop making trouble for me."
 
-Jace looked at the demon's corpse. "If I burn him with shadow fire, what'll be left?"
+Morophil smiled.
+
+Jace looked at the demon's corpse. "If I burn him with Shadowflame, what'll be left?"
 
 "Nothing!" Morophil said. "He's not a living being of Azeroth, master. He's just a lump of flesh condensed from dark energy."
 
@@ -98,6 +100,6 @@ Morophil said, "I needed to give him a clear enough answer, didn't I?"
 
 "Ah, that kind of stronger." Jace nodded and asked again, "So if you hadn't cut it, the answer wouldn't have been clear enough?"
 
-"You really want to compare lengths with a male succubus?"
+"You really want to compare lengths with an incubus?"
 
 "Forget it." Jace waved a hand. "Forget I asked."

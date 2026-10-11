@@ -32,23 +32,23 @@ At first Jace thought Illidan would be angered by an outsider interrupting. But 
 
 "That was you earlier?"
 
-He suddenly spat out a string of demonic language, his tone full of warning and threat.
+He suddenly spat out a string of Demonic language, his tone full of warning and threat.
 
-"He is using the demonic tongue, Jace Sesso." Maiev Shadowsong warned from the side. "But his malevolent magic cannot break through this rune-cage's restraints."
+"He is using the Demonic tongue, Jace Sesso." Maiev Shadowsong warned from the side. "But his malevolent magic cannot break through this rune-cage's restraints."
 
-"I know. Thank you for the reminder, Warden." Jace nodded at Maiev, then switched to the demonic tongue, speaking toward the cage. "It was me. My apologies, Illidan Stormrage. I instinctively used demonic sight. I had heard many things about you before coming."
+"I know. Thank you for the reminder, Warden." Jace nodded at Maiev, then switched to the Demonic tongue, speaking toward the cage. "It was me. My apologies, Illidan Stormrage. I instinctively used demonic sight. I had heard many things about you before coming."
 
 Illidan laughed. Maiev's helmet dipped slightly, then she looked toward Tyrande. No one could see her expression, but she was clearly surprised.
 
-"Your Eredar is much easier to understand, human." When the prisoner spoke the demonic tongue, the rasp in his voice was thick as a true demon's — completely different from when he spoke elvish, and a stark contrast to his gaunt frame. The faint arcane energy on the cage bars pulsed stronger and weaker with the cadence of his voice, as if his words alone could threaten the stability of the entire prison.
+"Your Eredun is much easier to understand, human." When the prisoner spoke the Demonic tongue, the rasp in his voice was thick as a true demon's — completely different from when he spoke Elvish, and a stark contrast to his gaunt frame. The faint arcane energy on the cage bars pulsed stronger and weaker with the cadence of his voice, as if his words alone could threaten the stability of the entire prison.
 
-Jace wasn't alarmed by the tension from the demonic speech. Instead, he thought: *If I could pronounce like Illidan, maybe I could manipulate demonic spells as freely as Kael'Thas said I could.*
+Jace wasn't alarmed by the tension from the demonic speech. Instead, he thought: *If I could pronounce like Illidan, maybe I could manipulate demonic spells as freely as Kael'thas said I could.*
 
 "Then speak, this... Jace Sesso."
 
-"The Burning Legion is preparing for another invasion," Jace said in the demonic tongue.
+"The Burning Legion is preparing for another invasion," Jace said in the Demonic tongue.
 
-"And what do they plan to use as the power source for their portal this time? Dath'Remar's Sunwell?" Illidan crooked his mouth in a grin, speaking the demonic tongue. "I'm sure it won't be Mount Hyjal. Malfurion would never make the same mistake as Azshara... er, he wouldn't, would he?"
+"And what do they plan to use as the power source for their portal this time? Dath'Remar's Sunwell?" Illidan crooked his mouth in a grin, speaking the Demonic tongue. "I'm sure it won't be Mount Hyjal. Malfurion would never make the same mistake as Azshara... er, he wouldn't, would he?"
 
 Illidan burst out laughing. Maiev asked coldly in the elven tongue, "Do you think he is you, Illidan?"
 

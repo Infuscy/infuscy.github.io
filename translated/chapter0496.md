@@ -42,7 +42,7 @@ Then again, a Wildhammer dwarf sympathizing with a demon was frankly too absurd,
 
 "I never expected you to accept this demon right off the bat, Grede. But she's helped me a lot, and she's never hurt me. I just felt it wasn't right to keep hiding it from you all this time — I just never found the right moment to tell you."
 
-"You should have told me from the start! Otherwise if the demon you summoned had done me in, I'd never have known! Succubi aren't imps!" the dwarf said. "But hey, Jace Sesso — no wonder you always looked so nonchalant whenever we went out, no matter what inn we stayed at. Turns out you were already set for food and drink! And that succubus is really something, isn't she? No wonder you couldn't be bothered with the girls out there, you bastard."
+"You should have told me from the start! Otherwise if the demon you summoned had done me in, I'd never have known! Succubi aren't imps!" the dwarf said. "But hey, Jace Sesso — no wonder you always looked so nonchalant whenever we went out, no matter what inn we stayed at. Turns out you were already well taken care of! And that succubus is really something, isn't she? No wonder you couldn't be bothered with the girls out there, you bastard."
 
 "You find a demon attractive? Have you been charmed?" Jace asked.
 
@@ -73,14 +73,3 @@ Jace said, "Then you could head to Shadowforge City this time. They'd gladly tak
 "Look — as long as you can guarantee this demon won't crawl into my tent in the middle of the night and cut my kidneys out like the rest of her kind, I can accept her helping us make money, Jace. But what about that elf traveling with us? Have you thought that through?"
 
 "Of course I have," Jace said. "So before heading to Deadwind Pass, I plan to write to Vereesa first and find out what's going on with that ranger."
-
-## Flags
-
-- **莫洛菲尔** = Morophil (Jace's succubus; OC name — rendered as Morophil per Ch.932; alternate project spellings include Molophil/Morfell).
-- **萨亚德** = succubus (the demon race; used by Grede as a generic term for succubi).
-- **格瑞德·雷拳** = Grede Thunderfist (Wildhammer dwarf; 雷拳 = Thunderfist).
-- **阿兹格斯** = Azgoth (demon OC; the one Jace killed with the black meteor spell — name tentative).
-- **守望堡** = Nethergarde Keep; **黑暗之门** = the Dark Portal; **逆风小径** = Deadwind Pass.
-- **温蕾萨** = Vereesa Windrunner (canonical — the third Windrunner sister).
-- **神圣遗物学会** = the Reliquary.
-- POV: third person throughout.

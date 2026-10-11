@@ -2,7 +2,7 @@
 
 Torn-up spellbooks and broken pages drifted through the air in the circular hall like confetti, dreamlike against the star-like free-floating arcane energies.
 
-Dazharm VI had fallen in frozen chunks. Morofil retrieved the blade she'd thrown — Apocalypse — and returned to Jace's side, eyes fixed on the archmage's shade still crumpled in the corner, never dropping her guard.
+Dazarm VI had fallen in frozen chunks. Morophil retrieved the blade she'd thrown — Apocalypse — and returned to Jace's side, eyes fixed on the archmage's shade still crumpled in the corner, never dropping her guard.
 
 "Master Aran." Jace tried to get his attention. The shade didn't respond.
 
@@ -18,9 +18,9 @@ Without Khadgar, Jace didn't think he could leave Karazhan alive, let alone find
 
 Especially the things Nielas Aran had said when he thought Jace was Medivh — warnings about the Curator not liking demons in the library, not even ones Medivh brought in.
 
-The whole library stank of arcane metal and shadowy gore, but there was hardly any demon stench. Even though Morofil was very good at masking her scent, she couldn't hide it perfectly here. No wonder those two arcane constructs on the spiral staircase had found her so fast.
+The whole library stank of arcane metal and shadowy gore, but there was hardly any demon stench. Even though Morophil was very good at masking her scent, she couldn't hide it perfectly here. No wonder those two arcane constructs on the spiral staircase had found her so fast.
 
-The two of them left the circular hall, planning to go deeper into the library and look for where that mage had gone. Morofil walked beside him, still seeming caught up in the recent fight.
+The two of them left the circular hall, planning to go deeper into the library and look for where that mage had gone. Morophil walked beside him, still seeming caught up in the recent fight.
 
 "You alright?"
 
@@ -30,11 +30,11 @@ The succubus snapped out of it. The flames in her eyes reignited, and the calm, 
 
 "Back there..." Jace said. "I had to use the Fear spell to keep all the apparitions under control and make room for Drain Soul."
 
-"No need to feel guilty, dear." Morofil leaned in and gave Jace a light kiss on the cheek. "Using memories from the soul to provoke emotions, capturing them, then Fear to turn those emotions, then anchoring the Drain Soul on their fear... you're getting more and more like a powerful eredar soul-twister."
+"No need to feel guilty, dear." Morophil leaned in and gave Jace a light kiss on the cheek. "Using memories from the soul to provoke emotions, capturing them, then Fear to turn those emotions, then anchoring the Drain Soul on their fear... you're getting more and more like a powerful eredar soul-twister."
 
 "Special praise from a succubus. That can't be good." Jace said. "Actually, I'm curious — what did you see? I mean in the Fear spell..."
 
-Morofil's expression dimmed a little. "What else? What I fear most is... losing my wings again."
+Morophil's expression dimmed a little. "What else? What I fear most is... losing my wings again."
 
 "That would be horrible," Jace agreed. The succubus followed behind, watching her master as he walked deeper into the hallway, not looking away for a long time.
 
@@ -48,7 +48,7 @@ Just then, a tabby cat jumped down from a nearby shelf.
 
 "I know. It's clearly right-side up now. Thanks for the warning." Jace studied the cat. Something about it felt familiar.
 
-He glanced at Morofil beside him. Master and servant said almost in unison, "Polymorph."
+He glanced at Morophil beside him. Master and servant said almost in unison, "Polymorph."
 
 "Library is upside down!" The cat's voice went hoarse with agitation. It circled Jace, repeating over and over, "Upside down... careful, it's upside down!"
 
@@ -56,13 +56,13 @@ Jace pressed his lips together, steeled himself, and booted the cat across the r
 
 "How is this polymorph so hard to break?" Jace asked the succubus. "Is this a real magical cat?"
 
-"Try lighting it on fire, master." Morofil suggested with narrowed eyes. "I've never seen a polymorph that couldn't be burned off..."
+"Try lighting it on fire, master." Morophil suggested with narrowed eyes. "I've never seen a polymorph that couldn't be burned off..."
 
 "Isn't that a bit much?" Jace summoned a small flame in his hand.
 
 The cat seemed to understand. Its eyes went wide as it backed away, hesitating. "Library... careful..."
 
-"You don't look like you think it's too much," Morofil smiled.
+"You don't look like you think it's too much," Morophil smiled.
 
 "I really don't." Jace decisively set the cat's tail on fire. With a whoosh, the flames went up. The cat shrieked and tore around the circular hall.
 
@@ -106,7 +106,7 @@ Khadgar nodded. They stood in silence for a moment. Then the mage pointed to a c
 
 "Did you see Master Aran when you came here with Aegwynn last time?" Jace asked.
 
-"Of course not." Khadgar said. "We didn't go nearly this high — we were just tapping into Karazhan's ley line node... and she built this tower, so with her around, there was no trouble at all. But if you're really bothered by this, once the Curator restores order and is willing to talk, I'll ask around and see if I can find some leads for you."
+"Of course not." Khadgar said. "We didn't go nearly this high — we were just tapping into Karazhan's ley line nexus... and she built this tower, so with her around, there was no trouble at all. But if you're really bothered by this, once the Curator restores order and is willing to talk, I'll ask around and see if I can find some leads for you."
 
 "Thanks. I'd appreciate that." Jace said.
 

@@ -1,6 +1,6 @@
-## Chapter 860: The Frosthammer Furbolgs
+## Chapter 860: The Frostmaul Furbolgs
 
-The moment he heard there might be a fight, Grede charged to the front excitedly, shield in hand, running even faster than the pathfinding Windrunner.
+The moment he heard there might be a fight, Grede charged to the front excitedly, shield in hand, running even faster than the pathfinding Vereesa.
 
 Jace followed behind and climbed up the snow valley. Amid the flying snow-mist, a dark shadow swayed in front of him, accompanied by a hollow whining sound. This shadow occupied nearly half the snow valley.
 
@@ -8,53 +8,53 @@ By now, the howls rising from below were clear enough for even Jace to distingui
 
 Through the snow-mist, something like a giant stone pillar stomped down. Jace was yanked aside by Grede and tumbled into a snowdrift nearby. The pillar struck the ground, followed by an even more massive and powerful stone-palace-like body high above.
 
-The earth shook violently. Snow-mist splashed down, obscuring their vision. Windrunner nearly lost her footing. They were nearly unable to keep moving forward, battered by the icicles and snow-mist scattered by that single stomp.
+The earth shook violently. Snow-mist splashed down, obscuring their vision. Vereesa nearly lost her footing. They were nearly unable to keep moving forward, battered by the icicles and snow-mist scattered by that single stomp.
 
 Then a whirlwind blew the snowflakes aside. The green dragon, riding the wind, caught up from behind and reached the sky above. Only then did Jace and the others make out the giant's lower body.
 
-It was far taller and larger than the Frosthammer giants they'd seen between the cliffs. And it didn't have much snow left on it — only a layer of ice covering its stone body like silver armor.
+It was far taller and larger than the Frostmaul giants they'd seen between the cliffs. And it didn't have much snow left on it — only a layer of ice covering its stone body like silver armor.
 
 The whole canyon shook again. Jace saw the giant brace its arm against a cliff face, lift a leg, and kick forward violently, sending a spray of frost crashing into the mist. From the other side came the pained howls of beasts.
 
 "How are we supposed to fight this?" Grede asked, climbing to his feet.
 
-Just then, great flapping wings descended beside them. Solamriel said in a low voice, "Grab hold of me..."
+Just then, great flapping wings descended beside them. Somaelir said in a low voice, "Grab hold of me..."
 
-Grede grabbed the green dragon's right claw. Jace grabbed her left claw. Windrunner hugged the dragon's arm. Once everyone had a firm grip, Solamriel raised her head, aimed high, and flapped her wings hard, surging into the sky.
+Grede grabbed the green dragon's right claw. Jace grabbed her left claw. Vereesa hugged the dragon's arm. Once everyone had a firm grip, Somaelir raised her head, aimed high, and flapped her wings hard, surging into the sky.
 
 They dodged the giant's raised arm as it lifted its fist, flew around its back, and closed in on its shoulder and head.
 
-That was when Jace saw the white furbolgs standing on the other side of the Frosthammer giant, holding various bows and spears. These furbolgs were all quite large, but no matter how you looked at it, their cold weapons and thrown weapons were no match for this behemoth.
+That was when Jace saw the white furbolgs standing on the other side of the Frostmaul giant, holding various bows and spears. These furbolgs were all quite large, but no matter how you looked at it, their hand weapons and thrown weapons were no match for this behemoth.
 
-The Frosthammer giant seemed to notice the sudden appearance of the green dragon. Its aged, elder-like head turned to track the ascending Solamriel. "I'm going in!"
+The Frostmaul giant seemed to notice the sudden appearance of the green dragon. Its aged, elder-like head turned to track the ascending Somaelir. "I'm going in!"
 
 Grede let go. A coil of lightning descended from the sky, wrapping around the warhammer he raised high. As he struck the back of the giant's neck in a blinding white flash —
 
-But that white flash was only a momentary sparkle amid the flying snow. After a piercing boom, the Frosthammer giant only swayed slightly, its back cracking open, but showing no apparent loss of mobility.
+But that white flash was only a momentary sparkle amid the flying snow. After a piercing boom, the Frostmaul giant only swayed slightly, its back cracking open, but showing no apparent loss of mobility.
 
-After all, this fellow was simply too massive. Even Princess Theradras of Maraudon would probably look like an overly chubby little sister pitiful before him. He probably didn't even know what pain was.
+After all, this fellow was simply too massive. Even Princess Theradras of Maraudon would probably look like a pitiful, overly chubby little sister before him. He probably didn't even know what pain was.
 
 Jace chanted a Shadow Bolt in midair and hurled it downward. When the dark light struck the giant's skin, it only dyed a patch of ice a purplish-black. It didn't seem to have any obvious effect either.
 
-Windrunner, who had landed on the giant's body along with Grede, danced around on the swaying boulder with an arrow nocked for a while but couldn't find a suitable "weak point" to attack. After all, the giant was made of stone from head to tail — equally hard all over.
+Vereesa, who had landed on the giant's body along with Grede, danced around on the swaying boulder with an arrow nocked for a while but couldn't find a suitable "weak point" to attack. After all, the giant was made of stone from head to tail — equally hard all over.
 
-"Keep smashing, Grede!" Windrunner had no choice but to shout. "Yeah, yeah, I'm on it, smashing now!"
+"Keep smashing, Grede!" Vereesa had no choice but to shout. "Yeah, yeah, I'm on it, smashing now!"
 
 Grede steadied himself on the giant's shoulder, gripped his hammer, and brought it down hard on the giant's face. The crackling lightning hammer caved a crater into the giant's cheek, solid and true.
 
 Rubble collapsed, kicking up a cloud of dust. Only now did the giant seem to realize that the few extra little things on its body were more threatening than the herd of white furbolgs on the ground. It began constantly swinging its arms and smashing its shoulders and back.
 
-A steam-whistle-like roar echoed from the Frosthammer giant's chest. Although a chunk of its face had been smashed away, its movements still didn't slow at all — if anything, its movements grew even more violent from rage.
+A steam-whistle-like roar echoed from the Frostmaul giant's chest. Although a chunk of its face had been smashed away, its movements still didn't slow at all — if anything, its movements grew even more violent from rage.
 
 A pair of stubby but impossibly heavy stone feet stamped back and forth in a panic. Now even the white furbolgs below couldn't hold their ground, retreating step by step to avoid this maddened giant.
 
-Windrunner was on the giant's shoulder now, preparing to enchant her arrow and try an arcane attack. The Frosthammer giant seemed to sense the gathering of magic, stepped sideways, and slammed its shoulder straight into the cliff wall.
+Vereesa was on the giant's shoulder now, preparing to enchant her arrow and try an arcane attack. The Frostmaul giant seemed to sense the gathering of magic, stepped sideways, and slammed its shoulder straight into the cliff wall.
 
-In a thunderous crash, the cliff shook. The sight made Jace's heart race — until he saw Windrunner leap out of a rock crevice at the last second.
+In a thunderous crash, the cliff shook. The sight made Jace's heart race — until he saw Vereesa leap out of a rock crevice at the last second.
 
 She stepped onto the giant's lower back boulder, then onto its heel, and landed steadily. But Grede was still clinging to the rocks on the other shoulder of the giant, unwilling to give up — making him admit defeat was just too hard.
 
-Just then, Jace suddenly thought — these Frosthammer giants were, in the end, a breed of powerful elemental beings. He wondered if the power of Neltharion could scare them off.
+Just then, Jace suddenly thought — these Frostmaul giants were, in the end, a breed of powerful elemental beings. He wondered if the power of Neltharion could scare them off.
 
 "Grede, your necklace!"
 
@@ -72,7 +72,7 @@ Jace had barely shouted it out when the giant reached over trying to grab the gr
 
 Soon, a faint golden glow appeared around the giant's neck — the dwarf had probably gone ahead and tried using it.
 
-Sure enough, as the golden glow of Neltharion's necklace dimmed, the Frosthammer giant seemed to calm considerably. It stopped roaring, stopped swinging its fists, and instead turned around, walking step by step toward the depths of the snow valley.
+Sure enough, as the golden glow of Neltharion's necklace dimmed, the Frostmaul giant seemed to calm considerably. It stopped roaring, stopped swinging its fists, and instead turned around, walking step by step toward the depths of the snow valley.
 
 Spears and stones still flew from behind the giant, but they only poked its back and clattered away.
 
@@ -86,7 +86,7 @@ Their fur was thicker than the Timbermaw furbolgs', their expressions much calme
 
 Quite a few of their weapons were large animal bones or stones — vastly different from the miscellaneous metal weapons in the Timbermaw furbolgs' hands.
 
-Jace guessed they probably rarely communicated with the outside world. Of course, in the freezing Frosthammer region, there weren't many opportunities for exchange either.
+Jace guessed they probably rarely communicated with the outside world. Of course, in the freezing Frostmaul region, there weren't many opportunities for exchange either.
 
 A slightly smaller furbolg stepped forward. He looked at Sola and said something in a language they couldn't understand.
 
@@ -108,7 +108,7 @@ Jace looked at this furbolg's eyes. They were no longer the clear yellow pupils 
 
 The furbolgs argued for a while. One furbolg angrily raised a spear at the head of the collapsed furbolg, as if he meant to execute him.
 
-"Is this the necromantic plague we heard about from the Timbermaw furbolgs?" Windrunner asked.
+"Is this the necromantic plague we heard about from the Timbermaw furbolgs?" Vereesa asked.
 
 Jace nodded. "Good thing we have medicine here — it's specifically for this disease."
 
@@ -118,7 +118,7 @@ Sola immediately translated Jace's words to the furbolgs. All the furbolgs looke
 
 Several furbolgs held down the sick furbolg and pried his mouth open. The smaller furbolg poured the medicine in. Sola said, "They haven't received medicine from Timbermaw in a long time. Those found to be sick... must be killed immediately."
 
-Windrunner said, "Think about the journey here — passing through Everlook, avoiding the hunters, then crossing these cliffs surrounded by giants to get here. It probably takes half a month. It's harder than hard."
+Vereesa said, "Think about the journey here — passing through Everlook, avoiding the hunters, then crossing these cliffs surrounded by giants to get here. It probably takes half a month. It's harder than hard."
 
 After drinking the medicine, the furbolg quickly closed his eyes and fell into a peaceful sleep. Several furbolgs kept their spears trained on him, as if ready to kill him at any moment.
 
@@ -126,12 +126,14 @@ After a while, the smaller furbolg finally breathed a sigh of relief. The furbol
 
 The smaller furbolg said something to Sola. Sola explained, "The medicine worked, Jace. They're very grateful, but they don't know what they can offer as thanks."
 
-"These furbolgs don't even know the Kaldorei language?" Windrunner asked. Sola explained, "Probably only their leader does."
+"These furbolgs don't even know the Kaldorei language?" Vereesa asked.
 
-"Good thing we have you — we would've wasted a lot more time otherwise." Jace put his hands on his waist and caught his breath. "Help us explain — say we only need a token of proof that we came here and delivered the medicine."
+Sola explained, "Probably only their leader does."
+
+"Good thing we have you — we would've wasted a lot more time otherwise." Jace put his hands on his hips and caught his breath. "Help us explain — say we only need a token of proof that we came here and delivered the medicine."
 
 Sola nodded and said something in the furbolg language. The furbolg beckoned, apparently inviting them to their dwelling.
 
 Grede stroked his beard. "I wonder if we can drink furbolg ale again this time? In a place this cold, it might have a unique flavor."
 
-Jace glanced back at the valley. He hoped this time things would go smoothly and those Black Riders wouldn't catch up. Even if they did... it'd be best if he found that scythe first.
+Jace glanced back at the valley. He hoped this time things would go smoothly and those Dark Riders wouldn't catch up. Even if they did... it'd be best if he found that scythe first.

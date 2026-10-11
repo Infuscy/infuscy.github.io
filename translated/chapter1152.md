@@ -4,13 +4,13 @@ Traveling quickly through different nations, cultures, and towns… Jace could i
 
 It might be the scent of some flower, or the smell of smoke and soot, or the aroma of bread mingled with roasted meat, or the fragrance of coffee or floral tea.
 
-When they descended on the royal city along the shores of Lake Lordamere, seeing the green-tiled yellow walls shrouded in morning mist, the towering palaces that had stood for a thousand years — aside from the faint smell of aquatic plants along the waterfront, the whole city was pervaded by a scent Jace could hardly describe accurately.
+When they descended on the royal city along the shores of Lordamere Lake, seeing the green-tiled yellow walls shrouded in morning mist, the towering palaces that had stood for a thousand years — aside from the faint smell of aquatic plants along the waterfront, the whole city was pervaded by a scent Jace could hardly describe accurately.
 
 He used to say it smelled like "childhood," but now he wasn't so sure either.
 
-The wyvern landed at the Farstriders' temporary encampment on the eastern wall. A silver-white wyvern crouched below, and when Vereesa's blue wyvern spotted the others, it immediately let out a low, excited cry. The other wyverns responded enthusiastically, as if the two beasts hadn't seen their own kind in a very long time.
+The dragonhawk landed at the Farstriders' temporary encampment on the eastern wall. A silver-white dragonhawk crouched below, and when Vereesa's blue dragonhawk spotted the others, it immediately let out a low, excited cry. The other dragonhawks responded enthusiastically, as if the two beasts hadn't seen their own kind in a very long time.
 
-Jace came to the edge of the wall and looked down. A golden Quel'Thalas sailboat was docked on Lake Lordamere, quite conspicuous among the merchant ships and Dalaran ferries.
+Jace came to the edge of the wall and looked down. A golden Quel'Thalas sailboat was docked on Lordamere Lake, quite conspicuous among the merchant ships and Dalaran ferries.
 
 "Is that the one?" Jace pointed below and asked.
 
@@ -18,9 +18,11 @@ Jace came to the edge of the wall and looked down. A golden Quel'Thalas sailboat
 
 "What for?" Jace asked.
 
-"You said we can't rely on just one Draenor teleportation coordinate." Vereesa reminded him softly. Jace nodded. "True, but it sounds like you're not in such a hurry anymore."
+"You said we can't rely on just one Draenor teleportation coordinate." Vereesa reminded him softly.
 
-"After getting my hands on a teleportation coordinate… I've calmed down a lot," Vereesa said. "The expression on that orc chieftain Drek'Thar's face when he looked at this 'Draenei crystal' made my skin crawl. It makes me worry that this is really a teleportation stone leading to some demon fortress."
+Jace nodded. "True, but it sounds like you're not in such a hurry anymore."
+
+"After getting my hands on a teleportation coordinate… I've calmed down a lot," Vereesa said. "The expression on that orc chieftain Drek'Thar's face when he looked at this 'draenei crystal' made my skin crawl. It makes me worry that this is really a teleportation stone leading to some demon fortress."
 
 "If there really are no other sources to find, then we'll go to Dalaran," Jace said.
 
@@ -40,11 +42,11 @@ He raised his hand and waved vigorously. The small figure noticed the movement, 
 
 Henny lifted her skirt and ran across the muddy street, her smile growing brighter. She first gave the elf beside her a tight hug, even making Vereesa lower her head somewhat shyly, then threw herself into Jace's arms.
 
-"I really can't get used to how tall you've grown, I say…" She tidied her hair with effort. "I saw the letter sent from the elves. Honestly, being able to help us find a ship was a huge help. Your father has been asking around the shores of Lake Lordamere recently, seeing if there's anyone who could help move luggage to Stormwind, but there was never a suitable price. An elf sailboat, I say, I never in my life thought I'd get to ride on an elf's boat."
+"I really can't get used to how tall you've grown, I say…" She tidied her hair with effort. "I saw the letter sent from the elves. Honestly, being able to help us find a ship was a huge help. Your father has been asking around the shores of Lordamere Lake recently, seeing if there's anyone who could help move luggage to Stormwind, but there was never a suitable price. An elf sailboat, I say, I never in my life thought I'd get to ride on an elf's boat."
 
 It was obvious Henny was truly excited, talking all the way as she walked, and even gesticulating.
 
-Her mother had always loved novel things. Jace knew this very well. Sometimes he even felt that his own birth had cost his mother the chance to go out and explore. Otherwise, she might have become an assassin or rogue like Pasonia Shaw.
+His mother had always loved novel things. Jace knew this very well. Sometimes he even felt that his own birth had cost his mother the chance to go out and explore. Otherwise, she might have become an assassin or rogue like Pathonia Shaw.
 
 But the bigger possibility was that she would have gotten lost in some unknown corner of Lordaeron, dying under the blade of a gnoll or naga hunter, just like other reckless travelers.
 
@@ -70,7 +72,7 @@ Rounding a street corner, Henny said, "The letter mentioned you'd arrive in abou
 
 Vereesa immediately made a frightened expression that said "why are you telling her everything," and Henny was clearly also a bit surprised.
 
-Jace continued explaining: "You should know there are some orcs hiding in the Alterac Mountains. Vereesa is the Ranger-General of Quel'Thalas. The Farstriders have been cooperating with the region to hunt orcs, so she went to Strahnbrad to understand the situation. That's what delayed us."
+Jace continued explaining: "You should know there are some orcs hiding in the Alterac Mountains. Vereesa is a Ranger Lord of Quel'Thalas. The Farstriders have been cooperating with the region to hunt orcs, so she went to Strahnbrad to understand the situation. That's what delayed us."
 
 "Strahnbrad is already a place teeming with thieves and murderers," Henny pointed east. "Might as well let them fight the orcs. Good for everyone."
 
@@ -86,7 +88,7 @@ After saying that, she looked at the silent Jace and asked, "You're not trying t
 
 "What happened, ma'am?" Vereesa asked immediately. Jace also frowned slightly.
 
-Henny said, "Some time ago, in the Great Graveyard of Silverpine Forest, west of Lordamere Harbor, a patrol ran into a group of orcs. Many orcs died, and we also lost many people there, including that Wade of the Blumfield family. Remember him? Little Wade's father."
+Henny said, "Some time ago, at the great cemetery in Silverpine Forest, west of Lordamere Harbor, a patrol ran into a group of orcs. Many orcs died, and we also lost many people there, including that Wade of the Blumfield family. Remember him? Little Wade's father."
 
 "I remember," Jace said.
 
@@ -116,12 +118,12 @@ The demonic blood herb Jace had previously searched for was later named Gromsblo
 
 When searching for that herb, Jace hadn't felt the reality of that familiar name. But when the name came from his mother's lips and had even killed someone he knew, the impact and pressure were completely different.
 
-Even without the Scourge plague, even without the destruction of the Kingdom of Lordaeron, Grom Hellscream alone was reason enough to leave Lake Lordamere. After all, his parents couldn't stay behind the royal city's thick walls forever.
+Even without the Scourge plague, even without the destruction of the Kingdom of Lordaeron, Grom Hellscream alone was reason enough to leave Lordamere Lake. After all, his parents couldn't stay behind the royal city's thick walls forever.
 
 Counting on the Kingdom of Lordaeron and the Farstriders to hunt down Grom was impossible. Orgrim survived ten years later by keeping a low profile, while Grom survived all the way to later times purely through combat prowess and powerful wilderness survival skills.
 
-Even after experiencing so many dangers, even wielding Ursales, Jace dared not say he could handle this orc warrior.
+Even after experiencing so many dangers, even wielding Ulthalesh, Jace dared not say he could handle this orc warrior.
 
-No matter how skilled he was at demon magic, no matter how skilled he was at shadow and fel power, no matter how powerful Ursales was, could it raise him to the level of the Archdemon Mannoroth? Could it raise him to the level of the Forest Lord Cenarius?
+No matter how skilled he was at demon magic, no matter how skilled he was at shadow and fel power, no matter how powerful Ulthalesh was, could it raise him to the level of the pit lord Mannoroth? Could it raise him to the level of the Forest Lord Cenarius?
 
 Even if they encountered Grom, it would be just one axe swing.

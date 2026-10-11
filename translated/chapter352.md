@@ -1,6 +1,6 @@
 ## Chapter 352: Life Skills
 
-The next morning, Jace left the inn and went to the alchemist's shop, where he spent forty-six silver on two Living Root plants to bring to Ursula. On the way back he ran into Amy, who was just coming out of the Wizard Sanctum.
+The next morning, Jace left the inn and went to the alchemist's shop, where he spent forty-six silver on two Liferoot plants to bring to Ursula. On the way back he ran into Amy, who was just coming out of the Wizard's Sanctum.
 
 "Amy. Morning," he called from a distance.
 
@@ -8,11 +8,11 @@ Amy glanced over. "Jace, it's almost noon. Are you getting lunch?"
 
 "Then let me treat you this time."
 
-Jace brought Amy to the Blue Heron and took a corner table on his own initiative. He ordered two mugs of milk, a pumpkin pie, a few slices of smoked ham, and some chunks of bread.
+Jace brought Amy to the Blue Recluse and took a corner table on his own initiative. He ordered two mugs of milk, a pumpkin pie, a few slices of smoked ham, and some chunks of bread.
 
 "What's the latest on the Dark Portal?"
 
-Amy glanced toward the door. "It's only been a few days. I don't know how things are going yet. Master Andormas told me to be patient — he said the situation at the Dark Portal isn't dire enough to need that many apprentice mages… though I have a friend who's about to become a full-fledged mage. She already set out for Nethergarde Keep the day before yesterday."
+Amy glanced toward the door. "It's only been a few days. I don't know how things are going yet. Master Andromath told me to be patient — he said the situation at the Dark Portal isn't dire enough to need that many apprentice mages… though I have a friend who's about to become a full-fledged mage. She already set out for Nethergarde Keep the day before yesterday."
 
 "If it's something you can't control, there's no point rushing it," Jace said. "Actually, I'm heading out of town again in a few days. Not sure when I'll be back — maybe a month or two? Hard to say."
 
@@ -26,9 +26,9 @@ Amy glanced toward the door. "It's only been a few days. I don't know how things
 
 "He cast Polymorph, and I turned into a sheep. Isn't that normal?" Jace asked.
 
-The young mage stared at him in disbelief. "Who actually polymorphs their own apprentice? And not even to teach Polymorph — that's way too dangerous. I suspect he's already violated Wizard Sanctum regulations."
+The young mage stared at him in disbelief. "Who actually polymorphs their own apprentice? And not even to teach Polymorph — that's way too dangerous. I suspect he's already violated Wizard's Sanctum regulations."
 
-Jace sighed. "Blame me, not him. My skills aren't there yet — I couldn't manage to Counterspell his Polymorph in time. Sigh…"
+Jace sighed. "Blame me, not him. My skills aren't there yet — I couldn't manage to Counterspell his Polymorph in time."
 
 "You expected to counter an Archmage's spell on your very first try?" Amy said. "Counterspell is an offensive spell, Jace. Your own ability is one factor, but your opponent's skill matters too. It's not like Arcane Intellect or Mage Armor — you're not exactly going to resist your own casting, are you?"
 
@@ -56,9 +56,9 @@ Jace asked, "So what exactly is conjured food?"
 
 Amy smiled. "Conjured sausage could never match real meat for nutrition. Conjured apples, conjured bread — it's all just arcane energy. It's just that mages of different skill levels can produce different flavors. It restores stamina in the form of arcane energy and gives you a feeling of fullness, without wrecking your guts the way pure arcane power would. So if you ate nothing but conjured food and never touched real food, you'd still run into problems eventually. Of course, it's a lot better than eating nothing at all."
 
-"That's why so many Archmages are so thin — they eat too much conjured food so they don't waste working time," Amy said, scooping a piece of pumpkin with her spoon. "Master Andormas is the exception. He hardly ever eats his own conjurations. He eats well every day and keeps up his exercise routine. Nothing like my father at all."
+"That's why so many Archmages are so thin — they eat too much conjured food so they don't waste working time," Amy said, scooping a piece of pumpkin with her spoon. "Master Andromath is the exception. He hardly ever eats his own conjurations. He eats well every day and keeps up his exercise routine. Nothing like my father at all."
 
-"Maybe somewhere in this world there's a mage who can conjure real food… but I certainly can't, and neither can Father. At least as far as I know, there's no such mage in the Wizard Sanctum. Maybe the Kirin Tor has one. If Archmage Antonidas could conjure a bowl of real Trueshear meat-and-fruit ice cream, I wouldn't be the least bit surprised."
+"Maybe somewhere in this world there's a mage who can conjure real food… but I certainly can't, and neither can Father. At least as far as I know, there's no such mage in the Wizard's Sanctum. Maybe the Kirin Tor has one. If Archmage Antonidas could conjure a bowl of real strawberry ice cream, fruit chunks and all, I wouldn't be the least bit surprised."
 
 Seeing Jace still looking expectant, Amy said softly, "Fine. Let me make you something simple."
 
@@ -76,7 +76,7 @@ But when he bit into it, it tasted sweet and perfectly fine, and it was genuinel
 
 "Ah… maybe I shouldn't have said that," she added quickly.
 
-"That's why the Wizard Sanctum specifically has that warning written up — 'The Arcane is addictive' — to remind mages," Jace said.
+"That's why the Wizard's Sanctum specifically has that warning written up — 'The Arcane is addictive' — to remind mages," Jace said.
 
 "What about water?" he asked.
 
@@ -94,11 +94,11 @@ Jace gulped it down in one go and set the mug down. Amy murmured an incantation,
 
 "I don't know if I should teach you…" Amy sighed. "Ah, well. It's not like anything terrible will happen."
 
-"Remember this incantation, Jace — *Wader, Tika, Kalt.* You're using the Arcane to condense water elementals from the air, not conjuring them out of nothing. Stabilize the connection to the Ley Lines, and when you're still getting the hang of it, your gestures need to be precise."
+"Remember this incantation, Jace — *Vald, Tika, Kalt.* You're using the Arcane to condense the element of water out of the air, not conjuring them out of nothing. Stabilize the connection to the ley lines, and when you're still getting the hang of it, your gestures need to be precise."
 
 She finished the milk in her own mug, then chanted and cast again to fill her mug back up as a demonstration.
 
-Jace nodded, drained the water from his own mug, and focused the way he did when casting arcane magic — finding the feel of the Ley Lines — then chanted, "*Wader, Tika, Kalt…*"
+Jace nodded, drained the water from his own mug, and focused the way he did when casting arcane magic — finding the feel of the ley lines — then chanted, "*Vald, Tika, Kalt…*"
 
 Then he saw the bottom of his wooden mug start to blacken, and a tiny flicker of flame appeared.
 
@@ -110,17 +110,10 @@ Jace looked at his finger. Honestly, the little spark hadn't even hurt much.
 
 After rubbing off the ash, aside from a bit of redness, there was nothing wrong with it.
 
-"I'm fine, Amy." Seeing that Jace's finger was unharmed and that no one nearby had noticed, Amy let out a breath.
+"I'm fine, Amy."
 
-"I'd better go own up to the boss myself. Otherwise I'm afraid to come back here," Jace said, looking at the scorched bottom of the mug. "At this rate, when I apply to become a full-fledged mage, I'll probably give Master Andormas a heart attack."
+Seeing that Jace's finger was unharmed and that no one nearby had noticed, Amy let out a breath.
 
-Amy laughed. "It's only your first time. It's probably because you've had so little exposure to frost magic or water elementals. But don't practice in the Blue Heron again. Never mind the boss being upset — if my father found out, he'd never let you hear the end of it."
+"I'd better go own up to the owner myself. Otherwise I'm afraid to come back here," Jace said, looking at the scorched bottom of the mug. "At this rate, when I apply to become a full-fledged mage, I'll probably give Master Andromath a heart attack."
 
-## Flags
-- **POV:** Third person, Jace.
-- **Names:** 艾米 → Amy Marin (per glossary). 安多玛斯 → Andormas (per glossary). 安东尼达斯 → Antonidas (per glossary).
-- **Places:** 蓝色隐士 → the Blue Heron (per glossary). 巫师圣殿 → Wizard Sanctum (per glossary). 守望堡 → Nethergarde Keep (per glossary).
-- **Lore terms:** 活根草 → Living Root (per glossary). 反制咒 → Counterspell (per glossary). 变形术 → Polymorph (per glossary). 奥术智慧 → Arcane Intellect (per glossary). 法师护甲 → Mage Armor (per glossary). 造食术 → Conjure Food. 造水术 → Conjure Water. 魔网 → the Ley Lines. 肯瑞托 → Kirin Tor (per glossary). 奥达曼 → Uldaman (Titan ruin; not in glossary). 石腭怪 → troggs. 熔岩外壳 → Molten Shell (trogg incantation; tentative).
-- **Spell incantation:** 瓦德，提卡，卡尔特 → *Wader, Tika, Kalt* (Conjure Water; phonetic rendering, not canonical).
-- **Tone note:** Amy's lecture on conjured food doubles as worldbuilding about arcane addiction; Jace's dry internal voice carries the scene.
-- **Translation choice:** 草莹果肉冰激凌 rendered as "Trueshear meat-and-fruit ice cream" (a playful Amy invention; not a canonical dish).
+Amy laughed. "It's only your first time. It's probably because you've had so little exposure to frost magic or the element of water. But don't practice in the Blue Recluse again. Never mind the owner being upset — if my father found out, he'd never let you hear the end of it."

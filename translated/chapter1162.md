@@ -8,13 +8,13 @@ The three of them chatted about everything they'd seen in and out of the city al
 
 Vic stared after that white horse all the way until it vanished at the end of the road — clearly envious. Jace watched him and thought to himself: *Just you wait, old Vic.*
 
-Reaching the stables, Hennie stayed outside, shielding her eyes from the slightly reddish sunlight as she watched over the area. Vic couldn't hold back any longer and leaned in to peer inside.
+Reaching the stables, Henny stayed outside, shielding her eyes from the slightly reddish sunlight as she watched over the area. Vic couldn't hold back any longer and leaned in to peer inside.
 
 Jace walked up to the tower side and knocked on the door. "Administrator, sir?"
 
 A voice called back from within, "One moment, sir! Have your credentials ready — I'll be right there!"
 
-After a short while the door opened. The administrator saw Jace and immediately broke into a ingratiating smile. "Ah, it's Master Sesso! You certainly didn't waste any time."
+After a short while the door opened. The administrator saw Jace and immediately broke into an ingratiating smile. "Ah, it's Master Sesso! You certainly didn't waste any time."
 
 "Oh? You were expecting me, sir?" Jace asked.
 
@@ -30,11 +30,11 @@ As he spoke, the administrator suddenly stopped and asked, "Or are the documents
 
 So the King still remembered. Jace realized he'd been petty-minded about it.
 
-"Then there's no problem at all." The administrator smiled toward Vic and Hennie by the stables. "You must be Master Sesso and his wife. A great pleasure."
+"Then there's no problem at all." The administrator smiled toward Vic and Henny by the stables. "You must be Mr. Sesso and his wife. A great pleasure."
 
 After the two of them shook the administrator's hand one after the other, he gestured toward the stables and said, "Now then — let me take you to meet our Arna."
 
-Old Vic glanced at Jace, then at Hennie, nervously rubbing his hands together. His steps grew increasingly unnatural. Clearly, he'd reached the peak of anticipation.
+Old Vic glanced at Jace, then at Henny, nervously rubbing his hands together. His steps grew increasingly unnatural. Clearly, he'd reached the peak of anticipation.
 
 When the administrator led that beautiful black mare out of the stable, Vic's stare went completely glassy, as if he'd been struck dumb.
 
@@ -42,13 +42,13 @@ Truth be told, although Jace had been with Arna for a long time, beyond knowing 
 
 But he knew full well — his father had been a cavalryman. He'd know better than anyone what made a good horse.
 
-Vic was practically beaming ear to ear by now. He turned back to Hennie and said, "I'd bet my last copper that even the Trollbanes have seldom seen such a fine highland mare."
+Vic was practically beaming ear to ear by now. He turned back to Henny and said, "I'd bet my last copper that even the Trollbanes have seldom seen such a fine highland mare."
 
-"Aren't you exaggerating a bit, Vic?" Hennie said, sounding none too pleased — almost as if she were jealous of the mare.
+"Aren't you exaggerating a bit, Vic?" Henny said, sounding none too pleased — almost as if she were jealous of the mare.
 
 "Maybe not, Mom," Jace said. "After all, this is King Varian's horse."
 
-Hennie nodded, somewhat reluctantly. Vic asked, "Could I…?"
+Henny nodded, somewhat reluctantly. Vic asked, "Could I…?"
 
 "Of course." Jace nodded.
 
@@ -62,13 +62,15 @@ Soon they seemed to reach an understanding. Vic led Arna a ways into the paddock
 
 Arna trotted around in circles a few times, not quite used to it at first, but settled down before long. Even Jace could feel the coordination developing between rider and mount.
 
-"Your father was a cavalryman before, wasn't he, Master Sesso?" the administrator asked, sidling up. "Anyone but me could tell at a single glance, sir." Jace smiled.
+"Your father was a cavalryman before, wasn't he, Master Sesso?" the administrator asked, sidling up.
 
-As Vic rode Arna around the paddock, the slightly weary, beaten-down air he usually carried was swept clean away in an instant. It even reminded Jace of those white-clad cavalrymen charging fearlessly on their brave warhorses straight into the lines of demon guards in front of Nethergarde Keep.
+"Anyone but me could tell that at a single glance, sir." Jace smiled.
+
+As Vic rode Arna around the paddock, the slightly weary, beaten-down air he usually carried was swept clean away in an instant. It even reminded Jace of those white-clad cavalrymen charging fearlessly on their brave warhorses straight into the lines of felguards in front of Nethergarde Keep.
 
 For a moment, Jace even felt that all his worrying along the way had been somewhat unnecessary. It was hard to imagine a knight like that being taken down easily by a few murlocs or naga.
 
-Hennie watched her husband too, smiling and shyly clasping her hands in front of her. In that instant, Jace understood exactly what had made this young farmer's daughter flee Brill without a second thought all those years ago.
+Henny watched her husband too, smiling and shyly clasping her hands in front of her. In that instant, Jace understood exactly what had made this young farmer's daughter flee Brill without a second thought all those years ago.
 
 Vic rode Arna back to the stable side and dismounted with a crisp hop — but he'd clearly underestimated his own weight. The solid thud of his landing startled even himself.
 
@@ -86,4 +88,4 @@ On the way back, leading Arna along, Vic seemed to have an endless stream of thi
 
 Jace had heard many of these stories several times before, of course, but today it felt like the first time he sensed there wasn't much exaggeration in them. Vic didn't sound like he was boasting.
 
-By now the setting sun had dipped low, the wall's shadow falling across the street ahead. Listening to the clopping of hooves, Hennie hugged Jace's arm tightly.
+By now the setting sun had dipped low, the wall's shadow falling across the street ahead. Listening to the clopping of hooves, Henny hugged Jace's arm tightly.

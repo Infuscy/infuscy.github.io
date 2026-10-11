@@ -10,39 +10,41 @@ Grede wasn't a professional spellcaster, but communicating with the elements was
 
 Grede had grown up learning from the Wildhammer sages, spent every day dealing with the sky, and made a career of calling down lightning on his enemies as a veteran gryphon rider. He was far more suited for this than Jace, a shadow manipulator and arsonist. So Grede took charge of the main ritual.
 
-The rest of them, following Thunderaan's instructions, arranged several stones into a shape Jace didn't recognize — some elemental rune or other — and placed his Caged Prison on the tallest stone in the center.
+The rest of them, following Thunderaan's instructions, arranged several stones into a shape Jace didn't recognize — some elemental rune or other — and placed the Brass Prison on the tallest stone in the center.
 
-Whether it was the wild winds swirling around Freewind Post adding to the cage's chill, or the elemental soul inside the cage fueling the frenzy of the gale, by the time Jace and Vereesa had set the stones and cage in place, with the Vial of Rebirth positioned at the center, every step backward felt like the wind was rocking their bodies, making them increasingly unsteady.
+Whether it was the wild winds swirling around Freewind Post adding to the cage's chill, or the elemental soul inside the cage fueling the frenzy of the gale, by the time Jace and Vereesa had set the stones and cage in place, with the Vessel of Rebirth positioned at the center, every step backward felt like the wind was rocking their bodies, making them increasingly unsteady.
 
 By the time they'd left the stone formation, Jace felt like if he relaxed his footing even a little, he'd be flung off the platform and sent tumbling down the mountain. And at this wind speed, he wasn't even worried about dying from the fall — he'd probably be smashed against the cliff face long before he ever hit the ground. No chance of actually landing.
 
 Looked like having Grede handle the ritual was the safest bet after all. That dwarf, with his low center of gravity and considerable mass, stood motionless in the middle of the stone formation like a boulder.
 
-The wind grew increasingly violent. Jace's robes and cloak flapped and snapped in the gale. Beside him, Vereesa and Sora clutched their own cloaks and skirts tight. The wind had gone from simply strong to genuinely terrifying, even for adventurers who'd been through countless horrors.
+The wind grew increasingly violent. Jace's robes and cloak flapped and snapped in the gale. Beside him, Vereesa and Sola clutched their own cloaks and skirts tight. The wind had gone from simply strong to genuinely terrifying, even for adventurers who'd been through countless horrors.
 
 Grede stood at the center of the whirlwind, head bowed, back to them. He seemed to be murmuring something, but none of his friends could hear his words or see his lip movements.
 
-Needleflame gripped the black obsidian hilt of DESTROY tight, staring upward, feet planted wide, digging into the ground. There was no way she was repeating her last performance — getting blown away by a gust of sand before the fight even started.
+Needleflame gripped the black obsidian hilt of Perdition's Blade tight, staring upward, feet planted wide, digging into the ground. There was no way she was repeating her last performance — getting blown away by a gust of sand before the fight even started.
 
 Vereesa glanced at her, then at Jace nearby. "Are you ready to face a powerful wind elemental lord, Jace?"
 
-"Wind elementals are just like fire elementals — they can't control their temper," Jace said. "Twisting their emotions won't let me control their minds like a black dragon, but at least I can disrupt the power they can muster. I already tried it successfully back at the Temple of Thunderaan, when I dealt with Prince Salsalan."
+"Wind elementals are just like fire elementals — they can't control their temper," Jace said. "Twisting their emotions won't let me control their minds like a black dragon, but at least I can disrupt the power they can muster. I already tried it successfully back at the Temple of Thunderaan, when I dealt with Prince Sarsalun."
 
-"So that was you using shadow to disrupt the storm?" Vereesa said. "What did you think was happening?" Jace asked.
+"So that was you using shadow to disrupt the storm?" Vereesa said.
+
+"What did you think was happening?" Jace asked.
 
 "Grede was bragging that his might had shaken the wind," Vereesa said, glancing disdainfully toward the magic circle. "And I actually believed him at the time. Later I couldn't help wondering — at first neither of us could even lift our heads against the wind pressure. If the wind hadn't weakened enough for him to raise his arm, there's no way he could've thrown Sulfuras."
 
-"Do you think the Windseeker will fight us?" Sora asked.
+"Do you think the Windseeker will fight us?" Sola asked.
 
-"Don't overestimate the sanity of these Old God followers, Sora," Vereesa said. "Think about the Twilight's Hammer in Shadowforge City. Think about Ragnaros and his followers."
+"Don't overestimate the sanity of these Old God followers, Sola," Vereesa said. "Think about the Twilight's Hammer in Shadowforge City. Think about Ragnaros and his followers."
 
 Jace glanced south toward the desert. It was dark in that direction — nothing there.
 
 Suddenly, the hide roof of a tauren hut to his right was torn clean off. The wind had finally grown strong enough to damage these structures that had stood at Freewind Post's peak for who knows how many years. As the first roof came off, ripped away and sent flying, more followed — hide walls tore, wooden posts were ripped from the ground.
 
-Lightning flashed across the sky, illuminating the dark clouds like scales flickering across the belly of a massive black fish swimming beneath the surface of the water. The air grew colder. Raindrops landing on hands and necks were shockingly icy. Jace looked back at the Vial of Rebirth in Grede's raised hand — the power within it was gone. It had become a dull, pale, ordinary-looking stone.
+Lightning flashed across the sky, illuminating the dark clouds like scales flickering across the belly of a massive black fish swimming beneath the surface of the water. The air grew colder. Raindrops landing on hands and necks were shockingly icy. Jace looked back at the Vessel of Rebirth in Grede's raised hand — the power within it was gone. It had become a dull, pale, ordinary-looking stone.
 
-The Caged Prison in front of him had already crumbled to ash, only a few specks of dust remaining, growing fewer by the moment.
+The Brass Prison in front of him had already crumbled to ash, only a few specks of dust remaining, growing fewer by the moment.
 
 Another roll of thunder rumbled across the sky. The lightning didn't vanish immediately — it rolled back and forth, flickering continuously, gradually forming a ring of silver chains.
 
@@ -54,9 +56,9 @@ Between his electrically crackling eyes, lightning and wind interwove into a con
 
 The Grimtotem village had already been obliterated. If any tauren wanted to live here again, they'd need to rebuild from scratch.
 
-When Thunderaan had asked Jace if he was even weaker than Salsalan, that slightly guilty tone had been far too modest. In his current form, even without the essence the Fire Lord had stolen, he was more imposing than the fully revived version Jace had seen in-game. Even the tallest pillar in all of Thousand Needles — Freewind Post itself — didn't seem that impressive next to his body now.
+When Thunderaan had asked Jace if he was even weaker than Sarsalun, that slightly guilty tone had been far too modest. In his current form, even without the essence the Firelord had stolen, he was more imposing than the fully revived version Jace had seen in-game. Even the tallest pillar in all of Thousand Needles — Freewind Post itself — didn't seem that impressive next to his body now.
 
-No wonder this guy had dared to duel the Fire Lord himself. Facing Ragnaros's projection outside the Firelands, if this Son of the Wind recovered to his full glory, the outcome between the two was anyone's guess.
+No wonder this guy had dared to duel the Firelord himself. Facing Ragnaros's projection outside the Firelands, if this Son of the Wind recovered to his full glory, the outcome between the two was anyone's guess.
 
 Just then, Grede stumbled out of the now-scattered stone elemental circle, craned his neck up, and bellowed, "Prince Thunderaan the Windseeker! Are you revived or not? Time to make good on your promise!"
 
@@ -74,9 +76,9 @@ With a roar of exertion, Thunderaan pulled a cluster of metallic, silver-glowing
 
 Thunderfury?
 
-It didn't look quite the way Jace remembered it. In the Wind Prince's hand, the blade wasn't as elegantly long. But there was no doubt — this was a greatsword brimming with the power of thunder.
+It didn't look quite the way Jace remembered it. In the Prince of Air's hand, the blade wasn't as elegantly long. But there was no doubt — this was a greatsword brimming with the power of thunder.
 
-"Damn," Vereesa muttered, raising Belanoor. Sora gripped her Scepter of Dominion tight. Jace's hand was already on the spellcloth wrapping Uthalesh. But in the next second, Thunderaan suddenly flexed, and the sword he'd just pulled from the black clouds shattered into pieces!
+"Damn," Vereesa muttered, raising Belanur. Sola gripped her Staff of Dominance tight. Jace's hand was already on the spellcloth wrapping Ulthalesh. But in the next second, Thunderaan suddenly flexed, and the sword he'd just pulled from the black clouds shattered into pieces!
 
 He crushed his own Thunderfury?
 

@@ -2,7 +2,7 @@
 
 By the forest canyon of Deadwind Pass, a traveler in a dark red cloak, his face hidden beneath a heavy hood, rode a black horse north along the trail.
 
-Midnight's speed far exceeded Jace's expectations. When he'd first mounted the horse, looking at his gaunt frame — that barely-there vitality of a dying creature — he'd worried that with his bundles of books, luggage bags, and Mor'fel in his arms, he'd crush what little flesh and bone the horse had left.
+Midnight's speed far exceeded Jace's expectations. When he'd first mounted the horse, looking at his gaunt frame — that barely-there vitality of a dying creature — he'd worried that with his bundles of books, luggage bags, and Morophil in his arms, he'd crush what little flesh and bone the horse had left.
 
 But to this undead creature, the weight on his back seemed to not exist at all. He simply turned in place, leaped across the courtyard, and headed outward, and before Jace knew it, they'd passed through the town, entered the forest, and were in the valley.
 
@@ -24,11 +24,11 @@ Even with some expectation of this horse's speed, Jace still felt they'd left Ka
 
 They were still in the valley of Deadwind Pass. They hadn't even reached the northernmost road that went through Duskwood toward the Black Morass. But Karazhan's dark power already seemed much weaker. By Jace's perception, the shadow energy here was even thinner than the sky over Raven Hill as he remembered it.
 
-"That mage's efforts have had an effect, master." Mor'fel said with a resentful tone. "Even though I went into Karazhan with you, helped you reach the library, and even had a decent time along the way, that doesn't mean I want to watch this powerful void realm shrink back."
+"That mage's efforts have had an effect, master." Morophil said with a resentful tone. "Even though I went into Karazhan with you, helped you reach the library, and even had a decent time along the way, that doesn't mean I want to watch this powerful void realm shrink back."
 
-"So you want the Burning Legion to use that tower's power to invade Azeroth?" The imp grabbed Jace's backpack strap and shouted. "Think about how you provoked Brutallus the Pit Lord. If he gets a chance to come to Azeroth, he'll come find you first and kill you!"
+"So you want the Burning Legion to use that tower's power to invade Azeroth?" The imp grabbed Jace's backpack strap and shouted. "Think about how you provoked Brutallus the pit lord. If he gets a chance to come to Azeroth, he'll come find you first and kill you!"
 
-"The Seat of Kil'jaeden is a thoroughly corrupted demon realm, extremely close to the Twisting Nether," Mor'fel said smugly. "Dying there heavily damages a demon's soul. Let alone the fact that I specifically chose an extremely painful death for him. Hopefully Kil'jaeden thinks the cost of resurrecting him is worth it."
+"The Throne of Kil'jaeden is a thoroughly corrupted demon realm, extremely close to the Twisting Nether," Morophil said smugly. "Dying there heavily damages a demon's soul. Let alone the fact that I specifically chose an extremely painful death for him. Hopefully Kil'jaeden thinks the cost of resurrecting him is worth it."
 
 "Don't be naive, she-demon," the imp emphasized. "Brutallus is the perfect vanguard! And the Burning Legion's soul fuel is endless—"
 
@@ -38,9 +38,9 @@ Had Khadgar and the Curator really done this? In just two weeks?
 
 It seemed Khadgar's excitement wasn't a joke. At this rate, maybe all of southern Elwynn — including those two towns — could escape the torment of the past dozen years.
 
-Then Grand Town could drop its self-deprecating name "Duskwood." The entire Sunlit Woods could shed its "dusk." And Raven Hill could come back to life, with the heroes sleeping in the great cemetery freed from the plague of necrotic energy and resting in peace forever.
+Then Grand Hamlet could drop its self-deprecating name "Darkshire." All of Brightwood could shed its "dusk." And Raven Hill could come back to life, with the heroes sleeping in the great cemetery freed from the plague of necrotic energy and resting in peace forever.
 
-In the years he'd spent in Stormwind, Jace had gotten used to the land south of the River Neltharion being a place full of undead and evil beasts. When he'd agreed to go to Karazhan with Khadgar, he hadn't really felt the significance of the mission.
+In the years he'd spent in Stormwind, Jace had gotten used to the land south of the Nazferiti River being a place full of undead and evil beasts. When he'd agreed to go to Karazhan with Khadgar, he hadn't really felt the significance of the mission.
 
 It wasn't until he saw the sunlight here that he felt something like real meaning.
 
@@ -58,9 +58,9 @@ He looked down at the black horse with green flame burning in its eyes, then gla
 
 Not to mention the horned demon with folded wings in his arms.
 
-He pointed at a collapsed stone house deeper in the forest. "Let's rest there for a while. We'll travel after dark. I'll find some magicweave to blindfold Midnight."
+He pointed at a collapsed stone house deeper in the forest. "Let's rest there for a while. We'll travel after dark. I'll find some mageweave to blindfold Midnight."
 
-After binding Midnight's eyes with magicweave cloth, he could still see a bit of demon fire glow through it, but it was already much "friendlier" than before. As Jace had expected, this horse didn't rely on his eyes to see. He showed no resistance or displeasure at being blindfolded.
+After binding Midnight's eyes with mageweave cloth, he could still see a bit of demon fire glow through it, but it was already much "friendlier" than before. As Jace had expected, this horse didn't rely on his eyes to see. He showed no resistance or displeasure at being blindfolded.
 
 He was almost like a "demon hunter horse." And considering he'd been destroyed and resurrected by the sacrificial flames surrounding Sargeras's soul... well, it all fit in various ways. He really was a genuine hunter horse.
 
@@ -68,7 +68,7 @@ Back behind the wall, Jace ate some raspberry jam pie Khadgar had given him from
 
 As Amy said, desserts were the best way to replenish mana. After eating, Jace pulled out the *Chronicle of Dark Secrets*. He needed to use this time to keep studying.
 
-Khadgar's earlier explanation had given him some ideas. Demons and humans understood shadow magic very differently, which was why, even though he could cast Shadowstep, it was hard to simulate Mor'fel's version.
+Khadgar's earlier explanation had given him some ideas. Demons and humans understood shadow magic very differently, which was why, even though he could cast Shadowstep, it was hard to simulate Morophil's version.
 
 What if he borrowed something demon-related to help? The Nathrezim.
 
@@ -76,15 +76,15 @@ Jace opened the book. Over the past couple of days, studying Nathrezim with the 
 
 He wondered if this understanding could let him tap into the *Chronicle*'s power, further strengthening his connection with demons and the void.
 
-"Mor'fel, let's try again. Simulate Shadowstep." Jace held the blood-red demonic tome.
+"Morophil, let's try again. Simulate Shadowstep." Jace held the blood-red demonic tome.
 
-Mor'fel stood up with a sigh of defeat. "So we're going to practice this spell now, during our break?"
+Morophil stood up with a sigh of defeat. "So we're going to practice this spell now, during our break?"
 
 "What, is it boring?" Jace said. "This is a powerful magic that interested everyone from the black dragons to Medivh."
 
 "Whatever you say." The succubus said dismissively.
 
-Jace smiled. "Get ready to Shadowstep. Be good, my Mor'fel."
+Jace smiled. "Get ready to Shadowstep. Be good, my Morophil."
 
 That finally got a hint of a smile from the succubus. Then she vanished into shadow instantly.
 
@@ -94,29 +94,29 @@ He couldn't quite tell if they were emotions detached from consciousness, pure s
 
 No. Emotion *was* shadow. Emotion was just a gentler form shadow took in mortals. He'd known this for a long time. No need to dwell on it.
 
-Shadow enveloped Jace instantly, dragging him in the direction the succubus had gone. He even felt like he had the energy to cast another spell right then. He tried to grasp the shadow and form a Shadow Bolt at the same time, but the bolt hadn't fully taken shape before he was pulled out of the shadow — right behind Mor'fel.
+Shadow enveloped Jace instantly, dragging him in the direction the succubus had gone. He even felt like he had the energy to cast another spell right then. He tried to grasp the shadow and form a Shadow Bolt at the same time, but the bolt hadn't fully taken shape before he was pulled out of the shadow — right behind Morophil.
 
-"You did it, master." Mor'fel turned around. "I couldn't even tell it was you casting Shadowstep."
+"You did it, master." Morophil turned around. "I couldn't even tell it was you casting Shadowstep."
 
 "Yes, but... it's still not enough." Jace looked at the grimoire in his hand. "Let's try another one. Try a spell I *don't* know."
 
-"Mm." Mor'fel said. "Ready?"
+"Mm." Morophil said. "Ready?"
 
 "Ready."
 
 "Here it comes."
 
-Mor'fel's aura expanded rapidly in front of him. Jace could feel the scorching emotion within this shadow spell, but he couldn't tell what exactly the shadow energy he'd gathered was simulating.
+Morophil's aura expanded rapidly in front of him. Jace could feel the scorching emotion within this shadow spell, but he couldn't tell what exactly the shadow energy he'd gathered was simulating.
 
-What spell was this? He only knew that for a moment, Mor'fel seemed... different somehow.
+What spell was this? He only knew that for a moment, Morophil seemed... different somehow.
 
-The Chain of Will around his neck grew unbearably hot, like it was burning his throat. Mor'fel suddenly walked up, shoved him hard against the wall, and enveloped him with her demon wings, blocking his vision.
+The Chain of Will around his neck grew unbearably hot, like it was burning his throat. Morophil suddenly walked up, shoved him hard against the wall, and enveloped him with her demon wings, blocking his vision.
 
-"You used Seduction on me, huh?" Jace said, leaning against the wall. "You violated my orders, Mor'fel."
+"You used Seduction on me, huh?" Jace said, leaning against the wall. "You violated my orders, Morophil."
 
 "You told me to use a spell you *don't* know, dear master. It's hard to say which order matters more."
 
-Mor'fel kissed him immediately. Jace grabbed her shoulders. "Alright, pick a different spell. Wait—"
+Morophil kissed him immediately. Jace grabbed her shoulders. "Alright, pick a different spell. Wait—"
 
 "But I can't control myself anymore, darling. Because your Seduction was—"
 

@@ -36,11 +36,11 @@ The woman's face was a mask of terror as she floated toward the stairs. Jace sho
 
 Hearing the shout, Grede fumbled out the holy water and splashed it down the stairs. The ghost had been trying to flee downstairs, but the holy water caught her head-on. She wailed and came right back.
 
-By now Jace had the necrotic essence extractor set up, and Sazeno had already darted over to the machine and grabbed the crank, ready to start turning it.
+By now Jace had the Essence of Undeath extractor set up, and Sazeno had already darted over to the machine and grabbed the crank, ready to start turning it.
 
 But hearing the soul's cries, he held the imp's hands still.
 
-"I wasn't supposed to die… I could have escaped to Grange!"
+"I wasn't supposed to die… I could have escaped to Grand Hamlet!"
 
 "It was those black-horse riders…"
 
@@ -48,7 +48,7 @@ But hearing the soul's cries, he held the imp's hands still.
 
 The pitiful ghost kept repeating those few lines, little by little fading away, until even with the Spectral Goggles she was no longer visible. She hadn't turned invisible — she'd dissipated completely. This probably wasn't a true ghost with a full will of its own, just a phantom echo left behind in this place.
 
-A soul like this, even with the machine, probably wouldn't yield much necrotic essence.
+A soul like this, even with the machine, probably wouldn't yield much Essence of Undeath.
 
 Once things went quiet, Grede said, "Did you hear that — riders on horseback. You think there are death knights in Deadwind Pass too?"
 
@@ -64,7 +64,7 @@ Jace handed the goggles over. "My guess? They might be a group that served Mediv
 
 "Set their sights on Medivh?" Grede asked. "They were insane?"
 
-Jace explained, "Back then, a lot of people who didn't know Medivh well thought he was just some Stormwind noble living in a tall tower. Don't forget, he used to throw banquets for the nobles living around Grange all the time."
+Jace explained, "Back then, a lot of people who didn't know Medivh well thought he was just some Stormwind noble living in a tall tower. Don't forget, he used to throw banquets for the nobles living around Grand Hamlet all the time."
 
 "Anyway, these men tried to swindle something out of him, which pissed him off. So he killed them and raised them with necromancy into obedient undead monsters to keep collecting artifacts for him."
 
@@ -74,13 +74,13 @@ Jace explained, "Back then, a lot of people who didn't know Medivh well thought 
 
 Grede asked, "If you knew all this, why didn't you tell me there was a whole pack of these things here before we came?"
 
-"I wasn't planning to go anywhere near Karazhan Tower," Jace said. "I figured these things only showed up around Karazhan. Who'd have thought people were dying to them even out here? Take a look outside — from here you can still see the mountain road from Nethergarde Keep to Nightvale. Can you believe Medivh's monstrous servants would wander this far to cause trouble? There are caravans on this road every single day heading to Nethergarde…"
+"I wasn't planning to go anywhere near Karazhan Tower," Jace said. "I figured these things only showed up around Karazhan. Who'd have thought people were dying to them even out here? Take a look outside — from here you can still see the mountain road from Nethergarde Keep to Darkshire. Can you believe Medivh's monstrous servants would wander this far to cause trouble? There are caravans on this road every single day heading to Nethergarde…"
 
 "But we've got to head deeper in eventually, right?" Grede said, pointing toward the depths of the valley. "Once we're in there, there's no telling what we'll find."
 
 Jace pulled out a map of the valley from before Karazhan's destruction and compared the positions of this village and a few other small settlements. "All right, that's on me. I overlooked these guys."
 
-"Nothing to be scared of, though," he said, hefting his staff. "If they were really something, they wouldn't be skulking around and dodging the Wizard Sanctum's mages. If these things really are undead like the legends say, we might be able to extract even stronger necrotic essence…"
+"Nothing to be scared of, though," he said, hefting his staff. "If they were really something, they wouldn't be skulking around and dodging the Wizard's Sanctum's mages. If these things really are undead like the legends say, we might be able to extract even stronger Essence of Undeath…"
 
 "Honestly, I'm kind of looking forward to running into these undead monsters too," Grede said, hefting his stone axe. "That counts as doing our part for the defense of the Kingdom of Stormwind, right?"
 
@@ -88,10 +88,10 @@ Jace pulled out a map of the valley from before Karazhan's destruction and compa
 
 "It'd probably drag us straight into Karazhan Tower," Jace said. "And then the tower would swallow us whole, and we'd become one of the countless ghosts trapped in there for eternity."
 
-Karazhan Tower did indeed hold treasures that no mage outside could even dream of — otherwise the Kirin Tor wouldn't have formed an organization named after Dalaran's symbol, the Eye of the Arcane, specifically to investigate the ruins of Karazhan.
+Karazhan Tower did indeed hold treasures that no mage outside could even dream of — otherwise the Kirin Tor wouldn't have formed an organization named after Dalaran's symbol, the Violet Eye, specifically to investigate the ruins of Karazhan.
 
-But coming to this valley to find necrotic essence was one thing. Looting Medivh's treasures was something else entirely.
+But coming to this valley to find Essence of Undeath was one thing. Looting Medivh's treasures was something else entirely.
 
 From here, the tower at the far end of the deep valley was still out of sight, but Jace could already feel its power — deep and warped, like a black hole.
 
-At least for now, he had zero interest in going anywhere near it. Come to this valley, find ghosts, figure out a way to extract necrotic essence… then get out, sell it, keep a bit of the essence to give to Galaine Aeror and see if she could finish those robes. That was the whole plan.
+At least for now, he had zero interest in going anywhere near it. Come to this valley, find ghosts, figure out a way to extract Essence of Undeath… then get out, sell it, keep a bit of the essence to give to Jalane Ayrole and see if she could finish those robes. That was the whole plan.

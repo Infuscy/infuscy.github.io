@@ -1,14 +1,14 @@
 ## Chapter 1479: Draenei and the Swamp
 
-In the early morning swamp, Midnight carried Jace and the two demons eastward. In the two or three days since they'd left Karazhan, the rhythm and stride of his hooves had barely varied, which Jace — used to riding Alna and Sora... no, riding *with* Sora — found hard to adjust to.
+In the early morning swamp, Midnight carried Jace and the two demons eastward. In the two or three days since they'd left Karazhan, the rhythm and stride of his hooves had barely varied, which Jace — used to riding Arna and Sola... no, riding *with* Sola — found hard to adjust to.
 
 They hadn't seen a single living creature along the way. Not seeing people wasn't surprising — they stayed off the main roads, taking smaller paths and wilderness, traveling low-key by day and mostly at night. It took an undead mount like Midnight to make this kind of travel possible.
 
-But even so, they hadn't encountered any beasts either. Not the infamous swamp crocodiles of the Black Morass, not the giant venom spiders, not the swamp panthers... Jace really had become the most dangerous presence in the Kingdom of Stormwind, especially now that Khadgar had taken over Karazhan.
+But even so, they hadn't encountered any beasts either. Not the infamous swamp crocolisks of the Black Morass, not the giant venom spiders, not the swamp panthers... Jace really had become the most dangerous presence in the Kingdom of Stormwind, especially now that Khadgar had taken over Karazhan.
 
 In the endless dark trees, bushes, and mire, a banner with a blue background and golden lion emblem appeared in the distance.
 
-"Invisibility, Mor'fel." Jace said.
+"Invisibility, Morophil." Jace said.
 
 The succubus complied without a word and vanished. Jace shook off the clumps of chaotic shadow in front of him, raised his staff high, and conjured a light spell at its tip.
 
@@ -16,7 +16,7 @@ The succubus complied without a word and vanished. Jace shook off the clumps of 
 
 "I'm Jace Sesso, court mage of Stormwind!" Jace shouted as he approached. "I'm here to see the prophet—"
 
-"Light save us poor bastards, it's a black knight!" A soldier in heavy silver helmet yelled. "Don't listen to its lies, Captain Josh! That's a wandering black knight! They're here!"
+"Light save us poor bastards, it's a Dark Rider!" A soldier in heavy silver helmet yelled. "Don't listen to its lies, Captain Josh! That's a wandering Dark Rider! They're here!"
 
 The soldiers in the road immediately broke into chaos — raising swords, lifting shields, aiming crossbows. Jace pulled back his hood with his other hand, trying to let them see his face. But one soldier behind was already aiming a crossbow at him. He aimed a Fear spell directly at the crossbowman. The bolt fired high with a *bang*, and the soldier stumbled crying into a stream by the roadside.
 
@@ -30,7 +30,7 @@ Jace dismounted and tossed his Court Mage ring to the officer. "Look at this."
 
 In the pitch-black night, the officer held the ring and examined it carefully by the torchlight before speaking. "Apologies, Master Jace Sesso. It's your ring indeed. Please forgive us. This is too close to Karazhan. Everyone's heard the legends about Karazhan. Every night we're on edge..."
 
-Great. Now the legend of the black knight was already circulating through Duskwood. Who knows how many people had spotted him on this ride. The stereotype was getting reinforced.
+Great. Now the legend of the Dark Rider was already circulating through Duskwood. Who knows how many people had spotted him on this ride. The stereotype was getting reinforced.
 
 "It's fine. Take my horse to... don't tie him with the other horses. Find a separate place for him. Don't feed him or tend to him." Jace said.
 
@@ -52,11 +52,11 @@ Seems like over the past two months, they'd gotten used to each other.
 
 "Good morning, Master Sesso. His Majesty King Varian didn't notify me of your arrival." A Lordaeron officer with an Ambermill accent came up to Jace and saluted. "I'm Captain Hardrick. I apologize for what just happened at the outpost. These past few months, with the tower situation, the soldiers have been a bit too sensitive."
 
-So Aegwynn's creation of the Tyr's Fall rift from Karazhan had affected more than just Duskwood — it had reached the swamp here too. No wonder Khadgar was so eager to get in and control the situation. If he'd let it continue, the damage and losses would have been incalculable.
+So Aegwynn's creation of the Telogrus Rift from Karazhan had affected more than just Duskwood — it had reached the swamp here too. No wonder Khadgar was so eager to get in and control the situation. If he'd let it continue, the damage and losses would have been incalculable.
 
 "The previous anomaly at Karazhan might have been related to ley line fluctuations caused by the Expedition's portal." Jace tried to explain. "But from what I know, the anomaly will pass soon. Things here will gradually improve. So don't worry too much."
 
-"Really?" The captain said hesitantly. "The mage from the Wizard Sanctum didn't tell us that. He said this shadow 'storm' might continue for a while."
+"Really?" The captain said hesitantly. "The mage from the Wizard's Sanctum didn't tell us that. He said this shadow 'storm' might continue for a while."
 
 "Trust me, Captain." Jace tucked his apprentice ring into his pocket. "My news is more current."
 
@@ -72,9 +72,9 @@ Those burrows now hung draenei purple banners with the naaru symbol — very sim
 
 When Jace saw Velen, the prophet was watching a human chef cook alongside a draenei vindicator, as if trying to quickly learn the swamp's recipes and adapt to the local pace of life.
 
-If he hadn't seen it with his own eyes, it was hard to imagine this being — who had lived for tens of thousands of years and once stood as an equal with overlords like Kil'jaeden and Archimonde — squatting there seriously learning how to make crocodile soup.
+If he hadn't seen it with his own eyes, it was hard to imagine this being — who had lived for tens of thousands of years and once stood as an equal with overlords like Kil'jaeden and Archimonde — squatting there seriously learning how to make crocolisk soup.
 
-"Prophet." Jace called out in Eredar from a distance. Velen looked up, saw him, and immediately raised his brows, softening the wrinkles on his face.
+"Prophet." Jace called out in Eredun from a distance. Velen looked up, saw him, and immediately raised his brows, softening the wrinkles on his face.
 
 "Jace Sesso. You've come." Velen stood up. He wasn't wearing his robes — just ordinary clothes. Walking, he looked like a moving purple-blue withered treant.
 
@@ -86,9 +86,9 @@ If he hadn't seen it with his own eyes, it was hard to imagine this being — wh
 
 "We are draenei, but we were also once citizens of Argus." Velen said quietly. "Don't worry about us."
 
-Jace nodded. "Actually, I came here to ask you some questions, Prophet. Some alchemists back home want to try growing Draenor plants on Azeroth. They've hit some difficulties with void blossoms. Do you have any herbalists or botanists who can help?"
+Jace nodded. "Actually, I came here to ask you some questions, Prophet. Some alchemists back home want to try growing Draenor plants on Azeroth. They've hit some difficulties with Netherbloom. Do you have any herbalists or botanists who can help?"
 
-"Herbalist Morae." Velen said. "She's very knowledgeable about void blossoms. But she's currently at Nethergarde Keep in the south. Perhaps I can summon her back to Stonard."
+"Herbalist Morae." Velen said. "She's very knowledgeable about Netherbloom. But she's currently at Nethergarde Keep in the south. Perhaps I can summon her back to Stonard."
 
 "No need. Lady Morae is at the front lines against demonic corruption, probably tending to wounded soldiers. I'll go see her instead." Jace said.
 

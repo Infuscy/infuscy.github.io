@@ -4,7 +4,7 @@ By the time Jace left the Slaughtered Lamb, it was already very late — even th
 
 Jace pulled his cloak tighter and walked quickly toward home, turning over Ursula's commission in his mind.
 
-Viewed from a game perspective, the matter was actually quite simple. Deep in the Black Swamp — or rather, the Swamp of Sorrows — around the Pool of Tears, young green dragons wandered everywhere. You could kill as many as you wanted.
+Viewed from a game perspective, the matter was actually quite simple. Deep in the Black Morass — or rather, the Swamp of Sorrows — around the Pool of Tears, young green dragons wandered everywhere. You could kill as many as you wanted.
 
 If push came to shove, he could even delve into the temple itself and kill those mad, powerful green whelps.
 
@@ -20,7 +20,7 @@ Back at his rented room, Jace glanced at Morophil, who was sprawled bored on the
 
 "Oh, the master's back!" The imp popped out of the bag and hopped onto the table in one bounce, making it shake back and forth. Jace only then noticed that the guy's build had indeed grown quite a bit.
 
-Jace sat on the bed and counted off one by one: "Refined Wisdom Flask, mana potions, my own blood… all of that should be obtainable right now. As long as I buy enough soul shards, even without Ursolus's help, I should be able to attempt summoning Kallrez, right?"
+Jace sat on the bed and counted off one by one: "Flask of Distilled Wisdom, mana potions, my own blood… all of that should be obtainable right now. As long as I buy enough soul shards, even without Ulthalesh's help, I should be able to attempt summoning Kallrez, right?"
 
 "I wouldn't count on it, master," the imp said.
 
@@ -28,13 +28,15 @@ Jace sat on the bed and counted off one by one: "Refined Wisdom Flask, mana poti
 
 "First of all, master," the imp said, "those soul shards are all from centaur heroes. They're powerful! Nothing like the ones the warlocks around here use for summoning felhounds… Besides, I summoned Lord Kallrez from Azeroth. Even though that was an elemental plane the black dragon tore open, there was still a rift channel supported by that mighty red dragon's chains of fire running through it."
 
-The imp drew a circle with both hands in the air and then clapped them together. "Once those chains broke, that rift vanished in a flash. If I'd tried even a moment later, there wouldn't have been nearly enough mana to summon Lord Kallrez over… even with another pouch full of soul shards! And right now, although Lord Kallrez feels like he's still alive, there's no telling what corner of the Twisting Nether he's hiding in! Master had better rely on the great Ursolus to cast the spell — otherwise, if it fails, the waste would be too much!"
+The imp drew a circle with both hands in the air and then clapped them together. "Once those chains broke, that rift vanished in a flash. If I'd tried even a moment later, there wouldn't have been nearly enough mana to summon Lord Kallrez over… even with another pouch full of soul shards! And right now, although Lord Kallrez feels like he's still alive, there's no telling what corner of the Twisting Nether he's hiding in! Master had better rely on the great Ulthalesh to cast the spell — otherwise, if it fails, the waste would be too much!"
 
 "Or we could go back to the Altar of Storms," Morophil said, propping her chin in her hand. "Get the Dagger Society folks together. Since the master has already signed a pact with Kallrez and is using his own blood as a casting material, you wouldn't need so many powerful summoners expending their energy on the spell, nor so many people to stabilize the binding circle. Of course, that's assuming you're willing to let them know you secretly summoned a doom lord."
 
 She smiled as she finished. Jace said, "We don't know what the situation at the Altar of Storms is like right now. The orcs might have beaten the dwarves and sent troops back to occupy it. And most importantly…"
 
-Most importantly, if Galders found out about Kallrez, he probably couldn't wait to move into the Twisting Nether. "Is it possible to seize a space in the Twisting Nether and use it as a base?" Jace asked.
+Most importantly, if Zardeth found out about Kallrez, he probably couldn't wait to move into the Twisting Nether.
+
+"Is it possible to seize a space in the Twisting Nether and use it as a base?" Jace asked.
 
 "Of course it's possible," Morophil said. "As long as you can endure the storms of void and shadow, as long as you're not afraid of being discovered by roving wild demons…"
 
@@ -68,7 +70,7 @@ Morophil leaned close to Jace. "But when she's around, master, you don't get man
 
 She tentatively probed Jace's tongue with her finger. "Unless… you let me feed my fill tonight."
 
-"Ugh." The imp spat out a glob of green fel-fire in annoyance. "Aren't you tired of this, lady demon, huh? I'm sick of watching!"
+"Ugh." The imp spat out a glob of green fel fire in annoyance. "Aren't you tired of this, lady demon, huh? I'm sick of watching!"
 
 "Then get out."
 

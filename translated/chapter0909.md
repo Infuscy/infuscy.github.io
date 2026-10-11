@@ -1,8 +1,10 @@
 ## Chapter 909: Daughter of the Forest and the Dream
 
-Back in Stormwind, Jace wasted no time. After sending Morophil home, he headed straight for Grede's rented place in the Dwarf District, praying in his heart that the bastard hadn't dragged Sola out to take on some mercenary bounty for money.
+Back in Stormwind, Jace wasted no time. After sending Morophil home, he headed straight for Grede's rented place in the Dwarven District, praying in his heart that the bastard hadn't dragged Sola out to take on some mercenary bounty for money.
 
-He knocked on the door. A string of impatient Dwarvish cursing came from inside. "Open up. Jace Sesso."
+He knocked on the door. A string of impatient Dwarvish cursing came from inside.
+
+"Open up. Jace Sesso."
 
 The door banged open. Grede looked out and asked, "You didn't bring Morophil here, did you?"
 
@@ -10,15 +12,15 @@ The door banged open. Grede looked out and asked, "You didn't bring Morophil her
 
 "I don't want anything to do with demons right now. The Moonbrook business has caused more trouble than I expected, damn it. Several people who know me well and know your standing with the king have stopped associating with me." Grede grumbled, somewhat annoyed. "Those cowardly bastards — I haven't even brought up their dealings with the Dark Iron dwarves yet."
 
-"Come in, Jace. Actually, even if Morophil were here it'd be fine. I'm just worried her invisibility might not hold up and some Wizard Sanctum mage spots her and comes looking for trouble with me."
+"Come in, Jace. Actually, even if Morophil were here it'd be fine. I'm just worried her invisibility might not hold up and some Wizard's Sanctum mage spots her and comes looking for trouble with me."
 
-"Relax — the Wizard Sanctum people shouldn't come looking for you, and I didn't bring Morophil. I'm here to see Sola," Jace said. "How's she doing? Where's she staying?"
+"Relax — the Wizard's Sanctum people shouldn't come looking for you, and I didn't bring Morophil. I'm here to see Sola," Jace said. "How's she doing? Where's she staying?"
 
-Grede gave an "uh" and scratched his head. "You know quite a few people from Moonbrook and Duskwood have been moving to Stormwind lately, Jace. Even the Dwarf District doesn't have many vacant rooms for rent anymore — some humans have even started moving over here. If it were back during the Dark Portal days, I could've found her a proper shed to squeeze into even if she turned into a dragon, you see what I mean? It's not that I'm incapable — it's the general situation that's the problem."
+Grede gave an "uh" and scratched his head. "You know quite a few people from Moonbrook and Duskwood have been moving to Stormwind lately, Jace. Even the Dwarven District doesn't have many vacant rooms for rent anymore — some humans have even started moving over here. If it were back during the Dark Portal days, I could've found her a proper shed to squeeze into even if she turned into a dragon, you see what I mean? It's not that I'm incapable — it's the general situation that's the problem."
 
 "So where is she staying?!" Jace asked, anxious.
 
-Grede waved a hand. "Don't panic. She's at the Pig and Whistle Inn. I know the waitress there — remember her? She cleared out a small room for me in the basement. I didn't stick her in your parents' house, Jace. You're not that disgusted by that dragon, are you? She's not a demon — she's a green dragon, a green dragon, you know. Having her use her innate power to nourish the wood of that house might even be good for your parents' health."
+Grede waved a hand. "Don't panic. She's at the Pig and Whistle Tavern. I know the waitress there — remember her? She cleared out a small room for me in the basement. I didn't stick her in your parents' house, Jace. You're not that disgusted by that dragon, are you? She's not a demon — she's a green dragon, a green dragon, you know. Having her use her innate power to nourish the wood of that house might even be good for your parents' health."
 
 Jace gave him a look. "What kind of nonsense is that? That's not what I'm worried about. I'm worried you really did stick her in some cave."
 
@@ -26,25 +28,27 @@ Jace gave him a look. "What kind of nonsense is that? That's not what I'm worrie
 
 "The thing is, she won't be able to stay even if she finds one. I'm planning to bring my parents over to live once I get things sorted out here," Jace said. "We can't just force her to move out again then, can we?"
 
-Grede held up a finger. "Didn't you arrange for the little elf to stay in the Wizard Sanctum dorms before? Now that you're the king's court mage, there shouldn't be any problem getting a room in the palace, right?"
+Grede held up a finger. "Didn't you arrange for the little elf to stay in the Wizard's Sanctum dorms before? Now that you're the king's court mage, there shouldn't be any problem getting a room in the palace, right?"
 
-Jace rested his chin on his hand, leaning against the cabinet beside him. "So the king's court mage advisor makes a request to the king — to set aside a room in the palace specifically for a beautiful blond lady. Especially one who, judging by her dress and bearing, seems to be a noblewoman. I'd become famous across the Alliance in one stroke, and she'd be famous right along with me. They might as well just come into the city in her true elven form — that'd be faster fame."
+Jace rested his chin on his hand, leaning against the cabinet beside him. "So the king's court mage advisor makes a request to the king — to set aside a room in the palace specifically for a beautiful blond lady. Especially one who, judging by her dress and bearing, seems to be a noblewoman. I'd become famous across the Alliance in one stroke, and she'd be famous right along with me. She might as well just walk into the city in her elven form — that'd be a faster way to get famous."
 
 Grede swallowed. "Yeah, that is a bit of a problem."
 
-Still, his words reminded Jace — could he find a room in the Mage Quarter? If it was Sola, maybe he could try asking Marin.
+Still, his words reminded Jace — could he find a room in the Mage Quarter? If it was Sola, maybe he could try asking Malin.
 
-"Take me to Sola," Jace said. "Let me see if I can find her a place to stay at the Wizard Sanctum."
+"Take me to Sola," Jace said. "Let me see if I can find her a place to stay at the Wizard's Sanctum."
 
 "Go yourself — you know the way," Grede said from his bed. "I haven't slept enough yet."
 
 "It's almost noon, damn it," Jace said.
 
-"What's the sun got to do with me?" Grede said, eyes closed. Jace pursed his lips in exasperation and left the house.
+"What's the sun got to do with me?" Grede said, eyes closed.
 
-Arriving at the Pig and Whistle Inn, he saw Sola sitting on the steps outside the inn, staring at the treetops beyond the distant city wall, looking like a little bird trapped in a cage.
+Jace pursed his lips in exasperation and left the house.
 
-Though she was indeed in human form and hadn't revealed any draconic features, a pretty blond girl of about ten or so sitting at the entrance of an Old Town inn where all sorts of people mixed — the vibe was completely different from everyone around her, so it was hard not to draw plenty of attention.
+Arriving at the Pig and Whistle Tavern, he saw Sola sitting on the steps outside the inn, staring at the treetops beyond the distant city wall, looking like a little bird trapped in a cage.
+
+Though she was indeed in human form and hadn't revealed any draconic features, a pretty blond girl in her teens sitting at the entrance of an Old Town inn where all sorts of people mixed — the vibe was completely different from everyone around her, so it was hard not to draw plenty of attention.
 
 "Afternoon, Sola." Jace came up beside her, straightened his shirt collar, and rolled up his sleeves. "Finding Stormwind too crowded? Too stuffy?"
 
@@ -74,70 +78,76 @@ Jace glanced at a few apprentice mages younger than him passing by and said, "He
 
 "I'll remember," Sola nodded.
 
-Arriving at Marin's door, Jace knocked. Hearing a "Come in" from inside, he pushed the door open.
+Arriving at Malin's door, Jace knocked. Hearing a "Come in" from inside, he pushed the door open.
 
-Marin glanced toward the door, coughed, and said, "Mr. Sesso. Good afternoon. What can I do for you?"
+Malin glanced toward the door, coughed, and said, "Mr. Sesso. Good afternoon. What can I do for you?"
 
 "I was wondering, Master — does the Mage Quarter still have any vacant student dorms?" Jace asked.
 
-"You're not a student anymore," Marin said, his hand still writing swiftly with a griffin quill. "I know. I'm not looking for a room for myself — I'm finding a place for this lady," Jace said.
+"You're not a student anymore," Malin said, his hand still writing swiftly with a gryphon quill.
 
-Marin raised his eyes and glanced at the blond girl standing at the door, peeking in. He put down his pen. "You should know that even the Wizard Sanctum's accommodations are quite tight right now… Mr. Sesso, even if you re-enrolled and tried to test in as a proper mage, even with your status as court mage, it would be hard for me to find you a dorm room in the short term, let alone an outsider. But who is that — a little mage apprentice from Lordaeron? Your fellow countryman?"
+"I know. I'm not looking for a room for myself — I'm finding a place for this lady," Jace said.
 
-"Master, you're the Wizard Sanctum's dragon expert, aren't you?" Jace asked.
+Malin raised his eyes and glanced at the blond girl standing at the door, peeking in. He put down his pen. "You should know that even the Wizard's Sanctum's accommodations are quite tight right now… Mr. Sesso, even if you re-enrolled and tried to test in as a proper mage, even with your status as court mage, it would be hard for me to find you a dorm room in the short term, let alone an outsider. But who is that — a little mage apprentice from Lordaeron? Your fellow countryman?"
 
-Marin set down his pen, tucked in his chin, and straightened up. "More or less. Otherwise Andormas wouldn't have put me in charge of investigating the orc-dragon collusion at the Wetlands and Lake Everstill. You know all this — why bring it up suddenly?"
+"Master, you're the Wizard's Sanctum's dragon expert, aren't you?" Jace asked.
+
+Malin set down his pen, tucked in his chin, and straightened up. "More or less. Otherwise Andromath wouldn't have put me in charge of investigating the orc-dragon collusion in the Wetlands and at Lake Everstill. You know all this — why bring it up suddenly?"
 
 "I found you a real dragon," Jace said.
 
-Marin folded his arms and leaned back in his chair, stunned. He glanced at Sola outside, then at Jace, and after a long while let out a: "Hmm?"
+Malin folded his arms and leaned back in his chair, stunned. He glanced at Sola outside, then at Jace, and after a long while let out a: "Hmm?"
 
 "Sola," Jace said. "It's too sunny outside. Don't stand out there."
 
-Sola nodded and pushed the door open. Looking at Marin, she said, "You're Jace's master, Master Marin, right."
+Sola nodded and pushed the door open. Looking at Malin, she said, "You're Jace's teacher, Master Malin, aren't you?"
 
-"What do you mean?" Marin looked at Jace. "What dragon?"
+"What do you mean?" Malin looked at Jace. "What dragon?"
 
 Sola glanced at Jace and said softly, "Can we trust…"
 
 "Of course, Sola," Jace said.
 
-"Then my true name is Somaelir, daughter of Ysera." Sola smiled. "Pleased to meet you, Master Marin."
+"Then my true name is Somaelir, daughter of Ysera." Sola smiled. "Pleased to meet you, Master Malin."
 
-Marin unconsciously unfolded his arms, rubbed his fingers, and was suddenly at a loss for words. He stared at Sola for a good while before saying, "Y… Ysera's daughter? Isn't Ysera the legendary forest goddess, the Queen of Dreams?"
+Malin unconsciously unfolded his arms, rubbed his fingers, and was suddenly at a loss for words. He stared at Sola for a good while before saying, "Y… Ysera's daughter? Isn't Ysera the legendary forest goddess, the Queen of Dreams?"
 
 Sola seemed to sense some ambiguity in her words and explained slightly, "Sorry — we green dragons generally refer to ourselves as daughters of Ysera. It's like how black dragons like to call Deathwing 'father,' when in fact their fathers might be other black dragons."
 
-"No, I… uh, I roughly know that." Marin stood up, glanced at Jace, and said hesitantly, "Wait — is this some kind of joke, Jace?"
+"No, I… uh, I roughly know that." Malin stood up, glanced at Jace, and said hesitantly, "Wait — is this some kind of joke, Jace?"
 
-Marin suddenly calling him by his given name felt a little unfamiliar to Jace. He looked at Sola and said, "Is there some way to make my teacher believe you're a dragon without smashing this room to pieces?"
+Malin suddenly calling him by his given name felt a little unfamiliar to Jace. He looked at Sola and said, "Is there some way to make my teacher believe you're a dragon without smashing this room to pieces?"
 
-Sola thought for a moment, closed her eyes slightly, and a dragon tail suddenly swept out from under her skirt, swaying once before slamming hard into the bookshelf beside her. With a crash, a whole pile of new and old books came tumbling out. Startled, Sola shrank back, and her tail swung to the other side and knocked a standing lamp clean across the room. In an instant Marin's study was in a chaos comparable to the scene of Jace's first time learning Mage Armor.
+Sola thought for a moment, closed her eyes slightly, and a dragon tail suddenly swept out from under her skirt, swaying once before slamming hard into the bookshelf beside her. With a crash, a whole pile of new and old books came tumbling out. Startled, Sola shrank back, and her tail swung to the other side and knocked a standing lamp clean across the room. In an instant Malin's study was in a chaos comparable to the scene of Jace's first time learning Mage Armor.
 
-"Sorry… sorry, Master," Sola frantically pulled her tail back. Marin stared wide-eyed and reached out a hand. "It's perfectly fine — these things aren't worth anything at all. Not worth anything."
+"Sorry… sorry, Master," Sola frantically pulled her tail back.
+
+Malin stared wide-eyed and reached out a hand. "It's perfectly fine — these things aren't worth anything at all. Not worth anything."
 
 The old mage was completely dumbstruck by now. He stared at her skirt for a good while before realizing it was very impolite to a lady, and quickly raised his gaze. By now Sola's mortal disguise had been broken — her eyes had transformed into a magic form flowing like moonlight.
 
-"This is no arcane illusion," Marin looked at Jace. "She really is a dragon? How do you even know her?"
+"This is no arcane illusion," Malin looked at Jace. "She really is a dragon? How do you even know her?"
 
 "It's a long story, Master. And I don't just know this one," Jace said.
 
 "I know lots of dragons too," Sola said.
 
-"Of course you know lots of dragons," Jace gave her a look of exasperation, then said to Marin, "What I mean is, Master, this secret must be kept at all costs. Otherwise not only will she be unable to help your research, neither she nor I will introduce any other dragons to you. As long as one other person learns her secret, I'll consider it as having leaked from you."
+"Of course you know lots of dragons," Jace gave her a look of exasperation, then said to Malin, "What I mean is, Master, this secret must be kept at all costs. Otherwise not only will she be unable to help your research, neither she nor I will introduce any other dragons to you. As long as one other person learns her secret, I'll consider it as having leaked from you."
 
 Sola nodded too.
 
-Marin said at once, "Absolutely impossible, Mr. Sesso, Lady Solamiel. Not even Amy Marin will know. I know dragons guard their secrets extremely closely — I couldn't make such an obvious mistake."
+Malin said at once, "Absolutely impossible, Mr. Sesso, Lady Somaelir. Not even Amy Malin will know. I know dragons guard their secrets extremely closely — I couldn't make such an obvious mistake."
 
 Jace cleared his throat. "Then the room…"
 
-"Right." Marin went back behind his desk, pulled out a scrap of waste paper, and rapidly wrote down an address. "Here in the Mage Quarter…"
+"Right." Malin went back behind his desk, pulled out a scrap of waste paper, and rapidly wrote down an address. "Here in the Mage Quarter…"
 
 "But didn't you say the Mage Quarter is short on housing right now, Master?" Jace narrowed his eyes.
 
-"Special cases call for special treatment." Marin handed the note to Jace. "I have students coming this afternoon, but I'll come visit… Lady Solamiel very soon."
+"Special cases call for special treatment." Malin handed the note to Jace. "I have students coming this afternoon, but I'll come visit… Lady Somaelir very soon."
 
 He looked at Sola. "Hope you enjoy your stay in Stormwind, Lady."
 
-Sola nodded. Jace said, "Then thank you, Master. Truly grateful." Marin acknowledged them, and Jace led the green dragon out of the room, but Marin kept staring at the crack in the door.
+Sola nodded. Jace said, "Then thank you, Master. Truly grateful."
+
+Malin acknowledged them, and Jace led the green dragon out of the room, but Malin kept staring at the crack in the door.

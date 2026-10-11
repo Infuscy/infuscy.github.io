@@ -42,9 +42,9 @@ But as they walked along, Jace noticed a shop door marked with an arrow and a st
 
 Hearing the golden-bearded dwarf's explanation, Jace looked back at the stag on the sign with an arrow through its chest.
 
-That last trip to Kalimdor, there was still one important thing he hadn't done… Strictly speaking, there was still a significant sum of money he hadn't earned — the trail of the crocodile Rotgrip deep in Maraudon.
+That last trip to Kalimdor, there was still one important thing he hadn't done… Strictly speaking, there was still a significant sum of money he hadn't earned — the trail of the crocolisk Rotgrip deep in Maraudon.
 
-Jace had originally planned that after returning from Kalimdor, he'd prepare to head to Ironforge together with Grede to find the legendary hunter Hemet Nesingwary and chat with him about the trail of this crocodile… He hadn't expected to be delayed by the Grim Batol affair after returning.
+Jace had originally planned that after returning from Kalimdor, he'd prepare to head to Ironforge together with Grede to find the legendary hunter Hemet Nesingwary and chat with him about the trail of this crocolisk… He hadn't expected to be delayed by the Grim Batol affair after returning.
 
 Now that he was already in Ironforge, he didn't even need to find the Nesingwary family — after all, this legendary hunter had plenty of competitors, and plenty of dwarf hunters wanted to surpass him. In this regard, other hunters should have even more motivation to pay a high price.
 
@@ -58,6 +58,6 @@ Before he could finish, the golden-bearded dwarf immediately rushed up and slapp
 
 Hearing the golden-bearded dwarf's words, the drinking dwarves also turned to look toward the counter, then curiously looked over at Jace's side.
 
-"A real Dragonslayer gracing my inn?!" The innkeeper vaulted over the counter and ran up to Jace, grabbing Jace's cloak and looking up at him in Common. "And not just any dragon — a black dragon, the ancestor of all black dragons! Good God! Why didn't some king or lord give me a heads-up and let me know this news?!"
+"A real Dragonslayer gracing my inn?!" The innkeeper vaulted over the counter and ran up to Jace, grabbing Jace's cloak and looking up at him in Common. "And not just any dragon — a black dragon, the ancestor of all black dragons! By my beard! Why didn't some king or lord give me a heads-up and let me know this news?!"
 
-"Your fame has drifted from Grim Batol to Ironforge, and then on to Aerie Peak — Franclorn Forgeweather probably heard about it from that great fire pit he dug up! How could I possibly charge you money, mage? Forget what I just said — stay as long as you like…"
+"Your fame has drifted from Grim Batol to Ironforge, and then on to Aerie Peak — Franclorn Forgewright probably heard about it from that great fire pit he dug up! How could I possibly charge you money, mage? Forget what I just said — stay as long as you like…"

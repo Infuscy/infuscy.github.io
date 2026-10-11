@@ -2,7 +2,7 @@
 
 "I can't say I'm alright." Jace looked at his scorched palm. "That demon's blood I drew into myself clearly hasn't been properly digested."
 
-"Didn't you try to throw it up this time?" Wynne asked.
+"Didn't you try to throw it up this time?" Vereesa asked.
 
 "I haven't needed to vomit up what I've absorbed in a long time. I thought my magic control was getting better, but clearly this time it's not quite there."
 
@@ -12,29 +12,29 @@ Jace shook his head. "For now it seems to be affecting my emotions a little, but
 
 "Fairly smooth, master," the imp said. "It's just that your spell destabilized at the end and burned away the incantation before it was complete. But I think if you can control yourself well, a few more attempts and you'll pull it off perfectly."
 
-Seeing the lingering worry in Wynne's eyes, Jace said, "Have you heard of 'the listlessness of the orcs'?"
+Seeing the lingering worry in Vereesa's eyes, Jace said, "Have you heard of 'the lethargy of the orcs'?"
 
-"I know it," Wynne said, as if reciting from a textbook. "Many mages in Dalaran noticed that the orcs in the Lordaeron internment camps were growing increasingly lacking in fighting spirit and defiance, losing interest in escaping — even the gladiators in Durnholde showed similar patterns."
+"I know it," Vereesa said, as if reciting from a textbook. "Many mages in Dalaran noticed that the orcs in the Lordaeron internment camps were growing increasingly lacking in fighting spirit and defiance, losing interest in escaping — even the gladiators in Durnholde showed similar patterns."
 
 "Exactly. Archmage Antonidas believes it's because the demon energy in their bodies is gradually fading." Jace said, "The orcs drank demon blood and entered into a blood pact with the Burning Legion, but demon energy isn't permanent — it dilutes over time. What they drank was pit lord blood, an extremely powerful demon blood. I only absorbed the blood of a demon lord, and even most of the energy in her body had already been converted into Eldre'Thalas's arcane power."
 
-"Once the Flow of Ice Crystal's power recovers, I'll try purifying myself again. Don't worry — I won't do anything terrible."
+"Once the Flowing Ice Crystal's power recovers, I'll try purifying myself again. Don't worry — I won't do anything terrible."
 
-"I'm just worried about you, Jace. I believe nothing like that will happen," Wynne nodded, gave a simple smile, and held out the half roasted frog in her hand. "It might be a bit cold — want some? It might help with recovery. You haven't eaten in a long time."
+"I'm just worried about you, Jace. I believe nothing like that will happen," Vereesa nodded, gave a simple smile, and held out the half roasted frog in her hand. "It might be a bit cold — want some? It might help with recovery. You haven't eaten in a long time."
 
-The moment he actually saw the roasted meat before him, Jace realized just how long it had been since his last meal. He'd had no appetite since the battle with Das'mora; his stomach had been perpetually uncomfortable.
+The moment he actually saw the roasted meat before him, Jace realized just how long it had been since his last meal. He'd had no appetite since the battle with Dasmora; his stomach had been perpetually uncomfortable.
 
-But because he'd been so preoccupied with magic, spells, and the matter of Ursoc's Scythe, he'd practically ignored his body's needs.
+But because he'd been so preoccupied with magic, spells, and the matter of Ulthalesh, he'd practically ignored his body's needs.
 
 "Thank you." Jace nodded and took a bite of the frog.
 
-Wynne said, "Musa's awake. She's trying to heal herself with magic. I think we might be able to leave earlier than planned."
+Vereesa said, "Mosa's awake. She's trying to heal herself with magic. I think we might be able to leave earlier than planned."
 
 "That's great." Jace nodded.
 
-With the Flow of Ice Crystal constantly by Musa's side, she was indeed recovering faster than expected. By that evening, she was already able to stand up and walk around.
+With the Flowing Ice Crystal constantly by Mosa's side, she was indeed recovering faster than expected. By that evening, she was already able to stand up and walk around.
 
-Of course, staying in the room with the pool had helped too. Each of them could feel that after the water elemental released its Surge magic, it continuously brought natural nourishment to the surroundings.
+Of course, staying in the room with the pool had helped too. Each of them could feel that after the water elemental released its surge of healing magic, it continuously brought natural nourishment to the surroundings.
 
 By the next morning, when it was truly time to leave, Grede was even a little reluctant to walk out of the hall.
 
@@ -46,11 +46,11 @@ Jace walked up to the dwarf on his right and tugged at his collar. Grede shook h
 
 "Don't forget," Jace said.
 
-"Forget what?" Wynne asked.
+"Forget what?" Vereesa asked.
 
-"Uh." Jace looked at the elf on his left. "I mean — bring all our luggage. Did you bring the demon heart?" Wynne raised one long eyebrow. "Impossible. I could forget you, but never that thing."
+"Uh." Jace looked at the elf on his left. "I mean — bring all our luggage. Did you bring the demon heart?" Vereesa raised one long eyebrow. "Impossible. I could forget you, but never that thing."
 
-Musa waved from the front, and Wynne stepped lightly to catch up. Grede gave a cold laugh and said, "Serves you right, lad — asking a ranger whether she brought her own trophy. In the Hinterlands, the elves would nail you to a tree for that insult…"
+Mosa waved from the front, and Vereesa stepped lightly to catch up. Grede gave a cold laugh and said, "Serves you right, lad — asking a ranger whether she brought her own trophy. In the Hinterlands, the elves would nail you to a tree for that insult…"
 
 "All that talk, and you're still a coward?" Jace said.
 
@@ -62,9 +62,9 @@ Arriving at the outer arena, they found the crowd here was much larger than when
 
 More ogres had joined the patrols on the surrounding streets, and the whole square was quite lively. Without those ancient, weathered elven walls around them, there'd be no way to connect this place to the name "Eldre'Thalas" at all.
 
-"Gnolls, boarmen, and now orcs — can it get any more absurd?" Grede muttered under his breath.
+"Gnolls, quilboar, and now orcs — can it get any more absurd?" Grede muttered under his breath.
 
-"It can," Wynne said. "Undead."
+"It can," Vereesa said. "Undead."
 
 Jace followed the ranger's gaze and saw two humans in black cloaks standing beside a broken pillar, whispering to each other.
 
@@ -78,37 +78,20 @@ When their eyes met, Jace noticed the necromantic light flickering in their holl
 
 After they'd walked far enough away, Grede couldn't help asking, "Death knights? Under Teron Gorefiend?"
 
-"No," Wynne said. "They feel completely different. Jace, do you think they're connected to the necromancer Morfell mentioned?"
+"No," Vereesa said. "They feel completely different. Jace, do you think they're connected to the necromancer Morophil mentioned?"
 
-"I can't say for sure," Jace said. "But these undead appearing here, and us finding traces of a necromancer that Das'mora left below — that can't be a coincidence."
+"I can't say for sure," Jace said. "But these undead appearing here, and us finding traces of a necromancer that Dasmora left below — that can't be a coincidence."
 
 Even as he said it, he was almost certain what these people were.
 
-Black-clothed undead, traveling all over the world, searching, hunting… They could very well be Medivh's treasure hunters — the Black Knights.
+Black-clothed undead, traveling all over the world, searching, hunting… They could very well be Medivh's treasure hunters — the Dark Riders.
 
-Had they come here looking for Ursoc's Scythe?
+Had they come here looking for Ulthalesh?
 
 They might have obtained clues from other sources, knowing that a demon with relevant information existed in Eldre'Thalas, and so had tracked it here as well — unfortunately a step too late. The goods had already been taken by Jace's group.
 
-Thinking this, he instinctively touched the purple bundle at his waist.
+Thinking this, he instinctively touched the purple bundle at his belt.
 
-"In any case, we shouldn't get involved with these people," Wynne said. "Don't let them discover our connection to Das'mora through any means."
+"In any case, we shouldn't get involved with these people," Vereesa said. "Don't let them discover our connection to Dasmora through any means."
 
 "Let them go look. I don't believe these undead have any way of making it through that garden," Grede said with a laugh.
-
-## Flags
-
-- **The listlessness of the orcs** (兽人的消沉): Archmage Antonidas's theory that the orcs' fading demon energy is causing their loss of fighting spirit in the internment camps.
-- **Pit lord blood** (深渊领主之血): the powerful demon blood the orcs drank; Jace contrasts his own absorption of a demon lord's blood with the orcs' consumption of pit lord blood.
-- **Eldre'Thalas arcane power** (埃雷萨拉斯的奥术之力): most of Das'mora's energy had already been converted to the city's arcane power, making her blood less potent.
-- **Flow of Ice Crystal** (流冰之晶): the artifact that Jace plans to use to purify himself once its power recovers.
-- **The demon heart** (魔心): the trophy from Das'mora that Wynne carries.
-- **Teron Gorefiend** (塔隆·血魔): the first death knight; Grede wonders if the undead serve him.
-- **Deadwind Pass** (逆风小径): where Jace previously encountered a resurrected Dalaran mage with similar necromantic eyes.
-- **Black Knights** (黑骑士): Medivh's treasure hunters — Jace's deduction about the undead's identity.
-- **Ursoc's Scythe** (乌萨勒斯镰刀): the artifact the Black Knights may be seeking; 乌萨勒斯 = Ursoc (tentative rendering).
-- **Morfell** (莫洛菲尔): the succubus; 魅魔 = succubus.
-- **Sazeno** (撒厄诺): the imp; 小鬼 = imp.
-- **Wynne** (温蕾萨): the high elf ranger.
-- **Musa** (莫萨): the tauren druid.
-- **Grede** (格瑞德): the dwarf.

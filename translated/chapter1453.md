@@ -26,13 +26,13 @@ He could feel it — he was hiding a lot from Khadgar, and Khadgar had secrets h
 
 For now, the best choice was to put those thoughts aside and focus on getting to the library. Maybe, as Khadgar said, the Curator could answer some of their questions.
 
-The passage ended. Khadgar grabbed the door handle, glanced back at Morofil and Jace, and said, "Have you noticed? Ever since we got into Karazhan, every time we open a door, something goes wrong."
+The passage ended. Khadgar grabbed the door handle, glanced back at Morophil and Jace, and said, "Have you noticed? Ever since we got into Karazhan, every time we open a door, something goes wrong."
 
 Jace nodded. "Seems like it."
 
 "If opening this door causes trouble too, I'll believe you. I'll believe this tower really is messing with us on purpose," Khadgar said.
 
-"Deal," Jace said. Morofil behind him also looked expectant.
+"Deal," Jace said. Morophil behind him also looked expectant.
 
 Khadgar took a deep breath, squared his shoulders, and slowly pulled the bolt. When he pushed the door open, there was a wide spiral staircase inside.
 
@@ -44,7 +44,7 @@ Khadgar slowly let out the breath he'd been holding, looked around to make sure 
 
 "Full of memories, this place." Khadgar walked up the stairs. "Fifteen years ago, I used to come through this stairwell every day. Everything's still the way it was. The patterns on the railings, the arcane lamp fixtures... even these portraits. Looks like they haven't been damaged at all."
 
-Jace followed behind, studying the painted mages one by one. Most were strangers, unlike the portraits in the Wizard Sanctum's tower, where plenty were people he knew, and the rest were at least faces he'd seen in books.
+Jace followed behind, studying the painted mages one by one. Most were strangers, unlike the portraits in the Wizard's Sanctum's tower, where plenty were people he knew, and the rest were at least faces he'd seen in books.
 
 These were mostly human, but there were elves too, and some he couldn't place at a glance. They were all richly dressed, their expressions solemn and brooking no argument. Just the look in their painted eyes was enough to convey immense authority — hard to imagine what it'd feel like standing before them in person.
 
@@ -52,13 +52,13 @@ These were mostly human, but there were elves too, and some he couldn't place at
 
 "You don't recognize them? They're the past Guardians." Khadgar pointed at one — a young man with black hair and a cold, stern expression. "The first Guardian, Alodi. He created the concept of the Guardian. However problematic that system turned out to be, if he hadn't come up with the idea of pooling all that power into a single person, humanity might never have survived the magical disaster of two thousand years ago, let alone made it to today."
 
-"This is Guardian Scavill, Aegwynn's teacher." Khadgar pointed at a middle-aged mage with half-closed eyes and a red-gold beard. "A long time ago, Deadwind Pass was occupied by an incredibly powerful demon necromancer. That demon used the souls and corpses of countless Gurubashi trolls to weave a dark domain for itself there, trying to corrupt the whole world from that foothold... Until Scavill defeated the demon alone, personally sealing the source of its power — Usaalus, the terrifying demonic weapon that the demon's countless worshippers and followers would later call the Reverse Wind Reaper."
+"This is Guardian Scavell, Aegwynn's teacher." Khadgar pointed at a middle-aged mage with half-closed eyes and a red-gold beard. "A long time ago, Deadwind Pass was occupied by an incredibly powerful demon necromancer. That demon used the souls and corpses of countless Gurubashi trolls to weave a dark domain for itself there, trying to corrupt the whole world from that foothold... Until Scavell defeated the demon alone, personally sealing the source of its power — Ulthalesh, the terrifying demonic weapon that the demon's countless worshippers and followers would later call the Deadwind Harvester."
 
-"Aegwynn inherited Scavill's duty. One of the most important reasons Karazhan was built was to seal the nearly incurable pain that soul-devourer had inflicted on this land. She almost succeeded... Only now this tower has itself become another source of darkness."
+"Aegwynn inherited Scavell's duty. One of the most important reasons Karazhan was built was to seal the nearly incurable pain that soul-devourer had inflicted on this land. She almost succeeded... Only now this tower has itself become another source of darkness."
 
 Jace was already regretting asking. He should've been able to guess who these people were anyway. Truth was, he'd brought it up hoping to ease the tension from their earlier argument.
 
-Morofil behind him was smiling, clearly enjoying watching him shoot himself in the foot.
+Morophil behind him was smiling, clearly enjoying watching him shoot himself in the foot.
 
 They hadn't climbed far when a faint tremor came from above, one thud after another.
 
@@ -68,15 +68,15 @@ Jace looked up. A massive shadow was moving up there, and the footsteps seemed t
 
 "No, just a guardian construct," Khadgar said.
 
-"Turn invisible, Morofil," Jace said.
+"Turn invisible, Morophil," Jace said.
 
 "Time to prove whether you're really the most powerful succubus in the Twisting Nether," Khadgar said.
 
-"I'd rather prove it through battle than hiding," Morofil said, the bright flames in her eye sockets flickering unhappily, before she melted into the shadows.
+"I'd rather prove it through battle than hiding," Morophil said, the bright flames in her eye sockets flickering unhappily, before she melted into the shadows.
 
 Sure enough, the footsteps stopped. The shadow and arcane glow above stopped shifting too.
 
-Khadgar whispered, "There weren't constructs patrolling here before. Maybe Morofil's demonic aura attracted it."
+Khadgar whispered, "There weren't constructs patrolling here before. Maybe Morophil's demonic aura attracted it."
 
 "What about us? Will it attack us?" Jace asked.
 
@@ -98,7 +98,7 @@ Khadgar silently counted the broken vases on the floor, then looked up the stair
 
 "What if that door's sealed too?" Jace asked.
 
-"Think positive, Jace Sesso!" Khadgar's eyes went wide. "You're a smart guy... Maybe the only reason you haven't earned your official mage's ring from the Wizard Sanctum is that your attitude is too damn pessimistic!"
+"Think positive, Jace Sesso!" Khadgar's eyes went wide. "You're a smart guy... Maybe the only reason you haven't earned your official mage's ring from the Wizard's Sanctum is that your attitude is too damn pessimistic!"
 
 No need to bring that up, Jace thought.
 
@@ -116,7 +116,7 @@ Jace looked at the door — no handle, no bolt — then glanced back, listening 
 
 The door swung open with a bang. The mage yanked the warlock inside and slammed the door shut behind them.
 
-In the dark corridor, they both caught their breath. Khadgar pointed at Jace's side. Jace nodded to show Morofil had made it in too.
+In the dark corridor, they both caught their breath. Khadgar pointed at Jace's side. Jace nodded to show Morophil had made it in too.
 
 Once the other side of the door was completely quiet, Jace carefully peered inside. What he saw was a huge, slanted blue wall right in front of them, its top edge pressed against the wall the wooden door was set in, forming a narrow wedge.
 

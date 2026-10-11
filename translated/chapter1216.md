@@ -1,20 +1,20 @@
 ## Chapter 1216: A Suitable Identity
 
-Hearing the commotion from the wargs, the distant patrol stopped talking and curiously looked over in ones and twos.
+Hearing the commotion from the worgs, the distant patrol stopped talking and curiously looked over in ones and twos.
 
-Jace observed the figures half-illuminated by torchlight up ahead while walking forward at an unhurried, unhurried pace over the rubble-strewn ground.
+Jace observed the figures half-illuminated by torchlight up ahead while walking forward at an unhurried pace over the rubble-strewn ground.
 
 Thanks to his previous experiences with transformation, combined with Vaelastrasz's powerful transmutation magic, Jace had adapted to orcish mannerisms and bearing very quickly despite having only just transformed.
 
-He shielded his eyes from the torchlight and walked toward them, leaning on Uthales with every step.
+He shielded his eyes from the torchlight and walked toward them, leaning on Ulthalesh with every step.
 
 Jace noticed that this group wasn't composed entirely of orcs. It was an orc warlock, two orc kennelmasters, and four Broken servants in tattered clothing.
 
-He wasn't surprised, of course. After all, the draenei priest they'd killed earlier hadn't been entirely grasping at straws when he'd called the Broken traitors.
+He wasn't surprised, of course. After all, the draenei priest they'd killed earlier hadn't been entirely making things up when he'd called the Broken traitors.
 
-The Broken had indeed helped Targonor and his Shadow Council summon M'mur, and the stronghold the Shadow Council called the "Shadow Labyrinth" in the game was full of Broken members.
+The Broken had indeed helped Teron'gor and his Shadow Council summon Murmur, and the stronghold the Shadow Council called the "Shadow Labyrinth" in the game was full of Broken members.
 
-Aside from these seven individuals and the two wargs, the deep corridor held no one else. Jace felt that he and Morophil should be able to deal with them quickly without exposing the rest of their companions to the entire Shadow Council.
+Aside from these seven individuals and the two worgs, the deep corridor held no one else. Jace felt that he and Morophil should be able to deal with them quickly without exposing the rest of their companions to the entire Shadow Council.
 
 But doing so still carried a risk — and that was the warlock.
 
@@ -40,7 +40,7 @@ The female orc nodded respectfully once more. The demon's coldness didn't provok
 
 Jace hadn't expected that these fel markings, which had led no small number of people to mistake him and Morophil for Burning Legion lackeys, would come in handy for something like this one day.
 
-"I am Yurok, dispatched by the great Lord Magtheridon to come here and meet with your master, Grandmaster Vorpil," Jace introduced himself.
+"I am Yurk, dispatched by the great Lord Magtheridon to come here and meet with your master, Grandmaster Vorpil," Jace introduced himself.
 
 Grandmaster Vorpil was one of the bosses within the Shadow Labyrinth. Twenty years from now, he would become the leader of the Shadow Council.
 
@@ -54,15 +54,15 @@ That was a lot of information packed into one sentence. It meant the Alliance Ex
 
 But what was all this about black dragon fire? Why would black dragons attack the Horde? Hadn't Deathwing cooperated with the Horde to transport dragon eggs from Azeroth here? Why would the black dragons have turned on the Shadow Council?
 
-Jace had the faint, unsettling feeling that this change might have something to do with him. After all, in another timeline, Teron Gorefiend had returned to Draenor alongside Deathwing, and had led the Shadow Council alongside the black dragons in the defense of Hellfire Citadel and Karabor Temple — until Turalyon killed him with his own hands.
+Jace had the faint, unsettling feeling that this change might have something to do with him. After all, in another timeline, Teron Gorefiend had returned to Draenor alongside Deathwing, and had led the Shadow Council alongside the black dragons in the defense of Hellfire Citadel and the Temple of Karabor — until Turalyon killed him with his own hands.
 
 But in this timeline, Teron Gorefiend had died an ignoble death — twice in a row, in the ruins of Dalaran and Ironforge City — and his soul had dissipated entirely within Jace's own consciousness, leaving behind only a few dark spells as his legacy. He'd never made it back through the Dark Portal.
 
 And those artifacts had all been stolen by Kel'Thuzad and handed to Deathwing, then carried to Draenor by the black dragons. Presumably for that very reason, the Shadow Council orcs had wanted to get in touch with Kel'Thuzad, who had taken an enormous risk on their behalf — to give him a Draenor portal coordinate, to leave him an escape route in case he got thrown into the Violet Hold.
 
-Which brought to mind what Galders had mentioned before — that the warlocks captured at the lighthouse by the Wizard Sanctum had revealed secrets concerning Kel'Thuzad. He'd hidden many of the secrets Deathwing had left him inside a small pocket dimension in the Twisting Nether, using a doomguard.
+Which brought to mind what Zardeth had mentioned before — that the warlocks captured at the lighthouse by the Wizard's Sanctum had revealed secrets concerning Kel'Thuzad. He'd hidden many of the secrets Deathwing had left him inside a small pocket dimension in the Twisting Nether, using a doomguard.
 
-Back then, Galders and Jace had been somewhat skeptical — would Kel'Thuzad really summon a doomguard alongside the warlocks just to hide things?
+Back then, Zardeth and Jace had been somewhat skeptical — would Kel'Thuzad really summon a doomguard alongside the warlocks just to hide things?
 
 Now that they knew about the portal coordinates, and connected it to the business of fleeing to the Dark Portal and the Black Dragonflight, it wasn't hard to guess: this doomguard had most likely been summoned by the orc warlocks on Kel'Thuzad's behalf, used to activate that portal coordinate and escape Dalaran.
 
@@ -90,13 +90,13 @@ Although Magtheridon had probably only been on Draenor for a short two or three 
 
 It really didn't add up. Jace used the Soul Link to give Morophil a subtle hint, intending to have her deploy her mental magic.
 
-Unexpectedly, Morophil let out a cold laugh. "You ignorant fool. Not every blessed one who drinks an Annihilan's blood twice turns into one of those brain-dead red-skinned madmen. If you ask me, those types are the ones squandering that precious fel-fire blood. Read a few more Eredar tomes and educate yourself."
+Unexpectedly, Morophil let out a cold laugh. "You ignorant fool. Not every blessed one who drinks an Annihilan's blood twice turns into one of those brain-dead red-skinned madmen. If you ask me, those types are the ones squandering that precious fel fire blood. Read a few more eredar tomes and educate yourself."
 
 The warlock was clearly cowed by Morophil's overbearing, razor-edged attitude. After all, who wanted to argue the properties of demon blood with a high-ranking succubus who looked like she'd be unpleasant to cross?
 
 Morophil's persuasiveness wasn't just in her bearing, either — Jace's mind was jogged by her words too.
 
-Because this wasn't just the succubus talking out of her ass. The powerful Hellfire Wardens who guarded the imprisoned Magtheridon in the future were a group of high-ranking warlocks who hadn't been twisted into red-skinned madmen by the fel blood.
+Because this wasn't just the succubus talking out of her ass. The powerful Hellfire Warders who guarded the imprisoned Magtheridon in the future were a group of high-ranking warlocks who hadn't been twisted into red-skinned madmen by the fel blood.
 
 Not only had they not turned red-skinned, they'd also been able to resist the compulsion in the blood to obey Magtheridon's commands — which was precisely why they'd earned Illidan Stormrage's trust.
 
@@ -106,4 +106,4 @@ Truly, as a former lieutenant of Overlord Brutallus, Morophil's level of knowled
 
 This was also the reason Jace hadn't brought Sola, who could also turn into an orc. The Shadow Council was nothing like the chaotic Burning Steppes, and still less like Shadowforge City. Every orc here was either a fanatical Burning Legion devotee or a warlock steeped in dark magic. Sola really couldn't blend in here — only a demon like Morophil could manage it.
 
-"I have no further questions, Envoy Yurok." The warlock tilted her head and looked at one of the kennelmasters beside her, clad in dark leather. "Take the envoy to the Arcane Sanctum. The rest of you, follow me — we've still got tonight's patrol."
+"I have no further questions, Envoy Yurk." The warlock tilted her head and looked at one of the kennelmasters beside her, clad in dark leather. "Take the envoy to the Arcane Sanctum. The rest of you, follow me — we've still got tonight's patrol."

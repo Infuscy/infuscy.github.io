@@ -2,9 +2,9 @@
 
 Even though Jace had known from the start that Kil'jaeden wouldn't send just one or two dreadlords to quietly sow destruction on Azeroth, having it confirmed by Onyxia -- and *five* at that -- still left him feeling unsettled.
 
-As things stood now, it was a good thing he'd left Morophil in Stormwind to guard his parents' house. Otherwise he definitely wouldn't be this calm right now -- he'd have to contact Kalrez immediately and have the Daggerfall warlocks set up a summoning circle to pull him back to the Slaughtered Lamb as fast as possible.
+As things stood now, it was a good thing he'd left Morophil in Stormwind to guard his parents' house. Otherwise he definitely wouldn't be this calm right now -- he'd have to contact Kallrez immediately and have the Dagger Society warlocks set up a summoning circle to pull him back to the Slaughtered Lamb as fast as possible.
 
-But the Daggerfall members might be investigating demon traces themselves by now. Had they run into any trouble?
+But the Dagger Society members might be investigating demon traces themselves by now. Had they run into any trouble?
 
 One dreadlord eliminated, four left. Khadgar had said before that with Blackrock Spire's plan having just failed, the demons probably wouldn't go out of their way to expose themselves. Still, Jace couldn't suppress the worry.
 
@@ -14,7 +14,7 @@ Onyxia tilted her head back against the throne, saving her strength, and looked 
 
 "Mephistroth... he knew how you would block his and Nefarian's plans. He knew what you had. And that plan was designed to make you reveal that demon-forged blade -- the one that cut my hand. They came for you. Or rather, they came to seize that scythe. The demons consider it theirs."
 
-Vereesa and Sora both glanced sideways at the tightly wrapped curved object on Jace's back. Jace nodded. "I know."
+Vereesa and Sola both glanced sideways at the tightly wrapped curved object on Jace's back. Jace nodded. "I know."
 
 "The Nathrezim never trusted me for long, Jace Sesso. It's not that I don't want to help you more." The black dragon paused, as if gathering strength. "You are a rather interesting fellow. Part of me wishes you would all die miserable, one by one. But when I consider the safety of this lair, and that the things that want you dead might bring even greater disaster to me and my offspring... the part that wants you to live wins out."
 
@@ -22,7 +22,7 @@ Vereesa and Sora both glanced sideways at the tightly wrapped curved object on J
 
 "That's not for you to say, loser." Onyxia narrowed her eyes. "You don't think that just because Jace Sesso and that doom lord beat me together, that means you could beat me too, do you?"
 
-Grede cursed in Dwarven and instinctively grabbed the axe at his waist, as if he wanted to settle the score right then and there. But he stared at the dragon princess, so weak on her throne that she could barely move, for a long moment, then snorted and let go of his weapon. "No fun."
+Grede cursed in Dwarvish and instinctively grabbed the axe at his waist, as if he wanted to settle the score right then and there. But he stared at the dragon princess, so weak on her throne that she could barely move, for a long moment, then snorted and let go of his weapon. "No fun."
 
 "Rather than worrying about us or the Alliance being hostile to your lair, I think you should be more concerned about the goblins to the south, Lady Onyxia," Jace said, looking up. "They have genuine plans to invade the swamps and claim this bay for themselves."
 
@@ -38,7 +38,7 @@ Because Jace knew that Onyxia understood full well that she might be the only me
 
 Her mother was missing -- though Onyxia surely knew better than anyone just how unhinged her mother was.
 
-Sinthania would rather go to Draenor and cooperate with Zuluhed the Whacked and Mogdorg of the Dragonmaw clan to raise more nether dragons, then return to Azeroth and convert whatever eggs she could find into twilight dragons, than patiently continue raising true black dragons.
+Sintharia would rather go to Draenor and cooperate with Zuluhed the Whacked and Mor'ghor of the Dragonmaw clan to raise more nether dragons, then return to Azeroth and convert whatever eggs she could find into twilight dragons, than patiently continue raising true black dragons.
 
 From this perspective, this cave was practically the Blackwing's "last fortress."
 
@@ -46,11 +46,11 @@ From this perspective, this cave was practically the Blackwing's "last fortress.
 
 "I take it you already have a solution in mind," Onyxia said.
 
-"Indeed." Jace said. "Since what matters to you is the safety of this palace, the well-being of your offspring and eggs, I assume you have little interest in the surrounding swamps or the Bay of Storms to the northeast."
+"Indeed." Jace said. "Since what matters to you is the safety of this palace, the well-being of your offspring and eggs, I assume you have little interest in the surrounding swamps or Tidefury Cove to the northeast."
 
-"None," the Black Dragon Princess said, shaking her head slightly.
+"None," the black dragon princess said, shaking her head slightly.
 
-Jace continued: "As I see it, Marin Noggenfogger just wants to beat other tycoons in establishing a foothold at the Bay of Storms, building a new port to expand his business. The reason he wants to attack your lair is only because he's worried the black dragon will leave her nest and destroy his city, disrupt his shipping routes -- both air and sea."
+Jace continued: "As I see it, Marin Noggenfogger just wants to beat other tycoons in establishing a foothold at Tidefury Cove, building a new port to expand his business. The reason he wants to attack your lair is only because he's worried the black dragon will leave her nest and destroy his city, disrupt his shipping routes -- both air and sea."
 
 "You want me to give a guarantee," Onyxia said. "To those goblins. Let them build a port on the coast."
 
@@ -70,7 +70,7 @@ And then what the cruelest sorceress in Azeroth would do was anyone's guess.
 
 Grede shot Jace a sideways glance. The look was unmistakable: "We can't just let it go, we can't just casually let it go..."
 
-Onyxia said: "If the goblins agree not to set foot in this fog, I can turn a blind eye to their movements in the swamps and not interfere with their activities at the Bay of Storms. But their flying machines must detour over the Great Plains or the Great Sea."
+Onyxia said: "If the goblins agree not to set foot in this fog, I can turn a blind eye to their movements in the swamps and not interfere with their activities at Tidefury Cove. But their flying machines must detour over the Barrens or the Great Sea."
 
 "I can tell them that," Jace said.
 
@@ -78,4 +78,4 @@ Onyxia said: "If the goblins agree not to set foot in this fog, I can turn a bli
 
 "You don't need to remind me," Jace said.
 
-"Follow my guards to the back." The Black Dragon Princess raised a finger slightly. "Take something from my treasury to compensate for the reward you might lose. I think what I have here... won't be inferior to what the goblins could give you."
+"Follow my guards to the back." The black dragon princess raised a finger slightly. "Take something from my treasury to compensate for the reward you might lose. I think what I have here... won't be inferior to what the goblins could give you."

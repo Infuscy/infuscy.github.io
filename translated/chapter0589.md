@@ -74,26 +74,16 @@ The sounds grew heavier, the vibrations clearer. Jace saw the rainwater pooled o
 
 The footsteps stopped abruptly nearby, followed by a crackling, snapping sound like trees rubbing and breaking. Vereesa pressed against the wall and stole a glance outside, then immediately pulled her head back. Jace looked up and saw an old man's wooden face staring into the distance from high above, great wooden fangs extending right over their heads.
 
-A war ancient!
+An Ancient of War!
 
 These colossal walking trees were ancient allies of the Kaldorei. The Kaldorei guarded the forests of Kalimdor, and in turn these ancients obeyed the Kaldorei's command, garrisoning elven towns and key strongholds.
 
-There was a boss in Dire Maul called the Warheart — a giant war ancient just like this — but that one guarded a magical gate deep inside Dire Maul's seal. This ancient walking around outside Dire Maul didn't seem to exist in the game.
+There was a boss in Dire Maul called Tendris Warpwood — a giant ancient just like this — but that one guarded a magical gate deep inside Dire Maul's seal. This ancient walking around outside Dire Maul didn't seem to exist in the game.
 
 In other words, the ogres might not have fully occupied the gates of Eldre'Thalas yet. This nearly unkillable ancient had simply been left here, unchecked.
 
 Grede glanced at Mosa, probably wondering if she could communicate with the ancient. The tauren shook her head — clearly she had no way of talking to it either.
 
-The ancient probably hadn't even realized the city it was guarding had long since been breached from elsewhere. Jace could feel that it had been badly corrupted by shadow energy. It had likely already lost its mind, patrolling back and out of nothing but ten-thousand-year-old habit.
+The ancient probably hadn't even realized the city it was guarding had long since been breached from elsewhere. Jace could feel that it had been badly corrupted by shadow energy. It had likely already lost its mind, patrolling back and forth out of nothing but ten-thousand-year-old habit.
 
 After it turned and walked back through the archway, Vereesa pointed east. "I'm hearing something over there. Let's go that way."
-
-## Flags
-
-- **Eldre'Thalas**: Canonical name for 埃雷萨拉斯 — the ancient Highborne city (later known as Dire Maul / 厄运之槌).
-- **Highborne**: 上层精灵 — the Kaldorei nobles who ruled the empire; the wall relief depicts one.
-- **War ancient / Warheart**: 战争古树 / 扭曲古木 — the colossal walking tree creature. The game boss "Warheart" (扭曲古木) guards a sealed gate deep in Dire Maul; this one patrolling outside has no game equivalent, suggesting the ogres haven't fully taken the gates.
-- **Ironforge / Silvermoon / Quel'Thalas**: Canonical locations (铁炉堡 / 银月城 / 奎尔萨拉斯) — Grede's boastful comparison.
-- **Wildhammer clan**: Canonical dwarven clan (蛮锤氏族) — Grede's people, allied with the tauren.
-- **"By the Mountain King"**: Grede's dwarven oath — kept as a bluff exclamation.
-- **POV**: Third person throughout.

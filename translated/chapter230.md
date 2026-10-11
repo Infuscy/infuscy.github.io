@@ -1,4 +1,4 @@
-## Chapter 230: The Fel Ground
+## Chapter 230: The Cursed Ground
 
 "Wake up, hey, Grede."
 
@@ -18,7 +18,7 @@ Grede stared at Jace. "How do I feel? Like I just came down with a serious illne
 
 "Are you still sleepy? I found something off. Can you stand and walk? Let's go take a look together."
 
-The dwarf braced himself against a nearby tree trunk and pulled himself up. Once steady, he twisted his waist back and forth, his bones cracking and popping.
+The dwarf braced himself against a nearby tree trunk and pulled himself up. Once steady, he twisted his back from side to side, his bones cracking and popping.
 
 "I'm fine. What'd you find? What's off?"
 
@@ -70,7 +70,7 @@ Jace said, "What if we burn up something important? Don't forget why we came her
 
 "Sure, not sure — I'm not Hogger. What good does asking me do?"
 
-Jace adjusted his hood and stared at the camp for a moment. "I've got an idea. Let the slip in and take a look, see what's inside, and then we decide what to do."
+Jace adjusted his hood and stared at the camp for a moment. "I've got an idea. Let the imp slip in and take a look, see what's inside, and then we decide what to do."
 
 "You sure it'll be fine?" Grede asked.
 
@@ -108,7 +108,7 @@ This intact human corpse was propped up to one side, surrounded by a pile of sma
 
 The whole place reeked of decay.
 
-This place was a long way from Westfall Keep, Raven Hill, or even Sentinel Hill. And the nearest of those, Westfall Keep, was separated by a vast stretch of forest occupied by gnolls. It was possible that the soldiers of Stormwind had never discovered this place from start to finish.
+This place was a long way from Westbrook Garrison, Raven Hill, or even Sentinel Hill. And the nearest of those, Westbrook Garrison, was separated by a vast stretch of forest occupied by gnolls. It was possible that the soldiers of Stormwind had never discovered this place from start to finish.
 
 "This is really completely fucked," Grede whispered.
 
@@ -133,14 +133,3 @@ Teron Gorefiend's mortal shell.
 Could this be another death knight's mortal shell — the very one they'd been searching for?
 
 "Come over here, Jace!"
-
-## Flags
-
-- A hidden camp deep in Elwynn Forest — unmarked on any map, far from any Stormwind garrison, and saturated with necrotic energy.
-- The camp contains only gnoll zombies and one ancient human corpse — no living gnolls at all.
-- The human corpse is propped up like a worshipped idol, pinned in place with iron rods and nails — the gnolls were venerating it.
-- The corpse is ancient, blackened, and highly decayed — Jace immediately connects it to Teron Gorefiend's mortal shell, suggesting this may be another death knight's body.
-- Grede's death knight knowledge surfaces — he references the Hillsbrad campaign and downplays the threat, but Jace remains cautious.
-- Sazeno scouts the camp invisibly and reports back — the imp's utility as a reconnaissance tool continues to grow.
-- The gnoll zombies here are mindless and far less dangerous than the necromancer's reanimated ones — suggesting a different, weaker source of necromantic power.
-- Jace's understanding of Azeroth is being challenged — none of this exists in the game's canon, and the implications of a death knight's presence in Elwynn Forest are deeply unsettling.

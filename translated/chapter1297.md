@@ -1,48 +1,48 @@
 ## Chapter 1297: Ruler of the Bone Wastes
 
-Jace and Sora arrived at the edge of the gray wasteland and forest. To avoid being detected by arakkoa or other unfriendly creatures, Sora shifted into her mortal form.
+Jace and Sola arrived at the edge of the gray wasteland and forest. To avoid being detected by arakkoa or other unfriendly creatures, Sola shifted into her mortal form.
 
 They camped there for two days and three nights. When Jace opened his eyes in the morning, everything was still quiet. The imp hadn't sensed any black dragons approaching either.
 
-Back in the Hillsbrad Foothills, the imp could sharply detect black dragons flying in from far away. Now, after consuming soul shards and healing stones, it was larger and its magic should be stronger. On top of that, it had grown noticeably. So the plain truth was — no black dragons had come back.
+Back in the Hillsbrad Foothills, the imp could sharply detect black dragons flying in from far away. Now, after consuming soul shards and healthstones, it had grown noticeably, and its magic should be stronger. So the plain truth was — no black dragons had come back.
 
-Sora, who usually loved sleeping in, had been restless these past few nights too. Right now, she was standing on a fallen log, staring into the distance. Even though she considered black dragons her enemies, even though she acted annoyed with that little whelp, Jace could tell she was still worried about whether "Needleflame" was alive or dead.
+Sola, who usually loved sleeping in, had been restless these past few nights too. Right now, she was standing on a fallen log, staring into the distance. Even though she considered black dragons her enemies, even though she acted annoyed with that little whelp, Jace could tell she was still worried about whether "Needleflame" was alive or dead.
 
-"Maybe she was just lying to us," Sora said.
+"Maybe she was just lying to us," Sola said.
 
 "You think she's got that kind of cunning?" Jace asked.
 
-"Hard to say." Sora wagged a finger. "Those Blackwing types are rotten to the core. The adults might weigh their options and decide whether to be honest based on self-interest, but children are simply malicious. They like tricking people."
+"Hard to say." Sola wagged a finger. "Those Blackwing types are rotten to the core. The adults might weigh their options and decide whether to be honest based on self-interest, but children are simply malicious. They like tricking people."
 
-Jace wanted to say that he could feel the rude little brat had been genuinely enthusiastic about finding help to rescue their prince, and probably wasn't lying. But seeing Sora so vehemently denouncing the Blackwing flight, he didn't have the heart to defend Outland's black dragons anymore.
+Jace wanted to say that he could feel the rude little brat had been genuinely enthusiastic about finding help to rescue their prince, and probably wasn't lying. But seeing Sola so vehemently denouncing the Blackwing Legion, he didn't have the heart to defend Outland's black dragons anymore.
 
 So he just nodded. "On the bright side — maybe she just died on the way back."
 
-Even that casual remark made Sora's heart clench, and Jace could sense it from that far away.
+Even that casual remark made Sola's heart clench, and Jace could sense it from that far away.
 
 "I still hope this wasn't a wasted trip..." she murmured. "I hope that Needleflame lives up to the name Sabellian gave her. That even though she's weak, she can survive danger."
 
-"Speaking of which, Sora — some dragons have names with specific meanings. Like Needleflame," Jace said. "But others... like Onyxia, or your name."
+"Speaking of which, Sola — some dragons have names with specific meanings. Like Needleflame," Jace said. "But others... like Onyxia, or your name."
 
-"Onyxia's name comes from a fire-like elemental onyx," Sora said. "My name, Somalyr, actually means 'illusory slumber.' Most of these names were given by the great dragons who've survived since ancient times. The language they used for naming is very different from what the younger generation uses now."
+"Onyxia's name comes from a fire-like elemental onyx," Sola said. "My name, Somaelir, actually means 'illusory slumber.' Most of these names were given by the great dragons who've survived since ancient times. The language they used for naming is very different from what the younger generation uses now."
 
 "So names like 'Needleflame' or 'Scorching Wing' — the kind an outsider like me can understand at a glance — are basically the namer being uneducated?" Jace said.
 
-"I didn't say that." Sora said quickly.
+"I didn't say that." Sola said quickly.
 
 Jace remembered how proud that little black dragon had looked yesterday when she announced her name. He couldn't help laughing.
 
 "Ysera named you?"
 
-"Yes." Sora smiled with some pride. "Of course, that wasn't unusual in the Emerald Dream. When I was born, things were still peaceful there. Queen Ysera was patient enough to personally name every yearling dragon as they came of age. And 'Shade' was my name as a hatchling."
+"Yes." Sola smiled with some pride. "Of course, that wasn't unusual in the Emerald Dream. When I was born, things were still peaceful there. Queen Ysera was patient enough to personally name every yearling dragon as they came of age. And 'Shade' was my name as a hatchling."
 
 "You never mentioned any of this before," Jace said.
 
-"Didn't I?" Sora sighed softly. "Maybe back then, I couldn't face my homeland or my past. But more importantly, you never asked. So what does your name mean, Jace Sesso?"
+"Didn't I?" Sola sighed softly. "Maybe back then, I couldn't face my homeland or my past. But more importantly, you never asked. So what does your name mean, Jace Sesso?"
 
 "Sesso." Jace raised a hand. "According to a priest in the capital, one of my family's ancestors served as an attendant to some Darrowshire noble. Sesso was apparently the title for that position. I think it's something like cleaner — washing dishes, polishing shoes. As for Jace... probably because some ancestor had that name."
 
-Sora looked thoughtful for a moment, as if trying to understand human naming customs. But after a while, she turned to gaze westward — toward Auchindoun. She seemed to have sensed something.
+Sola looked thoughtful for a moment, as if trying to understand human naming customs. But after a while, she turned to gaze westward — toward Auchindoun. She seemed to have sensed something.
 
 The imp also popped out of Jace's backpack, muttering, "They're coming, they're coming... my master, are you ready to fight a full-grown black dragon?"
 
@@ -54,7 +54,7 @@ The imp grumbled as he was shoved into the bag. The sound of massive wings slici
 
 Dust kicked up. Wind howled. The sky darkened like it was about to rain. A burning smell spread with no apparent source...
 
-Jace was suddenly reminded of that time, long ago, when he and Grede and that Bronzebeard explorer from the Explorer's League were heading to Uldaman, and they'd run into a passing adult black dragon on the road.
+Jace was suddenly reminded of that time, long ago, when he and Grede and that Bronzebeard explorer from the Explorers' League were heading to Uldaman, and they'd run into a passing adult black dragon on the road.
 
 He still didn't know who that was to this day. But the black dragon in front of him now wasn't much smaller than that one.
 
@@ -76,7 +76,7 @@ The man didn't answer. He walked up, studied the two of them, his murky yellow e
 
 "Yes."
 
-The man clicked his tongue. "If the Dragon Father knew the one who wrecked his plans was such a young thing, he'd die with his eyes open."
+The man clicked his tongue. "If the Dragonfather knew the one who wrecked his plans was such a young thing, he'd never rest in peace."
 
 Jace's eyebrow twitched slightly. So they already knew about Deathwing's fall. But they didn't seem to know Jace was connected to it.
 
@@ -84,27 +84,27 @@ And Jace could tell — this adult black dragon didn't have much feeling about D
 
 It reminded him of what Onyxia had said back in Stormwind's throne room. "I never held what you did against us. Do you really think, to us... 'father' was such a wonderful, great word?" Maybe that hadn't been a lie after all.
 
-The black dragons really didn't seem to "love" their Dragon Father. The older they were, the more obvious it was. It was only the whelps who were recklessly angry about it.
+The black dragons really didn't seem to "love" their Dragonfather. The older they were, the more obvious it was. It was only the whelps who were recklessly angry about it.
 
 "But now that I've met you." Gorlorio's eyes fixed on the purple gem hanging from a chain on Jace's chest. "I can somewhat understand why Teron Gorefiend risked being surrounded by Dalaran's mages just to hunt you down for a new body."
 
-"And this one?" He looked at Sora beside him. "Is she the one the whelp mentioned — a child of Ysera?"
+"And this one?" He looked at Sola beside him. "Is she the one the whelp mentioned — a child of Ysera?"
 
-"Somalyr." Sora nodded slightly, her voice cold. "I didn't expect the 'Teribus' the arakkoa speak of to be you, Lord Gorlorio."
+"Somaelir." Sola nodded slightly, her voice cold. "I didn't expect the 'Teribus' the arakkoa speak of to be you, Lord Gorlorio."
 
-"Lady Somalyr." The black dragon also inclined his head slightly. "Teribus... is just a nasty nickname those lowly black-feathered monsters gave us out of jealousy. They call every Blackwing 'Teribus' no matter which one they see. I must thank the two of you for rescuing Needleflame. She's one of the first whelps born to us here on Draenor. She carries Prince Sabellian's deep hopes. She's very important to us."
+"Lady Somaelir." The black dragon also inclined his head slightly. "Teribus... is just a nasty nickname those lowly black-feathered monsters gave us out of jealousy. They call every Blackwing 'Teribus' no matter which one they see. I must thank the two of you for rescuing Needleflame. She's one of the first whelps born to us here on Draenor. She carries Prince Sabellian's deep hopes. She's very important to us."
 
-Sora asked in surprise, "You mean she's only three or four years old? Is it because of the Skull of Gul'dan? I thought she'd been alive for at least a decade, maybe more."
+Sola asked in surprise, "You mean she's only three or four years old? Is it because of the Skull of Gul'dan? I thought she'd been alive for at least a decade, maybe more."
 
 "It has nothing to do with that artifact. But yes, the young ones do grow quickly under the prince's care," Gorlorio said.
 
 He turned to Jace. "Needleflame has told me your intentions. You want a truce and an alliance with the Blackwing. She says you're even willing to help us rescue Prince Sabellian from the orcs and demons. I want to know — can you make that decision on your own? And you haven't dared step outside your walls in years. That makes one wonder how much strength you still have."
 
-"I can't make the decision for the whole expedition," Jace said. "But it seems worth discussing to me. If rescuing Prince Sabellian means gaining the full support of the Blackwing flight, I believe Marshal Turalyon would give it serious thought. As for our strength — have you heard about Highmaul?"
+"I can't make the decision for the whole expedition," Jace said. "But it seems worth discussing to me. If rescuing Prince Sabellian means gaining the full support of the Blackwing Legion, I believe General Turalyon would give it serious thought. As for our strength — have you heard about Highmaul?"
 
 "Of course..." Gorlorio's expression shifted. He furrowed his thick black brows. "The Alliance did that?"
 
-"It was us. The ley line node under Highmaul was detonated. Countless demons and Shadow Council orcs died in the explosion and the void vortex." Jace rubbed his fingers together.
+"It was us. The ley line nexus under Highmaul was detonated. Countless demons and Shadow Council orcs died in the explosion and the void vortex." Jace rubbed his fingers together.
 
 Adult black dragons were masters at reading emotions. His encounters with Deathwing and Onyxia had taught Jace that well enough.
 
@@ -118,4 +118,4 @@ As Gorlorio mulled it over, Jace continued. "But even setting Highmaul aside, wh
 
 The black dragon took a deep breath. "I don't like this feeling, Jace Sesso."
 
-After a moment, he lifted his head and glanced at Sora. "But I'll go. For Queen Ysera's sake."
+After a moment, he lifted his head and glanced at Sola. "But I'll go. For Queen Ysera's sake."

@@ -82,15 +82,15 @@ The moment Jace said this, a murmur broke out among the onlookers.
 
 "No way..."
 
-Back in the cabin, Jace took the crystal out of the box and handed it to Morfell. "Hold on to it. Protect it with your life."
+Back in the cabin, Jace took the crystal out of the box and handed it to Morophil. "Hold on to it. Protect it with your life."
 
-"Then stab me to death, Master," Morfell said flatly.
+"Then stab me to death, Master," Morophil said flatly.
 
-Jace glared. Morfell let out a pained "ow" and pinched the blue ice crystal between two fingers.
+Jace glared. Morophil let out a pained "ow" and pinched the blue ice crystal between two fingers.
 
 "Thanks." Jace stroked her horn, and only then did the succubus manage a reluctant nod.
 
-Sazeno beside them couldn't help but snicker. Morfell suddenly whipped her head toward him.
+Sazeno beside them couldn't help but snicker. Morophil suddenly whipped her head toward him.
 
 Jace came out and closed the door. A shriek came from inside — it nearly overpowered the sound of the waves outside.
 
@@ -104,7 +104,7 @@ The mage took it and immediately spotted the Violet Eye on its lid.
 
 "Come here and test it with your pearl, dwarf."
 
-The dwarf looked at the mage. The mage nodded, signaling the sailors to stand aside. The dwarf took the pearl back out and placed in the box. He shot Jace a suspicious look. "You two aren't in cahoots, are you?"
+The dwarf looked at the mage. The mage nodded, signaling the sailors to stand aside. The dwarf took the pearl back out and placed it in the box. He shot Jace a suspicious look. "You two aren't in cahoots, are you?"
 
 "Or you could have a firefight with them, shoot some unlucky bastard, and get tossed into the sea," Jace said. "Your call."
 
@@ -132,13 +132,13 @@ The question made the dwarf go guarded at once. He hemmed and hawed, mumbling, "
 
 "What?!" the dwarf jumped. "That's daylight robbery! A five-gold item and you want five gold as a storage fee?!"
 
-Jace drew an inch of Azure Song. "Since you put it that way — yes, it's robbery."
+Jace drew an inch of Azuresong. "Since you put it that way — yes, it's robbery."
 
 The arcane light from the blade illuminated the dwarf's face. He blinked several times. "Five gold... fine, five gold."
 
 "Now you've made me unhappy with your attitude, so it's six," Jace said. "And pay up now."
 
-"Six... all right, six. Sorry, young sir." The nodded, fumbled out his purse, and counted out several gold coins, handing them over.
+"Six... all right, six. Sorry, young sir." The dwarf nodded, fumbled out his purse, and counted out several gold coins, handing them over.
 
 Jace knew damn well that pearl couldn't be worth only that much.
 
@@ -146,10 +146,10 @@ This dwarf seemed like an Explorers' League man, or a treasure hunter connected 
 
 He even felt he'd undercharged on the storage fee.
 
-Jace pocketed the gold coins and said, "Pleasing doing business. Come find me when we make landfall, dwarf — ask for Mr. Urk."
+Jace pocketed the gold coins and said, "Pleasure doing business. Come find me when we make landfall, dwarf — ask for Mr. Yurk."
 
-"Urk?" the dwarf asked.
+"Yurk?" the dwarf asked.
 
-"Right. Your good friend Urk," Jace said.
+"Right. Your good friend Yurk," Jace said.
 
 The dwarf nodded, aggrieved.

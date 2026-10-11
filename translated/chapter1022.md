@@ -12,7 +12,7 @@ But the more Jace looked at it, the more familiar it seemed.
 
 "Ah, you can actually tell," the goblin said with a smile. "The devilsaur is without a doubt the most powerful, most fearsome beast in all of Stranglethorn! If you ask me, it's not much worse than a dragon! A lot of people say that wearing devilsaur leather makes you as strong and savage as a devilsaur itself… I can't say I feel that directly, but I'll admit this outfit's at least given me a bit more confidence for adventuring!"
 
-Jace smiled and said, "Where I come from there's an old saying: the worst students have the fanciest stationery."
+Jace smiled and said, "Where I come from there's an old saying: all the gear and no idea."
 
 Pokodiaz spread his hands. "As an adventurer I really am a rank amateur, but more is always better than less, wouldn't you say?"
 
@@ -28,7 +28,7 @@ So that was why, a decade from now, there wouldn't be a single devilsaur left in
 
 By now the jungle had gone noticeably quieter. The goblin glanced around and whispered, "Is there danger about? The animals must be sensing something terrible that I can't."
 
-No. Jace looked up. He knew it was Sola… no, Solamiel, coming.
+No. Jace looked up. He knew it was Sola… no, Somaelir, coming.
 
 A shadow swept across the ground overhead, accompanied by a rush of wind, and the surrounding trees shuddered.
 
@@ -52,11 +52,11 @@ The green dragon touched down, spread her wings wide, curled her tail, and stret
 
 "I answer your summons, Jace Sesso," she said, reciting the line they'd rehearsed with perfect form. "Is this the ally who helped us find the blood of the chromatic dragon?"
 
-"Yes!" Pokodiaz chirped happily, then immediately realized something was off and waved his hands. "No no no, wait—I didn't find it. I bought it, bought it from someone else. But I'm absolutely an ally of the dragons, no question about it. During the Orc Wars a lot of idiots in the Trade Cartel did business with the orcs, but I personally never funded Orgrim and his Horde a single copper! I'm nothing like them!"
+"Yes!" Pokodiaz chirped happily, then immediately realized something was off and waved his hands. "No no no, wait—I didn't find it. I bought it, bought it from someone else. But I'm absolutely an ally of the dragons, no question about it. During the Orc Wars a lot of idiots in the Steamwheedle Cartel did business with the orcs, but I personally never funded Orgrim and his Horde a single copper! I'm nothing like them!"
 
 The green dragon didn't respond to his declaration. Pokodiaz could only laugh awkwardly, while Jace shot him a skeptical glance.
 
-This guy had never exactly said where his money came from. He didn't live inside Booty Bay proper, and his relationship with the bay's ruler, Revilgaz, was… complicated. But given how much bad blood he had with the Bloodsail Buccaneers, he probably had ties to the Trade Cartel—or even the Blackwater Raiders—that he didn't want to talk about.
+This guy had never exactly said where his money came from. He didn't live inside Booty Bay proper, and his relationship with the bay's ruler, Revilgaz, was… complicated. But given how much bad blood he had with the Bloodsail Buccaneers, he probably had ties to the Steamwheedle Cartel—or even the Blackwater Raiders—that he didn't want to talk about.
 
 "Ready?" Jace asked.
 
@@ -66,23 +66,23 @@ Jace climbed up the young dragon's foreleg, then reached back down, grabbed the 
 
 He looked down at the young dragon as she shifted her body and shuffled forward, and stammered, "I'm not dreaming, am I?"
 
-Solamiel lifted her head, a trace of anger in her voice. "What do you take me for? I assure you I haven't used any magic on you, little one. All of this is perfectly real."
+Somaelir lifted her head, a trace of anger in her voice. "What do you take me for? I assure you I haven't used any magic on you, little one. All of this is perfectly real."
 
 "What do you mean?" the goblin blinked.
 
 "It means it's not a dream. Nothing deeper than that," Jace explained, then pointed at the dragon's back. "See those horns and scales up there? Green dragons are venomously toxic. If you accidentally brush up against them and get scratched and something goes wrong, that's on you."
 
-"What…" Pokodiaz hugged Jace's neck even tighter. "So you came along for my safety? What about you, Mr. Slovaka—aren't you in danger too?"
+"What…" Pokodiaz hugged Jace's neck even tighter. "So you came along for my safety? What about you, Mr. Slovakia—aren't you in danger too?"
 
 Jace said, "I already know how to avoid getting hurt. But it's your first time, so be careful."
 
 "Thank you. I'll remember that," the goblin said quickly, nodding.
 
-"Hold on tight," Solamiel said.
+"Hold on tight," Somaelir said.
 
 "We're ready, Great Green Dragon," Jace said.
 
-Solamiel seemed to take to the name naturally, though she gave Jace a strange sideways glance.
+Somaelir seemed to take to the name naturally, though she gave Jace a strange sideways glance.
 
 She spread her wings, and Jace saw her shoulder muscles tense—completely different from the gentle lift-off he'd felt before…
 

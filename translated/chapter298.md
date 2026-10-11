@@ -46,7 +46,7 @@ The moment the boar spotted Jace, it charged with a snort, kicking up a trail of
 
 He watched the boar tumble down the hillside, then ran and slid after it in pursuit. The moment he caught up, the boar had just gotten its legs under it — and Jace drove the blade into its back.
 
-The blade was terrifyingly fast — in and out like stabbing tofu. Jace could hardly believe it, given that this was a thick-skinned, thick-fleshed Blackrock boar...
+The blade was terrifyingly fast — in and out like a hot knife through butter. Jace could hardly believe it, given that this was a thick-skinned, thick-fleshed Blackrock boar...
 
 The boar howled in pain and whipped its head back to gore him. Jace leaped aside.
 
@@ -78,19 +78,19 @@ He did not know. Just taking down a boar was not enough to feel any change in st
 
 That was the worst part of living here — no stat panel. Everything came down to trial, guesswork, and comparison.
 
-But thinking back to fighting that whelp at Southshore — he and Grede, plus he did not know how many Lordaeron soldiers, had besieged it for ages before finally killing it.
+But thinking back to fighting that drake at Southshore — he and Grede, plus he did not know how many Lordaeron soldiers, had besieged it for ages before finally killing it.
 
 And here, just him and Vereesa had done it.
 
 So whatever else, he must have gotten a lot stronger along the way.
 
-Not to mention this whelp seemed even stronger than the one at Southshore — after all, it could spew the Shadowflame that appeared in the game. The black dragon before had only mixed a bit of Shadow into its fire.
+Not to mention this drake seemed even stronger than the one at Southshore — after all, it could spew the Shadowflame that appeared in the game. The black dragon before had only mixed a bit of Shadow into its fire.
 
 He had thought that was what Shadowflame looked like, but having seen the real thing here, he finally understood the difference.
 
 Jace raised his head and gazed at the hazy peak of Blackrock Mountain in the distance, imagining the power of the Shadowflame Nefarian could unleash.
 
-If a single whelp was this terrifying, let alone an adult dragon — or Nefarian himself.
+If a single drake was this terrifying, let alone an adult dragon — or Nefarian himself.
 
 By now the boar had stopped moving. Bright red blood pooled on the ground.
 
@@ -98,18 +98,6 @@ He walked over and gave it a kick to make sure it was truly dead, then started c
 
 The boar's head did not look like it had much meat — all tusks and skin stretched over bone — but it made up half the body's size. The whole boar was too heavy. Jace had no interest in lugging that massive skull back, so he just cut the whole thing off.
 
-After finally getting the head off, he was so tired he could barely stand. It felt harder than killing that whelp.
+After finally getting the head off, he was so tired he could barely stand. It felt harder than killing that drake.
 
 He wiped the sweat from his forehead. The distant volcano had doubled in his vision.
-
-## Flags
-
-- **燃烧平原:** "the Burning Steppes" — not in glossary. Flag for confirmation.
-- **黑石山:** "Blackrock Mountain" — not in glossary. Flag for confirmation.
-- **火蜥蜴:** "fire lizard" — not in glossary. Flag for confirmation.
-- **虚弱诅咒:** "Curse of Weakness" (in glossary).
-- **解毒药水:** "antidote" — not in glossary. Flag for confirmation.
-- **南海镇:** "Southshore" — not in glossary. Flag for confirmation.
-- **格瑞德:** "Grede" (in glossary).
-- **奈法利安:** "Nefarian" (in glossary).
-- **吸取生命/活力:** rendered as "drain life force" / "draining life"; glossary has 生命吸取/抽血咒 = Life Drain/Blood Drain. Flag for preferred rendering.

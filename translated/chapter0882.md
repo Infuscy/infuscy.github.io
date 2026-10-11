@@ -10,7 +10,7 @@ She'd probably been about to tell Jace that if he didn't want to look, he didn't
 
 Leaning in close to the stone, Grede and Mosa made room like spectators at a show. Vereesa, watching him, also stepped aside, her expression looking vaguely guilty.
 
-Jace glanced at her, set Ursoloth to the side — he didn't want to know what that staff looked like in the stone, and more importantly, he didn't want the blue dragon here to know what it was.
+Jace glanced at her, set Ulthalesh to the side — he didn't want to know what that staff looked like in the stone, and more importantly, he didn't want the blue dragon here to know what it was.
 
 Then he squinted and looked inside.
 
@@ -38,7 +38,7 @@ By comparison, his own face looked stiff as a corpse.
 
 Then a dwarf — indistinguishable from an ordinary black-bearded Wildhammer — barged into the frame.
 
-Grede turned his head back and forth. "Disappointing. I thought I'd see a lord of the abyss in there."
+Grede turned his head back and forth. "Disappointing. I thought I'd see a pit lord in there."
 
 Mosa also squeezed into the frame, coming to stand between Vereesa and Grede. She was a pure tauren too — every horn, every strand of fur identical to her real self.
 
@@ -48,11 +48,11 @@ She looked at Jace's reflection and grinned. "Evil fire mage. Darkness has corru
 
 Grede and Vereesa both burst out laughing. Then suddenly, a lizard head covered in green scales poked in from behind Jace, startling everyone. They whipped around.
 
-Sulenna was staring wide-eyed at the reflection in the soul mirror. The group dissolved into laughter.
+Sola was staring wide-eyed at the reflection in the soul mirror. The group dissolved into laughter.
 
 Mosa wrapped her arms around everyone in a hug. Jace, squeezed in the middle, laughed along happily. The evil soul in the stone might have been grinning like an ultimate villain, but at least it was a grin.
 
-Sulenna was laughing too, and that goofy lizard head in the mirror kept coughing and flicking its tongue, looking as innocent as some reptile prey just caught by this motley band of hunters.
+Sola was laughing too, and that goofy lizard head in the mirror kept coughing and flicking its tongue, looking as innocent as some reptile prey just caught by this motley band of hunters.
 
 Watching how ridiculous she looked, the group laughed even harder, doubled over.
 
@@ -60,17 +60,17 @@ But watching that lizard head — watching Jace, hugged in the middle of a bunch
 
 So, could this mirror see through a dragon's disguise?
 
-But the moment that thought surfaced from the bottom of his heart, the gray-blue-haired High Elf that barged into the frame next dealt him a crushing blow.
+But the moment that thought surfaced from the bottom of his heart, the gray-blue-haired high elf that barged into the frame next dealt him a crushing blow.
 
 Azuregos walked up behind the group and looked in. In the mirror, his mortal form didn't even have the horns on his head — he looked even more "mortal" than the mortal guise he'd revealed to them.
 
-"If I were you, I wouldn't be laughing at all, Miss Sulenna. Look at your ridiculous appearance in this mirror — like a stunted dragonkin. If I discovered my loyal servant had turned into your sort of spectacle after the Ascension ceremony, I'd tear his head off with magic on the spot and throw the corpse into the sea for the sharks."
+"If I were you, I wouldn't be laughing at all, Miss Sola. Look at your ridiculous appearance in this mirror — like a stunted dragonkin. If I discovered my loyal servant had turned into your sort of spectacle after the Ascension ceremony, I'd tear his head off with magic on the spot and throw the corpse into the sea for the sharks."
 
-The smile on Sulenna's face froze. Slowly, quietly, she shifted her reflection's gaze away from the mirror.
+The smile on Sola's face froze. Slowly, quietly, she shifted her reflection's gaze away from the mirror.
 
 "You didn't have to put it that harshly," Vereesa said, displeased.
 
-"Spur one to progress," Azuregos said.
+"A spur to improvement," Azuregos said.
 
 "The principle isn't wrong," Grede said, scratching his beard.
 
@@ -88,9 +88,9 @@ But then Azuregos's appearance had just extinguished the hope he'd kindled. This
 
 Still, he did notice something off about Azuregos's reflection in the mirror at the end.
 
-Compared to an ordinary High Elf, his eyes weren't like arcane flames — they were like two translucent arcane sapphires, crystalline and beautiful.
+Compared to an ordinary high elf, his eyes weren't like arcane flames — they were like two translucent arcane sapphires, crystalline and beautiful.
 
-Though there wasn't a single trace of dragon about him, just comparing this appearance to Vereesa's true High Elf soul-form, you could still barely tell they weren't the same race.
+Though there wasn't a single trace of dragon about him, just comparing this appearance to Vereesa's true high elf soul-form, you could still barely tell they weren't the same race.
 
 "Your mortal form is still distinguishable from the Quel'dorei, Azuregos. Does that mean it's still possible to use this thing to identify dragons among mortals?" Jace asked.
 
@@ -114,7 +114,7 @@ Hearing Jace's reasoning, Azuregos's lips moved, but he said nothing. He looked 
 
 He fell silent for a long time, then said, "Actually, there's something I hadn't planned to mention, but it's been lodged in my heart. Since you intend to take this thing away, I might as well be frank with you all."
 
-"When Deathwing descended on Grim Batol, I heard the call of the red dragon queen, Alexstrasza. She was calling my name — Azuregos — hoping I would go to Grim Batol to help you. But I didn't answer her. At the time, I told myself I had my own responsibilities, the mission Malygos had given me, and the duties other dragonflights had entrusted to me. And the coast of Eldallas had too many evil naga and foolish poachers. If these artifacts were to fall into mortal hands, it would cause far too much serious trouble. But afterward, I realized this was nothing more than an excuse I'd fashioned for my own cowardice. Because I didn't dare face Neltharion."
+"When Deathwing descended on Grim Batol, I heard the call of the red dragon queen, Alexstrasza. She was calling my name — Azuregos — hoping I would go to Grim Batol to help you. But I didn't answer her. At the time, I told myself I had my own responsibilities, the mission Malygos had given me, and the duties other dragonflights had entrusted to me. And the coast of Eldarath had too many evil naga and foolish poachers. If these artifacts were to fall into mortal hands, it would cause far too much serious trouble. But afterward, I realized this was nothing more than an excuse I'd fashioned for my own cowardice. Because I didn't dare face Neltharion."
 
 "Besides, this isn't anything that important. Malygos didn't send me here to guard these trinkets in the first place. Take it, Jace Sesso."
 
@@ -130,12 +130,12 @@ Leaving the palace and returning to the bleak coast, the dragonkin who'd followe
 
 "Still, I do need to keep it, Vere," Jace said.
 
-"I know," Vereesa said. "But now that we have it, I can record more of its characteristics — including magical traits, even sympathetic resonances. That should definitely earn us a bigger reward, no?"
+"I know," Vereesa said. "But now that we have it, I can record more of its characteristics — including magical traits, even sympathetic magics. That should definitely earn us a bigger reward, no?"
 
 "True enough." Jace nodded, gripping the mirror stone.
 
-Mofir came up beside them. Jace held up the stone, looked at her, and asked with a smile, "Want to see what your demon soul looks like, Sayad?"
+Morophil came up beside them. Jace held up the stone, looked at her, and asked with a smile, "Want to see what your demon soul looks like, sayaad?"
 
-"No." Mofir's faintly smiling expression suddenly turned cold. "I don't want to see it." Her tone was resolute — she didn't even crack a joke on the way out, which caught even Vereesa a little off guard. Jace, of course, wasn't surprised.
+"No." Morophil's faintly smiling expression suddenly turned cold. "I don't want to see it." Her tone was resolute — she didn't even crack a joke on the way out, which caught even Vereesa a little off guard. Jace, of course, wasn't surprised.
 
 He remembered she'd mentioned before that her former superior Brutallus had torn the wings from her soul, so they'd never grown back. It was perfectly natural that she wouldn't want to see her soul in its broken state.

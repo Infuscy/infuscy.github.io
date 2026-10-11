@@ -22,7 +22,7 @@ The surviving elementals, or the Dark Iron dwarves who still worshipped Ragnaros
 
 At first, Jace had tried to use the Talisman of Ephemeral Power's enhanced perception to pick Grede out from these emotions.
 
-But he quickly realized Grede was also a dwarf. At this moment, he was most likely just one thread among this storm of fanatical emotion. Following these emotions would only lead him to Bronzebeards and gryphon knights who were either fleeing or bragging to their companions as they fled. A complete waste of energy, a complete waste of time.
+But he quickly realized Grede was also a dwarf. At this moment, he was most likely just one thread among this storm of fanatical emotion. Following these emotions would only lead him to Bronzebeards and gryphon riders who were either fleeing or bragging to their companions as they fled. A complete waste of energy, a complete waste of time.
 
 But now, he sensed an extremely unusual emotion.
 
@@ -34,25 +34,23 @@ He lunged forward and grabbed the Talisman of Ephemeral Power again. The stone t
 
 Now the vengeful emotion became clear again. Jace scrambled up and ran toward its source.
 
-He slid down a steep slope, shadowstepped through a rock fissure, and burst into a black stone crevice arched over with collapsed boulders. A squat fire elemental with yellow-orange scales -- the source of that vengeful emotion -- stood with both arms raised, holding a short, three-pronged trident that blazed with bright fire.
+He slid down a steep slope, shadowstepped through a rock fissure, and burst into a black stone crevice arched over with collapsed boulders. A squat flamewaker with yellow-orange scales -- the source of that vengeful emotion -- stood with both arms raised, holding a short, three-pronged trident that blazed with bright fire.
 
 And beneath him lay the dwarf!
 
 He was lying right there, not moving. *Get up, damn it! Give him a hammer to the face!*
 
---
-
-In an instant, the Blood Grasp shot out, seizing the fire elemental's arm and neck. The threads went taut in the blink of an eye. The swelling fury made this bloody shadow energy twist with power. The elemental was torn apart on the spot, exploding, its incomplete cry of "Ragnaros" turning into a chunk of burning meat.
+In an instant, Gorefiend's Grasp shot out, seizing the flamewaker's arm and neck. The threads went taut in the blink of an eye. The swelling fury made this bloody shadow energy twist with power. The elemental was torn apart on the spot, exploding into chunks of burning meat, its cry of "Ragnaros" cut short.
 
 "Grede!" Jace roared, lunging forward and grabbing the dwarf's shoulder. "Everyone's been worrying about you, and you're playing dead here?!"
 
 But the dwarf was covered in burnt bloodstains, looking just like a Dark Iron dwarf. When he slowly opened his eyes, it only made the resemblance stronger.
 
-If not for his height being a bit taller than the average dwarf, and the Sky-Shatterer lying in a nearby pile of rocks, Jace would never have recognized him as Grede Thunderfist.
+If not for his height being a bit taller than the average dwarf, and Skyshatter lying in a nearby pile of rocks, Jace would never have recognized him as Grede Thunderfist.
 
 "Gotcha... good, didn't I?" Grede coughed out a laugh, swallowing with difficulty. "That... dagger. Must be good stuff. Don't forget to grab it when you leave."
 
-Jace immediately pulled out the Powerful Healing Potion, uncorked it, and brought it to Grede's lips.
+Jace immediately pulled out the Greater Healing Potion, uncorked it, and brought it to Grede's lips.
 
 "Drink this! I knew it'd come in handy, I knew it--"
 
@@ -60,7 +58,7 @@ Grede's lips moved. He drank as much of the potion as he could, but even though 
 
 "What fake crap... fake..." Jace tossed the bottle aside. "Just hold on."
 
-"Vaelastrzasz! Sora! Anyone who believes in the Holy Light, whatever -- this needs a healer!" he shouted, no longer able to suppress the bitterness rising in his throat.
+"Vaelastrasz! Sola! Anyone who believes in the Holy Light, whatever -- this needs a healer!" he shouted, no longer able to suppress the bitterness rising in his throat.
 
 *Holy Light. Holy Light... I'm begging you.*
 
@@ -76,7 +74,7 @@ Not a single glimmer of light appeared in the dark cave.
 
 Jace swallowed, steadied his breathing.
 
-"Don't sleep. Hold on a little longer. Sora must have heard me. She'll be here soon. Once she comes, you can close your eyes. Then you won't be able to wake up even if you want to."
+"Don't sleep. Hold on a little longer. Sola must have heard me. She'll be here soon. Once she comes, you can close your eyes. Then you won't be able to wake up even if you want to."
 
 "So tired, Jace." Grede's voice was barely a whisper. "I..."
 
@@ -90,9 +88,9 @@ Jace swallowed, steadied his breathing.
 
 The dwarf's gaze was slowly going unfocused. Jace reached out and pried his eyelid open again.
 
-"What about Mosa?! Don't you want to go back to Kalimdor?! Mosa! She's still waiting for you on the plains to help her kill all those centaurs! I'll come too! Vereesa will come too! Mosa's Mulgore plains she told you about -- you don't want to see them?"
+"What about Mosa?! Don't you want to go back to Kalimdor?! Mosa! She's still waiting for you on the plains to help her kill all those centaur! I'll come too! Vereesa will come too! Mosa's Mulgore plains she told you about -- you don't want to see them?"
 
-"Needleflame, Sora -- those two dragons fly over the plains and burn all the centaur camps to ashes in one go. Then you tell Mosa and her tribe it was all you. What could be more satisfying than that? And you're just going to give up?!"
+"Needleflame, Sola -- those two dragons fly over the plains and burn all the centaur camps to ashes in one go. Then you tell Mosa and her tribe it was all you. What could be more satisfying than that? And you're just going to give up?!"
 
 Grede's lips moved silently, as if mouthing Mosa's name.
 
@@ -124,29 +122,29 @@ Whistling wind came from outside. A boulder fell behind them, firelight pouring 
 
 A massive crimson figure blocked the light. It quickly shrank into a human form dressed in red.
 
-"Vaelastrzasz! Vaelastrzasz... hurry!"
+"Vaelastrasz! Vaelastrasz... hurry!"
 
 Jace shouted. But the dwarf in his arms had stopped speaking.
 
-Vaelastrzasz turned into a streak of flame, rushing to his side and taking Grede -- even the scales on his wrist hadn't fully receded yet.
+Vaelastrasz turned into a streak of flame, rushing to his side and taking Grede -- even the scales on his wrist hadn't fully receded yet.
 
 "Save his life, Vael," Jace said quietly. "For the Dragonqueen's sake. For... for everything's sake."
 
-Vaelastrzasz said nothing. His brow was deeply furrowed. He carefully placed a hand on Grede's chest. A flame kindled in his palm.
+Vaelastrasz said nothing. His brow was deeply furrowed. He carefully placed a hand on Grede's chest. A flame kindled in his palm.
 
 Jace slumped to the side. For some reason, he didn't want to look up anymore. He just stared at the rubble on the ground, breathing hard. Breathing and breathing.
 
 "Jace Sesso."
 
-"What did you say?!" Jace flinched involuntarily. When he saw Vaelastrzasz's startled expression, he realized he had lost control. "Sorry."
+"What did you say?!" Jace flinched involuntarily. When he saw Vaelastrasz's startled expression, he realized he had lost control. "Sorry."
 
 "It's nothing." The red dragon pursed his lips. "He won't die, Jace Sesso. I mean... at least not now."
 
 "Really?" Jace grabbed the red dragon's crimson robe. "Are you serious?"
 
-"His will to live is very strong," Vaelastrzasz said. "If it weren't... even one step later, and not even Her Majesty herself could have saved him."
+"His will to live is very strong," Vaelastrasz said. "If it weren't... even one step later, and not even Her Majesty herself could have saved him."
 
-"I understand. I understand. Thank you, Vaelastrzasz. Thank you, truly."
+"I understand. I understand. Thank you, Vaelastrasz. Thank you, truly."
 
 Jace nodded hard, wiped his eyes with his arm, then asked: "What do you mean, 'at least not now'?"
 

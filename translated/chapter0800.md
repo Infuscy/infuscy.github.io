@@ -32,7 +32,7 @@ Jace nodded. "Then I might need quite a lot. Is this potion expensive?"
 
 "You're planning to attack the Shadowlands?!" the goblin asked in surprise.
 
-"It's not that dramatic, Bax Mixxelder," the troll witch doctor said. "I'll charge you two gold. How's that, Jace Sesso?"
+"It's not that dramatic, Bacchus Mithershield," the troll witch doctor said. "I'll charge you two gold. How's that, Jace Sesso?"
 
 "Fine," Jace said.
 
@@ -46,7 +46,7 @@ Jace stopped at the cave entrance. Sylia looked back at him. "You're not coming 
 
 The troll nodded, gave a cold laugh, and disappeared into the doorway.
 
-Molophil crept close and whispered, "Can't you feel it, Master? She wants you to go in… Just go ahead, I won't tell the Quel'dorei about this."
+Morophil crept close and whispered, "Can't you feel it, Master? She wants you to go in… Just go ahead, I won't tell the Quel'dorei about this."
 
 Jace pulled his hood tighter, counted out two gold coins from his pocket, and said, "Stop talking."
 
@@ -86,23 +86,23 @@ Her voice was extremely raspy. If you didn't look at her cat-like face, you'd re
 
 "I mean well." The troll bared her fangs in a smile.
 
-Jace said nothing more. He glanced at Molophil, signaling her to follow, and turned to leave the witch doctor's lair.
+Jace said nothing more. He glanced at Morophil, signaling her to follow, and turned to leave the witch doctor's lair.
 
-Before he'd even reached the Sailor's Home inn, Jace could already hear the dwarf's thunderous laughter from inside. Grede must be having a great time.
+Before he'd even reached the Salty Sailor Tavern, Jace could already hear the dwarf's thunderous laughter from inside. Grede must be having a great time.
 
 The sky had already darkened, and the inn's doorway was packed with people — most of them dressed in ragged clothes.
 
 Every customer who wanted to go in had to squeeze through these people, clutching their bags tightly, eyeing these ill-intentioned men cautiously, terrified they'd reach out.
 
-But when Jace approached, Molophil's presence behind him immediately cleared a path wide enough to pass through comfortably. Every time he came to Booty Bay, Jace felt there were occasional perks to being a universally despised warlock — after all, the "people" here didn't distinguish between good and bad, high or low.
+But when Jace approached, Morophil's presence behind him immediately cleared a path wide enough to pass through comfortably. Every time he came to Booty Bay, Jace felt there were occasional perks to being a universally despised warlock — after all, the "people" here didn't distinguish between good and bad, high or low.
 
 Deep inside the inn, a group of sturdy, muscular men were shouting and hollering around a massive wooden target. A bare-chested goblin was hefting a short axe and aiming at the target while the goblins around him cheered him on.
 
-Grede stood to the side with his folded arms, looking coldly at the goblin's movements, a look of contempt on his face. He was so absorbed in the game he hadn't even noticed Jace appear at the door.
+Grede stood to the side with his arms folded, looking coldly at the goblin's movements, a look of contempt on his face. He was so absorbed in the game he hadn't even noticed Jace appear at the door.
 
-"Over there, Master," Molophil murmured in his ear, pointing toward a corner. Jace looked where she pointed — Vereesa was raising her hand at him.
+"Over there, Master," Morophil murmured in his ear, pointing toward a corner. Jace looked where she pointed — Vereesa was raising her hand at him.
 
-The inn was packed shoulder to shoulder. Even though everyone was a bit afraid of a demon like Molophil, they had no way to clear a path for Jace, so he could only slowly wriggle through with the succubus and come to the table, sitting down next to the elf.
+The inn was packed shoulder to shoulder. Even though everyone was a bit afraid of a demon like Morophil, they had no way to clear a path for Jace, so he could only slowly wriggle through with the succubus and come to the table, sitting down next to the elf.
 
 "He's been at it for a long time," Vereesa said with a shake of her head. "Should we eat something first, or wait for him?"
 
@@ -116,7 +116,7 @@ Vereesa twitched her nose, pulled Jace's cloak over, and sniffed again. "A foul 
 
 Vereesa frowned. "A witch doctor? I thought you were going to the goblin for Spectral Goggles? What was that goblin alchemist's name again, Buck…"
 
-"Bax Mixxelder," Jace said. "But the Spectral Goggles have a lot of problems. Relatively speaking, the potion is more suitable. As it happens, that goblin knows a troll witch doctor who can solve this problem."
+"Bacchus Mithershield," Jace said. "But the Spectral Goggles have a lot of problems. Relatively speaking, the potion is more suitable. As it happens, that goblin knows a troll witch doctor who can solve this problem."
 
 "Using troll stuff feels really strange to me," Vereesa said. "Never mind their creepy witchcraft and hexes… just their recipes. These trolls like to use all kinds of bodily fluids — not just blood, but sweat, spit, urine and the like — to make potions. Doesn't that disgust you?"
 

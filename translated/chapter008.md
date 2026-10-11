@@ -1,6 +1,6 @@
 ## Chapter 8: A New Plan
 
-Actually, ever since the day he'd heard the new warlock Sulenna casting in the basement of the Slaughtered Lamb, an idea had been taking shape in the back of Jace's mind.
+Actually, ever since the day he'd heard the new warlock Surena casting in the basement of the Slaughtered Lamb, an idea had been taking shape in the back of Jace's mind.
 
 He would listen to the incantations from these warlocks, try to memorize the approximate pronunciation, and then piece them together into complete spells to master.
 
@@ -30,7 +30,7 @@ The root of it was that, in this era, many of these secret dark-magic practition
 
 Many even assumed it was some kind of Orcish or ogre runic language, and pored over Orcish dictionaries compiled by scholars during the war or ogre studies — heading down the wrong path entirely.
 
-This situation wouldn't improve until the Third Orc War — the Scourge invasion and the Battle of Mount Hyjal, a decade or so from now.
+This situation wouldn't improve until the Third War — the Scourge invasion and the Battle of Mount Hyjal, a decade or so from now.
 
 By then, the demons who had poured in through the Burning Legion's invasion, after their defeat, had scattered and fled to every corner of Azeroth, spreading true demon magic to locals and cultists who worshipped them as gods. The mass opening of portals had also drawn Azeroth closer to the Twisting Nether, making demon summoning far easier.
 
@@ -38,15 +38,15 @@ At the same time, organized bands of orcish and ogre warlocks had hidden themsel
 
 Unfortunately, that was still over a decade away.
 
-Right now, Jace was quite possibly the only person in all of Stormwind who knew that the incantations of shadow and fel magic weren't Orcish at all, and certainly not ogre — but were complex incantations interwoven from a large amount of Demonic, a small amount of the dreadlords' native tongue (ancient Nathrezim), the pit lords' native tongue (Annihilan), and the language of the dark gods of the Void (Shath'yar).
+Right now, Jace was quite possibly the only person in all of Stormwind who knew that the incantations of shadow and fel magic weren't Orcish at all, and certainly not ogre — but were complex incantations interwoven from a large amount of Demonic, a small amount of the dreadlords' native tongue (ancient Nathrezim), the pit lords' native tongue (Annihilan), and the language of the dark gods of the Void (Shath'Yar).
 
 He needed to go to the library and find records of Demonic — or rather, Eredun. After all, Demonic was, in the end, just a dialect of Eredun.
 
-Next, he would use truly accurate methods to correct these warped, misshapen incantations and overtake them on the curve.
+Next, he would use truly accurate methods to correct these warped, misshapen incantations and leapfrog the lot of them.
 
-After cleaning Master Marin's study, Jace walked along the spiraling walkways of the Mage Quarter. He gazed down the gloomy alley that led to the Slaughtered Lamb, then turned and walked toward another, more popular inn in the district.
+After cleaning Master Malin's study, Jace walked along the spiraling walkways of the Mage Quarter. He gazed down the gloomy alley that led to the Slaughtered Lamb, then turned and walked toward another, more popular inn in the district.
 
-This was the place most mages tired of the Wizard Sanctum's pastries and bread frequented — the famous Blue Shade, home of the spellcaster.
+This was the place most mages tired of the Wizard's Sanctum's pastries and bread frequented — the famous Blue Recluse, home of the spellcaster.
 
 Compared to the Slaughtered Lamb, this place was several times livelier, with a more spacious hall that was even split across two floors.
 
@@ -54,7 +54,7 @@ At the railing on the upper floor, a group of tipsy young mage apprentices were 
 
 Someone mentioned that once the Expedition secured victory and Azeroth's safety was guaranteed, Stormwind — rebuilt from catastrophe — would rise from the ashes and transform into the Alliance's new star, humanity's hope. Housing prices would go up ten or twenty times over.
 
-Hearing that, Jace felt his scalp tingle. Damn, these natives really had no fear of consequences.
+Hearing that, Jace felt his scalp prickle. Damn, these natives really had no fear of consequences.
 
 Most importantly, their predictions weren't baseless. If they'd just been talking nonsense, Jace wouldn't have cared this much.
 
@@ -64,13 +64,13 @@ As for how high they'd go, he couldn't say — after all, the game never covered
 
 As things stood, without making some major changes, the outlook wasn't optimistic.
 
-But he hadn't come here to catch the political winds. He was here to plan his next move, grab some lunch, and rest a while until Amy Marin gave him the assistant badge that afternoon.
+But he hadn't come here to catch the political winds. He was here to plan his next move, grab some lunch, and rest a while until Amy Malin gave him the assistant badge that afternoon.
 
-When he sat down, a barman came up and asked what he'd like to eat or drink. Jace asked the prices of a few dishes and desserts, and his scalp tingled even more.
+When he sat down, a barman came up and asked what he'd like to eat or drink. Jace asked the prices of a few dishes and desserts, and his scalp prickled even more.
 
 Especially after hearing that discussion about Stormwind's future economic trajectory, he felt that buying anything slightly expensive would be a sin.
 
-He ordered a portion of Stormwind cheese crumble for six copper and a slice of dry bread — enough protein, salt, and carbs to hold him over until he could freeload free pastries at the Wizard Sanctum that afternoon. Passing out from hunger while he waited would've been a joke.
+He ordered a portion of Stormwind cheese crumble for six copper and a slice of dry bread — enough protein, salt, and carbs to hold him over until he could freeload free pastries at the Wizard's Sanctum that afternoon. Passing out from hunger while he waited would've been a joke.
 
 He was already getting a little lightheaded from hunger. When the "meal" arrived and he shoveled a few bites into his mouth, he finally felt like he had the energy to start thinking about what to do next.
 
@@ -80,11 +80,11 @@ The reason he needed to prepare these shadow-related potions was for his next tr
 
 Going in naked like last time was out of the question. For one, it was too painful. For another, he had no idea what strange, unpredictable magical consequences those half-baked warlocks might inflict on him. He had to protect himself as much as possible and safeguard his health.
 
-After all, health was the capital of revolution. If his body broke down, everything was lost.
+After all, without your health you had nothing. If his body broke down, everything was lost.
 
 Once he had the recipes for these potions, he'd search out where the relevant herbs grew.
 
-Buying those herbs was absolutely out of the question. When he was in Lordaeron, even the most common Peacebloom had sold for several silver a pound. A pound on Azeroth was close to an imperial pound — a bit over four hundred grams, less than a catty. He hadn't asked about the exact prices of other herbs, but none of them would be cheaper than Peacebloom — probably more expensive.
+Buying those herbs was absolutely out of the question. When he was in Lordaeron, even the most common Peacebloom had sold for several silver a pound. A pound on Azeroth was close to an imperial pound — a bit over four hundred grams, a little under half a kilo. He hadn't asked about the exact prices of other herbs, but none of them would be cheaper than Peacebloom — probably more expensive.
 
 Of course, "most common" meant common in the game. Based on Jace's previous work experience, if the cost of gathering a pound of Peacebloom ran to one or two silver, that probably meant harvesting even a single pound required not just herbalism knowledge and the effort of searching, but might even mean risking your life to reach the gathering site and haul it back.
 
@@ -98,7 +98,7 @@ It would eat into some of his money-earning time, but… could the odd jobs in S
 
 Though the recent adventures had been thrilling to the point of nearly costing him his life, and he was wary of risking it like that again, Jace had already realized those experiences had shifted his perspective a bit.
 
-When the afternoon came, Jace returned to Marin's study. Amy was waiting for him there.
+When the afternoon came, Jace returned to Malin's study. Amy was waiting for him there.
 
 "Your badge is ready." Amy held an exquisite small box, opened it, and took out a ring made of some unidentified metal. "This is your assistant badge — yours alone."
 
@@ -108,7 +108,7 @@ And his first name and surname initials had been engraved on it with arcane magi
 
 Still, this ring was his stepping stone into the magical world. He wasn't so short-sighted.
 
-"Thank you, Miss Marin."
+"Thank you, Miss Malin."
 
 "Call me Amy. We might be working together for a long time, after all. Is there anything else I can help with?"
 
@@ -118,20 +118,4 @@ He needed a scroll to record the recipes and approximate locations. If he relied
 
 The prices at shops selling paper, ink, and glyphwork were outright robbery. He hadn't even considered stepping inside one.
 
-Amy handed Jace a paper scroll. Jace thanked her, took the badge, and hurried toward the Wizard Sanctum.
-
-## Flags
-
-- 蓝色隐士: rendered as "the Blue Shade" (mage tavern in the Mage Quarter; not in glossary).
-- 暴风城乳酪碎: rendered as "Stormwind cheese crumble" (menu item; not in glossary).
-- 魔皇草: rendered as "Mageroyal" (WoW herb; not in glossary).
-- 血皇草: rendered as "Bloodthistle" (WoW herb; not in glossary — tentative, could be Bloodthistle).
-- 暗影抗性药剂: rendered as "Shadow Resistance Potion" (not in glossary; distinct from 暗影防护药剂 = Shadow Protection Potion).
-- 纳斯雷兹姆古语 / 安尼赫兰语 / 沙斯亚尔语: rendered as "ancient Nathrezim," "Annihilan," and "Shath'yar" (demon language families; not in glossary).
-- 艾瑞达语: rendered as "Eredun" (canonical demon language; not in glossary).
-- 第三次兽人战争: rendered as "Third Orc War" (not in glossary; the Third War / 天灾入侵 era).
-- 海加尔山大战: rendered as "Battle of Mount Hyjal" (canonical; not in glossary).
-- 诅咒之地: rendered as "the Blasted Lands" (canonical zone; not in glossary).
-- 邪能魔法: rendered as "fel magic" (not in glossary; 邪能 = fel).
-- 木桩: rendered as "practice dummies" (Jace's self-deprecating term for being the warlocks' test subject).
-- 弯道超车: rendered as "overtake them on the curve" (Chinese idiom; meaning: cut corners / overtake by a shortcut).
+Amy handed Jace a paper scroll. Jace thanked her, took the badge, and hurried toward the Wizard's Sanctum.

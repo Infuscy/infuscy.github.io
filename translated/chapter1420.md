@@ -1,6 +1,6 @@
 ## Chapter 1420: Taking This Little Thing Home
 
-By the time Jace and Vereesa had hauled Grede back to the Dwarf District, it was well past midnight. But Jace didn't go home. Instead, he went straight to the Wizard Sanctum, asked where Khadgar was staying, and knocked on his door.
+By the time Jace and Vereesa had hauled Grede back to the Dwarven District, it was well past midnight. But Jace didn't go home. Instead, he went straight to the Wizard's Sanctum, asked where Khadgar was staying, and knocked on his door.
 
 Khadgar didn't seem surprised to see Jace showing up in the middle of the night. He checked the street outside, made sure no one was nearby, and let him in. The moment they sat down, he said, "Next time, try not to bring that black dragon into such crowded places, Jace."
 
@@ -8,7 +8,7 @@ Khadgar didn't seem surprised to see Jace showing up in the middle of the night.
 
 "They just happened to spot you." Khadgar looked at Jace's skeptical expression. "The Kirin Tor isn't following you — at least, not as far as I know. You're in Stormwind, and you just received a Sigil of Tyr's Guardian that even the Silver Hand's knights don't have. Nobody from the north wants to pick a fight with you on Archbishop Faol's turf."
 
-"But that strange rain tonight was your doing, wasn't it? Master Runevale sensed the source of the magic was the Pig and Whistle."
+"But that strange rain tonight was your doing, wasn't it? Master Runeweaver sensed the source of the magic was the Pig and Whistle."
 
 "That's what I came to tell you." Jace said. "It was Aegwynn. She was waiting for me there."
 
@@ -56,13 +56,13 @@ That morning, the sky was perfectly clear, not a cloud in sight. The weather was
 
 "True." Grede said.
 
-"We should be thanking Lady Sora for that." Jace said.
+"We should be thanking Lady Sola for that." Jace said.
 
-Sora lowered her head modestly, brushing back her windblown golden hair with a smile. She'd been keeping this elven form ever since returning from Draenor. After they'd defeated Onyxia, her identity was no longer a secret among Stormwind's high-ranking officials.
+Sola lowered her head modestly, brushing back her windblown golden hair with a smile. She'd been keeping this elven form ever since returning from Draenor. After they'd defeated Onyxia, her identity was no longer a secret among Stormwind's high-ranking officials.
 
 More importantly, now that the Expedition's elves were garrisoned in large numbers across Stormwind, Goldshire, and Lakeshire, an elven appearance no longer drew any attention. So she didn't need to hide her preferred form anymore.
 
-"You're actually happy about carrying them, Sora?" Needleflame ran from behind to the front. "Father taught me — never let mortals ride on our backs!"
+"You're actually happy about carrying them, Sola?" Needleflame ran from behind to the front. "Father taught me — never let mortals ride on our backs!"
 
 "That's because your little body isn't much stronger than a gryphon. He was afraid you'd wear yourself out!" Grede shouted.
 
@@ -76,7 +76,7 @@ More importantly, now that the Expedition's elves were garrisoned in large numbe
 
 "Stop bringing that up! Father told you not to!" The black dragon gritted her teeth.
 
-Sora couldn't help but laugh. She looked at the little black dragon. "Then let me put it this way — I'm very reluctantly taking them to Grim Batol. If it weren't for wanting to visit the Red Dragon Queen, I'd never help them. Does that work?"
+Sola couldn't help but laugh. She looked at the little black dragon. "Then let me put it this way — I'm very reluctantly taking them to Grim Batol. If it weren't for wanting to visit the Red Dragon Queen, I'd never help them. Does that work?"
 
 Needleflame shot her an unhappy look, then turned away entirely, running over to the gryphons under the bridge near Alleria's statue.
 
@@ -94,9 +94,9 @@ Vereesa's gaze slowly rose from Needleflame to her own sister's statue. She star
 
 Henny hurried over from beside Turalyon's statue. Vereesa quickly wiped the tears from her eyes and went to embrace her. Then Henny hugged her son.
 
-"Good morning, Lady Sesso." Vereesa smiled.
+"Good morning, Mrs. Sesso." Vereesa smiled.
 
-"Good morning, Lady Sesso." Sora bowed her head too.
+"Good morning, Mrs. Sesso." Sola bowed her head too.
 
 "Good morning, you three." Henny nodded, then said in Dwarvish, "Good morning, Lord Thunderfist!"
 
@@ -104,7 +104,7 @@ Henny hurried over from beside Turalyon's statue. Vereesa quickly wiped the tear
 
 "You didn't have to come, Mom." Jace said. "But good morning."
 
-Henny nodded. "Vick said you'd only be gone a few days, no need to make a big deal out of it, like his son hasn't grown up. But I still wanted to see you off."
+Henny nodded. "Vic said you'd only be gone a few days, no need to make a big deal out of it, like his son hasn't grown up. But I still wanted to see you off."
 
 "We'll be back soon." Jace gestured toward Needleflame. "We're just taking this unruly little thing home. Nothing major."
 
@@ -126,6 +126,6 @@ They said their goodbyes to Henny and started calling Needleflame toward the gat
 
 They hadn't taken two steps when Needleflame was still tugging Jace's cloak, muttering in Draconic, "Gryphon... gryphon..."
 
-Noticing that the passersby and guards nearby were starting to pay attention to the strange child's muttering, Sora frowned and grabbed her ear. "Can you behave? That's... enough! Let go!"
+Noticing that the passersby and guards nearby were starting to pay attention to the strange child's muttering, Sola frowned and grabbed her ear. "Can you behave? That's... enough! Let go!"
 
-The little black dragon, who'd been holding on stubbornly, finally let go when she realized Sora was genuinely upset. Clutching Sora's wrist, she begged, "Sorry, Sister Sora! I'm sorry! I know I was wrong!"
+The little black dragon, who'd been holding on stubbornly, finally let go when she realized Sola was genuinely upset. Clutching Sola's wrist, she begged, "Sorry, Sister Sola! I'm sorry! I know I was wrong!"

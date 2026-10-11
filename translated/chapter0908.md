@@ -1,6 +1,6 @@
 ## Chapter 908: Gryphon Rider, First Time
 
-After bringing the void robe from the tavern to Kayleyn Airo and returning to Ursula's, the alchemist prepared a delicious stewed meat broth for him, and even added some Goldthorn and Earthroot to ward off illness.
+After bringing the Robe of the Void from the tavern to Jalane Ayrole and returning to Ursula's, the alchemist prepared a delicious stewed meat broth for him, and even added some Goldthorn and Earthroot to ward off illness.
 
 Ursula didn't say it, but having stayed at her place for so long, Jace could smell it too. She was probably worried he'd caught some strange disease in Kalimdor, or that something wasn't feeling right, so she'd specially prepared this to build him up.
 
@@ -8,31 +8,31 @@ The more he ate, the more Jace felt that the people in the Slaughtered Lamb were
 
 Though these people were always tangled up with demons or dark magic, and would kick up some chaos from time to time, at least toward their own they could treat each other with genuine warmth — a sharp contrast to the warlocks on the outside.
 
-After Musul left and Jagin died unexpectedly, the remaining people had actually grown more harmonious.
+After Mor'zul left and Gakin died unexpectedly, the remaining people had actually grown more harmonious.
 
-Even Kayleyn, who'd joined later — at least for the sake of her robe-crafting career, she had no intention of disrupting this atmosphere.
+Even Jalane, who'd joined later — at least for the sake of her robe-crafting career, she had no intention of disrupting this atmosphere.
 
-Warm as it was, Jace couldn't stay here long, since he'd already lost several days at Karlez's end.
+Warm as it was, Jace couldn't stay here long, since he'd already lost several days at Kallrez's end.
 
 The process of finding the Dagger Society had gone fairly smoothly, but the Moonbrook problem wouldn't let his mind rest until he saw it with his own eyes.
 
-He genuinely hoped the Wizard Sanctum people really did have the situation there under control — warlocks, demons, all swept clean. But judging by the rumors coming from every direction, the soldiers patrolling near Moonbrook, transferred in from Lakeshire and Duskwood, still ran into demons from time to time.
+He genuinely hoped the Wizard's Sanctum people really did have the situation there under control — warlocks, demons, all swept clean. But judging by the rumors coming from every direction, the soldiers patrolling near Moonbrook, transferred in from Lakeshire and Darkshire, still ran into demons from time to time.
 
 Hopefully it was all just rumors, he thought to himself — but the story of that inexplicable demon-summoning boxer in Redridge gave Jace an ominous feeling.
 
 The black dragons really did seem to have some connection to demons; he just didn't understand what help black dragon blood could provide in the summoning process.
 
-If he were an ordinary person of this world — a Wizard Sanctum mage, or a Kirin Tor secret investigator, or even an SI:7 agent — he probably would have had a hard time connecting the black dragon blood privately hoarded by a demon worshiper in Lakeshire with the demon disaster in Moonbrook.
+If he were an ordinary person of this world — a Wizard's Sanctum mage, or a Kirin Tor secret investigator, or even an SI:7 agent — he probably would have had a hard time connecting the black dragon blood privately hoarded by a demon worshipper in Lakeshire with the demon disaster in Moonbrook.
 
 But Jace was a transmigrator. He knew what the black dragons were planning. Lakeshire was thinly defended, and the soldiers were wasting their time on a vast stretch of countryside where the danger was enormous but the enemy moved unpredictably…
 
-This didn't even need stirring up trouble between the nobles and the Stonemasons, stoking the craftsmen's grievances to build the Defiant into a civil war for Stormwind — now a handful of warlocks alone had accomplished half the goal.
+This didn't even need stirring up trouble between the nobles and the Stonemasons, stoking the craftsmen's grievances until the Defias plunged Stormwind into civil war — now a handful of warlocks alone had accomplished half the goal.
 
 Thinking of this, Jace sincerely hoped he was overthinking it.
 
 The clues might all be hidden in the materials hoarded by this "physical warlock." Though these materials smelled strange and some were damaged, most of them were still basically legible.
 
-Early in the morning, Jace hurried to the Duskwood gryphon roost. The roost here was ridiculously small, with only a single young gryphon sleeping inside. The people of Duskwood clearly weren't quite used to this beast from the northern dwarf armies — they all gave it a wide berth when they passed by.
+Early in the morning, Jace hurried to the Darkshire gryphon roost. The roost here was ridiculously small, with only a single young gryphon sleeping inside. The people of Darkshire clearly weren't quite used to this beast from the northern dwarf armies — they all gave it a wide berth when they passed by.
 
 A young man who looked like a soldier was sweeping the ground nearby — he appeared to be the gryphon master.
 
@@ -40,9 +40,9 @@ A young man who looked like a soldier was sweeping the ground nearby — he appe
 
 "I am. Let me see your credentials, young man." The gryphon master leaned his broom against the ground.
 
-Jace realized he couldn't show this man the court mage token on his hand, and of course he couldn't show his Lordaeron knight's badge either — there were too few people in Stormwind who owned both.
+Jace realized he couldn't show this man the Court Mage's Signet on his hand, and of course he couldn't show his Lordaeron knight's badge either — there were too few people in Stormwind who owned both.
 
-He could only rummage through his bag for a while and fish out his old Wizard Sanctum apprentice mage token, handing it over with a guilty conscience. The gryphon master glanced at it and said, "Because of the Moonbrook business, hmm? The Wizard Sanctum has had quite a lot of people coming and going lately. But unfortunately, we don't have a gryphon rider here right now. I can't leave my post without authorization. Do you have a trusted rider?"
+He could only rummage through his bag for a while and fish out his old Wizard's Sanctum apprentice mage token, handing it over with a guilty conscience. The gryphon master glanced at it and said, "Because of the Moonbrook business, hmm? The Wizard's Sanctum has had quite a lot of people coming and going lately. But unfortunately, we don't have a gryphon rider here right now. I can't leave my post without authorization. Do you have a trusted rider?"
 
 He did know a rider, but if he could teleport the man straight in front of him, then Jace wouldn't need to ride a gryphon back to Stormwind, would he? Seeing his helpless expression, the gryphon master added in a teasing tone, "You can ride one yourself too."
 
@@ -74,9 +74,9 @@ The gryphon let out a low "prrrrr" rumble. Going by what Jace knew of Gorjet, th
 
 Jace took a quiet breath, swung himself into the gryphon's saddle, and settled in. Speaking softly in Dwarvish, he said, "I'll be relying on you from here on, new friend. I need to go to Stormwind, the biggest human city to the north. You should know where that is."
 
-The grrron responded with a "grrrrr" — Jace guessed he'd understood. Seeing the gryphon being so obedient, the gryphon master also felt reassured and stepped back a few paces to the side, placing a fist over his chest in salute. "Smooth flying, mage."
+The gryphon responded with a "grrrrr" — Jace guessed he'd understood. Seeing the gryphon being so obedient, the gryphon master also felt reassured and stepped back a few paces to the side, placing a fist over his chest in salute. "Smooth flying, mage."
 
-Jace nodded, shouted a dwarven war cry, and the gryphon shot into the sky. Of course, being a professional mount, the big fellow beneath him didn't give him that dizzy, wanna-puke-up-his-lungs experience he'd had in the Hinterlands. But the feeling of steering the gryphon himself was completely different from sitting in the back…
+Jace nodded, shouted a dwarven war cry, and the gryphon shot into the sky. Of course, being a professional mount, the big fellow beneath him didn't give him that dizzy, about-to-puke-his-guts-out experience he'd had in the Hinterlands. But the feeling of steering the gryphon himself was completely different from sitting in the back…
 
 Sitting in the back, er… Jace suddenly felt Soul Link tighten. Damn it — he'd left Morophil behind. "Turn… turn back…"
 
@@ -86,4 +86,4 @@ After the invisible Morophil climbed up and Jace sensed her presence, he said, "
 
 "Understood. Don't mention it. Hope your investigation goes smoothly, so Duskwood can settle down too, mage," the gryphon master said.
 
-Jace looked at him, then at the houses of Duskwood in the thin mist not far away, nodded, gripped the reins, and gave the gryphon the command to depart.
+Jace looked at him, then at the houses of Darkshire in the thin mist not far away, nodded, gripped the reins, and gave the gryphon the command to depart.

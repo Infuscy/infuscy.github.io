@@ -2,11 +2,11 @@
 
 Jace drank with Grede until late into the night. By midnight, the two of them had to call it quits just to retain enough sense to crawl into bed. They took a break and stepped outside the inn to cool off in the breeze.
 
-Jace leaned against the inn wall, listening to the raucous noise coming through the windows. "Judging by the state of the Deepwater Inn, I don't think we're getting a room tonight. Should we find some abandoned shack to crash in, or…? Actually, how long have you two been here?"
+Jace leaned against the inn wall, listening to the raucous noise coming through the windows. "Judging by the state of the Deepwater Tavern, I don't think we're getting a room tonight. Should we find some abandoned shack to crash in, or…? Actually, how long have you two been here?"
 
 "About two days," Grede said.
 
-Jace asked again, "The Deepwater Inn's been this packed the whole time and you two still had rooms?"
+Jace asked again, "The Deepwater Tavern's been this packed the whole time and you two still had rooms?"
 
 "Not the inn." Vereesa raised her eyes and glanced toward the fortress inside the walls. "We're staying in there." Jace asked, "They let you stay?"
 
@@ -30,9 +30,9 @@ Jace said, "Tall, pale blond hair. Other than that, I don't have much of an impr
 
 "The Council of Six isn't the group that rules Dalaran, are they?" Grede belched. "Powerful mages like that should have high standing in Quel'Thalas too. Why were you so cold toward him?"
 
-"I'm not sure either." Vereesa tossed a nut into her mouth and chewed as she spoke. "He seems to have been a member of the Silvermoon Council even before my two older sisters were born. Since he's been staying in Dalaran all this time, I'm guessing he switched his allegiance there at some point. Mages like him get treated as traitors by a lot of people — both the Silvermoon Council and the Magisters Platform look down on them."
+"I'm not sure either." Vereesa tossed a nut into her mouth and chewed as she spoke. "He seems to have been a member of the Silvermoon Council even before my two older sisters were born. Since he's been staying in Dalaran all this time, I'm guessing he switched his allegiance there at some point. Mages like him get treated as traitors by a lot of people — both the Silvermoon Council and the Magisters' Terrace look down on them."
 
-Grede and Vereesa launched into a discussion about the legends surrounding Krasus. Jace listened from the side and found his thoughts drifting, unbidden, to the War of the Dark Portal — Sylvanas and her Farstriders hunting Eredar warlocks, holding the line alongside the soldiers of the human kingdoms against the demons' advance.
+Grede and Vereesa launched into a discussion about the legends surrounding Krasus. Jace listened from the side and found his thoughts drifting, unbidden, to the War of the Dark Portal — Sylvanas and her Farstriders hunting eredar warlocks, holding the line alongside the soldiers of the human kingdoms against the demons' advance.
 
 Actually, back at Nethergarde Keep, he'd been wondering — in the other timeline's history, had there even been this brutal a battle? So many heroes involved, and in the end a pit lord had even shown up. Why wasn't there so much as a mention of it in the other timeline?
 

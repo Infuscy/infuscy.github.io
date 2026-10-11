@@ -1,12 +1,12 @@
 ## Chapter 1320: Cracking
 
-In the days that followed, the training ground at Wildhammer Keep often saw a small child in a dark gray cloak darting across it at a run.
+In the days that followed, the training ground at Wildhammer Stronghold often saw a small child in a dark gray cloak darting across it at a run.
 
-This wasn't like Alleria's Keep, where children born here played and made noise all day. So having a kid suddenly appear struck both the mages, soldiers, and Church priests as something novel.
+This wasn't like Allerian Stronghold, where children born here played and made noise all day. So having a kid suddenly appear struck both the mages, soldiers, and Church priests as something novel.
 
 Even the black and red dragons perched on the cliffs above poked their heads out curiously to watch the strange little creature below. To them, whether she was cute or not was secondary -- the real surprise was that she'd already learned to shapeshift while still carrying that hatchling's scent. That put her not far behind children raised personally by the Dragon Aspects themselves.
 
-Around this time, the dwarven knights and mages who'd suffered lighter injuries in the battle at Dragonmaw Fortress were being discharged one after another, lightening Sora's workload considerably. She now had plenty of free time to look after -- or rather, keep an eye on -- the little one. At this very moment she stood at the infirmary entrance, watching.
+Around this time, the dwarven knights and mages who'd suffered lighter injuries in the battle at Dragonmaw Fortress were being discharged one after another, lightening Sola's workload considerably. She now had plenty of free time to look after -- or rather, keep an eye on -- the little one. At this very moment she stood at the infirmary entrance, watching.
 
 Needleflame was charging toward the gryphon roost. The gryphons resting inside sensed something wrong and lifted their wings nervously, screeching as if to drive the danger away. Jace was weighing whether he should intervene before things got out of hand when a more obvious "danger" approaching nearby made him reconsider.
 
@@ -24,7 +24,7 @@ The old dragon kept his brow furrowed until Needleflame scrambled up, dusted off
 
 "You know when I found her, she was about to become a Terokkar spider matriarch's snack?" Jace asked.
 
-Sabellian glanced at him sideways, moving his lips before answering: "A black dragon whelp eaten by spiders... so be it. And she's not the only new whelp born in Draenor. Blade's Edge Mountains are full of them."
+Sabellian glanced at him sideways, moving his lips before answering: "A black dragon whelp eaten by spiders... so be it. And she's not the only new whelp born in Draenor. The Blade's Edge Mountains are full of them."
 
 "If you care about them so little, why won't you let even one go back to Azeroth?" Jace asked.
 
@@ -72,7 +72,9 @@ Sabellian chuckled, holding up the Dragon's Blood Pendant. "Mind if I keep this 
 
 "If I don't give it to you, you won't let her go?" Jace asked.
 
-Sabellian snorted. "You think one drop of that female dragon's blood is worth my daughter? Those two things aren't connected." Jace snatched the pendant back. "Then no."
+Sabellian snorted. "You think one drop of that female dragon's blood is worth my daughter? Those two things aren't connected."
+
+Jace snatched the pendant back. "Then no."
 
 Under the Prince's gaze, Jace tucked the pendant back into his shirt, then walked down the stairs toward Dreg's Tavern. He was supposed to meet Grede for a drink around noon.
 

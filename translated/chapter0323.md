@@ -30,7 +30,7 @@ The dwarf said proudly, "No one refuses her."
 
 "She is quite beautiful."
 
-Jace offered the pleasantry offhandedly, then picked up another slice of fish and stuffed it in his mouth, chewing symbolically twice before swallowing it whole. His esophagus was violently pried open, nearly bringing tears to his eyes.
+Jace offered the pleasantry offhandedly, then picked up another slice of fish and stuffed it in his mouth, giving it a token chew or two before swallowing it whole. His esophagus was violently pried open, nearly bringing tears to his eyes.
 
 "What if I told you that you could have a lover like this too?" the dwarf asked.
 
@@ -72,7 +72,7 @@ Before he could finish, the dwarf's eyes suddenly jerked to one side and his exp
 
 He stared fixedly behind Jace, his gaze following Morophil as she emerged from the shadows and moved step by step into the space between them.
 
-The succubus across from them had eyes that showed almost no light left in them. It reminded Jace of the succubus he'd stabbed to death — the one Jagin had summoned — as she lay on the ground. The hint of allure and confidence from before had gone completely blank. Aside from staring straight at Morophil in front of her, she didn't dare shift her gaze anywhere else.
+The succubus across from them had eyes that showed almost no light left in them. It reminded Jace of the succubus he'd stabbed to death — the one Gakin had summoned — as she lay on the ground. The hint of allure and confidence from before had gone completely blank. Aside from staring straight at Morophil in front of her, she didn't dare shift her gaze anywhere else.
 
 Only now did Jace feel a wave of lightness course through his body. From the moment the Dark Iron dwarf had sat down, he'd been under the continuous influence of seduction magic.
 
@@ -82,7 +82,9 @@ Morophil didn't care about the succubus or the dwarf at all. She simply moved cl
 
 "Master didn't give the order, so why would I waste mana on you? After all, every bit of my mana is…" Morophil gently wrapped her arms around Jace's neck. "Given to me by him. Every drop is worth more than your wretched soul."
 
-"Master… I… I can't…" the succubus was clearly terrified. She must have recognized that this was a flayer-huntress who specialized in hunting other succubi. She muttered under her breath, not knowing what to say. The dwarf gaped in shock at his servant's sudden surrender — and this time not even his beard could cover it.
+"Master… I… I can't…"
+
+The succubus was clearly terrified. She must have recognized that this was a sayaad huntress, one who specialized in hunting other succubi. She muttered under her breath, not knowing what to say. The dwarf gaped in shock at his servant's sudden surrender — and this time not even his beard could cover it.
 
 "Don't be scared. I won't kill you." Morophil leaned against Jace without even looking at her. "Unless he tells me to."
 

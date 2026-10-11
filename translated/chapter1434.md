@@ -32,7 +32,7 @@ Jace set down his glass and chuckled. "You don't think I was eating emperor salm
 
 "Are you sure the Dark Iron dwarves will actually help?" Varian asked in a low voice. "I know Archmage Khadgar used that argument to win over the northern nobles. From Archmage Drenden's reaction, at least the Kirin Tor is mostly convinced. So this point is crucial."
 
-"At least I believe it." Jace leaned in closer. "The leader of the Thorium Brotherhood, Roktus Darkvow, believes that once the Dark Iron dwarves see a chance to break free from the Fire Lord's chains, they'll rise up. As an old man who's lived in Shadowforge City for so long, he probably knows the situation there better than we do."
+"At least I believe it." Jace leaned in closer. "The leader of the Thorium Brotherhood, Lokhtos Darkbargainer, believes that once the Dark Iron dwarves see a chance to break free from the Firelord's chains, they'll rise up. As an old man who's lived in Shadowforge City for so long, he probably knows the situation there better than we do."
 
 "If you trust it, then I trust it." Varian took a gulp of wine.
 

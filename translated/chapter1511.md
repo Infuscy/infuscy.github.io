@@ -1,6 +1,6 @@
 ## Chapter 1511: Grim Batol Reunion
 
-As Sorah and Needlefang flew closer to Grim Batol, Jace noticed from far off that the ancient fortress — despite having been blown half apart, still bearing the remains of spectacular broken walls — was now covered in more than just forest, leaves, and vines.
+As Sola and Needleflame flew closer to Grim Batol, Jace noticed from far off that the ancient fortress — despite having been blown half apart, still bearing the remains of spectacular broken walls — was now covered in more than just forest, leaves, and vines.
 
 From a distance he could see a dark green banner hanging from the tallest wall. The copper emblem — a warhammer flanked by two gryphon heads — was quite conspicuous in the sunlight overhead. That was the Wildhammer clan's banner. The folk from Aerie Peak must have heard that the depths of Grim Batol were finally habitable and couldn't wait to fly back with Grede and Kurdran Wildhammer to stake their claim.
 
@@ -20,11 +20,11 @@ Of course, Jace hadn't done all this out of some noble desire to save all of Kha
 
 Still, he was glad for the impact he'd made — whether intentional or forced — nudging this world in a better direction, even if just a little.
 
-As they were about to land on the slopes near Grim Batol, red dragons flew over to welcome Jace's party. Needlefang had been flying cautiously the whole way, never relaxing even after getting used to Jace on her back. But when she saw the red dragons approaching, she was so startled she shook Jace off her back before he'd even put his legs down.
+As they were about to land on the slopes near Grim Batol, red dragons flew over to welcome Jace's party. Needleflame had been flying cautiously the whole way, never relaxing even after getting used to Jace on her back. But when she saw the red dragons approaching, she was so startled she shook Jace off her back before he'd even put his legs down.
 
-Too late. The red dragons had all seen it. One by one they landed nearby, staring at Needlefang without looking away — not like they'd seen something curious, but like they were shocked.
+Too late. The red dragons had all seen it. One by one they landed nearby, staring at Needleflame without looking away — not like they'd seen something curious, but like they were shocked.
 
-Even an adult red dragon in human form who walked over looked quite surprised. She stared at Needlefang until the black dragon shifted into a human girl and walked closer; only then did she blink in disbelief, looking at the approaching group.
+Even an adult red dragon in human form who walked over looked quite surprised. She stared at Needleflame until the black dragon shifted into a human girl and walked closer; only then did she blink in disbelief, looking at the approaching group.
 
 "Hey! Jace Sesso!"
 
@@ -40,25 +40,25 @@ Grede punched Jace in the leg, sending him stumbling back a few steps before he 
 
 "You damn bastard — you were already tall, and now you're even taller, huh?" The dwarf grabbed Jace's shirt and yanked hard. "Your embarrassing acting... makes that mute fool doing his daily mime show by the fountain in Stromgarde look talented. But I'm genuinely glad to see you, you pretentious little bastard, standing in front of me in one piece."
 
-"I heard about Burning Steppes, Grede. I'm relieved to see you're okay too." Jace said.
+"I heard about the Searing Gorge, Grede. I'm relieved to see you're okay too." Jace said.
 
 The two hugged hard. From behind came a black dragon's shout.
 
 "Thunderfist!"
 
-Needlefang ran over. "I never thought I'd actually miss you!"
+Needleflame ran over. "I never thought I'd actually miss you!"
 
 "How's it going, little one? Getting used to Stormwind life?" The dwarf held out his hand.
 
-Needlefang and Grede smacked hands a few times, running through a practiced set of very Wildhammer-style "secret signals," then raised an eyebrow. "Let's just say it's not as boring as I thought it'd be."
+Needleflame and Grede smacked hands a few times, running through a practiced set of very Wildhammer-style "secret signals," then raised an eyebrow. "Let's just say it's not as boring as I thought it'd be."
 
-"Now that's a huge improvement!" Grede's eyes flicked between Jace and Needlefang. He lowered his voice. "And I saw you let Jace ride you. That's quite a change..."
+"Now that's a huge improvement!" Grede's eyes flicked between Jace and Needleflame. He lowered his voice. "And I saw you let Jace ride you. That's quite a change..."
 
-"Shut up!" Needlefang grabbed a few of Grede's braids, grinding her teeth. "You didn't see anything!"
+"Shut up!" Needleflame grabbed a few of Grede's braids, grinding her teeth. "You didn't see anything!"
 
 "Ow ow, okay, okay." The dwarf twisted his mouth, begging for mercy. "I didn't see a thing. Don't ruin my beard!"
 
-"You too." Needlefang scowled at Jace, pointing. "You never rode anything."
+"You too." Needleflame scowled at Jace, pointing. "You never rode anything."
 
 "I swear by the Holy Light, I never rode anything." Jace raised one hand in oath.
 
@@ -72,7 +72,7 @@ The elf gripped his thick hand firmly. "You'll soon find I've grown in more ways
 
 "Good to see you again, Grede." Vereesa smiled.
 
-"Same here." The dwarf nodded. "Out there in that dark iron mine, I kept thinking if you were around, those sentries on the towers wouldn't have been any threat."
+"Same here." The dwarf nodded. "Out there in that Dark Iron mine, I kept thinking if you were around, those sentries on the towers wouldn't have been any threat."
 
 "Is that dwarven for 'can't do without you'?" The elf asked.
 
@@ -80,21 +80,21 @@ The elf gripped his thick hand firmly. "You'll soon find I've grown in more ways
 
 Vereesa narrowed her eyes and folded her arms. The dwarf suddenly turned his head.
 
-"Sorah. How many bad things have you said about me these past few months?"
+"Sola. How many bad things have you said about me these past few months?"
 
-"Uh..." Sorah, who'd just walked up, was caught off guard.
+"Uh..." Sola, who'd just walked up, was caught off guard.
 
 "No cook keeps count of how many slices of bread they've sneaked." Jace muttered.
 
 "What?!" Grede blinked.
 
-Needlefang burst out laughing. Vereesa couldn't keep up the scornful look she was throwing at the dwarf either. Sorah laughed so hard she nearly bent over.
+Needleflame burst out laughing. Vereesa couldn't keep up the scornful look she was throwing at the dwarf either. Sola laughed so hard she nearly bent over.
 
 "Lord Grede Thunderfist."
 
 Amy clasped her hands together, looking a bit nervous as she stepped forward. "It's an honor to be at Grim Batol for the Council of Three Hammers."
 
-"Don't give me that, Lady Marin." Grede's gaze swept over everyone, and he let out a long breath. "I don't know about the Dark Irons or the Bronzebeards, but at least as far as High Thane Kurdran and I are concerned, it's our honor to have you here."
+"Don't give me that, Lady Malin." Grede's gaze swept over everyone, and he let out a long breath. "I don't know about the Dark Irons or the Bronzebeards, but at least as far as High Thane Kurdran and I are concerned, it's our honor to have you here."
 
 "More importantly, Grede." Jace asked. "How's the warhammer?"
 

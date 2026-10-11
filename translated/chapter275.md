@@ -1,12 +1,12 @@
 ## Chapter 275: The Greedy Mercenary
 
-Duskwood Town was called Duskwood Town only because there wasn't much difference between its days and nights — not because everyone actually liked being out after dark.
+Darkshire was called Darkshire only because there wasn't much difference between its days and nights — not because everyone actually liked being out after dark.
 
 By midnight, the streets had pretty much emptied out too, aside from the odd night-patrol soldier and late-traveling carriage. Every window was shut tight, most of the lamps extinguished.
 
 Jace looked toward the crossroads at the center of town — that fountain decorated in a style that looked like a tombstone — and the tall clock tower of the town hall in the distance. He was finally starting to feel a hint of the game's eerie chill.
 
-A gaunt, lame man crossed the street shouting as he went, "The end is near!" "Glenton is about to be punished!" "The kingdom has been cursed!" and the like.
+A gaunt, lame man crossed the street shouting as he went, "The end is near!" "Grand Hamlet is about to be punished!" "The kingdom has been cursed!" and the like.
 
 Neither the passing soldiers nor anyone else paid his shouting any mind. Only Jace, an outsider, was still willing to spare him a glance.
 
@@ -91,17 +91,3 @@ Jace stared at the exquisite short sword, swallowed, and asked, "Wait — you on
 Vereesa said, "Take me to that place and we'll look things over. If there's really no chance of success, then I'll do what you said and find other elves for help — and the blade is yours. If there is a chance, I have other rewards for you. Everything's negotiable. And since you're worried, I give you my word here — I won't act without discussing it with you first. You know that if it were up to me, I would've just eliminated the alchemist's wife back there. But since you had other considerations, I respected your wishes, didn't I?"
 
 Jace nodded. "Then it's a deal. Let me head back and plan the route — potions and everything else need to be properly prepared."
-
-## Flags
-
-- **格瑞德·雷拳** → "Grede Thunderfist": 雷拳 = Thunderfist, the dwarven family name (glossary has 雷拳 = Thunderfist).
-- **铁炉堡** → "Ironforge" (in glossary context).
-- **希尔瓦娜斯** → "Sylvanas": Sylvanas Windrunner. Not in glossary; canonical. Flag for addition.
-- **游侠将军** → "Ranger-General" (glossary has 游侠将领 = Ranger-General).
-- **远行者** → "Farstriders": the ranger faction of Quel'Thalas/Silvermoon. Not in glossary; canonical WoW term. Flag for addition.
-- **风行者** → "Windrunner" (the family name; in glossary via Alleria Windrunner).
-- **塞拉尔迪贝洛尔 / 阳炎之刃** → "Celardibelor" / "Sunblade": elven blade name. Not in glossary; transliterated. Vereesa identifies the Common name as 阳炎之刃 = Sunblade.
-- **碎手氏族** → "Shathered Hand clan" (in glossary context).
-- **死亡之愿** → "the Death Wish": epithet for the death knight (same as ch. 274).
-- **卡加斯·刃拳 / 卡加斯的哨岗** → "Kargath Bladefist" / "Kargath's Garrison" (same as ch. 274).
-- Chapter title 贪婪的雇佣兵 → "The Greedy Mercenary."

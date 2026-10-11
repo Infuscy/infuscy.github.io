@@ -20,7 +20,7 @@ Modera was silent for a moment. "You're right."
 
 "So let's say something nicer. Like 'good luck to us all.'"
 
-Khadgar had already downed a bottle of refined Elixir of Wisdom and a strong Elixir of Fortitude. Casting a spell of this magnitude required a resilient body.
+Khadgar had already downed a Flask of Distilled Wisdom and a strong Elixir of Fortitude. Casting a spell of this magnitude required a resilient body.
 
 He closed his eyes and downed the last bottle of Destruction Potion. Compared to the thunderous roar that slammed through his mind as the potion took effect, its bitter, acrid taste was nothing.
 
@@ -34,7 +34,7 @@ Under the amplification of the Guardian's staff and Dalaran's ley line nexus, th
 
 In over thirty years of life, Khadgar had never felt the ley lines so docile and obedient. It was as if every hard lesson he'd learned, every pattern he'd deduced, every trial and error, had been mere tricks.
 
-Lake Lordamere churned with his movements. The entire city of Dalaran began to shake. Cracks opened in the streets and squares, releasing brilliant, multicolored arcane light. A sound like chiming wind bells echoed from Hillsbrad to the Alterac mountains, from the capital to even Deathknell.
+Lordamere Lake churned with his movements. The entire city of Dalaran began to shake. Cracks opened in the streets and squares, releasing brilliant, multicolored arcane light. A sound like chiming wind bells echoed from Hillsbrad to the Alterac mountains, from the capital to even Deathknell.
 
 For a moment, he felt elated — as if the entire continent rested at his fingertips, ready to be molded and shaped.
 
@@ -50,7 +50,7 @@ Khadgar's brow furrowed sharply. The Violet Citadel itself began to tremble. The
 
 Looking north, the light of the arcane bomb had already died over the lake. But the ring of light hadn't reignited either — it had dimmed until it was barely visible.
 
-Multicolored magical arrows streaked through the forest, piercing a doomguard's heart cleanly. The ranger gripped Belanore, her focus sharp as she picked off every demon that emerged from the portal.
+Multicolored magical arrows streaked through the forest, piercing a doomguard's heart cleanly. The ranger gripped Belanur, her focus sharp as she picked off every demon that emerged from the portal.
 
 Draw. Summon arrow. Loose. Draw. Summon arrow. Loose...
 
@@ -58,9 +58,9 @@ Draw. Summon arrow. Loose. Draw. Summon arrow. Loose...
 
 Vereesa's heart was still. She immediately drew a spare elven arrow from her hip, nocked it, and began a brief incantation to enchant it with arcane energy — but even the incantation failed.
 
-She looked up. The fel curtain of the portal before her suddenly blazed brighter. Behind it, black clouds churned over Lake Lordamere to the south. Shadow and fel lightning burst without pause. The ground shook. Nearby rangers and soldiers couldn't keep their footing. The demons around the portal roared, shrieking.
+She looked up. The fel curtain of the portal before her suddenly blazed brighter. Behind it, black clouds churned over Lordamere Lake to the south. Shadow and fel lightning burst without pause. The ground shook. Nearby rangers and soldiers couldn't keep their footing. The demons around the portal roared, shrieking.
 
-Before another collapsed portal, atop countless Mo'arg and Ered'uin corpses, Morofil smiled at the fel-fire eyes of her demonic sister.
+Before another collapsed portal, atop countless Mo'arg and Ered'ruin corpses, Morophil smiled at the fel fire eyes of her demonic sister.
 
 "Hope to see you again soon, dear Lady Auraladeil. Honestly, today's fight was barely satisfying."
 
@@ -68,9 +68,9 @@ Before another collapsed portal, atop countless Mo'arg and Ered'uin corpses, Mor
 
 In the increasingly violent fel wind, the succubus's severed head dangled by its hair, swaying back and forth as she murmured triumphantly, "But he'll take them off for me as a souvenir soon enough. Can you feel him? He..."
 
-Morofil's smile vanished. She stomped a hoof through the headless demon's chest beneath her. The head in her hand screamed as its eyes burned out, its face twisted and withered. She tossed it aside in disgust.
+Morophil's smile vanished. She stomped a hoof through the headless demon's chest beneath her. The head in her hand screamed as its eyes burned out, its face twisted and withered. She tossed it aside in disgust.
 
-The demoness looked south. The fel wind flattened the pines in that direction. The Sayad was right. She could feel it.
+The demoness looked south. The fel wind flattened the pines in that direction. The sayaad was right. She could feel it.
 
 On the walls, Turalyon was discussing the next phase of the counterattack with King Terenas when a sudden tremor interrupted them.
 
@@ -80,7 +80,7 @@ But soon both men realized this was different. The tremors grew more violent and
 
 Ranger-General Sylvanas, stationed higher on the wall, leaned out and shouted down, asking what was happening. But her Farstriders, even her lieutenants, looked equally confused.
 
-"What now, Marshal Turalyon?" the king asked. Turalyon could only shake his head.
+"What now, General Turalyon?" the king asked. Turalyon could only shake his head.
 
 On the dark sea, a fleet of Kaldorei ships cut through the storm, parting wave after wave.
 
@@ -88,7 +88,7 @@ On the lead ship's deck, a group of elves braved the gale to gather at the cresc
 
 She stared east toward their destination. Dark. Oppressive. The entire continent lay shrouded in gloom.
 
-"Are we too late, Priestess?" a priestess asked quietly in Kaldorei.
+"Are we too late, Priestess?" a priestess asked quietly in Darnassian.
 
 "Speed up." Tyrande Whisperwind commanded.
 
@@ -98,7 +98,7 @@ Today, a group of tall, blue-skinned strangers, stranger-looking than orcs, arri
 
 An old man, clearly their leader, stepped onto the pier. The dockworkers and townspeople whispered among themselves as they watched. Then a violent tremor from the north shattered the spectacle. The entire harbor erupted in panic.
 
-"He's coming, Prophet." A Draenei guard in silver armor said.
+"He's coming, Prophet." A draenei guard in silver armor said.
 
 "Yes." The Prophet's expression was calm. He looked west, his cracked lips quivering slightly, but he said nothing more.
 
@@ -112,7 +112,7 @@ A long-haired orc carrying a bloody axe steadied himself, walked a few steps dow
 
 Atop the Violet Citadel, the archmages could barely keep their footing in the magical gale, struggling to maintain the circle. Khadgar, at the center, gripped Atiesh with white knuckles, eyes clenched shut, teeth grinding.
 
-He poured every ounce of his will into tearing at those threads. Even with the ley line nexus at his back, even with Atiesh in his hands, he felt like an ant trying to shake a tree.
+He poured every ounce of his will into tearing at those threads. Even with the ley line nexus at his back, even with Atiesh in his hands, he felt like a man trying to hold back the tide with his bare hands.
 
 "This is impossible." Khadgar whispered. "This can't..."
 
@@ -130,15 +130,15 @@ Jace awoke with a violent coughing fit, spitting out another mouthful of blood.
 
 Staring at the slightly blackened fresh blood on the ground, he could feel the fel corruption, which had been mostly healed, worsening again.
 
-The mine shaft trembled continuously. Sazeno sat beside him, shaking all over, his fel-fire eyes nearly extinguished, replaced by a murky demonic orb.
+The mine shaft trembled continuously. Sazeno sat beside him, shaking all over, his fel fire eyes nearly extinguished, replaced by a murky demonic orb.
 
 "It's over. It's over. It's over..."
 
-"Jace!" Sora hurried in, her voice trembling as she pointed behind her. "Outside, outside..."
+"Jace!" Sola hurried in, her voice trembling as she pointed behind her. "Outside, outside..."
 
 Jace scrambled to his feet and stumbled after her to the cave entrance. What he saw stunned even him.
 
-The sky had cleared. The filthy clouds of fel energy and chaotic shadow magic that had blotted out the sun moments ago might never have existed. As far as the eye could see, not a single cloud marred the sky. Even in his memories — even from before he'd left Lordaeron over a decade ago — Lake Lordamere had never been this clear.
+The sky had cleared. The filthy clouds of fel energy and chaotic shadow magic that had blotted out the sun moments ago might never have existed. As far as the eye could see, not a single cloud marred the sky. Even in his memories — even from before he'd left Lordaeron over a decade ago — Lordamere Lake had never been this clear.
 
 But beneath the sky, the entire land — the Silverpine Forest — was buried under a thick layer of snow. A blinding white as far as the eye could see.
 

@@ -20,7 +20,7 @@ Fireballs. No — a signal flare. There was no signal flare here. Damn it, in a 
 
 The soldier asked, "What are you looking for?"
 
-"I'm looking for… looking for…" Jace said suddenly, "A scroll. A scroll — I brought a Fireball spell scroll from the Wizard Sanctum. I was going to use it for self-defense on the road, because I haven't learned any magic yet. I used the Fireball scroll to signal you. I thought there'd be some left, but…"
+"I'm looking for… looking for…" Jace said suddenly, "A scroll. A scroll — I brought a Fireball spell scroll from the Wizard's Sanctum. I was going to use it for self-defense on the road, because I haven't learned any magic yet. I used the Fireball scroll to signal you. I thought there'd be some left, but…"
 
 The explanation actually sounded pretty convincing. Not a single soldier looked suspicious. The colonel pressed on: "You killed all these gnolls by yourself?"
 
@@ -56,17 +56,17 @@ Someone patted Jace. He looked up. Colonel Tordman was looking down at him.
 
 "A lot of folks are hurt… the priests might be a while yet. We lost a mage, too — they found his body in the woods."
 
-"Martin Harlor, Master Morgas' student. Looks like the gnolls took his head."
+"Martin Harlow, Master Morganth's student. Looks like the gnolls took his head."
 
 "Even a mage got killed?"
 
 "Hard to believe — this teenage kid single-handedly killed seven or eight gnolls."
 
-"He's a Lordaeroner, I think."
+"He's a Lordaeronian, I think."
 
 "The Kingdom of Lordaeron…"
 
-"General Turalyon was a Lordaeroner too."
+"General Turalyon was a Lordaeronian too."
 
 Listening to the soldiers' chaotic chatter, Jace felt a growing unease in his chest.
 
@@ -74,11 +74,11 @@ It wasn't because of the gnoll attack — honestly, after all the life-or-death 
 
 What he was uneasy about was that dark power that had suddenly erupted from within him — the fear that his shadow secret would be discovered by the soldiers of Stonewatch, or even more people.
 
-Truth be told, he'd rather this didn't get reported to Stormwind at all. If this blew up too big and someone caught on to his secret, the one getting driven out of Stormwind wouldn't be Morgas — it'd be him.
+Truth be told, he'd rather this didn't get reported to Stormwind at all. If this blew up too big and someone caught on to his secret, the one getting driven out of Stormwind wouldn't be Morganth — it'd be him.
 
-Right… and then there was Morgas. As a scholar who dabbled in shadow magic in secret, would he notice something off about Jace? If this reached the king, as a matter tied to a gnoll shadow mage, it would certainly draw an investigation from the Wizard Sanctum.
+Right… and then there was Morganth. As a scholar who dabbled in shadow magic in secret, would he notice something off about Jace? If this reached the king, as a matter tied to a gnoll shadow mage, it would certainly draw an investigation from the Wizard's Sanctum.
 
-And the one handling it would almost certainly be Morgas.
+And the one handling it would almost certainly be Morganth.
 
 It was all such a mess. This trip was supposed to be nothing more than delivering a package — how had things suddenly turned into this? He'd barely managed to fight off all those gnolls, which should have been something to celebrate, and now he had to worry all over again.
 
@@ -86,7 +86,9 @@ But then again, without that darkness, would he have had any chance of surviving
 
 "Will you tell the king my name, Colonel Tordman?" Jace asked.
 
-"Of course we will. Even though you're not one of ours, we won't steal your credit." Colonel Tordman smiled. "I was thinking — could you leave my name out of it?"
+"Of course we will. Even though you're not one of ours, we won't steal your credit." Colonel Tordman smiled.
+
+"I was thinking — could you leave my name out of it?" Jace said.
 
 Everyone turned their heads. Colonel Tordman asked, puzzled, "Why? You'll be commended by the king. Even if you don't get a personal audience with His Majesty, if luck's on your side they might toss you a couple of gold coins or so. I don't quite understand — this is what you've earned."
 
@@ -99,14 +101,3 @@ Right about now, the prospect of a few gold coins didn't hold much appeal for Ja
 "We could dress it up a little," a soldier beside Tordman said. "Say he picked up a dwarven signal gun that a sentry dropped in the fighting, and kept firing it to get our attention — something like that. The end result's the same either way."
 
 "That's a good point — John, you write the report then." Tordman finished, then clapped Jace on the shoulder. "Nothing to be afraid of now, lad. The company will take care of you."
-
-## Flags
-
-- **托德曼上校 (Colonel Tordman)**: Not in glossary. Commander of the Stonewatch garrison. Rendered as "Colonel Tordman."
-- **瓦里安国王 (King Wrynn)**: King of Stormwind. Rendered as "King Wrynn" (Varian Wrynn).
-- **火球术魔法卷轴 (Fireball spell scroll)**: The cover story Jace invents for the signal flares. Rendered as "Fireball spell scroll."
-- **矮人信号枪 (dwarven signal gun)**: The cover story the soldier suggests — a dwarven signal flare gun. Rendered as "dwarven signal gun."
-- **连里会给你安排好的**: Chapter title idiom — "the company will take care of you / set things right for you." Rendered as "The Company Will Take Care of You."
-- **毛刺头发**: Bristly/spiky hair. Rendered as "bristly hair."
-- **甩锅**: Slang for "pass the buck / pin the blame." Rendered as "pin it on the gnolls."
-- **杰斯小弟**: "Lad" / "kid" — the colonel's familiar address. Rendered as "lad."

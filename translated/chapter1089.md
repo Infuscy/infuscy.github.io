@@ -12,9 +12,9 @@ Based on past experience, as long as it wasn't night yet and they didn't make a 
 
 Morgan waved for Jace to follow, then quickly walked toward a tomb entrance in the distance.
 
-This was the entrance to an quite enormous underground crypt. The stone nameplate above had already broken and fallen off, and the remaining words were illegible.
+This was the entrance to a quite enormous underground crypt. The stone nameplate above had already broken and fallen off, and the remaining words were illegible.
 
-This entrance clearly had a gate before, and there were still traces of an iron fence on it — looked like it had been visited by grave robbers many times over.
+This entrance clearly had a gate before, and there were still traces of an iron fence on it — it looked like it had been visited by grave robbers many times over.
 
 Jace touched one of the bent, broken iron bars, then looked at Morgan. Morgan shook his head and whispered, "That wasn't me."
 
@@ -28,7 +28,7 @@ Jace touched one of the bent, broken iron bars, then looked at Morgan. Morgan sh
 
 "It's nothing."
 
-So saying, Jace took the lead down the steps and drew Azure Song. The magic sword's eerie glow illuminated the steps and the damp walkway below, submerged in dark green mud. Morgan, witnessing this scene from the side, drew a quiet breath.
+So saying, Jace took the lead down the steps and drew Azuresong. The magic sword's eerie glow illuminated the steps and the damp walkway below, submerged in dark green mud. Morgan, witnessing this scene from the side, drew a quiet breath.
 
 After entering the walkway, Jace realized he'd still underestimated the scale of this underground crypt.
 
@@ -40,11 +40,11 @@ In the silence of the tomb, this faint sound rang out extremely loudly. Jace and
 
 That wet sound vanished. The tomb fell silent once more. Morgan stared at the fork in the path for a while, confirmed nothing was following them, then continued looking in the direction they'd originally been heading.
 
-But there was now an extra figure over there — a crouching creature, its entire body a dull reddish-brown, staring this way. Its eyes glinted with the cloudy yellow light of necrotic energy under the radiance of Azure Song.
+But there was now an extra figure over there — a crouching creature, its entire body a dull reddish-brown, staring this way. Its eyes glinted with the cloudy yellow light of necrotic energy under the radiance of Azuresong.
 
 A ghoul.
 
-The ghoul suddenly opened its bloody maw, baring dark yellow fangs streaked with sinew, as if trying to roar something. Jace immediately used a Suffocation spell to choke its neck tight.
+The ghoul suddenly opened its bloody maw, baring dark yellow fangs streaked with sinew, as if trying to roar something. Jace immediately used Asphyxiate to choke its neck tight.
 
 The ghoul, which had been about to shriek and pounce, was forced upright by this force, nearly toppling backward. It grabbed at its own neck as if trying to break free of the dark magic's grip, unable to make any noise except for a series of feeble, dry coughs.
 
@@ -66,11 +66,11 @@ Only then did Jace realize he'd accidentally opened up a topic that wasn't great
 
 The two continued forward. Morgan kept feeling the walls and observing the nameplate at every fork in the path. Until he felt his way to a passage entrance strewn with some collapsed bricks, and pointed inside, nodding to Jace.
 
-Jace took the opportunity to observe what was written on that nameplate. Most of it had been worn illegible, but in the middle there were some words about Mortwick Tower, heroes, the Gurubashi conspiracy, and the like.
+Jace took the opportunity to observe what was written on that nameplate. Most of it had been worn illegible, but in the middle there were some words about Mortwake's Tower, heroes, the Gurubashi conspiracy, and the like.
 
-Similar to the Ilgalar Tower, Mortwick Tower was an ancient mage tower located to the south of Raven Hill, used to guard the southern border of the Kingdom of Stormwind against the harassment of gnolls and Stranglethorn jungle trolls.
+Similar to the Tower of Ilgalar, Mortwake's Tower was an ancient mage tower located to the south of Raven Hill, used to guard the southern border of the Kingdom of Stormwind against the harassment of gnolls and Stranglethorn jungle trolls.
 
-It seemed that during the Gurubashi Wars, the trolls had wanted to seize this tower to steal the power of the ley line nexus — and Morgan's grandfather had probably participated in the defense of this tower and rendered distinguished service.
+It seemed that during the Gurubashi War, the trolls had wanted to seize this tower to steal the power of the ley line nexus — and Morgan's grandfather had probably participated in the defense of this tower and rendered distinguished service.
 
 "The farthest I got last time was here, Jace," Morgan said in a low, wary voice. "Last time I came here I ran into a siege by several walking corpses. This time, it seems a lot quieter... although I didn't encounter a ghoul last time either. If there'd been a ghoul back then, I probably wouldn't have made it out."
 
@@ -80,9 +80,9 @@ This burial chamber looked quite large, with three stone sarcophagi placed along
 
 However, Morgan's grandfather didn't seem to be any of these three. He ignored the three sarcophagi and walked all the way in, as if there were more coffins further inside.
 
-But as they walked, a sound suddenly came from ahead. At the same time, Molophil's Soul Link slowly tightened. A blurry, brief shout of pain filtered out of the darkness. Morgan, walking in front, stopped in his tracks.
+But as they walked, a sound suddenly came from ahead. At the same time, Morophil's Soul Link slowly tightened. A blurry, brief shout of pain filtered out of the darkness. Morgan, walking in front, stopped in his tracks.
 
-Jace tried to raise Azure Song to illuminate what was ahead, but besides a blur there was nothing to see.
+Jace tried to raise Azuresong to illuminate what was ahead, but besides a blur there was nothing to see.
 
 "La..."
 
@@ -96,7 +96,7 @@ A low, complaining voice came from the shadows, followed by a dull thud that mad
 
 "Pay up, either... or! Or! Give... give..."
 
-A string of blurry words that couldn't quite be pieced together into logic gushed out of the shadows, accompanied by another series of continuous tremors. A tall, dark figure emerged from the gloom, revealed under the light of Azure Song!
+A string of blurry words that couldn't quite be pieced together into logic gushed out of the shadows, accompanied by another series of continuous tremors. A tall, dark figure emerged from the gloom, revealed under the light of Azuresong!
 
 This was a bloated, swollen giant — not only tall and large, but fat and stout to boot, its body covered in festering cracks and dead maggots.
 
@@ -114,7 +114,11 @@ Morgan was clearly thrown by what this monster had been saying, and had no mind 
 
 "I was going to ask you," Jace looked at him. "Did you recognize him?"
 
-"I don't recognize him... and I don't remember owing anyone any money," Morgan swallowed. "Let's see if your grandfather's sword is still here first. We'll talk about the rest outside." Morgan nodded. The two walked together to the very end of the passage and pushed open the lid of that sarcophagus.
+"I don't recognize him... and I don't remember owing anyone any money," Morgan swallowed.
+
+"Let's see if your grandfather's sword is still here first. We'll talk about the rest outside," Jace said.
+
+Morgan nodded. The two walked together to the very end of the passage and pushed open the lid of that sarcophagus.
 
 Unlike the other sarcophagi, the lid was already covered in brownish-black stains — most likely left by that giant just now. The moment they pushed open a crack, Jace felt a faint glimmer of light reveal itself from below.
 
@@ -124,4 +128,4 @@ Beside him, a bright sword covered in mud still radiated luster. The Holy Light 
 
 Even as a warlock, in such a gloomy underground, illuminated by this warm beam of light, Jace could feel a trace of comfort.
 
-"Achaeus," Morgan murmured.
+"Archeus," Morgan murmured.

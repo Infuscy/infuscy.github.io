@@ -1,12 +1,12 @@
 ## Chapter 469: Have to Say Yes No Matter What
 
-"About a warlock?" Mithershield looked up at him. "Tell me, Mr. Slovakia — one minute it's Necrotic Essence, the next it's warlocks. You're making me real nervous. You're not actually planning to research something that's going to bring the Kirin Tor down on us, are you?"
+"About a warlock?" Mithershield looked up at him. "Tell me, Mr. Slovakia — one minute it's Essence of Undeath, the next it's warlocks. You're making me real nervous. You're not actually planning to research something that's going to bring the Kirin Tor down on us, are you?"
 
 "The Kirin Tor definitely won't come looking for trouble with you," Jace said. "Don't forget, I'm not just an alchemist's assistant — I'm a mage too. Right now I'm tracking down the whereabouts of a demon worshipper."
 
 "Oh, and now there's a demon worshipper." Mithershield said helplessly.
 
-"I won't put you in direct contact with this warlock," Jace said. "I'm still gathering leads on this person. It's just that I know you have wide connections within the Trade Cartel..."
+"I won't put you in direct contact with this warlock," Jace said. "I'm still gathering leads on this person. It's just that I know you have wide connections within the Steamwheedle Cartel..."
 
 "Of course I do." Mithershield blinked. "But don't think flattery is going to make me tell you everything! First tell me — what warlock are you looking for..."
 
@@ -30,13 +30,13 @@ Jace sighed softly, leaning on his staff to rest a little. "I don't necessarily 
 
 "But because these are dangerous items, and he's worried about mages from the Kirin Tor or the Order of Tirisfal coming to his door, he rarely shows his collection to outsiders. Still, he counts as a friend of mine. I can take you to see him, Mr. Slovakia. It's just..."
 
-"That Karazhan ghosts business — don't you want Necrotic Essence too?" the goblin said. "I'll lend you the equipment, and when the time comes we split the Necrotic Essence fifty-fifty. No, sixty-forty — you get sixty. How about it?"
+"That Karazhan ghosts business — don't you want Essence of Undeath too?" the goblin said. "I'll lend you the equipment, and when the time comes we split the Essence of Undeath fifty-fifty. No, sixty-forty — you get sixty. How about it?"
 
 Jace frowned. "Ghosts..."
 
 "You're a mage," the goblin glanced at the staff Jace was holding. "I know some human towns get haunted, and in the end don't they find mages to deal with it? You can track down a legendary warlock, but you can't face a few ghosts?"
 
-"The problem isn't the ghosts," Jace said. "I've seen ghosts before. I've even been to a ghost town. At this point ghosts don't amount much. And I know the ghosts there were originally just ordinary townsfolk and villagers — nothing scary about them. But the point is Karazhan. I don't really want to go poking around that place."
+"The problem isn't the ghosts," Jace said. "I've seen ghosts before. I've even been to a ghost town. At this point ghosts don't amount to much. And I know the ghosts there were originally just ordinary townsfolk and villagers — nothing scary about them. But the point is Karazhan. I don't really want to go poking around that place."
 
 "Hm, oh," the goblin said. "I get it. You're all afraid of Medivh, right? But Medivh is dead — dead as dead can be. You mages all know that. What, he's going to come back from the dead just to deal with you?"
 
@@ -44,11 +44,11 @@ Who knows? Jace thought to himself.
 
 He did come back to life later, after all — though he was no longer that fearsome devil possessed by Sargeras.
 
-"The Karazhan Cataclysm was many years ago, so other goblins have already been hired to go looking, and the harvests have been plentiful — they just don't sell them around here," Mithershield shook his head. "You might be surprised, but Kalimdor has plenty of customers who need Necrotic Essence too... trolls, elves, even tauren."
+"The Karazhan Cataclysm was many years ago, so other goblins have already been hired to go looking, and the harvests have been plentiful — they just don't sell them around here," Mithershield shook his head. "You might be surprised, but Kalimdor has plenty of customers who need Essence of Undeath too... trolls, elves, even tauren."
 
 "Surprising indeed," Jace said absently.
 
-"Let me put it more directly." Mithershield picked up a small vial. "If you successfully extract one soul, the Necrotic Essence you get should be about this much — a kind of purple, swirling substance, like smoke and a bit like liquid at the same time."
+"Let me put it more directly." Mithershield picked up a small vial. "If you successfully extract one soul, the Essence of Undeath you get should be about this much — a kind of purple, swirling substance, like smoke and a bit like liquid at the same time."
 
 "Then let's split seventy-thirty. I get three, you get seven. If you're willing to sell me your share, I'll pay five gold for a vial like this. How about it?"
 
@@ -58,7 +58,7 @@ He did come back to life later, after all — though he was no longer that fears
 
 "Then I agree to go take a look," Jace nodded.
 
-"Good, good," the goblin said. "When you head back, remember to bring that equipment of mine. Instructions included. I don't't have any ghosts here for you to test it on, so you'll have to remember to test it in the field."
+"Good, good," the goblin said. "When you head back, remember to bring that equipment of mine. Instructions included. I don't have any ghosts here for you to test it on, so you'll have to remember to test it in the field."
 
 "So you can't even guarantee it'll work?" Jace said.
 

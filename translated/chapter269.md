@@ -2,7 +2,7 @@
 
 The wagons coming from Moonbrook were mostly hauling grain, and the grain sacks squeezed Jace and Vereesa into a corner where they sat pressed right up against each other.
 
-Unlike those elven mages who reeked of cloying perfume, Vereesa carried only the faint scent of grass on her. She was a far-ranger, after all — slathering on perfume in a forest crawling with trolls would've been a death wish.
+Unlike those elven mages who reeked of cloying perfume, Vereesa carried only the faint scent of grass on her. She was a Farstrider, after all — slathering on perfume in a forest crawling with trolls would've been a death wish.
 
 Thinking back to Morgan's joke earlier, Jace only now realized that this whole trip out with Vereesa, he hadn't entertained a single improper thought about her.
 
@@ -18,7 +18,9 @@ Just as he was thinking this, the wagon suddenly came to a halt.
 
 The people up front were saying something, but Jace had been lost in thought and hadn't caught it.
 
-He raised his head and looked ahead — something seemed to be blocking the road. "Wolves? There are wolves?!"
+He raised his head and looked ahead — something seemed to be blocking the road.
+
+"Wolves? There are wolves?!"
 
 The driver of their wagon called out.
 
@@ -48,7 +50,7 @@ The howling of wolves rose on every side. Jace leapt out of the wagon, and from 
 
 He looked up. An arrow was already buried in its forehead. It stared at Jace for a moment, let out a couple of dumb laughs, then toppled backward — the impact sent a tremor through the ground strong enough to make Jace's feet tingle.
 
-A scrambling of footsteps came from beneath the wagon. Jace had barely looked down when a gray wolf came lunging out, going straight for his lower leg. The wolf's neck was bound with a thick collar, the kind forged by orcs, so tight that the skin beneath had rotted and the fur had fallen out — but this was no warg. It was a local forest wolf.
+A scrambling of footsteps came from beneath the wagon. Jace had barely looked down when a gray wolf came lunging out, going straight for his lower leg. The wolf's neck was bound with a thick collar, the kind forged by orcs, so tight that the skin beneath had rotted and the fur had fallen out — but this was no worg. It was a local forest wolf.
 
 An ogre's pet?
 
@@ -56,9 +58,9 @@ Jace kicked it over. From above came Vereesa's shout.
 
 "Jace! Over there!" Vereesa loosed an arrow on instinct, and it buried itself straight into an ogre's belly. The ogre froze for a moment, then stared at its own navel and started clawing at it frantically, all while howling something in its tongue.
 
-Jace gripped the dragonman's staff. Off in the direction the elf had indicated, an ogre was raising its club and charging straight at him.
+Jace gripped the dragonkin's staff. Off in the direction the elf had indicated, an ogre was raising its club and charging straight at him.
 
-He swept his hand outward and murmured the Immolate incantation. A burst of crimson fire suddenly detonated on the ogre's shoulder — flesh and bone scattering into the air in an unnatural mist of pink.
+He swept his hand outward and murmured the Scorch incantation. A burst of crimson fire suddenly detonated on the ogre's shoulder — flesh and bone scattering into the air in an unnatural mist of pink.
 
 The ogre shrieked in horror, staggering on the few strips of sinew that still connected its arm. Jace spoke the incantation once more, this time straight at its head — and blew the thing's skull clean off. It toppled backward into the roadside brush.
 
@@ -92,7 +94,7 @@ Vereesa touched Jace's sweat-soaked forehead, and her eyes flared.
 
 Listening to Vereesa, Jace half-wondered whether he'd been consumed by shadow again or something.
 
-But he truly didn't feel that bloodlust that came with total loss of control. All he'd had in mind was saving these caravan members — the people who'd given him a ride to Duskwood Town and who had no power to resist the ogres.
+But he truly didn't feel that bloodlust that came with total loss of control. All he'd had in mind was saving these caravan members — the people who'd given him a ride to Darkshire and who had no power to resist the ogres.
 
 But thinking back on it just now, it seemed that before he'd even spoken the incantation, that ogre had already been hit by a Fear spell.
 
@@ -165,12 +167,3 @@ It reminded him of that wild night, when he'd apparently set fire to and blown u
 Lost in thought, he tried to pull the arrow from the ogre's forehead, when from behind came a shout: "Quick, help the elf lady find her arrows! Move it!"
 
 The caravan members quickly set about recovering arrows from the ogre corpses, wiping off the blood one by one and handing them to Vereesa, who looked a little embarrassed and kept saying thank you. Still, plenty of arrows were broken or ruined, and in the end they only recovered four or five that were still usable.
-
-## Flags
-
-- Jace and Vereesa hitch a ride on a Moonbrook grain wagon to Duskwood Town; Vereesa notes Jace hasn't had a single improper thought about her — Morophil the succubus has been warping his views on romance.
-- Ogres ambush the caravan. Jace and Vereesa fight them off — Vereesa with precise arrow shots, Jace with Immolate and Fear.
-- Jace's eyes fill with shadow during the fight. He appears to cast a Fear spell without speaking an incantation — the ogres panic and flee, terrified of "warlocks."
-- Vereesa confirms she sensed no other caster. Jace is left unsettled, recalling a previous incident where he cast fire magic without a verbal component.
-- The caravan leader pays Jace two gold and a handful of silver for a healing potion — far more than it's worth — as thanks for saving the whole group.
-- Foreshadowing: Jace's shadow magic is manifesting instinctively, without incantations — a dangerous and poorly understood development.

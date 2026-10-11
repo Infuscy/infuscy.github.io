@@ -28,15 +28,15 @@ Several ethereals stepped out from these phantoms, each holding translucent glas
 
 Jace could tell that if not for the fact that this trip was meant to find the Consortium, these ethereals in front of them — and the distant camp — would probably have been engulfed by a ball of Shadowflame right after that statement.
 
-"We're members of the Alliance Expedition," Jace said, handing over the map. "We've come to find a Consortium member named Jabal. An envoy of yours named Kolaez referred us."
+"We're members of the Alliance Expedition," Jace said, handing over the map. "We've come to find a Consortium member named Jabal. An envoy of yours named Kolez referred us."
 
 "The Alliance Expedition?" The leading ethereal took the map and looked it over. The ethereals beside him lowered their weapons.
 
-"I heard Kolaez went to Hellfire Citadel," the ethereal said. "Three days ago, Jabal notified the Void Hunters that a Dragonmaw orc was planning to come here..."
+"I heard Kolez went to Hellfire Citadel," the ethereal said. "Three days ago, Jabal notified the Void Hunters that a Dragonmaw orc was planning to come here..."
 
-"Nagg'jag," Jace said. "Is that the orc you were supposed to meet?"
+"Naigag," Jace said. "Is that the orc you were supposed to meet?"
 
-"Yes, Nagg'jag," the ethereal said. "What happened to him?"
+"Yes, Naigag," the ethereal said. "What happened to him?"
 
 "You don't need to wait for him. He's not coming," Jace said. "Our rangers intercepted his intelligence. That orc warlock was commissioned by Warchief Kargath Bladefist to come here on a reconnaissance mission, to pave the way for a future Horde attack."
 
@@ -50,7 +50,7 @@ Jace couldn't read the ethereal's emotions, but the hesitation — the pause wit
 
 Finally, this Void Hunter said in a low voice, "But the Horde doesn't know what we can do, human."
 
-"They really don't understand what you can do. But they're equally certain that you can't handle your current situation," Jace said. "I know what pretext that orc used to approach your Node Prince Haramad. By coincidence, the Expedition has similar needs, and our understanding of the current situation is far more detailed than the Horde's."
+"They really don't understand what you can do. But they're equally certain that you can't handle your current situation," Jace said. "I know what pretext that orc used to approach your Nexus-Prince Haramad. By coincidence, the Expedition has similar needs, and our understanding of the current situation is far more detailed than the Horde's."
 
 "The difference is that we're also trapped in this world against our will. We don't have the same motive as the Horde to make enemies of you."
 
@@ -58,7 +58,7 @@ Finally, this Void Hunter said in a low voice, "But the Horde doesn't know what 
 
 "Thank you very much, Void Hunter," Jace said.
 
-After the ethereals turned and walked toward the other side of the forest, Sabellian said quietly, "These fellows remind me of the netherwing dragons transformed by void energy."
+After the ethereals turned and walked toward the other side of the forest, Sabellian said quietly, "These fellows remind me of the nether dragons transformed by void energy."
 
 "True," Jace said. "Same situation — their physical bodies replaced by violently surging energy."
 
@@ -74,11 +74,11 @@ After the Void Hunter communicated something with this ethereal in their own lan
 
 "Jace Sesso," Jace said. "Envoy of the Sons of Lothar."
 
-"Baron Sabermane," the black dragon nodded slightly.
+"Baron Sablemane," the black dragon nodded slightly.
 
 "An honor to meet you both." The ethereal bowed slightly. "I am Jabal, the one you're looking for. But regarding that orc matter... I don't much like this feeling, gentlemen."
 
-"Don't act innocent, bandage-man," Sabellian said impatiently. "You know very well what kind of scum the so-called 'Consortium' is, and what kind of business and methods your leader, Node Prince Haramad, used to get where he is today. Selling communicators to the Horde is selling — selling to the Alliance is the same. What's the difference? And our terms are clearly more valuable."
+"Don't act innocent, bandage-man," Sabellian said impatiently. "You know very well what kind of scum the so-called 'Consortium' is, and what kind of business and methods your leader, Nexus-Prince Haramad, used to get where he is today. Selling communicators to the Horde is selling — selling to the Alliance is the same. What's the difference? And our terms are clearly more valuable."
 
 Jabal let out a series of ethereal laughs. "That's not untrue, mage."
 
@@ -106,7 +106,7 @@ As those shadows grew clearer, Jace's eyes widened more and more... There were s
 
 Though surrounded by lightning, though large areas had been scorched black by void energy, many patches of land still retained surviving vegetation. But this scene was as illusory and blurry as a mirage, and it was fleeting. As thunder, lightning, and harsh thick clouds surged back, everything vanished.
 
-"Farahlon. A great land full of wonders." Jabal said. "Node Prince Haramad is planning to use its abundant arcane energy to construct a teleportation device powerful enough to break through the magical lockdown."
+"Farahlon. A great land full of wonders." Jabal said. "Nexus-Prince Haramad is planning to use its abundant arcane energy to construct a teleportation device powerful enough to break through the magical lockdown."
 
 "This is also the condition of our cooperation. As you can foresee, there will be many enemies up there — gronn, ogres. We need an army of at least several hundred to protect the construction of the device."
 

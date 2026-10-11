@@ -16,7 +16,7 @@ He felt around and pulled it out — a coin that wasn't perfectly round.
 
 But the material and design of this coin were like nothing he'd seen before. It wasn't a troll beast totem, nor the portrait of any king he recognized — it looked like the head of some savage monster.
 
-He couldn't tell if it was from the wear of war, but the coin was so badly worn that the head was hard to make out. Was this some Loa that the trolls worshipped?
+He couldn't tell if it was from the wear of war, but the coin was so badly worn that the head was hard to make out. Was this some loa that the trolls worshipped?
 
 He tucked it into his pack and moved on to the bald man's charred corpse. The body was all stuck together. Jace tried to search through his melted clothes for anything useful, but after a while the stench of burnt flesh was too much to take, and he gave up.
 
@@ -30,7 +30,7 @@ He held out a basic mana potion.
 
 "True enough." Jace took it. "So the crossbowman really was a mage!"
 
-"Seems like it," Grede said. "He had a booklet too, but it was mostly burned up. Probably a half-pike like you."
+"Seems like it," Grede said. "He had a booklet too, but it was mostly burned up. Probably a half-baked one like you."
 
 Jace coughed in displeasure. "Shame. Never got to see what spells he knew."
 
@@ -50,7 +50,7 @@ Grede said, "Look at this castle and this orc head on it — this is orcish mone
 
 "An orc head?" Jace pointed at the horn on it. "Have you ever seen an orc with horns on its head?"
 
-Grede said, "Maybe there are horned orcs. Anyway, they call coins with this design orcish gold coins — brought over from the other side of the Dark Portal. Someone in the Dwarf District was buying them for about a dozen silver each."
+Grede said, "Maybe there are horned orcs. Anyway, they call coins with this design orcish gold coins — brought over from the other side of the Dark Portal. Someone in the Dwarven District was buying them for about a dozen silver each."
 
 Jace looked at the so-called gold coin again. Connecting it to what Grede had said, a possibility suddenly occurred to him.
 
@@ -60,7 +60,7 @@ The ogres had once built a mighty empire in Draenor — Gorian. Back then, the o
 
 And this horned head was very likely the head of an ogre — one of the empire's rulers.
 
-The idea of ogres stamping their own faces onto coins was so absurd in Azeroth that Jace had dismissed the possibility at first. But if it was the twin-headed ogre sages who ruled the Gorian Empire, it made perfect sense. And the coin's material was more likely some Draenor precious metal — truegold, or khorium, or something of that sort.
+The idea of ogres stamping their own faces onto coins was so absurd in Azeroth that Jace had dismissed the possibility at first. But if it was the two-headed ogre magi who ruled the Gorian Empire, it made perfect sense. And the coin's material was more likely some Draenor precious metal — truegold, or khorium, or something of that sort.
 
 "So these guys were bought off by orcs?" Jace asked.
 
@@ -101,14 +101,3 @@ Grede muttered, "I know some elven rangers can go eight days straight without sl
 With that, he began to snore. Jace had always envied the dwarf's ability to fall asleep so fast. Even without Grede saying it, Jace knew that the struggle against the ever-growing shadow power was a never-ending process — a battle with no end in sight.
 
 His power grew stronger, and the battle would only grow fiercer. His will to master his own body had to grow with it. The slightest lapse, and all would be for nothing.
-
-## Flags
-
-- **Title**: 奇怪的硬币 — "Strange Coin" — the ogre coin found on the crossbowman's body.
-- **Mana potion** (初级法力药水): confirms the crossbowman was a mage; Grede notes they're valuable.
-- **Ogre coin / Gorian Empire** (食人魔金币 / 高里亚): Jace identifies the "orcish gold coin" as likely ogre currency from the Gorian Empire of Draenor — the horned head is an ogre ruler, not an orc. The coin's material is speculated to be a Draenor precious metal (truegold, khorium). This suggests the mercenaries may have been in contact with — or paid by — orcs.
-- **Loa** (洛阿神): Jace's first guess is a troll Loa, but the design doesn't match.
-- **Dwarf District** (矮人区): Grede mentions buyers there who trade in "orcish gold coins" for about a dozen silver each.
-- **Life Drain aftermath**: Jace's fourth time using Life Drain — he's growing accustomed to the self-healing and the blood-taste side effects, a quiet marker of his deepening comfort with shadow magic.
-- **Grede's vampire comparison**: the dwarf is visibly unsettled by Jace's post-Life Drain appearance but tries to brush it off.
-- **Shadow power struggle**: Jace's internal monologue — the stronger his power grows, the fiercer the battle for self-control becomes. A core character theme.

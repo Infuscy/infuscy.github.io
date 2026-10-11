@@ -36,7 +36,7 @@ Don't tell me... that thing?!
 
 "It's a meteor spell! Don't cluster — spread out! Be ready to dodge!"
 
-Hearing "meteor spell," Jace watched the sky begin to churn, wreathed in green flames. Before long, a chunk of burning rock was vomited out of the roiling clouds and came strearing straight down toward the gate, letting out a piercing fel shriek as it crossed the sky.
+Hearing "meteor spell," Jace watched the sky begin to churn, wreathed in green flames. Before long, a chunk of burning rock was vomited out of the roiling clouds and came streaking straight down toward the gate, letting out a piercing shriek as it crossed the sky.
 
 "Everyone near the gate, get clear!" a knight shouted. "Everyone on that tower, get down!"
 
@@ -48,15 +48,15 @@ The shockwave of demonic flame knocked two soldiers who hadn't run fast enough o
 
 The commander was shouting something, but it was impossible to hear. The roar of the fel explosion drowned out everything. Jace could only see him screaming mouthfuls of words through waves of black-green smoke, as if someone had hit the mute button.
 
-But this was far from over. Between the burning palisades, several massive boulders were pulled into the air as if hauled by some invisible force, assembling themselves in midair into a hulking stone giant. The sight reminded Jace of the earth elementals he'd encountered in the Badlands, but this was clearly an oversized, amped-up version — an Infernal!
+But this was far from over. Between the burning palisades, several massive boulders were pulled into the air as if hauled by some invisible force, assembling themselves in midair into a hulking stone giant. The sight reminded Jace of the earth elementals he'd encountered in the Badlands, but this was clearly an oversized, amped-up version — an infernal!
 
-The black stone giant wreathed in green fire rose to its feet amid the roaring flames and let out a savage, rumbling howl at the mass of human soldiers before it — a sound enough to make everyone's ears ring for hundreds of meters in every direction. Before it had even fully formed, it stepped out of the fire and charged straight at the soldiers' formation, gathering more scattered boulders into its body as it ran, until it seized the last stone in its hand and hurled it toward a cluster of mages not far away. The boulder was blasted into a shower of shrapnel in midair by a blast of Arcane energy.
+The black stone giant wreathed in green fire rose to its feet amid the roaring flames and let out a savage, rumbling howl at the mass of human soldiers before it — a sound enough to make everyone's ears ring for hundreds of meters in every direction. Before it had even fully formed, it stepped out of the fire and charged straight at the soldiers' formation, gathering more scattered boulders into its body as it ran, until it seized the last stone in its hand and hurled it toward a cluster of mages not far away. The boulder was blasted into a shower of shrapnel in midair by a blast of arcane energy.
 
 "Mages, kill that demon!"
 
-A mage wearing a full-mage's ring raised his staff high and pointed at the Infernal, shouting the order. That single call snapped the mages — still dazed from the explosion — back to their senses.
+A mage wearing a full-mage's ring raised his staff high and pointed at the infernal, shouting the order. That single call snapped the mages — still dazed from the explosion — back to their senses.
 
-Soon, arcs of Slow spell light wrapped around the Infernal's body like chains, binding it in place at several points. But the giant still pushed forward against the mages' magic, step by step.
+Soon, arcs of Slow spell light wrapped around the infernal's body like chains, binding it in place at several points. But the giant still pushed forward against the mages' magic, step by step.
 
 Some of the soldiers in the front ranks began to hesitate. The thing was a good four meters tall; they barely came up to its knees. How were they supposed to hold against a monster's mad charge?
 
@@ -64,17 +64,17 @@ Some of the soldiers in the front ranks began to hesitate. The thing was a good 
 
 Some soldier yelled. A pikeman in the front line stepped forward with that cry and thrust at the giant's foot. The moment his weapon touched the stone surface, fel fire erupted over his body!
 
-The soldier howled as he burned. Those few cries shook the resolve of the other soldiers along the line in an instant. Quite a few even started to fall back. The formation grew more and more chaotic, on the verge of collapse. The Infernal wasn't doing much better, though — a rain of Frostbolts flew in with pinpoint accuracy, striking every chunk of stone in the giant's body. The frost made every step agonizingly difficult, and the flames on its body were dying down as if doused with water.
+The soldier howled as he burned. Those few cries shook the resolve of the other soldiers along the line in an instant. Quite a few even started to fall back. The formation grew more and more chaotic, on the verge of collapse. The infernal wasn't doing much better, though — a rain of Frostbolts flew in with pinpoint accuracy, striking every chunk of stone in the giant's body. The frost made every step agonizingly difficult, and the flames on its body were dying down as if doused with water.
 
-Then the fire mages finally came into their own. On this scorching wasteland, fire magic was massively amplified. After the Infernal's flames were snuffed out by frost magic, even if the creature no longer feared being burned, the explosive force of fireballs was more than enough to shatter the fel stones making up its body.
+Then the fire mages finally came into their own. On this scorching wasteland, fire magic was massively amplified. After the infernal's flames were snuffed out by frost magic, even if the creature no longer feared being burned, the explosive force of fireballs was more than enough to shatter the fel stones making up its body.
 
-Jace began casting too, aiming a Fireball at the Infernal's now-sluggish foot. Before long, the Infernal's leg was blown apart by a barrage of Arcane Missiles and fireballs. The whole giant toppled to one side.
+Jace began casting too, aiming a Fireball at the infernal's now-sluggish foot. Before long, the infernal's leg was blown apart by a barrage of Arcane Missiles and fireballs. The whole giant toppled to one side.
 
 A group of armed miners who'd been helping hold the line rushed in with chisels and hammers and went to town, finally smashing the stone giant — which was still trying to thrash and fight back — into a pile of rubble.
 
-But an Infernal didn't just appear out of nowhere. It had to be summoned by magic. Which meant the real enemy was still out there!
+But an infernal didn't just appear out of nowhere. It had to be summoned by magic. Which meant the real enemy was still out there!
 
-This Infernal had just been used to smash through the defenses!
+This infernal had just been used to smash through the defenses!
 
 "Find your positions! Get back to your positions!"
 

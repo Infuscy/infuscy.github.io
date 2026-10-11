@@ -2,7 +2,7 @@
 
 Since the situation on the other side was completely unknown, Jace had Kallrez temporarily close the rift to prevent anything from squeezing through — or noticing the existence of the teleportation rift. Even though that side was silent as the dead.
 
-Right now, there still hung in the air a trace of otherworldly breath that clearly didn't belong to Ilgalar Tower.
+Right now, there still hung in the air a trace of otherworldly breath that clearly didn't belong to the Tower of Ilgalar.
 
 A group of them sat on the library level looking at each other. Jace had just described what he'd seen on the other side, and none of them quite knew how to react.
 
@@ -10,7 +10,7 @@ A group of them sat on the library level looking at each other. Jace had just de
 
 Jace didn't know how to answer the dwarf's question. After all, he couldn't tell everyone here that he knew exactly who might be living in Auchindoun right now, and who might potentially move in later.
 
-Morophil sat nearby, watching her master's dilemma with great interest. She could clearly tell Jace was trying to cover something up. Jace could only warn her through their soul link to keep a low profile.
+Morophil sat nearby, watching her master's dilemma with great interest. She could clearly tell Jace was trying to cover something up. Jace could only warn her through their Soul Link to keep a low profile.
 
 Just as he was thinking about how to properly explain the possible situation on the other side to everyone, Vereesa spoke up first. "At least based on the last news I heard from Draenor, Auchindoun had already been stormed by the Expedition. The orc commander defending the fortress, Kilrogg Deadeye, should have been captured or killed in action."
 
@@ -58,13 +58,13 @@ Vereesa continued, "When that world was still intact, retreating through the Dar
 
 At this she lowered her eyes and said, "Assuming he's still alive."
 
-Grede laughed. "Don't worry, Miss Amy Marin. I think rather than worrying about him getting killed by demons and the Twisting Nether, you'd better worry about him dying of old age! Jace can walk back and forth alive — how could Khadgar have any problems?!"
+Grede laughed. "Don't worry, Miss Amy Malin. I think rather than worrying about him getting killed by demons and the Twisting Nether, you'd better worry about him dying of old age! Jace can walk back and forth alive — how could Khadgar have any problems?!"
 
 Amy was still smiling, but when the dwarf suddenly brought Jace into it like that, she glanced over here a little sheepishly. But Jace wasn't paying much attention to their conversation. He'd been keeping his head down, thinking about Auchindoun the whole time.
 
 Of the most important cities the draenei had built on Draenor, aside from the Temple of Karabor and Shattrath City, Auchindoun should be among them. Of course, as the draenei's sacred burial ground, Auchindoun's status was no lower than Karabor or Shattrath. So a massive number of elite troops had gathered here to resist the orc and demon offensive.
 
-Although the Shadow Council had summoned the otherworldly elemental lord "M'muru," triggering a massive explosion that destroyed Auchindoun and conquered the city, countless draenei defenders had survived and hidden in the ruins. Some of these defenders even survived until the Dark Portal was reopened twenty years later.
+Although the Shadow Council had summoned the otherworldly elemental lord Murmur, triggering a massive explosion that destroyed Auchindoun and conquered the city, countless draenei defenders had survived and hidden in the ruins. Some of these defenders even survived until the Dark Portal was reopened twenty years later.
 
 But by then, their final leader, Maladaar — a powerful follower of the Holy Light — had been driven insane by uncontrolled emotions of corruption from Auchindoun's failure and the deaths of countless comrades, turning to Shadow and necromantic magic.
 
@@ -72,11 +72,11 @@ If he were still sane enough, he might actually be able to help this group. Afte
 
 Another clue was that Jace hadn't sensed any traces of demons on the other side of the portal.
 
-Twenty years later, Burning Legion demons had entered the crypts where Maladaar and his organization, the Auchenai, were stationed. Similarly, the Shadow Council had also summoned many demons to protect their attempts to continue controlling M'muru deep within another section of the crypts.
+Twenty years later, Burning Legion demons had entered the crypts where Maladaar and his organization, the Auchenai, were stationed. Similarly, the Shadow Council had also summoned many demons to protect their attempts to continue controlling Murmur deep within another section of the crypts.
 
-The absence of demons probably meant they hadn't teleported to where the Shadow Council warlocks were hiding. At the same time, the Burning Legion's demons hadn't made contact here yet — all things considered, that counted as a blessing within a misfortune.
+The absence of demons probably meant they hadn't teleported to where the Shadow Council warlocks were hiding. At the same time, the Burning Legion's demons hadn't made contact here yet — all things considered, that counted as a small mercy.
 
-As for the other forces that would want to enter Auchindoun in the future, seeking soul power or mana — the arakkoa living in Terokkar Forest, or the "etheric" travelers "the Voidspawn" who'd come here from another world — even twenty years later it had seemed as though they'd only recently arrived at Auchindoun. So Jace guessed that at this moment, when Draenor had just experienced an unprecedented catastrophe, even if they'd already made contact with Auchindoun, they probably hadn't brazenly forced their way in and established a stronghold at the risk of engaging draenei and orcs.
+As for the other forces that would want to enter Auchindoun in the future, seeking soul power or mana — the arakkoa living in Terokkar Forest, or the ethereals, travelers who'd come here from another world — even twenty years later it had seemed as though they'd only recently arrived at Auchindoun. So Jace guessed that at this moment, when Draenor had just experienced an unprecedented catastrophe, even if they'd already made contact with Auchindoun, they probably hadn't brazenly forced their way in and established a stronghold at the risk of engaging draenei and orcs.
 
 But at least one enemy could be confirmed — ghosts.
 
@@ -86,13 +86,13 @@ The Burning Legion demons and the arakkoa who pursued dark magic had been drawn 
 
 "Jace?" Vereesa asked. "What are you thinking about?"
 
-"Auchindoun is the ruins of the draenei sacred burial ground, Wen," Jace said. "Just think about the orc army and their dark magic that stormed and destroyed that place…"
+"Auchindoun is the ruins of the draenei sacred burial ground, Vere," Jace said. "Just think about the orc army and their dark magic that stormed and destroyed that place…"
 
 "So we could be surrounded by countless vengeful spirits," Vereesa said.
 
-Having experienced the dark energy from Karazhan spreading through Duskwood and raising the entire Raven Hill, the farstriders familiar with this region had a very clear idea of what happened when dark magic got mixed up with graveyards.
+Having experienced the dark energy from Karazhan spreading through Duskwood and raising the entire Raven Hill, the Farstriders familiar with this region had a very clear idea of what happened when dark magic got mixed up with graveyards.
 
-"Damn it," Grede frowned and let out a long sigh. "Why do we have to deal with ghosts in another world too? Are you serious, Jace? I still have nightmares about that ogre temple! The winding passageways were designed specifically to piss me off — like you'd never find the exit."
+"Damn it," Grede frowned and let out a long sigh. "Why do we have to deal with ghosts in another world too? Are you serious, Jace? I still have nightmares about that troll temple! The winding passageways were designed specifically to piss me off — like you'd never find the exit."
 
 Yes, this was also an important danger. The destroyed Auchindoun was also an extremely chaotic place.
 

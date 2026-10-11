@@ -1,14 +1,14 @@
 ## Chapter 633: A Strange Orb
 
-Putting on the Void Robe and stepping out the door, Jace touched the collar that had been blown open by a volley of Dath'mora's shadow bolts.
+Putting on the Robe of the Void and stepping out the door, Jace touched the collar that had been blown open by a volley of Dasmora's Shadow Bolts.
 
 He gazed at the glittering canal, looked up at the sun, and felt the gloom of last night's nightmare had been dispersed a little.
 
 Arriving at the Mage Quarter, he headed straight for the dwelling where the elven mages lived, but spotted Krasus at a glance in the Park.
 
-This red dragon disguised as a High Elf was a full head taller than the average High Elf man — extremely conspicuous. Add in that blood-red robe, and it was as if he was afraid people wouldn't notice he was a tough customer.
+This red dragon disguised as a high elf was a full head taller than the average high elf man — extremely conspicuous. Add in that blood-red robe, and it was as if he was afraid people wouldn't notice he was a tough customer.
 
-Still, around the Wizard Sanctum he didn't attract any particular attention. After all, elven mages in outlandish outfits and bizarre getups couldn't exactly be called a common sight, but they weren't rare either.
+Still, around the Wizard's Sanctum he didn't attract any particular attention. After all, elven mages in outlandish outfits and bizarre getups couldn't exactly be called a common sight, but they weren't rare either.
 
 At the moment the red-robed mage was sitting on a stone bench reading. Jace sat down beside him. "Master Krasus."
 
@@ -48,7 +48,7 @@ Jace looked around. He hadn't actually planned on testing it — but he really h
 
 Krasus instructed, "Its mana is strong — it will transform the clothes and accessories on your body to match an orc's build. If undisturbed, it can last at least two days. When it's close to wearing off, you'll clearly feel its mana weakening — that's your cue to reactivate it."
 
-"But because the time window to craft it was very narrow, it has a very obvious drawback: casting spells while in orc form will break the integrity of the magic and expose you. Wielding weapons and speaking are no problem, of course. And don't channel Azure Song, Jace — the arcane energy disturbance that sword puts out is stronger than an Arcane Missile. The illusion can't support that much mana."
+"But because the time window to craft it was very narrow, it has a very obvious drawback: casting spells while in orc form will break the integrity of the magic and expose you. Wielding weapons and speaking are no problem, of course. And don't channel Azuresong, Jace — the arcane energy disturbance that sword puts out is stronger than an Arcane Missile. The illusion can't support that much mana."
 
 Jace asked, "Can this fool the orc-controlled red dragons?"
 
@@ -84,11 +84,11 @@ And thinking back further, in that dream, the Father of Black Dragons had seemed
 
 Was it overconfidence? Believing that as a mortal, Jace would stop at nothing for immortality, and that given his status and power, a speck like Jace could never possibly defy him?
 
-Or did he actually know Jace wasn't deceiving him? Jace thought of Molphis.
+Or did he actually know Jace wasn't deceiving him? Jace thought of Morophil.
 
 Could it be from the emotions revealed through speech?
 
-Molphis had told Jace to control his emotions when lying — that way he could deceive her and keep her from detecting the lie.
+Morophil had told Jace to control his emotions when lying — that way he could deceive her and keep her from detecting the lie.
 
 Black dragons were unquestionably masters of shadow. It wouldn't be strange at all for them to see through the disturbances of dark power to tell whether the other party was lying. If he couldn't see through lies, Deathwing was trusting him far too much.
 

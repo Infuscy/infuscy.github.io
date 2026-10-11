@@ -1,6 +1,6 @@
 ## Chapter 1452: The Demon in the Cottage
 
-Khadgar led Jace and Morofil through a narrow, rough-hewn passage. It didn't feel like a proper corridor so much as a cramped attic crawlspace, or the mezzanine of some ancient castle — dark, damp, and barely lit.
+Khadgar led Jace and Morophil through a narrow, rough-hewn passage. It didn't feel like a proper corridor so much as a cramped attic crawlspace, or the mezzanine of some ancient castle — dark, damp, and barely lit.
 
 The mage didn't dare summon a light cantrip for fear of drawing the ghosts outside. Though Jace figured after everything that had happened at the theater, whether they stayed hidden or not hardly mattered anymore.
 
@@ -8,7 +8,7 @@ The Grand Theater had already started its next performance. The ghostly actors n
 
 But the cheering, the applause, Barnes' announcements grew more and more distant, hollow, until they were nothing but indistinct noise.
 
-"I think it was some kind of warning," Jace said. "Little Red Riding Hood was trying to tell us something about a demon. I could feel it from her emotions — she was asking for help. When she saw Morofil, or rather who she thought was her grandmother, she was so relieved. That emotion was too real to be acting."
+"I think it was some kind of warning," Jace said. "Little Red Riding Hood was trying to tell us something about a demon. I could feel it from her emotions — she was asking for help. When she saw Morophil, or rather who she thought was her grandmother, she was so relieved. That emotion was too real to be acting."
 
 Khadgar was quiet for a moment, rubbing his fingers together. "You're saying that what Little Red said when she got to the cottage wasn't acting... she was really trying to warn her grandmother that a demon had gotten into the house? You think the whole play was some kind of allegory, hiding a message?"
 
@@ -50,7 +50,7 @@ He sighed, leaning against the wall. "All of this is too strange. The staircase 
 
 Khadgar fell silent. He held his forehead, opening his mouth a few times as if to say something, but never quite committing.
 
-Morofil, who had been listening the whole time, spoke up. "Little Red Riding Hood seems to be part of the space magic itself, master. She's part of that forest, the cottage, our transformation — not just a ghost actor."
+Morophil, who had been listening the whole time, spoke up. "Little Red Riding Hood seems to be part of the space magic itself, master. She's part of that forest, the cottage, our transformation — not just a ghost actor."
 
 "You didn't notice that, Khadgar?" Jace asked.
 
@@ -72,7 +72,7 @@ He thought back to Little Red's emotions when she described the demon to her gra
 
 Then again, Little Red's emotions might not represent Medivh's.
 
-To Khadgar and Jace, and especially with Morofil around, an eredar lord like Malchezaar was hardly a fearsome opponent. The tower's master didn't need to go through all this trouble just to warn three such guests about danger.
+To Khadgar and Jace, and especially with Morophil around, an eredar lord like Malchezaar was hardly a fearsome opponent. The tower's master didn't need to go through all this trouble just to warn three such guests about danger.
 
 Jace had a nagging feeling that — even though both he and Khadgar sensed something was wrong — what was really going on was more complicated than they'd considered.
 
@@ -80,9 +80,9 @@ Maybe his experiences in Draenor had made him paranoid. Maybe the shadow energy 
 
 "The library's close, Jace," Khadgar said. "Once we see the Curator and throw all our questions at him, maybe some of them will get answered."
 
-Jace nodded. Morofil glanced back at him. In the dark, lightless corridor, the flames burning in her eye sockets were unusually bright.
+Jace nodded. Morophil glanced back at him. In the dark, lightless corridor, the flames burning in her eye sockets were unusually bright.
 
-It reminded him of earlier, in that cottage, when she'd stood over him holding a hunting knife, back when she was still in the form of a she-wolf.
+It reminded him of earlier, in that cottage, when he'd stood over her with a hunting knife, back when she was still in the form of a she-wolf.
 
 Those two burning, blazing eyes had looked familiar, but he hadn't placed them then. Now he remembered.
 
@@ -94,4 +94,4 @@ He didn't want to think that way. It hadn't even been a few months since he'd es
 
 And once the thought surfaced in his mind, he couldn't shake it.
 
-Ursula had also asked him to find Velen when he had the chance, to ask about any scholars studying void-bloom among the draenei. When he got out of Karazhan, if he had the time, he'd head to Stonard. It wasn't far from here.
+Ursula had also asked him to find Velen when he had the chance, to ask about any scholars studying Netherbloom among the draenei. When he got out of Karazhan, if he had the time, he'd head to Stonard. It wasn't far from here.

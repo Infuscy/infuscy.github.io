@@ -18,9 +18,9 @@ For some reason, Jace always felt like Sylvanas was more of an older sister, whi
 
 Maybe that was also why Alleria had handed the heavy responsibility of Ranger-General over to Sylvanas without hesitation, then followed Turalyon and the Sons of Lothar through the Dark Portal.
 
-"You should call me Lord Ranger now, respected Captain Alleria. To your superior..."
+"You should call me Ranger Lord now, respected Captain Alleria. To your superior..."
 
-"Lord Ranger?! My Light, that's the Mantle of Franal — it's real."
+"Ranger Lord?! My Light, that's the Mantle of Franal — it's real."
 
 "Hurry up and call me superior, your Moon superior."
 
@@ -40,11 +40,11 @@ Alleria turned her head. "May I call you that?"
 
 "Through what demon?" Alleria asked.
 
-"A, um..." Jace cleared his throat. "An Eredar. We found an Auchindoun portal coordinate from the Broken, and then used void magic to have him send us here. The whole process went fairly successful, considering... the current state of Draenor."
+"A, um..." Jace cleared his throat. "An eredar. We found an Auchindoun portal coordinate from the Broken, and then used void magic to have him send us here. The whole process went fairly smoothly, considering... the current state of Draenor."
 
 Alleria nodded slowly, then looked at Vereesa again. "I imagine the Alliance doesn't know about this?"
 
-"At least King Varian knows about it," Vereesa said. "And it was me who reminded Jace to go to him and confirm first. Did you think I was still that little girl sneaking out of the house, Sun Lady?"
+"At least King Varian knows about it," Vereesa said. "And it was me who reminded Jace to go to him and confirm first. Did you think I was still that little girl sneaking out of the house, Lady Sun?"
 
 Alleria smiled — a smile full of complicated emotions that even Jace found hard to read. But on the whole, she was quite happy.
 
@@ -60,7 +60,7 @@ Alleria looked at Jace again. "You weren't simply tricked here by her, were you?
 
 "How is it tricking?" Vereesa said, displeased.
 
-"No." Jace raised an eyebrow at Vereesa, signaling for him to do the talking, and explained, "The Eredar I summoned once served the Burning Legion. From him I learned that Magtheridon had brought the Legion's demons to invade here again after the great explosion of Draenor, aiming to wipe out all draenei and Alliance forces here and take control of the Horde once more..."
+"No." Jace raised an eyebrow at Vereesa, signaling for him to do the talking, and explained, "The eredar I summoned once served the Burning Legion. From him I learned that Magtheridon had brought the Legion's demons to invade here again after the great explosion of Draenor, aiming to wipe out all draenei and Alliance forces here and take control of the Horde once more..."
 
 "On Azeroth, everyone thought Draenor had met its doom, including many orcs. But if the Burning Legion needed to send a great army here, I figured the expeditionary force must still have the ability to resist — meaning this world truly wasn't completely destroyed yet."
 
@@ -82,7 +82,7 @@ Listening to Jace lay out this plan, Alleria was clearly moved too, nodding alon
 
 "Khadgar is currently in Shadowmoon Valley fighting the demons with Turalyon and Kurdran. Once we reach the fortress, I'll take you to see him."
 
-By now they'd already walked up the slope. The place where Grede and Solia were resting wasn't far off. Seeing Morophil at any moment, Jace couldn't help but glance ahead unnaturally.
+By now they'd already walked up the slope. The place where Grede and Sola were resting wasn't far off. They would be seeing Morophil at any moment, and Jace couldn't help glancing ahead uneasily.
 
 Sensing that Jace seemed to have some reservation, Alleria said, "Don't worry about Turalyon, Jace. I was just sighing a moment ago. He may be a member of the Silver Hand, but after these past few years, he's far more tolerant than you think — better at knowing who the enemy is and who our allies are. If he'd gone by the education and views he'd accepted in Lordaeron before the Dark Portal, he never should have been with me at all, let alone become friends with a mage like Khadgar... I am honestly surprised Varian accepted this. His own father died at the hands of orcs."
 
@@ -118,12 +118,14 @@ Hearing Grede was a Wildhammer dwarf, Alleria immediately smiled and nodded. "A 
 
 Alleria's eyes flew open in surprise, and for a moment she didn't know what to say.
 
-Just then, she suddenly stared upward warily and drew a blade with a speed nobody had time to react to. The Farstrider behind her also raised his spear. The two void rays drifted into the air at once, letting out sharp, savage cries toward the heights.
+Just then, she suddenly stared upward warily and drew a blade with a speed nobody had time to react to. The Farstrider behind her also raised his spear. The two nether rays drifted into the air at once, letting out sharp, savage cries toward the heights.
 
 Morophil, standing there, raised her hands. "What's wrong, everyone? No need to be so tense, is there?"
 
 Sazeno, in Jace's satchel, couldn't help but cover his mouth and snicker. Catching the glance from the elf ranger behind him, he coughed and shrank back.
 
-"That..." Vereesa raised a hand. Jace immediately picked up the thread. "Morophil, my... ah, succubus. She's a friend, not an enemy."
+"That..." Vereesa raised a hand.
+
+Jace immediately picked up the thread. "Morophil, my... ah, succubus. She's a friend, not an enemy."
 
 Alleria relaxed slightly and sheathed her sword. But at the same time, her gaze jumped back and forth between Vereesa and Jace once more.

@@ -32,7 +32,7 @@ Jace couldn't help but laugh. He looked at the steps ahead. "Whatever. We're alm
 
 "Haven't you been with me the whole time?" Vereesa said.
 
-"I thought they might appear in your dreams to talk to you, like Sora does," Jace said.
+"I thought they might appear in your dreams to talk to you, like Sola does," Jace said.
 
 "Is that possible?" Vereesa raised an eyebrow. "I did have a dream yesterday... but I've forgotten most of it now. Did I miss a message from the green dragon queen?"
 
@@ -46,7 +46,7 @@ Jace couldn't help but laugh. He looked at the steps ahead. "Whatever. We're alm
 
 "Does that mean you've decided to come to Shadowforge City with us?" Jace asked. "You'd turn into a Dark Iron dwarf and go find Lokhtos Darkbargainer?"
 
-"I have to go." Vereesa said seriously. "What if they don't believe in the warhammer? That would mean you, Grede, and Sora have to face the entire Dark Iron army alongside those smiths. Yes, you have Morophil... but she lost the power from that demon register, didn't she?"
+"I have to go." Vereesa said seriously. "What if they don't believe in the warhammer? That would mean you, Grede, and Sola have to face the entire Dark Iron army alongside those smiths. Yes, you have Morophil... but she lost the power from that demon registry, didn't she?"
 
 "With you there, never mind fighting our way out." Jace lowered his voice. "I'd be confident enough to charge into the Dark Iron Throne and take Dagran Thaurissan alive."
 
@@ -56,9 +56,9 @@ Jace couldn't help but laugh. He looked at the steps ahead. "Whatever. We're alm
 
 "Ah. It seems the warlock's charm has won out over the fear of her uncle after all." Vereesa smiled.
 
-"What's it got to do with me?" Jace glanced toward the Wizard Sanctum's tower spire. "She just wants to prove to all of us that she's special."
+"What's it got to do with me?" Jace glanced toward the Wizard's Sanctum's tower spire. "She just wants to prove to all of us that she's special."
 
-"She hates me so much that if I *didn't* go, she'd probably be even more eager to go adventuring with Grede and Sora. Yesterday she even made a condition — she wants Morophil to teach her how to fight."
+"She hates me so much that if I *didn't* go, she'd probably be even more eager to go adventuring with Grede and Sola. Yesterday she even made a condition — she wants Morophil to teach her how to fight."
 
 "She cares very much about what you think of her, Jace... I can't tell if you're being modest or if you genuinely don't understand children's psychology." Vereesa said. "She may be a black dragon, but from what I've observed, she's not much more mature than a human or elven child her age."
 
@@ -90,7 +90,7 @@ Jace had to admit, the combined gaze of so many powerful paladins was quite oppr
 
 Standing across from them, Jaina seemed to have noticed Jace's presence through the paladins' attention. She whispered something to her father. Daelin looked up, spotted Jace, and managed a nod across the intervening priests and guards. Jace and Vereesa nodded back respectfully.
 
-The Admiral seemed friendly enough. Apparently he hadn't held a grudge against Jace for dragging his precious daughter onto the warlock boat.
+The Admiral seemed friendly enough. Apparently he hadn't held a grudge against Jace for roping his precious daughter into a warlock's schemes.
 
 Varian Wrynn, as the host, was also wearing an unusually formal outfit today. A lion-emblem cloak, a blue tunic with trim, a gold crown set with violet-blue gems... a far cry from his usual attire.
 

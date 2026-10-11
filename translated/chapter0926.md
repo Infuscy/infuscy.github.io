@@ -8,13 +8,13 @@ The room reeked of blood. Jace looked down and only then noticed the pillow and 
 
 "You're awake, master."
 
-Morophil was sitting in the chair beside him, watching him. After eating the demon healing stone, the wound on her abdomen was far less visible now. She looked much recovered, both outwardly and in spirit — the firelight of her fel markings had reignited, and the flames drifting in her eyes had been rekindled as well.
+Morophil was sitting in the chair beside him, watching him. After eating the demon healthstone, the wound on her abdomen was far less visible now. She looked much recovered, both outwardly and in spirit — the firelight of her fel markings had reignited, and the flames drifting in her eyes had been rekindled as well.
 
 "How long was I out?"
 
 "Two nights."
 
-Jace moved his parched lips. He wasn't surprised in the slightest. "The Wizard Sanctum hasn't come looking for me these past few days, have they?"
+Jace moved his parched lips. He wasn't surprised in the slightest. "The Wizard's Sanctum hasn't come looking for me these past few days, have they?"
 
 "No," Morophil said. "But there have been mages watching the inn outside. We sensed their presence last night."
 
@@ -26,7 +26,7 @@ The moment the word "lighthouse" surfaced in his mind, there it was: burning cri
 
 "Thank you, master," Morophil said.
 
-Jace was a little dazed. After all, he'd been on the verge of putting the battle with Reshrael behind him. In truth, he was quite grateful to Morophil for yanking him out of this uncontrollable spiral of memories.
+Jace was a little dazed. After all, he'd been on the verge of putting the battle with Lashlayer behind him. In truth, he was quite grateful to Morophil for yanking him out of this uncontrollable spiral of memories.
 
 "Nothing to thank me for," he said. "You saved me, I saved you — that's how we work. You can't let me die, and I can't just watch you die."
 
@@ -36,15 +36,15 @@ Jace was a little dazed. After all, he'd been on the verge of putting the battle
 
 Jace had meant it as a strained joke, but it was as if something had just occurred to him — he glanced toward the window, at the staff wrapped in tattered clothing.
 
-That staff lay there quietly, with no indistinct whispers, no crimson light emanating from it, no evil dark-blood sickle blade flowing out, as though nothing had happened at all.
+That staff lay there quietly, with no indistinct whispers, no crimson light emanating from it, no evil dark-blood scythe blade flowing out, as though nothing had happened at all.
 
 Morophil looked over too. Both of them knew that if Jace were to die now, he probably wouldn't end up in the Shadowlands like the legends said ordinary people did.
 
-Ussaras was waiting. Once all this was over, it could find its next master.
+Ulthalesh was waiting. Once all this was over, it could find its next master.
 
 And Jace would likely become one of the wailing, murmuring voices in that chaotic chorus — perhaps not even enough to count as one.
 
-But Jace had the faint sense that Ussaras didn't want him to die just yet.
+But Jace had the faint sense that Ulthalesh didn't want him to die just yet.
 
 Not because the staff had suddenly grown a conscience, but because it felt this master wasn't strong enough yet.
 
@@ -54,7 +54,7 @@ It was willing to wait — willing to wait until Jace's power was enough to shak
 
 At the mention of the past, the demon said nothing more.
 
-Jace picked up the set of new clothes the Wizard Sanctum had given him, slung on his coin pouch, and said, "I'm going downstairs to get some food, Morophil. Keep an eye on things here. We'll set out for Sentinel Hill this afternoon."
+Jace picked up the set of new clothes the Wizard's Sanctum had given him, slung on his coin pouch, and said, "I'm going downstairs to get some food, Morophil. Keep an eye on things here. We'll set out for Sentinel Hill this afternoon."
 
 "At your service, master," Morophil said, her expression calm.
 
@@ -64,13 +64,13 @@ But right now, he could genuinely feel this demon's pride had taken a serious hi
 
 After all, she was supposed to have scouted ahead on his orders, coordinated with him to assess the situation first — and yet she'd ended up being the very reason he'd had to risk charging in himself.
 
-At first, Jace had been a little surprised Morophil could be detected at all. After all, she'd been with him for so long and had at most made people feel something was off — she hadn't even been noticed back at Azuregos.
+At first, Jace had been a little surprised Morophil could be detected at all. After all, she'd been with him for so long and had at most made people feel something was off — she hadn't even been noticed by Azuregos.
 
-But when he'd seen Reshael reveal his true identity, he'd more or less understood.
+But when he'd seen Lashlayer reveal his true identity, he'd more or less understood.
 
-As Nefarian's gatekeeper, Reshael was probably the Blackwing Legion's foremost expert on monitoring demons.
+As Nefarian's gatekeeper, Lashlayer was probably the Blackwing Legion's foremost expert on monitoring demons.
 
-In the Blackwing Lair, he not only enslaved the whelps but also monitored and controlled countless Blackrock orcs — especially the warlocks.
+In Blackwing Lair, he not only enslaved the whelps but also monitored and controlled countless Blackrock orcs — especially the warlocks.
 
 Blackrock Spire was full of Shadow Council warlocks who'd fled from Orgrim Doomhammer, and naturally the demons they'd summoned were just as varied and numerous.
 
@@ -78,7 +78,7 @@ Not to mention that the Blackrock orcs and black dragons' greatest adversaries t
 
 So if the black dragons wanted to control that place, they couldn't possibly lack a way to monitor the warlocks' succubi. Otherwise, relying on these demons who could turn invisible, the Dark Iron warlocks — or those orc warlocks unwilling to bow to the black dragons' power — God knew how much sabotage they could carry out behind the dragons' backs.
 
-Reshael must have had the ability to detect succubi, otherwise Nefarian wouldn't have appointed him as a watcher.
+Lashlayer must have had the ability to detect succubi, otherwise Nefarian wouldn't have appointed him as a watcher.
 
 And he'd been able to act as the "Guide," coming to Moonbrook to control a bunch of warlocks and throw the entire western part of the Kingdom of Stormwind into chaos — that couldn't have relied solely on having enough dragon blood in his veins.
 
@@ -102,30 +102,32 @@ Thinking all this, he came downstairs. The tavern common room was a noisy mess, 
 
 Jace walked up to the counter and said, "A liver pie and a mug of goat milk."
 
-"Forty copper," the boss said.
+"Forty copper," the innkeeper said.
 
 Jace blinked. "Last time I was here, plus a night's lodging, it was only thirty copper total."
 
-"I bet last time you were here, you were the only mage in all of Moonbrook." The boss glanced at Jace's clothes. "Now there are more mages here than miners, more demons than mages, and the hunting parties going out to hunt Bloodfang boars have got to bring two demon hunters each. You've still got food to eat — thank the Holy Light for that."
+"I bet last time you were here, you were the only mage in all of Moonbrook." The innkeeper glanced at Jace's clothes. "Now there are more mages here than miners, more demons than mages, and the hunting parties going out to hunt Goretusk boars have got to bring two demon hunters each. You've still got food to eat — thank the Holy Light for that."
 
-"Oh, right." The boss leaned in and asked, "You're from the Wizard Sanctum, aren't you? Do you know what really happened at the lighthouse?" Jace stopped rummaging for coins in his pocket and cleared his throat. "Make it free, and I'll tell you."
+"Oh, right." The innkeeper leaned in and asked, "You're from the Wizard's Sanctum, aren't you? Do you know what really happened at the lighthouse?"
 
-The boss ran his tongue around his mouth, frowned, and said, "Fine. Talk."
+Jace stopped rummaging for coins in his pocket and cleared his throat. "Make it free, and I'll tell you."
+
+The innkeeper ran his tongue around his mouth, frowned, and said, "Fine. Talk."
 
 "It was the black dragons pulling strings behind the scenes." Jace glanced around and lowered his voice. "You know the black dragons have been causing trouble with dark magic in the kingdom? You heard about the cultists around Lake Everstill? Those guys couldn't stay in Lakeshire, so they all ran over here."
 
-"But weren't they demons?" the boss asked. "Why does everyone keep saying dragons…"
+"But weren't they demons?" the innkeeper asked. "Why does everyone keep saying dragons…"
 
 "Those dragons can take human form," Jace explained. "A lot of people don't know this. The dragons send half-dragon, half-human creatures who transform themselves into human shape and infiltrate places like this. There's no good way to tell them apart right now — only demons who can see through dark magic can spot them."
 
-At this, he lowered his voice even further, to where the boss could barely hear him: "So… you understand, right?"
+At this, he lowered his voice even further, to where the innkeeper could barely hear him: "So… you understand, right?"
 
-The boss nodded and said, "So it's true that SI:7 tried summoning demons? Those dragons are trying to ruin their reputation so they can keep working with those crazed cultists?"
+The innkeeper nodded and said, "So it's true that SI:7 tried summoning demons? Those dragons are trying to ruin their reputation so they can keep working with those crazed cultists?"
 
-Jace raised an eyebrow. "I didn't say that. The Wizard Sanctum didn't say that either. That's your own guess."
+Jace raised an eyebrow. "I didn't say that. The Wizard's Sanctum didn't say that either. That's your own guess."
 
-"Two liver pies, a plate of roasted wild dog steak, a mug of goat milk, and a mug of dwarven dark ale." The boss called toward the kitchen, then waved toward the window. "Bitli, come give me a hand at the counter."
+"Two liver pies, a plate of roasted coyote steak, a mug of goat milk, and a mug of dwarven dark ale." The innkeeper called toward the kitchen, then waved toward the window. "Bitli, come give me a hand at the counter."
 
-After the boy ran over, the boss moved aside, glanced at him, and whispered to Jace, "Chat a while longer, mage… chat about those evil dragons."
+After the boy ran over, the innkeeper moved aside, glanced at him, and whispered to Jace, "Chat a while longer, mage… chat about those evil dragons."
 
 "Black dragons," Jace corrected.

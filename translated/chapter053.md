@@ -2,7 +2,7 @@
 
 Sazeno — a little cat-sized monster — had roared out its true name like a raging beast, and the room's light had been swallowed by shadow in an instant, the windows shuddering from the force of it!
 
-Jace was spooked cold down the back of his neck and had to pick up the note with the termination incantation again.
+Jace felt a chill run down the back of his neck and had to pick up the note with the termination incantation again.
 
 After finishing, the imp panted in exhaustion. Seeing Jace pick up the note once more, it opened its mouth and stuck out its tongue, gasping and heaving for air, one hand feebly pointing at the note but unable to make a sound — the expression on its face looking like tears were about to flow.
 
@@ -18,13 +18,13 @@ Jace asked, puzzled, "Do imps even get tired? Don't you have stamina? You're a d
 
 "But your true name is too hard to remember." Jace rubbed his nose. "When you shouted it just now, the sound was so loud I couldn't make it out clearly."
 
-"The master doesn't speak demonic? How strange." Sazeno's voice was thick with helplessness. "If you don't speak demonic, how did you manage to summon me here? And if you do speak demonic, remembering a demon's true name should be simple. The master is either a fool, or lying to me."
+"The master doesn't speak Demonic? How strange." Sazeno's voice was thick with helplessness. "If you don't speak Demonic, how did you manage to summon me here? And if you do speak Demonic, remembering a demon's true name should be simple. The master is either a fool, or lying to me."
 
 Heh. A fool.
 
-Jace suddenly realized... right. Why not learn demonic from this imp? Have this imp take a look at that book written in orcish and some other unidentified language, and get it to translate for him along the way — wouldn't that work?
+Jace suddenly realized... right. Why not learn Demonic from this imp? Have this imp take a look at that book written in Orcish and some other unidentified language, and get it to translate for him along the way — wouldn't that work?
 
-Why hadn't he realized the benefits of summoning a demon until now? He felt like his brain had completely stopped turning before — how had he not thought to summon a demon to teach him demonic?
+Why hadn't he realized the benefits of summoning a demon until now? He felt like his brain had completely stopped turning before — how had he not thought to summon a demon to teach him Demonic?
 
 Actually, it wasn't that his brain had stopped turning. It was that he'd been a normal person before!
 
@@ -32,7 +32,7 @@ Thinking it over, Jace felt like he'd become several times more unhinged than he
 
 If you'd asked him a month ago to consider summoning a demon, he'd have thought he was crazy. Now, he'd turned around and thought the version of himself who hadn't considered summoning a demon was the crazy one!
 
-"Enough of this fool business. Teach me demonic," Jace said immediately. "That's your master's order."
+"Enough of this fool business. Teach me Demonic," Jace said immediately. "That's your master's order."
 
 "Everything the master says is an order... the master's order I must carry out... ah, so tired, so many orders."
 
@@ -74,7 +74,7 @@ He kicked the imp under the bed, then opened the door.
 
 "Good, good!" The old lady tottered back toward the upstairs. Jace slammed the door shut and sat on the bed, his heart pounding.
 
-He glanced under the bed — the imp had slept off completely.
+He glanced under the bed — the imp was fast asleep.
 
 Jace sat on the bed, replaying the conversation with the imp in his mind.
 
@@ -90,20 +90,12 @@ Come to think of it, its Common did have something odd about it. It didn't sound
 
 When a demon died in Azeroth, it wasn't truly annihilated — its demonic soul would be banished back to the Twisting Nether. Once it had absorbed enough shadow and fel energy, it would reshape a body and be reborn.
 
-If a demon died in the Twisting Nether, it died for real. That was why Sazeno had been so terrified of that ghost king melting it down as soul shards — because once that fate befell you, you were gone forever.
+If a demon died in the Twisting Nether, it died for real. That was why Sazeno had been so terrified of that imp king melting it down as soul shards — because once that fate befell you, you were gone forever.
 
-Could it be that a long, long ago, it had once been summoned to Azeroth, learned Common, and then died by accident and been banished back to the Twisting Nether?
+Could it be that long, long ago, it had once been summoned to Azeroth, learned Common, and then died by accident and been banished back to the Twisting Nether?
 
 He'd have to ask it properly once it woke up.
 
 When had Common first appeared in Azeroth? The age of the ancient Arathi kingdom, or even earlier?
 
-Jace realized he really didn't know much about this area of knowledge. He'd have to read more of the books at Marin's place.
-
-## Flags
-
-- **撒厄诺** → "Sazeno" (short name) and **撒扎厄尼拉兹** → "Sazanilaz" (true name): carried over from Ch. 52.
-- **圣光** → "the Holy Light": canon WoW term, but the imp's reaction ("Holy Light priests / Holy Light warriors") rendered as generic equivalents since it's an out-of-world demon's phrasing; Jace then supplies the local terms "priests and paladins."
-- **通用语** → "Common": canon WoW trade language.
-- **阿拉索** → "Arathi": glossary has 阿拉索 = Arathi (ancient human kingdom).
-- Chapter title "还是得找专业者教学" → "You Still Need a Professional to Teach You."
+Jace realized he really didn't know much about this area of knowledge. He'd have to read more of the books at Malin's place.

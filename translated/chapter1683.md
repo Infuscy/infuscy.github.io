@@ -1,8 +1,8 @@
 ## Chapter 1683: The Nathrezim's Parting Gift
 
-Vaelastrasz and Jace's group landed on the high terrace of Blackrock Spire. The gate here had already been broken open by Karrelz and countless demon guards and felhounds. Otherwise, Kadzan and the others wouldn't have reached the summit so quickly to stop Nefarian from using his portal to escape to Stormwind at the last moment.
+Vaelastrasz and Jace's group landed on the high terrace of Blackrock Spire. The gate here had already been broken open by Kallrez and countless felguards and felhounds. Otherwise, Khadgar and the others wouldn't have reached the summit so quickly to stop Nefarian from using his portal to escape to Stormwind at the last moment.
 
-Most of the demons had already been summoned back to the Twisting Nether by Karrelz, or were still skulking in Blackrock's corners, helping Alliance soldiers hunt down lingering undead.
+Most of the demons had already been summoned back to the Twisting Nether by Kallrez, or were still skulking in Blackrock's corners, helping Alliance soldiers hunt down lingering undead.
 
 The terrace was packed with Alliance leaders waiting for Jace and the others' return. Tattered blue, white, and red kingdom banners fluttered in the fierce wind atop the tower, accompanied by raised swords, spears, and shouting — an uplifting sight.
 
@@ -20,7 +20,7 @@ He gripped Jace's shoulder and murmured these words quietly. On this high terrac
 
 "You mean it?" The young king looked up. "That's not just... simple comfort?"
 
-"Kadzan once told me about the legendary Shadowlands — they might really exist," Jace said. "It's a gray world... maybe different from what most people imagine, but it's where all souls are called. The spirits that broke free from Nefarian's grip in Blackrock Spire will carry news of this victory to that realm of the dead, and tell King Llane Wrynn of your triumph."
+"Khadgar once told me about the legendary Shadowlands — they might really exist," Jace said. "It's a gray world... maybe different from what most people imagine, but it's where all souls are called. The spirits that broke free from Nefarian's grip in Blackrock Spire will carry news of this victory to that realm of the dead, and tell King Llane Wrynn of your triumph."
 
 "I don't know why, Jace." Varian lowered his head. "King Terenas and Archbishop Faol have both said similar things to me before. But when it comes from you, it sounds more convincing."
 
@@ -46,7 +46,7 @@ Turalyon looked Jace over as if still not reassured. "Alright. I've never been a
 
 "You recognize that spell?" Jace asked.
 
-"Dalton and I, and Kadzan — we all recognized it," Turalyon said. "Years ago, when we attacked Auchindoun alongside the draenei, some of Gul'dan's servants tried to cast that very spell there."
+"Danath and I, and Khadgar — we all recognized it," Turalyon said. "Years ago, when we attacked Auchindoun alongside the draenei, some of Gul'dan's servants tried to cast that very spell there."
 
 "They planned to sacrifice the souls in Auchindoun — including draenei defenders, us, even some orc souls — to summon a Burning Legion lord and stop our assault. I still remember that power to this day. Did you learn it from the orcs at Auchindoun?"
 
@@ -66,7 +66,7 @@ Turalyon breathed a small sigh of relief. Jace could easily read what was on his
 
 He was probably foreseeing that the Soul Well — witnessed by everyone — might cause ripples in the Alliance later, especially when soldiers who'd fought at Blackrock Spire returned home. If he could prove, as a leader of the Silver Hand or the Sons of Lothar, that Jace's magic had a clean origin, it would help neutralize some of the negative fallout.
 
-Everyone filed through the gate, climbing a staircase Kadzan had just magically carved into the upper levels.
+Everyone filed through the gate, climbing a staircase Khadgar had just magically carved into the upper levels.
 
 The towering circular hall where Jace had dueled Nefarian was barely recognizable. The upper half, which had once seemed to stretch to the sky, had mostly collapsed. But several stone pillars at the very top still held chains, suspending Marshal Anduin Lothar's body in the center. His remains, now stripped of shadow energy, looked ready to break apart.
 
@@ -78,32 +78,32 @@ The towering circular hall where Jace had dueled Nefarian was barely recognizabl
 
 "Have several arcanists use levitation magic to reach the top, and have the Dark Iron dwarves cut the chains to bring him down."
 
-"Then we'll need to wait for masters from the Kirin Tor and the Wizard Sanctum."
+"Then we'll need to wait for masters from the Kirin Tor and the Wizard's Sanctum."
 
 "I can go notify them, Your Majesty."
 
 Varian and the Sons of Lothar leaders discussed it heatedly. A knight captain shouted in fury, "Damn black dragon! This is how they treated Marshal Lothar!"
 
-But looking up at Lothar's shadow, recalling the attempt to drain the souls surrounding him with Usar'ru, Jace turned the Nathrezim's soul shard over in his hand and felt its power. He was increasingly convinced this was more the dreadlord's handiwork than the black dragon's idea.
+But looking up at Lothar's shadow, recalling the attempt to drain the souls surrounding him with Ulthalesh, Jace turned the Nathrezim's soul shard over in his hand and felt its power. He was increasingly convinced this was more the dreadlord's handiwork than the black dragon's idea.
 
 Just then, a demonic shadow with folded wings emerged from the stairwell, flew past the soldiers, and came to their side.
 
 She walked through several Stormwind guards, ignoring their fearful, wary stares, and came to Jace.
 
-For a succubus, Morofil's expression was unusually serious.
+For a succubus, Morophil's expression was unusually serious.
 
-"What is it, Morofil?" Even Vereesa found it strange.
+"What is it, Morophil?" Even Vereesa found it strange.
 
-"I didn't catch the Nathrezim. He's probably already gone," Morofil said.
+"I didn't catch the Nathrezim. He's probably already gone," Morophil said.
 
 "That demon lured you away so this one could act." Vereesa pointed at the soul shard in Jace's hand. "One Nathrezim nearly took control of Vaelastrasz."
 
-"I don't think it's just that, Quel'dorei." Morofil glanced at the soul shard. "If I were you, master, I'd immediately advise your king to get every mortal out of this tower as soon as possible."
+"I don't think it's just that, Quel'dorei." Morophil glanced at the soul shard. "If I were you, master, I'd immediately advise your king to get every mortal out of this tower as soon as possible."
 
 "Why?" Jace asked.
 
-"Your Majesty! Commanders!" A gryphon rider suddenly flew in through a crack in the outer wall. His shout cut off Morofil.
+"Your Majesty! Commanders!" A gryphon rider suddenly flew in through a crack in the outer wall. His shout cut off Morophil.
 
-"Holdmar City — down below... several soldiers moving bodies have fallen ill. The priests have confirmed it's a highly contagious necrotic plague... We've run out of restorative potions!"
+"Hordemar City — down below... several soldiers moving bodies have fallen ill. The priests have confirmed it's a highly contagious necrotic plague... We've run out of restorative potions!"
 
-"Sounds like it's already too late," Morofil said grimly.
+"Sounds like it's already too late," Morophil said grimly.

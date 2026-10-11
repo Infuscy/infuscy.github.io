@@ -22,7 +22,7 @@ Jace said, "I heard about something — those war refugees in Booty Bay. Do you 
 
 Jace said, "The war is over now. Right now they're being looked after by just one priest, and life is very hard."
 
-"A priest?" Ellerian sighed. "Look at the situation of the refugees outside the city walls, my Mr. Sesso. Do you think their lives are any better than those people in Booty Bay? At least those people have a priest."
+"A priest?" Ellerian sighed. "Look at the situation of the refugees outside the city walls, my dear Mr. Sesso. Do you think their lives are any better than those people in Booty Bay? At least those people have a priest."
 
 "Of course the king wants to bring back all his subjects who wandered because of the war, but for now… since they still have a way to get by where they are, coming back wouldn't necessarily mean a better situation."
 
@@ -42,13 +42,13 @@ Jace nodded and watched the man hurry into the palace gates.
 
 It was nearly past noon, and he was getting hungry.
 
-He followed the walls of Stormwind Keep all the way to the Old Town gate, threaded through the crowded streets, and came to the Pig and Whistle Inn.
+He followed the walls of Stormwind Keep all the way to the Old Town gate, threaded through the crowded streets, and came to the Pig and Whistle Tavern.
 
 He stared at the sign hanging there for a while, then suddenly noticed a familiar shadow sitting beneath it.
 
 "Hey, Grede!"
 
-"Huh?!" The dwarf looked up with a bread in his hand. Seeing Jace, his whole face kneaded itself into a ball that was impossible to read as angry or happy.
+"Huh?!" The dwarf looked up with a hunk of bread in his hand. Seeing Jace, his whole face scrunched up so that it was impossible to tell whether he was angry or happy.
 
 "You… where the hell have you been? I couldn't find you anywhere!"
 
@@ -78,7 +78,7 @@ The dwarf raised an eyebrow. "Tell me about Booty Bay. What were you doing there
 
 "Looking for a medicine," Jace confessed. "Teron Gorefiend left me a curse that wasn't easy to deal with. I searched everywhere and only heard that the goblins in Booty Bay sold a medicine from Kalimdor that could solve my problem."
 
-Hearing "antidote," Grede's grin of waiting for a good show immediately deflated.
+At the word "curse," Grede's grin — that of a man settling in for a good story — vanished at once.
 
 "Damn it, what curse? Then did you solve it? Did the medicine work?"
 
@@ -102,11 +102,11 @@ Grede said quietly, "My trip was probably a lot more boring than yours, Jace."
 
 "From 'feel the bond of blood' onward," Jace said. "How do you feel it? What do you feel… I'm hearing it and getting confused, let alone the part about fighting like an earthen ancestor afterward. You mean — turn directly into an earthen? Or temporarily become an earthen? At that point are you still counted as a dwarf?"
 
-"You're not a dwarf, it's hard to explain to you…" Grede sighed. "All right, I admit I don't understand either. The dwarves of Ironforge don't seem to understand either. But I've done my best to find everyone in Dun Morogh who knows about this — I just short of going straight to King Magni."
+"You're not a dwarf, it's hard to explain to you…" Grede sighed. "All right, I admit I don't understand either. The dwarves of Ironforge don't seem to understand either. But I've done my best to find everyone in Dun Morogh who knows about this — I did everything short of going straight to King Magni."
 
 "In any case, all the Mountain Kings went through this stage, didn't they?" Jace asked. "They all went to some temple to find this bond of blood?"
 
-"There's a temple ruin near Menethil Harbor, and a few more in Dun Morogh and Loch Modan. The dwarves in Ironforge say those ruins were buried with ancient power when they were first excavated. But they've been dug out by now — the ruins, the holy relics inside… they've pretty much been found. Those Bronzebeard dwarves who want to find the power of the Incarnation all say they can't feel any so-called ancestral bond in those ruins at all. I actually went to the Iron Ring Excavation Site in Loch Modan and stayed a few days. Honestly, I didn't feel anything."
+"There's a temple ruin near Menethil Harbor, and a few more in Dun Morogh and Loch Modan. The dwarves in Ironforge say those ruins were buried with ancient power when they were first excavated. But they've been dug out by now — the ruins, the holy relics inside… they've pretty much been found. Those Bronzebeard dwarves who want to find the power of Avatar all say they can't feel any so-called ancestral bond in those ruins at all. I actually went to Ironband's Excavation Site in Loch Modan and stayed a few days. Honestly, I didn't feel anything."
 
 "Did the Mountain Kings of the past all train in these ruins?"
 
@@ -126,7 +126,7 @@ In short, for him and Grede right now, going to those places was pure fantasy.
 
 Wait — what about Uldaman?
 
-Uldaman was also a titan temple, just a lot smaller in scale than Ulduar and Uldum. In the game it was a five-person dungeon that wasn't even high-level. The temple ruins were located in the Badlands — that desert he and Sylvanas had planned to go to but never quite made it to.
+Uldaman was also a titan temple, just a lot smaller in scale than Ulduar and Uldum. In the game it was a five-person dungeon that wasn't even high-level. The temple ruins were located in the Badlands — that desert he and Vereesa had planned to go to but never quite made it to.
 
 Just now while talking to Grede, Jace had been carried along by the game's conventions and assumed Uldaman should have been excavated already. But considering this was still more than ten years before the game's timeline, there was a chance it was still a buried place?
 
@@ -143,41 +143,3 @@ Then wasn't this an undiscovered temple?
 "I…" Grede pursed his lips. "Of course I don't know. Those Bronzebeard dwarves don't seem to know either."
 
 "Don't you want to go take a look, Grede?" Jace said. "Compared to temples that haven't been found yet — this one's right on our doorstep!"
-
-## Flags
-
-- **暴风要塞** → "Stormwind Keep": royal palace; glossary.
-- **蒂芬王后** → "Queen Tiffin": canonical queen of Stormwind (Tiffin Wrynn/Ellerian); not in glossary.
-- **葛雷·艾利安** → "Grey Ellerian": baron linked to Tiffin Ellerian; glossary.
-- **藏宝海湾** → "Booty Bay": canonical port; glossary.
-- **月溪镇** → "Moonbrook": town in Westfall; glossary.
-- **哨兵岭** → "Sentinel Hill": town in Westfall; glossary.
-- **旧城区** → "Old Town": eastern Stormwind; glossary.
-- **猪和哨声旅店** → "the Pig and Whistle Inn": tavern in Old Town; glossary.
-- **铜须国王** → "the Bronzebeard king": King Magni Bronzebeard; glossary (Bronzebeard clan).
-- **塔隆·血魔** → "Teron Gorefiend": canonical first death knight; glossary.
-- **达拉然** → "Dalaran": floating mage city; glossary.
-- **风行者** → "Windrunner": the Windrunner family; glossary (Alleria Windrunner).
-- **铁炉堡** → "Ironforge": dwarven capital; not in glossary (canonical).
-- **格瑞德** → "Grede": dwarf companion, Wildhammer clan; glossary.
-- **天神下凡** → "the Avatar": not in glossary; the dwarven ancestral power (Stone Form/Incarnation), rendered as "Avatar" per Jace's internal game-frame reference.
-- **山丘之王** → "Mountain Kings": not in glossary; dwarven lords/warlords, rendered descriptively.
-- **土灵** → "the earthen": ancient dwarven ancestors/race; glossary.
-- **米奈希尔港** → "Menethil Harbor": canonical port; glossary.
-- **丹莫罗** → "Dun Morogh": dwarven region; glossary (canonical, distinct from Loch Modan).
-- **洛克莫丹** → "Loch Modan": dwarven region; glossary.
-- **麦格尼国王** → "King Magni": canonical King Magni Bronzebeard; not in glossary.
-- **铁环挖掘场** → "the Iron Ring Excavation Site": not in glossary; Uldaman-adjacent dig site, rendered descriptively.
-- **化身之力** → "the power of the Incarnation": not in glossary; synonymous with the Avatar/ancestral power, rendered descriptively.
-- **奥杜尔** → "Ulduar": canonical titan temple in Northrend; not in glossary.
-- **奥丹姆** → "Uldum": canonical titan temple in Kalimdor; not in glossary.
-- **泰坦** → "titans": canonical creator race; not in glossary.
-- **泰坦守护者** → "titan keepers": not in glossary; rendered descriptively.
-- **古神** → "Old Gods": canonical cosmic entities; not in glossary.
-- **奥达曼** → "Uldaman": canonical titan temple/dungeon in the Badlands; not in glossary.
-- **荒芜之地** → "the Badlands": canonical zone; not in glossary (distinct from 湿地/the Wetlands).
-- **黑铁矮人** → "Dark Iron dwarves": canonical dwarven clan; glossary (Dark Iron).
-- **卡利姆多** → "Kalimdor": canonical continent; not in glossary.
-- **诺森德** → "Northrend": canonical continent; not in glossary.
-- **温蕾萨** → "Sylvanas": the Windrunner sister (canonical Sylvanas Windrunner); glossary context.
-- **面包** → "bread": not in glossary; straightforward.

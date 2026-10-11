@@ -42,7 +42,7 @@ They had exchanged positions. The king's expression was dead serious. He loosene
 
 The Blackhand Legion soldiers beat their shields and roared, making the scene even more savage and dark. Several groups of dwarves had just arrived through different passages, confused about why the orcs and Alliance were all staring down at the arena. When they saw the King of Stormwind and the Blackhand Chieftain squaring off, they fell silent too.
 
-"Gouge out that other eye, Varian Wrynn!" A Dark Iron dwarf's shriek cut through the orcish roars. Soon, large numbers of Dark Iron dwarves joined in with creative cursing. If one understood Dwarven, it would have been high-grade psychic damage.
+"Gouge out that other eye, Varian Wrynn!" A Dark Iron dwarf's shriek cut through the orcish roars. Soon, large numbers of Dark Iron dwarves joined in with creative cursing. If one understood Dwarvish, it would have been high-grade psychic damage.
 
 Khadgar sighed, watching the dwarves. Suddenly, boots stomped below. Wrynn leaped at Blackhand. The orc twisted with agility unbelievable for his size, dodging the attack, and whipped his war blade back. But the king's sword caught it with a harsh metallic screech.
 

@@ -28,7 +28,7 @@ She hurried inside and carried the girl into another room. When she came back ou
 
 He looked around. His pole and his bag were both on the cabinet under the window, and only then did he finally relax.
 
-"Where's the dwarf?" Jace asked. "How's his injuries?"
+"Where's the dwarf?" Jace asked. "How are his injuries?"
 
 The woman said, "The dwarf gentleman has some minor bite wounds on his leg. He's very strong — he should recover in a few days."
 
@@ -44,7 +44,7 @@ He still had unfinished business before he left — that scroll, the one written
 
 "Hail me a carriage, Mrs. Forayre," Jace said. "As fast as you can. I need to get back to Stormwind right away. You can pay the dwarf my share — I've got urgent business."
 
-"Are you sure that's all right?" Forayre said, worried. "And we haven't even had a chance to thank you properly. Matt rounded up some hands from the neighboring farms this morning and found some wolf carcasses. He's prepared a wolf-meat meal, and they're in the skins now… Several of the pelts are still intact. They could be sold for a bit of money, or made into winter clothes. All of it's for you, as thanks."
+"Are you sure that's all right?" Forayre said, worried. "And we haven't even had a chance to thank you properly. Matt rounded up some hands from the neighboring farms this morning and found some wolf carcasses. He's prepared a wolf-meat meal, and they're working on the skins now… Several of the pelts are still intact. They could be sold for a bit of money, or made into winter clothes. All of it's for you, as thanks."
 
 Hearing there was wolf meat to eat, Jace's stomach growled. He swallowed involuntarily, embarrassed.
 
@@ -56,7 +56,7 @@ He let his head drop back and sighed. "I want fruit. Do you have any fruit? Anyt
 
 "We have grapes from Northshire Abbey. I don't know if you…"
 
-Jace plucked a grape from the tray and popped it in his mouth. Damn, it was sour enough to make his teeth ache — but there was a faint trace of sweetness in there too, and even a hint of wine. Probably sitting a while.
+Jace plucked a grape from the tray and popped it in his mouth. Damn, it was sour enough to make his teeth ache — but there was a faint trace of sweetness in there too, and even a hint of wine. They'd probably been sitting a while.
 
 But that sour, juicy hit was something he hadn't felt in a long time. One bite and he felt a surge of energy. Grapes were wonderful.
 
@@ -90,9 +90,9 @@ At least he didn't have to think about his parents' maddening, unsolvable proble
 
 This brought his mind back to last night — the wolves that had surrounded him and Grede, and the Fear spell he'd managed to cast.
 
-He wasn't even sure it was Fear anymore… Because by the game's rules, Fear was only supposed to target one person. Besides, when Jin had cast it on the street in Old Town, it hadn't scared Sulenna Kel'don half as badly.
+He wasn't even sure it was Fear anymore… Because by the game's rules, Fear was only supposed to target one person. Besides, when Gakin had cast it on the street in Old Town, it hadn't scared Surena Caledon half as badly.
 
-And the Fear Jace had cast in return hadn't affected Sulenna as a bystander either.
+And the Fear Jace had cast in return hadn't affected Surena as a bystander either.
 
 So then what was this?
 
@@ -110,13 +110,4 @@ And besides, an ordinary orc warlock couldn't possibly own a legendary artifact 
 
 Come to think of it, he still hadn't looked deeply into how exactly staves influenced magical power in this world.
 
-"Jace." Grede, who knew when, had appeared and was standing in the doorway of the other room, watching him. "I just thought of a brilliant idea."
-
-## Flags
-
-- **福莱尔 (Forayre):** The farm family's surname. Rendered as "Forayre." Mother is Emily Forayre; father is Matt (马特); the baby is Rose (萝丝). Not in glossary — flagged.
-- **北郡修道院 (Northshire Abbey):** Glossary has 北艾尔文 as "Northshire." Rendered as "Northshire Abbey" (the canonical Church of the Light abbey in Northshire).
-- **"Jin" (加金):** The text says 加金 cast Fear on the street in Old Town. This appears to be a proper name (a warlock). Rendered as "Jin" — not in glossary, flagged.
-- **苏伦娜·凯尔东 (Sulenna Kel'don):** Glossary has 苏伦娜 as "Sulenna" (warlock who teaches Jace shadow magic). "凯尔东" (Kel'don) appears to be her surname — not in glossary, flagged.
-- **兽人语卷轴 / 兽人术士的法杖:** The Orcish scroll and the orc warlock's staff Jace looted — ongoing plot items. Kept consistent with earlier references.
-- **"manual labor hauling bricks":** Jace's euphemism for what he tells his parents he does. Kept the self-deprecating tone.
+"Jace." Grede had appeared at some point and was standing in the doorway of the other room, watching him. "I just thought of a brilliant idea."

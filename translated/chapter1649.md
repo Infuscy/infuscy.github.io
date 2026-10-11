@@ -10,9 +10,9 @@ But Blackrock Spire was nothing like that. The mountain itself supported the tow
 
 "If I could, I'd turn you into orcs too. It'd make moving around Blackrock Spire much easier." Vaelastrasz jumped onto a broken step. "But turning into an orc would not help much. There's still the risk of sudden exposure. Better to sneak in quietly. The place we're going, even orcs can't enter."
 
-"The Alliance army and the demons Jace summoned have the Horde forces below in chaos. They're preparing for a life-or-death battle. No one's going to look up. Just follow me. Your Lady Morofil is scouting ahead. There won't be any enemy patrols on this path."
+"The Alliance army and the demons Jace summoned have the Horde forces below in chaos. They're preparing for a life-or-death battle. No one's going to look up. Just follow me. Your Lady Morophil is scouting ahead. There won't be any enemy patrols on this path."
 
-At "Your Lady Morofil," Vereesa shot a displeased sideways glance at Jace. Jace swallowed. "How do we free the whelps?"
+At "Your Lady Morophil," Vereesa shot a displeased sideways glance at Jace. Jace swallowed. "How do we free the whelps?"
 
 Vaelastrasz turned back. "I originally thought Nefarian and Onyxia were gathering whelps and young dragons from all over the world to experiment on their blood for chromatic dragons. They built a device long ago with the goblins' help that periodically releases toxic fumes to suppress the whelps' will to resist."
 
@@ -50,7 +50,7 @@ Since Jace's arrival had pushed the assault on Blackrock Spire years ahead, they
 
 "What is Hordemar?" Vereesa asked.
 
-"The Horde's garrison." Vaelastrasz explained. "Right beneath our feet. The orcs named their camp with some orcish word, and I've gotten used to calling it that. The corrupted egg is guarded by the dragonkin commander, Vim'salak. Taking him down won't be a problem — he's a strong and skilled warrior, but no match for the lot of you. The hard part is getting into that heavily guarded place without being noticed. Even orcs aren't allowed near it."
+"The Horde's garrison." Vaelastrasz explained. "Right beneath our feet. The orcs named their camp with some Orcish word, and I've gotten used to calling it that. The corrupted egg is guarded by the dragonkin commander, Wyrmthalak. Taking him down won't be a problem — he's a strong and skilled warrior, but no match for the lot of you. The hard part is getting into that heavily guarded place without being noticed. Even orcs aren't allowed near it."
 
 "I'm worried that if they realize we're going to destroy that artifact, they'll move it somewhere else immediately. Let alone the fact it can command those whelps — when I saw it, I felt like I was back in the highland brood nest. So we need to destroy it quickly. Once it's gone, the imprisoned dragons of other colors inside Blackrock Spire won't just stop blocking the Alliance — they'll help us fight the Horde and the black dragons."
 
@@ -64,7 +64,7 @@ Vaelastrasz blinked. "What?"
 
 "Red Dragon... Cannon," Jace replied.
 
-Needleflance gestured vaguely. "You stuff a fireball into its butt and it shoots out of its mouth. It's impressive."
+Needleflame gestured vaguely. "You stuff a fireball into its butt and it shoots out of its mouth. It's impressive."
 
 Vaelastrasz frowned and opened his mouth, but before he could ask anything or offer an opinion, Vereesa quickly waved her hand. "It just looks vaguely like that. Not as specific as she described, Vaelastrasz."
 
@@ -78,7 +78,7 @@ The red dragon gave the young black dragon a skeptical look, then sighed. "Enoug
 
 "Where is this shadow egg?" Vereesa asked.
 
-Vaelastrasz pointed toward a pile of collapsed rubble to the southeast. "Over there. Molten Core's collapse made a mess of the place, but it didn't destroy Vim'salak's territory. You'll see when we get there."
+Vaelastrasz pointed toward a pile of collapsed rubble to the southeast. "Over there. Molten Core's collapse made a mess of the place, but it didn't destroy Wyrmthalak's territory. You'll see when we get there."
 
 Everyone nodded and continued along the wall. Jace followed the red dragon and asked, "Did you find out where Anduin Lothar's body is?"
 
@@ -86,7 +86,7 @@ Everyone nodded and continued along the wall. Jace followed the red dragon and a
 
 "They were taken to the upper Spire?" Jace said. "I can't be a hundred percent sure. Didn't you check?"
 
-"Nefarian knows you're attacking Blackrock Spire." Vaelastrasz said. "He's sealed the entire top of the Spire with his dragon claw seal — what they call Blackwing Hall — to protect his precious eggs and chromatic dragon research, slowing the Alliance's advance."
+"Nefarian knows you're attacking Blackrock Spire." Vaelastrasz said. "He's sealed the entire top of the Spire with his dragon claw seal — what they call Blackwing Lair — to protect his precious eggs and chromatic dragon research, slowing the Alliance's advance."
 
 "I wanted to risk staying inside longer to investigate the necrotic and shadow magic. But I knew I couldn't break his dragon claw seal. Staying inside would be suicide. Nefarian would see through me sooner or later. So I slipped out early. At least I got the information about the shadow egg."
 

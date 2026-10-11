@@ -52,9 +52,11 @@ But judging by the scale of these so-called practice matches, even though this k
 
 After all, all kinds of passersby — anyone who wasn't so poor they couldn't afford a meal — were willing to find an opportunity to come in and take a look, just to see some orcs and broaden their horizons.
 
-To put it unkindly, this place was like the one and only zoo on the entire Lordaeron continent. It wasn't until midnight that Grede, who'd shouted himself hoarse, finally had his fill, and the gloom that had been building in him ever since they'd left Alterac City finally dissipated.
+To put it unkindly, this place was like the one and only zoo on the entire Lordaeron continent.
 
-Ever since the snow mountains, Jace had suspected he was feeling that "the closer you get to home, the more nervous you get" kind of emotion.
+It wasn't until midnight that Grede, who'd shouted himself hoarse, finally had his fill, and the gloom that had been building in him ever since they'd left Alterac City finally dissipated.
+
+Ever since the snowy mountains, Jace had suspected he was feeling that "the closer you get to home, the more nervous you get" kind of emotion.
 
 Seeing that Grede had found a way to let some of that melancholy out, Jace felt relieved too.
 
@@ -74,36 +76,20 @@ Jace fixed his gaze on the stretch between those mountains and the rivers spread
 
 "Are there trolls in this forest?"
 
-"We have the Trollbanes to thank for that — this isn't troll territory," Grede said. "But just in case, we can't afford to let our guard down." Jace looked into the distance again and roughly estimated the distance. At first glance it didn't look far, but if the going through the forest didn't go smoothly, it might take three days to get there.
+"We have the Trollbanes to thank for that — this isn't troll territory," Grede said. "But just in case, we can't afford to let our guard down."
+
+Jace looked into the distance again and roughly estimated the distance. At first glance it didn't look far, but if the going through the forest didn't go smoothly, it might take three days to get there.
 
 "Our time's a little tight, Grede. Think about it — today's already the twentieth. Even if we reach Aerie Peak the day after tomorrow without a hitch, stay two or three days, and then head straight for Southshore, we'd barely make it by January fifth… Honestly, I'm not even sure that's enough. Maybe on the way back we should rent a couple of horses at Tarren Mill to pick up the pace — otherwise if we miss the ship, it'll cost a good deal more to find another one."
 
 Grede said, "No need to stay two or three days. I just need to show up at one dinner and let them know Grede Thunderfist isn't dead yet. And I need to bring that gryphon rider's war hammer back and give it to his family, his brothers, or his comrades — to tell them I did my part to avenge him."
 
-Jace nodded and said, "But don't forget Quel'Dani."
+Jace nodded and said, "But don't forget Quel'Danil."
 
-"Ah, right, Quel'Dani." Grede scratched his head. "Quel'Dani is north of Aerie Peak, but our city is on the south side of the mountain — which means we'd have to go around the mountain. That's another day and a half. You're right, Jace. I hadn't factored Quel'Dani into the plan, and we spent a bit too much time in Dalaran too."
+"Ah, right, Quel'Danil." Grede scratched his head. "Quel'Danil is north of Aerie Peak, but our city is on the south side of the mountain — which means we'd have to go around the mountain. That's another day and a half. You're right, Jace. I hadn't factored Quel'Danil into the plan, and we spent a bit too much time in Dalaran too."
 
 "Then why'd you take a job that runs all the way through the evening of the thirteenth?" Jace asked.
 
-"Don't bring that up!" Grede waved a hand. "I hit it off pretty well with that employer. But if it turns out Quel'Dani can actually fix my problem, Jace, there'd be a much faster way back to Southshore. Remember what I promised you when I asked you to come to the Hinterlands?"
+"Don't bring that up!" Grede waved a hand. "I hit it off pretty well with that employer. But if it turns out Quel'Danil can actually fix my problem, Jace, there'd be a much faster way back to Southshore. Remember what I promised you when I asked you to come to the Hinterlands?"
 
 Jace's eyes gradually lit up. "Of course I remember."
-
-## Flags
-
-- 萨尔 → Thrall (canonical WoW; not in glossary).
-- 布莱克摩尔 → Blackmoore (canonical WoW; not in glossary).
-- 霜狼酋长 → Frostwolf chieftain (canonical WoW — Durotan; not in glossary).
-- 托尔贝恩 → Trollbane (the Trollbane dynasty of Stromgarde; not in glossary).
-- 鹰巢山 → Aerie Peak (glossary confirms Wildhammer clan; Aerie Peak is canonical WoW).
-- 辛特兰 → the Hinterlands (glossary confirms).
-- 奎尔丹尼 → Quel'Dani (tentative; a Thalassian place-name north of Aerie Peak — not in glossary, possibly Quel'Daniel or similar).
-- 雷拳 → Thunderfist (glossary confirms as Grede's family name).
-- 狮鹫骑士 → gryphon rider (not in glossary; "骑士" here refers to a Wildhammer gryphon rider, not a human Paladin).
-- 塔伦米尔 → Tarren Mill (canonical WoW; not in glossary).
-- 南海镇 → Southshore (canonical WoW; not in glossary).
-- 达拉然 → Dalaran (glossary confirms).
-- 赤脊山 → Redridge (glossary confirms).
-- 近乡情更怯 → "the closer you get to home, the more nervous you get" (chengyu: 近乡情更怯, from Song Zhiwen).
-- 米奈希尔 → Menethil (glossary confirms Arthas Menethil; the royal house of Lordaeron).

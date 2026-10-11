@@ -18,15 +18,15 @@
 
 "This is why Bronzebeards will never make the best bread, cure the best sausages, or raise the greatest warriors — because 'good enough' is good enough for you! What a waste of a fine place like Dun Morogh."
 
-"So what exactly did you say last night, Vereesa Windrunner?" Needlefang asked.
+"So what exactly did you say last night, Vereesa Windrunner?" Needleflame asked.
 
 Vereesa walked through the passage, glanced at the still-arguing dwarves, and said, "I don't remember either."
 
-"What about you, Jace Sesso? Don't you remember?" Needlefang turned around. "If even you don't remember, how could I?" Jace said.
+"What about you, Jace Sesso? Don't you remember?" Needleflame turned around. "If even you don't remember, how could I?" Jace said.
 
-"I..." Needlefang tilted her head. "What can I say? High Thane Kurdran's recommended 'Wildhammer Hall Reserve' really was fragrant and sweet! I was having a great time drinking with him!"
+"I..." Needleflame tilted her head. "What can I say? High Thane Kurdran's recommended 'Wildhammer Hall Reserve' really was fragrant and sweet! I was having a great time drinking with him!"
 
-"And Sister Sora?"
+"And Sister Sola?"
 
 "She was with the Red Dragonqueen the whole time. You don't even remember that?" Jace said.
 
@@ -34,7 +34,7 @@ Vereesa walked through the passage, glanced at the still-arguing dwarves, and sa
 
 Grede looked back blankly. "What?"
 
-"With that expression, you don't know anything either." Needlefang scratched her neck. "I really want to know the actual result of the contest! Did everyone just black out?"
+"With that expression, you don't know anything either." Needleflame scratched her neck. "I really want to know the actual result of the contest! Did everyone just black out?"
 
 For once, Grede didn't argue about being called blackout drunk. In fact, ever since they'd entered the depths of Grim Batol and walked this far, he hadn't joined the discussion about which clan's beer was better. He'd been quiet the whole way, his face tense — just like at the end of last night's Brewfest.
 
@@ -42,27 +42,27 @@ He'd drunk whatever beer was put in front of him, regardless of clan, until he c
 
 Yeah. For a warrior about to pick up the Sulfuron Hammer, you couldn't be too nervous. Especially when you thought about how many dwarves' fates this hammer would change — Shadowforge City, Aerie Peak, Ironforge...
 
-"By the time I 'got back to the Brewfest,' most people were already passed out," Sora said, looking at Needlefang. "But clearly, those who were still awake now want very badly to prove they were unconscious too. They didn't hear a word of Vereesa's judgment."
+"By the time I 'got back to the Brewfest,' most people were already passed out," Sola said, looking at Needleflame. "But clearly, those who were still awake now want very badly to prove they were unconscious too. They didn't hear a word of Vereesa's judgment."
 
 "I think that's the beauty of Brewfest," Amy said. "I heard a goblin saying in Dalaran — what happens in Booty Bay stays in Booty Bay. I think the same applies to dwarven Brewfest."
 
-"Surely you remember what happened, Mor'fel?" Jace looked at the succubus walking casually ahead.
+"Surely you remember what happened, Morophil?" Jace looked at the succubus walking casually ahead.
 
 The succubus smiled and said nothing. Sazeno excitedly poked his head out of the bag. "Let me tell you, master!"
 
 Vereesa seemed to hear the imp's noise and turned around. The moment Sazeno's eyes met the elf's, he shrank back and slid into the bag.
 
-Mor'fel asked quietly, "Is this an order, master?"
+Morophil asked quietly, "Is this an order, master?"
 
 "If I need to order you to say it..." Jace thought for a moment. "Then forget it."
 
 The goal had already been achieved anyway. Once you drag an elf into a dwarven dispute, the conflict resolves itself. The dwarves up ahead were still arguing, but they'd finally landed on the topic that elves don't know anything about beer, and had more or less reached a consensus on that. The atmosphere was much more harmonious.
 
-But Needlefang seemed unwilling to let it go. She looked like she might keep arguing with Vereesa about which was better. Jace, however, was more interested in what Grede was thinking.
+But Needleflame seemed unwilling to let it go. She looked like she might keep arguing with Vereesa about which was better. Jace, however, was more interested in what Grede was thinking.
 
 "Are you ready now, Grede?"
 
-"I'm ready," Grede muttered. "Or rather, I think I can accept it now. I used to wonder if you and Magni Bronzebeard and Lokhtos had all conspired to rope me into this. You knew I've always wanted a powerful weapon, and you knew I felt awkward about holding onto Kador Wildhammer's hammer forever... But after everything we've been through to get here, I've realized something. I want to accept this too. I've always wanted to be a true Mountain King."
+"I'm ready," Grede muttered. "Or rather, I think I can accept it now. I used to wonder if you and Magni Bronzebeard and Lokhtos had all conspired to rope me into this. You knew I've always wanted a powerful weapon, and you knew I felt awkward about holding onto Khardros Wildhammer's hammer forever... But after everything we've been through to get here, I've realized something. I want to accept this too. I've always wanted to be a true Mountain King."
 
 "Maybe the Sulfuron Hammer chose you, Grede," Jace said. "Or rather, fate arranged for the Sulfuron Hammer to find you."
 
@@ -78,19 +78,19 @@ But Needlefang seemed unwilling to let it go. She looked like she might keep arg
 
 He swallowed, as if not quite so confident in that answer.
 
-The air grew imperceptibly hotter. The dwarves walking ahead fell quiet. Amy, Vereesa, and Sora lowered their voices too. Only Needlefang was still chattering away, asking questions of an adult red dragon disguised as a high elf.
+The air grew imperceptibly hotter. The dwarves walking ahead fell quiet. Amy, Vereesa, and Sola lowered their voices too. Only Needleflame was still chattering away, asking questions of an adult red dragon disguised as a high elf.
 
-Jace remembered this path. The Anvil of Kador was close.
+Jace remembered this path. The Anvil of Khardros was close.
 
-They passed through a doorway carved with Wildhammer runes. The grand lava cavern, scorched by Deathwing's dragonfire, came into view. Even Needlefang fell silent — not because of the searing heat, but because of the aura.
+They passed through a doorway carved with Wildhammer runes. The grand lava cavern, scorched by Deathwing's dragonfire, came into view. Even Needleflame fell silent — not because of the searing heat, but because of the aura.
 
 Though the shadow corruption inside and around Grim Batol had been cleansed by the red dragons, in this Obsidian Hall the fiery legacy of their ancestors could not be fully erased.
 
-The Anvil of Kador still stood quietly in place. But what drew everyone's eyes now wasn't the black beast coiled in the corner, but the blazing mass of fire at the center of the hall, perched at the edge of the cliff, turning the whole chamber red.
+The Anvil of Khardros still stood quietly in place. But what drew everyone's eyes now wasn't the black beast coiled in the corner, but the blazing mass of fire at the center of the hall, perched at the edge of the cliff, turning the whole chamber red.
 
-"Kaz's beard," Brann murmured involuntarily.
+"Khaz'goroth's beard," Brann murmured involuntarily.
 
-Like him, the Bronzebeards and Wildhammers held their breath, staring at that flame. The Thorium Brotherhood's Dark Iron smiths were mostly familiar with the thing, but even so, the great smith Baurnight, who had forged it with his own hands, couldn't tear his eyes away.
+Like him, the Bronzebeards and Wildhammers held their breath, staring at that flame. The Thorium Brotherhood's Dark Iron smiths were mostly familiar with the thing, but even so, the master smith Burninate, who had forged it with his own hands, couldn't tear his eyes away.
 
 That was the Sulfuron Hammer, without a doubt. Jace could almost hear the flames cheering excitedly around it. The sound was so intense he wondered why no one else seemed to hear it.
 
@@ -98,8 +98,8 @@ In the game, the Sulfuron Hammer was just a "base" item. Though powerful, the ha
 
 But here, even the Sulfuron Hammer alone was dazzling enough. Or was it not yet truly complete? Did it still need one more "quenching"?
 
-The great smith turned his head. Brann Bronzebeard and the other Bronzebeard dwarves all looked toward him.
+The master smith turned his head. Brann Bronzebeard and the other Bronzebeard dwarves all looked toward him.
 
-"Pick it up, Grede Thunderfist, Thane." Baurnight's Dwarvish rang clear even against the rumbling of the magma chasm, as if the voice itself was one with the lava.
+"Pick it up, Grede Thunderfist, Thane." Burninate's Dwarvish rang clear even against the rumbling of the magma chasm, as if the voice itself was one with the lava.
 
 "According to Thorium Brotherhood legend, this is the last step in forging the Sulfuron Hammer — and the first step in defying the Firelord."

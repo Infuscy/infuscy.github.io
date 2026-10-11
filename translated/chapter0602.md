@@ -16,13 +16,13 @@ She looked at Jace and continued, "But Mosa is kinder and braver than the vast m
 
 "Are you complimenting yourself?" Vereesa raised an eyebrow.
 
-Jace smiled. "So you admit we're real friends now, instead of a kept mercenary and a greedy sellsword's business arrangement?"
+Jace smiled. "So you admit we're real friends now, instead of an employer and a greedy sellsword in a business arrangement?"
 
 Vereesa's lips moved to reply, but she noticed the silent Morophil beside her and couldn't quite get the words out. Just then, the stench of demon corpses drifted over from ahead.
 
 Jace looked over. Without realizing it, they'd already walked back to the hall where they'd fought Reyhidian.
 
-Shadowflames burned everywhere. Arcane energy floated freely, casting the whole hall in an eerie purple-blue light. The withered corpse of the Eredun doomguard still lay sprawled there.
+Shadowflames burned everywhere. Arcane energy floated freely, casting the whole hall in an eerie purple-blue light. The withered corpse of the Ered'ruin doomguard still lay sprawled there.
 
 Seeing the corpse, Jace felt a wave of nausea. He drew a hard breath and leaned against the wall to ease the pain. "What's wrong?" Vereesa asked.
 
@@ -38,11 +38,11 @@ Vereesa frowned and glanced at the corpse. "Why would an elf's corpse give off a
 
 "If she's a real demon, why didn't you recognize her at first?" Jace asked.
 
-The words had barely left his mouth before he realized he'd used Detect Demons and hadn't picked up any demonic presence from her at all.
+The words had barely left his mouth before he realized he'd used Sense Demons and hadn't picked up any demonic presence from her at all.
 
 Morophil said helplessly, "She's an extraordinarily powerful fel mage, master. It was a perfect mortal disguise. I have no idea how much effort she put in to hide every tell — your summoned felhound tore through it with ease."
 
-Jace glanced at Dazhalmu's corpse. "If she'd been willing to tap the magic tower's mana while in elf form, she wouldn't have made herself that weak... maybe we wouldn't have had the strength to fight back at the start."
+Jace glanced at Dazarm's corpse. "If she'd been willing to tap the magic tower's mana while in elf form, she wouldn't have made herself that weak... maybe we wouldn't have had the strength to fight back at the start."
 
 "She still wanted to use the magic tower's mana to summon other demons," Vereesa said, running her hand along a crack in the pillar blown out by Shadow Bolts. "Jace, how did you think of destroying the magic tower to cut off her power source..."
 
@@ -52,15 +52,15 @@ Jace glanced at Dazhalmu's corpse. "If she'd been willing to tap the magic tower
 
 "I've been thinking, Vereesa," Jace said. "How are we going to report this to the Reliquary?"
 
-Vereesa glanced at the succubus beside her. "Morophil extracted Das'mora's soul. When the time comes, I'll just bring the Soul Shard back... Oh, you want to keep that shard, don't you?"
+Vereesa glanced at the succubus beside her. "Morophil extracted Dasmora's soul. When the time comes, I'll just bring the soul shard back... Oh, you want to keep that shard, don't you?"
 
 Jace gave an embarrassed smile. "The Reliquary never said we had to bring this demon's soul back, did they? I figured we could bring the demon's heart back and call it good."
 
-"I've certainly got no objection," Vereesa said. "I just don't know how to convince the Reliquary that Das'mora was actually a demon. When did she come to Eldre'Thalas? Why was she hiding here? It's obvious she left the city too. What did she do out there? Just write books on demonic lore for mortals to read? She, a demon, certainly wouldn't care about fame and fortune. Could it be that she wanted to gather more worshippers to help her?"
+"I've certainly got no objection," Vereesa said. "I just don't know how to convince the Reliquary that Dasmora was actually a demon. When did she come to Eldre'Thalas? Why was she hiding here? It's obvious she left the city too. What did she do out there? Just write books on demonic lore for mortals to read? She, a demon, certainly wouldn't care about fame and fortune. Could it be that she wanted to gather more worshippers to help her?"
 
 "She's a member of the Burning Legion, Quel'dorei," Morophil said. "Remember what she said when she revealed her true form? She endured ten thousand years of torment. I have no doubt she hated living as an elf on Azeroth for those ten thousand years. I could even feel that intense pain of hers at the time."
 
-"I think she was probably an Eredun leader who followed Archimonde in his invasion of Azeroth ten thousand years ago. After the Burning Legion's defeat, she fled. Ever since, she'd been looking for a chance to bring Archimonde back to this world — or perhaps this was a mission the Burning Legion found a way to give her. She was to hide on Azeroth and search for a powerful mana source. Eldre'Thalas was her target."
+"I think she was probably an Ered'ruin leader who followed Archimonde in his invasion of Azeroth ten thousand years ago. After the Burning Legion's defeat, she fled. Ever since, she'd been looking for a chance to bring Archimonde back to this world — or perhaps this was a mission the Burning Legion found a way to give her. She was to hide on Azeroth and search for a powerful mana source. Eldre'Thalas was her target."
 
 Jace said, "After the Well of Eternity exploded and the world shattered... the Kaldorei were in no shape to hunt down these leftover demons for a long time, logically speaking. If she found a chance to slip into Eldre'Thalas during that time, she had every opportunity to survive the thousands of years of pursuit that followed. Your reasoning holds up."
 
@@ -68,6 +68,6 @@ Vereesa nodded and looked at the succubus. "I used to think all demons were memb
 
 "Disgusted? Not exactly," Morophil said with a smile. "No matter who I serve, I don't like the feeling of being ruled by that Dark Titan. Burning Legion members almost never answer the summons of warlocks outside the Legion. My master is clearly not a Legion member, heh. Of course, unless a powerful warlock uses enslavement magic of their own to forcibly rewrite their will."
 
-"Enslavement magic..." Jace thought of the enslavement scrolls written by the satyrs. Those fellows had indeed wanted to enslave Das'mora directly.
+"Enslavement magic..." Jace thought of the enslavement scrolls written by the satyrs. Those fellows had indeed wanted to enslave Dasmora directly.
 
 So were they loyal to the Burning Legion or not...

@@ -14,7 +14,7 @@ Ferby incanted an Arcane Intellect on himself, picked up a staff topped with a r
 
 He reached out and wiggled his fingers back and forth at the tip of his staff, guiding the energy, chanting as he went: "Eld'mans malus, lunr mig…"
 
-Jace watched as arcane energy at his fingertips began to painstakingly gather into churning, smoke-belching flames. From his knowledge of fire magic, if the gathered fire elementals gave off black smoke, that was a sign the casting wasn't going smoothly.
+Jace watched as arcane energy at his fingertips began to painstakingly gather into churning, smoke-belching flames. From his knowledge of fire magic, if the gathered fire gave off black smoke, that was a sign the casting wasn't going smoothly.
 
 Ferby had clearly noticed the problem too. He caught his breath, forced himself to concentrate, and through gritted teeth continued: "Balbad rink, maina infind…"
 
@@ -24,7 +24,7 @@ By the time he got to this part, a surging ball of flame had already gathered be
 
 "I don't know if I can do it," Jace said, walking to the front.
 
-"Don't be too humble, Mr. Sesso. Humility and fire magic are completely antithetical — you know why the elves' fire magic is so powerful? There's a reason for it…" Ferby pulled a small notebook from his pack, flipped to a page, and handed it to Jace. "This is this my incantation journal. This line here is Fireball, and there are a little casting notes below it. You can use your staff to help with the casting — the success rate's much higher than bare-handed."
+"Don't be too humble, Mr. Sesso. Humility and fire magic are completely antithetical — you know why the elves' fire magic is so powerful? There's a reason for it…" Ferby pulled a small notebook from his pack, flipped to a page, and handed it to Jace. "This is my incantation journal. This line here is Fireball, and there are a few casting notes below it. You can use your staff to help with the casting — the success rate's much higher than bare-handed."
 
 Ferby glanced at Jace's tightly-wrapped Gorefiend staff and added, "Of course, as long as your staff… is a fire staff."
 
@@ -36,11 +36,11 @@ Fire magic shouldn't be a problem for him.
 
 He read the incantation one more time, recited it silently once, and began chanting: "Eld'mans…"
 
-Following the notebook — one hand above, one hand below, the lower hand acting as a "tray" in place of Ferby's staff, the upper hand guiding the arcane energy to gather fire elementals like Ferby did…
+Following the notebook — one hand above, one hand below, the lower hand acting as a "tray" in place of Ferby's staff, the upper hand guiding the arcane energy to gather elemental fire the way Ferby had…
 
 Before long, the flames seemed to heed his command, growing bigger and bigger.
 
-Jace had actually started to get a feel for it. Casting Mage Armor involved a similar process — except back then, the fire elementals being summoned gathered into a flame-resistant shell to protect him, whereas the fire elementals this time were far wilder.
+Jace had actually started to get a feel for it. Casting Mage Armor involved a similar process — except back then, the elemental fire being summoned gathered into a flame-resistant shell to protect him, whereas the fire this time was far wilder.
 
 But the moment that thought crossed his mind, the flames in his hand dispersed.
 
@@ -48,11 +48,11 @@ But the moment that thought crossed his mind, the flames in his hand dispersed.
 
 "I lost focus for a second," Jace said. "Let me try again."
 
-Fireball wasn't some high-end, complicated incantation — at least compared to Mage Armor it was a lot simpler. He caught his breath, found the feeling again, and recited the incantation once more, focusing his mind on gathering the fire elementals. He finally managed to gather a small burning fireball in his palm after finishing the incantation, searing his hand with pain.
+Fireball wasn't some high-end, complicated incantation — at least compared to Mage Armor it was a lot simpler. He caught his breath, found the feeling again, and recited the incantation once more, focusing his mind on gathering the fire. He finally managed to gather a small burning fireball in his palm after finishing the incantation, searing his hand with pain.
 
 Jace immediately hurled the whole fireball forward. It blew up on the shore in a cloud of black smoke and flipped up a patch of earth.
 
-"Master Marin's student, for sure!" Ferby said. "Jace Sesso, you've got to say it was me, Ferby Golobo, who taught you Fireball!"
+"Master Malin's student, for sure!" Ferby said. "Jace Sesso, you've got to say it was me, Ferby Golobo, who taught you Fireball!"
 
 "No problem," Jace said at once.
 
@@ -72,7 +72,7 @@ With that, Ferby headed back toward the wooden walls. Jace walked out a few hund
 
 He picked up the Gorefiend staff, mimicked Ferby's gestures, and began chanting the incantation while using the staff tip to guide the Fireball — and this time he didn't hold back his shadow power.
 
-Shadow energy rapidly merged into the gathered fire elementals. Jace could even sense the arcane energy drawn through the ley line connection becoming somewhat disordered by the sudden intrusion of shadow.
+Shadow energy rapidly merged into the gathered fire. Jace could even sense the arcane energy drawn through the ley line connection becoming somewhat disordered by the sudden intrusion of shadow.
 
 The shadow frantically rounded up more wildfire and infected it into volatile black flames — but all of this was within Jace's control. After all, with the Scorch incantation… he was already quite familiar with this sort of scene.
 
@@ -82,4 +82,4 @@ By now it wasn't just his hands — his cheeks were starting to feel the fierce 
 
 He decisively hurled the shadow-fireball forward, guiding it with his staff to explode into a stream. The savage blast collapsed a nearby hillside, yanking up tree roots one after another. A large tree connected to those roots tilted a bit, its canopy swaying for a while.
 
-After the explosion cleared, the burning shadow flames quickly scorched that patch of brush and roots black, withering them. Jace looked at the scene before him, catching his breath, and thought that shadow had a bit more courtesy, after all.
+After the explosion cleared, the burning shadow flames quickly scorched that patch of brush and roots black, withering them. Jace looked at the scene before him, catching his breath, and thought that shadow was the more obliging, after all.

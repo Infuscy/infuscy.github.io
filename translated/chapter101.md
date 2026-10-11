@@ -1,6 +1,6 @@
 ## Chapter 101: Full Circle
 
-In the afternoon, Jace went down to the docks to ask if anyone was buying naga scales. He managed to offload a handful of the smaller, broken ones to a couple of gnomes working for a dwarf blacksmith, and came away with seven silver.
+In the afternoon, Jace went down to the docks to ask if anyone was buying naga scales. He managed to offload a handful of the smaller, Broken to a couple of gnomes working for a dwarf blacksmith, and came away with seven silver.
 
 He'd asked around at several places — those two gnomes had offered the fairest price.
 
@@ -22,7 +22,7 @@ The shopkeeper turned the string over a few times, glancing at Jace every so oft
 
 Forty silver.
 
-Jace was tempted. Selling it would cover the cost of paper and ink… He was facing the orcish exam, and the more demonic text Sazeno could translate from that bilingual book, the faster he could figure out what the corresponding orcish runes meant. That actually mattered to him.
+Jace was tempted. Selling it would cover the cost of paper and ink… He was facing the Orcish exam, and the more Demonic text Sazeno could translate from that bilingual book, the faster he could figure out what the corresponding Orcish runes meant. That actually mattered to him.
 
 A while back, he wouldn't have hesitated at all.
 
@@ -82,7 +82,7 @@ Someone slapped his face. He panicked, eyes flying open, and shouted, "…I'm no
 
 He felt like he hadn't finished his sentence, so he just blurted the whole thing out — but only after he'd said it did it dawn on him that he'd been unconscious for a while now, and this wasn't the alley anymore.
 
-Right after he spoke, Jace looked around. It was a cell-like place, pitch black all around. The Stormwind Stockades?
+Right after he spoke, Jace looked around. It was a cell-like place, pitch black all around. The Stormwind Stockade?
 
 He was tied to a wooden chair with ropes. So he'd ended up here after all.
 
@@ -111,16 +111,3 @@ Morses didn't respond to the shopkeeper right away. He was just turning a ring o
 Jace was about to answer, but the shopkeeper cut in: "Didn't expect he stole a ring too? This guy was afraid I'd suspect him, so he didn't show me everything. Clever little bastard. Good thing I'm one step ahead."
 
 "Enough." Morses looked at Jace. "You tell me."
-
-## Flags
-
-- **莫尔斯 (Morses)** — the magistrate at the Stormwind Stockades; not in glossary. Rendered as "Magistrate Morses."
-- **暴风城监狱** — rendered as "the Stormwind Stockades" (canonical WoW name for Stormwind's prison).
-- **教堂广场** — "Cathedral Square"; location not in glossary (Cathedral of Light is listed, but not the square).
-- **治安官** — "magistrate"; not in glossary.
-- **学徒徽记** — "apprentice sigil"; 徽记 = sigil/badge per glossary.
-- **彩珍珠** — "colored pearls"; descriptive term, not in glossary.
-- **日常商行** — shop name; rendered as "Daily Goods, for All Your Needs."
-- **互译书** — "bilingual book" (the demonic-orcish translation book).
-- **珠串** — rendered as "pearl string" (a string of pearls), not "bracelet."
-- **兜兜转转还是来到这里** — chapter title idiom; rendered as "Full Circle."

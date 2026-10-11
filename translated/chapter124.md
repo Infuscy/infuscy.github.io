@@ -10,7 +10,7 @@ None of those books carried any arcane energy, so they'd never be detected in Da
 
 The two biggest problems were the imp, and the staff he'd looted from that orc corpse.
 
-The imp problem was obviously the biggest. He'd been carrying that staff stick in and out of Stormwind, even into the Mage Quarter — the one thing he'd never done was bring it into the Wizard Sanctum.
+The imp problem was obviously the biggest. He'd been carrying that staff in and out of Stormwind, even into the Mage Quarter — the one thing he'd never done was bring it into the Wizard's Sanctum.
 
 But Jace figured there were warlocks in Dalaran too. Bringing an item with a little shadow energy on it wasn't going to set off any massive alarms — alchemists carried shadow taint on them all the time.
 
@@ -26,9 +26,9 @@ But killing it…
 
 The journey ahead was a long one, and there was no telling what might go wrong along the way. Whether Sazeno's benefits outweighed its risks was genuinely hard to say.
 
-In the end, Jace decided to bring the imp along and stash it in the warlock's haversack.
+In the end, Jace decided to bring the imp along and stash it in the warlock's bag.
 
-If nothing had gone wrong all this time — if a city the size of Stormwind hadn't produced a single person who could tell there was a demon in that bag, not even Morgas up at Stonewatch, not even the gnolls —
+If nothing had gone wrong all this time — if a city the size of Stormwind hadn't produced a single person who could tell there was a demon in that bag, not even Morganth up at Stonewatch, not even the gnolls —
 
 Even so, Dalaran was still a hurdle.
 
@@ -36,15 +36,15 @@ If it came down to it, he could just leave it to wander the forests of Hillsbrad
 
 Jace rubbed his eyes, thinking about what would happen when Grede met the imp.
 
-Honestly, Grede's tolerance for his dark magic had gotten a lot higher these past few weeks. Keep slicing the sausage… he didn't know how much further that tactic would hold.
+Honestly, Grede's tolerance for his dark magic had gotten a lot higher these past few weeks. Keep taking it an inch at a time… he didn't know how much further that tactic would hold.
 
-But a demon showing up out of nowhere — that wasn't slicing sausage anymore. That was chopping off a whole leg. He'd need to wait for the right moment to ease Grede into it.
+But a demon showing up out of nowhere — that wasn't an inch anymore. That was a mile. He'd need to wait for the right moment to ease Grede into it.
 
 And then there was Aerie Peak…
 
 Maybe at Aerie Peak it really would be better to leave it outside to roam on its own. Bringing a demon into the mountain fortress of the Wildhammer clan was just too dangerous.
 
-Jace had bought a simple lockable wooden chest at the general store earlier. He packed the fragment book, the dictionary, and the copies into it, crammed full, then tucked the Gorefiend's letter into the warlock's haversack and stuffed the imp in there too. That was more or less everything he needed for the road.
+Jace had bought a simple lockable wooden chest at the general store earlier. He packed the fragment book, the dictionary, and the copies into it, crammed full, then tucked Gorefiend's letter into the warlock's bag and stuffed the imp in there too. That was more or less everything he needed for the road.
 
 As for the leftover naga scales, the materials he'd been holding onto, the extra potions — he'd leave all that in the rented room. His landlord was a fairly reliable sort. Paying three months' rent in advance and asking him to keep an eye on things shouldn't be a problem.
 
@@ -105,19 +105,3 @@ Grede nodded. "I rented my place out to a mother and daughter. Heard they're ref
 Jace frowned. "That's a weird way to put it."
 
 "I'm just saying, is it vivid or not?" Grede went on. "That family camped outside Stormwind's gates for nearly a month before they found a place. I told them to hurry up and find a new spot, otherwise I'm going to feel too guilty to move back in."
-
-## Flags
-
-- **卡罗·杜尚 (Caro Dushan):** Not in glossary. Rendered as "Caro Dushan" / "Master Dushan." First name tentative — 卡罗 could also be "Caro" or "Karo."
-- **伟大的巴拉丁征服者号:** Rendered "the *Great Baradin Conqueror*." Ship name, not in glossary.
-- **塔隆戈尔的法杖:** Rendered "the staff of Tahk'gor" (looted from an orc corpse). Not in glossary; transliteration tentative. Possibly an OC item.
-- **血魔的信:** Rendered "the Gorefiend's letter." Ambiguous — 血魔 may refer to Teron Gorefiend (塔隆·血魔, in glossary) or be a generic "bloodfiend." Flagged for author clarification.
-- **席瓦莱恩堡:** Rendered "Sylvane's Keep" — the former name of what's now Shadowfang Keep (影牙城堡). Transliteration tentative; not in glossary.
-- **焚木沼泽:** Rendered "Burnwood Marsh." Not in glossary; location in Silverpine, possibly OC.
-- **烬石村:** Rendered "Emberstone Village." Not in glossary; possibly OC.
-- **吉尔尼斯海湾:** Rendered "Gilneas Bay." Not in glossary.
-- **托尔贝恩 (Thoras Trollbane):** Not in glossary, but canonical — ruler of Stromgarde. Rendered "Thoras Trollbane."
-- **匹瑞诺德家族:** Rendered "the Perenolde family" — the royal house of Alterac. Canonical but not in glossary.
-- **敦霍尔德城堡:** Rendered "Durnholde Keep." Canonical but not in glossary.
-- **冬幕节:** Rendered "Winter Veil" — canonical WoW winter holiday, not in glossary.
-- **切香肠 / 剁大腿:** Chinese metaphors rendered as "slicing the sausage" (gradual concessions) and "chopping off a whole leg" (major escalation). Flagged as non-literal idiom handling.

@@ -1,6 +1,6 @@
 ## Chapter 1259: Let's Have a Dragon Hunt
 
-High in the evening sky, a whelp circled again and again for a long time. Jorin Death-eye and the Bleeding Hollow hunter were still somewhat surprised that there was actually a dragon in their party, but by now they'd calmed down a little.
+High in the evening sky, a young dragon circled again and again for a long time. Jorin Deadeye and the Bleeding Hollow hunter were still somewhat surprised that there was actually a dragon in their party, but by now they'd calmed down a little.
 
 Because they were facing another problem: Gruul's son seemed completely uninterested in this unknown flying creature that had suddenly appeared in Nagrand's sky.
 
@@ -8,7 +8,7 @@ Was "Durn the Hungerer" not interested in dragon-hunting?
 
 Clearly, several sentry ogres nearby had noticed that circling flying magical beast that refused to leave. And ogres had run back into the Boulderfist valley to report the strange sight. There was some commotion in the valley — but only some. A few curious ogres came out to watch, found it boring, and went back in.
 
-Several times Sona wanted to swoop down and attack the ogres watching the spectacle. Fortunately, Vereesa, high up on the cliff, kept signaling frantically upward at Jace's instruction, telling her not to fly low — or she'd have hesitated a few times and then really dove. After all, no one knew how a gronn lord would strike or what kind of attack he'd launch. The group couldn't afford that risk.
+Several times Sola wanted to swoop down and attack the ogres watching the spectacle. Fortunately, Vereesa, high up on the cliff, kept signaling frantically upward at Jace's instruction, telling her not to fly low — or she'd have hesitated a few times and then really dove. After all, no one knew how a gronn lord would strike or what kind of attack he'd launch. The group couldn't afford that risk.
 
 The green dragon screeched from on high from time to time. The cries carried far enough across the distance that Jace felt a chill at the back of his neck — after all, the cries black dragons made when closing in were almost the same, only slightly hoarser.
 
@@ -18,9 +18,9 @@ Most of Gruul's sons were still in the Blade's Edge Mountains. Durn was one of t
 
 Now the green dragon kept taunting with her shrieks. She genuinely seemed irritated by these gronn's widely boasted "hobby," and was determined to shout the gronn out for a bout.
 
-"It's a pity Sona can't breathe fire," Grede muttered, watching the sky. "A few fireballs this way would at least kill a few more ogres and show that gronn who's boss."
+"It's a pity Sola can't breathe fire," Grede muttered, watching the sky. "A few fireballs this way would at least kill a few more ogres and show that gronn who's boss."
 
-"Does Lady Sona Shade not breathe flames like those black dragons?" Jorin Death-eye asked.
+"Does Lady Sola Shade not breathe flames like those black dragons?" Jorin Deadeye asked.
 
 "She only spits poison mist," Grede said in a low voice. "Not much killing power. She once sprayed a whole band of naga assassins — had them howling and bleeding from every orifice — and the ones who actually died could be counted on one hand."
 
@@ -30,7 +30,9 @@ Now the green dragon kept taunting with her shrieks. She genuinely seemed irrita
 
 Jace listened to the two of them discussing Azerothian geography and biology, and an idea popped into his head.
 
-"I could throw in some black dragon Shadowflame. Give the gronn and ogres here a deeper impression," he said. "You're not about to—" Grede turned to him. Jorin Death-eye looked over in confusion too.
+"I could throw in some black dragon Shadowflame. Give the gronn and ogres here a deeper impression," he said.
+
+"You're not about to—" Grede turned to him. Jorin Deadeye looked over in confusion too.
 
 "I'll do my best to make it convincing."
 
@@ -50,7 +52,7 @@ At the same time, the green dragon in the sky also spotted Jace's movements. She
 
 When Jace faintly heard the rush of dragon wings overhead, the flames waving in his hands had already turned blood-red, and flames were flickering from his own eyes. Morophil, standing guard for Jace at the foot of the slope, couldn't help but bite her lip as she fixed her eyes on her master.
 
-Sona let out a savage roar, and at that instant Jace released the power he'd been gathering for so long into the forest before him… The Shadowflame he hurled out instantly set a vast stretch of trees ablaze. The churning, wicked flames lashed back and forth like writhing whips. The nearby trees were all scorched black-purple. Smoke billowed up, blanketing the low ground below. The fishy reek of shadow filled every nostril.
+Sola let out a savage roar, and at that instant Jace released the power he'd been gathering for so long into the forest before him… The Shadowflame he hurled out instantly set a vast stretch of trees ablaze. The churning, wicked flames lashed back and forth like writhing whips. The nearby trees were all scorched black-purple. Smoke billowed up, blanketing the low ground below. The fishy reek of shadow filled every nostril.
 
 "It's burning, it's burning! That's it, great master!" Sazeno ran to the edge of the cliff and shouted at the gorge, now scorched a purplish red like an open wound. "Burn!"
 
@@ -60,7 +62,7 @@ He had to replenish his spent strength at once, to deal with any ogres that migh
 
 The fire spread toward the valley. The ogres were indeed howling in terror and fury, shouting and calling everywhere. One unlucky patrol who'd been near the flames even had his clothes set alight, wailing as his shadow vanished into the purplish smoke.
 
-Sona had pulled up high again. Several ogres hurled spears after her, but the weapons lost their force and fell back. Then, from the part of the gorge the fire hadn't yet reached, a roar rumbled.
+Sola had pulled up high again. Several ogres hurled spears after her, but the weapons lost their force and fell back. Then, from the part of the gorge the fire hadn't yet reached, a roar rumbled.
 
 "Black… fire… black… foe."
 
@@ -76,21 +78,21 @@ Durn…
 
 The gronn lord seized a stalagmite as tall as three or four men, wrenched it free with a mighty pull, and slowly raised it with his disproportionately long arms. His savage face, half-veiled in dust, and his enormous single eye tracked the ascending green dragon.
 
-He was going to hurl that boulder at Sona!
+He was going to hurl that boulder at Sola!
 
 "Stop him!" Jace shouted as he slid down the cliff face. "Don't let him throw!"
 
-But his words came too late. The gronn's arm had already drawn back into a throwing grip, clenched that "stone spear," and was aiming calmly at the high-flying Sona through the purplish smoke and collapsing earth. Then he swept his arm and hurled it upward!
+But his words came too late. The gronn's arm had already drawn back into a throwing grip, clenched that "stone spear," and was aiming calmly at the high-flying Sola through the purplish smoke and collapsing earth. Then he swept his arm and hurled it upward!
 
-Jace had even prayed the stone spear might travel too slowly or fall too short, giving Sona enough room to escape. But the gronn's proud self-styling as a "Dragonkiller" was no empty boast.
+Jace had even prayed the stone spear might travel too slowly or fall too short, giving Sola enough room to escape. But the gronn's proud self-styling as a "Dragonkiller" was no empty boast.
 
 This stone spear flew like a giant ballista bolt, trailing a piercing whistle through the air as it streaked straight for the green dragon!
 
 The green dragon high above clearly sensed the sudden threat. She turned her head, caught a glimpse, and flapped her wings hard to bank and evade. But compared to the speed of that earthen spear hurtling toward her, her movements already seemed sluggish…
 
-Just as everyone's hearts were gripped by the gap, a prismatic beam of light pierced down from the pink-tinged sky above, splitting the stalagmite down the middle and shattering it into a spray of rock that flew higher!
+Just as everyone's hearts were in their throats, a prismatic beam of light pierced down from the pink-tinged sky above, splitting the stalagmite down the middle and shattering it into a spray of rock that flew higher!
 
-Sona managed to pull free from the exploding stone and fly clear. Jace let out a long breath. Far off on the high ground, Vereesa, who held the emerald arcane bow, had already taken steady aim at the gronn lord crawling out of the valley.
+Sola managed to pull free from the exploding stone and fly clear. Jace let out a long breath. Far off on the high ground, Vereesa, who held the emerald arcane bow, had already taken steady aim at the gronn lord crawling out of the valley.
 
 "Durn shall likewise become… a Dragonkiller!"
 

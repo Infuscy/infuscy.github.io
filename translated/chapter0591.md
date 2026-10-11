@@ -8,9 +8,9 @@ They clustered in twos and threes. Some stood around talking, some paced back an
 
 Mosa had no interest in the two tauren. She didn't want to go talk to them — didn't even want to look at them. Those two tauren were likewise acting as if the new arrivals on the plaza didn't exist.
 
-Those two tauren had dark black manes and wore heavy fur armor, carrying massive axes and warblades. They looked nothing like the peaceable tauren of Sunspring Post.
+Those two tauren had dark black manes and wore heavy fur armor, carrying massive axes and warblades. They looked nothing like the peaceable tauren of Sun Rock Retreat.
 
-Jace guessed they were probably Grimtotem tauren. Mosa's own Woolmane tribe had clashed with them before.
+Jace guessed they were probably Grimtotem tauren. Mosa's own Woodmane tribe had clashed with them before.
 
 Then again, the Grimtotem tauren had tense relations with most other tauren tribes.
 
@@ -54,7 +54,7 @@ Jace pointed at the tall towers behind the wall across the plaza. "A city this b
 
 Jace was watching Grede talk when he noticed a small ogre sneaking up behind them, creeping up behind the gesticulating dwarf.
 
-The ogre looked at the human, elf, and tauren staring at him, put a finger to his lips in a "shush" gesture, then gently lifted the demon helmet off the top of Grede's head and placed it on his own.
+The ogre looked at the human, elf, and tauren staring at him, put a finger to his lips in a "shush" gesture, then gently lifted the felguard's helmet off the top of Grede's head and placed it on his own.
 
 It fit perfectly!
 
@@ -87,16 +87,3 @@ Jace looked at the ogres in the distance. Several guards stood to the east watch
 Vereesa nodded, and Grede agreed too.
 
 They rounded the arena and headed east. The ranger suddenly fixed her eyes on a huge wooden door to the east, tightly shut. "I can feel it... the magical trail we've been looking for is right behind this door, Jace."
-
-## Flags
-
-- **Grimtotem**: Canonical tauren tribe (恐怖图腾) — Jace suspects the two hostile tauren belong to it.
-- **Woolmane tribe**: 木鬃部族 — Mosa's tribe, which clashed with the Grimtotem.
-- **Sunspring Post**: 烈日石居 — a tauren settlement; referenced to contrast the peaceful tauren with these.
-- **Grim Batol**: Canonical location (格瑞姆巴托) — Grede's father's story about the Dark Iron dwarves sacking it.
-- **Suramar / Zin-Azshari**: Canonical ancient night elf cities (厄苏拉玛 / 辛艾萨莉) — Vereesa's lament about Eldre'Thalas's fallen glory.
-- **Sense Demons**: 侦测恶魔 — Jace's detection spell; he sweeps the plaza for demons.
-- **Doomguard**: 末日守卫 — the imprisoned demon they're searching for.
-- **Two-headed ogre mage**: 双头食人魔法师 — a Gorduni spellcaster watching the plaza.
-- **Ogre thief**: the comedic scene of the ogre stealing Grede's helmet — kept light and slapstick.
-- **POV**: Third person throughout.

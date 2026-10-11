@@ -28,7 +28,7 @@ Hearing the name, Jace asked, puzzled, "Noggenfogger-Mixxelder?"
 
 "Did you spend it yourself?" Jace asked.
 
-"Oof." The goblin sighed. "All right. I used your share to pay off my debt to that vampire Revilgaz. I won't bother making excuses — you're no ogre, you can't be fooled that easily. But if I hadn't paid him back, I wouldn't even have kept this laboratory. You wouldn't want to see an alchemist kicked out of his own alchemy lab, would you?"
+"Oof." The goblin sighed. "All right. I used your share to pay off my debt to that bloodsucker Revilgaz. I won't bother making excuses — you're no ogre, you can't be fooled that easily. But if I hadn't paid him back, I wouldn't even have kept this laboratory. You wouldn't want to see an alchemist kicked out of his own alchemy lab, would you?"
 
 "How much?" Jace asked.
 
@@ -46,7 +46,7 @@ Since the man was now promising thirty gold, that was still a lot better than pr
 
 The goblin nodded repeatedly — then his gaze suddenly fastened onto the palm tree leaning against the cliff's edge, and his face changed in an instant. "The Burning Legion… why is there a demon of the Burning Legion in Booty Bay!"
 
-Jace turned and saw Molophil leaning against the tree trunk, watching them. "She's not a member of the Burning Legion. She just looks the part."
+Jace turned and saw Morophil leaning against the tree trunk, watching them. "She's not a member of the Burning Legion. She just looks the part."
 
 "That's your… servant?" the goblin asked.
 
@@ -54,7 +54,7 @@ Jace turned and saw Molophil leaning against the tree trunk, watching them. "She
 
 Mixxelder let out a breath. "All right. I thought warlocks' summoned demons didn't have tattoos like that. The Dark Portal business has Booty Bay on edge. You must know there's a world of difference between Burning Legion demons and your demonic servants."
 
-"Yes, they're generally none too bright," Molophil called from afar.
+"Yes, they're generally none too bright," Morophil called from afar.
 
 "Truly." Mixxelder nodded repeatedly and said loudly, "You're right, my lady."
 
@@ -62,7 +62,7 @@ Mixxelder let out a breath. "All right. I thought warlocks' summoned demons didn
 
 "Another thing?" The goblin scratched his head. "Do I still owe you something?"
 
-"About that mission to extract Necrotic Essence in Deadwind Pass last time…" Jace said.
+"About that mission to extract Essence of Undeath in Deadwind Pass last time…" Jace said.
 
 "I remember I paid you in full," the goblin cut him off almost immediately.
 
@@ -80,15 +80,15 @@ The goblin shook his head. "I've only got two pairs total here. The other pair I
 
 "It's not that simple," Jace said. "The ghost I'm hunting this time is a bit harder to deal with."
 
-"Hunting?" The goblin scratched his head. "You should have used the Spectral Goggles when you extracted Necrotic Essence last time. Once you put them on, you can't see anything except ghosts. If you're going after ghosts in some unfamiliar or dangerous place, there might be dangers other than ghosts lying in ambush. Last time there was a mercenary who used Spectral Goggles to track a spirit in Duskwood — he ended up getting his neck bitten through by a spider that had been hiding in that run-down house. That spider was later caught by the guards and measured — over ten feet long, a whole lot bigger than a you human. You understand what I mean? For someone wearing Spectral Goggles, a ten-foot spider monster could lie in ambush right under their nose. In the end it turned out the spider had only been imitating a ghost's wail to lure over idiots like that mercenary…"
+"Hunting?" The goblin scratched his head. "You should have used the Spectral Goggles when you extracted Essence of Undeath last time. Once you put them on, you can't see anything except ghosts. If you're going after ghosts in some unfamiliar or dangerous place, there might be dangers other than ghosts lying in ambush. Last time there was a mercenary who used Spectral Goggles to track a spirit in Duskwood — he ended up getting his neck bitten through by a spider that had been hiding in that run-down house. That spider was later caught by the guards and measured — over ten feet long, a whole lot bigger than you humans. You understand what I mean? For someone wearing Spectral Goggles, a ten-foot spider monster could lie in ambush right under their nose. In the end it turned out the spider had only been imitating a ghost's wail to lure over idiots like that mercenary…"
 
 Mixxelder chattered on and on, and Jace realized he'd overlooked this problem.
 
-Darkwhisper Gulch was located in a stretch of land between the snow mountains of Winterspring and Ashenvale. Even without ghosts, it was a place bristling with dangers everywhere. If they got ambushed by other lurking monsters while searching for ghosts, that would be a real headache.
+Darkwhisper Gorge was located in a stretch of land between the snowy mountains of Winterspring and Ashenvale. Even without ghosts, it was a place bristling with dangers everywhere. If they got ambushed by other lurking monsters while searching for ghosts, that would be a real headache.
 
-Not to mention that since both Dar'Khan and Dasmora were searching for Ursales, they might run into other demons or treasure hunters there too.
+Not to mention that since both Dar'Khan and Dasmora were searching for Ulthalesh, they might run into other demons or treasure hunters there too.
 
-"An Undead Detection Potion could solve this problem," a raspy voice came from the doorway behind the goblin. Jace looked over and saw an exceptionally tall female troll standing there.
+"An Elixir of Detect Undead could solve this problem," a raspy voice came from the doorway behind the goblin. Jace looked over and saw an exceptionally tall female troll standing there.
 
 She wore a deep blue robe, carried a basket stuffed with all manner of herbs and unidentifiable fungi, and stared straight ahead with lifeless eyes.
 

@@ -2,23 +2,25 @@
 
 "Hehe, the start of another marvelous journey, my dear master — don't suppose there's anything I can do for you?"
 
-Erlan lowered his hand and the power of the Twisting Nether dispersed with it. A little imp wreathed in fel-green flames appeared before them, chattering away in demonic.
+Erlan lowered his hand and the power of the Twisting Nether dispersed with it. A little imp wreathed in fel-green flames appeared before them, chattering away in Demonic.
 
 It curiously sized up Erlan and Jace beside him, then said, "We're not familiar yet, new master, but I'm guessing you plan to have me deal with this fellow, am I right?"
 
-The imp hopped around examining Jace. Erlan pointed at the base of the wall and commanded in demonic, "Stand still."
+The imp hopped around examining Jace. Erlan pointed at the base of the wall and commanded in Demonic, "Stand still."
 
 "First order — unusual, but not that strange!" The imp obediently walked to the base of the wall and asked curiously, "Where is this? Tell me the name of this world, master. I can see you're both human — I didn't end up on Azeroth, did I?"
 
 Erlan didn't answer its question, just shot it a cold glance, then looked toward Jace. Jace gave the scroll one last look, then raised his hands and channeled shadow power.
 
-When the power of shadow was stirred by him and began to actively "dance" with his consciousness and emotions, Jace recited the incantation from the scroll: "Menath, kathale, shukile."
+When the power of shadow was stirred by him and began to actively "dance" with his consciousness and emotions, Jace recited the incantation from the scroll: "Menali, katali, shukil."
 
 The shadow flame suddenly gathered as if pulled by something — but it didn't "burn" anything. The fel fire on the imp was merely a tiny radiation of its own power, not caused by the incantation.
 
 Jace once again felt his mana being consumed, which meant this incantation could indeed accomplish something — at least there was no obvious error. And the little imp before him was clearly panicking.
 
-"You didn't summon me here to use me as a target, did you? This incantation's target isn't me, is it?" Jace asked. "Do you know what spell this is?"
+"You didn't summon me here to use me as a target, did you? This incantation's target isn't me, is it?"
+
+Jace asked, "Do you know what spell this is?"
 
 "How would I know?!" the imp shrieked. "I don't know anything!"
 
@@ -28,17 +30,17 @@ Jace once again felt his mana being consumed, which meant this incantation could
 
 That was right — at the moment Erlan was wearing a yellowed sailor's shirt and a worn thin leather coat, and Jace had casually thrown on a shirt and a linen coat. They looked like two dock workers slacking off in the middle of a shift.
 
-"An incantation related to demonic, but the demons have never heard of it?" Jace smacked his lips.
+"An incantation related to Demonic, but the demons have never heard of it?" Jace smacked his lips.
 
-"It might be an incantation created by orcs, Jace," Erlan explained. "Galders said before that although the orcs were driven by demons, their actual communication with the Burning Legion in the Twisting Nether wasn't as close as we'd imagined. And most of the minions we summon are wild demons — that's another layer of separation — so it's not strange they don't know."
+"It might be an incantation created by orcs, Jace," Erlan explained. "Zardeth said before that although the orcs were driven by demons, their actual communication with the Burning Legion in the Twisting Nether wasn't as close as we'd imagined. And most of the minions we summon are wild demons — that's another layer of separation — so it's not strange they don't know."
 
-It wasn't just Erlan — Jace also felt like he was already getting the edge of it.
+It wasn't just Erlan — Jace also felt he was onto something.
 
 He could feel that when the imp was the target, there was clearly more of a "sense of contact" than with the clothes on the rack just now — the feeling of manipulating mana to strike the target.
 
 "Did you try it on a demon before?" he asked.
 
-"Both Sulenna and I tried it," Erlan said.
+"Both Surena and I tried it," Erlan said.
 
 "So you really were planning to use me to test some kind of weird spell — you bastards!" The imp stomped its feet in fury, but didn't dare actually put up any resistance.
 
@@ -46,15 +48,15 @@ Erlan shot it a cold sidelong glance, making the imp restrain itself slightly, t
 
 "At least now the Dagger Society doesn't need to recruit people from outside to be targets," Jace said.
 
-"Ha, indeed — a 'tremendous improvement,'" Erlan said, putting his hands on his waist. "I still remember the first time I met you — you were as green as a little brat living in Northshire Abbey. But Sulenna said you were far more resolute against shadow magic than ordinary people. A lot of the 'test subjects' we'd recruited before... all pissed themselves the moment they felt shadow magic. That's when I knew there was definitely something off about you. Of course, Gajin went a step further than I thought — I didn't expect him to go find you right then and there and bring us to us. But no matter what he does, he goes at it full throttle."
+"Ha, indeed — a 'tremendous improvement,'" Erlan said, putting his hands on his hips. "I still remember the first time I met you — you were as green as a little brat living in Northshire Abbey. But Surena said you were far more resolute against shadow magic than ordinary people. A lot of the 'test subjects' we'd recruited before... all pissed themselves the moment they felt shadow magic. That's when I knew there was definitely something off about you. Of course, Gakin went a step further than I thought — I didn't expect him to go find you right then and there and bring you to us. But no matter what he does, he goes at it full throttle."
 
-Erlan's words made Jace think again of that scene in the old house in Old Town. Not just him — Erlan, who'd been in charge of handling those corpses, must have thought of it too. The two of them fell silent for a while, as if both somewhat regretted dragging Gajin into the conversation.
+Erlan's words made Jace think again of that scene in the old house in Old Town. Not just him — Erlan, who'd been in charge of handling those corpses, must have thought of it too. The two of them fell silent for a while, as if both somewhat regretted dragging Gakin into the conversation.
 
 Jace rubbed his brow, picked up the mana potion Erlan had set beside him, and downed a bottle. "Let's try again."
 
 "Try again?" the imp said in shock. "Have a little patience, friends!"
 
-Jace naturally ignored its words and recited the incantation once more... "Menath, kathale, shukile!"
+Jace naturally ignored its words and recited the incantation once more... "Menali, katali, shukil!"
 
 As he cast the incantation, Jace carefully sensed the changes produced between the shadow being pulled and the target imp — stirred by the incantation.
 
@@ -94,7 +96,7 @@ He understood why this incantation was so resentful, so uncompromising.
 
 When demons found mages or other prey that possessed mana, they would typically drain their mana clean in all sorts of ways, then utterly destroy that fragile empty shell — or corrupt it with fel into a demonized minion.
 
-And this incantation meant they had to ignite the resource they treited most, in order to defeat an opponent they couldn't easily control.
+And this incantation meant they had to ignite the resource they treasured most, in order to defeat an opponent they couldn't easily control.
 
 "My god." Erlan stared blankly at the pile of ash and smoke. "This is..."
 
@@ -106,15 +108,17 @@ And this incantation meant they had to ignite the resource they treited most, in
 
 Actually, it was a faerie dragon.
 
-When they were searching for Ulthalesh, that faerie dragon — half-dead after being corrupted by Ulthalesh's dark power for so long... it existed at the border of a dark dream fragment, guarding the vault of Skaraviss with no awareness whatsoever.
+When they were searching for Ulthalesh, that faerie dragon — half-dead after being corrupted by Ulthalesh's dark power for so long... it existed at the border of a dark dream fragment, guarding the vault of Scavell with no awareness whatsoever.
 
 Of course, Jace couldn't mention to Erlan even the slightest trace of anything related to Ulthalesh, so after pondering for a moment he said, "A corrupted beast influenced by demons. Only, it didn't use an incantation to wield this power — it was as if it was born able to ignite other people's mana."
 
-"Maybe the demon who invented this incantation got their inspiration from this kind of demonized beast," Erlan nodded. "Very likely," Jace said. "I'm going to copy a scroll to take back."
+"Maybe the demon who invented this incantation got their inspiration from this kind of demonized beast," Erlan nodded.
 
-"All right." Erlan organized the scroll. "Galders told me this pronunciation was transliterated from elven characters, then had his succuros Miss Senlora reverse-translate it back into the demonic incantation. The elves probably heard it from the orc warlocks who attacked Quel'Thalas."
+"Very likely," Jace said. "I'm going to copy a scroll to take back."
 
-As he spoke, he took out another scroll and handed it to Jace. "This is the original record — the demonic transliteration version recorded by the elves."
+"All right." Erlan organized the scroll. "Zardeth told me this pronunciation was transliterated from elven characters, then had his succubus Miss Senlora reverse-translate it back into the Demonic incantation. The elves probably heard it from the orc warlocks who attacked Quel'Thalas."
+
+As he spoke, he took out another scroll and handed it to Jace. "This is the original record — the Demonic transliteration recorded by the elves."
 
 "Much appreciated," Jace nodded.
 
@@ -124,6 +128,6 @@ Erlan carefully read through it once, then said, "We truly never considered plac
 
 "No problem," Jace said. "I don't know if there's still room for improvement with this incantation. I'll go back and try it out myself."
 
-"Once you have results, bring them to The Slaughtered Lamb as soon as possible," Erlan said.
+"Once you have results, bring them to the Slaughtered Lamb as soon as possible," Erlan said.
 
 "Of course," Jace said.

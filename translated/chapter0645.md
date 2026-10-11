@@ -60,7 +60,7 @@ Grede tilted his head. "Why don't you use that… that beast-summoning trick of 
 
 "Maybe I could." Vereesa gazed at the hazy, sinking sun. "But I have a feeling there are plenty of hostile creatures around here. I don't want to draw too much attention. If I actually blow my whistle, what follows the sound might not just be swamp animals — could be murlocs too…"
 
-"Or swamp beasts," Grede added, then lay down on the slab. "Then I'll leave it to you, little elf. Best if you bring back a few toads while you're at it."
+"Or bog beasts," Grede added, then lay down on the slab. "Then I'll leave it to you, little elf. Best if you bring back a few toads while you're at it."
 
 "You don't hear any toad croaking around here at all."
 
@@ -76,7 +76,7 @@ There were corpses in the swamp — that was no surprise, with the war only four
 
 It was just that Jace couldn't tell whether this was the head of a strong human soldier or a dwarf's, seeing as the ears were long gone and hair was hard to make out too.
 
-He swallowed and said, "Grede, didn't you say all the dead here had pretty much been eaten by the crocodiles?"
+He swallowed and said, "Grede, didn't you say all the dead here had pretty much been eaten by the crocolisks?"
 
 "What?" Grede called from over at the slab.
 

@@ -1,6 +1,6 @@
 ## Chapter 266: The Mass Graves
 
-The banks of the Nafeltari River had been all but stripped of their feeble green. Layer upon layer of withered, brittle branches — never mind the cold wind that blew through from time to time, the sight of it alone was enough to make a person's blood run cold.
+The banks of the Nazferiti River had been all but stripped of their feeble green. Layer upon layer of withered, brittle branches — never mind the cold wind that blew through from time to time, the sight of it alone was enough to make a person's blood run cold.
 
 Jace clutched his hood and red cap, both flapping wildly in the wind, as he studied the forest across the river. Vereesa, dressed all in pale green, glanced at him. "That hat of yours looks awfully awkward."
 
@@ -16,7 +16,7 @@ Vereesa had a point. The last time he and Grede had traveled to Duskwood, the tw
 
 More importantly, the elven woman beside him gazed at the forest across the river the way one might look at their own living room, and that put Jace considerably more at ease.
 
-The docks along the Nafeltari River were mostly for fishermen and patrolmen crossing the water; ordinary commoners and farmers rarely chose to cross to the far bank from here.
+The docks along the Nazferiti River were mostly for fishermen and patrolmen crossing the water; ordinary commoners and farmers rarely chose to cross to the far bank from here.
 
 Of course, these docks had been bustling once. Ever since the explosion at Karazhan, the place had grown much quieter.
 
@@ -32,7 +32,9 @@ After venturing deep into Duskwood, the familiar eerie feeling swept over him in
 
 "And you still said there was nothing dangerous here?"
 
-"We do have two of us this time," Vereesa said. "And you have classes to attend — I wanted to make the most of our time." Jace said, "My classes all happen to be crammed into three days, so this time I happened to be free to come out with you…"
+"We do have two of us this time," Vereesa said. "And you have classes to attend — I wanted to make the most of our time."
+
+Jace said, "My classes all happen to be crammed into three days, so this time I happened to be free to come out with you…"
 
 "Ever since we set out from Stormwind early this morning, I've been noticing a strange smell following us." Vereesa looked Jace up and down. "At first I thought it was some kind of illusion, but now…"
 
@@ -68,7 +70,7 @@ When he saw those crooked, half-collapsed brick walls, and the damaged metal fen
 
 Jace pointed to the southeast. On the game's map, that was where Abercrombie's secluded little house was located.
 
-"There are graves over there too?" Vereesa said. "When the people in Duskwood Town mentioned Raven Hill's great cemetery, I thought it was just the area inside the iron fence. I never once went to look outside — damn it."
+"There are graves over there too?" Vereesa said. "When the people in Darkshire mentioned Raven Hill's great cemetery, I thought it was just the area inside the iron fence. I never once went to look outside — damn it."
 
 Realizing she'd said something inappropriate, she lowered her brows. "Sorry."
 
@@ -97,11 +99,3 @@ After the population of Raven Hill dwindled, this massive pauper's cemetery lost
 He'd heard plenty of such stories back in Stormwind too.
 
 "Let's go ask inside Raven Hill," he said, pointing to the southwest.
-
-## Flags
-
-- Jace and Vereesa travel to Raven Hill via the Nafeltari River, cutting through Duskwood to find the necromancer Abercrombie.
-- Vereesa notices a black dragon smell on Jace — residue from being spat on by a black dragon in Southshore, which now keeps forest beasts away (a practical side effect).
-- Jace notes the mass graves outside Raven Hill Cemetery have been disturbed — likely grave robbers, not undead rising.
-- Abercrombie's house is empty; the gravediggers have all left. Jace suspects the necromancer will eventually hole up here precisely because it's so desolate.
-- Vereesa nearly lets a curse slip and apologizes; Jace jokes about the Common tongue's rich vocabulary of swearing.

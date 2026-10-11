@@ -26,7 +26,7 @@ It was only now that the arena guard who'd been tasked with watching and transpo
 
 He was a powerfully built fellow. Though he had the brown hair and strong, chiseled features typical of a Stormwind resident, his skin had turned dark red from long exposure to the elements.
 
-He addressed the passengers who were just starting to recover from the night's terror: "Next time we'll carefully check the safety measures of the flute. Actually, to be on the safe side, we'd been drugging him to keep him sedated the whole time—the storm probably made the drug wear off early. In any case, a problem like this should never have happened. I'm willing to pay half the bounty as compensation."
+He addressed the passengers who were just starting to recover from the night's terror: "Next time we'll carefully check the safety measures on the cage. Actually, to be on the safe side, we'd been drugging him to keep him sedated the whole time—the storm probably made the drug wear off early. In any case, a problem like this should never have happened. I'm willing to pay half the bounty as compensation."
 
 "Why the hell didn't you go down and catch him yourself?" the shirtless man stepped forward and demanded. "You should know better than anyone how to get that panther back under control. Even just stepping forward to offer some pointers would've been something!"
 
@@ -78,23 +78,10 @@ Just then, the argument seemed to have reached a conclusion.
 
 The captain walked up to the crowd again. He looked out over the deck—quite a few people had already returned to their cabins.
 
-"Is there a priest on board? Right now we have three or four wounded, two of them seriously injured and in need of a professional priest." The captain called out loudly. "If there's no priest, then a druid, a shaman, a witch doctor, a sage, a tide priest—anyone who can slow down death by any means. Step forward, whatever method you have. I'll pay. As long as you can keep these wounded alive until we reach Southshore!"
+"Is there a priest on board? Right now we have three or four wounded, two of them seriously injured and in need of a professional priest." The captain called out loudly. "If there's no priest, then a druid, a shaman, a witch doctor, a sage, a tidesage—anyone who can slow down death by any means. Step forward, whatever method you have. I'll pay. As long as you can keep these wounded alive until we reach Southshore!"
 
 Watching the people go up to the captain to volunteer, Grede leaned against a crate and muttered, "I had no idea there was a priest on this ship. Why didn't they step up and help earlier? You know, if I'd joined the Church of the Holy Light back in Stormwind, they could've taught me some healing tricks. I could've earned quite a few extra silver coins."
 
 "Maybe that's exactly why you didn't become a priest, Grede," Jace said.
 
 "You should become a priest, Jace," Grede sat up and said. "What you just said sounds exactly like those bald heads at the Cathedral of Light."
-
-## Flags
-
-- **笛子 (flute)** — the arena guard mentions checking "the safety measures of the flute." Unusual in this context; possibly a control device used on the panther (flute-based sedation/control). Rendered literally as "flute" but flagged as an odd term—may warrant a consistency check if it appears again.
-- **敦霍尔德竞技场 (Durnholde Arena)** — 敦霍尔德 = Durnholde (canonical keep), 布莱克摩尔 = Blackmoore (canonical, Aedelas Blackmoore). Rendered as "Durnholde Arena" / "Blackmoore's Durnholde Arena."
-- **阿拉希 (Arathi)** — here used as 阿拉希 (not 阿拉索 as in the glossary entry for the ancient kingdom). Rendered as "Arathi" (Arathi Highlands).
-- **米奈希尔港 (Menethil Harbor)** — canonical location. Rendered as "Menethil Harbor."
-- **古拉巴什金币 (Gurubashi gold coin)** — the coin Jace receives. Rendered as "Gurubashi gold coin."
-- **带翼风蛇 (winged wind serpent)** — the image stamped on the coin. Rendered as "winged wind serpent."
-- **海潮祭师 (tide priest)** — a healer type the captain calls for; not in glossary. Rendered as "tide priest."
-- **圣光教会 (Church of the Holy Light)** — Grede's remark about joining up. Rendered as "Church of the Holy Light."
-- **光明大教堂 (Cathedral of Light)** — canonical. Grede compares Jace's remark to the priests there. Rendered as "Cathedral of Light."
-- **奥特兰克 (Alterac)** — canonical mountain region. Rendered as "Alterac."

@@ -42,13 +42,13 @@ The elf arrived at their table, pushed back her hood, glanced at the demon besid
 
 "But I've never seen this sayaad before," Vereesa said. "Why didn't you introduce her to me, Jace? I think you summoned this demon a long time ago, didn't you?"
 
-"It has been a long time," Jace said. "Back then I was worried that if you thought I was a demon worshiper, you wouldn't hire me."
+"It has been a long time," Jace said. "Back then I was worried that if you thought I was a demon worshipper, you wouldn't hire me."
 
 "Your worry was justified," Vereesa said. "If I'd known back then you were running around with a sayaad, I never would have worked with you. Even with my limited magical knowledge, I know about the demonic invasion of Dalaran."
 
 As she said this, there was a clear note of barely-suppressed displeasure in her voice. Jace could feel it.
 
-"I can't go on this Kalimor trip without her, Vereesa," Jace said, lowering his voice. "You know we're going after a Highborne who might be connected to Eldre'Thalas. If Quel'Thalas knows anything about Eldre'Thalas, they should know something's gone wrong there."
+"I can't go on this Kalimdor trip without her, Vereesa," Jace said, lowering his voice. "You know we're going after a Highborne who might be connected to Eldre'Thalas. If Quel'Thalas knows anything about Eldre'Thalas, they should know something's gone wrong there."
 
 "An unknown demonic disaster," Vereesa said.
 
@@ -68,7 +68,7 @@ Jace looked at her in surprise. "All right. Anyway, Vereesa, I want this trip to
 
 The elf's lips moved. After thinking for a moment, she said, "I know that. And I'm here to assist you in completing the mission. I don't really have the standing to interfere with what methods you use to fulfill the Reliquary's commission, Jace. The Reliquary never expected you to have absolutely nothing to do with demons. They know full well what warlocks are — just like the target we're tracking. They told me all this before I came."
 
-"I'm curious — you're impersonating Aethwin Goldenthorn. Didn't anyone notice something was off?" Jace asked.
+"I'm curious — you're impersonating Aselwen Goldthorn. Didn't anyone notice something was off?" Jace asked.
 
 Vereesa said with a hint of pride, "This time I have the support of Silvermoon's Ranger-General, Jace. The Sunstriders can manage Silvermoon and Quel'Danas just fine — they really don't need to meddle in too many other people's business. It's tiresome."
 

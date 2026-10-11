@@ -30,9 +30,9 @@ The succubus following behind came up to him. "Master, you missed me!"
 
 "I know you're not cold," Jace said. "I know you don't mind the heat. Hold this for me."
 
-The succubus clutched the cloak to her face and sighed in bliss. "Happy to oblige. I love the way you master smells — your sweat."
+The succubus clutched the cloak to her face and sighed in bliss. "Happy to oblige. I love the way my master smells — your sweat."
 
-"Damn it," Sazeno muttered. "You're disgusting, Succubus. Humans are all stinking beasts."
+"Damn it," Sazeno muttered. "You're disgusting, succubus. Humans are all stinking beasts."
 
 Jace grabbed the imp by the hind legs off his shoulder and flung him to the ground. "Walk yourself."
 
@@ -76,19 +76,19 @@ A gigantic scaly dinosaur head was hanging high in the air, big enough to look l
 
 That absurd head was propped up by a comparatively slender neck, a single tiny yellow eye glancing left and right into the distance.
 
-The creature slowly lowered its jaw and exhaled again, revealing a row of white teeth of varying sizes like blades. Jace reckoned the longest ones were nearly as long as Song of Azure.
+The creature slowly lowered its jaw and exhaled again, revealing a row of white teeth of varying sizes like blades. Jace reckoned the longest ones were nearly as long as Azuresong.
 
 Its two short forelimbs flexed and gripped at the air, then the beast turned and took a few steps away into the distance.
 
 To Jace's astonishment, given its size, the sound its feet made was unbelievably faint. He also noticed how carefully it lifted and placed each of its feet — those colossal legs and that enormous clawed foot rising gingerly and setting down softly.
 
-This wasn't a raptor. Compared to a raptor, it was simply too massive. Jace made a rough estimate: the creature had to be at least six or seven meters tall, and with its long, straight-held tail it was easily fifteen or six meters in length.
+This wasn't a raptor. Compared to a raptor, it was simply too massive. Jace made a rough estimate: the creature had to be at least six or seven meters tall, and with its long, straight-held tail it was easily fifteen or sixteen meters in length.
 
 And the tall bony spikes rising from its back made its identity unmistakable — a devilsaur.
 
-Stranglethern Vale actually... had a *devilsaur*?!
+Stranglethorn Vale actually... had a *devilsaur*?!
 
-Devilsaurs were colossal creatures that lived in isolated rainforests. In the game, they existed in the rainforests of another continent — Kalimor. Stranglethorn Vale didn't have them.
+Devilsaurs were colossal creatures that lived in isolated rainforests. In the game, they existed in the rainforests of another continent — Kalimdor. Stranglethorn Vale didn't have them.
 
 Jace didn't know why there was a devilsaur here. Perhaps this had always been its habitat, and it had only gone extinct by the time the Horde arrived in the game due to overhunting — or perhaps there was some other reason.
 
@@ -100,14 +100,6 @@ His nerves stayed wound tight until he heard a thunderous footstep that made the
 
 Then he found a fat, bloated, monstrous bug latched onto his leg, its belly swollen with blood.
 
-His scalp went wide with revulsion and his eyes bulged involuntarily. The succubus immediately materialized and clapped a hand over his mouth.
+His scalp crawled with revulsion and his eyes bulged involuntarily. The succubus immediately materialized and clapped a hand over his mouth.
 
 The imp hopped onto his leg, conjured a flame on his finger, and seared the bug. The creature shrieked and burrowed into the dirt, its rear spraying a viscous mixture of red blood and strange yellow pus.
-
-## Flags
-
-- **Chapter title**: 雨林 — "Rainforest."
-- **Key terms**: 莫洛菲尔 = Morophil (succubus OC, Jace's demon); 撒厄诺 = Sazeno (imp OC, Jace's demon); 萨亚德 = Succubus (the imp uses it as an insult, lit. the demon race); 魅魔 = Succubus; 小鬼 = Imp; 滋补药剂 = Restorative Potion; 魔暴龙 = Devilsaur (canon WoW creature); 碧空之歌 = Song of Azure (Jace's sword, canon WoW weapon); 灵魂链接 = Soul Link (warlock spell, referenced in Ch 329).
-- **Lore note**: Jace is surprised to find a devilsaur in Stranglethorn Vale, since in-game they're native to Kalimor (Un'Goro Crater, Sholazar Basin). He rationalizes it as either a habitat later wiped out by Horde overhunting or some other divergence — consistent with his "game knowledge vs. reality" tension.
-- **Pronoun note**: The succubus is female-presenting; referred to with she/her per the original.
-- **Source**: lines 20035–20087.

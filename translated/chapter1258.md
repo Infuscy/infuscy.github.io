@@ -44,7 +44,9 @@ Before any of them could make out what they were seeing, the gate had already sl
 
 The ogre who'd shouted the order and the one who'd pulled the gate fled the passage in terror, whimpering and muttering as they ran, paying no heed to anything vaguely suspicious around them. That left only Jace's group standing there.
 
-When the cave fell quiet, the crunch of bones being mercilessly ground apart echoed from within. "We could wait here… and go in the next time he's fed," Grede said carefully.
+When the cave fell quiet, the crunch of bones being mercilessly ground apart echoed from within.
+
+"We could wait here… and go in the next time he's fed," Grede said carefully.
 
 "That was my thought too." Jorin exchanged a few words with the hunter beside him. Sola nodded, and Vereesa gave an "mm."
 
@@ -58,7 +60,7 @@ Could Vereesa's arrows pierce a clefthoof's skull? Could they pierce a gronn's r
 
 "I think perhaps we should attack when he comes out to forage," Jace said. "Fighting a giant like that inside this cave, we'd be at a severe disadvantage."
 
-"But since the Great Cataclysm, Durn has never once gone outside, Jace Sesso," Jorin said. "As long as the ogres of Nagrand still see him as their leader, as long as the Boulderfist ogres keep feeding him like this… he won't go hungry and wander out. I believe in our strength. Durn can't beat us."
+"But since the great cataclysm, Durn has never once gone outside, Jace Sesso," Jorin said. "As long as the ogres of Nagrand still see him as their leader, as long as the Boulderfist ogres keep feeding him like this… he won't go hungry and wander out. I believe in our strength. Durn can't beat us."
 
 Jace believed it too. But afterward they still had to infiltrate Highmaul, and might have to fight who-knew-what sort of Burning Legion demons. Being injured here would put them at a serious disadvantage. He had to aim for a victory with as little damage as possible.
 
@@ -78,16 +80,20 @@ Sola nodded. "His father styles himself the Dragonkiller. All gronn take pride i
 
 "Then let's find him a dragon to hunt," Sola said.
 
-"There are no dragons in Nagrand, Mage," Jorin said. "Unless we go near Auchindoun…" Sola hadn't said "black dragon" — she'd said "dragon." Jace understood almost immediately what she was getting at. "You mean…" Jace murmured. "You're going to…"
+"There are no dragons in Nagrand, Mage," Jorin said. "Unless we go near Auchindoun…"
+
+Sola hadn't said "black dragon" — she'd said "dragon." Jace understood almost immediately what she was getting at.
+
+"You mean…" Jace murmured. "You're going to…"
 
 "Yes. Let's see for ourselves just how the son of the Dragonkiller goes about his dragon-slaying." A rare flicker of challenge showed on Sola's face. The blue eyes mimicking a high elf's gleam even betrayed a hint of reptilian, yellowish serpent's hue, which in the pitch-black cave was rather fearsome.
 
 "What do you mean?" Jorin looked around at the group in confusion.
 
-"You'll know when we come out, Jorin Death-eye," Sola said softly.
+"You'll know when we come out, Jorin Deadeye," Sola said softly.
 
 That's right — even the soldiers of the Expedition didn't recognize a green dragon. To ogres and gronn, there was even less chance of telling the difference between a green dragon and a black dragon, neither of which they'd ever seen.
 
-Jace knew that ever since Sola had heard Gruul's name at the Wildhammer stronghold, she'd nursed a long-simmering resentment toward this clan of gronn. Kind and gentle as her nature was, she was a true dragon, and the arrogance buried in her bones wasn't much less than an Eredar's.
+Jace knew that ever since Sola had heard Gruul's name at the Wildhammer Stronghold, she'd nursed a long-simmering resentment toward this clan of gronn. Kind and gentle as her nature was, she was a true dragon, and the arrogance buried in her bones wasn't much less than an eredar's.
 
 One who commanded nature magic wouldn't even call herself a druid — because in the green dragons' eyes, druids were students of the Dream, while the green dragons were part of the Emerald Dream itself. The two could not be mentioned in the same breath.

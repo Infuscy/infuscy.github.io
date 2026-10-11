@@ -4,23 +4,23 @@ The dragon soared high above, and once they left Hellfire Peninsula behind, the 
 
 Amidst the rustling chirps of insects that rose and fell, Jace lowered the map in his hand and looked out past the distant mountains to the west. The deep ink-blue revealed nothing clearly, but he knew it was the direction of the Zangar Sea.
 
-"I hear there are draenei villages built on the shores of the Zangar Sea," Jace called out. "Since many of your kin live in Blade's Edge Mountains, have you ever ventured deep into the Zangar Sea to have a look?"
+"I hear there are draenei villages built on the shores of the Zangar Sea," Jace called out. "Since many of your kin live in the Blade's Edge Mountains, have you ever ventured deep into the Zangar Sea to have a look?"
 
 Sabellian flapped his massive wings twice, leveling his flight speed slightly. "Are you sure those coastal villages could survive the orcs' hunting parties?" he said. "All I know is that there are many mushroom-islands out on the sea, and some draenei live on them. They figured orcs aren't good sailors, so some fled out to sea to avoid conflict with them. I saw this myself in Honor Hold — intelligence your expedition's rangers collected."
 
 "So just how long did you stay in Honor Hold?" Jace asked.
 
-"Long enough for several of Lady Alleria Windrunner's subordinates to fall madly in love with me, Jace Sesso." Sabellian said with considerable pride. "I guarantee you, if they hadn't died in Draenor's destruction and were still alive today, they'd still be pining over the unforgettable dreams that the charming Baron Sabermane gave them."
+"Long enough for several of Lady Alleria Windrunner's subordinates to fall madly in love with me, Jace Sesso." Sabellian said with considerable pride. "I guarantee you, if they hadn't died in Draenor's destruction and were still alive today, they'd still be pining over the unforgettable dreams that the charming Baron Sablemane gave them."
 
 "Those dreams were far more exquisite than anything Queen Ysera could offer — what's the point of some flowers and grass you can barely make out even with your eyes wide open? I brought them pleasures they could never experience in centuries of dull existence..."
 
-"I'm not interested in your romantic history with elves, Baron Sabermane," Jace said.
+"I'm not interested in your romantic history with elves, Baron Sablemane," Jace said.
 
-"You're sitting on my back right now," the black dragon muttered, turning his massive head sideways. "So listen up and shut up, or don't blame me if I force you to learn how to take flight using Orastrasz's hide in thirty seconds."
+"You're sitting on my back right now," the black dragon muttered, turning his massive head sideways. "So listen up and shut up, or don't blame me if I force you to learn how to take flight using Olastrasz's hide in thirty seconds."
 
 Jace glanced downward. "Alright, alright. I just want to know if you can take me to those islands in the Zangar Sea to find those draenei."
 
-"It would take two more days to fly west from here to the Zangar Sea," Sabellian said with a hint of irritation. "And then search for a few mushrooms across the Zangar Sea, which is vaster than Nagrand? Are you sure? Do you want to go to Blade's Edge Mountains to the north, or the Zangar Sea?"
+"It would take two more days to fly west from here to the Zangar Sea," Sabellian said with a hint of irritation. "And then search for a few mushrooms across the Zangar Sea, which is vaster than Nagrand? Are you sure? Do you want to go to the Blade's Edge Mountains to the north, or the Zangar Sea?"
 
 "Sorry, forget I said that," Jace said. "Let's focus on our current goal."
 
@@ -36,7 +36,7 @@ The Black Dragon Prince showed no fear of the dark lightning churning beneath th
 
 The further north they went, the more aggressive the rock "waves" thrown up by void energy became. The "tips" of those waves gradually turned into terrifying spikes, even slightly curved blades.
 
-Every time Sabellian swooped past one of those towering spikes, Jace felt his scalp tingle, always expecting that a slight acceleration would send him crashing into one and piercing straight through his body.
+Every time Sabellian swooped past one of those towering spikes, Jace felt his scalp prickle, always expecting that a slight acceleration would send him crashing into one and piercing straight through his body.
 
 After flying for just under two or three days, these blades and spikes filled the entire horizon. Sabellian climbed higher and higher, and they had reached Blade's Edge Mountains.
 
@@ -48,7 +48,7 @@ Even if there were slight differences across languages, they all roughly meant "
 
 But when he saw with his own eyes the mountain rocks that jutted out like dense blades from a tight formation, all pointing diagonally at the dim sky, he couldn't easily find another word to describe it.
 
-The dust of Blade's Edge Mountains was swept everywhere by the fel winds of the Twisting Nether. Before long, the black dragon carried Jace into an endless dark yellow haze.
+The dust of the Blade's Edge Mountains was swept everywhere by the fel winds of the Twisting Nether. Before long, the black dragon carried Jace into an endless dark yellow haze.
 
 Jace hugged one of the thick, sturdy horns on Sabellian's neck tightly, glancing at the map the expedition had given him — which nearly got sucked into the void, forcing him to stuff it back into his bag.
 
@@ -62,7 +62,7 @@ Jace hugged one of the thick, sturdy horns on Sabellian's neck tightly, glancing
 
 Jace smiled. "Right back at you, Prince Sabellian."
 
-"Anyway, are we in Blade's Edge Mountains now?"
+"Anyway, are we in the Blade's Edge Mountains now?"
 
 "Yes," Sabellian said. "This was once Gorgrond. A bit further north and we'll enter the gronn's territory."
 
@@ -82,7 +82,7 @@ He carefully descended between the brown stone spikes, finally landing on a rela
 
 Compared to Hellfire Peninsula, Blade's Edge Mountains still had some signs of life — shrubs and weeds everywhere, and glimpses of forests at the lower parts of the cliffs.
 
-This was the homeland of the Thunderlord clan. Bazun's homeland.
+This was the homeland of the Thunderlord clan. Bazuen's homeland.
 
 Jace climbed down from the dragon's back and pulled out the stone carved with shamanic runes that he'd been carrying in his bag.
 

@@ -1,6 +1,6 @@
 ## Chapter 11: Two Young Men
 
-Jace couldn't find Grede at the dwarf's rented room that evening, so he headed to the Pig and Whistle Inn over in Old Town.
+Jace couldn't find Grede at the dwarf's rented room that evening, so he headed to the Pig and Whistle Tavern over in Old Town.
 
 He knew Grede drank here often — and not just Grede. Plenty of Dark Portal War veterans, plus immigrants who'd come to Stormwind from all over the world, favored this place.
 
@@ -14,7 +14,7 @@ Grede was still staring into his empty tankard, his expression grave and solemn,
 
 Jace leaned in. "Grede, I need to talk to you about something."
 
-"Talk away, talk away." Grede belched, loud enough to make you wonder if there was a half-dead whelp living in his gut. A couple of lads and lads at the next table, who'd been laughing it up a moment ago, suddenly lowered their voices and kept sneaking glances over.
+"Talk away, talk away." Grede belched, loud enough to make you wonder if there was a half-dead whelp living in his gut. A couple of lads and lasses at the next table, who'd been laughing it up a moment ago, suddenly lowered their voices and kept sneaking glances over.
 
 Jace frowned and sat down a little further away.
 
@@ -76,7 +76,7 @@ Jace stared helplessly at the dwarf, who was barely managing to keep his eyes op
 
 "That's fair. But I'm not old."
 
-"Right, young man. Once we're out there, the two of us'll work together. I'll find the herbs, and we'll deal with any trouble that comes our way. Well — mainly you, of course. A former Gryphon Rider like you's got plenty of clout. When we sell the herbs, we split it seventy-thirty. How about that — seventy for you, thirty for me."
+"Right, young man. Once we're out there, the two of us'll work together. I'll find the herbs, and we'll deal with any trouble that comes our way. Well — mainly you, of course. A former gryphon rider like you's got plenty of clout. When we sell the herbs, we split it seventy-thirty. How about that — seventy for you, thirty for me."
 
 "That doesn't seem right." Grede was barely holding back a grin, looking sheepish. "When it comes to herbs, you know more, and you've got the buyer lined up. You'd give me the bigger cut? Let's just go fifty-fifty."
 
@@ -102,7 +102,7 @@ The dwarf asked, "Evil Claws — you mean the claws of those cursed beasts wreat
 
 Jace said, "If we want Grave Moss, that's the only place to find it. We go fast, don't waste time on the road — if we're lucky, four or five days is enough. Don't forget I've still got to get back and work for my mage boss. He's out on business, might be back within the week. I need to report in when he returns. I won't be gone long."
 
-"So the question is — do we go through Redridge to Lakeshire, or take the western route to Raven Hill? What a pain. Why can't we just cut straight across Elwynn Forest and the Nefiri River to Raven Hill?"
+"So the question is — do we go through Redridge to Lakeshire, or take the western route to Raven Hill? What a pain. Why can't we just cut straight across Elwynn Forest and the Nazferiti River to Raven Hill?"
 
 The dwarf traced an arc in the air. "Unless you can fly across."
 
@@ -145,14 +145,3 @@ Jace watched Grede clench his fists, as if suppressing a tremor in his wrists.
 "You call that young? I… you…"
 
 "You what, I what? Don't measure us by your human years. Muradin of Ironforge was over two hundred and he still fought at the Battle of Blackrock Mountain — and I'd say he was in his prime. Those Bronzebeards can't do anything except live forever. Course, we're not bad ourselves."
-
-## Flags
-
-- **Chapter numbering mismatch:** Task says "Chapter 10 starts at line 897," but line 897 is actually 第11章 (Chapter 11) in the source. Followed task's numbering (output chapter010.md = source 第11章) per locked spec. Flagged for verification.
-- **纳菲瑞提河 (Nefiri River):** Not in glossary. Transliterated as "Nefiri River" — appears to be the author's name for the river running through Elwynn/Duskwood. No official WoW equivalent confirmed.
-- **格兰镇 (Gelande):** Not in glossary. Transliterated as "Gelande" — appears to be a town near Raven Hill/Lakeshire. Possibly the author's rendering of Lakeshire or an original location.
-- **西泉要塞 = Westfall Keep:** Glossary lists 西泉要塞 as "Westfall Keep," but the text context (western route to Raven Hill) suggests this may be a different location from the canon Westfall Keep. Kept glossary term.
-- **"opening chant" (定场诗):** Chinese opera term. Rendered as "opening chant" to preserve the humor of Grede drunkenly reciting a boastful poem. The poem itself is a loose, humorous dwarf-style drinking boast — rendered for tone and rhythm rather than literal meaning.
-- **"retirement club" (中老年人俱乐部):** Jace's sarcastic label for the Fighters Guild. Kept the humor.
-- **Fighters Guild (战士公会):** Not in glossary. Rendered as "Fighters Guild" — a common WoW-fighter guild term.
-- **"Gryphon Rider" (狮鹫骑士):** Glossary has "狮鹫骑士 = Gryphon Rider." Used here as "former Gryphon Rider" referring to Grede's past.

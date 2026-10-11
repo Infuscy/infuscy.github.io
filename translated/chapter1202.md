@@ -1,10 +1,10 @@
 ## Chapter 1202: Facing His Own Work Head-On
 
-Kallrez's presence made Ilgalar Tower look to Jace as though the entire structure had been warped by dark magic.
+Kallrez's presence made the Tower of Ilgalar look to Jace as though the entire structure had been warped by dark magic.
 
-When he stood on the open ground outside and peered at the tower through Detect Demon sight, the tower itself was already saturated with Kallrez's powerful demonic energy. Only the sustaining power of the Taralfsin Crystal kept it from belching fel fire out of its windows like a tower ablaze.
+When he stood on the open ground outside and peered at the tower through Sense Demons sight, the tower itself was already saturated with Kallrez's powerful demonic energy. Only the sustaining power of the Taralfsin Crystal kept it from belching fel fire out of its windows like a tower ablaze.
 
-Over the following days, Jace kept a close watch on how Ilgalar Tower and the doom lord coexisted, making sure the power wouldn't leak out and affect the entire forest.
+Over the following days, Jace kept a close watch on how the Tower of Ilgalar and the doom lord coexisted, making sure the power wouldn't leak out and affect the entire forest.
 
 Entering through the tower's main gate, the first thing that greeted you was the doom lord's two black hooves, guarded by heavy fel-iron shackles.
 
@@ -24,21 +24,21 @@ When Jace walked in, they'd let out a series of dull "thump-thump-thump" sounds 
 
 Morophil was perched on a railing up above, gazing down below. Noticing Jace looking at her, Morophil smiled and blinked her right eye. Jace nodded back in acknowledgment.
 
-And just like that, Ilgalar Tower was essentially ready.
+And just like that, the Tower of Ilgalar was essentially ready.
 
 If the Blackrock orcs or the black dragons really did try to attack Stonewatch this time, forcing a "return" to another timeline…
 
-Honestly, with Ilgalar Tower now drawing on the dual mana of a doom lord and a ley line nexus, both forces stabilized and sustained by the Taralfsin Crystal, Jace wouldn't have been the least bit intimidated even if Prince Nefarian himself had flown here in a couple of days.
+Honestly, with the Tower of Ilgalar now drawing on the dual mana of a doom lord and a ley line nexus, both forces stabilized and sustained by the Taralfsin Crystal, Jace wouldn't have been the least bit intimidated even if Prince Nefarian himself had flown here in a couple of days.
 
-Let alone the fact that he was wielding Ursales. The staff, wrapped in enchanted cloth, was the only magical object in the tower that had gone largely unaffected by the Taralfsin Crystal. Jace could tell it had no intention of letting anything other than its master touch its soul power — whether person or tower. Naturally, Jace wasn't surprised in the least.
+Let alone the fact that he was wielding Ulthalesh. The staff, wrapped in enchanted cloth, was the only magical object in the tower that had gone largely unaffected by the Taralfsin Crystal. Jace could tell it had no intention of letting anything other than its master touch its soul power — whether person or tower. Naturally, Jace wasn't surprised in the least.
 
-But even though the crystal was essentially powerless against Ursales, its strength still exceeded expectations.
+But even though the crystal was essentially powerless against Ulthalesh, its strength still exceeded expectations.
 
 Afterward, it maintained a harmonious coexistence between the ley lines, the demons, and the mage tower — neither letting the forces violently devour and repel each other, nor letting them rapidly leak outward, and without any sign of strain.
 
 Without that crystal, Jace would have had to expend God-knows-how-many times more energy just to maintain the health of the Stonewatch forest.
 
-After all, the places Kallrez had previously inhabited were either scorched ravines already destroyed by elemental flames and the dark magic of storm altars, or gloomy valleys scoured by Karazhan's shadow storms.
+After all, the places Kallrez had previously inhabited were either scorched ravines already destroyed by elemental flames and the dark magic of an Altar of Storms, or gloomy valleys scoured by Karazhan's shadow storms.
 
 The fel energy radiating from this big demon wouldn't cause much further damage to places that were already beyond saving.
 
@@ -48,7 +48,7 @@ All that was left was to wait for Sola to return and bless the wood used to buil
 
 After Kallrez was successfully summoned, Grede returned to Stormwind a few days later. After all, he'd come here just in case something went wrong with the summoning ritual.
 
-Although Wildhammer dwarves were mocked by other dwarves as "mountain savages," and Grede himself wasn't particularly fond of crowds, his dislike of crowds was relative to other dwarves. And Ilgalar Tower was just way too uncrowded. Besides, the ale Stonewatch brought in didn't have much variety and didn't taste great either. In his own words, Stormwind's wasn't anything special either, but it was still a few times better than the swill here.
+Although Wildhammer dwarves were mocked by other dwarves as "mountain savages," and Grede himself wasn't particularly fond of crowds, his dislike of crowds was relative to other dwarves. And the Tower of Ilgalar was just way too uncrowded. Besides, the ale Stonewatch brought in didn't have much variety and didn't taste great either. In his own words, Stormwind's wasn't anything special either, but it was still a few times better than the swill here.
 
 Of course, even though he'd left with those excuses, Jace figured the real reason he'd fled was…
 
@@ -80,7 +80,7 @@ Before she even touched down, Amy had already leaped off her neck and climbed al
 
 Seemed people in every world had the same twisted sense of humor. Jace said offhandedly, "Good news first."
 
-"It's done," Amy said in a low voice. "That Kul Tiras princess of ours fits Dalaran and the Kirin Tor's consistent impression of her from every angle — meaning she's terrifyingly capable to the point of being abnormal. Can you believe it? She only took five days to completely crack that arcanist problem I had no idea how to even approach."
+"It's done," Amy said in a low voice. "That Kul Tiras princess of ours fits Dalaran and the Kirin Tor's consistent impression of her from every angle — meaning she's terrifyingly capable to the point of being abnormal. Can you believe it? She only took five days to completely crack that arcane problem I had no idea how to even approach."
 
 Jace had actually guessed the results would be decent from Amy's elated mood. Considering the risks that might come from this trip to Dalaran and the whole Jaina connection, he couldn't help but breathe a sigh of relief.
 

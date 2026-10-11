@@ -18,7 +18,9 @@ The crowd of onlookers dispersed one by one, but Jace stayed rooted where he was
 
 "The ones in the Hinterlands are smaller. This is an Alterac mountain gryphon — there aren't as many of them as the Hinterlands breed," Grede said, shaking his head in awe. "I don't see that kind often either. It really is a magnificent beast."
 
-"When we get to the Hinterlands, you can stare your fill, Jace," Grede said. "Let's get back to the depot — I told you it was crowded. We might not get a spot." Jace nodded and followed Grede back, but his mind stayed fixed on that white monster.
+"When we get to the Hinterlands, you can stare your fill, Jace," Grede said. "Let's get back to the depot — I told you it was crowded. We might not get a spot."
+
+Jace nodded and followed Grede back, but his mind stayed fixed on that white monster.
 
 At some point, a man in a heavy coat had fallen into step beside them. He wore glasses and clutched an old book to his chest. The moment he caught up he asked, "Gentlemen, have you just come off that goblin merchant ship? Any cargo you need shipped to Stratholme?"
 
@@ -58,7 +60,7 @@ Strictly speaking, it wasn't completely hopeless.
 
 They could take a ship — Jace had looked into the route before. In theory, going from Southshore by sea to Dalaran and the capital was perfectly doable.
 
-It would just take another month to sail around the Gilneas peninsula, follow the coast of Silverpine Forest to the Alveras River in the south of Tirisfal, and go upstream to Lordamere Port on Lake Lordamere.
+It would just take another month to sail around the Gilneas peninsula, follow the coast of Silverpine Forest to the Arevass River in the south of Tirisfal, and go upstream to Lordamere Port on Lordamere Lake.
 
 The whole journey would take less than two months, and as a bonus they'd get to tour the entire coastline of the Kingdom of Gilneas.
 
@@ -74,7 +76,7 @@ Jace rubbed his eyelids and let out a weary sigh.
 
 "What if they still won't let traffic through the day after tomorrow?"
 
-"Then we walk," Grede said. "Across Alterac Pass. I did the math — if we hike over and head down the other side to Dalaran, it's about six days. Push it a little and we can make it to that gathering just in time. After that, we head to the Lordaeron capital. They can't be sealing the Lake Lordamere ferries too — orcs aren't going to build a dock out there and start robbing people. Once you've seen your parents, we can head to the Hinterlands a few days late, no big deal."
+"Then we walk," Grede said. "Across Alterac Pass. I did the math — if we hike over and head down the other side to Dalaran, it's about six days. Push it a little and we can make it to that gathering just in time. After that, we head to the Lordaeron capital. They can't be sealing the Lordamere Lake ferries too — orcs aren't going to build a dock out there and start robbing people. Once you've seen your parents, we can head to the Hinterlands a few days late, no big deal."
 
 Jace looked north. Beyond the stretches of pine forest, he could just make out the faint blue shimmer of snow-capped mountains at the edge of his vision.
 
@@ -85,14 +87,3 @@ Grede shot him a look. "There's nothing we can do about it right now. How about 
 "Fine." Jace stood up, chewing over Grede's words — something about that didn't quite sit right. "And how exactly is that not wasting money…"
 
 "What if we spend our last copper and then the two of us get killed by orcs the day after tomorrow?" The dwarf drew a knife-hand across his own neck. "That'd be a waste."
-
-## Flags
-
-- **奥特兰克山谷** = Alterac Pass: glossary has 奥特兰克山脉 = Alterac Mountains, but the Chinese here says 山谷 (valley). The canonical WoW location for the road through the mountains is Alterac Pass, so I used "Alterac Pass" rather than literal "Alterac Valley" (which is the battleground name). Flagging the deliberate choice.
-- **银松森林** = Silverpine Forest: not in glossary. Canonical WoW region.
-- **阿里瓦斯河** = Alveras River: not in glossary (glossary has 纳菲瑞提河 = River Neltharion/Nafeltari River). Tentative; this appears to be the fic's name for the Silverpine river. TODO: verify canonical name.
-- **洛丹米尔港** = Lordamere Port: not in glossary (has 洛丹米尔湖 = Lake Lordamere). Derived from the lake name.
-- **达隆米尔** = Darrowmere: not in glossary. Known WoW location in northern Lordaeron.
-- **暗夜精灵** = Night Elf: glossary has 卡多雷 = Kaldorei but does not list 暗夜精灵 explicitly. Used the standard WoW English term "night elf" (Kaldorei is their own name for themselves).
-- **兽人头子** = orc chieftain: the middleman's vague term; Jace presses for whether it's Orgrim Doomhammer. Kept the ambiguity of the original.
-- **奥格瑞姆·毁灭之锤** = Orgrim Doomhammer: in glossary.

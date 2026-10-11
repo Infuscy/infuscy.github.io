@@ -1,12 +1,12 @@
 ## Chapter 1203: Parents and Friends
 
-Amy was always meticulous and conscientious about her work and duties. After settling into Ilgalar Tower, she threw herself into repairing the teleportation coordinates. From morning till night she sat in that corner of the library, guiding the magic of the two teleportation coordinates, chanting incantations, making tiny adjustments over and over again… Her level of focus made Jace feel genuinely ashamed of himself.
+Amy was always meticulous and conscientious about her work and duties. After settling into the Tower of Ilgalar, she threw herself into repairing the teleportation coordinates. From morning till night she sat in that corner of the library, guiding the magic of the two teleportation coordinates, chanting incantations, making tiny adjustments over and over again… Her level of focus made Jace feel genuinely ashamed of himself.
 
 At first she was a little unsettled by the occasional demon horn jutting out from the railing nearby, or a patch of brownish-yellow fel wing shadow passing by. But she quickly adapted to every demon presence in the tower — including the imps and the succubus who spied on her from above from time to time.
 
 With nothing else to do in the tower over the next few days, the second morning Jace put on his cloak and said to Morophil, "I'm heading back to Stormwind for a bit. Help me look after this tower. Keep those demons in check — they'll listen to you while I'm gone."
 
-"Absolutely not!" Sazeno jumped down from the bookshelf. "I will never listen to a Nathrezim!"
+"Absolutely not!" Sazeno jumped down from the bookshelf. "I will never listen to a sayaad!"
 
 "He was clearly talking about the two felhounds," Morophil said, giving him a sidelong look. "You don't even count as a demon. Nobody cares whose orders you plan to follow."
 
@@ -20,9 +20,9 @@ The little imp stared at Jace blankly. Morophil pressed a hand to her chest. "It
 
 Maybe it was because he'd had so much free time lately, but this succubus had been seizing many more chances to drain his mana. Jace had the feeling she'd grown a bit taller, her horns longer and sharper too.
 
-Compared to before — even compared to when he'd drawn her runes — her whole figure had become much more aggressive. Although Morophil's attitude toward him had softened a lot compared to the past, it only made him think more and more of that hunched, monstrous dragon-like form he'd seen through the Soul Mirror before.
+Compared to before — even compared to when he'd drawn her runes — her whole figure had become much more aggressive. Although Morophil's attitude toward him had softened a lot compared to the past, it only made him think more and more of that hunched, monstrous dragon-like form he'd seen through the mirror stone before.
 
-Of course, if she didn't have that terrifying power and appearance, she probably wouldn't have been able to serve as a lieutenant under a overlord like Brutallus. Jace had prepared himself for that possibility.
+Of course, if she didn't have that terrifying power and appearance, she probably wouldn't have been able to serve as a lieutenant under an overlord like Brutallus. Jace had prepared himself for that possibility.
 
 Jace walked down the stairs to the library, where the young mage was still hard at work. "Morning, Amy."
 
@@ -76,28 +76,28 @@ Jace went to his parents' place for dinner. Of course, the more important reason
 
 His parents hadn't lived in this house for long, but it was already brimming with the warmth of everyday life. And it had the distinct look of a Lordaeron commoner's home — the decorations and furnishings were a touch more traditional and proper, quite different from the simple, plain style of housing common in Stormwind.
 
-At the moment his mother was busy in the kitchen. Vik was proudly telling Jace how he'd gone hunting bloodfang boar in the forest with a bunch of fighter guild men.
+At the moment his mother was busy in the kitchen. Vic was proudly telling Jace how he'd gone hunting goretusk in the forest with a bunch of Fighters Guild men.
 
 Jace was right in the middle of organizing his thoughts, trying to figure out how to tell them he was going to Draenor, when he heard this and immediately glared.
 
-"Hold on — fighter guild?"
+"Hold on — the Fighters Guild?"
 
-"That's right," Vik said. "That Thunderfist of yours mentioned there was a fighter guild in Old Town, so I went and asked about it."
+"That's right," Vic said. "That Thunderfist of yours mentioned there was a Fighters Guild in Old Town, so I went and asked about it."
 
-"That Grede…" Jace muttered, displeased. "We took jobs from the fighter guild to save up for a house. What are you doing going there?"
+"That Grede…" Jace muttered, displeased. "We took jobs from the Fighters Guild to save up for a house. What are you doing going there?"
 
-"The fighter guild isn't just mercenaries," Vik waved a hand. "Don't worry, Jace, I'm not going to do mercenary work there. I'm old as hell — just getting up on a horse takes effort. I just want to find some hunting companions. Can't leave behind the skills I learned in Tirisfal just because I moved to Stormwind."
+"The Fighters Guild isn't just mercenaries," Vic waved a hand. "Don't worry, Jace, I'm not going to do mercenary work there. I'm old as hell — just getting up on a horse takes effort. I just want to find some hunting companions. Can't leave behind the skills I learned in Tirisfal just because I moved to Stormwind."
 
 Jace wasn't about to doubt his father's hunting skills. And he knew there was no way to talk him out of it. Besides, Tirisfal still had orcs roaming around to this day — way more dangerous than Elwynn. If this could earn a little money and kill some time, so be it.
 
 "Fine," Jace said. "I'll be heading out on a long trip in a little while too."
 
-"Where?" Vik looked up. "Overseas?"
+"Where?" Vic looked up. "Overseas?"
 
-"I can't go into detail about that," Jace said, touching the court mage ring on his finger. "All I can say is it concerns the Alliance."
+"I can't go into detail about that," Jace said, touching the Court Mage's Signet on his finger. "All I can say is it concerns the Alliance."
 
-Vik nodded and didn't press further. Just then his mother brought out a plate of stewed wild boar offal. Hearing Jace's words, her eyes clearly showed worry, but she didn't ask anything.
+Vic nodded and didn't press further. Just then his mother brought out a plate of stewed wild boar offal. Hearing Jace's words, her eyes clearly showed worry, but she didn't ask anything.
 
-"I understand," Vik said. "Wherever you go, be careful, Jace. I know you want to protect this city, to keep us safe. But remember — your mother and I, and your friends, feel the same way about you. None of us wants anything to happen to you."
+"I understand," Vic said. "Wherever you go, be careful, Jace. I know you want to protect this city, to keep us safe. But remember — your mother and I, and your friends, feel the same way about you. None of us wants anything to happen to you."
 
 Jace grunted in acknowledgment and stuffed a piece of meat into his mouth.

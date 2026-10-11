@@ -1,6 +1,6 @@
 ## Chapter 773: Not Like a First-Timer
 
-Jace had never set foot in this part of the Dwarf District. To ordinary Stormwind citizens, it was practically a little Ironforge — a dwarf district within the Dwarf District. Not just him: most humans wouldn't dare come here at all, because many of the dwarves in this neighborhood barely spoke Common and lived by their own set of rules.
+Jace had never set foot in this part of the Dwarven District. To ordinary Stormwind citizens, it was practically a little Ironforge — a dwarf district within the Dwarven District. Not just him: most humans wouldn't dare come here at all, because many of the dwarves in this neighborhood barely spoke Common and lived by their own set of rules.
 
 Standing at the intersection, he looked toward a wide opening carved into the rock, piled high with supply crates and building materials, where teams of dwarves and gnomes streamed in and out. Even without a sign, Jace could tell that was the tram entrance.
 
@@ -36,7 +36,7 @@ The Dark Iron dwarves very likely held the key to the black dragons' secrets —
 
 "Jace Sesso — he's Jace Sesso!"
 
-"You're Jace Sesso?!" The senior supervisor lifted his screwdriver and pointed it at Jace, eyes wide. "Stay away from the tram, you magical bomb! Get out of here! Don't even think about casting anything — did the Trade Cartel pay you to come sabotage this place?!"
+"You're Jace Sesso?!" The senior supervisor lifted his screwdriver and pointed it at Jace, eyes wide. "Stay away from the tram, you magical bomb! Get out of here! Don't even think about casting anything — did the Steamwheedle Cartel pay you to come sabotage this place?!"
 
 Jace instinctively raised his hands. "I don't have the power to damage this tram, sir…"
 
@@ -70,24 +70,8 @@ A tram was docked there at the moment. Calling it a "carriage" was generous — 
 
 "You'll ride this one to Ironforge, Jace Sesso." The supervisor pointed to one of the platforms, glanced at his pocket watch, and said, "Get on now — it leaves in less than half an hour. Miss it and you'll have to wait until evening!"
 
-"Understood." Jace walked over and hopped onto the platform. He eyed the gap between the platform and the train, and had the distinct feeling someone was going to fall in and get their waist — or their legs — snapped in two.
+"Understood." Jace walked over and hopped onto the platform. He eyed the gap between the platform and the train, and had the distinct feeling someone was going to fall in and get their back — or their legs — snapped in two.
 
 He gripped a metal pillar and checked the distance to the nearby secured cargo crates. The supervisor squinted at him. "Feels like this isn't your first time riding our tram, Mr. Sesso."
 
 "It really is my first time," Jace said with an awkward smile, glancing down into the pit beneath the platform. "I'm just a little worried about falling."
-
-## Flags
-
-- **矮人区** → the Dwarf District (canonical Stormwind district).
-- **地铁 / 矿道地铁** → the tram / the Deeprun Tram (canonical).
-- **埃尔比格** → Elbig (gnome tram supervisor).
-- **格瑞姆巴托** → Grim Batol (canonical; Jace's prior exploit).
-- **热砂财团** → the Trade Cartel (canonical goblin trade faction; glossary).
-- **巴拉丁海湾** → Baradin Bay (canonical).
-- **洛克莫丹 / 洛克湖** → Loch Modan / the Loch (canonical).
-- **水族馆般的海底世界 / 蛇颈怪物** → the aquarium-like underwater passage and serpentine leviathan (canonical Deeprun Tram visual — the "Deeprun Crab" / serpent).
-- **工匠区** → Tinkertown / the Tinkers' Quarter (canonical gnome quarter of Ironforge; not yet established in this era).
-- **诺莫瑞根** → Gnomeregan (canonical gnome city).
-- **穴居人** → Troggs (the creatures that destroyed Gnomeregan).
-- **龙语** → Dragonish / Drakken (joke: Jace learned Dragonish instead of Dwarvish at the Sanctum).
-- **埃雷杜因语** → Eredun (the demonic language; Jace notes he knows Eredun but not Dwarvish or Thalassian).

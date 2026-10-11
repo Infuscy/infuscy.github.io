@@ -10,7 +10,7 @@ The imp hopped away to a distance, standing there and peering through the parted
 
 The imp gave a curious glance back and forth, muttering to itself as it cast. "How strange..."
 
-Watching the flames shoot from the imp's hands, Jace immediately shouted, "Modstaving!"
+Watching the flames shoot from the imp's hands, Jace immediately shouted, "Modestawening!"
 
 He felt the arcane energy respond to his call, and he could sense both the imp and the fel heat it had gathered. But just as he was about to sever the imp's connection to the fel fire, the imp cut its own casting short — the Counterspell missed completely!
 
@@ -32,17 +32,17 @@ He really did lack talent when it came to the Arcane, and Counterspell didn't co
 
 If he were up against an average mage, rather than trying to Counterspell them mid-cast, he'd be better off just blowing their mouth apart with Shadowflame — faster and more reliable.
 
-And if Shadowflame couldn't even shake an enemy's casting, then against a high-level mage, using Counterspell would probably feel like trying to boulder a boulder — like throwing yourself against Marin.
+And if Shadowflame couldn't even shake an enemy's casting, then against a high-level mage, using Counterspell would probably feel like kicking a boulder — like throwing yourself against Malin.
 
 He might even get his own Counterspell countered.
 
 "That's enough for now," he said, looking at the imp. "Go back and rest. I'll think about how to train."
 
-That evening, Jace and Grede went to The Pig and Whistle Inn. They arrived past eight o'clock, but this was exactly the time when Stormwind's laborers, travelers, and mercenaries were all eating, drinking, and swapping tall tales. The whole tavern was roaring, like a pot perpetually at a boil.
+That evening, Jace and Grede went to the Pig and Whistle Tavern. They arrived past eight o'clock, but this was exactly the time when Stormwind's laborers, travelers, and mercenaries were all eating, drinking, and swapping tall tales. The whole tavern was roaring, like a pot perpetually at a boil.
 
-All the seats were taken, so the two of them could only lean against the windowsill, using it as a makeshift table for their mugs. Never mind that the Theramore blood sausage looked like a bloody mess — and it did have a strong, heavy smell of blood when you ate it — but ever since that first time he'd tried it, Jace had been craving it all the way back in Stormwind.
+All the seats were taken, so the two of them could only lean against the windowsill, using it as a makeshift table for their mugs. Never mind that the Thelsamar blood sausage looked like a bloody mess — and it did have a strong, heavy smell of blood when you ate it — but ever since that first time he'd tried it, Jace had been craving it all the way back in Stormwind.
 
-This time at the Pig and Whistle, he couldn't resist ordering a plate of Theramore blood sausage again. Grede ordered a plate of corn sweet bread. Each carrying a plate, they leaned against the window and ate from each other's food.
+This time at the Pig and Whistle, he couldn't resist ordering a plate of Thelsamar blood sausage again. Grede ordered a plate of corn sweet bread. Each carrying a plate, they leaned against the window and ate from each other's food.
 
 "There's been more kobold trouble up in Goldshire, you hear? I heard the kobolds have been harassing the miners," Grede said, dipping a limp piece of sweet bread into the blood sausage's juices and taking a bite. "Thinking of going to take a look. Four silver for every kobold you catch. You in?"
 
@@ -50,7 +50,9 @@ Jace cut off a piece of blood sausage with his drake-fang dagger, speared it, an
 
 "The point is they're in the mine, Jace." Grede said. "The legends say that to temper your ancestral bloodline... you have to get as close to the earth as possible. Fighting those little bastards in the mine should be great training for me, right?"
 
-Jace said, "I seriously doubt there's much training value in bullying kobolds that barely come up to your waist." Grede laughed. Jace chewed a few more bites of blood sausage, smacked his lips, and said, "This really doesn't hit the same. When I ate the blood sausage in Theramore, I thought the taste was weird, and the smell of blood was even stronger when I drank — honestly hard to stomach. But after coming back and eating the version here, it just doesn't compare."
+Jace said, "I seriously doubt there's much training value in bullying kobolds that barely come up to your waist."
+
+Grede laughed. Jace chewed a few more bites of blood sausage, smacked his lips, and said, "This really doesn't hit the same. When I ate the blood sausage in Thelsamar, I thought the taste was weird, and the smell of blood was even stronger when I drank — honestly hard to stomach. But after coming back and eating the version here, it just doesn't compare."
 
 "That's how it goes," Grede said, taking another bite of bread. "Though you'll slowly get used to Stormwind's ale and meat again, same as I've been here so long I'm almost starting to forget the taste of Aerie Peak."
 
@@ -64,23 +66,23 @@ Grede couldn't help but laugh. "Well, that'd be a nice way to earn some extra co
 
 But thinking about the bandits and outlaws around Moonbrook, Jace suddenly recalled what Ursula had told him.
 
-The warlocks of Moonbrook... and that Mosul might be there too.
+The warlocks of Moonbrook... and that Mor'zul might be there too.
 
 Would this be a chance to get to know him?
 
-This Mosul looked down on the Dagger Circle's warlocks so much — so would the Moonbrook warlocks even meet his standards? And if not, what new things had he figured out on his own all this time?
+This Mor'zul looked down on the Dagger Society's warlocks so much — so would the Moonbrook warlocks even meet his standards? And if not, what new things had he figured out on his own all this time?
 
 Thinking it over, he secretly decided to try asking around after he got there.
 
 But asking about warlocks... how would you go about that?
 
-The reason he'd been able to find The Slaughtered Lamb was that he'd already known there was a whole circle of warlocks in its basement. But Moonbrook, in the game's early days, was a desolate little town ruined by the Defias Brotherhood's rampage. Even after it was recaptured by Stormwind, for a long time it remained a place that was still being rebuilt and that nobody was willing to move to.
+The reason he'd been able to find the Slaughtered Lamb was that he'd already known there was a whole circle of warlocks in its basement. But Moonbrook, in the game's early days, was a desolate little town ruined by the Defias Brotherhood's rampage. Even after it was recaptured by Stormwind, for a long time it remained a place that was still being rebuilt and that nobody was willing to move to.
 
 Either way, it was a far cry from the bustling mining town that served as the center of the whole Westfall region.
 
 Finding a group of black magic practitioners who were deliberately hiding themselves in a town that size wouldn't be a simple task.
 
-Wait — didn't he know Detect Demons?
+Wait — didn't he know Sense Demons?
 
 Just... go and "take a look," and he'd know.
 

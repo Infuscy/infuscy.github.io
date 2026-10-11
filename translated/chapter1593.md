@@ -6,25 +6,27 @@ Jace was nearly knocked unconscious by the blast. But he forced himself to stay 
 
 Ragnaros was the Firelord, the ruler of the elementals. But he was still an elemental.
 
-So if only... "Jace Sesso!"
+So if only...
+
+"Jace Sesso!"
 
 A Bronzebeard dwarf helped him up. Jace looked at his face. "Lord Muradin Bronzebeard..."
 
 "I'm not Lord Muradin!" the dwarf took a breath and shouted. "But he'll be here soon!"
 
-"Destroy those." Jace grabbed his beard tight. "Tell everyone -- destroy his! With everything you've got!"
+"Destroy those bracers." Jace grabbed his beard tight. "Tell everyone -- destroy his bracers! With everything you've got!"
 
 The Bronzebeard warrior looked toward the heart of Molten Core in the distance, nodded, and shook off Jace's hand. "I understand, I understand, Master Sesso!"
 
-"Destroy his!" the Bronzebeard screamed, running toward every dwarf still alive. "Destroy his!"
+"Destroy his bracers!" the Bronzebeard screamed, running toward every dwarf still alive. "Destroy his bracers!"
 
 Some Dark Iron dwarves responded. Further off, countless Arcane Missiles flew toward the Firelord. Some of them turned toward the Firelord's arms.
 
-But Arcane Missiles before Ragnaros were like fish swimming toward a whale -- laughable. One roar shattered most of them into nothing. And Sulfuras slammed down hard among the Dark Iron dwarves, instantly reducing everything living and dead in that area to ash. Mages or Ironfury soldiers -- it made no difference.
+But Arcane Missiles before Ragnaros were like fish swimming toward a whale -- laughable. One roar shattered most of them into nothing. And Sulfuras slammed down hard among the Dark Iron dwarves, instantly reducing everything living and dead in that area to ash. Mages or Anvilrage soldiers -- it made no difference.
 
 Between that shockwave and Sulfuras's swings, no one knew how many of Shadowforge City's finest warriors had been destroyed.
 
-Jace could hear countless tormented, angry, unwilling ghosts wailing in the air. But those spirits didn't wail long before Ragnaros's fire consumed them.
+Jace could hear countless tormented, angry, bitter ghosts wailing in the air. But those spirits didn't wail long before Ragnaros's fire consumed them.
 
 And he wasn't the only one who heard those souls screaming.
 
@@ -36,7 +38,7 @@ A furious, almost tearful shout came from above.
 
 At the source of the voice, a fierce blaze erupted from Ragnaros's grip. It was an enormous flaming dwarf. Dagran Thaurissan!
 
-Jace had heard that Dagran Thaurissan could use Avatar, but he didn't acknowledge himself as a Mountain King. During the previous battles, he'd never summoned his aspect, and Jace thought he'd been bragging.
+Jace had heard that Dagran Thaurissan could use Avatar, though he never called himself a Mountain King. In the previous battles he'd never taken that form, and Jace had thought he'd been bragging.
 
 But now this Dark Iron dwarf was wreathed in raging flame, screaming as he tore free of the Firelord's grasp. Even Ragnaros was taken aback.
 
@@ -52,7 +54,7 @@ A black dragon?
 
 Ragnaros clearly didn't sense this weak young dragon. But when a streak of fire flared up on the black dragon's back, his lava-forged, burning head tilted slightly.
 
-Sulfuron Hammer. That hammer hadn't shattered yet?
+The Sulfuron Hammer. That hammer hadn't shattered yet?
 
 Grede leaped from Needleflame's back. This time, he didn't shout or roar. He swung the hammer straight down, smashing into the slightly dimmed bracer!
 
@@ -60,7 +62,7 @@ A dull thud. The bracer shattered on impact. The Firelord's entire body shuddere
 
 "Ragnaros!"
 
-Vereesa's shout came from above. Belanore's dream-colored glow was so small amid the raging flames, yet so visible.
+Vereesa's shout came from above. Belanur's dream-colored glow was so small amid the raging flames, yet so visible.
 
 The Firelord clearly felt the power of this ranger's arrows. He raised a fist and sprayed a torrent of lava toward her, trying to incinerate the fragile elf on the spot. But Vereesa dodged every stream of magma with precision, standing exactly in the gap between two lava splashes, finding her footing at the most extreme line, nocking another arrow.
 
@@ -76,9 +78,9 @@ Then a massive crimson figure appeared high above. Jace felt a surge of energy f
 
 "Jace Sesso! Sorry I'm late -- I've never been here before!" Vaelastrasz's voice rumbled from the black clouds.
 
-Sora had already landed behind Jace. With the red dragon's blessing, she could fly under Ragnaros's flame suppression too.
+Sola had already landed behind Jace. With the red dragon's blessing, she could fly under Ragnaros's flame suppression too.
 
-And there was more than just Vaelastrasz and Sommaleer flying up there.
+And there was more than just Vaelastrasz and Somaelir flying up there.
 
 Flying creatures smaller than the red dragons darted out from behind them. At first, Jace thought they were red whelps or hatchlings following Vaelastrasz. But logically, Vaelastrasz had come here on a secret mission to Blackrock Spire -- why would he bring so many younglings?
 

@@ -2,7 +2,7 @@
 
 Khadgar wanted them to wait quietly in the house left behind by the Order of Tirisfal. But honestly — Grede had been grabbed by the Kirin Tor, and an old friend was being called to the Kirin Tor security office interrogation room right now to identify him, completely unaware of what was going on?
 
-If Kurdran Wildhammer walked into that room and bellowed "Mountain King, Lord Thunderfist!" their whole effort would be shot.
+If Kurdran Wildhammer walked into that room and bellowed "High King, Lord Thunderfist!" their whole effort would be shot.
 
 If they'd just gotten their identities blown without doing anything else, they'd probably get the same treatment as Khadgar — a Violet Citadel suite plus who knows how many hours of questioning. Not necessarily a trial or imprisonment.
 
@@ -10,23 +10,23 @@ But now they'd stirred up that chaotic storm, swapped Dalaran's most important p
 
 Thinking about all this, who could sit still in some room waiting for news?
 
-Jace paced back and forth at the door, nearly going out several times, but worried about drawing too much attention. Technically, no one was supposed to touch the mysterious legacy these Tirisfal relics had left behind. If someone passing by noticed people living in the yard, it'd cause plenty of trouble.
+Jace paced back and forth at the door, nearly going out several times, but worried about drawing too much attention. Technically, no one was supposed to touch the mysterious property the Order of Tirisfal had left behind. If someone passing by noticed people living in the yard, it'd cause plenty of trouble.
 
-Vereesa and Sora sat in back, equally unsettled. The whole room felt like insects' claws were scratching at everyone inside. Well, that was probably just Jace — there weren't many people in Dalaran who could perceive every shadow detail around them without even concentrating.
+Vereesa and Sola sat in back, equally unsettled. The anxiety in the room felt like insect claws scratching at everyone inside. Well, that was probably just Jace — there weren't many people in Dalaran who could perceive every shadow detail around them without even concentrating.
 
-"Will Needleflame make it back okay?" Sora asked.
+"Will Needleflame make it back okay?" Sola asked.
 
 "After the mess we made in Dalaran, nobody's paying attention to her anymore." Vereesa said. "She might not even know we've already succeeded. She'll come back at the agreed time."
 
-"I hope so." Sora looked at the sunlight outside the window and spoke softly.
+"I hope so." Sola looked at the sunlight outside the window and spoke softly.
 
-"After today, Sora, I don't think you and Needleflame should just go quiet." Vereesa said. "Tomorrow, the day after... at least for a week, you should still go out and make the rounds. Maybe have Needleflame destroy a few more empty houses, or burn down some forests near the villages. Scare the Lordaeron guards and Dalaran mages."
+"After today, Sola, I don't think you and Needleflame should just go quiet." Vereesa said. "Tomorrow, the day after... at least for a week, you should still go out and make the rounds. Maybe have Needleflame destroy a few more empty houses, or burn down some forests near the villages. Scare the Lordaeron guards and Dalaran mages."
 
 "The key is to show them that the black dragon's recent activity has nothing to do with today's Violet Citadel chaos, or that Wildhammer dwarf suddenly barging in. It's just coincidence. If you go quiet starting today, those clever Kirin Tor folks will connect the dots pretty fast."
 
-"Good point." Jace said. "And for the next phase — making Illidan's demonic artifact — Khadgar and I can handle that ourselves. Sora, you and Needleflame really do need to take some more risky flights. Don't let them get suspicious."
+"Good point." Jace said. "And for the next phase — making Illidan's demonic artifact — Khadgar and I can handle that ourselves. Sola, you and Needleflame really do need to take some more risky flights. Don't let them get suspicious."
 
-"I understand." Sora nodded. "You really think of everything, Vereesa."
+"I understand." Sola nodded. "You really think of everything, Vereesa."
 
 "Farstriders who don't prepare for everything suspicious... end up in the stinking pits of Zul'Aman." Vereesa said. "And I've always been the lucky one."
 
@@ -34,23 +34,23 @@ As they were discussing the cleanup, Jace heard boots scuffling against uneven s
 
 Dwarves were here. But Khadgar wasn't with them. What was going on? Were these Wildhammer dwarves coming to arrest them in this house?
 
-How did they know Jace, Vereesa, and Sora were hiding here?
+How did they know Jace, Vereesa, and Sola were hiding here?
 
-At that thought, his hand went to Usathers, propped by the door. But a question rose from the depths of his mind in that instant.
+At that thought, his hand went to Ulthalesh, propped by the door. But a question rose from the depths of his mind in that instant.
 
-Even if they were — would you really fight Wildhammer dwarves, Jace Sesso?
+*Even if they were — would you really fight Wildhammer dwarves, Jace Sesso?*
 
 The warlock took a deep breath, put the staff down, and looked out through the small window by the door. He saw Kurdran Wildhammer and two grim-faced guards already at the yard's gate. Grede was right behind them, looking thoroughly annoyed.
 
 Khadgar was saying something to them in front of the house, casually opening the door. The two guards stayed by the gate as Kurdran, Khadgar, and Grede entered the yard.
 
-Vereesa and Sora stood up. Jace opened the door, and Kurdran grinned broadly. "By the hammer, it's good to see you all alive!"
+Vereesa and Sola stood up. Jace opened the door, and Kurdran grinned broadly. "By the hammer, it's good to see you all alive!"
 
 "Each of these friends has a different set of skills." Khadgar closed the door behind them and smiled. "And the one thing they all share is being really good at staying alive, Kurdran."
 
 "High Thane Kurdran." Jace shook the dwarf king's hand. "We really appreciate this."
 
-"Hormal Hearthstone, was it?" Kurdran snorted. "The Hearthstone clan and the Thunderfists have never exactly gotten along. If it were me, I'd at least have picked a friendlier alias. Makes things easier to explain later. Now you'll be even more scared to go back to the Aerie, won't you, Mountain King?"
+"Homir Deepstone, was it?" Kurdran snorted. "The Deepstone clan and the Thunderfists have never exactly gotten along. If it were me, I'd at least have picked a friendlier alias. Makes things easier to explain later. Now you'll be even more scared to go back to Aerie Peak, won't you, High King?"
 
 "Don't use that title, High Thane Kurdran." Grede rubbed his eyes. "Anyone can say it, just not a dwarf..."
 
@@ -62,9 +62,9 @@ Kurdran burst out laughing and smacked Grede on the shoulder. "You were a comple
 
 "Ha! That's damn right!" Kurdran laughed loudly.
 
-He looked around the room at everyone. "The Kirin Tor handed me that strange shield. To avoid trouble, I've already arranged for someone to take it back to the Aerie for safekeeping. Come get it whenever you have the time."
+He looked around the room at everyone. "The Kirin Tor handed me that strange shield. To avoid trouble, I've already arranged for someone to take it back to Aerie Peak for safekeeping. Come get it whenever you have the time."
 
-"We'll visit the Aerie when we've sorted out our current problems, High Thane." Jace said.
+"We'll visit Aerie Peak when we've sorted out our current problems, High Thane." Jace said.
 
 "Even if you haven't sorted them out... you're still welcome." Kurdran lowered his voice. "No matter what these Kirin Tor mages say, I saw what you did in Draenor and at Blackrock Mountain. I trust what I saw, and I won't be led around by baseless suspicions, any of you."
 
@@ -72,7 +72,7 @@ He looked around the room at everyone. "The Kirin Tor handed me that strange shi
 
 "Oh, you've got Jace Sesso all wrong, Thunderfist!" Kurdran pointed at Grede, and then he and Khadgar both burst out laughing.
 
-"Well, that's that. I've still got plenty to settle with Kael'thas Sunstrider. That smug pretty-boy is a real handful. And staying here any longer will just cause more trouble for you." Kurdran looked at the two ladies behind him. "Farewell, Ranger-Lord. Farewell, Lady Green Dragon."
+"Well, that's that. I've still got plenty to settle with Kael'thas Sunstrider. That smug pretty-boy is a real handful. And staying here any longer will just cause more trouble for you." Kurdran looked at the two ladies behind him. "Farewell, Ranger Lord. Farewell, Lady Green Dragon."
 
 "Farewell, High Thane Kurdran." Vereesa nodded.
 
@@ -84,7 +84,7 @@ The dwarf lifted his hand to the door handle, but the smile on his face slowly f
 
 "Go ahead, High Thane." Jace said.
 
-"Usathers — or what they call the Scythe of the Unmaker — what's the real story?" Kurdran's gaze shifted between the warlock and the mage. "That cursed thing... I've heard some things in Dalaran lately."
+"Ulthalesh — or what they call the Deadwind Harvester — what's the real story?" Kurdran's gaze shifted between the warlock and the mage. "That cursed thing... I've heard some things in Dalaran lately."
 
 "What do you want to know?" Khadgar said. "It's been in the Kirin Tor's custody the whole time."
 
@@ -94,10 +94,10 @@ The dwarf lifted his hand to the door handle, but the smile on his face slowly f
 
 "Just tell me plainly — is it true or not?" Kurdran stared at the mage.
 
-"No." Khadgar said without hesitation. "I can tell you responsibly, Wildhammer. Usathers is still safely kept. You and your people can rest easy."
+"No." Khadgar said without hesitation. "I give you my word, Wildhammer. Ulthalesh is still safely kept. You and your people can rest easy."
 
 Kurdran let out a long breath and nodded. Then he looked at everyone else. "I'm sorry. I wish you all the best. Hope you get through this mess."
 
-After the dwarves had left the street, Khadgar stared outside and said quietly: "Let me remind you again, Sesso... no matter what happens, don't admit to anyone — and I mean anyone outside this room — that this bone-stick you're carrying is the Usathers the Kirin Tor talks about. Otherwise... it's all over."
+After the dwarves had left the street, Khadgar stared outside and said quietly: "Let me remind you again, Sesso... no matter what happens, don't admit to anyone — and I mean anyone outside this room — that this bone-stick you're carrying is the Ulthalesh the Kirin Tor talks about. Otherwise... it's all over."
 
 "I've never forgotten, Khadgar." Jace said. "Even that Kaldorei prisoner has no idea what I'm carrying."

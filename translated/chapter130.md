@@ -50,7 +50,9 @@ Just as he was about to exit, a fierce wind howled in, pressing so hard he could
 
 "If you can haul it up right now, then do it — what are you asking me for?"
 
-"Trugil, check the situation at the stern, quick!" Jace noticed the sails had been taken down. The thick mast, wrapped in canvas, swayed with the ship beneath the oppressive black clouds.
+"Trugil, check the situation at the stern, quick!"
+
+Jace noticed the sails had been taken down. The thick mast, wrapped in canvas, swayed with the ship beneath the oppressive black clouds.
 
 "Get back to the cabin! There's nothing to see here, human!" a goblin screamed from above.
 
@@ -70,7 +72,9 @@ He raged all the way to the end of the corridor until both his figure and his vo
 
 "The big one might still be ahead," Jace said.
 
-"Don't let the sailors hear that," Grede said with a grin. "Otherwise they'll tie you to the bow to appease the sea god's wrath." Grede had barely finished laughing when the hull shuddered violently and then lurched upward. He flailed, trying to grab onto anything within reach, and barely managed to catch a doorframe. Jace wasn't much better off — his shoulder took a hit and he grabbed the other side of the doorframe, wincing in pain.
+"Don't let the sailors hear that," Grede said with a grin. "Otherwise they'll tie you to the bow to appease the sea god's wrath."
+
+Grede had barely finished laughing when the hull shuddered violently and then lurched upward. He flailed, trying to grab onto anything within reach, and barely managed to catch a doorframe. Jace wasn't much better off — his shoulder took a hit and he grabbed the other side of the doorframe, wincing in pain.
 
 Before the two of them could get a firm grip, the ship began to list severely. Creaking and groaning filled the entire hull. Clattering came from every direction, along with screams and shouts… until both of them were slammed hard onto the deck.
 
@@ -87,14 +91,3 @@ A flash of lightning from outside lit up the corridor. Both their faces went dea
 "Sounds like… dead people."
 
 The two of them nodded simultaneously, then looked together down the corridor leading to the lower hold — the direction Gazzik had disappeared.
-
-## Flags
-
-- **米奈希尔湾 = Menethil Bay**: Not in the glossary. The bay near Menethil Harbor.
-- **米奈希尔港 = Menethil Harbor**: Canonical port in the Wetlands, not in the glossary.
-- **南海镇 = Southshore**: Canonical town in Hillsbrad, not in the glossary.
-- **诺维尔 = Norville**: Goblin name shouted by Gazzik. Rendering tentative.
-- **拉兹维 = Razvi**: Human name (the sailor being asked about the boat). Rendering tentative.
-- **特鲁吉尔 = Trugil**: Human name (sent to check the stern). Rendering tentative.
-- **海神 = the sea god**: Generic reference, not a specific named deity.
-- **Chapter title 死人 = "The Dead"**: Could also be rendered as "Dead People" or "The Dead Man." The shouted warning "死人了" literally means "someone's dead / there are dead people."

@@ -4,11 +4,11 @@ Jabal took the scroll materials Jace had brought. Nearly half the camp's etherea
 
 Papers glowing with unfamiliar runic symbols floated back and forth among them. Standing under a nearby tent, watching them from a distance, Jace's mind was equally in turmoil.
 
-The ethereals might be forcibly bound to this world by the Scepter of Sargeras's power, but at least they fully understood the predicament. So Jace trusted that if Node Prince Haramad and the technician Jabal had confidence in his method, it meant it was genuinely feasible.
+The ethereals might be forcibly bound to this world by the Scepter of Sargeras's power, but at least they fully understood the predicament. So Jace trusted that if Nexus-Prince Haramad and the technician Jabal had confidence in his method, it meant it was genuinely feasible.
 
 It hadn't occurred to him that the ethereals would be the ones to find the way to the Telogrus Rift. He'd barely even considered the possibility.
 
-But then again, many years later in another timeline, Kael'thas Sunstrider had worked closely with the ethereals, occupying most of Netherstorm, building several mana forges to extract Farahlon's energy to power the Naaru's fleet, the Tempest Keep. That idea might well share the same origins as Haramad's plan.
+But then again, many years later in another timeline, Kael'thas Sunstrider had worked closely with the ethereals, occupying most of Netherstorm, building several manaforges to extract Farahlon's energy to power the naaru's fleet, Tempest Keep. That idea might well share the same origins as Haramad's plan.
 
 After Kael'thas fully defected to the Burning Legion and Kil'jaeden, many blood elves returned to Silvermoon, bringing with them void magic and technology they'd found in Outland, much of it likely from Kael'thas's collaboration with the ethereals.
 
@@ -22,25 +22,25 @@ Based on Jace's experience learning so many magic spells, even slight deviations
 
 So to ensure he could transmit these contents to Azeroth without error, Jace would need to master the Abyssal language — or at least learn to pronounce it accurately.
 
-But as the ethereals said, this Abyssal language was designed for energy beings. A "meat person" like Jace probably couldn't guarantee perfect transmission no matter what.
+But as the ethereals said, this Abyssal language was designed for energy beings. A "flesh-being" like Jace probably couldn't guarantee perfect transmission no matter what.
 
-Therefore, Jace needed to consult Khadgar, to make contact with the Dagger Clan. On one hand, the Dagger Clan had already done some research on the Telogrus Rift. And more importantly, the Dagger Clan harbored a void lord — Ga'oseros.
+Therefore, Jace needed to consult Khadgar, to make contact with the Dagger Society. On one hand, the Dagger Society had already done some research on the Telogrus Rift. And more importantly, the Dagger Society harbored a void lord — Gaothoros.
 
-On this side, he also needed to contact the mages of Kirin'Var Village, especially Archmage Vargoth. He wondered if Vargoth's illusion magic could allow a meat person like him to pronounce words as perfectly as a void being, so that Kael'rez could hear the most original, uncompromised incantation pronunciations, minimizing errors through each relay.
+On this side, he also needed to contact the mages of Kirin'Var Village, especially Archmage Vargoth. He wondered if Vargoth's illusion magic could allow a flesh-being like him to pronounce words as perfectly as a void being, so that Kallrez could hear the most original, uncompromised incantation pronunciations, minimizing errors through each relay.
 
-Finally, Ga'oseros would handle the final corrections — just like Sazeno and Morophil had helped him correct the demonic incantations the Dagger Clan had learned from orcs and Dark Iron dwarves.
+Finally, Gaothoros would handle the final corrections — just like Sazeno and Morophil had helped him correct the demonic incantations the Dagger Society had learned from orcs and Dark Iron dwarves.
 
 This was the safest Jace could manage. Next came the transmission itself.
 
 He needed to get all this content — as complete, as perfectly as possible — to Azeroth. And the other side needed to confirm receipt before he could proceed. Just how much soul energy would that consume?
 
-Jace knew well that just the brief exchange of a few sentences with Kael'rez to confirm their situation was enough to consume a powerful draenei soul shard. How much information was on all these scrolls? How enormous would the consumption be?
+Jace knew well that just the brief exchange of a few sentences with Kallrez to confirm their situation was enough to consume a powerful draenei soul shard. How much information was on all these scrolls? How enormous would the consumption be?
 
 Then there was connecting the Telogrus Rift to Draenor.
 
-Jace wasn't worried about whether Kael'rez could incubate those void floating island fragments into fel land. After all, just his mere existence inside the Tower of Il'gala, without using any fel magic, had forced Quel'Thalas's precious crystal to strain with all its might to contain his corruption. And the mage tower, blessed by green dragons, already bore part of the burden of containing the corruption.
+Jace wasn't worried about whether Kallrez could incubate those void floating island fragments into fel land. After all, just his mere existence inside the Tower of Ilgalar, without using any fel magic, had forced Quel'Thalas's precious crystal to strain with all its might to contain his corruption. And the mage tower, blessed by green dragons, already bore part of the burden of containing the corruption.
 
-But even if Khadgar successfully brought Kael'rez into the Telogrus Rift through the ethereal method, and successfully corrupted the place, building a portal to Draenor that Kael'rez could activate...
+But even if Khadgar successfully brought Kallrez into the Telogrus Rift through the ethereal method, and successfully corrupted the place, building a portal to Draenor that Kallrez could activate...
 
 No matter how covert the Expedition's process, the Burning Legion would detect it eventually. In other words, the moment the portal activated, the Expedition would be showing its cards to Kil'jaeden.
 
@@ -48,7 +48,9 @@ The Expedition had found a way to leave Draenor without picking up the Scepter o
 
 Thinking about this, Jace couldn't help feeling relieved that he'd found allies in Sabellian's black dragons. Otherwise, he had no idea how they'd transport everyone to the evacuation point at the last moment with arcane teleportation completely failed and demon portals firmly controlled by the Scepter of Sargeras...
 
-"So you never planned to pick up the Scepter of Sargeras from the very beginning, Jace Sesso." Sabellian's low voice came from beside him. Jace was jolted awake by those words — his mind had been completely submerged in contemplating the future situation. "Don't tell me you never considered this," Jace said, staring at the black dragon.
+"So you never planned to pick up the Scepter of Sargeras from the very beginning, Jace Sesso." Sabellian's low voice came from beside him. Jace was jolted awake by those words — his mind had been completely submerged in contemplating the future situation.
+
+"Don't tell me you never considered this," Jace said, staring at the black dragon.
 
 "What was I supposed to consider?" Sabellian's voice was strained, but the rage burning in his heart was palpable even without sensing shadows.
 
@@ -62,7 +64,7 @@ Thinking about this, Jace couldn't help feeling relieved that he'd found allies 
 
 "Wake up?" The Black Dragon Prince's teeth ground against each other. "You dare tell me to wake up?! Your Expedition can just dust off its hands and leave! What about us? You know damn well what's waiting for me and my children when we return to Azeroth! We can only stay here. And when you choose to flee this world..."
 
-"Ah, I see. Now I understand why Alexstrasza pushed you to come to me, to take my daughter. She knows that all of us black wings will eventually perish in Draenor. So she planned to pick an 'untainted' specimen, making a show of preserving a seed for the 'traditional' black dragons you lot talk about. How utterly ridiculous!"
+"Ah, I see. Now I understand why Alexstrasza pushed you to come to me, to take my daughter. She knows that all of us Blackwing will eventually perish in Draenor. So she planned to pick an 'untainted' specimen, making a show of preserving a seed for the 'traditional' black dragons you lot talk about. How utterly ridiculous!"
 
 "What if you're wrong? What if all these conspiracies and schemes are just the delusions of you and the other weak mortals like you? What if the Deceiver just genuinely forgot to take the Scepter of Sargeras? What if things really could be that simple? What if this world really could be that beautiful? What if my children really could survive here, and you really were meant to be the savior, Jace Sesso?!"
 
@@ -86,7 +88,9 @@ The black dragon frowned skeptically. "I'll admit you're a powerful warlock, Jac
 
 The demon skull on the staff had eyes glowing with purple-red fel light. Purple-red demon blood was already slowly trickling down from its spiked mouth, running along the spine.
 
-The Black Dragon Prince stared fixedly at those eyes, as if remembering something. "Ursaleth. Have you heard that name?" Jace asked.
+The Black Dragon Prince stared fixedly at those eyes, as if remembering something.
+
+"Ulthalesh. Have you heard that name?" Jace asked.
 
 Sabellian said blankly, "How did you get that?"
 

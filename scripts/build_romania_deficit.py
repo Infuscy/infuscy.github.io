@@ -165,6 +165,8 @@ class Renderer:
         self.published = published      # report-relative path -> site URL
         self.sources = sources          # "S1" -> tooltip text
         self.section_ids = section_ids  # "6.7" -> "s6-7"
+        # fișierele din repo-ul public (cod, CSV, sub-rapoarte) -> link GitHub; restul text
+        self.url_public = getattr(mdc, "url_public", lambda url: None)
 
     def text(self, s):
         out = []
@@ -204,7 +206,8 @@ class Renderer:
                 out.append(f"<code>{html.escape(tok[1])}</code>")
             elif kind == "link":
                 lab, url = tok[1], tok[2]
-                href = url if url.startswith(("http://", "https://", "#")) else self.published.get(url.rstrip("/"))
+                href = url if url.startswith(("http://", "https://", "#")) else (
+                    self.published.get(url.rstrip("/")) or self.url_public(url))
                 if href and links:
                     out.append(f'<a href="{html.escape(href, quote=True)}">{self.label(lab)}</a>')
                 else:
@@ -420,6 +423,7 @@ def build(src):
     summary_id = section_ids.get("1", "s1")
     leads_html = "".join(f'<li><a href="#punct-{n}">{html.escape(plain(l))}</a></li>' for n, l in leads)
     pdf_url, xlsx_url = published[REPORT_PDF], published[MODEL_XLSX]
+    repo_url = getattr(mdc, "REPO_PUBLIC", "https://github.com/Infuscy/romania-deficit")
     pdf_size = fmt_size(os.path.join(src, REPORT_PDF))
     xlsx_size = fmt_size(os.path.join(src, MODEL_XLSX))
     header = f"""
@@ -428,7 +432,7 @@ def build(src):
 <p class="subtitlu">{html.escape(subtitle)}</p>
 <p class="lede">{r.inline(one_liner)}</p>
 <p class="art-meta"><strong>Data raportului:</strong> {html.escape(report_date)} &middot; <strong>Autor:</strong> {AUTHOR} &middot; <strong>Categorie:</strong> analiză de sustenabilitate a datoriei (DSA) &middot; ~{minutes} de minute de citit</p>
-<p class="descarcari"><a href="{pdf_url}" download>Descarcă raportul (PDF, {pdf_size})</a> <a href="{xlsx_url}" download>Modelul și rezultatele (Excel, {xlsx_size})</a></p>
+<p class="descarcari"><a href="{pdf_url}" download>Descarcă raportul (PDF, {pdf_size})</a> <a href="{xlsx_url}" download>Modelul și rezultatele (Excel, {xlsx_size})</a> <a href="{repo_url}">Codul și datele (GitHub)</a></p>
 <p class="small-note"><strong>Transparență:</strong> această analiză a fost redactată cu asistența unui sistem de inteligență artificială; cifrele au fost verificate pe surse primare, iar textul a fost revizuit și corectat de autor (revizuire umană). Responsabilitate editorială: {AUTHOR} &mdash; <a href="mailto:{EMAIL}">{EMAIL}</a>.</p>
 <p class="small-note">Analiză independentă, cu scop informativ: nu este o prognoză oficială și nici consiliere de investiții. Rezultatele marcate „model propriu” provin dintr-un model DSA rulat de autor, calibrat pe date oficiale; trimiterile [S1], [S2]… duc la lista de surse de la final.</p>
 
@@ -443,7 +447,7 @@ def build(src):
     footer = f"""
 <div class="box info">
 <h3>Despre această ediție web</h3>
-<p class="small-note" style="margin: 0;">Pagina este generată din aceeași sursă ca raportul PDF ({html.escape(report_date)}), cu cuprins, trimiteri interne și surse cu link. Codul modelelor (Python), seriile CSV, rapoartele tematice și documentele arhivate pe care le citează raportul nu sunt publicate pe site; rezultatele lor numerice sunt în fișierul <a href="{xlsx_url}">Excel</a>. Redactarea asistată de AI a fost verificată de autor — declarație de transparență conform art. 50 din Regulamentul (UE) 2024/1689 (AI Act).</p>
+<p class="small-note" style="margin: 0;">Pagina este generată din aceeași sursă ca raportul PDF ({html.escape(report_date)}), cu cuprins, trimiteri interne și surse cu link. Codul modelelor (Python), seriile CSV, graficele și rapoartele tematice sunt publice în <a href="{repo_url}">repo-ul GitHub</a> (licențe: CC BY 4.0 pentru texte, date și grafice; MIT pentru cod); rezultatele numerice sunt și în fișierul <a href="{xlsx_url}">Excel</a>. Copiile documentelor altor instituții nu sunt republicate; fiecare are linkul original în lista de surse. Redactarea asistată de AI a fost verificată de autor — declarație de transparență conform art. 50 din Regulamentul (UE) 2024/1689 (AI Act).</p>
 </div>
 <a class="la-cuprins" href="#cuprins">&uarr; Cuprins</a>
 """

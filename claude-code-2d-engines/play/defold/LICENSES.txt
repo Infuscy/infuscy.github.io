@@ -1,0 +1,12 @@
+Asteroids-lite, Defold web build
+Built by a Claude Code session in the benchmark of 28 October 2026 described in the article.
+Article: https://infuscy.github.io/claude-code-2d-engines/
+
+This build contains third-party software. Its licence notices follow.
+
+==== Defold 1.14.0 ====
+
+This build contains the Defold engine, distributed under the Defold License, Version 1.0
+(based on the Apache License 2.0). Full licence text: https://defold.com/license/
+Third-party components in the engine, with their licences and attribution:
+https://github.com/defold/defold/blob/dev/COMPLYING_WITH_LICENSES.md

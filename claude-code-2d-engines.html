@@ -49,7 +49,7 @@ permalink: /claude-code-2d-engines/
 
 <div class="kicker">Game development · Claude Code · October 2026</div>
 <h1>Which engine for small 2D games on mobile, web and Steam, if Claude Code writes the code?</h1>
-<p class="lede">Short answer: <strong>Godot 4.7 with GDScript</strong>. Claude Code built the same small 2D action game in three engines, and each one was then taken as far toward Steam, Google Play, the App Store and the web as a single Windows PC allows. Godot came first overall and on both mobile stores. Pick <strong>Phaser 4</strong> instead if the browser is your main platform, and <strong>Defold</strong> if the smallest possible download or a later console release matters more than anything else.</p>
+<p class="lede">Short answer: <strong>Godot 4.7 with GDScript</strong>. Claude Code built the same small 2D action game in three engines, and each one was then taken as far toward Steam, Google Play, the App Store and the web as a single Windows PC allows. Godot came first overall and on both mobile stores. Pick <strong>Phaser 4</strong> instead if the browser is your main platform, and <strong>Defold</strong> if the smallest possible download or a later console release matters more than anything else. All three builds are <a href="#play">playable in your browser</a>.</p>
 <p class="art-meta"><strong>Published:</strong> 31 October 2026 &middot; <strong>Author:</strong> Buse Florin-Emilian &middot; ~15 min read &middot; <strong>Tested:</strong> Godot 4.7.2, Phaser 4.2.1 (with Capacitor 8.6 and Electron 45), Defold 1.14.0, Claude Code (Opus 5.5) on Windows 11</p>
 <p class="small-note"><strong>Transparency:</strong> Claude Code, an AI coding agent, ran the benchmarks described here and drafted this article from their results; the author reviewed the text and checked the figures before publication. Editorial responsibility: Buse Florin-Emilian (<a href="/#contact">contact</a>). The question, the platforms and the weights were fixed before any engine was scored, and personal impressions from playing the builds were deliberately left out.</p>
 
@@ -135,6 +135,18 @@ permalink: /claude-code-2d-engines/
 
 <p>The spread, 4.36 to 4.98, is narrow. That is the honest reading: <strong>all three are workable engines for an AI agent</strong>, and the loop separates them by degree, not by kind.</p>
 
+<div class="box info" id="play">
+<h3>Play the three builds</h3>
+<p>These are the web builds the three sessions produced, pause menu and power-ups included, unchanged apart from a security header. They need a desktop browser and a keyboard; there are no touch controls yet.</p>
+<ul>
+  <li><a href="/claude-code-2d-engines/play/phaser/">Phaser 4 build</a> · 1.3 MB</li>
+  <li><a href="/claude-code-2d-engines/play/godot/">Godot 4.7 build</a> · 38 MB, so the first load takes a moment</li>
+  <li><a href="/claude-code-2d-engines/play/defold/">Defold 1.14 build</a> · about 3.3 MB downloaded</li>
+</ul>
+<p><strong>Controls:</strong> Enter to start · Left/Right or A/D to rotate · Up or W to thrust · Space to fire · Esc to pause (Resume, Restart, Quit to Title). Destroyed asteroids sometimes drop a power-up: triple shot, a one-hit shield or an extra life. Add <code>?seed=42</code> to the address to replay the same asteroid field.</p>
+<p class="small-note">Each folder includes the engine's licence notices in <code>LICENSES.txt</code>. The Godot and Defold builds create a small database in your browser's IndexedDB that their engines use for save files; these games save nothing in it, and nothing is sent anywhere (see the <a href="/privacy/">privacy page</a>).</p>
+</div>
+
 <h2 id="steam">4. Steam</h2>
 
 <p>Godot and Defold export native Windows executables. Phaser runs in a browser engine, so reaching Steam means wrapping it in Electron, which bundles Chromium. The measured Windows builds were <strong>358 MB for Phaser + Electron, 104 MB for Godot and 9 MB for Defold</strong>.</p>
@@ -191,7 +203,7 @@ permalink: /claude-code-2d-engines/
 
 <h2 id="web">7. The web</h2>
 
-<p>All three web builds ran. <strong>Phaser's was 1.3 MB, Defold's 6.2 MB and Godot's 38 MB.</strong> Godot's web export uses the WebGL 2 Compatibility renderer and GDScript only (C# projects can't export to the web), and runs single-threaded by default. That is fine for itch.io or a demo, but the first load is heavier. If instant play in a browser is the main way people will find your game, Phaser has a real advantage here.</p>
+<p>All three web builds ran. <strong>Phaser's was 1.3 MB, Defold's 6.2 MB and Godot's 38 MB.</strong> Godot's web export uses the WebGL 2 Compatibility renderer and GDScript only (C# projects can't export to the web), and runs single-threaded by default. That is fine for itch.io or a demo, but the first load is heavier. If instant play in a browser is the main way people will find your game, Phaser has a real advantage here. You can compare the load times yourself with the <a href="#play">three builds above</a>.</p>
 
 <h2 id="pick">8. Pick by priority</h2>
 

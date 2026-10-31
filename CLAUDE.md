@@ -21,6 +21,8 @@ bac2025/ bac2026/ bac2526/   # pre-built Vite static apps (committed, not Jekyll
 _verify/          # slim candidate-level parquets for the data guard (unpublished: `_` dir)
 translated/       # novel chapters: *.md sources (excluded from the site) -> *.html
 romania-deficit/  # web edition of the RomaniaDeficit DSA report (generated: page + figuri/ + PDF + Excel)
+claude-code-2d-engines.html        # English article (lang: en) -> /claude-code-2d-engines/
+claude-code-2d-engines/play/       # its three playable web builds (generated from C:/GIT/GameEngines/bench)
 img/portfolio/    # card thumbnails, referenced by posts
 _config.yml       # site metadata, social, credits
 Gemfile           # github-pages Jekyll + Ruby 3.4 stdlib backports
@@ -39,6 +41,8 @@ Gemfile           # github-pages Jekyll + Ruby 3.4 stdlib backports
 - **No inline scripts on chapter pages** — `translated/*.html` and `fire-to-future/*.html` use `/js/reader-font.js` with a `script-src 'self'` CSP. After regenerating chapters, re-run `scripts/patch_translated_security.py` (novel) / `scripts/build_fire_to_future.py` (already emits it).
 - **Novel chapters: edit the `.md`, then sync** — `translated/chapterN.md` is the source; `py scripts/sync_novel_html.py` re-renders title/body/Translator Notes into the shipped `.html` and rewrites `_data/novel_chapters.json` (`--check` only reports). Don't use `scripts/build-novel.js` for edits: it regenerates whole pages from an older template and drops the font controls, disclaimers and CSP metas. Names and terms follow official WoW English; keep one spelling per character/place across all chapters.
 - **`romania-deficit/` is generated** — `py scripts/build_romania_deficit.py` renders `C:/GIT/RomaniaDeficit/Raport_Romania_Deficit_Sustenabilitate.md` with that repo's own parser (`tools/md_comun.py`, shared with its DOCX/PDF) and copies the figures, PDF and Excel. Edit the report upstream, regenerate its PDF there (`python tools/genereaza_raport.py`), then re-run the script; never hand-edit `romania-deficit/index.html`. The upstream repo is private, so links to its code/CSVs/sub-reports render as plain text. The body is wrapped in `{% raw %}` so Liquid never touches report text. The civic card in `_includes/civic.html` repeats the date and reading time — update it when they change.
+- **`claude-code-2d-engines/play/` is generated** — `py scripts/build_engine_demos.py` copies the Phaser, Godot and Defold web builds from `C:/GIT/GameEngines/bench/*/builds/web`, adds a per-page CSP (sha256-pinned inline scripts), the referrer meta and a `LICENSES.txt` (Godot's notices come from its 4.7.2 console exe). Never hand-edit the copies: re-run the script. Its `.gitattributes` (`* -text`) keeps the builds byte-exact under `core.autocrlf`, which the CSP hashes depend on. Godot's 38 MB build is the one deliberate exception to "keep it lean": it loads only when a reader opens it.
+- **English pages** set `lang: en` in front matter; `page.html` and `head.html` switch `<html lang>`, the skip link and `og:locale` on it.
 - **Gemfile pins `csv`, `bigdecimal`, `base64`, `drb`, `mutex_m`** — Ruby 3.4+ removed these from stdlib; old `github-pages` Jekyll needs them. Don't delete them.
 - **Push to publish** — GitHub Pages builds automatically on push to `master`.
 - **Contact is a plain `mailto:` link** (GDPR decision) — no forms, no Formspree, no Disqus, no third-party processors. If a contact form is ever added again, it needs consent handling + a documented processor in `privacy.html`.

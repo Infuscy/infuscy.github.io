@@ -28,7 +28,12 @@ comment services. All content is owner-authored. The residual risks are:
   standalone chapter pages (`translated/*.html`, `fire-to-future/*.html`) carry
   their own meta CSP (`script-src 'self'`, the font control is
   `/js/reader-font.js`) + referrer policy — `scripts/patch_translated_security.py`
-  re-applies both after regenerating novel chapters upstream.
+  re-applies both after regenerating novel chapters upstream. The three game demos
+  (`claude-code-2d-engines/play/*/index.html`) get their own meta CSP from
+  `scripts/build_engine_demos.py`: inline scripts pinned by sha256; the Godot and
+  Defold pages also need `'wasm-unsafe-eval'` and `'unsafe-eval'` (Godot's
+  `JavaScriptBridge.eval`, Defold's engine startup), and Defold's Fullscreen button
+  is allowed through `'unsafe-hashes'`. No third-party sources on any of them.
 - Referrer policy meta tag everywhere (`strict-origin-when-cross-origin`).
 - Frame-buster script in `js/freelancer.js` (Pages cannot set
   `X-Frame-Options`/`frame-ancestors`).
@@ -36,7 +41,9 @@ comment services. All content is owner-authored. The residual risks are:
 - No cookies, no sessionStorage. The only localStorage key is
   `reader-font-scale` (`js/reader-font.js`): written only when the reader clicks
   the font buttons, removed at the default size — strictly necessary storage
-  (Law 506/2004 art. 4(6)(b)), disclosed in `/privacy/`.
+  (Law 506/2004 art. 4(6)(b)), disclosed in `/privacy/`. The Godot and Defold
+  game demos also open an IndexedDB file system (`/userfs`, `/data`) for engine
+  save files; the games save nothing (at most an empty folder), also disclosed.
 - The novel TOC script lives in `js/novel-toc.js` + `/novel/chapters.js`
   (Jekyll-rendered data) — the Jekyll-layer CSP is `script-src 'self'` with no
   `'unsafe-inline'`.

@@ -33,6 +33,14 @@ permalink: /art47-hcl419/
   .articol table { font-size: 17px; }
   .articol .small-note { font-size: 16.5px; color: #64748b; }
   .articol .tag { display: inline-block; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; border-radius: 4px; padding: 1px 10px; font-size: 14px; font-weight: bold; }
+  /* Bootstrap's .table-responsive forces nowrap cells below 768px; let them wrap so
+     every column stays on screen on a phone. */
+  @media (max-width: 767px) {
+    .articol .table-responsive > .table th,
+    .articol .table-responsive > .table td { white-space: normal; }
+    .articol .table-responsive { border: 0; }
+    .articol table { font-size: 15px; }
+  }
 </style>
 
 <div class="kicker">Parcări de reședință · Craiova · HCL 419/2025</div>

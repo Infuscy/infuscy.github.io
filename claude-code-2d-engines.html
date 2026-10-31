@@ -1,0 +1,317 @@
+---
+layout: page
+lang: en
+title: "Best engine for small 2D games on mobile, web and Steam with Claude Code (2026)"
+description: "Claude Code built the same small 2D game in Godot 4.7, Phaser 4 and Defold 1.14, then exported it for Steam, Google Play, the App Store and the web from one Windows PC. Which engine to pick, what was measured, and what still needs a Mac."
+img: claude-code-2d-engines.png
+og_type: article
+twitter_card: summary_large_image
+permalink: /claude-code-2d-engines/
+---
+
+<div class="container articol" style="padding-top: 110px; max-width: 920px;">
+
+<style>
+  .articol { font-size: 19.5px; line-height: 1.72; }
+  /* The theme stylesheet sets p { font-size: 1.0625rem } (17px) site-wide;
+     paragraphs in the article follow the article scale instead. */
+  .articol p { font-size: 19.5px; line-height: 1.72; }
+  .articol .kicker { color: #2563eb; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; font-size: 15px; margin-bottom: 10px; }
+  .articol h1 { font-size: 37px; line-height: 1.25; margin-top: 0; }
+  .articol .lede { font-size: 21px; line-height: 1.65; color: #334155; margin-top: 18px; }
+  .articol .art-meta { color: #64748b; font-size: 17px; margin: 14px 0 8px; }
+  .articol blockquote { background: #f1f5f9; border-left: 4px solid #2563eb; padding: 16px 20px; line-height: 1.65; }
+  .articol blockquote p { margin-bottom: 6px; }
+  .articol blockquote cite { color: #64748b; font-style: normal; font-size: 16.5px; }
+  .articol .box { border: 1px solid #cbd5e1; border-radius: 6px; padding: 18px 20px; margin: 20px 0; background: #f8fafc; }
+  .articol .box.warn { border-color: #f59e0b; background: #fffbeb; }
+  .articol .box.info { border-color: #93c5fd; background: #eff6ff; }
+  .articol .box h3 { margin-top: 0; font-size: 21px; }
+  .articol h2 { margin-top: 44px; padding-bottom: 6px; border-bottom: 1px solid #e2e8f0; }
+  .articol h3 { margin-top: 28px; font-size: 22.5px; }
+  .articol .toc { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 18px 24px; font-size: 18px; }
+  .articol .toc ol { margin-bottom: 0; }
+  .articol table { font-size: 17px; }
+  .articol .small-note { font-size: 16.5px; color: #64748b; }
+  .articol .tag { display: inline-block; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; border-radius: 4px; padding: 1px 10px; font-size: 14px; font-weight: bold; }
+  .articol code { font-size: 0.85em; color: #1e293b; background: #f1f5f9; }
+  .articol pre { font-size: 14.5px; line-height: 1.55; white-space: pre-wrap; word-break: normal; overflow-wrap: anywhere; background: #f8fafc; border: 1px solid #e2e8f0; }
+  .articol pre code { background: none; font-size: inherit; }
+  /* Bootstrap's .table-responsive forces nowrap cells below 768px; let them wrap so
+     every column stays on screen on a phone. */
+  @media (max-width: 767px) {
+    .articol .table-responsive > .table > thead > tr > th,
+    .articol .table-responsive > .table > tbody > tr > td { white-space: normal; }
+    .articol .table-responsive { border: 0; }
+    .articol table { font-size: 15px; }
+  }
+</style>
+
+<div class="kicker">Game development · Claude Code · October 2026</div>
+<h1>Which engine for small 2D games on mobile, web and Steam, if Claude Code writes the code?</h1>
+<p class="lede">Short answer: <strong>Godot 4.7 with GDScript</strong>. Claude Code built the same small 2D action game in three engines, and each one was then taken as far toward Steam, Google Play, the App Store and the web as a single Windows PC allows. Godot came first overall and on both mobile stores. Pick <strong>Phaser 4</strong> instead if the browser is your main platform, and <strong>Defold</strong> if the smallest possible download or a later console release matters more than anything else.</p>
+<p class="art-meta"><strong>Published:</strong> 31 October 2026 &middot; <strong>Author:</strong> Buse Florin-Emilian &middot; ~15 min read &middot; <strong>Tested:</strong> Godot 4.7.2, Phaser 4.2.1 (with Capacitor 8.6 and Electron 45), Defold 1.14.0, Claude Code (Opus 5.5) on Windows 11</p>
+<p class="small-note"><strong>Transparency:</strong> Claude Code, an AI coding agent, ran the benchmarks described here and drafted this article from their results; the author reviewed the text and checked the figures before publication. Editorial responsibility: Buse Florin-Emilian (<a href="/#contact">contact</a>). The question, the platforms and the weights were fixed before any engine was scored, and personal impressions from playing the builds were deliberately left out.</p>
+
+<div class="box warn">
+<h3>The short version</h3>
+<ul>
+  <li><strong>Pick Godot 4.7 (GDScript)</strong> if you want one project that ships to Steam, Google Play, the App Store and the web. It scored <strong>4.51 out of 5</strong>, against 4.05 for Phaser 4 + Capacitor + Electron and 3.85 for Defold 1.14.</li>
+  <li><strong>Claude Code can build a working game in all three.</strong> Each engine got a fresh session; all three finished the same 12-point game and a follow-up change with no human help and no invented APIs. Godot needed the fewest tool calls and made no mistakes it had to correct.</li>
+  <li><strong>Phaser is the pick for a web-first game</strong> (a 1.3 MB web build), but its route to Steam through Electron is heavy (358 MB) and its Steam integration is stale. <strong>Defold</strong> makes the smallest builds (9 MB on Windows, about 2.5 MB on Android) and has official console support, but scored lowest on graphics and on the agent loop.</li>
+  <li><strong>No engine can sign an iPhone build on Windows.</strong> Every route ends on a rented Mac in the cloud, which is free for public GitHub repositories. Godot's iOS export was the most App Store-ready of the three.</li>
+  <li><strong>Caveats:</strong> nothing has run on a phone yet, each engine got one run, and from April 2027 Apple's new SDK means every iOS game must cope with resizable windows.</li>
+</ul>
+</div>
+
+<div class="toc">
+<strong>Contents</strong>
+<ol>
+  <li><a href="#method">What "best" means here</a></li>
+  <li><a href="#scores">The scores</a></li>
+  <li><a href="#benchmark">The benchmark: one game, three engines</a></li>
+  <li><a href="#steam">Steam</a></li>
+  <li><a href="#android">Android</a></li>
+  <li><a href="#ios">iOS from a Windows PC</a></li>
+  <li><a href="#web">The web</a></li>
+  <li><a href="#pick">Pick by priority</a></li>
+  <li><a href="#weights">Does the platform weighting change the answer?</a></li>
+  <li><a href="#others">The other engines</a></li>
+  <li><a href="#start">Getting started with Godot and Claude Code</a></li>
+  <li><a href="#caveats">Caveats</a></li>
+  <li><a href="#sources">Sources</a></li>
+</ol>
+</div>
+
+<h2 id="method">1. What "best" means here</h2>
+
+<p>The premise is that <strong>Claude Code writes, builds and tests the game</strong>, and the human mostly reviews. So an engine is judged on three things: how efficiently an AI agent gets a correct, working game out of it; how far a Windows PC gets toward each store; and how the result looks when there is no artist and everything on screen comes from code. Only things that could be measured or looked up in documentation and source code count.</p>
+
+<p>The setup is a solo developer on Windows 11 with no Mac, no iPhone and no artist, a project of 3 to 12 months, and a preference for free, open-source tools. Steam, Google Play and the App Store weigh the same; the web build is a bonus. Three engines were measured hands-on. Thirteen more were screened against documented facts (<a href="#others">section 10</a>).</p>
+
+<p>The arithmetic is simple and fixed in advance. A check scores 5 if it passes, 3 if it partly passes and 1 if it fails. A measured quantity, such as build size or session time, scores 5 for the best engine and loses 2 points for every tenfold gap to the best. Each engine ran once, so <strong>gaps of 0.15 or less are ties</strong>.</p>
+
+<h2 id="scores">2. The scores</h2>
+
+<div class="table-responsive">
+<table class="table table-striped">
+<thead><tr><th>Criterion (weight)</th><th>Phaser 4.2.1 + Capacitor + Electron</th><th>Godot 4.7.2 GDScript</th><th>Defold 1.14.0</th></tr></thead>
+<tbody>
+<tr><td>Agent build loop (35)</td><td>4.74</td><td><strong>4.98</strong></td><td>4.36</td></tr>
+<tr><td>Windows/Steam shipping (20)</td><td>2.76</td><td>4.17</td><td><strong>4.20</strong></td></tr>
+<tr><td>Android shipping and testing (20)</td><td>4.01</td><td><strong>4.41</strong></td><td>3.83</td></tr>
+<tr><td>iOS shipping and testing from a Windows PC (20)</td><td>3.60</td><td><strong>4.27</strong></td><td>3.58</td></tr>
+<tr><td>Graphics without an artist (15)</td><td>4.17</td><td><strong>4.50</strong></td><td>2.67</td></tr>
+<tr><td>Web build (5)</td><td><strong>5.00</strong></td><td>3.53</td><td>4.32</td></tr>
+<tr><td>Free and open source (5)</td><td><strong>5.00</strong></td><td><strong>5.00</strong></td><td>3.00</td></tr>
+<tr><td><strong>Weighted total (out of 5)</strong></td><td>4.05</td><td><strong>4.51</strong></td><td>3.85</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>The weights follow the premise. The <strong>agent loop</strong> carries the most (35 of 120) because the agent builds the game. <strong>Steam, Android and iOS</strong> get 20 each, as three equally important stores. <strong>Graphics</strong> gets 15 because, with no artist, the engine's drawing defaults and the agent's choices are all you get. The <strong>web build</strong> and an <strong>open-source licence</strong> get 5 each, as a bonus and a preference.</p>
+
+<p>Godot's lead over Phaser comes mostly from Steam, where Phaser depends on Electron, and then from iOS, the loop, Android and graphics; Phaser wins only the web column. Its lead over Defold comes from graphics, the loop and the two mobile criteria, plus Defold's non-OSI licence. Defold edges Godot on Steam, by 0.03, thanks to its tiny build. <a href="#weights">Section 9</a> shows that no reasonable re-weighting changes the order.</p>
+
+<h2 id="benchmark">3. The benchmark: one game, three engines</h2>
+
+<p>Each engine got one fresh Claude Code session (Opus 5.5) on the same Windows 11 machine on 28 October 2026. The task was "Asteroids-lite", judged against 12 checks: a title screen; a ship that rotates, thrusts with inertia, fires and wraps around the screen; asteroids that split in two twice; scoring, lives and a sound; waves that grow; game over and restart; a seed for repeatable runs; a command-line test; Windows and web builds made from the command line; and an automatic screenshot with a JSON dump of the game state. The same session then received a change request: add a pause menu and power-ups.</p>
+
+<div class="table-responsive">
+<table class="table table-striped">
+<thead><tr><th>Measured on 28 Oct 2026</th><th>Phaser 4.2.1 + TypeScript</th><th>Godot 4.7.2 GDScript</th><th>Defold 1.14.0</th></tr></thead>
+<tbody>
+<tr><td>Checks passed · human help · invented APIs</td><td>12/12 · 0 · 0</td><td>12/12 · 0 · 0</td><td>12/12 · 0 · 0</td></tr>
+<tr><td>Session start to finished change request</td><td><strong>23.0 min</strong></td><td>25.2 min</td><td>about 30 min</td></tr>
+<tr><td>Tool calls, whole session</td><td>115</td><td><strong>81</strong></td><td>about 170</td></tr>
+<tr><td>Edit to screenshot, median</td><td>3.83 s</td><td><strong>3.31 s</strong></td><td>5.72 s</td></tr>
+<tr><td>Failed builds + wrong assumptions corrected</td><td>0 + 1</td><td><strong>0 + 0</strong></td><td>1 + 2</td></tr>
+<tr><td><strong>Agent loop score</strong></td><td>4.74</td><td><strong>4.98</strong></td><td>4.36</td></tr>
+</tbody>
+</table>
+</div>
+
+<p><strong>The headline is that all three worked.</strong> Three engines, three complete games, no human help and no hallucinated API. The scored differences are about effort. Godot's agent kept the whole project in plain text: a project file, two tiny scenes, input actions registered in code and a fixed 60 Hz simulation step, which made pause and repeatable tests easy. Phaser's agent checked every call against Phaser's TypeScript definitions, which kept API errors at zero, but its first playtest found that a very short key tap could be missed, and Electron's security settings blocked the test tool from attaching to the packaged app. Defold's agent had a Defold plugin for Claude Code that answered every API question for the installed version, yet it still made two wrong assumptions about how GUI nodes draw and needed about twice Godot's tool calls.</p>
+
+<p>The spread, 4.36 to 4.98, is narrow. That is the honest reading: <strong>all three are workable engines for an AI agent</strong>, and the loop separates them by degree, not by kind.</p>
+
+<h2 id="steam">4. Steam</h2>
+
+<p>Godot and Defold export native Windows executables. Phaser runs in a browser engine, so reaching Steam means wrapping it in Electron, which bundles Chromium. The measured Windows builds were <strong>358 MB for Phaser + Electron, 104 MB for Godot and 9 MB for Defold</strong>.</p>
+
+<p>The Steam integration splits them further. The most-used Steamworks binding for Node, steamworks.js, last shipped a release in August 2024, and the Steam overlay only draws over Electron with a GPU workaround switch (<code>--in-process-gpu</code>). Godot uses the community GodotSteam extension, which is active and moved from GitHub to Codeberg in October 2026; a build for 4.7 had not been confirmed when this was written. Defold's official Steam extension had a release in June 2026, but every Defold native extension, Steam included, is compiled on Defold's free cloud build server, which publishes no service guarantee; the alternative is self-hosting that build server in Docker.</p>
+
+<h2 id="android">5. Android</h2>
+
+<p>All three produced a signed APK and App Bundle from the command line, targeting Android 16 (API 36) with 16 KB page alignment, which are Google Play's current hard rules. Nothing was installed on a phone or emulator in this check; it is build quality only.</p>
+
+<div class="table-responsive">
+<table class="table table-striped">
+<thead><tr><th>Android, 29–30 Oct 2026</th><th>Phaser + Capacitor</th><th>Godot</th><th>Defold</th></tr></thead>
+<tbody>
+<tr><td>Estimated Play download</td><td>about 3.1 MB</td><td>about 26.4 MB</td><td><strong>about 2.5 MB</strong></td></tr>
+<tr><td>Signed release build time (warm)</td><td>33.9 s</td><td>7.7 s (APK)</td><td><strong>7.3 s</strong> (APK and AAB)</td></tr>
+<tr><td>Extra installs beyond the engine</td><td>Android SDK, JDK, Gradle, npm packages</td><td>Android SDK, JDK, Gradle</td><td><strong>None</strong></td></tr>
+<tr><td>Game defaults (game category, landscape lock)</td><td>Neither set</td><td>Both</td><td>Both</td></tr>
+<tr><td>Back gesture, safe area, touch joystick, vibration</td><td>Plugins to wire</td><td><strong>All built in</strong></td><td>No vibration; community touch controls</td></tr>
+<tr><td><strong>Android score</strong></td><td>4.01</td><td><strong>4.41</strong></td><td>3.83</td></tr>
+</tbody>
+</table>
+</div>
+
+<p><strong>Defold builds the best package; Godot ships the most complete Android game.</strong> Defold's build was flawless: one command, 7.3 seconds, nothing extra to install. Godot's package is ten times larger because the engine runtime is about 99% of it, and the agent hit three problems on the way to the Play bundle, all fixable: the Gradle daemon made the headless export hang, a template flag used on its own never exits, and a missing project icon prints an error. In exchange, Godot's export already handles the back gesture, system-bar insets, a built-in virtual joystick and vibration, and its community billing plugin moved to Play Billing Library 9.1 in July 2026. Capacitor is the easiest to test on a device (live reload and Chrome DevTools), but its generated manifest lacks the game category and orientation lock, which Android 16 needs before it respects a landscape lock on tablets.</p>
+
+<h2 id="ios">6. iOS from a Windows PC</h2>
+
+<p>Signing an App Store build requires Apple's tools on macOS. <strong>No engine signs an iOS build on Windows</strong>, so the check measured how far each one gets and how ready the result is.</p>
+
+<div class="table-responsive">
+<table class="table table-striped">
+<thead><tr><th>iOS, 30–31 Oct 2026</th><th>Phaser + Capacitor</th><th>Godot</th><th>Defold</th></tr></thead>
+<tbody>
+<tr><td>Furthest point from Windows</td><td>Xcode project (13 s)</td><td>Xcode project (5.5 s)</td><td><strong>Unsigned app, packed as a 1.70 MB .ipa</strong></td></tr>
+<tr><td>App Store upload defaults (5 checks)</td><td>3/5</td><td><strong>5/5</strong></td><td>3/5</td></tr>
+<tr><td>Game defaults: landscape only, 120 Hz key, hidden status bar</td><td>0/3</td><td><strong>3/3</strong></td><td>2/3</td></tr>
+<tr><td>Testing without a Mac</td><td>Good</td><td>Weakest</td><td><strong>Best</strong></td></tr>
+<tr><td><strong>iOS score</strong></td><td>3.60</td><td><strong>4.27</strong></td><td>3.58</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>Defold got furthest: its command-line builder assembled a complete unsigned app on Windows and only stumbled at packing it, which a 0.3-second script fixed. But that app lacks the App Store icon catalog and the export-compliance key, so it still needs work on a Mac. Godot exported a complete Xcode project after one fix (it needs a 1024 px project icon) and <strong>ships every key App Store Connect expects</strong>: a privacy manifest, the scene life cycle iOS now requires, a launch storyboard, the encryption declaration, a landscape lock and a request for 120 Hz on ProMotion iPhones. Capacitor's template is a generic app's: portrait allowed, status bar visible, and no app privacy manifest. Its web view also caps animation at 60 Hz.</p>
+
+<p><strong>The route without a Mac is the same for every engine:</strong> export the project on Windows, let a hosted macOS runner build and sign it, upload it, then test through TestFlight. GitHub's standard macOS runners are free in public repositories and cost $0.062 a minute in private ones after the plan's included credit; Codemagic gives individuals 500 free macOS minutes a month. The upload can run on that Mac or from Windows with Apple's Transporter tool or the App Store Connect API. You still need the Apple Developer Program ($99 a year).</p>
+
+<p>Godot's weak spot is testing without a Mac: its iOS Simulator libraries shipped broken in 4.6.2 and 4.7.1 (the 4.7.2 status is unverified), and on a device the agent gets logs only. Defold is the most testable on paper, with documented Simulator builds for Apple-silicon Macs and an automation extension that compiles for iOS (not yet tried on an iPhone).</p>
+
+<div class="box info">
+<h3>April 2027: plan for resizable windows now</h3>
+<p>Apple announced on 9 September 2026 that from April 2027 every upload must be built with the iOS 27 SDK. Under that SDK, the setting Godot and Defold use to keep a game full-screen no longer stops the system from resizing it, on iPad and on iPhone alike, and the new foldable iPhone Duo makes that concrete. Whatever engine you pick, design the game to render correctly at any window size from day one.</p>
+</div>
+
+<h2 id="web">7. The web</h2>
+
+<p>All three web builds ran. <strong>Phaser's was 1.3 MB, Defold's 6.2 MB and Godot's 38 MB.</strong> Godot's web export uses the WebGL 2 Compatibility renderer and GDScript only (C# projects can't export to the web), and runs single-threaded by default. That is fine for itch.io or a demo, but the first load is heavier. If instant play in a browser is the main way people will find your game, Phaser has a real advantage here.</p>
+
+<h2 id="pick">8. Pick by priority</h2>
+
+<div class="table-responsive">
+<table class="table table-striped">
+<thead><tr><th>If your priority is…</th><th>Pick</th><th>Why</th></tr></thead>
+<tbody>
+<tr><td>One codebase for Steam and both mobile stores, web as a bonus</td><td><strong>Godot 4.7, GDScript</strong></td><td>First in every weighting tried, including iOS weighted from zero to three times Steam</td></tr>
+<tr><td>The browser first (web portals, itch.io, instant play)</td><td><strong>Phaser 4</strong>, with Capacitor for mobile and Electron for Steam</td><td>1.3 MB web build; it ties Godot once the web carries about 27% of the weight, more than any single store</td></tr>
+<tr><td>The smallest downloads, or mobile judged only on raw build quality</td><td><strong>Defold</strong></td><td>9 MB on Windows, 2.5 MB on Android, an unsigned iOS app from Windows; it draws level with Godot only if graphics and mobile features are ignored</td></tr>
+<tr><td>A console release later</td><td><strong>Defold</strong>, or Godot through a porting service</td><td>Defold supports Nintendo Switch, PlayStation and, since 1.14.0, Xbox, free for approved developers; Godot reaches consoles through paid third parties such as W4 Games</td></tr>
+<tr><td>Mobile first, Steam not important</td><td><strong>Godot</strong>, but also try Flutter + Flame</td><td>With Steam's weight at zero Godot still leads, 4.58 to 4.31</td></tr>
+<tr><td>You want C#</td><td>Godot with GDScript anyway</td><td>Godot's C# can't export to the web, and its iOS export is refused on Windows</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 id="weights">9. Does the platform weighting change the answer?</h2>
+
+<p>Weighting Steam the same as each mobile store is a choice, so it was checked against the 2025–26 market. By total spending, mobile is far bigger: players spent about <strong>$82 billion on mobile games in 2025</strong>, with the App Store taking roughly 1.75 times Google Play's game revenue, while <strong>Steam took about $17.7 billion</strong>. Newzoo's 2026 forecast puts mobile at 57% of the games market, consoles at 22% and PC at 21%.</p>
+
+<p>For a solo indie, though, the picture flips. Mobile money concentrates in big free-to-play games with large advertising budgets; mobile game spending grew 1% in 2025 and fell 2% in the first half of 2026, while Steam grew 15% in 2025 and indie games took about a quarter of it, roughly $4.5 billion. In GDC's 2026 survey, 83% of developers were making PC games. Equal weights sit between these two readings, so the model was re-run with weights taken from each.</p>
+
+<div class="table-responsive">
+<table class="table table-striped">
+<thead><tr><th>Weights (Steam / Android / iOS)</th><th>Phaser</th><th>Godot</th><th>Defold</th></tr></thead>
+<tbody>
+<tr><td>Equal, 20 / 20 / 20 (this article)</td><td>4.05</td><td><strong>4.51</strong></td><td>3.85</td></tr>
+<tr><td>By store game revenue, 10.6 / 18.0 / 31.4</td><td>4.11</td><td><strong>4.52</strong></td><td>3.79</td></tr>
+<tr><td>Steam 20, mobile split by spending, 20 / 14.5 / 25.5</td><td>4.03</td><td><strong>4.51</strong></td><td>3.83</td></tr>
+<tr><td>Steam ahead, 30 / 10.9 / 19.1</td><td>3.95</td><td><strong>4.49</strong></td><td>3.88</td></tr>
+<tr><td>Steam far ahead, 40 / 7.3 / 12.7</td><td>3.87</td><td><strong>4.48</strong></td><td>3.92</td></tr>
+<tr><td>Equal, plus a console criterion weighted like Steam</td><td>3.61</td><td><strong>4.30</strong></td><td>4.01</td></tr>
+</tbody>
+</table>
+</div>
+
+<p><strong>Godot is first in every row.</strong> No Steam weight from 0 to 400 lets another engine overtake it, because Godot is never far behind on any platform. Adding consoles is the only change that helps Defold (scored 5 for official support, Godot 3 for paid porting, Phaser 1 for none), and even then Defold draws level only when consoles weigh about twice as much as Steam.</p>
+
+<h2 id="others">10. The other engines</h2>
+
+<p>Engines without hands-on data were screened against the same hard requirements: a maintained route to Steam, a command-line path to a Play-ready App Bundle, a route to the App Store from Windows that survives Apple's iOS 27 rules, and preferably an open-source licence. Every one that supports iOS needs a Mac somewhere to compile and sign.</p>
+
+<div class="table-responsive">
+<table class="table table-striped">
+<thead><tr><th>Engine</th><th>Why it was not picked</th></tr></thead>
+<tbody>
+<tr><td>Unity 6.3</td><td>Strong mobile plugins and a no-Mac iOS cloud build, but closed source, and its Terms of Service (§17.2(ff)) allow AI agents and command-line tools only through "Authorized Agentic Access"</td></tr>
+<tr><td>GameMaker</td><td>Paid licence for commercial release; its command line documents APK builds only; iOS builds need a physical Mac</td></tr>
+<tr><td>Flutter + Flame</td><td>The best Android agent tooling among code frameworks, but Steam only through a Windows-only Dart wrapper; worth a benchmark for a mobile-led game</td></tr>
+<tr><td>libGDX</td><td>Billing and Steam bindings lag behind; iOS 27 scene support exists only in an unreleased version</td></tr>
+<tr><td>MonoGame</td><td>Open bugs: the gamepad Back input never triggers on Android 16, and iOS 27 SDK builds crash on launch</td></tr>
+<tr><td>GDevelop</td><td>Signs iOS builds in its own cloud, but it is an event-sheet editor with no official command line, and iOS builds need a paid tier</td></tr>
+<tr><td>Cocos Creator, Solar2D</td><td>Builds need the GUI; Cocos also reports an iOS 27 build crash</td></tr>
+<tr><td>Bevy, Ebitengine</td><td>Mobile lifecycle issues still open, or every store rule left to hand-written native code</td></tr>
+<tr><td>Unreal 5.8</td><td>Signed iOS builds need a Mac, and minute-long C++ iterations are heavy for a small 2D game</td></tr>
+<tr><td>LÖVE, raylib, pygame-ce</td><td>No current route to the App Store</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 id="start">11. Getting started with Godot and Claude Code</h2>
+
+<ul>
+  <li><strong>Pin the version.</strong> Use Godot 4.7.2 and its export templates, and don't switch to the 4.8 beta in the middle of a project.</li>
+  <li><strong>Keep the project in text.</strong> Small scenes, input actions registered in code, <code>preload()</code> constants instead of <code>class_name</code>. Put the game rules in a pure simulation layer with a fixed 60 Hz step and a seeded random generator, so every test is repeatable.</li>
+  <li><strong>Give the agent a loop it can see.</strong> Headless import, unit tests with GUT, then a scripted run that saves a screenshot and a <code>state.json</code> the agent reads back. The benchmark measured 3.3 seconds from edit to screenshot.</li>
+  <li><strong>Set a 1024 px opaque project icon on day one.</strong> It fixes an Android export error and the iOS export failure.</li>
+  <li><strong>Android release builds:</strong> set <code>GRADLE_OPTS=-Dorg.gradle.daemon=false</code>, and pass the build-template flag only together with an export.</li>
+  <li><strong>iOS:</strong> export the Xcode project on Windows and let a GitHub Actions macOS runner build, sign and upload it, with the certificates kept in repository secrets.</li>
+  <li><strong>Design for any screen.</strong> Stretch mode <code>canvas_items</code> with aspect <code>expand</code>, the HUD inside the safe area, and screenshots at several sizes, from 20:9 phones to 4:3 iPads.</li>
+</ul>
+
+<p>A short <code>CLAUDE.md</code> carries those rules into every session. This excerpt is the core of the one written for this project:</p>
+
+<pre><code># CLAUDE.md (excerpt): Godot 4.7.2 + GDScript; Steam, Google Play, App Store, web
+
+## Stack (pinned; never upgrade unless asked)
+Godot 4.7.2 stable, run through a wrapper script with a timeout and a saved log. GUT for tests.
+No Godot 4.8 beta. No C# (no web export; iOS export is refused off macOS).
+
+## Loop for every change
+1. Plan 3-6 steps and name the files you will touch.
+2. Edit. Rules live in scripts/sim/ (no Node, Input or rendering calls); drawing and UI in scripts/view/.
+3. Run the gate: import, unit tests, smoke screenshot. Fix until green.
+4. Open the newest screenshots and state.json. Say whether they match the intent.
+5. Report what was NOT verified (phone, iOS, audio, gamepad).
+
+## Godot 4 rules (much of your training data is Godot 3)
+- await not yield; CharacterBody2D not KinematicBody2D; instantiate() not instance().
+- Never trust an exit code alone: grep the log for SCRIPT ERROR, Parse Error and ERROR.
+- Keep config/icon set to the 1024x1024 opaque icon.png.
+
+## Mobile
+- Design at 1280x720, stretch canvas_items, aspect expand; HUD inside get_display_safe_area().
+- Never assume a fixed window size or orientation; pause if the window resizes mid-play.
+- You cannot build or sign iOS here: verify only through the CI run's logs and screenshots.</code></pre>
+
+<h2 id="caveats">12. Caveats</h2>
+
+<ul>
+  <li><strong>One run per engine.</strong> The three sessions ran side by side on one machine, and their clocks started at different points. Treat small gaps as ties.</li>
+  <li><strong>Nothing has run on a phone.</strong> The Android check was build-only and the iOS check export-only; nothing was compiled for iOS. The benchmark game has no touch controls yet.</li>
+  <li><strong>Three of Godot's iOS points rest on unverified evidence:</strong> 120 Hz under its OpenGL ES renderer, and its Apple plugin's support for 4.7 in purchases and Game Center. Marking all three as partial passes still leaves Godot first, at 4.44.</li>
+  <li><strong>GodotSteam's 4.7 build</strong> was not confirmed at the time of writing.</li>
+  <li><strong>Defold's small Android package</strong> was measured on a project with no native extensions; a Defold game that also ships on Steam would most likely build through the cloud server too.</li>
+  <li><strong>The graphics score</strong> reflects what one agent chose to draw as much as each engine's defaults. Only about 3–5 of the 11 rubric points between Godot and Defold come from defaults.</li>
+  <li><strong>Everything is dated 31 October 2026.</strong> Engines and store rules change monthly; Google raises the target API every August and Apple the SDK every April.</li>
+</ul>
+
+<h2 id="sources">13. Sources</h2>
+
+<p><strong>Engines:</strong> <a href="https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_web.html">Godot: exporting for the web</a> · <a href="https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_ios.html">Godot: exporting for iOS</a> · <a href="https://raw.githubusercontent.com/godotengine/godot/4.7.2-stable/misc/dist/apple_embedded_xcode/godot_apple_embedded/godot_apple_embedded-Info.plist">Godot 4.7.2 iOS Info.plist template</a> · <a href="https://docs.godotengine.org/en/stable/classes/class_virtualjoystick.html">Godot VirtualJoystick</a> · <a href="https://github.com/godotengine/godot/issues/122379">Godot Simulator issue #122379</a> · <a href="https://github.com/GodotSteam/GodotSteam">GodotSteam</a> · <a href="https://github.com/xibbon/GodotApplePlugins">GodotApplePlugins</a> · <a href="https://defold.com/llms/manuals/extensions.md">Defold native extensions</a> · <a href="https://defold.com/manuals/ios/">Defold iOS manual</a> · <a href="https://defold.com/build-size">Defold build size</a> · <a href="https://defold.com/license/">Defold license</a> · <a href="https://github.com/defold/defold/pull/13597">Defold PR #13597 (120 Hz)</a> · <a href="https://gamedev.net/news/6398-defold-release-1140/">Defold 1.14.0 release</a> · <a href="https://registry.npmjs.org/steamworks.js">steamworks.js on npm</a> · <a href="https://github.com/JamesMoulang/electron-steam-notes">Electron and the Steam overlay</a> · <a href="https://github.com/ionic-team/capacitor/blob/8.6.0/ios-spm-template/App/App/Info.plist">Capacitor 8.6.0 iOS template</a> · <a href="https://bugs.webkit.org/show_bug.cgi?id=294338">WebKit bug 294338 (60 Hz cap)</a> · <a href="https://www.w4games.com/blog/w4-games-news-1/tag/consoles-8">W4 Games consoles</a>.</p>
+
+<p><strong>Stores and tooling:</strong> <a href="https://developer.apple.com/news/?id=k1mtkt1k">Apple Developer News, 9 Sep 2026</a> · <a href="https://developer.apple.com/documentation/technotes/tn3192-migrating-your-app-from-the-deprecated-uirequiresfullscreen-key">Apple TN3192</a> · <a href="https://developer.apple.com/documentation/technotes/tn3187-migrating-to-the-uikit-scene-based-life-cycle">Apple TN3187</a> · <a href="https://developer.apple.com/news/upcoming-requirements/">Apple upcoming requirements</a> · <a href="https://help.apple.com/itc/transporteruserguide/en.lproj/static.html">Transporter user guide</a> · <a href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/testflight-overview">TestFlight overview</a> · <a href="https://docs.github.com/en/billing/reference/actions-runner-pricing">GitHub Actions runner pricing</a> · <a href="https://codemagic.io/pricing/">Codemagic pricing</a> · <a href="https://developer.android.com/google/play/requirements/target-sdk">Google Play target API</a> · <a href="https://developer.android.com/guide/practices/page-sizes">Android 16 KB page sizes</a> · <a href="https://developer.android.com/about/versions/16/behavior-changes-16">Android 16 behaviour changes</a>.</p>
+
+<p><strong>Market:</strong> <a href="https://gameworldobserver.com/2026/08/26/analytics-in-2026-the-global-video-game-market-will-set-a-revenue-record-thanks-to-gta-vi">Newzoo 2026 forecast (Game World Observer)</a> · <a href="https://sensortower.com/press/press-release-sensor-tower-state-of-gaming-gaming-drove-52-billion-downloads-82b-iap-revenue-on-mobile-and-12b-premium-revenue-on-steam">Sensor Tower State of Gaming</a> · <a href="https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption">TechCrunch on 2025 mobile spending</a> · <a href="https://tech-insider.org/mobile-gaming-market-2026/">App Store and Google Play split (Tech Insider)</a> · <a href="https://tech-insider.org/mobile-game-revenue-decline-2026/">First half of 2026 (Tech Insider)</a> · <a href="https://gameworldobserver.com/2025/12/22/indie-projects-generated-a-quarter-of-the-total-game-revenue-on-steam-by-the-end-of-2025-analytics">Alinea: indie share of Steam in 2025</a> · <a href="https://www.gamingonlinux.com/2026/01/gdc-2026-report-36pct-of-devs-use-genai-28pct-target-steam-deck-and-8pct-target-linux/">GDC 2026 survey (GamingOnLinux)</a>.</p>
+
+<p><strong>Other engines:</strong> <a href="https://unity.com/legal/terms-of-service">Unity Terms of Service</a> · <a href="https://docs.unity3d.com/6000.3/Documentation/Manual/iphone-BuildProcess.html">Unity iOS build process</a> · <a href="https://gamemaker.io/en/get">GameMaker pricing</a> · <a href="https://docs.flutter.dev/deployment/ios">Flutter iOS deployment</a> · <a href="https://github.com/MonoGame/MonoGame/issues/9571">MonoGame #9571</a> · <a href="https://wiki.gdevelop.io/gdevelop5/publishing/ios/">GDevelop iOS publishing</a>.</p>
+
+<p class="small-note">Last updated: 31 October 2026. The measurements come from a desktop benchmark on 28 October 2026, an Android build check on 29–30 October and an iOS export check on 30–31 October, all on one Windows 11 PC; the documented checks were read from each engine's docs and source code at the versions named above. The pass, partial and fail calls and the weights were fixed before scoring. AI-assisted drafting was reviewed by the author: a transparency statement under Article 50 of Regulation (EU) 2024/1689 (the AI Act).</p>
+
+</div>

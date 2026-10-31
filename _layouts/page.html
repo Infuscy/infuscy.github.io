@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="ro">
+<html lang="{{ page.lang | default: 'ro' }}">
     {% include head.html %}
     <body id="page-top" class="index">
-    <a class="skip-link" href="#main">Sari la conținut</a>
+    <a class="skip-link" href="#main">{% if page.lang == 'en' %}Skip to content{% else %}Sari la conținut{% endif %}</a>
     {% include nav.html %}
     <main id="main">
     {{ content }}

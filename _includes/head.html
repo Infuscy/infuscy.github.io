@@ -13,7 +13,7 @@
     <!-- Open Graph / social sharing (meta only, no third-party requests) -->
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:type" content="{% if page.og_type %}{{ page.og_type }}{% else %}website{% endif %}">
-    <meta property="og:locale" content="ro_RO">
+    <meta property="og:locale" content="{% if page.lang == 'en' %}en_US{% else %}ro_RO{% endif %}">
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | normalize_whitespace | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">

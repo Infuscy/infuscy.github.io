@@ -304,7 +304,7 @@ body {
 <h2 id="ch29_combustion-291-the-otto-four-stroke-cycle">29.1 The Otto Four-Stroke Cycle</h2>
 <p>Intake (fuel+air drawn in) → compression (work invested) → POWER (ignition, expansion does work) → exhaust. Four strokes, one power stroke — the torque pulses smooth out across multiple cylinders.</p>
 <ul>
-<li>Compression ratio (swept ÷ clearance volume) drives thermal efficiency: η ≈ 1 − r^(1−γ). Raising r from 4:1 to 12:1 lifts ideal efficiency from ~43 % to ~63 %, roughly a 1.5× gain — but knock (premature fuel self-ignition) caps it, which is why octane (<a href="ch28.html">Ch 28</a>) is an engine technology, not just a refinery metric.</li>
+<li>Compression ratio (total cylinder volume ÷ clearance volume) drives thermal efficiency: η ≈ 1 − r^(1−γ). Raising r from 4:1 to 12:1 lifts ideal efficiency from ~43 % to ~63 %, roughly a 1.5× gain — but knock (premature fuel self-ignition) caps it, which is why octane (<a href="ch28.html">Ch 28</a>) is an engine technology, not just a refinery metric.</li>
 <li>Ignition systems: hot tube (primitive) → magneto (self-powered spark, no battery needed) → coil/battery/distributor.</li>
 <li>Carburetion meters fuel into airflow by venturi depression; mixture strength varies with load/cold start (chokes). Fuel injection later replaces guesswork with metered precision.</li>
 </ul>
@@ -339,7 +339,7 @@ body {
 
 <p><strong>Tuning rules:</strong> mixture slightly rich for starting and full load (cooling + power), stoichiometric for cruise, lean misfires if overdone; spark advanced with speed, retarded for starting (kickback breaks arms — retard at crank); the cooling system must reject roughly as much heat as the shaft delivers, and the exhaust carries about as much again (size the radiator accordingly; fit a thermostat). An engine that starts easily, idles steadily, and pulls without pinking under load is tuned; chase nothing exotic before those three hold.</p>
 <h2 id="ch29_combustion-292-the-diesel-divergence">29.2 The Diesel Divergence</h2>
-<p>Diesel's insight: compress AIR alone to ~18:1+; injected fuel self-ignites on contact with ~550 °C compressed air. No ignition system, higher compression = higher efficiency (~40 %+ vs Otto's ~25–30 % of the era), heavy fuels acceptable. The engineering fight was injection precision — air-blast injection worked but demanded compressors; solid (jerk-pump) injection (plunger pumps with helix-metering) made diesels practical everywhere from trucks to ships.</p>
+<p>Diesel's insight: compress AIR alone to ~14–22:1; injected fuel self-ignites on contact with ~550 °C compressed air. No ignition system, higher compression = higher efficiency (~40 %+ vs Otto's ~25–30 % of the era), heavy fuels acceptable. The engineering fight was injection precision — air-blast injection worked but demanded compressors; solid (jerk-pump) injection (plunger pumps with helix-metering) made diesels practical everywhere from trucks to ships.</p>
 <div class="table-wrap"><table>
 <thead>
 <tr>
@@ -381,7 +381,7 @@ body {
 </tr>
 </tbody>
 </table></div>
-<p>Marine slow-speed two-strokes run at ~100 rpm on residual oil, exceed 50 % efficiency, and move 90 % of world trade tonnage (<a href="ch24.html">Ch 24</a> finale).</p>
+<p>Marine slow-speed two-strokes run at ~100 rpm on residual oil, exceed 50 % efficiency, and power most of the merchant fleet that carries 80–90 % of world trade by volume (<a href="ch24.html">Ch 24</a> §24.5).</p>
 <p><strong>Injection discipline:</strong> fuel filtered to microns, pump timing to crank-degrees, nozzles popping at 150–300 bar with clean spray cones. Most "bad diesel" is dirty fuel, air in lines, or cold-start abuse — bleed, heat, and filter before rebuilding.</p>
 <h2 id="ch29_combustion-293-the-automobile-system">29.3 The Automobile System</h2>
 <p>A car is a SYSTEM around its engine:</p>
@@ -409,7 +409,7 @@ body {
 <h2 id="ch29_combustion-295-tractors-and-farm-mechanization">29.5 Tractors and Farm Mechanization</h2>
 <p>The tractor is arguably the ICE's greatest humanitarian application:</p>
 <ul>
-<li>One driver + 30–50 hp replaces a dozen horses AND their 25 % cropland feed bill (<a href="ch08.html">Ch 8</a>) — land returns to food production directly.</li>
+<li>One driver + 30–50 hp replaces a dozen horses AND frees the cropland that fed them (about a quarter of US cropland grew horse and mule feed in 1910–1920; <a href="ch08.html">Ch 8</a> §8.3) — land returns to food production directly.</li>
 <li>PTO shafts and three-point hitches make one tractor power plows, seeders, sprayers, balers (<a href="ch07.html">Ch 7</a>).</li>
 <li>Rubber tires (1930s) raised drawbar efficiency and fuel economy substantially versus steel lugs and let tractors roam roads.</li>
 <li>Combine harvesters merge reaping/threshing/winnowing — harvest labor collapses; grain losses fall below manual-race levels.</li>
@@ -426,7 +426,7 @@ body {
 <tbody>
 <tr>
 <td>1 horse (~0.7 kW)</td>
-<td>6 laborers at peak</td>
+<td>~9 laborers' sustained power</td>
 <td>—</td>
 <td>1–2 ha/person farming</td>
 </tr>
@@ -467,7 +467,7 @@ body {
 <li><strong>Producer gas (wood or charcoal gasifiers):</strong> air drawn through a glowing bed of wood or charcoal produces a combustible gas that, cooled and filtered, runs spark-ignition engines at a power loss of roughly a third to a half against petrol, or runs diesels in dual-fuel mode with a small pilot injection. Around a million gasifier vehicles ran in Europe during the Second World War. Tar is the engineering problem: tarry gas from raw wood fouls valves and filters, while charcoal gas runs cleaner at the cost of the wood already burned in charring (<a href="ch01.html">Ch 1</a> §1.4).</li>
 <li><strong>Alcohol:</strong> ethanol from fermentation and distillation (<a href="ch17.html">Ch 17</a> §17.5), dried to high strength, runs spark-ignition engines well at high compression (its knock resistance is high — <a href="ch28.html">Ch 28</a> §28.4) with larger fuel jets and help for cold starts. It carries about two-thirds of petrol's energy per litre, so tanks empty sooner. Brazil has run much of its national fleet on ethanol since the Proálcool programme of the 1970s.</li>
 <li><strong>Plant oils and biodiesel:</strong> Diesel's own engine ran on peanut oil at the 1900 Paris Exposition. Straight vegetable oil is thick and cokes the injectors of many engines unless preheated, so it is usually converted to biodiesel by transesterification — reacting it with methanol and a caustic catalyst, with glycerol as the by-product (soap chemistry's cousin, <a href="ch17.html">Ch 17</a> §17.4).</li>
-<li><strong>Synthetic fuels from coal:</strong> Bergius hydrogenation (1913) and Fischer–Tropsch synthesis (1925) make liquid fuels from coal; Germany relied on them in the Second World War and South Africa's Sasol has done so since the 1950s. They need high-pressure hydrogen plant on the scale of Haber–Bosch (<a href="ch32.html">Ch 32</a> §32.1), so they are an industrial-tier option, not a village one.</li>
+<li><strong>Synthetic fuels from coal:</strong> Bergius hydrogenation (1913) and Fischer–Tropsch synthesis (1925) make liquid fuels from coal; Germany relied on them in the Second World War and South Africa's Sasol has done so since the 1950s. They need coal gasification and, for Bergius, hydrogenation at several hundred atmospheres — plant on the scale of Haber–Bosch (<a href="ch32.html">Ch 32</a> §32.1), so they are an industrial-tier option, not a village one.</li>
 </ul>
 <p class="co co-scope"><strong>Planning marker:</strong> none of these matches petroleum's convenience; each is a bridge that keeps tractors, pumps, boats, and generators working while drilling, refining, or electrification (<a href="ch43.html">Ch 43</a>) catches up. Before converting a fleet, size the fuel supply — woodlot, crop area, or coal — per engine-hour, using the coppice arithmetic of <a href="ch01.html">Ch 1</a> §1.8 for gasifier wood.</p>
 </main>

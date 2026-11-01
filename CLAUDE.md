@@ -48,6 +48,8 @@ Gemfile           # github-pages Jekyll + Ruby 3.4 stdlib backports
 - **Contact is a plain `mailto:` link** (GDPR decision) — no forms, no Formspree, no Disqus, no third-party processors. If a contact form is ever added again, it needs consent handling + a documented processor in `privacy.html`.
 - **Content pages are HTML, not markdown** (`privacy.html`, `novel/index.html`). Kramdown's `parse_block_html` is off, so markdown inside a `<div>` renders as raw text — the old `privacy.md` was broken exactly this way. Keep content pages as `.html` files.
 - **Frontend JS stack**: jQuery 3.7.1 (`js/jquery-3.7.1.min.js`) + Bootstrap 3.4.1 (`js/bootstrap.min.js`). The themed Bootswatch CSS is 3.2.0 — it's customized with the report design tokens, so upgrade it only by re-applying the custom colors. `js/freelancer.js` must stay jQuery-3 compatible (no `.bind()`/`.delegate()`).
+- **Icons are inline SVG** — `{% include icon.html name="…" %}` (1em, `currentColor`). Font Awesome 4.1 was removed: it lacked half the icons the site used and cost ~105 KB per page. Add a new icon as a `when` branch in `_includes/icon.html`; no icon fonts, no `fa` classes.
+- **Nav scrollspy and dropdowns** — a home-page section that only has a dropdown in the nav gets a hidden `<li class="hidden"><a href="/#id" data-target="#id">` inside that dropdown, so Bootstrap's scrollspy highlights the dropdown while the section is in view.
 
 ## Compliance (check before publishing anything user-facing)
 

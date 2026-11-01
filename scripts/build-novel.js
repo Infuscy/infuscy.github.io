@@ -119,7 +119,6 @@ function main() {
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>${escapeHtml(parsed.heading)} — ${escapeHtml(NOVEL_TITLE)}</title>
 <link rel="stylesheet" href="/style.css">
-<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
 <style>
 /* Reading layout — ponytail: inline so generated pages need no Jekyll build */
 :root {

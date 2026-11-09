@@ -6,6 +6,7 @@
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | normalize_whitespace | truncate: 300 }}{% else %}{{ site.description }}{% endif %}">
     <meta name="theme-color" content="#0f172a">
     <link rel="icon" href="{{ "/img/profile.png" }}">
+    {% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
     {% if site.meta_author %}<meta name="author" content="{{ site.meta_author }}">{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">

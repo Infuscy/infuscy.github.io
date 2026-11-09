@@ -59,6 +59,7 @@ exclude:
   - CLAUDE.md
   - README.md
   - SECURITY.md
+  - claude-code-2d-engines-fact-check.md
   - scripts
   - "translated/*.md"
 

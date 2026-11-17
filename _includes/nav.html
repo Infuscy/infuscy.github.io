@@ -1,9 +1,9 @@
-   <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+   <!-- Navigation (Romanian labels: marked lang="ro" on English pages) -->
+    <nav class="navbar navbar-default navbar-fixed-top" aria-label="Navigare principală"{% if page.lang == 'en' %} lang="ro"{% endif %}>
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" aria-controls="bs-example-navbar-collapse-1">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" aria-expanded="false" aria-controls="site-nav-menu">
                     <span class="sr-only">Comută navigarea</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -12,44 +12,38 @@
                 <a class="navbar-brand" href="/">{{ site.title }}</a>
             </div>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <!-- js/site.js toggles the menu and the dropdowns, and marks the item whose
+                 home-page section (data-spy) is in view. -->
+            <div class="collapse navbar-collapse" id="site-nav-menu">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
+                    <li data-spy="portfolio">
+                        <a href="/#portfolio">Rapoarte</a>
                     </li>
-                    <li class="page-scroll">
-                        <a href="/#portfolio" data-target="#portfolio">Rapoarte</a>
-                    </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Analiză civică <span class="caret"></span></a>
+                    <li class="dropdown" data-spy="civic">
+                        <a href="/#civic" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Analiză civică <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <!-- hidden scrollspy targets: light up the dropdown while its home-page section is in view -->
-                            <li class="hidden"><a href="/#civic" data-target="#civic"></a></li>
                             <li><a href="/romania-deficit/">Deficitul și datoria României <span class="dropdown-hint">DSA 2026–2040</span></a></li>
                             <li><a href="/art47-hcl419/">Parcări de reședință Craiova <span class="dropdown-hint">art. 47 HCL 419/2025</span></a></li>
                         </ul>
                     </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Ficțiune <span class="caret"></span></a>
+                    <li class="dropdown" data-spy="fiction">
+                        <a href="/#fiction" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Ficțiune <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li class="hidden"><a href="/#fiction" data-target="#fiction"></a></li>
                             <li><a href="/novel/">Novel <span class="dropdown-hint">{% include novel_count.html %} capitole</span></a></li>
                             <li><a href="/fire-to-future/">Fire to Future <span class="dropdown-hint">51 capitole · PDF</span></a></li>
                         </ul>
                     </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tehnologie <span class="caret"></span></a>
+                    <li class="dropdown" data-spy="tech">
+                        <a href="/#tech" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Tehnologie <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li class="hidden"><a href="/#tech" data-target="#tech"></a></li>
                             <li><a href="/claude-code-2d-engines/" lang="en">Game engines for Claude Code <span class="dropdown-hint">2D · mobile, web, Steam</span></a></li>
                         </ul>
                     </li>
-                    <li class="page-scroll">
-                        <a href="/#about" data-target="#about">Despre</a>
+                    <li data-spy="about">
+                        <a href="/#about">Despre</a>
                     </li>
-                    <li class="page-scroll">
-                        <a href="/#contact" data-target="#contact">Contact</a>
+                    <li data-spy="contact">
+                        <a href="/#contact">Contact</a>
                     </li>
                 </ul>
             </div>

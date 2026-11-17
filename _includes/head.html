@@ -1,35 +1,51 @@
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    {%- capture page_title -%}{% if page.title %}{{ page.title }}{% else %}{{ site.title }} — {{ site.tagline }}{% endif %}{%- endcapture -%}
+    {%- capture page_desc -%}{% if page.description %}{{ page.description | strip_html | normalize_whitespace }}{% else %}{{ site.description }}{% endif %}{%- endcapture -%}
+    {%- capture page_canonical -%}{{ page.url | replace:'index.html','' | prepend: site.url }}{%- endcapture -%}
+    {%- capture page_image -%}{{ site.url }}{% if page.img %}/img/portfolio/{{ page.img }}{% else %}/img/social-card.png{% endif %}{%- endcapture %}
+    <title>{{ page_title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{% if page.description %}{{ page.description | strip_html | normalize_whitespace | truncate: 300 }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="theme-color" content="#0f172a">
-    <link rel="icon" href="{{ "/img/profile.png" }}">
+    <meta name="description" content="{{ page_desc | truncate: 300 }}">
+    <meta name="color-scheme" content="light dark">
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#0b1120" media="(prefers-color-scheme: dark)">
+    <link rel="icon" href="/img/profile.png">
+    <link rel="apple-touch-icon" href="/img/profile.png">
     {% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
     {% if site.meta_author %}<meta name="author" content="{{ site.meta_author }}">{% endif %}
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+    <link rel="canonical" href="{{ page_canonical }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} — RSS" href="{{ site.url }}/feed.xml">
 
     <!-- Open Graph / social sharing (meta only, no third-party requests) -->
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:type" content="{% if page.og_type %}{{ page.og_type }}{% else %}website{% endif %}">
     <meta property="og:locale" content="{% if page.lang == 'en' %}en_US{% else %}ro_RO{% endif %}">
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | normalize_whitespace | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
-    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-    <meta property="og:image" content="{% if page.img %}{{ site.url }}/img/portfolio/{{ page.img }}{% else %}{{ site.url }}/img/portfolio/profile.png{% endif %}">
-    <meta name="twitter:card" content="{% if page.twitter_card %}{{ page.twitter_card }}{% else %}summary{% endif %}">
-    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | normalize_whitespace | truncate: 200 }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="twitter:image" content="{% if page.img %}{{ site.url }}/img/portfolio/{{ page.img }}{% else %}{{ site.url }}/img/portfolio/profile.png{% endif %}">
+    <meta property="og:title" content="{{ page_title }}">
+    <meta property="og:description" content="{{ page_desc | truncate: 200 }}">
+    <meta property="og:url" content="{{ page_canonical }}">
+    <meta property="og:image" content="{{ page_image }}">
+    {%- unless page.img %}
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    {%- endunless %}
+    {%- if page.date_published %}
+    <meta property="article:published_time" content="{{ page.date_published | date_to_xmlschema }}">
+    <meta property="article:modified_time" content="{{ page.date_modified | default: page.date_published | date_to_xmlschema }}">
+    {%- endif %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page_title }}">
+    <meta name="twitter:description" content="{{ page_desc | truncate: 200 }}">
+    <meta name="twitter:image" content="{{ page_image }}">
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
-    <link rel="stylesheet" href="{{ "/style.css" }}">
+    <link rel="stylesheet" href="/style.css">
 
     <!-- Security headers (GitHub Pages cannot set HTTP headers; meta equivalents are the available mitigation) -->
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'">
     <meta name="referrer" content="strict-origin-when-cross-origin">
+
+    {% include structured_data.html %}
 
     <!-- Google verification -->
     {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}

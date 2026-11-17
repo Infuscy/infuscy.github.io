@@ -1,5 +1,5 @@
     <!-- Footer -->
-    <footer class="text-center">
+    <footer class="text-center"{% if page.lang == 'en' %} lang="ro"{% endif %}>
         <div class="footer-above">
             <div class="container">
                 <div class="row">
@@ -16,7 +16,7 @@
                         <ul class="list-inline">
                             {% for network in site.social %}
                             <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline" aria-label="{{ network.title }}">{% include icon.html name=network.title %}</a>
+                                <a href="{{ network.url }}" class="btn-social btn-outline" rel="me noopener" aria-label="{{ network.label | default: network.title }}">{% include icon.html name=network.title %}</a>
                             </li>
 		                    {% endfor %}
                         </ul>
@@ -44,7 +44,7 @@
     </footer>
 
     <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-    <div class="scroll-top page-scroll visible-xs visible-sm">
+    <div class="scroll-top visible-xs visible-sm"{% if page.lang == 'en' %} lang="ro"{% endif %}>
         <a class="btn btn-primary" href="#page-top" aria-label="Derulează sus">
             {% include icon.html name="chevron-up" %}
         </a>

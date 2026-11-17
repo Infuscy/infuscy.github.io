@@ -7,4 +7,5 @@ category: Investigație de date
 report: bac2526
 stats: "promovare 76,56% → 76,98% · +22.897 candidați"
 description: "Diferențele dintre 2025 (iunie) și 2026, pe aceeași scară: materii, competențe digitale, repetenți, contestații și subvariante de dificultate."
+date_modified: 2026-11-16
 ---

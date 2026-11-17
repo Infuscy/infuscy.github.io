@@ -2,15 +2,27 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
+{%- comment -%}
+  lastmod comes from front matter: `date_modified` (or `date_published`) on
+  article pages and report posts. Pages without a date carry none.
+{%- endcomment %}
+{%- assign articles = site.pages | where_exp: "p", "p.date_published" | sort: "date_published" | reverse %}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>{{ site.url }}/</loc>
   </url>
-  {% for post in site.posts %}
+  {%- for post in site.posts %}
   <url>
     <loc>{{ site.url }}/{{ post.report }}/</loc>
+    <lastmod>{{ post.date_modified | default: post.date | date: "%Y-%m-%d" }}</lastmod>
   </url>
-  {% endfor %}
+  {%- endfor %}
+  {%- for article in articles %}
+  <url>
+    <loc>{{ article.url | prepend: site.url }}</loc>
+    <lastmod>{{ article.date_modified | default: article.date_published | date: "%Y-%m-%d" }}</lastmod>
+  </url>
+  {%- endfor %}
   <url>
     <loc>{{ site.url }}/privacy/</loc>
   </url>
@@ -23,18 +35,9 @@ layout: null
   <url>
     <loc>{{ site.url }}/fire-to-future/</loc>
   </url>
-  <url>
-    <loc>{{ site.url }}/art47-hcl419/</loc>
-  </url>
-  <url>
-    <loc>{{ site.url }}/romania-deficit/</loc>
-  </url>
-  <url>
-    <loc>{{ site.url }}/claude-code-2d-engines/</loc>
-  </url>
-  {% for ch in site.data.fire_to_future_chapters %}
+  {%- for ch in site.data.fire_to_future_chapters %}
   <url>
     <loc>{{ site.url }}/fire-to-future/{{ ch.file }}</loc>
   </url>
-  {% endfor %}
+  {%- endfor %}
 </urlset>

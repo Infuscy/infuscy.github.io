@@ -7,4 +7,5 @@ category: Investigație de date
 report: bac2025
 stats: "107.812 candidați · promovare 76,56%"
 description: "Sesiunea din iunie, după contestații: 1.444 de școli din 42 de județe. Hărți interactive, distribuții pe materii, anomalii și clasamente pe școli și județe."
+date_modified: 2026-11-16
 ---

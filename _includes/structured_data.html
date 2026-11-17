@@ -1,0 +1,41 @@
+{%- comment -%}
+  schema.org JSON-LD. A data block (type application/ld+json) is never executed,
+  so the script-src 'self' CSP does not apply to it. Articles are the pages
+  with `date_published` in their front matter; the home page describes the site.
+{%- endcomment -%}
+{%- capture ld_url -%}{{ page.url | replace:'index.html','' | prepend: site.url }}{%- endcapture -%}
+{%- capture ld_home -%}{{ site.url }}/{%- endcapture -%}
+{%- if page.date_published -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | strip_html | normalize_whitespace | jsonify }},
+  "inLanguage": {{ page.lang | default: "ro" | jsonify }},
+  "datePublished": {{ page.date_published | date: "%Y-%m-%d" | jsonify }},
+  "dateModified": {{ page.date_modified | default: page.date_published | date: "%Y-%m-%d" | jsonify }},
+  "mainEntityOfPage": {{ ld_url | jsonify }},
+  "image": {{ site.url | append: "/img/portfolio/" | append: page.img | jsonify }},
+  "author": { "@type": "Person", "name": {{ site.meta_author | jsonify }}, "url": {{ ld_home | jsonify }} },
+  "publisher": { "@type": "Person", "name": {{ site.meta_author | jsonify }}, "url": {{ ld_home | jsonify }} }
+}
+</script>
+{%- elsif page.url == "/" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "url": {{ ld_home | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "inLanguage": "ro",
+  "author": {
+    "@type": "Person",
+    "name": {{ site.meta_author | jsonify }},
+    "url": {{ ld_home | jsonify }},
+    "sameAs": [{% for network in site.social %}{{ network.url | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+  }
+}
+</script>
+{%- endif -%}

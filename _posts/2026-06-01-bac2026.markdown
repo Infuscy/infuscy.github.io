@@ -7,4 +7,5 @@ category: Investigație de date
 report: bac2026
 stats: "130.709 candidați · promovare 76,98%"
 description: "1.438 de școli din 42 de județe, cu aceeași metodă de analiză ca pentru 2025, pentru comparabilitate directă. Hărți pe județe, distribuții de note, outlieri și clasamente."
+date_modified: 2026-11-16
 ---

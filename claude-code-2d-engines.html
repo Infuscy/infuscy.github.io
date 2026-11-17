@@ -7,6 +7,9 @@ img: claude-code-2d-engines.png
 og_type: article
 twitter_card: summary_large_image
 permalink: /claude-code-2d-engines/
+date_published: 2026-10-31
+date_modified: 2026-11-11
+feed_category: Technology
 ---
 
 <div class="container articol" style="padding-top: 110px; max-width: 920px;">
@@ -22,17 +25,18 @@ permalink: /claude-code-2d-engines/
   .articol .art-meta { color: #64748b; font-size: 17px; margin: 14px 0 8px; }
   .articol blockquote { background: #f1f5f9; border-left: 4px solid #2563eb; padding: 16px 20px; line-height: 1.65; }
   .articol blockquote p { margin-bottom: 6px; }
-  .articol blockquote cite { color: #64748b; font-style: normal; font-size: 16.5px; }
+  .articol blockquote cite { color: #475569; font-style: normal; font-size: 16.5px; }
   .articol .box { border: 1px solid #cbd5e1; border-radius: 6px; padding: 18px 20px; margin: 20px 0; background: #f8fafc; }
   .articol .box.warn { border-color: #f59e0b; background: #fffbeb; }
   .articol .box.info { border-color: #93c5fd; background: #eff6ff; }
-  .articol .box h3 { margin-top: 0; font-size: 21px; }
+  .articol .box h2, .articol .box h3 { margin-top: 0; padding: 0; border: 0; font-size: 21px; }
   .articol h2 { margin-top: 44px; padding-bottom: 6px; border-bottom: 1px solid #e2e8f0; }
   .articol h3 { margin-top: 28px; font-size: 22.5px; }
   .articol .toc { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 18px 24px; font-size: 18px; }
   .articol .toc ol { margin-bottom: 0; }
   .articol table { font-size: 17px; }
-  .articol .small-note { font-size: 16.5px; color: #64748b; }
+  .articol caption { padding: 8px 0; text-align: left; font-size: 16px; font-weight: 600; color: #475569; caption-side: top; }
+  .articol .small-note { font-size: 16.5px; color: #475569; }
   .articol .tag { display: inline-block; background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; border-radius: 4px; padding: 1px 10px; font-size: 14px; font-weight: bold; }
   .articol code { font-size: 0.85em; color: #1e293b; background: #f1f5f9; }
   .articol pre { font-size: 14.5px; line-height: 1.55; white-space: pre-wrap; word-break: normal; overflow-wrap: anywhere; background: #f8fafc; border: 1px solid #e2e8f0; }
@@ -57,7 +61,7 @@ permalink: /claude-code-2d-engines/
 <p class="small-note"><strong>Correction, 4 November 2026:</strong> this article first gave Godot 4.51 and said a GodotSteam build for Godot 4.7 was unconfirmed. GodotSteam's <a href="https://codeberg.org/GodotSteam/GodotSteam/releases">release notes</a> list a 4.7.2 build, so that check now passes and Godot scored 4.58. The ranking did not change. The note on how the weights were set was also made more precise.</p>
 
 <div class="box warn">
-<h3>The short version</h3>
+<h2>The short version</h2>
 <ul>
   <li><strong>Pick Godot 4.7 (GDScript)</strong> if you want one project that ships to Steam, Google Play, the App Store and the web. It scored <strong>4.47 out of 5</strong>, against 4.18 for Phaser 4 + Capacitor + Electron and 3.89 for Defold 1.14.</li>
   <li><strong>Claude Code can build a working game in all three.</strong> Each engine got a fresh session; all three finished the same 12-point game and a follow-up change with no human help and no invented APIs. Godot needed the fewest tool calls and made no mistakes it had to correct.</li>
@@ -99,7 +103,8 @@ permalink: /claude-code-2d-engines/
 
 <div class="table-responsive">
 <table class="table table-striped">
-<thead><tr><th>Criterion (weight)</th><th>Phaser 4.2.1 + Capacitor + Electron</th><th>Godot 4.7.2 GDScript</th><th>Defold 1.14.0</th></tr></thead>
+<caption>Weighted scores per criterion, out of 5</caption>
+<thead><tr><th scope="col">Criterion (weight)</th><th scope="col">Phaser 4.2.1 + Capacitor + Electron</th><th scope="col">Godot 4.7.2 GDScript</th><th scope="col">Defold 1.14.0</th></tr></thead>
 <tbody>
 <tr><td>Agent build loop (35)</td><td>4.74</td><td><strong>4.98</strong></td><td>4.36</td></tr>
 <tr><td>Windows/Steam shipping (20)</td><td>3.24</td><td><strong>4.41</strong></td><td>3.85</td></tr>
@@ -123,7 +128,8 @@ permalink: /claude-code-2d-engines/
 
 <div class="table-responsive">
 <table class="table table-striped">
-<thead><tr><th>Measured on 28 Oct 2026</th><th>Phaser 4.2.1 + TypeScript</th><th>Godot 4.7.2 GDScript</th><th>Defold 1.14.0</th></tr></thead>
+<caption>Benchmark measurements: the same game built in each engine</caption>
+<thead><tr><th scope="col">Measured on 28 Oct 2026</th><th scope="col">Phaser 4.2.1 + TypeScript</th><th scope="col">Godot 4.7.2 GDScript</th><th scope="col">Defold 1.14.0</th></tr></thead>
 <tbody>
 <tr><td>Checks passed · human help · invented APIs</td><td>12/12 · 0 · 0</td><td>12/12 · 0 · 0</td><td>12/12 · 0 · 0</td></tr>
 <tr><td>Session start to finished change request</td><td><strong>23.0 min</strong></td><td>25.2 min</td><td>about 30 min</td></tr>
@@ -164,7 +170,8 @@ permalink: /claude-code-2d-engines/
 
 <div class="table-responsive">
 <table class="table table-striped">
-<thead><tr><th>Android, 29–30 Oct 2026</th><th>Phaser + Capacitor</th><th>Godot</th><th>Defold</th></tr></thead>
+<caption>Android export results per engine</caption>
+<thead><tr><th scope="col">Android, 29–30 Oct 2026</th><th scope="col">Phaser + Capacitor</th><th scope="col">Godot</th><th scope="col">Defold</th></tr></thead>
 <tbody>
 <tr><td>Estimated Play download</td><td>about 3.1 MB</td><td>about 26.4 MB</td><td><strong>about 2.5 MB</strong></td></tr>
 <tr><td>Signed release build time (warm)</td><td>33.9 s</td><td>7.7 s (APK)</td><td><strong>7.3 s</strong> (APK and AAB)</td></tr>
@@ -185,7 +192,8 @@ permalink: /claude-code-2d-engines/
 
 <div class="table-responsive">
 <table class="table table-striped">
-<thead><tr><th>iOS, 30–31 Oct 2026</th><th>Phaser + Capacitor</th><th>Godot</th><th>Defold</th></tr></thead>
+<caption>iOS export results per engine, built from Windows</caption>
+<thead><tr><th scope="col">iOS, 30–31 Oct 2026</th><th scope="col">Phaser + Capacitor</th><th scope="col">Godot</th><th scope="col">Defold</th></tr></thead>
 <tbody>
 <tr><td>Furthest point from Windows</td><td>Xcode project (13 s)</td><td>Xcode project (5.5 s)</td><td><strong>Unsigned app, packed as a 1.70 MB .ipa</strong></td></tr>
 <tr><td>App Store upload defaults (5 checks)</td><td>3/5</td><td><strong>5/5</strong></td><td>3/5</td></tr>
@@ -220,7 +228,8 @@ permalink: /claude-code-2d-engines/
 
 <div class="table-responsive">
 <table class="table table-striped">
-<thead><tr><th>If your priority is…</th><th>Pick</th><th>Why</th></tr></thead>
+<caption>Which engine to pick for each priority</caption>
+<thead><tr><th scope="col">If your priority is…</th><th scope="col">Pick</th><th scope="col">Why</th></tr></thead>
 <tbody>
 <tr><td>One codebase for Steam and both mobile stores, web as a bonus</td><td><strong>Godot 4.7, GDScript</strong></td><td>First in every weighting tried, including iOS weighted from zero to three times Steam</td></tr>
 <tr><td>The browser first (web portals, itch.io, instant play)</td><td><strong>Phaser 4</strong>, with Capacitor for mobile and Electron for Steam</td><td>1.3 MB web build; it ties Godot once the web carries about 20% of the weight, more than any single store</td></tr>
@@ -242,7 +251,8 @@ permalink: /claude-code-2d-engines/
 
 <div class="table-responsive">
 <table class="table table-striped">
-<thead><tr><th>Weights (Steam / Android / iOS)</th><th>Phaser</th><th>Godot</th><th>Defold</th></tr></thead>
+<caption>Total scores under different platform weightings</caption>
+<thead><tr><th scope="col">Weights (Steam / Android / iOS)</th><th scope="col">Phaser</th><th scope="col">Godot</th><th scope="col">Defold</th></tr></thead>
 <tbody>
 <tr><td>Equal, 20 / 20 / 20 (this article)</td><td>4.18</td><td><strong>4.47</strong></td><td>3.89</td></tr>
 <tr><td>By store game revenue, 10.6 / 18.0 / 31.4</td><td>4.21</td><td><strong>4.42</strong></td><td>3.89</td></tr>
@@ -275,7 +285,8 @@ permalink: /claude-code-2d-engines/
 
 <div class="table-responsive">
 <table class="table table-striped">
-<thead><tr><th>Store services score</th><th>Phaser stack</th><th>Godot</th><th>Defold</th></tr></thead>
+<caption>Store services scores per engine</caption>
+<thead><tr><th scope="col">Store services score</th><th scope="col">Phaser stack</th><th scope="col">Godot</th><th scope="col">Defold</th></tr></thead>
 <tbody>
 <tr><td>Google Play</td><td>4.76</td><td>3.98</td><td><strong>4.93</strong></td></tr>
 <tr><td>App Store</td><td><strong>4.80</strong></td><td>3.69</td><td>4.42</td></tr>
@@ -296,7 +307,8 @@ permalink: /claude-code-2d-engines/
 
 <div class="table-responsive">
 <table class="table table-striped">
-<thead><tr><th>Godot, with the facts read on…</th><th>What turns a year old</th><th>Google Play services</th><th>App Store services</th><th>Android</th><th>iOS</th><th>Total</th></tr></thead>
+<caption>How Godot's store scores change with the date the facts are read</caption>
+<thead><tr><th scope="col">Godot, with the facts read on…</th><th scope="col">What turns a year old</th><th scope="col">Google Play services</th><th scope="col">App Store services</th><th scope="col">Android</th><th scope="col">iOS</th><th scope="col">Total</th></tr></thead>
 <tbody>
 <tr><td>5 Nov 2026 (this article)</td><td>Nothing yet</td><td>3.98</td><td>3.69</td><td>4.21</td><td>3.94</td><td>4.47</td></tr>
 <tr><td>10 Nov 2026</td><td>Its Firebase plugin</td><td>4.06</td><td>3.77</td><td>4.23</td><td>3.96</td><td>4.47</td></tr>
@@ -314,7 +326,8 @@ permalink: /claude-code-2d-engines/
 
 <div class="table-responsive">
 <table class="table table-striped">
-<thead><tr><th>Engine</th><th>Why it was not picked</th></tr></thead>
+<caption>Other engines considered and why each was not picked</caption>
+<thead><tr><th scope="col">Engine</th><th scope="col">Why it was not picked</th></tr></thead>
 <tbody>
 <tr><td>Unity 6.3</td><td>Strong mobile plugins and a no-Mac iOS cloud build, but closed source, and its Terms of Service (§17.2(ff)) allow AI agents and command-line tools only through "Authorized Agentic Access"</td></tr>
 <tr><td>GameMaker</td><td>Paid licence for commercial release; its command-line manual documents Android APK builds but no App Bundle; iOS builds need a physical Mac</td></tr>

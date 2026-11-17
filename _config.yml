@@ -1,5 +1,7 @@
 # Site settings
 title: Febuse
+# Home page <title> and og:title (other pages use their own title).
+tagline: "rapoarte de date despre Bacalaureat, analiză civică și ficțiune"
 email: buse.florinx@gmail.com
 url: https://infuscy.github.io
 description: "Site personal: investigații de date statice despre Bacalaureat, analiză juridică și civică (HCL 419/2025 Craiova, datoria publică a României) și ficțiune — totul 100% în browser, fără urmărire."
@@ -21,17 +23,21 @@ footer:
   credits: Credite
 
 # Social networks usernames
+# title = icon name in _includes/icon.html; label = accessible name of the link.
 social:
   - title: twitter
-    url: https://twitter.com/xfebuse
+    label: X (Twitter)
+    url: https://x.com/xfebuse
   - title: facebook
+    label: Facebook
     url: https://www.facebook.com/florin.emilian.buse
   - title: linkedin
+    label: LinkedIn
     url: https://ro.linkedin.com/in/febuse
 
 # Postal address
 address:
-  - line: Romania
+  - line: România
 
 # Credits content
 credits: 'Proiecte personale: rapoarte de date statice (Python, React), analiză juridică verificată din surse primare, ficțiune publicată static. <br>Datele Bacalaureatului provin de pe <a href="https://static.bacalaureat.edu.ro/">static.bacalaureat.edu.ro</a>.'

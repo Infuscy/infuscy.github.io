@@ -2,6 +2,7 @@
 layout: page
 title: "Fire to Future"
 lang: en
+description: "Fire to Future: a field manual for rebuilding technology, from reliable fire to a resilient industrial civilization. 51 chapters and 7 appendices, free to read online or as a PDF."
 ---
 
 <style>
@@ -31,7 +32,7 @@ lang: en
 }
 .toc-header .toc-sub {
   font-size: .9rem;
-  color: #94a3b8;
+  color: #64748b;
   margin-top: .5rem;
   line-height: 1.5;
 }
@@ -67,7 +68,7 @@ lang: en
   box-shadow: 0 0 0 3px rgba(37,99,235,.1);
 }
 .toc-search::placeholder {
-  color: #94a3b8;
+  color: #64748b;
 }
 .toc-list {
   list-style: none;
@@ -95,7 +96,7 @@ lang: en
   color: #2563eb;
 }
 .toc-list .chapter-num {
-  color: #94a3b8;
+  color: #64748b;
   font-size: .85rem;
   font-weight: 500;
   min-width: 2.5rem;
@@ -107,7 +108,7 @@ lang: en
   margin-left: .75rem;
 }
 .toc-list .chapter-type {
-  color: #cbd5e1;
+  color: #64748b;
   font-size: .75rem;
   text-transform: uppercase;
   letter-spacing: .04em;
@@ -123,13 +124,13 @@ lang: en
 }
 .toc-empty {
   text-align: center;
-  color: #94a3b8;
+  color: #64748b;
   padding: 3rem 0;
   font-style: italic;
 }
 .toc-note {
   text-align: center;
-  color: #94a3b8;
+  color: #64748b;
   font-size: .85rem;
   margin: 1.5rem auto 0;
   max-width: 34rem;
@@ -138,6 +139,28 @@ lang: en
 @media (max-width: 600px) {
   .toc-wrap { padding: 5rem 0 3rem; }
   .toc-header h1 { font-size: 1.6rem; }
+}
+/* Dark mode: follows the system setting, like the rest of the site. */
+@media (prefers-color-scheme: dark) {
+  .toc-header h1 { color: #f1f5f9; }
+  .toc-header p,
+  .toc-header .toc-sub,
+  .toc-note,
+  .toc-empty,
+  .toc-list .chapter-num,
+  .toc-list .chapter-type { color: #94a3b8; }
+  .toc-search { background: #131c2e; border-color: #27344a; color: #e2e8f0; }
+  .toc-search::placeholder { color: #94a3b8; }
+  .toc-list li,
+  .toc-volume-divider,
+  .toc-part-divider { border-bottom-color: #1e293b; }
+  .toc-list a { color: #e2e8f0; }
+  .toc-list a:hover { background: #131c2e; color: #93c5fd; }
+  .toc-volume-divider,
+  .toc-part-divider { color: #93c5fd; }
+  .toc-disclaimer { background: #131c2e; border-color: #27344a; color: #cbd5e1; }
+  .toc-download { border-color: #60a5fa; color: #93c5fd; }
+  .toc-download:hover { background: #172554; }
 }
 </style>
 
@@ -150,7 +173,7 @@ lang: en
       <a class="toc-download" href="/fire-to-future/Fire-To-Future.pdf" download>Download PDF (8.1 MB)</a>
     </div>
 
-    <input type="text" class="toc-search" id="tocSearch" placeholder="Search chapters by title or number…">
+    <input type="text" class="toc-search" id="tocSearch" aria-label="Search chapters by title or number" placeholder="Search chapters by title or number…">
 
     <ul class="toc-list" id="tocList"></ul>
     <p class="toc-empty" id="tocEmpty" style="display:none">No chapters match your search.</p>

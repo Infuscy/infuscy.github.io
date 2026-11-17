@@ -1,0 +1,290 @@
+/* Reader pages of Fire to Future. Written by scripts/build_fire_to_future.py:
+   edit the CSS constant there, not this file. Colors are tokens so the pages
+   follow the system light/dark setting. */
+:root {
+  color-scheme: light dark;
+  --reader-max: 46rem;
+  --reader-page: #f8fafc;
+  --reader-bar: rgba(255,255,255,.92);
+  --reader-text: #1e293b;
+  --reader-heading: #0f172a;
+  --reader-muted: #64748b;
+  --reader-accent: #2563eb;
+  --reader-accent-soft: #eff6ff;
+  --reader-border: #e2e8f0;
+  --reader-soft: #f1f5f9;
+  --reader-stripe: #f8fafc;
+  --reader-font-scale: 1;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --reader-page: #0b1120;
+    --reader-bar: rgba(11,17,32,.9);
+    --reader-text: #d5dde8;
+    --reader-heading: #f1f5f9;
+    --reader-muted: #94a3b8;
+    --reader-accent: #7fb2ff;
+    --reader-accent-soft: #172554;
+    --reader-border: #27344a;
+    --reader-soft: #1a2438;
+    --reader-stripe: #111a2e;
+  }
+}
+* { box-sizing: border-box; }
+@media (prefers-reduced-motion: no-preference) {
+  /* cross-fade between chapters (and to the table of contents) */
+  @view-transition { navigation: auto; }
+}
+a:focus-visible, button:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--reader-accent) 60%, transparent);
+  outline-offset: 2px;
+}
+body {
+  background: var(--reader-page);
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: var(--reader-text);
+  margin: 0;
+  padding: 0;
+}
+.reader-top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--reader-bar);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--reader-border);
+  padding: .5rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .75rem;
+  font-size: .9rem;
+}
+.reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
+.reader-top-bar a:hover { text-decoration: underline; }
+.reader-progress { color: var(--reader-muted); font-size: .85rem; }
+.reader-font-controls { display: flex; gap: .25rem; align-items: center; }
+.font-btn {
+  min-width: 2.75rem;
+  min-height: 2.25rem;
+  background: none;
+  border: 1px solid var(--reader-border);
+  border-radius: .375rem;
+  color: var(--reader-muted);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: .85rem;
+  font-weight: 600;
+  padding: .25rem .5rem;
+  line-height: 1;
+  transition: background .15s, border-color .15s, color .15s;
+}
+.font-btn:hover { background: var(--reader-accent-soft); border-color: var(--reader-accent); color: var(--reader-accent); }
+
+.reader-content {
+  max-width: var(--reader-max);
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 3rem;
+}
+.reader-content h1 {
+  font-size: calc(1.6rem * var(--reader-font-scale));
+  font-weight: 800;
+  letter-spacing: -.02em;
+  line-height: 1.25;
+  color: var(--reader-heading);
+  margin: 0 0 1.75rem;
+  text-align: center;
+}
+.reader-content h2 {
+  font-size: calc(1.2rem * var(--reader-font-scale));
+  font-weight: 700;
+  margin: 2.25rem 0 .75rem;
+  color: var(--reader-heading);
+}
+.reader-content h3 {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  font-weight: 600;
+  margin: 1.75rem 0 .5rem;
+  color: var(--reader-heading);
+}
+.reader-content h4, .reader-content h5, .reader-content h6 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.5rem 0 .5rem;
+  color: var(--reader-heading);
+}
+.reader-content p {
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+  margin: 0 0 1.15rem;
+  color: var(--reader-text);
+  text-align: justify;
+  hyphens: auto;
+}
+.reader-content a { color: var(--reader-accent); text-decoration: none; }
+.reader-content a:hover { text-decoration: underline; }
+.reader-content ul, .reader-content ol {
+  margin: 0 0 1.25rem;
+  padding-left: 1.5rem;
+  font-size: calc(1.05rem * var(--reader-font-scale));
+  line-height: 1.8;
+}
+.reader-content li { margin: 0 0 .4rem; }
+.reader-content em { font-style: italic; }
+.reader-content hr { border: 0; text-align: center; margin: 2rem auto; max-width: 6rem; }
+.reader-content hr::before { content: '\00b7 \00b7 \00b7'; color: var(--reader-muted); font-size: 1.2rem; letter-spacing: .3em; }
+
+/* chapter metadata blockquote (Era span / Requires / Unlocks) */
+.reader-content blockquote {
+  margin: 1.25rem 0;
+  padding: .9rem 1.1rem;
+  background: #f6f8fb;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.95rem * var(--reader-font-scale));
+  line-height: 1.7;
+  color: #334155;
+}
+.reader-content blockquote.meta {
+  background: #eef2f7;
+  border-left-color: var(--reader-accent);
+}
+.reader-content blockquote p { margin: 0 0 .5rem; text-align: left; hyphens: none; }
+.reader-content blockquote p:last-child { margin-bottom: 0; }
+
+/* callouts: Key threshold / Dead end avoided / Jump */
+.reader-content .co {
+  padding: .85rem 1rem;
+  margin: 1.25rem 0;
+  border-left: 3px solid;
+  border-radius: 0 .5rem .5rem 0;
+  font-size: calc(.98rem * var(--reader-font-scale));
+  line-height: 1.7;
+  text-align: left;
+  hyphens: none;
+}
+/* same specificity as .reader-content .co, so the colors win over its border shorthand */
+.reader-content .co-key { background: #eef5ec; border-color: #3f6c3f; }
+.reader-content .co-dead { background: #f9eeec; border-color: #8f3b2d; }
+.reader-content .co-jump { background: #edf2f9; border-color: #2f5286; }
+.reader-content .co-warn { background: #fdf0ec; border-color: #b3271e; }
+.reader-content .co-gate { background: #f7ecec; border-color: #6e1f1a; border-left-width: 4px; }
+.reader-content .co-hazard { background: #fff7e6; border-color: #8a6d1f; }
+.reader-content .co-scope { background: #eef1f5; border-color: #46617a; }
+
+/* figures (inline SVG, web analogue of the print figure CSS) */
+.reader-content figure.fig {
+  margin: 1.25rem 0;
+  padding: .8rem .9rem;
+  background: #fbf9f3;
+  border: 1px solid #b3a67f;
+  border-radius: .5rem;
+  text-align: center;
+}
+.reader-content figure.fig svg { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+.reader-content figure.fig svg.wide { width: 100%; }
+.reader-content figure.fig figcaption {
+  font-size: calc(.85rem * var(--reader-font-scale));
+  font-style: italic;
+  color: #4a4436;
+  margin-top: .5rem;
+  text-align: center;
+  line-height: 1.45;
+}
+
+/* tables */
+.table-wrap { overflow-x: auto; margin: 1.25rem 0; }
+.reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
+.reader-content th { background: var(--reader-soft); font-weight: 700; text-align: left; }
+.reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
+.reader-content tr:nth-child(even) td { background: var(--reader-stripe); }
+
+/* code */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+  font-size: .875em;
+  background: var(--reader-soft);
+  padding: .15em .35em;
+  border-radius: .3rem;
+}
+.reader-content pre {
+  background: var(--reader-soft);
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.25rem 0;
+  white-space: pre;
+}
+.reader-content pre code { background: none; padding: 0; font-size: .85rem; }
+
+.reader-bottom-nav {
+  max-width: var(--reader-max);
+  margin: 0 auto 3rem;
+  padding: 0 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reader-nav-link {
+  display: inline-block;
+  padding: .5rem 1rem;
+  border: 1px solid var(--reader-border);
+  border-radius: .5rem;
+  color: var(--reader-accent);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+  transition: background .15s, border-color .15s;
+}
+.reader-nav-link:hover { background: var(--reader-accent-soft); border-color: var(--reader-accent); }
+.reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
+.reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
+.reader-toc-link:hover { color: var(--reader-accent); }
+
+@media (max-width: 600px) {
+  .reader-content { padding: 1.5rem 1rem 2rem; }
+  .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
+  .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
+  .reader-content p { text-align: left; }
+}
+
+/* Phones: keep the top bar on one line. */
+@media (max-width: 600px) {
+  .reader-top-bar { padding: .4rem .75rem; gap: .5rem; font-size: .82rem; }
+  .reader-top-bar a, .reader-progress { white-space: nowrap; }
+  .reader-progress { font-size: .78rem; }
+  .font-btn { min-width: 2.5rem; }
+}
+
+.reader-footnote {
+  max-width: 46rem;
+  margin: 1rem auto 2.5rem;
+  padding: 0 1.25rem;
+  text-align: center;
+  font-size: .8rem;
+  line-height: 1.5;
+  color: var(--reader-muted);
+}
+.reader-footnote a { color: var(--reader-accent); }
+
+/* Dark variants of the tinted blocks. Figures keep their paper background:
+   the SVG drawings use dark ink. */
+@media (prefers-color-scheme: dark) {
+  .reader-content blockquote { background: #131c2e; border-left-color: #3b4a63; color: #cbd5e1; }
+  .reader-content blockquote.meta { background: #16213a; border-left-color: var(--reader-accent); }
+  .reader-content .co-key { background: #12241a; border-color: #5fa35f; }
+  .reader-content .co-dead { background: #2a1714; border-color: #c8604d; }
+  .reader-content .co-jump { background: #14203a; border-color: #6f97d8; }
+  .reader-content .co-warn { background: #2d1512; border-color: #e0584c; }
+  .reader-content .co-gate { background: #2b1414; border-color: #c0443c; }
+  .reader-content .co-hazard { background: #2a2108; border-color: #c9a23a; }
+  .reader-content .co-scope { background: #18212c; border-color: #7f9bb5; }
+  .reader-content figure.fig { color: #1e293b; }
+}
+
+@media print {
+  .reader-top-bar, .reader-bottom-nav { display: none; }
+}

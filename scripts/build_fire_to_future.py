@@ -17,9 +17,10 @@ Usage:
 
 Requires Python 3 + the `markdown` package (pip install markdown).
 
-The script deletes only the generated page files inside fire-to-future/
-(front-matter.html, chNN.html, appendix-X.html, source-policy.html) and never touches index.html,
-chapters.js, or anything outside that directory.
+The script rewrites reader.css (the pages' shared stylesheet, from the CSS constant
+below) and deletes only the generated page files inside fire-to-future/
+(front-matter.html, chNN.html, appendix-X.html, source-policy.html); it never touches
+index.html, chapters.js, or anything outside that directory.
 """
 import argparse
 import importlib.util
@@ -251,18 +252,49 @@ class Converter:
 
 # ----------------------------------------------------------------------- template
 
-CSS = """
+CSS = """/* Reader pages of Fire to Future. Written by scripts/build_fire_to_future.py:
+   edit the CSS constant there, not this file. Colors are tokens so the pages
+   follow the system light/dark setting. */
 :root {
+  color-scheme: light dark;
   --reader-max: 46rem;
+  --reader-page: #f8fafc;
+  --reader-bar: rgba(255,255,255,.92);
   --reader-text: #1e293b;
+  --reader-heading: #0f172a;
   --reader-muted: #64748b;
   --reader-accent: #2563eb;
+  --reader-accent-soft: #eff6ff;
   --reader-border: #e2e8f0;
+  --reader-soft: #f1f5f9;
+  --reader-stripe: #f8fafc;
   --reader-font-scale: 1;
 }
+@media (prefers-color-scheme: dark) {
+  :root {
+    --reader-page: #0b1120;
+    --reader-bar: rgba(11,17,32,.9);
+    --reader-text: #d5dde8;
+    --reader-heading: #f1f5f9;
+    --reader-muted: #94a3b8;
+    --reader-accent: #7fb2ff;
+    --reader-accent-soft: #172554;
+    --reader-border: #27344a;
+    --reader-soft: #1a2438;
+    --reader-stripe: #111a2e;
+  }
+}
 * { box-sizing: border-box; }
+@media (prefers-reduced-motion: no-preference) {
+  /* cross-fade between chapters (and to the table of contents) */
+  @view-transition { navigation: auto; }
+}
+a:focus-visible, button:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--reader-accent) 60%, transparent);
+  outline-offset: 2px;
+}
 body {
-  background: #f8fafc;
+  background: var(--reader-page);
   font-family: Inter, system-ui, -apple-system, sans-serif;
   -webkit-font-smoothing: antialiased;
   color: var(--reader-text);
@@ -273,14 +305,15 @@ body {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: rgba(255,255,255,.92);
+  background: var(--reader-bar);
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--reader-border);
-  padding: .75rem 1.25rem;
+  padding: .5rem 1.25rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: .75rem;
   font-size: .9rem;
 }
 .reader-top-bar a { color: var(--reader-accent); text-decoration: none; font-weight: 600; }
@@ -288,6 +321,8 @@ body {
 .reader-progress { color: var(--reader-muted); font-size: .85rem; }
 .reader-font-controls { display: flex; gap: .25rem; align-items: center; }
 .font-btn {
+  min-width: 2.75rem;
+  min-height: 2.25rem;
   background: none;
   border: 1px solid var(--reader-border);
   border-radius: .375rem;
@@ -300,7 +335,7 @@ body {
   line-height: 1;
   transition: background .15s, border-color .15s, color .15s;
 }
-.font-btn:hover { background: #eff6ff; border-color: var(--reader-accent); color: var(--reader-accent); }
+.font-btn:hover { background: var(--reader-accent-soft); border-color: var(--reader-accent); color: var(--reader-accent); }
 
 .reader-content {
   max-width: var(--reader-max);
@@ -312,7 +347,7 @@ body {
   font-weight: 800;
   letter-spacing: -.02em;
   line-height: 1.25;
-  color: #0f172a;
+  color: var(--reader-heading);
   margin: 0 0 1.75rem;
   text-align: center;
 }
@@ -320,19 +355,19 @@ body {
   font-size: calc(1.2rem * var(--reader-font-scale));
   font-weight: 700;
   margin: 2.25rem 0 .75rem;
-  color: #0f172a;
+  color: var(--reader-heading);
 }
 .reader-content h3 {
   font-size: calc(1.05rem * var(--reader-font-scale));
   font-weight: 600;
   margin: 1.75rem 0 .5rem;
-  color: #0f172a;
+  color: var(--reader-heading);
 }
 .reader-content h4, .reader-content h5, .reader-content h6 {
   font-size: 1rem;
   font-weight: 600;
   margin: 1.5rem 0 .5rem;
-  color: #0f172a;
+  color: var(--reader-heading);
 }
 .reader-content p {
   font-size: calc(1.05rem * var(--reader-font-scale));
@@ -416,20 +451,20 @@ body {
 /* tables */
 .table-wrap { overflow-x: auto; margin: 1.25rem 0; }
 .reader-content table { border-collapse: collapse; width: 100%; font-size: calc(.9rem * var(--reader-font-scale)); line-height: 1.55; }
-.reader-content th { background: #f1f5f9; font-weight: 700; text-align: left; }
+.reader-content th { background: var(--reader-soft); font-weight: 700; text-align: left; }
 .reader-content th, .reader-content td { border: 1px solid var(--reader-border); padding: .5rem .65rem; vertical-align: top; }
-.reader-content tr:nth-child(even) td { background: #f8fafc; }
+.reader-content tr:nth-child(even) td { background: var(--reader-stripe); }
 
 /* code */
 .reader-content code {
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
   font-size: .875em;
-  background: #f1f5f9;
+  background: var(--reader-soft);
   padding: .15em .35em;
   border-radius: .3rem;
 }
 .reader-content pre {
-  background: #f1f5f9;
+  background: var(--reader-soft);
   border: 1px solid var(--reader-border);
   border-radius: .5rem;
   padding: 1rem;
@@ -458,7 +493,7 @@ body {
   font-size: .95rem;
   transition: background .15s, border-color .15s;
 }
-.reader-nav-link:hover { background: #eff6ff; border-color: var(--reader-accent); }
+.reader-nav-link:hover { background: var(--reader-accent-soft); border-color: var(--reader-accent); }
 .reader-nav-link.disabled { color: var(--reader-muted); border-color: transparent; pointer-events: none; }
 .reader-toc-link { color: var(--reader-muted); text-decoration: none; font-size: .9rem; }
 .reader-toc-link:hover { color: var(--reader-accent); }
@@ -468,6 +503,44 @@ body {
   .reader-content h1 { font-size: calc(1.3rem * var(--reader-font-scale)); }
   .reader-content p { font-size: calc(1rem * var(--reader-font-scale)); line-height: 1.75; }
   .reader-content p { text-align: left; }
+}
+
+/* Phones: keep the top bar on one line. */
+@media (max-width: 600px) {
+  .reader-top-bar { padding: .4rem .75rem; gap: .5rem; font-size: .82rem; }
+  .reader-top-bar a, .reader-progress { white-space: nowrap; }
+  .reader-progress { font-size: .78rem; }
+  .font-btn { min-width: 2.5rem; }
+}
+
+.reader-footnote {
+  max-width: 46rem;
+  margin: 1rem auto 2.5rem;
+  padding: 0 1.25rem;
+  text-align: center;
+  font-size: .8rem;
+  line-height: 1.5;
+  color: var(--reader-muted);
+}
+.reader-footnote a { color: var(--reader-accent); }
+
+/* Dark variants of the tinted blocks. Figures keep their paper background:
+   the SVG drawings use dark ink. */
+@media (prefers-color-scheme: dark) {
+  .reader-content blockquote { background: #131c2e; border-left-color: #3b4a63; color: #cbd5e1; }
+  .reader-content blockquote.meta { background: #16213a; border-left-color: var(--reader-accent); }
+  .reader-content .co-key { background: #12241a; border-color: #5fa35f; }
+  .reader-content .co-dead { background: #2a1714; border-color: #c8604d; }
+  .reader-content .co-jump { background: #14203a; border-color: #6f97d8; }
+  .reader-content .co-warn { background: #2d1512; border-color: #e0584c; }
+  .reader-content .co-gate { background: #2b1414; border-color: #c0443c; }
+  .reader-content .co-hazard { background: #2a2108; border-color: #c9a23a; }
+  .reader-content .co-scope { background: #18212c; border-color: #7f9bb5; }
+  .reader-content figure.fig { color: #1e293b; }
+}
+
+@media print {
+  .reader-top-bar, .reader-bottom-nav { display: none; }
 }
 """
 
@@ -479,9 +552,9 @@ TEMPLATE = """<!DOCTYPE html>
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>@TITLE@</title>
-<style>
-@CSS@
-</style>
+<meta name="description" content="@DESC@">
+<link rel="canonical" href="https://infuscy.github.io/fire-to-future/@FILE@">
+<link rel="stylesheet" href="/fire-to-future/reader.css">
 </head>
 <body>
 <div class="reader-top-bar">
@@ -497,21 +570,47 @@ TEMPLATE = """<!DOCTYPE html>
   <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
   @NEXT@
 </nav>
-<p style="text-align:center;font-size:.8rem;color:#64748b;margin:1rem auto 2.5rem;max-width:46rem;padding:0 1.25rem;line-height:1.5;">FIRE TO FUTURE \u2014 A Field Manual for Rebuilding Technology \u00b7 <a href="/fire-to-future/Fire-To-Future.pdf" style="color:#2563eb;">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE \u2014 A Field Manual for Rebuilding Technology \u00b7 <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>
 """
 
 
-def render_page(title, progress, prev, next_, body):
+def page_description(body, limit=160):
+    """Plain-text summary for <meta name="description">: the first prose
+    paragraph of the page (not the era/requires metadata, figures or callouts),
+    cut at a word boundary."""
+    for m in re.finditer(r"<p>(.*?)</p>", body, re.S):
+        before = body[:m.start()]
+        # skip paragraphs inside blockquotes, figures and callout boxes
+        if before.count("<blockquote") > before.count("</blockquote>"):
+            continue
+        if before.count("<figure") > before.count("</figure>"):
+            continue
+        if re.search(r'<div class="co[^"]*">[^<]*$', before):
+            continue
+        text = re.sub(r"<[^>]+>", "", m.group(1))
+        text = re.sub(r"\s+", " ", text).strip()
+        text = (text.replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")
+                .replace("&quot;", '"').replace("&#39;", "'"))
+        if len(text) < 60:
+            continue
+        if len(text) > limit:
+            text = text[:limit].rsplit(" ", 1)[0].rstrip(" ,;:—-") + "…"
+        return text.replace("&", "&amp;").replace('"', "&quot;").replace("<", "&lt;")
+    return "FIRE TO FUTURE — A Field Manual for Rebuilding Technology."
+
+
+def render_page(title, progress, prev, next_, body, file_name):
     return (TEMPLATE
             .replace("@TITLE@", title)
+            .replace("@DESC@", page_description(body))
+            .replace("@FILE@", file_name)
             .replace("@PROGRESS@", progress)
             .replace("@PREV@", prev)
             .replace("@NEXT@", next_)
-            .replace("@BODY@", body)
-            .replace("@CSS@", CSS))
+            .replace("@BODY@", body))
 
 
 # ----------------------------------------------------------------------- build
@@ -590,7 +689,7 @@ def main():
 
         page_raw = raw_title if kind != "front" else "FIRE TO FUTURE \u2014 What This Guide Is"
         page_title = f"{page_raw} \u2014 Fire to Future"
-        html = render_page(page_title, progress, prev_link, next_link, body)
+        html = render_page(page_title, progress, prev_link, next_link, body, page_file(key))
         out_path = os.path.join(OUT_PAGES_DIR, page_file(key))
         os.makedirs(os.path.dirname(out_path), exist_ok=True)
         with open(out_path, "w", encoding="utf-8", newline="") as fh:
@@ -612,6 +711,10 @@ def main():
     with open(OUT_DATA_JSON, "w", encoding="utf-8", newline="") as fh:
         json.dump(data_entries, fh, indent=2, ensure_ascii=False)
         fh.write("\n")
+
+    # ---- shared stylesheet of the reader pages ----
+    with open(os.path.join(OUT_PAGES_DIR, "reader.css"), "w", encoding="utf-8", newline="\n") as fh:
+        fh.write(CSS.lstrip("\n"))
 
     # ---- PDF ----
     out_pdf = os.path.join(OUT_PAGES_DIR, "Fire-To-Future.pdf")

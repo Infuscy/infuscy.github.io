@@ -10,7 +10,7 @@ Frontend pentru rapoarte statice de investigatii de date. Gazduieste rapoarte in
 - **`fire-to-future/`** — editia web a cartii FIRE TO FUTURE (51 capitole + 7 anexe + politica de surse `source-policy.html`, din `C:\GIT\Apocalypse`): o pagina reader per sectiune, PDF-ul printului, plus `index.html` (cuprins + cautare). Se regenereaza cu `python scripts/build_fire_to_future.py` (genereaza si `_data/fire_to_future_chapters.json`).
 - **`romania-deficit/`** — editia web a analizei „Poate România să plătească deficitul?” (din `C:\GIT\RomaniaDeficit`): articolul, figurile, PDF-ul si modelul Excel. Se regenereaza cu `python scripts/build_romania_deficit.py`; nu se editeaza manual.
 - **`img/portfolio/`** — thumbnaily pentru cardurile din grid.
-- Tema actuala: Jekyll + Start Bootstrap "Freelancer" (GitHub Pages build automat la push).
+- Tema: Jekyll, cu CSS-ul Bootstrap 3 / Bootswatch al temei Start Bootstrap "Freelancer" (fara JavaScript-ul lor; meniul ruleaza din `js/site.js`). Modul intunecat urmeaza setarea sistemului. GitHub Pages construieste automat la push.
 
 ## Adaugarea unui raport nou
 

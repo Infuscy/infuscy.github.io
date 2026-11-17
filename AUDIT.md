@@ -1,6 +1,8 @@
 # Full Codebase & BAC Data-Methods Audit
 
 Audit date: 2026-08-02 (this repo, working tree at `036bf8c`).
+
+> Note (2026-11-17): this records the site as it was at `036bf8c`. The Jekyll layer has changed since: the report modals are gone (cards link straight to the reports) and jQuery/Bootstrap JS were replaced by `js/site.js`.
 Scope: the Jekyll site layer, the three shipped report apps (`bac2025/`, `bac2026/`, `bac2526/`), and above all the **investigative and data-analysis methods and results** for the BAC reports — independently re-verified against the raw candidate-level data (`bac*/data/bac_slim.parquet`).
 
 Method: black-box recomputation. Every headline number was recomputed from the raw parquet with independent code (Python/pandas) and diffed against the shipped digests. 180 digest-internal consistency checks + 98 recomputation checks + the full `BUGFIX_SPEC.md` regression checklist were executed. Scripts: `C:\tmp\bac_audit\audit_digest.py`, `audit_parquet.py`, `audit_parquet_b.py`, `audit_interesting.py` (kept outside the repo; check logs in `digest_checks.json`, `parquet_checks.json`, `parquet_checks_b.json`, `interesting.json`).

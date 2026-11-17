@@ -15,7 +15,8 @@ comment services. All content is owner-authored. The residual risks are:
 1. supply chain (bundled client-side libraries),
 2. client-side injection via authored HTML (post `description` / `site.credits`),
 3. clickjacking (GitHub Pages cannot set frame headers),
-4. third-party requests made by the report SPAs (now reduced to OSM map tiles).
+4. third-party requests made by the report SPAs (none since 2026-11-17: the county
+   map is drawn from the bundled GeoJSON, with no tile layer).
 
 ## Security posture
 
@@ -23,20 +24,23 @@ comment services. All content is owner-authored. The residual risks are:
 - Content-Security-Policy via meta tag on the Jekyll layer (`_includes/head.html`)
   and on all three report SPAs (`bac2025/`, `bac2026/`, `bac2526/`). The report
   policy is `script-src 'self'` (no WASM/workers since the DuckDB SQL console was
-  removed on 2026-10-03); `bac2025`/`bac2026` add `img-src ...
-  https://tile.openstreetmap.org` for the county map, `bac2526` has no map. The
-  standalone chapter pages (`translated/*.html`, `fire-to-future/*.html`) carry
-  their own meta CSP (`script-src 'self'`, the font control is
-  `/js/reader-font.js`) + referrer policy — `scripts/patch_translated_security.py`
-  re-applies both after regenerating novel chapters upstream. The three game demos
+  removed on 2026-10-03) and, since 2026-11-17, `img-src 'self' data:` on all
+  three (the OSM tile host is gone). The standalone chapter pages
+  (`translated/*.html`, `fire-to-future/*.html`) carry their own meta CSP
+  (`script-src 'self'`, the font control is `/js/reader-font.js`) + referrer
+  policy; the novel chapters also use `style-src 'self'` (their CSS is the shared
+  `/css/reader.css`, no inline styles). `scripts/patch_translated_security.py`
+  re-applies all of it after regenerating novel chapters upstream. The three game demos
   (`claude-code-2d-engines/play/*/index.html`) get their own meta CSP from
   `scripts/build_engine_demos.py`: inline scripts pinned by sha256; the Godot and
   Defold pages also need `'wasm-unsafe-eval'` and `'unsafe-eval'` (Godot's
   `JavaScriptBridge.eval`, Defold's engine startup), and Defold's Fullscreen button
   is allowed through `'unsafe-hashes'`. No third-party sources on any of them.
 - Referrer policy meta tag everywhere (`strict-origin-when-cross-origin`).
-- Frame-buster script in `js/freelancer.js` (Pages cannot set
+- Frame-buster script in `js/site.js` (Pages cannot set
   `X-Frame-Options`/`frame-ancestors`).
+- No third-party JavaScript libraries on the Jekyll layer: jQuery and Bootstrap's
+  JS were removed on 2026-11-17; `js/site.js` (plain JS) runs the menu.
 - No external fonts, analytics or comment widgets; all JS/CSS/fonts are local.
 - No cookies, no sessionStorage. The only localStorage key is
   `reader-font-scale` (`js/reader-font.js`): written only when the reader clicks
@@ -52,16 +56,13 @@ comment services. All content is owner-authored. The residual risks are:
 
 ## Accepted risks (re-evaluate periodically)
 
-- **Bootstrap 3.4.1** — CVE-2024-6484 / CVE-2024-6485 (carousel / tooltip-popover
-  XSS). Bootstrap 3.x is EOL with no upstream fix. The vulnerable components are
-  bundled but not used with untrusted data. Migration to Bootstrap 5 is backlog.
 - **Unescaped HTML sinks** — `_posts/*.markdown` `description` and `site.credits`
   are rendered unescaped (Jekyll never escapes Liquid output; the old `| raw`
   filter was a no-op and has been removed). That is a stored-XSS vector *if* third-party HTML is
   ever committed. Rule: post descriptions may only contain hand-written HTML.
-- **jQuery 3.7.1** — no known CVEs; upgrade to 4.x is backlog only.
-- **Font Awesome 4.1.0 / Bootswatch CSS 3.2.0** — old, but CSS/fonts only; no
-  known vulnerabilities.
+- **Bootswatch / Bootstrap 3 CSS** — EOL, but stylesheet only (the JS, where
+  CVE-2024-6484 / CVE-2024-6485 live, is no longer shipped); no known
+  vulnerabilities in the CSS.
 - **The novel** (`/novel/`, `translated/`) — a 1,862-chapter fanfiction
   translation. Copyright exposure (original author's text + Blizzard IP) was
   reviewed and explicitly accepted by the site owner on 2026-08-13. Chapters
@@ -80,13 +81,12 @@ comment services. All content is owner-authored. The residual risks are:
 
 ## EU legislation posture
 
-- GDPR privacy notice: `/privacy/` (GitHub Pages processor disclosure, OSM tile
-  transfer, no cookies/analytics; the one localStorage key is disclosed).
+- GDPR privacy notice: `/privacy/` (GitHub Pages processor disclosure, no
+  third-party requests, no cookies/analytics; the one localStorage key is disclosed).
 - Legitimate Interests Assessment for the BAC candidate-level data: `/lia/`
   (`lia.html`; no direct identifiers, min-n aggregate thresholds, client-side
   only). The privacy notice no longer calls the data "anonymous" — it states
   the absence of direct identifiers and links the LIA.
-- OSM Tile Usage Policy: maps attribute "© OpenStreetMap contributors".
 - DSA (2022/2065) and the European Accessibility Act (2019/882): assessed as
   not applicable to this personal, non-commercial static site.
 
@@ -101,12 +101,12 @@ so future rebuilds keep them:
 1. `web/index.html` (all three repos): Google Fonts `preconnect` + stylesheet
    links removed; CSP meta + referrer meta added. On 2026-10-03 the DuckDB-WASM
    SQL console was removed upstream, so `'wasm-unsafe-eval'` and
-   `worker-src 'self' blob:` are gone; only `bac2025`/`bac2026` keep
-   `img-src ... https://tile.openstreetmap.org`.
-2. `web/src/components/CountyMap.tsx` (BAC2025IUNIE, BAC2026): attribution
-   `&copy; OpenStreetMap contributors`, tile URL without the deprecated
-   `{s}.` subdomain prefix.
+   `worker-src 'self' blob:` are gone. On 2026-11-17 the OSM tile host left
+   `img-src` too (see 2).
+2. `web/src/components/CountyMap.tsx` (BAC2025IUNIE, BAC2026): since 2026-11-17
+   the map has no `TileLayer`; the county shapes from `data/romania-counties.geojson`
+   are the whole map, so the reports make no third-party requests.
 
 > When updating a report: run `npm run build` in the repo's `web/` **before**
 > copying `web/dist/` into this repo — copying an un-rebuilt dist would
-> re-introduce the old font links and attribution.
+> re-introduce the old font links and map tiles.

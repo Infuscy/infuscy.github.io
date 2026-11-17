@@ -24,14 +24,16 @@ What changes for online readers:
 Usage:
     python scripts/build_romania_deficit.py [--src C:\\GIT\\RomaniaDeficit]
 
-Standard library only. The script rewrites only romania-deficit/index.html,
-romania-deficit/figuri/*.png and the two download files.
+Needs Pillow (the figures are published as lossless WebP). The script rewrites only
+romania-deficit/index.html, romania-deficit/figuri/*.webp and the two download files.
 """
 import argparse
 import html
 import os
 import re
 import shutil
+
+from PIL import Image
 import struct
 import sys
 import unicodedata
@@ -60,7 +62,7 @@ CSS = """
   .articol .subtitlu { font-size: 21px; color: #475569; margin: 10px 0 0; line-height: 1.45; }
   .articol .lede { font-size: 21px; line-height: 1.6; color: #334155; margin-top: 18px; }
   .articol .art-meta { color: #64748b; font-size: 17px; margin: 14px 0 8px; }
-  .articol .small-note { font-size: 16px; color: #64748b; line-height: 1.6; }
+  .articol .small-note { font-size: 16px; color: #475569; line-height: 1.6; }
   .articol .box { border: 1px solid #cbd5e1; border-radius: 6px; padding: 18px 22px; margin: 22px 0; background: #f8fafc; }
   .articol .box.warn { border-color: #f59e0b; background: #fffbeb; }
   .articol .box.info { border-color: #93c5fd; background: #eff6ff; }
@@ -96,6 +98,11 @@ CSS = """
   .articol .surse p:target, .articol .surse p.sursa:target { background: #fef9c3; outline: 6px solid #fef9c3; }
   .articol .la-cuprins { position: fixed; left: 18px; bottom: 18px; z-index: 20; background: #0f172a; color: #fff; border-radius: 999px; padding: 8px 16px; font-size: 15px; font-weight: 600; box-shadow: 0 4px 14px rgb(15 23 42 / .25); text-decoration: none; }
   .articol .la-cuprins:hover, .articol .la-cuprins:focus { background: #2563eb; color: #fff; }
+  .articol .la-cuprins { transition: opacity .2s ease, visibility .2s ease, transform .2s ease; }
+  .articol .la-cuprins.is-top { opacity: 0; visibility: hidden; transform: translateY(8px); }
+  @media (max-width: 1100px) {
+    .articol .la-cuprins.is-reading:not(:focus) { opacity: 0; visibility: hidden; transform: translateY(8px); }
+  }
   @media (max-width: 767px) {
     .articol, .articol p, .articol li { font-size: 17px; }
     .articol h1 { font-size: 29px; }
@@ -237,6 +244,27 @@ def split_report(text):
     return lines[:cut], body
 
 
+def publish_figure(src, rel):
+    """Write the report's PNG chart as lossless WebP (about a third of the bytes,
+    pixel-identical) and return its URL."""
+    name = os.path.splitext(os.path.basename(rel))[0] + ".webp"
+    with Image.open(os.path.join(src, rel)) as im:
+        im.save(os.path.join(OUT_DIR, "figuri", name), "WEBP", lossless=True, quality=100, method=6)
+    return f"{URL}figuri/{name}"
+
+
+RO_MONTHS = ["ianuarie", "februarie", "martie", "aprilie", "mai", "iunie", "iulie",
+             "august", "septembrie", "octombrie", "noiembrie", "decembrie"]
+
+
+def iso_date(ro_date):
+    """'17 octombrie 2026' -> '2026-10-17' (front matter for the feed, sitemap and JSON-LD)."""
+    m = re.match(r"(\d{1,2})\s+(\w+)\s+(\d{4})", ro_date)
+    if not m or m.group(2).lower() not in RO_MONTHS:
+        sys.exit(f"ERROR: cannot read the report date '{ro_date}'")
+    return f"{m.group(3)}-{RO_MONTHS.index(m.group(2).lower()) + 1:02d}-{int(m.group(1)):02d}"
+
+
 def build(src):
     mdc = load_parser(src)
     md_path = os.path.join(src, REPORT_MD)
@@ -259,14 +287,10 @@ def build(src):
     for kind, payload in blocks:
         if kind == "img":
             _, rel = mdc.imagine(payload)
-            name = os.path.basename(rel)
-            shutil.copy2(os.path.join(src, rel), os.path.join(OUT_DIR, "figuri", name))
-            published[rel] = f"{URL}figuri/{name}"
+            published[rel] = publish_figure(src, rel)
     for rel in re.findall(r"\]\((model/figuri/[^)]+\.png)\)", body):
         if rel not in published and os.path.isfile(os.path.join(src, rel)):
-            name = os.path.basename(rel)
-            shutil.copy2(os.path.join(src, rel), os.path.join(OUT_DIR, "figuri", name))
-            published[rel] = f"{URL}figuri/{name}"
+            published[rel] = publish_figure(src, rel)
     for rel in (REPORT_PDF, MODEL_XLSX):
         shutil.copy2(os.path.join(src, rel), os.path.join(OUT_DIR, os.path.basename(rel)))
         published[rel] = f"{URL}{os.path.basename(rel)}"
@@ -326,6 +350,7 @@ def build(src):
     in_sources = False
     in_summary = False
     fig_no = 0
+    last_head = ""
     head_iter = iter(heads)
     words = 0
 
@@ -345,6 +370,7 @@ def build(src):
                 out.append("</div>")
                 in_sources = False
             n = min(level, 4)
+            last_head = plain(txt)
             out.append(f'<h{n} id="{hid}">{r.inline(txt, links=False)}'
                        f'<a class="ancora" href="#{hid}" aria-label="Link către secțiune">#</a></h{n}>')
             if level == 2 and plain(txt) == "Surse":
@@ -373,9 +399,10 @@ def build(src):
             rows = mdc.randuri_tabel(payload)
             if not rows:
                 continue
-            t = ['<div class="tabel-scroll" role="region" tabindex="0" aria-label="Tabel (derulabil orizontal)">'
+            label = html.escape(f"Tabel: {last_head} (derulabil orizontal)", quote=True)
+            t = [f'<div class="tabel-scroll" role="region" tabindex="0" aria-label="{label}">'
                  "<table><thead><tr>"]
-            t += [f"<th>{r.inline(c)}</th>" for c in rows[0]]
+            t += [f'<th scope="col">{r.inline(c)}</th>' for c in rows[0]]
             t.append("</tr></thead><tbody>")
             for row in rows[1:]:
                 t.append("<tr>" + "".join(f"<td>{r.inline(c)}</td>" for c in row) + "</tr>")
@@ -460,7 +487,8 @@ def build(src):
         f"description: {yaml_str(description)}\n"
         f"img: {SLUG}.png\n"
         "og_type: article\n"
-        "twitter_card: summary_large_image\n"
+        f"date_published: {iso_date(report_date)}\n"
+        "feed_category: Analiză economică\n"
         f"permalink: {URL}\n"
         "---\n"
         "<!-- Generated by scripts/build_romania_deficit.py from "

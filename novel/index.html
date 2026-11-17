@@ -2,6 +2,7 @@
 layout: page
 title: "Novel"
 lang: en
+description: "Table of contents for an unofficial, non-commercial fan translation of a Warcraft fanfiction novel: 1,862 chapters, searchable by title or number."
 ---
 
 <style>
@@ -46,7 +47,7 @@ lang: en
   box-shadow: 0 0 0 3px rgba(37,99,235,.1);
 }
 .toc-search::placeholder {
-  color: #94a3b8;
+  color: #64748b;
 }
 .toc-list {
   list-style: none;
@@ -74,7 +75,7 @@ lang: en
   color: #2563eb;
 }
 .toc-list .chapter-num {
-  color: #94a3b8;
+  color: #64748b;
   font-size: .85rem;
   font-weight: 500;
   min-width: 2.5rem;
@@ -96,13 +97,13 @@ lang: en
 }
 .toc-empty {
   text-align: center;
-  color: #94a3b8;
+  color: #64748b;
   padding: 3rem 0;
   font-style: italic;
 }
 .toc-note {
   text-align: center;
-  color: #94a3b8;
+  color: #64748b;
   font-size: .95rem;
   margin: 1.5rem auto 0;
   max-width: 34rem;
@@ -127,6 +128,28 @@ lang: en
   .toc-wrap { padding: 5rem 0 3rem; }
   .toc-header h1 { font-size: 1.6rem; }
 }
+/* Dark mode: follows the system setting, like the rest of the site. */
+@media (prefers-color-scheme: dark) {
+  .toc-header h1 { color: #f1f5f9; }
+  .toc-header p,
+  .toc-header .toc-sub,
+  .toc-note,
+  .toc-empty,
+  .toc-list .chapter-num,
+  .toc-list .chapter-type { color: #94a3b8; }
+  .toc-search { background: #131c2e; border-color: #27344a; color: #e2e8f0; }
+  .toc-search::placeholder { color: #94a3b8; }
+  .toc-list li,
+  .toc-volume-divider,
+  .toc-part-divider { border-bottom-color: #1e293b; }
+  .toc-list a { color: #e2e8f0; }
+  .toc-list a:hover { background: #131c2e; color: #93c5fd; }
+  .toc-volume-divider,
+  .toc-part-divider { color: #93c5fd; }
+  .toc-disclaimer { background: #131c2e; border-color: #27344a; color: #cbd5e1; }
+  .toc-download { border-color: #60a5fa; color: #93c5fd; }
+  .toc-download:hover { background: #172554; }
+}
 </style>
 
 <div class="toc-wrap">
@@ -142,7 +165,7 @@ lang: en
       </div>
     </div>
 
-    <input type="text" class="toc-search" id="tocSearch" placeholder="Search chapters by title or number…" autofocus>
+    <input type="text" class="toc-search" id="tocSearch" aria-label="Search chapters by title or number" placeholder="Search chapters by title or number…" autofocus>
 
     <ul class="toc-list" id="tocList"></ul>
     <p class="toc-empty" id="tocEmpty" style="display:none">No chapters match your search.</p>

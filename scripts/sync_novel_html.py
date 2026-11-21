@@ -16,7 +16,8 @@ em dash, "..." as an ellipsis. The .md sources are never changed.
 The first paragraph is marked as the chapter's opening (small capitals); a long one
 that starts with a letter also gets the drop cap, which a short or quoted first line
 would leave hanging. Sources are read as LF: chapters once built from CRLF files had
-the whole text collapsed into a single <p>.
+the whole text collapsed into a single <p>. Pages are compared as LF too: with
+core.autocrlf Git checks them out with CRLF, which is no change to their content.
 
 Usage: py scripts/sync_novel_html.py            rewrite the pages that differ
        py scripts/sync_novel_html.py --check    report only (exit 1 if anything is out of sync)
@@ -246,8 +247,7 @@ def main(check_only):
         if "<style" in fresh or ' style="' in fresh or "<script>" in fresh:
             sys.exit(f"{ch['path']}: inline style or script (the CSP blocks it)")
         try:
-            with open(ch["path"], encoding="utf-8", newline="") as fh:
-                current = fh.read()
+            current = read_lf(ch["path"])
         except FileNotFoundError:
             current = None
         if fresh != current:
@@ -259,8 +259,7 @@ def main(check_only):
     index = [{"num": ch["num"], "title": ch["title"], "file": ch["file"]} for ch in chapters]
     index_path = os.path.join(ROOT, "_data", "novel_chapters.json")
     fresh_index = json.dumps(index, indent=2, ensure_ascii=False)
-    with open(index_path, encoding="utf-8", newline="") as fh:
-        index_stale = fh.read() != fresh_index
+    index_stale = read_lf(index_path) != fresh_index
     if index_stale and not check_only:
         with open(index_path, "w", encoding="utf-8", newline="") as fh:
             fh.write(fresh_index)

@@ -78,6 +78,10 @@ TRANSPARENCY = (
 TRANSPARENCY_COVER = (TRANSPARENCY + " A transparency statement under Article 50 of "
                       "Regulation (EU) 2024/1689 (the AI Act).")
 
+# The share image (img/social-card-old-magic.png) is made by scripts/make_old_magic_card.py.
+IMAGE_ALT = ("The Book of Old Magic: the title in cream on lapis-blue glazed brick, under "
+             "Ištar's eight-pointed star, between two rosette friezes")
+
 CSP = ("default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; "
        "font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'")
 
@@ -598,10 +602,14 @@ HEAD = """<meta charset="utf-8">
 <meta property="og:title" content="{og_title}">
 <meta property="og:description" content="{desc}">
 <meta property="og:url" content="{url}">
-<meta property="og:image" content="{site}/img/social-card.png">
+<meta property="og:image" content="{site}/img/social-card-old-magic.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{image_alt}">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{og_title}">
+<meta name="twitter:description" content="{desc}">
+<meta name="twitter:image" content="{site}/img/social-card-old-magic.png">
 <link rel="preload" href="/old-magic/fonts/old-magic-text-regular.woff" as="font" type="font/woff" crossorigin>
 <link rel="preload" href="/old-magic/fonts/old-magic-text-italic.woff" as="font" type="font/woff" crossorigin>
 <link rel="stylesheet" href="/old-magic/book.css">"""
@@ -633,7 +641,8 @@ def render_page(meta, body, prev_meta, next_meta, desc):
     title = f"{nav_title(meta)} — The Book of Old Magic"
     url = f"{SITE_URL}{BASE}{meta['file']}"
     head = HEAD.format(csp=CSP, title=attr(title), desc=attr(desc), author=AUTHOR, url=url,
-                       site=SITE_URL, og_type="article", og_title=attr(title))
+                       site=SITE_URL, og_type="article", og_title=attr(title),
+                       image_alt=attr(IMAGE_ALT))
     rel = ""
     if prev_meta:
         rel += f'\n<link rel="prev" href="{prev_meta["file"]}">'
@@ -680,7 +689,8 @@ def render_cover(title, subtitle, pages, epigraph_html, blurb, total_words):
             "Free to read online.")
     url = f"{SITE_URL}{BASE}"
     head = HEAD.format(csp=CSP, title=attr(title), desc=attr(desc), author=AUTHOR, url=url,
-                       site=SITE_URL, og_type="book", og_title=attr(title))
+                       site=SITE_URL, og_type="book", og_title=attr(title),
+                       image_alt=attr(IMAGE_ALT))
     n_ch = sum(1 for p in pages if p["kind"] == "chapter")
     n_ap = sum(1 for p in pages if p["kind"] == "appendix")
     total_min = minutes(total_words)

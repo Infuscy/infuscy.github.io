@@ -1,5 +1,6 @@
-// Novel table-of-contents: render + client-side search.
-// Chapter data comes from /novel/chapters.js (Jekyll-rendered global).
+// Novel table of contents (novel/index.html): render + client-side search.
+// Chapter data comes from /novel/chapters.js (Jekyll-rendered global). Both scripts are
+// deferred, so the page is parsed when this runs.
 (function () {
     var CHAPTERS = window.NOVEL_CHAPTERS || [];
 
@@ -10,19 +11,24 @@
         });
     }
 
+    // Titles use curly quotes and apostrophes; a search typed with straight ones still matches.
+    function fold(s) {
+        return String(s).toLowerCase().replace(/[‘’]/g, "'").replace(/[“”]/g, '"');
+    }
+
     // Known volume markers: chapter number -> volume label
     var VOLUMES = { 514: "Volume 6", 1758: "Volume 19", 1816: "Volume 20" };
 
     function renderToc(filter) {
         var list = document.getElementById('tocList');
         var empty = document.getElementById('tocEmpty');
-        var q = (filter || '').toLowerCase().trim();
+        var q = fold(filter || '').trim();
         var html = '';
         var count = 0;
 
         for (var i = 0; i < CHAPTERS.length; i++) {
             var ch = CHAPTERS[i];
-            if (q && ch.title.toLowerCase().indexOf(q) === -1 && String(ch.num).indexOf(q) === -1) {
+            if (q && fold(ch.title).indexOf(q) === -1 && String(ch.num).indexOf(q) === -1) {
                 continue;
             }
             if (VOLUMES[ch.num]) {
@@ -36,10 +42,10 @@
         }
 
         list.innerHTML = html;
-        empty.style.display = count === 0 ? '' : 'none';
+        empty.hidden = count !== 0;
     }
 
-    document.getElementById('tocSearch').addEventListener('input', function(e) {
+    document.getElementById('tocSearch').addEventListener('input', function (e) {
         renderToc(e.target.value);
     });
 

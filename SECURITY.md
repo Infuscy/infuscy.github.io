@@ -29,8 +29,10 @@ comment services. All content is owner-authored. The residual risks are:
   (`translated/*.html`, `fire-to-future/*.html`) carry their own meta CSP
   (`script-src 'self'`, the font control is `/js/reader-font.js`) + referrer
   policy; the novel chapters also use `style-src 'self'` (their CSS is the shared
-  `/css/reader.css`, no inline styles). `scripts/patch_translated_security.py`
-  re-applies all of it after regenerating novel chapters upstream. The three game demos
+  `/css/reader.css`, no inline styles). `scripts/sync_novel_html.py` writes the
+  novel pages with all of it (and refuses inline styles or scripts);
+  `scripts/patch_translated_security.py` re-checks it. The novel's contents page
+  (`novel/index.html`) is standalone with the same strict CSP. The three game demos
   (`claude-code-2d-engines/play/*/index.html`) get their own meta CSP from
   `scripts/build_engine_demos.py`: inline scripts pinned by sha256; the Godot and
   Defold pages also need `'wasm-unsafe-eval'` and `'unsafe-eval'` (Godot's

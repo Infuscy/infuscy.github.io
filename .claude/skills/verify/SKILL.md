@@ -29,7 +29,8 @@ The user-facing surface is the rendered HTML. After building (`B` = build dir):
 - **Portfolio grid:** `grep -c 'col-sm-4 portfolio-item' "$B/index.html"` →
   number of `_posts`.
 - **Card links:** `grep -o 'class="card-link" href="[^"]*"' "$B/index.html"` →
-  one per post (`/bacYYYY/`) plus `/romania-deficit/`, `/art47-hcl419/`, `/novel/`, `/fire-to-future/`.
+  one per post (`/bacYYYY/`) plus `/romania-deficit/`, `/art47-hcl419/`, `/novel/`, `/fire-to-future/`,
+  `/old-magic/`, `/claude-code-2d-engines/`.
   There are no modals any more (`portfolioModal` count → 0).
 - **Post URLs redirect:** `"$B/2025/06/01/bac2025-iunie/index.html"` is the
   `report-redirect` stub (noindex + canonical/refresh to `/bac2025/`).

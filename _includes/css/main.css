@@ -551,6 +551,11 @@ section.band {
 #fiction {
     background: var(--bg-soft);
 }
+/* three books: three across from md up; on sm the third sits centred under the pair */
+#fiction .portfolio-row {
+    justify-content: center;
+    row-gap: 1.5rem;
+}
 
 /* ---------- Cards ---------- */
 .portfolio-row {

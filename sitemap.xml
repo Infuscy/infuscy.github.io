@@ -40,4 +40,10 @@ layout: null
     <loc>{{ site.url }}/fire-to-future/{{ ch.file }}</loc>
   </url>
   {%- endfor %}
+  {%- comment %} The Book of Old Magic: the cover is an article page (above); its pages come from scripts/build_old_magic.py {% endcomment %}
+  {%- for pg in site.data.old_magic_pages %}
+  <url>
+    <loc>{{ site.url }}/old-magic/{{ pg.file }}</loc>
+  </url>
+  {%- endfor %}
 </urlset>

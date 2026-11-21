@@ -1,0 +1,77 @@
+[
+  {
+    "file": "introduction.html",
+    "title": "Before you open this book",
+    "kind": "front"
+  },
+  {
+    "file": "grammar.html",
+    "title": "The grammar of a spell",
+    "kind": "front"
+  },
+  {
+    "file": "ch01.html",
+    "title": "Chapter I · Against demons",
+    "kind": "chapter"
+  },
+  {
+    "file": "ch02.html",
+    "title": "Chapter II · Against witchcraft",
+    "kind": "chapter"
+  },
+  {
+    "file": "ch03.html",
+    "title": "Chapter III · Lifting curses and turning omens",
+    "kind": "chapter"
+  },
+  {
+    "file": "ch04.html",
+    "title": "Chapter IV · The dead",
+    "kind": "chapter"
+  },
+  {
+    "file": "ch05.html",
+    "title": "Chapter V · House, mother and child",
+    "kind": "chapter"
+  },
+  {
+    "file": "ch06.html",
+    "title": "Chapter VI · Love, desire and favour",
+    "kind": "chapter"
+  },
+  {
+    "file": "ch07.html",
+    "title": "Chapter VII · Night and divination",
+    "kind": "chapter"
+  },
+  {
+    "file": "ch08.html",
+    "title": "Chapter VIII · Curses",
+    "kind": "chapter"
+  },
+  {
+    "file": "ch09.html",
+    "title": "Chapter IX · Rites of temple and king",
+    "kind": "chapter"
+  },
+  {
+    "file": "ch10.html",
+    "title": "Chapter X · Kindred magic of the ancient world",
+    "kind": "chapter"
+  },
+  {
+    "file": "appendix-a.html",
+    "title": "Appendix A · Bestiary of demons and guardians",
+    "kind": "appendix"
+  },
+  {
+    "file": "appendix-b.html",
+    "title": "Appendix B · Powers invoked and materia magica",
+    "kind": "appendix"
+  },
+  {
+    "file": "appendix-c.html",
+    "title": "Appendix C · Sources, editions and a warning",
+    "kind": "appendix"
+  }
+]

@@ -68,6 +68,7 @@ exclude:
   - claude-code-2d-engines-fact-check.md
   - scripts
   - "translated/*.md"
+  - "old-magic/*.md"
 
 # Posts are data for the report grid/modals, not pages. Their URLs only
 # redirect to the report itself (see _layouts/report-redirect.html).

@@ -1,4 +1,4 @@
-// Reader font-size buttons for the static chapter pages (translated/, fire-to-future/).
+// Reader font-size buttons for the static chapter pages (translated/, fire-to-future/, old-magic/).
 // The chosen size is kept in localStorage ("reader-font-scale") so it carries over
 // between chapters. It is written only when the reader clicks a button, holds just
 // that number, never leaves the device, and is removed again at the default size

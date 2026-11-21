@@ -9,7 +9,9 @@
    shared /css/reader.css, and the two inline-styled notes with classes from
    it. With no inline style left, the CSP drops 'unsafe-inline' for styles too.
 
-Run again after regenerating chapters upstream.
+scripts/sync_novel_html.py now writes pages that already comply, so on its output
+this only re-checks. Patterns are matched on LF text, so CRLF working copies
+(core.autocrlf on Windows) are safe too, and a changed page keeps its line endings.
 """
 import glob
 import re
@@ -65,8 +67,11 @@ def main() -> int:
 
     for path in files:
         with open(path, encoding="utf-8", newline="") as fh:
-            text = fh.read()
-        original = text
+            raw = fh.read()
+        # Most patterns here span lines: against CRLF text they missed, and the
+        # metas went in a second time.
+        crlf = "\r\n" in raw
+        text = original = raw.replace("\r\n", "\n")
 
         text = text.replace(METAS_INLINE_SCRIPT, METAS).replace(METAS_INLINE_STYLE, METAS)
         if METAS not in text:
@@ -91,7 +96,7 @@ def main() -> int:
 
         if text != original:
             with open(path, "w", encoding="utf-8", newline="") as fh:
-                fh.write(text)
+                fh.write(text.replace("\n", "\r\n") if crlf else text)
 
     print(f"files scanned:      {len(files)}")
     print(f"metas injected:     {patched_meta}")

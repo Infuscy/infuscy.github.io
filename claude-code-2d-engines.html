@@ -41,6 +41,30 @@ feed_category: Technology
   .articol code { font-size: 0.85em; color: #1e293b; background: #f1f5f9; }
   .articol pre { font-size: 14.5px; line-height: 1.55; white-space: pre-wrap; word-break: normal; overflow-wrap: anywhere; background: #f8fafc; border: 1px solid #e2e8f0; }
   .articol pre code { background: none; font-size: inherit; }
+  /* "Play the three builds": one card per build, a screenshot of it in play (img/engine-builds/,
+     taken from the served builds with ?seed=42), and the controls as keycaps. */
+  .articol .play-builds { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin: 18px 0 12px; padding: 0; list-style: none; }
+  .articol .play-builds li { display: flex; flex-direction: column; margin: 0; overflow: hidden; border: 1px solid #bfdbfe; border-radius: 10px; background: #fff; transition: border-color .15s, box-shadow .15s, transform .15s; }
+  .articol .play-builds li:hover, .articol .play-builds li:focus-within { border-color: #60a5fa; box-shadow: 0 10px 22px -12px rgb(15 23 42 / .35); transform: translateY(-2px); }
+  .articol .play-builds a { display: block; color: #1d4ed8; text-decoration: none; }
+  .articol .play-builds a:focus-visible { outline: 3px solid rgba(37,99,235,.55); outline-offset: -3px; }
+  .articol .play-builds img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; border-bottom: 1px solid #bfdbfe; background: #05070d; }
+  .articol .play-name { display: flex; align-items: center; gap: 8px; padding: 10px 14px 2px; font-size: 17px; font-weight: 700; line-height: 1.35; }
+  .articol .play-name::before { content: ""; flex: none; width: 0; height: 0; border-style: solid; border-width: 6px 0 6px 10px; border-color: transparent transparent transparent currentColor; }
+  .articol .play-builds a:hover .play-name { text-decoration: underline; text-underline-offset: 3px; }
+  .articol .play-size { display: block; padding: 0 14px 12px 32px; font-size: 15px; line-height: 1.45; color: #475569; }
+  .articol kbd { display: inline-block; min-width: 1.7em; margin: 0 1px; padding: 0 6px; border: 1px solid #cbd5e1; border-bottom-width: 3px; border-radius: 6px; background: #fff; box-shadow: none; color: #0f172a; font: 600 .78em/1.55 ui-monospace, "Cascadia Mono", Consolas, Menlo, monospace; text-align: center; vertical-align: .08em; }
+  @media (prefers-color-scheme: dark) {
+    .articol .play-builds li { border-color: #1e3a8a; background: #0b1120; }
+    .articol .play-builds li:hover, .articol .play-builds li:focus-within { border-color: #3b82f6; box-shadow: 0 10px 22px -12px rgb(0 0 0 / .7); }
+    .articol .play-builds a { color: #93c5fd; }
+    .articol .play-builds img { border-bottom-color: #1e3a8a; }
+    .articol .play-size { color: #94a3b8; }
+    .articol kbd { border-color: #475569; background: #1e293b; color: #f1f5f9; }
+  }
+  @media (max-width: 767px) {
+    .articol .play-builds { grid-template-columns: 1fr; }
+  }
   /* Bootstrap's .table-responsive forces nowrap cells below 768px; let them wrap so
      every column stays on screen on a phone. */
   @media (max-width: 767px) {
@@ -145,16 +169,16 @@ feed_category: Technology
 
 <p>The spread, 4.36 to 4.98, is narrow. That is the honest reading: <strong>all three are workable engines for an AI agent</strong>, and the loop separates them by degree, not by kind.</p>
 
-<div class="box info" id="play">
+<div class="box info play" id="play">
 <h3>Play the three builds</h3>
 <p>These are the web builds the three sessions produced, pause menu and power-ups included, unchanged apart from a security header. They need a desktop browser and a keyboard; there are no touch controls yet.</p>
-<ul>
-  <li><a href="/claude-code-2d-engines/play/phaser/">Phaser 4 build</a> · about 0.35 MB to download</li>
-  <li><a href="/claude-code-2d-engines/play/godot/">Godot 4.7 build</a> · about 10 MB to download, so the first load takes a moment</li>
-  <li><a href="/claude-code-2d-engines/play/defold/">Defold 1.14 build</a> · about 1.3 MB to download</li>
+<ul class="play-builds">
+  <li><a href="/claude-code-2d-engines/play/phaser/"><img src="/img/engine-builds/phaser.webp" alt="" width="640" height="360" loading="lazy" decoding="async"><span class="play-name">Phaser 4 build</span></a><span class="play-size">about 0.35 MB to download</span></li>
+  <li><a href="/claude-code-2d-engines/play/godot/"><img src="/img/engine-builds/godot.webp" alt="" width="640" height="360" loading="lazy" decoding="async"><span class="play-name">Godot 4.7 build</span></a><span class="play-size">about 10 MB to download, so the first load takes a moment</span></li>
+  <li><a href="/claude-code-2d-engines/play/defold/"><img src="/img/engine-builds/defold.webp" alt="" width="640" height="360" loading="lazy" decoding="async"><span class="play-name">Defold 1.14 build</span></a><span class="play-size">about 1.3 MB to download</span></li>
 </ul>
 <p class="small-note">Download sizes are what this site actually transfers, compressed. The build sizes elsewhere in the article (1.3, 38 and 6.2 MB) are the uncompressed files.</p>
-<p><strong>Controls:</strong> Enter to start · Left/Right or A/D to rotate · Up or W to thrust · Space to fire · Esc to pause (Resume, Restart, Quit to Title). Destroyed asteroids sometimes drop a power-up: triple shot, a one-hit shield or an extra life. Add <code>?seed=42</code> to the address to replay the same asteroid field.</p>
+<p><strong>Controls:</strong> <kbd>Enter</kbd> to start · <kbd>Left</kbd>/<kbd>Right</kbd> or <kbd>A</kbd>/<kbd>D</kbd> to rotate · <kbd>Up</kbd> or <kbd>W</kbd> to thrust · <kbd>Space</kbd> to fire · <kbd>Esc</kbd> to pause (Resume, Restart, Quit to Title). Destroyed asteroids sometimes drop a power-up: triple shot, a one-hit shield or an extra life. Add <code>?seed=42</code> to the address to replay the same asteroid field.</p>
 <p class="small-note">Each folder includes the engine's licence notices in <code>LICENSES.txt</code>. The Godot and Defold builds create a small database in your browser's IndexedDB that their engines use for save files; these games save nothing in it, and nothing is sent anywhere (see the <a href="/privacy/">privacy page</a>).</p>
 </div>
 

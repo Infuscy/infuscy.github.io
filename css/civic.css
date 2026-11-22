@@ -1,0 +1,517 @@
+/* Civic analyses: the reading theme of the two "Analiză civică" pages, the deficit
+   report (romania-deficit/, written by scripts/build_romania_deficit.py) and the parking
+   analysis (art47-hcl419.html). Hand-written. Both pages list it in their front matter
+   (`css: /css/civic.css`), which _includes/head.html links after the site stylesheet,
+   and their container carries `.articol.civic` plus one of `.civic-deficit`, `.civic-parcari`.
+
+   "The public record": a sober document for public-interest analysis, where trust
+   comes first. A serif text column of about 75 characters; sans-serif for everything
+   that is data or apparatus (headings, tables, notes, captions, references); tables and
+   figures get a wider column. The notes under the byline (AI transparency, status,
+   disclaimers) form a clearly ruled panel, the transparency note marked in the accent:
+   it must stay visible at first exposure (EU AI Act art. 50(5)).
+   Each analysis takes its accent from its subject:
+     deficit  ledger green: ledger-ruled tables with right-aligned figures, a double
+              rule (an accountant's bottom line) over the summary, and the scenarios
+              S1-S7 marked with their line colours from the charts;
+     parking  road-sign blue: the P sign, quoted law set as statute text and draft text
+              as a draft, the strength of each argument on a meter, the steps as a
+              numbered timeline, the legal deadlines highlighted.
+   Dark mode follows the system setting like the rest of the site; figures stay paper
+   (their charts are drawn on white) under a dimmer light. Every text colour passes
+   WCAG AA (4.5:1) on its background in both schemes. */
+
+.civic {
+  --c-page: #ffffff;
+  --c-panel: #f4f6f8;
+  --c-rule: #d9dee5;
+  --c-rule-strong: #9aa5b3;
+  --c-ink: #1c2430;
+  --c-ink-strong: #0f1620;
+  --c-muted: #566273;
+  --c-link: #1d4ed8;
+  --c-mark: #fdf0b8;
+  --c-on-accent: #ffffff;
+  --c-strong: #1d6b3c;
+  --c-strong-bg: #e4f2e8;
+  --c-medium: #7d5200;
+  --c-medium-bg: #fbf0d9;
+  --c-weak: #556070;
+  --c-weak-bg: #eef1f4;
+  --c-serif: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, "Noto Serif", serif;
+  --c-sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --c-wide: min(58rem, 100vw - 2rem);
+}
+.civic-deficit {
+  --c-accent: #1d5c47;
+  --c-accent-soft: #e8f1ec;
+  --c-ledger: #cfe2d7;
+  /* a debt path over the 60% line */
+  --c-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 3v18h18'/%3E%3Cpath d='M6 12h15' stroke-width='1.4' stroke-dasharray='1.5 2.5'/%3E%3Cpath d='M6 17l4-3.5 3 1.5 6-8'/%3E%3Ccircle cx='19' cy='7' r='1.7' fill='%23000' stroke='none'/%3E%3C/svg%3E");
+}
+.civic-parcari {
+  --c-accent: #0b4ea2;
+  --c-accent-soft: #e8eff9;
+  --c-ledger: var(--c-rule);
+  /* the parking sign */
+  --c-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill-rule='evenodd' d='M5 2h14a3 3 0 0 1 3 3v14a3 3 0 0 1-3 3H5a3 3 0 0 1-3-3V5a3 3 0 0 1 3-3ZM9 6.5v11h2.6v-3.6h2.2a3.7 3.7 0 0 0 0-7.4ZM11.6 8.8v2.8h2a1.4 1.4 0 0 0 0-2.8Z'/%3E%3C/svg%3E");
+}
+@media (prefers-color-scheme: dark) {
+  .civic {
+    --c-page: #0b1120;
+    --c-panel: #131c2e;
+    --c-rule: #27344a;
+    --c-rule-strong: #4a5a72;
+    --c-ink: #dde3ea;
+    --c-ink-strong: #f3f6f9;
+    --c-muted: #9aa6b5;
+    --c-link: #60a5fa;
+    --c-mark: #4a3d0a;
+    --c-on-accent: #0b1120;
+    --c-strong: #8fd3a5;
+    --c-strong-bg: #12261a;
+    --c-medium: #f0c060;
+    --c-medium-bg: #2a2008;
+    --c-weak: #a8b3c2;
+    --c-weak-bg: #1a2333;
+  }
+  .civic-deficit { --c-accent: #74c3a0; --c-accent-soft: #10261f; --c-ledger: #1d3a30; }
+  .civic-parcari { --c-accent: #8db8f0; --c-accent-soft: #10203f; }
+}
+
+/* ---------- the column ---------- */
+.civic {
+  max-width: 47rem;
+  padding-top: 110px;
+  padding-bottom: 1rem;
+  color: var(--c-ink);
+  font-family: var(--c-serif);
+  font-size: 19px;
+  line-height: 1.7;
+}
+.civic p, .civic li { font-size: inherit; line-height: inherit; }
+.civic :is(p, li) { text-wrap: pretty; }
+.civic a { color: var(--c-link); text-underline-offset: .15em; }
+.civic :is(h1, h2, h3, h4, table, caption, figcaption, .kicker, .art-meta, .descarcari, .toc, .tag, .box h2, .box h3) {
+  font-family: var(--c-sans);
+}
+.civic [id] { scroll-margin-top: 90px; }
+.civic strong { color: var(--c-ink-strong); }
+
+/* ---------- the head of the analysis ---------- */
+.civic .kicker {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  margin: 0 0 1rem;
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  line-height: 1.4;
+  text-transform: uppercase;
+  color: var(--c-accent);
+}
+.civic .kicker::before {
+  content: "";
+  flex: none;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: var(--c-accent);
+  -webkit-mask: var(--c-icon) center / contain no-repeat;
+  mask: var(--c-icon) center / contain no-repeat;
+}
+.civic .kicker::after { content: ""; flex: 1; min-width: 2rem; height: 1px; background: var(--c-rule); }
+.civic h1 {
+  margin: 0;
+  font-size: 2.3rem;
+  font-weight: 800;
+  line-height: 1.18;
+  letter-spacing: -.015em;
+  color: var(--c-ink-strong);
+  text-wrap: balance;
+}
+.civic .subtitlu { margin: .7rem 0 0; font-family: var(--c-sans); font-size: 1.15rem; line-height: 1.45; color: var(--c-muted); }
+.civic .lede { margin: 1.2rem 0 0; font-size: 1.14em; line-height: 1.6; color: var(--c-ink); }
+.civic .art-meta {
+  margin: 1.1rem 0 .4rem;
+  padding: .6rem 0;
+  border-top: 1px solid var(--c-rule);
+  border-bottom: 1px solid var(--c-rule);
+  font-size: .86rem;
+  line-height: 1.6;
+  color: var(--c-muted);
+}
+.civic .art-meta strong { color: var(--c-ink); font-weight: 600; }
+.civic .descarcari { display: flex; flex-wrap: wrap; gap: .5rem .6rem; margin: 1rem 0 .4rem; font-size: .86rem; }
+.civic .descarcari a {
+  display: inline-block;
+  padding: .4rem .8rem;
+  border: 1px solid color-mix(in srgb, var(--c-accent) 45%, transparent);
+  border-radius: .35rem;
+  background: var(--c-page);
+  color: var(--c-accent);
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color .15s, border-color .15s;
+}
+.civic .descarcari a:hover { border-color: var(--c-accent); background: var(--c-accent-soft); }
+/* the notes under the byline: status, AI transparency, disclaimers */
+.civic > .small-note {
+  margin: .55rem 0;
+  padding: .15rem 0 .15rem 1rem;
+  border-left: 3px solid var(--c-rule);
+  font-family: var(--c-sans);
+  font-size: .88rem;
+  line-height: 1.6;
+  color: var(--c-muted);
+}
+.civic > .small-note.nota-ai { border-left-color: var(--c-accent); color: var(--c-ink); }
+.civic .small-note { font-size: .88rem; line-height: 1.6; color: var(--c-muted); }
+
+/* ---------- summary, notes, contents ---------- */
+.civic .box {
+  margin: 1.8rem 0;
+  padding: 1.15rem 1.4rem 1.25rem;
+  border: 1px solid var(--c-rule);
+  border-radius: .4rem;
+  background: var(--c-panel);
+}
+.civic .box :is(h2, h3) { margin: 0 0 .7rem; padding: 0; border: 0; font-size: 1.1rem; font-weight: 700; color: var(--c-ink-strong); }
+.civic .box > :last-child { margin-bottom: 0; }
+.civic .box ul, .civic .box ol { padding-left: 1.3em; }
+.civic .box li { margin-bottom: .35rem; }
+/* "Pe scurt" and "În final": the bottom line */
+.civic .box.warn {
+  border: 0;
+  border-radius: 0 0 .4rem .4rem;
+  background: var(--c-accent-soft);
+  box-shadow: inset 0 4px 0 var(--c-accent);
+  padding-top: 1.35rem;
+}
+.civic .box.warn > :is(h2, h3):first-child {
+  font-size: .8rem;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--c-accent);
+}
+.civic-deficit .box.warn {
+  box-shadow: inset 0 3px 0 var(--c-accent), inset 0 6px 0 var(--c-accent-soft), inset 0 7px 0 var(--c-accent);
+  padding-top: 1.5rem;
+}
+.civic .toc {
+  margin: 1.8rem 0 2.4rem;
+  padding: 1.1rem 1.4rem 1.2rem;
+  border: 1px solid var(--c-rule);
+  border-radius: .4rem;
+  background: var(--c-panel);
+  font-size: .95rem;
+  line-height: 1.45;
+}
+.civic .toc > strong {
+  display: block;
+  margin-bottom: .6rem;
+  font-size: .78rem;
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--c-accent);
+}
+.civic .toc ol { margin: 0; padding-left: 1.5em; }
+.civic .toc li { margin: .28rem 0; }
+.civic .toc li::marker { color: var(--c-accent); font-weight: 700; }
+.civic .toc a { text-decoration: none; }
+.civic .toc a:hover { text-decoration: underline; }
+.civic-deficit .toc ol { list-style: none; padding-left: 0; }
+.civic-deficit .toc > ol > li { margin: .45rem 0; font-weight: 600; }
+.civic-deficit .toc ol ol { margin: .2rem 0 .35rem; padding-left: 1.4rem; font-size: .92em; font-weight: 400; }
+
+/* ---------- sections ---------- */
+.civic h2 {
+  margin: 3.2rem 0 1rem;
+  padding: 1rem 0 0;
+  border-top: 2px solid var(--c-ink-strong);
+  border-bottom: 0;
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: var(--c-ink-strong);
+  text-wrap: balance;
+}
+.civic h3 { margin: 2.2rem 0 .7rem; font-size: 1.28rem; font-weight: 700; line-height: 1.35; color: var(--c-ink-strong); }
+.civic h4 { margin: 1.7rem 0 .5rem; font-size: 1.05rem; font-weight: 700; line-height: 1.4; color: var(--c-accent); }
+.civic .sec-num { margin-right: .3em; color: var(--c-accent); font-variant-numeric: tabular-nums; }
+.civic .ancora { visibility: hidden; margin-left: .4em; color: var(--c-rule-strong); font-weight: 400; text-decoration: none; }
+.civic :is(h2, h3, h4):hover .ancora, .civic .ancora:focus { visibility: visible; }
+.civic :is(ul, ol) { padding-left: 1.4em; }
+.civic li { margin-bottom: .3rem; }
+.civic ul > li::marker { color: var(--c-accent); }
+.civic ol > li::marker { color: var(--c-accent); font-family: var(--c-sans); font-weight: 700; font-size: .9em; }
+.civic code { padding: .1em .3em; border-radius: .25rem; background: var(--c-panel); color: var(--c-ink-strong); font-size: .84em; }
+.civic pre { padding: .9rem 1rem; border: 1px solid var(--c-rule); border-radius: .4rem; background: var(--c-panel); font-size: .8rem; white-space: pre-wrap; }
+.civic pre code { padding: 0; background: none; }
+
+/* quotations; a quoted act is set as statute text, a proposed text as a draft */
+.civic blockquote {
+  margin: 1.6rem 0;
+  padding: 1rem 1.3rem;
+  border: 1px solid var(--c-rule);
+  border-left: 4px solid var(--c-accent);
+  border-radius: 0 .4rem .4rem 0;
+  background: var(--c-panel);
+  font-size: 1em;
+  line-height: 1.65;
+}
+.civic blockquote p { margin: 0 0 .6rem; }
+.civic blockquote > :last-child { margin-bottom: 0; }
+.civic blockquote.lege > p:first-child { font-size: 1.04em; color: var(--c-ink-strong); }
+.civic blockquote.lege > .small-note:last-child {
+  margin-top: .7rem;
+  font-family: var(--c-sans);
+  font-size: .82rem;
+  letter-spacing: .02em;
+  text-align: right;
+}
+.civic blockquote.schita {
+  border: 1px dashed var(--c-rule-strong);
+  border-left: 4px dashed var(--c-accent);
+  background: transparent;
+}
+.civic blockquote.schita > .small-note { padding-top: .6rem; border-top: 1px dashed var(--c-rule); font-family: var(--c-sans); }
+
+/* ---------- tables and figures: the wide column ---------- */
+.civic :is(.tabel-scroll, figure) {
+  position: relative;
+  width: var(--c-wide);
+  max-width: none;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+.civic .tabel-scroll {
+  margin-top: 1rem;
+  margin-bottom: 1.9rem;
+  overflow-x: auto;
+  border: 1px solid var(--c-rule);
+  border-radius: .4rem;
+  background: var(--c-page);
+}
+.civic .tabel-scroll:focus-visible { outline: 3px solid color-mix(in srgb, var(--c-link) 55%, transparent); outline-offset: 2px; }
+/* inside a box a table keeps to the box */
+.civic .box .tabel-scroll { width: auto; margin: 1rem 0 0; transform: none; }
+.civic table {
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+  font-size: .84rem;
+  line-height: 1.45;
+  font-variant-numeric: tabular-nums;
+}
+.civic caption {
+  caption-side: top;
+  padding: .7rem .75rem .5rem;
+  text-align: left;
+  font-size: .85rem;
+  font-weight: 600;
+  color: var(--c-muted);
+}
+.civic th {
+  padding: .55rem .75rem;
+  border-bottom: 2px solid var(--c-ink-strong);
+  background: var(--c-panel);
+  font-weight: 700;
+  text-align: left;
+  vertical-align: bottom;
+  color: var(--c-ink-strong);
+}
+.civic td { padding: .5rem .75rem; border-bottom: 1px solid var(--c-ledger, var(--c-rule)); vertical-align: top; }
+.civic tbody tr:last-child td { border-bottom: 0; }
+.civic tbody tr:nth-child(even) td { background: color-mix(in srgb, var(--c-panel) 55%, transparent); }
+.civic :is(th, td).num { text-align: right; white-space: nowrap; }
+.civic-deficit :is(td, th):first-child { min-width: 9em; }
+.civic figure { margin-top: 1.9rem; margin-bottom: 2.1rem; }
+.civic figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: .5rem;
+  border: 1px solid var(--c-rule);
+  border-radius: .4rem;
+  background: #fff;
+}
+.civic figcaption { margin-top: .6rem; font-size: .86rem; line-height: 1.5; color: var(--c-muted); }
+.civic figcaption strong { color: var(--c-accent); }
+@media (prefers-color-scheme: dark) {
+  /* the charts are drawn on white: paper under a dimmer light */
+  .civic figure img { filter: brightness(.88); }
+}
+
+/* ---------- sources ---------- */
+.civic a.ref {
+  font-family: var(--c-sans);
+  font-size: .68em;
+  font-weight: 600;
+  line-height: 0;
+  vertical-align: super;
+  color: var(--c-muted);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.civic a.ref:hover, .civic a.ref:focus-visible { color: var(--c-link); text-decoration: underline; }
+.civic .surse p {
+  margin-bottom: .55rem;
+  padding-left: 3.4em;
+  text-indent: -3.4em;
+  font-family: var(--c-sans);
+  font-size: .86rem;
+  line-height: 1.55;
+  overflow-wrap: anywhere;
+}
+.civic .surse p:target { background: var(--c-mark); outline: 6px solid var(--c-mark); }
+
+/* ---------- deficit: the scenarios, marked like their chart lines ---------- */
+.civic .scen {
+  --scen-c: var(--scen, currentColor);
+  font-family: var(--c-sans);
+  font-size: .9em;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.civic .scen::before {
+  content: "";
+  display: inline-block;
+  width: 1.1em;
+  height: .62em;
+  margin-right: .22em;
+  vertical-align: .05em;
+  background:
+    radial-gradient(circle closest-side, var(--scen-c) 0 70%, transparent 76%) center / .62em .62em no-repeat,
+    linear-gradient(var(--scen-c), var(--scen-c)) center / 100% 2px no-repeat;
+}
+@media (prefers-color-scheme: dark) {
+  .civic .scen { --scen-c: var(--scen-dark, var(--scen, currentColor)); }
+}
+
+/* ---------- parking: argument strength, the steps, the deadlines ---------- */
+.civic .tag {
+  display: inline-block;
+  margin-left: .25rem;
+  padding: .05rem .55rem .1rem;
+  border: 1px solid color-mix(in srgb, var(--c-accent) 35%, transparent);
+  border-radius: .3rem;
+  background: var(--c-accent-soft);
+  color: var(--c-accent);
+  font-size: .78rem;
+  font-weight: 600;
+  line-height: 1.6;
+  letter-spacing: .01em;
+  vertical-align: .2em;
+  white-space: normal;
+}
+.civic .forta { --f: 0; --forta-c: var(--c-weak); --forta-bg: var(--c-weak-bg); }
+.civic .forta[data-forta="3"] { --forta-c: var(--c-medium); --forta-bg: var(--c-medium-bg); }
+.civic .forta:is([data-forta="4"], [data-forta="5"]) { --forta-c: var(--c-strong); --forta-bg: var(--c-strong-bg); }
+.civic .forta[data-forta="1"] { --f: 1; }
+.civic .forta[data-forta="2"] { --f: 2; }
+.civic .forta[data-forta="3"] { --f: 3; }
+.civic .forta[data-forta="4"] { --f: 4; }
+.civic .forta[data-forta="5"] { --f: 5; }
+.civic .tag.forta { border-color: color-mix(in srgb, var(--forta-c) 40%, transparent); background: var(--forta-bg); color: var(--forta-c); }
+/* the meter: five segments, as many lit as the argument is strong */
+.civic .forta::before {
+  content: "";
+  display: inline-block;
+  width: 2.4rem;
+  height: .5rem;
+  margin-right: .45rem;
+  vertical-align: .04em;
+  background: linear-gradient(90deg, var(--forta-c) calc(var(--f) * 20%), color-mix(in srgb, var(--forta-c) 22%, transparent) 0);
+  -webkit-mask: repeating-linear-gradient(90deg, #000 0 calc(20% - 2px), transparent 0 20%);
+  mask: repeating-linear-gradient(90deg, #000 0 calc(20% - 2px), transparent 0 20%);
+}
+.civic td > .forta:empty::before { margin-right: .5rem; }
+/* "Pasul 1-5": a numbered path down the margin */
+.civic .pasi { position: relative; margin: 1.4rem 0 2rem; padding-left: 2.9rem; counter-reset: pas; }
+.civic .pasi::before {
+  content: "";
+  position: absolute;
+  left: 1rem;
+  top: .9rem;
+  bottom: .4rem;
+  width: 2px;
+  background: linear-gradient(var(--c-accent), color-mix(in srgb, var(--c-accent) 15%, transparent));
+}
+.civic .pasi > h3 { position: relative; counter-increment: pas; }
+.civic .pasi > h3::before {
+  content: counter(pas);
+  content: counter(pas) / "";
+  position: absolute;
+  left: -2.9rem;
+  top: -.15rem;
+  width: 2.1rem;
+  height: 2.1rem;
+  border-radius: 50%;
+  background: var(--c-accent);
+  box-shadow: 0 0 0 4px var(--c-page);
+  color: var(--c-on-accent);
+  font-size: 1rem;
+  font-weight: 800;
+  line-height: 2.1rem;
+  text-align: center;
+}
+.civic .pasi > h3:first-child { margin-top: .6rem; }
+/* a legal deadline, highlighted where the steps name it */
+.civic .termen {
+  padding: 0 .22em;
+  border-radius: .2em;
+  background: var(--c-mark);
+  color: var(--c-ink-strong);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* ---------- back to the contents (the deficit report) ---------- */
+.civic .la-cuprins {
+  position: fixed;
+  left: 18px;
+  bottom: 18px;
+  z-index: 20;
+  padding: 8px 16px;
+  border-radius: 999px;
+  background: var(--c-ink-strong);
+  color: var(--c-page);
+  box-shadow: 0 4px 14px rgb(15 23 42 / .25);
+  font-family: var(--c-sans);
+  font-size: .9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: opacity .2s ease, visibility .2s ease, transform .2s ease, background-color .15s;
+}
+.civic .la-cuprins:hover, .civic .la-cuprins:focus { background: var(--c-accent); color: var(--c-on-accent); }
+.civic .la-cuprins.is-top { opacity: 0; visibility: hidden; transform: translateY(8px); }
+@media (max-width: 1100px) {
+  .civic .la-cuprins.is-reading:not(:focus) { opacity: 0; visibility: hidden; transform: translateY(8px); }
+}
+
+/* ---------- phones ---------- */
+@media (max-width: 767px) {
+  .civic { padding-top: 90px; font-size: 17.5px; }
+  .civic h1 { font-size: 1.8rem; }
+  .civic h2 { margin-top: 2.6rem; font-size: 1.4rem; }
+  .civic h3 { font-size: 1.15rem; }
+  .civic .lede { font-size: 1.08em; }
+  .civic .box { padding: .95rem 1rem 1.05rem; }
+  .civic .toc { padding: .95rem 1rem 1rem; }
+  .civic blockquote { padding: .85rem 1rem; }
+  .civic table { font-size: .8rem; }
+  .civic :is(th, td) { padding: .45rem .55rem; }
+  .civic .pasi { padding-left: 2.4rem; }
+  .civic .pasi::before { left: .8rem; }
+  .civic .pasi > h3::before { left: -2.4rem; width: 1.8rem; height: 1.8rem; font-size: .9rem; line-height: 1.8rem; }
+  .civic .tag { margin: .3rem 0 0; }
+}
+
+@media print {
+  .civic .la-cuprins, .civic .ancora { display: none; }
+  .civic { max-width: none; padding-top: 0; color: #000; }
+  .civic :is(.tabel-scroll, figure) { width: auto; margin-left: 0; transform: none; }
+  .civic figure img { filter: none; }
+  .civic :is(.box, blockquote, figure, tr) { break-inside: avoid; }
+}

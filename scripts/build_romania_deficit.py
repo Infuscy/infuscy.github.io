@@ -17,6 +17,11 @@ What changes for online readers:
 - citations [Sn] point to the page's own source list (with a hover title),
   and "§6.7"-style cross-references link to the section;
 - wide tables scroll horizontally, figures are numbered and lazy-loaded;
+- the shared civic theme, /css/civic.css (linked from the front matter), with the
+  reading markup it styles: section numbers in a span, table columns of figures
+  marked `num` (right-aligned), and each scenario named in the text (S1…S7, never the
+  citation [S1]) marked with its line colour from the charts, read from the model's
+  CULORI_SCENARII;
 - links to files that exist only in the (private) report repo — code, CSVs,
   sub-reports, archived documents — become plain text, and the
   "Materiale documentare arhivate local" subsection is dropped.
@@ -28,6 +33,7 @@ Needs Pillow (the figures are published as lossless WebP). The script rewrites o
 romania-deficit/index.html, romania-deficit/figuri/*.webp and the two download files.
 """
 import argparse
+import ast
 import html
 import os
 import re
@@ -53,67 +59,11 @@ AUTHOR = "Buse Florin-Emilian"
 EMAIL = "buse.florinx@gmail.com"
 WORDS_PER_MINUTE = 200
 
-CSS = """
-  .articol { font-size: 18.5px; line-height: 1.7; }
-  /* The theme sets p { font-size: 1.0625rem } site-wide; the article keeps its own scale. */
-  .articol p, .articol li { font-size: 18.5px; line-height: 1.7; }
-  .articol .kicker { color: #2563eb; font-weight: bold; letter-spacing: .08em; text-transform: uppercase; font-size: 15px; margin-bottom: 10px; }
-  .articol h1 { font-size: 37px; line-height: 1.25; margin-top: 0; }
-  .articol .subtitlu { font-size: 21px; color: #475569; margin: 10px 0 0; line-height: 1.45; }
-  .articol .lede { font-size: 21px; line-height: 1.6; color: #334155; margin-top: 18px; }
-  .articol .art-meta { color: #64748b; font-size: 17px; margin: 14px 0 8px; }
-  .articol .small-note { font-size: 16px; color: #475569; line-height: 1.6; }
-  .articol .box { border: 1px solid #cbd5e1; border-radius: 6px; padding: 18px 22px; margin: 22px 0; background: #f8fafc; }
-  .articol .box.warn { border-color: #f59e0b; background: #fffbeb; }
-  .articol .box.info { border-color: #93c5fd; background: #eff6ff; }
-  .articol .box h2, .articol .box h3 { margin-top: 0; font-size: 21px; border: 0; padding: 0; }
-  .articol .box ul { margin-bottom: 0; padding-left: 22px; }
-  .articol .box li { margin-bottom: 6px; }
-  .articol .descarcari { display: flex; flex-wrap: wrap; gap: 10px 18px; margin: 16px 0 6px; font-size: 16.5px; }
-  .articol .descarcari a { font-weight: 600; }
-  .articol h2 { margin-top: 48px; padding-bottom: 6px; border-bottom: 1px solid #e2e8f0; font-size: 30px; line-height: 1.3; }
-  .articol h3 { margin-top: 32px; font-size: 23px; line-height: 1.35; }
-  .articol h4 { margin-top: 26px; font-size: 19.5px; color: #1e3a8a; }
-  .articol [id] { scroll-margin-top: 90px; }
-  .articol .ancora { visibility: hidden; margin-left: 8px; color: #94a3b8; text-decoration: none; font-weight: normal; }
-  .articol h2:hover .ancora, .articol h3:hover .ancora, .articol h4:hover .ancora, .articol .ancora:focus { visibility: visible; }
-  .articol .toc { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; padding: 18px 24px; margin: 24px 0; }
-  .articol .toc > ol { margin-bottom: 0; padding-left: 0; list-style: none; }
-  .articol .toc li { font-size: 17px; line-height: 1.5; margin: 4px 0; }
-  .articol .toc ol ol { list-style: none; padding-left: 22px; margin: 2px 0 6px; }
-  .articol .toc ol ol li { font-size: 15.5px; margin: 2px 0; }
-  .articol .tabel-scroll { overflow-x: auto; margin: 6px 0 22px; border: 1px solid #e2e8f0; border-radius: 6px; }
-  .articol .tabel-scroll:focus-visible { outline: 3px solid rgba(37,99,235,.55); }
-  .articol table { border-collapse: collapse; width: 100%; font-size: 15.5px; line-height: 1.45; }
-  .articol th, .articol td { padding: 7px 10px; border-bottom: 1px solid #e2e8f0; vertical-align: top; text-align: left; }
-  .articol th { background: #f1f5f9; font-weight: 700; }
-  .articol tbody tr:nth-child(even) td { background: #fafbfc; }
-  .articol td:first-child, .articol th:first-child { min-width: 9em; }
-  .articol figure { margin: 26px 0; }
-  .articol figure img { width: 100%; height: auto; border: 1px solid #e2e8f0; border-radius: 6px; background: #fff; }
-  .articol figcaption { font-size: 15.5px; color: #64748b; margin-top: 6px; }
-  .articol pre { font-size: 15px; white-space: pre-wrap; }
-  .articol a.ref { font-size: .8em; text-decoration: none; white-space: nowrap; }
-  .articol .surse p { font-size: 15.5px; line-height: 1.55; overflow-wrap: anywhere; }
-  .articol .surse p:target, .articol .surse p.sursa:target { background: #fef9c3; outline: 6px solid #fef9c3; }
-  .articol .la-cuprins { position: fixed; left: 18px; bottom: 18px; z-index: 20; background: #0f172a; color: #fff; border-radius: 999px; padding: 8px 16px; font-size: 15px; font-weight: 600; box-shadow: 0 4px 14px rgb(15 23 42 / .25); text-decoration: none; }
-  .articol .la-cuprins:hover, .articol .la-cuprins:focus { background: #2563eb; color: #fff; }
-  .articol .la-cuprins { transition: opacity .2s ease, visibility .2s ease, transform .2s ease; }
-  .articol .la-cuprins.is-top { opacity: 0; visibility: hidden; transform: translateY(8px); }
-  @media (max-width: 1100px) {
-    .articol .la-cuprins.is-reading:not(:focus) { opacity: 0; visibility: hidden; transform: translateY(8px); }
-  }
-  @media (max-width: 767px) {
-    .articol, .articol p, .articol li { font-size: 17px; }
-    .articol h1 { font-size: 29px; }
-    .articol h2 { font-size: 24px; }
-    .articol h3 { font-size: 20px; }
-    .articol .lede, .articol .subtitlu { font-size: 18.5px; }
-    .articol .box { padding: 14px 16px; }
-    .articol table { font-size: 14.5px; }
-  }
-  @media print { .articol .la-cuprins, .articol .ancora { display: none; } }
-"""
+# The page's look is the shared civic theme, /css/civic.css (hand-written; the front matter
+# links it). The page itself adds only the scenario colours, read from the model's own
+# charts so a scenario's mark in the text matches its line in the figures.
+CIVIC_CSS = "/css/civic.css"
+SCENARIO_COLORS_FILE = "model/model_dsa.py"   # defines CULORI_SCENARII
 
 
 # ------------------------------------------------------------------ helpers
@@ -163,15 +113,42 @@ def first_sentences(text, n):
     return " ".join(parts[:n])
 
 
+def scenario_colors(src):
+    """S1…S7 -> the colour of each scenario's line in the charts, read from the model's
+    CULORI_SCENARII (parsed, not imported: the model needs numpy and matplotlib)."""
+    path = os.path.join(src, SCENARIO_COLORS_FILE)
+    with open(path, encoding="utf-8") as fh:
+        m = re.search(r"^CULORI_SCENARII\s*=\s*(\{.*?\})", fh.read(), re.S | re.M)
+    if not m:
+        sys.exit(f"ERROR: CULORI_SCENARII not found in {path}")
+    return ast.literal_eval(m.group(1))
+
+
+def lighten(hex_color, share=0.4):
+    """The colour mixed with white: a scenario's mark on the dark theme."""
+    rgb = [int(hex_color.lstrip("#")[i:i + 2], 16) for i in (0, 2, 4)]
+    return "#" + "".join(f"{round(c + (255 - c) * share):02x}" for c in rgb)
+
+
+def numeric(cell):
+    """A table cell that is a figure (73,6%, ~5,36, +8,0 pp…) rather than prose."""
+    t = re.sub(r"\[S\d+\]", "", plain(cell)).strip()
+    return bool(t) and len(t) <= 24 and re.match(r"[~≈±+\-−–<>]?\s?\d", t) is not None
+
+
 # ------------------------------------------------------------------ renderer
 
 class Renderer:
-    def __init__(self, mdc, refdefs, published, sources, section_ids):
+    def __init__(self, mdc, refdefs, published, sources, section_ids, scenarios):
         self.mdc = mdc
         self.refdefs = refdefs
         self.published = published      # report-relative path -> site URL
         self.sources = sources          # "S1" -> tooltip text
         self.section_ids = section_ids  # "6.7" -> "s6-7"
+        # a scenario named in the text ("S2", never the citation "[S2]") gets its chart colour
+        keys = sorted((k[1:] for k in scenarios), key=len, reverse=True)
+        self.scenario_re = re.compile(r"(?<![\[\w])(S(?:" + "|".join(keys) + r"))(?![\]\w])") if keys else None
+        self.mark_scenarios = True      # off inside the source list
         # fișierele din repo-ul public (cod, CSV, sub-rapoarte) -> link GitHub; restul text
         self.url_public = getattr(mdc, "url_public", lambda url: None)
 
@@ -192,7 +169,11 @@ class Renderer:
         def sect(m):
             sid = self.section_ids.get(m.group(1))
             return f'<a href="#{sid}">{m.group(0)}</a>' if sid else m.group(0)
-        return re.sub(r"§(\d+(?:\.\d+)?)", sect, e)
+        e = re.sub(r"§(\d+(?:\.\d+)?)", sect, e)
+        if self.scenario_re and self.mark_scenarios:
+            e = self.scenario_re.sub(
+                lambda m: f'<span class="scen scen-{m.group(1).lower()}">{m.group(1)}</span>', e)
+        return e
 
     def label(self, s):
         if len(s) > 1 and s.startswith("`") and s.endswith("`"):
@@ -323,7 +304,8 @@ def build(src):
                 tip = plain(sm.group(2))
                 sources[sm.group(1)] = tip if len(tip) <= 170 else tip[:167].rstrip() + "…"
 
-    r = Renderer(mdc, refdefs, published, sources, section_ids)
+    colors = scenario_colors(src)
+    r = Renderer(mdc, refdefs, published, sources, section_ids, colors)
 
     short_answer = one_liner = None
     leads = []
@@ -353,6 +335,7 @@ def build(src):
     last_head = ""
     head_iter = iter(heads)
     words = 0
+    num_columns = 0
 
     def close_list():
         nonlocal open_list
@@ -369,13 +352,18 @@ def build(src):
             if in_sources and level <= 2:
                 out.append("</div>")
                 in_sources = False
+                r.mark_scenarios = True
             n = min(level, 4)
             last_head = plain(txt)
-            out.append(f'<h{n} id="{hid}">{r.inline(txt, links=False)}'
+            # the section number ("5.", "6.1") in its own span, set in the accent
+            head_html = re.sub(r"^(\d+(?:\.\d+)*\.?)(\s)", r'<span class="sec-num">\1</span>\2',
+                               r.inline(txt, links=False), count=1)
+            out.append(f'<h{n} id="{hid}">{head_html}'
                        f'<a class="ancora" href="#{hid}" aria-label="Link către secțiune">#</a></h{n}>')
             if level == 2 and plain(txt) == "Surse":
                 out.append('<div class="surse">')
                 in_sources = True
+                r.mark_scenarios = False
             words += len(plain(txt).split())
         elif kind == "par":
             sm = re.match(r"\*\*\[(S\d+)\]\*\*", payload)
@@ -400,12 +388,23 @@ def build(src):
             if not rows:
                 continue
             label = html.escape(f"Tabel: {last_head} (derulabil orizontal)", quote=True)
+            # columns of figures align right, as in a ledger (the first column holds labels)
+            num_cols = set()
+            for ci in range(1, len(rows[0])):
+                vals = [row[ci] for row in rows[1:] if ci < len(row) and plain(row[ci])]
+                if len(vals) >= 2 and sum(map(numeric, vals)) >= 0.75 * len(vals):
+                    num_cols.add(ci)
+            num_columns += len(num_cols)
+
+            def cls(ci):
+                return ' class="num"' if ci in num_cols else ""
             t = [f'<div class="tabel-scroll" role="region" tabindex="0" aria-label="{label}">'
                  "<table><thead><tr>"]
-            t += [f'<th scope="col">{r.inline(c)}</th>' for c in rows[0]]
+            t += [f'<th scope="col"{cls(ci)}>{r.inline(c)}</th>' for ci, c in enumerate(rows[0])]
             t.append("</tr></thead><tbody>")
             for row in rows[1:]:
-                t.append("<tr>" + "".join(f"<td>{r.inline(c)}</td>" for c in row) + "</tr>")
+                t.append("<tr>" + "".join(f"<td{cls(ci)}>{r.inline(c)}</td>"
+                                          for ci, c in enumerate(row)) + "</tr>")
             t.append("</tbody></table></div>")
             out.append("".join(t))
         elif kind == "img":
@@ -460,7 +459,7 @@ def build(src):
 <p class="lede">{r.inline(one_liner)}</p>
 <p class="art-meta"><strong>Data raportului:</strong> {html.escape(report_date)} &middot; <strong>Autor:</strong> {AUTHOR} &middot; <strong>Categorie:</strong> analiză de sustenabilitate a datoriei (DSA) &middot; ~{minutes} de minute de citit</p>
 <p class="descarcari"><a href="{pdf_url}" download>Descarcă raportul (PDF, {pdf_size})</a> <a href="{xlsx_url}" download>Modelul și rezultatele (Excel, {xlsx_size})</a> <a href="{repo_url}">Codul și datele (GitHub)</a></p>
-<p class="small-note"><strong>Transparență:</strong> această analiză a fost redactată cu asistența unui sistem de inteligență artificială; cifrele au fost verificate pe surse primare, iar textul a fost revizuit și corectat de autor (revizuire umană). Responsabilitate editorială: {AUTHOR} &mdash; <a href="mailto:{EMAIL}">{EMAIL}</a>.</p>
+<p class="small-note nota-ai"><strong>Transparență:</strong> această analiză a fost redactată cu asistența unui sistem de inteligență artificială; cifrele au fost verificate pe surse primare, iar textul a fost revizuit și corectat de autor (revizuire umană). Responsabilitate editorială: {AUTHOR} &mdash; <a href="mailto:{EMAIL}">{EMAIL}</a>.</p>
 <p class="small-note">Analiză independentă, cu scop informativ: nu este o prognoză oficială și nici consiliere de investiții. Rezultatele marcate „model propriu” provin dintr-un model DSA rulat de autor, calibrat pe date oficiale; trimiterile [S1], [S2]… duc la lista de surse de la final.</p>
 
 <div class="box warn">
@@ -480,6 +479,9 @@ def build(src):
 """
 
     description = (f"{subtitle}. Răspunsul scurt: {first_sentences(plain(short_answer), 2)}")
+    # each scenario's chart colour, and a lighter one for the dark theme
+    scenario_css = " ".join(f".civic .scen-{k.lower()} {{ --scen: {v}; --scen-dark: {lighten(v)}; }}"
+                            for k, v in sorted(colors.items()))
     page = (
         "---\n"
         "layout: page\n"
@@ -490,20 +492,23 @@ def build(src):
         f"date_published: {iso_date(report_date)}\n"
         "feed_category: Analiză economică\n"
         f"permalink: {URL}\n"
+        f"css: {CIVIC_CSS}\n"
         "---\n"
         "<!-- Generated by scripts/build_romania_deficit.py from "
         f"RomaniaDeficit/{REPORT_MD}. Do not edit by hand. -->\n"
         "{% raw %}\n"
-        '<div class="container articol" style="padding-top: 110px; max-width: 920px;">\n'
-        f"<style>{CSS}</style>\n"
+        '<div class="container articol civic civic-deficit">\n'
+        f"<style>{scenario_css}</style>\n"
         + header + "\n".join(toc) + "\n" + "\n".join(out) + "\n" + footer
         + "</div>\n{% endraw %}\n"
     )
     with open(os.path.join(OUT_DIR, "index.html"), "w", encoding="utf-8", newline="\n") as fh:
         fh.write(page)
 
+    marks = page.count('class="scen ')
     print(f"wrote {SLUG}/index.html: {len(heads)} headings, {fig_no} figures, "
-          f"{len(sources)} sources, {len(leads)} key points, ~{minutes} min read")
+          f"{len(sources)} sources, {len(leads)} key points, ~{minutes} min read, "
+          f"{marks} scenario marks, {num_columns} figure columns")
 
 
 def main():

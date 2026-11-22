@@ -1177,83 +1177,84 @@ code {
     }
 
     /* Article pages (.articol): their own colors are set in a <style> block in
-       the page, which comes later in the document, hence the `body` prefix. */
-    body .articol .lede {
+       the page, which comes later in the document, hence the `body` prefix.
+       The civic analyses (.civic) bring their own dark mode in /css/civic.css. */
+    body .articol:not(.civic) .lede {
         color: #cbd5e1;
     }
-    body .articol .kicker,
-    body .articol h4 {
+    body .articol:not(.civic) .kicker,
+    body .articol:not(.civic) h4 {
         color: #93c5fd;
     }
-    body .articol .subtitlu,
-    body .articol .art-meta,
-    body .articol .small-note,
-    body .articol blockquote cite,
-    body .articol caption,
-    body .articol figcaption {
+    body .articol:not(.civic) .subtitlu,
+    body .articol:not(.civic) .art-meta,
+    body .articol:not(.civic) .small-note,
+    body .articol:not(.civic) blockquote cite,
+    body .articol:not(.civic) caption,
+    body .articol:not(.civic) figcaption {
         color: #94a3b8;
     }
-    body .articol blockquote {
+    body .articol:not(.civic) blockquote {
         background: var(--surface);
         border-left-color: #3b82f6;
     }
-    body .articol .box,
-    body .articol .toc {
+    body .articol:not(.civic) .box,
+    body .articol:not(.civic) .toc {
         background: var(--surface);
         border-color: #334155;
     }
-    body .articol .box.warn {
+    body .articol:not(.civic) .box.warn {
         background: #2a1f07;
         border-color: #b45309;
     }
-    body .articol .box.info {
+    body .articol:not(.civic) .box.info {
         background: #10203f;
         border-color: #1d4ed8;
     }
-    body .articol h2,
-    body .articol th,
-    body .articol td {
+    body .articol:not(.civic) h2,
+    body .articol:not(.civic) th,
+    body .articol:not(.civic) td {
         border-bottom-color: var(--line);
     }
-    body .articol .box h2 {
+    body .articol:not(.civic) .box h2 {
         border-bottom: 0;
     }
-    body .articol .tag {
+    body .articol:not(.civic) .tag {
         background: #172554;
         color: #bfdbfe;
         border-color: #1e3a8a;
     }
-    body .articol code {
+    body .articol:not(.civic) code {
         color: #e2e8f0;
         background: #1e293b;
     }
-    body .articol pre {
+    body .articol:not(.civic) pre {
         background: #111827;
         border-color: var(--line);
     }
-    body .articol pre code {
+    body .articol:not(.civic) pre code {
         background: none;
     }
-    body .articol .tabel-scroll,
-    body .articol figure img {
+    body .articol:not(.civic) .tabel-scroll,
+    body .articol:not(.civic) figure img {
         border-color: var(--line);
     }
-    body .articol th {
+    body .articol:not(.civic) th {
         background: var(--surface-2);
     }
-    body .articol tbody tr:nth-child(even) td {
+    body .articol:not(.civic) tbody tr:nth-child(even) td {
         background: #111a2e;
     }
-    body .articol .surse p:target,
-    body .articol .surse p.sursa:target {
+    body .articol:not(.civic) .surse p:target,
+    body .articol:not(.civic) .surse p.sursa:target {
         background: #3b3206;
         outline-color: #3b3206;
     }
-    body .articol .la-cuprins {
+    body .articol:not(.civic) .la-cuprins {
         background: #1e293b;
         box-shadow: 0 0 0 1px #334155, 0 4px 14px rgb(0 0 0 / .5);
     }
-    body .articol .ancora {
+    body .articol:not(.civic) .ancora {
         color: #64748b;
     }
 }

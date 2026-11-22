@@ -5,22 +5,33 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 27: Steel at Scale and Reinforced Concrete — Fire to Future</title>
 <meta name="description" content="Steel is iron with controlled carbon (~0.08–1.5 %) plus deliberate alloying — strong enough to build skyscrapers, cheap enough to pave the world in rails. The…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch27.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch26.html">
+<link rel="next" href="ch28.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p4">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 27 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch27_steel_concrete-chapter-27-steel-at-scale-and-reinforced-concrete">Chapter 27: Steel at Scale and Reinforced Concrete</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1856 Bessemer → 1950s · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch20.html">Ch 20</a>, <a href="ch21.html">Ch 21</a>, <a href="ch22.html">Ch 22</a><br><strong>Unlocks:</strong> <a href="ch28.html">Ch 28</a>, <a href="ch29.html">Ch 29</a>, <a href="ch33.html">Ch 33</a>, <a href="ch37.html">Ch 37</a>, <a href="ch39.html">Ch 39</a></p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part IV · The Modern Stack</p>
+<h1 id="ch27_steel_concrete-chapter-27-steel-at-scale-and-reinforced-concrete"><span class="chapter-kicker">Chapter 27<span class="visually-hidden">:</span></span> Steel at Scale and Reinforced Concrete</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1856 Bessemer → 1950s</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="5" aria-hidden="true"></span>high</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch20.html" title="Precision Instruments and the Scientific Method">Ch 20</a></li><li><a href="ch21.html" title="Black Powder and Industrial Chemistry">Ch 21</a></li><li><a href="ch22.html" title="Coke Smelting and Cheap Iron">Ch 22</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch28.html" title="Petroleum: Drilling, Refining, Cracking">Ch 28</a></li><li><a href="ch29.html" title="Internal Combustion: Cars, Tractors, Ships">Ch 29</a></li><li><a href="ch33.html" title="Flight: From Gliders to Jets">Ch 33</a></li><li><a href="ch37.html" title="Nuclear Fission: Reactors and Radioisotopes">Ch 37</a></li><li><a href="ch39.html" title="Rocketry and Access to Orbit">Ch 39</a></li></ul></dd></div>
+</dl>
 <p>Steel is iron with controlled carbon (~0.08–1.5 %) plus deliberate alloying — strong enough to build skyscrapers, cheap enough to pave the world in rails. The 19th century's problem was making it BY THE TON instead of by the billet; two processes solved it, and concrete solved what steel couldn't afford to.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Bessemer converter three stages">
@@ -73,7 +84,7 @@
 <figcaption><strong>Figure 27.1.</strong> The Bessemer converter is a tilting kettle: fill it sideways, stand it up to blow air through the melt (impurities burn out, heating the bath further), tilt to pour. Speed is the virtue — 20 minutes a heat — and phosphorus is the trap (see §27.1).</figcaption>
 </figure>
 
-<h2 id="ch27_steel_concrete-271-the-bessemer-converter">27.1 The Bessemer Converter</h2>
+<h2 id="ch27_steel_concrete-271-the-bessemer-converter"><span class="sec-num">27.1</span> The Bessemer Converter</h2>
 <p>Molten pig iron poured into a tilted pear-shaped vessel; blast air blown through the melt from the bottom; carbon and silicon burn out in ~15–20 minutes in a spectacular orange fountain; tilt back, add precise carbon/manganese recarburization, pour. Steel for pennies over wrought-iron prices.</p>
 <ul>
 <li><strong>The phosphorus problem:</strong> Bessemer worked only with non-phosphoric ores (rare outside Sweden, Cumberland, and northern Spain); most of Europe's ores made brittle cold-short steel. Two decades of frustration until <strong>Gilchrist-Thomas basic process (1879):</strong> dolomite-lined converter + lime flux captures phosphorus into the slag — AND the phosphate slag becomes fertilizer (<a href="ch32.html">Ch 32</a>). One fix unlocked the continent's ore bodies.</li>
@@ -128,10 +139,10 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch27_steel_concrete-272-open-hearth-competition">27.2 Open-Hearth Competition</h2>
+<h2 id="ch27_steel_concrete-272-open-hearth-competition"><span class="sec-num">27.2</span> Open-Hearth Competition</h2>
 <p>Siemens regenerative furnace: checker-brick chambers preheat incoming gas/air with exhaust heat (<a href="ch22.html">Ch 22</a>'s hot-blast logic scaled up). Slower than Bessemer (8–12 hours vs 20 minutes) but controllable, scrap-friendly (Bessemer couldn't melt much scrap), and verifiable per charge. Open-hearth won tonnage share until mid-20th century precisely because quality control beat speed. Basic-oxygen steelmaking (BOF, 1950s) later fused both virtues — oxygen lance through molten bath at scale.</p>
 <p><strong>Why slowness won for 80 years:</strong> an 8-hour heat can be sampled, assayed, and corrected mid-course (add ore to cut carbon, add lime to take phosphorus, hold for temperature). A 20-minute blow cannot. Until the oxygen lance + spectrometer combination arrived, controllability out-earned velocity — a general lesson: instrumented slowness beats blind speed wherever chemistry decides value.</p>
-<h2 id="ch27_steel_concrete-273-alloy-steels">27.3 Alloy Steels</h2>
+<h2 id="ch27_steel_concrete-273-alloy-steels"><span class="sec-num">27.3</span> Alloy Steels</h2>
 <p>Small additions, giant consequences:</p>
 <div class="table-wrap"><table>
 <thead>
@@ -175,7 +186,7 @@
 </tbody>
 </table></div>
 <p><strong>Carbon-window discipline:</strong> below ~0.08 % C the metal is soft iron; 0.1–0.25 % welds and forms well (structural grades); 0.3–0.6 % suits shafts, rails, and forgings; 0.6–1.0 % hardens for tools and springs; above ~2 % it is cast iron — unforgeable. Every heat's carbon aim decides its downstream life; mis-aimed steel becomes scrap before it leaves the ladle.</p>
-<h2 id="ch27_steel_concrete-274-portland-cement">27.4 Portland Cement</h2>
+<h2 id="ch27_steel_concrete-274-portland-cement"><span class="sec-num">27.4</span> Portland Cement</h2>
 <p>Limestone + clay, calcined to clinker at ~1,450 °C in rotary kilns, ground fine. Mixed with water, cement HYDRATES — minerals grow interlocking crystals, not "drying." Rules that follow:</p>
 <ul>
 <li>Water/cement ratio governs strength: for a fully compacted mix, more water = weaker (a mix too stiff to compact is weaker still). ~0.4–0.5 w/c for structural work.</li>
@@ -183,7 +194,7 @@
 <li>Standards (28-day strength classes) let buyers trust distant suppliers — metrology again (<a href="ch20.html">Ch 20</a>).</li>
 </ul>
 <p><strong>Clinker chemistry in one paragraph:</strong> heat limestone (CaCO₃ → CaO + CO₂ at ~900 °C) with clay's silica/alumina to ~1,450 °C; the powder sinters into nodules of alite (C₃S — early strength), belite (C₂S — late strength), aluminate and ferrite (set control). Grind with ~5 % gypsum (retards flash set). On wetting, alite hydrates to calcium-silicate-hydrate gel + lime — the gel's nanostructure IS the strength. Rotary kilns (60–100 m steel tubes, 1–2° slope, coal/oil/gas fired) run countercurrent: rock in the top, flame at the bottom, clinker out the nose into coolers that return heat to the flame.</p>
-<h2 id="ch27_steel_concrete-275-reinforced-prestressed-concrete">27.5 Reinforced &amp; Prestressed Concrete</h2>
+<h2 id="ch27_steel_concrete-275-reinforced-prestressed-concrete"><span class="sec-num">27.5</span> Reinforced &amp; Prestressed Concrete</h2>
 <p>Concrete resists crushing well but pulls apart pathetically (~10× weaker in tension); steel carries tension brilliantly. Bury steel bars where tension lives:</p>
 <ul>
 <li>Beams sag → bottom steel; cantilevers invert the rule.</li>
@@ -215,14 +226,14 @@
 
 <p><strong>Cover and crack control (typical code-range values, for understanding):</strong> cover of the order of 25 mm in sheltered inland work and 40–50 mm in marine or de-iced exposure; crack widths held to roughly 0.3 mm by bar spacing, not by hope; water/cement around 0.5 or lower for durability exposure; sustained wet curing, commonly a week or more. Most durability failures of reinforced concrete are steel-corrosion failures wearing a concrete mask.</p>
 <p class="co co-gate"><strong>Competence gate:</strong> actual cover, reinforcement ratio (steel area ÷ concrete area), crack-width, mix, and curing requirements depend on exposure class, element type, bar size, cement, fire rating, and the applicable design code. A qualified structural engineer sets them for each element and verifies them by inspection and testing. Do not design or accept structural concrete from the typical values above.</p>
-<h2 id="ch27_steel_concrete-276-structural-systems">27.6 Structural Systems</h2>
+<h2 id="ch27_steel_concrete-276-structural-systems"><span class="sec-num">27.6</span> Structural Systems</h2>
 <ul>
 <li><strong>Steel skeletons:</strong> columns carry loads; walls become weather skins. Chicago School (1880s) + Otis safety elevator (1852) = the skyscraper as routine engineering.</li>
 <li><strong>Riveting → bolting → welding</strong> progression; welded ships taught fracture lessons the hard way (Liberty ships cracking in North Atlantic cold — Charpy impact testing became mandatory doctrine; brittleness is a temperature behavior).</li>
 <li>Testing machines (hydraulic tensile testers) certify every batch — trust is manufactured here as much as steel.</li>
 </ul>
 <p><strong>Fracture doctrine:</strong> strength without toughness kills. Specify Charpy impact energy at service temperature (cold oceans, winter bridges), favor killed/normalized steels over rimmed for critical welds, preheat thick joints, and inspect welds (visual + hammer + later ultrasonic). The Liberty-ship cracks stopped when steel chemistry, welding procedure, and inspection changed together — no single fix sufficed.</p>
-<h2 id="ch27_steel_concrete-277-deployment-priorities">27.7 Deployment Priorities</h2>
+<h2 id="ch27_steel_concrete-277-deployment-priorities"><span class="sec-num">27.7</span> Deployment Priorities</h2>
 <ol>
 <li>Rails + rolling stock (<a href="ch24.html">Ch 24</a>) — network effects immediately.</li>
 <li>Structural frames for factories/bridges — span without forests' limits.</li>
@@ -231,17 +242,17 @@
 </ol>
 <p class="co co-key"><strong>Key threshold:</strong> structural materials cost falling below ~a week's wages per square meter of built floor makes cities affordable at industrial scale — watch that ratio; it predicts your construction boom's timing.</p>
 <p><strong>Build order for a greenfield works:</strong> assay lab first (<a href="ch20.html">Ch 20</a>), then converter/open-hearth + ingot handling, then rail mill (it pays for the rest), then plate/structural mill, then cement kiln + aggregate supply, then prestressing yard. Never build the skyscraper mill before the rail mill — rails fund tolerances.</p>
-<h2 id="ch27_steel_concrete-278-the-steel-record">27.8 The Steel Record</h2>
+<h2 id="ch27_steel_concrete-278-the-steel-record"><span class="sec-num">27.8</span> The Steel Record</h2>
 <ul>
 <li>Priority folklore: American William Kelly claimed air-refining priority (his Eddyville, Kentucky experiments, late 1840s–early 1850s, documented in later affidavits); Bessemer developed independently at scale and patented (1855–56). Historians record a parallel-invention case, resolved commercially in Bessemer's favor.</li>
 <li><strong>Gilchrist-Thomas was a clerical breakthrough:</strong> Sidney Gilchrist Thomas, a London police-court clerk with amateur chemistry training, worked evenings with cousin Percy Gilchrist at Blaenavon; their 1879 paper opened Europe's phosphoric ores to steelmaking within a few years. Basic slag became a profitable fertilizer byproduct — waste-to-product before the term existed (<a href="ch32.html">Ch 32</a>).</li>
 <li><strong>Carnegie's edge was accounting as much as chemistry:</strong> continuous cost-per-ton tracking down to each shift's product made efficiency visible daily; vertical integration owned ore (Mesabi), boats, rails, mills. The Homestead lockout (July 1892): Frick's lockout, Pinkerton barges, a day-long gunfight killing seven workers and three Pinkertons, militia occupation, union broken — recorded here as documented industrial-relations history, without editorial.</li>
 <li>National scoreboard: US steel output passed Britain's in the mid-1880s and pig iron in 1890; <strong>U.S. Steel (1901)</strong> capitalized at $1.4 billion — the world's first billion-dollar corporation, assembled by Morgan out of Carnegie Steel.</li>
 </ul>
-<h2 id="ch27_steel_concrete-279-safety-and-scale-hazards">27.9 Safety and Scale Hazards</h2>
+<h2 id="ch27_steel_concrete-279-safety-and-scale-hazards"><span class="sec-num">27.9</span> Safety and Scale Hazards</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> molten steel plus water is a steam explosion — ladles, pits, and scrap must be bone-dry and preheated, or the melt throws itself across the shop. Hold converter and crane interlocks, slag-pit exclusion zones, respirators and lockout on kilns, and CO monitoring from the first heat; never pour over damp ground or into unpreheated vessels.</p>
 <p>Converter and control-pulpit discipline, ladle-crane interlocks, and slag-pit exclusion zones are written procedures, not folklore. Cement kilns add their own hazards: alkaline dust burns eyes and lungs, hot clinker flows like sand and buries anyone in a hopper or cooler, and kiln-end CO collects in enclosed spaces.</p>
-<h2 id="ch27_steel_concrete-2710-welding-and-cutting">27.10 Welding and Cutting</h2>
+<h2 id="ch27_steel_concrete-2710-welding-and-cutting"><span class="sec-num">27.10</span> Welding and Cutting</h2>
 <p>Riveting held the 19th century together; welding — joining metal by local melting — built most of the 20th, from pipelines and pressure vessels to the 2,710 Liberty ships (<a href="ch50.html">Ch 50</a> §50.6) whose cracking (§27.6) taught the fracture doctrine above.</p>
 <p class="co co-warn"><strong>Safety warning:</strong> welding and cutting burn eyes and skin with ultraviolet light (seconds of unprotected viewing can cause painful "arc eye"), throw sparks and spatter that start fires metres away, release toxic fumes from coatings and alloys (zinc from galvanised steel, chromium from stainless, cadmium and lead from old coatings and paint), and, with oxy-fuel gas, risk cylinder fires and flashback explosions. Weld only with a filtered helmet of the correct shade, flame-resistant clothing, fume extraction, a fire watch and extinguisher, a hot-work permit near anything combustible, and gas cylinders secured upright and fitted with flashback arrestors. Never weld or cut a drum, tank, or pipe that has held fuel or other flammables until a qualified person has made it gas-free.</p>
 <ul>
@@ -250,7 +261,7 @@
 <li><strong>Arc welding:</strong> Benardos's carbon-arc process (1880s) and Slavyanov's consumable metal electrode (1888) used the electric arc (<a href="ch26.html">Ch 26</a>); Kjellberg's flux-coated stick electrode (1907) shielded the molten pool from air and made sound welds routine. Gas-shielded TIG and MIG processes (1940s) and submerged-arc welding under granular flux followed. All need a steady low-voltage, high-current supply.</li>
 <li><strong>Weld quality is a procedure, not a talent:</strong> write a welding procedure (base metal, electrode, current, position, preheat, interpass temperature), prove it with test welds that are bent, broken, and later radiographed (<a href="ch37.html">Ch 37</a> §37.5) or ultrasonically tested, then qualify each welder against that procedure. Preheat thick or higher-carbon sections to prevent hydrogen cracking, and inspect every structural or pressure weld. Pressure-boundary and structural welding fall under the competence gates of <a href="ch23.html">Ch 23</a> §23.7 and §27.11.</li>
 </ul>
-<h2 id="ch27_steel_concrete-2711-structural-design-loads-safety-factors-and-bridges">27.11 Structural Design: Loads, Safety Factors, and Bridges</h2>
+<h2 id="ch27_steel_concrete-2711-structural-design-loads-safety-factors-and-bridges"><span class="sec-num">27.11</span> Structural Design: Loads, Safety Factors, and Bridges</h2>
 <p>Every structure in this book — roof truss, mill floor, crane, boiler shell, bridge — is a load path from where force arrives to where the ground takes it. The design discipline is the same at every scale.</p>
 <ul>
 <li><strong>Stress, strain, and stiffness:</strong> stress is force ÷ area; strain is stretch ÷ original length. Within the elastic range the two are proportional (Hooke's law), and the ratio is Young's modulus — about 200 GPa for steel, about 25–40 GPa for concrete, and roughly 10 GPa along the grain for structural timber. Beyond it, ductile materials pass their yield point and deform permanently before breaking at their <em>tested</em> tensile strength, while brittle ones (cast iron, plain concrete, glass) fail suddenly in tension, without warning.</li>
@@ -262,12 +273,12 @@
 </ul>
 <p class="co co-gate"><strong>Competence gate:</strong> the design and approval of any structure that people occupy or depend on — buildings, bridges, cranes, dams, towers, pressure vessels — require a qualified structural engineer working to the applicable code, with independent checking and inspection during construction. These principles explain the method; they do not size members.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch26.html" class="reader-nav-link">← Chapter 26</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch28.html" class="reader-nav-link">Chapter 28 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch26.html" rel="prev"><span class="pager-dir">← Chapter 26</span><span class="pager-title">Electricity II: Dynamos, Motors, Lighting, Grids</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch28.html" rel="next"><span class="pager-dir">Chapter 28 →</span><span class="pager-title">Petroleum: Drilling, Refining, Cracking</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

@@ -5,22 +5,33 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 37: Nuclear Fission: Reactors and Radioisotopes — Fire to Future</title>
 <meta name="description" content="Becquerel finds uranium rays (1896); Curies isolate radium/polonium; Rutherford names alpha/beta/gamma and finds the nucleus (1911), then transmutes elements…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch37.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch36.html">
+<link rel="next" href="ch38.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p4">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 37 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch37_nuclear-chapter-37-nuclear-fission-reactors-and-radioisotopes">Chapter 37: Nuclear Fission: Reactors and Radioisotopes</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1896 Becquerel → 1980s mature reactors · <strong>Difficulty:</strong> extreme<br><strong>Requires:</strong> <a href="ch13.html">Ch 13</a>, <a href="ch20.html">Ch 20</a>, <a href="ch27.html">Ch 27</a><br><strong>Unlocks:</strong> <a href="ch43.html">Ch 43</a></p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part IV · The Modern Stack</p>
+<h1 id="ch37_nuclear-chapter-37-nuclear-fission-reactors-and-radioisotopes"><span class="chapter-kicker">Chapter 37<span class="visually-hidden">:</span></span> Nuclear Fission: Reactors and Radioisotopes</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1896 Becquerel → 1980s mature reactors</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="6" aria-hidden="true"></span>extreme</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch13.html" title="Mining and Quarrying">Ch 13</a></li><li><a href="ch20.html" title="Precision Instruments and the Scientific Method">Ch 20</a></li><li><a href="ch27.html" title="Steel at Scale and Reinforced Concrete">Ch 27</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch43.html" title="Energy Mastery: Solar, Wind, Grid Storage, Fusion">Ch 43</a></li></ul></dd></div>
+</dl>
 <p class="co co-scope"><strong>Scope note (binding):</strong> this chapter covers reactor engineering and isotope applications at textbook level. Weapons physics stays at encyclopedia-history level — chain-reaction concepts only, no design detail.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Fission and criticality diagram">
@@ -60,7 +71,7 @@
 <figcaption><strong>Figure 37.1.</strong> Each fission releases the neutrons that cause the next — plus the heat that is the whole point (~200 MeV each). Control rods absorb the surplus; the moderator slows fast neutrons into the catchable range. Keep k at exactly one.</figcaption>
 </figure>
 
-<h2 id="ch37_nuclear-371-discovery-chain">37.1 Discovery Chain</h2>
+<h2 id="ch37_nuclear-371-discovery-chain"><span class="sec-num">37.1</span> Discovery Chain</h2>
 <p>Becquerel finds uranium rays (1896); Curies isolate radium/polonium; Rutherford names alpha/beta/gamma and finds the nucleus (1911), then transmutes elements (1919); Chadwick finds the neutron (1932) — the perfect projectile, no charge to repel it. Fermi's group irradiates everything; Hahn/Strassmann's chemistry finds BARium in neutron-bombarded uranium; Meitner/Frisch interpret: the nucleus SPLITS, releasing ~200 MeV per fission plus 2–3 free neutrons — which can split more nuclei. Chain reaction concept lands immediately (1939); CP-1 achieves criticality under Chicago stadium (Dec 2, 1942).</p>
 <div class="table-wrap"><table>
 <thead>
@@ -98,7 +109,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch37_nuclear-372-reactor-physics-essentials">37.2 Reactor Physics Essentials</h2>
+<h2 id="ch37_nuclear-372-reactor-physics-essentials"><span class="sec-num">37.2</span> Reactor Physics Essentials</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> criticality, decay heat, and radiation punish improvisation. Reactor design, construction, fuel cycle, safeguards, operation, and emergency planning require licensed nuclear professionals, an independent regulator, codes, validated safety analysis, and a defensible maintenance and training system. This chapter is an architectural and historical reference—not a reactor-building guide.</p>
 <ul>
 <li><strong>Criticality:</strong> k = neutrons born ÷ neutrons lost. k = 1 sustained; &lt;1 subcritical; &gt;1 supercritical (power climbing). Control rods (neutron absorbers) manage k in real time.</li>
@@ -138,7 +149,7 @@
 </tbody>
 </table></div>
 <p><strong>Enrichment note:</strong> natural uranium is about 0.7% U-235. Many light-water reactors use roughly 3–5% enrichment, but enrichment is design-specific; some power and research designs use higher assay, and heavy-water systems may reduce or avoid enrichment requirements. Treat isotope-separation cascades as regulated industrial systems with safeguards and material accountancy from the first gram (<a href="ch47.html">Ch 47</a>).</p>
-<h2 id="ch37_nuclear-373-reactor-families">37.3 Reactor Families</h2>
+<h2 id="ch37_nuclear-373-reactor-families"><span class="sec-num">37.3</span> Reactor Families</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 300" width="100%" role="img" aria-label="PWR loop and defense in depth">
 <title>PWR loop and defense in depth</title>
@@ -239,14 +250,14 @@
 </table></div>
 <p>Accident canon: TMI 1979 (containment held; control-room design failed operators — instruments must answer "is it safe?" at a glance); Chernobyl 1986 (design flaw + test protocol violation + no containment); Fukushima 2011 (site hazard beyond design basis). Doctrine: defense-in-depth layers, containment ALWAYS, regulator independence from promoters (<a href="ch47.html">Ch 47</a>).</p>
 <p><strong>Operator-instrument rule (TMI lesson):</strong> the control room must show core cooling state unambiguously — one glance answers "is the core covered?" Alarm floods that bury the critical signal kill; prioritize, group by safety function, train on simulators quarterly.</p>
-<h2 id="ch37_nuclear-374-the-fuel-cycle">37.4 The Fuel Cycle</h2>
+<h2 id="ch37_nuclear-374-the-fuel-cycle"><span class="sec-num">37.4</span> The Fuel Cycle</h2>
 <p class="co co-hazard"><strong>Operational hazard:</strong> spent fuel stays lethal and hot for years — pools need water cover plus cooling, casks need verified seals and heat rejection, repositories need records that outlive crews. Losing water, dropping a bundle, or falsifying accountancy turns a logistics job into a radiological event; run the chain below in order, with independent inventory checks at every handoff.</p>
 <p>Mining (<a href="ch13.html">Ch 13</a>) → conversion/enrichment → ceramic UO₂ pellets in cladding → reactor → spent-fuel pools → dry storage and eventual disposal. Many reactor fleets achieve capacity factors above 90%, but that is not universal and is not uniquely high among all thermal generation. Waste volume depends on fuel burn-up and classification; comparisons with coal must state whether they refer to irradiated mass, packaging volume, or repository footprint.</p>
 <pre><code>MINE → MILL (yellowcake) → CONVERT → ENRICH (3–5%) → PELLETS → CLAD → CORE (3–6 yr, refuelled in 18–24-month cycles)
    → POOL (years, water shield + cooling) → DRY CASK (air-cooled, decades) → REPOSITORY
 </code></pre>
 <p><strong>Capacity-factor economics:</strong> high capital cost and low variable fuel cost make high utilisation attractive, but dispatch depends on grid design, demand, flexible operation, maintenance, market rules, and reactor capabilities. Do not assume every reactor must run above 90% or must never load-follow.</p>
-<h2 id="ch37_nuclear-375-isotope-economy">37.5 Isotope Economy</h2>
+<h2 id="ch37_nuclear-375-isotope-economy"><span class="sec-num">37.5</span> Isotope Economy</h2>
 <p>The unglamorous payoff that touches millions:</p>
 <ul>
 <li><strong>Medicine:</strong> Co-60 teletherapy beams; Tc-99m imaging (~30+ million procedures/year globally — nuclear medicine IS diagnostic imaging for hearts/thyroid/bones); I-131 thyroid therapy; sterile disposable syringes via gamma irradiation.</li>
@@ -297,10 +308,10 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch37_nuclear-376-fusion-preview">37.6 Fusion Preview</h2>
+<h2 id="ch37_nuclear-376-fusion-preview"><span class="sec-num">37.6</span> Fusion Preview</h2>
 <p>Fusion (fusing light nuclei) powers stars; terrestrial confinement (tokamaks/stellarators/laser inertial — NIF achieved ignition-grade target gain Dec 2022, wall-plug accounting still far negative) remains decades-from-grid engineering. Full treatment in <a href="ch43.html">Ch 43</a>; planning stance here: <strong>do not gate civilization on fusion</strong> — fission plus renewables can, in principle, meet planetary energy needs without it.</p>
 <p class="co co-key"><strong>Key threshold:</strong> a grid-connected reactor marks entry to a new energy option, not energy abundance by itself. Uranium offers very high energy density, but actual fuel-cycle duration depends on ore grade, enrichment, burn-up, reactor choice, recycling, demand, and the ability to build and maintain the full chain.</p>
-<h2 id="ch37_nuclear-377-the-nuclear-record">37.7 The Nuclear Record</h2>
+<h2 id="ch37_nuclear-377-the-nuclear-record"><span class="sec-num">37.7</span> The Nuclear Record</h2>
 <p>Discovery-to-grid, dates verifiable:</p>
 <ul>
 <li>Rutherford transmuted nitrogen into oxygen (experiments 1917–19, Manchester; published 1919); Cockcroft &amp; Walton split lithium with their voltage multiplier (1932, Nobel 1951); Fermi's Rome group discovered slow-neutron activation (1934, Nobel 1938).</li>
@@ -310,11 +321,11 @@
 <li><strong>Atoms for Peace (Eisenhower, UN speech, December 1953)</strong> reframed fission civilian; Obninsk APS-1 connected to grid June 1954 (USSR, 5 MW); Calder Hall (UK, 1956) pioneered commercial-scale; Shippingport (US, 1957) followed. Rickover's Navy standardized light-water reactors, which the civilian fleet then inherited — submarine procurement shaped global power plant design, a governance fact few expect.</li>
 <li>Accident canon, dated precisely: TMI partial meltdown March 28, 1979 (containment held); Chernobyl April 26, 1986, 01:23:44 reactor time (INES scale itself created afterward, 1990, partly in response); Fukushima March 11, 2011 — tsunami runup far exceeded the site's design basis (~5.7 m design vs ~14 m+ flooding), killing backup generators. Each event rewrote regulation; none changed the underlying neutron economics recorded in <a href="#ch37_nuclear-372-reactor-physics-essentials">§37.2</a>.</li>
 </ul>
-<h2 id="ch37_nuclear-378-what-historians-would-add">37.8 What Historians Would Add</h2>
+<h2 id="ch37_nuclear-378-what-historians-would-add"><span class="sec-num">37.8</span> What Historians Would Add</h2>
 <p>The Manhattan Project is studied less for physics than for MANAGEMENT: OSRD coordination, compartmentalized secrecy (which slowed some science even while protecting security), Groves' unified command over science's consensus culture — friction documented in memoirs on all sides. Big-science organization — milestones, parallel redundancy, systems engineering (<a href="ch39.html">Ch 39</a> inherits it wholesale) — is nuclear fission's second export after electricity.</p>
-<h2 id="ch37_nuclear-379-regulators-five-lines">37.9 Regulator's Five Lines</h2>
+<h2 id="ch37_nuclear-379-regulators-five-lines"><span class="sec-num">37.9</span> Regulator's Five Lines</h2>
 <p>Independent regulator (no promotion role) → licensed operators (examined, re-tested) → written safety case per plant (design-basis hazards + margins) → inspection + incident reporting (near-misses published) → emergency drills with the public. Promoters never grade their own homework — Fukushima's regulator-capture debate is the warning label.</p>
-<h2 id="ch37_nuclear-3710-radiation-protection-dose-detection-and-orphan-sources">37.10 Radiation Protection: Dose, Detection, and Orphan Sources</h2>
+<h2 id="ch37_nuclear-3710-radiation-protection-dose-detection-and-orphan-sources"><span class="sec-num">37.10</span> Radiation Protection: Dose, Detection, and Orphan Sources</h2>
 <p>The isotope economy (§37.5) and X-ray imaging (<a href="ch31.html">Ch 31</a> §31.3) put radiation sources in hospitals, factories, and survey crews long before any reactor is built, so protection basics belong to every user, not only to reactor staff.</p>
 <p class="co co-warn"><strong>Safety warning:</strong> radioactive sources injure without any sensation at the time of exposure — burns, radiation sickness, and cancers appear days to years later. Do not open, cut, crush, or carry any device marked with the radiation trefoil, any unexplained heavy lead or tungsten container, or any medical-therapy, industrial-gauge, radiography, or well-logging source housing. Mark the area, keep people away, and report it to a qualified radiation-protection officer or regulator. Handling, transport, storage, and disposal of radioactive material are licensed work.</p>
 <ul>
@@ -326,12 +337,12 @@
 <li><strong>Orphan sources:</strong> sealed sources outlive the institutions that own them. In Goiânia, Brazil (1987), scavengers dismantled a caesium-137 teletherapy unit left in an abandoned clinic and sold the parts; the glowing powder inside was handled and shared among families. Four people died, 249 were contaminated, and houses had to be demolished. Any salvage programme (<a href="appendix-d.html">Appendix D</a> §D.6) must treat the trefoil symbol, heavy shielded housings, and medical, gauge, and well-logging equipment as hazards to mark, isolate, and report — never to open.</li>
 </ul>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch36.html" class="reader-nav-link">← Chapter 36</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch38.html" class="reader-nav-link">Chapter 38 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch36.html" rel="prev"><span class="pager-dir">← Chapter 36</span><span class="pager-title">Computers and Software</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch38.html" rel="next"><span class="pager-dir">Chapter 38 →</span><span class="pager-title">Polymers and Advanced Materials</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

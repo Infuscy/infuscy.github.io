@@ -5,22 +5,33 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 36: Computers and Software — Fire to Future</title>
 <meta name="description" content="Computers automate reasoning itself. The lineage is longer than the hardware: logic formalized → information quantified → machines built → software…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch36.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch35.html">
+<link rel="next" href="ch37.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p4">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 36 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch36_computers-chapter-36-computers-and-software">Chapter 36: Computers and Software</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1854 Boole → 1980s PCs · <strong>Difficulty:</strong> extreme<br><strong>Requires:</strong> <a href="ch18.html">Ch 18</a>, <a href="ch35.html">Ch 35</a><br><strong>Unlocks:</strong> <a href="ch39.html">Ch 39</a>, <a href="ch42.html">Ch 42</a>, <a href="ch45.html">Ch 45</a>, <a href="ch46.html">Ch 46</a></p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part IV · The Modern Stack</p>
+<h1 id="ch36_computers-chapter-36-computers-and-software"><span class="chapter-kicker">Chapter 36<span class="visually-hidden">:</span></span> Computers and Software</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1854 Boole → 1980s PCs</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="6" aria-hidden="true"></span>extreme</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch18.html" title="Paper and the Printing Press">Ch 18</a></li><li><a href="ch35.html" title="Transistors and Integrated Circuits">Ch 35</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch39.html" title="Rocketry and Access to Orbit">Ch 39</a></li><li><a href="ch42.html" title="The Internet and Data Centers">Ch 42</a></li><li><a href="ch45.html" title="Automation and Robotics">Ch 45</a></li><li><a href="ch46.html" title="Machine Intelligence">Ch 46</a></li></ul></dd></div>
+</dl>
 <p>Computers automate reasoning itself. The lineage is longer than the hardware: logic formalized → information quantified → machines built → software industrialized. This chapter builds the stack in that order, because each layer only works on the one below.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Stored program architecture block diagram">
@@ -68,7 +79,7 @@
 <figcaption><strong>Figure 36.1.</strong> The architectural decision that still governs everything: no separate "program machine" and "data machine" — one memory holds both, and the CPU fetches instructions exactly as it fetches numbers. Programs become writable, loadable, transmittable text.</figcaption>
 </figure>
 
-<h2 id="ch36_computers-361-theory-before-metal">36.1 Theory Before Metal</h2>
+<h2 id="ch36_computers-361-theory-before-metal"><span class="sec-num">36.1</span> Theory Before Metal</h2>
 <ul>
 <li><strong>Boole (1854):</strong> logic becomes algebra — AND/OR/NOT operations on true/false values. Shannon (1937): Boolean algebra IS switching-circuit design; telephone relays compute.</li>
 <li><strong>Turing (1936):</strong> the universal machine — one device reading/writing symbols on tape can simulate ANY computation. Also the halting problem: some questions provably unanswerable by any machine. Know the limits BEFORE building (<a href="ch46.html">Ch 46</a> inherits them).</li>
@@ -117,7 +128,7 @@
 </tbody>
 </table></div>
 <p><strong>Half-adder in one line:</strong> sum = A⊕B, carry = A·B. Chain carry into full adders, chain adders into ALUs — arithmetic IS stacked logic, and Shannon's thesis is the translation dictionary.</p>
-<h2 id="ch36_computers-362-hardware-generations">36.2 Hardware Generations</h2>
+<h2 id="ch36_computers-362-hardware-generations"><span class="sec-num">36.2</span> Hardware Generations</h2>
 <ul>
 <li><strong>Mechanical calculators:</strong> Pascal/Leibniz gear arithmetic; Babbage's Difference Engine concept worked, his Analytical Engine (programmed, general-purpose, 1837 design) never got built — precision machining couldn't hold tolerances at affordable cost (<strong>Dead end avoided as strategy:</strong> mechanical GENERAL-PURPOSE computing; mechanical SPECIAL-PURPOSE calculators remained useful for a century).</li>
 <li><strong>Relay computers (1941–):</strong> Zuse Z3, Harvard Mark I — telephone-switch tech computing reliably but slowly (seconds per multiply).</li>
@@ -191,7 +202,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch36_computers-363-software-the-second-machine">36.3 Software: The Second Machine</h2>
+<h2 id="ch36_computers-363-software-the-second-machine"><span class="sec-num">36.3</span> Software: The Second Machine</h2>
 <p>Hardware without software is jewelry. The stack, in dependency order:</p>
 <ol>
 <li><strong>Machine code/assembler:</strong> raw instruction encodings; human-hostile but direct.</li>
@@ -201,7 +212,7 @@
 <li><strong>Engineering culture:</strong> version control, testing, code review, documentation — software quality is process quality (<a href="ch47.html">Ch 47</a>).</li>
 </ol>
 <p><strong>UNIX pattern in four nouns:</strong> everything is a file; small tools do one thing; pipes join tools; shell scripts freeze workflows. A team that internalizes this administers ten machines with the effort others spend on one — composability IS staffing.</p>
-<h2 id="ch36_computers-364-personal-computing-inflection">36.4 Personal Computing Inflection</h2>
+<h2 id="ch36_computers-364-personal-computing-inflection"><span class="sec-num">36.4</span> Personal Computing Inflection</h2>
 <p>Microprocessors made computers cheap enough to give away:</p>
 <ul>
 <li>Altair 8800 kit (1975) ignited hobbyists; Apple II (1977) packaged usability (color graphics, floppy storage); VisiCalc (1979) — the spreadsheet — gave businesses their first irresistible reason to buy; IBM PC (1981) standardized the platform; GUIs (Xerox PARC research → Macintosh 1984) removed command-line illiteracy as a barrier.</li>
@@ -243,7 +254,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch36_computers-365-doctrine">36.5 Doctrine</h2>
+<h2 id="ch36_computers-365-doctrine"><span class="sec-num">36.5</span> Doctrine</h2>
 <ul>
 <li><strong>Standards compound:</strong> ASCII text, fixed file formats, open protocols — lock-in fights are expensive; interop wins long-term.</li>
 <li><strong>Backup and redundancy from day one:</strong> data outlives hardware; error-correcting codes (<a href="#ch36_computers-361-theory-before-metal">§36.1</a>) plus geographic copies prevent catastrophe.</li>
@@ -283,7 +294,7 @@
 </tbody>
 </table></div>
 <p class="co co-key"><strong>Key threshold:</strong> when computation costs less than the labor it replaces per task (payroll, inventory, drafting, simulation), adoption becomes automatic — the same crossover logic as <a href="ch26.html">Ch 26</a>'s electricity, now applied to thought work. Everything remaining in this book rides that curve.</p>
-<h2 id="ch36_computers-366-the-computing-papers">36.6 The Computing Papers</h2>
+<h2 id="ch36_computers-366-the-computing-papers"><span class="sec-num">36.6</span> The Computing Papers</h2>
 <ul>
 <li><strong>Babbage's government project failed honestly:</strong> Treasury funded the Difference Engine from 1823 (~£17,000 public money eventually); cost overruns, precision-tool limits, and engineer Clement's disputes killed it — the first documented state mega-program overrun in computing, cited ever since in procurement debates.</li>
 <li>Ada Lovelace's Note G (1843) — Bernoulli-number pseudocode with the loop insight — is regarded as the first published computer program; she died at 36 in 1852. Babbage died bitter; the Analytical Engine remained drawings.</li>
@@ -294,15 +305,15 @@
 <li>UNIX began on a scavenged PDP-7 (Thompson, 1969); Ritchie's C rewrite (1973) proved OS portability — the licensing-friendly OS whose descendants run everything from phones to supercomputers.</li>
 <li><strong>The Altair BASIC contract (1975)</strong> launched Microsoft; <strong>the non-exclusive DOS license to IBM (1980–81)</strong> — retained rights to license MS-DOS to clones — is widely assessed as history's most consequential business-contract oversight (an assessment, not a fact; the clone-market outcome it produced IS fact). Compaq's clean-room BIOS reverse-engineering (1982) legalized the PC clone industry — reverse-engineering law shaping markets as much as chips did.</li>
 </ul>
-<h2 id="ch36_computers-367-first-machine-build-order">36.7 First-Machine Build Order</h2>
+<h2 id="ch36_computers-367-first-machine-build-order"><span class="sec-num">36.7</span> First-Machine Build Order</h2>
 <p>Gates on breadboard (AND/OR/NOT by hand) → half-adder → stored-program paper simulator (fetch-decode-execute by hand on paper memory) → relay or tube ALU → assembler → compiler for one tiny language → OS kernel (scheduler + filesystem) → useful application. Teams that skip the paper simulator misunderstand every bug thereafter; teams that build it debug hardware and software separately — the skill that separates engineers from assemblers.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch35.html" class="reader-nav-link">← Chapter 35</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch37.html" class="reader-nav-link">Chapter 37 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch35.html" rel="prev"><span class="pager-dir">← Chapter 35</span><span class="pager-title">Transistors and Integrated Circuits</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch37.html" rel="next"><span class="pager-dir">Chapter 37 →</span><span class="pager-title">Nuclear Fission: Reactors and Radioisotopes</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

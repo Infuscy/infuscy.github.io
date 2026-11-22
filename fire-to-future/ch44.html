@@ -5,22 +5,34 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 44: Biotechnology: Genetics to CRISPR and mRNA — Fire to Future</title>
 <meta name="description" content="Biology has become an information-and-engineering discipline as sequencing, computation, and controlled manipulation improved. The transition is uneven…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch44.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch43.html">
+<link rel="next" href="ch45.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p5">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 44 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch44_biotech-chapter-44-biotechnology-genetics-to-crispr-and-mrna">Chapter 44: Biotechnology: Genetics to CRISPR and mRNA</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1865 Mendel → present · <strong>Difficulty:</strong> extreme<br><strong>Requires:</strong> <a href="ch30.html">Ch 30</a>, <a href="ch31.html">Ch 31</a>, <a href="ch35.html">Ch 35</a><br><strong>Unlocks:</strong> <a href="ch47.html">Ch 47</a><br><strong>Data snapshot:</strong> volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part V · Planetary Systems</p>
+<h1 id="ch44_biotech-chapter-44-biotechnology-genetics-to-crispr-and-mrna"><span class="chapter-kicker">Chapter 44<span class="visually-hidden">:</span></span> Biotechnology: Genetics to CRISPR and mRNA</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1865 Mendel → present</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="6" aria-hidden="true"></span>extreme</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch30.html" title="Germ Theory, Sanitation, and Water Treatment">Ch 30</a></li><li><a href="ch31.html" title="Clinical Medicine: Anesthesia, Vaccines, Antibiotics">Ch 31</a></li><li><a href="ch35.html" title="Transistors and Integrated Circuits">Ch 35</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch47.html" title="The Invisible Machine: Institutions, Law, Finance, Logistics, Statistics">Ch 47</a></li></ul></dd></div>
+<div class="spec-data-snapshot"><dt>Data snapshot</dt><dd>volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</dd></div>
+</dl>
 <p>Biology has become an information-and-engineering discipline as sequencing, computation, and controlled manipulation improved. The transition is uneven: context, regulation, environment, development, and organismal phenotype still resist reduction to code. Reading and writing DNA create powerful platforms, not automatic exponential progress in every biological field.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Central dogma and sequencing cost collapse">
@@ -58,7 +70,7 @@
 <figcaption><strong>Figure 44.1.</strong> DNA transcribes to RNA, RNA translates to protein via triplet codons — one universal lookup table. Per-genome sequencing cost fell roughly 100,000-fold from the early 2000s to benchtop machines, flipping biology from sample-limited to data-limited.</figcaption>
 </figure>
 
-<h2 id="ch44_biotech-441-foundations">44.1 Foundations</h2>
+<h2 id="ch44_biotech-441-foundations"><span class="sec-num">44.1</span> Foundations</h2>
 <ul>
 <li><strong>Darwin and Wallace (1858–59):</strong> heritable variation plus unequal survival and reproduction changes populations over generations — natural selection (<a href="ch20.html">Ch 20</a> §20.10). It explains the breeder's art (<a href="ch07.html">Ch 7</a>, <a href="ch08.html">Ch 8</a>) and the resistance that antibiotics and pesticides select for (<a href="ch31.html">Ch 31</a> §31.4, <a href="ch32.html">Ch 32</a> §32.4). Darwin had no workable theory of heredity; Mendel's particles and, later, DNA supplied it.</li>
 <li><strong>Mendel (1865):</strong> particulate inheritance via pea ratios — ignored 35 years, then rediscovered simultaneously by three groups (replication's redemption arc).</li>
@@ -102,14 +114,14 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch44_biotech-442-reading-sequencing">44.2 Reading: Sequencing</h2>
+<h2 id="ch44_biotech-442-reading-sequencing"><span class="sec-num">44.2</span> Reading: Sequencing</h2>
 <p>Sanger sequencing (chain-terminating radio-labels) → automated fluorescence → Human Genome Project (1990–2003): $3 billion, 13 years, international consortium vs private competitor — both finished together, both vindicated. Then next-generation sequencing collapsed per-genome costs ~100,000× from roughly $100 million in 2001: genomes now sequence for hundreds of dollars. Biology acquired its Moore's-law moment; hypothesis generation became data-limited instead of sample-limited.</p>
 <p>PCR (Mullis, 1983): enzymatic exponential copying of target sequences — the amplification trick behind diagnostics (COVID-era PCR), forensics, paleogenomics. Thermocyclers are just precision temperature cycling (<a href="ch20.html">Ch 20</a>).</p>
 <pre><code>PCR: 95 °C denature → 55 °C anneal primers → 72 °C extend (Taq) → ×30 cycles ≈ 10⁹ copies
 DIAGNOSTIC: swab → extract → primers for pathogen → cycle → fluorescence crosses = positive
 </code></pre>
 <p><strong>Sequencing-buy rule:</strong> buy throughput, rent interpretation — machines depreciate, variant databases appreciate. Bank consent + phenotypes with every sample (<a href="ch47.html">Ch 47</a> governance); an unconsented biobank is a scandal in cold storage.</p>
-<h2 id="ch44_biotech-443-writing-crispr">44.3 Writing: CRISPR</h2>
+<h2 id="ch44_biotech-443-writing-crispr"><span class="sec-num">44.3</span> Writing: CRISPR</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="CRISPR cut and repair paths">
 <title>CRISPR cut and repair paths</title>
@@ -182,13 +194,13 @@ DIAGNOSTIC: swab → extract → primers for pathogen → cycle → fluorescence
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch44_biotech-444-mrna-platform">44.4 mRNA Platform</h2>
+<h2 id="ch44_biotech-444-mrna-platform"><span class="sec-num">44.4</span> mRNA Platform</h2>
 <p>Modified nucleosides and lipid nanoparticles helped make mRNA medicines practical; neither removes the need to optimise translation, innate immunity, stability, delivery, manufacturing, and clinical benefit for each target. Pandemic timelines demonstrated speed in a particular emergency, not a universal “any protein” factory. The platform can support vaccines, protein-expression research, and some therapeutic concepts, but each product still requires its own design, safety, manufacturing, and clinical programme.</p>
 <pre><code>SEQUENCE (Jan 11) → DESIGN (days) → LNP-mRNA (weeks) → TRIALS (months) → EUA (Dec)
 PLATFORM = sequence in, protein out — swap the ORF, keep the factory
 </code></pre>
 <p><strong>Cold-chain coupling:</strong> mRNA's fragility rides <a href="ch31.html">Ch 31</a>'s cold chain — ultra-cold first, fridge-stable next. Platform speed means nothing if vials die in trucks; book manufacturing reservations with the sequence, not after trials.</p>
-<h2 id="ch44_biotech-445-biosecurity-frame">44.5 Biosecurity Frame</h2>
+<h2 id="ch44_biotech-445-biosecurity-frame"><span class="sec-num">44.5</span> Biosecurity Frame</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> sequence synthesis, microbial culture, genome editing, animal work, clinical translation, and biomanufacturing are regulated biological professions. A written biosafety concern does not replace institutional biosafety committees, risk assessment, containment engineering, validated inactivation, waste treatment, occupational health, screening, material-transfer controls, or clinical oversight. Dual-use methods require case-specific review; publication decisions belong with qualified experts and the law, not this general manual.</p>
 <p>Capability demands governance (kept at policy level here):</p>
 <ol>
@@ -229,7 +241,7 @@ PLATFORM = sequence in, protein out — swap the ORF, keep the factory
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch44_biotech-446-the-biology-papers">44.6 The Biology Papers</h2>
+<h2 id="ch44_biotech-446-the-biology-papers"><span class="sec-num">44.6</span> The Biology Papers</h2>
 <ul>
 <li>Mendel died (1884) unrecognized; three botanists rediscovered the ratios independently in 1900; Bateson coined "genetics" (1905). Griffith found the "transforming principle" (1928); Avery–MacLeod–McCarty identified it as DNA (1944); Hershey–Chase's blender experiment (1952) settled protein-vs-DNA for most holdouts.</li>
 <li><strong>Photo 51 was taken by Raymond Gosling under Rosalind Franklin's supervision (May 1952)</strong>; Franklin died of ovarian cancer in 1958 at 37, before the 1962 Nobel (rules exclude the dead). Modern historiography restored her contribution; the episode is now standard coursework in credit allocation.</li>
@@ -242,15 +254,15 @@ PLATFORM = sequence in, protein out — swap the ORF, keep the factory
 <li>The boundary case, recorded factually: He Jiankui announced edited babies (November 2018); Chinese courts sentenced him to three years (December 2019). Germline editing in humans remains prohibited across most jurisdictions — biosecurity norms have enforcement history now.</li>
 <li>mRNA speed run, dated: SARS-CoV-2 sequence published January 11, 2020; Moderna's vaccine designed within days; first human dosed March 16, 2020; EUAs December 2020. Karikó–Weissman's pseudouridine modification (2005) plus decades of lipid-nanoparticle work made the platform possible — pandemic urgency cashing decades of unfashionable research.</li>
 </ul>
-<h2 id="ch44_biotech-447-bench-order-greenfield-lab">44.7 Bench Order (Greenfield Lab)</h2>
+<h2 id="ch44_biotech-447-bench-order-greenfield-lab"><span class="sec-num">44.7</span> Bench Order (Greenfield Lab)</h2>
 <p>PCR + gel rig first (amplify and see) → Sanger/NGS access (read) → bacterial expression (make protein) → CRISPR in microbes/plants (edit easy genomes) → mammalian culture + LNP (edit hard genomes) → sequencing surveillance + cold chain (<a href="ch31.html">Ch 31</a>) before any clinical or release work. Asilomar tiers posted on the door, not in a drawer.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch43.html" class="reader-nav-link">← Chapter 43</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch45.html" class="reader-nav-link">Chapter 45 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch43.html" rel="prev"><span class="pager-dir">← Chapter 43</span><span class="pager-title">Energy Mastery: Solar, Wind, Grid Storage, Fusion</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch45.html" rel="next"><span class="pager-dir">Chapter 45 →</span><span class="pager-title">Automation and Robotics</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

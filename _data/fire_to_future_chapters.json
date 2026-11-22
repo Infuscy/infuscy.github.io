@@ -5,7 +5,10 @@
     "title": "Introduction — What This Guide Is",
     "part": "Front matter",
     "file": "front-matter.html",
-    "label": "Front matter"
+    "label": "Front matter",
+    "part_key": "front",
+    "part_desc": "",
+    "minutes": 4
   },
   {
     "type": "chapter",
@@ -13,7 +16,10 @@
     "title": "Fire: Making, Keeping, and Engineering Heat",
     "part": "Part I — Ignition",
     "file": "ch01.html",
-    "label": "Chapter 1"
+    "label": "Chapter 1",
+    "part_key": "p1",
+    "part_desc": "Survival and Settled Life — fire → villages",
+    "minutes": 9
   },
   {
     "type": "chapter",
@@ -21,7 +27,10 @@
     "title": "The First Toolkit: Stone, Bone, Antler, and Wood",
     "part": "Part I — Ignition",
     "file": "ch02.html",
-    "label": "Chapter 2"
+    "label": "Chapter 2",
+    "part_key": "p1",
+    "part_desc": "Survival and Settled Life — fire → villages",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -29,7 +38,10 @@
     "title": "Cordage, Basketry, Hides, and Textiles",
     "part": "Part I — Ignition",
     "file": "ch03.html",
-    "label": "Chapter 3"
+    "label": "Chapter 3",
+    "part_key": "p1",
+    "part_desc": "Survival and Settled Life — fire → villages",
+    "minutes": 8
   },
   {
     "type": "chapter",
@@ -37,7 +49,10 @@
     "title": "Food Acquisition: Hunting, Fishing, Gathering, Preservation",
     "part": "Part I — Ignition",
     "file": "ch04.html",
-    "label": "Chapter 4"
+    "label": "Chapter 4",
+    "part_key": "p1",
+    "part_desc": "Survival and Settled Life — fire → villages",
+    "minutes": 8
   },
   {
     "type": "chapter",
@@ -45,7 +60,10 @@
     "title": "Pottery: Fired Clay as the First Chemical Product",
     "part": "Part I — Ignition",
     "file": "ch05.html",
-    "label": "Chapter 5"
+    "label": "Chapter 5",
+    "part_key": "p1",
+    "part_desc": "Survival and Settled Life — fire → villages",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -53,7 +71,10 @@
     "title": "Shelter and Settlement: Architecture Before Metals",
     "part": "Part I — Ignition",
     "file": "ch06.html",
-    "label": "Chapter 6"
+    "label": "Chapter 6",
+    "part_key": "p1",
+    "part_desc": "Survival and Settled Life — fire → villages",
+    "minutes": 11
   },
   {
     "type": "chapter",
@@ -61,7 +82,10 @@
     "title": "Agriculture: Domestication, Cultivation, Soil, Irrigation",
     "part": "Part I — Ignition",
     "file": "ch07.html",
-    "label": "Chapter 7"
+    "label": "Chapter 7",
+    "part_key": "p1",
+    "part_desc": "Survival and Settled Life — fire → villages",
+    "minutes": 9
   },
   {
     "type": "chapter",
@@ -69,7 +93,10 @@
     "title": "Animals: Husbandry, Transport, and Power",
     "part": "Part I — Ignition",
     "file": "ch08.html",
-    "label": "Chapter 8"
+    "label": "Chapter 8",
+    "part_key": "p1",
+    "part_desc": "Survival and Settled Life — fire → villages",
+    "minutes": 8
   },
   {
     "type": "chapter",
@@ -77,7 +104,10 @@
     "title": "Surplus, Storage, Trade, and Money",
     "part": "Part II — The Ancient Engine",
     "file": "ch09.html",
-    "label": "Chapter 9"
+    "label": "Chapter 9",
+    "part_key": "p2",
+    "part_desc": "Cities, Metals, Records — villages → classical industry",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -85,7 +115,10 @@
     "title": "Copper and Bronze — and How to Shorten Their Era",
     "part": "Part II — The Ancient Engine",
     "file": "ch10.html",
-    "label": "Chapter 10"
+    "label": "Chapter 10",
+    "part_key": "p2",
+    "part_desc": "Cities, Metals, Records — villages → classical industry",
+    "minutes": 9
   },
   {
     "type": "chapter",
@@ -93,7 +126,10 @@
     "title": "Writing, Record Keeping, and Bureaucracy",
     "part": "Part II — The Ancient Engine",
     "file": "ch11.html",
-    "label": "Chapter 11"
+    "label": "Chapter 11",
+    "part_key": "p2",
+    "part_desc": "Cities, Metals, Records — villages → classical industry",
+    "minutes": 6
   },
   {
     "type": "chapter",
@@ -101,7 +137,10 @@
     "title": "Numbers, Geometry, and Practical Mathematics",
     "part": "Part II — The Ancient Engine",
     "file": "ch12.html",
-    "label": "Chapter 12"
+    "label": "Chapter 12",
+    "part_key": "p2",
+    "part_desc": "Cities, Metals, Records — villages → classical industry",
+    "minutes": 8
   },
   {
     "type": "chapter",
@@ -109,7 +148,10 @@
     "title": "Mining and Quarrying",
     "part": "Part II — The Ancient Engine",
     "file": "ch13.html",
-    "label": "Chapter 13"
+    "label": "Chapter 13",
+    "part_key": "p2",
+    "part_desc": "Cities, Metals, Records — villages → classical industry",
+    "minutes": 8
   },
   {
     "type": "chapter",
@@ -117,7 +159,10 @@
     "title": "Iron Without Tears: Bloomery, Forging, Case Hardening",
     "part": "Part II — The Ancient Engine",
     "file": "ch14.html",
-    "label": "Chapter 14"
+    "label": "Chapter 14",
+    "part_key": "p2",
+    "part_desc": "Cities, Metals, Records — villages → classical industry",
+    "minutes": 11
   },
   {
     "type": "chapter",
@@ -125,7 +170,10 @@
     "title": "Mechanical Primitives: Wheel, Axle, Screw, Gear, Bearing",
     "part": "Part II — The Ancient Engine",
     "file": "ch15.html",
-    "label": "Chapter 15"
+    "label": "Chapter 15",
+    "part_key": "p2",
+    "part_desc": "Cities, Metals, Records — villages → classical industry",
+    "minutes": 12
   },
   {
     "type": "chapter",
@@ -133,7 +181,10 @@
     "title": "Water and Wind: Mills and Pre-Fuel Prime Movers",
     "part": "Part II — The Ancient Engine",
     "file": "ch16.html",
-    "label": "Chapter 16"
+    "label": "Chapter 16",
+    "part_key": "p2",
+    "part_desc": "Cities, Metals, Records — villages → classical industry",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -141,7 +192,10 @@
     "title": "Practical Chemistry I: Lime, Mortar, Glass, Salt, Soap, Alcohol, Distillation",
     "part": "Part II — The Ancient Engine",
     "file": "ch17.html",
-    "label": "Chapter 17"
+    "label": "Chapter 17",
+    "part_key": "p2",
+    "part_desc": "Cities, Metals, Records — villages → classical industry",
+    "minutes": 9
   },
   {
     "type": "chapter",
@@ -149,7 +203,10 @@
     "title": "Paper and the Printing Press",
     "part": "Part III — The Acceleration",
     "file": "ch18.html",
-    "label": "Chapter 18"
+    "label": "Chapter 18",
+    "part_key": "p3",
+    "part_desc": "Printing, Science, and Fossil Power",
+    "minutes": 8
   },
   {
     "type": "chapter",
@@ -157,7 +214,10 @@
     "title": "Optics: Lenses to Telescopes and Microscopes",
     "part": "Part III — The Acceleration",
     "file": "ch19.html",
-    "label": "Chapter 19"
+    "label": "Chapter 19",
+    "part_key": "p3",
+    "part_desc": "Printing, Science, and Fossil Power",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -165,7 +225,10 @@
     "title": "Precision Instruments and the Scientific Method",
     "part": "Part III — The Acceleration",
     "file": "ch20.html",
-    "label": "Chapter 20"
+    "label": "Chapter 20",
+    "part_key": "p3",
+    "part_desc": "Printing, Science, and Fossil Power",
+    "minutes": 10
   },
   {
     "type": "chapter",
@@ -173,7 +236,10 @@
     "title": "Black Powder and Industrial Chemistry",
     "part": "Part III — The Acceleration",
     "file": "ch21.html",
-    "label": "Chapter 21"
+    "label": "Chapter 21",
+    "part_key": "p3",
+    "part_desc": "Printing, Science, and Fossil Power",
+    "minutes": 11
   },
   {
     "type": "chapter",
@@ -181,7 +247,10 @@
     "title": "Coke Smelting and Cheap Iron",
     "part": "Part III — The Acceleration",
     "file": "ch22.html",
-    "label": "Chapter 22"
+    "label": "Chapter 22",
+    "part_key": "p3",
+    "part_desc": "Printing, Science, and Fossil Power",
+    "minutes": 12
   },
   {
     "type": "chapter",
@@ -189,7 +258,10 @@
     "title": "Steam Engines Done Right",
     "part": "Part III — The Acceleration",
     "file": "ch23.html",
-    "label": "Chapter 23"
+    "label": "Chapter 23",
+    "part_key": "p3",
+    "part_desc": "Printing, Science, and Fossil Power",
+    "minutes": 9
   },
   {
     "type": "chapter",
@@ -197,7 +269,10 @@
     "title": "Mass Transport: Canals, Roads, Railways",
     "part": "Part III — The Acceleration",
     "file": "ch24.html",
-    "label": "Chapter 24"
+    "label": "Chapter 24",
+    "part_key": "p3",
+    "part_desc": "Printing, Science, and Fossil Power",
+    "minutes": 8
   },
   {
     "type": "chapter",
@@ -205,7 +280,10 @@
     "title": "Electricity I: Charge, Batteries, Electromagnetism, Telegraph",
     "part": "Part III — The Acceleration",
     "file": "ch25.html",
-    "label": "Chapter 25"
+    "label": "Chapter 25",
+    "part_key": "p3",
+    "part_desc": "Printing, Science, and Fossil Power",
+    "minutes": 6
   },
   {
     "type": "chapter",
@@ -213,7 +291,10 @@
     "title": "Electricity II: Dynamos, Motors, Lighting, Grids",
     "part": "Part III — The Acceleration",
     "file": "ch26.html",
-    "label": "Chapter 26"
+    "label": "Chapter 26",
+    "part_key": "p3",
+    "part_desc": "Printing, Science, and Fossil Power",
+    "minutes": 8
   },
   {
     "type": "chapter",
@@ -221,7 +302,10 @@
     "title": "Steel at Scale and Reinforced Concrete",
     "part": "Part IV — The Modern Stack",
     "file": "ch27.html",
-    "label": "Chapter 27"
+    "label": "Chapter 27",
+    "part_key": "p4",
+    "part_desc": "1870 → 1960",
+    "minutes": 11
   },
   {
     "type": "chapter",
@@ -229,7 +313,10 @@
     "title": "Petroleum: Drilling, Refining, Cracking",
     "part": "Part IV — The Modern Stack",
     "file": "ch28.html",
-    "label": "Chapter 28"
+    "label": "Chapter 28",
+    "part_key": "p4",
+    "part_desc": "1870 → 1960",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -237,7 +324,10 @@
     "title": "Internal Combustion: Cars, Tractors, Ships",
     "part": "Part IV — The Modern Stack",
     "file": "ch29.html",
-    "label": "Chapter 29"
+    "label": "Chapter 29",
+    "part_key": "p4",
+    "part_desc": "1870 → 1960",
+    "minutes": 9
   },
   {
     "type": "chapter",
@@ -245,7 +335,10 @@
     "title": "Germ Theory, Sanitation, and Water Treatment",
     "part": "Part IV — The Modern Stack",
     "file": "ch30.html",
-    "label": "Chapter 30"
+    "label": "Chapter 30",
+    "part_key": "p4",
+    "part_desc": "1870 → 1960",
+    "minutes": 10
   },
   {
     "type": "chapter",
@@ -253,7 +346,10 @@
     "title": "Clinical Medicine: Anesthesia, Vaccines, Antibiotics",
     "part": "Part IV — The Modern Stack",
     "file": "ch31.html",
-    "label": "Chapter 31"
+    "label": "Chapter 31",
+    "part_key": "p4",
+    "part_desc": "1870 → 1960",
+    "minutes": 10
   },
   {
     "type": "chapter",
@@ -261,7 +357,10 @@
     "title": "Feeding Billions: Haber-Bosch, Breeding, Mechanized Farming",
     "part": "Part IV — The Modern Stack",
     "file": "ch32.html",
-    "label": "Chapter 32"
+    "label": "Chapter 32",
+    "part_key": "p4",
+    "part_desc": "1870 → 1960",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -269,7 +368,10 @@
     "title": "Flight: From Gliders to Jets",
     "part": "Part IV — The Modern Stack",
     "file": "ch33.html",
-    "label": "Chapter 33"
+    "label": "Chapter 33",
+    "part_key": "p4",
+    "part_desc": "1870 → 1960",
+    "minutes": 8
   },
   {
     "type": "chapter",
@@ -277,7 +379,10 @@
     "title": "Radio, Radar, Television: Vacuum-Tube Electronics",
     "part": "Part IV — The Modern Stack",
     "file": "ch34.html",
-    "label": "Chapter 34"
+    "label": "Chapter 34",
+    "part_key": "p4",
+    "part_desc": "1870 → 1960",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -285,7 +390,10 @@
     "title": "Transistors and Integrated Circuits",
     "part": "Part IV — The Modern Stack",
     "file": "ch35.html",
-    "label": "Chapter 35"
+    "label": "Chapter 35",
+    "part_key": "p4",
+    "part_desc": "1870 → 1960",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -293,7 +401,10 @@
     "title": "Computers and Software",
     "part": "Part IV — The Modern Stack",
     "file": "ch36.html",
-    "label": "Chapter 36"
+    "label": "Chapter 36",
+    "part_key": "p4",
+    "part_desc": "1870 → 1960",
+    "minutes": 6
   },
   {
     "type": "chapter",
@@ -301,7 +412,10 @@
     "title": "Nuclear Fission: Reactors and Radioisotopes",
     "part": "Part IV — The Modern Stack",
     "file": "ch37.html",
-    "label": "Chapter 37"
+    "label": "Chapter 37",
+    "part_key": "p4",
+    "part_desc": "1870 → 1960",
+    "minutes": 9
   },
   {
     "type": "chapter",
@@ -309,7 +423,10 @@
     "title": "Polymers and Advanced Materials",
     "part": "Part V — Planetary Systems",
     "file": "ch38.html",
-    "label": "Chapter 38"
+    "label": "Chapter 38",
+    "part_key": "p5",
+    "part_desc": "1950 → present",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -317,7 +434,10 @@
     "title": "Rocketry and Access to Orbit",
     "part": "Part V — Planetary Systems",
     "file": "ch39.html",
-    "label": "Chapter 39"
+    "label": "Chapter 39",
+    "part_key": "p5",
+    "part_desc": "1950 → present",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -325,7 +445,10 @@
     "title": "Satellites: Communications, Positioning, Observation",
     "part": "Part V — Planetary Systems",
     "file": "ch40.html",
-    "label": "Chapter 40"
+    "label": "Chapter 40",
+    "part_key": "p5",
+    "part_desc": "1950 → present",
+    "minutes": 6
   },
   {
     "type": "chapter",
@@ -333,7 +456,10 @@
     "title": "Fiber Optics and Global Telephony",
     "part": "Part V — Planetary Systems",
     "file": "ch41.html",
-    "label": "Chapter 41"
+    "label": "Chapter 41",
+    "part_key": "p5",
+    "part_desc": "1950 → present",
+    "minutes": 6
   },
   {
     "type": "chapter",
@@ -341,7 +467,10 @@
     "title": "The Internet and Data Centers",
     "part": "Part V — Planetary Systems",
     "file": "ch42.html",
-    "label": "Chapter 42"
+    "label": "Chapter 42",
+    "part_key": "p5",
+    "part_desc": "1950 → present",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -349,7 +478,10 @@
     "title": "Energy Mastery: Solar, Wind, Grid Storage, Fusion",
     "part": "Part V — Planetary Systems",
     "file": "ch43.html",
-    "label": "Chapter 43"
+    "label": "Chapter 43",
+    "part_key": "p5",
+    "part_desc": "1950 → present",
+    "minutes": 10
   },
   {
     "type": "chapter",
@@ -357,7 +489,10 @@
     "title": "Biotechnology: Genetics to CRISPR and mRNA",
     "part": "Part V — Planetary Systems",
     "file": "ch44.html",
-    "label": "Chapter 44"
+    "label": "Chapter 44",
+    "part_key": "p5",
+    "part_desc": "1950 → present",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -365,7 +500,10 @@
     "title": "Automation and Robotics",
     "part": "Part V — Planetary Systems",
     "file": "ch45.html",
-    "label": "Chapter 45"
+    "label": "Chapter 45",
+    "part_key": "p5",
+    "part_desc": "1950 → present",
+    "minutes": 6
   },
   {
     "type": "chapter",
@@ -373,7 +511,10 @@
     "title": "Machine Intelligence",
     "part": "Part V — Planetary Systems",
     "file": "ch46.html",
-    "label": "Chapter 46"
+    "label": "Chapter 46",
+    "part_key": "p5",
+    "part_desc": "1950 → present",
+    "minutes": 6
   },
   {
     "type": "chapter",
@@ -381,7 +522,10 @@
     "title": "The Invisible Machine: Institutions, Law, Finance, Logistics, Statistics",
     "part": "Part V — Planetary Systems",
     "file": "ch47.html",
-    "label": "Chapter 47"
+    "label": "Chapter 47",
+    "part_key": "p5",
+    "part_desc": "1950 → present",
+    "minutes": 13
   },
   {
     "type": "chapter",
@@ -389,7 +533,10 @@
     "title": "Fortification and Siegecraft",
     "part": "Optional Defense Annex — Defense and Wartime Spillovers",
     "file": "ch48.html",
-    "label": "Chapter 48"
+    "label": "Chapter 48",
+    "part_key": "annex",
+    "part_desc": "Optional context — outside the core build sequence",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -397,7 +544,10 @@
     "title": "Gunpowder Weapons: Matchlock to Machine Gun",
     "part": "Optional Defense Annex — Defense and Wartime Spillovers",
     "file": "ch49.html",
-    "label": "Chapter 49"
+    "label": "Chapter 49",
+    "part_key": "annex",
+    "part_desc": "Optional context — outside the core build sequence",
+    "minutes": 7
   },
   {
     "type": "chapter",
@@ -405,7 +555,10 @@
     "title": "Naval Power: Galleys to Missile Age",
     "part": "Optional Defense Annex — Defense and Wartime Spillovers",
     "file": "ch50.html",
-    "label": "Chapter 50"
+    "label": "Chapter 50",
+    "part_key": "annex",
+    "part_desc": "Optional context — outside the core build sequence",
+    "minutes": 8
   },
   {
     "type": "chapter",
@@ -413,7 +566,10 @@
     "title": "The Nation-in-Arms: Drill, Staffs, Logistics, and Industrial War",
     "part": "Optional Defense Annex — Defense and Wartime Spillovers",
     "file": "ch51.html",
-    "label": "Chapter 51"
+    "label": "Chapter 51",
+    "part_key": "annex",
+    "part_desc": "Optional context — outside the core build sequence",
+    "minutes": 10
   },
   {
     "type": "appendix",
@@ -421,7 +577,10 @@
     "title": "Core Build Sequence",
     "part": "Appendices",
     "file": "appendix-a.html",
-    "label": null
+    "label": null,
+    "part_key": "appx",
+    "part_desc": "",
+    "minutes": 4
   },
   {
     "type": "appendix",
@@ -429,7 +588,10 @@
     "title": "Failure Modes and Conditional Traps",
     "part": "Appendices",
     "file": "appendix-b.html",
-    "label": null
+    "label": null,
+    "part_key": "appx",
+    "part_desc": "",
+    "minutes": 3
   },
   {
     "type": "appendix",
@@ -437,7 +599,10 @@
     "title": "Conditional Jumps",
     "part": "Appendices",
     "file": "appendix-c.html",
-    "label": null
+    "label": null,
+    "part_key": "appx",
+    "part_desc": "",
+    "minutes": 4
   },
   {
     "type": "appendix",
@@ -445,7 +610,10 @@
     "title": "Scenario-Dependent Capability Stack",
     "part": "Appendices",
     "file": "appendix-d.html",
-    "label": null
+    "label": null,
+    "part_key": "appx",
+    "part_desc": "",
+    "minutes": 6
   },
   {
     "type": "appendix",
@@ -453,7 +621,10 @@
     "title": "Dependency Table and Scenario Planning",
     "part": "Appendices",
     "file": "appendix-e.html",
-    "label": null
+    "label": null,
+    "part_key": "appx",
+    "part_desc": "",
+    "minutes": 5
   },
   {
     "type": "appendix",
@@ -461,7 +632,10 @@
     "title": "Glossary",
     "part": "Appendices",
     "file": "appendix-f.html",
-    "label": null
+    "label": null,
+    "part_key": "appx",
+    "part_desc": "",
+    "minutes": 8
   },
   {
     "type": "appendix",
@@ -469,7 +643,10 @@
     "title": "Provisional Engineering Data",
     "part": "Appendices",
     "file": "appendix-g.html",
-    "label": null
+    "label": null,
+    "part_key": "appx",
+    "part_desc": "",
+    "minutes": 9
   },
   {
     "type": "reference",
@@ -477,6 +654,9 @@
     "title": "Source and Confidence Policy",
     "part": "Reference note",
     "file": "source-policy.html",
-    "label": null
+    "label": null,
+    "part_key": "ref",
+    "part_desc": "",
+    "minutes": 3
   }
 ]

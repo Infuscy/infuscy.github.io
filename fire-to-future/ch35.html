@@ -5,26 +5,37 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 35: Transistors and Integrated Circuits — Fire to Future</title>
 <meta name="description" content="The transistor is the most-manufactured artifact in history and among the most consequential: single chips now carry billions, each switching billions of times…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch35.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch34.html">
+<link rel="next" href="ch36.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p4">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 35 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch35_semiconductors-chapter-35-transistors-and-integrated-circuits">Chapter 35: Transistors and Integrated Circuits</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1947 transistor → 1971 microprocessor · <strong>Difficulty:</strong> extreme<br><strong>Requires:</strong> <a href="ch20.html">Ch 20</a>, <a href="ch21.html">Ch 21</a>, <a href="ch34.html">Ch 34</a><br><strong>Unlocks:</strong> <a href="ch36.html">Ch 36</a>, <a href="ch38.html">Ch 38</a>, <a href="ch40.html">Ch 40</a>, <a href="ch41.html">Ch 41</a>, <a href="ch42.html">Ch 42</a>, <a href="ch43.html">Ch 43</a>, <a href="ch44.html">Ch 44</a>, <a href="ch45.html">Ch 45</a>, <a href="ch46.html">Ch 46</a></p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part IV · The Modern Stack</p>
+<h1 id="ch35_semiconductors-chapter-35-transistors-and-integrated-circuits"><span class="chapter-kicker">Chapter 35<span class="visually-hidden">:</span></span> Transistors and Integrated Circuits</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1947 transistor → 1971 microprocessor</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="6" aria-hidden="true"></span>extreme</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch20.html" title="Precision Instruments and the Scientific Method">Ch 20</a></li><li><a href="ch21.html" title="Black Powder and Industrial Chemistry">Ch 21</a></li><li><a href="ch34.html" title="Radio, Radar, Television: Vacuum-Tube Electronics">Ch 34</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch36.html" title="Computers and Software">Ch 36</a></li><li><a href="ch38.html" title="Polymers and Advanced Materials">Ch 38</a></li><li><a href="ch40.html" title="Satellites: Communications, Positioning, Observation">Ch 40</a></li><li><a href="ch41.html" title="Fiber Optics and Global Telephony">Ch 41</a></li><li><a href="ch42.html" title="The Internet and Data Centers">Ch 42</a></li><li><a href="ch43.html" title="Energy Mastery: Solar, Wind, Grid Storage, Fusion">Ch 43</a></li><li><a href="ch44.html" title="Biotechnology: Genetics to CRISPR and mRNA">Ch 44</a></li><li><a href="ch45.html" title="Automation and Robotics">Ch 45</a></li><li><a href="ch46.html" title="Machine Intelligence">Ch 46</a></li></ul></dd></div>
+</dl>
 <p>The transistor is the most-manufactured artifact in history and among the most consequential: single chips now carry billions, each switching billions of times per second. Its story is a materials-purity crusade — the physics was understood decades before ENGINEERING could deliver it.</p>
-<h2 id="ch35_semiconductors-351-band-theory-in-one-paragraph">35.1 Band Theory in One Paragraph</h2>
+<h2 id="ch35_semiconductors-351-band-theory-in-one-paragraph"><span class="sec-num">35.1</span> Band Theory in One Paragraph</h2>
 <p>Quantum mechanics sorts solids by electron band gaps: conductors (overlapping bands), insulators (huge gap), semiconductors (small gap, ~1 eV for silicon). Doping silicon (group IV) with phosphorus (group V: extra electron → n-type) or boron (group III: missing electron/"hole" → p-type) creates controllable charge carriers. A p-n junction conducts one way — rectification from crystal structure itself. Germanium came first (easier purity); silicon won on temperature stability and its miracle oxide.</p>
-<h2 id="ch35_semiconductors-352-the-transistor-family">35.2 The Transistor Family</h2>
+<h2 id="ch35_semiconductors-352-the-transistor-family"><span class="sec-num">35.2</span> The Transistor Family</h2>
 <ul>
 <li><strong>Point-contact (Dec 1947, Bardeen &amp; Brattain):</strong> two gold contacts nudged onto germanium crystal showed power gain — proof of principle, maddening to manufacture.</li>
 <li><strong>Junction transistor (Shockley's theory, 1948):</strong> sandwich structure — thin base between emitter/collector — where injected minority carriers across the base produce gain. Manufacturable, analyzable, the design that scales.</li>
@@ -60,7 +71,7 @@
 <figcaption><strong>Figure 35.1.</strong> Phosphorus donates electrons; boron accepts them, leaving holes; their junction rectifies. Stack n-p-n thin and a whisper of base current throttles a torrent of collector current — amplification and logic from crystal geometry.</figcaption>
 </figure>
 
-<h2 id="ch35_semiconductors-353-silicon-and-the-planar-revolution">35.3 Silicon and the Planar Revolution</h2>
+<h2 id="ch35_semiconductors-353-silicon-and-the-planar-revolution"><span class="sec-num">35.3</span> Silicon and the Planar Revolution</h2>
 <p>Germanium's 80 °C ceiling and leaky junctions capped it. Silicon's higher melting point (1,414 °C) demanded better purification — <strong>zone refining</strong> (molten zone sweeping impurities along an ingot, segregation coefficients doing the work) and <strong>Czochralski/FLOAT-ZONE single-crystal growth</strong> delivered it. The feedstock itself starts as quartz: reduced with carbon in an electric-arc furnace to metallurgical-grade silicon of roughly 98–99 % purity, converted to a volatile chloride (trichlorosilane), distilled, and deposited as ultrapure polysilicon on heated rods (the Siemens process, late 1950s) — the "nine nines" material that crystal pulling needs (<a href="#ch35_semiconductors-357-qualification-gate-from-controlled-semiconductors-to-a-fabrication-line">§35.7</a> treats it as a qualified material, not a percentage). Then:</p>
 <ul>
 <li><strong>Hoerni's planar process (1959):</strong> grow a protective SiO₂ layer; open windows through it photolithographically; dope through windows; the oxide passivates junctions forever after. Devices became surface-stable, batch-fabricated, and RELIABLE.</li>
@@ -110,14 +121,14 @@
 <figcaption><strong>Figure 35.2.</strong> Oxide blankets the wafer, light prints windows, etch opens them, dopant writes junctions, metal wires the result — then the cycle repeats per layer. Each generation shrinks the print; cleanrooms and statistics defend the yield.</figcaption>
 </figure>
 
-<h2 id="ch35_semiconductors-354-moores-law-as-business-model">35.4 Moore's Law as Business Model</h2>
+<h2 id="ch35_semiconductors-354-moores-law-as-business-model"><span class="sec-num">35.4</span> Moore's Law as Business Model</h2>
 <p>Moore's 1965 observation — component counts doubling roughly every year, revised in 1975 to every two years — became a self-fulfilling ROADMAP: fabs, equipment makers, and designers synchronized investment to it. The engine underneath:</p>
 <ul>
 <li>Learning-curve economics: costs fall ~25–30 % per cumulative-doubling regardless of technology generation.</li>
 <li>Wafer scale-ups (25 mm → 300 mm), feature shrinks (10 µm → nanometers), yield management (defect density statistics).</li>
 <li>Landmark artifacts: Intel 1103 DRAM (1970, core memory obsoleted), 4004 microprocessor (1971, ~2,300 transistors — a CPU on one chip), then the exponential everything.</li>
 </ul>
-<h2 id="ch35_semiconductors-355-what-semiconductors-demand-from-your-civilization">35.5 What Semiconductors Demand From Your Civilization</h2>
+<h2 id="ch35_semiconductors-355-what-semiconductors-demand-from-your-civilization"><span class="sec-num">35.5</span> What Semiconductors Demand From Your Civilization</h2>
 <p>Honest prerequisites list — this chapter fails without them:</p>
 <ol>
 <li><strong>Chemical purity culture:</strong> parts-per-billion contamination control; ultrapure water, process gases, acids (<a href="ch21.html">Ch 21</a>).</li>
@@ -129,7 +140,7 @@
 <p class="co co-jump"><strong>Jump:</strong> skip germanium consumer products entirely; go zone-refined silicon straight into planar ICs IF §35.5 exists. Tubes remain necessary ONLY as circuit-concept scaffolding (<a href="ch34.html">Ch 34</a>) — their schematics port directly.</p>
 <p class="co co-dead"><strong>Dead end avoided:</strong> chasing ever-smaller FEATURES before yield discipline exists. History's losers built beautiful prototypes they couldn't manufacture profitably; the industry belongs to boring reproducibility.</p>
 <p class="co co-key"><strong>Key threshold:</strong> a first working logic gate from a qualified facility (§35.7) marks entry; stable 90 %+ yields on simple circuits mark industrial arrival. From there, compute compounds exactly as fast as you can shrink and stack — which is the throttle setting for every remaining chapter.</p>
-<h2 id="ch35_semiconductors-356-the-transistor-papers">35.6 The Transistor Papers</h2>
+<h2 id="ch35_semiconductors-356-the-transistor-papers"><span class="sec-num">35.6</span> The Transistor Papers</h2>
 <ul>
 <li>Point-contact detectors predate understanding: cat's-whisker crystal sets (silicon/galena, 1900s radio) used semiconductor rectification nobody could explain; WWII radar detector programs (Purdue and elsewhere) industrialized germanium/silicon diode purity — Bell Labs' postwar solid-state group inherited trained physicists AND refined crystals from that war program (<a href="ch51.html">Ch 51</a>'s spillover ledger).</li>
 <li><strong>December 23, 1947:</strong> Bardeen and Brattain's demonstration logged in lab notebooks; the group announcement came June 30, 1948; the Nobel (shared with Shockley) arrived 1956. Shockley's junction-transistor theory (1948) made devices manufacturable — theory completing experiment, textbook sequence.</li>
@@ -138,7 +149,7 @@
 <li><strong>Kilby v. Noyce:</strong> Kilby's September 1958 TI prototype used germanium and hand-added wire; Noyce's January 1959 silicon planar concept matched manufacturing reality; the interference litigation settled with cross-licensing and both men sharing honors. Simultaneous invention resolved by who could FABRICATE — recurring verdict.</li>
 <li>Czochralski discovered his crystal-pulling method accidentally in 1916 when he dipped his pen into molten tin instead of the inkwell; zone refining came from Pfann's Bell Labs work (1952). The wafer supply chain has accident and wartime pedigree stamped through it.</li>
 </ul>
-<h2 id="ch35_semiconductors-357-qualification-gate-from-controlled-semiconductors-to-a-fabrication-line">35.7 Qualification Gate: From Controlled Semiconductors to a Fabrication Line</h2>
+<h2 id="ch35_semiconductors-357-qualification-gate-from-controlled-semiconductors-to-a-fabrication-line"><span class="sec-num">35.7</span> Qualification Gate: From Controlled Semiconductors to a Fabrication Line</h2>
 <p>Semiconductor fabrication is not a home-fab craft simply because a single junction can be made on a small wafer. A credible facility must control feedstock purity, water, particles, surface preparation, photoresist chemistry, masks, etch rates, dopant profile, oxidation, metal interfaces, contamination, waste, and electrical acceptance across repeated lots. HF, TMAH, peroxide baths, solvents, high-temperature furnaces, toxic and pyrophoric process gases, vacuum systems, and electrical supplies create professional hazards.</p>
 <p class="co co-gate"><strong>Competence gate:</strong> semiconductor chemistry, vacuum, high-voltage, gas systems, occupational hygiene, and process control require trained specialists and an approved facility procedure. The general manual explains the system and acceptance discipline; it does not provide a complete fabrication recipe or certify a home laboratory.</p>
 <h3 id="ch35_semiconductors-facility-and-feedstock-gates">Facility and feedstock gates</h3>
@@ -155,12 +166,12 @@
 <p>Each lot records material identity, recipe revision, operator, equipment, tool status, calibration, environment, measured process variables, deviations, test data, yield, defects, and disposition. A failed lot is quarantined and investigated; results are never edited to make acceptance look cleaner.</p>
 <p><strong>Final acceptance:</strong> a line is ready for higher-complexity devices only when repeated process-control records, calibrated instruments, independent process checks, statistical yield, defect learning, maintenance, waste control, and emergency systems agree. First-device success is a milestone, not evidence that industrial fabrication has been reproduced.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch34.html" class="reader-nav-link">← Chapter 34</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch36.html" class="reader-nav-link">Chapter 36 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch34.html" rel="prev"><span class="pager-dir">← Chapter 34</span><span class="pager-title">Radio, Radar, Television: Vacuum-Tube Electronics</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch36.html" rel="next"><span class="pager-dir">Chapter 36 →</span><span class="pager-title">Computers and Software</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

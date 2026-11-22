@@ -1,50 +1,49 @@
-// Fire to Future table-of-contents: render + client-side search.
-// Chapter data comes from /fire-to-future/chapters.js (Jekyll-rendered global).
+// Fire to Future contents (fire-to-future/index.html): client-side search over the list
+// Jekyll renders from _data/fire_to_future_chapters.json. Without this script the full
+// list still shows; with it, typing filters it by title, number or part. Deferred, so the
+// page is parsed when it runs.
 (function () {
-    var CHAPTERS = window.FIRE_TO_FUTURE_CHAPTERS || [];
-
-    // Escape strings before injecting into innerHTML (titles come from site data)
-    function esc(s) {
-        return String(s).replace(/[&<>"']/g, function (c) {
-            return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
-        });
-    }
-
-    function renderToc(filter) {
-        var list = document.getElementById('tocList');
-        var empty = document.getElementById('tocEmpty');
-        var q = (filter || '').toLowerCase().trim();
-        var html = '';
-        var count = 0;
-        var lastPart = null;
-
-        for (var i = 0; i < CHAPTERS.length; i++) {
-            var ch = CHAPTERS[i];
-            if (q && ch.title.toLowerCase().indexOf(q) === -1 &&
-                String(ch.num).toLowerCase().indexOf(q) === -1 &&
-                ch.part.toLowerCase().indexOf(q) === -1) {
-                continue;
-            }
-            if (ch.part !== lastPart) {
-                html += '<li class="toc-part-divider">' + esc(ch.part) + '</li>';
-                lastPart = ch.part;
-            }
-            var typeTag = ch.type === 'chapter' ? '' : ' <span class="chapter-type">' +
-                ({ appendix: 'appendix', reference: 'reference' }[ch.type] || 'intro') + '</span>';
-            html += '<li><a href="/fire-to-future/' + esc(ch.file) + '">' +
-                '<span class="chapter-num">' + esc(ch.num) + '</span>' +
-                '<span class="chapter-title">' + esc(ch.title) + typeTag + '</span>' +
-                '</a></li>';
-            count++;
-        }
-
-        list.innerHTML = html;
-        empty.style.display = count === 0 ? '' : 'none';
-    }
-
     var input = document.getElementById('tocSearch');
-    if (input) {
-        input.addEventListener('input', function () { renderToc(input.value); });
+    var empty = document.getElementById('tocEmpty');
+    var groups = document.querySelectorAll('.toc-group');
+    if (!input || !empty) { return; }
+
+    // A search typed with straight quotes still matches curly ones, and the other way round.
+    function fold(s) {
+        return String(s).toLowerCase().replace(/[‘’]/g, "'").replace(/[“”]/g, '"');
     }
-    renderToc('');
+
+    // Each row is matched on its number and title plus the name of its part.
+    var rows = [];
+    for (var g = 0; g < groups.length; g++) {
+        var part = fold(groups[g].querySelector('.toc-group-head').textContent);
+        var items = groups[g].querySelectorAll('.toc-rows > li');
+        for (var i = 0; i < items.length; i++) {
+            var num = items[i].querySelector('.toc-num');
+            var title = items[i].querySelector('.toc-title');
+            rows.push({
+                li: items[i],
+                group: groups[g],
+                text: fold((num ? num.textContent : '') + ' ' + (title ? title.textContent : '')) + ' ' + part
+            });
+        }
+    }
+
+    function filter() {
+        var q = fold(input.value).trim();
+        var shown = 0;
+        for (var g = 0; g < groups.length; g++) { groups[g].hidden = true; }
+        for (var r = 0; r < rows.length; r++) {
+            var hit = !q || rows[r].text.indexOf(q) !== -1;
+            rows[r].li.hidden = !hit;
+            if (hit) {
+                rows[r].group.hidden = false;
+                shown++;
+            }
+        }
+        empty.hidden = shown !== 0;
+    }
+
+    input.addEventListener('input', filter);
+    if (input.value) { filter(); }  // a query the browser restored on back/forward
 })();

@@ -5,22 +5,33 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 12: Numbers, Geometry, and Practical Mathematics — Fire to Future</title>
 <meta name="description" content="Mathematics is compression for reality: formulas store thousands of measurements in one line. This chapter selects only the mathematics that pays immediate…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch12.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch11.html">
+<link rel="next" href="ch13.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p2">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 12 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch12_mathematics-chapter-12-numbers-geometry-and-practical-mathematics">Chapter 12: Numbers, Geometry, and Practical Mathematics</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> ~3000 BCE → 9th c. CE algebra → 17th c. calculus · <strong>Difficulty:</strong> mid<br><strong>Requires:</strong> <a href="ch11.html">Ch 11</a><br><strong>Unlocks:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch19.html">Ch 19</a>, <a href="ch46.html">Ch 46</a>, <a href="ch47.html">Ch 47</a></p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part II · The Ancient Engine</p>
+<h1 id="ch12_mathematics-chapter-12-numbers-geometry-and-practical-mathematics"><span class="chapter-kicker">Chapter 12<span class="visually-hidden">:</span></span> Numbers, Geometry, and Practical Mathematics</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>~3000 BCE → 9th c. CE algebra → 17th c. calculus</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="3" aria-hidden="true"></span>mid</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch11.html" title="Writing, Record Keeping, and Bureaucracy">Ch 11</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch15.html" title="Mechanical Primitives: Wheel, Axle, Screw, Gear, Bearing">Ch 15</a></li><li><a href="ch19.html" title="Optics: Lenses to Telescopes and Microscopes">Ch 19</a></li><li><a href="ch46.html" title="Machine Intelligence">Ch 46</a></li><li><a href="ch47.html" title="The Invisible Machine: Institutions, Law, Finance, Logistics, Statistics">Ch 47</a></li></ul></dd></div>
+</dl>
 <p>Mathematics is compression for reality: formulas store thousands of measurements in one line. This chapter selects only the mathematics that pays immediate engineering dividends, in dependency order.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Positional versus Roman multiplication">
@@ -43,7 +54,7 @@
 <figcaption><strong>Figure 12.1.</strong> Positional notation with zero turns multiplication into a pencil algorithm; additive numerals turn it into a career. Adopt Hindu-Arabic numerals early — Europe's slow adoption owed as much to custom, fraud concerns, and guild rules as to any difficulty of teaching.</figcaption>
 </figure>
 
-<h2 id="ch12_mathematics-121-positional-notation-with-zero">12.1 Positional Notation with Zero</h2>
+<h2 id="ch12_mathematics-121-positional-notation-with-zero"><span class="sec-num">12.1</span> Positional Notation with Zero</h2>
 <p class="co co-jump"><strong>Jump:</strong> adopt base-10 positional notation WITH zero as a placeholder immediately. History's detour: Egyptians used cumbersome unit-fractions, Babylonians lacked a true zero (their 60-base system left gaps), Romans managed empire-scale logistics on additive numerals where multiplication meant repeated abacus grinding. Hindu-Arabic positional arithmetic reduces long multiplication and division to pencil algorithms a child learns — and the same place-value idea, in base 2, is how computers represent numbers (<a href="ch36.html">Ch 36</a>).</p>
 <p>Teach in this order:
 1. Place values, carrying/borrowing algorithms.
@@ -51,7 +62,7 @@
 3. Negative numbers as debt (<a href="ch09.html">Ch 9</a> makes them intuitive).
 4. Exponent notation — powers compress the enormous ranges physics demands (from <a href="ch25.html">Ch 25</a> onward, quantities span 10⁻¹² to 10⁹).</p>
 <p><strong>Abacus bridge:</strong> teach bead arithmetic alongside pencil work — a practiced clerk adds columns faster on beads than on paper, and the abacus checks pencil sums independently. Soroban layout (1 heaven bead = 5, 4 earth beads) handles decimal natively; every market and granary gets one before it gets a second scribe.</p>
-<h2 id="ch12_mathematics-122-practical-arithmetic-for-commerce">12.2 Practical Arithmetic for Commerce</h2>
+<h2 id="ch12_mathematics-122-practical-arithmetic-for-commerce"><span class="sec-num">12.2</span> Practical Arithmetic for Commerce</h2>
 <ul>
 <li>The four operations fluently, mentally and on paper/abacus.</li>
 <li>Ratio and proportion: the workhorse of scaling recipes, mixtures, maps, and model-to-real conversions ("if 3 parts sand to 1 lime makes X barrels, then…").</li>
@@ -89,7 +100,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch12_mathematics-123-geometry-the-engineers-core">12.3 Geometry: The Engineer's Core</h2>
+<h2 id="ch12_mathematics-123-geometry-the-engineers-core"><span class="sec-num">12.3</span> Geometry: The Engineer's Core</h2>
 <p>Surveying and building run on Euclid's practical core:</p>
 <ul>
 <li><strong>Triangles rule construction:</strong> rigid triangles don't deform; rectangles need diagonals to stay square. Roof trusses, bracing, survey frameworks — triangulate everything.</li>
@@ -129,7 +140,7 @@
 </figure>
 
 <p><strong>Volume cheat-sheet (post on the workshop wall):</strong> box L×W×H; cylinder πr²h (tanks, kilns, grain bins); cone ⅓πr²h (piles, funnels); sphere 4⁄3πr³ (cisterns, buoys). Price sand, lime, grain, and water by computed volume — lumpy estimates are where suppliers steal.</p>
-<h2 id="ch12_mathematics-124-trigonometry-at-survey-precision">12.4 Trigonometry at Survey Precision</h2>
+<h2 id="ch12_mathematics-124-trigonometry-at-survey-precision"><span class="sec-num">12.4</span> Trigonometry at Survey Precision</h2>
 <p>Once angles become measurable (divided circles, quadrants, theodolites — <a href="ch20.html#ch20_instruments-202-mass-length-force">Ch 20</a> §20.2), sine/cosine/tangent turn angle readings into coordinates:</p>
 <ul>
 <li>Triangulation networks map entire territories from a few measured baselines — how every pre-satellite national map got made.</li>
@@ -137,7 +148,7 @@
 <li>Tables (computed once by hand teams, copied forever) precede calculators; invest in table-making as infrastructure.</li>
 </ul>
 <p><strong>Minimum trig kit:</strong> sin/cos/tan to 1° (hand-computed once, printed in <a href="ch18.html">Ch 18</a> runs); sine rule a/sin A = b/sin B; cosine rule c² = a² + b² − 2ab·cos C; baseline + two angles = full triangle. Survey parties carry the tables in oilcloth — the tables ARE the instrument's second half.</p>
-<h2 id="ch12_mathematics-125-algebra-and-the-equation-habit">12.5 Algebra and the Equation Habit</h2>
+<h2 id="ch12_mathematics-125-algebra-and-the-equation-habit"><span class="sec-num">12.5</span> Algebra and the Equation Habit</h2>
 <p>Algebra is the art of naming unknowns and letting manipulation reveal them:</p>
 <ul>
 <li>Linear equations model mixture, motion-at-constant-speed, and pricing problems.</li>
@@ -176,7 +187,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch12_mathematics-126-probability-and-statistics-the-seed-planted-early">12.6 Probability and Statistics: The Seed Planted Early</h2>
+<h2 id="ch12_mathematics-126-probability-and-statistics-the-seed-planted-early"><span class="sec-num">12.6</span> Probability and Statistics: The Seed Planted Early</h2>
 <p>Full statistics matures in <a href="ch47.html">Ch 47</a>, but plant the axioms here:</p>
 <ol>
 <li>Relative frequency as probability; expected value as decision currency.</li>
@@ -186,7 +197,7 @@
 <p class="co co-dead"><strong>Dead end avoided:</strong> numerology, gematria, and "magic" number mysticism — historically these consumed serious minds (including Pythagoreans') chasing patterns in nothing. Numbers describe; they do not command.</p>
 <p><strong>Sampling drill (granary):</strong> weigh 10 random sacks; harvest ≈ mean sack weight × number of sacks. The uncertainty is the number of sacks × (standard deviation of the 10 weights ÷ √10); double it for a ~95 % range. A clerk who reports "≈ 40 t ± 3" outranks one who reports "about 40" — uncertainty stated IS information delivered.</p>
 <p class="co co-key"><strong>Key threshold:</strong> a bureaucracy fluent in positional arithmetic, geometry, and proportion can plan multi-year projects, audit honestly, and build true — the cognitive infrastructure every subsequent chapter assumes silently.</p>
-<h2 id="ch12_mathematics-127-the-historical-record">12.7 The Historical Record</h2>
+<h2 id="ch12_mathematics-127-the-historical-record"><span class="sec-num">12.7</span> The Historical Record</h2>
 <ul>
 <li><strong>Babylonian base-60 arithmetic:</strong> the tablet YBC 7289 gives √2 as 1;24,51,10 sexagesimally — 1.41421296…, accurate to five decimal places (~1800–1600 BCE). Plimpton 322's column of near-Pythagorean triples is real; whether it is a trig table or a list of reciprocal exercise pairs is an active scholarly argument.</li>
 <li><strong>Rhind Mathematical Papyrus (~1650 BCE,</strong> copied from an older original<strong>)</strong> teaches unit-fraction methods and practical problem sets — Egyptian pedagogy survives as homework.</li>
@@ -194,9 +205,9 @@
 <li><strong>Fibonacci's <em>Liber Abaci</em> (1202)</strong> carried positional numerals into European commerce — adoption lagged another three centuries in places because guilds banned "ciphers" as fraud-friendly; arithmetic literacy fought cultural immune responses everywhere it landed.</li>
 <li><strong>Applied geometry's scoreboard:</strong> Eratosthenes (~240 BCE) computed Earth's circumference from shadow angles at Alexandria and Syene — landing within a few percent of modern values, modulo which stadium length you assume. Surveyors ("rope-stretchers") rebuilt fields after each Nile flood; the same triangulation logic later mapped continents (<a href="ch20.html">Ch 20</a>).</li>
 </ul>
-<h2 id="ch12_mathematics-128-school-sequence-one-room-one-year">12.8 School Sequence (One Room, One Year)</h2>
+<h2 id="ch12_mathematics-128-school-sequence-one-room-one-year"><span class="sec-num">12.8</span> School Sequence (One Room, One Year)</h2>
 <p>Counting + place value → four operations on beads and paper → measures and units → ratio/proportion/percent → 3-4-5 + area/volume → similar triangles in the field → unknowns (linear, then quadratic) → logs + sampling → graphs, rates, and areas (§12.9) for the engineering stream. Graduate by surveying a real plot, auditing a real ledger, and computing a real bill of materials — mathematics that cannot price a granary is decoration.</p>
-<h2 id="ch12_mathematics-129-rates-and-accumulations-the-calculus-habit">12.9 Rates and Accumulations: The Calculus Habit</h2>
+<h2 id="ch12_mathematics-129-rates-and-accumulations-the-calculus-habit"><span class="sec-num">12.9</span> Rates and Accumulations: The Calculus Habit</h2>
 <p>Arithmetic, geometry, and algebra handle quantities that sit still. From <a href="ch20.html">Part III</a> onward, engineering handles quantities that change — speed, flow, heat, charge, population, dose — and needs the two ideas Newton and Leibniz systematised between the 1660s and 1680s.</p>
 <ul>
 <li><strong>Graphs first:</strong> Descartes' coordinate geometry (1637) joins algebra to geometry, so any recorded series — fuel per day, water level per hour — becomes a curve whose shape can be read.</li>
@@ -209,12 +220,12 @@
 <p><strong>Worked miniature:</strong> a tank filled at 2 L/min for 10 minutes and then at 5 L/min for 4 minutes holds 2 × 10 + 5 × 4 = 40 L — the area under its flow graph. For an irregular flow read every minute, the trapezoid rule sums the same area: half the sum of each neighbouring pair of readings, minute by minute.</p>
 <p class="co co-key"><strong>Key threshold:</strong> a surveyor or engineer who can turn a logged series into a rate, a rate into a total, and an exponential into a doubling or half-life time is ready for the physics of <a href="ch20.html">Ch 20</a> §20.10 and every energy ledger after it.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch11.html" class="reader-nav-link">← Chapter 11</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch13.html" class="reader-nav-link">Chapter 13 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch11.html" rel="prev"><span class="pager-dir">← Chapter 11</span><span class="pager-title">Writing, Record Keeping, and Bureaucracy</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch13.html" rel="next"><span class="pager-dir">Chapter 13 →</span><span class="pager-title">Mining and Quarrying</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

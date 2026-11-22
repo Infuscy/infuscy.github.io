@@ -5,22 +5,34 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 41: Fiber Optics and Global Telephony — Fire to Future</title>
 <meta name="description" content="Copper and glass carry different bandwidth-distance-cost regimes. Fibre optic systems moved long-haul communication from scarce and expensive to abundant…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch41.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch40.html">
+<link rel="next" href="ch42.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p5">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 41 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch41_fiber_optics-chapter-41-fiber-optics-and-global-telephony">Chapter 41: Fiber Optics and Global Telephony</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1966 Kao proposal → present · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch17.html">Ch 17</a>, <a href="ch26.html">Ch 26</a>, <a href="ch34.html">Ch 34</a>, <a href="ch35.html">Ch 35</a><br><strong>Unlocks:</strong> <a href="ch42.html">Ch 42</a><br><strong>Data snapshot:</strong> volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part V · Planetary Systems</p>
+<h1 id="ch41_fiber_optics-chapter-41-fiber-optics-and-global-telephony"><span class="chapter-kicker">Chapter 41<span class="visually-hidden">:</span></span> Fiber Optics and Global Telephony</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1966 Kao proposal → present</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="5" aria-hidden="true"></span>high</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch17.html" title="Practical Chemistry I: Lime, Mortar, Glass, Salt, Soap, Alcohol, Distillation">Ch 17</a></li><li><a href="ch26.html" title="Electricity II: Dynamos, Motors, Lighting, Grids">Ch 26</a></li><li><a href="ch34.html" title="Radio, Radar, Television: Vacuum-Tube Electronics">Ch 34</a></li><li><a href="ch35.html" title="Transistors and Integrated Circuits">Ch 35</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch42.html" title="The Internet and Data Centers">Ch 42</a></li></ul></dd></div>
+<div class="spec-data-snapshot"><dt>Data snapshot</dt><dd>volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</dd></div>
+</dl>
 <p>Copper and glass carry different bandwidth-distance-cost regimes. Fibre optic systems moved long-haul communication from scarce and expensive to abundant capacity in many markets, but glass, rights of way, repeaters, landing stations, power, maintenance, and failure recovery still have real costs. This chapter explains the physical utility.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Total internal reflection and loss ladder">
@@ -51,7 +63,7 @@
 <figcaption><strong>Figure 41.1.</strong> The step in refractive index is the pipe; impurity removal is the breakthrough. Kao reframed attenuation as dirt, Corning removed the dirt — four years from calculation to communication-grade glass.</figcaption>
 </figure>
 
-<h2 id="ch41_fiber_optics-411-why-glass">41.1 Why Glass</h2>
+<h2 id="ch41_fiber_optics-411-why-glass"><span class="sec-num">41.1</span> Why Glass</h2>
 <p>Total internal reflection traps light inside a core whose index exceeds its cladding — the principle of optical fiber. But ordinary glass absorbs catastrophically (~dB per METER): every meter steals signal until nothing arrives. Kao &amp; Hockham (1966) computed that IF attenuation fell below ~20 dB/km, communication-grade fiber was possible; impurities (iron, copper ions, water's OH) were the enemy, not physics.</p>
 <p>Corning delivered &lt;20 dB/km in 1970 via vapor-deposition purity; modern transmission fiber runs ~0.15–0.2 dB/km near 1550 nm — half the light survives ~15–20 km. Purity culture (<a href="ch35.html">Ch 35</a>'s discipline applied to silica) is the whole ballgame.</p>
 <div class="table-wrap"><table>
@@ -84,7 +96,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch41_fiber_optics-412-fiber-types">41.2 Fiber Types</h2>
+<h2 id="ch41_fiber_optics-412-fiber-types"><span class="sec-num">41.2</span> Fiber Types</h2>
 <ul>
 <li><strong>Step-index multimode:</strong> fat core, simple/cheap sources, modal dispersion smears pulses over distance — buildings/campus only.</li>
 <li><strong>Graded-index:</strong> parabolic index profile equalizes path speeds — legacy LAN backbone.</li>
@@ -92,7 +104,7 @@
 <li>Windows: 1310 nm (zero dispersion) and 1550 nm (lowest loss) — erbium-doped fiber amplifiers live at 1550.</li>
 </ul>
 <p><strong>Choice rule:</strong> multimode where hands are cheap and runs short (patch, riser); single-mode everywhere else — the price gap vanished while the distance gap never did. Pull single-mode even when lighting multimode today; the glass outlives three electronics generations.</p>
-<h2 id="ch41_fiber_optics-413-sources-and-amplifiers">41.3 Sources and Amplifiers</h2>
+<h2 id="ch41_fiber_optics-413-sources-and-amplifiers"><span class="sec-num">41.3</span> Sources and Amplifiers</h2>
 <ul>
 <li>Laser diodes (edge-emitting, then DFB single-frequency) inject light efficiently into single-mode cores; direct modulation gave way to external modulators at speed.</li>
 <li><strong>EDFA (1987):</strong> pump an erbium-doped fibre section with 980/1480 nm light and it amplifies passing 1550-nm signals optically. Removing regenerative electronics transformed long-haul capacity over subsequent system generations; adoption was not a single overnight event.</li>
@@ -101,7 +113,7 @@
 <pre><code>TRANSMIT: DFB lasers (one color each) → MUX (combine colors) → FIBER → EDFA (optical boost)
    → FIBER → ... → DEMUX (split colors) → RECEIVERS (coherent + DSP)
 </code></pre>
-<h2 id="ch41_fiber_optics-414-submarine-cables">41.4 Submarine Cables</h2>
+<h2 id="ch41_fiber_optics-414-submarine-cables"><span class="sec-num">41.4</span> Submarine Cables</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Submarine cable layers and WDM">
 <title>Submarine cable layers and WDM</title>
@@ -146,7 +158,7 @@
 <li>Cable ships splice repairs at sea; fault location via OTDR backscattering math. Landing stations are chokepoints — route diversity is resilience doctrine (<a href="ch47.html">Ch 47</a>).</li>
 </ul>
 <p><strong>Repair loop:</strong> OTDR locates (meters) → ship grapples → splice spare section on deck → test → re-lay with slack loop. Stock cable + repeaters + trained crew before the fault, not after — mean repair time is measured in weeks of ship scheduling, not hours of splicing.</p>
-<h2 id="ch41_fiber_optics-415-terrestrial-build-out-and-access">41.5 Terrestrial Build-Out and Access</h2>
+<h2 id="ch41_fiber_optics-415-terrestrial-build-out-and-access"><span class="sec-num">41.5</span> Terrestrial Build-Out and Access</h2>
 <p>Backbone rings → metro rings → access. The last mile history: dial-up modems (audio-band cleverness) → DSL (reusing phone copper at MHz) → cable DOCSIS → FTTH (GPON sharing one fiber across 32–128 homes passively). Each generation re-litigated the same economics: construction labor dominates; dig once, pull more fiber later.</p>
 <div class="table-wrap"><table>
 <thead>
@@ -185,7 +197,7 @@
 </tbody>
 </table></div>
 <p><strong>Dig-once doctrine:</strong> trench cost dwarfs glass cost 10:1 — lay ducts with pull-cords and spare microducts every excavation; light only what sells, keep dark fiber for the boom (<a href="ch42.html">Ch 42</a> consumes the glut).</p>
-<h2 id="ch41_fiber_optics-416-telephonys-switching-evolution">41.6 Telephony's Switching Evolution</h2>
+<h2 id="ch41_fiber_optics-416-telephonys-switching-evolution"><span class="sec-num">41.6</span> Telephony's Switching Evolution</h2>
 <p>The circuit side matured in parallel:</p>
 <ul>
 <li><strong>The telephone itself:</strong> Bell's patent (1876), filed the same day as Elisha Gray's caveat (priority is still disputed), started the industry. The carbon-granule transmitter (Edison and Hughes, 1877–78) made voices strong enough for real lines, and the switchboard exchange replaced point-to-point wiring (the first commercial exchange opened in New Haven in 1878). Long distance then needed loading coils to offset line capacitance (Pupin and Campbell, around 1899–1900) and finally vacuum-tube repeaters (<a href="ch34.html">Ch 34</a> §34.2): the first US transcontinental call went through in January 1915. A two-wire line, a battery at the exchange (<a href="ch25.html">Ch 25</a>), and carbon microphones remain the simplest voice network a rebuild can string.</li>
@@ -199,7 +211,7 @@
 </code></pre>
 <p class="co co-dead"><strong>Dead end avoided:</strong> building parallel dedicated networks per service (voice/video/data). Converged IP infrastructure won on economics; plan convergence from the start.</p>
 <p class="co co-scope"><strong>Planning marker:</strong> international bandwidth cost, latency, reliability, local access, and affordability determine whether global collaboration is practical. No single price substitutes for those conditions. The early-2000s fibre overbuild created strategic inventory, but “bargain of the century” is advocacy, not an engineering threshold (<a href="ch42.html">Ch 42</a> inherits the capacity question).</p>
-<h2 id="ch41_fiber_optics-417-the-fiber-papers">41.7 The Fiber Papers</h2>
+<h2 id="ch41_fiber_optics-417-the-fiber-papers"><span class="sec-num">41.7</span> The Fiber Papers</h2>
 <ul>
 <li>Light-guiding-by-water-jet demos trace to Colladon (Geneva, 1840s) with Tyndall's Royal Institution version (1854) making it famous — total internal reflection entertained audiences for a century before communication used it.</li>
 <li>Maiman's ruby laser (Hughes, May 16, 1960) supplied the carrier source; glass remained the bottleneck until <strong>Kao &amp; Hockham's 1966 calculation</strong> reframed attenuation as impurity removal. Corning's team (Maurer, Keck, Schultz) measured ~17 dB/km in titanium-doped silica fiber in August 1970, then pushed lower — the purity-culture chapter promise kept within four years.</li>
@@ -207,16 +219,16 @@
 <li>Submarine maintenance reality, from repair logs: anchors and trawls account for most faults; shark bites are documented but marginal; fault location runs on OTDR backscatter arithmetic (<a href="#ch41_fiber_optics-414-submarine-cables">§41.4</a>).</li>
 <li>Historians of bandwidth note the pattern: each overbuild (fiber glut circa 2001, dark fiber resold cheaply) preceded the next usage explosion — video streaming consumed the glut the bust left behind (<a href="ch42.html">Ch 42</a> inherits the lesson: capacity arrives before demand proves it).</li>
 </ul>
-<h2 id="ch41_fiber_optics-418-splicing-discipline">41.8 Splicing Discipline</h2>
+<h2 id="ch41_fiber_optics-418-splicing-discipline"><span class="sec-num">41.8</span> Splicing Discipline</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> fiber work fires glass shards and arc flash at eyes — cleaved ends pierce skin and migrate, alcohol ignites at the fusion arc, and high-power laser light blinds invisibly. Collect shards in sharps vessels (never fingers), keep alcohol from the arc, wear laser-eye protection matched to wavelength, and cap live ports before inspection.</p>
 <p>Strip → clean (alcohol, lint-free) → cleave (mirror end, &lt;1° angle) → fuse (arc, auto-align cores) → sleeve + test (OTDR + power meter, budget 0.05–0.1 dB/splice single-mode). A dirty cleave costs more decibels than kilometers of glass — cleanliness IS the network.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch40.html" class="reader-nav-link">← Chapter 40</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch42.html" class="reader-nav-link">Chapter 42 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch40.html" rel="prev"><span class="pager-dir">← Chapter 40</span><span class="pager-title">Satellites: Communications, Positioning, Observation</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch42.html" rel="next"><span class="pager-dir">Chapter 42 →</span><span class="pager-title">The Internet and Data Centers</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

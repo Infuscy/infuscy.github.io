@@ -1,184 +1,99 @@
 ---
-layout: page
+layout: null
 title: "Fire to Future"
 lang: en
 description: "Fire to Future: a field manual for rebuilding technology, from reliable fire to a resilient industrial civilization. 51 chapters and 7 appendices, free to read online or as a PDF."
 ---
-
-<style>
-/* ToC styles inline since they're specific to this one page */
-.toc-wrap {
-  padding: 6rem 0 4rem;
-  min-height: 80vh;
-}
-.toc-wrap .container {
-  max-width: 42rem;
-}
-.toc-header {
-  text-align: center;
-  margin-bottom: 2rem;
-}
-.toc-header h1 {
-  font-size: 2rem;
-  font-weight: 800;
-  letter-spacing: -.025em;
-  color: #0f172a;
-  margin: 0 0 .5rem;
-}
-.toc-header p {
-  color: #64748b;
-  font-size: 1rem;
-  margin: 0 0 .25rem;
-}
-.toc-header .toc-sub {
-  font-size: .9rem;
-  color: #64748b;
-  margin-top: .5rem;
-  line-height: 1.5;
-}
-.toc-download {
-  display: inline-block;
-  margin-top: 1.1rem;
-  padding: .6rem 1.4rem;
-  border: 1px solid #2563eb;
-  border-radius: .5rem;
-  color: #2563eb;
-  text-decoration: none;
-  font-weight: 700;
-  font-size: .95rem;
-  transition: background .15s, border-color .15s;
-}
-.toc-download:hover {
-  background: #eff6ff;
-}
-.toc-search {
-  display: block;
-  width: 100%;
-  padding: .75rem 1rem;
-  border: 1px solid #e2e8f0;
-  border-radius: .75rem;
-  font-size: 1rem;
-  font-family: inherit;
-  margin-bottom: 1.5rem;
-  outline: none;
-  transition: border-color .15s, box-shadow .15s;
-}
-.toc-search:focus {
-  border-color: #2563eb;
-  box-shadow: 0 0 0 3px rgba(37,99,235,.1);
-}
-.toc-search::placeholder {
-  color: #64748b;
-}
-.toc-list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.toc-list li {
-  border-bottom: 1px solid #f1f5f9;
-}
-.toc-list li:last-child {
-  border-bottom: 0;
-}
-.toc-list a {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  padding: .65rem .5rem;
-  text-decoration: none;
-  color: #0f172a;
-  border-radius: .375rem;
-  transition: background .1s;
-}
-.toc-list a:hover {
-  background: #f8fafc;
-  color: #2563eb;
-}
-.toc-list .chapter-num {
-  color: #64748b;
-  font-size: .85rem;
-  font-weight: 500;
-  min-width: 2.5rem;
-  text-align: right;
-}
-.toc-list .chapter-title {
-  font-weight: 500;
-  flex: 1;
-  margin-left: .75rem;
-}
-.toc-list .chapter-type {
-  color: #64748b;
-  font-size: .75rem;
-  text-transform: uppercase;
-  letter-spacing: .04em;
-}
-.toc-part-divider {
-  padding: 1rem .5rem .5rem;
-  font-size: .8rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: .05em;
-  color: #2563eb;
-  border-bottom: 1px solid #f1f5f9;
-}
-.toc-empty {
-  text-align: center;
-  color: #64748b;
-  padding: 3rem 0;
-  font-style: italic;
-}
-.toc-note {
-  text-align: center;
-  color: #64748b;
-  font-size: .85rem;
-  margin: 1.5rem auto 0;
-  max-width: 34rem;
-  line-height: 1.5;
-}
-@media (max-width: 600px) {
-  .toc-wrap { padding: 5rem 0 3rem; }
-  .toc-header h1 { font-size: 1.6rem; }
-}
-/* Dark mode: follows the system setting, like the rest of the site. */
-@media (prefers-color-scheme: dark) {
-  .toc-header h1 { color: #f1f5f9; }
-  .toc-header p,
-  .toc-header .toc-sub,
-  .toc-note,
-  .toc-empty,
-  .toc-list .chapter-num,
-  .toc-list .chapter-type { color: #94a3b8; }
-  .toc-search { background: #131c2e; border-color: #27344a; color: #e2e8f0; }
-  .toc-search::placeholder { color: #94a3b8; }
-  .toc-list li,
-  .toc-volume-divider,
-  .toc-part-divider { border-bottom-color: #1e293b; }
-  .toc-list a { color: #e2e8f0; }
-  .toc-list a:hover { background: #131c2e; color: #93c5fd; }
-  .toc-volume-divider,
-  .toc-part-divider { color: #93c5fd; }
-  .toc-disclaimer { background: #131c2e; border-color: #27344a; color: #cbd5e1; }
-  .toc-download { border-color: #60a5fa; color: #93c5fd; }
-  .toc-download:hover { background: #172554; }
-}
-</style>
-
-<div class="toc-wrap">
-  <div class="container">
-    <div class="toc-header">
-      <h1>Fire to Future</h1>
-      <p>A Field Manual for Rebuilding Technology — from reliable fire to resilient industrial civilization</p>
-      <p class="toc-sub">51 chapters · 7 appendices · ~141,000 words · core path chapters 1–47, optional defense annex 48–51 · hazardous procedures gated behind trained, supervised competence</p>
-      <a class="toc-download" href="/fire-to-future/Fire-To-Future.pdf" download>Download PDF (8.1 MB)</a>
-    </div>
-
-    <input type="text" class="toc-search" id="tocSearch" aria-label="Search chapters by title or number" placeholder="Search chapters by title or number…">
-
-    <ul class="toc-list" id="tocList"></ul>
-    <p class="toc-empty" id="tocEmpty" style="display:none">No chapters match your search.</p>
+{%- comment -%}
+  Cover and contents of the web edition. Hand-written; its styles are the shared
+  /fire-to-future/reader.css, written by scripts/build_fire_to_future.py (edit the CSS
+  constant there). The list comes from _data/fire_to_future_chapters.json, which the
+  same script writes; js/fire-to-future-toc.js only filters it.
+{%- endcomment -%}
+{%- assign chapters = site.data.fire_to_future_chapters -%}
+{%- assign n_chapters = chapters | where: "type", "chapter" | size -%}
+{%- assign n_appendices = chapters | where: "type", "appendix" | size -%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#0b1526">
+<title>{{ page.title }}</title>
+<meta name="description" content="{{ page.description }}">
+<meta name="author" content="{{ site.meta_author }}">
+<link rel="canonical" href="{{ site.url }}/fire-to-future/">
+<link rel="icon" href="/img/profile.png">
+<link rel="apple-touch-icon" href="/img/profile.png">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }} — RSS" href="{{ site.url }}/feed.xml">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:type" content="book">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:url" content="{{ site.url }}/fire-to-future/">
+<meta property="og:image" content="{{ site.url }}/img/social-card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.description }}">
+<meta name="twitter:image" content="{{ site.url }}/img/social-card.png">
+<link rel="stylesheet" href="/fire-to-future/reader.css">
+<script src="/js/fire-to-future-toc.js" defer></script>
+</head>
+<body class="cover-page">
+<a class="skip-link" href="#contents">Skip to the contents</a>
+<header class="reader-top-bar cover-top">
+  <a class="reader-back" href="/">← Febuse</a>
+</header>
+<div class="cover">
+  <div class="cover-inner">
+    <svg class="cover-emblem" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M10.09 3L10.61 0.68L13.39 0.68L13.91 3L17.01 4.28L19.02 3.02L20.98 4.98L19.72 6.99L21 10.09L23.32 10.61L23.32 13.39L21 13.91L19.72 17.01L20.98 19.02L19.02 20.98L17.01 19.72L13.91 21L13.39 23.32L10.61 23.32L10.09 21L6.99 19.72L4.98 20.98L3.02 19.02L4.28 17.01L3 13.91L0.68 13.39L0.68 10.61L3 10.09L4.28 6.99L3.02 4.98L4.98 3.02L6.99 4.28ZM19 12A7 7 0 1 0 5 12A7 7 0 1 0 19 12ZM12 6.2C13.6 8.5 16 10.3 16 13.8A4 4 0 0 1 8 13.8C8 12 8.9 10.8 10 9.9C10 11.2 10.6 12.1 11.5 12.5C11 10.5 11.2 8.2 12 6.2Z"/></svg>
+    <p class="cover-kicker">A Field Manual for Rebuilding Technology</p>
+    <h1>Fire to Future</h1>
+    <p class="cover-sub">From reliable fire to resilient industrial civilization</p>
+    <p class="cover-facts">{{ n_chapters }} chapters · {{ n_appendices }} appendices · ~141,000 words</p>
+    <p class="cover-actions"><a class="btn-begin" href="/fire-to-future/front-matter.html">Begin reading</a> <a class="btn-pdf" href="/fire-to-future/Fire-To-Future.pdf" download>Download PDF · 8.1 MB</a></p>
   </div>
 </div>
+<main id="contents" class="contents">
+  <div class="cover-about">
+    <p>A dependency-aware field manual for moving from reliable fire to a resilient industrial civilization. It teaches what to build, how to verify it, what can fail, and what institutional capability the work requires. Historical pathways are evidence and context—not a universal critical path.</p>
+    <p>The core path is chapters 1–47; chapters 48–51 are an optional defense annex. <strong>Hazardous procedures are gated behind trained, supervised competence.</strong></p>
+  </div>
 
-<script src="/fire-to-future/chapters.js"></script>
-<script src="/js/fire-to-future-toc.js"></script>
+  <h2 class="contents-title">Contents</h2>
+  <input type="search" class="toc-search" id="tocSearch" aria-label="Search chapters by title, number or part" placeholder="Search chapters by title, number or part…">
+  <div id="tocList">
+{%- assign last = "" -%}
+{%- for ch in chapters -%}
+  {%- if ch.part != last -%}
+    {%- unless forloop.first %}
+    </ol>
+  </section>
+    {%- endunless -%}
+    {%- assign bits = ch.part | split: " — " %}
+  <section class="toc-group" data-part="{{ ch.part_key }}" aria-labelledby="part-{{ ch.part_key }}">
+    <h3 class="toc-group-head" id="part-{{ ch.part_key }}">{% if bits.size > 1 %}<span class="toc-group-label">{{ bits[0] }}</span> <span class="toc-group-name">{{ bits[1] }}</span>{% else %}<span class="toc-group-name">{{ bits[0] }}</span>{% endif %}</h3>
+    {%- if ch.part_desc != "" %}
+    <p class="toc-group-desc">{{ ch.part_desc | xml_escape }}</p>
+    {%- endif %}
+    <ol class="toc-rows">
+    {%- assign last = ch.part -%}
+  {%- endif %}
+      <li><a class="toc-row" href="/fire-to-future/{{ ch.file }}"><span class="toc-num">{{ ch.num }}</span><span class="toc-title">{{ ch.title | xml_escape }}</span><span class="toc-time">{{ ch.minutes }} min</span></a></li>
+  {%- if forloop.last %}
+    </ol>
+  </section>
+  {%- endif -%}
+{%- endfor %}
+  </div>
+  <p class="toc-empty" id="tocEmpty" hidden>No chapters match your search.</p>
+</main>
+<footer class="toc-foot"><a href="/">Febuse</a> · <a href="/privacy/">Privacy</a></footer>
+</body>
+</html>

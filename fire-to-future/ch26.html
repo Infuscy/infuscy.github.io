@@ -5,22 +5,33 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 26: Electricity II: Dynamos, Motors, Lighting, Grids — Fire to Future</title>
 <meta name="description" content="Part III's climax: converting mechanical power into the universal currency of electricity and distributing it. The physics is all Faraday/Maxwell (Ch 25); this…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch26.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch25.html">
+<link rel="next" href="ch27.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p3">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 26 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch26_electricity_2-chapter-26-electricity-ii-dynamos-motors-lighting-grids">Chapter 26: Electricity II: Dynamos, Motors, Lighting, Grids</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1866 self-excitation → 1900 AC grids · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch22.html">Ch 22</a>, <a href="ch23.html">Ch 23</a>, <a href="ch25.html">Ch 25</a><br><strong>Unlocks:</strong> <a href="ch34.html">Ch 34</a>, <a href="ch38.html">Ch 38</a>, <a href="ch41.html">Ch 41</a>, <a href="ch42.html">Ch 42</a>, <a href="ch43.html">Ch 43</a></p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part III · The Acceleration</p>
+<h1 id="ch26_electricity_2-chapter-26-electricity-ii-dynamos-motors-lighting-grids"><span class="chapter-kicker">Chapter 26<span class="visually-hidden">:</span></span> Electricity II: Dynamos, Motors, Lighting, Grids</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1866 self-excitation → 1900 AC grids</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="5" aria-hidden="true"></span>high</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch22.html" title="Coke Smelting and Cheap Iron">Ch 22</a></li><li><a href="ch23.html" title="Steam Engines Done Right">Ch 23</a></li><li><a href="ch25.html" title="Electricity I: Charge, Batteries, Electromagnetism, Telegraph">Ch 25</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch34.html" title="Radio, Radar, Television: Vacuum-Tube Electronics">Ch 34</a></li><li><a href="ch38.html" title="Polymers and Advanced Materials">Ch 38</a></li><li><a href="ch41.html" title="Fiber Optics and Global Telephony">Ch 41</a></li><li><a href="ch42.html" title="The Internet and Data Centers">Ch 42</a></li><li><a href="ch43.html" title="Energy Mastery: Solar, Wind, Grid Storage, Fusion">Ch 43</a></li></ul></dd></div>
+</dl>
 <p>Part III's climax: converting mechanical power into the universal currency of electricity and distributing it. The physics is all Faraday/Maxwell (<a href="ch25.html">Ch 25</a>); this chapter is engineering scale-up — and one decisive architecture fight (AC vs DC) that you can win in advance.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 212" width="100%" role="img" aria-label="Self-exciting dynamo loop">
@@ -48,7 +59,7 @@
 <figcaption><strong>Figure 26.1.</strong> Feed a whisper of output back into the field coils and residual magnetism avalanches into full excitation — no permanent magnets needed. Every percent of efficiency after is fuel money forever.</figcaption>
 </figure>
 
-<h2 id="ch26_electricity_2-261-generators-dynamos">26.1 Generators (Dynamos)</h2>
+<h2 id="ch26_electricity_2-261-generators-dynamos"><span class="sec-num">26.1</span> Generators (Dynamos)</h2>
 <p>A coil rotating in a magnetic field induces EMF; commutator rectifies to DC pulses, slip rings pass AC through.</p>
 <ul>
 <li><strong>Field magnets:</strong> permanent → electromagnets. <strong>Self-excitation (Siemens/Wheatstone, 1866–67):</strong> feed generator output back to its own field coils using residual magnetism as seed — dynamos bootstrap from zero field. THE enabling trick.</li>
@@ -85,14 +96,14 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch26_electricity_2-262-arc-and-incandescent-lighting">26.2 Arc and Incandescent Lighting</h2>
+<h2 id="ch26_electricity_2-262-arc-and-incandescent-lighting"><span class="sec-num">26.2</span> Arc and Incandescent Lighting</h2>
 <ul>
 <li><strong>Arc lamps:</strong> carbon rods strike an arc (~3,500 °C plasma) — blindingly bright, maintenance-heavy; perfect for streets/halls, useless for homes.</li>
 <li><strong>Incandescent (Edison/Swan, 1879):</strong> high-resistance carbon filament glowing ~1,700 °C in vacuum (vacuum pumps from <a href="ch20.html">Ch 20</a> prevent burnout). Edison's SYSTEM insight outranks the lamp: high-resistance lamps allow PARALLEL circuits on economical copper — low-resistance arc-era thinking demanded series strings that died together.</li>
 <li>Economics rule discovered here, governing everything after: <strong>copper costs vs line losses.</strong> Doubling distribution voltage quarters I²R loss for same power — voltage is how you buy copper savings.</li>
 </ul>
 <p><strong>Filament program (Menlo Park pattern):</strong> test thousands of candidates (carbonised cotton thread first, then carbonised bamboo), log hours-to-failure per batch, pump to high vacuum (Edison's lamps reached roughly a millionth of an atmosphere), seal while hot. The lamp is 10% glassware, 90% quality statistics — the laboratory, not the bulb, was Edison's invention (<a href="ch47.html">Ch 47</a>).</p>
-<h2 id="ch26_electricity_2-263-the-grid-begins">26.3 The Grid Begins</h2>
+<h2 id="ch26_electricity_2-263-the-grid-begins"><span class="sec-num">26.3</span> The Grid Begins</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> grids kill through arc flash, step and touch voltage, stored charge, induced voltage, and backfeed. De-energisation is a procedure: identify all sources, isolate, lock/tag, prove dead with a correctly rated tester, apply approved protective grounds where the hazard assessment requires them, and maintain boundaries. A “dead” line may re-energise. Only qualified electrical workers may perform this work; the historical one-hand convention is not a substitute for rated equipment and an approved method.</p>
 <p>Pearl Street Station (1882): steam engine + Jumbo dynamos serving ~60 customers within a kilometer — DC's radius limit made visible. Every district needed its own plant (<strong>Dead end avoided:</strong> don't build the dense DC-megaplant future; it dies against transformer arithmetic below).</p>
 <figure class="fig">
@@ -129,7 +140,7 @@
 <figcaption><strong>Figure 26.2.</strong> Iron cores coupling two windings move power across voltage levels at ~98% efficiency with no moving parts. High voltage buys thin copper and far reach; three-phase buys constant power and self-starting motors.</figcaption>
 </figure>
 
-<h2 id="ch26_electricity_2-264-transformers-make-ac-win">26.4 Transformers Make AC Win</h2>
+<h2 id="ch26_electricity_2-264-transformers-make-ac-win"><span class="sec-num">26.4</span> Transformers Make AC Win</h2>
 <p>Faraday induction in its industrial form: iron core coupling primary/secondary windings transforms voltage up/down at ~98 %+ efficiency with NO moving parts.</p>
 <ul>
 <li>Step UP at generation → transmit at high voltage (10–100 kV) → step DOWN for use. Line loss arithmetic beats nostalgia; long-distance transmission becomes trivial.</li>
@@ -167,7 +178,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch26_electricity_2-265-system-engineering">26.5 System Engineering</h2>
+<h2 id="ch26_electricity_2-265-system-engineering"><span class="sec-num">26.5</span> System Engineering</h2>
 <ul>
 <li><strong>Frequency standardize:</strong> 50 or 60 Hz, ONE value nationwide (mixed frequencies were a decades-long tax).</li>
 <li><strong>Synchronization:</strong> paralleling alternators requires matched frequency/phase/voltage — synchroscopes check before breakers close.</li>
@@ -176,7 +187,7 @@
 <li><strong>Load management:</strong> diverse loads (day factories, evening lighting) flatten the demand curve; smaller peak capacity = cheaper grid.</li>
 </ul>
 <p><strong>Paralleling checklist (before every breaker close):</strong> same frequency (±0.1 Hz) → same phase sequence → voltages within 5 % → synchroscope creeping SLOW toward 12 o'clock → close at the mark. Wrong-phase paralleling shears shafts — the scope is cheaper than the coupling.</p>
-<h2 id="ch26_electricity_2-266-electrifications-cascade">26.6 Electrification's Cascade</h2>
+<h2 id="ch26_electricity_2-266-electrifications-cascade"><span class="sec-num">26.6</span> Electrification's Cascade</h2>
 <p>Cheap ubiquitous electricity re-prices everything downstream:</p>
 <div class="table-wrap"><table>
 <thead>
@@ -210,7 +221,7 @@
 </table></div>
 <p class="co co-key"><strong>Key threshold:</strong> when electricity costs less than ~the labor it displaces per task, adoption becomes automatic. Drive price down relentlessly — efficiency (<a href="#ch26_electricity_2-261-generators-dynamos">§26.1</a>), load factor, and fuel logistics (<a href="ch22.html">Ch 22</a>, later <a href="ch43.html">Ch 43</a>) are the three levers.</p>
 <p class="co co-jump"><strong>Jump:</strong> the compressed route for this Part runs battery → telegraph → dynamo → transformer → polyphase grid, skipping electrostatic parlor era, DC mega-grid dead end, and single-phase confusion entirely. Part III ends with the modern world's power socket installed; Part IV plugs everything into it.</p>
-<h2 id="ch26_electricity_2-267-the-grid-papers">26.7 The Grid Papers</h2>
+<h2 id="ch26_electricity_2-267-the-grid-papers"><span class="sec-num">26.7</span> The Grid Papers</h2>
 <ul>
 <li>Zénobe Gramme — a Belgian cabinetmaker working in Paris — built the commercially practical ring-armature dynamo (shown 1869–71); Siemens' self-exciting design (1866–67) supplied the bootstrap field principle. Industrial dynamos diffused through electroplating shops FIRST (plating paid before lighting did) — niche markets funding general technologies.</li>
 <li><strong>Edison's Menlo Park operation (1876 onward)</strong> invented the industrial research lab as an institution: teams, systematic materials testing (thousands of filament samples logged), patents filed in batches. The light bulb was a product; the LABORATORY was the invention (<a href="ch47.html">Ch 47</a>'s R&amp;D institutionalization).</li>
@@ -219,9 +230,9 @@
 <li><strong>Lauffen–Frankfurt (1891)</strong> transmitted three-phase power ~175 km at tens of kV for the electrical exhibition — the demonstration that settled polyphase transmission publicly; European practice consolidated near 50 Hz and American near 60 Hz by the early 1900s (frequency standardization was gradual, regional, and utility-by-utility).</li>
 <li>Metering closed the business case: Shallenberger's induction meter (1888) turned electricity into billable units — honest measurement making private grids financeable (<a href="ch47.html">Ch 47</a>'s metrology-governance link, again).</li>
 </ul>
-<h2 id="ch26_electricity_2-268-first-grid-greenfield-town">26.8 First Grid (Greenfield Town)</h2>
+<h2 id="ch26_electricity_2-268-first-grid-greenfield-town"><span class="sec-num">26.8</span> First Grid (Greenfield Town)</h2>
 <p>Dynamo hall beside steam (<a href="ch23.html">Ch 23</a> — piston engines first, turbines once the machine shop can build them, §23.8) or a water turbine where the site allows (<a href="ch43.html">Ch 43</a> §43.9) → step-up → one trunk feeder at distribution voltage → step-down kiosks per street → meters per customer (<a href="ch47.html">Ch 47</a> billing) → plating shop + mill motors as anchor loads (they pay the coal bill while homes connect). One frequency, one voltage family, one earthing scheme everywhere — expand by paralleling, never by second standards.</p>
-<h2 id="ch26_electricity_2-269-storage-batteries-lead-acid-and-charge-discipline">26.9 Storage Batteries: Lead-Acid and Charge Discipline</h2>
+<h2 id="ch26_electricity_2-269-storage-batteries-lead-acid-and-charge-discipline"><span class="sec-num">26.9</span> Storage Batteries: Lead-Acid and Charge Discipline</h2>
 <p><a href="ch25.html">Ch 25</a> §25.2 previewed the rechargeable cell; telegraph offices, early DC grids, engine starters (<a href="ch29.html">Ch 29</a> §29.3), and off-grid systems (<a href="ch43.html">Ch 43</a> §43.11) need it in quantity. The battery-room warning in §25.2 governs everything below.</p>
 <ul>
 <li><strong>Lead-acid (Planté, 1859; Faure's pasted plates, 1881):</strong> lead and lead-dioxide plates in dilute sulfuric acid, about 2.0 V per cell. On discharge both plates turn to lead sulfate and the acid weakens; charging reverses it. Cheap, robust, and almost entirely recyclable — the lead goes back to the smelter (<a href="ch10.html">Ch 10</a> §10.8) — but heavy (around 0.1 MJ/kg, <a href="ch29.html">Ch 29</a> §29.6).</li>
@@ -231,12 +242,12 @@
 <li><strong>Banks:</strong> strings in series add voltage; parallel strings share load only if matched in age and type. Fuse every string at the battery, and keep battery rooms separate from sparks, flames, and sleeping quarters.</li>
 </ul>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch25.html" class="reader-nav-link">← Chapter 25</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch27.html" class="reader-nav-link">Chapter 27 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch25.html" rel="prev"><span class="pager-dir">← Chapter 25</span><span class="pager-title">Electricity I: Charge, Batteries, Electromagnetism, Telegraph</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch27.html" rel="next"><span class="pager-dir">Chapter 27 →</span><span class="pager-title">Steel at Scale and Reinforced Concrete</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

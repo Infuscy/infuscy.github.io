@@ -5,22 +5,33 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 29: Internal Combustion: Cars, Tractors, Ships — Fire to Future</title>
 <meta name="description" content="Internal combustion burns fuel INSIDE the working cylinder — no boiler, no coal pile, power density steam could never touch. This chapter builds the engine…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch29.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch28.html">
+<link rel="next" href="ch30.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p4">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 29 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch29_combustion-chapter-29-internal-combustion-cars-tractors-ships">Chapter 29: Internal Combustion: Cars, Tractors, Ships</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1876 Otto → mid-20th c. · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch27.html">Ch 27</a>, <a href="ch28.html">Ch 28</a><br><strong>Unlocks:</strong> <a href="ch32.html">Ch 32</a>, <a href="ch33.html">Ch 33</a>, <a href="ch39.html">Ch 39</a></p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part IV · The Modern Stack</p>
+<h1 id="ch29_combustion-chapter-29-internal-combustion-cars-tractors-ships"><span class="chapter-kicker">Chapter 29<span class="visually-hidden">:</span></span> Internal Combustion: Cars, Tractors, Ships</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1876 Otto → mid-20th c.</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="5" aria-hidden="true"></span>high</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch15.html" title="Mechanical Primitives: Wheel, Axle, Screw, Gear, Bearing">Ch 15</a></li><li><a href="ch27.html" title="Steel at Scale and Reinforced Concrete">Ch 27</a></li><li><a href="ch28.html" title="Petroleum: Drilling, Refining, Cracking">Ch 28</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch32.html" title="Feeding Billions: Haber-Bosch, Breeding, Mechanized Farming">Ch 32</a></li><li><a href="ch33.html" title="Flight: From Gliders to Jets">Ch 33</a></li><li><a href="ch39.html" title="Rocketry and Access to Orbit">Ch 39</a></li></ul></dd></div>
+</dl>
 <p>Internal combustion burns fuel INSIDE the working cylinder — no boiler, no coal pile, power density steam could never touch. This chapter builds the engine family and the vehicles that industrialized ground transport.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Otto four-stroke cycle">
@@ -83,7 +94,7 @@
 <figcaption><strong>Figure 29.1.</strong> The four-stroke bargain: three strokes consume work to make the fourth possible. Flywheel and multi-cylinder phasing smooth the pulses; valve timing is the assembly discipline that decides whether it runs at all.</figcaption>
 </figure>
 
-<h2 id="ch29_combustion-291-the-otto-four-stroke-cycle">29.1 The Otto Four-Stroke Cycle</h2>
+<h2 id="ch29_combustion-291-the-otto-four-stroke-cycle"><span class="sec-num">29.1</span> The Otto Four-Stroke Cycle</h2>
 <p>Intake (fuel+air drawn in) → compression (work invested) → POWER (ignition, expansion does work) → exhaust. Four strokes, one power stroke — the torque pulses smooth out across multiple cylinders.</p>
 <ul>
 <li>Compression ratio (total cylinder volume ÷ clearance volume) drives thermal efficiency: η ≈ 1 − r^(1−γ). Raising r from 4:1 to 12:1 lifts ideal efficiency from ~43 % to ~63 %, roughly a 1.5× gain — but knock (premature fuel self-ignition) caps it, which is why octane (<a href="ch28.html">Ch 28</a>) is an engine technology, not just a refinery metric.</li>
@@ -120,7 +131,7 @@
 </figure>
 
 <p><strong>Tuning rules:</strong> mixture slightly rich for starting and full load (cooling + power), stoichiometric for cruise, lean misfires if overdone; spark advanced with speed, retarded for starting (kickback breaks arms — retard at crank); the cooling system must reject roughly as much heat as the shaft delivers, and the exhaust carries about as much again (size the radiator accordingly; fit a thermostat). An engine that starts easily, idles steadily, and pulls without pinking under load is tuned; chase nothing exotic before those three hold.</p>
-<h2 id="ch29_combustion-292-the-diesel-divergence">29.2 The Diesel Divergence</h2>
+<h2 id="ch29_combustion-292-the-diesel-divergence"><span class="sec-num">29.2</span> The Diesel Divergence</h2>
 <p>Diesel's insight: compress AIR alone to ~14–22:1; injected fuel self-ignites on contact with ~550 °C compressed air. No ignition system, higher compression = higher efficiency (~40 %+ vs Otto's ~25–30 % of the era), heavy fuels acceptable. The engineering fight was injection precision — air-blast injection worked but demanded compressors; solid (jerk-pump) injection (plunger pumps with helix-metering) made diesels practical everywhere from trucks to ships.</p>
 <div class="table-wrap"><table>
 <thead>
@@ -165,7 +176,7 @@
 </table></div>
 <p>Marine slow-speed two-strokes run at ~100 rpm on residual oil, exceed 50 % efficiency, and power most of the merchant fleet that carries 80–90 % of world trade by volume (<a href="ch24.html">Ch 24</a> §24.5).</p>
 <p><strong>Injection discipline:</strong> fuel filtered to microns, pump timing to crank-degrees, nozzles popping at 150–300 bar with clean spray cones. Most "bad diesel" is dirty fuel, air in lines, or cold-start abuse — bleed, heat, and filter before rebuilding.</p>
-<h2 id="ch29_combustion-293-the-automobile-system">29.3 The Automobile System</h2>
+<h2 id="ch29_combustion-293-the-automobile-system"><span class="sec-num">29.3</span> The Automobile System</h2>
 <p>A car is a SYSTEM around its engine:</p>
 <ul>
 <li><strong>Clutch + gearbox:</strong> engine idles narrow; wheels need torque from zero. Disengage/shift/re-engage; gear ratios trade speed for torque (<a href="ch15.html">Ch 15</a> lever logic in rotary form).</li>
@@ -180,7 +191,7 @@
         for shifts  reverse            (outer wheel faster)
 </code></pre>
 <p><strong>Gear logic in one line:</strong> low gear multiplies torque for starting hills; high gear trades torque for speed once rolling. Final-drive ratio sets the compromise — trucks short, cars tall. Teach drivers: slipping the clutch burns lining (smell = money), lugging in high gear hammers bearings, over-revving in low floats valves.</p>
-<h2 id="ch29_combustion-294-mass-production">29.4 Mass Production</h2>
+<h2 id="ch29_combustion-294-mass-production"><span class="sec-num">29.4</span> Mass Production</h2>
 <p>Ford's moving assembly line (1913): chassis towed past stations; each worker performs ONE task repeatedly. Chassis time fell 12.5 h → ~93 min; Model T price $850 → $260. The deeper principles:</p>
 <ol>
 <li>Interchangeable parts demand measurement discipline (<a href="ch20.html">Ch 20</a>) — gauges, not eyeballs.</li>
@@ -188,7 +199,7 @@
 <li>Standardize ruthlessly, THEN improve continuously (the Toyota refinement comes decades later — build the feedback habit immediately).</li>
 </ol>
 <p><strong>Line-layout rules:</strong> parts arrive at point-of-use (no fetching walks), each station's work ≤ takt time (available minutes ÷ units wanted), go/no-go gauges at every fit, andon cord (any worker stops the line for defects — cheap now, ruinous later). Inventory between stations is the visible form of distrust in the process; shrink it deliberately.</p>
-<h2 id="ch29_combustion-295-tractors-and-farm-mechanization">29.5 Tractors and Farm Mechanization</h2>
+<h2 id="ch29_combustion-295-tractors-and-farm-mechanization"><span class="sec-num">29.5</span> Tractors and Farm Mechanization</h2>
 <p>The tractor is arguably the ICE's greatest humanitarian application:</p>
 <ul>
 <li>One driver + 30–50 hp replaces a dozen horses AND frees the cropland that fed them (about a quarter of US cropland grew horse and mule feed in 1910–1920; <a href="ch08.html">Ch 8</a> §8.3) — land returns to food production directly.</li>
@@ -227,13 +238,13 @@
 </tbody>
 </table></div>
 <p><strong>PTO safety (non-negotiable):</strong> shielded shafts, no loose clothing, disengage before mounting implements, chock and brake on slopes. The same machine that feeds a district can wrap a sleeve in a second — guards are not optional trim.</p>
-<h2 id="ch29_combustion-296-doctrine-and-dead-ends">29.6 Doctrine and Dead Ends</h2>
+<h2 id="ch29_combustion-296-doctrine-and-dead-ends"><span class="sec-num">29.6</span> Doctrine and Dead Ends</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> liquid fuels and hot engines burn crews, shops, and barns together — vapor flashes at arm's length, crankcase backfires throw flame, and running engines poison closed sheds with CO. Fuel and test only ventilated and grounded, keep extinguishers and kill switches at hand, never crank on ether near sparks, and shut down on any fuel leak.</p>
 <p class="co co-dead"><strong>Dead end avoided:</strong> steam cars and early electric roadcars lost to arithmetic — energy density (gasoline ~45 MJ/kg vs lead-acid batteries ~0.1) and refill minutes vs recharge hours. Note honestly: battery physics changed by <a href="ch43.html">Ch 43</a>; the lesson is "revisit losing designs when their limiting constant changes," not "electric forever wrong."</p>
 <p>Also avoided: over-valve-count exotic engines, rotary (Wankel) mass adoption, air-cooled complexity creep for mainstream fleets — maintenance networks punish cleverness that shops can't service.</p>
 <p class="co co-key"><strong>Key threshold:</strong> when one farm worker can feed 20 or more people (the pre-industrial rows in <a href="ch07.html">Ch 7</a> §7.7 run from ~2 to ~10), labor floods into factories — the demographic pivot that powers every remaining chapter.</p>
 <p><strong>Fleet doctrine:</strong> standardize one engine family per fleet (parts interchange), stock consumables (plugs, points, filters, belts, gaskets) before stocking engines, train mechanics on diagnosis order — fuel → spark → compression → timing — because guessing order wastes parts. Log fuel per hour per machine; a 15 % consumption rise is the earliest overhaul signal.</p>
-<h2 id="ch29_combustion-297-the-engine-record">29.7 The Engine Record</h2>
+<h2 id="ch29_combustion-297-the-engine-record"><span class="sec-num">29.7</span> The Engine Record</h2>
 <ul>
 <li>Étienne Lenoir's commercial gas engine (1860) sold hundreds despite ~4 % efficiency — first mover advantage without thermodynamic polish; Otto &amp; Langen's free-piston atmospheric machine (1867) won prizes on fuel economy and funded the real breakthrough.</li>
 <li><strong>The Otto patent collapse:</strong> Alphonse Beau de Rochas had theorized the four-stroke sequence in an 1862 French patent without building anything; German courts voided Otto's key claims (1886) citing it. Competition exploded immediately — Daimler and Maybach, who had left Otto's own firm in 1882, built hot-tube-ignition high-speed engines from 1883. Prior-art patents matter; so does what teams build while protection lasts.</li>
@@ -242,7 +253,7 @@
 <li><strong>The Selden patent cartel:</strong> George Selden held a broad 1879-filed "road engine" patent enforced by the ALAM licensing combine; Henry Ford fought it, lost the first ruling, then won outright (Second Circuit, January 1911 — the court held Selden's claims covered Brayton-cycle engines, not Otto-cycle cars). Documented patent-thicket warfare ending in open competition; the automobile market boomed once licensing rent disappeared.</li>
 <li>Toyota's postwar production system (Taiichi Ohno; supermarket-inspired replenishment logic observed in America) turned Ford's line inside-out — pull instead of push, inventory as liability. Cross-reference <a href="ch47.html">Ch 47</a>'s statistics discipline: kanban IS measurement infrastructure.</li>
 </ul>
-<h2 id="ch29_combustion-298-when-petroleum-is-scarce-producer-gas-alcohol-plant-oils-and-synthetic-fuels">29.8 When Petroleum Is Scarce: Producer Gas, Alcohol, Plant Oils, and Synthetic Fuels</h2>
+<h2 id="ch29_combustion-298-when-petroleum-is-scarce-producer-gas-alcohol-plant-oils-and-synthetic-fuels"><span class="sec-num">29.8</span> When Petroleum Is Scarce: Producer Gas, Alcohol, Plant Oils, and Synthetic Fuels</h2>
 <p>A rebuild may have engines — salvaged or newly built — long before it has oil fields and refineries (<a href="ch28.html">Ch 28</a>), and the shallow, easy oil that the first industrial age tapped may simply be gone (<a href="appendix-d.html">Appendix D</a> §D.6). Four substitutes have kept real fleets running through real shortages.</p>
 <p class="co co-warn"><strong>Safety warning:</strong> producer gas is mostly carbon monoxide, hydrogen, and nitrogen — odourless, poisonous, and explosive — and gasifiers have killed operators in garages, cabs, and sheds. Run, light, and service gasifiers only outdoors or in strongly ventilated spaces, purge them as the builder's procedure specifies, never sleep or idle an engine near one indoors, keep CO alarms where people work, and treat headache or dizziness as gas poisoning (<a href="ch01.html">Ch 1</a> §1.10). Alcohol fuels burn with a nearly invisible flame in daylight; keep extinguishers at refuelling points.</p>
 <ul>
@@ -253,12 +264,12 @@
 </ul>
 <p class="co co-scope"><strong>Planning marker:</strong> none of these matches petroleum's convenience; each is a bridge that keeps tractors, pumps, boats, and generators working while drilling, refining, or electrification (<a href="ch43.html">Ch 43</a>) catches up. Before converting a fleet, size the fuel supply — woodlot, crop area, or coal — per engine-hour, using the coppice arithmetic of <a href="ch01.html">Ch 1</a> §1.8 for gasifier wood.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch28.html" class="reader-nav-link">← Chapter 28</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch30.html" class="reader-nav-link">Chapter 30 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch28.html" rel="prev"><span class="pager-dir">← Chapter 28</span><span class="pager-title">Petroleum: Drilling, Refining, Cracking</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch30.html" rel="next"><span class="pager-dir">Chapter 30 →</span><span class="pager-title">Germ Theory, Sanitation, and Water Treatment</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

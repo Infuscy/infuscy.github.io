@@ -5,22 +5,33 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 34: Radio, Radar, Television: Vacuum-Tube Electronics — Fire to Future</title>
 <meta name="description" content="Electronics begins when engineers stop merely carrying power and start SHAPING signals. Vacuum tubes — electrons boiling off heated cathodes, commanded by…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch34.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch33.html">
+<link rel="next" href="ch35.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p4">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 34 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch34_vacuum_tubes-chapter-34-radio-radar-television-vacuum-tube-electronics">Chapter 34: Radio, Radar, Television: Vacuum-Tube Electronics</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1887 Hertz → 1950s · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch17.html">Ch 17</a>, <a href="ch25.html">Ch 25</a>, <a href="ch26.html">Ch 26</a><br><strong>Unlocks:</strong> <a href="ch35.html">Ch 35</a>, <a href="ch40.html">Ch 40</a>, <a href="ch41.html">Ch 41</a>, <a href="ch50.html">Ch 50</a></p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part IV · The Modern Stack</p>
+<h1 id="ch34_vacuum_tubes-chapter-34-radio-radar-television-vacuum-tube-electronics"><span class="chapter-kicker">Chapter 34<span class="visually-hidden">:</span></span> Radio, Radar, Television: Vacuum-Tube Electronics</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1887 Hertz → 1950s</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="5" aria-hidden="true"></span>high</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch17.html" title="Practical Chemistry I: Lime, Mortar, Glass, Salt, Soap, Alcohol, Distillation">Ch 17</a></li><li><a href="ch25.html" title="Electricity I: Charge, Batteries, Electromagnetism, Telegraph">Ch 25</a></li><li><a href="ch26.html" title="Electricity II: Dynamos, Motors, Lighting, Grids">Ch 26</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch35.html" title="Transistors and Integrated Circuits">Ch 35</a></li><li><a href="ch40.html" title="Satellites: Communications, Positioning, Observation">Ch 40</a></li><li><a href="ch41.html" title="Fiber Optics and Global Telephony">Ch 41</a></li><li><a href="ch50.html" title="Naval Power: Galleys to Missile Age">Ch 50</a></li></ul></dd></div>
+</dl>
 <p>Electronics begins when engineers stop merely carrying power and start SHAPING signals. Vacuum tubes — electrons boiling off heated cathodes, commanded by grids — provided the first controllable amplification and switching, building every concept semiconductors later inherited: gain, oscillation, modulation, logic.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 215" width="100%" role="img" aria-label="Diode versus triode schematic">
@@ -54,11 +65,11 @@
 <figcaption><strong>Figure 34.1.</strong> Heat boils electrons off the cathode; the plate collects them. The diode passes current one way (rectifier). The triode's grid — a whisper of voltage — throttles a torrent of plate current: amplification, oscillation, switching all follow.</figcaption>
 </figure>
 
-<h2 id="ch34_vacuum_tubes-341-waves-proven">34.1 Waves Proven</h2>
+<h2 id="ch34_vacuum_tubes-341-waves-proven"><span class="sec-num">34.1</span> Waves Proven</h2>
 <p>Maxwell's equations predicted electromagnetic waves (<a href="ch25.html">Ch 25</a>); Hertz generated and detected spark-gap radio waves (1887) — reflection, refraction, polarization all demonstrated with brass gaps and loops. Marconi's contribution was ENGINEERING: taller antennas, grounded circuits, coherer receivers refined into commercial ship-to-shore service; 1901 transatlantic signal (over skeptics' horizon-curve objections — the ionosphere, unknown, was bouncing it).</p>
 <p><strong>Historical starter station:</strong> spark gap or arc transmitter (kilowatts, broadband — dirty but audible), elevated wire antenna (~λ/4 against ground radials), coherer or crystal detector + headphones. Range scales with antenna height and power; reliability scales with frequency discipline — log every contact (time, band, conditions) and the ionosphere teaches itself seasonally.</p>
 <p class="co co-gate"><strong>Competence gate:</strong> a spark transmitter radiates across a wide band and jams other receivers within range, which is why international radio regulation phased spark out from the late 1920s in favour of narrow-band continuous-wave transmitters. Any transmitter needs an assigned frequency and power limit, under the applicable licence or, where no regulator operates, a coordinated frequency plan. Its high-voltage supply, antenna work, and RF exposure are qualified electrical work (see <a href="#ch34_vacuum_tubes-348-workshop-sequence">§34.8</a>).</p>
-<h2 id="ch34_vacuum_tubes-342-the-triode-electronics-exists">34.2 The Triode: Electronics Exists</h2>
+<h2 id="ch34_vacuum_tubes-342-the-triode-electronics-exists"><span class="sec-num">34.2</span> The Triode: Electronics Exists</h2>
 <ul>
 <li>Fleming diode (1904): hot cathode boils electrons toward plate; current flows ONE way — rectification.</li>
 <li>De Forest audion triode (1906): a wire GRID between cathode and plate commands plate current with tiny grid-voltage changes — VOLTAGE AMPLIFICATION. Cascade stages multiply gains into thousands.</li>
@@ -108,7 +119,7 @@
 </tbody>
 </table></div>
 <p><strong>Filament discipline:</strong> under-run heaters slightly for 2× life; ventilate (each tube is a small stove); stock spares by measured failure rate (ENIAC's lesson: thousands of tubes ÷ per-tube MTBF = a replacement every day or two — schedule them, don't mourn them). Shock-mount mobile sets; cathode poisoning from standby-without-plate-current kills emission silently.</p>
-<h2 id="ch34_vacuum_tubes-343-modulation-imposing-information-on-carriers">34.3 Modulation: Imposing Information on Carriers</h2>
+<h2 id="ch34_vacuum_tubes-343-modulation-imposing-information-on-carriers"><span class="sec-num">34.3</span> Modulation: Imposing Information on Carriers</h2>
 <ul>
 <li><strong>AM:</strong> carrier amplitude follows audio — simple, noise-prone (lightning sounds like news).</li>
 <li><strong>FM (Armstrong, 1933):</strong> frequency deviation carries the signal; amplitude noise clipped away — static-free, high-fidelity. The physics-vs-industry fight over FM bandwidth is a case study in regulatory capture; build your spectrum policy honestly.</li>
@@ -147,7 +158,7 @@
 <figcaption><strong>Figure 34.2.</strong> AM varies carrier amplitude; FM varies instantaneous frequency, shown here by changing wave spacing. Both trade bandwidth and receiver design for different noise and capture behaviour. The superheterodyne converts every station to a common intermediate frequency for shared gain and filtering.</figcaption>
 </figure>
 
-<h2 id="ch34_vacuum_tubes-344-radar">34.4 Radar</h2>
+<h2 id="ch34_vacuum_tubes-344-radar"><span class="sec-num">34.4</span> Radar</h2>
 <p>Radio echoes measure distance (range = c·Δt/2). Chain Home (1938) crude but decisive; the cavity magnetron (1940, Birmingham) — resonant copper cavities kicking electron spokes into microwave pulses of kilowatts — miniaturized radar onto aircraft. Tizard Mission handed the magnetron to America: arguably history's highest-value technology transfer.</p>
 <div class="table-wrap"><table>
 <thead>
@@ -182,11 +193,11 @@
 </table></div>
 <p><strong>Range arithmetic:</strong> pulse round-trip Δt gives range R = c·Δt/2 (~150 m per microsecond). Pulse length sets resolution (short = fine, weak); repetition rate sets max unambiguous range. Duplexer lets one antenna transmit megawatts and receive picowatts milliseconds later — the switch that made single-dish radar possible.</p>
 <p>Applications beyond war: air traffic control, weather observation (precipitation echoes), navigation beacons, marine safety. Radar engineering seeded postwar electronics talent AND microwave infrastructure (terrestrial relay links, then the satellite transponders of <a href="ch40.html">Ch 40</a>).</p>
-<h2 id="ch34_vacuum_tubes-345-television">34.5 Television</h2>
+<h2 id="ch34_vacuum_tubes-345-television"><span class="sec-num">34.5</span> Television</h2>
 <p>Mechanical disk TV (Baird) died on resolution (<strong>Dead end avoided</strong>); electronic television won via camera tubes (iconoscope/image orthicon — photoemission scanned by electron beams) + CRT display (electron gun painting raster lines on phosphor). Standards bodies locked 525/625-line interlaced systems with compatible color added 1953–67 (NTSC/PAL/SECAM) — compatibility doctrine: new standards must serve old receivers or adoption stalls.</p>
 <p>Broadcasting's social weight deserves stating: synchronized national audiences, advertising-funded content economics, emergency broadcast capability — media infrastructure as governance layer (<a href="ch47.html">Ch 47</a>).</p>
 <p><strong>Scanning in one paragraph:</strong> camera tube stores a charge image; an electron beam scans it line by line (525 or 625 lines, 25/30 frames, interlaced odd/even to halve flicker); the current varies with brightness; the receiver's gun repaints phosphor in lockstep (sync pulses). Color adds three sub-signals (or sequential fields) inside the same timing so monochrome sets still show grey — compatibility as engineering constraint, not courtesy.</p>
-<h2 id="ch34_vacuum_tubes-346-tubes-limits-semiconductor-handoff">34.6 Tubes' Limits → Semiconductor Handoff</h2>
+<h2 id="ch34_vacuum_tubes-346-tubes-limits-semiconductor-handoff"><span class="sec-num">34.6</span> Tubes' Limits → Semiconductor Handoff</h2>
 <p>Tubes consume filament power, cook themselves, fail statistically (ENIAC's ~17,500 tubes failed at several a week even with derated heaters; MTBF arithmetic dominated maintenance planning), and miniaturize poorly. Yet they established EVERY circuit concept: amplifiers, oscillators, mixers, gates, flip-flops, delay-line memory (<a href="ch36.html">Ch 36</a>).</p>
 <p class="co co-jump"><strong>Jump:</strong> treat vacuum-tube CONSUMER products as skippable scaffolding IF semiconductor-grade silicon purification exists (<a href="ch35.html">Ch 35</a>); keep tubes only where high-power/high-frequency niches still favor them (magnetrons in ovens/radar, high-power broadcast). What is NOT skippable: the circuit-design knowledge this chapter encodes — transistors inherit schematics, not just replace bottles.</p>
 <div class="table-wrap"><table>
@@ -221,7 +232,7 @@
 </tbody>
 </table></div>
 <p class="co co-key"><strong>Key threshold:</strong> reliable amplification available to any workshop converts electricity from energy utility into INFORMATION medium — the pivot this whole Part IV ladder has been climbing toward.</p>
-<h2 id="ch34_vacuum_tubes-347-the-electronics-record">34.7 The Electronics Record</h2>
+<h2 id="ch34_vacuum_tubes-347-the-electronics-record"><span class="sec-num">34.7</span> The Electronics Record</h2>
 <ul>
 <li>Marconi's Signal Hill reception (December 12, 1901) contradicted respectable physics on Earth's curvature; Kennelly and Heaviside independently proposed the conducting upper layer within months (1902) — practice outrunning theory so hard that theory had to invent the ionosphere to catch up.</li>
 <li><strong>Titanic (April 15, 1912):</strong> Marconi operators Phillips and Bride transmitted distress to Carpathia's rescue; nearby Californian's single operator had gone to bed. The Radio Act (1912) mandated 24-hour watches, secondary-power backups, and frequency separation afterward — regulation written in lifeboat arithmetic (<a href="ch47.html">Ch 47</a>).</li>
@@ -229,17 +240,17 @@
 <li><strong>Superheterodyne origin:</strong> Armstrong developed it in WWI Paris as a signals officer chasing down enemy receivers — military R&amp;D before radar made it famous (<a href="ch51.html">Ch 51</a>'s pattern again).</li>
 <li><strong>The magnetron handover:</strong> Randall and Boot's resonant cavity magnetron (Birmingham, February 1940) gave about 400 W at 9.8 cm on its first run, far beyond any other source at that wavelength; GEC's sealed, pulsed version reached about 10 kW, and the Tizard Mission carried one to America that September. Official US historian James Phinney Baxter III called it "the most valuable cargo ever brought to our shores" — microwave radar, then postwar microwave engineering, descends from that suitcase.</li>
 </ul>
-<h2 id="ch34_vacuum_tubes-348-workshop-sequence">34.8 Workshop Sequence</h2>
+<h2 id="ch34_vacuum_tubes-348-workshop-sequence"><span class="sec-num">34.8</span> Workshop Sequence</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> tube and transmitter benches can retain lethal charge after switch-off; filter capacitors, CRT supplies, magnetron systems, and RF power create shock, arc, fire, and radiation hazards. De-energisation, lockout, verification with a correctly rated meter, discharge verification, bonding, interlocks, shielding, and emergency procedures are qualified-electrical work. The historical “one hand behind the back” convention is not a safe working method.</p>
 <p>Crystal set first (no power, teaches resonance) → one-tube regenerative (amplification + oscillation in one bottle) → superhet with IF strip (selectivity) → push-pull audio (power) → VHF/FM + dipole farm (clean signals) → magnetron-grade microwaves only with machine-shop + high-voltage discipline. Log every station heard; the logbook is a propagation textbook written by your own antenna.</p>
 <p>Build the test bench alongside the radios: a multimeter for voltage, current, and resistance; a signal generator; and an oscilloscope, the cathode-ray descendant of Braun's 1897 tube (§34.5), which draws a signal's waveform so that a fault can be seen rather than guessed. Calibrate them against the standards room (<a href="ch20.html">Ch 20</a> §20.9) like any other instrument.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch33.html" class="reader-nav-link">← Chapter 33</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch35.html" class="reader-nav-link">Chapter 35 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch33.html" rel="prev"><span class="pager-dir">← Chapter 33</span><span class="pager-title">Flight: From Gliders to Jets</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch35.html" rel="next"><span class="pager-dir">Chapter 35 →</span><span class="pager-title">Transistors and Integrated Circuits</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

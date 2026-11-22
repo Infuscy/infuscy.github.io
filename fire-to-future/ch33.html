@@ -5,22 +5,33 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 33: Flight: From Gliders to Jets — Fire to Future</title>
 <meta name="description" content="Heavier-than-air flight is a systems triumph: aerodynamics + structures + propulsion + CONTROL converging. The Wright brothers' genius was treating it as…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch33.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch32.html">
+<link rel="next" href="ch34.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p4">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 33 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch33_flight-chapter-33-flight-from-gliders-to-jets">Chapter 33: Flight: From Gliders to Jets</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1853 Cayley gliders → 1960s jets · <strong>Difficulty:</strong> extreme<br><strong>Requires:</strong> <a href="ch20.html">Ch 20</a>, <a href="ch27.html">Ch 27</a>, <a href="ch29.html">Ch 29</a><br><strong>Unlocks:</strong> <a href="ch39.html">Ch 39</a></p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part IV · The Modern Stack</p>
+<h1 id="ch33_flight-chapter-33-flight-from-gliders-to-jets"><span class="chapter-kicker">Chapter 33<span class="visually-hidden">:</span></span> Flight: From Gliders to Jets</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1853 Cayley gliders → 1960s jets</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="6" aria-hidden="true"></span>extreme</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch20.html" title="Precision Instruments and the Scientific Method">Ch 20</a></li><li><a href="ch27.html" title="Steel at Scale and Reinforced Concrete">Ch 27</a></li><li><a href="ch29.html" title="Internal Combustion: Cars, Tractors, Ships">Ch 29</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch39.html" title="Rocketry and Access to Orbit">Ch 39</a></li></ul></dd></div>
+</dl>
 <p>Heavier-than-air flight is a systems triumph: aerodynamics + structures + propulsion + CONTROL converging. The Wright brothers' genius was treating it as engineering iteration, not inspiration — this chapter follows their method.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 214" width="100%" role="img" aria-label="Four forces and airfoil section">
@@ -59,7 +70,7 @@
 <figcaption><strong>Figure 33.1.</strong> Left: the bargain — lift must equal weight, thrust must equal drag, continuously. Right: camber turns speed into suction above the wing. Exceed the critical angle and the smooth flow lets go — that cliff edge is the stall every pilot trains for.</figcaption>
 </figure>
 
-<h2 id="ch33_flight-331-aerodynamics-you-need">33.1 Aerodynamics You Need</h2>
+<h2 id="ch33_flight-331-aerodynamics-you-need"><span class="sec-num">33.1</span> Aerodynamics You Need</h2>
 <p>Four forces: lift ∝ ρ·v²·S·C_L (air density, speed², wing area, lift coefficient); drag splits into parasite (∝v²) and induced (price of lift, high at low speeds); weight; thrust. Key concepts:</p>
 <ul>
 <li><strong>Angle of attack</strong> drives C_L up to stall (~15° typical), where flow separates and lift collapses. Stall management = flight safety foundation.</li>
@@ -103,7 +114,7 @@
 </tbody>
 </table></div>
 <p><strong>Wright wind-tunnel method (copy it):</strong> 6-foot tunnel, fan-driven, two balances measuring lift and drag on 200+ miniature airfoils at many angles. When Lilienthal's published tables disagreed with their gliders, they trusted their own tunnel — built in weeks from bicycle parts. Every later claim in this chapter traces to that habit: measure, don't argue.</p>
-<h2 id="ch33_flight-332-control-the-real-invention">33.2 Control: The Real Invention</h2>
+<h2 id="ch33_flight-332-control-the-real-invention"><span class="sec-num">33.2</span> Control: The Real Invention</h2>
 <p>History's glider builders could fly downhill; nobody could TURN under power without falling. Three-axis control:</p>
 <ul>
 <li><strong>Roll</strong> (ailerons/wing-warping), <strong>pitch</strong> (elevator), <strong>yaw</strong> (rudder) — coordinated turns need all three (banked lift provides turn force; rudder counters adverse yaw).</li>
@@ -153,7 +164,7 @@
 </figure>
 
 <p><strong>Training order (Wright pattern):</strong> glides first (unpowered, low, over sand), powered straights second, coordinated turns third, engine-out glides always. Control authority must exceed gusts: size tail and ailerons for the worst landing crosswind, not the cruise brochure.</p>
-<h2 id="ch33_flight-333-propulsion-under-weight-budget">33.3 Propulsion Under Weight Budget</h2>
+<h2 id="ch33_flight-333-propulsion-under-weight-budget"><span class="sec-num">33.3</span> Propulsion Under Weight Budget</h2>
 <p>The Wrights couldn't buy a suitable engine; their mechanic built one (~12 hp, aluminum crankcase, ~80 kg). Design doctrine: power-to-weight rules aviation forever. Propellers are rotating wings — the Wrights discovered theirs needed airfoil theory too (their 1903 props hit ~70 %+ efficiency, decades ahead of convention).</p>
 <div class="table-wrap"><table>
 <thead>
@@ -196,7 +207,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch33_flight-334-progression-milestones">33.4 Progression Milestones</h2>
+<h2 id="ch33_flight-334-progression-milestones"><span class="sec-num">33.4</span> Progression Milestones</h2>
 <p>Human flight began with buoyancy, not wings. A Montgolfier hot-air balloon carried Pilâtre de Rozier and the Marquis d'Arlandes over Paris in November 1783, and Charles's hydrogen balloon followed within days; balloons served military observation (Fleurus, 1794) and upper-air weather science, and Zeppelin's rigid airships (from 1900) carried passengers until the <em>Hindenburg</em> fire (1937) ended hydrogen airships. A tethered hot-air or hydrogen balloon is still the cheapest raised observation platform once fabric and a fuel or gas supply exist — with hydrogen's flammability as its standing hazard. Heavier-than-air flight, below, is the harder and more useful path:</p>
 <div class="table-wrap"><table>
 <thead>
@@ -240,7 +251,7 @@
 </tbody>
 </table></div>
 <p><strong>Structures lesson:</strong> external bracing wires cost drag; cantilever wings cost weight but buy speed. Retractable gear, flush rivets, and cowled engines each bought ~10–20 knots — cruise efficiency is accumulated detail, not one breakthrough.</p>
-<h2 id="ch33_flight-335-jets">33.5 Jets</h2>
+<h2 id="ch33_flight-335-jets"><span class="sec-num">33.5</span> Jets</h2>
 <p>Whittle (patent 1930, engine run 1937) and von Ohain (He 178, 1939): compress air, burn fuel continuously, expand through turbine driving compressor, exhaust at speed. Turbojet thrust scales with mass flow × Δvelocity:</p>
 <ul>
 <li>Axial compressors (many stages) beat centrifugal for large engines; turbine metallurgy (nickel superalloys surviving red-hot) is the binding constraint — <a href="ch27.html">Ch 27</a>/<a href="ch38.html">38</a> investment pays here.</li>
@@ -251,13 +262,13 @@
    → TURBINE (extracts compressor power) → NOZZLE (fast jet = thrust)
         └─ TURBOFAN: big slow fan around core moves 10× air gently = quiet + thrifty
 </code></pre>
-<h2 id="ch33_flight-336-helicopters">33.6 Helicopters</h2>
+<h2 id="ch33_flight-336-helicopters"><span class="sec-num">33.6</span> Helicopters</h2>
 <p>Rotary wings solve vertical flight with hard problems. In forward flight, the advancing blade moves faster than the retreating blade, producing <strong>dissymmetry of lift</strong>, which would roll a rigid rotor toward the retreating side. Flapping hinges (or flexible hubs) let the advancing blade rise and the retreating blade fall, equalising lift across the disc; feathering hinges change blade pitch, and cyclic pitch tilts the disc to control the aircraft. Retreating-blade stall still caps forward speed. A tail rotor counteracts the fuselage torque of a single main rotor. Autogyros and the Sikorsky VS-300 helped mature distinct rotor concepts; neither eliminates the underlying aerodynamic and structural problems.</p>
-<h2 id="ch33_flight-337-supersonic-and-systems">33.7 Supersonic and Systems</h2>
+<h2 id="ch33_flight-337-supersonic-and-systems"><span class="sec-num">33.7</span> Supersonic and Systems</h2>
 <p>Bell X-1 broke Mach 1 (1947) once transonic drag rise was understood; Whitcomb's area rule (pinch the fuselage where wings add cross-section) cut wave drag. Supersonic cruise stays niche (Concorde: magnificent, unprofitable — <strong>Dead end avoided as business model:</strong> speed sells only when time-value exceeds fuel-bill arithmetic).</p>
 <p>Aviation safety SYSTEM: accident investigation feeding mandatory design changes, ATC separation services, instrument landing, crew resource management (cockpit hierarchy flattened after "captain-is-god" crashes), flight recorders. Result: fatal-accident rates fell ~100× from 1950s levels while traffic multiplied — one of the strongest safety records in heavy industry, and a governance template (<a href="ch47.html">Ch 47</a>).</p>
 <p class="co co-key"><strong>Key threshold:</strong> scheduled service where flying costs less than rail per passenger-km marks aviation crossing from luxury to infrastructure — watch jet fuel price and load factors; they set that crossover.</p>
-<h2 id="ch33_flight-338-the-flight-record">33.8 The Flight Record</h2>
+<h2 id="ch33_flight-338-the-flight-record"><span class="sec-num">33.8</span> The Flight Record</h2>
 <ul>
 <li>Cayley engraved his fixed-wing concept on a silver disc (1799: lift/propulsion separated on one face, forces on the other) — conceptual priority preserved on a coin-sized artifact now in the Science Museum.</li>
 <li><strong>The 1853 coachman glider</strong> rests on a decades-later granddaughter's recollection; historians treat it cautiously while crediting Cayley's published principles absolutely.</li>
@@ -267,16 +278,16 @@
 <li><strong>Comet forensics:</strong> after three hull losses (1954), the RAE salvaged fuselages from Mediterranean seafloors and pressure-cycled a complete water-tank test article — the test fuselage failed after about 3,060 pressurisation cycles (roughly 9,000 flying hours' equivalent), cracking from the corner of a window cut-out. Fail-safe design doctrine and full-scale fatigue testing were written into airworthiness rules because of this investigation.</li>
 <li><strong>X-1:</strong> Chuck Yeager broke Mach 1 October 14, 1947, over Muroc, in <em>Glamorous Glennis</em>, with two broken ribs from a riding accident kept off his commanders' medical log. Whitcomb's area rule then reshaped fuselages (YF-102 failing drag estimates → redesigned F-102A passing supersonically).</li>
 </ul>
-<h2 id="ch33_flight-339-airstrip-doctrine">33.9 Airstrip Doctrine</h2>
+<h2 id="ch33_flight-339-airstrip-doctrine"><span class="sec-num">33.9</span> Airstrip Doctrine</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> flight testing kills test pilots first—stalls spin at low altitude, engines quit after takeoff, and overloaded airframes break up in gusts. Aircraft design, construction, maintenance, and test flying require qualified aerospace personnel, approved procedures, calculated load and structural limits, emergency planning, and trained recovery/fire support. The field notes below explain risk categories; they are not permission to build or fly an unapproved aircraft.</p>
 <p>Level 300–500 m of rolled grass flies early airplanes; drainage matters more than pavement. Windsock, tie-downs, fuel filtered twice, and a repair shed with fabric, dope, spruce, and piano wire precede any hangar palace. Survey from the air from week one — even a glider with a camera maps plant disease, floods, and ore stains (<a href="ch13.html">Ch 13</a>) better than ground parties.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch32.html" class="reader-nav-link">← Chapter 32</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch34.html" class="reader-nav-link">Chapter 34 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch32.html" rel="prev"><span class="pager-dir">← Chapter 32</span><span class="pager-title">Feeding Billions: Haber-Bosch, Breeding, Mechanized Farming</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch34.html" rel="next"><span class="pager-dir">Chapter 34 →</span><span class="pager-title">Radio, Radar, Television: Vacuum-Tube Electronics</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

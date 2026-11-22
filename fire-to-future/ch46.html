@@ -5,22 +5,34 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 46: Machine Intelligence — Fire to Future</title>
 <meta name="description" content="Machine learning is statistics grown muscular: fitting flexible functions to data at scale. Demystified, its power remains enormous — and its limits…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch46.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch45.html">
+<link rel="next" href="ch47.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p5">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 46 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch46_machine_intelligence-chapter-46-machine-intelligence">Chapter 46: Machine Intelligence</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1958 perceptron → present · <strong>Difficulty:</strong> extreme<br><strong>Requires:</strong> <a href="ch12.html">Ch 12</a>, <a href="ch35.html">Ch 35</a>, <a href="ch42.html">Ch 42</a><br><strong>Unlocks:</strong> <a href="ch47.html">Ch 47</a><br><strong>Data snapshot:</strong> volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part V · Planetary Systems</p>
+<h1 id="ch46_machine_intelligence-chapter-46-machine-intelligence"><span class="chapter-kicker">Chapter 46<span class="visually-hidden">:</span></span> Machine Intelligence</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1958 perceptron → present</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="6" aria-hidden="true"></span>extreme</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch12.html" title="Numbers, Geometry, and Practical Mathematics">Ch 12</a></li><li><a href="ch35.html" title="Transistors and Integrated Circuits">Ch 35</a></li><li><a href="ch42.html" title="The Internet and Data Centers">Ch 42</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch47.html" title="The Invisible Machine: Institutions, Law, Finance, Logistics, Statistics">Ch 47</a></li></ul></dd></div>
+<div class="spec-data-snapshot"><dt>Data snapshot</dt><dd>volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</dd></div>
+</dl>
 <p>Machine learning is statistics grown muscular: fitting flexible functions to data at scale. Demystified, its power remains enormous — and its limits (hallucination, bias amplification, brittleness) are engineering facts to design around, not mysteries.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 190" width="100%" role="img" aria-label="Learning arc from perceptron to transformer">
@@ -66,7 +78,7 @@
 <figcaption><strong>Figure 46.1.</strong> Each thaw needed all three: algorithms (backprop, attention), hardware (GPUs, fabs), data (ImageNet, web scale). Single-ingredient theories of progress keep failing; the triple coincidence keeps paying.</figcaption>
 </figure>
 
-<h2 id="ch46_machine_intelligence-461-the-learning-arc">46.1 The Learning Arc</h2>
+<h2 id="ch46_machine_intelligence-461-the-learning-arc"><span class="sec-num">46.1</span> The Learning Arc</h2>
 <ul>
 <li>Perceptron (1958): a tunable weight layer learns classifications; Minsky/Papert prove single layers can't do XOR → funding winter (lesson: capability claims outrunning math invite corrections).</li>
 <li>Backpropagation popularized (1986): gradient descent through layered networks trains multi-layer models — the algorithmic unlock.</li>
@@ -115,7 +127,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch46_machine_intelligence-462-what-learning-actually-is">46.2 What Learning Actually Is</h2>
+<h2 id="ch46_machine_intelligence-462-what-learning-actually-is"><span class="sec-num">46.2</span> What Learning Actually Is</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Train validate deploy loop with failure guards">
 <title>Train validate deploy loop with failure guards</title>
@@ -161,7 +173,7 @@
 <li>RLHF-style alignment training shapes model behavior toward human preferences after base training — capability and behavior are separately tuned dials.</li>
 </ol>
 <p><strong>Evaluation doctrine:</strong> held-out sets never touched in training, leakage audits (near-duplicates count as cheating), per-domain scorecards (aggregate means hide the failing specialty), human-verified samples for consequential outputs. A benchmark that becomes a target stops measuring (<a href="ch47.html">Ch 47</a> Goodhart) — rotate and re-blind regularly.</p>
-<h2 id="ch46_machine_intelligence-463-proven-wins">46.3 Proven Wins</h2>
+<h2 id="ch46_machine_intelligence-463-proven-wins"><span class="sec-num">46.3</span> Proven Wins</h2>
 <ul>
 <li><strong>AlphaGo/AlphaZero:</strong> superhuman game play via self-play reinforcement — search + learned intuition.</li>
 <li><strong>AlphaFold:</strong> protein structure prediction solved-ish (50-year grand challenge) — structural biology accelerated by years-decades; drug targets arrive pre-computed.</li>
@@ -199,7 +211,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch46_machine_intelligence-464-failure-modes-engineering-facts">46.4 Failure Modes (Engineering Facts)</h2>
+<h2 id="ch46_machine_intelligence-464-failure-modes-engineering-facts"><span class="sec-num">46.4</span> Failure Modes (Engineering Facts)</h2>
 <ol>
 <li><strong>Hallucination/confabulation:</strong> fluent falsehoods generated with confidence — retrieval grounding, citation requirements, human verification for consequential outputs.</li>
 <li><strong>Bias inheritance:</strong> training data's prejudices amplify silently — audits, representative data, outcome monitoring.</li>
@@ -244,20 +256,20 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch46_machine_intelligence-465-compute-economics-and-governance">46.5 Compute Economics and Governance</h2>
+<h2 id="ch46_machine_intelligence-465-compute-economics-and-governance"><span class="sec-num">46.5</span> Compute Economics and Governance</h2>
 <ul>
 <li>Frontier training runs cost $M→$B; inference optimization (quantization, distillation, caching) determines deployment economics — the fab race (<a href="ch35.html">Ch 35</a>) now doubles as strategic policy (export controls treat chips like oil once was).</li>
 <li>Governance snapshots: risk-tiered regulation (EU AI Act pattern), safety institutes evaluating frontier models, liability allocation debates unresolved. Engineering stance: measurable evaluations, incident reporting norms, red-teaming as standard practice — aviation's post-mortem culture (<a href="ch33.html">Ch 33</a>) ported to software intelligence.</li>
 </ul>
 <p><strong>Deployment arithmetic:</strong> training cost ÷ lifetime inferences + serving watts (<a href="ch43.html">Ch 43</a>) = per-answer price. Distill/quantize/cache till the price clears the domain's wage comparison (<a href="ch45.html">Ch 45</a> $/hr logic, now per decision). Chips as strategy: fabs, power, and talent are the oil fields of this curve (<a href="ch51.html">Ch 51</a> pattern recurring).</p>
-<h2 id="ch46_machine_intelligence-466-the-honest-uncertainty-section">46.6 The Honest Uncertainty Section</h2>
+<h2 id="ch46_machine_intelligence-466-the-honest-uncertainty-section"><span class="sec-num">46.6</span> The Honest Uncertainty Section</h2>
 <p>Trajectory debates are genuinely open: ceiling heights, timeline distributions, alignment difficulty all contested among experts. Planning stance for this book:</p>
 <ul>
 <li>Treat AI as a powerful amplifier whose exact ceiling is unknown — build institutions that benefit from strong-but-bounded systems while remaining robust to stronger ones.</li>
 <li>Possible feedback loops among model design, chips, data centres, funding, and scientific use could accelerate progress, but the size and timing of such loops are uncertain. Physical fabs, energy, data, institutions, and regulation remain independent constraints.</li>
 </ul>
 <p class="co co-key"><strong>Capability gate:</strong> adopt AI domain by domain. Define a domain-specific task, baseline, error cost, human escalation, monitoring, and reliability target. AI can accelerate adoption when those conditions are met; aggregate forecasts about “AGI” do not substitute for measured performance.</p>
-<h2 id="ch46_machine_intelligence-467-the-machine-intelligence-papers">46.7 The Machine-Intelligence Papers</h2>
+<h2 id="ch46_machine_intelligence-467-the-machine-intelligence-papers"><span class="sec-num">46.7</span> The Machine-Intelligence Papers</h2>
 <ul>
 <li>McCulloch &amp; Pitts modeled neurons as logic gates (1943); McCarthy coined "artificial intelligence" at Dartmouth (summer 1956). The New York Times reported the perceptron (1958) as an embryo machine expected to "walk, talk, see, write, reproduce itself" — hype cycles have primary sources.</li>
 <li>Minsky &amp; Papert's <em>Perceptrons</em> (1969) proved single-layer limits (XOR) and chilled neural-network funding; the Lighthill Report (1973) and DARPA cuts then brought the first broad AI winter of the mid-1970s. Expert systems boomed in the 1980s, and their late-1980s collapse brought the second: MYCIN matched expert physicians on bacterial meningitis studies yet never entered clinics (liability/regulatory friction — capability ≠ adoption); DEC's XCON configurer demonstrably saved $25M+/year, proving deployment where ROI was mechanical.</li>
@@ -266,15 +278,15 @@
 <li>AlphaGo's move 37 (game 2 vs Lee Sedol, March 2016): policy network assigned a human probability of ~1/10,000 — a documented moment where machine valuation visibly diverged from centuries of professional intuition. AlphaZero generalized via pure self-play; <strong>AlphaFold2 (CASP14, 2020)</strong> reached median backbone accuracy ~92 GDT — atom-level structure prediction for most targets, converting a 50-year problem into a web service.</li>
 <li>Transformers ("Attention Is All You Need," 2017) scaled predictably enough to become infrastructure; GPT-3's 175B parameters (2020) demonstrated few-shot behavior; ChatGPT (November 30, 2022) reportedly crossed ~100M users in two months (third-party estimate) — adoption speed itself became a policy input. The EU's AI Act (adopted 2024) tiered regulation by risk class; export controls turned advanced chips into strategic goods (<a href="ch51.html">Ch 51</a>'s resource-politics pattern recurring around computation).</li>
 </ul>
-<h2 id="ch46_machine_intelligence-468-domain-scorecard-run-quarterly">46.8 Domain Scorecard (Run Quarterly)</h2>
+<h2 id="ch46_machine_intelligence-468-domain-scorecard-run-quarterly"><span class="sec-num">46.8</span> Domain Scorecard (Run Quarterly)</h2>
 <p>Per domain (code, triage, dispatch, inspection, drafting): reliability vs verified baseline → error cost × volume → wage comparison → adopt / assist / hold. Aggregate AGI forecasts excluded from the meeting — domains decide, prophecies observe from the hallway.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch45.html" class="reader-nav-link">← Chapter 45</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch47.html" class="reader-nav-link">Chapter 47 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch45.html" rel="prev"><span class="pager-dir">← Chapter 45</span><span class="pager-title">Automation and Robotics</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch47.html" rel="next"><span class="pager-dir">Chapter 47 →</span><span class="pager-title">The Invisible Machine: Institutions, Law, Finance, Logistics, Statistics</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

@@ -5,22 +5,33 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 25: Electricity I: Charge, Batteries, Electromagnetism, Telegraph — Fire to Future</title>
 <meta name="description" content="This chapter builds electricity as a LABORATORY discipline: store it (capacitors), generate it continuously (batteries), measure it (instruments), command it…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch25.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch24.html">
+<link rel="next" href="ch26.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p3">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 25 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch25_electricity_1-chapter-25-electricity-i-charge-batteries-electromagnetism-telegraph">Chapter 25: Electricity I: Charge, Batteries, Electromagnetism, Telegraph</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1745 Leyden jar → 1866 transatlantic cable · <strong>Difficulty:</strong> mid–high<br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch17.html">Ch 17</a>, <a href="ch20.html">Ch 20</a><br><strong>Unlocks:</strong> <a href="ch26.html">Ch 26</a>, <a href="ch34.html">Ch 34</a></p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part III · The Acceleration</p>
+<h1 id="ch25_electricity_1-chapter-25-electricity-i-charge-batteries-electromagnetism-telegraph"><span class="chapter-kicker">Chapter 25<span class="visually-hidden">:</span></span> Electricity I: Charge, Batteries, Electromagnetism, Telegraph</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1745 Leyden jar → 1866 transatlantic cable</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="4" aria-hidden="true"></span>mid–high</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch15.html" title="Mechanical Primitives: Wheel, Axle, Screw, Gear, Bearing">Ch 15</a></li><li><a href="ch17.html" title="Practical Chemistry I: Lime, Mortar, Glass, Salt, Soap, Alcohol, Distillation">Ch 17</a></li><li><a href="ch20.html" title="Precision Instruments and the Scientific Method">Ch 20</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch26.html" title="Electricity II: Dynamos, Motors, Lighting, Grids">Ch 26</a></li><li><a href="ch34.html" title="Radio, Radar, Television: Vacuum-Tube Electronics">Ch 34</a></li></ul></dd></div>
+</dl>
 <p>This chapter builds electricity as a LABORATORY discipline: store it (capacitors), generate it continuously (batteries), measure it (instruments), command it at a distance (telegraph). Power engineering waits for the next chapter; without this one, that one is impossible.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Volta pile and battery arithmetic">
@@ -61,7 +72,7 @@
 <figcaption><strong>Figure 25.1.</strong> Alternate metals around wet chemistry and chemistry becomes current; barrier-separated salts (Daniell) stop the hydrogen choke for line duty. Series multiplies push, parallel multiplies stamina — Ohm prices every mile of wire.</figcaption>
 </figure>
 
-<h2 id="ch25_electricity_1-251-static-charge-and-storage">25.1 Static Charge and Storage</h2>
+<h2 id="ch25_electricity_1-251-static-charge-and-storage"><span class="sec-num">25.1</span> Static Charge and Storage</h2>
 <ul>
 <li>Rubbing dissimilar materials separates charge; like charges repel, unlike attract.</li>
 <li><strong>Leyden jar (1745):</strong> a foil-lined glass jar is a capacitor. Historical demonstrations discharged stored energy through people, sometimes fatally; present work uses rated components, a controlled discharge path, isolation, and interlocks. Capacitance <code>C = Q/V</code>: larger plates and a thinner dielectric increase storage.</li>
@@ -70,7 +81,7 @@
 <li><strong>Lightning protection (Franklin, 1750s):</strong> the first life-saving product of electrical science, and buildable before any battery exists. A pointed air terminal above the roof, a continuous heavy conductor down the outside wall, and a good earth connection give a lightning stroke a low-resistance path to ground instead of through timber, thatch, a church spire, or a powder magazine (<a href="ch21.html">Ch 21</a> §21.7). Bond large nearby metal to the system, and inspect joints and earth connections yearly and after strikes: a broken or poorly earthed down-conductor can flash sideways into the building it was meant to protect.</li>
 </ul>
 <p><strong>Capacitor gangs:</strong> parallel connection adds capacitance at the same voltage; series connection divides voltage but <strong>reduces</strong> equivalent capacitance. For identical capacitors, <code>C_parallel = nC</code> and <code>C_series = C/n</code>. Do not use capacitance as a substitute for a controlled discharge resistor and rated switching equipment. Log measured capacitance, voltage rating, insulation, and leakage; matched gangs require balancing resistors where unequal discharge could be hazardous.</p>
-<h2 id="ch25_electricity_1-252-the-battery-continuous-current">25.2 The Battery: Continuous Current</h2>
+<h2 id="ch25_electricity_1-252-the-battery-continuous-current"><span class="sec-num">25.2</span> The Battery: Continuous Current</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> battery rooms make hydrogen and acid together — charging vents explosive gas, sulfuric acid blinds, and shorted cells weld tools to terminals. Ventilate charging spaces, keep flame and steel away from tops, wear eyes and acid cover, lift with carriers (never by terminals), and fuse every bank; wash acid with flood water immediately.</p>
 <p>Volta's pile (1800): stacked zinc | brine-soaked cloth | copper discs — chemistry converts to steady current. Defects to engineer around:</p>
 <ul>
@@ -115,7 +126,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch25_electricity_1-253-electromagnetism-current-commands-magnetism">25.3 Electromagnetism: Current Commands Magnetism</h2>
+<h2 id="ch25_electricity_1-253-electromagnetism-current-commands-magnetism"><span class="sec-num">25.3</span> Electromagnetism: Current Commands Magnetism</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 222" width="100%" role="img" aria-label="Oersted Ampere Faraday triptych plus telegraph chain">
 <title>Oersted Ampere Faraday triptych plus telegraph chain</title>
@@ -190,7 +201,7 @@
 <li><strong>Faraday (1821/1831):</strong> current-carrying wire orbits a magnet (motor principle); changing magnetic flux INDUCES current in nearby circuits (transformer/generator principle). Field-line thinking — invisible geometry you can map with iron filings — becomes physics' most productive visualization.</li>
 <li><strong>Maxwell (1860s):</strong> four equations unify everything; light IS electromagnetic waves. Hertz confirms (1887) — radio becomes inevitable (<a href="ch34.html">Ch 34</a>).</li>
 </ul>
-<h2 id="ch25_electricity_1-254-the-telegraph">25.4 The Telegraph</h2>
+<h2 id="ch25_electricity_1-254-the-telegraph"><span class="sec-num">25.4</span> The Telegraph</h2>
 <p>The first electrical industry, built entirely from §25.2–25.3:</p>
 <ul>
 <li><strong>Signal chain:</strong> key interrupts battery current → line wire → receiving electromagnet clicks armature → code interpreted. That's the whole invention.</li>
@@ -233,7 +244,7 @@
 <p>Needle telegraphs trade the other way: the operator reads letters off a board with no code to learn, at the cost of more wires and slower sending.</p>
 <p><strong>Line-maintenance arithmetic:</strong> resistance per mile logged per section (bridge-measured); leakage to wet poles patrolled after storms; relay thresholds set above worst-case leakage, below weakest signal. Earth-return halves copper but doubles fault-hunting subtlety — keep the metallic spare for the trunk.</p>
 <p class="co co-key"><strong>Key threshold:</strong> when message latency drops from weeks (mail) to minutes, commerce, diplomacy, weather warning, and military logistics all change regime simultaneously. No other pre-radio technology buys so much coordination per unit of hardware.</p>
-<h2 id="ch25_electricity_1-255-doctrine">25.5 Doctrine</h2>
+<h2 id="ch25_electricity_1-255-doctrine"><span class="sec-num">25.5</span> Doctrine</h2>
 <ol>
 <li>Standardize voltage/current units and instruments across your network from day one (<a href="ch20.html">Ch 20</a> metrology).</li>
 <li>Wire gauge tables, insulation specs, and testing routines are the difference between a network and a fire hazard.</li>
@@ -266,7 +277,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch25_electricity_1-256-the-electrical-papers">25.6 The Electrical Papers</h2>
+<h2 id="ch25_electricity_1-256-the-electrical-papers"><span class="sec-num">25.6</span> The Electrical Papers</h2>
 <ul>
 <li>Leyden-jar discovery letters (1745–46) record Musschenbroek's shock testimony (he wrote that he would not take a second shock for the whole kingdom of France); Benjamin Franklin's 1752 kite experiment is documented but genuinely dangerous — <strong>Georg Wilhelm Richmann died replicating it in St. Petersburg (1753)</strong>, the era's most cited electrical fatality. Replication has costs; publish protocols, not just results.</li>
 <li>Volta announced the pile to the Royal Society (letter dated March 1800); <strong>Nicholson and Carlisle electrolyzed water with one within six weeks</strong> — open publication converting a device into a research program at record speed.</li>
@@ -275,12 +286,12 @@
 <li><strong>Transatlantic cable forensics:</strong> the 1857 attempt snapped mid-ocean; 1858 carried brief traffic (Queen Victoria–Buchanan exchanges) before Wildman Whitehouse's brute-force high-voltage signaling destroyed the core — Cyrus Field's syndicate commissioned a proper engineering postmortem (William Thomson's mirror-galvanometer analysis), then rebuilt with science-based methods for the 1866 success. Thomson left the venture a knight and later a lord — instrument physics monetized through failure analysis. The 1866 cable cut message latency across the Atlantic from ten days (steamship) to minutes; markets, diplomacy, and naval coordination all repriced immediately (<a href="ch50.html">Ch 50</a>).</li>
 </ul>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch24.html" class="reader-nav-link">← Chapter 24</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch26.html" class="reader-nav-link">Chapter 26 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch24.html" rel="prev"><span class="pager-dir">← Chapter 24</span><span class="pager-title">Mass Transport: Canals, Roads, Railways</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch26.html" rel="next"><span class="pager-dir">Chapter 26 →</span><span class="pager-title">Electricity II: Dynamos, Motors, Lighting, Grids</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

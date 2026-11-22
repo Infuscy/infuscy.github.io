@@ -5,22 +5,34 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 42: The Internet and Data Centers — Fire to Future</title>
 <meta name="description" content="The internet is not a thing but an AGREEMENT: protocols everyone adopts so any network can talk to any network. Its genius is architectural humility — a dumb…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch42.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch41.html">
+<link rel="next" href="ch43.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p5">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 42 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch42_internet-chapter-42-the-internet-and-data-centers">Chapter 42: The Internet and Data Centers</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1969 ARPANET → cloud era · <strong>Difficulty:</strong> extreme<br><strong>Requires:</strong> <a href="ch26.html">Ch 26</a>, <a href="ch36.html">Ch 36</a>, <a href="ch41.html">Ch 41</a><br><strong>Unlocks:</strong> <a href="ch43.html">Ch 43</a>, <a href="ch46.html">Ch 46</a><br><strong>Data snapshot:</strong> volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part V · Planetary Systems</p>
+<h1 id="ch42_internet-chapter-42-the-internet-and-data-centers"><span class="chapter-kicker">Chapter 42<span class="visually-hidden">:</span></span> The Internet and Data Centers</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1969 ARPANET → cloud era</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="6" aria-hidden="true"></span>extreme</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch26.html" title="Electricity II: Dynamos, Motors, Lighting, Grids">Ch 26</a></li><li><a href="ch36.html" title="Computers and Software">Ch 36</a></li><li><a href="ch41.html" title="Fiber Optics and Global Telephony">Ch 41</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch43.html" title="Energy Mastery: Solar, Wind, Grid Storage, Fusion">Ch 43</a></li><li><a href="ch46.html" title="Machine Intelligence">Ch 46</a></li></ul></dd></div>
+<div class="spec-data-snapshot"><dt>Data snapshot</dt><dd>volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</dd></div>
+</dl>
 <p>The internet is not a thing but an AGREEMENT: protocols everyone adopts so any network can talk to any network. Its genius is architectural humility — a dumb, reliable packet core with intelligence pushed to the edges. This chapter builds that agreement and the physical plant underneath it.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Circuit versus packet and TCP IP stack">
@@ -54,7 +66,7 @@
 <figcaption><strong>Figure 42.1.</strong> Circuits waste silence; packets share it — survivability and efficiency from one design. The stack keeps the core simple (IP moves packets) and pushes reliability (TCP) and meaning (apps) to the edges where innovation needs no permission.</figcaption>
 </figure>
 
-<h2 id="ch42_internet-421-packet-switching-insight">42.1 Packet Switching Insight</h2>
+<h2 id="ch42_internet-421-packet-switching-insight"><span class="sec-num">42.1</span> Packet Switching Insight</h2>
 <p>Circuit switching (telephony) reserves paths even during silence; Baran/Licklider-era insight: chop messages into PACKETS, each finding its way independently, links shared statistically. Survivability (no single node kills the net) and efficiency (multiplexing bursty traffic) fall out of the same design. ARPANET demonstrated it across four nodes (1969); email arrived 1971 and within two years dominated traffic (people, it turns out, want to talk).</p>
 <div class="table-wrap"><table>
 <thead>
@@ -80,7 +92,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch42_internet-422-tcpip-and-layering">42.2 TCP/IP and Layering</h2>
+<h2 id="ch42_internet-422-tcpip-and-layering"><span class="sec-num">42.2</span> TCP/IP and Layering</h2>
 <p>January 1, 1983: ARPANET flag-day to TCP/IP. The stack:</p>
 <div class="table-wrap"><table>
 <thead>
@@ -115,7 +127,7 @@
 </table></div>
 <p><strong>End-to-end principle:</strong> keep core functions simple where possible and place application intelligence at endpoints. This enables new applications over older networks, but it does not confine all control or censorship to edges: routes, resolvers, transit, platforms, endpoints, and local law all shape what users can do. Ethernet (Metcalfe, 1973) won local networking on cost; switches later replaced shared-medium collision domains.</p>
 <p><strong>TCP in four mechanisms:</strong> sequence numbers (order) → acknowledgments (receipt) → retransmit on loss → window (flow control) + slow-start (congestion politeness). UDP skips all four for speed (voice, video, games — loss tolerated, delay not).</p>
-<h2 id="ch42_internet-423-naming-and-trust">42.3 Naming and Trust</h2>
+<h2 id="ch42_internet-423-naming-and-trust"><span class="sec-num">42.3</span> Naming and Trust</h2>
 <ul>
 <li><strong>DNS (1983):</strong> hierarchical names mapping to addresses — human-readable, globally delegated, cached aggressively. DNS is critical infrastructure disguised as phone book.</li>
 <li><strong>Public-key cryptography (Diffie-Hellman 1976, RSA 1977):</strong> two parties derive shared secrets over open channels; sign documents without sharing signing keys. TLS wraps connections in authenticated encryption; certificate authorities anchor identity chains (their compromises are systemic risks — pinning/transparency logs mitigate).</li>
@@ -126,7 +138,7 @@ TLS: hello → certificate (CA-signed) → key exchange (DH/RSA) → encrypted s
 THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor always
 </code></pre>
 <p><strong>DNS outage drill:</strong> cache + secondary resolvers + anycast + TTL hygiene (lower before migrations). When names fail, numbers still route — keep critical IPs documented offline.</p>
-<h2 id="ch42_internet-424-the-web-layer">42.4 The Web Layer</h2>
+<h2 id="ch42_internet-424-the-web-layer"><span class="sec-num">42.4</span> The Web Layer</h2>
 <p>Berners-Lee (1989–91): URL + HTTP + HTML — hypertext with global addressing, deliberately royalty-free. Mosaic (1993) made it visual; browsers became universal clients. Then: search (PageRank mapped academic citation logic onto links — authority as algorithm), platforms/recommendation engines (engagement economics — note honestly: attention markets have pathologies regulation is still chasing), and API ecosystems where services compose services.</p>
 <div class="table-wrap"><table>
 <thead>
@@ -159,7 +171,7 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch42_internet-425-data-centers">42.5 Data Centers</h2>
+<h2 id="ch42_internet-425-data-centers"><span class="sec-num">42.5</span> Data Centers</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 210" width="100%" role="img" aria-label="Data center anatomy">
 <title>Data center anatomy</title>
@@ -244,17 +256,17 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch42_internet-426-governance-and-doctrine">42.6 Governance and Doctrine</h2>
+<h2 id="ch42_internet-426-governance-and-doctrine"><span class="sec-num">42.6</span> Governance and Doctrine</h2>
 <ul>
 <li>IETF culture: open standards via "rough consensus and running code" — RFCs anyone can read/implement. Protocol neutrality kept the network generative.</li>
 <li>Net-neutrality debates, jurisdiction conflicts, platform-governance arguments remain live politics; the ENGINEERING stance stays constant: interoperability, openness, graceful degradation.</li>
 <li>Capacity planning lesson from history's fiber glut: build ahead of demand when marginal cost is low — bandwidth follows demand with lag, and lag costs decades (<a href="ch41.html">Ch 41</a>).</li>
 </ul>
 <p><strong>SRE error budget (<a href="ch47.html">Ch 47</a>'s act-on-signals discipline applied to uptime):</strong> 99.9 % uptime = 43 min/month of allowed breakage; spend it on releases, freeze on exhaustion. Chaos-test in daylight with rollback ready — failures rehearsed hurt less than failures surprised.</p>
-<h2 id="ch42_internet-427-why-this-is-the-books-keystone">42.7 Why This Is the Book's Keystone</h2>
+<h2 id="ch42_internet-427-why-this-is-the-books-keystone"><span class="sec-num">42.7</span> Why This Is the Book's Keystone</h2>
 <p>Earlier information systems depended on physical archives vulnerable to fire, neglect, distance, and selective access. Networks can index, copy, distribute, and update information at global scale, accelerating research, commerce, education, and public coordination while creating new failures in concentration, surveillance, misinformation, and infrastructure dependence. The capability is synchronisation—provided access, governance, and resilience keep it broadly useful.</p>
 <p class="co co-key"><strong>Capability gate:</strong> report availability, adoption, affordability, device access, latency, reliability, safety, and meaningful participation. A majority-subscription threshold alone hides exclusion and does not define information resilience.</p>
-<h2 id="ch42_internet-428-the-internet-papers">42.8 The Internet Papers</h2>
+<h2 id="ch42_internet-428-the-internet-papers"><span class="sec-num">42.8</span> The Internet Papers</h2>
 <ul>
 <li>Lineage documents stack up neatly: Licklider's "Intergalactic Computer Network" memo (1962); Baran's RAND <em>On Distributed Communications</em> (1964, eleven volumes); Donald Davies independently coined "packet" at NPL (1965–66). Three origins, one idea — simultaneous invention again (<a href="ch35.html">Ch 35</a>'s pattern).</li>
 <li><strong>The first ARPANET message (October 29, 1969)</strong> crashed after two characters: UCLA's system sent "LO" of "LOGIN" before SRI's host fell. The network's first word was an abbreviation nobody chose.</li>
@@ -265,16 +277,16 @@ THREAT: worm → botnet → ransomware — patch fast, privilege least, monitor 
 <li>Morris worm (November 2, 1988) infected roughly a tenth of the connected internet and produced the first CFAA conviction; DARPA founded the CERT Coordination Center within weeks in response — security institutions form around incidents.</li>
 <li>Netscape's August 9, 1995 IPO (priced $28, closed $58.25) opened the browser era's capital flood; NASDAQ peaked March 10, 2000 (5,048) and the crash burned capital that had, incidentally, laid dark fiber and built data centers — the bust subsidized the broadband decade (<a href="ch41.html">Ch 41</a>'s overbuild lesson restated financially).</li>
 </ul>
-<h2 id="ch42_internet-429-build-order-greenfield-network">42.9 Build Order (Greenfield Network)</h2>
+<h2 id="ch42_internet-429-build-order-greenfield-network"><span class="sec-num">42.9</span> Build Order (Greenfield Network)</h2>
 <p>Fiber backbone with spare ducts (<a href="ch41.html">Ch 41</a>) → exchange + DNS + anycast resolvers → data hall (N+1 power/cool) → core services (mail, web, backups) → CDN/cache edges → monitoring + incident rota → public access points. Log everything, publish status, drill outages — the network that admits faults keeps users; the one that hides them loses them.</p>
 <p><strong>Before the backbone exists:</strong> store-and-forward networks deliver useful messaging on very little infrastructure. UUCP (from the late 1970s) and FidoNet (from 1984) relayed mail, news, and files between computers over intermittent dial-up calls; packet radio does the same over shared radio channels (<a href="ch34.html">Ch 34</a>). Design early applications to tolerate hours of delay and broken links — queue, retry, and confirm — and the same software keeps working when fibre arrives.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch41.html" class="reader-nav-link">← Chapter 41</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch43.html" class="reader-nav-link">Chapter 43 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch41.html" rel="prev"><span class="pager-dir">← Chapter 41</span><span class="pager-title">Fiber Optics and Global Telephony</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch43.html" rel="next"><span class="pager-dir">Chapter 43 →</span><span class="pager-title">Energy Mastery: Solar, Wind, Grid Storage, Fusion</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

@@ -5,24 +5,35 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 23: Steam Engines Done Right — Fire to Future</title>
 <meta name="description" content="Steam is the first engine that makes power WHERE YOU WANT IT, burning fuel anyone can ship. History took 150 years to get it right; this chapter compresses the…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch23.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch22.html">
+<link rel="next" href="ch24.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p3">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 23 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch23_steam-chapter-23-steam-engines-done-right">Chapter 23: Steam Engines Done Right</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1698 Savery → 1900s compounds · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch20.html">Ch 20</a>, <a href="ch22.html">Ch 22</a><br><strong>Unlocks:</strong> <a href="ch24.html">Ch 24</a>, <a href="ch26.html">Ch 26</a>, <a href="ch28.html">Ch 28</a></p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part III · The Acceleration</p>
+<h1 id="ch23_steam-chapter-23-steam-engines-done-right"><span class="chapter-kicker">Chapter 23<span class="visually-hidden">:</span></span> Steam Engines Done Right</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1698 Savery → 1900s compounds</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="5" aria-hidden="true"></span>high</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch15.html" title="Mechanical Primitives: Wheel, Axle, Screw, Gear, Bearing">Ch 15</a></li><li><a href="ch20.html" title="Precision Instruments and the Scientific Method">Ch 20</a></li><li><a href="ch22.html" title="Coke Smelting and Cheap Iron">Ch 22</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch24.html" title="Mass Transport: Canals, Roads, Railways">Ch 24</a></li><li><a href="ch26.html" title="Electricity II: Dynamos, Motors, Lighting, Grids">Ch 26</a></li><li><a href="ch28.html" title="Petroleum: Drilling, Refining, Cracking">Ch 28</a></li></ul></dd></div>
+</dl>
 <p>Steam is the first engine that makes power WHERE YOU WANT IT, burning fuel anyone can ship. History took 150 years to get it right; this chapter compresses the learning by stating the physics up front and the design sequence after.</p>
-<h2 id="ch23_steam-231-the-physics-first-history-did-it-backwards">23.1 The Physics First (History Did It Backwards)</h2>
+<h2 id="ch23_steam-231-the-physics-first-history-did-it-backwards"><span class="sec-num">23.1</span> The Physics First (History Did It Backwards)</h2>
 <ul>
 <li>Water → steam expands ~1,600× at atmospheric pressure; condensing it back creates vacuum.</li>
 <li>Heat engines convert only a FRACTION of heat to work: Carnot bound η = 1 − T_cold/T_hot. Every efficiency gain in this chapter is secretly "raise T_hot, lower T_cold, waste less in between."</li>
@@ -68,7 +79,7 @@
 <figcaption><strong>Figure 23.1.</strong> Historical development improved cylinder heating, exhaust condensation, pressure, expansion, and control. The numerical bands are representative, not design setpoints. A modern design closes a measured energy ledger and accepts only targets justified by its duty, fuel, and measured output.</figcaption>
 </figure>
 
-<h2 id="ch23_steam-232-the-design-ladder">23.2 The Design Ladder</h2>
+<h2 id="ch23_steam-232-the-design-ladder"><span class="sec-num">23.2</span> The Design Ladder</h2>
 <p><strong>Stage 1 — Savery pump:</strong> no piston; steam pressure pushes water upward and vacuum helps draw it into a higher vessel. Lifts depended on boiler pressure, vacuum, vessel arrangement, and materials; historical failures included weak vessels and boiler explosions. It was Newcomen's piston engine, not Savery's pump, that became the workhorse of mine drainage.</p>
 <p><strong>Stage 2 — Newcomen atmospheric engine:</strong> the cylinder is open at the top. Steam at about atmospheric pressure fills it below the piston, a water spray condenses the steam, and the atmosphere pushes the piston down into the resulting partial vacuum — the steam does no pushing itself. Condensing steam inside the cylinder exposed the casting to repeated heating and cooling; reported thermal efficiency was very low by later standards. It became important for pumping where coal and water-handling conditions suited it, especially mines (<a href="ch13.html">Ch 13</a>).</p>
 <p><strong>Stage 3 — Watt's corrections (~1765–1790):</strong>
@@ -80,9 +91,9 @@
 <p>Historical reports place early Watt-era efficiency in the low single digits, but the value depends on boiler, engine, measurement boundary, and load. Patent and licensing disputes affected diffusion; whether Watt's extended patent actually delayed high-pressure engines is disputed (§23.6).</p>
 <p><strong>Stage 4 — High pressure (Trevithick/Evans):</strong> stronger boilers allowed engines to use steam expansion above atmospheric pressure, improving power density and enabling more compact mobile applications. The size reduction depended on the complete design.</p>
 <p><strong>Stage 5 — Compounding and superheating (19th c. mature form):</strong> expand steam through successive cylinders from high to lower pressure; superheating can reduce condensation and maintain steam quality. Reported marine thermal efficiencies varied widely; steam competed with sail when fuel, reliability, capital, and route economics favoured it (<a href="ch24.html">Ch 24</a>).</p>
-<h2 id="ch23_steam-233-the-machine-tool-dependency">23.3 The Machine-Tool Dependency</h2>
+<h2 id="ch23_steam-233-the-machine-tool-dependency"><span class="sec-num">23.3</span> The Machine-Tool Dependency</h2>
 <p>Watt's early cylinders leaked until Wilkinson's boring machine produced more accurate bores. The broader lesson is that engine progress and machine-tool capability reinforce each other. Maintain lathes, borers, planers, gauges, and inspection (<a href="ch15.html">Ch 15</a>); record the actual leakage, friction, and efficiency effect rather than treating a dimensional tolerance as a universal fuel saving.</p>
-<h2 id="ch23_steam-234-boilers-where-danger-lives">23.4 Boilers: Where Danger Lives</h2>
+<h2 id="ch23_steam-234-boilers-where-danger-lives"><span class="sec-num">23.4</span> Boilers: Where Danger Lives</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> a fired pressure vessel stores blast energy—low water, blocked relief, overpressure, or brittle pressure-boundary material can rupture the shell and kill the crew. Design, construction, relief sizing, proof testing, inspection, and operation follow the applicable pressure-vessel and boiler code under qualified supervision. Water level must be independently indicated and alarmed; controls, trips, and relief devices are tested on a documented schedule. A generic warning or one auxiliary device is not an adequate safety system.</p>
 <p>Pressure-boundary failures can be catastrophic, and the historical record includes many boiler explosions. The general design requirements are therefore non-negotiable:</p>
 <figure class="fig">
@@ -120,7 +131,7 @@
 <li>Pressure-boundary material, joints, supports, corrosion allowance, inspection access, and proof test specified by qualified design.</li>
 <li>Written operating and maintenance records (<a href="ch11.html">Ch 11</a>) with trend review and named responsibility.</li>
 </ul>
-<h2 id="ch23_steam-235-deployment-priorities">23.5 Deployment Priorities</h2>
+<h2 id="ch23_steam-235-deployment-priorities"><span class="sec-num">23.5</span> Deployment Priorities</h2>
 <ol>
 <li><strong>Mine drainage</strong> (pays instantly where water floods workings).</li>
 <li><strong>Mill drive</strong> in riverless towns; line-shafting identical to water mills (<a href="ch16.html">Ch 16</a>) but sited anywhere near coal.</li>
@@ -129,7 +140,7 @@
 <li><strong>Electric generation</strong> — <a href="ch26.html">Ch 26</a>; steam's final century of dominance.</li>
 </ol>
 <p class="co co-key"><strong>Key threshold:</strong> an engine hall delivering 50–200 kW on demand converts any town into an industrial site. Track fuel-per-kWh relentlessly; thermodynamics says there's always headroom, and competitors who ignore the number die quietly.</p>
-<h2 id="ch23_steam-236-the-engine-papers">23.6 The Engine Papers</h2>
+<h2 id="ch23_steam-236-the-engine-papers"><span class="sec-num">23.6</span> The Engine Papers</h2>
 <ul>
 <li>Hero's aeolipile (1st c. CE) proves reaction jets existed as temple toys for seventeen centuries — physics known, economics absent: fuel was expensive, labor cheap. Steam waited for the wage/coal price crossover (<a href="ch22.html">Ch 22</a> supplies it), not for genius.</li>
 <li><strong>Savery's 1698 "Miner's Friend" patent</strong> claimed such broad wording (drawing water by impelling fire) that it taxed later inventors for decades — documented patent-drafting abuse predating modern IP law.</li>
@@ -138,7 +149,7 @@
 <li><strong>Cornwall quantified competition:</strong> mine engineers measured engines in "duty" (foot-pounds of work per bushel of coal), publishing league tables; Woolf's compound designs pushed duty records through the 1810s–30s. Efficiency racing as public sport — an institution worth rebuilding deliberately.</li>
 <li>Trevithick's Penydarren locomotive hauled iron along plateway rails (February 1804); Rocket won Rainhill Trials (October 1829) with the multi-tubular boiler + blast pipe package <a href="ch24.html">Ch 24</a> describes.</li>
 </ul>
-<h2 id="ch23_steam-237-engineering-design-gate-from-thermal-target-to-commissioning-plan">23.7 Engineering Design Gate: From Thermal Target to Commissioning Plan</h2>
+<h2 id="ch23_steam-237-engineering-design-gate-from-thermal-target-to-commissioning-plan"><span class="sec-num">23.7</span> Engineering Design Gate: From Thermal Target to Commissioning Plan</h2>
 <p>A stationary engine is not defined by bore, stroke, and a single “mean effective pressure” copied from a worked example. It is a coupled thermodynamic, mechanical, pressure-boundary, controls, fuel, and commissioning problem. This general manual defines the engineering workflow; it does not certify dimensions for construction.</p>
 <p class="co co-gate"><strong>Competence gate:</strong> design, pressure-boundary work, controls integration, proof testing, and first firing belong to qualified mechanical and pressure-system engineers working to applicable codes and recognised test procedures. Historical practice can teach architecture and failure modes, but it cannot replace current stress analysis, relief-device sizing, material qualification, inspection, and operator training.</p>
 <h3 id="ch23_steam-design-workflow">Design workflow</h3>
@@ -166,7 +177,7 @@
 <li>operator sign-offs and outstanding defects.</li>
 </ul>
 <p class="co co-key"><strong>Key threshold:</strong> a design passes when its calculated energy balance, measured output, pressure-boundary evidence, protection tests, and operating records agree within declared tolerances. The manual is not the acceptance authority. A claimed value such as “2 kg coal/kWh” is a target until a complete instrumented test demonstrates it for the actual engine and fuel.</p>
-<h2 id="ch23_steam-238-the-steam-turbine">23.8 The Steam Turbine</h2>
+<h2 id="ch23_steam-238-the-steam-turbine"><span class="sec-num">23.8</span> The Steam Turbine</h2>
 <p>A piston engine turns steam pressure into back-and-forth motion and then into rotation. A turbine skips the middle step: steam expands through nozzles and blades and turns a shaft directly — Hero's aeolipile (§23.6) made practical once metallurgy and machining caught up.</p>
 <ul>
 <li><strong>Lineage:</strong> Charles Parsons's multistage reaction turbine (1884) took the steam's pressure drop in many small steps across rows of fixed and moving blades, keeping blade speeds manageable; his first turbo-generator delivered about 7.5 kW at roughly 18,000 rpm. De Laval's single-stage impulse turbine (1880s) and Curtis's velocity-compounded design (1890s) followed, and Parsons's <em>Turbinia</em> (shown at Spithead, 1897) carried the idea to sea (<a href="ch50.html">Ch 50</a> §50.4).</li>
@@ -175,12 +186,12 @@
 </ul>
 <p>Turbine design, overspeed protection, and commissioning fall under the same qualified-engineering gate as §23.7.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch22.html" class="reader-nav-link">← Chapter 22</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch24.html" class="reader-nav-link">Chapter 24 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch22.html" rel="prev"><span class="pager-dir">← Chapter 22</span><span class="pager-title">Coke Smelting and Cheap Iron</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch24.html" rel="next"><span class="pager-dir">Chapter 24 →</span><span class="pager-title">Mass Transport: Canals, Roads, Railways</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

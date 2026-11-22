@@ -5,22 +5,34 @@
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'; connect-src 'self'">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f0e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#15130f" media="(prefers-color-scheme: dark)">
 <title>Chapter 45: Automation and Robotics — Fire to Future</title>
 <meta name="description" content="Robotics is feedback control embodied: sense → decide → act, closed in a loop fast enough to matter. Watt's flyball governor (1788) was the first industrial…">
 <link rel="canonical" href="https://infuscy.github.io/fire-to-future/ch45.html">
+<link rel="icon" href="/img/profile.png">
 <link rel="stylesheet" href="/fire-to-future/reader.css">
+<link rel="prev" href="ch44.html">
+<link rel="next" href="ch46.html">
 </head>
-<body>
-<div class="reader-top-bar">
-  <a href="/fire-to-future/">← Table of Contents</a>
-  <span class="reader-font-controls"><button class="font-btn" id="fontDown" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" title="Larger text" aria-label="Increase font size">A+</button></span>
+<body data-part="p5">
+<a class="skip-link" href="#text">Skip to the text</a>
+<header class="reader-top-bar">
+  <a class="reader-book" href="/fire-to-future/">Fire to Future</a>
   <span class="reader-progress">Chapter 45 of 51</span>
-</div>
-<main class="reader-content">
-<h1 id="ch45_robotics-chapter-45-automation-and-robotics">Chapter 45: Automation and Robotics</h1>
-<blockquote class="meta">
-<p><strong>Era span:</strong> 1788 governor → present · <strong>Difficulty:</strong> high<br><strong>Requires:</strong> <a href="ch15.html">Ch 15</a>, <a href="ch35.html">Ch 35</a>, <a href="ch36.html">Ch 36</a>, <a href="ch43.html">Ch 43</a><br><strong>Unlocks:</strong> <a href="ch46.html">Ch 46</a><br><strong>Data snapshot:</strong> volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</p>
-</blockquote>
+  <span class="reader-font-controls"><button class="font-btn" id="fontDown" type="button" title="Smaller text" aria-label="Decrease font size">A−</button><button class="font-btn" id="fontUp" type="button" title="Larger text" aria-label="Increase font size">A+</button></span>
+</header>
+<main id="text" class="reader-content">
+<p class="part-kicker">Part V · Planetary Systems</p>
+<h1 id="ch45_robotics-chapter-45-automation-and-robotics"><span class="chapter-kicker">Chapter 45<span class="visually-hidden">:</span></span> Automation and Robotics</h1>
+<dl class="spec">
+<div class="spec-era-span"><dt>Era span</dt><dd>1788 governor → present</dd></div>
+<div class="spec-difficulty"><dt>Difficulty</dt><dd><span class="gauge" data-level="5" aria-hidden="true"></span>high</dd></div>
+<div class="spec-requires"><dt>Requires</dt><dd><ul class="chips"><li><a href="ch15.html" title="Mechanical Primitives: Wheel, Axle, Screw, Gear, Bearing">Ch 15</a></li><li><a href="ch35.html" title="Transistors and Integrated Circuits">Ch 35</a></li><li><a href="ch36.html" title="Computers and Software">Ch 36</a></li><li><a href="ch43.html" title="Energy Mastery: Solar, Wind, Grid Storage, Fusion">Ch 43</a></li></ul></dd></div>
+<div class="spec-unlocks"><dt>Unlocks</dt><dd><ul class="chips"><li><a href="ch46.html" title="Machine Intelligence">Ch 46</a></li></ul></dd></div>
+<div class="spec-data-snapshot"><dt>Data snapshot</dt><dd>volatile figures in this chapter (prices, capacities, deployment counts, regulation, and capability claims) reflect published sources through 2024 unless dated otherwise; check current data before planning.</dd></div>
+</dl>
 <p>Robotics is feedback control embodied: sense → decide → act, closed in a loop fast enough to matter. Watt's flyball governor (1788) was the first industrial robot in spirit; everything since adds sensing and computation to that loop.</p>
 <figure class="fig">
 <svg viewBox="0 0 640 205" width="100%" role="img" aria-label="Feedback loop and PID controller">
@@ -59,7 +71,7 @@
 <figcaption><strong>Figure 45.1.</strong> The sensor return path is the defining difference between open- and closed-loop control. PID combines present, accumulated, and trend information; tuning is process-specific and requires bounded commissioning, not a universal recipe.</figcaption>
 </figure>
 
-<h2 id="ch45_robotics-451-control-theory-core">45.1 Control Theory Core</h2>
+<h2 id="ch45_robotics-451-control-theory-core"><span class="sec-num">45.1</span> Control Theory Core</h2>
 <ul>
 <li><strong>Feedback:</strong> measure output, compare to target, correct. Open-loop machines repeat blindly; closed-loop machines achieve targets despite disturbances.</li>
 <li><strong>PID controller</strong> (developed across early industrial control): proportional action responds to present error, integral action accumulates error and can remove offset, and derivative action responds to rate of change and can damp response. PID remains common, but no defensible universal share applies to every industrial loop.</li>
@@ -67,7 +79,7 @@
 <li>Discrete-event control above continuous loops (state machines sequencing actions); safety-rated stops as separate hardwired paths (software never owns emergency stop).</li>
 </ul>
 <p class="co co-scope"><strong>Scope note:</strong> the classic Ziegler–Nichols ultimate-gain recipe can be aggressive and is not valid for every process. If used as an initial experiment, isolate the plant, impose safe bounds, record the response, calculate candidate gains, and verify them under a supervised commissioning procedure. Add derivative filtering, output limits, anti-windup, setpoint shaping, and process-specific knowledge. Never force oscillation in a hazardous or slow plant merely to fill in a card.</p>
-<h2 id="ch45_robotics-452-from-nc-to-industrial-robots">45.2 From NC to Industrial Robots</h2>
+<h2 id="ch45_robotics-452-from-nc-to-industrial-robots"><span class="sec-num">45.2</span> From NC to Industrial Robots</h2>
 <ul>
 <li><strong>Numerical control (MIT, 1952):</strong> punched-tape machine tools machining to programmed coordinates — CNC made precision REPRODUCIBLE (<a href="ch20.html">Ch 20</a>'s tolerances democratized). G-code became manufacturing's Latin.</li>
 <li><strong>Unimate (1961):</strong> die-casting robot arm at GM — dangerous, repetitive job automated first (a recurring pattern: robots take the four D's — dirty, dull, dangerous, dear).</li>
@@ -115,14 +127,14 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch45_robotics-453-sensing">45.3 Sensing</h2>
+<h2 id="ch45_robotics-453-sensing"><span class="sec-num">45.3</span> Sensing</h2>
 <ul>
 <li><strong>Machine vision:</strong> structured light/stereo depth, defect inspection at line speed — quality control becomes automatic statistics (<a href="ch47.html">Ch 47</a>).</li>
 <li>Force-torque sensors enable assembly by FEEL (peg insertion, compliance tasks); lidar/radar/ultrasonic give spatial awareness outdoors.</li>
 <li>MEMS inertial units (<a href="ch35.html">Ch 35</a>) put navigation-grade IMUs in every phone/drone — the quiet sensor revolution.</li>
 </ul>
 <p><strong>Vision buy-order:</strong> presence check (part there?) → measurement (in tolerance?) → guidance (where to grip?) → inspection (defect-free?). Light the scene before upgrading the camera — optics and illumination decide more than megapixels (<a href="ch19.html">Ch 19</a> returns here).</p>
-<h2 id="ch45_robotics-454-mobile-robots-and-drones">45.4 Mobile Robots and Drones</h2>
+<h2 id="ch45_robotics-454-mobile-robots-and-drones"><span class="sec-num">45.4</span> Mobile Robots and Drones</h2>
 <ul>
 <li>AGVs (fixed paths) → AMRs (self-navigating warehouse fleets; Kiva→Amazon scale: hundreds of thousands of units moving shelves to pickers — logistics throughput multiplied while human walking eliminated).</li>
 <li><strong>Drones:</strong> brushless motors + lithium batteries + MEMS IMUs + flight controllers = the hobby-to-industrial stack. Fixed-wing endurance vs multirotor agility split missions: survey/spraying/mapping/delivery niches each have a winner. Regulatory integration (airspace rules) lags capability everywhere — budget for governance friction.</li>
@@ -170,7 +182,7 @@
 </tr>
 </tbody>
 </table></div>
-<h2 id="ch45_robotics-455-humanoids-and-the-honesty-section">45.5 Humanoids and the Honesty Section</h2>
+<h2 id="ch45_robotics-455-humanoids-and-the-honesty-section"><span class="sec-num">45.5</span> Humanoids and the Honesty Section</h2>
 <figure class="fig">
 <svg viewBox="0 0 640 200" width="100%" role="img" aria-label="Automation selection map">
 <title>Automation selection map</title>
@@ -205,7 +217,7 @@
 <li>Deploy mobile manipulation where ROI clears without anthropomorphism.</li>
 <li>Watch lab-to-field transfer of tactile sensing and learned grasping (<a href="ch46.html">Ch 46</a>) as the humanoid-enabling frontier — but don't gate production plans on it.</li>
 </ol>
-<h2 id="ch45_robotics-456-deployment-doctrine">45.6 Deployment Doctrine</h2>
+<h2 id="ch45_robotics-456-deployment-doctrine"><span class="sec-num">45.6</span> Deployment Doctrine</h2>
 <p class="co co-warn"><strong>Safety warning:</strong> industrial arms crush and trap — stored energy drives through power loss, fenceless cobots still strike heads and throats, and jam-clearing under power kills maintainers. Cage or force-limit per ISO/TS 15066, wire hardwired e-stops on a separate path, lock out before clearing jams, and commission with risk assessment plus exception-handling drills signed before go-live.</p>
 <ul>
 <li><strong>Collaborative robots</strong> can be designed for selected shared-workspace tasks, but “cobot” does not mean automatically safe without caging. Risk depends on payload, reach, speed, tooling, entrapment, impact, process hazards, maintenance access, and the applicable robot and machinery standards.</li>
@@ -215,7 +227,7 @@
 </ul>
 <p class="co co-key"><strong>Capability gate:</strong> automation is an economic decision. Compare total installed and lifecycle cost with the task's required throughput, quality, uptime, supervision, safety, and integration—not labour cost alone. A robot cheaper than an hour of human work may still be a poor investment if downtime, tooling, safety, or exception handling dominates. Automation changes labour allocation; it does not automatically dissolve demographic constraints.</p>
 <p><strong>Cell commissioning list:</strong> risk assessment + hardwired e-stop (separate path!) → guarded vs force-limited decision (ISO/TS 15066 table) → exception handling plan (who clears jams?) → MTBF spares (grippers wear, cables flex-fail) → retraining roster signed before go-live.</p>
-<h2 id="ch45_robotics-457-the-robotics-papers">45.7 The Robotics Papers</h2>
+<h2 id="ch45_robotics-457-the-robotics-papers"><span class="sec-num">45.7</span> The Robotics Papers</h2>
 <ul>
 <li>Watt's flyball governor (1788) prompted Maxwell's "On Governors" (1868) — control theory's founding paper written about steam engines; Minorsky's USS New Mexico automatic-steering trials (1922–23) introduced PID-like ship autopilots; Ziegler–Nichols tuning rules (1942) gave practitioners recipes. Control matured through ships and chemical plants before robots existed.</li>
 <li><strong>NC machining:</strong> Parsons Corporation's helicopter-blade templates + Air Force funding + MIT's servomechanisms lab demonstrated numerical control March 9, 1952; APT programming language standardized it — defense contracts buying manufacturing language again (<a href="ch49.html">Ch 49</a>'s armory pattern).</li>
@@ -225,15 +237,15 @@
 <li>da Vinci cleared by FDA July 2000 — teleoperative surgery's precision/tremor-filtering case study (<a href="#ch45_robotics-454-mobile-robots-and-drones">§45.4</a>).</li>
 <li>Cobot safety formalized late: ISO/TS 15066 (2016) specified force/pressure limits by body region — collaborative robotics required a published injury-biomechanics standard before insurers and regulators allowed shared workspaces at scale.</li>
 </ul>
-<h2 id="ch45_robotics-458-four-d-priority-list">45.8 Four-D Priority List</h2>
+<h2 id="ch45_robotics-458-four-d-priority-list"><span class="sec-num">45.8</span> Four-D Priority List</h2>
 <p>Die-casting, spray/paint, welding, palletising, and inspection are common early candidates because they combine hazardous, repetitive, or quality-critical work. Prioritise by measured task risk, variation, ergonomics, throughput, integration burden, and failure consequence. “Danger and tedium first” is a useful scan, not a universal priority rule or a substitute for worker participation.</p>
 </main>
-<nav class="reader-bottom-nav">
-  <a href="ch44.html" class="reader-nav-link">← Chapter 44</a>
-  <a href="/fire-to-future/" class="reader-toc-link">Contents</a>
-  <a href="ch46.html" class="reader-nav-link">Chapter 46 →</a>
+<nav class="reader-pager" aria-label="Chapters">
+  <a class="pager-prev" href="ch44.html" rel="prev"><span class="pager-dir">← Chapter 44</span><span class="pager-title">Biotechnology: Genetics to CRISPR and mRNA</span></a>
+  <a class="pager-toc" href="/fire-to-future/">Contents</a>
+  <a class="pager-next" href="ch46.html" rel="next"><span class="pager-dir">Chapter 46 →</span><span class="pager-title">Machine Intelligence</span></a>
 </nav>
-<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download PDF</a></p>
+<p class="reader-footnote">FIRE TO FUTURE — A Field Manual for Rebuilding Technology · <a href="/fire-to-future/Fire-To-Future.pdf">Download the PDF</a> (8.1 MB)</p>
 <script src="/js/reader-font.js"></script>
 </body>
 </html>

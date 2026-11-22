@@ -713,6 +713,145 @@ section.band {
     text-align: left;
 }
 
+/* Book covers: each book card opens with a small cover in its book's own colours and
+   ornaments, the 16:9 counterpart of the report screenshots. Like the books' cover pages
+   they stay dark in both colour schemes; the text on them is decorative (aria-hidden, the
+   card's title follows). The ornaments repeat the books' own: the novel's arch sigil
+   (css/reader.css), Old Magic's star, rosette frieze and glazed brick (old-magic/book.css),
+   Fire to Future's cog and flame and part stripe (scripts/build_fire_to_future.py). If a
+   cover changes, change it here too. */
+.book-cover {
+    position: relative;
+    isolation: isolate;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    aspect-ratio: 16 / 9;
+    padding: 1.25rem 1.75rem;
+    overflow: hidden;
+    text-align: center;
+    border-bottom: 1px solid var(--line);
+}
+.book-cover-emblem {
+    flex: none;
+    width: 2.9rem;
+    height: 2.9rem;
+}
+.book-cover-kicker {
+    font-size: 0.62rem;
+    letter-spacing: 0.28em;
+    line-height: 1.4;
+    text-transform: uppercase;
+}
+.book-cover-title {
+    font-size: 1.4rem;
+    line-height: 1.15;
+    text-wrap: balance;
+}
+
+/* the novel: violet night, a brass frame, the arch of dressed stones around a spark */
+.book-cover-novel {
+    --bc-glow: #4a3577;
+    --bc-base: #2a1e44;
+    --bc-deep: #170f27;
+    background: radial-gradient(ellipse 75% 95% at 50% 15%, var(--bc-glow) 0%, var(--bc-base) 50%, var(--bc-deep) 100%);
+    color: #f3ead8;
+    font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", "URW Palladio L", P052, "TeX Gyre Pagella", Georgia, "Noto Serif", serif;
+}
+.book-cover-novel::before {
+    content: "";
+    position: absolute;
+    inset: 0.55rem;
+    border: 1px solid rgba(217, 180, 100, .5);
+    border-radius: 0.3rem;
+}
+.book-cover-novel .book-cover-emblem { fill: #d9b464; }
+.book-cover-novel .book-cover-kicker { color: #d9b464; }
+
+/* Fire to Future: a forge glowing under a blueprint sky, the six part colours below */
+.book-cover-ftf {
+    background:
+        radial-gradient(ellipse 55% 45% at 50% 110%, rgba(214, 104, 44, .5), transparent 72%),
+        radial-gradient(ellipse 95% 75% at 50% 115%, #5a2414, transparent 75%),
+        linear-gradient(180deg, #0b1526 0%, #13223b 58%, #1f1922 100%);
+    color: #f4ecdc;
+    font-family: Cambria, Charter, "Bitstream Charter", "Sitka Text", Georgia, "Noto Serif", serif;
+}
+.book-cover-ftf::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background:
+        linear-gradient(rgba(150, 180, 230, .09) 1px, transparent 1px) center top / 1.25rem 1.25rem,
+        linear-gradient(90deg, rgba(150, 180, 230, .09) 1px, transparent 1px) center top / 1.25rem 1.25rem;
+    -webkit-mask: linear-gradient(#000 20%, transparent 85%);
+    mask: linear-gradient(#000 20%, transparent 85%);
+}
+.book-cover-ftf::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 5px;
+    background: linear-gradient(90deg, #c4532f 0 16.67%, #c97a35 0 33.33%, #cfa244 0 50%, #7c98b3 0 66.67%, #4f86d6 0 83.33%, #8b9096 0);
+}
+.book-cover-ftf .book-cover-emblem { fill: #e2be6c; }
+.book-cover-ftf .book-cover-kicker { color: #e2be6c; }
+.book-cover-ftf .book-cover-title {
+    padding-left: 0.14em;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+}
+
+/* The Book of Old Magic: lapis glazed brick between two rosette friezes, Ištar's star */
+.book-cover-old-magic {
+    --bc-lapis: #1b3a6b;
+    --bc-lapis-deep: #122a50;
+    padding-block: 1.75rem;
+    background-color: var(--bc-lapis);
+    background-image:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='24' viewBox='0 0 48 24'%3E%3Cpath d='M0 .5h48M0 12.5h48M.5 0v12M24.5 12v12' stroke='%23fff' stroke-opacity='.07' fill='none'/%3E%3C/svg%3E"),
+        radial-gradient(ellipse 70% 60% at 50% 40%, rgba(255, 255, 255, .09), transparent 70%),
+        linear-gradient(180deg, var(--bc-lapis) 0%, var(--bc-lapis-deep) 100%);
+    color: #f4ead2;
+    font-family: Cambria, "Noto Serif", "Times New Roman", Times, serif;
+}
+.book-cover-old-magic::before,
+.book-cover-old-magic::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 17px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='34' height='22' viewBox='0 0 34 22'%3E%3Cpath d='M0 1.5h34M0 20.5h34' stroke='%23e3bd62' stroke-opacity='.75'/%3E%3Cg fill='%23f4ead2'%3E%3Cellipse cx='17' cy='6.3' rx='1.75' ry='3.3' transform='rotate%280 17 11%29'/%3E%3Cellipse cx='17' cy='6.3' rx='1.75' ry='3.3' transform='rotate%2845 17 11%29'/%3E%3Cellipse cx='17' cy='6.3' rx='1.75' ry='3.3' transform='rotate%2890 17 11%29'/%3E%3Cellipse cx='17' cy='6.3' rx='1.75' ry='3.3' transform='rotate%28135 17 11%29'/%3E%3Cellipse cx='17' cy='6.3' rx='1.75' ry='3.3' transform='rotate%28180 17 11%29'/%3E%3Cellipse cx='17' cy='6.3' rx='1.75' ry='3.3' transform='rotate%28225 17 11%29'/%3E%3Cellipse cx='17' cy='6.3' rx='1.75' ry='3.3' transform='rotate%28270 17 11%29'/%3E%3Cellipse cx='17' cy='6.3' rx='1.75' ry='3.3' transform='rotate%28315 17 11%29'/%3E%3C/g%3E%3Ccircle cx='17' cy='11' r='2.1' fill='%23e3bd62'/%3E%3C/svg%3E") left center / 27px 17px repeat-x;
+}
+.book-cover-old-magic::before { top: 0; }
+.book-cover-old-magic::after { bottom: 0; }
+.book-cover-old-magic .book-cover-emblem circle { fill: none; stroke: #e3bd62; stroke-width: 1.6; }
+.book-cover-old-magic .book-cover-emblem circle + circle { stroke-width: 0.8; opacity: .75; }
+.book-cover-old-magic .book-cover-emblem path { fill: #e3bd62; }
+.book-cover-old-magic .book-cover-title {
+    font-size: 1.55rem;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, .3);
+}
+
+@media (prefers-color-scheme: dark) {
+    .book-cover-novel {
+        --bc-glow: #3d2c63;
+        --bc-base: #241a3a;
+        --bc-deep: #0e0a18;
+    }
+    .book-cover-old-magic {
+        --bc-lapis: #16305c;
+        --bc-lapis-deep: #0e2042;
+    }
+}
+
 /* ---------- About ---------- */
 .about-grid {
     margin-top: 1rem;

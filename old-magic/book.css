@@ -412,9 +412,12 @@ a:focus-visible, button:focus-visible {
   white-space: nowrap;
   color: var(--muted);
 }
-/* the Akkadian, under the translation */
+/* the original (Akkadian, Sumerian), under the translation: words in italics as
+   the source writes them, logograms and the marks ÉN, TU₆ ÉN upright */
 .translit { margin-top: 1.15rem; padding-top: 1rem; border-top: 1px dashed var(--clay-edge); }
-.translit .stanza { font-size: .94em; font-style: italic; color: var(--muted); }
+.translit .stanza { font-size: .94em; font-style: normal; color: var(--muted); }
+.translit em { font-style: italic; }
+.translit sup { line-height: 0; }
 .translit .l.ed { font-style: normal; }
 .book-text > .translit, .entry > .translit { padding: .2rem 0 .2rem 1.1rem; border-top: 0; border-left: 2px solid var(--clay-edge); }
 

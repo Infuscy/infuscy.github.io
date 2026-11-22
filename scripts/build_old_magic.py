@@ -18,7 +18,9 @@ The text is never rewritten, only marked up for reading:
   * Source / Use / Label paragraphs  -> a catalogue card (<dl class="catalogue">)
   * the incantations ("Words")       -> <figure class="tablet">, one line per
     verse line (hanging indent), italic line numbers moved to a gutter, and the
-    Akkadian transliteration that follows attached under it
+    original-language blocks that follow ("Akkadian (…).", "Sumerian (…).")
+    attached under it, with lang="akk"/"sux"; their italics are kept, so the
+    logograms and the marks ÉN, TU₆ ÉN, KA.INIM.MA stay upright
   * Close / Composite / Summary      -> small labels
   * "Today." notes                   -> a callout; a warning one when it says "No."/"Not"
   * [...] and (?)                    -> muted, as the book's own sigla
@@ -239,6 +241,9 @@ LEAD_STRONG = re.compile(r"^<strong>(.*?)</strong>(.*)$", re.S)
 LINE_NO = re.compile(r"^<em>((?:obv\.|rev\.)\s*)?\d+′?(?:–\d+′?)?</em>\s+")
 CATALOGUE = {"Source.": "Source", "Use.": "Use", "Label.": "Label"}
 KINDS = ("Close", "Composite", "Summary")
+# Bold labels that open an original-language block, and the language they tag.
+ORIGINAL = re.compile(r"^(Akkadian|Sumerian)\b")
+LANG_CODES = {"Akkadian": "akk", "Sumerian": "sux"}
 
 
 def lead(block):
@@ -257,8 +262,9 @@ def mark_kinds(s):
                   lambda m: f'<span class="kind kind-{m.group(1).lower()}">{m.group(1)}</span>', s)
 
 
-def render_lines(inner, translit=False):
-    """One verse paragraph -> (html, numbered?)."""
+def render_lines(inner, lang=None):
+    """One verse paragraph -> (html, numbered?). With `lang` it is an original:
+    each line carries the language tag, and its italics stay as written."""
     numbered = False
     spans = []
     raw = [ln.strip() for ln in re.split(r"<br />\s*", inner.strip())]
@@ -273,9 +279,8 @@ def render_lines(inner, translit=False):
         # A whole line in brackets is an editor's or healer's note, not the spell.
         if re.fullmatch(r"\((?:[^()]|\([^()]*\))*\)\.?", text) and not line.startswith("<em>"):
             cls += " ed"
-        elif translit:
-            line = re.sub(r"</?em>", "", line)
-            extra = ' lang="akk"'
+        elif lang:
+            extra = f' lang="{lang}"'
         spans.append(f'<span class="{cls}"{extra}>{num}{line}</span>')
     longest = max(len(plain(x)) for x in raw)
     cls = "stanza long" if longest > 150 else "stanza"
@@ -283,9 +288,9 @@ def render_lines(inner, translit=False):
 
 
 def render_translit(label, rest):
-    body, _ = render_lines(rest, translit=True)
+    body, _ = render_lines(rest, lang=LANG_CODES[ORIGINAL.match(label).group(1)])
     # "Akkadian (I 1–3)." -> small-caps "Akkadian" + the reference in normal case
-    m = re.match(r"^(Akkadian)\s*\((.*)\)\.?$", label)
+    m = re.match(r"^(Akkadian|Sumerian)\s*\((.*)\)\.?$", label)
     cap = (f'<span class="cap-label">{m.group(1)}</span> <span class="cap-ref">({m.group(2)})</span>'
            if m else label.rstrip("."))
     return f'<div class="translit"><p class="translit-cap">{cap}</p>{body}</div>'
@@ -315,11 +320,14 @@ def build_tablet(blocks, start, caption, first_free):
     if not stanzas:
         return start, None
     translit = ""
-    if j < n and blocks[j][0] == "p":
+    # every original-language block that follows (a spell's Akkadian, then the
+    # Akkadian of its label from another copy, …) goes under the translation
+    while j < n and blocks[j][0] == "p":
         label, rest = lead(blocks[j][1])
-        if label and label.startswith("Akkadian"):
-            translit = render_translit(label, rest)
-            j += 1
+        if not (label and ORIGINAL.match(label)):
+            break
+        translit += render_translit(label, rest)
+        j += 1
     cls = "tablet numbered" if numbered else "tablet"
     cap = f"<figcaption>{caption}</figcaption>" if caption else ""
     return j, (f'<figure class="{cls}">{cap}<blockquote class="verse">{"".join(stanzas)}'
@@ -407,7 +415,7 @@ def transform(blocks):
             i, html = build_catalogue(blocks, i)
             out.append(html)
             continue
-        if label and label.startswith("Akkadian"):
+        if label and ORIGINAL.match(label):
             out.append(render_translit(label, rest))
             i += 1
             continue

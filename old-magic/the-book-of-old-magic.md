@@ -39,6 +39,7 @@ Most of the genres in this book appear together in one ancient list, the so-call
 - **Use:** what the ancient client wanted.
 - **Ritual:** what the tablet tells the exorcist to do, where that survives.
 - **Words:** the incantation itself.
+- **Akkadian** or **Sumerian:** the original, set under the English, where it has been checked against an edition.
 - **Note:** context, parallels and what is uncertain.
 
 In the words, \[…\] marks clay broken away, (words) are added for sense, (?) marks an uncertain reading and *italics* give the original Akkadian or Sumerian. "N, son of N" stands where the tablet leaves a blank for the client's name (*annanna mār annanna*).
@@ -55,7 +56,7 @@ Where a rite needs only harmless things (an onion, clay, wool, flour, water, a l
 
 ### On this edition
 
-This edition is unexpurgated. The love and potency texts of Chapter VI are translated as they stand, sexual vocabulary included, and every ritual recipe is given in full wherever the tablet preserves it, including the ghost-raising recipe in Chapter IV. A few entries are still abridged, because the full text is very long or could not be checked line by line against an edition: *Maqlû* III, *Maqlû* VIII 127–137 and the oven incantation, the onion rite, the bad-dream clod, the Cow of Sîn, the second lullaby, the treaty curses of Esarhaddon, the *Book of Overthrowing Apep* and the Sefire curses. Their labels say so, and Appendix C lists the editions that give them whole.
+This edition is unexpurgated. The love and potency texts of Chapter VI are translated as they stand, sexual vocabulary included, and every ritual recipe is given in full wherever the tablet preserves it, including the ghost-raising recipe in Chapter IV. A few entries are still abridged, because the full text is very long or could not be checked line by line against an edition: *Maqlû* III, the last incantation of *Maqlû* VIII and the oven passage of *Maqlû* II, the onion rite, the bad-dream clod, the Cow of Sîn, the second lullaby, the treaty curses of Esarhaddon, the *Book of Overthrowing Apep* and the Sefire curses. Their labels say so, and Appendix C lists the editions that give them whole.
 
 **Line references.** "I 1–36" means Tablet I, lines 1–36 of a series; obv. and rev. are the front and back of a tablet; a prime (15′) counts lines from a break, not from the top. In long translations, line numbers in italics open the line they refer to.
 
@@ -65,21 +66,36 @@ This edition is unexpurgated. The love and potency texts of Chapter VI are trans
 - **Volumes of cuneiform copies:** BAM, *Die babylonisch-assyrische Medizin*; CT, *Cuneiform Texts from Babylonian Tablets in the British Museum*; KAL, *Keilschrifttexte aus Assur literarischen Inhalts*; KAR, *Keilschrifttexte aus Assur religiösen Inhalts*; KUB, *Keilschrifturkunden aus Boghazköi*; LKA, *Literarische Keilschrifttexte aus Assur*; MAD, *Materials for the Assyrian Dictionary*; OECT, *Oxford Editions of Cuneiform Texts*; SpTU, *Spätbabylonische Texte aus Uruk*; STT, *The Sultantepe Tablets*; VS, *Vorderasiatische Schriftdenkmäler*; YOS, *Yale Oriental Series*.
 - **Editions, catalogues and corpora:** ANET, *Ancient Near Eastern Texts Relating to the Old Testament*; CTH, *Catalogue des textes hittites*; KAI, *Kanaanäische und aramäische Inschriften*; SAA, *State Archives of Assyria*; CDLI, Cuneiform Digital Library Initiative (P-numbers); ORACC, Open Richly Annotated Cuneiform Corpus; ETCSL, Electronic Text Corpus of Sumerian Literature; SEAL, Sources of Early Akkadian Literature.
 
-**Transliteration.** Akkadian is normalized, in italics, with long vowels marked (*alsīkunūši ilū mušīti*, "I call upon you, gods of the night"). Sumerian words are hyphenated sign by sign (*nam-búr-bi*); logograms and sign names are in capitals (ŠÀ.ZI.GA, KA.INIM.MA).
+**Transliteration.** Akkadian is normalized, in italics, with long vowels marked (*alsīkunūši ilū mušīti*, "I call upon you, gods of the night"). Sumerian words are hyphenated sign by sign (*nam-búr-bi*), with determinatives raised (<sup>d</sup> before a god's name, <sup>ki</sup> after a place); logograms and sign names are in capitals and upright (ŠÀ.ZI.GA, KA.INIM.MA), and so are the marks that open and close a spell (ÉN, TU₆ ÉN). In the originals, square brackets enclose signs restored where the clay is broken, round brackets signs that only some copies write, and ‹ › a word the scribe left out.
+
+**The originals.** Fourteen entries give the original under the English, and the formulas in "The grammar of a spell" give theirs. The blocks added in this revision name the edition they follow: Tzvi Abusch's *Maqlû* and the *Descent of Ištar* in the electronic Babylonian Library (eBL), the Electronic Text Corpus of Sumerian Literature (ETCSL) for the *Curse of Agade*, ORACC for Esarhaddon's treaty and the library colophons, SEAL and SOAS's BAPLAR archive for the dog and toothache spells, and eBL's transliterations of single Nineveh tablets for the formulas. The other entries are still translation only: their editions (Geller's *Udug-hul*, Farber's *Lamaštu*, Reiner's *Šurpu*, Biggs's ŠÀ.ZI.GA and others) have not yet been checked line by line for the originals, and the Egyptian, Hittite and Aramaic texts of Chapter X are given in English only.
 
 **Translations.** The English is this book's own unless another translation is named. Longer word-for-word quotations come only from public-domain translations: R. Campbell Thompson (1903–04), L. W. King and the King James Version. Short phrases quoted from modern editions are marked as quotations.
 
 ## The grammar of a spell
 
-Nearly every incantation in this book is assembled from the same seven parts. Learn them once and every spell that follows becomes readable, even where the clay is broken.
+Nearly every incantation in this book is assembled from the same seven parts, though few spells use all seven. Learn them once and every spell that follows becomes readable, even where the clay is broken. The originals quoted below each come from a named tablet; "One spell, part by part" then takes a single spell through in the original.
 
-1. **The opening mark.** Sumerian spells begin with the sign ÉN, often expanded to *én é-nu-ru*; Akkadian ones with *šiptu*, "incantation." It announces that what follows is not ordinary speech.
-2. **The credentials.** The exorcist never speaks for himself. "I am the man of Ea, I am the man of Damgalnunna, I am the messenger of Asalluḫi," he says in the great demon series. The words, and therefore their power, belong to the gods.
+1. **The opening mark.** Sumerian spells begin with the sign ÉN, often expanded to *én é-nu-ru*; Akkadian ones with *šiptu*, "incantation." It announces that what follows is not ordinary speech. By the first millennium the sign ÉN opens Akkadian spells too: every incantation of *Maqlû* begins with it.
+2. **The credentials.** The exorcist never speaks for himself. "I am the man of Ea, I am the man of Damgalnunna, I am the messenger of Asalluḫi," he says in the bilingual spells. On a Nineveh copy of the *Saĝba* spells against the curse (K 4916) the third line reads, in Sumerian, *gá-e lú kíg-gi₄-a <sup>d</sup>asal-lú-hi-[me-en]*, and the spell goes on: "Ea's hand is in my hand … Ea's spell is in my spell" (Akkadian *ša qāt Ea ina qātīya iba[šši] … tû ša Ea ina têʾa iba[šši]*). The words, and therefore their power, belong to the gods.
 3. **The naming of the evil.** The demon, disease or witch is described: where it came from, what it looks like, what it did, where it hides. What can be named exactly can be commanded.
-4. **The conversation of the gods.** In hundreds of spells the young god Asalluḫi (later identified with Marduk) sees the sufferer, goes to his father Enki (Ea) in Eridu and reports the case. Ea answers: "My son, what do you not know? What could I add for you? What I know, you know." Then he gives the cure, which is exactly the ritual the exorcist is about to perform.
-5. **The likeness and the oath.** An action on an object stands for the cure: "As this onion is peeled and burned, so may the curse be peeled away." Then the evil is put under oath: Sumerian *zi an-na hé-pà, zi ki-a hé-pà*, "By heaven be adjured! By earth be adjured!"
-6. **The disclaimer.** Many Akkadian spells close: "The incantation is not mine. It is the incantation of Ea and Asalluḫi, of Damu and Gula, of Ningirima, lady of incantations." Sumerian ones end with the mark TU₆.ÉN.
-7. **The label and the rite.** Under a ruled line the tablet names the spell (KA.INIM.MA, "wording for …") and then gives its ritual (KÌD.KÌD.BI, "its procedure"): what to make, where, when, and how many times to recite.
+4. **The conversation of the gods.** In hundreds of spells the young god Asalluḫi (later identified with Marduk) sees the sufferer, goes to his father Enki (Ea) in Eridu and reports the case. Ea answers: "My son, what do you not know? What could I add for you? What I know, you know." Then he gives the cure, which is exactly the ritual the exorcist is about to perform. On a Nineveh tablet of the mouth-washing spells (Sm 1256; Chapter IX) Ea's first line reads, in Sumerian, *dumu-[gu₁₀ a-na] nu-ì-zu a-na a-ra-ab-dah-e*.
+5. **The likeness and the oath.** An action on an object stands for the cure: "As this onion is peeled and burned, so may the curse be peeled away." In Assyrian Akkadian the pattern is *kî ša* …, *kî ḫannīe* …, "just as …, so …": *kî ša ṣalmu ša iškuri ina išāti iššarrapūni*, "just as an image of wax is burned in the fire," runs a curse of Esarhaddon's treaty (Chapter VIII). Then the evil is put under oath: Sumerian *zi an-na hé-pà, zi ki-a hé-pà*, "By heaven be adjured! By earth be adjured!"
+6. **The disclaimer.** Many Akkadian spells close: "The incantation is not mine. It is the incantation of Ea and Asalluḫi, of Damu and Gula, of Ningirima, lady of incantations." An Old Babylonian dog spell (Chapter V) has the short form in the original: *šiptum ul yattum šipat Damu u Gula*, "the incantation is not mine; it is the incantation of Damu and Gula." Sumerian spells end with the mark TU₆ ÉN, and by the first millennium so do Akkadian ones. Many spells of *Maqlû* end on whose command they are spoken: *ina qibīt Ea Šamaš Marduk u rubāti Bēlet-ilī* TU₆ ÉN, "by the command of Ea, Šamaš, Marduk and the princess Bēlet-ilī."
+7. **The label and the rite.** Under a ruled line the tablet names the spell (KA.INIM.MA, "wording for …") and then gives its ritual (KÌD.KÌD.BI, "its procedure"): what to make, where, when, and how many times to recite. In *Maqlû* the label can hold the rite in a single line: KA.INIM.MA UŠ₁₁.BÚR.RU.DA *ṣalam ṭīdi ša lipâ ballu*, "wording for undoing witchcraft: a figurine of clay mixed with tallow."
+
+### One spell, part by part
+
+"Fire god, burn her" (*Maqlû* II 183–204, in Chapter II) is set out here in the original, as Tzvi Abusch edits it in the electronic Babylonian Library. It has the opening and closing marks, the naming of the evil, the likeness and the label with its rite. It has no credentials, no oath and no disclaimer, and in place of the conversation of the gods the speaker sends the gods out himself.
+
+1. **The opening mark** (line 183). ÉN *attimannu kaššāptu ša ina nāri imluʾu ṭīdâya*: "Incantation. Whoever you are, witch, who took clay from the river for an image of me."
+2. **The naming of the evil** (183–188). Six clauses say what she did, ending at the threshold where she gathered the dirt of his feet (*ina askuppati išbušu eper šē[pīya]*).
+3. **The likeness** (189–190 and 202–203). Tallow and clay have been fetched for her image (*ašpur ana bāb kāri išāmūni lipâki*, "I sent to the gate of the quay, and they bought me tallow for your image"), and the image goes into the fire with the words *Girra qumī[ši] Girra qulīši Girra kušussi*: "Fire god, burn her! Fire god, consume her! Fire god, overpower her!"
+4. **The gods at work** (191–196). The speaker sends against her the oven and the fire god, Sîn from Ur, Šamaš from Larsa, Nergal with his troops and Ištar of Agade, "to gather up the seed of my sorcerer and my sorceress."
+5. **The closing mark** (203). TU₆ ÉN.
+6. **The label and the rite** (204). KA.INIM.MA UŠ₁₁.BÚR.RU.DA *ṣalam ṭīdi ša lipâ ballu*: "wording for undoing witchcraft: a figurine of clay mixed with tallow."
+
+The authority behind the words is the fire god's own: the speaker trusts in "the steady light of the fire god, the judge" (*Girra dayyānu*, line 201).
 
 ### The tools of the craft
 
@@ -248,11 +264,11 @@ The anti-witchcraft texts list her methods in the victim's own voice. She gather
 
 ### I call upon you, gods of the night
 
-**Source.** *Maqlû* Tablet I, lines 1–36, the opening incantation of the night.
+**Source.** *Maqlû* Tablet I, lines 1–36, the opening incantation of the night, and the line that labels it.
 
 **Use.** To bring the case against the witch before the stars, the night and the gods of the netherworld, as before a court.
 
-**Label.** Close (complete).
+**Label.** Close (complete, with the original).
 
 **Words.**
 
@@ -292,11 +308,46 @@ what spoke evil against me, may it melt like tallow;\
 what worked witchcraft on me, may it dissolve like salt.\
 Her knots are untied, her works destroyed,\
 and all her words fill the empty steppe,\
-by the command of the gods of the night.
+by the command of the gods of the night.\
+(Wording for undoing witchcraft.)
 
-**Akkadian (I 1–3).** *alsīkunūši ilū mušīti*\
-*ittīkunu alsi mušītu kallatu kuttumtu*\
-*alsi barārītu qablītu u namārītu*
+**Akkadian (I 1–36 and the label, after Tzvi Abusch's edition in the electronic Babylonian Library).** ÉN *alsīkunūši ilū mušīti*\
+*ittīkunu alsi mušītu kallātu kuttumtu*\
+*alsi barārītu qablītu u namārītu*\
+*aššu kaššāptu ukaššipanni*\
+*elēnītu ubbiranni*\
+*ilī u ištarī ušessû elīya*\
+*eli āmerīya amruṣu anāku*\
+*emdēku lā ṣalālu mūša u urra*\
+*qû imtanallû pīya*\
+*upunti pîya iprusu*\
+*mê maštītīya umaṭṭû*\
+*elēlī nubû ḫidûtī sipdi*\
+*izizzānim-ma ilū rabûtu šimâ dabābī*\
+*dīnī dīnā alaktī limdā*\
+*ēpuš ṣalam kaššāpīya u kaššāptīya*\
+*ša ēpišīya u muštēpištīya*\
+*aškun ina šaplīkunu-ma adabbub dīnī*\
+*aššu īpuša lemnēti išteʾʾâ lā banâti*\
+*šī limūt-ma anāku lubluṭ*\
+*kišpūša ruḫûša rusûša lū pašrū*\
+*bīnu lillilanni ša qimmatu šarû*\
+*gišimmaru lipšuranni māḫirat kalû šāri*\
+*maštakal libbibanni ša erṣeta malâta*\
+*terinnatu lipšuranni ša šeʾa malâta*\
+*ina maḫrīkunu ētelil kīma sassati*\
+*ētebib azzaku kīma lardi*\
+*tûša ša kaššāpti lemutte*\
+*turrat amāssa ana pîša lišānša kaṣrat*\
+*ina muḫḫi kišpīša limḫaṣūši ilū mušīti*\
+*šalāš maṣṣarātu ša mūši lipšurā ruḫêša lemnūti*\
+*pûša lū lipû lišānša lū ṭabtu*\
+*ša iqbû amāt lemuttīya kīma lipî littattuk*\
+*ša īpušu kišpī kīma ṭabti lišḫarmiṭ*\
+*kiṣrūša puṭṭurū epšētūša ḫulluqā*\
+*kal amâtūša malâ ṣēra*\
+*ina qibīt iqbû ilū mušīti* TU₆ ÉN\
+[KA.INIM.MA U]Š₁₁.BÚR.DA.[KAM]
 
 ### The witch who walks the streets
 
@@ -304,7 +355,7 @@ by the command of the gods of the night.
 
 **Use.** To describe the witch so exactly that she can be seized.
 
-**Label.** Close (opening lines only).
+**Label.** Close (opening lines only: III 1–16, leaving out lines 11–12 and 14).
 
 **Words.**
 
@@ -322,13 +373,27 @@ She saw me and came after me;\
 with her spittle she has blocked my road;\
 she has driven my god and my goddess from my body.
 
+**Akkadian (III 1–10, 13, 15–16, after Tzvi Abusch's edition in the electronic Babylonian Library).** ÉN *kaššāptu muttalliktu ša sūqāti*\
+*mūterribtu ša bītāti*\
+*dayyālītu ša birêti*\
+*ḫayyāṭītu ša rebâti*\
+*ana pānīša u arkīša issanaḫḫur*\
+*izzâz ina sūqim-ma usaḫḫar šēpī šēpīšu*\
+*ina rebīti iptaras alaktu*\
+*ša eṭli damqi dūssu īkim*\
+*ša ardati damiqti inibša itbal*\
+*ina nekelmêša kuzubša ilqe* …\
+*īmuranni-ma kaššāptu illika arkīya* …\
+*ina ruḫêša išdiḫī iprus*\
+*ušassi ilī u ištarī ina zumrīya*
+
 ### Fire god, burn her
 
-**Source.** *Maqlû* Tablet VII, lines 183–203, and the oven incantation of the same series.
+**Source.** *Maqlû* Tablet II, lines 183–204, and the oven passage of the incantation that follows (II 219–225).
 
 **Use.** Recited while the witch's figurines are put in the fire: the clay one bursts, the tallow one melts.
 
-**Label.** Close (VII 183–203, some lines in an order that follows the sense); the oven incantation abridged.
+**Label.** Close (II 183–204 complete, with the line that labels it); the oven passage abridged.
 
 **Words.**
 
@@ -338,13 +403,46 @@ who buried my water in a tomb,\
 who picked up my scraps from the dust heaps,\
 who tore the fringe from my garment at the fuller's,\
 who gathered the dirt of my feet from a threshold:\
-I sent to the city's canal, and they pinched off clay for your image;\
-I sent to the gate of the quay, and they bought me tallow for your image.\
+I sent to the gate of the quay, and they bought me tallow for your image;\
+I sent to the city's canal, and they pinched off clay for your image.\
 I am sending against you the burning oven, the flaring fire god,\
-the ever-burning fire god, the steady light of the gods.\
+the ever-burning fire god, the steady light of the gods,\
+Sîn from Ur, Šamaš from Larsa,\
+Nergal with his troops,\
+Ištar of Agade with her sanctuary,\
+to gather up the seed of my sorcerer and my sorceress, as much as there is.\
+May they kill the witch, and may I live!\
+For I did no witchcraft against her, but she did against me;\
+I did not seek her out, but she sought me out.\
 She trusts in her clever witchcraft;\
 I trust in the steady light of the fire god, the judge.\
-Fire god, burn her! Fire god, consume her! Fire god, overpower her!
+Fire god, burn her! Fire god, consume her! Fire god, overpower her!\
+(Wording for undoing witchcraft: a figurine of clay mixed with tallow.)
+
+**Akkadian (II 183–204, after Tzvi Abusch's edition in the electronic Babylonian Library).** ÉN *attimannu kaššāptu ša ina nāri imluʾu ṭīdâya*\
+*ina bīti eṭî utammeru ṣalmīya*\
+*ina qabri itmeru mêya*\
+*ina tubkinnāti ulaqqitu ḫuṣābēya*\
+*ina bīt ašlāki ibtuqu sissikt[ī]*\
+*ina askuppati išbušu eper šē[pīya]*\
+*ašpur ana bāb kāri išāmūni lipâki*\
+*ašpur ana ḫirīt āli ikriṣūni ṭīdaki*\
+*ašapparakkim-ma āliku tinūru Girra munnaḫzu*\
+*[G]irra eddēšû nūr ilī kayyānu*\
+*[Sîn] ina Uri Šamaš ina Larsa*\
+*Nergal adi ummānātīšu*\
+*Ištar Akkadê adi kummīša*\
+*ana laqāt zēr ša kaššāpīya u kaššāptīya mala bašû*\
+*kaššāpta lidūkū-ma anāku lubluṭ*\
+*aššu lā ēpušaššim-ma īpuša*\
+*aššu lā asḫuraššim-ma isḫura*\
+*šī taklat ana kišpīša kitpudūti*\
+*u anāku ana kay[yāni] nūr ‹ilī› Girra dayyānu*\
+*Girra qumī[ši] Girra qulīši*\
+*Girra kušussi* TU₆ ÉN\
+KA.INIM.MA UŠ₁₁.BÚR.RU.DA *ṣalam ṭīdi ša lipâ ballu*
+
+**Words: the oven.**
 
 Pure oven, great daughter of Anu,\
 in whom the fire is flaring, in whom the valiant fire god has made his home,\
@@ -352,9 +450,18 @@ whose flames reach the sky:\
 burn, set alight, consume my witch!\
 May the life of my sorcerer and my sorceress end quickly, quickly!
 
+**Akkadian (II 219–224).** *ut[ū]nu elletu mārat Ani rabītu*\
+*ša ina libbīša nanḫuzat išāt qabri*\
+*[ina] libb[īš]a Girra qardu irmâ [šu]bassu*\
+*[ina?] na[pāḫīš]a? šamāmī ikšudū nabl[ūša]*\
+*ka[ššāpt]ī qumî qulî ḫumm[iṭī]*\
+*arḫiš ḫanṭiš ša kaššāpīya u ka[ššāptīya] napištašunu li[blē-ma]*
+
+**Note.** [One spell, part by part](grammar.html#one-spell-part-by-part), in "The grammar of a spell," takes the first spell through its parts in the original.
+
 ### At dawn: your reflection in the water
 
-**Source.** *Maqlû* Tablet VIII, lines 127–137.
+**Source.** *Maqlû* Tablet VIII, its last incantation (lines B+9–21 in Tzvi Abusch's edition in the electronic Babylonian Library).
 
 **Use.** The last act of the night: the cleansed client looks at his own face in a bowl of pure water.
 
@@ -364,7 +471,14 @@ May the life of my sorcerer and my sorceress end quickly, quickly!
 
 You are my reflection …\
 You are mine, and I am yours.\
-Let no one know you; let no evil come near you.
+Let no one know you; let no evil come near you,\
+by the command of Ea, Šamaš, Marduk and the princess Bēlet-ilī.
+
+**Akkadian (VIII B+9, B+18–21).** ÉN *attā ṣillī attā bāštī* …\
+*attā yāʾu anāku kû*\
+*mamman ay ilmadka mimma l[emn]u ay iṭḫēka*\
+*ina qibīt Ea Šama[š] Marduk*\
+*u rubāti Bēlet-ilī* [T]U₆ ÉN
 
 ### The night of burning
 
@@ -762,14 +876,20 @@ wherever he bit, he left his offspring.\
 The incantation is not mine: it is the incantation of Damu and Gula.\
 Gula spoke it; I recited it.
 
-**Akkadian (opening of one copy, normalized).** *urruk birkīšu aruḫ lasāmam*\
+**Akkadian (the opening of one copy, as SOAS's BAPLAR archive reads it after SEAL).** *urruk birkīšu aruḫ lasāmam*\
 *īṣ bubūtam etnuš akālam*\
-*ina šinnīšu e'il nīlšu*\
-*ašar iššuku mārāšu īzib*
+*ina šinnīšu eʾil nīlšu*\
+*ašar iššuku mārāšu izzib*
+
+**Akkadian (the close of another copy, BM 79125, after Irving Finkel's edition in SEAL).** *šipat é-én-nu-ru*\
+*šiptum ul yattum*\
+*šipat Damu u Gula*\
+*Gula iqbi-ma anāku addi*\
+*šipat é-én-nu-ru ana libbi nešik kalbim* …
 
 **Ritual.** One copy says: anoint the bite with oil and apply ghee while reciting. Another: take earth from the foundation of a tavern wall, smear it on the bite and bandage it, "and he will get better."
 
-**Note.** The dog's "offspring" left in the wound is rabies. The Laws of Ešnunna (§§56–57) fine the owner of a known vicious dog that bites a man to death 40 shekels of silver.
+**Note.** BM 79125 frames its spell as "The grammar of a spell" describes: the mark *šipat é-én-nu-ru* closes the words, the disclaimer follows, and the label repeats the mark, "an *é-én-nu-ru* incantation against a dog's bite," before the rite. The dog's "offspring" left in the wound is rabies. The Laws of Ešnunna (§§56–57) fine the owner of a known vicious dog that bites a man to death 40 shekels of silver.
 
 **Today.** No. A dog bite needs washing and a doctor; rabies is still almost always fatal once symptoms appear.
 
@@ -802,17 +922,18 @@ and gnaw away the gum."\
 "Because you said this, worm,\
 may Ea strike you with the might of his hand!"
 
-**Akkadian (normalized).** *ultu Anum ibnû šamê*\
+**Akkadian (normalized, as SOAS's BAPLAR archive reads it from King's copy in CT 17).** *ultu Anum ibnû šamê*\
 *šamû ibnû erṣetum*\
 *erṣetum ibnû nārāti*\
-*nārāti ibnâ atappāti*\
+*nārātu ibnâ atappāti*\
 *atappāti ibnâ rušumta*\
 *rušumta ibnû tūltu*\
 *illik tūltu ana pān Šamaš ibakki*\
 *ana pān Ea illakā dimāša*\
 *mīna tattanna ana akāliya*\
 *mīna tattanna ana munzuqiya*\
-(Ea's offer and the worm's reply: two lines)\
+*attannakki titta bašilta armannaya ḫašḫūra*\
+*anāku ammīnannâ titta bašilta u armannaya ḫašḫūra*\
 *šuknanni-ma ina birīt šinni u lašḫi šūšibanni*\
 *ša šinni-ma lunzuqa damīšu*\
 *u ša lašḫim luksup kusāpēšu*\
@@ -1112,6 +1233,20 @@ may no one who settles in you find rest!"\
 *272–280* And under Utu, the sun, it came to pass: everything happened as the gods had said.\
 *281* Agade is destroyed. Praise Inana!
 
+**Sumerian (210–221 and 281, after the ETCSL composite text).** *ud-ba <sup>d</sup>suen <sup>d</sup>en-ki <sup>d</sup>inana <sup>d</sup>nin-urta <sup>d</sup>iškur <sup>d</sup>utu <sup>d</sup>nuska <sup>d</sup>nisaba diĝir gal-gal-e-ne*\
+*šag₄ <sup>d</sup>en-líl-lá-ke₄ a šed₁₀ im-šed₁₀-e-ne a-ra-zu-ta ba-ab-bé-ne*\
+*<sup>d</sup>en-líl iri iri-zu im-hul-a iri-zu-gin₇ hé-dù*\
+*gi-gun₄-na-zu šu bí-in-lá-lá nibru<sup>ki</sup>-gin₇ hé-dù*\
+*iri-ba saĝ túl-ba hé-ni-ib-si-si*\
+*lú lú-ù-zu-ne na-an-ni-in-pàd-dè*\
+*šeš-e šeš-a-ni ĝiškim na-an-ni-in-éd*\
+*ki-sikil-bi ama₅-na ĝiš hul hé-en-da-ab-ra*\
+*ad-da-bi é dam ug₇-a-na gù gig-bi hé-em-me*\
+*tu<sup>mušen</sup>-bi ab-làl-ba še hé-ni-in-ša₄*\
+*buru₅<sup>mušen</sup>-bi á-búr-ba níĝ hé-ni-ib-ra*\
+*tu<sup>mušen</sup> ní te-a-gin₇ ur₅-da hé-ak-e* …\
+*a-ga-dè<sup>ki</sup> hul-a <sup>d</sup>inana zà-mí*
+
 **Note.** The poem was written a century or more after the events. Narām-Sîn's own bricks show him rebuilding the Ekur, not wrecking it; the curse is a theology of disaster, not history.
 
 ### Hammurabi's curses
@@ -1193,6 +1328,15 @@ May they make your ground like iron.\
 Just as rain does not fall from a sky of bronze,\
 so may no rain and no dew come on your fields and meadows.
 
+**Akkadian (SAA 2, no. 6: 608–611, 528 and 530–532, normalized as in ORACC's State Archives of Assyria Online).** *kî ša ṣalmu ša iškuri ina išāti iššarrapūni*\
+*ša ṭiṭṭi ina mê immaḫḫaḫūni*\
+*kî ḫannīe lānkunu ina Girra liqmû*\
+*ina mê luṭabbû* …\
+*kaqqarkunu kî parzilli lēpušū* …\
+*kî ša ultu libbi šamê ša siparri zunnu lā izannunūni*\
+*kî ḫannīe zunnu nalšu ina libbi eqlātikunu*\
+*tamerātikunu lū lā illak* …
+
 **Note.** The bronze sky and iron earth reappear in Deuteronomy 28:23: "And thy heaven that is over thy head shall be brass, and the earth that is under thee shall be iron" (King James Version). Many scholars think Deuteronomy borrowed from this treaty; others argue the curse form is older than both.
 
 ### The librarian's curse
@@ -1209,6 +1353,12 @@ Palace of Ashurbanipal, king of the world, king of Assyria, who trusts in Aššu
 Whoever takes this tablet away, or writes his own name in place of mine,\
 may Aššur and Ninlil cast him down in fury and wrath,\
 and wipe out his name and his seed from the land.
+
+**Akkadian (normalized here from ORACC's transliteration of two colophon types: the first line from type f, the curse from type e).** *ekal Aššur-bāni-apli šar kiššati šar māt Aššur*\
+*ša ana Aššur u Ninlil taklu* …\
+*mannu ša itabbalu u lū šumšu itti šumīya išaṭṭaru*\
+*Aššur u Ninlil aggiš ezziš liskipūšu-ma*\
+*šumšu zēršu ina māti liḫalliqū*
 
 A shorter variant: "Whoever erases my name and writes his own, may Nabû, scribe of all things, erase his name."
 
@@ -1229,6 +1379,14 @@ I will smash the door, I will shatter the bolt,\
 I will smash the doorpost, I will tear down the doors.\
 I will raise up the dead to eat the living:\
 the dead will outnumber the living!
+
+**Akkadian (lines 14–20, after the edition in the electronic Babylonian Library).** *atû-mê pitâ bābka*\
+*pitâ bābkā-ma lūrub(a) anāku*\
+*šumma lā tapattâ bāba (lā erruba anāku)*\
+*amaḫḫaṣ dalta sikkūra ašabbir*\
+*amaḫḫaṣ sippā-(ma) ušbalakkat dalāti*\
+*ušellâ mītūtī-(ma) ikkalū balṭūti*\
+*el(i) balṭūti imaʾʾidū mītūtu*
 
 ## Chapter IX · Rites of temple and king
 
@@ -1449,15 +1607,15 @@ Every entry rests on a published scholarly edition; the renderings in this book 
 
 | Chapter | Editions and translations |
 | --- | --- |
-| Front matter | M. J. Geller, "The Exorcist's Manual (KAR 44)," in U. Steinert (ed.), *Assyrian and Babylonian Scholarly Text Catalogues* (2018) |
+| Front matter | M. J. Geller, "The Exorcist's Manual (KAR 44)," in U. Steinert (ed.), *Assyrian and Babylonian Scholarly Text Catalogues* (2018); for the originals of the spell formulas, the electronic Babylonian Library's transliterations of K 4916 (*Saĝba*) and Sm 1256 (*Mīs pî*), and the editions named under Chapters II, V and VIII |
 | I · Demons | R. Campbell Thompson, *The Devils and Evil Spirits of Babylonia* (1903–04, public domain); M. J. Geller, *Evil Demons* (2007) and *Healing Magic and Evil Demons* (2016); W. Farber, *Lamaštu* (2014) |
-| II · Witchcraft | T. Abusch, *The Witchcraft Series Maqlû* (2015) and *The Magical Ceremony Maqlû* (2016); T. Abusch and D. Schwemer, *Corpus of Mesopotamian Anti-witchcraft Rituals* (2011–2016) |
+| II · Witchcraft | T. Abusch, *The Witchcraft Series Maqlû* (2015) and *The Magical Ceremony Maqlû* (2016), and his edition of *Maqlû* in the electronic Babylonian Library (2024), which the originals and line numbers follow; T. Abusch and D. Schwemer, *Corpus of Mesopotamian Anti-witchcraft Rituals* (2011–2016) |
 | III · Curses and omens | H. Zimmern (1896–1901); E. Reiner, *Šurpu* (1958); R. Caplice, *The Akkadian Namburbi Texts* (1974); S. M. Maul, *Zukunftsbewältigung* (1994); A. L. Oppenheim, *The Interpretation of Dreams in the Ancient Near East* (1956) |
 | IV · The dead | J. Scurlock, *Magico-Medical Means of Treating Ghost-Induced Illnesses* (2006); I. L. Finkel, "Necromancy in Ancient Mesopotamia," *AfO* 29–30 (1983–84) and *The First Ghosts* (2021); A. Damsma, *Religions* 16 (2025), on the Kanesh letter |
-| V · House and child | F. A. M. Wiggermann, *Mesopotamian Protective Spirits* (1992); N. Veldhuis, *A Cow of Sîn* (1991); W. Farber, *Schlaf, Kindchen, schlaf!* (1989); N. Wasserman and E. Zomer, *Akkadian Magic Literature* (2022) |
+| V · House and child | F. A. M. Wiggermann, *Mesopotamian Protective Spirits* (1992); N. Veldhuis, *A Cow of Sîn* (1991); W. Farber, *Schlaf, Kindchen, schlaf!* (1989); N. Wasserman and E. Zomer, *Akkadian Magic Literature* (2022); the SEAL editions of VS 17, 8 and BM 79125 (after I. L. Finkel, 1999) and SOAS's BAPLAR readings of the dog and tooth-worm spells, for the originals |
 | VI · Love | J. and A. Westenholz, "Help for Rejected Suitors," *Orientalia* 46 (1977); R. D. Biggs, *ŠÀ.ZI.GA* (1967) |
 | VII · Divination | G. Pettinato, *Die Ölwahrsagung bei den Babyloniern* (1966); the SEAL edition of the prayer to the gods of the night |
-| VIII · Curses | J. S. Cooper, *The Curse of Agade* (1983); R. F. Harper, *The Code of Hammurabi* (1904); L. W. King, *Babylonian Boundary-Stones* (1912); S. Parpola and K. Watanabe, *Neo-Assyrian Treaties and Loyalty Oaths* (SAA 2, 1988) |
+| VIII · Curses | J. S. Cooper, *The Curse of Agade* (1983), and the ETCSL composite text (2.1.5); R. F. Harper, *The Code of Hammurabi* (1904); L. W. King, *Babylonian Boundary-Stones* (1912); S. Parpola and K. Watanabe, *Neo-Assyrian Treaties and Loyalty Oaths* (SAA 2, 1988), in ORACC's State Archives of Assyria Online (CC BY-SA), lemmatized by M. Luukko; ORACC's *Ashurbanipal Library Colophons*; the electronic Babylonian Library's *Descent of Ištar* (2022) |
 | IX · Temple and king | C. Walker and M. Dick, *The Induction of the Cult Image in Ancient Mesopotamia* (2001); S. Parpola, *Letters from Assyrian and Babylonian Scholars* (SAA 10, 1993) |
 | X · Kindred magic | R. K. Ritner, *The Mechanics of Ancient Egyptian Magical Practice* (1993); R. O. Faulkner, *Journal of Egyptian Archaeology* 22–24 (1936–38); B. Christiansen, *Die Ritualtradition der Ambazzi* (2006); J. A. Fitzmyer, *The Aramaic Inscriptions of Sefire* (1995) |
 | Appendix A | A. Livingstone, *Court Poetry and Literary Miscellanea* (SAA 3, 1989), no. 32; J. Black and A. Green, *Gods, Demons and Symbols of Ancient Mesopotamia* (1992) |
@@ -1479,7 +1637,12 @@ For the whole field in one volume of translations: B. R. Foster, *Before the Mus
 - [SEAL: Sources of Early Akkadian Literature](https://seal.huji.ac.il/node/7026): Old Akkadian and Old Babylonian incantations in transliteration and translation (the Kish love charm, the dog, baby and birth spells, the prayer to the gods of the night).
 - [ORACC](https://oracc.museum.upenn.edu/asbp/rlasb/Q009331/): the Ashurbanipal library colophons and the online anti-witchcraft corpus.
 - [Corpus of Mesopotamian Anti-witchcraft Rituals: Maqlû](https://www.phil.uni-wuerzburg.de/cmawro/magic-witchcraft/maqlu/).
-- [ETCSL: The Cursing of Agade](https://etcsl.orinst.ox.ac.uk/section2/tr215.htm).
+- [ETCSL: The Cursing of Agade](https://etcsl.orinst.ox.ac.uk/section2/tr215.htm), and [its Sumerian text](https://etcsl.orinst.ox.ac.uk/section2/c215.htm).
+- [electronic Babylonian Library: *Maqlû*](https://www.ebl.lmu.de/corpus/Mag/1/1): Tzvi Abusch's edition, every line in normalized Akkadian with his translation (Chapter II and "The grammar of a spell").
+- [electronic Babylonian Library: *Descent of Ištar*](https://doi.org/10.5282/ebl/l/1/8): Ištar's threat at the gate (Chapter VIII).
+- [electronic Babylonian Library: K 4916](https://www.ebl.lmu.de/library/K.4916) and [Sm 1256](https://www.ebl.lmu.de/library/Sm.1256): the Nineveh tablets behind the credentials and Ea's answer in "The grammar of a spell."
+- [ORACC: Esarhaddon's Succession Treaty, SAA 2, no. 6](https://oracc.museum.upenn.edu/saao/saa02/Q009186/) (CC BY-SA), and [Ashurbanipal colophon type f](https://oracc.museum.upenn.edu/asbp/rlasb/Q009340/).
+- [SEAL: the dog spell of BM 79125](https://seal.huji.ac.il/node/7082), with its closing marks, disclaimer and rite, and [SOAS's BAPLAR reading of the dog spell](https://www.soas.ac.uk/baplar/recordings/incantation-dog-bite-read-michael-streck).
 - [Underworld Vision of an Assyrian Prince](https://en.wikipedia.org/wiki/Underworld_Vision_of_an_Assyrian_Prince).
 - [The toothache worm (CT 17, 50)](https://etana.org/node/567).
 - [British Museum: the Nineveh dog figurines](https://www.britishmuseum.org/collection/object/W_1856-0903-1505).

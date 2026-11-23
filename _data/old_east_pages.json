@@ -1,0 +1,57 @@
+[
+  {
+    "file": "introduction.html",
+    "title": "Before you begin: what “old” means here",
+    "kind": "front"
+  },
+  {
+    "file": "anatomy.html",
+    "title": "The anatomy of an Eastern charm",
+    "kind": "front"
+  },
+  {
+    "file": "calendar.html",
+    "title": "The calendar of power",
+    "kind": "front"
+  },
+  {
+    "file": "book-1.html",
+    "title": "Book I · Charms against the eye, fright and fever",
+    "kind": "book"
+  },
+  {
+    "file": "book-2.html",
+    "title": "Book II · Love, fate and the destined one",
+    "kind": "book"
+  },
+  {
+    "file": "book-3.html",
+    "title": "Book III · House, herd and field",
+    "kind": "book"
+  },
+  {
+    "file": "book-4.html",
+    "title": "Book IV · Divination",
+    "kind": "book"
+  },
+  {
+    "file": "book-5.html",
+    "title": "Book V · Curses, bindings and their undoing",
+    "kind": "book"
+  },
+  {
+    "file": "book-6.html",
+    "title": "Book VI · Rites of the year",
+    "kind": "book"
+  },
+  {
+    "file": "bestiary.html",
+    "title": "Bestiary — who walks at night",
+    "kind": "back"
+  },
+  {
+    "file": "sources.html",
+    "title": "Sources and further reading",
+    "kind": "back"
+  }
+]

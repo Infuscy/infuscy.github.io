@@ -46,4 +46,10 @@ layout: null
     <loc>{{ site.url }}/old-magic/{{ pg.file }}</loc>
   </url>
   {%- endfor %}
+  {%- comment %} The Old Book of the East: likewise, its pages come from scripts/build_old_east.py {% endcomment %}
+  {%- for pg in site.data.old_east_pages %}
+  <url>
+    <loc>{{ site.url }}/old-east/{{ pg.file }}</loc>
+  </url>
+  {%- endfor %}
 </urlset>

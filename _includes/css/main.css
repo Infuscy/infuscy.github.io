@@ -718,8 +718,9 @@ section.band {
    they stay dark in both colour schemes; the text on them is decorative (aria-hidden, the
    card's title follows). The ornaments repeat the books' own: the novel's arch sigil
    (css/reader.css), Old Magic's star, rosette frieze and glazed brick (old-magic/book.css),
-   Fire to Future's cog and flame and part stripe (scripts/build_fire_to_future.py). If a
-   cover changes, change it here too. */
+   Fire to Future's cog and flame and part stripe (scripts/build_fire_to_future.py), the
+   Old Book of the East's cross-stitch band and emblem (scripts/old_east_stitches.py prints
+   both). If a cover changes, change it here too. */
 .book-cover {
     position: relative;
     isolation: isolate;
@@ -840,6 +841,38 @@ section.band {
     text-shadow: 0 2px 12px rgba(0, 0, 0, .3);
 }
 
+/* The Old Book of the East: madder-red wool between two cross-stitched bands of linen and
+   gold, the "sown field" rhombus (square stitches: the cover's X stitches blur this small) */
+.book-cover-old-east {
+    --bc-madder: #6b1712;
+    --bc-madder-deep: #3f0d0a;
+    padding-block: 1.9rem;
+    background-color: var(--bc-madder);
+    background-image:
+        radial-gradient(ellipse 70% 60% at 50% 40%, rgba(255, 220, 190, .1), transparent 70%),
+        repeating-linear-gradient(45deg, rgba(0, 0, 0, .07) 0 1px, transparent 1px 4px),
+        linear-gradient(180deg, var(--bc-madder) 0%, var(--bc-madder-deep) 100%);
+    color: #f4e9d6;
+    font-family: Cambria, "Noto Serif", "Times New Roman", Times, serif;
+}
+.book-cover-old-east::before,
+.book-cover-old-east::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 19.5px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 13' width='8' height='13' shape-rendering='crispEdges'%3E%3Cpath fill='%23f4e9d6' d='M0 0h1v1h-1zM2 0h1v1h-1zM4 0h1v1h-1zM6 0h1v1h-1zM4 2h1v1h-1zM3 3h1v1h-1zM5 3h1v1h-1zM2 4h1v1h-1zM6 4h1v1h-1zM1 5h1v1h-1zM7 5h1v1h-1zM0 6h1v1h-1zM4 6h1v1h-1zM1 7h1v1h-1zM7 7h1v1h-1zM2 8h1v1h-1zM6 8h1v1h-1zM3 9h1v1h-1zM5 9h1v1h-1zM4 10h1v1h-1zM0 12h1v1h-1zM2 12h1v1h-1zM4 12h1v1h-1zM6 12h1v1h-1z'/%3E%3Cpath fill='%23e2b25c' d='M4 4h1v1h-1zM3 5h1v1h-1zM5 5h1v1h-1zM2 6h1v1h-1zM6 6h1v1h-1zM3 7h1v1h-1zM5 7h1v1h-1zM4 8h1v1h-1z'/%3E%3C/svg%3E") left center / 12px 19.5px repeat-x;
+}
+.book-cover-old-east::before { top: .5rem; }
+.book-cover-old-east::after { bottom: .5rem; }
+.book-cover-old-east .book-cover-emblem .st-r { fill: #f4e9d6; }
+.book-cover-old-east .book-cover-emblem .st-k { fill: #e2b25c; }
+.book-cover-old-east .book-cover-title {
+    font-size: 1.5rem;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, .3);
+}
+
 @media (prefers-color-scheme: dark) {
     .book-cover-novel {
         --bc-glow: #3d2c63;
@@ -849,6 +882,10 @@ section.band {
     .book-cover-old-magic {
         --bc-lapis: #16305c;
         --bc-lapis-deep: #0e2042;
+    }
+    .book-cover-old-east {
+        --bc-madder: #5e140f;
+        --bc-madder-deep: #330b08;
     }
 }
 

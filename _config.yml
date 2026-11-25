@@ -70,6 +70,7 @@ exclude:
   - "translated/*.md"
   - "old-magic/*.md"
   - "old-east/*.md"
+  - "old-stillness/*.md"
 
 # Posts are data for the report grid/modals, not pages. Their URLs only
 # redirect to the report itself (see _layouts/report-redirect.html).

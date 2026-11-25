@@ -720,7 +720,8 @@ section.band {
    (css/reader.css), Old Magic's star, rosette frieze and glazed brick (old-magic/book.css),
    Fire to Future's cog and flame and part stripe (scripts/build_fire_to_future.py), the
    Old Book of the East's cross-stitch band and emblem (scripts/old_east_stitches.py prints
-   both). If a cover changes, change it here too. */
+   both), the Spellbook of Old Stillness's moon over still water (emblem() in
+   scripts/build_old_stillness.py). If a cover changes, change it here too. */
 .book-cover {
     position: relative;
     isolation: isolate;
@@ -873,6 +874,44 @@ section.band {
     text-shadow: 0 2px 12px rgba(0, 0, 0, .3);
 }
 
+/* The Spellbook of Old Stillness: still water at night in deep teal, the moon over it and
+   its reflection as wide as the moon (the emblem of old-stillness/, from emblem() in
+   scripts/build_old_stillness.py), faint level lines on the water */
+.book-cover-old-stillness {
+    --bc-night: #13302e;
+    --bc-night-mid: #0c2120;
+    --bc-night-deep: #071312;
+    background-color: var(--bc-night-mid);
+    background-image:
+        radial-gradient(ellipse 50% 55% at 50% 30%, rgba(241, 229, 196, .12), transparent 70%),
+        linear-gradient(180deg, var(--bc-night) 0%, var(--bc-night-mid) 58%, var(--bc-night-deep) 100%);
+    color: #f4eedd;
+    font-family: Cambria, "Noto Serif", "Times New Roman", Times, serif;
+}
+.book-cover-old-stillness::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    height: 34%;
+    background: repeating-linear-gradient(180deg, rgba(241, 229, 196, .05) 0 1px, transparent 1px 7px);
+    -webkit-mask: linear-gradient(transparent, #000 70%);
+    mask: linear-gradient(transparent, #000 70%);
+}
+.book-cover-old-stillness .book-cover-emblem { width: 5.6rem; height: 4.2rem; }
+.book-cover-old-stillness .em-moon { fill: #f1e5c4; }
+.book-cover-old-stillness .em-halo { fill: none; stroke: #f1e5c4; opacity: .3; }
+.book-cover-old-stillness .em-water { fill: none; stroke: #f1e5c4; stroke-linecap: round; }
+.book-cover-old-stillness .em-r1 { opacity: .7; }
+.book-cover-old-stillness .em-r2 { opacity: .45; }
+.book-cover-old-stillness .em-r3 { opacity: .25; }
+.book-cover-old-stillness .book-cover-title {
+    font-size: 1.45rem;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, .3);
+}
+
 @media (prefers-color-scheme: dark) {
     .book-cover-novel {
         --bc-glow: #3d2c63;
@@ -886,6 +925,11 @@ section.band {
     .book-cover-old-east {
         --bc-madder: #5e140f;
         --bc-madder-deep: #330b08;
+    }
+    .book-cover-old-stillness {
+        --bc-night: #102826;
+        --bc-night-mid: #0a1c1b;
+        --bc-night-deep: #050f0e;
     }
 }
 

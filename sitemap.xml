@@ -52,4 +52,10 @@ layout: null
     <loc>{{ site.url }}/old-east/{{ pg.file }}</loc>
   </url>
   {%- endfor %}
+  {%- comment %} The Spellbook of Old Stillness: likewise, its pages come from scripts/build_old_stillness.py {% endcomment %}
+  {%- for pg in site.data.old_stillness_pages %}
+  <url>
+    <loc>{{ site.url }}/old-stillness/{{ pg.file }}</loc>
+  </url>
+  {%- endfor %}
 </urlset>

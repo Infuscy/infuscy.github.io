@@ -1,0 +1,62 @@
+[
+  {
+    "file": "how-to-read.html",
+    "title": "How to read this book",
+    "kind": "front"
+  },
+  {
+    "file": "before-you-cast.html",
+    "title": "Before you cast",
+    "kind": "front"
+  },
+  {
+    "file": "foundation.html",
+    "title": "The Foundation: the seat",
+    "kind": "front"
+  },
+  {
+    "file": "china.html",
+    "title": "Chapter I · China",
+    "kind": "chapter"
+  },
+  {
+    "file": "japan.html",
+    "title": "Chapter II · Japan",
+    "kind": "chapter"
+  },
+  {
+    "file": "tibet.html",
+    "title": "Chapter III · Tibet",
+    "kind": "chapter"
+  },
+  {
+    "file": "india.html",
+    "title": "Chapter IV · India",
+    "kind": "chapter"
+  },
+  {
+    "file": "greece-and-rome.html",
+    "title": "Chapter V · Greece and Rome",
+    "kind": "chapter"
+  },
+  {
+    "file": "desert-and-the-cloister.html",
+    "title": "Chapter VI · The Desert and the Cloister",
+    "kind": "chapter"
+  },
+  {
+    "file": "sufi-path.html",
+    "title": "Chapter VII · The Sufi Path",
+    "kind": "chapter"
+  },
+  {
+    "file": "counterfeits.html",
+    "title": "Appendix A · Counterfeits",
+    "kind": "back"
+  },
+  {
+    "file": "grimoire-shelf.html",
+    "title": "Appendix B · The Grimoire Shelf",
+    "kind": "back"
+  }
+]

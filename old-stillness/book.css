@@ -1,0 +1,919 @@
+/* The Spellbook of Old Stillness: reader theme of old-stillness/*.html.
+   Hand-written. scripts/build_old_stillness.py writes the pages, never this file.
+
+   The book gathers ways of sitting still from seven traditions, and the theme is the
+   image they keep reaching for: still water at night with the moon in it (the moon disc
+   of the letter A, the kasiṇa's sign "like the moon coming out of cloud", Plotinus's
+   luminous sphere, thoughts "like a picture drawn on water").
+     page     dawn paper              text      teal-black ink
+     labels   gilt small capitals     links     still-water teal
+     ornaments  the moon over the water with its reflection, as wide as the moon; each
+                spell's number sits on a horizon line like the moon; the reading progress
+                is an incense stick burning along the top bar, the old meditation timer
+   The cover is deep teal night water in both themes. Dark mode, which follows the system
+   setting like the rest of the site, is the night sitting itself: the same water, read
+   by moonlight. Every text colour passes WCAG AA (4.5:1) on its background in both
+   themes, and the Caution callouts stay the loudest boxes on the page.
+
+   Type: "Old East Text", self-hosted (font-src 'self', no third-party request) and shared
+   with The Old Book of the East (/old-east/fonts/): a subset of Gentium Book Plus by SIL
+   International under the SIL Open Font License 1.1 (/old-east/fonts/OFL.txt), renamed
+   because the licence reserves the name "Gentium" for unmodified fonts. It has every
+   transliteration letter of this book (ā ṇ ṭ ḥ ẓ ʿ ʾ) and the small capitals of its
+   labels. The CJK of the spell names comes from the system's Ming/Song and Mincho faces. */
+
+@font-face {
+  font-family: "Old East Text";
+  src: url("/old-east/fonts/old-east-text-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Old East Text";
+  src: url("/old-east/fonts/old-east-text-italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Old East Text";
+  src: url("/old-east/fonts/old-east-text-bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Old East Text";
+  src: url("/old-east/fonts/old-east-text-bold-italic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  color-scheme: light dark;
+  --serif: "Old East Text", Cambria, "Noto Serif", Georgia, "Times New Roman", serif;
+  --serif-zh: "Old East Text", "Songti TC", "PMingLiU", "MingLiU", "Noto Serif CJK TC", "Noto Serif TC",
+    "Source Han Serif TC", SimSun, serif;
+  --serif-ja: "Old East Text", "Yu Mincho", YuMincho, "Hiragino Mincho ProN", "Hiragino Mincho Pro",
+    "Noto Serif CJK JP", "Noto Serif JP", "Source Han Serif JP", "MS PMincho", serif;
+  --measure: 38rem;
+  --reader-font-scale: 1;
+
+  --page: #f5f2e9;
+  --panel: #ede8dc;
+  --ink: #1d2826;
+  --ink-strong: #0f1817;
+  --muted: #56625e;
+  --rule: #dcd6c8;
+  --gold: #7a5a14;
+  --teal: #1b5c57;
+  --line: rgba(27, 92, 87, .34);
+  --moon: #b58b2e;
+  --caution: #f8e4d2;
+  --caution-ink: #8a3a0f;
+  --caution-edge: #b8582b;
+  --bar: rgba(245, 242, 233, .92);
+  --shadow: rgba(25, 45, 42, .12);
+  /* the incense stick of the reading progress */
+  --ash: #b9ad94;
+  --ember: #d4691f;
+  --ember-glow: rgba(232, 120, 40, .5);
+  /* the seals: three discs, filled in the metal */
+  --seal-gold: #a5791c;
+  --seal-silver: #7c868d;
+  --seal-bronze: #98532a;
+  --seal-empty: #c9c1af;
+  /* the timeline */
+  --chart-bg: #f9f7f1;
+  --chart-grid: #e6e1d5;
+  --chart-axis: #b8b09e;
+  --chart-bar: #c3d9d3;
+  --chart-dot: #1d2826;
+  --chart-band: rgba(184, 88, 43, .13);
+
+  /* the cover is night water in both themes */
+  --night: #13302e;
+  --night-mid: #0c2120;
+  --night-deep: #071312;
+  --moonlight: #f4eedd;
+  --mist: #c9d6cf;
+  --cover-gold: #dcbc74;
+  --moon-disc: #f1e5c4;
+  --button: #1b5c57;
+  --button-deep: #13453f;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --page: #0e1716;
+    --panel: #152120;
+    --ink: #dde1da;
+    --ink-strong: #f1f0e8;
+    --muted: #9aa6a0;
+    --rule: #263230;
+    --gold: #d8b96f;
+    --teal: #86c9be;
+    --line: rgba(134, 201, 190, .3);
+    --moon: #d9bd78;
+    --caution: #2b1b11;
+    --caution-ink: #f1a774;
+    --caution-edge: #c86c3c;
+    --bar: rgba(14, 23, 22, .9);
+    --shadow: rgba(0, 0, 0, .45);
+    --ash: #56625c;
+    --ember: #f08a3c;
+    --ember-glow: rgba(240, 138, 60, .55);
+    --seal-gold: #d9ae4f;
+    --seal-silver: #b9c2c9;
+    --seal-bronze: #d07f48;
+    --seal-empty: #3b4845;
+    --chart-bg: #111d1c;
+    --chart-grid: #1f2c2a;
+    --chart-axis: #4a5a56;
+    --chart-bar: #22423d;
+    --chart-dot: #ebe9df;
+    --chart-band: rgba(224, 128, 72, .15);
+    --button: #23716a;
+    --button-deep: #1b5a54;
+  }
+}
+
+/* ---------- base ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { font-size: 100%; -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+@media (prefers-reduced-motion: no-preference) {
+  html { scroll-behavior: smooth; }
+  @view-transition { navigation: auto; }
+}
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1rem;
+  line-height: 1.5;
+  font-kerning: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a {
+  color: var(--teal);
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .18em;
+  text-decoration-color: color-mix(in srgb, var(--teal) 45%, transparent);
+}
+a:hover { text-decoration-color: currentColor; }
+a:focus-visible, button:focus-visible, summary:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--teal) 70%, transparent);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -4rem;
+  z-index: 40;
+  padding: .55rem 1rem;
+  border-radius: .4rem;
+  background: var(--ink-strong);
+  color: var(--page);
+  text-decoration: none;
+}
+.skip-link:focus { top: .5rem; }
+/* read aloud, not shown: "Spell", the parentheses around a term, the colons of labels */
+.vh {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+/* the CJK of the spell names, in a Ming/Song or Mincho face */
+:lang(zh-Hant) { font-family: var(--serif-zh); font-style: normal; }
+:lang(ja) { font-family: var(--serif-ja); font-style: normal; }
+
+/* the emblem: the moon over the water and its reflection */
+.em-moon { fill: var(--moon); }
+.em-water { fill: none; stroke: var(--teal); stroke-linecap: round; }
+.em-r1 { opacity: .7; }
+.em-r2 { opacity: .45; }
+.em-r3 { opacity: .25; }
+
+/* ---------- top bar ---------- */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .75rem;
+  min-height: 3rem;
+  padding: .35rem 1.25rem;
+  background: var(--bar);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--rule);
+}
+.topbar-book, .topbar-back {
+  display: inline-flex;
+  align-items: center;
+  gap: .6rem;
+  min-height: 2.25rem;
+  color: var(--ink-strong);
+  font-size: .95rem;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .12em;
+  text-decoration: none;
+}
+.topbar-book:hover span, .topbar-back:hover { text-decoration: underline; text-underline-offset: .25em; }
+.topbar-book .mark { flex: none; width: 1.3rem; height: 1.3rem; }
+.font-controls { display: flex; gap: .35rem; }
+.font-btn {
+  min-width: 2.75rem;
+  min-height: 2.25rem;
+  padding: .25rem .5rem;
+  border: 1px solid var(--rule);
+  border-radius: .45rem;
+  background: transparent;
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: .9rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: background-color .15s, border-color .15s;
+}
+.font-btn:hover { border-color: var(--teal); background: var(--panel); color: var(--ink-strong); }
+/* reading progress: an incense stick burning along the bar, ash behind the ember
+   (scroll-driven, no script) */
+@supports (animation-timeline: scroll()) {
+  .topbar::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -1px;
+    height: 2px;
+    background: linear-gradient(90deg, color-mix(in srgb, var(--ash) 55%, transparent), var(--ash));
+    transform-origin: 0 50%;
+    transform: scaleX(0);
+    animation: os-burn linear both;
+    animation-timeline: scroll(root block);
+  }
+  .topbar::before {
+    content: "";
+    position: absolute;
+    bottom: -3px;
+    left: 3px;
+    width: 6px;
+    height: 6px;
+    margin-left: -3px;
+    border-radius: 50%;
+    background: var(--ember);
+    box-shadow: 0 0 6px 2px var(--ember-glow);
+    animation: os-ember linear both;
+    animation-timeline: scroll(root block);
+  }
+  @keyframes os-burn { to { transform: scaleX(1); } }
+  @keyframes os-ember { to { left: calc(100% - 3px); } }
+  .topbar-cover::before, .topbar-cover::after { display: none; }
+}
+
+/* ---------- the text column ---------- */
+.book-text {
+  max-width: calc(var(--measure) + 2.5rem);
+  margin: 0 auto;
+  padding: 3rem 1.25rem 3.5rem;
+  font-size: calc(1.1875rem * var(--reader-font-scale));
+  line-height: 1.72;
+}
+/* Generic text rules sit inside :where() (no specificity), so every component
+   class below overrides them without !important. */
+:where(.book-text) p { margin: 0 0 1em; text-wrap: pretty; -webkit-hyphens: auto; hyphens: auto; }
+/* no automatic hyphens in foreign terms, labels and headings */
+:where(.book-text) :is(em, h1, h2, h3, [lang]:not([lang="en"])), .rubric, .sp-term, .prov-cap {
+  -webkit-hyphens: manual;
+  hyphens: manual;
+}
+:where(.book-text) strong { font-weight: 700; }
+
+.chapter-head { margin: .5rem 0 2.5rem; text-align: center; }
+.kicker {
+  margin: 0 0 .55rem;
+  font-size: .88em;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .22em;
+  color: var(--gold);
+}
+.chapter-head h1 {
+  margin: 0;
+  font-size: 2.45em;
+  font-weight: 400;
+  line-height: 1.1;
+  letter-spacing: -.005em;
+  color: var(--ink-strong);
+  text-wrap: balance;
+}
+.h1-gloss {
+  display: block;
+  margin-top: .45rem;
+  font-size: .5em;
+  font-style: italic;
+  line-height: 1.35;
+  letter-spacing: 0;
+  color: var(--muted);
+}
+.chapter-span { margin: .85rem 0 0 !important; font-size: .86em; letter-spacing: .02em; color: var(--muted); }
+.ornament { width: 4.4rem; margin: 1.5rem auto 0; }
+.ornament svg { display: block; width: 100%; height: auto; }
+/* a chapter's own lane of the timeline, linked to the whole of it */
+.lane-strip { display: block; max-width: 30rem; margin: 1.05rem auto 0; padding: .35rem .2rem; border-radius: .4rem; }
+.lane-strip:hover { background: color-mix(in srgb, var(--panel) 60%, transparent); }
+.lane-svg { display: block; width: 100%; height: auto; overflow: visible; }
+.lane-svg .g-dot { stroke: var(--page); }
+.lane-strip:hover .g-dot { stroke: color-mix(in srgb, var(--panel) 60%, var(--page)); }
+
+/* the opening paragraph: its first line in small capitals */
+.lede { font-size: 1.07em; line-height: 1.7; }
+.lede::first-line { font-variant-caps: small-caps; letter-spacing: .025em; }
+
+/* "In this chapter" / "On this page" */
+.in-book {
+  margin: 2.2rem 0 .5rem;
+  padding: 1rem 1.25rem 1.05rem;
+  border: 1px solid var(--rule);
+  border-radius: .7rem;
+  background: color-mix(in srgb, var(--panel) 55%, transparent);
+  font-size: .9em;
+  line-height: 1.4;
+}
+.in-book-cap {
+  margin: 0 0 .55rem !important;
+  font-size: .95em;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .18em;
+  color: var(--gold);
+}
+.in-book ol { margin: 0; padding: 0; list-style: none; }
+.in-book li { margin: 0; padding: 0; }
+.in-book a, .toc-entries a {
+  display: grid;
+  grid-template-columns: 2.3rem minmax(0, 1fr) auto;
+  column-gap: .5rem;
+  align-items: baseline;
+  padding: .34rem 0;
+  color: var(--ink-strong);
+  text-decoration: none;
+}
+.in-page a { display: block; color: var(--teal); }
+.in-page a:hover { text-decoration: underline; text-underline-offset: .18em; }
+.in-book a:hover .toc-name, .toc-entries a:hover .toc-name {
+  color: var(--teal);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .18em;
+}
+.toc-n { grid-column: 1; text-align: right; color: var(--teal); }
+.toc-lock { align-self: center; color: var(--gold); }
+.toc-lock .lock-icon { display: block; width: 1.05em; height: 1.05em; margin-left: auto; }
+.toc-name { grid-column: 2; }
+.toc-term { grid-column: 2; font-size: .88em; line-height: 1.35; color: var(--muted); }
+.toc-seal { grid-column: 3; grid-row: 1; align-self: center; }
+.toc-seal .gauge { margin: 0; }
+
+/* ---------- spells ---------- */
+.spell { margin-top: 4.4rem; }
+.spell > h2 {
+  margin: 0 0 1.35rem;
+  font-size: 1.62em;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: -.005em;
+  text-align: center;
+  color: var(--ink-strong);
+  text-wrap: balance;
+  scroll-margin-top: 4.5rem;
+}
+/* the number: a moon on the horizon */
+.sp-num {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 0 0 1rem;
+  font-size: .5em;
+  line-height: 1;
+  color: var(--ink-strong);
+}
+.sp-num::before, .sp-num::after { content: ""; flex: 1 1 0; height: 1px; }
+.sp-num::before { background: linear-gradient(90deg, transparent, var(--line)); }
+.sp-num::after { background: linear-gradient(90deg, var(--line), transparent); }
+.sp-disc {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 2.6em;
+  height: 2.6em;
+  border: 1.5px solid var(--moon);
+  border-radius: 50%;
+  background: radial-gradient(circle, color-mix(in srgb, var(--moon) 16%, transparent) 0 55%, transparent 72%);
+  font-size: 1.15em;
+  letter-spacing: 0;
+}
+.sp-lock { color: var(--gold); }
+.sp-lock .lock-icon { flex: none; width: 2.3em; height: 2.3em; }
+.sp-name { display: block; }
+.sp-term { display: block; margin-top: .45rem; font-size: .58em; line-height: 1.35; letter-spacing: 0; color: var(--muted); }
+.sp-term em { color: var(--ink); }
+.sp-term [lang] { margin-left: .1em; letter-spacing: .06em; color: var(--ink); }
+
+/* the provenance label: source and seal */
+.provenance {
+  margin: 0 0 1.5rem;
+  padding: .8rem 1.15rem .85rem;
+  border: 1px solid var(--rule);
+  border-radius: .6rem;
+  background: color-mix(in srgb, var(--panel) 50%, transparent);
+  font-size: .88em;
+  line-height: 1.55;
+}
+.prov-row { display: grid; grid-template-columns: 4.9em minmax(0, 1fr); column-gap: .6rem; margin: 0 !important; }
+.prov-row + .prov-row { margin-top: .45rem !important; padding-top: .45rem; border-top: 1px dashed var(--rule); }
+.prov-cap { font-variant-caps: all-small-caps; letter-spacing: .14em; color: var(--gold); }
+.metal { font-variant-caps: all-small-caps; letter-spacing: .07em; white-space: nowrap; color: var(--ink-strong); }
+.metal-gold { --seal: var(--seal-gold); }
+.metal-silver { --seal: var(--seal-silver); }
+.metal-bronze { --seal: var(--seal-bronze); }
+/* the gauge: Gold fills three discs, Silver two, Bronze one */
+.gauge { display: inline-flex; align-items: center; gap: .2em; margin-right: .45em; vertical-align: .04em; }
+.gauge i {
+  display: block;
+  width: .64em;
+  height: .64em;
+  border: 1.5px solid var(--seal-empty);
+  border-radius: 50%;
+}
+.gauge i.on {
+  border-color: var(--seal);
+  background: radial-gradient(circle at 34% 30%, color-mix(in srgb, var(--seal) 45%, #fff), var(--seal) 62%);
+}
+
+/* the casting */
+.casting-head {
+  margin: 1.9rem 0 .8rem;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.4;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .16em;
+  color: var(--gold);
+}
+.casting-note { font-variant-caps: normal; letter-spacing: 0; font-style: italic; color: var(--muted); }
+.casting-note em { font-style: normal; }
+/* the steps, numbered in small rings */
+:where(.book-text) .steps { margin: 0 0 1.5em; padding: 0; list-style: none; counter-reset: step; }
+.steps > li { position: relative; margin: 0 0 .75em; padding-left: 2.6rem; counter-increment: step; }
+.steps > li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: .1em;
+  display: grid;
+  place-items: center;
+  width: 1.7rem;
+  height: 1.7rem;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  font-size: .8em;
+  line-height: 1;
+  color: var(--teal);
+}
+.step-lead { color: var(--ink-strong); }
+:where(.book-text) .steps ul { margin: .45em 0 .2em; padding-left: 1.15em; }
+
+/* "Promised effect": the tradition's claim, reported */
+.effect { margin: 1.6rem 0; padding: .15rem 0 .15rem 1.15rem; border-left: 2px solid var(--moon); }
+.effect p { margin: 0; }
+.effect-cap, .note-cap {
+  margin-right: .15em;
+  font-weight: 400;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .12em;
+  color: var(--gold);
+}
+.note { margin: 1.3rem 0 0; font-size: .9em; line-height: 1.62; }
+
+/* "Caution" and the plain rules: the loudest boxes on the page */
+.caution {
+  display: grid;
+  grid-template-columns: 1.55rem minmax(0, 1fr);
+  gap: .85rem;
+  align-items: start;
+  margin: 1.6rem 0;
+  padding: .95rem 1.15rem;
+  border-left: 4px solid var(--caution-edge);
+  border-radius: 0 .7rem .7rem 0;
+  background: var(--caution);
+  font-size: .94em;
+  line-height: 1.6;
+}
+.caution p { margin: 0; }
+.caution-icon { width: 1.55rem; height: 1.55rem; margin-top: .05rem; color: var(--caution-ink); }
+.caution-cap { color: var(--caution-ink); }
+.caution-rules { margin: 2.4rem 0 1.6rem; padding: 1.1rem 1.3rem 1.15rem; }
+.caution-head {
+  margin: 0 0 .45rem;
+  font-size: 1.12em;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--caution-ink);
+  scroll-margin-top: 4.5rem;
+}
+:where(.book-text) .caution-rules ul { margin: 0; padding-left: 1.15em; }
+.caution-rules li::marker { color: var(--caution-ink); }
+
+/* the locked spells: named, not taught */
+.spell-locked > h2 .sp-name { color: var(--ink-strong); }
+.spell-locked .table-wrap td:first-child { font-weight: 700; }
+
+/* ---------- front and back matter ---------- */
+.sub-head {
+  margin: 2.7rem 0 .8rem;
+  font-size: 1.3em;
+  font-weight: 400;
+  line-height: 1.3;
+  color: var(--ink-strong);
+  scroll-margin-top: 4.5rem;
+}
+.rubric {
+  font-weight: 400;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .1em;
+  color: var(--gold);
+}
+.sources-line { font-size: .88em; color: var(--muted); }
+
+/* lists */
+:where(.book-text) :is(ul, ol) { margin: 0 0 1.2em; padding-left: 1.5em; }
+:where(.book-text) li { margin: .45em 0; padding-left: .25em; }
+:where(.book-text) ul > li::marker { color: var(--moon); }
+
+/* tables */
+.table-wrap { margin: 1.5rem 0 1.9rem; overflow-x: auto; }
+.table-wrap table { width: 100%; border-collapse: collapse; font-size: .84em; line-height: 1.5; }
+.table-wrap th {
+  padding: .55rem .7rem;
+  border-bottom: 2px solid var(--line);
+  font-size: 1.02em;
+  font-weight: 400;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .1em;
+  text-align: left;
+  vertical-align: bottom;
+  color: var(--gold);
+}
+.table-wrap th em { font-variant-caps: normal; letter-spacing: 0; }
+.table-wrap td { padding: .6rem .7rem; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.table-wrap tbody tr:nth-child(even) { background: color-mix(in srgb, var(--panel) 50%, transparent); }
+.table-wrap td:first-child { color: var(--ink-strong); }
+table.manuals td:first-child, table.seals td:first-child, table.counterfeits td:first-child { font-weight: 700; }
+table.manuals td:first-child { white-space: nowrap; }
+table.seals td:first-child { white-space: nowrap; }
+table.seals .metal { font-variant-caps: normal; letter-spacing: 0; }
+table.shelf td:first-child { white-space: nowrap; }
+/* the manuals' headers are titles: set as text, not small capitals */
+table.manuals th { font-size: .96em; font-variant-caps: normal; letter-spacing: 0; line-height: 1.35; }
+table.counterfeits :is(th, td):nth-child(3) { min-width: 9.5rem; }
+/* the three manuals and the counterfeits widen past the text on large screens */
+@media (min-width: 64rem) {
+  .table-wide {
+    --wide: min(60rem, calc(100vw - 4rem));
+    margin-left: calc(50% - var(--wide) / 2);
+    margin-right: calc(50% - var(--wide) / 2);
+  }
+  .table-wide table { font-size: .82em; }
+}
+
+/* ---------- "At a glance": the timeline ---------- */
+.glance {
+  margin: 1.4rem 0 2.2rem;
+  padding: 1.15rem 1.25rem 1rem;
+  border: 1px solid var(--rule);
+  border-radius: .8rem;
+  background: var(--chart-bg);
+}
+@media (min-width: 64rem) {
+  .glance {
+    --wide: min(46rem, calc(100vw - 4rem));
+    margin-left: calc(50% - var(--wide) / 2);
+    margin-right: calc(50% - var(--wide) / 2);
+  }
+}
+.glance-title { margin: 0 0 .2rem !important; font-size: 1.02em; font-weight: 700; line-height: 1.35; color: var(--ink-strong); }
+.glance-sub { margin: 0 0 .7rem !important; font-size: .84em; line-height: 1.45; color: var(--muted); }
+.glance-svg { display: block; width: 100%; height: auto; overflow: visible; font-family: var(--serif); }
+.glance-narrow { display: none; }
+@media (max-width: 40rem) {
+  .glance-wide { display: none; }
+  .glance-narrow { display: block; }
+}
+.g-band { fill: var(--chart-band); }
+.g-grid { stroke: var(--chart-grid); stroke-width: 1; }
+.g-axis { stroke: var(--chart-axis); stroke-width: 1.25; }
+.g-tick { fill: var(--muted); }
+.g-cut { stroke: var(--gold); stroke-width: 1.5; stroke-dasharray: 5 4; }
+.g-lane { fill: var(--ink-strong); }
+.g-range { fill: var(--muted); }
+.g-bar { fill: var(--chart-bar); }
+.g-dot { fill: var(--chart-dot); stroke: var(--chart-bg); stroke-width: 2; }
+.g-note { fill: var(--ink); }
+/* the lane names link to their chapters, the strip's note to Appendix A */
+.glance-svg a { text-decoration: none; }
+.glance-svg a:hover text, .glance-svg a:focus-visible text {
+  fill: var(--teal);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+}
+.glance figcaption { margin: .8rem 0 0; font-size: .86em; line-height: 1.55; color: var(--muted); }
+.glance-data { margin-top: .75rem; font-size: .86em; }
+.glance-data summary {
+  width: fit-content;
+  cursor: pointer;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .1em;
+  color: var(--teal);
+}
+.glance-data .table-wrap { margin: .5rem 0 0; }
+.glance-data table { font-size: 1em; }
+
+/* epigraph (the cover) */
+.epigraph { max-width: 30rem; margin: 0 auto 2.4rem; text-align: center; }
+.epigraph blockquote { margin: 0; }
+.epigraph blockquote p {
+  margin: 0;
+  font-size: 1.32em;
+  font-style: italic;
+  line-height: 1.45;
+  color: var(--ink-strong);
+  -webkit-hyphens: manual;
+  hyphens: manual;
+}
+.epigraph figcaption { margin-top: .75rem; font-size: .84em; line-height: 1.5; color: var(--muted); text-wrap: balance; }
+.epigraph figcaption::before { content: "\2014\00a0"; }
+
+/* ---------- previous / next, footer ---------- */
+.pager {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: stretch;
+  gap: 1rem 1.25rem;
+  max-width: calc(var(--measure) + 2.5rem);
+  margin: 0 auto;
+  padding: 1.75rem 1.25rem 2rem;
+  border-top: 1px solid var(--rule);
+}
+.pager a { text-decoration: none; }
+.pager-prev, .pager-next {
+  display: block;
+  padding: .7rem .95rem;
+  border: 1px solid var(--rule);
+  border-radius: .75rem;
+  transition: border-color .15s, background-color .15s;
+}
+.pager-prev:hover, .pager-next:hover { border-color: var(--teal); background: color-mix(in srgb, var(--panel) 70%, transparent); }
+.pager-next { text-align: right; }
+.pager-dir { display: block; font-size: .85rem; font-variant-caps: all-small-caps; letter-spacing: .16em; color: var(--gold); }
+.pager-title { display: block; margin-top: .15rem; font-size: 1rem; line-height: 1.3; color: var(--teal); }
+.pager-toc { align-self: center; font-size: .92rem; font-variant-caps: all-small-caps; letter-spacing: .16em; color: var(--muted); }
+.pager-toc:hover { color: var(--teal); }
+.pager-empty { visibility: hidden; }
+
+.book-foot {
+  max-width: calc(var(--measure) + 2.5rem);
+  margin: 0 auto;
+  padding: .5rem 1.25rem 3rem;
+  text-align: center;
+  font-size: .82rem;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.book-foot a { color: var(--muted); }
+.book-foot a:hover { color: var(--teal); }
+.foot-note { margin: 0 auto .7rem; max-width: 34rem; }
+.foot-note strong { color: var(--ink); }
+.foot-links { margin: 0; letter-spacing: .04em; }
+
+/* ---------- cover ---------- */
+.topbar-cover {
+  position: relative;
+  border-bottom: 0;
+  background: var(--night);
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+}
+.topbar-cover .topbar-back { color: var(--moonlight); }
+.cover {
+  position: relative;
+  padding: 3.2rem 1.25rem 4.8rem;
+  overflow: hidden;
+  background-color: var(--night-mid);
+  background-image:
+    radial-gradient(ellipse 60% 46% at 50% 24%, rgba(241, 229, 196, .1), transparent 70%),
+    linear-gradient(180deg, var(--night) 0%, var(--night-mid) 58%, var(--night-deep) 100%);
+  color: var(--moonlight);
+  text-align: center;
+}
+/* still water: faint level lines in the lower part of the cover */
+.cover::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 36%;
+  background: repeating-linear-gradient(180deg, rgba(241, 229, 196, .045) 0 1px, transparent 1px 10px);
+  -webkit-mask: linear-gradient(transparent, #000 70%);
+  mask: linear-gradient(transparent, #000 70%);
+  pointer-events: none;
+}
+.cover-inner { position: relative; z-index: 1; max-width: 40rem; margin: 0 auto; }
+.cover-emblem { display: block; width: 13.5rem; height: auto; margin: 0 auto 1rem; overflow: visible; }
+.cover-emblem .em-moon { fill: var(--moon-disc); }
+.cover-emblem .em-halo { fill: none; stroke: var(--moon-disc); opacity: .3; }
+.cover-emblem .em-water { stroke: var(--moon-disc); }
+.cover h1 {
+  margin: 0;
+  font-size: clamp(2.5rem, 7.5vw, 4.25rem);
+  font-weight: 400;
+  line-height: 1.06;
+  letter-spacing: .005em;
+  color: var(--moonlight);
+  text-wrap: balance;
+  text-shadow: 0 2px 16px rgba(0, 0, 0, .35);
+}
+.cover-sub {
+  max-width: 30rem;
+  margin: 1.15rem auto 0;
+  font-size: 1.15rem;
+  font-style: italic;
+  line-height: 1.5;
+  color: var(--mist);
+  text-wrap: balance;
+}
+.cover-sub2 { max-width: 33rem; margin: .6rem auto 0; font-size: 1rem; line-height: 1.55; color: var(--mist); text-wrap: balance; }
+.cover-byline { margin: 1.6rem 0 0; font-size: .95rem; font-variant-caps: all-small-caps; letter-spacing: .2em; color: var(--cover-gold); }
+.cover-byline span { white-space: nowrap; }
+
+.cover-main { padding-top: 3rem; }
+.cover-blurb { font-size: 1.05em; }
+.cover-actions { margin: 1.8rem 0 1rem; text-align: center; }
+.btn-begin {
+  display: inline-block;
+  padding: .75rem 1.8rem;
+  border-radius: 999px;
+  background: var(--button);
+  box-shadow: inset 0 0 0 1px rgba(220, 188, 116, .45), 0 2px 8px -2px var(--shadow);
+  color: var(--moonlight);
+  font-size: 1.05rem;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .14em;
+  text-decoration: none;
+  transition: background-color .15s;
+}
+.btn-begin:hover { background: var(--button-deep); }
+.cover-facts { text-align: center; font-size: .82em; letter-spacing: .03em; color: var(--muted); }
+.cover-note {
+  margin: 1.5rem 0 0;
+  padding: .85rem 1.1rem;
+  border: 1px solid var(--rule);
+  border-radius: .75rem;
+  font-size: .8em;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.cover-note strong { color: var(--ink); }
+.contents-title {
+  margin: 3.2rem 0 .3rem;
+  font-size: 1.55em;
+  font-weight: 400;
+  text-align: center;
+  color: var(--ink-strong);
+}
+.contents-title::after {
+  content: "";
+  display: block;
+  width: 3.2rem;
+  height: 1px;
+  margin: .9rem auto 0;
+  background: var(--line);
+}
+.toc-group {
+  margin: 2.3rem 0 .45rem;
+  font-size: .95em;
+  font-weight: 400;
+  font-variant-caps: all-small-caps;
+  letter-spacing: .2em;
+  color: var(--gold);
+}
+.toc { margin: 0; padding: 0; list-style: none; }
+.toc > li { margin: 0; padding: .85rem 0 .95rem; border-top: 1px solid var(--rule); }
+.toc-row {
+  display: grid;
+  grid-template-columns: 2.6rem minmax(0, 1fr) auto;
+  align-items: baseline;
+  column-gap: .8rem;
+  color: var(--ink-strong);
+  text-decoration: none;
+}
+.toc-row:hover .toc-title { color: var(--teal); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: .18em; }
+.toc-num { font-size: .95em; font-variant-caps: all-small-caps; letter-spacing: .06em; text-align: right; color: var(--gold); }
+.toc-title { font-size: 1.2em; line-height: 1.3; }
+.toc-time { font-size: .76em; white-space: nowrap; color: var(--muted); }
+.toc-sections { margin: .35rem 0 0 3.4rem !important; font-size: .84em; line-height: 1.65; color: var(--muted); -webkit-hyphens: manual; hyphens: manual; }
+.toc-sections a { text-decoration: none; }
+.toc-sections a:hover { text-decoration: underline; }
+.toc-sections .sep { margin: 0 .15em; color: var(--moon); }
+.toc-entries { margin: .45rem 0 0 3.4rem; padding: 0; list-style: none; font-size: .86em; line-height: 1.4; }
+.toc-entries li { margin: 0; padding: 0; }
+.toc-entries a { grid-template-columns: 2.2rem minmax(0, 1fr) auto; padding: .26rem 0; color: var(--ink); }
+
+/* ---------- phones ---------- */
+@media (max-width: 36rem) {
+  .topbar { padding: .3rem 1rem; }
+  .topbar-book, .topbar-back { font-size: .85rem; letter-spacing: .08em; }
+  .book-text { padding: 2rem 1rem 2.5rem; font-size: calc(1.0625rem * var(--reader-font-scale)); line-height: 1.66; }
+  .chapter-head h1 { font-size: 2.05em; }
+  .spell > h2 { font-size: 1.45em; }
+  .in-book { padding: .9rem 1rem 1rem; }
+  .in-book a { grid-template-columns: 2rem minmax(0, 1fr) auto; column-gap: .4rem; }
+  .provenance { padding: .75rem .9rem .8rem; }
+  .prov-row { grid-template-columns: 1fr; }
+  .prov-cap { line-height: 1.3; }
+  .steps > li { padding-left: 2.35rem; }
+  .caution { grid-template-columns: 1.3rem minmax(0, 1fr); gap: .65rem; padding: .85rem .95rem; }
+  .caution-icon { width: 1.3rem; height: 1.3rem; }
+  .glance { margin-left: -.35rem; margin-right: -.35rem; padding: .95rem .8rem .85rem; }
+  .pager { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); padding: 1.5rem 1rem 1.75rem; }
+  .pager-toc { grid-column: 1 / -1; grid-row: 2; text-align: center; }
+  .book-foot { padding: .25rem 1rem 2.5rem; }
+  .cover { padding: 2.6rem 1rem 4rem; }
+  .cover-emblem { width: 10.5rem; }
+  .cover-byline .by-sep { display: none; }
+  .cover-byline span:not(.by-sep) { display: block; }
+  .cover-sub { font-size: 1.05rem; }
+  .toc-row { grid-template-columns: 2rem minmax(0, 1fr) auto; column-gap: .6rem; }
+  .toc-sections, .toc-entries { margin-left: 2.6rem !important; }
+  .toc-entries a { grid-template-columns: 1.9rem minmax(0, 1fr) auto; }
+}
+/* small phones: the top bar keeps "Old Stillness" on one line (the link's name stays whole) */
+@media (max-width: 28rem) {
+  .tb-pre { display: none; }
+}
+/* tables stack into cards on narrow screens */
+@media (max-width: 40rem) {
+  .table-wrap :is(table, tbody, tr, td) { display: block; width: auto; }
+  .table-wrap thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+  .table-wrap tr { padding: .7rem .15rem .8rem; border-bottom: 1px solid var(--line); }
+  .table-wrap tbody tr:nth-child(even) { background: none; }
+  .table-wrap td { padding: .1rem 0; border: 0; }
+  .table-wrap td:first-child { font-size: 1.08em; white-space: normal; }
+  .table-wrap td:not(:first-child)::before {
+    content: attr(data-label);
+    display: block;
+    margin-top: .45rem;
+    font-size: .95em;
+    font-variant-caps: all-small-caps;
+    letter-spacing: .12em;
+    color: var(--gold);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: .01ms !important; scroll-behavior: auto !important; }
+}
+
+@media print {
+  :root {
+    --page: #fff; --ink: #000; --ink-strong: #000; --muted: #444; --rule: #bbb;
+    --panel: #fff; --teal: #000; --caution: #fff; --chart-bg: #fff;
+  }
+  .topbar, .skip-link, .pager, .in-book, .cover-actions, .lane-strip, .glance-data { display: none !important; }
+  .book-text { max-width: none; padding: 0; font-size: 11.5pt; }
+  .caution, .provenance, .glance { box-shadow: none; break-inside: avoid; }
+  .glance, .table-wide { margin-left: 0; margin-right: 0; }
+  .cover { padding: 2rem 0; background: none; color: #000; }
+  .cover::after { display: none; }
+  .cover h1, .cover-sub, .cover-sub2, .cover-byline { color: #000; text-shadow: none; }
+  .cover-emblem .em-moon { fill: #000; }
+  .cover-emblem .em-water, .cover-emblem .em-halo { stroke: #000; }
+}
